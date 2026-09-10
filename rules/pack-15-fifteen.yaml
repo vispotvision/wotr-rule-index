@@ -1,0 +1,208 @@
+# WORKED EXAMPLE. Extracted by hand as a schema demonstration.
+# Not complete: Pack Fifteen §1 contains seven repeals and five survivals and
+# only a sample of each is here. Finish this file in Phase 1 along with the rest.
+pack: Pack Fifteen
+pack_number: 15
+source_file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+ratified: "ruled by Isaac in session, 6 September 2026"
+rules:
+
+  - id: R15-1-LICENCE
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: The modern-language licence
+    status: live
+    kind: mandate
+    summary: >-
+      Modern words, concepts and frames are legal in every channel of the prose,
+      including narration and in-world documents.
+    verbatim: >-
+      Modern words, modern concepts, and modern ideas are prose-legal everywhere:
+      narration, dialogue, documents, thought.
+    amends:
+      - guide: WOTR_Master_Style_Directive.md
+        locus: "§8"
+        operation: strikes
+    supersedes: []
+    applies_to: [prose-law, register, dialogue, documents]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "11-13"
+    notes: null
+
+  - id: R15-1-DICTION_PALETTE
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Diction Palette repealed as a rationed resource
+    status: live
+    kind: repeal
+    summary: >-
+      The one-or-two-elevated-words-per-scene cap is gone; the word bank remains
+      available.
+    verbatim: >-
+      The Diction Palette as a rationed resource. Vocabulary.docx stays as a word
+      bank. The one-or-two-per-scene cap is gone.
+    amends:
+      - guide: WOTR_Master_Style_Directive.md
+        locus: "§8"
+        operation: strikes
+    supersedes: []
+    applies_to: [prose-law, register]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "17"
+    notes: >-
+      Target rule ID in Pack Five or the Style Directive not yet extracted. Fill
+      supersedes when Phase 2 reaches it.
+
+  - id: R15-1-REGISTER_BY_CULTURE
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Register by culture in narration repealed
+    status: live
+    kind: repeal
+    summary: >-
+      Per-culture narration registers become optional flavour rather than law.
+    verbatim: >-
+      Register by culture in narration (Pack Five): Dawi POV as stressed
+      monosyllables, Eresse POV as latinate subordination, and the rest.
+      Available as flavour. Not law.
+    amends:
+      - guide: WOTR_Companion_Guide_Amendments_Pack_Five.md
+        locus: "register by culture"
+        operation: strikes
+    supersedes: []
+    applies_to: [register, pov, prose-law]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "18"
+    notes: >-
+      supersedes should point at the Pack Five register-by-culture row once
+      Phase 2 extracts it.
+
+  - id: R15-1-VOICE_DIFFERENTIATION
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Voice differentiation survives
+    status: live
+    kind: mandate
+    summary: >-
+      Characters must remain non-interchangeable, but through what they notice,
+      want and refuse rather than through vocabulary fences.
+    verbatim: >-
+      Voice differentiation. If two characters' lines could be swapped and nobody
+      noticed, the scene has still failed.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, prose-law, register]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "26"
+    notes: null
+
+  - id: R15-2-ONE_TEST
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§2"
+    title: The one test for a word
+    status: live
+    kind: procedure
+    summary: >-
+      A word is flagged only if it punctures belief in the world, and the flag
+      goes in author notes with the draft left untouched.
+    verbatim: >-
+      Does the word break a reader's belief in the world? That is the only
+      question, and the reader decides, not the rulebook.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law, verification]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "37"
+    notes: null
+
+  - id: R15-2-NO_REGISTER_EDIT
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§2"
+    title: No register fixing in edit passes
+    status: live
+    kind: ban
+    summary: >-
+      Register is never corrected during editing and alternate less-modern
+      phrasings are never offered.
+    verbatim: >-
+      Natalie never "fixes" register in an edit pass. Never proposes three
+      versions of a sentence to move it further from modern English.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "39"
+    notes: null
+
+  - id: R15-4-PACK_NINE_CLASS_MARKING
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: Class-marking by vocabulary demoted
+    status: live
+    kind: consequential_edit
+    summary: >-
+      Pack Nine's requirement that class show in vocabulary becomes optional.
+    verbatim: >-
+      Pack Nine. Class-marking by vocabulary demoted from requirement to option.
+    amends:
+      - guide: WOTR_Companion_Guide_Amendments_Pack_Nine.md
+        locus: class-marking
+        operation: demotes
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "62"
+    notes: >-
+      Populate supersedes with the Pack Nine rule ID in Phase 2.
+
+  - id: R15-A
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§5"
+    title: Latin chant rule, keep or fold
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether chant-based magic keeps its grammatical-Latin requirement or falls
+      under the register repeal.
+    verbatim: >-
+      Latin chant rule: keep, or fold into the repeal.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design, register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "70"
+    notes: >-
+      Pack offers no recommendation on this one. Blocking any chant-based
+      technique written before it is ruled.

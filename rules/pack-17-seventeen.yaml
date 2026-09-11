@@ -1,0 +1,532 @@
+# Pack Seventeen: Status: originated, pending Isaac's ratification (source
+# lines 5-6). No section marked confirmed, so every row is status: proposed.
+pack: Pack Seventeen
+pack_number: 17
+source_file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+ratified: null
+rules:
+
+  - id: R17-2-FOUR_ELEMENTS
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§2"
+    title: Every entry states the four mechanism elements
+    status: proposed
+    kind: mandate
+    summary: >-
+      Every technique entry's Effect line (or immediately under it) must
+      name the quantity acted on, the governing law, the operation performed
+      on the quantity, and the causal chain from trigger to outcome; missing
+      any one makes the entry unfinished and not canon.
+    verbatim: >-
+      Every entry states how the thing works. Four elements, all four
+      required, in the Effect line or immediately under it. An entry missing
+      any one of them is not finished and is not canon.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "25-27"
+    notes: null
+
+  - id: R17-2-THE_TEST
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§2"
+    title: The it-does-X-to-Y sentence test
+    status: proposed
+    kind: procedure
+    summary: >-
+      A technique must be statable as "it does X to Y, which under Z
+      produces W"; if that sentence cannot be written, the technique is not
+      designed regardless of the prose around it.
+    verbatim: >-
+      State the working as: it does X to Y, which under Z produces W. If
+      that sentence cannot be written, the technique is not designed and no
+      amount of prose will hide it.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "34"
+    notes: null
+
+  - id: R17-3-SIX_LINE_CARD
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: The five-line card is replaced by a six-line card, mechanism first
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      The technique card format becomes six ordered lines — Operation,
+      Manifestation, Cost, Limit, Counter, What nobody knows — with the
+      Operation (mechanism) line first because every other line derives from
+      it, plus a small Codex-assignment line at the foot.
+    verbatim: >-
+      The five-line page format is replaced by six lines. Order matters: the
+      mechanism comes first, because everything below it is derived from it.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: replaces
+    supersedes: []
+    applies_to: [magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "40"
+    notes: >-
+      The five-line predecessor format is not identified by pack/section
+      anywhere in this pack's text, so no supersedes link is set. If a
+      specific earlier-pack definition of the five-line card surfaces during
+      Phase 1/2, backfill supersedes then.
+
+  - id: R17-3-COST_DERIVED
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: Cost must derive from the Operation
+    status: proposed
+    kind: mandate
+    summary: >-
+      The Cost line must be derived from the Operation line; a cost that
+      could be swapped for a different cost without changing the mechanism
+      is decoration.
+    verbatim: >-
+      Cost. What it does to the body and what remains after. Derived from
+      the Operation. If the cost could be swapped for a different cost
+      without changing the mechanism, it is decoration.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "44"
+    notes: null
+
+  - id: R17-3-LIMIT_MECHANICAL
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: A Limit must have a mechanical source
+    status: proposed
+    kind: mandate
+    summary: >-
+      The Limit line must state why the mechanism forbids the thing it
+      forbids; a limit with no mechanical source is a rule the author
+      imposed rather than a derived limit.
+    verbatim: >-
+      Limit. What it structurally cannot do, and why the mechanism forbids
+      it. A limit with no mechanical source is a rule the author imposed.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "45"
+    notes: null
+
+  - id: R17-3-COUNTER_MANDATORY
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: Counter is mandatory on Signature techniques and must derive
+    status: proposed
+    kind: mandate
+    summary: >-
+      A Counter is mandatory on Signature techniques and must fall out of
+      the Operation line; a counter that is just "hit him harder" means the
+      technique has no mechanism.
+    verbatim: >-
+      Counter. Mandatory on Signature techniques. It falls out of the
+      Operation or it is not a counter. If the counter is hit him harder,
+      the technique has no mechanism.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "46"
+    notes: null
+
+  - id: R17-3-WHAT_NOBODY_KNOWS_SCOPE
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: What nobody knows is constrained to origin, not mechanism
+    status: proposed
+    kind: definition
+    summary: >-
+      The one-line-per-art "What nobody knows" field must be a question
+      about why the law holds, never about what the working does; mechanism
+      belongs on the page, origin does not.
+    verbatim: >-
+      What nobody knows. One line per art. Now constrained: it must be a
+      question about why the law holds, never about what the working does.
+      Mechanism is on the page. Origin is not.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "47"
+    notes: null
+
+  - id: R17-3-CODEX_LINE_ORDER
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§3"
+    title: Codex assignment is made after the phenomenon, never before
+    status: proposed
+    kind: procedure
+    summary: >-
+      The Codex line (glyphs / Wellspring / Family / Physics Domain /
+      Category / Stage) is assigned after the phenomenon is designed, never
+      before.
+    verbatim: >-
+      Codex assignment remains one small line at the foot: Codex: [glyphs] /
+      Wellspring / Family / Physics Domain / Category / Stage. Assigned
+      after the phenomenon, never before.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "49"
+    notes: null
+
+  - id: R17-4-OUTPUTS_NOT_INPUTS
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§4"
+    title: Cost, Limit and Counter are outputs, not inputs
+    status: proposed
+    kind: mandate
+    summary: >-
+      Cost, Limit and Counter must be read off the mechanism once it exists
+      rather than chosen for drama or convenience.
+    verbatim: >-
+      Cost, Limit and Counter are outputs, not inputs.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "55"
+    notes: null
+
+  - id: R17-4-READ_OFF_MECHANISM
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§4"
+    title: Design order adds a derivation step after the mechanism
+    status: proposed
+    kind: procedure
+    summary: >-
+      Design order stays what refuses/survived/costs-belief, then
+      phenomenon, then mechanism, then Codex, unchanged from the sixth
+      edition; Pack Seventeen adds that once the mechanism exists, cost,
+      limit and counter are derived from it rather than chosen.
+    verbatim: >-
+      once the mechanism exists, the cost, the limit and the counter are
+      read off it rather than chosen.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "57"
+    notes: null
+
+  - id: R17-5-TRAIT_SCOPE
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§5"
+    title: Traits state the substrate property altered
+    status: proposed
+    kind: mandate
+    summary: >-
+      A Trait must specify the Lattice property it alters, and therefore
+      which injuries behave differently and which identically; a Trait that
+      only restates its effect ("harder to kill") is not a Trait.
+    verbatim: >-
+      Traits state what they change about the practitioner's substrate. A
+      Trait that reads he is harder to kill is not a Trait. A Trait that
+      specifies the Lattice property altered, and therefore which injuries
+      behave differently and which behave identically, is one.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§5, Traits"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "72"
+    notes: null
+
+  - id: R17-5-SKILL_SCOPE
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§5"
+    title: Skills state their operating principle at the level of the body
+    status: proposed
+    kind: mandate
+    summary: >-
+      A Skill entry must name the real cognitive cues a read operates on, or
+      the mechanics, measure and tempo a martial skill operates on.
+    verbatim: >-
+      Skills state their operating principle at the level of the body. A
+      read is a real cognitive operation on real cues, and the entry names
+      the cues. A martial skill is mechanics, measure and tempo, and the
+      entry names them.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§5, Skills"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "74"
+    notes: null
+
+  - id: R17-5-ARTEFACT_SCOPE
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§5"
+    title: An artefact's working carries a full Operation line
+    status: proposed
+    kind: mandate
+    summary: >-
+      Beyond the Item Guide's existing proof-marks, mass, balance and armour
+      response requirements, any working an artefact performs must carry a
+      full Operation line of its own.
+    verbatim: >-
+      Proof-marks, mass, balance and the response of the armour tier are
+      already required by the Item Guide; Pack Seventeen adds that any
+      working the object performs carries a full Operation line of its own.
+    amends:
+      - guide: "Item and Equipment Writing Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "76"
+    notes: null
+
+  - id: R17-5-BLOODLINE_SCOPE
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§5"
+    title: Bloodline faculties state the substrate difference
+    status: proposed
+    kind: mandate
+    summary: >-
+      A bloodline faculty entry must state what quantity the faculty acts on
+      (e.g. what the eye does), what it costs to hold open, and what it
+      cannot resolve; restating the faculty ("the Moto see") is not an entry.
+    verbatim: >-
+      The Moto see is not an entry. What the eye is doing to what quantity,
+      and what it costs to hold open, and what it cannot resolve, is one.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§5, bloodline faculties"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, character-sheet, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "78"
+    notes: null
+
+  - id: R17-6-MECHANISM_VS_ORIGIN
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§6"
+    title: How it works is required; why it is possible is not
+    status: proposed
+    kind: definition
+    summary: >-
+      Entries must state mechanism but never need explain cosmic origin —
+      why a Wellspring answers, where the Sixty came from, how many workings
+      exist, or why the laws are the laws; that permanent gap is where "What
+      nobody knows" lives.
+    verbatim: >-
+      The line is exact: how it works is required, why it is possible is
+      not.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "88"
+    notes: null
+
+  - id: R17-8-CHECK34
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§8"
+    title: "Check 34 — The four elements"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Manual check that quantity, law, operation and chain are all present
+      in the Operation line; any absence fails.
+    verbatim: >-
+      Check 34 — The four elements. Quantity, law, operation and chain all
+      present in the Operation line. Any absence is a FAIL.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 34"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, verification]
+    verification: ["check-34", "--entry"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "114"
+    notes: null
+
+  - id: R17-8-CHECK35
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§8"
+    title: "Check 35 — Derivation"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Manual check: for each of Cost, Limit and Counter, name the sentence
+      in the Operation it follows from; anything untraceable is cut or
+      re-derived.
+    verbatim: >-
+      Check 35 — Derivation. For each of Cost, Limit and Counter, name the
+      sentence in the Operation it follows from. Anything that cannot be
+      traced is decoration and is cut or re-derived.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 35"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, verification]
+    verification: ["check-35", "--entry"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "116"
+    notes: null
+
+  - id: R17-8-CHECK36
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§8"
+    title: "Check 36 — The assertion sweep"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Flags phrases that assert an outcome instead of stating a process
+      (e.g. "is assayed", "is converted", "responds to"); each is replaced
+      with the operation it stands in for, or deleted.
+    verbatim: >-
+      Check 36 — The assertion sweep. Flag every phrase that states an
+      outcome in place of a process: is assayed, is converted, is
+      transferred, responds to, is affected by, is empowered by, resonates
+      with, attunes to. Each one is either replaced with the operation it is
+      standing in for or deleted.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 36"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, verification]
+    verification: ["check-36", "--entry"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "118"
+    notes: null
+
+  - id: R17-10-STANDING_TASK
+    pack: Pack Seventeen
+    pack_number: 17
+    section: "§10"
+    title: Standing task, fold amendments into base guides
+    status: proposed
+    kind: procedure
+    summary: >-
+      Fold Packs One through Seventeen into the base guides and retire the
+      diffs, asked once per session.
+    verbatim: >-
+      Fold Packs One through Seventeen into the base guides and retire the
+      diffs. Ask once per session.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
+      lines: "130"
+    notes: null

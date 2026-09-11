@@ -6,7 +6,7 @@ supersession graph is only correct once the whole corpus is in.
 | phase | scope | status | rules extracted | notes |
 |---|---|---|---|---|
 | 0 | structure confirmation | done | — | Family B does not parse as one template; see report below |
-| 1 | Packs 19 down to 11 | in progress | 19 so far | Pack Nineteen done; Eighteen down to Eleven remain, plus finishing Fifteen |
+| 1 | Packs 19 down to 11 | in progress | 95 so far | 19, 18, 17, 16, 15 (finished) done; 14 down to 11 remain |
 | 2 | Packs 10 down to 5 | not started | — | Pack Eight has no § headings |
 | 3 | Packs 4 down to 1 | not started | — | Pack One is the unnumbered filename |
 | 4 | standalone amendments | not started | — | one is .docx, needs pandoc |
@@ -28,8 +28,22 @@ rather than assuming a shared template.
 
 | source | rules | live | superseded | pending | proposed | validated |
 |---|---|---|---|---|---|---|
-| Pack Fifteen | 8 (partial) | 7 | 0 | 1 | 0 | yes |
 | Pack Nineteen | 19 | 0 | 0 | 0 | 19 | yes |
+| Pack Eighteen | 16 | 0 | 0 | 0 | 16 | yes |
+| Pack Seventeen | 19 | 0 | 0 | 0 | 19 | yes |
+| Pack Sixteen | 18 | 0 | 0 | 0 | 18 | yes |
+| Pack Fifteen | 23 | 20 | 0 | 3 | 0 | yes |
+
+## Backfill queue (supersedes links pointing at not-yet-extracted rules)
+
+- R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK -> Pack Twelve §6 rule id
+- R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED -> Pack Twelve §4 rule id
+- R15-4-THIRTEEN_HAX_STRUCK -> Pack Thirteen §6 rule id
+- R15-1-DICTION_PALETTE, R15-1-REGISTER_BY_CULTURE -> Pack Five rows (Phase 2)
+- R15-4-PACK_NINE_CLASS_MARKING -> Pack Nine row (Phase 2)
+- Every Pack Seven rule -> Pack Twelve §1's repeal row, once Pack Seven is
+  extracted in Phase 2 (mark Pack Seven rows status:superseded directly,
+  per BRIEF's known live-fire case)
 
 ## Carried notes
 

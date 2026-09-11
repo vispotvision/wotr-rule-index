@@ -6,8 +6,8 @@ supersession graph is only correct once the whole corpus is in.
 | phase | scope | status | rules extracted | notes |
 |---|---|---|---|---|
 | 0 | structure confirmation | done | — | Family B does not parse as one template; see report below |
-| 1 | Packs 19 down to 11 | in progress | 95 so far | 19, 18, 17, 16, 15 (finished) done; 14 down to 11 remain |
-| 2 | Packs 10 down to 5 | not started | — | Pack Eight has no § headings |
+| 1 | Packs 19 down to 11 | done | 226 | all 9 files validated; 1 CONFLICTS.md row (C-001) |
+| 2 | Packs 10 down to 5 | not started | — | Pack Eight has no § headings; Pack Five uses lettered headings |
 | 3 | Packs 4 down to 1 | not started | — | Pack One is the unnumbered filename |
 | 4 | standalone amendments | not started | — | one is .docx, needs pandoc |
 | 5 | resolve and conflict report | not started | — | |
@@ -33,32 +33,58 @@ rather than assuming a shared template.
 | Pack Seventeen | 19 | 0 | 0 | 0 | 19 | yes |
 | Pack Sixteen | 18 | 0 | 0 | 0 | 18 | yes |
 | Pack Fifteen | 23 | 20 | 0 | 3 | 0 | yes |
+| Pack Fourteen | 24 | 0 | 0 | 5 | 19 | yes |
+| Pack Thirteen | 37 | 0 | 1 | 6 | 30 | yes |
+| Pack Twelve | 37 | 37 | 0 | 1 | 0 | yes |
+| Pack Eleven | 33 | 10 | 0 | 5 | 18 | yes |
+| **Phase 1 total** | **226** | **67** | **1** | **20** | **138** | **yes** |
 
 ## Backfill queue (supersedes links pointing at not-yet-extracted rules)
 
-- R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK -> Pack Twelve §6 rule id
-- R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED -> Pack Twelve §4 rule id
-- R15-4-THIRTEEN_HAX_STRUCK -> Pack Thirteen §6 rule id
-- R15-1-DICTION_PALETTE, R15-1-REGISTER_BY_CULTURE -> Pack Five rows (Phase 2)
-- R15-4-PACK_NINE_CLASS_MARKING -> Pack Nine row (Phase 2)
-- Every Pack Seven rule -> Pack Twelve §1's repeal row, once Pack Seven is
-  extracted in Phase 2 (mark Pack Seven rows status:superseded directly,
-  per BRIEF's known live-fire case)
+Resolved during Phase 1 (kept here only as a record of what got fixed):
+R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK and R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED
+turned out to be partial strikes/demotions, not full kills — cross-referenced
+by id in notes instead of supersedes, once Pack Twelve existed to check
+against. R15-4-THIRTEEN_HAX_STRUCK -> R13-6-HAX_DIALOGUE_BAN (full strike,
+backfilled). R17-3-SIX_LINE_CARD's five-line predecessor identified as
+R12-3-CARD_PLUS_CHAIN (Pack Twelve §3).
+
+Still open, carried into Phase 2/3:
+- R15-1-DICTION_PALETTE, R15-1-REGISTER_BY_CULTURE -> Pack Five rows
+- R15-4-PACK_NINE_CLASS_MARKING -> Pack Nine row
+- R12-1-PACK_SEVEN_REPEALED and its six sibling §1 rows -> every Pack Seven
+  rule, once extracted (mark each Pack Seven row status:superseded directly
+  with a note pointing back here, per BRIEF's known live-fire case — this is
+  the single densest backfill in the corpus)
+- R12-7-APPARATUS_CAP_REPLACED, R12-7-LEGIBILITY_BAN_STRUCK -> Pack Six rows
+- R12-8-SCENE_GUIDE_PACK7_STRUCK -> Pack Seven's pre-write-question/self-review rows
+- R12-8-SCENE_STANDARDS_BANS_STRUCK -> confirm against Amendment Three
+  (WOTR_Companion_Guide_Amendments.md, Phase 3) once extracted
+
+## Open conflicts (see CONFLICTS.md)
+
+- C-001: R11-3-FIREARM_PROSE_LAW (live) cites Pack Seven's mechanism-explain
+  ban as authority for keeping proofed-round mechanics unexplained, but
+  R12-1-EXPLAIN_BAN_STRUCK (live) struck exactly that ban. Unresolved,
+  Isaac's call.
 
 ## Carried notes
 
-- Pack Fifteen §1 has seven repeals and five survivals; only a sample is
-  extracted so far. Finish it in Phase 1.
-- Several Pack Fifteen rows have empty `supersedes` with a note, because their
-  targets live in Packs Five, Nine and Twelve and have not been extracted yet.
-  Backfill those links at the end of Phase 2, not before.
-- Pack Nineteen is entirely `status: proposed` — the pack's own header says
-  "originated, pending Isaac's ratification" with no section marked
-  confirmed. It supersedes nothing; it only extends Pack Sixteen's
-  vocabulary-conversion principle to speech (noted on R19-2-FIXED_TEXT, not a
-  supersedes link since nothing is struck) and escalates the severity of the
-  existing voice-differentiation test (R19-5-SORT_BY_SPEAKER_TEST).
+- Pack Twelve carries no pack-level "pending"/"originated" status line
+  anywhere, unlike every other pack in Phase 1; treated as status:live
+  throughout (see that file's header comment) since §1/§4 are explicitly
+  "Confirmed by Isaac's ruling" and every later pack treats it as settled.
+  Flag to Isaac if this reading is wrong — it would flip ~37 rows.
 - Policy adopted for `amends.guide`: use the exact name/filename the source
   text itself gives (e.g. `WOTR_Master_Style_Directive.md` when a pack spells
   out the filename, or the plain prose name like "Manual Verification Guide"
-  when it doesn't). Never invent a `.md` suffix a pack doesn't use.
+  when it doesn't). Never invent a `.md` suffix a pack doesn't use. Where a
+  later-extracted pack gives a filename for a guide an earlier pack only
+  named in prose, backfilled the earlier pack to the attested filename
+  (done for WOTR_Ability_Technique_Design_Guide.md on Pack Eighteen and
+  WOTR_Item_and_Equipment_Writing_Guide.md on Pack Seventeen).
+- Partial strikes and demotions (a pack narrows or softens an earlier rule
+  without fully killing it) are never recorded in `supersedes` — that field
+  is reserved for full kills, since validate.py's contradiction check would
+  otherwise force a still-live rule to be marked dead. Cross-reference these
+  by rule id in `notes` on both sides instead.

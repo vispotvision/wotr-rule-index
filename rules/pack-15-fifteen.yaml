@@ -1,6 +1,6 @@
-# WORKED EXAMPLE. Extracted by hand as a schema demonstration.
-# Not complete: Pack Fifteen §1 contains seven repeals and five survivals and
-# only a sample of each is here. Finish this file in Phase 1 along with the rest.
+# Completed in Phase 1. §1's seven repeals and five survivals are all present,
+# §4's Consequential Edits not already covered by a §1 row are extracted
+# separately, and §5 carries all three open rulings (R15-A/B/C).
 pack: Pack Fifteen
 pack_number: 15
 source_file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
@@ -206,3 +206,414 @@ rules:
     notes: >-
       Pack offers no recommendation on this one. Blocking any chant-based
       technique written before it is ruled.
+
+  - id: R15-1-RACIAL_VOICE_MENU
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Racial Voice and Dialect Guide demoted from enforcement to menu
+    status: live
+    kind: repeal
+    summary: >-
+      The Racial Voice and Dialect Guide and its Amendment stop being
+      enforced; they become a menu of options a writer may reach for, and no
+      scene fails for ignoring them.
+    verbatim: >-
+      The Racial Voice and Dialect Guide and its Amendment as enforcement.
+      They become a menu of options a writer can reach for. No scene fails
+      for ignoring them.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: null
+        operation: demotes
+    supersedes: []
+    applies_to: [register, dialogue, worldbuilding]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "19"
+    notes: >-
+      Restated in §4 as "Header changed from standard to menu. Contents
+      untouched." The separate WOTR_Racial_Voice_Guide_Amendment.md source in
+      this corpus is not this base guide; see that source's own extraction
+      in Phase 4.
+
+  - id: R15-1-ELEVATED_VOCAB_OPTIONAL
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Elevated Vocabulary Standard demoted from mandate to available words
+    status: live
+    kind: repeal
+    summary: >-
+      The Elevated Vocabulary Standard stops being a mandate; its words stay
+      available but nobody counts them.
+    verbatim: >-
+      The Elevated Vocabulary Standard as a mandate. The words stay
+      available. Nobody counts them.
+    amends:
+      - guide: "Elevated Vocabulary Standard"
+        locus: null
+        operation: demotes
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "20"
+    notes: null
+
+  - id: R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Mystic Register's never-physics clause struck for documents
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Twelve §6's clause forbidding a document from explaining
+      mechanism is struck; a document may be as scientific as it wants, and
+      the Mystic Register survives only as an option for documents that want
+      to withhold.
+    verbatim: >-
+      The Mystic Register's "rules stated as law, never physics" clause
+      (Twelve §6), where it forbids a document from explaining. A document
+      may be as scientific as it wants to be. The Mystic Register survives
+      as an option for documents that want to withhold.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Twelve.md"
+        locus: "§6"
+        operation: strikes
+    supersedes: []
+    applies_to: [register, documents, magic-mechanism]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "22"
+    notes: >-
+      supersedes should point at the Pack Twelve §6 rule ID once Phase 1
+      reaches Pack Twelve; backfill before Phase 1 closes.
+
+  - id: R15-1-READS_MODERN_STRUCK
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: "\"Reads modern\" retired as a critique category"
+    status: live
+    kind: repeal
+    summary: >-
+      Natalie no longer raises, fixes, or notes "reads modern" as a critique
+      on principle.
+    verbatim: >-
+      "Reads modern" as a critique category. Natalie does not raise it, does
+      not fix it, does not list it in notes on principle.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law, verification]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "23"
+    notes: null
+
+  - id: R15-1-TECHNICAL_REGISTER_SURVIVES
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: The Technical Register for combat and workings is untouched
+    status: live
+    kind: definition
+    summary: >-
+      Packs Twelve, Thirteen and Fourteen's Technical Register for combat
+      and workings is not a register rule in this pack's sense and is
+      unaffected; this pack makes explanation in real terms easier, not
+      harder.
+    verbatim: >-
+      The Technical Register for combat and workings (Twelve, Thirteen,
+      Fourteen). Explanation in real terms is the whole point of those packs
+      and this pack makes it easier.
+    amends: null
+    supersedes: []
+    applies_to: [register, combat, magic-mechanism]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "28"
+    notes: null
+
+  - id: R15-1-AI_TELL_CHECKS_SURVIVE
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: The AI-tell checks are untouched
+    status: live
+    kind: definition
+    summary: >-
+      The AI-tell checks (em dashes, similes, not-X-but-Y, countdown
+      negation, gloss, ladder) are about prose failing, not about period, and
+      are unaffected by the register repeal.
+    verbatim: >-
+      The AI-tell checks. Em dashes, similes, not-X-but-Y, countdown
+      negation, gloss, ladder. These are about prose failing, not about
+      period.
+    amends: null
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "29"
+    notes: null
+
+  - id: R15-1-STANDING_INVENTORY_SURVIVES
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: The Standing Inventory survives as a texture source
+    status: live
+    kind: definition
+    summary: >-
+      The Standing Inventory is a texture source, not a register rule, and
+      is unaffected by the repeal.
+    verbatim: >-
+      The Standing Inventory as a texture source. Kharven's woodpile and
+      night-stone are interesting; that is why they stay. Nothing about them
+      is a register rule.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "30"
+    notes: null
+
+  - id: R15-1-LATIN_CHANT_SURVIVES
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§1"
+    title: Latin for chant-based magic stands by default
+    status: live
+    kind: definition
+    summary: >-
+      Latin for chant-based magic is not a register rule but a texture
+      choice Isaac made, and it stands unless he says otherwise.
+    verbatim: >-
+      Latin for chant-based magic. Not a register rule in this sense; it is
+      a texture choice Isaac made. Stands unless he says otherwise.
+    amends: null
+    supersedes: []
+    applies_to: [register, magic-design]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "31"
+    notes: >-
+      This default is exactly what R15-A asks Isaac to confirm or fold into
+      the repeal; until R15-A resolves, this row's "survives" status is the
+      pack's default reading, not a closed question.
+
+  - id: R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: Pack Twelve's voice discipline clause softened to "may differ"
+    status: live
+    kind: consequential_edit
+    summary: >-
+      Pack Twelve §4's voice discipline clause is softened from a stricter
+      requirement to "may differ."
+    verbatim: >-
+      Pack Twelve §4 and §6. Voice discipline clause softened to "may
+      differ"; Mystic Register "never physics" clause struck.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Twelve.md"
+        locus: "§4"
+        operation: demotes
+    supersedes: []
+    applies_to: [dialogue, register]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "59"
+    notes: >-
+      The "Mystic Register never physics clause struck" half of this line is
+      the same repeal as R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK (Twelve
+      §6), not a second row. supersedes should point at the Pack Twelve §4
+      rule ID once Phase 1 reaches Pack Twelve; backfill before Phase 1
+      closes.
+
+  - id: R15-4-THIRTEEN_HAX_STRUCK
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: Pack Thirteen's "never says hax" ban struck
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Thirteen §6's ban on a character saying "hax" is struck; a
+      character may say whatever makes him interesting, though scaling
+      vocabulary stays author-notes-first as adjudication vocabulary, not
+      because it is modern.
+    verbatim: >-
+      Pack Thirteen §6. "A character never says hax" struck. A character may
+      say whatever makes him interesting. Scaling vocabulary remains
+      author-notes-first because it is adjudication vocabulary, not because
+      it is modern.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md"
+        locus: "§6"
+        operation: strikes
+    supersedes: []
+    applies_to: [dialogue, register, adjudication]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "60"
+    notes: >-
+      supersedes should point at the Pack Thirteen §6 rule ID once Phase 1
+      reaches Pack Thirteen; backfill before Phase 1 closes.
+
+  - id: R15-4-MEMORY_ENTRIES_SUPERSEDED
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: Memory entries on accent/vocabulary demoted to available technique
+    status: live
+    kind: consequential_edit
+    summary: >-
+      Memory entries thirteen, fourteen, twenty-nine and thirty (accent
+      calibration, phonetic markers, Racial Voice guide, elevated
+      vocabulary) are superseded as mandates and retained only as available
+      technique; flagged for the memory sweep.
+    verbatim: >-
+      Memory entries thirteen, fourteen, twenty-nine, thirty (accent
+      calibration, phonetic markers, Racial Voice guide, elevated
+      vocabulary): superseded as mandates; retained as available technique.
+      Flag for the memory sweep.
+    amends: null
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "63"
+    notes: >-
+      "Memory entries" here are the project's own session-memory notes, not
+      a guide file or a rule row in this index; no amends target and no
+      supersedes id, by nature of what is being changed.
+
+  - id: R15-4-VERIFY_UNCHANGED
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: No verification check touches register
+    status: live
+    kind: definition
+    summary: >-
+      wotr_verify.sh has no check that touches register, and this pack adds
+      none.
+    verbatim: >-
+      wotr_verify.sh. No check touches register. None is added.
+    amends: null
+    supersedes: []
+    applies_to: [register, verification]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "64"
+    notes: null
+
+  - id: R15-4-PACK_FIVE_SCOPE
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§4"
+    title: Pack Five's non-register provisions are unaffected
+    status: live
+    kind: definition
+    summary: >-
+      Only Pack Five's register-by-culture rule is struck; its dramatic
+      irony through POV lock, the elegiac mode, humour recalibration, and
+      narration authority all stand because none of them are register
+      rules.
+    verbatim: >-
+      Pack Five. Register by culture struck. Dramatic irony through POV
+      lock, the elegiac mode, humour recalibration, and narration authority
+      all stand; none of them are register rules.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Five.md"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [register, pov, scene-structure]
+    verification: []
+    ratified: "6 September 2026"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "57"
+    notes: >-
+      The "struck" clause here is the same repeal as R15-1-REGISTER_BY_CULTURE,
+      not a second row; extracted mainly for the scope confirmation on what
+      survives.
+
+  - id: R15-B
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§5"
+    title: Whether the four explaining voices still require characterised explanation
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether the four explaining voices (Twelve §4) still require
+      "characterised" explanation, or whether a character may simply
+      explain clearly.
+    verbatim: >-
+      Whether the four explaining voices (Twelve §4) still require
+      "characterised" explanation, or whether a character may simply
+      explain clearly.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "71"
+    notes: >-
+      Recommendation: clearly wins; character shows in what they explain,
+      not in how ornate it is.
+
+  - id: R15-C
+    pack: Pack Fifteen
+    pack_number: 15
+    section: "§5"
+    title: Whether in-world documents keep any obligation to sound in-world
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether in-world documents keep any obligation to sound in-world.
+    verbatim: >-
+      Whether in-world documents keep any obligation to sound in-world.
+    amends: null
+    supersedes: []
+    applies_to: [documents, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
+      lines: "72"
+    notes: >-
+      Recommendation: none; a Guild proofing report may read like a lab
+      report if that is more interesting.

@@ -29,7 +29,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-2-HARD_SOFT_DIVISION, R7-2-DEUS_EX_COST_RULE, R7-2-FAST_PROSE_SURVIVES, R7-3-THREE_LAYER_HIT_MODEL, R7-3-PRESSURE_MECHANIC, R7-4-MASS_COMBAT_PRESSURE_EXCEPTION, R7-4-ITEM_TERTIARY_SOURCE, R7-4-INSCRIPTION_FUNCTION_PHYSICAL, R7-4-PACK_SIX_STRENGTHENED, R7-5-NAMING_PASS, R7-7-RELEASE_MECHANIC_OPEN, R7-7-VOW_CLAUSE_OPEN, R7-7-PRESSURE_PROFILES_OPEN, R7-7-FOLD_PACKS_OPEN]
     applies_to: [magic-mechanism, magic-design, prose-law]
     verification: []
     ratified: null
@@ -37,10 +37,11 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "13"
     notes: >-
-      This is the target row for the corpus's known live-fire supersession:
-      every Pack Seven rule row should end up status:superseded with a note
-      pointing here, and this row's supersedes list should be backfilled
-      with every Pack Seven rule id once Pack Seven is extracted in Phase 2.
+      This is the corpus's known live-fire supersession target. Every Pack
+      Seven rule row is status:superseded now that Pack Seven is extracted;
+      most point at a more specific §1/§3/§4/§8 sibling below (see each
+      Pack Seven row's own notes for its exact match), and the rest that
+      have no cleaner match are backfilled into this row's supersedes list.
 
   - id: R12-1-MECHANISM_NOWHERE_STRUCK
     pack: Pack Twelve
@@ -57,7 +58,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-1-HARD_WORLD_SOFT_MAGIC]
     applies_to: [magic-mechanism]
     verification: []
     ratified: null
@@ -65,8 +66,7 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "15"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2.
+      Backfilled: supersedes R7-1-HARD_WORLD_SOFT_MAGIC.
 
   - id: R12-1-SOFT_ZONES_STRUCK
     pack: Pack Twelve
@@ -85,7 +85,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-1-THREE_SOFT_ZONES]
     applies_to: [magic-mechanism]
     verification: []
     ratified: null
@@ -93,8 +93,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "16"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2. Exception is R12-6-RULES_AS_RULES/R12-6-MYSTIC_GRAMMAR.
+      Backfilled: supersedes R7-1-THREE_SOFT_ZONES. Exception is
+      R12-6-RULES_AS_RULES/R12-6-MYSTIC_GRAMMAR.
 
   - id: R12-1-EXPLAIN_BAN_STRUCK
     pack: Pack Twelve
@@ -113,7 +113,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-2-TRIGGER_PHYSICAL_NOT_MECHANISM, R7-4-PACK_FIVE_RECONCILED]
     applies_to: [magic-mechanism]
     verification: []
     ratified: null
@@ -121,8 +121,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "17"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2.
+      Backfilled: supersedes R7-2-TRIGGER_PHYSICAL_NOT_MECHANISM and
+      R7-4-PACK_FIVE_RECONCILED.
 
   - id: R12-1-NUMBER_BAN_STRUCK
     pack: Pack Twelve
@@ -141,7 +141,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-2-FAST_PROSE_STRUCK_TRIGGERS, R7-2-NUMBERS_PHYSICAL_ONLY]
     applies_to: [magic-mechanism, stats]
     verification: []
     ratified: null
@@ -149,8 +149,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "18"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2. See R12-5-NUMBERS_DIAGNOSTIC_ONLY for the
+      Backfilled: supersedes R7-2-FAST_PROSE_STRUCK_TRIGGERS and
+      R7-2-NUMBERS_PHYSICAL_ONLY. See R12-5-NUMBERS_DIAGNOSTIC_ONLY for the
       rationing rule.
 
   - id: R12-1-DESIGN_CHAIN_RETURNS
@@ -170,7 +170,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-2-DESIGN_CHAIN_WORKBOOK_ONLY, R7-2-RETROACTIVE_ANSWER, R7-4-MASS_COMBAT_DESIGN_CHAIN_SUSPENDED]
     applies_to: [magic-design, magic-mechanism]
     verification: []
     ratified: null
@@ -178,9 +178,9 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "19"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2. See R12-3-DESIGN_CHAIN_RETURNS for the §3
-      restoration.
+      Backfilled: supersedes R7-2-DESIGN_CHAIN_WORKBOOK_ONLY,
+      R7-2-RETROACTIVE_ANSWER, and R7-4-MASS_COMBAT_DESIGN_CHAIN_SUSPENDED.
+      See R12-3-DESIGN_CHAIN_RETURNS for the §3 restoration.
 
   - id: R12-1-APPARATUS_CAP_STRUCK
     pack: Pack Twelve
@@ -206,10 +206,14 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "20"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id once
-      extracted in Phase 2. §4 is about the four explaining voices, not the
-      Apparatus Rule replacement — that replacement text is actually in §7
-      (see R12-7-APPARATUS_CAP_REPLACED); this looks like a cross-reference
+      No Pack Seven row exists to supersede here: Pack Seven's own text
+      never defines the Apparatus Rule itself, only references it in
+      passing (R7-4-PACK_SIX_STRENGTHENED); the actual origin is Pack Six,
+      so supersedes should be backfilled with a Pack Six rule id in Phase
+      2, same target as R12-7-APPARATUS_CAP_REPLACED. §4 is about the four
+      explaining voices, not the Apparatus Rule replacement — that
+      replacement text is actually in §7 (see R12-7-APPARATUS_CAP_REPLACED);
+      this looks like a cross-reference
       slip in the source itself, recorded as-is rather than silently
       corrected.
 
@@ -406,7 +410,7 @@ rules:
       - guide: "WOTR_Combat_Craft_Guide.md"
         locus: null
         operation: adds
-    supersedes: []
+    supersedes: [R7-2-TRIGGER_POINT_STANDARD]
     applies_to: [combat, adjudication, magic-mechanism]
     verification: []
     ratified: null
@@ -502,7 +506,7 @@ rules:
       - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: adds
-    supersedes: []
+    supersedes: [R7-3-READ_MECHANIC]
     applies_to: [magic-design, combat, adjudication]
     verification: []
     ratified: null
@@ -557,7 +561,7 @@ rules:
       delivered confidently is now the most valuable tool in the kit and
       replaces the misreading budget as its primary vehicle.
     amends: null
-    supersedes: []
+    supersedes: [R7-2-DESIGN_CHAIN_DIALOGUE_BAN]
     applies_to: [dialogue, pov, magic-mechanism]
     verification: []
     ratified: null
@@ -977,6 +981,41 @@ rules:
       lines: "115"
     notes: null
 
+  - id: R12-8-ABILITY_GUIDE_REWRITE
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§8"
+    title: Ability Guide sixth edition retires the two-ledger split
+    status: live
+    kind: consequential_edit
+    summary: >-
+      The Ability and Technique Design Guide (sixth edition) has Sections 1
+      and 2 rewritten off §1 to §3; the two-ledger split is retired in
+      favour of one ledger with a summary card; character-first design
+      order survives untouched and unaffected by this pack.
+    verbatim: >-
+      WOTR_Ability_Technique_Design_Guide.md. Sixth edition required.
+      Sections 1 and 2 rewritten off §1 to §3 above. The two-ledger split
+      is retired; there is now one ledger with a summary card.
+      Character-first design order survives untouched and is unaffected by
+      this pack.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§§1-2"
+        operation: replaces
+    supersedes: [R7-1-TWO_LEDGERS]
+    applies_to: [magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "121"
+    notes: >-
+      Retires Pack Seven's "Two ledgers" rule (PART ONE) and confirms Pack
+      Seven's "Character first, system second" rule (PART ONE) survives;
+      backfill supersedes with the two-ledger Pack Seven rule id once Pack
+      Seven is extracted.
+
   - id: R12-8-COMBAT_GUIDE_READ_LENGTH
     pack: Pack Twelve
     pack_number: 12
@@ -996,7 +1035,7 @@ rules:
       - guide: "WOTR_Combat_Craft_Guide.md"
         locus: null
         operation: replaces
-    supersedes: []
+    supersedes: [R7-3-TRIGGER_PHYSICAL_STANDARD]
     applies_to: [combat, magic-mechanism]
     verification: []
     ratified: null
@@ -1022,7 +1061,7 @@ rules:
       - guide: "WOTR_Scene_Writing_Process_Guide.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R7-4-PREWRITE_QUESTION, R7-4-SELF_REVIEW_CHECK]
     applies_to: [scene-structure, magic-mechanism]
     verification: []
     ratified: null
@@ -1030,9 +1069,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "124"
     notes: >-
-      supersedes: backfill with the specific Pack Seven rule id(s) for the
-      pre-write question and self-review check once Pack Seven is extracted
-      in Phase 2.
+      Backfilled: supersedes R7-4-PREWRITE_QUESTION and
+      R7-4-SELF_REVIEW_CHECK.
 
   - id: R12-8-VERIFY_CHECKS_RETIRED
     pack: Pack Twelve
@@ -1050,7 +1088,7 @@ rules:
       - guide: "Manual Verification Guide"
         locus: "checks 19-21"
         operation: null
-    supersedes: []
+    supersedes: [R7-6-CHECK20, R7-6-CHECK21]
     applies_to: [verification]
     verification: ["check-19", "check-20", "check-21"]
     ratified: null

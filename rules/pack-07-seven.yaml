@@ -1,0 +1,1147 @@
+# Pack Seven, the Soft Magic Amendment. "This pack is the latest and
+# therefore governs" (source line 5) at the time it was written — it was
+# live canon until Pack Twelve S1 declared it "dead in full" ("Confirmed
+# by Isaac's ruling"). Per BRIEF's known live-fire case, every row here
+# defaults to status: superseded, pointing at R12-1-PACK_SEVEN_REPEALED or
+# a more specific R12-1-*/R12-8-* sibling where the match is clean. A
+# handful of rows are status: live instead, because Pack Twelve's own text
+# explicitly says so in quotable words (R12-1-PACK_SEVEN_SURVIVORS,
+# R12-8-ABILITY_GUIDE_REWRITE's character-first line, R12-A's Epoch-scale
+# dread language) — those are called out in their own notes.
+pack: Pack Seven
+pack_number: 7
+source_file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+ratified: null
+rules:
+
+  - id: R7-1-HARD_WORLD_SOFT_MAGIC
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART ONE"
+    title: Hard world, soft magic — never the mechanism
+    status: superseded
+    kind: ban
+    summary: >-
+      The world obeys itself absolutely and nobody explains why; a reader
+      needs the cost, the limit and the rough weight, never the mechanism.
+    verbatim: >-
+      Hard world, soft magic. The world obeys itself absolutely and nobody
+      explains why. A reader needs the cost, the limit, and the rough
+      weight. Never the mechanism.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "15"
+    notes: >-
+      Superseded by R12-1-MECHANISM_NOWHERE_STRUCK / R12-1-EXPLAIN_BAN_STRUCK.
+
+  - id: R7-1-THREE_HARD_RAILS
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART ONE"
+    title: The three hard rails — economy, ladder, lineage
+    status: live
+    kind: definition
+    summary: >-
+      Three things never bend: the economy (finite, spent, visible), the
+      ladder (sixteen Stages, felt before seen), and the lineage
+      (everything traceable to a source).
+    verbatim: >-
+      The three hard rails, which never bend: the economy (finite, spent,
+      visible), the ladder (sixteen Stages, felt before seen), the lineage
+      (everything came from somewhere traceable).
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, adjudication, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "17"
+    notes: >-
+      The economy and the ladder are explicitly reaffirmed by
+      R12-1-PACK_SEVEN_SURVIVORS ("The economy is still a hard rail... The
+      ladder is still real"); the lineage clause isn't separately named
+      there but is never struck either, so the whole row is kept live
+      rather than split.
+
+  - id: R7-1-THREE_SOFT_ZONES
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART ONE"
+    title: The three soft zones — mechanism, catalogue, origin
+    status: superseded
+    kind: ban
+    summary: >-
+      Mechanism, catalogue and origin are the three things never explained.
+    verbatim: >-
+      The three soft zones, never explained: mechanism, catalogue, origin.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "19"
+    notes: >-
+      Superseded by R12-1-SOFT_ZONES_STRUCK ("the three soft zones as a
+      blanket rule... Struck, with one flagged exception at §6").
+
+  - id: R7-1-CHARACTER_FIRST
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART ONE"
+    title: Character first, system second
+    status: live
+    kind: mandate
+    summary: >-
+      Refusal, wound and conviction produce the phenomenon; the Codex files
+      it afterward and is not a generator.
+    verbatim: >-
+      Character first, system second. Refusal, wound and conviction produce
+      the phenomenon. The Codex files it afterward. The Codex is not a
+      generator.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "21"
+    notes: >-
+      Explicitly reaffirmed by R12-8-ABILITY_GUIDE_REWRITE: "Character-first
+      design order survives untouched and is unaffected by this pack."
+
+  - id: R7-1-TWO_LEDGERS
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART ONE"
+    title: Two ledgers — the page and the workbook
+    status: superseded
+    kind: definition
+    summary: >-
+      The page gets Effect, Cost, Limit, Counter, and one line of what
+      nobody knows; the workbook keeps every other field and is never
+      published.
+    verbatim: >-
+      Two ledgers. The page gets Effect, Cost, Limit, Counter, and one line
+      of what nobody knows. The workbook keeps every other field and is
+      never published.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "23"
+    notes: >-
+      Superseded by R12-8-ABILITY_GUIDE_REWRITE: "The two-ledger split is
+      retired; there is now one ledger with a summary card."
+
+  - id: R7-2-DESIGN_CHAIN_WORKBOOK_ONLY
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: The Design Chain is filled and consulted, never published
+    status: superseded
+    kind: definition
+    summary: >-
+      The ten-field Design Chain (Trigger, Function, Mechanism, Numerical
+      Effect, Target Response, Consequence, Limitation, Weakness, Cost,
+      Counterplay) is a design instrument, filled before writing, consulted
+      while writing, published never.
+    verbatim: >-
+      Renamed: the Design Chain. Filled before writing, consulted while
+      writing, published never.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "37"
+    notes: >-
+      Superseded by R12-1-DESIGN_CHAIN_RETURNS / R12-3-DESIGN_CHAIN_RETURNS
+      ("Now prose-legal in full"); the ten-field list itself is what Pack
+      Twelve §3 restores, so the chain's contents carry forward even though
+      this row's "published never" rule is dead.
+
+  - id: R7-2-TRIGGER_PHYSICAL_NOT_MECHANISM
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Trigger points get physical disclosure, not mechanism disclosure
+    status: superseded
+    kind: ban
+    summary: >-
+      A first display, a major injury and a Domain activation no longer
+      trigger a mechanism disclosure; they trigger a physical disclosure
+      only.
+    verbatim: >-
+      What is repealed is the instruction to put it on the page at trigger
+      points. A first display, a major injury and a Domain activation no
+      longer trigger a mechanism disclosure. They trigger a physical
+      disclosure.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "35"
+    notes: >-
+      Superseded by R12-1-EXPLAIN_BAN_STRUCK and R12-3-COMBAT_EXCHANGE_OWES,
+      which restore mechanism/counter disclosure at these same trigger
+      points.
+
+  - id: R7-2-TRIGGER_POINT_STANDARD
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: The physical-disclosure standard at trigger points
+    status: superseded
+    kind: definition
+    summary: >-
+      At a trigger point, the page gets what the body did, what the room
+      did, what the target felt, and what it cost, visibly — the mechanism
+      stays in the workbook.
+    verbatim: >-
+      What replaces it at trigger points. At a first display, a major
+      injury, a Domain activation or a finisher, the page gets: - What the
+      body did. - What the air, the ground and the objects in the room did.
+      - What the target felt, in the target's own physical terms. - What it
+      cost, visibly.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "39-44"
+    notes: >-
+      Superseded in substance by R12-3-COMBAT_EXCHANGE_OWES and later
+      expanded by R13-4-COMBAT_FLOOR's eight-item version.
+
+  - id: R7-2-HARD_SOFT_DIVISION
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Hard by kind — cost, limit, weight and the numbered facts
+    status: superseded
+    kind: definition
+    summary: >-
+      Hard, never bending: cost, limit, relative weight, cause and
+      consequence, the sixteen Stages, the eight Families, the sixty
+      Wellsprings, the Codex grammar, and relative strength. Soft, never
+      explained: how any of it works, how much exists, and where it came
+      from.
+    verbatim: >-
+      Hard, and it never bends: cost, limit, relative weight, cause and
+      consequence, the sixteen Stages, the eight Families, the sixty
+      Wellsprings, the Codex grammar, and who is stronger than whom. Soft,
+      and never explained: how any of it works, how much of it exists, and
+      where it came from.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.3"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "54-56"
+    notes: >-
+      The "how any of it works" clause is superseded by Pack Twelve's
+      general mechanism-explanation repeal; "where it came from" (Origin)
+      surviving as mythic is exactly what Pack Twelve's own R12-A pitches
+      as a recommendation, so that half continues in spirit even though
+      this specific row is marked dead along with the rest of the pack.
+
+  - id: R7-2-EPOCH_SCALE_SURVIVES
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Titans, Archons and Epoch-scale events generate dread, never resolve
+    status: live
+    kind: definition
+    summary: >-
+      The Titans, the Archons, the Crevice, the Withering and anything
+      Epoch-scale generate problems, dread and awe; they never resolve a
+      plot.
+    verbatim: >-
+      The surviving line, unchanged and still load-bearing: the Titans,
+      the Archons, the Crevice, the Withering and anything Epoch-scale
+      generate problems, dread and awe. They never resolve a plot.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.3"
+        operation: adds
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "58"
+    notes: >-
+      Restated almost verbatim in Pack Twelve's R12-A ("They generate dread
+      and problems. They never resolve a plot."), which pitches keeping
+      Origin mythic; kept live since nothing ever struck it.
+
+  - id: R7-2-DEUS_EX_COST_RULE
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: An inexplicable rescue is licensed if its cost is reasoned
+    status: superseded
+    kind: mandate
+    summary: >-
+      A character may be rescued by something the reader cannot explain,
+      provided the reader can reason about what it cost.
+    verbatim: >-
+      The line that replaces the rest: a character may be rescued by
+      something the reader cannot explain, provided the reader can reason
+      about what it cost.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.3"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "60"
+    notes: >-
+      Superseded along with the rest of the pack by R12-1-PACK_SEVEN_REPEALED;
+      no specific Pack Twelve line addresses this particular clause.
+
+  - id: R7-2-FAST_PROSE_SURVIVES
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Exact numbers still belong at four occasions
+    status: superseded
+    kind: definition
+    summary: >-
+      Exact numbers still belong at a character-sheet breakdown, a major
+      injury, an armour or structural failure, and a high-stakes finisher.
+    verbatim: >-
+      Mostly survives. Exact numbers still belong at a character-sheet
+      breakdown, a major injury, an armour or structural failure, and a
+      high-stakes finisher.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.4"
+        operation: adds
+    supersedes: []
+    applies_to: [stats, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "64"
+    notes: >-
+      Superseded along with the rest of the pack; Pack Fourteen's stat
+      display rules (R14-4-EFFECTS_CHANNEL, R14-4-DIAGNOSTIC_CHANNEL) now
+      govern this territory instead.
+
+  - id: R7-2-FAST_PROSE_STRUCK_TRIGGERS
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Mechanism/counterplay/training explanation dropped as number triggers
+    status: superseded
+    kind: ban
+    summary: >-
+      Mechanism reveal, counterplay explanation and training explanation
+      are struck from the trigger list for numbers on the page — workbook
+      events only.
+    verbatim: >-
+      Struck from the trigger list: mechanism reveal, counterplay
+      explanation, training explanation. Those are workbook events and no
+      longer occasions for numbers on the page.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.4"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "66"
+    notes: >-
+      Superseded by R12-1-EXPLAIN_BAN_STRUCK / R12-1-NUMBER_BAN_STRUCK.
+
+  - id: R7-2-NUMBERS_PHYSICAL_ONLY
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Numbers attach to physical reality only
+    status: superseded
+    kind: ban
+    summary: >-
+      A metre, a temperature, a mass, a duration take a unit; nothing
+      metaphysical ever does.
+    verbatim: >-
+      The corollary stands and is strengthened. Numbers attach to physical
+      reality only. A metre, a temperature, a mass, a duration. Nothing
+      metaphysical takes a unit, ever.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.4"
+        operation: adds
+    supersedes: []
+    applies_to: [stats, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "68"
+    notes: >-
+      Superseded by R12-1-NUMBER_BAN_STRUCK and rationed rather than banned
+      by R12-5-NUMBERS_DIAGNOSTIC_ONLY.
+
+  - id: R7-2-DESIGN_CHAIN_DIALOGUE_BAN
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: A character explaining their own Design Chain is cut on sight
+    status: superseded
+    kind: ban
+    summary: >-
+      A character explaining the Trigger, Mechanism and Counterplay of
+      their own technique is character-sheet vocabulary in dialogue and is
+      cut on sight.
+    verbatim: >-
+      Added: the same restriction now covers the Design Chain by name. A
+      character explaining the Trigger, Mechanism and Counterplay of their
+      own technique is character-sheet vocabulary in dialogue and is cut on
+      sight.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§5"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "74"
+    notes: >-
+      Superseded by Pack Twelve's four explaining voices, which explicitly
+      license this kind of dialogue (R12-4-VOICE_ONE_POV,
+      R12-4-VOICE_THREE_OPPONENT).
+
+  - id: R7-2-RETROACTIVE_ANSWER
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART TWO"
+    title: Existing techniques get retroactive Design Chains, no page changes
+    status: superseded
+    kind: procedure
+    summary: >-
+      Existing named techniques get retroactive Design Chains in the
+      workbook only, with no page changes, since the old page standard no
+      longer applies to prose.
+    verbatim: >-
+      Answer: they get retroactive Design Chains in the workbook, and no
+      page changes at all. The standard they were being held to no longer
+      applies to prose, so there is nothing to retrofit into the archive.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§11"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "80"
+    notes: >-
+      Superseded along with the workbook-only Design Chain rule it depends
+      on.
+
+  - id: R7-3-TRIGGER_PHYSICAL_STANDARD
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART THREE"
+    title: Combat trigger points hit the physical standard, not mechanism
+    status: superseded
+    kind: ban
+    summary: >-
+      A technique's first display, major injury or finisher hits the
+      physical standard (real units on the body, armour and ground); the
+      metaphysical half of the old chain moves to the workbook.
+    verbatim: >-
+      Struck: a technique's first display, a major injury or a finisher
+      hits the Scientific Mechanism Standard. Replaced: a technique's
+      first display, a major injury or a finisher hits the physical
+      standard. Real units on the body, the armour and the ground. The
+      metaphysical half of the old chain moves to the workbook.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "88-90"
+    notes: >-
+      Superseded by R12-8-COMBAT_GUIDE_READ_LENGTH and Pack Thirteen's
+      combat technical floor.
+
+  - id: R7-3-THREE_LAYER_HIT_MODEL
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART THREE"
+    title: The three-layer hit model, rendered as phenomena not explanation
+    status: superseded
+    kind: definition
+    summary: >-
+      Physics, Essence and Hermetic correspondence — two visible per
+      meaningful hit, all three at a first display or finisher — rendered
+      as phenomena (what the air did), never as explanations (why).
+    verbatim: >-
+      The three-layer hit model survives intact. Physics, Essence and
+      Hermetic correspondence, two visible per meaningful hit, all three at
+      a first display or a finisher. Clarified: the Essence and Hermetic
+      layers are rendered as phenomena, never as explanations. What the air
+      did, not why it did it.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "92"
+    notes: >-
+      The three-layer structure itself continues (Pack Thirteen §4's three
+      explanations use the same physics/Essence/Hermetic triad), but "never
+      as explanations" is exactly reversed by R13-4-THREE_EXPLANATIONS;
+      marked superseded along with the rest of the pack, no specific Pack
+      Twelve line names this clause directly.
+
+  - id: R7-3-PRESSURE_MECHANIC
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART THREE"
+    title: Pressure — a stronger practitioner is felt before anything is cast
+    status: superseded
+    kind: definition
+    summary: >-
+      Presence precedes technique: one Stage up bends the room's attention;
+      two causes physical distress; three or more causes involuntary
+      submission; a Band gap changes local weather and animal behaviour.
+      Felt in the body, never described as an aura from outside; the POV
+      misreads it at least once.
+    verbatim: >-
+      Presence precedes technique. A stronger practitioner is felt in a
+      room, physically and involuntarily, before anything is cast.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, stats, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "98"
+    notes: >-
+      Marked superseded per the wholesale repeal of Pack Seven, though
+      "Pressure" as a concept is used freely and without caveat by every
+      later pack (Nine, Eleven, Fourteen) as settled worldbuilding — those
+      later packs stand on their own textual authority, not on this row
+      remaining live.
+
+  - id: R7-3-READ_MECHANIC
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART THREE"
+    title: A duel is an information problem before a physical one
+    status: superseded
+    kind: mandate
+    summary: >-
+      Taught techniques are counterable by anyone who studied the same
+      material; self-derived techniques must be read live under pressure,
+      with at least one wrong conclusion per the misreading budget.
+    verbatim: >-
+      A duel between competent practitioners is an information problem
+      before it is a physical one. The winner is usually whoever identifies
+      what the other is doing first.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "113"
+    notes: >-
+      Marked superseded along with the rest of the pack, though its core
+      idea (documented vs. self-derived techniques, read live) is carried
+      forward almost exactly by R12-3-NAMED_INVENTOR_RULE.
+
+  - id: R7-4-MASS_COMBAT_DESIGN_CHAIN_SUSPENDED
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: The Design Chain is suspended in the Close Register
+    status: superseded
+    kind: definition
+    summary: >-
+      The Design Chain is suspended in the Close Register, requiring an
+      analytical observer, available in a pre-engagement scene, a
+      commander's briefing, or the aftermath.
+    verbatim: >-
+      The suspension line survives with the rename. The Design Chain is
+      suspended in the Close Register. It requires an analytical observer,
+      and it remains available in a pre-engagement scene, a commander's
+      briefing, or the aftermath.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "125"
+    notes: >-
+      Superseded along with the workbook-only Design Chain rule it depends
+      on.
+
+  - id: R7-4-MASS_COMBAT_PRESSURE_EXCEPTION
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: Pressure is legible in the press when nothing else is
+    status: superseded
+    kind: mandate
+    summary: >-
+      A practitioner's pressure is legible in a mass-combat press because it
+      arrives through the body rather than the eye; a line that breaks
+      before contact broke because of something it felt.
+    verbatim: >-
+      Added: Pressure is the exception. A practitioner's pressure is
+      legible in the press when nothing else is, because it arrives through
+      the body rather than the eye. A line that breaks before contact broke
+      because of something it felt.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "127"
+    notes: null
+
+  - id: R7-4-ITEM_TERTIARY_SOURCE
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: The Dragonslayer, not Shardblades, is the hard-magic-object lesson
+    status: superseded
+    kind: consequential_edit
+    summary: >-
+      The tertiary-source note's Shardblades citation is replaced: what
+      Miura does with the Dragonslayer (an object that became a geological
+      feature through accumulated use) is the lesson — an object's rules
+      matter less than its history.
+    verbatim: >-
+      Replaced: what Miura does with the Dragonslayer, an object that
+      became a geological feature through accumulated use, is the lesson.
+      An object's rules matter less than its history.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: "tertiary-source note"
+        operation: replaces
+    supersedes: []
+    applies_to: [items, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "135"
+    notes: >-
+      Superseded along with the rest of the pack by R12-1-PACK_SEVEN_REPEALED;
+      no specific Item Guide successor is named elsewhere in the corpus so
+      far.
+
+  - id: R7-4-INSCRIPTION_FUNCTION_PHYSICAL
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: The inscription Function field is physical terms only
+    status: superseded
+    kind: ban
+    summary: >-
+      The inscription Function field states physical terms only; the
+      system term goes in the workbook line, not the field itself.
+    verbatim: >-
+      The inscription Function field says physical terms first, system
+      terms second. Amended: physical terms only. The system term goes in
+      the workbook line.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: "inscription Function field"
+        operation: replaces
+    supersedes: []
+    applies_to: [items, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "137"
+    notes: >-
+      Superseded by Pack Twelve/Thirteen's diagnostic-voice system terms
+      (system terms may now appear alongside their dramatisation, per
+      R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).
+
+  - id: R7-4-PREWRITE_QUESTION
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: New pre-write question, POV understanding vs. observation
+    status: superseded
+    kind: procedure
+    summary: >-
+      Before writing any scene containing a working, state what the POV
+      understands about what just happened versus what they merely
+      observe; the gap is written and left open.
+    verbatim: >-
+      New pre-write question, added to the canon check. Before writing any
+      scene containing a working: what does the POV understand about what
+      just happened, and what do they merely observe? The gap is written
+      and left open.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [scene-structure, pov, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "143"
+    notes: >-
+      Superseded by R12-8-SCENE_GUIDE_PACK7_STRUCK ("The Pack Seven
+      pre-write question and self-review check are struck.") — a clean
+      named match.
+
+  - id: R7-4-SELF_REVIEW_CHECK
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: New self-review check, no line explains why a working worked
+    status: superseded
+    kind: ban
+    summary: >-
+      No line in a scene explains why a working worked.
+    verbatim: >-
+      New self-review check. No line in the scene explains why a working
+      worked.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [scene-structure, magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "145"
+    notes: >-
+      Superseded by R12-8-SCENE_GUIDE_PACK7_STRUCK — the same clean named
+      match as R7-4-PREWRITE_QUESTION.
+
+  - id: R7-4-PACK_FIVE_RECONCILED
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: Pack Five's narrator-explanation bar becomes absolute
+    status: superseded
+    kind: consequential_edit
+    summary: >-
+      Pack Five's bar on narrator explanation of the system now agrees with
+      the base guides; the Section 3.1 delivery route it cited is closed,
+      and the bar is absolute.
+    verbatim: >-
+      Pack Five's bar on narrator explanation of the system to the reader
+      now agrees with the base guides instead of contradicting them. It
+      cited Section 3.1 as the permitted delivery route; that route is
+      closed and the bar is absolute.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Five.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "149"
+    notes: >-
+      Superseded along with the rest of the pack; Section 3.1's route is
+      reopened by R12-1-EXPLAIN_BAN_STRUCK, so Pack Five's original bar (if
+      it survives Pack Five's own extraction) may be live again — confirm
+      in Phase 2 when Pack Five is extracted.
+
+  - id: R7-4-PACK_SIX_STRENGTHENED
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FOUR"
+    title: Pack Six's chemistry ban and Apparatus Rule are strengthened
+    status: superseded
+    kind: consequential_edit
+    summary: >-
+      Pack Six's chemistry ban and Apparatus Rule are unchanged and
+      strengthened; Pack Six restricted the Mechanism Standard to technique
+      trigger points, and Pack Seven removes the trigger points as well.
+    verbatim: >-
+      Pack Six's chemistry ban and Apparatus Rule are unchanged and
+      strengthened. Pack Six restricted the Mechanism Standard to technique
+      trigger points. Pack Seven removes the trigger points as well.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "151"
+    notes: >-
+      Superseded along with the trigger points it removes; Pack Six's
+      chemistry ban itself is untouched (see R13-6-CHEMISTRY_BAN_SCOPE).
+
+  - id: R7-5-COST_AUDIT
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FIVE"
+    title: The cost audit, largest job on the docket
+    status: live
+    kind: procedure
+    summary: >-
+      An estimated sixty percent of existing technique entries fail the
+      test that "overuse strains him" is not a real cost; every failure
+      needs a real cost category, something the character still carries
+      when nobody is fighting.
+    verbatim: >-
+      The cost audit. Working estimate is that sixty percent of existing
+      technique entries fail the test that overuse-strains-him is not a
+      cost. Every failure needs a real category from the wheel: something
+      the character still carries when nobody is fighting. This is the
+      largest and most valuable job on the docket.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "159"
+    notes: >-
+      Kept live: Pack Seventeen §9 still treats "Pack Seven's cost audit"
+      as the largest open job on the docket, not something the Pack Twelve
+      repeal touched — the audit is a production process, not a prose
+      restriction.
+
+  - id: R7-5-CHARACTER_FIRST_REDERIVATION
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FIVE"
+    title: The character-first re-derivation pass
+    status: live
+    kind: procedure
+    summary: >-
+      For each major character, state what they refuse, what they
+      survived, and what they believe that costs them, then check the
+      phenomenon actually comes out of it; where it does not, the ability
+      needs rebuilding from the person, not the Physics Domain.
+    verbatim: >-
+      The character-first re-derivation. For each major character, state
+      what they refuse, what they survived, and what they believe that
+      costs them, then check the phenomenon actually comes out of it. Where
+      it does not, the ability was generated from a Physics Domain and
+      needs rebuilding from the person.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "161"
+    notes: >-
+      Kept live alongside R7-1-CHARACTER_FIRST, which R12-8-ABILITY_GUIDE_REWRITE
+      explicitly says survives untouched.
+
+  - id: R7-5-NAMING_PASS
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART FIVE"
+    title: The naming pass against the one-beat test
+    status: superseded
+    kind: procedure
+    summary: >-
+      Every existing technique name is checked against the one-beat test;
+      failures are flagged but nothing is renamed without Isaac's ruling.
+    verbatim: >-
+      The naming pass. Every existing technique name against the one-beat
+      test. Flag failures, do not rename anything without Isaac's ruling,
+      since some of these are established in prose.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "163"
+    notes: >-
+      Superseded along with the rest of the pack; Pack Eight's naming pass
+      (R8-27-STANDING_TASK) is a different mechanic (true names/registers,
+      not the one-beat test) and doesn't replace this specifically.
+
+  - id: R7-6-CHECK20
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART SIX"
+    title: "Check 20 — the mechanism gloss"
+    status: superseded
+    kind: procedure
+    summary: >-
+      Flags any sentence in prose that explains why a working produced its
+      effect; physical description passes, causal explanation fails.
+    verbatim: >-
+      Check 20, the mechanism gloss. Any sentence in prose that explains
+      why a working produced its effect. Detection is imperfect and manual
+      review is required. The physical description of what happened is not
+      a hit. The causal account of why is.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 20"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, verification]
+    verification: ["check-20"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "171"
+    notes: >-
+      Superseded by R12-1-EXPLAIN_BAN_STRUCK and retired outright by
+      R12-8-VERIFY_CHECKS_RETIRED... actually retired checks there are 20
+      and 21, matching exactly.
+
+  - id: R7-6-CHECK21
+    pack: Pack Seven
+    pack_number: 7
+    section: "PART SIX"
+    title: "Check 21 — metaphysical units"
+    status: superseded
+    kind: procedure
+    summary: >-
+      Flags any number attached to a non-physical quantity; physical units
+      (metres, degrees, kilograms, seconds, distances) pass, Essence/
+      Coherence/resonance/Wellspring-output figures fail.
+    verbatim: >-
+      Check 21, metaphysical units. Any number attached to a non-physical
+      quantity. Metres, degrees, kilograms, seconds and distances pass.
+      Anything measuring Essence, Coherence, resonance or Wellspring output
+      in prose fails.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 21"
+        operation: adds
+    supersedes: []
+    applies_to: [stats, verification]
+    verification: ["check-21"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "173"
+    notes: >-
+      Superseded by R12-1-NUMBER_BAN_STRUCK and retired outright by
+      R12-8-VERIFY_CHECKS_RETIRED ("Checks 20 and 21 retired").
+
+  - id: R7-7-RELEASE_MECHANIC_OPEN
+    pack: Pack Seven
+    pack_number: 7
+    section: "OPEN RULINGS"
+    title: The release and true-name mechanic, pitched and unruled
+    status: superseded
+    kind: definition
+    summary: >-
+      The release and true-name mechanic from the fifth edition's Section 6
+      is pitched and unruled; taking it means a naming pass per culture and
+      rewritten first displays across the cast.
+    verbatim: >-
+      The release and true-name mechanic from the fifth edition's Section 6
+      is pitched and unruled. Taking it means a naming pass per culture and
+      rewritten first displays across the cast.
+    amends: null
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "179"
+    notes: >-
+      This open question is what Pack Eight (still itself unratified) takes
+      up in full; marked superseded along with the rest of the pack rather
+      than pending, since Pack Eight has already formally addressed it.
+
+  - id: R7-7-VOW_CLAUSE_OPEN
+    pack: Pack Seven
+    pack_number: 7
+    section: "OPEN RULINGS"
+    title: The vow clause, pitched and unruled
+    status: superseded
+    kind: definition
+    summary: >-
+      The vow clause remains pitched, unruled, and more load-bearing since
+      narrowing is one of six escalation routes replacing bigger numbers.
+    verbatim: >-
+      The vow clause remains pitched, unruled, and now more load-bearing,
+      since narrowing is one of the six escalation routes that replace
+      bigger numbers.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "181"
+    notes: >-
+      No later pack visibly resolves this; marked superseded per the
+      wholesale repeal default, but genuinely orphaned rather than
+      formally settled — worth a CONFLICTS.md-style flag if a later phase
+      finds nothing addressing it either.
+
+  - id: R7-7-PRESSURE_PROFILES_OPEN
+    pack: Pack Seven
+    pack_number: 7
+    section: "OPEN RULINGS"
+    title: Pressure suppression profiles need per-character assignment
+    status: superseded
+    kind: definition
+    summary: >-
+      Pressure suppression profiles need assigning per named character —
+      who can hide it, who cannot, and who stopped bothering; Sodoku and
+      Cozbi matter most and should differ.
+    verbatim: >-
+      Pressure suppression profiles need assigning per named character. Who
+      can hide, who cannot, and who stopped bothering. Sodoku and Cozbi are
+      the two that matter most and they should differ.
+    amends: null
+    supersedes: []
+    applies_to: [stats, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "183"
+    notes: null
+
+  - id: R7-7-FOLD_PACKS_OPEN
+    pack: Pack Seven
+    pack_number: 7
+    section: "OPEN RULINGS"
+    title: Whether Packs One through Seven fold into the base guides
+    status: superseded
+    kind: definition
+    summary: >-
+      Whether to fold Packs One through Seven into the base guides, since
+      seven unfolded packs is past the point of trackable precedence.
+    verbatim: >-
+      Whether Packs One through Seven get folded into the base guides at
+      last. Seven unfolded packs is past the point where precedence is
+      trackable by reading, and Pack Seven touches four guides at once.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Seven.md
+      lines: "187"
+    notes: >-
+      Superseded by the same standing task restated with a growing pack
+      count in every later pack (e.g. R19-9-STANDING_TASK).

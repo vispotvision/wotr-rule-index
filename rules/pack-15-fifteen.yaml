@@ -58,8 +58,11 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "17"
     notes: >-
-      Target rule ID in Pack Five or the Style Directive not yet extracted. Fill
-      supersedes when Phase 2 reaches it.
+      Checked against Pack Five (Phase 2): the Diction Palette is never
+      mentioned there, so its target is the base
+      WOTR_Master_Style_Directive.md §8 directly, a guide not present in
+      this corpus (sources/ holds only amendment packs) — no rule id
+      exists to backfill into supersedes.
 
   - id: R15-1-REGISTER_BY_CULTURE
     pack: Pack Fifteen
@@ -77,7 +80,7 @@ rules:
     amends:
       - guide: WOTR_Companion_Guide_Amendments_Pack_Five.md
         locus: "register by culture"
-        operation: strikes
+        operation: demotes
     supersedes: []
     applies_to: [register, pov, prose-law]
     verification: []
@@ -86,8 +89,9 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "18"
     notes: >-
-      supersedes should point at the Pack Five register-by-culture row once
-      Phase 2 extracts it.
+      Backfilled: demotes R5-C3-NARRATION_REGISTER_EXTENSION (Pack Five
+      §C.3) from law to available flavour. A demotion, not a full strike
+      (flavour use remains available), so no supersedes link is set.
 
   - id: R15-1-VOICE_DIFFERENTIATION
     pack: Pack Fifteen

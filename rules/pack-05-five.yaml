@@ -1,0 +1,1048 @@
+# Pack Five: "Status: originated on Isaac's instruction. The repeal in
+# Section B is confirmed by that instruction. Sections C through F are
+# proposed craft law, pending ruling." (source line 8). Section A (the
+# governing premise for B) is read as live by the same logic; Section G's
+# consequential edits inherit the status of whichever section they stem
+# from; Section H is explicitly pending.
+pack: Pack Five
+pack_number: 5
+source_file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+ratified: null
+rules:
+
+  - id: R5-A-SKELETON_UNCHANGED
+    pack: Pack Five
+    pack_number: 5
+    section: "A"
+    title: The Eastern mechanical skeleton stays exactly as it is
+    status: live
+    kind: definition
+    summary: >-
+      WOTR runs an Eastern skeleton under Western flesh; the systematic
+      density (Stages, Wellsprings, Bands/Grades/Coherence/eta, Codex glyph
+      grammar, Family/Physics Domain, the character sheet, the Design
+      Chain, EU costs) does not get diluted, softened, or made
+      impressionistic.
+    verbatim: >-
+      WOTR runs an Eastern skeleton under Western flesh. The skeleton stays
+      exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands
+      and Grades and Coherence and eta, the Master Codex glyph grammar,
+      Family and Physics Domain assignment, the seventeen-section
+      character sheet, Trigger through Counterplay, EU costs to the unit.
+      That systematic density is a light-novel and xianxia inheritance and
+      it is the correct engine for this project. It does not get diluted,
+      softened, or made impressionistic. Section 3.3's division of hard and
+      soft labour stands untouched.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, stats, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "16-18"
+    notes: null
+
+  - id: R5-A-FLESH_CHANGES
+    pack: Pack Five
+    pack_number: 5
+    section: "A"
+    title: Prose flesh derives from the Western tradition
+    status: live
+    kind: mandate
+    summary: >-
+      Prose register, humour, characterisation method, narration authority
+      and tonal architecture derive from the Western tradition (Martin's
+      POV discipline, Tolkien's cultural register and elegiac capacity,
+      Abercrombie's dry brutality).
+    verbatim: >-
+      The flesh changes. Prose register, humour, characterisation method,
+      narration authority and tonal architecture now derive from the
+      Western tradition: Martin's POV discipline, Tolkien's cultural
+      register and elegiac capacity, Abercrombie's dry brutality.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "20"
+    notes: null
+
+  - id: R5-A-OPERATIVE_CONSEQUENCE
+    pack: Pack Five
+    pack_number: 5
+    section: "A"
+    title: The system lives in the Codex, never in prose texture
+    status: live
+    kind: mandate
+    summary: >-
+      The system is author-facing and document-facing — it lives in the
+      Codex, character sheets, in-world treatises and technical-reveal
+      beats; it does not live in prose texture, narrator commentary, or
+      character affect.
+    verbatim: >-
+      The operative consequence: the system is author-facing and
+      document-facing. It lives in the Codex, the character sheets, the
+      in-world treatises, and the technical-reveal beats where a mechanism
+      earns explicit naming. It does not live in prose texture, narrator
+      commentary, or character affect. A reader who never opens a codex
+      should experience WOTR as a Western epic that happens to be unusually
+      rigorous about what magic costs.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "22"
+    notes: null
+
+  - id: R5-B-MANHWA_DIRECTIVE_REPEALED
+    pack: Pack Five
+    pack_number: 5
+    section: "B"
+    title: The Manhwa Energy Directive is struck in full
+    status: live
+    kind: repeal
+    summary: >-
+      Personality vomiting, reaction shots as characterisation, loud
+      opinions as a default register, bizarre/exaggerated minor NPCs,
+      absurdist method alongside genuine stakes, humour as a tone
+      exception, and escalation as a prose-level pacing register are no
+      longer craft law and become active tells; escalation survives only as
+      plot architecture (Scene Writing Process Guide §2).
+    verbatim: >-
+      Struck in full from the project instructions and from Section 4's
+      sanctioned-exception clause. The following are no longer craft law
+      and should be treated as active tells if they appear in a draft.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§4"
+        operation: strikes
+    supersedes: []
+    applies_to: [prose-law, register, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "28-36"
+    notes: null
+
+  - id: R5-B-FOIL_FUNCTION_SURVIVES
+    pack: Pack Five
+    pack_number: 5
+    section: "B"
+    title: The Foil Function survives intact
+    status: live
+    kind: definition
+    summary: >-
+      Deliberate moral and rhythmic contrast between paired characters
+      (Merry/Pippin, Sam/Frodo, Tyrion/Bronn, Jaime/Brienne,
+      Glokta/Severard) is Western-native and remains actively tracked.
+    verbatim: >-
+      The Foil Function (Directive Sec. 3.8) survives intact. It was never
+      Eastern.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.8"
+        operation: extends
+    supersedes: []
+    applies_to: [character-sheet, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "40"
+    notes: null
+
+  - id: R5-B-YOKO_SODOKU_SURVIVES
+    pack: Pack Five
+    pack_number: 5
+    section: "B"
+    title: Yoko-against-Sodoku survives as a foil, delivered without deadpan
+    status: live
+    kind: definition
+    summary: >-
+      Yoko against Sodoku is a precision-versus-instinct foil, not a comedy
+      routine; its humour now arrives through what Yoko declines to say,
+      never a deadpan beat landing on a punchline.
+    verbatim: >-
+      Yoko against Sodoku survives. The precision-versus-instinct dynamic
+      is a foil, not a comedy routine. What changes is the delivery: the
+      humour in it now arrives through what Yoko declines to say, never
+      through a deadpan beat landing on a punchline.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "42"
+    notes: null
+
+  - id: R5-B-DECLARATION_TO_INFERENCE
+    pack: Pack Five
+    pack_number: 5
+    section: "B"
+    title: Characterisation moves from declaration to inference
+    status: live
+    kind: mandate
+    summary: >-
+      A character is established by what they choose under pressure, what
+      they refuse, what they notice first, and what others say about them
+      when absent — not by being vividly themselves in every line; the
+      reader assembles the person.
+    verbatim: >-
+      Characterisation moves from declaration to inference. A character is
+      no longer established by being vividly themselves in every line.
+      They are established by what they choose under pressure, what they
+      refuse, what they notice first in a room, and what other people say
+      about them when they are not present. The reader assembles the
+      person.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, character-sheet, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "48"
+    notes: null
+
+  - id: R5-C1-INFO_TRACKED_PER_POV
+    pack: Pack Five
+    pack_number: 5
+    section: "C.1"
+    title: Information is tracked per POV, not per reader
+    status: live
+    kind: procedure
+    summary: >-
+      Before a scene, name what this POV knows, what they wrongly believe,
+      and what the reader knows that they do not.
+    verbatim: >-
+      Information is tracked per POV, not per reader. Before a scene, name
+      what this POV knows, what they wrongly believe, and what the reader
+      knows that they do not.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "64"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C1-WRITE_FROM_LEAST_KNOWING
+    pack: Pack Five
+    pack_number: 5
+    section: "C.1"
+    title: Default to the POV who knows least about what is coming
+    status: live
+    kind: procedure
+    summary: >-
+      Where a scene could be written from two POVs, write it from whoever
+      knows least about what is coming; a default, breakable with reason.
+    verbatim: >-
+      Where a scene could be written from two POVs, write it from whoever
+      knows least about what is coming. This is a default, breakable with
+      reason.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "65"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C1-WELL_REASONED_WRONG_CONCLUSION
+    pack: Pack Five
+    pack_number: 5
+    section: "C.1"
+    title: A POV's wrong conclusion must be well-reasoned
+    status: live
+    kind: mandate
+    summary: >-
+      Irony built on a character being stupid is not irony; a POV must
+      apply sound reasoning to a corrupted premise, not simply be foolish.
+    verbatim: >-
+      The POV's wrong conclusion must be well-reasoned. Irony built on a
+      character being stupid is not irony. Ned is not a fool; he is
+      applying Northern law in a Southern court.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "66"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C1-NARRATION_NEVER_WINKS
+    pack: Pack Five
+    pack_number: 5
+    section: "C.1"
+    title: The narration never winks at the reader
+    status: live
+    kind: ban
+    summary: >-
+      No line acknowledges that the reader knows better than the POV.
+    verbatim: >-
+      The narration never winks. No line acknowledging that the reader
+      knows better.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "67"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C2-ELEGY_CONCRETE_THING
+    pack: Pack Five
+    pack_number: 5
+    section: "C.2"
+    title: Elegy attaches to a named concrete thing that is gone
+    status: live
+    kind: mandate
+    summary: >-
+      Elegy attaches to a named concrete, specific thing that is gone
+      (a road, a dye colour, a lost word, a dying craft), never to
+      abstractions; grief for "the old world" is furniture.
+    verbatim: >-
+      Elegy attaches to a named concrete thing that is gone. A road nobody
+      maintains. A dye colour nobody can make since the salt corridor
+      closed. A word that survives only in a formula whose meaning is
+      lost. A craft with three living practitioners. Never to abstractions;
+      grief for "the old world" is furniture.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, worldbuilding, standing-inventory]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "81"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C2-FLAT_DELIVERY
+    pack: Pack Five
+    pack_number: 5
+    section: "C.2"
+    title: Elegy is delivered flat; the reader does the mourning
+    status: live
+    kind: mandate
+    summary: >-
+      Section 1.2's saga restraint governs elegy: state the loss and move
+      on, without raising the prose's voice.
+    verbatim: >-
+      Flat delivery. Section 1.2's saga restraint governs. State the loss
+      and move on. The reader does the mourning.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1.2"
+        operation: adds
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "82"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C2-IRREVERSIBLE_NOBODYS_FAULT
+    pack: Pack Five
+    pack_number: 5
+    section: "C.2"
+    title: An elegiac loss is often irreversible and nobody's fault
+    status: live
+    kind: definition
+    summary: >-
+      What distinguishes elegy from grimdark's systemic cruelty is that the
+      loss is often irreversible and often nobody's fault; some things are
+      simply taken, some simply end.
+    verbatim: >-
+      The loss is often irreversible and often nobody's fault. This is
+      what distinguishes elegy from grimdark's systemic cruelty, and WOTR
+      needs both. Some things are taken. Some things simply end.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "83"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C2-ONE_PASSAGE_BUDGET
+    pack: Pack Five
+    pack_number: 5
+    section: "C.2"
+    title: One sustained elegiac passage per scene at most
+    status: live
+    kind: budget
+    summary: >-
+      At most one sustained elegiac passage per scene, which may sit
+      anywhere except the closing beat, which still ends on physical
+      action per Scene Standards.
+    verbatim: >-
+      Budget: one sustained elegiac passage per scene at most, and it may
+      sit anywhere except the closing beat, which per Scene Standards still
+      ends on physical action.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "84"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-C3-NARRATION_REGISTER_EXTENSION
+    pack: Pack Five
+    pack_number: 5
+    section: "C.3"
+    title: Per-culture narration registers, extended from dialogue
+    status: proposed
+    kind: mandate
+    summary: >-
+      Free indirect discourse's per-character register licence is raised to
+      a per-culture one: proposed narration registers include Dawi
+      (stressed monosyllables, concrete nouns, sentence-level distrust of
+      abstraction), Eresse (subordination, latinate diction, periodic
+      sentences), Concord human (the house baseline), and Moto (to be
+      built, highest-priority gap).
+    verbatim: >-
+      The extension raises it from a per-character instruction to a
+      per-culture one. Proposed narration registers, to be built out per
+      culture as POVs arrive: - Dawi POV. Stressed monosyllables, short
+      clauses, concrete nouns, tools named by their proper names.
+      Abstractions distrusted at sentence level as well as in dialogue. -
+      Eresse POV. Subordination, latinate diction, periodic sentences that
+      withhold the verb. Time referenced in long units. - Concord human
+      POV. The house baseline. Everything else is measured against it. -
+      Moto POV. To be built. Flagged as the highest-priority gap since it
+      carries the current arc.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1.1"
+        operation: extends
+    supersedes: []
+    applies_to: [register, pov, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "92-99"
+    notes: >-
+      This is the "register by culture" rule Pack Fifteen §1 strikes down
+      to flavour ("Available as flavour. Not law."): see
+      R15-1-REGISTER_BY_CULTURE, which should be backfilled to reference
+      this row by id (a demotion since flavour use remains available, so no
+      supersedes link — same policy as other demotions in this corpus).
+
+  - id: R5-D-HUMOUR_PERMITTED
+    pack: Pack Five
+    pack_number: 5
+    section: "D"
+    title: Humour is a character property, not a tone exception
+    status: live
+    kind: definition
+    summary: >-
+      Humour is no longer an exception to tone but a property of specific
+      characters in the Abercrombie register: dry understatement, gallows
+      wit from those whose profession earns it, class-inflected contempt, a
+      character being funny without knowing it, and the joke that is also a
+      threat.
+    verbatim: >-
+      Permitted: dry understatement, gallows wit from people whose
+      profession earns it, class-inflected contempt, a character being
+      funny without knowing it, and the joke that is also a threat.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [register, dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "109"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-D-HUMOUR_BARRED
+    pack: Pack Five
+    pack_number: 5
+    section: "D"
+    title: Humour never gets its own setup/deadpan/reaction rhythm
+    status: live
+    kind: ban
+    summary: >-
+      The beat structure of setup, deadpan and reaction is barred; humour
+      arrives inside dialogue and narration already in progress and never
+      pauses the scene to land.
+    verbatim: >-
+      Barred: the beat structure of setup, deadpan and reaction. Humour no
+      longer gets its own rhythm. It arrives inside dialogue and narration
+      already in progress and does not pause the scene to land.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [dialogue, prose-law, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "111"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-D-FUNERAL_TEST
+    pack: Pack Five
+    pack_number: 5
+    section: "D"
+    title: The funeral test for a joke
+    status: live
+    kind: procedure
+    summary: >-
+      Could this line be said at a funeral, by someone who means it,
+      without breaking the room? If the humour needs a comedic frame to
+      work, cut it.
+    verbatim: >-
+      The test: could this line be said at a funeral, by someone who means
+      it, without breaking the room? If the humour requires a comedic frame
+      to work, cut it.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, verification, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "113"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-D-HUMOUR_CASTING
+    pack: Pack Five
+    pack_number: 5
+    section: "D"
+    title: Who currently carries humour, and who does not
+    status: live
+    kind: definition
+    summary: >-
+      Lambert carries institutional dryness in the debrief; Pietro carries
+      contempt as wit; Yoko is accidentally funny through literalism;
+      Sodoku does not make jokes and should not start.
+    verbatim: >-
+      Who carries it, current cast: Lambert (institutional dryness, arrives
+      in the debrief). Pietro (contempt as wit). Yoko (accidental, through
+      literalism). Sodoku does not make jokes and should not start.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "115"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-E-MARTIN_WINS_RULING
+    pack: Pack Five
+    pack_number: 5
+    section: "E"
+    title: Martin wins on narration authority
+    status: live
+    kind: mandate
+    summary: >-
+      Martin wins on narration authority: Tolkien's elevated and elegiac
+      register is available, his moral voice is not.
+    verbatim: >-
+      Ruling proposed: Martin wins on narration authority. Tolkien's
+      elevated and elegiac register is available, his moral voice is not.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "125"
+    notes: >-
+      This exact proposal is Section H's pending ruling #1
+      (R5-H-NARRATION_AUTHORITY_PENDING); kept here as the concrete
+      proposed rule and separately as the open ruling, matching how other
+      packs record a proposed answer alongside its own pending status.
+
+  - id: R5-E-NARRATION_NEVER_ADJUDICATES
+    pack: Pack Five
+    pack_number: 5
+    section: "E"
+    title: Third-person narration is POV-locked and never adjudicates
+    status: live
+    kind: ban
+    summary: >-
+      Third-person scene narration is POV-locked and never adjudicates; no
+      line tells the reader what to think of a character's choice.
+    verbatim: >-
+      Third-person scene narration is POV-locked and never adjudicates. No
+      line tells the reader what to think of a character's choice.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "129"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-E-ELEVATED_REGISTER_QUARANTINED
+    pack: Pack Five
+    pack_number: 5
+    section: "E"
+    title: The elevated register is quarantined to documents and myth
+    status: live
+    kind: ban
+    summary: >-
+      The elevated register (invocation, myth-cadence, high style) is
+      available only to in-world documents, songs, oral-tradition passages,
+      mythic strata, prophetic/Celestial Host material, and the
+      opening/closing frame of a mythic-scale event — not ordinary scene
+      narration.
+    verbatim: >-
+      The elevated register, meaning invocation, myth-cadence and the high
+      style, is available to in-world documents, songs, oral-tradition
+      passages, the mythic strata, prophetic and Celestial Host material,
+      and the opening or closing frame of a mythic-scale event. Not to
+      ordinary scene narration.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, documents, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "130"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-E-ELEGIAC_REGISTER_ALLOWED
+    pack: Pack Five
+    pack_number: 5
+    section: "E"
+    title: The elegiac register is allowed in scene narration
+    status: live
+    kind: definition
+    summary: >-
+      The elegiac register is available to scene narration because elegy
+      in the saga mode reports a loss rather than judging it; Section
+      C.2's flat-delivery rule is what keeps it on the correct side of the
+      line.
+    verbatim: >-
+      The elegiac register is available to scene narration, because elegy
+      in the saga mode reports a loss rather than judging it. Section
+      C.2's flat-delivery rule is what keeps it on the correct side of this
+      line.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "131"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-E-FREE_INDIRECT_CARVEOUT
+    pack: Pack Five
+    pack_number: 5
+    section: "E"
+    title: Free indirect discourse remains the carve-out
+    status: live
+    kind: definition
+    summary: >-
+      A moral verdict in the POV's own idiom, which could be wrong, is
+      characterisation; the same verdict in the narrator's neutral register
+      is Tolkien's voice and gets cut, per Pack Four's gloss test.
+    verbatim: >-
+      Free indirect discourse remains the carve-out and Pack Four's gloss
+      test still governs. A moral verdict in the POV's own idiom, which
+      could be wrong, is characterisation. The same verdict in the
+      narrator's neutral register is Tolkien's voice and gets cut.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1.1"
+        operation: extends
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "132"
+    notes: >-
+      Elevated to status:live: Pack Fifteen §4 (already ratified, live) explicitly confirms this instrument "stands," following the same precedent used for Pack Seven content Pack Twelve confirms survives.
+
+  - id: R5-F-LIGHT_NOVEL_KEPT
+    pack: Pack Five
+    pack_number: 5
+    section: "F"
+    title: What the light novel keeps
+    status: proposed
+    kind: definition
+    summary: >-
+      The chapter as a hard unit with one objective and a hook at close;
+      legibility as reader pleasure (the argument for the Codex); and fast
+      entry, chapters opening inside the situation.
+    verbatim: >-
+      The chapter as a hard unit with one clear objective and a hook at
+      close. Serialised discipline, directly relevant to The Withering
+      Road. - Legibility as reader pleasure. The satisfaction of a system
+      the reader can reason inside. This is the whole argument for the
+      Codex and it survives the register change intact. - Fast entry.
+      Chapters open inside the situation.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [scene-structure, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "142-144"
+    notes: null
+
+  - id: R5-F-LIGHT_NOVEL_NOT_KEPT
+    pack: Pack Five
+    pack_number: 5
+    section: "F"
+    title: What the light novel does not keep
+    status: proposed
+    kind: ban
+    summary: >-
+      Status screens, panels and HUD-style rendering (already banned);
+      narrator explanation of the system to the reader; the isekai
+      commentary register (wry narrator asides about the world's rules);
+      and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in
+      prose.
+    verbatim: >-
+      - Status screens, panels, HUD-style rendering. Already banned;
+      restated because the light-novel framing invites them back. -
+      Narrator explanation of the system to the reader. Section 3.1's
+      Mechanism Standard delivers mechanism through physical description at
+      trigger points, never as instruction. - The isekai commentary
+      register. Wry narrator asides about the world's rules. -
+      Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and
+      Band are author-facing.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, stats, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "148-151"
+    notes: null
+
+  - id: R5-G-STYLE_DIRECTIVE_HUMOUR_POINTER
+    pack: Pack Five
+    pack_number: 5
+    section: "G"
+    title: Directive §4's manhwa-humour clause replaced with a pointer to D
+    status: live
+    kind: consequential_edit
+    summary: >-
+      The Master Style Directive's §4 final paragraph (the manhwa-energy
+      humour clause) is deleted and replaced with a pointer to Pack Five
+      Section D.
+    verbatim: >-
+      Sec. 4, final paragraph: delete the manhwa-energy-humour clause
+      entirely. Replace with a pointer to Pack Five Sec. D.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [register, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "159"
+    notes: null
+
+  - id: R5-G-STYLE_DIRECTIVE_EXCLUDED_LIST
+    pack: Pack Five
+    pack_number: 5
+    section: "G"
+    title: Manhwa Energy Directive added to the deliberately-excluded list
+    status: live
+    kind: consequential_edit
+    summary: >-
+      The Master Style Directive's §10 deliberately-excluded list gains the
+      Manhwa Energy Directive.
+    verbatim: >-
+      Sec. 10: add the Manhwa Energy Directive to the deliberately-excluded
+      list.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§10"
+        operation: adds
+    supersedes: []
+    applies_to: [register, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "161"
+    notes: null
+
+  - id: R5-G-PROJECT_INSTRUCTIONS_EDIT
+    pack: Pack Five
+    pack_number: 5
+    section: "G"
+    title: The Manhwa Energy Directive is struck from project instructions
+    status: live
+    kind: repeal
+    summary: >-
+      The Manhwa Energy Directive block is struck in full from project
+      instructions, "manhwa-cinematic" and "manhwa energy" are struck from
+      tone descriptions, and the genre-intersection statement is amended so
+      only the pacing ambition survives.
+    verbatim: >-
+      - Strike the Manhwa Energy Directive block in full. - Strike
+      "manhwa-cinematic" and "manhwa energy" from tone descriptions. -
+      Amend the genre-intersection statement: the pacing ambition
+      survives, the manhwa-cinematic layer does not.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "166-168"
+    notes: null
+
+  - id: R5-G-TELL_BANK_ADDITIONS
+    pack: Pack Five
+    pack_number: 5
+    section: "G"
+    title: Four new active tells added
+    status: proposed
+    kind: definition
+    summary: >-
+      Declarative characterisation and the reaction-shot cutaway (from
+      Section B's confirmed repeal) plus the comedic beat structure and
+      narrator moral adjudication (from Sections D and E, still proposed)
+      are added as active tells.
+    verbatim: >-
+      Add as active tells: declarative characterisation, the reaction-shot
+      cutaway, the comedic beat structure, narrator moral adjudication.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "176"
+    notes: >-
+      Kept at status:proposed as a whole even though two of its four tells
+      (declarative characterisation, reaction-shot cutaway) trace to the
+      confirmed Section B repeal, since the other two trace to still-proposed
+      Sections D and E; a conservative bundling rather than splitting into
+      four rows.
+
+  - id: R5-H-NARRATION_AUTHORITY_PENDING
+    pack: Pack Five
+    pack_number: 5
+    section: "H"
+    title: Does Martin win on narration authority
+    status: pending
+    kind: definition
+    summary: >-
+      Whether Martin wins on narration authority (Section E); the proposed
+      answer is yes, with the elevated register quarantined to documents
+      and mythic strata — the load-bearing call in the pack.
+    verbatim: >-
+      Does Martin win on narration authority (Sec. E)? The proposed answer
+      is yes, with the elevated register quarantined to in-world documents
+      and mythic strata. This is the load-bearing call in the pack.
+    amends: null
+    supersedes: []
+    applies_to: [pov, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "182"
+    notes: >-
+      Left pending rather than closed: Pack Fifteen §4 (live, ratified)
+      later says narration authority "stands," which is why
+      R5-E-MARTIN_WINS_RULING and its siblings are marked status:live —
+      but Pack Fifteen never names this docket item by number, so this
+      formal open-ruling entry is not marked resolved on that basis alone.
+
+  - id: R5-H-ELEGIAC_MODE_PENDING
+    pack: Pack Five
+    pack_number: 5
+    section: "H"
+    title: Does the elegiac mode become standing craft law
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the elegiac mode (Section C.2) is installed as standing
+      craft law; it would permanently change the Withering's emotional
+      shape.
+    verbatim: >-
+      Does the elegiac mode get installed as standing craft law (Sec. C.2)?
+      It changes the emotional shape of the Withering permanently.
+    amends: null
+    supersedes: []
+    applies_to: [register, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "183"
+    notes: >-
+      Left pending rather than closed: Pack Fifteen §4 (live, ratified)
+      later says the elegiac mode "stands," which is why the R5-C2-* rows
+      are marked status:live — but Pack Fifteen never names this docket
+      item by number, so this formal open-ruling entry is not marked
+      resolved on that basis alone.
+
+  - id: R5-H-CULTURE_REGISTERS_TIMING_PENDING
+    pack: Pack Five
+    pack_number: 5
+    section: "H"
+    title: Build per-culture narration registers now or defer
+    status: pending
+    kind: definition
+    summary: >-
+      Whether per-culture narration registers (Section C.3) are built out
+      now or deferred until a POV in each culture exists; the Moto
+      register is needed either way for the current arc.
+    verbatim: >-
+      Per-culture narration registers (Sec. C.3): build out now, or defer
+      until a POV in each culture actually exists? Moto register is needed
+      either way for the current arc.
+    amends: null
+    supersedes: []
+    applies_to: [register, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "184"
+    notes: null
+
+  - id: R5-H-RETROACTIVE_PENDING
+    pack: Pack Five
+    pack_number: 5
+    section: "H"
+    title: Does the Kharven arc get a retroactive register pass
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the eight Kharven prose scenes, written under the manhwa
+      directive, are left forward-only or the arc gets a register pass.
+    verbatim: >-
+      Retroactive application. The eight Kharven prose scenes were written
+      under the manhwa directive. Forward-only, or does the arc get a
+      register pass?
+    amends: null
+    supersedes: []
+    applies_to: [register, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Five.md
+      lines: "185"
+    notes: >-
+      Until ruled, Natalie writes to the proposed answer (yes, Martin wins)
+      and flags any passage where the choice visibly bites (source line
+      187).

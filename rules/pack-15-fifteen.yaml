@@ -181,7 +181,9 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "62"
     notes: >-
-      Populate supersedes with the Pack Nine rule ID in Phase 2.
+      Backfilled: demotes R9-2-CLASS_MARKED_CRAFT_WORDS (Pack Nine PART
+      TWO) from a requirement to optional flavour. A demotion, not a full
+      strike, so no supersedes link is set.
 
   - id: R15-A
     pack: Pack Fifteen

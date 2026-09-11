@@ -1,0 +1,1077 @@
+# Pack Thirteen: "Status: originated by Natalie, pending Isaac's ruling"
+# (italic line, source line 5). No section marked confirmed, so every row is
+# status: proposed, EXCEPT R13-6-HAX_DIALOGUE_BAN, which Pack Fifteen S4
+# already struck (see R15-4-THIRTEEN_HAX_STRUCK) even though the rest of
+# this pack remains unratified — struck-while-proposed is a valid state.
+pack: Pack Thirteen
+pack_number: 13
+source_file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+ratified: null
+rules:
+
+  - id: R13-2-THREE_STRATA_MANDATE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: Every working is explained at three strata
+    status: proposed
+    kind: mandate
+    summary: >-
+      Every working explained on the page is explained at three strata (the
+      Aether, the Wellspring, the Essence), in the Technical Register,
+      through one of Pack Twelve's four voices; the strata's causal order
+      need not be the order on the page.
+    verbatim: >-
+      Every working explained on the page is explained at three strata, in
+      the Technical Register, through one of Twelve's four voices. The
+      order below is the order of causation. It does not have to be the
+      order on the page.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "25"
+    notes: null
+
+  - id: R13-2-STRATUM_ONE_AETHER
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: "Stratum one: the Aether"
+    status: proposed
+    kind: definition
+    summary: >-
+      The Aether stratum is what was already in the room before a draw:
+      Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw
+      Age the district main/standpipe/meter; its real-science analogue is
+      field, gradient, reservoir, saturation, conduction, and a working
+      changes with local density.
+    verbatim: >-
+      Stratum one, the Aether. The ocean. Material Plane. What was in the
+      room before anyone drew on it: Aetheric Density (sets the AU/s ceiling
+      for that location), Aetheric Residue from prior workings, Aetheric
+      Saturation if the room is already flooded, and in the Draw Age the
+      district main, the standpipe, the meter, and whether the district is
+      cut off.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "27"
+    notes: null
+
+  - id: R13-2-STRATUM_TWO_WELLSPRING
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: "Stratum two: the Wellspring"
+    status: proposed
+    kind: definition
+    summary: >-
+      The Wellspring stratum is the law: each of the Sixty carries a Core
+      Law, Family and Physics Domain assigned as real physics, and its law
+      is stated as that real law with a directional operator; the glyph
+      constrains degrees of freedom rather than creating the effect.
+    verbatim: >-
+      Stratum two, the Wellspring. The law. Each of the Sixty carries a Core
+      Law, a Family, and a Physics Domain, and the Codex assigns the Physics
+      Domain as real physics: Thermodynamics, Electromagnetism, Mechanics,
+      Spatial Geometry, Material Science, Biochemistry, Fluid Dynamics,
+      Abstract/Entropic Systems, Cross-Family Boundary Physics. The
+      Wellspring's law is stated as that real law with a directional
+      operator on it.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "29"
+    notes: null
+
+  - id: R13-2-STRATUM_THREE_ESSENCE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: "Stratum three: the Essence"
+    status: proposed
+    kind: definition
+    summary: >-
+      The Essence stratum is the soul's water: Soul Crystal architecture
+      (Essence Core, Aether Shell, Attraction Layer) and cost (EU, eta,
+      Flux Density, Crystal State); real-science analogue is efficiency,
+      impedance, resonance, fatigue, phase change of the vessel.
+    verbatim: >-
+      Stratum three, the Essence. The soul's water. Soul Crystal
+      architecture: Essence Core (intent, identity), Aether Shell
+      (conversion to force; Lattice Conductivity, Resonant Purity,
+      Continuum Retention), Attraction Layer (recognition; Attraction Force
+      clean, Obsession Force corrupted). Cost lives here: EU spent, eta lost
+      as heat and static and structural bleed, Flux Density under
+      compression, Crystal State under strain (Refined, Fractured,
+      Overgrown, Crystallized).
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "31"
+    notes: null
+
+  - id: R13-2-CATEGORY_ACROSS_STRATA
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: Category is laid across all three strata
+    status: proposed
+    kind: definition
+    summary: >-
+      The twenty-six Categories say what kind of thing came out; their
+      alignment tag names which Plane carries the cost and which the
+      counterplay; Category is workbook/Codex-line by default and may be
+      named in diagnostic voice to tell the reader where to hit.
+    verbatim: >-
+      The Category, laid across all three. The twenty-six answer what kind
+      of thing came out. Their alignment tag (Body, Spirit, Attraction,
+      Triadic, or a seam between two) names which Plane carries the cost and
+      which Plane the counterplay lives on.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [codex, magic-mechanism, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "33"
+    notes: null
+
+  - id: R13-2-CRAFT_DEFINITION
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§2"
+    title: The Craft sets durability of a projected form
+    status: proposed
+    kind: definition
+    summary: >-
+      The Craft (per Pack Ten) is which mouth a working came out of —
+      speaking, cutting, pouring, writing — and it sets the durability of a
+      projected form.
+    verbatim: >-
+      The Craft. Which mouth it came out of (Pack Ten): the speaking, the
+      cutting, the pouring, the writing. Craft sets durability of a
+      projected form.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§2"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "35"
+    notes: null
+
+  - id: R13-3-PHENOMENON_MANDATE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§3"
+    title: Every new working names its phenomenon before it ships
+    status: proposed
+    kind: mandate
+    summary: >-
+      Before shipping, every new working/technique/ability names in the
+      author notes the real phenomenon it runs on, the Physics Domain and
+      Wellspring it specialises, the Category and alignment tag, the
+      Mechanism Vocabulary term it dramatises, and the fault the mechanism
+      creates (which must fall out of the phenomenon, not from stamina or
+      convenience).
+    verbatim: >-
+      Every new working, technique, or ability names, in the author notes,
+      before it ships:
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§3"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "47"
+    notes: null
+
+  - id: R13-3-INVENTION_STEP
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§3"
+    title: The invention step, one step past the textbook
+    status: proposed
+    kind: mandate
+    summary: >-
+      Textbook physics is the floor for a technique, not the ceiling; the
+      technique is what a practitioner does with the phenomenon that a
+      physicist could not.
+    verbatim: >-
+      Then the invention step. Push the phenomenon one step past where the
+      textbook stops. Textbook physics is the floor; the technique is what
+      a practitioner does with it that a physicist could not.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§3"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "55"
+    notes: null
+
+  - id: R13-3-PHENOMENON_BANK
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§3"
+    title: The Phenomenon Bank, eight originated seeds pending ratification
+    status: proposed
+    kind: definition
+    summary: >-
+      One originated technique seed per Physics Domain (Exuroth,
+      Orrenthal, Absolution, Eclipseron, Fixatio, Mortalis, Somnalis,
+      Vantabriel), each with Wellspring/Category assigned after the
+      phenomenon per the Ability Guide; all eight are pending ratification
+      (see R13-E).
+    verbatim: >-
+      The Phenomenon Bank. One seed per Physics Domain, all originated, all
+      pending. Wellspring and Category given as the assignment that fits,
+      decided after the phenomenon, per the Ability Guide.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "57"
+    notes: >-
+      Individual seed flavour text (Exuroth, Orrenthal, etc.) is not
+      extracted row by row; it is proposed technique content awaiting
+      ratification, not itself an enforceable proposition. See R13-E.
+
+  - id: R13-4-COMBAT_FLOOR
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§4"
+    title: The combat technical floor, eight required elements
+    status: proposed
+    kind: mandate
+    summary: >-
+      Every meaningful exchange states, in one of the four voices: measure,
+      tempo (Vor/Nach/Indes), the named read, the fault it exposes, the
+      mechanics of the hit, the injury by structure with ATLS-class blood
+      loss, the Essence account at all three strata, and what the
+      character cannot do next.
+    verbatim: >-
+      Every meaningful exchange (a hit that lands, a first display, a
+      counter, a change of measure that decides something) puts the
+      following on the page, stated, in one of the four voices:
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [combat, adjudication, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "72"
+    notes: null
+
+  - id: R13-4-DENSITY_BUDGET
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§4"
+    title: Combat floor density by scene length
+    status: proposed
+    kind: budget
+    summary: >-
+      A 2,500-word duel carries the full eight-item floor at first display
+      and finisher, plus items 1-4 at every fight-changing exchange; a
+      700-1,500-word turn carries items 1-4 once and item 8 at close.
+    verbatim: >-
+      Density. A duel of 2,500 words carries the full floor at first
+      display and finisher, and items 1 to 4 at every exchange that changes
+      the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§4"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "83"
+    notes: null
+
+  - id: R13-4-THREE_EXPLANATIONS
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§4"
+    title: First display and finisher carry three causal explanations
+    status: proposed
+    kind: mandate
+    summary: >-
+      At first display and finisher, physics, Essence and Hermetic
+      correspondence must each appear as a causal sentence beside its
+      image, not as the image alone.
+    verbatim: >-
+      The three layers become three explanations. Physics, Essence,
+      Hermetic correspondence: at first display and finisher each is a
+      causal sentence beside its image, not the image alone.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§4"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "85"
+    notes: null
+
+  - id: R13-5-GAP_FILL_PASS
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§5"
+    title: The gap-fill pass runs before polishing
+    status: proposed
+    kind: procedure
+    summary: >-
+      Before a submitted fight or working is polished, an eight-step
+      gap-fill pass runs (beat inventory, logic audit, stratum audit,
+      physics audit, body audit, phenomenon audit, vocabulary pass, prose
+      pass last), logged in the author notes under "Added by the gap-fill
+      pass."
+    verbatim: >-
+      When Isaac submits a fight or a working for improvement, this runs
+      before a single sentence is polished, and the author notes carry a
+      section headed Added by the gap-fill pass, itemised.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, verification, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "91"
+    notes: null
+
+  - id: R13-6-WOTR_FIRST
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: WOTR nouns are used in preference to borrowed ones
+    status: proposed
+    kind: mandate
+    summary: >-
+      The glossary and Codex's own nouns (the Planes, Aether, Essence, the
+      Soul Crystal and its layers, Crystal States, Attraction/Obsession
+      Force, the Sixty, the Families, the Categories, the Mechanism
+      Vocabulary, EU/Flux Density/AU-s/eta/Band/Grade/Stage) are used in
+      preference to anything borrowed.
+    verbatim: >-
+      WOTR first. The glossary and the Codex already own the nouns and they
+      are used in preference to anything borrowed: the three Planes, the
+      Veil, Aether and its Density, Residue, Saturation, Essence and its
+      Quality, Signature, Typology, the Soul Crystal and its three layers,
+      Lattice Conductivity, Resonant Purity, Continuum Retention, the four
+      Crystal States, Attraction and Obsession Force, the Sixty, the eight
+      Families, the twenty-six Categories, the Mechanism Vocabulary, EU,
+      Flux Density, AU/s, eta, Band, Grade, Stage.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [register, magic-mechanism, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "106"
+    notes: null
+
+  - id: R13-6-REAL_SCIENCE_VOCAB
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Real science vocabulary explains the WOTR noun, by Physics Domain
+    status: proposed
+    kind: definition
+    summary: >-
+      Real scientific terms (pressure differential, gradient, latent heat,
+      phase transition, dielectric breakdown, resonance, cavitation,
+      nucleation, information entropy, boundary condition, and the rest) are
+      the vocabulary used to explain what a WOTR noun is doing.
+    verbatim: >-
+      Real science, by Physics Domain, to explain what the WOTR noun is
+      doing: pressure differential, gradient, latent heat, phase
+      transition, adiabatic compression, dielectric breakdown, induction,
+      eddy current, impedance, resonance, standing wave, interference,
+      damping, cavitation, shear and compression, spallation, hydrostatic
+      shock, nucleation, supercooling, information entropy, boundary
+      condition, degrees of freedom.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "108"
+    notes: null
+
+  - id: R13-6-METAPHYSICS_VOCAB
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Metaphysics vocabulary for the Plane of Fate and Hermetic layer
+    status: proposed
+    kind: definition
+    summary: >-
+      Correspondence, sympathy and contagion, essence and accident, form
+      and actualisation, and recognition and refusal are the vocabulary of
+      stratum two's Attraction-side reads and of the document voice.
+    verbatim: >-
+      Metaphysics, for the Plane of Fate and the Hermetic layer:
+      correspondence, sympathy and contagion, essence and accident, form
+      and actualisation, recognition and refusal. These are the vocabulary
+      of stratum two's Attraction-side reads and of voice four, the
+      document.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [register, magic-mechanism, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "110"
+    notes: null
+
+  - id: R13-6-HEMA_VOCAB
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: HEMA vocabulary extends past the longsword
+    status: proposed
+    kind: definition
+    summary: >-
+      Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe,
+      dagger, grappling, messer, sword and buckler, mounted lance) with a
+      percussion master-strike table built for the hammer specifically.
+    verbatim: >-
+      HEMA, extended past the longsword: spear and staff, poleaxe, dagger
+      and the grappling plays, messer, sword and buckler, mounted lance. A
+      percussion master-strike table built for the hammer, not borrowed.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "112"
+    notes: null
+
+  - id: R13-6-ANATOMY_VOCAB
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Anatomy and injury are named by structure
+    status: proposed
+    kind: mandate
+    summary: >-
+      Anatomy is named by structure, fractures by fracture type, and
+      neurological consequence by name.
+    verbatim: >-
+      Anatomy by named structure. Fracture types by name. Neurological
+      consequence by name.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "114"
+    notes: null
+
+  - id: R13-6-SCALING_VOCAB_RESTRICTED
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Scaling vocabulary stays in author notes, never on the page
+    status: proposed
+    kind: ban
+    summary: >-
+      Scaling-comparison vocabulary (Attack Potency, durability, hax as a
+      concept, speed blitz, reaction vs combat speed, striking vs lifting
+      strength, range, outlier, anti-feat) is used only in author notes and
+      adjudication, never on the page, to keep Natalie honest about who
+      wins and why.
+    verbatim: >-
+      Scaling vocabulary, author-notes and adjudication only, never on the
+      page: Attack Potency (energy of one attack, not its area), durability,
+      hax (a working that bypasses a statistic rather than overcoming it),
+      speed blitz, reaction speed against combat speed, striking against
+      lifting strength, range, outlier, anti-feat. Used to keep Natalie
+      honest about who wins and why.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, adjudication, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "116"
+    notes: >-
+      Distinct from R13-6-HAX_DIALOGUE_BAN below: Pack Fifteen §4 struck
+      only the narrower "a character never says hax" sentence, explicitly
+      leaving this author-notes-only restriction standing ("Scaling
+      vocabulary remains author-notes-first because it is adjudication
+      vocabulary, not because it is modern").
+
+  - id: R13-6-HAX_DIALOGUE_BAN
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: A character never says "hax"
+    status: superseded
+    kind: ban
+    summary: >-
+      A character never says the word "hax" on the page.
+    verbatim: >-
+      A character never says "hax."
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, dialogue, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "116"
+    notes: >-
+      Struck by Pack Fifteen §4: see R15-4-THIRTEEN_HAX_STRUCK, whose
+      supersedes list should now include this id (backfilled). Status set to
+      superseded here even though the rest of Pack Thirteen is still
+      status:proposed, since this specific sentence is independently dead
+      regardless of whether the parent pack is ever ratified.
+
+  - id: R13-6-ANIME_GRAMMAR_TRANSLATION_AID
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Anime grammar is a translation aid, never page vocabulary
+    status: proposed
+    kind: ban
+    summary: >-
+      Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's
+      shape/nature split, JJK's vow and reversal, Bleach's release) is used
+      only to identify which shape a working needs, then written in WOTR's
+      own words; it never appears as page vocabulary.
+    verbatim: >-
+      Anime grammar as a translation aid, never as page vocabulary. Nen's
+      shroud, stop, output, expression, and their refinements; Naruto's
+      split of shape from nature; JJK's vow and reversal; Bleach's release.
+      When a WOTR working needs a shape, check which of these it is, then
+      write it in WOTR's words.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [register, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "118"
+    notes: null
+
+  - id: R13-6-CHEMISTRY_BAN_SCOPE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§6"
+    title: Pack Six's chemistry ban is confirmed narrow in scope
+    status: proposed
+    kind: definition
+    summary: >-
+      Pack Six's chemistry ban survives, but only for ambient sensory
+      impression; it does not touch a hit, a wound, or a working.
+    verbatim: >-
+      Pack Six's chemistry ban survives for ambient sensory impression. It
+      does not touch a hit, a wound, or a working.
+    amends: null
+    supersedes: []
+    applies_to: [register, worldbuilding, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "120"
+    notes: null
+
+  - id: R13-7-RESEARCH_RULE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§7"
+    title: Every set piece is researched before writing
+    status: proposed
+    kind: procedure
+    summary: >-
+      Before any set piece, first display, finisher or new working, Natalie
+      searches at minimum once each for the real phenomenon, the real
+      weapon/injury/physiology, and the nearest anime or CRP precedent for
+      the shape, consulting the Codex Spell Index and Magical Categories
+      page, and names what was consulted in the author notes; a set piece
+      written from memory is a failed set piece.
+    verbatim: >-
+      Before any set piece, first display, finisher, or new working,
+      Natalie searches, at minimum, once each for: the real phenomenon; the
+      real weapon, injury, or physiology; and the nearest anime or CRP
+      precedent for the shape. The Codex Spell Index and the Magical
+      Categories page are consulted for assignment. The author notes name
+      what was consulted. A set piece written from memory is a failed set
+      piece.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, magic-design, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "126"
+    notes: null
+
+  - id: R13-8-RECONSTRUCTIBLE_ADJUDICATION
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§8"
+    title: Adjudication decisions must be reconstructible from the page
+    status: proposed
+    kind: mandate
+    summary: >-
+      Table Rule 5's contested-action decisions must be reconstructible
+      from the page; a fight that resolves because the scene needed it to
+      has failed the pack and is rewritten.
+    verbatim: >-
+      Table Rule 5 decides contested actions from Stage gap, whether the
+      read landed, what has been spent, and what the environment allows.
+      This pack requires the decision to be reconstructible from the page.
+      A fight that resolves because the scene needed it to has failed the
+      pack and is rewritten.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Table Rule 5"
+        operation: extends
+    supersedes: []
+    applies_to: [adjudication, combat, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "132"
+    notes: null
+
+  - id: R13-9-COMBAT_GUIDE_EDIT
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Combat Craft Guide §4 rewritten, §1 extended
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      The Combat Craft Guide (third edition) has its §4 rewritten off this
+      pack's §4, and its §1 extended per §6; named-character guard and cut
+      assignments run in the same edition.
+    verbatim: >-
+      WOTR_Combat_Craft_Guide.md. Third edition. §4 rewritten off §4 above.
+      §1 extended per §6. Named-character guard and cut assignments run in
+      the same edition.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "§4"
+        operation: replaces
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "138"
+    notes: null
+
+  - id: R13-9-ABILITY_GUIDE_CHAPTERS
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Ability Guide gains §2 and §3 as explanation/invention chapters
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      The Ability and Technique Design Guide (sixth edition) carries this
+      pack's §2 and §3 as its explanation and invention chapters.
+    verbatim: >-
+      WOTR_Ability_Technique_Design_Guide.md. Sixth edition, already ordered
+      by Twelve, now carries §2 and §3 as its explanation and invention
+      chapters.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "139"
+    notes: null
+
+  - id: R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Mechanism Vocabulary surfacing rule amended
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      Bare jargon mid-action stays banned, but a Mechanism Vocabulary term
+      may now be named in diagnostic voice alongside its dramatisation.
+    verbatim: >-
+      WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's
+      surfacing rule is amended: bare-jargon mid-action stays banned; the
+      term may be named in diagnostic voice alongside its dramatisation.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [register, magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "140"
+    notes: null
+
+  - id: R13-9-VERIFY_CHECKS_22_26
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: "--combat verification adds checks 22-26"
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density,
+      warn), 23 (anatomical density, warn), 24 (causal-connective density in
+      fight passages, fail), 25 (a stated fault per named technique, fail),
+      and 26 (a reserve account per working, fail).
+    verbatim: >-
+      wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density,
+      anatomical density, causal-connective density in fight passages, a
+      stated fault per named technique, a reserve account per working. 22
+      and 23 warn; 24 to 26 fail.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "checks 22-26"
+        operation: adds
+    supersedes: []
+    applies_to: [combat, verification]
+    verification: ["check-22", "check-23", "check-24", "check-25", "check-26", "--combat"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "141"
+    notes: null
+
+  - id: R13-9-ITEM_GUIDE_WEAPON_ENTRY
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Every weapon entry carries mass, length, balance and armour result
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      Every weapon entry in the Item and Equipment Writing Guide carries
+      mass, length, point of balance, and the armour tier it beats and
+      fails against.
+    verbatim: >-
+      WOTR_Item_and_Equipment_Writing_Guide.md. Every weapon entry carries
+      mass, length, point of balance, and the armour tier it beats and
+      fails against.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: "weapon entry"
+        operation: adds
+    supersedes: []
+    applies_to: [items, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "142"
+    notes: null
+
+  - id: R13-9-NOTION_PHYSICS_LINE
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Notion Categories and Lexicon pages gain a physics-line
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      The Notion Magical Categories page and Lexicon page each gain a
+      "Physics Domain and real phenomenon" line per entry, giving §3 a wiki
+      home.
+    verbatim: >-
+      Notion. The Magical Categories page and the Lexicon page gain a
+      "Physics Domain and real phenomenon" line per entry, so §3 has a wiki
+      home.
+    amends:
+      - guide: "Notion Magical Categories and Lexicon pages"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [codex, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "143"
+    notes: null
+
+  - id: R13-9-NOTES_TEMPLATE_SECTIONS
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§9"
+    title: Author notes template gains two standing sections
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      "Added by the gap-fill pass" and "Phenomenon line" become standing
+      sections of the author notes template.
+    verbatim: >-
+      Author notes template. Added by the gap-fill pass and Phenomenon line
+      become standing sections.
+    amends:
+      - guide: "author notes template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [documents, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "144"
+    notes: null
+
+  - id: R13-A
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: Physical-unit ceiling, who may speak in Joules and m/s
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether Joules and metres-per-second are restricted to a
+      Measurewright's or Guild officer's mouth, with weight-and-reach for
+      everyone else.
+    verbatim: >-
+      Physical-unit ceiling. Joules and metres per second in a
+      Measurewright's or Guild officer's mouth only; weight-and-reach for
+      everyone else.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, register, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "150"
+    notes: >-
+      Recommendation: yes.
+
+  - id: R13-B
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: Percussion master-strike table, Dawi-authored or Concord
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether the percussion master-strike table is Dawi-authored in-world
+      or Concord.
+    verbatim: >-
+      The percussion master-strike table: Dawi-authored in-world or
+      Concord.
+    amends: null
+    supersedes: []
+    applies_to: [combat, worldbuilding, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "151"
+    notes: >-
+      Recommendation: Dawi, closing half of Docket 18.
+
+  - id: R13-C
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: Shot against a worked cuirass, steel or the working stops it
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether steel or the working stops shot against a worked cuirass.
+    verbatim: >-
+      Shot against a worked cuirass: does the steel stop it or the working.
+    amends: null
+    supersedes: []
+    applies_to: [combat, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "152"
+    notes: >-
+      Recommendation: the steel, always, or Pack Eleven's economy inverts.
+
+  - id: R13-D
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: May the gap-fill pass change an outcome Isaac wrote
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether the gap-fill pass may change an outcome Isaac wrote when no
+      cause fits.
+    verbatim: >-
+      May the gap-fill pass change an outcome Isaac wrote when no cause
+      fits.
+    amends: null
+    supersedes: []
+    applies_to: [combat, verification, session-protocol]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "153"
+    notes: >-
+      Recommendation: no. Flag, propose the smallest change, wait.
+
+  - id: R13-E
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: Ratify the Phenomenon Bank's eight seeds, any, all or none
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether to ratify any, all, or none of the Phenomenon Bank's eight
+      seeds (see R13-3-PHENOMENON_BANK).
+    verbatim: >-
+      The Phenomenon Bank's eight seeds: ratify any, all, or none.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "154"
+    notes: null
+
+  - id: R13-F
+    pack: Pack Thirteen
+    pack_number: 13
+    section: "§10"
+    title: Category naming in diagnostic voice beyond the Apparatus Rule
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether Category naming in diagnostic voice may go beyond the
+      Apparatus Rule's single read per engagement.
+    verbatim: >-
+      Category naming in diagnostic voice beyond the Apparatus Rule's
+      single read.
+    amends: null
+    supersedes: []
+    applies_to: [codex, dialogue, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
+      lines: "155"
+    notes: >-
+      Recommendation: allow it inside a Measurewright's or opponent's
+      explanation since Twelve already opened that door.

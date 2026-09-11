@@ -473,7 +473,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md"
         locus: "§6"
         operation: strikes
-    supersedes: []
+    supersedes: [R13-6-HAX_DIALOGUE_BAN]
     applies_to: [dialogue, register, adjudication]
     verification: []
     ratified: "6 September 2026"
@@ -481,8 +481,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "60"
     notes: >-
-      supersedes should point at the Pack Thirteen §6 rule ID once Phase 1
-      reaches Pack Thirteen; backfill before Phase 1 closes.
+      Backfilled: supersedes points at R13-6-HAX_DIALOGUE_BAN now that Pack
+      Thirteen has been extracted.
 
   - id: R15-4-MEMORY_ENTRIES_SUPERSEDED
     pack: Pack Fifteen

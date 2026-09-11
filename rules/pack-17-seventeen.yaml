@@ -357,7 +357,7 @@ rules:
       already required by the Item Guide; Pack Seventeen adds that any
       working the object performs carries a full Operation line of its own.
     amends:
-      - guide: "Item and Equipment Writing Guide"
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
         locus: null
         operation: extends
     supersedes: []

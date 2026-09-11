@@ -23,7 +23,7 @@ rules:
     verbatim: >-
       The Codex is opened before the working is designed, not after.
     amends:
-      - guide: "Ability and Technique Design Guide"
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: extends
     supersedes: []
@@ -53,7 +53,7 @@ rules:
       has been read and the absence demonstrated. A proposal that does not
       name what was checked and why it failed is not a proposal.
     amends:
-      - guide: "Ability and Technique Design Guide"
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: extends
     supersedes: []
@@ -112,7 +112,7 @@ rules:
       document and everything originated in play belongs in it or does not
       exist.
     amends:
-      - guide: "Ability and Technique Design Guide"
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: extends
     supersedes: []
@@ -247,7 +247,7 @@ rules:
     verbatim: >-
       Three sources, consulted in this order, and none of them optional.
     amends:
-      - guide: "Ability and Technique Design Guide"
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: extends
     supersedes: []
@@ -279,7 +279,7 @@ rules:
       Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is
       bound by their entries there.
     amends:
-      - guide: "Ability and Technique Design Guide"
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
         locus: null
         operation: extends
     supersedes: []

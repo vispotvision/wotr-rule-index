@@ -1,0 +1,921 @@
+# Pack One, the unnumbered filename (WOTR_Companion_Guide_Amendments.md),
+# Family A structure. No pending/originated language anywhere; a "CLOSED
+# BY THIS PACK" table confirms all four amendments settled. status:live
+# throughout except explicit per-character "Pitch"/"Not assigned" items
+# and the "Still Open" section. Three Still Open items are later closed by
+# Pack Two/Three (marked superseded here for docket cleanliness, same
+# editorial-judgment basis documented on the Pack Two rows).
+pack: Pack One
+pack_number: 1
+source_file: WOTR_Companion_Guide_Amendments.md
+ratified: null
+rules:
+
+  - id: R1-1-THREE_VOCABULARIES_RULING
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: WOTR uses three combat vocabularies, not one
+    status: live
+    kind: mandate
+    summary: >-
+      WOTR uses three combat vocabularies (Blade, Verdict, Percussion),
+      not one; the vocabulary is assigned before the technique.
+    verbatim: >-
+      Ruling: WOTR uses three combat vocabularies, not one. Assign the
+      vocabulary before assigning the technique.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "23"
+    notes: >-
+      This is the three-vocabulary framework Pack Three's Amendment Seven
+      later extends with a fourth grammar, Expenditure
+      (R3-7-EXPENDITURE_GRAMMAR).
+
+  - id: R1-1-BLADE_GRAMMAR
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Blade Grammar, the existing Liechtenauer/Fiore framework
+    status: live
+    kind: definition
+    summary: >-
+      Applies to characters trained in a conventional sword tradition
+      (guards, master-cuts, the bind, Winden, Indes, Absetzen,
+      Durchwechseln); the full existing framework applies without change,
+      assigned to conventional duellists, Concord Aether Knights, Old
+      World nobility, and guild fencing traditions.
+    verbatim: >-
+      Blade Grammar (Liechtenauer/Fiore, as the guide already documents).
+      Applies to characters trained in a conventional sword tradition.
+      Guards, master-cuts, the bind, Winden, Indes, Absetzen,
+      Durchwechseln. Full existing framework applies without change.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "27-28"
+    notes: null
+
+  - id: R1-1-VERDICT_GRAMMAR
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Verdict Grammar, read-rank-commit
+    status: live
+    kind: definition
+    summary: >-
+      Applies to characters whose combat is a reading followed by a
+      conclusion, with no conversation because a conclusion doesn't
+      converse; the prose skeleton is read, rank, commit, and the tension
+      lives in the read; the beat before the strike is longer than the
+      strike.
+    verbatim: >-
+      Verdict Grammar. Applies to characters whose combat is a reading
+      followed by a conclusion. There is no conversation because a
+      conclusion does not converse. The prose skeleton is read, rank,
+      commit, and the tension lives in the read rather than in the
+      exchange.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "31-32"
+    notes: null
+
+  - id: R1-1-PERCUSSION_VS_BLADE
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Blade hunts openings; Percussion hunts fatigue
+    status: live
+    kind: definition
+    summary: >-
+      A swordsman asks where you are unguarded; a hammer asks where you
+      are already carrying load — fatigue accumulates and openings do not,
+      so percussion fights get more dangerous the longer they run while
+      blade fights get less decisive.
+    verbatim: >-
+      Blade grammar hunts openings. Percussion grammar hunts fatigue. That
+      is the whole distinction and it comes straight out of Dougou's own
+      canonical doctrine: do not break the wall, make the wall confess
+      where it was already tired.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Percussion Grammar"
+        operation: adds
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "42"
+    notes: >-
+      Directly parallels Pack Three's Expenditure grammar ("hunts cost"),
+      which frames itself against the same Blade/Verdict/Percussion set
+      (R3-7-EXPENDITURE_GRAMMAR).
+
+  - id: R1-1-PERCUSSION_MOVES
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: The four Percussion moves
+    status: live
+    kind: definition
+    summary: >-
+      The Settling breaks stance (descending full weight into the base);
+      the Sweep breaks the base (horizontal, full arc and mass); the Shove
+      breaks measure (haft/shoulder/boss/pommel at closed distance); the
+      Return breaks recovery (the rebound redirected into a second strike)
+      and is the grammar's signature.
+    verbatim: >-
+      | The Settling | Descending, full weight, delivered into the
+      opponent's base rather than at their body | Stance. Answers anyone
+      rooted, braced, or planted. The correct answer to a man who has
+      decided not to move. |
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Percussion Grammar"
+        operation: adds
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "48-51"
+    notes: null
+
+  - id: R1-1-PERCUSSION_VS_PLATE_AND_TELL
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Percussion uses plate rather than defeating it; the tell
+    status: live
+    kind: definition
+    summary: >-
+      Percussion does not seek to penetrate plate, it uses it — armour
+      transmits force inward, so the target is the joint, base and balance,
+      making the plate expensive to wear. The tell is that the fighter
+      tracks breathing and footing rather than the weapon.
+    verbatim: >-
+      Percussion answers to plate: none of these seek to penetrate. Plate
+      is not defeated by percussion, it is used. The armour transmits
+      force inward, and the correct target is the joint, the base, the
+      balance and the man's ability to keep standing in fifty pounds of
+      steel. A percussion fighter's answer to plate is to make the plate
+      expensive to wear.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Percussion Grammar"
+        operation: adds
+    supersedes: []
+    applies_to: [combat, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "53"
+    notes: null
+
+  - id: R1-1-SODOKU_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Sodoku Moto's canonical combat assignment
+    status: live
+    kind: definition
+    summary: >-
+      Verdict grammar; signature Ichii Kessai from Lion Stance, no
+      defensive form; answers plate with fault-line propagation, ranking
+      it and cutting where already stressed; canonical, transcribed not
+      invented.
+    verbatim: >-
+      Sodoku Moto | Verdict | Ichii Kessai from Lion Stance. No defensive
+      form; defence means ending it first. | Fault-line propagation. He
+      does not go through plate, he ranks it and cuts where it is already
+      stressed. | Canonical, transcribed not invented
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "61"
+    notes: null
+
+  - id: R1-1-RASHANI_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Rashani Zettai's canonical combat assignment
+    status: live
+    kind: definition
+    summary: >-
+      Verdict grammar; signature Origin read then Zero-Point deflection,
+      wins by knowing rather than reaching; answers plate with a structural
+      read through to what it's bolted to; canonical.
+    verbatim: >-
+      Rashani Zettai | Verdict | Origin read, then Zero-Point deflection.
+      Wins by knowing rather than by reaching. | Structural read through
+      the armour to what it is bolted to. | Canonical
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "62"
+    notes: null
+
+  - id: R1-1-RENGAI_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Rengai Zettai's combat assignment, post-injury reading pitched
+    status: pending
+    kind: definition
+    summary: >-
+      Percussion grammar; signature the Return, narrowing post-injury into
+      economy rather than flourish; answers plate by using it (joints and
+      base); the post-injury reading follows from the Cinder Lung material
+      and needs confirmation.
+    verbatim: >-
+      Rengai Zettai | Percussion | The Return. Post-injury, his field
+      ceiling narrows and the Return becomes his economy rather than his
+      flourish. | Uses the plate. Joints and base. | Pitch. The
+      post-injury reading follows from the Cinder Lung material and needs
+      your confirmation
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "63"
+    notes: null
+
+  - id: R1-1-DOUGOU_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Dougou Zettai's canonical combat assignment
+    status: live
+    kind: definition
+    summary: >-
+      Percussion grammar; signature the Settling into the Iron Step,
+      striking the ground before the body; answers plate with Black-Heart
+      Bison Break, backforce rather than penetration; canonical.
+    verbatim: >-
+      Dougou Zettai | Percussion | The Settling into the Iron Step.
+      Strikes the ground before the body. | Black-Heart Bison Break.
+      Backforce rather than penetration. | Canonical
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "64"
+    notes: null
+
+  - id: R1-1-COZBI_TENTATIVE
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Cozbi Mahuo's tentative Verdict assignment, not assigned
+    status: superseded
+    kind: definition
+    summary: >-
+      Tentatively Verdict grammar (patience as a weapon, a temporal
+      read); answer to plate deferred; explicitly not assigned pending a
+      proper pass against the framework.
+    verbatim: >-
+      Cozbi Mahuo | Verdict | Patience as a weapon. The read is not
+      tactical, it is temporal. | Deferred, see below. | Not assigned
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "65"
+    notes: >-
+      Superseded by Pack Three's actual assignment of Cozbi to a new
+      fourth grammar, Expenditure, not Verdict (R3-7-COZBI_ASSIGNED).
+
+  - id: R1-1-YOKO_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Yoko Mishiro's combat assignment, pitched
+    status: pending
+    kind: definition
+    summary: >-
+      Blade grammar; works from the bind, nose reads before eyes so her
+      Indes is genuinely faster than her sight allows, an unfair advantage
+      she does not comment on; answers plate with half-swording into gaps.
+    verbatim: >-
+      Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes,
+      so her Indes is genuinely faster than her sight allows, which is her
+      signature and should be written as an unfair advantage she does not
+      comment on. | Half-swording into gaps. Precision, not force. | Pitch
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "66"
+    notes: null
+
+  - id: R1-1-BLACK_AGENT_ASSIGNED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Black Agent's combat assignment, pitched
+    status: pending
+    kind: definition
+    summary: >-
+      Blade grammar; unhurried, every word and motion in exact position,
+      Absetzen and Durchwechseln rather than committed cuts; does not
+      engage plate, waits.
+    verbatim: >-
+      Black Agent | Blade | Unhurried. Every word in exact position and
+      every motion likewise. Absetzen and Durchwechseln rather than
+      committed cuts. | Does not engage plate. Waits. | Pitch
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "67"
+    notes: null
+
+  - id: R1-1-RESTRICTED_CHARACTERS_EXCLUDED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment One"
+    title: Restricted characters are excluded from this framework
+    status: live
+    kind: definition
+    summary: >-
+      Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan,
+      Gorgi) are excluded entirely from this combat-vocabulary framework;
+      their assignments belong to their creators.
+    verbatim: >-
+      Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan,
+      Gorgi) are excluded entirely and their assignments belong to their
+      creators.
+    amends: null
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "69"
+    notes: null
+
+  - id: R1-2-THREE_FIELDS_MANDATORY
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Two"
+    title: Frontage, Sustain and Re-form are mandatory at scale
+    status: live
+    kind: mandate
+    summary: >-
+      Three further fields (Frontage, Sustain, Re-form) are mandatory for
+      any technique deployed against a formation; a technique that cannot
+      be given all three does not belong on a battlefield.
+    verbatim: >-
+      Three further fields are mandatory for any technique deployed
+      against a formation. A technique that cannot be given all three does
+      not belong on a battlefield and should not be written into one.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Scientific Mechanism Standard"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "80"
+    notes: >-
+      This is the origin Pack Two's Amendment Six.7 explicitly says it
+      restates (R2-6-FRONTAGE_SUSTAIN_REFORM).
+
+  - id: R1-2-FRONTAGE_DEFINED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Two"
+    title: Frontage — how much line a technique affects
+    status: live
+    kind: definition
+    summary: >-
+      Frontage is how much line a technique affects, in men or paces; the
+      distinction between a personal weapon and an instrument of war is
+      width, not power, and most spectacular techniques are narrow.
+    verbatim: >-
+      Frontage. How much line the technique affects, in men or in paces. A
+      frontage of twelve men is a personal weapon used in a battle. A
+      frontage of three hundred is an instrument of war. The distinction
+      is width, not power, and most spectacular techniques are narrow.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Scientific Mechanism Standard"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "82"
+    notes: null
+
+  - id: R1-2-SUSTAIN_DEFINED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Two"
+    title: Sustain — how long, and at what cost to the practitioner
+    status: live
+    kind: definition
+    summary: >-
+      Sustain is how long an effect holds before Essence cost forces
+      cessation, and what the practitioner cannot do while holding it —
+      the load-bearing clause, since it tells you what the enemy is free
+      to do during the window.
+    verbatim: >-
+      Sustain. How long the effect can be held before Essence cost forces
+      cessation, and what the practitioner cannot do while holding it. The
+      second clause is the load-bearing one, because it tells you what the
+      enemy is free to do during the window and therefore where the
+      scene's real tension sits.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Scientific Mechanism Standard"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "84"
+    notes: null
+
+  - id: R1-2-REFORM_DEFINED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Two"
+    title: Re-form — whether and how fast a formation recovers cohesion
+    status: live
+    kind: definition
+    summary: >-
+      Re-form is how long an affected formation needs to recover cohesion,
+      and whether it recovers at all — the field that decides engagements
+      and the one authors most often fail to decide before writing.
+    verbatim: >-
+      Re-form. How long an affected formation needs to recover cohesion,
+      and whether it recovers at all. This is the field that decides
+      engagements and the one authors most often fail to decide before
+      writing. A technique that breaks a line for ten minutes has bought a
+      local advantage. One that breaks a line permanently has ended the
+      war on that flank.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Scientific Mechanism Standard"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "86"
+    notes: null
+
+  - id: R1-2-COUNTERPLAY_THREE_WAYS
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Two"
+    title: Counterplay to a scaled technique is one of three things
+    status: live
+    kind: mandate
+    summary: >-
+      Counterplay to any scaled technique is always exceeding its
+      Frontage, outlasting its Sustain, or shortening its Re-form (via
+      drill, veterancy, redundant command, or a counter-Domain).
+    verbatim: >-
+      The counterplay to any scaled technique is therefore always one of
+      three things: 1. Exceed its Frontage so the war continues where it
+      is not. 2. Outlast its Sustain so the practitioner pays and gains
+      nothing. 3. Shorten its Re-form, which is what drill, veterancy,
+      redundant command and a counter-Domain seated toward your own men
+      are all purchased to do.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Scientific Mechanism Standard"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "88-91"
+    notes: null
+
+  - id: R1-3-SCENE_STANDARDS_DEFINED
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: The Scene Standards, and their mass-combat exception
+    status: live
+    kind: definition
+    summary: >-
+      The standing Scene Standards (minimum 2,500 words, layered sensory
+      opening, one private italic thought per named NPC, no section
+      spacers, end on physical action) apply in full to all scenes except
+      mass combat sequences, where two provisions are amended.
+    verbatim: >-
+      The standing Scene Standards (minimum 2,500 words, layered sensory
+      opening, one private italic thought per named NPC, no section
+      spacers, end on physical action) apply in full to all scenes except
+      mass combat sequences, where two provisions are amended.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "102"
+    notes: >-
+      This is the "Scene Standards" Pack Twelve S8 later partially strikes
+      (R12-8-SCENE_STANDARDS_BANS_STRUCK, sentence-level bans on mechanism
+      explanation and metaphysical numbers); confirm the exact match once
+      cross-checked, per the note already on that Pack Twelve row.
+
+  - id: R1-3-NAME_THREE_RULE
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: In mass combat, name three characters carry interiority
+    status: live
+    kind: mandate
+    summary: >-
+      The one-italic-thought-per-NPC standard is suspended in mass combat;
+      no more than three characters carry interiority through a battle
+      sequence, everyone else is exterior only, and interiority for named
+      characters outside the three is deferred to the aftermath.
+    verbatim: >-
+      The one-private-italic-thought-per-named-NPC standard is suspended
+      in mass combat. It exists to make a small cast feel populated and it
+      does the opposite at scale, producing a scene that reads as a poll
+      of forty consciousnesses. Replacement standard: name three. No more
+      than three characters carry interiority through a battle sequence.
+      Everyone else is exterior only: actions, voices, bodies. Interiority
+      for named characters outside the three is deferred to the
+      aftermath, where it lands harder because the reader has been
+      waiting for it.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [mass-combat, pov, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "104-107"
+    notes: null
+
+  - id: R1-3-WORD_FLOOR_INCLUDES_AFTERMATH
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: The word floor covers the engagement plus its aftermath
+    status: live
+    kind: mandate
+    summary: >-
+      The 2,500-word minimum applies to the engagement plus its aftermath
+      treated as one unit, not the fighting alone; a battle that ends when
+      the fighting ends has not met the standard regardless of length.
+    verbatim: >-
+      The 2,500-word minimum applies to the engagement plus its aftermath
+      treated as one unit, not to the fighting alone. A battle sequence
+      that ends when the fighting ends has not met the standard regardless
+      of its length.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "109-110"
+    notes: null
+
+  - id: R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: Interior action of a battle occurs in its aftermath
+    status: live
+    kind: mandate
+    summary: >-
+      Whatever an engagement will do to characters' relationships happens
+      in the three days afterward, over the burial detail and the
+      arguments about who should have done what — the fight itself is too
+      loud and too fast for anyone to change during it.
+    verbatim: >-
+      Rule: the interior action of a battle occurs in its aftermath.
+      Whatever the engagement was going to do to your characters'
+      relationships, it does in the three days afterward, over the burial
+      detail, in the sick lines, and in the arguments about who should
+      have done what. The fight itself is too loud and too fast for anyone
+      to change during it.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, character-sheet, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "116"
+    notes: >-
+      This is the founding principle Pack Two's entire "Interior Action at
+      Scale" amendment (the Single Act, R2-5-SINGLE_ACT_RULE) builds a
+      concrete method for.
+
+  - id: R1-3-PLAN_AFTERMATH_FIRST
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: Plan the aftermath first, the engagement second
+    status: live
+    kind: procedure
+    summary: >-
+      When planning a battle scene, plan the aftermath first; the
+      engagement exists to produce the conditions of the aftermath. If you
+      cannot state what the aftermath scene is for before writing the
+      battle, the battle has no reason to be in the book.
+    verbatim: >-
+      Structural consequence: when planning a battle scene, plan the
+      aftermath first and the engagement second. The engagement exists to
+      produce the conditions of the aftermath. If you cannot state what
+      the aftermath scene is for before you write the battle, the battle
+      has no reason to be in the book.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "118"
+    notes: null
+
+  - id: R1-3-FIVE_STAGE_AFTERMATH
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Three"
+    title: The five-stage aftermath sequence, touch at least two
+    status: live
+    kind: mandate
+    summary: >-
+      Per the Mass Combat Craft Guide §7: the wounded left where they
+      fell, the stripping, the late and cursory burial, the disease, and
+      the district that does not recover in the season — any aftermath
+      scene should touch at least two.
+    verbatim: >-
+      The five-stage aftermath sequence (per the Mass Combat Craft Guide
+      section 7): the wounded left where they fell, the stripping, the
+      late and cursory burial, the disease, and the district that does not
+      recover in the season. Any aftermath scene should touch at least
+      two.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§7"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "120"
+    notes: null
+
+  - id: R1-4-PRECEDENCE_NOTE
+    pack: Pack One
+    pack_number: 1
+    section: "Amendment Four"
+    title: Mass Combat Guide takes precedence once a formation exists
+    status: live
+    kind: mandate
+    summary: >-
+      The Combat Craft Guide governs duels and small actions; the Mass
+      Combat Craft Guide takes precedence the moment a formation exists,
+      and duel instruments (the three-layer hit model, HEMA vocabulary,
+      armour-tier breakdown) are suspended or replaced accordingly.
+    verbatim: >-
+      Precedence. This guide governs duels and small actions. The Mass
+      Combat Craft Guide takes precedence the moment a formation exists.
+      The three-layer hit model, the HEMA vocabulary and the armour-tier
+      breakdown are all duel instruments and are explicitly suspended or
+      replaced in mass combat per that guide's sections 1, 3 and 4.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "head of document"
+        operation: adds
+    supersedes: []
+    applies_to: [combat, mass-combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "127"
+    notes: >-
+      This is the precedence relationship Pack Eleven's
+      R11-3-DUAL_ANSWER_SILHOUETTE cites when confirming "the Combat Craft
+      Guide survives intact."
+
+  - id: R1-OP-COZBI_GRAMMAR
+    pack: Pack One
+    pack_number: 1
+    section: "Still Open"
+    title: Cozbi's grammar deferred, deserves a proper pass
+    status: superseded
+    kind: definition
+    summary: >-
+      Cozbi's grammar is deferred deliberately; her combat material is
+      extensive and deserves a proper pass rather than a guess.
+    verbatim: >-
+      Cozbi's grammar. Deferred deliberately. Her combat material is
+      extensive and deserves a proper pass rather than a guess.
+    amends: null
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "143"
+    notes: >-
+      The origin statement of this docket item (restated in Packs Two and
+      Three); closed by Pack Three's Expenditure assignment
+      (R3-7-COZBI_ASSIGNED). Marked superseded for docket cleanliness, same
+      basis as R2-OP-COZBI_GRAMMAR.
+
+  - id: R1-OP-NAVAL_SIEGE_CAVALRY
+    pack: Pack One
+    pack_number: 1
+    section: "Still Open"
+    title: No standard exists for naval, siege or cavalry prose
+    status: superseded
+    kind: definition
+    summary: >-
+      No standard exists for naval, siege or cavalry prose, flagged in the
+      Mass Combat Guide's own open gaps.
+    verbatim: >-
+      Naval, siege, and cavalry prose. Flagged in the Mass Combat Guide's
+      open gaps. No standard exists for any of the three.
+    amends: null
+    supersedes: []
+    applies_to: [mass-combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "144"
+    notes: >-
+      The origin statement of this docket item (restated in Pack Two);
+      closed by Pack Three, Amendment Eight. Marked superseded for docket
+      cleanliness, same basis as R2-OP-NAVAL_SIEGE_CAVALRY.
+
+  - id: R1-OP-PRACTITIONER_POV_MASS_ACTION
+    pack: Pack One
+    pack_number: 1
+    section: "Still Open"
+    title: Practitioner POV during mass action, instinct is rarely
+    status: superseded
+    kind: definition
+    summary: >-
+      A Stage XII practitioner inside a battle experiences none of the
+      guide's constraints; the instinct is that this POV should be given
+      rarely, since it dissolves the tension the framework exists to
+      produce, but the call is Isaac's.
+    verbatim: >-
+      Practitioner POV during a mass action. A Stage XII inside a battle
+      experiences none of the constraints the guide is built on. My
+      instinct is that this POV should be given rarely, because it
+      dissolves the tension the entire framework exists to produce. Your
+      call.
+    amends: null
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "145"
+    notes: >-
+      The origin statement of this docket item (restated and narrowed in
+      Pack Three, Amendment Nine, which rules before/after rather than
+      "rarely"); see R3-9-PRACTITIONER_POV_RULING. Marked superseded for
+      docket cleanliness, same basis as R2-OP-PRACTITIONER_POV_MASS_ACTION.
+
+  - id: R1-OP-RACIAL_VOICE_GAPS
+    pack: Pack One
+    pack_number: 1
+    section: "Still Open"
+    title: Racial Voice Guide gaps, docket 20, untouched
+    status: pending
+    kind: definition
+    summary: >-
+      Racial Voice Guide gaps remain for Fleshshaper Goblin register,
+      Winter Eladrin non-verbal convention, and Celestial Host voice,
+      untouched by this pack.
+    verbatim: >-
+      Racial Voice Guide gaps (docket 20): Fleshshaper Goblin register,
+      Winter Eladrin non-verbal convention, Celestial Host voice.
+      Untouched by this pack.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments.md
+      lines: "146"
+    notes: >-
+      The origin statement of this docket item; restated in Pack Two
+      (R2-OP-RACIAL_VOICE_GAPS) and still open there.

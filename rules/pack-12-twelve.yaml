@@ -198,7 +198,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R6-2-ONE_READ_PER_SCENE]
     applies_to: [magic-mechanism, verification]
     verification: []
     ratified: null
@@ -209,8 +209,8 @@ rules:
       No Pack Seven row exists to supersede here: Pack Seven's own text
       never defines the Apparatus Rule itself, only references it in
       passing (R7-4-PACK_SIX_STRENGTHENED); the actual origin is Pack Six,
-      so supersedes should be backfilled with a Pack Six rule id in Phase
-      2, same target as R12-7-APPARATUS_CAP_REPLACED. §4 is about the four
+      so this row's supersedes is backfilled with the same Pack Six target
+      as R12-7-APPARATUS_CAP_REPLACED. §4 is about the four
       explaining voices, not the Apparatus Rule replacement — that
       replacement text is actually in §7 (see R12-7-APPARATUS_CAP_REPLACED);
       this looks like a cross-reference
@@ -883,7 +883,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
         locus: "Apparatus Rule"
         operation: strikes
-    supersedes: []
+    supersedes: [R6-2-ONE_READ_PER_SCENE]
     applies_to: [magic-mechanism, adjudication]
     verification: []
     ratified: null
@@ -891,8 +891,10 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "109"
     notes: >-
-      supersedes: backfill with the Pack Six Apparatus Rule row once Pack
-      Six is extracted in Phase 2.
+      Backfilled: supersedes R6-2-ONE_READ_PER_SCENE. This is also the
+      target for R12-1-APPARATUS_CAP_STRUCK's own backfill note, since
+      both describe the same strike from two angles (Pack Seven's
+      inheritance vs. Pack Six's origin).
 
   - id: R12-7-LEGIBILITY_BAN_STRUCK
     pack: Pack Twelve
@@ -911,7 +913,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
         locus: null
         operation: strikes
-    supersedes: []
+    supersedes: [R6-5-INTERPRET_AT_ZERO_STRUCK, R6-12-TOTAL_LEGIBILITY_STRUCK]
     applies_to: [magic-mechanism, pov]
     verification: []
     ratified: null
@@ -919,8 +921,8 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "111"
     notes: >-
-      supersedes: backfill with the Pack Six rule row(s) once Pack Six is
-      extracted in Phase 2.
+      Backfilled: supersedes R6-5-INTERPRET_AT_ZERO_STRUCK and
+      R6-12-TOTAL_LEGIBILITY_STRUCK.
 
   - id: R12-7-IGNORANCE_MISREADING_RETAINED
     pack: Pack Twelve

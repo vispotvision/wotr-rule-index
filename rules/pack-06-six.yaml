@@ -1,0 +1,622 @@
+# Pack Six: no pack-level Status: line exists (same situation as Pack
+# Twelve) — only a Precedence line ("beats Packs One through Five and every
+# base guide") with no pending/originated language anywhere. Every later
+# pack treats its content as settled (Pack Twelve S7 strikes/retains
+# specific pieces of it by name as existing live rules; Pack Thirteen S6
+# and Pack Fifteen S1 both cite Pack Six content as still governing).
+# Treated as status:live throughout except SS13's numbered pending rulings,
+# which are explicitly unresolved. Same interpretive-call caveat as Pack
+# Twelve's header comment.
+pack: Pack Six
+pack_number: 6
+source_file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+ratified: null
+rules:
+
+  - id: R6-1-LADDER_BAN
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.1"
+    title: The Ladder — two abstraction-chain clauses is an automatic cut
+    status: live
+    kind: ban
+    summary: >-
+      Two or more clauses of the form "X was Y and Y was Z" in one sentence
+      is an automatic cut, never a rewrite; cut back to the first concrete
+      noun. Restating a concrete observation as an abstraction in the
+      following sentence is barred the same way.
+    verbatim: >-
+      The rule. Two or more clauses of the form X was Y and Y was Z in the
+      same sentence is an automatic cut, never a rewrite. Cut back to the
+      first concrete noun and stop there.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: ["check-18"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "30"
+    notes: >-
+      Explicitly reaffirmed by Pack Twelve §7: "Retained in full: the
+      Ladder ban... Explaining a mechanism is no licence to write badly."
+      (R12-7-AI_TELLS_RETAINED).
+
+  - id: R6-2-ONE_READ_PER_SCENE
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.2"
+    title: One reading per scene cap
+    status: superseded
+    kind: budget
+    summary: >-
+      A perceptive faculty may deliver a single explicit read per scene;
+      after that it is silent and the character perceives with a body.
+    verbatim: >-
+      One reading per scene. A perceptive faculty may deliver a single
+      explicit read. After that it is silent and the character perceives
+      with a body: eyes, nose, skin, memory, guesswork.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "50"
+    notes: >-
+      Superseded by R12-7-APPARATUS_CAP_REPLACED ("Struck: the Apparatus
+      Rule's one-read-per-scene cap... Replaced by a cost").
+
+  - id: R6-2-READ_DELIVERS_FACT
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.2"
+    title: The read delivers a fact, never an interpretation
+    status: live
+    kind: mandate
+    summary: >-
+      A faculty's read delivers a bare fact ("Twenty-three"), never an
+      interpretation woven around it; the faculty is an instrument and
+      instruments produce numbers, not meaning.
+    verbatim: >-
+      The read delivers a fact, never an interpretation. Twenty-three. Not
+      twenty-three, and the Cymorath filed the count with the flat
+      unasked-for fidelity it filed everything. The faculty is an
+      instrument, and instruments produce numbers, not meaning.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "52"
+    notes: null
+
+  - id: R6-2-FACULTY_NEVER_SUBJECT
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.2"
+    title: The faculty is never the grammatical subject
+    status: live
+    kind: ban
+    summary: >-
+      A named faculty is never the grammatical subject of a perception
+      verb; the character perceives, the apparatus does not act on its own
+      behalf.
+    verbatim: >-
+      The faculty is never the grammatical subject. Barred: his Cymorath
+      mapped the thinning. Permitted: the fourth layer had thinned. The
+      character perceives. The apparatus does not act on its own behalf.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, pov, verification]
+    verification: ["check-19"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "54"
+    notes: >-
+      Only the one-read-per-scene frequency cap is struck by Pack Twelve
+      §7; this grammatical-subject rule is never named as struck and is
+      part of the "every AI tell in the checklist" retained in full.
+
+  - id: R6-2-CHEMISTRY_BAN
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.2"
+    title: The chemistry ban corollary
+    status: live
+    kind: ban
+    summary: >-
+      Real-world scientific vocabulary explaining a sensory impression is
+      barred unless the POV is a practitioner of that specific craft
+      actively diagnosing; the Mechanism Standard governs technique trigger
+      points and nothing else, never a licence for ambient exposition.
+    verbatim: >-
+      Corollary, the chemistry ban. Real-world scientific vocabulary
+      explaining a sensory impression is out unless the POV is a
+      practitioner of that specific craft actively diagnosing. Calcium
+      oxide releasing its held breath is the narrator being a chemist in a
+      scene about a burned village.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§3.1"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "56"
+    notes: >-
+      Explicitly confirmed surviving by Pack Thirteen §6
+      (R13-6-CHEMISTRY_BAN_SCOPE): "Pack Six's chemistry ban survives for
+      ambient sensory impression. It does not touch a hit, a wound, or a
+      working."
+
+  - id: R6-3-IGNORANCE_QUOTA
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.3"
+    title: The ignorance quota, minimum one per scene
+    status: live
+    kind: mandate
+    summary: >-
+      At least one thing per scene the POV notices and cannot interpret;
+      the narration does not rescue him, and resolution comes in a later
+      scene or chapter.
+    verbatim: >-
+      Minimum one per scene, mandatory. The POV notices something and
+      cannot interpret it. The narration does not rescue him. Resolution
+      comes in a later scene, and preferably a later chapter.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§9"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, prose-law, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "60"
+    notes: >-
+      Explicitly reaffirmed and elevated by Pack Twelve §7
+      (R12-7-IGNORANCE_MISREADING_RETAINED): "now more important... the
+      wrong explanation is the load-bearing device."
+
+  - id: R6-4-MISREADING_BUDGET
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.4"
+    title: The misreading budget, at least one wrong inference per scene
+    status: live
+    kind: mandate
+    summary: >-
+      At least one POV inference per scene is wrong and is not corrected on
+      the page; the misreading must be reasonable, consistent with what the
+      POV knows, and left standing for the reader to find later.
+    verbatim: >-
+      At least one POV inference per scene is wrong, and is not corrected
+      on the page. Competent characters reaching wrong conclusions from
+      good reasoning is the whole Ned Stark instrument. A character who is
+      never wrong is a camera. The misreading must be reasonable, must be
+      consistent with what that POV knows, and must be left standing so
+      the reader can find it later.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§9"
+        operation: adds
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "68"
+    notes: >-
+      Explicitly reaffirmed and elevated by Pack Twelve §7
+      (R12-7-IGNORANCE_MISREADING_RETAINED).
+
+  - id: R6-5-MATERIAL_DENSITY_SURVIVES
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.5"
+    title: Material density stays; described at full density, interpreted at zero
+    status: live
+    kind: definition
+    summary: >-
+      Material density (rust, weathering, wear, labour) stays described in
+      full per the Directive; the distinction is that the world is
+      described exhaustively but interpreted at zero — meaning and thematic
+      weight are withheld.
+    verbatim: >-
+      The material density stays. Seven of thirty-two structures burned.
+      Hanuri re-spinning thread from an older garment. Bedding planes in
+      limestone. The rust described in full remains house law (Directive
+      Sec. 1.2) and Pack Six removes nothing from it.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1.2"
+        operation: null
+    supersedes: []
+    applies_to: [prose-law, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "74"
+    notes: null
+
+  - id: R6-5-INTERPRET_AT_ZERO_STRUCK
+    pack: Pack Six
+    pack_number: 6
+    section: "PART I.5"
+    title: "\"Interpret it at zero\" is struck"
+    status: superseded
+    kind: ban
+    summary: >-
+      The blanket rule that objects, weather, injury, wear and labour are
+      rendered exhaustively but never interpreted is struck.
+    verbatim: >-
+      The distinction: describe the world at full density, interpret it at
+      zero. Objects, weather, injury, wear, labour, all rendered
+      exhaustively. Meaning, significance, thematic weight, all withheld.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: strikes
+    supersedes: []
+    applies_to: [prose-law, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "76"
+    notes: >-
+      Superseded by R12-7-LEGIBILITY_BAN_STRUCK ("Struck: the
+      total-legibility ban and the blanket interpretation-at-zero rule.").
+
+  - id: R6-7-GOVERNING_RULE
+    pack: Pack Six
+    pack_number: 6
+    section: "PART II.7"
+    title: Texture from the Standing Inventory, mechanism from the Codex
+    status: live
+    kind: mandate
+    summary: >-
+      Texture comes from the Standing Inventory; mechanism comes from the
+      Codex; a scene that reaches for the Codex when it needs texture has
+      failed.
+    verbatim: >-
+      Texture comes from the Standing Inventory. Mechanism comes from the
+      Codex. A scene that reaches for the Codex when it needs texture has
+      failed.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§1"
+        operation: adds
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "90"
+    notes: null
+
+  - id: R6-8-STANDING_INVENTORY_CATEGORIES
+    pack: Pack Six
+    pack_number: 6
+    section: "PART II.8"
+    title: The Standing Inventory's nine required categories
+    status: live
+    kind: definition
+    summary: >-
+      Food, the greeting, oaths and obscenity, colloquial time, the dead,
+      the household object, exchange, proverbs, and the body — each entry
+      must be causally downstream of the culture's material conditions;
+      flavour-only invention is rejected.
+    verbatim: >-
+      A per-culture register of non-magical material idiom, built and
+      maintained as canon. Nine required categories:
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Standing Inventory"
+        operation: adds
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "96-108"
+    notes: null
+
+  - id: R6-9-RECURRENCE_RULE
+    pack: Pack Six
+    pack_number: 6
+    section: "PART II.9"
+    title: Identity is repetition; every scene draws from the Inventory first
+    status: live
+    kind: mandate
+    summary: >-
+      Every scene draws texture from the Inventory before inventing
+      anything; anything newly invented is entered into the Inventory the
+      same session or it does not exist; each culture designates
+      three-to-five high-frequency signature items on the Recurrence
+      Ledger.
+    verbatim: >-
+      Identity is repetition. Novelty is its enemy.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Standing Inventory"
+        operation: adds
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "112-120"
+    notes: null
+
+  - id: R6-10-INVENTORY_AND_ELEGY
+    pack: Pack Six
+    pack_number: 6
+    section: "PART II.10"
+    title: The Inventory is where elegiac things live
+    status: live
+    kind: definition
+    summary: >-
+      Pack Five's elegiac register requires a named concrete thing that is
+      gone, and the Inventory is where those things live; elegy without an
+      Inventory is grief for abstractions, which Pack Five already bars.
+    verbatim: >-
+      Pack Five's elegiac register (Sec. C.2) requires a named concrete
+      thing that is gone. The Inventory is where those things live. A dye
+      colour no longer made, a dish nobody can assemble since the corridor
+      closed, a proverb whose second half has been lost.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Five.md"
+        locus: "§C.2"
+        operation: extends
+    supersedes: []
+    applies_to: [standing-inventory, register, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "125"
+    notes: null
+
+  - id: R6-11-CHECK18_LADDER
+    pack: Pack Six
+    pack_number: 6
+    section: "§11"
+    title: "Check 18 — the Ladder"
+    status: live
+    kind: procedure
+    summary: >-
+      Flags any sentence containing two or more instances of the
+      "was X and the X was" pattern, including is/became/meant variants.
+    verbatim: >-
+      Check 18, the Ladder. Flag any sentence containing two or more
+      instances of was [a-z]+ and the [a-z]+ was. Also flag the variants
+      using is, became, and meant.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 18"
+        operation: adds
+    supersedes: []
+    applies_to: [verification, prose-law]
+    verification: ["check-18"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "133"
+    notes: null
+
+  - id: R6-11-CHECK19_APPARATUS_SUBJECT
+    pack: Pack Six
+    pack_number: 6
+    section: "§11"
+    title: "Check 19 — apparatus subject"
+    status: live
+    kind: procedure
+    summary: >-
+      Flags any sentence where a named faculty is the grammatical subject
+      of a perception verb; high false-positive rate by design, reviewed by
+      reading.
+    verbatim: >-
+      Check 19, apparatus subject. Flag any sentence where a named faculty
+      is the grammatical subject of a perception verb. High false-positive
+      rate by design; review by reading.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 19"
+        operation: adds
+    supersedes: []
+    applies_to: [verification, prose-law, pov]
+    verification: ["check-19"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "135"
+    notes: >-
+      Pack Fourteen §6 later says "Check 19 rewritten off §4" (Twelve's
+      four explaining voices); see R12-8-VERIFY_CHECKS_RETIRED, which
+      names checks 20/21 retired and check 19 rewritten rather than
+      retired — this row is not marked superseded since it's rewritten,
+      not struck, and no replacement check text is given anywhere in this
+      corpus to point to instead.
+
+  - id: R6-12-TELL_BANK_SURVIVING
+    pack: Pack Six
+    pack_number: 6
+    section: "§12"
+    title: Four surviving Tell Bank additions
+    status: live
+    kind: definition
+    summary: >-
+      Added to the AI tells checklist and retained in full per Pack Twelve
+      §7 — the Ladder in all forms, the apparatus as grammatical subject,
+      scientific vocabulary explaining an ambient sensory impression, and
+      fresh texture invented where Inventory texture exists.
+    verbatim: >-
+      The Ladder in all forms. - The apparatus as grammatical subject. -
+      Scientific vocabulary explaining an ambient sensory impression.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "145-149"
+    notes: >-
+      Kept live per R12-7-AI_TELLS_RETAINED ("Retained in full... every AI
+      tell in the checklist").
+
+  - id: R6-12-TOTAL_LEGIBILITY_STRUCK
+    pack: Pack Six
+    pack_number: 6
+    section: "§12"
+    title: The total-legibility tell is struck
+    status: superseded
+    kind: ban
+    summary: >-
+      The tell for total legibility — a scene in which every perception is
+      understood at the moment of perception — is struck.
+    verbatim: >-
+      Total legibility: a scene in which every perception is understood at
+      the moment of perception.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "148"
+    notes: >-
+      Superseded by R12-7-LEGIBILITY_BAN_STRUCK.
+
+  - id: R6-13-ONE_READ_CEILING_PENDING
+    pack: Pack Six
+    pack_number: 6
+    section: "§13"
+    title: Is the one-read-per-scene ceiling correct
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the one-read-per-scene ceiling is correct, or a scholar POV
+      in active diagnosis should get more.
+    verbatim: >-
+      The one-read-per-scene ceiling. Correct number, or should a scholar
+      POV in active diagnosis get more?
+    amends: null
+    supersedes: []
+    applies_to: [pov, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "155"
+    notes: >-
+      Proposed answer, in force until ruled: the ceiling holds, and active
+      scholarly diagnosis is the single documented exception, capped at one
+      scene per chapter. Moot in any case once R12-7-APPARATUS_CAP_REPLACED
+      strikes the cap outright.
+
+  - id: R6-13-RETROACTIVE_PENDING
+    pack: Pack Six
+    pack_number: 6
+    section: "§13"
+    title: Does a Ladder pass run across the archive
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the Ladder rule applies forward-only or a Ladder pass runs
+      across the whole archive, given Check 18 finds instances cheaply.
+    verbatim: >-
+      Retroactive application. The Cozbi cycle and the enclave scene are
+      the worst offenders in the corpus. Forward-only, or does a Ladder
+      pass get run across the archive?
+    amends: null
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "156"
+    notes: null
+
+  - id: R6-13-INVENTORY_ORDER_PENDING
+    pack: Pack Six
+    pack_number: 6
+    section: "§13"
+    title: Standing Inventory build order
+    status: pending
+    kind: definition
+    summary: >-
+      What order the remaining cultures' Standing Inventories are built in.
+    verbatim: >-
+      Inventory build order. Kharven and the Moto are drafted. Proposed
+      sequence after: Stannvaard, the Dawi, Ketsuen, Nalūn, the Yukari
+      enclave.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "157"
+    notes: null
+
+  - id: R6-13-INVENTORY_FORMAT_PENDING
+    pack: Pack Six
+    pack_number: 6
+    section: "§13"
+    title: Is the Inventory a Notion wiki or a markdown guide
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the Standing Inventory is a Notion wiki section or a standing
+      markdown guide.
+    verbatim: >-
+      Whether the Inventory is a Notion wiki section or a standing markdown
+      guide. Proposed: Notion, one page per culture under a new Standing
+      Inventory section page, since it will be queried mid-scene.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Six.md
+      lines: "158"
+    notes: null

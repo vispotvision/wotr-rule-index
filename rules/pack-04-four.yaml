@@ -983,3 +983,54 @@ rules:
       Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an
       ongoing production process); not the same task but the same
       underlying gap.
+
+  - id: R4-OP-ZETTARI_DOCKET
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Docket 18, Zettari forge-culture substrate unaddressed
+    status: pending
+    kind: definition
+    summary: >-
+      No proposal exists yet for Docket 18, the Zettari forge-culture
+      substrate — the oldest unaddressed gap in the project.
+    verbatim: >-
+      Docket 18, Zettari forge-culture substrate. No proposal exists.
+      Still the oldest unaddressed gap in the project.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "222"
+    notes: >-
+      Restated near-identically in Pack Three's Still Open section (see
+      R3-OP-ZETTARI_DOCKET); still open as of this pack too.
+
+  - id: R4-OP-PASTE_IN_DIFFS
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: All four packs remain paste-in diffs, unfolded
+    status: pending
+    kind: definition
+    summary: >-
+      Step seven of the run order is not complete until Packs One through
+      Four are folded into the base guides.
+    verbatim: >-
+      All four packs remain paste-in diffs. Step seven of the run order is
+      not complete until they are folded.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "226"
+    notes: >-
+      An early instance of the same "fold packs into base guides" standing
+      task later packs keep restating with a growing count (e.g.
+      R19-9-STANDING_TASK).

@@ -1,0 +1,771 @@
+# Pack Three, Family A structure. No pending/originated language anywhere;
+# a "CLOSED BY THIS PACK" table confirms all content settled. status:live
+# throughout.
+pack: Pack Three
+pack_number: 3
+source_file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+ratified: null
+rules:
+
+  - id: R3-7-EXPENDITURE_GRAMMAR
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: The fourth grammar — Expenditure hunts cost
+    status: live
+    kind: definition
+    summary: >-
+      Expenditure grammar does not seek to defeat the opponent; it makes
+      the exchange asymmetric so everything the opponent does is expensive
+      and everything the practitioner does is spent from somewhere else.
+      Victory is arithmetic and arrives late.
+    verbatim: >-
+      Expenditure grammar hunts cost. The practitioner does not seek to
+      defeat the opponent. They seek to make the exchange asymmetric, so
+      that everything the opponent does is expensive and everything they
+      themselves do is spent from somewhere else. Victory is arithmetic
+      and arrives late.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "25"
+    notes: >-
+      The fourth combat grammar alongside Pack One's Blade, Verdict and
+      Percussion; check for cross-references once Pack One is extracted.
+
+  - id: R3-7-EXPENDITURE_ASSIGNMENT
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: Who fights in the Expenditure grammar
+    status: live
+    kind: definition
+    summary: >-
+      Assigned to Cozbi, Legion summoners, construct-users, anyone
+      operating through a conscripted lattice or projected vessel, and any
+      fighter whose combat proposition is that the target of the blow is
+      not the source of the working.
+    verbatim: >-
+      Assign to: Cozbi, Legion summoners, construct-users, anyone
+      operating through a conscripted lattice or a projected vessel, and
+      any fighter whose combat proposition is that the target of the blow
+      is not the source of the working.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "27"
+    notes: null
+
+  - id: R3-7-EXPENDITURE_MOVES
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: The four Expenditure moves
+    status: live
+    kind: definition
+    summary: >-
+      The Offering converts opponent capability into expenditure; the
+      Standing converts time into advantage (only for a fighter who
+      doesn't experience time as a resource); the Ledger converts the
+      whole preceding engagement into one effect, un-repeatable per
+      encounter; the Absence converts a victory into nothing by destroying
+      the vessel while the practitioner is unaffected.
+    verbatim: >-
+      | The Offering | Something expendable is put where the opponent
+      must deal with it | Converts the opponent's capability into
+      expenditure. The construct is not expected to win. It is expected to
+      cost. |
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Expenditure grammar"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "31-34"
+    notes: null
+
+  - id: R3-7-EXPENDITURE_VS_PLATE
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: Expenditure treats plate armour as irrelevant
+    status: live
+    kind: definition
+    summary: >-
+      Plate is a cost problem rather than a defence problem to an
+      Expenditure fighter, who is content to let armour do its job for as
+      long as the wearer can afford to keep wearing it.
+    verbatim: >-
+      Expenditure answers to plate: irrelevant. Plate is a cost problem
+      rather than a defence problem, and an expenditure fighter is content
+      to let armour do its job for as long as the wearer can afford to
+      keep wearing it.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Expenditure grammar"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "36"
+    notes: null
+
+  - id: R3-7-EXPENDITURE_TELL_AND_COUNTERPLAY
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: The Expenditure tell and its two documented counterplays
+    status: live
+    kind: definition
+    summary: >-
+      The tell is that the fighter is not looking at the opponent.
+      Counterplay is reaching through the projection to the claims it
+      carries (a Rescind-type working) or forcing a direct physical
+      contest against the practitioner's own below-ceiling frame; both are
+      documented as having worked once, neither is easy.
+    verbatim: >-
+      Expenditure tell: the fighter is not looking at the opponent. In
+      prose, have them looking at something adjacent, or crouching to
+      examine something on the ground, which is Cozbi's documented posture
+      and reads as either serene or obscene depending on what the reader
+      already thinks of him. Counterplay, per canon: reach through the
+      projection to the claims it carries, which has been done once and
+      required a Rescind-type working. Or force a direct physical contest,
+      which has also been done once and worked, because his own frame is
+      genuinely below his ceiling.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: "Expenditure grammar"
+        operation: extends
+    supersedes: []
+    applies_to: [combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "38-40"
+    notes: null
+
+  - id: R3-7-COZBI_ASSIGNED
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: Cozbi Mahuo's canonical combat assignment
+    status: live
+    kind: definition
+    summary: >-
+      Grammar Expenditure; signature move the Standing into the Ledger,
+      not a bluff; answers plate with indifference; tells by crouching to
+      examine rather than posturing, with speeded cadence signalling
+      genuine alarm; status canonical, transcribed from the character card.
+    verbatim: >-
+      | Grammar | Expenditure | | Signature | The Standing into the
+      Ledger. He will do nothing for as long as it takes and this is not a
+      bluff. | | Answer to plate | Indifference. He is not trying to get
+      through it. | | Tell | Crouches to examine, never postures to
+      threaten. Stress default is speed, so a Cozbi who has begun talking
+      faster than his usual cadence has been genuinely alarmed and the
+      reader should notice before the other characters do. | | Status |
+      Canonical. Transcribed from the character card and the combat
+      material, not invented. |
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "46-50"
+    notes: null
+
+  - id: R3-7-COZBI_CRAFT_NOTE
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Seven"
+    title: Writing Cozbi — refuse the spectacular exchange
+    status: live
+    kind: mandate
+    summary: >-
+      An Expenditure fighter is boring to write badly and terrifying to
+      write correctly; refuse the temptation to give him a spectacular
+      exchange — the scene should feel like the opponent is winning,
+      repeatedly, at increasing cost, until the arithmetic arrives.
+    verbatim: >-
+      Craft note for writing him: an Expenditure fighter is boring to
+      write badly and terrifying to write correctly. The temptation is to
+      give him a spectacular exchange. Refuse it. The scene should feel
+      like the opponent is winning, repeatedly, at increasing cost, until
+      the arithmetic arrives. Everything before the Ledger is the opponent
+      succeeding.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "52"
+    notes: null
+
+  - id: R3-8-NAVAL_SENSORY_HIERARCHY
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §12"
+    title: The naval sensory hierarchy inverts to sight-motion-sound-smell
+    status: live
+    kind: definition
+    summary: >-
+      At sea the sensory order runs sight, motion, sound, smell (versus
+      land's sound, pressure, smell, sight), because a ship gives a
+      horizon and takes away footing.
+    verbatim: >-
+      The sensory hierarchy inverts. Section 1's order (sound, pressure,
+      smell, sight) was built for a man in a press. At sea it runs sight,
+      motion, sound, smell, and the reason is that a ship gives you a
+      horizon and takes away your footing.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, naval"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "61"
+    notes: null
+
+  - id: R3-8-NAVAL_SIGHT_HELPLESSNESS
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §12"
+    title: Naval sight is rationed by capability, not visibility
+    status: live
+    kind: mandate
+    summary: >-
+      A sailor's Field Register is available continuously and is rationed
+      by what the character can do about what they see, not by what they
+      can see; write the helplessness of watching rather than the
+      confusion of not seeing.
+    verbatim: >-
+      Sight extends and becomes reliable. A sailor can see the whole
+      engagement, which is the exact opposite of the infantryman's
+      condition, and it changes the POV problem completely. The Field
+      Register is available continuously and must therefore be rationed by
+      a different instrument: not what the character can see, but what
+      they can do about it. Write the helplessness of watching rather than
+      the confusion of not seeing.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, naval"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "63"
+    notes: null
+
+  - id: R3-8-NAVAL_MOTION_CHANNEL
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §12"
+    title: Motion is the naval sensory channel with no land equivalent
+    status: live
+    kind: mandate
+    summary: >-
+      Every physical action on a moving deck costs balance; fighting on a
+      moving surface is closer to fighting drunk than to fighting on a
+      slope and should be written that way.
+    verbatim: >-
+      Motion is the second channel and has no land equivalent. The deck
+      under a body that cannot plant. Every physical action costs balance.
+      Fighting on a moving surface is closer to fighting drunk than to
+      fighting on a slope and should be written that way.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, naval"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "64"
+    notes: null
+
+  - id: R3-8-NAVAL_NO_ROUT
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §12"
+    title: The rout rule does not apply at sea
+    status: live
+    kind: ban
+    summary: >-
+      A broken crew cannot run, so Section 6's rout rule does not apply;
+      naval casualties concentrate in the fighting and the sinking rather
+      than in a pursuit, making sea actions bloodier per engagement and
+      rarer.
+    verbatim: >-
+      The rout has nowhere to go. Section 6's central rule does not apply.
+      A broken crew cannot run, so naval casualties concentrate in the
+      fighting and in the sinking rather than in a pursuit. This is the
+      single largest structural difference and it makes sea actions
+      bloodier per engagement and rarer.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§6"
+        operation: demotes
+    supersedes: []
+    applies_to: [mass-combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "66"
+    notes: null
+
+  - id: R3-8-NAVAL_FIRE_WATER_DEATHS
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §12"
+    title: Fire and water are the two naval deaths, not the blade
+    status: live
+    kind: mandate
+    summary: >-
+      Naval death is written as fire and water, not the blade.
+    verbatim: >-
+      Fire and water are the two deaths. Not the blade. Write accordingly.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, naval"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "67"
+    notes: null
+
+  - id: R3-8-SIEGE_LINE_REGISTER_DEFAULT
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §13"
+    title: Siege uses the Line Register by default
+    status: live
+    kind: mandate
+    summary: >-
+      A siege is experienced as a unit condition (camp, food, flux,
+      digging progress) rather than personal action; weeks pass in the
+      Line Register at a paragraph each, correctly.
+    verbatim: >-
+      Use the Line Register as the default, not the Close. A siege is
+      experienced as a unit condition rather than as personal action: the
+      state of the camp, the state of the food, the state of the flux,
+      whether the digging advanced today. Weeks pass in the Line Register
+      at a paragraph each and this is correct.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, siege"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "73"
+    notes: null
+
+  - id: R3-8-SIEGE_CLOSE_REGISTER_RESERVED
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §13"
+    title: The Close Register is reserved for three tedium-breaks
+    status: live
+    kind: mandate
+    summary: >-
+      The Close Register is reserved for a sortie, a mine breaking
+      through, and the storm; each arrives without warning and ends faster
+      than the reader wants.
+    verbatim: >-
+      The Close Register is reserved for the three things that break the
+      tedium: a sortie, a mine breaking through, and the storm. Each
+      should arrive without warning and end faster than the reader wants.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, siege"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "74"
+    notes: null
+
+  - id: R3-8-SIEGE_TEDIUM_BY_SPECIFICITY
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §13"
+    title: Siege tedium is written by specificity, not length
+    status: live
+    kind: mandate
+    summary: >-
+      One precisely observed repeated detail carries a month — the same
+      gap in the wall, seen from the same place, on a different day, with
+      something small changed.
+    verbatim: >-
+      Tedium is written by specificity, not by length. One precisely
+      observed repeated detail carries a month. The same gap in the wall,
+      seen from the same place, on a different day, with something small
+      changed.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, siege"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "75"
+    notes: null
+
+  - id: R3-8-SIEGE_DISEASE_ANTAGONIST
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §13"
+    title: The disease is the siege's antagonist
+    status: live
+    kind: definition
+    summary: >-
+      Per Walls and What Beats Them, the besieging camp gets the same
+      sickness as the besieged at the same time and frequently loses more;
+      the enemy in a siege scene is the ditch, and the garrison is scenery.
+    verbatim: >-
+      The disease is the antagonist. Per Walls and What Beats Them, the
+      besieging camp gets the same sickness as the besieged at the same
+      time and frequently loses more. The enemy in a siege scene is the
+      ditch, and the garrison is scenery.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, siege"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "76"
+    notes: null
+
+  - id: R3-8-SIEGE_PARLEY_IS_SCENE
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §13"
+    title: The parley is the siege's climax, not the storm
+    status: live
+    kind: mandate
+    summary: >-
+      Everything a siege is about happens in the negotiation, because both
+      commanders know what a storm means; write the parley as the climax
+      and the storm, if it comes, as the failure of the actual drama.
+    verbatim: >-
+      The parley is the scene. Everything a siege is about happens in the
+      negotiation, because both commanders know what a storm means. Write
+      the parley as the climax and the storm, if it comes, as the failure
+      of the actual drama.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, siege"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "77"
+    notes: null
+
+  - id: R3-8-CAVALRY_FIELD_REGISTER_POV
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §14"
+    title: Cavalry is the only ordinary POV that carries the Field Register
+    status: live
+    kind: definition
+    summary: >-
+      A cavalry POV is the only ordinary soldier who can carry the Field
+      Register honestly, since the rider both sees and moves; use for
+      orientation when needed, aware of the cost paid in intimacy.
+    verbatim: >-
+      The rider sees, and the rider moves. They have both things the
+      infantryman lacks, and the consequence is that a cavalry POV is the
+      only ordinary soldier who can carry the Field Register honestly. Use
+      them for orientation when you need it and be aware you are paying in
+      intimacy.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, cavalry"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "83"
+    notes: null
+
+  - id: R3-8-CAVALRY_HORSE_CHARACTER
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §14"
+    title: The horse is a character with opinions
+    status: live
+    kind: mandate
+    summary: >-
+      The horse is frightened, tiring, can smell blood, and will not go
+      where pointed if that is a hedge of spears; every good cavalry scene
+      is partly about negotiating with an animal.
+    verbatim: >-
+      The horse is a character with opinions. It is frightened, it is
+      tiring, it can smell blood, it will not go where you point it if
+      what you are pointing it at is a hedge of spears. Every good cavalry
+      scene in the literature is partly about negotiating with an animal.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, cavalry"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "84"
+    notes: null
+
+  - id: R3-8-CAVALRY_CHARGE_TIMING
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §14"
+    title: A charge is three seconds of decision and forty of consequence
+    status: live
+    kind: definition
+    summary: >-
+      The decision (will the enemy line hold) is made at distance by both
+      sides simultaneously; if it holds, the charge fails before contact,
+      if it breaks, there is no contact at all, only pursuit.
+    verbatim: >-
+      A charge is three seconds of decision and forty of consequence. The
+      decision is whether the enemy line will hold, made at distance, by
+      both sides simultaneously. If it holds, the charge fails before
+      contact. If it breaks, there is no contact at all, only pursuit.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§11, cavalry"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "85"
+    notes: null
+
+  - id: R3-8-CAVALRY_PURSUIT_FUNCTION
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Eight §14"
+    title: The pursuit is cavalry's real function, and it is not combat
+    status: live
+    kind: mandate
+    summary: >-
+      Per Section 6, pursuit is butchery of the unresisting from behind at
+      a canter for as long as the horses last; the honest version does not
+      let the cavalry POV enjoy it and does not let them refuse it either.
+    verbatim: >-
+      The pursuit is the cavalry's real function and it is not combat. Per
+      section 6, it is butchery of the unresisting from behind at a
+      canter for as long as the horses last. Writing a cavalry POV means
+      writing the person who does that work, and the honest version does
+      not let them enjoy it and does not let them refuse it either.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§6"
+        operation: extends
+    supersedes: []
+    applies_to: [mass-combat, character-sheet, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "86"
+    notes: null
+
+  - id: R3-9-PRACTITIONER_POV_RULING
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Nine"
+    title: Practitioner POV is available before/after a mass action, closed during
+    status: live
+    kind: mandate
+    summary: >-
+      A high-Stage practitioner inside a battle experiences none of the
+      constraints the guide is built on; handing the reader that POV
+      mid-engagement dissolves the fog, pressure and helplessness every
+      other section exists to construct, so the POV is open before and
+      after an engagement and closed during it.
+    verbatim: >-
+      A high-Stage practitioner inside a battle experiences none of the
+      constraints this guide is built on. They can see. They are not in
+      the press. They know what is happening. Handing the reader that POV
+      during an engagement dissolves the fog, the pressure and the
+      helplessness that every other section exists to construct. Ruling:
+      the practitioner POV is available before and after an engagement and
+      is closed during it.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§15"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "97-99"
+    notes: null
+
+  - id: R3-9-BEFORE_AFTER_DURING
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Nine"
+    title: What the practitioner POV covers before, after, and during
+    status: live
+    kind: definition
+    summary: >-
+      Before covers the costing-out arithmetic and the decision what to
+      spend and on whom; after covers what the practitioner looks at on a
+      field they made and whether they can name anyone; during, use the
+      soldier, with the practitioner appearing only as weather the POV
+      soldier experiences and doesn't understand.
+    verbatim: >-
+      - Before is where it belongs. The costing-out arithmetic, the
+      decision about what to spend and on whom, the knowledge that the
+      levy in front of them exists to be expensive. That is the most
+      damning interiority available in the setting and it is wasted if it
+      appears while they are fighting. - After is the second place. What a
+      practitioner looks at on a field they made. Whether they can name
+      anyone. - During, use the soldier. If the practitioner must appear,
+      they appear as weather: something the POV soldier experiences and
+      does not understand, arriving from outside the four-foot wedge.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§15"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "101-103"
+    notes: null
+
+  - id: R3-9-COSTED_OUT_EXCEPTION
+    pack: Pack Three
+    pack_number: 3
+    section: "Amendment Nine"
+    title: The costed-out exception, spend it once
+    status: live
+    kind: procedure
+    summary: >-
+      The single exception to the practitioner-POV ruling: a practitioner
+      who has been costed out inherits every section-1 constraint the
+      moment their magazine empties, so a POV beginning able to see the
+      whole battle and ending able to see twelve feet is the strongest use
+      of the perspective available — spend it once.
+    verbatim: >-
+      The single exception: a practitioner who has been costed out. The
+      moment their magazine empties they inherit every constraint in
+      section 1 at once, and a POV that begins with a person who can see
+      the whole battle and ends with a person who can see twelve feet is
+      the strongest use of the perspective available. Spend it once.
+    amends:
+      - guide: "Mass Combat Craft Guide"
+        locus: "§15"
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, pov, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "105"
+    notes: null
+
+  - id: R3-OP-ZETTARI_DOCKET
+    pack: Pack Three
+    pack_number: 3
+    section: "Still Open"
+    title: Docket 18, Zettari forge-culture substrate unaddressed
+    status: pending
+    kind: definition
+    summary: >-
+      No proposal exists yet for Docket 18, the Zettari forge-culture
+      substrate — the oldest unaddressed gap in the project.
+    verbatim: >-
+      Docket 18, Zettari forge-culture substrate. No proposal exists.
+      Oldest unaddressed gap in the project.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Three.md
+      lines: "121"
+    notes: >-
+      Restated near-identically in Pack Four's Still Open section (see
+      R4-OP-ZETTARI_DOCKET); still open as of this pack too.

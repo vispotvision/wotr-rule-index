@@ -1,0 +1,525 @@
+# Pack Nineteen: Status: originated, pending Isaac's ratification (see source
+# lines 5-6). No section is separately marked confirmed, so every row here is
+# status: proposed, ratified: null, until Isaac rules on the whole pack.
+pack: Pack Nineteen
+pack_number: 19
+source_file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+ratified: null
+rules:
+
+  - id: R19-2-FIXED_TEXT
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§2"
+    title: Isaac's dialogue is fixed text
+    status: proposed
+    kind: mandate
+    summary: >-
+      Isaac's submitted dialogue is set as written and never rewritten.
+    verbatim: >-
+      Set it. Do not rewrite it.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "37"
+    notes: >-
+      Extends Pack Sixteen's vocabulary-conversion principle (§1) from
+      vocabulary to speech generally; not a supersession of Pack Sixteen,
+      which is not named as struck or replaced anywhere in this pack.
+
+  - id: R19-2-PERMITTED_CORRECTIONS
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§2"
+    title: The narrow set of silent corrections to Isaac's dialogue
+    status: proposed
+    kind: definition
+    summary: >-
+      Only typos, unambiguous verb tense/agreement, required punctuation, and
+      stale canon-term forms may be silently corrected in Isaac's dialogue.
+    verbatim: >-
+      May be corrected silently: - Typographical slips and dropped words
+      (wsaas → was) - Verb tense and agreement where the intent is
+      unambiguous - Punctuation required for the line to parse - A canon term
+      used in a stale or incorrect form (Khavern → Kharven, kurotesu →
+      Kurosetsu)
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "39-43"
+    notes: null
+
+  - id: R19-2-NEVER_ALTERED
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§2"
+    title: What may never be altered in Isaac's dialogue
+    status: proposed
+    kind: ban
+    summary: >-
+      Register, rhythm, repetition, fragments, profanity, prosodic marks,
+      line order, and word choice in Isaac's dialogue may never be changed,
+      including for the sake of reading better.
+    verbatim: >-
+      May never be altered: - Register, diction or formality level - Rhythm,
+      sentence length, or clause structure - Repetition, including
+      repetition that looks accidental - Fragments, run-ons, missing
+      conjunctions - Profanity, crudeness, or bluntness of any kind -
+      Capitals, stretched vowels, ellipses, and every other prosodic mark
+      (see §3) - The order in which a character says things - Anything at
+      all on the grounds that it reads better the other way
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "45-53"
+    notes: null
+
+  - id: R19-2-WORLD_BREAK_FLAG
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§2"
+    title: Procedure when a fixed line breaks canon
+    status: proposed
+    kind: procedure
+    summary: >-
+      A canon-breaking line in Isaac's dialogue is flagged once in author
+      notes and left standing, untouched, unless Isaac rules otherwise.
+    verbatim: >-
+      Where a line genuinely breaks the world — a term that contradicts
+      canon, a name that has been retired, a claim that cannot be true —
+      Natalie flags it in one sentence in the author notes and leaves the
+      line standing unless Isaac rules otherwise. The draft is not touched.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "55"
+    notes: null
+
+  - id: R19-2-BUILT_AROUND
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§2"
+    title: Prose is built around fixed dialogue, not the reverse
+    status: proposed
+    kind: mandate
+    summary: >-
+      Scenes are constructed to make Isaac's fixed lines land; the dialogue
+      is never fitted to prose written ahead of it.
+    verbatim: >-
+      The prose is built around the dialogue, never over it. Isaac's lines
+      are the fixed points and the scene is constructed to make them land.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "57"
+    notes: null
+
+  - id: R19-3-PROSODY_VERBATIM
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§3"
+    title: Prosodic marks are reproduced verbatim, never normalised
+    status: proposed
+    kind: mandate
+    summary: >-
+      Capitals, stretched vowels, ellipses and repeated punctuation are
+      notation for volume, duration, breath and intensity, and must be
+      reproduced exactly rather than converted into narrative description.
+    verbatim: >-
+      Natalie does not convert stretched vowels into a narrative tag (he tore
+      it out of himself), does not reduce capitals to italics, and does not
+      tidy ellipses into em dashes or commas.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "63-70"
+    notes: null
+
+  - id: R19-3-TAG_ALONGSIDE
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§3"
+    title: A descriptive tag may accompany prosody, never replace it
+    status: proposed
+    kind: ban
+    summary: >-
+      A narrative tag may be added next to prosodic notation but may never be
+      used instead of it.
+    verbatim: >-
+      A tag may be added alongside prosody. It may never be added instead of
+      it.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "72"
+    notes: null
+
+  - id: R19-4-REALISTIC_SPEECH
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§4"
+    title: Originated dialogue must show real-time speech production
+    status: proposed
+    kind: mandate
+    summary: >-
+      Originated dialogue must include false starts and self-repair,
+      interruption, repetition, non-answers, characters talking past each
+      other, trailing off, physical business mid-line, and characters saying
+      the wrong thing, as craft law rather than optional flavour.
+    verbatim: >-
+      Speech is not prose. It is produced in real time by a person who has
+      not finished thinking.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "78-89"
+    notes: >-
+      Source lists eight specific artefacts (false starts/self-repair,
+      interruption, repetition, non-answers, talking past each other,
+      trailing off, physical business mid-line, saying the wrong thing) under
+      one craft-law header; kept as one row rather than eight since the
+      source treats them as one checklist, not eight separately verified
+      rules.
+
+  - id: R19-4-REGISTER_UNDER_STRESS
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§4"
+    title: Register under stress shortens and simplifies
+    status: proposed
+    kind: mandate
+    summary: >-
+      Under stress, a character's speech must get shorter, more concrete,
+      more repetitive, and lose subordinate clauses, uniformly across all
+      characters.
+    verbatim: >-
+      Register moves with state, and it moves the same way in every human
+      being. Under stress, speech gets shorter, more concrete, more
+      repetitive, and loses subordinate clauses.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "91"
+    notes: null
+
+  - id: R19-4-COMPOSURE_COST
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§4"
+    title: Staying composed under stress must cost visibly
+    status: proposed
+    kind: mandate
+    summary: >-
+      A character who stays composed under extreme stress is exercising an
+      expensive discipline, and the scene must show that price.
+    verbatim: >-
+      The inverse is a character note and it must cost. A character who does
+      stay composed under extreme stress is exercising an expensive
+      discipline, and the scene shows the price.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "93"
+    notes: null
+
+  - id: R19-4-WORLD_ANCHORED_SPEECH
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§4"
+    title: Speech idiom is anchored to the speaker's own life
+    status: proposed
+    kind: mandate
+    summary: >-
+      A character's metaphors and idiom must come from their own life and
+      trade, not from an external reference list.
+    verbatim: >-
+      Speech is world-anchored. People reach for the objects and idioms their
+      life has given them.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, worldbuilding, standing-inventory]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "95"
+    notes: null
+
+  - id: R19-4-ICEBERG_DIALOGUE
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§4"
+    title: The iceberg rule applies to dialogue
+    status: proposed
+    kind: ban
+    summary: >-
+      Characters never explain to each other something they both already
+      know.
+    verbatim: >-
+      And nobody explains anything they both already know. The iceberg rule
+      is a dialogue rule first.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "97"
+    notes: null
+
+  - id: R19-5-COMPOSURE_BAN
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§5"
+    title: The composure ban
+    status: proposed
+    kind: ban
+    summary: >-
+      Bars antithesis and parallelism, three-part lists, long subordinate
+      clauses in shouted speech, and perfect syntax from established
+      inarticulate/young/exhausted/foreign characters, and bars every
+      character in a scene from constructing sentences at the same length.
+    verbatim: >-
+      No character speaks in balanced clauses under duress, and Natalie's
+      habit of writing everyone that way is a tell.
+    amends:
+      - guide: "Dialogue Craft Standards"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "103-111"
+    notes: >-
+      Source itemises five specific bars under this header (antithesis under
+      duress, three-part lists from bleeding/frightened/grieving characters,
+      subordinate clauses over ~11 words in shouted speech, perfect syntax
+      from characters established as inarticulate/young/exhausted/foreign,
+      and uniform sentence length across a scene's speakers); kept as one row
+      since they are one named ban, not five independently checked ones.
+
+  - id: R19-5-SORT_BY_SPEAKER_TEST
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§5"
+    title: The cover-the-tags test is now a Pack Nineteen failure
+    status: proposed
+    kind: procedure
+    summary: >-
+      If a stranger could not sort a scene's dialogue lines by speaker with
+      the tags covered, the scene fails as a Pack Nineteen violation, not
+      merely a voice-differentiation warning.
+    verbatim: >-
+      Cover the dialogue tags and read the lines. If a stranger could not
+      sort them by speaker, the scene failed, and the failure is now a Pack
+      Nineteen failure and not merely a voice-differentiation warning.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "113"
+    notes: >-
+      Escalates the severity of the existing voice-differentiation test
+      (compare R15-1-VOICE_DIFFERENTIATION) rather than replacing it; no
+      supersedes link, since nothing is struck.
+
+  - id: R19-7-CHECK40
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§7"
+    title: "Check 40 — Fidelity"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Manual check that every line of Isaac's dialogue matches the submitted
+      rough verbatim except for corrections permitted in §2; any other change
+      fails and is reverted.
+    verbatim: >-
+      Check 40 — Fidelity. Manual. Diff the output against the submitted
+      rough. Every line of Isaac's dialogue appears verbatim except for the
+      corrections permitted in §2. Any other change is a FAIL and is
+      reverted.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 40"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: ["check-40", "--dialogue"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "129"
+    notes: null
+
+  - id: R19-7-CHECK41
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§7"
+    title: "Check 41 — Prosody"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Automatic check that fails when the submitted rough has stretched
+      vowels, repeated punctuation or capitalised shouting that the output
+      drops.
+    verbatim: >-
+      Check 41 — Prosody. Automatic where possible. If the submitted rough
+      contains stretched vowels, repeated punctuation or capitalised shouting
+      and the output does not, FAIL.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 41"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: ["check-41", "--dialogue"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "131"
+    notes: null
+
+  - id: R19-7-CHECK42
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§7"
+    title: "Check 42 — Composure"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Flags long, subordinate-heavy or parallel dialogue lines and reports
+      the spread of line lengths across a scene, flagging files where every
+      speaker clusters at one length.
+    verbatim: >-
+      Check 42 — Composure. Flags dialogue lines that are long,
+      subordinate-heavy, or contain parallel constructions, and reports the
+      spread of line lengths across the scene.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 42"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: ["check-42", "--dialogue"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "133"
+    notes: null
+
+  - id: R19-8-NO_RETROACTIVE
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§8"
+    title: The pack is not retroactive
+    status: proposed
+    kind: procedure
+    summary: >-
+      No rewrite of scenes written before this pack is proposed; the pack
+      governs dialogue written from here forward.
+    verbatim: >-
+      No rewrite of past scenes is proposed. The pack governs from here.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, session-protocol]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "146"
+    notes: null
+
+  - id: R19-9-STANDING_TASK
+    pack: Pack Nineteen
+    pack_number: 19
+    section: "§9"
+    title: Standing task, fold amendments into base guides
+    status: proposed
+    kind: procedure
+    summary: >-
+      Fold Packs One through Nineteen into the base guides and retire the
+      diffs, asked once per session.
+    verbatim: >-
+      Fold Packs One through Nineteen into the base guides and retire the
+      diffs. Ask once per session.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
+      lines: "150"
+    notes: null

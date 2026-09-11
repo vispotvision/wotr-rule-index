@@ -1,0 +1,458 @@
+# Pack Eighteen: Status: originated, pending Isaac's ratification (source
+# lines 5-6). No section marked confirmed, so every row is status: proposed.
+pack: Pack Eighteen
+pack_number: 18
+source_file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+ratified: null
+rules:
+
+  - id: R18-2-CODEX_FIRST_MANDATE
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§2"
+    title: The Codex is consulted before a working is designed
+    status: proposed
+    kind: procedure
+    summary: >-
+      Before naming, pitching, converting or writing a working, the design
+      order is fixed: read the Spell Index for precedent, then the Master
+      Glyph Index, take Wellspring/Family/Physics Domain/Temperance
+      Min/Category/Glyph Class assignment from the Lists sheet (never from
+      memory), route alchemy to the Alchemical Index, and only then design
+      and write.
+    verbatim: >-
+      The Codex is opened before the working is designed, not after.
+    amends:
+      - guide: "Ability and Technique Design Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "23"
+    notes: null
+
+  - id: R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§2"
+    title: No new Codex category without a demonstrated absence
+    status: proposed
+    kind: ban
+    summary: >-
+      A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class,
+      Tier or alchemical Type may not be proposed until the existing
+      enumeration has been read and shown not to already cover it; a proposal
+      that does not name what was checked is not a proposal.
+    verbatim: >-
+      No new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class,
+      Tier or alchemical Type may be proposed until the existing enumeration
+      has been read and the absence demonstrated. A proposal that does not
+      name what was checked and why it failed is not a proposal.
+    amends:
+      - guide: "Ability and Technique Design Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "34"
+    notes: null
+
+  - id: R18-3-CARD_IS_SPELL_INDEX
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§3"
+    title: Pack Seventeen's card and the Spell Index share one schema
+    status: proposed
+    kind: definition
+    summary: >-
+      Pack Seventeen's technique card fields (Operation, Manifestation, Cost,
+      Limit, Counter, Codex line) map exactly onto Spell Index columns
+      (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response,
+      Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay,
+      and Category/Primary Glyphs/Wellsprings/Family/Physics Domain
+      respectively), and the Codex column governs.
+    verbatim: >-
+      Pack Seventeen's card and the Spell Index schema are the same object.
+      The mapping is exact and the Codex column governs:
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "40"
+    notes: null
+
+  - id: R18-3-ENTRY_AS_CANDIDATE_ROW
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§3"
+    title: Every new working is written as a candidate Codex row
+    status: proposed
+    kind: mandate
+    summary: >-
+      A newly designed working's entry is written in Spell Index form and
+      stands as a candidate row for the sheet; anything originated in play
+      belongs in the Codex or does not exist.
+    verbatim: >-
+      When a new working is designed, its entry is written in Spell Index
+      form and is a candidate row for the sheet. The Codex is a living
+      document and everything originated in play belongs in it or does not
+      exist.
+    amends:
+      - guide: "Ability and Technique Design Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "51"
+    notes: null
+
+  - id: R18-3-CODEX_OVERRIDES_LEXICON
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§3"
+    title: The Codex outranks Pack Sixteen's conversion lexicon on conflict
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      Pack Sixteen's route-1 rough-prose conversion now means routing to a
+      Codex term, and where the Pack Sixteen §4 conversion lexicon disagrees
+      with the Codex sheet, the sheet wins.
+    verbatim: >-
+      And when converting Isaac's rough prose (Pack Sixteen §2), route 1 now
+      means route to a Codex term. The conversion lexicon in Pack Sixteen §4
+      is subordinate to the Codex: where the two disagree, the sheet wins.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md"
+        locus: "§4"
+        operation: demotes
+    supersedes: []
+    applies_to: [codex, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "53"
+    notes: >-
+      Demotes Pack Sixteen §4's conversion lexicon to subordinate status
+      rather than striking it; not a supersedes link since Pack Sixteen §4
+      still applies wherever it does not conflict with the Codex.
+
+  - id: R18-4-GLYPH_NAMING_CONTEXTS
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§4"
+    title: Where a glyph may be named on the page
+    status: proposed
+    kind: mandate
+    summary: >-
+      Glyphs are named only in a document, an instrument, a practitioner's
+      diagnostic voice, or a private count; narration may state what a glyph
+      did without announcing the bracketed form.
+    verbatim: >-
+      Glyphs are named in a document, an instrument, a practitioner's
+      diagnostic voice, or a private count. Narration may state what a glyph
+      did and does not announce the bracket.
+    amends: null
+    supersedes: []
+    applies_to: [magic-mechanism, codex, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "61"
+    notes: null
+
+  - id: R18-4-GLYPH_QUOTED_EXACTLY
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§4"
+    title: A glyph in text is quoted exactly as the Index gives it
+    status: proposed
+    kind: mandate
+    summary: >-
+      A glyph appearing in a chant, an inscription or a Wordform Chain must
+      be quoted exactly as the Master Glyph Index gives it.
+    verbatim: >-
+      A glyph in a chant, an inscription or a Wordform Chain is quoted
+      exactly as the Index gives it.
+    amends: null
+    supersedes: []
+    applies_to: [magic-mechanism, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "62"
+    notes: null
+
+  - id: R18-4-ROLE_VS_CLASS_AXES
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§4"
+    title: Glyph Role and Glyph Class are orthogonal, non-substitutable axes
+    status: proposed
+    kind: definition
+    summary: >-
+      Glyph Role (Authorization, Boundary, Direction, Sealing) describes
+      function within a working; Glyph Class (Root, Derivative by Extension,
+      Compound, Synonym, Counter) describes provenance; neither may stand in
+      for the other.
+    verbatim: >-
+      The four Glyph Roles from the Notion Lexicon (Authorization, Boundary,
+      Direction, Sealing) describe function within a working. Glyph Class
+      from the Codex (Root, and Derivative by Extension, Compound, Synonym or
+      Counter) describes provenance. They are orthogonal axes and neither
+      substitutes for the other.
+    amends: null
+    supersedes: []
+    applies_to: [codex, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "63"
+    notes: null
+
+  - id: R18-5-ALCHEMY_SOURCE_ORDER
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§5"
+    title: Three alchemy sources, consulted in a fixed order
+    status: proposed
+    kind: procedure
+    summary: >-
+      Alchemy design consults, in order, the Alchemical Index (what exists),
+      Alchemetrica (doctrine), and The Real Alchemy (real-world substrate
+      check on invented process/apparatus/reagent behaviour), loading The
+      Provenance Doctrine, The Standing Index and The Bench of Attribution
+      alongside them; none of the three is optional.
+    verbatim: >-
+      Three sources, consulted in this order, and none of them optional.
+    amends:
+      - guide: "Ability and Technique Design Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "69"
+    notes: null
+
+  - id: R18-5-ALCHEMY_DOCTRINE_BINDING
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§5"
+    title: The alchemical doctrine line, and the operations it binds
+    status: proposed
+    kind: mandate
+    summary: >-
+      Reagents are the nouns, the Wellspring is the verb, and Glyphica is the
+      grammar; any working touching Calcination, Dissolution, Coagulatio,
+      Distillation, Sublimare or Transmutatio is bound by Alchemetrica's
+      entries for them.
+    verbatim: >-
+      the reagents are the nouns, the Wellspring is the verb, Glyphica is the
+      grammar that makes the sentence lawful. It also fixes the eight
+      Wellsprings that are simultaneously Wellspring, cosmic principle and
+      alchemical operation, and any working that touches Calcination,
+      Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is
+      bound by their entries there.
+    amends:
+      - guide: "Ability and Technique Design Guide"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "73"
+    notes: null
+
+  - id: R18-6-SESSION_START_4A
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§6"
+    title: New Session Start step 4a, open the Master Codex
+    status: proposed
+    kind: procedure
+    summary: >-
+      Inserted between the current steps four and five of the Session Start
+      Protocol, a new step 4a requires querying the Spell Index, Glyph Index,
+      Alchemical Index and Lists sheet for everything the scene will work,
+      before the FOW line and before the Standing Inventory.
+    verbatim: >-
+      4a. Open the Master Codex for anything the scene will work. Query the
+      Spell Index for existing precedent, the Glyph Index for the phenomenon,
+      the Alchemical Index for any reagent, and the Lists sheet for every
+      assignment the scene will name. Do this before the FOW line and before
+      the Standing Inventory, because the Codex determines what the working
+      is and the others determine what it costs and how it reads.
+    amends:
+      - guide: "Session Start Protocol"
+        locus: "step 4a"
+        operation: adds
+    supersedes: []
+    applies_to: [session-protocol, codex]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "85"
+    notes: null
+
+  - id: R18-6-ACCESS_METHOD
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§6"
+    title: The Codex is read from the file, never from memory
+    status: proposed
+    kind: procedure
+    summary: >-
+      The Master Codex is accessed read-only via openpyxl from the actual
+      spreadsheet file; the sheet is the authority, not Natalie's recollection
+      of it.
+    verbatim: >-
+      Access method: openpyxl, read-only, from /mnt/project/The_Master_Codex.xlsx.
+      Never from memory. The sheet is the authority and Natalie's recollection
+      of it is not.
+    amends: null
+    supersedes: []
+    applies_to: [codex, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "87"
+    notes: null
+
+  - id: R18-7-CHECK37
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§7"
+    title: "Check 37 — Controlled vocabulary"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Every Wellspring, Family, Physics Domain, Temperance stage, Archon,
+      Titan, Glyph Class, alchemical Tier and Type named in a file is
+      validated against the Lists sheet; anything absent fails unless
+      declared as a proposed new entry naming the checked enumeration.
+    verbatim: >-
+      Check 37 — Controlled vocabulary. Every Wellspring, Family, Physics
+      Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier
+      and alchemical Type named in the file is validated against the Lists
+      sheet. Anything absent is a FAIL and must be either corrected or
+      explicitly declared as a proposed new entry with the checked
+      enumeration named.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 37"
+        operation: adds
+    supersedes: []
+    applies_to: [codex, verification]
+    verification: ["check-37", "--codex"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "95"
+    notes: null
+
+  - id: R18-7-CHECK38
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§7"
+    title: "Check 38 — Glyph validity"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Every bracketed glyph token in a file is validated against the Master
+      Glyph Index; unknown tokens fail.
+    verbatim: >-
+      Check 38 — Glyph validity. Every bracketed glyph token in the file is
+      validated against the Master Glyph Index. Unknown tokens FAIL.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 38"
+        operation: adds
+    supersedes: []
+    applies_to: [codex, verification, magic-mechanism]
+    verification: ["check-38", "--codex"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "97"
+    notes: null
+
+  - id: R18-7-CHECK39
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§7"
+    title: "Check 39 — Precedent"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Manual check: for any new working, name the Spell Index rows checked
+      and state whether the working is new, a derivation of a named row, or
+      a duplicate.
+    verbatim: >-
+      Check 39 — Precedent. Manual. For any new working, name the Spell Index
+      rows checked and state whether the working is new, a derivation of a
+      named row, or a duplicate.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 39"
+        operation: adds
+    supersedes: []
+    applies_to: [codex, verification, magic-design]
+    verification: ["check-39", "--codex"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "99"
+    notes: null
+
+  - id: R18-9-STANDING_TASK
+    pack: Pack Eighteen
+    pack_number: 18
+    section: "§9"
+    title: Standing task, fold amendments into base guides
+    status: proposed
+    kind: procedure
+    summary: >-
+      Fold Packs One through Eighteen into the base guides and retire the
+      diffs, asked once per session.
+    verbatim: >-
+      Fold Packs One through Eighteen into the base guides and retire the
+      diffs. Ask once per session.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
+      lines: "115"
+    notes: null

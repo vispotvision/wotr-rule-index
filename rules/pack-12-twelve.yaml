@@ -1,0 +1,1091 @@
+# Pack Twelve: no pack-level Status: line exists (unlike Packs 13/14/16-19,
+# which all explicitly say "pending" or "originated"). SS1 and SS4 are each
+# explicitly "Confirmed by Isaac's ruling," and every later pack in this
+# corpus (Fifteen, Sixteen's SS1, Fourteen's "Twelve SS5", etc.) treats this
+# whole pack as settled fact, not a draft. Read as status: live throughout,
+# ratified: null (no date is ever given, only "confirmed").  This is an
+# interpretive call, not a quote — flag to Isaac if wrong.
+pack: Pack Twelve
+pack_number: 12
+source_file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+ratified: null
+rules:
+
+  - id: R12-1-PACK_SEVEN_REPEALED
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The Soft Magic Amendment is dead in full
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven, the Soft Magic Amendment, is repealed in full; six of its
+      specific provisions are individually struck (see the other §1 rows),
+      and where Twelve conflicts with Seven, Seven is struck.
+    verbatim: >-
+      Confirmed by Isaac's ruling. The Soft Magic Amendment is dead in
+      full. The following are struck and no longer craft law:
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism, magic-design, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "13"
+    notes: >-
+      This is the target row for the corpus's known live-fire supersession:
+      every Pack Seven rule row should end up status:superseded with a note
+      pointing here, and this row's supersedes list should be backfilled
+      with every Pack Seven rule id once Pack Seven is extracted in Phase 2.
+
+  - id: R12-1-MECHANISM_NOWHERE_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: "\"Mechanism nowhere\" struck"
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's "mechanism nowhere" rule is struck.
+    verbatim: >-
+      "Mechanism nowhere." Struck.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "15"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2.
+
+  - id: R12-1-SOFT_ZONES_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The three soft zones blanket rule struck, one exception flagged
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's three soft zones as a blanket rule are struck, with one
+      exception flagged at §6.
+    verbatim: >-
+      The three soft zones as a blanket rule. Struck, with one flagged
+      exception at §6.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "16"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2. Exception is R12-6-RULES_AS_RULES/R12-6-MYSTIC_GRAMMAR.
+
+  - id: R12-1-EXPLAIN_BAN_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The ban on explaining why a working produced its effect is struck
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's ban on any sentence explaining why a working produced its
+      effect is struck.
+    verbatim: >-
+      The ban on any sentence explaining why a working produced its effect.
+      Struck.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "17"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2.
+
+  - id: R12-1-NUMBER_BAN_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The ban on metaphysical numbers is struck, with rationing at §5
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's ban on numbers attached to metaphysical quantities is
+      struck, subject to the rationing rule at §5.
+    verbatim: >-
+      The ban on numbers attached to metaphysical quantities. Struck, with
+      rationing at §5.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "18"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2. See R12-5-NUMBERS_DIAGNOSTIC_ONLY for the
+      rationing rule.
+
+  - id: R12-1-DESIGN_CHAIN_RETURNS
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The Design Chain's workbook confinement is struck
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's confinement of the Design Chain to the workbook is
+      struck; the chain returns to the page at §3.
+    verbatim: >-
+      The Design Chain's confinement to the workbook. Struck. It returns to
+      the page at §3.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "19"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2. See R12-3-DESIGN_CHAIN_RETURNS for the §3
+      restoration.
+
+  - id: R12-1-APPARATUS_CAP_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: The Apparatus Rule's one-read-per-scene cap is struck
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Seven's inheritance of the Apparatus Rule's one-read-per-scene
+      cap is struck and replaced at §4.
+    verbatim: >-
+      The Apparatus Rule's one-read-per-scene cap. Struck, replaced at §4.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "20"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id once
+      extracted in Phase 2. §4 is about the four explaining voices, not the
+      Apparatus Rule replacement — that replacement text is actually in §7
+      (see R12-7-APPARATUS_CAP_REPLACED); this looks like a cross-reference
+      slip in the source itself, recorded as-is rather than silently
+      corrected.
+
+  - id: R12-1-PACK_SEVEN_SURVIVORS
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§1"
+    title: What Pack Seven got right survives the repeal
+    status: live
+    kind: definition
+    summary: >-
+      The power economy remains a hard rail (finite, spent, shown on the
+      page), the ladder remains real, and explaining a mechanism does not
+      license a free technique; a fully explained technique that costs
+      nothing is worse than an unexplained one.
+    verbatim: >-
+      The economy is still a hard rail: power is finite, spent, and the
+      spending shows on the page or it did not happen. The ladder is still
+      real and higher is still felt before it is seen. Explaining a
+      mechanism does not license a free one. A fully explained technique
+      that costs nothing is worse than an unexplained one.
+    amends: null
+    supersedes: []
+    applies_to: [magic-mechanism, magic-design, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "22"
+    notes: null
+
+  - id: R12-2-TECHNICAL_REGISTER_DEF
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§2"
+    title: The Technical Register, defined
+    status: live
+    kind: definition
+    summary: >-
+      The Technical Register governs combat, craft, injury and anything a
+      practitioner does on purpose; exhaustive, tactical, delivered
+      in-fight, explaining the read, the fault, the counter, the reserve
+      and why the answer worked, in real vocabulary.
+    verbatim: >-
+      The Technical Register governs combat, craft, injury, and anything a
+      practitioner does on purpose. It is Naruto. It is exhaustive,
+      tactical, and delivered in-fight. It explains the read, the fault,
+      the counter, the reserve, and the reason the answer worked. It uses
+      real vocabulary and does not flinch from detail.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [register, magic-mechanism, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "30"
+    notes: null
+
+  - id: R12-2-MYSTIC_REGISTER_DEF
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§2"
+    title: The Mystic Register, defined
+    status: live
+    kind: definition
+    summary: >-
+      The Mystic Register governs Wellsprings, sites, rites, oaths, the
+      Veil, and anything the world does regardless of who is watching; it
+      is stated as law, never as physics — imperative rules, prices given
+      as prices, taboos given without justification.
+    verbatim: >-
+      The Mystic Register governs Wellsprings, sites, rites, oaths, the
+      Veil, and anything the world does regardless of who is watching. It
+      is Lord of the Mysteries. It is stated as law, never as physics:
+      rules given in the imperative, prices given as prices, taboos given
+      without justification.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [register, magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "32"
+    notes: >-
+      Pack Fifteen §1 cites "the Mystic Register's rules stated as law,
+      never physics clause (Twelve §6)" when striking its document-facing
+      application (R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK) — that
+      strike is partial (this register survives for documents that want to
+      withhold), so no supersedes link is set here; a full supersedes would
+      incorrectly kill this still-live definition.
+
+  - id: R12-2-REGISTER_TEST
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§2"
+    title: The test for which register a passage is in
+    status: live
+    kind: procedure
+    summary: >-
+      If a person chose to do a thing, it is Technical Register. If it was
+      already running before anyone noticed, it is Mystic Register.
+    verbatim: >-
+      The test for which register a passage is in: if a person chose to do
+      it, Technical. If it was already running before anyone noticed,
+      Mystic.
+    amends: null
+    supersedes: []
+    applies_to: [register, magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "34"
+    notes: null
+
+  - id: R12-2-NO_MIXING
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§2"
+    title: The two registers do not mix in one passage
+    status: live
+    kind: ban
+    summary: >-
+      A passage that mixes the Technical and Mystic registers reads as a
+      textbook and is the pack's primary failure mode.
+    verbatim: >-
+      Both registers explain. They explain differently. A passage that
+      mixes them reads as a textbook and is the primary failure mode of
+      this pack.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "36"
+    notes: null
+
+  - id: R12-3-DESIGN_CHAIN_RETURNS
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§3"
+    title: The ten-element Design Chain is prose-legal again
+    status: live
+    kind: repeal
+    summary: >-
+      The Design Chain (Trigger, Function, Mechanism, Numerical Effect,
+      Target Response, Consequence, Limitation, Weakness, Cost, Counterplay)
+      is fully prose-legal, distributed through the scene rather than
+      workbook-only.
+    verbatim: >-
+      The Design Chain returns to the page. Trigger, Function, Mechanism,
+      Numerical Effect, Target Response, Consequence, Limitation, Weakness,
+      Cost, Counterplay. Formerly workbook-only under Pack Seven. Now
+      prose-legal in full, distributed through the scene instead of listed.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [magic-mechanism, magic-design, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "42"
+    notes: null
+
+  - id: R12-3-COMBAT_EXCHANGE_OWES
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§3"
+    title: What a combat exchange owes the reader, five minimums
+    status: live
+    kind: mandate
+    summary: >-
+      Across an engagement, at minimum: the read (evidence named), the
+      fault (structural weakness), the counter and why it works (causal),
+      the cost in body and reserve (both), and what the character cannot
+      do next.
+    verbatim: >-
+      What a combat exchange now owes the reader. At minimum, across the
+      engagement:
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, adjudication, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "44"
+    notes: >-
+      Extended and made denser by Pack Thirteen §4's eight-item combat
+      floor (R13-4-COMBAT_FLOOR); not a supersession, Thirteen builds on
+      this rather than striking it.
+
+  - id: R12-3-CARD_PLUS_CHAIN
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§3"
+    title: The five-line card becomes a summary above the full chain
+    status: live
+    kind: consequential_edit
+    summary: >-
+      Technique writeups now carry the full Design Chain in place of the
+      old five-line format; the five-line format (Effect, Cost, Limit,
+      Counter, What nobody knows) survives only as a summary card at the
+      head of an entry, with the chain below it.
+    verbatim: >-
+      Technique writeups on the page now carry the full chain in place of
+      the five-line format. The five-line format (Effect, Cost, Limit,
+      Counter, What nobody knows) is retained as the summary card at the
+      head of an entry, with the chain below it.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: replaces
+    supersedes: []
+    applies_to: [magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "52"
+    notes: >-
+      This is the five-line card format Pack Seventeen's R17-3-SIX_LINE_CARD
+      replaces; Pack Seventeen's note flagging an unidentified five-line
+      predecessor should be backfilled to reference this row.
+
+  - id: R12-3-COUNTER_MANDATORY
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§3"
+    title: Every ability entry retains a mandatory Counter field
+    status: live
+    kind: mandate
+    summary: >-
+      Ability entries retain the Counter field as mandatory; explanation
+      makes counterplay easier to write, not optional.
+    verbatim: >-
+      Ability entries retain the Counter field as mandatory. Explanation
+      makes counterplay easier to write, and it stays mandatory.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "technique card format"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "54"
+    notes: >-
+      Pack Seventeen's R17-3-COUNTER_MANDATORY narrows this to "mandatory on
+      Signature techniques" specifically; a refinement, not a conflict.
+
+  - id: R12-3-NAMED_INVENTOR_RULE
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§3"
+    title: Documented techniques are counterable by study; originals by live read
+    status: live
+    kind: mandate
+    summary: >-
+      Every technique was derived by somebody for a specific problem; a
+      documented technique is counterable by anyone who studied it, while a
+      self-derived technique must be read live in the exchanges before it
+      kills, shown in full rather than summarised.
+    verbatim: >-
+      The named inventor rule. Every technique was derived by somebody, in a
+      specific place, for a specific problem, and the text may say so. A
+      documented technique is counterable by anyone who studied it. A
+      self-derived technique must be read live, in the two or three
+      exchanges before it kills you, and the reading is now shown in full
+      instead of summarised.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, combat, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "56"
+    notes: null
+
+  - id: R12-4-VOICE_MIXING_RULE
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: Mix the four explaining voices; at most two per engagement
+    status: live
+    kind: mandate
+    summary: >-
+      Confirmed by Isaac's ruling: the four explaining voices may mix,
+      whoever is in the scene, picked per scene, with no more than two run
+      in one engagement.
+    verbatim: >-
+      Confirmed by Isaac's ruling: mix, whoever is in the scene. Four
+      carriers. Pick per scene. Do not run more than two in one engagement.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "62"
+    notes: null
+
+  - id: R12-4-VOICE_ONE_POV
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: "Voice one: the POV's own read"
+    status: live
+    kind: definition
+    summary: >-
+      Free indirect explanation ceilinged at the POV character's actual
+      competence; an out-of-depth character explains wrong, and a
+      confidently wrong technical explanation is now the primary vehicle
+      for the misreading budget.
+    verbatim: >-
+      The POV's own read. Free indirect, inside his competence. The
+      ceiling is what this character actually knows, and a character who
+      is out of his depth explains wrong. A wrong technical explanation
+      delivered confidently is now the most valuable tool in the kit and
+      replaces the misreading budget as its primary vehicle.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, pov, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "64"
+    notes: null
+
+  - id: R12-4-VOICE_TWO_SECOND
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: "Voice two: the knowledgeable second"
+    status: live
+    kind: definition
+    summary: >-
+      A present observer who understands what the POV does not, narrating
+      the read to a third party or himself (the Kakashi model); requires an
+      actual reason to be present and talking, best carried by teachers,
+      rivals, Measurewrights, or the Research and Archives Division.
+    verbatim: >-
+      The knowledgeable second. The Kakashi model. Someone watching from
+      outside the exchange who understands what the POV does not,
+      narrating the read to a third party or to himself. Requires an
+      actual reason for them to be present and talking.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, pov, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "66"
+    notes: null
+
+  - id: R12-4-VOICE_THREE_OPPONENT
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: "Voice three: the opponent"
+    status: live
+    kind: definition
+    summary: >-
+      A practitioner explains exactly what he is doing to his target while
+      doing it, because he does not believe the explanation will help; the
+      most economical and characterful voice, barred to anyone without
+      standing to be arrogant.
+    verbatim: >-
+      The opponent. Contempt as instruction. A practitioner explaining
+      exactly what he is doing to you while doing it, because he does not
+      believe the explanation will help. This is the most economical of
+      the four and the most characterful, and it is barred to anyone who
+      does not have the standing to be arrogant.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "68"
+    notes: null
+
+  - id: R12-4-VOICE_FOUR_DOCUMENT
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: "Voice four: the document"
+    status: live
+    kind: definition
+    summary: >-
+      An in-world register entry, field manual, or codex line dropped in at
+      a scene threshold (the LotM model), using the Mystic Register and
+      setting a rule the scene then breaks.
+    verbatim: >-
+      The document. The LotM model. An in-world register entry, field
+      manual, or codex line dropped into the narrative at the threshold of
+      a scene. Uses the Mystic Register. Sets a rule the scene then breaks.
+    amends: null
+    supersedes: []
+    applies_to: [documents, register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "70"
+    notes: null
+
+  - id: R12-4-VOICE_DISCIPLINE
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§4"
+    title: Explanations are characterised by class-marked vocabulary
+    status: live
+    kind: mandate
+    summary: >-
+      A Measurewright, a Kharven hunter and an Accord officer explain the
+      same phenomenon in three different vocabularies; which words a mouth
+      reaches for remains class-marking per Pack Nine.
+    verbatim: >-
+      Voice discipline. The explanation is characterised. A Measurewright,
+      a Kharven hunter, and an Accord officer explain the same phenomenon
+      in three different vocabularies, and which words a mouth reaches for
+      remains class-marking, per Pack Nine.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "72"
+    notes: >-
+      Softened by Pack Fifteen §4 from a stricter clause to "may differ"
+      (see R15-4-TWELVE_VOICE_DISCIPLINE_SOFTENED); a demotion, not a full
+      strike, so no supersedes link — Pack Fifteen's amends already carries
+      the locus §4 cross-reference.
+
+  - id: R12-5-NUMBERS_DIAGNOSTIC_ONLY
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§5"
+    title: Metaphysical numbers reach the page only in diagnostic voice
+    status: live
+    kind: ban
+    summary: >-
+      EU, AU/s, eta, Coherence, Grade and Band numbers may not reach
+      third-person narration on the narration's own authority; they are
+      legal only in diagnostic voice (a faculty reading, a practitioner
+      counting reserve, a document, an instrument, or a speaking
+      character).
+    verbatim: >-
+      They may not reach the narration. Numbers are legal in diagnostic
+      voice only: a perceptive faculty actively reading, a practitioner
+      counting his own reserve, a document, an instrument, or a character
+      speaking. Third-person narration does not state a metaphysical
+      figure on its own authority.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§5"
+        operation: adds
+    supersedes: []
+    applies_to: [stats, prose-law, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "80"
+    notes: >-
+      This is the "Twelve §5" rationing rule Pack Fourteen §4 cites
+      directly.
+
+  - id: R12-5-NEVER_INVENT_NUMBER
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§5"
+    title: A number is never invented
+    status: live
+    kind: ban
+    summary: >-
+      Every metaphysical figure is checked against source and never
+      invented; where unspecified, it is flagged as an estimate.
+    verbatim: >-
+      Never invent a number. Unchanged and absolute. Every value checked
+      against source. Unspecified means flagged as estimate.
+    amends: null
+    supersedes: []
+    applies_to: [stats, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "84"
+    notes: null
+
+  - id: R12-6-RULES_AS_RULES
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§6"
+    title: Mystic Register rules are stated as rules, unexplained
+    status: live
+    kind: mandate
+    summary: >-
+      The Mystic Register states consequences without offering mechanism
+      (the canonical example: do not carry Object Wellsprings into Site
+      Wellsprings, no mechanism given, a stated consequence, the Guild has
+      buried those who tested it); more sentences are written in that
+      shape.
+    verbatim: >-
+      Rules stated as rules. The strongest existing example is already
+      canon: do not carry Object Wellsprings into Site Wellsprings. No
+      mechanism offered, a stated consequence, and the Guild has buried the
+      people who tested it. Write more sentences in that shape.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: adds
+    supersedes: []
+    applies_to: [register, magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "92"
+    notes: >-
+      This is the flagged exception referenced by R12-1-SOFT_ZONES_STRUCK.
+
+  - id: R12-6-MYSTIC_GRAMMAR
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§6"
+    title: The grammar of the Mystic Register, five features
+    status: live
+    kind: definition
+    summary: >-
+      The Mystic Register's grammar: imperative without justification,
+      price stated exactly with no reason given, correspondence in place
+      of causation, attribution to an uncertain institution, and the
+      recorded failure documented in flat administrative prose.
+    verbatim: >-
+      The grammar of the Mystic Register: - The imperative without
+      justification. Do this, never that. - The price stated exactly and
+      the reason for the price never. - Correspondence in place of
+      causation. This answers to that. Nobody says why. - Attribution to an
+      institution that is itself uncertain. The register says. The older
+      register said otherwise. Both are filed. - The recorded failure.
+      Somebody did it wrong once and what happened to them is documented in
+      flat administrative prose.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: adds
+    supersedes: []
+    applies_to: [register, magic-mechanism, worldbuilding, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "94-99"
+    notes: null
+
+  - id: R12-6-RITUAL_SPECIFICATION
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§6"
+    title: A ritual specifies its materials, sequence and errors
+    status: live
+    kind: mandate
+    summary: >-
+      A rite has a fully specified bill of goods, an order of operations,
+      and a list of ways it goes wrong.
+    verbatim: >-
+      Ritual gets its materials, its sequence, and its errors. A rite has a
+      bill of goods, an order of operations, and a list of ways it goes
+      wrong, all specified.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "§6"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-mechanism, worldbuilding, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "101"
+    notes: null
+
+  - id: R12-A
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§6"
+    title: The Origin layer, whether it stays mythic
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether mechanism becomes fully explicable while Origin (where the
+      Titans, Archons, the Crevice, the Withering and Epoch-scale events
+      came from) stays permanently mythic and unresolved.
+    verbatim: >-
+      My recommendation, pitched not decided: mechanism becomes fully
+      explicable, and where any of it came from stays mythic. Titans,
+      Archons, the Crevice, the Withering, Epoch-scale events. They
+      generate dread and problems. They never resolve a plot.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "103"
+    notes: >-
+      Recommendation: keep Origin mythic (Naruto explains chakra
+      exhaustively but never its origin, and loses nothing); pitched, not
+      decided. Confirmed added to the Open Docket at §8.
+
+  - id: R12-7-APPARATUS_CAP_REPLACED
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§7"
+    title: The one-read cap is struck and replaced by a tempo cost
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Six's Apparatus Rule one-read-per-scene cap is struck; a faculty
+      may now read as often as the scene needs, replaced by a cost — a read
+      occupies attention, and the scene shows what the reading cost the
+      reader in tempo.
+    verbatim: >-
+      Struck: the Apparatus Rule's one-read-per-scene cap. A faculty may
+      now read as often as the scene needs. Replaced by a cost: a read
+      occupies attention, and a character reading is a character who is
+      doing nothing else. Show what the reading cost him in tempo.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: "Apparatus Rule"
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "109"
+    notes: >-
+      supersedes: backfill with the Pack Six Apparatus Rule row once Pack
+      Six is extracted in Phase 2.
+
+  - id: R12-7-LEGIBILITY_BAN_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§7"
+    title: The total-legibility ban and zero-interpretation rule are struck
+    status: live
+    kind: repeal
+    summary: >-
+      Pack Six's total-legibility ban and blanket interpretation-at-zero
+      rule are struck.
+    verbatim: >-
+      Struck: the total-legibility ban and the blanket interpretation-at-zero
+      rule.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [magic-mechanism, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "111"
+    notes: >-
+      supersedes: backfill with the Pack Six rule row(s) once Pack Six is
+      extracted in Phase 2.
+
+  - id: R12-7-IGNORANCE_MISREADING_RETAINED
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§7"
+    title: The ignorance quota and misreading budget are retained, elevated
+    status: live
+    kind: definition
+    summary: >-
+      The ignorance quota and misreading budget survive Pack Twelve intact
+      and become more important as dramatic-irony tools now that
+      explanation is the default; the wrong explanation is now the
+      load-bearing device.
+    verbatim: >-
+      Retained, and now more important: the ignorance quota and the
+      misreading budget. These were never opacity tools. They are dramatic
+      irony tools and they survive Pack Twelve intact. One thing per scene
+      the POV cannot interpret. At least one confident inference that is
+      wrong and stays uncorrected.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "113"
+    notes: null
+
+  - id: R12-7-AI_TELLS_RETAINED
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§7"
+    title: The AI-tell checklist is retained in full
+    status: live
+    kind: definition
+    summary: >-
+      The Ladder ban, the Gloss budget of zero, local burstiness, the
+      reification budget, and every AI tell in the checklist survive
+      unchanged; explaining a mechanism is no licence to write badly.
+    verbatim: >-
+      Retained in full: the Ladder ban, the Gloss budget of zero, local
+      burstiness, the reification budget, and every AI tell in the
+      checklist. Explaining a mechanism is no licence to write badly.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "115"
+    notes: null
+
+  - id: R12-8-COMBAT_GUIDE_READ_LENGTH
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§8"
+    title: The read is shown at length; the hit model reads as explanation
+    status: live
+    kind: consequential_edit
+    summary: >-
+      In the Combat Craft Guide, the read is now shown at length rather
+      than summarised, and the three-layer hit model is rendered as
+      explanation, not only as phenomena.
+    verbatim: >-
+      WOTR_Combat_Craft_Guide.md. The read is now shown at length, no
+      longer summarised. The three-layer hit model is rendered as
+      explanation and no longer only as phenomena.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [combat, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "123"
+    notes: null
+
+  - id: R12-8-SCENE_GUIDE_PACK7_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§8"
+    title: Pack Seven's pre-write question and self-review check are struck
+    status: live
+    kind: repeal
+    summary: >-
+      The Scene Writing Process Guide's Pack Seven pre-write question and
+      self-review check are struck.
+    verbatim: >-
+      WOTR_Scene_Writing_Process_Guide.md. The Pack Seven pre-write question
+      and self-review check are struck.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [scene-structure, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "124"
+    notes: >-
+      supersedes: backfill with the specific Pack Seven rule id(s) for the
+      pre-write question and self-review check once Pack Seven is extracted
+      in Phase 2.
+
+  - id: R12-8-VERIFY_CHECKS_RETIRED
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§8"
+    title: Checks 20-21 retired, check 19 rewritten
+    status: live
+    kind: consequential_edit
+    summary: >-
+      wotr_verify.sh checks 20 and 21 are retired, and check 19 is
+      rewritten off §4 (the four explaining voices).
+    verbatim: >-
+      wotr_verify.sh. Checks 20 and 21 retired. Check 19 rewritten off §4.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "checks 19-21"
+        operation: null
+    supersedes: []
+    applies_to: [verification]
+    verification: ["check-19", "check-20", "check-21"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "125"
+    notes: null
+
+  - id: R12-8-SCENE_STANDARDS_BANS_STRUCK
+    pack: Pack Twelve
+    pack_number: 12
+    section: "§8"
+    title: Scene Standards' mechanism and metaphysical-number bans struck
+    status: live
+    kind: repeal
+    summary: >-
+      Scene Standards' sentence-level bans on mechanism explanation and
+      metaphysical numbers are struck; everything else in Scene Standards
+      stands.
+    verbatim: >-
+      Scene Standards. The sentence-level bans on mechanism explanation and
+      metaphysical numbers are struck. Everything else stands.
+    amends:
+      - guide: "Scene Standards"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [scene-structure, magic-mechanism, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
+      lines: "126"
+    notes: >-
+      "Scene Standards" here appears to be the carve-out established in
+      Amendment Three (WOTR_Companion_Guide_Amendments.md, Phase 3); confirm
+      and backfill supersedes when that pack is extracted, if a specific
+      row matches.

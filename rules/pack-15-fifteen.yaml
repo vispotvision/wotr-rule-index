@@ -294,8 +294,11 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "22"
     notes: >-
-      supersedes should point at the Pack Twelve §6 rule ID once Phase 1
-      reaches Pack Twelve; backfill before Phase 1 closes.
+      Backfilled: the closest explicit "law, never physics" statement is
+      R12-2-MYSTIC_REGISTER_DEF, but this strike is partial (the Mystic
+      Register itself survives for documents that want to withhold), so no
+      supersedes link is set — a full supersedes would incorrectly kill a
+      still-live definition.
 
   - id: R15-1-READS_MODERN_STRUCK
     pack: Pack Fifteen
@@ -447,10 +450,11 @@ rules:
       lines: "59"
     notes: >-
       The "Mystic Register never physics clause struck" half of this line is
-      the same repeal as R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK (Twelve
-      §6), not a second row. supersedes should point at the Pack Twelve §4
-      rule ID once Phase 1 reaches Pack Twelve; backfill before Phase 1
-      closes.
+      the same repeal as R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK, not a
+      second row. Backfilled: this row is a demotion of
+      R12-4-VOICE_DISCIPLINE (Pack Twelve §4) from a stricter clause to "may
+      differ," not a full strike, so no supersedes link is set — the amends
+      locus above already carries the §4 cross-reference.
 
   - id: R15-4-THIRTEEN_HAX_STRUCK
     pack: Pack Fifteen

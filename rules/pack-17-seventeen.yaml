@@ -87,10 +87,10 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "40"
     notes: >-
-      The five-line predecessor format is not identified by pack/section
-      anywhere in this pack's text, so no supersedes link is set. If a
-      specific earlier-pack definition of the five-line card surfaces during
-      Phase 1/2, backfill supersedes then.
+      Backfilled: the five-line predecessor is R12-3-CARD_PLUS_CHAIN (Pack
+      Twelve §3). No supersedes link is set since that row also carries
+      Pack Twelve's still-relevant Design Chain restoration and isn't fully
+      dead, only its card-format portion is replaced here.
 
   - id: R17-3-COST_DERIVED
     pack: Pack Seventeen

@@ -1,0 +1,756 @@
+# Pack Eight: "Status: Originated, pending Isaac's ratification" (source
+# line 5); Ratification Ledger reiterates "Nothing below is canon until
+# Isaac rules." No section marked confirmed, so every row is status:
+# proposed. Section numbers use dotted form in the source (1.1, 2.3, ...);
+# the schema's id pattern has no room for a dot, so id tokens drop it
+# (R8-11-..., R8-23-...) while the human "section" field keeps "1.1" etc.
+pack: Pack Eight
+pack_number: 8
+source_file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+ratified: null
+rules:
+
+  - id: R8-11-SHEET_EXPLAINS
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.1"
+    title: The sheet explains; the page never does
+    status: proposed
+    kind: mandate
+    summary: >-
+      A character sheet, codex entry or technique writeup states the
+      literal operation in plain functional language, with no atmosphere or
+      withholding, so a reader can adjudicate a fight from the sheet alone.
+    verbatim: >-
+      The sheet explains. The page never does. A character sheet, codex
+      entry or technique writeup states the literal operation: what the
+      ability acts on, by what process, and what result it produces. Plain
+      functional language. No atmosphere, no withholding, no rendering the
+      mechanism as sensation. A reader must be able to adjudicate a fight
+      from the sheet alone.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§1.1"
+        operation: adds
+    supersedes: []
+    applies_to: [character-sheet, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "16-18"
+    notes: null
+
+  - id: R8-11-PROSE_RETAINS_PACK7
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.1"
+    title: Prose keeps every Pack Seven restriction without exception
+    status: proposed
+    kind: ban
+    summary: >-
+      No sentence in a scene explains why a working produced its effect, no
+      metaphysical quantities appear on the page, and the sheet's full
+      mechanism appears in a scene only as body, room, target and cost.
+    verbatim: >-
+      Prose retains every Pack Seven restriction without exception. No
+      sentence in a scene explains why a working produced its effect. No
+      metaphysical quantities on the page. The mechanism written in full on
+      the sheet appears in a scene only as body, room, target and cost.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, prose-law, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "20"
+    notes: >-
+      Stale as of Pack Twelve §1's later live repeal of the underlying Pack
+      Seven ban, but this whole row is status:proposed (Pack Eight was
+      never ratified), so no live conflict is created.
+
+  - id: R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.2"
+    title: The operational account moves from workbook to sheet
+    status: proposed
+    kind: consequential_edit
+    summary: >-
+      Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter
+      and everything else stays workbook is amended: the Design Chain
+      remains workbook, but the operational account of how an ability
+      functions becomes sheet content.
+    verbatim: >-
+      The Pack Seven ruling that the page gets Effect / Cost / Limit /
+      Counter and everything else is workbook and never published is
+      amended. The Design Chain remains workbook. The operational account
+      of how an ability functions is now sheet content, not workbook
+      content.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: demotes
+    supersedes: []
+    applies_to: [character-sheet, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "24"
+    notes: >-
+      "The Design Chain remains workbook" is stale as of Pack Twelve §3's
+      live restoration of the Design Chain to full prose-legal status
+      (R12-3-DESIGN_CHAIN_RETURNS), but this row is status:proposed, so no
+      live conflict.
+
+  - id: R8-12-NAMING_EQUALS_PHENOMENON_STRUCK
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.2"
+    title: "\"Ability naming equals the phenomenon itself\" repealed"
+    status: proposed
+    kind: repeal
+    summary: >-
+      The Ability Guide line "ability naming equals the phenomenon itself,
+      Ruin is Ruin" is repealed by this pack's Section Two.
+    verbatim: >-
+      The Ability Guide line "ability naming equals the phenomenon itself,
+      Ruin is Ruin" is repealed by Section Two below.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "26"
+    notes: null
+
+  - id: R8-13-ENTRY_STRUCTURE
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.3"
+    title: The ten-part entry structure, in order
+    status: proposed
+    kind: definition
+    summary: >-
+      An entry runs, in order: true name and gloss, classification block,
+      release (where carried), description (2-6 sentences), techniques
+      (1-3 functional lines each), cost, limit, counter (mandatory on
+      Signature), what nobody knows, and Codex (one line at the foot).
+    verbatim: >-
+      True name and gloss. Script where the register has one,
+      romanisation, literal English meaning in parentheses, then the
+      by-name if the art has earned one.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "entry structure"
+        operation: adds
+    supersedes: []
+    applies_to: [character-sheet, magic-design, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "30-39"
+    notes: >-
+      This is an "entry" (an art, potentially with several named
+      techniques under it), a different granularity from Pack
+      Twelve/Seventeen's per-technique summary card; possible overlap not
+      reconciled by any pack's own text, so no supersedes/amends
+      contradiction is asserted either way.
+
+  - id: R8-14-CLASSIFICATION_BLOCK
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.4"
+    title: The eight-field classification block, nothing invented
+    status: proposed
+    kind: definition
+    summary: >-
+      Class (Offensive/Defensive/Supplementary), Family (one of the Eight),
+      Wellspring (from the Sixty, primary first), Method (one of eight
+      named methods), Physics Domain (one of the Nine), Grade (fixed Tier
+      Grade scale), Range (real units), and Medium — all drawn from live
+      WOTR taxonomy, nothing invented.
+    verbatim: >-
+      Eight fields, all drawn from live WOTR taxonomy. Nothing invented.
+      Class · Family · Wellspring · Method · Physics Domain · Grade · Range
+      · Medium
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "classification block"
+        operation: adds
+    supersedes: []
+    applies_to: [character-sheet, codex, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "43-45"
+    notes: null
+
+  - id: R8-15-DESCRIPTION_STYLE
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.5"
+    title: The description is written as a manual entry
+    status: proposed
+    kind: mandate
+    summary: >-
+      The description is written the way a man teaching it would write it:
+      flat operational prose, no mood, no cadence work, no elegiac
+      register — that belongs in scenes.
+    verbatim: >-
+      Written the way a man who has to teach it would write it. How the
+      resource divides, what the working acts on, what the target
+      experiences, what breaks it, what happens when it fails. Flat
+      operational prose. No mood, no cadence work, no elegiac register.
+      That belongs in scenes.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "§1.5"
+        operation: adds
+    supersedes: []
+    applies_to: [character-sheet, register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "58"
+    notes: null
+
+  - id: R8-16-PHYSICAL_NUMBERS_ONLY
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.6"
+    title: Drawback numbers are physical, never metaphysical
+    status: proposed
+    kind: ban
+    summary: >-
+      Drawback numbers are physical (metres, seconds, kilograms, degrees,
+      counts, durations); never a number attached to Essence, Coherence,
+      resonance or Wellspring output — Pack Seven's metaphysical-units ban
+      holds on the sheet as firmly as on the page.
+    verbatim: >-
+      Numbers where the number is physical: metres, seconds, kilograms,
+      degrees, counts, durations. Never a number attached to Essence,
+      Coherence, resonance or Wellspring output. Pack Seven's ban on
+      metaphysical units holds on the sheet as firmly as on the page.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Seven.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [character-sheet, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "62"
+    notes: null
+
+  - id: R8-16-OVERUSE_STRAINS_FAILURE
+    pack: Pack Eight
+    pack_number: 8
+    section: "1.6"
+    title: "\"Overuse strains him\" always fails"
+    status: proposed
+    kind: ban
+    summary: >-
+      "Overuse strains him" remains a failing drawback and always was.
+    verbatim: >-
+      "Overuse strains him" remains a failure and always was.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "64"
+    notes: null
+
+  - id: R8-21-FIRST_DRAFT_REPEALED
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.1"
+    title: This pack's own first draft of Section Two is repealed
+    status: proposed
+    kind: repeal
+    summary: >-
+      Pack Eight Section Two's first draft, which set the naming language
+      by filing body, is repealed by the version in this file.
+    verbatim: >-
+      Repeals Pack Eight Section Two's first draft, which set the language
+      by filing body.
+    amends: null
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "72"
+    notes: >-
+      The repealed first draft is not a separate file in sources/ — only
+      this final version exists in the corpus — so no supersedes id target
+      exists to point at.
+
+  - id: R8-21-NAME_IN_OWN_LANGUAGE
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.1"
+    title: A true name belongs to the practitioner's own language
+    status: proposed
+    kind: mandate
+    summary: >-
+      The true name is in the practitioner's own language; neither the
+      Accord, the Guild, nor the Family has a claim on it, and a register's
+      Latin gloss never appears in the practitioner's own mouth.
+    verbatim: >-
+      The true name is in the practitioner's own language. The Accord has
+      no claim on it, and neither does the Guild or the Family. A Ketsuen
+      swordsman inducted into the Accord does not rename his house's work
+      in Latin because a clerk in Stannvaard needs it alphabetised.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "74"
+    notes: null
+
+  - id: R8-21-REGISTER_TABLE
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.1"
+    title: Naming register by practitioner origin
+    status: proposed
+    kind: definition
+    summary: >-
+      Where a request specifies a register, that register governs and the
+      name is built in it first: Concord/Accord/Guild/Sanctum Lux is
+      Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses
+      use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse
+      compound; Eresse is Latinate with elvish morphology; Parunic and
+      older strata use Parun etymology.
+    verbatim: >-
+      Where a request specifies a register, that register governs, and the
+      name is built in it before anything else about the ability is
+      decided. Japonic ask, Japonic name. Korean ask, Korean name.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "76"
+    notes: null
+
+  - id: R8-21-REGISTER_NOT_ETHNICITY
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.1"
+    title: Naming registers are not ethnicity
+    status: proposed
+    kind: definition
+    summary: >-
+      A Japonic-sounding name is evidence about a house's linguistic
+      descent and nothing else; this ruling is unchanged from elsewhere.
+    verbatim: >-
+      Naming registers are not ethnicity. This ruling is unchanged. A
+      Japonic-sounding name is evidence about a house's linguistic
+      descent, nothing else.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "88"
+    notes: >-
+      "This ruling is unchanged" implies an existing rule stated elsewhere
+      in the base guides, not newly introduced here; no source in this
+      corpus states it first, so no supersedes/amends target is asserted.
+
+  - id: R8-22-LITERAL_GLOSS
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.2"
+    title: The gloss is flat and literal, never poetic
+    status: proposed
+    kind: mandate
+    summary: >-
+      The gloss is the true name's plain English meaning, flat and
+      literal, no poetry or interpretation; if the literal meaning is
+      dull, the name is wrong and gets rebuilt rather than dressed up.
+    verbatim: >-
+      True name, then plain English meaning in parentheses. Kagemusha
+      reads Shadow Warrior. It does not read the technique of hidden
+      purpose. Flat, literal, no poetry, no interpretation. If the literal
+      meaning is dull, the name is wrong and gets rebuilt, and the gloss is
+      never used to dress it up.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "92"
+    notes: null
+
+  - id: R8-22-BY_NAME_POETRY
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.2"
+    title: The by-name is where poetry is allowed to live
+    status: proposed
+    kind: definition
+    summary: >-
+      The by-name, where an art has one, sits after the gloss and is what
+      other characters call it — the one place poetry is allowed.
+    verbatim: >-
+      The by-name, where an art has one, sits after the gloss and is what
+      other characters call it. That is where the poetry is allowed to
+      live.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "94"
+    notes: null
+
+  - id: R8-23-NAME_HIERARCHY
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.3"
+    title: Art carries the character; techniques do not
+    status: proposed
+    kind: mandate
+    summary: >-
+      Naming runs art, then technique, then form; the art carries the
+      character and is spoken once at release then assumed, while
+      individual techniques are spoken every time they are used.
+    verbatim: >-
+      Art, then technique, then form. The art carries the character.
+      Individual techniques may not. An art is spoken once at release and
+      thereafter assumed. Techniques are spoken every time they are used.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "98"
+    notes: null
+
+  - id: R8-24-RELEASE_MECHANIC
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.4"
+    title: The release, an optional imperative call
+    status: proposed
+    kind: definition
+    summary: >-
+      An art with a true name may carry a release call (imperative verb
+      plus name); it is never required for the art to function, costs a
+      beat for a measurable output increase, and is spoken indistinguishably
+      by a man in real danger or a man showing off.
+    verbatim: >-
+      An art with a true name may carry a call: an imperative verb plus
+      the name. - The release is never required for the art to function. -
+      Speaking it costs a beat and buys a measurable increase in output. -
+      The man in real danger says it and the man showing off says it, and
+      the difference is not visible from outside.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "102-106"
+    notes: null
+
+  - id: R8-25-ESCALATION_SUFFIX
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.5"
+    title: New names are for new arts only
+    status: proposed
+    kind: mandate
+    summary: >-
+      A stronger expression of a known art takes a modifier on the
+      existing true name; new names are reserved for genuinely new arts.
+    verbatim: >-
+      A stronger expression of a known art takes a modifier on the
+      existing true name. New names are for new arts only.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "110"
+    notes: null
+
+  - id: R8-26-NAME_NEVER_NARRATED
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.6"
+    title: A true name is spoken, never narrated
+    status: proposed
+    kind: ban
+    summary: >-
+      The true name is spoken by a character; it never appears in
+      narration.
+    verbatim: >-
+      The true name is spoken by a character. It never appears in
+      narration.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "116"
+    notes: null
+
+  - id: R8-26-GLOSS_NEVER_IN_PROSE
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.6"
+    title: The gloss never appears in prose
+    status: proposed
+    kind: ban
+    summary: >-
+      The gloss never appears in prose, with no translation apposition; the
+      reader gets it from the sheet or from another character explaining
+      it in dialogue for their own reason.
+    verbatim: >-
+      The gloss never appears in prose. No translation apposition. No he
+      spoke the words that meant. The reader takes the gloss from the
+      sheet, or from another character explaining it in dialogue for a
+      reason of their own.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, prose-law, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "117"
+    notes: null
+
+  - id: R8-26-NO_SELF_TRANSLATION
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.6"
+    title: Nobody translates their own technique aloud
+    status: proposed
+    kind: ban
+    summary: >-
+      Nobody translates their own technique's name aloud, ever.
+    verbatim: >-
+      Nobody translates their own technique aloud. Ever.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "118"
+    notes: null
+
+  - id: R8-26-ONE_RELEASE_PER_SCENE
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.6"
+    title: One release per scene at most
+    status: proposed
+    kind: budget
+    summary: >-
+      One release per scene at most; two men releasing in the same scene
+      is an event, not texture.
+    verbatim: >-
+      One release per scene at most. Two men releasing in the same scene
+      is an event, not texture.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "119"
+    notes: null
+
+  - id: R8-26-GLOSS_DEPENDENCE_FAILS
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.6"
+    title: A working that needs its meaning glossed has failed
+    status: proposed
+    kind: ban
+    summary: >-
+      A working whose meaning must be glossed for the scene to land is a
+      working that failed; fix the working, not the gloss.
+    verbatim: >-
+      A working whose meaning must be glossed for the scene to land is a
+      working that failed. Fix the working.
+    amends: null
+    supersedes: []
+    applies_to: [naming, prose-law, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "120"
+    notes: null
+
+  - id: R8-27-STANDING_TASK
+    pack: Pack Eight
+    pack_number: 8
+    section: "2.7"
+    title: Standing task, a naming pass per culture
+    status: proposed
+    kind: procedure
+    summary: >-
+      A naming pass runs per culture; existing techniques already
+      established in prose are flagged, not renamed, cashing the
+      release-and-true-name mechanic pitched since the fifth edition and
+      requiring rewritten first displays across the major cast.
+    verbatim: >-
+      Naming pass per culture. Existing techniques already established in
+      prose are flagged, not renamed. This cashes the release-and-true-name
+      mechanic that has been sitting pitched on the docket since the fifth
+      edition, and it means rewritten first displays across the major
+      cast.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, session-protocol]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "124"
+    notes: null
+
+  - id: R8-3-WORKED_EXAMPLES_PENDING
+    pack: Pack Eight
+    pack_number: 8
+    section: "3"
+    title: AUCTORITAS and KŌMYAKU, worked entries pending ratification
+    status: proposed
+    kind: definition
+    summary: >-
+      Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in
+      Japanese register) demonstrate the new entry format; per the
+      Ratification Ledger, nothing in them is canon until Isaac rules,
+      and the Division's "four hundred and six" catalogued errata count is
+      explicitly self-flagged as an invented, unsized figure.
+    verbatim: >-
+      Two entries in the format, in different registers, to fix the shape.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, naming, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "130"
+    notes: >-
+      Full technique flavour text for AUCTORITAS and KŌMYAKU is not
+      extracted row by row — worked-example content per BRIEF, not
+      enforceable rule text.
+
+  - id: R8-4-RETROACTIVE_TASKS
+    pack: Pack Eight
+    pack_number: 8
+    section: "4"
+    title: The retroactive work, five tasks folded into the cost audit
+    status: proposed
+    kind: procedure
+    summary: >-
+      Folded into the cost audit: re-cut every existing technique entry
+      into the §1.3 structure; add a classification block to every entry
+      from live taxonomy only, flagging any entry with no legal Codex
+      combination; run the §2.1 naming pass per culture, flagging
+      prose-established names rather than renaming; run a drawback pass
+      checking every Cost line against the overuse-strains-him test and the
+      metaphysical-units ban; write Counter lines onto every Signature
+      technique that lacks one.
+    verbatim: >-
+      Folds into the cost audit instead of running as a separate pass.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [character-sheet, naming, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
+      lines: "189-195"
+    notes: >-
+      "Priority target: Niran" (source line 197) is a work-prioritisation
+      diagnostic on one character's kit, not extracted — consistent with
+      skipping other packs' retrospective priority lists.

@@ -1,0 +1,517 @@
+# Pack Sixteen: Status: originated, pending Isaac's ratification (source
+# lines 5-6). No section marked confirmed, so every row is status: proposed.
+pack: Pack Sixteen
+pack_number: 16
+source_file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+ratified: null
+rules:
+
+  - id: R16-1-CONSEQUENCE
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§1"
+    title: Technical register belongs in the finished narration, converted
+    status: proposed
+    kind: mandate
+    summary: >-
+      The technical and metaphysical register belongs in the finished
+      narration itself, in Isaac's vocabulary, converted rather than removed
+      or exported to notes.
+    verbatim: >-
+      Pack Sixteen states the consequence for rough-draft work: the
+      technical and metaphysical register belongs in the finished
+      narration, in Isaac's vocabulary, converted rather than removed.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "19"
+    notes: null
+
+  - id: R16-2-FOUR_ROUTES
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§2"
+    title: Every rough term is routed to one of four destinations
+    status: proposed
+    kind: procedure
+    summary: >-
+      Every content-bearing noun and verb in Isaac's rough prose is routed
+      to a WOTR system term, a real scientific/technical term, the compound
+      of both, or kept verbatim as a defined WOTR term; nothing is silently
+      dropped.
+    verbatim: >-
+      Conversion, not substitution. Every content-bearing noun and verb in
+      Isaac's rough is routed to one of four destinations. Nothing is
+      silently dropped.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "25-32"
+    notes: null
+
+  - id: R16-2-DELETION_REQUIRES_NOTE
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§2"
+    title: A dropped term must be logged in the author notes
+    status: proposed
+    kind: procedure
+    summary: >-
+      If a rough-draft term does not survive into the finished prose in one
+      of the four routed forms, the author notes must say which term was
+      dropped and why, in one line, or the pass has failed.
+    verbatim: >-
+      Deletion requires a note. If a term from the rough does not appear in
+      the finished prose in one of the four forms above, the author notes
+      say which term was dropped and why, in one line. A rough draft handed
+      back with vocabulary quietly missing is a failed pass.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "34"
+    notes: null
+
+  - id: R16-3-COMPOUND_SENTENCE
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§3"
+    title: The compound sentence, mechanism and system term in one breath
+    status: proposed
+    kind: definition
+    summary: >-
+      The signature WOTR technical sentence names the real phenomenon, gives
+      the system term as its name/boundary/address, and states the physical
+      consequence, in one sentence or short group; neither element is a
+      gloss on the other.
+    verbatim: >-
+      The signature WOTR technical sentence carries the real mechanism and
+      the system term in the same breath and attaches the physical
+      consequence to both. Three elements, one sentence or one short group:
+      [the real phenomenon, correctly named] + [the system term as its
+      name, its boundary condition, or its address] + [what the body or the
+      room did]. Neither element is a gloss on the other. The science is
+      not a metaphor for the magic and the magic is not decoration on the
+      science. They are the same event described at two strata, per Pack
+      Thirteen §2.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "40-44"
+    notes: null
+
+  - id: R16-4-EXTEND_LEXICON
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§4"
+    title: The conversion lexicon is extended every session
+    status: proposed
+    kind: procedure
+    summary: >-
+      The rough-to-converted term lexicon is built from Isaac's actual
+      submissions and extended every session; anything converted in play
+      must be entered in it or it does not exist as a settled conversion.
+    verbatim: >-
+      Built from Isaac's actual submissions across the Kharven sequence.
+      Extend it every session; anything converted in play is entered here or
+      it does not exist.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "conversion lexicon"
+        operation: adds
+    supersedes: []
+    applies_to: [register, session-protocol]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "56"
+    notes: >-
+      The lexicon table itself (15 rough-to-converted entries as of this
+      pack) is reference data, not individually extracted rules — treated
+      like Pack Fifteen's word bank, not a set of rationed rules.
+
+  - id: R16-5-REGISTER_IN_NARRATION
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§5"
+    title: Technical register is available to third-person narration
+    status: proposed
+    kind: mandate
+    summary: >-
+      The Technical Register is available to third-person narration for
+      anything a person chooses to do; it is not reserved for italic
+      thought.
+    verbatim: >-
+      In the narration. Pack Twelve §2 makes the Technical Register
+      available to third-person narration for anything a person chooses to
+      do. Natalie stops reserving it for italic thought.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "80"
+    notes: null
+
+  - id: R16-5-VOICES_VS_VOCABULARY
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§5"
+    title: The four explaining voices carry argument, not vocabulary
+    status: proposed
+    kind: definition
+    summary: >-
+      The four explaining voices remain the delivery system for causal
+      explanation only; narration itself may carry technical terms without
+      needing a voice to speak them.
+    verbatim: >-
+      The four explaining voices (Pack Twelve §3, maximum two per
+      engagement) remain the delivery system for causal explanation. They
+      are not the delivery system for vocabulary. Narration may carry the
+      terms; only the argument about why something worked needs a mouth.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "82"
+    notes: null
+
+  - id: R16-5-NOT_IN_NOTES
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§5"
+    title: A mechanism confined to the notes is a failed pass
+    status: proposed
+    kind: ban
+    summary: >-
+      If a mechanism term appears in the author notes but not in the prose,
+      the pass failed and the note is evidence of that failure.
+    verbatim: >-
+      Not in the author notes. The notes record originated material,
+      conflicts, the Stat Ledger, and the audit. If a mechanism appears in
+      the notes and not in the prose, the pass failed and the note is
+      evidence of the failure.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "84"
+    notes: null
+
+  - id: R16-6-COINAGE_HANDLING
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§6"
+    title: Isaac's coinages are converted and docketed, never replaced
+    status: proposed
+    kind: procedure
+    summary: >-
+      A term in Isaac's rough with no canon equivalent is a coinage: it is
+      converted into a defined WOTR term, kept in the prose, given a
+      one-line definition in the author notes, and entered on the Open
+      Rulings Docket for ratification, never silently replaced with a
+      plainer word.
+    verbatim: >-
+      A term in Isaac's rough that has no canon equivalent is a coinage, not
+      a typo and not an approximation. It is converted into a defined WOTR
+      term, kept in the prose, given a one-line definition in the author
+      notes, and entered on the Open Rulings Docket for ratification. It is
+      never silently replaced with a plainer word.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [register, prose-law, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "90-92"
+    notes: null
+
+  - id: R16-6-SPELLING_VS_VOCABULARY
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§6"
+    title: Spelling is corrected silently; vocabulary is not
+    status: proposed
+    kind: ban
+    summary: >-
+      Spelling and grammar in Isaac's rough are corrected without comment;
+      vocabulary is never silently corrected.
+    verbatim: >-
+      Spelling and grammar in the rough are corrected without comment.
+      Vocabulary is not.
+    amends: null
+    supersedes: []
+    applies_to: [register, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "94"
+    notes: null
+
+  - id: R16-6-COINAGE_COLLISION
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§6"
+    title: A coinage colliding with canon is surfaced, not resolved silently
+    status: proposed
+    kind: procedure
+    summary: >-
+      Where a coinage collides with existing canon, the collision is
+      surfaced and both readings are stated, per the standing rule against
+      silent resolution.
+    verbatim: >-
+      Where a coinage collides with existing canon, the collision is
+      surfaced and both readings are stated, per the standing rule against
+      silent resolution.
+    amends: null
+    supersedes: []
+    applies_to: [register, naming, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "96"
+    notes: null
+
+  - id: R16-7-NOT_CONVERTED
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§7"
+    title: What conversion does not touch
+    status: proposed
+    kind: definition
+    summary: >-
+      Conversion applies to mechanism, phenomenon, technical read, injury
+      and the physics of an exchange, but never to the body's plain
+      physicality, grief and the elegiac beat, dialogue (outside a
+      practitioner's diagnostic voice or a document), or the ignorance
+      quota.
+    verbatim: >-
+      The conversion applies to mechanism, phenomenon, technical read,
+      injury, and the physics of an exchange. It does not apply to: - The
+      body. Chest, hands, gut. Story first (Master Style Directive) survives
+      Pack Sixteen intact. - Grief and the elegiac beat. Describe the rust
+      in full and the grief in three words (Pack Six). A converted grief is
+      a failed grief. - Dialogue, except in a practitioner's diagnostic
+      voice or a document's. - The ignorance quota (Pack Six). One thing per
+      scene the POV perceives and cannot name. Conversion never rescues it.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [prose-law, register, dialogue, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "102-109"
+    notes: null
+
+  - id: R16-7-OVERCONVERSION_FAULT
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§7"
+    title: Converting everything is as much a fault as converting nothing
+    status: proposed
+    kind: ban
+    summary: >-
+      A scene that converts everything has the same fault as a scene that
+      converts nothing: it has stopped choosing.
+    verbatim: >-
+      A scene that converts everything has the same fault as a scene that
+      converts nothing: it has stopped choosing.
+    amends: null
+    supersedes: []
+    applies_to: [prose-law, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "111"
+    notes: null
+
+  - id: R16-8-CHECK30
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§8"
+    title: "Check 30 — Conversion density"
+    status: proposed
+    kind: procedure
+    summary: >-
+      A scene with a working, exchange or injury must carry at least four
+      WOTR technical-lexicon terms and at least two correctly-used real
+      scientific/anatomical terms in the narration outside italics; false
+      positives are reviewed by reading.
+    verbatim: >-
+      Check 30 — Conversion density. A scene containing a working, an
+      exchange, or an injury carries at least four terms from the WOTR
+      technical lexicon and at least two correctly-used real scientific or
+      anatomical terms, in the narration, outside italics.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 30"
+        operation: adds
+    supersedes: []
+    applies_to: [register, verification]
+    verification: ["check-30"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "119"
+    notes: null
+
+  - id: R16-8-CHECK31
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§8"
+    title: "Check 31 — Export"
+    status: proposed
+    kind: procedure
+    summary: >-
+      No mechanism term may appear in the author-notes block that does not
+      also appear in the prose body.
+    verbatim: >-
+      Check 31 — Export. No mechanism term appears in the author-notes block
+      that does not also appear in the prose body.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 31"
+        operation: adds
+    supersedes: []
+    applies_to: [register, verification, documents]
+    verification: ["check-31"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "121"
+    notes: null
+
+  - id: R16-8-CHECK32
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§8"
+    title: "Check 32 — Coinage retention"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Every distinctive term in the submitted rough must appear in the
+      output in one of the four routed forms, or be listed as dropped in the
+      notes; false positives are reviewed by reading.
+    verbatim: >-
+      Check 32 — Coinage retention. Every distinctive term in the submitted
+      rough appears in the output in one of the four routed forms, or is
+      listed as dropped in the notes.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 32"
+        operation: adds
+    supersedes: []
+    applies_to: [register, verification]
+    verification: ["check-32"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "123"
+    notes: null
+
+  - id: R16-8-CHECK33
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§8"
+    title: "Check 33 — Italic quarantine"
+    status: proposed
+    kind: procedure
+    summary: >-
+      Fewer than half of a scene's technical terms may sit inside italic
+      thought.
+    verbatim: >-
+      Check 33 — Italic quarantine. Fewer than half of a scene's technical
+      terms sit inside italic thought.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: "check 33"
+        operation: adds
+    supersedes: []
+    applies_to: [register, verification, pov]
+    verification: ["check-33"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "125"
+    notes: null
+
+  - id: R16-9-STANDING_TASK
+    pack: Pack Sixteen
+    pack_number: 16
+    section: "§9"
+    title: Standing task, fold amendments into base guides
+    status: proposed
+    kind: procedure
+    summary: >-
+      Fold Packs One through Sixteen into the base guides and retire the
+      diffs, asked once per session; precedence at sixteen packs deep is
+      past the point where it can be tracked by reading.
+    verbatim: >-
+      Fold Packs One through Sixteen into the base guides and retire the
+      diffs. Sixteen packs is past the point where precedence can be tracked
+      by reading. Ask once per session.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
+      lines: "131"
+    notes: null

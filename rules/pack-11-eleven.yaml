@@ -1,0 +1,947 @@
+# Pack Eleven: "Status: originated, pending Isaac's ruling except where
+# marked confirmed" (source line 7). SS1 opens "Confirmed by Isaac's
+# direction" (treated as covering all of SS1) and SS3 opens "Confirmed by
+# Isaac's direction: gunpowder exists..." (treated as covering SS3 EXCEPT
+# the ammunition tiers, which SS3 itself relabels "originated, pending
+# ruling"). SS2 and SS4 carry no confirmation marker and are proposed
+# throughout, including SS4's derived-from-canon material, since the pack
+# introduces it as new amendment content regardless of its narrative source.
+pack: Pack Eleven
+pack_number: 11
+source_file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+ratified: null
+rules:
+
+  - id: R11-1-NORTH_STAR_RETIRED
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§1"
+    title: The Berserk/Vinland visual North Star is retired
+    status: live
+    kind: repeal
+    summary: >-
+      The grounded Berserk/Vinland Saga visual North Star in the Visual
+      Aesthetic Guide is retired.
+    verbatim: >-
+      Confirmed by Isaac's direction. The grounded Berserk / Vinland Saga
+      visual North Star in the Visual Aesthetic Guide is retired. It was a
+      mud-and-mail costume on a world that files paperwork about magic.
+    amends:
+      - guide: "WOTR_Visual_Aesthetic_Guide.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "14"
+    notes: null
+
+  - id: R11-1-REPLACEMENT_REGISTER
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§1"
+    title: The Draw-Age visual register
+    status: live
+    kind: definition
+    summary: >-
+      The new visual register is an imperial age built on a resource
+      nobody can see, administered by a measuring guild, defended by men in
+      proofed plate carrying both sword and firearm.
+    verbatim: >-
+      An imperial age built on a resource nobody can see, administered by a
+      guild that measures it, defended by men in proofed plate who carry
+      both a sword and a firearm because each answers a different threat.
+    amends:
+      - guide: "WOTR_Visual_Aesthetic_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "18"
+    notes: null
+
+  - id: R11-1-REFERENCE_TRIANGLE
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§1"
+    title: Reference triangle and the widened power-display register
+    status: live
+    kind: definition
+    summary: >-
+      Warhammer 40,000 for bureaucratic scale, late-Victorian industrial
+      imperialism for material texture and class geography, and manhwa for
+      visual power-display grammar — the last now widened from Pack Nine's
+      four beat types to the general visual register. References are not to
+      be imitated directly.
+    verbatim: >-
+      Reference triangle, not to be imitated: Warhammer 40,000 for the
+      scale of the bureaucracy and the sense that the machinery outlived
+      its explanation. Late-Victorian industrial imperialism for the
+      material texture, class geography, and the survey-and-annex habit.
+      Manhwa for the visual grammar of power display, per Pack Nine, now
+      widened from four beat types to the general visual register.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Nine.md"
+        locus: "power-display module"
+        operation: extends
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "20"
+    notes: null
+
+  - id: R11-1-TONAL_SPINE_UNCHANGED
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§1"
+    title: Pack Eleven widens the look, not the sound
+    status: live
+    kind: definition
+    summary: >-
+      Pack Five stands in full; the Western Register still governs
+      characterisation, humour and narration authority. Pack Eleven widens
+      what the page may look like, not what it may sound like.
+    verbatim: >-
+      Tonal spine unchanged. Pack Five stands in full. The Western Register
+      governs characterisation, humour, and narration authority. Pack
+      Eleven widens what the page may look like. It does not reopen what
+      the page may sound like. Temür still does not make jokes.
+    amends: null
+    supersedes: []
+    applies_to: [register, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "22"
+    notes: >-
+      Confirms Pack Five's non-register-by-culture provisions (dramatic
+      irony, elegiac mode, humour, narration authority) as still governing;
+      consistent with R15-4-PACK_FIVE_SCOPE, no conflict.
+
+  - id: R11-2-HYDROLOGY_MODEL
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: The industrial age is hydrology, not combustion
+    status: proposed
+    kind: definition
+    summary: >-
+      The technological age runs on Wellsprings as standing currents that
+      pool where substrate/competing-currents/time allow, per The Mechanism
+      of the Sixty; nobody built an engine, they sank a well.
+    verbatim: >-
+      So the industrial age is not combustion. It is hydrology. Nobody
+      built an engine. They sank a well, put a town around it, and grew a
+      guild that decides who may sink another.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "32"
+    notes: null
+
+  - id: R11-2-CLASS_GEOGRAPHY
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Class geography follows draw distance from a site
+    status: proposed
+    kind: definition
+    summary: >-
+      A city's street plan follows where the current runs shallowest; the
+      rich live over the pool, the poor live at the thin margin where lamps
+      gutter through the Thin Weeks.
+    verbatim: >-
+      Cities sit on sites, not on rivers. A seat's street plan is dictated
+      by where the current runs shallowest. Draw falls off with distance
+      from the site. The rich live over the pool. The poor live at the
+      margin where output is thin and the lamps gutter through the Thin
+      Weeks.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "36"
+    notes: null
+
+  - id: R11-2-APPARATUS_INHERITS_PHYSICS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Apparatus inherits its Family's failure modes
+    status: proposed
+    kind: mandate
+    summary: >-
+      A machine is a conduit retuned to a current (phase-locking, not
+      restricted to souls); every apparatus inherits its Family's favoured
+      condition, suppressive condition, and characteristic pathology off
+      the Environmental Coupling table.
+    verbatim: >-
+      Apparatus harmonizes the way a practitioner does. Phase-locking is
+      the canon mechanism and it is not restricted to souls. A machine is a
+      conduit retuned to a current. Therefore every apparatus inherits its
+      Family's favoured condition, suppressive condition, and
+      characteristic pathology straight off the Environmental Coupling
+      table.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [items, magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "38"
+    notes: null
+
+  - id: R11-2-DRAWDOWN_MOTIVE
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Drawdown is the imperial motive
+    status: proposed
+    kind: definition
+    summary: >-
+      Old World veins are worked; New World veins are pristine; colonial
+      expansion has a hydrological cause, wars fought over water tables no
+      eye can see.
+    verbatim: >-
+      Drawdown is the imperial motive. Old World veins are worked. The New
+      World's are pristine at densities the Old World has not seen since
+      the Antediluvian Calendar, because nobody has been drawing. Colonial
+      expansion with a hydrological cause.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "40"
+    notes: null
+
+  - id: R11-2-SILHOUETTE
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: The Draw-Age silhouette, sensory texture
+    status: proposed
+    kind: definition
+    summary: >-
+      No smokestacks or soot; standpipes, gauge-housings, sealed conduit,
+      brass and slate and Guild seals, a district's low draw-hum, and the
+      politically loaded silence when a district's draw is cut.
+    verbatim: >-
+      Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and
+      gauge-housings, sealed conduit run along building faces like
+      plumbing, brass and slate and Guild seals, the constant low draw-hum
+      of a district that is drinking, and the sudden silence when a
+      district's draw is cut. That silence is a political act and everyone
+      in earshot knows it.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, standing-inventory]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "42"
+    notes: null
+
+  - id: R11-2-VOCABULARY_TIERS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Common-tongue vs Guild-register draw vocabulary
+    status: proposed
+    kind: mandate
+    summary: >-
+      "The draw, the hum, a standpipe, a housing, the meter, cut off" are
+      common-tongue and prose-legal under Pack Nine's craft-register
+      carve-out; "concentration, density, coupling, eta" are Guild register
+      and document-only.
+    verbatim: >-
+      Vocabulary, common tongue, prose-legal under Pack Nine's craft-register
+      carve-out: the draw, the hum, a standpipe, a housing, the meter, cut
+      off. Guild register, document-only: concentration, density, coupling,
+      eta.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Nine.md"
+        locus: "craft-register carve-out"
+        operation: extends
+    supersedes: []
+    applies_to: [register, dialogue, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "44"
+    notes: null
+
+  - id: R11-2-MEASUREWRIGHTS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: The Measurewrights maintain the Draw without explaining it
+    status: proposed
+    kind: definition
+    summary: >-
+      The Guild of Measurewrights (Hexagonal Oath, in concurrence with
+      Research & Archives) wrote the address down but does not explain the
+      mechanism.
+    verbatim: >-
+      The Measurewrights are the order that maintains it. Guild of
+      Measurewrights, under the Hexagonal Oath, already canon, already in
+      concurrence with Research & Archives. They wrote the address down.
+      They do not explain it, and Pack Seven means they never will.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "46"
+    notes: >-
+      "Pack Seven means they never will" cites a now-repealed pack
+      (R12-1-PACK_SEVEN_REPEALED); the practical outcome likely survives
+      anyway under Pack Twelve S6's Mystic Register (rules stated as rules,
+      unexplained — the Measurewrights read as a paradigm Mystic Register
+      voice), but the citation itself is stale. Not raised as a CONFLICTS.md
+      row since this whole row is status:proposed, not live, so nothing
+      live actually contradicts.
+
+  - id: R11-A
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Does a worked site recharge
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether a worked Wellspring site recharges (managed, corrupt empire)
+      or depletes permanently (predatory, doomed empire).
+    verbatim: >-
+      Does a worked site recharge? Permanent depletion makes the empire
+      predatory and doomed. Recharge makes it managed and corrupt. Both are
+      good books. Isaac's call.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "49"
+    notes: null
+
+  - id: R11-B
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: Can a commoner buy draw
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether draw is a metered utility a commoner can buy or a
+      guild-licence-only good, deciding whether the working class has
+      lamps.
+    verbatim: >-
+      Can a commoner buy draw? Metered utility versus guild-licence-only.
+      Decides whether the setting has a working class with lamps or a
+      working class without them.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "50"
+    notes: null
+
+  - id: R11-C
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§2"
+    title: The technology ceiling
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Which of rail, telegraph, print and photography exist, and which have
+      Draw counterparts instead of mechanical ones.
+    verbatim: >-
+      Tech ceiling. Which of rail, telegraph, print, photography exist, and
+      which have Draw counterparts instead of mechanical ones.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "51"
+    notes: null
+
+  - id: R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: Gunpowder, magic and armour all coexist
+    status: live
+    kind: definition
+    summary: >-
+      Gunpowder exists, magical weapons exist, and armour is not dead.
+    verbatim: >-
+      Confirmed by Isaac's direction: gunpowder exists. Magical weapons
+      exist. Armour is not dead.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, combat, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "57"
+    notes: null
+
+  - id: R11-3-PROOF_MARKS_CANON
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: Proof-marks are canon texture
+    status: live
+    kind: mandate
+    summary: >-
+      A dented cuirass is certified rather than damaged; soldiers read a
+      proof-dent the way Kharven reads a forearm grip, and a shallow
+      proof-dent signals a light charge and what that means about the man
+      wearing it.
+    verbatim: >-
+      Proof-marks are canon texture from this pack forward. A dented
+      cuirass is certified rather than damaged, and a soldier reads another
+      soldier's dent the way Kharven reads a forearm grip. Armour whose
+      proof-dent is shallow was proofed with a light charge, and everyone
+      knows what that means about the man wearing it.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [items, standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "63"
+    notes: null
+
+  - id: R11-3-ARMOUR_STOPS_SHRINKING
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: Why plate stops shrinking in WOTR
+    status: live
+    kind: definition
+    summary: >-
+      Shot is chemically cheap and does not care about a soul; a working is
+      not shot, so mass and material still buy a fraction of a second
+      against a Wellspring-carried strike, which is why armour retreats to
+      the cuirass-and-helm silhouette and stops there.
+    verbatim: >-
+      Shot is chemically cheap and does not care what a man's soul is
+      doing. A working is not shot. Against a Wellspring-carried strike,
+      mass and material still buy the fraction of a second in which a man
+      can be somewhere else. So armour retreats to the historical
+      cuirass-and-helm silhouette and then stops there, because the last
+      article you would take off is the one standing between your chest
+      and something that was not there a moment ago.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [items, worldbuilding, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "65"
+    notes: null
+
+  - id: R11-3-DUAL_ANSWER_SILHOUETTE
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: Every armed man carries sword and firearm
+    status: live
+    kind: definition
+    summary: >-
+      The silhouette is coat, breast, helm, sword and firearm; every armed
+      man carries at least two answers because there are at least two
+      questions, which is why the Combat Craft Guide survives intact —
+      Liechtenauer and Fiore still govern inside twenty feet.
+    verbatim: >-
+      Result: the silhouette is coat, breast, helm, sword, and firearm.
+      Every armed man carries at least two answers because there are at
+      least two questions. This is why the Combat Craft Guide survives
+      intact. Liechtenauer and Fiore still govern. Inside twenty feet a
+      discharged firearm is a club and the sword is the thing that
+      finishes it.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: extends
+    supersedes: []
+    applies_to: [combat, items, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "67"
+    notes: null
+
+  - id: R11-3-BALLISTICS_RULING
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: Powder weapons open an engagement, they do not decide one
+    status: live
+    kind: mandate
+    summary: >-
+      Powder weapons are slow, loud and honest; a practitioner above
+      roughly the middle Stages is not reliably killed by common shot,
+      which is why the enchanted round exists at the cost it does.
+    verbatim: >-
+      Ballistics ruling. Powder weapons are slow, loud, and honest. They
+      open an engagement, they do not decide one. A practitioner above
+      roughly the middle Stages is not reliably killed by common shot,
+      which is precisely why the enchanted round exists and precisely why
+      it costs what a family earns in a season.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, adjudication, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "69"
+    notes: null
+
+  - id: R11-3-AMMO_TIERS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: The three ammunition tiers
+    status: proposed
+    kind: definition
+    summary: >-
+      Common shot (cheap, kills men, annoys practitioners), proofed shot
+      (Materia-coupled, Guild-stamped, defeats proofed plate but not a
+      Domain), and the named round (one-shot assassination ordnance,
+      Wellspring-coupled and paid for in advance).
+    verbatim: >-
+      The three ammunition tiers, originated, pending ruling:
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [items, combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "71"
+    notes: null
+
+  - id: R11-3-FIREARM_PROSE_LAW
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§3"
+    title: No sentence explains why a proofed round defeats plate
+    status: live
+    kind: ban
+    summary: >-
+      The gun is furniture, not spectacle; no sentence explains why a
+      proofed round defeats proofed plate — the physical account of the
+      hole stays, the causal account is cut.
+    verbatim: >-
+      Prose law for firearms. The gun is furniture, not spectacle. Powder
+      smells of rotten egg and it stays in the wool for days. Misfires are
+      common in wet weather and a soldier's relationship with his own
+      weapon is superstitious and practical at once. No sentence explains
+      why a proofed round defeats a proofed plate. The physical account of
+      the hole stays. The causal account is cut, per Pack Seven.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [items, combat, magic-mechanism, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "76"
+    notes: >-
+      In live tension with R12-1-EXPLAIN_BAN_STRUCK, which struck exactly
+      the Pack Seven ban this rule cites, both rows being status:live. See
+      CONFLICTS.md C-001.
+
+  - id: R11-4-WELLS_ORIGIN
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: A Well is where the landscape has become the law's argument
+    status: proposed
+    kind: definition
+    summary: >-
+      At sufficient concentration, a law the landscape has been measured by
+      for so long that the landscape has become the law's argument, per The
+      Mechanism of the Sixty.
+    verbatim: >-
+      Originated, pending ruling. Derived from canon, not imported from the
+      genre.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "82"
+    notes: null
+
+  - id: R11-4-WELL_NAMING
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: Guild register vs common tongue for a Well
+    status: proposed
+    kind: definition
+    summary: >-
+      Guild register calls it a Core Concentration; common tongue calls it
+      a Well; going in is a descent, and the people who do it are delvers
+      or well-rats.
+    verbatim: >-
+      Guild register: a Core Concentration. Common tongue: a Well. Going in
+      is a descent. The people who do it are delvers, or well-rats if you
+      dislike them, which most people do.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, register, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "86"
+    notes: null
+
+  - id: R11-4-DIRECTION_AXIS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: "Direction axis: Wild, Spirit and Medium-type Wells"
+    status: proposed
+    kind: definition
+    summary: >-
+      Wild-type Wells make the environment the enemy (Materia/Spatium
+      dominant); Spirit-type make the Crystal the enemy, authoring the
+      delver from inside (Caloria/Fulguria/some Vectoria) and kill
+      experienced parties; Medium-type are both reciprocally, the largest
+      survey gap.
+    verbatim: >-
+      Direction, the encounter type. This is the whole design grammar and
+      it is better than a monster list.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-design, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "90"
+    notes: null
+
+  - id: R11-4-MAGNITUDE_AXIS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: "Magnitude axis: density scale, never invent an intermediate rung"
+    status: proposed
+    kind: ban
+    summary: >-
+      Magnitude runs Ambient through Core with attested rungs (Ambient
+      Saturation, Active Concentration, Veil-Thin, Core); intermediate
+      rungs must be pulled from source before use and never invented.
+    verbatim: >-
+      Magnitude, the density scale. Runs Ambient through Core. Attested
+      rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core.
+      Flag: the intermediate rungs need pulling from source before any
+      scene uses them. Never invent one.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "95"
+    notes: null
+
+  - id: R11-4-DEPTH_AXIS
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: "Depth axis: the nested plane model"
+    status: proposed
+    kind: definition
+    summary: >-
+      A Well is not a hole in the ground; it is a place where the surface
+      (Physical) has thinned enough that the middle layer (Soul) reaches
+      through toward Fate, the deepest plane.
+    verbatim: >-
+      Depth, the nested plane model. Fate deepest, Soul between, Physical
+      at the surface. A Well is not a hole in the ground. It is a place
+      where the surface has thinned enough that the middle layer reaches
+      through.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "97"
+    notes: null
+
+  - id: R11-4-SURVEY_PROTOCOL
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: The Well survey protocol, seven rules as plot devices
+    status: proposed
+    kind: procedure
+    summary: >-
+      Deploy in pairs with one member outside the radius; take Crystal
+      baselines before the march, never after; never carry Object
+      Wellsprings into Site Wellsprings; withdrawal is not retreat; report
+      Medium-type as priority; every rule is one a character can break, and
+      the Guild has buried those who did.
+    verbatim: >-
+      The survey protocol is already written and is pure scene structure.
+      On Walking Into the Current gives seven rules and every one of them
+      is a plot device. Deploy in pairs with one member outside the radius,
+      because the external observer is the only reliable instrument. Take
+      Crystal baselines before the march, never after. Do not carry Object
+      Wellsprings into Site Wellsprings. Two laws sharing one Shell,
+      unpredictable and frequently catastrophic. Withdrawal is not retreat.
+      Report Medium-type as priority.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, adjudication, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "99"
+    notes: >-
+      The "Object Wellsprings into Site Wellsprings" rule is the same
+      canon example Pack Twelve S6 uses for Mystic Register grammar (see
+      R12-6-RULES_AS_RULES); consistent restatement, not a duplicate rule
+      or a conflict.
+
+  - id: R11-4-WELLS_ECONOMY
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: Wells are extraction, never adventure
+    status: proposed
+    kind: definition
+    summary: >-
+      A Core-density Well is the richest draw site that exists; the Guild
+      licenses descents, the Accord taxes them, chartered companies fund
+      them, and delvers are paid like miners — sack-and-contribution logic,
+      no treasure chest.
+    verbatim: >-
+      What the Wells are economically. Extraction, and never adventure. A
+      Well at Core density is the richest draw site that exists and the
+      reason it has not been sunk is that the survey team keeps not coming
+      back. So the Guild licenses descents, the Accord taxes them,
+      chartered companies fund them, and the delvers who go down are paid
+      like miners, which is to say badly and with a bonus that their widow
+      collects. Sack-and-contribution logic. The treasure chest does not
+      exist here.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "103"
+    notes: null
+
+  - id: R11-4-DESCENT_PROSE_LAW
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: A descent's sensory opening inverts toward the body
+    status: proposed
+    kind: mandate
+    summary: >-
+      A descent's sensory opening favours the body (feet, teeth, pack
+      weight) over the room; the ignorance quota becomes the ambient
+      condition rather than a per-scene quota, and a misidentified encounter
+      type is the best-shaped disaster the setting offers.
+    verbatim: >-
+      Sensory opening inverts toward the body, not the room: what the feet
+      report, what the teeth taste, what the pack's weight is doing. The
+      ignorance quota is not a quota inside a Well, it is the ambient
+      condition. The Apparatus Rule still holds at one read per scene and
+      it should usually be spent wrong, because a misidentified encounter
+      type is the best-shaped disaster available in this setting.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "105"
+    notes: >-
+      "The Apparatus Rule still holds at one read per scene" is now stale
+      against the live R12-7-APPARATUS_CAP_REPLACED, which struck that cap;
+      not raised as a CONFLICTS.md row since this whole row is
+      status:proposed (unconfirmed), not live, so nothing live actually
+      contradicts Twelve.
+
+  - id: R11-D
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: Do Wells generate hostile entities, or is the site the threat
+    status: pending
+    kind: open_ruling
+    summary: >-
+      Whether Wells generate hostile entities, or the site itself is the
+      entire threat.
+    verbatim: >-
+      Do Wells generate hostile entities, or is the site itself the entire
+      threat?
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "108"
+    notes: >-
+      Recommendation: the second, hard. Nothing in canon needs monsters,
+      and a Spirit-type Core with nothing living in it is more frightening
+      than anything with teeth.
+
+  - id: R11-E
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§4"
+    title: Naming, Well versus Core versus Guild-register term
+    status: pending
+    kind: open_ruling
+    summary: >-
+      What the common name for a Well should be: Well, Core, or a
+      Guild-register alternative.
+    verbatim: >-
+      Naming: Well versus Core versus something Guild-register.
+      Class-marking opportunity either way.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "109"
+    notes: null
+
+  - id: R11-5-COMBAT_GUIDE_RANGE_OPENING
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§5"
+    title: An engagement may open at range before HEMA grammar takes over
+    status: live
+    kind: consequential_edit
+    summary: >-
+      The Combat Craft Guide is unchanged in substance, with the addition
+      that an engagement may open at range and the HEMA grammar takes over
+      inside roughly twenty feet.
+    verbatim: >-
+      WOTR_Combat_Craft_Guide.md. Unchanged in substance. Add: an
+      engagement may open at range and the HEMA grammar takes over inside
+      roughly twenty feet.
+    amends:
+      - guide: "WOTR_Combat_Craft_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "117"
+    notes: null
+
+  - id: R11-5-STANDING_INVENTORY_PERIPHERY
+    pack: Pack Eleven
+    pack_number: 11
+    section: "§5"
+    title: Kharven's Standing Inventory reads as periphery
+    status: proposed
+    kind: definition
+    summary: >-
+      Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted
+      woodpiles, no domestic coin) survives and improves, now legible as
+      periphery — the Accord's ledgers reach Kharven, its conduit does not.
+    verbatim: >-
+      The Standing Inventory. Kharven survives intact and improves.
+      Permafrost, blubber lamps, woodpiles counted weekly, no coin
+      domestically. All of that is now legible as periphery. The Accord's
+      ledgers reach Kharven. Its conduit does not. Temür's people burn seal
+      fat while Stannvaard burns nothing at all.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
+      lines: "118"
+    notes: >-
+      Marked proposed rather than live: depends on SS2's unconfirmed
+      "conduit" economic model, and carries no explicit "Confirmed" marker
+      of its own, unlike the SS1/SS3-derived SS5 rows.

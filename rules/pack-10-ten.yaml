@@ -1,0 +1,347 @@
+# Pack Ten: "Status: Ratified by Isaac's direction, live this session"
+# (source line 4). All rows status: live, ratified with that session note
+# (no specific date is given anywhere in the source).
+pack: Pack Ten
+pack_number: 10
+source_file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+ratified: "Ratified by Isaac's direction, live this session"
+rules:
+
+  - id: R10-1-CATEGORIES_AXIS
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART ONE"
+    title: The 26 Magical Categories ratified as a second axis
+    status: live
+    kind: definition
+    summary: >-
+      The Magical Categories (Arts, Drafts, Conjunction, Synergia, Harmonia,
+      Ritus, Phenomena, Glyphica, Manifestus, Viaforma, Traitus, Mechanica,
+      Crystalia, Wellsprings, Animatria, Vocatia, Vectra, Mnemata, Aetherica,
+      Concordia, Domain Weaving, Claustra, Silentia, Auguria, Transitus,
+      Votia) are ratified as live canon, answering what kind of thing a
+      working is, alongside the Four Crafts' answer of how it is performed.
+    verbatim: >-
+      The Magical Categories answer what kind of thing it is — Arts,
+      Drafts, Conjunction, Synergia, Harmonia, Ritus, Phenomena, Glyphica,
+      Manifestus, Viaforma, Traitus, Mechanica, Crystalia, Wellsprings,
+      Animatria, Vocatia, Vectra, Mnemata, Aetherica, Concordia, Domain
+      Weaving, Claustra, Silentia, Auguria, Transitus, Votia.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [codex, magic-mechanism, magic-design]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "15"
+    notes: >-
+      Pack Ten beats Pack Nine where they overlap and extends it everywhere
+      else (source line 5); a general precedence statement, not a specific
+      quoted strike, so no supersedes link is set against any Pack Nine row.
+
+  - id: R10-1-CRAFT_VS_CATEGORY
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART ONE"
+    title: Craft is the mouth; Category is the shape
+    status: live
+    kind: definition
+    summary: >-
+      Craft and Category cross like Family and Method at a coarser grain —
+      Craft is the mouth a working comes out of, Category is the shape of
+      the thing that comes out; the same category can be delivered by
+      different crafts with different results.
+    verbatim: >-
+      The two cross the same way Family and Method already do, at a
+      coarser grain: Craft is the mouth it comes out of. Category is the
+      shape of the thing that comes out.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [codex, magic-mechanism]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "17"
+    notes: null
+
+  - id: R10-2-CATEGORY_REGISTER_DEFAULT
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART TWO"
+    title: Category names default to workbook and Codex-line only
+    status: live
+    kind: ban
+    summary: >-
+      Category names sit at Wellspring/Family register, not common tongue,
+      and stay workbook and Codex-line by default.
+    verbatim: >-
+      Category names (Animatria, Manifestus, Vectra, and so on) sit at
+      Wellspring/Family register, not common-tongue register — nobody
+      calls a tiger "my Animatria" the way a soldier says "the writing."
+      They stay workbook and Codex-line by default.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Diction Palette"
+        operation: extends
+    supersedes: []
+    applies_to: [codex, register, magic-mechanism]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "23"
+    notes: null
+
+  - id: R10-2-CATEGORY_READ_EXCEPTION
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART TWO"
+    title: The Apparatus Rule's one read may name a category instead
+    status: live
+    kind: procedure
+    summary: >-
+      A scene's single diagnostic read (the Apparatus Rule's existing
+      budget, not a new one) may be spent naming the category instead of a
+      Wellspring or Family; naming a category doesn't trip Check 20, but it
+      still costs the scene's only read.
+    verbatim: >-
+      One exception, and it is the Apparatus Rule's existing budget, not a
+      new one. A scene's single explicit diagnostic read may be spent
+      naming the category instead of naming a Wellspring or Family — a
+      scholar, examiner, or rival practitioner gets one line: "That's
+      Animatria. It isn't a real animal." Naming a category is not
+      accounting for why it works, so it does not trip Check 20. It still
+      costs the scene's only read, and after it the faculty goes silent
+      same as always.
+    amends:
+      - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
+        locus: "Apparatus Rule"
+        operation: extends
+    supersedes: []
+    applies_to: [codex, register, verification]
+    verification: ["check-20"]
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "25"
+    notes: >-
+      This budget is later struck outright by Pack Twelve §7
+      (R12-7-APPARATUS_CAP_REPLACED, replacing the one-read cap with a
+      tempo cost); no supersedes link is set here since the underlying
+      target (the Apparatus Rule itself) isn't identified by a specific
+      Pack Six rule id yet — confirm and cross-reference once Pack Six is
+      extracted.
+
+  - id: R10-3-PROJECTED_FORM_LICENSE
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: Ability Effect may render as an externalised shape
+    status: live
+    kind: mandate
+    summary: >-
+      Ability Effect fields may render a working as an externalised shape
+      (animal, elemental figure, guardian silhouette) instead of only as
+      discharge, pressure, or weather.
+    verbatim: >-
+      This is the change Isaac asked for directly. Ability Effect fields
+      may now render a working as an externalized shape — animal, elemental
+      figure, guardian silhouette — instead of only as discharge, pressure,
+      or weather.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Ability Effect field"
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, magic-mechanism, items]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "31"
+    notes: null
+
+  - id: R10-3-ANIMATRIA_SHAPE
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: Animatria — directed, semi-independent, line-dependent
+    status: live
+    kind: definition
+    summary: >-
+      An Animatria shape moves with the caster's active attention, can obey
+      or strain against instruction, and stops being anything if the live
+      line back to its maker is severed (Silence, a killed caster, a broken
+      focus).
+    verbatim: >-
+      Animatria — the shape is directed and semi-independent. It moves
+      with intent the caster is actively spending attention on, it can
+      obey or strain against instruction, and its continuity depends on a
+      live line back to whoever made it — sever that line (Silence, a
+      killed caster, a broken focus) and it stops being anything.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Projected-Form license"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "35"
+    notes: null
+
+  - id: R10-3-MANIFESTUS_SHAPE
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: Manifestus — involuntary, short-lived, a Trait bleeding through
+    status: live
+    kind: definition
+    summary: >-
+      A Manifestus shape is involuntary, arriving on a pressure or emotion
+      spike, short-lived by nature, and reads as a Trait bleeding through
+      rather than a tool being used; nobody aimed it.
+    verbatim: >-
+      Manifestus — the shape is involuntary. It arrives on a pressure or
+      emotion spike, is short-lived by nature, and reads as a Trait
+      bleeding through rather than a tool being used. Nobody aimed it. It
+      came out.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Projected-Form license"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "36"
+    notes: null
+
+  - id: R10-3-TRAITUS_SHAPE
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: Traitus — passive, permanent, condition-gated visibility
+    status: live
+    kind: definition
+    summary: >-
+      A Traitus shape is passive and permanent, not fired or summoned but a
+      standing mark of what the Crystal has become, visible only under a
+      specific condition and gone the instant that condition lapses.
+    verbatim: >-
+      Traitus — the shape is passive and permanent. Not fired, not
+      summoned — a standing mark of what the Crystal has become, visible
+      only under a specific condition (a clenched fist, a raised pulse) and
+      gone the instant that condition lapses.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Projected-Form license"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex, character-sheet]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "37"
+    notes: null
+
+  - id: R10-3-CRAFT_DURABILITY_TABLE
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: The delivering craft sets the projected shape's durability
+    status: live
+    kind: definition
+    summary: >-
+      Spellcraft holds only while attention holds; Runecraft is fixed and
+      degrades like any inscription; Draftcraft is bottled, cruder, and
+      buyer-triggerable; Chantcraft requires the sustaining choir and is
+      pending Chantcraft's own ruling.
+    verbatim: >-
+      The delivering craft sets how much the shape can be trusted to hold:
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Projected-Form license"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-design, codex, items]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "39"
+    notes: >-
+      The Chantcraft row is conditional on Chantcraft's accept/reject
+      ruling, still open per the Ratification Ledger; check whether Pack
+      Nine (Phase 2) carries a formal R-coded open ruling for it, and
+      cross-reference here if so.
+
+  - id: R10-3-EFFECT_PHYSICAL_ONLY
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: A projected shape's Effect is physical only, never causal
+    status: live
+    kind: ban
+    summary: >-
+      A projected shape's Effect describes only what it looks/does/feels
+      like, never why the Wellspring resolved as that particular shape; if
+      that answer exists at all, it stays workbook, one line, never on the
+      page.
+    verbatim: >-
+      Effect is physical only. What the shape looks like, what it does,
+      what the room and the target feel. Never why the Wellspring resolved
+      as a tiger and not a wolf — if that answer exists at all, it is
+      workbook, one line at the foot, never on the page.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: "Projected-Form license"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, prose-law]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "50"
+    notes: null
+
+  - id: R10-3-UNCHANGED_CONSTRAINTS
+    pack: Pack Ten
+    pack_number: 10
+    section: "PART THREE"
+    title: Splash-panel, read budget and ignorance quota still govern
+    status: live
+    kind: definition
+    summary: >-
+      A projected shape still counts toward the one splash-panel beat per
+      scene (Pack Nine), still costs the one diagnostic read per scene if
+      the category is named, and the ignorance quota/misreading budget are
+      untouched — a POV may see a projected shape and get it wrong.
+    verbatim: >-
+      - One splash-panel beat per scene (Pack Nine) still governs the
+      moment the shape is at its most visually loud. - One diagnostic read
+      per scene (Part Two above) still governs any naming of the category
+      itself. - Ignorance quota and misreading budget are untouched.
+    amends: null
+    supersedes: []
+    applies_to: [magic-design, pov, verification]
+    verification: []
+    ratified: "Ratified by Isaac's direction, live this session"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Ten.md
+      lines: "51-53"
+    notes: null

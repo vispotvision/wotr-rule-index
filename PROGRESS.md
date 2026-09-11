@@ -8,7 +8,7 @@ supersession graph is only correct once the whole corpus is in.
 | 0 | structure confirmation | done | — | Family B does not parse as one template; see report below |
 | 1 | Packs 19 down to 11 | done | 226 | all 9 files validated; 1 CONFLICTS.md row (C-001) |
 | 2 | Packs 10 down to 5 | done | 144 | all 6 files validated; Pack Seven's repeal fully backfilled |
-| 3 | Packs 4 down to 1 | not started | — | Pack One is the unnumbered filename |
+| 3 | Packs 4 down to 1 | done | 109 | all 4 files validated; Pack One filed as pack-01-one.yaml |
 | 4 | standalone amendments | not started | — | one is .docx, needs pandoc |
 | 5 | resolve and conflict report | not started | — | |
 
@@ -45,7 +45,12 @@ rather than assuming a shared template.
 | Pack Six | 21 | 14 | 3 | 4 | 0 | yes |
 | Pack Five | 35 | 27 | 0 | 4 | 4 | yes |
 | **Phase 2 total** | **143** | **69** | **35** | **9** | **30** | **yes** |
-| **Corpus total after Phase 2** | **370** | **137** | **36** | **29** | **168** | **yes** |
+| Pack Four | 36 | 30 | 0 | 6 | 0 | yes |
+| Pack Three | 25 | 24 | 0 | 1 | 0 | yes |
+| Pack Two | 18 | 12 | 3 | 3 | 0 | yes |
+| Pack One | 30 | 22 | 4 | 4 | 0 | yes |
+| **Phase 3 total** | **109** | **88** | **7** | **14** | **0** | **yes** |
+| **Corpus total after Phase 3** | **479** | **225** | **43** | **43** | **168** | **yes** |
 
 ## Backfill queue (supersedes links pointing at not-yet-extracted rules)
 
@@ -76,14 +81,30 @@ Resolved during Phase 2 (kept here as a record):
 - R15-4-PACK_NINE_CLASS_MARKING -> demotes R9-2-CLASS_MARKED_CRAFT_WORDS
   (Pack Nine PART TWO), backfilled.
 
-Still open, carried into Phase 3:
-- R12-8-SCENE_STANDARDS_BANS_STRUCK -> confirm against Amendment Three
-  (WOTR_Companion_Guide_Amendments.md, Phase 3) once extracted.
+Resolved during Phase 3 (kept here as a record):
+- R12-8-SCENE_STANDARDS_BANS_STRUCK checked against Pack One's Amendment
+  Three: no match. That row's five listed "Scene Standards" items (word
+  count, sensory opening, italic thought, no section spacers,
+  physical-action close) contain no mechanism-explanation or
+  metaphysical-number bans, so the specific target Pack Twelve struck
+  remains unidentified in this corpus. Left unresolved rather than forced.
+- R2-6-FRONTAGE_SUSTAIN_REFORM and R3-7-EXPENDITURE_GRAMMAR's "check once
+  Pack One is extracted" notes resolved: the origins are
+  R1-2-THREE_FIELDS_MANDATORY/R1-2-COUNTERPLAY_THREE_WAYS (Frontage/
+  Sustain/Re-form) and R1-1-BLADE_GRAMMAR/R1-1-VERDICT_GRAMMAR/
+  R1-1-PERCUSSION_VS_BLADE (the three-vocabulary framework Expenditure
+  extends to four).
+
+Still open, carried into Phase 4:
 - R7-4-ITEM_TERTIARY_SOURCE and several other Pack Seven rows have no
-  specific successor named anywhere yet; left pointing at the general
-  R12-1-PACK_SEVEN_REPEALED catch-all. Revisit once Phase 3/4 is in, in
-  case an earlier pack (One-Four) turns out to be the actual origin of
-  something Pack Seven's text only references in passing.
+  specific successor named anywhere yet, even after checking Packs
+  One-Four; left pointing at the general R12-1-PACK_SEVEN_REPEALED
+  catch-all.
+- R1-1-COZBI_TENTATIVE, R2-OP-COZBI_GRAMMAR, R1-OP-COZBI_GRAMMAR and the
+  naval/siege/cavalry and practitioner-POV open items across Packs
+  One/Two are all marked status:superseded on the editorial-judgment
+  basis described below, not a quoted supersedes link — flag to Isaac if
+  this reading is wrong.
 
 ## Open conflicts (see CONFLICTS.md)
 
@@ -130,3 +151,19 @@ Still open, carried into Phase 3:
   named examples) is not extracted row by row — only the standing rule that
   governs how it's built/used gets a row (e.g. Pack Sixteen's conversion
   lexicon, Pack Thirteen's Phenomenon Bank, Pack Eight's worked entries).
+- New precedent from Phase 3: a "Still Open"/pending docket item is marked
+  status:superseded (not left pending forever) once a later pack gives a
+  substantive answer, even when that later pack's text never quotes the
+  specific docket entry by name or number — the alternative (leaving a
+  resolved question marked pending) would actively mislead anyone reading
+  out/docket.md. This is treated as different in kind from resolving a
+  conflict between two contradictory live rules (which CLAUDE.md forbids
+  deciding): a question that now has an answer isn't a live contradiction.
+  Used repeatedly across Packs One/Two/Three for Cozbi's grammar, naval/
+  siege/cavalry prose, and practitioner POV in mass action. Flag to Isaac
+  if this reading is wrong — each instance is noted individually on the
+  affected rows.
+- Pack One is the unnumbered filename (WOTR_Companion_Guide_Amendments.md)
+  but is filed as `pack-01-one.yaml`, matching the rest of the numbered
+  series — BRIEF's `doc-<slug>.yaml` convention is reserved for the Phase
+  4 standalone amendments, not this pack.

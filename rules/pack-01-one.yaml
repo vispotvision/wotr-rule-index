@@ -608,10 +608,15 @@ rules:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "102"
     notes: >-
-      This is the "Scene Standards" Pack Twelve S8 later partially strikes
-      (R12-8-SCENE_STANDARDS_BANS_STRUCK, sentence-level bans on mechanism
-      explanation and metaphysical numbers); confirm the exact match once
-      cross-checked, per the note already on that Pack Twelve row.
+      Checked against R12-8-SCENE_STANDARDS_BANS_STRUCK (Pack Twelve §8):
+      that row strikes "sentence-level bans on mechanism explanation and
+      metaphysical numbers" from "Scene Standards," but this row's five
+      listed items (word count, sensory opening, italic thought, no section
+      spacers, physical-action close) contain no such bans. Either
+      "Scene Standards" grew additional mechanism/number bans somewhere
+      between Pack One and Pack Twelve that this corpus doesn't otherwise
+      capture, or Pack Twelve means a different document by the same name.
+      Left unresolved; no supersedes link asserted in either direction.
 
   - id: R1-3-NAME_THREE_RULE
     pack: Pack One

@@ -1125,7 +1125,10 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "126"
     notes: >-
-      "Scene Standards" here appears to be the carve-out established in
-      Amendment Three (WOTR_Companion_Guide_Amendments.md, Phase 3); confirm
-      and backfill supersedes when that pack is extracted, if a specific
-      row matches.
+      Checked against Pack One's R1-3-SCENE_STANDARDS_DEFINED (Amendment
+      Three): that row's five listed Scene Standards items (word count,
+      sensory opening, italic thought, no section spacers, physical-action
+      close) contain no mechanism-explanation or metaphysical-number bans,
+      so no clean match exists there. No supersedes link asserted; the
+      specific "Scene Standards" bans this row strikes remain unidentified
+      in this corpus.

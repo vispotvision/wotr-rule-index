@@ -1,0 +1,539 @@
+# Pack Two, Family A structure. No pending/originated language anywhere;
+# a "CLOSED BY THIS PACK" table confirms both amendments settled.
+# status:live throughout except explicit "Still Open" items, three of
+# which Pack Three later closes (marked superseded here for docket
+# cleanliness, since a substantive answer now exists even though Pack
+# Three's text never quotes this specific docket entry by name).
+pack: Pack Two
+pack_number: 2
+source_file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+ratified: null
+rules:
+
+  - id: R2-5-SINGLE_ACT_RULE
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Five"
+    title: A battle advances exactly one relationship, by one unrepeatable act
+    status: live
+    kind: mandate
+    summary: >-
+      A battle cannot hold six relationships the way a duel holds one; a
+      battle advances exactly one relationship, and it advances it by a
+      single unrepeatable act.
+    verbatim: >-
+      The rule: a battle advances exactly one relationship, and it
+      advances it by a single unrepeatable act.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "17"
+    notes: null
+
+  - id: R2-5-SINGLE_ACT_CONDITIONS
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Five"
+    title: The Single Act's four conditions
+    status: live
+    kind: definition
+    summary: >-
+      The Single Act must be physical (a thing done with the body under
+      load, not a decision or realisation), unrepeatable (the circumstance
+      does not recur), witnessed but not discussed during the engagement,
+      and ambiguous at the moment it happens to witness, reader and actor
+      alike.
+    verbatim: >-
+      It is physical. Not a decision, not a realisation, not a look held a
+      beat too long. A thing done with the body under load.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, character-sheet, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "25-28"
+    notes: null
+
+  - id: R2-5-RESOLUTION_IN_AFTERMATH
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Five"
+    title: The Single Act resolves in the aftermath, never by discussion
+    status: live
+    kind: ban
+    summary: >-
+      The relationship change is legible in how the two characters handle
+      an unrelated later scene; if a character ever says what the act
+      meant, the amendment has been violated and the scene has been spent.
+    verbatim: >-
+      In the aftermath, and not by discussion of the act itself. The
+      relationship has changed and both parties behave differently.
+      Neither raises it. The scene three days later is about a bucket, or
+      a burial detail, or who takes which watch, and the change is
+      legible in how they handle the bucket. If a character says what the
+      act meant, the amendment has been violated and the scene has been
+      spent.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, character-sheet, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "34-36"
+    notes: null
+
+  - id: R2-5-ONE_PER_ENGAGEMENT
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Five"
+    title: One Single Act per engagement, not the same pairing twice
+    status: live
+    kind: budget
+    summary: >-
+      One Single Act per engagement — two dilutes both, three is a soap
+      opera in armour; a campaign's several engagements should not all
+      involve the same pairing, or the reader begins to expect the shape.
+    verbatim: >-
+      One Single Act per engagement. Two dilutes both. Three is a soap
+      opera in armour. A campaign arc may run several engagements and
+      therefore several Acts, and they should not all involve the same
+      pairing, because the reader will begin to expect the shape and
+      expectation is what kills it.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, scene-structure]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "46-48"
+    notes: null
+
+  - id: R2-5-DIAGNOSTIC_TEST
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Five"
+    title: The removable-battle diagnostic
+    status: live
+    kind: procedure
+    summary: >-
+      If removing the battle would preserve the relationship change, the
+      Act was not unrepeatable and the battle was decoration; rebuild the
+      Act around something only the engagement made possible.
+    verbatim: >-
+      If you can remove the battle and preserve the relationship change,
+      the Act was not unrepeatable and the battle was decoration. Rebuild
+      the Act around something the engagement made possible and nothing
+      else could.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "52"
+    notes: null
+
+  - id: R2-6-CURRENCY_RULE
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.1"
+    title: The currency rule — Essence and time do not exchange
+    status: live
+    kind: ban
+    summary: >-
+      A practitioner converts Essence into effect; an army converts time
+      into ground; these do not exchange, so no technique holds ground —
+      it may take, deny, break or unmake ground, never occupy it.
+    verbatim: >-
+      A practitioner converts Essence into effect. An army converts time
+      into ground. These do not exchange. Design consequence: no
+      technique holds ground. A technique may take, deny, break or unmake
+      ground and it may not occupy it. Any technique whose stated function
+      is holding a position for a duration has been designed wrongly and
+      should be rebuilt as a denial effect with a Sustain.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-design]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "65-67"
+    notes: null
+
+  - id: R2-6-MAGAZINE_RULE
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.2"
+    title: The magazine rule — a practitioner always knows what's left
+    status: live
+    kind: mandate
+    summary: >-
+      Essence is finite per practitioner per day and replenishes slower
+      than expenditure under load; every technique's Cost field must be
+      legible to the character using it, who never discovers mid-technique
+      that they are empty.
+    verbatim: >-
+      Essence is finite per practitioner per day, replenishment is slower
+      than expenditure under load, and the practitioner always knows what
+      they have left. Design consequence: every technique's Cost field
+      must be legible to the character using it. A practitioner never
+      discovers mid-technique that they are empty.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, stats, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "71-73"
+    notes: null
+
+  - id: R2-6-REPLENISHMENT_RULE
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.3"
+    title: A practitioner is refilled by a Wellspring or not at all
+    status: live
+    kind: ban
+    summary: >-
+      Essence cannot be shipped (it leaks in transit, needs an
+      untransportable instrument to assay, dies with its owner); no
+      consumable, technique or item may restore a practitioner's magazine.
+    verbatim: >-
+      A practitioner is refilled by a Wellspring, or not at all. Essence
+      cannot be shipped: it leaks in transit, cannot be assayed without an
+      instrument that does not travel, and dies with its owner. Design
+      consequence: no consumable restores a practitioner's magazine. Any
+      technique, item or draft proposed to do so is refused at design.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [magic-design, items, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "77-79"
+    notes: null
+
+  - id: R2-6-DOMAINS_BREAK_NOT_KILL
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.4"
+    title: Domains break cohesion; the rout does the killing
+    status: live
+    kind: mandate
+    summary: >-
+      A seated Domain corrodes cohesion and the line breaks, with killing
+      happening in the rout; assess a Domain-class technique by Re-form
+      rather than by casualties.
+    verbatim: >-
+      A seated Domain does not kill a formation. It corrodes cohesion, the
+      line breaks, and the killing happens in the rout. Design
+      consequence: assess any Domain-class technique by Re-form rather
+      than by casualties. A Domain that kills sixty and does not break the
+      line has failed.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-design, adjudication]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "83-85"
+    notes: null
+
+  - id: R2-6-VOIDIC_COUNTER
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.5"
+    title: Voidic techniques are priced as artillery, not attack
+    status: live
+    kind: mandate
+    summary: >-
+      A Voidic practitioner is a poor attacker and the finest suppression
+      instrument in the world; Voidic techniques are priced as artillery —
+      slow to bring, slow to move, unable to defend themselves, needing a
+      guard detachment, and affecting friendly output as readily as
+      hostile.
+    verbatim: >-
+      Aether Class VI devours where others emit. A Voidic practitioner is
+      a poor attacker and the finest suppression instrument in the world,
+      and those are the same fact. Design consequence: Voidic techniques
+      are priced as artillery. Slow to bring, slow to move, cannot defend
+      themselves,
+      require a guard detachment, and affect friendly output as readily as
+      hostile. A Voidic technique with a friendly-side exemption has been
+      designed wrongly.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-design, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "89-91"
+    notes: null
+
+  - id: R2-6-SPEED_RULING
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.6"
+    title: Movement techniques are priced as expenditure, not mobility
+    status: live
+    kind: mandate
+    summary: >-
+      Speed is Essence; a character who arrives fast arrives depleted, and
+      there is no free travel at Grade — a scene with one has spent a
+      resource silently.
+    verbatim: >-
+      High-Grade couriers give functional real-time command across a
+      theatre. Speed is Essence, couriers are interdicted first, and
+      formations trained on instantaneous command collapse harder when
+      they lose it than formations that never had it. Design consequence:
+      movement techniques are priced as expenditure, not as mobility. A
+      character who arrives
+      fast arrives depleted. There is no free travel at Grade and a scene
+      that has one has spent a resource silently.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-design, stats]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "95-97"
+    notes: null
+
+  - id: R2-6-FRONTAGE_SUSTAIN_REFORM
+    pack: Pack Two
+    pack_number: 2
+    section: "Amendment Six.7"
+    title: Scaled techniques carry Frontage, Sustain and Re-form
+    status: live
+    kind: mandate
+    summary: >-
+      Any technique deployed against a formation carries Frontage, Sustain
+      and Re-form alongside the standard seven fields, or it does not
+      belong on a battlefield; counterplay is always exceeding Frontage,
+      outlasting Sustain, or shortening Re-form.
+    verbatim: >-
+      Any technique deployed against a formation carries all three fields
+      in addition to the standard seven. A technique that cannot be given
+      all three does not belong on a battlefield. Counterplay to any
+      scaled technique is always one of three things: exceed its Frontage,
+      outlast its Sustain, or shorten its Re-form.
+    amends:
+      - guide: "WOTR_Ability_Technique_Design_Guide.md"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [mass-combat, magic-design, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "101-103"
+    notes: >-
+      Restated from Pack One; check Pack One's own extraction for the
+      original statement of these three fields once it is processed.
+
+  - id: R2-OP-ZETTARI_DOCKET
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: Docket 18, Zettari forge-culture substrate, no proposal at all
+    status: pending
+    kind: definition
+    summary: >-
+      Untouched by either Pack One or Two, and by Hide, Horn and Bone
+      (which handles creature materials, not forge cultures); the Dawi
+      equivalent (Cask-Oath Pitch) is pitched and awaiting ruling, but the
+      Zettari has no proposal at all — the oldest unaddressed gap in the
+      project.
+    verbatim: >-
+      Docket 18, Zettari forge-culture substrate. Untouched by either pack
+      and untouched by Hide, Horn and Bone, which handles creature
+      materials rather than forge cultures. The Dawi equivalent was
+      pitched as Cask-Oath Pitch and is awaiting your ruling; the Zettari
+      has no proposal at all.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "116"
+    notes: >-
+      Restated near-identically (without the Cask-Oath Pitch detail) in
+      Packs Three and Four; see R3-OP-ZETTARI_DOCKET and
+      R4-OP-ZETTARI_DOCKET. Still open as of this pack.
+
+  - id: R2-OP-COZBI_GRAMMAR
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: Cozbi's combat grammar, deferred by choice
+    status: superseded
+    kind: definition
+    summary: >-
+      Cozbi's combat grammar assignment was deferred by choice.
+    verbatim: >-
+      Cozbi's combat grammar. Deferred by choice.
+    amends: null
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "117"
+    notes: >-
+      Closed by Pack Three, Amendment Seven (R3-7-EXPENDITURE_GRAMMAR and
+      siblings), which assigns Cozbi the Expenditure grammar. Marked
+      superseded for docket cleanliness even though Pack Three's text
+      never quotes this specific docket entry by name — a substantive
+      answer now exists.
+
+  - id: R2-OP-NAVAL_SIEGE_CAVALRY
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: No standard exists for naval, siege or cavalry prose
+    status: superseded
+    kind: definition
+    summary: >-
+      No standard exists for naval, siege or cavalry prose.
+    verbatim: >-
+      Naval, siege and cavalry prose. No standard for any of the three.
+    amends: null
+    supersedes: []
+    applies_to: [mass-combat, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "118"
+    notes: >-
+      Closed by Pack Three, Amendment Eight (naval R3-8-NAVAL_*, siege
+      R3-8-SIEGE_*, cavalry R3-8-CAVALRY_*). Marked superseded for docket
+      cleanliness on the same basis as R2-OP-COZBI_GRAMMAR.
+
+  - id: R2-OP-PRACTITIONER_POV_MASS_ACTION
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: Practitioner POV during a mass action needs a ruling
+    status: superseded
+    kind: definition
+    summary: >-
+      A ruling is needed on practitioner POV during a mass action.
+    verbatim: >-
+      Practitioner POV during a mass action. Ruling needed.
+    amends: null
+    supersedes: []
+    applies_to: [mass-combat, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "119"
+    notes: >-
+      Closed by Pack Three, Amendment Nine (R3-9-PRACTITIONER_POV_RULING
+      and siblings). Marked superseded for docket cleanliness on the same
+      basis as R2-OP-COZBI_GRAMMAR.
+
+  - id: R2-OP-RACIAL_VOICE_GAPS
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: Docket 20, Racial Voice Guide gaps
+    status: pending
+    kind: definition
+    summary: >-
+      Racial Voice Guide gaps remain for Fleshshaper Goblin, Winter
+      Eladrin, and Celestial Host.
+    verbatim: >-
+      Docket 20, Racial Voice Guide gaps. Fleshshaper Goblin, Winter
+      Eladrin, Celestial Host.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "120"
+    notes: null
+
+  - id: R2-OP-UNFOLDED_GUIDES
+    pack: Pack Two
+    pack_number: 2
+    section: "Still Open"
+    title: Packs remain paste-in diffs, deliberately, but unfolded
+    status: pending
+    kind: definition
+    summary: >-
+      Both packs are paste-in diffs rather than rewritten guides, a
+      deliberate choice for reviewability, but step seven of the run order
+      is not complete until they are folded.
+    verbatim: >-
+      The guides themselves are still unamended files. Both packs are
+      paste-in diffs rather than rewritten guides. That is a deliberate
+      choice so you can review the change rather than the whole document,
+      but it means step seven of the run order is not complete until you
+      fold them.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Two.md
+      lines: "121"
+    notes: >-
+      An early instance of the same "fold packs into base guides" standing
+      task later packs keep restating with a growing count.

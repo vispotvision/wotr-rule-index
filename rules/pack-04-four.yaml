@@ -1,0 +1,985 @@
+# Pack Four (Revised), Family A structure (# AMENDMENT N + ## Target:).
+# No pack-level pending/originated language anywhere, and a "CLOSED BY THIS
+# PACK" table confirms all three amendments as settled; read as status:live
+# throughout except the one item Amendment Thirteen itself explicitly
+# flags "Proposed, pending ruling."
+pack: Pack Four
+pack_number: 4
+source_file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+ratified: null
+rules:
+
+  - id: R4-13-GLOSS_DEFINED
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: A gloss is a sentence that only states prior significance
+    status: live
+    kind: definition
+    summary: >-
+      A gloss is any sentence whose only function is to state the
+      significance of the sentence before it, disguised as texture or
+      observant narration.
+    verbatim: >-
+      Name it. A gloss is any sentence whose only function is to state the
+      significance of the sentence before it.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "17"
+    notes: null
+
+  - id: R4-13-THREE_DISGUISES
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: The three disguises of a gloss
+    status: live
+    kind: definition
+    summary: >-
+      The etymological gloss explains why a character chose a word; the
+      register gloss explains what a tone signified; the stakes gloss
+      restates in abstract vocabulary an event the reader already watched
+      concretely, usually at paragraph-end.
+    verbatim: >-
+      The etymological gloss. The narrator explains why a character chose
+      the word they chose.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "21-31"
+    notes: null
+
+  - id: R4-13-DELETION_TEST
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: The deletion test for a suspected gloss
+    status: live
+    kind: procedure
+    summary: >-
+      Delete the candidate sentence and read the passage; if it means the
+      same thing, it was a gloss and stays deleted; if meaning is
+      genuinely lost, the failure is in the line above and that line is
+      rebuilt, never the gloss restored.
+    verbatim: >-
+      Delete the candidate sentence. Read the passage without it. - The
+      passage means the same thing. It was a gloss. It stays deleted. -
+      The passage genuinely loses the meaning. The failure is in the line
+      above, not the line below. Rebuild the original so it carries its
+      own freight. Never restore the gloss.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "35-38"
+    notes: null
+
+  - id: R4-13-WHERE_SIGNIFICANCE_LIVES
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: Significance lives in three places, never in narration
+    status: live
+    kind: definition
+    summary: >-
+      Significance may live in a physical tell adjacent to the line, in
+      another character's bodily reaction, or in a governed callback —
+      never in narration itself.
+    verbatim: >-
+      Three places, and narration is not one of them. 1. A physical tell
+      adjacent to the line. Hild's hand on the arm of the chair. Whether
+      it opens or closes. 2. The other character's reaction. Somebody in
+      the room hears the word and does something about it with their
+      body. 3. A callback, governed by the rule below.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "44-48"
+    notes: null
+
+  - id: R4-13-THIRD_RECURRENCE
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: The Third Recurrence rule for a loaded word
+    status: live
+    kind: mandate
+    summary: >-
+      A loaded word gets one physical response on first use and no
+      comment; meaning arrives on the third appearance through change —
+      another character uses it, the usual user withholds it, or register
+      makes earlier uses retroactively legible. Withholding is the
+      strongest of the three.
+    verbatim: >-
+      A loaded word gets one physical response on first use and no comment
+      at all. Meaning arrives on the third appearance, and it arrives
+      through change: someone else uses the word, or the person who always
+      uses it withholds it, or it lands in a register that makes the
+      earlier uses retroactively legible. Withholding is the strongest of
+      the three.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, dialogue, standing-inventory]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "52-54"
+    notes: null
+
+  - id: R4-13-FID_CARVEOUT
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: Free indirect discourse is not gloss
+    status: live
+    kind: definition
+    summary: >-
+      A sentence in the POV's own idiom that could be wrong and reveals
+      the character interpreting is characterisation and is kept; a
+      sentence in the narrator's neutral, authoritative register that
+      reveals nothing about anybody's interior is cut.
+    verbatim: >-
+      Free indirect discourse is not gloss, and this amendment must not be
+      used to strip interiority. The test is whose vocabulary: - The
+      sentence is in the POV character's idiom, could be wrong, and
+      reveals the character doing the interpreting. Keep it. That is
+      characterisation. Sodoku mis-reading a room is worth three
+      paragraphs. - The sentence is in the narrator's neutral analytic
+      register, is authoritative, and reveals nothing about anybody's
+      interior. Cut it. That is the author explaining their own scene.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, pov]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "58-63"
+    notes: null
+
+  - id: R4-13-ZERO_BUDGET
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: Zero glosses per scene, not rationed
+    status: live
+    kind: budget
+    summary: >-
+      The gloss budget is zero per scene; there is no acceptable first
+      instance.
+    verbatim: >-
+      Zero glosses per scene. Not rationed. There is no acceptable first
+      instance.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "§6"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "73"
+    notes: null
+
+  - id: R4-13-GLOSS_RIGHTS_PENDING
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Thirteen"
+    title: Gloss rights as a character-card field, pending ruling
+    status: pending
+    kind: definition
+    summary: >-
+      Whether "gloss rights" becomes a character-card field beside voice:
+      Lambert yes (reading a room is his function), Yoko diagnostic only,
+      Cozbi unlimited (his interiority is the horror), Sodoku never, Emira
+      never (her pathos is noticing without interpreting).
+    verbatim: >-
+      Gloss rights as a character-card field, sitting beside voice.
+      Lambert yes, since reading a room is his function. Yoko diagnostic
+      only. Cozbi unlimited, because his interiority is the horror. Sodoku
+      never. Emira never, since her whole pathos is that she notices and
+      does not interpret.
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [character-sheet, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "85"
+    notes: null
+
+  - id: R4-14-PARAGRAPH_VARIANCE
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: Sentence-length variance is enforced per paragraph
+    status: live
+    kind: mandate
+    summary: >-
+      Sentence-length variance is enforced at the paragraph level, not just
+      the document level; the global CV stays as a floor and stops being
+      sufficient on its own.
+    verbatim: >-
+      Amended: variance is enforced per paragraph. The global CV stays as
+      a floor and stops being sufficient.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: replaces
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "96"
+    notes: null
+
+  - id: R4-14-RUN_RULE
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The run rule, no three same-length sentences in a row
+    status: live
+    kind: ban
+    summary: >-
+      No three consecutive sentences may fall within forty percent of each
+      other's word count.
+    verbatim: >-
+      The run rule. No three consecutive sentences within forty percent of
+      each other's word count. Lengths of 22, 19 and 24 constitute a run,
+      and a run is a flat stretch of road however good the individual
+      sentences are.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "102"
+    notes: null
+
+  - id: R4-14-CHAIN_CEILING
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The chain ceiling, no more than two long sentences in a row
+    status: live
+    kind: budget
+    summary: >-
+      No more than two consecutive sentences may run over 25 words; the
+      third breaks, or the paragraph does.
+    verbatim: >-
+      The chain ceiling. No more than two consecutive sentences over 25
+      words. The third breaks, or the paragraph does.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "104"
+    notes: null
+
+  - id: R4-14-CLAUSE_CAP_AT_BEAT
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The clause cap at the beat
+    status: live
+    kind: budget
+    summary: >-
+      Within the three sentences bracketing a value turn, no sentence
+      carries more than one subordinate or coordinate clause.
+    verbatim: >-
+      The clause cap at the beat. Within the three sentences bracketing a
+      value turn, no sentence carries more than one subordinate or
+      coordinate clause. A reversal delivered inside a chained sentence has
+      been delivered at the same volume as the furniture.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "106"
+    notes: null
+
+  - id: R4-14-LANDING_RULE
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The landing rule, the hit is the shortest sentence and sits last
+    status: live
+    kind: mandate
+    summary: >-
+      The emotional hit takes the shortest sentence in its paragraph and
+      sits last; anything trailing it is the paragraph clearing its throat
+      after the point.
+    verbatim: >-
+      The landing rule. The emotional hit takes the shortest sentence in
+      its paragraph and sits last. Anything trailing it is the paragraph
+      clearing its throat after the point.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "108"
+    notes: null
+
+  - id: R4-14-APPROACH_LADDER
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The approach ladder, decelerate into the hit
+    status: live
+    kind: mandate
+    summary: >-
+      Decelerate into the hit (long, then medium, then the landing) so the
+      reader's eye slows as it arrives, then expand again afterward since
+      consequence is cumulative and belongs in cumulative syntax.
+    verbatim: >-
+      Decelerate into the hit. Long, then medium, then the landing, so the
+      reader's eye is slowing as it arrives and the short sentence reads
+      as a stop instead of one more item. Expand again afterwards:
+      consequence is cumulative in fact and belongs in cumulative syntax,
+      which is the register's proper home.
+    amends:
+      - guide: "WOTR_AI_Writing_Tells_to_Avoid.md"
+        locus: "§2"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "112"
+    notes: null
+
+  - id: R4-14-HARD_CEILINGS
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: Hard ceilings on payoff sentences and paragraph shape
+    status: live
+    kind: budget
+    summary: >-
+      A payoff sentence carries at most 10 words and zero subordinate
+      clauses; at least 18% of a scene's sentences run under 8 words; and
+      no paragraph closes on three consecutive sentences over 18 words.
+    verbatim: >-
+      | Words in the payoff sentence | 10 | | Subordinate clauses in the
+      payoff sentence | 0 | | Sentences under 8 words, share of scene |
+      18% floor | | Paragraphs closing on three consecutive sentences over
+      18 words | 0 |
+    amends:
+      - guide: "WOTR_Manual_Verification_Guide.md"
+        locus: "§13"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "126-132"
+    notes: null
+
+  - id: R4-14-CONJUNCTION_AUDIT
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fourteen"
+    title: The conjunction audit at a beat
+    status: live
+    kind: ban
+    summary: >-
+      Count coordinators per sentence (and, as, while, which, because);
+      two or more inside a beat-carrying sentence is a fail, though the
+      same count outside a beat is style and left alone.
+    verbatim: >-
+      Count coordinators per sentence: and, as, while, which, because. Two
+      or more inside a sentence carrying a beat is a fail. Outside a beat
+      it is style and left alone.
+    amends:
+      - guide: "WOTR_Manual_Verification_Guide.md"
+        locus: "§13"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "136"
+    notes: null
+
+  - id: R4-15-REIFICATION_DEFINED
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Reification is an abstraction handled as a physical object
+    status: live
+    kind: definition
+    summary: >-
+      Reification gives an abstract noun a physical verb, handled by
+      characters as an object in the room; the tell is the verb, not the
+      noun (hand, pass, set, carry, place, take, give, hold, put, return,
+      offer, lift, drop, weigh, lay, arrive, land, sit, settle, drain).
+    verbatim: >-
+      An abstract noun given a physical verb and handled by the characters
+      as an object in the room. The silence sat between them. He handed
+      her the governance of it. The arithmetic moved across his face.
+      Permission changed hands.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "147"
+    notes: null
+
+  - id: R4-15-DENSITY_PROBLEM
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Reification is legal; density is the failure
+    status: live
+    kind: definition
+    summary: >-
+      Reification is a genuine Hermetic-register instrument and any single
+      instance reads well; the failure is density — ten good instances in
+      a scene leave nothing solid for the reader to stand on.
+    verbatim: >-
+      This is not a bad move and it will not be banned. It is a genuine
+      Hermetic-register instrument, it belongs to the native tongue, and
+      any single instance reads well. That is the problem exactly. The
+      calibration section waves it through because it evaluates instances,
+      and the failure is density.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "151"
+    notes: null
+
+  - id: R4-15-LICENSED_CLASS
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: The Licensed Class of abstractions that genuinely are objects
+    status: live
+    kind: definition
+    summary: >-
+      A debt, claim, verdict, name, standing, bearing, holding, writ,
+      seal, title, warrant, attribution or tally is a closed-class WOTR
+      abstraction the world already treats as a thing that moves between
+      hands; reifying these is description, not device, and is unbudgeted
+      and free.
+    verbatim: >-
+      A debt is a transferable instrument that can be declared never to
+      have existed. A claim is carried. A verdict is issued and can be
+      rescinded. A name, a standing, a bearing, a holding, a writ, a seal,
+      a title, a warrant, an attribution, a tally: the Guild Accord, The
+      Bearing and the Holding, Value, Coin and Trade and the Bench of
+      Attribution all treat these as things that move between hands and can
+      be seized, forged, voided or lost. Licensed instruments are
+      unbudgeted and free.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "157-159"
+    notes: null
+
+  - id: R4-15-CLERK_TEST
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: The Guild clerk test for the Licensed Class
+    status: live
+    kind: procedure
+    summary: >-
+      If the thing could appear as a line on a ledger, in a writ, or in a
+      Bench finding, reify it freely; if it could not, it costs budget.
+    verbatim: >-
+      The test: could a Guild clerk file it? If the thing could appear as a
+      line on a ledger, in a writ, or in a Bench finding, reify it freely.
+      If it could not, it costs budget.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "161"
+    notes: null
+
+  - id: R4-15-TWO_PER_SCENE_BUDGET
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Two unlicensed reifications per scene, different abstractions
+    status: live
+    kind: budget
+    summary: >-
+      At most two unlicensed reifications per scene, of different
+      abstractions; a third is a fail regardless of quality, and the same
+      abstraction may be reified only once.
+    verbatim: >-
+      Two per scene, different abstractions. The third is a fail
+      regardless of quality. The same abstraction may be reified once —
+      silence is handled once or the scene has a tic.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "165"
+    notes: null
+
+  - id: R4-15-ONE_PER_PARAGRAPH
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: One unlicensed reification per paragraph
+    status: live
+    kind: budget
+    summary: >-
+      Two unlicensed reifications in a single paragraph produces a
+      bogged-down feeling independent of the scene total.
+    verbatim: >-
+      One per paragraph. Two unlicensed reifications in a single paragraph
+      is the bogged-down feeling on its own, independent of the scene
+      total.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "167"
+    notes: null
+
+  - id: R4-15-CONCRETE_FIRST
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Concrete first; an object in the room always wins
+    status: live
+    kind: procedure
+    summary: >-
+      Before reifying, check whether an object already in the room can
+      carry the same freight; the object always wins.
+    verbatim: >-
+      Concrete first. Before reifying, check whether an object already in
+      the room can carry the same freight. The object always wins.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "169"
+    notes: null
+
+  - id: R4-15-NEVER_AT_BEAT
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Reification never delivers the beat
+    status: live
+    kind: ban
+    summary: >-
+      Reification is atmosphere and a poor delivery vehicle for a turn;
+      the value flips on a body or an object, never on a personified noun.
+    verbatim: >-
+      Never at the beat. Reification is atmosphere and a poor delivery
+      vehicle for a turn. The value flips on a body or an object, never on
+      a personified noun.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "171"
+    notes: null
+
+  - id: R4-15-BODIES_EXEMPT
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: Bodies are exempt from the reification budget
+    status: live
+    kind: definition
+    summary: >-
+      Concrete nouns doing concrete things (hands shaking, a jaw setting, a
+      tail going still) are not counted against the reification budget.
+    verbatim: >-
+      Bodies are exempt. His hands shook. Her jaw set. The tail went
+      still. Concrete nouns doing concrete things, not on this budget.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "173"
+    notes: null
+
+  - id: R4-15-PROCEDURAL_SCENE_BUDGET
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: One unlicensed reification per page in procedural scenes
+    status: live
+    kind: budget
+    summary: >-
+      In procedural or ledger scenes, the unlicensed reification budget
+      tightens to one per page, since the Licensed Class is already doing
+      that work there and unlicensed instances would go invisible against
+      it.
+    verbatim: >-
+      One per page in procedural or ledger scenes. The licensed class is
+      already doing this work there, and unlicensed instances go invisible
+      against it.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "175"
+    notes: null
+
+  - id: R4-15-WATCHLIST_NOUNS
+    pack: Pack Four
+    pack_number: 4
+    section: "Amendment Fifteen"
+    title: The reification watch-list nouns
+    status: live
+    kind: definition
+    summary: >-
+      Recurring reification offenders, kept greppable rather than felt:
+      silence, weight, arithmetic, governance, permission, distance,
+      authority, refusal, grief, history, patience, the question, the
+      cost, the moment, the space between them.
+    verbatim: >-
+      Recurring offenders in the current drafts, listed so the check is
+      greppable rather than felt: silence, weight, arithmetic, governance,
+      permission, distance, authority, refusal, grief, history, patience,
+      the question, the cost, the moment, the space between them.
+    amends:
+      - guide: "WOTR_Master_Style_Directive.md"
+        locus: "Metaphor and Simile Calibration"
+        operation: adds
+    supersedes: []
+    applies_to: [prose-law, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "187"
+    notes: null
+
+  - id: R4-ADD-CHECK15
+    pack: Pack Four
+    pack_number: 4
+    section: "Addendum"
+    title: "Check 15 — Gloss watch"
+    status: live
+    kind: procedure
+    summary: >-
+      Flags etymological, register and "which meant" constructions; warns
+      rather than fails since the whose-vocabulary test cannot be
+      automated, and every flag gets read.
+    verbatim: >-
+      | 15. Gloss watch | Amendment Thirteen | Flags etymological,
+      register and "which meant" constructions. Warns rather than fails,
+      because the whose-vocabulary test cannot be automated and the FID
+      carve-out is the whole ruling. Every flag gets read. |
+    amends:
+      - guide: "wotr_beat_check.py"
+        locus: "check 15"
+        operation: adds
+    supersedes: []
+    applies_to: [verification, prose-law]
+    verification: ["check-15"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "203"
+    notes: null
+
+  - id: R4-ADD-CHECK16
+    pack: Pack Four
+    pack_number: 4
+    section: "Addendum"
+    title: "Check 16 — Descent"
+    status: live
+    kind: procedure
+    summary: >-
+      Fails any chain of 3+ sentences over 25 words, 4+ flat runs, a
+      short-sentence share under 10% (warns under 18%), and reports every
+      paragraph closing long-long-long.
+    verbatim: >-
+      | 16. Descent | Amendment Fourteen | Fails any chain of 3+
+      sentences over 25 words. Fails 4+ flat runs. Fails a short-sentence
+      share under 10% and warns under 18%. Reports every paragraph closing
+      long-long-long. Arithmetic, so its failures are real. |
+    amends:
+      - guide: "wotr_beat_check.py"
+        locus: "check 16"
+        operation: adds
+    supersedes: []
+    applies_to: [verification, prose-law]
+    verification: ["check-16"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "204"
+    notes: null
+
+  - id: R4-ADD-CHECK17
+    pack: Pack Four
+    pack_number: 4
+    section: "Addendum"
+    title: "Check 17 — Reification"
+    status: live
+    kind: procedure
+    summary: >-
+      Fails at 3+ unlicensed reification instances or any paragraph
+      carrying two; licensed instruments are detected, reported
+      separately, and never counted against budget.
+    verbatim: >-
+      | 17. Reification | Amendment Fifteen | Fails at 3+ unlicensed
+      instances or any paragraph carrying two. Licensed instruments are
+      detected, reported separately, and never counted against budget. |
+    amends:
+      - guide: "wotr_beat_check.py"
+        locus: "check 17"
+        operation: adds
+    supersedes: []
+    applies_to: [verification, prose-law]
+    verification: ["check-17"]
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "205"
+    notes: null
+
+  - id: R4-ADD-NO_SINGLE_PASS
+    pack: Pack Four
+    pack_number: 4
+    section: "Addendum"
+    title: Both verification scripts run before presenting, no single pass
+    status: live
+    kind: procedure
+    summary: >-
+      wotr_verify.sh and wotr_beat_check.py both run before presenting;
+      failures are fixed and both re-run; no single-pass delivery.
+    verbatim: >-
+      Both scripts run before presenting, failures are fixed, both re-run.
+      No single-pass delivery.
+    amends:
+      - guide: "Manual Verification Guide"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [verification, session-protocol]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "207"
+    notes: null
+
+  - id: R4-OP-PSYCHIC_DISTANCE_BANDS
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Psychic-distance bands per POV character are undefined
+    status: pending
+    kind: definition
+    summary: >-
+      Free indirect discourse is house default but no character has a
+      specified psychic-distance band; Amendment Thirteen's FID carve-out
+      depends on knowing whose idiom the narration runs in, making this
+      load-bearing rather than tidy-up.
+    verbatim: >-
+      Psychic-distance bands per POV character. FID is house default and
+      no character has a specified band. Amendment Thirteen's carve-out
+      depends on knowing whose idiom the narration runs in, which makes
+      this load-bearing rather than tidy-up. Recommend it moves up the
+      queue.
+    amends: null
+    supersedes: []
+    applies_to: [pov, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "223"
+    notes: >-
+      Cross-referenced by Pack Five §C.3 as making the psychic-distance-band
+      docket item load-bearing rather than tidy-up; still open as of this
+      pack.
+
+  - id: R4-OP-HEMA_ASSIGNMENTS
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Named-character HEMA guard and cut assignments, unbuilt
+    status: pending
+    kind: definition
+    summary: >-
+      Named-character HEMA guard and cut assignments have been flagged
+      since Pack One and remain unbuilt.
+    verbatim: >-
+      Named-character HEMA guard and cut assignments. Flagged since Pack
+      One, still unbuilt. I will take it unprompted if nothing displaces
+      it.
+    amends: null
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "224"
+    notes: >-
+      Pack Thirteen §9 later states these run "in the same edition" as its
+      Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item
+      was eventually addressed.
+
+  - id: R4-OP-COST_TAXONOMY_AUDIT
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Cost-taxonomy audit across the major cast, unverified
+    status: pending
+    kind: definition
+    summary: >-
+      A cost-taxonomy audit across the major cast is unverified and likely
+      to fail.
+    verbatim: >-
+      Cost-taxonomy audit across the major cast. Unverified and likely to
+      fail.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Four.md
+      lines: "225"
+    notes: >-
+      Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an
+      ongoing production process); not the same task but the same
+      underlying gap.

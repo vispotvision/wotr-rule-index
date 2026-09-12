@@ -4,18 +4,18 @@ notion_id: "3bd58200-eb22-812c-ac2a-f1de377cc177"
 notion_url: "https://app.notion.com/p/Valen-Therosian-The-Gilded-Commandant-3bd58200eb22812cac2af1de377cc177"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:55:00.000Z"
+last_edited: "2026-09-12T18:48:00.000Z"
 verification: "unverified"
 ---
 
 # Valen Therosian · The Gilded Commandant
 
 > *"We do not preserve crowns by bowing to the cries of the broken. We preserve them by reminding the world why they still wear gold."*
-> **DEAD CANON — AND A TITLE CONFLICT.**
+> **DEAD CANON.**
 >
 > **The Praetorian March was struck from canon and archived**, alongside Nevara and Kaetra. Valen is *High Admiral of the Praetorian March*, serving the **Empire of Praetoria** through its **Naval High Command** and **Council of Sovereigns.** None of it exists.
 >
-> **Separately: his Trello card is titled "Envoy-Consul to the Old World Powers" and the body makes him a naval High Admiral.** Two different offices. *A diplomat and a fleet commander are not the same character, and the sheet never reconciles them.*
+> **Separately, ruled 2026-09-12: High Admiral stands.** The Trello card title named a different office. That was a mislabel, not a second career, and the fleet commander the body describes is the character. *One office. The sheet never had two men in it, only two labels.*
 >
 > **Held pending ruling.** All legacy content preserved below.
 
@@ -132,6 +132,6 @@ Ch. IV, *The Fires That Do Not Beg Forgiveness* · Ch. VII, *The Gathering of So
 ## XI · Open Rulings
 
 - **Praetoria and the Praetorian March are dead canon.** Re-home or strike.
-- **The card title and the body describe two different offices.** Envoy-Consul or High Admiral.
+- **The card title and the body described two different offices — ruled 2026-09-12: High Admiral stands.** The Trello card title was a mislabel.
 - **Valorion, Purganeth and Theros** are not among the sixty.
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage X.

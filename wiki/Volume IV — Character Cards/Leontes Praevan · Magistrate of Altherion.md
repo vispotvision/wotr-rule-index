@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-8115-8055-c659f615df47"
 notion_url: "https://app.notion.com/p/Leontes-Praevan-Magistrate-of-Altherion-3bd58200eb2281158055c659f615df47"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:53:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
 # Leontes Praevan · Magistrate of Altherion
 
 > *"No tyrant ever needed power — only the silence of those who feared to put it into ink."*
-> **Migrated with all content preserved.** *"Contractual Aether"* and *"Ink-Encoded Fate Alignment"* were not Essence types. **"First Path / Third Path / Sixth Path"** and *"Temperance Status: Advanced"* replaced with an actual Stage. **Altherion** is one of the nineteen orphaned realm entries pending keep-or-strike — carried, but this sheet is only as stable as that ruling.
+> **Migrated with all content preserved.** *"Contractual Aether"* and *"Ink-Encoded Fate Alignment"* were not Essence types. **"First Path / Third Path / Sixth Path"** and *"Temperance Status: Advanced"* replaced with an actual Stage. **Altherion** — a real place, ruled 2026-09-12: Inner World, northern rim (Stannvaard's placement wins).
 
 ---
 
@@ -23,10 +23,10 @@ verification: "unverified"
 
 ### Affiliation
 
-**Kingdom of Altherion**, Judicial Seat of Power. **Neutral Codex Guild**, Patron Magistrum. **Formerly Utopian Concord Auditor — resigned post-Fall.** Current Chief Arbiter, Altherion Central Concord Tribunal.
+**Kingdom of Altherion**, Judicial Seat of Power. **Neutral Codex Guild**, Patron Magistrum. **Formerly Concord Auditor, an ordinary Guild Accord audit post — resigned post-Fall.** Current Chief Arbiter, Altherion Central Concord Tribunal.
 > **Catalyst Event · Stage VIII, Transcendence.** *The Catalyst is taking a wound from the fracture record — the load-bearing one, the one Splintering promoted — and consciously making it structure. Not healing it. Making it hold weight on purpose.*
 >
-> **He resigned the Concord audit post after the Fall, and then built a career on the proposition that written law is the only restraint left.** *That is the wound made architecture: a man who watched an institution fail decided the answer was better paperwork, and has never once treated that as a joke.*
+> **He resigned the Concord audit post after the Fall — his own private name for the institutional failure he watched, which he has never dated for anyone — and then built a career on the proposition that written law is the only restraint left.** *That is the wound made architecture: a man who watched an institution fail decided the answer was better paperwork, and has never once treated that as a joke.*
 
 ---
 
@@ -105,7 +105,7 @@ verification: "unverified"
 
 ## VIII · Relationships
 
-**Caius Veylan** · Longtime colleague. **They share a belief that law is the only true restraint left after the collapse of divine order.**
+**Caius Veylan** · Longtime colleague. **They share a belief that law is the only true restraint left once you have watched an institution fail from the inside.**
 **Guild of Broken Binds** · **Consider Leontes the greatest threat to unregulated summoning in the frontier kingdoms.**
 
 ---
@@ -118,7 +118,7 @@ verification: "unverified"
 
 ## X · Open Rulings
 
-- **Altherion** pending keep-or-strike with the other eighteen orphaned realms.
-- **"Utopian Concord"** and **"the Fall"** appear across several Volume IV sheets — *Cernan Eryndor's Eryndor bloodline of Lowmere are also named as "exiles of Utopia."* **Worth settling as one ruling rather than four.**
+- **Altherion** — a real place, ruled 2026-09-12: Inner World, northern rim.
+- **"Concord Auditor"** and **"the Fall"** — ruled 2026-09-12. No Utopia tie. The audit post is an ordinary Guild Accord (Concord) one; the Fall is Leontes' private name for the institutional failure he watched, and it is undated. The earlier note's claim that the terms recur across Volume IV, and that Cernan Eryndor's line is named as exiles of Utopia, does not hold — Cernan's card carries no such line and is untouched. *The sheet's beat is a man who watched an institution fail. The vagueness is his, not the file's.*
 - **Parun glyph affinity Wy**, *"The Line that Binds,"* wants checking against the Master Glyph Index.
 > **Codex** · Materia / Material Science / Fixatio primary / Stage VIII.

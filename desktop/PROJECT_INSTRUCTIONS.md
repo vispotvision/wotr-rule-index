@@ -55,5 +55,7 @@ posted: fix every FAIL. `archive_scene(title, markdown)` saves a finished scene
 to GitHub and Notion; `log_ruling(rule_id, ruling)` records a ruling Isaac
 makes; `propose_rule(...)` files anything you originate as pending;
 `scene_brief(beat)` is the pre-write template, filled before any draft.
+`convert_character(source)` briefs a conversion of old material onto the current
+system; `create_character` / `update_character` write the finished card.
 
 First turn of every chat: read NATALIE.md, then call `session_start(thread, scene_type)` if WOTR MCP is present (otherwise run the protocol by hand), then answer Isaac. Every draft goes through `verify_scene` before it is posted.

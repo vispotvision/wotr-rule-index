@@ -20,6 +20,7 @@ NOTION_TOKEN is read from the environment, falling back to the user-level
 variable in the registry (Claude Desktop may have been started before it was set).
 """
 import argparse
+import json
 import os
 import re
 import subprocess
@@ -636,6 +637,252 @@ def cast_index(write: bool = True) -> str:
             a += [f"- {f}" for f in loose]
             arcs.write_text("\n".join(a) + "\n", encoding="utf-8", newline="\n")
     return text
+
+
+# --------------------------------------------------------------------------
+# characters: create and update cards in Notion + the mirror; convert old material
+
+CANON = Path(r"C:\Users\isaac\Documents\WOTR True Canon")
+FOW_XLSX = CANON / "FOW_Stat_and_Magic_System_Codex.xlsx"
+WIKI_MANIFEST = WIKI / ".manifest.json"
+SHEET_SECTIONS = [
+    ("I · Identity", "name, house/line and register (Moto canon; five strata), age, origin, affiliation, status, Level / Stage / Band on one line, and the Catalyst Event — everything downstream is its consequence"),
+    ("II · Soul Architecture", "Soul Crystal (Essence Core, Aether Shell, Attraction Layer), Crystal State, Aether Class, Essence Typology, Coherence Band and η"),
+    ("III · Work Architecture", "Wellspring harmonisations: which of the Sixty answer, Family and Physics Domain from the Master Codex, the Craft (Magicraft / Spellcraft / Runecraft / Draftcraft) and Category of each working"),
+    ("IV–V · Stats", "the Eight Primaries with Grade and Sub-Stat peaks: Gnosis, Tempering, Ardency, Resilience, Dexterity, Vitality, Dominion, Harmonics. Grades come off the Tier Grade table; the Stage sets the ceiling"),
+    ("VI–VII · Force and Flow", "Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η — the part a Measurewright could confirm"),
+    ("VIII–IX · Traits and Domain", "each Trait names the Lattice property it alters (R17-5-TRAIT_SCOPE); Domain state by Stage (seed at VII)"),
+    ("X · Techniques", "summary card (Effect, Cost, Limit, Counter, What nobody knows) + full Design Chain + Codex line + FOW line per technique; Counter mandatory (R12-3-COUNTER_MANDATORY); every technique statable as 'it does X to Y, which under Z produces W' (R17-2-THE_TEST)"),
+    ("XI · Spirit Axes", "who they are bonded to; sited here because the people someone loves are load-bearing"),
+    ("XII · Resistances", "what they can take: per-Wellspring / per-Family resistances, Resilience against hostile workings"),
+    ("XIII · Physical Description", "full inventory on first sight: hair by comparison, face, body with areas named, clothing with fit and wear, distinguishing marks (Table Rule 11)"),
+    ("XIV · Psychology", "what they refuse, what they survived, what they believe that costs them (character first); an unswappable voice"),
+    ("XV · Equipment", "weapons with mass, length, point of balance, armour tier beaten/failed (R13-9-ITEM_GUIDE_WEAPON_ENTRY); proof-marks; artefacts with their own Operation line"),
+    ("XVI · Temperance Record", "the ladder climbed: each Stage reached, its threshold catalyst, and when"),
+    ("XVII · Fracture Log", "every fracture, consolidated or unconsolidated, with its price — the unconsolidated ones are the character"),
+]
+
+
+def _wiki_manifest() -> dict:
+    return json.loads(WIKI_MANIFEST.read_text(encoding="utf-8")) if WIKI_MANIFEST.exists() else {}
+
+
+def _find_page_id_by_title(title: str) -> tuple[str | None, str | None]:
+    m = _wiki_manifest()
+    for pid, v in m.items():
+        if v["title"].lower() == title.lower():
+            return pid, v["rel"]
+    for pid, v in m.items():
+        if title.lower() in v["title"].lower():
+            return pid, v["rel"]
+    return None, None
+
+
+def _publish_helpers():
+    os.environ.setdefault("NOTION_TOKEN", _env().get("NOTION_TOKEN", ""))
+    import notion_publish as npub
+    return npub
+
+
+def _write_mirror(rel: str, title: str, pid: str, section: str, markdown: str, tags: list[str]) -> Path:
+    p = WIKI / rel
+    p.parent.mkdir(parents=True, exist_ok=True)
+    body = markdown.strip()
+    if not re.match(r"^#\s", body):
+        body = f"# {title}\n\n{body}"
+    fm = {"title": title, "notion_id": pid, "notion_url": f"https://www.notion.so/{pid.replace('-', '')}",
+          "section": section, "tags": tags, "last_edited": datetime.now().isoformat(timespec="seconds"), "verification": None}
+    head = ["---"] + [f"{k}: {json.dumps(v, ensure_ascii=False)}" for k, v in fm.items()] + ["---", ""]
+    p.write_text("\n".join(head) + body + "\n", encoding="utf-8", newline="\n")
+    m = _wiki_manifest()
+    m[pid] = {"rel": rel, "edited": fm["last_edited"], "title": title}
+    WIKI_MANIFEST.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
+    return p
+
+
+@server.tool()
+def create_character(name: str, markdown: str, volume: str = "Volume I — Character Cards", tags: list[str] | None = None) -> str:
+    """Add a new character card: creates the Notion page under the given volume
+    (Volume I / III / IV / V — Character Cards, or 'Characters'), writes the wiki
+    mirror file, commits and pushes. markdown is the full card in the seventeen-section
+    format (see convert_character for the skeleton). Refuses a name that already has a
+    card; use update_character for those. Numbers must come from the FOW tables or
+    Isaac; anything estimated is marked pending in the card."""
+    pid_existing, rel_existing = _find_page_id_by_title(name)
+    if pid_existing and rel_existing and name.lower() == _wiki_manifest()[pid_existing]["title"].lower():
+        return f"a card named '{name}' already exists ({rel_existing}); use update_character"
+    vol_id, vol_rel = _find_page_id_by_title(volume)
+    if not vol_id:
+        return f"no volume page named '{volume}' in the wiki mirror"
+    npub = _publish_helpers()
+    blocks = npub.md_to_blocks(markdown if re.match(r"^#\s", markdown.strip()) else markdown)
+    try:
+        pid = npub.create_page({"page_id": vol_id}, name, blocks)
+    except Exception as e:  # noqa: BLE001
+        return f"Notion refused the page: {str(e)[:300]}"
+    section = _wiki_manifest()[vol_id]["title"]
+    rel = f"{section}/{name}.md"
+    p = _write_mirror(rel, name, pid, section, markdown, tags or ["Characters"])
+    _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
+    _git("commit", "-q", "-m", f"Add character card: {name}\n\nCreated from Claude Desktop via WOTR MCP; page {pid} under {section}.")
+    pcode, pout = _git("push", "-q", "origin", "master")
+    return f"created '{name}' in Notion under {section} (page {pid}), mirrored to {rel}; " + ("pushed" if pcode == 0 else f"push failed: {pout[-200:]}")
+
+
+@server.tool()
+def update_character(name: str, markdown: str) -> str:
+    """Replace an existing character card's body in Notion (same page id, links
+    survive) and in the wiki mirror, then commit and push. markdown is the full
+    replacement card, not a diff."""
+    pid, rel = _find_page_id_by_title(name)
+    if not pid:
+        return f"no card named '{name}' in the wiki mirror; use create_character"
+    npub = _publish_helpers()
+    try:
+        npub.replace_body(pid, npub.md_to_blocks(markdown))
+    except Exception as e:  # noqa: BLE001
+        return f"Notion refused the update: {str(e)[:300]}"
+    title = _wiki_manifest()[pid]["title"]
+    section = rel.split("/")[0]
+    old = _read(WIKI / rel) if (WIKI / rel).exists() else ""
+    tags = []
+    p = _write_mirror(rel, title, pid, section, markdown, tags)
+    _git("add", "--", str(p.relative_to(ROOT)), "wiki/.manifest.json")
+    _git("commit", "-q", "-m", f"Update character card: {title}\n\nReplaced from Claude Desktop via WOTR MCP; page {pid}.")
+    pcode, pout = _git("push", "-q", "origin", "master")
+    return f"updated '{title}' (page {pid}, {len(markdown.split())} words, was {len(old.split())}); " + ("pushed" if pcode == 0 else f"push failed: {pout[-200:]}")
+
+
+def _fow_tables() -> str:
+    if not FOW_XLSX.exists():
+        return "(FOW_Stat_and_Magic_System_Codex.xlsx not found; check the canon folder)"
+    try:
+        import openpyxl
+    except ImportError:
+        return "(openpyxl missing: pip install openpyxl)"
+    wb = openpyxl.load_workbook(FOW_XLSX, read_only=True, data_only=True)
+    out = []
+    for sheet, first, last in (("Core Progression", 1, 30), ("Physical Benchmarks", 1, 18)):
+        ws = wb[sheet]
+        out.append(f"### {sheet}")
+        for r in list(ws.iter_rows(values_only=True))[first - 1:last]:
+            cells = [str(c).strip() for c in r if c is not None and str(c).strip()]
+            if cells:
+                out.append("| " + " | ".join(cells) + " |")
+        out.append("")
+    return "\n".join(out)
+
+
+def _trello_cards(obj) -> list[dict]:
+    """Cards out of a Trello export (board JSON, a list of cards, or one card)."""
+    if isinstance(obj, dict) and "cards" in obj:
+        lists = {l["id"]: l.get("name", "") for l in obj.get("lists", [])}
+        cards = []
+        for c in obj["cards"]:
+            if c.get("closed"):
+                continue
+            cards.append({"name": c.get("name", ""), "list": lists.get(c.get("idList"), ""), "desc": c.get("desc", ""),
+                          "labels": [l.get("name", "") for l in c.get("labels", [])],
+                          "checklists": [(cl.get("name", ""), [i.get("name", "") for i in cl.get("checkItems", [])])
+                                         for cl in obj.get("checklists", []) if cl.get("idCard") and cl.get("idCard") == c.get("id")],
+                          "custom": c.get("customFieldItems", [])})
+        return cards
+    if isinstance(obj, list):
+        return [{"name": c.get("name", ""), "list": "", "desc": c.get("desc", ""), "labels": [l.get("name", "") for l in c.get("labels", [])], "checklists": [], "custom": []} for c in obj if isinstance(c, dict)]
+    if isinstance(obj, dict):
+        return [{"name": obj.get("name", ""), "list": "", "desc": obj.get("desc", obj.get("description", "")), "labels": [], "checklists": [], "custom": []}]
+    return []
+
+
+@server.tool()
+def trello_cards(json_path: str, list_name: str = "", query: str = "") -> str:
+    """List the cards in a Trello board export (Trello → Menu → Print and export →
+    Export as JSON). Filter by list name or a keyword. Use the card name with
+    convert_character(source=<the card's text>) or pass the whole export path."""
+    p = Path(json_path)
+    if not p.exists():
+        return f"no file at {json_path}"
+    cards = _trello_cards(json.loads(p.read_text(encoding="utf-8", errors="replace")))
+    if list_name:
+        cards = [c for c in cards if list_name.lower() in c["list"].lower()]
+    if query:
+        cards = [c for c in cards if query.lower() in (c["name"] + c["desc"]).lower()]
+    out = [f"{len(cards)} cards" + (f" in list '{list_name}'" if list_name else "")]
+    for c in cards[:200]:
+        out.append(f"- {c['name']}  [{c['list']}]  {len(c['desc'].split())} words" + (f"  labels: {', '.join(c['labels'])}" if c["labels"] else ""))
+    return "\n".join(out)
+
+
+@server.tool()
+def convert_character(source: str, name: str = "", json_path: str = "", target_volume: str = "Volume I — Character Cards") -> str:
+    """Convert an old character record (a Trello card's JSON or text, an old sheet,
+    any prose) into the current system: returns a conversion brief — the source
+    material, every old-register name flagged with its Moto-canon form, the
+    seventeen-section skeleton with what each section must hold and which rules
+    govern it, the FOW Band / Stage / Tier Grade tables so numbers land on the
+    real scale, and the rule loadout. You write the card from the brief, then
+    create_character saves it. Never invent a number: anything the source does not
+    give and the tables do not fix is written as 'pending Isaac' in the card.
+    source may be raw text, a JSON string, or a card name when json_path is given."""
+    text = source
+    cards = []
+    if json_path:
+        p = Path(json_path)
+        if p.exists():
+            cards = _trello_cards(json.loads(p.read_text(encoding="utf-8", errors="replace")))
+            hit = [c for c in cards if source.lower() in c["name"].lower()] if source else []
+            if hit:
+                c = hit[0]
+                name = name or c["name"]
+                text = f"Card: {c['name']}\nList: {c['list']}\nLabels: {', '.join(c['labels'])}\n\n{c['desc']}\n" + "".join(
+                    f"\nChecklist {cl}:\n" + "\n".join(f"- {i}" for i in items) for cl, items in c["checklists"])
+    else:
+        try:
+            obj = json.loads(source)
+            cs = _trello_cards(obj)
+            if cs:
+                c = cs[0]
+                name = name or c["name"]
+                text = f"Card: {c['name']}\nList: {c['list']}\nLabels: {', '.join(c['labels'])}\n\n{c['desc']}\n" + "".join(
+                    f"\nChecklist {cl}:\n" + "\n".join(f"- {i}" for i in items) for cl, items in c["checklists"])
+        except (json.JSONDecodeError, TypeError):
+            pass
+    name = name or (re.search(r"(?m)^#\s+(.+)$", text).group(1).strip() if re.search(r"(?m)^#\s+(.+)$", text) else "Unnamed")
+
+    # stale names in the source
+    stale = []
+    for old, new in _reversion_map():
+        n = len(re.findall(r"(?<![\w\-])" + re.escape(old) + r"(?![\w\-])", text))
+        if n:
+            stale.append(f"{old} ×{n} → {new}")
+    existing_pid, existing_rel = _find_page_id_by_title(name)
+    numbers = re.findall(r"\b(?:Level|Stage|Band|Grade|EU|η|AU/s)\b[^.\n]{0,40}", text)
+
+    rules_cs, _ = _select(["character-sheet", "stats", "naming", "codex", "magic-design"], ["live"])
+    lines = [f"# CONVERSION BRIEF — {name} → {target_volume}", ""]
+    if existing_pid:
+        lines.append(f"NOTE: a card already exists ({existing_rel}); this is an update, use update_character when done.")
+    lines += ["## Source material (verbatim, the only facts you may use)", "", text.strip()[:12000], ""]
+    if stale:
+        lines += ["## Old-register names in the source — write the governing form", ""] + [f"- {s}" for s in stale] + [""]
+    lines += ["## Numbers present in the source (everything else numeric is pending Isaac)", ""] + ([f"- {n.strip()}" for n in numbers[:40]] or ["- none"]) + [""]
+    lines += ["## The seventeen-section skeleton — use these exact headings", ""]
+    for i, (h, what) in enumerate(SHEET_SECTIONS, 1):
+        lines.append(f"## {h}\n  {what}")
+    lines += ["", "Format reference: any card in Volume I (character('Cozbi Mahuo')). Under 16,348 characters.", ""]
+    lines += ["## FOW scale (from FOW_Stat_and_Magic_System_Codex.xlsx)", "", _fow_tables()]
+    lines += ["## Conversion rules", "",
+              "- Old stats map to the Tier Grade table by range; a Stage sets the stat ceiling; a Level sets the Band. If the source gives none of these, write 'Level/Stage/Band: pending Isaac' and do not pick.",
+              "- Names: Moto register for the Moto bloodline and its lines (Kōkan, Byakuya, Kurenai, Tenrai, Shirogane, Akagane, Amagiri); five strata per the Inner World Naming Amendment; naming register is not ethnicity.",
+              "- Every technique: summary card + Design Chain + Codex line (glyphs, Wellspring, Family, Physics Domain, Category, Stage) + FOW line; Counter mandatory; name the real phenomenon (R13-3-PHENOMENON_MANDATE).",
+              "- Character first: what they refuse, what they survived, what they believe that costs them; then the phenomenon; then the Codex.",
+              "- Anything you originate (a Wellspring assignment, a Trait, a fracture the source never mentioned) is marked 'originated, pending ratification' in the card and filed with propose_rule if it is a rule.",
+              "", f"## Rule loadout (character-sheet stats naming codex magic-design) — {len(rules_cs)} live, brief", ""]
+    lines += [_fmt(r, full=False) for r in rules_cs[:70]]
+    if len(rules_cs) > 70:
+        lines.append(f"... {len(rules_cs) - 70} more via load_rules")
+    lines += ["", "Then: write the card → verify_scene(markdown) for prose sections → create_character(name, markdown, volume)."]
+    return "\n".join(lines)
 
 
 def main() -> int:

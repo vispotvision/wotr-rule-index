@@ -99,6 +99,8 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `scene_brief(beat, thread, scene_type, culture, characters)` | the pre-write template assembled from the rules, with FOW lines and the loadout |
 | `stale_names(scope)` | the Büri/Moto sweep: every file still carrying a struck term, with its governing form |
 | `cast_index()` | writes `scenes/CAST.md` (who appears where) and a `scenes/ARCS.md` reading-order skeleton |
+| `create_character(name, markdown, volume)`, `update_character(name, markdown)` | new or replaced character card in Notion + the mirror, committed and pushed |
+| `convert_character(source, json_path)`, `trello_cards(json_path)` | a conversion brief from old material (a Trello export, an old sheet): source facts, stale names with governing forms, the seventeen-section skeleton, the FOW scale tables, the rules |
 | `sync_now()` | runs `build/sync.ps1` |
 
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP

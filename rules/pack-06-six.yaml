@@ -576,7 +576,7 @@ rules:
     pack_number: 6
     section: "§13"
     title: Standing Inventory build order
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       What order the remaining cultures' Standing Inventories are built in.
@@ -592,6 +592,13 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "157"
+    notes: >-
+      MOOT as of 2026-09-12: all six remaining cultures (Accord, Dawi, Moto,
+      Eresse, Expanse, Korvaeth) were drafted at once by a workflow rather
+      than in the proposed sequence, so there is no "next" culture left to
+      order. Whether Stannvaard/Ketsuen/Nalūn/the Yukari enclave map onto
+      any of the six built, or are still-unbuilt cultures of their own, is
+      not addressed here and not decided.
     notes: null
 
   - id: R6-13-INVENTORY_FORMAT_PENDING
@@ -599,7 +606,7 @@ rules:
     pack_number: 6
     section: "§13"
     title: Is the Inventory a Notion wiki or a markdown guide
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the Standing Inventory is a Notion wiki section or a standing
@@ -616,4 +623,10 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "158"
-    notes: null
+    notes: >-
+      DECIDED IN PRACTICE, 2026-09-12, against this row's own proposal: all
+      six built as standing markdown guides (desktop/inventories/*.md), not
+      Notion pages. The WOTR MCP's session_start/scene_brief already read
+      from that folder (`_inventory`), so this is load-bearing, not a
+      placeholder choice -- reopening it would mean migrating six live
+      files into Notion for no functional gain.

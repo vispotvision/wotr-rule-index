@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-24 outstanding.
+22 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -149,18 +149,6 @@ Left pending rather than closed: Pack Fifteen §4 (live, ratified) later says na
 > Retroactive application. The eight Kharven prose scenes were written under the manhwa directive. Forward-only, or does the arc get a register pass?
 
 Until ruled, Natalie writes to the proposed answer (yes, Martin wins) and flags any passage where the choice visibly bites (source line 187).
-
-## R6-13-INVENTORY_FORMAT_PENDING — Is the Inventory a Notion wiki or a markdown guide
-
-*Pack Six §13, blocks: standing-inventory, documents*
-
-> Whether the Inventory is a Notion wiki section or a standing markdown guide. Proposed: Notion, one page per culture under a new Standing Inventory section page, since it will be queried mid-scene.
-
-## R6-13-INVENTORY_ORDER_PENDING — Standing Inventory build order
-
-*Pack Six §13, blocks: standing-inventory, worldbuilding*
-
-> Inventory build order. Kharven and the Moto are drafted. Proposed sequence after: Stannvaard, the Dawi, Ketsuen, Nalūn, the Yukari enclave.
 
 ## R6-13-RETROACTIVE_PENDING — Does a Ladder pass run across the archive
 

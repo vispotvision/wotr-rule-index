@@ -30,6 +30,79 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — wiki-wide docket sweep, fifth batch (the researched nine)
+
+Nine items researched read-only first (each with verbatim flags, evidence,
+options and a text-backed recommendation), then put to Isaac in three
+AskUserQuestion rounds. Rulings:
+
+- **Cymorath.** Cymorath is the Air of Ascent exactly as Fracture of Worlds
+  gives it (Fulguria; freedom, motion). The frost/stasis portfolio that the
+  struck Codex "Crymorath" carried is re-homed on Vohrin — the Abyssal
+  Depths Titan FOW III already names for thermal extraction — Family
+  Caloria, Thermodynamics, the route Cryost Ascendant, Mizuki Moto and
+  Draven's card already took. Closes the follow-on left open in the first
+  batch. R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN. In progress.
+- **Verinus's black stones.** An analogue, not Crevice Shale: a distinct
+  material made when the Void was completed, which instruments cannot tell
+  from Shale at a distance; Article III names Shale and not this, so
+  Enforcement can hang people on a misreading (which "he gets the black
+  stones wrong on purpose" already sets up). New T8 Material Index row; the
+  Shale pages untouched. R28-1-BLACK_STONES_SHALE_ANALOGUE. In progress.
+- **The dawn Sacrament-bond (Verinus/Aurelian).** Anchored on Aurelian's
+  soul holding Verinus's name at weight — the Rubric's own definition —
+  fixed by declaration inside the rite over his refusal; Fixatio is the
+  gloss for why it holds; no release valve.
+  R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION. In progress.
+- **Darius's refusal of the Will of Judger seat.** An intentional mystery,
+  codified as withheld: his reason is never given in his own voice; the
+  other characters' partial readings stand; nothing pre-empted for a later
+  reveal. The Stannvaard gap row stops being re-flagged. Separately noted
+  for Isaac: the pages disagree on how long the seat has been refused
+  (six vs. eleven years) — bookkeeping, not ruled. In progress.
+- **Valen Therosian's office.** High Admiral of the Praetorian March
+  stands; "Envoy-Consul to the Old World Powers" was a Trello-title
+  mislabel and is dropped. The Praetoria re-home-or-strike flag stays
+  open. In progress.
+- **"Utopian Concord" / "the Fall" (Leontes Praevan).** An ordinary Accord
+  audit post; "the Fall" is Leontes' private name for the institutional
+  failure he watched — undated, no tie to Utopia or the Shattering. His
+  note's claims that the terms recur on other sheets and that Cernan is
+  "named as exiles of Utopia" were false and are struck. In progress.
+- **Xanelor Rafminar, remaining §IX.** Stage IX ratified as written; the
+  Spirit-Fanged Circle stays, carried unattested; the Covenant of the
+  Wildbound Fang is struck (its only definition was Fenriris's followers);
+  Rikudoku Moto is the figure already attested twice — Kairen Moto's
+  estranged father and the Veil practitioner. In progress.
+- **Obrenkael, remaining §XIII.** Kwon Hae-ryu's EU Reserve is 90,000,000
+  (log-linear on Level between Ara Min and Borin, confirmed by the
+  Borin→Mu-jin slope), Call Cost ≈ 8,100,000 at 9%; the Codex amendment is
+  taken — [Abys] Deep is attested at Oblation and Fluxia
+  (R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA); Uncounted stays a Trait
+  and names the Lattice property it alters, never a number; the Bench of
+  Attribution hears the Arbitration Division's objection as a Reservation
+  pending determination; the Praetoria retcon touches none of it. In
+  progress.
+- **The "nineteen orphaned realms".** No list of nineteen ever existed;
+  eight names are tagged and all eight are ruled on. The "nineteen" wording
+  is retired. Altherion → Inner World, northern rim (Stannvaard's
+  placement; this amends this morning's Old World ruling, whose quarter is
+  now Eresse, Varūn, Iampu). Varūn → Old World. Braqth and Epprenea →
+  Outer World, Southern Pan; the spelling "Epprenea"/"Epprenean" wins over
+  Epphrene/Epphrenean. Anguz → Inner World, North (added to the page from
+  the Material Index and coin table only). Senoth stays under "Names That
+  No Longer Attach to Ground". **Mireya is struck — it does not exist;
+  retconned out of all sixteen pages, no replacement place named.**
+  **Vellsorea → the New World.** In progress.
+- **New, not yet executed — the New World retcon.** Isaac, ruling on
+  Vellsorea: "Place it in the New World since we are retconning most of
+  its landmasses and moving Eresse to the New World and its kingdoms."
+  Eresse (Saeloria's queendom) and its kingdoms move from the Old World
+  quarter to the New World; most of the New World's landmasses are being
+  retconned. Not specified further; a read-only research pass is mapping
+  what the wiki and scenes currently place in both quarters so the
+  questions can be precise. Nothing moved yet.
+
 ## 2026-09-12, still later — wiki-wide docket sweep, fourth batch
 
 - **Fenriris.** Struck — non-canon, unattested. Xanelor Rafminar's card

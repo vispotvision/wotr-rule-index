@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-469 live of 581 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+473 live of 585 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (23)
+## adjudication (25)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -141,6 +141,18 @@ A seated Domain corrodes cohesion and the line breaks, with killing happening in
 Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
+
+### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
+
+A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
+
+> Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
+
+### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
+
+The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
+
+> Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
 ## character-sheet (57)
 
@@ -489,7 +501,7 @@ The three layers do not fuse identically. The Essence Cores never fuse: each don
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
 
-## codex (33)
+## codex (35)
 
 ### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
 
@@ -688,6 +700,18 @@ Texture comes from the Standing Inventory; mechanism comes from the Codex; a sce
 The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
 
 > The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
+
+### R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA [Abys Deep Codex Amendment Ruling Standing Ruling]
+
+The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
+
+> [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
+
+### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
+
+Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+
+> re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
 ## combat (59)
 
@@ -1559,7 +1583,7 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
-## items (18)
+## items (19)
 
 ### R18-5-ALCHEMY_SOURCE_ORDER [Pack Eighteen §5]
 
@@ -1669,7 +1693,13 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
 
-## magic-design (70)
+### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
+
+The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
+
+> Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
+
+## magic-design (72)
 
 ### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
 
@@ -2091,7 +2121,19 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (93)
+### R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA [Abys Deep Codex Amendment Ruling Standing Ruling]
+
+The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
+
+> [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.
+
+### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
+
+Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+
+> re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+## magic-mechanism (95)
 
 ### R18-4-GLYPH_NAMING_CONTEXTS [Pack Eighteen §4]
 
@@ -2621,6 +2663,12 @@ The Offering converts opponent capability into expenditure; the Standing convert
 
 > | The Offering | Something expendable is put where the opponent must deal with it | Converts the opponent's capability into expenditure. The construct is not expected to win. It is expected to cost. |
 
+### R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN [Cymorath Portfolio Ruling Standing Ruling]
+
+Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+
+> re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
 ### R22-4-SYSTEM_TERMS_TABLE [Moto Reversion Ledger IV]
 
 Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
@@ -2644,6 +2692,12 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+
+### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
+
+A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
+
+> Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
 
 ### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
 
@@ -5875,7 +5929,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (102)
+## worldbuilding (103)
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -6488,3 +6542,9 @@ The Host is not speaking scripture; they report accurately, and their difficulty
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
+
+The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
+
+> Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested

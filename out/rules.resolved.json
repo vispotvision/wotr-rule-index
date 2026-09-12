@@ -2935,6 +2935,132 @@
     "superseded_by": []
   },
   {
+    "id": "R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN",
+    "pack": "Cymorath Portfolio Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "Cymorath is the Air of Ascent; frost and stasis are Vohrin, Caloria, Thermodynamics",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.",
+    "verbatim": "re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "Cymorath / Vohrin",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "magic-design",
+      "codex"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Raised as an open ruling on wiki/Summoned and Bound/Haelvorn · Housecat.md (Section XIII), whose blockquote recorded the spelling ruling and flagged the portfolio clash it exposed. Isaac ruled the same day; the blockquote was rewritten in Notion to a resolved statement (the verbatim above is quoted from it) and the mirror re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion, mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt, Coldblood Concentrate); The Arctic Lion — Sovereign Configuration (header, Aethersteel, Frost Array, Glacium, three-node architecture and every frost technique's Codex line); Bloodbind Surge; Hunter's Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter Rend; The Old World — The Western Wearing (Glacium); The Abyssal Depths (The Stillwater Rite's Codex); The Alchemical Index (Stasisline Needles, Stillwater Draught); The Material Index T5–T9 (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof, Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as Cymorath because the usage is motion, vector-field, wind or vibration reading rather than cold: the FOW V and Fulguria canon pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettai, Mizuki Moto (vibration through frost mist, not the frost itself), Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts, Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear, Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the Making of the God Hand, and the Niran scenes. Judgment calls: the Arctic Lion sheet's Fulguria-match row now states that the Family match runs through the Judicium substrate and the frost layer is Caloria; whether a Caloria layer inside a Fulguria structure carries a §14 stress figure the way the Ruins layer does is not ruled and was not invented. Stasisline Needles (rate arrest, no frost) was read as stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's Identity line already routed frost through Vohrin and were the model.",
+    "superseded_by": []
+  },
+  {
+    "id": "R28-1-BLACK_STONES_SHALE_ANALOGUE",
+    "pack": "Voidfall Stone / Black Stones Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "The black stones are an analogue of Crevice Shale, not Crevice Shale",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word \"shale\" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.",
+    "verbatim": "Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested",
+    "amends": [
+      {
+        "guide": "The Master Material Ledger",
+        "locus": "Material Index T8",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "items",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Verbatim is the \"What it is\" cell of the Voidfall Stone row on wiki/The Master Material Ledger/The Material Index · T5–T9.md (T8 band; Notion table_row 3d958200-eb22-81ed-8ba2-eb665a8e3b34), plain text with the bold/italic markup stripped. Behaviour in the row is limited to what the scenes show: matte, \"taking the light and giving nothing back\", none larger than a loaf, cracked the night-stone beside a Kharven woodpile (02:125); no instrument to read them and no Measurewright to say \"shale\" (02:129); eleven on the Deepvein station floor with every sealed instrument in the lower vaults at a reading no watchman could account for (06:103). Whether it fractures Realm law as Shale does is deliberately left unrecorded. The Crevice Shale row on the same page carries one appended italic cross-reference to the new row; its own text is unchanged, as are the Shale entries on the Master Material Ledger, the Southern Pan, the Four Ceilings, the Concordance of Ages and the Eight Families pages. Scene 02 note 2 rewritten to a resolved statement; scenes 03:33 and 06:103 are prose using the stones and carry no flag, so untouched. Name chosen in the ledger's own register of plain formation-names (Starcall Pearl, Moonblight Ore, Fatesunder Cord): \"Voidfall\" states the source and the event and keeps \"shale\" out of the name, since the point of the ruling is that the stones are not shale and the word is the misreading.",
+    "superseded_by": []
+  },
+  {
+    "id": "R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION",
+    "pack": "Sacrament Anchor Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "A Sacrament or Transposition anchor is a soul holding the celebrant's name at weight, fixed by declaration inside the rite",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.",
+    "verbatim": "Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite (\"Do you consent.\" / \"No.\" / \"Entered.\"), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "Transposition / Sacrament anchors",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "General-purpose rule; the Verinus/Aurelian dawn Sacrament (scenes 01-05 of the Verinus/Aurelian arc) is the worked example, not the scope. What the text gives: (1) the anchor definition is the Rubric on Transposition as quoted at the threshold of scenes/02 (\"The anchor is a soul that holds the celebrant's name at weight and will hold it while he is not in his place. The rite does not care whether the anchor has been asked.\"); (2) the fixing is the declaration made inside the rite (scenes/01: \"From this hour the surety is the Palatine's. Your four and your room.\" then \"Do you consent.\" / \"No.\" / \"Entered.\"; scenes/04: \"the office would not permit the amendment, because the anchor had been declared at the third clause and a declaration made inside a rite is a fact about the world\"); (3) the holding law is Fixatio, which wiki/Spellcraft/Transposition.md names as the rite's secondary harmonisation \"for the Anchor Constructs the card itself says the rite is dangerous to attempt without\", and whose law per Fracture of Worlds V is \"What is held by Fixatio stays held\". Persistence: the line stays tied when the celebrant leaves the world, becomes the wall of an Entombment, and is taken up with the seal (scenes/03 \"It would stay tight.\"; scenes/04 \"The line to Aurelian came up with the hand and stayed tied.\"). On ending: Transposition.md contains no dissolution or release clause for an anchor bond; its only duration language is that \"the rite holds only while the officiant's attention and the coupling both hold\", which describes the transposition itself stranding on failure, not the anchor bond releasing, and the scenes narrate the bond surviving the officiant's departure from the world. The rule is therefore silent on ending: nothing in the text ends it, and no ending is invented here. Distinguished from the Wellspring-of-Grace gloss in scenes/01 (\"a rival bond of higher affinity displaces the existing bond\"): that is Benediction's affinity-competition failure mode and does not apply to a Fixatio-held anchor, which is the \"not a displaceable affinity bond\" clause of the ruling. Flagged, not resolved: Aurelian's Volume I card trait \"Nothing Reaches Him In Time\" says no working \"that requires a completed act to bind can bind him\"; this ruling reads the anchor as fixed by the celebrant's declaration, not by any completed act of the anchor's, so the two are consistent on their face, but the card trait was not amended and the reading is recorded here rather than written into the trait. The three scene flags were resolved in place and one Spirit Axes line recording the bond was added to each of Verinus VII's and Aurelian's Volume I cards in Notion, mirrors re-exported.",
+    "superseded_by": []
+  },
+  {
+    "id": "R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA",
+    "pack": "Abys Deep Codex Amendment Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "[Abys] Deep is attested at Oblation and Fluxia",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.",
+    "verbatim": "[Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.",
+    "amends": [
+      {
+        "guide": "The Master Codex",
+        "locus": "[Abys] Deep",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "codex",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Raised as an open ruling on wiki/Summoned and Bound/Obrenkael · The Mule.md (Section XIII), where Deadweight's chain [Ob] · [Abys] · [Th] was flagged because neither [Abys] Deep nor [Th] Foundation was attested at Oblation in the Master Glyph Index. Isaac took the amendment for [Abys] only. Recorded in three places, all in Notion and re-exported: the Amendments section added to the Master Glyph Index page (wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md, the text quoted in `verbatim`); the Deadweight Codex Assignment line on the Mule's card (\"Amended 2026-09-12: [Abys] Deep's Master Codex row now carries Oblation among its attested Wellsprings and Fluxia among its attested Families\"); and the card's Section XIII paragraph, now \"Codex amendment taken.\" The Haelvorn · Housecat cross-reference that pointed at the pitched-not-taken state was updated in the same pass. Deadweight stands as drafted, is not rebuilt, and remains the summon roster's one cross-family chain. `kind` is `definition` rather than `amendment` because the rule schema's kind enum has no `amendment` value and the checker is not to be changed; the row defines what [Abys] Deep's attested lists now read, which is what R25-1 (the other direct ruling of this shape) also files as a definition.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

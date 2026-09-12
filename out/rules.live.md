@@ -1,6 +1,6 @@
 # Live rules by domain
 
-468 live of 580 extracted.
+469 live of 581 extracted.
 
 ## adjudication (23)
 
@@ -28,7 +28,7 @@
 - **R2-6-DOMAINS_BREAK_NOT_KILL** [Pack Two Amendment Six.4] A seated Domain corrodes cohesion and the line breaks, with killing happening in the rout; assess a Domain-class technique by Re-form rather than by casualties.
 - **R1-2-COUNTERPLAY_THREE_WAYS** [Pack One Amendment Two] Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
-## character-sheet (56)
+## character-sheet (57)
 
 - **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
 - **R17-3-SIX_LINE_CARD** [Pack Seventeen §3] The technique card format becomes six ordered lines — Operation, Manifestation, Cost, Limit, Counter, What nobody knows — with the Operation (mechanism) line first because every other line derives from it, plus a small Codex-assignment line at the foot.
@@ -86,6 +86,7 @@
 - **R20-5-THIRD_NAME_SUPERSEDING** [Naming Guide Amendment Part Five] When a Third Name becomes dominant, both the personal name and institutional rank recede — the title becomes the person, and the birth name is what the family uses and nobody else remembers.
 - **R24-1-FLESHSHAPER_SIGNATURES_AND_TELL** [Racial Voice and Dialect Guide Amendment I] Signature lines "That closes" (anything settled) and "Who holds it?" (their first question about any structure); under stress they become more procedural, not less, shortening to pure sequence with the reasons dropped.
 - **R24-3-HOST_CORE_DEVICE** [Racial Voice and Dialect Guide Amendment III] A Host gives an answer that is correct and unusable, aware of this and unable to do anything about it — accurate rather than confident, which is what stops them sounding like scripture.
+- **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
 
 ## codex (33)
 
@@ -370,7 +371,7 @@
 - **R1-2-SUSTAIN_DEFINED** [Pack One Amendment Two] Sustain is how long an effect holds before Essence cost forces cessation, and what the practitioner cannot do while holding it — the load-bearing clause, since it tells you what the enemy is free to do during the window.
 - **R1-2-REFORM_DEFINED** [Pack One Amendment Two] Re-form is how long an affected formation needs to recover cohesion, and whether it recovers at all — the field that decides engagements and the one authors most often fail to decide before writing.
 
-## magic-mechanism (92)
+## magic-mechanism (93)
 
 - **R18-4-GLYPH_NAMING_CONTEXTS** [Pack Eighteen §4] Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.
 - **R18-4-GLYPH_QUOTED_EXACTLY** [Pack Eighteen §4] A glyph appearing in a chant, an inscription or a Wordform Chain must be quoted exactly as the Master Glyph Index gives it.
@@ -464,6 +465,7 @@
 - **R22-5-SEVEN_WORKS_TABLE** [Moto Reversion Ledger V] Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
 - **R22-7-FUSI_VA_KEPT** [Moto Reversion Ledger VII] Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+- **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
 
 ## mass-combat (38)
 
@@ -904,7 +906,7 @@
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R22-7-KHARVEN_INVENTORY_KEPT** [Moto Reversion Ledger VII] The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
-## stats (33)
+## stats (34)
 
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 - **R14-2-ESTIMATE_MARKING** [Pack Fourteen §2] Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
@@ -939,6 +941,7 @@
 - **R2-6-VOIDIC_COUNTER** [Pack Two Amendment Six.5] A Voidic practitioner is a poor attacker and the finest suppression instrument in the world; Voidic techniques are priced as artillery — slow to bring, slow to move, unable to defend themselves, needing a guard detachment, and affecting friendly output as readily as hostile.
 - **R2-6-SPEED_RULING** [Pack Two Amendment Six.6] Speed is Essence; a character who arrives fast arrives depleted, and there is no free travel at Grade — a scene with one has spent a resource silently.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+- **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
 
 ## verification (84)
 

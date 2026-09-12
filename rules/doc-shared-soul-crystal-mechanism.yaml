@@ -1,0 +1,127 @@
+# Shared Soul Crystal Mechanism. Standalone doc, no pack number; originated
+# 2026-09-12 in a Claude Code session, not extracted from any amendment
+# pack. Isaac's ruling that day: "write the mechanism -- a shared/split
+# Soul Crystal is now a real, documented setting-wide thing, not a one-off
+# exception just for this one Choir." Uses R26 as the next standalone-doc
+# id-numeral bucket after R25 (the Obsession Force / Attraction Path Gate
+# Ruling, filed the same day); this does not imply pack precedence
+# ordering, which pack_number:null already disables.
+# Grounded in the existing single-donor Soul Crystal structure (Essence
+# Core / Aether Shell / Attraction Layer, Coherence Band, eta) documented
+# in wiki/The Magic System/The Core Vocabulary.md and wiki/The Magic
+# System/Tier Grade, Bands & the Aether Shell.md, and built on two
+# categories that already existed before this ruling: Synergia ("several
+# Soul Crystals briefly sharing one Essence Core, Shell, and Layer," per
+# wiki/The Magic System/The Magical Categories — Unified Taxonom.md) made
+# permanent by Concordia instead of left momentary. No new Category or
+# Wellspring was invented; this rule states how the existing pieces
+# combine for more than one donor. Worked example: The Ossuary Choir
+# (wiki/Volume IV — Character Cards/The Ossuary Choir.md), whose card
+# previously flagged "there is no mechanism in Fracture of Worlds for a
+# shared Soul Crystal across three donors" as an open ruling. That card
+# has been edited in Notion (and its mirror re-exported) to carry this
+# mechanism in full under its own §II, replacing the flag. The mechanism
+# itself is written general-purpose: any future character sharing a Soul
+# Crystal cites this row, not a Choir-specific exception.
+pack: Shared Soul Crystal Mechanism
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: write the mechanism -- a shared/split Soul Crystal is now a real, documented setting-wide thing, not a one-off exception just for this one Choir."
+rules:
+
+  - id: R26-1-CONCORDANT_CRYSTAL_MECHANISM
+    pack: Shared Soul Crystal Mechanism
+    pack_number: null
+    section: "1"
+    title: "The Concordant Crystal: a general mechanism for a Soul Crystal shared across multiple donors"
+    status: live
+    kind: definition
+    summary: >-
+      Establishes the Concordant Crystal as the general, reusable mechanism
+      for a Soul Crystal shared by multiple donors: the Essence Cores stay
+      discrete and take turns at the frame's single, non-multiplying
+      Aether Shell; the Attraction Layer alone runs one Wellspring line
+      per donor; Coherence and eta are pooled off the Shell while
+      Tempering Coherence stays per-donor; the frame runs Overgrown by
+      default; and a donor's death or removal either settles the frame
+      toward Refined or, if the survivors will not release it, curdles
+      into Obsession Force -- a failure mode, like single-Shell collapse,
+      that no single-donor Crystal can suffer.
+    verbatim: >-
+      A Concordant Crystal is the standing mechanism for a Soul Crystal
+      shared across multiple donors. It is Synergia -- several Soul
+      Crystals briefly sharing one Essence Core, Shell and Layer -- made
+      permanent by Concordia instead of left momentary, ordinarily sealed
+      through a Ritus such as the Rite of Hollow Union rather than held
+      open by anyone's ongoing concentration. Formation requires that the
+      donors already carry an Attraction-recognized bond strong enough for
+      the Continuum to read them as one Attraction signature; kinship,
+      oath, or shared catastrophe qualify, strangers do not.
+
+      The three layers do not fuse identically. The Essence Cores never
+      fuse: each donor keeps a discrete Core -- identity, memory and
+      Traits remain their own -- and only one donor's Core occupies the
+      frame's single point of outward control at a time, with the
+      hand-off between donors itself a Continuum-recognized cost that
+      degrades Dexterity and Reflex-family Sub-Stats independent of the
+      frame's build. The Aether Shell fuses and is singular without
+      exception: one frame produces exactly one Aether Class, one eta, and
+      one Coherence Band, however many donors it carries, because a body
+      has only one nervous system to conduct through -- a Concordant
+      Crystal does not multiply a Shell's ceiling by donor count, it
+      grants N donors the throughput of one Shell. The Attraction Layer
+      alone is genuinely plural: it carries one discrete Wellspring
+      harmonization per donor, running concurrently rather than blending
+      into a single current, which is how a Concordant Crystal expresses
+      several Wellsprings where a single-donor Crystal expresses at most a
+      compatible few; donors drawing on opposed Wellspring Houses cannot
+      co-anchor one Layer and the frame will not form, or will not hold.
+
+      Coherence and eta are pooled, read once off the shared Shell
+      regardless of donor count. Tempering Coherence, the Sub-Stat, stays
+      per-donor because it lives in the Essence Core; a Concordant
+      Crystal's stability is read off its least coherent donor, not their
+      average. A Concordant Crystal runs Overgrown by default, not as a
+      symptom: one Shell built to one donor's architecture now carries the
+      combined Essence pressure of every donor it holds.
+
+      A donor's death or clean removal drops the frame from N to N-1
+      donors without destroying it: that donor's Wellspring line falls
+      silent, the Shell re-equilibrates, and the frame settles toward
+      Refined as the shed pressure eases its standing Overgrowth. A death
+      the surviving donors refuse to release does not settle; the bond
+      curdles into Obsession Force instead of dissolving, and the frame
+      fractures under a signature that has stopped answering. A Concordant
+      Crystal carries two failure modes no single-donor Crystal can
+      suffer: Obsession Force fixation on an unreleased co-donor, and
+      total loss of output from every donor at once should the single
+      shared Shell Cloud or Rupture, where separate Crystals would each
+      fail independently.
+    amends:
+      - guide: "The Ossuary Choir (character card)"
+        locus: "II · Soul Architecture"
+        operation: replaces
+    supersedes: []
+    applies_to: [magic-mechanism, stats, character-sheet]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: write the mechanism -- a shared/split Soul Crystal is now a real, documented setting-wide thing, not a one-off exception just for this one Choir."
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Originated 2026-09-12 (no source document -- Isaac's ruling was to
+      write the mechanism itself). Resolves the open ruling previously
+      flagged on wiki/Volume IV — Character Cards/The Ossuary Choir.md
+      ("there is no mechanism in Fracture of Worlds for a shared Soul
+      Crystal across three donors"); that card has been edited in Notion
+      to carry this mechanism under its own §II and its wiki mirror
+      re-exported. Grounded in Synergia and Concordia (wiki/The Magic
+      System/The Magical Categories — Unified Taxonom.md) and in the
+      standard Essence Core / Aether Shell / Attraction Layer split
+      (wiki/The Magic System/The Core Vocabulary.md, wiki/The Magic
+      System/Tier Grade, Bands & the Aether Shell.md). Written
+      general-purpose: applies to any future multi-donor Soul Crystal, not
+      only the Ossuary Choir, which serves here only as the worked
+      example (three donors, three Wellsprings -- Dissolution and Nihiloth
+      sharing the Limina House, Calcination running Caloria alongside
+      them).

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-12T17:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 > *"I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."*
 > **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal pending ratification.** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
-> **Fenriris** appears in no current canon document and is carried here as a named primal entity pending Isaac's ruling on whether it exists, and if so at what scale.
+> **Nothing answers to a name here.** What answers Xanelor's pact appears in no current canon document and is carried here as unnamed and unidentified — the mechanics below do not depend on naming it.
 
 ---
 
@@ -29,13 +29,13 @@ verification: "unverified"
 >
 > The recorded psychological pattern is an enormous relief followed within a year or two by something considerably worse, as the practitioner works out that the relief was the sensation of no longer being solely responsible for their own output, **and that the thing they handed responsibility to did not sign anything.**
 >
-> *The Fenriris pact is that, exactly. He has had the relief. The second part has not finished arriving.*
+> *The pact is that, exactly. He has had the relief. The second part has not finished arriving.*
 
 ---
 
 ## II · Soul Architecture
 
-**One Crystal. Three layers.** The legacy sheet's Fenriris' Mark and Runeclaw were not two Crystals; they are how his Core and Shell present under the pact.
+**One Crystal. Three layers.** The legacy sheet's pact-mark and Runeclaw were not two Crystals; they are how his Core and Shell present under the pact.
 **Essence Core** · Sound, and audibly not solely his. *Assay readings taken twice a year apart return the same signature with the same second thing sitting a half-step under it.*
 **Aether Shell** · Class III · **Resonant.** Essence and Aether exchange freely; power moves in silence. **The first Class at which stat values translate into output at near-full fidelity**, which is the whole of why a Stage IX practitioner performs above what his numbers suggest.
 **Attraction Layer** · Undeveloped, and this is the load-bearing fact about him. **He has a pact and he does not have bonds.**
@@ -113,7 +113,7 @@ verification: "unverified"
 **Cost** · The anchors are cut live, and cutting live means his hands. *He has lost most of the sensation in the last two fingers of the left, and the Fixatio work is why.*
 **Limit** · **It requires stationary constructs.** The moment one moves, the ring is a ring of five and the geometry fails open rather than closed.
 **Counter** · Kill one construct. Not all six, not him — **one.** Anything with the reach to remove a single station at distance defeats the entire formation, and the constructs cannot cover each other because they cannot coordinate.
-> **What nobody knows.** Whether Fenriris is present in the constructs or merely in him. **The constructs behave as though something is watching through them and Xanelor has never asked**, on the stated grounds that the answer changes nothing and the unstated grounds that it might.
+> **What nobody knows.** Whether whatever answers the pact is present in the constructs or merely in him. **The constructs behave as though something is watching through them and Xanelor has never asked**, on the stated grounds that the answer changes nothing and the unstated grounds that it might.
 
 ---
 
@@ -129,7 +129,7 @@ verification: "unverified"
 ## IX · Open Rulings
 
 - **Temperance Stage IX is originated.** Ratify, adjust, or reject.
-- **Fenriris** has no canon entry. Primal entity, Titan-adjacent, or something smaller?
+- **Fenriris — struck.** Ruled non-canon and unattested (Isaac, 2026-09-12); the pact-entity is now written as unnamed rather than replaced with a new name.
 - **The Spirit-Fanged Circle** and **the Covenant of the Wildbound Fang** appear only in the legacy sheet.
 - The legacy sheet's **"Feral Kinship → Glyphic Balance → Spiritbound Sovereignty"** progression was invented and has been removed.
 - **Rikudoku Moto** is named as a philosophical ally. **Moto is the pre-amendment house name, now Moto throughout.** *Whoever this is needs re-identifying or striking.*

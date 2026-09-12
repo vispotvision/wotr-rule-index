@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-468 live of 580 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+469 live of 581 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 
@@ -142,7 +142,7 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (56)
+## character-sheet (57)
 
 ### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
 
@@ -479,6 +479,15 @@ Signature lines "That closes" (anything settled) and "Who holds it?" (their firs
 A Host gives an answer that is correct and unusable, aware of this and unable to do anything about it — accurate rather than confident, which is what stops them sounding like scripture.
 
 > They cannot be imprecise, and they know their precision is useless. A Host asked how long something will take gives an answer that is correct and unusable.
+
+### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
+
+Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
+
+> A Concordant Crystal is the standing mechanism for a Soul Crystal shared across multiple donors. It is Synergia -- several Soul Crystals briefly sharing one Essence Core, Shell and Layer -- made permanent by Concordia instead of left momentary, ordinarily sealed through a Ritus such as the Rite of Hollow Union rather than held open by anyone's ongoing concentration. Formation requires that the donors already carry an Attraction-recognized bond strong enough for the Continuum to read them as one Attraction signature; kinship, oath, or shared catastrophe qualify, strangers do not.
+The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
+Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
+A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
 
 ## codex (33)
 
@@ -2082,7 +2091,7 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (92)
+## magic-mechanism (93)
 
 ### R18-4-GLYPH_NAMING_CONTEXTS [Pack Eighteen §4]
 
@@ -2635,6 +2644,15 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+
+### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
+
+Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
+
+> A Concordant Crystal is the standing mechanism for a Soul Crystal shared across multiple donors. It is Synergia -- several Soul Crystals briefly sharing one Essence Core, Shell and Layer -- made permanent by Concordia instead of left momentary, ordinarily sealed through a Ritus such as the Rite of Hollow Union rather than held open by anyone's ongoing concentration. Formation requires that the donors already carry an Attraction-recognized bond strong enough for the Continuum to read them as one Attraction signature; kinship, oath, or shared catastrophe qualify, strangers do not.
+The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
+Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
+A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
 
 ## mass-combat (38)
 
@@ -5142,7 +5160,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (33)
+## stats (34)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -5341,6 +5359,15 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 
 > Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
+
+### R26-1-CONCORDANT_CRYSTAL_MECHANISM [Shared Soul Crystal Mechanism 1]
+
+Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
+
+> A Concordant Crystal is the standing mechanism for a Soul Crystal shared across multiple donors. It is Synergia -- several Soul Crystals briefly sharing one Essence Core, Shell and Layer -- made permanent by Concordia instead of left momentary, ordinarily sealed through a Ritus such as the Rite of Hollow Union rather than held open by anyone's ongoing concentration. Formation requires that the donors already carry an Attraction-recognized bond strong enough for the Continuum to read them as one Attraction signature; kinship, oath, or shared catastrophe qualify, strangers do not.
+The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
+Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
+A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
 
 ## verification (84)
 

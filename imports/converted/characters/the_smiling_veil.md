@@ -17,7 +17,7 @@
 **Former apprentice of the Somnalis Seminary at Eresse,** before it fell into the *Wellspring Silence* *(both unattested)*. **Concord-affiliated intermediary; an unregistered Echo Courier for the Guild Accord.** *Some whisper that the Black Concord uses him to erase memories painlessly. Others claim he simply collects them for his own archives.* The card affirms neither.
 > **Catalyst Event · Stage VIII, Transcendence.** *The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, and the first true Domain forms.*
 >
-> **The contradiction is the one the card names as his cost.** *Each veilwalk erodes his boundary between dream and self, and too long in another's subconscious means speaking in other people's voices for days after.* A Seminary apprentice who lost his Seminary to a silence and kept walking into other people's sleep anyway has already chosen which side of that boundary he lives on. **The Lament of the Quiet Moon, a field where motion and sound suspend and only reflection is left, is what a Domain looks like when its author's doctrine is the Mercy of Sleep.**
+> **The contradiction is the one the card names as his cost.** *Each veilwalk erodes his boundary between dream and self. Too long in another's subconscious and he speaks in other people's voices for days after.* He lost his Seminary to a silence. He kept walking into other people's sleep anyway. That is a choice about which side of the boundary he lives on. **The Lament of the Quiet Moon is what a Domain looks like when its author's doctrine is the Mercy of Sleep:** motion and sound suspend, and only reflection is left.
 
 ---
 
@@ -41,7 +41,7 @@
 ## IV · Primary Stats
 
 **Stage VIII, Transcendence** · **Level 231** *(estimate)* · Level Band III · Coherence Band B · Grade S · Ceiling 550.
-> **Pool 8,630** · 4,500 from Bands I–II, 930 from Band III, 3,200 from Thresholds I–VIII. **Allocated 8,393.**
+> **Pool 9,030** · 4,500 from Bands I–II, 930 from Band III, 3,600 from Thresholds I–VIII. **Allocated 8,848.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Harmonics** | **528** | S | Near ceiling. **He lulls spirits into conversation** |
@@ -60,7 +60,7 @@
 
 ## V · Sub-Stat Peaks
 
-**Gnosis Forecast 550** *(at ceiling)* · Harmonics Empathy 523 · **Harmonics Suppression 496** · Dexterity Feint 469 · Gnosis Retention 442 · Dexterity Evasion 415 · Harmonics Projection 388 · Tempering Coherence 361 · **Resilience Integrity 334** · Ardency Cascade 307 · Dominion Sense 280 · Tempering Clarity 253 · Vitality Constitution 226 · Ardency Flux 199.
+**Gnosis Forecast 550** *(at ceiling)* · Harmonics Empathy 528 · **Harmonics Suppression 506** · Dexterity Feint 484 · Gnosis Retention 462 · Dexterity Evasion 440 · Harmonics Projection 418 · Tempering Coherence 396 · **Resilience Integrity 374** · Ardency Cascade 352 · Dominion Sense 330 · Tempering Clarity 308 · Vitality Constitution 286 · Ardency Flux 264.
 
 ---
 
@@ -86,10 +86,10 @@
 
 ### Lament of the Quiet Moon
 
-**Effect** · **A localised field in which motion and sound are suspended, leaving pure reflection.** *Somnalis holds every adjacent branch open at once, and a body offered every possibility with equal weight commits to none of them; the stillness is an ensemble that has not collapsed.* Often mistaken for time-stopping magic, and it is not.
-**Cost** · **Holding the field means holding every mind inside it, and every mind he holds leaks back.** *Bleeding identities: he will speak in their voices for days.* The card calls this his high-level invocation, and the price scales with the number of people quieted.
+**Effect** · **A localised field in which motion and sound are suspended, leaving pure reflection.** *Somnalis holds every adjacent branch open at once. A body offered every possibility with equal weight commits to none of them. The stillness is an ensemble that has not collapsed.* Often mistaken for time-stopping magic. It is not.
+**Cost** · **Holding the field means holding every mind inside it, and every mind he holds leaks back.** *Bleeding identities. He will speak in their voices for days.* The price scales with the number of people quieted.
 **Limit** · **Localised.** The field is the size of a room, and it suspends only what is inside it when it opens; a thing that was already in motion at the edge carries on.
-**Counter** · **Collapse the ensemble for him.** *Somnalis fails when the spread is mistaken for a single reading.* A practitioner who commits, fully and stupidly, to one branch inside the field gives the distribution a weight it cannot hold open, and the Lament ends with him acting on the branch that had eleven percent of the weight. **Or refuse the stillness by refusing to reflect:** a mind with nothing to look at is a mind the field has nothing to hold.
+**Counter** · **Collapse the ensemble for him.** *Somnalis fails when the spread is mistaken for a single reading.* Commit, fully and stupidly, to one branch inside the field. The distribution takes a weight it cannot hold open, and the Lament ends with him acting on the branch that had eleven percent of the weight. **Or refuse to reflect.** A mind with nothing to look at is a mind the field has nothing to hold.
 > **What nobody knows.** Whether the Black Concord's rumour is true, and whose memories are in the archive if it is.
 
 ---

@@ -17,7 +17,7 @@
 Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eresse,** under the guardianship of the **Dream Concord** *(unattested)*. Trained by **Eresse's Dreamkeepers** *(unattested)* to serve as emissary between mortals and spirits. **Independent since the collapse of the Sanctum Aria Concord.**
 > **Catalyst Event · Stage VIII, Transcendence.** *The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, and the first true Domain forms.*
 >
-> **The contradiction is on the card in plain words.** *Justice must sound like music; if it cannot harmonise with the guilty's grief, it is not true judgment.* And they are still haunted by those *"mirrored" too harshly.* **A judge who paid their emotional voice to seal three corrupted Wellsprings, and then found the verdicts they could no longer feel were the ones they got wrong, is a soul that has read its own record and rebuilt around it.** The white motes that pulse with other people's emotions are the Domain seed made visible: they borrow the feeling they gave up.
+> **The contradiction is on the card in plain words.** *Justice must sound like music. If it cannot harmonise with the guilty's grief, it is not true judgment.* And they are still haunted by those *"mirrored" too harshly.* **They paid their emotional voice to seal three corrupted Wellsprings. Then the verdicts they could no longer feel were the ones they got wrong.** A soul that reads that in its own record and rebuilds around it is at Transcendence. The white motes are the seed made visible. They pulse with other people's emotions because they borrow the feeling they gave up.
 
 ---
 
@@ -42,7 +42,7 @@ Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eres
 ## IV · Primary Stats
 
 **Stage VIII, Transcendence** · **Level 248** *(estimate)* · Level Band III · Coherence Band B · Grade S · Ceiling 550.
-> **Pool 9,140** · 4,500 from Bands I–II, 1,440 from Band III, 3,200 from Thresholds I–VIII. **Allocated 8,873.**
+> **Pool 9,540** · 4,500 from Bands I–II, 1,440 from Band III, 3,600 from Thresholds I–VIII. **Allocated 9,328.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Harmonics** | **540** | S | Near ceiling. **They do not speak; they resonate, and the room hears it** |
@@ -61,7 +61,7 @@ Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eres
 
 ## V · Sub-Stat Peaks
 
-**Harmonics Empathy 550** *(at ceiling)* · Harmonics Attunement 525 · Gnosis Analysis 500 · Harmonics Projection 475 · Gnosis Perception 450 · Tempering Coherence 425 · **Resilience Oath 400** · Tempering Clarity 375 · Ardency Density 350 · Resilience Integrity 325 · Dominion Stability 300 · Dexterity Finesse 275 · Ardency Cascade 250 · Vitality Hemostasis 225.
+**Harmonics Empathy 550** *(at ceiling)* · Harmonics Attunement 530 · Gnosis Analysis 510 · Harmonics Projection 490 · Gnosis Perception 470 · Tempering Coherence 450 · **Resilience Oath 430** · Tempering Clarity 410 · Ardency Density 390 · Resilience Integrity 370 · Dominion Stability 350 · Dexterity Finesse 330 · Ardency Cascade 310 · Vitality Hemostasis 290.
 
 ---
 
@@ -87,10 +87,10 @@ Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eres
 
 ### Echo-Judgment
 
-**Effect** · **The opponent is made to witness the moral echo of their last act, and guilt becomes tangible Essence weight.** *Judicium reads the spectrum of what was just done; Luminalis folds it into a mirror gate the target cannot look away from; the reflection carries mass.*
-**Cost** · **They relive it too.** *Every use of power records its own echo in the soul, and each judgment comes back in dreams.* The ones mirrored too harshly are the ones they still carry.
-**Limit** · **It weighs the last act only.** A target with nothing recent on the scale returns a light reading, and a target who genuinely believes the act was right returns a reading the judge has to harmonise with before it can land. *If it cannot harmonise with the grief, it is not judgment, and they will not force it.*
-**Counter** · **Crowd the spectrum.** *Judicium's failure is spectral overload: every object in view reports its composition at once and the practitioner loses the ability to prioritise.* A room full of guilty signatures is a room in which no single verdict can be read. **Or come at them from the angle the fold did not plan for:** Luminalis output split into two paths arrives out of phase with itself.
+**Effect** · **The opponent is made to witness the moral echo of their last act, and guilt becomes tangible Essence weight.** *Judicium reads the spectrum of what was just done. Luminalis folds it into a mirror gate the target cannot look away from. The reflection carries mass.*
+**Cost** · **They relive it too.** *Every use of power records its own echo in the soul. Each judgment comes back in dreams.* The harsh ones stay.
+**Limit** · **It weighs the last act only.** A target with nothing recent on the scale returns a light reading. A target who genuinely believes the act was right returns a reading the judge has to harmonise with before it can land. *No harmony, no judgment. They will not force it.*
+**Counter** · **Crowd the spectrum.** *Judicium's failure is spectral overload. Every object in view reports its composition at once and the practitioner loses the ability to prioritise.* A room full of guilty signatures yields no single verdict. **Or come from the angle the fold did not plan for.** Luminalis output split into two paths arrives out of phase with itself.
 > **What nobody knows.** Which of the three sealed Wellsprings took the voice, and whether the seal would hold if the voice came back.
 
 ---

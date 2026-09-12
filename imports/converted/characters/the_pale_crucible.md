@@ -17,7 +17,7 @@
 **Formerly a Guild Accord theoretician of the Research and Archives Division,** trained at the **Alchemarch Citadel of the Iron Forges in Varūn** *(citadel unattested; Varūn and the Alchemarch title attested)*. **Expelled after initiating the Causality Loop Experiment** *(unattested)*, an attempt to rewrite failure as success by reversing temporal Essence signatures. **Now unaffiliated.**
 > **Catalyst Event · Stage X, Realization.** *Truth as lived consequence. The Domain becomes a reality the Continuum must accommodate rather than merely permit; the world answers back.*
 >
-> **The card hands the Stage its own evidence.** *The Causality Loop created a paradox he still carries within his Soul Crystal: an internal Wellspring that hums between existence and erasure.* A current the Continuum did not author, running inside a man, and not yet rejected, is accommodation by definition. **The world answered back by refusing to resolve him.** Everything he believes about perfect equilibrium, that every sin, invention and miracle must occupy a mirrored space within the soul, is what a Crystal says about itself when it is holding a contradiction open on purpose.
+> **The card hands the Stage its own evidence.** *The Causality Loop left a paradox in his Soul Crystal: an internal Wellspring that hums between existence and erasure.* The Continuum did not author that current. It runs inside a man. It has not been rejected. That is accommodation by definition. **The world answered back by refusing to resolve him.** He believes every sin, invention and miracle must occupy a mirrored space within the soul. That is what a Crystal says about itself when it is holding a contradiction open on purpose.
 
 ---
 
@@ -43,7 +43,7 @@
 ## IV · Primary Stats
 
 **Stage X, Realization** · **Level 291** *(estimate)* · Level Band III · Coherence Band A · Grade SS · Ceiling 725.
-> **Pool 11,230** · 4,500 from Bands I–II, 2,730 from Band III, 4,000 from Thresholds I–X. **Allocated 11,080.**
+> **Pool 12,730** · 4,500 from Bands I–II, 2,730 from Band III, 5,500 from Thresholds I–X. **Allocated 12,172.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Gnosis** | **712** | SS | Near ceiling. **He sees composition, and an equation solved aloud is a Gnosis stat speaking** |
@@ -62,7 +62,7 @@
 
 ## V · Sub-Stat Peaks
 
-**Gnosis Analysis 725** *(at ceiling)* · Gnosis Fluency 687 · Tempering Clarity 649 · **Ardency Compression 611** · Gnosis Cognition 573 · Resilience Anchoring 535 · Tempering Coherence 497 · Dominion Stability 459 · Ardency Density 421 · Resilience Integrity 383 · Harmonics Attunement 345 · **Vitality Filtration 307** · Dexterity Finesse 269 · Vitality Tolerance 231.
+**Gnosis Analysis 725** *(at ceiling)* · Gnosis Fluency 699 · Tempering Clarity 673 · **Ardency Compression 647** · Gnosis Cognition 621 · Resilience Anchoring 595 · Tempering Coherence 569 · Dominion Stability 543 · Ardency Density 517 · Resilience Integrity 491 · Harmonics Attunement 465 · **Vitality Filtration 439** · Dexterity Finesse 413 · Vitality Tolerance 387.
 
 ---
 
@@ -89,10 +89,10 @@
 
 ### Mirror Reaction
 
-**Effect** · **Reflects hostile magic by converting it into neutral entropy, leaving behind metallic dust.** *Judicium reads the incoming working line by line; Fixatio cures the reading into a state with no reachable alternative; what arrives is returned as heat and grey powder, and the powder is what the working was made of.*
-**Cost** · **Silver.** *A reaction run through his own lattice deposits its residue there, and the residue is the filament.* The card ties the metallisation to the Crucible; the Reaction runs on the same cure, and the dust on the floor has a twin in his nerves.
-**Limit** · **He has to read it first.** *An unfamiliar working has to finish forming before its lines can be taken, and a working he cannot read he cannot return.* **And the cure is permanent:** entropy he has fixed stays fixed, so a battlefield he has held on becomes ground that will never react again.
-**Counter** · **Overload the spectrum.** *Judicium fails when every object in view reports its composition at once and the practitioner loses the ability to prioritise.* Six small workings arrive faster than one large one can be read, and the seventh lands. **Or make him fix the wrong thing:** Fixatio placed in error is a permanent feature of whatever it was placed on, and a man who seals a state in haste has sealed himself out of correcting it.
+**Effect** · **Reflects hostile magic by converting it into neutral entropy, leaving behind metallic dust.** *Judicium reads the incoming working line by line. Fixatio cures the reading into a state with no reachable alternative. What arrives is returned as heat and grey powder. The powder is what the working was made of.*
+**Cost** · **Silver.** *A reaction run through his own lattice deposits its residue there. The residue is the filament.* The card ties the metallisation to the Crucible. The Reaction runs on the same cure, and the dust on the floor has a twin in his nerves.
+**Limit** · **He has to read it first.** *An unfamiliar working has to finish forming before its lines can be taken. What he cannot read, he cannot return.* **And the cure is permanent.** Entropy he has fixed stays fixed. Ground he has held on will never react again.
+**Counter** · **Overload the spectrum.** *Judicium fails when every object in view reports its composition at once and the practitioner loses the ability to prioritise.* Six small workings arrive faster than one large one can be read. The seventh lands. **Or make him fix the wrong thing.** Fixatio placed in error is a permanent feature of whatever it was placed on. A man who seals a state in haste has sealed himself out of correcting it.
 > **What nobody knows.** What the Causality Loop actually rewrote. *He calls it failure into success and was expelled for it. The paradox he carries suggests the loop is still running.*
 
 ---

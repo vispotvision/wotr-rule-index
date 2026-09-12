@@ -41,7 +41,7 @@
 ## IV · Primary Stats
 
 **Stage IX, Invocation** · **Level 272** *(estimate)* · Level Band III · Coherence Band A · Grade S with late push toward SS · Ceiling 625.
-> **Pool 10,260** · 4,500 from Bands I–II, 2,160 from Band III, 3,600 from Thresholds I–IX. **Allocated 9,924.**
+> **Pool 11,160** · 4,500 from Bands I–II, 2,160 from Band III, 4,500 from Thresholds I–IX. **Allocated 10,652.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Harmonics** | **612** | SS | Near ceiling. **The whole art is a tone the room agrees with** |
@@ -60,7 +60,7 @@
 
 ## V · Sub-Stat Peaks
 
-**Harmonics Synergy 625** *(at ceiling)* · Harmonics Projection 595 · Tempering Yield 565 · Harmonics Empathy 535 · **Vitality Constitution 505** · Gnosis Forecast 475 · Tempering Clarity 445 · Resilience Persistence 415 · Dominion Radius 385 · Vitality Regeneration 355 · Ardency Cascade 325 · Dexterity Economy 295 · Ardency Depth 265 · Dexterity Evasion 235.
+**Harmonics Synergy 625** *(at ceiling)* · Harmonics Projection 603 · Tempering Yield 581 · Harmonics Empathy 559 · **Vitality Constitution 537** · Gnosis Forecast 515 · Tempering Clarity 493 · Resilience Persistence 471 · Dominion Radius 449 · Vitality Regeneration 427 · Ardency Cascade 405 · Dexterity Economy 383 · Ardency Depth 361 · Dexterity Evasion 339.
 
 ---
 

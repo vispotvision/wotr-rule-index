@@ -20,6 +20,7 @@ NOTION_TOKEN is read from the environment, falling back to the user-level
 variable in the registry (Claude Desktop may have been started before it was set).
 """
 import argparse
+from collections import Counter
 import json
 import os
 import re
@@ -346,6 +347,13 @@ def scene_recall(query: str) -> str:
 
 
 def _inventory(culture: str) -> str:
+    inv_dir = ROOT / "desktop" / "inventories"
+    if inv_dir.exists():
+        key = culture.lower()
+        for p in inv_dir.glob("*.md"):
+            head = p.read_text(encoding="utf-8", errors="replace").split("\n", 1)[0].lower()
+            if key in p.stem.lower() or key in head:
+                return p.read_text(encoding="utf-8", errors="replace").strip()
     text = NATALIE.read_text(encoding="utf-8")
     m = re.search(r"(?ms)^# THE STANDING INVENTORY: " + re.escape(culture.upper()) + r".*?(?=^# |\Z)", text)
     if m:
@@ -1134,6 +1142,63 @@ def timeline() -> str:
     """scenes/TIMELINE.md: every scene in reading order with the in-world moment the
     text states. Created as a skeleton on first call; edit the 'placed' column."""
     return A.timeline().read_text(encoding="utf-8")[:8000]
+
+
+# --------------------------------------------------------------------------
+# voices and the gap-fill pass
+
+import voices as V
+
+
+@server.tool()
+def voice_check(name: str, line: str) -> str:
+    """Measure one line of dialogue against a character's fingerprint (length, questions,
+    contractions, first person) built from the archive: catches a line that reads like
+    someone else. Fingerprints: table/voices.yaml; rebuild with voice_fingerprints."""
+    return V.check(name, line)
+
+
+@server.tool()
+def voice_fingerprints() -> str:
+    """Rebuild every character's dialogue fingerprint from the scene archive and return
+    the comparison table plus the most swappable pairs."""
+    fps, rep = V.build()
+    return rep.read_text(encoding="utf-8")[:6000]
+
+
+REAL_SCIENCE = re.compile(r"\b(?:pressure differential|gradient|latent heat|phase transition|dielectric|resonance|cavitation|nucleation|entropy|boundary condition|conduction|impedance|friction|momentum|torque|shear|tensile|viscosity|oxidation|combustion|frequency|amplitude|wavelength|density|saturation|diffusion|sintering|spectroscopy|refraction|inertia|kinetic|potential energy|joule|newton|pascal|kelvin|hertz)\b", re.I)
+STRATA = {"Aether": re.compile(r"\b(?:Aether(?:ic)?|Aetheric Density|Residue|Saturation|standpipe|district main|draw)\b"),
+          "Wellspring": re.compile(r"\b(?:Wellspring|Family|Physics Domain|glyph|Core Law|Category)\b"),
+          "Essence": re.compile(r"\b(?:Essence|Soul Crystal|Essence Core|Aether Shell|Attraction Layer|EU|eta|η|Flux Density|Crystal State|reserve)\b")}
+CAUSAL = re.compile(r"\b(?:because|so that|which meant|which is why|therefore|since|as a result|so the|so it|hence)\b", re.I)
+MECHANISM_VOCAB = re.compile(r"\b(?:coupling|phase-lock|phase lock|resonan\w+|harmonis\w+|harmoniz\w+|conduit|lattice|Attraction|Obsession|Sovereignty|Penetration|Coherence)\b")
+
+
+@server.tool()
+def gap_fill(markdown: str) -> str:
+    """Pack Thirteen §5's eight-step gap-fill pass on a fight or a working, as a
+    structured report: beat inventory, logic audit, stratum audit, physics audit,
+    body audit, phenomenon audit, vocabulary pass, prose pass. Counts what can be
+    counted and asks the question each step exists to ask; run before polishing."""
+    import verify as Vf
+    paras = [p for p in re.split(r"\n\s*\n", markdown) if p.strip() and not p.strip().startswith("#")]
+    exchanges = [p for p in paras if Vf.HEMA.search(p) or re.search(r"\b(?:strike|struck|cut|thrust|parr|blocked|closed|drew|swung|hit)\w*\b", p, re.I)]
+    strata = {k: len(rx.findall(markdown)) for k, rx in STRATA.items()}
+    sci = Counter(m.group(0).lower() for m in REAL_SCIENCE.finditer(markdown))
+    causal = len(CAUSAL.findall(markdown))
+    anat = len(Vf.ANATOMY.findall(markdown)); hema = len(Vf.HEMA.findall(markdown)); mech = Counter(m.group(0) for m in MECHANISM_VOCAB.finditer(markdown))
+    prose = Vf.run(markdown, combat=True)
+    out = ["# Gap-fill pass (Thirteen §5)", "",
+           f"1. BEAT INVENTORY — {len(paras)} paragraphs, {len(exchanges)} carry a physical exchange. List each exchange as read → fault → counter → cost; any exchange missing one of the four is a gap (R12-3-COMBAT_EXCHANGE_OWES).",
+           f"2. LOGIC AUDIT — {causal} causal connectives in the text (check 24 fails a fight passage with none). For every outcome: which stat row decided it (R14-3-TRACEABILITY)? Name the row in the author notes.",
+           f"3. STRATUM AUDIT — mentions: Aether {strata['Aether']}, Wellspring {strata['Wellspring']}, Essence {strata['Essence']}. Every working explained on the page is explained at all three (R13-2-THREE_STRATA_MANDATE); a zero above is a gap.",
+           f"4. PHYSICS AUDIT — real-science terms present: {', '.join(f'{k}×{v}' for k, v in sci.most_common(8)) or 'none'}. Each Wellspring law is stated as the real law with a directional operator (R13-2-STRATUM_TWO_WELLSPRING).",
+           f"5. BODY AUDIT — {anat} anatomy/injury terms, {hema} HEMA terms. Injury by structure with ATLS class at first display and finisher (R13-4-COMBAT_FLOOR); the POV's own body on the page.",
+           f"6. PHENOMENON AUDIT — for each working: the real phenomenon it runs on, its Physics Domain and Wellspring, Category and alignment tag, and the fault the mechanism creates (R13-3-PHENOMENON_MANDATE). Write the line in the author notes if the text does not carry it.",
+           f"7. VOCABULARY PASS — Mechanism Vocabulary present: {', '.join(f'{k}×{v}' for k, v in mech.most_common(8)) or 'none'}. Bare jargon mid-action stays banned; a term may be named in diagnostic voice beside its dramatisation (R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB).",
+           "8. PROSE PASS (last) —", Vf.report(prose),
+           "", "Log what the pass added under 'Added by the gap-fill pass' in the author notes (R13-5-GAP_FILL_PASS). The pass may change an outcome when no cause fits, and says so (R13-D, ruled 2026-09-12)."]
+    return "\n".join(out)
 
 
 def main() -> int:

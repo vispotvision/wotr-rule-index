@@ -1547,7 +1547,7 @@
     "pack_number": null,
     "section": "I",
     "title": "The Polynesian register for Moto naming is struck, dead",
-    "status": "proposed",
+    "status": "live",
     "kind": "repeal",
     "summary": "Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).",
     "verbatim": "The Polynesian register. The section headed Satulagi / Moto — Polynesian institutional logic and the Agamalu addition beneath it are dead. Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every name built from them.",
@@ -1564,7 +1564,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "9"
@@ -1578,7 +1578,7 @@
     "pack_number": null,
     "section": "X",
     "title": "A hall child fostered into a Banner House drops the generation character",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission — a small, quiet, permanent thing to do to somebody.",
     "verbatim": "A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission.",
@@ -1595,7 +1595,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "159"
@@ -1609,7 +1609,7 @@
     "pack_number": null,
     "section": "X",
     "title": "Chinese stratum phonotactics avoid the wuxia register",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.",
     "verbatim": "Open syllables, permitted nasal codas, no clusters. Avoid the wuxia register the base guide already warns off: no four-syllable given names, no sect-title constructions, no honorific stacking.",
@@ -1626,7 +1626,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "155"
@@ -1640,7 +1640,7 @@
     "pack_number": null,
     "section": "X",
     "title": "The Chinese stratum's six name slots",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Surname (one syllable), generation character (fixed decades in advance by a lineage-hall poem, revealing relative seniority on first exchange), given character (the individual half), courtesy name (taken at capping, adult use — using someone's given name past that point is a superior's privilege or a deliberate insult), studio name (optional, self-chosen, for scholars/physicians/ alchemists), and posthumous name (conferred by the hall, occasionally an insult).",
     "verbatim": "Surname. One syllable, effectively always. This alone separates it on sight from the Korean stratum, where the lineage name arrives with a hollow-seat behind it.",
@@ -1657,7 +1657,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "126"
@@ -1671,7 +1671,7 @@
     "pack_number": null,
     "section": "X",
     "title": "Distinguishing the Chinese stratum from the Korean on the page",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A hollow-seat means Mahuo; the halls use the book instead. A courtesy name means the halls; no Mahuo character has one. A two-syllable surname means neither register — that's Japonic.",
     "verbatim": "Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls.",
@@ -1688,7 +1688,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "142"
@@ -1702,7 +1702,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "A carried name is a person, and it survives them",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A name is not a label but a person; when someone dies the name is held unspoken until given on to a child, who carries the same name, not a memory or tribute, and is treated accordingly by everyone who loved it.",
     "verbatim": "The carried name. A name is not a label attached to a person. It is a person, and it survives them. When someone dies the name is held, unspoken, until it is given on to a child, and the child carries it.",
@@ -1719,7 +1719,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "169"
@@ -1733,7 +1733,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "A carried name does not transfer out; giving one is enormous",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.",
     "verbatim": "A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.",
@@ -1750,7 +1750,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "197"
@@ -1764,7 +1764,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "The kin-turn, kinship terms follow the name instead of the blood",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A woman whose mother's name is given to her newborn daughter calls that infant \"mother,\" and means it, and the settlement uses the term with her; names are not gendered, and a person may carry several, each bringing its own kin-turn.",
     "verbatim": "The kin-turn. Kinship terms follow the name instead of the blood. A woman whose mother's name is given to her newborn daughter calls that infant mother, and means it, and the whole settlement uses the term with her.",
@@ -1781,7 +1781,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "171"
@@ -1795,7 +1795,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "Name-avoidance interlocks with Kharven's Waiting",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.",
     "verbatim": "Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.",
@@ -1813,7 +1813,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "177"
@@ -1827,7 +1827,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "Far-Northern phonotactics for coining names",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Three vowels (a i u) with phonemic length, uvulars as the signature (q where another register takes k), velar/uvular fricatives, geminate consonants across syllable boundaries, no onset clusters, heavily suffixing with meaningful morphemes, light and late stress.",
     "verbatim": "Three vowels, a i u, with phonemic length. Uvulars are the signature: q where another register would take k.",
@@ -1843,7 +1843,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "191"
@@ -1857,7 +1857,7 @@
     "pack_number": null,
     "section": "XI",
     "title": "Far-Northern surnames were assigned by the Accord's filing system",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.",
     "verbatim": "The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.",
@@ -1875,7 +1875,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "183"
@@ -1914,7 +1914,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Chinese stratum: lineage-hall institutional logic",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "One-syllable surname, a generation character from a poem fixed centuries in advance, a courtesy name taken at capping for adult use, and an optional studio name for scholars.",
     "verbatim": "Chinese. Lineage-hall institutional logic. One-syllable surname, a generation character drawn from a poem fixed centuries in advance, a courtesy name taken at capping that becomes the name equals adult use, and an optional studio name for scholars.",
@@ -1931,7 +1931,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "25"
@@ -1945,7 +1945,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Far-Northern stratum: carried-name logic",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "No inherited surname at all; a name is a person, held by the dead and given on to the living, with kinship terms following the name instead of the blood.",
     "verbatim": "Far-Northern. Carried-name logic. No inherited surname at all. A name is a person, held by the dead and given on to the living, and kinship terms follow the name instead of the blood.",
@@ -1962,7 +1962,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "27"
@@ -1976,7 +1976,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Japonic stratum: Archaic Bloodline institutional logic",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance (Sodoku Moto, Ayame Yuno, Niran, Jinmu Yukari).",
     "verbatim": "Japonic. Archaic Bloodline institutional logic. Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance.",
@@ -1993,7 +1993,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "23"
@@ -2007,7 +2007,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Korean stratum: Mahuo institutional logic",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Lineage name first, a two-syllable given name carrying a generational syllable shared across a cohort, plus a hollow-seat subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).",
     "verbatim": "Korean. Mahuo institutional logic. Lineage name first, two-syllable given name carrying a generational syllable shared across a cohort, plus the hollow-seat that subdivides the lineage.",
@@ -2024,7 +2024,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "21"
@@ -2038,7 +2038,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Northern stratum: English and Norse filing",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if not, plus an earned byname available to anyone (Bram Greymane, Edward Lambert, Hild Ice).",
     "verbatim": "Northern. English and Norse. A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if it is not, and an earned byname available to anyone.",
@@ -2055,7 +2055,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "29"
@@ -2069,7 +2069,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Stratum follows institution, never geography, never blood",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Which stratum a character's name belongs to is decided by institution (archaic bloodline, record-keeping house, Accord filing, or the dead) — never by geography and never by blood; the rule retcons nothing, since every existing name already obeys it.",
     "verbatim": "Stratum follows institution, never geography and never blood.",
@@ -2086,7 +2086,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "35"
@@ -2100,7 +2100,7 @@
     "pack_number": null,
     "section": "IV",
     "title": "Mixed parentage takes one register, and the choice is a statement",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.",
     "verbatim": "Mixed parentage takes one register, and the choice is a statement. Hild Ice is the model: a Moto father, a Stark mother, and a maternal Northern name carried openly. Nobody has to explain what that means to anyone.",
@@ -2117,7 +2117,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "53"
@@ -2131,7 +2131,7 @@
     "pack_number": null,
     "section": "IV",
     "title": "Renaming at change of allegiance is Japonic-only",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Renaming at change of allegiance does not travel into the Northern stratum, where a man who changes sides keeps his name; this is why the Greymane split has no naming event and the Moto exile does.",
     "verbatim": "Renaming at change of allegiance is Japonic-only. It does not travel into the Northern stratum, where a man who changes sides keeps his name and simply becomes a man with that name who changed sides.",
@@ -2148,7 +2148,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "57"
@@ -2162,7 +2162,7 @@
     "pack_number": null,
     "section": "IV",
     "title": "Service can transfer a register, and the giving costs",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.",
     "verbatim": "Service can transfer a register. A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.",
@@ -2179,7 +2179,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "55"
@@ -2193,7 +2193,7 @@
     "pack_number": null,
     "section": "V",
     "title": "Roughly one outlier name in eight, each with a workbook reason",
-    "status": "proposed",
+    "status": "live",
     "kind": "budget",
     "summary": "Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.",
     "verbatim": "Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.",
@@ -2210,7 +2210,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "67"
@@ -2224,7 +2224,7 @@
     "pack_number": null,
     "section": "V",
     "title": "An outlier name fits no stratum, and needs no justification",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.",
     "verbatim": "A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.",
@@ -2241,7 +2241,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "65"
@@ -2255,7 +2255,7 @@
     "pack_number": null,
     "section": "VI",
     "title": "Dawi, Elven and Goblinoid are not Inner World registers",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Dawi (Norse dithematic/Finnic), Elven Peoples (Northwest Coast institutional logic, the Eressean/Varrisak transfer schism), and Goblinoid (Germanic compounding) are none of them Inner World registers, and none are affected by this amendment.",
     "verbatim": "None of these are Inner World registers and none are affected.",
@@ -2266,7 +2266,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "79"
@@ -2311,7 +2311,7 @@
     "pack_number": null,
     "section": "VIII",
     "title": "The Kharven Standing Inventory is material culture, not a register",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Kharven Standing Inventory is material culture downstream of permafrost and scarcity, not naming register; striking the Mongolian names doesn't require striking the cold-survival culture — recommendation is to keep it, with the Far-Northern register now settling what it was missing.",
     "verbatim": "The Kharven Standing Inventory is material culture, not naming register.",
@@ -2322,7 +2322,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "98-100"
@@ -12670,7 +12670,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "Category is laid across all three strata",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.",
     "verbatim": "The Category, laid across all three. The twenty-six answer what kind of thing came out. Their alignment tag (Body, Spirit, Attraction, Triadic, or a seam between two) names which Plane carries the cost and which Plane the counterplay lives on.",
@@ -12688,7 +12688,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "33"
@@ -12702,7 +12702,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "The Craft sets durability of a projected form",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Craft (per Pack Ten) is which mouth a working came out of — speaking, cutting, pouring, writing — and it sets the durability of a projected form.",
     "verbatim": "The Craft. Which mouth it came out of (Pack Ten): the speaking, the cutting, the pouring, the writing. Craft sets durability of a projected form.",
@@ -12719,7 +12719,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "35"
@@ -12733,7 +12733,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "Stratum one: the Aether",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Aether stratum is what was already in the room before a draw: Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw Age the district main/standpipe/meter; its real-science analogue is field, gradient, reservoir, saturation, conduction, and a working changes with local density.",
     "verbatim": "Stratum one, the Aether. The ocean. Material Plane. What was in the room before anyone drew on it: Aetheric Density (sets the AU/s ceiling for that location), Aetheric Residue from prior workings, Aetheric Saturation if the room is already flooded, and in the Draw Age the district main, the standpipe, the meter, and whether the district is cut off.",
@@ -12750,7 +12750,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "27"
@@ -12764,7 +12764,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "Stratum three: the Essence",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Essence stratum is the soul's water: Soul Crystal architecture (Essence Core, Aether Shell, Attraction Layer) and cost (EU, eta, Flux Density, Crystal State); real-science analogue is efficiency, impedance, resonance, fatigue, phase change of the vessel.",
     "verbatim": "Stratum three, the Essence. The soul's water. Soul Crystal architecture: Essence Core (intent, identity), Aether Shell (conversion to force; Lattice Conductivity, Resonant Purity, Continuum Retention), Attraction Layer (recognition; Attraction Force clean, Obsession Force corrupted). Cost lives here: EU spent, eta lost as heat and static and structural bleed, Flux Density under compression, Crystal State under strain (Refined, Fractured, Overgrown, Crystallized).",
@@ -12781,7 +12781,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "31"
@@ -12795,7 +12795,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "Stratum two: the Wellspring",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Wellspring stratum is the law: each of the Sixty carries a Core Law, Family and Physics Domain assigned as real physics, and its law is stated as that real law with a directional operator; the glyph constrains degrees of freedom rather than creating the effect.",
     "verbatim": "Stratum two, the Wellspring. The law. Each of the Sixty carries a Core Law, a Family, and a Physics Domain, and the Codex assigns the Physics Domain as real physics: Thermodynamics, Electromagnetism, Mechanics, Spatial Geometry, Material Science, Biochemistry, Fluid Dynamics, Abstract/Entropic Systems, Cross-Family Boundary Physics. The Wellspring's law is stated as that real law with a directional operator on it.",
@@ -12812,7 +12812,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "29"
@@ -12826,7 +12826,7 @@
     "pack_number": 13,
     "section": "§2",
     "title": "Every working is explained at three strata",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.",
     "verbatim": "Every working explained on the page is explained at three strata, in the Technical Register, through one of Twelve's four voices. The order below is the order of causation. It does not have to be the order on the page.",
@@ -12843,7 +12843,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "25"
@@ -12857,7 +12857,7 @@
     "pack_number": 13,
     "section": "§3",
     "title": "The invention step, one step past the textbook",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Textbook physics is the floor for a technique, not the ceiling; the technique is what a practitioner does with the phenomenon that a physicist could not.",
     "verbatim": "Then the invention step. Push the phenomenon one step past where the textbook stops. Textbook physics is the floor; the technique is what a practitioner does with it that a physicist could not.",
@@ -12873,7 +12873,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "55"
@@ -12887,7 +12887,7 @@
     "pack_number": 13,
     "section": "§3",
     "title": "The Phenomenon Bank, eight originated seeds pending ratification",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "One originated technique seed per Physics Domain (Exuroth, Orrenthal, Absolution, Eclipseron, Fixatio, Mortalis, Somnalis, Vantabriel), each with Wellspring/Category assigned after the phenomenon per the Ability Guide; all eight are pending ratification (see R13-E).",
     "verbatim": "The Phenomenon Bank. One seed per Physics Domain, all originated, all pending. Wellspring and Category given as the assignment that fits, decided after the phenomenon, per the Ability Guide.",
@@ -12898,7 +12898,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "57"
@@ -12912,7 +12912,7 @@
     "pack_number": 13,
     "section": "§3",
     "title": "Every new working names its phenomenon before it ships",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Before shipping, every new working/technique/ability names in the author notes the real phenomenon it runs on, the Physics Domain and Wellspring it specialises, the Category and alignment tag, the Mechanism Vocabulary term it dramatises, and the fault the mechanism creates (which must fall out of the phenomenon, not from stamina or convenience).",
     "verbatim": "Every new working, technique, or ability names, in the author notes, before it ships:",
@@ -12929,7 +12929,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "47"
@@ -12943,7 +12943,7 @@
     "pack_number": 13,
     "section": "§4",
     "title": "The combat technical floor, eight required elements",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.",
     "verbatim": "Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:",
@@ -12961,7 +12961,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "72"
@@ -12975,7 +12975,7 @@
     "pack_number": 13,
     "section": "§4",
     "title": "Combat floor density by scene length",
-    "status": "proposed",
+    "status": "live",
     "kind": "budget",
     "summary": "A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.",
     "verbatim": "Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.",
@@ -12992,7 +12992,7 @@
       "scene-structure"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "83"
@@ -13006,7 +13006,7 @@
     "pack_number": 13,
     "section": "§4",
     "title": "First display and finisher carry three causal explanations",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.",
     "verbatim": "The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.",
@@ -13024,7 +13024,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "85"
@@ -13038,7 +13038,7 @@
     "pack_number": 13,
     "section": "§5",
     "title": "The gap-fill pass runs before polishing",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Before a submitted fight or working is polished, an eight-step gap-fill pass runs (beat inventory, logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary pass, prose pass last), logged in the author notes under \"Added by the gap-fill pass.\"",
     "verbatim": "When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.",
@@ -13056,7 +13056,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "91"
@@ -13070,7 +13070,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Anatomy and injury are named by structure",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Anatomy is named by structure, fractures by fracture type, and neurological consequence by name.",
     "verbatim": "Anatomy by named structure. Fracture types by name. Neurological consequence by name.",
@@ -13087,7 +13087,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "114"
@@ -13101,7 +13101,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Anime grammar is a translation aid, never page vocabulary",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/nature split, JJK's vow and reversal, Bleach's release) is used only to identify which shape a working needs, then written in WOTR's own words; it never appears as page vocabulary.",
     "verbatim": "Anime grammar as a translation aid, never as page vocabulary. Nen's shroud, stop, output, expression, and their refinements; Naruto's split of shape from nature; JJK's vow and reversal; Bleach's release. When a WOTR working needs a shape, check which of these it is, then write it in WOTR's words.",
@@ -13118,7 +13118,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "118"
@@ -13132,7 +13132,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Pack Six's chemistry ban is confirmed narrow in scope",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Pack Six's chemistry ban survives, but only for ambient sensory impression; it does not touch a hit, a wound, or a working.",
     "verbatim": "Pack Six's chemistry ban survives for ambient sensory impression. It does not touch a hit, a wound, or a working.",
@@ -13144,7 +13144,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "120"
@@ -13192,7 +13192,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "HEMA vocabulary extends past the longsword",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe, dagger, grappling, messer, sword and buckler, mounted lance) with a percussion master-strike table built for the hammer specifically.",
     "verbatim": "HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.",
@@ -13209,7 +13209,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "112"
@@ -13223,7 +13223,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Metaphysics vocabulary for the Plane of Fate and Hermetic layer",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Correspondence, sympathy and contagion, essence and accident, form and actualisation, and recognition and refusal are the vocabulary of stratum two's Attraction-side reads and of the document voice.",
     "verbatim": "Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.",
@@ -13241,7 +13241,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "110"
@@ -13255,7 +13255,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Real science vocabulary explains the WOTR noun, by Physics Domain",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Real scientific terms (pressure differential, gradient, latent heat, phase transition, dielectric breakdown, resonance, cavitation, nucleation, information entropy, boundary condition, and the rest) are the vocabulary used to explain what a WOTR noun is doing.",
     "verbatim": "Real science, by Physics Domain, to explain what the WOTR noun is doing: pressure differential, gradient, latent heat, phase transition, adiabatic compression, dielectric breakdown, induction, eddy current, impedance, resonance, standing wave, interference, damping, cavitation, shear and compression, spallation, hydrostatic shock, nucleation, supercooling, information entropy, boundary condition, degrees of freedom.",
@@ -13272,7 +13272,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "108"
@@ -13286,7 +13286,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "Scaling vocabulary stays in author notes, never on the page",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.",
     "verbatim": "Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.",
@@ -13304,7 +13304,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "116"
@@ -13318,7 +13318,7 @@
     "pack_number": 13,
     "section": "§6",
     "title": "WOTR nouns are used in preference to borrowed ones",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The glossary and Codex's own nouns (the Planes, Aether, Essence, the Soul Crystal and its layers, Crystal States, Attraction/Obsession Force, the Sixty, the Families, the Categories, the Mechanism Vocabulary, EU/Flux Density/AU-s/eta/Band/Grade/Stage) are used in preference to anything borrowed.",
     "verbatim": "WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density, Residue, Saturation, Essence and its Quality, Signature, Typology, the Soul Crystal and its three layers, Lattice Conductivity, Resonant Purity, Continuum Retention, the four Crystal States, Attraction and Obsession Force, the Sixty, the eight Families, the twenty-six Categories, the Mechanism Vocabulary, EU, Flux Density, AU/s, eta, Band, Grade, Stage.",
@@ -13336,7 +13336,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "106"
@@ -13350,7 +13350,7 @@
     "pack_number": 13,
     "section": "§7",
     "title": "Every set piece is researched before writing",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Before any set piece, first display, finisher or new working, Natalie searches at minimum once each for the real phenomenon, the real weapon/injury/physiology, and the nearest anime or CRP precedent for the shape, consulting the Codex Spell Index and Magical Categories page, and names what was consulted in the author notes; a set piece written from memory is a failed set piece.",
     "verbatim": "Before any set piece, first display, finisher, or new working, Natalie searches, at minimum, once each for: the real phenomenon; the real weapon, injury, or physiology; and the nearest anime or CRP precedent for the shape. The Codex Spell Index and the Magical Categories page are consulted for assignment. The author notes name what was consulted. A set piece written from memory is a failed set piece.",
@@ -13368,7 +13368,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "126"
@@ -13382,7 +13382,7 @@
     "pack_number": 13,
     "section": "§8",
     "title": "Adjudication decisions must be reconstructible from the page",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Table Rule 5's contested-action decisions must be reconstructible from the page; a fight that resolves because the scene needed it to has failed the pack and is rewritten.",
     "verbatim": "Table Rule 5 decides contested actions from Stage gap, whether the read landed, what has been spent, and what the environment allows. This pack requires the decision to be reconstructible from the page. A fight that resolves because the scene needed it to has failed the pack and is rewritten.",
@@ -13400,7 +13400,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "132"
@@ -13414,7 +13414,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Ability Guide gains §2 and §3 as explanation/invention chapters",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "The Ability and Technique Design Guide (sixth edition) carries this pack's §2 and §3 as its explanation and invention chapters.",
     "verbatim": "WOTR_Ability_Technique_Design_Guide.md. Sixth edition, already ordered by Twelve, now carries §2 and §3 as its explanation and invention chapters.",
@@ -13430,7 +13430,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "139"
@@ -13444,7 +13444,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Combat Craft Guide §4 rewritten, §1 extended",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "The Combat Craft Guide (third edition) has its §4 rewritten off this pack's §4, and its §1 extended per §6; named-character guard and cut assignments run in the same edition.",
     "verbatim": "WOTR_Combat_Craft_Guide.md. Third edition. §4 rewritten off §4 above. §1 extended per §6. Named-character guard and cut assignments run in the same edition.",
@@ -13460,7 +13460,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "138"
@@ -13474,7 +13474,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Every weapon entry carries mass, length, balance and armour result",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.",
     "verbatim": "WOTR_Item_and_Equipment_Writing_Guide.md. Every weapon entry carries mass, length, point of balance, and the armour tier it beats and fails against.",
@@ -13491,7 +13491,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "142"
@@ -13505,7 +13505,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Author notes template gains two standing sections",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "\"Added by the gap-fill pass\" and \"Phenomenon line\" become standing sections of the author notes template.",
     "verbatim": "Author notes template. Added by the gap-fill pass and Phenomenon line become standing sections.",
@@ -13522,7 +13522,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "144"
@@ -13536,7 +13536,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Notion Categories and Lexicon pages gain a physics-line",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "The Notion Magical Categories page and Lexicon page each gain a \"Physics Domain and real phenomenon\" line per entry, giving §3 a wiki home.",
     "verbatim": "Notion. The Magical Categories page and the Lexicon page gain a \"Physics Domain and real phenomenon\" line per entry, so §3 has a wiki home.",
@@ -13553,7 +13553,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "143"
@@ -13567,7 +13567,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "Mechanism Vocabulary surfacing rule amended",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.",
     "verbatim": "WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.",
@@ -13585,7 +13585,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "140"
@@ -13599,7 +13599,7 @@
     "pack_number": 13,
     "section": "§9",
     "title": "--combat verification adds checks 22-26",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density, warn), 23 (anatomical density, warn), 24 (causal-connective density in fight passages, fail), 25 (a stated fault per named technique, fail), and 26 (a reserve account per working, fail).",
     "verbatim": "wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.",
@@ -13623,7 +13623,7 @@
       "check-26",
       "--combat"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "141"
@@ -13791,7 +13791,7 @@
     "pack_number": 14,
     "section": "§2",
     "title": "An unsheeted value is written as a marked estimate, never invented",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.",
     "verbatim": "Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.",
@@ -13802,7 +13802,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "32"
@@ -13816,7 +13816,7 @@
     "pack_number": 14,
     "section": "§2",
     "title": "The FOW line is loaded before any scene or technique design",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.",
     "verbatim": "Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.",
@@ -13828,7 +13828,7 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "19-30"
@@ -13842,7 +13842,7 @@
     "pack_number": 14,
     "section": "§3",
     "title": "Table Rule 5's adjudication is named stat-by-stat",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.",
     "verbatim": "Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.",
@@ -13854,7 +13854,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "38"
@@ -13868,7 +13868,7 @@
     "pack_number": 14,
     "section": "§3",
     "title": "Every combat outcome traces to a table row",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.",
     "verbatim": "Every outcome in a fight traces to a row in this table, and the author notes say which.",
@@ -13881,7 +13881,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "53"
@@ -13895,7 +13895,7 @@
     "pack_number": 14,
     "section": "§4",
     "title": "Stat names reach the page only through the diagnostic channel",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.",
     "verbatim": "The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.",
@@ -13907,7 +13907,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "61"
@@ -13921,7 +13921,7 @@
     "pack_number": 14,
     "section": "§4",
     "title": "Grade letters and stat names never appear in narration",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.",
     "verbatim": "Grade letters and stat names never appear in narration. Their consequences always do.",
@@ -13933,7 +13933,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "59"
@@ -13947,7 +13947,7 @@
     "pack_number": 14,
     "section": "§4",
     "title": "Sub-Stat names are reserved to a faculty reading",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.",
     "verbatim": "Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for them.",
@@ -13958,7 +13958,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "63"
@@ -13972,7 +13972,7 @@
     "pack_number": 14,
     "section": "§5",
     "title": "Build wotr_terms.txt as the canonical term list",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Build a canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet and the Categories page, one term per line with its class, for the verification script to check against.",
     "verbatim": "The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories page. One term per line with its class. The script checks against it.",
@@ -13983,7 +13983,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "73"
@@ -13997,7 +13997,7 @@
     "pack_number": 14,
     "section": "§5",
     "title": "System terminology is used exactly, never approximated",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.",
     "verbatim": "Canonical, used exactly, no approximation: the sixteen Stages by number and source name; the five Bands with Level ranges; the thirteen Tier Grades from Hollow to EX+;",
@@ -14009,7 +14009,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "69"
@@ -14023,7 +14023,7 @@
     "pack_number": 14,
     "section": "§5",
     "title": "A near-miss term is a verification fail, not a warning",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.",
     "verbatim": "A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.",
@@ -14035,7 +14035,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "71"
@@ -14049,7 +14049,7 @@
     "pack_number": 14,
     "section": "§6",
     "title": "Check 27 — Terminology audit",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.",
     "verbatim": "Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.",
@@ -14069,7 +14069,7 @@
     "verification": [
       "check-27"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "81"
@@ -14083,7 +14083,7 @@
     "pack_number": 14,
     "section": "§6",
     "title": "Check 28 — Narration leak",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.",
     "verbatim": "Check 28, narration leak. Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.",
@@ -14103,7 +14103,7 @@
     "verification": [
       "check-28"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "82"
@@ -14117,7 +14117,7 @@
     "pack_number": 14,
     "section": "§6",
     "title": "Check 29 — The loadout",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.",
     "verbatim": "Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.",
@@ -14137,7 +14137,7 @@
     "verification": [
       "check-29"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "83"
@@ -14151,7 +14151,7 @@
     "pack_number": 14,
     "section": "§6",
     "title": "Figures are grepped against Fracture_of_Worlds.md before presenting",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md before presenting; if it is not there, it is marked an estimate.",
     "verbatim": "Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.",
@@ -14162,7 +14162,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "84"
@@ -14176,7 +14176,7 @@
     "pack_number": 14,
     "section": "§7",
     "title": "The Stat Ledger's required mechanical contents",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.",
     "verbatim": "Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.",
@@ -14188,7 +14188,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "90-92"
@@ -14202,7 +14202,7 @@
     "pack_number": 14,
     "section": "§8",
     "title": "Every technique entry gains an FOW line",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.",
     "verbatim": "WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.",
@@ -14220,7 +14220,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "104"
@@ -14234,7 +14234,7 @@
     "pack_number": 14,
     "section": "§8",
     "title": "The character sheet's Techniques section gains the FOW line",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "The character sheet template is otherwise unchanged; its Techniques section gains the FOW line.",
     "verbatim": "Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.",
@@ -14251,7 +14251,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "105"
@@ -14265,7 +14265,7 @@
     "pack_number": 14,
     "section": "§8",
     "title": "Pack Fourteen's §3 becomes the Combat Guide's adjudication chapter",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).",
     "verbatim": "WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.",
@@ -14283,7 +14283,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "106"
@@ -14297,7 +14297,7 @@
     "pack_number": 14,
     "section": "§8",
     "title": "The Stat Sheet workbook is a source of truth alongside Notion cards",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards; where the two disagree, the disagreement is flagged, not resolved.",
     "verbatim": "The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards, and where they disagree the disagreement is flagged, not resolved.",
@@ -14314,7 +14314,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "107"

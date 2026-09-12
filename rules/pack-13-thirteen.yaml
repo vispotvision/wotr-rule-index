@@ -1,3 +1,6 @@
+# RATIFIED 2026-09-11 by Isaac's direction in a Claude Code session; every
+# proposed row below was flipped to live and its ratified field set. Rows
+# that are open rulings (status: pending) were left as they were.
 # Pack Thirteen: "Status: originated by Natalie, pending Isaac's ruling"
 # (italic line, source line 5). No section marked confirmed, so every row is
 # status: proposed, EXCEPT R13-6-HAX_DIALOGUE_BAN, which Pack Fifteen S4
@@ -6,7 +9,7 @@
 pack: Pack Thirteen
 pack_number: 13
 source_file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
-ratified: null
+ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
 rules:
 
   - id: R13-2-THREE_STRATA_MANDATE
@@ -14,7 +17,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: Every working is explained at three strata
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Every working explained on the page is explained at three strata (the
@@ -33,7 +36,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, magic-design]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "25"
@@ -44,7 +47,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: "Stratum one: the Aether"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Aether stratum is what was already in the room before a draw:
@@ -66,7 +69,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "27"
@@ -77,7 +80,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: "Stratum two: the Wellspring"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Wellspring stratum is the law: each of the Sixty carries a Core
@@ -99,7 +102,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, codex]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "29"
@@ -110,7 +113,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: "Stratum three: the Essence"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Essence stratum is the soul's water: Soul Crystal architecture
@@ -133,7 +136,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, stats]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "31"
@@ -144,7 +147,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: Category is laid across all three strata
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The twenty-six Categories say what kind of thing came out; their
@@ -163,7 +166,7 @@ rules:
     supersedes: []
     applies_to: [codex, magic-mechanism, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "33"
@@ -174,7 +177,7 @@ rules:
     pack_number: 13
     section: "§2"
     title: The Craft sets durability of a projected form
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Craft (per Pack Ten) is which mouth a working came out of —
@@ -191,7 +194,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, codex]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "35"
@@ -202,7 +205,7 @@ rules:
     pack_number: 13
     section: "§3"
     title: Every new working names its phenomenon before it ships
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Before shipping, every new working/technique/ability names in the
@@ -221,7 +224,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "47"
@@ -232,7 +235,7 @@ rules:
     pack_number: 13
     section: "§3"
     title: The invention step, one step past the textbook
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Textbook physics is the floor for a technique, not the ceiling; the
@@ -249,7 +252,7 @@ rules:
     supersedes: []
     applies_to: [magic-design]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "55"
@@ -260,7 +263,7 @@ rules:
     pack_number: 13
     section: "§3"
     title: The Phenomenon Bank, eight originated seeds pending ratification
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       One originated technique seed per Physics Domain (Exuroth,
@@ -276,7 +279,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "57"
@@ -290,7 +293,7 @@ rules:
     pack_number: 13
     section: "§4"
     title: The combat technical floor, eight required elements
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Every meaningful exchange states, in one of the four voices: measure,
@@ -309,7 +312,7 @@ rules:
     supersedes: []
     applies_to: [combat, adjudication, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "72"
@@ -320,7 +323,7 @@ rules:
     pack_number: 13
     section: "§4"
     title: Combat floor density by scene length
-    status: proposed
+    status: live
     kind: budget
     summary: >-
       A 2,500-word duel carries the full eight-item floor at first display
@@ -337,7 +340,7 @@ rules:
     supersedes: []
     applies_to: [combat, scene-structure]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "83"
@@ -348,7 +351,7 @@ rules:
     pack_number: 13
     section: "§4"
     title: First display and finisher carry three causal explanations
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       At first display and finisher, physics, Essence and Hermetic
@@ -365,7 +368,7 @@ rules:
     supersedes: []
     applies_to: [combat, magic-mechanism, prose-law]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "85"
@@ -376,7 +379,7 @@ rules:
     pack_number: 13
     section: "§5"
     title: The gap-fill pass runs before polishing
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Before a submitted fight or working is polished, an eight-step
@@ -395,7 +398,7 @@ rules:
     supersedes: []
     applies_to: [combat, verification, documents]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "91"
@@ -406,7 +409,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: WOTR nouns are used in preference to borrowed ones
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The glossary and Codex's own nouns (the Planes, Aether, Essence, the
@@ -430,7 +433,7 @@ rules:
     supersedes: []
     applies_to: [register, magic-mechanism, naming]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "106"
@@ -441,7 +444,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Real science vocabulary explains the WOTR noun, by Physics Domain
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Real scientific terms (pressure differential, gradient, latent heat,
@@ -463,7 +466,7 @@ rules:
     supersedes: []
     applies_to: [register, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "108"
@@ -474,7 +477,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Metaphysics vocabulary for the Plane of Fate and Hermetic layer
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Correspondence, sympathy and contagion, essence and accident, form
@@ -493,7 +496,7 @@ rules:
     supersedes: []
     applies_to: [register, magic-mechanism, documents]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "110"
@@ -504,7 +507,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: HEMA vocabulary extends past the longsword
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe,
@@ -521,7 +524,7 @@ rules:
     supersedes: []
     applies_to: [combat, register]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "112"
@@ -532,7 +535,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Anatomy and injury are named by structure
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Anatomy is named by structure, fractures by fracture type, and
@@ -547,7 +550,7 @@ rules:
     supersedes: []
     applies_to: [combat, register]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "114"
@@ -558,7 +561,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Scaling vocabulary stays in author notes, never on the page
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Scaling-comparison vocabulary (Attack Potency, durability, hax as a
@@ -580,7 +583,7 @@ rules:
     supersedes: []
     applies_to: [combat, adjudication, register]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "116"
@@ -625,7 +628,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Anime grammar is a translation aid, never page vocabulary
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's
@@ -645,7 +648,7 @@ rules:
     supersedes: []
     applies_to: [register, magic-design]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "118"
@@ -656,7 +659,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Pack Six's chemistry ban is confirmed narrow in scope
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Pack Six's chemistry ban survives, but only for ambient sensory
@@ -668,7 +671,7 @@ rules:
     supersedes: []
     applies_to: [register, worldbuilding, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "120"
@@ -679,7 +682,7 @@ rules:
     pack_number: 13
     section: "§7"
     title: Every set piece is researched before writing
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Before any set piece, first display, finisher or new working, Natalie
@@ -703,7 +706,7 @@ rules:
     supersedes: []
     applies_to: [combat, magic-design, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "126"
@@ -714,7 +717,7 @@ rules:
     pack_number: 13
     section: "§8"
     title: Adjudication decisions must be reconstructible from the page
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Table Rule 5's contested-action decisions must be reconstructible
@@ -733,7 +736,7 @@ rules:
     supersedes: []
     applies_to: [adjudication, combat, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "132"
@@ -744,7 +747,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Combat Craft Guide §4 rewritten, §1 extended
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       The Combat Craft Guide (third edition) has its §4 rewritten off this
@@ -761,7 +764,7 @@ rules:
     supersedes: []
     applies_to: [combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "138"
@@ -772,7 +775,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Ability Guide gains §2 and §3 as explanation/invention chapters
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       The Ability and Technique Design Guide (sixth edition) carries this
@@ -788,7 +791,7 @@ rules:
     supersedes: []
     applies_to: [magic-design]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "139"
@@ -799,7 +802,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Mechanism Vocabulary surfacing rule amended
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       Bare jargon mid-action stays banned, but a Mechanism Vocabulary term
@@ -815,7 +818,7 @@ rules:
     supersedes: []
     applies_to: [register, magic-mechanism, prose-law]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "140"
@@ -826,7 +829,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: "--combat verification adds checks 22-26"
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density,
@@ -845,7 +848,7 @@ rules:
     supersedes: []
     applies_to: [combat, verification]
     verification: ["check-22", "check-23", "check-24", "check-25", "check-26", "--combat"]
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "141"
@@ -856,7 +859,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Every weapon entry carries mass, length, balance and armour result
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       Every weapon entry in the Item and Equipment Writing Guide carries
@@ -873,7 +876,7 @@ rules:
     supersedes: []
     applies_to: [items, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "142"
@@ -884,7 +887,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Notion Categories and Lexicon pages gain a physics-line
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       The Notion Magical Categories page and Lexicon page each gain a
@@ -901,7 +904,7 @@ rules:
     supersedes: []
     applies_to: [codex, documents]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "143"
@@ -912,7 +915,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Author notes template gains two standing sections
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       "Added by the gap-fill pass" and "Phenomenon line" become standing
@@ -927,7 +930,7 @@ rules:
     supersedes: []
     applies_to: [documents, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "144"

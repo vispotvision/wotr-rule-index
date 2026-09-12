@@ -1,3 +1,6 @@
+# RATIFIED 2026-09-11 by Isaac's direction in a Claude Code session; every
+# proposed row below was flipped to live and its ratified field set. Rows
+# that are open rulings (status: pending) were left as they were.
 # THE INNER WORLD NAMING AMENDMENT. Standalone doc, no pack number; R23,
 # the newest in the four-document Büri/Moto naming cluster (R20 oldest).
 # The document states outright, mid-text: "Originated content pending
@@ -13,7 +16,7 @@
 pack: Inner World Naming Amendment
 pack_number: null
 source_file: WOTR_Inner_World_Naming_Amendment.md
-ratified: null
+ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
 rules:
 
   - id: R23-1-POLYNESIAN_REGISTER_STRUCK
@@ -21,7 +24,7 @@ rules:
     pack_number: null
     section: "I"
     title: The Polynesian register for Moto naming is struck, dead
-    status: proposed
+    status: live
     kind: repeal
     summary: >-
       Samoan phonotactics, the fa'amatai title system, the aiga, the
@@ -41,7 +44,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "9"
@@ -61,7 +64,7 @@ rules:
     pack_number: null
     section: "II"
     title: "The Korean stratum: Mahuo institutional logic"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Lineage name first, a two-syllable given name carrying a
@@ -78,7 +81,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "21"
@@ -89,7 +92,7 @@ rules:
     pack_number: null
     section: "II"
     title: "The Japonic stratum: Archaic Bloodline institutional logic"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Full life-stage slots, name-taboo on the living, compound
@@ -106,7 +109,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "23"
@@ -119,7 +122,7 @@ rules:
     pack_number: null
     section: "II"
     title: "The Chinese stratum: lineage-hall institutional logic"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       One-syllable surname, a generation character from a poem fixed
@@ -137,7 +140,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "25"
@@ -149,7 +152,7 @@ rules:
     pack_number: null
     section: "II"
     title: "The Far-Northern stratum: carried-name logic"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       No inherited surname at all; a name is a person, held by the dead
@@ -166,7 +169,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "27"
@@ -178,7 +181,7 @@ rules:
     pack_number: null
     section: "II"
     title: "The Northern stratum: English and Norse filing"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A small given-name pool producing constant disambiguation by trade,
@@ -197,7 +200,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "29"
@@ -208,7 +211,7 @@ rules:
     pack_number: null
     section: "III"
     title: Stratum follows institution, never geography, never blood
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Which stratum a character's name belongs to is decided by
@@ -224,7 +227,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "35"
@@ -235,7 +238,7 @@ rules:
     pack_number: null
     section: "IV"
     title: Mixed parentage takes one register, and the choice is a statement
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A character of mixed parentage takes one naming register rather
@@ -254,7 +257,7 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "53"
@@ -265,7 +268,7 @@ rules:
     pack_number: null
     section: "IV"
     title: Service can transfer a register, and the giving costs
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A retainer raised inside a bloodline house may be given a
@@ -282,7 +285,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "55"
@@ -293,7 +296,7 @@ rules:
     pack_number: null
     section: "IV"
     title: Renaming at change of allegiance is Japonic-only
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Renaming at change of allegiance does not travel into the Northern
@@ -310,7 +313,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "57"
@@ -321,7 +324,7 @@ rules:
     pack_number: null
     section: "V"
     title: An outlier name fits no stratum, and needs no justification
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A name is an outlier when it fits no stratum (foreign fostering, a
@@ -339,7 +342,7 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "65"
@@ -350,7 +353,7 @@ rules:
     pack_number: null
     section: "V"
     title: Roughly one outlier name in eight, each with a workbook reason
-    status: proposed
+    status: live
     kind: budget
     summary: >-
       Roughly one outlier in eight named characters, each with a reason
@@ -369,7 +372,7 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "67"
@@ -382,7 +385,7 @@ rules:
     pack_number: null
     section: "VI"
     title: Dawi, Elven and Goblinoid are not Inner World registers
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Dawi (Norse dithematic/Finnic), Elven Peoples (Northwest Coast
@@ -395,7 +398,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "79"
@@ -435,7 +438,7 @@ rules:
     pack_number: null
     section: "VIII"
     title: The Kharven Standing Inventory is material culture, not a register
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Kharven Standing Inventory is material culture downstream of
@@ -450,7 +453,7 @@ rules:
     supersedes: []
     applies_to: [standing-inventory, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "98-100"
@@ -544,7 +547,7 @@ rules:
     pack_number: null
     section: "X"
     title: The Chinese stratum's six name slots
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Surname (one syllable), generation character (fixed decades in
@@ -566,7 +569,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "126"
@@ -577,7 +580,7 @@ rules:
     pack_number: null
     section: "X"
     title: Distinguishing the Chinese stratum from the Korean on the page
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A hyphen means Mahuo (Korean); no hyphen means the lineage halls
@@ -594,7 +597,7 @@ rules:
     supersedes: []
     applies_to: [naming, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "142"
@@ -605,7 +608,7 @@ rules:
     pack_number: null
     section: "X"
     title: Chinese stratum phonotactics avoid the wuxia register
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Open syllables, permitted nasal codas, no clusters; avoid the wuxia
@@ -622,7 +625,7 @@ rules:
     supersedes: []
     applies_to: [naming, register]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "155"
@@ -633,7 +636,7 @@ rules:
     pack_number: null
     section: "X"
     title: A hall child fostered into a Banner House drops the generation character
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A hall child fostered into a Banner House keeps the surname and
@@ -649,7 +652,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "159"
@@ -660,7 +663,7 @@ rules:
     pack_number: null
     section: "XI"
     title: A carried name is a person, and it survives them
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A name is not a label but a person; when someone dies the name is
@@ -678,7 +681,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "169"
@@ -689,7 +692,7 @@ rules:
     pack_number: null
     section: "XI"
     title: The kin-turn, kinship terms follow the name instead of the blood
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A woman whose mother's name is given to her newborn daughter calls
@@ -708,7 +711,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "171"
@@ -719,7 +722,7 @@ rules:
     pack_number: null
     section: "XI"
     title: Name-avoidance interlocks with Kharven's Waiting
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The name of the recently dead is unsayable until given on; the
@@ -737,7 +740,7 @@ rules:
     supersedes: []
     applies_to: [naming, standing-inventory, prose-law]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "177"
@@ -748,7 +751,7 @@ rules:
     pack_number: null
     section: "XI"
     title: Far-Northern surnames were assigned by the Accord's filing system
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       There never was an inherited surname; the Accord's registers
@@ -768,7 +771,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding, documents]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "183"
@@ -779,7 +782,7 @@ rules:
     pack_number: null
     section: "XI"
     title: Far-Northern phonotactics for coining names
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Three vowels (a i u) with phonemic length, uvulars as the signature
@@ -796,7 +799,7 @@ rules:
     supersedes: []
     applies_to: [naming]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "191"
@@ -807,7 +810,7 @@ rules:
     pack_number: null
     section: "XI"
     title: A carried name does not transfer out; giving one is enormous
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A Far-Northern child fostered south keeps the carried name but
@@ -827,7 +830,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "197"

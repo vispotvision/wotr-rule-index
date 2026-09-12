@@ -1,14 +1,56 @@
 # Live rules by domain, with source text
 
-274 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+347 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (14)
+## adjudication (21)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
 Pack Thirteen §6's ban on a character saying "hax" is struck; a character may say whatever makes him interesting, though scaling vocabulary stays author-notes-first as adjudication vocabulary, not because it is modern.
 
 > Pack Thirteen §6. "A character never says hax" struck. A character may say whatever makes him interesting. Scaling vocabulary remains author-notes-first because it is adjudication vocabulary, not because it is modern.
+
+### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
+
+Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
+
+> Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
+
+### R14-3-STATS_DECIDE_TABLE [Pack Fourteen §3]
+
+Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
+
+> Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
+
+### R14-3-TRACEABILITY [Pack Fourteen §3]
+
+Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
+
+> Every outcome in a fight traces to a row in this table, and the author notes say which.
+
+### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
+
+§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
+
+> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
+
+### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
+
+Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+
+> Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
+
+### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
+
+Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
+
+> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
+
+### R13-8-RECONSTRUCTIBLE_ADJUDICATION [Pack Thirteen §8]
+
+Table Rule 5's contested-action decisions must be reconstructible from the page; a fight that resolves because the scene needed it to has failed the pack and is rewritten.
+
+> Table Rule 5 decides contested actions from Stage gap, whether the read landed, what has been spent, and what the environment allows. This pack requires the decision to be reconstructible from the page. A fight that resolves because the scene needed it to has failed the pack and is rewritten.
 
 ### R12-1-PACK_SEVEN_SURVIVORS [Pack Twelve §1]
 
@@ -88,7 +130,31 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (32)
+## character-sheet (39)
+
+### R14-6-CHECK29 [Pack Fourteen §6]
+
+The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
+
+> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
+
+### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
+
+Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
+
+> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
+
+### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
+
+Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+### R14-8-CHARACTER_SHEET_FOW_LINE [Pack Fourteen §8]
+
+The character sheet template is otherwise unchanged; its Techniques section gains the FOW line.
+
+> Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.
 
 ### R12-3-CARD_PLUS_CHAIN [Pack Twelve §3]
 
@@ -240,6 +306,24 @@ The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
 
+### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
+
+A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.
+
+> Mixed parentage takes one register, and the choice is a statement. Hild Ice is the model: a Moto father, a Stark mother, and a maternal Northern name carried openly. Nobody has to explain what that means to anyone.
+
+### R23-5-OUTLIER_DEFINED [Inner World Naming Amendment V]
+
+A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.
+
+> A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
+
+### R23-5-OUTLIER_BUDGET [Inner World Naming Amendment V]
+
+Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
+
+> Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
+
 ### R22-2-NAMED_CHARACTERS_TABLE [Moto Reversion Ledger II]
 
 Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
@@ -282,7 +366,37 @@ A Host gives an answer that is correct and unusable, aware of this and unable to
 
 > They cannot be imprecise, and they know their precision is useless. A Host asked how long something will take gives an answer that is correct and unusable.
 
-## codex (10)
+## codex (15)
+
+### R13-2-STRATUM_TWO_WELLSPRING [Pack Thirteen §2]
+
+The Wellspring stratum is the law: each of the Sixty carries a Core Law, Family and Physics Domain assigned as real physics, and its law is stated as that real law with a directional operator; the glyph constrains degrees of freedom rather than creating the effect.
+
+> Stratum two, the Wellspring. The law. Each of the Sixty carries a Core Law, a Family, and a Physics Domain, and the Codex assigns the Physics Domain as real physics: Thermodynamics, Electromagnetism, Mechanics, Spatial Geometry, Material Science, Biochemistry, Fluid Dynamics, Abstract/Entropic Systems, Cross-Family Boundary Physics. The Wellspring's law is stated as that real law with a directional operator on it.
+
+### R13-2-CATEGORY_ACROSS_STRATA [Pack Thirteen §2]
+
+The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.
+
+> The Category, laid across all three. The twenty-six answer what kind of thing came out. Their alignment tag (Body, Spirit, Attraction, Triadic, or a seam between two) names which Plane carries the cost and which Plane the counterplay lives on.
+
+### R13-2-CRAFT_DEFINITION [Pack Thirteen §2]
+
+The Craft (per Pack Ten) is which mouth a working came out of — speaking, cutting, pouring, writing — and it sets the durability of a projected form.
+
+> The Craft. Which mouth it came out of (Pack Ten): the speaking, the cutting, the pouring, the writing. Craft sets durability of a projected form.
+
+### R13-3-PHENOMENON_BANK [Pack Thirteen §3]
+
+One originated technique seed per Physics Domain (Exuroth, Orrenthal, Absolution, Eclipseron, Fixatio, Mortalis, Somnalis, Vantabriel), each with Wellspring/Category assigned after the phenomenon per the Ability Guide; all eight are pending ratification (see R13-E).
+
+> The Phenomenon Bank. One seed per Physics Domain, all originated, all pending. Wellspring and Category given as the assignment that fits, decided after the phenomenon, per the Ability Guide.
+
+### R13-9-NOTION_PHYSICS_LINE [Pack Thirteen §9]
+
+The Notion Magical Categories page and Lexicon page each gain a "Physics Domain and real phenomenon" line per entry, giving §3 a wiki home.
+
+> Notion. The Magical Categories page and the Lexicon page gain a "Physics Domain and real phenomenon" line per entry, so §3 has a wiki home.
 
 ### R10-1-CATEGORIES_AXIS [Pack Ten PART ONE]
 
@@ -344,13 +458,121 @@ Texture comes from the Standing Inventory; mechanism comes from the Codex; a sce
 
 > Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.
 
-## combat (34)
+## combat (52)
 
 ### R15-1-TECHNICAL_REGISTER_SURVIVES [Pack Fifteen §1]
 
 Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 
 > The Technical Register for combat and workings (Twelve, Thirteen, Fourteen). Explanation in real terms is the whole point of those packs and this pack makes it easier.
+
+### R14-3-STATS_DECIDE_TABLE [Pack Fourteen §3]
+
+Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
+
+> Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
+
+### R14-3-TRACEABILITY [Pack Fourteen §3]
+
+Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
+
+> Every outcome in a fight traces to a row in this table, and the author notes say which.
+
+### R14-4-EFFECTS_CHANNEL [Pack Fourteen §4]
+
+Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.
+
+> Grade letters and stat names never appear in narration. Their consequences always do.
+
+### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
+
+§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
+
+> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
+
+### R13-2-CATEGORY_ACROSS_STRATA [Pack Thirteen §2]
+
+The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.
+
+> The Category, laid across all three. The twenty-six answer what kind of thing came out. Their alignment tag (Body, Spirit, Attraction, Triadic, or a seam between two) names which Plane carries the cost and which Plane the counterplay lives on.
+
+### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
+
+Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+
+> Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
+
+### R13-4-DENSITY_BUDGET [Pack Thirteen §4]
+
+A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.
+
+> Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.
+
+### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
+
+At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
+
+> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
+
+### R13-5-GAP_FILL_PASS [Pack Thirteen §5]
+
+Before a submitted fight or working is polished, an eight-step gap-fill pass runs (beat inventory, logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary pass, prose pass last), logged in the author notes under "Added by the gap-fill pass."
+
+> When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.
+
+### R13-6-HEMA_VOCAB [Pack Thirteen §6]
+
+Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe, dagger, grappling, messer, sword and buckler, mounted lance) with a percussion master-strike table built for the hammer specifically.
+
+> HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
+
+### R13-6-ANATOMY_VOCAB [Pack Thirteen §6]
+
+Anatomy is named by structure, fractures by fracture type, and neurological consequence by name.
+
+> Anatomy by named structure. Fracture types by name. Neurological consequence by name.
+
+### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
+
+Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
+
+> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
+
+### R13-6-CHEMISTRY_BAN_SCOPE [Pack Thirteen §6]
+
+Pack Six's chemistry ban survives, but only for ambient sensory impression; it does not touch a hit, a wound, or a working.
+
+> Pack Six's chemistry ban survives for ambient sensory impression. It does not touch a hit, a wound, or a working.
+
+### R13-7-RESEARCH_RULE [Pack Thirteen §7]
+
+Before any set piece, first display, finisher or new working, Natalie searches at minimum once each for the real phenomenon, the real weapon/injury/physiology, and the nearest anime or CRP precedent for the shape, consulting the Codex Spell Index and Magical Categories page, and names what was consulted in the author notes; a set piece written from memory is a failed set piece.
+
+> Before any set piece, first display, finisher, or new working, Natalie searches, at minimum, once each for: the real phenomenon; the real weapon, injury, or physiology; and the nearest anime or CRP precedent for the shape. The Codex Spell Index and the Magical Categories page are consulted for assignment. The author notes name what was consulted. A set piece written from memory is a failed set piece.
+
+### R13-8-RECONSTRUCTIBLE_ADJUDICATION [Pack Thirteen §8]
+
+Table Rule 5's contested-action decisions must be reconstructible from the page; a fight that resolves because the scene needed it to has failed the pack and is rewritten.
+
+> Table Rule 5 decides contested actions from Stage gap, whether the read landed, what has been spent, and what the environment allows. This pack requires the decision to be reconstructible from the page. A fight that resolves because the scene needed it to has failed the pack and is rewritten.
+
+### R13-9-COMBAT_GUIDE_EDIT [Pack Thirteen §9]
+
+The Combat Craft Guide (third edition) has its §4 rewritten off this pack's §4, and its §1 extended per §6; named-character guard and cut assignments run in the same edition.
+
+> WOTR_Combat_Craft_Guide.md. Third edition. §4 rewritten off §4 above. §1 extended per §6. Named-character guard and cut assignments run in the same edition.
+
+### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
+
+wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density, warn), 23 (anatomical density, warn), 24 (causal-connective density in fight passages, fail), 25 (a stated fault per named technique, fail), and 26 (a reserve account per working, fail).
+
+> wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
+
+### R13-9-ITEM_GUIDE_WEAPON_ENTRY [Pack Thirteen §9]
+
+Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.
+
+> WOTR_Item_and_Equipment_Writing_Guide.md. Every weapon entry carries mass, length, point of balance, and the armour tier it beats and fails against.
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
@@ -550,7 +772,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## dialogue (38)
+## dialogue (40)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -593,6 +815,18 @@ Pack Thirteen §6's ban on a character saying "hax" is struck; a character may s
 Memory entries thirteen, fourteen, twenty-nine and thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary) are superseded as mandates and retained only as available technique; flagged for the memory sweep.
 
 > Memory entries thirteen, fourteen, twenty-nine, thirty (accent calibration, phonetic markers, Racial Voice guide, elevated vocabulary): superseded as mandates; retained as available technique. Flag for the memory sweep.
+
+### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
+
+Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
+
+> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
+
+### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
+
+Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
+
+> Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for them.
 
 ### R12-4-VOICE_MIXING_RULE [Pack Twelve §4]
 
@@ -780,7 +1014,7 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
-## documents (7)
+## documents (13)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -793,6 +1027,36 @@ Modern words, concepts and frames are legal in every channel of the prose, inclu
 Pack Twelve §6's clause forbidding a document from explaining mechanism is struck; a document may be as scientific as it wants, and the Mystic Register survives only as an option for documents that want to withhold.
 
 > The Mystic Register's "rules stated as law, never physics" clause (Twelve §6), where it forbids a document from explaining. A document may be as scientific as it wants to be. The Mystic Register survives as an option for documents that want to withhold.
+
+### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
+
+Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
+
+> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
+
+### R13-5-GAP_FILL_PASS [Pack Thirteen §5]
+
+Before a submitted fight or working is polished, an eight-step gap-fill pass runs (beat inventory, logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary pass, prose pass last), logged in the author notes under "Added by the gap-fill pass."
+
+> When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.
+
+### R13-6-METAPHYSICS_VOCAB [Pack Thirteen §6]
+
+Correspondence, sympathy and contagion, essence and accident, form and actualisation, and recognition and refusal are the vocabulary of stratum two's Attraction-side reads and of the document voice.
+
+> Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.
+
+### R13-9-NOTION_PHYSICS_LINE [Pack Thirteen §9]
+
+The Notion Magical Categories page and Lexicon page each gain a "Physics Domain and real phenomenon" line per entry, giving §3 a wiki home.
+
+> Notion. The Magical Categories page and the Lexicon page gain a "Physics Domain and real phenomenon" line per entry, so §3 has a wiki home.
+
+### R13-9-NOTES_TEMPLATE_SECTIONS [Pack Thirteen §9]
+
+"Added by the gap-fill pass" and "Phenomenon line" become standing sections of the author notes template.
+
+> Author notes template. Added by the gap-fill pass and Phenomenon line become standing sections.
 
 ### R12-4-VOICE_FOUR_DOCUMENT [Pack Twelve §4]
 
@@ -818,13 +1082,25 @@ In procedural or ledger scenes, the unlicensed reification budget tightens to on
 
 > One per page in procedural or ledger scenes. The licensed class is already doing this work there, and unlicensed instances go invisible against it.
 
+### R23-11-ROLL_NAMES_FROM_ACCORD [Inner World Naming Amendment XI]
+
+There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
+
+> The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.
+
 ### R20-4-ACCORD_FILING_CONVENTION [Naming Guide Amendment Part Four]
 
 The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
-## items (12)
+## items (13)
+
+### R13-9-ITEM_GUIDE_WEAPON_ENTRY [Pack Thirteen §9]
+
+Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.
+
+> WOTR_Item_and_Equipment_Writing_Guide.md. Every weapon entry carries mass, length, point of balance, and the armour tier it beats and fails against.
 
 ### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
 
@@ -898,13 +1174,61 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
 
-## magic-design (31)
+## magic-design (39)
 
 ### R15-1-LATIN_CHANT_SURVIVES [Pack Fifteen §1]
 
 Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.
 
 > Latin for chant-based magic. Not a register rule in this sense; it is a texture choice Isaac made. Stands unless he says otherwise.
+
+### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
+
+Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+### R13-2-THREE_STRATA_MANDATE [Pack Thirteen §2]
+
+Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
+
+> Every working explained on the page is explained at three strata, in the Technical Register, through one of Twelve's four voices. The order below is the order of causation. It does not have to be the order on the page.
+
+### R13-3-PHENOMENON_MANDATE [Pack Thirteen §3]
+
+Before shipping, every new working/technique/ability names in the author notes the real phenomenon it runs on, the Physics Domain and Wellspring it specialises, the Category and alignment tag, the Mechanism Vocabulary term it dramatises, and the fault the mechanism creates (which must fall out of the phenomenon, not from stamina or convenience).
+
+> Every new working, technique, or ability names, in the author notes, before it ships:
+
+### R13-3-INVENTION_STEP [Pack Thirteen §3]
+
+Textbook physics is the floor for a technique, not the ceiling; the technique is what a practitioner does with the phenomenon that a physicist could not.
+
+> Then the invention step. Push the phenomenon one step past where the textbook stops. Textbook physics is the floor; the technique is what a practitioner does with it that a physicist could not.
+
+### R13-3-PHENOMENON_BANK [Pack Thirteen §3]
+
+One originated technique seed per Physics Domain (Exuroth, Orrenthal, Absolution, Eclipseron, Fixatio, Mortalis, Somnalis, Vantabriel), each with Wellspring/Category assigned after the phenomenon per the Ability Guide; all eight are pending ratification (see R13-E).
+
+> The Phenomenon Bank. One seed per Physics Domain, all originated, all pending. Wellspring and Category given as the assignment that fits, decided after the phenomenon, per the Ability Guide.
+
+### R13-6-ANIME_GRAMMAR_TRANSLATION_AID [Pack Thirteen §6]
+
+Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/nature split, JJK's vow and reversal, Bleach's release) is used only to identify which shape a working needs, then written in WOTR's own words; it never appears as page vocabulary.
+
+> Anime grammar as a translation aid, never as page vocabulary. Nen's shroud, stop, output, expression, and their refinements; Naruto's split of shape from nature; JJK's vow and reversal; Bleach's release. When a WOTR working needs a shape, check which of these it is, then write it in WOTR's words.
+
+### R13-7-RESEARCH_RULE [Pack Thirteen §7]
+
+Before any set piece, first display, finisher or new working, Natalie searches at minimum once each for the real phenomenon, the real weapon/injury/physiology, and the nearest anime or CRP precedent for the shape, consulting the Codex Spell Index and Magical Categories page, and names what was consulted in the author notes; a set piece written from memory is a failed set piece.
+
+> Before any set piece, first display, finisher, or new working, Natalie searches, at minimum, once each for: the real phenomenon; the real weapon, injury, or physiology; and the nearest anime or CRP precedent for the shape. The Codex Spell Index and the Magical Categories page are consulted for assignment. The author notes name what was consulted. A set piece written from memory is a failed set piece.
+
+### R13-9-ABILITY_GUIDE_CHAPTERS [Pack Thirteen §9]
+
+The Ability and Technique Design Guide (sixth edition) carries this pack's §2 and §3 as its explanation and invention chapters.
+
+> WOTR_Ability_Technique_Design_Guide.md. Sixth edition, already ordered by Twelve, now carries §2 and §3 as its explanation and invention chapters.
 
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
@@ -1086,7 +1410,7 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (52)
+## magic-mechanism (65)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -1099,6 +1423,84 @@ Pack Twelve §6's clause forbidding a document from explaining mechanism is stru
 Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 
 > The Technical Register for combat and workings (Twelve, Thirteen, Fourteen). Explanation in real terms is the whole point of those packs and this pack makes it easier.
+
+### R13-2-THREE_STRATA_MANDATE [Pack Thirteen §2]
+
+Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
+
+> Every working explained on the page is explained at three strata, in the Technical Register, through one of Twelve's four voices. The order below is the order of causation. It does not have to be the order on the page.
+
+### R13-2-STRATUM_ONE_AETHER [Pack Thirteen §2]
+
+The Aether stratum is what was already in the room before a draw: Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw Age the district main/standpipe/meter; its real-science analogue is field, gradient, reservoir, saturation, conduction, and a working changes with local density.
+
+> Stratum one, the Aether. The ocean. Material Plane. What was in the room before anyone drew on it: Aetheric Density (sets the AU/s ceiling for that location), Aetheric Residue from prior workings, Aetheric Saturation if the room is already flooded, and in the Draw Age the district main, the standpipe, the meter, and whether the district is cut off.
+
+### R13-2-STRATUM_TWO_WELLSPRING [Pack Thirteen §2]
+
+The Wellspring stratum is the law: each of the Sixty carries a Core Law, Family and Physics Domain assigned as real physics, and its law is stated as that real law with a directional operator; the glyph constrains degrees of freedom rather than creating the effect.
+
+> Stratum two, the Wellspring. The law. Each of the Sixty carries a Core Law, a Family, and a Physics Domain, and the Codex assigns the Physics Domain as real physics: Thermodynamics, Electromagnetism, Mechanics, Spatial Geometry, Material Science, Biochemistry, Fluid Dynamics, Abstract/Entropic Systems, Cross-Family Boundary Physics. The Wellspring's law is stated as that real law with a directional operator on it.
+
+### R13-2-STRATUM_THREE_ESSENCE [Pack Thirteen §2]
+
+The Essence stratum is the soul's water: Soul Crystal architecture (Essence Core, Aether Shell, Attraction Layer) and cost (EU, eta, Flux Density, Crystal State); real-science analogue is efficiency, impedance, resonance, fatigue, phase change of the vessel.
+
+> Stratum three, the Essence. The soul's water. Soul Crystal architecture: Essence Core (intent, identity), Aether Shell (conversion to force; Lattice Conductivity, Resonant Purity, Continuum Retention), Attraction Layer (recognition; Attraction Force clean, Obsession Force corrupted). Cost lives here: EU spent, eta lost as heat and static and structural bleed, Flux Density under compression, Crystal State under strain (Refined, Fractured, Overgrown, Crystallized).
+
+### R13-2-CATEGORY_ACROSS_STRATA [Pack Thirteen §2]
+
+The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.
+
+> The Category, laid across all three. The twenty-six answer what kind of thing came out. Their alignment tag (Body, Spirit, Attraction, Triadic, or a seam between two) names which Plane carries the cost and which Plane the counterplay lives on.
+
+### R13-2-CRAFT_DEFINITION [Pack Thirteen §2]
+
+The Craft (per Pack Ten) is which mouth a working came out of — speaking, cutting, pouring, writing — and it sets the durability of a projected form.
+
+> The Craft. Which mouth it came out of (Pack Ten): the speaking, the cutting, the pouring, the writing. Craft sets durability of a projected form.
+
+### R13-3-PHENOMENON_MANDATE [Pack Thirteen §3]
+
+Before shipping, every new working/technique/ability names in the author notes the real phenomenon it runs on, the Physics Domain and Wellspring it specialises, the Category and alignment tag, the Mechanism Vocabulary term it dramatises, and the fault the mechanism creates (which must fall out of the phenomenon, not from stamina or convenience).
+
+> Every new working, technique, or ability names, in the author notes, before it ships:
+
+### R13-4-COMBAT_FLOOR [Pack Thirteen §4]
+
+Every meaningful exchange states, in one of the four voices: measure, tempo (Vor/Nach/Indes), the named read, the fault it exposes, the mechanics of the hit, the injury by structure with ATLS-class blood loss, the Essence account at all three strata, and what the character cannot do next.
+
+> Every meaningful exchange (a hit that lands, a first display, a counter, a change of measure that decides something) puts the following on the page, stated, in one of the four voices:
+
+### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
+
+At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
+
+> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
+
+### R13-6-WOTR_FIRST [Pack Thirteen §6]
+
+The glossary and Codex's own nouns (the Planes, Aether, Essence, the Soul Crystal and its layers, Crystal States, Attraction/Obsession Force, the Sixty, the Families, the Categories, the Mechanism Vocabulary, EU/Flux Density/AU-s/eta/Band/Grade/Stage) are used in preference to anything borrowed.
+
+> WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density, Residue, Saturation, Essence and its Quality, Signature, Typology, the Soul Crystal and its three layers, Lattice Conductivity, Resonant Purity, Continuum Retention, the four Crystal States, Attraction and Obsession Force, the Sixty, the eight Families, the twenty-six Categories, the Mechanism Vocabulary, EU, Flux Density, AU/s, eta, Band, Grade, Stage.
+
+### R13-6-REAL_SCIENCE_VOCAB [Pack Thirteen §6]
+
+Real scientific terms (pressure differential, gradient, latent heat, phase transition, dielectric breakdown, resonance, cavitation, nucleation, information entropy, boundary condition, and the rest) are the vocabulary used to explain what a WOTR noun is doing.
+
+> Real science, by Physics Domain, to explain what the WOTR noun is doing: pressure differential, gradient, latent heat, phase transition, adiabatic compression, dielectric breakdown, induction, eddy current, impedance, resonance, standing wave, interference, damping, cavitation, shear and compression, spallation, hydrostatic shock, nucleation, supercooling, information entropy, boundary condition, degrees of freedom.
+
+### R13-6-METAPHYSICS_VOCAB [Pack Thirteen §6]
+
+Correspondence, sympathy and contagion, essence and accident, form and actualisation, and recognition and refusal are the vocabulary of stratum two's Attraction-side reads and of the document voice.
+
+> Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.
+
+### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
+
+Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
+
+> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
 
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
@@ -1630,7 +2032,31 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (32)
+## naming (59)
+
+### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
+
+The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
+
+> Canonical, used exactly, no approximation: the sixteen Stages by number and source name; the five Bands with Level ranges; the thirteen Tier Grades from Hollow to EX+;
+
+### R14-5-NEAR_MISS_FAIL [Pack Fourteen §5]
+
+A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.
+
+> A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.
+
+### R14-6-CHECK27 [Pack Fourteen §6]
+
+Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
+
+> Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.
+
+### R13-6-WOTR_FIRST [Pack Thirteen §6]
+
+The glossary and Codex's own nouns (the Planes, Aether, Essence, the Soul Crystal and its layers, Crystal States, Attraction/Obsession Force, the Sixty, the Families, the Categories, the Mechanism Vocabulary, EU/Flux Density/AU-s/eta/Band/Grade/Stage) are used in preference to anything borrowed.
+
+> WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density, Residue, Saturation, Essence and its Quality, Signature, Typology, the Soul Crystal and its three layers, Lattice Conductivity, Resonant Purity, Continuum Retention, the four Crystal States, Attraction and Obsession Force, the Sixty, the eight Families, the twenty-six Categories, the Mechanism Vocabulary, EU, Flux Density, AU/s, eta, Band, Grade, Stage.
 
 ### R21-1-SATULAGI_STRUCK [Canon Amendment, Agamalu and Büri Origin I]
 
@@ -1643,6 +2069,144 @@ The Malō of Sātūlagi does not exist and never did; the Büri hold one seat an
 The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+
+### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
+
+Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
+
+> The Polynesian register. The section headed Satulagi / Moto — Polynesian institutional logic and the Agamalu addition beneath it are dead. Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every name built from them.
+
+### R23-2-KOREAN_STRATUM [Inner World Naming Amendment II]
+
+Lineage name first, a two-syllable given name carrying a generational syllable shared across a cohort, plus a hollow-seat subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).
+
+> Korean. Mahuo institutional logic. Lineage name first, two-syllable given name carrying a generational syllable shared across a cohort, plus the hollow-seat that subdivides the lineage.
+
+### R23-2-JAPONIC_STRATUM [Inner World Naming Amendment II]
+
+Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance (Sodoku Moto, Ayame Yuno, Niran, Jinmu Yukari).
+
+> Japonic. Archaic Bloodline institutional logic. Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance.
+
+### R23-2-CHINESE_STRATUM_SUMMARY [Inner World Naming Amendment II]
+
+One-syllable surname, a generation character from a poem fixed centuries in advance, a courtesy name taken at capping for adult use, and an optional studio name for scholars.
+
+> Chinese. Lineage-hall institutional logic. One-syllable surname, a generation character drawn from a poem fixed centuries in advance, a courtesy name taken at capping that becomes the name equals adult use, and an optional studio name for scholars.
+
+### R23-2-FAR_NORTHERN_STRATUM_SUMMARY [Inner World Naming Amendment II]
+
+No inherited surname at all; a name is a person, held by the dead and given on to the living, with kinship terms following the name instead of the blood.
+
+> Far-Northern. Carried-name logic. No inherited surname at all. A name is a person, held by the dead and given on to the living, and kinship terms follow the name instead of the blood.
+
+### R23-2-NORTHERN_STRATUM [Inner World Naming Amendment II]
+
+A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if not, plus an earned byname available to anyone (Bram Greymane, Edward Lambert, Hild Ice).
+
+> Northern. English and Norse. A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if it is not, and an earned byname available to anyone.
+
+### R23-3-STRATUM_FOLLOWS_INSTITUTION [Inner World Naming Amendment III]
+
+Which stratum a character's name belongs to is decided by institution (archaic bloodline, record-keeping house, Accord filing, or the dead) — never by geography and never by blood; the rule retcons nothing, since every existing name already obeys it.
+
+> Stratum follows institution, never geography and never blood.
+
+### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
+
+A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.
+
+> Mixed parentage takes one register, and the choice is a statement. Hild Ice is the model: a Moto father, a Stark mother, and a maternal Northern name carried openly. Nobody has to explain what that means to anyone.
+
+### R23-4-SERVICE_TRANSFERS_REGISTER [Inner World Naming Amendment IV]
+
+A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.
+
+> Service can transfer a register. A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.
+
+### R23-4-RENAMING_IS_JAPONIC_ONLY [Inner World Naming Amendment IV]
+
+Renaming at change of allegiance does not travel into the Northern stratum, where a man who changes sides keeps his name; this is why the Greymane split has no naming event and the Moto exile does.
+
+> Renaming at change of allegiance is Japonic-only. It does not travel into the Northern stratum, where a man who changes sides keeps his name and simply becomes a man with that name who changed sides.
+
+### R23-5-OUTLIER_DEFINED [Inner World Naming Amendment V]
+
+A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.
+
+> A name is an outlier when it fits no stratum: a foreign fostering, a mother's whim, a name bought off a dying man, a bloodline child given a Northern name as an insult or a shield. Bram is the standing example and needs no justification on the page.
+
+### R23-5-OUTLIER_BUDGET [Inner World Naming Amendment V]
+
+Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
+
+> Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
+
+### R23-6-UNTOUCHED_REGISTERS [Inner World Naming Amendment VI]
+
+Dawi (Norse dithematic/Finnic), Elven Peoples (Northwest Coast institutional logic, the Eressean/Varrisak transfer schism), and Goblinoid (Germanic compounding) are none of them Inner World registers, and none are affected by this amendment.
+
+> None of these are Inner World registers and none are affected.
+
+### R23-10-CHINESE_SLOTS [Inner World Naming Amendment X]
+
+Surname (one syllable), generation character (fixed decades in advance by a lineage-hall poem, revealing relative seniority on first exchange), given character (the individual half), courtesy name (taken at capping, adult use — using someone's given name past that point is a superior's privilege or a deliberate insult), studio name (optional, self-chosen, for scholars/physicians/ alchemists), and posthumous name (conferred by the hall, occasionally an insult).
+
+> Surname. One syllable, effectively always. This alone separates it on sight from the Korean stratum, where the lineage name arrives with a hollow-seat behind it.
+
+### R23-10-TELLING_APART_KOREAN [Inner World Naming Amendment X]
+
+A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A hollow-seat means Mahuo; the halls use the book instead. A courtesy name means the halls; no Mahuo character has one. A two-syllable surname means neither register — that's Japonic.
+
+> Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls.
+
+### R23-10-CHINESE_PHONOTACTICS [Inner World Naming Amendment X]
+
+Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
+
+> Open syllables, permitted nasal codas, no clusters. Avoid the wuxia register the base guide already warns off: no four-syllable given names, no sect-title constructions, no honorific stacking.
+
+### R23-10-CHINESE_CONTACT [Inner World Naming Amendment X]
+
+A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission — a small, quiet, permanent thing to do to somebody.
+
+> A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission.
+
+### R23-11-CARRIED_NAME_MECHANISM [Inner World Naming Amendment XI]
+
+A name is not a label but a person; when someone dies the name is held unspoken until given on to a child, who carries the same name, not a memory or tribute, and is treated accordingly by everyone who loved it.
+
+> The carried name. A name is not a label attached to a person. It is a person, and it survives them. When someone dies the name is held, unspoken, until it is given on to a child, and the child carries it.
+
+### R23-11-KIN_TURN [Inner World Naming Amendment XI]
+
+A woman whose mother's name is given to her newborn daughter calls that infant "mother," and means it, and the settlement uses the term with her; names are not gendered, and a person may carry several, each bringing its own kin-turn.
+
+> The kin-turn. Kinship terms follow the name instead of the blood. A woman whose mother's name is given to her newborn daughter calls that infant mother, and means it, and the whole settlement uses the term with her.
+
+### R23-11-NAME_AVOIDANCE_WAITING [Inner World Naming Amendment XI]
+
+The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
+
+> Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
+### R23-11-ROLL_NAMES_FROM_ACCORD [Inner World Naming Amendment XI]
+
+There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
+
+> The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.
+
+### R23-11-PHONOTACTICS [Inner World Naming Amendment XI]
+
+Three vowels (a i u) with phonemic length, uvulars as the signature (q where another register takes k), velar/uvular fricatives, geminate consonants across syllable boundaries, no onset clusters, heavily suffixing with meaningful morphemes, light and late stress.
+
+> Three vowels, a i u, with phonemic length. Uvulars are the signature: q where another register would take k.
+
+### R23-11-CONTACT_RULES [Inner World Naming Amendment XI]
+
+A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
+
+> A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
 
 ### R22-1-HOUSE_STRUCK [Moto Reversion Ledger I]
 
@@ -2006,7 +2570,7 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
-## prose-law (86)
+## prose-law (91)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -2061,6 +2625,30 @@ Natalie no longer raises, fixes, or notes "reads modern" as a critique on princi
 The AI-tell checks (em dashes, similes, not-X-but-Y, countdown negation, gloss, ladder) are about prose failing, not about period, and are unaffected by the register repeal.
 
 > The AI-tell checks. Em dashes, similes, not-X-but-Y, countdown negation, gloss, ladder. These are about prose failing, not about period.
+
+### R14-4-EFFECTS_CHANNEL [Pack Fourteen §4]
+
+Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.
+
+> Grade letters and stat names never appear in narration. Their consequences always do.
+
+### R14-6-CHECK28 [Pack Fourteen §6]
+
+Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+> Check 28, narration leak. Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+### R13-4-THREE_EXPLANATIONS [Pack Thirteen §4]
+
+At first display and finisher, physics, Essence and Hermetic correspondence must each appear as a causal sentence beside its image, not as the image alone.
+
+> The three layers become three explanations. Physics, Essence, Hermetic correspondence: at first display and finisher each is a causal sentence beside its image, not the image alone.
+
+### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
+
+Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
+
+> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
 
 ### R12-1-PACK_SEVEN_REPEALED [Pack Twelve §1]
 
@@ -2494,6 +3082,12 @@ The relationship change is legible in how the two characters handle an unrelated
 
 > In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
 
+### R23-11-NAME_AVOIDANCE_WAITING [Inner World Naming Amendment XI]
+
+The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
+
+> Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
 When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
@@ -2524,7 +3118,7 @@ Never write an Eladrin line of dialogue without a distance or stillness beat att
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
 
-## register (62)
+## register (73)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -2633,6 +3227,66 @@ wotr_verify.sh has no check that touches register, and this pack adds none.
 Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 
 > Pack Five. Register by culture struck. Dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand; none of them are register rules.
+
+### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
+
+Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
+
+> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
+
+### R13-6-WOTR_FIRST [Pack Thirteen §6]
+
+The glossary and Codex's own nouns (the Planes, Aether, Essence, the Soul Crystal and its layers, Crystal States, Attraction/Obsession Force, the Sixty, the Families, the Categories, the Mechanism Vocabulary, EU/Flux Density/AU-s/eta/Band/Grade/Stage) are used in preference to anything borrowed.
+
+> WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density, Residue, Saturation, Essence and its Quality, Signature, Typology, the Soul Crystal and its three layers, Lattice Conductivity, Resonant Purity, Continuum Retention, the four Crystal States, Attraction and Obsession Force, the Sixty, the eight Families, the twenty-six Categories, the Mechanism Vocabulary, EU, Flux Density, AU/s, eta, Band, Grade, Stage.
+
+### R13-6-REAL_SCIENCE_VOCAB [Pack Thirteen §6]
+
+Real scientific terms (pressure differential, gradient, latent heat, phase transition, dielectric breakdown, resonance, cavitation, nucleation, information entropy, boundary condition, and the rest) are the vocabulary used to explain what a WOTR noun is doing.
+
+> Real science, by Physics Domain, to explain what the WOTR noun is doing: pressure differential, gradient, latent heat, phase transition, adiabatic compression, dielectric breakdown, induction, eddy current, impedance, resonance, standing wave, interference, damping, cavitation, shear and compression, spallation, hydrostatic shock, nucleation, supercooling, information entropy, boundary condition, degrees of freedom.
+
+### R13-6-METAPHYSICS_VOCAB [Pack Thirteen §6]
+
+Correspondence, sympathy and contagion, essence and accident, form and actualisation, and recognition and refusal are the vocabulary of stratum two's Attraction-side reads and of the document voice.
+
+> Metaphysics, for the Plane of Fate and the Hermetic layer: correspondence, sympathy and contagion, essence and accident, form and actualisation, recognition and refusal. These are the vocabulary of stratum two's Attraction-side reads and of voice four, the document.
+
+### R13-6-HEMA_VOCAB [Pack Thirteen §6]
+
+Combat vocabulary draws on the full HEMA range (spear/staff, poleaxe, dagger, grappling, messer, sword and buckler, mounted lance) with a percussion master-strike table built for the hammer specifically.
+
+> HEMA, extended past the longsword: spear and staff, poleaxe, dagger and the grappling plays, messer, sword and buckler, mounted lance. A percussion master-strike table built for the hammer, not borrowed.
+
+### R13-6-ANATOMY_VOCAB [Pack Thirteen §6]
+
+Anatomy is named by structure, fractures by fracture type, and neurological consequence by name.
+
+> Anatomy by named structure. Fracture types by name. Neurological consequence by name.
+
+### R13-6-SCALING_VOCAB_RESTRICTED [Pack Thirteen §6]
+
+Scaling-comparison vocabulary (Attack Potency, durability, hax as a concept, speed blitz, reaction vs combat speed, striking vs lifting strength, range, outlier, anti-feat) is used only in author notes and adjudication, never on the page, to keep Natalie honest about who wins and why.
+
+> Scaling vocabulary, author-notes and adjudication only, never on the page: Attack Potency (energy of one attack, not its area), durability, hax (a working that bypasses a statistic rather than overcoming it), speed blitz, reaction speed against combat speed, striking against lifting strength, range, outlier, anti-feat. Used to keep Natalie honest about who wins and why.
+
+### R13-6-ANIME_GRAMMAR_TRANSLATION_AID [Pack Thirteen §6]
+
+Anime shape-vocabulary (Nen's shroud/stop/output/expression, Naruto's shape/nature split, JJK's vow and reversal, Bleach's release) is used only to identify which shape a working needs, then written in WOTR's own words; it never appears as page vocabulary.
+
+> Anime grammar as a translation aid, never as page vocabulary. Nen's shroud, stop, output, expression, and their refinements; Naruto's split of shape from nature; JJK's vow and reversal; Bleach's release. When a WOTR working needs a shape, check which of these it is, then write it in WOTR's words.
+
+### R13-6-CHEMISTRY_BAN_SCOPE [Pack Thirteen §6]
+
+Pack Six's chemistry ban survives, but only for ambient sensory impression; it does not touch a hit, a wound, or a working.
+
+> Pack Six's chemistry ban survives for ambient sensory impression. It does not touch a hit, a wound, or a working.
+
+### R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB [Pack Thirteen §9]
+
+Bare jargon mid-action stays banned, but a Mechanism Vocabulary term may now be named in diagnostic voice alongside its dramatisation.
+
+> WOTR_Master_Style_Directive.md §6. The Mechanism Vocabulary's surfacing rule is amended: bare-jargon mid-action stays banned; the term may be named in diagnostic voice alongside its dramatisation.
 
 ### R12-2-TECHNICAL_REGISTER_DEF [Pack Twelve §2]
 
@@ -2832,6 +3486,12 @@ The Manhwa Energy Directive block is struck in full from project instructions, "
 
 > - Strike the Manhwa Energy Directive block in full. - Strike "manhwa-cinematic" and "manhwa energy" from tone descriptions. - Amend the genre-intersection statement: the pacing ambition survives, the manhwa-cinematic layer does not.
 
+### R23-10-CHINESE_PHONOTACTICS [Inner World Naming Amendment X]
+
+Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
+
+> Open syllables, permitted nasal codas, no clusters. Avoid the wuxia register the base guide already warns off: no four-syllable given names, no sect-title constructions, no honorific stacking.
+
 ### R20-2-HOLY_SEA_NAMING [Naming Guide Amendment Part Two]
 
 Birth name (Concord Common) plus ordination name (Latin, chosen or assigned at vows) plus locative/title; a documented name in the Testimony archive carries metaphysical weight, and an undocumented person is theologically uncounted.
@@ -2898,13 +3558,19 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
-## scene-structure (20)
+## scene-structure (21)
 
 ### R15-4-PACK_FIVE_SCOPE [Pack Fifteen §4]
 
 Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 
 > Pack Five. Register by culture struck. Dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand; none of them are register rules.
+
+### R13-4-DENSITY_BUDGET [Pack Thirteen §4]
+
+A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.
+
+> Density. A duel of 2,500 words carries the full floor at first display and finisher, and items 1 to 4 at every exchange that changes the fight. A turn of 700 to 1,500 carries 1 to 4 once and 8 at close.
 
 ### R12-8-SCENE_GUIDE_PACK7_STRUCK [Pack Twelve §8]
 
@@ -3020,7 +3686,13 @@ Per the Mass Combat Craft Guide §7: the wounded left where they fell, the strip
 
 > The five-stage aftermath sequence (per the Mass Combat Craft Guide section 7): the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season. Any aftermath scene should touch at least two.
 
-## session-protocol (1)
+## session-protocol (2)
+
+### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
+
+Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
+
+> Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
 
 ### R4-ADD-NO_SINGLE_PASS [Pack Four Addendum]
 
@@ -3028,7 +3700,7 @@ wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are f
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
 
-## standing-inventory (9)
+## standing-inventory (11)
 
 ### R15-1-STANDING_INVENTORY_SURVIVES [Pack Fifteen §1]
 
@@ -3078,13 +3750,145 @@ A loaded word gets one physical response on first use and no comment; meaning ar
 
 > A loaded word gets one physical response on first use and no comment at all. Meaning arrives on the third appearance, and it arrives through change: someone else uses the word, or the person who always uses it withholds it, or it lands in a register that makes the earlier uses retroactively legible. Withholding is the strongest of the three.
 
+### R23-8-KHARVEN_INVENTORY_DECOUPLED [Inner World Naming Amendment VIII]
+
+The Kharven Standing Inventory is material culture downstream of permafrost and scarcity, not naming register; striking the Mongolian names doesn't require striking the cold-survival culture — recommendation is to keep it, with the Far-Northern register now settling what it was missing.
+
+> The Kharven Standing Inventory is material culture, not naming register.
+
+### R23-11-NAME_AVOIDANCE_WAITING [Inner World Naming Amendment XI]
+
+The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
+
+> Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
 ### R22-7-KHARVEN_INVENTORY_KEPT [Moto Reversion Ledger VII]
 
 The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (9)
+## stats (29)
+
+### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
+
+Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
+
+> Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
+
+### R14-2-ESTIMATE_MARKING [Pack Fourteen §2]
+
+Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
+
+> Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.
+
+### R14-3-STATS_DECIDE_TABLE [Pack Fourteen §3]
+
+Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
+
+> Table Rule 5 adjudicates from Stage gap, the read, what has been spent, and the environment. This pack names which stat answers each of those, so the adjudication is reconstructible and so the prose can show the right body doing the right thing.
+
+### R14-3-TRACEABILITY [Pack Fourteen §3]
+
+Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
+
+> Every outcome in a fight traces to a row in this table, and the author notes say which.
+
+### R14-4-EFFECTS_CHANNEL [Pack Fourteen §4]
+
+Every stat that decided an outcome must show on the page as behaviour and physics; grade letters and stat names never appear in narration, only their consequences.
+
+> Grade letters and stat names never appear in narration. Their consequences always do.
+
+### R14-4-DIAGNOSTIC_CHANNEL [Pack Fourteen §4]
+
+Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State and Category names reach the page only in a mouth, an instrument, a document, or a practitioner's private count, rationed per Pack Twelve §5, and class-marked per Pack Nine.
+
+> The diagnostic channel, rationed per Twelve §5. Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts, Aether Class, Crystal State, and Category names reach the page in a mouth, an instrument, a document, or a practitioner's private count.
+
+### R14-4-SUBSTAT_DIAGNOSTIC_ONLY [Pack Fourteen §4]
+
+Sub-Stat names are the finest grain the system has, and only a faculty reading reaches for them; nobody else does.
+
+> Sub-Stat names are diagnostic-only. They are the finest grain the system has and they are exactly the words a faculty reading uses. Nobody else reaches for them.
+
+### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
+
+The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
+
+> Canonical, used exactly, no approximation: the sixteen Stages by number and source name; the five Bands with Level ranges; the thirteen Tier Grades from Hollow to EX+;
+
+### R14-5-NEAR_MISS_FAIL [Pack Fourteen §5]
+
+A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.
+
+> A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.
+
+### R14-5-BUILD_TERMS_LIST [Pack Fourteen §5]
+
+Build a canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet and the Categories page, one term per line with its class, for the verification script to check against.
+
+> The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories page. One term per line with its class. The script checks against it.
+
+### R14-6-CHECK27 [Pack Fourteen §6]
+
+Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
+
+> Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.
+
+### R14-6-CHECK28 [Pack Fourteen §6]
+
+Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+> Check 28, narration leak. Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+### R14-6-CHECK29 [Pack Fourteen §6]
+
+The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
+
+> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
+
+### R14-6-NUMBERS_GREP [Pack Fourteen §6]
+
+Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md before presenting; if it is not there, it is marked an estimate.
+
+> Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.
+
+### R14-7-STAT_LEDGER_CONTENTS [Pack Fourteen §7]
+
+Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
+
+> Every scene's author notes carry, per named practitioner: - Stage, Band, Coherence Band, Aether Class, Crystal State going in.
+
+### R14-8-ABILITY_GUIDE_FOW_LINE [Pack Fourteen §8]
+
+Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+> WOTR_Ability_Technique_Design_Guide.md, sixth edition. Every technique entry carries the FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
+
+### R14-8-CHARACTER_SHEET_FOW_LINE [Pack Fourteen §8]
+
+The character sheet template is otherwise unchanged; its Techniques section gains the FOW line.
+
+> Character sheet template. Unchanged in sections; §X Techniques gains the FOW line.
+
+### R14-8-COMBAT_GUIDE_ADJUDICATION [Pack Fourteen §8]
+
+§3's stat-to-question table becomes the adjudication chapter of the Combat Craft Guide (third edition).
+
+> WOTR_Combat_Craft_Guide.md, third edition. §3 above becomes its adjudication chapter.
+
+### R14-8-STAT_SHEET_SOURCE_OF_TRUTH [Pack Fourteen §8]
+
+The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards; where the two disagree, the disagreement is flagged, not resolved.
+
+> The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards, and where they disagree the disagreement is flagged, not resolved.
+
+### R13-2-STRATUM_THREE_ESSENCE [Pack Thirteen §2]
+
+The Essence stratum is the soul's water: Soul Crystal architecture (Essence Core, Aether Shell, Attraction Layer) and cost (EU, eta, Flux Density, Crystal State); real-science analogue is efficiency, impedance, resonance, fatigue, phase change of the vessel.
+
+> Stratum three, the Essence. The soul's water. Soul Crystal architecture: Essence Core (intent, identity), Aether Shell (conversion to force; Lattice Conductivity, Resonant Purity, Continuum Retention), Attraction Layer (recognition; Attraction Force clean, Obsession Force corrupted). Cost lives here: EU spent, eta lost as heat and static and structural bleed, Flux Density under compression, Crystal State under strain (Refined, Fractured, Overgrown, Crystallized).
 
 ### R12-1-NUMBER_BAN_STRUCK [Pack Twelve §1]
 
@@ -3140,7 +3944,7 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
 
-## verification (45)
+## verification (61)
 
 ### R15-2-ONE_TEST [Pack Fifteen §2]
 
@@ -3165,6 +3969,96 @@ The AI-tell checks (em dashes, similes, not-X-but-Y, countdown negation, gloss, 
 wotr_verify.sh has no check that touches register, and this pack adds none.
 
 > wotr_verify.sh. No check touches register. None is added.
+
+### R14-2-ESTIMATE_MARKING [Pack Fourteen §2]
+
+Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
+
+> Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, and marked as such. It is never invented to feel right. Memory rule twenty-six governs and this pack restates it because the failure recurs.
+
+### R14-3-TRACEABILITY [Pack Fourteen §3]
+
+Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
+
+> Every outcome in a fight traces to a row in this table, and the author notes say which.
+
+### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
+
+The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
+
+> Canonical, used exactly, no approximation: the sixteen Stages by number and source name; the five Bands with Level ranges; the thirteen Tier Grades from Hollow to EX+;
+
+### R14-5-NEAR_MISS_FAIL [Pack Fourteen §5]
+
+A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.
+
+> A term not in the source is originated, and flagged as originated in the notes. A near-miss (a Stage renamed, a Wellspring misspelt, a Family misassigned, a Category misaligned) is a fail at verification, not a warning.
+
+### R14-5-BUILD_TERMS_LIST [Pack Fourteen §5]
+
+Build a canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet and the Categories page, one term per line with its class, for the verification script to check against.
+
+> The build task. A canonical term list, wotr_terms.txt, extracted from Fracture_of_Worlds.md, the glossary, the Codex Lists sheet, and the Categories page. One term per line with its class. The script checks against it.
+
+### R14-6-CHECK27 [Pack Fourteen §6]
+
+Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
+
+> Check 27, terminology audit. Every capitalised system term in the draft matched against wotr_terms.txt. Unknown terms listed. Near-misses (edit distance one or two from a canonical term) fail.
+
+### R14-6-CHECK28 [Pack Fourteen §6]
+
+Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+> Check 28, narration leak. Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat name outside quotation marks, italics, or a marked document block fails.
+
+### R14-6-CHECK29 [Pack Fourteen §6]
+
+The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
+
+> Check 29, the loadout. The author notes contain a Stat Ledger for every named practitioner (§7) or the run fails.
+
+### R14-6-NUMBERS_GREP [Pack Fourteen §6]
+
+Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md before presenting; if it is not there, it is marked an estimate.
+
+> Numbers. Any figure in the Stat Ledger grepped against Fracture_of_Worlds.md before presenting. If it is not there, it is marked estimate.
+
+### R14-8-STAT_SHEET_SOURCE_OF_TRUTH [Pack Fourteen §8]
+
+The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards; where the two disagree, the disagreement is flagged, not resolved.
+
+> The Stat Sheet workbook becomes a source of truth for numbers alongside the Notion cards, and where they disagree the disagreement is flagged, not resolved.
+
+### R13-5-GAP_FILL_PASS [Pack Thirteen §5]
+
+Before a submitted fight or working is polished, an eight-step gap-fill pass runs (beat inventory, logic audit, stratum audit, physics audit, body audit, phenomenon audit, vocabulary pass, prose pass last), logged in the author notes under "Added by the gap-fill pass."
+
+> When Isaac submits a fight or a working for improvement, this runs before a single sentence is polished, and the author notes carry a section headed Added by the gap-fill pass, itemised.
+
+### R13-7-RESEARCH_RULE [Pack Thirteen §7]
+
+Before any set piece, first display, finisher or new working, Natalie searches at minimum once each for the real phenomenon, the real weapon/injury/physiology, and the nearest anime or CRP precedent for the shape, consulting the Codex Spell Index and Magical Categories page, and names what was consulted in the author notes; a set piece written from memory is a failed set piece.
+
+> Before any set piece, first display, finisher, or new working, Natalie searches, at minimum, once each for: the real phenomenon; the real weapon, injury, or physiology; and the nearest anime or CRP precedent for the shape. The Codex Spell Index and the Magical Categories page are consulted for assignment. The author notes name what was consulted. A set piece written from memory is a failed set piece.
+
+### R13-8-RECONSTRUCTIBLE_ADJUDICATION [Pack Thirteen §8]
+
+Table Rule 5's contested-action decisions must be reconstructible from the page; a fight that resolves because the scene needed it to has failed the pack and is rewritten.
+
+> Table Rule 5 decides contested actions from Stage gap, whether the read landed, what has been spent, and what the environment allows. This pack requires the decision to be reconstructible from the page. A fight that resolves because the scene needed it to has failed the pack and is rewritten.
+
+### R13-9-VERIFY_CHECKS_22_26 [Pack Thirteen §9]
+
+wotr_verify.sh gains a --combat flag adding checks 22 (HEMA density, warn), 23 (anatomical density, warn), 24 (causal-connective density in fight passages, fail), 25 (a stated fault per named technique, fail), and 26 (a reserve account per working, fail).
+
+> wotr_verify.sh. --combat flag adding checks 22 to 26: HEMA density, anatomical density, causal-connective density in fight passages, a stated fault per named technique, a reserve account per working. 22 and 23 warn; 24 to 26 fail.
+
+### R13-9-NOTES_TEMPLATE_SECTIONS [Pack Thirteen §9]
+
+"Added by the gap-fill pass" and "Phenomenon line" become standing sections of the author notes template.
+
+> Author notes template. Added by the gap-fill pass and Phenomenon line become standing sections.
 
 ### R12-1-APPARATUS_CAP_STRUCK [Pack Twelve §1]
 
@@ -3400,6 +4294,12 @@ If removing the battle would preserve the relationship change, the Act was not u
 
 > If you can remove the battle and preserve the relationship change, the Act was not unrepeatable and the battle was decoration. Rebuild the Act around something the engagement made possible and nothing else could.
 
+### R23-10-TELLING_APART_KOREAN [Inner World Naming Amendment X]
+
+A hyphen means Mahuo (Korean); no hyphen means the lineage halls (Chinese). A hollow-seat means Mahuo; the halls use the book instead. A courtesy name means the halls; no Mahuo character has one. A two-syllable surname means neither register — that's Japonic.
+
+> Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls.
+
 ### R22-3-MONGON_DISPUTE_DEAD [Moto Reversion Ledger III]
 
 The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
@@ -3412,7 +4312,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (61)
+## worldbuilding (80)
 
 ### R15-1-RACIAL_VOICE_MENU [Pack Fifteen §1]
 
@@ -3425,6 +4325,18 @@ The Racial Voice and Dialect Guide and its Amendment stop being enforced; they b
 The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
 
 > The Standing Inventory as a texture source. Kharven's woodpile and night-stone are interesting; that is why they stay. Nothing about them is a register rule.
+
+### R13-2-STRATUM_ONE_AETHER [Pack Thirteen §2]
+
+The Aether stratum is what was already in the room before a draw: Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw Age the district main/standpipe/meter; its real-science analogue is field, gradient, reservoir, saturation, conduction, and a working changes with local density.
+
+> Stratum one, the Aether. The ocean. Material Plane. What was in the room before anyone drew on it: Aetheric Density (sets the AU/s ceiling for that location), Aetheric Residue from prior workings, Aetheric Saturation if the room is already flooded, and in the Draw Age the district main, the standpipe, the meter, and whether the district is cut off.
+
+### R13-6-CHEMISTRY_BAN_SCOPE [Pack Thirteen §6]
+
+Pack Six's chemistry ban survives, but only for ambient sensory impression; it does not touch a hit, a wound, or a working.
+
+> Pack Six's chemistry ban survives for ambient sensory impression. It does not touch a hit, a wound, or a working.
 
 ### R12-2-MYSTIC_REGISTER_DEF [Pack Twelve §2]
 
@@ -3641,6 +4553,108 @@ The Agamalu homeland is Vāimoana, an archipelago in the open water between the 
 The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+
+### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
+
+Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
+
+> The Polynesian register. The section headed Satulagi / Moto — Polynesian institutional logic and the Agamalu addition beneath it are dead. Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every name built from them.
+
+### R23-2-KOREAN_STRATUM [Inner World Naming Amendment II]
+
+Lineage name first, a two-syllable given name carrying a generational syllable shared across a cohort, plus a hollow-seat subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).
+
+> Korean. Mahuo institutional logic. Lineage name first, two-syllable given name carrying a generational syllable shared across a cohort, plus the hollow-seat that subdivides the lineage.
+
+### R23-2-JAPONIC_STRATUM [Inner World Naming Amendment II]
+
+Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance (Sodoku Moto, Ayame Yuno, Niran, Jinmu Yukari).
+
+> Japonic. Archaic Bloodline institutional logic. Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance.
+
+### R23-2-CHINESE_STRATUM_SUMMARY [Inner World Naming Amendment II]
+
+One-syllable surname, a generation character from a poem fixed centuries in advance, a courtesy name taken at capping for adult use, and an optional studio name for scholars.
+
+> Chinese. Lineage-hall institutional logic. One-syllable surname, a generation character drawn from a poem fixed centuries in advance, a courtesy name taken at capping that becomes the name equals adult use, and an optional studio name for scholars.
+
+### R23-2-FAR_NORTHERN_STRATUM_SUMMARY [Inner World Naming Amendment II]
+
+No inherited surname at all; a name is a person, held by the dead and given on to the living, with kinship terms following the name instead of the blood.
+
+> Far-Northern. Carried-name logic. No inherited surname at all. A name is a person, held by the dead and given on to the living, and kinship terms follow the name instead of the blood.
+
+### R23-2-NORTHERN_STRATUM [Inner World Naming Amendment II]
+
+A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if not, plus an earned byname available to anyone (Bram Greymane, Edward Lambert, Hild Ice).
+
+> Northern. English and Norse. A small given-name pool producing constant disambiguation by trade, a frozen surname if the family is chartered and a live patronymic if it is not, and an earned byname available to anyone.
+
+### R23-3-STRATUM_FOLLOWS_INSTITUTION [Inner World Naming Amendment III]
+
+Which stratum a character's name belongs to is decided by institution (archaic bloodline, record-keeping house, Accord filing, or the dead) — never by geography and never by blood; the rule retcons nothing, since every existing name already obeys it.
+
+> Stratum follows institution, never geography and never blood.
+
+### R23-4-SERVICE_TRANSFERS_REGISTER [Inner World Naming Amendment IV]
+
+A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.
+
+> Service can transfer a register. A retainer raised inside a bloodline house may be given a house-register name, and the giving is an event with a cost attached.
+
+### R23-4-RENAMING_IS_JAPONIC_ONLY [Inner World Naming Amendment IV]
+
+Renaming at change of allegiance does not travel into the Northern stratum, where a man who changes sides keeps his name; this is why the Greymane split has no naming event and the Moto exile does.
+
+> Renaming at change of allegiance is Japonic-only. It does not travel into the Northern stratum, where a man who changes sides keeps his name and simply becomes a man with that name who changed sides.
+
+### R23-6-UNTOUCHED_REGISTERS [Inner World Naming Amendment VI]
+
+Dawi (Norse dithematic/Finnic), Elven Peoples (Northwest Coast institutional logic, the Eressean/Varrisak transfer schism), and Goblinoid (Germanic compounding) are none of them Inner World registers, and none are affected by this amendment.
+
+> None of these are Inner World registers and none are affected.
+
+### R23-8-KHARVEN_INVENTORY_DECOUPLED [Inner World Naming Amendment VIII]
+
+The Kharven Standing Inventory is material culture downstream of permafrost and scarcity, not naming register; striking the Mongolian names doesn't require striking the cold-survival culture — recommendation is to keep it, with the Far-Northern register now settling what it was missing.
+
+> The Kharven Standing Inventory is material culture, not naming register.
+
+### R23-10-CHINESE_SLOTS [Inner World Naming Amendment X]
+
+Surname (one syllable), generation character (fixed decades in advance by a lineage-hall poem, revealing relative seniority on first exchange), given character (the individual half), courtesy name (taken at capping, adult use — using someone's given name past that point is a superior's privilege or a deliberate insult), studio name (optional, self-chosen, for scholars/physicians/ alchemists), and posthumous name (conferred by the hall, occasionally an insult).
+
+> Surname. One syllable, effectively always. This alone separates it on sight from the Korean stratum, where the lineage name arrives with a hollow-seat behind it.
+
+### R23-10-CHINESE_CONTACT [Inner World Naming Amendment X]
+
+A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission — a small, quiet, permanent thing to do to somebody.
+
+> A hall child fostered into a Banner House keeps the surname and drops the generation character, and the hall records the omission.
+
+### R23-11-CARRIED_NAME_MECHANISM [Inner World Naming Amendment XI]
+
+A name is not a label but a person; when someone dies the name is held unspoken until given on to a child, who carries the same name, not a memory or tribute, and is treated accordingly by everyone who loved it.
+
+> The carried name. A name is not a label attached to a person. It is a person, and it survives them. When someone dies the name is held, unspoken, until it is given on to a child, and the child carries it.
+
+### R23-11-KIN_TURN [Inner World Naming Amendment XI]
+
+A woman whose mother's name is given to her newborn daughter calls that infant "mother," and means it, and the settlement uses the term with her; names are not gendered, and a person may carry several, each bringing its own kin-turn.
+
+> The kin-turn. Kinship terms follow the name instead of the blood. A woman whose mother's name is given to her newborn daughter calls that infant mother, and means it, and the whole settlement uses the term with her.
+
+### R23-11-ROLL_NAMES_FROM_ACCORD [Inner World Naming Amendment XI]
+
+There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
+
+> The Accord's registers cannot file a person who has no fixed name. So the filing system assigned them: a frozen surname taken off the nearest legible thing, a trade, a landmark, a factor's guess at a sound, handed down in a ledger to people who had never used one and mostly still do not among themselves.
+
+### R23-11-CONTACT_RULES [Inner World Naming Amendment XI]
+
+A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
+
+> A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
 
 ### R22-1-HOUSE_STRUCK [Moto Reversion Ledger I]
 

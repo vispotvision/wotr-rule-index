@@ -1,3 +1,6 @@
+# RATIFIED 2026-09-11 by Isaac's direction in a Claude Code session; every
+# proposed row below was flipped to live and its ratified field set. Rows
+# that are open rulings (status: pending) were left as they were.
 # Pack Fourteen: "Status: originated by Natalie, pending Isaac's ruling"
 # (italic line, source lines 5). No section marked confirmed, so every row
 # is status: proposed. No pack-level Amends: line is given; amends is set
@@ -5,7 +8,7 @@
 pack: Pack Fourteen
 pack_number: 14
 source_file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
-ratified: null
+ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
 rules:
 
   - id: R14-2-LOADOUT_MANDATE
@@ -13,7 +16,7 @@ rules:
     pack_number: 14
     section: "§2"
     title: The FOW line is loaded before any scene or technique design
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Before any scene with a named practitioner, and before designing any
@@ -35,7 +38,7 @@ rules:
     supersedes: []
     applies_to: [stats, adjudication, session-protocol]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "19-30"
@@ -46,7 +49,7 @@ rules:
     pack_number: 14
     section: "§2"
     title: An unsheeted value is written as a marked estimate, never invented
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Where a value is not on any sheet, it is written in the author notes
@@ -62,7 +65,7 @@ rules:
     supersedes: []
     applies_to: [stats, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "32"
@@ -73,7 +76,7 @@ rules:
     pack_number: 14
     section: "§3"
     title: Table Rule 5's adjudication is named stat-by-stat
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Names which stat answers each Table Rule 5 adjudication question (who
@@ -91,7 +94,7 @@ rules:
     supersedes: []
     applies_to: [adjudication, stats, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "38"
@@ -105,7 +108,7 @@ rules:
     pack_number: 14
     section: "§3"
     title: Every combat outcome traces to a table row
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Every outcome in a fight must trace to a row in the §3 table, and the
@@ -117,7 +120,7 @@ rules:
     supersedes: []
     applies_to: [adjudication, stats, verification, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "53"
@@ -128,7 +131,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Grade letters and stat names never appear in narration
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Every stat that decided an outcome must show on the page as behaviour
@@ -141,7 +144,7 @@ rules:
     supersedes: []
     applies_to: [stats, prose-law, combat]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "59"
@@ -152,7 +155,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Stat names reach the page only through the diagnostic channel
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts,
@@ -168,7 +171,7 @@ rules:
     supersedes: []
     applies_to: [stats, dialogue, register]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "61"
@@ -179,7 +182,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Sub-Stat names are reserved to a faculty reading
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Sub-Stat names are the finest grain the system has, and only a
@@ -192,7 +195,7 @@ rules:
     supersedes: []
     applies_to: [stats, dialogue]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "63"
@@ -203,7 +206,7 @@ rules:
     pack_number: 14
     section: "§5"
     title: System terminology is used exactly, never approximated
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The full Fracture of Worlds terminology (Stages, Bands, Tier Grades,
@@ -222,7 +225,7 @@ rules:
     supersedes: []
     applies_to: [stats, naming, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "69"
@@ -233,7 +236,7 @@ rules:
     pack_number: 14
     section: "§5"
     title: A near-miss term is a verification fail, not a warning
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       A term not in the source is flagged as originated; a near-miss (a
@@ -248,7 +251,7 @@ rules:
     supersedes: []
     applies_to: [stats, naming, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "71"
@@ -259,7 +262,7 @@ rules:
     pack_number: 14
     section: "§5"
     title: Build wotr_terms.txt as the canonical term list
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Build a canonical term list, wotr_terms.txt, extracted from
@@ -275,7 +278,7 @@ rules:
     supersedes: []
     applies_to: [verification, stats]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "73"
@@ -286,7 +289,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: "Check 27 — Terminology audit"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Every capitalised system term in the draft is matched against
@@ -303,7 +306,7 @@ rules:
     supersedes: []
     applies_to: [verification, stats, naming]
     verification: ["check-27"]
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "81"
@@ -314,7 +317,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: "Check 28 — Narration leak"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat
@@ -331,7 +334,7 @@ rules:
     supersedes: []
     applies_to: [verification, stats, prose-law]
     verification: ["check-28"]
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "82"
@@ -342,7 +345,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: "Check 29 — The loadout"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       The author notes must contain a Stat Ledger (§7) for every named
@@ -357,7 +360,7 @@ rules:
     supersedes: []
     applies_to: [verification, stats, character-sheet]
     verification: ["check-29"]
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "83"
@@ -368,7 +371,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: Figures are grepped against Fracture_of_Worlds.md before presenting
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Any figure in the Stat Ledger is grepped against Fracture_of_Worlds.md
@@ -381,7 +384,7 @@ rules:
     supersedes: []
     applies_to: [verification, stats]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "84"
@@ -392,7 +395,7 @@ rules:
     pack_number: 14
     section: "§7"
     title: The Stat Ledger's required mechanical contents
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Every scene's author notes carry, per named practitioner: Stage,
@@ -409,7 +412,7 @@ rules:
     supersedes: []
     applies_to: [stats, character-sheet, documents]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "90-92"
@@ -420,7 +423,7 @@ rules:
     pack_number: 14
     section: "§8"
     title: Every technique entry gains an FOW line
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       Every technique entry in the Ability and Technique Design Guide
@@ -439,7 +442,7 @@ rules:
     supersedes: []
     applies_to: [stats, character-sheet, magic-design]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "104"
@@ -450,7 +453,7 @@ rules:
     pack_number: 14
     section: "§8"
     title: The character sheet's Techniques section gains the FOW line
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       The character sheet template is otherwise unchanged; its Techniques
@@ -465,7 +468,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, stats]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "105"
@@ -476,7 +479,7 @@ rules:
     pack_number: 14
     section: "§8"
     title: Pack Fourteen's §3 becomes the Combat Guide's adjudication chapter
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       §3's stat-to-question table becomes the adjudication chapter of the
@@ -491,7 +494,7 @@ rules:
     supersedes: []
     applies_to: [combat, adjudication, stats]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "106"
@@ -502,7 +505,7 @@ rules:
     pack_number: 14
     section: "§8"
     title: The Stat Sheet workbook is a source of truth alongside Notion cards
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Stat Sheet workbook becomes a source of truth for numbers
@@ -519,7 +522,7 @@ rules:
     supersedes: []
     applies_to: [stats, verification]
     verification: []
-    ratified: null
+    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "107"

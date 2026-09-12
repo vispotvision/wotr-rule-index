@@ -283,3 +283,31 @@ non-Latin-1-heavy pack on a Windows console.
     Twelve says "Scene Standards'" mechanism/number bans are struck, but
     no extracted "Scene Standards" definition (Pack One's) contains any
     such bans. Nobody can currently confirm exactly what changed.
+
+## Rulings applied after Phase 5
+
+### 2026-09-11 — Packs Thirteen, Fourteen and the Inner World Naming Amendment ratified
+
+Isaac's direction in a Claude Code session ("yeah most of them are
+ratified"), asked specifically about these three because his standing
+Natalie project instructions already treat them as live ("Packs Twelve,
+Thirteen, Fourteen live"; "The Moto Reversion Ledger and the Inner World
+Naming Amendment govern"). Applied as: every `status: proposed` row in
+`pack-13-thirteen.yaml` (30), `pack-14-fourteen.yaml` (19) and
+`doc-inner-world-naming-amendment.yaml` (24) flipped to `live`, `ratified`
+set to a note quoting the direction, file headers annotated. Open rulings
+(`status: pending`, R13-A..F, R14-A..E, the naming amendment's five open
+items) untouched. No `supersedes` lists needed changing: none of the three
+files carried supersession targets that were waiting on ratification.
+
+Totals after: live 347, superseded 46, pending 60, proposed 124.
+
+Still `proposed`, not asked about, awaiting Isaac: Pack Nineteen (19),
+Eighteen (16), Seventeen (19), Sixteen (18), Eight (26), the originated
+parts of Eleven (17, including R11-3-AMMO_TIERS), four rows of Five, and
+five rows of the Agamalu/Büri Canon Amendment.
+
+Not done: a fresh read-through for new live-vs-live contradictions created
+by these flips. `validate.py`'s mechanical check passes; CONFLICTS.md C-002
+(Filemu Agamalu's Ava-name) is now a clash between three *live* documents
+rather than two live and one proposed, which raises its priority.

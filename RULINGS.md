@@ -91,9 +91,12 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   once re-created the Manual Verification edition from a stale snapshot
   mid-edit; the lost corrections were replayed from the edit log and
   verified. The Item and Equipment Writing Guide survives nowhere;
-  Isaac: "you might have to create it" — being reconstructed from its
-  nine live rules and every surviving reference, marked as a
-  reconstruction. In progress.
+  Isaac: "you might have to create it" — reconstructed as
+  `WOTR_Item_and_Equipment_Writing_Guide (2026-09-12 reconstruction).md`
+  from its nine live rules, Pack Seven's description of the original
+  (testimony, not law) and the artifact pages' practice, through four
+  review passes; its §13 lists what the original held that nothing can
+  restore. Done.
 
 ## 2026-09-12, still later — C-005 and C-006 closed; five proposals ratified
 

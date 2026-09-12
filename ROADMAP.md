@@ -69,10 +69,31 @@ verify the byte count after.)
 - [x] `WOTR_Manual_Verification_Guide (2026-09-12 edition).md` — base recovered from Downloads (2026-08-01 export); 23 rules folded as checks 15–42 with a "Script (v4)" line per check saying what `wotr_verify.sh` actually does; the script's own gaps (no checks 18, 19, 22–29; `--codex` failures never reach the summary line) flagged, not fixed
 - [x] `WOTR_Mass_Combat_Craft_Guide (2026-09-12 edition).md` — base recovered from Isaac's Google Drive; 18 rules folded as new §12–§15 (naval, siege, cavalry, practitioner POV); §11 rewritten as the gaps page that records the closures
 
-Remaining: the Item and Equipment Writing Guide (7 rules; base lost
-everywhere — being reconstructed, see RULINGS.md), and the six base guides
-with 1-6 amendments each -- pick up in a later session the same way (one
-agent per guide, same prompt shape, then the check → fix → re-check loop).
+- [x] `WOTR_Item_and_Equipment_Writing_Guide (2026-09-12 reconstruction).md` — the base is lost everywhere (Downloads, Drive, Trello, the session bundle); rebuilt from its nine live rules, Pack Seven's description of what the original held (Amendment 7.10, as testimony, not law), and the 21 artifact pages' practice; four review passes (fidelity ×2, register, a last count check); §13 lists what the original had that nothing can restore. Isaac: "you might have to create it."
+
+Remaining: the six base guides with 1-6 amendments each -- pick up in a
+later session the same way (one agent per guide, same prompt shape, then the
+check → fix → re-check loop).
+
+## Narration — done 2026-09-12, growing
+
+`build/audio_export.py` reads the scene archive aloud with Kokoro (local,
+CPU, ~5× real time) into the Drive folder `Arcs/Audio/`; a cast file per
+scene (`scenes/cast/<scene>.cast.md`, speaker tags on the scene's own text,
+validated word for word) gives characters and registers their own voices
+from `build/voices.yaml`, with delivery words per line (slow, quiet, beat…)
+and Chatterbox Turbo cues ([sigh], [laugh]…) for speakers on that engine.
+Chatterbox (its own venv, `build/chatterbox_setup.ps1`) is the expressive
+engine: Turbo for cues and speed, standard for the exaggeration knob, both
+able to design a voice from a reference clip. The MCP has `scene_text` →
+`cast_scene` → `narrate_scene` → `narration_status`, and the public server
+serves the MP3s at `/t/<secret>/audio/…`, so a phone can ask for a scene and
+play it while the PC is on. Next steps, when wanted: cast files for the
+whole archive (a workflow: one agent per scene tags speakers, a checker
+validates); a voice per named character in `voices.yaml`; RVC as a third
+stage for community-made voices (needs a DirectML/ROCm torch on the 9070
+XT); the multilingual Chatterbox checkpoint (already downloaded) for the
+Latin lines.
 
 ## Deferred until there is a reason
 

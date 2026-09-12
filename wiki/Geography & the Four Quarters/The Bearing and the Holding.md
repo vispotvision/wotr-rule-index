@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8189-b4e1-fc17e809c714"
 notion_url: "https://app.notion.com/p/The-Bearing-and-the-Holding-3b158200eb228189b4e1fc17e809c714"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Geography", "In-World Document"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-12T17:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -114,3 +114,4 @@ The Measurewrights offer three explanations and endorse none. That the names are
 - [The Outer World — The Southern Pan](The Bearing and the Holding/The Outer World — The Southern Pan.md)
 - [Yasoshima — The Eighty Isles](The Bearing and the Holding/Yasoshima — The Eighty Isles.md)
 - [The Hobgoblin Expanse](The Bearing and the Holding/The Hobgoblin Expanse.md)
+- [Kushara — The Land That Remembers Weight](The Bearing and the Holding/Kushara — The Land That Remembers Weight.md)

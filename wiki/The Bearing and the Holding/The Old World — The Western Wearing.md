@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8150-9ba0-c911e21c22e9"
 notion_url: "https://app.notion.com/p/The-Old-World-The-Western-Wearing-3b158200eb2281509ba0c911e21c22e9"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-12T17:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -65,7 +65,7 @@ Bronze, solder, and the tinning of array contacts. Contact corrosion in a workin
 **Attercrop Vitriol** · *T2 · Liquid reagent · Drainage of abandoned workings, universal in the west*
 Green vitriol, drawn off where pyrite in old spoil weathers into acid water. It is the poison in the orange rivers and it is also, refined, the mordant that fixes ritual ink to any organic substrate. **The same fluid that killed the Aerne valley writes the Accord's own codices.** Western alchemists have stopped remarking on this. Resonance: Dissolution. Family Materia, Domain Material Science. Blinds on contact with the eye and does so without warning, since it does not burn on the skin at working dilution.
 **Glacium** · *T5 · Frost-infused mineral · Iampu, grown in the ice-caves under Winter Court licence*
-Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Crymorath. Family Caloria, Domain Thermodynamics.
+Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Cymorath. Family Caloria, Domain Thermodynamics.
 **Psionite** · *T4 · Mineral · Varūn deep workings*
 Mental fortification stock, worked only by psionically attuned Varūn dwarves under the Psionic Mastery Code. Effectively unavailable outside the kingdom.
 **Vellun Copper** · *T1 · Metal · Source hills unlocated*
@@ -95,76 +95,7 @@ Exports finished goods, worked metal, wolfram, tin, expertise, and credit. Impor
 
 ---
 
-## The Continent Above the Ledger
-
-> ⚠️ **Unreconciled. Do not write from either account until Isaac rules.**
->
-> Everything above this line is the Measurewrights' survey: a worn collisional belt of granite cupolas, coal foreland and karst, with coppiced woodland, orange acid rivers, and materials sourced from **Eresse, Varūn, Iampu and Altherion** — elven and dwarven kingdoms.
->
-> Everything below is *The Geography of the Old World* and *The Eight Great Houses of the Old World*: an ancient Aether-dense supercontinent of desert, rainforest, savanna and rift, ruled from **Kushara** by eight houses, containing no elves or dwarves at all.
->
-> **Both cannot be the western quarter.** Filed unaltered so the material is on the wiki and the contradiction is visible. See the note at the foot of this page.
-
-### Continental orientation
-
-**Classification:** Ancient Aether-Dense Supercontinent · **Epithet:** *The Land That Remembers Weight*
-**Primary sovereign power:** the territories unified beneath Dawn Guard
-The broad shape of a broken shield. Ancient even by the standards of the Continuum: its mountains have been eroded, raised and broken several times over, its rivers run through the ruins of civilisations whose names did not survive, and Wellspring pressure has worked the geology deeply enough that stone, metal, river and forest sometimes carry recognisable spiritual memory.
-- **North** — the largest deserts, salt basins, sandstone kingdoms, buried cities and volcanic glass fields. Immense aquifers and mineral seams beneath the dunes, left by ancient inland seas.
-- **West** — warm, humid, heavily forested. Rainforest descending toward dark estuaries, mangrove deltas, cliff-lined coasts and tropical islands.
-- **Centre** — savanna, wooded grassland, broad rivers, seasonal wetland, and the sovereign heartlands surrounding Kushara. The continent's largest migrations and many of its oldest continuously inhabited cities.
-- **East** — a massive rift system, volcanic mountains, deep lakes, elevated grassland and isolated highland kingdoms. Geologically unstable, extraordinarily rich in metals, gemstones and geothermal Aether.
-- **South** — rolling mineral plateaus, temperate forest, red grassland, warm gulf coasts and the storm-beaten cape. Some of the greatest ports on the continent.
-
-### The Twelve Great Regions
-
-| Region | What it is | What comes out of it |
-|---|---|---|
-| **The Zafaran Expanse** *north* | Not one sand sea but dune oceans, gravel plains, salt depressions, sandstone mountains, dry valleys and green basins. Dunes migrate on seasonal wind and underground Wellspring current, swallowing roads, tombs and whole settlements and returning them generations later. **Features:** the Singing Dunes · the White Salt Mirror · the Buried Stair · the Red Teeth | Sunstone, copper, gold, red salt, desert glass, fire opal, ember iron, solar quartz, pale gypsum, Wellspring amber |
-| **The Blackglass Basin** *west of Zafaran* | Volcanic desert fused to black glass by ancient eruption and magical warfare. Obsidian flats, basalt ridges, grey ash dunes, collapsed chambers. The surface can look solid over hollow lava voids. **Features:** the Mirror Wastes · the Furnace Trenches · Mount Qarash · the Field of Melted Kings | Obsidian, basalt, black diamond, volcanic sulphur, ember iron, nightglass, ash crystal, deep cobalt |
-| **The Kharu Belt** *transitional* | Dry grassland, thorn forest, seasonal rivers, mesas and scattered groves between the northern deserts and the central savanna. Rain is unpredictable; empty channels become violent rivers without warning. **Features:** the Thousand Wells · the Thorn Crown · the Walking Rivers · the Copper Mesas | Copper, tin, malachite, salt, iron, ochre pigment, fossil resin, thunderstone |
-| **The M'Bala Great Savannas** *centre* | Golden grassland, wooded plain, seasonal wetland and broad river. Not wilderness: old roads, pastoral communities, fortified cities, agricultural valleys, royal estates, ancestral shrines and protected migration corridors. **Features:** the Crowned Grass Sea · the Twelve Migration Roads · the Stone Herds · the Thunder Basins | Iron, gold, manganese, quartz, blue agate, red clay, fossil ivory, starstone fragments |
-| **The Kusharan Crownlands** *eastern centre* | Elevated ground where high savanna, river valley and ancient stone plateau meet. Reddish-brown earth, rocky hills, clear rivers, great shade trees, golden building stone. Roads from desert, forest, mountain and coast converge here. | Kusharan gold, blue sapphire, red granite, iron, silver, river pearl, deep quartz, Material Covenant stone |
-| **The Nyoka Rainsea** *equatorial west* | Rainforest vast enough to make its own storms. Layered: sunlit branch, hanging garden, dark middle forest, flooded rootland, fungal cavern, underground river. Some settlements never touch the ground. **Features:** the Roof of Leaves · the Drowned Roots · the Emerald Abyss · the Thunderfall · the Sleepless Grove | Green diamond, cobalt, gold, spirit amber, medicinal resin, bloodwood, Memory bark, luminous fungi, deep-earth salts |
-| **The Great Akar Rift** *east* | Cliffs, fault valleys, volcanoes, geothermal fields, deep lakes and plateaus where the crust is separating. Among the most Aetherically active ground on the Material Plane; Wellspring currents rise near the surface and produce strange weather, mineral growth, mutation and local gravity distortion. **Features:** Lake Nureth · the Red Escarpment · the Breathing Fields · the Hanging Lakes · the Broken Spine | Diamond, sapphire, ruby, obsidian, geothermal crystal, silver, rare-earth metals, Riftstone, gravity ore, black salt |
-| **The Orunthal Highlands** *northeast* | Table mountains, cool valleys, alpine grassland, cloud forest and terraced agriculture. Near the deserts but high enough for rain and snow, feeding rivers that run both to Zafaran and to the central plains. **Features:** the Crown of Clouds · the Stair Fields · the Sky Monasteries · the Echo Valleys | Platinum, silver, highland iron, pale sapphire, sky quartz, white marble, cloudstone |
-| **The Nahal River System** *central artery* | Not one river but a living network of channels, flood basins, seasonal branches and deltas, rising in the Orunthal, the Rift, the Crownlands and the western forest. Its annual expansion enriches soil across several kingdoms. At its widest the far bank cannot be seen. **Features:** the Sundi Inland Sea · the Golden Floodplain · the Reed Labyrinth · the Nine-Mouth Delta | River gold, clay, salt, pearl, freshwater crystal, black silt, blue pigment stone, medicinal reeds |
-| **The Zamara Gulf** *southwest coast* | Tropical beaches, limestone coves, mangrove wetland, coral shelf and broad natural harbour. Cities of coral limestone, painted plaster, dark hardwood, blue tile and copper roofing; narrow streets near the old ports opening into music squares and harbour markets. **Features:** the Painted Harbors · the Mangrove Thrones · the Sapphire Shelf · the Bellwind Coast | Sea salt, coral limestone, pearl, blue copper, shellstone, tropical hardwood, ambergris, Tide crystal |
-| **The Auric Plateau** *southeast interior* | Rolling grassland, red canyon, wooded ridge, rocky upland and deep cave network. The earth runs red, gold, violet or black according to what lies beneath it. Mining cities throughout, many under strict spiritual law because careless extraction damages buried Wellspring routes. **Features:** the Golden Veins · the Deep Choir · the Red Crown Hills · the Iron Forest | Gold, platinum, diamond, chromium, manganese, iron, silver, cobalt, violet crystal, Harmonic ore, star-metal fragments |
-| **The Cape of Storm Drums** *southernmost point* | Sea cliffs, temperate grassland, dark forest, mountain passes and violent water. Two ocean currents meet offshore and make storm, fog and unpredictable sea; water striking hollow caves sounds like distant drumming. **Features:** the Drum Cliffs · the Twin Current Sea · the Silverwood · the Last Lantern | Silver, tin, black pearl, cold iron, storm crystal, granite, saltwood, deep-sea coral |
-
-### Kushara
-
-The city rises across natural plateaus over the **River Kesh**, districts joined by broad avenues, terraced gardens, bridges, stairways and fortified gates. The oldest districts are carved partly into the plateau itself; newer neighbourhoods run out into wooded hills and river plain.
-**The Golden Steps**, the processional stair down from the sovereign district to the old river markets, with a grass slope beside it that children race on. **The River Gardens**, shallow waterways and flowering arches and small painted boats, candlelit at festival and carrying messages downstream. **The Grand Court**, the largest Zettari training ground in the city, adults in the central court and children in the enclosures around it. **The High Gardens**, terraces on the upper walls holding ancient trees, fountains and elevated pools. **The Ancestral Halls**, stone sanctuaries preserving family cords, weapons, Zettari patterns, witness tablets, royal oaths and the records of the dead. **The Bridge of Evening Voices**, where musicians gather at sunset without arrangement and sometimes play until morning. **The Market of Twelve Roads**, where goods from every region of the continent arrive.
-
-### Mountain systems
-
-**The Broken Spine** — volcanic chain following the Akar Rift. Obsidian, diamond, geothermal crystal, deep Wellspring pressure.
-**The Orunthal Crown** — high northeastern mountains feeding many of the continent's largest rivers.
-**The Golden Back** — eroded chain west of Kushara. Gold, iron and ancestral ruins in its lower valleys.
-**The Southern Teeth** — sharp mountains dividing the Auric Plateau from the Cape.
-**The Cloudwall** — western system that traps ocean air and feeds the Nyoka Rainsea.
-
-### The Great Houses
-
-*One Sovereign House and Seven Pillars. The Seven preserve their portions of the continent; House Zettari preserves the relationship between them.*
-| House | Seat and ground | What it holds for the continent |
-|---|---|---|
-| **Zettari** *the Sovereign House* | Kushara · the Crownlands | Sovereignty, continental law, arbitration, the Paths. **Not a pillar. It is what keeps seven pillars from becoming seven crowns** |
-| **N'Kharu** *the Thousand Spears* | Khar'Mbara · M'Bala savanna, southern Kharu Belt | Armies. Roughly forty thousand bannermen at full levy, and the Red Spear Companies standing |
-| **Vokari** *Keepers of the Golden Vein* | Vorak-Tel · Auric Plateau, eastern Golden Back | Gold and the treasury. Mining law that treats extraction as spiritual surgery, and abandons rich seams rather than break what lies under them |
-| **Malani** *the Hands Beneath the Bowl* | Malara-Nahal · Golden Floodplain, Sundi Basin | Food, irrigation, famine response. The Flood Calendar |
-| **Obaru** *Wardens of the Living Green* | Obar-Kele · Nyoka Rainsea, western Cloudwall | Medicine, rare plants, timber, ecological stewardship of a forest everyone wants to strip |
-| **N'Yari** *the House Beneath the Mountain* | Yarath-Kel · Akar Rift, Broken Spine | Strategic minerals and Rift engineering. **Materials advanced civilisation cannot substitute** |
-| **Jomari** *Lords of the Open Water* | Jomaraz · Zamara Gulf, Nine-Mouth Delta | The Gulf Fleet, the ports, foreign commerce, coastal defence |
-| **Zembari** *Keepers of the Hidden Water* | Zembar-Kesh · Zafaran Expanse, Blackglass frontier | Desert routes, aquifers, intelligence. **Armies see armies. Caravans see everything else** |
-
-The Eight Great Houses of Kushara
-
----
-
-> **Open ruling — the two Old Worlds.** Three ways out, none taken:
+> **Resolved — the two Old Worlds.** Three ways out; option two taken:
 >
 > **One.** The four-quarter ledger is older and the geography document supersedes it. Then this page's Formation, Ground and stock sections are dead canon, and Eresse, Varūn, Iampu and Altherion need rehousing in another quarter.
 >
@@ -173,3 +104,4 @@ The Eight Great Houses of Kushara
 > **Three.** Two scales, one name — the quarter and the continent are different objects that happen to collide in the word. Untenable as written; would need one of the two renamed regardless.
 >
 > *The read here: option two. The Kushara material is internally coherent, has eight houses, a named sovereign and twelve regions built out to wildlife level, and does not want to be a quarter of anything. The four-quarter ledger is load-bearing for the Inner World and the whole materials system. Cheaper to move the continent than the ledger.*
+> **Ruled 2026-09-12.** Kushara — the continental orientation, the Twelve Great Regions, the city of Kushara, its mountain systems, and the Eight Great Houses — has been split out to its own page: [Kushara — The Land That Remembers Weight](https://app.notion.com/p/Kushara-The-Land-That-Remembers-Weight-3d958200eb22816bb1b5ca90d76b68d9). This page keeps only the actual Old World quarter above — Formation, The Ground Itself, Bearing Stock, Holding Stock, The Works, What It Costs, Trade Posture — Eresse, Varūn, Iampu, Altherion. See also [The Eight Great Houses of Kushara](https://app.notion.com/p/The-Eight-Great-Houses-of-Kushara-3bd58200eb2281828f5dcd4d842be424) for the Sovereign House and Seven Pillars in full.

@@ -55,11 +55,11 @@ if (Test-Path "G:\My Drive") {
 # make sure we are not committing on top of a stale checkout
 & git pull -q --rebase origin master 2>&1 | Out-Null
 
-$changes = & git status --porcelain -- wiki build/.notion_publish.json
+$changes = & git status --porcelain -- wiki table scenes/CAST.md scenes/TIMELINE.md build/.notion_publish.json
 if (-not $changes) { Log "no wiki changes"; exit 0 }
 
 $n = ($changes | Measure-Object).Count
-& git add -- wiki build/.notion_publish.json
+& git add -- wiki table scenes/CAST.md scenes/TIMELINE.md build/.notion_publish.json
 & git commit -q -m "Wiki sync: $n file(s) changed in Notion`n`nAutomated mirror of the War of the Realms wiki via build/sync.ps1." 2>&1 | Out-Null
 & git push -q origin master 2>&1 | Out-Null
 if ($LASTEXITCODE -ne 0) { Log "push failed"; exit 1 }

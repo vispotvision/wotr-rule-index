@@ -30,6 +30,26 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — wiki-wide docket sweep, first batch
+
+A background agent swept the whole wiki (not just rules/*.yaml) for open
+questions flagged directly in page text. Four rulings from the first
+batch of findings:
+
+- **Cymorath vs. Crymorath.** One Wellspring, not two. Crymorath was the
+  typo; Cymorath is canon. Sweep in progress (background agent).
+- **Tyzura / Ashura Tyurkia.** Isaac: "Tyurkia are now all Yukari so
+  revert them to that." The Tyurkia lineage label is corrected to Yukari
+  wherever it appears (9 files: artifacts, character cards, The Spirit
+  Summoning Arts). Sweep in progress (background agent).
+- **Stage-naming collisions** (Dominion/Convergence vs. Invocation/
+  Realization; a Family misattribution for Psychiken/Mortalis; "Dominion"
+  used as a Stage name when it's a stat). Isaac: FOW/Codex names win
+  everywhere, sweep the rest. Sweep in progress (background agent).
+- **Marrowchalk / phosphate-law jurisdiction.** The Holy Sea of Alabaster
+  inherits the Holy See of Lurien's old jurisdiction over southern
+  phosphate law, along with everything else it replaced.
+
 ## 2026-09-12, later still — backlog batch: voice guide, Sonzai, material culture, naming
 
 - **Sonzai's card (R21-5-SONZAI_PENDING).** Isaac: "Sonzai is not my character

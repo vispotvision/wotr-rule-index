@@ -1140,8 +1140,8 @@
     "pack": "Moto Reversion Ledger",
     "pack_number": null,
     "section": "X",
-    "title": "Muken's children remain contested, unsettled by the reversion",
-    "status": "pending",
+    "title": "Muken's children, ruled 2026-09-12",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Muken's children are still contested, and the reversion does not settle it.",
     "verbatim": "Muken's children. Still contested, and the reversion does not settle it.",
@@ -1152,12 +1152,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: the wiki's five stand",
     "source": {
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "161"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: the wiki's Muken card is canon. His children are Sodoku, Sonzai, Emira, Tomuka and Ezo (the Relationships table on wiki/Volume I — Character Cards/Muken Moto.md, current as of this ruling). The original received text's three-child roster (Temür and Chuluun as heirs) and Enkhtuya-as-child are not adopted; neither is the \"Chuluun, Kuroyuki, Mizuyi\" roster this row's own notes used to cite -- that was the base guides' stale Büri-era paraphrase of an earlier draft of the card and does not match any text the current card actually carries; corrected here rather than carried forward.",
     "superseded_by": []
   },
   {
@@ -2876,8 +2876,8 @@
     "pack": "Pack One",
     "pack_number": 1,
     "section": "Amendment One",
-    "title": "Black Agent's combat assignment, pitched",
-    "status": "pending",
+    "title": "Black Agent's combat assignment, ratified 2026-09-12",
+    "status": "live",
     "kind": "definition",
     "summary": "Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.",
     "verbatim": "Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch",
@@ -2894,12 +2894,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as pitched",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "67"
     },
-    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.",
+    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched.",
     "superseded_by": []
   },
   {
@@ -3121,8 +3121,8 @@
     "pack": "Pack One",
     "pack_number": 1,
     "section": "Amendment One",
-    "title": "Rengai Zettai's combat assignment, post-injury reading pitched",
-    "status": "pending",
+    "title": "Rengai Zettai's combat assignment, ratified 2026-09-12",
+    "status": "live",
     "kind": "definition",
     "summary": "Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.",
     "verbatim": "Rengai Zettai | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Pitch. The post-injury reading follows from the Cinder Lung material and needs your confirmation",
@@ -3139,12 +3139,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as pitched, in full",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "63"
     },
-    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.",
+    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched, including the post-injury reading.",
     "superseded_by": []
   },
   {
@@ -9886,7 +9886,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nine.md",
       "lines": "15"
     },
-    "notes": "RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. Still open: the Law V gate (Stage VII proposed), Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.",
+    "notes": "RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. RULED 2026-09-12, later: the Law V gate is confirmed at Stage VII, as proposed. Still open: Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.",
     "superseded_by": []
   },
   {

@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-99 outstanding.
+96 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -34,12 +34,6 @@
 
 "Sonzai Büri" is renamed "Sonzai" outright per the Moto Reversion Ledger (R22 §II: "Chuluun Büri → Sonzai, originated name dissolved").
 
-## R22-10-MUKEN_CHILDREN_CONTESTED — Muken's children remain contested, unsettled by the reversion
-
-*Moto Reversion Ledger X, blocks: worldbuilding, character-sheet*
-
-> Muken's children. Still contested, and the reversion does not settle it.
-
 ## R22-9-NOTION_BODIES_OUTSTANDING — Page bodies still read Büri; titles alone are not enough
 
 *Moto Reversion Ledger IX, blocks: documents, verification, naming*
@@ -47,22 +41,6 @@
 > Every page body still reads Büri. Titles are done; the text underneath is not.
 
 Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
-
-## R1-1-BLACK_AGENT_ASSIGNED — Black Agent's combat assignment, pitched
-
-*Pack One Amendment One, blocks: combat, character-sheet*
-
-> Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch
-
-Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
-
-## R1-1-RENGAI_ASSIGNED — Rengai Zettai's combat assignment, post-injury reading pitched
-
-*Pack One Amendment One, blocks: combat, character-sheet*
-
-> Rengai Zettai | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Pitch. The post-injury reading follows from the Cinder Lung material and needs your confirmation
-
-Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
 
 ## R1-OP-RACIAL_VOICE_GAPS — Racial Voice Guide gaps, docket 20, untouched
 
@@ -196,7 +174,7 @@ Until ruled, Natalie writes to the proposed answer (yes, Martin wins) and flags 
 
 > Still open, not decided by this pack, and not to be treated as resolved: Chantcraft accept/reject/fold, the Law V gate (Stage VII proposed), Law III's rewrite, whether Runecraft outranks Spellcraft everywhere or by culture, the golden-age question, and the scope of the Latinate/vernacular doublet. All flagged in the source document's Part Four docket and still Isaac's to rule.
 
-RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. Still open: the Law V gate (Stage VII proposed), Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.
+RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. RULED 2026-09-12, later: the Law V gate is confirmed at Stage VII, as proposed. Still open: Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.
 
 ## R16-1-CONSEQUENCE — Technical register belongs in the finished narration, converted
 

@@ -261,8 +261,8 @@ rules:
     pack: Pack One
     pack_number: 1
     section: "Amendment One"
-    title: Rengai Zettai's combat assignment, post-injury reading pitched
-    status: pending
+    title: Rengai Zettai's combat assignment, ratified 2026-09-12
+    status: live
     kind: definition
     summary: >-
       Percussion grammar; signature the Return, narrowing post-injury into
@@ -282,12 +282,12 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as pitched, in full"
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "63"
     notes: >-
-      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
+      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched, including the post-injury reading.
 
 
   - id: R1-1-DOUGOU_ASSIGNED
@@ -380,8 +380,8 @@ rules:
     pack: Pack One
     pack_number: 1
     section: "Amendment One"
-    title: Black Agent's combat assignment, pitched
-    status: pending
+    title: Black Agent's combat assignment, ratified 2026-09-12
+    status: live
     kind: definition
     summary: >-
       Blade grammar; unhurried, every word and motion in exact position,
@@ -398,12 +398,12 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as pitched"
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "67"
     notes: >-
-      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
+      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched.
 
 
   - id: R1-1-RESTRICTED_CHARACTERS_EXCLUDED

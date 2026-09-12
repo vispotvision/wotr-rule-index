@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-397 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+399 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 
@@ -142,7 +142,7 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (49)
+## character-sheet (51)
 
 ### R14-6-CHECK29 [Pack Fourteen §6]
 
@@ -354,6 +354,12 @@ Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowi
 
 > Rashani Zettai | Verdict | Origin read, then Zero-Point deflection. Wins by knowing rather than by reaching. | Structural read through the armour to what it is bolted to. | Canonical
 
+### R1-1-RENGAI_ASSIGNED [Pack One Amendment One]
+
+Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.
+
+> Rengai Zettai | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Pitch. The post-injury reading follows from the Cinder Lung material and needs your confirmation
+
 ### R1-1-DOUGOU_ASSIGNED [Pack One Amendment One]
 
 Percussion grammar; signature the Settling into the Iron Step, striking the ground before the body; answers plate with Black-Heart Bison Break, backforce rather than penetration; canonical.
@@ -365,6 +371,12 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
 
 > Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
+
+### R1-1-BLACK_AGENT_ASSIGNED [Pack One Amendment One]
+
+Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.
+
+> Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch
 
 ### R1-1-RESTRICTED_CHARACTERS_EXCLUDED [Pack One Amendment One]
 
@@ -542,7 +554,7 @@ The chapter as a hard unit with one objective and a hook at close; legibility as
 
 > The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
 
-## combat (56)
+## combat (58)
 
 ### R15-1-TECHNICAL_REGISTER_SURVIVES [Pack Fifteen §1]
 
@@ -856,6 +868,12 @@ Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowi
 
 > Rashani Zettai | Verdict | Origin read, then Zero-Point deflection. Wins by knowing rather than by reaching. | Structural read through the armour to what it is bolted to. | Canonical
 
+### R1-1-RENGAI_ASSIGNED [Pack One Amendment One]
+
+Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.
+
+> Rengai Zettai | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Pitch. The post-injury reading follows from the Cinder Lung material and needs your confirmation
+
 ### R1-1-DOUGOU_ASSIGNED [Pack One Amendment One]
 
 Percussion grammar; signature the Settling into the Iron Step, striking the ground before the body; answers plate with Black-Heart Bison Break, backforce rather than penetration; canonical.
@@ -867,6 +885,12 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
 
 > Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
+
+### R1-1-BLACK_AGENT_ASSIGNED [Pack One Amendment One]
+
+Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.
+
+> Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch
 
 ### R1-1-RESTRICTED_CHARACTERS_EXCLUDED [Pack One Amendment One]
 

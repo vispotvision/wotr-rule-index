@@ -1,6 +1,6 @@
 # Live rules by domain
 
-397 live of 577 extracted.
+399 live of 577 extracted.
 
 ## adjudication (23)
 
@@ -28,7 +28,7 @@
 - **R2-6-DOMAINS_BREAK_NOT_KILL** [Pack Two Amendment Six.4] A seated Domain corrodes cohesion and the line breaks, with killing happening in the rout; assess a Domain-class technique by Re-form rather than by casualties.
 - **R1-2-COUNTERPLAY_THREE_WAYS** [Pack One Amendment Two] Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
-## character-sheet (49)
+## character-sheet (51)
 
 - **R14-6-CHECK29** [Pack Fourteen §6] The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
 - **R14-7-STAT_LEDGER_CONTENTS** [Pack Fourteen §7] Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
@@ -65,8 +65,10 @@
 - **R1-1-THREE_VOCABULARIES_RULING** [Pack One Amendment One] WOTR uses three combat vocabularies (Blade, Verdict, Percussion), not one; the vocabulary is assigned before the technique.
 - **R1-1-SODOKU_ASSIGNED** [Pack One Amendment One] Verdict grammar; signature Ichii Kessai from Lion Stance, no defensive form; answers plate with fault-line propagation, ranking it and cutting where already stressed; canonical, transcribed not invented.
 - **R1-1-RASHANI_ASSIGNED** [Pack One Amendment One] Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowing rather than reaching; answers plate with a structural read through to what it's bolted to; canonical.
+- **R1-1-RENGAI_ASSIGNED** [Pack One Amendment One] Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.
 - **R1-1-DOUGOU_ASSIGNED** [Pack One Amendment One] Percussion grammar; signature the Settling into the Iron Step, striking the ground before the body; answers plate with Black-Heart Bison Break, backforce rather than penetration; canonical.
 - **R1-1-YOKO_ASSIGNED** [Pack One Amendment One] Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+- **R1-1-BLACK_AGENT_ASSIGNED** [Pack One Amendment One] Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS** [Pack One Amendment Three] Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
 - **R23-4-MIXED_PARENTAGE** [Inner World Naming Amendment IV] A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.
@@ -100,7 +102,7 @@
 - **R6-7-GOVERNING_RULE** [Pack Six PART II.7] Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
 - **R5-F-LIGHT_NOVEL_KEPT** [Pack Five F] The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
 
-## combat (56)
+## combat (58)
 
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
@@ -154,8 +156,10 @@
 - **R1-1-PERCUSSION_VS_PLATE_AND_TELL** [Pack One Amendment One] Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 - **R1-1-SODOKU_ASSIGNED** [Pack One Amendment One] Verdict grammar; signature Ichii Kessai from Lion Stance, no defensive form; answers plate with fault-line propagation, ranking it and cutting where already stressed; canonical, transcribed not invented.
 - **R1-1-RASHANI_ASSIGNED** [Pack One Amendment One] Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowing rather than reaching; answers plate with a structural read through to what it's bolted to; canonical.
+- **R1-1-RENGAI_ASSIGNED** [Pack One Amendment One] Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.
 - **R1-1-DOUGOU_ASSIGNED** [Pack One Amendment One] Percussion grammar; signature the Settling into the Iron Step, striking the ground before the body; answers plate with Black-Heart Bison Break, backforce rather than penetration; canonical.
 - **R1-1-YOKO_ASSIGNED** [Pack One Amendment One] Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+- **R1-1-BLACK_AGENT_ASSIGNED** [Pack One Amendment One] Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 

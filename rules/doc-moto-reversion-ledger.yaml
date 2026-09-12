@@ -453,8 +453,8 @@ rules:
     pack: Moto Reversion Ledger
     pack_number: null
     section: "X"
-    title: Muken's children remain contested, unsettled by the reversion
-    status: pending
+    title: Muken's children, ruled 2026-09-12
+    status: superseded
     kind: definition
     summary: >-
       Muken's children are still contested, and the reversion does not
@@ -466,8 +466,17 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: the wiki's five stand"
     source:
       file: WOTR_Moto_Reversion_Ledger.md
       lines: "161"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: the wiki's Muken card is canon. His children are
+      Sodoku, Sonzai, Emira, Tomuka and Ezo (the Relationships table on
+      wiki/Volume I — Character Cards/Muken Moto.md, current as of this
+      ruling). The original received text's three-child roster (Temür and
+      Chuluun as heirs) and Enkhtuya-as-child are not adopted; neither is
+      the "Chuluun, Kuroyuki, Mizuyi" roster this row's own notes used to
+      cite -- that was the base guides' stale Büri-era paraphrase of an
+      earlier draft of the card and does not match any text the current
+      card actually carries; corrected here rather than carried forward.

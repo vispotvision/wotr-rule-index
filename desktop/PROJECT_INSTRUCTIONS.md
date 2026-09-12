@@ -45,10 +45,14 @@ ID. The rule index is in Notion too, as a private page outside the wiki called *
 GitHub files above, refreshed on every push; read whichever is closer to hand.
 The GitHub mirror is a snapshot; when they disagree, Notion is newer.
 
-**The wotr tools** (a local connector, when present): `load_rules(tags)` is the
-live rule index and beats any synced copy; `check_docket(tags)` lists what is
-still unratified for those tags; `archive_scene(title, markdown)` saves a
-finished scene to GitHub and the Notion Scene Archive in one call;
-`log_ruling(rule_id, ruling)` records a ruling Isaac makes at the table.
+**WOTR MCP** (a local connector, when present) is the fast path to all of the
+above and beats any synced copy. `session_start(thread, scene_type)` runs the
+start protocol in one call. `load_rules(tags)` is the live rule index;
+`check_docket(tags)`, `rule(id)`, `list_conflicts()`. `wiki(query)`,
+`character(name)`, `fow_line(name)`, `scene_recall(query)` read the world.
+`verify_scene(markdown)` checks a draft against the prose law before it is
+posted: fix every FAIL. `archive_scene(title, markdown)` saves a finished scene
+to GitHub and Notion; `log_ruling(rule_id, ruling)` records a ruling Isaac
+makes; `propose_rule(...)` files anything you originate as pending.
 
 Load NATALIE.md, run its session start protocol, then answer Isaac.

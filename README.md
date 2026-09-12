@@ -82,15 +82,25 @@ python build/notion_export.py --full     # everything
 python build/notion_export.py --dry-run  # show what would change
 ```
 
-## The MCP server
+## WOTR MCP
 
-`build/mcp_server.py` exposes the index to Claude Desktop as a local connector
-named `wotr` (registered in `claude_desktop_config.json`): `load_rules`, `rule`,
-`check_docket`, `list_conflicts`, `archive_scene`, `log_ruling`, `sync_now`.
+`build/mcp_server.py` exposes the repo to Claude Desktop as a local connector
+named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
+
+| tool | does |
+|---|---|
+| `session_start(thread, scene_type)` | State of Play, Ledger, Fronts, Docket (live from Notion), Standing Inventory, rule loadout |
+| `load_rules(tags)`, `rule(id)`, `check_docket(tags)`, `list_conflicts()` | the index, live from `rules/` |
+| `wiki(query)`, `character(name)`, `fow_line(name)`, `scene_recall(query)` | search the wiki mirror and the scene archive |
+| `verify_scene(markdown, combat, culture, band)` | mechanical prose checks from `build/verify.py`, every finding named by rule id |
+| `archive_scene(title, markdown)` | scenes/ + Notion Scene Archive + commit + push |
+| `log_ruling(rule_id, ruling)` | appends to `RULINGS.md`, pushed; applied to the YAML in the next Claude Code session |
+| `propose_rule(title, text, applies_to)` | appends to `proposals/PROPOSED.md`; folded into the next pack |
+| `sync_now()` | runs `build/sync.ps1` |
+
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP
 Client node (`http://host.docker.internal:8765/mcp` from the n8n container).
-Rulings logged from the table land in `RULINGS.md` and are applied to
-`rules/*.yaml` in the next Claude Code session.
+`build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
 ## What this feeds
 

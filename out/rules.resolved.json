@@ -2872,6 +2872,37 @@
     "superseded_by": []
   },
   {
+    "id": "R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE",
+    "pack": "Obsession Force / Attraction Path Gate Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "Obsession Force satisfies an Attraction Path gate",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.",
+    "verbatim": "Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.",
+    "amends": [
+      {
+        "guide": "The Magic System",
+        "locus": "Attraction Force / Obsession Force",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "magic-mechanism",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Raised as an open ruling on wiki/Volume III — Character Cards/Sinclair Mercer · The Soul Devourer.md (Section IV), which explicitly flagged the question as affecting every corrupted practitioner in the setting, not only Sinclair. Isaac ruled yes; Sinclair's sheet was patched in Notion to a resolved statement (his three gate-contested sub-stats -- Dexterity Silence, Ardency Depth, Tempering Capacity -- now read \"Gate cleared\" and he keeps Silence) and the wiki mirror was re-exported. Checked every other character sheet in wiki/ for the same corrupted-Attraction-Path ambiguity (grep for \"Obsession\" combined with \"Attraction\"/\"gate\"/\"Path\" across every Volume I-VI Character Cards folder). None carried the same pending-ruling structure as of 2026-09-12: Cozbi Mahuo and Azelra Kaine both run partly or wholly on Obsession Force but neither sheet gates specific sub-stats on an unresolved Path question; Aurelian Prudentius Custos Clausorum's Attraction/Obsession ambiguity is a deliberate unresolved in-world mystery (a standing nine-year Arbitration Division case), not a mechanical gate pending Isaac's ruling. Gorrath Bloodspine's sheet contains one comparison line (\"Sinclair loses three sub-stats to the Obsession question\") that is now stale phrasing now that the question is resolved in Sinclair's favor; left untouched since Gorrath himself has no Path caps and is not a corrupted Attraction-Path practitioner -- flagged here rather than silently edited, for Isaac or the main session to decide whether it is worth a wording pass.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

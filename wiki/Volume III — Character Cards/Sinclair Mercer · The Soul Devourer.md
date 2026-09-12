@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-811b-9988-d81970b1c19f"
 notion_url: "https://app.notion.com/p/Sinclair-Mercer-The-Soul-Devourer-3bd58200eb22811b9988d81970b1c19f"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-08-15T10:57:00.000Z"
+last_edited: "2026-09-12T17:10:00.000Z"
 verification: "unverified"
 ---
 
@@ -80,11 +80,11 @@ verification: "unverified"
 | **Vitality** | **426** | S | **Two Grades below his Resilience.** The exploitable gap, and the reason he has twice been badly hurt by opponents well beneath him |
 
 **Path alignment** · **Fate Path dominant, Spirit Path secondary.** This is derived rather than chosen: Severance, Continuity, Nullity, Persistence and Sovereignty are all Fate-gated at Stage VIII or below, and Memory, Warding, Diagnosis, Coherence, Spectral, Suppression and Processing are all Spirit-gated. *A build shaped like his cannot exist on any other Path pairing.*
-> **Open ruling, and it is a real one.** Three of his Sub-Stats — **Dexterity Silence, Ardency Depth, Tempering Capacity** — require **Attraction Path** commitment to exceed their gates.
+> **Ruled, 2026-09-12: Obsession Force satisfies an Attraction Path gate.** Three of his Sub-Stats — **Dexterity Silence, Ardency Depth, Tempering Capacity** — clear **Attraction Path** commitment through Obsession Force and hold at the values below.
 >
 > **Sinclair's Attraction Layer is running under Obsession Force.** Obsession is the corrupted inversion of Attraction, not an absence of it.
 >
-> *Does Obsession satisfy an Attraction Path gate?* If yes, the values below stand. If no, all three cap hard and he loses Silence in particular, **which would mean the man who is quieter than the background is not, and that changes how he is written.** This needs Isaac's ruling and affects every corrupted practitioner in the setting, not only him.
+> *Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12.* The values below stand, confirmed rather than conditional. **He keeps Silence — the man who is quieter than the background stays exactly that.** The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
 
 ---
 
@@ -97,14 +97,14 @@ verification: "unverified"
 | **Resilience Nullity** | 724 | Fate VIII | One of the three subs that only reach true ceiling through Dissonance |
 | **Harmonics Memory** | 716 | Spirit III | **The most uncomfortable line on the sheet.** What his Harmonics remember is not his |
 | **Gnosis Cognition** | 705 | open | Over the line. He is thinking with more than one mind |
-| **Ardency Depth** | 688 | *Attraction IV* | **Gate contested** — see the Obsession ruling above |
+| **Ardency Depth** | 688 | *Attraction IV* | **Gate cleared** — confirmed by the Obsession ruling above |
 | **Gnosis Warding** | 681 | Spirit IV | Why compulsion and erasure find no clean surface on him |
-| **Tempering Capacity** | 664 | *Attraction V* | **Gate contested.** Also the hard ceiling on how many harmonisations he can hold |
+| **Tempering Capacity** | 664 | *Attraction V* | **Gate cleared.** Also the hard ceiling on how many harmonisations he can hold |
 | **Dominion Sovereignty** | 652 | Fate VI | The Unwritten Grave stands on this |
 | **Gnosis Diagnosis** | 640 | Spirit IV | He reads a Crystal's damage before its owner feels it |
 | **Resilience Coherence** | 628 | Spirit III | Holding a fractured Core together at all |
 | **Ardency Spectral** | 611 | Spirit V | Oneirion-adjacent reach without the harmonisation |
-| **Dexterity Silence** | 596 | *Attraction V* | **Gate contested.** Tenebra, expressed. The load-bearing one |
+| **Dexterity Silence** | 596 | *Attraction V* | **Gate cleared.** Tenebra, expressed. The load-bearing one |
 | **Harmonics Suppression** | 584 | Spirit V | Quieter than the background |
 | **Tempering Processing** | 546 | Spirit V | **Low, deliberately.** He has no mechanism for digesting what he takes and has never sought one |
 | **Resilience Persistence** | 510 | Fate V | The lowest of his Resilience spread |

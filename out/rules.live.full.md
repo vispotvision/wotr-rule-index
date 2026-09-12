@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-467 live of 579 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+468 live of 580 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 
@@ -2082,7 +2082,7 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (91)
+## magic-mechanism (92)
 
 ### R18-4-GLYPH_NAMING_CONTEXTS [Pack Eighteen §4]
 
@@ -2629,6 +2629,12 @@ Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Sü
 Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
+
+### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
+
+A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+
+> Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
 
 ## mass-combat (38)
 
@@ -5136,7 +5142,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (32)
+## stats (33)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -5329,6 +5335,12 @@ A Voidic practitioner is a poor attacker and the finest suppression instrument i
 Speed is Essence; a character who arrives fast arrives depleted, and there is no free travel at Grade — a scene with one has spent a resource silently.
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
+
+### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
+
+A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
+
+> Does Obsession satisfy an Attraction Path gate? Yes — Isaac's ruling, 2026-09-12. The values below stand, confirmed rather than conditional. He keeps Silence — the man who is quieter than the background stays exactly that. The ruling is general: Obsession Force satisfies an Attraction Path gate for every corrupted practitioner in the setting, not only him.
 
 ## verification (84)
 

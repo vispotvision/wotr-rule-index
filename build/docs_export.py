@@ -256,6 +256,7 @@ def collect_wiki() -> dict[str, list[tuple[str, str]]]:
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--out", default=str(ROOT / "docs"))
+    ap.add_argument("--private-out", help="folder for The Rule Index document (keep it out of anything shared)")
     ap.add_argument("--only")
     ap.add_argument("--force", action="store_true")
     args = ap.parse_args()
@@ -288,16 +289,22 @@ def main() -> int:
     if args.only:
         jobs = {k: v for k, v in jobs.items() if args.only.lower() in k.lower()}
 
+    private_dir = Path(args.private_out) if args.private_out else out_dir
+    private_dir.mkdir(parents=True, exist_ok=True)
+    if args.private_out and (out_dir / "The Rule Index.docx").exists():
+        (out_dir / "The Rule Index.docx").unlink()  # it lives in the private folder now
+
     written = 0
     for section, (subtitle, items) in sorted(jobs.items()):
         h = hashlib.sha256("\n".join(t + m for t, m in items).encode("utf-8")).hexdigest()[:16]
         fname = f"{safe_name(section)}.docx"
-        if not args.force and manifest.get(fname) == h and (out_dir / fname).exists():
+        dest = private_dir if section == "The Rule Index" else out_dir
+        if not args.force and manifest.get(fname) == h and (dest / fname).exists():
             continue
         doc = new_document(section, subtitle, [t for t, _ in items])
         for n, (t, md) in enumerate(items):
             add_page(doc, t, md, page_break=n < len(items) - 1)
-        doc.save(out_dir / fname)
+        doc.save(dest / fname)
         manifest[fname] = h
         written += 1
         print(f"  wrote {fname} ({len(items)} pages)")

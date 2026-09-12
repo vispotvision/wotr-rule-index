@@ -36,7 +36,7 @@ and the scene archive are in the repo too, but you do not load them from here.
 Docket). This is where canon is edited, where session state lives, and where
 you read wiki pages, character cards and archived scenes when a turn touches
 them: find the page in wiki/INDEX.md, then fetch it from Notion by title or
-ID. The rule index is in the wiki too, under **The Rule Index**
+ID. The rule index is in Notion too, as a private page outside the wiki called **The Rule Index**
 `3d958200-eb22-8113-b34a-cbaf20eae471`: Natalie — Standing Rules
 `3d958200-eb22-8138-8f80-dc57a05789c1`, Live Rules (resolved)
 `3d958200-eb22-816d-bae3-cae939fde2dd`, Docket (index view)

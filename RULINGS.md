@@ -30,6 +30,29 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — wiki-wide docket sweep, second batch
+
+- **The two Old Worlds.** Isaac: adopt the page's own "option two" — rename
+  the continent, not the quarter. The Kushara/Great-Houses material gets
+  its own page named Kushara (already the material's own name for
+  itself); "The Old World — The Western Wearing" stays the actual Old
+  World quarter (Eresse, Varūn, Iampu, Altherion). In progress
+  (background agent).
+- **Muken's descent.** Ratified: born in Nalūn to a Kōkan mother taken by
+  a lesser noble house. The First King section gets its paragraph; the
+  Origin's opening changes from "looked north" to acknowledge he had
+  nowhere else to go. In progress (background agent).
+- **Kaalabad spelling.** "Kaalabad" wins (matches his own Volume I card
+  title). "Kalaabad" swept to match across 6 locations, including two
+  scene filenames. In progress (background agent).
+- **Raga's delivery-method question.** Spoken, not poured — nothing in
+  his entry ever supported a poured mechanism. Kaalabad destroys the
+  construct by killing the voice: interrupting Kwon Mu-jin's naming
+  mid-word (a struck throat, a broken jaw) rather than attacking Raga
+  directly, who cannot be harmed by ordinary means and doesn't need to
+  be. Written directly into wiki/Summoned and Bound/Raga · The Divine
+  Thunder Bear.md.
+
 ## 2026-09-12, still later — wiki-wide docket sweep, first batch
 
 A background agent swept the whole wiki (not just rules/*.yaml) for open

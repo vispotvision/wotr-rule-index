@@ -8,11 +8,15 @@
 """
 import argparse
 import json
+import sys
 
 from common import load_rules
 
 
 def main() -> int:
+    # rule text carries Sātūlagi / Büri etc.; a cp1252 console would crash on it
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
     ap.add_argument("--applies-to", nargs="*", default=[], help="any of these tags")
     ap.add_argument("--status", nargs="*", default=["live"])

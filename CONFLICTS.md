@@ -47,6 +47,40 @@ clause).
 
 ---
 
+## C-002 — does Filemu Agamalu's own Ava-name survive the Polynesian strike
+
+**Rules:** R21-2-FILEMU_FULL_NAMING vs R23-1-POLYNESIAN_REGISTER_STRUCK vs
+R22-2-UNAFFECTED_CHARACTERS
+**The clash:** The Canon Amendment gives Filemu Agamalu a four-slot name
+including an Ava-name (Le Ie Tuuina Atu), conferred by her own house's Ava
+ceremony. The Naming Guide Amendment separately describes "the Agamalu
+addition" as a ceremonial Ava-name slot the Agamalu house's ceremony
+confers on *Moto* governance figures. The Inner World Naming Amendment
+strikes "the Agamalu addition" by name as part of killing the Polynesian
+register for Moto naming. Whether that strike also reaches Filemu's own
+Ava-name (a different application of the same ceremony, to her own house
+rather than to Moto) is not settled by the text. The Moto Reversion
+Ledger says "Filemu Agamalu and the whole Agamalu house keep Polynesian
+register, which the amendment [the Büri reversion] never governed" — but
+that is a different, earlier amendment than the one that strikes "the
+Agamalu addition," so it does not by itself resolve the question either.
+**Quotes:** "The Agamalu addition: The Agamalu Family's naming follows
+the same Polynesian phonological register but adds a ceremonial slot: the
+Ava-name, conferred during the Ava ceremony that precedes every Fono
+session." (Naming Guide Amendment, Part Two) vs "The Polynesian register.
+The section headed Satulagi / Moto — Polynesian institutional logic and
+the Agamalu addition beneath it are dead." (Inner World Naming Amendment
+§I) vs "Filemu Agamalu and the whole Agamalu house keep Polynesian
+register, which the amendment never governed." (Moto Reversion Ledger §II)
+**Consequence if unresolved:** a writer cannot tell whether Filemu
+Agamalu's card still carries an Ava-name (Le Ie Tuuina Atu) or whether
+that slot needs to be dropped or replaced along with the rest of the
+Moto-side Polynesian naming.
+**Recommendation:** none stated by any of the three documents.
+**Status:** open
+
+---
+
 ## C-000 — example row, delete once real ones land
 
 **Rules:** none yet

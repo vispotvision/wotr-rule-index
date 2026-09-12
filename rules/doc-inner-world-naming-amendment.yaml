@@ -1,0 +1,861 @@
+# THE INNER WORLD NAMING AMENDMENT. Standalone doc, no pack number; R23,
+# the newest in the four-document Büri/Moto naming cluster (R20 oldest).
+# The document states outright, mid-text: "Originated content pending
+# Isaac's ratification" (source line 116) -- read as covering the whole
+# document, sections X/XI included ("Added by amendment," with no
+# separate status of their own). Every row here is status:proposed or
+# status:pending, matching BRIEF's own expectation that this reversion
+# cluster lands unratified. The one exception: this document's own
+# restatement that "the Mongolian register... in full, per
+# WOTR_Moto_Reversion_Ledger.md" stays struck is not given its own row,
+# since it just reconfirms R22's already-settled reversion rather than
+# proposing anything new.
+pack: Inner World Naming Amendment
+pack_number: null
+source_file: WOTR_Inner_World_Naming_Amendment.md
+ratified: null
+rules:
+
+  - id: R23-1-POLYNESIAN_REGISTER_STRUCK
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "I"
+    title: The Polynesian register for Moto naming is struck, dead
+    status: proposed
+    kind: repeal
+    summary: >-
+      Samoan phonotactics, the fa'amatai title system, the aiga, the
+      Ava-name slot, the gafa, and every Moto name built from them are
+      dead; the Polynesian register survives nowhere in the Inner World
+      naming baseline (the Agamalu house's own naming is a separate
+      question, not an Inner World register — see notes).
+    verbatim: >-
+      The Polynesian register. The section headed Satulagi / Moto —
+      Polynesian institutional logic and the Agamalu addition beneath it
+      are dead. Samoan phonotactics, the fa'amatai title system, the
+      aiga, the Ava-name slot, the gafa, and every name built from them.
+    amends:
+      - guide: "WOTR_Naming_Guide_Amendment.docx"
+        locus: "Part Two, Satulagi/Moto"
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "9"
+    notes: >-
+      Confirms R20-2-MOTO_POLYNESIAN_STRUCK and
+      R20-2-AGAMALU_ADDITION_STRUCK. "Neither register survives anywhere
+      in the Inner World" (source line 13) is about the Inner World
+      naming baseline this document establishes for Moto specifically —
+      it does not by its own words reach the Agamalu house's own naming
+      for its own members (Filemu Agamalu etc.), which the Moto Reversion
+      Ledger separately says the amendment "never governed"
+      (R22-2-UNAFFECTED_CHARACTERS). See CONFLICTS.md for the remaining
+      ambiguity around the shared "Agamalu addition" wording.
+
+  - id: R23-2-KOREAN_STRATUM
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "II"
+    title: "The Korean stratum: Mahuo institutional logic"
+    status: proposed
+    kind: definition
+    summary: >-
+      Lineage name first, a two-syllable given name carrying a
+      generational syllable shared across a cohort, plus a hollow-seat
+      subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).
+    verbatim: >-
+      Korean. Mahuo institutional logic. Lineage name first, two-syllable
+      given name carrying a generational syllable shared across a cohort,
+      plus the hollow-seat that subdivides the lineage.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "21"
+    notes: null
+
+  - id: R23-2-JAPONIC_STRATUM
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "II"
+    title: "The Japonic stratum: Archaic Bloodline institutional logic"
+    status: proposed
+    kind: definition
+    summary: >-
+      Full life-stage slots, name-taboo on the living, compound
+      topographic surnames, renaming at promotion or vow or change of
+      allegiance (Sodoku Moto, Ayame Yuno, Niran, Jinmu Yukari).
+    verbatim: >-
+      Japonic. Archaic Bloodline institutional logic. Full life-stage
+      slots, name-taboo on the living, compound topographic surnames,
+      renaming at promotion or vow or change of allegiance.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "23"
+    notes: >-
+      This is the stratum Moto now belongs to, per the Moto Reversion
+      Ledger (R22).
+
+  - id: R23-2-CHINESE_STRATUM_SUMMARY
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "II"
+    title: "The Chinese stratum: lineage-hall institutional logic"
+    status: proposed
+    kind: definition
+    summary: >-
+      One-syllable surname, a generation character from a poem fixed
+      centuries in advance, a courtesy name taken at capping for adult
+      use, and an optional studio name for scholars.
+    verbatim: >-
+      Chinese. Lineage-hall institutional logic. One-syllable surname, a
+      generation character drawn from a poem fixed centuries in advance, a
+      courtesy name taken at capping that becomes the name equals adult
+      use, and an optional studio name for scholars.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "25"
+    notes: >-
+      Elaborated in full in Section X (R23-10-* rows).
+
+  - id: R23-2-FAR_NORTHERN_STRATUM_SUMMARY
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "II"
+    title: "The Far-Northern stratum: carried-name logic"
+    status: proposed
+    kind: definition
+    summary: >-
+      No inherited surname at all; a name is a person, held by the dead
+      and given on to the living, with kinship terms following the name
+      instead of the blood.
+    verbatim: >-
+      Far-Northern. Carried-name logic. No inherited surname at all. A
+      name is a person, held by the dead and given on to the living, and
+      kinship terms follow the name instead of the blood.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "27"
+    notes: >-
+      Elaborated in full in Section XI (R23-11-* rows).
+
+  - id: R23-2-NORTHERN_STRATUM
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "II"
+    title: "The Northern stratum: English and Norse filing"
+    status: proposed
+    kind: definition
+    summary: >-
+      A small given-name pool producing constant disambiguation by trade,
+      a frozen surname if the family is chartered and a live patronymic
+      if not, plus an earned byname available to anyone (Bram Greymane,
+      Edward Lambert, Hild Ice).
+    verbatim: >-
+      Northern. English and Norse. A small given-name pool producing
+      constant disambiguation by trade, a frozen surname if the family is
+      chartered and a live patronymic if it is not, and an earned byname
+      available to anyone.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "29"
+    notes: null
+
+  - id: R23-3-STRATUM_FOLLOWS_INSTITUTION
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "III"
+    title: Stratum follows institution, never geography, never blood
+    status: proposed
+    kind: mandate
+    summary: >-
+      Which stratum a character's name belongs to is decided by
+      institution (archaic bloodline, record-keeping house, Accord
+      filing, or the dead) — never by geography and never by blood; the
+      rule retcons nothing, since every existing name already obeys it.
+    verbatim: >-
+      Stratum follows institution, never geography and never blood.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Inner World baseline"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "35"
+    notes: null
+
+  - id: R23-4-MIXED_PARENTAGE
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "IV"
+    title: Mixed parentage takes one register, and the choice is a statement
+    status: proposed
+    kind: mandate
+    summary: >-
+      A character of mixed parentage takes one naming register rather
+      than blending; Hild Ice is the model — a Moto father, a Stark
+      mother, a maternal Northern name carried openly, needing no
+      explanation.
+    verbatim: >-
+      Mixed parentage takes one register, and the choice is a statement.
+      Hild Ice is the model: a Moto father, a Stark mother, and a maternal
+      Northern name carried openly. Nobody has to explain what that means
+      to anyone.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "53"
+    notes: null
+
+  - id: R23-4-SERVICE_TRANSFERS_REGISTER
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "IV"
+    title: Service can transfer a register, and the giving costs
+    status: proposed
+    kind: mandate
+    summary: >-
+      A retainer raised inside a bloodline house may be given a
+      house-register name, and the giving is an event with a cost
+      attached.
+    verbatim: >-
+      Service can transfer a register. A retainer raised inside a
+      bloodline house may be given a house-register name, and the giving
+      is an event with a cost attached.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "55"
+    notes: null
+
+  - id: R23-4-RENAMING_IS_JAPONIC_ONLY
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "IV"
+    title: Renaming at change of allegiance is Japonic-only
+    status: proposed
+    kind: definition
+    summary: >-
+      Renaming at change of allegiance does not travel into the Northern
+      stratum, where a man who changes sides keeps his name; this is why
+      the Greymane split has no naming event and the Moto exile does.
+    verbatim: >-
+      Renaming at change of allegiance is Japonic-only. It does not travel
+      into the Northern stratum, where a man who changes sides keeps his
+      name and simply becomes a man with that name who changed sides.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "57"
+    notes: null
+
+  - id: R23-5-OUTLIER_DEFINED
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "V"
+    title: An outlier name fits no stratum, and needs no justification
+    status: proposed
+    kind: definition
+    summary: >-
+      A name is an outlier when it fits no stratum (foreign fostering, a
+      mother's whim, a bought name, an insult or shield name); Bram is
+      the standing example and needs no justification on the page.
+    verbatim: >-
+      A name is an outlier when it fits no stratum: a foreign fostering, a
+      mother's whim, a name bought off a dying man, a bloodline child
+      given a Northern name as an insult or a shield. Bram is the
+      standing example and needs no justification on the page.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Outliers"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "65"
+    notes: null
+
+  - id: R23-5-OUTLIER_BUDGET
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "V"
+    title: Roughly one outlier name in eight, each with a workbook reason
+    status: proposed
+    kind: budget
+    summary: >-
+      Roughly one outlier in eight named characters, each with a reason
+      that exists in the workbook whether or not it reaches prose; above
+      that ratio the registers stop reading as systems and start reading
+      as an author picking names he liked.
+    verbatim: >-
+      Budget: roughly one outlier in eight named characters, and each one
+      has a reason that exists in the workbook whether or not it ever
+      reaches prose. Above that ratio the registers stop reading as
+      systems and start reading as an author picking names he liked.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Outliers"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "67"
+    notes: >-
+      Restated as still open/adjustable in §IX and §XII of this same
+      document; the ratio is coined here, not yet ratified.
+
+  - id: R23-6-UNTOUCHED_REGISTERS
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "VI"
+    title: Dawi, Elven and Goblinoid are not Inner World registers
+    status: proposed
+    kind: definition
+    summary: >-
+      Dawi (Norse dithematic/Finnic), Elven Peoples (Northwest Coast
+      institutional logic, the Eressean/Varrisak transfer schism), and
+      Goblinoid (Germanic compounding) are none of them Inner World
+      registers, and none are affected by this amendment.
+    verbatim: >-
+      None of these are Inner World registers and none are affected.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "79"
+    notes: null
+
+  - id: R23-7-TAULAGI_AFASOA_PENDING
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "VII"
+    title: Taulagi and Afasoa need a new register, Isaac's call
+    status: pending
+    kind: definition
+    summary: >-
+      Taulagi and Afasoa (Polynesian names on Inner World characters, now
+      unsupported) need either a bloodline route (Japonic names as Yuno
+      retainers — proposed Heisuke and Sadamu/Futakoto) or a Northern
+      route (sworn men, Northern names with the epithet kept as an
+      earned byname); untouched, Isaac's call.
+    verbatim: >-
+      Taulagi and Afasoa, Two Words. Polynesian names on Inner World
+      characters, now unsupported by any register.
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "85-90"
+    notes: null
+
+  - id: R23-8-KHARVEN_INVENTORY_DECOUPLED
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "VIII"
+    title: The Kharven Standing Inventory is material culture, not a register
+    status: proposed
+    kind: definition
+    summary: >-
+      The Kharven Standing Inventory is material culture downstream of
+      permafrost and scarcity, not naming register; striking the
+      Mongolian names doesn't require striking the cold-survival culture —
+      recommendation is to keep it, with the Far-Northern register now
+      settling what it was missing.
+    verbatim: >-
+      The Kharven Standing Inventory is material culture, not naming
+      register.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "98-100"
+    notes: >-
+      Consistent with R22-7-KHARVEN_INVENTORY_KEPT (Moto Reversion
+      Ledger), which makes the same recommendation.
+
+  - id: R23-8-KHARVEN_TRIMS_PENDING
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "VIII"
+    title: Steppe-specific Kharven Inventory items should trim or rename
+    status: pending
+    kind: definition
+    summary: >-
+      Airag (and its refusal-insult), borts, aaruul, the deel, and Tengri
+      are steppe items and should go or be renamed; everything else
+      (woodpile, night-stone, Thin Weeks, death-house/Waiting, sky
+      burial, seal fat/blubber lamps, permafrost root cache, meat-sharing,
+      labour-debt, breath-plume, all eight proverbs) survives untouched.
+    verbatim: >-
+      Consequent trims to the Inventory: airag and the insult attached to
+      refusing it, borts, aaruul, the deel, and Tengri are steppe items
+      and should go or be renamed.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "102"
+    notes: null
+
+  - id: R23-9-SATULAGI_STAYS_DEAD_CONFIRM
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "IX"
+    title: Sātūlagi stays struck for a structural reason, needs confirming
+    status: pending
+    kind: definition
+    summary: >-
+      Sātūlagi was struck by the Agamalu amendment for a structural
+      reason rather than a linguistic one; reverting the naming register
+      does not restore it — needs confirming it stays dead.
+    verbatim: >-
+      Sātūlagi. Struck by the Agamalu amendment for a structural reason
+      rather than a linguistic one. Reverting the register does not
+      restore it. Confirm it stays dead.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "110"
+    notes: >-
+      Cross-references R21-1-SATULAGI_STRUCK (Canon Amendment, "Isaac's
+      own direction," status:live).
+
+  - id: R23-9-BRIEF_NEEDS_REPLACING
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "IX"
+    title: The standing project brief still carries the struck Büri amendment
+    status: pending
+    kind: procedure
+    summary: >-
+      The standing project brief still carries a live section headed "THE
+      BÜRI CULTURAL AMENDMENT" and a Büri voice roster; it cannot be
+      edited from this session and needs replacing with this file or it
+      will keep governing every session start.
+    verbatim: >-
+      Your standing project brief still carries a live section headed THE
+      BÜRI CULTURAL AMENDMENT and a Büri voice roster. I cannot edit that
+      file. It needs replacing with this one or it will keep governing
+      every session start.
+    amends: null
+    supersedes: []
+    applies_to: [session-protocol, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "112"
+    notes: null
+
+  - id: R23-10-CHINESE_SLOTS
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "X"
+    title: The Chinese stratum's six name slots
+    status: proposed
+    kind: definition
+    summary: >-
+      Surname (one syllable), generation character (fixed decades in
+      advance by a lineage-hall poem, revealing relative seniority on
+      first exchange), given character (the individual half), courtesy
+      name (taken at capping, adult use — using someone's given name past
+      that point is a superior's privilege or a deliberate insult),
+      studio name (optional, self-chosen, for scholars/physicians/
+      alchemists), and posthumous name (conferred by the hall, occasionally
+      an insult).
+    verbatim: >-
+      Surname. One syllable, effectively always. This alone separates it
+      on sight from the Korean stratum, where the lineage name arrives
+      with a hollow-seat behind it.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Chinese stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "126"
+    notes: null
+
+  - id: R23-10-TELLING_APART_KOREAN
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "X"
+    title: Distinguishing the Chinese stratum from the Korean on the page
+    status: proposed
+    kind: definition
+    summary: >-
+      A hyphen means Mahuo (Korean); no hyphen means the lineage halls
+      (Chinese). A hollow-seat means Mahuo; the halls use the book
+      instead. A courtesy name means the halls; no Mahuo character has
+      one. A two-syllable surname means neither register — that's
+      Japonic.
+    verbatim: >-
+      Hyphen means Mahuo. Kwon Mu-jin. No hyphen means the lineage halls.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Chinese stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "142"
+    notes: null
+
+  - id: R23-10-CHINESE_PHONOTACTICS
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "X"
+    title: Chinese stratum phonotactics avoid the wuxia register
+    status: proposed
+    kind: ban
+    summary: >-
+      Open syllables, permitted nasal codas, no clusters; avoid the wuxia
+      register the base guide already warns off — no four-syllable given
+      names, no sect-title constructions, no honorific stacking.
+    verbatim: >-
+      Open syllables, permitted nasal codas, no clusters. Avoid the wuxia
+      register the base guide already warns off: no four-syllable given
+      names, no sect-title constructions, no honorific stacking.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Chinese stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "155"
+    notes: null
+
+  - id: R23-10-CHINESE_CONTACT
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "X"
+    title: A hall child fostered into a Banner House drops the generation character
+    status: proposed
+    kind: definition
+    summary: >-
+      A hall child fostered into a Banner House keeps the surname and
+      drops the generation character, and the hall records the omission —
+      a small, quiet, permanent thing to do to somebody.
+    verbatim: >-
+      A hall child fostered into a Banner House keeps the surname and
+      drops the generation character, and the hall records the omission.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Chinese stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "159"
+    notes: null
+
+  - id: R23-11-CARRIED_NAME_MECHANISM
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: A carried name is a person, and it survives them
+    status: proposed
+    kind: definition
+    summary: >-
+      A name is not a label but a person; when someone dies the name is
+      held unspoken until given on to a child, who carries the same name,
+      not a memory or tribute, and is treated accordingly by everyone who
+      loved it.
+    verbatim: >-
+      The carried name. A name is not a label attached to a person. It is
+      a person, and it survives them. When someone dies the name is held,
+      unspoken, until it is given on to a child, and the child carries it.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "169"
+    notes: null
+
+  - id: R23-11-KIN_TURN
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: The kin-turn, kinship terms follow the name instead of the blood
+    status: proposed
+    kind: definition
+    summary: >-
+      A woman whose mother's name is given to her newborn daughter calls
+      that infant "mother," and means it, and the settlement uses the
+      term with her; names are not gendered, and a person may carry
+      several, each bringing its own kin-turn.
+    verbatim: >-
+      The kin-turn. Kinship terms follow the name instead of the blood. A
+      woman whose mother's name is given to her newborn daughter calls
+      that infant mother, and means it, and the whole settlement uses the
+      term with her.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "171"
+    notes: null
+
+  - id: R23-11-NAME_AVOIDANCE_WAITING
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: Name-avoidance interlocks with Kharven's Waiting
+    status: proposed
+    kind: definition
+    summary: >-
+      The name of the recently dead is unsayable until given on; the
+      Waiting is the silence — the body waits in the death-house because
+      the ground is frozen, and the name waits with it, leaving a hole in
+      the household's vocabulary that everyone steers around.
+    verbatim: >-
+      Name-avoidance. The name of the recently dead is not spoken until it
+      has been given on. This interlocks with the Standing Inventory at no
+      cost: the Waiting is the silence.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, standing-inventory, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "177"
+    notes: null
+
+  - id: R23-11-ROLL_NAMES_FROM_ACCORD
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: Far-Northern surnames were assigned by the Accord's filing system
+    status: proposed
+    kind: definition
+    summary: >-
+      There never was an inherited surname; the Accord's registers
+      assigned a frozen surname off the nearest legible thing (Ice, Foss),
+      so a Far-Northern character has a roll-name the Accord/muster/tax
+      survey use and a separate carried name the household uses.
+    verbatim: >-
+      The Accord's registers cannot file a person who has no fixed name.
+      So the filing system assigned them: a frozen surname taken off the
+      nearest legible thing, a trade, a landmark, a factor's guess at a
+      sound, handed down in a ledger to people who had never used one and
+      mostly still do not among themselves.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "183"
+    notes: null
+
+  - id: R23-11-PHONOTACTICS
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: Far-Northern phonotactics for coining names
+    status: proposed
+    kind: definition
+    summary: >-
+      Three vowels (a i u) with phonemic length, uvulars as the signature
+      (q where another register takes k), velar/uvular fricatives,
+      geminate consonants across syllable boundaries, no onset clusters,
+      heavily suffixing with meaningful morphemes, light and late stress.
+    verbatim: >-
+      Three vowels, a i u, with phonemic length. Uvulars are the
+      signature: q where another register would take k.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "191"
+    notes: null
+
+  - id: R23-11-CONTACT_RULES
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XI"
+    title: A carried name does not transfer out; giving one is enormous
+    status: proposed
+    kind: definition
+    summary: >-
+      A Far-Northern child fostered south keeps the carried name but
+      simply stops hearing it used, and the kin-turns lapse; giving a
+      carried name to an outsider makes them a specific dead person, with
+      all the kin-turns, binding the household without individual
+      consent.
+    verbatim: >-
+      A carried name does not transfer out. A Far-Northern child fostered
+      south keeps it and simply stops hearing it used, and the kin-turns
+      lapse, and that lapse is one of the quieter griefs available in the
+      setting.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Far-Northern stratum"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "197"
+    notes: null
+
+  - id: R23-12-ICE_ROLL_NAME_PENDING
+    pack: Inner World Naming Amendment
+    pack_number: null
+    section: "XII"
+    title: Whether Hild and Robin Ice carry an unheard carried name
+    status: pending
+    kind: definition
+    summary: >-
+      Under this amendment, "Ice" is a roll-name the Accord assigned;
+      both Hild and Robin Ice may therefore carry a name nobody in the
+      south has heard — Isaac's call whether that's true of them, and if
+      so it's worth a scene rather than a line.
+    verbatim: >-
+      Hild Ice and Robin Ice. Under this amendment, Ice is a roll-name the
+      Accord assigned. Both may therefore carry a name nobody in the
+      south has ever heard. Your call whether that is true of them, and
+      if it is, it is worth a scene rather than a line.
+    amends: null
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Inner_World_Naming_Amendment.md
+      lines: "215"
+    notes: null

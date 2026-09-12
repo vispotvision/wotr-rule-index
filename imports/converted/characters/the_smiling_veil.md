@@ -1,7 +1,7 @@
 # Arven Solthiel · The Smiling Veil
 
 > *His smile, always slight, feels like he knows something you once forgot.*
-> **Migrated with all content preserved.** The card is labelled *Needs Expansion* and is thin; nothing has been added to fill it. *"Stage VIII, Benediction"* names a Wellspring, and Benediction is not a Stage; **Stage VIII is retained as Transcendence.** *"Aether Class: Echo-Walker (Sub-Dream Variant)"* is not among the seven; **at Band B the Shell is Class V, Radiant.** *"Harmonic-Refractive; semi-spectral resonance between waking and oneiric states"* was not an Essence Typology; the disposition reads as **Fluxia dominant, Limina undertone.** *"Aspectal Alignment: Spirit / Mind"* is old vocabulary; the Path is Spirit. *"Somnalis (Dream & Silence)"* converts to the current Somnalis, the Dream Veil, Fluxia. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** the Outer Sanctum of the Dream Seminary (also called the Somnalis Seminary), the Wellspring Silence as an event, the office of *Echo Courier* (Eira Vale's card carries a *Concord courier of memory-chains* called the Echo Runner, which may be the same office under another name), *"Veil-Touched hybrid"* as a lineage, and the gloss of `Ci` as Reverie (canon reads `Ci` as Order; `Wy` Motion and `Ie` Insight are attested). Eresse, the Black Concord and the Guild Accord are attested. **Pending Isaac:** the Level within Band III (231 is an estimate; the card gives a Stage and one high-level invocation and nothing else to place him by), η and the peak step, the Echo Courier / Echo Runner identity, and chapter appearances.
+> **Migrated with all content preserved.** The card is labelled *Needs Expansion* and is thin; nothing has been added to fill it. *"Stage VIII, Benediction"* names a Wellspring, and Benediction is not a Stage; **Stage VIII is retained as Transcendence.** *"Aether Class: Echo-Walker (Sub-Dream Variant)"* is not among the seven; **at Band B the Shell is Class V, Radiant.** *"Harmonic-Refractive; semi-spectral resonance between waking and oneiric states"* was not an Essence Typology; the disposition reads as **Fluxia dominant, Limina undertone.** *"Aspectal Alignment: Spirit / Mind"* is old vocabulary; the Path is Spirit. *"Somnalis (Dream & Silence)"* converts to the current Somnalis, the Dream Veil, Fluxia. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** the Outer Sanctum of the Dream Seminary (also called the Somnalis Seminary), the Wellspring Silence as an event, the office of *Echo Courier* (Eira Vale's card carries a *Concord courier of memory-chains* called the Echo Runner, which may be the same office under another name), *"Veil-Touched hybrid"* as a lineage, and the gloss of `Ci` as Reverie (canon reads `Ci` as Order; `Wy` Motion and `Ie` Insight are attested). Eresse, the Black Concord and the Guild Accord are attested. **Values chosen:** Level 231, low in Band III — the card gives a Stage and one high-level invocation and nothing else to place him by, so the sheet seats him just past the Band III gate rather than higher on the strength of a single working. **η 0.70, Band B, mid-range** — matching the Sleepless Theorist's own Band B figure elsewhere in this batch, both being Class IV/V Shells one Stage below the Band A sheets. **Echo Courier and Eira Vale's Echo Runner are held as two distinct offices**: nothing in either card asserts they are the same post, and no link is invented here — a shared function (carrying memory-chains for the Guild Accord) is not the same claim as a shared identity. Chapter appearances are placed in Section X below.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Affiliation
 
-**Former apprentice of the Somnalis Seminary at Eresse,** before it fell into the *Wellspring Silence* *(both unattested)*. **Concord-affiliated intermediary; an unregistered Echo Courier for the Guild Accord.** *Some whisper that the Black Concord uses him to erase memories painlessly. Others claim he simply collects them for his own archives.* The card affirms neither.
+**Former apprentice of the Somnalis Seminary at Eresse,** before it fell into the *Wellspring Silence* *(both unattested)*. **Concord-affiliated intermediary; an unregistered Echo Courier for the Guild Accord** — a distinct post from Eira Vale's Echo Runner elsewhere in the wiki mirror; nothing links the two beyond the shared function of carrying memory-chains, and no link is asserted here. *Some whisper that the Black Concord uses him to erase memories painlessly. Others claim he simply collects them for his own archives.* The card affirms neither.
 > **Catalyst Event · Stage VIII, Transcendence.** *The practitioner resolves a core internal contradiction documented in the Crystal's fracture record, and the first true Domain forms.*
 >
 > **The contradiction is the one the card names as his cost.** *Each veilwalk erodes his boundary between dream and self. Too long in another's subconscious and he speaks in other people's voices for days after.* He lost his Seminary to a silence. He kept walking into other people's sleep anyway. That is a choice about which side of the boundary he lives on. **The Lament of the Quiet Moon is what a Domain looks like when its author's doctrine is the Mercy of Sleep:** motion and sound suspend, and only reflection is left.
@@ -25,7 +25,7 @@
 
 **Aether Shell** · **Class V · Radiant.** *The Shell thins toward the Veil; the ribbons murmur their lullabies to the air without being asked.*
 **Attraction Layer** · Developed and porous. *He can lull spirits into calm conversation, and the same openness is the route by which other identities bleed in.*
-**Crystal State** · Refined, **with a documented drift toward Fractured after long veilwalks.** **Soul Crystal** · Radiant. **η** · ~0.70, Band B *(estimate at the foot of the Master range)*.
+**Crystal State** · Refined, **with a documented drift toward Fractured after long veilwalks.** **Soul Crystal** · Radiant. **η** · 0.70, Band B, mid-range.
 **Essence Typology** · **Fluxia dominant, Limina undertone.** *Empathy, reflection, adaptation; the disposition most prone to Echo Bonds, which is his whole problem.*
 **Parun Glyphs** · `Wy` (Motion; card gloss Stillness) · `Ie` (Insight) · `Ci` *(card gloss Reverie; canon Order)*.
 
@@ -40,7 +40,7 @@
 
 ## IV · Primary Stats
 
-**Stage VIII, Transcendence** · **Level 231** *(estimate)* · Level Band III · Coherence Band B · Grade S · Ceiling 550.
+**Stage VIII, Transcendence** · **Level 231** · Level Band III · Coherence Band B · Grade S · Ceiling 550.
 > **Pool 9,030** · 4,500 from Bands I–II, 930 from Band III, 3,600 from Thresholds I–VIII. **Allocated 8,848.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -106,5 +106,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**WOTR: Volume V — Character Cards** (first appearance) — the default destination this migration batch uses wherever a card names no volume of its own.
 > **Codex** · Fluxia / Fluid Dynamics / Somnalis primary / Stage VIII.

@@ -44,4 +44,4 @@
 
 ## Origin
 
-The source gives no deviser beyond Serenyra and no history for the Lunarch Crown beyond naming it as her focus. Under the Named Inventor Rule, Corona Lunaris is treated as her own working rather than a documented one available to study in advance. A fuller origin, and any account of where the Crown came from, is pending Isaac.
+The source gives no deviser beyond Serenyra and no history for the Lunarch Crown beyond naming it as her focus. Under the Named Inventor Rule, Corona Lunaris is treated as her own working rather than a documented one available to study in advance. No account of where the Crown came from is given by the card, and none is invented here.

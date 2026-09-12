@@ -44,4 +44,4 @@
 
 ## Origin
 
-The source names no deviser beyond Serenyra and gives no separate invention history. Under the Named Inventor Rule, Archivium Locus is her own self-derived working rather than a documented one studied and countered in advance; a first opponent meets its mechanism live, in the exchange, rather than from a manual. A fuller origin is pending Isaac if one is wanted.
+The source names no deviser beyond Serenyra and gives no separate invention history. Under the Named Inventor Rule, Archivium Locus is her own self-derived working rather than a documented one studied and countered in advance; a first opponent meets its mechanism live, in the exchange, rather than from a manual. No further origin is given by the card, and none is added here.

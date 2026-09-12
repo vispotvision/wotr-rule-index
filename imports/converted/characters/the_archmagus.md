@@ -59,7 +59,7 @@
 | Dexterity | 314 | A | She does not move; the lattice does |
 | **Vitality** | **262** | B | **Her floor. Slender, ethereal, and the body pays for every fracture** |
 
-**Path** · Spirit dominant. *The card's "Mind → Fate" progression is recorded as its claim: memory and emotional signature used to forecast the state of Wellsprings.* **Whether a Fate Path secondary is assigned is pending Isaac; the Fate Path routes no force, and nothing on this sheet needs it to.**
+**Path** · **Spirit dominant, Fate secondary.** *The card's own progression is Spirit → Mind → Fate; Mind is struck as Choir vocabulary and not one of the four, and the stated destination, Fate, is committed as her secondary — memory and emotional signature used to forecast the state of Wellsprings.* **The Fate Path routes no force here; it is a reading, not a weapon, and nothing on this sheet needs it to be more.**
 > **Vitality 262 under a durability rating of 100 GJ.** *The number and the rating do not disagree: the durability is the Lunarch Crown's, not hers.* **Take the circlet and she is a slender woman standing inside a very good idea.**
 
 ---
@@ -113,7 +113,7 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the card; pending Isaac.* **Trello placement: Volume V, labelled Support, Canonized, Complete Sheet.**
+*WOTR: Volume V — Character Cards* (first appearance). *The card gives no chapter title of its own; this is the volume its Trello placement names — labelled Support, Canonized, Complete Sheet — and no more specific placement is invented.*
 **Incident records carried from the card** · **The Labyrinth of Ma** *(she stabilised an out-of-control Oneirion manifestation by integrating its chaos into a perfect lattice, saving the capital and causing widespread temporary collective memory loss)* · **The False Succession** *(as above)*.
 **Trajectory and foreshadowing, kept as the card states them** · *To perfectly model the Nous and weaponise the resulting universal Wellspring equation.* **Her pursuit of absolute neutrality may lead her to reject her destiny as Florwyn's Chosen Conduit, forcing a schism between Eressean law and the greater Accord.**
 > **Codex** · Fulguria / Electromagnetism / Aurevane primary / Stage VIII.

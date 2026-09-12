@@ -106,6 +106,6 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the source card; pending Isaac.*
+*None recorded on the source card.* Migrated as a new card; not yet placed in a chapter.
 **Hooks carried from the card, unplaced** · **The Drowned Ledger Affair** *(reconstructed an erased village's testimony single-handedly)* · **The Broken Shell Night** *(trapped and replayed an ancient leviathan's echo long enough for senior archivists to rebind it, at a cost of months of his own memory)*. **Trajectory noted on the card:** assembling a forbidden True Ledger of the Sea Wars, which both Concord and Crowns would rather stayed unwritten.
 > **Codex** · Limina / Entropy, Void and Mind / Anamnesis primary / Stage IV.

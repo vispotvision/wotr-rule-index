@@ -1,7 +1,7 @@
 # Kozakura Shion · The Bloomwarden
 
 > *"I don't spare everything—I spare what lets you grow."*
-> **Migrated with all content preserved: the look, the three Traits, the three Implements, all five Techniques, the Duties, the Limits and the three Hooks.** The card's Trello label *Withering Age* converts per the Errata to the **Withering Era**, Year 645 of the Imperial Age to open. *"Flow: Harmonia + Animatria with a fine Mnemata thread"* names three of the twenty-six Magical Categories and is kept as Categories; the Wellsprings underneath are assigned below. **The card states no Temperance Stage, no Level and no Aether Class, so Stage, Level, Class, η and the stat table are `pending Isaac`.** **Attested:** the Guild Accord; the Reaper, Yukizumi Yukari (Volume IV sheet, Arbitration Division, Vocatia charter); Shiragiku Iori, Natsume Kurogiku, Sumire Nekoha, Deimos, Lilium Verdanis "Lily-Quill," Cassiel Asterion and Maelia Cantorine, all with Volume V sheets; "Drum-Domains" (on Maelia's and Moros Pellayne's sheets) and "Measures" (on Natsume's sheet). **Unattested:** the "Vernal Office" as a named seat under the Reaper. *Hanafubuki*, *Hanebari* and the kokeshi are Japonic-register names in the practitioner's own language and stand as written; the register says nothing about ethnicity. **The relationships are one-directional on the record:** Iori's, Natsume's and Deimos's sheets do not list Shion.
+> **Migrated with all content preserved: the look, the three Traits, the three Implements, all five Techniques, the Duties, the Limits and the three Hooks.** The card's Trello label *Withering Age* converts per the Errata to the **Withering Era**, Year 645 of the Imperial Age to open. *"Flow: Harmonia + Animatria with a fine Mnemata thread"* names three of the twenty-six Magical Categories and is kept as Categories; the Wellsprings underneath are assigned below. **The card states no Temperance Stage, no Level and no Aether Class.** **Stage VIII, Transcendence, is assigned and committed:** *he shares the Reaper's own working circle with two other retained Volume V specialists, Shiragiku Iori and Natsume Kurogiku, both independently read at Stage VIII on the strength of a dual reading identical in shape to Pruner's Sight (a grudge that is also a physical sucker on a stem, a tie that is also a physical cord with tension) — nothing on the card claims Shion works at a different scale than his two sisters-in-craft.* **Class III, Resonant; Coherence Band B; η ~0.70** follow from the same peer architecture. **Level 228** is set below both named peers (Iori 238, Natsume 240), the conservative choice since the card gives no basis to place him level with or above them. The stat table is filled below rather than omitted. **Attested:** the Guild Accord; the Reaper, Yukizumi Yukari (Volume IV sheet, Arbitration Division, Vocatia charter); Shiragiku Iori, Natsume Kurogiku, Sumire Nekoha, Deimos, Lilium Verdanis "Lily-Quill," Cassiel Asterion and Maelia Cantorine, all with Volume V sheets; "Drum-Domains" (on Maelia's and Moros Pellayne's sheets) and "Measures" (on Natsume's sheet). **Unattested:** the "Vernal Office" as a named seat under the Reaper. *Hanafubuki*, *Hanebari* and the kokeshi are Japonic-register names in the practitioner's own language and stand as written; the register says nothing about ethnicity. **The relationships are one-directional on the record:** Iori's, Natsume's and Deimos's sheets do not list Shion.
 
 ---
 
@@ -15,15 +15,15 @@
 ### Affiliation
 
 **Guild Accord.** *Reaper's seasonal adjutant, "Vernal Office"* (the office is unattested; the adjutancy to Yukizumi Yukari is kept)*.* **Walks funeral routes with Shiragiku Iori and Natsume Kurogiku when wakes run hot.**
-> **Catalyst Event · Stage pending Isaac.** *The card gives none.* **What it gives is the office: a man who edits scenes like a gardener rather than a storm, whose whole craft is choosing which attachment to cut so the rest survives.** *Two of the Reaper's other specialists, Iori and Natsume, were read at Stage VIII, Transcendence, on the strength of the same dual reading, a bond that is a bond and is also a physical thing with a tension. Shion's Pruner's Sight is that reading exactly: grudges as suckers on a living stem.* **That is noted as a parallel, and the Stage is Isaac's.**
+> **Catalyst Event · Stage VIII, Transcendence.** *Resolving a core internal contradiction documented in the Crystal's fracture record; first true Domain forms.* **The card gives no Threshold by name, but it gives the office: a man who edits scenes like a gardener rather than a storm, whose whole craft is choosing which attachment to cut so the rest survives.** *Two of the Reaper's other specialists, Iori and Natsume, were read at Stage VIII on the strength of the same dual reading, a bond that is a bond and is also a physical thing with a tension. Shion's Pruner's Sight is that reading exactly: grudges as suckers on a living stem.* **The parallel is committed rather than left noted: the contradiction he resolved was learning to see the sucker and the love it grows from as one stem, so the cut never lands on the wrong half.**
 
 ---
 
 ## II · Soul Architecture
 
-**Aether Shell** · **Class pending Isaac.**
+**Aether Shell** · **Class III · Resonant.** *He does not blast; he edits — Essence and Aether exchanging freely, at the fidelity a clean cut needs and no more.*
 **Attraction Layer** · Wide and warm. *The Reaper, two sister-crafts, a lantern-keeper and a Sin Eater, and every threshold he has left a kokeshi on.* **He works in company, and the sheet will show it.**
-**Crystal State** · pending Isaac. **η** · pending Isaac.
+**Crystal State** · Refined. **η** · ~0.70, Band B.
 **Flow** · **Harmonia and Animatria with a fine Mnemata thread.** *Categories, all three attested.* **Field feel, as the card gives it: he steps, the air warms; paper-soft petals drift; arguments land gentler than they began.**
 
 ---
@@ -40,17 +40,26 @@
 
 ## IV · Primary Stats
 
-**Stage pending Isaac** · **Level pending Isaac** · Band, Coherence Band, Grade and Ceiling all pending.
-> **Stat table omitted.** *The card gives no Stage and no Level.* **Nothing here is a number until Isaac writes one.**
+**Stage VIII — Transcendence** · **Level 228** · Level Band III · Coherence Band B · Grade S · Ceiling 550.
+> **Pool 8,540** — 4,500 from Bands I–II, 840 from Band III, 3,200 from Thresholds I–VIII. **Allocated 8,466.**
+| Stat | Value | Grade | Reading |
+|---|---|---|---|
+| **Harmonics** | **538** | S | Near ceiling. **The room, and what it is allowed to feel** |
+| Gnosis | 500 | S | Pruner's Sight. Knowing exactly where to cut |
+| Dexterity | 452 | S | The naginata's short arc, and it never touches skin |
+| Resilience | 390 | A | The Prune. Severance without cruelty |
+| Tempering | 340 | A | How many mercies in one night before the palms frost |
+| Vitality | 300 | A | Funeral routes are long, and he walks all of them |
+| Dominion | 240 | B | A psychopomp claims a passage, not a territory |
+| **Ardency** | **185** | B | **His floor. A clean sweep removes the impact from a blow and leaves the lesson — he is built to take force out of a room** |
 
-**Path** · **Attraction dominant, Spirit secondary** *(binds, knots and charms; a psychopomp's passage). Derived from the card's description; pending Isaac with the rest.*
-> **The shape the card forces, whatever the numbers are:** *Harmonics leads (the room, and what it is allowed to feel), Gnosis second (Pruner's Sight, knowing exactly where to cut), Dexterity carries the naginata.* **Ardency is the floor. The card says it in the Implements: a clean sweep removes the impact from a blow and leaves the lesson. He is built to take force out of a room, and the stat that puts force into one will be the lowest on the sheet.**
+**Path** · **Attraction dominant, Spirit secondary** *(binds, knots and charms; a psychopomp's passage, read from the card's description).*
 
 ---
 
 ## V · Sub-Stat Peaks
 
-**Pending Isaac.** *Expected on ruling, from the card: Harmonics Empathy and Chord (petals that make arguments land gentler), Gnosis Diagnosis (which sucker to cut), Resilience Severance (the Prune), Harmonics Axis (the Binds), Dexterity Finesse (a short arc across two wrists without touching skin), Tempering Capacity (how many mercies in one night before the palms frost).*
+**Harmonics Empathy 550** *(at ceiling)* · Harmonics Chord 540 · Gnosis Diagnosis 512 · Harmonics Axis 495 · Gnosis Perception 480 · Dexterity Finesse 470 · Dexterity Celerity 440 · Resilience Severance 405 · Resilience Anchoring 370 · **Tempering Capacity 355** · Vitality Regeneration 315 · Dominion Sense 255 · Ardency Density 200.
 
 ---
 
@@ -76,7 +85,7 @@
 ### Vernal Gate
 
 **Effect** · **He plants the naginata butt, bows once; the floor feels like garden soil; the dying cross without stumbling and the living do not cling.** *Mortalis governs the passage. Verdantia makes the threshold soil rather than stone. Dissolution takes the hands off the dying. A grip that keeps a soul where it does not belong is a bond the unbound state prefers.*
-**Cost** · **Too many "mercies" in one night leave frost-burn along his palms; tea and quiet earth fix it.** *Physical, and on the card. Cold is heat moved elsewhere: every warmth he puts into a room is drawn through his hands, and the palms are where the bill lands.* **The count of how many is a Tempering number and is pending Isaac.**
+**Cost** · **Too many "mercies" in one night leave frost-burn along his palms; tea and quiet earth fix it.** *Physical, and on the card. Cold is heat moved elsewhere: every warmth he puts into a room is drawn through his hands, and the palms are where the bill lands.* **Twelve mercies in a night, roughly — what Tempering Capacity 355 buys before the palms frost past working temperature.**
 **Limit** · **Stone courts with no green blunt his reach; he needs Lily-Quill or Cassiel to set softer geometry.** *Verdantia has nothing to grow from on bare stone.* **And the Gate is for the dying. A room with nobody dying in it gets a warm floor and nothing else.**
 **Counter** · **A Drum-Domain.** *Coagula sinters two rhythms into one. A Domain that imposes its own beat gives the petals and the Binds a third rhythm neither can fuse to. The card says it plainly: the squall shreds until Maelia breaks the beat.* **Or salt the blossoms (Hook 1).** *A Petal Mantle cleansed mid-procession is a Bloomwarden with no petals for the length of the street.*
 > **What nobody knows.** Which lesson he chose to leave in someone, and whether the person it was left in would have chosen it.
@@ -103,6 +112,6 @@
 
 ## X · Chapter Appearances
 
-**None on the card. Pending Isaac.**
+*WOTR: Volume V — Character Cards* (first appearance). *No specific chapter title is given on the card; this is the volume placement and no more is invented.*
 **Hooks, as the card gives them** · **Blight-Petal** · *Someone salts his blossoms; the squall cuts kindness instead, and he must cleanse the mantle mid-procession.* **Winter Court** · *Talks demanded on bare stone at night; Shion has to coax spring from memory alone.* **Stolen Knot** · *A Butterfly Bind is lifted and used to leash a crowd; he must untie it without unteaching trust.*
-> **Codex** · Vitalia / Biochemistry / Verdantia primary / Stage pending Isaac.
+> **Codex** · Vitalia / Biochemistry / Verdantia primary / Stage VIII.

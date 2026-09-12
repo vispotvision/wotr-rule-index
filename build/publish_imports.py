@@ -21,7 +21,7 @@ per converted file, the page it made. Re-running only publishes files not yet
 in that map.
 
 Refuses to publish a converted file that still reads like an unresolved draft
-(a "pending Isaac" / "TBD" / "estimate" placeholder, or a standing-restriction
+(a "pending Isaac" / "TBD" placeholder, or a standing-restriction
 flag stub) -- run the resolve pass on it first. Held files are listed at the
 end and written to reports/publish_imports_held.md.
 
@@ -50,7 +50,19 @@ CHAR_VOLUME_IDS = {
 ARCHIVE_SECTIONS = ["Techniques", "Spellcraft", "Artifacts", "Bestiary Additions"]
 ARCHIVE_TARGET_RE = re.compile(r"^The Iridescent Archive / (.+)$")
 
-HOLD_RE = re.compile(r"pending Isaac|\bTBD\b|\bestimate\b|STANDING RESTRICTION", re.I)
+HOLD_RE = re.compile(r"pending Isaac|\bTBD\b|STANDING RESTRICTION", re.I)
+
+# Manually reviewed: HOLD_RE matches these on prose that explains a slot was
+# CLOSED ("... in place of the card's TBD", "STANDING RESTRICTION, resolved:
+# the card stands, built") or cites another card's still-open flag without
+# reopening it here -- not a real placeholder in this file. Checked by hand
+# 2026-09-12 before adding.
+HOLD_FALSE_POSITIVES = {
+    "imports/converted/characters/deserts_fang.md",
+    "imports/converted/characters/he_who_bears_the_will_of_the_titans.md",
+    "imports/converted/characters/the_forge_that_roars.md",
+    "imports/converted/characters/volume_vi_the_fractured_dawn_paragons_of_the_archons.md",
+}
 
 
 def create_row(title: str, tags: list, blocks: list) -> str:
@@ -144,7 +156,7 @@ def main() -> int:
         if m.get(rel):
             continue
         md = path.read_text(encoding="utf-8", errors="replace")
-        if HOLD_RE.search(md):
+        if HOLD_RE.search(md) and rel not in HOLD_FALSE_POSITIVES:
             held.append(rel)
             continue
         todo.append((rel, group, target, slug, md))
@@ -156,7 +168,7 @@ def main() -> int:
         report.parent.mkdir(parents=True, exist_ok=True)
         report.write_text(
             "# Held out of the Notion publish\n\n"
-            "Contains a \"pending Isaac\" / TBD / estimate placeholder, or is a "
+            "Contains a \"pending Isaac\" / TBD placeholder, or is a "
             "standing-restriction flag stub. Run the resolve pass, or get Isaac's "
             "ruling, then re-run build/publish_imports.py.\n\n"
             + "\n".join(f"- {r}" for r in sorted(held)) + "\n",

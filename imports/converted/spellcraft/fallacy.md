@@ -24,7 +24,7 @@ The collapse is not a side effect. It is the point. A Fallacy that never shatter
 
 **Razakiel** is attested as a figure who imposed the Unlawful Acts of Order on at least one occasion, confronted and annulled not by force but by Dazkar's stillness, the mirror of consequence forcing the decree's own contradictions to erase it. That is a documented instance of an unlawful, false-premised order being written into law and then failing under its own weight, which is close kin to what the card describes, though the card's specific claim, that Razakiel used Fallacy to convince a domain its own god had never existed, is not itself attested and is kept as originated.
 
-**Serenhal Caelmorne** has no wiki entry. The surname Caelmorne belongs elsewhere in the corpus to a different, unrelated moon-aligned Anima Harmonist, which makes the name plausible as a house name without making this particular bearer of it real. Carried as unattested pending Isaac's word.
+**Serenhal Caelmorne** has no wiki entry. The surname Caelmorne belongs elsewhere in the corpus to a different, unrelated moon-aligned Anima Harmonist (Caelmorne Halvrein, of the Harmonic Arts), which makes the name plausible as a house name without making this particular bearer of it real. Kept as originated and unattested, per the same rule applied to every other unattested figure in this batch: the card's account of Fallacy's practitioner does not resolve without her, so she is carried rather than dropped, and flagged here rather than presented as attested.
 
 ## What it can and cannot do
 

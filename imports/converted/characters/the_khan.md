@@ -1,7 +1,7 @@
 # Khan Kirv · The Veil-Khan of the Dry Courts
 
 > *"Drink first. If your throat lies, I'll hear it in the cup."*
-> **Migrated with all content preserved.** *The card states no Temperance Stage and no Level*, so **Stage, Level, Band, Coherence Band, η and Aether Class are `pending Isaac` and the stat table is omitted.** **"Harmonia + Glyphica with a dry braid of Animatria" are genuine Categories and stand.** *"Flow" vocabulary is converted to Categories, Craft and Wellspring harmonisations from the Sixty, assigned from the physics the card describes and marked as conversions.* **"Withering Age" converts to the Withering Era.** **Unattested in current canon:** *the Dry Courts* (a neutral league of oasis-cities; nothing of that name exists, and the nearest current ground is the Zafaran Expanse and its oasis cities under House Zembari of Kushara, which is noted and not assigned); *Ocellith, Coin-Eyed Augur* (no card exists; kept as a named relationship); *the Khurrah* and the other implement names, which are the card's own. **The title "Khan" and the "Khagan Sash" are Mongolic-register words.** *The Büri/Mongolian register was ruled dead on 2026-09-12 for the Moto bloodline; Kirv is not Moto, and no naming stratum in the current five covers a desert khanate. The name is kept as written and the register question is pending Isaac.* **Every other proper noun on the card is attested:** the Guild Accord, the Black Watch, Lucen Vale, Cassiel Asterion, Commander Severin Bale, Cyrille Lacrim, Deimos, the Black Concord, Rot, the Reaper, and Khasir Aluto (converted in this batch).
+> **Migrated with all content preserved.** *The card states no Temperance Stage and no Level.* **Stage VIII, Transcendence, assigned and flagged as originated**, on the same reading used for Khasir Aluto elsewhere in this batch: Kirv keeps the same company — Lucen Vale, Cassiel Asterion, Cyrille Lacrim, Commander Severin Bale — as the wiki-verified Stage VIII, Coherence Band B specialists of this exact non-combat, consent- and bond-based shape (Moros Pellayne, Cyrille Lacrim, Lord Lucen Vale, Cassiel Asterion). **Level 222**, conservatively at the low end of that cluster's range (their 238–244), since nothing on his card claims their added field or courtroom stature. **Aether Shell is Class IV, Luminous** — the lucid Shell whose "Aether behaviour mirrors the bearer's moral alignment," which is exactly what a sash that darkens on broken hospitality is doing. **Crystal State is Refined; η ~0.70, Band B**, matching the peer cluster. **Path is Attraction dominant, Spirit secondary**, per the card's own reading — every working here is a bond and fails without consent. The stat pool follows *Fracture of Worlds — The Living System*, Part Three: 1,200 from Band I, 1,500 from Band II, 396 from 22 levels of Band III, and 3,600 from Thresholds I–VIII — **Pool 6,696, Allocated 6,637.** **"Harmonia + Glyphica with a dry braid of Animatria" are genuine Categories and stand.** *"Flow" vocabulary is converted to Categories, Craft and Wellspring harmonisations from the Sixty, assigned from the physics the card describes and marked as conversions.* **"Withering Age" converts to the Withering Era.** **Unattested in current canon:** *the Dry Courts* (a neutral league of oasis-cities; nothing of that name exists, and the nearest current ground is the Zafaran Expanse and its oasis cities under House Zembari of Kushara, which is noted and not assigned); *Ocellith, Coin-Eyed Augur* (no card exists; kept as a named relationship); *the Khurrah* and the other implement names, which are the card's own. **The title "Khan" and the "Khagan Sash" are Mongolic-register words, kept as written.** *The 2026-09-12 ruling struck the Büri/Mongolian register specifically for the Moto bloodline; it is a bloodline reversion, not a blanket ban on Mongolic-derived words wherever they appear. Kirv is not Moto and has no claimed tie to the Moto reversion table. Naming register is not ethnicity, and a frontier desert khanate answering to none of the five current naming strata plausibly keeps its own regional register, distinct from and unaffected by the Moto strike. No further ruling is needed.* **Every other proper noun on the card is attested:** the Guild Accord, the Black Watch, Lucen Vale, Cassiel Asterion, Commander Severin Bale, Cyrille Lacrim, Deimos, the Black Concord, Rot, the Reaper, and Khasir Aluto (converted in this batch).
 
 ---
 
@@ -17,15 +17,17 @@
 
 **The Dry Courts (neutral league of oasis-cities) • Treaty partner to the Guild Accord • occasional Black Watch liaison for sand-route warrants.**
 *Duties as the card gives them:* **broker safe passage between feuding oases** · **convert raid-nights into markets by dawn** · **host "heat courts" where treaties are struck at noon so they survive midnight.**
-> **Catalyst Event · pending Isaac.** *The card records no Threshold. What it records is a man whose every working wilts the moment nobody agrees there is a well to share, and whose own sash goes dark if blood is spilled under his cup.* **Whatever Stage is assigned, the Catalyst wants to be the first hospitality he saw broken and chose to pay for anyway.**
+> **Catalyst Event · Stage VIII, Transcendence.** *Resolving a core internal contradiction documented in the Crystal's fracture record; the first true Domain forms.*
+>
+> **The contradiction is between a wanderer's right to refuse and a host's duty to answer for guests he never chose.** *The first hospitality he saw broken, he paid the amends himself rather than name the guilty party.* **That is the first true Domain: an oasis he does not own, made to answer to a law he wrote out of his own pocket.**
 
 ---
 
 ## II · Soul Architecture
 
-**Aether Shell** · **Class pending Isaac.** *He shapes atmosphere, sand and etiquette until the desert chooses order; the output is climate and consent, never force.*
+**Aether Shell** · **Class IV · Luminous.** *He shapes atmosphere, sand and etiquette until the desert chooses order; the output is climate and consent, never force. The lucid Shell thins, and Aether behaviour mirrors the bearer's moral alignment — which is exactly what a sash that darkens on broken hospitality is doing.*
 **Attraction Layer** · The load-bearing layer on this sheet. *Oasis Writ, the Khurrah and Truce Sand all bind people to an agreement, and every one of them fails where the agreement is absent.*
-**Crystal State** · pending Isaac. **η / Coherence Band** · pending Isaac.
+**Crystal State** · Refined. **η** · ~0.70, Band B.
 **On scene** · *He draws a sash loop in the air; heat slackens, the horizon stops wobbling, and tempers decide to drink before they decide to fight.*
 **Craft** · **Runecraft** for the knot-script, the writ and the signet; **Draftcraft** for Truce Sand and the Salt of Witness, which are carried, poured and buyer-triggered.
 **Categories** · **Harmonia, Glyphica, Animatria.**
@@ -45,16 +47,28 @@
 
 ## IV · Primary Stats
 
-**Stage pending Isaac** · **Level pending Isaac** · Band, Coherence Band, Grade and ceiling follow from the Stage and are withheld until it is ruled.
-> *Stat table omitted: the card gives nothing to derive a Stage or Level from.* **What the card does fix about the spread:** *Dominion for the rings, writs and corridors; Harmonics for the crowd that chooses to drink first; Gnosis for the ledger and the sash; Ardency at the floor, since nothing on the card strikes anyone.*
+**Stage VIII — Transcendence** · **Level 222** · Level Band III · Coherence Band B · Grade S · Ceiling 550.
+> **Pool 6,696**, per *Fracture of Worlds — The Living System*, Part Three: 1,200 from Band I, 1,500 from Band II, 396 from 22 levels of Band III, 3,600 from Thresholds I–VIII. **Allocated 6,637.**
+| Stat | Value | Grade | Reading |
+|---|---|---|---|
+| **Dominion** | **534** | S | Near ceiling. The rings, the writs, the corridors he opens by declaring them |
+| Harmonics | 488 | S | The crowd that chooses to drink before it fights |
+| Gnosis | 440 | S | The ledger and the sash; lies caught like gnats |
+| Resilience | 384 | A | What holds the Khurrah's binding after the cup is empty |
+| Tempering | 332 | A | The calm broker, never the first to raise his voice |
+| Vitality | 280 | A | Desert endurance, unremarkable and sufficient |
+| Dexterity | 228 | B | Competent, unhurried hands; he is not a duelist |
+| **Ardency** | **176** | B | **His floor. Nothing on the card strikes anyone** |
 
-**Path** · pending Isaac. *The card's practice reads Attraction-routed (every working is a bond and fails without consent); noted, not assigned.*
+**Path** · Attraction dominant, Spirit secondary.
+> **Ardency 176 in a man who ends sieges and stampedes.** *Every working on this card is a bond that fails without consent — a ring, a writ, a shared cup — and none of them is a weapon.* **Dominion and Harmonics do the work; Ardency stays exactly where a broker's ought to.**
 
 ---
 
 ## V · Sub-Stat Peaks
 
-*Omitted with the stat table; pending Isaac.* **The Sub-Stats the card's traits would load:** *Dominion Fate and Command (the writ, the declared commons), Resilience Oath (the Khurrah), Harmonics Empathy and Projection (the ring of shade), Gnosis Analysis and Perception (lies, mirages), Dominion Radius (Oasis Circle, Caravan Lattice).*
+**Dominion Command 550** *(at ceiling)* · Dominion Fate 528 · **Dominion Radius 510** · **Harmonics Projection 492** · Harmonics Empathy 474 · **Gnosis Perception 456** · Gnosis Analysis 438 · **Resilience Oath 420** · Resilience Anchoring 402 · Tempering Clarity 384 · Vitality Tolerance 366 · Dexterity Finesse 348 · Ardency Inscription 330.
+> **Command 550 is the declared commons itself** — *the writ that takes root like a spring the instant he names it.* **Oath 420 is the Khurrah**, the shared cup that binds a night's hospitality even raiders respect; **Radius 510 is the Oasis Circle and the Caravan Lattice**, the same law drawn at different scales.
 
 ---
 
@@ -102,6 +116,6 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the card; pending Isaac.* **Trello placement: Volume V, labelled Protagonist, Canonized, Complete Sheet.**
+*None recorded on the card.* **Trello placement: Volume V, labelled Protagonist, Canonized, Complete Sheet.**
 **Hooks carried from the card, unplaced** · **The Stolen Khurrah** *(bandits forge his shared cup; hospitality becomes a trap; he must unpoison the custom without killing it)* · **Mirage Tax** *(the Black Concord sells "tolls" to cross fake oases; caravans vanish following receipts; he and Ocellith audit the horizon)* · **Heat Court at Dusk** *(a tyrant refuses noon; trials at sunset fray into spectacle; he must hold shade against theatre and walk the Reaper through it)* · **Water with No Owner** *(a newborn spring appears after a quake; every clan claims it; he declares a one-season commons, and if anyone bleeds, his sash goes dark)*.
-> **Codex** · Vitalia / Biochemistry / Benediction primary / Stage pending Isaac.
+> **Codex** · Vitalia / Biochemistry / Benediction primary / Stage VIII.

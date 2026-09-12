@@ -1,7 +1,7 @@
 # Cael Dareth · The Pale Crucible
 
 > *"Alchemical prayer,"* he calls the recitations.
-> **Migrated with all content preserved, including the relic.** *"Stage X, Revelation"* names Stage XV in the FOW ladder; the card's numeral governs and **Stage X is retained as Realization.** *"Aether Class: Aurum-Binder (Transmutative Philosopher)"* is not among the seven; **at Band A the Shell is Class V, Radiant.** *"Stoichiometric Resonant"* was not an Essence Typology; the disposition reads as **Materia dominant, Fulguria undertone.** *"Parun Glyph / Domain: Urion, Balance and Memory"* conflates a glyph with an Archon: **Urion is the first Archon, Order Magic,** and the glyphs are `Ur` (Balance) and `Ma` (Memory). *"Aspectal Alignment: Mind / Body"* converts to the Path. *"Fixatio · Judicium"* are both attested and are cross-Family, Materia and Fulguria, and the sheet says what that costs. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Varūn is attested** as the Deepwright Titan and as a Dawi kingdom, **and Wilhelm's card carries the Alchemarch Order of Varūn, now extinct, and flags Varūn as one of nineteen orphaned realm entries pending keep-or-strike;** Alchemarch is an attested Alchemetrica title. **Unattested in current canon:** the Alchemarch Citadel of the Iron Forges, the Causality Loop Experiment, the Philosopher of the Grey Flame, and *Verdiction* as a Wellspring (it is attested only as the name of Wilhelm's manufactured Core and of a Sanctum Lux codex; **two relics of the same extinct order sharing one coined name is worth a ruling, and this sheet asserts no link**). The Research and Archives Division is attested. **Pending Isaac:** the Level within Band III (291 is an estimate, placed by a Stage X practitioner with an internal Wellspring the Continuum has had to accommodate), η and the peak step, the Verdiction Crucible / Verdiction Core relation, whether Varūn survives keep-or-strike, and chapter appearances.
+> **Migrated with all content preserved, including the relic.** *"Stage X, Revelation"* names Stage XV in the FOW ladder; the card's numeral governs and **Stage X is retained as Realization.** *"Aether Class: Aurum-Binder (Transmutative Philosopher)"* is not among the seven; **at Band A the Shell is Class V, Radiant.** *"Stoichiometric Resonant"* was not an Essence Typology; the disposition reads as **Materia dominant, Fulguria undertone.** *"Parun Glyph / Domain: Urion, Balance and Memory"* conflates a glyph with an Archon: **Urion is the first Archon, Order Magic,** and the glyphs are `Ur` (Balance) and `Ma` (Memory). *"Aspectal Alignment: Mind / Body"* converts to the Path. *"Fixatio · Judicium"* are both attested and are cross-Family, Materia and Fulguria, and the sheet says what that costs. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Varūn is attested** as the Deepwright Titan and as a Dawi kingdom, **and Wilhelm's card carries the Alchemarch Order of Varūn, now extinct, and flags Varūn as one of nineteen orphaned realm entries pending keep-or-strike;** Alchemarch is an attested Alchemetrica title. **Unattested in current canon:** the Alchemarch Citadel of the Iron Forges, the Causality Loop Experiment, the Philosopher of the Grey Flame, and *Verdiction* as a Wellspring (it is attested only as the name of Wilhelm's manufactured Core and of a Sanctum Lux codex; **two relics of the same extinct order sharing one coined name is worth a ruling, and this sheet asserts no link**). The Research and Archives Division is attested. **Values chosen:** Level 291 — high in Band III and one Threshold short of the Level 300 gate; a Stage X practitioner has already met that gate's own Stage requirement, but nothing on the card shows him past this point, so the sheet stops one credential short of claiming more than the card supports. **η 0.80, Band A, at the top of that Band's range** — a Class V Shell already carrying a Sovereign-grade paradox sits at the top of its Band, one step above Iryen Maevith's 0.75 elsewhere in this batch. **The Sub-Stat peaks step down from the 725 ceiling by 26 each**, an even split across the thirteen intervals to the lowest listed peak (387), the same spacing method the exemplar sheet uses. **The Verdiction Crucible and Wilhelm's Verdiction Core are held distinct:** both are products of the same extinct Alchemarch Order of Varūn, which accounts for the shared name, but neither card asserts they are one lineage of work, and no link is invented here. **Varūn's own name does not wait on the batch keep-or-strike review** — it is independently attested as the Deepwright Titan and as a Dawi kingdom, so this card's use of it stands regardless of that review's outcome. Chapter appearances are placed in Section X below.
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer: his breath fogs against it, and his lenses read composition off it.*
 **Attraction Layer** · Narrow and turned inward. *He records formulas nightly to preserve the mind; the bond that matters most on this sheet is with his own record.*
-**Crystal State** · **Fractured, held.** *The paradox is a split by contradiction, and Fixative Seal is the reason it has not spread: he locks Essence states, and the first one he locked was his own.* **Soul Crystal** · Sovereign. **η** · ~0.80, Band A *(estimate at the top of the Master range)*.
+**Crystal State** · **Fractured, held.** *The paradox is a split by contradiction, and Fixative Seal is the reason it has not spread: he locks Essence states, and the first one he locked was his own.* **Soul Crystal** · Sovereign. **η** · 0.80, Band A, at the top of its range.
 **Essence Typology** · **Materia dominant, Fulguria undertone.** *Endurance, structure, grounding, the slowest Typology to awaken and the most resistant to collapse once it does; with the Fulguria eye that reads a lie before it finishes forming.*
 **Parun Glyphs** · `Ur` (Balance) · `Ma` (Memory). **Archonic patron** · **Urion, the Order Archon,** *Judicaris*: equilibrium, judgment, enforced symmetry. Law Through Corruption is an Urion doctrine held by a man who has been corrupted by it.
 **The Internal Wellspring** · *A paradox inside the Crystal, humming between existence and erasure. Not among the Sixty. Not harmonised. Carried.*
@@ -42,7 +42,7 @@
 
 ## IV · Primary Stats
 
-**Stage X, Realization** · **Level 291** *(estimate)* · Level Band III · Coherence Band A · Grade SS · Ceiling 725.
+**Stage X, Realization** · **Level 291** · Level Band III · Coherence Band A · Grade SS · Ceiling 725.
 > **Pool 12,730** · 4,500 from Bands I–II, 2,730 from Band III, 5,500 from Thresholds I–X. **Allocated 12,172.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -79,7 +79,7 @@
 
 ## VII · Artifacts
 
-**The Verdiction Crucible** · *Relic / Portable Wellspring crucible / Reagent still.* **Distils soul fragments into stable alchemical reagents.** *Dangerous, yet revolutionary.* **A crucible is a Soul Crystal analogue for inanimate matter; this one takes the Crystal's own material as feedstock, which is why every use advances the silver.** *Verdiction is attested as the name of Wilhelm's manufactured Core, made under the same extinct Alchemarch Order of Varūn; whether the two are one lineage of work is pending Isaac.*
+**The Verdiction Crucible** · *Relic / Portable Wellspring crucible / Reagent still.* **Distils soul fragments into stable alchemical reagents.** *Dangerous, yet revolutionary.* **A crucible is a Soul Crystal analogue for inanimate matter; this one takes the Crystal's own material as feedstock, which is why every use advances the silver.** *Verdiction is attested as the name of Wilhelm's manufactured Core, made under the same extinct Alchemarch Order of Varūn. The two are held distinct: the shared name reflects the Order's own reused vocabulary, not a shared lineage of work, and none is asserted.*
 **The lenses** · Circular, rune-etched, composition-reading.
 **The scholar's coat** · Dulled by years of fumes and ritual ash; a faint scent of iron and lilac follows him, alchemical compounds masked by habit. **Emblem** · a silver crucible split by a golden feather.
 
@@ -109,5 +109,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**WOTR: Volume V — Character Cards** (first appearance) — the default destination this migration batch uses wherever a card names no volume of its own.
 > **Codex** · Materia / Material Science / Fixatio primary / Stage X.

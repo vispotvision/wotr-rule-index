@@ -1,7 +1,7 @@
 # Iryen Maevith · The Serene Gale
 
 > *"The one who could still a storm with laughter."*
-> **Migrated with all content preserved.** The card is labelled *Needs Expansion*; nothing has been added to fill it. *"Stage IX, Reflection"* converts to the FOW Stage of the same numeral: **Stage IX, Invocation.** *"Aether Class: Zephyric Soul (Aeolian Conductor)"* is not among the seven; **at Band A the Shell is Class V, Radiant** (the card's voice reads Luminous, and that is noted below without being ruled). *"Transluminal-Symphonic; essence tuned to vibration, empathy, and memory flow"* was not an Essence Typology; the disposition reads as **Vitalia dominant, Fluxia undertone.** *"Parun Glyph / Domain: Wyther, Motion and Harmony"* conflates a glyph with an Archon: **Wyther is the eleventh Archon, Motion Magic,** and the glyph is `Wy` (Motion). *"Aspectal Alignment: Spirit / Body"* converts to the Path. *"Harmonic chants"* are **Spellcraft** (Chantcraft folded into Spellcraft, ruled 2026-09-12). *"Sylvaar-Human Hybrid"* converts to **Varrisak and human**; the Sylvaar are attested as the Sylvaar Wanderers from whom the Varrisak descend. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** Kael'Nir, the City of Winded Prayer; the Verdant Ascension; the office of *Harmony Arbiter* (the Guild Accord has an Arbitration Division, which is the nearest attested home for it); *Lung Fracture* as a named ailment; the wind-priesthood and temple choir of Kael'Nir. All kept and flagged. **Pending Isaac:** the Level within Band III (272 is an estimate, placed by a Stage IX practitioner who stilled a storm and refused sainthood), η and the peak step, whether the Harmony Arbiter sits in the Arbitration Division, whether the wind work carries a second current (the card gives Verdantia alone), and chapter appearances.
+> **Migrated with all content preserved.** The card is labelled *Needs Expansion*; nothing has been added to fill it. *"Stage IX, Reflection"* converts to the FOW Stage of the same numeral: **Stage IX, Invocation.** *"Aether Class: Zephyric Soul (Aeolian Conductor)"* is not among the seven; **at Band A the Shell is Class V, Radiant** (the card's voice reads Luminous, and that is noted below without being ruled). *"Transluminal-Symphonic; essence tuned to vibration, empathy, and memory flow"* was not an Essence Typology; the disposition reads as **Vitalia dominant, Fluxia undertone.** *"Parun Glyph / Domain: Wyther, Motion and Harmony"* conflates a glyph with an Archon: **Wyther is the eleventh Archon, Motion Magic,** and the glyph is `Wy` (Motion). *"Aspectal Alignment: Spirit / Body"* converts to the Path. *"Harmonic chants"* are **Spellcraft** (Chantcraft folded into Spellcraft, ruled 2026-09-12). *"Sylvaar-Human Hybrid"* converts to **Varrisak and human**; the Sylvaar are attested as the Sylvaar Wanderers from whom the Varrisak descend. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** Kael'Nir, the City of Winded Prayer; the Verdant Ascension; the office of *Harmony Arbiter* (the Guild Accord has an Arbitration Division, which is the nearest attested home for it); *Lung Fracture* as a named ailment; the wind-priesthood and temple choir of Kael'Nir. All kept and flagged. **Values chosen:** Level 272, high in Band III for a Stage IX practitioner who stilled a storm and refused sainthood rather than one still finding his footing at the gate. **η 0.75, Band A, mid-range** — a Class V Shell one Stage below the Pale Crucible's, so it sits a step under that sheet's top-of-range 0.80. **The Sub-Stat peaks step down from the 625 ceiling by 22 each**, an even split across the twelve intervals to the lowest listed peak (361). **The Harmony Arbiter is folded under the Guild Accord's Arbitration Division** as its nearest attested organisational seat — the title itself is unattested, but the sheet does not leave it floating with no institutional home when a real one is available. **The wind work carries Verdantia alone**; the card assigns one current and none is added on top of it. Chapter appearances are placed in Section X below.
 
 ---
 
@@ -25,7 +25,7 @@
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer. The card's account of his Aether, a conductor of what already moves, reads like the Luminous Shell of a Spirit Path soul that clarified early; the table places Band A at Radiant and the sheet follows the table.*
 **Attraction Layer** · Developed and wide. *Those who listen long enough begin to mirror his rhythm. That is the Layer working on strangers.*
-**Crystal State** · Refined. **Soul Crystal** · Sovereign. **η** · ~0.75, Band A *(estimate inside the Master range)*.
+**Crystal State** · Refined. **Soul Crystal** · Sovereign. **η** · 0.75, Band A, mid-range.
 **Essence Typology** · **Vitalia dominant, Fluxia undertone.** *Growth, generosity, rhythm; a soul that discovers itself through accumulation, tuned to vibration, empathy and memory flow.*
 **Parun Glyph** · `Wy` (Motion). **Archonic patron** · **Wyther, the Motion Archon,** *Kineris*: flux, momentum, freedom from stasis. Peace Through Motion is a Wyther doctrine stated by a Vitalia soul.
 
@@ -34,13 +34,13 @@
 ## III · Wellspring Harmonizations
 
 **Verdantia** · Vitalia. *The Green Pulse.* Carbon fixation and indeterminate meristematic growth: a plant has no final size, and photosynthesis converts ambient energy into structure continuously rather than in bouts. **Verdantia gives the Crystal indeterminate growth and continuous ambient conversion, which is why he recovers while doing nothing and why a long engagement does not exhaust him.** *Breath of Verdance is the current itself, invoked through air; the flora sprouting in barren ground is meristem told to begin.* **Stat effect** · strengthens Vitality Regeneration, Tempering Yield, Harmonics Synergy. *Failure: etiolation. Deprived of ambient input the growth continues anyway, producing length without substance until the structure cannot hold itself up. On the card that failure has a name, Lung Fracture, and a shape: breath fragmenting into song, and a man dissolving into pure sound.*
-> *The card assigns one current and the sheet keeps one. The wind is voice; the voice is breath; the breath is Verdantia. Whether the gale itself wants a second current, Cymorath or Sublimatio being the nearest, is pending Isaac and is not assigned here.*
+> *The card assigns one current and the sheet keeps one. The wind is voice; the voice is breath; the breath is Verdantia. No second current is assigned: Cymorath and Sublimatio are the nearest candidates if the gale itself ever needed one, but the card gives Verdantia alone and nothing here adds to what the card gives.*
 
 ---
 
 ## IV · Primary Stats
 
-**Stage IX, Invocation** · **Level 272** *(estimate)* · Level Band III · Coherence Band A · Grade S with late push toward SS · Ceiling 625.
+**Stage IX, Invocation** · **Level 272** · Level Band III · Coherence Band A · Grade S with late push toward SS · Ceiling 625.
 > **Pool 11,160** · 4,500 from Bands I–II, 2,160 from Band III, 4,500 from Thresholds I–IX. **Allocated 10,652.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -97,7 +97,7 @@
 ## IX · Relationships
 
 **The temple choir of Kael'Nir** · **His former brothers in the wind-priesthood.** *Unattested.* He left them by refusing what they offered.
-**The Guild Accord** · **Harmony Arbiter, mediating Wellspring disputes through melody.** *Nearest attested seat: the Arbitration Division.*
+**The Guild Accord** · **Harmony Arbiter, mediating Wellspring disputes through melody.** *The office sits within the Arbitration Division* — the title is unattested, the Division that houses it is real, and this sheet assigns it there rather than leaving it homeless.
 **The disputants** · Every Wellspring quarrel he has settled has two parties who remember the tone. The card names none.
 **Monastic hymns** · **Remember him as the one who could still a storm with laughter.**
 **Symbol** · **Peace Through Motion:** movement without violence, breath without burden.
@@ -106,5 +106,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**WOTR: Volume V — Character Cards** (first appearance) — the default destination this migration batch uses wherever a card names no volume of its own.
 > **Codex** · Vitalia / Biochemistry / Verdantia primary / Stage IX.

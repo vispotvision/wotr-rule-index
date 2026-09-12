@@ -101,5 +101,5 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the source card; pending Isaac.*
+**WOTR: Volume V — Character Cards** (first appearance) — the default destination this migration batch uses wherever a card names no volume of its own.
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage VI.

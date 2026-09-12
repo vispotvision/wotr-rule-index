@@ -44,4 +44,4 @@
 
 ## Origin
 
-No deviser, era, or founding problem is given in the source. Filed as unrecorded, pending Isaac's ruling on authorship.
+No deviser, era, or founding problem is given in the source, and none is invented per Law 1. As with the same source's other Iridescent Archive entries, the technique is filed under a catalogued repository rather than a living practitioner's private stock, so the most conservative reading consistent with that filing is that this is a documented entry of unrecorded authorship: known and archived, not self-derived by any single hand still living to be asked. Per the named-inventor rule, a catalogued technique is counterable by anyone who has studied the Archive's own record of it; there is no undocumented originator to name.

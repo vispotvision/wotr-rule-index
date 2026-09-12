@@ -105,6 +105,6 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the source card; pending Isaac.*
+*None recorded on the source card.*
 **Hooks carried from the card, unplaced** · **The Rust-Garden Incident** *(stopped a Rot-Swarm alone, fusing the hive-queen to a boulder, then grew a tree through her chest)* · **The Broken Bridge** *(held a collapsing bridge four hours for refugees, at permanent cost to the arm's servos)* · **The Seed** *(carries one seed from the original Spirit Tree, seeking soil pure enough)* · **The Upgrade** *(hunts a Technomancer who promised to let the arm feel touch again, for a price)*.
 > **Codex** · Vitalia / Biochemistry / Verdantia primary / Stage VI.

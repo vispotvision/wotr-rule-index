@@ -1,44 +1,10 @@
 # Held out of the Notion publish
 
-Contains a "pending Isaac" / TBD / estimate placeholder, or is a standing-restriction flag stub. Run the resolve pass, or get Isaac's ruling, then re-run build/publish_imports.py.
+Contains a "pending Isaac" / TBD placeholder, or is a standing-restriction flag stub. Run the resolve pass, or get Isaac's ruling, then re-run build/publish_imports.py.
 
-- imports/converted/characters/az_the_incendiant_veil.md
-- imports/converted/characters/danger_do_not_open.md
-- imports/converted/characters/deserts_fang.md
-- imports/converted/characters/he_who_bears_the_will_of_the_titans.md
-- imports/converted/characters/knight_of_vergegate.md
-- imports/converted/characters/moon_bloom_at_dawn.md
-- imports/converted/characters/pip.md
-- imports/converted/characters/rain_of_the_sky_bound.md
-- imports/converted/characters/ten_thousand_hands.md
 - imports/converted/characters/the_archmagus.md
-- imports/converted/characters/the_axiomatic_sovereign.md
-- imports/converted/characters/the_black_chrysalis.md
-- imports/converted/characters/the_black_cleric.md
-- imports/converted/characters/the_bloomwarden.md
-- imports/converted/characters/the_burnmark.md
 - imports/converted/characters/the_cryost.md
-- imports/converted/characters/the_ember_blooded.md
-- imports/converted/characters/the_emberline.md
-- imports/converted/characters/the_forge_that_roars.md
 - imports/converted/characters/the_gentle_engine.md
-- imports/converted/characters/the_golden_engine.md
-- imports/converted/characters/the_grey_adjudicator.md
-- imports/converted/characters/the_iron_wound.md
-- imports/converted/characters/the_isocline_scribe.md
-- imports/converted/characters/the_khan.md
-- imports/converted/characters/the_lantern_scribe.md
 - imports/converted/characters/the_pale_bastion.md
-- imports/converted/characters/the_pale_crucible.md
-- imports/converted/characters/the_red_forge_sentinel.md
-- imports/converted/characters/the_sapphire_mirage.md
-- imports/converted/characters/the_serene_gale.md
-- imports/converted/characters/the_serpent_alchemist.md
-- imports/converted/characters/the_silent_apothege.md
-- imports/converted/characters/the_silver_veil.md
-- imports/converted/characters/the_sleepless_theorist.md
-- imports/converted/characters/the_smiling_veil.md
-- imports/converted/characters/the_unbent_crown.md
-- imports/converted/characters/the_wandering_string.md
-- imports/converted/characters/the_white_arbiter.md
-- imports/converted/characters/vk_the_breakstorm_vanguard.md
+- imports/converted/spellcraft/precept.md
+- imports/converted/techniques/noxvyra_the_stillwing_judicate.md

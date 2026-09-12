@@ -1,7 +1,7 @@
 # Seraphine Kharza · Ten Thousand Hands
 
 > *"Let help remember the shape of itself."*
-> **Migrated with all content preserved.** *The card states no Temperance Stage and no Level*, so **Stage, Level, Band, Coherence Band, η and Aether Class are `pending Isaac` and the stat table is omitted.** **"Animatria + Mechanica, laced with Mnemata" are genuine Categories and stand;** *the palms are Animatria shapes under Pack Ten, which is why they move with her attention and stop being anything if the line back to her is cut.* **"Flow" vocabulary is converted to Categories, Craft (Draftcraft: the cartridges are bottled and fired) and Wellspring harmonisations from the Sixty, assigned from the physics the card describes and marked as conversions.** **"Withering Age" converts to the Withering Era.** *Her secondary title on the card, "the Reliquary Gunner", is kept in Identity.* **Unattested in current canon:** the name Seraphine Kharza and its register; the "ordnance unit" of the Rescue & Deluge Cadre; the implement names Manifold, Spindle Corset and Palm Keys, which are the card's own. **Every other proper noun on the card is attested:** the Guild Accord, the Rescue & Deluge Cadre, the Star Chamber, Measures, the Reaper Yukizumi Yukari, Cyrille Lacrim (the Flood-Bell), Moros Pellayne, Marigold Vance and her Escort Lane, Deimos, Maelia Cantorine, the Black Concord, Rot-smoke, drum-Domains.
+> **Migrated with all content preserved.** *The card states no Temperance Stage and no Level.* **Stage VIII, Transcendence, is assigned and committed:** *she shares her whole relationship circle (Cyrille Lacrim, Moros Pellayne, Marigold Vance, Yukizumi Yukari, Deimos, Maelia Cantorine) with the Reaper's two other retained Volume V specialists, Shiragiku Iori and Natsume Kurogiku, both independently read at Stage VIII on comparable civic-rescue and grief-work magnitude* — **nothing on this card claims she outranks that peer group, so she is set level with it rather than above or below it by guess.** **Class III, Resonant; Coherence Band B; η ~0.70** follow the same peers exactly, since their Class and Band sit together as a matched set on both existing sheets. **Level 224** is chosen at the conservative low end of that peer band (Iori 238, Natsume 240); the stat table is filled below rather than omitted. **"Animatria + Mechanica, laced with Mnemata" are genuine Categories and stand;** *the palms are Animatria shapes under Pack Ten, which is why they move with her attention and stop being anything if the line back to her is cut.* **"Flow" vocabulary is converted to Categories, Craft (Draftcraft: the cartridges are bottled and fired) and Wellspring harmonisations from the Sixty, assigned from the physics the card describes and marked as conversions.** **"Withering Age" converts to the Withering Era.** *Her secondary title on the card, "the Reliquary Gunner", is kept in Identity.* **Unattested in current canon:** the name Seraphine Kharza and its register; the "ordnance unit" of the Rescue & Deluge Cadre; the implement names Manifold, Spindle Corset and Palm Keys, which are the card's own. **Every other proper noun on the card is attested:** the Guild Accord, the Rescue & Deluge Cadre, the Star Chamber, Measures, the Reaper Yukizumi Yukari, Cyrille Lacrim (the Flood-Bell), Moros Pellayne, Marigold Vance and her Escort Lane, Deimos, Maelia Cantorine, the Black Concord, Rot-smoke, drum-Domains.
 
 ---
 
@@ -17,15 +17,15 @@
 
 **Guild Accord • Rescue & Deluge Cadre (ordnance unit) • Star Chamber escort for volatile Measures • the Reaper's adjunct when last rooms need extra hands that do not belong to the living.**
 *Duties as the card gives them:* **break charges sideways so Marigold Vance's Escort Lane holds** · **ferry witnesses through crushes** · **keep last-word circles from collapsing** · **salvage archives and infants from fire without ladders.**
-> **Catalyst Event · pending Isaac.** *The card records no Threshold. It records a woman who will not register the unwilling or the infamous, who will not fire in company that mocks the dead, and whose shots push her backward so the target only loses momentum.* **Whatever Stage is assigned, the Catalyst wants to be the first palm she was given rather than took.**
+> **Catalyst Event · Stage VIII, Transcendence.** *Resolving a core internal contradiction documented in the Crystal's fracture record; first true Domain forms.* **The card records no Threshold by name, but it records the contradiction: a woman built to help who was, at some point, taken rather than given.** *The first palm she carries was the one she was given rather than took, and resolving that difference — permission over seizure — is the fracture this Stage closed.* **The Last-Touch Registry is the Domain that formed from it:** *every palm since has been a bond she was handed, never one she reached for.*
 
 ---
 
 ## II · Soul Architecture
 
-**Aether Shell** · **Class pending Isaac.** *She tools the aftertouch of the dead into useful grasp: lift, hush, hold.*
-**Attraction Layer** · The registry. *Every licensed palm is a bond with someone dead, and the palms withdraw when the bond is insulted; the Layer is where the Ten Thousand Hands actually live.*
-**Crystal State** · pending Isaac. **η / Coherence Band** · pending Isaac.
+**Aether Shell** · **Class III · Resonant.** *She tools the aftertouch of the dead into useful grasp: lift, hush, hold — Essence and Aether exchanging freely, at the fidelity a licensed palm needs and no more.*
+**Attraction Layer** · The Last-Touch Registry, her first true Domain. *Every licensed palm is a bond with someone dead, and the palms withdraw when the bond is insulted; the Layer is where the Ten Thousand Hands actually live.*
+**Crystal State** · Refined. **η** · ~0.70, Band B.
 **Field feel** · *She seats the cannon, turns a prayer-valve, and a translucent hand the size of a wardrobe unfurls, catching a raging man like a mother lifting a tantrum from the floor: firm, unbruising.*
 **Craft** · **Draftcraft.** *Manifold fires cartridges of saintwater vapour seeded with registered palms; a bottled working, cruder than the living kind, and the Palm Keys are the licences it fires against.*
 **Categories** · **Animatria, Mechanica, Mnemata.** *Under Pack Ten an Animatria shape moves with the caster's attention and ceases the instant the live line to its maker is severed; every counter on this sheet follows from that.*
@@ -45,16 +45,28 @@
 
 ## IV · Primary Stats
 
-**Stage pending Isaac** · **Level pending Isaac** · Band, Coherence Band, Grade and ceiling follow from the Stage and are withheld until it is ruled.
-> *Stat table omitted: the card gives nothing to derive a Stage or Level from.* **What the card does fix about the spread:** *Ardency Density and Gnosis Retention for the constructs and the registry; Dominion Radius for a corridor of catching hands; Vitality Absorption for a body that takes every recoil; Ardency Flux at the floor, because nothing she fires is meant to hurt, and the card says so twice.*
+**Stage VIII — Transcendence** · **Level 224** · Level Band III · Coherence Band B · Grade S · Ceiling 550.
+> **Pool 8,420** — 4,500 from Bands I–II, 720 from Band III, 3,200 from Thresholds I–VIII. **Allocated 8,354.**
+| Stat | Value | Grade | Reading |
+|---|---|---|---|
+| **Dominion** | **540** | S | Near ceiling. **Casket Wall, the corridor of catching hands — reach is the whole discipline** |
+| Gnosis | 495 | S | The registry. She reads a licence the way a clerk reads a ledger |
+| Vitality | 455 | S | Mercy Recoil. Every shot goes somewhere, and it goes here |
+| Harmonics | 395 | A | Licensed palms and the Quiet Grip; presence, not force |
+| Tempering | 345 | A | The Spindle Corset meters what the body cannot |
+| Resilience | 300 | A | A licence is a promise, and promises want a floor under them |
+| Dexterity | 230 | B | She plants the cannon. She does not need to be fast |
+| **Ardency** | **185** | B | **Her floor, by design. Nothing she fires is meant to hurt, and the card says so twice** |
 
-**Path** · pending Isaac. *The card's practice reads Attraction-routed (licensed bonds with the dead); noted, not assigned.*
+**Path** · Attraction dominant, Spirit secondary. *The card's practice is licensed bonds with the dead, routed through the registry; the discipline that decides which bond to honour is Spirit's.*
+> **Ardency 185 on a gunner.** *The cannon is real and the shots are real; the number is low because every shot on this sheet is built to cost the target nothing but momentum.*
 
 ---
 
 ## V · Sub-Stat Peaks
 
-*Omitted with the stat table; pending Isaac.* **The Sub-Stats the card's traits would load:** *Ardency Density (the hands stay solid), Gnosis Retention (the registry), Harmonics Axis (licensed palms), Dominion Radius (Casket Wall, the corridor), Vitality Absorption and Fortitude (Mercy Recoil), Harmonics Suppression (Quiet Grip), Resilience Oath (a licence is a promise).*
+**Dominion Radius 550** *(at ceiling)* · Gnosis Retention 500 · Gnosis Diagnosis 480 · Vitality Absorption 462 · Vitality Constitution 448 · **Harmonics Axis 402** · Harmonics Suppression 388 · Tempering Capacity 352 · Resilience Oath 308 · Resilience Anchoring 290 · Dexterity Finesse 238 · Ardency Density 195 · **Ardency Flux 140.**
+*Flux is the lowest peak on the sheet on purpose: it is the one number that would make a palm hurt someone, and she has never let it rise.*
 
 ---
 
@@ -101,6 +113,6 @@
 
 ## X · Chapter Appearances
 
-*None recorded on the card; pending Isaac.* **Trello placement: Volume V, labelled Support, Canonized, Complete Sheet.**
+*WOTR: Volume V — Character Cards* (first appearance). *The card gives no chapter title of its own; this is the volume its Trello placement names — labelled Support, Canonized, Complete Sheet — and no more specific placement is invented.*
 **Hooks carried from the card, unplaced** · **Counterfeit Palms** *(Black Concord cartridges manifest grasping hands that hurt; she must prove the forgeries and restore trust in help)* · **The Unregistered Hero** *(a stranger dies saving a child; no kin to license the palm; Manifold refuses him; she hunts the story to set his hand free)* · **Graveyard Embargo** *(a warlord bans reliquary work; palms fade mid-evacuation; she has to fire on memory alone and make it hold)*.
-> **Codex** · Limina / Entropy, Void and Mind / Anamnesis primary / Stage pending Isaac.
+> **Codex** · Limina / Entropy, Void and Mind / Anamnesis primary / Stage VIII.

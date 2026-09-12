@@ -44,4 +44,4 @@
 
 ## Origin
 
-The source names no deviser beyond Serenyra herself and gives no history for the technique's invention. Under the Named Inventor Rule this makes Chorda Somnii self-derived rather than a documented working countered from study: anyone meeting it for the first time meets it live, in the exchange, before it does whatever it is going to do. A fuller origin is pending Isaac if one is wanted.
+The source names no deviser beyond Serenyra herself and gives no history for the technique's invention. Under the Named Inventor Rule this makes Chorda Somnii self-derived rather than a documented working countered from study: anyone meeting it for the first time meets it live, in the exchange, before it does whatever it is going to do. No further origin is given by the card, and none is added here.

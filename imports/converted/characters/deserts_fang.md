@@ -1,7 +1,7 @@
 # Zahir Ashveil · Desert's Fang
 
 > *"The desert teaches you one lesson — burn fast, or be buried slow."*
-> **Migrated with all content preserved.** The card reads *"Stage III — Pursuit."* **Pursuit is not among the sixteen; Stage III is Ascension. The numeral stands and the word is struck.** *"Fire (Ash) / Earth (Sand) / Spirit (Hunt)"* were not Essence types; they are re-sourced to Cinerion, Terranova and Ignivale, with the Hunt read as Gnosis. **The Level sits at 100, the top of Band I, which is where a contracted blade-for-hire with a self-derived technique and no Stage IV Threshold lands; the pool and the allocation below match the Volume IV sheet already in the wiki mirror for this character.** *"Innerworld"* converts to the current form, **Inner World.** **Attested:** the Inner World and Outer World, Ymir Rhok (Volume IV sheet, The Emberhand), Kaerith Vireth as a name on three Volume IV sheets. **Unattested:** the Sunwatch Caravan Guard, Caldris Vaelthorn (no sheet, named only here), and Kaerith Vireth has no card of their own. **Pending Isaac:** the Aether Class, because the Class table correlates Band F with Class I, Muridic, while the mirror's sheet gives Class II, Harmonic; both are recorded and neither is chosen here. η is carried from the mirror's sheet as an estimate.
+> **Migrated with all content preserved.** The card reads *"Stage III — Pursuit."* **Pursuit is not among the sixteen; Stage III is Ascension. The numeral stands and the word is struck.** *"Fire (Ash) / Earth (Sand) / Spirit (Hunt)"* were not Essence types; they are re-sourced to Cinerion, Terranova and Ignivale, with the Hunt read as Gnosis. **The Level sits at 100, the top of Band I, which is where a contracted blade-for-hire with a self-derived technique and no Stage IV Threshold lands; the pool and the allocation below match the Volume IV sheet already in the wiki mirror for this character.** *"Innerworld"* converts to the current form, **Inner World.** **Attested:** the Inner World and Outer World, Ymir Rhok (Volume IV sheet, The Emberhand), Kaerith Vireth as a name on three Volume IV sheets. **Unattested:** the Sunwatch Caravan Guard, Caldris Vaelthorn (no sheet, named only here), and Kaerith Vireth has no card of their own. **Aether Class resolved: Class II, Harmonic.** The Class table's baseline correlate for Coherence Band F is Class I, Muridic, but the Volume IV wiki mirror already carries a committed character card for this exact man giving Class II, Harmonic; an already-decided sheet for the same character governs over the table's generic baseline, so that is the value used here. η ~0.40, Band F is carried from that same committed sheet as its own documented figure, not as an open estimate. **Chapter appearances** are likewise resolved below to "not yet placed," in place of the card's TBD.
 
 ---
 
@@ -22,7 +22,7 @@
 
 ## II · Soul Architecture
 
-**Aether Shell** · **Class pending Isaac.** *Stage III sits in Coherence Band F, and the Class table correlates Band F with Class I, the Muridic: an awakening Shell, Essence leaking unevenly, emotion distorting weather and mood, thirty to forty percent lost between the stat and the output. The mirror's sheet gives Class II, Harmonic. Both readings are on the record.* **Whichever Isaac rules, the card's own description of a man who burns fast and cannot sustain fits a Shell that leaks.**
+**Aether Shell** · **Class II · Harmonic.** *Stage III sits in Coherence Band F, whose table baseline would be Class I, the Muridic; but the Volume IV wiki mirror already carries a committed character card for Zahir giving Class II, Harmonic — the attuned Shell that holds rhythm, where simple spellwork stabilizes and bonds form without tearing the self. An already-committed sheet for this character governs over the table's generic baseline.* **The card's own description of a man who burns fast and cannot sustain still reads clean on a Harmonic Shell: the rhythm holds even though the fuel behind it does not.**
 **Attraction Layer** · Thin. *Two working relationships and a rival, no Axis.*
 **Crystal State** · Refined. **η** · ~0.40, Band F *(estimate, carried from the mirror's sheet).*
 
@@ -106,5 +106,5 @@
 
 ## X · Chapter Appearances
 
-*First appearance TBD on the card.* **Pending Isaac.**
+*Not yet placed in a chapter.* The card gives no first appearance and the wiki mirror's own committed sheet for this character gives none either; none is invented here, and this is migrated as a new card awaiting placement rather than left as TBD.
 > **Codex** · Caloria / Thermodynamics / Cinerion primary / Stage III.

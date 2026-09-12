@@ -44,4 +44,4 @@
 
 ## Origin
 
-The source gives no deviser beyond Serenyra and frames the technique as inherited rather than invented: an echo of Florwyn's own Ground, carried rather than designed. No further account of how or when the inheritance was received is given. A fuller origin is pending Isaac if one is wanted.
+The source gives no deviser beyond Serenyra and frames the technique as inherited rather than invented: an echo of Florwyn's own Ground, carried rather than designed. No further account of how or when the inheritance was received is given by the card, and none is added here.

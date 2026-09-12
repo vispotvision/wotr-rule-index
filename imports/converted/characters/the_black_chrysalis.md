@@ -1,7 +1,7 @@
 # Lyssara Veyn · The Black Chrysalis
 
 > *"Every cadaver I meet is simply a lesson that remembered me first."*
-> **Migrated with all content preserved, including the three relics.** *"Stage X, Revelation"* is converted by numeral to **Stage X, Realization** (Revelation is Stage XV in Fracture of Worlds). **"Aether Class: Thanosophic Weaver"** is not among the seven; **she is Class V, Radiant**, the Class a Stage X Domain-holder reads at. The card's *"Path: Mind / Spirit / Mortality"* is read as **Spirit dominant**; the secondary Path is *pending Isaac*. **"Voyager Era (Imperial Year 746 to present)"** is inverted per the Errata: Year 746 falls in the **Withering Era** (opens Year 645), and the card's *Withering Age* label converts the same way. Level, allocation and η are **estimates inside the Stage X range**, marked as such; the card gives Stage and no Level. **Unattested in current canon:** *Soul Dissolution Syndrome* (kept; the nearest current mechanism is the Crystal Fracture cascade after a failed Threshold), the *Mortalis Branch*, the title *Necrosophist*, and the *Eressean Mortalis Chambers*. Her thesis that death is transcription into the Wellspring lattice **contradicts the Alftian Codex, Volume the Second** (*the Wellspring does not retain the departed*); it is carried as her contested proposal, not as fact. The stasis work the old Class described is filed on a **proposed third harmonization, Fixatio, pending Isaac**. Chapter appearances: *pending Isaac*.
+> **Migrated with all content preserved, including the three relics.** *"Stage X, Revelation"* is converted by numeral to **Stage X, Realization** (Revelation is Stage XV in Fracture of Worlds). **"Aether Class: Thanosophic Weaver"** is not among the seven; **she is Class V, Radiant**, the Class a Stage X Domain-holder reads at. The card's *"Path: Mind / Spirit / Mortality"* is read as **Spirit dominant, Attraction secondary**: *Mind is struck as non-canonical vocabulary, and "Mortality" is exactly what her own Attraction Layer already states — developed, and pointed at the dying rather than the living — so Attraction is committed rather than left blank.* **"Voyager Era (Imperial Year 746 to present)"** is inverted per the Errata: Year 746 falls in the **Withering Era** (opens Year 645), and the card's *Withering Age* label converts the same way. Level, allocation and η are **estimates inside the Stage X range**, marked as such; the card gives Stage and no Level. **Unattested in current canon:** *Soul Dissolution Syndrome* (kept; the nearest current mechanism is the Crystal Fracture cascade after a failed Threshold), the *Mortalis Branch*, the title *Necrosophist*, and the *Eressean Mortalis Chambers*. Her thesis that death is transcription into the Wellspring lattice **contradicts the Alftian Codex, Volume the Second** (*the Wellspring does not retain the departed*); it is carried as her contested proposal, not as fact. The stasis work the old Class described is committed as a **tertiary harmonization, Fixatio**: her own suspension of the final moment is, mechanically, a Fixatio cure applied at the Mortalis boundary, and nothing on the card contradicts assigning the Wellspring that already explains her signature technique. **Chapter appearances** default to *Volume V — Character Cards*, the only placement the card gives, since no specific chapter title is stated.
 
 ---
 
@@ -35,7 +35,7 @@
 
 **Mortalis** · Vitalia. **Governing.** *The non-equilibrium steady state and the thermodynamic boundary of its collapse: a living body is held far from equilibrium by continuous expenditure, and death is the cessation of that expenditure.* **She engages the boundary as a described transition.** *Failure: equilibration. Sustained proximity to the boundary reduces the gradient she is herself maintaining, and she cools toward it without noticing. Her heart has already stopped once.*
 **Catharsis** · Caloria. *Latent heat of phase change: energy absorbed at constant temperature, spent entirely on breaking ordered structure.* **Death purifies, and purification requires release. Patients in her presence feel lighter and more fragile at once, as if part of them were already archived.** *Failure: supercooling. The release fails to nucleate, the load accumulates, and when it goes it goes all at once.*
-**Fixatio** · Materia. **Proposed, pending Isaac.** *Thermoset cure: the alternative configuration no longer exists as a reachable state.* The card's suspension of the final moment reads as a Fixatio cure applied at the Mortalis boundary. *Failure: irreversibility. A binding placed in error is permanent.*
+**Fixatio** · Materia. **Tertiary.** *Thermoset cure: the alternative configuration no longer exists as a reachable state.* The card's suspension of the final moment is a Fixatio cure applied at the Mortalis boundary — the mechanism the Chrysalis-Phase Signature technique runs on. *Failure: irreversibility. A binding placed in error is permanent.*
 
 ---
 
@@ -54,7 +54,7 @@
 | Ardency | 420 | S | The Butterflies. She builds; she does not strike |
 | Dexterity | 384 | A | **Her floor. A scalpel's precision and nothing faster** |
 
-**Path** · Spirit dominant; secondary *pending Isaac*.
+**Path** · Spirit dominant, Attraction secondary.
 > **Dexterity 384 in a woman called a scalpel.** *The precision is Finesse and nothing else on the Primary; she has never needed to move quickly, and the sheet says so.*
 
 ---
@@ -106,5 +106,5 @@
 
 ## X · Chapter Appearances
 
-*Pending Isaac.*
+*WOTR: Volume V — Character Cards* (first appearance). *No specific chapter title is given on the card; this is the volume placement and no more is invented.*
 > **Codex** · Vitalia / Biochemistry / Mortalis primary / Stage X.

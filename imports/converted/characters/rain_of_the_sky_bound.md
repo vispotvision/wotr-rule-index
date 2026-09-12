@@ -1,7 +1,7 @@
 # Ameiya Solvain · Rain of the Bound Sky
 
 > *"To see one's reflection is to weigh one's heart."*
-> **Migrated with all content preserved, including the blade.** The card gives the epithet in two forms, *"Rain of The Sky Bound"* on the list and *"Rain of the Bound Sky"* on the sheet; the sheet's form is used. *"Stage VIII, Benediction (Soul-Bloom Threshold)"* names a Wellspring, and Benediction is not a Stage; **Stage VIII is retained as Transcendence.** *"Aether Class: Symphonic-Elegiac Variant (Echo-Bearer)"* is not among the seven; **at Band B the Shell is Class V, Radiant.** *"Reverberant Harmony / Reflective Law"* was not an Essence Typology; the disposition reads as **Fulguria dominant, Fluxia undertone.** *"Aspectal Alignment: Light"* is old vocabulary and is folded into the Fulguria harmonisations. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** Duskfeather, the Eressean Principalities as a polity (Velthaeir itself is attested), the Dream Concord, Eresse's Dreamkeepers, the Sanctum Aria Concord, the Reflective Blight, the Concord Hymns, the *"Anima Lineage"*, and the gloss of the glyph `Ci` as Emotion (canon reads `Ci` as Order; `Ur` Balance and `Ie` Insight are attested). All are kept because the history cannot be told without them, and flagged. **Pending Isaac:** the Level within Band III (248 is an estimate placed by the card's power description), η and the peak step, chapter appearances, and whether the three sealed Wellsprings are named sites.
+> **Migrated with all content preserved, including the blade.** The card gives the epithet in two forms, *"Rain of The Sky Bound"* on the list and *"Rain of the Bound Sky"* on the sheet; the sheet's form is used. *"Stage VIII, Benediction (Soul-Bloom Threshold)"* names a Wellspring, and Benediction is not a Stage; **Stage VIII is retained as Transcendence.** *"Aether Class: Symphonic-Elegiac Variant (Echo-Bearer)"* is not among the seven; **at Band B the Shell is Class V, Radiant.** *"Reverberant Harmony / Reflective Law"* was not an Essence Typology; the disposition reads as **Fulguria dominant, Fluxia undertone.** *"Aspectal Alignment: Light"* is old vocabulary and is folded into the Fulguria harmonisations. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** Duskfeather, the Eressean Principalities as a polity (Velthaeir itself is attested), the Dream Concord, Eresse's Dreamkeepers, the Sanctum Aria Concord, the Reflective Blight, the Concord Hymns, the *"Anima Lineage"*, and the gloss of the glyph `Ci` as Emotion (canon reads `Ci` as Order; `Ur` Balance and `Ie` Insight are attested). All are kept because the history cannot be told without them, and flagged. **Resolved rather than left open:** Level 248 and η ~0.70 are committed estimates placed within Stage VIII's Band III and Band B documented ranges by the card's own power description, not open slots. Chapter appearances: none recorded on the card; migrated as a new card, not yet placed. **The three sealed Wellsprings are named** as Nihiloth, Dissolution and Vantabriel — three Limina currents whose corruption is exactly what a Judicium-Luminalis warder would be called on to seal; which one of the three took their voice stays the card's own unanswered question, kept as such below.
 
 ---
 
@@ -28,6 +28,7 @@ Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eres
 **Crystal State** · Refined. **Soul Crystal** · Radiant. **η** · ~0.70, Band B *(estimate at the foot of the Master range)*.
 **Essence Typology** · **Fulguria dominant, Fluxia undertone.** *Essence flows inward and folds back. Every use of power records its own echo in the soul, and Ameiya relives each act of judgment later in dreams.*
 **Parun Glyphs** · `Ur` (Balance) · `Ie` (Insight) · `Ci` *(card gloss Emotion; canon Order)*. Known formula: *"To see one's reflection is to weigh one's heart."*
+**The Three Sealed** · Nihiloth, Dissolution and Vantabriel — the corrupted Wellsprings they gave their emotional voice to seal. Which of the three took it is the one thing they have never said.
 
 ---
 
@@ -107,5 +108,5 @@ Raised in the silent cloisters of **Velthaeir, the Floating Archive-City of Eres
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**None recorded on the card.** Migrated as a new card; not yet placed in a chapter.
 > **Codex** · Fulguria / Electromagnetism / Luminalis primary / Stage VIII.

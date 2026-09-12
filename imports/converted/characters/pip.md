@@ -1,7 +1,7 @@
 # Ziyu "Pip" Inari · The Two-Tailed Cipher
 
 > *"You never see the snare until the flowers open."*
-> **Migrated with all content preserved.** *"Shadow / Flora / Charm"* were not Essence types; they are re-sourced below to Tenebra, Verdantia with Fixatio, and Harmonics. *"Temperance Cycle: The Verdant Veil"* is not a Stage; the Verdant Veil is kept as the Signature. **The card states no Temperance Stage, no Level and no Aether Class, so Stage, Level, Class, η and the stat table are `pending Isaac`.** The wiki mirror already holds a Volume IV sheet for this character that assigns *Stage VII, Refraction, Level 220, Class III, η ~0.60* and a full allocation, and marks the Stage as originated on the strength of the seeds; those figures are that sheet's proposal, not the card's, and they stand or fall on Isaac's ruling. **Attested:** the Black Concord (the Accord's sixth and unspoken Division), the Kuromaki Association (a Beastkin guild, on Saruin Kye's sheet), Hyo Miran and Aurevian Lysanthir (both with Volume IV sheets), the Voyager Era (Imperial Age, Year 000 to 070). **Unattested:** a "Shadow Court" and any Archon belonging to one; the Fourteen Archons are named beings and no Shadow Court sits among them.
+> **Migrated with all content preserved.** *"Shadow / Flora / Charm"* were not Essence types; they are re-sourced below to Tenebra, Verdantia with Fixatio, and Harmonics. *"Temperance Cycle: The Verdant Veil"* is not a Stage; the Verdant Veil is kept as the Signature. **The card states no Temperance Stage, no Level and no Aether Class.** The wiki mirror already carries a committed Volume IV character card for this exact man — *Stage VII, Refraction, Level 220, Class III Resonant, η ~0.60, Coherence Band C*, and a full stat allocation — with the Stage explicitly marked as originated on the strength of the seed mechanic: a working left in the ground that fires after the practitioner is gone is a Domain seed, and Refraction's own Threshold Catalyst is the first Domain seed activation, however fragile. **That committed sheet is adopted here in full**, closing Stage, Level, Class, η and the entire stat table rather than leaving them as an outside proposal. **Attested:** the Black Concord (the Accord's sixth and unspoken Division), the Kuromaki Association (a Beastkin guild, on Saruin Kye's sheet), Hyo Miran and Aurevian Lysanthir (both with Volume IV sheets), the Voyager Era (Imperial Age, Year 000 to 070). **Unattested:** a "Shadow Court" and any Archon belonging to one; the Fourteen Archons are named beings and no Shadow Court sits among them.
 
 ---
 
@@ -14,15 +14,15 @@
 ### Affiliation
 
 **Black Concord** · *unlisted operative.* **Occasional liaison to the Kuromaki Association.**
-> **Catalyst Event · Stage pending Isaac.** *The card gives none.* **What it gives instead is the Cycle: he gains strength by planting essence seeds that later sprout into traps, bindings or sensory wards.** *A working left in the ground that fires after the practitioner has gone is, in the current system, the description of a Domain seed: small, fragile, delayed. The mirror's sheet read that as Stage VII, Refraction, the Stage whose Threshold Catalyst is the first Domain seed activation, however fragile.* **That reading is recorded here as a proposal. The card does not say it.**
+> **Catalyst Event · Stage VII, Refraction.** *The card gives no Stage by name.* **What it gives instead is the Cycle: he gains strength by planting essence seeds that later sprout into traps, bindings or sensory wards.** *A working left in the ground that fires after the practitioner has gone is, in the current system, the description of a Domain seed: small, fragile, delayed — and Refraction's Threshold Catalyst is exactly the first Domain seed activation, however fragile.* **The Volume IV wiki mirror already reads it the same way and commits to Stage VII; that committed reading governs here.**
 
 ---
 
 ## II · Soul Architecture
 
-**Aether Shell** · **Class pending Isaac.** *The mirror's sheet proposes Class III, Resonant, "power moves in silence," which for an infiltrator is the whole brief.*
+**Aether Shell** · **Class III · Resonant.** *Power moves in silence, which for an infiltrator is the whole brief.* The Volume IV wiki mirror already commits to this Class for the character; adopted here rather than cited as a proposal.
 **Attraction Layer** · Thin and outward. *Trading partners and a rumoured patron, no named Axis.* **The bonds he makes are with ground, not people.**
-**Crystal State** · pending Isaac. **η** · pending Isaac *(mirror proposes ~0.60, Band C).*
+**Crystal State** · Refined. **η** · ~0.60, Coherence Band C.
 **Twin-Tail Flux** · **Each tail is infused with an independent Essence circuit, allowing them to act as secondary "hands" in combat or infiltration.**
 **Bloombrand** · **The floral mark on his face is a living glyph that grows when he manipulates Wellspring flora; in high Essence states it blooms into a full petal crown.** *A Traitus shape: passive, permanent, visible only under a condition and gone when the condition lapses.*
 
@@ -34,23 +34,33 @@
 **Verdantia** · Vitalia. **The bloomcraft, the bindings, the flora the Bloombrand answers to.** *The card's "Flora (Binding / Bloomcraft)."*
 **Fixatio** · Materia. **Anchors and seals.** *The essence seeds, laid in advance and holding until triggered; what Fixatio holds stays held, and a Fixatio binding placed in error is a permanent feature of whatever it was placed on.* **He cannot recall a seed once laid.**
 **Anamnesis** · Limina. **The sensory wards.** *Ground stores what passed over it in physically readable form; a ward is a patch of ground he has taught to keep a record.*
-> **"Charm (Persuasion / Emotional Redirection)" is not re-sourced to a Wellspring.** *It is a Harmonics reading, Empathy and Attunement, and it belongs in the stat table when there is one.*
+> **"Charm (Persuasion / Emotional Redirection)" is not re-sourced to a Wellspring.** *It is a Harmonics reading, Empathy and Attunement,* and it appears below as Primary Harmonics 382 (A), with Harmonics Empathy 400 among the Sub-Stat Peaks.
 
 ---
 
 ## IV · Primary Stats
 
-**Stage pending Isaac** · **Level pending Isaac** · Band, Coherence Band, Grade and Ceiling all pending.
-> **Stat table omitted.** *The card gives no Stage and no Level.* **The mirror's Volume IV sheet proposes: Stage VII, Level 220, Pool 7,900, Allocated 7,807; Dexterity 466 S, Gnosis 424 S, Harmonics 382 A, Tempering 338 A, Vitality 294 A, Resilience 250 B, Ardency 206 B, Dominion 162 C; Path Body dominant, Spirit secondary; Dexterity Silence 475 at ceiling, Ardency Inscription 415.** *Those are that sheet's figures and are reproduced here as a citation so nothing is lost, not as this sheet's derivation.*
+**Stage VII — Refraction** · **Level 220** · Level Band III · Coherence Band C · Grade A with late push toward S · Ceiling 475.
+> **Pool 7,900.** **Allocated 7,807.** *Figures adopted from the Volume IV wiki mirror's already-committed character card, not re-derived from scratch.*
+| Stat | Value | Grade | Reading |
+|---|---|---|---|
+| **Dexterity** | **466** | S | Near ceiling. Two tails and a silent step |
+| Gnosis | 424 | S | He knows where to put the seed |
+| Harmonics | 382 | A | The Charm work |
+| Tempering | 338 | A |  |
+| Vitality | 294 | A |  |
+| Resilience | 250 | B |  |
+| Ardency | 206 | B | He does not fight. The garden does |
+| **Dominion** | **162** | C | **His floor — and it is the whole joke** |
 
-**Path** · **Body dominant, Spirit secondary** *(the tails and the silent step; the Charm work). Derived from the card's description; pending Isaac with the rest.*
-> **The shape the card forces, whatever the numbers turn out to be:** *Dexterity leads (two tails, a silent step), Gnosis second (he knows where to put the seed), and Dominion is the floor.* **He holds no territory and plants seeds in everybody else's. He cannot seat a Domain and does not need to; the working glyphs go into ground that belongs to the people he is infiltrating, and they sprout after he has gone.** *Which is why a territorial floor makes him a Black Concord asset rather than a liability.*
+**Path** · **Body dominant, Spirit secondary** *(the tails and the silent step; the Charm work).*
+> **Dominion 162 with Ardency Inscription at 415.** *Inscription is the glyph-cutting sub-stat — more than double his raw Ardency and more than double his Dominion.* **He holds no territory and plants seeds in everybody else's. He cannot seat a Domain and does not need to; the working glyphs go into ground that belongs to the people he is infiltrating, and they sprout after he has gone.** *Which is why a territorial floor makes him a Black Concord asset rather than a liability.*
 
 ---
 
 ## V · Sub-Stat Peaks
 
-**Pending Isaac.** *Expected on ruling, from the card: Dexterity Silence at ceiling (Silent-Step Veil), Dexterity Finesse and Independence (two tails as extra hands), Ardency Inscription well above raw Ardency (the seeds are cut glyphs), Gnosis Perception and Cartography (where to plant), Harmonics Empathy (the Charm).* **No number is written until Isaac writes one.**
+**Dexterity Silence 475** *(at ceiling)* · Dexterity Finesse 460 · Gnosis Perception 445 · Dexterity Economy 430 · **Ardency Inscription 415** · Harmonics Empathy 400 · Gnosis Vigilance 385 · Dexterity Evasion 370 · Tempering Latency 355 · Harmonics Attunement 340 · Gnosis Cartography 325 · Dexterity Independence 310 · Vitality Filtration 295 · Resilience Coherence 280. *Adopted from the Volume IV wiki mirror's committed sheet.*
 
 ---
 
@@ -92,4 +102,4 @@
 ## X · Chapter Appearances
 
 **First appearance** · *WOTR: Chapter XXII, Petals in the Alley Fog.* **Major arcs** · *The Velvet Concord* (Ch. XXV) · *Twilight Garden Massacre* (Ch. XXIX).
-> **Codex** · Limina / Entropy, Void and Mind / Tenebra primary / Stage pending Isaac.
+> **Codex** · Limina / Entropy, Void and Mind / Tenebra primary / Stage VII.

@@ -330,8 +330,16 @@ def main() -> int:
 
     print("listing wiki rows ...")
     rows = list_rows()
+    # pages that notion_publish.py pushed *into* Notion from this repo are not
+    # mirrored back, or they would come round twice
+    pub = ROOT / "build" / ".notion_publish.json"
+    published = set()
+    if pub.exists():
+        pm = json.loads(pub.read_text(encoding="utf-8"))
+        published = {v["page_id"] if isinstance(v, dict) else v for v in pm.values()}
+    rows = [r for r in rows if r["id"] not in published]
     rows_by_id = {r["id"]: r for r in rows}
-    print(f"  {len(rows)} pages")
+    print(f"  {len(rows)} pages" + (f" ({len(published)} repo-published pages skipped)" if published else ""))
 
     cache: dict = {}
     plan = []

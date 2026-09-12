@@ -1,4 +1,5 @@
-# Pull the Notion wiki into wiki/ and push whatever changed to GitHub.
+# Two-way mirror: Notion wiki -> wiki/, then repo scenes and index outputs
+# -> Notion, then commit and push whatever changed.
 #
 #   powershell -ExecutionPolicy Bypass -File build\sync.ps1
 #
@@ -34,14 +35,21 @@ $code = $LASTEXITCODE
 $out | Select-Object -Last 3 | ForEach-Object { Log "  $_" }
 if ($code -ne 0) { Log "export failed (exit $code)"; exit $code }
 
+# the other direction: index outputs and scenes that changed in the repo go
+# up to Notion (build/notion_publish.py is idempotent; unchanged files are skipped)
+Log "publish start"
+$out = & python build\notion_publish.py 2>&1
+$out | Select-Object -Last 2 | ForEach-Object { Log "  $_" }
+if ($LASTEXITCODE -ne 0) { Log "publish failed (exit $LASTEXITCODE)" }
+
 # make sure we are not committing on top of a stale checkout
 & git pull -q --rebase origin master 2>&1 | Out-Null
 
-$changes = & git status --porcelain -- wiki
+$changes = & git status --porcelain -- wiki build/.notion_publish.json
 if (-not $changes) { Log "no wiki changes"; exit 0 }
 
 $n = ($changes | Measure-Object).Count
-& git add -- wiki
+& git add -- wiki build/.notion_publish.json
 & git commit -q -m "Wiki sync: $n file(s) changed in Notion`n`nAutomated mirror of the War of the Realms wiki via build/sync.ps1." 2>&1 | Out-Null
 & git push -q origin master 2>&1 | Out-Null
 if ($LASTEXITCODE -ne 0) { Log "push failed"; exit 1 }

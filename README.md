@@ -57,7 +57,14 @@ table of contents. It needs a Notion integration token in `NOTION_TOKEN` (see
 the script's docstring for the three-step setup) and is incremental: re-running
 it only rewrites pages edited since the last run. Nothing writes back to Notion.
 
-`build/sync.ps1` wraps that: export, then commit and push `wiki/` if anything
+`build/notion_publish.py` goes the other way: it pushes `scenes/*.md` into the
+wiki's Scene Archive and the four index files (`desktop/NATALIE.md`,
+`out/rules.live.full.md`, `out/docket.md`, `CONFLICTS.md`) into a wiki section
+called The Rule Index, replacing page bodies in place when the repo copy
+changes. `build/.notion_publish.json` remembers which page is which; the
+exporter skips those pages so nothing is mirrored twice.
+
+`build/sync.ps1` wraps both: export, publish, then commit and push if anything
 changed. Natalie archives each finished scene as a page under the wiki's Scene
 Archive section at session end, so running the sync (by hand, or hourly via the
 scheduled task described at the top of the script) is what lands new scenes in

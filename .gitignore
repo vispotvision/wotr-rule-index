@@ -6,3 +6,8 @@ docs/
 
 build/.mcp_token
 build/mcp_public.log
+build/models/
+build/.venv-chatterbox/
+build/voices/*.wav
+build/.narrate_jobs.json
+build/.narrate-*.log

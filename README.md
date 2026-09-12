@@ -74,6 +74,39 @@ source changed are rewritten.
 into one Word document and one epub per arc, plus a complete epub, in the Drive
 folder's `Arcs/` subfolder.
 
+`build/audio_export.py` narrates the scene archive with Kokoro (an 82M-parameter
+open text-to-speech model, run locally with kokoro-onnx — CPU by default, the AMD
+card if `onnxruntime-directml` is installed): one MP3 per scene in `ARCS.md`
+order, into the Drive folder's `Arcs/Audio/`, skipping scenes whose text and
+voice have not changed. The author-notes block at the foot of a scene is never
+read. `build/pronounce.json` respells names the engine gets wrong;
+`build/voices.yaml` names voices (`narrator: af_heart`, blends like
+`"bm_george:0.6,am_onyx:0.4"`, or a community-made Kokoro style vector dropped
+into `build/voices/<name>.npy`). About 5× faster than real time on the 7800X3D.
+
+Many voices in one scene: `scenes/cast/<scene>.cast.md` is the scene's own
+text with `[Verinus]` / `[narrator]` tags where the voice changes (a register
+counts too — `[Rubric]` for a read-out liturgical text), optional delivery
+after a colon (`[Verinus: slow, beat]`; also `quiet`, `loud`, `whisper`,
+`faster`, `long beat`) and, for a speaker on Chatterbox Turbo, performed cues
+in the line (`[sigh]`, `[laugh]`, `[chuckle]`, `[gasp]`, `[cough]`, `[clear
+throat]`). The tags are the only thing a cast file may add: it is validated
+word for word against the scene. Each speaker's voice is a `voices.yaml`
+entry — a Kokoro voice with a habitual `speed` and `gain`, or
+`engine: chatterbox` (`build/chatterbox_setup.ps1` makes its venv; Turbo for
+cues and speed, `model: standard` for the `exaggeration` / `cfg` knobs; either
+can design a voice from a short `ref:` clip). Speakers nobody has assigned get
+a stable pick from `_pool`.
+
+```
+python build/audio_export.py --fetch-model                 # once, ~350 MB into build/models/
+python build/audio_export.py --list-voices
+python build/audio_export.py --dry-run --plain --scene <scene>.md > tag-me.md   # then add [Name] tags, save as scenes/cast/<scene>.cast.md
+python build/audio_export.py --check-cast --scene <scene>.md
+python build/audio_export.py --scene 02_verinus_testament_of_the_sixty_fifth.md --voice narrator
+python build/audio_export.py --out "G:/My Drive/War of the Realms — Documents/Arcs/Audio" --max-minutes 20
+```
+
 `build/sync.ps1` wraps all of it: export, publish, docs, arcs, then commit and
 push if anything changed. Natalie archives each finished scene as a page under the wiki's Scene
 Archive section at session end, so running the sync (by hand, or hourly via the
@@ -110,6 +143,8 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `session_end(thread, scene)` | drafts the session close from the scene text and logs the session |
 | `scene_menu(thread)`, `roster(thread)`, `npc_set(...)` | the Scene Menu; the NPC roster (`table/npcs.yaml`) |
 | `prose_pass()`, `recurrence_report()`, `reconcile()`, `timeline()`, `pack_impact(text)` | archive-wide audits from `build/audit.py`, written to `reports/` |
+| `scene_text(scene)`, `cast_scene(scene, script)` | the scene's narration text to tag with `[Name]` speaker tags, and the tagged script saved as its cast file (refused if a word changed) |
+| `narrate_scene(scene, voice)`, `narration_status()` | render a scene to MP3 with the local narrator (`build/audio_export.py`) in the background — every tagged speaker in their own voice when a cast file exists; status lists jobs and the link to play each rendered scene |
 | `sync_now()` | runs `build/sync.ps1` |
 
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP
@@ -126,7 +161,12 @@ either as `Authorization: Bearer <secret>` or in the path, `/t/<secret>/mcp`
 (Claude custom connectors cannot send headers). The seventeen writing tools
 (archive, log, propose, create/update characters, the table mutations,
 `sync_now`) are not registered at all in this mode, so nothing a friend does
-through it can touch the repo, Notion, or git.
+through it can touch the repo, Notion, or git. The two narration tools are
+allowed through — they write only MP3s — and the rendered audio is served on
+the same route, `/t/<secret>/audio/<arc>/<scene>.mp3` (Range requests
+supported, so a phone's player can seek): ask Claude on your phone to narrate a
+scene, wait the few minutes, ask for the status, tap the link. Works whenever
+the PC is on. The server's own log redacts the secret from every request line.
 
 `build/mcp_public_setup.ps1` does the whole thing on this PC: writes the secret
 to `build/.mcp_token` (gitignored), registers the scheduled task **WOTR MCP

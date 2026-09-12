@@ -1,0 +1,35 @@
+# Who sounds like what, for build/audio_export.py and the narrate_scene MCP tool.
+#
+# An entry is either a voice spec string or a mapping.
+#   spec string:  a built-in Kokoro voice (python build/audio_export.py --list-voices),
+#                 a custom style file build/voices/<name>.npy, another entry's name,
+#                 or a blend "a:0.6,b:0.4"
+#   mapping:      voice: <spec>   speed: 0.93   gain: 1.0            (Kokoro)
+#                 engine: chatterbox   ref: build/voices/x.wav   exaggeration: 0.6   cfg: 0.35
+#                 (Chatterbox: expressive, slower, can design a voice from a reference clip;
+#                  see build/chatterbox_backend.py)
+#
+# Speakers are the [Name] tags in scenes/cast/<scene>.cast.md. "narrator" is every
+# untagged line. A speaker with no entry gets a stable pick from _pool below, and the
+# render prints who got what so you can pin them here.
+#
+# Built-in families: af_/am_ American, bf_/bm_ British, ef_/em_ Spanish, ff_ French,
+# hf_/hm_ Hindi, if_/im_ Italian, jf_/jm_ Japanese, pf_/pm_ Portuguese, zf_/zm_ Mandarin.
+
+narrator: af_heart
+narrator-british: bm_george
+narrator-low: "bm_george:0.6,am_onyx:0.4"
+
+# registers (a voice for a kind of text, not a person)
+Rubric:                # received liturgical text read out — level, unhurried
+  voice: bm_daniel
+  speed: 0.9
+
+# characters
+Verinus:               # seventy-one in a twenty-six-year-old's body; dry, exact, never hurried
+  voice: "bm_george:0.7,bm_lewis:0.3"
+  speed: 0.95
+Aurelian:
+  voice: am_michael
+
+_pool: [am_michael, bf_emma, am_fenrir, af_sarah, bm_lewis, af_nicole, am_eric, bf_alice]

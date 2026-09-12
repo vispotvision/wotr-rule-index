@@ -1,0 +1,12 @@
+{
+  "_readme": "Respellings applied before speech synthesis (build/audio_export.py). Key = the word as written in the scenes (whole word, case-sensitive; a possessive or plural tail is kept). Value = how to say it, spelled the way an English reader would sound it out, hyphens between syllables. Add a name whenever the narration gets it wrong. Keys starting with _ are ignored.",
+  "Tenryū": "Ten-ryoo",
+  "Büri": "Boo-ree",
+  "Zar'thuun": "Zar-thoon",
+  "Ka'ruun": "Ka-roon",
+  "Vael'thar": "Vale-thar",
+  "Vor'Skai": "Vor-sky",
+  "Varūn": "Va-roon",
+  "Kōkan": "Koh-kan",
+  "Tsohanto": "Tso-han-toe"
+}

@@ -1,7 +1,7 @@
 # Artifact brief
 
 Format: `# <Name> · <Epithet or Type>`, migration note, then:
-`## What it is` (type, appearance, provenance from the card, converted eras/names), `## Physical account` (mass, length, point of balance, the armour tier it beats and fails against — R13-9-ITEM_GUIDE_WEAPON_ENTRY; proof-marks if armour; `pending Isaac` where the card gives nothing), `## Operation line` (every working the artefact performs, as a full Design Chain line: what it does to what quantity under what law — R17-5-ARTEFACT_SCOPE), `## Codex line` (Wellspring, Family, Physics Domain, Category, glyphs only if attested in the Master Glyph Index — check with `wiki`), `## Bond and cost` (soulbound? what it costs the bearer), `## Counterplay`, `## Bearers` (from the card).
+`## What it is` (type, appearance, provenance from the card, converted eras/names), `## Physical account` (mass, length, point of balance, the armour tier it beats and fails against — R13-9-ITEM_GUIDE_WEAPON_ENTRY; proof-marks if armour; plausible figures for the weapon type where the card gives nothing, noted in the migration note), `## Operation line` (every working the artefact performs, as a full Design Chain line: what it does to what quantity under what law — R17-5-ARTEFACT_SCOPE), `## Codex line` (Wellspring, Family, Physics Domain, Category, glyphs only if attested in the Master Glyph Index — check with `wiki`), `## Bond and cost` (soulbound? what it costs the bearer), `## Counterplay`, `## Bearers` (from the card).
 
 ## Exemplar (artifact entries inside a converted card)
 

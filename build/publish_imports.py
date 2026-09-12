@@ -158,6 +158,8 @@ def main() -> int:
 
     todo, held, missing = [], [], []
     for entry in manifest:
+        if entry.get("retired"):
+            continue
         group, target = entry["group"], entry["target"]
         slug = Path(entry["file"]).stem
         rel = f"imports/converted/{group}/{slug}.md"

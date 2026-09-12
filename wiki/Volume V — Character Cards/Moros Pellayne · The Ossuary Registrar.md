@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c8-882b-e29d9878e55d"
 notion_url: "https://app.notion.com/p/Moros-Pellayne-The-Ossuary-Registrar-3bd58200eb2281c8882be29d9878e55d"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-08-15T20:16:00.000Z"
+last_edited: "2026-09-12T17:30:00.000Z"
 verification: "unverified"
 ---
 
@@ -61,9 +61,9 @@ verification: "unverified"
 | **Ardency** | **186** | B | **His floor. The footnotes bite; he does not** |
 
 **Path** · Spirit dominant, Attraction secondary.
-> **Gnosis Memorium at 550, at ceiling** — *and Memorium is the recall stat.* **He is the fourth character across both volumes to max it**, after Jindoku Malrake, Elder Seravain and Emilia Veirynthiel.
+> **Gnosis Memorium at 550, at ceiling** — *and Memorium is the recall stat.* **He is the third character across both volumes to max it**, after Elder Seravain and Emilia Veirynthiel.
 >
-> ***All four hold something that should not still be retrievable.*** *Jindoku holds an armoury, Seravain a library of venom-lore, Emilia a rewritten past.* **Moros holds the dead, and he is the only one of the four who files them.**
+> ***All three hold something that should not still be retrievable.*** *Seravain holds a library of venom-lore, Emilia a rewritten past.* **Moros holds the dead, and he is the only one of the three who files them.**
 
 ---
 

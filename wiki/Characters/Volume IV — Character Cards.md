@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-81a1-bcab-cb47f888ca98"
 notion_url: "https://app.notion.com/p/Volume-IV-Character-Cards-3bd58200eb2281a1bcabcb47f888ca98"
 section: "Characters"
 tags: ["Characters"]
-last_edited: "2026-09-12T15:26:00.000Z"
+last_edited: "2026-09-12T17:31:00.000Z"
 verification: "unverified"
 ---
 
 # Volume IV — Character Cards
 
 Character cards for Volume IV. Migrated from the legacy Trello board (*The Dawn of Iridescent Sovereignty Lost*) and rebuilt against current canon.
-> **Migration complete · 98 cards.** *A later full-board conversion pass (2026-09-12) added 3 more cards the board's own target labels routed here; one was a duplicate of an existing sheet (Zahir Ashveil · Desert's Fang) and the older copy was archived in favor of the fuller converted one.*
+> **Migration complete · 96 cards.** *A later full-board conversion pass (2026-09-12) added 3 more cards the board's own target labels routed here; one was a duplicate of an existing sheet (Zahir Ashveil · Desert's Fang) and the older copy was archived in favor of the fuller converted one. Two more — Saekiro Malrake and Jindoku Malrake — were struck entirely on 2026-09-12 (Isaac: they no longer exist).*
 >
 > Volume IV sheets are **substantially healthier than Volume III's.** Most already carry real Wellsprings, a stated Temperance Stage, and actual Fracture of Worlds stat values rather than percentage blocks. **These are corrections, not rebuilds.**
 >
@@ -28,7 +28,6 @@ Character cards for Volume IV. Migrated from the legacy Trello board (*The Dawn 
 - [Cernan Eryndor · The Bull](Volume IV — Character Cards/Cernan Eryndor · The Bull.md)
 - [Silas Briarend Wytherm III · Gravebinder](Volume IV — Character Cards/Silas Briarend Wytherm III · Gravebinder.md)
 - [Sandalphon Aestraen · The Reverent](Volume IV — Character Cards/Sandalphon Aestraen · The Reverent.md)
-- [Saekiro Malrake · The Phantom](Volume IV — Character Cards/Saekiro Malrake · The Phantom.md)
 - [Basilio Pavaret · The Crimson Bloom](Volume IV — Character Cards/Basilio Pavaret · The Crimson Bloom.md)
 - [Estrella of the Lattice Veil](Volume IV — Character Cards/Estrella of the Lattice Veil.md)
 - [Dorrik · The Pot Man](Volume IV — Character Cards/Dorrik · The Pot Man.md)
@@ -146,6 +145,5 @@ Character cards for Volume IV. Migrated from the legacy Trello board (*The Dawn 
 - [Raivhar Drakonis · The Ashen Horn](Volume IV — Character Cards/Raivhar Drakonis · The Ashen Horn.md)
 - [Seraphion Veydrak · The Chain-Halo](Volume IV — Character Cards/Seraphion Veydrak · The Chain-Halo.md)
 - [Ymir Rhok · The Emberhand](Volume IV — Character Cards/Ymir Rhok · The Emberhand.md)
-- [Jindoku Malrake · He Who Bears the Will of the Titans](Volume IV — Character Cards/Jindoku Malrake · He Who Bears the Will of the Titans.md)
 - [Ziyu "Pip" Inari · The Two-Tailed Cipher](Volume IV — Character Cards/Ziyu Pip Inari · The Two-Tailed Cipher.md)
 - [Zahir Ashveil · Desert's Fang](Volume IV — Character Cards/Zahir Ashveil · Desert's Fang.md)

@@ -1,0 +1,105 @@
+# Seraphine Lurielle · Lilac Gaze
+
+> *"Do sit. I have already seen you leave, so we may as well enjoy the part where you arrive."*
+> **Migrated with all content preserved.** **"Aether Class: Somnolent Oracle"** is not among the seven; **she is Class III, Resonant**. Her old efficiency reading of 0.84 sits just outside that Class's stated five to ten percent loss band, so it is nudged to **η 0.90**, the conservative in-band value, and the choice is recorded here rather than taken silently. **The Holy See of Lurien is dead canon**, retconned and replaced by **the Holy Sea of Alabaster**; every Lurien reference on this sheet, her bloodline, her faction, her "Pale Lady of Lurien" title, converts accordingly. **Imperial Calendar** corrects to the **Imperial Age**. Her three Wellsprings, **Somnalis, Judicium, Anamnesis**, needed no correction; the old card had them right.
+
+---
+
+## I · Identity
+
+**Name** · Seraphine Lurielle. **Called** · The Veiled Hostess, White Parlour Seer.
+**Role** · **Alabaster Noble. Prophetic Hostess. Quiet Accord Informant.**
+**Gloss rights** · Diagnostic only. She will tell a guest what she saw; never how the thread-work under it runs.
+
+### Affiliation
+
+**The Holy Sea of Alabaster**, a quiet arm of Guild Accord diplomacy worked from behind a tea parlour rather than a chapter house. Officially a loyal daughter of the Sea; unofficially useful to the Accord whenever its aims preserve lives over glory.
+> **Catalyst Event · Stage IV, Flourishing.** *The self survives contact with a debt it did not choose, and refuses to become only the instrument that paid it.* Welling and Ascension arrived in quick succession when the Somnalis current beneath her family manor recognized her as a conduit; Flourishing came with the loss of her eye, in the moment she chose to keep being a person who takes tea and gossips in lace rather than only a channel the current speaks through.
+
+---
+
+## II · Soul Architecture
+
+**Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely; very little of what she spends goes to waste.
+**Attraction Layer** · Developed, and bound to a room rather than a person; the parlour itself functions closer to an Axis than any single guest does.
+**Crystal State** · Refined. **η** ≈ 0.90, Band F.
+**The Lilac Lumen** · *A prophecy surge took her right eye and left a lens that reads too many tomorrows at once; the bandage over it is what keeps the reading survivable.*
+
+---
+
+## III · Wellspring Harmonizations
+
+**Somnalis** · Fluxia. The Dream Veil. Adjacent possibility read as clearly as present fact; the whole of her foresight runs on this one law.
+**Judicium** · Fulguria. The Wellspring of Truth. Discernment sharp enough to sort a guest's whole visit into bearable and unacceptable before the tea has cooled.
+**Anamnesis** · Limina. The Wellspring of Remembrance. The memory half of the gaze, reading who a person was well enough to guess who they might yet be.
+
+---
+
+## IV · Primary Stats
+
+**Stage IV — Flourishing** · **Level 96** · Level Band I · Coherence Band F · Grade B · Ceiling 275.
+> **Pool 3,520** — 1,920 from Band I, 1,600 from Thresholds I–IV. **Allocated 2,430.**
+
+| Stat | Value | Grade | Reading |
+|---|---|---|---|
+| **Gnosis** | **230** | B | Forecast and retention carry the whole art |
+| Harmonics | 215 | B | Attunement to threads, dreams, and rooms |
+| Tempering | 190 | B | The clarity behind the boredom |
+| Dominion | 180 | B | The parlour is a small, absolute country |
+| Resilience | 120 | C | Enough to survive her own visions |
+| Vitality | 70 | D | An ordinary body under the gift |
+| Dexterity | 60 | D | She is somewhere else before violence starts |
+| Ardency | 40 | E | Negligible; she was never built to trade blows |
+
+**Path** · Mind dominant, Spirit close second, Body least.
+> **Ardency 40, the floor of a woman who has never once needed to hit anything.** *Every fight she has won, she won before it started.*
+
+---
+
+## V · Sub-Stat Peaks
+
+**Gnosis Forecast 245** · Harmonics Attunement 230 · Gnosis Retention 225 · Harmonics Axis 220 · Tempering Clarity 205 · Dominion Command 195 · Dominion Pressure 188 · Resilience Anchoring 130.
+
+---
+
+## VI · Traits
+
+**Languid Foresight** · Constant micro-prediction under an apparent boredom: reaching for a cup before it spills, shifting a chair before a stray blow reaches the window.
+**Parlour Veil** · Inside her salon, conversation drifts toward what she needs; even a stubborn guest circles back to the detail that matters.
+**Remnant Gaze** · Even bandaged, the ruined eye reads who a person was and who they might have been, painting faint after-images no one else can see.
+**Lace Thread Scry** · Runs a gloved finger along lace, each knot a choice; maps several likely futures for a single decision, mostly for nobles and Accord envoys who ask nicely.
+**Tea Of Borrowed Sleep** · Somnalis-infused tea gives a guest back shallow dream-fragments that same night, a window into fears and plans they never spoke aloud.
+
+---
+
+## VII · Artifacts
+
+**Lilac Lens Ribbon** · *Relic / Clergy-Made Seal.* The bandage over her ruined eye. Keeps her from drowning in visions and narrows what comes through to bands she can survive.
+**Porcelain Clock Teaset** · *Relic / Temporal Focus.* A matched set doubling as a focus for timing. Nudges when guests arrive and leave, for those who drink from it.
+
+---
+
+## VIII · Signature
+
+### Judged Thread
+
+**Effect** · She grasps a glowing thread in her bandaged hand. One twist, and one narrow future closes almost entirely.
+**Cost** · Alabaster clergy call it a Parlour Fracture. Pull too hard, and the surrounding possibilities snap with it, forcing an outcome rather than merely denying one. Afterward she is bedridden for hours. Pain and light are both unbearable.
+**Limit** · The thread has to already be in her hand. It needs prepared ground and a held object. Away from her salon, the working simply is not there.
+**Counter** · Take her out of a prepared space. Or run the exchange somewhere causality is already unreliable; a Domain that scrambles cause and effect makes her own eye stutter along with everyone else's certainty.
+> **What nobody knows.** Whether a future she cuts stops existing, or only stops being one she can find again.
+
+---
+
+## IX · Relationships
+
+**The Holy Sea of Alabaster** · Officially loyal, publicly bored by the obligation.
+**Guild Accord envoys** · Visit under the pretext of tea to discuss what tomorrow might politely avoid.
+**An Alabaster prince, once** · Warned him off a coronation date that would have killed him within the week; he delayed, survived, and she gained both enemies and quiet gratitude.
+
+---
+
+## X · Chapter Appearances
+
+*None recorded on the source card.* This migration is her first indexed appearance.
+> **Codex** · Fluxia / Fluid Dynamics / Somnalis primary / Stage IV.

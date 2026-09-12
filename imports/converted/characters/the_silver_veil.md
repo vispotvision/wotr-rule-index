@@ -110,5 +110,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.* The card's arc runs toward Stage VIII, Transcendence, where restraint becomes surrender: **a harmonised knight of the Accord, or the first being to fracture into a living Wellspring.**
+**None recorded on the card; this migration is his first placement in the index.** The card's arc runs toward Stage VIII, Transcendence, where restraint becomes surrender: **a harmonised knight of the Accord, or the first being to fracture into a living Wellspring.**
 > **Codex** · Materia / Material Science / Fixatio primary / Stage VII.

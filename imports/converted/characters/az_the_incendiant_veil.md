@@ -109,5 +109,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**None recorded on the card; this migration is her first placement in the index.**
 > **Codex** · Caloria / Thermodynamics / Pyreveil primary / Stage IX.

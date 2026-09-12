@@ -110,5 +110,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.* **Incident on record:** *Containment Breach, Abython Reaction, card date VE 926: on awakening his chamber liquefied into living mercury; five researchers were transmuted; Niran disappeared shortly after.* The card's arc runs toward Stage X, Realization, and a choice: **destroy the false life he was given, or become something the Wellsprings never intended.** *He wanders the lower Wellspring ruins seeking fragments of Niran's final theorem; each act of mercy erases a piece of his mind, and each act of violence brings him closer to wholeness.*
+**None recorded on the card; this migration is his first placement in the index.** **Incident on record:** *Containment Breach, Abython Reaction, card date VE 926: on awakening his chamber liquefied into living mercury; five researchers were transmuted; Niran disappeared shortly after.* The card's arc runs toward Stage X, Realization, and a choice: **destroy the false life he was given, or become something the Wellsprings never intended.** *He wanders the lower Wellspring ruins seeking fragments of Niran's final theorem; each act of mercy erases a piece of his mind, and each act of violence brings him closer to wholeness.*
 > **Codex** · Spatium / Spatial Geometry / Transmutatio primary / Stage IX.

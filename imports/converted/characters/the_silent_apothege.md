@@ -105,5 +105,5 @@
 
 ## X · Chapter Appearances
 
-**None recorded on the card.** *Pending Isaac.*
+**None recorded on the card; this migration is his first placement in the index.**
 > **Codex** · Vitalia / Biochemistry / Verdantia primary / Stage VI.

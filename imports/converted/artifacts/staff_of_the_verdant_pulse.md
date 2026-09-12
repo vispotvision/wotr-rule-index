@@ -1,0 +1,35 @@
+# Staff of the Verdant Pulse · Domain Anchor of the Verdant Covenant
+
+> **Migration note.** Converted from the Trello board's "Staff of the Verdant Pulse" card, wholly attached to Chimwala N'Doro — confirmed in current canon as *Chimwala N'Doro · Emerald Tusks of the Verdant Covenant*, Stage VIII Transcendence, Level 240, Band B, Grade S, Class III Resonant, η ~0.70, harmonized to Verdantia, Anamnesis, Eidolyn and Benediction. "Nature-Aether / Spiritual-Aether" (an Essence type that never existed) is replaced with those four attested Wellsprings. "Lurien's eldest tree" is struck: Lurien survives in current canon only as the retconned Holy See of Lurien (Volume V ruling; replaced by the Holy Sea of Alabaster) and does not otherwise exist as a place, so the tree is relocated to the Innerworld Grove, the seat Chimwala actually holds. Of the card's three Parun glyphs, **Ur** (Balance) and **Ma** (Memory) are attested in the Master Glyph Index and kept; **Ie** (Insight) is attested as an Anamnesis-linked token and kept. Mass, length and point of balance are not given by the card; I have taken the conservative baseline for a two-handed hardwood quarterstaff of this length, noted below. Book II, Ch. 14 matches Chimwala's confirmed first appearance (*Seeds Beneath the Stone*) exactly.
+
+## What it is
+
+A Relic-class Domain Anchor and glyph tool: a gnarled staff grown, not carved, from the heartwood of the Innerworld Grove's eldest tree, its length braided in living vines that flower when Essence moves through it. Jade insets run its shaft, each cut with a Parun glyph. Cultivated over three decades in the Ancestral Grove by Chimwala N'Doro himself, from seeds blessed by the Verdant Covenant and watered with dew drawn from a live Wellspring.
+
+## Physical account
+
+Length 1.83 m. Mass 1.4 kg — heavier than seasoned ash of the same dimensions, the living wood denser with retained Essence. Point of balance 76 cm from the lower ferrule, standard for a two-handed working staff. As a percussive weapon in Chimwala's own low-Ardency hand (B-Grade, his floor stat) it beats an unarmoured or padded opponent — the blow lands as a broken rib or a dropped guard rather than a killing strike — and fails outright against a breastplate or proofed helm; the staff was never built to penetrate plate and nothing about it changes what a swung length of wood does to steel.
+
+## Operation line
+
+**Growth amplification.** Trigger: skin contact plus a harmonic working already in motion. Function: the staff draws the Verdantia current already running in the wielder's Shell and widens its channel. Mechanism: Vitality Regeneration and Tempering Yield are read off the caster's own Crystal and re-broadcast through the staff's living grain at roughly double radius and half the normal build time. Numerical effect: healing and growth-based workings extend to double their unamplified reach and resolve in half their unamplified time. Consequence: allies and terrain inside the widened radius heal or grow at the accelerated rate; the staff itself blooms visibly for the duration. Limit: the amplification only compounds a working already running — the staff generates nothing from nothing. Counter: sever line of sight or contact between caster and staff, or flood the working with an entropic current (Tenebra, Mortalis) faster than Verdantia can re-stabilize it.
+
+**Domain rooting.** Trigger: planting the staff's ferrule in open ground. Function: the staff extends root-form Essence channels into the soil, giving Chimwala's Attraction Layer a second, larger anchor point. Mechanism: Dominion Stability is borrowed from whatever Verdantia current already runs beneath the ground, the way Petralon anchors a Materia practitioner to bedrock. Numerical effect: a Domain anchored through the staff resists disruption at roughly the stability the underlying current itself carries, well past what Chimwala's own Dominion (444, S) manages unassisted. Limit: only works where the ground is live — a paved courtyard or a salted field gives the staff nothing to root into. Counter: destroy the ground contact, or corrupt the local Verdantia current faster than the anchor can draw on it.
+
+**Verdant Phantoms.** Trigger: a spoken working over the jade insets. Function: Eidolyn's templated nucleation — mental constructs given material solidity, intent as the template — is fed by Anamnesis's stored record of vegetation the current terrain no longer holds. Mechanism: the staff condenses that archived floral memory into a standing construct that moves under the caster's live attention (an Animatria shape; it obeys or strains against instruction and dissolves the instant the line back to Chimwala is cut). Numerical effect: the construct's Harmonics and Vitality track the ambient Verdantia saturation of the ground it forms on, never exceeding roughly Grade B unassisted. Limit: needs both Wellsprings present at once — a site with Eidolyn but no botanical memory in the soil (Anamnesis) produces nothing, and vice versa. Counter: a Coagulatio- or Nihiloth-keyed strike collapses the template before the construct fully forms; killing the caster or breaking concentration ends it instantly.
+
+## Codex line
+
+Wellspring Verdantia primary (Vitalia · Biochemistry); Anamnesis and Eidolyn secondary (Limina · Entropy, Void and Mind). Category: Domain Weaving primary (the rooting function), Animatria secondary (the Phantoms). Glyphs: **[Ur] Balance** (Root, Urion — broadly attested across nine Wellsprings; used here for its literal meaning rather than its Judicium-primary assignment), **[Ie] Insight** and **[Ma] Memory** (both attested Anamnesis-linked tokens, matching the staff's memory-and-insight function exactly).
+
+## Bond and cost
+
+Soulbound to Chimwala N'Doro alone; bonding a second wielder would require both his Essence signature and the Grove's own blessing, which the card does not describe as transferable and no ruling has changed. Cost to the bearer: each activation draws on Chimwala's own Verdantia, Anamnesis and Eidolyn reserves rather than a separate charge in the staff — it is an amplifier and conduit, not an independent battery, so overuse strains him precisely as any sustained working of his own would.
+
+## Counterplay
+
+Useless without ambient Essence — a barren field, a salted ruin, or a Wellspring-suppressed zone strips every function at once. Rooting into corrupted ground risks backlash traveling up the root-channel into Chimwala's own Wellspring, so a corrupted or dying Verdantia current is a weapon against him rather than a dead end for the staff. Any of the three operations can be cut simply by breaking his contact with the staff or his line of sight to a working already in progress.
+
+## Bearers
+
+Chimwala N'Doro — Emerald Tusks of the Verdant Covenant. Never leaves his possession except when entrusted for a sacred rite. Used during the Blooming Siege of Caedor to seal corruption wells and restore farmland mid-battle, matching his confirmed prominence in *Book V — The Blooming Siege of Caedor*.

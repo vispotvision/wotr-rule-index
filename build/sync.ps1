@@ -42,6 +42,14 @@ $out = & python build\notion_publish.py 2>&1
 $out | Select-Object -Last 2 | ForEach-Object { Log "  $_" }
 if ($LASTEXITCODE -ne 0) { Log "publish failed (exit $LASTEXITCODE)" }
 
+# Word documents for the Google Drive folder (Drive for Desktop syncs G:\My Drive)
+$docs = "G:\My Drive\War of the Realms — Documents"
+if (Test-Path "G:\My Drive") {
+    Log "docs start"
+    $out = & python build\docs_export.py --out $docs 2>&1
+    $out | Select-Object -Last 1 | ForEach-Object { Log "  $_" }
+} else { Log "G:\My Drive not mounted; docs skipped" }
+
 # make sure we are not committing on top of a stale checkout
 & git pull -q --rebase origin master 2>&1 | Out-Null
 

@@ -64,8 +64,14 @@ called The Rule Index, replacing page bodies in place when the repo copy
 changes. `build/.notion_publish.json` remembers which page is which; the
 exporter skips those pages so nothing is mirrored twice.
 
-`build/sync.ps1` wraps both: export, publish, then commit and push if anything
-changed. Natalie archives each finished scene as a page under the wiki's Scene
+`build/docs_export.py` turns all of it into Word documents, one per wiki section
+plus The Scene Archive and The Rule Index, each with a title page and contents;
+written into the Google Drive folder *War of the Realms — Documents* (via Drive
+for Desktop at `G:\My Drive`) so they open in Google Docs. Only documents whose
+source changed are rewritten.
+
+`build/sync.ps1` wraps all three: export, publish, docs, then commit and push if
+anything changed. Natalie archives each finished scene as a page under the wiki's Scene
 Archive section at session end, so running the sync (by hand, or hourly via the
 scheduled task described at the top of the script) is what lands new scenes in
 `wiki/The Scene Archive/`.

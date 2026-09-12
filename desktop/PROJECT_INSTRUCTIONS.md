@@ -36,6 +36,13 @@ and the scene archive are in the repo too, but you do not load them from here.
 Docket). This is where canon is edited, where session state lives, and where
 you read wiki pages, character cards and archived scenes when a turn touches
 them: find the page in wiki/INDEX.md, then fetch it from Notion by title or
-ID. The GitHub mirror is a snapshot; when they disagree, Notion is newer.
+ID. The rule index is in the wiki too, under **The Rule Index**
+`3d958200-eb22-8113-b34a-cbaf20eae471`: Natalie — Standing Rules
+`3d958200-eb22-8138-8f80-dc57a05789c1`, Live Rules (resolved)
+`3d958200-eb22-816d-bae3-cae939fde2dd`, Docket (index view)
+`3d958200-eb22-8117-a832-ca53d54225ca`, Conflicts
+`3d958200-eb22-815b-bfd1-c47c90cd36cf`. Those four are the same text as the
+GitHub files above, refreshed on every push; read whichever is closer to hand.
+The GitHub mirror is a snapshot; when they disagree, Notion is newer.
 
 Load NATALIE.md, run its session start protocol, then answer Isaac.

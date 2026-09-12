@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81bf-ba0e-ddd24f133029"
 notion_url: "https://app.notion.com/p/Vael-of-Nothing-The-Devourer-s-Index-3d958200eb2281bfba0eddd24f133029"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:11:00.000Z"
 verification: "unverified"
 ---
 
 # Vael of Nothing · The Devourer's Index
 
 ## Vael of Nothing · The Devourer's Index
-
-> **Migrated with all content preserved, including all three techniques as background and one as Signature.** *"Temperance Stage: Stage 9; Sublimation"* mixes registers: **the numeral 9 is correct; the current Stage IX is named Invocation, not Sublimation** (Sublimatio is a Wellspring, not a Stage). **Stage IX is retained; Sublimation is struck.** For once the rest of the sheet does not need correcting for it: Stage IX's Grade band is **S-Grade with a late push toward SS**, and the card's own **"Global Tier: S-Tier"** lands on exactly that; the cleanest match in this batch. *"Aether Class: Null-Devour"* is not among the seven; it needs no invented exception either, since **"lateral, not sequential; Split-Shell Entities, deep Limina harmonization... the inverted Shell devours, remembers, and reflects instead of emitting"** is the live description of **Class VI, the Voidic**, worded almost exactly as his own sheet describes him. **He is Class VI.** **Uurgath** is verified live canon; the Devourer of Forms, Chaos Magic, *Nihilaris*, Domain of Disruption/Entropy/Pattern Erasure/Terminal Dissolution; so "the Archon Uurgath did not choose him out of cruelty" needed no correction at all, only confirmation. **Oblivara, Fractura, Dissolution, Nihiloth, Cataclysm, Judicium, Benediction, Coagula** are all verified against the Sixty. **Nullborn** as a lineage term is not attested anywhere in the wiki mirror; it is kept because the card cannot make sense without an origin for him, and flagged *unattested in current canon*. The old EU / AU-s / PJ / Mach figures are retired in favour of the Primary Stat framework below; their qualitative sense (immense, unhurried, world-scale) is kept as description. Of his three Core Disciplines, **The Final Index** is carried forward as the required single Signature; The Devour and Form-Step are preserved below only as background mentions.
 
 ---
 

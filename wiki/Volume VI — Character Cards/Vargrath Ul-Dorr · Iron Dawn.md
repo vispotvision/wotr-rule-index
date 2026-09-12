@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8151-a46b-fc3347f762cb"
 notion_url: "https://app.notion.com/p/Vargrath-Ul-Dorr-Iron-Dawn-3d958200eb228151a46bfc3347f762cb"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Vargrath Ul-Dorr · Iron Dawn
 
 > *"Before there is a warrior, there is a debt. I intend to collect both."*
-> **Migrated with all content preserved, including the Garrath-Tul Titan fragment and the wyrm-scale relic.** *"Temperance: Stage VI – Glory"* is retained exactly as given, and the card's own physical feats (Mach 140+ sustained, city-block-cratering strikes, durability inside the outer band of a nuclear yield) run two to three Stages above what Glory's A-Grade ceiling supports. Rather than invent a higher Stage the card never states, **the mismatch is kept as the character**: his **Aether Class is Class V, Radiant** — the Band-B Shell correlate for Stage VIII, not Stage VI — meaning his Shell already conducts at a pressure his Temperance has not finished learning to hold. That gap is what "14 permanent fracture lines" and "can briefly overstep toward Titanic SSS at suicidal cost" describe mechanically: **forced advancement past a Threshold gate**, which is not impossible but generates exponentially worsening Crystal Fracture Events until the stat collapses or the gate is passed through crisis. His sustained output is written at Stage VI's real ceiling; the nuke-adjacent feats are written as a one-time forced-Threshold crisis, not his baseline. **The Fractured Era**, per the Errata to the Received Registers, has no corrected term and is not attested in any sealed chronology; converted to **the Withering Era**, the setting's current era. **Valmir** (Titan of the Crevice, Entropy/Collapse/Threshold), **Oneirion, Monolithion, Fractura, Pyraeon** and **Eidolyn** are all verified current Wellsprings and needed no correction. **Ashen Vale**, **Tol-Varath**, **Elshaen**, and **Kaetra's dream-law fusing into him** are card-specific; Kaetra herself is verified canon (Archon X, Dream). **The Siege of Four Suns** is verified current canon — an Ironblood Orc "world memory scar," mass blood-sacrifice that stalled the Second Shattering — and fits a half-Orc father's death cleanly.
 
 ---
 

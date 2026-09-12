@@ -4,11 +4,25 @@ notion_id: "3d958200-eb22-81e3-b3ae-e9f0948ddd78"
 notion_url: "https://app.notion.com/p/Seikai-Hana-no-Kurai-The-Ashen-Paragon-3d958200eb2281e3b3aee9f0948ddd78"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:14:00.000Z"
+last_edited: "2026-09-12T17:06:00.000Z"
 verification: "unverified"
 ---
 
 # Seikai Hana-no-Kurai · The Ashen Paragon
+
+## Seikai Hana-no-Kurai · The Ashen Paragon
+
+> *"I already paid. I paid everything. Stop asking me to pay again."*
+
+---
+
+### I · Identity
+
+**Name** · Seikai Hana-no-Kurai. **Called** · The Ashen Paragon. **Also** · Hana-no-Kurai · The Null-Mourner. **Epithet** · She Who Buries Her Grief in Other People's Safety.
+**Role** · **Frontier Protector. Awakening Seikai Scion. Reluctant Bearer of a Right of Claim she does not know she carries.**
+**Gloss rights** · **Never.** Nobody explains what she is to her face. She would refuse the explanation if they tried.
+
+#### Affiliation
 
 Unaffiliated. Formerly under protection contracts along the frontier; no standing structure remains.
 > **Catalyst Event · Stage III, Ascension.** Not triumphant. The morning she understood her power was working correctly was also the morning it had already cost her the thing it was supposed to protect.

@@ -4,13 +4,15 @@ notion_id: "3d958200-eb22-8148-8bce-f6ee6755cd0b"
 notion_url: "https://app.notion.com/p/Azran-Nemeir-The-Gilded-Draft-3d958200eb2281488bcef6ee6755cd0b"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:14:00.000Z"
+last_edited: "2026-09-12T17:16:00.000Z"
 verification: "unverified"
 ---
 
 # Azran Nemeir · The Gilded Draft
 
 ## Azran Nemeir · The Gilded Draft
+
+> *"Power that can't explain its reason doesn't deserve its reach."*
 
 ---
 

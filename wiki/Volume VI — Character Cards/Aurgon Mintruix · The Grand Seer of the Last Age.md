@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fd-bb67-d8007cb2fc2d"
 notion_url: "https://app.notion.com/p/Aurgon-Mintruix-The-Grand-Seer-of-the-Last-Age-3d958200eb2281fdbb67d8007cb2fc2d"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:14:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Aurgon Mintruix · The Grand Seer of the Last Age
 
 > *"Ask your question again. I will answer the layer you meant, not the layer you asked."*
-> **Migrated with all content preserved, including the Chain of Witness and all four non-combat abilities.** *"Age: Approximately 246,789 years"* is an Age-count figure (he is dated against the historical First Eon, not a mythic Epoch), and per the Errata to the Received Registers every pre-Concordance figure above roughly two thousand derives from the same forty-fold stratigraphic error and is withdrawn. Dividing by forty still leaves a number larger than the entire attested Age count (Year −1,400 to the present, roughly 2,100 years). **The conservative, table-consistent reading is that he has stood since the closing of the First Eon, Year −900 — roughly 1,600 years to the present Withering Era** — and that is the number this sheet uses. *"Late Harmonial Age"* as his era of birth is retained without correction; the Harmonial Age is live current canon, distinct from the Age count, and needs no conversion. **"Temperance Stage: beyond Stage XIV, arrested"** is retained as Stage XIV, Zenith, with his further ascent structurally blocked by the Chain of Witness rather than by any natural ceiling. **"Aether Class: Triune Archivist"** is not among the seven; **he is Class IV, the Luminous** — the lucid Shell with no single Crystal-Tier correlate, most often a Spirit-Path Shell that clarified faster than Core or Layer, and Wellsprings answering him with minimal prompting is that class's defining behaviour, not a separate gift. **Anamnesis, Ascensio,** and **Judicium** are all verified current Wellsprings; the hidden sub-node fusing three different Families (Limina, Vectoria, Fulguria) is unusual and is kept as written, flagged as worth ratifying rather than resolved. **Exilic March, First Eon,** and **the Great Spirit War** are verified current canon. **The Concord precursor order** and **Elven High Paruns** are card-specific and unattested by that exact name; kept as consistent with the Guild Accord's known precursor history. His Pool below is an extrapolation past any directly-attested Stage XIV sheet in the index and is marked as an estimate per the documented Band and Threshold progression rates.
 
 ---
 

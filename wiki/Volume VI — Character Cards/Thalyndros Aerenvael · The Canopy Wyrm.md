@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-a28c-d242281b996d"
 notion_url: "https://app.notion.com/p/Thalyndros-Aerenvael-The-Canopy-Wyrm-3d958200eb2281e9a28cd242281b996d"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:14:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Thalyndros Aerenvael · The Canopy Wyrm
 
 > *"He is not a rider's mount. He is one more limb the forest decided to grow."*
-> **Migrated with all content preserved, including the bond mechanics with Vaelorian.** *"Wheelspring & Aether Profile"* is a misspelling of Wellspring, corrected. Of the stated **Triune Core**, **Verdantia** (Vitalia) and **Ascensio** (Vectoria) are verified current Wellsprings; **"Tempestaris" is not among the Sixty** and is replaced with **Sublimare, the Rising Breath (Vectoria)** — same Family as Ascensio, which gives the pair a same-Family compounding this sheet did not have before and fits a creature built to rise without passing through the states between. **Arboreum Primordis** is card-specific and unattested as a formal Wellspring; kept as the name of the grove-node his network draws from, not as a Sixty entry. **Benediction** is verified current canon (Vitalia). **Florwyn** is verified current canon (the Verdant Weaver, Spiritual Seat Titan); **the Great Spirit Tree, Vaelorian, the Great Elven Dragon, Juna, and the Domain of Everfall** are card-specific and unattested beyond this card and its sibling sheet, kept because Thalyndros cannot make sense without them — he is written throughout as an extension of Vaelorian, not a standalone entry. **Eresse** is verified current canon (the Grand Principality/High Empire). No Aether Class was given on the source card; assigned from Stage and Band below.
 
 ---
 

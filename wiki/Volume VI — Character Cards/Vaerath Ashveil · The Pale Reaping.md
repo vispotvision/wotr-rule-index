@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fe-9309-c328c7beaea4"
 notion_url: "https://app.notion.com/p/Vaerath-Ashveil-The-Pale-Reaping-3d958200eb2281fe9309c328c7beaea4"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Vaerath Ashveil · The Pale Reaping
 
 > *"Auren does not mourn. He waits. I am his impatience."*
-> **Migrated with all content preserved, including both relics and the Skull-Mantle.** *"Mortis Sovereign Aether: The Edict of Severance"* was not an Aether Class; **she is Class V, Resonant Crystal Tier having already given way to a Radiant one — the world-bending Shell, first true Domain, Aether bending toward the bearer.** *"Temperance Stage: Stage VIII, Invocation Herald Tier"* conflates the numeral with the wrong Stage name — **Invocation is Stage IX. The numeral VIII is retained; the name is corrected to Transcendence.** Her Proto-Domain reading as "not yet vast enough to qualify" undershoots what Transcendence normally produces (a first true, stable Domain); kept as written; a Stage VIII practitioner whose Domain lags her Wellspring authority is not a contradiction, it is a diagnosis. **Auren** is verified current canon (Archon XII, Death, *Mortaris*). **Abythron**, given as a Wellspring, does not exist; the actual Sixty entry is **Abython, the Abyssal Pulse (Vectoria)** — Abythron is a Titan's seat (Zar'thuun's), not a current. Re-sourced below. **Orokh Sable-Forge**, who forged her scythe, is verified current canon (Volume IV, the Wyrmwright) and the sourcing is consistent with his own sheet. **Pale Pact**, **Yukizumi Yukari**, and **brandcraft** are verified current canon. **Pale Cistern**, **Thanaris Hollow**, and **Niran's Audit-Scar** are card-specific and unattested beyond this card; kept, since the card cannot make sense without them.
 
 ---
 

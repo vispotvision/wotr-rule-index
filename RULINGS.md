@@ -30,21 +30,52 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — wiki-wide docket sweep, fourth batch
+
+- **Fenriris.** Struck — non-canon, unattested. Xanelor Rafminar's card
+  keeps every mechanical beat of the pact (the relief and what follows
+  it, the Core and Shell presenting under the pact, the sense of
+  something watching through the constructs); the thing he pacted with
+  is now written as unnamed rather than replaced with a new name. Done
+  (commit de1060c, bundled with the Concordant Crystal commit).
+- **Goraku and Daigo Tenryū.** Kin — the card's own recommended reading.
+  The Tenryū are a lineage whose Wellspring inheritance is metabolic
+  conversion (Goraku: brew and blood-fire through the inherited Oni's
+  Pact; Daigo: sweets and rhythm through Sugar Furnace). Degree of
+  relation deliberately left unstated. Being written into both Volume
+  IV cards.
+- **Saekiro Malrake and Jindoku Malrake.** Isaac: "you should delete them
+  they no longer exist," confirmed twice on direct follow-up as the two
+  characters entirely, not just the Sodoku-descent claim. The "WOTR:
+  Chronicles of the Exiles" chapters on Jindoku's card are a legacy
+  Trello volume title the conversion pass had already flagged as
+  unattested; no scene file in the repo carries either brother, so
+  nothing is orphaned. Being executed: both cards, both Notion pages
+  (archived, not hard-deleted), the Volume IV index, Moros Pellayne's
+  "fourth to max Memorium" cross-reference, and Jindoku's converted
+  import file so a future publish run cannot recreate him.
+- **Obrenkael's Aperture branch.** Open to origination — no undisclosed
+  plan. Kwon Hae-ryu, the Yeol-gol seat, the naming-right structure and
+  the proposed generational element *Hae-* stand as written. Being
+  written into the card's §XIII.
+
 ## 2026-09-12, still later — wiki-wide docket sweep, third batch
 
 - **Obsession/Attraction gate.** Yes, Obsession Force satisfies an
   Attraction Path gate the same way clean Attraction Force does. A
   setting-wide rule, not just Sinclair Mercer's sheet — every corrupted
-  practitioner in the setting gets the same treatment. In progress
-  (background agent, also filing this as a standing rule row).
+  practitioner in the setting gets the same treatment. Done:
+  R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE (commit 88e2340); Sinclair
+  Mercer's three gate-contested sub-stats now read "Gate cleared".
 - **Rhyse Calder's Stage.** Stage VII is right; the "S tier"/Band S
   language was aspirational, not mechanical. η corrected from 0.84 (which
   fell in the gap between bands) to 0.80, the top of Band A. Written
   directly into his Volume V card.
 - **The Ossuary Choir's shared Soul Crystal.** Write the mechanism — this
   becomes a real, reusable setting-wide rule for how multiple donors can
-  share one Crystal, not a one-off exception. In progress (background
-  agent, also filing this as a standing rule row).
+  share one Crystal, not a one-off exception. Done: the Concordant
+  Crystal, R26-1-CONCORDANT_CRYSTAL_MECHANISM, written into the Choir's
+  §II (commit de1060c).
 - **Aurelian's EU Reserve.** Confirmed final at 2,400,000,000 — no longer
   flagged as an estimate. Written directly into his Volume I card.
 
@@ -54,15 +85,16 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   the continent, not the quarter. The Kushara/Great-Houses material gets
   its own page named Kushara (already the material's own name for
   itself); "The Old World — The Western Wearing" stays the actual Old
-  World quarter (Eresse, Varūn, Iampu, Altherion). In progress
-  (background agent).
+  World quarter (Eresse, Varūn, Iampu, Altherion). Done — new page wiki/The Bearing and the Holding/Kushara —
+  The Land That Remembers Weight.md (commit c08ce38).
 - **Muken's descent.** Ratified: born in Nalūn to a Kōkan mother taken by
   a lesser noble house. The First King section gets its paragraph; the
   Origin's opening changes from "looked north" to acknowledge he had
-  nowhere else to go. In progress (background agent).
+  nowhere else to go. Done (commit f359ba8).
 - **Kaalabad spelling.** "Kaalabad" wins (matches his own Volume I card
-  title). "Kalaabad" swept to match across 6 locations, including two
-  scene filenames. In progress (background agent).
+  title). "Kalaabad" swept to match across 6 locations, including two scene filenames. Done locally (commit f359ba8); the two Notion-side
+  pages (the Docket, State of Play — Kwon Mu-jin) still wait on the
+  integration being shared with "Information not on WIKI".
 - **Raga's delivery-method question.** Spoken, not poured — nothing in
   his entry ever supported a poured mechanism. Kaalabad destroys the
   construct by killing the voice: interrupting Kwon Mu-jin's naming
@@ -78,15 +110,20 @@ questions flagged directly in page text. Four rulings from the first
 batch of findings:
 
 - **Cymorath vs. Crymorath.** One Wellspring, not two. Crymorath was the
-  typo; Cymorath is canon. Sweep in progress (background agent).
+  typo; Cymorath is canon. Swept across 16 wiki pages (commit b3967b3).
+  Follow-on still open: FOW's Cymorath (Air of Ascent) and the Codex's
+  old Crymorath (frost/stasis) turned out to be two unrelated portfolios
+  under one name; the frost portfolio is what the Arctic Lion sheet and
+  Draven's techniques are built on and is kept, pending a ruling on
+  which portfolio Cymorath actually carries.
 - **Tyzura / Ashura Tyurkia.** Isaac: "Tyurkia are now all Yukari so
   revert them to that." The Tyurkia lineage label is corrected to Yukari
   wherever it appears (9 files: artifacts, character cards, The Spirit
-  Summoning Arts). Sweep in progress (background agent).
+  Summoning Arts). Done (commit 45f89f8).
 - **Stage-naming collisions** (Dominion/Convergence vs. Invocation/
   Realization; a Family misattribution for Psychiken/Mortalis; "Dominion"
   used as a Stage name when it's a stat). Isaac: FOW/Codex names win
-  everywhere, sweep the rest. Sweep in progress (background agent).
+  everywhere, sweep the rest. Done (commit 7173fd9).
 - **Marrowchalk / phosphate-law jurisdiction.** The Holy Sea of Alabaster
   inherits the Holy See of Lurien's old jurisdiction over southern
   phosphate law, along with everything else it replaced.

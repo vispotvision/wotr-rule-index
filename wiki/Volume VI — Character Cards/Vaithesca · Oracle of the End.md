@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f0-820b-c9a03f4018d7"
 notion_url: "https://app.notion.com/p/Vaithesca-Oracle-of-the-End-3d958200eb2281f0820bc9a03f4018d7"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:08:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Vaithesca · Oracle of the End
 
 > *"I do not remember being born. I remember the moment after. I remember all the moments after. They are the same moment."*
-> **Migrated with all content preserved, including the three relics.** *"Aether Class: Void Scribe"* is not among the seven; **she is Class VI, Voidic**, she outputs no Aether, only absorbs it into silence, which is the inverted Shell stated in the card's own words. *"Temperance Stage: 12, Zenith"* conflates numeral and name; **Zenith is Stage XIV, and the numeral is struck.** *"Triune Core: Abython"* is corrected: **Abython is real but is Vectoria's pressure-equalisation law, nothing like oblivion.** The oblivion role is carried by **Nihiloth** instead, which the wiki confirms as the actual Hollow Law, the null field two Wellsprings collapsing to nothing. Penanceflare and Tenebra checked out as given.
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-818d-9818-c93f85469d79"
 notion_url: "https://app.notion.com/p/Gorvan-Aldric-Voss-The-Maw-That-Held-3d958200eb22818d9818c93f85469d79"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Gorvan Aldric Voss · The Maw That Held
 
 > *"The ground holds. I just stand on it longer than you."*
-> **Migrated with all content preserved.** This card already spoke close to current vocabulary — Stage VIII Transcendence, EU/AU-s/η figures — and needed the least conversion of the batch. **"High Dwarf, Varn-line" is corrected to Dawi register: Dwarf — High Dawi (Varūn Descent)**, matching the attested convention (Borin Ironheart's card; High Dwarves claim Varūn's geometry as their governing principle). **"Monlithion" is a misspelling of Monolithion** (Materia, The Enduring Monument) and is corrected; Petralon, Coagulatio, Pyraeon, Mortalis and Materia Primordia were already correct. **"Saturant Vessel (Class III, Geometric-Inertial)" is not among the seven Aether Classes — he is Class III, Resonant** (Band C correlate, the conductor Shell — first Class where stats translate to output at near-full fidelity), which the card's own η 0.88 already sits comfortably inside. **"Iron Accord Warhost"** is unattested as a named body in current canon — the Guild Accord fields a Concord Military, and this reads as a lapsed unit of it — kept as given since the card cannot state his history without it. The eight Primary Stats and their Grades are newly derived from the Stage VIII ceiling and the card's own description; no number here previously existed on the card in that form.
 
 ---
 

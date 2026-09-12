@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8191-a00a-da858bfdced1"
 notion_url: "https://app.notion.com/p/Helki-The-Shepherd-of-Unwilling-Paths-3d958200eb228191a00ada858bfdced1"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:10:00.000Z"
 verification: "unverified"
 ---
 
 # Helki · The Shepherd of Unwilling Paths
 
 ## Helki · The Shepherd of Unwilling Paths
-
-> **Migrated with all content preserved, including Orvain and both relics.** *"Temperance Stage: Stage 7; Dissonance"* conflates two different Stages: **the numeral 7 is correct, but Dissonance is Stage XI.** Stage VII's canonical name is **Refraction**, and it fits her card exactly; "first Domain seed activation, however fragile" is the Stage VII catalyst, and she carries a nascent Domain (**The Unmeasured Field**). **Stage VII is retained; Dissonance is struck.** *"Aether Class: Elegiac"* is not among the seven; her Coherence Band (C) and the maturity of her Domain seed place her at **Class III, Resonant**; "Elegiac" survives as the register her Resonance speaks in, not a separate Class. *"Deep Gaia... resonance"* is struck outright; Gaia is not a Wellspring, Family, or Titan on this world's ledger; and **Florwyn**, the attested Titan of restorative entropy and reincarnation, is retained in its place, which if anything sharpens the cycle-and-offering theme the card already wanted. The old sheet's EU / AU-s / Mach / PJ figures were an unconvertible point-scale; they are retired here in favour of the Primary Stat framework below, with their qualitative sense (permeating, ceremonial-paced, enormous at range) kept as description. Her incident dates ("VE 881," "VE 889") do not correspond to any term in the Errata to the Received Registers; they are kept as her own itinerant record-keeping, unattested against the sealed chronology. Of her three Core Disciplines, **The Offering Walk** is carried forward as the required single Signature; The Last Pasture and Orvain's Call are preserved below only as background mentions.
 
 ---
 

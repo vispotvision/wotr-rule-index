@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-559 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+557 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -508,7 +508,7 @@
 - [Xanelor Rafminar · The Wandering Fang](Volume%20III%20—%20Character%20Cards/Xanelor%20Rafminar%20·%20The%20Wandering%20Fang.md)
 - [Zarron Mahuo · The Arbiter of Unity](Volume%20III%20—%20Character%20Cards/Zarron%20Mahuo%20·%20The%20Arbiter%20of%20Unity.md)
 
-## Volume IV — Character Cards (98)
+## Volume IV — Character Cards (96)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20IV%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aelor Vaelith · The Imperial Pegasus](Volume%20IV%20—%20Character%20Cards/Aelor%20Vaelith%20·%20The%20Imperial%20Pegasus.md)
@@ -544,7 +544,6 @@
 - [Hieronymus Cruciferi · The Immortal](Volume%20IV%20—%20Character%20Cards/Hieronymus%20Cruciferi%20·%20The%20Immortal.md)
 - [Hyo Miran · The Velvet Dealer](Volume%20IV%20—%20Character%20Cards/Hyo%20Miran%20·%20The%20Velvet%20Dealer.md)
 - [Ignatius Sanctus Sanctorum Arsenal · The Archpaladin](Volume%20IV%20—%20Character%20Cards/Ignatius%20Sanctus%20Sanctorum%20Arsenal%20·%20The%20Archpaladin.md)
-- [Jindoku Malrake · He Who Bears the Will of the Titans](Volume%20IV%20—%20Character%20Cards/Jindoku%20Malrake%20·%20He%20Who%20Bears%20the%20Will%20of%20the%20Titans.md)
 - [Juno Petros Marien · Praefect of the Outer Colonies](Volume%20IV%20—%20Character%20Cards/Juno%20Petros%20Marien%20·%20Praefect%20of%20the%20Outer%20Colonies.md)
 - [Kaede Suyori · Blue Moth](Volume%20IV%20—%20Character%20Cards/Kaede%20Suyori%20·%20Blue%20Moth.md)
 - [Kaelen Brighthoof · The Horned Hawk](Volume%20IV%20—%20Character%20Cards/Kaelen%20Brighthoof%20·%20The%20Horned%20Hawk.md)
@@ -576,7 +575,6 @@
 - [Ristra Lenovira · The Hollow](Volume%20IV%20—%20Character%20Cards/Ristra%20Lenovira%20·%20The%20Hollow.md)
 - [Riven Eltamyr Vonnel · The Glaive](Volume%20IV%20—%20Character%20Cards/Riven%20Eltamyr%20Vonnel%20·%20The%20Glaive.md)
 - [Rovhen Talvasciel · The Prettier](Volume%20IV%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Prettier.md)
-- [Saekiro Malrake · The Phantom](Volume%20IV%20—%20Character%20Cards/Saekiro%20Malrake%20·%20The%20Phantom.md)
 - [Sandalphon Aestraen · The Reverent](Volume%20IV%20—%20Character%20Cards/Sandalphon%20Aestraen%20·%20The%20Reverent.md)
 - [Saruin Kye · Golden Laugh](Volume%20IV%20—%20Character%20Cards/Saruin%20Kye%20·%20Golden%20Laugh.md)
 - [Saórén Vyrrakal · The Walking Flame](Volume%20IV%20—%20Character%20Cards/Saórén%20Vyrrakal%20·%20The%20Walking%20Flame.md)

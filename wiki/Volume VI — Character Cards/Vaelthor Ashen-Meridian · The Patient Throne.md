@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813f-ac99-e3e3309a2f2b"
 notion_url: "https://app.notion.com/p/Vaelthor-Ashen-Meridian-The-Patient-Throne-3d958200eb22813fac99e3e3309a2f2b"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:09:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Vaelthor Ashen-Meridian · The Patient Throne
 
 > *"I didn't betray you. I simply waited until you betrayed yourself, and then I wrote it down."*
-> **Migrated with all content preserved, including both relics.** *"Aether Class: Convergent"* is not among the seven; **he is Class V, Radiant**, the world-bending Shell that can stabilise a Domain against collapse and whose output "begins exceeding theoretical maximum," which is the Unseen Chamber and the tri-Wellspring detonation stated in the Class system's own words. *"Temperance Stage: 10, Refraction"* conflates numeral and name; **Refraction is Stage VII. The numeral 10 is kept, and Stage X is Realization.** His ten networked Wellsprings (three Core, seven secondary) are all individually real, checked one by one. **Ten live in one Shell with no true Convergent Class to support them, and that is exactly what his nine documented Crystal fractures are paying for.** *"VE 847" / "VE 891"* is an unattested era marker; converted to **Imperial Year 847 / 891** per the Errata's ruling that only the age's name changes, never the count. The Archon **Irath** checks out exactly as given: Dominion Magic, Command and imposed will.
 
 ---
 

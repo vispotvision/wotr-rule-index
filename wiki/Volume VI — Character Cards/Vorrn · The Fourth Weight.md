@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814d-bf74-f94a402317bb"
 notion_url: "https://app.notion.com/p/Vorrn-The-Fourth-Weight-3d958200eb22814dbf74f94a402317bb"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Vorrn · The Fourth Weight
 
 > *"The others were sent to break things. I was sent to finish the sentence."*
-> **Migrated with all content preserved.** *"Void-Born Abythron Entity, General-Class"* and *"the Void's commander hierarchy"* are not attested as an institution; **wiki confirms Abythron as a place, not a faction:** Zar'thuun's domain within the Abyssal Depths, seat of the Titan of Abythron. Vorrn is converted to an Abythron-construct answering to Zar'thuun's domain directly rather than a numbered "Commander" in an unattested chain. *"Aether Class: Sovereign (Class VI, Abythron-Absolute)"* is not among the seven; **he is Class VI, Voidic**, the inverted Shell that devours and reflects rather than emits, stated in the card's own terms almost exactly. *"Temperance Stage: 11, Zenith"* conflates the numeral with the name; **Zenith is Stage XIV. The numeral is struck, the name kept.** *Abython* (a real Wellspring, Vectoria, pressure equalisation) is disentangled from *Abythron* (the Titan's domain). The source used both as if interchangeable.
 
 ---
 

@@ -29,13 +29,21 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
   Journal: `~/.claude/projects/C--Users-isaac-Documents-wotr-rule-index/0b7e1af7-86b6-43ae-b4ca-7345be58aff1/subagents/workflows/wf_5988bc5a-45d/journal.jsonl`.
 - If the workflow died, resume it: `Workflow({scriptPath: ".../workflows/scripts/wotr-trello-conversion-wf_5988bc5a-45d.js", resumeFromRunId: "wf_5988bc5a-45d"})`
   (completed batches return cached; only unfinished ones re-run).
+- **2026-09-12, later: the Review phase is cut.** Isaac: he'll judge quality
+  himself and it was burning usage for no benefit. The script (same path
+  above) now has a Convert-only pipeline, no reviewer stage; already-cached
+  "convert batch N" calls still replay, so resuming just finishes the
+  remaining batches with no review pass. Don't re-add a review stage unless
+  Isaac asks for one back.
 - **After all 200 exist:** run the resolve pass — a workflow (or a loop of agents,
   ~8 files each) that opens every converted file, replaces every "pending
   Isaac" / "estimate" / "TBD" with a committed value derived from the FOW
   tables in `imports/BRIEFS/common.md` (or the most conservative value
   consistent with the card), and rewrites the migration note to state the
-  choices. Then run `python build/verify.py` over the prose sections is
-  optional; the reviewers already did prose law.
+  choices. Since the review pass is cut, `python build/verify.py` over the
+  prose sections is no longer "just double-checking a reviewer" — it's the
+  only mechanical check these files get before Isaac looks at them himself,
+  so run it and fix what it flags.
 - **Then publish** with `python build/publish_imports.py` (written; it skips
   anything that still matches "pending Isaac" / TBD / estimate / a restriction
   stub, so the resolve pass above must actually land first or nothing new

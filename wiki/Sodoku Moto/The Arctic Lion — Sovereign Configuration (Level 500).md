@@ -4,7 +4,7 @@ notion_id: "3b958200-eb22-81cb-b938-e489672d3a40"
 notion_url: "https://app.notion.com/p/The-Arctic-Lion-Sovereign-Configuration-Level-500-3b958200eb2281cbb938e489672d3a40"
 section: "Sodoku Moto"
 tags: ["Characters", "Reference Table"]
-last_edited: "2026-09-12T05:40:00.000Z"
+last_edited: "2026-09-12T09:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 
 ### Gisei (犠牲) — The Sacrifice Seal
 
-Carved into sternum by Filemu's vā tapuia in her final hours. Lifespan → Hataraki output. **Not activated.** King of Winter approaches threshold. The Gisei does not fail — it activates. The activation IS the failure of the man.
+Carved into sternum by Ayame's vā tapuia in her final hours. Lifespan → Hataraki output. **Not activated.** King of Winter approaches threshold. The Gisei does not fail — it activates. The activation IS the failure of the man.
 
 ### Three-Node Architecture
 

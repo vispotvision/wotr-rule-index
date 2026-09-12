@@ -100,7 +100,7 @@ rules:
     pack_number: null
     section: "I"
     title: The Queen of Kharven is Filemu Agamalu
-    status: live
+    status: superseded
     kind: repeal
     summary: >-
       The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
@@ -110,18 +110,21 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.'"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "15"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (reversal): this rule itself is reversed. The Queen of
+      Kharven is Ayame Yuno, exactly as her own Volume I card has her; the
+      Agamalu identity was the mistake. See RULINGS.md.
 
   - id: R21-2-FILEMU_NAME_CORRECTION
     pack: Canon Amendment, Agamalu and Büri Origin
     pack_number: null
     section: "II"
     title: The Ayame Yuno card carried a wrong name and a wrong bloodline
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       "Ayame" is a Japonic given name that was sitting on a Samoan
@@ -138,11 +141,14 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
+    ratified: "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.' (reverses this row's own 2026-09-12 ratification)"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "19"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (reversal): "Ayame" was not wrong; the Yuno bloodline
+      was not wrong. Her card stands as originally written (Yuno Family,
+      Kagura Branch). See RULINGS.md.
 
   - id: R21-2-FILEMU_FULL_NAMING
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -169,12 +175,16 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet, worldbuilding]
     verification: []
-    ratified: "Isaac, 2026-09-12, Claude Code ruling session: C-002, Filemu drops the Ava-name"
+    ratified: "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.' (supersedes the whole four-slot name, not just the Ava-name)"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "23"
     notes: >-
-      C-002 ruled: the Inner World Naming Amendment's strike of the Agamalu addition reaches Filemu's own Ava-name slot (Le Ie Tuuina Atu). Her card is rewritten without it; the rest of the four-slot name is unaffected by this ruling.
+      C-002 (2026-09-12) had already ruled the Ava-name slot dropped. RULED
+      2026-09-12 (reversal, same day): moot in full — there is no Filemu
+      Agamalu. Her name, house and titles are the Yuno card's own: Zenma no
+      Mamori (Keeper of the Whole Vā) and Okurareta Nishiki (the fine mat
+      that was given away). See RULINGS.md.
 
   - id: R21-3-VAIMOANA_GOVERNANCE
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -318,7 +328,7 @@ rules:
     pack_number: null
     section: "V"
     title: Filemu's voice, proposed as lauga register
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Proposed as lauga register — sentences arrive with the weight of
@@ -335,11 +345,15 @@ rules:
     supersedes: []
     applies_to: [dialogue, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.'"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "110"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (moot): there is no Filemu to have a voice ruling
+      for. Ayame Yuno's voice is whatever her own card and prior scenes
+      already establish; nothing in this proposal carries forward. See
+      RULINGS.md.
 
   - id: R21-5-RESEARCH_DIVISION_PENDING
     pack: Canon Amendment, Agamalu and Büri Origin

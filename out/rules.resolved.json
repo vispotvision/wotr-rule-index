@@ -767,7 +767,7 @@
     "pack_number": null,
     "section": "I",
     "title": "The Queen of Kharven is Filemu Agamalu",
-    "status": "live",
+    "status": "superseded",
     "kind": "repeal",
     "summary": "The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.",
     "verbatim": "The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.",
@@ -779,12 +779,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.'",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "15"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (reversal): this rule itself is reversed. The Queen of Kharven is Ayame Yuno, exactly as her own Volume I card has her; the Agamalu identity was the mistake. See RULINGS.md.",
     "superseded_by": []
   },
   {
@@ -836,12 +836,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: C-002, Filemu drops the Ava-name",
+    "ratified": "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.' (supersedes the whole four-slot name, not just the Ava-name)",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "23"
     },
-    "notes": "C-002 ruled: the Inner World Naming Amendment's strike of the Agamalu addition reaches Filemu's own Ava-name slot (Le Ie Tuuina Atu). Her card is rewritten without it; the rest of the four-slot name is unaffected by this ruling.",
+    "notes": "C-002 (2026-09-12) had already ruled the Ava-name slot dropped. RULED 2026-09-12 (reversal, same day): moot in full — there is no Filemu Agamalu. Her name, house and titles are the Yuno card's own: Zenma no Mamori (Keeper of the Whole Vā) and Okurareta Nishiki (the fine mat that was given away). See RULINGS.md.",
     "superseded_by": [
       "R23-1-POLYNESIAN_REGISTER_STRUCK"
     ]
@@ -852,7 +852,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Ayame Yuno card carried a wrong name and a wrong bloodline",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "\"Ayame\" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.",
     "verbatim": "Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.",
@@ -869,12 +869,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
+    "ratified": "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.' (reverses this row's own 2026-09-12 ratification)",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "19"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (reversal): \"Ayame\" was not wrong; the Yuno bloodline was not wrong. Her card stands as originally written (Yuno Family, Kagura Branch). See RULINGS.md.",
     "superseded_by": []
   },
   {
@@ -980,7 +980,7 @@
     "pack_number": null,
     "section": "V",
     "title": "Filemu's voice, proposed as lauga register",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Proposed as lauga register — sentences arrive with the weight of something already decided, not from volume but because a fono has been trained for centuries to receive that cadence as close to law; she almost never raises her voice or repeats herself, distinguishing her from Muken's iron silences.",
     "verbatim": "Proposed as lauga register: the sentence arrives with the weight of something already decided, not because it is loud but because a fono has been trained for centuries to receive that cadence as close to law.",
@@ -991,12 +991,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: 'Ayame Yuno over Filemu Agamalu we retconned the Agamalu register.'",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "110"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (moot): there is no Filemu to have a voice ruling for. Ayame Yuno's voice is whatever her own card and prior scenes already establish; nothing in this proposal carries forward. See RULINGS.md.",
     "superseded_by": []
   },
   {
@@ -1213,7 +1213,7 @@
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "32"
     },
-    "notes": "This is the key line behind the CONFLICTS.md note on R20-2-AGAMALU_ADDITION_STRUCK and R21-2-FILEMU_FULL_NAMING: it says the Agamalu house's own Polynesian register is untouched by \"the amendment\" (the Büri reversion), but doesn't address whether the Inner World Naming Amendment's later, broader strike of \"the Agamalu addition\" (a different, newer amendment) also reaches Filemu's own naming.",
+    "notes": "This is the key line behind the CONFLICTS.md note on R20-2-AGAMALU_ADDITION_STRUCK and R21-2-FILEMU_FULL_NAMING: it says the Agamalu house's own Polynesian register is untouched by \"the amendment\" (the Büri reversion), but doesn't address whether the Inner World Naming Amendment's later, broader strike of \"the Agamalu addition\" (a different, newer amendment) also reaches Filemu's own naming. RULED 2026-09-12: moot for the Filemu Agamalu clause specifically — Isaac reversed the whole Agamalu identity for Muken's queen (she is Ayame Yuno; see RULINGS.md), so there is no Filemu Agamalu naming left for this row to protect. The Hild Ice / Robin Ice / Tomuka / Ezo / Kuroyuki / Mizuyi clauses are unaffected and still live.",
     "superseded_by": []
   },
   {

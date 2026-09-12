@@ -83,6 +83,11 @@ Moto-side Polynesian naming.
 the Agamalu addition reaches Filemu's own Ava-name; R21-2-FILEMU_FULL_NAMING
 is superseded on that slot by R23-1-POLYNESIAN_REGISTER_STRUCK, and her card
 is to be rewritten without Le Ie Tuuina Atu.
+**Addendum, 2026-09-12 (later the same day):** overtaken by events — Isaac
+reversed the whole Agamalu identity for Muken's queen ("Ayame Yuno over
+Filemu Agamalu, we retconned the Agamalu register"). There is no Filemu
+Agamalu card to drop an Ava-name from; she is Ayame Yuno, whose own card
+never had one. See RULINGS.md.
 
 ---
 
@@ -105,6 +110,39 @@ sheet-explains / prose-withholds split still binds the page, or whether
 Twelve's mechanism-on-the-page regime replaced it wholesale.
 **Recommendation:** none stated by either pack. Reading order (later beats
 earlier) favours Twelve; that is Isaac's rule for reading, not a ruling.
+**Status:** open
+
+---
+
+## C-004 — does the Agamalu homeland survive Filemu's reversal
+
+**Rules:** R21-1-AGAMALU_HOMELAND_RULING vs R21-3-VAIMOANA_GOVERNANCE vs
+R21-3-VAIMOANA_ESSENCE_STABILITY (all still status:live) vs the 2026-09-12
+ruling reversing R21-1-QUEEN_OF_KHARVEN_RULING
+**The clash:** Isaac ruled 2026-09-12 that Muken's queen is Ayame Yuno, not
+Filemu Agamalu — the whole Agamalu identity for her is retconned out (see
+RULINGS.md). But three other rows from the same source document describe
+Vāimoana (renamed Wadatsumi, R21-5-ISLAND_NAME_PENDING) as a place in its
+own right: an archipelago confederation of aiga with no king, the most
+Essence-stable location recorded anywhere, and — the part that no longer
+coheres — "Kharven's marriage to the house is its only formal mainland tie."
+If there is no Agamalu marriage into Kharven, it isn't settled whether
+Vāimoana/Wadatsumi and its Agamalu confederation still exist as
+independent worldbuilding (an island nobody in Kharven has ties to) or
+whether the whole thread — homeland, governance, Essence-stability claim —
+was only ever invented to support the marriage and goes with it.
+**Quotes:** "The Agamalu homeland | Vāimoana, an archipelago in the open
+water between the Old World's northern coast and the Inner World's western
+shield." (R21-1-AGAMALU_HOMELAND_RULING) vs "Not a kingdom. A confederation
+of aiga governed by fono, with no king, no standing army, and no charter
+with the Guild Accord. ... Kharven's marriage to the house is its only
+formal mainland tie." (R21-3-VAIMOANA_GOVERNANCE) vs "Ayame Yuno over
+Filemu Agamalu we retconned the Agamalu register." (Isaac, 2026-09-12)
+**Consequence if unresolved:** a writer cannot tell whether Wadatsumi/the
+Agamalu confederation is still a place that exists in the setting at all,
+or dead worldbuilding along with Filemu.
+**Recommendation:** none stated by either source; this is a downstream
+question the ruling itself didn't reach.
 **Status:** open
 
 ---

@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-399 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+397 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 
@@ -142,7 +142,7 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (51)
+## character-sheet (49)
 
 ### R14-6-CHECK29 [Pack Fourteen §6]
 
@@ -377,18 +377,6 @@ Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excl
 Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
 
 > Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
-
-### R21-1-QUEEN_OF_KHARVEN_RULING [Canon Amendment, Agamalu and Büri Origin I]
-
-The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
-
-> The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
-
-### R21-2-FILEMU_NAME_CORRECTION [Canon Amendment, Agamalu and Büri Origin II]
-
-"Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
-
-> Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.
 
 ### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
 
@@ -2302,7 +2290,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (79)
+## naming (77)
 
 ### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
 
@@ -2447,18 +2435,6 @@ Folded into the cost audit: re-cut every existing technique entry into the §1.3
 The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
 
 > Sātūlagi | Struck from canon. The Malō of Sātūlagi does not exist and never did. The Büri hold one seat and it is Kharven.
-
-### R21-1-QUEEN_OF_KHARVEN_RULING [Canon Amendment, Agamalu and Büri Origin I]
-
-The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
-
-> The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
-
-### R21-2-FILEMU_NAME_CORRECTION [Canon Amendment, Agamalu and Büri Origin II]
-
-"Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
-
-> Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
@@ -4876,7 +4852,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (103)
+## worldbuilding (102)
 
 ### R15-1-RACIAL_VOICE_MENU [Pack Fifteen §1]
 
@@ -5231,12 +5207,6 @@ The Büri origin is the western reach of the Inner World's northern shield, not 
 The Agamalu homeland is Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
 
 > The Agamalu homeland | Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
-
-### R21-1-QUEEN_OF_KHARVEN_RULING [Canon Amendment, Agamalu and Büri Origin I]
-
-The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
-
-> The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
 
 ### R21-3-VAIMOANA_GOVERNANCE [Canon Amendment, Agamalu and Büri Origin III]
 

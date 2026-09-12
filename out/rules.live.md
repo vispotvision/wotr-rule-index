@@ -1,6 +1,6 @@
 # Live rules by domain
 
-399 live of 577 extracted.
+397 live of 577 extracted.
 
 ## adjudication (23)
 
@@ -28,7 +28,7 @@
 - **R2-6-DOMAINS_BREAK_NOT_KILL** [Pack Two Amendment Six.4] A seated Domain corrodes cohesion and the line breaks, with killing happening in the rout; assess a Domain-class technique by Re-form rather than by casualties.
 - **R1-2-COUNTERPLAY_THREE_WAYS** [Pack One Amendment Two] Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
-## character-sheet (51)
+## character-sheet (49)
 
 - **R14-6-CHECK29** [Pack Fourteen §6] The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
 - **R14-7-STAT_LEDGER_CONTENTS** [Pack Fourteen §7] Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
@@ -69,8 +69,6 @@
 - **R1-1-YOKO_ASSIGNED** [Pack One Amendment One] Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS** [Pack One Amendment Three] Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
-- **R21-1-QUEEN_OF_KHARVEN_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
-- **R21-2-FILEMU_NAME_CORRECTION** [Canon Amendment, Agamalu and Büri Origin II] "Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
 - **R23-4-MIXED_PARENTAGE** [Inner World Naming Amendment IV] A character of mixed parentage takes one naming register rather than blending; Hild Ice is the model — a Moto father, a Stark mother, a maternal Northern name carried openly, needing no explanation.
 - **R23-5-OUTLIER_DEFINED** [Inner World Naming Amendment V] A name is an outlier when it fits no stratum (foreign fostering, a mother's whim, a bought name, an insult or shield name); Bram is the standing example and needs no justification on the page.
 - **R23-5-OUTLIER_BUDGET** [Inner World Naming Amendment V] Roughly one outlier in eight named characters, each with a reason that exists in the workbook whether or not it reaches prose; above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
@@ -412,7 +410,7 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## naming (79)
+## naming (77)
 
 - **R14-5-CANONICAL_TERMS** [Pack Fourteen §5] The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
 - **R14-5-NEAR_MISS_FAIL** [Pack Fourteen §5] A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.
@@ -438,8 +436,6 @@
 - **R8-3-WORKED_EXAMPLES_PENDING** [Pack Eight 3] Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
 - **R8-4-RETROACTIVE_TASKS** [Pack Eight 4] Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
 - **R21-1-SATULAGI_STRUCK** [Canon Amendment, Agamalu and Büri Origin I] The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
-- **R21-1-QUEEN_OF_KHARVEN_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
-- **R21-2-FILEMU_NAME_CORRECTION** [Canon Amendment, Agamalu and Büri Origin II] "Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
 - **R23-1-POLYNESIAN_REGISTER_STRUCK** [Inner World Naming Amendment I] Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
 - **R23-2-KOREAN_STRATUM** [Inner World Naming Amendment II] Lineage name first, a two-syllable given name carrying a generational syllable shared across a cohort, plus a hollow-seat subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).
 - **R23-2-JAPONIC_STRATUM** [Inner World Naming Amendment II] Full life-stage slots, name-taboo on the living, compound topographic surnames, renaming at promotion or vow or change of allegiance (Sodoku Moto, Ayame Yuno, Niran, Jinmu Yukari).
@@ -865,7 +861,7 @@
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (103)
+## worldbuilding (102)
 
 - **R15-1-RACIAL_VOICE_MENU** [Pack Fifteen §1] The Racial Voice and Dialect Guide and its Amendment stop being enforced; they become a menu of options a writer may reach for, and no scene fails for ignoring them.
 - **R15-1-STANDING_INVENTORY_SURVIVES** [Pack Fifteen §1] The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
@@ -926,7 +922,6 @@
 - **R21-1-SATULAGI_STRUCK** [Canon Amendment, Agamalu and Büri Origin I] The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
 - **R21-1-BURI_ORIGIN_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Büri origin is the western reach of the Inner World's northern shield, not the Old World.
 - **R21-1-AGAMALU_HOMELAND_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Agamalu homeland is Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
-- **R21-1-QUEEN_OF_KHARVEN_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 - **R21-3-VAIMOANA_GOVERNANCE** [Canon Amendment, Agamalu and Büri Origin III] Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.
 - **R21-3-VAIMOANA_ESSENCE_STABILITY** [Canon Amendment, Agamalu and Büri Origin III] Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
 - **R21-4-BURI_LANDLESS_LINES** [Canon Amendment, Agamalu and Büri Origin IV] With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every line's ambition must route through Kharven or through nothing, which is the condition that produced the Tenrai's correction and has not changed since.

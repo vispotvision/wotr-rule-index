@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-100 outstanding.
+99 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -13,12 +13,6 @@
 *Naming Guide Amendment Colophon, blocks: naming, worldbuilding*
 
 > Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.
-
-## R21-5-FILEMU_VOICE_PENDING — Filemu's voice, proposed as lauga register
-
-*Canon Amendment, Agamalu and Büri Origin V, blocks: dialogue, character-sheet*
-
-> Proposed as lauga register: the sentence arrives with the weight of something already decided, not because it is loud but because a fono has been trained for centuries to receive that cadence as close to law.
 
 ## R21-5-MATERIAL_CULTURE_PENDING — No Visual Aesthetic Guide pass exists for the bloodline
 

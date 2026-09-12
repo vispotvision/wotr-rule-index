@@ -45,4 +45,10 @@ ID. The rule index is in Notion too, as a private page outside the wiki called *
 GitHub files above, refreshed on every push; read whichever is closer to hand.
 The GitHub mirror is a snapshot; when they disagree, Notion is newer.
 
+**The wotr tools** (a local connector, when present): `load_rules(tags)` is the
+live rule index and beats any synced copy; `check_docket(tags)` lists what is
+still unratified for those tags; `archive_scene(title, markdown)` saves a
+finished scene to GitHub and the Notion Scene Archive in one call;
+`log_ruling(rule_id, ruling)` records a ruling Isaac makes at the table.
+
 Load NATALIE.md, run its session start protocol, then answer Isaac.

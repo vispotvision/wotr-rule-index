@@ -82,6 +82,16 @@ python build/notion_export.py --full     # everything
 python build/notion_export.py --dry-run  # show what would change
 ```
 
+## The MCP server
+
+`build/mcp_server.py` exposes the index to Claude Desktop as a local connector
+named `wotr` (registered in `claude_desktop_config.json`): `load_rules`, `rule`,
+`check_docket`, `list_conflicts`, `archive_scene`, `log_ruling`, `sync_now`.
+`--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP
+Client node (`http://host.docker.internal:8765/mcp` from the n8n container).
+Rulings logged from the table land in `RULINGS.md` and are applied to
+`rules/*.yaml` in the next Claude Code session.
+
 ## What this feeds
 
 `out/rules.resolved.json` is the context source for the drafting pipeline: query

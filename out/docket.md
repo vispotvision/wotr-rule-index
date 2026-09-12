@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-17 outstanding.
+16 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -25,14 +25,6 @@
 *Canon Amendment, Agamalu and Büri Origin V, blocks: worldbuilding*
 
 > The Research Division | What the Agamalu declined to disclose, four times, is unwritten. Best hook on the Vāimoana entry.
-
-## R21-5-SONZAI_PENDING — Sonzai has no Notion card despite a canon Erasure act
-
-*Canon Amendment, Agamalu and Büri Origin V, blocks: character-sheet, worldbuilding*
-
-> Sonzai Büri | No Notion card exists. Canon has him using a partial Erasure during the Veilborne War to nullify a corrupted god's true name, which is an enormous act with no character attached to it. Reference art is in hand.
-
-"Sonzai Büri" is renamed "Sonzai" outright per the Moto Reversion Ledger (R22 §II: "Chuluun Büri → Sonzai, originated name dissolved").
 
 ## R22-9-NOTION_BODIES_OUTSTANDING — Page bodies still read Büri; titles alone are not enough
 

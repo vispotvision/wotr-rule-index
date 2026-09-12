@@ -1085,7 +1085,7 @@
     "pack_number": null,
     "section": "V",
     "title": "Sonzai has no Notion card despite a canon Erasure act",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "No Notion card exists for Sonzai; canon has him using a partial Erasure during the Veilborne War to nullify a corrupted god's true name, an enormous act with no character attached to it yet; reference art is in hand.",
     "verbatim": "Sonzai Büri | No Notion card exists. Canon has him using a partial Erasure during the Veilborne War to nullify a corrupted god's true name, which is an enormous act with no character attached to it. Reference art is in hand.",
@@ -1096,12 +1096,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: not building it -- Sonzai isn't Isaac's character",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "113"
     },
-    "notes": "\"Sonzai Büri\" is renamed \"Sonzai\" outright per the Moto Reversion Ledger (R22 §II: \"Chuluun Büri → Sonzai, originated name dissolved\").",
+    "notes": "\"Sonzai Büri\" is renamed \"Sonzai\" outright per the Moto Reversion Ledger (R22 §II: \"Chuluun Büri → Sonzai, originated name dissolved\"). RULED 2026-09-12: Isaac declined to have a card built now -- \"Sonzai is not my character so I don't need to build him.\" No card gets written by this project; the Erasure feat stands on record with no sheet behind it until whoever owns the character builds one.",
     "superseded_by": []
   },
   {

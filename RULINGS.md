@@ -30,6 +30,21 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, later still — backlog batch: voice guide, Sonzai, material culture, naming
+
+- **Sonzai's card (R21-5-SONZAI_PENDING).** Isaac: "Sonzai is not my character
+  so I don't need to build him." No card gets written by this project.
+- **Racial Voice Guide gaps.** Yes -- draft Fleshshaper Goblin register,
+  Winter Eladrin non-verbal convention, and Celestial Host voice. In
+  progress (background agent).
+- **Moto material culture (R21-5-MATERIAL_CULTURE_PENDING).** Yes -- write
+  the Visual Aesthetic Guide pass for the Moto bloodline (crown-line
+  pattern, beast-face boss, knotwork belt, fur mantle, court-vs-campaign
+  split). In progress (background agent).
+- **Celestial Host naming (R20-2-CELESTIAL_HOST_NAMING).** Yes -- do the
+  naming pass under the proposed function + rank-suffix + Lawbell-name
+  structure. In progress (background agent).
+
 ## 2026-09-12, later still — Pack Five's four Section H items ruled
 
 - **Narration authority (R5-H-NARRATION_AUTHORITY_PENDING).** Isaac: judge

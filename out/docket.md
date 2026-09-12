@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-22 outstanding.
+18 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -119,36 +119,6 @@ Cross-referenced by Pack Five §C.3 as making the psychic-distance-band docket i
 > Docket 18, Zettari forge-culture substrate. No proposal exists. Still the oldest unaddressed gap in the project.
 
 Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET); still open as of this pack too.
-
-## R5-H-CULTURE_REGISTERS_TIMING_PENDING — Build per-culture narration registers now or defer
-
-*Pack Five H, blocks: register, pov*
-
-> Per-culture narration registers (Sec. C.3): build out now, or defer until a POV in each culture actually exists? Moto register is needed either way for the current arc.
-
-## R5-H-ELEGIAC_MODE_PENDING — Does the elegiac mode become standing craft law
-
-*Pack Five H, blocks: register, worldbuilding*
-
-> Does the elegiac mode get installed as standing craft law (Sec. C.2)? It changes the emotional shape of the Withering permanently.
-
-Left pending rather than closed: Pack Fifteen §4 (live, ratified) later says the elegiac mode "stands," which is why the R5-C2-* rows are marked status:live — but Pack Fifteen never names this docket item by number, so this formal open-ruling entry is not marked resolved on that basis alone.
-
-## R5-H-NARRATION_AUTHORITY_PENDING — Does Martin win on narration authority
-
-*Pack Five H, blocks: pov, register*
-
-> Does Martin win on narration authority (Sec. E)? The proposed answer is yes, with the elevated register quarantined to in-world documents and mythic strata. This is the load-bearing call in the pack.
-
-Left pending rather than closed: Pack Fifteen §4 (live, ratified) later says narration authority "stands," which is why R5-E-MARTIN_WINS_RULING and its siblings are marked status:live — but Pack Fifteen never names this docket item by number, so this formal open-ruling entry is not marked resolved on that basis alone.
-
-## R5-H-RETROACTIVE_PENDING — Does the Kharven arc get a retroactive register pass
-
-*Pack Five H, blocks: register, verification*
-
-> Retroactive application. The eight Kharven prose scenes were written under the manhwa directive. Forward-only, or does the arc get a register pass?
-
-Until ruled, Natalie writes to the proposed answer (yes, Martin wins) and flags any passage where the choice visibly bites (source line 187).
 
 ## R6-13-RETROACTIVE_PENDING — Does a Ladder pass run across the archive
 

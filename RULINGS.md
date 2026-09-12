@@ -30,6 +30,18 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, later still — Pack Five's four Section H items ruled
+
+- **Narration authority (R5-H-NARRATION_AUTHORITY_PENDING).** Isaac: judge
+  it "based on scene, based on what scenes needed." Martin wins (already
+  live via Pack Fifteen); the proposed fixed quarantine (elevated register
+  only in documents/mythic strata) is replaced by a per-scene judgment call.
+- **Elegiac mode (R5-H-ELEGIAC_MODE_PENDING).** Yes, standing craft law.
+- **Per-culture registers (R5-H-CULTURE_REGISTERS_TIMING_PENDING).** Defer
+  until a POV in that culture exists; build on demand, not ahead of need.
+- **Kharven retroactive pass (R5-H-RETROACTIVE_PENDING).** Forward-only; the
+  eight existing scenes stand, no rewrite pass.
+
 ## 2026-09-12, later still — Packs Sixteen through Nineteen ratified wholesale
 
 Isaac: ratify them now, wholesale. All 72 rows across Packs Sixteen, Seventeen,

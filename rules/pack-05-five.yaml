@@ -941,7 +941,7 @@ rules:
     pack_number: 5
     section: "H"
     title: Does Martin win on narration authority
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether Martin wins on narration authority (Section E); the proposed
@@ -955,23 +955,23 @@ rules:
     supersedes: []
     applies_to: [pov, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: judged per scene by what the scene needs, not a fixed quarantine"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "182"
     notes: >-
-      Left pending rather than closed: Pack Fifteen §4 (live, ratified)
-      later says narration authority "stands," which is why
-      R5-E-MARTIN_WINS_RULING and its siblings are marked status:live —
-      but Pack Fifteen never names this docket item by number, so this
-      formal open-ruling entry is not marked resolved on that basis alone.
+      RULED 2026-09-12: Martin wins (already live via Pack Fifteen §4 and
+      R5-E-MARTIN_WINS_RULING). The proposed fixed quarantine (elevated
+      register only in documents and mythic strata) is replaced: whether a
+      given scene gets the elevated register is a per-scene call based on
+      what that scene needs, not a structural rule tied to document type.
 
   - id: R5-H-ELEGIAC_MODE_PENDING
     pack: Pack Five
     pack_number: 5
     section: "H"
     title: Does the elegiac mode become standing craft law
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the elegiac mode (Section C.2) is installed as standing
@@ -984,23 +984,21 @@ rules:
     supersedes: []
     applies_to: [register, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: yes, install it as standing law"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "183"
     notes: >-
-      Left pending rather than closed: Pack Fifteen §4 (live, ratified)
-      later says the elegiac mode "stands," which is why the R5-C2-* rows
-      are marked status:live — but Pack Fifteen never names this docket
-      item by number, so this formal open-ruling entry is not marked
-      resolved on that basis alone.
+      RULED 2026-09-12: yes, standing craft law (already live in practice
+      via Pack Fifteen §4 and the R5-C2-* rows; this closes the formal
+      docket entry on the same basis).
 
   - id: R5-H-CULTURE_REGISTERS_TIMING_PENDING
     pack: Pack Five
     pack_number: 5
     section: "H"
     title: Build per-culture narration registers now or defer
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether per-culture narration registers (Section C.3) are built out
@@ -1014,18 +1012,21 @@ rules:
     supersedes: []
     applies_to: [register, pov]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: defer until a POV in that culture exists"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "184"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: defer. Build a culture's narration register when a
+      POV in that culture actually exists, not ahead of need. The Moto
+      register is already built (needed for the current arc).
 
   - id: R5-H-RETROACTIVE_PENDING
     pack: Pack Five
     pack_number: 5
     section: "H"
     title: Does the Kharven arc get a retroactive register pass
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the eight Kharven prose scenes, written under the manhwa
@@ -1038,11 +1039,11 @@ rules:
     supersedes: []
     applies_to: [register, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: forward-only, no rewrite pass"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "185"
     notes: >-
-      Until ruled, Natalie writes to the proposed answer (yes, Martin wins)
-      and flags any passage where the choice visibly bites (source line
-      187).
+      RULED 2026-09-12: forward-only. The eight existing Kharven scenes
+      stand as written; only new Kharven prose follows the current
+      register. No retroactive pass on the arc.

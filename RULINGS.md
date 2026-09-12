@@ -30,6 +30,24 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — wiki-wide docket sweep, third batch
+
+- **Obsession/Attraction gate.** Yes, Obsession Force satisfies an
+  Attraction Path gate the same way clean Attraction Force does. A
+  setting-wide rule, not just Sinclair Mercer's sheet — every corrupted
+  practitioner in the setting gets the same treatment. In progress
+  (background agent, also filing this as a standing rule row).
+- **Rhyse Calder's Stage.** Stage VII is right; the "S tier"/Band S
+  language was aspirational, not mechanical. η corrected from 0.84 (which
+  fell in the gap between bands) to 0.80, the top of Band A. Written
+  directly into his Volume V card.
+- **The Ossuary Choir's shared Soul Crystal.** Write the mechanism — this
+  becomes a real, reusable setting-wide rule for how multiple donors can
+  share one Crystal, not a one-off exception. In progress (background
+  agent, also filing this as a standing rule row).
+- **Aurelian's EU Reserve.** Confirmed final at 2,400,000,000 — no longer
+  flagged as an estimate. Written directly into his Volume I card.
+
 ## 2026-09-12, still later — wiki-wide docket sweep, second batch
 
 - **The two Old Worlds.** Isaac: adopt the page's own "option two" — rename

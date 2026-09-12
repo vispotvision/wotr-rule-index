@@ -8,7 +8,7 @@ Nothing.
 
 That was the first thing and Corwin Sesk had been turning it over for the length of the descent, which had taken a quarter of an hour and had gone down through architecture that nobody had cut. The corridors smelled of nothing at all. Stone, damp, lamp oil, the mineral cold that every deep place in the world gives off: none of it, anywhere, at any point on the stair. He had worked in cellars and gaols and one abandoned mine and a tannery, and every one of them had told him where he was before his eyes did, and this told him nothing, and after a quarter of an hour of it the inside of his own nose had begun to feel like a fault in his equipment.
 
-His boots made sound. That much worked. Kalaabad's made more, out ahead of him and slightly to the left, the halberd across the left shoulder and the helmet sitting a few degrees off true where a strap had stretched and nobody had shortened it.
+His boots made sound. That much worked. Kaalabad's made more, out ahead of him and slightly to the left, the halberd across the left shoulder and the helmet sitting a few degrees off true where a strap had stretched and nobody had shortened it.
 
 They came out onto the floor of the chamber and Sesk stopped where he was put.
 

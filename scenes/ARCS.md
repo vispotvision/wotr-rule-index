@@ -25,8 +25,8 @@ line and the next sync recompiles.
 - wotr_the_warrior_nurse.md
 - wotr_the_weight_of_a_courier.md
 - sesk_the_report.md
-- kalaabad_the_petition.md
-- kalaabad_star_crusher.md
+- kaalabad_the_petition.md
+- kaalabad_star_crusher.md
 
 ## The Kharven-Seat — Hild Ice, Wren, Charles, Dabney
 - 02_wren_bulwark.md

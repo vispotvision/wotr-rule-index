@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8175-80a4-dffe8ee9f813"
 notion_url: "https://app.notion.com/p/Sir-Rhyse-Calder-The-Tartan-Bastion-3bd58200eb22817580a4dffe8ee9f813"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:39:00.000Z"
+last_edited: "2026-09-12T17:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -15,11 +15,11 @@ verification: "unverified"
 >
 > ***That is five Stages, each with a correct Catalyst, written by someone who understood the ladder.*** **Nothing in it needed adjusting.**
 > **Corrected.** **"Aether Class: Tartan Bulwark Animus"** is not among the eight; **he is Class V, Radiant.** **"Mind Path 25 percent"** — *there are four Paths: Body, Spirit, Attraction, Fate.* **"Aurevane"** is not among the sixty; *Monolithion and Terranova are.* **Re-sourced below.**
-> **The Five Pillars figures do not reconcile.** *The card gives η 0.84, which falls in the gap between Band A at 0.75–0.80 and Band S at 0.85–0.90.*
+> **Ruled 2026-09-12: the eta is corrected to Band A.** *The card's original 0.84 fell in the gap between Band A (0.75–0.80) and Band S (0.85–0.90); reset to* ***0.80****, the top of Band A -- correct for Stage VII.*
 >
-> **More seriously: Band S η belongs to Stage XI–XII practitioners**, and Rhyse is Stage VII. *The card also rates him "S tier" while giving him a Stage that caps at 475.*
+> **Resolved.** The card's 'S tier' framing was aspirational, not mechanical -- Band S belongs to Stage XI–XII, and Rhyse is Stage VII. Corrected to Band A throughout.
 >
-> ***Held as an open ruling.*** **Either the Stage is right and the tier language is aspirational, or Rhyse is considerably higher than VII and the whole sheet moves.** *I have built him at Stage VII — the figure the card states explicitly and correctly — and flagged the rest.*
+> ***Ruled 2026-09-12.*** **The Stage is right; the tier language was aspirational.** *Built at Stage VII, Band A -- the figure the card states explicitly and correctly, with the S-tier phrasing corrected rather than followed.*
 
 ---
 

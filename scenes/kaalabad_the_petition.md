@@ -26,7 +26,7 @@ He was holding onto something else. Something outside the cell and outside the a
 
 The only question left in the whole business was whether they would work out what it was before he decided to leave, and Sesk did not have that answer and had said so, and had gone on speaking past the point where saying so was useful.
 
-Kalaabad had heard enough.
+Kaalabad had heard enough.
 
 ---
 
@@ -44,7 +44,7 @@ It lasted perhaps four seconds and then the floor was a floor again and Sesk got
 
 ---
 
-Kalaabad stood upright and brought the halberd down off his shoulder and set the butt of it on the black stone in front of him with both hands folded over the head, and the sound it made was wrong for the floor.
+Kaalabad stood upright and brought the halberd down off his shoulder and set the butt of it on the black stone in front of him with both hands folded over the head, and the sound it made was wrong for the floor.
 
 He was very large and that was the least of it.
 
@@ -118,17 +118,17 @@ He shifted his grip once on the halberd head.
 
 The petition ended and nothing answered it.
 
-Kalaabad did not appear to expect anything. He stood with the halberd butt on the black floor and his hands folded over the head, patient in the specific manner of a thing that has been made to wait for a very long time in a place where waiting was the entire content of the day, and beside him Sesk stood with his ledger under his arm and did the arithmetic he could not stop doing.
+Kaalabad did not appear to expect anything. He stood with the halberd butt on the black floor and his hands folded over the head, patient in the specific manner of a thing that has been made to wait for a very long time in a place where waiting was the entire content of the day, and beside him Sesk stood with his ledger under his arm and did the arithmetic he could not stop doing.
 
 It was the trade. Twenty-two years of walking into a room and pricing the man in it. What would open him. Where the load sits. What he loves, what he owes, what he is protecting, what he would trade for it.
 
-He ran it on Kalaabad.
+He ran it on Kaalabad.
 
 There was nothing there.
 
 No family that he could see, no faith, no appetite that could be starved, no future being saved for, no name that would shame him, and a body that had been altered past the point where damage was a language it still spoke. Sesk had once broken a man in four hours by threatening a dog. He looked at the halberdier and found no dog anywhere in him, and no shape where a dog had been, and understood that if he were ever handed this one as a contract he would take the fee and walk out of the city that night.
 
-Then he understood something worse and considerably more immediate, which was that Kalaabad had almost certainly run the same arithmetic on him during the four seconds of the floor, and had finished it, and had not found it difficult.
+Then he understood something worse and considerably more immediate, which was that Kaalabad had almost certainly run the same arithmetic on him during the four seconds of the floor, and had finished it, and had not found it difficult.
 
 The grey powder under the far edge of the table had grown again.
 
@@ -138,6 +138,6 @@ That should have been a good morning's work.
 
 He tried to hold onto it and found that it would not stay held, because standing four feet to his left was a thing that had asked, out loud, in front of witnesses, for the entire remainder of three houses, and had asked for it in the tone a foreman uses to request a second cart.
 
-Somewhere far above them the forges took a surge and the whole chamber's air changed pressure for a moment and came back, and neither Kalaabad nor anyone at the table gave any sign of having noticed, and Sesk, who had noticed, filed it with the powder and the smell and the four seconds on the floor, in the growing back part of his mind where he kept the things he had decided not to want to know.
+Somewhere far above them the forges took a surge and the whole chamber's air changed pressure for a moment and came back, and neither Kaalabad nor anyone at the table gave any sign of having noticed, and Sesk, who had noticed, filed it with the powder and the smell and the four seconds on the floor, in the growing back part of his mind where he kept the things he had decided not to want to know.
 
 Corwin Sesk moved his ledger from his left arm to his right, which was a small thing to do with his body and the only thing available, and stood in the quiet beside the halberd and waited to be told what he was.

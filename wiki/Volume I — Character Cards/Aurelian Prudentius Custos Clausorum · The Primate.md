@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-818e-b34c-e3fdd4d16030"
 notion_url: "https://app.notion.com/p/Aurelian-Prudentius-Custos-Clausorum-The-Primate-3b758200eb22818eb34ce3fdd4d16030"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:28:00.000Z"
+last_edited: "2026-09-12T17:03:00.000Z"
 verification: "unverified"
 ---
 
@@ -82,7 +82,7 @@ verification: "unverified"
 
 ### VII. AETHER FLOW
 
-**EU Reserve:** approximately **2,400,000,000**. **Flagged as an estimate.** Fracture of Worlds specifies no EU table by Stage; this figure is extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII. Needs Isaac's confirmation or a Codex ruling
+**EU Reserve:** **2,400,000,000.** Confirmed 2026-09-12. Fracture of Worlds specifies no EU table by Stage; this figure was extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII, and stands as final.
 **AU/s:** enormous ceiling, almost never drawn. **His output profile has no spike and no curve. It is a flat line with one recorded excursion**
 **Recovery:** Fastest on consecrated stone and in any room where a decision has been deferred. **Slowest at the moment a sentence is passed**, and the Measurewrights who take his readings have learned to schedule around executions
 

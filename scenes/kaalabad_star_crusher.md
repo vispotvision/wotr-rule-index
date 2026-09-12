@@ -4,7 +4,7 @@
 
 ---
 
-The walk took eleven paces and covered four thousand leagues, and Kalaabad counted them because counting was the only thing to do in there.
+The walk took eleven paces and covered four thousand leagues, and Kaalabad counted them because counting was the only thing to do in there.
 
 The tunnel had no walls. It had a floor, or something that answered when his boot came down, and it went downward at a grade steep enough that a man would have braced, and he did not brace. On either side there was a thickness that his eyes reported as black and his skin reported as pressure and his ears reported as a sound at the very bottom of hearing, and none of the three reports agreed with the others, and he had stopped requiring them to agree about nine hundred years ago.
 
@@ -26,13 +26,13 @@ Sixty roofs. Slate and split shingle, weathered grey, laid in the untidy organic
 
 The sky cracked.
 
-It went from directly above him, black lines opening across the blue in the pattern that glass takes when it is struck in the centre, and the lines widened, and behind them there was no colour at all. Within four seconds the whole vault over the valley had gone from a bright morning to something that hurt to look up into, and Kalaabad hung at the middle of it with the halberd across his back and the well he had come out of still turning behind his shoulders.
+It went from directly above him, black lines opening across the blue in the pattern that glass takes when it is struck in the centre, and the lines widened, and behind them there was no colour at all. Within four seconds the whole vault over the valley had gone from a bright morning to something that hurt to look up into, and Kaalabad hung at the middle of it with the halberd across his back and the well he had come out of still turning behind his shoulders.
 
 Someone on the road dropped a bucket. He heard it. From that height, with everything else going on, he heard a wooden bucket hit a road, and that told him more about what he had just done to the local air than any instrument would have.
 
 The faces came up.
 
-All of them together, in the manner of a field of sheep, and Kalaabad looked down at four hundred upturned faces and found no pleasure anywhere in himself. Men assumed otherwise about him. They were wrong, and he had stopped correcting it. What he felt was the specific flatness of a workman who has arrived at a job, has seen that the job is smaller than the tools he brought, and now has to do it anyway because the day has been spent getting here.
+All of them together, in the manner of a field of sheep, and Kaalabad looked down at four hundred upturned faces and found no pleasure anywhere in himself. Men assumed otherwise about him. They were wrong, and he had stopped correcting it. What he felt was the specific flatness of a workman who has arrived at a job, has seen that the job is smaller than the tools he brought, and now has to do it anyway because the day has been spent getting here.
 
 *Sixty roofs. I have opened cities. And I am going to do this properly, because the whole point is that it be done properly and be seen to have been done properly, and a thing done carelessly teaches the wrong lesson to everyone who hears about it afterward.*
 
@@ -50,7 +50,7 @@ It came out root-ball and all, a hundred-year pine with eight feet of frozen ear
 
 The typhoon started at the well behind him and worked down.
 
-Kalaabad did not watch that part. The mechanism of it bored him and always had, and he had learned to keep his eyes on the ground and let the sky do what it was told. What he watched was the road. There were people on it and they were doing the four things that people always did in the first thirty seconds, in the same order, in every country he had ever visited: they looked up, they looked at each other, they looked for their children, and then about a third of them made the fatal error of running toward a building.
+Kaalabad did not watch that part. The mechanism of it bored him and always had, and he had learned to keep his eyes on the ground and let the sky do what it was told. What he watched was the road. There were people on it and they were doing the four things that people always did in the first thirty seconds, in the same order, in every country he had ever visited: they looked up, they looked at each other, they looked for their children, and then about a third of them made the fatal error of running toward a building.
 
 Buildings were where things fell.
 
@@ -70,7 +70,7 @@ Purple, and wrong for purple, so dense that it read against the black sky as a c
 
 The seal at his throat closed another fraction.
 
-He had four seconds of gathering and he spent all four, and by the third one his breath had gone down to a thread and the edges of his sight had begun to go grainy, and this was the part nobody had ever seen and nobody was going to. A man drawing that much through a body that had been shut has to hold the shut part open with his own will while it happens, and the shut part fights him, and it fights him harder every decade, and Kalaabad had privately worked out somewhere around the fourth century that there was a number of times he could do this and that the number was finite.
+He had four seconds of gathering and he spent all four, and by the third one his breath had gone down to a thread and the edges of his sight had begun to go grainy, and this was the part nobody had ever seen and nobody was going to. A man drawing that much through a body that had been shut has to hold the shut part open with his own will while it happens, and the shut part fights him, and it fights him harder every decade, and Kaalabad had privately worked out somewhere around the fourth century that there was a number of times he could do this and that the number was finite.
 
 Not today's problem.
 
@@ -86,7 +86,7 @@ There was no arc. It left his hand and arrived, and the four hundred faces on th
 
 And it stopped.
 
-Kalaabad felt that in his forearm, up through the gauntlet and into the shoulder, a hard reversed shock like driving a spike into a joint you thought was open.
+Kaalabad felt that in his forearm, up through the gauntlet and into the shoulder, a hard reversed shock like driving a spike into a joint you thought was open.
 
 Something had come up over Sum-gol.
 
@@ -102,7 +102,7 @@ They came down outside the curve, all of them, a hundred trees and eight thousan
 
 ---
 
-Kalaabad got a breath.
+Kaalabad got a breath.
 
 He hung in a black sky over a valley he had failed to flatten, with his left arm dead to the shoulder and his throat closed to a straw, and he read the working the way a man reads a hand of cards that has just taken a trick he thought was his.
 
@@ -144,4 +144,4 @@ That was the part he would put in front of Kujo if Kujo ever asked, and Kujo wou
 
 *The barrier held. And I have not touched the ground yet.*
 
-Kalaabad reached back over his shoulder and took the haft in his right hand and drew the halberd off his back.
+Kaalabad reached back over his shoulder and took the haft in his right hand and drew the halberd off his back.

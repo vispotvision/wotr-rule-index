@@ -4,7 +4,7 @@ notion_id: "3b358200-eb22-81a0-b5a5-dcb396a01bcf"
 notion_url: "https://app.notion.com/p/Verinus-VII-The-Palatine-3b358200eb2281a0b5a5dcb396a01bcf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:28:00.000Z"
+last_edited: "2026-09-12T18:49:00.000Z"
 verification: "unverified"
 ---
 
@@ -161,6 +161,7 @@ Within the Sounding, a spoken statement acquires literal hydrostatic weight equa
 **Meren** (name only, no surname recorded, status unknown) — Weight: **foundational, unresolved, forty-five years open.** He has never found her. The Holy Sea's abolition doctrine, its enforcement provisions, its treaty position with the Malo of Satulagi and its four-hundred-year quarrel with every polity that trades in persons are all downstream of one afternoon on the harbour steps. **There is an empty chair at every session of the Weighing.** The Curia has stopped asking him to remove it
 **Deacon Ilse Barrow** (living, 60, his First Auditor) — Weight: heavy, adversarial, load-bearing. She has opposed him publicly on the corroboration reform in every session for twelve years and he has extended her appointment every one of those years. **She is the only person in the Court who reliably outweighs him inside his own Domain**, and both of them know that is the entire reason she still has the job
 **Darius, Archpaladin of Sanctum Lux** (living) — Weight: mutual, distant, unspoken. **Two men whose faiths are both measurement and who have never agreed on the second operation.** Darius has refused investiture in the Will of Judger for six years. Verinus accepted his own elevation in three days and has spent nineteen years wondering whether the man who kept refusing was simply better at the arithmetic
+**Aurelian Prudentius Custos Clausorum, Primate of the Grand Church** (living) — Weight: **the dawn Sacrament, and it draws.** Under the Grand Church on the fourteenth day he signed for Aurelian's four and his room in a form the Church cannot strike from a minute, asked for consent, was told no, and entered it. **The bond is anchored on Aurelian's soul by declaration, Fixatio-held, and has no release valve.** Everything the Palatine has done since that hour comes back down that line, and the man at the other end of it was never asked
 **The Parish of Coldwater Steps** — Weight: warm, embarrassing, permanent. They call him Osric. **He has never issued the instruction his predecessors issued**
 
 ---

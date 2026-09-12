@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-818e-b34c-e3fdd4d16030"
 notion_url: "https://app.notion.com/p/Aurelian-Prudentius-Custos-Clausorum-The-Primate-3b758200eb22818eb34ce3fdd4d16030"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:03:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -157,6 +157,7 @@ Aurelian knows this better than any living practitioner and he built his entire 
 
 **Sum-gol and the eleven of his cohort** (all deceased, none by an identifiable act) — Weight: **foundational, unresolved, forty-nine years open.** He is the surviving hyeon of a generation named for being brought into the open. **There is no grave to visit, because attrition does not produce one, and no finding to read, because the instrument returns null.** Everything above this line is downstream of that
 **Darius Ignatius Sanctus Sanctorum, Archpaladin, the Will of Judger** (living) — Weight: heavy, unspoken, structurally interlocked. **Two men holding the same wall from opposite sides.** Darius refuses the seat that would let him decide. Aurelian holds the seat and has never decided. Darius has read the Seventh Objection and has chosen something and told nobody. Aurelian has read it and has chosen to hold. **Each believes the other is the one who is going to move first, and each is arranging his affairs on that belief**
+**Verinus VII, the Palatine** (living, in Utopia) — Weight: **the anchor, and he was never asked.** At dawn on the fourteenth day, under the Grand Church, the Palatine declared the surety his, asked for consent, was told no, and entered it. **Aurelian is the fixed point of that Sacrament, the soul holding Verinus's name at weight, Fixatio-held, entered over his refusal**, and whatever the rite draws from now on it draws partly through him. He has not been told he is load-bearing, and there is no clause by which he could put it down
 **Cozbi Mahuo** (living, Level 500, Stage XIV) — Weight: **unmeasured, and the word is exact.** Same lineage, same hollow-seat, same Wellspring inheritance, same Stage, same Level, opposite conclusion. **Cozbi looked at a family destroyed by no decision and concluded that decisions are the problem. Aurelian looked at the same valley and concluded the instrument is.** They have met once. Neither has ever filed a record of it
 **Epsilon, Grand Archmagus, longest-held Word in the order's history** (deceased) — Weight: inherited, resented, obeyed. Epsilon kept the Objection sealed for most of a very long tenure and left no written reasoning. **Aurelian has spent eleven years looking for the reasoning and has begun to suspect there wasn't one**
 **Lector Ilsabet Krenn**, the Arbitration officer holding his own Threshold case (living, 44) — Weight: adversarial, mutual, extended twice by his own hand. She has recommended his suspension from the seat in nine consecutive annual filings. **He has read all nine and approved her tenure every time**

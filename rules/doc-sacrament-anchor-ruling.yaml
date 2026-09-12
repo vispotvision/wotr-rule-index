@@ -1,0 +1,110 @@
+# Standing ruling, originated: no source document. Isaac ruled directly,
+# 2026-09-12, on a question flagged as an open ruling in the author notes of
+# three Verinus/Aurelian arc scenes (scenes/02_verinus_testament_of_the_
+# sixty_fifth.md "The anchor ... Ruling needed."; scenes/03_verinus_wall_
+# between_the_safeguarded.md "The anchor holds the wall ... the single
+# largest open consequence on the board."; scenes/04_verinus_the_hand_and_
+# the_print.md "The anchor."). The question: what is the dawn Sacrament-bond
+# between Verinus VII and Aurelian anchored on, and is Aurelian's refused
+# consent a defect in it. Isaac ruled: the anchor is Aurelian's soul holding
+# Verinus's name at weight (the Rubric on Transposition's own definition of
+# an anchor, scenes/02 line 13), fixed by declaration inside the rite
+# (scenes/01 lines 145-155: "From this hour the surety is the Palatine's.
+# Your four and your room." / "Do you consent." / "No." / "Entered.";
+# scenes/04 line 37: "a declaration made inside a rite is a fact about the
+# world"). Consent is not the mechanism; the declaration is. Fixatio, "the
+# anchoring law" (wiki/Spellcraft/Transposition.md line 25 names it the
+# rite's secondary harmonisation for Anchor Constructs; Fracture of Worlds
+# V line 81: "What is held by Fixatio stays held"), is the system-vocabulary
+# gloss for why it holds. No release valve: it is not a displaceable
+# affinity bond. R29 continues the standalone-doc id-numeral sequence after
+# R26 (the Shared Soul Crystal Mechanism, filed the same day); R27 and R28
+# are not present in rules/ as of this filing and the bucket number was
+# assigned by the main session. Uses R20/R23's "standalone doc, no pack
+# number" pattern and R4-H1/H2's "originated content, empty source.file"
+# pattern for a row with no backing document at all; the verbatim quotes
+# the resolved scene note the ruling was written into.
+pack: Sacrament Anchor Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+rules:
+
+  - id: R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION
+    pack: Sacrament Anchor Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: A Sacrament or Transposition anchor is a soul holding the celebrant's name at weight, fixed by declaration inside the rite
+    status: live
+    kind: definition
+    summary: >-
+      A Sacrament or Transposition anchor is a soul that holds the
+      celebrant's name at weight, and it is fixed by the celebrant's
+      declaration inside the rite, regardless of whether the anchor
+      consents; the declaration, not consent, is the mechanism, and the
+      bond is held under Fixatio, the anchoring law. It does not lapse
+      when the celebrant leaves the world, the celebrant cannot amend it
+      afterward, and it is not a displaceable affinity bond, so it has no
+      release valve. Transposition.md says nothing about how an anchor
+      bond ends; this rule is silent on ending.
+    verbatim: >-
+      Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding
+      Verinus's name at weight, which is the Rubric's own definition of an
+      anchor, fixed by declaration inside the dawn rite ("Do you consent."
+      / "No." / "Entered."), and consent is not the mechanism, the
+      declaration is. It holds under Fixatio, the anchoring law, with no
+      release valve, because it is not a displaceable affinity bond;
+      taking Aurelian here without asking stands as written.
+    amends:
+      - guide: "The Magic System"
+        locus: "Transposition / Sacrament anchors"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, adjudication]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      General-purpose rule; the Verinus/Aurelian dawn Sacrament (scenes
+      01-05 of the Verinus/Aurelian arc) is the worked example, not the
+      scope. What the text gives: (1) the anchor definition is the Rubric
+      on Transposition as quoted at the threshold of scenes/02 ("The anchor
+      is a soul that holds the celebrant's name at weight and will hold it
+      while he is not in his place. The rite does not care whether the
+      anchor has been asked."); (2) the fixing is the declaration made
+      inside the rite (scenes/01: "From this hour the surety is the
+      Palatine's. Your four and your room." then "Do you consent." / "No."
+      / "Entered."; scenes/04: "the office would not permit the amendment,
+      because the anchor had been declared at the third clause and a
+      declaration made inside a rite is a fact about the world"); (3) the
+      holding law is Fixatio, which wiki/Spellcraft/Transposition.md names
+      as the rite's secondary harmonisation "for the Anchor Constructs the
+      card itself says the rite is dangerous to attempt without", and
+      whose law per Fracture of Worlds V is "What is held by Fixatio stays
+      held". Persistence: the line stays tied when the celebrant leaves
+      the world, becomes the wall of an Entombment, and is taken up with
+      the seal (scenes/03 "It would stay tight."; scenes/04 "The line to
+      Aurelian came up with the hand and stayed tied."). On ending:
+      Transposition.md contains no dissolution or release clause for an
+      anchor bond; its only duration language is that "the rite holds only
+      while the officiant's attention and the coupling both hold", which
+      describes the transposition itself stranding on failure, not the
+      anchor bond releasing, and the scenes narrate the bond surviving the
+      officiant's departure from the world. The rule is therefore silent
+      on ending: nothing in the text ends it, and no ending is invented
+      here. Distinguished from the Wellspring-of-Grace gloss in scenes/01
+      ("a rival bond of higher affinity displaces the existing bond"):
+      that is Benediction's affinity-competition failure mode and does not
+      apply to a Fixatio-held anchor, which is the "not a displaceable
+      affinity bond" clause of the ruling. Flagged, not resolved: Aurelian's
+      Volume I card trait "Nothing Reaches Him In Time" says no working
+      "that requires a completed act to bind can bind him"; this ruling
+      reads the anchor as fixed by the celebrant's declaration, not by any
+      completed act of the anchor's, so the two are consistent on their
+      face, but the card trait was not amended and the reading is recorded
+      here rather than written into the trait. The three scene flags were
+      resolved in place and one Spirit Axes line recording the bond was
+      added to each of Verinus VII's and Aurelian's Volume I cards in
+      Notion, mirrors re-exported.

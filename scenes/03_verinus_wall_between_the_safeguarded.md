@@ -181,7 +181,7 @@ Verinus felt the last of himself go out along the join, and the seam took his sh
 1. *Entombment is struck from the Accord's lawful register* after Nightglass, per your entry. Verinus performs an outlawed rite. Nobody in four worlds is positioned to file it, which is its own problem later.
 2. *Ideh Genesis* set the seal along the join and became the join. Used as your entry gives it, in the Rubric extract. The Accord declining to say which entry is missing is originated.
 3. *The vessel.* Your line binds the vessel to the timeless, and the rite maintains itself out of the celebrant's substance. So Verinus is the wall, a Living Tomb, and the draw does not stop. Your call whether that is death, and my strong recommendation is that it is not, and that it is worse.
-4. *The anchor holds the wall.* The line taken without consent last scene now goes taut into Aurelian in the cellar. Whatever the seal draws forever, it draws partly down that line into a man who does not know he is load-bearing and still believes four people are alive. This is the single largest open consequence on the board.
+4. *The anchor holds the wall.* Ruled 2026-09-12: the line is Fixatio-held, fixed by the declaration made inside the dawn rite over Aurelian's refusal, and it does not lapse or displace when Verinus leaves the world or becomes the wall, so it stays taut and drawing exactly as the prose has it. Aurelian is load-bearing for the seal from this scene on, and nothing in the rite gives him a way to put it down.
 5. *Sodoku Moto* appears in your Entombment entry as a key figure. Left off the page since he is yours to write.
 6. *The unnamed garden boy* is originated and dies off-page. No named NPC is killed. Say the word and I will name who went.
 

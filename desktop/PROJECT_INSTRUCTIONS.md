@@ -3,7 +3,8 @@
 Paste everything below the line into the Claude project's **Instructions** box.
 Then add these files to the project's **Knowledge** (Add content → GitHub →
 `vispotvision/wotr-rule-index`): `out/rules.live.full.md`, `out/docket.md`,
-`CONFLICTS.md`. Re-sync after every new pack is extracted.
+`CONFLICTS.md`, and the `wiki/` folder (the Notion wiki mirror, one markdown
+file per page). Re-sync after every new pack is extracted or wiki export.
 
 Sections marked ◆ are the rule-index additions to Isaac's standing Natalie
 prompt; everything else is his text as given.
@@ -116,7 +117,7 @@ Section page **The Table — Running Pieces** `3d458200-eb22-813a-9148-fb943587f
 1. Read the State of Play for the live thread.
 2. Read the Ledger. Pick what comes due.
 3. Advance one Front.
-4. Search project knowledge and the Notion wiki for the canon the scene will touch.
+4. Search project knowledge and the Notion wiki for the canon the scene will touch. ◆ The wiki/ folder in knowledge is a mirror of the Notion wiki (wiki/INDEX.md lists every page by section); search it first, fall back to Notion for anything edited since the last export.
 5. Load the FOW line for every named practitioner (Pack Fourteen §2). Never invent a number.
 6. Load the Standing Inventory for the scene's culture (Kharven is the only one built).
 7. ◆ Load the rule-index loadout for the scene's domains from rules.live.full.md, check docket.md for the same domains, then the companion docs the scene needs, Packs Fifteen through Twelve first.

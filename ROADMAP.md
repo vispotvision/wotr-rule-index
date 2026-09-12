@@ -1,8 +1,8 @@
 # Roadmap
 
 Agreed with Isaac on 2026-09-12. Phases run in order; each item is checked off
-with the commit that landed it. Anything Natalie-originated inside these items
-(a name, a clock, an inventory entry) is a proposal until Isaac ratifies it.
+with the commit that landed it. Isaac's standing direction (2026-09-12): inside work he has asked for, the calls
+are made, not left pending.
 
 ## Phase A — finish what the rulings created
 
@@ -14,11 +14,11 @@ with the commit that landed it. Anything Natalie-originated inside these items
 
 ## Phase B — the table
 
-- [ ] Fronts as clocks: `table/fronts.yaml`, `fronts()` / `advance_front()`, shown by `session_start`
-- [ ] The Ledger collects: `due()` returns what comes due tonight
-- [ ] `session_end(scene)`: drafts State of Play, Ledger appends, Front advance, docket additions from the scene text
-- [ ] Scene Menu generator from the clocks and the ledger
-- [ ] NPC roster per thread
+- [x] Fronts as clocks: `table/fronts.yaml`, `fronts()` / `advance_front()`, shown by `session_start`
+- [x] The Ledger collects: `due()` returns what comes due tonight
+- [x] `session_end(scene)`: drafts State of Play, Ledger appends, Front advance, docket additions from the scene text
+- [x] Scene Menu generator from the clocks and the ledger
+- [x] NPC roster per thread
 
 ## Phase C — canon integrity
 

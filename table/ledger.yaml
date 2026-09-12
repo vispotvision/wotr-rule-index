@@ -1,0 +1,254 @@
+- id: L001
+  category: the dead
+  who: Hild Ice
+  text: '**Hild Ice**, twelve, in a cistern doorway at the ninth hour. Every clause of the Accord instrument
+    is her and none of it says so.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L002
+  category: the dead
+  who: Muken Moto.
+  text: '**Muken Moto.** No wound. There is no moment to point at, only an outcome, and that is why his
+    son has never been able to put the loss anywhere.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L003
+  category: the dead
+  who: Freya.
+  text: '**Freya.** The room with the drain lifted out and the chair with the arms cut short. Sodoku watched
+    all of it, in order, with no part of it refusable, and recognised a man he had eaten with at his own
+    table.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L004
+  category: the dead
+  who: Seiji Tenrai Moto.
+  text: '**Seiji Tenrai Moto.** Revoked and entered *elar-ama*, held by nobody. Fifty-one minutes, capillary
+    beds outward, conscious for forty-eight of them.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L005
+  category: the dead
+  who: Eleven Tenrai retainers
+  text: '**Eleven Tenrai retainers**, on a knee around the boy, refusing in Common so the child would
+    understand. Killed slowly, with Kurosetsu, without the cold.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L006
+  category: injuries and reserve
+  who: Sodoku Moto
+  text: '**Sodoku Moto:** no full night since the ninth hour, eleven months and standing. Kurosetsu''s
+    remembering costs a vibration (Borin). Standing.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 1
+  status: open
+- id: L007
+  category: injuries and reserve
+  who: Bram Greymane
+  text: '**Bram Greymane:** three fingers, the hip. Walked in from the Stormfold road for the signing
+    and would not sit down.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 1
+  status: open
+- id: L008
+  category: injuries and reserve
+  who: Brida
+  text: '**Brida:** on a stick, eleven days out of the third bowl, four hundred yards uphill in forty
+    minutes.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 1
+  status: open
+- id: L009
+  category: injuries and reserve
+  who: Renard Greymane
+  text: '**Renard Greymane**, 6 Sept: left forearm, the Held Boil''s residue; no burn, grip reduced, duration
+    unknown. Reserve about a third down.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 1
+  status: open
+- id: L010
+  category: injuries and reserve
+  who: Vresk Dokkan of Kaadre-Six
+  text: '**Vresk Dokkan of Kaadre-Six:** eleven days, a fingertip and then all the toes and then other
+    things, entered against names on a roll. Alive. Returned.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 1
+  status: open
+- id: L011
+  category: debts
+  who: ''
+  text: 'Sodoku to Borin: eleven days of forge-work on the crossing, still unpriced.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 2
+  status: open
+- id: L012
+  category: debts
+  who: ''
+  text: 'Kharven to Stannvaard: the grain.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 2
+  status: open
+- id: L013
+  category: debts
+  who: ''
+  text: 'Renard to Brida: an explanation, and a body before morning.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 2
+  status: open
+- id: L014
+  category: debts
+  who: The four hundred and six
+  text: '**The four hundred and six**, under Lambert''s own seal, negotiated by his own office, eleven
+    of them children under twelve, his initial beside the clause on their treatment. Robin Ice stood on
+    the path four seconds, said *aye*, and did it.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 2
+  status: open
+- id: L015
+  category: who knows what
+  who: ''
+  text: Renard knows a dead man said Lambert opened the west postern. Nobody else does.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L016
+  category: who knows what
+  who: ''
+  text: Renard holds a brass token and a sealed packet nobody has read.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L017
+  category: who knows what
+  who: ''
+  text: Tabitha has the question, written and dated, and two refusals.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L018
+  category: who knows what
+  who: ''
+  text: Yoko's four lines exist. The Bench has never been permitted to see them.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L019
+  category: who knows what
+  who: ''
+  text: The refugee count went 4,200 to 3,900 between the first and second count, entered as attrition
+    on the road. Everyone in the Seat knew what it was. Nobody recorded it.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L020
+  category: who knows what
+  who: ''
+  text: Nobody has ever put the two-word challenge form to Ilthára Korvaeth. Aeldros works out in the
+    eleventh year that this was the whole answer.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L021
+  category: reputation
+  who: Sodoku
+  text: '**Sodoku:** cleaned the blade on his own sleeve in front of the column, which no king does. Three
+    depositions notice he never thanked the boy.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L022
+  category: reputation
+  who: Bram
+  text: '**Bram:** did not maim a commander, made a nation invent a word.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L023
+  category: reputation
+  who: Lambert
+  text: '**Lambert:** took the southern reach with a supply schedule and no battle and no scorched-earth
+    order, and cannot be thanked for it in public.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L024
+  category: reputation
+  who: Ilthára Korvaeth
+  text: '**Ilthára Korvaeth:** the Mad Queen, and after the yard the byname has evidence, and the evidence
+    is a ledger rather than raving.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: 3
+  status: open
+- id: L025
+  category: canon conflicts on the ledger (blocking)
+  who: R14-A
+  text: '**R14-A:** Stage names on cards (Ignition, Temper) against source (Murmuring, Flourishing).'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L026
+  category: canon conflicts on the ledger (blocking)
+  who: The Accord circle has no name.
+  text: '**The Accord circle has no name.** Nothing goes into prose until Isaac picks the word.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L027
+  category: canon conflicts on the ledger (blocking)
+  who: The Onawa collision
+  text: '**The Onawa collision:** the wiki''s Onawa Ashkewe, Queen of the Tsohanto, against the session''s
+    Onawa, Empress of Eresse. The proposal on the table is two women, with the Tsohanto silence as Ashkewe''s
+    people reacting to a shared name taken in a yard.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L028
+  category: canon conflicts on the ledger (blocking)
+  who: Did Ilthára say the name.
+  text: '**Did Ilthára say the name.** The hinge was turned and the arc built on the turn. Confirm or
+    flip.'
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: open
+- id: L029
+  category: canon conflicts on the ledger (blocking)
+  who: ''
+  text: R14-F closed. Level 198 at Stage IV is legal; Band II covers 101 to 200, Stage VII gate at exit
+    only.
+  opened: '2026-09-10'
+  opened_session: 0
+  due: null
+  status: collected

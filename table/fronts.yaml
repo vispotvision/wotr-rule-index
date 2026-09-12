@@ -1,0 +1,283 @@
+- id: the-tenrai
+  name: The Tenrai
+  thread: Kharven thread, the year after
+  status: closed
+  want: Seiji revoked and entered *elar-ama*. The eleven retainers killed in front of the boy. Miku Tenrai,
+    fourteen, seated at the Accord table. The Line as a power is finished; what survives is a child with
+    a temporal and a chair.
+  last_move: ''
+  next_move: ''
+  clock:
+  - tick: 1
+    consequence: Closed. Kept for the record; Miku Tenrai's chair is a separate Front if it moves.
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild
+- id: the-keth-gorrum-of-undaar-keth
+  name: The Keth-Gorrum of Undaar-Keth
+  thread: Kharven thread, the year after
+  status: open
+  want: a word for what came back through the gate in a cart, because a returning officer is renamed and
+    there is no provision for declining to.
+  last_move: received Vresk Dokkan alive.
+  next_move: The compound is coined, and the coining is a political act in the Expanse before it is a
+    linguistic one.
+  clock:
+  - tick: 1
+    consequence: The compound is coined, and the coining is a political act in the Expanse before it is
+      a linguistic one.
+  - tick: 2
+    consequence: Vresk Dokkan is addressed by the new name in front of the men who carried the cart, and
+      answers to it.
+  - tick: 3
+    consequence: A second returning officer refuses the name, which the Keth-Gorrum has no provision for,
+      and the refusal has to be entered as something.
+  - tick: 4
+    consequence: The Keth-Gorrum sends the word north to the Accord table as a demand that Kharven use
+      it in its own records; the Accord circle has to rule on a foreign noun.
+  - tick: 5
+    consequence: 'Resolves: the word is either entered in Kharven''s roll or refused in writing, and whichever
+      it is, the Expanse remembers who signed.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: the-accord-circle-unnamed
+  name: The Accord circle, unnamed
+  thread: Kharven thread, the year after
+  status: open
+  want: four constituents with every reason to hate each other each want the instrument read their way.
+  last_move: signed, Sodoku's hand last.
+  next_move: The first test of the refugee clause, by someone who signed it.
+  clock:
+  - tick: 1
+    consequence: The first test of the refugee clause, by someone who signed it.
+  - tick: 2
+    consequence: The reading that test produces is entered, and one constituent discovers the instrument
+      read their way is now the minority reading.
+  - tick: 3
+    consequence: The circle is asked for its name in a document that cannot leave the space blank; the
+      naming becomes the fight.
+  - tick: 4
+    consequence: The second test of the clause arrives from outside the four (a Keth-Gorrum noun, a Stannvaard
+      debt) and the circle has to speak with one voice or admit it has none.
+  - tick: 5
+    consequence: 'Resolves: the circle has a name and a first precedent, or it has split along the reading
+      and the instrument is two documents.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: tabitha-hallenfeld
+  name: Tabitha Hallenfeld
+  thread: Kharven thread, the year after
+  status: open
+  want: Lambert's answer to why the grain was bought in the first week.
+  last_move: asked, dated, refused twice.
+  next_move: She stops asking Lambert and starts asking the factors.
+  clock:
+  - tick: 1
+    consequence: She stops asking Lambert and starts asking the factors.
+  - tick: 2
+    consequence: A factor gives her a date, and the date is a week before the first refugee count.
+  - tick: 3
+    consequence: She puts the dated question in front of Hild rather than Lambert, in writing, with the
+      two refusals attached.
+  - tick: 4
+    consequence: Lambert answers, and the answer is arithmetic rather than a confession, which is worse.
+  - tick: 5
+    consequence: 'Resolves: the grain purchase is entered as foresight or as complicity, and Tabitha''s
+      own name is on whichever it is.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: bram-greymane
+  name: Bram Greymane
+  thread: Kharven thread, the year after
+  status: open
+  want: nobody asks him about Wren's omission from the roll.
+  last_move: walked in from Stormfold for the signing and would not sit.
+  next_move: Somebody asks.
+  clock:
+  - tick: 1
+    consequence: Somebody asks.
+  - tick: 2
+    consequence: Bram answers the wrong question well enough that the asker stops, and Renard notices
+      the substitution.
+  - tick: 3
+    consequence: The roll is read aloud for an unrelated purpose and the omission is a silence in a room
+      that counts silences.
+  - tick: 4
+    consequence: Wren is seen, alive, by someone who has read the roll.
+  - tick: 5
+    consequence: 'Resolves: the omission is corrected in Bram''s hand or in someone else''s, and the difference
+      is what the Greymane name is worth afterward.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: wren-greymane
+  name: Wren Greymane
+  thread: Kharven thread, the year after
+  status: open
+  want: unrecorded since the narrows. Alive, not on the roll, and the omission belongs to his brother
+    rather than to him.
+  last_move: ''
+  next_move: Wren is seen, alive, by someone who has read the roll and says nothing yet.
+  clock:
+  - tick: 1
+    consequence: Wren is seen, alive, by someone who has read the roll and says nothing yet.
+  - tick: 2
+    consequence: Wren learns the omission is his brother's and not the Seat's.
+  - tick: 3
+    consequence: 'Wren makes a choice about being recorded that Bram did not make for him: he presents
+      himself, or he goes further from the narrows.'
+  - tick: 4
+    consequence: 'Resolves: Wren is on a roll somewhere, or he is deliberately on none, and Bram has to
+      live with which.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: the-sunroot-regency-under-ovaeren
+  name: The Sunroot Regency under Ovaeren
+  thread: New World, the Korvaeth War
+  status: open
+  want: to hold a regency that split name from office, the thinnest argument in the record of the war.
+  last_move: voted, and it has held eleven years.
+  next_move: A bad winter, or a regent with no claim discovering he wants one.
+  clock:
+  - tick: 1
+    consequence: A bad winter, or a regent with no claim discovering he wants one.
+  - tick: 2
+    consequence: The Regency has to call something a battle to requisition for the winter, and the record
+      notices the first use of the word.
+  - tick: 3
+    consequence: Ovaeren is asked, in a room with witness-fees, whether name and office are still separable
+      when the office is starving.
+  - tick: 4
+    consequence: A claimant appears with a name the archive can validate, and the thinnest argument in
+      the war is tested by someone with standing.
+  - tick: 5
+    consequence: 'Resolves: the Regency is confirmed as an office without a name, or the name and the
+      office are rejoined in one person, and the war changes shape.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: korrindal-and-the-vessel-road
+  name: Korrindal and the Vessel road
+  thread: New World, the Korvaeth War
+  status: open
+  want: ''
+  last_move: the road opened in four days at two hundred and eleven lives, entered as the Vessel Assize
+    because the Regency has never called anything in this war a battle.
+  next_move: The road is open and now has to be held through a winter by a man who was trained as a jurist.
+  clock:
+  - tick: 1
+    consequence: The road is open and now has to be held through a winter by a man who was trained as
+      a jurist.
+  - tick: 2
+    consequence: The first convoy is lost to weather rather than to the enemy, and the Assize has no clause
+      for weather.
+  - tick: 3
+    consequence: Korrindal requests soldiers and receives a ruling.
+  - tick: 4
+    consequence: The road is contested at its narrowest point by people who were never party to the Assize.
+  - tick: 5
+    consequence: 'Resolves: the road is held, or it closes, and the two hundred and eleven are entered
+      against whichever.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: thela-ess-vaelen
+  name: Thela Ess-Vaelen
+  thread: New World, the Korvaeth War
+  status: open
+  want: unclear even to her, which is the point.
+  last_move: taken alive, named in the field at eleven hundred witness-fees, released.
+  next_move: She holds a validated name usable against Ilthára in any court and has not used it.
+  clock:
+  - tick: 1
+    consequence: She holds a validated name usable against Ilthára in any court and has not used it.
+  - tick: 2
+    consequence: Someone offers to buy the name from her, and the price tells her what it is worth.
+  - tick: 3
+    consequence: She uses the name once, in a small court, for something that is not about Ilthára, to
+      see what happens.
+  - tick: 4
+    consequence: Ilthára learns the name has been spoken in a court and does not know for what.
+  - tick: 5
+    consequence: 'Resolves: the name is used against Ilthára, sold, or surrendered, and Thela finds out
+      what she wanted.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: velthaeir
+  name: Velthaeir
+  thread: New World, the Korvaeth War
+  status: open
+  want: the record legible for four quarters.
+  last_move: entered the finding that started the war.
+  next_move: Asked to read two registers aloud in the same room.
+  clock:
+  - tick: 1
+    consequence: Asked to read two registers aloud in the same room.
+  - tick: 2
+    consequence: The two readings disagree on a name, in front of both parties, and the disagreement is
+      entered.
+  - tick: 3
+    consequence: The archive is asked to rule between the registers and refuses, on the ground that legibility
+      is not judgment.
+  - tick: 4
+    consequence: A party to the war moves against the archive itself, as the only record neither side
+      can win without.
+  - tick: 5
+    consequence: 'Resolves: the archive stands as the common record for four quarters, or it is captured
+      by one side and the war loses its referee.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: the-tsohanto-reach
+  name: The Tsohanto Reach
+  thread: New World, the Korvaeth War
+  status: open
+  want: Silent four years, nobody counting it, no delegation to either party in eleven. Isaac's hook and
+    the proposed resolution of the Onawa collision.
+  last_move: ''
+  next_move: 'A count is taken of the silence: someone in the Regency notices no delegation has come in
+    eleven years and asks why.'
+  clock:
+  - tick: 1
+    consequence: 'A count is taken of the silence: someone in the Regency notices no delegation has come
+      in eleven years and asks why.'
+  - tick: 2
+    consequence: A Tsohanto trader appears in a Regency market with a name the archive validates as Ashkewe's
+      people, and will not say why the Reach has been silent.
+  - tick: 3
+    consequence: The Reach sends a delegation to Ilthára and not to the Regency, and the choice is itself
+      the message.
+  - tick: 4
+    consequence: 'Resolves: the Onawa collision is settled as two women, and the Reach re-enters the war
+      as the party that was insulted in a yard.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+- id: the-thing-nobody-has-done
+  name: The thing nobody has done
+  thread: New World, the Korvaeth War
+  status: open
+  want: The challenge form is two words long and any commoner in any market could say it to her face without
+    breaking a law. In thirty years not one person ever has. Aeldros works this out in the eleventh year.
+  last_move: ''
+  next_move: Aeldros works out that the challenge form is two words long and legal.
+  clock:
+  - tick: 1
+    consequence: Aeldros works out that the challenge form is two words long and legal.
+  - tick: 2
+    consequence: Aeldros tells one person, and the one person is the wrong one.
+  - tick: 3
+    consequence: A commoner is put up to it, or considers it, in a market, and does not.
+  - tick: 4
+    consequence: Someone says the two words to Ilthára's face.
+  - tick: 5
+    consequence: 'Resolves: the challenge is answered, and thirty years of nobody saying it are explained
+      by what happens next.'
+  position: 0
+  last_advanced: null
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction

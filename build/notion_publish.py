@@ -46,6 +46,9 @@ TARGETS = {
     "out/rules.live.full.md": ("rule_index", "Live Rules (resolved)"),
     "out/docket.md": ("rule_index", "Docket (index view)"),
     "CONFLICTS.md": ("rule_index", "Conflicts"),
+    "table/FRONTS.md": ("running_pieces", "Fronts, as clocks"),
+    "table/LEDGER.md": ("running_pieces", "The Ledger, structured"),
+    "table/NPCS.md": ("running_pieces", "NPC roster"),
 }
 SCENE_SKIP = {
     "00_SUPERSEDED_wrong_names.md",       # labels itself superseded
@@ -293,7 +296,7 @@ def main() -> int:
             pid = entry["page_id"]
             print(f"  [{n}/{len(todo)}] updated {rel} ({len(blocks)} blocks)")
         else:
-            parent = {"page_id": SCENE_ARCHIVE_ID if parent_key == "scene_archive" else rule_index_id}
+            parent = {"page_id": {"scene_archive": SCENE_ARCHIVE_ID, "running_pieces": RUNNING_PIECES_ID}.get(parent_key, rule_index_id)}
             pid = create_page(parent, title, blocks)
             print(f"  [{n}/{len(todo)}] created {rel} -> {title} ({len(blocks)} blocks)")
         m[rel] = {"page_id": pid, "title": title, "hash": h}

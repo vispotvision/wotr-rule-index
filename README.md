@@ -101,6 +101,10 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `cast_index()` | writes `scenes/CAST.md` (who appears where) and a `scenes/ARCS.md` reading-order skeleton |
 | `create_character(name, markdown, volume)`, `update_character(name, markdown)` | new or replaced character card in Notion + the mirror, committed and pushed |
 | `convert_character(source, json_path)`, `trello_cards(json_path)` | a conversion brief from old material (a Trello export, an old sheet): source facts, stale names with governing forms, the seventeen-section skeleton, the FOW scale tables, the rules |
+| `fronts(thread)`, `advance_front(id, what, next)`, `set_front_clock`, `add_front` | the Fronts as clocks (`table/fronts.yaml`) |
+| `due(sessions_old)`, `ledger_add`, `ledger_collect` | the Ledger that comes due (`table/ledger.yaml`) |
+| `session_end(thread, scene)` | drafts the session close from the scene text and logs the session |
+| `scene_menu(thread)`, `roster(thread)`, `npc_set(...)` | the Scene Menu; the NPC roster (`table/npcs.yaml`) |
 | `sync_now()` | runs `build/sync.ps1` |
 
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP

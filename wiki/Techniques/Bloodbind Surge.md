@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8147-872c-e7d3e512c5e3"
 notion_url: "https://app.notion.com/p/Bloodbind-Surge-3d958200eb228147872ce7d3e512c5e3"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T17:01:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -22,9 +22,9 @@ verification: "unverified"
 
 ### Codex line
 
-**Wellspring** · Petralon (primary, Vectoria) · Cymorath (secondary, Caloria) — driven through the **Vorynn Bloodbind** Trait, not a Wellspring itself
+**Wellspring** · Petralon (primary, Vectoria) · Vohrin (secondary, Caloria) — driven through the **Vorynn Bloodbind** Trait, not a Wellspring itself
 **Family** · Vectoria / Caloria
-**Physics Domain** · Mechanics (Petralon) · Thermodynamics (Cymorath)
+**Physics Domain** · Mechanics (Petralon) · Thermodynamics (Vohrin)
 **Category** · Mechanica *(judgment call, unverified — see migration note)*
 **Craft** · Magicraft
 **Stage floor** · VI, Glory
@@ -35,7 +35,7 @@ verification: "unverified"
 
 **Trigger** · Draven deliberately tears open the Vorynn Bloodbind, the ancestral pact scarred into his blood.
 **Function** · Buff, high-risk burst, self-target.
-**Mechanism** · The Bloodbind is a standing Trait rather than a Wellspring; tearing it open floods his Aether Shell with raw predatory charge faster than Petralon's kinetic thread can meter it, an uncosted spike rather than a governed draw. Cymorath rides the same spike — his sheet already documents Cymorath and Cinerion compounding along the same Family axis, denser than Ardency alone accounts for — and the surge pulls that compounding effect outward as visible frost on his own scars.
+**Mechanism** · The Bloodbind is a standing Trait rather than a Wellspring; tearing it open floods his Aether Shell with raw predatory charge faster than Petralon's kinetic thread can meter it, an uncosted spike rather than a governed draw. Vohrin rides the same spike — his sheet already documents Vohrin and Cinerion compounding along the same Family axis, denser than Ardency alone accounts for — and the surge pulls that compounding effect outward as visible frost on his own scars.
 **Numerical Effect** · Strike Force triples for the duration, pushing his own A-Grade Ardency baseline (20–100 GN peak, 46 GJ–4 TJ yield, per the FOW Physical Benchmarks table) toward the top of that band or briefly past it, an Overchannel-range spike rather than sustained output.
 **Target Response** · Self only; reflexes sharpen to a predatory register alongside the raw output.
 **Consequence** · Eyes turn glacier-white, frost forms on old scars, a low growl runs under his breath.

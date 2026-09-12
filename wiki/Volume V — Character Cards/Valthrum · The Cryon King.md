@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812b-b35b-cde0ec8d5315"
 notion_url: "https://app.notion.com/p/Valthrum-The-Cryon-King-3d958200eb22812bb35bcde0ec8d5315"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:00:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -40,7 +40,7 @@ verification: "unverified"
 
 ### III · Wellspring Harmonizations
 
-**Cymorath** · Fulguria. The current, attested spelling of the ice law the old sheet called Cryon. Snap-freezes moisture into armor and weaponry on contact.
+**Vohrin** · Caloria. The ice law the old sheet called Cryon, keyed to the Abyssal Depths Titan rather than to any of the Sixty. Snap-freezes moisture into armor and weaponry on contact.
 **Nihiloth** · Limina. The Hollow Law. Entropy proper, the source of the "Magic Dead Zone" risk if his control slips and the Aether itself freezes.
 **Fractura** · Vectoria. The Breaking Point. What a target takes if the ice around it is broken rather than waited out.
 
@@ -111,4 +111,4 @@ verification: "unverified"
 ### X · Chapter Appearances
 
 *None recorded on the source card.* Currently **Dormant** in the Northern Waste, awaiting what he calls the Signal of Entropy. This migration is his first indexed appearance.
-> **Codex** · Fulguria / Electromagnetism / Cymorath primary / Stage XIII.
+> **Codex** · Caloria / Thermodynamics / Vohrin primary / Stage XIII.

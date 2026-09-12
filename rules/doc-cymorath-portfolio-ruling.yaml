@@ -1,0 +1,101 @@
+# Standing ruling, originated: no source document. Isaac ruled directly,
+# 2026-09-12, on a question flagged as an open ruling on the Haelvorn ·
+# Housecat entry (wiki/Summoned and Bound/Haelvorn · Housecat.md, Section
+# XIII: "Needs a second ruling: which portfolio Cymorath actually carries,
+# or whether the wiki's frost usage should be re-drafted under a different
+# Wellspring entirely."). The 2026-09-12 Crymorath -> Cymorath spelling
+# sweep (commit b3967b3) left one name carrying two unrelated portfolios:
+# the Air of Ascent that Fracture of Worlds gives it, and the frost/stasis
+# mechanics the struck Codex entry's two glyphs ([FrTh] FrostThrone, [ObsG]
+# Obsidian-Glacier) had seeded across Draven Kael Vorrick's techniques,
+# Sodoku Moto's Arctic Lion sheet, the Material Ledger and the Abyssal
+# Depths Titan entry. Isaac ruled: Cymorath is the Air of Ascent exactly as
+# FOW gives it (Fulguria; freedom, motion; Dexterity Celerity, Gnosis
+# Cartography/Perception), and the frost portfolio is re-homed on Vohrin,
+# the Abyssal Depths Titan that FOW III already names as the
+# thermal-extraction signature, Family Caloria, Physics Domain
+# Thermodynamics, Titan-keyed. R27 is the next free id-numeral bucket
+# (R25, R26, R28 and R29 are taken by sibling rulings of the same day);
+# unrelated to any of them and simply continues the numbering. Uses
+# R25-1's "standalone doc, no pack number, empty source.file" pattern for a
+# row with no backing document at all.
+pack: Cymorath Portfolio Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+rules:
+
+  - id: R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN
+    pack: Cymorath Portfolio Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: Cymorath is the Air of Ascent; frost and stasis are Vohrin, Caloria, Thermodynamics
+    status: live
+    kind: definition
+    summary: >-
+      Cymorath carries exactly the portfolio Fracture of Worlds gives it:
+      the Air of Ascent, Family Fulguria, freedom and motion, strengthening
+      Dexterity Celerity and Gnosis Cartography/Perception. It is not a
+      frost Wellspring. Every frost, cold or stasis working the wiki had
+      been drafting as Cymorath is keyed instead to Vohrin, the Abyssal
+      Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the
+      FOW III reading that cold is heat run backward. There is no
+      dedicated frost Wellspring. Codex lines, Wellspring harmonisation
+      rows and Material Ledger resonance columns that name a cold law
+      write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage
+      is Fulguria.
+    verbatim: >-
+      re-homed on Vohrin, the Abyssal Depths Titan that FOW III already
+      names as the thermal-extraction signature: Family Caloria, Physics
+      Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent
+      exactly as Fracture of Worlds gives it, freedom and motion, Dexterity
+      Celerity and Gnosis Cartography and Perception, and nothing else.
+      Nothing on the FOW canon pages changes. This entry drafted its own
+      cold out of Caloria and touched neither, and the ruling says that was
+      the right shape: there is no dedicated frost Wellspring, cold is heat
+      run backward, and the pages that had been calling it Cymorath now
+      call it Vohrin.
+    amends:
+      - guide: "The Magic System"
+        locus: "Cymorath / Vohrin"
+        operation: extends
+    supersedes: []
+    applies_to: [magic-mechanism, magic-design, codex]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Raised as an open ruling on wiki/Summoned and Bound/Haelvorn ·
+      Housecat.md (Section XIII), whose blockquote recorded the spelling
+      ruling and flagged the portfolio clash it exposed. Isaac ruled the
+      same day; the blockquote was rewritten in Notion to a resolved
+      statement (the verbatim above is quoted from it) and the mirror
+      re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion,
+      mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt,
+      Coldblood Concentrate); The Arctic Lion — Sovereign Configuration
+      (header, Aethersteel, Frost Array, Glacium, three-node architecture
+      and every frost technique's Codex line); Bloodbind Surge; Hunter's
+      Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter
+      Rend; The Old World — The Western Wearing (Glacium); The Abyssal
+      Depths (The Stillwater Rite's Codex); The Alchemical Index
+      (Stasisline Needles, Stillwater Draught); The Material Index T5–T9
+      (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof,
+      Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as
+      Cymorath because the usage is motion, vector-field, wind or
+      vibration reading rather than cold: the FOW V and Fulguria canon
+      pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettai,
+      Mizuki Moto (vibration through frost mist, not the frost itself),
+      Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn
+      Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts,
+      Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear,
+      Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the
+      Making of the God Hand, and the Niran scenes. Judgment calls: the
+      Arctic Lion sheet's Fulguria-match row now states that the Family
+      match runs through the Judicium substrate and the frost layer is
+      Caloria; whether a Caloria layer inside a Fulguria structure carries
+      a §14 stress figure the way the Ruins layer does is not ruled and was
+      not invented. Stasisline Needles (rate arrest, no frost) was read as
+      stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's
+      Identity line already routed frost through Vohrin and were the model.

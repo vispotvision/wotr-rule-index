@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8193-9242-cd94b565e886"
 notion_url: "https://app.notion.com/p/Vaelthyr-Iscarn-Laughing-Horn-3bd58200eb2281939242cd94b565e886"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:03:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 > *"A serpent does not rush to bite. It waits. It smiles. And by the time you notice the cold, the venom has already set in."*
 > **Invented Stage name.** The card reads **"Stage VIII (Crown)."** *Crown is not among the sixteen; Stage VIII is Transcendence.* Numeral stands.
 >
-> *"Frost / Charm / Bloodflame"* were not Essence types. **Epphrenean** is among the nineteen orphaned realm entries pending keep-or-strike.
+> *"Frost / Charm / Bloodflame"* were not Essence types. **Epprenea** — a real place, ruled 2026-09-12: Outer World, the Southern Pan; the spelling *Epprenea* (adjective *Epprenean*) wins.
 
 ---
 
@@ -24,7 +24,7 @@ verification: "unverified"
 
 ### Affiliation
 
-**The Pale Court of Epphrenean Kingdom** — *a devil-blood dynasty seated in the Outer World's frost-sheathed fjord realms.* **Envoy to the Guild Accord under the Arbitration Division's high-risk delegation roster** — *though his loyalty is, in the card's own words, debatable.*
+**The Pale Court of Epprenean Kingdom** — *a devil-blood dynasty seated in the Outer World's frost-sheathed fjord realms.* **Envoy to the Guild Accord under the Arbitration Division's high-risk delegation roster** — *though his loyalty is, in the card's own words, debatable.*
 > **Catalyst Event · Stage VIII, Transcendence.** *A thing keeps its weight and gains a second weight, and both are operative, and the practitioner must keep functioning while holding both.*
 >
 > **A smile is a smile and is also a working.** *Devil's Smile fuses glamour into his expressions — there is no version of his face that is not also a technique, and he has to live behind it permanently.*
@@ -41,7 +41,7 @@ verification: "unverified"
 
 ## III · Wellspring Harmonizations
 
-**Cymorath** · Caloria. **The cold law** — *heat's absence held as a discipline.* **Winterborn Cruelty, and the razor-thin edges.**
+**Vohrin** · Caloria. **The cold law** — *heat's absence held as a discipline.* **Winterborn Cruelty, and the razor-thin edges.**
 **Mirithane** · Limina. **Specular reflection — a true mirror adds nothing.** *The Devil's Smile makes his amusement infectious or unsettling depending on intent, because a faithful mirror returns exactly what was sent.*
 > *Failure: the mirror does not discriminate. A practitioner in a state they would rather not broadcast broadcasts it perfectly — which for a diplomat whose loyalty is debatable is the single most dangerous line on this sheet.*
 **Nyxial** · Limina. **Thermal inertia under negative feedback** — *a baseline that does not rise in favourable conditions and does not fall in hostile ones.* **"It waits" is a regulated setpoint, not patience.**
@@ -94,7 +94,7 @@ verification: "unverified"
 
 ### The Frozen Serpent's Coil
 
-**Effect** · A Wellspring buried beneath the ice labyrinths of Epphren **that teaches manipulation through stillness — striking when opponents are lulled into complacency.**
+**Effect** · A Wellspring buried beneath the ice labyrinths of Epprenea **that teaches manipulation through stillness — striking when opponents are lulled into complacency.**
 **Cost** · **Mirithane broadcasts.** *He is a man of debatable loyalty running a current that returns his state undistorted to anyone equipped to read it.*
 **Limit** · **He must be underestimated.**
 **Counter** · **Take him seriously immediately, and press.** *Vitality 190.*
@@ -112,5 +112,5 @@ verification: "unverified"
 
 ## IX · Chapter Appearances
 
-**First appearance** · *Chapter XVIII — Frost Under Velvet.* **Major arcs** · *The Epphrenean Bargain* (Ch. XVIII–XIX) · *The Hollow Summit* (Ch. XX) · *Ash and Frost Conspiracy* (Ch. XXIII).
-> **Codex** · Caloria / Thermodynamics / Cymorath primary / Stage VIII.
+**First appearance** · *Chapter XVIII — Frost Under Velvet.* **Major arcs** · *The Epprenean Bargain* (Ch. XVIII–XIX) · *The Hollow Summit* (Ch. XX) · *Ash and Frost Conspiracy* (Ch. XXIII).
+> **Codex** · Caloria / Thermodynamics / Vohrin primary / Stage VIII.

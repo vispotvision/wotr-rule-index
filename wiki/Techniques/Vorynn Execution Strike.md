@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81dd-9534-ef3bad726248"
 notion_url: "https://app.notion.com/p/Vorynn-Execution-Strike-3d958200eb2281dd9534ef3bad726248"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T17:00:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,16 +19,16 @@ verification: "unverified"
 **Effect** · The strike does not need to be hard to be final. Contact alone collapses the target's momentum on the spot. Muscle chains lock, kinetic defence goes rigid, and the follow-through does the rest.
 **Cost** · **Every use tears fibre along the ignition path.** *Chained further, the tear compounds; his own count puts the Essence toll near a fifth of what he is carrying per use.*
 **Limit** · **Requires Bloodbind ignition.** *Without the blood already burning, there is no vector to compress and no strike to throw.*
-**Counter** · **Reintroduce heat faster than Cymorath can pull it.** *A Pyreveil or Exuroth ward breaks the lock the same way flame breaks Vohrin's own Stillwater Rite, by forcing thermal flux back into a field built to hold none.*
+**Counter** · **Reintroduce heat faster than Vohrin can pull it.** *A Pyreveil or Exuroth ward breaks the lock the same way flame breaks Vohrin's own Stillwater Rite, by forcing thermal flux back into a field built to hold none.*
 > **What nobody knows.** Whether the freeze fails first at the joint or first at the Crystal. Draven has never let it run long enough on himself to find out, and nobody has caught him at it on someone who could tell him afterward.
 
 ---
 
 ### Codex line
 
-**Wellspring** · Cymorath (primary) · Tenebra (secondary, ambush) · Cinerion (secondary, remnants)
-**Family** · Caloria (Cymorath, Cinerion) · Limina (Tenebra)
-**Physics Domain** · Thermodynamics (Cymorath, Cinerion) · Abstract/Entropic Systems (Tenebra)
+**Wellspring** · Vohrin (primary) · Tenebra (secondary, ambush) · Cinerion (secondary, remnants)
+**Family** · Caloria (Vohrin, Cinerion) · Limina (Tenebra)
+**Physics Domain** · Thermodynamics (Vohrin, Cinerion) · Abstract/Entropic Systems (Tenebra)
 **Category** · Vectra
 **Craft** · Spellcraft (Bodily: the fist carries the working, and it stops the instant his attention lapses)
 **Stage floor** · Stage VI, Glory
@@ -41,7 +41,7 @@ verification: "unverified"
 
 **Trigger** · Bloodbind ignition already running, closing to contact under Tenebra's signal-reduction cover.
 **Function** · Offense / Kinetic Collapse. A single compressed strike that stops the target's momentum rather than merely damaging the target carrying it.
-**Mechanism** · Cymorath's law is heat's absence held as discipline rather than suffered as a condition. The cold is not summoned; it is a controlled, directional heat-sink running through Draven's own ignited musculature. At the instant of contact, that sink pulls thermal energy out of the target's tissue far faster than the tissue's own conduction can redistribute it, and the same ice-lattice-through-tissue mechanism already documented for Cymorath elsewhere in current canon, ordered crystallisation blocking Essence pathways at the wound, locks the local muscle chains and the Essence trying to move through them in the same instant. Cinerion compounds the effect same-Family, densifying the cold past what Cymorath alone would produce.
+**Mechanism** · Vohrin's law is heat's absence held as discipline rather than suffered as a condition. The cold is not summoned; it is a controlled, directional heat-sink running through Draven's own ignited musculature. At the instant of contact, that sink pulls thermal energy out of the target's tissue far faster than the tissue's own conduction can redistribute it, and the same ice-lattice-through-tissue mechanism already documented for Vohrin elsewhere in current canon, ordered crystallisation blocking Essence pathways at the wound, locks the local muscle chains and the Essence trying to move through them in the same instant. Cinerion compounds the effect same-Family, densifying the cold past what Vohrin alone would produce.
 **Numerical Effect** · Strike Force is Draven's own attested Ardency 320, A-Grade: 20 to 100 GN peak, 46 GJ to 4.184 TJ yield, city-block scale, with this technique run near the top of that sustainable range rather than an Overchannel spike. The freeze itself holds for 1 to 2 seconds, kept from the card as given.
 **Target Response** · Kinetic defences seize rigid rather than absorbing or redirecting the blow; a non-practitioner shows frost on the wound, a practitioner's Essence pathway crystallises at the point of contact.
 **Consequence** · Whatever the target intended to do next does not happen inside the 1-to-2-second lock, which for a hunter closing on a beast at speed is frequently the entire fight.

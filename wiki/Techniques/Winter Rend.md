@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813d-b297-f3b326e2d610"
 notion_url: "https://app.notion.com/p/Winter-Rend-3d958200eb22813db297f3b326e2d610"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T17:01:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -22,9 +22,9 @@ verification: "unverified"
 
 ### Codex line
 
-**Wellspring** · Cymorath (primary, Caloria) · Tenebra (secondary, Limina)
+**Wellspring** · Vohrin (primary, Caloria) · Tenebra (secondary, Limina)
 **Family** · Caloria / Limina
-**Physics Domain** · Thermodynamics (Cymorath) · Entropy, Void and Mind (Tenebra)
+**Physics Domain** · Thermodynamics (Vohrin) · Entropy, Void and Mind (Tenebra)
 **Category** · Vectra *(judgment call, unverified — see migration note)*
 **Craft** · Magicraft
 **Stage floor** · VI, Glory
@@ -35,12 +35,12 @@ verification: "unverified"
 
 **Trigger** · A sweeping melee strike, arm or weapon, thrown deliberately to drag cold behind it.
 **Function** · Offense, cold damage, area control across a two-metre arc.
-**Mechanism** · Cymorath's cold law, heat's absence held as discipline rather than suffered as condition, is dragged along the strike's own kinetic wake, so the arc itself becomes the cold's vector rather than the cold radiating outward from a stationary point. Tenebra rides the same arc as afterimage — the same signal-to-noise reduction already documented on Draven's sheet, applied to the visible strike-path rather than to his own body.
+**Mechanism** · Vohrin's cold law, heat's absence held as discipline rather than suffered as condition, is dragged along the strike's own kinetic wake, so the arc itself becomes the cold's vector rather than the cold radiating outward from a stationary point. Tenebra rides the same arc as afterimage — the same signal-to-noise reduction already documented on Draven's sheet, applied to the visible strike-path rather than to his own body.
 **Numerical Effect** · Heat extraction and impact force both land at Draven's A-Grade Ardency band (20–100 GN peak force, 46 GJ–4 TJ yield, city-block scale, per the FOW Physical Benchmarks table), delivered instantaneously across the arc rather than sustained.
 **Target Response** · Flesh loses heat sharply along the arc's path; armor not built to insulate against a genuine thermal gradient cracks under the sudden contraction.
 **Consequence** · The arc lingers a moment as pale afterimage, the Tenebra-thinned residue of the strike's own path; a faint chime carries where ice forms and fractures in the same instant.
 **Limitation** · Ineffective against insulated or flame-forged armor built to withstand a genuine thermal swing.
-**Weakness** · A strong heat vector delivered into the arc before it lands unmakes the cold faster than Cymorath can hold it there.
+**Weakness** · A strong heat vector delivered into the arc before it lands unmakes the cold faster than Vohrin can hold it there.
 **Cost** · Mild numbness through his own arms after the strike.
 **Counterplay** · A heat burst met head-on cancels the arc's cold; rapid mobility simply outruns the two-metre reach before the arc closes.
 

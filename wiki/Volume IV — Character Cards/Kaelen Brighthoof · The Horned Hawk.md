@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81e9-8087-faeef719c6e7"
 notion_url: "https://app.notion.com/p/Kaelen-Brighthoof-The-Horned-Hawk-3bd58200eb2281e98087faeef719c6e7"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:02:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -42,7 +42,7 @@ verification: "unverified"
 **Aeolyth** · **The gales, the thin air, the arrow's line.**
 **Verdantia** · Vitalia. **The beast-bond and the survival craft.**
 **Terranova** · Materia. **Pale limestone.** *The stone-stability half, and the surefootedness.*
-**Cymorath** · Caloria. **The cold that tires enemies twice as fast.**
+**Vohrin** · Caloria. **The cold that tires enemies twice as fast.**
 
 ---
 

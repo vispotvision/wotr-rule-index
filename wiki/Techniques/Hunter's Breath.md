@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8140-b2ba-f1f6825e4ce3"
 notion_url: "https://app.notion.com/p/Hunter-s-Breath-3d958200eb228140b2baf1f6825e4ce3"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T17:01:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -16,15 +16,15 @@ verification: "unverified"
 
 **Effect** · **He inhales the cold and breathes out a mist that erases what he is to anything hunting by scent, heat, or Essence.** *In genuinely freezing ground, that is most of what hunts him.*
 **Cost** · **Lung strain.** *The cold he draws in does not leave gently.*
-**Limit** · **Requires cold air to draw on.** *Cymorath's cold-law needs an existing gradient. It does not manufacture one from nothing.*
+**Limit** · **Requires cold air to draw on.** *Vohrin's cold-law needs an existing gradient. It does not manufacture one from nothing.*
 **Counter** · **A thermal-inversion field lifts the mist off the ground before it can spread, and a practitioner reading by chorus-sensed presence rather than heat, scent or Essence-trace is not fooled by any of it.**
 **What nobody knows** · Whether the mist masks him from Vohrin's own attention, or only from everything smaller than a Titan.
 
 ### Codex line
 
-**Wellspring** · Cymorath (primary, Caloria) · Tenebra (secondary, Limina)
+**Wellspring** · Vohrin (primary, Caloria) · Tenebra (secondary, Limina)
 **Family** · Caloria / Limina
-**Physics Domain** · Thermodynamics (Cymorath) · Entropy, Void and Mind (Tenebra)
+**Physics Domain** · Thermodynamics (Vohrin) · Entropy, Void and Mind (Tenebra)
 **Category** · Silentia
 **Craft** · Magicraft
 **Stage floor** · VI, Glory
@@ -35,7 +35,7 @@ verification: "unverified"
 
 **Trigger** · Draven inhales cold air and holds Tenebra's signal-reduction active through the exhale.
 **Function** · Utility, stealth, anti-detection.
-**Mechanism** · Cymorath is heat's absence held as discipline rather than suffered as condition, per his own sheet. The exhaled mist is an engineered cold front carrying that discipline outward, and its surface is Tenebra-faceted rather than smooth — the same absorptive-coating, faceted-return-geometry principle documented elsewhere in the Limina register — so both his biological heat signature and his Essence signature drop into the mist's own noise floor together, rather than being separately concealed.
+**Mechanism** · Vohrin is heat's absence held as discipline rather than suffered as condition, per his own sheet. The exhaled mist is an engineered cold front carrying that discipline outward, and its surface is Tenebra-faceted rather than smooth — the same absorptive-coating, faceted-return-geometry principle documented elsewhere in the Limina register — so both his biological heat signature and his Essence signature drop into the mist's own noise floor together, rather than being separately concealed.
 **Numerical Effect** · Outgoing biological and Essence signal within the 15-metre cloud drops an estimated 50–60%, conservative against the wider documented Tenebra range, at Draven's Class III efficiency and A-Grade Dexterity.
 **Target Response** · Anything reading by scent, heat, or Essence-trace loses the read inside the cloud. Ordinary sight is unaffected.
 **Consequence** · The mist curls low, clinging to the ground; ambient temperature inside it drops sharply.

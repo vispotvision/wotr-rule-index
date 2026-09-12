@@ -941,10 +941,10 @@ rules:
       with the unrelated FOW Coherence Band stat. Not yet reviewed by
       Isaac. Full draft in proposals/psychic_distance_bands_draft.md,
       logged in proposals/PROPOSED.md. RATIFIED 2026-09-12, Isaac, as
-      written: superseded by R35-1-NARRATION_REGISTER_BANDS and
-      R35-2-NARRATION_REGISTER_ASSIGNMENTS
+      written: superseded by R35-1-NARRATION_DISTANCE_BANDS and
+      R35-2-NARRATION_DISTANCE_ASSIGNMENTS
       (rules/doc-psychic-distance-registers.yaml; text published at
-      docs/NARRATION_REGISTERS.md and the Notion page "Narration Registers
+      docs/NARRATION_DISTANCE.md and the Notion page "Narration Registers
       — Psychic Distance by POV" under The Rule Index).
 
   - id: R4-OP-HEMA_ASSIGNMENTS

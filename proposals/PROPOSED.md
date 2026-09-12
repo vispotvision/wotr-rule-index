@@ -70,7 +70,7 @@ contrast (an inference, not a stated fact).
 
 ## 2026-09-12 — Psychic-distance narration registers for the major POV cast (R4)
 
-**Status:** ratified 2026-09-12, Isaac: as written → R35-1, R35-2 (rules/doc-psychic-distance-registers.yaml; R4-OP-PSYCHIC_DISTANCE_BANDS superseded); published at docs/NARRATION_REGISTERS.md and the Notion page "Narration Registers — Psychic Distance by POV" under The Rule Index (page id in build/.notion_publish.json). Hild Ice and Dabney stay unassigned by the ruling. Term collision with Pack Five's per-culture "narration registers" logged as C-007.
+**Status:** ratified 2026-09-12, Isaac: as written → R35-1, R35-2 (rules/doc-psychic-distance-registers.yaml; R4-OP-PSYCHIC_DISTANCE_BANDS superseded); published at docs/NARRATION_DISTANCE.md and the Notion page "Narration Registers — Psychic Distance by POV" under The Rule Index (page id in build/.notion_publish.json). Hild Ice and Dabney stay unassigned by the ruling. Term collision with Pack Five's per-culture "narration registers" logged as C-007.
 **applies_to:** pov, register, prose-law
 **Full draft:** proposals/psychic_distance_bands_draft.md
 

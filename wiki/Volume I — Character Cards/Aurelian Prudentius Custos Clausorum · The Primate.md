@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-818e-b34c-e3fdd4d16030"
 notion_url: "https://app.notion.com/p/Aurelian-Prudentius-Custos-Clausorum-The-Primate-3b758200eb22818eb34ce3fdd4d16030"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T18:50:00.000Z"
+last_edited: "2026-09-12T20:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -23,7 +23,7 @@ verification: "unverified"
 **Race / Lineage:** **Mahuo.** The order's Register lists lineage in the same column it lists height. **He is the first non-Concordia holder of the Word in four hundred years and the first Mahuo ever**, and the significance of that is not the diversity of it. It is that Sanctum Lux's single largest known doctrinal blind spot is a Mahuo working, and the order seated a Mahuo above it without once asking whether he knew why.
 **Age:** 58 · **Sex:** Male
 **Realm / Faction:** Sanctum Lux. Seated at the Grand Church of Altherion, within the Guild Seat of Stannvaard. Ladder of Standing, rung VI
-**Office:** **The Word of Judger.** Doctrinal supremacy. One vote. One veto of the Will per convocation, which he has never cast. The Will is held by Darius Ignatius Sanctus Sanctorum, who has refused investiture for six years, **which means the Word currently holds the only functioning vote in an institution designed so that no one man would ever hold it alone**. Neither of them has raised this in session.
+**Office:** **The Word of Judger.** Doctrinal supremacy. One vote. One veto of the Will per convocation, which he has never cast. The Will is held by Darius Ignatius Sanctus Sanctorum, who has refused investiture for eleven years, **which means the Word currently holds the only functioning vote in an institution designed so that no one man would ever hold it alone**. Neither of them has raised this in session.
 **Catalyst Event:** He was nine when Sum-gol finished emptying. **Nobody ordered the Mahuo destroyed.** The family went by attrition, requisition, conscription, corridor closure, and the specific slow arithmetic of a small people whose fields are walked over twice a season by two larger peoples who are not thinking about them at all. There was no decision to point at. At nineteen, an Attestant, he stood in the Hall of Equal Breath for the first time and understood the instrument he had crossed four hundred leagues to reach: **the Oracle weighs completed acts, and what happened to his family was not an act.** No clause closed. No party finished anything. **The most honest measuring device in the four worlds returns null on the death of his entire people**, and he has spent thirty-nine years inside the order that owns it, climbing, and he has not found the amendment yet.
 
 ---

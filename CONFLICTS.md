@@ -242,7 +242,7 @@ carve-out is also stated in imports/BRIEFS/common.md and in the
 
 ## C-007 — "narration register" names two different axes
 
-**Rules:** R5-C3-NARRATION_REGISTER_EXTENSION vs R35-1-NARRATION_REGISTER_BANDS
+**Rules:** R5-C3-NARRATION_REGISTER_EXTENSION vs R35-1-NARRATION_DISTANCE_BANDS
 **The clash:** Pack Five C.3 uses "narration registers" for per-culture
 diction (Dawi / Eresse / Concord human / Moto POV) and its own
 cross-reference keeps "band" (psychic distance) and "register" (culture) as
@@ -264,4 +264,9 @@ the rule id.
 **Recommendation:** none stated by either source. R35-1's notes suggest
 saying "narration register (psychic distance)" or "culture register" where
 both senses could be read; that is a disambiguation habit, not a ruling.
-**Status:** open
+**Resolution:** Isaac, 2026-09-12 — the psychic-distance axis is renamed
+"narration distance" (close / medium / distant-formal); Pack Five keeps
+"narration register" for per-culture diction. R35-1-NARRATION_DISTANCE_BANDS
+and R35-2-NARRATION_DISTANCE_ASSIGNMENTS retitled accordingly; the Notion
+page is now "Narration Distance — Psychic Distance by POV".
+**Status:** closed

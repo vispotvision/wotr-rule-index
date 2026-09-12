@@ -36,12 +36,12 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   "Zettari" across the wiki and scenes; the three Volume I cards are
   renamed (Rashani, Rengai, Dougou Ozumu Zettari). Rule rows keep their
   verbatim quotes as the sources spell them (Zettai) and note the
-  divergence. In progress.
+  divergence. Done (commit 8d21751).
 - **C-006 (the Zettari's register).** The rule gives way: the Zettari's
   established Swahili/Bantu/Arabic-flavoured vocabulary stands and the
   five-strata naming rule is carved out — the Zettari are their own
   register; "archaic bloodlines → Japonic" still governs any other archaic
-  line. R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC. In progress.
+  line. R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC. Done (commit 8d21751).
 - **Five proposals ratified wholesale, as written:** the Zettari
   forge-culture pitch (Agano Sand and the Witnessed Temper; R33, after the
   spelling sweep); the Moto bloodline Visual Aesthetic Guide pass
@@ -53,7 +53,15 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   sink worked by the Kagura branch at real cost to the officiants (R36-1);
   the four element inventories — Mahuo, Yukari, the elven branches,
   Beastkin soul-names — with their open flags kept as flags (R37-1..4).
-  Each supersedes the pending row it answers. In progress.
+  Each supersedes the pending row it answers. Done (commits b7c48c0,
+  78e4c28).
+
+- **Darius's seat: eleven years.** The scenes are right (the letter at
+  thirty-five, Darius fifty-six now); the four wiki pages that said six
+  (Sanctum Lux, Stannvaard, Aurelian's and Verinus's cards) now say eleven.
+- **C-007 closed.** The psychic-distance axis is "narration distance";
+  Pack Five keeps "narration register" for per-culture diction. R35 rows
+  retitled.
 
 ## 2026-09-12, still later — wiki-wide docket sweep, fifth batch (the researched nine)
 

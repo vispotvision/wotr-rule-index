@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8189-aaa8-ef337474c86e"
 notion_url: "https://app.notion.com/p/Sanctum-Lux-3b158200eb228189aaa8ef337474c86e"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-12T20:01:00.000Z"
+last_edited: "2026-09-12T20:47:00.000Z"
 verification: "unverified"
 ---
 
@@ -136,7 +136,7 @@ Rank inside Sanctum Lux **does not describe command.** It describes what a membe
 >
 > Darius answers to Archpaladin, signs as Archpaladin, and is addressed as Archpaladin by everyone below the Sealed Standard, **because the Will's seat carries a vote and he has never cast one.**
 >
-> The order's official position is that the investiture is pending. **It has been pending for six years.** Nobody has demanded why, **which is itself a finding**, and which Arbitration has weighed twice and filed both times without action.
+> The order's official position is that the investiture is pending. **It has been pending for eleven years.** Nobody has demanded why, **which is itself a finding**, and which Arbitration has weighed twice and filed both times without action.
 
 ---
 
@@ -169,7 +169,7 @@ The order's standing interest in locating those pieces is **the largest non-publ
 > **Mirror trials.** The accuser is read against the same reference as the accused, in the same session, in front of the same lamps.
 >
 > **Mirror trials are the reason the order is hated by every guild that has ever brought it a complaint.**
-*The order's Measurewrights maintain open Threshold cases on any member whose Stage progression and Level accumulation diverge — which is why they have an open case on Darius that has sat unresolved for six years.*
+*The order's Measurewrights maintain open Threshold cases on any member whose Stage progression and Level accumulation diverge — which is why they have an open case on Darius that has sat unresolved for eleven years.*
 
 ---
 

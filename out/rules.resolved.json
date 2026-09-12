@@ -3230,24 +3230,24 @@
     "superseded_by": []
   },
   {
-    "id": "R35-1-NARRATION_REGISTER_BANDS",
-    "pack": "Narration Registers (Psychic Distance by POV)",
+    "id": "R35-1-NARRATION_DISTANCE_BANDS",
+    "pack": "Narration Distances (Psychic Distance by POV)",
     "pack_number": null,
     "section": "The three registers",
-    "title": "Three narration registers define psychic distance per POV character",
+    "title": "Three narration distances define psychic distance per POV character",
     "status": "live",
     "kind": "definition",
-    "summary": "Every POV character carries one of three narration registers — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called \"narration register\", never \"Band\", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.",
-    "verbatim": "Every POV character carries a narration register: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called \"narration register\", not \"Band\". The Fracture of Worlds magic system already uses \"Band\" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.",
+    "summary": "Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called \"narration register\", never \"Band\", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.",
+    "verbatim": "Every POV character carries a narration distance: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called \"narration distance\", not \"Band\". The Fracture of Worlds magic system already uses \"Band\" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.",
     "amends": [
       {
         "guide": "WOTR_Master_Style_Directive.md",
-        "locus": "§1.1 — psychic distance / narration register",
+        "locus": "§1.1 — psychic distance / narration distance",
         "operation": "adds"
       },
       {
         "guide": "WOTR_Scene_Writing_Process_Guide.md",
-        "locus": "§6 — psychic distance / narration register",
+        "locus": "§6 — psychic distance / narration distance",
         "operation": "adds"
       }
     ],
@@ -3265,12 +3265,12 @@
       "file": "",
       "lines": null
     },
-    "notes": "Closes the open item R4-OP-PSYCHIC_DISTANCE_BANDS (Pack Four, Still Open), which said FID is house default but no character has a specified band and that Amendment Thirteen's carve-out (R4-13) depends on knowing whose idiom the narration runs in. Two amends loci because the R4-OP row itself carried amends: null and the FID licence these registers parametrise lives in both guides: the Master Style Directive §1.1 is where free indirect discourse is licensed (Pack Five C.3 cites \"Directive Sec. 1.1\" for it, and R5-C3 amends that locus), and R4-13-FID_CARVEOUT, the rule these registers feed, amends the Scene Writing Process Guide §6 (desktop/NATALIE.md also files \"POV lock, psychic distance\" under that guide). TERM COLLISION, recorded not resolved: Pack Five C.3 (R5-C3-NARRATION_REGISTER_EXTENSION, live, demoted to flavour by R15-1) already uses \"narration registers\" for per-culture diction (Dawi / Eresse / Concord human / Moto POV) and its cross-reference keeps \"band\" (psychic distance) and \"register\" (culture) as two things to be \"assigned together\". Isaac ratified the draft's naming as written, so this row's \"narration register\" means the psychic-distance axis; where both senses could be read, say \"narration register (psychic distance)\" or \"culture register\". Logged in CONFLICTS.md. The published text is docs/NARRATION_REGISTERS.md (repo) and the Notion page \"Narration Registers — Psychic Distance by POV\" under The Rule Index, recorded in build/.notion_publish.json.",
+    "notes": "Closes the open item R4-OP-PSYCHIC_DISTANCE_BANDS (Pack Four, Still Open), which said FID is house default but no character has a specified band and that Amendment Thirteen's carve-out (R4-13) depends on knowing whose idiom the narration runs in. Two amends loci because the R4-OP row itself carried amends: null and the FID licence these registers parametrise lives in both guides: the Master Style Directive §1.1 is where free indirect discourse is licensed (Pack Five C.3 cites \"Directive Sec. 1.1\" for it, and R5-C3 amends that locus), and R4-13-FID_CARVEOUT, the rule these registers feed, amends the Scene Writing Process Guide §6 (desktop/NATALIE.md also files \"POV lock, psychic distance\" under that guide). TERM COLLISION, recorded not resolved: Pack Five C.3 (R5-C3-NARRATION_DISTANCE_EXTENSION, live, demoted to flavour by R15-1) already uses \"narration distances\" for per-culture diction (Dawi / Eresse / Concord human / Moto POV) and its cross-reference keeps \"band\" (psychic distance) and \"register\" (culture) as two things to be \"assigned together\". Isaac ratified the draft's naming as written, so this row's \"narration distance\" means the psychic-distance axis; where both senses could be read, say \"narration distance (psychic distance)\" or \"culture register\". Logged in CONFLICTS.md. The published text is docs/NARRATION_DISTANCES.md (repo) and the Notion page \"Narration Distances — Psychic Distance by POV\" under The Rule Index, recorded in build/.notion_publish.json.",
     "superseded_by": []
   },
   {
-    "id": "R35-2-NARRATION_REGISTER_ASSIGNMENTS",
-    "pack": "Narration Registers (Psychic Distance by POV)",
+    "id": "R35-2-NARRATION_DISTANCE_ASSIGNMENTS",
+    "pack": "Narration Distances (Psychic Distance by POV)",
     "pack_number": null,
     "section": "Close register / Medium register / Distant-formal register / Unassigned",
     "title": "Narration register assignments for the major POV cast",
@@ -3281,12 +3281,12 @@
     "amends": [
       {
         "guide": "WOTR_Master_Style_Directive.md",
-        "locus": "§1.1 — psychic distance / narration register",
+        "locus": "§1.1 — psychic distance / narration distance",
         "operation": "adds"
       },
       {
         "guide": "WOTR_Scene_Writing_Process_Guide.md",
-        "locus": "§6 — psychic distance / narration register",
+        "locus": "§6 — psychic distance / narration distance",
         "operation": "adds"
       }
     ],
@@ -3302,7 +3302,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "The verbatim is the roster paragraph (\"Assignments at a glance\"); the nine per-character entries with their violation cautions follow it in full in docs/NARRATION_REGISTERS.md (sections \"Close register\", \"Medium register\", \"Distant/formal register\", \"Unassigned\"). Hild Ice and Dabney staying unassigned is part of what Isaac ratified, not a gap to fill: Hild Ice appears only inside other characters' POV, Dabney only as a four-month-old infant whose scene's interiority is his caretaker's. Grounding quotes in the entries (Darius's \"So he keeps it...\" thought, Aurelian's \"How interesting...\", Rengai's \"the specific stillness of a large animal\", Cozbi's \"It was elegant in the specific way corruption always is\") are the drafting agent's citations of scene text and were ratified with the draft. Two cautions lean on gloss-rights notes: Sodoku's on the superseded \"Sodoku never\" note (informative only), Cozbi's on the ratified \"Cozbi unlimited\" note (\"his interiority is the horror\"). Draft housekeeping flags (CAST.md's \"Lambert\" entry aggregating the family; a \"§C.3\" cross-reference that lives in pack-15, not pack-05) stay in proposals/psychic_distance_bands_draft.md and are not craft law.",
+    "notes": "The verbatim is the roster paragraph (\"Assignments at a glance\"); the nine per-character entries with their violation cautions follow it in full in docs/NARRATION_DISTANCES.md (sections \"Close register\", \"Medium register\", \"Distant/formal register\", \"Unassigned\"). Hild Ice and Dabney staying unassigned is part of what Isaac ratified, not a gap to fill: Hild Ice appears only inside other characters' POV, Dabney only as a four-month-old infant whose scene's interiority is his caretaker's. Grounding quotes in the entries (Darius's \"So he keeps it...\" thought, Aurelian's \"How interesting...\", Rengai's \"the specific stillness of a large animal\", Cozbi's \"It was elegant in the specific way corruption always is\") are the drafting agent's citations of scene text and were ratified with the draft. Two cautions lean on gloss-rights notes: Sodoku's on the superseded \"Sodoku never\" note (informative only), Cozbi's on the ratified \"Cozbi unlimited\" note (\"his interiority is the horror\"). Draft housekeeping flags (CAST.md's \"Lambert\" entry aggregating the family; a \"§C.3\" cross-reference that lives in pack-15, not pack-05) stay in proposals/psychic_distance_bands_draft.md and are not craft law.",
     "superseded_by": []
   },
   {
@@ -6790,9 +6790,9 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "223"
     },
-    "notes": "Cross-reference note corrected 2026-09-12: the \"§C.3\" text this row cited as Pack Five's is not verbatim in pack-05-five.yaml; \"§C.3\" actually occurs in pack-15-fifteen.yaml on an unrelated topic. RULED 2026-09-12: yes, define bands now. Drafted by a background research agent for nine major POV characters (Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin close; Rengai medium; Cozbi Mahuo distant/formal), each grounded in scene text with a violation caution; two (Hild Ice, Dabney) flagged as needing more source. Called \"narration register,\" not \"Band,\" to avoid collision with the unrelated FOW Coherence Band stat. Not yet reviewed by Isaac. Full draft in proposals/psychic_distance_bands_draft.md, logged in proposals/PROPOSED.md. RATIFIED 2026-09-12, Isaac, as written: superseded by R35-1-NARRATION_REGISTER_BANDS and R35-2-NARRATION_REGISTER_ASSIGNMENTS (rules/doc-psychic-distance-registers.yaml; text published at docs/NARRATION_REGISTERS.md and the Notion page \"Narration Registers — Psychic Distance by POV\" under The Rule Index).",
+    "notes": "Cross-reference note corrected 2026-09-12: the \"§C.3\" text this row cited as Pack Five's is not verbatim in pack-05-five.yaml; \"§C.3\" actually occurs in pack-15-fifteen.yaml on an unrelated topic. RULED 2026-09-12: yes, define bands now. Drafted by a background research agent for nine major POV characters (Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin close; Rengai medium; Cozbi Mahuo distant/formal), each grounded in scene text with a violation caution; two (Hild Ice, Dabney) flagged as needing more source. Called \"narration register,\" not \"Band,\" to avoid collision with the unrelated FOW Coherence Band stat. Not yet reviewed by Isaac. Full draft in proposals/psychic_distance_bands_draft.md, logged in proposals/PROPOSED.md. RATIFIED 2026-09-12, Isaac, as written: superseded by R35-1-NARRATION_DISTANCE_BANDS and R35-2-NARRATION_DISTANCE_ASSIGNMENTS (rules/doc-psychic-distance-registers.yaml; text published at docs/NARRATION_DISTANCE.md and the Notion page \"Narration Registers — Psychic Distance by POV\" under The Rule Index).",
     "superseded_by": [
-      "R35-1-NARRATION_REGISTER_BANDS"
+      "R35-1-NARRATION_DISTANCE_BANDS"
     ]
   },
   {

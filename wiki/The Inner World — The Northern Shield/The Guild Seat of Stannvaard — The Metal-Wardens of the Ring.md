@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8145-b4ee-d5a4fa1ad6bc"
 notion_url: "https://app.notion.com/p/The-Guild-Seat-of-Stannvaard-The-Metal-Wardens-of-the-Ring-3bc58200eb228145b4eed5a4fa1ad6bc"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T18:48:00.000Z"
+last_edited: "2026-09-12T20:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -130,7 +130,7 @@ Altherion runs on trade, services, and the institutional revenue of hosting the 
 ## Defence
 
 **The Forge Guard** · Roughly four thousand. *Not flashy. Not fast.* **Built from the same material as the Ring's walls: dense, patient, and extremely difficult to move.**
-**Sanctum Lux** maintains its own capability within the compound — the Arbiter-Militant wing, the Inquisitors with their gauntlet-etched Judica rites, and **the Mask, of which there is only ever one, whose mere presence in a room suppresses invocation.** It answers to the Will of Judger, **currently held by Darius, who refuses to be invested in it and has been pending investiture for six years.**
+**Sanctum Lux** maintains its own capability within the compound — the Arbiter-Militant wing, the Inquisitors with their gauntlet-etched Judica rites, and **the Mask, of which there is only ever one, whose mere presence in a room suppresses invocation.** It answers to the Will of Judger, **currently held by Darius, who refuses to be invested in it and has been pending investiture for eleven years.**
 > The strategic defence is economic. **A war against Stannvaard is a war against your own balance sheet, your own armoury, and the judicial body that every other kingdom's legal system references when its own authority is insufficient.**
 >
 > *Nobody has been willing to pay all three costs simultaneously.*
@@ -173,7 +173,7 @@ The crater cities are carved from impact-fractured stone: **dense, angular, ever
 | **Visual aesthetic pass** | The crater interiors lit by forge-glow from below, the contrast with Altherion's surface construction, and the consecrated compound |
 | **The Tender's Shake** | Deserves a *Physician's Eye* companion entry. **Grimdark material that the kingdom's economy runs on and that nobody outside the guild system thinks about** |
 | **Echo Elf influence** | Whether they hold **a formal seat on the River Crown Council, or only an inherited philosophical influence** |
-| **Darius's investiture** | The Will of Judger seat has been pending six years. **Ruled 2026-09-12 — withheld by design, not a gap.** His reason for refusing is never given in his own voice. The letter and the Long Reading mark are the only first-person traces; other characters keep their partial readings. **Do not re-flag.** |
+| **Darius's investiture** | The Will of Judger seat has been pending eleven years. **Ruled 2026-09-12 — withheld by design, not a gap.** His reason for refusing is never given in his own voice. The letter and the Long Reading mark are the only first-person traces; other characters keep their partial readings. **Do not re-flag.** |
 
 > *The mountain does not care about your court. The mountain does not care about your republic. The mountain does not care about your twelve guilds or your fourteen factor houses or your thirty-five-year-old procedure manual written by a man who refuses to hold the office he designed. The mountain cares about the ore, and the ore is still here, and that is why we are still here, and that is the whole of the explanation.*
 > — *Attributed to a Dawi tunnel-master, name unrecorded, preserved in the Archive Guild's collection of statements too honest to file*

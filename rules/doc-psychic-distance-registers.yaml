@@ -1,30 +1,30 @@
 # Standing ruling, originated: no source document in sources/. Isaac ratified,
-# 2026-09-12, as written, the proposal "Psychic-distance narration registers
+# 2026-09-12, as written, the proposal "Psychic-distance narration distances
 # for the major POV cast" (proposals/psychic_distance_bands_draft.md, logged in
 # proposals/PROPOSED.md), which answers R4-OP-PSYCHIC_DISTANCE_BANDS. The
-# ratified text is published as docs/NARRATION_REGISTERS.md and as the Notion
-# page "Narration Registers — Psychic Distance by POV" under The Rule Index;
+# ratified text is published as docs/NARRATION_DISTANCES.md and as the Notion
+# page "Narration Distances — Psychic Distance by POV" under The Rule Index;
 # every verbatim below is a contiguous quote of that document. R35 is the
 # id-numeral bucket assigned to this ruling in the 2026-09-12 run of
 # standalone rulings (R25 onward, one bucket per ruling, rules/doc-*.yaml);
 # it is unrelated to the neighbouring buckets and simply continues the
 # numbering. Uses R25-1's "standalone doc, no pack number, empty source.file"
 # pattern.
-pack: Narration Registers (Psychic Distance by POV)
+pack: Narration Distances (Psychic Distance by POV)
 pack_number: null
 source_file: ""
 ratified: "Isaac, 2026-09-12, Claude Code: ratified as written"
 rules:
 
-  - id: R35-1-NARRATION_REGISTER_BANDS
-    pack: Narration Registers (Psychic Distance by POV)
+  - id: R35-1-NARRATION_DISTANCE_BANDS
+    pack: Narration Distances (Psychic Distance by POV)
     pack_number: null
     section: "The three registers"
-    title: Three narration registers define psychic distance per POV character
+    title: Three narration distances define psychic distance per POV character
     status: live
     kind: definition
     summary: >-
-      Every POV character carries one of three narration registers — close
+      Every POV character carries one of three narration distances — close
       (narration fuses with the character's own idiom, italicized direct
       thought available), medium (POV locked, no head-hopping, but emotion
       arrives by external behaviour or simile, no italicized thought) or
@@ -35,7 +35,7 @@ rules:
       stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT
       depends on.
     verbatim: >-
-      Every POV character carries a narration register: how far the narration
+      Every POV character carries a narration distance: how far the narration
       stands from the character's own idiom in that character's POV scenes.
       There are three. - Close register. Narration fuses with the character's
       own idiom. Sustained italicized direct thought is available, and even
@@ -48,16 +48,16 @@ rules:
       character from outside, with only occasional aphoristic italics. The
       distance is itself characterization, and it is the one register
       licensed for more narratorial explanation than the others get. The
-      field is called "narration register", not "Band". The Fracture of
+      field is called "narration distance", not "Band". The Fracture of
       Worlds magic system already uses "Band" for a different, unrelated stat
       (Coherence Band A–F), and the two should never appear interchangeably
       in the same sentence.
     amends:
       - guide: "WOTR_Master_Style_Directive.md"
-        locus: "§1.1 — psychic distance / narration register"
+        locus: "§1.1 — psychic distance / narration distance"
         operation: adds
       - guide: "WOTR_Scene_Writing_Process_Guide.md"
-        locus: "§6 — psychic distance / narration register"
+        locus: "§6 — psychic distance / narration distance"
         operation: adds
     supersedes: [R4-OP-PSYCHIC_DISTANCE_BANDS]
     applies_to: [pov, register, prose-law]
@@ -78,20 +78,20 @@ rules:
       R4-13-FID_CARVEOUT, the rule these registers feed, amends the Scene
       Writing Process Guide §6 (desktop/NATALIE.md also files "POV lock,
       psychic distance" under that guide). TERM COLLISION, recorded not
-      resolved: Pack Five C.3 (R5-C3-NARRATION_REGISTER_EXTENSION, live,
-      demoted to flavour by R15-1) already uses "narration registers" for
+      resolved: Pack Five C.3 (R5-C3-NARRATION_DISTANCE_EXTENSION, live,
+      demoted to flavour by R15-1) already uses "narration distances" for
       per-culture diction (Dawi / Eresse / Concord human / Moto POV) and its
       cross-reference keeps "band" (psychic distance) and "register" (culture)
       as two things to be "assigned together". Isaac ratified the draft's
-      naming as written, so this row's "narration register" means the
+      naming as written, so this row's "narration distance" means the
       psychic-distance axis; where both senses could be read, say
-      "narration register (psychic distance)" or "culture register". Logged
-      in CONFLICTS.md. The published text is docs/NARRATION_REGISTERS.md
-      (repo) and the Notion page "Narration Registers — Psychic Distance by
+      "narration distance (psychic distance)" or "culture register". Logged
+      in CONFLICTS.md. The published text is docs/NARRATION_DISTANCES.md
+      (repo) and the Notion page "Narration Distances — Psychic Distance by
       POV" under The Rule Index, recorded in build/.notion_publish.json.
 
-  - id: R35-2-NARRATION_REGISTER_ASSIGNMENTS
-    pack: Narration Registers (Psychic Distance by POV)
+  - id: R35-2-NARRATION_DISTANCE_ASSIGNMENTS
+    pack: Narration Distances (Psychic Distance by POV)
     pack_number: null
     section: "Close register / Medium register / Distant-formal register / Unassigned"
     title: Narration register assignments for the major POV cast
@@ -121,10 +121,10 @@ rules:
       caution says where that idiom is most likely to be broken from outside.
     amends:
       - guide: "WOTR_Master_Style_Directive.md"
-        locus: "§1.1 — psychic distance / narration register"
+        locus: "§1.1 — psychic distance / narration distance"
         operation: adds
       - guide: "WOTR_Scene_Writing_Process_Guide.md"
-        locus: "§6 — psychic distance / narration register"
+        locus: "§6 — psychic distance / narration distance"
         operation: adds
     supersedes: []
     applies_to: [pov, register, prose-law]
@@ -136,7 +136,7 @@ rules:
     notes: >-
       The verbatim is the roster paragraph ("Assignments at a glance"); the
       nine per-character entries with their violation cautions follow it in
-      full in docs/NARRATION_REGISTERS.md (sections "Close register", "Medium
+      full in docs/NARRATION_DISTANCES.md (sections "Close register", "Medium
       register", "Distant/formal register", "Unassigned"). Hild Ice and
       Dabney staying unassigned is part of what Isaac ratified, not a gap to
       fill: Hild Ice appears only inside other characters' POV, Dabney only

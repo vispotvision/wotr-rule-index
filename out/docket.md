@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-12 outstanding.
+9 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -36,22 +36,6 @@ Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajii
 
 An early instance of the same "fold packs into base guides" standing task later packs keep restating with a growing count.
 
-## R2-OP-ZETTARI_DOCKET — Docket 18, Zettari forge-culture substrate, no proposal at all
-
-*Pack Two Still Open, blocks: worldbuilding*
-
-> Docket 18, Zettari forge-culture substrate. Untouched by either pack and untouched by Hide, Horn and Bone, which handles creature materials rather than forge cultures. The Dawi equivalent was pitched as Cask-Oath Pitch and is awaiting your ruling; the Zettari has no proposal at all.
-
-Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. Still open as of this pack.
-
-## R3-OP-ZETTARI_DOCKET — Docket 18, Zettari forge-culture substrate unaddressed
-
-*Pack Three Still Open, blocks: worldbuilding*
-
-> Docket 18, Zettari forge-culture substrate. No proposal exists. Oldest unaddressed gap in the project.
-
-Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET); still open as of this pack too.
-
 ## R4-H1-WREN_ASSIGNED — Wren Greymane's combat assignment, drafted 2026-09-12
 
 *Pack Four Still Open, blocks: combat, character-sheet*
@@ -75,14 +59,6 @@ Originated (no source document -- drafted 2026-09-12 by a background research ag
 > All four packs remain paste-in diffs. Step seven of the run order is not complete until they are folded.
 
 An early instance of the same "fold packs into base guides" standing task later packs keep restating with a growing count (e.g. R19-9-STANDING_TASK).
-
-## R4-OP-ZETTARI_DOCKET — Docket 18, Zettari forge-culture substrate unaddressed
-
-*Pack Four Still Open, blocks: worldbuilding*
-
-> Docket 18, Zettari forge-culture substrate. No proposal exists. Still the oldest unaddressed gap in the project.
-
-Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET); still open as of this pack too.
 
 ## R9-1-STILL_OPEN_ITEMS — Craft-structure items this pack leaves undecided
 

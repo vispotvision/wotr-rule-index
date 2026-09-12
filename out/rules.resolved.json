@@ -4282,7 +4282,7 @@
     "pack_number": 2,
     "section": "Still Open",
     "title": "Docket 18, Zettari forge-culture substrate, no proposal at all",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Untouched by either Pack One or Two, and by Hide, Horn and Bone (which handles creature materials, not forge cultures); the Dawi equivalent (Cask-Oath Pitch) is pitched and awaiting ruling, but the Zettari has no proposal at all — the oldest unaddressed gap in the project.",
     "verbatim": "Docket 18, Zettari forge-culture substrate. Untouched by either pack and untouched by Hide, Horn and Bone, which handles creature materials rather than forge cultures. The Dawi equivalent was pitched as Cask-Oath Pitch and is awaiting your ruling; the Zettari has no proposal at all.",
@@ -4292,12 +4292,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: yes, draft a pitch mirroring the Cask-Oath approach",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Two.md",
       "lines": "116"
     },
-    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. Still open as of this pack.",
+    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a background research agent -- Agano Sand and the Witnessed Temper, a Vow Clause application. Full draft in proposals/zettari_forge_culture_draft.md, logged in proposals/PROPOSED.md. Surfaced a real naming split while drafting it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before this pitch is ratified.",
     "superseded_by": []
   },
   {
@@ -5054,7 +5054,7 @@
     "pack_number": 3,
     "section": "Still Open",
     "title": "Docket 18, Zettari forge-culture substrate unaddressed",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "No proposal exists yet for Docket 18, the Zettari forge-culture substrate — the oldest unaddressed gap in the project.",
     "verbatim": "Docket 18, Zettari forge-culture substrate. No proposal exists. Oldest unaddressed gap in the project.",
@@ -5064,12 +5064,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: see R2-OP-ZETTARI_DOCKET",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Three.md",
       "lines": "121"
     },
-    "notes": "Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET); still open as of this pack too.",
+    "notes": "Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md.",
     "superseded_by": []
   },
   {
@@ -6202,7 +6202,7 @@
     "pack_number": 4,
     "section": "Still Open",
     "title": "Docket 18, Zettari forge-culture substrate unaddressed",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "No proposal exists yet for Docket 18, the Zettari forge-culture substrate — the oldest unaddressed gap in the project.",
     "verbatim": "Docket 18, Zettari forge-culture substrate. No proposal exists. Still the oldest unaddressed gap in the project.",
@@ -6212,12 +6212,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: see R2-OP-ZETTARI_DOCKET",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "222"
     },
-    "notes": "Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET); still open as of this pack too.",
+    "notes": "Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md.",
     "superseded_by": []
   },
   {

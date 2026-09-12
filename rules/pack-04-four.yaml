@@ -1109,7 +1109,7 @@ rules:
     pack_number: 4
     section: "Still Open"
     title: Docket 18, Zettari forge-culture substrate unaddressed
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       No proposal exists yet for Docket 18, the Zettari forge-culture
@@ -1121,13 +1121,14 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: see R2-OP-ZETTARI_DOCKET"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "222"
     notes: >-
       Restated near-identically in Pack Three's Still Open section (see
-      R3-OP-ZETTARI_DOCKET); still open as of this pack too.
+      R3-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET,
+      the same docket item -- pitch drafted, proposals/PROPOSED.md.
 
   - id: R4-OP-PASTE_IN_DIFFS
     pack: Pack Four

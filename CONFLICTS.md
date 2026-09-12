@@ -160,6 +160,62 @@ Kagura Branch, on her Volume I card.
 
 ---
 
+## C-005 — Zettari or Zettai: the same bloodline, spelled two ways, never resolved
+
+**Rules:** none formally extracted yet; a corpus-wide naming split found while
+drafting the Docket 18 Zettari forge-culture pitch, 2026-09-12
+**The clash:** The lore/worldbuilding pages consistently spell the royal
+human bloodline "Zettari" — `wiki/Factions, Bloodlines & Institutions/The
+Archaic Bloodlines/The Zettari.md`, `wiki/The Zettari/The Paths.md`, `wiki/
+Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara.md`,
+`wiki/In-World Documents & the Narrative Archive/The Zettari–Mahou
+Accord.md` — founder Aegor Zettari, sovereign Zuberi Zettari. The
+character-sheet cards for the exact same people spell it "Zettai" —
+`wiki/Volume I — Character Cards/Rashani Zettai.md`, `Rengai Zettai.md`,
+`Dougou Ozumu Zettai.md` — "Lineage: Human · Zettai Bloodline." One
+document (`The Eight Great Houses of Kushara.md`) even uses "Zettai Ken
+practitioners" and "Aegor Zettari" in the same breath. This has never been
+formally noticed or ruled on; every rule row that touches these characters
+(their combat assignments, R1-1-RENGAI_ASSIGNED etc.) has been extracted
+using "Zettai" without anyone flagging that the lore pages disagree.
+**Quotes:** "Lineage: Human · Zettai Bloodline · Clan-Identity" (Rengai
+Zettai's Volume I card) vs. "Founded by Aegor Zettari" (`The Zettari.md`)
+vs. "Zettai Ken practitioners" / "Aegor Zettari" in the same document
+(`The Eight Great Houses of Kushara.md`).
+**Consequence if unresolved:** any new material built on this bloodline
+(the Docket 18 forge-culture pitch included) has to pick a spelling
+without knowing which one is meant to survive, and every existing
+character card and lore page keeps disagreeing with itself.
+**Recommendation:** the Vow Clause manual's own example vow uses
+"Zettari," which is weak evidence that may be the intended primary form —
+but this is not a pack recommendation, just a passing observation from
+the agent that found the split, and not this project's call to make.
+**Status:** open
+
+## C-006 — the Zettari's naming register doesn't match the five-strata rule
+
+**Rules:** the five-strata naming rule (`imports/BRIEFS/common.md`, "archaic
+bloodlines" assigned to the Japonic stratum) vs. the Zettari's own
+established vocabulary
+**The clash:** the ratified five-strata naming convention puts "archaic
+bloodlines" (the Zettari's own wiki section heading) in the Japonic
+register. But the Zettari's actual documented vocabulary — Kafa-Karim,
+Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art,
+Kumi-na-Mbili Seal, and names like Zuberi, Ma'Kovu, N'Kharu, Malani,
+Jomari, N'Yari, Zembari — is Swahili/Bantu/Arabic-flavored throughout, not
+Japonic. This predates this session; nobody introduced the mismatch, it
+was just never noticed until the Docket 18 pitch was being drafted.
+**Quotes:** the five-strata rule as stated in the conversion brief vs. the
+Zettari's own technique names as they appear on `wiki/Factions, Bloodlines
+& Institutions/The Eight Great Houses of Kushara.md`.
+**Consequence if unresolved:** any future Zettari material has to choose
+between matching the stated rule (and contradicting everything already
+written) or matching what's already written (and contradicting the rule).
+**Recommendation:** none stated by either source.
+**Status:** open
+
+---
+
 ## C-000 — example row, delete once real ones land
 
 **Rules:** none yet

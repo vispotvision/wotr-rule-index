@@ -2,6 +2,23 @@
 
 Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the next amendment pack, or is struck.
 
+## 2026-09-12 — Zettari forge-culture substrate pitch, Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET)
+
+**Status:** drafted by a background research agent, awaiting Isaac's read; blocked on C-005
+**applies_to:** worldbuilding, items, naming
+**Full draft:** proposals/zettari_forge_culture_draft.md
+
+Answers "the oldest unaddressed gap in the project," mirroring the Dawi's
+Cask-Oath Pitch: Agano Sand and the Witnessed Temper, a Vow Clause
+application built on the Zettari's own established Material Covenant
+Resonance and Stone Witness Oath. While researching it, the agent found
+and flagged a real, previously-unnoticed naming split: CONFLICTS.md C-005
+(Zettari vs. Zettai, the same bloodline spelled two ways across lore pages
+vs. character cards, never ruled on) and C-006 (the Zettari's actual
+Swahili/Bantu/Arabic-flavored vocabulary doesn't match the ratified
+five-strata naming rule's Japonic assignment for "archaic bloodlines").
+Recommend settling C-005 before ratifying this pitch.
+
 ## 2026-09-12 — Moto bloodline Visual Aesthetic Guide pass (R21-5)
 
 **Status:** drafted by a background research agent, awaiting Isaac's read

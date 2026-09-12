@@ -385,7 +385,7 @@ rules:
     pack_number: 2
     section: "Still Open"
     title: Docket 18, Zettari forge-culture substrate, no proposal at all
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Untouched by either Pack One or Two, and by Hide, Horn and Bone
@@ -403,14 +403,20 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: yes, draft a pitch mirroring the Cask-Oath approach"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Two.md
       lines: "116"
     notes: >-
       Restated near-identically (without the Cask-Oath Pitch detail) in
       Packs Three and Four; see R3-OP-ZETTARI_DOCKET and
-      R4-OP-ZETTARI_DOCKET. Still open as of this pack.
+      R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a
+      background research agent -- Agano Sand and the Witnessed Temper, a
+      Vow Clause application. Full draft in
+      proposals/zettari_forge_culture_draft.md, logged in
+      proposals/PROPOSED.md. Surfaced a real naming split while drafting
+      it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before
+      this pitch is ratified.
 
   - id: R2-OP-COZBI_GRAMMAR
     pack: Pack Two

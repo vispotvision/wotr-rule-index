@@ -1,0 +1,62 @@
+---
+title: "Volume I — Character Cards"
+notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
+notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
+section: "Characters"
+tags: ["Characters"]
+last_edited: "2026-09-10T11:22:00.000Z"
+verification: "unverified"
+---
+
+# Volume I — Character Cards
+
+- [Muken Moto](Volume I — Character Cards/Muken Moto.md)
+- [Yukazuri Moto](Volume I — Character Cards/Yukazuri Moto.md)
+- [Dougou Ozumu Zettai](Volume I — Character Cards/Dougou Ozumu Zettai.md)
+- [Naiser Yukari](Volume I — Character Cards/Naiser Yukari.md)
+- [Vethraun Ashmaw](Volume I — Character Cards/Vethraun Ashmaw.md)
+- [Naevra Yukari](Volume I — Character Cards/Naevra Yukari.md)
+- [Ayame Yuno](Volume I — Character Cards/Ayame Yuno.md)
+- [Artemis Amagiri Moto](Volume I — Character Cards/Artemis Amagiri Moto.md)
+- [Sodoku Moto](Volume I — Character Cards/Sodoku Moto.md)
+- [Yoko Mishiro](Volume I — Character Cards/Yoko Mishiro.md)
+- [Cozbi Mahuo](Volume I — Character Cards/Cozbi Mahuo.md)
+- [Kwon Mu-jin](Volume I — Character Cards/Kwon Mu-jin.md)
+- [Ara Min Mahuo](Volume I — Character Cards/Ara Min Mahuo.md)
+- [Onawa Ashkewe](Volume I — Character Cards/Onawa Ashkewe.md)
+- [Mizuki Moto](Volume I — Character Cards/Mizuki Moto.md)
+- [Rashani Zettai](Volume I — Character Cards/Rashani Zettai.md)
+- [Niran Yukari](Volume I — Character Cards/Niran Yukari.md)
+- [Rengai Zettai](Volume I — Character Cards/Rengai Zettai.md)
+- [Souma Byakuya Moto](Volume I — Character Cards/Souma Byakuya Moto.md)
+- [Iracordas](Volume I — Character Cards/Iracordas.md)
+- [Gimbzo](Volume I — Character Cards/Gimbzo.md)
+- [Yorime Seikai](Volume I — Character Cards/Yorime Seikai.md)
+- [Lucius Xenotro](Volume I — Character Cards/Lucius Xenotro.md)
+- [Anryū Ichimonji](Volume I — Character Cards/Anryū Ichimonji.md)
+- [Torven Greis — The Merchant Lord](Volume I — Character Cards/Torven Greis — The Merchant Lord.md)
+- [Krothar Thunn-Gorr — The Old Chain](Volume I — Character Cards/Krothar Thunn-Gorr — The Old Chain.md)
+- [Freda Thunn-Gorr — The Caldera Wife](Volume I — Character Cards/Freda Thunn-Gorr — The Caldera Wife.md)
+- [Krothar Veylshroud — The Chain Without a Master](Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md)
+- [Verinus VII · The Palatine](Volume I — Character Cards/Verinus VII · The Palatine.md)
+- [Aurelian Prudentius Custos Clausorum · The Primate](Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md)
+- [Borin Ironheart · The Master of the Soul Forge](Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md)
+- [Edward Lambert — The Arithmetic](Volume I — Character Cards/Edward Lambert — The Arithmetic.md)
+- [Hild Ice (Stark) — The Sword Princess](Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess.md)
+- [Lorn Stark — The Sword-Teacher](Volume I — Character Cards/Lorn Stark — The Sword-Teacher.md)
+- [Osric of Hallenfeld — The Patient Hand](Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md)
+- [Bram Greymane — The Ridge](Volume I — Character Cards/Bram Greymane — The Ridge.md)
+- [Brida Ashwell — The Warm Diagnosis](Volume I — Character Cards/Brida Ashwell — The Warm Diagnosis.md)
+- [Renard Greymane — The Left of the Throne](Volume I — Character Cards/Renard Greymane — The Left of the Throne.md)
+- [Matheus — The Silent Eye](Volume I — Character Cards/Matheus — The Silent Eye.md)
+- [Garret Longshore — The Helmsman](Volume I — Character Cards/Garret Longshore — The Helmsman.md)
+- [Afasoa — Two Words](Volume I — Character Cards/Afasoa — Two Words.md)
+- [Nella Forgeman — The Open Hand](Volume I — Character Cards/Nella Forgeman — The Open Hand.md)
+- [Dunstan the Brine — The Ladle](Volume I — Character Cards/Dunstan the Brine — The Ladle.md)
+- [Soren the Mast — The Climb](Volume I — Character Cards/Soren the Mast — The Climb.md)
+- [Taulagi — Muken's Last Soldier](Volume I — Character Cards/Taulagi — Muken's Last Soldier.md)
+- [Tabitha Hallenfeld — The Road Woman](Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md)
+- [Lilia — The Stormfold Nurse](Volume I — Character Cards/Lilia — The Stormfold Nurse.md)
+- [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume I — Character Cards/Kirishima Hae-jin — Kaalabad, the Radiant God of Knights.md)
+
+- [Wystan Ashmore — Late Bell](Volume I — Character Cards/Wystan Ashmore — Late Bell.md)

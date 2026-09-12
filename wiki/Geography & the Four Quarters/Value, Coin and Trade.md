@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-818e-ab92-e9f212bb0b23"
 notion_url: "https://app.notion.com/p/Value-Coin-and-Trade-3b158200eb22818eab92e9f212bb0b23"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Materials"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-12T20:06:00.000Z"
 verification: "unverified"
 ---
 
@@ -100,7 +100,7 @@ In a world of bad roads, worse law, and kingdoms that repudiate their debts on s
 >
 > The Kingdom of Nalūn sits on **Contract-aspected Wellsprings**, uniquely able to seal an agreement into metaphysical law. A Parun-bound contract executed under Nalūn authority is not a promise backed by a court. **It is a working**, and breaking it has consequences that arrive without anyone needing to be convinced, subpoenaed, or bribed.
 The Council of Links is sworn into office by such contracts. The High Chainlord is chosen by the **Trial of Ten Deals.** Every significant transaction in the chain-cities is sealed with linked tokens, and insulting a merchant's honour is a binding duel challenge because in Nalūn a merchant's honour is **a load-bearing financial instrument.**
-What this produces is the one thing medieval commerce anywhere else could not produce: **enforceable long-distance credit.** A bill drawn on Ironlink Hold is good in Kaetra, in Nevara, and in the Ring smelters, not because those places respect Nalūn but **because the instrument enforces itself.**
+What this produces is the one thing medieval commerce anywhere else could not produce: **enforceable long-distance credit.** A bill drawn on Ironlink Hold is good in Kaetra and in the Ring smelters, not because those places respect Nalūn but **because the instrument enforces itself.**
 | Consequence | Effect |
 |---|---|
 | **Specie stays put** | Metal does not need to travel if claims on metal can. This is why the great bullion movements of the era are so much smaller than the trade volumes, and why a robbery on the Nalūn road is a poor business proposition |
@@ -108,7 +108,7 @@ What this produces is the one thing medieval commerce anywhere else could not pr
 | **The Accord's writ has a rival** | A Concord Writ requires the Enforcement Division to arrive. **A Parun-bound contract does not require anybody to arrive.** Arbitration and the Council of Links have a relationship both describe as cordial |
 | **Nalūn cannot be conquered profitably** | Take the tunnels and you hold rock. The value is in the seals, the seals answer to the Wellsprings, and **the Wellsprings do not recognise occupation.** Every serious military assessment of the chain-cities in the last two centuries has ended in the same paragraph |
 
-Nevara's **Law Table** performs the same function under Accord authority rather than Nalūn's, which is the New World's principal institutional contribution and the reason a freeport republic full of exiles can hold the trade it holds.
+**Struck 2026-09-12.** *The entry that stood here credited a freeport republic, Nevara, with a Law Table performing the same function under Accord authority rather than Nalūn's. Nevara is struck from canon and archived; the New World's institutional answer to Nalūn's seals is not recorded.*
 
 ---
 
@@ -241,7 +241,6 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 | **Iampu** | Gold supplemented by Glacium and Essence-bound arms | A mercenary economy pays in what mercenaries want |
 | **Anguz** | Aethersteel and Bloodsilver priced on the coil, gold secondary | Guild-controlled, and the guilds set the coil |
 | **Braqth and the southern interior** | Barter primary, gold secondary | No mint, no assay house, and an entire quarter's produce priced by whoever shows up with a ship |
-| **Nevara** | Enchanted currency tokens and market licences | A freeport that sells the right to trade in it, **the most profitable single instrument in the New World** |
 | **Zarn** | Dark Essence goods and artifacts | The shadow-markets set their own rates and enforce them by other means |
 
 ---

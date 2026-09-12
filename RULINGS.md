@@ -42,38 +42,42 @@ AskUserQuestion rounds. Rulings:
   Depths Titan FOW III already names for thermal extraction — Family
   Caloria, Thermodynamics, the route Cryost Ascendant, Mizuki Moto and
   Draven's card already took. Closes the follow-on left open in the first
-  batch. R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN. In progress.
+  batch. R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN (commit c86a57d).
 - **Verinus's black stones.** An analogue, not Crevice Shale: a distinct
   material made when the Void was completed, which instruments cannot tell
   from Shale at a distance; Article III names Shale and not this, so
   Enforcement can hang people on a misreading (which "he gets the black
   stones wrong on purpose" already sets up). New T8 Material Index row; the
-  Shale pages untouched. R28-1-BLACK_STONES_SHALE_ANALOGUE. In progress.
+  Shale pages untouched. R28-1-BLACK_STONES_SHALE_ANALOGUE; named Voidfall Stone (commit ece4312).
 - **The dawn Sacrament-bond (Verinus/Aurelian).** Anchored on Aurelian's
   soul holding Verinus's name at weight — the Rubric's own definition —
   fixed by declaration inside the rite over his refusal; Fixatio is the
   gloss for why it holds; no release valve.
-  R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION. In progress.
+  R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION (commit 8ee70da).
 - **Darius's refusal of the Will of Judger seat.** An intentional mystery,
   codified as withheld: his reason is never given in his own voice; the
   other characters' partial readings stand; nothing pre-empted for a later
   reveal. The Stannvaard gap row stops being re-flagged. Separately noted
   for Isaac: the pages disagree on how long the seat has been refused
-  (six vs. eleven years) — bookkeeping, not ruled. In progress.
+  (six vs. eleven years: Sanctum Lux, Stannvaard, Aurelian's and
+  Verinus's cards say six; scenes 13 and 14 say eleven, and the scenes'
+  arithmetic — the letter at thirty-five, Darius fifty-six now — implies
+  eleven) — bookkeeping, not ruled. Done (commit 573b79f).
 - **Valen Therosian's office.** High Admiral of the Praetorian March
   stands; "Envoy-Consul to the Old World Powers" was a Trello-title
   mislabel and is dropped. The Praetoria re-home-or-strike flag stays
-  open. In progress.
+  open. Done (commit 573b79f).
 - **"Utopian Concord" / "the Fall" (Leontes Praevan).** An ordinary Accord
   audit post; "the Fall" is Leontes' private name for the institutional
   failure he watched — undated, no tie to Utopia or the Shattering. His
   note's claims that the terms recur on other sheets and that Cernan is
-  "named as exiles of Utopia" were false and are struck. In progress.
+  "named as exiles of Utopia" were false and are struck. Done (commit
+  573b79f).
 - **Xanelor Rafminar, remaining §IX.** Stage IX ratified as written; the
   Spirit-Fanged Circle stays, carried unattested; the Covenant of the
   Wildbound Fang is struck (its only definition was Fenriris's followers);
   Rikudoku Moto is the figure already attested twice — Kairen Moto's
-  estranged father and the Veil practitioner. In progress.
+  estranged father and the Veil practitioner. Done (commit 335c91c).
 - **Obrenkael, remaining §XIII.** Kwon Hae-ryu's EU Reserve is 90,000,000
   (log-linear on Level between Ara Min and Borin, confirmed by the
   Borin→Mu-jin slope), Call Cost ≈ 8,100,000 at 9%; the Codex amendment is
@@ -81,8 +85,8 @@ AskUserQuestion rounds. Rulings:
   (R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA); Uncounted stays a Trait
   and names the Lattice property it alters, never a number; the Bench of
   Attribution hears the Arbitration Division's objection as a Reservation
-  pending determination; the Praetoria retcon touches none of it. In
-  progress.
+  pending determination; the Praetoria retcon touches none of it. Done
+  (commit d06bd51).
 - **The "nineteen orphaned realms".** No list of nineteen ever existed;
   eight names are tagged and all eight are ruled on. The "nineteen" wording
   is retired. Altherion → Inner World, northern rim (Stannvaard's
@@ -93,15 +97,32 @@ AskUserQuestion rounds. Rulings:
   the Material Index and coin table only). Senoth stays under "Names That
   No Longer Attach to Ground". **Mireya is struck — it does not exist;
   retconned out of all sixteen pages, no replacement place named.**
-  **Vellsorea → the New World.** In progress.
-- **New, not yet executed — the New World retcon.** Isaac, ruling on
-  Vellsorea: "Place it in the New World since we are retconning most of
-  its landmasses and moving Eresse to the New World and its kingdoms."
-  Eresse (Saeloria's queendom) and its kingdoms move from the Old World
-  quarter to the New World; most of the New World's landmasses are being
-  retconned. Not specified further; a read-only research pass is mapping
-  what the wiki and scenes currently place in both quarters so the
-  questions can be precise. Nothing moved yet.
+  **Vellsorea → the New World.** Done (commits 2fd4f2f, b92e887).
+  Mireya's strike left six spots leaning on an unnamed place, for Isaac
+  to name if he wants: Kaien Veyren's Regency posting (alias now "The
+  White Bloom"); Shiran Kazuren's realm ("unstated"); the Well that
+  Upanga wa Msimu Nne and Kibanda cha Mwanga wa Miti both cite; Helki's
+  "Stillness at the Gate"; Auren's origin realm on The Fractured Dawn;
+  the Verdant Alloy's makers.
+- **The New World retcon.** Isaac, ruling on Vellsorea: "Place it in the
+  New World since we are retconning most of its landmasses and moving
+  Eresse to the New World and its kingdoms." Researched read-only first:
+  the Korvaeth scenes already stage Eresse in the New World (the Empress
+  of Eresse, the Sunroot Court, Velthaeir, the Vaelmarr terraces), so this
+  is the wiki catching up to the prose. Ruled in a fourth question round:
+  (1) all the elven branches move east — Eresse, Iampu, Rovann, the
+  Sylvaar, the Echo Elves; the Old World quarter becomes Varūn and the
+  non-elven ground; Ironwood and Glacium retag East. (2) The New World is
+  two landmasses: the elven old-ground and the young arc the Accord
+  chartered from nothing; the Accord's "no older law" doctrine stays true
+  of the arc and is narrowed to say so; the geology page is the arc's
+  ledger. (3) The arc, Caedor, Foraye, the coral coast and the Tsohanto
+  Reach survive; Nevara is struck (as Valen Therosian's card already
+  said). (4) Same polity, same era: Vaelmarr is Saeloria's capital, the
+  seat of the Sunroot Court; the Korvaeth arc is Eresse's present; the
+  State of Play's "separate calendar" is a dating convention. Cards that
+  said "Eresse, Old World" retag to the New World. Scenes untouched. In
+  progress (two background agents).
 
 ## 2026-09-12, still later — wiki-wide docket sweep, fourth batch
 

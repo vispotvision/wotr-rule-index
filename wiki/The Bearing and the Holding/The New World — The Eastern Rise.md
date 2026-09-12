@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8139-b5a2-cc7baf01b23f"
 notion_url: "https://app.notion.com/p/The-New-World-The-Eastern-Rise-3b158200eb228139b5a2cc7baf01b23f"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-08-03T19:06:00.000Z"
+last_edited: "2026-09-12T20:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,6 +12,15 @@ verification: "unverified"
 
 *The Eastern Rise*
 > The eastern quarter is **still being made.** An oceanic plate is going down beneath it along the whole seaboard, and young ground is rich ground.
+
+---
+
+## Two Landmasses
+
+The eastern quarter is two landmasses, and this ledger surveys one of them.
+**The elven old-ground.** Eresse's ancient continent, under four Eons of elven law: the Grand Principality of Eresse; Iampu and its Seasonal Courts; Rovann; the Sylvaar Dream Groves; the Echo Elves' Longhouse Accord; Velthaeir, the Floating Archive-City; the Sunroot Court at Vaelmarr. Its Wellsprings have been drawn on since the first Eon. Two of its materials are entered below, Ironwood and Glacium, with the old-ground as their region. Nothing else of it is surveyed here.
+**The arc.** The young volcanic ground the Guild Accord chartered from nothing within living memory: the andesite chain, the caldera belt, the ash plain between them, the coral platforms of the northern coast; Caedor and its four Cloudmetal arrays, Foraye, the Tsohanto Reach. **Everything from Formation to Trade Posture below is the arc's ledger and no other's.** Where the text says *the eastern quarter*, read *the arc*.
+*Ruled 2026-09-12. Eresse and every elven branch sit here and not in the Old World quarter, which keeps Varūn. Nevara is struck from canon. The Accord's doctrine that the New World was chartered from nothing, with no older law to displace, is true of the arc and of the arc alone.*
 
 ---
 
@@ -36,7 +45,7 @@ Ash plains that carry a crop in three seasons and bury a village in one night. C
 
 ## Bearing Stock
 
-**Alchemelt Brick** · *T2 · Synthetic stone · Artisan guilds of Nevara*
+**Alchemelt Brick** · *T2 · Synthetic stone · Artisan guilds of the arc*
 Volcanic ash ground with burnt lime and water, which sets hard, sets fast, and **sets underwater.** This last property is why the eastern quarter is building deep-water harbours at a rate the west finds indecent while western harbours silt shut. It resists ambient magic and crumbles under sustained structural stress, so it is used for floors, foundations, moles, and cisterns rather than for anything that must span. Bearing moderate, Holding deliberately low. Family Materia, Domain Material Science.
 **Pumice Float** · *T1 · Stone · Caldera ignimbrite sheets, universal*
 Abrasive, filtration medium, and lightweight fill. Floats. Rafts of it come down the rivers after an eruption thick enough to walk on for a week, *which has killed a number of people who tried.*
@@ -44,6 +53,8 @@ Abrasive, filtration medium, and lightweight fill. Floats. Rafts of it come down
 The red caprock. Useless as stone, useless as soil, and the feedstock for Cloudmetal. Bearing poor, Holding nil.
 **Roughgold** · *T2 · Metal · Placer bars, black-sand rivers*
 Won by hand, by anyone, with no permission from anyone, **which has produced the eastern quarter's characteristic political condition.** Carries Benediction and Sublimatio well, which makes it the standard substrate for ecclesiastical and oath work. Bearing soft, Holding high.
+**Ironwood** · *T3 · Wood · Deep forest of Eresse, the elven old-ground*
+Hardened to the equivalent of tempered steel, prized by the elves for ceremonial bows and shamanic staves, and cut under restrictions that make it **functionally unavailable to industry.**
 
 ---
 
@@ -67,6 +78,8 @@ Sublimate sulphur, collected by hand off the vent rims by men who work in wet cl
 Sparks a mild magical flame when struck. Field-mage survival stock, and **the single most widely distributed Essence-active object in the eastern quarter by simple count.**
 **Seerstone Resin** · *T4 · Liquid essence · Canopy trees, eastern cloud forest, provisional attribution*
 Stores visions and is dangerously volatile. Provenance recorded on the strength of the resin's physical character and the tree species involved. *This attribution has not been confirmed by the Archives Division and is flagged accordingly.*
+**Glacium** · *T5 · Frost-infused mineral · Iampu, the elven old-ground, grown in the ice-caves under Winter Court licence*
+Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Family Caloria, Domain Thermodynamics.
 
 ---
 
@@ -88,5 +101,5 @@ The exception is the eastern arc, which has built the only permanent heavy indus
 
 ## Trade Posture
 
-Exports Cloudmetal, silver, gold, Onceglass, sulphur, and cement. Imports iron, tools, wolfram, credit, and expertise. **Owes the west heavily and resents it.**
-The Accord's Arbitration Division spends a disproportionate share of its calendar on eastern colonial rights, Wellspring access, and the question of whether an unregistered Onceglass charge is a weapon or a commodity.
+Exports Cloudmetal, silver, gold, Onceglass, sulphur, and cement. Imports iron, tools, wolfram, credit, and expertise. **The arc owes the west heavily and resents it.** *This is the arc's posture, not the elven old-ground's.*
+The Accord's Arbitration Division spends a disproportionate share of its calendar on the arc's colonial rights, Wellspring access, and the question of whether an unregistered Onceglass charge is a weapon or a commodity.

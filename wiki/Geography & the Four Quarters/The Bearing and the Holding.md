@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8189-b4e1-fc17e809c714"
 notion_url: "https://app.notion.com/p/The-Bearing-and-the-Holding-3b158200eb228189b4e1fc17e809c714"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Geography", "In-World Document"]
-last_edited: "2026-09-12T17:02:00.000Z"
+last_edited: "2026-09-12T20:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -61,7 +61,7 @@ The tenders who work the arrays pay for this in the ordinary way. Long array dut
 |---|---|---|
 | **North** · Inner World | Iron, nickel, copper, salt, beryl, timber | Cheap array heat, expensive everything else |
 | **West** · Old World | Wolfram, tin, lead, coal, lime, reworked slag | Total array dependency for survival, not production |
-| **East** · New World | Gold, silver, sulphur, cement, Onceglass, Cloudmetal | Almost no array dependency outside the eastern arc |
+| **East** · New World | Gold, silver, sulphur, cement, Onceglass, Cloudmetal — the arc's; the elven old-ground beside it lies outside this ledger | Almost no array dependency outside the eastern arc |
 | **South** · Outer World | Phosphate, nitre, chromite, fulgurite, serpentine | Extraction by hand at scale, value added elsewhere |
 
 ---

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-814d-9056-edb0fc9827f2"
 notion_url: "https://app.notion.com/p/The-Eight-Families-the-Sixty-Wellsprings-3b158200eb22814d9056edb0fc9827f2"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-12T20:06:00.000Z"
 verification: "unverified"
 ---
 
@@ -51,7 +51,7 @@ The way groundwater is not stored in a specific container but absolutely collect
 | Condition | Why it matters |
 |---|---|
 | **Conductive substrate** | The era-one emplacement described in *The Four Ceilings* laid the mineral foundation during the Creation Age |
-| **Absence of competing currents** | **This is why the New World holds so many pristine sites at densities the Old World has not seen since the Antediluvian Calendar.** *Nobody has been drawing from them. The veins are full* |
+| **Absence of competing currents** | **This is why the New World's arc holds so many pristine sites at densities the Old World has not seen since the Antediluvian Calendar.** *Nobody has been drawing from them. The veins are full. The elven old-ground beside the arc is the opposite case: its Wellsprings have been drawn on since the first Eon* |
 | **Time** | Enough for the current to saturate the field **until the environment starts expressing the law as a passive condition of the geography** |
 
 ### The second mode · Object Wellsprings
@@ -99,7 +99,7 @@ A current captured, bound, or naturally accumulated inside a vessel produces **a
 | Density | Condition |
 |---|---|
 | **Ambient Saturation** | The most common condition across the mapped world. **A Sage can tune to it. An ordinary person feels vaguely uneasy or peaceful.** The landscape carries subtle signs |
-| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most New World concentrations found during the Voyager Era* |
+| **Active Concentration** | Dense enough for persistent environmental effects. Wild sites show altered terrain; Spirit sites produce involuntary physiological or psychological change; **Medium sites produce bidirectional effects indistinguishable from illness or hallucination.** **A practitioner remaining too long receives Wellspring Baptism whether they wanted it or not.** *Most concentrations on the New World's arc found during the Voyager Era; the elven old-ground's have been drawn on since the first Eon* |
 | **Veil-Thin Nexus** | **The Veil between planes thins.** Spiritual entities become visible. Causal threads are perceptible. **Time feels wrong.** Bifold Perception onset without training, involuntary Soul Drift, Echo Beast manifestation |
 | **Wellspring Core** | **The current's origin point. The aquifer's source.** Extraordinarily rare, mostly New World, mostly unmapped. **The physical and metaphysical environments are indistinguishable, and the law the Wellspring carries is the only law operating.** *Walking into a Core unprepared is Wellspring Baptism at maximum intensity with no exit plan* |
 

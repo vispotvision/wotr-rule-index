@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8150-9ba0-c911e21c22e9"
 notion_url: "https://app.notion.com/p/The-Old-World-The-Western-Wearing-3b158200eb2281509ba0c911e21c22e9"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-12T18:53:00.000Z"
+last_edited: "2026-09-12T20:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -44,8 +44,6 @@ The standard armament and structural iron of the western kingdoms. Durable again
 > Bearing moderate and inconsistent, Holding erratic. Resonance: Anamnesis, unwelcome. Family Materia, Domain Material Science.
 **Palegrit Limestone** · *T2 · Stone · Platform carbonate across the central west*
 Ashlar for building, lime for mortar, and flux for every iron furnace in the quarter. Three uses, one quarry, and the reason the western kingdoms build in pale stone while the north builds in grey. Karst country: the same rock dissolves, which gives the west its cave systems, its sinkholes, and its habit of losing rivers underground for leagues at a time. Bearing good, Holding poor.
-**Ironwood** · *T3 · Wood · Deep forest of Eresse*
-Hardened to the equivalent of tempered steel, prized by the elves for ceremonial bows and shamanic staves, and cut under restrictions that make it **functionally unavailable to industry.**
 **Veinwood Plank** · *T2 · Wood · Mountain trees of Varūn*
 Semi-hardened grain, briefly enchantable, standard stock for ritual shields.
 **Kirkyard Lead** · *T2 · Metal · Galena in the limestone belt, worked with the silver*
@@ -64,8 +62,6 @@ Roofing, coffin lining, pipe, shot. Industrially it matters for one reason: **le
 Bronze, solder, and the tinning of array contacts. Contact corrosion in a working glyph array is a slow, invisible, cumulative failure, and a tinned contact does not corrode. **Unglamorous, essential, and running out.** The stream works were exhausted six generations ago and the lodes are now worked at depths that only exist because of the pumps. Bearing moderate, Holding moderate. Resonance: Coagulatio. Family Materia, Domain Material Science.
 **Attercrop Vitriol** · *T2 · Liquid reagent · Drainage of abandoned workings, universal in the west*
 Green vitriol, drawn off where pyrite in old spoil weathers into acid water. It is the poison in the orange rivers and it is also, refined, the mordant that fixes ritual ink to any organic substrate. **The same fluid that killed the Aerne valley writes the Accord's own codices.** Western alchemists have stopped remarking on this. Resonance: Dissolution. Family Materia, Domain Material Science. Blinds on contact with the eye and does so without warning, since it does not burn on the skin at working dilution.
-**Glacium** · *T5 · Frost-infused mineral · Iampu, grown in the ice-caves under Winter Court licence*
-Not quarried in any ordinary sense. **Grown**, slowly, in caverns held below freezing for the purpose, in a process the Winter Court does not document and does not permit inspection of. Frost-bound weaponry and the frost-infused stock that supplements Iampu's gold in the mercenary trade. Bearing brittle, Holding high and narrow. Resonance: Vohrin. Family Caloria, Domain Thermodynamics.
 **Psionite** · *T4 · Mineral · Varūn deep workings*
 Mental fortification stock, worked only by psionically attuned Varūn dwarves under the Psionic Mastery Code. Effectively unavailable outside the kingdom.
 **Vellun Copper** · *T1 · Metal · Source hills unlocated*
@@ -97,11 +93,11 @@ Exports finished goods, worked metal, wolfram, tin, expertise, and credit. Impor
 
 > **Resolved — the two Old Worlds.** Three ways out; option two taken:
 >
-> **One.** The four-quarter ledger is older and the geography document supersedes it. Then this page's Formation, Ground and stock sections are dead canon, and Eresse, Varūn and Iampu need rehousing in another quarter.
+> **One.** The four-quarter ledger is older and the geography document supersedes it. Then this page's Formation, Ground and stock sections are dead canon, and Varūn needs rehousing in another quarter.
 >
 > **Two.** The geography document describes a **different landmass** that has been carrying the wrong name. Cheapest fix: rename it and give it its own page. The Outer World doc and *The Outer World — The Southern Pan* rhyme closely enough that the same test should be run there before assuming the whole doc set is misfiled.
 >
 > **Three.** Two scales, one name — the quarter and the continent are different objects that happen to collide in the word. Untenable as written; would need one of the two renamed regardless.
 >
 > *The read here: option two. The Kushara material is internally coherent, has eight houses, a named sovereign and twelve regions built out to wildlife level, and does not want to be a quarter of anything. The four-quarter ledger is load-bearing for the Inner World and the whole materials system. Cheaper to move the continent than the ledger.*
-> **Ruled 2026-09-12.** Kushara — the continental orientation, the Twelve Great Regions, the city of Kushara, its mountain systems, and the Eight Great Houses — has been split out to its own page: [Kushara — The Land That Remembers Weight](https://app.notion.com/p/Kushara-The-Land-That-Remembers-Weight-3d958200eb22816bb1b5ca90d76b68d9). This page keeps only the actual Old World quarter above — Formation, The Ground Itself, Bearing Stock, Holding Stock, The Works, What It Costs, Trade Posture — Eresse, Varūn, Iampu. *Altherion is not an Old World polity: ruled 2026-09-12, it sits on the Inner World's northern rim, under Stannvaard.* See also [The Eight Great Houses of Kushara](https://app.notion.com/p/The-Eight-Great-Houses-of-Kushara-3bd58200eb2281828f5dcd4d842be424) for the Sovereign House and Seven Pillars in full.
+> **Ruled 2026-09-12.** Kushara — the continental orientation, the Twelve Great Regions, the city of Kushara, its mountain systems, and the Eight Great Houses — has been split out to its own page: [Kushara — The Land That Remembers Weight](https://app.notion.com/p/Kushara-The-Land-That-Remembers-Weight-3d958200eb22816bb1b5ca90d76b68d9). This page keeps only the actual Old World quarter above — Formation, The Ground Itself, Bearing Stock, Holding Stock, The Works, What It Costs, Trade Posture — Varūn. *Eresse and Iampu are not Old World polities either: ruled 2026-09-12, they and every elven branch — Rovann, the Sylvaar Dream Groves and the Echo Elves' Longhouse Accord with them — sit in the New World's elven old-ground, beside the arc the Accord chartered. Ironwood and Glacium go with them; both are now entered on the New World page.* *Altherion is not an Old World polity: ruled 2026-09-12, it sits on the Inner World's northern rim, under Stannvaard.* See also [The Eight Great Houses of Kushara](https://app.notion.com/p/The-Eight-Great-Houses-of-Kushara-3bd58200eb2281828f5dcd4d842be424) for the Sovereign House and Seven Pillars in full.

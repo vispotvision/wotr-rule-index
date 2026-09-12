@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8134-ae74-ed9961e833f0"
 notion_url: "https://app.notion.com/p/The-Tongues-of-the-Realms-3d758200eb228134ae74ed9961e833f0"
 section: "Races & Peoples"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-12T20:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -42,7 +42,7 @@ These bind every grammar in the set. Anything a language document says that cont
 
 Two unrelated stocks, and one bridge.
 **The Old World stock.** Old Vaross and Khazalid descend from a common ancestor spoken before the Scattering, and both peoples would rather be dead than say so. The evidence is in the numerals and in the body-part roots, which is where relatedness always survives. The Accord's philologists published it four decades ago and were expelled from both the Keth-Gorrum and the Ore Council in the same season.
-**The Inner World stock.** Eressean, and behind it whatever the archaic bloodlines spoke before they crossed the water. Unrelated to the Old World stock at every level.
+**The New World stock.** Eressean, and behind it whatever the archaic bloodlines spoke before they crossed the water. Unrelated to the Old World stock at every level.
 **Accord Latin is the bridge, and it is nobody's mother tongue.** It was assembled, deliberately, as a neutral instrument for contracts between parties who could not read each other, and every polity in the four quarters has agreed to be measured in a language none of them dreams in. That agreement is the Accord's actual foundation, and it is more load-bearing than any treaty it has ever recorded.
 
 ### Document Format

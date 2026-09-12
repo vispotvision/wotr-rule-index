@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81a9-ba7e-d9c6acba22e4"
 notion_url: "https://app.notion.com/p/The-Material-Index-T0-T4-3b158200eb2281a9ba7ed9c6acba22e4"
 section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-12T18:52:00.000Z"
+last_edited: "2026-09-12T20:05:00.000Z"
 verification: "unverified"
 ---
 
@@ -59,7 +59,7 @@ verification: "unverified"
 | **Greaves Tin** *Holding · Metal · West* | Cassiterite, lode and stream-work | Coagulatio · Materia · Material Science | Bronze, solder, and the tinning of array contacts. **A tinned contact does not corrode, and contact corrosion in a working array is a slow, invisible, cumulative failure.** Unglamorous, essential, **and running out** |
 | **Attercrop Vitriol** *Holding · Liquid Reagent · West* | Drainage of abandoned workings | Dissolution · Materia · Material Science | **The same fluid that killed the Aerne valley writes the Accord's own codices.** Mordant fixing ritual ink to organic substrate. *Blinds on contact with the eye and does so without warning, since it does not burn the skin at working dilution* |
 | **Veinwood Plank** *Holding · Wood · West* | Mountain trees of Varun | — | Semi-hardened grain, briefly enchantable. **Standard stock for ritual shields across three kingdoms** |
-| **Alchemelt Brick** *Bearing · Synthetic Stone · East* | Artisan guilds of Nevara | Materia · Material Science | Volcanic ash ground with burnt lime and water. Sets hard, sets fast, **and sets underwater** — which is why the east builds deep-water harbours while western harbours silt shut. **Will not span** |
+| **Alchemelt Brick** *Bearing · Synthetic Stone · East* | Artisan guilds of the arc | Materia · Material Science | Volcanic ash ground with burnt lime and water. Sets hard, sets fast, **and sets underwater** — which is why the east builds deep-water harbours while western harbours silt shut. **Will not span** |
 | **Redcrust Laterite** *Bearing · Mineral · East* | Weathered flanks, wet eastern seaboard | — | The red caprock. Useless as stone, useless as soil, **and the feedstock for Cloudmetal.** *Everyone knew the metal was in it; only Caedor was willing to commit the array capacity* |
 | **Roughgold** *Holding · Metal · East* | Placer bars, black-sand rivers | Benediction, Sublimatio | **Won by hand, by anyone, with no permission from anyone** — which produced the eastern quarter's characteristic political condition **and the Great Inflation of the Voyager Era.** Ecclesiastical and oath work; bullion |
 | **Ember Flint** *Holding · Stone · East* | Foraye | — | Survival fire-starting. **The single most widely distributed Essence-active object in the eastern quarter by simple count** |
@@ -78,7 +78,7 @@ verification: "unverified"
 | **Blackcap Sulphide** *Holding · Metal Ore · North* | Melt sheet beneath the Kaetran Ring | Manganthra · Materia · Material Science | **Blackcap alloy keeps its temper inside a forge-array's working field, where ordinary steel goes soft and stupid.** Crucible tongs, array clamps, furnace door hinges. *Roasting fume kills vegetation for six leagues downwind* |
 | **Ghoststeel** *Holding · Metal · North, provisional* | Salvaged from Spirit War ruins | — | **Not mined. Salvaged.** Reflects spiritlight; partial phasing. Anti-spirit weaponry. **Nobody has yet reproduced it in a crucible**, and the provenance rests on ruin-siting evidence alone |
 | **Blacktooth Wolfram** *Holding · Metal Ore · West* | Sheeted veins in the granite cupolas | Ignivale, Exuroth · Caloria · Thermodynamics | **The answer to the vessel problem.** Highest melting point in the ledger. Nozzles, hearth crowns, array-furnace linings for all T4+ crucible work. **No glamour, no legend, and no substitute** — the Accord tracks every ton |
-| **Ironwood** *Bearing · Wood · West* | Deep forest of Eresse | — | Hardened to the equivalent of tempered steel. Ceremonial bows, shamanic staves, Yukari staves. **Cut under Eressian restrictions that keep it out of the trade entirely** |
+| **Ironwood** *Bearing · Wood · East* | Deep forest of Eresse | — | Hardened to the equivalent of tempered steel. Ceremonial bows, shamanic staves, Yukari staves. **Cut under Eressian restrictions that keep it out of the trade entirely** |
 | **Runebronze** *Holding · Metal · West* | Melt-forged with minor glyphs | — | **The first material in history designed to hold an inscription. Bronze is old law.** Oath-plates, boundary markers, guild charters. *Archaic, and increasingly the only kind there is* |
 | **Steelsilk Cord** *Bearing · Fabric / Thread · unconfirmed* | Spiderweavers of the Rovannian caverns | — | Suspends armour-weight loads; resists minor spells. Grappling harness, rigging, climbing line. **Rovann's quarter is unresolved in the Accord record** |
 | **Fangglass** *Holding · Crystallised Stone* | Unspecified | — | Shards that pierce magical wards. A hunter's consumable. **An early, cruder answer to the same market Onceglass now dominates** |

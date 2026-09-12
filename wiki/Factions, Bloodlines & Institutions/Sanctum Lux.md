@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8189-aaa8-ef337474c86e"
 notion_url: "https://app.notion.com/p/Sanctum-Lux-3b158200eb228189aaa8ef337474c86e"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-08-03T20:46:00.000Z"
+last_edited: "2026-09-12T20:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -177,7 +177,7 @@ The order's standing interest in locating those pieces is **the largest non-publ
 
 The **Grand Church of Sanctum Lux** stands in the Kingdom of **Altherion**, a multiracial republic with an Essence Resource Sharing Act and a Trade Equality Act **specifically drafted to prevent any single body from monopolising Wellspring access.**
 Seating an order of universal jurisdiction inside a republic constitutionally opposed to universal jurisdiction was Darius's decision, made in the fourth year of the rebuild, and it is the single most argued-over choice in the order's modern history. **His stated reasoning ran to one sentence: a court that cannot be evicted is not a court.**
-A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adjacent to the Archives Eternal **and pointedly not inside them.** Chapter holds operate in Eresse, in Foraye, and in Nevera.
+A permanent legation sits at the Concord Citadel, staffed at Arbiter grade, adjacent to the Archives Eternal **and pointedly not inside them.** Chapter holds operate in Eresse and in Foraye. *The Nevera hold is struck (ruled 2026-09-12; Nevara is not a place).*
 > **The Hall of Equal Breath is in none of these places.**
 >
 > Sel-Ur is housed at **Meridian Hold**, whose location does not appear in any Accord filing, whose garrison is drawn exclusively from Measurewrights who have taken a second oath, **and which the order describes in public documents as a training facility.**

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8103-afb2-e1698a94b6cd"
 notion_url: "https://app.notion.com/p/Geography-the-Four-Quarters-3b158200eb228103afb2e1698a94b6cd"
 section: "Geography"
 tags: ["Geography", "Trade & Economy", "Materials"]
-last_edited: "2026-09-11T03:46:00.000Z"
+last_edited: "2026-09-12T20:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 flowchart TB
     N["THE INNER WORLD · NORTH<br>old cold shield, glaciated<br>one impact ring, one salt basin"]
     W["THE OLD WORLD · WEST<br>worn collisional belt<br>granite cupolas, coal foreland, karst"]
-    E["THE NEW WORLD · EAST<br>live volcanic arc<br>young, wet, still building itself"]
+    E["THE NEW WORLD · EAST<br>elven old-ground and the chartered arc<br>the arc: young, wet, still building itself"]
     S["THE OUTER WORLD · SOUTH<br>old dry craton, flood basalt<br>ophiolite, pans, bone-beds, the Crevice"]
     N -->|"raw ore, on credit"| W
     E -->|"gold, silver, Onceglass"| W
@@ -35,7 +35,7 @@ All four were emplaced in the **First Eon**, which under the Concordance closes 
 |---|---|---|---|
 | **North** · Inner World | Old cold shield, glaciated, one impact ring, one salt basin | Superb bearing stock, high ambient Essence, no infrastructure | Cheap array heat, expensive everything else |
 | **West** · Old World | Worn collisional belt, granite cupolas, coal foreland, karst | Deepest workings, most complete infrastructure, exhausted ground and depleted Essence | **Total array dependency for survival, not production** |
-| **East** · New World | Live volcanic arc, young, wet, mobile | Richest surface ore, self-supplying cement, mobile Wellsprings | Almost no array dependency outside the eastern arc |
+| **East** · New World | Live volcanic arc, young, wet, mobile — the chartered arc; the elven old-ground beside it lies outside this ledger | Richest surface ore, self-supplying cement, mobile Wellsprings | Almost no array dependency outside the eastern arc |
 | **South** · Outer World | Old dry craton, flood basalt, ophiolite, pans, bone-beds, Crevice | No array industry possible; materials requiring no processing | Extraction by hand at scale, value added elsewhere |
 
 > **The pattern worth stating plainly.** The quarter with the most Essence has the least industry. The quarter with the most industry has the least Essence. And the two quarters in between have each solved the problem by refusing to build anything that would create the dependency in the first place.

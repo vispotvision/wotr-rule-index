@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ce-a461-f576b5eb5111"
 notion_url: "https://app.notion.com/p/Elion-Drevas-The-Black-Cleric-3d958200eb2281cea461f576b5eb5111"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:36:00.000Z"
+last_edited: "2026-09-12T20:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -24,7 +24,7 @@ verification: "unverified"
 
 #### Affiliation
 
-**Former Sanctum Lux Lector**, expelled after the Mirrormass Incident, where he severed a Crevice-born Phenomenon by offering half his own Soul Crystal as tithe. Human, Aether-touched. Age 31. Origin Eresse, Old World, in a region he calls the Dominion of the Faithkeepers. **Now wanders the Inner Realms performing absolutions for those tainted by Wellspring corruption.**
+**Former Sanctum Lux Lector**, expelled after the Mirrormass Incident, where he severed a Crevice-born Phenomenon by offering half his own Soul Crystal as tithe. Human, Aether-touched. Age 31. Origin Eresse, New World, in a region he calls the Dominion of the Faithkeepers. **Now wanders the Inner Realms performing absolutions for those tainted by Wellspring corruption.**
 > **Catalyst Event · Stage IX, Invocation.** *This Stage's threshold is calling on Wellsprings, Titans or Archonic law as co-authors, so the Domain consolidates into something the Continuum will answer to.* Elion's came at the Crevice, the Titan Valmir's own scar in the world. **He didn't fight the Phenomenon that came out of it. He paid it off, in Crystal, and it left.** *The order that trained him has never forgiven the method, whatever it thinks of the result.*
 
 ---

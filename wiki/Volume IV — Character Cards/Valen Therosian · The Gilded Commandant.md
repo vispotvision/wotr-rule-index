@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-812c-ac2a-f1de377cc177"
 notion_url: "https://app.notion.com/p/Valen-Therosian-The-Gilded-Commandant-3bd58200eb22812cac2af1de377cc177"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T18:48:00.000Z"
+last_edited: "2026-09-12T20:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 > *"We do not preserve crowns by bowing to the cries of the broken. We preserve them by reminding the world why they still wear gold."*
 > **DEAD CANON.**
 >
-> **The Praetorian March was struck from canon and archived**, alongside Nevara and Kaetra. Valen is *High Admiral of the Praetorian March*, serving the **Empire of Praetoria** through its **Naval High Command** and **Council of Sovereigns.** None of it exists.
+> **The Praetorian March was struck from canon and archived**, alongside Nevara (confirmed struck by ruling 2026-09-12) and Kaetra. Valen is *High Admiral of the Praetorian March*, serving the **Empire of Praetoria** through its **Naval High Command** and **Council of Sovereigns.** None of it exists.
 >
 > **Separately, ruled 2026-09-12: High Admiral stands.** The Trello card title named a different office. That was a mislabel, not a second career, and the fleet commander the body describes is the character. *One office. The sheet never had two men in it, only two labels.*
 >

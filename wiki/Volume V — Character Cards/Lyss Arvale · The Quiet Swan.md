@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8138-8dda-f74ea5945f55"
 notion_url: "https://app.notion.com/p/Lyss-Arvale-The-Quiet-Swan-3d958200eb2281388ddaf74ea5945f55"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:30:00.000Z"
+last_edited: "2026-09-12T20:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 **Name** · Lyss Arvale. **Called** · The Quiet Swan. The White-Feather Cantor.
 **Epithet** · Voice That Turns the Wind.
 **Role** · **Oath Witness. Cantor. Escort of treaties through war-weather.** *Combatant and scholar hybrid, escort teams.*
-**Race / Lineage** · Human, of Eressean line and a Choir-ward initiate. Inner World, the High March of Eresse. *Eressean here is a register of descent and nothing else.*
+**Race / Lineage** · Human, of Eressean line and a Choir-ward initiate. The New World, the High March of Eresse. *Eressean here is a register of descent and nothing else.*
 **Era** · Withering Era. **Status** · Active; Chamber-cleared, travelling magistracy escort.
 **Gloss rights** · **Yes.** *She names her arts aloud in a tribunal voice and other people repeat them.*
 

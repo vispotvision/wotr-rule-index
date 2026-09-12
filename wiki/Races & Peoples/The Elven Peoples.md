@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8197-b0d0-f26f80eb9f1c"
 notion_url: "https://app.notion.com/p/The-Elven-Peoples-3b158200eb228197b0d0f26f80eb9f1c"
 section: "Races & Peoples"
 tags: []
-last_edited: "2026-08-03T20:21:00.000Z"
+last_edited: "2026-09-12T20:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -44,6 +44,7 @@ Florwyn sang the Realmsong of Edenis and the **Vey-Elarin** were tuned into bein
 The branch that answered the Great Spirit War **by tightening, not loosening.** Where the High Empire's Wheel of Given Seasons was a shared, informal rhythm, the Eressean formalized it into Parunic ritual law, fixed rite, and the crystalline court culture the wider world now associates with elves generally.
 This is not a betrayal of the Kinship Doctrine from the Eressean's own perspective. It is the Doctrine taken with maximum seriousness: if the land is owed a promise, the promise should be kept in exactly the same words, exactly the same order, every single time, **because a people who improvise their reverence are a people already halfway to abandoning it.**
 > Velthaeir, the Floating Archive-City, is not a monument to Eressean vanity. **It is a monument to Eressean terror of forgetting anything correctly.**
+Its seat is **Vaelmarr**, where the **Sunroot Court** — Saeloria's court — sits and votes; Velthaeir keeps the record apart from it, entering everything and publishing nothing. The whole of it, and every daughter-branch below, stands on the elven old-ground of the **New World**, the Eastern Rise — the older of its two landmasses — and nowhere in the Old World *(ruled 2026-09-12)*.
 
 ### Cultural traits
 

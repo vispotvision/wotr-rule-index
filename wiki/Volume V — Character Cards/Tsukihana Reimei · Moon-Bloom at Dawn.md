@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c4-8a25-f459e2b41374"
 notion_url: "https://app.notion.com/p/Tsukihana-Reimei-Moon-Bloom-at-Dawn-3d958200eb2281c48a25f459e2b41374"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:27:00.000Z"
+last_edited: "2026-09-12T20:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 **Name** · Tsukihana Reimei (月花黎明). **Called** · Moon-Bloom at Dawn. **The Pale Petal of Silence** · *Kinjirareta no Shizukana Ha.* Among the fae, *Hana-no-Kagami*, the Mirror That Blooms.
 **Role** · **Enforcement Division, Veil Arbiter Class** *(unattested)*. **Reflection-rite practitioner. The one cut that severs corruption and keeps the soul.**
 **Lineage** · Human, fae-tainted; the *Aether-Kissed* subtype. *Diluted Verdantia resonance from the fae strain gives her aura the faint luminescence of moon-lit petals.*
-**Realm of origin** · Eresse, Old World; the border province of Kael'Nir forests *(unattested)*, where fae and human treaties once entwined bloodlines under moonlight. Born in the village of Hane-no-Tera *(unattested)*.
+**Realm of origin** · Eresse, New World; the border province of Kael'Nir forests *(unattested)*, where fae and human treaties once entwined bloodlines under moonlight. Born in the village of Hane-no-Tera *(unattested)*.
 **Gloss rights** · **Never.** *Her silence carries both empathy and warning. She does not explain the cut.*
 
 #### Affiliation

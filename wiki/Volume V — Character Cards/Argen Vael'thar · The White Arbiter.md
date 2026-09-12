@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-8139-e393091aeea5"
 notion_url: "https://app.notion.com/p/Argen-Vael-thar-The-White-Arbiter-3d958200eb2281e98139e393091aeea5"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:26:00.000Z"
+last_edited: "2026-09-12T20:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 
 **Name** · Master Argen Vael'thar. **Called** · The White Arbiter. *Merciful Iron.*
 **Role** · **Prime Arbiter of the Concord Council. Head of the Arbitration Division. Overseer of every Concord Trial and Severance.**
-**Lineage** · Human, born in Eresse, Old World. *His family traces to early law-keepers who mediated between the Dawn Guard and the First Accord* (kept as the card gives it; see the migration note), *which grants him both noble and sacred authority.*
+**Lineage** · Human, born in Eresse, New World. *His family traces to early law-keepers who mediated between the Dawn Guard and the First Accord* (kept as the card gives it; see the migration note), *which grants him both noble and sacred authority.*
 **Symbol** · A silver scale overlaid with a broken circle: *balance preserved through fracture.*
 **Gloss rights** · **Unlimited.** *He quotes sections of the Codex mid-conversation as if they were scripture. The diagnostic mouth is his profession.*
 

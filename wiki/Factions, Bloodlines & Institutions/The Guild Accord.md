@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-816a-bcc2-c148358fb25e"
 notion_url: "https://app.notion.com/p/The-Guild-Accord-3b158200eb22816abcc2c148358fb25e"
 section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "In-World Document"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-12T20:05:00.000Z"
 verification: "unverified"
 ---
 
@@ -113,7 +113,7 @@ Every Concord agent, from the lowest courier to the Chosen of the Codex, abides 
 The ranks and what they cost. The currency of remembrance and the nine ways a soul is unmade. The Division that is not named. The network that carries everything. The army bound by resonance rather than nationality. And the city that is not a city.
 > **The Modern Era page** is the newest and the one to open first if you are writing a scene rather than checking a rank.
 >
-> **Reach.** Strongest in the New World, chartered from nothing so that the Accord is not one jurisdiction among several but *the* jurisdiction; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
+> **Reach.** Strongest on the New World's arc, chartered from nothing so that the Accord is not one jurisdiction among several but *the* jurisdiction, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
 >
 > **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
 >

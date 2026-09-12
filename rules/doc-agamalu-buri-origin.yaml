@@ -1,0 +1,429 @@
+# Canon Amendment: The Agamalu Homeland, The Büri Origin, The Striking of
+# Sātūlagi, Name Corrections. Standalone doc, no pack number; R21 in the
+# four-document Büri/Moto naming cluster (R20 oldest, R23 newest). Written
+# before the Büri-to-Moto reversion (Moto Reversion Ledger, R22), so all
+# character/house names here are "Büri" -- superseded by R22's mapping
+# where a specific character or house is named, even though the
+# underlying canon facts (locations, rulings) carry forward under the new
+# names. "All content in this amendment is proposed canon pending Isaac's
+# ratification, excepting the four rulings in Section I, which are
+# Isaac's own direction" (closing lines) -- Section I is status:live,
+# everything else status:proposed unless separately marked pending.
+# Mostly worldbuilding/lore content is not extracted row-by-row per
+# BRIEF's exclusion of rationale and scene-setting description; this file
+# keeps the rulings, the name correction, and the open items.
+pack: Canon Amendment, Agamalu and Büri Origin
+pack_number: null
+source_file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+ratified: null
+rules:
+
+  - id: R21-1-SATULAGI_STRUCK
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "I"
+    title: Sātūlagi struck from canon, never existed
+    status: live
+    kind: repeal
+    summary: >-
+      The Malō of Sātūlagi does not exist and never did; the Büri hold one
+      seat and it is Kharven.
+    verbatim: >-
+      Sātūlagi | Struck from canon. The Malō of Sātūlagi does not exist
+      and never did. The Büri hold one seat and it is Kharven.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "11"
+    notes: >-
+      "The Büri hold one seat" is superseded in naming terms by the Moto
+      Reversion Ledger (R22): the house is now the Moto bloodline, the
+      seat itself (Kharven) is unaffected by the name reversion.
+
+  - id: R21-1-BURI_ORIGIN_RULING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "I"
+    title: The Büri/Moto origin is the western reach, not the Old World
+    status: live
+    kind: definition
+    summary: >-
+      The Büri origin is the western reach of the Inner World's northern
+      shield, not the Old World.
+    verbatim: >-
+      The Büri origin | The western reach of the Inner World's northern
+      shield. Not the Old World.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "13"
+    notes: >-
+      Retitled "The Moto Origin, The Western Reach" per the Moto Reversion
+      Ledger's Notion title list (R22); the location fact carries forward
+      unchanged under the new name.
+
+  - id: R21-1-AGAMALU_HOMELAND_RULING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "I"
+    title: The Agamalu homeland is Vāimoana
+    status: live
+    kind: definition
+    summary: >-
+      The Agamalu homeland is Vāimoana, an archipelago in the open water
+      between the Old World's northern coast and the Inner World's
+      western shield.
+    verbatim: >-
+      The Agamalu homeland | Vāimoana, an archipelago in the open water
+      between the Old World's northern coast and the Inner World's
+      western shield.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "14"
+    notes: null
+
+  - id: R21-1-QUEEN_OF_KHARVEN_RULING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "I"
+    title: The Queen of Kharven is Filemu Agamalu
+    status: live
+    kind: repeal
+    summary: >-
+      The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
+    verbatim: >-
+      The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+    amends: null
+    supersedes: []
+    applies_to: [naming, character-sheet, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "15"
+    notes: null
+
+  - id: R21-2-FILEMU_NAME_CORRECTION
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "II"
+    title: The Ayame Yuno card carried a wrong name and a wrong bloodline
+    status: proposed
+    kind: definition
+    summary: >-
+      "Ayame" is a Japonic given name that was sitting on a Samoan
+      surname, and the card also carried the wrong bloodline entirely;
+      both are corrected to Filemu Agamalu.
+    verbatim: >-
+      Ayame is a Japonic given name that was sitting on a Samoan surname,
+      and the card also carried the wrong bloodline entirely. Both are
+      corrected.
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: replaces
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "19"
+    notes: null
+
+  - id: R21-2-FILEMU_FULL_NAMING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "II"
+    title: Filemu Agamalu's four-slot name
+    status: proposed
+    kind: definition
+    summary: >-
+      Personal name Filemu (peace/quiet/calm, conferred at birth by the
+      mother's family); aiga Agamalu, Manono Branch; matai title Tausi o
+      le Vā Atoa (Keeper of the Whole Vā); Ava-name Le Ie Tuuina Atu (the
+      fine mat that was given away) — Kharven's records call her Queen,
+      the Agamalu gafa records her as a debt the house placed in the
+      north, and the discrepancy between the two names is itself the
+      political fact.
+    verbatim: >-
+      Personal name Filemu. Peace, quiet, calm. Conferred at birth by the
+      mother's family.
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [naming, character-sheet, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "23"
+    notes: >-
+      This card's Ava-name slot is the same mechanism the Naming Guide
+      Amendment's "Agamalu addition" describes (R20-2-AGAMALU_ADDITION_STRUCK),
+      which the Inner World Naming Amendment later strikes as applied to
+      Moto naming specifically — but the Moto Reversion Ledger says
+      Filemu Agamalu and the whole Agamalu house "keep Polynesian
+      register, which the amendment never governed." Whether this card's
+      own Ava-name survives is the real ambiguity flagged in CONFLICTS.md;
+      this row is left status:proposed (its own pre-existing status,
+      unrelated to that ambiguity) rather than resolved either way.
+
+  - id: R21-3-VAIMOANA_GOVERNANCE
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "III"
+    title: Vāimoana is a confederation of aiga, not a kingdom
+    status: proposed
+    kind: definition
+    summary: >-
+      Vāimoana is a confederation of aiga governed by fono, with no king,
+      standing army, or Guild Accord charter; Kharven's marriage to the
+      house is its only formal mainland tie, ratified as a feagaiga
+      between houses — Kharven believes it gained an ally, the Agamalu
+      believe they placed an obligation, and both are correct.
+    verbatim: >-
+      Not a kingdom. A confederation of aiga governed by fono, with no
+      king, no standing army, and no charter with the Guild Accord.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "70"
+    notes: null
+
+  - id: R21-3-VAIMOANA_ESSENCE_STABILITY
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "III"
+    title: Vāimoana has the most stable Essence saturation ever recorded
+    status: proposed
+    kind: definition
+    summary: >-
+      Nothing drifts at Vāimoana, the most stable saturation recorded
+      anywhere in the four quarters, which is why Agamalu rites hold
+      across generations without correction and why the Accord's Research
+      Division has been declined four times, without explanation, on
+      requests to establish a station there.
+    verbatim: >-
+      Moderate, and by every Measurewright reading ever taken, the most
+      stable saturation recorded anywhere in the four quarters. Nothing
+      drifts at Vāimoana.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "68"
+    notes: null
+
+  - id: R21-4-BURI_LANDLESS_LINES
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "IV"
+    title: The six non-crown lines are landless with Sātūlagi struck
+    status: proposed
+    kind: definition
+    summary: >-
+      With Sātūlagi struck, the six non-Kōkan/non-crown lines are
+      landless; every line's ambition must route through Kharven or
+      through nothing, which is the condition that produced the Tenrai's
+      correction and has not changed since.
+    verbatim: >-
+      With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai,
+      Tenrai, Amagiri and the rest hold inherited authority with no ground
+      to exercise it on, and every line's ambition must route through
+      Kharven or through nothing.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "98"
+    notes: >-
+      Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the
+      post-reversion Japonic names per the Moto Reversion Ledger (R22 §III),
+      not the earlier Mongolian ones — this document is internally mixed,
+      using "Büri" for the house/individuals but already using the
+      reverted line names in this specific passage.
+
+  - id: R21-4-RUIN_OPEN_RULING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "IV"
+    title: What ruined the ancestral seat is undecided
+    status: pending
+    kind: definition
+    summary: >-
+      The residual saturation Saruul reads at the ancestral seat is
+      consistent with mass death rather than slow abandonment; Malakar's
+      splitting is the obvious answer and probably the wrong one, since
+      glaciation doesn't leave that kind of imprint and a massacre does.
+    verbatim: >-
+      The seat is described as ruined, and the residual saturation Saruul
+      reads there is consistent with mass death rather than slow
+      abandonment. What ruined it, and when, is undecided.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "102"
+    notes: null
+
+  - id: R21-5-ISLAND_NAME_PENDING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "V"
+    title: Vāimoana, Vāitele, or Tuāoi
+    status: pending
+    kind: definition
+    summary: >-
+      Whether the island name is confirmed as Vāimoana, or Vāitele (the
+      great space), or Tuāoi (the boundary).
+    verbatim: >-
+      The island name | Vāimoana confirmed, or Vāitele, or Tuāoi.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "108"
+    notes: null
+
+  - id: R21-5-FILEMU_VOICE_PENDING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "V"
+    title: Filemu's voice, proposed as lauga register
+    status: pending
+    kind: definition
+    summary: >-
+      Proposed as lauga register — sentences arrive with the weight of
+      something already decided, not from volume but because a fono has
+      been trained for centuries to receive that cadence as close to law;
+      she almost never raises her voice or repeats herself, distinguishing
+      her from Muken's iron silences.
+    verbatim: >-
+      Proposed as lauga register: the sentence arrives with the weight of
+      something already decided, not because it is loud but because a
+      fono has been trained for centuries to receive that cadence as close
+      to law.
+    amends: null
+    supersedes: []
+    applies_to: [dialogue, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "110"
+    notes: null
+
+  - id: R21-5-RESEARCH_DIVISION_PENDING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "V"
+    title: What the Research Division was declined is unwritten
+    status: pending
+    kind: definition
+    summary: >-
+      What the Agamalu declined to disclose to the Accord's Research
+      Division, four times, is unwritten; flagged as the best hook on the
+      Vāimoana entry.
+    verbatim: >-
+      The Research Division | What the Agamalu declined to disclose, four
+      times, is unwritten. Best hook on the Vāimoana entry.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "111"
+    notes: null
+
+  - id: R21-5-SONZAI_PENDING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "V"
+    title: Sonzai has no Notion card despite a canon Erasure act
+    status: pending
+    kind: definition
+    summary: >-
+      No Notion card exists for Sonzai; canon has him using a partial
+      Erasure during the Veilborne War to nullify a corrupted god's true
+      name, an enormous act with no character attached to it yet;
+      reference art is in hand.
+    verbatim: >-
+      Sonzai Büri | No Notion card exists. Canon has him using a partial
+      Erasure during the Veilborne War to nullify a corrupted god's true
+      name, which is an enormous act with no character attached to it.
+      Reference art is in hand.
+    amends: null
+    supersedes: []
+    applies_to: [character-sheet, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "113"
+    notes: >-
+      "Sonzai Büri" is renamed "Sonzai" outright per the Moto Reversion
+      Ledger (R22 §II: "Chuluun Büri → Sonzai, originated name dissolved").
+
+  - id: R21-5-MATERIAL_CULTURE_PENDING
+    pack: Canon Amendment, Agamalu and Büri Origin
+    pack_number: null
+    section: "V"
+    title: No Visual Aesthetic Guide pass exists for the bloodline
+    status: pending
+    kind: definition
+    summary: >-
+      No Visual Aesthetic Guide pass exists for the bloodline; proposed
+      elements are red enamel over dark steel as the crown-line pattern,
+      a beast-face boss, knotwork belt, fur mantle, robe-over-harness
+      silhouette, and a court-versus-campaign split.
+    verbatim: >-
+      Büri material culture | No Visual Aesthetic Guide pass exists for
+      the bloodline. Red enamel over dark steel as the crown-line pattern,
+      beast-face boss, knotwork belt, fur mantle, robe-over-harness
+      silhouette, and the court-versus-campaign split.
+    amends:
+      - guide: "WOTR_Visual_Aesthetic_Guide.md"
+        locus: null
+        operation: null
+    supersedes: []
+    applies_to: [worldbuilding, items]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
+      lines: "114"
+    notes: null

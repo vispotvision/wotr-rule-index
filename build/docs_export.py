@@ -273,8 +273,14 @@ def main() -> int:
         jobs[section] = (f"{len(items)} pages from the wiki section", items)
 
     scenes = []
-    for p in sorted(SCENES.glob("*.md")):
-        if p.name in SCENE_SKIP:
+    # reading order from scenes/ARCS.md when it exists; anything unlisted follows alphabetically
+    order = []
+    arcs = SCENES / "ARCS.md"
+    if arcs.exists():
+        order = re.findall(r"(?m)^-\s+(\S+\.md)", arcs.read_text(encoding="utf-8"))
+    files = sorted(SCENES.glob("*.md"), key=lambda p: (order.index(p.name) if p.name in order else len(order), p.name))
+    for p in files:
+        if p.name in SCENE_SKIP or p.name in ("CAST.md", "ARCS.md"):
             continue
         md, _ = strip_frontmatter(p.read_text(encoding="utf-8", errors="replace"))
         m = re.search(r"(?m)^#\s+(.+?)\s*$", md)

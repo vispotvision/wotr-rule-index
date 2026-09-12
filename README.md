@@ -96,6 +96,9 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `archive_scene(title, markdown)` | scenes/ + Notion Scene Archive + commit + push |
 | `log_ruling(rule_id, ruling)` | appends to `RULINGS.md`, pushed; applied to the YAML in the next Claude Code session |
 | `propose_rule(title, text, applies_to)` | appends to `proposals/PROPOSED.md`; folded into the next pack |
+| `scene_brief(beat, thread, scene_type, culture, characters)` | the pre-write template assembled from the rules, with FOW lines and the loadout |
+| `stale_names(scope)` | the Büri/Moto sweep: every file still carrying a struck term, with its governing form |
+| `cast_index()` | writes `scenes/CAST.md` (who appears where) and a `scenes/ARCS.md` reading-order skeleton |
 | `sync_now()` | runs `build/sync.ps1` |
 
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP

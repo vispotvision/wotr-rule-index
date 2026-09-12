@@ -451,6 +451,193 @@ def propose_rule(title: str, rule_text: str, applies_to: list[str], rationale: s
     return f"filed '{title}' as proposed; " + ("pushed" if pcode == 0 else f"push failed: {pout[-300:]}")
 
 
+# --------------------------------------------------------------------------
+# the Büri/Moto sweep, the pre-write brief, the cast index
+
+SOURCES = ROOT / "sources"
+
+
+def _reversion_map() -> list[tuple[str, str]]:
+    """Struck -> governs pairs, read from the Moto Reversion Ledger's tables plus the
+    Canon Amendment's Sātūlagi strike. Read at call time so the source stays authoritative."""
+    pairs: list[tuple[str, str]] = []
+    src = next(SOURCES.glob("*Moto_Reversion*"), None)
+    if src:
+        for ln in src.read_text(encoding="utf-8").split("\n"):
+            s = ln.strip()
+            if not s.startswith("|") or re.match(r"^\|\s*-", s):
+                continue
+            cells = [c.strip().strip("*").strip() for c in s.strip("|").split("|")]
+            if len(cells) >= 2 and cells[0] and cells[0] != "Struck":
+                pairs.append((cells[0], cells[1]))
+    pairs += [("Sātūlagi", "(struck; the Inner World / Kharven)"), ("Satulagi", "(struck)"), ("Buri", "Moto")]
+    # longest first so "Ajiin Devter" is reported before "Ajiin"
+    pairs.sort(key=lambda p: -len(p[0]))
+    return pairs
+
+
+@server.tool()
+def stale_names(scope: str = "all", max_files: int = 60) -> str:
+    """The Büri/Moto sweep: every wiki page and scene still carrying a struck
+    Büri-register term (from the Moto Reversion Ledger's tables: Büri, Ajiin, Altan,
+    Nüdel, Khar Ild, the Seven Works, Sātūlagi...). scope: all | wiki | scenes.
+    Returns per-file counts with the governing replacement, worst first. Nothing is
+    edited; the ruling is Moto in all new prose, old files flagged."""
+    roots = {"wiki": [WIKI], "scenes": [SCENES], "all": [WIKI, SCENES]}.get(scope, [WIKI, SCENES])
+    pairs = _reversion_map()
+    rx = {old: re.compile(r"(?<![\w\-])" + re.escape(old) + r"(?![\w\-])") for old, _ in pairs}
+    gov = dict(pairs)
+    results = []
+    total = 0
+    for root in roots:
+        for p in root.rglob("*.md"):
+            if p.name in ("INDEX.md", "MANIFEST.md", "CAST.md", "ARCS.md"):
+                continue
+            text = _read(p)
+            found = {}
+            for old, _ in pairs:
+                n = len(rx[old].findall(text))
+                if n:
+                    found[old] = n
+            if found:
+                # do not double count "Ajiin" inside "Söröl Ajiin"
+                lines = [ln for ln in text.split("\n") if any(rx[o].search(ln) for o in found)][:3]
+                cnt = sum(found.values())
+                total += cnt
+                results.append((cnt, p.relative_to(ROOT).as_posix(), found, lines))
+    results.sort(key=lambda r: -r[0])
+    out = [f"{len(results)} files still carry Büri-register terms ({total} hits) in {scope}. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets."]
+    for cnt, rel, found, lines in results[:max_files]:
+        terms = ", ".join(f"{o}×{n} [{gov.get(o, '?')}]" for o, n in sorted(found.items(), key=lambda x: -x[1]))
+        out.append(f"\n{rel}  ({cnt})\n  {terms}")
+        for ln in lines:
+            out.append(f"    > {ln.strip()[:140]}")
+    if len(results) > max_files:
+        out.append(f"\n... {len(results) - max_files} more files")
+    return "\n".join(out)
+
+
+@server.tool()
+def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", culture: str = "Kharven", characters: list[str] | None = None) -> str:
+    """The pre-write, assembled from the rules. Give the beat Isaac handed you; get back
+    the template you must fill before drafting: POV choice (write from whoever knows
+    least, R5-C1), what the POV knows / wrongly believes / the reader knows, the
+    ignorance-quota item, the misreading, the Single Act (battles), two Standing
+    Inventory items, the cost, the last line; plus FOW lines for the named characters
+    and the rule loadout for the scene type. Fill every blank in author notes, then draft."""
+    tags = LOADOUTS.get(scene_type, LOADOUTS["standard"])
+    rules, _ = _select(tags, ["live"])
+    pend, _ = _select(tags, ["pending", "proposed"])
+    inv = _inventory(culture)
+    recurrence = ""
+    m = re.search(r"\*\*Recurrence.*?:\*\*(.*?)(?:\.\s|\n)", inv, re.S)
+    if m:
+        recurrence = m.group(1).strip()
+    fow = []
+    for c in characters or []:
+        fow.append(fow_line(c).split("\n", 12)[0:12])
+    lines = [
+        f"# SCENE BRIEF — {scene_type}" + (f" — {thread}" if thread else ""),
+        f"Beat: {beat.strip()}",
+        "",
+        "## Fill before drafting (author notes)",
+        "1. POV: ____  (write from whoever knows least about what is coming, R5-C1-WRITE_FROM_LEAST_KNOWING; a default, breakable with reason)",
+        "2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)",
+        "3. Ignorance quota, one thing the POV notices and cannot interpret, unresolved this scene: ____  (R6-3-IGNORANCE_QUOTA)",
+        "4. Misreading, one confident inference that is wrong and stays wrong, well-reasoned: ____  (R6-4-MISREADING_BUDGET, R5-C1-WELL_REASONED_WRONG_CONCLUSION)",
+        "5. What it costs, specific and visible (reserve, body, debt, reputation, who saw): ____  (Table Rule 5; R12-1-PACK_SEVEN_SURVIVORS)",
+        "6. The lie: one thing an NPC says that is wrong and stays uncorrected (once per session): ____  (Table Rule 8)",
+        f"7. Standing Inventory, two minimum ({culture}): ____ and ____   (R6-9-RECURRENCE_RULE)" + (f"  — pick from: {recurrence}" if recurrence else ""),
+        "8. Ends on: ____  (physical action, an NPC line, or a thing he can now see; never a question at Isaac. Table Rule 1)",
+        "9. Length band: ____  (conversational 300–700 / standard 700–1,500 / set piece 2,500+; default the middle. Table Rule 2)",
+    ]
+    if scene_type in ("duel", "working"):
+        lines += [
+            "10. Each fighter's combat vocabulary, assigned before the technique (Blade / Verdict / Percussion / Expenditure): ____  (R1-1-THREE_VOCABULARIES_RULING)",
+            "11. The read: what evidence the POV gets, over which two or three exchanges, before anything kills (R12-3-COMBAT_EXCHANGE_OWES, R12-3-NAMED_INVENTOR_RULE): ____",
+            "12. Which two of the four explaining voices carry the mechanism (R12-4-VOICE_MIXING_RULE): ____",
+            "13. Stat that decides each contested action, by row (R14-3-STATS_DECIDE_TABLE, R14-3-TRACEABILITY): ____",
+        ]
+    if scene_type == "battle":
+        lines += [
+            "10. The Single Act: physical, unrepeatable, witnessed, ambiguous in the moment (R2-5-SINGLE_ACT_CONDITIONS): ____",
+            "11. The three who carry interiority; everyone else exterior (R1-3-NAME_THREE_RULE): ____",
+            "12. Practitioner POV closed during the engagement (R3-9-PRACTITIONER_POV_RULING): confirm ____",
+        ]
+    if fow:
+        lines += ["", "## FOW lines (never invent a number)"]
+        for block in fow:
+            lines += ["\n".join(block), ""]
+    lines += ["", f"## Rule loadout ({' '.join(tags)}) — {len(rules)} live, brief; call load_rules for full text", ""]
+    lines += [_fmt(r, full=False) for r in rules[:60]]
+    if len(rules) > 60:
+        lines.append(f"... {len(rules) - 60} more; load_rules gives all of them")
+    lines += ["", f"## Unratified for these tags: {len(pend)} (check_docket before writing if one would change the scene)",
+              "", "Then: draft → verify_scene (fix every FAIL) → post → archive_scene when finished."]
+    return "\n".join(lines)
+
+
+@server.tool()
+def cast_index(write: bool = True) -> str:
+    """Who appears in which scene. Matches every wiki character-card name (and the
+    voice roster) against scenes/, writes scenes/CAST.md and, if missing, a
+    scenes/ARCS.md reading-order skeleton grouped by the numbered prefixes. Returns
+    the cast list."""
+    names = set()
+    for p in WIKI.rglob("*.md"):
+        if "character card" in p.parent.name.lower() or p.parent.name in ("Characters", "Sodoku Moto", "Hild Ice (Stark) — The Sword Princess"):
+            stem = re.split(r"\s+[—·]\s+", p.stem)[0].strip()
+            if 3 <= len(stem) <= 40 and not stem.lower().startswith("volume"):
+                names.add(stem)
+    for n in ["Sodoku Moto", "Yoko Mishiro", "Emira", "Black Agent", "Cozbi Mahuo", "Lambert", "Pietro", "Hild Ice", "Renard Greymane",
+              "Dhaerin", "Rengai", "Niran", "Mira", "Haruki", "Verinus", "Darius", "Aurelian", "Charles", "Wren", "Dabney", "Kwon Mu-jin", "Ilthára", "Brida", "Dougou", "Rashani"]:
+        names.add(n)
+    scenes = sorted(p for p in SCENES.glob("*.md") if p.name not in ("MANIFEST.md", "CAST.md", "ARCS.md"))
+    texts = {p: _read(p) for p in scenes}
+    appear: dict[str, list[str]] = {}
+    for n in sorted(names):
+        first = n.split()[0]
+        rx = re.compile(r"(?<!\w)" + re.escape(n) + r"(?!\w)")
+        rx_first = re.compile(r"(?<!\w)" + re.escape(first) + r"(?!\w)") if len(first) >= 4 else None
+        hits = []
+        for p, t in texts.items():
+            c = len(rx.findall(t))
+            if c == 0 and rx_first:
+                c = len(rx_first.findall(t))
+            if c >= 2:
+                hits.append((c, p.name))
+        if hits:
+            hits.sort(key=lambda x: -x[0])
+            appear[n] = [f"{f} ({c})" for c, f in hits]
+    out = ["# Cast index", "", f"{len(appear)} named characters across {len(scenes)} scenes; count is mentions. Generated by WOTR MCP cast_index; regenerate after new scenes.", ""]
+    for n, files in sorted(appear.items(), key=lambda kv: -len(kv[1])):
+        out.append(f"## {n} ({len(files)} scenes)")
+        out.append(", ".join(files))
+        out.append("")
+    text = "\n".join(out)
+    if write:
+        (SCENES / "CAST.md").write_text(text, encoding="utf-8", newline="\n")
+        arcs = SCENES / "ARCS.md"
+        if not arcs.exists():
+            groups: dict[str, list[str]] = {}
+            loose = []
+            for p in scenes:
+                m = re.match(r"^(\d+)_([a-z]+)_", p.name)
+                if m:
+                    groups.setdefault(m.group(2), []).append(p.name)
+                else:
+                    loose.append(p.name)
+            a = ["# Reading order", "", "Edit freely: one heading per arc, scenes in order. docs_export.py compiles The Scene Archive in this order when the file exists.", ""]
+            for g, files in sorted(groups.items()):
+                a.append(f"## {g.capitalize()} arc")
+                a += [f"- {f}" for f in sorted(files)]
+                a.append("")
+            a.append("## Unplaced")
+            a += [f"- {f}" for f in loose]
+            arcs.write_text("\n".join(a) + "\n", encoding="utf-8", newline="\n")
+    return text
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--http", action="store_true", help="serve streamable HTTP on --port instead of stdio")

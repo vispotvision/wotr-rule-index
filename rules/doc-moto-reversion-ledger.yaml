@@ -299,7 +299,7 @@ rules:
     pack_number: null
     section: "VI"
     title: Hataraki no Sho is a new coinage, pending ruling
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       The Devter title was built during the amendment and has no Japonic
@@ -314,11 +314,13 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Resolved by Isaac's ruling, 2026-09-12, Claude Code session: Moto and Hataraki not Ajiin. The Moto register and the Hataraki coinage are ratified; the Büri register is dead."
     source:
       file: WOTR_Moto_Reversion_Ledger.md
       lines: "94"
-    notes: null
+    notes: >-
+      Ruled 2026-09-12: Hataraki stands (Isaac: "Moto and Hataraki not Ajiin"); the Hataraki no Sho coinage is ratified with it.
+
 
   - id: R22-6-SOHAI_LOSES_WORDPLAY
     pack: Moto Reversion Ledger
@@ -436,7 +438,9 @@ rules:
     source:
       file: WOTR_Moto_Reversion_Ledger.md
       lines: "132-148"
-    notes: null
+    notes: >-
+      Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
+
 
   - id: R22-10-MUKEN_CHILDREN_CONTESTED
     pack: Moto Reversion Ledger

@@ -1420,7 +1420,7 @@
     "pack_number": null,
     "section": "VI",
     "title": "Hataraki no Sho is a new coinage, pending ruling",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The Devter title was built during the amendment and has no Japonic original to restore; \"Sho\" (the written treatise) is coined rather than leaving a Mongolian word on a live page, pending ruling.",
     "verbatim": "Hataraki no Sho is originated. The Devter title was built during the amendment and has no Japonic original to restore, so I have coined one rather than leave a Mongolian word on a live page. Sho, the written treatise. Pending your ruling.",
@@ -1431,12 +1431,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Resolved by Isaac's ruling, 2026-09-12, Claude Code session: Moto and Hataraki not Ajiin. The Moto register and the Hataraki coinage are ratified; the Büri register is dead.",
     "source": {
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "94"
     },
-    "notes": null,
+    "notes": "Ruled 2026-09-12: Hataraki stands (Isaac: \"Moto and Hataraki not Ajiin\"); the Hataraki no Sho coinage is ratified with it.",
     "superseded_by": []
   },
   {
@@ -1538,7 +1538,7 @@
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "132-148"
     },
-    "notes": null,
+    "notes": "Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.",
     "superseded_by": []
   },
   {
@@ -2361,7 +2361,7 @@
     "pack_number": null,
     "section": "IX",
     "title": "The standing project brief still carries the struck Büri amendment",
-    "status": "pending",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "The standing project brief still carries a live section headed \"THE BÜRI CULTURAL AMENDMENT\" and a Büri voice roster; it cannot be edited from this session and needs replacing with this file or it will keep governing every session start.",
     "verbatim": "Your standing project brief still carries a live section headed THE BÜRI CULTURAL AMENDMENT and a Büri voice roster. I cannot edit that file. It needs replacing with this one or it will keep governing every session start.",
@@ -2372,12 +2372,12 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Resolved by Isaac's ruling, 2026-09-12, Claude Code session: Moto and Hataraki not Ajiin. The Moto register and the Hataraki coinage are ratified; the Büri register is dead.",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "112"
     },
-    "notes": null,
+    "notes": "Done 2026-09-12: the standing brief (desktop/NATALIE.md) carries \"Naming canon is Moto\" and no Büri section or roster.",
     "superseded_by": []
   },
   {

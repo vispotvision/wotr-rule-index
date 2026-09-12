@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-184 outstanding.
+182 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -98,17 +98,13 @@ Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the post-reversio
 
 > Lines Five to Seven still need functions. The names come back automatically because they are the received ones, but Shirogane, Akagane and Amagiri were never assigned governing functions in the source material. That ruling survives the reversion unchanged and is still open.
 
-## R22-6-HATARAKI_NO_SHO_PENDING — Hataraki no Sho is a new coinage, pending ruling
-
-*Moto Reversion Ledger VI, blocks: naming, worldbuilding*
-
-> Hataraki no Sho is originated. The Devter title was built during the amendment and has no Japonic original to restore, so I have coined one rather than leave a Mongolian word on a live page. Sho, the written treatise. Pending your ruling.
-
 ## R22-9-NOTION_BODIES_OUTSTANDING — Page bodies still read Büri; titles alone are not enough
 
 *Moto Reversion Ledger IX, blocks: documents, verification, naming*
 
 > Every page body still reads Büri. Titles are done; the text underneath is not.
+
+Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
 
 ## R23-12-ICE_ROLL_NAME_PENDING — Whether Hild and Robin Ice carry an unheard carried name
 
@@ -127,12 +123,6 @@ Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the post-reversio
 *Inner World Naming Amendment VIII, blocks: standing-inventory, worldbuilding*
 
 > Consequent trims to the Inventory: airag and the insult attached to refusing it, borts, aaruul, the deel, and Tengri are steppe items and should go or be renamed.
-
-## R23-9-BRIEF_NEEDS_REPLACING — The standing project brief still carries the struck Büri amendment
-
-*Inner World Naming Amendment IX, blocks: session-protocol, naming*
-
-> Your standing project brief still carries a live section headed THE BÜRI CULTURAL AMENDMENT and a Büri voice roster. I cannot edit that file. It needs replacing with this one or it will keep governing every session start.
 
 ## R23-9-SATULAGI_STAYS_DEAD_CONFIRM — Sātūlagi stays struck for a structural reason, needs confirming
 

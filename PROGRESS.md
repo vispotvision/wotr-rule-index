@@ -311,3 +311,14 @@ Not done: a fresh read-through for new live-vs-live contradictions created
 by these flips. `validate.py`'s mechanical check passes; CONFLICTS.md C-002
 (Filemu Agamalu's Ava-name) is now a clash between three *live* documents
 rather than two live and one proposed, which raises its priority.
+
+### 2026-09-12 — the Büri/Moto ruling: "Moto and Hataraki not Ajiin"
+
+Isaac's definitive ruling on the naming reversion, the docket's first
+blocking item. Applied: R22-6-HATARAKI_NO_SHO_PENDING resolved (the Hataraki
+coinage stands), R23-9-BRIEF_NEEDS_REPLACING resolved (NATALIE.md carries the
+Moto canon), both marked superseded with the ruling quoted in `ratified`.
+R22-9-NOTION_BODIES_OUTSTANDING stays pending with the mechanical sweep
+attached: reports/buri_sweep_2026-09-12.md lists 22 wiki pages (67 hits) and
+11 scenes (270 hits) still carrying Büri-register terms; WOTR MCP
+`stale_names` regenerates it. No prose was edited.

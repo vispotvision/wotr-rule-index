@@ -520,7 +520,7 @@ rules:
     pack_number: null
     section: "IX"
     title: The standing project brief still carries the struck Büri amendment
-    status: pending
+    status: superseded
     kind: procedure
     summary: >-
       The standing project brief still carries a live section headed "THE
@@ -536,11 +536,13 @@ rules:
     supersedes: []
     applies_to: [session-protocol, naming]
     verification: []
-    ratified: null
+    ratified: "Resolved by Isaac's ruling, 2026-09-12, Claude Code session: Moto and Hataraki not Ajiin. The Moto register and the Hataraki coinage are ratified; the Büri register is dead."
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "112"
-    notes: null
+    notes: >-
+      Done 2026-09-12: the standing brief (desktop/NATALIE.md) carries "Naming canon is Moto" and no Büri section or roster.
+
 
   - id: R23-10-CHINESE_SLOTS
     pack: Inner World Naming Amendment

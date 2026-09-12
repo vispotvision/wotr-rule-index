@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81fb-9d4d-cb0ca34046e5"
 notion_url: "https://app.notion.com/p/Iskaron-Thalnaris-Bearer-of-the-Fractured-Crown-3bd58200eb2281fb9d4dcb0ca34046e5"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-12T21:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,7 +12,7 @@ verification: "unverified"
 
 ### Bearer of the Fractured Crown · Creviceborne · Dissonance-Trapped · Age of Calamity
 
-> **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal and needs Isaac's ratification.** The stat allocation below is not invented — it is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
+> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation below is not invented — it is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 
 ---
 
@@ -154,7 +154,7 @@ Inside it, Aetheric withdrawal becomes difficult and planar bleed seals. Practit
 
 ### VIII. Open Rulings
 
-- **Every stat and Stage above is originated.** Ratify, adjust, or reject.
+- **Temperance Stage XI — ratified 2026-09-12.** Ratified as written (Isaac): Level 330, Coherence Band S, Grade SS with fracture risk above 700, ceiling 750 and structurally unstable, η ~0.86, matching the Sixteen Stages entry for Dissonance, trapped rather than passed through. The stats remain subject to the re-cost ruling of the same day.
 - **The old sheet gave him "Coagulation → Extraction → Sublimation" as a Wellspring path.** Those are Great Work operations from Alchemetrica, not a progression. Removed rather than translated.
 - **"Warden Brotherhood" and "Veil Concord"** appear in the legacy sheet and in no current canon document. Struck pending confirmation they exist.
 - **Chapter appearances** on the legacy sheet cite Chapters X, XII and XVII by number only, with no volume. Not carried across.

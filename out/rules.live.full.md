@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-485 live of 597 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+487 live of 599 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (25)
 
@@ -154,7 +154,7 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (57)
+## character-sheet (59)
 
 ### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
 
@@ -500,6 +500,18 @@ Establishes the Concordant Crystal as the general, reusable mechanism for a Soul
 The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
+
+### R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT [Stat Gates and Re-cost Ruling Standing Ruling]
+
+Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).
+
+> Density requires Body Path at Stage IV to exceed B, with inscription and glyph-chain durability requiring Spirit Path at Stage III to exceed C.
+
+### R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT [Stat Gates and Re-cost Ruling Standing Ruling]
+
+Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
+
+> Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.
 
 ## codex (35)
 
@@ -5328,7 +5340,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (34)
+## stats (36)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -5536,6 +5548,18 @@ Establishes the Concordant Crystal as the general, reusable mechanism for a Soul
 The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
+
+### R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT [Stat Gates and Re-cost Ruling Standing Ruling]
+
+Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).
+
+> Density requires Body Path at Stage IV to exceed B, with inscription and glyph-chain durability requiring Spirit Path at Stage III to exceed C.
+
+### R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT [Stat Gates and Re-cost Ruling Standing Ruling]
+
+Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
+
+> Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.
 
 ## verification (84)
 

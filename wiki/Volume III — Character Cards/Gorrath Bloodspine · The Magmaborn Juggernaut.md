@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-8125-b0e6-c71c9f049569"
 notion_url: "https://app.notion.com/p/Gorrath-Bloodspine-The-Magmaborn-Juggernaut-3bd58200eb228125b0e6c71c9f049569"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-12T21:13:00.000Z"
 verification: "unverified"
 ---
 
 # Gorrath Bloodspine · The Magmaborn Juggernaut
 
 > *"I am the forge, the flame, and the fall. Break me and see what erupts."*
-> **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal pending ratification.** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
+> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
 > **The legacy sheet carried percentage stat blocks throughout** — "reduces physical damage by 30–45%," "60% damage reduction for 10 seconds." These are removed rather than converted. Numbers do not attach to metaphysical quantities.
 
@@ -134,7 +134,7 @@ Ground inside it takes and keeps heat. Stone remembers being struck. **The Domai
 
 ## X · Open Rulings
 
-- **Temperance Stage VIII is originated.** Ratify, adjust, or reject.
+- **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 235, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 - **The Titan Urgrados** appears in the legacy sheet as the source of his "Forgebound mutation." **Urgrados is not among the attested Titans.** Struck pending confirmation.
 - **Ilcindor** appears as his campaign theatre. It is one of the entries the Master Material Ledger lists under unresolved provenance and does not appear on any current Accord survey.
 - **"Warforged Orc"** and **"Racial Class: Gorrath strain"** are legacy taxonomy with no current equivalent. Rendered here as clan and strain rather than as a race classification.

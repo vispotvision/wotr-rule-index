@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-81b7-89cc-eff29441be46"
 notion_url: "https://app.notion.com/p/Zarron-Mahuo-The-Arbiter-of-Unity-3bd58200eb2281b789cceff29441be46"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T18:53:00.000Z"
+last_edited: "2026-09-12T21:13:00.000Z"
 verification: "unverified"
 ---
 
 # Zarron Mahuo · The Arbiter of Unity
 
 > *"Born of two bloodlines, I claim neither and surpass both."*
-> **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal pending ratification.** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
+> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
 > **One lineage term on this sheet still needs Isaac's ruling before it hardens.** *Yukari* ties to the open Tyzura / Ashura Yukari identity question. *Vellsorea* — a real place, ruled 2026-09-12: the New World, the Eastern Rise. **The Yukari term is carried here provisionally and is not load-bearing.**
 
@@ -131,7 +131,7 @@ verification: "unverified"
 
 ## X · Open Rulings
 
-- **Temperance Stage X is originated.** Ratify, adjust, or reject.
+- **Temperance Stage X — ratified 2026-09-12.** Ratified as written (Isaac): Level 290, Coherence Band A, Grade SS, ceiling 725, η 0.75–0.80, matching the Sixteen Stages entry for Realization.
 - **Yukari lineage** ties to the open Tyzura / Ashura Yukari question and cannot harden until that rules.
 - **Vellsorea** — a real place, ruled 2026-09-12: the New World, the Eastern Rise.
 - The legacy sheet's **"Radiant Emergence → Essence Embodiment → Veilfracture Dominion"** progression and its Projection / Exaltation / Coagulation / Solution / Sublimation resonances were Great Work operations used as a Wellspring path. **Removed rather than translated.**

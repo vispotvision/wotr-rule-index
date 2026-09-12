@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81ee-a948-eb614a1f280a"
 notion_url: "https://app.notion.com/p/Juno-Petros-Marien-Praefect-of-the-Outer-Colonies-3bd58200eb2281eea948eb614a1f280a"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:53:00.000Z"
+last_edited: "2026-09-12T21:14:00.000Z"
 verification: "unverified"
 ---
 
@@ -131,7 +131,7 @@ verification: "unverified"
 ## X · Open Rulings
 
 - **Babyl is dead canon.** Re-home or strike.
-- **"Temperance of the 7th Well — The Bastion of Dominion"** in the legacy sheet reads as a Wellspring count rather than a Stage. **Carried as the Bastion descriptor; the Stage assignment is IX and is originated.**
+- **"Temperance of the 7th Well — The Bastion of Dominion"** in the legacy sheet reads as a Wellspring count rather than a Stage. Carried as the Bastion descriptor. **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 262, Coherence Band A, Grade S with late push toward SS, ceiling 625, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
 - **Wy, Ci and Ma** are given as Essence types. They are Parun glyph references and want checking against the Master Glyph Index's 136 attested forms.
 - **House of Civil Flame**, **Imperial Concord of Doctrine & Peace**, **Cradle-Marches**, **Balth Mere** appear only in legacy material.
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage IX.

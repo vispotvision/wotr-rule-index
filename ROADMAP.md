@@ -66,6 +66,12 @@ later session the same way (one agent per guide, same prompt shape).
 
 ## Deferred until there is a reason
 
+- Pinterest reference boards (Isaac, 2026-09-12): a tool that pulls the pins
+  from his Pinterest boards through the official API (a developer app,
+  reviewed once), scores each image with Claude vision against a wiki
+  description (a character's material culture, a place's ledger), and files
+  the matches under the right wiki page — optionally attached to the Notion
+  page. Open design choice: one board per subject, or sort mixed boards.
 - The WOTR Console (local dashboard); a standalone app; n8n; the pack authoring template
 - Backups: weekly dated Notion export to Drive (small; do when convenient)
 

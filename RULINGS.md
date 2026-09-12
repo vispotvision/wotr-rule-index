@@ -30,6 +30,38 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — seven Stages ratified; strict gates; the re-cost
+
+- **Seven originated Temperance Stages ratified as written** after a
+  read-only check of every axis against the Sixteen Stages tables, each
+  re-derived by a second reader: Gorrath Bloodspine VIII, Iskaron
+  Thalnaris XI (trapped, not passed through), Zarron Mahuo X, Aurevian
+  Lysanthir VIII, Juno Petros Marien IX, Kaelen Raive VIII, Saruin Kye
+  VIII. In progress.
+- **Two Catalyst Conditions written** — Kaelen Raive and Saruin Kye had
+  the Stage's phenomenology where the Catalyst Condition belongs; each
+  gets its contradiction-made-structure and first Domain from the card's
+  own history, originated. In progress.
+- **Path gates are strict** (R38-1): where Part Seven gates a component
+  of a merged Sub-Stat on a Path, the whole merged number is capped;
+  violating values on existing sheets come down to their caps.
+- **Re-cost every originated sheet to the current allotment** (R38-2):
+  the Volume III/IV sheets were costed on the pre-cut 20/25/30 per Level;
+  Part Three now gives 12/15/18 ("cut by two fifths"). Allocations are
+  trimmed to fit, Grade letters re-derived, strict caps applied; the
+  Stage ratifications stand. A spec and target list are being extracted
+  first so the sweep can be verified mechanically. In progress.
+- **Guide folds, batch two and three; the lost Item guide.** Five base
+  guides with files on disk are being folded (Scene Writing Process,
+  Racial Voice, Visual Aesthetic, Dialogue Craft, AI Writing Tells).
+  Two more base files were recovered today — the Manual Verification
+  Guide from Downloads and the Mass Combat Craft Guide from Isaac's
+  Google Drive (export formatting normalised, content unchanged) — and
+  placed in WOTR True Canon; both folding. The Item and Equipment
+  Writing Guide survives nowhere; Isaac: "you might have to create it" —
+  being reconstructed from its nine live rules and every surviving
+  reference, marked as a reconstruction. In progress.
+
 ## 2026-09-12, still later — C-005 and C-006 closed; five proposals ratified
 
 - **C-005 (Zettari vs. Zettai).** Zettari wins. "Zettai" swept to

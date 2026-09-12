@@ -3465,6 +3465,68 @@
     "superseded_by": []
   },
   {
+    "id": "R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT",
+    "pack": "Stat Gates and Re-cost Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "A Part Seven component gate binds the whole merged Sub-Stat",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).",
+    "verbatim": "Density requires Body Path at Stage IV to exceed B, with inscription and glyph-chain durability requiring Spirit Path at Stage III to exceed C.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Part Seven — Path gates / merged Sub-Stats",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The verbatim is Part Seven's Ardency Density clause (wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md, Part Seven, Ardency Gates), quoted as the exemplar of the text being ruled on; Part Seven opens \"Every Sub-Stat carries a Path Alignment requirement. Certain subs cannot exceed a given Tier Grade without demonstrated Path commitment.\" The question arose because Part Twelve's Merge Ledger (IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md, \"The Merge Ledger\": \"sixty-four entries carry what a hundred and twenty carried, with the restatements collapsed\") folded, for example, Ardency Inscription into Density and Vitality Gravitas and Nullity into Tolerance, so a component Part Seven gates on one Path now lives inside a Sub-Stat whose main gate is on another Path, or is open. Two readings were possible: lenient (the component gate caps only the folded component's share, which no longer exists as a number, so the gate is effectively dead) or strict (the gate caps the merged number). Isaac ruled strict. Consequence for the originated Volume III/IV sheets: any merged Sub-Stat carried above a component's cap on a sheet lacking that component's Path is lowered to the cap in the R38-2 re-cost; the seven Stage ratifications of 2026-09-12 are unaffected.",
+    "superseded_by": []
+  },
+  {
+    "id": "R38-2-ORIGINATED_SHEETS_RECOST_TO_CURRENT_ALLOTMENT",
+    "pack": "Stat Gates and Re-cost Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "Originated sheets are re-costed to Part Three's current allotment",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as \"Band III at 30 per level\") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, \"cut by two fifths\", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.",
+    "verbatim": "Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Part Three — Stat Points / originated sheets",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The verbatim is Part Three's \"The Full Point Economy\" passage (wiki/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md, Part Three), whose per-Band totals (1,200 / 1,500 / 1,800 / 2,100 / 2,400) are the current per-Level table (12 / 15 / 18 / 21 / 24, concentration cap 5 / 5 / 8 / 10 / 12 per Sub-Stat per level-up) times a hundred Levels. The originated sheets were built on the old figures: Gorrath, Zarron, Xanelor and Juno each write \"Band III at 30 per level\" and \"Bands I–II contribute 4,500\" (20 and 25 per Level), and Iskaron writes \"Band IV at 35 per level\"; those pools are two-fifths too large against the text as it now stands. Isaac ruled the sheets are re-costed rather than the text grandfathered. The Threshold grants (Stage × 100, Part Three: \"Temperance Threshold events grant bonus Stat Points equal to the Stage number multiplied by 100\") are unchanged and stay in the pool. Scope: every originated sheet costed on the pre-cut allotment, including the seven whose Stages were ratified on 2026-09-12 and Xanelor Rafminar (ratified the same morning); the ratification lines on those cards do not carry stat values for this reason. The re-cost itself is a separate pass with its own spec and target list; no stat number was changed by this row.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

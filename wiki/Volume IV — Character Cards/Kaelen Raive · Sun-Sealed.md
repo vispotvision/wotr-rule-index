@@ -4,14 +4,15 @@ notion_id: "3bd58200-eb22-81f8-8266-e6a5711bd552"
 notion_url: "https://app.notion.com/p/Kaelen-Raive-Sun-Sealed-3bd58200eb2281f88266e6a5711bd552"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:10:00.000Z"
+last_edited: "2026-09-12T21:14:00.000Z"
 verification: "unverified"
 ---
 
 # Kaelen Raive · Sun-Sealed
 
 > *"The light doesn't ask for permission. It simply shows what was always there."*
-> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of the Sun-Seal: *it binds Domains temporarily if invoked at full charge, and binding another practitioner's Domain is not a low-Stage act.*
+> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of the Sun-Seal: *it binds Domains temporarily if invoked at full charge, and binding another practitioner's Domain is not a low-Stage act.*
+> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Solar / Gravity / Order"* were not Essence types. **"High Arbiter Selhane"** wants checking against **Selhar**, one of the fourteen Archons — *the names are one letter apart and that is either deliberate or a slip.*
 > **Name collision.** *Volume IV already contains Kaelen Brighthoof, The Horned Hawk.* **Two Kaelens, different surnames, no stated relation.** *Worth confirming as coincidence — they are otherwise nothing alike.*
@@ -29,6 +30,12 @@ verification: "unverified"
 > **Catalyst Event · Stage VIII, Transcendence.** *A thing keeps its weight and gains a second weight, and both are operative.*
 >
 > **A duel is a duel and is also a verdict.** *He is the enforcement arm of a court that resolves disputes by combat — and he has to hold both readings while fighting, which is why he is a Warden rather than an executioner.*
+>
+> **The wound in the fracture record is the Sun-Seal, and what it cost him.** A living Parun seal engraved into his chest, channelling Radiance in bursts strong enough to blind or sear, whose full charge takes time he must survive. The sheet records the price at Harmonics 190: the man who bears the light cannot negotiate, cannot de-escalate, and is the only one of the five Judicium practitioners with no diplomatic faculty at all. **That was carried as structural damage — a sigil heritage burning on a man whose every duel is also a verdict — until he made it hold weight on purpose.** *The Catalyst was not surviving the seal. It was deciding, consciously, that the seal is the verdict, and building the Warden on it: the light that simply shows what was always there, made into the frame the judgment hangs from, so that both readings sit on the same spiral and neither is dropped while he fights.*
+>
+> **The first true Domain formed here, and is held for hours.** Not a seed. A standing region of the world operating on his terms while he is present in it. *The card does not name it; what it already describes is the shape of one — a small radius in which lies and illusion fail because a faithful reflection cannot carry them, and a room that agrees he weighs more than he should.*
+>
+> *(Catalyst Condition written 2026-09-12, originated from the card's own history; Isaac ruled.)*
 
 ---
 

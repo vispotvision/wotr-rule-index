@@ -4,14 +4,15 @@ notion_id: "3bd58200-eb22-812f-961a-e1b93dd3a626"
 notion_url: "https://app.notion.com/p/Saruin-Kye-Golden-Laugh-3bd58200eb22812f961ae1b93dd3a626"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:10:00.000Z"
+last_edited: "2026-09-12T21:14:00.000Z"
 verification: "unverified"
 ---
 
 # Saruin Kye · Golden Laugh
 
 > *"Why walk when the wind will carry you — and why fight when the wind can trip them for you?"*
-> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of **Laughing Lawbreaker**: *altering cause-and-effect requires Dominion Fate, which is Fate-gated at Stage VII.* **He must be above it.**
+> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of **Laughing Lawbreaker**: *altering cause-and-effect requires Dominion Fate, which is Fate-gated at Stage VII.* **He must be above it.**
+> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 238, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Wind / Sun / Illusion"* were not Essence types.
 
@@ -28,6 +29,12 @@ verification: "unverified"
 > **Catalyst Event · Stage VIII, Transcendence.** *Objects retain their weight and gain a second weight, and both facts are operative.*
 >
 > **His Cycle "ascends by defying limitations rather than confronting them directly."** *A wall is a wall and is also a suggestion — and he has to keep functioning while both are true, which is the most cheerful reading of Transcendence in the volume.*
+>
+> **The wound in the fracture record is what the laugh covers.** The sheet states it in two numbers and a cost line: Ardency 186, Resilience 238 — he has almost no capacity to hurt anyone, and he cannot hold ground, cannot protect a place, and cannot end a fight. Everything he does is deferral. **That is a contradiction carried as structural damage: a Cycle centred on never being bound, run by a man who owes the Guardians of Tres Aures more than one favour and who shows up when it truly matters.** *The Catalyst was to stop carrying deferral as the thing the laugh hides and make it hold weight on purpose — the bridge that holds just long enough and never longer, chosen as the design rather than accepted as the apology. He functions while a wall is a wall and also a suggestion because he built himself on the second reading without ever dropping the first.*
+>
+> **The first true Domain formed here, and is held for hours.** Not a seed. A standing region of the world operating on his terms while he is present in it. *The card does not name it; what it already describes is the shape of one — his immediate surroundings, where a sure hit is a miss and a failing bridge holds, because Oneirion selects a different coordinate from the arrangements that were already available. The terms are mischief.*
+>
+> *(Catalyst Condition written 2026-09-12, originated from the card's own history; Isaac ruled.)*
 
 ---
 

@@ -4,14 +4,15 @@ notion_id: "3bd58200-eb22-81e6-8d9e-c08cf323219f"
 notion_url: "https://app.notion.com/p/Aurevian-Lysanthir-Voice-Between-Wars-3bd58200eb2281e68d9ec08cf323219f"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:15:00.000Z"
+last_edited: "2026-09-12T21:14:00.000Z"
 verification: "unverified"
 ---
 
 # Aurevian Lysanthir · Voice Between Wars
 
 > *"A single note, struck at the right time, can end a war… or start one."*
-> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of Auric Flow: *listeners' Essence aligns with his Temperance cycle, creating a shared harmonic field.* **Pulling other practitioners into your own cycle is Stage VIII work.**
+> **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of Auric Flow: *listeners' Essence aligns with his Temperance cycle, creating a shared harmonic field.* **Pulling other practitioners into your own cycle is Stage VIII work.**
+> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Harmony / Light / Illusion"* were not Essence types — **though Harmonia is a genuine Category**, and his placement under it is correct.
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8181-8092-dba61e5c5199"
 notion_url: "https://app.notion.com/p/Band-of-Frozen-Brambles-Winter-Briar-3d958200eb2281818092dba61e5c5199"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:36:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,7 +14,7 @@ verification: "unverified"
 
 ### What it is
 
-A Relic Gauntlet and Glyph Tool, attuned, capable of stabilizing as a minor Domain Anchor on permafrost. A wrist-cuff of frost-patinated silverthorn cradling a blue glacial prism, five segmented, thorned finger-sheaths linked by cold-iron chains sprouting from it, each segment veined with pale Verdantia patterns trapped beneath ice. When awakened, hoarfrost feathers from the links and the prism exhales a quiet, glassy breath. It was grown and forged in the Regency of Mireya by artisans the card calls the Thornsingers, who braid Verdantia rites with deep-cold metallurgy. The brambles were wintered for one century beneath a sleeping glacier, then set to a `Ur`-`Ma`-`Wy` chain and sealed with a breath-oath.
+A Relic Gauntlet and Glyph Tool, attuned, capable of stabilizing as a minor Domain Anchor on permafrost. A wrist-cuff of frost-patinated silverthorn cradling a blue glacial prism, five segmented, thorned finger-sheaths linked by cold-iron chains sprouting from it, each segment veined with pale Verdantia patterns trapped beneath ice. When awakened, hoarfrost feathers from the links and the prism exhales a quiet, glassy breath. It was grown and forged by artisans the card calls the Thornsingers, who braid Verdantia rites with deep-cold metallurgy. The brambles were wintered for one century beneath a sleeping glacier, then set to a `Ur`-`Ma`-`Wy` chain and sealed with a breath-oath.
 
 ### Physical account
 
@@ -42,4 +42,4 @@ Bring fire; direct flame both unseats Briar Gaol and melts Thornbind before it s
 
 ### Bearers
 
-Made by the Thornsingers of the Regency of Mireya (unattested elsewhere, kept for lack of a substitute). Worn by the Pale March Wardens (likewise unattested) during the Caedor incursions; a single gauntlet is credited with sealing four Domain breaches by "gardening" winter across the threshold, consistent with Briar Gaol above. Presently held at the Accord Cold Reliquary, Mireya, loaned to Strategic Division strike leads for siege and capture missions, converted from the card's "Enforcement Division," which is not the Guild Accord's attested name for that remit. First appearance: the Inclusion Saga, *The Blooming Silence*, Ch. 6, "Winter Tithes."
+Made by the Thornsingers (unattested elsewhere, kept for lack of a substitute). Worn by the Pale March Wardens (likewise unattested) during the Caedor incursions; a single gauntlet is credited with sealing four Domain breaches by "gardening" winter across the threshold, consistent with Briar Gaol above. Presently held at the Accord Cold Reliquary, loaned to Strategic Division strike leads for siege and capture missions, converted from the card's "Enforcement Division," which is not the Guild Accord's attested name for that remit. First appearance: the Inclusion Saga, *The Blooming Silence*, Ch. 6, "Winter Tithes."

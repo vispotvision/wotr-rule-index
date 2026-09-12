@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-814d-b915-d7d48e8e813a"
 notion_url: "https://app.notion.com/p/Kaien-Veyren-The-Lotus-Scar-3bd58200eb22814db915d7d48e8e813a"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:03:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,18 +13,18 @@ verification: "unverified"
 > *"A scar is the final word in an argument between flesh and fate."*
 > **Invented Stage name.** The card reads **"Stage VII (Illumination)."** *Illumination is not among the sixteen; Stage VII is Refraction.* Numeral stands.
 >
-> *"Water / Verdure / Fracture"* were not Essence types. **Mireya** is among the nineteen orphaned realm entries pending keep-or-strike — *and it appears in both his alias and his posting.*
+> *"Water / Verdure / Fracture"* were not Essence types. **Mireya** — struck 2026-09-12; the name never attached to a real place. *His alias and his posting both carried it; both now stand unnamed.*
 
 ---
 
 ## I · Identity
 
-**Name** · Kaien Veyren. **Called** · **The Lotus Scar.** *White Bloom of Mireya.*
-**Role** · **Wellspring Monk. Aether-Scarred Survivor. Wandering Arbiter of the Mireya Regency.**
+**Name** · Kaien Veyren. **Called** · **The Lotus Scar.** *The White Bloom.*
+**Role** · **Wellspring Monk. Aether-Scarred Survivor. Wandering Regency Arbiter.**
 
 ### Affiliation
 
-**Arbitration Division — Mireya Regency Envoy.** *Mediates high-tension negotiations between Innerworld and Outer World realms, often deployed where Wellspring disputes threaten war.*
+**Arbitration Division — Regency Envoy (posting unnamed).** *Mediates high-tension negotiations between Innerworld and Outer World realms, often deployed where Wellspring disputes threaten war.*
 > **Catalyst Event · Stage VII, Refraction.** *The soul sees itself from outside — and self-examination at this depth reveals the fracture record, everything Splintering promoted to a load path, labelled and impossible to un-see.*
 >
 > **He survived a Wellspring collapse and the scars never closed.** *They bleed faint light when he channels, functioning as open metaphysical conduits.*
@@ -98,7 +98,7 @@ verification: "unverified"
 
 ## VIII · Relationships
 
-**Lord Maerion Lysandre** · **His primary patron in the Mireya Regency.** *Values his composure but mistrusts his habit of vanishing for weeks.*
+**Lord Maerion Lysandre** · **His primary patron in the Regency he serves.** *Values his composure but mistrusts his habit of vanishing for weeks.*
 **Shael Virellion** · **Shares an unspoken understanding through their work in memory-based Essence arts.**
 > ***Both are Fractured Crystals whose damage is visible on the face.*** **Shael's third eye never closes and weeps; Kaien's scars never close and bleed light.** *Shael is sealed at his Stage and cannot advance. Kaien is not — and that difference is the whole of the unspoken understanding.*
 **Hyo Miran the Red-Threaded** · **Trade partner in rare relic recovery.** *Kaien both benefits from and mistrusts his unpredictable dealings.*

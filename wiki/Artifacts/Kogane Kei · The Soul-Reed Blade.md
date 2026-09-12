@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8127-be19-ea65c4aadf99"
 notion_url: "https://app.notion.com/p/Kogane-Kei-The-Soul-Reed-Blade-3d958200eb228127be19ea65c4aadf99"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:31:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,7 +14,7 @@ verification: "unverified"
 
 ### What it is
 
-A long, reed-slender blade in the shape of a katana, gold-hued, with a faint mist that never leaves its edge. Its surface ripples like standing water whenever spiritual resonance wakes in it, because it is not simply forged steel: Kei was once a mortal man, bound into spirit-forged steel by Hozume in a rite that Tyzura's unseen hand is said to have touched. The Mireyan apothecaries who first named it "the Soul-Reed" believe it grows out of Hozume's own being rather than having been made once and finished.
+A long, reed-slender blade in the shape of a katana, gold-hued, with a faint mist that never leaves its edge. Its surface ripples like standing water whenever spiritual resonance wakes in it, because it is not simply forged steel: Kei was once a mortal man, bound into spirit-forged steel by Hozume in a rite that Tyzura's unseen hand is said to have touched. The apothecaries who first named it "the Soul-Reed" believe it grows out of Hozume's own being rather than having been made once and finished.
 
 ### Physical account
 
@@ -40,4 +40,4 @@ Deny the substrate Twin Soul Resonance and the Hollow Bloom both depend on, stan
 
 ### Bearers
 
-Karasaki Hozume, sole current wielder, forged during his crossing into Stage VII, Refraction. Historical usage: carried in burial rites in the Mireyan swamps after the Blight of Fennir (Mireya pending keep-or-strike, the Blight unattested elsewhere; both kept for the card's own provenance). First appearance: *WOTR: The Hollow Cycle*, Chapter I, "Kei's Whisper" (volume title unattested, kept for the same reason).
+Karasaki Hozume, sole current wielder, forged during his crossing into Stage VII, Refraction. Historical usage: carried in swamp burial rites after the Blight of Fennir (the Blight unattested elsewhere, kept for the card's own provenance). First appearance: *WOTR: The Hollow Cycle*, Chapter I, "Kei's Whisper" (volume title unattested, kept for the same reason).

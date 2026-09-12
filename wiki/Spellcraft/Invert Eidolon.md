@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d6-89ef-cd479f1a3251"
 notion_url: "https://app.notion.com/p/Invert-Eidolon-3d958200eb2281d689efcd479f1a3251"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T16:27:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -30,7 +30,7 @@ The practice sits outside guild sanction almost everywhere it is known. The mech
 ### Practitioners and history
 
 Karo Venrik, the Foolish Magus, Echo-Binder of the Ma Sigil, is the one figure named on the card who is confirmed in current canon. His documented Animatria suite runs through Nexus networks of fully harmonised constructs, and his own sheet records that of the Echoes he has fielded across eleven years, two never came back in a form he could confirm was still what left. The card's claim that he unintentionally triggered a fractured, refused construct during early trials has no confirmation anywhere else, and nothing on his sheet contradicts it either; it is kept here as an open, unattested thread rather than an established fact.
-The remaining figures and events the card names, Thessan of Mireya and her bound Anti-Eidolon Vel-Muriah, Silvantes Mournthresh of a "Riven Choir," the Twilight Concord where the practice is said to have first surfaced, an "Era of Calamity" and a mass-casualty incident called the Wellspring Fracture of Nalisem, and fringe preservationist cults called the Mirrorwake Ascetics and the Occultinarii of the Hollow Eye, have no page or card anywhere in current canon. None of them are load-bearing for what the discipline does mechanically, so they are kept as unattested colour rather than struck outright, on the understanding that a review pass may cut them.
+The remaining figures and events the card names, Thessan and her bound Anti-Eidolon Vel-Muriah, Silvantes Mournthresh of a "Riven Choir," the Twilight Concord where the practice is said to have first surfaced, an "Era of Calamity" and a mass-casualty incident called the Wellspring Fracture of Nalisem, and fringe preservationist cults called the Mirrorwake Ascetics and the Occultinarii of the Hollow Eye, have no page or card anywhere in current canon. None of them are load-bearing for what the discipline does mechanically, so they are kept as unattested colour rather than struck outright, on the understanding that a review pass may cut them.
 
 ### What it can and cannot do
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e1-a5a2-e8f0627274f6"
 notion_url: "https://app.notion.com/p/Sairin-Kazuren-The-Still-Point-3d958200eb2281e1a5a2e8f0627274f6"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:50:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -18,7 +18,7 @@ verification: "unverified"
 
 **Name** · Sairin Kazuren. **Called** · **The Still Point.** *The Blade Between Storms.*
 **Role** · **Clan Head. Duelist. Monastic Sentinel of the Kazuren line.**
-**Look & tells** · Tall and lithe, half-closed razor-focused eyes, dark hair bound with an arrow-shaped ornament, Mireyan martial robes stitched with cloud and tide. *She speaks only when necessary, and a room settles when she enters it before anyone notices why.*
+**Look & tells** · Tall and lithe, half-closed razor-focused eyes, dark hair bound with an arrow-shaped ornament, martial robes stitched with cloud and tide. *She speaks only when necessary, and a room settles when she enters it before anyone notices why.*
 **Gloss rights** · **Diagnostic only.** *She does not explain herself. What her art means surfaces only under a faculty's reading or an instrument's count, never from her own mouth.*
 **Age** · Early thirties.
 

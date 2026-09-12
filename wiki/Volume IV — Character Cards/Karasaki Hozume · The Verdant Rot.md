@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81bb-a593-ec19c65127f3"
 notion_url: "https://app.notion.com/p/Karasaki-Hozume-The-Verdant-Rot-3bd58200eb2281bba593ec19c65127f3"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:00:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -17,7 +17,7 @@ verification: "unverified"
 ## I · Identity
 
 **Name** · Karasaki Hozume. **Called** · The Verdant Rot. Marshkeeper of the Hollow Cycle.
-**Standing** · Independent Cycle-Warden. Former Mireyan Apothecary Guild. Unofficially aligned with Tyzura.
+**Standing** · Independent Cycle-Warden. Formerly of an Apothecary Guild. Unofficially aligned with Tyzura.
 **Catalyst Event · Stage VIII, Transcendence.** He took the wound of the Guild's dissolution and **made it hold weight on purpose** rather than healing it. The Hollow Cycle is not a philosophy he adopted. It is the shape of a man who decided rot was not the opposite of growth.
 
 ---
@@ -74,6 +74,6 @@ verification: "unverified"
 ## VI · Open Rulings
 
 - **Tyzura, Archon of Spirits** — blocked on the Tyzura / Ashura Yukari ruling.
-- **Mireya** is one of the nineteen orphaned realm entries awaiting keep-or-strike.
+- **Mireya** — struck 2026-09-12; the name never attached to a real place.
 - **Kogane Kei** should probably have its own entry in the Called · Summon Register.
 > **Codex** · Vitalia / Biochemistry / Mortalis primary / Stage VIII.

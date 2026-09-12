@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8125-916d-cc690d26ab38"
 notion_url: "https://app.notion.com/p/Evangelien-Rhymaris-The-Hollow-Bride-3bd58200eb228125916dcc690d26ab38"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:50:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -123,6 +123,6 @@ Her body continued to exist, wandering the Inner World in wedding garments soake
 
 ## IX · Chapter Appearances
 
-*Legacies: Chapter XVI — The Wedding Without Dawn* · *The Hollow Dirge (Side Chronicle)* · *Chronicles: Appendix Entry — Entities of the Inner Weep* · *WOTR: Exilic March — rumoured presence in the Dead Garden of Mireya.*
-> **Mireya** is one of the nineteen orphaned realm entries pending keep-or-strike. **Elenthyr**, the **Weeping Choir**, the **Thorn-Seers** and the **Guild of Ritus** appear only in legacy material and want confirming.
+*Legacies: Chapter XVI — The Wedding Without Dawn* · *The Hollow Dirge (Side Chronicle)* · *Chronicles: Appendix Entry — Entities of the Inner Weep* · *WOTR: Exilic March — rumoured presence in the Dead Garden.*
+> **Mireya** — struck 2026-09-12; the name never attached to a real place. **Elenthyr**, the **Weeping Choir**, the **Thorn-Seers** and the **Guild of Ritus** appear only in legacy material and want confirming.
 > **Codex** · Limina / Abstract–Entropic / Anamnesis primary / Stage X.

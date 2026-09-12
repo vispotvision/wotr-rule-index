@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8185-b5ac-db8c44f5d7bd"
 notion_url: "https://app.notion.com/p/Kibanda-cha-Mwanga-wa-Miti-Lantern-of-the-Grove-s-Light-3d958200eb228185b5acdb8c44f5d7bd"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:34:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -40,4 +40,4 @@ The lantern needs a live tether, either to Chimwala's own Essence or to an uncor
 
 ### Bearers
 
-Chimwala N'Doro, current and sole known bearer, carried during every Wellspring-cleansing expedition including the crossing of the Fog of Black Roots during the cleansing of the Mireya Well (old record: "Mireya Wellspring"; Mireya is an attested Verdantia-aligned site, currently one of the nineteen realm entries pending a keep-or-strike ruling). Any Grovekeeper who completes the Rite of the First Light is eligible to bond it in turn. First appearance: *WOTR: Book V, The Blooming Siege of Caedor*, the chapter number carried over unverified from the old card.
+Chimwala N'Doro, current and sole known bearer, carried during every Wellspring-cleansing expedition including the crossing of the Fog of Black Roots during the cleansing of an unnamed Well (the old record named it for a place struck 2026-09-12; that name never attached to a real place, and the Well waits on a name of its own). Any Grovekeeper who completes the Rite of the First Light is eligible to bond it in turn. First appearance: *WOTR: Book V, The Blooming Siege of Caedor*, the chapter number carried over unverified from the old card.

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8162-86ec-d63053596b9f"
 notion_url: "https://app.notion.com/p/Hyo-Miran-The-Velvet-Dealer-3bd58200eb22816286ecd63053596b9f"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T12:34:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 
 ### Affiliation
 
-**Guildless by design.** Holds **Merchant Rite Papers** from both the **Regency of Mireya** and the **Vellsorean Writ Consortium.** Shadow-affiliate to **Veydrassil's Black Bloom Market**, *though he denies it with a grin.*
+**Guildless by design.** Holds **Merchant Rite Papers** from the **Vellsorean Writ Consortium.** Shadow-affiliate to **Veydrassil's Black Bloom Market**, *though he denies it with a grin.*
 > **Catalyst Event · Stage VI, Glory.** *The first Catalyst on the ladder that is a decision — looking at something that will cost you structurally and choosing it anyway, in advance, in cold blood.*
 >
 > **For a merchant, that is a specific and unglamorous moment: a deal he could have taken and did not, at a price he is still paying.** *He has never named it and the Accord's own literature would call it the culture of duty, which he would find funny.*

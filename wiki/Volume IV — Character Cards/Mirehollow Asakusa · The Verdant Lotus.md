@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-816d-b0b9-dc79e8dcadac"
 notion_url: "https://app.notion.com/p/Mirehollow-Asakusa-The-Verdant-Lotus-3bd58200eb22816db0b9dc79e8dcadac"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:00:00.000Z"
+last_edited: "2026-09-12T18:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,14 +13,14 @@ verification: "unverified"
 > *"I do not cut. I invite stillness."*
 > **Migrated with all content preserved.** *"Verdant Marshroot / Swamplight Dream"* were not Essence types. **"Verdancy, Archon of Blooming / Misting Veil, Archon of Temperance / Whisperroot, Archon of Hollowing" are not Archons** — the fourteen are named beings, and none of them is a domain of practice. **The three are retained below as Domains**, which is what they actually are, and re-sourced to attested currents.
 >
-> **Mireya** is one of the nineteen orphaned realm entries pending keep-or-strike. **Tyzura** is blocked on the open Tyzura / Ashura Yukari identity ruling.
+> **Mireya** — struck 2026-09-12; the name never attached to a real place. **Tyzura** is blocked on the open Tyzura / Ashura Yukari identity ruling.
 
 ---
 
 ## I · Identity
 
 **Name** · Mirehollow Asakusa. **Called** · The Verdant Lotus. Swamp Samurai of the Heavenly Marsh. **Sword-Saint of Sakurabog.** Lichen-Bound Hermit.
-**Standing** · Unaffiliated Spirit-Walker. Respected unofficially among the **Mireyan Spirit Orders.** Considered a latent anchor of the **Whisperroot**, **Verdancy** and **Misting Veil** Domains.
+**Standing** · Unaffiliated Spirit-Walker. Respected unofficially among the **Spirit Orders.** Considered a latent anchor of the **Whisperroot**, **Verdancy** and **Misting Veil** Domains.
 **Soul Crystal** · *Verdant Bloombound Core* — **lodged near the heart, entangled in swamp-root and fungal mycelium.** Reacts to hidden life, grief-laced soil, and the presence of unspoken history. **Does not flare in combat, but pulses with revelation and renewal.**
 > **Catalyst Event · Stage VIII, Transcendence.** *The world is read as symbol. Objects retain their weight and gain a second weight. A door is a door and is also a threshold, and both facts are operative, and the practitioner has to keep functioning while holding them.*
 >
@@ -119,7 +119,7 @@ verification: "unverified"
 
 **Yurei-no-Sakaki** · **The Hollow-Blooming Dryad Queen who gifted Asakusa his fae-glamour.** May be dormant, dead, or dispersed. **He still listens to her breath in the moss.**
 **Tyzura, Archon of Spirits** · His path aligns with Tyzura's cycles, though he walks alone. **His silence may be seen as prayer.**
-**Rin of the Reeds** · A Mireyan child who follows him from afar, **unaware he listens to her lullabies when the fog thickens.**
+**Rin of the Reeds** · A child who follows him from afar, **unaware he listens to her lullabies when the fog thickens.**
 
 ---
 

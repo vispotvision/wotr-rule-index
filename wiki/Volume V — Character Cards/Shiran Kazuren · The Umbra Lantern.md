@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814b-9bb1-e751a85ef1b6"
 notion_url: "https://app.notion.com/p/Shiran-Kazuren-The-Umbra-Lantern-3d958200eb22814b9bb1e751a85ef1b6"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:49:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,7 +19,7 @@ verification: "unverified"
 ### I · Identity
 
 **Name** · Shiran Kazuren. **Called** · The Umbra Lantern. **Epithet** · He Who Walks Before the Storm. **Position** · Middle sibling of the Kazuren family *(other siblings unnamed in the source; not detailed elsewhere)*.
-**Age** · Late twenties. **Race / Realm** · Mireyan Eastern Human, **Regency of Mireya**.
+**Age** · Late twenties. **Race / Realm** · Eastern Human; realm unstated.
 **Gloss rights** · Never. *He does not explain the dream-work, to anyone, under any pressure the source material gives him a reason to face.*
 
 #### Affiliation
@@ -83,7 +83,7 @@ Formerly of the **Dreamfold Monastery** *(unattested independently of this card;
 
 ### VII · Artifacts
 
-**Veilshade Umbrella** · *Personal / Concealed Weapon.* Layered Mireyan construction concealing an inner blade, carried openly as an umbrella, drawn rarely enough that most who know him have never seen the blade.
+**Veilshade Umbrella** · *Personal / Concealed Weapon.* Layered construction concealing an inner blade, carried openly as an umbrella, drawn rarely enough that most who know him have never seen the blade.
 
 ---
 

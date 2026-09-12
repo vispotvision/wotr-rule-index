@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8191-a00a-da858bfdced1"
 notion_url: "https://app.notion.com/p/Helki-The-Shepherd-of-Unwilling-Paths-3d958200eb228191a00ada858bfdced1"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:10:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -104,7 +104,7 @@ The Unmeasured Path; nominally neutral. **Independent, itinerant, travels with O
 ### IX · Relationships
 
 **Orvain** · Companion and structural dependency; separation past 200 metres drops her efficiency and triples her Inversion risk; his death would make the Inversion terminal within 72 hours. She protects him with trust, not force.
-**Villages and caravans of the Outer World** · Remember her from **the Greying of the Calderath Pass** and **the Stillness at the Mireya Gate**, two documented walks where she performed the Offering Walk for the dying and, once, stopped an active skirmish by ringing the bell. Neither incident is on any Accord file.
+**Villages and caravans of the Outer World** · Remember her from **the Greying of the Calderath Pass** and **the Stillness at the Gate**, two documented walks where she performed the Offering Walk for the dying and, once, stopped an active skirmish by ringing the bell. Neither incident is on any Accord file.
 **The Verdant Altar** · Not yet met. Her whole trajectory bends toward it.
 
 ---

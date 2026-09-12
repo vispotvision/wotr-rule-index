@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-810d-ba1c-d2604de2c710"
 notion_url: "https://app.notion.com/p/Upanga-wa-Msimu-Nne-Blade-of-the-Four-Seasons-3d958200eb22810dba1cd2604de2c710"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:34:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,7 +14,7 @@ verification: "unverified"
 
 ### What it is
 
-Relic, Weapon, Ritual Tool. A long curved leaf-blade of greensteel alloy that shifts hue with the season it is attuned to: green in spring, gold in summer, red in autumn, silver-white in winter. The spine carries a continuous line of Parun glyph-script that pulses as the attunement turns. The hilt is wrapped in braided vine fibre; the pommel holds a slowly rotating seed-shaped gem ringed by drifting pollen-Essence. Gifted to Chimwala by the Sylvaar following what the record calls the Treaty of Green Sky, forged from Sylvaar deepforge greensteel and tempered in the waters of the Mireya Well.
+Relic, Weapon, Ritual Tool. A long curved leaf-blade of greensteel alloy that shifts hue with the season it is attuned to: green in spring, gold in summer, red in autumn, silver-white in winter. The spine carries a continuous line of Parun glyph-script that pulses as the attunement turns. The hilt is wrapped in braided vine fibre; the pommel holds a slowly rotating seed-shaped gem ringed by drifting pollen-Essence. Gifted to Chimwala by the Sylvaar following what the record calls the Treaty of Green Sky, forged from Sylvaar deepforge greensteel and tempered in the waters of an unnamed Well.
 
 ### Physical account
 

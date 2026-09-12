@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8144-ad02-c79b5994242d"
 notion_url: "https://app.notion.com/p/The-Marshgrave-s-Phial-The-Bottle-That-Weeps-3d958200eb228144ad02c79b5994242d"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:31:00.000Z"
+last_edited: "2026-09-12T18:51:00.000Z"
 verification: "unverified"
 ---
 
@@ -40,4 +40,4 @@ Force a large draw in either direction and exploit the balancing debt that follo
 
 ### Bearers
 
-Karasaki Hozume, sole current wielder. Historical usage: cleansing curse-rotted villages during the Plague-Tide Purge in Mireya, and feeding the swamps of Hollowfen for a full year (Mireya pending keep-or-strike; the Purge and Hollowfen unattested elsewhere; all kept for the card's own provenance). First appearance: *WOTR: Chronicles of the Exiles*, Chapter XIII (volume title unattested, kept for the same reason).
+Karasaki Hozume, sole current wielder. Historical usage: cleansing curse-rotted villages during the Plague-Tide Purge, and feeding the swamps of Hollowfen for a full year (the Purge and Hollowfen unattested elsewhere; both kept for the card's own provenance). First appearance: *WOTR: Chronicles of the Exiles*, Chapter XIII (volume title unattested, kept for the same reason).

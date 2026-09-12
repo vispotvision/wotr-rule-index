@@ -3098,6 +3098,74 @@
     "superseded_by": []
   },
   {
+    "id": "R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER",
+    "pack": "Zettari Forge Culture Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "Agano Sand and the Witnessed Temper, the Zettari forge culture as a Vow Clause application",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Zettari forge culture answers \"what makes a thing trustworthy?\" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand (\"covenant\", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.",
+    "verbatim": "A Vow Clause working, not a new kind of magic. At the quench, the smith — or the sovereign the piece is being made for — speaks a bound claim over the object before a Stone Witness: a ruin, an ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it must be something older than the speaker. That claim becomes a standing law the object runs, exactly as a spoken vow becomes a standing law a Soul Crystal runs.",
+    "amends": [
+      {
+        "guide": "WOTR_Item_and_Equipment_Writing_Guide.md",
+        "locus": "Zettari forge culture / Vow Clause",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R2-OP-ZETTARI_DOCKET",
+      "R3-OP-ZETTARI_DOCKET",
+      "R4-OP-ZETTARI_DOCKET"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "items",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Answers Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET, \"the oldest unaddressed gap in the project\"), which Isaac ruled should be drafted as a pitch mirroring the Dawi's Cask-Oath approach. Built only on lore already on record: Material Covenant Resonance and the Stone Witness Oath (The Zettari hub), the Paths' sand as condensed lineage memory and its lineage-acknowledged entry gate (The Paths), and the Vow Clause as the setting's one general oath-magic mechanism (The Magical Categories). Published 2026-09-12 as a child page of The Zettari hub, mirroring the Moto Material Culture precedent (R34) rather than the Dawi's inline subsection, because the ratified text is too long for the hub's Culture list; the hub's Culture section gained a one-line pointer after the Stone Witness Oath entry and the Register note ruled the same day was left untouched. Item-level consequences and the trade entry are R33-2.",
+    "superseded_by": []
+  },
+  {
+    "id": "R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR",
+    "pack": "Zettari Forge Culture Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "What a Witnessed-Tempered item does, what breaks it, and its trade entry",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's \"hold shape\" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only \"listens\" to a claim spoken over stone older than the speaker.",
+    "verbatim": "If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's \"hold shape\" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.",
+    "amends": [
+      {
+        "guide": "WOTR_Item_and_Equipment_Writing_Guide.md",
+        "locus": "Zettari forge culture / Vow Clause",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "items",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The draft had marked the trade entry's tier, price and Carry as \"placeholder extrapolation ... not canon until Isaac sets them\"; Isaac ratified the draft as written, so T4 / III / A / 26 / 26.0 stand as set. The row was added to the Standing Index's T4–T5 table (after Gravemark Ink, the last T4 row, where the Dawi's Cask-Oath Pitch sits in the T1–T3 table) and, in the Material Index's own format, to the T4 · Reinforced Magical band of The Material Index · T0–T4 as \"Agano Sand, Holding · Sand · Kushara, the Paths\" with no Resonance / Family / Domain (the draft gives none; the cell reads \"—\" like the other unassigned T4 rows). The \"learns the strain it survives\" behaviour is the item-scale echo of the hub's Ancestral Dominion Frame (\"repeated impact against them becomes less effective as their body 'learns' the force\").",
+    "superseded_by": []
+  },
+  {
     "id": "R34-1-MOTO_MATERIAL_CULTURE",
     "pack": "Moto Material Culture Ruling",
     "pack_number": null,
@@ -4822,8 +4890,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Two.md",
       "lines": "116"
     },
-    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a background research agent -- Agano Sand and the Witnessed Temper, a Vow Clause application. Full draft in proposals/zettari_forge_culture_draft.md, logged in proposals/PROPOSED.md. Surfaced a real naming split while drafting it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before this pitch is ratified. C-005 ruled 2026-09-12: Zettari; that blocker is cleared, the pitch itself still awaits Isaac's read.",
-    "superseded_by": []
+    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a background research agent -- Agano Sand and the Witnessed Temper, a Vow Clause application. Full draft in proposals/zettari_forge_culture_draft.md, logged in proposals/PROPOSED.md. Surfaced a real naming split while drafting it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before this pitch is ratified. C-005 ruled 2026-09-12: Zettari; that blocker is cleared, the pitch itself still awaits Isaac's read. RATIFIED 2026-09-12 as written: superseded by R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER (rules/doc-zettari-forge-culture.yaml), published at wiki/The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md.",
+    "superseded_by": [
+      "R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER"
+    ]
   },
   {
     "id": "R3-7-COZBI_ASSIGNED",
@@ -5594,8 +5664,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Three.md",
       "lines": "121"
     },
-    "notes": "Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md. RATIFIED 2026-09-12 as written: superseded by R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER (rules/doc-zettari-forge-culture.yaml).",
+    "superseded_by": [
+      "R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER"
+    ]
   },
   {
     "id": "R4-13-DELETION_TEST",
@@ -6744,8 +6816,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "222"
     },
-    "notes": "Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET). RULED 2026-09-12: see R2-OP-ZETTARI_DOCKET, the same docket item -- pitch drafted, proposals/PROPOSED.md. RATIFIED 2026-09-12 as written: superseded by R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER (rules/doc-zettari-forge-culture.yaml).",
+    "superseded_by": [
+      "R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER"
+    ]
   },
   {
     "id": "R5-A-FLESH_CHANGES",

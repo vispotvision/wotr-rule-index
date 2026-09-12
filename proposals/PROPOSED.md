@@ -35,7 +35,7 @@ what happens if it's ever forced into the open.
 
 ## 2026-09-12 — Zettari forge-culture substrate pitch, Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET)
 
-**Status:** drafted by a background research agent, awaiting Isaac's read; C-005 blocker cleared 2026-09-12
+**Status:** ratified 2026-09-12, Isaac: as written → R33-1, R33-2 (rules/doc-zettari-forge-culture.yaml; R2/R3/R4-OP-ZETTARI_DOCKET superseded); published at wiki/The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md (Notion 3d958200-eb22-8194-b37e-f545cd2129dd, child of The Zettari), with the Agano Sand row added to the Standing Index T4–T5 table and the Material Index T4 band
 **applies_to:** worldbuilding, items, naming
 **Full draft:** proposals/zettari_forge_culture_draft.md
 

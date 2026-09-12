@@ -417,7 +417,11 @@ rules:
       proposals/PROPOSED.md. Surfaced a real naming split while drafting
       it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before
       this pitch is ratified. C-005 ruled 2026-09-12: Zettari; that blocker
-      is cleared, the pitch itself still awaits Isaac's read.
+      is cleared, the pitch itself still awaits Isaac's read. RATIFIED
+      2026-09-12 as written: superseded by
+      R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER
+      (rules/doc-zettari-forge-culture.yaml), published at wiki/The
+      Zettari/The Zettari — Agano Sand and the Witnessed Temper.md.
 
   - id: R2-OP-COZBI_GRAMMAR
     pack: Pack Two

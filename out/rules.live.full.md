@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-483 live of 595 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+485 live of 597 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (25)
 
@@ -1583,7 +1583,7 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
-## items (21)
+## items (23)
 
 ### R18-5-ALCHEMY_SOURCE_ORDER [Pack Eighteen §5]
 
@@ -1710,6 +1710,18 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
+
+### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
+
+The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
+
+> A Vow Clause working, not a new kind of magic. At the quench, the smith — or the sovereign the piece is being made for — speaks a bound claim over the object before a Stone Witness: a ruin, an ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it must be something older than the speaker. That claim becomes a standing law the object runs, exactly as a spoken vow becomes a standing law a Soul Crystal runs.
+
+### R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR [Zettari Forge Culture Ruling Standing Ruling]
+
+A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
+
+> If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
 ## magic-design (72)
 
@@ -2956,7 +2968,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (84)
+## naming (86)
 
 ### R16-6-COINAGE_HANDLING [Pack Sixteen §6]
 
@@ -3455,6 +3467,18 @@ Introduce a character by whatever name the POV character would use (formal on fi
 Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
 
 > The governing principle: they are surgeons, and they talk like surgeons who have never been told to be squeamish about it.
+
+### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
+
+The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
+
+> A Vow Clause working, not a new kind of magic. At the quench, the smith — or the sovereign the piece is being made for — speaks a bound claim over the object before a Stone Witness: a ruin, an ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it must be something older than the speaker. That claim becomes a standing law the object runs, exactly as a spoken vow becomes a standing law a Soul Crystal runs.
+
+### R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR [Zettari Forge Culture Ruling Standing Ruling]
+
+A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
+
+> If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
 ### R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC [Zettari Naming Register Ruling Standing Ruling]
 
@@ -6019,7 +6043,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (110)
+## worldbuilding (112)
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -6680,3 +6704,15 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
 
 > It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
+
+### R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER [Zettari Forge Culture Ruling Standing Ruling]
+
+The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
+
+> A Vow Clause working, not a new kind of magic. At the quench, the smith — or the sovereign the piece is being made for — speaks a bound claim over the object before a Stone Witness: a ruin, an ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it must be something older than the speaker. That claim becomes a standing law the object runs, exactly as a spoken vow becomes a standing law a Soul Crystal runs.
+
+### R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR [Zettari Forge Culture Ruling Standing Ruling]
+
+A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
+
+> If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.

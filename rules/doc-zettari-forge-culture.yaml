@@ -1,0 +1,142 @@
+# Standing ruling, originated: no source document in sources/. Isaac ratified,
+# 2026-09-12, as written, the proposal "Zettari forge-culture substrate pitch,
+# Docket 18" (proposals/zettari_forge_culture_draft.md, logged in
+# proposals/PROPOSED.md), which answers the Docket 18 item carried by
+# R2-OP-ZETTARI_DOCKET, R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET -- "the
+# oldest unaddressed gap in the project". The ratified text is published as the
+# Notion wiki page "The Zettari — Agano Sand and the Witnessed Temper"
+# (3d958200-eb22-8194-b37e-f545cd2129dd), a child of The Zettari hub, mirrored
+# at wiki/The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md; the
+# trade entry is also carried in the Standing Index's T4–T5 table and the
+# Material Index T4 band. Every verbatim below is a contiguous quote of that
+# page. Spelling follows C-005 (Zettari, ruled 2026-09-12); the name "Agano"
+# sits in the Zettari's own Swahili/Bantu/Arabic register per C-006 / R32-1.
+# R33 is the id-numeral bucket assigned to this ruling (R25-R32 and R34-R37 are
+# the other standalone rulings of 2026-09-12 in rules/doc-*.yaml); it is
+# unrelated to those clusters and simply continues the numbering. Uses R25-1's
+# "standalone doc, no pack number, empty source.file" pattern. The `amends`
+# guide name follows the nine existing rows that cite the Item and Equipment
+# Writing Guide as "WOTR_Item_and_Equipment_Writing_Guide.md".
+pack: Zettari Forge Culture Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ratified as written"
+rules:
+
+  - id: R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER
+    pack: Zettari Forge Culture Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: Agano Sand and the Witnessed Temper, the Zettari forge culture as a Vow Clause application
+    status: live
+    kind: definition
+    summary: >-
+      The Zettari forge culture answers "what makes a thing trustworthy?"
+      with witness and inheritance, not time: a Zettari-forged object is
+      declared reliable once, before a witness older than the speaker, and
+      the bloodline's Material Covenant Resonance holds the declaration in
+      place. The substrate is Agano Sand ("covenant", Swahili-derived,
+      inside the Zettari's own register), a working measure of the Paths'
+      sand -- condensed lineage memory -- folded into the quench. It is
+      access-gated rather than time-gated: it must come from, or through,
+      someone the Paths already recognize. The rite is the Witnessed
+      Temper, a Vow Clause working and not new magic: at the quench the
+      smith or the sovereign the piece is for speaks a bound claim over
+      the object before a Stone Witness (a ruin, an ancestral hall, a
+      Path-linked relic), and the claim becomes a standing law the object
+      runs. Write it as witnessed law, set against the Dawi's brewed
+      endurance; the cross-culture parallel slot is deliberately left open.
+    verbatim: >-
+      A Vow Clause working, not a new kind of magic. At the quench, the
+      smith — or the sovereign the piece is being made for — speaks a
+      bound claim over the object before a Stone Witness: a ruin, an
+      ancestral hall, a Path-linked relic. Per the Stone Witness Oath, it
+      must be something older than the speaker. That claim becomes a
+      standing law the object runs, exactly as a spoken vow becomes a
+      standing law a Soul Crystal runs.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: "Zettari forge culture / Vow Clause"
+        operation: adds
+    supersedes: [R2-OP-ZETTARI_DOCKET, R3-OP-ZETTARI_DOCKET, R4-OP-ZETTARI_DOCKET]
+    applies_to: [worldbuilding, items, naming]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Answers Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET, "the oldest unaddressed
+      gap in the project"), which Isaac ruled should be drafted as a pitch
+      mirroring the Dawi's Cask-Oath approach. Built only on lore already
+      on record: Material Covenant Resonance and the Stone Witness Oath
+      (The Zettari hub), the Paths' sand as condensed lineage memory and
+      its lineage-acknowledged entry gate (The Paths), and the Vow Clause
+      as the setting's one general oath-magic mechanism (The Magical
+      Categories). Published 2026-09-12 as a child page of The Zettari hub,
+      mirroring the Moto Material Culture precedent (R34) rather than the
+      Dawi's inline subsection, because the ratified text is too long for
+      the hub's Culture list; the hub's Culture section gained a one-line
+      pointer after the Stone Witness Oath entry and the Register note
+      ruled the same day was left untouched. Item-level consequences and
+      the trade entry are R33-2.
+
+  - id: R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR
+    pack: Zettari Forge Culture Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: What a Witnessed-Tempered item does, what breaks it, and its trade entry
+    status: live
+    kind: definition
+    summary: >-
+      A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion
+      Frame: every significant strain it survives in the hands of whoever
+      it was sworn to makes it measurably more resistant to that same kind
+      of stress thereafter, and the hardening plateaus the way the
+      bloodline's own combat maturity does. If the piece changes hands
+      outside the terms of the oath its accrued memory does not transfer
+      -- the cost falls on the object's recognition of the new holder, not
+      on the oath-breaker's Crystal Coherence as with the Dawi -- and in
+      the worst documented cases Physical Plane Authority's "hold shape"
+      reverses for that bearer alone, making the piece more failure-prone
+      in their hands than an ordinary equivalent. Trade entry, Standing
+      Index format: Agano Sand, T4, provenance restricted, Class III /
+      Fidelity A / Carry 26, price 26.0; sourcing requires a
+      lineage-acknowledged Zettari's sponsorship, and no smith outside
+      Kushara has explained why the sand only "listens" to a claim spoken
+      over stone older than the speaker.
+    verbatim: >-
+      If the piece changes hands outside the terms of the oath, its
+      accrued memory does not transfer. This is not the Dawi's
+      Crystal-Coherence self-punishment, a cost paid by the oath-breaker's
+      own soul; it is closer to the Weight of the Blood, where failure
+      feels ancestral rather than personal. The object simply stops
+      recognizing the new holder as a party the law was made for. In the
+      worst documented cases, Physical Plane Authority's "hold shape"
+      reverses for that bearer alone, and the piece becomes more
+      failure-prone in their hands than an ordinary equivalent.
+    amends:
+      - guide: "WOTR_Item_and_Equipment_Writing_Guide.md"
+        locus: "Zettari forge culture / Vow Clause"
+        operation: adds
+    supersedes: []
+    applies_to: [worldbuilding, items, naming]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      The draft had marked the trade entry's tier, price and Carry as
+      "placeholder extrapolation ... not canon until Isaac sets them";
+      Isaac ratified the draft as written, so T4 / III / A / 26 / 26.0
+      stand as set. The row was added to the Standing Index's T4–T5 table
+      (after Gravemark Ink, the last T4 row, where the Dawi's Cask-Oath
+      Pitch sits in the T1–T3 table) and, in the Material Index's own
+      format, to the T4 · Reinforced Magical band of The Material Index ·
+      T0–T4 as "Agano Sand, Holding · Sand · Kushara, the Paths" with no
+      Resonance / Family / Domain (the draft gives none; the cell reads
+      "—" like the other unassigned T4 rows). The "learns the strain it
+      survives" behaviour is the item-scale echo of the hub's Ancestral
+      Dominion Frame ("repeated impact against them becomes less effective
+      as their body 'learns' the force").

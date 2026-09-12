@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-559 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+560 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -446,9 +446,10 @@
 - [The Runners](The%20War%20Cycle/The%20Runners.md)
 - [Walls and What Beats Them](The%20War%20Cycle/Walls%20and%20What%20Beats%20Them.md)
 
-## The Zettari (1)
+## The Zettari (2)
 
 - [The Paths](The%20Zettari/The%20Paths.md)
+- [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
 ## Volume I — Character Cards (49)
 

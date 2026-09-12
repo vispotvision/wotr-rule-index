@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810b-85fc-ca85cff49bae"
 notion_url: "https://app.notion.com/p/The-Zettari-3b158200eb22810b85fcca85cff49bae"
 section: "The Archaic Bloodlines"
 tags: []
-last_edited: "2026-09-12T20:23:00.000Z"
+last_edited: "2026-09-12T20:33:00.000Z"
 verification: "unverified"
 ---
 
@@ -103,6 +103,7 @@ Heightened sensitivity to density, weight, structural integrity, and material co
 **Cord of Becoming** · A Zettari crafts cords with beads and ornaments to mark growth, battle survival, grief, vows, marriage, inheritance, and sovereign duty.
 **Ink Rite of the Living Ancestor** · Patterned tattoos given after major life thresholds. **These marks record what the body endured and what the soul refused to abandon.**
 **Stone Witness Oath** · Important vows are spoken before stone, ruins, ancestral halls, or Path-linked relics. **A vow is not considered complete unless something older than the speaker hears it.**
+**Agano Sand and the Witnessed Temper** · The forge culture. A bound claim spoken over the quench before a Stone Witness, held in place by Material Covenant Resonance. *See The Zettari — Agano Sand and the Witnessed Temper.*
 **Ancestor Communion** · The living sit in silence and listen for ancestral pressure through cords, tattoos, relics, and the Soul Crystal.
 **Signature imagery** · Gold and silver jewelry, dark robes, white eyes, black hair, royal cords, ancestral sand, patterned tattoos, stone halls, heavy drums, **and pressure beneath the feet.**
 **Register** · The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
@@ -145,3 +146,4 @@ Modern known Zettari include **Rashani, Ma'Kovu, Zuberi, and Rengai Zettari**, c
 | **Dawam Soul-Still Art** | A soul-stagnation form that **locks healing, adaptation, emotional flow, and Aetheric bonds** |
 
 - [The Paths](The Zettari/The Paths.md)
+- [The Zettari — Agano Sand and the Witnessed Temper](The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md)

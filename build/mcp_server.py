@@ -1527,7 +1527,13 @@ def main() -> int:
         server.run()
         return 0
     if not args.token:
-        server.run(transport="streamable-http", host="127.0.0.1", port=args.port)
+        # Loopback only, but the n8n container reaches it as host.docker.internal, which the
+        # SDK's Host-header check would otherwise answer with 421 "Invalid Host header".
+        from mcp.server.transport_security import TransportSecuritySettings
+        loopback = ["127.0.0.1:*", "localhost:*", "[::1]:*", "host.docker.internal:*"]
+        security = TransportSecuritySettings(enable_dns_rebinding_protection=True, allowed_hosts=loopback,
+                                             allowed_origins=[f"http://{h}" for h in loopback])
+        server.run(transport="streamable-http", host="127.0.0.1", port=args.port, transport_security=security)
         return 0
     token = shared_token()
     if len(token) < 16:

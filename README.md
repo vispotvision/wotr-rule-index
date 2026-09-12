@@ -96,7 +96,17 @@ entry — a Kokoro voice with a habitual `speed` and `gain`, or
 `engine: chatterbox` (`build/chatterbox_setup.ps1` makes its venv; Turbo for
 cues and speed, `model: standard` for the `exaggeration` / `cfg` knobs; either
 can design a voice from a short `ref:` clip). Speakers nobody has assigned get
-a stable pick from `_pool`.
+a stable pick from `_pool`. Fight passages: tag them `[narrator: urgent]` or
+give the narrator a Chatterbox register (`narrator-combat`, a reference clip
+made from the narrator's own Kokoro voice) so the narration performs them.
+
+Reference clips come from openly licensed corpora, with credit:
+`build/voice_refs.py --browse M Scottish` lists VCTK speakers (110 English
+speakers, CC BY 4.0, tagged by gender, age and accent);
+`--make gimbzo p254` joins ~11 s of one speaker into `build/voices/refs/gimbzo.wav`
+and writes the attribution line to `build/voices/refs/CREDITS.md`. The second
+Kokoro pack (`--fetch-model --pack zh`: v1.1-zh, 100 Mandarin voices plus the
+English `af_maple`, `af_sol`, `bf_vale`) is addressed as `zh/<voice>`.
 
 ```
 python build/audio_export.py --fetch-model                 # once, ~350 MB into build/models/
@@ -185,6 +195,20 @@ restarting the task; everyone then needs the new URL. Turn it off with
 Funnel needs to be enabled once for the tailnet (the first `tailscale funnel`
 prints the link); the `WOTR MCP` connector in Claude Desktop on this PC still
 runs over stdio with every tool, unaffected.
+
+## The book pipeline, without n8n
+
+`n8n/BOOK_PIPELINE.md` is the full design (n8n nodes, ten check passes, cost).
+Until an API key exists it runs inside Claude Code instead, on the
+subscription: `.claude/workflows/book-chapter.js` takes one chapter through
+foundation (once: the book's spine derived from the Fronts and Ledger) →
+brief → draft → deterministic checks and five evidence-quoting critics →
+up to three revise rounds with monotone acceptance → a gate digest for Isaac.
+Nothing is archived by the workflow; on approval, `archive_scene` files the
+chapter as a scene. Book state lives in `book/<slug>/` (`outline.json`,
+`bible.md`, `state.json`, one folder per chapter with every round's draft and
+findings). `build/book_tools.py` is the MCP's read-only tool set as a command
+line for the workflow's agents.
 
 ## What this feeds
 

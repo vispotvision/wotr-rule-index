@@ -1290,9 +1290,13 @@ def scene_text(scene: str) -> str:
     """The scene's narration text in the cast-file format: a `# Title` line, paragraphs separated by
     blank lines, `---` for section breaks, author notes and markdown removed. This is exactly what the
     narrator reads. To give characters their own voices, insert speaker tags where the voice changes —
-    [Verinus] before a spoken line, [narrator] to return — optionally with delivery after a colon
-    ([Verinus: slow, beat]; words: slow, slower, fast, faster, quiet, loud, whisper, beat, long beat),
-    change nothing else, and pass the result to cast_scene. Untagged text is the narrator's."""
+    [Verinus] before a spoken line, [narrator] to return — and let the prose set the delivery: a dialogue
+    tag or the narration around a line ("he said quietly", "roared", "after a silence", "she laughed and
+    said") becomes delivery after a colon ([Verinus: quiet], [Gimbzo: loud], [Ruin: beat]; words: slow,
+    slower, fast, faster, quiet, loud, whisper, beat, long beat) or a performed cue inside the line ([laugh],
+    [chuckle], [sigh], [gasp], [cough], [clear throat]) — only where the text says so, never invented.
+    Italic direct thought is the POV character's own voice. Change nothing else, and pass the result to
+    cast_scene. Untagged text is the narrator's."""
     path, candidates = _find_scene(scene)
     if path is None:
         return ("More than one scene matches; say which:\n  " + "\n  ".join(candidates)) if candidates else f"No scene matches {scene!r}."

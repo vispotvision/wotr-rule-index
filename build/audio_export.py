@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Narrate the scene archive with Kokoro, locally, in reading order.
 
-  python build/audio_export.py --fetch-model            # once: the model files (~340 MB) into build/models/
+  python build/audio_export.py --fetch-model            # once: the model files (~350 MB) into build/models/
+  python build/audio_export.py --fetch-model --pack zh  # the v1.1-zh pack too: 100 Mandarin voices + af_maple, af_sol, bf_vale (~380 MB)
   python build/audio_export.py --list-voices            # the voices the model carries
   python build/audio_export.py --scene 02_verinus_testament_of_the_sixty_fifth.md --voice af_heart
   python build/audio_export.py --out "G:/My Drive/War of the Realms — Documents/Arcs/Audio" --max-minutes 20
@@ -57,8 +58,6 @@ ROOT = Path(__file__).resolve().parent.parent
 SCENES = ROOT / "scenes"
 MODELS = ROOT / "build" / "models"
 LEXICON = ROOT / "build" / "pronounce.json"
-MODEL_URL = "https://github.com/thewh1teagle/kokoro-onnx/releases/download/model-files-v1.0/"
-MODEL_FILES = {"kokoro-v1.0.onnx": 325_532_000, "voices-v1.0.bin": 27_268_000}  # approximate sizes
 
 sys.path.insert(0, str(ROOT / "build"))
 import docs_export as D  # noqa: E402
@@ -142,6 +141,7 @@ SPAN_PAUSE = 0.12       # between two voices inside one paragraph
 DELIVERY = {
     "slow": (0.9, 1.0, 0.0), "slower": (0.8, 1.0, 0.0), "fast": (1.1, 1.0, 0.0), "faster": (1.2, 1.0, 0.0),
     "quiet": (1.0, 0.7, 0.0), "loud": (1.0, 1.3, 0.0), "whisper": (0.95, 0.5, 0.0),
+    "urgent": (1.12, 1.15, 0.0),          # a fight, a chase: quicker and harder, for the narrator too
     "beat": (1.0, 1.0, 0.6), "long beat": (1.0, 1.0, 1.3),
 }
 
@@ -247,16 +247,39 @@ def speakers(cast) -> list[str]:
 
 # ---------------------------------------------------------------- synthesis
 
+PACKS = {                       # name -> (model file, voices file); a voice is "zh/af_maple" for the second pack
+    "v1.0": ("kokoro-v1.0.onnx", "voices-v1.0.bin"),
+    "zh": ("kokoro-v1.1-zh.onnx", "voices-v1.1-zh.bin"),   # Kokoro v1.1-zh: 100 Mandarin voices + af_maple, af_sol, bf_vale
+}
+
+
+class Engines:
+    """The Kokoro model(s), loaded on first use per pack."""
+
+    def __init__(self):
+        self._loaded = {}
+
+    def get(self, pack: str = "v1.0"):
+        if pack not in self._loaded:
+            try:
+                from kokoro_onnx import Kokoro
+            except ImportError:
+                sys.exit("kokoro-onnx is not installed: pip install kokoro-onnx soundfile lameenc")
+            model, voices = (MODELS / f for f in PACKS[pack])
+            if not (model.exists() and voices.exists()):
+                sys.exit(f"model files for pack {pack!r} missing in {MODELS}: run with --fetch-model" + (" --pack zh" if pack == "zh" else ""))
+            self._loaded[pack] = Kokoro(str(model), str(voices))
+        return self._loaded[pack]
+
+    def voices(self) -> list[str]:
+        out = list(self.get("v1.0").get_voices())
+        if all((MODELS / f).exists() for f in PACKS["zh"]):
+            out += ["zh/" + v for v in self.get("zh").get_voices()]
+        return out
+
+
 def load_engine():
-    try:
-        from kokoro_onnx import Kokoro
-    except ImportError:
-        sys.exit("kokoro-onnx is not installed: pip install kokoro-onnx soundfile lameenc")
-    model = MODELS / "kokoro-v1.0.onnx"
-    voices = MODELS / "voices-v1.0.bin"
-    if not (model.exists() and voices.exists()):
-        sys.exit(f"model files missing in {MODELS}: run with --fetch-model first")
-    return Kokoro(str(model), str(voices))
+    return Engines()
 
 
 VOICES_DIR = ROOT / "build" / "voices"
@@ -274,39 +297,46 @@ def load_presets() -> dict[str, str]:
     return {str(k): str(v) for k, v in load_voices_yaml().items() if not str(k).startswith("_")}
 
 
-def _single_style(engine, name: str, presets: dict[str, str], depth: int = 0):
-    """One term of a voice spec: a preset, a custom .npy/.npz in build/voices/, or a built-in."""
+def _single_style(engines: Engines, name: str, presets: dict[str, str], depth: int = 0):
+    """One term of a voice spec -> (style, pack): a preset, a custom .npy/.npz in build/voices/, or a built-in
+    ("zh/af_maple" names a voice of the v1.1-zh pack)."""
     name = name.strip()
     if depth > 8:
         sys.exit(f"voice preset loop at {name!r}")
     if name in presets:
-        return voice_style(engine, presets[name], presets, depth + 1)
+        return voice_style(engines, presets[name], presets, depth + 1)
     for ext in (".npy", ".npz"):
         p = VOICES_DIR / f"{name}{ext}"
         if p.exists():
             arr = np.load(p)
             if ext == ".npz":
                 arr = arr[list(arr.keys())[0]]
-            return np.asarray(arr, dtype=np.float32)
+            return np.asarray(arr, dtype=np.float32), "v1.0"
+    pack, _, bare = name.partition("/") if "/" in name else ("v1.0", "", name)
+    if pack not in PACKS:
+        sys.exit(f"unknown voice pack {pack!r} in {name!r}; packs: {', '.join(PACKS)}")
     try:
-        return engine.get_voice_style(name)
+        return engines.get(pack).get_voice_style(bare), pack
     except Exception:
         known = ", ".join(sorted(presets)) or "none"
         sys.exit(f"unknown voice {name!r}: not a built-in (--list-voices), a preset ({known}), or a file in {VOICES_DIR}")
 
 
-def voice_style(engine, spec: str, presets: dict[str, str] | None = None, depth: int = 0):
-    """A voice spec resolved to a style array: term[:weight][,term[:weight]...]."""
+def voice_style(engines: Engines, spec: str, presets: dict[str, str] | None = None, depth: int = 0):
+    """A voice spec resolved to (style array, pack): term[:weight][,term[:weight]...]; blends stay inside one pack."""
     presets = load_presets() if presets is None else presets
-    parts, total = [], 0.0
+    parts, total, packs = [], 0.0, set()
     for item in spec.split(","):
         name, _, w = item.partition(":")
         w = float(w or 1.0)
-        parts.append((_single_style(engine, name, presets, depth), w))
+        style, pack = _single_style(engines, name, presets, depth)
+        parts.append((style, w)); packs.add(pack)
         total += w
+    if len(packs) > 1:
+        sys.exit(f"voice blend {spec!r} mixes packs {sorted(packs)}; a blend must stay inside one pack")
     if len(parts) == 1:
-        return parts[0][0]
-    return sum(style * (w / total) for style, w in parts)
+        return parts[0][0], packs.pop()
+    return sum(style * (w / total) for style, w in parts), packs.pop()
 
 
 def silence(seconds: float):
@@ -320,8 +350,8 @@ class Speaker:
     """How one speaker is rendered: which engine (and Chatterbox model), which voice, and their habitual pace and level."""
 
     def __init__(self, name: str, engine: str, style, speed: float = 1.0, gain: float = 1.0, ref: str = "",
-                 exaggeration: float = 0.5, cfg: float = 0.5, model: str = "turbo"):
-        self.name, self.engine, self.style = name, engine, style
+                 exaggeration: float = 0.5, cfg: float = 0.5, model: str = "turbo", pack: str = "v1.0"):
+        self.name, self.engine, self.style, self.pack = name, engine, style, pack
         self.speed, self.gain, self.ref, self.exaggeration, self.cfg, self.model = speed, gain, ref, exaggeration, cfg, model
 
 
@@ -342,14 +372,15 @@ class Cast:
 
     def _build(self, name: str, entry) -> Speaker:
         if isinstance(entry, str):
-            return Speaker(name, "kokoro", voice_style(self.engine, entry, self.presets))
+            style, pack = voice_style(self.engine, entry, self.presets)
+            return Speaker(name, "kokoro", style, pack=pack)
         eng = str(entry.get("engine", "kokoro")).lower()
         if eng == "chatterbox":
             return Speaker(name, "chatterbox", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)),
                            str(entry.get("ref", "")), float(entry.get("exaggeration", 0.5)), float(entry.get("cfg", 0.5)),
                            str(entry.get("model", "turbo")).lower())
-        return Speaker(name, "kokoro", voice_style(self.engine, str(entry.get("voice", "af_heart")), self.presets),
-                       float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)))
+        style, pack = voice_style(self.engine, str(entry.get("voice", "af_heart")), self.presets)
+        return Speaker(name, "kokoro", style, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)), pack=pack)
 
     def speaker(self, who: str) -> Speaker:
         if who not in self.speakers:
@@ -357,7 +388,8 @@ class Cast:
                 self.speakers[who] = self._build(who, self.raw[who])
             else:
                 pick = self.pool[int(hashlib.sha256(who.encode("utf-8")).hexdigest(), 16) % len(self.pool)]
-                self.speakers[who] = Speaker(who, "kokoro", voice_style(self.engine, pick, self.presets))
+                style, pack = voice_style(self.engine, pick, self.presets)
+                self.speakers[who] = Speaker(who, "kokoro", style, pack=pack)
                 self.unassigned.append(f"{who} -> {pick}")
         return self.speakers[who]
 
@@ -368,7 +400,7 @@ def render_span(cast: Cast, sp: Speaker, text: str, speed: float) -> np.ndarray:
         if sp.model != "turbo":
             text = strip_cues(text)
         return cb_synth(cast, sp, text, speed)
-    samples, sr = cast.engine.create(strip_cues(text), voice=sp.style, speed=speed, lang="en-us")
+    samples, sr = cast.engine.get(sp.pack).create(strip_cues(text), voice=sp.style, speed=speed, lang="en-us")
     assert sr == SAMPLE_RATE, sr
     return samples.astype(np.float32)
 
@@ -424,15 +456,16 @@ def write_audio(samples: np.ndarray, path: Path, mp3: bool) -> Path:
 
 # ---------------------------------------------------------------- model files
 
-def fetch_model() -> None:
+def fetch_model(pack: str = "v1.0") -> None:
     MODELS.mkdir(parents=True, exist_ok=True)
-    for name, approx in MODEL_FILES.items():
+    release = {"v1.0": "model-files-v1.0", "zh": "model-files-v1.1"}[pack]
+    for name in PACKS[pack]:
         dest = MODELS / name
-        if dest.exists() and dest.stat().st_size > approx * 0.9:
+        if dest.exists() and dest.stat().st_size > 1_000_000:
             print(f"  {name}: already here ({dest.stat().st_size:,} bytes)")
             continue
-        url = MODEL_URL + name
-        print(f"  fetching {url} (~{approx/1e6:.0f} MB)")
+        url = f"https://github.com/thewh1teagle/kokoro-onnx/releases/download/{release}/{name}"
+        print(f"  fetching {url}")
         with urllib.request.urlopen(url) as r, open(dest, "wb") as f:
             total, t0 = 0, time.time()
             while True:
@@ -460,13 +493,25 @@ def main() -> int:
     ap.add_argument("--check-cast", action="store_true", help="validate the cast files of the selected scenes and list their speakers")
     ap.add_argument("--no-cast", action="store_true", help="ignore cast files; one narrator voice")
     ap.add_argument("--fetch-model", action="store_true")
+    ap.add_argument("--pack", default="v1.0", choices=list(PACKS), help="with --fetch-model: which Kokoro pack (zh = v1.1-zh, 103 more voices)")
     ap.add_argument("--list-voices", action="store_true")
+    ap.add_argument("--say", help="render this text with --voice to --wav-out and stop (a voice test, or a reference clip for Chatterbox)")
+    ap.add_argument("--wav-out", default=str(ROOT / "docs" / "audio" / "say.wav"))
     a = ap.parse_args()
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
 
     if a.fetch_model:
-        fetch_model()
+        fetch_model(a.pack)
+        return 0
+    if a.say:
+        import soundfile as sf
+        engine = load_engine()
+        cast = Cast(engine, a.voice)
+        samples = render_span(cast, cast.speaker("narrator"), respell(a.say, load_lexicon()), a.speed * cast.speaker("narrator").speed)
+        out = Path(a.wav_out); out.parent.mkdir(parents=True, exist_ok=True)
+        sf.write(str(out), samples, SAMPLE_RATE)
+        print(f"  {out}: {len(samples)/SAMPLE_RATE:.1f}s, voice {a.voice}")
         return 0
 
     lexicon = load_lexicon()
@@ -522,7 +567,7 @@ def main() -> int:
 
     engine = load_engine()
     if a.list_voices:
-        for v in engine.get_voices():
+        for v in engine.voices():
             print(" ", v)
         return 0
     cast_voices = Cast(engine, a.voice)

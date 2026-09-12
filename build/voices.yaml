@@ -25,11 +25,35 @@ Rubric:                # received liturgical text read out — level, unhurried
   voice: bm_daniel
   speed: 0.9
 
+narrator-combat:       # the narrator performing a fight: same voice, Chatterbox Turbo delivering it
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/narrator.wav
+  speed: 1.05
+
 # characters
 Verinus:               # seventy-one in a twenty-six-year-old's body; dry, exact, never hurried
   voice: "bm_george:0.7,bm_lewis:0.3"
   speed: 0.95
 Aurelian:
   voice: am_michael
+
+# The Seven, and the Price of Each — Chatterbox voices designed from VCTK speakers (CC BY 4.0, credits in build/voices/refs/CREDITS.md)
+Gimbzo:                # eight feet of him; the laugh goes through the uprights
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/gimbzo.wav
+  speed: 0.92
+  gain: 1.1
+Kizami:                # the Notcher; a neck with too many joints; keeps the record
+  engine: chatterbox
+  model: standard
+  ref: build/voices/refs/kizami.wav
+  exaggeration: 0.65
+  cfg: 0.4
+Darius:                # the Measurewright; thirty-five years and three tribunals
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/darius.wav
 
 _pool: [am_michael, bf_emma, am_fenrir, af_sarah, bm_lewis, af_nicole, am_eric, bf_alice]

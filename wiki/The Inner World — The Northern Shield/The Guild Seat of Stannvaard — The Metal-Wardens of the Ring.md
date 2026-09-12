@@ -4,14 +4,14 @@ notion_id: "3bc58200-eb22-8145-b4ee-d5a4fa1ad6bc"
 notion_url: "https://app.notion.com/p/The-Guild-Seat-of-Stannvaard-The-Metal-Wardens-of-the-Ring-3bc58200eb228145b4eed5a4fa1ad6bc"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-04T04:43:00.000Z"
+last_edited: "2026-09-12T16:46:00.000Z"
 verification: "unverified"
 ---
 
 # The Guild Seat of Stannvaard — The Metal-Wardens of the Ring
 
 *The Metal-Wardens of the Ring · The Ore Council · The Seat of the Scale · Central Shield*
-> ⚠️ **Amendment applied.** The source carries a **Malō of Sātūlagi** bilateral entry and attributes Fractura-attuned fortification assessment to **the Moto.** Sātūlagi is struck from canon. **Redirected to Kharven and the Moto**, pending ratification.
+> ⚠️ **Amendment applied.** The source carries a **Malō of Sātūlagi** bilateral entry and attributes Fractura-attuned fortification assessment to **the Moto.** Sātūlagi is struck from canon. **Redirected to Kharven and the Moto.** *Ratified 2026-09-12 -- the Moto hold one seat and it is Kharven, no other reading is possible once Sātūlagi is struck.*
 
 ---
 

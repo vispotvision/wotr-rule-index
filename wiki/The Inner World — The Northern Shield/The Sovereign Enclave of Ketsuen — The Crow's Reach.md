@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81c2-9d3b-d0e599c381e9"
 notion_url: "https://app.notion.com/p/The-Sovereign-Enclave-of-Ketsuen-The-Crow-s-Reach-3bc58200eb2281c29d3bd0e599c381e9"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-04T04:43:00.000Z"
+last_edited: "2026-09-12T16:46:00.000Z"
 verification: "unverified"
 ---
 
@@ -133,7 +133,7 @@ The Standard holds that every dispute involves not merely the parties and the ac
 **Ward-craft** · The defining product. A Ketsuen-standard ward carries a quality mark that frontier settlements recognise, Accord inspection accepts, **and competing providers have been unable to replicate — because the quality is not in the glyph formulae, which are published, but in the substrate-attunement process, which requires Cymorath perception most practitioners do not possess.**
 **Agriculture** · The Lake Districts and Sum-gol feed the kingdom. **Not self-sufficient**, a consequence of vast territory and sparse population; grain and preserved goods are imported through Nalūn's network.
 **Practitioner export** · The Academy trains anyone who can pass the entrance Proving. **A kingdom whose graduates maintain the wards on half the frontier's settlements is a kingdom that everyone depends on and that nobody wants to antagonise.**
-> ⚠️ **Corrected.** The source lists **ceremonial goods and military equipment imported from Sātūlagi.** That polity is struck. **Redirected to Kharven pending ratification.**
+> ⚠️ **Corrected.** The source lists **ceremonial goods and military equipment imported from Sātūlagi.** That polity is struck. **Redirected to Kharven.** *Ratified 2026-09-12.*
 
 ---
 

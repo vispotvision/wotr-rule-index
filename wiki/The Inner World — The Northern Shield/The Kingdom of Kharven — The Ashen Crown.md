@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T15:10:00.000Z"
+last_edited: "2026-09-12T16:46:00.000Z"
 verification: "unverified"
 ---
 
@@ -195,8 +195,8 @@ He had spent decades cultivating conditions where the Tenrai's influence was str
 ### The night
 
 Not open combat — **Muken would have survived open combat against any combination of practitioners the Tenrai could field.** Convergence-friendly channels: a carefully engineered sequence designed to produce his death **as an apparent consequence of circumstances rather than the result of a plot, so that the survivors would argue about causes rather than conspirators.**
-**It took Muken, Ayame and Nergüi in a single night.** The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority **documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.**
-> Sodoku and Chuluun answered the killing. **What happened at the Tenrai settlement afterward was not justice and was not revenge and was not any of the clean categories historians would later attempt to apply.**
+It took Muken, Ayame and Tomuka in a single night. The corridor was the instrument, prepared for months — every patrol reassignment, every witness post delay, every false escort authority documented and filed in the bureaucratic architecture built specifically to make the documentation impossible to find.
+> Sodoku and Sonzai answered the killing. What happened at the Tenrai settlement afterward was not justice and was not revenge and was not any of the clean categories historians would later attempt to apply.
 >
 > The High Council's charge — massacre including innocents and children — **is not entirely wrong. It is not entirely complete.** What propagated into the whisper-network was the version that the survivors and the people who wanted the Kōkan Line destroyed **needed to be true. Both groups had reasons to emphasise certain details. Both were served by the version that circulated.**
 The exile followed. **The oaths expired with Muken's death, and without the Crown's authority to hold it together and without the Fusi Vā to bind the oaths into something stronger than words, the kingdom fragmented along exactly the lines fragmentation always follows: geography, self-interest, and the specific mathematics of survival that the cold imposes on every decision.**
@@ -208,11 +208,11 @@ The exile followed. **The oaths expired with Muken's death, and without the Crow
 
 | Item | Conflict |
 |---|---|
-| **Muken's children** | **Partly ruled.** *Kuroyuki was Sodoku under the pre-amendment name* — struck as a separate sibling. The card now reads **Nergüi, Chuluun, Sükh, Sodoku, Nomin**, five, with the heir included. **Still open:** the received text's *three* against the card's *five*, and whether **Enkhtuya** is Muken's daughter, a ward, or a half-sibling. *Nergüi, Sükh and Nomin are originated names pending ratification* |
+| **Muken's children** | **Ruled 2026-09-12.** The wiki's Muken card stands: **Sodoku, Sonzai, Emira, Tomuka and Ezo** — five, matching the card's own Relationships table. The received text's three-heir roster (Temür/Chuluun as heirs) and Enkhtuya-as-child are not adopted; the earlier originated names *Nergüi, Sükh and Nomin do not survive the ruling*. |
 | **Muken's descent** | The Long Reading gives his birth in Nalūn to an Kōkan mother taken by a lesser noble house. **Unratified, so it is not written into the First King section**, which currently implies an unremarkable Kōkan inheritance. *If ratified, that section gains a paragraph and the Origin's opening changes from looked north to something acknowledging he had nowhere else to go* |
-| **The western ruin** | Open. **Glaciation does not leave the residual saturation Saruul reads there. A massacre does** |
-| **Fusi Vā as a word** | The term entered the record on the struck character card, attached to a Yuno line and a Totality-Rite priesthood that no longer exist. **The function is confirmed and the Yuno attribution is confirmed. Whether the word survives is undecided** |
+| **The western ruin** | **Ruled 2026-09-12.** A massacre — mass death by someone's hand, consistent with Saruul's reading (glaciation does not leave that kind of residual saturation, a massacre does). *Who did it stays open for the story.* |
+| **Saishiki, resolved** | **Ruled 2026-09-12.** There was no Agamalu attribution to begin with — the whole Filemu Agamalu identity is superseded (C-004). The rite is **Ayame Yuno's own Saishiki**, exactly as her Volume I card already has it. 'Fusi Vā' does not survive. |
 | **Cozbi** | A report circulating in the north holds that he is dead. **Unratified. This entry has not been altered to accommodate it** |
 | **The Sōhai** | The Culture section predates the doctrinal entry on the True High Religion. **If that entry is ratified, Culture gains a paragraph and the Holy Sea relation gains its real weight** — since the tenancy claim is what makes a petition south more than a beggar's letter |
 
-> **Closed against this entry.** The Sātūlagi flag — no references present in the received text, none removed. **The flag remains open against the Stannvaard and Undaar-Keth entries.**
+> **Closed against this entry.** The Sātūlagi flag — no references present in the received text, none removed. Ratified 2026-09-12 against Stannvaard and Ketsuen (both redirected to Kharven/Moto); Undaar-Keth already carried the redirect cleanly.

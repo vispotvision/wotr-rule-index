@@ -1,7 +1,7 @@
 # Seren Valenne · The Grey Adjudicator
 
 > *"Every lie leaves a gravity behind it."*
-> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage IX – Reflection"* is a Stage-error of the third class: Reflection is not among the sixteen. **The numeral wins; Stage IX is Invocation.** *"Path: Mind / Spirit / Balance"* is not a Path; **Spirit dominant, Attraction secondary, with the Mind reading taken as Gnosis weighting.** *"Aether Class: Equilibrant Soul"* is not among the seven; **at Stage IX, Coherence Band A, the Shell is Class V, Radiant.** *"Voyager Era (Imperial Year 740 – Present)"* is an inverted register under the Errata: the Voyager Era closes at Year 070 and the Withering opens at 645, so **Year 740 sits in the Withering Era and the reading is reversed.** *"Rank A (Senior)"* is tier language read as reputation; the Tiered Path places Stage IX at **Tier 6 · Master, title Warden of Duty.** **Babyl is struck from canon** and is carried here only because the card's origin and current posting cannot be stated without it; **pending a re-homing ruling.** *Caedor* is one of the nineteen orphaned realm entries pending keep-or-strike. **Unattested in current canon:** the Eighth Fracture of Faith, the Caedor–Babyl Arbitration, the Arbitration of Anguz (from Kaelrith Dorne's card), the title *Equilibrant Soul*. The mantle glyphs *Ur* (Balance) and *Ma* (Recall) are both attested in the Master Glyph Index. **Pending Isaac:** the Level (placed at 270 as an estimate inside Band III), the Allocated figure, and the stat pool method, because the brief's table (20/25/30 per Level, 400 per Threshold) and the live Part Three page (12/15/18 per Level, Stage×100 per Threshold) disagree; both figures are given and neither is chosen.
+> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage IX – Reflection"* is a Stage-error of the third class: Reflection is not among the sixteen. **The numeral wins; Stage IX is Invocation.** *"Path: Mind / Spirit / Balance"* is not a Path; **Spirit dominant, Attraction secondary, with the Mind reading taken as Gnosis weighting.** *"Aether Class: Equilibrant Soul"* is not among the seven; **at Stage IX, Coherence Band A, the Shell is Class V, Radiant.** *"Voyager Era (Imperial Year 740 – Present)"* is an inverted register under the Errata: the Voyager Era closes at Year 070 and the Withering opens at 645, so **Year 740 sits in the Withering Era and the reading is reversed.** *"Rank A (Senior)"* is tier language read as reputation; the Tiered Path places Stage IX at **Tier 6 · Master, title Warden of Duty.** **Babyl is struck from canon** and is carried here only because the card's origin and current posting cannot be stated without it; **pending a re-homing ruling.** *Caedor* is one of the nineteen orphaned realm entries pending keep-or-strike. **Unattested in current canon:** the Eighth Fracture of Faith, the Caedor and Babyl Arbitration, the Arbitration of Anguz (from Kaelrith Dorne's card), the title *Equilibrant Soul*. The mantle glyphs *Ur* (Balance) and *Ma* (Recall) are both attested in the Master Glyph Index. **Pending Isaac:** the Level (placed at 270 as an estimate inside Band III), the Allocated figure, and the stat pool method, because the brief's table (20/25/30 per Level, 400 per Threshold) and the live Part Three page (12/15/18 per Level, Stage×100 per Threshold) disagree; both figures are given and neither is chosen.
 
 ---
 
@@ -18,7 +18,7 @@
 **Guild Accord · Arbitration Division · Arbitration Adjudicator, Senior.** Assigned to the **Neutral Chambers** of the Inner World. Jurisdiction: disputes of Concord Law, Divine Sanction, and Temperance violations. *In current canon the Division's brief is diplomacy, treaty enforcement, mediation between nations and adjudication of the Trials of Resonance, which is the room this card describes.* The card's "Rank A (Senior)" reads as reputation; on the Tiered Path, Stage IX is **Tier 6 · Master, Warden of Duty.**
 > **Catalyst Event · Stage IX, Invocation.** *Calling on Wellsprings, Titans or Archonic law as co-authors; the Domain consolidates into a Realm.*
 >
-> **The Seal of the Grey Court grants immediate jurisdiction over disputes involving Archonic influence.** *A soul that sits in judgment over Archonic influence and is not destroyed by the proximity has stopped drawing on the law and started sitting beside it.* **The hour of silence at the Caedor–Babyl hearing was not commanded. It was co-authored, and the parties felt the second author as pressure.**
+> **The Seal of the Grey Court grants immediate jurisdiction over disputes involving Archonic influence.** *A soul that sits in judgment over Archonic influence and is not destroyed by the proximity has stopped drawing on the law and started sitting beside it.* **The hour of silence at the Caedor and Babyl hearing was not commanded. It was co-authored, and the parties felt the second author as pressure.**
 
 ---
 
@@ -27,7 +27,7 @@
 **Aether Shell** · **Class V · Radiant.** Aether bends toward the bearer; the Shell can hold a stabilising field against collapse. *The card's "Wellsprings stabilize in their presence" is this Class described from outside.*
 **Attraction Layer** · Developed, and pointed at contracts rather than people. *Fractured contracts realign near them; the Layer reads oaths as bonds.*
 **Crystal State** · Refined. **η** · 0.75–0.80, Band A.
-**The mirror, not the flame** · *The Core absorbs emotional resonance, interprets it, and returns it purified. In Invocation they perceive what resonates true rather than what is said.* **A mirror keeps nothing, which is the claim. The exhaustion on the card says the claim is not quite true.**
+**The mirror rather than the flame** · *The Core absorbs emotional resonance, interprets it, and returns it purified. In Invocation they perceive what resonates true rather than what is said.* **A mirror keeps nothing, which is the claim. The exhaustion on the card says the claim is not quite true.**
 
 ---
 
@@ -55,7 +55,7 @@
 | Dexterity | 290 | A | Their floor. Nothing about them moves quickly |
 
 **Path** · Spirit dominant, Attraction secondary. *"Mind" read as Gnosis weighting.*
-> **Ardency 318 in a Stage IX practitioner.** *Peace is not mercy, it is math, and math does not need to hit anything.* **Everything on this sheet that quells an interrealm war is Harmonics and Dominion, and the exhaustion under the tranquil exterior is a Vitality a full two Grades below the Harmonics that is spending it.**
+> **Ardency 318 in a Stage IX practitioner.** *Peace is math rather than mercy, and math does not need to hit anything.* **Everything on this sheet that quells an interrealm war is Harmonics and Dominion, and the exhaustion under the tranquil exterior is a Vitality a full two Grades below the Harmonics that is spending it.**
 
 ---
 
@@ -87,7 +87,7 @@
 
 ### Temperance Synchrony
 
-**Effect** · **Two clashing Essences in one room are brought to equilibrium.** *Judicium reads each party's spectrum; Ur on the mantle sets a boundary that equalises the opposing gradients; Coagula sinters the fractured contract between them back into one body.* Lies acquire weight and honesty loses it, and the parties fall silent under a serenity they did not choose. **At the Caedor–Babyl hearing, both sides held that silence for an hour.**
+**Effect** · **Two clashing Essences in one room are brought to equilibrium.** *Judicium reads each party's spectrum; Ur on the mantle sets a boundary that equalises the opposing gradients; Coagula sinters the fractured contract between them back into one body.* Lies acquire weight and honesty loses it, and the parties fall silent under a serenity they did not choose. **At the Caedor and Babyl hearing, both sides held that silence for an hour.**
 **Cost** · **A mirror that absorbs resonance in order to return it purified has, for the length of the hearing, absorbed it.** *The exhaustion beneath the tranquil exterior is the residue. It is carried out of the chamber and it is still there when nobody is disputing anything.* Coagula's porosity is the second bill: what is sintered is not fully dense, and the void sits where the next fracture will start.
 **Limit** · **It equalises. It does not decide.** Both parties must be present and emitting; a hearing of forty souls is a spectral overload and the Adjudicator loses the thread. Nothing about it works at speed, and nothing about it works on a party that has already left the room.
 **Counter** · **Say nothing.** *Judicium reads emission, and a soul that gives no spectrum gives nothing to weigh.* A practitioner trained in Harmonics Suppression masks the field and enters the Chambers as a blank; a Silentia working severs the room's resonance outright. **Or strike at the void: find the clause Coagula sintered around and it fractures there first.**
@@ -98,8 +98,8 @@
 ## IX · Relationships
 
 **The Arbitration Division** · Peers call them the Grey Adjudicator. **Famed for never raising their voice nor drawing a weapon, and for quelling conflicts that once became interrealm wars.**
-**Kaelrith Dorne, the Iron Wound** · *From his card, not theirs.* **Unofficial reports say Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was counted peace enough.** *Unattested event; orphaned realm.*
-**The parties to the Caedor–Babyl Arbitration** · A contested Wellspring boundary dispute after the Eighth Fracture of Faith. *Both names unattested or struck; carried as the card states them.*
+**Kaelrith Dorne, the Iron Wound** · *Taken from his card rather than theirs.* **Unofficial reports say Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was counted peace enough.** *Unattested event; orphaned realm.*
+**The parties to the Caedor and Babyl Arbitration** · A contested Wellspring boundary dispute after the Eighth Fracture of Faith. *Both names unattested or struck; carried as the card states them.*
 
 ---
 

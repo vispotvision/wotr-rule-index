@@ -91,7 +91,7 @@
 **Cost** · **What is absorbed is stored, and the store is a wound that never closes.** *Exuroth's quench-and-temper cycle stalled mid-quench: the lattice is hard, brittle, and split along its own thermal gradient, and the split is the scar on his face.* The Class I Shell leaks it back unevenly on bad nights. **He carries a war's worth of heat under his gloves whether or not anyone is burning.**
 **Limit** · **A few metres, and only where he stands.** It is passive; it cannot be aimed, thrown or withheld. Above the Stage IV ceiling nothing on this sheet can push, and a fire hotter than his Tolerance refuses to be drunk. **He is stalled at the Band I gate and has been since the Collapse.**
 **Counter** · **Bleed him.** *Penanceflare has no concealment mode; open the skin and the stored heat leaves through the wound, and the air around him turns hot in exactly the measure it was cold.* Or move the fire: **the effect ends with distance, and he will not follow.**
-> **What nobody knows.** Whether the heat signatures near his home on storm nights are the Wellspring reawakening, as the reports suggest, or the Stage V Threshold he has been standing at for years finally starting to fracture.
+> **What nobody knows.** What the heat signatures near his home on storm nights are. The reports say the Wellspring is reawakening. The sheet says he has stood at the Stage V Threshold for years, and a Crystal that finally fractures would read the same way.
 
 ---
 

@@ -1089,6 +1089,53 @@ def session_end(thread: str, scene_markdown: str, rulings: list[str] | None = No
     return "\n".join(out)
 
 
+# --------------------------------------------------------------------------
+# archive-wide audits (build/audit.py)
+
+import audit as A
+
+
+@server.tool()
+def prose_pass() -> str:
+    """Run verify_scene over every scene in the archive and write reports/prose_pass_<date>.md.
+    Returns the summary table. Nothing is edited."""
+    return A.prose_pass().read_text(encoding="utf-8")[:6000]
+
+
+@server.tool()
+def recurrence_report() -> str:
+    """How often each Kharven signature item appears across the archive: which are
+    signatures, which are strays, which scenes are under the two-item minimum."""
+    return A.recurrence().read_text(encoding="utf-8")[:6000]
+
+
+@server.tool()
+def reconcile() -> str:
+    """Mechanical consistency checks across the wiki, the scenes and the index:
+    duplicate pages, a character's Stage or Level stated differently in a scene than
+    on the card, a Wellspring named with the wrong Family."""
+    return A.reconcile().read_text(encoding="utf-8")[:6000]
+
+
+@server.tool()
+def pack_impact(markdown: str, name: str = "new_pack") -> str:
+    """Before a new amendment pack is extracted: which live rules share distinctive
+    vocabulary with its text, so collisions are read before they become conflicts."""
+    tmp = ROOT / "reports" / f"_impact_input_{_slug(name)}.md"
+    tmp.parent.mkdir(exist_ok=True)
+    tmp.write_text(markdown, encoding="utf-8", newline="\n")
+    out = A.impact(str(tmp)).read_text(encoding="utf-8")
+    tmp.unlink(missing_ok=True)
+    return out[:8000]
+
+
+@server.tool()
+def timeline() -> str:
+    """scenes/TIMELINE.md: every scene in reading order with the in-world moment the
+    text states. Created as a skeleton on first call; edit the 'placed' column."""
+    return A.timeline().read_text(encoding="utf-8")[:8000]
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--http", action="store_true", help="serve streamable HTTP on --port instead of stdio")

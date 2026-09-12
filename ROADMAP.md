@@ -22,17 +22,17 @@ are made, not left pending.
 
 ## Phase C — canon integrity
 
-- [ ] The reconcile: wiki vs live rules vs scenes, contradictions listed
-- [ ] Timeline: `scenes/TIMELINE.md`, every scene placed; new scenes checked against it
-- [ ] Card-to-scene consistency: what a scene says about a character vs the card
-- [ ] Pack impact check: which live rules a new pack's text touches, before extraction
+- [x] The reconcile: wiki vs live rules vs scenes, contradictions listed
+- [x] Timeline: `scenes/TIMELINE.md`, every scene placed; new scenes checked against it
+- [x] Card-to-scene consistency: what a scene says about a character vs the card
+- [x] Pack impact check: which live rules a new pack's text touches, before extraction
 
 ## Phase D — prose
 
-- [ ] Ladder / prose-law pass over the archive: `reports/prose_pass.md`
+- [x] Ladder / prose-law pass over the archive: `reports/prose_pass.md`
 - [ ] Voice fingerprints per character; `verify_scene` flags swapped voices
 - [ ] Standing Inventory skeletons for the other cultures, drafted from the wiki for pruning
-- [ ] Recurrence tracking across scenes (which signature items are stale or overused)
+- [x] Recurrence tracking across scenes (which signature items are stale or overused)
 - [ ] The gap-fill pass (Thirteen §5) as a structured report
 
 ## Phase E — readers

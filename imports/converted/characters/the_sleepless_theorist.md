@@ -1,7 +1,7 @@
 # Dr. Vaelion Rhest · The Sleepless Theorist
 
 > *"Sleep is for the people who don't argue with Wellsprings."*
-> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage VIII – Benediction"* is the Benediction mapping the Volume V register already rules on: Benediction is a Wellspring, not a Stage, and **it maps to Stage VIII, Transcendence.** *"Path: Mind / Spirit / Insight"* is not a Path; **Spirit dominant, Attraction secondary, with Mind read as Gnosis weighting.** *"Aether Class: Cognitivist Weaver"* is not among the seven; **at Stage VIII, Coherence Band B, a Spirit Path Shell that clarified faster than Core or Layer is Class IV, Luminous.** *"Voyager Era (Imperial Year 745 – Present)"* is an inverted register under the Errata; **Year 745 sits in the Withering Era**, and the card's "post-Withering reconstruction" is corrected to reconstruction inside the Withering, which is open. **Vellsorea** is one of the nineteen orphaned realm entries pending keep-or-strike. **Eresse is attested** (the High Empire of Eresse, elven); the title *Archmages of Eresse* is not. **Animatria is an attested Category**, Spirit-aligned, and the card's "Versions of Sleep" convert to it without loss: fragments of the theorist's own Essence Core given temporary independent operation. **Unattested in current canon:** the Neutral Chambers' Eastern Node, *Animatria Tier III – Cognitive Equilibrium Laws*, *Animatria Resonance Studies*, the title *Cognitivist Weaver*. The Research and Archives Division and the Neutral Chambers are attested. **Pending Isaac:** the Level (placed at 232 as an estimate in Band III), the Allocated figure, and the stat pool method; both the brief's figure and the live Part Three figure are given.
+> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage VIII – Benediction"* is the Benediction mapping the Volume V register already rules on: Benediction is a Wellspring rather than a Stage, and **it maps to Stage VIII, Transcendence.** *"Path: Mind / Spirit / Insight"* is not a Path; **Spirit dominant, Attraction secondary, with Mind read as Gnosis weighting.** *"Aether Class: Cognitivist Weaver"* is not among the seven; **at Stage VIII, Coherence Band B, a Spirit Path Shell that clarified faster than Core or Layer is Class IV, Luminous.** *"Voyager Era (Imperial Year 745 – Present)"* is an inverted register under the Errata; **Year 745 sits in the Withering Era**, and the card's "post-Withering reconstruction" is corrected to reconstruction inside the Withering, which is open. **Vellsorea** is one of the nineteen orphaned realm entries pending keep-or-strike. **Eresse is attested** (the High Empire of Eresse, elven); the title *Archmages of Eresse* is not. **Animatria is an attested Category**, Spirit-aligned, and the card's "Versions of Sleep" convert to it without loss: fragments of the theorist's own Essence Core given temporary independent operation. **Unattested in current canon:** the Neutral Chambers' Eastern Node, *Animatria Tier III – Cognitive Equilibrium Laws*, *Animatria Resonance Studies*, the title *Cognitivist Weaver*. The Research and Archives Division and the Neutral Chambers are attested. **Pending Isaac:** the Level (placed at 232 as an estimate in Band III), the Allocated figure, and the stat pool method; both the brief's figure and the live Part Three figure are given.
 
 ---
 
@@ -51,7 +51,7 @@
 | Tempering | 452 | S | Capacity. How many Versions the Crystal holds |
 | Dominion | 380 | A | Sense. Where the seams are and where reality is thin |
 | Resilience | 332 | A | Anchoring. Identity holds its shape across the fragments |
-| Ardency | 284 | A | **"Largely theoretical."** He moves limits, not force |
+| Ardency | 284 | A | **"Largely theoretical."** He moves limits rather than force |
 | Vitality | 226 | B | Constitution. The sleeplessness |
 | Dexterity | 184 | B | **His floor. He avoids fieldwork** |
 
@@ -72,7 +72,7 @@
 **Recursive Cognition** · **Fractures the self into multiple layers of thought for simultaneous processing; he converses with the fragments and calls them Versions of Sleep.** *Animatria, sustained by Fixatio.*
 **Essence empathy** · **A Wellspring he is stationed at stabilises its growth as if responding to his calm.** *Harmonics Synergy: ambient Wellspring activity feeds his Harmonic state, and his field synchronises with what is near it.*
 **Conceptual re-binding** · **He visualises and re-binds the metaphysical logic of a Wellspring's behaviour on the spot.** *The card filed this as a Class; it is a Gnosis Fluency working delivered through the Lattice Stylus, and a re-bound behaviour is a boundary moved, never a law changed.*
-**Sleeplessness** · **Not because he works tirelessly. Because sleep rarely dares to find him.** *Ascensio's redistributed cost, arriving nightly.*
+**Sleeplessness** · **Sleep rarely dares to find him. The card is explicit that this is the reason, and that tireless work is a different thing.** *Ascensio's redistributed cost, arriving nightly.*
 
 ---
 
@@ -91,8 +91,8 @@
 **Effect** · **He detaches fragments of his own Essence Core, gives each a layer of the problem, and consults them in parallel.** *Animatria constructs, cured stable by Fixatio, their combined load spread by Ascensio so the Crystal never sees the peak.* Applied to a failing Wellspring, the Versions read its behaviour from several stations at once and he writes the corrected boundary with the Lattice Stylus. **"Let's fix this before it realizes it's broken."**
 **Cost** · **The work is not reduced, only redistributed, and he arrives owing the difference.** *Sleep is where the debt is collected, and it is collected every night whether or not a Wellspring was failing that day.* Fixatio's irreversibility is the second bill: a Version cured in cannot be reabsorbed by wanting it reabsorbed, and the card does not say how many he carries. **He does not sleep when nobody is arguing with Wellsprings either.**
 **Limit** · **Animatria fails completely in Silence.** A construct's continuity depends on the line back to its source; sever it and the Versions stop being anything. The count is bounded by Tempering Capacity, and the re-binding is theoretical in the strict sense: **he moves a limit. The law on the far side of it goes on doing what it always did.**
-**Counter** · **Silence, or sever the line.** *A Silentia working, a Silence Realm, or a killed caster ends every Version at once.* Failing that, take the room: **a theorist whose attention is on his own fragments has Gnosis Perception nowhere among his peaks, and the body holding the mug is a B-Grade Dexterity standing still.**
-> **What nobody knows.** Where he goes for the weeks he disappears, what gives him the scars, and whether the data written on the inside of his cloak was written by him or by one of the Versions.
+**Counter** · **Silence, or sever the line.** *A Silentia working, a Silence Realm, or a killed caster ends every Version at once.* Failing that, take the room. **Gnosis Perception is nowhere among his peaks while his attention is on his own fragments, and the body holding the mug is B-Grade Dexterity standing still.**
+> **What nobody knows.** Where he goes for the weeks he disappears, and what gives him the scars. The data on the inside of his cloak is in his hand. Nobody has checked whether it is in his voice.
 
 ---
 

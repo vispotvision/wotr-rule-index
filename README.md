@@ -105,6 +105,7 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `due(sessions_old)`, `ledger_add`, `ledger_collect` | the Ledger that comes due (`table/ledger.yaml`) |
 | `session_end(thread, scene)` | drafts the session close from the scene text and logs the session |
 | `scene_menu(thread)`, `roster(thread)`, `npc_set(...)` | the Scene Menu; the NPC roster (`table/npcs.yaml`) |
+| `prose_pass()`, `recurrence_report()`, `reconcile()`, `timeline()`, `pack_impact(text)` | archive-wide audits from `build/audit.py`, written to `reports/` |
 | `sync_now()` | runs `build/sync.ps1` |
 
 `--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP

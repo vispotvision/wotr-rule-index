@@ -115,7 +115,7 @@ Section page **The Table — Running Pieces** `3d458200-eb22-813a-9148-fb943587f
 3. Advance one Front.
 4. Search project knowledge and the Notion wiki for the canon the scene will touch. ◆ The wiki/ folder in knowledge is a mirror of the Notion wiki (wiki/INDEX.md lists every page by section); search it first, fall back to Notion for anything edited since the last export.
 5. Load the FOW line for every named practitioner (Pack Fourteen §2). Never invent a number.
-6. Load the Standing Inventory for the scene's culture (Kharven is the only one built).
+6. Load the Standing Inventory for the scene's culture. ◆ Kharven is inline below; Accord, Dawi, Moto, Eresse, Expanse and Korvaeth are built at `desktop/inventories/` (the MCP `_inventory` reads that folder automatically).
 7. ◆ Load the rule-index loadout for the scene's domains (load_rules, or rules.live.full.md), check the docket for the same domains, then the companion docs the scene needs, Packs Fifteen through Twelve first. With WOTR MCP connected, session_start does steps 1 to 7 in one call.
 8. If Isaac gave a beat, run it. If not, offer the Scene Menu.
 
@@ -191,7 +191,7 @@ Sodoku Moto: slow iron cadence, silences that count, moves before he decides to.
 
 Steppe-riders who stopped riding because the land became permafrost. Food: windmeat, bone broth, the skin (fermented milk carried in sealskin; refusing the skin is an insult), seal fat, the root cache, stonecurd. Greeting: forearm grip, diagnostic. "How's your stack?" Oaths: "By the sky that covers us." "By the fire." Insults: "wet wood," "empty saddle," "cracked bowl." Time: a fire's length, a broth, the Thin Weeks, "when the grass comes." The dead: the death-house, the Waiting, sky burial, "gone to the sky." Objects: the night-stone, the woodpile, the hide-coat, the belt, the blubber lamp. Exchange: meat-sharing, labour-debt, salt. Proverbs, fixed wording: "The sky does not ask whether you are ready." "A full stack speaks louder than a full mouth." "The first bowl goes to the one who cannot fill it themselves." "Wet wood burns eventually. A liar never dries." "The night-stone remembers the fire." "Don't saddle a horse you cannot feed." "The dead can wait. The cold cannot." "Under the sky, everything balances." Body: hands, breath-plume, weight, scent. **Recurrence, two minimum per Kharven scene:** the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
 
-Other cultures have no Inventory yet. Anything invented in play gets entered the same session. ◆ Ruled 2026-09-12 (R23-8) and applied: airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed, as the oaths already have it. The old forms are stale in new prose.
+The Accord, Dawi, Moto, Eresse, Expanse and Korvaeth Standing Inventories live at `desktop/inventories/` in the repo (session_start and the MCP's `_inventory` load them by culture automatically; open the file directly if working without the MCP). Anything invented in play gets entered the same session, in the Inventory it belongs to. ◆ Ruled 2026-09-12 (R23-8) and applied: airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed, as the oaths already have it. The old forms are stale in new prose.
 
 ---
 

@@ -1,0 +1,720 @@
+# WOTR Character Naming Guide, Amendment Pack (the file with a .docx
+# extension that is actually plain UTF-8 text, confirmed by direct
+# inspection -- no pandoc conversion was needed or possible, and none was
+# guessed at). Standalone doc, no pack number; uses R20 as the earliest
+# mechanical id-numeral bucket in this cluster of four Buri/Moto-adjacent
+# naming documents (R20 oldest, R23 newest -- see PROGRESS.md for the full
+# chronology). No pending/originated language for the document as a whole;
+# read as status:live by default except Part Two's Moto/Satulagi and
+# Agamalu-addition subsections, which the later, newest document in this
+# cluster (R23, the Inner World Naming Amendment) explicitly strikes, and
+# the Celestial Host subsection, self-flagged "pending formal pass."
+pack: Naming Guide Amendment
+pack_number: null
+source_file: WOTR_Naming_Guide_Amendment.docx
+ratified: null
+rules:
+
+  - id: R20-1-MAHUO_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Mahuo naming, Korean generational syllables and clan-first order
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Korean generational syllables (dollimja): family name
+      first, a two-syllable given name sharing a generation syllable
+      across the cohort, a clan seat distinguishing unrelated families
+      sharing a surname. Avoid Chinese wuxia conventions and
+      given-name-first Japanese conventions.
+    verbatim: >-
+      Real anchor: Korean generational syllables (dollimja). Family name
+      first. Two-syllable given name with one syllable shared across the
+      whole generation of the lineage. Clan seat distinguishing unrelated
+      families sharing a surname.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Mahuo"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "18"
+    notes: null
+
+  - id: R20-1-YUKARI_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Yukari naming, Japanese life-stage renaming
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Japanese life-stage renaming: childhood name, adult
+      name at coming-of-age, calling name for intimates, true name taboo
+      to speak, posthumous name at death. Avoid modern Japanese casual
+      naming; carry feudal-era court weight.
+    verbatim: >-
+      Real anchor: Japanese life-stage renaming. Childhood name, adult
+      name conferred at coming-of-age, calling name used by intimates,
+      true name taboo to speak, posthumous name at death.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Yukari/Ketsuen"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "28"
+    notes: null
+
+  - id: R20-1-ELVEN_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Elven naming, Northwest Coast institutional logic
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Northwest Coast Indigenous institutional logic: names
+      as heritable property, publicly validated, requiring compensated
+      witnesses, ranked name-holding, names as offices. Content is
+      entirely original; no specific crest, ceremonial or sacred terms
+      from living traditions appear. Avoid generic fantasy Elf naming and
+      Tolkien's specific Quenya/Sindarin phonology.
+    verbatim: >-
+      Real anchor: Northwest Coast Indigenous institutional logic. Names
+      as heritable property, publicly validated, requiring compensated
+      witnesses. Ranked name-holding. Names as offices.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Elven Peoples"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "38"
+    notes: null
+
+  - id: R20-1-DAWI_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Dawi naming, Norse dithematic compounding and Finnish phonology
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Norse dithematic compounding with Finnish phonology:
+      two-element compound given names from a fixed inventory, patronymic,
+      earned byname. The oath-name is a Dawi-specific fourth slot, audible
+      in the full name or audible in its absence.
+    verbatim: >-
+      Real anchor: Norse dithematic compounding with Finnish phonology.
+      Two-element compound given names from a fixed inventory, patronymic,
+      earned byname.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Dawi"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "48"
+    notes: null
+
+  - id: R20-1-GOBLINOID_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Goblinoid naming, Germanic compounding with heavy phonotactics
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Germanic compounding with heavy phonotactics: a short
+      given name plus a compound byname describing the force that made
+      the person; the compounding follows rules and bynames may be
+      inherited past the point anyone remembers the original event.
+    verbatim: >-
+      Real anchor: Germanic compounding with heavy phonotactics. Short
+      given name plus compound byname describing the force that made the
+      person.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Goblinoid Peoples"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "56"
+    notes: null
+
+  - id: R20-1-BEASTKIN_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Beastkin naming, Akan day-naming and Name-Keeping
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is Akan day-naming plus the Name-Keeping tradition: a
+      soul-name by birth circumstance, a held name as the last thing that
+      cannot be taken; the soul-name carries an attribute the bearer is
+      expected to embody, and failing it is a strong source of internal
+      shame.
+    verbatim: >-
+      Real anchor: Akan day-naming plus the Name-Keeping tradition.
+      Soul-name by birth circumstance, held name as the last thing that
+      cannot be taken.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Beastkin"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "64"
+    notes: null
+
+  - id: R20-1-CONCORD_HUMAN_ANCHOR
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part One"
+    title: Concord Human naming, medieval byname freezing
+    status: live
+    kind: definition
+    summary: >-
+      Real anchor is medieval European byname freezing: a small given-name
+      pool, byname disambiguation, some bynames frozen into surnames, some
+      still live. Frozen surnames read as urban and chartered; live
+      patronymics read as rural and unchartered.
+    verbatim: >-
+      Real anchor: Medieval European byname freezing. Small given-name
+      pool, byname disambiguation, some frozen into surnames, some still
+      live.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Concord Human"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "72"
+    notes: null
+
+  - id: R20-2-MOTO_POLYNESIAN_STRUCK
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Two"
+    title: Satulagi/Moto Polynesian naming, struck
+    status: superseded
+    kind: definition
+    summary: >-
+      The Satulagi/Moto Polynesian naming system (fa'amatai title system,
+      matai title, personal name conferred by the mother's family, the
+      Moto royal matai as sovereign bloodline title).
+    verbatim: >-
+      Satulagi / Moto — Polynesian institutional logic
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Satulagi/Moto"
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "82"
+    notes: >-
+      Struck by the Inner World Naming Amendment §I ("The Polynesian
+      register... dead"), see the R23 series once extracted. The Moto
+      naming register is now Japonic, per the Moto Reversion Ledger (R22).
+
+  - id: R20-2-AGAMALU_ADDITION_STRUCK
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Two"
+    title: The Agamalu addition to Moto naming, struck
+    status: superseded
+    kind: definition
+    summary: >-
+      The Ava-name ceremonial slot the Agamalu Family's Ava ceremony
+      conferred on Moto governance figures, distinct from the name Moto
+      governance itself used for the same individual.
+    verbatim: >-
+      The Agamalu addition: The Agamalu Family's naming follows the same
+      Polynesian phonological register but adds a ceremonial slot: the
+      Ava-name, conferred during the Ava ceremony that precedes every Fono
+      session.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Satulagi/Moto, Agamalu addition"
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "94"
+    notes: >-
+      Struck by the Inner World Naming Amendment §I, which names this
+      specific subsection ("the Agamalu addition beneath it") alongside
+      the Moto/Satulagi section. Distinct from Filemu Agamalu's own
+      Ava-name (Canon Amendment, R21), which is the Agamalu house's own
+      naming for its own members, not an addition layered onto Moto's
+      naming — the Moto Reversion Ledger (R22) says the Agamalu house
+      "keep Polynesian register, which the amendment never governed," so
+      that row is not struck by this one. Flagged as a real ambiguity in
+      CONFLICTS.md.
+
+  - id: R20-2-HOLY_SEA_NAMING
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Two"
+    title: The Holy Sea of Alabaster, Latin ecclesiastical naming
+    status: live
+    kind: definition
+    summary: >-
+      Birth name (Concord Common) plus ordination name (Latin, chosen or
+      assigned at vows) plus locative/title; a documented name in the
+      Testimony archive carries metaphysical weight, and an undocumented
+      person is theologically uncounted.
+    verbatim: >-
+      Real anchor: Latin ecclesiastical naming conventions. The Papal
+      naming tradition (a chosen name at elevation, replacing the birth
+      name), monastic naming (a new name at profession of vows), and the
+      specific Latin-compound naming of the late medieval Catholic Church.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Holy Sea of Alabaster"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, register]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "98"
+    notes: null
+
+  - id: R20-2-CELESTIAL_HOST_NAMING
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Two"
+    title: Celestial Host naming, pending a formal pass
+    status: pending
+    kind: definition
+    summary: >-
+      Proposed structure is a function-name plus a rank-suffix plus a
+      permanent Lawbell-name declaring which Archonic principle the
+      Celestial serves; current working names are placeholders pending a
+      full naming pass.
+    verbatim: >-
+      Current status: Flagged as needing a full naming pass. Working names
+      (Verantha, Kaethren Vareth, Dazgrim, Urstia) are placeholders.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Celestial Host"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "116"
+    notes: null
+
+  - id: R20-2-UNDAAR_KETH_NAMING
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Two"
+    title: Undaar-Keth/Old Vaross naming, a service record in name form
+    status: live
+    kind: definition
+    summary: >-
+      Given name plus genitive patronymic plus district designation plus,
+      for military personnel, a rank compound that changes with every
+      promotion or demotion, making a Mandate citizen's name a service
+      record; Ironblood Orc citizens carry a hybrid orc-personal-name plus
+      Old Vaross patronymic/district name.
+    verbatim: >-
+      This addition specifies Old Vaross as a distinct administrative
+      language with its own naming conventions, separate from the
+      frontier goblinoid naming that the existing guide documents.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Undaar-Keth/Iron Mandate"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "122"
+    notes: null
+
+  - id: R20-3-DAWI_ELEMENTS
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Three"
+    title: The Dawi element inventory, 30 morphemes for on-the-fly naming
+    status: live
+    kind: definition
+    summary: >-
+      Thirty fixed-meaning morphemes (endurance, craft, stone/metal,
+      virtue, nature) across five categories, combined two-element with
+      consonant gradation at the join, plus patronymic and earned-byname
+      construction, so a compliant name can be generated in under a
+      minute.
+    verbatim: >-
+      Two-element compounds. Either element may occupy either position.
+      Consonant gradation applies at the join.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Dawi element inventory"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "138"
+    notes: >-
+      The 30 individual morphemes are reference data (a word bank), not
+      extracted row by row, consistent with how other packs' lexicon
+      tables are treated.
+
+  - id: R20-3-CONCORD_GIVEN_NAMES
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Three"
+    title: The Concord Human given-name pool is deliberately small
+    status: live
+    kind: definition
+    summary: >-
+      A deliberately small pool of 30 given names (20 male, 20 female) —
+      repetition is the feature, not the bug — combined with patronymic,
+      occupational, locative or descriptive bynames; in a village of two
+      hundred there will be three of the same given name, and the byname
+      is more real than the given name.
+    verbatim: >-
+      Deliberately small. Repetition is the feature, not the bug.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Concord Human given-name pool"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "154"
+    notes: >-
+      The 40 individual names are reference data (a word bank), not
+      extracted row by row.
+
+  - id: R20-3-MOTO_ELEMENTS_STRUCK
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Three"
+    title: The Satulagi/Moto element inventory, struck
+    status: superseded
+    kind: definition
+    summary: >-
+      Twenty-five open-syllable Polynesian-register morphemes for
+      generating Moto/Satulagi names.
+    verbatim: >-
+      Satulagi / Moto Element Inventory (25 elements)
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Satulagi/Moto element inventory"
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "162"
+    notes: >-
+      Struck alongside R20-2-MOTO_POLYNESIAN_STRUCK by the Inner World
+      Naming Amendment §I.
+
+  - id: R20-4-PRONUNCIATION_ADAPTATION
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Four"
+    title: Cross-cultural mispronunciation is characterisation, not error
+    status: live
+    kind: definition
+    summary: >-
+      When a name crosses cultures, the speaker's own phonology imposes
+      itself (a Concord human flattens Dawi consonant gradation, a Dawi
+      stress-accents a Yukari pitch-accent name); these adaptations should
+      appear in dialogue as characterisation, not be treated as typos.
+    verbatim: >-
+      When a name from one culture is spoken by someone from another, the
+      speaker's phonology imposes itself. A Concord human cannot produce
+      the Dawi consonant gradation and will flatten it. A Dawi cannot
+      produce the Yukari pitch-accent and will stress-accent instead. A
+      goblinoid speaker will add consonant clusters to Satulagi names that
+      the Satulagi phonotactics do not permit. These adaptations are not
+      errors. They are the reality of names crossing borders, and they
+      should appear in dialogue: a character mispronouncing another
+      character's name is characterisation, not a typo.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "184"
+    notes: null
+
+  - id: R20-4-ACCORD_FILING_CONVENTION
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Four"
+    title: The Accord files every practitioner into four flattening fields
+    status: live
+    kind: definition
+    summary: >-
+      The Accord files every practitioner under given name, family or
+      patronymic, culture of origin, rank designation — a bureaucratic act
+      that is also a cultural act, reducing a five-slot Yukari name to
+      three fields or stripping a Dawi oath-name for lack of a slot.
+    verbatim: >-
+      The Accord's administrative system files every practitioner under a
+      standardised format: given name, family or patronymic, culture of
+      origin, rank designation.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, documents]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "186"
+    notes: null
+
+  - id: R20-4-THIRD_NAME_PROBLEM
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Four"
+    title: The Third Name exists outside all cultural naming conventions
+    status: live
+    kind: definition
+    summary: >-
+      The earned Third Name (documented in The Standing and the Title) is
+      conferred in whatever language the naming community speaks and has
+      no equivalent in the bearer's own register; carrying one means
+      one's identity now belongs to the people who named you rather than
+      the people who bore you.
+    verbatim: >-
+      The Standing and the Title documents the Third Name: the earned
+      title that the world assigns. The Third Name exists outside all
+      cultural naming conventions.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "190"
+    notes: null
+
+  - id: R20-4-WHEN_NAMES_CHANGE
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Four"
+    title: Each culture has different name-change triggers; cross-culture is never clean
+    status: live
+    kind: definition
+    summary: >-
+      Yukari rename at life-stage; Dawi add the oath-name at oath-taking;
+      Elven validate or strip names publicly; Concord freezes bynames into
+      surnames over generations; Beastkin hold name-keeping as a last
+      resort. Which rule applies when a character moves between cultures
+      is always specific to the characters involved and never clean.
+    verbatim: >-
+      Each culture has different triggers for name-change. The Yukari
+      rename at life-stage transitions. The Dawi add the oath-name at
+      oath-taking. The Elven validate or strip names publicly. The Concord
+      system freezes bynames into surnames over generations. The Beastkin
+      hold their name-keeping as a last resort. When a character moves
+      between cultures, the question of which naming rules apply produces
+      genuine conflict: does a Mahuo practitioner who swears a Dawi oath
+      gain an oath-name? Does a Concord human adopted into a Yukari
+      household receive a new name at coming-of-age? The answer is always
+      specific to the characters involved, and the answer is never clean.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Names in Contact"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "194-196"
+    notes: null
+
+  - id: R20-5-FORMAL_ADDRESS
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Five"
+    title: Formal address follows the addressing institution or culture
+    status: live
+    kind: mandate
+    summary: >-
+      A practitioner's formal address follows the convention of whoever is
+      doing the addressing (rank plus family name for the Accord,
+      ordination name plus title for Sanctum Lux, relationship-dependent
+      honorifics at a Ketsuen court); two people in the same room may
+      correctly address the same person by different names.
+    verbatim: >-
+      A practitioner's formal address follows the convention of the
+      institution or the culture that is doing the addressing.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Three Names on the Page"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "202"
+    notes: null
+
+  - id: R20-5-THIRD_NAME_SUPERSEDING
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Five"
+    title: A dominant Third Name consumes the personal name and rank
+    status: live
+    kind: definition
+    summary: >-
+      When a Third Name becomes dominant, both the personal name and
+      institutional rank recede — the title becomes the person, and the
+      birth name is what the family uses and nobody else remembers.
+    verbatim: >-
+      When a practitioner's Third Name becomes dominant, the personal name
+      and the institutional rank both recede. Nobody calls Cozbi Mahuo
+      "Grandmaster Mahuo" unless they are reading from a filing. He is The
+      Ledger-Keeper, and the Third Name has consumed the other two. This
+      is the endgame of the naming system: the title becomes the person,
+      the person becomes the title, and the birth name is what the family
+      uses and nobody else remembers.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Three Names on the Page"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "208"
+    notes: null
+
+  - id: R20-5-ON_THE_PAGE
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Part Five"
+    title: A character is introduced by whatever name the POV would use
+    status: live
+    kind: mandate
+    summary: >-
+      Introduce a character by whatever name the POV character would use
+      (formal on first meeting, personal for intimates, Third Name or
+      physical description for strangers); the narrator does not switch
+      names without a reason, since a name-switch is a statement about
+      the character's relationship to the reader.
+    verbatim: >-
+      Prose convention: introduce a character by whatever name the POV
+      character would use. A practitioner meeting another practitioner
+      for the first time uses the formal address. An intimate uses the
+      personal name. A stranger uses the Third Name if they have heard it,
+      and a physical description if they have not. The narrator uses the
+      name the scene has established and does not switch without a
+      reason, because a name-switch in narration is a statement about how
+      the character's relationship to the reader has changed.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "Three Names on the Page"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, pov, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "212"
+    notes: null
+
+  - id: R20-CO-REMAINING_GAPS
+    pack: Naming Guide Amendment
+    pack_number: null
+    section: "Colophon"
+    title: Remaining element-inventory gaps
+    status: pending
+    kind: definition
+    summary: >-
+      Remaining gaps after this amendment: Mahuo element inventory, Yukari
+      element inventory, Elven branch-specific element inventories, and
+      Beastkin soul-name inventory.
+    verbatim: >-
+      Remaining gaps: Mahuo element inventory, Yukari element inventory,
+      Elven branch-specific element inventories, Beastkin soul-name
+      inventory.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Naming_Guide_Amendment.docx
+      lines: "228-230"
+    notes: null

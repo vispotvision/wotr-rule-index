@@ -719,7 +719,7 @@
     "pack_number": null,
     "section": "I",
     "title": "The Agamalu homeland is Vāimoana",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The Agamalu homeland is Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.",
     "verbatim": "The Agamalu homeland | Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.",
@@ -729,12 +729,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: C-004 ruled -- 'a Japonic island / nation, revert back to the Yuno document'",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "14"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (C-004): this whole homeland was the Yasoshima wiki page (wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md) re-skinned in Polynesian/Agamalu register -- the archipelago, the confederation-of-aiga governance and the Essence-stability claim are near-verbatim matches. The island is Japonic and belongs to House Yuno; the Yasoshima document is what's canon, not this row. See R21-3-VAIMOANA_GOVERNANCE, R21-3-VAIMOANA_ESSENCE_STABILITY (also superseded) and R21-5-ISLAND_NAME_PENDING (the \"Wadatsumi\" name this row's cluster chose is itself superseded by \"Yasoshima,\" the name the Yuno document already carried).",
     "superseded_by": []
   },
   {
@@ -883,7 +883,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Vāimoana has the most stable Essence saturation ever recorded",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.",
     "verbatim": "Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.",
@@ -894,12 +894,12 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
+    "ratified": "Isaac, 2026-09-12, Claude Code: C-004 ruled -- reverts to the Yuno document",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "68"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (C-004): superseded by the Yasoshima wiki page's own Ambient Essence section, near-verbatim identical, attributed to House Yuno rites rather than Agamalu ones. See RULINGS.md.",
     "superseded_by": []
   },
   {
@@ -908,7 +908,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Vāimoana is a confederation of aiga, not a kingdom",
-    "status": "live",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.",
     "verbatim": "Not a kingdom. A confederation of aiga governed by fono, with no king, no standing army, and no charter with the Guild Accord.",
@@ -918,12 +918,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
+    "ratified": "Isaac, 2026-09-12, Claude Code: C-004 ruled -- reverts to the Yuno document",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "70"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12 (C-004): superseded by the Yasoshima wiki page's own Governance section, near-verbatim identical (confederation of aiga governed by fono, no king) but attributed to House Yuno, not Agamalu. No marriage tie to Kharven survives -- Ayame Yuno married in as herself, not as an ambassador of a homeland confederation. See RULINGS.md.",
     "superseded_by": []
   },
   {
@@ -1021,7 +1021,7 @@
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "108"
     },
-    "notes": "RULED 2026-09-12: Isaac's words: 'A japanese name.' None of the three Polynesian options; the island takes a Japonic-register name, to be proposed (propose_rule) and ratified. Vāimoana is stale once that lands. Applied 2026-09-12: Wadatsumi (Isaac delegated the choice); Vāimoana swept from the wiki and scenes via build/renames.yaml; the verbatim here keeps the old name as quoted.",
+    "notes": "RULED 2026-09-12: Isaac's words: 'A japanese name.' None of the three Polynesian options; the island takes a Japonic-register name, to be proposed (propose_rule) and ratified. Vāimoana is stale once that lands. Applied 2026-09-12: Wadatsumi (Isaac delegated the choice); Vāimoana swept from the wiki and scenes via build/renames.yaml; the verbatim here keeps the old name as quoted. RULED 2026-09-12, later (C-004): \"Wadatsumi\" is itself superseded. Isaac: \"I want it be a japonic island / nation and revert back to the Yuno document\" -- the island is Yasoshima, the name the Yuno document (wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md) already carried before the Agamalu retcon touched it. No new name was needed; Wadatsumi was an invention where an existing one already governed. Wadatsumi swept to Yasoshima via build/renames.yaml.",
     "superseded_by": []
   },
   {
@@ -9054,7 +9054,7 @@
     "pack_number": 8,
     "section": "1.1",
     "title": "Prose keeps every Pack Seven restriction without exception",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.",
     "verbatim": "Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.",
@@ -9072,12 +9072,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
+    "ratified": "Isaac, 2026-09-12, Claude Code: C-003 ruled -- Twelve wins everywhere, no exceptions",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "20"
     },
-    "notes": "Stale as of Pack Twelve §1's later live repeal of the underlying Pack Seven ban, but this whole row is status:proposed (Pack Eight was never ratified), so no live conflict is created.",
+    "notes": "RULED 2026-09-12 (C-003): Pack Twelve's repeal reaches this row too. Later pack beats earlier pack, no carve-out (unlike C-001's firearms exception). Mechanism-on-the-page is the regime everywhere; this restatement is dead letter. See CONFLICTS.md and RULINGS.md.",
     "superseded_by": []
   },
   {

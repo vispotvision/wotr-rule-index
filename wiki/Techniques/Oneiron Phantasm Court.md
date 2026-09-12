@@ -1,0 +1,60 @@
+---
+title: "Oneiron Phantasm Court"
+notion_id: "3d958200-eb22-8169-a195-db9497b2c710"
+notion_url: "https://app.notion.com/p/Oneiron-Phantasm-Court-3d958200eb228169a195db9497b2c710"
+section: "Techniques"
+tags: []
+last_edited: "2026-09-12T15:04:00.000Z"
+verification: "unverified"
+---
+
+# Oneiron Phantasm Court
+
+## Oneiron Phantasm Court
+
+> **Migration note.** No character card exists for Aeldoris in current canon; his stats, Aether Class and Path below are conservative estimates inside the documented range for Stage VII (Band C), flagged as such rather than invented to feel right, per the estimate-marking rule. Oneirion, Eidolyn and Hypnather are all confirmed Limina Wellsprings and convert unchanged. "Path: Spirit → Attraction Drift" is old free-text notation with no current equivalent; the working projects at range through conceptual space rather than through bond or recognition, which is Spirit Path's own definition, so it converts to Path: Spirit. "Aether Class: Dreambreaker Aether" is likewise old free text with no current Class of that name; Stage VII's Band-C correlate is Class III, The Resonant, used here as the conservative estimate. The old card's "Duration per turn: 2 turns" assumes a turn-based combat unit current WOTR does not use; converted to Spellcraft's own duration model, which holds only while the caster's attention holds. Range (0–140 m) is already a real unit and is kept as given.
+
+### Summary card
+
+**Effect** · The target's own dream-self rises behind them, unblurred by the waking mind's editing, and puts to them the thing they have been declining to know about themselves.
+**Cost** · **Identity Bleed.** Some of what the projection carries back is the target's, and Aeldoris keeps a fragment of it. **Dream Echo Fatigue** follows, showing as short-term memory gaps of his own.
+**Limit** · Only takes hold on a mind with an active subconscious and an actual unresolved contradiction in it. A mind at peace with itself, or with nothing behind the waking self, gives the working nothing to find.
+**Counter** · **Have nothing there to confess.** *A target whose conscious and undefended selves already agree returns no verdict for the Court to hand down.*
+**What nobody knows** · Why the confession, once mirrored back at Aeldoris himself, can destabilise him exactly as hard as it destabilises the target.
+
+### Codex line
+
+**Wellspring** · Oneirion (primary) · Eidolyn, Hypnather (secondary)
+**Family** · Limina (all three)
+**Physics Domain** · Abstract-Entropic Systems
+**Category** · Animatria (Spirit-Aligned: projection of consciousness into a structured avatar; the working is a Dream-Self Tribunal in exactly the sense Eidolon Crafting names)
+**Craft** · Spellcraft
+**Stage floor** · Stage VII, Refraction
+**Grade required** · A-Grade, late push toward S-Grade
+**Path gate** · Spirit
+
+### Design Chain
+
+**Trigger** · Declared, against a target within 140 metres whom Aeldoris has read closely enough to have located the shape of what they are avoiding.
+**Function** · Psychic offense and Essence destabilisation. Manifests the target's own undefended self as a standing figure that speaks what the waking mind will not.
+**Mechanism** · Oneirion treats a soul's every possible arrangement as a coordinate in an abstract configuration manifold, which is why the working reaches a target no line of sight is required to hold once the coordinate is found. Hypnather's law governs which arrangement a Crystal relaxes toward when genuinely at rest, its least-defended configuration. Aeldoris locates that equilibrium coordinate inside the manifold without waiting for the target to actually sleep, and Eidolyn then deposits along it as a template, the way a supersaturated medium organises around any imposed pattern, giving the located self a standing, load-bearing presence rather than a flicker. The court that results is not an illusion of the target. It is the coordinate their own Crystal would settle to, made to stand up and talk.
+**Numerical Effect** · Effective radius 0–140 metres. Holds for as long as Aeldoris's own attention holds, which under Spellcraft's own rule is the true duration; the old card's two-turn figure is treated as an estimate of that same span rather than a fixed clock.
+**Target Response** · A target with a genuine unresolved contradiction has that contradiction voiced back at them by a figure carrying their own memory-echo, which reads as confession because it is drawn from material the target already possesses.
+**Consequence** · Confession under this pressure measurably loosens Soul Crystal coherence around whatever the contradiction concerned, and the exposure persists after the figure dissolves.
+**Limitation** · The manifold coordinate has to exist for Eidolyn to template onto it. A target with no active subconscious, or none of Hypnather's kind of unresolved gap between waking and equilibrium selves, gives the working no coordinate to lock.
+**Weakness** · Verdantia and Mortalis practitioners run Crystals already integrated around growth or around an honest relationship with ending, and carry correspondingly little unresolved residue for the Court to dredge up; their potency reading against this technique runs low for exactly that reason. A field that strips a region's Aetheric memory record denies Eidolyn any template at all.
+**Cost** · Because the coordinate is drawn through Aeldoris's own Oneirion projection, some of what it carries passes through him on the way out. Identity Bleed is that residue lodging in him; Dream Echo Fatigue is the resulting gap in his own short-term memory.
+**Counterplay** · A disciplined mind with nothing unresolved behind it, or a memory-null field placed over the engagement, both deny the technique the substrate it needs.
+
+### FOW line
+
+**Governing Primary Stat** · Gnosis (estimate, Band C ceiling for Stage VII)
+**Sub-Stats** · Gnosis Cognition and Dominion Reach (Oneirion's documented Stat Effect), Ardency Density and Gnosis Memorium (Eidolyn's), Gnosis Retention (Hypnather's); all estimates, no sheet exists to confirm exact figures
+**Stage floor** · Stage VII, Refraction
+**Grade required** · A-Grade, late push toward S-Grade
+**Path gate** · Spirit
+**Resonant Pair** · None documented; none invented here.
+
+### Origin
+
+The card gives Aeldoris as the sole named practitioner and states the problem the technique answers: extracting a confession from a mind that will not give one voluntarily. No teacher, incident or era is given, and none is supplied here. That Aeldoris himself has no character card in current canon is noted above rather than papered over.

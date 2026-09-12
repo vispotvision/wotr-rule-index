@@ -110,7 +110,10 @@ sheet-explains / prose-withholds split still binds the page, or whether
 Twelve's mechanism-on-the-page regime replaced it wholesale.
 **Recommendation:** none stated by either pack. Reading order (later beats
 earlier) favours Twelve; that is Isaac's rule for reading, not a ruling.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-12: Twelve wins everywhere, no
+exceptions. Later pack beats earlier pack with no carve-out (unlike C-001's
+firearms exception); R8-11-PROSE_RETAINS_PACK7 is superseded, the ruling
+quoted in `ratified`.
 
 ---
 
@@ -143,7 +146,17 @@ Agamalu confederation is still a place that exists in the setting at all,
 or dead worldbuilding along with Filemu.
 **Recommendation:** none stated by either source; this is a downstream
 question the ruling itself didn't reach.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-12: "a japonic island / nation
+and revert back to the Yuno document." The island is Yasoshima (House
+Yuno's own homeland, wiki/The Bearing and the Holding/Yasoshima — The
+Eighty Isles.md), not Wadatsumi/Vāimoana. R21-1-AGAMALU_HOMELAND_RULING,
+R21-3-VAIMOANA_GOVERNANCE, R21-3-VAIMOANA_ESSENCE_STABILITY superseded —
+each was a near-verbatim Polynesian-register re-skin of that same document.
+R21-5-ISLAND_NAME_PENDING's "Wadatsumi" choice is also superseded; swept to
+Yasoshima via build/renames.yaml. "Manono Branch/seat" stands as House
+Yuno's own established ceremonial line (per the Yasoshima document itself),
+not an Agamalu import — kept distinct from Ayame's personal lineage tag,
+Kagura Branch, on her Volume I card.
 
 ---
 

@@ -30,6 +30,25 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, later still — C-003 and C-004 closed
+
+- **C-003.** Twelve wins everywhere, no exceptions (unlike C-001's firearms
+  carve-out). R8-11-PROSE_RETAINS_PACK7 superseded.
+- **C-004.** Isaac: "I want it to be a japonic island / nation and revert
+  back to the Yuno document." Muken's queen's homeland is Yasoshima (House
+  Yuno's own island, wiki/The Bearing and the Holding/Yasoshima — The
+  Eighty Isles.md), not Wadatsumi/Vāimoana — that whole thread was a
+  Polynesian re-skin of the same document. R21-1-AGAMALU_HOMELAND_RULING,
+  R21-3-VAIMOANA_GOVERNANCE, R21-3-VAIMOANA_ESSENCE_STABILITY and
+  R21-5-ISLAND_NAME_PENDING's "Wadatsumi" all superseded. Swept
+  Wadatsumi/Vāimoana → Yasoshima across the two Kingdom of Kharven base
+  guides, the Ashen Crown and Reader's Codex wiki pages (live-edited in
+  Notion), and the Reader's Codex Drive source. Kept "Manono" as House
+  Yuno's own ceremonial seat (the Yasoshima document's own established
+  branch) distinct from Ayame's personal lineage tag, Kagura Branch, on
+  her Volume I card — both stand, describing different things, rather than
+  picking one and losing a real fact either source states.
+
 ## 2026-09-12 — canon: the Agamalu retcon on Muken's queen is reversed
 
 Isaac, in Claude Code: "Ayame Yuno over Filemu Agamalu we retconned the Agamalu register." Reverses the Canon Amendment, Agamalu and Büri Origin's central claim (R21-1-QUEEN_OF_KHARVEN_RULING, R21-2-FILEMU_NAME_CORRECTION, R21-2-FILEMU_FULL_NAMING, R21-5-FILEMU_VOICE_PENDING, all marked superseded) that Muken's queen was "Filemu Agamalu" of the Agamalu house (Manono Branch, Vāimoana/Wadatsumi, the Ava-name Le Ie Tuuina Atu, matai title Tausi o le Vā Atoa, the Fusi Vā rite). She is Ayame Yuno again — Yuno Family, Kagura Branch, matai title Zenma no Mamori, Saimei Okurareta Nishiki, the rite named Saishiki — exactly as her own Volume I card (`wiki/Volume I — Character Cards/Ayame Yuno.md`, predating the Canon Amendment) already had her, untouched. Applied: swept "Filemu Agamalu"/"Filemu" back to "Ayame"/"Ayame Yuno" and "Fusi Vā" back to "Saishiki" across scenes/ and wiki/ wherever the Agamalu-register swap had been made (`scenes/THE_KINGDOM_OF_KHARVEN_buri.md`, `scenes/THE_KINGDOM_OF_KHARVEN_corrected.md`, `wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md`, `wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md`). Left open on the Docket, C-004: whether the Agamalu homeland (Vāimoana/Wadatsumi as a place, its confederation-of-aiga governance, its Essence stability) survives as unrelated worldbuilding now that its only narrative tie to Kharven (the marriage) is gone, or whether that whole thread goes with it.

@@ -1,0 +1,979 @@
+{
+  "imports/converted/characters/he_who_bears_the_will_of_the_titans.md": {
+    "page_id": "3d958200-eb22-8194-8e84-f75862e2f22c",
+    "title": "Jindoku Malrake · He Who Bears the Will of the Titans",
+    "target": "Volume IV — Character Cards"
+  },
+  "imports/converted/characters/pip.md": {
+    "page_id": "3d958200-eb22-81f4-a05e-c613998ec7b2",
+    "title": "Ziyu \"Pip\" Inari · The Two-Tailed Cipher",
+    "target": "Volume IV — Character Cards"
+  },
+  "imports/converted/characters/deserts_fang.md": {
+    "page_id": "3d958200-eb22-8100-b034-f7348d4ecc2c",
+    "title": "Zahir Ashveil · Desert's Fang",
+    "target": "Volume IV — Character Cards"
+  },
+  "imports/converted/characters/the_bloomwarden.md": {
+    "page_id": "3d958200-eb22-815a-ad87-f599ab3d6297",
+    "title": "Kozakura Shion · The Bloomwarden",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_isocline_scribe.md": {
+    "page_id": "3d958200-eb22-81d0-ba25-d7621cd6be59",
+    "title": "Khasir Aluto · The Isocline Scribe",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_khan.md": {
+    "page_id": "3d958200-eb22-8129-93de-cf51552cb5d1",
+    "title": "Khan Kirv · The Veil-Khan of the Dry Courts",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/ten_thousand_hands.md": {
+    "page_id": "3d958200-eb22-81a8-a663-ca20efda6a0d",
+    "title": "Seraphine Kharza · Ten Thousand Hands",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_forge_that_roars.md": {
+    "page_id": "3d958200-eb22-81c8-819c-d4d9cd82bdeb",
+    "title": "Kaelzar · The Forge That Roars",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_unbent_crown.md": {
+    "page_id": "3d958200-eb22-8187-b75c-eb9e1d491598",
+    "title": "Varuun Daskorr · The Unbent Crown",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_wandering_string.md": {
+    "page_id": "3d958200-eb22-8107-a768-c70bae86432a",
+    "title": "Elthiré Maen · The Wandering String",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_grey_adjudicator.md": {
+    "page_id": "3d958200-eb22-81ff-9e6f-eb9b8929c149",
+    "title": "Seren Valenne · The Grey Adjudicator",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_iron_wound.md": {
+    "page_id": "3d958200-eb22-812c-a956-d16a32c3350e",
+    "title": "Kaelrith Dorne · The Iron Wound",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_emberline.md": {
+    "page_id": "3d958200-eb22-817b-adbe-e004ce3d6cc8",
+    "title": "Rheon Kaeth · The Emberline",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_sleepless_theorist.md": {
+    "page_id": "3d958200-eb22-81ae-a271-c9b33f8cb6eb",
+    "title": "Dr. Vaelion Rhest · The Sleepless Theorist",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_black_chrysalis.md": {
+    "page_id": "3d958200-eb22-81bf-b701-cc96aaffd81a",
+    "title": "Lyssara Veyn · The Black Chrysalis",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_ember_blooded.md": {
+    "page_id": "3d958200-eb22-81d2-acf6-db22e335efd1",
+    "title": "Rajhak Tarun · The Ember-Blooded",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_white_arbiter.md": {
+    "page_id": "3d958200-eb22-81e9-8139-e393091aeea5",
+    "title": "Argen Vael'thar · The White Arbiter",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/moon_bloom_at_dawn.md": {
+    "page_id": "3d958200-eb22-81c4-8a25-f459e2b41374",
+    "title": "Tsukihana Reimei · Moon-Bloom at Dawn",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/rain_of_the_sky_bound.md": {
+    "page_id": "3d958200-eb22-8142-8a9c-ddbceceb9f5a",
+    "title": "Ameiya Solvain · Rain of the Bound Sky",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_smiling_veil.md": {
+    "page_id": "3d958200-eb22-8183-952c-fcdd669a0867",
+    "title": "Arven Solthiel · The Smiling Veil",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_serene_gale.md": {
+    "page_id": "3d958200-eb22-8155-a552-c94e53286e22",
+    "title": "Iryen Maevith · The Serene Gale",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_pale_crucible.md": {
+    "page_id": "3d958200-eb22-81e1-b9a8-c67d08c6a7f0",
+    "title": "Cael Dareth · The Pale Crucible",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_quiet_swan.md": {
+    "page_id": "3d958200-eb22-8138-8dda-f74ea5945f55",
+    "title": "Lyss Arvale · The Quiet Swan",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_silent_orcale.md": {
+    "page_id": "3d958200-eb22-81dc-b521-dd7ca5656d4a",
+    "title": "Maeron Iskare · The Silent Oracle",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_silver_veil.md": {
+    "page_id": "3d958200-eb22-81d4-8699-dc882387f91b",
+    "title": "Kaelric Varnier · The Silver Veil",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/danger_do_not_open.md": {
+    "page_id": "3d958200-eb22-817d-b602-f6f697e2d1a9",
+    "title": "Rik'Lye · The Forbidden Vessel",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/az_the_incendiant_veil.md": {
+    "page_id": "3d958200-eb22-81eb-b624-e7312f7ee77c",
+    "title": "Azelra Kaine · The Incendiant Veil",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_silent_apothege.md": {
+    "page_id": "3d958200-eb22-812a-8621-e99e982591aa",
+    "title": "Kaien Rhuven · The Silent Apothege",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/vk_the_breakstorm_vanguard.md": {
+    "page_id": "3d958200-eb22-8140-8807-ec89b48d5809",
+    "title": "Valen Karth · The Breakstorm Vanguard",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_red_forge_sentinel.md": {
+    "page_id": "3d958200-eb22-810b-aee5-f17d3ac1964a",
+    "title": "Draen Varos · The Red Forge Sentinel",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_golden_engine.md": {
+    "page_id": "3d958200-eb22-81a0-b727-ee3bfb9cbad7",
+    "title": "Mavra Cindrel · The Golden Engine",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_black_cleric.md": {
+    "page_id": "3d958200-eb22-81ce-a461-f576b5eb5111",
+    "title": "Elion Drevas · The Black Cleric",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_lantern_scribe.md": {
+    "page_id": "3d958200-eb22-8153-a121-c95fff247018",
+    "title": "Valthren Odrin · The Lantern Scribe",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_burnmark.md": {
+    "page_id": "3d958200-eb22-815a-931a-d184a59fffa8",
+    "title": "Kael Serradyn · The Burnmark",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_serpent_alchemist.md": {
+    "page_id": "3d958200-eb22-811f-b07d-ced7f73a4ed4",
+    "title": "Serai Linthra · The Serpent Alchemist",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/warden_of_thaumar.md": {
+    "page_id": "3d958200-eb22-81a4-9093-c5d1bc66d8d6",
+    "title": "Garron Vuldane · Warden of Thaumar",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/knight_of_vergegate.md": {
+    "page_id": "3d958200-eb22-8124-8198-d9b93357641b",
+    "title": "Ser Caldran Veiss · The Pale Knight of Vergegate",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_sapphire_mirage.md": {
+    "page_id": "3d958200-eb22-8162-aad7-d80b2a1e5b88",
+    "title": "Rafik Al'Seren · The Sapphire Mirage",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_gilded_nomad.md": {
+    "page_id": "3d958200-eb22-81d0-aa9e-ecf69db979ee",
+    "title": "Kaien Thal'Ruhm · The Gilded Nomad",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_ember_regent.md": {
+    "page_id": "3d958200-eb22-81b1-ad6b-d054fcbe1872",
+    "title": "Xhael Ten'Kor · The Ember Regent",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_crimson_dirge_of_atonement.md": {
+    "page_id": "3d958200-eb22-81be-af23-d06cf46b2c85",
+    "title": "Francis Alexander · The Crimson Dirge of Atonement",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_axiomatic_sovereign.md": {
+    "page_id": "3d958200-eb22-8113-accc-f58b73c91da6",
+    "title": "Kaelan Vorn · The Axiomatic Sovereign",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_black_crowned_bastion.md": {
+    "page_id": "3d958200-eb22-81c5-942f-fbe6e631449a",
+    "title": "Drakvor · The Black-Crowned Bastion",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_ruthless.md": {
+    "page_id": "3d958200-eb22-81f2-99ba-ce42acca6b3b",
+    "title": "Aeldoris Vanthryx · The Ruthless",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_silent_pattern.md": {
+    "page_id": "3d958200-eb22-81b4-a204-d34820424574",
+    "title": "Aethryn · The Twin-Sigiled Foundling",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_azure_coilblade.md": {
+    "page_id": "3d958200-eb22-81af-80a8-ed2301259d80",
+    "title": "Azhura Vyren · The Azure Coilblade",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/god_eater.md": {
+    "page_id": "3d958200-eb22-81c3-be93-e2f29ef60e39",
+    "title": "Raelen Vor'Skai · The Gilded Scourge",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_shackled_tempest.md": {
+    "page_id": "3d958200-eb22-818b-9db0-da90ff2681f1",
+    "title": "Karu Velnar · The Shackled Tempest",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_pale_gale.md": {
+    "page_id": "3d958200-eb22-8144-83f2-fdc7c69baa06",
+    "title": "Ravenn Kaelor · The Pale Gale",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_azure_warden.md": {
+    "page_id": "3d958200-eb22-81f7-bdc8-ddb68fe44de5",
+    "title": "Cyrus Vellhar · The Azure Warden",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_dawn_touched_oracle.md": {
+    "page_id": "3d958200-eb22-8168-9a63-f23159740493",
+    "title": "Lumen Varos · The Dawn-Touched Oracle",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_umbra_lantern.md": {
+    "page_id": "3d958200-eb22-814b-9bb1-e751a85ef1b6",
+    "title": "Shiran Kazuren · The Umbra Lantern",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_still_point.md": {
+    "page_id": "3d958200-eb22-81e1-a5a2-e8f0627274f6",
+    "title": "Sairin Kazuren · The Still Point",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_iron_root.md": {
+    "page_id": "3d958200-eb22-81fe-ad9d-f25beb89b09e",
+    "title": "Kairen Moto · The Iron-Root",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_little_wayfinder.md": {
+    "page_id": "3d958200-eb22-8192-ab62-ffe091036c27",
+    "title": "Ryuka Yukari · The Little Wayfinder",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/sleepless_quill.md": {
+    "page_id": "3d958200-eb22-8133-ab0d-c3d3d23d6b91",
+    "title": "Liorien Nael-Teth · Sleepless Quill",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/stone_runner.md": {
+    "page_id": "3d958200-eb22-8179-bc7b-c79b4a9edd9b",
+    "title": "Aren Vallestride · Stone-Runner",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_pink_tempest.md": {
+    "page_id": "3d958200-eb22-8171-b690-ee09fa5a3ee0",
+    "title": "Saetsha Bloomveil · The Pink Tempest",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/winter_hound_of_the_march.md": {
+    "page_id": "3d958200-eb22-81b0-9cde-c5306c2b59ba",
+    "title": "Garu Luneward · Winter Hound of the March",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_silt_walker.md": {
+    "page_id": "3d958200-eb22-81d7-a691-e0226b730635",
+    "title": "Zahur Vane · The Silt Walker",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/little_white_fox.md": {
+    "page_id": "3d958200-eb22-8174-afb6-e643960f0230",
+    "title": "Shiro Kitsunari · Little White Fox",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/lilac_gaze.md": {
+    "page_id": "3d958200-eb22-8122-a6c5-fd2ef48ee1dd",
+    "title": "Seraphine Lurielle · Lilac Gaze",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/pink_flame.md": {
+    "page_id": "3d958200-eb22-8172-905e-db586b626820",
+    "title": "Lyra Drakoshi · Pink Flame",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_cryon_king.md": {
+    "page_id": "3d958200-eb22-812b-b35b-cde0ec8d5315",
+    "title": "Valthrum · The Cryon King",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_pale_hierophant.md": {
+    "page_id": "3d958200-eb22-81af-be50-e87addf9dc47",
+    "title": "Aelum · The Pale Hierophant",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_vestal_vanguard.md": {
+    "page_id": "3d958200-eb22-81f3-87a4-daf9467a1cc1",
+    "title": "Asaemon · The Vestal Vanguard",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_luthier_of_quiet_roads.md": {
+    "page_id": "3d958200-eb22-8187-aec2-dcf949793255",
+    "title": "Raymond Montclair · The Luthier of Quiet Roads",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/hammer_of_the_northroot.md": {
+    "page_id": "3d958200-eb22-81d8-9de4-f7e47be088e7",
+    "title": "Brynja Haldrís · Hammer of the Northroot",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_gilded_marionette.md": {
+    "page_id": "3d958200-eb22-819d-bcfc-c122d09af21d",
+    "title": "Cyranthia Valez · The Gilded Marionette",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_lion_of_the_dawn.md": {
+    "page_id": "3d958200-eb22-81b9-909c-c8378f644483",
+    "title": "Aurelian Veymont · The Lion of the Dawn",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_crimson_mourner.md": {
+    "page_id": "3d958200-eb22-81c8-8884-ce97e6075050",
+    "title": "Marceline Vireaux · The Crimson Mourner",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_porcelain_archivist.md": {
+    "page_id": "3d958200-eb22-81e5-864d-e2aed5b35dcc",
+    "title": "Elowen Mireille · The Porcelain Archivist",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_veiled_horn.md": {
+    "page_id": "3d958200-eb22-819d-ac8d-d223ee8dded0",
+    "title": "Ilyrion Vantheir · The Veiled Horn",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_sunbound_blade.md": {
+    "page_id": "3d958200-eb22-81aa-8c22-e01fa043a30b",
+    "title": "Kaelis Aranthor · The Sunbound Blade",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_velvet_executioner.md": {
+    "page_id": "3d958200-eb22-81c4-a28d-d7ba26f0bbe6",
+    "title": "Rhaevan Serathiel · The Velvet Executioner",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_ember_host.md": {
+    "page_id": "3d958200-eb22-8141-9f6c-ef6478934506",
+    "title": "Khaeron Vant · The Ember Host",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/characters/the_lantern_fox.md": {
+    "page_id": "3d958200-eb22-8113-ac4a-c528af2cc723",
+    "title": "Seri Zeliro-Vanthe · The Lantern-Fox",
+    "target": "Volume V — Character Cards"
+  },
+  "_volume_vi": "3d958200-eb22-8119-bc46-dd0862a1ed34",
+  "imports/converted/characters/volume_vi_the_fractured_dawn_paragons_of_the_archons.md": {
+    "page_id": "3d958200-eb22-81c7-a80a-ded610a0bb5f",
+    "title": "The Fractured Dawn · Paragons of the Archons",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/the_ashen_paragon.md": {
+    "page_id": "3d958200-eb22-81e3-b3ae-e9f0948ddd78",
+    "title": "Seikai Hana-no-Kurai · The Ashen Paragon",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/monochrome.md": {
+    "page_id": "3d958200-eb22-81dd-adc7-cbdef23dcbf6",
+    "title": "Ilyria Draven Morningstar · Monochrome",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/v_the_fourth_commander_of_the_void.md": {
+    "page_id": "3d958200-eb22-814d-bf74-f94a402317bb",
+    "title": "Vorrn · The Fourth Weight",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/oracle_of_the_end.md": {
+    "page_id": "3d958200-eb22-81f0-820b-c9a03f4018d7",
+    "title": "Vaithesca · Oracle of the End",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/bea.md": {
+    "page_id": "3d958200-eb22-81da-b137-d321af0543f1",
+    "title": "Beatrix Vaelthorn · The Root-Sworn",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/the_grand_arbiter_of_the_unseen_accord.md": {
+    "page_id": "3d958200-eb22-813f-ac99-e3e3309a2f2b",
+    "title": "Vaelthor Ashen-Meridian · The Patient Throne",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/the_shepard_of_the_unwilling_path.md": {
+    "page_id": "3d958200-eb22-8191-a00a-da858bfdced1",
+    "title": "Helki · The Shepherd of Unwilling Paths",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/vael_of_nothing.md": {
+    "page_id": "3d958200-eb22-81bf-ba0e-ddd24f133029",
+    "title": "Vael of Nothing · The Devourer's Index",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/cas.md": {
+    "page_id": "3d958200-eb22-8197-82ee-cb2ee2455fc5",
+    "title": "Casimir Aldous Alleyne · The Ashen Hand",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/the_last_elven_lord.md": {
+    "page_id": "3d958200-eb22-8111-b694-d32172d39d82",
+    "title": "Vaelorian Theryn Aerethiel · The Last Elven Lord",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/herald_of_death.md": {
+    "page_id": "3d958200-eb22-81fe-9309-c328c7beaea4",
+    "title": "Vaerath Ashveil · The Pale Reaping",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/iron_dawn.md": {
+    "page_id": "3d958200-eb22-8151-a46b-fc3347f762cb",
+    "title": "Vargrath Ul-Dorr · Iron Dawn",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/caelum_radix.md": {
+    "page_id": "3d958200-eb22-81e9-a28c-d242281b996d",
+    "title": "Thalyndros Aerenvael · The Canopy Wyrm",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/grand_seer_of_the_last_age.md": {
+    "page_id": "3d958200-eb22-81fd-bb67-d8007cb2fc2d",
+    "title": "Aurgon Mintruix · The Grand Seer of the Last Age",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/horseman_of_conquest.md": {
+    "page_id": "3d958200-eb22-81b8-813f-c11b313d40d8",
+    "title": "Drevath Mourne-Kal · The Iron Horizon",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/the_maw_that_held.md": {
+    "page_id": "3d958200-eb22-818d-9818-c93f85469d79",
+    "title": "Gorvan Aldric Voss · The Maw That Held",
+    "target": "Volume VI — Character Cards"
+  },
+  "imports/converted/characters/concord_adept.md": {
+    "page_id": "3d958200-eb22-8148-8bce-f6ee6755cd0b",
+    "title": "Azran Nemeir · The Gilded Draft",
+    "target": "Volume VI — Character Cards"
+  },
+  "_archive_sections": {
+    "Techniques": "3d958200-eb22-810c-bdd0-ff9ddaed93cc",
+    "Spellcraft": "3d958200-eb22-819d-8948-f9263917090f",
+    "Artifacts": "3d958200-eb22-8135-aecf-cee1b6c2cd65",
+    "Bestiary Additions": "3d958200-eb22-8161-ab37-cbd0ad259454"
+  },
+  "imports/converted/techniques/sigillum_fixatio.md": {
+    "page_id": "3d958200-eb22-814d-b310-eedb11e1f6f7",
+    "title": "Sigillum Fixatio",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/fluxus_intervallum.md": {
+    "page_id": "3d958200-eb22-8136-b434-d020212a01c7",
+    "title": "Fluxus Intervallum",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/solarbound_aegoric_knight.md": {
+    "page_id": "3d958200-eb22-8133-aca1-ebf28c4b27b7",
+    "title": "Solarbound Aegoric Knight",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/cryost_ascendant.md": {
+    "page_id": "3d958200-eb22-8157-98b1-fb5719377286",
+    "title": "Cryost Ascendant",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/radiant_ribbon_shell.md": {
+    "page_id": "3d958200-eb22-814b-88b9-e2274801acc1",
+    "title": "Radiant Ribbon Shell",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/speculum_recordatio.md": {
+    "page_id": "3d958200-eb22-81b9-9e88-e851542e031d",
+    "title": "Speculum Recordatio",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/symphonia_ascendant.md": {
+    "page_id": "3d958200-eb22-817d-99e8-e4c9a28e2e0d",
+    "title": "Symphonia Ascendant",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/chorda_somnii.md": {
+    "page_id": "3d958200-eb22-816c-a3da-c74479614ac9",
+    "title": "Chorda Somnii",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/archivium_locus.md": {
+    "page_id": "3d958200-eb22-81aa-9827-c4c6043b24aa",
+    "title": "Archivium Locus",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/corona_lunaris.md": {
+    "page_id": "3d958200-eb22-81be-bb9a-f4663804c972",
+    "title": "Corona Lunaris",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/florwyns_canticle.md": {
+    "page_id": "3d958200-eb22-811f-aa49-d23d8865efbd",
+    "title": "Florwyn's Canticle",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/speculum_harmoniae.md": {
+    "page_id": "3d958200-eb22-81bb-9794-c67b2dc67b6c",
+    "title": "Speculum Harmoniae",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/lumen_dissecans.md": {
+    "page_id": "3d958200-eb22-81b3-84a6-d7340d59f343",
+    "title": "Lumen Dissecans",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/somnium_scriptorium.md": {
+    "page_id": "3d958200-eb22-815a-9afd-e2b49fb02068",
+    "title": "Somnium Scriptorium",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/edictum_resonantiae.md": {
+    "page_id": "3d958200-eb22-814c-b9de-e80b157dae4d",
+    "title": "Edictum Resonantiae",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/obelisk_of_the_eclipsed_dawn.md": {
+    "page_id": "3d958200-eb22-81da-b877-e45d75dc3806",
+    "title": "Obelisk of the Eclipsed Dawn",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/celestial_decree_aeon_shard_mandate.md": {
+    "page_id": "3d958200-eb22-8197-be75-f5a6d190046f",
+    "title": "Celestial Decree: Aeon-Shard Mandate",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/auric_parallax_veil.md": {
+    "page_id": "3d958200-eb22-8137-90e5-fc53d6a06e7c",
+    "title": "Auric Parallax Veil",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/liminal_palace_of_false_dawn.md": {
+    "page_id": "3d958200-eb22-81a4-8688-c39d15abda92",
+    "title": "Liminal Palace of False Dawn",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/sovereign_parallax_lance.md": {
+    "page_id": "3d958200-eb22-811b-ac95-da20426ddaf7",
+    "title": "Sovereign Parallax Lance",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/harmonic_null_ascension.md": {
+    "page_id": "3d958200-eb22-8189-a075-f0ba57eed018",
+    "title": "Harmonic Null-Ascension",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/celestial_harmonic_shear.md": {
+    "page_id": "3d958200-eb22-8147-9361-c569a4d14649",
+    "title": "Celestial Harmonic Shear",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/the_aether_bastion.md": {
+    "page_id": "3d958200-eb22-8197-b8ca-c830003386ea",
+    "title": "The Aether Bastion",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/veil_of_verdant_pact.md": {
+    "page_id": "3d958200-eb22-814b-89ed-f38910961f7a",
+    "title": "Veil of Verdant Pact",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/nightglass_seal.md": {
+    "page_id": "3d958200-eb22-810f-92de-d6240970e084",
+    "title": "Nightglass Seal",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/mireglass_suffusion.md": {
+    "page_id": "3d958200-eb22-81af-84e9-fb872eeab366",
+    "title": "Mireglass Suffusion",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/spinal_forge_ascent.md": {
+    "page_id": "3d958200-eb22-8170-897c-e243ebbda780",
+    "title": "Spinal Forge Ascent",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/seraphic_thread_blessing.md": {
+    "page_id": "3d958200-eb22-8185-a46f-d4940823d98f",
+    "title": "Seraphic Thread Blessing",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/pyrewind_breaker.md": {
+    "page_id": "3d958200-eb22-81cc-af99-e25ba35b60b0",
+    "title": "Pyrewind Breaker",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/bastion_imperium.md": {
+    "page_id": "3d958200-eb22-817f-b32a-d49477acb8ea",
+    "title": "Bastion Imperium",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/edict_strike.md": {
+    "page_id": "3d958200-eb22-814e-a4f8-d6c1dc848b7d",
+    "title": "Edict Strike",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/coagula_dominion.md": {
+    "page_id": "3d958200-eb22-814e-9def-f18652d7fcf4",
+    "title": "Coagula Dominion",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/sovereigns_reprisal.md": {
+    "page_id": "3d958200-eb22-8108-86fc-f1857a895f37",
+    "title": "Sovereign's Reprisal",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/the_last_monolith.md": {
+    "page_id": "3d958200-eb22-817e-a5a3-c7948076832e",
+    "title": "The Last Monolith",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/crimson_dirge.md": {
+    "page_id": "3d958200-eb22-8180-b4fd-dfe37b06f820",
+    "title": "Crimson Dirge",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/principle_overwrite.md": {
+    "page_id": "3d958200-eb22-812f-8204-e60adb869ede",
+    "title": "Principle Overwrite",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/judgment_manifest.md": {
+    "page_id": "3d958200-eb22-81b7-bca2-d2f0e17c92af",
+    "title": "Judgment Manifest",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/world_echelon.md": {
+    "page_id": "3d958200-eb22-81f1-911a-de43b83e9834",
+    "title": "World Echelon",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/dirge_ascension.md": {
+    "page_id": "3d958200-eb22-8124-90c3-dd04d9100d99",
+    "title": "Dirge Ascension",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/the_principle_engine.md": {
+    "page_id": "3d958200-eb22-8186-8bad-f6ce4a3ae0b4",
+    "title": "The Principle Engine",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/final_mercy.md": {
+    "page_id": "3d958200-eb22-81c1-9825-cb96466d2933",
+    "title": "Final Mercy",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/vorynn_execution_strike.md": {
+    "page_id": "3d958200-eb22-81dd-9534-ef3bad726248",
+    "title": "Vorynn Execution Strike",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/maw_of_crystalline_stasis.md": {
+    "page_id": "3d958200-eb22-8102-9bae-d74bd110cc8b",
+    "title": "Maw of Crystalline Stasis",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/ashfang_mark_invocation.md": {
+    "page_id": "3d958200-eb22-8154-87fc-c4ac3a251383",
+    "title": "Ashfang Mark Invocation",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/hunters_breath.md": {
+    "page_id": "3d958200-eb22-8140-b2ba-f1f6825e4ce3",
+    "title": "Hunter's Breath",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/bloodbind_surge.md": {
+    "page_id": "3d958200-eb22-8147-872c-e7d3e512c5e3",
+    "title": "Bloodbind Surge",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/winter_rend.md": {
+    "page_id": "3d958200-eb22-813d-b297-f3b326e2d610",
+    "title": "Winter Rend",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/tenebra_ambush_art.md": {
+    "page_id": "3d958200-eb22-81fd-bd46-fa749d2b18eb",
+    "title": "Tenebra Ambush Art",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/oneiron_phantasm_court.md": {
+    "page_id": "3d958200-eb22-8169-a195-db9497b2c710",
+    "title": "Oneiron Phantasm Court",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/eidolyn_falseface_lattice.md": {
+    "page_id": "3d958200-eb22-81e6-a929-d85f73e699ed",
+    "title": "Eidolyn Falseface Lattice",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/hypnather_descent_rite.md": {
+    "page_id": "3d958200-eb22-81a5-b868-ec33d20c359f",
+    "title": "Hypnather Descent Rite",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/puppet_dream.md": {
+    "page_id": "3d958200-eb22-813c-a4f1-dd986f62009c",
+    "title": "Puppet-Dream Marionette",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/letheveil_memory.md": {
+    "page_id": "3d958200-eb22-811f-a838-fde4b94c787b",
+    "title": "Letheveil Memory-Quake",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/oneiron_parasite.md": {
+    "page_id": "3d958200-eb22-8109-9163-e91f77df7df9",
+    "title": "Oneiron Parasite · Nightmare Warden",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/dreambreaker_field_the_shattered_midnight.md": {
+    "page_id": "3d958200-eb22-81f8-bd12-ec4542c6e77f",
+    "title": "Dreambreaker Field · The Shattered Midnight",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/techniques/hypnather_oblivion.md": {
+    "page_id": "3d958200-eb22-8117-b2f8-d2e30dbece9b",
+    "title": "Oblivion-Step",
+    "target": "The Iridescent Archive / Techniques"
+  },
+  "imports/converted/spellcraft/divination_harmonics_.md": {
+    "page_id": "3d958200-eb22-810a-a09e-e6558a18f7ba",
+    "title": "Resonant Divination",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/anima_harmonics_.md": {
+    "page_id": "3d958200-eb22-8121-8dd7-e9a3f7ddb270",
+    "title": "Anima Harmonics",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/thaumic_harmonics_.md": {
+    "page_id": "3d958200-eb22-814f-82a4-d18146936d4e",
+    "title": "Thaumic Harmonics",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/the_veil.md": {
+    "page_id": "3d958200-eb22-81ed-8d47-f2f491c36eb9",
+    "title": "The Veil",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/invert_eidolon.md": {
+    "page_id": "3d958200-eb22-81d6-89ef-cd479f1a3251",
+    "title": "Invert Eidolon",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/vainglory.md": {
+    "page_id": "3d958200-eb22-8108-b1ff-ef07ba4fb3d5",
+    "title": "Vainglory",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/transposition.md": {
+    "page_id": "3d958200-eb22-81ca-9c1f-da432e6fcefb",
+    "title": "Transposition",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/anointing.md": {
+    "page_id": "3d958200-eb22-81fc-9495-e4c845906130",
+    "title": "Anointing",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/scission.md": {
+    "page_id": "3d958200-eb22-814b-b06d-c80ca11e279c",
+    "title": "Scission",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/oathrend.md": {
+    "page_id": "3d958200-eb22-8182-a765-f92086554f5f",
+    "title": "Oathrend",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/edictum.md": {
+    "page_id": "3d958200-eb22-81ff-9df5-c5bed5594085",
+    "title": "Edictum",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/imprinta.md": {
+    "page_id": "3d958200-eb22-8183-abd6-fdc925a2cc91",
+    "title": "Imprinta",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/fallacy.md": {
+    "page_id": "3d958200-eb22-81be-833b-e6e1cf0d7a59",
+    "title": "Fallacy",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/gods_fist.md": {
+    "page_id": "3d958200-eb22-81ef-8559-fd7d18e69603",
+    "title": "Kami no Kobushi",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/unlimited_bladeworks.md": {
+    "page_id": "3d958200-eb22-8185-a08e-c5f442a6b44d",
+    "title": "Mugen no Hatsurugi",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/saba_no_rosa.md": {
+    "page_id": "3d958200-eb22-8118-966f-fa511f1cb4da",
+    "title": "Saba no Rosa",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/the_iron_tree.md": {
+    "page_id": "3d958200-eb22-81e6-ae29-d981794b4d2d",
+    "title": "The Iron Tree",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/kurotana.md": {
+    "page_id": "3d958200-eb22-8148-99a9-f28585bfdd47",
+    "title": "Kurotana",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/spellcraft/antinomy.md": {
+    "page_id": "3d958200-eb22-8136-b58e-ea901d51622f",
+    "title": "Antinomy",
+    "target": "The Iridescent Archive / Spellcraft"
+  },
+  "imports/converted/artifacts/mnemonis_solution.md": {
+    "page_id": "3d958200-eb22-817b-a695-cbdca66361a8",
+    "title": "Mnemonis Solution · The Recursive Draft",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/verdiction_gauntlet.md": {
+    "page_id": "3d958200-eb22-8101-8088-f8ae9a93db23",
+    "title": "Verdiction Gauntlet · The Hand of Judgment",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_soul_reed_blade.md": {
+    "page_id": "3d958200-eb22-8127-be19-ea65c4aadf99",
+    "title": "Kogane Kei · The Soul-Reed Blade",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_marshgraves_phial.md": {
+    "page_id": "3d958200-eb22-8144-ad02-c79b5994242d",
+    "title": "The Marshgrave's Phial · The Bottle That Weeps",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_lantern_of_echoed_veils.md": {
+    "page_id": "3d958200-eb22-8197-a1e4-e8f539816fbf",
+    "title": "The Lantern of Echoed Veils · Spirit-Binding Relic",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/mirrorwell_prism.md": {
+    "page_id": "3d958200-eb22-81d3-91bc-ed91423447f6",
+    "title": "Mirrorwell Prism · Soulbound Echo Anchor",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_ledger_of_forgotten_faces.md": {
+    "page_id": "3d958200-eb22-8104-8a8d-d18084f84c96",
+    "title": "The Ledger of Forgotten Faces · Glyph Tool / Cursed Object",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_latch_of_twinned_souls.md": {
+    "page_id": "3d958200-eb22-819d-8b45-d9003ec8141c",
+    "title": "The Latch of Twinned Souls · Soulbound Echo Focus",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/staff_of_the_verdant_pulse.md": {
+    "page_id": "3d958200-eb22-817c-867c-f7540c8aa3f4",
+    "title": "Staff of the Verdant Pulse · Domain Anchor",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/nkanda_wa_mizimu.md": {
+    "page_id": "3d958200-eb22-8128-a632-e5079a0a26c2",
+    "title": "Nkanda wa Mizimu · Necklace of the Spirit Chorus",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/mbunda_wa_moyo.md": {
+    "page_id": "3d958200-eb22-8195-a856-d58a6422cbff",
+    "title": "Mbunda wa Moyo · Drum of the Living Heart",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/mkono_wa_miti.md": {
+    "page_id": "3d958200-eb22-8141-98ba-ca4b9eadbe9d",
+    "title": "Mkono wa Miti · Bracer of the Living Grove",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/kibanda_cha_mwanga_wa_miti.md": {
+    "page_id": "3d958200-eb22-8185-b5ac-db8c44f5d7bd",
+    "title": "Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/upanga_wa_msimu_nne.md": {
+    "page_id": "3d958200-eb22-810d-ba1c-d2604de2c710",
+    "title": "Upanga wa Msimu Nne · Blade of the Four Seasons",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/amaranth_severance.md": {
+    "page_id": "3d958200-eb22-81c8-aaa9-efbff19b98eb",
+    "title": "Amaranth Severance · The Blooming Thorn",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_black_aperture.md": {
+    "page_id": "3d958200-eb22-8125-ada8-d27325cdd16e",
+    "title": "The Black Aperture · Void Key",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/luriens_hearthvine.md": {
+    "page_id": "3d958200-eb22-8175-9665-e238d46b56f2",
+    "title": "Lurien's Hearthvine · The Green Cantor's Bow",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/the_ocular_codex_of_thirteen_mouths.md": {
+    "page_id": "3d958200-eb22-8153-9f66-d6c2d8b90cf0",
+    "title": "The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/horizons_reach.md": {
+    "page_id": "3d958200-eb22-8155-9252-f55b8699e443",
+    "title": "Horizon's Reach · Limen-Hand",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/band_of_frozen_brambles.md": {
+    "page_id": "3d958200-eb22-8181-8092-dba61e5c5199",
+    "title": "Band of Frozen Brambles · Winter-Briar",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/artifacts/banisher.md": {
+    "page_id": "3d958200-eb22-818f-a987-eb80c04b8e7a",
+    "title": "Banisher · Writ-Spear of Exile",
+    "target": "The Iridescent Archive / Artifacts"
+  },
+  "imports/converted/beasts/greater_wolves.md": {
+    "page_id": "3d958200-eb22-8110-938b-fccf2e0885a4",
+    "title": "Greater Wolf",
+    "target": "The Iridescent Archive / Bestiary Additions"
+  },
+  "imports/converted/beasts/nemean_lion.md": {
+    "page_id": "3d958200-eb22-8108-aab9-e1a51da2b140",
+    "title": "Neiman Lion",
+    "target": "The Iridescent Archive / Bestiary Additions"
+  },
+  "imports/converted/beasts/liches.md": {
+    "page_id": "3d958200-eb22-8171-8652-f3fb9eb8cbec",
+    "title": "Lich",
+    "target": "The Iridescent Archive / Bestiary Additions"
+  }
+}

@@ -75,7 +75,7 @@ rules:
     pack_number: null
     section: "I"
     title: The Agamalu homeland is Vāimoana
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The Agamalu homeland is Vāimoana, an archipelago in the open water
@@ -89,11 +89,21 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: C-004 ruled -- 'a Japonic island / nation, revert back to the Yuno document'"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "14"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (C-004): this whole homeland was the Yasoshima wiki
+      page (wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md)
+      re-skinned in Polynesian/Agamalu register -- the archipelago, the
+      confederation-of-aiga governance and the Essence-stability claim are
+      near-verbatim matches. The island is Japonic and belongs to House
+      Yuno; the Yasoshima document is what's canon, not this row. See
+      R21-3-VAIMOANA_GOVERNANCE, R21-3-VAIMOANA_ESSENCE_STABILITY (also
+      superseded) and R21-5-ISLAND_NAME_PENDING (the "Wadatsumi" name this
+      row's cluster chose is itself superseded by "Yasoshima," the name the
+      Yuno document already carried).
 
   - id: R21-1-QUEEN_OF_KHARVEN_RULING
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -191,7 +201,7 @@ rules:
     pack_number: null
     section: "III"
     title: Vāimoana is a confederation of aiga, not a kingdom
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Vāimoana is a confederation of aiga governed by fono, with no king,
@@ -206,18 +216,24 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
+    ratified: "Isaac, 2026-09-12, Claude Code: C-004 ruled -- reverts to the Yuno document"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "70"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (C-004): superseded by the Yasoshima wiki page's own
+      Governance section, near-verbatim identical (confederation of aiga
+      governed by fono, no king) but attributed to House Yuno, not Agamalu.
+      No marriage tie to Kharven survives -- Ayame Yuno married in as
+      herself, not as an ambassador of a homeland confederation. See
+      RULINGS.md.
 
   - id: R21-3-VAIMOANA_ESSENCE_STABILITY
     pack: Canon Amendment, Agamalu and Büri Origin
     pack_number: null
     section: "III"
     title: Vāimoana has the most stable Essence saturation ever recorded
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Nothing drifts at Vāimoana, the most stable saturation recorded
@@ -233,11 +249,14 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
+    ratified: "Isaac, 2026-09-12, Claude Code: C-004 ruled -- reverts to the Yuno document"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "68"
-    notes: null
+    notes: >-
+      RULED 2026-09-12 (C-004): superseded by the Yasoshima wiki page's own
+      Ambient Essence section, near-verbatim identical, attributed to
+      House Yuno rites rather than Agamalu ones. See RULINGS.md.
 
   - id: R21-4-BURI_LANDLESS_LINES
     pack: Canon Amendment, Agamalu and Büri Origin
@@ -321,6 +340,7 @@ rules:
       lines: "108"
     notes: >-
       RULED 2026-09-12: Isaac's words: 'A japanese name.' None of the three Polynesian options; the island takes a Japonic-register name, to be proposed (propose_rule) and ratified. Vāimoana is stale once that lands. Applied 2026-09-12: Wadatsumi (Isaac delegated the choice); Vāimoana swept from the wiki and scenes via build/renames.yaml; the verbatim here keeps the old name as quoted.
+      RULED 2026-09-12, later (C-004): "Wadatsumi" is itself superseded. Isaac: "I want it be a japonic island / nation and revert back to the Yuno document" -- the island is Yasoshima, the name the Yuno document (wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md) already carried before the Agamalu retcon touched it. No new name was needed; Wadatsumi was an invention where an existing one already governed. Wadatsumi swept to Yasoshima via build/renames.yaml.
 
 
   - id: R21-5-FILEMU_VOICE_PENDING

@@ -1,0 +1,37 @@
+---
+title: "Saba no Rosa"
+notion_id: "3d958200-eb22-8118-966f-fa511f1cb4da"
+notion_url: "https://app.notion.com/p/Saba-no-Rosa-3d958200eb228118966ffa511f1cb4da"
+section: "Spellcraft"
+tags: []
+last_edited: "2026-09-12T15:05:00.000Z"
+verification: "unverified"
+---
+
+# Saba no Rosa
+
+## Saba no Rosa
+
+> **Migration note.** Converted from an old Trello "Apex Fate Discipline" card into a Plane of Fate discipline on the current Sixty Wellsprings. Bara Moto and Muken already carry current names (Möngke to Bara under the Moto Reversion Ledger; Muken's given name was never converted), so the teaching relationship is kept as the card gives it. Anamnesis, Mortalis, Fractura and Contrition all check out against the current Sixty and keep their stated roles; Contrition's current epithet is "the Broken Flame" rather than "the Wellspring of Contrition," a Vitalia Wellspring, not a Caloria one. "Monlithion" is a misspelling of Monolithion, the Enduring Monument, Materia; corrected. "Aether Sangui" does not exist on the current Sixty and the wiki has no record of it; since the discipline cannot make sense without a Wellspring that supplies medium paid from the practitioner's own reserves, it is replaced with Oblation, the Offering Flame, Fluxia, which is the Wellspring current canon already uses for exactly this function in Moetana and Gisei. The Shingan and the Moto bloodline check out. Category is assigned as Ritus (the discipline's own five-step process of surfacing, widening, withdrawing, ratifying and sustaining a raised field matches the Intention-Space-Offering-Invocation-Seal shape of a Ritus working more closely than any other defined Category); Craft as Spellcraft, since the sea holds only while the practitioner's attention holds it, which is the defining trait of that Craft. Everything else, the examples, the philosophy, the warning Bara gave Muken, is kept as the card states it.
+
+---
+
+### What it is
+
+Saba no Rosa is a lawful discipline that raises a field of roses and thorns around a target, in which each bloom is a single load-bearing deposit drawn up out of the target's own history and each thorn is the unpaid debt attached to it. It does not touch the body. It touches the ledger of past holdings, honored relationships, paid debts, kept oaths, that a present coordinate is standing on, and it dilutes the target's claim on those holdings until the coordinate can no longer be sustained by them. The deposit is not destroyed. It simply stops answering to the target.
+Bara Moto passed the Work to Muken once, on the seventy-third day of instruction, beneath the lower lattice of the Plane of Fate, and warned him against teaching it further to anyone who had not first learned to grieve correctly.
+
+### Where it sits in the current system
+
+The discipline crosses five Families rather than resting in one, the same way Moetana and the Iron Bison discipline do. **Anamnesis** (Limina, the Wellspring of Remembrance) reads the target's history as a physically stored record rather than a summoned memory. **Mortalis** (Vitalia, the Black Gate) governs the threshold across which a deposit's lawful answering is withdrawn, the same threshold Mortalis governs everywhere else it appears. **Fractura** (Vectoria, the Breaking Point) finds the existing seams in that history and widens them without snapping the timeline. **Contrition** (Vitalia, the Broken Flame) surfaces the unpaid weight riding on each deposit. **Monolithion** (Materia, the Enduring Monument) ratifies the withdrawal as a standing structural fact the target's own timeline cannot quietly refile. **Oblation** (Fluxia, the Offering Flame) supplies the medium, drawn from the practitioner's own reserves rather than the target's, so the exchange is paid rather than stolen; this is the same Wellspring that prices Moetana's lifespan-cost and Gisei's identity-cost, and Saba no Rosa's insistence on paying from the source rather than the target is simply Oblation's ordinary law stated as doctrine.
+Category: Ritus. Craft: Spellcraft, sustained by attention, which is why the sea can be raised small and expanded only as reserves allow, and why it lapses the moment the practitioner is killed or Silenced. Stage floor and Grade are not stated on the source card; the discipline reads no lower than Stage VII Refraction (A-Grade), the Stage at which a Domain seed first forms, since the discipline requires holding an environmental field open on borrowed structure rather than discharging a single strike.
+
+### Practitioners and history
+
+The only attested lineage is Bara Moto to Muken, taught as a single private lesson rather than a house curriculum. The discipline reaches its most dangerous expression paired with the Shingan, the Moto ocular inheritance: where Saba no Rosa alone must raise a field across a target's whole ledger to find the load-bearing deposit, the Shingan's Tengan or Kamigan branch can name the single correct rose directly, turning what would otherwise be an apocalyptic working into a surgical one. No other bearer is recorded.
+
+### What it can and cannot do
+
+It scales with the target's own history rather than the practitioner's output. Kings, gods and old practitioners are the easiest targets, not the hardest, since the richer the ledger, the more roses there are to raise. It arrives without a blade or a wound, and the target never sees the strike land. From outside it reads as mercy. Oblation pays the medium and Contrition surfaces only what was already unpaid, so no appeal to the cosmos answers it; there is no theft to accuse the practitioner of.
+It cannot erase a deposit outright. The past remains true in the cosmos; only the target's present claim on it is diluted, and Mortalis's threshold only ever runs one direction at a time, so the practitioner cannot simply reverse a withdrawal once ratified by Monolithion. It cannot be raised without cost: every rose is paid from the practitioner's own Oblation reserve, and a practitioner who tries to draw the medium from the target or the surrounding field instead finds the sea turning brackish and the thorns turning inward on the next exchange, since Oblation's law does not permit stolen payment.
+Its counter is the same law that makes it lawful in the first place: a deposit the target never actually held cannot be surfaced, so a target whose present coordinate is paid for honestly, by debts already settled and oaths already kept, gives the sea nothing to work with. A practitioner who reaches for the discipline against someone whose only fault was being remembered finds the sea has nothing lawful to draw on, and the reserve spent trying anyway is spent for nothing, until enough wrongful attempts exhaust the practitioner's own Oblation reserve at the threshold and the ledger the gardener stands on dilutes beneath his own feet.

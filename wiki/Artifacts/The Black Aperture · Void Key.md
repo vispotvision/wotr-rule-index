@@ -1,0 +1,46 @@
+---
+title: "The Black Aperture · Void Key"
+notion_id: "3d958200-eb22-8125-ada8-d27325cdd16e"
+notion_url: "https://app.notion.com/p/The-Black-Aperture-Void-Key-3d958200eb228125ada8d27325cdd16e"
+section: "Artifacts"
+tags: []
+last_edited: "2026-09-12T15:05:00.000Z"
+verification: "unverified"
+---
+
+# The Black Aperture · Void Key
+
+## The Black Aperture · Void Key
+
+> Migration note: the old Essence Alignment "Vectra (spatial) plus Harmonia (silence), negative-pressure profile" mixes two Magical Categories where a Wellspring Harmonization belongs; it converts to Nihiloth (The Hollow Law) primary and Letheveil (The Waters of Forgetting) secondary, both Limina, Entropy/Void/Mind, with Vectra and Harmonia kept below as the Category-register names for what the two effects look like rather than what powers them. "The Echo Collapse of Dorrosfenn" is not itself attested, but Dorrosfenn and a "Fracturing of Dorrosfenn" tied to Essence contamination are independently confirmed canon; the old card's event name is kept as the record's own name for that same fracturing rather than treated as a second, separate event. The Black Concord, Skyglass Archive, Varūn and its deep catacombs are all independently confirmed canon and used here as attested. "Dell" and "Nightwell-3" have no direct match and are kept as unattested Black Concord internal names, since the card cannot state its own current custody without them. Of the three glyphs given, *Uur* (Disruption) and *Ur* (Balance, inverted) match the Master Glyph Index exactly; *Ie* is an attested glyph but its canon gloss is Perception, not Insight, so the gloss is corrected while the glyph itself is kept. No numeric figures were given on the card; mass, length and every EU figure below are conservative estimates, marked as such.
+
+### What it is
+
+Divine Tool, Domain Anchor, a forbidden Mechanica aspect. A rectilinear, monolith-thin blade of pure absence, an ink-black slit rimmed in a faint violet corona. The hilt is a torn ring of dark crystal, a circular void where a guard should sit, with soft starlight bleeding from fractures along the grip; drawing it flattens nearby sound and desaturates colour. Condensed during the fracturing event Dorrosfenn's own record calls the Echo Collapse, when a failed Concord experiment tried to net a fragment of Outer Night and instead froze a seam of nothing into tool-shape. Sealwrights bound it under a trinity oath and caged it at the Skyglass Archive for study before the record of the work itself was sealed.
+
+### Physical account
+
+The blade proper reads no mass on any instrument, a documented property of Limina Void-class condensations rather than an oversight; the hilt-and-ring shell alone masses approximately 0.5 kg. Overall length approximately 90 cm, the hilt ring adding roughly 14 cm of diameter (both estimates; the card gives no figures). Because the blade itself carries no weight, the balance point sits inside the ring rather than along the blade, giving it a grip-heavy handling profile unlike any bladed weapon with mass. It does not beat armour by Strike Force at all: Topology Collapse unthreads whatever it touches regardless of proofed Grade, so no plate, however heavily proofed, offers a defence against contact. It fails only against a Class V Radiant Aether Shell or an active, stabilized Domain ward, either of which can resist or dissipate the collapse before it completes.
+
+### Operation line
+
+**Event-Edge.** Contact lets the *Uur* (Disruption) glyph condition a Nihiloth boundary along the cut plane, unthreading struck matter and Essence into null space; nothing severed this way returns, to the target or to anyone else.
+**Silence Field.** The *Ur* glyph runs inverted, so instead of stabilizing Essence gradients it collapses them within a radius, producing Harmonic Mute; any working attempted inside that radius suffers Aetheric Stall, since its own boundary conditions cannot hold.
+**Void Gate.** Rotating the blade through its ring lets the Nihiloth boundary open wide enough for transit, a Domain Phase Overlap into a starless interstice, functioning as a crude and unlicensed parallel to a Concord Gate.
+**Name-Eater.** Repeated strikes against a target's Soul Crystal apply Letheveil's forgetting-law directly to stored memory, erasing mnemonic imprints and, with enough repetition, producing full Resonance Erasure.
+
+### Codex line
+
+Wellspring: Nihiloth (primary), Letheveil (secondary, memory-erasure). Family: Limina. Physics Domain: Entropy, Void and Mind. Category: Silentia, for the Silence Field; Claustra, for the sealed threefold-vow gating. Glyphs, Master Glyph Index attested: *Uur* (Disruption), *Ur* (Balance, used inverted here), *Ie* (Perception, corrected from the card's "Insight").
+
+### Bond and cost
+
+Not soulbound to any one bearer; it is held under a threefold vow and Black Concord custody rather than a personal bond. Breaking any clause of the vow triggers a Pressure Reversal that folds the wielder's own Essence inward, a self-directed Crystal Fracture Event. Each Event-Edge strike costs an estimated 80 to 120 EU, consistent with the higher draw Limina Void-class workings carry as a Family. Every use of the Void Gate exacts a separate toll outside the EU economy: one spoken name, forgotten by the opener until the next moonrise. Prolonged gating additionally risks a Vector Collapse of the wielder's own Temperance State, and the corona destabilizes into Cascade Overrun if the blade is held near a high-output Wellspring.
+
+### Counterplay
+
+Nothing parries the Event-Edge directly, since contact unthreads the parrying object along with the target; the only recorded stop was collapsing an open Void Gate from the far side before the wielder finished rotating the ring, catching them mid-Vector-Collapse when their own Temperance State was exposed. Denying the wielder the chance to complete or renew the threefold vow is the standing preventive counter, since the weapon cannot be used at all outside it.
+
+### Bearers
+
+Bound first by the Sealwrights who caged it at the Skyglass Archive; used once by a Black Concord cell to stitch shut the Varūn catacomb breach; rumoured to have excised a Titan echo's own heart-domain during the events the old record calls the Blooming Silence campaign. Currently held in the Black Concord deep vault "Nightwell-3," with operational custody rotating and most often signed out under the codename Dell for covert null operations. First appearance: *Inclusion Saga, The Blooming Silence*, Chapter 11 ("Keyhole in the Sky"), the volume title and number carried over unverified from the old card.

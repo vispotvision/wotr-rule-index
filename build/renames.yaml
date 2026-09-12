@@ -1,8 +1,11 @@
 # Extra old -> governing pairs applied by stale_names and the Notion sweep,
 # on top of the Moto Reversion Ledger's tables. One line per decision.
+- old: Wadatsumi
+  new: Yasoshima
+  why: "C-004 ruled 2026-09-12, later: 'a japonic island / nation, revert back to the Yuno document' -- Yasoshima is the name the Yuno document already carried; Wadatsumi is itself superseded"
 - old: Vāimoana
-  new: Wadatsumi
-  why: "R21-5 ruled 2026-09-12: a Japonic name; Wadatsumi chosen (Isaac delegated the choice)"
+  new: Yasoshima
+  why: "same island, now attributed to House Yuno per C-004; Wadatsumi (the intermediate name) is also superseded"
 - old: Vaimoana
-  new: Wadatsumi
+  new: Yasoshima
   why: "unaccented spelling of the same"

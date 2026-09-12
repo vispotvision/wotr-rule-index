@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-399 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+395 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 
@@ -142,7 +142,7 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (51)
+## character-sheet (50)
 
 ### R14-6-CHECK29 [Pack Fourteen §6]
 
@@ -197,12 +197,6 @@ A Traitus shape is passive and permanent, not fired or summoned but a standing m
 A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.
 
 > The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.
-
-### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
-
-No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
-
-> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
 
 ### R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT [Pack Eight 1.2]
 
@@ -1626,7 +1620,7 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (76)
+## magic-mechanism (74)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -2012,12 +2006,6 @@ A character sheet, codex entry or technique writeup states the literal operation
 
 > The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.
 
-### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
-
-No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
-
-> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
-
 ### R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT [Pack Eight 1.2]
 
 Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.
@@ -2059,12 +2047,6 @@ Status screens, panels and HUD-style rendering (already banned); narrator explan
 The Offering converts opponent capability into expenditure; the Standing converts time into advantage (only for a fighter who doesn't experience time as a resource); the Ledger converts the whole preceding engagement into one effect, un-repeatable per encounter; the Absence converts a victory into nothing by destroying the vessel while the practitioner is unaffected.
 
 > | The Offering | Something expendable is put where the opponent must deal with it | Converts the opponent's capability into expenditure. The construct is not expected to win. It is expected to cost. |
-
-### R21-3-VAIMOANA_ESSENCE_STABILITY [Canon Amendment, Agamalu and Büri Origin III]
-
-Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
-
-> Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.
 
 ### R22-4-SYSTEM_TERMS_TABLE [Moto Reversion Ledger IV]
 
@@ -2972,7 +2954,7 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
-## prose-law (99)
+## prose-law (98)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -3129,12 +3111,6 @@ The mechanism gloss ban (Check 20), the metaphysical-units ban (Check 21), the c
 Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; "it glowed" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.
 
 > Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body — jagged, shard-edged light, not a soft radiant bloom. "It glowed" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.
-
-### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
-
-No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
-
-> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
 
 ### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
 
@@ -4876,7 +4852,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (102)
+## worldbuilding (99)
 
 ### R15-1-RACIAL_VOICE_MENU [Pack Fifteen §1]
 
@@ -5225,24 +5201,6 @@ The Malō of Sātūlagi does not exist and never did; the Büri hold one seat an
 The Büri origin is the western reach of the Inner World's northern shield, not the Old World.
 
 > The Büri origin | The western reach of the Inner World's northern shield. Not the Old World.
-
-### R21-1-AGAMALU_HOMELAND_RULING [Canon Amendment, Agamalu and Büri Origin I]
-
-The Agamalu homeland is Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
-
-> The Agamalu homeland | Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
-
-### R21-3-VAIMOANA_GOVERNANCE [Canon Amendment, Agamalu and Büri Origin III]
-
-Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.
-
-> Not a kingdom. A confederation of aiga governed by fono, with no king, no standing army, and no charter with the Guild Accord.
-
-### R21-3-VAIMOANA_ESSENCE_STABILITY [Canon Amendment, Agamalu and Büri Origin III]
-
-Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
-
-> Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.
 
 ### R21-4-BURI_LANDLESS_LINES [Canon Amendment, Agamalu and Büri Origin IV]
 

@@ -1,0 +1,37 @@
+---
+title: "Kurotana"
+notion_id: "3d958200-eb22-8148-99a9-f28585bfdd47"
+notion_url: "https://app.notion.com/p/Kurotana-3d958200eb22814899a9f28585bfdd47"
+section: "Spellcraft"
+tags: []
+last_edited: "2026-09-12T15:05:00.000Z"
+verification: "unverified"
+---
+
+# Kurotana
+
+## Kurotana
+
+> **Migration note.** Converted from an old Trello fate-state card into a discipline anchored on Niran Yukari, Yukari Bloodline, card 15 on the current wiki. This one converts unusually cleanly: Niran's own sheet already carries a Domain named "Murder of Crows," seed, partial active, with black-violet crow silhouettes marking developing Thread-Locks, which is precisely the immature form of the Kurotana card's completed Domain, "Murder of Crows, Cathedral of Unchosen Futures." His sheet also already carries the Ketsumyōgan, Monolithion harmonisation and a bloodline named the Crows of Fate, and the current Ketsuen entry explicitly names a future "Septarch transition" for Niran as settled worldbuilding, not something this pass is inventing. The old card's history (a warning-eye that could not save everyone, and hardened into design) is kept unconverted. What the old card gives with no current-system anchor is the Wellspring set, and the Family, Category, Stage and Grade classification; these are derived below rather than invented from nothing. Monolithion (misspelled "Monlithion" nowhere in this card, so no correction needed here) supplies causal perception; Vantabriel is added for its canon description of endurance as carried loss rather than replaced loss, which is exactly what "Witness Backlash" describes; Nihiloth is added because its canon mechanism, a Domain that removes law rather than adding it, is the literal mechanism the card gives for the crow-Domain narrowing futures rather than showing them; Oblation is added as the payment Wellspring for the Three Witnesses, the same Wellspring that prices Moetana's and Gisei's sacrifices. The Seven Great Corruptions (Ruin, Purity, Spirit, Temporality, Knowledge, Balance, Totality) numerically and thematically mirror the Seven Works of Hataraki (Hametsu, Junketsu, Seirei, Jikan, Chishiki, Baransu, Zentaisei) that Bara Moto authored for the Moto bloodline; the old card gives no Moto connection and none is claimed here, but the parallel is worth recording as an unattested resonance between two bloodlines' apex doctrines, not a fact. Stage floor is derived, not stated on the card: Stage XI, Dissonance, is the Stage whose own Threshold Catalyst is "deliberately entering contact with an existence-ending force and remaining coherent long enough to choose how it is met," which is the Black Recognition described almost word for word. Grade required follows from the same Stage's table entry, SS-Grade, fracture risk above 700.
+
+---
+
+### What it is
+
+Kurotana is the corrupted mirror of Moetana. Where Moetana is an honest, triaxial phase-lock across all three layers of the Soul Crystal, held open through Oblation's fair exchange of lifespan for duration, Kurotana replaces the vessel outright. The bearer forfeits the original body's authority and lets fate rebuild them as an instrument of one forced outcome. It is not possession and it is not ordinary transformation. The user stops holding open possibility and starts arranging reality around a single chosen design.
+It awakens through the Black Recognition, in which the bearer offers three witnesses to the Plane of Fate: the Witness of Flesh, the original body, which remains only as material; the Witness of Love, some bond that still recognised the bearer as human, lost in a way nothing can repair; and the Witness of Name, the old meaning of the bearer's own name, replaced by a single function. For Niran Yukari, that function is Septarch.
+
+### Where it sits in the current system
+
+Cross-Family, like Moetana, but running the corrupted vector instead of the honest one. **Monolithion** (Materia) feeds the Ketsumyōgan's causal perception and, at Kurotana's completion, becomes the standing structure of the crow-Domain itself. **Vantabriel** (Limina, the Wellspring of Night) governs Witness Backlash: what strikes the vessel is kept rather than reflected, and its endurance is carried loss rather than replaced loss, exactly as every soul it has edited leaves residue behind. **Nihiloth** (Limina, the Hollow Law) is the Domain's own mechanism: a null field built from destructive interference removes law rather than adding it, which is why the completed Domain does not show the future, it only removes the futures a target's choices no longer earn. **Oblation** (Fluxia, the Offering Flame) prices the Three Witnesses, the same Wellspring that prices Moetana's lifespan and Gisei's identity.
+Category: Conjunction, the same as Moetana's own "Conjunctia-class transformation state." Craft: the vessel itself is a standing state rather than a cast working, closest to Runecraft in durability, since once inscribed into the Crystal it does not require sustained attention to persist, unlike Spellcraft. Stage floor XI, Dissonance; Grade SS.
+
+### Practitioners and history
+
+The only attested bearer is Niran Yukari, the Crow of Fate, founder of the Sovereign Enclave of Ketsuen. His sheet already records the Crow of Fate trait, the Ketsumyōgan's proto-expression, and a partial Domain seed carrying the exact name Kurotana's completed form uses. His father Naiser Yukari, deceased, is recorded on his sheet as filial-formative grief, metabolised rather than dissolved, which matches the old card's account of a boy who warned, ran, saved who he could, and failed anyway before warning hardened into doctrine.
+The Seven Great Corruptions echo the Seven Works of Hataraki in number and shape, Ruin against Ruin, Purity against Purity, Spirit against Spirit, straight through Totality against Totality. No document ties the Yukari to that Moto doctrine directly, so the parallel is recorded here as a structural resonance between two bloodlines' apex expressions, not as a claimed lineage.
+
+### What it can and cannot do
+
+Soul Drafting reads a soul's structure and imposes a revised version, always at a cost: a coward gains courage and loses gentleness, a dying soldier survives and loses the capacity to lay down arms. Consequence Architecture arranges unrelated battlefield events so each feeds one chosen outcome without controlling every piece. Name Revision changes the metaphysical office a soul occupies rather than the soul itself. The Drafted Vessel repairs itself for as long as its own self-design stays coherent, and fails the instant someone forces it to remember the person it replaced. The Black Mandate issues short fate-commands, and the cost rises with how abstract the command is. The completed Domain, Murder of Crows, Cathedral of Unchosen Futures, marks each significant choice with a crow; a poorly chosen path grows heavier and narrower as the mark takes flight.
+It cannot restore what the vessel has already spent to reach this state, and it cannot survive being reminded, cleanly and without contradiction, of the boy it replaced. Weapons alone rarely kill it; contradiction does. A father using the old name, a friend forgiving where hatred would be easier, a victim refusing an assigned role, each of these cracks the Soul Crystal lattice the way nothing edged ever could, because they are the one input Vantabriel's carried-loss architecture cannot convert into fuel.

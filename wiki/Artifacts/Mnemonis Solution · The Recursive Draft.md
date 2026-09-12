@@ -1,0 +1,43 @@
+---
+title: "Mnemonis Solution · The Recursive Draft"
+notion_id: "3d958200-eb22-817b-a695-cbdca66361a8"
+notion_url: "https://app.notion.com/p/Mnemonis-Solution-The-Recursive-Draft-3d958200eb22817ba695cbdca66361a8"
+section: "Artifacts"
+tags: []
+last_edited: "2026-09-12T15:05:00.000Z"
+verification: "unverified"
+---
+
+# Mnemonis Solution · The Recursive Draft
+
+## Mnemonis Solution · The Recursive Draft
+
+> **Migration note.** Converted from a Trello "Essence Draft" card into a Draftcraft entry under Fracture of Worlds. "Essence Behavior," "Soul Interaction Type" and "Medium Core" are old-system vocabulary; the draft's action is restated as an Anamnesis working on the Essence Core and Attraction Layer. The Stage requirement is converted by the numeral-preserving rule: the card's "Stage IV — Splintering" becomes FOW Stage IV (Flourishing), and "Stage V — Refraction" becomes FOW Stage V (Splintering) — which happens to match Karo Venrik's own attested Stage V standing when he is documented using the draft, so the conversion is left as the numerals give it. Karo Venrik and Vaelen Mourcrix are confirmed current-canon figures (kinsmen by House Mourcrix's descent from House Venrik, which explains a supervising Inquisitor tolerating an unlicensed Wellspring-transition experiment). Alchemarch Helviun Marr, the Mirrorwater source description, and the volume title *WOTR: The Legacies* are unattested in the wiki mirror and are kept because the card's provenance does not read without them. The Parun glyphs `Ma` and `Ie` are used elsewhere in canon (Anamnesis-linked summon glyphs, the Iesara Insight domain) but Karo's own character card flags them as not yet checked against the Master Glyph Index's full 136; `Ur` is independently confirmed as the index's worked example (Balance, Root, Urion). EU cost is not on any sheet and is set conservatively in line with comparably-scaled Draft-class workings recorded elsewhere in the register, and marked as an estimate.
+
+### What it is
+
+A stoppered containment prism holding a single dose of pale, faintly rippling fluid that never quite sits still, condensed from Mirrorwater Essence drawn off reflective pools in the Inner World and cut with a fragment from a collapsed Echo construct's projection anchor. It is drafted, not cast: a practitioner extracts the base Essence under a mirrored glyph array, then reduces it by slow alchemical drip-feed until the fluid holds a stable recursive flow on its own. Karo Venrik is the first documented user, brewing a dose under Vaelen Mourcrix's reluctant supervision before attempting his own Wellspring shift; Alchemarch Helviun Marr is credited with the original process, though no independent record of Marr survives in the archive consulted here.
+
+### Physical account
+
+Not a weapon; the armour-tier field the Item Guide requires for weapon entries does not apply. Plausible figures for a single-dose alchemical draft, given nothing more specific on the card: a fired-glass containment prism roughly 9 cm along its longest edge, holding about 50 mL of active fluid, total weight near 280 g including stopper and casing.
+
+### Operation line
+
+**Trigger** — the dose is taken by a practitioner who already carries a stored mnemonic Essence signature (an Anamnesis-touched soul, or one who has fielded an Echo). **Function** — it recursively loops that stored mnemonic Essence back through the drinker's Essence Core, forcing repeated re-reads of the same imprints until the Core settles on a new resonance point. **Mechanism** — Anamnesis's own analogue is remanent magnetisation and thermoluminescent dosimetry: an imprint releases its stored state when driven past a threshold, and a careless single read erases what it touches. The draft's `Ur` (Balance) boundary keeps the release incremental rather than total, trading a controlled multi-pass storm for the destructive one-pass reset Anamnesis produces when nobody is managing it. **Numerical effect** — usable from Stage IV, Flourishing (B-Grade ceiling, stat ceiling 275) for a partial effect; full effect from Stage V, Splintering (B-Grade with instability risk above 320, ceiling 350). **Target response** — the Attraction Layer's tether pathways are rewritten live while old projections cycle rapidly through the drinker's awareness, clearing room for a second Wellspring bond to take hold. **Limitation** — it cannot manufacture a memory that was never recorded; a Core with no prior Anamnesis contact or fielded Echo has nothing for the draft to cycle. **Weakness** — in a crowded Essence environment it indiscriminately pulls in ambient residual impressions along with the drinker's own. **Cost** — an estimated 5 to 8 percent of the drinker's Essence reserve, spent at the peak of the memory-storm cycling; this figure is not on any sheet and is set conservatively against comparably-scaled Draft-class workings recorded elsewhere. **Counterplay** — sever the Attraction Layer tether during the storm (a Fixatio anchor point, or simple restraint through the vulnerable window) before the new resonance locks, or deliberately flood the working environment with ambient Essence to seed the same unintentional contamination the draft is already prone to.
+
+### Codex line
+
+Wellspring: **Anamnesis**, primary. Family: **Limina**. Physics Domain: **Entropy, Void and Mind**. Category: **Drafts** (Craft: Draftcraft — bottled, cruder, buyer-triggerable, matching how the dose is prepared and administered). Glyphs: `Ma` (Memory) and `Ie` (Insight), both in documented use elsewhere in canon but not yet checked against the full 136-entry Master Glyph Index; `Ur` (Balance), independently confirmed, Root, Urion, primary Wellspring Judicium.
+
+### Bond and cost
+
+Not soulbound to an object in the ordinary sense; it is consumed, and its cost lands on the drinker rather than on a bearer. Backlash on record: short-term sensory distortion (whispers, echo-images of past projections), and a real risk of tether drift, where projections detach prematurely before the new Wellspring bond is fully anchored.
+
+### Counterplay
+
+See Operation line. The vulnerable window is the storm itself: interrupt the Attraction Layer tether or introduce ambient Essence noise before the new resonance settles, and the reprocessing fails to complete cleanly.
+
+### Bearers
+
+Karo Venrik, first documented user, for a Wellspring transition attempt under Vaelen Mourcrix's supervision. Alchemarch Helviun Marr, credited with the original recursive draft process; unattested in current canon beyond this card and kept for that reason. First appearance: *WOTR: The Legacies* (unattested volume title, kept because the card gives no alternative).

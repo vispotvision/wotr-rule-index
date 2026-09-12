@@ -1,6 +1,6 @@
 # Live rules by domain
 
-399 live of 577 extracted.
+395 live of 577 extracted.
 
 ## adjudication (23)
 
@@ -28,7 +28,7 @@
 - **R2-6-DOMAINS_BREAK_NOT_KILL** [Pack Two Amendment Six.4] A seated Domain corrodes cohesion and the line breaks, with killing happening in the rout; assess a Domain-class technique by Re-form rather than by casualties.
 - **R1-2-COUNTERPLAY_THREE_WAYS** [Pack One Amendment Two] Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
-## character-sheet (51)
+## character-sheet (50)
 
 - **R14-6-CHECK29** [Pack Fourteen §6] The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
 - **R14-7-STAT_LEDGER_CONTENTS** [Pack Fourteen §7] Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
@@ -39,7 +39,6 @@
 - **R12-8-ABILITY_GUIDE_REWRITE** [Pack Twelve §8] The Ability and Technique Design Guide (sixth edition) has Sections 1 and 2 rewritten off §1 to §3; the two-ledger split is retired in favour of one ledger with a summary card; character-first design order survives untouched and unaffected by this pack.
 - **R10-3-TRAITUS_SHAPE** [Pack Ten PART THREE] A Traitus shape is passive and permanent, not fired or summoned but a standing mark of what the Crystal has become, visible only under a specific condition and gone the instant that condition lapses.
 - **R8-11-SHEET_EXPLAINS** [Pack Eight 1.1] A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.
-- **R8-11-PROSE_RETAINS_PACK7** [Pack Eight 1.1] No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
 - **R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT** [Pack Eight 1.2] Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.
 - **R8-13-ENTRY_STRUCTURE** [Pack Eight 1.3] An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
 - **R8-14-CLASSIFICATION_BLOCK** [Pack Eight 1.4] Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
@@ -294,7 +293,7 @@
 - **R1-2-SUSTAIN_DEFINED** [Pack One Amendment Two] Sustain is how long an effect holds before Essence cost forces cessation, and what the practitioner cannot do while holding it — the load-bearing clause, since it tells you what the enemy is free to do during the window.
 - **R1-2-REFORM_DEFINED** [Pack One Amendment Two] Re-form is how long an affected formation needs to recover cohesion, and whether it recovers at all — the field that decides engagements and the one authors most often fail to decide before writing.
 
-## magic-mechanism (76)
+## magic-mechanism (74)
 
 - **R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK** [Pack Fifteen §1] Pack Twelve §6's clause forbidding a document from explaining mechanism is struck; a document may be as scientific as it wants, and the Mystic Register survives only as an option for documents that want to withhold.
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
@@ -360,7 +359,6 @@
 - **R9-3-EYES_AS_TELL** [Pack Nine PART THREE] At a Stage threshold or dropped suppression, the eyes go first — light behind them, overtaking iris and sclera — rendered as a fact the room reacts to, still costing the Apparatus Rule's one read.
 - **R9-3-COST_UNCHANGED** [Pack Nine PART THREE] The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind a Stage-display beat exactly as hard as any other scene.
 - **R8-11-SHEET_EXPLAINS** [Pack Eight 1.1] A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.
-- **R8-11-PROSE_RETAINS_PACK7** [Pack Eight 1.1] No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
 - **R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT** [Pack Eight 1.2] Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.
 - **R7-1-THREE_HARD_RAILS** [Pack Seven PART ONE] Three things never bend: the economy (finite, spent, visible), the ladder (sixteen Stages, felt before seen), and the lineage (everything traceable to a source).
 - **R6-2-CHEMISTRY_BAN** [Pack Six PART I.2] Real-world scientific vocabulary explaining a sensory impression is barred unless the POV is a practitioner of that specific craft actively diagnosing; the Mechanism Standard governs technique trigger points and nothing else, never a licence for ambient exposition.
@@ -368,7 +366,6 @@
 - **R5-A-OPERATIVE_CONSEQUENCE** [Pack Five A] The system is author-facing and document-facing — it lives in the Codex, character sheets, in-world treatises and technical-reveal beats; it does not live in prose texture, narrator commentary, or character affect.
 - **R5-F-LIGHT_NOVEL_NOT_KEPT** [Pack Five F] Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
 - **R3-7-EXPENDITURE_MOVES** [Pack Three Amendment Seven] The Offering converts opponent capability into expenditure; the Standing converts time into advantage (only for a fighter who doesn't experience time as a resource); the Ledger converts the whole preceding engagement into one effect, un-repeatable per encounter; the Absence converts a victory into nothing by destroying the vessel while the practitioner is unaffected.
-- **R21-3-VAIMOANA_ESSENCE_STABILITY** [Canon Amendment, Agamalu and Büri Origin III] Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
 - **R22-4-SYSTEM_TERMS_TABLE** [Moto Reversion Ledger IV] Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
 - **R22-5-SEVEN_WORKS_TABLE** [Moto Reversion Ledger V] Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
 - **R22-7-FUSI_VA_KEPT** [Moto Reversion Ledger VII] Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
@@ -529,7 +526,7 @@
 - **R1-3-NAME_THREE_RULE** [Pack One Amendment Three] The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
 - **R20-5-ON_THE_PAGE** [Naming Guide Amendment Part Five] Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
 
-## prose-law (99)
+## prose-law (98)
 
 - **R15-1-LICENCE** [Pack Fifteen §1] Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 - **R15-1-DICTION_PALETTE** [Pack Fifteen §1] The one-or-two-elevated-words-per-scene cap is gone; the word bank remains available.
@@ -557,7 +554,6 @@
 - **R9-2-VOCAB_BAN_NARROWED** [Pack Nine PART TWO] Pack Seven's ban on system vocabulary in prose still binds absolutely against Wellspring names, Family, Physics Domain, Stage/Grade, EU, other metaphysical units, and Codex glyph designations; it no longer binds against the craft register.
 - **R9-2-UNTOUCHED_BANS** [Pack Nine PART TWO] The mechanism gloss ban (Check 20), the metaphysical-units ban (Check 21), the chemistry ban, and the physical-Effect rule are untouched — a line may say a man cut a ward into a doorframe but may not say why the cutting suppressed the Essence.
 - **R9-3-AURA_AS_FRACTURE** [Pack Nine PART THREE] Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; "it glowed" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.
-- **R8-11-PROSE_RETAINS_PACK7** [Pack Eight 1.1] No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
 - **R8-15-DESCRIPTION_STYLE** [Pack Eight 1.5] The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
 - **R8-26-NAME_NEVER_NARRATED** [Pack Eight 2.6] The true name is spoken by a character; it never appears in narration.
 - **R8-26-GLOSS_NEVER_IN_PROSE** [Pack Eight 2.6] The gloss never appears in prose, with no translation apposition; the reader gets it from the sheet or from another character explaining it in dialogue for their own reason.
@@ -865,7 +861,7 @@
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (102)
+## worldbuilding (99)
 
 - **R15-1-RACIAL_VOICE_MENU** [Pack Fifteen §1] The Racial Voice and Dialect Guide and its Amendment stop being enforced; they become a menu of options a writer may reach for, and no scene fails for ignoring them.
 - **R15-1-STANDING_INVENTORY_SURVIVES** [Pack Fifteen §1] The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
@@ -925,9 +921,6 @@
 - **R3-8-CAVALRY_HORSE_CHARACTER** [Pack Three Amendment Eight §14] The horse is frightened, tiring, can smell blood, and will not go where pointed if that is a hedge of spears; every good cavalry scene is partly about negotiating with an animal.
 - **R21-1-SATULAGI_STRUCK** [Canon Amendment, Agamalu and Büri Origin I] The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
 - **R21-1-BURI_ORIGIN_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Büri origin is the western reach of the Inner World's northern shield, not the Old World.
-- **R21-1-AGAMALU_HOMELAND_RULING** [Canon Amendment, Agamalu and Büri Origin I] The Agamalu homeland is Vāimoana, an archipelago in the open water between the Old World's northern coast and the Inner World's western shield.
-- **R21-3-VAIMOANA_GOVERNANCE** [Canon Amendment, Agamalu and Büri Origin III] Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.
-- **R21-3-VAIMOANA_ESSENCE_STABILITY** [Canon Amendment, Agamalu and Büri Origin III] Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
 - **R21-4-BURI_LANDLESS_LINES** [Canon Amendment, Agamalu and Büri Origin IV] With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every line's ambition must route through Kharven or through nothing, which is the condition that produced the Tenrai's correction and has not changed since.
 - **R23-1-POLYNESIAN_REGISTER_STRUCK** [Inner World Naming Amendment I] Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
 - **R23-2-KOREAN_STRATUM** [Inner World Naming Amendment II] Lineage name first, a two-syllable given name carrying a generational syllable shared across a cohort, plus a hollow-seat subdividing the lineage (Kwon Mu-jin, Cozbi Mahuo, Ara Min Mahuo).

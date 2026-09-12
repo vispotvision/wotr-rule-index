@@ -46,7 +46,7 @@ rules:
     pack_number: 8
     section: "1.1"
     title: Prose keeps every Pack Seven restriction without exception
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       No sentence in a scene explains why a working produced its effect, no
@@ -64,14 +64,15 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, prose-law, character-sheet]
     verification: []
-    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
+    ratified: "Isaac, 2026-09-12, Claude Code: C-003 ruled -- Twelve wins everywhere, no exceptions"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "20"
     notes: >-
-      Stale as of Pack Twelve §1's later live repeal of the underlying Pack
-      Seven ban, but this whole row is status:proposed (Pack Eight was
-      never ratified), so no live conflict is created.
+      RULED 2026-09-12 (C-003): Pack Twelve's repeal reaches this row too.
+      Later pack beats earlier pack, no carve-out (unlike C-001's firearms
+      exception). Mechanism-on-the-page is the regime everywhere; this
+      restatement is dead letter. See CONFLICTS.md and RULINGS.md.
 
   - id: R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT
     pack: Pack Eight

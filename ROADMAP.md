@@ -42,20 +42,25 @@ are made, not left pending.
 - [ ] A reader's codex: the trimmed version of the wiki
 - [x] Epub build
 
-## Folding packs into base guides — in progress, 2026-09-12
+## Folding packs into base guides — first four done, 2026-09-12
 
 Isaac: "yes — start folding the packs in now." 18 base guides live at
 `C:\Users\isaac\Documents\WOTR True Canon\`; each amendment rule names its
-target guide in its `amends.guide` field. Four agents launched for the
-most-amended guides first (Master Style Directive, 86 live amendments;
-Ability/Technique Design Guide, 56; Character Naming Guide, 47; Combat
-Craft Guide, 29) -- each writes a new dated edition alongside the
-original (never overwrites it), with a changelog listing every rule ID
-folded in. Remaining ~14 guides, by amendment count: Manual Verification
-Guide (21), Scene Writing Process Guide (19), Mass Combat Craft Guide
-(18), Racial Voice and Dialect Guide (15), Dialogue Craft Standards (9),
-AI Writing Tells to Avoid (8), Visual Aesthetic Guide (8, plus the new
-Moto material-culture proposal once ratified), Item and Equipment Writing
+target guide in its `amends.guide` field. The four most-amended guides are
+done -- each got a new dated edition alongside the original (never
+overwritten), with a changelog listing every rule ID folded in and any
+judgment call flagged rather than silently made:
+
+- [x] `WOTR_Master_Style_Directive (2026-09-12 edition).md` — 86 amendments folded; 3 judgment calls flagged (a same-day narration-authority supersession applied despite falling outside the strict amends-field filter; a scope-narrowing read reconciling Pack Five vs. Twelve/Sixteen on prose texture; one non-target-guide clarification folded into the chemistry-ban text)
+- [x] `WOTR_Ability_Technique_Design_Guide (2026-09-12 edition).md` — 56 amendments folded; 2 flagged (the legacy Corruption Vector field kept as non-mandatory pending a future pack; the naming-strike rule deferred to the Character Naming Guide rather than importing its content)
+- [x] `WOTR_Character_Naming_Guide (2026-09-12 edition).md` — 47 amendments folded; reflects today's Ayame Yuno/Yasoshima rulings; C-005/C-006 (Zettai vs. Zettari) correctly left open, not guessed at
+- [x] `WOTR_Combat_Craft_Guide (2026-09-12 edition).md` — 29 amendments folded, plus the 7 live named-character combat assignments in the main body and the 2 still-proposed ones (Wren, Edward Lambert) in a clearly marked pending-review appendix
+
+Remaining ~14 guides, by amendment count: Manual Verification Guide (21),
+Scene Writing Process Guide (19), Mass Combat Craft Guide (18), Racial
+Voice and Dialect Guide (15), Dialogue Craft Standards (9), AI Writing
+Tells to Avoid (8), Visual Aesthetic Guide (8, plus the new Moto
+material-culture proposal once ratified), Item and Equipment Writing
 Guide (7), and the rest with only 1-6 amendments each -- pick up in a
 later session the same way (one agent per guide, same prompt shape).
 

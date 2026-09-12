@@ -9,7 +9,7 @@ supersession graph is only correct once the whole corpus is in.
 | 1 | Packs 19 down to 11 | done | 226 | all 9 files validated; 1 CONFLICTS.md row (C-001) |
 | 2 | Packs 10 down to 5 | done | 144 | all 6 files validated; Pack Seven's repeal fully backfilled |
 | 3 | Packs 4 down to 1 | done | 109 | all 4 files validated; Pack One filed as pack-01-one.yaml |
-| 4 | standalone amendments | not started | — | one is .docx, needs pandoc |
+| 4 | standalone amendments | done | 98 | all 5 files validated; the .docx is plain text, no pandoc needed; 1 new CONFLICTS.md row (C-002) |
 | 5 | resolve and conflict report | not started | — | |
 
 ## Phase 0 findings (2026-09-10)
@@ -51,6 +51,13 @@ rather than assuming a shared template.
 | Pack One | 30 | 22 | 4 | 4 | 0 | yes |
 | **Phase 3 total** | **109** | **88** | **7** | **14** | **0** | **yes** |
 | **Corpus total after Phase 3** | **479** | **225** | **43** | **43** | **168** | **yes** |
+| Racial Voice and Dialect Guide Amendment | 15 | 15 | 0 | 0 | 0 | yes |
+| Naming Guide Amendment | 23 | 18 | 3 | 2 | 0 | yes |
+| Canon Amendment, Agamalu and Büri Origin | 15 | 4 | 0 | 6 | 5 | yes |
+| Moto Reversion Ledger | 16 | 12 | 0 | 4 | 0 | yes |
+| Inner World Naming Amendment | 29 | 0 | 0 | 5 | 24 | yes |
+| **Phase 4 total** | **98** | **49** | **3** | **17** | **29** | **yes** |
+| **Corpus total after Phase 4** | **577** | **274** | **46** | **60** | **197** | **yes** |
 
 ## Backfill queue (supersedes links pointing at not-yet-extracted rules)
 
@@ -112,6 +119,12 @@ Still open, carried into Phase 4:
   ban as authority for keeping proofed-round mechanics unexplained, but
   R12-1-EXPLAIN_BAN_STRUCK (live) struck exactly that ban. Unresolved,
   Isaac's call.
+- C-002: whether Filemu Agamalu's own Ava-name (Canon Amendment) survives
+  the Inner World Naming Amendment's strike of "the Agamalu addition"
+  (Naming Guide Amendment), given the Moto Reversion Ledger's separate,
+  narrower statement that the Agamalu house's naming was never governed
+  by the Büri reversion specifically. Three documents, none of which
+  settle it directly. Unresolved, Isaac's call.
 - Not raised as a formal conflict row, but worth a mention: R7-7-VOW_CLAUSE_OPEN
   (Pack Seven's "vow clause... pitched, unruled") appears to be genuinely
   orphaned — no later pack visibly resolves it, and it isn't itself a
@@ -167,3 +180,42 @@ Still open, carried into Phase 4:
   but is filed as `pack-01-one.yaml`, matching the rest of the numbered
   series — BRIEF's `doc-<slug>.yaml` convention is reserved for the Phase
   4 standalone amendments, not this pack.
+
+## Phase 4 notes
+
+- `WOTR_Naming_Guide_Amendment.docx` is not actually a Word binary — it is
+  plain UTF-8 text with a `.docx` extension (confirmed by reading the raw
+  bytes: it opens with `**WOTR CHARACTER...`). No pandoc conversion was
+  needed, available, or guessed at; the file was read directly.
+  `WOTR_Canon_Amendment_Agamalu_and_Büri_Origin.md`'s actual on-disk
+  filename contains two mangled box-drawing characters (U+251C, U+255D) in
+  place of "ü" — a pre-existing filesystem/transfer encoding artifact, not
+  edited per the sources/ read-only rule. `source_file` in that pack's
+  rules file references the exact garbled name so validate.py can find it.
+- Standalone docs have no pack number for precedence purposes
+  (`pack_number: null`, as BRIEF specifies), but the schema's `id` pattern
+  requires a numeral. Assigned R20-R24 as mechanical id-numeral buckets in
+  rough chronological order for the four-document Büri/Moto naming
+  cluster (R20 `Naming Guide Amendment`, oldest; R21 `Canon Amendment,
+  Agamalu and Büri Origin`; R22 `Moto Reversion Ledger`; R23 `Inner World
+  Naming Amendment`, newest) plus R24 for the unrelated `Racial Voice and
+  Dialect Guide Amendment`. These numerals carry no precedence weight of
+  their own — pack_number:null already disables that — they exist only so
+  ids satisfy the schema's regex.
+- As BRIEF anticipated, the Büri/Moto naming reversion cluster lands
+  almost entirely as status:proposed/pending rather than live: the
+  Canon Amendment's Section I (4 rulings) and the Moto Reversion Ledger
+  are live (explicitly "Isaac's own direction" / cited as authoritative
+  by later documents), but the Inner World Naming Amendment — the newest
+  and most comprehensive of the four, establishing the actual naming
+  baseline — says outright "Originated content pending Isaac's
+  ratification" and is entirely status:proposed or status:pending. See
+  CONFLICTS.md C-002 for the one specific cross-document ambiguity this
+  produced (Filemu Agamalu's own naming).
+- This phase's documents are far more worldbuilding-lore-heavy than the
+  numbered packs, and much of their content (geology, governance detail,
+  character-specific flavour) was not extracted, consistent with BRIEF's
+  exclusion of rationale and scene-setting description — only rulings,
+  definitions later rules depend on, and open items were kept. This is a
+  judgment call specific to Phase 4's very different document shape; flag
+  to Isaac if more of the lore content should have been indexed.

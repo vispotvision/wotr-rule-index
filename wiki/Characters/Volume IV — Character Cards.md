@@ -11,7 +11,7 @@ verification: "unverified"
 # Volume IV — Character Cards
 
 Character cards for Volume IV. Migrated from the legacy Trello board (*The Dawn of Iridescent Sovereignty Lost*) and rebuilt against current canon.
-> **Migration in progress · 97 cards on the source board.**
+> **Migration complete · 98 cards.** *A later full-board conversion pass (2026-09-12) added 3 more cards the board's own target labels routed here; one was a duplicate of an existing sheet (Zahir Ashveil · Desert's Fang) and the older copy was archived in favor of the fuller converted one.*
 >
 > Volume IV sheets are **substantially healthier than Volume III's.** Most already carry real Wellsprings, a stated Temperance Stage, and actual Fracture of Worlds stat values rather than percentage blocks. **These are corrections, not rebuilds.**
 >

@@ -1,6 +1,5 @@
 # Karu Velnar · The Shackled Tempest
 
-> **Migrated with all content preserved: the arena history, the chains-as-memory device, both relics, and both Incident Records.** *"Wyther,"* listed as one of his Triune Core Affinities, is not among the Sixty Wellsprings; current canon has **Wyther as one of the Fourteen Archons**, the Unbound Current of Motion, an entirely different cosmological tier from a Wellspring. His actual governing current is read as **Petralon** (Vectoria, kinetic precision), the same Wellspring the Codex already uses elsewhere for kinetic-duel work; "Wyther" survives only as the name he gives his own techniques, a fighter's tribute to the Archon of Motion rather than a claim of Wellspring-level access to Him. *"Kael'Nir,"* his arena of origin, does not appear in current canon; kept, since the card cannot make sense without an arena, and **flagged as unattested**. *"Imperial Calendar"* is corrected to **Imperial Age**. *"Veyran"* is confirmed current canon, the Kingdom of Veyran in the Outer World's Southern Pan, and his lineage is read directly against it.
 
 ---
 

@@ -1,7 +1,6 @@
 # Valthrum · The Cryon King
 
 > *"The fire burns, the wind screams, the earth breaks. Only the ice remembers. I do not bring death; I bring the peace of the pause."*
-> **Migrated with all content preserved.** **"Aether Class: Emitter (Stasis-Field Type)"** is not among the seven; his own description of working by removing energy rather than emitting it is the textbook description of **Class VI, The Voidic**, the inverted shell that devours and reflects instead of projecting. **"Numen (Greater Elemental Eidolon)"** is not an attested race. Stage XIII, Principality, is itself defined in current canon as the **first World Spirit threshold**, and that is what he converts to: a Titan-wrought being who has crossed into World Spirit status, rather than a race called Numen. **"Cryon (Glacial Ice)"** is not one of the Sixty; the current, attested ice Wellspring is **Crymorath**, filed under **Fulguria**, confirmed against two other current sheets that already use it. **"Era of the Splintering"** conflated a Temperance Stage name with a chronological era; the current era is the **Withering Era**, and the correction is made throughout. **Florwyn**, the Titan who made him, is confirmed canon, and her domain of restorative entropy matches his own stated philosophy closely enough that the connection is kept exactly as the card wrote it.
 
 ---
 

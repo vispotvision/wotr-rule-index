@@ -1,7 +1,6 @@
 # Mavra Cindrel · The Golden Engine
 
 > *"If it breaks, I build it stronger. If I break, well, then I was the test."*
-> **Migrated with the tail, the pendant and all three Wellsprings kept.** *"Aether Class: Convergent Soul (Body-Dominant Hybrid)" is not among the seven*; her Stage VII places her Coherence Band at C, and **she is Class III, Resonant** — the "convergent" flavor of flesh-and-forge syncing is kept as prose description rather than a class name. *"η: 0.89" is far above what Band C supports; the Sir Rhyse Calder precedent applies (the Stage wins, η is normalized to the Band it supports)* — **corrected to ~0.62, Band C**, the original noted here. *"Gate Count: 7" is not a register term and is dropped rather than kept as a system field.* **Felkin is unattested** — the Five Beastkin Lineages on file are Catkin, Lupine, Bearkin, Fox-Spirit and Serpentkin, and Felkin is none of them — kept as her own people's name for a Beastkin-human hybrid line, flagged accordingly. **Orrengar and the Division of Titanwrights are unattested by name**; Titanwrights is read as a chartered craft company under Guild Accord, on the model of the Engravers and the Assayers, rather than a formal Division. *"T5 Vanguard / Relicsmith" struck as an old tier-and-rank conflation*; her actual standing is Liveryman-grade craft membership, Vanguard-assigned.
 
 ---
 

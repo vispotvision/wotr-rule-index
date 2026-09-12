@@ -1,7 +1,6 @@
 # Ravenn Kaelor · The Pale Gale
 
 > *"Calm is not peace. Calm is restraint."*
-> **Migrated with all content preserved.** *"Wyther"* was carried in the old card as a Wellspring affinity; it is not one. **Wyther is the Eleventh Archon, Motion Magic, Kineris.** The wind current he actually harmonizes with is **Aeolyth** (Vectoria / Mechanics), the attested current used across every wind-bound sheet in Volumes IV through V. **"Aether Class: Gale-Bound Ascetic, Vigilant Wind Animus"** is not among the seven; **he is Class II, Harmonic** (Band E correlate). *"Grey-Class Wanderer"* is an unattested Accord rank and is struck rather than converted. *"Imperial Calendar"* is corrected to **the Imperial Age** per the Errata to the Received Registers. **Level 168 and the stat allocation below are Isaac's-delegated derivations** off the Band/Stage tables, not estimates: Band I (100 lv × 20) plus Band II (68 lv × 25) plus Threshold I–V (5 × 400) equals **Pool 5,700**, of which 4,938 is allocated, the remainder read as headroom short of Stage VI. *The Gale Monastery and Whisperwind Pass do not resolve against the wiki mirror and are kept as unattested, load-bearing details; the card cannot make sense without them.*
 
 ---
 

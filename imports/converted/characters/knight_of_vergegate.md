@@ -1,7 +1,6 @@
 # Ser Caldran Veiss · The Pale Knight of Vergegate
 
 > *"Law is not sound. It is the moment the world forgets how to scream."*
-> **Migrated with all content preserved, including the four relics.** Old **"Temperance Stage: IX — Reflection"** keeps its numeral; **"Reflection" was never a Stage name and is struck — current canon names Stage IX Invocation.** **"Aether Class: Resonant Soul – Dual-Vector (Law/Silence)"** is not among the seven; **he is Class III, Resonant**, and "Dual-Vector" is kept as flavor for the Judicium/Fixatio split rather than a real second axis. **Fixatio (Materia, the Binding Flame) and Judicium (Fulguria, the Wellspring of Truth) both verify** against the Sixty. **The Black Concord is real and is the Guild Accord's sixth, unspoken Division** — his encrypted records are not an invented conspiracy, they are exactly what that Division looks like from outside. *"VE 922/928/931/932"* convert to **Withering Era**, numerals kept — the Withering opens Year 645 and nothing here contradicts that. **Eresse verifies** as the elven High Empire realm; **"Southern Verge" is kept as an in-realm border region, unattested by that exact name.** **"Null Zones" and "Null Rain" are kept** — the card cannot make sense without them and nothing in current canon forbids them — **flagged unattested.** Level and Pool are derived from the FOW tables and committed to, not estimated.
 
 ---
 

@@ -1,7 +1,6 @@
 # Beatrix Vaelthorn · The Root-Sworn
 
 > *"Dirt doesn't lie. Neither do I."*
-> **Migrated with all content preserved, including both relics.** *"Gaia-bound lineage"* is not a WOTR term; converted to a Verdantia-bound lineage, which is what the rest of the card already describes. *"Faction: the Holy See of Lurien"* is **dead canon:** the wiki confirms it was struck and replaced by **the Holy Sea of Alabaster**; her affiliation is corrected there. *"Temperance Stage: 4, Resolution"* keeps its numeral; **Stage IV is Flourishing, and "Resolution" is struck.** *"Global Tier: B-Tier"* needed no correction: **B-Grade is Stage IV's own ceiling Grade** on the Tier table. Her two weakness Wellsprings, *Pyriclaos* and *Ascensio-Flame*, do not exist in the Sixty; replaced with the real Caloria fire-line, Exuroth and Ignivale. The card names "2 additional Wellsprings" resonating through her corruption-scar without naming them; **left null rather than invented.**
 
 ---
 

@@ -1,6 +1,5 @@
 # Azhura Vyren · The Azure Coilblade
 
-> **Migrated with all content preserved: the draconic lineage, the three Core Disciplines, both relics, and both Incident Records.** *"Aether Class: Zephyric Draconist — Spiral Resonance Class"* is not among the seven; **she is Class III, Resonant**, which fits a disciplined frontline duelist better than a bespoke class ever could. *"Imperial Calendar"* is corrected to **Imperial Age** per the Errata to the Received Registers; the count under it is unchanged. Her draconic-hybrid ancestry is read against the current Draconic Lineage's own sky-serpent branch, which is exactly what her "Sky-Serpent Ward" byname already claims. *"Northern Thaloré,"* used in the card as a place name, is **unattested as a location** — Thaloré is a current Wellspring (Fluxia, the Wellspring of Depth), not a region — and is kept only because the Draw Age already names worked sites for their standing current, making a district named for its dominant Wellspring the most conservative reading available; flagged accordingly. Guild Accord, Enforcement Division is confirmed live canon.
 
 ---
 

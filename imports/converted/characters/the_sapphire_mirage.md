@@ -1,7 +1,6 @@
 # Rafik Al'Seren · The Sapphire Mirage
 
 > *"Truth is a mirage that survives only until someone believes in it."*
-> **Migrated with all content preserved, including the four relics.** Old **"Temperance Stage: VIII — Benediction"** keeps its numeral; **"Benediction" was never a Stage name and is struck — current canon names Stage VIII Transcendence.** **"Aether Class: Harmonic Soul — Mirage Aspect"** is not among the seven; **he is Class II, Harmonic**, kept by direct name-match rather than by Band — his Core has climbed to Transcendence while his Shell still leaks the way a Class II Shell leaks, and that mismatch is the actual mechanism behind Mirage Drift Syndrome, not an inconsistency to smooth over. **Mirithane (Limina, the Wellspring of Reflection) and Sublimatio (Vectoria, the Ascending Breath) both verify**, and so does **Sublimare (Vectoria, the Rising Breath)** as a separate, related current named on his own scroll. **Varūn verifies as a real realm entry, but current canon lists it among the "orphaned realm entries pending keep-or-strike"** — kept because the card cannot function without it, flagged unattested-pending rather than unattested outright. **"Path Alignment: Spirit-Dominant" is retained as-is** — Spirit is one of the four canonical Paths. Level and Pool are derived and committed to.
 
 ---
 

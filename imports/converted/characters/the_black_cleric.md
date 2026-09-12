@@ -1,7 +1,6 @@
 # Elion Drevas · The Black Cleric
 
 > *"I prayed until I learned prayer was only sound. Now I speak in silence, and the silence answers."*
-> **Migrated with the tithe, the halo and all three Wellsprings kept.** *"Temperance Stage: IX — Reflection" gives a real numeral and an invented name; Reflection is not among the sixteen, and his actual feat (severing a Crevice-born Phenomenon by tithing half his own Soul Crystal) is exactly the kind of calling-on-Titanic-law act Stage IX's own threshold describes.* **Stage IX is retained; its true name, Invocation, replaces Reflection.** *Judicium, Oblation and Letheveil all check out as real Wellsprings in their stated Families* — Fulguria, Fluxia and Limina respectively — **an unusually clean triad for an unconverted card.** *"Aether Class: Echo-Soul (Attraction-Dominant)" is not a register name*; a kit built entirely on reflecting, nullifying and erasing rather than emitting is the textbook description of **Class VI, the Voidic**, and that is the class assigned here. **"Division of Concordant Faith" is not an attested Guild Accord division; the nearest current institution matching a faith-and-measurement order outside the Accord's six Divisions is Sanctum Lux**, and his affiliation is converted accordingly. *"T7 Resonant" is struck as an old tier-and-Stage conflation*; **Defrocked Scholar** survives as an Academy rank, correctly used. **"Dominion of the Faithkeepers" is unattested** and kept as his own regional description of Eresse.
 
 ---
 

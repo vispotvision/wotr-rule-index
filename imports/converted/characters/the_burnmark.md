@@ -1,7 +1,6 @@
 # Kael Serradyn · The Burnmark
 
 > *"Heat remembers. Every scar is a sunrise that refused to die."*
-> **Migrated with all content preserved.** *"Race: Human (Tempered / Post-Solar Infusion)"* is not a race tag; he is **human**, reinforced by a Solar Essence graft fused into his own micro-lattice fiber. **Altherion** is attested, a multiracial republic of the Inner World tied to the Ring's economy; *"the Solar Marches"* as a district name within it is not attested and is kept as local color. *"Division of Forgebound Sentinels"* does not exist under that name; he is filed under the Guild Accord's **Enforcement Division**, whose actual instrument is the Sealwrights, and *"Forgebound Sentinels"* is kept as his old unit's own nickname. *"Rank: T8 Vanguard Operative"* conflicts with his stated **Stage X — Realization**, which the Tiered Path places in **Tier 6, Master**, not Tier 8's Absolute; the rank is corrected, and the field title **Sealwright** is kept as the name his sealing work earned him. *"Aether Class: Resonant Soul — Thermal Vector Mode"* is not among the seven, but its own description matches one exactly: he is **Class III, Resonant**. The hook that his fire is *"Titan-born"* is kept as an unverified rumor; no specific one of the Fourteen Titans is named or claimed.
 
 ---
 

@@ -1,7 +1,6 @@
 # Cyrus Vellhar · The Azure Warden
 
 > *"Calm waters lie. Waves tell the truth."*
-> **Migrated with all content preserved, including the domain.** **"Aether Class: Tide-Tuned Aether, Mirageflow Animus"** is not among the seven; **he is Class I, Muridic**, the Band F correlate, and the class's own description (*"emotion distorts weather and mood"*) is a closer match to his stated **Undertow Backlash** than anything else on the table. All four named Wellsprings, **Anamnesis, Oneirion, Phreatis, Verdantia, Mirithane**, are attested currents and needed no correction. The **"forbidden Abythron echo"** is retained but re-sourced: **Abythron is Zar'thuun's domain in the Abyssal Depths, not a Wellspring**; the memory-shell he found was Abyssal-touched, not born of a current that doesn't exist. *"Imperial Calendar"* is corrected to **the Imperial Age**. **Level 95, Pool 3,500** derive from Band I (95 lv × 20) plus Threshold I–IV (4 × 400); 3,435 is allocated. *The Archive of Eastward Islands does not resolve against the wiki mirror and is kept as unattested; the card cannot make sense without it.*
 
 ---
 

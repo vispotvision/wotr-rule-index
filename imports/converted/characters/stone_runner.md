@@ -1,7 +1,6 @@
 # Aren Vallestride · Stone-Runner
 
 > *"If my legs still work, then the road isn't finished with me yet."*
-> **Migrated with all content preserved:** the borrowed sword, both incident records, both weaknesses. **"Kinetic Anchor Aether: The Stonebound Trajectory"** was not one of the seven; **he is Class I, the Muridic**, an awakening Shell that leaks Essence unevenly, which is exactly what "mis-timed anchors backlash through his joints" already described. **The Praetorian March is struck canon** (archived alongside Nevara and the Empire of Praetoria); his outrider corps and courier line are retitled to the frontier march as plain geography, not a polity. **Imperial Calendar** corrects to **the Imperial Age** per the Errata (the count is unchanged, only the name). Stage III, Ascension, was already given and is retained unchanged; Level 46 and the stat spread below are chosen conservatively for an "early-growth combatant" still inside Band I.
 
 ---
 

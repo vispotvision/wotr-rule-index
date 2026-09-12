@@ -1,7 +1,6 @@
 # Liorien Nael-Teth · Sleepless Quill
 
 > *"If no one writes it down, the world pretends it never happened."*
-> **Migrated with all content preserved.** **"Scriptorial Brine-Aether — The Tide-Quill Archive" is not among the seven Aether Classes** — his Stage IV Crystal sits in **Coherence Band F**, the same Band every Stage I–IV Crystal occupies, which seats him at **Class I, Muridic**: the awakening Shell, leaking unevenly, exactly the mechanism his own "ledger bleed" already describes. **Anamnesis, Oneirion, Phreatis and Cymorath are all correctly sourced below**, and the fit is close enough that nothing needed correcting, only naming. *"Temperance Path: developed along Spirit Path first... Attraction Path awakened... Body Path underdeveloped"* already uses current Four Paths vocabulary and is kept as written. **Attested:** the Guild Accord, the Black Concord, the Kingdom of Veyran. **Unattested, kept because the card cannot stand without them:** the Archive of Eastward Islands as a named institution (Yasoshima, the Yuno archipelago, is the nearest attested body of eastern islands in the mirror, but the card does not name it and nothing here substitutes one for the other) and the Brine-Touched Scribe Lineage as a named bloodline.
 
 ---
 

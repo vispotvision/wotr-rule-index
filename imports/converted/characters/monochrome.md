@@ -1,7 +1,6 @@
 # Ilyria Draven Morningstar · Monochrome
 
 > *"The armor is the point. Take that away and there was never a knight. Only a person who believed they were protected."*
-> **Migrated with all content preserved.** *"Aether Class: Manipulator (Class IV, Luminous-Invasive)"* — **Class IV is The Luminous**; "Manipulator" and "Invasive" are kept as her own field designation and behaviour, not the Class name. Her lineage is consistent with the standing ruling that **Karo Venrik is the son of Hiromi Mahuo and Saeloria, the Elven Queen of Eresse** — his "high elven descent" here needs no correction. **The Draven Morningstar vampiric bloodline** (her mother's line) is unattested in current canon and kept, since the card cannot function without a vampiric parent line. All seven Wellsprings named on the source card (Tenebra, Mortalis, Coagula, Nyxial, Anima Spirare, Verdantia, Oblivara) verified against the Sixty and required no change — an unusually clean source. *"Path Bias: Spirit 45% / Body 35% / Fate 20%"* already used three of the **current Four Paths** correctly; rendered below in the exemplar's two-path shorthand. *"Global Tier: SS-Tier, Biome Sovereignty"* is old vocabulary, dropped in favour of Stage/Grade. Level, Pool and Primary Stats are derived fresh below; none were on the source card.
 
 ---
 

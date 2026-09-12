@@ -1,7 +1,6 @@
 # Kaien Thal'Ruhm · The Gilded Nomad
 
 > *"The heart is a furnace. You just have to decide what you're willing to burn."*
-> **Migrated with all content preserved, including the four relics.** Old **"Temperance Stage: VII — Invocation"** keeps its numeral; **"Invocation" is struck as a mislabel — current canon names Stage VII Refraction, and Invocation is Stage IX's name.** **"Aether Class: Augmented Soul — Mechanist Aspect"** is not among the seven; **he is Class III, Resonant** — the conductor Shell fits a man whose prosthetic runs Essence and Aether through it at near-full fidelity by design. **Transmutatio (Spatium, the Law of Change) and Catharsis (Caloria, the Wellspring of Release) both verify.** **"Path Alignment: Mind-Dominant" does not exist in current canon** — the four canonical Paths are Body, Spirit, Attraction and Fate, and the nearest honest mapping for a scholar-artificer's cognitive orientation is **Spirit**, so his Path converts to **Spirit-Dominant (1.26×).** **Varūn verifies as a real realm entry, but is currently one of the "orphaned realm entries pending keep-or-strike"** — kept, flagged unattested-pending. **Alchemetrica verifies as a real Guild Accord division and doctrine**, so "Alchemetrica Division" needed no correction. Level and Pool are derived and committed to.
 
 ---
 

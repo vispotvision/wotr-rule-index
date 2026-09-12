@@ -1,6 +1,5 @@
 # Raelen Vor'Skai · The Gilded Scourge
 
-> **Migrated with all content preserved: the glyph-bound hand, the fragment contract, the Red-Dune Severing, and the Collapse of the Black Oasis.** The Trello card's own title, *"God Eater,"* matches no name given in its body; the nearest text is the AKA *"Gold-Eater,"* which also names his signature Rite. Read as a slip and resolved to **Gold-Eater** throughout, per Isaac's standing delegation on calls like this one. *"Nigredo,"* one of his three Triune Core Affinities, is not among the Sixty and does not exist in current canon; it is replaced with **Dissolution**, the Limina Wellspring whose function (unbinding, dissolving structure) is the direct current match for what the card asked Nigredo to do, and both dependent techniques are updated accordingly. *"Sable-Mark Channeler — Inscription Vector"* is not among the seven Aether Classes; he reads as **Class III, Resonant**. *"Imperial Calendar"* is corrected to **Imperial Age**. His desert lineage is read against the Outer World's dry craton quarter, since the card names no nation for it.
 
 ---
 

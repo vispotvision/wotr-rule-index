@@ -1,7 +1,6 @@
 # Kairen Moto · The Iron-Root
 
 > *"My father grew the forest. I am the iron fence that keeps the wolves out."*
-> **Migrated with all content preserved.** **Rikudoku Moto is attested** — the wiki mirror carries him as a named figure of the Moto bloodline, cited as a philosophical ally on other Volume III/V sheets. **"The Great Spirit Tree" as Rikudoku's epithet is unattested** in the mirror and is kept only because the card's whole premise depends on it. *"Bio-Kinetic Fusion" is not among the seven Aether Classes* — Stage VI seats his Crystal at **Coherence Band D**, which is **Class II, Harmonic**, and that replaces it. **"Rank: A-Tier (Ronin / Wandering Judge)"** is an old combat-scale label, not a Guild Accord rank; the card itself already says he holds no charter, so the sheet keeps "High-Risk Irregular, unranked" and drops the Tier language. **Attested:** Verdantia, Coagula, Fixatio, Exuroth, the Guild Accord, the Moto Bloodline, all correctly sourced below. **Unattested, kept because the card cannot stand without them:** Senshi Moto (no wiki page exists for a Moto uncle by that name) and the specific incidents in Sections XI–XIII, which are preserved as unplaced hooks rather than dated chapter appearances.
 
 ---
 

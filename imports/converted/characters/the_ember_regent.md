@@ -1,7 +1,6 @@
 # Xhael Ten'Kor · The Ember Regent
 
 > *"I am no god — just a man who mistook light for salvation."*
-> **Migrated with all content preserved, including the four relics.** Old **"Temperance Stage: X — Realization"** needed no correction at all — **current canon also names Stage X Realization**, and its Threshold Catalyst ("Domain achieves Continuum accommodation, the world begins answering back") matches the card's own description of his ascension precisely. **"Aether Class: Ascendant Soul — Pyric Aspect"** is not among the seven; **he is Class V, Radiant** — the world-bending Shell that can hold a Domain against collapse, which is exactly what the Sun-Crown ritual produced. His **η spiking to 1.12 during Overheat is not an error to fix; Class V is defined by output exceeding theoretical maximum**, so the source's own number is the confirmation. **Exuroth and Solfatara both verify**, both Caloria — same-Family compounding, same as the source's fire-and-magma pairing. **"Human Ascendant (Half-Divine)" is kept as post-ascension description, not a claim of Archon or Titan parentage** — the card gives none, and none is invented here. **"Thalassar" does not verify anywhere in current canon** — kept, because the card cannot function without a homeland, and **flagged unattested.** Level and Pool are derived and committed to.
 
 ---
 

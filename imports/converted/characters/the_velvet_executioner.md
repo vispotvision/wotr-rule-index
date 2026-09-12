@@ -1,7 +1,6 @@
 # Rhaevan Serathiel · The Velvet Executioner
 
 > *"Noise is for amateurs. True death arrives politely."*
-> **Migrated with all content preserved.** The Withering Age is the Withering Era (Errata III). **"Aether Class: Veil Sovereign, Attraction-Dominant Manipulator"** was free text. His η of 0.93 (a 7% loss) sits cleanly inside **Class III, Resonant's** documented 5 to 10% band, and Stage VII's own Band C correlate agrees with that reading exactly. **Wyther, listed among his Triune Core, is one of the Fourteen Archons of Motion, not a Wellspring**, and has no place in a harmonization list. The current actually carrying his instant displacement work is **Abython, the Abyssal Pulse** (Vectoria, Mechanics), kept in Wyther's place. **"Pureblood Veyran, Shadow-Adapted Variant" returns no attested race.** **Veyra is a real Archon, of Desire**, and a bloodline claiming her descent fits an Attraction-dominant manipulator well enough to keep, flagged as an unattested lineage claim rather than a confirmed people. **The Obsidian Veil Syndicate returns no wiki hit** and is kept for the same reason: the sheet has nowhere else for his guild to have come from. Stage VII, Refraction, matches current canon exactly. Level set at 235 (Level Band III), which the Stage VII gate permits and his "High A Tier" and "Partial Domain Suppression" both support. Tenebra, Letheveil, Judicium and Oblivara are all verified against the Sixty.
 
 ---
 

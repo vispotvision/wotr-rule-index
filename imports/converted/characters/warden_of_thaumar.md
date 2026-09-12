@@ -1,7 +1,6 @@
 # Garron Vuldane · Warden of Thaumar
 
 > *"The forge never stops burning. Only the weak forget that every spark is a choice."*
-> **Migrated with all content preserved.** *"Race: Human (Thaumic-Reforged)"* is not a race tag; he is **human**, reforged by decades of thaumaturgic work into a living furnace. *"Origin Realm: Thalassar, the Walled Forge-Cities"* does not appear anywhere in the wiki mirror; the nearest attested match, a walled Dawi forge-state that also contains a human minority, is **Stannvaard, the Guild Seat of the Metal-Wardens of the Ring**, and his origin is relocated there. *"Temperance Path: Stage IX — Reflection"* names no Stage that exists; Stage IX is **Invocation**, and the correction is made here. *"Division of Alchemetrica: Thaumaturgic Wardens"* does not exist under that name; he is filed under **the Alchemists' Society**, chartered beneath the Guild Accord's Research and Archives Division, seated at Stannvaard, and *"Thaumaturgic Warden"* is kept as his own field epithet. *"Rank: T7 Master Alchemist"* conflicts with his stated Stage IX, which the Tiered Path places in **Tier 6, Master**, not Tier 7's Mythic cluster; the rank is corrected. *"Aether Class: Transmutive Soul — Warden Mode"* is not among the seven; he is **Class III, Resonant**.
 
 ---
 

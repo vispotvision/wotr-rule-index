@@ -1,7 +1,6 @@
 # Seri Zeliro-Vanthe · The Lantern-Fox
 
 > *"I do not need to know your secret. I need to know which one you are afraid I already know."*
-> **Migrated with all content preserved.** *"Aether Class: Weaver (Class II, Resonant)"* conflated two different Classes — **Class II is The Harmonic; Resonant is Class III.** She is **Class II, The Harmonic**, matching her Coherence Band (E). *"Temperance Stage: Stage 5, Splintering"* converts directly to **FOW Stage V — Splintering**, no correction needed. *"Path Bias: Fate 60% / Spirit 30% / Body 10%"* used three of the **current Four Paths (Body, Spirit, Attraction, Fate)** already; rendered here as the exemplar's two-path shorthand. Her η of 0.88 sat above the Class II efficiency band (~0.75–0.85 per the seven-Class table); **brought to 0.84**, at the top of the band, preserving "unusually high for her Class." Level, Pool and stat values are derived below; none are stated on the source card. **Zeliro-Vanthe** is unattested as a house in current canon and is kept, since the card cannot function without it. All six Wellspring names (Judicium, Anamnesis, Mirithane, Fixatio, Luminalis, Somnalis) verified against the Sixty and required no change.
 
 ---
 

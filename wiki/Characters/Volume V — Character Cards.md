@@ -11,7 +11,7 @@ verification: "unverified"
 # Volume V — Character Cards
 
 **Migration of the Dawn of Iridescent Sovereignty Lost Trello board, Volume V, into canon-compliant character sheets.**
-> **111 cards.** *Substantially longer on average than Volume IV — several run 8,000 to 15,000 characters.*
+> **89 cards.** *Substantially longer on average than Volume IV — several run 8,000 to 15,000 characters. The source board listed 111 Volume V cards; a later full-board scoping pass (2026-09-12) found many were duplicates of Volume IV or Bestiary material already in the wiki, leaving 15 from that earlier pass plus 74 more converted in the full-board run — 89 in total.*
 >
 > **Method, unchanged from Volume IV:** every element of the original card is preserved — Origin, traits with their full descriptions, relationships, key quotes, chapter appearances, artifacts. **Only the mechanics layer is corrected**, and every stat is hand-derived per character against the Fracture of Worlds pool economy rather than generated.
 

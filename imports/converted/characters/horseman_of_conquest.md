@@ -1,7 +1,6 @@
 # Drevath Mourne-Kal · The Iron Horizon
 
 > *"Preservation is the longest word for surrender. I am not here to mourn what Eresse was. I am here to build what it refused to become."*
-> **Migrated with all content preserved.** *"Stage XII Zenith"* conflated the Stage numeral with the wrong Stage name — **Stage XII is Emanation; Zenith is Stage XIV. The numeral XII is retained, the name is corrected.** *"Aether Class: Conquest Engine, Tyurkian-over-Winter-Eladrin Synthesis"* is not among the seven; **he is Class V, Radiant** — the world-bending Shell that stabilizes Domains against collapse, which is exactly what his proto-Domain does. *"Frostbound Wellspring"* and *"Tyurkian Iron Well"* are not among the Sixty. **Frostbound is remapped to Monolithion** (Materia, The Enduring Monument — the nearest real law to a stillness that declares permanence), and **the Iron Well is reclassified as the Tyurkian Cognitive Framework itself**, a Soul Crystal construction rather than a Wellspring. Coagula and Judicium are both real and retained as given. Old raw combat figures (EU in the millions, GN/PJ) used a non-FOW scale and are replaced with Stage/Band/Grade values off the tables. **Senzu Tyurkia** and **Vaelorian** are unattested as named individuals in current canon; *Tyurkian* as a lineage register is attested (see Zarron Mahuo) and the Archonic Principle of Stillness is confirmed (Pair V — Motion Against Stillness). Both unattested names are kept; the card cannot make sense without a maker or a rival.
 
 ---
 

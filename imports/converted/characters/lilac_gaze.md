@@ -1,7 +1,6 @@
 # Seraphine Lurielle · Lilac Gaze
 
 > *"Do sit. I have already seen you leave, so we may as well enjoy the part where you arrive."*
-> **Migrated with all content preserved.** **"Aether Class: Somnolent Oracle"** is not among the seven; **she is Class III, Resonant**. Her old efficiency reading of 0.84 sits just outside that Class's stated five to ten percent loss band, so it is nudged to **η 0.90**, the conservative in-band value, and the choice is recorded here rather than taken silently. **The Holy See of Lurien is dead canon**, retconned and replaced by **the Holy Sea of Alabaster**; every Lurien reference on this sheet, her bloodline, her faction, her "Pale Lady of Lurien" title, converts accordingly. **Imperial Calendar** corrects to the **Imperial Age**. Her three Wellsprings, **Somnalis, Judicium, Anamnesis**, needed no correction; the old card had them right.
 
 ---
 

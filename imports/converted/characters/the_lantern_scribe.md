@@ -1,7 +1,6 @@
 # Valthren Odrin · The Lantern Scribe
 
 > *"Light is only guilt that remembered how to shine."*
-> **Migrated with all content preserved.** *"Race: Human (Post-Temperant / Semi-Undying)"* and *"Age: 49 (chronological) / 112 (Flux-extended)"* are not a race tag or a system unit; he is **human**, and the second figure is his own count of the years his wax-transcription has bought him, kept as a biographical fact rather than a stat. *"Division of Penanceflare Archives"* does not exist under that name; the Guild Accord's real Divisions are Strategic, Enforcement, Arbitration, **Research and Archives**, and Logistics and Supply, plus the unacknowledged Black Concord. He is filed under **Research and Archives**, and *"the Lantern Ward"* is kept as his own section's name within it, unattested but consistent with the Division's charter. *"Rank: T7 Arcanist"* conflicts with his own stated **Stage X — Realization**, which the Tiered Path places in **Tier 6, Master**, not Tier 7; the rank is corrected and *"Keeper of the Candle Archive"* kept as his working title. *"Aether Class: Reverberant Soul — Scriptural Mode"* is not among the seven; he is **Class IV, Luminous**. **Senoth** is attested (the copper-hill kingdom west of the Ring); *"the Library of Silence"* as a site within it is not, and is kept because the card cannot place him without it. **The Order of Lurien** and the Draft **Lux Tenebrae** are likewise unattested and kept as his hooks. Flux Density, Gate Count, Aether Output and η were already current vocabulary and are carried over unchanged.
 
 ---
 

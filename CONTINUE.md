@@ -63,6 +63,20 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 - Standing Inventory skeletons: done by workflow 2 when it lands.
 - Weekly Notion export backup to Drive (small).
 
+## Action needed from Isaac: share a Notion page with the integration
+
+Isaac moved "In-World Documents & the Narrative Archive" (Scene Archive,
+Running Pieces, every scene) and The Rule Index under a new page,
+"Information not on WIKI" (to keep them off the public wiki). That took
+them out of the wiki database, and the "oridon" integration was never
+connected to the new parent page, so `notion_export.py` gets a 404 trying
+to reach it — it now warns and skips the delete-sweep instead of wiping
+wiki/ (fixed in build/notion_export.py, commit 02c989c), but the mirror for
+that whole subtree is stale until this is fixed. **Isaac: open "Information
+not on WIKI" in Notion -> "..." menu -> Connections -> add the "oridon"
+integration.** Once shared, the next sync picks it up with no code changes
+needed.
+
 ## Owed by Isaac (do not decide these)
 - Muken's children (R22-10); Packs Sixteen–Nineteen; Black Agent's and
   Rengai's combat assignments; the four Four Crafts items (R9-1); C-003.

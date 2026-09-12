@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-347 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+399 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (21)
+## adjudication (23)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -82,6 +82,18 @@ Powder weapons are slow, loud and honest; a practitioner above roughly the middl
 
 > Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
+### R11-4-DIRECTION_AXIS [Pack Eleven §4]
+
+Wild-type Wells make the environment the enemy (Materia/Spatium dominant); Spirit-type make the Crystal the enemy, authoring the delver from inside (Caloria/Fulguria/some Vectoria) and kill experienced parties; Medium-type are both reciprocally, the largest survey gap.
+
+> Direction, the encounter type. This is the whole design grammar and it is better than a monster list.
+
+### R11-4-SURVEY_PROTOCOL [Pack Eleven §4]
+
+Deploy in pairs with one member outside the radius; take Crystal baselines before the march, never after; never carry Object Wellsprings into Site Wellsprings; withdrawal is not retreat; report Medium-type as priority; every rule is one a character can break, and the Guild has buried those who did.
+
+> The survey protocol is already written and is pure scene structure. On Walking Into the Current gives seven rules and every one of them is a plot device. Deploy in pairs with one member outside the radius, because the external observer is the only reliable instrument. Take Crystal baselines before the march, never after. Do not carry Object Wellsprings into Site Wellsprings. Two laws sharing one Shell, unpredictable and frequently catastrophic. Withdrawal is not retreat. Report Medium-type as priority.
+
 ### R7-1-THREE_HARD_RAILS [Pack Seven PART ONE]
 
 Three things never bend: the economy (finite, spent, visible), the ladder (sixteen Stages, felt before seen), and the lineage (everything traceable to a source).
@@ -130,7 +142,7 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
-## character-sheet (39)
+## character-sheet (51)
 
 ### R14-6-CHECK29 [Pack Fourteen §6]
 
@@ -179,6 +191,66 @@ The Ability and Technique Design Guide (sixth edition) has Sections 1 and 2 rewr
 A Traitus shape is passive and permanent, not fired or summoned but a standing mark of what the Crystal has become, visible only under a specific condition and gone the instant that condition lapses.
 
 > Traitus — the shape is passive and permanent. Not fired, not summoned — a standing mark of what the Crystal has become, visible only under a specific condition (a clenched fist, a raised pulse) and gone the instant that condition lapses.
+
+### R8-11-SHEET_EXPLAINS [Pack Eight 1.1]
+
+A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.
+
+> The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.
+
+### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
+
+No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
+
+> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
+
+### R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT [Pack Eight 1.2]
+
+Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.
+
+> The Pack Seven ruling that the page gets Effect / Cost / Limit / Counter and everything else is workbook and never published is amended. The Design Chain remains workbook. The operational account of how an ability functions is now sheet content, not workbook content.
+
+### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
+
+An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
+
+> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
+
+### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
+
+Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
+
+> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
+
+### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
+
+The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
+
+> Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.
+
+### R8-16-PHYSICAL_NUMBERS_ONLY [Pack Eight 1.6]
+
+Drawback numbers are physical (metres, seconds, kilograms, degrees, counts, durations); never a number attached to Essence, Coherence, resonance or Wellspring output — Pack Seven's metaphysical-units ban holds on the sheet as firmly as on the page.
+
+> Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.
+
+### R8-16-OVERUSE_STRAINS_FAILURE [Pack Eight 1.6]
+
+"Overuse strains him" remains a failing drawback and always was.
+
+> "Overuse strains him" remains a failure and always was.
+
+### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
+
+Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
+
+> Two entries in the format, in different registers, to fix the shape.
+
+### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
+
+Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
+
+> Folds into the cost audit instead of running as a separate pass.
 
 ### R5-B-FOIL_FUNCTION_SURVIVES [Pack Five B]
 
@@ -288,6 +360,12 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 
 > Dougou Zettai | Percussion | The Settling into the Iron Step. Strikes the ground before the body. | Black-Heart Bison Break. Backforce rather than penetration. | Canonical
 
+### R1-1-YOKO_ASSIGNED [Pack One Amendment One]
+
+Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+
+> Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
+
 ### R1-1-RESTRICTED_CHARACTERS_EXCLUDED [Pack One Amendment One]
 
 Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
@@ -305,6 +383,12 @@ Whatever an engagement will do to characters' relationships happens in the three
 The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+
+### R21-2-FILEMU_NAME_CORRECTION [Canon Amendment, Agamalu and Büri Origin II]
+
+"Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
+
+> Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.
 
 ### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
 
@@ -366,7 +450,7 @@ A Host gives an answer that is correct and unusable, aware of this and unable to
 
 > They cannot be imprecise, and they know their precision is useless. A Host asked how long something will take gives an answer that is correct and unusable.
 
-## codex (15)
+## codex (17)
 
 ### R13-2-STRATUM_TWO_WELLSPRING [Pack Thirteen §2]
 
@@ -452,13 +536,25 @@ Magicraft, Spellcraft, Runecraft and Draftcraft are confirmed canon as the namin
 
 > The four-media structure — Magicraft, Spellcraft, Runecraft, Draftcraft — is confirmed canon as the naming scheme for how a working gets performed. Chantcraft stays pending.
 
+### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
+
+Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
+
+> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
+
 ### R6-7-GOVERNING_RULE [Pack Six PART II.7]
 
 Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
 
 > Texture comes from the Standing Inventory. Mechanism comes from the Codex. A scene that reaches for the Codex when it needs texture has failed.
 
-## combat (52)
+### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
+
+The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
+
+> The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
+
+## combat (56)
 
 ### R15-1-TECHNICAL_REGISTER_SURVIVES [Pack Fifteen §1]
 
@@ -634,6 +730,12 @@ Powder weapons are slow, loud and honest; a practitioner above roughly the middl
 
 > Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
 
+### R11-3-AMMO_TIERS [Pack Eleven §3]
+
+Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
+
+> The three ammunition tiers, originated, pending ruling:
+
 ### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
 
 The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
@@ -657,6 +759,18 @@ The new power-display register applies only to Stage-ascension beats, a Pressure
 A Pressure spike or peak-effort feat renders as visible physical distortion, ink-dense like a splash panel; WOTR is licensed exactly one splash-panel beat per scene, at the display, never twice.
 
 > The body under load. A Pressure spike or a peak-effort feat is rendered as visible physical distortion — vein, tendon, muscle read exaggerated under strain, ink-dense the way a splash panel goes dense at the one panel that matters. WOTR is licensed exactly one splash-panel beat per scene, at the display, never twice.
+
+### R8-24-RELEASE_MECHANIC [Pack Eight 2.4]
+
+An art with a true name may carry a release call (imperative verb plus name); it is never required for the art to function, costs a beat for a measurable output increase, and is spoken indistinguishably by a man in real danger or a man showing off.
+
+> An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
+
+### R8-26-ONE_RELEASE_PER_SCENE [Pack Eight 2.6]
+
+One release per scene at most; two men releasing in the same scene is an event, not texture.
+
+> One release per scene at most. Two men releasing in the same scene is an event, not texture.
 
 ### R3-7-EXPENDITURE_GRAMMAR [Pack Three Amendment Seven]
 
@@ -760,6 +874,12 @@ Percussion grammar; signature the Settling into the Iron Step, striking the grou
 
 > Dougou Zettai | Percussion | The Settling into the Iron Step. Strikes the ground before the body. | Black-Heart Bison Break. Backforce rather than penetration. | Canonical
 
+### R1-1-YOKO_ASSIGNED [Pack One Amendment One]
+
+Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.
+
+> Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
+
 ### R1-1-RESTRICTED_CHARACTERS_EXCLUDED [Pack One Amendment One]
 
 Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
@@ -772,7 +892,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## dialogue (40)
+## dialogue (46)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -858,6 +978,12 @@ A Measurewright, a Kharven hunter and an Accord officer explain the same phenome
 
 > Voice discipline. The explanation is characterised. A Measurewright, a Kharven hunter, and an Accord officer explain the same phenomenon in three different vocabularies, and which words a mouth reaches for remains class-marking, per Pack Nine.
 
+### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
+
+"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
+
+> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
+
 ### R9-2-COMMON_TONGUE_LEGAL [Pack Nine PART TWO]
 
 A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singing pending Chantcraft's ruling); the common tongue for craft actions is prose-legal, said the way the character would actually say it, while the Accord Latin terms stay document-only.
@@ -869,6 +995,36 @@ A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singi
 Which word a character uses for a craft is characterisation: an Engraver says "the cutting," a Kharven soldier says "a man who can do the writing," and nobody says "Runecraft" aloud except an Accord examiner filling in a form.
 
 > Which word a mouth reaches for is characterisation: an Engraver says the cutting. A Kharven soldier wanting help says he needs a man who can do the writing. Nobody says "Runecraft" aloud except an Accord examiner filling in a form.
+
+### R8-23-NAME_HIERARCHY [Pack Eight 2.3]
+
+Naming runs art, then technique, then form; the art carries the character and is spoken once at release then assumed, while individual techniques are spoken every time they are used.
+
+> Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are spoken every time they are used.
+
+### R8-24-RELEASE_MECHANIC [Pack Eight 2.4]
+
+An art with a true name may carry a release call (imperative verb plus name); it is never required for the art to function, costs a beat for a measurable output increase, and is spoken indistinguishably by a man in real danger or a man showing off.
+
+> An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
+
+### R8-26-NAME_NEVER_NARRATED [Pack Eight 2.6]
+
+The true name is spoken by a character; it never appears in narration.
+
+> The true name is spoken by a character. It never appears in narration.
+
+### R8-26-GLOSS_NEVER_IN_PROSE [Pack Eight 2.6]
+
+The gloss never appears in prose, with no translation apposition; the reader gets it from the sheet or from another character explaining it in dialogue for their own reason.
+
+> The gloss never appears in prose. No translation apposition. No he spoke the words that meant. The reader takes the gloss from the sheet, or from another character explaining it in dialogue for a reason of their own.
+
+### R8-26-NO_SELF_TRANSLATION [Pack Eight 2.6]
+
+Nobody translates their own technique's name aloud, ever.
+
+> Nobody translates their own technique aloud. Ever.
 
 ### R5-B-YOKO_SODOKU_SURVIVES [Pack Five B]
 
@@ -1094,13 +1250,19 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
-## items (13)
+## items (15)
 
 ### R13-9-ITEM_GUIDE_WEAPON_ENTRY [Pack Thirteen §9]
 
 Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.
 
 > WOTR_Item_and_Equipment_Writing_Guide.md. Every weapon entry carries mass, length, point of balance, and the armour tier it beats and fails against.
+
+### R11-2-APPARATUS_INHERITS_PHYSICS [Pack Eleven §2]
+
+A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
+
+> Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.
 
 ### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
 
@@ -1131,6 +1293,12 @@ The silhouette is coat, breast, helm, sword and firearm; every armed man carries
 Powder weapons are slow, loud and honest; a practitioner above roughly the middle Stages is not reliably killed by common shot, which is why the enchanted round exists at the cost it does.
 
 > Ballistics ruling. Powder weapons are slow, loud, and honest. They open an engagement, they do not decide one. A practitioner above roughly the middle Stages is not reliably killed by common shot, which is precisely why the enchanted round exists and precisely why it costs what a family earns in a season.
+
+### R11-3-AMMO_TIERS [Pack Eleven §3]
+
+Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).
+
+> The three ammunition tiers, originated, pending ruling:
 
 ### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
 
@@ -1174,7 +1342,7 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
 
-## magic-design (39)
+## magic-design (45)
 
 ### R15-1-LATIN_CHANT_SURVIVES [Pack Fifteen §1]
 
@@ -1284,6 +1452,12 @@ The Ability and Technique Design Guide (sixth edition) has Sections 1 and 2 rewr
 
 > WOTR_Ability_Technique_Design_Guide.md. Sixth edition required. Sections 1 and 2 rewritten off §1 to §3 above. The two-ledger split is retired; there is now one ledger with a summary card. Character-first design order survives untouched and is unaffected by this pack.
 
+### R11-4-DIRECTION_AXIS [Pack Eleven §4]
+
+Wild-type Wells make the environment the enemy (Materia/Spatium dominant); Spirit-type make the Crystal the enemy, authoring the delver from inside (Caloria/Fulguria/some Vectoria) and kill experienced parties; Medium-type are both reciprocally, the largest survey gap.
+
+> Direction, the encounter type. This is the whole design grammar and it is better than a monster list.
+
 ### R10-1-CATEGORIES_AXIS [Pack Ten PART ONE]
 
 The Magical Categories (Arts, Drafts, Conjunction, Synergia, Harmonia, Ritus, Phenomena, Glyphica, Manifestus, Viaforma, Traitus, Mechanica, Crystalia, Wellsprings, Animatria, Vocatia, Vectra, Mnemata, Aetherica, Concordia, Domain Weaving, Claustra, Silentia, Auguria, Transitus, Votia) are ratified as live canon, answering what kind of thing a working is, alongside the Four Crafts' answer of how it is performed.
@@ -1325,6 +1499,36 @@ Spellcraft holds only while attention holds; Runecraft is fixed and degrades lik
 A projected shape still counts toward the one splash-panel beat per scene (Pack Nine), still costs the one diagnostic read per scene if the category is named, and the ignorance quota/misreading budget are untouched — a POV may see a projected shape and get it wrong.
 
 > - One splash-panel beat per scene (Pack Nine) still governs the moment the shape is at its most visually loud. - One diagnostic read per scene (Part Two above) still governs any naming of the category itself. - Ignorance quota and misreading budget are untouched.
+
+### R8-12-NAMING_EQUALS_PHENOMENON_STRUCK [Pack Eight 1.2]
+
+The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by this pack's Section Two.
+
+> The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by Section Two below.
+
+### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
+
+An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
+
+> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
+
+### R8-14-CLASSIFICATION_BLOCK [Pack Eight 1.4]
+
+Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.
+
+> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
+
+### R8-26-GLOSS_DEPENDENCE_FAILS [Pack Eight 2.6]
+
+A working whose meaning must be glossed for the scene to land is a working that failed; fix the working, not the gloss.
+
+> A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
+
+### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
+
+Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
+
+> Two entries in the format, in different registers, to fix the shape.
 
 ### R7-1-CHARACTER_FIRST [Pack Seven PART ONE]
 
@@ -1410,7 +1614,7 @@ Re-form is how long an affected formation needs to recover cohesion, and whether
 
 > Re-form. How long an affected formation needs to recover cohesion, and whether it recovers at all. This is the field that decides engagements and the one authors most often fail to decide before writing. A technique that breaks a line for ten minutes has bought a local advantage. One that breaks a line permanently has ended the war on that flank.
 
-## magic-mechanism (65)
+## magic-mechanism (76)
 
 ### R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK [Pack Fifteen §1]
 
@@ -1676,11 +1880,47 @@ Warhammer 40,000 for bureaucratic scale, late-Victorian industrial imperialism f
 
 > Reference triangle, not to be imitated: Warhammer 40,000 for the scale of the bureaucracy and the sense that the machinery outlived its explanation. Late-Victorian industrial imperialism for the material texture, class geography, and the survey-and-annex habit. Manhwa for the visual grammar of power display, per Pack Nine, now widened from four beat types to the general visual register.
 
+### R11-2-HYDROLOGY_MODEL [Pack Eleven §2]
+
+The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.
+
+> So the industrial age is not combustion. It is hydrology. Nobody built an engine. They sank a well, put a town around it, and grew a guild that decides who may sink another.
+
+### R11-2-APPARATUS_INHERITS_PHYSICS [Pack Eleven §2]
+
+A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
+
+> Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.
+
+### R11-2-MEASUREWRIGHTS [Pack Eleven §2]
+
+The Guild of Measurewrights (Hexagonal Oath, in concurrence with Research & Archives) wrote the address down but does not explain the mechanism.
+
+> The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.
+
 ### R11-3-FIREARM_PROSE_LAW [Pack Eleven §3]
 
 The gun is furniture, not spectacle; no sentence explains why a proofed round defeats proofed plate — the physical account of the hole stays, the causal account is cut.
 
 > Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
+
+### R11-4-WELLS_ORIGIN [Pack Eleven §4]
+
+At sufficient concentration, a law the landscape has been measured by for so long that the landscape has become the law's argument, per The Mechanism of the Sixty.
+
+> Originated, pending ruling. Derived from canon, not imported from the genre.
+
+### R11-4-MAGNITUDE_AXIS [Pack Eleven §4]
+
+Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Active Concentration, Veil-Thin, Core); intermediate rungs must be pulled from source before use and never invented.
+
+> Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.
+
+### R11-4-DEPTH_AXIS [Pack Eleven §4]
+
+A Well is not a hole in the ground; it is a place where the surface (Physical) has thinned enough that the middle layer (Soul) reaches through toward Fate, the deepest plane.
+
+> Depth, the nested plane model. Fate deepest, Soul between, Physical at the surface. A Well is not a hole in the ground. It is a place where the surface has thinned enough that the middle layer reaches through.
 
 ### R10-1-CATEGORIES_AXIS [Pack Ten PART ONE]
 
@@ -1754,6 +1994,24 @@ The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind
 
 > Cost, unchanged. The ignorance quota, the misreading budget, and the one-read Apparatus Rule still bind a Stage-display beat exactly as hard as any other scene.
 
+### R8-11-SHEET_EXPLAINS [Pack Eight 1.1]
+
+A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.
+
+> The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.
+
+### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
+
+No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
+
+> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
+
+### R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT [Pack Eight 1.2]
+
+Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.
+
+> The Pack Seven ruling that the page gets Effect / Cost / Limit / Counter and everything else is workbook and never published is amended. The Design Chain remains workbook. The operational account of how an ability functions is now sheet content, not workbook content.
+
 ### R7-1-THREE_HARD_RAILS [Pack Seven PART ONE]
 
 Three things never bend: the economy (finite, spent, visible), the ladder (sixteen Stages, felt before seen), and the lineage (everything traceable to a source).
@@ -1778,11 +2036,23 @@ The system is author-facing and document-facing — it lives in the Codex, chara
 
 > The operative consequence: the system is author-facing and document-facing. It lives in the Codex, the character sheets, the in-world treatises, and the technical-reveal beats where a mechanism earns explicit naming. It does not live in prose texture, narrator commentary, or character affect. A reader who never opens a codex should experience WOTR as a Western epic that happens to be unusually rigorous about what magic costs.
 
+### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
+
+Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
+
+> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
+
 ### R3-7-EXPENDITURE_MOVES [Pack Three Amendment Seven]
 
 The Offering converts opponent capability into expenditure; the Standing converts time into advantage (only for a fighter who doesn't experience time as a resource); the Ledger converts the whole preceding engagement into one effect, un-repeatable per encounter; the Absence converts a victory into nothing by destroying the vessel while the practitioner is unaffected.
 
 > | The Offering | Something expendable is put where the opponent must deal with it | Converts the opponent's capability into expenditure. The construct is not expected to win. It is expected to cost. |
+
+### R21-3-VAIMOANA_ESSENCE_STABILITY [Canon Amendment, Agamalu and Büri Origin III]
+
+Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
+
+> Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.
 
 ### R22-4-SYSTEM_TERMS_TABLE [Moto Reversion Ledger IV]
 
@@ -2032,7 +2302,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (59)
+## naming (79)
 
 ### R14-5-CANONICAL_TERMS [Pack Fourteen §5]
 
@@ -2058,6 +2328,120 @@ The glossary and Codex's own nouns (the Planes, Aether, Essence, the Soul Crysta
 
 > WOTR first. The glossary and the Codex already own the nouns and they are used in preference to anything borrowed: the three Planes, the Veil, Aether and its Density, Residue, Saturation, Essence and its Quality, Signature, Typology, the Soul Crystal and its three layers, Lattice Conductivity, Resonant Purity, Continuum Retention, the four Crystal States, Attraction and Obsession Force, the Sixty, the eight Families, the twenty-six Categories, the Mechanism Vocabulary, EU, Flux Density, AU/s, eta, Band, Grade, Stage.
 
+### R11-4-WELL_NAMING [Pack Eleven §4]
+
+Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
+
+> Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
+
+### R8-12-NAMING_EQUALS_PHENOMENON_STRUCK [Pack Eight 1.2]
+
+The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by this pack's Section Two.
+
+> The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by Section Two below.
+
+### R8-13-ENTRY_STRUCTURE [Pack Eight 1.3]
+
+An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).
+
+> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
+
+### R8-21-FIRST_DRAFT_REPEALED [Pack Eight 2.1]
+
+Pack Eight Section Two's first draft, which set the naming language by filing body, is repealed by the version in this file.
+
+> Repeals Pack Eight Section Two's first draft, which set the language by filing body.
+
+### R8-21-NAME_IN_OWN_LANGUAGE [Pack Eight 2.1]
+
+The true name is in the practitioner's own language; neither the Accord, the Guild, nor the Family has a claim on it, and a register's Latin gloss never appears in the practitioner's own mouth.
+
+> The true name is in the practitioner's own language. The Accord has no claim on it, and neither does the Guild or the Family. A Ketsuen swordsman inducted into the Accord does not rename his house's work in Latin because a clerk in Stannvaard needs it alphabetised.
+
+### R8-21-REGISTER_TABLE [Pack Eight 2.1]
+
+Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+
+> Where a request specifies a register, that register governs, and the name is built in it before anything else about the ability is decided. Japonic ask, Japonic name. Korean ask, Korean name.
+
+### R8-21-REGISTER_NOT_ETHNICITY [Pack Eight 2.1]
+
+A Japonic-sounding name is evidence about a house's linguistic descent and nothing else; this ruling is unchanged from elsewhere.
+
+> Naming registers are not ethnicity. This ruling is unchanged. A Japonic-sounding name is evidence about a house's linguistic descent, nothing else.
+
+### R8-22-LITERAL_GLOSS [Pack Eight 2.2]
+
+The gloss is the true name's plain English meaning, flat and literal, no poetry or interpretation; if the literal meaning is dull, the name is wrong and gets rebuilt rather than dressed up.
+
+> True name, then plain English meaning in parentheses. Kagemusha reads Shadow Warrior. It does not read the technique of hidden purpose. Flat, literal, no poetry, no interpretation. If the literal meaning is dull, the name is wrong and gets rebuilt, and the gloss is never used to dress it up.
+
+### R8-22-BY_NAME_POETRY [Pack Eight 2.2]
+
+The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.
+
+> The by-name, where an art has one, sits after the gloss and is what other characters call it. That is where the poetry is allowed to live.
+
+### R8-23-NAME_HIERARCHY [Pack Eight 2.3]
+
+Naming runs art, then technique, then form; the art carries the character and is spoken once at release then assumed, while individual techniques are spoken every time they are used.
+
+> Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are spoken every time they are used.
+
+### R8-24-RELEASE_MECHANIC [Pack Eight 2.4]
+
+An art with a true name may carry a release call (imperative verb plus name); it is never required for the art to function, costs a beat for a measurable output increase, and is spoken indistinguishably by a man in real danger or a man showing off.
+
+> An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
+
+### R8-25-ESCALATION_SUFFIX [Pack Eight 2.5]
+
+A stronger expression of a known art takes a modifier on the existing true name; new names are reserved for genuinely new arts.
+
+> A stronger expression of a known art takes a modifier on the existing true name. New names are for new arts only.
+
+### R8-26-NAME_NEVER_NARRATED [Pack Eight 2.6]
+
+The true name is spoken by a character; it never appears in narration.
+
+> The true name is spoken by a character. It never appears in narration.
+
+### R8-26-GLOSS_NEVER_IN_PROSE [Pack Eight 2.6]
+
+The gloss never appears in prose, with no translation apposition; the reader gets it from the sheet or from another character explaining it in dialogue for their own reason.
+
+> The gloss never appears in prose. No translation apposition. No he spoke the words that meant. The reader takes the gloss from the sheet, or from another character explaining it in dialogue for a reason of their own.
+
+### R8-26-NO_SELF_TRANSLATION [Pack Eight 2.6]
+
+Nobody translates their own technique's name aloud, ever.
+
+> Nobody translates their own technique aloud. Ever.
+
+### R8-26-GLOSS_DEPENDENCE_FAILS [Pack Eight 2.6]
+
+A working whose meaning must be glossed for the scene to land is a working that failed; fix the working, not the gloss.
+
+> A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
+
+### R8-27-STANDING_TASK [Pack Eight 2.7]
+
+A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
+
+> Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.
+
+### R8-3-WORKED_EXAMPLES_PENDING [Pack Eight 3]
+
+Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's "four hundred and six" catalogued errata count is explicitly self-flagged as an invented, unsized figure.
+
+> Two entries in the format, in different registers, to fix the shape.
+
+### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
+
+Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
+
+> Folds into the cost audit instead of running as a separate pass.
+
 ### R21-1-SATULAGI_STRUCK [Canon Amendment, Agamalu and Büri Origin I]
 
 The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
@@ -2069,6 +2453,12 @@ The Malō of Sātūlagi does not exist and never did; the Büri hold one seat an
 The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+
+### R21-2-FILEMU_NAME_CORRECTION [Canon Amendment, Agamalu and Büri Origin II]
+
+"Ayame" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.
+
+> Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
@@ -2388,7 +2778,7 @@ Fleshshaper Goblin register is governed by the fact that they are surgeons who t
 
 > The governing principle: they are surgeons, and they talk like surgeons who have never been told to be squeamish about it.
 
-## pov (30)
+## pov (32)
 
 ### R15-1-REGISTER_BY_CULTURE [Pack Fifteen §1]
 
@@ -2425,6 +2815,12 @@ Pack Six's total-legibility ban and blanket interpretation-at-zero rule are stru
 The ignorance quota and misreading budget survive Pack Twelve intact and become more important as dramatic-irony tools now that explanation is the default; the wrong explanation is now the load-bearing device.
 
 > Retained, and now more important: the ignorance quota and the misreading budget. These were never opacity tools. They are dramatic irony tools and they survive Pack Twelve intact. One thing per scene the POV cannot interpret. At least one confident inference that is wrong and stays uncorrected.
+
+### R11-4-DESCENT_PROSE_LAW [Pack Eleven §4]
+
+A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
+
+> Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.
 
 ### R10-3-UNCHANGED_CONSTRAINTS [Pack Ten PART THREE]
 
@@ -2498,6 +2894,12 @@ No line acknowledges that the reader knows better than the POV.
 
 > The narration never winks. No line acknowledging that the reader knows better.
 
+### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
+
+Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
+
+> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
+
 ### R5-E-MARTIN_WINS_RULING [Pack Five E]
 
 Martin wins on narration authority: Tolkien's elevated and elegiac register is available, his moral voice is not.
@@ -2570,7 +2972,7 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
-## prose-law (91)
+## prose-law (99)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -2698,6 +3100,12 @@ The gun is furniture, not spectacle; no sentence explains why a proofed round de
 
 > Prose law for firearms. The gun is furniture, not spectacle. Powder smells of rotten egg and it stays in the wool for days. Misfires are common in wet weather and a soldier's relationship with his own weapon is superstitious and practical at once. No sentence explains why a proofed round defeats a proofed plate. The physical account of the hole stays. The causal account is cut, per Pack Seven.
 
+### R11-4-DESCENT_PROSE_LAW [Pack Eleven §4]
+
+A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
+
+> Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.
+
 ### R10-3-EFFECT_PHYSICAL_ONLY [Pack Ten PART THREE]
 
 A projected shape's Effect describes only what it looks/does/feels like, never why the Wellspring resolved as that particular shape; if that answer exists at all, it stays workbook, one line, never on the page.
@@ -2721,6 +3129,36 @@ The mechanism gloss ban (Check 20), the metaphysical-units ban (Check 21), the c
 Essence discharge reads as broken, shard-edged geometry around the body rather than a soft glow; "it glowed" stays banned, replaced for Stage-display beats specifically, not as a general phenomenon substitute.
 
 > Aura as fracture, not glow. Where Essence discharge needs a visual, it reads as broken geometry around the body — jagged, shard-edged light, not a soft radiant bloom. "It glowed" stays banned; this is its replacement specifically for a Stage-display beat, not a general substitute for the phenomenon bank.
+
+### R8-11-PROSE_RETAINS_PACK7 [Pack Eight 1.1]
+
+No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.
+
+> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
+
+### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
+
+The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
+
+> Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.
+
+### R8-26-NAME_NEVER_NARRATED [Pack Eight 2.6]
+
+The true name is spoken by a character; it never appears in narration.
+
+> The true name is spoken by a character. It never appears in narration.
+
+### R8-26-GLOSS_NEVER_IN_PROSE [Pack Eight 2.6]
+
+The gloss never appears in prose, with no translation apposition; the reader gets it from the sheet or from another character explaining it in dialogue for their own reason.
+
+> The gloss never appears in prose. No translation apposition. No he spoke the words that meant. The reader takes the gloss from the sheet, or from another character explaining it in dialogue for a reason of their own.
+
+### R8-26-GLOSS_DEPENDENCE_FAILS [Pack Eight 2.6]
+
+A working whose meaning must be glossed for the scene to land is a working that failed; fix the working, not the gloss.
+
+> A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
 
 ### R6-1-LADDER_BAN [Pack Six PART I.1]
 
@@ -2866,11 +3304,23 @@ A moral verdict in the POV's own idiom, which could be wrong, is characterisatio
 
 > Free indirect discourse remains the carve-out and Pack Four's gloss test still governs. A moral verdict in the POV's own idiom, which could be wrong, is characterisation. The same verdict in the narrator's neutral register is Tolkien's voice and gets cut.
 
+### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
+
+Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
+
+> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
+
 ### R5-G-PROJECT_INSTRUCTIONS_EDIT [Pack Five G]
 
 The Manhwa Energy Directive block is struck in full from project instructions, "manhwa-cinematic" and "manhwa energy" are struck from tone descriptions, and the genre-intersection statement is amended so only the pacing ambition survives.
 
 > - Strike the Manhwa Energy Directive block in full. - Strike "manhwa-cinematic" and "manhwa energy" from tone descriptions. - Amend the genre-intersection statement: the pacing ambition survives, the manhwa-cinematic layer does not.
+
+### R5-G-TELL_BANK_ADDITIONS [Pack Five G]
+
+Declarative characterisation and the reaction-shot cutaway (from Section B's confirmed repeal) plus the comedic beat structure and narrator moral adjudication (from Sections D and E, still proposed) are added as active tells.
+
+> Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.
 
 ### R4-13-GLOSS_DEFINED [Pack Four Amendment Thirteen]
 
@@ -3118,7 +3568,7 @@ Never write an Eladrin line of dialogue without a distance or stillness beat att
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
 
-## register (73)
+## register (79)
 
 ### R15-1-LICENCE [Pack Fifteen §1]
 
@@ -3348,6 +3798,18 @@ Pack Five stands in full; the Western Register still governs characterisation, h
 
 > Tonal spine unchanged. Pack Five stands in full. The Western Register governs characterisation, humour, and narration authority. Pack Eleven widens what the page may look like. It does not reopen what the page may sound like. Temür still does not make jokes.
 
+### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
+
+"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
+
+> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
+
+### R11-4-WELL_NAMING [Pack Eleven §4]
+
+Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
+
+> Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
+
 ### R10-2-CATEGORY_REGISTER_DEFAULT [Pack Ten PART TWO]
 
 Category names sit at Wellspring/Family register, not common tongue, and stay workbook and Codex-line by default.
@@ -3377,6 +3839,24 @@ A POV may be shown cutting a ward, speaking a working, or pouring a Draft (singi
 Which word a character uses for a craft is characterisation: an Engraver says "the cutting," a Kharven soldier says "a man who can do the writing," and nobody says "Runecraft" aloud except an Accord examiner filling in a form.
 
 > Which word a mouth reaches for is characterisation: an Engraver says the cutting. A Kharven soldier wanting help says he needs a man who can do the writing. Nobody says "Runecraft" aloud except an Accord examiner filling in a form.
+
+### R8-15-DESCRIPTION_STYLE [Pack Eight 1.5]
+
+The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
+
+> Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.
+
+### R8-21-REGISTER_TABLE [Pack Eight 2.1]
+
+Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+
+> Where a request specifies a register, that register governs, and the name is built in it before anything else about the ability is decided. Japonic ask, Japonic name. Korean ask, Korean name.
+
+### R8-22-BY_NAME_POETRY [Pack Eight 2.2]
+
+The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.
+
+> The by-name, where an art has one, sits after the gloss and is what other characters call it. That is where the poetry is allowed to live.
 
 ### R6-2-CHEMISTRY_BAN [Pack Six PART I.2]
 
@@ -3437,6 +3917,12 @@ What distinguishes elegy from grimdark's systemic cruelty is that the loss is of
 At most one sustained elegiac passage per scene, which may sit anywhere except the closing beat, which still ends on physical action per Scene Standards.
 
 > Budget: one sustained elegiac passage per scene at most, and it may sit anywhere except the closing beat, which per Scene Standards still ends on physical action.
+
+### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
+
+Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
+
+> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
 
 ### R5-D-HUMOUR_PERMITTED [Pack Five D]
 
@@ -3558,7 +4044,7 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
-## scene-structure (21)
+## scene-structure (24)
 
 ### R15-4-PACK_FIVE_SCOPE [Pack Fifteen §4]
 
@@ -3584,11 +4070,23 @@ Scene Standards' sentence-level bans on mechanism explanation and metaphysical n
 
 > Scene Standards. The sentence-level bans on mechanism explanation and metaphysical numbers are struck. Everything else stands.
 
+### R11-4-SURVEY_PROTOCOL [Pack Eleven §4]
+
+Deploy in pairs with one member outside the radius; take Crystal baselines before the march, never after; never carry Object Wellsprings into Site Wellsprings; withdrawal is not retreat; report Medium-type as priority; every rule is one a character can break, and the Guild has buried those who did.
+
+> The survey protocol is already written and is pure scene structure. On Walking Into the Current gives seven rules and every one of them is a plot device. Deploy in pairs with one member outside the radius, because the external observer is the only reliable instrument. Take Crystal baselines before the march, never after. Do not carry Object Wellsprings into Site Wellsprings. Two laws sharing one Shell, unpredictable and frequently catastrophic. Withdrawal is not retreat. Report Medium-type as priority.
+
 ### R9-3-SILHOUETTE_ENTRANCE [Pack Nine PART THREE]
 
 A practitioner arriving at an unclassified Pressure is staged backlit, shape before detail, using the existing Section 3 silhouette tool now explicitly licensed for power-arrival rather than rationed to dread generally.
 
 > Silhouette-first entrance. A practitioner arriving at a Pressure the room hasn't classified yet is staged backlit, shape before detail — the existing silhouette tool in Section 3, now explicitly licensed for a power-arrival rather than rationed to dread generally.
+
+### R8-26-ONE_RELEASE_PER_SCENE [Pack Eight 2.6]
+
+One release per scene at most; two men releasing in the same scene is an event, not texture.
+
+> One release per scene at most. Two men releasing in the same scene is an event, not texture.
 
 ### R6-3-IGNORANCE_QUOTA [Pack Six PART I.3]
 
@@ -3619,6 +4117,12 @@ At most one sustained elegiac passage per scene, which may sit anywhere except t
 The beat structure of setup, deadpan and reaction is barred; humour arrives inside dialogue and narration already in progress and never pauses the scene to land.
 
 > Barred: the beat structure of setup, deadpan and reaction. Humour no longer gets its own rhythm. It arrives inside dialogue and narration already in progress and does not pause the scene to land.
+
+### R5-F-LIGHT_NOVEL_KEPT [Pack Five F]
+
+The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
+
+> The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
 
 ### R3-8-SIEGE_LINE_REGISTER_DEFAULT [Pack Three Amendment Eight §13]
 
@@ -3686,7 +4190,7 @@ Per the Mass Combat Craft Guide §7: the wounded left where they fell, the strip
 
 > The five-stage aftermath sequence (per the Mass Combat Craft Guide section 7): the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season. Any aftermath scene should touch at least two.
 
-## session-protocol (2)
+## session-protocol (3)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -3694,13 +4198,19 @@ Before any scene with a named practitioner, and before designing any technique, 
 
 > Before any scene with a named practitioner, and before any technique is designed, Natalie loads that character's Fracture of Worlds line. From the character sheet, the Stat Sheet workbook, or the Notion card, in that order of preference, and verified against Fracture_of_Worlds.md by grep or pdftotext. The line: - Level, Band (I to V), Stage (I to XVI, by name), Path alignment.
 
+### R8-27-STANDING_TASK [Pack Eight 2.7]
+
+A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
+
+> Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.
+
 ### R4-ADD-NO_SINGLE_PASS [Pack Four Addendum]
 
 wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
 
-## standing-inventory (11)
+## standing-inventory (13)
 
 ### R15-1-STANDING_INVENTORY_SURVIVES [Pack Fifteen §1]
 
@@ -3708,11 +4218,23 @@ The Standing Inventory is a texture source, not a register rule, and is unaffect
 
 > The Standing Inventory as a texture source. Kharven's woodpile and night-stone are interesting; that is why they stay. Nothing about them is a register rule.
 
+### R11-2-SILHOUETTE [Pack Eleven §2]
+
+No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
+
+> Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
+
 ### R11-3-PROOF_MARKS_CANON [Pack Eleven §3]
 
 A dented cuirass is certified rather than damaged; soldiers read a proof-dent the way Kharven reads a forearm grip, and a shallow proof-dent signals a light charge and what that means about the man wearing it.
 
 > Proof-marks are canon texture from this pack forward. A dented cuirass is certified rather than damaged, and a soldier reads another soldier's dent the way Kharven reads a forearm grip. Armour whose proof-dent is shallow was proofed with a light charge, and everyone knows what that means about the man wearing it.
+
+### R11-5-STANDING_INVENTORY_PERIPHERY [Pack Eleven §5]
+
+Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted woodpiles, no domestic coin) survives and improves, now legible as periphery — the Accord's ledgers reach Kharven, its conduit does not.
+
+> The Standing Inventory. Kharven survives intact and improves. Permafrost, blubber lamps, woodpiles counted weekly, no coin domestically. All of that is now legible as periphery. The Accord's ledgers reach Kharven. Its conduit does not. Temür's people burn seal fat while Stannvaard burns nothing at all.
 
 ### R6-7-GOVERNING_RULE [Pack Six PART II.7]
 
@@ -3768,7 +4290,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (29)
+## stats (32)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -3914,11 +4436,29 @@ Scene Standards' sentence-level bans on mechanism explanation and metaphysical n
 
 > Scene Standards. The sentence-level bans on mechanism explanation and metaphysical numbers are struck. Everything else stands.
 
+### R8-16-PHYSICAL_NUMBERS_ONLY [Pack Eight 1.6]
+
+Drawback numbers are physical (metres, seconds, kilograms, degrees, counts, durations); never a number attached to Essence, Coherence, resonance or Wellspring output — Pack Seven's metaphysical-units ban holds on the sheet as firmly as on the page.
+
+> Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.
+
+### R8-25-ESCALATION_SUFFIX [Pack Eight 2.5]
+
+A stronger expression of a known art takes a modifier on the existing true name; new names are reserved for genuinely new arts.
+
+> A stronger expression of a known art takes a modifier on the existing true name. New names are for new arts only.
+
 ### R5-A-SKELETON_UNCHANGED [Pack Five A]
 
 WOTR runs an Eastern skeleton under Western flesh; the systematic density (Stages, Wellsprings, Bands/Grades/Coherence/eta, Codex glyph grammar, Family/Physics Domain, the character sheet, the Design Chain, EU costs) does not get diluted, softened, or made impressionistic.
 
 > WOTR runs an Eastern skeleton under Western flesh. The skeleton stays exactly as it is. Sixteen Temperance Stages, sixty Wellsprings, Bands and Grades and Coherence and eta, the Master Codex glyph grammar, Family and Physics Domain assignment, the seventeen-section character sheet, Trigger through Counterplay, EU costs to the unit. That systematic density is a light-novel and xianxia inheritance and it is the correct engine for this project. It does not get diluted, softened, or made impressionistic. Section 3.3's division of hard and soft labour stands untouched.
+
+### R5-F-LIGHT_NOVEL_NOT_KEPT [Pack Five F]
+
+Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
+
+> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
 
 ### R2-6-MAGAZINE_RULE [Pack Two Amendment Six.2]
 
@@ -3944,7 +4484,7 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
 
-## verification (61)
+## verification (65)
 
 ### R15-2-ONE_TEST [Pack Fifteen §2]
 
@@ -4090,6 +4630,12 @@ wotr_verify.sh checks 20 and 21 are retired, and check 19 is rewritten off §4 (
 
 > wotr_verify.sh. Checks 20 and 21 retired. Check 19 rewritten off §4.
 
+### R11-4-MAGNITUDE_AXIS [Pack Eleven §4]
+
+Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Active Concentration, Veil-Thin, Core); intermediate rungs must be pulled from source before use and never invented.
+
+> Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.
+
 ### R10-2-CATEGORY_READ_EXCEPTION [Pack Ten PART TWO]
 
 A scene's single diagnostic read (the Apparatus Rule's existing budget, not a new one) may be spent naming the category instead of a Wellspring or Family; naming a category doesn't trip Check 20, but it still costs the scene's only read.
@@ -4113,6 +4659,18 @@ The mechanism gloss ban (Check 20), the metaphysical-units ban (Check 21), the c
 The ignorance quota, the misreading budget, and the one-read Apparatus Rule bind a Stage-display beat exactly as hard as any other scene.
 
 > Cost, unchanged. The ignorance quota, the misreading budget, and the one-read Apparatus Rule still bind a Stage-display beat exactly as hard as any other scene.
+
+### R8-16-OVERUSE_STRAINS_FAILURE [Pack Eight 1.6]
+
+"Overuse strains him" remains a failing drawback and always was.
+
+> "Overuse strains him" remains a failure and always was.
+
+### R8-4-RETROACTIVE_TASKS [Pack Eight 4]
+
+Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.
+
+> Folds into the cost audit instead of running as a separate pass.
 
 ### R7-5-COST_AUDIT [Pack Seven PART FIVE]
 
@@ -4173,6 +4731,12 @@ The Master Style Directive's §4 final paragraph (the manhwa-energy humour claus
 The Master Style Directive's §10 deliberately-excluded list gains the Manhwa Energy Directive.
 
 > Sec. 10: add the Manhwa Energy Directive to the deliberately-excluded list.
+
+### R5-G-TELL_BANK_ADDITIONS [Pack Five G]
+
+Declarative characterisation and the reaction-shot cutaway (from Section B's confirmed repeal) plus the comedic beat structure and narrator moral adjudication (from Sections D and E, still proposed) are added as active tells.
+
+> Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.
 
 ### R4-13-GLOSS_DEFINED [Pack Four Amendment Thirteen]
 
@@ -4312,7 +4876,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (80)
+## worldbuilding (103)
 
 ### R15-1-RACIAL_VOICE_MENU [Pack Fifteen §1]
 
@@ -4386,6 +4950,48 @@ Pack Five stands in full; the Western Register still governs characterisation, h
 
 > Tonal spine unchanged. Pack Five stands in full. The Western Register governs characterisation, humour, and narration authority. Pack Eleven widens what the page may look like. It does not reopen what the page may sound like. Temür still does not make jokes.
 
+### R11-2-HYDROLOGY_MODEL [Pack Eleven §2]
+
+The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.
+
+> So the industrial age is not combustion. It is hydrology. Nobody built an engine. They sank a well, put a town around it, and grew a guild that decides who may sink another.
+
+### R11-2-CLASS_GEOGRAPHY [Pack Eleven §2]
+
+A city's street plan follows where the current runs shallowest; the rich live over the pool, the poor live at the thin margin where lamps gutter through the Thin Weeks.
+
+> Cities sit on sites, not on rivers. A seat's street plan is dictated by where the current runs shallowest. Draw falls off with distance from the site. The rich live over the pool. The poor live at the margin where output is thin and the lamps gutter through the Thin Weeks.
+
+### R11-2-APPARATUS_INHERITS_PHYSICS [Pack Eleven §2]
+
+A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
+
+> Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.
+
+### R11-2-DRAWDOWN_MOTIVE [Pack Eleven §2]
+
+Old World veins are worked; New World veins are pristine; colonial expansion has a hydrological cause, wars fought over water tables no eye can see.
+
+> Drawdown is the imperial motive. Old World veins are worked. The New World's are pristine at densities the Old World has not seen since the Antediluvian Calendar, because nobody has been drawing. Colonial expansion with a hydrological cause.
+
+### R11-2-SILHOUETTE [Pack Eleven §2]
+
+No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
+
+> Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
+
+### R11-2-VOCABULARY_TIERS [Pack Eleven §2]
+
+"The draw, the hum, a standpipe, a housing, the meter, cut off" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; "concentration, density, coupling, eta" are Guild register and document-only.
+
+> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
+
+### R11-2-MEASUREWRIGHTS [Pack Eleven §2]
+
+The Guild of Measurewrights (Hexagonal Oath, in concurrence with Research & Archives) wrote the address down but does not explain the mechanism.
+
+> The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.
+
 ### R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED [Pack Eleven §3]
 
 Gunpowder exists, magical weapons exist, and armour is not dead.
@@ -4409,6 +5015,60 @@ Shot is chemically cheap and does not care about a soul; a working is not shot, 
 The silhouette is coat, breast, helm, sword and firearm; every armed man carries at least two answers because there are at least two questions, which is why the Combat Craft Guide survives intact — Liechtenauer and Fiore still govern inside twenty feet.
 
 > Result: the silhouette is coat, breast, helm, sword, and firearm. Every armed man carries at least two answers because there are at least two questions. This is why the Combat Craft Guide survives intact. Liechtenauer and Fiore still govern. Inside twenty feet a discharged firearm is a club and the sword is the thing that finishes it.
+
+### R11-4-WELLS_ORIGIN [Pack Eleven §4]
+
+At sufficient concentration, a law the landscape has been measured by for so long that the landscape has become the law's argument, per The Mechanism of the Sixty.
+
+> Originated, pending ruling. Derived from canon, not imported from the genre.
+
+### R11-4-WELL_NAMING [Pack Eleven §4]
+
+Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.
+
+> Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
+
+### R11-4-DIRECTION_AXIS [Pack Eleven §4]
+
+Wild-type Wells make the environment the enemy (Materia/Spatium dominant); Spirit-type make the Crystal the enemy, authoring the delver from inside (Caloria/Fulguria/some Vectoria) and kill experienced parties; Medium-type are both reciprocally, the largest survey gap.
+
+> Direction, the encounter type. This is the whole design grammar and it is better than a monster list.
+
+### R11-4-MAGNITUDE_AXIS [Pack Eleven §4]
+
+Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Active Concentration, Veil-Thin, Core); intermediate rungs must be pulled from source before use and never invented.
+
+> Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.
+
+### R11-4-DEPTH_AXIS [Pack Eleven §4]
+
+A Well is not a hole in the ground; it is a place where the surface (Physical) has thinned enough that the middle layer (Soul) reaches through toward Fate, the deepest plane.
+
+> Depth, the nested plane model. Fate deepest, Soul between, Physical at the surface. A Well is not a hole in the ground. It is a place where the surface has thinned enough that the middle layer reaches through.
+
+### R11-4-SURVEY_PROTOCOL [Pack Eleven §4]
+
+Deploy in pairs with one member outside the radius; take Crystal baselines before the march, never after; never carry Object Wellsprings into Site Wellsprings; withdrawal is not retreat; report Medium-type as priority; every rule is one a character can break, and the Guild has buried those who did.
+
+> The survey protocol is already written and is pure scene structure. On Walking Into the Current gives seven rules and every one of them is a plot device. Deploy in pairs with one member outside the radius, because the external observer is the only reliable instrument. Take Crystal baselines before the march, never after. Do not carry Object Wellsprings into Site Wellsprings. Two laws sharing one Shell, unpredictable and frequently catastrophic. Withdrawal is not retreat. Report Medium-type as priority.
+
+### R11-4-WELLS_ECONOMY [Pack Eleven §4]
+
+A Core-density Well is the richest draw site that exists; the Guild licenses descents, the Accord taxes them, chartered companies fund them, and delvers are paid like miners — sack-and-contribution logic, no treasure chest.
+
+> What the Wells are economically. Extraction, and never adventure. A Well at Core density is the richest draw site that exists and the reason it has not been sunk is that the survey team keeps not coming back. So the Guild licenses descents, the Accord taxes them, chartered companies fund them, and the delvers who go down are paid like miners, which is to say badly and with a bonus that their widow collects. Sack-and-contribution logic. The treasure chest does not exist here.
+
+### R11-4-DESCENT_PROSE_LAW [Pack Eleven §4]
+
+A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.
+
+> Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.
+
+### R11-5-STANDING_INVENTORY_PERIPHERY [Pack Eleven §5]
+
+Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted woodpiles, no domestic coin) survives and improves, now legible as periphery — the Accord's ledgers reach Kharven, its conduit does not.
+
+> The Standing Inventory. Kharven survives intact and improves. Permafrost, blubber lamps, woodpiles counted weekly, no coin domestically. All of that is now legible as periphery. The Accord's ledgers reach Kharven. Its conduit does not. Temür's people burn seal fat while Stannvaard burns nothing at all.
 
 ### R9-3-SCOPE [Pack Nine PART THREE]
 
@@ -4445,6 +5105,24 @@ A practitioner arriving at an unclassified Pressure is staged backlit, shape bef
 The power-display register adds one mode to the visual palette; depth staging, practicals, and the Berserk-density/Vinland-restraint split still govern everything outside the narrow Stage-display list.
 
 > This adds one mode to the palette. It does not replace it. Depth staging, practicals, and the Berserk-density/Vinland-restraint split all still govern everything outside the narrow list above.
+
+### R8-21-NAME_IN_OWN_LANGUAGE [Pack Eight 2.1]
+
+The true name is in the practitioner's own language; neither the Accord, the Guild, nor the Family has a claim on it, and a register's Latin gloss never appears in the practitioner's own mouth.
+
+> The true name is in the practitioner's own language. The Accord has no claim on it, and neither does the Guild or the Family. A Ketsuen swordsman inducted into the Accord does not rename his house's work in Latin because a clerk in Stannvaard needs it alphabetised.
+
+### R8-21-REGISTER_TABLE [Pack Eight 2.1]
+
+Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+
+> Where a request specifies a register, that register governs, and the name is built in it before anything else about the ability is decided. Japonic ask, Japonic name. Korean ask, Korean name.
+
+### R8-21-REGISTER_NOT_ETHNICITY [Pack Eight 2.1]
+
+A Japonic-sounding name is evidence about a house's linguistic descent and nothing else; this ruling is unchanged from elsewhere.
+
+> Naming registers are not ethnicity. This ruling is unchanged. A Japonic-sounding name is evidence about a house's linguistic descent, nothing else.
 
 ### R7-1-THREE_HARD_RAILS [Pack Seven PART ONE]
 
@@ -4500,6 +5178,12 @@ What distinguishes elegy from grimdark's systemic cruelty is that the loss is of
 
 > The loss is often irreversible and often nobody's fault. This is what distinguishes elegy from grimdark's systemic cruelty, and WOTR needs both. Some things are taken. Some things simply end.
 
+### R5-C3-NARRATION_REGISTER_EXTENSION [Pack Five C.3]
+
+Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).
+
+> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
+
 ### R5-E-ELEVATED_REGISTER_QUARANTINED [Pack Five E]
 
 The elevated register (invocation, myth-cadence, high style) is available only to in-world documents, songs, oral-tradition passages, mythic strata, prophetic/Celestial Host material, and the opening/closing frame of a mythic-scale event — not ordinary scene narration.
@@ -4553,6 +5237,24 @@ The Agamalu homeland is Vāimoana, an archipelago in the open water between the 
 The Queen of Kharven is Filemu Agamalu, not Ayame, not Yuno.
 
 > The Queen of Kharven | Filemu Agamalu. Not Ayame. Not Yuno.
+
+### R21-3-VAIMOANA_GOVERNANCE [Canon Amendment, Agamalu and Büri Origin III]
+
+Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.
+
+> Not a kingdom. A confederation of aiga governed by fono, with no king, no standing army, and no charter with the Guild Accord.
+
+### R21-3-VAIMOANA_ESSENCE_STABILITY [Canon Amendment, Agamalu and Büri Origin III]
+
+Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.
+
+> Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.
+
+### R21-4-BURI_LANDLESS_LINES [Canon Amendment, Agamalu and Büri Origin IV]
+
+With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every line's ambition must route through Kharven or through nothing, which is the condition that produced the Tenrai's correction and has not changed since.
+
+> With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 

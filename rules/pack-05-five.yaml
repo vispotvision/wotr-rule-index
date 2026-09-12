@@ -456,7 +456,7 @@ rules:
     pack_number: 5
     section: "C.3"
     title: Per-culture narration registers, extended from dialogue
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Free indirect discourse's per-character register licence is raised to
@@ -483,7 +483,7 @@ rules:
     supersedes: []
     applies_to: [register, pov, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "92-99"
@@ -762,7 +762,7 @@ rules:
     pack_number: 5
     section: "F"
     title: What the light novel keeps
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The chapter as a hard unit with one objective and a hook at close;
@@ -782,7 +782,7 @@ rules:
     supersedes: []
     applies_to: [scene-structure, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "142-144"
@@ -793,7 +793,7 @@ rules:
     pack_number: 5
     section: "F"
     title: What the light novel does not keep
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Status screens, panels and HUD-style rendering (already banned);
@@ -817,7 +817,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, stats, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "148-151"
@@ -908,7 +908,7 @@ rules:
     pack_number: 5
     section: "G"
     title: Four new active tells added
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Declarative characterisation and the reaction-shot cutaway (from
@@ -925,7 +925,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Five.md
       lines: "176"

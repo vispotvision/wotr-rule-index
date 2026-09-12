@@ -134,7 +134,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: The industrial age is hydrology, not combustion
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The technological age runs on Wellsprings as standing currents that
@@ -148,7 +148,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "32"
@@ -159,7 +159,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: Class geography follows draw distance from a site
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A city's street plan follows where the current runs shallowest; the
@@ -175,7 +175,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "36"
@@ -186,7 +186,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: Apparatus inherits its Family's failure modes
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A machine is a conduit retuned to a current (phase-locking, not
@@ -207,7 +207,7 @@ rules:
     supersedes: []
     applies_to: [items, magic-mechanism, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "38"
@@ -218,7 +218,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: Drawdown is the imperial motive
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Old World veins are worked; New World veins are pristine; colonial
@@ -233,7 +233,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "40"
@@ -244,7 +244,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: The Draw-Age silhouette, sensory texture
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       No smokestacks or soot; standpipes, gauge-housings, sealed conduit,
@@ -261,7 +261,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, standing-inventory]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "42"
@@ -272,7 +272,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: Common-tongue vs Guild-register draw vocabulary
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       "The draw, the hum, a standpipe, a housing, the meter, cut off" are
@@ -291,7 +291,7 @@ rules:
     supersedes: []
     applies_to: [register, dialogue, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "44"
@@ -302,7 +302,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: The Measurewrights maintain the Draw without explaining it
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The Guild of Measurewrights (Hexagonal Oath, in concurrence with
@@ -317,7 +317,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "46"
@@ -335,7 +335,7 @@ rules:
     pack_number: 11
     section: "§2"
     title: Does a worked site recharge
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether a worked Wellspring site recharges (managed, corrupt empire)
@@ -348,18 +348,20 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "49"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: A worked site recharges: a managed, corrupt empire, not a doomed one.
+
 
   - id: R11-B
     pack: Pack Eleven
     pack_number: 11
     section: "§2"
     title: Can a commoner buy draw
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether draw is a metered utility a commoner can buy or a
@@ -373,18 +375,20 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "50"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: No: draw is a guild-licence-only good. Commoners burn oil and tallow; the draw-hum is a sound of wealth.
+
 
   - id: R11-C
     pack: Pack Eleven
     pack_number: 11
     section: "§2"
     title: The technology ceiling
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Which of rail, telegraph, print and photography exist, and which have
@@ -396,11 +400,13 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "51"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Isaac's words: 'All things that were invented from the beginning of the Victorian Era to the 1900s exist, but only from 1800-1900. No further no earlier.' Rail, telegraph, print and photography all exist mechanically; nothing post-1900.
+
 
   - id: R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED
     pack: Pack Eleven
@@ -555,7 +561,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: The three ammunition tiers
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Common shot (cheap, kills men, annoys practitioners), proofed shot
@@ -571,7 +577,7 @@ rules:
     supersedes: []
     applies_to: [items, combat]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "71"
@@ -607,16 +613,14 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "76"
     notes: >-
-      In live tension with R12-1-EXPLAIN_BAN_STRUCK, which struck exactly
-      the Pack Seven ban this rule cites, both rows being status:live. See
-      CONFLICTS.md C-001.
+      C-001 ruled 2026-09-12: Eleven's ban stands. No sentence explains why a proofed round defeats proofed plate, even after Twelve's general repeal; firearms are the carve-out from mechanism-on-the-page.
 
   - id: R11-4-WELLS_ORIGIN
     pack: Pack Eleven
     pack_number: 11
     section: "§4"
     title: A Well is where the landscape has become the law's argument
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       At sufficient concentration, a law the landscape has been measured by
@@ -629,7 +633,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "82"
@@ -640,7 +644,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: Guild register vs common tongue for a Well
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Guild register calls it a Core Concentration; common tongue calls it
@@ -654,7 +658,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, register, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "86"
@@ -665,7 +669,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: "Direction axis: Wild, Spirit and Medium-type Wells"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Wild-type Wells make the environment the enemy (Materia/Spatium
@@ -680,7 +684,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-design, adjudication]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "90"
@@ -691,7 +695,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: "Magnitude axis: density scale, never invent an intermediate rung"
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Magnitude runs Ambient through Core with attested rungs (Ambient
@@ -706,7 +710,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "95"
@@ -717,7 +721,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: "Depth axis: the nested plane model"
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A Well is not a hole in the ground; it is a place where the surface
@@ -732,7 +736,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "97"
@@ -743,7 +747,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: The Well survey protocol, seven rules as plot devices
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Deploy in pairs with one member outside the radius; take Crystal
@@ -764,7 +768,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, adjudication, scene-structure]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "99"
@@ -779,7 +783,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: Wells are extraction, never adventure
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A Core-density Well is the richest draw site that exists; the Guild
@@ -799,7 +803,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "103"
@@ -810,7 +814,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: A descent's sensory opening inverts toward the body
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A descent's sensory opening favours the body (feet, teeth, pack
@@ -828,7 +832,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, pov, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "105"
@@ -844,7 +848,7 @@ rules:
     pack_number: 11
     section: "§4"
     title: Do Wells generate hostile entities, or is the site the threat
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether Wells generate hostile entities, or the site itself is the
@@ -856,21 +860,19 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, adjudication]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "108"
     notes: >-
-      Recommendation: the second, hard. Nothing in canon needs monsters,
-      and a Spirit-type Core with nothing living in it is more frightening
-      than anything with teeth.
+      RULED 2026-09-12: Wells generate hostile entities. Against the pack's recommendation; the Bestiary gains a Well-spawn category.
 
   - id: R11-E
     pack: Pack Eleven
     pack_number: 11
     section: "§4"
     title: Naming, Well versus Core versus Guild-register term
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       What the common name for a Well should be: Well, Core, or a
@@ -882,11 +884,13 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "109"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: The common name is Core.
+
 
   - id: R11-5-COMBAT_GUIDE_RANGE_OPENING
     pack: Pack Eleven
@@ -921,7 +925,7 @@ rules:
     pack_number: 11
     section: "§5"
     title: Kharven's Standing Inventory reads as periphery
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted
@@ -937,7 +941,7 @@ rules:
     supersedes: []
     applies_to: [standing-inventory, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eleven.md
       lines: "118"

@@ -279,7 +279,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: all eight seeds ratified (R13-E)"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "57"
@@ -941,7 +941,7 @@ rules:
     pack_number: 13
     section: "§10"
     title: Physical-unit ceiling, who may speak in Joules and m/s
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether Joules and metres-per-second are restricted to a
@@ -955,19 +955,19 @@ rules:
     supersedes: []
     applies_to: [dialogue, register, combat]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "150"
     notes: >-
-      Recommendation: yes.
+      RULED 2026-09-12: Anyone in diagnostic voice may speak in Joules and metres-per-second, not only Measurewrights and Guild officers. Against the pack's recommendation.
 
   - id: R13-B
     pack: Pack Thirteen
     pack_number: 13
     section: "§10"
     title: Percussion master-strike table, Dawi-authored or Concord
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether the percussion master-strike table is Dawi-authored in-world
@@ -979,19 +979,19 @@ rules:
     supersedes: []
     applies_to: [combat, worldbuilding, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "151"
     notes: >-
-      Recommendation: Dawi, closing half of Docket 18.
+      RULED 2026-09-12: Dawi-authored in-world; closes half of Docket 18.
 
   - id: R13-C
     pack: Pack Thirteen
     pack_number: 13
     section: "§10"
     title: Shot against a worked cuirass, steel or the working stops it
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether steel or the working stops shot against a worked cuirass.
@@ -1001,19 +1001,19 @@ rules:
     supersedes: []
     applies_to: [combat, items]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "152"
     notes: >-
-      Recommendation: the steel, always, or Pack Eleven's economy inverts.
+      RULED 2026-09-12: The working stops shot against a worked cuirass, not the steel. Isaac chose against the pack's recommendation; the consequence the pack warned of (Eleven's armour economy inverting) is his to carry. R11-3-ARMOUR_STOPS_SHRINKING and R11-3-AMMO_TIERS should be read with this: proofed plate holds by its working, and a proofed round beats it by out-coupling that working.
 
   - id: R13-D
     pack: Pack Thirteen
     pack_number: 13
     section: "§10"
     title: May the gap-fill pass change an outcome Isaac wrote
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether the gap-fill pass may change an outcome Isaac wrote when no
@@ -1025,19 +1025,19 @@ rules:
     supersedes: []
     applies_to: [combat, verification, session-protocol]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "153"
     notes: >-
-      Recommendation: no. Flag, propose the smallest change, wait.
+      RULED 2026-09-12: Yes: the gap-fill pass may change an outcome Isaac wrote when no cause fits, and says so in the author notes.
 
   - id: R13-E
     pack: Pack Thirteen
     pack_number: 13
     section: "§10"
     title: Ratify the Phenomenon Bank's eight seeds, any, all or none
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether to ratify any, all, or none of the Phenomenon Bank's eight
@@ -1048,18 +1048,20 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "154"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: all eight seeds of the Phenomenon Bank are ratified as canon; see R13-3-PHENOMENON_BANK.
+
 
   - id: R13-F
     pack: Pack Thirteen
     pack_number: 13
     section: "§10"
     title: Category naming in diagnostic voice beyond the Apparatus Rule
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether Category naming in diagnostic voice may go beyond the
@@ -1071,10 +1073,9 @@ rules:
     supersedes: []
     applies_to: [codex, dialogue, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Thirteen.md
       lines: "155"
     notes: >-
-      Recommendation: allow it inside a Measurewright's or opponent's
-      explanation since Twelve already opened that door.
+      RULED 2026-09-12: Yes: Category names may be spoken inside a Measurewright's or opponent's explanation beyond the one read.

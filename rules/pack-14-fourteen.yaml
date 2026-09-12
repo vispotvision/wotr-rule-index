@@ -533,7 +533,7 @@ rules:
     pack_number: 14
     section: "§9"
     title: Stage names, card vocabulary vs Fracture of Worlds vocabulary
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Cards use Ignition (I) and Temper (IV); Fracture of Worlds and the
@@ -546,18 +546,20 @@ rules:
     supersedes: []
     applies_to: [stats, naming, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "114"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Fracture of Worlds vocabulary governs the Stage names (Murmuring, Welling, Ascension, Flourishing...); the cards' Ignition and Temper are struck. A sweep of the cards is owed (WOTR MCP stale_names does not cover this yet; scheduled).
+
 
   - id: R14-B
     pack: Pack Fourteen
     pack_number: 14
     section: "§9"
     title: Sub-Stat names outside a faculty reading
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether Sub-Stat names may ever be spoken outside a faculty reading.
@@ -567,19 +569,19 @@ rules:
     supersedes: []
     applies_to: [stats, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "115"
     notes: >-
-      Recommendation: never.
+      RULED 2026-09-12: Isaac's words: 'They can be named, but do it like how people talk about stats in LitRPGs like Unbound.' Sub-Stat names are speakable in that register: casual, comparative, in a mouth, never narration on its own authority.
 
   - id: R14-C
     pack: Pack Fourteen
     pack_number: 14
     section: "§9"
     title: Source precedence, Stat Sheet workbook vs Notion cards
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Which source wins, the Stat Sheet workbook or the Notion cards, when a
@@ -591,18 +593,20 @@ rules:
     supersedes: []
     applies_to: [stats, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "116"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: The Stat Sheet workbook wins when a number differs; Notion cards are corrected to match.
+
 
   - id: R14-D
     pack: Pack Fourteen
     pack_number: 14
     section: "§9"
     title: Whether Resonant Pair unlocks may be named in diagnostic voice
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether Resonant Pair unlocks (Reactive Cast, Seam Sight, Controlled
@@ -614,19 +618,19 @@ rules:
     supersedes: []
     applies_to: [stats, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "117"
     notes: >-
-      Recommendation: yes, they are exactly what a Measurewright would say.
+      RULED 2026-09-12: Yes; Resonant Pair unlocks may be named in diagnostic voice.
 
   - id: R14-E
     pack: Pack Fourteen
     pack_number: 14
     section: "§9"
     title: Whether an unchallenged estimate becomes canon after one session
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether an estimate in the Stat Ledger may become canon by default
@@ -638,9 +642,9 @@ rules:
     supersedes: []
     applies_to: [stats, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fourteen.md
       lines: "118"
     notes: >-
-      Recommendation: no; estimates stay estimates until ratified.
+      RULED 2026-09-12: Isaac's words: 'Only if that estimate is fully confirmed.' An unchallenged estimate does not become canon by default.

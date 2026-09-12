@@ -121,8 +121,7 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "17"
     notes: >-
-      Backfilled: supersedes R7-2-TRIGGER_PHYSICAL_NOT_MECHANISM and
-      R7-4-PACK_FIVE_RECONCILED.
+      C-001 ruled 2026-09-12: this repeal does not reach Pack Eleven §3's firearms clause (R11-3-FIREARM_PROSE_LAW), which stands as a carve-out by Isaac's ruling.
 
   - id: R12-1-NUMBER_BAN_STRUCK
     pack: Pack Twelve
@@ -838,7 +837,7 @@ rules:
     pack_number: 12
     section: "§6"
     title: The Origin layer, whether it stays mythic
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether mechanism becomes fully explicable while Origin (where the
@@ -853,14 +852,12 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Twelve.md
       lines: "103"
     notes: >-
-      Recommendation: keep Origin mythic (Naruto explains chakra
-      exhaustively but never its origin, and loses nothing); pitched, not
-      decided. Confirmed added to the Open Docket at §8.
+      RULED 2026-09-12: The Origin layer is explicable too; nothing is permanently mythic. Against the pack's recommendation.
 
   - id: R12-7-APPARATUS_CAP_REPLACED
     pack: Pack Twelve
@@ -883,7 +880,7 @@ rules:
       - guide: "WOTR_Companion_Guide_Amendments_Pack_Six.md"
         locus: "Apparatus Rule"
         operation: strikes
-    supersedes: [R6-2-ONE_READ_PER_SCENE]
+    supersedes: [R6-2-ONE_READ_PER_SCENE, R6-13-ONE_READ_CEILING_PENDING]
     applies_to: [magic-mechanism, adjudication]
     verification: []
     ratified: null

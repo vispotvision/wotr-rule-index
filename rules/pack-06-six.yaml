@@ -528,7 +528,7 @@ rules:
     pack_number: 6
     section: "§13"
     title: Is the one-read-per-scene ceiling correct
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the one-read-per-scene ceiling is correct, or a scholar POV
@@ -545,10 +545,7 @@ rules:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "155"
     notes: >-
-      Proposed answer, in force until ruled: the ceiling holds, and active
-      scholarly diagnosis is the single documented exception, capped at one
-      scene per chapter. Moot in any case once R12-7-APPARATUS_CAP_REPLACED
-      strikes the cap outright.
+      Moot: R12-7-APPARATUS_CAP_REPLACED strikes the one-read-per-scene cap in quotable words; a faculty may read as often as the scene needs, at a tempo cost. Closed 2026-09-12.
 
   - id: R6-13-RETROACTIVE_PENDING
     pack: Pack Six

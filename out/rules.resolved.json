@@ -818,7 +818,7 @@
     "pack_number": null,
     "section": "II",
     "title": "Filemu Agamalu's four-slot name",
-    "status": "proposed",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Personal name Filemu (peace/quiet/calm, conferred at birth by the mother's family); aiga Agamalu, Manono Branch; matai title Tausi o le Vā Atoa (Keeper of the Whole Vā); Ava-name Le Ie Tuuina Atu (the fine mat that was given away) — Kharven's records call her Queen, the Agamalu gafa records her as a debt the house placed in the north, and the discrepancy between the two names is itself the political fact.",
     "verbatim": "Personal name Filemu. Peace, quiet, calm. Conferred at birth by the mother's family.",
@@ -836,13 +836,15 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: C-002, Filemu drops the Ava-name",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "23"
     },
-    "notes": "This card's Ava-name slot is the same mechanism the Naming Guide Amendment's \"Agamalu addition\" describes (R20-2-AGAMALU_ADDITION_STRUCK), which the Inner World Naming Amendment later strikes as applied to Moto naming specifically — but the Moto Reversion Ledger says Filemu Agamalu and the whole Agamalu house \"keep Polynesian register, which the amendment never governed.\" Whether this card's own Ava-name survives is the real ambiguity flagged in CONFLICTS.md; this row is left status:proposed (its own pre-existing status, unrelated to that ambiguity) rather than resolved either way.",
-    "superseded_by": []
+    "notes": "C-002 ruled: the Inner World Naming Amendment's strike of the Agamalu addition reaches Filemu's own Ava-name slot (Le Ie Tuuina Atu). Her card is rewritten without it; the rest of the four-slot name is unaffected by this ruling.",
+    "superseded_by": [
+      "R23-1-POLYNESIAN_REGISTER_STRUCK"
+    ]
   },
   {
     "id": "R21-2-FILEMU_NAME_CORRECTION",
@@ -850,7 +852,7 @@
     "pack_number": null,
     "section": "II",
     "title": "The Ayame Yuno card carried a wrong name and a wrong bloodline",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "\"Ayame\" is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely; both are corrected to Filemu Agamalu.",
     "verbatim": "Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.",
@@ -867,7 +869,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "19"
@@ -881,7 +883,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Vāimoana has the most stable Essence saturation ever recorded",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Nothing drifts at Vāimoana, the most stable saturation recorded anywhere in the four quarters, which is why Agamalu rites hold across generations without correction and why the Accord's Research Division has been declined four times, without explanation, on requests to establish a station there.",
     "verbatim": "Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.",
@@ -892,7 +894,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "68"
@@ -906,7 +908,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Vāimoana is a confederation of aiga, not a kingdom",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Vāimoana is a confederation of aiga governed by fono, with no king, standing army, or Guild Accord charter; Kharven's marriage to the house is its only formal mainland tie, ratified as a feagaiga between houses — Kharven believes it gained an ally, the Agamalu believe they placed an obligation, and both are correct.",
     "verbatim": "Not a kingdom. A confederation of aiga governed by fono, with no king, no standing army, and no charter with the Guild Accord.",
@@ -916,7 +918,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "70"
@@ -930,7 +932,7 @@
     "pack_number": null,
     "section": "IV",
     "title": "The six non-crown lines are landless with Sātūlagi struck",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every line's ambition must route through Kharven or through nothing, which is the condition that produced the Tenrai's correction and has not changed since.",
     "verbatim": "With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.",
@@ -940,7 +942,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "98"
@@ -954,7 +956,7 @@
     "pack_number": null,
     "section": "IV",
     "title": "What ruined the ancestral seat is undecided",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "The residual saturation Saruul reads at the ancestral seat is consistent with mass death rather than slow abandonment; Malakar's splitting is the obvious answer and probably the wrong one, since glaciation doesn't leave that kind of imprint and a massacre does.",
     "verbatim": "The seat is described as ruined, and the residual saturation Saruul reads there is consistent with mass death rather than slow abandonment. What ruined it, and when, is undecided.",
@@ -964,12 +966,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "102"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: A massacre, author unnamed for now: mass death by someone's hand, consistent with Saruul's reading; who did it stays open for the story.",
     "superseded_by": []
   },
   {
@@ -1003,7 +1005,7 @@
     "pack_number": null,
     "section": "V",
     "title": "Vāimoana, Vāitele, or Tuāoi",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Whether the island name is confirmed as Vāimoana, or Vāitele (the great space), or Tuāoi (the boundary).",
     "verbatim": "The island name | Vāimoana confirmed, or Vāitele, or Tuāoi.",
@@ -1014,12 +1016,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "108"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Isaac's words: 'A japanese name.' None of the three Polynesian options; the island takes a Japonic-register name, to be proposed (propose_rule) and ratified. Vāimoana is stale once that lands.",
     "superseded_by": []
   },
   {
@@ -1220,7 +1222,7 @@
     "pack_number": null,
     "section": "III",
     "title": "Lines Five to Seven still need governing functions",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Shirogane, Akagane and Amagiri were never assigned governing functions in the source material; that ruling survives the reversion unchanged and is still open.",
     "verbatim": "Lines Five to Seven still need functions. The names come back automatically because they are the received ones, but Shirogane, Akagane and Amagiri were never assigned governing functions in the source material. That ruling survives the reversion unchanged and is still open.",
@@ -1231,12 +1233,12 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "50"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: The reversion table's meanings are the governing functions: Shirogane silver (coin and treasury), Akagane copper (craft and smithing), Amagiri heaven-mist (rites and weather).",
     "superseded_by": []
   },
   {
@@ -1558,7 +1560,9 @@
         "operation": "strikes"
       }
     ],
-    "supersedes": [],
+    "supersedes": [
+      "R21-2-FILEMU_FULL_NAMING"
+    ],
     "applies_to": [
       "naming",
       "worldbuilding"
@@ -1569,7 +1573,7 @@
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "9"
     },
-    "notes": "Confirms R20-2-MOTO_POLYNESIAN_STRUCK and R20-2-AGAMALU_ADDITION_STRUCK. \"Neither register survives anywhere in the Inner World\" (source line 13) is about the Inner World naming baseline this document establishes for Moto specifically — it does not by its own words reach the Agamalu house's own naming for its own members (Filemu Agamalu etc.), which the Moto Reversion Ledger separately says the amendment \"never governed\" (R22-2-UNAFFECTED_CHARACTERS). See CONFLICTS.md for the remaining ambiguity around the shared \"Agamalu addition\" wording.",
+    "notes": "C-002 ruled 2026-09-12: the strike of the Agamalu addition reaches Filemu Agamalu's own Ava-name; R21-2-FILEMU_FULL_NAMING is superseded on that slot.",
     "superseded_by": []
   },
   {
@@ -1889,7 +1893,7 @@
     "pack_number": null,
     "section": "XII",
     "title": "Whether Hild and Robin Ice carry an unheard carried name",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Under this amendment, \"Ice\" is a roll-name the Accord assigned; both Hild and Robin Ice may therefore carry a name nobody in the south has heard — Isaac's call whether that's true of them, and if so it's worth a scene rather than a line.",
     "verbatim": "Hild Ice and Robin Ice. Under this amendment, Ice is a roll-name the Accord assigned. Both may therefore carry a name nobody in the south has ever heard. Your call whether that is true of them, and if it is, it is worth a scene rather than a line.",
@@ -1900,12 +1904,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "215"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Yes: Hild and Robin Ice both carry a name nobody in the south has heard, and it gets a scene, not a line.",
     "superseded_by": []
   },
   {
@@ -2280,7 +2284,7 @@
     "pack_number": null,
     "section": "VII",
     "title": "Taulagi and Afasoa need a new register, Isaac's call",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Taulagi and Afasoa (Polynesian names on Inner World characters, now unsupported) need either a bloodline route (Japonic names as Yuno retainers — proposed Heisuke and Sadamu/Futakoto) or a Northern route (sworn men, Northern names with the epithet kept as an earned byname); untouched, Isaac's call.",
     "verbatim": "Taulagi and Afasoa, Two Words. Polynesian names on Inner World characters, now unsupported by any register.",
@@ -2297,12 +2301,12 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "85-90"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Bloodline route: Taulagi and Afasoa become Yuno retainers with Japonic names (proposed Heisuke and Sadamu/Futakoto); the cards get rewritten.",
     "superseded_by": []
   },
   {
@@ -2336,7 +2340,7 @@
     "pack_number": null,
     "section": "VIII",
     "title": "Steppe-specific Kharven Inventory items should trim or rename",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Airag (and its refusal-insult), borts, aaruul, the deel, and Tengri are steppe items and should go or be renamed; everything else (woodpile, night-stone, Thin Weeks, death-house/Waiting, sky burial, seal fat/blubber lamps, permafrost root cache, meat-sharing, labour-debt, breath-plume, all eight proverbs) survives untouched.",
     "verbatim": "Consequent trims to the Inventory: airag and the insult attached to refusing it, borts, aaruul, the deel, and Tengri are steppe items and should go or be renamed.",
@@ -2347,12 +2351,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "102"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Rename, do not trim: airag (and its refusal-insult), borts, aaruul, the deel and Tengri keep their functions under Northern/permafrost forms. Natalie proposes the names (propose_rule); the Inventory in NATALIE.md is updated when they are ratified.",
     "superseded_by": []
   },
   {
@@ -2386,7 +2390,7 @@
     "pack_number": null,
     "section": "IX",
     "title": "Sātūlagi stays struck for a structural reason, needs confirming",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Sātūlagi was struck by the Agamalu amendment for a structural reason rather than a linguistic one; reverting the naming register does not restore it — needs confirming it stays dead.",
     "verbatim": "Sātūlagi. Struck by the Agamalu amendment for a structural reason rather than a linguistic one. Reverting the register does not restore it. Confirm it stays dead.",
@@ -2397,12 +2401,12 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Inner_World_Naming_Amendment.md",
       "lines": "110"
     },
-    "notes": "Cross-references R21-1-SATULAGI_STRUCK (Canon Amendment, \"Isaac's own direction,\" status:live).",
+    "notes": "RULED 2026-09-12: Confirmed: Sātūlagi stays struck for the structural reason; the six non-crown lines stay landless.",
     "superseded_by": []
   },
   {
@@ -2895,7 +2899,7 @@
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "67"
     },
-    "notes": null,
+    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.",
     "superseded_by": []
   },
   {
@@ -3140,7 +3144,7 @@
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "63"
     },
-    "notes": null,
+    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.",
     "superseded_by": []
   },
   {
@@ -3266,7 +3270,7 @@
     "pack_number": 1,
     "section": "Amendment One",
     "title": "Yoko Mishiro's combat assignment, pitched",
-    "status": "pending",
+    "status": "live",
     "kind": "definition",
     "summary": "Blade grammar; works from the bind, nose reads before eyes so her Indes is genuinely faster than her sight allows, an unfair advantage she does not comment on; answers plate with half-swording into gaps.",
     "verbatim": "Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch",
@@ -3283,7 +3287,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Yoko Mishiro's combat assignment ratified as pitched",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "66"
@@ -5167,7 +5171,7 @@
     "pack_number": 4,
     "section": "Amendment Thirteen",
     "title": "Gloss rights as a character-card field, pending ruling",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Whether \"gloss rights\" becomes a character-card field beside voice: Lambert yes (reading a room is his function), Yoko diagnostic only, Cozbi unlimited (his interiority is the horror), Sodoku never, Emira never (her pathos is noticing without interpreting).",
     "verbatim": "Gloss rights as a character-card field, sitting beside voice. Lambert yes, since reading a room is his function. Yoko diagnostic only. Cozbi unlimited, because his interiority is the horror. Sodoku never. Emira never, since her whole pathos is that she notices and does not interpret.",
@@ -5184,12 +5188,12 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "85"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Adopted as pitched: gloss rights becomes a character-card field. Lambert yes; Yoko diagnostic only; Cozbi unlimited; Sodoku never; Emira never.",
     "superseded_by": []
   },
   {
@@ -6624,7 +6628,7 @@
     "pack_number": 5,
     "section": "C.3",
     "title": "Per-culture narration registers, extended from dialogue",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Free indirect discourse's per-character register licence is raised to a per-culture one: proposed narration registers include Dawi (stressed monosyllables, concrete nouns, sentence-level distrust of abstraction), Eresse (subordination, latinate diction, periodic sentences), Concord human (the house baseline), and Moto (to be built, highest-priority gap).",
     "verbatim": "The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.",
@@ -6642,7 +6646,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Five.md",
       "lines": "92-99"
@@ -6928,7 +6932,7 @@
     "pack_number": 5,
     "section": "F",
     "title": "What the light novel keeps",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.",
     "verbatim": "The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.",
@@ -6945,7 +6949,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Five.md",
       "lines": "142-144"
@@ -6959,7 +6963,7 @@
     "pack_number": 5,
     "section": "F",
     "title": "What the light novel does not keep",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.",
     "verbatim": "- Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.",
@@ -6977,7 +6981,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Five.md",
       "lines": "148-151"
@@ -7078,7 +7082,7 @@
     "pack_number": 5,
     "section": "G",
     "title": "Four new active tells added",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Declarative characterisation and the reaction-shot cutaway (from Section B's confirmed repeal) plus the comedic beat structure and narrator moral adjudication (from Sections D and E, still proposed) are added as active tells.",
     "verbatim": "Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.",
@@ -7095,7 +7099,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Five's remaining proposed rows ratified",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Five.md",
       "lines": "176"
@@ -7455,7 +7459,7 @@
     "pack_number": 6,
     "section": "§13",
     "title": "Is the one-read-per-scene ceiling correct",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Whether the one-read-per-scene ceiling is correct, or a scholar POV in active diagnosis should get more.",
     "verbatim": "The one-read-per-scene ceiling. Correct number, or should a scholar POV in active diagnosis get more?",
@@ -7471,8 +7475,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Six.md",
       "lines": "155"
     },
-    "notes": "Proposed answer, in force until ruled: the ceiling holds, and active scholarly diagnosis is the single documented exception, capped at one scene per chapter. Moot in any case once R12-7-APPARATUS_CAP_REPLACED strikes the cap outright.",
-    "superseded_by": []
+    "notes": "Moot: R12-7-APPARATUS_CAP_REPLACED strikes the one-read-per-scene cap in quotable words; a faculty may read as often as the scene needs, at a tempo cost. Closed 2026-09-12.",
+    "superseded_by": [
+      "R12-7-APPARATUS_CAP_REPLACED"
+    ]
   },
   {
     "id": "R6-13-RETROACTIVE_PENDING",
@@ -9048,7 +9054,7 @@
     "pack_number": 8,
     "section": "1.1",
     "title": "Prose keeps every Pack Seven restriction without exception",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "No sentence in a scene explains why a working produced its effect, no metaphysical quantities appear on the page, and the sheet's full mechanism appears in a scene only as body, room, target and cost.",
     "verbatim": "Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.",
@@ -9066,7 +9072,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "20"
@@ -9080,7 +9086,7 @@
     "pack_number": 8,
     "section": "1.1",
     "title": "The sheet explains; the page never does",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A character sheet, codex entry or technique writeup states the literal operation in plain functional language, with no atmosphere or withholding, so a reader can adjudicate a fight from the sheet alone.",
     "verbatim": "The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.",
@@ -9097,7 +9103,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "16-18"
@@ -9111,7 +9117,7 @@
     "pack_number": 8,
     "section": "1.2",
     "title": "\"Ability naming equals the phenomenon itself\" repealed",
-    "status": "proposed",
+    "status": "live",
     "kind": "repeal",
     "summary": "The Ability Guide line \"ability naming equals the phenomenon itself, Ruin is Ruin\" is repealed by this pack's Section Two.",
     "verbatim": "The Ability Guide line \"ability naming equals the phenomenon itself, Ruin is Ruin\" is repealed by Section Two below.",
@@ -9128,7 +9134,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "26"
@@ -9142,7 +9148,7 @@
     "pack_number": 8,
     "section": "1.2",
     "title": "The operational account moves from workbook to sheet",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter and everything else stays workbook is amended: the Design Chain remains workbook, but the operational account of how an ability functions becomes sheet content.",
     "verbatim": "The Pack Seven ruling that the page gets Effect / Cost / Limit / Counter and everything else is workbook and never published is amended. The Design Chain remains workbook. The operational account of how an ability functions is now sheet content, not workbook content.",
@@ -9159,7 +9165,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "24"
@@ -9173,7 +9179,7 @@
     "pack_number": 8,
     "section": "1.3",
     "title": "The ten-part entry structure, in order",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "An entry runs, in order: true name and gloss, classification block, release (where carried), description (2-6 sentences), techniques (1-3 functional lines each), cost, limit, counter (mandatory on Signature), what nobody knows, and Codex (one line at the foot).",
     "verbatim": "True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.",
@@ -9191,7 +9197,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "30-39"
@@ -9205,7 +9211,7 @@
     "pack_number": 8,
     "section": "1.4",
     "title": "The eight-field classification block, nothing invented",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Class (Offensive/Defensive/Supplementary), Family (one of the Eight), Wellspring (from the Sixty, primary first), Method (one of eight named methods), Physics Domain (one of the Nine), Grade (fixed Tier Grade scale), Range (real units), and Medium — all drawn from live WOTR taxonomy, nothing invented.",
     "verbatim": "Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium",
@@ -9223,7 +9229,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "43-45"
@@ -9237,7 +9243,7 @@
     "pack_number": 8,
     "section": "1.5",
     "title": "The description is written as a manual entry",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.",
     "verbatim": "Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.",
@@ -9255,7 +9261,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "58"
@@ -9269,7 +9275,7 @@
     "pack_number": 8,
     "section": "1.6",
     "title": "\"Overuse strains him\" always fails",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "\"Overuse strains him\" remains a failing drawback and always was.",
     "verbatim": "\"Overuse strains him\" remains a failure and always was.",
@@ -9280,7 +9286,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "64"
@@ -9294,7 +9300,7 @@
     "pack_number": 8,
     "section": "1.6",
     "title": "Drawback numbers are physical, never metaphysical",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Drawback numbers are physical (metres, seconds, kilograms, degrees, counts, durations); never a number attached to Essence, Coherence, resonance or Wellspring output — Pack Seven's metaphysical-units ban holds on the sheet as firmly as on the page.",
     "verbatim": "Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.",
@@ -9311,7 +9317,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "62"
@@ -9325,7 +9331,7 @@
     "pack_number": 8,
     "section": "2.1",
     "title": "This pack's own first draft of Section Two is repealed",
-    "status": "proposed",
+    "status": "live",
     "kind": "repeal",
     "summary": "Pack Eight Section Two's first draft, which set the naming language by filing body, is repealed by the version in this file.",
     "verbatim": "Repeals Pack Eight Section Two's first draft, which set the language by filing body.",
@@ -9335,7 +9341,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "72"
@@ -9349,7 +9355,7 @@
     "pack_number": 8,
     "section": "2.1",
     "title": "A true name belongs to the practitioner's own language",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The true name is in the practitioner's own language; neither the Accord, the Guild, nor the Family has a claim on it, and a register's Latin gloss never appears in the practitioner's own mouth.",
     "verbatim": "The true name is in the practitioner's own language. The Accord has no claim on it, and neither does the Guild or the Family. A Ketsuen swordsman inducted into the Accord does not rename his house's work in Latin because a clerk in Stannvaard needs it alphabetised.",
@@ -9366,7 +9372,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "74"
@@ -9380,7 +9386,7 @@
     "pack_number": 8,
     "section": "2.1",
     "title": "Naming registers are not ethnicity",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A Japonic-sounding name is evidence about a house's linguistic descent and nothing else; this ruling is unchanged from elsewhere.",
     "verbatim": "Naming registers are not ethnicity. This ruling is unchanged. A Japonic-sounding name is evidence about a house's linguistic descent, nothing else.",
@@ -9391,7 +9397,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "88"
@@ -9405,7 +9411,7 @@
     "pack_number": 8,
     "section": "2.1",
     "title": "Naming register by practitioner origin",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.",
     "verbatim": "Where a request specifies a register, that register governs, and the name is built in it before anything else about the ability is decided. Japonic ask, Japonic name. Korean ask, Korean name.",
@@ -9423,7 +9429,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "76"
@@ -9437,7 +9443,7 @@
     "pack_number": 8,
     "section": "2.2",
     "title": "The by-name is where poetry is allowed to live",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.",
     "verbatim": "The by-name, where an art has one, sits after the gloss and is what other characters call it. That is where the poetry is allowed to live.",
@@ -9454,7 +9460,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "94"
@@ -9468,7 +9474,7 @@
     "pack_number": 8,
     "section": "2.2",
     "title": "The gloss is flat and literal, never poetic",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The gloss is the true name's plain English meaning, flat and literal, no poetry or interpretation; if the literal meaning is dull, the name is wrong and gets rebuilt rather than dressed up.",
     "verbatim": "True name, then plain English meaning in parentheses. Kagemusha reads Shadow Warrior. It does not read the technique of hidden purpose. Flat, literal, no poetry, no interpretation. If the literal meaning is dull, the name is wrong and gets rebuilt, and the gloss is never used to dress it up.",
@@ -9484,7 +9490,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "92"
@@ -9498,7 +9504,7 @@
     "pack_number": 8,
     "section": "2.3",
     "title": "Art carries the character; techniques do not",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Naming runs art, then technique, then form; the art carries the character and is spoken once at release then assumed, while individual techniques are spoken every time they are used.",
     "verbatim": "Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are spoken every time they are used.",
@@ -9515,7 +9521,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "98"
@@ -9529,7 +9535,7 @@
     "pack_number": 8,
     "section": "2.4",
     "title": "The release, an optional imperative call",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "An art with a true name may carry a release call (imperative verb plus name); it is never required for the art to function, costs a beat for a measurable output increase, and is spoken indistinguishably by a man in real danger or a man showing off.",
     "verbatim": "An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.",
@@ -9547,7 +9553,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "102-106"
@@ -9561,7 +9567,7 @@
     "pack_number": 8,
     "section": "2.5",
     "title": "New names are for new arts only",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A stronger expression of a known art takes a modifier on the existing true name; new names are reserved for genuinely new arts.",
     "verbatim": "A stronger expression of a known art takes a modifier on the existing true name. New names are for new arts only.",
@@ -9578,7 +9584,7 @@
       "stats"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "110"
@@ -9592,7 +9598,7 @@
     "pack_number": 8,
     "section": "2.6",
     "title": "A working that needs its meaning glossed has failed",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "A working whose meaning must be glossed for the scene to land is a working that failed; fix the working, not the gloss.",
     "verbatim": "A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.",
@@ -9604,7 +9610,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "120"
@@ -9618,7 +9624,7 @@
     "pack_number": 8,
     "section": "2.6",
     "title": "The gloss never appears in prose",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "The gloss never appears in prose, with no translation apposition; the reader gets it from the sheet or from another character explaining it in dialogue for their own reason.",
     "verbatim": "The gloss never appears in prose. No translation apposition. No he spoke the words that meant. The reader takes the gloss from the sheet, or from another character explaining it in dialogue for a reason of their own.",
@@ -9636,7 +9642,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "117"
@@ -9650,7 +9656,7 @@
     "pack_number": 8,
     "section": "2.6",
     "title": "A true name is spoken, never narrated",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "The true name is spoken by a character; it never appears in narration.",
     "verbatim": "The true name is spoken by a character. It never appears in narration.",
@@ -9668,7 +9674,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "116"
@@ -9682,7 +9688,7 @@
     "pack_number": 8,
     "section": "2.6",
     "title": "Nobody translates their own technique aloud",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Nobody translates their own technique's name aloud, ever.",
     "verbatim": "Nobody translates their own technique aloud. Ever.",
@@ -9699,7 +9705,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "118"
@@ -9713,7 +9719,7 @@
     "pack_number": 8,
     "section": "2.6",
     "title": "One release per scene at most",
-    "status": "proposed",
+    "status": "live",
     "kind": "budget",
     "summary": "One release per scene at most; two men releasing in the same scene is an event, not texture.",
     "verbatim": "One release per scene at most. Two men releasing in the same scene is an event, not texture.",
@@ -9730,7 +9736,7 @@
       "scene-structure"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "119"
@@ -9744,7 +9750,7 @@
     "pack_number": 8,
     "section": "2.7",
     "title": "Standing task, a naming pass per culture",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.",
     "verbatim": "Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.",
@@ -9761,7 +9767,7 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "124"
@@ -9775,7 +9781,7 @@
     "pack_number": 8,
     "section": "3",
     "title": "AUCTORITAS and KŌMYAKU, worked entries pending ratification",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in Japanese register) demonstrate the new entry format; per the Ratification Ledger, nothing in them is canon until Isaac rules, and the Division's \"four hundred and six\" catalogued errata count is explicitly self-flagged as an invented, unsized figure.",
     "verbatim": "Two entries in the format, in different registers, to fix the shape.",
@@ -9787,7 +9793,7 @@
       "magic-design"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "130"
@@ -9801,7 +9807,7 @@
     "pack_number": 8,
     "section": "4",
     "title": "The retroactive work, five tasks folded into the cost audit",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Folded into the cost audit: re-cut every existing technique entry into the §1.3 structure; add a classification block to every entry from live taxonomy only, flagging any entry with no legal Codex combination; run the §2.1 naming pass per culture, flagging prose-established names rather than renaming; run a drawback pass checking every Cost line against the overuse-strains-him test and the metaphysical-units ban; write Counter lines onto every Signature technique that lacks one.",
     "verbatim": "Folds into the cost audit instead of running as a separate pass.",
@@ -9819,7 +9825,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eight.md",
       "lines": "189-195"
@@ -9880,7 +9886,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nine.md",
       "lines": "15"
     },
-    "notes": "No R-code is given for any of these items; they trace to an external document (\"The Four Crafts\") not present in sources/, not to a section of this pack itself.",
+    "notes": "RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. Still open: the Law V gate (Stage VII proposed), Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.",
     "superseded_by": []
   },
   {
@@ -10685,7 +10691,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Apparatus inherits its Family's failure modes",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.",
     "verbatim": "Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.",
@@ -10703,7 +10709,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "38"
@@ -10717,7 +10723,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Class geography follows draw distance from a site",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A city's street plan follows where the current runs shallowest; the rich live over the pool, the poor live at the thin margin where lamps gutter through the Thin Weeks.",
     "verbatim": "Cities sit on sites, not on rivers. A seat's street plan is dictated by where the current runs shallowest. Draw falls off with distance from the site. The rich live over the pool. The poor live at the margin where output is thin and the lamps gutter through the Thin Weeks.",
@@ -10727,7 +10733,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "36"
@@ -10741,7 +10747,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Drawdown is the imperial motive",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Old World veins are worked; New World veins are pristine; colonial expansion has a hydrological cause, wars fought over water tables no eye can see.",
     "verbatim": "Drawdown is the imperial motive. Old World veins are worked. The New World's are pristine at densities the Old World has not seen since the Antediluvian Calendar, because nobody has been drawing. Colonial expansion with a hydrological cause.",
@@ -10751,7 +10757,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "40"
@@ -10765,7 +10771,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "The industrial age is hydrology, not combustion",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The technological age runs on Wellsprings as standing currents that pool where substrate/competing-currents/time allow, per The Mechanism of the Sixty; nobody built an engine, they sank a well.",
     "verbatim": "So the industrial age is not combustion. It is hydrology. Nobody built an engine. They sank a well, put a town around it, and grew a guild that decides who may sink another.",
@@ -10776,7 +10782,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "32"
@@ -10790,7 +10796,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "The Measurewrights maintain the Draw without explaining it",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The Guild of Measurewrights (Hexagonal Oath, in concurrence with Research & Archives) wrote the address down but does not explain the mechanism.",
     "verbatim": "The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.",
@@ -10801,7 +10807,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "46"
@@ -10815,7 +10821,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "The Draw-Age silhouette, sensory texture",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.",
     "verbatim": "Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.",
@@ -10826,7 +10832,7 @@
       "standing-inventory"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "42"
@@ -10840,7 +10846,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Common-tongue vs Guild-register draw vocabulary",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "\"The draw, the hum, a standpipe, a housing, the meter, cut off\" are common-tongue and prose-legal under Pack Nine's craft-register carve-out; \"concentration, density, coupling, eta\" are Guild register and document-only.",
     "verbatim": "Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.",
@@ -10858,7 +10864,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "44"
@@ -10872,7 +10878,7 @@
     "pack_number": 11,
     "section": "§3",
     "title": "The three ammunition tiers",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Common shot (cheap, kills men, annoys practitioners), proofed shot (Materia-coupled, Guild-stamped, defeats proofed plate but not a Domain), and the named round (one-shot assassination ordnance, Wellspring-coupled and paid for in advance).",
     "verbatim": "The three ammunition tiers, originated, pending ruling:",
@@ -10889,7 +10895,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "71"
@@ -11023,7 +11029,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "76"
     },
-    "notes": "In live tension with R12-1-EXPLAIN_BAN_STRUCK, which struck exactly the Pack Seven ban this rule cites, both rows being status:live. See CONFLICTS.md C-001.",
+    "notes": "C-001 ruled 2026-09-12: Eleven's ban stands. No sentence explains why a proofed round defeats proofed plate, even after Twelve's general repeal; firearms are the carve-out from mechanism-on-the-page.",
     "superseded_by": []
   },
   {
@@ -11090,7 +11096,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Depth axis: the nested plane model",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A Well is not a hole in the ground; it is a place where the surface (Physical) has thinned enough that the middle layer (Soul) reaches through toward Fate, the deepest plane.",
     "verbatim": "Depth, the nested plane model. Fate deepest, Soul between, Physical at the surface. A Well is not a hole in the ground. It is a place where the surface has thinned enough that the middle layer reaches through.",
@@ -11101,7 +11107,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "97"
@@ -11115,7 +11121,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "A descent's sensory opening inverts toward the body",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A descent's sensory opening favours the body (feet, teeth, pack weight) over the room; the ignorance quota becomes the ambient condition rather than a per-scene quota, and a misidentified encounter type is the best-shaped disaster the setting offers.",
     "verbatim": "Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.",
@@ -11127,7 +11133,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "105"
@@ -11141,7 +11147,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Direction axis: Wild, Spirit and Medium-type Wells",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Wild-type Wells make the environment the enemy (Materia/Spatium dominant); Spirit-type make the Crystal the enemy, authoring the delver from inside (Caloria/Fulguria/some Vectoria) and kill experienced parties; Medium-type are both reciprocally, the largest survey gap.",
     "verbatim": "Direction, the encounter type. This is the whole design grammar and it is better than a monster list.",
@@ -11153,7 +11159,7 @@
       "adjudication"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "90"
@@ -11167,7 +11173,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Magnitude axis: density scale, never invent an intermediate rung",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Magnitude runs Ambient through Core with attested rungs (Ambient Saturation, Active Concentration, Veil-Thin, Core); intermediate rungs must be pulled from source before use and never invented.",
     "verbatim": "Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.",
@@ -11179,7 +11185,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "95"
@@ -11193,7 +11199,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "The Well survey protocol, seven rules as plot devices",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Deploy in pairs with one member outside the radius; take Crystal baselines before the march, never after; never carry Object Wellsprings into Site Wellsprings; withdrawal is not retreat; report Medium-type as priority; every rule is one a character can break, and the Guild has buried those who did.",
     "verbatim": "The survey protocol is already written and is pure scene structure. On Walking Into the Current gives seven rules and every one of them is a plot device. Deploy in pairs with one member outside the radius, because the external observer is the only reliable instrument. Take Crystal baselines before the march, never after. Do not carry Object Wellsprings into Site Wellsprings. Two laws sharing one Shell, unpredictable and frequently catastrophic. Withdrawal is not retreat. Report Medium-type as priority.",
@@ -11205,7 +11211,7 @@
       "scene-structure"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "99"
@@ -11219,7 +11225,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Wells are extraction, never adventure",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "A Core-density Well is the richest draw site that exists; the Guild licenses descents, the Accord taxes them, chartered companies fund them, and delvers are paid like miners — sack-and-contribution logic, no treasure chest.",
     "verbatim": "What the Wells are economically. Extraction, and never adventure. A Well at Core density is the richest draw site that exists and the reason it has not been sunk is that the survey team keeps not coming back. So the Guild licenses descents, the Accord taxes them, chartered companies fund them, and the delvers who go down are paid like miners, which is to say badly and with a bonus that their widow collects. Sack-and-contribution logic. The treasure chest does not exist here.",
@@ -11229,7 +11235,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "103"
@@ -11243,7 +11249,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "A Well is where the landscape has become the law's argument",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "At sufficient concentration, a law the landscape has been measured by for so long that the landscape has become the law's argument, per The Mechanism of the Sixty.",
     "verbatim": "Originated, pending ruling. Derived from canon, not imported from the genre.",
@@ -11254,7 +11260,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "82"
@@ -11268,7 +11274,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Guild register vs common tongue for a Well",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Guild register calls it a Core Concentration; common tongue calls it a Well; going in is a descent, and the people who do it are delvers or well-rats.",
     "verbatim": "Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.",
@@ -11280,7 +11286,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "86"
@@ -11324,7 +11330,7 @@
     "pack_number": 11,
     "section": "§5",
     "title": "Kharven's Standing Inventory reads as periphery",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Kharven's Standing Inventory (permafrost, blubber lamps, weekly-counted woodpiles, no domestic coin) survives and improves, now legible as periphery — the Accord's ledgers reach Kharven, its conduit does not.",
     "verbatim": "The Standing Inventory. Kharven survives intact and improves. Permafrost, blubber lamps, woodpiles counted weekly, no coin domestically. All of that is now legible as periphery. The Accord's ledgers reach Kharven. Its conduit does not. Temür's people burn seal fat while Stannvaard burns nothing at all.",
@@ -11335,7 +11341,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: the originated parts of Pack Eleven ratified with the packs already confirmed",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "118"
@@ -11349,7 +11355,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Does a worked site recharge",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether a worked Wellspring site recharges (managed, corrupt empire) or depletes permanently (predatory, doomed empire).",
     "verbatim": "Does a worked site recharge? Permanent depletion makes the empire predatory and doomed. Recharge makes it managed and corrupt. Both are good books. Isaac's call.",
@@ -11359,12 +11365,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "49"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: A worked site recharges: a managed, corrupt empire, not a doomed one.",
     "superseded_by": []
   },
   {
@@ -11373,7 +11379,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "Can a commoner buy draw",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether draw is a metered utility a commoner can buy or a guild-licence-only good, deciding whether the working class has lamps.",
     "verbatim": "Can a commoner buy draw? Metered utility versus guild-licence-only. Decides whether the setting has a working class with lamps or a working class without them.",
@@ -11383,12 +11389,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "50"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: No: draw is a guild-licence-only good. Commoners burn oil and tallow; the draw-hum is a sound of wealth.",
     "superseded_by": []
   },
   {
@@ -11397,7 +11403,7 @@
     "pack_number": 11,
     "section": "§2",
     "title": "The technology ceiling",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Which of rail, telegraph, print and photography exist, and which have Draw counterparts instead of mechanical ones.",
     "verbatim": "Tech ceiling. Which of rail, telegraph, print, photography exist, and which have Draw counterparts instead of mechanical ones.",
@@ -11407,12 +11413,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "51"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Isaac's words: 'All things that were invented from the beginning of the Victorian Era to the 1900s exist, but only from 1800-1900. No further no earlier.' Rail, telegraph, print and photography all exist mechanically; nothing post-1900.",
     "superseded_by": []
   },
   {
@@ -11421,7 +11427,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Do Wells generate hostile entities, or is the site the threat",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether Wells generate hostile entities, or the site itself is the entire threat.",
     "verbatim": "Do Wells generate hostile entities, or is the site itself the entire threat?",
@@ -11432,12 +11438,12 @@
       "adjudication"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "108"
     },
-    "notes": "Recommendation: the second, hard. Nothing in canon needs monsters, and a Spirit-type Core with nothing living in it is more frightening than anything with teeth.",
+    "notes": "RULED 2026-09-12: Wells generate hostile entities. Against the pack's recommendation; the Bestiary gains a Well-spawn category.",
     "superseded_by": []
   },
   {
@@ -11446,7 +11452,7 @@
     "pack_number": 11,
     "section": "§4",
     "title": "Naming, Well versus Core versus Guild-register term",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "What the common name for a Well should be: Well, Core, or a Guild-register alternative.",
     "verbatim": "Naming: Well versus Core versus something Guild-register. Class-marking opportunity either way.",
@@ -11458,12 +11464,12 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eleven.md",
       "lines": "109"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: The common name is Core.",
     "superseded_by": []
   },
   {
@@ -11564,7 +11570,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Twelve.md",
       "lines": "17"
     },
-    "notes": "Backfilled: supersedes R7-2-TRIGGER_PHYSICAL_NOT_MECHANISM and R7-4-PACK_FIVE_RECONCILED.",
+    "notes": "C-001 ruled 2026-09-12: this repeal does not reach Pack Eleven §3's firearms clause (R11-3-FIREARM_PROSE_LAW), which stands as a carve-out by Isaac's ruling.",
     "superseded_by": []
   },
   {
@@ -12390,7 +12396,8 @@
       }
     ],
     "supersedes": [
-      "R6-2-ONE_READ_PER_SCENE"
+      "R6-2-ONE_READ_PER_SCENE",
+      "R6-13-ONE_READ_CEILING_PENDING"
     ],
     "applies_to": [
       "magic-mechanism",
@@ -12645,7 +12652,7 @@
     "pack_number": 12,
     "section": "§6",
     "title": "The Origin layer, whether it stays mythic",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether mechanism becomes fully explicable while Origin (where the Titans, Archons, the Crevice, the Withering and Epoch-scale events came from) stays permanently mythic and unresolved.",
     "verbatim": "My recommendation, pitched not decided: mechanism becomes fully explicable, and where any of it came from stays mythic. Titans, Archons, the Crevice, the Withering, Epoch-scale events. They generate dread and problems. They never resolve a plot.",
@@ -12656,12 +12663,12 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Twelve.md",
       "lines": "103"
     },
-    "notes": "Recommendation: keep Origin mythic (Naruto explains chakra exhaustively but never its origin, and loses nothing); pitched, not decided. Confirmed added to the Open Docket at §8.",
+    "notes": "RULED 2026-09-12: The Origin layer is explicable too; nothing is permanently mythic. Against the pack's recommendation.",
     "superseded_by": []
   },
   {
@@ -12898,7 +12905,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": "Isaac, 2026-09-11, Claude Code session: ratified by direction (\"most of them are ratified\"); his standing Natalie project instructions treat this pack as live.",
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: all eight seeds ratified (R13-E)",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "57"
@@ -13637,7 +13644,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "Physical-unit ceiling, who may speak in Joules and m/s",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether Joules and metres-per-second are restricted to a Measurewright's or Guild officer's mouth, with weight-and-reach for everyone else.",
     "verbatim": "Physical-unit ceiling. Joules and metres per second in a Measurewright's or Guild officer's mouth only; weight-and-reach for everyone else.",
@@ -13649,12 +13656,12 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "150"
     },
-    "notes": "Recommendation: yes.",
+    "notes": "RULED 2026-09-12: Anyone in diagnostic voice may speak in Joules and metres-per-second, not only Measurewrights and Guild officers. Against the pack's recommendation.",
     "superseded_by": []
   },
   {
@@ -13663,7 +13670,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "Percussion master-strike table, Dawi-authored or Concord",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether the percussion master-strike table is Dawi-authored in-world or Concord.",
     "verbatim": "The percussion master-strike table: Dawi-authored in-world or Concord.",
@@ -13675,12 +13682,12 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "151"
     },
-    "notes": "Recommendation: Dawi, closing half of Docket 18.",
+    "notes": "RULED 2026-09-12: Dawi-authored in-world; closes half of Docket 18.",
     "superseded_by": []
   },
   {
@@ -13689,7 +13696,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "Shot against a worked cuirass, steel or the working stops it",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether steel or the working stops shot against a worked cuirass.",
     "verbatim": "Shot against a worked cuirass: does the steel stop it or the working.",
@@ -13700,12 +13707,12 @@
       "items"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "152"
     },
-    "notes": "Recommendation: the steel, always, or Pack Eleven's economy inverts.",
+    "notes": "RULED 2026-09-12: The working stops shot against a worked cuirass, not the steel. Isaac chose against the pack's recommendation; the consequence the pack warned of (Eleven's armour economy inverting) is his to carry. R11-3-ARMOUR_STOPS_SHRINKING and R11-3-AMMO_TIERS should be read with this: proofed plate holds by its working, and a proofed round beats it by out-coupling that working.",
     "superseded_by": []
   },
   {
@@ -13714,7 +13721,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "May the gap-fill pass change an outcome Isaac wrote",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether the gap-fill pass may change an outcome Isaac wrote when no cause fits.",
     "verbatim": "May the gap-fill pass change an outcome Isaac wrote when no cause fits.",
@@ -13726,12 +13733,12 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "153"
     },
-    "notes": "Recommendation: no. Flag, propose the smallest change, wait.",
+    "notes": "RULED 2026-09-12: Yes: the gap-fill pass may change an outcome Isaac wrote when no cause fits, and says so in the author notes.",
     "superseded_by": []
   },
   {
@@ -13740,7 +13747,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "Ratify the Phenomenon Bank's eight seeds, any, all or none",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether to ratify any, all, or none of the Phenomenon Bank's eight seeds (see R13-3-PHENOMENON_BANK).",
     "verbatim": "The Phenomenon Bank's eight seeds: ratify any, all, or none.",
@@ -13751,12 +13758,12 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "154"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: all eight seeds of the Phenomenon Bank are ratified as canon; see R13-3-PHENOMENON_BANK.",
     "superseded_by": []
   },
   {
@@ -13765,7 +13772,7 @@
     "pack_number": 13,
     "section": "§10",
     "title": "Category naming in diagnostic voice beyond the Apparatus Rule",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether Category naming in diagnostic voice may go beyond the Apparatus Rule's single read per engagement.",
     "verbatim": "Category naming in diagnostic voice beyond the Apparatus Rule's single read.",
@@ -13777,12 +13784,12 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Thirteen.md",
       "lines": "155"
     },
-    "notes": "Recommendation: allow it inside a Measurewright's or opponent's explanation since Twelve already opened that door.",
+    "notes": "RULED 2026-09-12: Yes: Category names may be spoken inside a Measurewright's or opponent's explanation beyond the one read.",
     "superseded_by": []
   },
   {
@@ -14328,7 +14335,7 @@
     "pack_number": 14,
     "section": "§9",
     "title": "Stage names, card vocabulary vs Fracture of Worlds vocabulary",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Cards use Ignition (I) and Temper (IV); Fracture of Worlds and the Codex use Murmuring and Flourishing. Needs one ruling, then a sweep.",
     "verbatim": "Stage names. Cards use Ignition (I) and Temper (IV); Fracture of Worlds and the Codex use Murmuring and Flourishing. One ruling, then a sweep.",
@@ -14340,12 +14347,12 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "114"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: Fracture of Worlds vocabulary governs the Stage names (Murmuring, Welling, Ascension, Flourishing...); the cards' Ignition and Temper are struck. A sweep of the cards is owed (WOTR MCP stale_names does not cover this yet; scheduled).",
     "superseded_by": []
   },
   {
@@ -14354,7 +14361,7 @@
     "pack_number": 14,
     "section": "§9",
     "title": "Sub-Stat names outside a faculty reading",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether Sub-Stat names may ever be spoken outside a faculty reading.",
     "verbatim": "Sub-Stat names outside a faculty reading.",
@@ -14365,12 +14372,12 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "115"
     },
-    "notes": "Recommendation: never.",
+    "notes": "RULED 2026-09-12: Isaac's words: 'They can be named, but do it like how people talk about stats in LitRPGs like Unbound.' Sub-Stat names are speakable in that register: casual, comparative, in a mouth, never narration on its own authority.",
     "superseded_by": []
   },
   {
@@ -14379,7 +14386,7 @@
     "pack_number": 14,
     "section": "§9",
     "title": "Source precedence, Stat Sheet workbook vs Notion cards",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Which source wins, the Stat Sheet workbook or the Notion cards, when a number differs between them.",
     "verbatim": "Source precedence between the Stat Sheet workbook and the Notion cards when a number differs.",
@@ -14390,12 +14397,12 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "116"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: The Stat Sheet workbook wins when a number differs; Notion cards are corrected to match.",
     "superseded_by": []
   },
   {
@@ -14404,7 +14411,7 @@
     "pack_number": 14,
     "section": "§9",
     "title": "Whether Resonant Pair unlocks may be named in diagnostic voice",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether Resonant Pair unlocks (Reactive Cast, Seam Sight, Controlled Detonation) may be named on the page in diagnostic voice.",
     "verbatim": "Whether Resonant Pair unlocks (Reactive Cast, Seam Sight, Controlled Detonation) may be named on the page in diagnostic voice.",
@@ -14415,12 +14422,12 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "117"
     },
-    "notes": "Recommendation: yes, they are exactly what a Measurewright would say.",
+    "notes": "RULED 2026-09-12: Yes; Resonant Pair unlocks may be named in diagnostic voice.",
     "superseded_by": []
   },
   {
@@ -14429,7 +14436,7 @@
     "pack_number": 14,
     "section": "§9",
     "title": "Whether an unchallenged estimate becomes canon after one session",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether an estimate in the Stat Ledger may become canon by default after one session unchallenged.",
     "verbatim": "Whether an estimate in the Stat Ledger may become canon by default after one session unchallenged.",
@@ -14440,12 +14447,12 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fourteen.md",
       "lines": "118"
     },
-    "notes": "Recommendation: no; estimates stay estimates until ratified.",
+    "notes": "RULED 2026-09-12: Isaac's words: 'Only if that estimate is fully confirmed.' An unchallenged estimate does not become canon by default.",
     "superseded_by": []
   },
   {
@@ -15027,7 +15034,7 @@
     "pack_number": 15,
     "section": "§5",
     "title": "Latin chant rule, keep or fold",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether chant-based magic keeps its grammatical-Latin requirement or falls under the register repeal.",
     "verbatim": "Latin chant rule: keep, or fold into the repeal.",
@@ -15039,12 +15046,12 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fifteen.md",
       "lines": "70"
     },
-    "notes": "Pack offers no recommendation on this one. Blocking any chant-based technique written before it is ruled.",
+    "notes": "RULED 2026-09-12: Folded. Chant-based magic falls under the register repeal; the grammatical-Latin requirement is struck. NATALIE.md's Latin line goes.",
     "superseded_by": []
   },
   {
@@ -15053,7 +15060,7 @@
     "pack_number": 15,
     "section": "§5",
     "title": "Whether the four explaining voices still require characterised explanation",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether the four explaining voices (Twelve §4) still require \"characterised\" explanation, or whether a character may simply explain clearly.",
     "verbatim": "Whether the four explaining voices (Twelve §4) still require \"characterised\" explanation, or whether a character may simply explain clearly.",
@@ -15065,12 +15072,12 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fifteen.md",
       "lines": "71"
     },
-    "notes": "Recommendation: clearly wins; character shows in what they explain, not in how ornate it is.",
+    "notes": "RULED 2026-09-12: Clearly wins; character shows in what a voice explains, not how ornate it is.",
     "superseded_by": []
   },
   {
@@ -15079,7 +15086,7 @@
     "pack_number": 15,
     "section": "§5",
     "title": "Whether in-world documents keep any obligation to sound in-world",
-    "status": "pending",
+    "status": "superseded",
     "kind": "open_ruling",
     "summary": "Whether in-world documents keep any obligation to sound in-world.",
     "verbatim": "Whether in-world documents keep any obligation to sound in-world.",
@@ -15090,12 +15097,12 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code ruling session: ruled",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Fifteen.md",
       "lines": "72"
     },
-    "notes": "Recommendation: none; a Guild proofing report may read like a lab report if that is more interesting.",
+    "notes": "RULED 2026-09-12: No obligation; a Guild proofing report may read like a lab report if that is more interesting.",
     "superseded_by": []
   },
   {

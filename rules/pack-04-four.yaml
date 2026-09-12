@@ -223,7 +223,7 @@ rules:
     pack_number: 4
     section: "Amendment Thirteen"
     title: Gloss rights as a character-card field, pending ruling
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether "gloss rights" becomes a character-card field beside voice:
@@ -243,11 +243,13 @@ rules:
     supersedes: []
     applies_to: [character-sheet, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "85"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Adopted as pitched: gloss rights becomes a character-card field. Lambert yes; Yoko diagnostic only; Cozbi unlimited; Sodoku never; Emira never.
+
 
   - id: R4-14-PARAGRAPH_VARIANCE
     pack: Pack Four

@@ -15,7 +15,7 @@ rules:
     pack_number: 8
     section: "1.1"
     title: The sheet explains; the page never does
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A character sheet, codex entry or technique writeup states the
@@ -35,7 +35,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "16-18"
@@ -46,7 +46,7 @@ rules:
     pack_number: 8
     section: "1.1"
     title: Prose keeps every Pack Seven restriction without exception
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       No sentence in a scene explains why a working produced its effect, no
@@ -64,7 +64,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, prose-law, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "20"
@@ -78,7 +78,7 @@ rules:
     pack_number: 8
     section: "1.2"
     title: The operational account moves from workbook to sheet
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       Pack Seven's rule that the page gets only Effect/Cost/Limit/Counter
@@ -98,7 +98,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "24"
@@ -113,7 +113,7 @@ rules:
     pack_number: 8
     section: "1.2"
     title: "\"Ability naming equals the phenomenon itself\" repealed"
-    status: proposed
+    status: live
     kind: repeal
     summary: >-
       The Ability Guide line "ability naming equals the phenomenon itself,
@@ -128,7 +128,7 @@ rules:
     supersedes: []
     applies_to: [naming, magic-design]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "26"
@@ -139,7 +139,7 @@ rules:
     pack_number: 8
     section: "1.3"
     title: The ten-part entry structure, in order
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       An entry runs, in order: true name and gloss, classification block,
@@ -157,7 +157,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, magic-design, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "30-39"
@@ -173,7 +173,7 @@ rules:
     pack_number: 8
     section: "1.4"
     title: The eight-field classification block, nothing invented
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Class (Offensive/Defensive/Supplementary), Family (one of the Eight),
@@ -192,7 +192,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, codex, magic-design]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "43-45"
@@ -203,7 +203,7 @@ rules:
     pack_number: 8
     section: "1.5"
     title: The description is written as a manual entry
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The description is written the way a man teaching it would write it:
@@ -222,7 +222,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, register, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "58"
@@ -233,7 +233,7 @@ rules:
     pack_number: 8
     section: "1.6"
     title: Drawback numbers are physical, never metaphysical
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Drawback numbers are physical (metres, seconds, kilograms, degrees,
@@ -252,7 +252,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, stats]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "62"
@@ -263,7 +263,7 @@ rules:
     pack_number: 8
     section: "1.6"
     title: "\"Overuse strains him\" always fails"
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       "Overuse strains him" remains a failing drawback and always was.
@@ -273,7 +273,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "64"
@@ -284,7 +284,7 @@ rules:
     pack_number: 8
     section: "2.1"
     title: This pack's own first draft of Section Two is repealed
-    status: proposed
+    status: live
     kind: repeal
     summary: >-
       Pack Eight Section Two's first draft, which set the naming language
@@ -296,7 +296,7 @@ rules:
     supersedes: []
     applies_to: [naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "72"
@@ -310,7 +310,7 @@ rules:
     pack_number: 8
     section: "2.1"
     title: A true name belongs to the practitioner's own language
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The true name is in the practitioner's own language; neither the
@@ -328,7 +328,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "74"
@@ -339,7 +339,7 @@ rules:
     pack_number: 8
     section: "2.1"
     title: Naming register by practitioner origin
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Where a request specifies a register, that register governs and the
@@ -359,7 +359,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "76"
@@ -370,7 +370,7 @@ rules:
     pack_number: 8
     section: "2.1"
     title: Naming registers are not ethnicity
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       A Japonic-sounding name is evidence about a house's linguistic
@@ -383,7 +383,7 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "88"
@@ -397,7 +397,7 @@ rules:
     pack_number: 8
     section: "2.2"
     title: The gloss is flat and literal, never poetic
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The gloss is the true name's plain English meaning, flat and
@@ -416,7 +416,7 @@ rules:
     supersedes: []
     applies_to: [naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "92"
@@ -427,7 +427,7 @@ rules:
     pack_number: 8
     section: "2.2"
     title: The by-name is where poetry is allowed to live
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The by-name, where an art has one, sits after the gloss and is what
@@ -443,7 +443,7 @@ rules:
     supersedes: []
     applies_to: [naming, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "94"
@@ -454,7 +454,7 @@ rules:
     pack_number: 8
     section: "2.3"
     title: Art carries the character; techniques do not
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Naming runs art, then technique, then form; the art carries the
@@ -471,7 +471,7 @@ rules:
     supersedes: []
     applies_to: [naming, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "98"
@@ -482,7 +482,7 @@ rules:
     pack_number: 8
     section: "2.4"
     title: The release, an optional imperative call
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       An art with a true name may carry a release call (imperative verb
@@ -502,7 +502,7 @@ rules:
     supersedes: []
     applies_to: [naming, dialogue, combat]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "102-106"
@@ -513,7 +513,7 @@ rules:
     pack_number: 8
     section: "2.5"
     title: New names are for new arts only
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A stronger expression of a known art takes a modifier on the
@@ -528,7 +528,7 @@ rules:
     supersedes: []
     applies_to: [naming, stats]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "110"
@@ -539,7 +539,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: A true name is spoken, never narrated
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       The true name is spoken by a character; it never appears in
@@ -554,7 +554,7 @@ rules:
     supersedes: []
     applies_to: [naming, dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "116"
@@ -565,7 +565,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: The gloss never appears in prose
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       The gloss never appears in prose, with no translation apposition; the
@@ -583,7 +583,7 @@ rules:
     supersedes: []
     applies_to: [naming, prose-law, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "117"
@@ -594,7 +594,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: Nobody translates their own technique aloud
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Nobody translates their own technique's name aloud, ever.
@@ -607,7 +607,7 @@ rules:
     supersedes: []
     applies_to: [naming, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "118"
@@ -618,7 +618,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: One release per scene at most
-    status: proposed
+    status: live
     kind: budget
     summary: >-
       One release per scene at most; two men releasing in the same scene
@@ -633,7 +633,7 @@ rules:
     supersedes: []
     applies_to: [combat, scene-structure]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "119"
@@ -644,7 +644,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: A working that needs its meaning glossed has failed
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       A working whose meaning must be glossed for the scene to land is a
@@ -656,7 +656,7 @@ rules:
     supersedes: []
     applies_to: [naming, prose-law, magic-design]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "120"
@@ -667,7 +667,7 @@ rules:
     pack_number: 8
     section: "2.7"
     title: Standing task, a naming pass per culture
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       A naming pass runs per culture; existing techniques already
@@ -687,7 +687,7 @@ rules:
     supersedes: []
     applies_to: [naming, session-protocol]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "124"
@@ -698,7 +698,7 @@ rules:
     pack_number: 8
     section: "3"
     title: AUCTORITAS and KŌMYAKU, worked entries pending ratification
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Two full worked entries (AUCTORITAS in Latin register, KŌMYAKU in
@@ -712,7 +712,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, naming, magic-design]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "130"
@@ -726,7 +726,7 @@ rules:
     pack_number: 8
     section: "4"
     title: The retroactive work, five tasks folded into the cost audit
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Folded into the cost audit: re-cut every existing technique entry
@@ -746,7 +746,7 @@ rules:
     supersedes: []
     applies_to: [character-sheet, naming, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Pack Eight ratified; see CONFLICTS.md C-003 for R8-11 against Twelve"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eight.md
       lines: "189-195"

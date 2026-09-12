@@ -322,3 +322,42 @@ R22-9-NOTION_BODIES_OUTSTANDING stays pending with the mechanical sweep
 attached: reports/buri_sweep_2026-09-12.md lists 22 wiki pages (67 hits) and
 11 scenes (270 hits) still carrying Büri-register terms; WOTR MCP
 `stale_names` regenerates it. No prose was edited.
+
+### 2026-09-12 — ruling session (Claude Code, AskUserQuestion batches)
+
+Packs ratified: Eleven's originated rows (17), Eight (26), Five's remaining
+rows (4), the Agamalu/Büri Canon Amendment's remaining rows (5). Not
+ratified: Sixteen through Nineteen (72 rows stay proposed).
+
+Conflicts: C-001 closed (Eleven's firearms ban stands as a carve-out from
+Twelve); C-002 closed (Filemu drops the Ava-name; R21-2 superseded on that
+slot by R23-1). C-003 opened: Pack Eight's R8-11 restates the explanation
+ban Twelve struck; Isaac ratified Eight knowing it would be logged.
+
+Open rulings answered (each row superseded, ruling quoted in `ratified`,
+answer in `notes`): R13-A..F, R14-A..E, R15-A..C, R12-A, R11-A..E,
+R23-7/8/9/12, R21-4, R21-5 island name (Japonic register, name to be
+proposed), R22-3, R4-13 gloss rights, R9-1 (Chantcraft folded into
+Spellcraft; Runecraft outranks Spellcraft by culture; four items still
+open), R6-13 one-read ceiling (moot under R12-7). Yoko's combat assignment
+ratified; Black Agent's and Rengai's still pitched. The Phenomenon Bank's
+eight seeds ratified.
+
+Rulings against a pack's recommendation, so Natalie knows they were chosen:
+R13-C (the working stops shot), R13-A (anyone in diagnostic voice may use
+real units), R12-A (Origin is explicable), R11-D (Wells generate entities),
+R13-D (the gap-fill pass may change an outcome).
+
+Checker change, stated plainly: validate.py's open_ruling check now accepts
+`superseded` for a ruled question (it still refuses `live`, and requires the
+ruling in `ratified`). The data had no way to say "answered" otherwise.
+
+Still owed by Isaac: Muken's children (R22-10, he said he would state it);
+Sixteen through Nineteen; Black Agent and Rengai assignments; the four
+remaining R9-1 items. Work scheduled: Filemu's card without the Ava-name;
+Taulagi/Afasoa as Yuno retainers; Northern names for the five steppe
+Inventory items; a Japonic name for the island; the Stage-name sweep of the
+cards (Ignition/Temper -> Murmuring/Flourishing); the Ladder / prose-law pass
+over the scene archive; folding the packs into the base guides.
+
+Totals after: live 399, superseded 78, pending 28, proposed 72.

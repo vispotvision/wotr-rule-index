@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-182 outstanding.
+100 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -14,57 +14,11 @@
 
 > Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.
 
-## R21-2-FILEMU_FULL_NAMING — Filemu Agamalu's four-slot name
-
-*Canon Amendment, Agamalu and Büri Origin II, blocks: naming, character-sheet, worldbuilding*
-
-> Personal name Filemu. Peace, quiet, calm. Conferred at birth by the mother's family.
-
-This card's Ava-name slot is the same mechanism the Naming Guide Amendment's "Agamalu addition" describes (R20-2-AGAMALU_ADDITION_STRUCK), which the Inner World Naming Amendment later strikes as applied to Moto naming specifically — but the Moto Reversion Ledger says Filemu Agamalu and the whole Agamalu house "keep Polynesian register, which the amendment never governed." Whether this card's own Ava-name survives is the real ambiguity flagged in CONFLICTS.md; this row is left status:proposed (its own pre-existing status, unrelated to that ambiguity) rather than resolved either way.
-
-## R21-2-FILEMU_NAME_CORRECTION — The Ayame Yuno card carried a wrong name and a wrong bloodline
-
-*Canon Amendment, Agamalu and Büri Origin II, blocks: naming, character-sheet*
-
-> Ayame is a Japonic given name that was sitting on a Samoan surname, and the card also carried the wrong bloodline entirely. Both are corrected.
-
-## R21-3-VAIMOANA_ESSENCE_STABILITY — Vāimoana has the most stable Essence saturation ever recorded
-
-*Canon Amendment, Agamalu and Büri Origin III, blocks: worldbuilding, magic-mechanism*
-
-> Moderate, and by every Measurewright reading ever taken, the most stable saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana.
-
-## R21-3-VAIMOANA_GOVERNANCE — Vāimoana is a confederation of aiga, not a kingdom
-
-*Canon Amendment, Agamalu and Büri Origin III, blocks: worldbuilding*
-
-> Not a kingdom. A confederation of aiga governed by fono, with no king, no standing army, and no charter with the Guild Accord.
-
-## R21-4-BURI_LANDLESS_LINES — The six non-crown lines are landless with Sātūlagi struck
-
-*Canon Amendment, Agamalu and Büri Origin IV, blocks: worldbuilding*
-
-> With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
-
-Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the post-reversion Japonic names per the Moto Reversion Ledger (R22 §III), not the earlier Mongolian ones — this document is internally mixed, using "Büri" for the house/individuals but already using the reverted line names in this specific passage.
-
-## R21-4-RUIN_OPEN_RULING — What ruined the ancestral seat is undecided
-
-*Canon Amendment, Agamalu and Büri Origin IV, blocks: worldbuilding*
-
-> The seat is described as ruined, and the residual saturation Saruul reads there is consistent with mass death rather than slow abandonment. What ruined it, and when, is undecided.
-
 ## R21-5-FILEMU_VOICE_PENDING — Filemu's voice, proposed as lauga register
 
 *Canon Amendment, Agamalu and Büri Origin V, blocks: dialogue, character-sheet*
 
 > Proposed as lauga register: the sentence arrives with the weight of something already decided, not because it is loud but because a fono has been trained for centuries to receive that cadence as close to law.
-
-## R21-5-ISLAND_NAME_PENDING — Vāimoana, Vāitele, or Tuāoi
-
-*Canon Amendment, Agamalu and Büri Origin V, blocks: naming, worldbuilding*
-
-> The island name | Vāimoana confirmed, or Vāitele, or Tuāoi.
 
 ## R21-5-MATERIAL_CULTURE_PENDING — No Visual Aesthetic Guide pass exists for the bloodline
 
@@ -92,12 +46,6 @@ Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the post-reversio
 
 > Muken's children. Still contested, and the reversion does not settle it.
 
-## R22-3-LINES_FIVE_SEVEN_PENDING — Lines Five to Seven still need governing functions
-
-*Moto Reversion Ledger III, blocks: worldbuilding, naming*
-
-> Lines Five to Seven still need functions. The names come back automatically because they are the received ones, but Shirogane, Akagane and Amagiri were never assigned governing functions in the source material. That ruling survives the reversion unchanged and is still open.
-
 ## R22-9-NOTION_BODIES_OUTSTANDING — Page bodies still read Büri; titles alone are not enough
 
 *Moto Reversion Ledger IX, blocks: documents, verification, naming*
@@ -106,37 +54,13 @@ Line names here (Kōkan, Kurenai, Tenrai, Amagiri) are already the post-reversio
 
 Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
 
-## R23-12-ICE_ROLL_NAME_PENDING — Whether Hild and Robin Ice carry an unheard carried name
-
-*Inner World Naming Amendment XII, blocks: naming, character-sheet*
-
-> Hild Ice and Robin Ice. Under this amendment, Ice is a roll-name the Accord assigned. Both may therefore carry a name nobody in the south has ever heard. Your call whether that is true of them, and if it is, it is worth a scene rather than a line.
-
-## R23-7-TAULAGI_AFASOA_PENDING — Taulagi and Afasoa need a new register, Isaac's call
-
-*Inner World Naming Amendment VII, blocks: naming, character-sheet*
-
-> Taulagi and Afasoa, Two Words. Polynesian names on Inner World characters, now unsupported by any register.
-
-## R23-8-KHARVEN_TRIMS_PENDING — Steppe-specific Kharven Inventory items should trim or rename
-
-*Inner World Naming Amendment VIII, blocks: standing-inventory, worldbuilding*
-
-> Consequent trims to the Inventory: airag and the insult attached to refusing it, borts, aaruul, the deel, and Tengri are steppe items and should go or be renamed.
-
-## R23-9-SATULAGI_STAYS_DEAD_CONFIRM — Sātūlagi stays struck for a structural reason, needs confirming
-
-*Inner World Naming Amendment IX, blocks: worldbuilding, naming*
-
-> Sātūlagi. Struck by the Agamalu amendment for a structural reason rather than a linguistic one. Reverting the register does not restore it. Confirm it stays dead.
-
-Cross-references R21-1-SATULAGI_STRUCK (Canon Amendment, "Isaac's own direction," status:live).
-
 ## R1-1-BLACK_AGENT_ASSIGNED — Black Agent's combat assignment, pitched
 
 *Pack One Amendment One, blocks: combat, character-sheet*
 
 > Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch
+
+Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
 
 ## R1-1-RENGAI_ASSIGNED — Rengai Zettai's combat assignment, post-injury reading pitched
 
@@ -144,11 +68,7 @@ Cross-references R21-1-SATULAGI_STRUCK (Canon Amendment, "Isaac's own direction,
 
 > Rengai Zettai | Percussion | The Return. Post-injury, his field ceiling narrows and the Return becomes his economy rather than his flourish. | Uses the plate. Joints and base. | Pitch. The post-injury reading follows from the Cinder Lung material and needs your confirmation
 
-## R1-1-YOKO_ASSIGNED — Yoko Mishiro's combat assignment, pitched
-
-*Pack One Amendment One, blocks: combat, character-sheet*
-
-> Yoko Mishiro | Blade | Works from the bind. Nose reads before eyes, so her Indes is genuinely faster than her sight allows, which is her signature and should be written as an unfair advantage she does not comment on. | Half-swording into gaps. Precision, not force. | Pitch
+Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
 
 ## R1-OP-RACIAL_VOICE_GAPS — Racial Voice Guide gaps, docket 20, untouched
 
@@ -187,12 +107,6 @@ Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three an
 > Docket 18, Zettari forge-culture substrate. No proposal exists. Oldest unaddressed gap in the project.
 
 Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET); still open as of this pack too.
-
-## R4-13-GLOSS_RIGHTS_PENDING — Gloss rights as a character-card field, pending ruling
-
-*Pack Four Amendment Thirteen, blocks: character-sheet, dialogue*
-
-> Gloss rights as a character-card field, sitting beside voice. Lambert yes, since reading a room is his function. Yoko diagnostic only. Cozbi unlimited, because his interiority is the horror. Sodoku never. Emira never, since her whole pathos is that she notices and does not interpret.
 
 ## R4-OP-COST_TAXONOMY_AUDIT — Cost-taxonomy audit across the major cast, unverified
 
@@ -233,34 +147,6 @@ Cross-referenced by Pack Five §C.3 as making the psychic-distance-band docket i
 > Docket 18, Zettari forge-culture substrate. No proposal exists. Still the oldest unaddressed gap in the project.
 
 Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET); still open as of this pack too.
-
-## R5-C3-NARRATION_REGISTER_EXTENSION — Per-culture narration registers, extended from dialogue
-
-*Pack Five C.3, blocks: register, pov, worldbuilding*
-
-> The extension raises it from a per-character instruction to a per-culture one. Proposed narration registers, to be built out per culture as POVs arrive: - Dawi POV. Stressed monosyllables, short clauses, concrete nouns, tools named by their proper names. Abstractions distrusted at sentence level as well as in dialogue. - Eresse POV. Subordination, latinate diction, periodic sentences that withhold the verb. Time referenced in long units. - Concord human POV. The house baseline. Everything else is measured against it. - Moto POV. To be built. Flagged as the highest-priority gap since it carries the current arc.
-
-This is the "register by culture" rule Pack Fifteen §1 strikes down to flavour ("Available as flavour. Not law."): see R15-1-REGISTER_BY_CULTURE, which should be backfilled to reference this row by id (a demotion since flavour use remains available, so no supersedes link — same policy as other demotions in this corpus).
-
-## R5-F-LIGHT_NOVEL_KEPT — What the light novel keeps
-
-*Pack Five F, blocks: scene-structure, codex*
-
-> The chapter as a hard unit with one clear objective and a hook at close. Serialised discipline, directly relevant to The Withering Road. - Legibility as reader pleasure. The satisfaction of a system the reader can reason inside. This is the whole argument for the Codex and it survives the register change intact. - Fast entry. Chapters open inside the situation.
-
-## R5-F-LIGHT_NOVEL_NOT_KEPT — What the light novel does not keep
-
-*Pack Five F, blocks: prose-law, stats, magic-mechanism*
-
-> - Status screens, panels, HUD-style rendering. Already banned; restated because the light-novel framing invites them back. - Narrator explanation of the system to the reader. Section 3.1's Mechanism Standard delivers mechanism through physical description at trigger points, never as instruction. - The isekai commentary register. Wry narrator asides about the world's rules. - Character-sheet vocabulary surfacing in prose. Stage, Grade, eta and Band are author-facing.
-
-## R5-G-TELL_BANK_ADDITIONS — Four new active tells added
-
-*Pack Five G, blocks: prose-law, verification*
-
-> Add as active tells: declarative characterisation, the reaction-shot cutaway, the comedic beat structure, narrator moral adjudication.
-
-Kept at status:proposed as a whole even though two of its four tells (declarative characterisation, reaction-shot cutaway) trace to the confirmed Section B repeal, since the other two trace to still-proposed Sections D and E; a conservative bundling rather than splitting into four rows.
 
 ## R5-H-CULTURE_REGISTERS_TIMING_PENDING — Build per-culture narration registers now or defer
 
@@ -304,189 +190,11 @@ Until ruled, Natalie writes to the proposed answer (yes, Martin wins) and flags 
 
 > Inventory build order. Kharven and the Moto are drafted. Proposed sequence after: Stannvaard, the Dawi, Ketsuen, Nalūn, the Yukari enclave.
 
-## R6-13-ONE_READ_CEILING_PENDING — Is the one-read-per-scene ceiling correct
-
-*Pack Six §13, blocks: pov, magic-mechanism*
-
-> The one-read-per-scene ceiling. Correct number, or should a scholar POV in active diagnosis get more?
-
-Proposed answer, in force until ruled: the ceiling holds, and active scholarly diagnosis is the single documented exception, capped at one scene per chapter. Moot in any case once R12-7-APPARATUS_CAP_REPLACED strikes the cap outright.
-
 ## R6-13-RETROACTIVE_PENDING — Does a Ladder pass run across the archive
 
 *Pack Six §13, blocks: prose-law, verification*
 
 > Retroactive application. The Cozbi cycle and the enclave scene are the worst offenders in the corpus. Forward-only, or does a Ladder pass get run across the archive?
-
-## R8-11-PROSE_RETAINS_PACK7 — Prose keeps every Pack Seven restriction without exception
-
-*Pack Eight 1.1, blocks: magic-mechanism, prose-law, character-sheet*
-
-> Prose retains every Pack Seven restriction without exception. No sentence in a scene explains why a working produced its effect. No metaphysical quantities on the page. The mechanism written in full on the sheet appears in a scene only as body, room, target and cost.
-
-Stale as of Pack Twelve §1's later live repeal of the underlying Pack Seven ban, but this whole row is status:proposed (Pack Eight was never ratified), so no live conflict is created.
-
-## R8-11-SHEET_EXPLAINS — The sheet explains; the page never does
-
-*Pack Eight 1.1, blocks: character-sheet, magic-mechanism*
-
-> The sheet explains. The page never does. A character sheet, codex entry or technique writeup states the literal operation: what the ability acts on, by what process, and what result it produces. Plain functional language. No atmosphere, no withholding, no rendering the mechanism as sensation. A reader must be able to adjudicate a fight from the sheet alone.
-
-## R8-12-NAMING_EQUALS_PHENOMENON_STRUCK — "Ability naming equals the phenomenon itself" repealed
-
-*Pack Eight 1.2, blocks: naming, magic-design*
-
-> The Ability Guide line "ability naming equals the phenomenon itself, Ruin is Ruin" is repealed by Section Two below.
-
-## R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT — The operational account moves from workbook to sheet
-
-*Pack Eight 1.2, blocks: character-sheet, magic-mechanism*
-
-> The Pack Seven ruling that the page gets Effect / Cost / Limit / Counter and everything else is workbook and never published is amended. The Design Chain remains workbook. The operational account of how an ability functions is now sheet content, not workbook content.
-
-"The Design Chain remains workbook" is stale as of Pack Twelve §3's live restoration of the Design Chain to full prose-legal status (R12-3-DESIGN_CHAIN_RETURNS), but this row is status:proposed, so no live conflict.
-
-## R8-13-ENTRY_STRUCTURE — The ten-part entry structure, in order
-
-*Pack Eight 1.3, blocks: character-sheet, magic-design, naming*
-
-> True name and gloss. Script where the register has one, romanisation, literal English meaning in parentheses, then the by-name if the art has earned one.
-
-This is an "entry" (an art, potentially with several named techniques under it), a different granularity from Pack Twelve/Seventeen's per-technique summary card; possible overlap not reconciled by any pack's own text, so no supersedes/amends contradiction is asserted either way.
-
-## R8-14-CLASSIFICATION_BLOCK — The eight-field classification block, nothing invented
-
-*Pack Eight 1.4, blocks: character-sheet, codex, magic-design*
-
-> Eight fields, all drawn from live WOTR taxonomy. Nothing invented. Class · Family · Wellspring · Method · Physics Domain · Grade · Range · Medium
-
-## R8-15-DESCRIPTION_STYLE — The description is written as a manual entry
-
-*Pack Eight 1.5, blocks: character-sheet, register, prose-law*
-
-> Written the way a man who has to teach it would write it. How the resource divides, what the working acts on, what the target experiences, what breaks it, what happens when it fails. Flat operational prose. No mood, no cadence work, no elegiac register. That belongs in scenes.
-
-## R8-16-OVERUSE_STRAINS_FAILURE — "Overuse strains him" always fails
-
-*Pack Eight 1.6, blocks: character-sheet, verification*
-
-> "Overuse strains him" remains a failure and always was.
-
-## R8-16-PHYSICAL_NUMBERS_ONLY — Drawback numbers are physical, never metaphysical
-
-*Pack Eight 1.6, blocks: character-sheet, stats*
-
-> Numbers where the number is physical: metres, seconds, kilograms, degrees, counts, durations. Never a number attached to Essence, Coherence, resonance or Wellspring output. Pack Seven's ban on metaphysical units holds on the sheet as firmly as on the page.
-
-## R8-21-FIRST_DRAFT_REPEALED — This pack's own first draft of Section Two is repealed
-
-*Pack Eight 2.1, blocks: naming*
-
-> Repeals Pack Eight Section Two's first draft, which set the language by filing body.
-
-The repealed first draft is not a separate file in sources/ — only this final version exists in the corpus — so no supersedes id target exists to point at.
-
-## R8-21-NAME_IN_OWN_LANGUAGE — A true name belongs to the practitioner's own language
-
-*Pack Eight 2.1, blocks: naming, worldbuilding*
-
-> The true name is in the practitioner's own language. The Accord has no claim on it, and neither does the Guild or the Family. A Ketsuen swordsman inducted into the Accord does not rename his house's work in Latin because a clerk in Stannvaard needs it alphabetised.
-
-## R8-21-REGISTER_NOT_ETHNICITY — Naming registers are not ethnicity
-
-*Pack Eight 2.1, blocks: naming, worldbuilding*
-
-> Naming registers are not ethnicity. This ruling is unchanged. A Japonic-sounding name is evidence about a house's linguistic descent, nothing else.
-
-"This ruling is unchanged" implies an existing rule stated elsewhere in the base guides, not newly introduced here; no source in this corpus states it first, so no supersedes/amends target is asserted.
-
-## R8-21-REGISTER_TABLE — Naming register by practitioner origin
-
-*Pack Eight 2.1, blocks: naming, worldbuilding, register*
-
-> Where a request specifies a register, that register governs, and the name is built in it before anything else about the ability is decided. Japonic ask, Japonic name. Korean ask, Korean name.
-
-## R8-22-BY_NAME_POETRY — The by-name is where poetry is allowed to live
-
-*Pack Eight 2.2, blocks: naming, register*
-
-> The by-name, where an art has one, sits after the gloss and is what other characters call it. That is where the poetry is allowed to live.
-
-## R8-22-LITERAL_GLOSS — The gloss is flat and literal, never poetic
-
-*Pack Eight 2.2, blocks: naming*
-
-> True name, then plain English meaning in parentheses. Kagemusha reads Shadow Warrior. It does not read the technique of hidden purpose. Flat, literal, no poetry, no interpretation. If the literal meaning is dull, the name is wrong and gets rebuilt, and the gloss is never used to dress it up.
-
-## R8-23-NAME_HIERARCHY — Art carries the character; techniques do not
-
-*Pack Eight 2.3, blocks: naming, dialogue*
-
-> Art, then technique, then form. The art carries the character. Individual techniques may not. An art is spoken once at release and thereafter assumed. Techniques are spoken every time they are used.
-
-## R8-24-RELEASE_MECHANIC — The release, an optional imperative call
-
-*Pack Eight 2.4, blocks: naming, dialogue, combat*
-
-> An art with a true name may carry a call: an imperative verb plus the name. - The release is never required for the art to function. - Speaking it costs a beat and buys a measurable increase in output. - The man in real danger says it and the man showing off says it, and the difference is not visible from outside.
-
-## R8-25-ESCALATION_SUFFIX — New names are for new arts only
-
-*Pack Eight 2.5, blocks: naming, stats*
-
-> A stronger expression of a known art takes a modifier on the existing true name. New names are for new arts only.
-
-## R8-26-GLOSS_DEPENDENCE_FAILS — A working that needs its meaning glossed has failed
-
-*Pack Eight 2.6, blocks: naming, prose-law, magic-design*
-
-> A working whose meaning must be glossed for the scene to land is a working that failed. Fix the working.
-
-## R8-26-GLOSS_NEVER_IN_PROSE — The gloss never appears in prose
-
-*Pack Eight 2.6, blocks: naming, prose-law, dialogue*
-
-> The gloss never appears in prose. No translation apposition. No he spoke the words that meant. The reader takes the gloss from the sheet, or from another character explaining it in dialogue for a reason of their own.
-
-## R8-26-NAME_NEVER_NARRATED — A true name is spoken, never narrated
-
-*Pack Eight 2.6, blocks: naming, dialogue, prose-law*
-
-> The true name is spoken by a character. It never appears in narration.
-
-## R8-26-NO_SELF_TRANSLATION — Nobody translates their own technique aloud
-
-*Pack Eight 2.6, blocks: naming, dialogue*
-
-> Nobody translates their own technique aloud. Ever.
-
-## R8-26-ONE_RELEASE_PER_SCENE — One release per scene at most
-
-*Pack Eight 2.6, blocks: combat, scene-structure*
-
-> One release per scene at most. Two men releasing in the same scene is an event, not texture.
-
-## R8-27-STANDING_TASK — Standing task, a naming pass per culture
-
-*Pack Eight 2.7, blocks: naming, session-protocol*
-
-> Naming pass per culture. Existing techniques already established in prose are flagged, not renamed. This cashes the release-and-true-name mechanic that has been sitting pitched on the docket since the fifth edition, and it means rewritten first displays across the major cast.
-
-## R8-3-WORKED_EXAMPLES_PENDING — AUCTORITAS and KŌMYAKU, worked entries pending ratification
-
-*Pack Eight 3, blocks: character-sheet, naming, magic-design*
-
-> Two entries in the format, in different registers, to fix the shape.
-
-Full technique flavour text for AUCTORITAS and KŌMYAKU is not extracted row by row — worked-example content per BRIEF, not enforceable rule text.
-
-## R8-4-RETROACTIVE_TASKS — The retroactive work, five tasks folded into the cost audit
-
-*Pack Eight 4, blocks: character-sheet, naming, verification*
-
-> Folds into the cost audit instead of running as a separate pass.
-
-"Priority target: Niran" (source line 197) is a work-prioritisation diagnostic on one character's kit, not extracted — consistent with skipping other packs' retrospective priority lists.
 
 ## R9-1-STILL_OPEN_ITEMS — Craft-structure items this pack leaves undecided
 
@@ -494,263 +202,7 @@ Full technique flavour text for AUCTORITAS and KŌMYAKU is not extracted row by 
 
 > Still open, not decided by this pack, and not to be treated as resolved: Chantcraft accept/reject/fold, the Law V gate (Stage VII proposed), Law III's rewrite, whether Runecraft outranks Spellcraft everywhere or by culture, the golden-age question, and the scope of the Latinate/vernacular doublet. All flagged in the source document's Part Four docket and still Isaac's to rule.
 
-No R-code is given for any of these items; they trace to an external document ("The Four Crafts") not present in sources/, not to a section of this pack itself.
-
-## R11-2-APPARATUS_INHERITS_PHYSICS — Apparatus inherits its Family's failure modes
-
-*Pack Eleven §2, blocks: items, magic-mechanism, worldbuilding*
-
-> Apparatus harmonizes the way a practitioner does. Phase-locking is the canon mechanism and it is not restricted to souls. A machine is a conduit retuned to a current. Therefore every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology straight off the Environmental Coupling table.
-
-## R11-2-CLASS_GEOGRAPHY — Class geography follows draw distance from a site
-
-*Pack Eleven §2, blocks: worldbuilding*
-
-> Cities sit on sites, not on rivers. A seat's street plan is dictated by where the current runs shallowest. Draw falls off with distance from the site. The rich live over the pool. The poor live at the margin where output is thin and the lamps gutter through the Thin Weeks.
-
-## R11-2-DRAWDOWN_MOTIVE — Drawdown is the imperial motive
-
-*Pack Eleven §2, blocks: worldbuilding*
-
-> Drawdown is the imperial motive. Old World veins are worked. The New World's are pristine at densities the Old World has not seen since the Antediluvian Calendar, because nobody has been drawing. Colonial expansion with a hydrological cause.
-
-## R11-2-HYDROLOGY_MODEL — The industrial age is hydrology, not combustion
-
-*Pack Eleven §2, blocks: worldbuilding, magic-mechanism*
-
-> So the industrial age is not combustion. It is hydrology. Nobody built an engine. They sank a well, put a town around it, and grew a guild that decides who may sink another.
-
-## R11-2-MEASUREWRIGHTS — The Measurewrights maintain the Draw without explaining it
-
-*Pack Eleven §2, blocks: worldbuilding, magic-mechanism*
-
-> The Measurewrights are the order that maintains it. Guild of Measurewrights, under the Hexagonal Oath, already canon, already in concurrence with Research & Archives. They wrote the address down. They do not explain it, and Pack Seven means they never will.
-
-"Pack Seven means they never will" cites a now-repealed pack (R12-1-PACK_SEVEN_REPEALED); the practical outcome likely survives anyway under Pack Twelve S6's Mystic Register (rules stated as rules, unexplained — the Measurewrights read as a paradigm Mystic Register voice), but the citation itself is stale. Not raised as a CONFLICTS.md row since this whole row is status:proposed, not live, so nothing live actually contradicts.
-
-## R11-2-SILHOUETTE — The Draw-Age silhouette, sensory texture
-
-*Pack Eleven §2, blocks: worldbuilding, standing-inventory*
-
-> Silhouette. No smokestacks, no soot, no coal. Instead: standpipes and gauge-housings, sealed conduit run along building faces like plumbing, brass and slate and Guild seals, the constant low draw-hum of a district that is drinking, and the sudden silence when a district's draw is cut. That silence is a political act and everyone in earshot knows it.
-
-## R11-2-VOCABULARY_TIERS — Common-tongue vs Guild-register draw vocabulary
-
-*Pack Eleven §2, blocks: register, dialogue, worldbuilding*
-
-> Vocabulary, common tongue, prose-legal under Pack Nine's craft-register carve-out: the draw, the hum, a standpipe, a housing, the meter, cut off. Guild register, document-only: concentration, density, coupling, eta.
-
-## R11-3-AMMO_TIERS — The three ammunition tiers
-
-*Pack Eleven §3, blocks: items, combat*
-
-> The three ammunition tiers, originated, pending ruling:
-
-## R11-4-DEPTH_AXIS — Depth axis: the nested plane model
-
-*Pack Eleven §4, blocks: worldbuilding, magic-mechanism*
-
-> Depth, the nested plane model. Fate deepest, Soul between, Physical at the surface. A Well is not a hole in the ground. It is a place where the surface has thinned enough that the middle layer reaches through.
-
-## R11-4-DESCENT_PROSE_LAW — A descent's sensory opening inverts toward the body
-
-*Pack Eleven §4, blocks: worldbuilding, pov, prose-law*
-
-> Sensory opening inverts toward the body, not the room: what the feet report, what the teeth taste, what the pack's weight is doing. The ignorance quota is not a quota inside a Well, it is the ambient condition. The Apparatus Rule still holds at one read per scene and it should usually be spent wrong, because a misidentified encounter type is the best-shaped disaster available in this setting.
-
-"The Apparatus Rule still holds at one read per scene" is now stale against the live R12-7-APPARATUS_CAP_REPLACED, which struck that cap; not raised as a CONFLICTS.md row since this whole row is status:proposed (unconfirmed), not live, so nothing live actually contradicts Twelve.
-
-## R11-4-DIRECTION_AXIS — Direction axis: Wild, Spirit and Medium-type Wells
-
-*Pack Eleven §4, blocks: worldbuilding, magic-design, adjudication*
-
-> Direction, the encounter type. This is the whole design grammar and it is better than a monster list.
-
-## R11-4-MAGNITUDE_AXIS — Magnitude axis: density scale, never invent an intermediate rung
-
-*Pack Eleven §4, blocks: worldbuilding, magic-mechanism, verification*
-
-> Magnitude, the density scale. Runs Ambient through Core. Attested rungs: Ambient Saturation, Active Concentration, Veil-Thin, Core. Flag: the intermediate rungs need pulling from source before any scene uses them. Never invent one.
-
-## R11-4-SURVEY_PROTOCOL — The Well survey protocol, seven rules as plot devices
-
-*Pack Eleven §4, blocks: worldbuilding, adjudication, scene-structure*
-
-> The survey protocol is already written and is pure scene structure. On Walking Into the Current gives seven rules and every one of them is a plot device. Deploy in pairs with one member outside the radius, because the external observer is the only reliable instrument. Take Crystal baselines before the march, never after. Do not carry Object Wellsprings into Site Wellsprings. Two laws sharing one Shell, unpredictable and frequently catastrophic. Withdrawal is not retreat. Report Medium-type as priority.
-
-The "Object Wellsprings into Site Wellsprings" rule is the same canon example Pack Twelve S6 uses for Mystic Register grammar (see R12-6-RULES_AS_RULES); consistent restatement, not a duplicate rule or a conflict.
-
-## R11-4-WELLS_ECONOMY — Wells are extraction, never adventure
-
-*Pack Eleven §4, blocks: worldbuilding*
-
-> What the Wells are economically. Extraction, and never adventure. A Well at Core density is the richest draw site that exists and the reason it has not been sunk is that the survey team keeps not coming back. So the Guild licenses descents, the Accord taxes them, chartered companies fund them, and the delvers who go down are paid like miners, which is to say badly and with a bonus that their widow collects. Sack-and-contribution logic. The treasure chest does not exist here.
-
-## R11-4-WELLS_ORIGIN — A Well is where the landscape has become the law's argument
-
-*Pack Eleven §4, blocks: worldbuilding, magic-mechanism*
-
-> Originated, pending ruling. Derived from canon, not imported from the genre.
-
-## R11-4-WELL_NAMING — Guild register vs common tongue for a Well
-
-*Pack Eleven §4, blocks: worldbuilding, register, naming*
-
-> Guild register: a Core Concentration. Common tongue: a Well. Going in is a descent. The people who do it are delvers, or well-rats if you dislike them, which most people do.
-
-## R11-5-STANDING_INVENTORY_PERIPHERY — Kharven's Standing Inventory reads as periphery
-
-*Pack Eleven §5, blocks: standing-inventory, worldbuilding*
-
-> The Standing Inventory. Kharven survives intact and improves. Permafrost, blubber lamps, woodpiles counted weekly, no coin domestically. All of that is now legible as periphery. The Accord's ledgers reach Kharven. Its conduit does not. Temür's people burn seal fat while Stannvaard burns nothing at all.
-
-Marked proposed rather than live: depends on SS2's unconfirmed "conduit" economic model, and carries no explicit "Confirmed" marker of its own, unlike the SS1/SS3-derived SS5 rows.
-
-## R11-A — Does a worked site recharge
-
-*Pack Eleven §2, blocks: worldbuilding*
-
-> Does a worked site recharge? Permanent depletion makes the empire predatory and doomed. Recharge makes it managed and corrupt. Both are good books. Isaac's call.
-
-## R11-B — Can a commoner buy draw
-
-*Pack Eleven §2, blocks: worldbuilding*
-
-> Can a commoner buy draw? Metered utility versus guild-licence-only. Decides whether the setting has a working class with lamps or a working class without them.
-
-## R11-C — The technology ceiling
-
-*Pack Eleven §2, blocks: worldbuilding*
-
-> Tech ceiling. Which of rail, telegraph, print, photography exist, and which have Draw counterparts instead of mechanical ones.
-
-## R11-D — Do Wells generate hostile entities, or is the site the threat
-
-*Pack Eleven §4, blocks: worldbuilding, adjudication*
-
-> Do Wells generate hostile entities, or is the site itself the entire threat?
-
-Recommendation: the second, hard. Nothing in canon needs monsters, and a Spirit-type Core with nothing living in it is more frightening than anything with teeth.
-
-## R11-E — Naming, Well versus Core versus Guild-register term
-
-*Pack Eleven §4, blocks: naming, worldbuilding, register*
-
-> Naming: Well versus Core versus something Guild-register. Class-marking opportunity either way.
-
-## R12-A — The Origin layer, whether it stays mythic
-
-*Pack Twelve §6, blocks: worldbuilding, magic-mechanism*
-
-> My recommendation, pitched not decided: mechanism becomes fully explicable, and where any of it came from stays mythic. Titans, Archons, the Crevice, the Withering, Epoch-scale events. They generate dread and problems. They never resolve a plot.
-
-Recommendation: keep Origin mythic (Naruto explains chakra exhaustively but never its origin, and loses nothing); pitched, not decided. Confirmed added to the Open Docket at §8.
-
-## R13-A — Physical-unit ceiling, who may speak in Joules and m/s
-
-*Pack Thirteen §10, blocks: dialogue, register, combat*
-
-> Physical-unit ceiling. Joules and metres per second in a Measurewright's or Guild officer's mouth only; weight-and-reach for everyone else.
-
-Recommendation: yes.
-
-## R13-B — Percussion master-strike table, Dawi-authored or Concord
-
-*Pack Thirteen §10, blocks: combat, worldbuilding, naming*
-
-> The percussion master-strike table: Dawi-authored in-world or Concord.
-
-Recommendation: Dawi, closing half of Docket 18.
-
-## R13-C — Shot against a worked cuirass, steel or the working stops it
-
-*Pack Thirteen §10, blocks: combat, items*
-
-> Shot against a worked cuirass: does the steel stop it or the working.
-
-Recommendation: the steel, always, or Pack Eleven's economy inverts.
-
-## R13-D — May the gap-fill pass change an outcome Isaac wrote
-
-*Pack Thirteen §10, blocks: combat, verification, session-protocol*
-
-> May the gap-fill pass change an outcome Isaac wrote when no cause fits.
-
-Recommendation: no. Flag, propose the smallest change, wait.
-
-## R13-E — Ratify the Phenomenon Bank's eight seeds, any, all or none
-
-*Pack Thirteen §10, blocks: magic-design, codex*
-
-> The Phenomenon Bank's eight seeds: ratify any, all, or none.
-
-## R13-F — Category naming in diagnostic voice beyond the Apparatus Rule
-
-*Pack Thirteen §10, blocks: codex, dialogue, magic-mechanism*
-
-> Category naming in diagnostic voice beyond the Apparatus Rule's single read.
-
-Recommendation: allow it inside a Measurewright's or opponent's explanation since Twelve already opened that door.
-
-## R14-A — Stage names, card vocabulary vs Fracture of Worlds vocabulary
-
-*Pack Fourteen §9, blocks: stats, naming, verification*
-
-> Stage names. Cards use Ignition (I) and Temper (IV); Fracture of Worlds and the Codex use Murmuring and Flourishing. One ruling, then a sweep.
-
-## R14-B — Sub-Stat names outside a faculty reading
-
-*Pack Fourteen §9, blocks: stats, dialogue*
-
-> Sub-Stat names outside a faculty reading.
-
-Recommendation: never.
-
-## R14-C — Source precedence, Stat Sheet workbook vs Notion cards
-
-*Pack Fourteen §9, blocks: stats, verification*
-
-> Source precedence between the Stat Sheet workbook and the Notion cards when a number differs.
-
-## R14-D — Whether Resonant Pair unlocks may be named in diagnostic voice
-
-*Pack Fourteen §9, blocks: stats, dialogue*
-
-> Whether Resonant Pair unlocks (Reactive Cast, Seam Sight, Controlled Detonation) may be named on the page in diagnostic voice.
-
-Recommendation: yes, they are exactly what a Measurewright would say.
-
-## R14-E — Whether an unchallenged estimate becomes canon after one session
-
-*Pack Fourteen §9, blocks: stats, verification*
-
-> Whether an estimate in the Stat Ledger may become canon by default after one session unchallenged.
-
-Recommendation: no; estimates stay estimates until ratified.
-
-## R15-A — Latin chant rule, keep or fold
-
-*Pack Fifteen §5, blocks: magic-design, register, prose-law*
-
-> Latin chant rule: keep, or fold into the repeal.
-
-Pack offers no recommendation on this one. Blocking any chant-based technique written before it is ruled.
-
-## R15-B — Whether the four explaining voices still require characterised explanation
-
-*Pack Fifteen §5, blocks: dialogue, magic-mechanism, prose-law*
-
-> Whether the four explaining voices (Twelve §4) still require "characterised" explanation, or whether a character may simply explain clearly.
-
-Recommendation: clearly wins; character shows in what they explain, not in how ornate it is.
-
-## R15-C — Whether in-world documents keep any obligation to sound in-world
-
-*Pack Fifteen §5, blocks: documents, register*
-
-> Whether in-world documents keep any obligation to sound in-world.
-
-Recommendation: none; a Guild proofing report may read like a lab report if that is more interesting.
+RULED 2026-09-12 (two of the items): Chantcraft is folded into Spellcraft, not a fifth craft; Runecraft outranks Spellcraft by culture, not everywhere. Still open: the Law V gate (Stage VII proposed), Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope.
 
 ## R16-1-CONSEQUENCE — Technical register belongs in the finished narration, converted
 

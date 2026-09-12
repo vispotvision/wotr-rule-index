@@ -121,7 +121,7 @@ rules:
     pack_number: null
     section: "II"
     title: The Ayame Yuno card carried a wrong name and a wrong bloodline
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       "Ayame" is a Japonic given name that was sitting on a Samoan
@@ -138,7 +138,7 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "19"
@@ -149,7 +149,7 @@ rules:
     pack_number: null
     section: "II"
     title: Filemu Agamalu's four-slot name
-    status: proposed
+    status: superseded
     kind: definition
     summary: >-
       Personal name Filemu (peace/quiet/calm, conferred at birth by the
@@ -169,27 +169,19 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: C-002, Filemu drops the Ava-name"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "23"
     notes: >-
-      This card's Ava-name slot is the same mechanism the Naming Guide
-      Amendment's "Agamalu addition" describes (R20-2-AGAMALU_ADDITION_STRUCK),
-      which the Inner World Naming Amendment later strikes as applied to
-      Moto naming specifically — but the Moto Reversion Ledger says
-      Filemu Agamalu and the whole Agamalu house "keep Polynesian
-      register, which the amendment never governed." Whether this card's
-      own Ava-name survives is the real ambiguity flagged in CONFLICTS.md;
-      this row is left status:proposed (its own pre-existing status,
-      unrelated to that ambiguity) rather than resolved either way.
+      C-002 ruled: the Inner World Naming Amendment's strike of the Agamalu addition reaches Filemu's own Ava-name slot (Le Ie Tuuina Atu). Her card is rewritten without it; the rest of the four-slot name is unaffected by this ruling.
 
   - id: R21-3-VAIMOANA_GOVERNANCE
     pack: Canon Amendment, Agamalu and Büri Origin
     pack_number: null
     section: "III"
     title: Vāimoana is a confederation of aiga, not a kingdom
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Vāimoana is a confederation of aiga governed by fono, with no king,
@@ -204,7 +196,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "70"
@@ -215,7 +207,7 @@ rules:
     pack_number: null
     section: "III"
     title: Vāimoana has the most stable Essence saturation ever recorded
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Nothing drifts at Vāimoana, the most stable saturation recorded
@@ -231,7 +223,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "68"
@@ -242,7 +234,7 @@ rules:
     pack_number: null
     section: "IV"
     title: The six non-crown lines are landless with Sātūlagi struck
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       With Sātūlagi struck, the six non-Kōkan/non-crown lines are
@@ -258,7 +250,7 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: the Canon Amendment's remaining proposed rows ratified"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "98"
@@ -274,7 +266,7 @@ rules:
     pack_number: null
     section: "IV"
     title: What ruined the ancestral seat is undecided
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       The residual saturation Saruul reads at the ancestral seat is
@@ -289,18 +281,20 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "102"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: A massacre, author unnamed for now: mass death by someone's hand, consistent with Saruul's reading; who did it stays open for the story.
+
 
   - id: R21-5-ISLAND_NAME_PENDING
     pack: Canon Amendment, Agamalu and Büri Origin
     pack_number: null
     section: "V"
     title: Vāimoana, Vāitele, or Tuāoi
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the island name is confirmed as Vāimoana, or Vāitele (the
@@ -311,11 +305,13 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "108"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Isaac's words: 'A japanese name.' None of the three Polynesian options; the island takes a Japonic-register name, to be proposed (propose_rule) and ratified. Vāimoana is stale once that lands.
+
 
   - id: R21-5-FILEMU_VOICE_PENDING
     pack: Canon Amendment, Agamalu and Büri Origin

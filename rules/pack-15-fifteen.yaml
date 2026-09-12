@@ -194,7 +194,7 @@ rules:
     pack_number: 15
     section: "§5"
     title: Latin chant rule, keep or fold
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether chant-based magic keeps its grammatical-Latin requirement or falls
@@ -205,13 +205,12 @@ rules:
     supersedes: []
     applies_to: [magic-design, register, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "70"
     notes: >-
-      Pack offers no recommendation on this one. Blocking any chant-based
-      technique written before it is ruled.
+      RULED 2026-09-12: Folded. Chant-based magic falls under the register repeal; the grammatical-Latin requirement is struck. NATALIE.md's Latin line goes.
 
   - id: R15-1-RACIAL_VOICE_MENU
     pack: Pack Fifteen
@@ -583,7 +582,7 @@ rules:
     pack_number: 15
     section: "§5"
     title: Whether the four explaining voices still require characterised explanation
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether the four explaining voices (Twelve §4) still require
@@ -597,20 +596,19 @@ rules:
     supersedes: []
     applies_to: [dialogue, magic-mechanism, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "71"
     notes: >-
-      Recommendation: clearly wins; character shows in what they explain,
-      not in how ornate it is.
+      RULED 2026-09-12: Clearly wins; character shows in what a voice explains, not how ornate it is.
 
   - id: R15-C
     pack: Pack Fifteen
     pack_number: 15
     section: "§5"
     title: Whether in-world documents keep any obligation to sound in-world
-    status: pending
+    status: superseded
     kind: open_ruling
     summary: >-
       Whether in-world documents keep any obligation to sound in-world.
@@ -620,10 +618,9 @@ rules:
     supersedes: []
     applies_to: [documents, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Fifteen.md
       lines: "72"
     notes: >-
-      Recommendation: none; a Guild proofing report may read like a lab
-      report if that is more interesting.
+      RULED 2026-09-12: No obligation; a Guild proofing report may read like a lab report if that is more interesting.

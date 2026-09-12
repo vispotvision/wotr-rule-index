@@ -43,7 +43,9 @@ prose-legal (per Twelve's general repeal and Thirteen's phenomenon mandate)
 or still banned (per Eleven's specific, never-explicitly-struck firearms
 clause).
 **Recommendation:** none stated by either pack.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-12: Eleven's ban stands. No
+sentence explains why a proofed round defeats proofed plate; firearms are the
+carve-out from Twelve's general repeal. Both rows carry the ruling in `notes`.
 
 ---
 
@@ -77,6 +79,32 @@ Agamalu's card still carries an Ava-name (Le Ie Tuuina Atu) or whether
 that slot needs to be dropped or replaced along with the rest of the
 Moto-side Polynesian naming.
 **Recommendation:** none stated by any of the three documents.
+**Status:** closed — ruled by Isaac, 2026-09-12: she drops it. The strike of
+the Agamalu addition reaches Filemu's own Ava-name; R21-2-FILEMU_FULL_NAMING
+is superseded on that slot by R23-1-POLYNESIAN_REGISTER_STRUCK, and her card
+is to be rewritten without Le Ie Tuuina Atu.
+
+---
+
+## C-003 — does any sentence explain why a working produced its effect
+
+**Rules:** R8-11-PROSE_RETAINS_PACK7 vs R12-1-EXPLAIN_BAN_STRUCK (and
+R12-3-DESIGN_CHAIN_RETURNS, R12-3-COMBAT_EXCHANGE_OWES)
+**The clash:** Pack Eight §1.1, ratified by Isaac on 2026-09-12 with the rest
+of Pack Eight, restates Pack Seven's rule that no sentence in a scene explains
+why a working produced its effect and no metaphysical quantities appear on the
+page. Pack Twelve §1 struck exactly that ban and §3 returns the Design Chain
+to the page. Twelve names Pack Seven, not Pack Eight, so the strike does not
+reach R8-11 in quotable words. Isaac ratified Eight knowing this row would be
+logged rather than decided.
+**Quotes:** R8-11-PROSE_RETAINS_PACK7's verbatim (Pack Eight §1.1) vs "The
+ban on any sentence explaining why a working produced its effect. Struck."
+(Pack Twelve §1)
+**Consequence if unresolved:** a writer cannot tell whether Eight's
+sheet-explains / prose-withholds split still binds the page, or whether
+Twelve's mechanism-on-the-page regime replaced it wholesale.
+**Recommendation:** none stated by either pack. Reading order (later beats
+earlier) favours Twelve; that is Isaac's rule for reading, not a ruling.
 **Status:** open
 
 ---

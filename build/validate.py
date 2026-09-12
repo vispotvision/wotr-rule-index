@@ -78,13 +78,17 @@ def main() -> int:
                             f"contradiction: {victim['id']} is live but superseded by live {rule['id']}"
                         )
 
-    # open rulings carry an R-code and are never live
+    # open rulings carry an R-code and are never live. Once Isaac answers one it
+    # is marked superseded (the ruling quoted in `ratified`, the answer in
+    # `notes`); it never becomes a live rule itself.
     for rule in rules:
         if rule.get("kind") == "open_ruling":
             if not re.match(r"^R\d{1,2}-[A-Z]$", rule.get("id", "")):
                 fail(rule, "open_ruling id must look like R15-A")
-            if rule.get("status") not in {"pending", "proposed"}:
-                fail(rule, "open_ruling must be pending or proposed, not live")
+            if rule.get("status") not in {"pending", "proposed", "superseded"}:
+                fail(rule, "open_ruling must be pending, proposed or superseded (ruled), not live")
+            if rule.get("status") == "superseded" and not rule.get("ratified"):
+                fail(rule, "a ruled open_ruling must carry the ruling in `ratified`")
 
     counts = Counter(r.get("status") for r in rules)
     print(f"{len(rules)} rules across {len({r['_file'] for r in rules})} files")

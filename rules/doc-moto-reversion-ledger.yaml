@@ -167,7 +167,7 @@ rules:
     pack_number: null
     section: "III"
     title: Lines Five to Seven still need governing functions
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Shirogane, Akagane and Amagiri were never assigned governing
@@ -183,11 +183,13 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Moto_Reversion_Ledger.md
       lines: "50"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: The reversion table's meanings are the governing functions: Shirogane silver (coin and treasury), Akagane copper (craft and smithing), Amagiri heaven-mist (rites and weather).
+
 
   - id: R22-4-SYSTEM_TERMS_TABLE
     pack: Moto Reversion Ledger

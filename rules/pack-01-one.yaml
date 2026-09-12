@@ -286,7 +286,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "63"
-    notes: null
+    notes: >-
+      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
+
 
   - id: R1-1-DOUGOU_ASSIGNED
     pack: Pack One
@@ -350,7 +352,7 @@ rules:
     pack_number: 1
     section: "Amendment One"
     title: Yoko Mishiro's combat assignment, pitched
-    status: pending
+    status: live
     kind: definition
     summary: >-
       Blade grammar; works from the bind, nose reads before eyes so her
@@ -368,7 +370,7 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: Yoko Mishiro's combat assignment ratified as pitched"
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "66"
@@ -400,7 +402,9 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "67"
-    notes: null
+    notes: >-
+      Not ratified in the 2026-09-12 session (Isaac ratified Yoko only); still pitched.
+
 
   - id: R1-1-RESTRICTED_CHARACTERS_EXCLUDED
     pack: Pack One

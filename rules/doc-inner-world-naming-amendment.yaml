@@ -41,7 +41,7 @@ rules:
       - guide: "WOTR_Naming_Guide_Amendment.docx"
         locus: "Part Two, Satulagi/Moto"
         operation: strikes
-    supersedes: []
+    supersedes: [R21-2-FILEMU_FULL_NAMING]
     applies_to: [naming, worldbuilding]
     verification: []
     ratified: 'Isaac, 2026-09-11, Claude Code session: ratified by direction ("most of them are ratified"); his standing Natalie project instructions treat this pack as live.'
@@ -49,15 +49,7 @@ rules:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "9"
     notes: >-
-      Confirms R20-2-MOTO_POLYNESIAN_STRUCK and
-      R20-2-AGAMALU_ADDITION_STRUCK. "Neither register survives anywhere
-      in the Inner World" (source line 13) is about the Inner World
-      naming baseline this document establishes for Moto specifically —
-      it does not by its own words reach the Agamalu house's own naming
-      for its own members (Filemu Agamalu etc.), which the Moto Reversion
-      Ledger separately says the amendment "never governed"
-      (R22-2-UNAFFECTED_CHARACTERS). See CONFLICTS.md for the remaining
-      ambiguity around the shared "Agamalu addition" wording.
+      C-002 ruled 2026-09-12: the strike of the Agamalu addition reaches Filemu Agamalu's own Ava-name; R21-2-FILEMU_FULL_NAMING is superseded on that slot.
 
   - id: R23-2-KOREAN_STRATUM
     pack: Inner World Naming Amendment
@@ -409,7 +401,7 @@ rules:
     pack_number: null
     section: "VII"
     title: Taulagi and Afasoa need a new register, Isaac's call
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Taulagi and Afasoa (Polynesian names on Inner World characters, now
@@ -427,11 +419,13 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "85-90"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Bloodline route: Taulagi and Afasoa become Yuno retainers with Japonic names (proposed Heisuke and Sadamu/Futakoto); the cards get rewritten.
+
 
   - id: R23-8-KHARVEN_INVENTORY_DECOUPLED
     pack: Inner World Naming Amendment
@@ -466,7 +460,7 @@ rules:
     pack_number: null
     section: "VIII"
     title: Steppe-specific Kharven Inventory items should trim or rename
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Airag (and its refusal-insult), borts, aaruul, the deel, and Tengri
@@ -482,18 +476,20 @@ rules:
     supersedes: []
     applies_to: [standing-inventory, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "102"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Rename, do not trim: airag (and its refusal-insult), borts, aaruul, the deel and Tengri keep their functions under Northern/permafrost forms. Natalie proposes the names (propose_rule); the Inventory in NATALIE.md is updated when they are ratified.
+
 
   - id: R23-9-SATULAGI_STAYS_DEAD_CONFIRM
     pack: Inner World Naming Amendment
     pack_number: null
     section: "IX"
     title: Sātūlagi stays struck for a structural reason, needs confirming
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Sātūlagi was struck by the Agamalu amendment for a structural
@@ -507,13 +503,12 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "110"
     notes: >-
-      Cross-references R21-1-SATULAGI_STRUCK (Canon Amendment, "Isaac's
-      own direction," status:live).
+      RULED 2026-09-12: Confirmed: Sātūlagi stays struck for the structural reason; the six non-crown lines stay landless.
 
   - id: R23-9-BRIEF_NEEDS_REPLACING
     pack: Inner World Naming Amendment
@@ -843,7 +838,7 @@ rules:
     pack_number: null
     section: "XII"
     title: Whether Hild and Robin Ice carry an unheard carried name
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Under this amendment, "Ice" is a roll-name the Accord assigned;
@@ -859,8 +854,10 @@ rules:
     supersedes: []
     applies_to: [naming, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code ruling session: ruled"
     source:
       file: WOTR_Inner_World_Naming_Amendment.md
       lines: "215"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: Yes: Hild and Robin Ice both carry a name nobody in the south has heard, and it gets a scene, not a line.
+

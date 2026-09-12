@@ -4,7 +4,11 @@ Read this first in any new session (scheduled or not). Isaac's standing
 direction: inside work he has asked for, make the calls; no "pending" slots.
 `ROADMAP.md` is the plan; this file is the live state of the in-flight jobs.
 
-## In flight on 2026-09-12
+## In flight on 2026-09-12 (session limit hit ~02:30, resets 05:00 America/New_York)
+
+- Inventories: all six landed and reviewed, committed. The reader's codex agent FAILED on the limit: `docs/READERS_CODEX.md` does not exist yet; re-run the codex part (resume workflow `wf_f0f00731-2d0` with its scriptPath; the six inventory agents replay from cache).
+- Trello conversion: 41 of 200 converted files existed when the limit hit; the workflow will have died; resume it as described below.
+- NATALIE.md's Kharven-only inventory line still needs pointing at desktop/inventories/ (the MCP already reads that folder).
 
 ### 1. The Trello conversion (workflow `wf_5988bc5a-45d`)
 - 200 cards staged under `imports/trello/<group>/`; agents write

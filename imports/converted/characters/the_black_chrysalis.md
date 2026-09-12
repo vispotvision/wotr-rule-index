@@ -42,7 +42,7 @@
 ## IV · Primary Stats
 
 **Stage X, Realization** · **Level 262** *(estimate)* · Level Band III · Coherence Band A · Tier of Standing 6, Master · Grade SS · Ceiling 725.
-> **Pool 11,860** · 4,500 from Bands I and II, 1,860 from Band III, 5,500 from Thresholds I to X. **Allocated 11,790.** *A high Stage on a thin Level: she took her Catalyst by curiosity, and the Crystal has not yet earned the density the architecture asks for.*
+> **Pool 11,860** · 4,500 from Bands I and II, 1,860 from Band III, 5,500 from Thresholds I to X. **Allocated 11,790.** *A high Stage on a thin Level: she took her Catalyst by curiosity, and the Crystal has not yet earned the density the architecture asks for.* Pool by the brief's rates; the live Part Three page rates leveling at 1,200 / 1,500 / 1,800 per Band and would give 9,316. **The disagreement is flagged, not resolved.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Gnosis** | **712** | SS | Near ceiling. **The diagnostic eye is the whole discipline** |

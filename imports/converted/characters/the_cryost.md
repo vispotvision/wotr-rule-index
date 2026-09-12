@@ -1,0 +1,14 @@
+# Tovain Zethriel · The Cryost
+
+> **NOT BUILT · STANDING RESTRICTION.** The Volume V — Character Cards standing ruling reads: *"Tovain, and any character connected to him, are not to be written. Cards belonging to him or tied to him are skipped in the migration and flagged by name rather than built."* This card is Tovain's. It is flagged here by name, and no section of the character format has been authored: no identity, no soul architecture, no stats, no traits, no technique, no relationships. **Every slot is pending Isaac**, beginning with the ruling on whether the restriction lifts for this migration. The proper-noun verification below was run before the restriction was found and is recorded for the review pass without any conversion being performed on it.
+
+---
+
+## Verification record (no content authored)
+
+- **Zettai** · Attested archaic bloodline (Rashani Zettai, Rengai Zettai, Dougou Ozumu Zettai, Volume I). The common brief spells the bloodline *Zettari* in the Errata and the Factions summary; the wiki character cards spell it *Zettai*. Both recorded, neither resolved. *Zettai Order (Dormant Cell)* is unattested as an institution.
+- **Niran Yukari** · Attested, Volume I, Card 15: a living Stage VII practitioner, age 19, acting authority over the Yukari Enclave. The card's *"Niran Yukari Psionic Core"* merged into Tovain by a *Dawnguard transference ritual* contradicts that sheet. Conflict recorded, not resolved.
+- **Unattested in current canon** · Dawnguard and the Dawnguard Transference · Dawnguard Celestial Anatomy · the Polar Vault · the Polar Vault Epoch · Cryost as a Wellspring (not among the Sixty; the nearest attested usage is the typology *Cryostatic Preservation Weaver* on Mizuki Moto's card) · the Cryost Axis · the Cryostatic Singularity · the Soul Weave · the Axis Core · Psionic Apotheosis · "Reverberant–Stasis Hybrid" as an Aether Class · the Polar Vault Sealing.
+- **Attested** · Fixatio (Materia, the Binding Flame) · Judicium (Fulguria, the Wellspring of Truth) · the Guild Accord · Stage IX, Invocation (the card's Stage name matches the FOW name).
+- **Figures** · The card's Five Pillars line (8.2e12 EU, 4.5e8 EU/g, 1.2e9 AU/s, η 0.94, Strike 5.0 GN / 12 PJ, Durability 15 PJ / 100 GJ, Mach 44, 500e6 and 250e6 EU discipline costs, 70 percent redirection, 6 second re-synchronization delay, 54 targeted uninfected, 3 networked Wellsprings) would fall under the standing Five Pillars ruling (the Stage wins; η normalised to Band A for Stage IX) if the card were ever built. None of it has been converted here.
+- **Cross-reference** · Kaelzar's card in this same batch (*The Forge That Roars*) names Tovain in one relationship line. That sheet was built, with the line carried as Kaelzar's own quoted opinion and nothing of Tovain authored, and is flagged for Isaac's ruling on whether it too should have been skipped.

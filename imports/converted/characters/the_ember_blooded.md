@@ -41,7 +41,7 @@
 ## IV · Primary Stats
 
 **Stage VII, Refraction** · **Level 212** *(estimate)* · Level Band III · Coherence Band C · Tier of Standing 5, Expert · Grade A with late push toward S · Ceiling 475.
-> **Pool 7,660** · 4,500 from Bands I and II, 360 from Band III, 2,800 from Thresholds I to VII. **Allocated 7,604.**
+> **Pool 7,660** · 4,500 from Bands I and II, 360 from Band III, 2,800 from Thresholds I to VII. **Allocated 7,604.** Pool by the brief's rates; the live Part Three page rates leveling at 1,200 / 1,500 / 1,800 per Band and would give 5,716. **The disagreement is flagged, not resolved.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Harmonics** | **462** | S | Near ceiling. **Nearby Essence keeps his heartbeat. The liaison is the whole discipline** |

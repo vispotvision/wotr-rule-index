@@ -75,10 +75,10 @@
 
 ### Vernal Gate
 
-**Effect** · **He plants the naginata butt, bows once; the floor feels like garden soil; the dying cross without stumbling and the living do not cling.** *Mortalis governs the passage. Verdantia makes the threshold soil rather than stone. Dissolution takes the hands off the dying, because a grip that keeps a soul where it does not belong is a bond the unbound state prefers.*
+**Effect** · **He plants the naginata butt, bows once; the floor feels like garden soil; the dying cross without stumbling and the living do not cling.** *Mortalis governs the passage. Verdantia makes the threshold soil rather than stone. Dissolution takes the hands off the dying. A grip that keeps a soul where it does not belong is a bond the unbound state prefers.*
 **Cost** · **Too many "mercies" in one night leave frost-burn along his palms; tea and quiet earth fix it.** *Physical, and on the card. Cold is heat moved elsewhere: every warmth he puts into a room is drawn through his hands, and the palms are where the bill lands.* **The count of how many is a Tempering number and is pending Isaac.**
 **Limit** · **Stone courts with no green blunt his reach; he needs Lily-Quill or Cassiel to set softer geometry.** *Verdantia has nothing to grow from on bare stone.* **And the Gate is for the dying. A room with nobody dying in it gets a warm floor and nothing else.**
-**Counter** · **A Drum-Domain.** *Coagula sinters two rhythms into one; a Domain that imposes its own beat gives the petals and the Binds a third rhythm neither can fuse to, and the card says the squall shreds until Maelia breaks the beat.* **Or salt the blossoms (Hook 1): a Petal Mantle cleansed mid-procession is a Bloomwarden with no petals for the length of the street.**
+**Counter** · **A Drum-Domain.** *Coagula sinters two rhythms into one. A Domain that imposes its own beat gives the petals and the Binds a third rhythm neither can fuse to. The card says it plainly: the squall shreds until Maelia breaks the beat.* **Or salt the blossoms (Hook 1).** *A Petal Mantle cleansed mid-procession is a Bloomwarden with no petals for the length of the street.*
 > **What nobody knows.** Which lesson he chose to leave in someone, and whether the person it was left in would have chosen it.
 
 ### The other four, each with its Counter

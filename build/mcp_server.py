@@ -20,6 +20,9 @@ Tools
   log_ruling(rule_id, ruling)      record a ruling in RULINGS.md so it gets applied
                              to the index next time Claude Code is in the repo
   sync_now()                 run build/sync.ps1 (Notion <-> GitHub <-> Drive docs)
+  narrate_scene(scene, voice)      render a scene to MP3 with the local Kokoro narrator
+  narration_status()         jobs and links; in --public mode the MP3s are served at
+                             /t/<token>/audio/... so a phone can play them while the PC is on
 
 NOTION_TOKEN is read from the environment, falling back to the user-level
 variable in the registry (Claude Desktop may have been started before it was set).
@@ -1208,11 +1211,197 @@ def gap_fill(markdown: str) -> str:
 
 
 # --------------------------------------------------------------------------
+# narration: render a scene to MP3 with build/audio_export.py on this PC and
+# hand back where to listen (a local path over stdio; over the public server a
+# URL on the same shared-secret route, so a phone can play it if the PC is on)
+
+JOBS_FILE = ROOT / "build" / ".narrate_jobs.json"
+PUBLIC = {"base": "", "token": ""}          # filled in by main() in --token mode
+_WORDS_PER_SECOND = 18.0                    # measured: 3,359 words in 184 s on the 7800X3D
+
+
+def _audio_dir() -> Path:
+    drive = Path(r"G:\My Drive\War of the Realms — Documents\Arcs\Audio")
+    if Path(r"G:\My Drive").exists():
+        return drive
+    return ROOT / "docs" / "audio"
+
+
+def _scene_files() -> list[tuple[Path, str]]:
+    out = []
+    for p in sorted(SCENES.glob("*.md")):
+        if "SUPERSEDED" in p.name.upper() or p.name in ("MANIFEST.md", "ARCS.md", "CAST.md", "TIMELINE.md"):
+            continue
+        head = p.read_text(encoding="utf-8", errors="replace")[:600]
+        m = re.search(r"(?m)^#\s+(.+?)\s*$", head)
+        out.append((p, m.group(1).strip().strip("*") if m else p.stem))
+    return out
+
+
+def _find_scene(query: str) -> tuple[Path | None, list[str]]:
+    q = query.strip().lower()
+    files = _scene_files()
+    exact = [p for p, t in files if p.name.lower() == q or p.stem.lower() == q or t.lower() == q]
+    if exact:
+        return exact[0], []
+    loose = [(p, t) for p, t in files if q in p.name.lower() or q in t.lower()]
+    if len(loose) == 1:
+        return loose[0][0], []
+    return None, [f"{p.name} — {t}" for p, t in loose[:12]]
+
+
+def _jobs() -> list[dict]:
+    if JOBS_FILE.exists():
+        try:
+            return json.loads(JOBS_FILE.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return []
+    return []
+
+
+def _job_state(job: dict) -> str:
+    log = Path(job["log"])
+    if not log.exists():
+        return "starting"
+    tail = log.read_text(encoding="utf-8", errors="replace")[-4000:]
+    if "Traceback" in tail or "unknown voice" in tail or "model files missing" in tail:
+        return "failed"
+    if re.search(r"(?m)^audio: \d+ written", tail):
+        return "done"
+    return "running"
+
+
+def _audio_url(path: Path) -> str:
+    rel = path.relative_to(_audio_dir()).as_posix()
+    if PUBLIC["base"] and PUBLIC["token"]:
+        from urllib.parse import quote
+        return f"{PUBLIC['base']}/t/{PUBLIC['token']}/audio/{quote(rel)}"
+    return str(path)
+
+
+def _audio_mod():
+    sys.path.insert(0, str(ROOT / "build"))
+    import audio_export
+    return audio_export
+
+
+@server.tool()
+def scene_text(scene: str) -> str:
+    """The scene's narration text in the cast-file format: a `# Title` line, paragraphs separated by
+    blank lines, `---` for section breaks, author notes and markdown removed. This is exactly what the
+    narrator reads. To give characters their own voices, insert speaker tags where the voice changes —
+    [Verinus] before a spoken line, [narrator] to return — optionally with delivery after a colon
+    ([Verinus: slow, beat]; words: slow, slower, fast, faster, quiet, loud, whisper, beat, long beat),
+    change nothing else, and pass the result to cast_scene. Untagged text is the narrator's."""
+    path, candidates = _find_scene(scene)
+    if path is None:
+        return ("More than one scene matches; say which:\n  " + "\n  ".join(candidates)) if candidates else f"No scene matches {scene!r}."
+    A = _audio_mod()
+    blocks = A.scene_blocks(path.read_text(encoding="utf-8", errors="replace"))
+    existing = A.cast_path(path)
+    head = f"scene file: {path.name}\ncast file: {'exists — ' + str(existing.relative_to(ROOT)) if existing.exists() else 'none yet'}\n\n"
+    return head + A.plain_text(blocks)
+
+
+@server.tool()
+def cast_scene(scene: str, script: str) -> str:
+    """Save a speaker-tagged script for a scene (scenes/cast/<scene>.cast.md) so narrate_scene renders
+    each character in their own voice. `script` is the text from scene_text with [Name] tags inserted
+    (see scene_text). The tagged text with its tags removed must match the scene word for word — the
+    tool refuses anything that drops or changes words and says where. Speakers with no entry in
+    build/voices.yaml get a stable pool voice; the reply lists them so Isaac can assign voices."""
+    path, candidates = _find_scene(scene)
+    if path is None:
+        return ("More than one scene matches; say which:\n  " + "\n  ".join(candidates)) if candidates else f"No scene matches {scene!r}."
+    A = _audio_mod()
+    blocks = A.scene_blocks(path.read_text(encoding="utf-8", errors="replace"))
+    try:
+        cast = A.parse_cast(script)
+    except SystemExit as e:
+        return f"Not saved: {e}"
+    problem = A.check_cast(blocks, cast)
+    if problem:
+        return f"Not saved — {problem}\nRe-read scene_text and tag it without changing the words."
+    A.CAST_DIR.mkdir(parents=True, exist_ok=True)
+    out = A.cast_path(path)
+    out.write_text(script.replace("\r\n", "\n").rstrip() + "\n", encoding="utf-8")
+    assigned = {str(k) for k in A.load_voices_yaml() if not str(k).startswith("_")}
+    who = A.speakers(cast)
+    missing = [s for s in who if s != "narrator" and s not in assigned]
+    lines = [f"Saved {out.relative_to(ROOT)} — {len(who)} voices: {', '.join(who)}."]
+    if missing:
+        lines.append("No voice assigned yet (they will get a pool voice until build/voices.yaml names one): " + ", ".join(missing))
+    lines.append("Now narrate_scene to render it; an older single-voice render of this scene is replaced.")
+    return "\n".join(lines)
+
+
+@server.tool()
+def narrate_scene(scene: str, voice: str = "narrator") -> str:
+    """Render one scene of the archive to an MP3 with the local narrator (build/audio_export.py), in the
+    background on Isaac's PC. `scene` is a scene file name or title (or a unique part of one). If the
+    scene has a cast file (cast_scene), every tagged speaker gets their own voice from build/voices.yaml
+    and `voice` sets only the narrator; otherwise `voice` reads the whole scene — a built-in Kokoro voice,
+    a voices.yaml name, a custom style file in build/voices/, or a blend like "af_heart:0.6,bm_george:0.4".
+    Returns the job id, a time estimate and where the file will be; narration_status gives the link."""
+    path, candidates = _find_scene(scene)
+    if path is None:
+        if candidates:
+            return "More than one scene matches; say which:\n  " + "\n  ".join(candidates)
+        return f"No scene matches {scene!r}. Scene files are listed in scenes/MANIFEST.md (scene_recall searches them)."
+    words = len(path.read_text(encoding="utf-8", errors="replace").split())
+    est = words / _WORDS_PER_SECOND
+    audio_dir = _audio_dir()
+    audio_dir.mkdir(parents=True, exist_ok=True)
+    jobs = _jobs()
+    running = [j for j in jobs if _job_state(j) == "running"]
+    job_id = datetime.now().strftime("%Y%m%d-%H%M%S")
+    log = ROOT / "build" / f".narrate-{job_id}.log"
+    cmd = [PY, str(ROOT / "build" / "audio_export.py"), "--scene", path.name, "--voice", voice, "--out", str(audio_dir)]
+    flags = subprocess.CREATE_NEW_PROCESS_GROUP | getattr(subprocess, "CREATE_NO_WINDOW", 0) if sys.platform == "win32" else 0
+    with open(log, "w", encoding="utf-8") as lf:
+        subprocess.Popen(cmd, cwd=ROOT, env=_env(), stdout=lf, stderr=subprocess.STDOUT, creationflags=flags)
+    jobs.append({"id": job_id, "scene": path.name, "voice": voice, "log": str(log), "started": datetime.now().isoformat(timespec="seconds"), "words": words})
+    JOBS_FILE.write_text(json.dumps(jobs[-40:], indent=1), encoding="utf-8")
+    note = f" ({len(running)} other render(s) still running; they share the CPU)" if running else ""
+    has_cast = (ROOT / "scenes" / "cast" / f"{path.stem}.cast.md").exists()
+    how = f"with its cast file (narrator voice {voice!r})" if has_cast else f"in one voice, {voice!r}"
+    return (f"Rendering {path.name} {how} — job {job_id}, about {words:,} words, "
+            f"roughly {est/60:.0f} min to render{note}. Output folder: {audio_dir}. "
+            f"Ask narration_status in a few minutes for the link. An unchanged scene already rendered with the same voices is skipped, not re-made.")
+
+
+@server.tool()
+def narration_status(job: str = "") -> str:
+    """Narration jobs started with narrate_scene (running / done / failed) and every rendered scene
+    with the link to play it: over the public connector a URL on this server; on the desktop the file path.
+    Audio also lands in the Google Drive folder War of the Realms — Documents/Arcs/Audio when Drive is mounted."""
+    jobs = [j for j in _jobs() if not job or j["id"] == job]
+    lines = []
+    for j in reversed(jobs[-12:]):
+        state = _job_state(j)
+        extra = ""
+        if state in ("done", "failed"):
+            tail = Path(j["log"]).read_text(encoding="utf-8", errors="replace").strip().splitlines()
+            extra = "  " + (tail[-1][:200] if tail else "")
+        lines.append(f"- {j['id']}  {j['scene']}  voice={j['voice']}  {state}{extra}")
+    if not lines:
+        lines.append("- no jobs recorded yet")
+    audio_dir = _audio_dir()
+    files = sorted(audio_dir.rglob("*.mp3")) + sorted(audio_dir.rglob("*.wav")) if audio_dir.exists() else []
+    out = ["Jobs:"] + lines + ["", f"Rendered ({len(files)}):"]
+    for f in files[-60:]:
+        mins = f.stat().st_size / (96_000 / 8) / 60 if f.suffix == ".mp3" else f.stat().st_size / (24000 * 2) / 60
+        out.append(f"- {f.relative_to(audio_dir).as_posix()}  (~{mins:.0f} min)  {_audio_url(f)}")
+    return "\n".join(out)
+
+
+# --------------------------------------------------------------------------
 # public mode: read-only tools behind a shared secret
 
 # Tools that only read the repo (rules, the wiki mirror, scenes, the table). Every tool
 # not named here writes: scenes/, RULINGS.md, proposals/, table/*.yaml, reports/,
-# Notion pages, git commits and pushes, or runs build/sync.ps1.
+# Notion pages, git commits and pushes, or runs build/sync.ps1. narrate_scene writes
+# only audio files (and burns CPU on this PC), so it is allowed through.
 READ_ONLY_TOOLS = {
     "load_rules", "rule", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
@@ -1220,6 +1409,7 @@ READ_ONLY_TOOLS = {
     "fronts", "due", "roster", "scene_menu",
     "prose_pass", "recurrence_report", "reconcile", "timeline",
     "voice_check", "voice_fingerprints", "gap_fill",
+    "narrate_scene", "narration_status", "scene_text", "cast_scene",
 }
 TOKEN_FILE = ROOT / "build" / ".mcp_token"
 
@@ -1239,14 +1429,40 @@ def shared_token() -> str:
     return tok
 
 
+async def _serve_audio(scope, receive, send, tail: str) -> None:
+    """GET /audio/<relative path> under the token: the rendered MP3s, with Range support so a
+    phone player can seek; /audio/ alone lists them. Nothing outside the audio folder is reachable."""
+    from urllib.parse import unquote
+    from starlette.responses import FileResponse, PlainTextResponse
+    root = _audio_dir().resolve()
+    rel = unquote(tail).replace("\\", "/").strip("/")
+    if not rel:
+        files = sorted(root.rglob("*.mp3")) + sorted(root.rglob("*.wav")) if root.exists() else []
+        body = "\n".join(f.relative_to(root).as_posix() for f in files) or "(nothing rendered yet)"
+        await PlainTextResponse(body + "\n")(scope, receive, send)
+        return
+    target = (root / rel).resolve()
+    if root not in target.parents or target.suffix.lower() not in (".mp3", ".wav") or not target.is_file():
+        await PlainTextResponse("not found\n", status_code=404)(scope, receive, send)
+        return
+    media = "audio/mpeg" if target.suffix.lower() == ".mp3" else "audio/wav"
+    await FileResponse(str(target), media_type=media, filename=target.name, content_disposition_type="inline")(scope, receive, send)
+
+
 def with_token_gate(app, token: str, mount: str = "/mcp"):
     """ASGI wrapper: a request passes only with `Authorization: Bearer <token>` or a
     path of the form /t/<token><mount>... (rewritten to <mount>... for the inner app).
+    /t/<token>/audio/... serves the rendered narration (see _serve_audio).
     Everything else is answered 401 without reaching the MCP transport."""
     prefix = "/t/"
 
     def _ok(a: str, b: str) -> bool:
         return hmac.compare_digest(a.encode("utf-8"), b.encode("utf-8"))
+
+    def _log(scope, path: str, verdict: str) -> None:
+        shown = re.sub(r"^/t/[^/]+", "/t/<token>", path)
+        client = (scope.get("client") or ("?",))[0]
+        print(f"{datetime.now().isoformat(timespec='seconds')} {client} {scope.get('method', '?')} {shown} {verdict}", flush=True)
 
     async def gated(scope, receive, send):
         if scope["type"] != "http":
@@ -1255,19 +1471,28 @@ def with_token_gate(app, token: str, mount: str = "/mcp"):
         path = scope.get("path", "")
         headers = {k.decode("latin-1").lower(): v.decode("latin-1") for k, v in scope.get("headers", [])}
         auth = headers.get("authorization", "")
+        _log(scope, path, "ok" if (auth.lower().startswith("bearer ") and _ok(auth[7:].strip(), token))
+             or (path.startswith(prefix) and _ok(path[len(prefix):].partition("/")[0], token)) else "401")
         if auth.lower().startswith("bearer ") and _ok(auth[7:].strip(), token):
+            if path.startswith("/audio/") or path == "/audio":
+                await _serve_audio(scope, receive, send, path[len("/audio"):])
+                return
             await app(scope, receive, send)
             return
         if path.startswith(prefix):
             rest = path[len(prefix):]
             given, _, tail = rest.partition("/")
-            if _ok(given, token) and ("/" + tail).startswith(mount):
-                new_path = "/" + tail
-                scope = dict(scope)
-                scope["path"] = new_path
-                scope["raw_path"] = new_path.encode("utf-8")
-                await app(scope, receive, send)
-                return
+            if _ok(given, token):
+                if tail == "audio" or tail.startswith("audio/"):
+                    await _serve_audio(scope, receive, send, tail[len("audio"):])
+                    return
+                if ("/" + tail).startswith(mount):
+                    new_path = "/" + tail
+                    scope = dict(scope)
+                    scope["path"] = new_path
+                    scope["raw_path"] = new_path.encode("utf-8")
+                    await app(scope, receive, send)
+                    return
         body = b"unauthorized"
         await send({"type": "http.response.start", "status": 401,
                     "headers": [(b"content-type", b"text/plain"), (b"content-length", str(len(body)).encode())]})
@@ -1284,6 +1509,8 @@ def main() -> int:
     ap.add_argument("--token", action="store_true",
                     help="require the shared secret (WOTR_MCP_TOKEN or build/.mcp_token) on every HTTP request")
     ap.add_argument("--public", action="store_true", help="shorthand for --http --read-only --token")
+    ap.add_argument("--base-url", default=os.environ.get("WOTR_MCP_PUBLIC_URL", "https://ultron.tailf1bfa3.ts.net"),
+                    help="where this server is reachable from outside (the Funnel hostname); used to build audio links")
     ap.add_argument("--log", help="append stdout/stderr to this file (for the scheduled task)")
     args = ap.parse_args()
     if args.public:
@@ -1307,6 +1534,7 @@ def main() -> int:
         print("no shared secret: set WOTR_MCP_TOKEN or write build/.mcp_token (run build/mcp_public_setup.ps1)",
               file=sys.stderr, flush=True)
         return 2
+    PUBLIC["base"], PUBLIC["token"] = args.base_url.rstrip("/"), token
     import uvicorn
     from mcp.server.transport_security import TransportSecuritySettings
     # The SDK's Host-header (DNS-rebinding) check only knows the bind address and would
@@ -1317,7 +1545,9 @@ def main() -> int:
     app = with_token_gate(inner, token)
     print(f"public mode on 127.0.0.1:{args.port}: {len(server._tool_manager._tools)} read-only tools, shared secret required "
           f"(header Bearer <token>, or path /t/<token>/mcp)", flush=True)
-    uvicorn.run(app, host="127.0.0.1", port=args.port, log_level="info")
+    # uvicorn's access log would print the secret on every /t/<token>/... request line, so it is
+    # off; the gate logs its own redacted line per request instead.
+    uvicorn.run(app, host="127.0.0.1", port=args.port, log_level="info", access_log=False)
     return 0
 
 

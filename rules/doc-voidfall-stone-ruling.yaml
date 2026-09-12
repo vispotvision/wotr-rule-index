@@ -1,0 +1,76 @@
+# Standing ruling, originated: no source document. Isaac ruled directly,
+# 2026-09-12, on a question flagged as an open ruling in the author-notes of
+# scenes/02_verinus_testament_of_the_sixty_fifth.md (note 2, "Black stones":
+# "Ruling needed on whether they are Crevice Shale, an analogue, or something
+# new."). Isaac ruled: an analogue. A distinct material, made when Verinus
+# completed the Void (02:121), that Measurewright instruments cannot tell from
+# Crevice Shale at a distance. Entered in the Material Index (T5-T9) at T8 as
+# Voidfall Stone; the Crevice Shale rows on every ledger page are untouched.
+# R28 is the id-numeral bucket assigned by the main session for this ruling.
+# Uses R25-1's "standalone doc, no pack number, empty source.file" pattern for
+# a row with no backing document at all.
+pack: Voidfall Stone / Black Stones Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+rules:
+
+  - id: R28-1-BLACK_STONES_SHALE_ANALOGUE
+    pack: Voidfall Stone / Black Stones Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: The black stones are an analogue of Crevice Shale, not Crevice Shale
+    status: live
+    kind: definition
+    summary: >-
+      The black stones that fell across four worlds when Verinus completed
+      the Void are Voidfall Stone, a distinct T8 material: matte, made not
+      emplaced, and indistinguishable from Crevice Shale to Measurewright
+      instruments at a distance. They are not Crevice Shale. Article III
+      names Crevice Shale specifically and does not name Voidfall Stone, so
+      Enforcement acting under Article III against the stones is acting on a
+      misreading; write it that way. Never put the word "shale" on the
+      narrative page of the Verinus scenes for these stones. The Crevice
+      Shale ledger rows stand unchanged.
+    verbatim: >-
+      Reads as Crevice Shale to a Measurewright's instruments at a distance,
+      and no instrument yet tells the two apart. Not found. Made, when the
+      Void was completed, and what is completed has weight. Whether it acts
+      on Realm law as Shale does is not recorded. Article III names Crevice
+      Shale and does not name this. Enforcement cannot currently tell them
+      apart, and Enforcement has hanged eleven men under Article III without
+      once being asked to explain the sentence. An analogue of Crevice Shale,
+      not Crevice Shale. Article III's wording is now tested
+    amends:
+      - guide: "The Master Material Ledger"
+        locus: "Material Index T8"
+        operation: adds
+    supersedes: []
+    applies_to: [worldbuilding, items, adjudication]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Verbatim is the "What it is" cell of the Voidfall Stone row on
+      wiki/The Master Material Ledger/The Material Index · T5–T9.md (T8
+      band; Notion table_row 3d958200-eb22-81ed-8ba2-eb665a8e3b34), plain
+      text with the bold/italic markup stripped. Behaviour in the row is
+      limited to what the scenes show: matte, "taking the light and giving
+      nothing back", none larger than a loaf, cracked the night-stone beside
+      a Kharven woodpile (02:125); no instrument to read them and no
+      Measurewright to say "shale" (02:129); eleven on the Deepvein station
+      floor with every sealed instrument in the lower vaults at a reading no
+      watchman could account for (06:103). Whether it fractures Realm law as
+      Shale does is deliberately left unrecorded. The Crevice Shale row on
+      the same page carries one appended italic cross-reference to the new
+      row; its own text is unchanged, as are the Shale entries on the Master
+      Material Ledger, the Southern Pan, the Four Ceilings, the Concordance
+      of Ages and the Eight Families pages. Scene 02 note 2 rewritten to a
+      resolved statement; scenes 03:33 and 06:103 are prose using the stones
+      and carry no flag, so untouched. Name chosen in the ledger's own
+      register of plain formation-names (Starcall Pearl, Moonblight Ore,
+      Fatesunder Cord): "Voidfall" states the source and the event and keeps
+      "shale" out of the name, since the point of the ruling is that the
+      stones are not shale and the word is the misreading.

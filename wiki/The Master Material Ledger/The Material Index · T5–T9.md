@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81ab-a443-e7e80d34db3d"
 notion_url: "https://app.notion.com/p/The-Material-Index-T5-T9-3b158200eb2281aba443e7e80d34db3d"
 section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-12T17:02:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -29,7 +29,7 @@ verification: "unverified"
 | **Dawnsilver Thread** *Holding · Thread · Utopia* | Silkworms of the upper canopy in Highspire | Person-addressed binding (inferred) | Reflects radiant spells and **can bind a broken Name back into the soul** if used in ceremonial stitching. *One of the two attestations the Measurewrights use to infer silver's resonance* |
 | **Gloomhide** *Bearing · Leather · South* | Beasts born in forgotten spirit zones | — | Hyper-resilient; **spiritually inert.** Repels light-based castings and weak divine strikes. **The one material in the ledger that is simultaneously an ideal armour backing and completely useless as a substrate** |
 | **Veilbone** *Holding · Organic / Essence Stone* | World fractures near the thinning Veil | — | Hollow-sounding core, spirit-touched. **Every spirit bell in the four quarters is Veilbone or is pretending to be.** *Harvest sites are dangerous* |
-| **Glacium** *Holding · Frost-Infused Mineral · Iampu* | Grown in the ice-caves under Winter Court licence | Cymorath · Caloria · Thermodynamics | **Not quarried in any ordinary sense. Grown**, slowly, in caverns held below freezing for the purpose, **in a process the Winter Court does not document.** Frost-bound weaponry; mercenary payment stock. *No inspection permitted.* **The Logistics Division's standing note:** holding a cavern below freezing for years requires a sustained draw from somewhere, and no vein is registered under the ice-caves. *The Court's position is that the caves are naturally cold. The Division has asked twice how cold and been answered neither time* |
+| **Glacium** *Holding · Frost-Infused Mineral · Iampu* | Grown in the ice-caves under Winter Court licence | Vohrin · Caloria · Thermodynamics | **Not quarried in any ordinary sense. Grown**, slowly, in caverns held below freezing for the purpose, **in a process the Winter Court does not document.** Frost-bound weaponry; mercenary payment stock. *No inspection permitted.* **The Logistics Division's standing note:** holding a cavern below freezing for years requires a sustained draw from somewhere, and no vein is registered under the ice-caves. *The Court's position is that the caves are naturally cold. The Division has asked twice how cold and been answered neither time* |
 
 ---
 
@@ -39,7 +39,7 @@ verification: "unverified"
 | Material | Source | Resonance | What it is |
 |---|---|---|---|
 | **Soulquartz** *Holding · Crystal · Wellspring sites* | Forms in soul wells during Wellspring awakenings | — | Storage of emotional resonance and raw spiritual force. **The nearest thing the ledger has to genuine Essence storage**, which is why the coin volume's whole argument turns on the word *until.* Shatters only under Archon interference |
-| **Frostwool** *Holding · Fabric · Iampu* | Sheared from the frostborn fauna of Iampu | Cymorath (inferred) | Nullifies fire-based drafts and wards against fear glyphs. **Holds temperature balance even near Crevice rifts, which is the property that matters and the one nobody can explain** |
+| **Frostwool** *Holding · Fabric · Iampu* | Sheared from the frostborn fauna of Iampu | Vohrin (inferred) | Nullifies fire-based drafts and wards against fear glyphs. **Holds temperature balance even near Crevice rifts, which is the property that matters and the one nobody can explain** |
 | **Grimbarite** *Holding · Stone · South* | Buried beneath the Crevice fault system | — | Repels Fate and Name manipulation. Heavy, silent in all forms, **absorbs prayer.** Anti-scrying construction and sealed vaults. **Extraction requires working inside the Crevice margin, and the mortality figures for Grimbarite crews are not published** |
 | **Whiteshard** *Holding · Mineral* | Forged in radiant Wellspring eruptions | Luminalis (inferred) | Reflects spiritlight and resists holy corruption. **Glows when a lie is spoken nearby, which has ended more negotiations than it has assisted** |
 | **Glyphed Myrrhstone** *Holding · Alchemical Compound · West* | Compounded in sacred vaults beneath Lurien | Fixatio (inferred) | Semi-liquid under moonlight, **hardens under oath.** Glyphs written on it are immune to time or weather. **The physical basis of permanent law in the western quarter.** *Requires an oath to set at all* |
@@ -72,6 +72,7 @@ verification: "unverified"
 | **Starcall Pearl** *Holding · Alchemical Gem* | Formed when fallen stars crash into sacred springs | Summoning ancient Echoes. **Fails if handled by the impure** — *the purity requirement is functional rather than moral and has killed people who assumed otherwise* |
 | **Chronoglass** *Holding · Temporal Crystal* | Crystallised timefold remnants | Anamnesis (inferred) · Limina · Abstract/Entropic. Traps a moment permanently. **Impossible to lie within. The Paradox Wardens' entire jurisprudence rests on this one property.** *Shatters only when a temporal contradiction is introduced* |
 | **Abythros Thread** *Holding · Spirit Fabric* | Sewn in the Abythron Temple-Cradles | Abython (inferred). Shields against Realmwide spiritual collapse. **Required to survive in collapsed Divine Realms, which is a short list of people and a shorter list of returns** |
+| **Voidfall Stone** *Holding · Stone* | The completed Void. Made, not emplaced; fell across four worlds | Matte. Takes the light and gives nothing back, where Crevice Shale glows black. None larger than a loaf. Cracked the night-stone beside where it landed; sealed instruments near it sit at readings no watchman can account for. **Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart.** Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. **Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart**, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. *An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested* |
 
 ---
 
@@ -82,7 +83,7 @@ verification: "unverified"
 |---|---|---|
 | **Nullglass** | Theorised to predate Reality | Nullifies Aether, Name, Fate and Soul. **Cannot be touched without ceasing to exist.** *The handling problem is the material. There is no recorded safe procedure* |
 | **Ash of Names** | Produced only when a True Name is erased from fate | Oblivara (inferred). Rewrites memory of existence. Presence alone causes written glyphs to vanish. **Resists record, which means the Accord's own ledger of it is necessarily incomplete and known to be** |
-| **Crevice Shale** *South* | The Crevice itself | Glows black. Fractures nearby Realm law, **including protective law.** Forbidden to move, hold, or trade under Article III. **Recorded in the ledger at all because a ledger that omits it is a ledger somebody will trust.** *The only Accord law written about a rock* |
+| **Crevice Shale** *South* | The Crevice itself | Glows black. Fractures nearby Realm law, **including protective law.** Forbidden to move, hold, or trade under Article III. **Recorded in the ledger at all because a ledger that omits it is a ledger somebody will trust.** *The only Accord law written about a rock* *See Voidfall Stone, T8: an analogue that reads as Shale at a distance and is not named in Article III. Enforcement cannot yet tell the two apart* |
 | **Fatesunder Cord** | Harvested from collapsed prophecy threads | Severs a person from their destined end. **When tied around someone, fate reboots. What it reboots to is not part of the working** |
 | **Red Ecliptite** | Failed divine births or Archon deaths | Immortality work. **Drives users mad unless tempered by a Wellspring.** *The tempering requirement is the whole of its practical history. Everyone who skipped it is a cautionary entry* |
 | **The Hollow Crown** | **Appears only to those who abandon the Veil** | Renders Name irrelevant. **Wearing it erases you from all soul-registry across Realms.** Turns the user into a walking paradox. *Listed as a material because it behaves like one and as a relic because it chooses* |

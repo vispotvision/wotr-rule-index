@@ -42,38 +42,55 @@ are made, not left pending.
 - [ ] A reader's codex: the trimmed version of the wiki
 - [x] Epub build
 
-## Folding packs into base guides — first four done, 2026-09-12
+## Folding packs into base guides — eleven done, 2026-09-12
 
 Isaac: "yes — start folding the packs in now." 18 base guides live at
 `C:\Users\isaac\Documents\WOTR True Canon\`; each amendment rule names its
-target guide in its `amends.guide` field. The four most-amended guides are
-done -- each got a new dated edition alongside the original (never
-overwritten), with a changelog listing every rule ID folded in and any
-judgment call flagged rather than silently made:
+target guide in its `amends.guide` field. Eleven guides are done -- each
+got a new dated edition alongside the original (never overwritten), with a
+changelog listing every rule ID folded in and any judgment call flagged
+rather than silently made. Every edition after the first four went through
+a write → adversarial check → bounded fix → re-check loop, and the
+changelog records each pass. (Drive for Desktop mirrors that folder: rapid
+successive edits to one file can be rolled back to a stale snapshot — it
+happened once — so write an edition in as few saves as possible and
+verify the byte count after.)
 
 - [x] `WOTR_Master_Style_Directive (2026-09-12 edition).md` — 86 amendments folded; 3 judgment calls flagged (a same-day narration-authority supersession applied despite falling outside the strict amends-field filter; a scope-narrowing read reconciling Pack Five vs. Twelve/Sixteen on prose texture; one non-target-guide clarification folded into the chemistry-ban text)
 - [x] `WOTR_Ability_Technique_Design_Guide (2026-09-12 edition).md` — 56 amendments folded; 2 flagged (the legacy Corruption Vector field kept as non-mandatory pending a future pack; the naming-strike rule deferred to the Character Naming Guide rather than importing its content)
 - [x] `WOTR_Character_Naming_Guide (2026-09-12 edition).md` — 47 amendments folded; reflects today's Ayame Yuno/Yasoshima rulings; C-005/C-006 (Zettai vs. Zettari) correctly left open, not guessed at; both ruled later that day and folded into the edition's changelog addendum (Zettari; the Zettari carved out of the Japonic stratum, R32-1)
 - [x] `WOTR_Combat_Craft_Guide (2026-09-12 edition).md` — 29 amendments folded, plus the 7 live named-character combat assignments in the main body and the 2 still-proposed ones (Wren, Edward Lambert) in a clearly marked pending-review appendix
 
-Remaining ~14 guides, by amendment count: Manual Verification Guide (21),
-Scene Writing Process Guide (19), Mass Combat Craft Guide (18), Racial
-Voice and Dialect Guide (15), Dialogue Craft Standards (9), AI Writing
-Tells to Avoid (8), Visual Aesthetic Guide (8, plus the new Moto
-material-culture proposal once ratified), Item and Equipment Writing
-Guide (7), and the rest with only 1-6 amendments each -- pick up in a
-later session the same way (one agent per guide, same prompt shape).
+- [x] `WOTR_Scene_Writing_Process_Guide (2026-09-12 edition).md` — 21 rules folded; three review passes; one open tension surfaced and logged as C-008 (the per-NPC italic-thought standard vs. a locked narration distance)
+- [x] `WOTR_Racial_Voice_and_Dialect_Guide (2026-09-12 edition).md` — 15 rules folded (the standalone amendment's 14 + Pack Fifteen's 1); new §8
+- [x] `WOTR_Visual_Aesthetic_Guide (2026-09-12 edition).md` — 8 rules folded plus the ratified Moto material-culture rows (R34) as §5a; R11-1-REFERENCE_TRIANGLE cross-referenced, not folded (routed to Pack Nine, an index gap)
+- [x] `WOTR_Dialogue_Craft_Standards (2026-09-12 edition).md` — 9 rules folded; seven unrouted Pack Nineteen rows listed in Appendix A, not folded
+- [x] `WOTR_AI_Writing_Tells_to_Avoid (2026-09-12 edition).md` — 8 rules folded; Tell Bank entries defined only in the defining rules' own words
+- [x] `WOTR_Manual_Verification_Guide (2026-09-12 edition).md` — base recovered from Downloads (2026-08-01 export); 23 rules folded as checks 15–42 with a "Script (v4)" line per check saying what `wotr_verify.sh` actually does; the script's own gaps (no checks 18, 19, 22–29; `--codex` failures never reach the summary line) flagged, not fixed
+- [x] `WOTR_Mass_Combat_Craft_Guide (2026-09-12 edition).md` — base recovered from Isaac's Google Drive; 18 rules folded as new §12–§15 (naval, siege, cavalry, practitioner POV); §11 rewritten as the gaps page that records the closures
+
+Remaining: the Item and Equipment Writing Guide (7 rules; base lost
+everywhere — being reconstructed, see RULINGS.md), and the six base guides
+with 1-6 amendments each -- pick up in a later session the same way (one
+agent per guide, same prompt shape, then the check → fix → re-check loop).
 
 ## Deferred until there is a reason
 
-- Pinterest reference boards (Isaac, 2026-09-12): a tool that pulls the pins
-  from his Pinterest boards through the official API (a developer app,
-  reviewed once), scores each image with Claude vision against a wiki
-  description (a character's material culture, a place's ledger), and files
-  the matches under the right wiki page — optionally attached to the Notion
-  page. Open design choice: one board per subject, or sort mixed boards.
-- The WOTR Console (local dashboard); a standalone app; n8n; the pack authoring template
-- Backups: weekly dated Notion export to Drive (small; do when convenient)
+- Character reference art (Isaac, 2026-09-12). Goal: gather artwork for
+  characters from artists and boards, not only local AI output. Design
+  agreed: gallery-dl fetches a Pinterest board (or an ArtStation/DeviantArt
+  gallery — same tool) into a gitignored `refs/<board>/` folder; a scorer
+  runs each new image through Claude vision against the wiki page named
+  for it (a character's card, a material-culture page) and writes a small
+  tracked `refs/index.json` — pin/source link, artist, board, subject,
+  score, verdict, and a `reference-only | licensed` flag; matches are
+  attached to the Notion page as a link with credit (reference-only) or an
+  embedded image (licensed: commissions, CC-with-the-right-terms). Never
+  embed reference-only art on the wiki — friends read it through the
+  public MCP now, so that would be redistribution. Images stay out of the
+  index repo. Rejected routes: the official Pinterest API (needs a
+  business account), hand-rolled scraping of the site. First step when
+  wanted: test gallery-dl on one of Isaac's boards.
 
 ## Still owed by Isaac
 

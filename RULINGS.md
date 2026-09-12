@@ -37,11 +37,11 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   re-derived by a second reader: Gorrath Bloodspine VIII, Iskaron
   Thalnaris XI (trapped, not passed through), Zarron Mahuo X, Aurevian
   Lysanthir VIII, Juno Petros Marien IX, Kaelen Raive VIII, Saruin Kye
-  VIII. In progress.
+  VIII. Done (4dd7023).
 - **Two Catalyst Conditions written** — Kaelen Raive and Saruin Kye had
   the Stage's phenomenology where the Catalyst Condition belongs; each
   gets its contradiction-made-structure and first Domain from the card's
-  own history, originated. In progress.
+  own history, originated. Done (4dd7023).
 - **Path gates are strict** (R38-1): where Part Seven gates a component
   of a merged Sub-Stat on a Path, the whole merged number is capped;
   violating values on existing sheets come down to their caps.
@@ -49,18 +49,51 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   the Volume III/IV sheets were costed on the pre-cut 20/25/30 per Level;
   Part Three now gives 12/15/18 ("cut by two fifths"). Allocations are
   trimmed to fit, Grade letters re-derived, strict caps applied; the
-  Stage ratifications stand. A spec and target list are being extracted
-  first so the sweep can be verified mechanically. In progress.
-- **Guide folds, batch two and three; the lost Item guide.** Five base
-  guides with files on disk are being folded (Scene Writing Process,
-  Racial Voice, Visual Aesthetic, Dialogue Craft, AI Writing Tells).
-  Two more base files were recovered today — the Manual Verification
-  Guide from Downloads and the Mass Combat Craft Guide from Isaac's
-  Google Drive (export formatting normalised, content unchanged) — and
-  placed in WOTR True Canon; both folding. The Item and Equipment
-  Writing Guide survives nowhere; Isaac: "you might have to create it" —
-  being reconstructed from its nine live rules and every surviving
-  reference, marked as a reconstruction. In progress.
+  Stage ratifications stand. **Parked before running, pending Isaac.**
+  The spec and target list were extracted (read-only, from the mirror):
+  208 sheets carry a pool line, not ~40 — 202 are on the pre-cut rate
+  (145 on Stage×100 Thresholds, 50 on a flat 400 per Threshold, 7 with
+  estimated figures), 6 already on the current rate; aggregate overrun
+  343,059 points; under strict gates 164 sheets carry 494 peaks above a
+  Path cap (best-effort parse). The extraction found six contradictions
+  in the canon arithmetic and one structural gap, logged as C-009 to
+  C-014 in `CONFLICTS.md`; the gap (C-014) is the one that gates the
+  sweep: 125 of the 208 cards compute "Allocated" as Σ Primary values +
+  Σ listed peaks, which the Living System forbids (a Primary "is never
+  purchased"), so the sweep can only scale the cards' own numbers, not
+  make them canon-shaped. Proposed procedure (spec A7): scale every
+  listed number by POOL_current / Pool_stated, apply the Stage ceiling
+  and strict Path caps, re-derive Grade letters from the value table,
+  keep each card's own identity for the verifier; ten invariants.
+  Sample, Gorrath Bloodspine (L235 / VIII, Body Path only): pool 9,150 →
+  6,930 (k = 0.757); Primaries 542/521/508/470/432/395/358/310 →
+  410/395/385/356/327/299/271/235 (S A A A A A B B — two drop a
+  bracket); peaks 550→417 … 425→322; Ardency Density 512 → 388 → capped
+  to 175 (C) under the strict rule because its inscription component is
+  gated on Spirit III and he has no Spirit Path; Allocated 8,899 → 6,529,
+  Unspent 251 → 401. Two "at ceiling" claims on his card would need
+  rewriting or re-pinning out of Unspent. Also found: Francis Alexander's
+  own pool is 400 short of its stated method (Level 470 credited with a
+  60-level Band V figure); two Ziyu Pip Inari pages carry the same
+  numbers; 60 Primary Grade letters already disagree with the value
+  table. Spec: scratchpad `recost_spec.md` / `recost_targets.json`
+  (session files; regenerate from the mirror if lost).
+- **Guide folds, batch two and three; the lost Item guide.** Done for
+  seven guides: Scene Writing Process, Racial Voice and Dialect, Visual
+  Aesthetic, Dialogue Craft Standards, AI Writing Tells, Manual
+  Verification (base recovered from Downloads), Mass Combat Craft (base
+  recovered from Isaac's Google Drive, export formatting normalised,
+  content unchanged). Each edition sits beside its untouched base in
+  WOTR True Canon with a changelog, judgment calls, flagged gaps and the
+  two or three same-day review passes recorded. One tension the Scene
+  Writing fold surfaced is logged as C-008 (italic thought per NPC vs.
+  a locked narration distance). Drive for Desktop mirrors that folder and
+  once re-created the Manual Verification edition from a stale snapshot
+  mid-edit; the lost corrections were replayed from the edit log and
+  verified. The Item and Equipment Writing Guide survives nowhere;
+  Isaac: "you might have to create it" — being reconstructed from its
+  nine live rules and every surviving reference, marked as a
+  reconstruction. In progress.
 
 ## 2026-09-12, still later — C-005 and C-006 closed; five proposals ratified
 

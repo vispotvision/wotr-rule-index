@@ -270,3 +270,163 @@ both senses could be read; that is a disambiguation habit, not a ruling.
 and R35-2-NARRATION_DISTANCE_ASSIGNMENTS retitled accordingly; the Notion
 page is now "Narration Distance — Psychic Distance by POV".
 **Status:** closed
+
+## C-008 — "one private italic thought per NPC" against the locked POV of a narration distance
+
+**Rules:** R1-3-SCENE_STANDARDS_DEFINED (and the base Scene Writing Process
+Guide §1 Pass 2 / §5) vs R35-1-NARRATION_DISTANCE_BANDS
+**The clash:** Pack One's Scene Standards carve-out keeps the standing
+standard of one private italic thought per named NPC in force for every
+scene that is not mass combat; the base guide's §5 worked example applies
+it to the non-POV character in a scene narrated from Yoko's POV. The
+ratified narration-distance rule locks POV to the character: the medium
+distance "never head-hops" and has "No italicized direct thought", and the
+close distance fuses narration with the POV character's own idiom. A
+non-POV character's private italic thought under either distance reads as
+the head-hop R35-1 forbids. Neither text says which governs: R35-1 amends
+the guide's §6 only, and no row strikes or re-scopes the per-NPC standard
+outside mass combat (R1-3-NAME_THREE_RULE replaces it there only).
+Surfaced by the 2026-09-12 fold of the Scene Writing Process Guide
+(edition changelog, judgment call 12).
+**Quotes:** R1-3-SCENE_STANDARDS_DEFINED: "The standing Scene Standards
+(minimum 2,500 words, layered sensory opening, one private italic thought
+per named NPC, no section spacers, end on physical action) apply in full to
+all scenes except mass combat sequences, where two provisions are amended."
+Base guide §1 Pass 2: "One private italic thought per NPC"; §5 self-review
+note: "Sodoku gets none, and the standard calls for one per NPC where
+grounded". R35-1: "Medium register. POV stays with the character and never
+head-hops ... No italicized direct thought."; "Close register. Narration
+fuses with the character's own idiom. Sustained italicized direct thought
+is available".
+**Consequence if unresolved:** a medium-distance POV scene (Verinus,
+Aurelian, Kaelrith under R35-2) either fails the Scene Standards for
+carrying no NPC italic thought or breaks its narration distance by
+carrying one; `verify_scene` cannot flag either way.
+**Recommendation:** none stated by either source. The cleanest readings
+are (a) the per-NPC standard applies to the POV character only once a
+narration distance is assigned, or (b) it applies to NPCs only in scenes
+whose POV character has the close distance. Isaac's call.
+**Status:** open
+
+## C-009 — Dominion's mean: divided by eight, or by its seven counted entries
+
+**Rules:** *Fracture of Worlds — The Living System*, Parts Three, Four and
+Twelve (wiki pages; no rule row)
+**The clash:** every Primary's Grade is "read off the mean, the total
+divided by eight", but Throne "is excluded from the Dominion total", which
+leaves Dominion seven counted entries and no page saying whether its mean
+is total/7 or total/8. The one sheet built on the canon model divides by
+seven.
+**Quotes:** Part Three: "A Primary's total divided by eight gives the value
+measured against the Grade table"; "Throne is the single exception. It
+carries no ceiling and is excluded from the Dominion total." Part Twelve:
+"its Tier Grade is read off the mean of its eight". Wystan Ashmore — Late
+Bell: "**Dominion** 1,160 / mean 166 / C" (1,160/7 = 165.7; /8 = 145).
+**Consequence if unresolved:** the same Dominion total can read a Grade
+apart depending on the divisor; the re-cost verifier has to accept either.
+**Recommendation:** none stated. Found by the re-cost spec (2026-09-12).
+**Status:** open
+
+## C-010 — is Stage I a Threshold worth 100 points
+
+**Rules:** *Fracture of Worlds — The Living System*, Part Three vs Part
+Eight (wiki pages; no rule row)
+**The clash:** Part Three's worked examples count a Threshold for Stage I
+("1,000 from Thresholds I through IV"; "Threshold bonuses through Stage
+XIII total 9,100" = 100 × (1 + … + 13)). Part Eight names the Threshold
+events as transitions, "I to II, Welling" through "XIII to XIV, Zenith" —
+thirteen events, none for Stage I. The two Stage I sheets split: Ryuka
+Yukari "no Thresholds crossed (Stage I is the starting Stage)"; Shiro
+Kitsunari "400 from Threshold I".
+**Quotes:** Part Three: "A character finishing Band I at Level 100 and
+Stage IV holds 1,200 from leveling and 1,000 from Thresholds I through
+IV." Part Eight: "**I to II, Welling.**" … "**XIII to XIV, Zenith.**"
+**Consequence if unresolved:** 100 points on every sheet's pool.
+**Recommendation:** the re-cost spec follows Part Three's own arithmetic
+(Stage I = 100) because Part Three is the page being re-costed to; that is
+the spec's working assumption, not a ruling.
+**Status:** open
+
+## C-011 — a Stage's "Max Grade" disagrees with the Grade value table
+
+**Rules:** *Fracture of Worlds — The Living System*, Part Four vs Part Six
+(wiki pages; no rule row)
+**The clash:** at Stages V, VII, IX and XI the Stage table's Max Grade
+letter sits one bracket below what the value table gives for the Stage's
+own ceiling. Stage V: "Max Grade B, instability above 320, ceiling 350",
+but the value table has A at 276–400. Stage VII: ceiling 475 (S from 401)
+against "Max Grade A, late push toward S entry"; Stage IX: 625 against SS
+from 551; Stage XI: 750 against SSS from 726.
+**Quotes:** Part Four: "| A | 276–400 |"; the Grade letter "means what it
+has always meant: a threshold on that Sub-Stat's own number". Part Six
+(Stage V): "Max Grade B, instability above 320, ceiling 350".
+**Consequence if unresolved:** a 468 at Stage VII is S by the value table
+and over the Stage's Max Grade at once; the cards already print S.
+**Recommendation:** the re-cost spec re-derives every letter from the value
+table and leaves the Stage line's "Max Grade" wording alone. Not a ruling.
+**Status:** open
+
+## C-012 — Persistence's Fate gate: Stage V or Stage VII
+
+**Rules:** *The Four Paths — Routing, Recognition and the Gate* vs
+*Fracture of Worlds — The Living System*, Part Seven (wiki pages)
+**The clash:** the Four Paths page gates Nullity (now Persistence, per the
+Part Twelve merge ledger) on Fate at Stage VII to pass S; Part Seven gates
+Persistence on Fate at Stage V to exceed S. Same cap value (550), different
+recognition Stage.
+**Quotes:** Four Paths: "Nullity needs Fate at Stage VII to pass S." Part
+Seven: "**Persistence** requires Fate Path at Stage V to exceed S, and
+Stage VIII to exceed SS against Oblivion-class pressure."
+**Consequence if unresolved:** a Stage V–VI Fate practitioner is either
+cleared past S in Persistence or not, depending on the page read.
+**Recommendation:** none stated.
+**Status:** open
+
+## C-013 — which Sub-Stats need Dissonance to reach their true ceiling
+
+**Rules:** *Fracture of Worlds — The Living System*, Part Eight and Part
+Sixteen; *The Sixteen Stages* (wiki pages)
+**The clash:** three lists. Part Eight: "particularly **Overflow,
+Overchannel and Persistence**". Part Sixteen: "**Ardency Overchannel,
+Ardency Detonation and Resilience Nullity** can only reach their true
+ceiling" — after the merge ledger (Detonation → Overchannel, Nullity →
+Persistence) that names Overchannel twice and drops Overflow. The Sixteen
+Stages: "**Overflow, Detonation and Nullity reach their true ceiling in no
+other way.**" — agrees with Part Eight after the merge.
+**Consequence if unresolved:** whether Tempering Overflow is Dissonance-
+gated depends on the page.
+**Recommendation:** none stated; two of three pages agree once retired
+names are read as their merged entries.
+**Status:** open
+
+## C-014 — the character cards' stat accounting is not the canon's
+
+**Rules:** *Fracture of Worlds — The Living System*, Parts Three and Twelve
+vs 125 character cards in Volumes III–VI (wiki pages)
+**The clash:** canon says points are spent on Sub-Stats only and a Primary
+"is never purchased and holds no value of its own" — it is the total of
+its eight Sub-Stats, its Grade the mean. On 125 of the 208 sheets with a
+pool line, the card's "Allocated" equals the sum of the eight Primary
+values plus the sum of the listed Sub-Stat peaks, exactly: the Primaries
+are being bought as a second layer of spend, not derived. Read the canon
+way, Gorrath Bloodspine's Primaries (Σ 3,536) imply a Sub-Stat total near
+28,000 against a stated pool of 9,150. Only Wystan Ashmore's sheet follows
+the canon model (all 64 Sub-Stats listed, Σ = pool, each Primary shown as
+total / mean / Grade).
+**Quotes:** Part Three: "**Points are spent on Sub-Stats only.** A Primary
+Stat is never purchased and holds no value of its own. It is the combined
+total of its eight Sub-Stats". Gorrath Bloodspine: "**Total lifetime pool:
+9,150.** Allocated: 8,899. Unspent: 251." with Primaries 542 / 521 / 508 /
+470 / 432 / 395 / 358 / 310 and eleven peaks summing to 5,363 (3,536 +
+5,363 = 8,899).
+**Consequence if unresolved:** the R38-2 re-cost to the current allotment
+can scale the cards' own numbers proportionally (the spec's proposed
+procedure), but cannot make them canon-shaped without inventing 64-entry
+tables for ~200 characters. Which of the two the sweep should do is the
+decision that gates it.
+**Recommendation:** none stated by either source. The spec proposes:
+scale every listed number by POOL_current / Pool_stated, apply the Stage
+ceiling and the strict Path caps, re-derive Grade letters from the value
+table, keep the card's own two-layer identity for verification. Isaac's
+call before anything runs.
+**Status:** open

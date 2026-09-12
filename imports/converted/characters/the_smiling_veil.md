@@ -88,8 +88,8 @@
 
 **Effect** · **A localised field in which motion and sound are suspended, leaving pure reflection.** *Somnalis holds every adjacent branch open at once. A body offered every possibility with equal weight commits to none of them. The stillness is an ensemble that has not collapsed.* Often mistaken for time-stopping magic. It is not.
 **Cost** · **Holding the field means holding every mind inside it, and every mind he holds leaks back.** *Bleeding identities. He will speak in their voices for days.* The price scales with the number of people quieted.
-**Limit** · **Localised.** The field is the size of a room, and it suspends only what is inside it when it opens; a thing that was already in motion at the edge carries on.
-**Counter** · **Collapse the ensemble for him.** *Somnalis fails when the spread is mistaken for a single reading.* Commit, fully and stupidly, to one branch inside the field. The distribution takes a weight it cannot hold open, and the Lament ends with him acting on the branch that had eleven percent of the weight. **Or refuse to reflect.** A mind with nothing to look at is a mind the field has nothing to hold.
+**Limit** · **Localised.** The field is the size of a room. It suspends only what is inside it when it opens. A thing already in motion at the edge carries on.
+**Counter** · **Collapse the ensemble for him.** *Somnalis fails when the spread is mistaken for a single reading.* Commit, fully and stupidly, to one branch inside the field. The distribution takes a weight it cannot hold open. The Lament ends with him acting on the branch that had eleven percent of the weight. **Or refuse to reflect.** A mind with nothing to look at is a mind the field has nothing to hold.
 > **What nobody knows.** Whether the Black Concord's rumour is true, and whose memories are in the archive if it is.
 
 ---

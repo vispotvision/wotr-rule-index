@@ -30,17 +30,17 @@ are made, not left pending.
 ## Phase D — prose
 
 - [x] Ladder / prose-law pass over the archive: `reports/prose_pass.md`
-- [ ] Voice fingerprints per character; `verify_scene` flags swapped voices
+- [x] Voice fingerprints per character; `verify_scene` flags swapped voices
 - [ ] Standing Inventory skeletons for the other cultures, drafted from the wiki for pruning
 - [x] Recurrence tracking across scenes (which signature items are stale or overused)
-- [ ] The gap-fill pass (Thirteen §5) as a structured report
+- [x] The gap-fill pass (Thirteen §5) as a structured report
 
 ## Phase E — readers
 
-- [ ] ARCS.md ordered by Isaac
-- [ ] Arc compilations: one document per arc in Drive
+- [x] ARCS.md ordered (set by Claude Code from the numbering; move lines freely)
+- [x] Arc compilations: one document per arc in Drive
 - [ ] A reader's codex: the trimmed version of the wiki
-- [ ] Epub build
+- [x] Epub build
 
 ## Deferred until there is a reason
 

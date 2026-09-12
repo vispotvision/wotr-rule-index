@@ -1,0 +1,29 @@
+# THE STANDING INVENTORY: THE DAWI
+
+Note on calls made: the wiki's Zettari are a human sovereign bloodline of Kushara, so this Inventory covers the Dawi as the wiki has them (the holds of the Ring and Stannvaard, Kegshard, the five Reach branches); where the sources are silent (the greeting's touch, the greeting question, the insult list, the day-to-day meals) the plainest option consistent with the Tally, the cask and imported grain is chosen and marked *derived*.
+
+Varūn's people, made for endurance, who followed the ore into the crater walls and keep a six-thousand-year record of completed acts. Everything below is downstream of three facts: nothing grows underground, the language has no future tense, and a broken oath is audible in a name.
+
+**Food:** the sour barley beer of the lower Ring levels, which every visitor calls an acquired taste and every Dawi calls beer; the brew (*ollu*) and the aged brew (*ollut*); grain bought in at prices that make other kingdoms wince, so bread is dear and counted; stores that keep, meaning salted, dried, cellared and packed in bulk (*derived* from "preserved, concentrated and stored in bulk"); the shift-meal, since guild shifts decide when a hold eats and sleeps.
+
+**Greeting:** the full name, said once, oath-name in the strong grade, and the listener hears the grade before the word. No touch (*derived*; nothing attested). Diagnostic question: "How's the seam?" (*derived* from the one subject a Dawi shows enthusiasm for, the quality of the current ore). A stranger asked to say his own name is being audited, and knows it.
+
+**Oaths:** "By the Tally." "Kurme," which is the swearing itself; there is no lighter word. "While the brew lives." The Cask-Oath opening, sung over the barrel: "Ollu elaa, kaasme elaa. Ollu kuolee, ei kaasme kuole." A Dawi cannot say *I will*; he swears or he says "Kurlo," unbegun.
+
+**Insults:** the name said in the weak grade, the worst thing one Dawi can do to another in a single syllable; "kurnur," unentered, meaning you did it and nobody will stand behind it; "voiced," for a man who says a thing the way somebody not paying attention says it (*derived* from the voiced-stop passage); "wrong angle," a rune cut askew, which does nothing; "askew" for a man's work generally.
+
+**Time:** the entry number, so a Dawi asked the year names the last entry made; hold hour beside Guild hour in two columns; the shift; "while the brew lives," a cask's age as a term; the *ikke*, one turn of a process; the unentered day (Munahi), spent indoors and sober because nothing sworn on it holds; the nine days.
+
+**The dead:** interment in the hold, in the rock the clan has worked; the sealed stone casket carried home however far, and not opened; the roll of the dead cut in stone, readable for grade from across the chamber; the Oath-Breakers' wall at Kegshard, which states the grade and the count and never the offence; the cinder bead, compounded once at the death by the heir who will carry it, and it does not refill.
+
+**Objects:** the Tally and the entry (*tallut*); the cask (*kaas*); the hammer, which Borin calls his walking stick; the burin and the cut rune (*thrus*); the angle-set (*nikkat*); the beard-ring, adamant, etched, added over time; the ironwood handle; Cask-Oath Pitch, which will not cure outside the hold it was sworn in; the two-column ledger.
+
+**Exchange:** the entry; nothing exists commercially until entered. Hold weight for the Tally, Accord weight for the wire, and the conversion is itself an entry. Toll-right, honoured by every branch including the Tower-Kin. The Reckoning: a life is not settled by any other life, a theft by any unrelated payment. The recipe is not property and cannot be surrendered. Grain south, ironwood north, and grain cut when a message is meant.
+
+**Proverbs, fixed wording:** "You are still here." "The brew lives, the oath lives. The brew dies, the oath does not die." "The angles are true. The entry holds." "Unbegun. Not undertaken." "An unentered act is unowned." "A rune cut at the wrong angle is no rune." "The measurement is the thing, and the thing without the measurement is just rock." "A mountain only teaches you one kind of up." "The ore is still here, and that is why we are still here." "All things break, lad. The work is in mending them stronger than before." "Length is a record of time served." "Nobody wants to test that line."
+
+**Body:** hands, since the Essence routes through them and *kadu* is the oldest root they share with the goblins; the beard, untrimmed, ringed, a record of time served; skin, where the Soul-Runes accumulate so an elder's body is a reading of his life; the consonant, because agitation changes the grade and never the word order, and outsiders miss it every time; the stance, since a Petralon-anchored Dawi is the hardest thing in the Inner World to move; the forge-flush across nose and cheekbones, baked in.
+
+**Recurrence, two minimum per Dawi scene:** the Tally and "entered" or "unentered"; the name and its grade; the cask and "while the brew lives"; the sour beer; the angle-set and "the angles are true."
+
+New coinages this session, all one step from an attested fact: "How's the seam?", "voiced" and "askew" as insults, no-touch greeting.

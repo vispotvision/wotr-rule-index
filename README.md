@@ -70,8 +70,12 @@ written into the Google Drive folder *War of the Realms — Documents* (via Driv
 for Desktop at `G:\My Drive`) so they open in Google Docs. Only documents whose
 source changed are rewritten.
 
-`build/sync.ps1` wraps all three: export, publish, docs, then commit and push if
-anything changed. Natalie archives each finished scene as a page under the wiki's Scene
+`build/arcs_export.py` compiles the scene archive in the order of `scenes/ARCS.md`
+into one Word document and one epub per arc, plus a complete epub, in the Drive
+folder's `Arcs/` subfolder.
+
+`build/sync.ps1` wraps all of it: export, publish, docs, arcs, then commit and
+push if anything changed. Natalie archives each finished scene as a page under the wiki's Scene
 Archive section at session end, so running the sync (by hand, or hourly via the
 scheduled task described at the top of the script) is what lands new scenes in
 `wiki/The Scene Archive/`.

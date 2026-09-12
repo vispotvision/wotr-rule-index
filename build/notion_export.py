@@ -38,6 +38,14 @@ MANIFEST = WIKI_DIR / ".manifest.json"
 DATABASE_ID = "3b158200-eb22-81c6-b008-dcc414a561d0"
 DATA_SOURCE_ID = "3b158200-eb22-8044-bc01-000bd63d3f7b"
 
+# Pages Isaac has moved out of the wiki database on purpose (kept off the
+# public wiki -- The Rule Index, and everything under "Information not on
+# WIKI"). A page moved out of a Notion database stops being a member of it,
+# so list_rows() alone can no longer see it or anything nested under it --
+# without this, the exporter would read that as "deleted in Notion" and
+# wipe the mirror. Walked separately below and merged into `rows`.
+PRIVATE_ROOTS = ["3d958200-eb22-80a4-b8f3-cc2c16241f7d"]
+
 API = "https://api.notion.com/v1"
 NOTION_VERSION = "2025-09-03"
 RATE_SLEEP = 0.35  # Notion allows ~3 req/s
@@ -270,6 +278,33 @@ def list_rows() -> list[dict]:
         return list(paginate("POST", f"/databases/{DATABASE_ID}/query", {"page_size": 100}))
 
 
+def crawl_private_tree(root_id: str) -> list[dict]:
+    """Every descendant page under a PRIVATE_ROOTS page, walked by hand.
+
+    A page moved out of the wiki database (Isaac's own move, to keep it off
+    the public wiki) stops being a data-source member, so list_rows() can't
+    see it or anything nested under it. Walk it the way Notion's own page
+    tree does instead: fetch each child_page block, GET the full page (for
+    properties/parent/last_edited_time -- block children don't carry those),
+    recurse into it, and treat every page found (root included) as if it
+    were a row, so section_for()'s "nearest ancestor that is a row" logic
+    keeps working unmodified for anything nested under it.
+    """
+    root = api("GET", f"/pages/{root_id}")
+    found = {root_id: root}
+    stack = [root_id]
+    while stack:
+        pid = stack.pop()
+        for b in children(pid):
+            if b.get("type") == "child_page":
+                cid = b["id"]
+                if cid in found:
+                    continue
+                found[cid] = api("GET", f"/pages/{cid}")
+                stack.append(cid)
+    return list(found.values())
+
+
 def section_for(p: dict, rows_by_id: dict, cache: dict) -> str:
     """Nearest ancestor that is itself a wiki row; else first tag; else Misc."""
     pid = p["id"]
@@ -330,6 +365,19 @@ def main() -> int:
 
     print("listing wiki rows ...")
     rows = list_rows()
+    crawl_incomplete = False
+    for root_id in PRIVATE_ROOTS:
+        try:
+            private_pages = crawl_private_tree(root_id)
+        except RuntimeError as e:
+            crawl_incomplete = True
+            print(f"  WARNING: can't reach private root {root_id}: {e}")
+            print("  Share this page with the Notion integration (... -> Connections) "
+                  "or the exporter can't see it. Skipping the delete-sweep this run so "
+                  "nothing under it gets wiped from wiki/ while it's unreachable.")
+            continue
+        print(f"  {len(private_pages)} pages under the private root {root_id}")
+        rows += private_pages
     # pages that notion_publish.py pushed *into* Notion from this repo are not
     # mirrored back, or they would come round twice
     pub = ROOT / "build" / ".notion_publish.json"
@@ -376,7 +424,9 @@ def main() -> int:
 
     # drop files for pages that no longer exist in the wiki
     live_ids = {x["id"] for x in plan}
-    if not args.only:
+    if crawl_incomplete:
+        print("  crawl was incomplete (see WARNING above); skipping the delete-sweep this run")
+    if not args.only and not crawl_incomplete:
         for pid in list(manifest):
             if pid not in live_ids:
                 gone = WIKI_DIR / manifest[pid]["rel"]

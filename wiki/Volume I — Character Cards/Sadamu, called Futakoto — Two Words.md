@@ -4,14 +4,14 @@ notion_id: "3ba58200-eb22-812b-87a6-c53a311b2ef8"
 notion_url: "https://app.notion.com/p/Sadamu-called-Futakoto-Two-Words-3ba58200eb22812b87a6c53a311b2ef8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T05:43:00.000Z"
+last_edited: "2026-09-12T06:11:00.000Z"
 verification: "unverified"
 ---
 
 # Sadamu, called Futakoto — Two Words
 
 *Two Words · Polar Reach Scout*
-> 📛 Named Sadamu, called Futakoto, by Isaac's ruling of 2026-09-12 (R23-7, bloodline route): a Yuno retainer; futakoto is literally two words, so the epithet survives intact. Formerly Afasoa.
+
 > **Full Name:** Sadamu (formerly Afasoa: afa + soa = storm + companion)
 > **Age:** 18 · **Bloodline:** Moto (frontier cadet)
 > **Level:** 156 · **Stage:** III Hold · **Band:** II

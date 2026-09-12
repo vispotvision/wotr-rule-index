@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-381 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+362 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Bestiary (1)
 
@@ -87,18 +87,6 @@
 
 - [Robin Ice — The Bastard Runner](Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
 
-## In-World Document (1)
-
-- [In-World Documents & the Narrative Archive](In-World%20Document/In-World%20Documents%20&%20the%20Narrative%20Archive.md)
-
-## In-World Documents & the Narrative Archive (5)
-
-- [Anima Veri Credentis](In-World%20Documents%20&%20the%20Narrative%20Archive/Anima%20Veri%20Credentis.md)
-- [The Apprentice's Primer — A First Reader for the Newly Registered](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Apprentice's%20Primer%20—%20A%20First%20Reader%20for%20the%20Newly%20Registered.md)
-- [The Scene Archive](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Scene%20Archive.md)
-- [The Zettari–Mahou Accord](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Zettari–Mahou%20Accord.md)
-- [To Ara Min Mahuo](In-World%20Documents%20&%20the%20Narrative%20Archive/To%20Ara%20Min%20Mahuo.md)
-
 ## Lore & History (2)
 
 - [Lore & History](Lore%20&%20History/Lore%20&%20History.md)
@@ -138,6 +126,10 @@
 - [The Elven Peoples](Races%20&%20Peoples/The%20Elven%20Peoples.md)
 - [The Goblinoid Peoples](Races%20&%20Peoples/The%20Goblinoid%20Peoples.md)
 - [The Tongues of the Realms](Races%20&%20Peoples/The%20Tongues%20of%20the%20Realms.md)
+
+## Reference Table (1)
+
+- [A Reader's Codex](Reference%20Table/A%20Reader's%20Codex.md)
 
 ## Sodoku Moto (2)
 
@@ -311,25 +303,10 @@
 - [The Long Reading — Moto Ancient History](The%20Moto%20Bloodline/The%20Long%20Reading%20—%20Moto%20Ancient%20History.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
-## The Scene Archive (2)
-
-- [The Left of the Door — Renard Greymane at the Altar-Room Door](The%20Scene%20Archive/The%20Left%20of%20the%20Door%20—%20Renard%20Greymane%20at%20the%20Altar-Room%20Door.md)
-- [The Table — Running Pieces](The%20Scene%20Archive/The%20Table%20—%20Running%20Pieces.md)
-
 ## The Spirit Summoning Arts (2)
 
 - [The Infinite Summoning Arts](The%20Spirit%20Summoning%20Arts/The%20Infinite%20Summoning%20Arts.md)
 - [The Twelve Stages of Spirit Infusion](The%20Spirit%20Summoning%20Arts/The%20Twelve%20Stages%20of%20Spirit%20Infusion.md)
-
-## The Table — Running Pieces (7)
-
-- [Fronts](The%20Table%20—%20Running%20Pieces/Fronts.md)
-- [Open Rulings — The Docket](The%20Table%20—%20Running%20Pieces/Open%20Rulings%20—%20The%20Docket.md)
-- [State of Play — Hild Ice / Kharven-Seat](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Hild%20Ice%20Kharven-Seat.md)
-- [State of Play — Ilthára Korvaeth / The New World](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Ilthára%20Korvaeth%20The%20New%20World.md)
-- [State of Play — Kwon Mu-jin / Hon-guk](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Hon-guk.md)
-- [State of Play — Sodoku Moto / Kharven](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Sodoku%20Moto%20Kharven.md)
-- [The Ledger](The%20Table%20—%20Running%20Pieces/The%20Ledger.md)
 
 ## The Tongues of the Realms (5)
 
@@ -358,7 +335,6 @@
 
 ## Volume I — Character Cards (49)
 
-- [Afasoa — Two Words](Volume%20I%20—%20Character%20Cards/Afasoa%20—%20Two%20Words.md)
 - [Anryū Ichimonji](Volume%20I%20—%20Character%20Cards/Anryū%20Ichimonji.md)
 - [Ara Min Mahuo](Volume%20I%20—%20Character%20Cards/Ara%20Min%20Mahuo.md)
 - [Artemis Amagiri Moto](Volume%20I%20—%20Character%20Cards/Artemis%20Amagiri%20Moto.md)
@@ -374,6 +350,7 @@
 - [Freda Thunn-Gorr — The Caldera Wife](Volume%20I%20—%20Character%20Cards/Freda%20Thunn-Gorr%20—%20The%20Caldera%20Wife.md)
 - [Garret Longshore — The Helmsman](Volume%20I%20—%20Character%20Cards/Garret%20Longshore%20—%20The%20Helmsman.md)
 - [Gimbzo](Volume%20I%20—%20Character%20Cards/Gimbzo.md)
+- [Heisuke — Muken's Last Soldier](Volume%20I%20—%20Character%20Cards/Heisuke%20—%20Muken's%20Last%20Soldier.md)
 - [Hild Ice (Stark) — The Sword Princess](Volume%20I%20—%20Character%20Cards/Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess.md)
 - [Iracordas](Volume%20I%20—%20Character%20Cards/Iracordas.md)
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume%20I%20—%20Character%20Cards/Kirishima%20Hae-jin%20—%20Kaalabad,%20the%20Radiant%20God%20of%20Knights.md)
@@ -395,11 +372,11 @@
 - [Rashani Zettai](Volume%20I%20—%20Character%20Cards/Rashani%20Zettai.md)
 - [Renard Greymane — The Left of the Throne](Volume%20I%20—%20Character%20Cards/Renard%20Greymane%20—%20The%20Left%20of%20the%20Throne.md)
 - [Rengai Zettai](Volume%20I%20—%20Character%20Cards/Rengai%20Zettai.md)
+- [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)
 - [Sodoku Moto](Volume%20I%20—%20Character%20Cards/Sodoku%20Moto.md)
 - [Soren the Mast — The Climb](Volume%20I%20—%20Character%20Cards/Soren%20the%20Mast%20—%20The%20Climb.md)
 - [Souma Byakuya Moto](Volume%20I%20—%20Character%20Cards/Souma%20Byakuya%20Moto.md)
 - [Tabitha Hallenfeld — The Road Woman](Volume%20I%20—%20Character%20Cards/Tabitha%20Hallenfeld%20—%20The%20Road%20Woman.md)
-- [Taulagi — Muken's Last Soldier](Volume%20I%20—%20Character%20Cards/Taulagi%20—%20Muken's%20Last%20Soldier.md)
 - [Torven Greis — The Merchant Lord](Volume%20I%20—%20Character%20Cards/Torven%20Greis%20—%20The%20Merchant%20Lord.md)
 - [Verinus VII · The Palatine](Volume%20I%20—%20Character%20Cards/Verinus%20VII%20·%20The%20Palatine.md)
 - [Vethraun Ashmaw](Volume%20I%20—%20Character%20Cards/Vethraun%20Ashmaw.md)
@@ -416,7 +393,7 @@
 - [Xanelor Rafminar · The Wandering Fang](Volume%20III%20—%20Character%20Cards/Xanelor%20Rafminar%20·%20The%20Wandering%20Fang.md)
 - [Zarron Mahuo · The Arbiter of Unity](Volume%20III%20—%20Character%20Cards/Zarron%20Mahuo%20·%20The%20Arbiter%20of%20Unity.md)
 
-## Volume IV — Character Cards (101)
+## Volume IV — Character Cards (96)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20IV%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aelor Vaelith · The Imperial Pegasus](Volume%20IV%20—%20Character%20Cards/Aelor%20Vaelith%20·%20The%20Imperial%20Pegasus.md)
@@ -429,7 +406,6 @@
 - [Azure Serathiel · The Sky-Veiled Saint](Volume%20IV%20—%20Character%20Cards/Azure%20Serathiel%20·%20The%20Sky-Veiled%20Saint.md)
 - [Baojin Zhaorin · The Verdant Colossus](Volume%20IV%20—%20Character%20Cards/Baojin%20Zhaorin%20·%20The%20Verdant%20Colossus.md)
 - [Basilio Pavaret · The Crimson Bloom](Volume%20IV%20—%20Character%20Cards/Basilio%20Pavaret%20·%20The%20Crimson%20Bloom.md)
-- [Basilio Pavaret · The Crimson Bloom](Volume%20IV%20—%20Character%20Cards/Basilio%20Pavaret%20·%20The%20Crimson%20Bloom%20(3bd58200).md)
 - [Cael Veridion · Bearer of the Second Sun](Volume%20IV%20—%20Character%20Cards/Cael%20Veridion%20·%20Bearer%20of%20the%20Second%20Sun.md)
 - [Cernan Eryndor · The Bull](Volume%20IV%20—%20Character%20Cards/Cernan%20Eryndor%20·%20The%20Bull.md)
 - [Chimwala N'Doro · Emerald Tusks of the Verdant Covenant](Volume%20IV%20—%20Character%20Cards/Chimwala%20N'Doro%20·%20Emerald%20Tusks%20of%20the%20Verdant%20Covenant.md)
@@ -437,13 +413,11 @@
 - [Daigo Tenryū · Ribbon-Ox](Volume%20IV%20—%20Character%20Cards/Daigo%20Tenryū%20·%20Ribbon-Ox.md)
 - [Dalphne of the Pale Bough · The Gentle Fang](Volume%20IV%20—%20Character%20Cards/Dalphne%20of%20the%20Pale%20Bough%20·%20The%20Gentle%20Fang.md)
 - [Dorrik · The Pot Man](Volume%20IV%20—%20Character%20Cards/Dorrik%20·%20The%20Pot%20Man.md)
-- [Dorrik · The Pot Man](Volume%20IV%20—%20Character%20Cards/Dorrik%20·%20The%20Pot%20Man%20(3bd58200).md)
 - [Draven Kael Vorrick · The Beast Slayer](Volume%20IV%20—%20Character%20Cards/Draven%20Kael%20Vorrick%20·%20The%20Beast%20Slayer.md)
 - [Eira Vale · The Echo Runner](Volume%20IV%20—%20Character%20Cards/Eira%20Vale%20·%20The%20Echo%20Runner.md)
 - [Elder Seravain · Ophidian Archivist](Volume%20IV%20—%20Character%20Cards/Elder%20Seravain%20·%20Ophidian%20Archivist.md)
 - [Emilia Veirynthiel · The Bloom of Dissonant Realms](Volume%20IV%20—%20Character%20Cards/Emilia%20Veirynthiel%20·%20The%20Bloom%20of%20Dissonant%20Realms.md)
 - [Estrella of the Lattice Veil](Volume%20IV%20—%20Character%20Cards/Estrella%20of%20the%20Lattice%20Veil.md)
-- [Estrella of the Lattice Veil](Volume%20IV%20—%20Character%20Cards/Estrella%20of%20the%20Lattice%20Veil%20(3bd58200).md)
 - [Evangelien Rhymaris · The Hollow Bride](Volume%20IV%20—%20Character%20Cards/Evangelien%20Rhymaris%20·%20The%20Hollow%20Bride.md)
 - [Garruk Stonehoof · The Iron-Mane](Volume%20IV%20—%20Character%20Cards/Garruk%20Stonehoof%20·%20The%20Iron-Mane.md)
 - [Gonju · The Sage](Volume%20IV%20—%20Character%20Cards/Gonju%20·%20The%20Sage.md)
@@ -487,14 +461,12 @@
 - [Riven Eltamyr Vonnel · The Glaive](Volume%20IV%20—%20Character%20Cards/Riven%20Eltamyr%20Vonnel%20·%20The%20Glaive.md)
 - [Rovhen Talvasciel · The Prettier](Volume%20IV%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Prettier.md)
 - [Saekiro Malrake · The Phantom](Volume%20IV%20—%20Character%20Cards/Saekiro%20Malrake%20·%20The%20Phantom.md)
-- [Saekiro Malrake · The Phantom](Volume%20IV%20—%20Character%20Cards/Saekiro%20Malrake%20·%20The%20Phantom%20(3bd58200).md)
 - [Sandalphon Aestraen · The Reverent](Volume%20IV%20—%20Character%20Cards/Sandalphon%20Aestraen%20·%20The%20Reverent.md)
 - [Saruin Kye · Golden Laugh](Volume%20IV%20—%20Character%20Cards/Saruin%20Kye%20·%20Golden%20Laugh.md)
 - [Saórén Vyrrakal · The Walking Flame](Volume%20IV%20—%20Character%20Cards/Saórén%20Vyrrakal%20·%20The%20Walking%20Flame.md)
 - [Selantra · The Velvet Storm](Volume%20IV%20—%20Character%20Cards/Selantra%20·%20The%20Velvet%20Storm.md)
 - [Seraphion Veydrak · The Chain-Halo](Volume%20IV%20—%20Character%20Cards/Seraphion%20Veydrak%20·%20The%20Chain-Halo.md)
 - [Seravain Drelith · Wyrm-Crowned](Volume%20IV%20—%20Character%20Cards/Seravain%20Drelith%20·%20Wyrm-Crowned.md)
-- [Seravain Drelith · Wyrm-Crowned](Volume%20IV%20—%20Character%20Cards/Seravain%20Drelith%20·%20Wyrm-Crowned%20(3bd58200).md)
 - [Sevrin Valeith · Maw of Nine Tongues](Volume%20IV%20—%20Character%20Cards/Sevrin%20Valeith%20·%20Maw%20of%20Nine%20Tongues.md)
 - [Shael Virellion · Oracle of the Broken Mirror](Volume%20IV%20—%20Character%20Cards/Shael%20Virellion%20·%20Oracle%20of%20the%20Broken%20Mirror.md)
 - [Silas Briarend Wytherm III · Gravebinder](Volume%20IV%20—%20Character%20Cards/Silas%20Briarend%20Wytherm%20III%20·%20Gravebinder.md)

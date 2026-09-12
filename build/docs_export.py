@@ -40,6 +40,7 @@ RULE_INDEX = [
     ("Docket (index view)", ROOT / "out" / "docket.md"),
     ("Conflicts", ROOT / "CONFLICTS.md"),
 ]
+READERS_CODEX = ROOT / "docs" / "READERS_CODEX.md"
 SCENE_SKIP = {"MANIFEST.md", "00_SUPERSEDED_wrong_names.md", "WOTR_AI_Writing_Tells_to_Avoid.md",
               "THE_KINGDOM_OF_KHARVEN_buri.md"}
 
@@ -291,6 +292,10 @@ def main() -> int:
     idx = [(t, strip_frontmatter(p.read_text(encoding="utf-8"))[0]) for t, p in RULE_INDEX if p.exists()]
     if idx:
         jobs["The Rule Index"] = ("the standing rules, the live craft law, the docket and the conflicts", idx)
+
+    if READERS_CODEX.exists():
+        md, _ = strip_frontmatter(READERS_CODEX.read_text(encoding="utf-8", errors="replace"))
+        jobs["A Reader's Codex"] = ("a one-page orientation to the setting", [("A Reader's Codex", md)])
 
     if args.only:
         jobs = {k: v for k, v in jobs.items() if args.only.lower() in k.lower()}

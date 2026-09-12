@@ -4,7 +4,7 @@ notion_id: "3d858200-eb22-8123-bdac-cf86958a894c"
 notion_url: "https://app.notion.com/p/Wystan-Ashmore-Late-Bell-3d858200eb228123bdaccf86958a894c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-11T22:22:00.000Z"
+last_edited: "2026-09-12T05:54:00.000Z"
 verification: "unverified"
 ---
 

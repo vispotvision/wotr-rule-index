@@ -116,6 +116,36 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 Client node (`http://host.docker.internal:8765/mcp` from the n8n container).
 `build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
+### Sharing it with friends
+
+`--public` (= `--http --read-only --token`) serves only the tools that read the
+repo (the `READ_ONLY_TOOLS` set in `build/mcp_server.py`: the index, the wiki
+and scene search, the verifier, the briefs, the audits, and read-only views of
+the table) and refuses every request that does not carry the shared secret,
+either as `Authorization: Bearer <secret>` or in the path, `/t/<secret>/mcp`
+(Claude custom connectors cannot send headers). The seventeen writing tools
+(archive, log, propose, create/update characters, the table mutations,
+`sync_now`) are not registered at all in this mode, so nothing a friend does
+through it can touch the repo, Notion, or git.
+
+`build/mcp_public_setup.ps1` does the whole thing on this PC: writes the secret
+to `build/.mcp_token` (gitignored), registers the scheduled task **WOTR MCP
+public** (starts at logon, hidden, restarts itself, logs to
+`build/mcp_public.log`), and publishes it with `tailscale funnel --bg 8765`, so
+it is reachable at `https://ultron.tailf1bfa3.ts.net/` while the PC is on and
+logged in. It prints the URL to hand out:
+
+- Claude Desktop / claude.ai → Settings → Connectors → Add custom connector:
+  `https://ultron.tailf1bfa3.ts.net/t/<secret>/mcp`
+- Claude Code: `claude mcp add --transport http wotr https://ultron.tailf1bfa3.ts.net/mcp --header "Authorization: Bearer <secret>"`
+
+Rotate the secret by deleting `build/.mcp_token`, re-running the script and
+restarting the task; everyone then needs the new URL. Turn it off with
+`tailscale funnel --https=443 off` and `Unregister-ScheduledTask -TaskName "WOTR MCP public"`.
+Funnel needs to be enabled once for the tailnet (the first `tailscale funnel`
+prints the link); the `WOTR MCP` connector in Claude Desktop on this PC still
+runs over stdio with every tool, unaffected.
+
 ## What this feeds
 
 `out/rules.resolved.json` is the context source for the drafting pipeline: query

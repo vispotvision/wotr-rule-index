@@ -4,6 +4,11 @@
   python build/mcp_server.py           # stdio, what claude_desktop_config.json launches
   python build/mcp_server.py --http    # streamable HTTP on :8765, for n8n's MCP Client node
                                        #   (from the n8n container: http://host.docker.internal:8765/mcp)
+  python build/mcp_server.py --public  # --http --read-only, and a shared secret is required:
+                                       #   Authorization: Bearer <token>, or the path /t/<token>/mcp
+                                       #   (for Claude custom connectors, which cannot send headers).
+                                       #   The token is WOTR_MCP_TOKEN or build/.mcp_token. This is
+                                       #   what build/mcp_public_setup.ps1 runs behind Tailscale Funnel.
 
 Tools
   load_rules(tags, status)   the live loadout for a task, same output as build/query.py
@@ -21,6 +26,7 @@ variable in the registry (Claude Desktop may have been started before it was set
 """
 import argparse
 from collections import Counter
+import hmac
 import json
 import os
 import re
@@ -1201,15 +1207,117 @@ def gap_fill(markdown: str) -> str:
     return "\n".join(out)
 
 
+# --------------------------------------------------------------------------
+# public mode: read-only tools behind a shared secret
+
+# Tools that only read the repo (rules, the wiki mirror, scenes, the table). Every tool
+# not named here writes: scenes/, RULINGS.md, proposals/, table/*.yaml, reports/,
+# Notion pages, git commits and pushes, or runs build/sync.ps1.
+READ_ONLY_TOOLS = {
+    "load_rules", "rule", "check_docket", "list_conflicts",
+    "wiki", "character", "fow_line", "scene_recall",
+    "session_start", "verify_scene", "stale_names", "scene_brief",
+    "fronts", "due", "roster", "scene_menu",
+    "prose_pass", "recurrence_report", "reconcile", "timeline",
+    "voice_check", "voice_fingerprints", "gap_fill",
+}
+TOKEN_FILE = ROOT / "build" / ".mcp_token"
+
+
+def restrict_to_read_only() -> list[str]:
+    """Drop every tool that is not in READ_ONLY_TOOLS; returns the names removed."""
+    removed = [name for name in list(server._tool_manager._tools) if name not in READ_ONLY_TOOLS]
+    for name in removed:
+        server.remove_tool(name)
+    return removed
+
+
+def shared_token() -> str:
+    tok = _env().get("WOTR_MCP_TOKEN", "").strip()
+    if not tok and TOKEN_FILE.exists():
+        tok = TOKEN_FILE.read_text(encoding="utf-8").strip()
+    return tok
+
+
+def with_token_gate(app, token: str, mount: str = "/mcp"):
+    """ASGI wrapper: a request passes only with `Authorization: Bearer <token>` or a
+    path of the form /t/<token><mount>... (rewritten to <mount>... for the inner app).
+    Everything else is answered 401 without reaching the MCP transport."""
+    prefix = "/t/"
+
+    def _ok(a: str, b: str) -> bool:
+        return hmac.compare_digest(a.encode("utf-8"), b.encode("utf-8"))
+
+    async def gated(scope, receive, send):
+        if scope["type"] != "http":
+            await app(scope, receive, send)
+            return
+        path = scope.get("path", "")
+        headers = {k.decode("latin-1").lower(): v.decode("latin-1") for k, v in scope.get("headers", [])}
+        auth = headers.get("authorization", "")
+        if auth.lower().startswith("bearer ") and _ok(auth[7:].strip(), token):
+            await app(scope, receive, send)
+            return
+        if path.startswith(prefix):
+            rest = path[len(prefix):]
+            given, _, tail = rest.partition("/")
+            if _ok(given, token) and ("/" + tail).startswith(mount):
+                new_path = "/" + tail
+                scope = dict(scope)
+                scope["path"] = new_path
+                scope["raw_path"] = new_path.encode("utf-8")
+                await app(scope, receive, send)
+                return
+        body = b"unauthorized"
+        await send({"type": "http.response.start", "status": 401,
+                    "headers": [(b"content-type", b"text/plain"), (b"content-length", str(len(body)).encode())]})
+        await send({"type": "http.response.body", "body": body})
+
+    return gated
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--http", action="store_true", help="serve streamable HTTP on --port instead of stdio")
     ap.add_argument("--port", type=int, default=8765)
+    ap.add_argument("--read-only", action="store_true", help="expose only the tools that read the repo")
+    ap.add_argument("--token", action="store_true",
+                    help="require the shared secret (WOTR_MCP_TOKEN or build/.mcp_token) on every HTTP request")
+    ap.add_argument("--public", action="store_true", help="shorthand for --http --read-only --token")
+    ap.add_argument("--log", help="append stdout/stderr to this file (for the scheduled task)")
     args = ap.parse_args()
-    if args.http:
-        server.run(transport="streamable-http", host="127.0.0.1", port=args.port)
-    else:
+    if args.public:
+        args.http = args.read_only = args.token = True
+    if args.log:
+        f = open(args.log, "a", encoding="utf-8", buffering=1)
+        sys.stdout = sys.stderr = f
+    if args.read_only:
+        removed = restrict_to_read_only()
+        print(f"read-only: {len(removed)} writing tools hidden ({', '.join(sorted(removed))})", flush=True)
+    if not args.http:
+        if args.token:
+            print("--token only applies to --http; ignored on stdio", file=sys.stderr)
         server.run()
+        return 0
+    if not args.token:
+        server.run(transport="streamable-http", host="127.0.0.1", port=args.port)
+        return 0
+    token = shared_token()
+    if len(token) < 16:
+        print("no shared secret: set WOTR_MCP_TOKEN or write build/.mcp_token (run build/mcp_public_setup.ps1)",
+              file=sys.stderr, flush=True)
+        return 2
+    import uvicorn
+    from mcp.server.transport_security import TransportSecuritySettings
+    # The SDK's Host-header (DNS-rebinding) check only knows the bind address and would
+    # refuse the Funnel hostname. The shared secret already defeats rebinding: a page in
+    # someone's browser cannot know it, so it can never get past the gate.
+    inner = server.streamable_http_app(
+        transport_security=TransportSecuritySettings(enable_dns_rebinding_protection=False))
+    app = with_token_gate(inner, token)
+    print(f"public mode on 127.0.0.1:{args.port}: {len(server._tool_manager._tools)} read-only tools, shared secret required "
+          f"(header Bearer <token>, or path /t/<token>/mcp)", flush=True)
+    uvicorn.run(app, host="127.0.0.1", port=args.port, log_level="info")
     return 0
 
 

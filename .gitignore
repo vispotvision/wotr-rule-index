@@ -3,3 +3,6 @@ __pycache__/
 build/sync.log
 docs/
 .claude/worktrees/
+
+build/.mcp_token
+build/mcp_public.log

@@ -1,6 +1,6 @@
 # THE STANDING INVENTORY: MOTO
 
-*Calls made where the sources are silent: the Moto have no food of their own on record, no spoken greeting and no fixed hour for the Bow, so the court eats what the Seat eats, the Bow is at dusk, and a Moto answers the forearm grip with the inclination. Nothing here is pending.*
+*Calls made where the sources are silent: the Moto have no food of their own on record, no spoken greeting and no fixed hour for the Bow, so the court eats what the Seat eats, the Bow is at dusk, and the inclination answers the forearm grip. Nothing is pending.*
 
 A law-house laid over other people's ground. Seven lines, one crown, no temple; the household is the unit of observance and the register is the sacred object. The Kharven Inventory holds for the clans at the Seat. This is the layer the house lays on top of it.
 
@@ -14,7 +14,7 @@ Insults: "empty bow" (observance without the labour, held worse than neglect); "
 
 Time: the hinge of the day (the Bow, at dusk); a bow's length (under two minutes in a cold room); Ice-out, when the ground opens and the whole winter's dead go in together; "the window" (time bought by someone else and never repaid); "before sequence" for anything older than the registers; "the Long Reading" for the deep past.
 
-The dead: read at Ice-out, in the order they died; to read them alphabetically would be a desecration nobody could articulate. One dead name said aloud daily, in a room, to someone. The Waiting and the death-house are Kharven's, and the house keeps them. A dead Moto who has been read correctly is "behind," and behind is a direction; the house faces its dead. A house that keeps its dead in portraits is "clogged." Stones cut in one week are lettered to one depth.
+The dead: read at Ice-out, in the order they died; to read them alphabetically would be a desecration. One dead name said aloud daily, in a room, to someone. The Waiting and the death-house are Kharven's, and the house keeps them. A dead Moto who has been read correctly is "behind," and behind is a direction; the house faces its dead. A house that keeps its dead in portraits is "clogged." Stones cut in one week are lettered to one depth.
 
 Objects: the beads (jade and iron worn smooth; black beads the size of fists on a fighting man; reached for when no one is watching); the doorpost with fourteen scratches; the register, kept in the family's own hand and unreadable to any clerk; the fourteen hands, and a document in the wrong hand is void; the belt scabbard; the crown-knot, hair bound in one heavy knot at the crown in the military style; the forearm lines (service, kills, and the names of the men not brought home); the field coat with the fur collar and iron-thread seams; one useless thing in every room, because a house with no ornament is in quiet sin.
 
@@ -22,6 +22,6 @@ Exchange: the reading (what a thing is, what it owes, what it will become; it is
 
 Proverbs, fixed wording: "See before you act." "Name before you sever." "End only what has earned its ending." "A house that migrates brings law." "Behind is a direction." "Praise is labour." "The bow weighs nothing." "To gather is easy." (The second half, about devouring distinction, is never said aloud.) "Both readings were correct." "A stay is what a court grants when it has not yet decided to spare you." "Hammers are incapable of ornamental thought."
 
-Body: the eyes first (ring-lines in the iris at rest, three visible, a flare at the outer ring when attention shifts); the birth-sheen at brow, clavicle and wrist; white hair in all seven lines; bearing (too composed, too sharply outlined, too heavy); a stillness that reads as a loaded mechanism; the hands on the beads; the knee (a Moto goes to one knee for a child; a household guard goes to a knee to die where it stands); the cost after a verdict, eye bleed and sternum ache and half a minute of flatness.
+Body: the eyes first (ring-lines in the iris at rest, three visible, a flare at the outer ring when attention shifts); the birth-sheen at brow, clavicle and wrist; white hair in all seven lines; bearing (too composed, too sharply outlined, too heavy); a stillness that reads as a loaded mechanism; the hands on the beads; the knee (a Moto goes to one knee for a child; a household guard goes to a knee to die where it stands); the cost after a verdict, eye bleed and sternum ache.
 
 **Recurrence, two minimum per Moto scene:** the beads; the inclination and the doorpost scratches; "read" as the verb for a person; "entered," and the register in the right hand; the hand on the head.

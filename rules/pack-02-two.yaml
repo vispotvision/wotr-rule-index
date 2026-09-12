@@ -491,7 +491,7 @@ rules:
     pack_number: 2
     section: "Still Open"
     title: Docket 20, Racial Voice Guide gaps
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Racial Voice Guide gaps remain for Fleshshaper Goblin, Winter
@@ -507,7 +507,16 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Two.md
       lines: "120"
-    notes: null
+    ratified: "Isaac, 2026-09-12, Claude Code: closed by a later amendment, found on review"
+    notes: >-
+      CLOSED, found 2026-09-12: a later standalone amendment
+      (sources/WOTR_Racial_Voice_Guide_Amendment.md, rules in
+      rules/doc-racial-voice-guide-amendment.yaml, R24-1/R24-2/R24-3, all
+      status:live) already wrote and ratified all three registers in full.
+      This row and R1-OP-RACIAL_VOICE_GAPS were never updated to reflect
+      that. R15-1-RACIAL_VOICE_MENU later demoted the whole guide from
+      enforcement to a menu of options -- still live content, no longer
+      mandatory craft law.
 
   - id: R2-OP-UNFOLDED_GUIDES
     pack: Pack Two

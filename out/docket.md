@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-16 outstanding.
+12 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -13,12 +13,6 @@
 *Naming Guide Amendment Colophon, blocks: naming, worldbuilding*
 
 > Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.
-
-## R21-5-MATERIAL_CULTURE_PENDING — No Visual Aesthetic Guide pass exists for the bloodline
-
-*Canon Amendment, Agamalu and Büri Origin V, blocks: worldbuilding, items*
-
-> Büri material culture | No Visual Aesthetic Guide pass exists for the bloodline. Red enamel over dark steel as the crown-line pattern, beast-face boss, knotwork belt, fur mantle, robe-over-harness silhouette, and the court-versus-campaign split.
 
 ## R21-5-RESEARCH_DIVISION_PENDING — What the Research Division was declined is unwritten
 
@@ -33,20 +27,6 @@
 > Every page body still reads Büri. Titles are done; the text underneath is not.
 
 Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
-
-## R1-OP-RACIAL_VOICE_GAPS — Racial Voice Guide gaps, docket 20, untouched
-
-*Pack One Still Open, blocks: naming, worldbuilding, register*
-
-> Racial Voice Guide gaps (docket 20): Fleshshaper Goblin register, Winter Eladrin non-verbal convention, Celestial Host voice. Untouched by this pack.
-
-The origin statement of this docket item; restated in Pack Two (R2-OP-RACIAL_VOICE_GAPS) and still open there.
-
-## R2-OP-RACIAL_VOICE_GAPS — Docket 20, Racial Voice Guide gaps
-
-*Pack Two Still Open, blocks: naming, worldbuilding, register*
-
-> Docket 20, Racial Voice Guide gaps. Fleshshaper Goblin, Winter Eladrin, Celestial Host.
 
 ## R2-OP-UNFOLDED_GUIDES — Packs remain paste-in diffs, deliberately, but unfolded
 
@@ -72,21 +52,21 @@ Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three an
 
 Restated near-identically in Pack Four's Still Open section (see R4-OP-ZETTARI_DOCKET); still open as of this pack too.
 
-## R4-OP-COST_TAXONOMY_AUDIT — Cost-taxonomy audit across the major cast, unverified
-
-*Pack Four Still Open, blocks: character-sheet, verification*
-
-> Cost-taxonomy audit across the major cast. Unverified and likely to fail.
-
-Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an ongoing production process); not the same task but the same underlying gap.
-
-## R4-OP-HEMA_ASSIGNMENTS — Named-character HEMA guard and cut assignments, unbuilt
+## R4-H1-WREN_ASSIGNED — Wren Greymane's combat assignment, drafted 2026-09-12
 
 *Pack Four Still Open, blocks: combat, character-sheet*
 
-> Named-character HEMA guard and cut assignments. Flagged since Pack One, still unbuilt. I will take it unprompted if nothing displaces it.
+> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
 
-Pack Thirteen §9 later states these run "in the same edition" as its Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item was eventually addressed.
+Originated (no source document -- drafted 2026-09-12 by a background research agent), grounded in scenes/02_wren_bulwark.md and scenes/03_wren_three_deliveries.md (he absorbs halberd-strikes on a heater shield, then drives the arming sword into the one unarmored spot on the antagonist's neck rather than going for head or chest). Not yet reviewed by Isaac; pitch only.
+
+## R4-H2-EDWARD_LAMBERT_ASSIGNED — Edward Lambert's combat assignment, drafted 2026-09-12
+
+*Pack Four Still Open, blocks: combat, character-sheet*
+
+> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
+
+Originated (no source document -- drafted 2026-09-12 by a background research agent) -- barely needed drafting: scenes/05_sodoku_the_fixed_end.md's own author notes already describe this exact half-sword thrust, cross-strike to the nose, and hip-not-wrist follow-through ("Edward's fighting is HEMA and it is a fifty-three-year-old's HEMA"). Not yet reviewed by Isaac; pitch only.
 
 ## R4-OP-PASTE_IN_DIFFS — All four packs remain paste-in diffs, unfolded
 
@@ -95,14 +75,6 @@ Pack Thirteen §9 later states these run "in the same edition" as its Combat Gui
 > All four packs remain paste-in diffs. Step seven of the run order is not complete until they are folded.
 
 An early instance of the same "fold packs into base guides" standing task later packs keep restating with a growing count (e.g. R19-9-STANDING_TASK).
-
-## R4-OP-PSYCHIC_DISTANCE_BANDS — Psychic-distance bands per POV character are undefined
-
-*Pack Four Still Open, blocks: pov, character-sheet*
-
-> Psychic-distance bands per POV character. FID is house default and no character has a specified band. Amendment Thirteen's carve-out depends on knowing whose idiom the narration runs in, which makes this load-bearing rather than tidy-up. Recommend it moves up the queue.
-
-Cross-referenced by Pack Five §C.3 as making the psychic-distance-band docket item load-bearing rather than tidy-up; still open as of this pack.
 
 ## R4-OP-ZETTARI_DOCKET — Docket 18, Zettari forge-culture substrate unaddressed
 

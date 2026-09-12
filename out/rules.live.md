@@ -1,6 +1,6 @@
 # Live rules by domain
 
-467 live of 577 extracted.
+467 live of 579 extracted.
 
 ## adjudication (23)
 

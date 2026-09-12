@@ -907,7 +907,7 @@ rules:
     pack_number: 4
     section: "Still Open"
     title: Psychic-distance bands per POV character are undefined
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Free indirect discourse is house default but no character has a
@@ -924,21 +924,30 @@ rules:
     supersedes: []
     applies_to: [pov, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: yes, define bands for the major POV cast now"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "223"
     notes: >-
-      Cross-referenced by Pack Five §C.3 as making the psychic-distance-band
-      docket item load-bearing rather than tidy-up; still open as of this
-      pack.
+      Cross-reference note corrected 2026-09-12: the "§C.3" text this row
+      cited as Pack Five's is not verbatim in pack-05-five.yaml; "§C.3"
+      actually occurs in pack-15-fifteen.yaml on an unrelated topic. RULED
+      2026-09-12: yes, define bands now. Drafted by a background research
+      agent for nine major POV characters (Darius, Aurelian, Verinus,
+      Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin close; Rengai
+      medium; Cozbi Mahuo distant/formal), each grounded in scene text with
+      a violation caution; two (Hild Ice, Dabney) flagged as needing more
+      source. Called "narration register," not "Band," to avoid collision
+      with the unrelated FOW Coherence Band stat. Not yet reviewed by
+      Isaac. Full draft in proposals/psychic_distance_bands_draft.md,
+      logged in proposals/PROPOSED.md.
 
   - id: R4-OP-HEMA_ASSIGNMENTS
     pack: Pack Four
     pack_number: 4
     section: "Still Open"
     title: Named-character HEMA guard and cut assignments, unbuilt
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Named-character HEMA guard and cut assignments have been flagged
@@ -951,21 +960,120 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: draft assignments for the named combat cast"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "224"
     notes: >-
       Pack Thirteen §9 later states these run "in the same edition" as its
       Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item
-      was eventually addressed.
+      was eventually addressed. RULED 2026-09-12: draft the remaining gaps.
+      Turned out most of the named cast already has a canonical assignment
+      (Sodoku Moto, Rashani Zettai, Dougou Zettai in this pack; Cozbi Mahuo
+      in Pack Three) plus the newly-ratified Rengai and Black Agent rows.
+      Two new proposed assignments drafted and logged as R4-HEMA-WREN and
+      R4-HEMA-EDWARD_LAMBERT (both status:proposed, pending Isaac's read of
+      the actual content). Considered and skipped as pure unarmed/Essence
+      combatants with no blade to hang HEMA vocabulary on: Darius (Muay-Thai
+      clinch/elbows/knees; owns a hammer, "has never once struck with it"),
+      Verinus VII (fire/wings caster, no weapon), Charles Lambert (unarmed
+      evasion, "had nothing to strike with"), Dhaerin (grimoire/construct
+      caster), Aurelian (precognitive caster, doesn't fight on-page), Kwon
+      Mu-jin (ice/Aetheric caster), Gimbzo (unarmed wrestling instructor).
+      Flagged, not drafted: Kaalabad, a named halberd-wielding antagonist
+      across the Wren scenes, is not tracked in scenes/CAST.md and was left
+      out of scope rather than invent an assignment for an untracked
+      character — worth a look if antagonist coverage is wanted later.
+
+  - id: R4-H1-WREN_ASSIGNED
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Wren Greymane's combat assignment, drafted 2026-09-12
+    status: proposed
+    kind: definition
+    summary: >-
+      Blade grammar; patient under load, gives ground on the shield rather
+      than trade for it, then closes into Nachreisen (a German
+      longsword-tradition term: "following after" — chasing the opening
+      that appears right after a block or parry, instead of attacking on
+      your own initiative) with the arming sword; does not fight the
+      armor, reads for the one unarmored inch and puts the point there.
+    verbatim: >-
+      Wren Greymane | Blade | Patient under load. Takes the blow on the
+      shield and gives ground rather than trade for it, then closes the
+      half-step he's bought into the one point he's already read —
+      Nachreisen with the arming sword rather than a fresh strike. |
+      Doesn't fight the armor. Reads for the one unarmored inch — old scar
+      tissue, a turned collar, the gap above a gorget — and puts the point
+      there and nowhere else. | Pitch
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Originated (no source document -- drafted 2026-09-12 by a background
+      research agent), grounded in scenes/02_wren_bulwark.md and
+      scenes/03_wren_three_deliveries.md (he
+      absorbs halberd-strikes on a heater shield, then drives the arming
+      sword into the one unarmored spot on the antagonist's neck rather
+      than going for head or chest). Not yet reviewed by Isaac; pitch only.
+
+  - id: R4-H2-EDWARD_LAMBERT_ASSIGNED
+    pack: Pack Four
+    pack_number: 4
+    section: "Still Open"
+    title: Edward Lambert's combat assignment, drafted 2026-09-12
+    status: proposed
+    kind: definition
+    summary: >-
+      Blade grammar; half-swording (Halbschwert — gripping partway up his
+      own blade with the off hand for extra leverage and control on a
+      thrust) up under the jaw; turns the point with the hip rather than
+      the wrist because at fifty-three the wrist goes first; no exchanges,
+      one finish.
+    verbatim: >-
+      Edward Lambert | Blade | Half-swording up under the jaw into the
+      floor of the mouth and through the palate; turns the point back out
+      of the wound with the hip rather than the wrist, because at
+      fifty-three the wrist is the first thing to go. No exchanges — an
+      exchange is a thing two men can afford, and he can't. | The cross of
+      his own hilt into the bridge of the nose isn't meant to kill; it buys
+      the half-second to put a foot behind the knee and finish it on the
+      ground, once, with no second exchange. | Pitch
+    amends:
+      - guide: "character sheet template"
+        locus: null
+        operation: adds
+    supersedes: []
+    applies_to: [combat, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Originated (no source document -- drafted 2026-09-12 by a background
+      research agent) -- barely needed drafting:
+      scenes/05_sodoku_the_fixed_end.md's own author notes
+      already describe this exact half-sword thrust, cross-strike to the
+      nose, and hip-not-wrist follow-through ("Edward's fighting is HEMA
+      and it is a fifty-three-year-old's HEMA"). Not yet reviewed by Isaac;
+      pitch only.
 
   - id: R4-OP-COST_TAXONOMY_AUDIT
     pack: Pack Four
     pack_number: 4
     section: "Still Open"
     title: Cost-taxonomy audit across the major cast, unverified
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       A cost-taxonomy audit across the major cast is unverified and likely
@@ -981,10 +1089,20 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Four.md
       lines: "225"
+    ratified: "Isaac, 2026-09-12, Claude Code: audit run, findings recorded"
     notes: >-
       Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an
       ongoing production process); not the same task but the same
-      underlying gap.
+      underlying gap. RULED 2026-09-12: audit run (findings-only, no fixes
+      made). Confirmed the flag: Cozbi Mahuo's technique table has no Cost
+      or Limit column at all (the worst finding — the single most-scened
+      character in the cast), Yoko Mishiro's has the same gap, and Kwon
+      Mu-jin asserts costs without naming them. Clean: Aurelian, Verinus
+      VII, Sodoku Moto, Niran Yukari, Rengai Zettai, Gimbzo. Also surfaced
+      a bigger structural gap: four major-cast characters by scene count
+      (Darius, Charles, Dhaerin, Wren) have no character sheet at all, so
+      their costs were never checkable. Full report:
+      reports/cost_taxonomy_audit_2026-09-12.md.
 
   - id: R4-OP-ZETTARI_DOCKET
     pack: Pack Four

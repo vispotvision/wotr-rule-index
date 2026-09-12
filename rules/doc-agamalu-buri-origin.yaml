@@ -437,7 +437,7 @@ rules:
     pack_number: null
     section: "V"
     title: No Visual Aesthetic Guide pass exists for the bloodline
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       No Visual Aesthetic Guide pass exists for the bloodline; proposed
@@ -456,8 +456,12 @@ rules:
     supersedes: []
     applies_to: [worldbuilding, items]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: yes, write the pass"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "114"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: yes, write it up. Drafted by a background research
+      agent; not yet reviewed by Isaac. Full draft in
+      proposals/moto_material_culture_draft.md, logged in
+      proposals/PROPOSED.md.

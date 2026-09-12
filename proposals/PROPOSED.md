@@ -2,6 +2,34 @@
 
 Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the next amendment pack, or is struck.
 
+## 2026-09-12 — Moto bloodline Visual Aesthetic Guide pass (R21-5)
+
+**Status:** drafted by a background research agent, awaiting Isaac's read
+**applies_to:** worldbuilding, items
+**Full draft:** proposals/moto_material_culture_draft.md
+
+Answers R21-5-MATERIAL_CULTURE_PENDING (no Visual Aesthetic Guide pass
+existed for the Moto bloodline). Builds the six proposed elements (red
+enamel over dark steel, a beast-face boss, a knotwork belt, a fur mantle,
+a robe-over-harness silhouette, a court-versus-campaign split) into a full
+section, plus material-culture variations for the other six of the Seven
+Great Lines. Two pieces flagged as the most speculative in the draft: the
+Tenrai palette (no source fixes one) and the Kurenai crimson/mourning-black
+contrast (an inference, not a stated fact).
+
+## 2026-09-12 — Psychic-distance narration registers for the major POV cast (R4)
+
+**Status:** drafted by a background research agent, awaiting Isaac's read
+**applies_to:** pov, register
+**Full draft:** proposals/psychic_distance_bands_draft.md
+
+Answers R4-OP-PSYCHIC_DISTANCE_BANDS. Assigns a narration register (close /
+medium / distant-formal) to nine major POV characters, each grounded in
+actual scene text, with a violation caution per character. Two characters
+(Hild Ice, Dabney) flagged as needing more source before a register can be
+assigned. Deliberately uses "narration register," not "Band," to avoid
+collision with the unrelated FOW Coherence Band stat.
+
 ## 2026-09-12 — Northern forms for the five steppe Inventory items (R23-8)
 
 **Status:** adopted 2026-09-12 (Isaac delegated the choice): the skin, windmeat, stonecurd, the hide-coat, the Sky

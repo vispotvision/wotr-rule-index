@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-467 live of 577 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+467 live of 579 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (23)
 

@@ -42,6 +42,23 @@ are made, not left pending.
 - [ ] A reader's codex: the trimmed version of the wiki
 - [x] Epub build
 
+## Folding packs into base guides — in progress, 2026-09-12
+
+Isaac: "yes — start folding the packs in now." 18 base guides live at
+`C:\Users\isaac\Documents\WOTR True Canon\`; each amendment rule names its
+target guide in its `amends.guide` field. Four agents launched for the
+most-amended guides first (Master Style Directive, 86 live amendments;
+Ability/Technique Design Guide, 56; Character Naming Guide, 47; Combat
+Craft Guide, 29) -- each writes a new dated edition alongside the
+original (never overwrites it), with a changelog listing every rule ID
+folded in. Remaining ~14 guides, by amendment count: Manual Verification
+Guide (21), Scene Writing Process Guide (19), Mass Combat Craft Guide
+(18), Racial Voice and Dialect Guide (15), Dialogue Craft Standards (9),
+AI Writing Tells to Avoid (8), Visual Aesthetic Guide (8, plus the new
+Moto material-culture proposal once ratified), Item and Equipment Writing
+Guide (7), and the rest with only 1-6 amendments each -- pick up in a
+later session the same way (one agent per guide, same prompt shape).
+
 ## Deferred until there is a reason
 
 - The WOTR Console (local dashboard); a standalone app; n8n; the pack authoring template

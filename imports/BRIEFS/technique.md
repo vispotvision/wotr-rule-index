@@ -3,7 +3,7 @@
 Format: `# <Name>`, migration note, then:
 `## Summary card` — **Effect**, **Cost**, **Limit**, **Counter**, **What nobody knows** (one line each).
 `## Codex line` — Wellspring (from the Sixty), Family, Physics Domain, Category (from the twenty-six), Craft (Magicraft / Spellcraft / Runecraft / Draftcraft), Stage floor, Grade required, Path gate.
-`## Design Chain` — Trigger, Function, Mechanism (the real phenomenon it runs on, named), Numerical Effect (from the FOW scale or `pending Isaac`), Target Response, Consequence, Limitation, Weakness, Cost, Counterplay.
+`## Design Chain` — Trigger, Function, Mechanism (the real phenomenon it runs on, named), Numerical Effect (from the FOW scale; choose and note where the card is silent), Target Response, Consequence, Limitation, Weakness, Cost, Counterplay.
 `## FOW line` — governing Primary and Sub-Stats, Stage floor, Grade required, Path gate, Resonant Pair if any.
 `## Origin` — who derived it, where, for what problem (the named inventor rule), from the card's own history.
 

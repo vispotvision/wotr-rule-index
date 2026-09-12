@@ -76,11 +76,14 @@ number derived from the Fracture of Worlds tables below.
    card gives (who, what, history, relationships, powers) unless it contradicts
    current canon; then convert it and say so in the migration note. Do not add
    history the card does not give.
-2. **Never invent a number.** Level, Stage, Band, Grades, Sub-Stats, EU, η all come
-   off the tables below from what the card states (an old "Stage IX — Reflection"
-   is converted to the FOW Stage of the same numeral, and the card's power
-   description places the Level within that Stage's Band). Where the card gives
-   nothing to derive from, write `pending Isaac` in that slot.
+2. **Numbers come off the tables, and you commit to them.** Level, Stage, Band,
+   Grades, Sub-Stats, EU, η all derive from what the card states (an old "Stage IX
+   — Reflection" is converted to the FOW Stage of the same numeral; the card's power
+   description places the Level within that Stage's Band; Grades follow the Tier
+   Grade ranges). Where the card gives nothing to derive from, choose the most
+   conservative value consistent with the card and the tables, and state the
+   choice in one line of the migration note. Isaac has delegated these calls:
+   never write "pending Isaac", "estimate" or "TBD" in a slot; write the number.
 3. **Verify every proper noun.** Realms, factions, deities, eras, glyph systems,
    languages. Use the `wiki` tool: `wiki("Purganeth")`, `wiki("Parun glyph")`. If it
    exists in current canon, use the current form. If it does not exist, keep it
@@ -144,7 +147,7 @@ def main() -> int:
             "Format: the **Volume IV migration format** used for every card converted from this board so far. Ten sections, exact headings:",
             "`## I · Identity` (with `### Affiliation` and the Catalyst Event blockquote), `## II · Soul Architecture`, `## III · Wellspring Harmonizations`, `## IV · Primary Stats`, `## V · Sub-Stat Peaks`, `## VI · Traits`, `## VII · Artifacts`, `## VIII · Signature` (one `### <technique>` with Effect / Cost / Limit / Counter / What nobody knows), `## IX · Relationships`, `## X · Chapter Appearances`.",
             "",
-            "Stat pool: Stat Pts/Level per Band × levels in each Band, plus the Threshold gates, as in the exemplar (`Pool 8,080 — 4,500 from Bands I–II, 780 from Band III, 2,800 from Thresholds I–VII. Allocated 8,013`). Grades from the Tier Grade table; the Stage's stat ceiling caps every stat. Sub-Stat peaks sit at or a little above their Primary. The card's power description decides where in the Band the Level sits; if the card gives no Stage or Level, both are `pending Isaac` and the stat table is omitted with a note.",
+            "Stat pool: Stat Pts/Level per Band × levels in each Band, plus the Threshold gates, as in the exemplar (`Pool 8,080 — 4,500 from Bands I–II, 780 from Band III, 2,800 from Thresholds I–VII. Allocated 8,013`). Grades from the Tier Grade table; the Stage's stat ceiling caps every stat. Sub-Stat peaks sit at or a little above their Primary. The card's power description decides where in the Band the Level sits; if the card gives no Stage, read one off the power description (a duellist who worries mid-Stage practitioners is Stage V–VI; a realm-scale power is IX and up) and say so in the migration note. Always fill the stat table.",
             "",
             "Gloss rights (a card field, ruled 2026-09-12) go in section I: yes / diagnostic only / unlimited / never, chosen from how the card's voice reads.",
             "",
@@ -156,7 +159,7 @@ def main() -> int:
             "Format: `# <Name>`, migration note, then:",
             "`## Summary card` — **Effect**, **Cost**, **Limit**, **Counter**, **What nobody knows** (one line each).",
             "`## Codex line` — Wellspring (from the Sixty), Family, Physics Domain, Category (from the twenty-six), Craft (Magicraft / Spellcraft / Runecraft / Draftcraft), Stage floor, Grade required, Path gate.",
-            "`## Design Chain` — Trigger, Function, Mechanism (the real phenomenon it runs on, named), Numerical Effect (from the FOW scale or `pending Isaac`), Target Response, Consequence, Limitation, Weakness, Cost, Counterplay.",
+            "`## Design Chain` — Trigger, Function, Mechanism (the real phenomenon it runs on, named), Numerical Effect (from the FOW scale; choose and note where the card is silent), Target Response, Consequence, Limitation, Weakness, Cost, Counterplay.",
             "`## FOW line` — governing Primary and Sub-Stats, Stage floor, Grade required, Path gate, Resonant Pair if any.",
             "`## Origin` — who derived it, where, for what problem (the named inventor rule), from the card's own history.",
             "",

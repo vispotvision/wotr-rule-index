@@ -12,11 +12,14 @@ number derived from the Fracture of Worlds tables below.
    card gives (who, what, history, relationships, powers) unless it contradicts
    current canon; then convert it and say so in the migration note. Do not add
    history the card does not give.
-2. **Never invent a number.** Level, Stage, Band, Grades, Sub-Stats, EU, η all come
-   off the tables below from what the card states (an old "Stage IX — Reflection"
-   is converted to the FOW Stage of the same numeral, and the card's power
-   description places the Level within that Stage's Band). Where the card gives
-   nothing to derive from, write `pending Isaac` in that slot.
+2. **Numbers come off the tables, and you commit to them.** Level, Stage, Band,
+   Grades, Sub-Stats, EU, η all derive from what the card states (an old "Stage IX
+   — Reflection" is converted to the FOW Stage of the same numeral; the card's power
+   description places the Level within that Stage's Band; Grades follow the Tier
+   Grade ranges). Where the card gives nothing to derive from, choose the most
+   conservative value consistent with the card and the tables, and state the
+   choice in one line of the migration note. Isaac has delegated these calls:
+   never write "pending Isaac", "estimate" or "TBD" in a slot; write the number.
 3. **Verify every proper noun.** Realms, factions, deities, eras, glyph systems,
    languages. Use the `wiki` tool: `wiki("Purganeth")`, `wiki("Parun glyph")`. If it
    exists in current canon, use the current form. If it does not exist, keep it
@@ -53,7 +56,6 @@ Do not call `create_character` or write to Notion; a review pass runs first.
 - **The system is Fracture of Worlds.** Sixteen Stages (FOW names: Murmuring, Welling, Ascension, Flourishing, Splintering, Glory, Refraction, Transcendence, Invocation, Realization ...), five Bands by Level, Tier Grades by stat value, eight Primaries with eight Sub-Stats each, seven Aether Classes, Coherence Band and η, the Soul Crystal (Essence Core, Aether Shell, Attraction Layer).
 - **Magic.** Sixty Wellsprings in eight Families, each with a Physics Domain; twenty-six Magical Categories; Four Crafts (Magicraft, Spellcraft, Runecraft, Draftcraft; Chantcraft folded into Spellcraft); the Design Chain is prose-legal; mechanism is on the page; the Origin layer is explicable (ruled 2026-09-12).
 - **Chronology.** The Errata below governs dates and era names; Epoch figures are myth, not arithmetic.
-- **Lineage rulings.** Karo Venrik is the son of Hiromi Mahuo and Saeloria, the Elven Queen of Eresse (Isaac, 2026-09-12); Sandalphon Aestraen is Saeloria's consort, not Karo's father. Apply this wherever any of the four appear.
 - **Cosmology.** Omnara and the Division; the Fourteen Archons in six pairs and a dyad; the Fourteen Titans; the Three Epochs; the Celestial Host. Verify any deity or entity the card names.
 
 ## Errata to the Received Registers (dates and eras)
@@ -401,6 +403,8 @@ The Magical Categories answer what kind of thing it is — Arts, Drafts, Conjunc
 - Ar Nutag → Okuchi
 - Sātūlagi → (struck; the Inner World / Kharven)
 - Satulagi → (struck)
+- Vāimoana → Wadatsumi
+- Vaimoana → Wadatsumi
 - Tsagaan → Byakuya
 - Süldiin → Reigan
 - Möngön → Shirogane

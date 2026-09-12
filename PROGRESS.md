@@ -361,3 +361,21 @@ cards (Ignition/Temper -> Murmuring/Flourishing); the Ladder / prose-law pass
 over the scene archive; folding the packs into the base guides.
 
 Totals after: live 399, superseded 78, pending 28, proposed 72.
+
+## 2026-09-12, later — the Agamalu retcon on Muken's queen reversed
+
+Isaac, in Claude Code: "Ayame Yuno over Filemu Agamalu we retconned the
+Agamalu register." R21-1-QUEEN_OF_KHARVEN_RULING, R21-2-FILEMU_NAME_CORRECTION,
+R21-2-FILEMU_FULL_NAMING and R21-5-FILEMU_VOICE_PENDING superseded; the queen
+is Ayame Yuno, exactly as her own (untouched) Volume I card already has her.
+R22-2-UNAFFECTED_CHARACTERS noted moot on its Filemu/Agamalu clause only.
+C-002 addended as overtaken by events; C-004 opened (does the Agamalu
+homeland/Wadatsumi material survive as unrelated worldbuilding, since its
+only tie to Kharven — the marriage — is gone). Swept "Filemu Agamalu"/"Fusi
+Vā"/"Tausi o le Vā Atoa" back to "Ayame Yuno"/"Saishiki"/"Zenma no Mamori"
+across the two Kingdom of Kharven base guides (historical Errata entries
+kept, marked superseded rather than deleted) and the two live wiki pages
+that carried her (Yasoshima — The Eighty Isles, The Arctic Lion).
+
+Totals after: live 397, superseded 81, pending 27, proposed 72 (four rows
+moved live -> superseded; none of the totals track C-series conflicts).

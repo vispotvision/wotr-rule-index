@@ -1,0 +1,440 @@
+# WOTR Racial Voice and Dialect Guide — Amendment. Standalone doc, no pack
+# number. Uses R24 as a mechanical ID-numeral bucket (the schema's id
+# pattern requires a numeral; this doesn't imply any pack precedence
+# ordering, which pack_number:null already disables). A "CLOSED BY THIS
+# AMENDMENT" table confirms docket item 20 settled; status:live throughout.
+# The doc's own caveat ("if any of these cultures has established speech
+# in a document I did not reach, these are overridden by it") is noted
+# here rather than treated as a status downgrade.
+pack: Racial Voice and Dialect Guide Amendment
+pack_number: null
+source_file: WOTR_Racial_Voice_Guide_Amendment.md
+ratified: null
+rules:
+
+  - id: R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "I"
+    title: Fleshshapers talk like surgeons never told to be squeamish
+    status: live
+    kind: definition
+    summary: >-
+      Fleshshaper Goblin register is governed by the fact that they are
+      surgeons who talk like surgeons never told to be squeamish about it.
+    verbatim: >-
+      The governing principle: they are surgeons, and they talk like
+      surgeons who have never been told to be squeamish about it.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "14"
+    notes: null
+
+  - id: R24-1-FLESHSHAPER_SYNTAX
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "I"
+    title: Fleshshaper syntax fronts the object being worked on
+    status: live
+    kind: definition
+    summary: >-
+      Short declarative clauses in working order, sequence first and
+      reason second or not at all; they front the object ("The arm, I open
+      here"), naming the thing being worked on before the working.
+    verbatim: >-
+      Short declarative clauses in working order. They describe procedure
+      the way a competent tradesman describes procedure: sequence first,
+      reason second or not at all. Compound sentences are rare and always
+      join a step to its consequence. They front the object. The arm, I
+      open here.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "18-20"
+    notes: null
+
+  - id: R24-1-FLESHSHAPER_IDIOM_AND_MARKERS
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "I"
+    title: Fleshshaper idiom is anatomy applied to everything; two markers
+    status: live
+    kind: definition
+    summary: >-
+      Anatomy applied to everything, not as metaphor but as their actual
+      vocabulary (a seam, badly sutured, swelling, opened, holds under
+      load); exactly two phonetic markers — dropped final -g on gerunds,
+      and "th" hardening to "d" only in unstressed grammatical positions.
+    verbatim: >-
+      Anatomy, applied to everything. Not as metaphor and not as a shock
+      device. It is simply the vocabulary they have, extended outward the
+      way a sailor extends rigging or a smith extends heat.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "24"
+    notes: null
+
+  - id: R24-1-FLESHSHAPER_SIGNATURES_AND_TELL
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "I"
+    title: Fleshshaper signature turns and stress-tell
+    status: live
+    kind: definition
+    summary: >-
+      Signature lines "That closes" (anything settled) and "Who holds it?"
+      (their first question about any structure); under stress they become
+      more procedural, not less, shortening to pure sequence with the
+      reasons dropped.
+    verbatim: >-
+      - "That closes." Said of anything settled: a wound, an argument, a
+      debt, a life. Their all-purpose full stop. - "Who holds it?" Their
+      first question about any structure, organisation, alliance or plan.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "43-48"
+    notes: null
+
+  - id: R24-2-ELADRIN_GOVERNING_PRINCIPLE
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "II"
+    title: Winter Eladrin speak; speech is the least of what they do
+    status: live
+    kind: definition
+    summary: >-
+      Winter Eladrin are not silent; speech is the least of what they are
+      doing, and the prose has to carry the rest through distance and
+      stillness.
+    verbatim: >-
+      The governing principle: they speak. The convention is not silence.
+      It is that speech is the least of what they are doing, and the prose
+      has to carry the rest.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "58"
+    notes: null
+
+  - id: R24-2-ELADRIN_THREE_CHANNELS
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "II"
+    title: Eladrin communication runs on speech, distance and stillness
+    status: live
+    kind: mandate
+    summary: >-
+      Prose must render at least two of three simultaneous channels in any
+      exchange of consequence — sparse speech that rarely carries the
+      content, distance (approach is agreement, a half-step back is
+      objection, turning without moving the feet is refusal), and
+      stillness (complete stillness is often the loudest thing in the
+      room).
+    verbatim: >-
+      Winter Eladrin communication runs on three channels simultaneously.
+      Prose must render at least two in any exchange of consequence.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "62"
+    notes: null
+
+  - id: R24-2-ELADRIN_NEVER_BARE_LINE
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "II"
+    title: Never write an Eladrin line without a distance/stillness beat
+    status: live
+    kind: ban
+    summary: >-
+      Never write an Eladrin line of dialogue without a distance or
+      stillness beat attached; a bare Eladrin line is an incomplete
+      sentence in their language.
+    verbatim: >-
+      Never write an Eladrin line of dialogue without a distance or
+      stillness beat attached. A bare Eladrin line is an incomplete
+      sentence in their language, and the reader should be able to follow
+      an entire Eladrin conversation with the dialogue removed.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, prose-law]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "70"
+    notes: null
+
+  - id: R24-2-ELADRIN_SYNTAX_AND_MARKERS
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "II"
+    title: Eladrin syntax is archaic-formal with zero phonetic markers
+    status: live
+    kind: definition
+    summary: >-
+      No contractions ever, present tense for permanent conditions,
+      questions phrased as statements with an expectant pause, no
+      interrupting or overlapping; zero phonetic markers, deliberately —
+      their unaccented perfection is enormous effort read as coldness.
+    verbatim: >-
+      Formal, complete, and slightly archaic through the retention of full
+      forms: no contractions, ever, and this is the one absolute in the
+      register.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "77"
+    notes: null
+
+  - id: R24-2-ELADRIN_IDIOM_AND_SIGNATURES
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "II"
+    title: Eladrin idiom is weather and cold; two signature turns
+    status: live
+    kind: definition
+    summary: >-
+      Idiom draws on weather, season and the behaviour of cold as literal
+      analytical vocabulary (thawing/set, keeps, melted, tracked);
+      signature lines "It keeps" and "You have moved"; under stress
+      stillness increases and the distance grammar stops entirely.
+    verbatim: >-
+      Weather, season and the behaviour of cold. Never as decoration and
+      always as the actual analytical vocabulary.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "83"
+    notes: null
+
+  - id: R24-3-HOST_GOVERNING_PRINCIPLE
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "III"
+    title: The Host reports accurately; accuracy doesn't translate to mortal use
+    status: live
+    kind: definition
+    summary: >-
+      The Host is not speaking scripture; they report accurately, and
+      their difficulty is that accuracy in their register does not
+      translate into a mortal one.
+    verbatim: >-
+      The governing principle: they are not speaking scripture. They are
+      reporting, accurately, and their difficulty is that accuracy in
+      their register does not translate into a mortal one.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "111"
+    notes: null
+
+  - id: R24-3-HOST_SYNTAX
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "III"
+    title: The Host is declarative, unhedged, and answers precisely
+    status: live
+    kind: definition
+    summary: >-
+      Declarative, present tense, unhedged — never "I think" or "perhaps";
+      short flat subject-verb-object sentences; they answer precisely the
+      question asked, not the question intended, which is where every
+      conversation with the Host goes wrong.
+    verbatim: >-
+      Declarative, present tense, and unhedged. The Host does not say I
+      think, perhaps, it seems or in my view, because those constructions
+      describe a relationship between a speaker and a claim, and the Host
+      does not have that relationship. They state.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "115"
+    notes: null
+
+  - id: R24-3-HOST_CORE_DEVICE
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "III"
+    title: The Host cannot be imprecise, and knows its precision is useless
+    status: live
+    kind: definition
+    summary: >-
+      A Host gives an answer that is correct and unusable, aware of this
+      and unable to do anything about it — accurate rather than confident,
+      which is what stops them sounding like scripture.
+    verbatim: >-
+      They cannot be imprecise, and they know their precision is useless.
+      A Host asked how long something will take gives an answer that is
+      correct and unusable.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "123"
+    notes: null
+
+  - id: R24-3-HOST_IDIOM_AND_SIGNATURES
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "III"
+    title: The Host's idiom is measure and law; obvious celestial words banned
+    status: live
+    kind: ban
+    summary: >-
+      Idiom draws on measure, position and law (out of position, standing,
+      no place, release a claim); light/fire/wings are banned as too
+      obvious; signature lines "That is not the question" and "I do not
+      have that"; under stress the Host becomes more precise and slower,
+      with hedges appearing for the first time.
+    verbatim: >-
+      Measure, position, and law. Distance, weight, order, precedence,
+      standing. Never light, never fire, never wings. The obvious
+      celestial vocabulary is banned in this register precisely because it
+      is obvious.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [register, dialogue]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "131"
+    notes: null
+
+  - id: R24-3-HOST_BREAKS_ON_MAXIM
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "III"
+    title: A Host line that scans as a maxim has failed
+    status: live
+    kind: ban
+    summary: >-
+      Any Host line that could appear on a temple wall has failed; if it
+      scans as a maxim, cut it and replace it with a report.
+    verbatim: >-
+      Any Host line that could appear on a temple wall has failed. If it
+      scans as a maxim, cut it and replace it with a report.
+    amends:
+      - guide: "WOTR_Racial_Voice_and_Dialect_Guide.md"
+        locus: "docket 20"
+        operation: adds
+    supersedes: []
+    applies_to: [dialogue, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "153"
+    notes: null
+
+  - id: R24-N-OVERRIDE_CAVEAT
+    pack: Racial Voice and Dialect Guide Amendment
+    pack_number: null
+    section: "Notes"
+    title: All three registers are originations, overridden by any prior lore
+    status: live
+    kind: definition
+    summary: >-
+      All three registers are originations contradicting no existing lore
+      (none existed); if any culture has established speech in an
+      unreached document, these are overridden by it.
+    verbatim: >-
+      All three are originations and none contradicts existing lore,
+      because no lore existed. If any of these cultures has established
+      speech in a document I did not reach, these are overridden by it and
+      I would rather be told than have it discovered in prose.
+    amends: null
+    supersedes: []
+    applies_to: [register, dialogue, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Racial_Voice_Guide_Amendment.md
+      lines: "167"
+    notes: null

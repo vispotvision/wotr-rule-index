@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81fb-a0e8-ce042e2c2142"
 notion_url: "https://app.notion.com/p/The-Abyssal-Depths-Prometheus-Zar-thuun-Vohrin-3c758200eb2281fba0e8ce042e2c2142"
 section: "The Fourteen Titans"
 tags: []
-last_edited: "2026-08-25T23:35:00.000Z"
+last_edited: "2026-09-12T17:03:00.000Z"
 verification: "unverified"
 ---
 
@@ -114,7 +114,7 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 
 ### The Titan-Keyed Art — *The Stillwater Rite*
 
-*Defensive · Fulguria · Crymorath · Electromagnetism · Revelation+ · [Vor] Return + [Cro] Cycle*
+*Defensive · Fulguria · Cymorath · Electromagnetism · Revelation+ · [Vor] Return + [Cro] Cycle*
 > The second of the two workings gated above Zenith. **Stage XV, Revelation.** Nobody in the Accord's living register holds both this and *The Closing Eye*.
 **Trigger**  The target must already be in genuine crisis. Dying, catastrophically wounded, or cursed past normal stabilisation. It will not take on a target who could still be saved by ordinary means.
 **Effect**  Holds a target's Essence motionless in perfectly reflective stasis, neither emitting nor absorbing, until the caster chooses to release it. The target neither worsens nor improves, frozen at the exact instant of the casting, and time outside the field goes on without them.
@@ -123,4 +123,4 @@ Maelor, Memory. He softens remembrance into myth, easing suffering through erasu
 **Limit**  It suspends. It heals nothing, and whatever was killing the target is still killing them the moment the field drops.
 **Counter**  [Ra] Flame reintroduces active thermal and emotional flux into the field, breaking the zero-flux condition and forcing the target back into normal time. Which is frequently catastrophic and occasionally the only mercy available.
 **What nobody knows**  Why the held forget purpose before they forget pain. Every other kind of erasure in the register runs the other way round.
-*Codex: [Vor] Return + [Cro] Cycle / Crymorath / Fulguria / Electromagnetism / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*
+*Codex: [Vor] Return + [Cro] Cycle / Cymorath / Fulguria / Electromagnetism / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.*

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-813e-a5d3-e2161752a25f"
 notion_url: "https://app.notion.com/p/Draven-Kael-Vorrick-The-Beast-Slayer-3bd58200eb22813ea5d3e2161752a25f"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T12:53:00.000Z"
+last_edited: "2026-09-12T17:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -42,8 +42,8 @@ verification: "unverified"
 
 ## III · Wellspring Harmonizations
 
-**Crymorath** · Caloria. **The cold law.** *Heat's absence, held as a discipline rather than suffered as a condition.*
-**Cinerion** · Caloria. **Ash and remnants** — the obfuscation, and the archive of kills. **Same-Family compounding with Crymorath**, which is why the cold reads denser than his Ardency accounts for.
+**Cymorath** · Caloria. **The cold law.** *Heat's absence, held as a discipline rather than suffered as a condition.*
+**Cinerion** · Caloria. **Ash and remnants** — the obfuscation, and the archive of kills. **Same-Family compounding with Cymorath**, which is why the cold reads denser than his Ardency accounts for.
 **Tenebra** · Limina. *Signal-to-noise reduction — he is not invisible, he is quieter than the background, which for an ambush hunter is the whole discipline.*
 **Petralon** · Vectoria. **The kinetic ignition.**
 > **Network** · *Three additional Wellsprings networked along predatory lines.* **The legacy sheet's "54 remaining Wellsprings" reads as a count against the sixty**, which would make his harmonisation total six — *above his Tempering Capacity at this Stage, and worth flagging.*
@@ -97,4 +97,4 @@ verification: "unverified"
 ## VIII · Appearance
 
 **1.95m.** Lean, dense, **heavily scarred muscle.** Dark weathered skin; **eyes the colour of chipped ice.** *Black hair tightly bound in a single thick braid interwoven with bone talons.*
-> **Codex** · Caloria / Thermodynamics / Crymorath primary / Stage VI.
+> **Codex** · Caloria / Thermodynamics / Cymorath primary / Stage VI.

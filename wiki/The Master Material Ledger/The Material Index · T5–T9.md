@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81ab-a443-e7e80d34db3d"
 notion_url: "https://app.notion.com/p/The-Material-Index-T5-T9-3b158200eb2281aba443e7e80d34db3d"
 section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-12T17:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -29,7 +29,7 @@ verification: "unverified"
 | **Dawnsilver Thread** *Holding · Thread · Utopia* | Silkworms of the upper canopy in Highspire | Person-addressed binding (inferred) | Reflects radiant spells and **can bind a broken Name back into the soul** if used in ceremonial stitching. *One of the two attestations the Measurewrights use to infer silver's resonance* |
 | **Gloomhide** *Bearing · Leather · South* | Beasts born in forgotten spirit zones | — | Hyper-resilient; **spiritually inert.** Repels light-based castings and weak divine strikes. **The one material in the ledger that is simultaneously an ideal armour backing and completely useless as a substrate** |
 | **Veilbone** *Holding · Organic / Essence Stone* | World fractures near the thinning Veil | — | Hollow-sounding core, spirit-touched. **Every spirit bell in the four quarters is Veilbone or is pretending to be.** *Harvest sites are dangerous* |
-| **Glacium** *Holding · Frost-Infused Mineral · Iampu* | Grown in the ice-caves under Winter Court licence | Crymorath · Caloria · Thermodynamics | **Not quarried in any ordinary sense. Grown**, slowly, in caverns held below freezing for the purpose, **in a process the Winter Court does not document.** Frost-bound weaponry; mercenary payment stock. *No inspection permitted.* **The Logistics Division's standing note:** holding a cavern below freezing for years requires a sustained draw from somewhere, and no vein is registered under the ice-caves. *The Court's position is that the caves are naturally cold. The Division has asked twice how cold and been answered neither time* |
+| **Glacium** *Holding · Frost-Infused Mineral · Iampu* | Grown in the ice-caves under Winter Court licence | Cymorath · Caloria · Thermodynamics | **Not quarried in any ordinary sense. Grown**, slowly, in caverns held below freezing for the purpose, **in a process the Winter Court does not document.** Frost-bound weaponry; mercenary payment stock. *No inspection permitted.* **The Logistics Division's standing note:** holding a cavern below freezing for years requires a sustained draw from somewhere, and no vein is registered under the ice-caves. *The Court's position is that the caves are naturally cold. The Division has asked twice how cold and been answered neither time* |
 
 ---
 
@@ -39,7 +39,7 @@ verification: "unverified"
 | Material | Source | Resonance | What it is |
 |---|---|---|---|
 | **Soulquartz** *Holding · Crystal · Wellspring sites* | Forms in soul wells during Wellspring awakenings | — | Storage of emotional resonance and raw spiritual force. **The nearest thing the ledger has to genuine Essence storage**, which is why the coin volume's whole argument turns on the word *until.* Shatters only under Archon interference |
-| **Frostwool** *Holding · Fabric · Iampu* | Sheared from the frostborn fauna of Iampu | Crymorath (inferred) | Nullifies fire-based drafts and wards against fear glyphs. **Holds temperature balance even near Crevice rifts, which is the property that matters and the one nobody can explain** |
+| **Frostwool** *Holding · Fabric · Iampu* | Sheared from the frostborn fauna of Iampu | Cymorath (inferred) | Nullifies fire-based drafts and wards against fear glyphs. **Holds temperature balance even near Crevice rifts, which is the property that matters and the one nobody can explain** |
 | **Grimbarite** *Holding · Stone · South* | Buried beneath the Crevice fault system | — | Repels Fate and Name manipulation. Heavy, silent in all forms, **absorbs prayer.** Anti-scrying construction and sealed vaults. **Extraction requires working inside the Crevice margin, and the mortality figures for Grimbarite crews are not published** |
 | **Whiteshard** *Holding · Mineral* | Forged in radiant Wellspring eruptions | Luminalis (inferred) | Reflects spiritlight and resists holy corruption. **Glows when a lie is spoken nearby, which has ended more negotiations than it has assisted** |
 | **Glyphed Myrrhstone** *Holding · Alchemical Compound · West* | Compounded in sacred vaults beneath Lurien | Fixatio (inferred) | Semi-liquid under moonlight, **hardens under oath.** Glyphs written on it are immune to time or weather. **The physical basis of permanent law in the western quarter.** *Requires an oath to set at all* |

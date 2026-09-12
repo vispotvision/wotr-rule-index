@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8188-a6bd-ead4d9acd561"
 notion_url: "https://app.notion.com/p/Hide-Horn-and-Bone-3b158200eb228188a6bdead4d9acd561"
 section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -25,7 +25,7 @@ verification: "unverified"
 
 | Material | Source | Resonance · Family · Domain | What it is |
 |---|---|---|---|
-| **Fellstag Winterpelt** *T2 · Bearing · North* | Fellstag herds, **taken in the cold months only** | Crymorath · Caloria · Thermodynamics | Excellent insulation; turns a glancing cut and nothing more. **The cold teams' single most important piece of equipment and the reason the winter trade exists at all.** *The pelt rots fast above freezing and cannot be worked in summer* |
+| **Fellstag Winterpelt** *T2 · Bearing · North* | Fellstag herds, **taken in the cold months only** | Cymorath · Caloria · Thermodynamics | Excellent insulation; turns a glancing cut and nothing more. **The cold teams' single most important piece of equipment and the reason the winter trade exists at all.** *The pelt rots fast above freezing and cannot be worked in summer* |
 | **Marshcoat Hide** *T3 · Bearing · South* | Ambush predators of the Dorrosfenn basins | Abyntheus · Fluxia · Fluid Dynamics | Sheds water completely; supple when wet. **Carries a stillness rather than an appetite.** *Nothing spoils inside a Marshcoat bag. Sealwright teams pay whatever is asked.* Cracks in dry heat and will not recover |
 | **Slatecoil Skin** *T4 · Bearing · East* | Ironcoil kin from the deep Braqth galleries | Petralon · Vectoria · Mechanics | Layered scale spreading a crushing blow across a wide area. **Inert by construction.** Brigandine facing and array-house aprons. *The mundane cousin of Coilhide and better at the one thing Coilhide does.* **A thrust goes between the scales** |
 | **Slatescale** *T4 · Bearing · East* | **Shed plates, gathered rather than taken** | Petralon · Materia · Material Science | Excellent against cutting, poor against crushing — **the plates transmit what they do not stop.** *Gathered rather than taken, which puts it outside the runner trade entirely and into the hands of children* |
@@ -60,7 +60,7 @@ verification: "unverified"
 | Material | Source | Resonance · Family · Domain | What it is |
 |---|---|---|---|
 | **Field Draw** *T1 · Holding · all quarters* | **Bled at the kill into a sealed vessel** | Anima Spirare · Vitalia · Biochemistry | Base stock for Class III rendering. **The single largest input by volume into the reagent economy and the one with the shortest clock.** *Two hours in summer and the lot is worthless* |
-| **Coldblood Concentrate** *T4 · Holding · North* | Cold-adapted predators, **rendered without warming** | Crymorath · Fulguria · Electromagnetism | Carry 60–70, thermal-differential set. Wyrmcold Quench base. **Fails to any warming at any point between kill and seal.** ***This is the material the entire winter trade exists to produce and the reason cold teams accept the terms they accept*** |
+| **Coldblood Concentrate** *T4 · Holding · North* | Cold-adapted predators, **rendered without warming** | Cymorath · Fulguria · Electromagnetism | Carry 60–70, thermal-differential set. Wyrmcold Quench base. **Fails to any warming at any point between kill and seal.** ***This is the material the entire winter trade exists to produce and the reason cold teams accept the terms they accept*** |
 | **Sovereign Ichor** *T7 · Holding · unconfirmed* | Dragon or Sovereign-class entity. **Recovery, salvage or inheritance only** | Vantabriel · Limina · Abstract/Entropic | Class V. **Law-shaped. Carry 88–94.** Sovereign Quench and Gold Sigil work. **Nothing known fails it. It does not degrade and it does not stop.** *Every lot has a provenance chain and most of the chains are killings* |
 | **Ember Bladder** *T3 · Holding · East* | Fire-gland of caldera-belt fauna | Ignivale · Caloria · Thermodynamics | Modest and volatile — **discharges rather than holds.** Militia charges, field ignition, Wick-Salt upgrade stock. **A stored bladder discharges on its own inside a year.** *Cheap, effective, and responsible for more workshop fires than any other single input* |
 | **Reading Gland** *T5 · Holding · West* | Scent and resonance organs of pack predators | Luminalis · Fulguria · Electromagnetism | **Carries a perception set rather than an appetite.** Assay aids, tracking compounds, Null Warden issue. **Decomposition clock is under an hour and no field technique extends it.** ***The reason cold teams exist for products that are not cold products. Nothing else buys an hour*** |

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812b-b35b-cde0ec8d5315"
 notion_url: "https://app.notion.com/p/Valthrum-The-Cryon-King-3d958200eb22812bb35bcde0ec8d5315"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Valthrum · The Cryon King
 
 > *"The fire burns, the wind screams, the earth breaks. Only the ice remembers. I do not bring death; I bring the peace of the pause."*
-> **Migrated with all content preserved.** **"Aether Class: Emitter (Stasis-Field Type)"** is not among the seven; his own description of working by removing energy rather than emitting it is the textbook description of **Class VI, The Voidic**, the inverted shell that devours and reflects instead of projecting. **"Numen (Greater Elemental Eidolon)"** is not an attested race. Stage XIII, Principality, is itself defined in current canon as the **first World Spirit threshold**, and that is what he converts to: a Titan-wrought being who has crossed into World Spirit status, rather than a race called Numen. **"Cryon (Glacial Ice)"** is not one of the Sixty; the current, attested ice Wellspring is **Crymorath**, filed under **Fulguria**, confirmed against two other current sheets that already use it. **"Era of the Splintering"** conflated a Temperance Stage name with a chronological era; the current era is the **Withering Era**, and the correction is made throughout. **Florwyn**, the Titan who made him, is confirmed canon, and her domain of restorative entropy matches his own stated philosophy closely enough that the connection is kept exactly as the card wrote it.
 
 ---
 
@@ -41,7 +40,7 @@ verification: "unverified"
 
 ### III · Wellspring Harmonizations
 
-**Crymorath** · Fulguria. The current, attested spelling of the ice law the old sheet called Cryon. Snap-freezes moisture into armor and weaponry on contact.
+**Cymorath** · Fulguria. The current, attested spelling of the ice law the old sheet called Cryon. Snap-freezes moisture into armor and weaponry on contact.
 **Nihiloth** · Limina. The Hollow Law. Entropy proper, the source of the "Magic Dead Zone" risk if his control slips and the Aether itself freezes.
 **Fractura** · Vectoria. The Breaking Point. What a target takes if the ice around it is broken rather than waited out.
 
@@ -112,4 +111,4 @@ verification: "unverified"
 ### X · Chapter Appearances
 
 *None recorded on the source card.* Currently **Dormant** in the Northern Waste, awaiting what he calls the Signal of Entropy. This migration is his first indexed appearance.
-> **Codex** · Fulguria / Electromagnetism / Crymorath primary / Stage XIII.
+> **Codex** · Fulguria / Electromagnetism / Cymorath primary / Stage XIII.

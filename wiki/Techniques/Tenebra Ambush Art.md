@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81fd-bd46-fa749d2b18eb"
 notion_url: "https://app.notion.com/p/Tenebra-Ambush-Art-3d958200eb2281fdbd46fa749d2b18eb"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:23:00.000Z"
 verification: "unverified"
 ---
 
 # Tenebra Ambush Art
 
 ## Tenebra Ambush Art
-
-> **Migration note.** Converted for Draven Kael Vorrick, whose Volume IV character card already documents this Wellspring set: Crymorath, Cinerion, Tenebra and Petralon, Stage VI (Glory), Aether Shell Class III (Resonant), Path Body-dominant. The card's "Secondary: Vohrin" is corrected: Vohrin is the Titan of Niflheim (Abyssal Depths), not one of the Sixty Wellsprings, and cannot fill a Wellspring slot. Draven's card already accounts for the Vohrin reference; it calls him "attuned to the Titan Vohrin's cold laws" as lineage flavour, not a harmonisation. Petralon, one of his four documented Wellsprings, is substituted as the technique's secondary current, since "the kinetic ignition" is exactly what the ambush's closing strike needs and Cinerion (the Ash Veil, his obfuscation/cold-trail harmonisation) is named for the pursuit-misdirection outcome. "Aether Class: Primal-Kinetic" and "Path: Shadow Predator" are old free-text labels; his sheet gives Class III, The Resonant and Path: Body, and those govern here. Stage VI Glory converts unchanged (same numeral, current Stage name). Numbers below are Draven's own documented figures (Dexterity 358/A, Dexterity Silence 386, Ardency 320/A) rather than invented ones; the 8-metre displacement and the qualitative Essence cost are the card's own physical facts and are kept as given.
 
 ### Summary card
 

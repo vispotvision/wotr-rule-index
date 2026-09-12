@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8193-9242-cd94b565e886"
 notion_url: "https://app.notion.com/p/Vaelthyr-Iscarn-Laughing-Horn-3bd58200eb2281939242cd94b565e886"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:03:00.000Z"
+last_edited: "2026-09-12T17:03:00.000Z"
 verification: "unverified"
 ---
 
@@ -41,7 +41,7 @@ verification: "unverified"
 
 ## III · Wellspring Harmonizations
 
-**Crymorath** · Caloria. **The cold law** — *heat's absence held as a discipline.* **Winterborn Cruelty, and the razor-thin edges.**
+**Cymorath** · Caloria. **The cold law** — *heat's absence held as a discipline.* **Winterborn Cruelty, and the razor-thin edges.**
 **Mirithane** · Limina. **Specular reflection — a true mirror adds nothing.** *The Devil's Smile makes his amusement infectious or unsettling depending on intent, because a faithful mirror returns exactly what was sent.*
 > *Failure: the mirror does not discriminate. A practitioner in a state they would rather not broadcast broadcasts it perfectly — which for a diplomat whose loyalty is debatable is the single most dangerous line on this sheet.*
 **Nyxial** · Limina. **Thermal inertia under negative feedback** — *a baseline that does not rise in favourable conditions and does not fall in hostile ones.* **"It waits" is a regulated setpoint, not patience.**
@@ -113,4 +113,4 @@ verification: "unverified"
 ## IX · Chapter Appearances
 
 **First appearance** · *Chapter XVIII — Frost Under Velvet.* **Major arcs** · *The Epphrenean Bargain* (Ch. XVIII–XIX) · *The Hollow Summit* (Ch. XX) · *Ash and Frost Conspiracy* (Ch. XXIII).
-> **Codex** · Caloria / Thermodynamics / Crymorath primary / Stage VIII.
+> **Codex** · Caloria / Thermodynamics / Cymorath primary / Stage VIII.

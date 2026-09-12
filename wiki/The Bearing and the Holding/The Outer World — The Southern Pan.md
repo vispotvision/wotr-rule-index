@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b7-a424-d89331b2da8c"
 notion_url: "https://app.notion.com/p/The-Outer-World-The-Southern-Pan-3b158200eb2281b7a424d89331b2da8c"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-08-15T00:24:00.000Z"
+last_edited: "2026-09-12T16:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -54,7 +54,7 @@ A black-laced weave that dulls aura flicker and burns readily. *The Accord notes
 >
 > Ground and spread on western fields it **doubles a wheat yield.** Ground and prepared otherwise it is **the primary reagent of every necromantic practice in the quarter.** The same bench, the same rock, the same barge.
 >
-> The Holy See of Lurien has twice attempted to establish that the two uses can be legally distinguished at the point of sale and has twice failed, **because they cannot be distinguished at the point of extraction either.**
+> The Holy Sea of Alabaster has twice attempted to establish that the two uses can be legally distinguished at the point of sale and has twice failed, **because they cannot be distinguished at the point of extraction either.**
 >
 > Bearing negligible, Holding high and specific. Resonance: Mortalis, Rebirthine. Family Vitalia, Domain Biochemistry.
 **Palebed Nitre** · *T1 · Mineral · Nitrate caliche, interior pans*
@@ -213,4 +213,4 @@ The Ten Great Houses of Drakyssia
 > **A fourth resolution, available here and possibly upstream.** The ledger is an **Accord document about ground Accord surveyors can reach.** Everything it records for this quarter is dry, low, treeless and westward-facing — which is precisely the Dust Coast, the Varakh Drylands and the Ashen South. If eighty percent of the continent is draconic and issues no survey permits, then the Measurewrights never wrote the wet half **because they were never let in**, and the ledger is not wrong so much as it is a partial survey wearing the confidence of a complete one. *That is diegetically better than any of the three exits offered on the Old World page, and it costs no canon.*
 >
 > **Whether it rescues the Old World too is a separate question and my answer is no.** Coal foreland, karst, coppiced woodland on eleven-hundred-year rotation and orange acid drainage are not an unsurveyed corner of an African-register supercontinent; they are a different landmass. The partial-survey reading works here and does not work there, which is itself evidence the two documents are misfiled differently.
-> **Live error on this page, unrelated to the above.** The Marrowchalk entry cites **the Holy See of Lurien**, which is dead canon — retconned and replaced by the **Holy Sea of Alabaster**. Whether Alabaster inherits that jurisdiction over southern phosphate law, or whether the clause simply goes, is Isaac's ruling. Flagged rather than fixed because it is a canon-anchoring change, not a typo.
+> **Ruled 2026-09-12.** The Marrowchalk entry cited the Holy See of Lurien, dead canon, retconned and replaced by the Holy Sea of Alabaster. **Alabaster inherits the jurisdiction** over southern phosphate law, along with everything else it replaced. Fixed above.

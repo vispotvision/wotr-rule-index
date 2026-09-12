@@ -1,7 +1,5 @@
 # Speculum Recordatio
 
-> Converted from a pre-Fracture Abilities card for Serenyra, a reactive counterspell that records an incoming working and returns a mirrored, dissonant copy against it. The old free-text "Aether Class: Symphonic Scholar, Harmonic Orchestration" is replaced with Class II, the Harmonic, read directly off the per-stage Coherence Band (D) at the card's own numeral, Stage VI, which converts by numeral to its FOW name, Glory. "Mind Path" is not a current Path name; given the technique's projection-and-inscription profile it converts to Spirit Path. The two named sources, Dream and Harmonic, are not literal Sixty names. Dream converts to Oneirion, the Wellspring of Dream, directly. Harmonic converts to Mirithane, the Wellspring of Reflection, the closer functional match for a mirrored-recall mechanism than any name that merely contains the word harmonic. Serenyra has no character card in current canon and is carried as unattested, as is the Thesauriel, the Mirror Codex the technique depends on to function. "Zar'thuun" in the counters section was already correct as written and needed no change; Zar'thuun is the current Titan of Abythron, void and entropy.
-
 ## Summary card
 
 **Effect** · Reads the Essence signature and structure of a spell mid-cast and answers it with a manifested, fractured echo of the same working, which collides with the original rather than dispelling it.

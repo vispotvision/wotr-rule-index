@@ -380,7 +380,7 @@ rules:
     pack_number: null
     section: "V"
     title: What the Research Division was declined is unwritten
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       What the Agamalu declined to disclose to the Accord's Research
@@ -393,11 +393,20 @@ rules:
     supersedes: []
     applies_to: [worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: yes, write what they declined to disclose"
     source:
       file: WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md
       lines: "111"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: yes, write it. Re-attributed to House Yuno per the
+      same-day C-004 ruling (this hook originally sat on the now-struck
+      Agamalu/Vāimoana identity). Drafted by a background research agent as
+      a committed decision: Yasoshima's Essence stability is House Yuno's
+      Kagura branch using the island as a two-hundred-thousand-year sink
+      for the world's ambient Essence drift, at real personal cost to the
+      officiants. Not yet reviewed by Isaac. Full draft in
+      proposals/research_division_secret_draft.md, logged in
+      proposals/PROPOSED.md.
 
   - id: R21-5-SONZAI_PENDING
     pack: Canon Amendment, Agamalu and Büri Origin

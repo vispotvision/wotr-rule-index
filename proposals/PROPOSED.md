@@ -2,6 +2,22 @@
 
 Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the next amendment pack, or is struck.
 
+## 2026-09-12 — What House Yuno declined to disclose to the Research Division (R21-5)
+
+**Status:** drafted by a background research agent as a committed decision, awaiting Isaac's read
+**applies_to:** worldbuilding, magic-mechanism
+**Full draft:** proposals/research_division_secret_draft.md
+
+Answers R21-5-RESEARCH_DIVISION_PENDING. Isaac: "write what they declined
+to disclose" (a decision, not a menu). The secret: Yasoshima's Essence
+stability isn't natural -- House Yuno's Kagura branch has spent two
+hundred thousand years using the island as a sink, metabolizing the
+world's ambient Essence drift through the Seven Labors' Tōbō no Michi at
+real personal cost (Ritual Self-Dilution) to the officiants. Re-attributed
+to House Yuno per the same-day C-004 ruling (this hook originally sat on
+the now-struck Agamalu/Vāimoana identity). Includes a consequence hook for
+what happens if it's ever forced into the open.
+
 ## 2026-09-12 — Zettari forge-culture substrate pitch, Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET)
 
 **Status:** drafted by a background research agent, awaiting Isaac's read; blocked on C-005

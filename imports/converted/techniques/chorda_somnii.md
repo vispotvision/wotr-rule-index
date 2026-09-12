@@ -1,7 +1,5 @@
 # Chorda Somnii
 
-> Converted from an unconverted Trello ability card for a practitioner named Serenyra, who has no character card anywhere in current canon; this entry stands alone pending her own conversion, and Isaac should treat her identity, house and history as unwritten rather than assumed. The card's dual "Wellspring: Dream / Harmonic" listing is folded to one true Wellspring, Oneirion, since no Wellspring named Harmonic exists among the Sixty; the recurring "Harmonic" label instead reads as her Aether Class, converted from the old free-text "Symphonic Scholar" to Class II — The Harmonic, the most conservative fit for a sustained resonance-support caster. The old "Path: Spirit → Mind" does not sit on the current Four Paths (Body, Spirit, Attraction, Fate); Mind folds into current Spirit, per the Celestial Host's own register note that the Host's Mind is the Accord's Spirit. "Stage VI — Illumination" converts on the numeral alone to current Stage VI, which is named Glory; Grade required is read off that Stage's ceiling. Range, duration and every cost and limit are kept as given, since they were already physical units. "Titanscales" as an entity-type is unattested in current canon and is kept only as flavour in the Limitation line, flagged here.
-
 ## Summary card
 
 **Effect** · She threads a line of Oneirion current from her hand into a target's dream-axis and holds their felt passage of time slow or sharp for as long as the thread runs.

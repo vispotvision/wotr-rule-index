@@ -1,7 +1,5 @@
 # Vainglory
 
-> **Migration note.** Converted under the discipline-essay format: the card describes a practice attempted by many named summoners across eras, not one character's signature technique. "Essence types," "Temperance collapse" as a loose noun, and "Trait realization" as a generic phrase are retired for current vocabulary. Vainglory is Animatria, Spirit-Aligned, harmonised to Limina, with **Mirithane**, the Wellspring of Reflection, as the load-bearing current rather than a family invented for the card; Mirithane's law is that output becomes a more honest reflection of internal state, and Vainglory is precisely the failure mode of that law, a construct that reflects the summoner's most flattering self-image rather than an honest one. "Synergia" and "Phenomena" in the card's own text are both genuine current Categories and needed no conversion. Serenhal Caelmorne, Yelara Vintress, Raziel Ados, the Tome of Lurid Echoes, the Era of Calamity, the Lament of the Nine Mirrors, the Hall of Reflective Descent, the Order of the Hollow Veil, the Rose-Glass Order, and the Volume VIII chapter citation have no card or page in current canon; all are kept as unattested colour, flagged below, because the discipline's history is otherwise a bare mechanism with no practitioners attached to it. Stage floor and Grade are chosen off the FOW tables rather than invented, with the choice stated in the relevant section.
-
 ---
 
 ## What it is

@@ -1,7 +1,5 @@
 # Sovereign's Reprisal
 
-> **Migration note.** Converted from a Trello Abilities card for Drakvor (see Coagula Dominion for the same practitioner; no character card exists for him in the current wiki mirror, so he remains *unattested in current canon* and is kept only because the source cannot make sense without him). "Aether Class: Pressure Accumulator" is dropped for the same reason as the sibling card: it was old-system flavour text, not one of the seven current Aether Classes, and the mechanism it was gesturing at (stored force, delayed release) is fully covered by the Design Chain below. "Stage VIII Benediction" converts to Stage VIII, Transcendence (Benediction is now only a Vitalia Wellspring name and is retired as a Stage name). Wellsprings (Judicium, Cinerion), Family assignments (Fulguria, Caloria) and the Path tag (Body) check out against current canon without alteration. The harness that stores the blow is read as a Runecraft object, a fixed inscription that discharges on trigger rather than a spell held by ongoing attention, since the card describes it accumulating force passively between hits rather than under active declaration. "Turns" convert to exchanges; the Overchannel-spike figure below is pulled directly from the Fracture of Worlds physical benchmarks table rather than invented.
-
 ## Summary card
 
 **Effect** · Every blow that lands on Drakvor while the harness is charged stays in him instead of passing through, and arrives back out as a single ring of rupturing Aether the instant he chooses to let it go.

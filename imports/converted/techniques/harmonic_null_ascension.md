@@ -1,7 +1,5 @@
 # Harmonic Null-Ascension
 
-> Converted from the Trello card "HARMONIC NULL-ASCENSION" (Opalis). Same bearer as the companion cards in this batch: attested only as the one-line legend "Opalis Maethryn, the Radiant Arbiter" in *The Concord Military*, with no character sheet anywhere in the wiki mirror, so every number here is a conservative estimate off the Fracture of Worlds tables rather than a sheet value. "Temperance XII: Emnation" converts to Stage XII, Emanation, Band S, Grade ceiling SSS, stat ceiling 950. The free-text "Aether Class: Emanant Harmonic Destructive Law" is read down to Class V, the Radiant, kept consistent with the Lance and Shear cards for the same bearer. "Path: Self-as-Harmonic-Source, World-as-Instrument" is not a Path; a projected ranged tone-attack reads as Spirit Path. All named Wellsprings (Orrenthal, Cataclysm, Fractura primary; Dissolution, Basilithe, Tarturon, Tenebra, Penance, Petralon, Oneirion secondary) check against the current Sixty, and the weakness list's "Cymorath" is the correctly spelled Fulguria Wellspring. "The Iridescent Archive" destination is the old board's own filing language, kept only as a folder name and not treated as an in-world place.
-
 ## Summary card
 
 **Effect** · Opalis plucks a silent chord at the air; it climbs from nothing to an unbearable tone locked onto one target's own structural resonance, and at the top of that climb the target's form either fails into silence or shatters outright.

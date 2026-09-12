@@ -1,7 +1,5 @@
 # Coagula Dominion
 
-> **Migration note.** Converted from a Trello Abilities card for the practitioner Drakvor (no card exists for Drakvor in the current wiki mirror; the name is kept because the technique cannot be attributed to anyone else the source names, and is flagged *unattested in current canon*). The old free-text "Aether Class: Binding Core" is dropped: the seven Aether Classes are a Shell-conductivity measure, not a technique tag, and the card's phrase was old-system flavour text describing what the technique does, not a Class. "Temperance Requirement: Stage VIII Benediction" converts to Stage VIII, Transcendence, by numeral (Errata §IV: technique and glyph registers carry no date and need no conversion beyond the Stage name itself); "Benediction" is retired as a Stage name and now denotes only the Vitalia Wellspring of that name, unrelated to this entry. Wellsprings (Coagula, Judicium), Family assignments (Materia, Fulguria) and the Path tag (Fate) all check out against the current Sixty and the Four Paths and needed no conversion. "Turns" (the old card's combat-round bookkeeping) are converted to exchanges. Grade required and the Numerical Effect below are derived from the Stage VIII row of the Temperance table and the Tier Grade differential rule; nothing in this entry is invented.
-
 ## Summary card
 
 **Effect** · A fifteen-metre field in which ambient Essence stops flowing and starts sitting. Spellwork routed through the field arrives late and undersized; anyone moving through it fights the air itself for every step.

@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-9 outstanding.
+7 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -13,20 +13,6 @@
 *Naming Guide Amendment Colophon, blocks: naming, worldbuilding*
 
 > Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.
-
-## R21-5-RESEARCH_DIVISION_PENDING — What the Research Division was declined is unwritten
-
-*Canon Amendment, Agamalu and Büri Origin V, blocks: worldbuilding*
-
-> The Research Division | What the Agamalu declined to disclose, four times, is unwritten. Best hook on the Vāimoana entry.
-
-## R22-9-NOTION_BODIES_OUTSTANDING — Page bodies still read Büri; titles alone are not enough
-
-*Moto Reversion Ledger IX, blocks: documents, verification, naming*
-
-> Every page body still reads Büri. Titles are done; the text underneath is not.
-
-Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.
 
 ## R2-OP-UNFOLDED_GUIDES — Packs remain paste-in diffs, deliberately, but unfolded
 

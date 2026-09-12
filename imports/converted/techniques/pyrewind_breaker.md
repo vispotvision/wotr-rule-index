@@ -1,7 +1,5 @@
 # Pyrewind Breaker
 
-> Converted from a Trello ability card pairing Exuroth and Cataclysm. Both Wellsprings check out unchanged against current canon (`wiki`): both are Caloria, both are Thermodynamics-domain. "Path: Aether + Body" used Aether as if it were a Path; Aether is the ocean every working draws from, not one of the four routes, so the Path corrects to Spirit and Body, the two current Paths that fit a projected, ranged area burst with a physical concussive half. "Aether Class: Volatile Kinetic-Flame Hybrid" is free text and is replaced with the class the Stage/Band correlate table actually assigns: Stage VI, Glory sits in Band D, and Band D is Class II, the Harmonic, the same class Seraphic Thread Blessing lands on despite the very different technique, a fact about the table rather than an error in either entry. Duration is restated in seconds. Thaloré, Verdantia and Cinerion all check out against current canon in their stated Families; "Abyssal entities" also checks out, Abyssal being an attested creature-and-corruption category in the Bestiary rather than invented flavour. No caster is named in the source card.
-
 ## Summary card
 **Effect** · A spiralling gale of fire detonates outward to a 20-metre radius, burning everything caught inside and following the burn with a blunt shockwave that knocks bodies back or down and overloads weak shields on contact.
 **Cost** · A heavy Aether burn in the caster, with a real risk of internal overheating if the working is pushed or repeated too soon.

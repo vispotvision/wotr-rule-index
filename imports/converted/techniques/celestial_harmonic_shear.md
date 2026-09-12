@@ -1,7 +1,5 @@
 # Celestial Harmonic Shear
 
-> Converted from the Trello card "CELESTIAL HARMONIC SHEAR" (Opalis). Same bearer as the other two Emanation-tier cards in this batch: attested in current canon only as the one-line legend "Opalis Maethryn, the Radiant Arbiter" in *The Concord Military*, with no character sheet anywhere in the wiki mirror, so numbers below are conservative estimates off the Fracture of Worlds tables, not sheet values. "Temperance XII — Emnation" converts to Stage XII, Emanation, Band S, Grade ceiling SSS, stat ceiling 950. The free-text "Aether Class: Emanant Harmonic Law-Shear Manifestation" is read down to Class V, the Radiant, kept consistent with the Lance and Null-Ascension cards for the same bearer. "Path — Self-as-Law, Harmonic Sovereignty" is not a Path; a projected line-shaped cut reads as Spirit Path. All named Wellsprings (Orrenthal, Fractura, Basilithe primary; Dissolution, Tarturon, Cataclysm, Tenebra, Penance, Petralon, Oneirion secondary) check against the current Sixty, and "Cymorathian" in the weakness list is the adjectival form of the correctly spelled Fulguria Wellspring Cymorath. "The Iridescent Archive" destination is the old board's own filing language, kept only as a folder name and not treated as an in-world place.
-
 ## Summary card
 
 **Effect** · Opalis draws a line through the air, and anything whose own frequency crosses that line loses cohesion exactly where it was touched; wards, illusions and layered constructs break all at once rather than one layer at a time.

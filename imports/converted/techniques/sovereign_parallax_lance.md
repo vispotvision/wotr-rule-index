@@ -1,7 +1,5 @@
 # Sovereign Parallax Lance
 
-> Converted from the Trello card "SOVEREIGN PARALLAX LANCE" (Opalis). The card's bearer is verified in current canon only as a one-line legend entry, "Opalis Maethryn, the Radiant Arbiter," in *The Concord Military*; no character sheet or FOW line exists for her anywhere in the wiki mirror, so every number below is chosen conservatively off the Fracture of Worlds tables per Law Two rather than pulled from a sheet, and is marked as an estimate. "Temperance XII — Emnation" converts to Stage XII, Emanation, Band S, Grade ceiling SSS, stat ceiling 950. The free-text "Aether Class: Harmonic Cataclysmic Refraction Art" is not a Class; the conservative Class consistent with a Radiant-epitheted practitioner performing world-bending destructive selection is Class V, the Radiant. "Path: Self-as-Law" is not a Path; the working is a projected ranged strike, so it is read as Spirit Path. All nine named Wellsprings (Fractura, Cataclysm, Dissolution primary; Basilithe, Orrenthal, Petralon, Tenebra, Tarturon, Penance, Oneirion secondary) check out against the current Sixty. "The Iridescent Archive" filing destination is old-board terminology carried over only as a folder name; it is not an attested in-world location and nothing in the entry below depends on it.
-
 ## Summary card
 
 **Effect** · A thrust or gesture sends a beam of black-gold refracted light out to 900 m; where it lands, it collapses every way the target could be hurt into the one that does the most damage and forces that wound to be the one that happens.

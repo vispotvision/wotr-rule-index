@@ -1,7 +1,5 @@
 # Oneiron Phantasm Court
 
-> **Migration note.** No character card exists for Aeldoris in current canon; his stats, Aether Class and Path below are conservative estimates inside the documented range for Stage VII (Band C), flagged as such rather than invented to feel right, per the estimate-marking rule. Oneirion, Eidolyn and Hypnather are all confirmed Limina Wellsprings and convert unchanged. "Path: Spirit → Attraction Drift" is old free-text notation with no current equivalent; the working projects at range through conceptual space rather than through bond or recognition, which is Spirit Path's own definition, so it converts to Path: Spirit. "Aether Class: Dreambreaker Aether" is likewise old free text with no current Class of that name; Stage VII's Band-C correlate is Class III, The Resonant, used here as the conservative estimate. The old card's "Duration per turn: 2 turns" assumes a turn-based combat unit current WOTR does not use; converted to Spellcraft's own duration model, which holds only while the caster's attention holds. Range (0–140 m) is already a real unit and is kept as given.
-
 ## Summary card
 
 **Effect** · The target's own dream-self rises behind them, unblurred by the waking mind's editing, and puts to them the thing they have been declining to know about themselves.

@@ -1,7 +1,5 @@
 # Symphonia Ascendant
 
-> Converted from a pre-Fracture Abilities card for Serenyra, a disruption art that reads a target's Essence pattern and redirects, dampens, or inverts their next offensive action. The old numeral, Stage VII, "Diffraction (pre-Refraction mastery)," converts to the FOW name at that numeral, Refraction, which the card's own parenthetical already anticipated. The old free-text Aether Class converts to Class III, the Resonant, read off the per-stage Coherence Band (C) at Stage VII, one Class above Speculum Recordatio's Class II, consistent with Symphonia being the more advanced of Serenyra's two cards. "Mind / Spirit" is not a current Path pairing; it converts to Spirit Path. The two named sources, Harmonic and Celestial, are not literal Sixty names. Celestial converts to Aurevane, the Wellspring of Light, matching "ordered luminosity" directly. Harmonic converts to Mirithane, the Wellspring of Reflection, matching the technique's redirect-and-invert mechanism. "Fate-locked Edicts" in the weaknesses section was already correct as written and needed no change; Divine Edict is current cosmological vocabulary. Serenyra has no character card in current canon and is carried as unattested, as is the Aether Chord Staff the technique depends on.
-
 ## Summary card
 
 **Effect** · Binds a polyphonic chord of sigils to a target's Essence pattern and, on their next offensive action, forces a misfire, a self-directed backlash, or a total refraction into harmless light or sound.

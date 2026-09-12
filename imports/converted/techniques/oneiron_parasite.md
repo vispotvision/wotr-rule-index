@@ -1,7 +1,5 @@
 # Oneiron Parasite · Nightmare Warden
 
-> **Migration note.** Converted from the Trello card "Oneiron Parasite — Nightmare Warden" (Aeldoris). "Aether Class: Dreambreaker Aether" converted to **Class VI, The Voidic**, consistent with the same practitioner's other techniques and the table's own tie between Voidic and "deep Limina harmonization." Oneirion, Hypnather and Eidolyn all verified against the Sixty, all three Limina; their affinities are taken from *The Eight Families & the Sixty Wellsprings*. "Stage VII Refraction" matches the current Sixteen Stages exactly. Category (Animatria) chosen from the twenty-six: Animatria is a detached fragment of the caster's own Essence Core given independent operation, and "fails completely... when the connection back to its source is severed," which is exactly the source's own Warden mechanic and matches Rule R10-3-ANIMATRIA_SHAPE precisely. **"Mortis Essence" in the source's weaknesses is not a Wellspring; converted to Mortalis (Vitalia, The Black Gate)**, the attested Wellspring the old term was clearly reaching for. Range (30 meters) was already real units; the old "4 turns" duration has no FOW equivalent, converted at an estimated 20 seconds, marked as an estimate. **Aeldoris is unattested in current canon**; kept as the card's necessary caster, with no further biography given.
-
 ## Summary card
 
 **Effect** · A fragment of him takes root behind a target's ribs, watches what they feel, and can be made to unmake their composure from inside.

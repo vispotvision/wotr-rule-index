@@ -1,7 +1,5 @@
 # Winter Rend
 
-> **Migration note.** Converted from a Trello ability card for **Draven Kael Vorrick, The Beast Slayer** (verified against his Volume IV character card). "Primary Wellspring: Vohrin" is corrected the same way as elsewhere in this batch: **Vohrin is attested only as a Titan**, not a personal Wellspring, and Draven's actual cold-law Wellspring is **Crymorath** (Caloria), already attested on his sheet. Secondary Wellspring **Tenebra** is kept as given; it already matches his attested sheet, and "Tenebra afterimage trails" is the card's own accurate use of the term. "Aether Class: Primal-Kinetic" converts to his attested **Class III, Resonant**. "Path: Cold-Assault" is not one of the Four Paths and survives only as flavor; the technique gates on Body. "Stage VI Glory" matches his attested Catalyst Stage. Range ("Two meter sweeping arc") and duration ("Instant") are already real, physical units and are kept unchanged — no conversion needed. Grade required (A) is read off Draven's own Ardency value, 320, the stat governing his strike output.
-
 ## Summary card
 
 **Effect** · **A sweeping strike drags a wedge of cold behind it, and whatever it touches loses heat fast enough to matter.** *Flesh, and the Essence running through it, both pay the same tax.*

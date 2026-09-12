@@ -1061,7 +1061,7 @@
     "pack_number": null,
     "section": "V",
     "title": "What the Research Division was declined is unwritten",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "What the Agamalu declined to disclose to the Accord's Research Division, four times, is unwritten; flagged as the best hook on the Vāimoana entry.",
     "verbatim": "The Research Division | What the Agamalu declined to disclose, four times, is unwritten. Best hook on the Vāimoana entry.",
@@ -1071,12 +1071,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: yes, write what they declined to disclose",
     "source": {
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "111"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: yes, write it. Re-attributed to House Yuno per the same-day C-004 ruling (this hook originally sat on the now-struck Agamalu/Vāimoana identity). Drafted by a background research agent as a committed decision: Yasoshima's Essence stability is House Yuno's Kagura branch using the island as a two-hundred-thousand-year sink for the world's ambient Essence drift, at real personal cost to the officiants. Not yet reviewed by Isaac. Full draft in proposals/research_division_secret_draft.md, logged in proposals/PROPOSED.md.",
     "superseded_by": []
   },
   {
@@ -1523,7 +1523,7 @@
     "pack_number": null,
     "section": "IX",
     "title": "Page bodies still read Büri; titles alone are not enough",
-    "status": "pending",
+    "status": "superseded",
     "kind": "procedure",
     "summary": "Titles are reverted but at least fourteen page bodies still read Büri throughout (character cards, bloodline pages, works pages); this needs a page-by-page pass with fetch and targeted replaces, not a blind find-and-replace, since technique names on those cards were never converted.",
     "verbatim": "Every page body still reads Büri. Titles are done; the text underneath is not.",
@@ -1535,12 +1535,12 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: sweep checked, effectively done",
     "source": {
       "file": "WOTR_Moto_Reversion_Ledger.md",
       "lines": "132-148"
     },
-    "notes": "Still pending 2026-09-12; the ruling itself is made (Moto and Hataraki, not Ajiin). The mechanical sweep is in reports/buri_sweep_2026-09-12.md and live via WOTR MCP stale_names: 33 files still carry Büri-register terms. Wiki pages get edited in Notion; scenes in scenes/.",
+    "notes": "RULED 2026-09-12: checked again with a fresh stale_names scan (reports/buri_sweep_2026-09-12.md, rewritten to reflect this). Of the remaining hits, almost every one is a meta-block correctly discussing the strike/reversion itself using the old name as a reference (\"Sātūlagi is struck from canon,\" \"the 2026-09-12 ruling struck the Büri/Mongolian register... Kirv is not Moto\") -- working as intended, not stale content. The one file with a real high hit-count, scenes/THE_KINGDOM_OF_KHARVEN_buri.md, is the paired old-register document kept deliberately alongside scenes/THE_KINGDOM_OF_KHARVEN_corrected.md as the \"before\" record; sweeping it would defeat its purpose. No files changed by this check.",
     "superseded_by": []
   },
   {

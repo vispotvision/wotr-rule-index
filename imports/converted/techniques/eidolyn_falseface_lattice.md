@@ -1,7 +1,5 @@
 # Eidolyn Falseface Lattice
 
-> **Migration note.** No character card exists for Aeldoris in current canon; stats, Aether Class and Path below are conservative estimates inside the documented range for Stage VII (Band C), flagged rather than invented. Eidolyn and Oneirion are confirmed Limina Wellsprings. Somnalis is confirmed real but sits in Fluxia, not Limina as the old card's grouping implied; that correction is made below rather than dropping the Wellspring, since the card cannot make sense without it. "Aether Class: Dreambreaker Aether" converts to the Stage VII/Band-C estimate, Class III, The Resonant, on the same basis as the companion cards. "Duration per turn: 3 turns" converts to Spellcraft's attention-held duration model, current canon having no turn unit; Range (80 m) is a real unit and is kept as given.
-
 ## Summary card
 
 **Effect** · Whatever the opponent is afraid the fight contains, Aeldoris gives it a body. The construct is not a picture of the fear. It has the same solidity a fear that specific would have, and it hits like it.

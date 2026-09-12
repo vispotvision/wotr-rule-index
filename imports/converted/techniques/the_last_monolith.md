@@ -1,7 +1,5 @@
 # The Last Monolith
 
-> **Migration note.** Converted from a Trello Abilities card for Drakvor (see Coagula Dominion and Sovereign's Reprisal for the same practitioner, *unattested in current canon*: no wiki card exists for him). "Aether Class: Immutable Aether" is dropped as old-system flavour text rather than a real Aether Class; nothing in the card's description requires a specific Aether Class to make sense, so none is assigned. "Stage VIII Benediction" converts to Stage VIII, Transcendence, per the same conversion as the sibling cards. The card's Path tag, "Body-Spirit," has no single-Path equivalent (the Four Paths are recognised singly, by which plane's logic a soul routes force through), so this entry reads it as a Body Path technique with a genuine Spirit Path component (the diagnostic reading of incoming force that lets the hardening selectively meet it), the way Borin Ironheart's own card splits Body/Spirit/Attraction by percentage rather than compounding two Path names into one tag. Wellsprings (Coagula, Judicium) and Families (Materia, Fulguria) check out unaltered. "Turns" convert to exchanges.
-
 ## Summary card
 
 **Effect** · Drakvor's own flesh stops behaving like flesh. Skin, bone, and the Essence running under both take on the failure curve of stone rather than the failure curve of a body, and blows that would open him instead ring off him.

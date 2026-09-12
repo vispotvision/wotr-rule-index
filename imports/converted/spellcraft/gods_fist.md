@@ -1,7 +1,5 @@
 # Kami no Kobushi
 
-> **Migration note.** The Trello source is a bare title, "God's Fist," with no body text and no attachments beyond a filename. Per the conversion law that keeps only the card's own facts, the sole fact this card gives is the name. That name maps exactly onto a discipline that already exists in full in current canon: **Kami no Kobushi, the Seven Labor-Forms of the Anchor**, filed under The Disciplines as a bloodline and personal art descending from **Gimbzo**, First-Eon Moto and the Anchor of Fate. Everything below is drawn from that existing entry and from Gimbzo's own character card rather than invented for this pass; nothing here originates new content, and nothing in the empty Trello card contradicts it. One discrepancy is flagged rather than resolved, per the rule against silently deciding conflicts: the Trello board filed this card under **Spellcraft**, and Kami no Kobushi is a Body-rooted, hand-to-hand bloodline art with no Spellcraft component (its Craft, where the taxonomy's Craft/Category split applies at all, reads closer to Magicraft); the destination folder is kept as given, and the mismatch is left for Isaac to resolve rather than reclassified here.
-
 ---
 
 ## What it is

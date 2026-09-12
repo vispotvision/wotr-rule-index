@@ -1,0 +1,2625 @@
+[
+ {
+  "file": "imports/trello/characters/he_who_bears_the_will_of_the_titans.md",
+  "name": "' J.M ' \"He Who Bears the Will of the Titans\"",
+  "key": "He Who Bears the Will of the Titans",
+  "group": "characters",
+  "target": "Volume IV — Character Cards",
+  "words": 538,
+  "labels": [
+   "Needs Expansion",
+   "Non-cannon",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/pip.md",
+  "name": "‘ Z.I ‘ “ Pip “",
+  "key": "Pip",
+  "group": "characters",
+  "target": "Volume IV — Character Cards",
+  "words": 248,
+  "labels": [
+   "Voyager Era",
+   "Faction",
+   "Complete Sheet",
+   "Canonized",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/deserts_fang.md",
+  "name": "‘ Z.A ‘  “ Desert’s Fang “",
+  "key": "Desert’s Fang",
+  "group": "characters",
+  "target": "Volume IV — Character Cards",
+  "words": 209,
+  "labels": [
+   "Protagonist",
+   "Voyager Era",
+   "Canonized",
+   "Faction",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_bloomwarden.md",
+  "name": "‘ K.S ‘  “ The Bloomwarden “",
+  "key": "The Bloomwarden",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 561,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_isocline_scribe.md",
+  "name": "‘ K.A ‘ “ The Isocline Scribe “",
+  "key": "The Isocline Scribe",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 671,
+  "labels": [
+   "Support",
+   "Withering Age",
+   "Canonized",
+   "Needs Expansion"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_khan.md",
+  "name": "‘ K.K ‘ “ The Khan “",
+  "key": "The Khan",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 696,
+  "labels": [
+   "Protagonist",
+   "Canonized",
+   "Withering Age",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/ten_thousand_hands.md",
+  "name": "‘ K.S ‘ “  Ten Thousand Hands “",
+  "key": "Ten Thousand Hands",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 671,
+  "labels": [
+   "Support",
+   "Withering Age",
+   "Canonized",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_archmagus.md",
+  "name": "' S.V ' \" The Archmagus \"",
+  "key": "The Archmagus",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 957,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Withering Age",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_cryost.md",
+  "name": "' T.Z ' \"The Cryost \"",
+  "key": "The Cryost",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 715,
+  "labels": [
+   "Protagonist",
+   "Canonized",
+   "Withering Age",
+   "Needs Expansion"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_forge_that_roars.md",
+  "name": "‘ K ‘ “ The Forge That Roars “",
+  "key": "The Forge That Roars",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1092,
+  "labels": [
+   "Needs Expansion",
+   "Withering Age",
+   "Support",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_unbent_crown.md",
+  "name": "‘ V.D ‘ “ The Unbent Crown “",
+  "key": "The Unbent Crown",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 716,
+  "labels": [
+   "Support",
+   "Withering Age",
+   "Needs Expansion",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_wandering_string.md",
+  "name": "‘ E.M ‘ “ The Wandering String “",
+  "key": "The Wandering String",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 511,
+  "labels": [
+   "Canonized",
+   "Withering Age",
+   "Support",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_grey_adjudicator.md",
+  "name": "‘ S.V ‘ “ The Grey Adjudicator “",
+  "key": "The Grey Adjudicator",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 561,
+  "labels": [
+   "Support",
+   "Withering Age",
+   "Canonized",
+   "Needs Expansion"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_iron_wound.md",
+  "name": "‘ K.D ‘ “ The Iron Wound “",
+  "key": "The Iron Wound",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 622,
+  "labels": [
+   "Canonized",
+   "Withering Age",
+   "Complete Sheet",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_emberline.md",
+  "name": "‘ R.K ‘ “ The Emberline “",
+  "key": "The Emberline",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 576,
+  "labels": [
+   "Support",
+   "Withering Age",
+   "Canonized",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_sleepless_theorist.md",
+  "name": "‘ V.R ‘ “The Sleepless Theorist”",
+  "key": "The Sleepless Theorist",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 549,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_black_chrysalis.md",
+  "name": "‘ L.V ‘ “ The Black Chrysalis “",
+  "key": "The Black Chrysalis",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 588,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_ember_blooded.md",
+  "name": "' R.T '  \"The Ember-Blooded\"",
+  "key": "The Ember-Blooded",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 439,
+  "labels": [
+   "Support",
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_white_arbiter.md",
+  "name": "' A.V ' \" The White Arbiter \"",
+  "key": "The White Arbiter",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 467,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/moon_bloom_at_dawn.md",
+  "name": "‘ T.R ‘ “Moon-Bloom at Dawn”",
+  "key": "Moon-Bloom at Dawn",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 534,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/rain_of_the_sky_bound.md",
+  "name": "‘ A.S ‘  “ Rain of The Sky Bound “",
+  "key": "Rain of The Sky Bound",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 547,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_smiling_veil.md",
+  "name": "' A.V ' “The Smiling Veil”",
+  "key": "The Smiling Veil",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 418,
+  "labels": [
+   "Support",
+   "Needs Expansion",
+   "Canonized",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_serene_gale.md",
+  "name": "' I.M ' \"The Serene Gale\"",
+  "key": "The Serene Gale",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 402,
+  "labels": [
+   "Support",
+   "Needs Expansion",
+   "Withering Age",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_pale_crucible.md",
+  "name": "' C.D ' \" The Pale Crucible \"",
+  "key": "The Pale Crucible",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 472,
+  "labels": [
+   "Canonized",
+   "Withering Age",
+   "Complete Sheet",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_quiet_swan.md",
+  "name": "' L.A ' \" The Quiet Swan \"",
+  "key": "The Quiet Swan",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1491,
+  "labels": [
+   "Complete Sheet",
+   "Withering Age",
+   "Support",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_silent_orcale.md",
+  "name": "' M.I ' \" The Silent Orcale \"",
+  "key": "The Silent Orcale",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1272,
+  "labels": [
+   "Antagonist",
+   "Withering Age",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_pale_bastion.md",
+  "name": "' E.S ' \" The Pale Bastion \"",
+  "key": "The Pale Bastion",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1292,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Antagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_gentle_engine.md",
+  "name": "' V ' \" The Gentle Engine \"",
+  "key": "The Gentle Engine",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1274,
+  "labels": [
+   "Antagonist",
+   "Withering Age",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_silver_veil.md",
+  "name": "' S.K ' \" The Silver Veil \"",
+  "key": "The Silver Veil",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1082,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/danger_do_not_open.md",
+  "name": "' R ' \" DANGER DO NOT OPEN \"",
+  "key": "DANGER DO NOT OPEN",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1124,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/az_the_incendiant_veil.md",
+  "name": "‘ A.Z ’ “The Incendiant Veil",
+  "key": "‘ A.Z ’ “The Incendiant Veil",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 839,
+  "labels": [
+   "Protagonist",
+   "Withering Age",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_silent_apothege.md",
+  "name": "‘ K.R ‘ “ The Silent Apothege “",
+  "key": "The Silent Apothege",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 393,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Support"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/vk_the_breakstorm_vanguard.md",
+  "name": "' V.K ' \"  \" The Breakstorm Vanguard \"",
+  "key": "",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1290,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_red_forge_sentinel.md",
+  "name": "‘ D.V ‘ “ The Red Forge Sentinel “",
+  "key": "The Red Forge Sentinel",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 621,
+  "labels": [
+   "Withering Age",
+   "Protagonist",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_golden_engine.md",
+  "name": "‘ M.C ‘ “ The Golden Engine “",
+  "key": "The Golden Engine",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 641,
+  "labels": [
+   "Support",
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_black_cleric.md",
+  "name": "‘ E.D ‘ “ The Black Cleric “",
+  "key": "The Black Cleric",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 672,
+  "labels": [
+   "Support",
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_lantern_scribe.md",
+  "name": "‘ V.A ‘ “ The Lantern Scribe “",
+  "key": "The Lantern Scribe",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 705,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Antagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_burnmark.md",
+  "name": "‘ K.S ‘ “The Burnmark”",
+  "key": "The Burnmark",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 703,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Support",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_serpent_alchemist.md",
+  "name": "‘ S.L ‘ “ The Serpent Alchemist “",
+  "key": "The Serpent Alchemist",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 713,
+  "labels": [
+   "Support",
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/warden_of_thaumar.md",
+  "name": "‘ G.V ‘ “ Warden of Thaumar “",
+  "key": "Warden of Thaumar",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 749,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/knight_of_vergegate.md",
+  "name": "' C.V '  \" Knight of Vergegate \"",
+  "key": "Knight of Vergegate",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 676,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Support"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_sapphire_mirage.md",
+  "name": "' R.A '  \" The Sapphire Mirage \"",
+  "key": "The Sapphire Mirage",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 779,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_gilded_nomad.md",
+  "name": "' K.T ' \" The Gilded Nomad \"",
+  "key": "The Gilded Nomad",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 799,
+  "labels": [
+   "Withering Age",
+   "Complete Sheet",
+   "Canonized",
+   "Support"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_ember_regent.md",
+  "name": "' X.T ' \" The Ember Regent \"",
+  "key": "The Ember Regent",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 756,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_crimson_dirge_of_atonement.md",
+  "name": "' F.A ' \" The Crimson Dirge of Atonement \"",
+  "key": "The Crimson Dirge of Atonement",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 912,
+  "labels": [
+   "Withering Age",
+   "Canonized",
+   "Complete Sheet",
+   "Antagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_axiomatic_sovereign.md",
+  "name": "' K.V ' \" The Axiomatic Sovereign \"",
+  "key": "The Axiomatic Sovereign",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 984,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_black_crowned_bastion.md",
+  "name": "' D ' \" The Black-Crowned Bastion \"",
+  "key": "The Black-Crowned Bastion",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1881,
+  "labels": [
+   "Withering Age",
+   "Faction",
+   "Support",
+   "Canonized",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_ruthless.md",
+  "name": "' A.D '  \" The Ruthless \"",
+  "key": "The Ruthless",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 591,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Withering Age",
+   "Faction",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_silent_pattern.md",
+  "name": "' A ' \" The Silent Pattern \"",
+  "key": "The Silent Pattern",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 772,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Support"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_azure_coilblade.md",
+  "name": "' A.V ' \" The Azure Coilblade \"",
+  "key": "The Azure Coilblade",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 666,
+  "labels": [
+   "Withering Age",
+   "Canonized",
+   "Complete Sheet",
+   "Faction",
+   "Protagonist"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/god_eater.md",
+  "name": "‘ R.V ‘ “ God Eater “",
+  "key": "God Eater",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 671,
+  "labels": [
+   "Complete Sheet",
+   "Canonized",
+   "Support",
+   "Withering Age"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_shackled_tempest.md",
+  "name": "' K.V ' \" The Shackled Tempest \"",
+  "key": "The Shackled Tempest",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 828,
+  "labels": [
+   "Canonized",
+   "Complete Sheet",
+   "Withering Age",
+   "Protagonist",
+   "Faction"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_pale_gale.md",
+  "name": "' R.K '  \" The Pale Gale \"",
+  "key": "The Pale Gale",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 784,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_azure_warden.md",
+  "name": "' C.V '   \" The Azure Warden \"",
+  "key": "The Azure Warden",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 897,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_dawn_touched_oracle.md",
+  "name": "' L.V ' \" The Dawn-Touched Oracle \"",
+  "key": "The Dawn-Touched Oracle",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 856,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_umbra_lantern.md",
+  "name": "' S.K ' \" The Umbra Lantern \"",
+  "key": "The Umbra Lantern",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 293,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_still_point.md",
+  "name": "' S.K ' \" The Still Point \"",
+  "key": "The Still Point",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 327,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_iron_root.md",
+  "name": "' K.M ' \" The Iron-Root \"",
+  "key": "The Iron-Root",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1201,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_little_wayfinder.md",
+  "name": "' R.Y' \" The Little Wayfinder \"",
+  "key": "The Little Wayfinder",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1085,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/sleepless_quill.md",
+  "name": "' L.N ' \" Sleepless Quill \"",
+  "key": "Sleepless Quill",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1269,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/stone_runner.md",
+  "name": "' A.V ' \" Stone-Runner \"",
+  "key": "Stone-Runner",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1368,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_pink_tempest.md",
+  "name": "' S.B ' \" The Pink Tempest \"",
+  "key": "The Pink Tempest",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1688,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/winter_hound_of_the_march.md",
+  "name": "' G.L '  \" Winter Hound of the March \"",
+  "key": "Winter Hound of the March",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1115,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_silt_walker.md",
+  "name": "' Z.V ' \" The Silt Walker \"",
+  "key": "The Silt Walker",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1215,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/little_white_fox.md",
+  "name": "' S.K ' \" Little White Fox \"",
+  "key": "Little White Fox",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1240,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/lilac_gaze.md",
+  "name": "' S. L ' \" Lilac Gaze \"",
+  "key": "Lilac Gaze",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1383,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/pink_flame.md",
+  "name": "' L.D ' \" Pink Flame \"",
+  "key": "Pink Flame",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1555,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_cryon_king.md",
+  "name": "' V ' \" The Cryon King \"",
+  "key": "The Cryon King",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1041,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_pale_hierophant.md",
+  "name": "' A '  \" The Pale Hierophant \"",
+  "key": "The Pale Hierophant",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 808,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_vestal_vanguard.md",
+  "name": "' A ' \" The Vestal Vanguard \"",
+  "key": "The Vestal Vanguard",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 710,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_luthier_of_quiet_roads.md",
+  "name": "' R.M ' \" The Luthier of Quiet Roads \"",
+  "key": "The Luthier of Quiet Roads",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 549,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/hammer_of_the_northroot.md",
+  "name": "' B.H ' \" Hammer of the Northroot \"",
+  "key": "Hammer of the Northroot",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 514,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_gilded_marionette.md",
+  "name": "' C.V ' \" The Gilded Marionette \"",
+  "key": "The Gilded Marionette",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 453,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_lion_of_the_dawn.md",
+  "name": "' A.V ' \" The Lion of the Dawn \"",
+  "key": "The Lion of the Dawn",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 489,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_crimson_mourner.md",
+  "name": "' M.V ' \" The Crimson Mourner \"",
+  "key": "The Crimson Mourner",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 497,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_porcelain_archivist.md",
+  "name": "' E.M ' \" The Porcelain Archivist \"",
+  "key": "The Porcelain Archivist",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 464,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_veiled_horn.md",
+  "name": "' I.V ' \" The Veiled Horn \"",
+  "key": "The Veiled Horn",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 455,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_sunbound_blade.md",
+  "name": "' K.A ' \" The Sunbound Blade \"",
+  "key": "The Sunbound Blade",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 502,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_velvet_executioner.md",
+  "name": "' R.S ' \" The Velvet Executioner \"",
+  "key": "The Velvet Executioner",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 570,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_ember_host.md",
+  "name": "' K.V ' \" The Ember Host \"",
+  "key": "The Ember Host",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 1229,
+  "labels": [
+   "Voyager Era",
+   "Complete Sheet",
+   "Canonized"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/the_lantern_fox.md",
+  "name": "' S.Z ' \" The Lantern Fox \"",
+  "key": "The Lantern Fox",
+  "group": "characters",
+  "target": "Volume V — Character Cards",
+  "words": 2449,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/volume_vi_the_fractured_dawn_paragons_of_the_archons.md",
+  "name": "[ Volume VI ] — THE FRACTURED DAWN: Paragons of the Archons",
+  "key": "",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2084,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/the_ashen_paragon.md",
+  "name": "' S.H ' \" The Ashen Paragon \"",
+  "key": "The Ashen Paragon",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1738,
+  "labels": [
+   "Protagonist",
+   "Voyager Era",
+   "Seikai Lineage",
+   "Complete Sheet"
+  ]
+ },
+ {
+  "file": "imports/trello/characters/monochrome.md",
+  "name": "' I.M ' \" Monochrome \"",
+  "key": "Monochrome",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2114,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/v_the_fourth_commander_of_the_void.md",
+  "name": "' V ' \" The Fourth Commander of The Void '",
+  "key": "' V ' \" The Fourth Commander of The Void '",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2157,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/oracle_of_the_end.md",
+  "name": "' V ' \" Oracle of the End \"",
+  "key": "Oracle of the End",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2272,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/bea.md",
+  "name": "' B.V ' \" Bea \"",
+  "key": "Bea",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1617,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/the_grand_arbiter_of_the_unseen_accord.md",
+  "name": "' V ' \" The Grand Arbiter of The Unseen Accord \"",
+  "key": "The Grand Arbiter of The Unseen Accord",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2382,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/the_shepard_of_the_unwilling_path.md",
+  "name": "' H ' \" The Shepard of The Unwilling Path \"",
+  "key": "The Shepard of The Unwilling Path",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1191,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/vael_of_nothing.md",
+  "name": "' V ' \" Vael of Nothing \"",
+  "key": "Vael of Nothing",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2434,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/cas.md",
+  "name": "' C.A  ' \" Cas \"",
+  "key": "Cas",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2298,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/the_last_elven_lord.md",
+  "name": "' V.T ' \" The Last Elven Lord. \"",
+  "key": "The Last Elven Lord.",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1399,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/herald_of_death.md",
+  "name": "' V.A ' \" Herald of Death \"",
+  "key": "Herald of Death",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2243,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/iron_dawn.md",
+  "name": "' V.U ' \" Iron Dawn \"",
+  "key": "Iron Dawn",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 790,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/caelum_radix.md",
+  "name": "' T.A ' \" Caelum Radix \"",
+  "key": "Caelum Radix",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1300,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/grand_seer_of_the_last_age.md",
+  "name": "' A.M ' \" Grand Seer of The Last Age \"",
+  "key": "Grand Seer of The Last Age",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1427,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/horseman_of_conquest.md",
+  "name": "'D.M '  \"Horseman of Conquest.\"",
+  "key": "Horseman of Conquest.",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 2258,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/the_maw_that_held.md",
+  "name": "' G.V ' \" The Maw That Held \"",
+  "key": "The Maw That Held",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1463,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/characters/concord_adept.md",
+  "name": "' A.N ' \" Concord Adept \"",
+  "key": "Concord Adept",
+  "group": "characters",
+  "target": "Volume VI — Character Cards",
+  "words": 1818,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/techniques/sigillum_fixatio.md",
+  "name": "Sigillum Fixatio",
+  "key": "Sigillum Fixatio",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 571,
+  "labels": [
+   "Control",
+   "Ward",
+   "Mentis",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/fluxus_intervallum.md",
+  "name": "Fluxus Intervallum",
+  "key": "Fluxus Intervallum",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 613,
+  "labels": [
+   "Movement",
+   "Finalized",
+   "Utility",
+   "Strike",
+   "Mentis"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/noxvyra_the_stillwing_judicate.md",
+  "name": "NOX’VYRA, THE STILLWING JUDICATE",
+  "key": "NOX’VYRA, THE STILLWING JUDICATE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 468,
+  "labels": [
+   "Animus",
+   "Finalized",
+   "Summon"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/solarbound_aegoric_knight.md",
+  "name": "Solarbound Aegoric Knight",
+  "key": "Solarbound Aegoric Knight",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 814,
+  "labels": [
+   "Aether Class",
+   "Corpus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/cryost_ascendant.md",
+  "name": "Cryost Ascendant",
+  "key": "Cryost Ascendant",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 1036,
+  "labels": [
+   "Corpus",
+   "Mentis",
+   "Aether Class",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/radiant_ribbon_shell.md",
+  "name": "Radiant Ribbon Shell",
+  "key": "Radiant Ribbon Shell",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 868,
+  "labels": [
+   "Animus",
+   "Aether Class",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/speculum_recordatio.md",
+  "name": "Speculum Recordatio",
+  "key": "Speculum Recordatio",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 436,
+  "labels": [
+   "Counterspell",
+   "Control",
+   "Debuff",
+   "Mentis"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/symphonia_ascendant.md",
+  "name": "Symphonia Ascendant",
+  "key": "Symphonia Ascendant",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 495,
+  "labels": [
+   "Mentis",
+   "Animus",
+   "Offensive",
+   "Control",
+   "Anti-Spell",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/chorda_somnii.md",
+  "name": "Chorda Somnii",
+  "key": "Chorda Somnii",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 424,
+  "labels": [
+   "Mentis",
+   "Animus",
+   "Enhancements",
+   "Debuff",
+   "Support Magic",
+   "Corpus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/archivium_locus.md",
+  "name": "Archivium Locus",
+  "key": "Archivium Locus",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 410,
+  "labels": [
+   "Mentis",
+   "Fatum",
+   "Defense",
+   "Control",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/corona_lunaris.md",
+  "name": "Corona Lunaris",
+  "key": "Corona Lunaris",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 382,
+  "labels": [
+   "Finalized",
+   "Animus",
+   "Defense",
+   "Support Magic"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/florwyns_canticle.md",
+  "name": "Florwyn’s Canticle",
+  "key": "Florwyn’s Canticle",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 364,
+  "labels": [
+   "Animus",
+   "Support Magic",
+   "Healing",
+   "Harmonic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/speculum_harmoniae.md",
+  "name": "Speculum Harmoniae",
+  "key": "Speculum Harmoniae",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 775,
+  "labels": [
+   "Harmonic",
+   "Mentis",
+   "Illusion",
+   "Defense",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/lumen_dissecans.md",
+  "name": "Lumen Dissecans",
+  "key": "Lumen Dissecans",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 380,
+  "labels": [
+   "Harmonic",
+   "Utility",
+   "Finalized",
+   "Mentis",
+   "Celestial"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/somnium_scriptorium.md",
+  "name": "Somnium Scriptorium",
+  "key": "Somnium Scriptorium",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 420,
+  "labels": [
+   "Dream",
+   "Harmonic",
+   "Mentis",
+   "Animus",
+   "Finalized",
+   "Utility",
+   "Control"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/edictum_resonantiae.md",
+  "name": "Edictum Resonantiae",
+  "key": "Edictum Resonantiae",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 435,
+  "labels": [
+   "Dream",
+   "Harmonic",
+   "Celestial",
+   "Fatum",
+   "Field",
+   "Control",
+   "Law",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/obelisk_of_the_eclipsed_dawn.md",
+  "name": "“OBELISK OF THE ECLIPSED DAWN” (OPALIS)",
+  "key": "OBELISK OF THE ECLIPSED DAWN",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 748,
+  "labels": [
+   "Offensive",
+   "Harmonic",
+   "Construct",
+   "Field",
+   "Law",
+   "Finalized",
+   "Entropy"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/celestial_decree_aeon_shard_mandate.md",
+  "name": "\"CELESTIAL DECREE: AEON-SHARD MANDATE\" (OPALIS)",
+  "key": "CELESTIAL DECREE: AEON-SHARD MANDATE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 756,
+  "labels": [
+   "Harmonic",
+   "Law",
+   "Dream",
+   "Field",
+   "Finalized",
+   "Magic - Ability",
+   "Thread Manipulation",
+   "Summon"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/auric_parallax_veil.md",
+  "name": "\"AURIC PARALLAX VEIL\" (OPALIS)",
+  "key": "AURIC PARALLAX VEIL",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 684,
+  "labels": [
+   "Defense",
+   "Aura Weaving",
+   "Support Magic",
+   "Field",
+   "Barrier",
+   "Celestial",
+   "Utility",
+   "Harmonic",
+   "Counterspell",
+   "Magic - Ability"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/liminal_palace_of_false_dawn.md",
+  "name": "\"LIMINAL PALACE OF FALSE DAWN\" (OPALIS)",
+  "key": "LIMINAL PALACE OF FALSE DAWN",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 748,
+  "labels": [
+   "Counterspell",
+   "Celestial",
+   "Harmonic",
+   "Illusion",
+   "Magic - Ability",
+   "Thread Manipulation",
+   "Law",
+   "Forbidden Magic",
+   "Forbidden / Lost Magic"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/sovereign_parallax_lance.md",
+  "name": "\"SOVEREIGN PARALLAX LANCE\" (OPALIS)",
+  "key": "SOVEREIGN PARALLAX LANCE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 727,
+  "labels": [
+   "Magic - Ability",
+   "Thread Manipulation",
+   "Harmonic",
+   "Celestial",
+   "Forbidden / Lost Magic",
+   "Strike",
+   "Debuff",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/harmonic_null_ascension.md",
+  "name": "\"HARMONIC NULL-ASCENSION\" (OPALIS)",
+  "key": "HARMONIC NULL-ASCENSION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 705,
+  "labels": [
+   "Erasure Magic",
+   "Ward",
+   "Field",
+   "Counterspell",
+   "Magic - Ability",
+   "Harmonic",
+   "Anti-Spell",
+   "Entropy",
+   "Defense",
+   "Barrier",
+   "Forbidden Magic",
+   "Forbidden / Lost Magic"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/celestial_harmonic_shear.md",
+  "name": "\"CELESTIAL HARMONIC SHEAR\" (OPALIS)",
+  "key": "CELESTIAL HARMONIC SHEAR",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 709,
+  "labels": [
+   "Defense",
+   "Entropy",
+   "Anti-Spell",
+   "Harmonic",
+   "Magic - Ability",
+   "Counterspell",
+   "Strike",
+   "Channel",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/the_aether_bastion.md",
+  "name": "The Aether Bastion",
+  "key": "The Aether Bastion",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 258,
+  "labels": [
+   "Animus",
+   "Ward",
+   "Defense",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/veil_of_verdant_pact.md",
+  "name": "Veil of Verdant Pact",
+  "key": "Veil of Verdant Pact",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 245,
+  "labels": [
+   "Fatum",
+   "Ward",
+   "Healing",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/nightglass_seal.md",
+  "name": "Nightglass Seal",
+  "key": "Nightglass Seal",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 243,
+  "labels": [
+   "Fatum",
+   "Ward",
+   "Anti-Spell",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/mireglass_suffusion.md",
+  "name": "MIREGLASS SUFFUSION",
+  "key": "MIREGLASS SUFFUSION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 261,
+  "labels": [
+   "Illusion",
+   "Debuff",
+   "Memory",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/spinal_forge_ascent.md",
+  "name": "SPINAL FORGE ASCENT",
+  "key": "SPINAL FORGE ASCENT",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 478,
+  "labels": [
+   "Finalized",
+   "Fatum",
+   "Corpus",
+   "Transmutation",
+   "Enhancements"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/seraphic_thread_blessing.md",
+  "name": "SERAPHIC THREAD BLESSING",
+  "key": "SERAPHIC THREAD BLESSING",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 232,
+  "labels": [
+   "Enhancements",
+   "Fatum",
+   "Healing",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/pyrewind_breaker.md",
+  "name": "PYREWIND BREAKER",
+  "key": "PYREWIND BREAKER",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 221,
+  "labels": [
+   "AoE",
+   "Finalized",
+   "Corpus",
+   "Fire",
+   "Shockwave"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/bastion_imperium.md",
+  "name": "BASTION IMPERIUM",
+  "key": "BASTION IMPERIUM",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 204,
+  "labels": [
+   "Fatum",
+   "Corpus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/edict_strike.md",
+  "name": "EDICT STRIKE",
+  "key": "EDICT STRIKE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 159,
+  "labels": [
+   "Corpus",
+   "Offensive",
+   "Judgement",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/coagula_dominion.md",
+  "name": "COAGULA DOMINION",
+  "key": "COAGULA DOMINION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 155,
+  "labels": [
+   "Fatum",
+   "Field",
+   "Debuff",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/sovereigns_reprisal.md",
+  "name": "SOVEREIGN’S REPRISAL",
+  "key": "SOVEREIGN’S REPRISAL",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 160,
+  "labels": [
+   "Corpus",
+   "Shockwave",
+   "Counterspell",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/the_last_monolith.md",
+  "name": "THE LAST MONOLITH",
+  "key": "THE LAST MONOLITH",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 165,
+  "labels": [
+   "Entropy",
+   "Animus",
+   "Corpus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/crimson_dirge.md",
+  "name": "CRIMSON DIRGE",
+  "key": "CRIMSON DIRGE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 193,
+  "labels": [
+   "Animus",
+   "Fatum",
+   "Offensive",
+   "Purification",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/principle_overwrite.md",
+  "name": "PRINCIPLE OVERWRITE",
+  "key": "PRINCIPLE OVERWRITE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 181,
+  "labels": [
+   "Inversion",
+   "Principle",
+   "Animus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/judgment_manifest.md",
+  "name": "JUDGMENT MANIFEST",
+  "key": "JUDGMENT MANIFEST",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 177,
+  "labels": [
+   "Summon",
+   "Avatar",
+   "Principle",
+   "Fatum",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/world_echelon.md",
+  "name": "WORLD ECHELON",
+  "key": "WORLD ECHELON",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 179,
+  "labels": [
+   "Domain",
+   "Spirit Control",
+   "Fatum",
+   "Animus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/dirge_ascension.md",
+  "name": "DIRGE ASCENSION",
+  "key": "DIRGE ASCENSION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 176,
+  "labels": [
+   "Animus",
+   "Harmonic",
+   "Archonic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/the_principle_engine.md",
+  "name": "THE PRINCIPLE ENGINE",
+  "key": "THE PRINCIPLE ENGINE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 158,
+  "labels": [
+   "Animus",
+   "Resonance",
+   "Conversion",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/final_mercy.md",
+  "name": "FINAL MERCY",
+  "key": "FINAL MERCY",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 179,
+  "labels": [
+   "Animus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/vorynn_execution_strike.md",
+  "name": "VORYNN EXECUTION STRIKE",
+  "key": "VORYNN EXECUTION STRIKE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 191,
+  "labels": [
+   "Movement",
+   "Corpus",
+   "Offensive",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/maw_of_crystalline_stasis.md",
+  "name": "MAW OF CRYSTALLINE STASIS",
+  "key": "MAW OF CRYSTALLINE STASIS",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 175,
+  "labels": [
+   "Absolute Zero",
+   "Corpus",
+   "Movement",
+   "Offensive",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/ashfang_mark_invocation.md",
+  "name": "ASHFANG MARK INVOCATION",
+  "key": "ASHFANG MARK INVOCATION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 175,
+  "labels": [
+   "Enhancements",
+   "Corpus",
+   "Finalized",
+   "Utility"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/hunters_breath.md",
+  "name": "HUNTER’S BREATH",
+  "key": "HUNTER’S BREATH",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 164,
+  "labels": [
+   "Frost",
+   "Corpus",
+   "Enhancements",
+   "Offensive",
+   "Finalized",
+   "Utility"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/bloodbind_surge.md",
+  "name": "BLOODBIND SURGE",
+  "key": "BLOODBIND SURGE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 169,
+  "labels": [
+   "Primal",
+   "Enhancements",
+   "Corpus",
+   "Offensive",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/winter_rend.md",
+  "name": "WINTER REND",
+  "key": "WINTER REND",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 162,
+  "labels": [
+   "Corpus",
+   "Frost",
+   "Offensive",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/tenebra_ambush_art.md",
+  "name": "TENEBRA AMBUSH ART",
+  "key": "TENEBRA AMBUSH ART",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 156,
+  "labels": [
+   "Shadow",
+   "Ambush",
+   "Teleport",
+   "Finalized",
+   "Corpus"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/oneiron_phantasm_court.md",
+  "name": "ONEIRON PHANTASM COURT",
+  "key": "ONEIRON PHANTASM COURT",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 251,
+  "labels": [
+   "Illusion",
+   "Psychic",
+   "Finalized",
+   "Animus"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/eidolyn_falseface_lattice.md",
+  "name": "EIDOLYN FALSEFACE LATTICE",
+  "key": "EIDOLYN FALSEFACE LATTICE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 226,
+  "labels": [
+   "Avatar Projection",
+   "Illusion",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/hypnather_descent_rite.md",
+  "name": "HYPNATHER DESCENT RITE",
+  "key": "HYPNATHER DESCENT RITE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 203,
+  "labels": [
+   "Paralysis",
+   "Mentis",
+   "Illusion",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/puppet_dream.md",
+  "name": "SOMNALIS “PUPPET-DREAM” MARIONETTE",
+  "key": "PUPPET-DREAM",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 254,
+  "labels": [
+   "Finalized",
+   "Offensive",
+   "Animus"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/letheveil_memory.md",
+  "name": "LETHEVEIL MEMORY-QUAKE",
+  "key": "LETHEVEIL MEMORY",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 230,
+  "labels": [
+   "Memory",
+   "Nullification",
+   "Animus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/oneiron_parasite.md",
+  "name": "ONEIRON PARASITE — NIGHTMARE WARDEN",
+  "key": "ONEIRON PARASITE",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 236,
+  "labels": [
+   "Animus",
+   "Dream",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/dreambreaker_field_the_shattered_midnight.md",
+  "name": "DREAMBREAKER FIELD: THE SHATTERED MIDNIGHT",
+  "key": "DREAMBREAKER FIELD: THE SHATTERED MIDNIGHT",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 216,
+  "labels": [
+   "Animus",
+   "Fatum",
+   "Field",
+   "Illusion",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/techniques/hypnather_oblivion.md",
+  "name": "HYPNATHER OBLIVION-STEP",
+  "key": "HYPNATHER OBLIVION",
+  "group": "techniques",
+  "target": "The Iridescent Archive / Techniques",
+  "words": 220,
+  "labels": [
+   "Teleport",
+   "Shadow",
+   "Dream",
+   "Animus",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/divination_harmonics_.md",
+  "name": "| Divination |  - Harmonics -",
+  "key": "",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 462,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/anima_harmonics_.md",
+  "name": "| Anima | - Harmonics -",
+  "key": "",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 428,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/thaumic_harmonics_.md",
+  "name": "| Thaumic | - Harmonics -",
+  "key": "",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 396,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/the_veil.md",
+  "name": "< Spiritual Stratum > ' The Veil '",
+  "key": "' The Veil '",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 458,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/invert_eidolon.md",
+  "name": "< Animatria >  “ Invert Eidolon “",
+  "key": "Invert Eidolon",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 404,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/vainglory.md",
+  "name": "< Animatria > “ Vainglory “",
+  "key": "Vainglory",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 405,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/transposition.md",
+  "name": "< Ritus > “Transposition”",
+  "key": "Transposition",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 400,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/anointing.md",
+  "name": "< Ritus > “Anointing”",
+  "key": "Anointing",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 401,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/scission.md",
+  "name": "< Ritus > “Scission”",
+  "key": "Scission",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 339,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/oathrend.md",
+  "name": "< Manifestus > “Oathrend”",
+  "key": "Oathrend",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 391,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/edictum.md",
+  "name": "< Manifestus > “Edictum”",
+  "key": "Edictum",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 423,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/imprinta.md",
+  "name": "< Manifestus > “Imprinta”",
+  "key": "Imprinta",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 380,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/precept.md",
+  "name": "< Manifestus > “Precept”",
+  "key": "Precept",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 348,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/fallacy.md",
+  "name": "< Manifestus > “Fallacy”",
+  "key": "Fallacy",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 347,
+  "labels": [
+   "Misc"
+  ]
+ },
+ {
+  "file": "imports/trello/spellcraft/gods_fist.md",
+  "name": "God's Fist",
+  "key": "God's Fist",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 0,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/spellcraft/unlimited_bladeworks.md",
+  "name": "Unlimited Bladeworks",
+  "key": "Unlimited Bladeworks",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 1835,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/spellcraft/saba_no_rosa.md",
+  "name": "Saba No Rosa",
+  "key": "Saba No Rosa",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 2163,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/spellcraft/the_iron_tree.md",
+  "name": "The Iron Tree",
+  "key": "The Iron Tree",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 1543,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/spellcraft/kurotana.md",
+  "name": "Kurotana",
+  "key": "Kurotana",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 1711,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/spellcraft/antinomy.md",
+  "name": "Antinomy",
+  "key": "Antinomy",
+  "group": "spellcraft",
+  "target": "The Iridescent Archive / Spellcraft",
+  "words": 1063,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/artifacts/mnemonis_solution.md",
+  "name": "‘ K.V ‘ “ Mnemonis Solution “",
+  "key": "Mnemonis Solution",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 307,
+  "labels": [
+   "Essence Draft",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/verdiction_gauntlet.md",
+  "name": "‘ W ‘ “ Verdiction Gauntlet “",
+  "key": "Verdiction Gauntlet",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 766,
+  "labels": [
+   "Relic",
+   "Finalized",
+   "Weapon Artifact"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_soul_reed_blade.md",
+  "name": "' K.H ' \" The Soul-Reed Blade \"",
+  "key": "The Soul-Reed Blade",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 216,
+  "labels": [
+   "Soulbound Item",
+   "Weapon Artifact",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_marshgraves_phial.md",
+  "name": "' K.H ' \"The Marshgrave’s Phial\"",
+  "key": "The Marshgrave’s Phial",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 231,
+  "labels": [
+   "Relic",
+   "Finalized",
+   "Essence Draft"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_lantern_of_echoed_veils.md",
+  "name": "' K.H ' \"The Lantern of Echoed Veils\"",
+  "key": "The Lantern of Echoed Veils",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 204,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/mirrorwell_prism.md",
+  "name": "‘ K.V ‘ “ Mirrorwell Prism ”",
+  "key": "Mirrorwell Prism",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 315,
+  "labels": [
+   "Relic",
+   "Soulbound Item",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_ledger_of_forgotten_faces.md",
+  "name": "‘ K.V ‘ “ The Ledger of Forgotten Faces “",
+  "key": "The Ledger of Forgotten Faces",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 341,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_latch_of_twinned_souls.md",
+  "name": "‘ K.V ‘ “ The Latch of Twinned Souls “",
+  "key": "The Latch of Twinned Souls",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 345,
+  "labels": [
+   "Relic",
+   "Soulbound Item",
+   "Focus"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/staff_of_the_verdant_pulse.md",
+  "name": "‘ C.N ‘ “ Staff of the Verdant Pulse “",
+  "key": "Staff of the Verdant Pulse",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 272,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/nkanda_wa_mizimu.md",
+  "name": "‘ C.N ‘ “ Nkanda wa Mizimu “",
+  "key": "Nkanda wa Mizimu",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 308,
+  "labels": [
+   "Soulbound Item",
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/mbunda_wa_moyo.md",
+  "name": "‘ C.N ‘ “ Mbunda wa Moyo “",
+  "key": "Mbunda wa Moyo",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 331,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/mkono_wa_miti.md",
+  "name": "‘ C.N ‘ “ Mkono wa Miti “",
+  "key": "Mkono wa Miti",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 308,
+  "labels": [
+   "Relic",
+   "Finalized",
+   "Soulbound Item"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/kibanda_cha_mwanga_wa_miti.md",
+  "name": "‘ C.N ‘ “ Kibanda cha Mwanga wa Miti “",
+  "key": "Kibanda cha Mwanga wa Miti",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 329,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/upanga_wa_msimu_nne.md",
+  "name": "‘ C.N ‘ “ Upanga wa Msimu Nne “",
+  "key": "Upanga wa Msimu Nne",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 390,
+  "labels": [
+   "Relic",
+   "Finalized",
+   "Weapon Artifact"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/amaranth_severance.md",
+  "name": "“ Amaranth Severance “",
+  "key": "Amaranth Severance",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 406,
+  "labels": [
+   "Soulbound Item",
+   "Weapon Artifact",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_black_aperture.md",
+  "name": "“ The Black Aperture “",
+  "key": "The Black Aperture",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 412,
+  "labels": [
+   "Ancient Artifact",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/luriens_hearthvine.md",
+  "name": "“ Lurien’s Hearthvine “",
+  "key": "Lurien’s Hearthvine",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 421,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/the_ocular_codex_of_thirteen_mouths.md",
+  "name": "“ The Ocular Codex of  Thirteen Mouths “",
+  "key": "The Ocular Codex of  Thirteen Mouths",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 499,
+  "labels": [
+   "Cursed Object",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/horizons_reach.md",
+  "name": "“ Horizon’s Reach “",
+  "key": "Horizon’s Reach",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 500,
+  "labels": [
+   "Soulbound Item",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/band_of_frozen_brambles.md",
+  "name": "“ Band of Frozen Brambles “",
+  "key": "Band of Frozen Brambles",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 466,
+  "labels": [
+   "Relic",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/artifacts/banisher.md",
+  "name": "“ Banisher “",
+  "key": "Banisher",
+  "group": "artifacts",
+  "target": "The Iridescent Archive / Artifacts",
+  "words": 470,
+  "labels": [
+   "Weapon Artifact",
+   "Ancient Artifact",
+   "Finalized"
+  ]
+ },
+ {
+  "file": "imports/trello/beasts/greater_wolves.md",
+  "name": "[ Nature Beast ] \" Greater Wolves \" (Moonlight Forest)",
+  "key": "Greater Wolves",
+  "group": "beasts",
+  "target": "The Iridescent Archive / Bestiary Additions",
+  "words": 441,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/beasts/nemean_lion.md",
+  "name": "[ Nature Beast ] \" Nemean Lion \"",
+  "key": "Nemean Lion",
+  "group": "beasts",
+  "target": "The Iridescent Archive / Bestiary Additions",
+  "words": 418,
+  "labels": []
+ },
+ {
+  "file": "imports/trello/beasts/liches.md",
+  "name": "[ Undying ] \" Liches \"",
+  "key": "Liches",
+  "group": "beasts",
+  "target": "The Iridescent Archive / Bestiary Additions",
+  "words": 378,
+  "labels": []
+ }
+]

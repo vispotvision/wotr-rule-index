@@ -1,0 +1,78 @@
+# Standing ruling, originated: no source document. Isaac ruled directly,
+# 2026-09-12, on a Codex amendment pitched as an open ruling on the Mule's
+# summon entry (wiki/Summoned and Bound/Obrenkael · The Mule.md, Section
+# XIII: "Codex amendment pitched, not taken ... The proposal is to extend
+# [Abys] Deep's attested Wellspring list to include Oblation and its attested
+# Family list to include Fluxia"). Isaac took the amendment. R31 is the
+# id-numeral bucket Isaac assigned for it (R30 is unused as of this
+# writing); it is unrelated to any pack and simply continues the numbering
+# of the same-day direct rulings (R25, R26, R28, R29). Uses
+# R25-1's "standalone doc, no pack number, empty source.file" pattern for a
+# row with no backing document at all. The Master Glyph Index page in the
+# wiki carries only the eleven-field schema and no per-glyph rows, so the
+# extension is recorded as an Amendments entry on that page (quoted below)
+# and on the card's Deadweight Codex Assignment line.
+pack: Abys Deep Codex Amendment Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+rules:
+
+  - id: R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA
+    pack: Abys Deep Codex Amendment Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: "[Abys] Deep is attested at Oblation and Fluxia"
+    status: live
+    kind: definition
+    summary: >-
+      The Master Codex row for [Abys] Deep now lists Oblation among its
+      attested Wellsprings and Fluxia among its attested Families, so a
+      Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia
+      construct is legal as written. Its Primary Wellspring, Family and
+      Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged,
+      and [Th] Foundation is not amended and stays cross-family.
+    verbatim: >-
+      [Abys] Deep · Oblation and Fluxia added. Ruled 2026-09-12. [Abys]
+      Deep, a directional undertow of sub-Realm pressure, carried an
+      Abyntheus, Fulguria, Electromagnetism row. Its All Attested
+      Wellsprings field now includes Oblation and its All Attested Families
+      field now includes Fluxia, taken on the pitch in Obrenkael · The Mule
+      (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's
+      road is a directional undertow of sub-Realm pressure and that
+      Abyntheus and Oblation are both pressure-grammar Wellsprings under
+      different Archons. Primary Wellspring, Family and Physics Domain are
+      unchanged. [Th] Foundation, drafted beside it in the same chain, is
+      not amended and stays cross-family.
+    amends:
+      - guide: "The Master Codex"
+        locus: "[Abys] Deep"
+        operation: extends
+    supersedes: []
+    applies_to: [codex, magic-design]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Raised as an open ruling on wiki/Summoned and Bound/Obrenkael · The
+      Mule.md (Section XIII), where Deadweight's chain [Ob] · [Abys] · [Th]
+      was flagged because neither [Abys] Deep nor [Th] Foundation was
+      attested at Oblation in the Master Glyph Index. Isaac took the
+      amendment for [Abys] only. Recorded in three places, all in Notion
+      and re-exported: the Amendments section added to the Master Glyph
+      Index page (wiki/The Magic System/The Master Glyph Index — 136
+      Attested Forms.md, the text quoted in `verbatim`); the Deadweight
+      Codex Assignment line on the Mule's card ("Amended 2026-09-12: [Abys]
+      Deep's Master Codex row now carries Oblation among its attested
+      Wellsprings and Fluxia among its attested Families"); and the card's
+      Section XIII paragraph, now "Codex amendment taken." The Haelvorn ·
+      Housecat cross-reference that pointed at the pitched-not-taken state
+      was updated in the same pass. Deadweight stands as drafted, is not
+      rebuilt, and remains the summon roster's one cross-family chain.
+      `kind` is `definition` rather than `amendment` because the rule
+      schema's kind enum has no `amendment` value and the checker is not to
+      be changed; the row defines what [Abys] Deep's attested lists now
+      read, which is what R25-1 (the other direct ruling of this shape)
+      also files as a definition.

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81fb-b372-edd4501dcbde"
 notion_url: "https://app.notion.com/p/The-Master-Glyph-Index-136-Attested-Forms-3bc58200eb2281fbb372edd4501dcbde"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:22:00.000Z"
+last_edited: "2026-09-12T18:52:00.000Z"
 verification: "unverified"
 ---
 
@@ -126,3 +126,10 @@ Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings a
 
 > **Every technique entry in the wiki closes on a Codex assignment line.** That line points here.
 > **Assignment is decided after the phenomenon, never before**, and it is a filing decision rather than a generative one. *If no combination fits, the correct move is to say so and pitch a new Codex entry in the same pass — not to bend the phenomenon until it files.*
+
+---
+
+## Amendments
+
+*Extensions to an entry's attested lists taken by ruling. Each names the glyph, the date, the entry that pitched it and the reasoning, so a drafter checking a Codex assignment line against this page finds the extension here rather than only on the card that asked for it.*
+**[Abys] Deep · Oblation and Fluxia added.** Ruled 2026-09-12. [Abys] Deep, a directional undertow of sub-Realm pressure, carried an Abyntheus, Fulguria, Electromagnetism row. Its All Attested Wellsprings field now includes Oblation and its All Attested Families field now includes Fluxia, taken on the pitch in Obrenkael · The Mule (Summoned and Bound), Deadweight, on the reasoning that a psychopomp's road is a directional undertow of sub-Realm pressure and that Abyntheus and Oblation are both pressure-grammar Wellsprings under different Archons. Primary Wellspring, Family and Physics Domain are unchanged. [Th] Foundation, drafted beside it in the same chain, is not amended and stays cross-family.

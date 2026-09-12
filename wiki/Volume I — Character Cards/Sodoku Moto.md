@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8169-a67b-cbde6be80dbe"
 notion_url: "https://app.notion.com/p/Sodoku-Moto-3b258200eb228169a67bcbde6be80dbe"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-04T04:36:00.000Z"
+last_edited: "2026-09-12T20:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -139,7 +139,7 @@ Near-black hair with a **Kōkan violet-cast in direct light**, heavy and straigh
 
 **Kurosetsu — Black Verdict** · Ruins-inscribed practice blade, **below Guild Accord combat classification on paper.** *What it cuts does not read as below-grade regardless of the specification.*
 **Covenant Beads** · Non-magical, his father's, jade and iron worn smooth. **The only object carried continuously since the exile began.**
-**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice.
+**Field Coat** · Heavy, dark, wide fur collar, iron-thread seams. Replaced twice. [*The campaign form of Moto dress — see The Moto Bloodline — Material Culture.*](https://app.notion.com/p/The-Moto-Bloodline-Material-Culture-3d958200eb2281b68f63e46eb9ccdee4)
 
 ---
 

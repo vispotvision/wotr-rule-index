@@ -100,6 +100,7 @@ Hair black and heavy and oiled, bound close in the coiled arrangement the tuiga 
 > **Ritual Self-Dilution** · Each major invocation **binds another sliver of her private desires into the public role of Queen.**
 >
 > Over years of overuse, **her capacity to want something for herself — separate from Kharven and Muken — thins**, risking a Temperance drift where she becomes **more sacred mechanism than person.**
+> *The same price at the house's scale: the Kagura officiants who hold Yasoshima's convergence rites pay this Self-Dilution on House Yuno's behalf, and have for two hundred thousand years — see* [*Yasoshima — The Eighty Isles, What the Research Division Was Not Told*](https://app.notion.com/p/Yasoshima-The-Eighty-Isles-3bc58200eb22816dadaccdb407408b34)*. Reader's knowledge; the house treats its silence as a sealed vow (R36-1).*
 >
 > **Winter Echo Debt** · Fixatio and Coagula leave lingering **frozen instants** in the places she works, echoes of her liturgy that replay emotions and choices. Accumulated unharvested, **they coalesce into Echo-beings of stalled loyalty — manifestations that question current policy with the weight of past promises.**
 

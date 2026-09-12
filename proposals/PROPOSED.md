@@ -4,7 +4,7 @@ Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the n
 
 ## 2026-09-12 — Four element-inventory gaps for the Naming Guide Amendment (R20-CO)
 
-**Status:** drafted by a background research agent, awaiting Isaac's read
+**Status:** ratified 2026-09-12, Isaac: as written, flags kept → R37-1..R37-4 (rules/doc-element-inventories.yaml; R20-CO-REMAINING_GAPS superseded); published at wiki/The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md (Notion 3d958200-eb22-81c1-b796-f6f3757fb7fb, child of The Tongues of the Realms) and appended as §12 of "C:\Users\isaac\Documents\WOTR True Canon\WOTR_Character_Naming_Guide (2026-09-12 edition).md"
 **applies_to:** naming, worldbuilding
 **Full draft:** proposals/element_inventories_draft.md
 
@@ -19,7 +19,7 @@ doesn't settle a detail -- left open rather than invented.
 
 ## 2026-09-12 — What House Yuno declined to disclose to the Research Division (R21-5)
 
-**Status:** drafted by a background research agent as a committed decision, awaiting Isaac's read
+**Status:** ratified 2026-09-12, Isaac: as written → R36-1 (rules/doc-yuno-research-division-secret.yaml); published at wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md ("What the Research Division Was Not Told"), cross-referenced on wiki/Volume I — Character Cards/Ayame Yuno.md
 **applies_to:** worldbuilding, magic-mechanism
 **Full draft:** proposals/research_division_secret_draft.md
 
@@ -35,7 +35,7 @@ what happens if it's ever forced into the open.
 
 ## 2026-09-12 — Zettari forge-culture substrate pitch, Docket 18 (R2/R3/R4-OP-ZETTARI_DOCKET)
 
-**Status:** drafted by a background research agent, awaiting Isaac's read; blocked on C-005
+**Status:** drafted by a background research agent, awaiting Isaac's read; C-005 blocker cleared 2026-09-12
 **applies_to:** worldbuilding, items, naming
 **Full draft:** proposals/zettari_forge_culture_draft.md
 
@@ -45,14 +45,17 @@ application built on the Zettari's own established Material Covenant
 Resonance and Stone Witness Oath. While researching it, the agent found
 and flagged a real, previously-unnoticed naming split: CONFLICTS.md C-005
 (Zettari vs. Zettai, the same bloodline spelled two ways across lore pages
-vs. character cards, never ruled on) and C-006 (the Zettari's actual
+vs. character cards) and C-006 (the Zettari's actual
 Swahili/Bantu/Arabic-flavored vocabulary doesn't match the ratified
 five-strata naming rule's Japonic assignment for "archaic bloodlines").
-Recommend settling C-005 before ratifying this pitch.
+Both closed by Isaac 2026-09-12: C-005, "Zettari" everywhere (the old
+card spelling swept); C-006, the Zettari keep their own register
+(R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC). The pitch's spelling is
+now the ruled one; it still awaits Isaac's read on its own merits.
 
 ## 2026-09-12 — Moto bloodline Visual Aesthetic Guide pass (R21-5)
 
-**Status:** drafted by a background research agent, awaiting Isaac's read
+**Status:** ratified 2026-09-12, Isaac: as written including the two flagged items → R34-1, R34-2; published at wiki/The Moto Bloodline/The Moto Bloodline — Material Culture.md
 **applies_to:** worldbuilding, items
 **Full draft:** proposals/moto_material_culture_draft.md
 
@@ -67,8 +70,8 @@ contrast (an inference, not a stated fact).
 
 ## 2026-09-12 — Psychic-distance narration registers for the major POV cast (R4)
 
-**Status:** drafted by a background research agent, awaiting Isaac's read
-**applies_to:** pov, register
+**Status:** ratified 2026-09-12, Isaac: as written → R35-1, R35-2 (rules/doc-psychic-distance-registers.yaml; R4-OP-PSYCHIC_DISTANCE_BANDS superseded); published at docs/NARRATION_REGISTERS.md and the Notion page "Narration Registers — Psychic Distance by POV" under The Rule Index (page id in build/.notion_publish.json). Hild Ice and Dabney stay unassigned by the ruling. Term collision with Pack Five's per-culture "narration registers" logged as C-007.
+**applies_to:** pov, register, prose-law
 **Full draft:** proposals/psychic_distance_bands_draft.md
 
 Answers R4-OP-PSYCHIC_DISTANCE_BANDS. Assigns a narration register (close /

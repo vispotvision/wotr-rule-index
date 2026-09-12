@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81c5-92a2-fd88ff8fa000"
 notion_url: "https://app.notion.com/p/The-Moto-Bloodline-3b158200eb2281c592a2fd88ff8fa000"
 section: "The Archaic Bloodlines"
 tags: ["Bloodlines"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-12T20:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -123,3 +123,4 @@ Not the Old World. The **western part of the northern shield**, past the ridgeli
 > **Struck from canon** · The Malō of Sātūlagi. The Moto hold one seat and it is Kharven. The six non-Kōkan lines are landless.
 - [The Long Reading — Moto Ancient History](The Moto Bloodline/The Long Reading — Moto Ancient History.md)
 - [The Moto Origin — The Western Reach](The Moto Bloodline/The Moto Origin — The Western Reach.md)
+- [The Moto Bloodline — Material Culture](The Moto Bloodline/The Moto Bloodline — Material Culture.md)

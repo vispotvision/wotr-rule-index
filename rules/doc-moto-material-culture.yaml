@@ -1,0 +1,124 @@
+# Standing ruling, originated: no source document in sources/. Isaac ratified,
+# 2026-09-12, as written -- including the two items the draft had flagged as
+# speculative (the Tenrai palette and the Kurenai crimson/mourning-black
+# contrast) -- the proposal "Moto bloodline Visual Aesthetic Guide pass"
+# (proposals/moto_material_culture_draft.md, logged in proposals/PROPOSED.md),
+# which answers R21-5-MATERIAL_CULTURE_PENDING. The ratified text is published
+# as the Notion wiki page "The Moto Bloodline — Material Culture"
+# (3d958200-eb22-81b6-8f63-e46eb9ccdee4), a child of The Moto Bloodline hub,
+# mirrored at wiki/The Moto Bloodline/The Moto Bloodline — Material Culture.md;
+# every verbatim below is a contiguous quote of that page. R34 is the
+# id-numeral bucket assigned to this ruling (R25-R31 and R35 are the other
+# standalone rulings of 2026-09-12 in rules/doc-*.yaml); it is unrelated to
+# those clusters and simply continues the numbering. Uses R25-1's "standalone
+# doc, no pack number, empty source.file" pattern. The `amends` guide name
+# follows the nine existing rows that cite the Visual Aesthetic Guide as
+# "WOTR_Visual_Aesthetic_Guide.md".
+pack: Moto Material Culture Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, including the two flagged items"
+rules:
+
+  - id: R34-1-MOTO_MATERIAL_CULTURE
+    pack: Moto Material Culture Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: The Moto crown-line dress pattern and the court-versus-campaign split
+    status: live
+    kind: definition
+    summary: >-
+      Moto (Kōkan crown-line) dress is six elements worn together -- red
+      enamel fired over deliberately blackened steel (the Ashen Crown's
+      garnet-on-black-iron palette at human scale); a beast-face boss in the
+      same near-black steel, lion or dragon for the crown-line, at the belt
+      clasp at court and on a shoulder rivet or pauldron on campaign; a
+      knotwork belt that is native-Kharven and not Moto in origin, always a
+      specific inherited or married-in piece; a heavy northern fur mantle
+      over the robe at court, reduced to a collar or lining in the field;
+      and a fitted war-harness worn under a robe open enough to show it --
+      organised on a court-versus-campaign split that is two priority sets
+      wearing the same lineage markers, never one outfit with accessories
+      added or removed. Write a Moto as magistrate and combatant at once.
+    verbatim: >-
+      The crown-line pattern is six things worn together: red enamel over
+      dark steel, a beast-face boss, a knotwork belt, a fur mantle, a
+      robe-over-harness silhouette, and a split between court dress and
+      campaign dress that never collapses into one outfit with the
+      accessories taken off. The pattern in full belongs to Kōkan. The other
+      six Great Lines carry it in their own metal and palette, set out
+      below.
+    amends:
+      - guide: "WOTR_Visual_Aesthetic_Guide.md"
+        locus: "Moto bloodline material culture"
+        operation: adds
+    supersedes: [R21-5-MATERIAL_CULTURE_PENDING]
+    applies_to: [worldbuilding, items]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, including the two flagged items"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Closes R21-5-MATERIAL_CULTURE_PENDING (rules/doc-agamalu-buri-origin.yaml),
+      whose proposed elements this adopts unchanged and builds out. The page
+      grounds each element in what was already on record: the Ashen Crown's
+      "ironwork set with garnet" (The Kingdom of Kharven — The Ashen Crown),
+      Muken's Crown Mantle of Kharven and Sodoku's Field Coat (Volume I
+      cards), Artemis Amagiri Moto's Passbreaker Mantle as the one prior
+      campaign-worn over-robe, and the Concord baseline's quenched-dark
+      finish and wholeness-marks-rank rule (The Apparatus of the Age). The
+      bloodline's birth-markers (metallic skin-sheen, iris ring-lines and
+      shard-patterns) are expressly outside this rule; they stay under the
+      hub page's shared blood markers. A one-line cross-reference to the new
+      page was appended to the Field Coat entry on Sodoku Moto's card.
+
+  - id: R34-2-SEVEN_LINES_MATERIAL_VARIATIONS
+    pack: Moto Material Culture Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: Material-culture variations for the other six Great Lines
+    status: live
+    kind: definition
+    summary: >-
+      Only Kōkan holds a seat and is the only line entitled to the full court
+      presentation without it reading as a claim on the throne; the other six
+      Great Lines are landless and their dress is portable, worn-on-the-body
+      wealth carrying the crown-line pattern in their own metal and palette
+      -- Shirogane in bright, hard silver; Akagane in copper and red-bronze
+      fittings with no enamel; Kurenai in unrelieved black and ash-grey with
+      the crimson kept to a single hidden accent; Byakuya in pale near-white
+      with an almost ecclesiastical cut; Tenrai in gold and imperial-toned
+      trim with banner-heraldry in place of a boss; Amagiri in indigo and
+      mist-grey, lighter and less armoured than the rest. The Tenrai palette
+      and the Kurenai crimson/black contrast are canon, not speculative.
+    verbatim: >-
+      Only Kōkan holds a seat. The other six Great Lines are landless since
+      the western seat's fall, and their material culture is portable,
+      worn-on-the-body wealth rather than the fixed authority Kōkan expresses
+      through a literal crown and a literal seat. Each of the six carries the
+      pattern in its own metal and palette: Shirogane in bright silver,
+      Akagane in copper and red-bronze, Kurenai in black and ash with the
+      crimson hidden, Byakuya in near-white, Tenrai in gold and
+      banner-heraldry, Amagiri in indigo and mist-grey.
+    amends:
+      - guide: "WOTR_Visual_Aesthetic_Guide.md"
+        locus: "Moto bloodline material culture"
+        operation: adds
+    supersedes: []
+    applies_to: [worldbuilding, items]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, including the two flagged items"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      The draft flagged two of these as its most speculative items -- the
+      Tenrai palette (built from technique-name imagery, no source fixing a
+      colour) and the Kurenai contrast (an inference from the gap between the
+      line's name and its ash/mourning/black technique names). Isaac ratified
+      both as written on 2026-09-12; the wiki page states them as canon
+      without hedging. The per-line table on the page carries the fuller
+      wording (the Kōkan accents echo the line's metallic hair-sheen; the
+      Shirogane/Akagane/Amagiri glosses "Silver", "Copper", "Mist" are the
+      hub page's own).

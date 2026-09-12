@@ -1,0 +1,191 @@
+# Element inventories, originated: no source document under sources/. The
+# Naming Guide Amendment's colophon (R20-CO-REMAINING_GAPS) listed four
+# element inventories it had not written -- Mahuo, Yukari, the elven
+# branches, Beastkin soul-names. A research agent drafted them on 2026-09-12
+# (proposals/element_inventories_draft.md, logged in proposals/PROPOSED.md)
+# and Isaac ratified the draft the same day AS WRITTEN, which includes the
+# draft's inline open flags: they are part of what was ratified and stay
+# flags, not rulings. R37 is the next free id-numeral bucket; this
+# continues the numbering and is unrelated to the R36 document. Uses the
+# R25 "standalone doc, no pack number, empty source.file" pattern for a row
+# with no backing document under sources/. Each `verbatim` is a contiguous
+# quote of the published wiki page (wiki/The Tongues of the Realms/Element
+# Inventories -- Mahuo, Yukari, the Elven Branches, Beastkin.md, Notion
+# 3d958200-eb22-81c1-b796-f6f3757fb7fb), which is where the inventories
+# now live; validate.py cannot check an empty-source verbatim, so the quote
+# was checked by hand against that file.
+pack: Naming Guide Amendment / Element Inventories
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags"
+rules:
+
+  - id: R37-1-MAHUO_ELEMENT_INVENTORY
+    pack: Naming Guide Amendment / Element Inventories
+    pack_number: null
+    section: "I. Mahuo"
+    title: Mahuo element inventory, breath, soul and the Ledger
+    status: live
+    kind: definition
+    summary: >-
+      A Mahuo given name is two syllables drawn from a fixed thirty-element
+      inventory in five categories (breath and soul, Ledger and record,
+      house and clan-seat, precision and correction, care and healing); one
+      syllable is the generation-syllable shared across a cohort, the other
+      is personal, either may take either position, and the family name
+      may precede or follow since canon attests both orders. Which syllable
+      is generational in the attested pairs, and whether Kwon is a Mahuo
+      cadet branch, stay open flags.
+    verbatim: >-
+      Two-syllable given names built from a fixed inventory. One syllable is
+      the generation-syllable, shared by every child of one generation
+      within a line; the other is the personal syllable. Either syllable
+      may occupy either position — canon shows both "Ara Min" and "Mu-jin"
+      orderings. Family name attaches per the existing pattern; canon shows
+      it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given
+      name, and this inventory does not resolve which is "correct" — both
+      are attested.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "element inventories / Mahuo"
+        operation: adds
+    supersedes: [R20-CO-REMAINING_GAPS]
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Supersedes R20-CO-REMAINING_GAPS on behalf of all four R37 rows: that
+      colophon row only listed the four gaps, and the four inventories
+      together are the answer to it. The full inventory (thirty elements,
+      worked example, open flags) is on the wiki page named in the file
+      header; the flags there (generational syllable in Ara/Min and Mu/Jin;
+      Kwon as cadet branch or unrelated clan) were ratified as flags and are
+      not resolved by this row.
+
+  - id: R37-2-YUKARI_ELEMENT_INVENTORY
+    pack: Naming Guide Amendment / Element Inventories
+    pack_number: null
+    section: "II. Yukari"
+    title: Yukari element inventory, thread, fate and the crow
+    status: live
+    kind: definition
+    summary: >-
+      A Yukari name is a two-element compound drawn from a thirty-element
+      inventory in five categories (thread and fate, crow and silence,
+      divine and dream, water/stone/grief, weight and office), and a full
+      name carries up to five life-stage forms: childhood name, adult name
+      taken at the Telling, calling-name, taboo true name, posthumous name.
+      Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to
+      the register. Whether individuals carry a second topographic surname
+      beside "Yukari" stays an open flag.
+    verbatim: >-
+      Two-element compounds. A full name carries up to five life-stage
+      forms: childhood name, adult name (taken at the Telling), calling-name
+      (used by intimates), true name (taboo — spoken only among family or
+      before Senri's stone), and posthumous name.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "element inventories / Yukari"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Yukari is the register name in force as of 2026-09-12 (Tyurkia was
+      swept to Yukari the same day). The open flag on the page -- whether a
+      Yukari individual carries a second, compound-topographic surname
+      alongside "Yukari" or whether "Yukari" absorbed that function -- was
+      ratified as a flag and is not resolved by this row.
+
+  - id: R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY
+    pack: Naming Guide Amendment / Element Inventories
+    pack_number: null
+    section: "III. The Elven Branches"
+    title: Elven branch element inventory, shared roots and branch affixes
+    status: live
+    kind: definition
+    summary: >-
+      The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo
+      Elves) share one root inventory and one affix inventory drawn from
+      the Vey-Elarin grammar, plus one new branch-specific root each
+      (kalen, sova, morel, faelo, verath); roots are disyllabic and open
+      with restricted codas and every element carries a pitch contour.
+      Branch divergence is shown on the same root, not by five separate
+      lists. The root marin stays unglossed, and the clash with already
+      published apostrophe-style Eressean-adjacent names stays an open flag.
+    verbatim: >-
+      Roots are disyllabic and open, codas restricted to a vowel, a liquid
+      (l/r), a nasal (m/n/ny), or th. Every element carries a grammatical
+      pitch contour (level/rising/falling).
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "element inventories / Elven branches"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      The branches are named by language, not by quarter; the page says
+      nothing about where they sit, so today's placement of the elven
+      branches in the New World's elven old-ground is neither restated nor
+      contradicted here. Two flags ratified as flags: (1) marin is attested
+      with no gloss anywhere in canon and is left unglossed; (2) the
+      amendment warns against apostrophe-style Elf naming while Volume V/VI
+      characters such as Vaelorian Theryn Aerethiel and Argen Vael'thar use
+      exactly that style, so this inventory reads differently from some
+      names already on the page. Neither is resolved by this row.
+
+  - id: R37-4-BEASTKIN_SOUL_NAME_INVENTORY
+    pack: Naming Guide Amendment / Element Inventories
+    pack_number: null
+    section: "IV. Beastkin"
+    title: Beastkin soul-name inventory, circumstance, expectation and Name-Keeping
+    status: live
+    kind: definition
+    summary: >-
+      A Beastkin soul-name is a circumstance-element (how the birth went,
+      Akan-day-name style) spoken together with an expectation-element (the
+      attribute the child is charged to grow into, flavoured by lineage
+      stat), and the held-name is whichever fragment survives when home,
+      rank and kin are gone; a third layer supplies the Name-Keeping ritual
+      vocabulary. Whether the four non-Fox lineages actually practise
+      Name-Keeping, and whether soul-name and held-name are one name or two,
+      stay open flags.
+    verbatim: >-
+      A soul-name has two parts spoken together: the circumstance-element
+      (what the birth was like, Akan-day-name style) and the
+      expectation-element (the attribute the child is charged to grow
+      into). The held-name is whichever fragment survives when everything
+      else — home, rank, kin — has been taken.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "element inventories / Beastkin soul-names"
+        operation: adds
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Shaped as three linked layers rather than the Dawi/Moto flat
+      category list because the amendment's own Beastkin anchor is a fixed
+      circumstance-to-name correspondence, not a combinable phoneme pool.
+      Two flags ratified as flags: (1) Name-Keeping is documented only for
+      the Fox-Spirit/Mishiro lineage and the amendment's generalisation to
+      all five is followed, not confirmed; (2) "soul-name by birth
+      circumstance, held name as the last thing" is treated as one name
+      under two descriptions, flagged in case two distinct names were
+      intended. Neither is resolved by this row.

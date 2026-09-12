@@ -713,7 +713,6 @@ rules:
     supersedes: []
     applies_to: [naming, worldbuilding]
     verification: []
-    ratified: null
     ratified: "Isaac, 2026-09-12, Claude Code: yes, fill in the gaps"
     source:
       file: WOTR_Naming_Guide_Amendment.docx
@@ -725,6 +724,11 @@ rules:
       that shape (elven branches: shared roots + branch affixes; Beastkin:
       circumstance + expectation + Name-Keeping, matching the Akan
       day-name anchor). Several per-inventory items flagged rather than
-      invented where canon doesn't settle a detail. Not yet reviewed by
-      Isaac. Full draft in proposals/element_inventories_draft.md, logged
-      in proposals/PROPOSED.md.
+      invented where canon doesn't settle a detail. Full draft in
+      proposals/element_inventories_draft.md, logged in
+      proposals/PROPOSED.md. Superseded 2026-09-12 by
+      R37-1-MAHUO_ELEMENT_INVENTORY (with R37-2, R37-3, R37-4 in
+      rules/doc-element-inventories.yaml), Isaac having ratified the draft
+      as written with its open flags kept as flags; the four inventories
+      are published at wiki/The Tongues of the Realms/Element Inventories
+      -- Mahuo, Yukari, the Elven Branches, Beastkin.md.

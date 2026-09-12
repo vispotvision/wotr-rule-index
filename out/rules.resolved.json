@@ -694,7 +694,7 @@
     "pack_number": null,
     "section": "Colophon",
     "title": "Remaining element-inventory gaps",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Remaining gaps after this amendment: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, and Beastkin soul-name inventory.",
     "verbatim": "Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.",
@@ -705,12 +705,12 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: yes, fill in the gaps",
     "source": {
       "file": "WOTR_Naming_Guide_Amendment.docx",
       "lines": "228-230"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: yes, fill them in. Drafted by a background research agent, matching the existing Dawi/Moto inventory format where it fits and restructured where the culture's own anchor doesn't fit that shape (elven branches: shared roots + branch affixes; Beastkin: circumstance + expectation + Name-Keeping, matching the Akan day-name anchor). Several per-inventory items flagged rather than invented where canon doesn't settle a detail. Not yet reviewed by Isaac. Full draft in proposals/element_inventories_draft.md, logged in proposals/PROPOSED.md.",
     "superseded_by": []
   },
   {

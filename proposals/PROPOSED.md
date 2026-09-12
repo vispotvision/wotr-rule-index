@@ -2,6 +2,21 @@
 
 Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the next amendment pack, or is struck.
 
+## 2026-09-12 — Four element-inventory gaps for the Naming Guide Amendment (R20-CO)
+
+**Status:** drafted by a background research agent, awaiting Isaac's read
+**applies_to:** naming, worldbuilding
+**Full draft:** proposals/element_inventories_draft.md
+
+Answers R20-CO-REMAINING_GAPS: Mahuo (Ledger/breath-soul register, Korean
+stratum), Yukari (thread-fate/crow register, Japonic stratum), the five
+elven branches (a shared root inventory plus branch-specific affixes,
+rather than five separate flat lists), and Beastkin soul-names (a
+circumstance + expectation + Name-Keeping structure, matching the Akan
+day-name anchor rather than forcing the Dawi/Moto phoneme-compound shape).
+Several open flags per inventory (noted inline in the draft) where canon
+doesn't settle a detail -- left open rather than invented.
+
 ## 2026-09-12 — What House Yuno declined to disclose to the Research Division (R21-5)
 
 **Status:** drafted by a background research agent as a committed decision, awaiting Isaac's read

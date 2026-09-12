@@ -1,18 +1,12 @@
 # The Docket — open rulings
 
-7 outstanding.
+6 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
 *Naming Guide Amendment Part Two, blocks: naming, worldbuilding*
 
 > Current status: Flagged as needing a full naming pass. Working names (Verantha, Kaethren Vareth, Dazgrim, Urstia) are placeholders.
-
-## R20-CO-REMAINING_GAPS — Remaining element-inventory gaps
-
-*Naming Guide Amendment Colophon, blocks: naming, worldbuilding*
-
-> Remaining gaps: Mahuo element inventory, Yukari element inventory, Elven branch-specific element inventories, Beastkin soul-name inventory.
 
 ## R2-OP-UNFOLDED_GUIDES — Packs remain paste-in diffs, deliberately, but unfolded
 

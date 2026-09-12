@@ -4,7 +4,7 @@ Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the n
 
 ## 2026-09-12 — Northern forms for the five steppe Inventory items (R23-8)
 
-**Status:** proposed
+**Status:** adopted 2026-09-12 (Isaac delegated the choice): the skin, windmeat, stonecurd, the hide-coat, the Sky
 **applies_to:** standing-inventory, register, worldbuilding
 
 Isaac ruled the five steppe items keep their functions and take Northern/permafrost forms. Proposed, in the Kharven register (Northern English and Norse for chartered families and commons; Far-Northern carried-name logic):
@@ -21,7 +21,7 @@ Isaac ruled the five steppe items keep their functions and take Northern/permafr
 
 ## 2026-09-12 — A Japonic name for the island (R21-5)
 
-**Status:** proposed
+**Status:** adopted 2026-09-12 (Isaac delegated the choice): Wadatsumi; Vāimoana swept via build/renames.yaml
 **applies_to:** naming, worldbuilding
 
 Isaac ruled the island takes a Japonic-register name in place of Vāimoana / Vāitele / Tuāoi. Two candidates, one recommended:

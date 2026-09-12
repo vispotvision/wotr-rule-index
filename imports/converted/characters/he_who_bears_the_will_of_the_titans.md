@@ -1,0 +1,100 @@
+# Jindoku Malrake · He Who Bears the Will of the Titans
+
+> *"I do not summon weapons. I recall what is mine."*
+> **Migrated with all content preserved, and with the largest pending list in this batch.** The card carries the Trello labels *Non-cannon* and *Needs Expansion*, and it states no Temperance Stage, no Level and no Aether Class, so every number on this sheet is `pending Isaac` and the stat table is omitted. *"Kaisic Aether / Titanic Resonance / Armament Aetherion"* were not Essence types; they are re-sourced below to Judicium, Anamnesis and Coagulatio. The *"Path of Titanic Sovereignty"* with *Exaltation (VII), Coagulation (XIII), Projection (III), Solution (IV)* lists Great Work operations, and the numerals are operation indices rather than Stages: **Coagulation maps to Coagulatio, Solution to Dissolution, and Exaltation and Projection are not among the Sixty.** *"Relic-Bearer of the WOTR Path"* is struck; the four Paths are Body, Spirit, Attraction and Fate. *"Aetherion-tier Soul Crystal"* is not a Crystal tier. **Unattested in current canon:** NIŠ ILU, the Armory of Babel, the Malrake "Forgotten Lineage of Babel," the Tablet of Destinies, the Titan Eresh-Urra, the Gate of Irkalla. The Fourteen Titans are a closed and named list and none of them is Eresh-Urra. *Babyl and the Babylian Imperium* are struck dead canon, and "Babel" is flagged as possibly the same root. **Attested:** the Guild Accord, the Fourteen Titans as a stratum of law, *Chronicles of the Exiles*, and Saekiro Malrake, whose Volume IV sheet carries a lineage flag (descent from Sodoku Moto, held pending Isaac) that a brother inherits. The Volume V index lists a Jindoku Malrake sheet anchored to the Moto question, and the Ossuary Registrar's sheet cites Jindoku with *Gnosis Memorium at ceiling*; neither figure is in the wiki mirror, so Notion should be checked before any number is written here.
+
+---
+
+## I · Identity
+
+**Name** · Jindoku Malrake. **Called** · He Who Bears the Will of the Titans. Sovereign of the Divine Armory. The Echo of Kings Long Dead.
+**Role** · **Titanbound Armament Sovereign. Domain-Breaker. Relic-Bearer.** *("of the WOTR Path" struck; see note.)*
+**Gloss rights** · **Yes.** *A man whose key quote is a correction of other people's vocabulary will gloss his own art in his own mouth; the register's Latin never reaches it.*
+
+### Affiliation
+
+**Independent Vanguard of the Guild Accord.** *The Accord's Frontier Vanguard Division exists in current canon; the card's "Independent Vanguard" is kept as written and its standing within that Division is pending.* **Bearer of NIŠ ILU, the Breath of the Gods** *(unattested).* **Legacy Heir of the Malrake Line, "Forgotten Lineage of Babel"** *(unattested; see the Saekiro lineage flag).*
+> **Catalyst Event · Stage pending Isaac.** *The card names no Stage. What it does give is the shape of one: the card says his Soul Crystal contains a microcosmic realm, and in the current system a Domain consolidates into a Realm at Stage IX, Invocation, the Stage at which a practitioner calls on Wellsprings, Titans or Archonic law as co-authors.* **If the Armory is a Realm in the system's sense, Stage IX is the floor. If it is a figure of speech, nothing follows.** *Isaac rules which.*
+>
+> **The brother is the fracture line.** *Saekiro believes in the cycle of fate and Jindoku believes in mastering it. A sheet built around refusing to be authored by the Plane of Fate has its core contradiction written on it already.*
+
+---
+
+## II · Soul Architecture
+
+**Aether Shell** · **Class pending Isaac.** *No Band can be read without a Stage.*
+**Attraction Layer** · Developed, and the card is explicit about what it holds: **ancestral contract, Titan-blood right, and "ancient contracts of soul-bound domains."** *Every relic is a bond before it is a weapon. This is a Fate-heavy Layer.*
+**Crystal State** · pending Isaac. **η** · pending Isaac.
+**NIŠ ILU, the Breath of the Gods** · *The card's Soul Crystal, kept as written and flagged unattested.* **A Crystal containing a microcosmic realm, the Armory of Babel. Each relic within is not summoned but remembered; his soul claims ownership through divine resonance, ancestral contract and Titan-blood right.** *The card calls it a harmonic resonance node for Titanic decree, relic-wielding and dominion over battlefield law.* **"Aetherion-tier" is struck; the Crystal tiers run Dormant, Awakened, Harmonic, Resonant, Radiant, Absolute.**
+
+---
+
+## III · Wellspring Harmonizations
+
+**Anamnesis** · Limina. **Governing.** *Objects and places store their history in physically readable form, and the Wellspring does not store memories; it reads the record already there.* **Royal Recollection, sourced exactly: he does not summon, he recalls.** *A relic materialises "by rite of metaphysical inheritance" because the record of ownership is real and readable, and the Armory is the record.*
+**Judicium** · Fulguria. Order, measure, consequence. **The "Kaisic Aether" of the card, re-sourced.** *"Kaisic" survives in current canon only in Sanctum Lux's own register, where Kaisic Essence enforces law and does not adjudicate between clauses.* **King's Soul and the "metaphysical kingship" are Judicium read as royal law: an authored claim, weighed, and enforced on those with a lighter claim.**
+**Coagulatio** · Materia. **Crystallisation from supersaturated solution; nucleation and ordered deposition.** *The card's "Coagulation (XIII): solidifies conceptual relics into usable form."* **A remembered relic is a supersaturated record, and Coagulatio is what makes it a thing with an edge.**
+**Dissolution** · Limina. **Solvation driven by the entropy of mixing; the unbound state is preferred and the process runs itself once started.** *The card's "Solution (IV): dissolves enemy claim over battlefield territory or metaphysical assertion."* **It only starts where the enemy's claim is genuinely weaker than the unbound state. A claim held by right does not dissolve.**
+> **"Titanic Resonance" is not re-sourced to a Wellspring.** *The Titans are a stratum of law above Wellspring law, and Titan-Keyed workings gate at Stage XIV. The card's "memory-channeling of sacred Titans" is read as Anamnesis pointed at the Titanic stratum, and whether that is legal at his Stage is pending Isaac.*
+
+---
+
+## IV · Primary Stats
+
+**Stage pending Isaac** · **Level pending Isaac** · Band, Coherence Band, Grade and Ceiling all pending.
+> **Stat table omitted.** *The card gives no Stage and no Level, so there is nothing to derive a pool from. The Ossuary Registrar's sheet cites Jindoku Malrake as one of four characters with Gnosis Memorium at ceiling, which implies a sheet with numbers exists outside the mirror.* **Check Notion before writing any figure here.**
+
+**Path** · **Fate dominant** (Edictal Immunity, the contracts, the severing of Fate Threads), **Attraction secondary** (the relic bonds). *Derived from the card's description; pending Isaac with the rest.*
+> **What the card's power description implies about the allocation, for when the Stage is ruled:** *Dominion leads (a passive dominance field, "metaphysical dominion over battlefield law"), Gnosis Memorium sits at or near ceiling (the Armory is recall), Resilience carries Titanforged Constitution and Edictal Immunity.* **Harmonics is the likely floor: a man whose relationships are an estranged brother, a Titan he half-inherited, a council that calls him an anomaly, and a voice in his own Crystal.**
+
+---
+
+## V · Sub-Stat Peaks
+
+**Pending Isaac.** *Expected on ruling: Gnosis Memorium at ceiling (attested on the Ossuary Registrar's sheet), Dominion Sovereignty, Dominion Fate, Resilience Immunity, Resilience Oath, Ardency Compression (Coagulatio's gift), Tempering Clarity.* **Nothing here is a number until Isaac writes one.**
+
+---
+
+## VI · Traits
+
+**Royal Recollection** · **He does not summon, he recalls. Through NIŠ ILU he reclaims divine relics tied to his incarnational lineage; the items materialise by rite of metaphysical inheritance.** *Anamnesis plus Coagulatio.*
+**King's Soul** · **Projects a passive dominance field. Those with untempered Soul Crystals or weak lineage suffer degraded spiritual clarity, momentary awe, or resistance drops in his presence.** *Judicium through Dominion. "Untempered" reads cleanly in the current system as low Temperance Stage.*
+**Titanforged Constitution** · **His body operates in resonance with primordial Titans; increased resistance to conceptual damage, divine judgment and Essence deconstruction.** *Resilience. The claim of resonance with the Titanic stratum is kept as the card's and flagged.*
+**Edictal Immunity** · **Immune to external Fate manipulations while holding the Tablet of Destinies. His soul resists prophecy-based attacks and his timeline becomes semi-fixed for the battle's duration.** *A Fate Path gate, conditional on an unattested artifact.*
+
+---
+
+## VII · Artifacts
+
+**NIŠ ILU, the Breath of the Gods** · *Soul Crystal / Relic-plane.* **Contains the Armory of Babel.** *Unattested. Whether a Soul Crystal can be an artifact at all is a canon question; the card treats it as both.*
+**The Tablet of Destinies** · *Held relic.* **While held, Edictal Immunity is active.** *Unattested. The card does not say where it is kept, whether it is one of the Armory's relics, or what happens when it is put down.*
+**The relics of the Armory of Babel** · *Unnamed on the card.* **"Mythic weapons and divine tools," each claimed by resonance, contract and blood-right rather than summoned.** *No individual relic is named anywhere on the card.*
+
+---
+
+## VIII · Signature
+
+### Edict of Babel Collapse
+
+*(Card: Projection + Exaltation + Solution. Current terms: Anamnesis recall, Coagulatio deposition, Dissolution of the opposing claim, through Dominion.)*
+**Effect** · **A battlefield-scale invocation. He opens several pages of NIŠ ILU mid-battle and launches decrees from the Armory. Relics descend like divine meteors, Fate Threads are severed, and the metaphysical authority of opponents is crushed under karmic resonance.** *In the system's words: he reads the record of ownership, deposits the relics as solid form at range, and dissolves whatever claim the enemy holds on the ground, which drops the enemy's Domain and leaves his standing.*
+**Cost** · **Every relic recalled is a contract answered, and the Voice in NIŠ ILU is a party to the contract.** *The card gives the Voice as a relationship rather than a cost; the mechanism reads it as one. A recall is a claim of inheritance, and an inheritance has a testator.* **The physical cost is pending Isaac.** *"Overuse strains him" is not a cost and is not written here.*
+**Limit** · **Dissolution only initiates where the unbound state is preferred.** A claim held by genuine right, a Domain seated on ground the holder actually owns, does not come apart. **And Edictal Immunity is conditional on holding the Tablet; if the Tablet is not in his hand, his own Fate is open while he severs everybody else's.**
+**Counter** · **Present two valid claims.** *Judicium enforces and does not adjudicate; Sanctum Lux's own literature records that contradictory law stalls it. Two enforceable claims to the same ground and the Edict has nothing to dissolve.* **Or contest the inheritance itself: a relic that was never lawfully his stays in the record and out of his hand, and a Measurewright with the lineage register can say so on the field.**
+> **What nobody knows.** Whose voice is in the Crystal, and whether the Armory belongs to Jindoku or Jindoku to the Armory.
+
+---
+
+## IX · Relationships
+
+**Saekiro Malrake** · **Brother; estranged philosophical opposite. Saekiro believes in the cycle of fate. Jindoku believes in mastering it.** *Saekiro's Volume IV sheet: The Phantom, Umbra Caeli, Black Veil cell, Stage IX, Spatium/Vectoria, Harmonics floor. His sheet names an unaware descent from Sodoku Moto, held pending Isaac.* **A brother shares the lineage, and the question.**
+**The Titan Eresh-Urra** · **Underworld Titan whose rites Jindoku partially inherited; hidden anchor for the Gate of Irkalla.** *Unattested. The Fourteen Titans are named and closed; the Abyssal Depths seat Prometheus, Zar'thuun and Vohrin, and the Ferryman is Sylorin. Kept because the card cannot make sense of the Gate without it; pending a ruling on whether it maps to one of the Fourteen or is struck.*
+**Elders of the Guild Accord** · **View him as a dangerous anomaly. His relic use bypasses standard magical theory.** *In current terms: an Anamnesis recall that produces solid relics without a Draft, a rune or a spoken working is a Craft the Accord has no assay column for.*
+**Unknown Voice in NIŠ ILU** · **Whispers edicts from older civilisations. Possibly the first King or a bound Titan-mind.** *Kept as written.*
+
+---
+
+## X · Chapter Appearances
+
+*WOTR: Chronicles of the Exiles* · Chapter 9, *The Armory that Remembers* · Chapter 11, *When the Sky Was Ruptured* · Chapter 16, *The Brothers Malrake* · Chapter 17, *The Edict of the End.*
+> **Codex** · Limina / Entropy, Void and Mind / Anamnesis primary / Stage pending Isaac.

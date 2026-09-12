@@ -479,6 +479,11 @@ def _reversion_map() -> list[tuple[str, str]]:
             if len(cells) >= 2 and cells[0] and cells[0] != "Struck":
                 pairs.append((cells[0], cells[1]))
     pairs += [("Sātūlagi", "(struck; the Inner World / Kharven)"), ("Satulagi", "(struck)"), ("Buri", "Moto")]
+    extra = ROOT / "build" / "renames.yaml"
+    if extra.exists():
+        import yaml
+        for r in yaml.safe_load(extra.read_text(encoding="utf-8")) or []:
+            pairs.append((r["old"], r["new"]))
     # longest first so "Ajiin Devter" is reported before "Ajiin"
     pairs.sort(key=lambda p: -len(p[0]))
     return pairs

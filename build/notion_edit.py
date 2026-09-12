@@ -42,6 +42,11 @@ def reversion_pairs() -> list[tuple[str, str]]:
             if len(cells) >= 2 and cells[0] and cells[0] != "Struck":
                 pairs.append((cells[0], cells[1]))
     pairs.append(("Buri", "Moto"))
+    extra = ROOT / "build" / "renames.yaml"
+    if extra.exists():
+        import yaml
+        for r in yaml.safe_load(extra.read_text(encoding="utf-8")) or []:
+            pairs.append((r["old"], r["new"]))
     pairs.sort(key=lambda p: -len(p[0]))
     return pairs
 

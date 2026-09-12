@@ -1,0 +1,8 @@
+# Extra old -> governing pairs applied by stale_names and the Notion sweep,
+# on top of the Moto Reversion Ledger's tables. One line per decision.
+- old: Vāimoana
+  new: Wadatsumi
+  why: "R21-5 ruled 2026-09-12: a Japonic name; Wadatsumi chosen (Isaac delegated the choice)"
+- old: Vaimoana
+  new: Wadatsumi
+  why: "unaccented spelling of the same"

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T05:38:00.000Z"
+last_edited: "2026-09-12T06:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -150,7 +150,7 @@ Two traditions that have learned to coexist without fully merging. **The Moto tr
 
 ### The Fusi Vā
 
-Ayame Yuno's ritual architecture, **carried north out of Vāimoana by a daughter of the Manono Branch** — the rarest line, trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
+Ayame Yuno's ritual architecture, **carried north out of Wadatsumi by a daughter of the Manono Branch** — the rarest line, trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
 The northern clans had their own oath traditions before the Moto came: simple, unadorned, a man's word given before witnesses with no ritual embellishment. **The Fusi Vā elevated these into binding structures that carried spiritual weight and could not be broken without consequence.**
 > **Her death removed the architecture and left the ceremony**, and the kingdom has been performing the ceremony ever since without any of the load-bearing underneath it.
 >

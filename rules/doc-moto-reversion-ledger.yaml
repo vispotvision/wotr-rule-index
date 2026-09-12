@@ -1,0 +1,462 @@
+# THE MOTO REVERSION. Standalone doc, no pack number; R22 in the
+# four-document Büri/Moto naming cluster (R20 oldest, R23 newest). No
+# pending/originated language for the document as a whole -- presented as
+# "Authoritative reverse mapping" -- and the later Inner World Naming
+# Amendment (R23) cites it approvingly as the settled record. Treated as
+# status:live throughout except explicitly flagged open items. Reference
+# mapping tables (character names, line names, system terms, works,
+# coinages) are each bundled into one row rather than one row per mapped
+# pair, consistent with how other packs' lexicon tables are handled.
+pack: Moto Reversion Ledger
+pack_number: null
+source_file: WOTR_Moto_Reversion_Ledger.md
+ratified: null
+rules:
+
+  - id: R22-1-HOUSE_STRUCK
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "I"
+    title: Büri struck; Moto governs, house and bloodline
+    status: live
+    kind: repeal
+    summary: >-
+      "Büri" and "the Büri bloodline" are struck; "Moto" and "the Moto
+      bloodline" govern.
+    verbatim: >-
+      Büri | Moto | | the Büri bloodline | the Moto bloodline
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "13-14"
+    notes: >-
+      This is the authoritative reversal of the Büri Cultural Amendment,
+      later reconfirmed as staying dead by the Inner World Naming
+      Amendment (R23) §I: "The Mongolian register. The Büri Cultural
+      Amendment in full, per WOTR_Moto_Reversion_Ledger.md."
+
+  - id: R22-2-NAMED_CHARACTERS_TABLE
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "II"
+    title: Named-character reversion table
+    status: live
+    kind: repeal
+    summary: >-
+      Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name
+      was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated
+      name dissolved, not translated), Enkhtuya→Emira (originated name
+      dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→
+      Artemis Amagiri Moto (Amagiri was already Japonic and survives
+      intact) — all with the Moto surname/bloodline where applicable.
+    verbatim: >-
+      Möngke Büri | Bara Moto | | | Sarnai Büri | Mizuki Moto | | | Temür
+      Büri | Sodoku Moto |
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "22-30"
+    notes: >-
+      Anything the original conversion pass marked ORIGINATED (Sonzai,
+      Emira) is dissolved rather than translated, since it never had a
+      Japonic original (source lines 5, 27-28).
+
+  - id: R22-2-UNAFFECTED_CHARACTERS
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "II"
+    title: Characters and houses this reversion never touched
+    status: live
+    kind: definition
+    summary: >-
+      Hild Ice and Robin Ice keep the Stark maternal register; Filemu
+      Agamalu and the whole Agamalu house keep Polynesian register, which
+      the amendment never governed; Tomuka, Ezo, Kuroyuki and Mizuyi were
+      never converted and stay as they are.
+    verbatim: >-
+      Unaffected. Hild Ice and Robin Ice keep Stark maternal register.
+      Filemu Agamalu and the whole Agamalu house keep Polynesian register,
+      which the amendment never governed. Tomuka, Ezo, Kuroyuki and Mizuyi
+      were never converted and stay as they are.
+    amends: null
+    supersedes: []
+    applies_to: [naming, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "32"
+    notes: >-
+      This is the key line behind the CONFLICTS.md note on
+      R20-2-AGAMALU_ADDITION_STRUCK and R21-2-FILEMU_FULL_NAMING: it says
+      the Agamalu house's own Polynesian register is untouched by "the
+      amendment" (the Büri reversion), but doesn't address whether the
+      Inner World Naming Amendment's later, broader strike of "the Agamalu
+      addition" (a different, newer amendment) also reaches Filemu's own
+      naming.
+
+  - id: R22-3-SEVEN_LINES_TABLE
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "III"
+    title: The Seven Lines reversion table
+    status: live
+    kind: repeal
+    summary: >-
+      Altan→Kōkan (Crown, sovereignty/judgment), Tsagaan→Byakuya
+      (revelation/exposure), Ulaan→Kurenai (punishment/severance),
+      Khökh→Tenrai (convergence/turning points), Möngön→Shirogane
+      (silver), Zes→Akagane (copper), Manan→Amagiri (heaven-mist).
+    verbatim: >-
+      Altan | Kōkan | Crown. Sovereignty, judgment. | | Tsagaan | Byakuya
+      | Revelation, exposure. |
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "40-46"
+    notes: null
+
+  - id: R22-3-MONGON_DISPUTE_DEAD
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "III"
+    title: The Möngön/Mönggön spelling dispute is dead
+    status: live
+    kind: repeal
+    summary: >-
+      The Möngön against Mönggön spelling dispute is struck from the
+      docket, since it was an argument about a name that no longer
+      exists.
+    verbatim: >-
+      The Möngön against Mönggön dispute is dead. It was a spelling
+      argument about a name that no longer exists. Struck from the
+      docket.
+    amends: null
+    supersedes: []
+    applies_to: [naming, verification]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "48"
+    notes: null
+
+  - id: R22-3-LINES_FIVE_SEVEN_PENDING
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "III"
+    title: Lines Five to Seven still need governing functions
+    status: pending
+    kind: definition
+    summary: >-
+      Shirogane, Akagane and Amagiri were never assigned governing
+      functions in the source material; that ruling survives the
+      reversion unchanged and is still open.
+    verbatim: >-
+      Lines Five to Seven still need functions. The names come back
+      automatically because they are the received ones, but Shirogane,
+      Akagane and Amagiri were never assigned governing functions in the
+      source material. That ruling survives the reversion unchanged and
+      is still open.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "50"
+    notes: null
+
+  - id: R22-4-SYSTEM_TERMS_TABLE
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "IV"
+    title: System terms reversion table
+    status: live
+    kind: repeal
+    summary: >-
+      Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing),
+      Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing
+      Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky
+      Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth),
+      Takhil→Gisei (Offering).
+    verbatim: >-
+      Ajiin | Hataraki | The Working | | Nüdel | Shingan | The Seeing |
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, magic-mechanism, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "58-66"
+    notes: null
+
+  - id: R22-4-KUROSETSU_SCABBARD_SURVIVES
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "IV"
+    title: Kurosetsu keeps its belt scabbard, an equipment ruling
+    status: live
+    kind: definition
+    summary: >-
+      Kurosetsu keeps the belt scabbard; that was an equipment ruling, not
+      a naming one, and it survives the reversion.
+    verbatim: >-
+      Kurosetsu keeps the belt scabbard. That was an equipment ruling, not
+      a naming one, and it survives.
+    amends: null
+    supersedes: []
+    applies_to: [items, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "68"
+    notes: null
+
+  - id: R22-5-SEVEN_WORKS_TABLE
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "V"
+    title: The Seven Works reversion table
+    status: live
+    kind: repeal
+    summary: >-
+      Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go
+      (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no
+      Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh
+      Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no
+      Hataraki (Totality).
+    verbatim: >-
+      Söröl Ajiin | Hametsu no Go | Ruin | | Ariun Ajiin | Junketsu no Go
+      | Purity |
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "76-82"
+    notes: null
+
+  - id: R22-6-DOCTRINE_COINAGES_TABLE
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "VI"
+    title: Doctrine coinages reversion table
+    status: live
+    kind: repeal
+    summary: >-
+      Ar Nutag→Okuchi, Bükhel Mörgöl→Sōhai, Ajiin Devter→Hataraki no Sho.
+    verbatim: >-
+      Ar Nutag | Okuchi | | Bükhel Mörgöl | Sōhai | | Ajiin Devter |
+      Hataraki no Sho
+    amends:
+      - guide: "WOTR_Buri_Conversion_Ledger.md"
+        locus: null
+        operation: strikes
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "90-92"
+    notes: null
+
+  - id: R22-6-HATARAKI_NO_SHO_PENDING
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "VI"
+    title: Hataraki no Sho is a new coinage, pending ruling
+    status: pending
+    kind: definition
+    summary: >-
+      The Devter title was built during the amendment and has no Japonic
+      original to restore; "Sho" (the written treatise) is coined rather
+      than leaving a Mongolian word on a live page, pending ruling.
+    verbatim: >-
+      Hataraki no Sho is originated. The Devter title was built during the
+      amendment and has no Japonic original to restore, so I have coined
+      one rather than leave a Mongolian word on a live page. Sho, the
+      written treatise. Pending your ruling.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "94"
+    notes: null
+
+  - id: R22-6-SOHAI_LOSES_WORDPLAY
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "VI"
+    title: Sōhai loses the shared root that made Singling a pun
+    status: live
+    kind: definition
+    summary: >-
+      Bükhel Mörgöl shared its root with the crown Work and the house
+      name, so religion/Work-of-Totality/family were one word and the
+      charge of Singling was levelled in a term that said so; Sōhai does
+      not do that — the one genuine cost of the reversion.
+    verbatim: >-
+      Bükhel Mörgöl shared its root with the crown Work and with the house
+      name, so the religion, the Work of Totality and the family were one
+      word, and the charge of Singling was levelled in a term that said
+      so. Sōhai does not do that.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "96"
+    notes: null
+
+  - id: R22-7-KHARVEN_INVENTORY_KEPT
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "VII"
+    title: The Kharven Standing Inventory is kept, not reverted
+    status: live
+    kind: definition
+    summary: >-
+      The Kharven Standing Inventory (airag, borts, aaruul, the deel, the
+      night-stone, blubber lamp, woodpile count, death-house/Waiting, sky
+      burial, eight proverbs) is Mongolian-Inuit material culture, not
+      naming register, and is load-bearing in every scene written this
+      session; recommendation is to keep it.
+    verbatim: >-
+      The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the
+      night-stone, the blubber lamp, the woodpile count, the death-house
+      and the Waiting, sky burial, and all eight proverbs. This is
+      Mongolian-Inuit material culture, derived from permafrost and
+      scarcity, and it is load-bearing in every scene written this
+      session. Reverting it would strand the execution scene, the
+      council, the wall scene and the manor scene all at once, and it
+      would cost more than it bought. Recommendation: keep.
+    amends: null
+    supersedes: []
+    applies_to: [standing-inventory, worldbuilding]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "104"
+    notes: >-
+      A recommendation currently in force, per this document's own
+      framing ("Say the word and either goes," source line 102), not a
+      closed ruling.
+
+  - id: R22-7-FUSI_VA_KEPT
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "VII"
+    title: Fusi Vā is kept, not reverted to Saishiki
+    status: live
+    kind: definition
+    summary: >-
+      Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word
+      on a rite that is Agamalu in origin and Vāimoana in provenance,
+      wrong for both registers on its own terms); the Büri amendment isn't
+      what made that change correct, so it stays kept.
+    verbatim: >-
+      Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a
+      Japonic word sitting on a rite that is Agamalu in origin and
+      Vāimoana in provenance, and was wrong for both registers on its own
+      terms. The Büri amendment is not what made that change correct.
+      Recommendation: keep.
+    amends: null
+    supersedes: []
+    applies_to: [naming, worldbuilding, magic-mechanism]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "106"
+    notes: >-
+      A recommendation currently in force, same basis as
+      R22-7-KHARVEN_INVENTORY_KEPT.
+
+  - id: R22-9-NOTION_BODIES_OUTSTANDING
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "IX"
+    title: Page bodies still read Büri; titles alone are not enough
+    status: pending
+    kind: procedure
+    summary: >-
+      Titles are reverted but at least fourteen page bodies still read
+      Büri throughout (character cards, bloodline pages, works pages);
+      this needs a page-by-page pass with fetch and targeted replaces, not
+      a blind find-and-replace, since technique names on those cards were
+      never converted.
+    verbatim: >-
+      Every page body still reads Büri. Titles are done; the text
+      underneath is not.
+    amends: null
+    supersedes: []
+    applies_to: [documents, verification, naming]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "132-148"
+    notes: null
+
+  - id: R22-10-MUKEN_CHILDREN_CONTESTED
+    pack: Moto Reversion Ledger
+    pack_number: null
+    section: "X"
+    title: Muken's children remain contested, unsettled by the reversion
+    status: pending
+    kind: definition
+    summary: >-
+      Muken's children are still contested, and the reversion does not
+      settle it.
+    verbatim: >-
+      Muken's children. Still contested, and the reversion does not
+      settle it.
+    amends: null
+    supersedes: []
+    applies_to: [worldbuilding, character-sheet]
+    verification: []
+    ratified: null
+    source:
+      file: WOTR_Moto_Reversion_Ledger.md
+      lines: "161"
+    notes: null

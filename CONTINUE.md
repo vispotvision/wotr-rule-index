@@ -4,11 +4,23 @@ Read this first in any new session (scheduled or not). Isaac's standing
 direction: inside work he has asked for, make the calls; no "pending" slots.
 `ROADMAP.md` is the plan; this file is the live state of the in-flight jobs.
 
-## In flight on 2026-09-12 (session limit hit ~02:30, resets 05:00 America/New_York)
+## In flight on 2026-09-12, resumed after the session-limit reset
 
-- Inventories: all six landed and reviewed, committed. The reader's codex agent FAILED on the limit: `docs/READERS_CODEX.md` does not exist yet; re-run the codex part (resume workflow `wf_f0f00731-2d0` with its scriptPath; the six inventory agents replay from cache).
-- Trello conversion: 41 of 200 converted files existed when the limit hit; the workflow will have died; resume it as described below.
-- NATALIE.md's Kharven-only inventory line still needs pointing at desktop/inventories/ (the MCP already reads that folder).
+- Inventories: all six landed, reviewed, committed. Workflow `wf_f0f00731-2d0` resumed
+  (task id `wmp0n8oyi`) to write `docs/READERS_CODEX.md`; it is also re-touching the
+  inventories on its review pass (saw a live edit to `desktop/inventories/eresse.md`
+  mid-run) -- do not commit the inventories again until this run finishes, then
+  review and commit whatever it changed plus the codex.
+- Trello conversion: 43 of 200 converted files existed when this resumed; workflow
+  `wf_5988bc5a-45d` resumed (task id `wv22tz6jn`) to finish the remaining ~157 and
+  their reviews.
+- NATALIE.md's inventory line: done. Both the session-start-protocol line and the
+  Kharven section's closing line now point at `desktop/inventories/`.
+- `build/publish_imports.py`: written and committed. `--dry-run` shows 3 of the 43
+  converted-so-far cards are clean and publishable now; 40 are held (unresolved
+  "pending Isaac" drafts, or Tovain Zethriel's restriction stub) -- see
+  `reports/publish_imports_held.md`. Do not run it for real yet; wait for the
+  conversion workflow to finish, then do the resolve pass below, THEN run it.
 
 ### 1. The Trello conversion (workflow `wf_5988bc5a-45d`)
 - 200 cards staged under `imports/trello/<group>/`; agents write
@@ -24,15 +36,13 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
   consistent with the card), and rewrites the migration note to state the
   choices. Then run `python build/verify.py` over the prose sections is
   optional; the reviewers already did prose law.
-- **Then publish** with `python build/publish_imports.py` (write it if it does not
-  exist yet: for each converted file, create the Notion page under its target —
-  characters under "Volume V — Character Cards" / "Volume VI — Character Cards"
-  (create Volume VI under Characters `3b158200-eb22-8188-b4d8-d9b195f254dd` if
-  missing) / "Volume IV — Character Cards"; everything else under a new
-  top-level wiki row **The Iridescent Archive** with sub-pages Techniques,
-  Spellcraft, Artifacts, Bestiary Additions — using
-  `notion_publish.create_page` and `md_to_blocks`, then `notion_edit.refresh_mirror`
-  for each new page so `wiki/` has them, then `git add -A && git commit && git push`).
+- **Then publish** with `python build/publish_imports.py` (written; it skips
+  anything that still matches "pending Isaac" / TBD / estimate / a restriction
+  stub, so the resolve pass above must actually land first or nothing new
+  publishes). It creates Volume VI and The Iridescent Archive's four sections
+  itself on first use, then runs `notion_export.py` at the end so `wiki/` picks
+  up the new pages. Then `git add -A && git commit && git push`. Check
+  `reports/publish_imports_held.md` afterward for anything still held.
 - Then `python build/docs_export.py --out "G:/My Drive/War of the Realms — Documents" --private-out "G:/My Drive/War of the Realms — Private"`
   so the Drive documents carry the new sections.
 

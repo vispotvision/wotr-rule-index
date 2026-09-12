@@ -10,7 +10,7 @@ supersession graph is only correct once the whole corpus is in.
 | 2 | Packs 10 down to 5 | done | 144 | all 6 files validated; Pack Seven's repeal fully backfilled |
 | 3 | Packs 4 down to 1 | done | 109 | all 4 files validated; Pack One filed as pack-01-one.yaml |
 | 4 | standalone amendments | done | 98 | all 5 files validated; the .docx is plain text, no pandoc needed; 1 new CONFLICTS.md row (C-002) |
-| 5 | resolve and conflict report | not started | — | |
+| 5 | resolve and conflict report | done | 577 total | resolve.py clean, no orphaned supersedes targets; see report below |
 
 ## Phase 0 findings (2026-09-10)
 
@@ -219,3 +219,67 @@ Still open, carried into Phase 4:
   definitions later rules depend on, and open items were kept. This is a
   judgment call specific to Phase 4's very different document shape; flag
   to Isaac if more of the lore content should have been indexed.
+
+## Phase 5: resolve and conflict report (2026-09-11)
+
+`build/resolve.py` ran clean against all 577 rules: no orphaned
+`supersedes` targets (every id any rule points to actually exists), and
+`out/rules.resolved.json` / `out/rules.live.md` / `out/docket.md`
+generated successfully (gitignored per this repo's `.gitignore`, so not
+committed — regenerate with `python build/resolve.py`).
+
+**Totals: 577 rules. 274 live. 46 superseded. 60 pending (open rulings).
+197 proposed (drafted, pack not yet ratified).**
+
+**Tooling note, not a data issue:** `build/query.py` crashes on this
+Windows environment's default console encoding (cp1252) whenever a
+queried rule contains extended Unicode (Sātūlagi, Vāimoana, Büri, ā/ū/ö
+etc.) — `UnicodeEncodeError` on `print()`. `validate.py` and `resolve.py`
+are unaffected (they write UTF-8 files rather than printing rule text to
+the console). Not patched here since fixing `build/` tooling wasn't part
+of the extraction brief; flagged for whoever wires up the n8n pipeline,
+since it'll bite the first time someone queries a rule from a
+non-Latin-1-heavy pack on a Windows console.
+
+### The ten conflicts/open items most likely to change how a scene gets written
+
+1. **C-001 (CONFLICTS.md).** Does a proofed round's kill-mechanism get
+   explained on the page? Pack Eleven's firearms ban (live) cites a Pack
+   Seven authority Pack Twelve (live) already struck. Blocks: any scene
+   with a diagnostic-voice explanation of ballistics.
+2. **C-002 (CONFLICTS.md).** Does Filemu Agamalu's card keep its Ava-name
+   slot? Three documents touch it, none settle it. Blocks: any scene
+   naming or formally addressing the Agamalu Queen.
+3. **Whether Pack Twelve counts as ratified.** No pending/originated
+   language anywhere in that pack, unlike every sibling pack — read as
+   fully live on that basis alone. It underlies the Design Chain
+   restoration, the four explaining voices, and the mechanism-diagnostic
+   rules almost every combat/magic scene now depends on. If this reading
+   is wrong, a large fraction of "live" rules revert to proposed.
+4. **Whether Pack Six counts as ratified.** Same situation, smaller
+   blast radius: the Ladder ban, the ignorance quota, and the Standing
+   Inventory's governing rule — all load-bearing in nearly every scene.
+5. **The Inner World Naming Amendment is entirely unratified.** There is
+   currently no confirmed naming baseline for Mahuo, Yukari, Chinese,
+   Far-Northern or Northern characters — only a proposed one. Blocks: any
+   scene naming an Inner World character outside the already-settled Moto
+   bloodline.
+6. **R14-A.** Stage names conflict card-to-card: Ignition/Temper (cards)
+   vs Murmuring/Flourishing (Fracture of Worlds and the Codex). Blocks:
+   any scene naming a Stage on the page until one ruling and a sweep
+   happen.
+7. **Chantcraft's accept/reject status.** Flagged pending since Pack Nine
+   and still an open dependency in Pack Ten's craft-durability table.
+   Blocks: any singing-delivered working.
+8. **R7-7-VOW_CLAUSE_OPEN.** Pack Seven's vow clause is pitched, unruled,
+   and — per Pack Seven's own text — became *more* load-bearing once
+   narrowing became an escalation route. No later pack ever picks it back
+   up. Blocks: any technique using a vow-based escalation route.
+9. **R13-C.** Does steel or the working stop shot against a worked
+   cuirass? Pack Thirteen's own recommendation warns that answering it
+   wrong "inverts" Pack Eleven's entire armour economy. Blocks: any scene
+   where proofed plate meets an enchanted round.
+10. **R12-8-SCENE_STANDARDS_BANS_STRUCK's target is unidentified.** Pack
+    Twelve says "Scene Standards'" mechanism/number bans are struck, but
+    no extracted "Scene Standards" definition (Pack One's) contains any
+    such bans. Nobody can currently confirm exactly what changed.

@@ -10,7 +10,7 @@
 
 1. **The Sounding Walk** · Darius's death reaches the Alabaster Court. Verinus, Arbiter-Lector Halric Peld, Deacon Ilse Barrow.
 2. **What A Fender Is For** · The fitting hall. Verinus, Lord Knight Commander Maud Thole, Sub-Serjeant Elber Fend.
-3. **The Count At Vaeloris** · The valley, the flame, the count. Verinus, Fend, Thole, Nuru Zettai.
+3. **The Count At Vaeloris** · The valley, the flame, the count. Verinus, Fend, Thole, Nuru Zettari.
 4. **One Reading, Taken Twice** · The return and the quarantine negotiation. Verinus, Thole, Barrow.
 5. **Three Poppy Heads** · The letter and the physic garden. Verinus, Captain Zamari Kesh, Thole.
 6. **The Sermon He Was Not Allowed To Give** · The procession to the quarantine gate. Verinus, Pol, Thole, Sefa Bream.
@@ -573,7 +573,7 @@ The stillness in front of her acquired a texture. Somewhere behind the six, furt
 
 The sentry considered her for a long moment.
 
-"Nuru Zettai," he said. "Camp warden. You will come with me, you will keep your hands where they are, and you will not speak to anyone we pass."
+"Nuru Zettari," he said. "Camp warden. You will come with me, you will keep your hands where they are, and you will not speak to anyone we pass."
 
 "Understood."
 
@@ -581,7 +581,7 @@ The sentry considered her for a long moment.
 
 They took her down through the lines. The camp had the smell she had been expecting since the ridge and had not smelled once at any point in three days of riding through this country, which was woodsmoke and horse and boiled grain and men who had been in the field a while, and it went into her chest and did something to her that she was not going to examine standing up. Faces came up as she passed and went down again. Nobody spoke to her. Twice she saw the specific arrangement of a field surgeon's tent and the specific arrangement of what got carried out of one.
 
-At the centre of the camp the ground had been trodden into a hard flat court and there was a tent on it that was not larger than the others and was pitched with more care than all of them together, and Nuru Zettai stopped ten paces short of it and turned and looked at her.
+At the centre of the camp the ground had been trodden into a hard flat court and there was a tent on it that was not larger than the others and was pitched with more care than all of them together, and Nuru Zettari stopped ten paces short of it and turned and looked at her.
 
 "Wait," he said.
 

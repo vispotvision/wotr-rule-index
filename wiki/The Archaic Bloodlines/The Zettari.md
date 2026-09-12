@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810b-85fc-ca85cff49bae"
 notion_url: "https://app.notion.com/p/The-Zettari-3b158200eb22810b85fcca85cff49bae"
 section: "The Archaic Bloodlines"
 tags: []
-last_edited: "2026-08-16T01:39:00.000Z"
+last_edited: "2026-09-12T20:23:00.000Z"
 verification: "unverified"
 ---
 
@@ -105,6 +105,7 @@ Heightened sensitivity to density, weight, structural integrity, and material co
 **Stone Witness Oath** · Important vows are spoken before stone, ruins, ancestral halls, or Path-linked relics. **A vow is not considered complete unless something older than the speaker hears it.**
 **Ancestor Communion** · The living sit in silence and listen for ancestral pressure through cords, tattoos, relics, and the Soul Crystal.
 **Signature imagery** · Gold and silver jewelry, dark robes, white eyes, black hair, royal cords, ancestral sand, patterned tattoos, stone halls, heavy drums, **and pressure beneath the feet.**
+**Register** · The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
 ---
 

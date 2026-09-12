@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:30:00.000Z"
+last_edited: "2026-09-12T20:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -104,7 +104,7 @@ verification: "unverified"
 **Shichi Karasu** · Covenant-Collective — **Heavy.** *The Oath of Severance binds each member to his Thread-reading field — a distributed sensory network feeding tactical architecture.*
 **Mira Yukari** · Familial-Witness — *five years of shared building. Saw him read Senri's tablet and understood before he finished.*
 **Naiser Yukari** *(deceased)* · Filial-Formative — **Grief metabolised, not dissolved.** *Naiser's instruction lives in the Crystal as a second voice on hard decisions.*
-**Rengai Zettai** · Mentor-Foundational — ***The pouch has not been burned. He is not ready for the conversation that burning it would start.***
+**Rengai Zettari** · Mentor-Foundational — ***The pouch has not been burned. He is not ready for the conversation that burning it would start.***
 **Toriki Yukari** · Teacher-Lineage — *Thread-Lock is Toriki's architecture inside Niran's Crystal.*
 **Resistances** · **Sound and vibration: highly resistant** — Cymorath *processes rather than suffers* acoustic assault. Pattern recognition: **exceptional.** Fear as weapon: resistant, **not immune.**
 > **Vulnerabilities.** **Active sound suppression collapses Cymorath input.** *Partial Ketsumyōgan compensation exists but the collapse remains a genuine tactical weakness.*

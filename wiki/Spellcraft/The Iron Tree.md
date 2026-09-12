@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e6-ae29-d981794b4d2d"
 notion_url: "https://app.notion.com/p/The-Iron-Tree-3d958200eb2281e6ae29d981794b4d2d"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T16:29:00.000Z"
+last_edited: "2026-09-12T20:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -65,4 +65,4 @@ Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilie
 
 ### Origin
 
-Dougou Ozumu Zettai built the Iron Tree himself, alone, out of the same event that made the seal necessary in the first place: a corrupted Zettai branch touched by demonic strain and Atlazon's pressure-law, which his own sheet records as origin and catalyst being one and the same event. He did not discover the containment. He was made from the conditions that required it, and the Iron Tree is the discipline by which that containment became something the world could be shown rather than only a prison he carried.
+Dougou Ozumu Zettari built the Iron Tree himself, alone, out of the same event that made the seal necessary in the first place: a corrupted Zettari branch touched by demonic strain and Atlazon's pressure-law, which his own sheet records as origin and catalyst being one and the same event. He did not discover the containment. He was made from the conditions that required it, and the Iron Tree is the discipline by which that containment became something the world could be shown rather than only a prison he carried.

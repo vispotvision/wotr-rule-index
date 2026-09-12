@@ -1,14 +1,14 @@
 ---
-title: "Rashani Zettai"
+title: "Rashani Zettari"
 notion_id: "3b258200-eb22-81d5-b87d-c8abc80dbc36"
-notion_url: "https://app.notion.com/p/Rashani-Zettai-3b258200eb2281d5b87dc8abc80dbc36"
+notion_url: "https://app.notion.com/p/Rashani-Zettari-3b258200eb2281d5b87dc8abc80dbc36"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-16T01:39:00.000Z"
+last_edited: "2026-09-12T20:22:00.000Z"
 verification: "unverified"
 ---
 
-# Rashani Zettai
+# Rashani Zettari
 
 *He Who Finds the First Cause · The First Measure · Origin-Eyed Heir · Card 14*
 > 
@@ -20,8 +20,8 @@ verification: "unverified"
 
 ## I–II · Identity and Soul Architecture
 
-**Lineage** Human · Zettai Bloodline · **Origin-Aspect Strain** · **Age** 18 · **Sex** Male
-**Standing** Active **under Zettai observation and incomplete sovereign training**
+**Lineage** Human · Zettari Bloodline · **Origin-Aspect Strain** · **Age** 18 · **Sex** Male
+**Standing** Active **under Zettari observation and incomplete sovereign training**
 | **Level / Stage** | **182 / 500** · Band II — Awakened, *mid-stage, perception outrunning body* **·** Stage VI — Glory **· Band** B |
 |---|---|
 | **Path** | Spirit / Mind 45% · Attraction 30% · Body 25% |
@@ -29,7 +29,7 @@ verification: "unverified"
 | **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 24,000 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |
 | **Crystal State** | Harmonic — **perception ahead of body. The Soul Crystal is still catching up to the Eye** |
 
-> **Zettai Bloodline Ruling.** Two Sub-Stats marked **[ZBI]** draw from Tempering Inheritance, **not cultivated allocation.**
+> **Zettari Bloodline Ruling.** Two Sub-Stats marked **[ZBI]** draw from Tempering Inheritance, **not cultivated allocation.**
 >
 > *The Eye runs hot but the Crystal doesn't fight it. It didn't give him B-Grade. It gave him B-Grade that sees the beginning of your mistake before you've committed to making it.*
 **Wellsprings** · **Form** primary — shape, cohesion, material stress, posture. **Essence** — energy pressure, Aether buildup. **Fixatio** — *holds small corrections in place for fractions of a second.* Space **·** Judicium **— sorts which origin point matters first.** Resonance partial.
@@ -98,9 +98,9 @@ verification: "unverified"
 
 ## XI–XII · Axes and Resistances
 
-**Zettai Bloodline** · Familial-Inheritance — **Moderate.** *Carries the name; building something it doesn't fully describe yet.*
+**Zettari Bloodline** · Familial-Inheritance — **Moderate.** *Carries the name; building something it doesn't fully describe yet.*
 **Unassigned** · Peer-Witness, latent — *the Crystal looking for someone who fights at the beginning of things, not the end.*
-**Rengai Zettai** · Sibling-Parallel — **Building.** ***One reads origins, one reads residue.***
+**Rengai Zettari** · Sibling-Parallel — **Building.** ***One reads origins, one reads residue.***
 **Resistances** · Early-stage correction: **strong.** Overwhelmed perception: **critical failure mode.**
 **Vulnerabilities** · **Multi-vector overload.** Raw mass through small corrections. Chaotic movement. Smoke, darkness, illusions. **And completed techniques — he is strongest against formation, not finished output.**
 
@@ -130,7 +130,7 @@ verification: "unverified"
 **The First Measure** — stopped a spear thrust by shifting its starting angle before full acceleration. ***Missed by less than two inches.***
 **The Mirror Fracture** — tried correcting three attacks simultaneously **and collapsed from Origin Overload.**
 **The Broken Gate Reading** — identified the exact hinge that would fail under siege pressure. **Proved the Eye reads structures, not just fighters.**
-**I–VI complete.** *Stage VI Glory — first full correction chain in live combat; Zettai observation began.* VII Refraction pending **— *Origin Court must activate;** the body must close the gap to the Eye.*
+**I–VI complete.** *Stage VI Glory — first full correction chain in live combat; Zettari observation began.* VII Refraction pending **— *Origin Court must activate;** the body must close the gap to the Eye.*
 > **Fracture · The First Measure** — Gnosis-Perception. Healed-reinforced. *Feature: Perception densified. He reads faster. The body still lags.*
 >
 > **Fracture · The Mirror Fracture** — Gnosis-Analysis. Processed, partial scar. *Feature: Analysis narrowed then sharpened. He reads the one thing that matters first.*

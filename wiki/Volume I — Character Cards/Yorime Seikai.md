@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81b4-9964-f24b36c73717"
 notion_url: "https://app.notion.com/p/Yorime-Seikai-3b258200eb2281b49964f24b36c73717"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:30:00.000Z"
+last_edited: "2026-09-12T20:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 
 **Race / Lineage** **Pureblood Seikai / Ashuric Bloodline** · **Faction** Seikai Boundary Remnant, Current Era
 **Temperance Stage** **XII — Emanation**
-> Dougou Ozumu Zettai's significant other, born from **the Ashuric line of Boundary custodians.** Her blood was shaped for **Claim, severance, Null-Light, and the policing of stolen Essence between the Living and Dead realms.**
+> Dougou Ozumu Zettari's significant other, born from **the Ashuric line of Boundary custodians.** Her blood was shaped for **Claim, severance, Null-Light, and the policing of stolen Essence between the Living and Dead realms.**
 > 
 > She should have become **an executor without tenderness** — a woman who took what was unlawful and returned silence to the wound.
 > ***Instead, she became the one person who stayed.***

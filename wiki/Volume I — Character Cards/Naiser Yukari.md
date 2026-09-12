@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81e2-87c7-df121c416fdb"
 notion_url: "https://app.notion.com/p/Naiser-Yukari-3b158200eb2281e287c7df121c416fdb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-03T23:41:00.000Z"
+last_edited: "2026-09-12T20:20:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,8 +19,8 @@ verification: "unverified"
 
 ## Identity and Core Profile
 
-**Race / Lineage** · Half-Elf · **Seikai–Zettai Mixed Blood**
-He stands at the fault-line between two formidable lineages. From the Seikai line he inherited discipline, austerity, **and a martial clarity sharpened by order and control.** From the Zettai blood he inherited terrifying bodily supremacy, ancestral pressure, and the latent potential for overwhelming transcendence.
+**Race / Lineage** · Half-Elf · **Seikai–Zettari Mixed Blood**
+He stands at the fault-line between two formidable lineages. From the Seikai line he inherited discipline, austerity, **and a martial clarity sharpened by order and control.** From the Zettari blood he inherited terrifying bodily supremacy, ancestral pressure, and the latent potential for overwhelming transcendence.
 > **His existence was not treated as a bridge by those around him. It was treated as a disruption.** He became a bridge anyway, then built a house upon it and named it after himself.
 **Faction / Era** · Founder of the Yukari Line · First Eon
 **Temperance Stage** · **Stage 6 — Realization**
@@ -35,12 +35,12 @@ He was not content to be an offspring of clashing houses, nor a political symbol
 ## Canonical System Metrics
 
 **Aether Class** · **Axiomatic Dual-Blood Convergence**
-Seikai refinement grants his output precision, stillness and clean directional intent. Zettai inheritance gives it density, internal violence and an oppressive bodily truth. Together, in his current state, **these do not clash. They spiral into one another** — producing an Aether signature that feels like **black silk drawn over a blade edge.** Dark, polished, pressure-heavy, **with brief silver-violet flares when his deeper lineage harmonics awaken.**
+Seikai refinement grants his output precision, stillness and clean directional intent. Zettari inheritance gives it density, internal violence and an oppressive bodily truth. Together, in his current state, **these do not clash. They spiral into one another** — producing an Aether signature that feels like **black silk drawn over a blade edge.** Dark, polished, pressure-heavy, **with brief silver-violet flares when his deeper lineage harmonics awaken.**
 > **Risk · Lineage Overwrite.** The closer he moves toward higher Ascension states, **the greater the risk that one bloodline attempts to dominate the other.**
 >
 > His entire existence is a triumph of equilibrium, **and equilibrium is not permanence.**
 >
-> If his Seikai precision slips, **the Zettai side may become tyrannical force.** If the Zettai body yields too much ground, **the Seikai current may become bloodless abstraction.**
+> If his Seikai precision slips, **the Zettari side may become tyrannical force.** If the Zettari body yields too much ground, **the Seikai current may become bloodless abstraction.**
 **Wellspring Affinity** · **Triune Core: Anamnesis · Fixatio · Ascensio.** Zero consciously networked.
 **Temperance Path** · Shaped by identity as trial. **He did not merely cultivate power. He cultivated the right to remain whole while carrying incompatible inheritance.** Every stage he crossed was a refusal to become a servant of singularity. *He weaponised contradiction until it became doctrine.*
 
@@ -55,19 +55,19 @@ Seikai refinement grants his output precision, stillness and clean directional i
 | Pillar | Value | Reading |
 |---|---|---|
 | **Essence Capacity** | 2,460 EU | Vast enough to sustain prolonged metaphysical engagement, **but governed with rigid discipline** |
-| **Flux Density** | 480 EU/g | Not monstrous like a pure Zettai titan-body, **but far too heavy for someone with his elegance** |
+| **Flux Density** | 480 EU/g | Not monstrous like a pure Zettari titan-body, **but far too heavy for someone with his elegance** |
 | **Aether Output** | 340 AU/s | High enough to overwhelm lesser opponents in layered sequences, **yet controlled enough to avoid waste** |
 | **Aetheric Efficiency** | 0.89 | **Almost all of what he commits lands exactly where intended** |
 | **Attraction Scale** | B-Tier Proto-Domain | **He exerts symbolic gravity.** Conversations bend toward him. Hostility clarifies in his presence. **Uncertainty becomes harder to maintain** |
 
 **Strike Force** · High, **expressed through precision rather than brute spectacle.**
-**Durability** · Exceptional for a half-elf, on Zettai bodily inheritance and advanced reinforcement discipline.
+**Durability** · Exceptional for a half-elf, on Zettari bodily inheritance and advanced reinforcement discipline.
 **Speed** · Fast in the first exchange, **faster in readjustment, strongest in tempo control.**
 **Range** · Mid to close, **with Spirit-path projection extending his threat envelope beyond his physical reach.**
 
 ### Appearance and presence
 
-Tall, long-limbed, composed with **the refined stillness of someone who learned early that posture is a language.** His half-elven blood lengthens the line of him, lending grace to a frame **that the Zettai blood then reinforces with hidden density.**
+Tall, long-limbed, composed with **the refined stillness of someone who learned early that posture is a language.** His half-elven blood lengthens the line of him, lending grace to a frame **that the Zettari blood then reinforces with hidden density.**
 His skin holds a dusky richness **that makes the silvered pallor of moonlight cling to it rather than wash it out.** Hair falls long and black, heavy as stormwater, framing a face **that would be called beautiful if it were not so severe** — aristocratic sharpness with an undercurrent of exhaustion, *as though beauty was merely the final shape left behind after too much pressure.*
 > **His gaze is the part people remember least accurately. They recall the feeling of being seen more than the eyes themselves.**
 > **His presence does not crash into a room. It settles over it.** There is a hush in the air around him — not silence exactly, **but the sense that lesser noise has already decided to diminish itself.**
@@ -80,7 +80,7 @@ His skin holds a dusky richness **that makes the silvered pallor of moonlight cl
 
 ### Traits
 
-**Twin-Blood Harmony** · His greatest passive. **His two bloodlines do not scream at each other anymore. They answer.** The Seikai current sharpens the Zettai body; the Zettai body grounds the Seikai current. ***This internal diplomacy is the true miracle of his existence.***
+**Twin-Blood Harmony** · His greatest passive. **His two bloodlines do not scream at each other anymore. They answer.** The Seikai current sharpens the Zettari body; the Zettari body grounds the Seikai current. ***This internal diplomacy is the true miracle of his existence.***
 **Founder's Claim** · Because he is the progenitor of the Yukari line, **his soul carries the metaphysical arrogance of first naming.** His declarations possess unusual spiritual weight. Oaths taken in his presence bind more tightly. Betrayals around him leave deeper psychic scars. **Reality listens a little harder when he decides what something is.**
 **Half-Elven Continuance** · Extended vitality, refined sensory filtering, **and a strange resistance to spiritual decay.** *This does not make him softer. It makes him harder to rush toward ruin.*
 
@@ -99,7 +99,7 @@ His skin holds a dusky richness **that makes the silvered pallor of moonlight cl
 
   *This is less a wall than a declaration. He does not merely defend space. He defines it.*
 - ****Seikaizettai Kata** — Form of Unified Houses · 710 EU**
-  A combat state where **Seikai precision and Zettai bodily supremacy are brought into full synchronised expression.**
+  A combat state where **Seikai precision and Zettari bodily supremacy are brought into full synchronised expression.**
 
   His strikes become ruthlessly efficient, his steps difficult to read, his defensive structure almost unnervingly complete. **There is no wasted motion in this state.** Each action feels less like a choice **and more like an inevitability arriving.**
 
@@ -139,4 +139,4 @@ His skin holds a dusky richness **that makes the silvered pallor of moonlight cl
 >
 > Every force around him will try to interpret him as half of something. **His entire life is an answer to that insult.**
 >
-> If he ascends far enough, he will no longer be remembered as a child of Seikai and Zettai. **He will be remembered as the reason both bloodlines had to make room for a third name.**
+> If he ascends far enough, he will no longer be remembered as a child of Seikai and Zettari. **He will be remembered as the reason both bloodlines had to make room for a third name.**

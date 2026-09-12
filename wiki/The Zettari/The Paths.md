@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8100-aa8e-c8710c52a4bc"
 notion_url: "https://app.notion.com/p/The-Paths-3b158200eb228100aa8ec8710c52a4bc"
 section: "The Zettari"
 tags: []
-last_edited: "2026-08-03T20:54:00.000Z"
+last_edited: "2026-09-12T20:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -32,13 +32,13 @@ The sands of the Paths are not ordinary substance. **They are condensed lineage 
 ## Rule and Residents
 
 The Paths are ruled indirectly by **Aegor Zettari**, though **even what appears there is never his true form** — only manifested avatars capable of existing beneath the pressure of the plane.
-**Ancient Zettai Models**, perfected sovereign archetypes forged by Aegor across countless epochs, reside there eternally as **guardians, teachers, and living embodiments of the lineage's ideals.**
+**Ancient Zettari Models**, perfected sovereign archetypes forged by Aegor across countless epochs, reside there eternally as **guardians, teachers, and living embodiments of the lineage's ideals.**
 | Figure | Standing |
 |---|---|
 | **Aegor Zettari** | Founder of the lineage; **supreme sovereign entity whose avatars govern the Paths** |
-| **Shaka-Al Zettari, The Weapon** | Ancient Zettai Model responsible for **sovereign refinement through suffering and combat** |
+| **Shaka-Al Zettari, The Weapon** | Ancient Zettari Model responsible for **sovereign refinement through suffering and combat** |
 | **Revari Zettari** | Current inheritor of the True Everlasting Eyes and **acknowledged sovereign of the fallen Kushara bloodline** |
-| **The Zettai Models** | Ancient perfected manifestations embodying distinct principles of **ascension, warfare, sacrifice, and continuity** |
+| **The Zettari Models** | Ancient perfected manifestations embodying distinct principles of **ascension, warfare, sacrifice, and continuity** |
 
 ---
 
@@ -53,7 +53,7 @@ Within the Paths, **wounds may be rebuilt through lineage resonance.** Essence m
 
 ## Historical Importance
 
-The Paths are **the origin point of all sovereign Zettai ascension.** Every major evolution of the lineage traces back to revelations, reforgings, or trials performed there. During extinction-level events across multiple epochs, **the Paths preserved the continuity of the bloodline when kingdoms, civilizations, and worlds themselves collapsed.**
+The Paths are **the origin point of all sovereign Zettari ascension.** Every major evolution of the lineage traces back to revelations, reforgings, or trials performed there. During extinction-level events across multiple epochs, **the Paths preserved the continuity of the bloodline when kingdoms, civilizations, and worlds themselves collapsed.**
 The **Everlasting Eyes** originated from the metaphysical authority of the Paths, and many legendary Zettari techniques were first forged within its sands.
 The plane also serves as **the lineage archive of sovereign memory**, containing preserved echoes of over two hundred thousand years of history — including the **First Epoch Wars**, the fall and rebirths of **Kushara**, the **Seventh Fracture War**, and countless forgotten sovereign catastrophes **erased from mortal history.**
 > The Paths are considered the ultimate proof that **the Zettari were never merely rulers, but metaphysical survivors woven directly into the continuity of existence itself.**

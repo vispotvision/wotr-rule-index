@@ -940,7 +940,12 @@ rules:
       source. Called "narration register," not "Band," to avoid collision
       with the unrelated FOW Coherence Band stat. Not yet reviewed by
       Isaac. Full draft in proposals/psychic_distance_bands_draft.md,
-      logged in proposals/PROPOSED.md.
+      logged in proposals/PROPOSED.md. RATIFIED 2026-09-12, Isaac, as
+      written: superseded by R35-1-NARRATION_REGISTER_BANDS and
+      R35-2-NARRATION_REGISTER_ASSIGNMENTS
+      (rules/doc-psychic-distance-registers.yaml; text published at
+      docs/NARRATION_REGISTERS.md and the Notion page "Narration Registers
+      — Psychic Distance by POV" under The Rule Index).
 
   - id: R4-OP-HEMA_ASSIGNMENTS
     pack: Pack Four
@@ -969,7 +974,7 @@ rules:
       Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item
       was eventually addressed. RULED 2026-09-12: draft the remaining gaps.
       Turned out most of the named cast already has a canonical assignment
-      (Sodoku Moto, Rashani Zettai, Dougou Zettai in this pack; Cozbi Mahuo
+      (Sodoku Moto, Rashani Zettari, Dougou Zettari in this pack; Cozbi Mahuo
       in Pack Three) plus the newly-ratified Rengai and Black Agent rows.
       Two new proposed assignments drafted and logged as R4-HEMA-WREN and
       R4-HEMA-EDWARD_LAMBERT (both status:proposed, pending Isaac's read of
@@ -1098,7 +1103,7 @@ rules:
       or Limit column at all (the worst finding — the single most-scened
       character in the cast), Yoko Mishiro's has the same gap, and Kwon
       Mu-jin asserts costs without naming them. Clean: Aurelian, Verinus
-      VII, Sodoku Moto, Niran Yukari, Rengai Zettai, Gimbzo. Also surfaced
+      VII, Sodoku Moto, Niran Yukari, Rengai Zettari, Gimbzo. Also surfaced
       a bigger structural gap: four major-cast characters by scene count
       (Darius, Charles, Dhaerin, Wren) have no character sheet at all, so
       their costs were never checkable. Full report:

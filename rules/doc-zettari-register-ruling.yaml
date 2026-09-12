@@ -1,0 +1,72 @@
+# Standing ruling, originated: no source document. Isaac ruled directly,
+# 2026-09-12, closing CONFLICTS.md C-006. The five-strata naming convention
+# (R23-2-JAPONIC_STRATUM, imports/BRIEFS/common.md) assigns "archaic
+# bloodlines" to the Japonic register, but the Zettari's established
+# vocabulary (Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam
+# Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani,
+# Jomari, N'Yari, Zembari) is Swahili/Bantu/Arabic-flavoured. Isaac ruled that
+# the rule gives way: the Zettari are carved out as their own register. The
+# five-strata rule is NOT superseded -- "archaic bloodlines -> Japonic" still
+# governs every other archaic line -- so this row extends it rather than
+# replacing it. R32 is a free id-numeral bucket (R31 and R34-R36 were
+# already taken by other standalone rulings; R32 assigned by the main
+# session), unrelated to the R20-R24 naming cluster's numbering. Uses
+# R25-1's "standalone doc, no pack number, empty source.file" pattern; the
+# verbatim quotes the Register note written onto the wiki page (wiki/The
+# Archaic Bloodlines/The Zettari.md, Culture section) for this ruling.
+pack: Zettari Naming Register Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document (closes C-006)"
+rules:
+
+  - id: R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC
+    pack: Zettari Naming Register Ruling
+    pack_number: null
+    section: "Standing Ruling"
+    title: The Zettari keep their Swahili/Bantu/Arabic register; carved out of the Japonic stratum
+    status: live
+    kind: definition
+    summary: >-
+      The Zettari bloodline's names, titles and technique names are built in
+      a Swahili/Bantu/Arabic-flavoured register, and that register stands.
+      The five-strata naming convention's assignment of "archaic bloodlines"
+      to the Japonic stratum does not reach the Zettari: they are their own
+      register, a carve-out, not a repeal. The Japonic assignment continues
+      to govern every other archaic line (Moto, Yukari, Yuno).
+    verbatim: >-
+      The Zettari speak their own tongue. Their names and their arts are
+      Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind,
+      Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal;
+      Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that
+      register stands. The five-strata naming convention assigns the archaic
+      bloodlines to the Japonic stratum; the Zettari are carved out of it as
+      a register of their own, and the Japonic assignment continues to
+      govern every other archaic line. Ruled by Isaac, 2026-09-12.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "five strata / archaic bloodlines"
+        operation: extends
+    supersedes: []
+    applies_to: [naming, register]
+    verification: []
+    ratified: "Isaac, 2026-09-12, Claude Code: ruled directly, no source document (closes C-006)"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Closes CONFLICTS.md C-006. The clash was between the five-strata rule
+      as ratified (R23-2-JAPONIC_STRATUM, "Japonic. Archaic Bloodline
+      institutional logic", restated in imports/BRIEFS/common.md) and the
+      Zettari's documented vocabulary on wiki/The Archaic Bloodlines/The
+      Zettari.md and wiki/Factions, Bloodlines & Institutions/The Eight Great
+      Houses of Kushara.md. Isaac ruled the rule gives way. R23-2 stays live
+      and unsuperseded: this row narrows its reach by one bloodline rather
+      than striking it. The verbatim is the Register note added to The
+      Zettari wiki page in Notion on 2026-09-12 (Culture section), mirrored
+      to wiki/. The five-strata statement in imports/BRIEFS/common.md and
+      the 2026-09-12 edition of the Character Naming Guide carry the same
+      carve-out. Companion ruling the same day: C-005, the bloodline is
+      spelled Zettari (not Zettai) everywhere; sources/ still spell it
+      Zettai in the Pack One combat-assignment rows, so those rows' verbatim
+      fields keep the old spelling as a known divergence.

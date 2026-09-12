@@ -233,7 +233,7 @@ rules:
     pack: Pack One
     pack_number: 1
     section: "Amendment One"
-    title: Rashani Zettai's canonical combat assignment
+    title: Rashani Zettari's canonical combat assignment
     status: live
     kind: definition
     summary: >-
@@ -255,13 +255,14 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "62"
-    notes: null
+    notes: >-
+      Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).
 
   - id: R1-1-RENGAI_ASSIGNED
     pack: Pack One
     pack_number: 1
     section: "Amendment One"
-    title: Rengai Zettai's combat assignment, ratified 2026-09-12
+    title: Rengai Zettari's combat assignment, ratified 2026-09-12
     status: live
     kind: definition
     summary: >-
@@ -288,13 +289,14 @@ rules:
       lines: "63"
     notes: >-
       Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched, including the post-injury reading.
+      Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).
 
 
   - id: R1-1-DOUGOU_ASSIGNED
     pack: Pack One
     pack_number: 1
     section: "Amendment One"
-    title: Dougou Zettai's canonical combat assignment
+    title: Dougou Zettari's canonical combat assignment
     status: live
     kind: definition
     summary: >-
@@ -316,7 +318,8 @@ rules:
     source:
       file: WOTR_Companion_Guide_Amendments.md
       lines: "64"
-    notes: null
+    notes: >-
+      Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).
 
   - id: R1-1-COZBI_TENTATIVE
     pack: Pack One

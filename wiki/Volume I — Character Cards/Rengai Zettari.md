@@ -1,14 +1,14 @@
 ---
-title: "Rengai Zettai"
+title: "Rengai Zettari"
 notion_id: "3b258200-eb22-8104-9b61-d1030007ea92"
-notion_url: "https://app.notion.com/p/Rengai-Zettai-3b258200eb2281049b61d1030007ea92"
+notion_url: "https://app.notion.com/p/Rengai-Zettari-3b258200eb2281049b61d1030007ea92"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:30:00.000Z"
+last_edited: "2026-09-12T20:22:00.000Z"
 verification: "unverified"
 ---
 
-# Rengai Zettai
+# Rengai Zettari
 
 *He Who Smiles Through the Cinders · Dougou's Son · The Red Ember · Card 16*
 > 
@@ -20,8 +20,8 @@ verification: "unverified"
 
 ## I–II · Identity and Soul Architecture
 
-**Lineage** Human · Zettai Bloodline · **Dougou's direct son** · **Age** ~20s · **Sex** Male
-**Standing** Active under Zettai observation — ***developing ash combat separate from Dougou's brutality***
+**Lineage** Human · Zettari Bloodline · **Dougou's direct son** · **Age** ~20s · **Sex** Male
+**Standing** Active under Zettari observation — ***developing ash combat separate from Dougou's brutality***
 | **Level / Stage** | **250 / 500** · Band III — Sovereign Approach · **Stage VII — Refraction** · Coherence Band **A** |
 |---|---|
 | **Path** | Body 40% · Spirit / Mind 35% · Attraction 25% |
@@ -91,10 +91,10 @@ verification: "unverified"
 
 ## XI–XII · Axes and Resistances
 
-> **Dougou Zettai** · Filial-Inheritance — **Heavy, complex.**
+> **Dougou Zettari** · Filial-Inheritance — **Heavy, complex.**
 >
 > ***His power is ash because his father is fire. He is what remains after the burn.***
-**Zettai Bloodline** · Clan-Identity — *fights for the name, not just the man.*
+**Zettari Bloodline** · Clan-Identity — *fights for the name, not just the man.*
 **Unassigned** · Peer-Witness, latent — *the Crystal looking for someone who survived the same heat.*
 **Resistances** · Heat and ash: **high.** Attrition and patience: **strong.** Cold and wet: moderate penalty.
 **Vulnerabilities** · **Rain and water fields. Strong wind. Sealed and ceramic armour. Fast disengagement.** *And sudden overwhelming force before the field establishes.*

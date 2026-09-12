@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8154-84ae-d30384f2f29c"
 notion_url: "https://app.notion.com/p/Asami-and-Gisei-The-Two-States-of-the-Moto-3bc58200eb22815484aed30384f2f29c"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-12T16:06:00.000Z"
+last_edited: "2026-09-12T20:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -42,7 +42,7 @@ The Plane of Fate calls it Shallow-Seen because from outside, what surfaces look
 For most Moto, Asami arrives **not as a crisis but as a settling.** At sufficient depth the Plane recognises that the practitioner has carried the Work long enough that it no longer needs to be held. **It has become native. What remains when something native no longer needs to be held is the person it was always native to.**
 > **The universal requirement is not bloodline. It is authenticity under sufficient pressure.** The soul must have been pressed hard enough, long enough, against its own functional identity that what lives beneath has grown dense and real enough to surface.
 >
-> Most Moto meet this threshold. **Non-Moto Hataraki practitioners can reach it through depth of integration rather than birth.** The Zettai records contain two accounts. The Archon-adjacent records contain one, attributed to a practitioner **whose single vow and single self had become indistinguishable over a lifetime of carrying.**
+> Most Moto meet this threshold. **Non-Moto Hataraki practitioners can reach it through depth of integration rather than birth.** The Zettari records contain two accounts. The Archon-adjacent records contain one, attributed to a practitioner **whose single vow and single self had become indistinguishable over a lifetime of carrying.**
 
 ### From the inside
 

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81d4-bf97-cea223727abf"
 notion_url: "https://app.notion.com/p/Cozbi-Mahuo-3b258200eb2281d4bf97cea223727abf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:30:00.000Z"
+last_edited: "2026-09-12T20:20:00.000Z"
 verification: "unverified"
 ---
 
@@ -24,7 +24,7 @@ verification: "unverified"
 **Age** **Unclear by design** — decades of harvesting have outrun any simple count
 **Sex** Male in his true self and most projections. *At least one documented vessel has presented and been addressed as female — a man who treats his own body as one facade among many*
 **Standing** Unaffiliated by law, **opposed by every venerable bloodline still standing.** Operates across multiple planes through projected vessels and conscripted constructs
-> **Catalyst Event.** Watching his own people ground into the mud beneath the Zettai and Moto's endless war — and promising his dying brother:
+> **Catalyst Event.** Watching his own people ground into the mud beneath the Zettari and Moto's endless war — and promising his dying brother:
 >
 > > ***make them remember what we were, even if they never learn our names.***
 >

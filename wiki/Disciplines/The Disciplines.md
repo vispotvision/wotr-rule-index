@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810f-a709-d122245d7ab8"
 notion_url: "https://app.notion.com/p/The-Disciplines-3b158200eb22810fa709d122245d7ab8"
 section: "Disciplines"
 tags: ["Disciplines", "Magic System", "Bloodlines"]
-last_edited: "2026-09-12T16:07:00.000Z"
+last_edited: "2026-09-12T20:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -104,7 +104,7 @@ The documents in this section do not share a voice, and reading them correctly m
 ## Entries
 
 Read **Hataraki** first. Everything else in the Continuum is a way of performing a labour it already authorised.
-The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates. The four that follow are **bloodline and personal arts** — the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettai Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
+The first five entries are the general disciplines, open in principle to any practitioner who can meet their Temperance Gates. The four that follow are **bloodline and personal arts** — the God Fist and the Binding Fate Eye descend through specific lineages and cannot be taught to anyone outside them; the Material Force is learned rather than inherited, but sits close enough to Zettari Aspect Sovereignty that the distinction has to be stated each time; and the Open Crucible belongs to one man and one ledger.
 
 ### The general disciplines and the bloodline arts
 

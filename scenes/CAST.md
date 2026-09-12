@@ -50,7 +50,7 @@ sodoku_the_count_supply_report.md (5), sodoku_true_religion_alabaster.md (5), te
 ## Rengai (8 scenes)
 Cozbi_Rengai_Dhaerin_Confrontation.md (15), Rengai_Farewell_and_Dhaerin.md (12), Cozbi_vs_Rengai_Dhaerin_Combat.md (9), Cozbi_Antithesis_Split_Fight.md (7), Rengai_Confrontation_and_Nirans_Dream.md (7), Nisuke_Titan_Dominion_Strike.md (5), Dhaerin_Magnum_Opus_Recursive_Array.md (3), Cozbi_Sealed_Retreat.md (2)
 
-## Rengai Zettai (8 scenes)
+## Rengai Zettari (8 scenes)
 Cozbi_Rengai_Dhaerin_Confrontation.md (15), Rengai_Farewell_and_Dhaerin.md (12), Cozbi_vs_Rengai_Dhaerin_Combat.md (9), Cozbi_Antithesis_Split_Fight.md (7), Rengai_Confrontation_and_Nirans_Dream.md (7), Nisuke_Titan_Dominion_Strike.md (5), Dhaerin_Magnum_Opus_Recursive_Array.md (3), Cozbi_Sealed_Retreat.md (2)
 
 ## Wren (8 scenes)
@@ -143,7 +143,7 @@ renard_the_left_of_the_door.md (6)
 ## Dougou (1 scenes)
 Cozbi_Rengai_Dhaerin_Confrontation.md (2)
 
-## Dougou Ozumu Zettai (1 scenes)
+## Dougou Ozumu Zettari (1 scenes)
 Cozbi_Rengai_Dhaerin_Confrontation.md (2)
 
 ## Elder Seravain (1 scenes)
@@ -158,7 +158,7 @@ Naiser_Death_Cozbi_Genocide_Niran_Fall.md (2)
 ## Naiser Yukari (1 scenes)
 niran_malformation.md (2)
 
-## Rashani Zettai (1 scenes)
+## Rashani Zettari (1 scenes)
 Cozbi_Root_Severance_and_Rashani_Threshold.md (3)
 
 ## Renard Greymane (1 scenes)

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b2-9c76-dd02faf2f0bd"
 notion_url: "https://app.notion.com/p/Matla-3b158200eb2281b29c76dd02faf2f0bd"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-15T19:23:00.000Z"
+last_edited: "2026-09-12T20:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -146,7 +146,7 @@ The primary failure mode. It occurs when too many contradictory commands are imp
 ## Key Figures
 
 **Shaka Al, the Material Hand** · One of the most renowned practitioners of the late Second Epoch. He transformed terrain into weapons, burdened armies beneath the weight of their own armour, and treated the battlefield as an extension of his body. His style was direct, oppressive, and relentless. He did not overpower enemies through spectacle. **He made the world itself too heavy to resist.**
-**Revari Zettai, High Sovereign of Material Aspect Sovereignty** · Though not strictly a Material Force practitioner, Revari's royal authority demonstrated one of the highest known expressions of material principle. His dominion over Form, Essence, Space, Existence, and localized Time revealed how material law could ascend into sovereign bloodline authority. Among Aegorian scholars he remains a central comparative figure.
+**Revari Zettari, High Sovereign of Material Aspect Sovereignty** · Though not strictly a Material Force practitioner, Revari's royal authority demonstrated one of the highest known expressions of material principle. His dominion over Form, Essence, Space, Existence, and localized Time revealed how material law could ascend into sovereign bloodline authority. Among Aegorian scholars he remains a central comparative figure.
 **The Totality Architects, the World-Weighted Few** · A rare class who achieve Totality integration. They do not merely attack opponents. **They determine the conditions under which physical existence is permitted.** Most perish through Material Rejection Collapse. Those who survive often become fortress-builders, calamity wardens, or architects of reconstruction following great disasters.
 
 ---
@@ -162,7 +162,7 @@ The primary failure mode. It occurs when too many contradictory commands are imp
 
 ## Systemic Connections
 
-> **Zettai Material Aspect Sovereignty.** The Material Force shares conceptual territory with royal authorities governing Form, Essence, Space, Existence, and localized Time. The distinction is fundamental: **Zettai Sovereignty is inherited. The Material Force is learned.**
+> **Zettari Material Aspect Sovereignty.** The Material Force shares conceptual territory with royal authorities governing Form, Essence, Space, Existence, and localized Time. The distinction is fundamental: **Zettari Sovereignty is inherited. The Material Force is learned.**
 **Aether Shell Reinforcement** · The discipline relies heavily upon the Shell as a pressure frame. Advanced practitioners reinforce themselves through density alignment, Essence materialization, and resistance harmonization.
 **Drafts and Alchemy** · Draft practitioners often stabilize Material Force reactions through Parun Glyph systems. Alchemists employ its principles to preserve unstable substances, suspend decay, create anti-form seals, and harden Essence-infused compounds.
 **Conjunction** · Allows branches to merge with other disciplines. Matter and Fire may produce living stone. Essence and Space may create weighted barriers. **Anti-Matter and Dissolution may generate catastrophic erasure phenomena.**

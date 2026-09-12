@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81b0-810f-d3e421cd9caa"
 notion_url: "https://app.notion.com/p/The-Long-Reading-Moto-Ancient-History-3bc58200eb2281b0810fd3e421cd9caa"
 section: "The Moto Bloodline"
 tags: ["Lore & History", "Bloodlines"]
-last_edited: "2026-09-12T05:39:00.000Z"
+last_edited: "2026-09-12T20:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -144,7 +144,7 @@ They were fed by what he could earn with his hands. Mercenary work, taken young,
 | Source | What it gave him |
 |---|---|
 | **Nalūn** | Every commercial actor carries a **seal-token** representing their oldest active contract. It resonates while the contract is sound and goes inert when breached. *A man raised inside that instrument as its property, who later builds a kingdom where violence against sworn banners becomes measurable debt and whose signature technique is called Ruined Account Settlement, did not invent his own vocabulary. He was issued it* |
-| **Revari Zettai** | The **True Everlasting Eyes** read causal lineage — the original attunement that produced a bloodline ability and the wound that shaped a doctrine. **Revari looked at a sellsword nobody had reason to look at twice and read him back to his source.** *Whether Revari understood what he was handing a starving man is not recorded and should not be* |
+| **Revari Zettari** | The **True Everlasting Eyes** read causal lineage — the original attunement that produced a bloodline ability and the wound that shaped a doctrine. **Revari looked at a sellsword nobody had reason to look at twice and read him back to his source.** *Whether Revari understood what he was handing a starving man is not recorded and should not be* |
 
 > Muken's card records him as Moto-aligned through Shingan ignition and Kharven coronation rites. **He is not listed as Moto by descent anywhere in his own file. He was never acknowledged.** The eye opened in a mercenary and the rites did the rest, **and every Moto who later knelt to him knew precisely what his line had been when the house was finished with it.**
 

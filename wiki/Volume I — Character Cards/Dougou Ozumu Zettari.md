@@ -1,14 +1,14 @@
 ---
-title: "Dougou Ozumu Zettai"
+title: "Dougou Ozumu Zettari"
 notion_id: "3b158200-eb22-8188-874c-cd1618236e50"
-notion_url: "https://app.notion.com/p/Dougou-Ozumu-Zettai-3b158200eb228188874ccd1618236e50"
+notion_url: "https://app.notion.com/p/Dougou-Ozumu-Zettari-3b158200eb228188874ccd1618236e50"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-03T23:41:00.000Z"
+last_edited: "2026-09-12T20:22:00.000Z"
 verification: "unverified"
 ---
 
-# Dougou Ozumu Zettai
+# Dougou Ozumu Zettari
 
 **The Iron Bison — He Whose Stillness Is the Warning**
 > *Founder of the True Iron Bison*
@@ -17,15 +17,15 @@ verification: "unverified"
 
 ## Identity
 
-| **Race / Lineage** | Zettai-Blooded · Demonic Strain · **Atlazon-Seeded Vessel** |
+| **Race / Lineage** | Zettari-Blooded · Demonic Strain · **Atlazon-Seeded Vessel** |
 |---|---|
-| **Faction** | Zettai Bloodline — posthumously acknowledged sovereign |
+| **Faction** | Zettari Bloodline — posthumously acknowledged sovereign |
 | **Standing** | **Deceased. Ascended into the Paths** |
 
 > The Paths is entered only by those the bloodline itself recognises as sovereign-compatible. **His acceptance there answers, by itself, the question his whole arc was built around: the lineage judged the sealed vessel worthy.**
 >
 > **Whether the man inside it ever was is a separate question the Paths does not ask.**
-**Catalyst Event** · Born from a corrupted Zettai branch touched by demonic strain and Atlazon's pressure-law. **Origin and Catalyst are the same event for Dougou.** *He didn't discover the seal. He was made from the conditions that required one.*
+**Catalyst Event** · Born from a corrupted Zettari branch touched by demonic strain and Atlazon's pressure-law. **Origin and Catalyst are the same event for Dougou.** *He didn't discover the seal. He was made from the conditions that required one.*
 
 ---
 
@@ -101,12 +101,12 @@ verification: "unverified"
 
 ## Spirit Axes
 
-> **Rengai Zettai** · *Son* — Preserved / Filial-Contrast / Heavy.
+> **Rengai Zettari** · *Son* — Preserved / Filial-Contrast / Heavy.
 >
 > Rengai built an ash-and-attrition discipline **explicitly separate from Dougou's brutality.**
 >
 > **The clearest evidence of what Dougou actually taught his son: not** ***seal everything*****, but a warning shape enough that Rengai chose otherwise.**
-**Aegor Zettai / The Paths** · *Posthumous, Absolute* — His acceptance into the Paths is now **the only voice left rendering judgment on his life** — a sovereign archive's verdict standing in for the personal one he never gave himself.
+**Aegor Zettari / The Paths** · *Posthumous, Absolute* — His acceptance into the Paths is now **the only voice left rendering judgment on his life** — a sovereign archive's verdict standing in for the personal one he never gave himself.
 
 ---
 

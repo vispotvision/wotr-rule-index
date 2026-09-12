@@ -190,7 +190,20 @@ character card and lore page keeps disagreeing with itself.
 "Zettari," which is weak evidence that may be the intended primary form —
 but this is not a pack recommendation, just a passing observation from
 the agent that found the split, and not this project's call to make.
-**Status:** open
+**Status:** closed
+**Resolution:** ruled by Isaac, 2026-09-12: **Zettari** wins, everywhere.
+The three Volume I cards were renamed in Notion (Rashani Zettari, Rengai
+Zettari, Dougou Ozumu Zettari) and every in-page "Zettai" across the wiki
+swept to Zettari (41 blocks, 16 pages, plus the three retitles); scenes/,
+proposals/, imports/BRIEFS/common.md and the 2026-09-12 Naming Guide
+edition likewise. Known divergence, left on purpose: sources/ still spells
+it Zettai in the Pack One combat-assignment table, so
+R1-1-RASHANI_ASSIGNED, R1-1-RENGAI_ASSIGNED and R1-1-DOUGOU_ASSIGNED keep
+"Zettai" in their `verbatim` fields (exact quotes, never edited) and carry
+"Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005)" in
+`notes`; their `title` fields say Zettari. The Fractured Dawn card's line
+"'Zettai' is corrected to Zettari" was left as is: it is a note about the
+correction, not an instance of the old spelling.
 
 ## C-006 — the Zettari's naming register doesn't match the five-strata rule
 
@@ -212,15 +225,43 @@ Zettari's own technique names as they appear on `wiki/Factions, Bloodlines
 between matching the stated rule (and contradicting everything already
 written) or matching what's already written (and contradicting the rule).
 **Recommendation:** none stated by either source.
-**Status:** open
+**Status:** closed
+**Resolution:** ruled by Isaac, 2026-09-12: the rule gives way. The
+Zettari's Swahili/Bantu/Arabic-flavoured register stands; they are carved
+out of the Japonic stratum as a register of their own. The five-strata
+rule (R23-2-JAPONIC_STRATUM) is not superseded — "archaic bloodlines →
+Japonic" continues to govern every other archaic line. Recorded as
+R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC
+(rules/doc-zettari-register-ruling.yaml, operation `extends`, no source
+document), whose verbatim quotes the Register note added to wiki/The
+Archaic Bloodlines/The Zettari.md (Culture section) in Notion. The
+carve-out is also stated in imports/BRIEFS/common.md and in the
+2026-09-12 Naming Guide edition's changelog addendum.
 
 ---
 
-## C-000 — example row, delete once real ones land
+## C-007 — "narration register" names two different axes
 
-**Rules:** none yet
-**The clash:** placeholder demonstrating the format.
-**Quotes:** n/a
-**Consequence if unresolved:** none.
-**Recommendation:** none.
-**Status:** closed
+**Rules:** R5-C3-NARRATION_REGISTER_EXTENSION vs R35-1-NARRATION_REGISTER_BANDS
+**The clash:** Pack Five C.3 uses "narration registers" for per-culture
+diction (Dawi / Eresse / Concord human / Moto POV) and its own
+cross-reference keeps "band" (psychic distance) and "register" (culture) as
+two separate things that "have to be assigned together". The ratified
+psychic-distance ruling (R35-1, 2026-09-12) names its per-character
+close / medium / distant-formal axis "narration register" as well, chosen
+over "band" to avoid the FOW Coherence Band stat. Both rows are live (R5-C3
+demoted to flavour by R15-1-REGISTER_BY_CULTURE). No rule contradicts
+another; the same two-word term now denotes two axes.
+**Quotes:** Pack Five C.3: "Proposed narration registers, to be built out per
+culture as POVs arrive" and "band and register have to be assigned
+together". R35-1: "The field is called "narration register", not "Band".
+The Fracture of Worlds magic system already uses "Band" for a different,
+unrelated stat (Coherence Band A–F)".
+**Consequence if unresolved:** a loadout that prints both rows for a POV
+scene reads "narration register" twice with different meanings; a writer
+told to "keep the narration register" cannot tell which is meant without
+the rule id.
+**Recommendation:** none stated by either source. R35-1's notes suggest
+saying "narration register (psychic distance)" or "culture register" where
+both senses could be read; that is a disambiguation habit, not a ruling.
+**Status:** open

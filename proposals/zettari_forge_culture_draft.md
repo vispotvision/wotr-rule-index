@@ -3,12 +3,13 @@
 Answers R2/R3/R4-OP-ZETTARI_DOCKET ("the oldest unaddressed gap in the
 project"). Drafted by a background research agent, mirroring the Dawi's
 Cask-Oath Pitch. Not yet reviewed by Isaac. Written under the "Zettari"
-spelling to match the docket's own spelling and the lore pages — see
-CONFLICTS.md C-005 first: the same bloodline is spelled "Zettai" on every
-character-sheet card, and that split has never been ruled on. Nothing in
-this pitch is spelling-load-bearing; it applies identically either way.
-See also CONFLICTS.md C-006 (a naming-register mismatch this draft
-surfaced along the way).
+spelling to match the docket's own spelling and the lore pages — at the
+time of drafting the character-sheet cards spelled the same bloodline
+"Zettai" (CONFLICTS.md C-005). Ruled 2026-09-12: Zettari, everywhere; the
+cards were swept. Nothing in this pitch is spelling-load-bearing. See also
+CONFLICTS.md C-006 (a naming-register mismatch this draft surfaced along
+the way), also closed 2026-09-12: the Zettari keep their
+Swahili/Bantu/Arabic register (R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC).
 
 ## What's already on record about the Zettari (grounding)
 
@@ -134,4 +135,5 @@ not canon until Isaac sets them.*
 The Zettari/Zettai spelling split (C-005) should be settled, or explicitly
 left open on purpose, before Docket 18 is ratified — ratifying a forge
 substrate for a bloodline whose own name is unsettled just relocates the
-ambiguity one level down.
+ambiguity one level down. *Settled 2026-09-12: Zettari. This blocker is
+cleared; the pitch itself still awaits Isaac's read.*

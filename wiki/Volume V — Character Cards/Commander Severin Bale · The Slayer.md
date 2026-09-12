@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-816e-b677-e5ae85f6ac66"
 notion_url: "https://app.notion.com/p/Commander-Severin-Bale-The-Slayer-3bd58200eb22816eb677e5ae85f6ac66"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:39:00.000Z"
+last_edited: "2026-09-12T20:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -133,7 +133,7 @@ verification: "unverified"
 ## XII · Hooks
 
 **The Misnamed Writ** · *Someone forged a Black Watch seal — an innocent bears the Weight. Severin must lift his own sentence by proving the lie mid-operation.*
-**Child Host Order** · *A predatory brand has nested in a Zettai boy; the writ says end it. Severin seeks the purge that saves the child and still keeps the law clean.*
+**Child Host Order** · *A predatory brand has nested in a Zettari boy; the writ says end it. Severin seeks the purge that saves the child and still keeps the law clean.*
 **Broken Spine** · *Gallowsgate's latch-teeth are stolen; without them he cannot shear Domains.*
 **Dell's Last Lesson** · *Dell vanishes on a solo writ; Severin takes the field himself, teaching by showing what a Slayer spares as much as what he ends.*
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage VIII.

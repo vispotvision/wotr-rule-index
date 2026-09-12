@@ -48,7 +48,7 @@ The Saishiki went with her. Nobody left holds the liturgy. Every Ice-out since, 
 
 And Mizuyi, who was alive.
 
-That arrived with the rest and had no business in a list of the dead and came anyway, because the eye does not sort. His sister in a Zettai holding a very long way south, married into the heaviest material in the Inner World by a father who had called it architecture and had been correct, and loving the man she was given to with the whole load-bearing devotion of a woman who decided the giving would mean something. Alive. Out of reach. And her name in a Tenrai war room as a claim to be pushed, aimed at her own brothers' succession, without anybody having asked her.
+That arrived with the rest and had no business in a list of the dead and came anyway, because the eye does not sort. His sister in a Zettari holding a very long way south, married into the heaviest material in the Inner World by a father who had called it architecture and had been correct, and loving the man she was given to with the whole load-bearing devotion of a woman who decided the giving would mean something. Alive. Out of reach. And her name in a Tenrai war room as a claim to be pushed, aimed at her own brothers' succession, without anybody having asked her.
 
 Seiji Tenrai Moto was eight miles up that road with six hundred men and a claim and four sets of messengers on four corridors.
 

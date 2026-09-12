@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81fd-b919-d4493bde5145"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Nal-n-The-Chain-Cities-3bc58200eb2281fdb919d4493bde5145"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-08-14T22:22:00.000Z"
+last_edited: "2026-09-12T05:38:00.000Z"
 verification: "unverified"
 ---
 
@@ -150,7 +150,7 @@ The **Chain Guard**: roughly eight hundred professionals responsible for tunnel 
 
 ## Open Rulings
 
-> **Bonded labour.** The Long Reading proposes that **the salt cuttings run on the undocumented as an institution rather than an abuse** — that the Altan remnant, unreadable to the Alabaster register, were assigned into cutting-class contracts because a party without standing is not a party. **Muken's own mother is that ruling's test case.**
+> **Bonded labour.** The Long Reading proposes that **the salt cuttings run on the undocumented as an institution rather than an abuse** — that the Kōkan remnant, unreadable to the Alabaster register, were assigned into cutting-class contracts because a party without standing is not a party. **Muken's own mother is that ruling's test case.**
 >
 > *If ratified it goes into this codex and changes how every scene set here reads. Recommended. Currently the Culture section describes three classes and no unfree one*
 > **Cultural anchor · still open.** This entry is written **culture-neutral, grounded in commercial logic.** If an anchor is selected, naming conventions, social customs and institutional detail can be rebuilt in a dedicated pass.

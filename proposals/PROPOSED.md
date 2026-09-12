@@ -1,0 +1,32 @@
+# Proposed rules, pending Isaac's ratification
+
+Filed from the table via WOTR MCP or by Claude Code. Each becomes a row in the next amendment pack, or is struck.
+
+## 2026-09-12 — Northern forms for the five steppe Inventory items (R23-8)
+
+**Status:** proposed
+**applies_to:** standing-inventory, register, worldbuilding
+
+Isaac ruled the five steppe items keep their functions and take Northern/permafrost forms. Proposed, in the Kharven register (Northern English and Norse for chartered families and commons; Far-Northern carried-name logic):
+
+| Function | Was | Proposed | Why |
+|---|---|---|---|
+| The shared drink; refusing it is the insult | airag | **the skin** (a fermented milk carried in a sealskin; "he offered the skin"; "he would not take the skin") | Names the vessel, not the milk, which is how a people who stopped riding would say it; the refusal-insult survives intact as "wouldn't take the skin" |
+| The travelling meat | borts | **windmeat** (wind-dried strips) | Plain Northern compound; the Thin Weeks are when the windmeat runs out |
+| The dried curd | aaruul | **stonecurd** | Same logic; a thing you break with the back of a knife |
+| The robe | the deel | **the hide-coat** (alternative: **the kirtle**, older Northern English) | Permafrost people wear hide, not felt; "the hide-coat" pairs with "the belt" already in the Inventory |
+| The sky-name | Tengri | **the Sky**, unnamed, capitalised | The oaths already treat it so: "By the sky that covers us", "gone to the sky". Kharven does not name its god; the absence is the register |
+
+*Why:* R23-8 as ruled. Nothing here changes a function, only the mouth it comes out of.
+
+## 2026-09-12 — A Japonic name for the island (R21-5)
+
+**Status:** proposed
+**applies_to:** naming, worldbuilding
+
+Isaac ruled the island takes a Japonic-register name in place of Vāimoana / Vāitele / Tuāoi. Two candidates, one recommended:
+
+- **Wadatsumi** (綿津見) — the classical sea-deity's name used as a place-name; carries a rite inside it, which suits a house whose ceremonies hold across generations without correction (R21-3-VAIMOANA_ESSENCE_STABILITY). *Recommended.*
+- **Kaiyō** (海洋, "ocean") — the literal successor to Vāimoana's meaning ("ocean water"); plainer, and plain may be right for a place nobody outside has been allowed to station on.
+
+*Why:* R21-5 as ruled. Once one is ratified, every "Vāimoana" in the wiki and the index is swept to it (stale_names will carry the pair).

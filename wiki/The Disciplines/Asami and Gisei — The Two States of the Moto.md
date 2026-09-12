@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8154-84ae-d30384f2f29c"
 notion_url: "https://app.notion.com/p/Asami-and-Gisei-The-Two-States-of-the-Moto-3bc58200eb22815484aed30384f2f29c"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-04T04:44:00.000Z"
+last_edited: "2026-09-12T05:39:00.000Z"
 verification: "unverified"
 ---
 
@@ -56,13 +56,13 @@ Immediately recognisable and immediately wrong in a way trained observers strugg
 A Moto in their functional state always feels like they are **doing** something: evaluating, measuring, preparing. Even in stillness they have the quality of a loaded mechanism. Asami removes that. **What stands in their place is a person who is not doing anything in the transactional sense, and it reads as profoundly more dangerous than any technique, because techniques have limits and this does not feel like it does.**
 > The Aether signature shifts. Where normal output has directionality, **the Asami signature has no vector.** It radiates the way heat radiates from a fire: not aimed, not shaped, not deployed. **Present as a property of what is standing there.**
 >
-> Observers with Tengeriin sight describe the Fate threads around a practitioner in Asami as **having gone still. Not locked. Still.** *The way threads go still when they have already arrived at their correct position and have nothing left to pull toward.*
+> Observers with Tengan sight describe the Fate threads around a practitioner in Asami as **having gone still. Not locked. Still.** *The way threads go still when they have already arrived at their correct position and have nothing left to pull toward.*
 
 ### What Asami does
 
 **All techniques become native** · Every Discipline, Work-expression and Form becomes an extension of what the practitioner actually is rather than what they have learned to perform. **The mechanical gap between intent and execution collapses. The True Self does not translate. It acts.**
 **Obsession Force cannot find purchase** · Obsession Force corrupts by attaching to the gap between what a person is and what they believe they must be. **In Asami, that gap does not exist. There is nothing to attach to.**
-**The Shingan reads without filter** · An Iltgel practitioner in Asami does not read the hidden structure and then decide what to do with it. **The reading and the response are the same motion.**
+**The Shingan reads without filter** · An Meigan practitioner in Asami does not read the hidden structure and then decide what to do with it. **The reading and the response are the same motion.**
 **The aura becomes a law** · Not a projected aura — a quality of being. **The pressure of being in proximity to something that is exactly what it is, and the dissonance that creates in anything that is not.**
 
 ### Integration
@@ -93,7 +93,7 @@ A practitioner who **discharges rather than inhabits** has not achieved Asami. T
 
 *The Offering · The Burning Floor · The Self That Was Spent*
 > You found what you are. **Now: how much of it are you willing to lose so the rest can burn bright enough to matter?**
-> — *Unattributed. Found scratched into the wall of the Ulaan meditation hall. Date unknown*
+> — *Unattributed. Found scratched into the wall of the Kurenai meditation hall. Date unknown*
 
 ### What it is
 
@@ -119,20 +119,20 @@ Gisei operates through **Oblation**, the same Wellspring that sustains Moetana. 
 
 In Asami the practitioner is quiet, present in the room the way weather is present. **In Gisei the quiet burns.** The signature, which radiated without direction, **contracts inward** as sacrificed material converts. *The practitioner appears to dim before they brighten: the first sacrifice draws the light in, and the conversion sends it back out harder than it arrived.*
 The Shingan, if still present, changes. **The iris does not glow brighter. It simplifies.** A Kamigan at full expression carries a mandala of interlocking judgment-lines. **A Kamigan in Gisei may carry three. Two. One.** *Each simplified line is a Trait, a capacity, a memory that is no longer there, and each absence is visible in the eye that used to hold it.*
-> Observers with Tengeriin sight describe the Fate threads around a Gisei practitioner as **burning. Not metaphorically.** The threads that in Asami went still are now consuming themselves, shortening, brightening, **and the light they produce as they burn is the output the practitioner is using to do whatever they decided was worth the cost.**
+> Observers with Tengan sight describe the Fate threads around a Gisei practitioner as **burning. Not metaphorically.** The threads that in Asami went still are now consuming themselves, shortening, brightening, **and the light they produce as they burn is the output the practitioner is using to do whatever they decided was worth the cost.**
 
 ### What it produces
 
 **Not stat amplification. Not a multiplier.** The conversion of irreplaceable personal material into Hataraki authority the practitioner's baseline architecture could never have generated.
 **Impossible techniques become executable** · A Form requiring Stage XII can be performed by a Stage VIII practitioner if the sacrifice is sufficient. **The Plane does not check Temperance. It checks payment.**
-**Authority exceeds standing** · Works can be administered above rank, because the sacrifice confers temporary authority. *A practitioner who has given up their own Iltgel to deliver a single blow has demonstrated, in a way the Plane cannot deny, that the blow matters more than the eye. The Plane grants the blow accordingly.*
+**Authority exceeds standing** · Works can be administered above rank, because the sacrifice confers temporary authority. *A practitioner who has given up their own Meigan to deliver a single blow has demonstrated, in a way the Plane cannot deny, that the blow matters more than the eye. The Plane grants the blow accordingly.*
 **Presence becomes environmental** · The air thickens. Fate threads respond to the practitioner's intent rather than to ambient causal structure. **The room belongs to them in a way that is not a Domain and is not a technique. It is the weight of what they have given up pressing against everything that has not.**
 
 ### The cost
 
 **Everything sacrificed is permanently gone.** Not dormant. Not recoverable through healing, meditation, Wellspring restoration or time. **The Core's identity layer has been physically edited**, and what the Plane accepts, it keeps.
 A practitioner who sacrifices the memory of their mother cannot rebuild it. Others can tell them about her; they can construct an intellectual understanding from external testimony. **They will never feel it. The feeling was the memory, and the memory was the sacrifice.**
-A practitioner who sacrifices their Iltgel can never reopen it. **The growth site no longer exists.** *Their eye is a normal eye forever. It sees what anyone's eye sees, and no more.*
+A practitioner who sacrifices their Meigan can never reopen it. **The growth site no longer exists.** *Their eye is a normal eye forever. It sees what anyone's eye sees, and no more.*
 > **Gisei practitioners accumulate absences.** After sustained use they are measurably less complete than they were. **Not weaker in the conventional sense. Less.** Fewer memories, fewer bonds, fewer capacities, fewer Traits.
 >
 > What remains is **a person-shaped structure that fights with the accumulated output of everything it used to be but can no longer remember being.**

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-04T04:49:00.000Z"
+last_edited: "2026-09-12T05:38:00.000Z"
 verification: "unverified"
 ---
 
@@ -213,6 +213,6 @@ The exile followed. **The oaths expired with Muken's death, and without the Crow
 | **The western ruin** | Open. **Glaciation does not leave the residual saturation Saruul reads there. A massacre does** |
 | **Fusi Vā as a word** | The term entered the record on the struck character card, attached to a Yuno line and a Totality-Rite priesthood that no longer exist. **The function is confirmed and the Yuno attribution is confirmed. Whether the word survives is undecided** |
 | **Cozbi** | A report circulating in the north holds that he is dead. **Unratified. This entry has not been altered to accommodate it** |
-| **The Bükhel Mörgöl** | The Culture section predates the doctrinal entry on the True High Religion. **If that entry is ratified, Culture gains a paragraph and the Holy Sea relation gains its real weight** — since the tenancy claim is what makes a petition south more than a beggar's letter |
+| **The Sōhai** | The Culture section predates the doctrinal entry on the True High Religion. **If that entry is ratified, Culture gains a paragraph and the Holy Sea relation gains its real weight** — since the tenancy claim is what makes a petition south more than a beggar's letter |
 
 > **Closed against this entry.** The Sātūlagi flag — no references present in the received text, none removed. **The flag remains open against the Stannvaard and Undaar-Keth entries.**

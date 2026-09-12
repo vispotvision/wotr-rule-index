@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-81c2-9db0-e155860d0caa"
 notion_url: "https://app.notion.com/p/T-ga-Winter-Fang-3ba58200eb2281c29db0e155860d0caa"
 section: "Sodoku Moto"
 tags: []
-last_edited: "2026-09-04T04:37:00.000Z"
+last_edited: "2026-09-12T05:39:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,8 +14,8 @@ verification: "unverified"
 > **Name:** Tōga (冬牙) — Winter Fang
 > **Species:** Droval · Titan-class
 > **Danger Tier:** T8 (estimated — full capabilities unconfirmed)
-> **Age:** Centuries. The Glacier Eye read ten thousand years of Winter saturation in the resonance handshake. The creature was alive before the Büri migration. Before the kingdom. Before the name Kharven existed.
-> **Bond:** Sovereignty recognition bond with Sodoku Büri (the Arctic Lion). The creature chose. The choice was Winter recognizing Winter.
+> **Age:** Centuries. The Glacier Eye read ten thousand years of Winter saturation in the resonance handshake. The creature was alive before the Moto migration. Before the kingdom. Before the name Kharven existed.
+> **Bond:** Sovereignty recognition bond with Sodoku Moto (the Arctic Lion). The creature chose. The choice was Winter recognizing Winter.
 
 ---
 

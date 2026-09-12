@@ -114,15 +114,15 @@ Sodoku felt his daughter's fingers tighten in the fur.
 
 Back at the gravel line, an old man came forward one pace and held there.
 
-Taulagi had not spoken since Stormfold. Sixty-one years old, built out of the same short heavy timber the frontier built everything out of, with the sun-cured brown skin of a man who had spent forty years outdoors above the treeline and a face that had settled into an expression of patient refusal sometime around the assassination and had not moved since. His hand had come partway to his chest. It stopped at the sternum and stayed.
+Heisuke had not spoken since Stormfold. Sixty-one years old, built out of the same short heavy timber the frontier built everything out of, with the sun-cured brown skin of a man who had spent forty years outdoors above the treeline and a face that had settled into an expression of patient refusal sometime around the assassination and had not moved since. His hand had come partway to his chest. It stopped at the sternum and stayed.
 
 Lambert saw him. The heavy lids came up a fraction.
 
-"Taulagi," he said.
+"Heisuke," he said.
 
 *He is still alive. Of the men who drove those stakes there were six, and I had accounted five, and I have been carrying that count as complete for four years, and it was wrong, and I have never in my life been so pleased to be wrong about a number.*
 
-Taulagi said nothing. He lowered his hand, and the set of his mouth did not soften, and he did not step back either.
+Heisuke said nothing. He lowered his hand, and the set of his mouth did not soften, and he did not step back either.
 
 Yoko came up beside Sodoku and did not touch him, because touching him in front of an audience was a thing she had decided years ago that she would not do.
 

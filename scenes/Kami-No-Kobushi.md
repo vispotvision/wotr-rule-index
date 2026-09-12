@@ -5,13 +5,13 @@
 *"**Möngke gave us seven ways to work. Gimbzo found seven ways to refuse.**"*
 — Oral tradition, surviving First Conclave fragment
 
-Each of the seven Ajiin Works manifests differently through the God Fist's architecture. The spine never changes — Aether falls, position is law, the verdict precedes the blow — but the nature of what is being anchored shifts with each doctrine. A practitioner who has mastered all seven is not seven fighters. They are one Anchor who has learned seven different things worth holding.
+Each of the seven Hataraki Works manifests differently through the God Fist's architecture. The spine never changes — Aether falls, position is law, the verdict precedes the blow — but the nature of what is being anchored shifts with each doctrine. A practitioner who has mastered all seven is not seven fighters. They are one Anchor who has learned seven different things worth holding.
 
 ## **I. HAMETSU-STYLE**
 
 ### **The Ruin Fist — *****Houkai no Kobushi***
 
-Work: Söröl Ajiin — Work of Ruins
+Work: Hametsu no Go — Work of Ruins
 Type: Collapse-Fixator · *Anchor what is already breaking and make it break correctly.*
 
 Primary Wellsprings:
@@ -49,7 +49,7 @@ The Ruin Fist tempts its user toward cruelty of timing — waiting so long for t
 
 ### **The Purity Fist — *****Seijō no Kobushi***
 
-Work: Ariun Ajiin — Work of Purity
+Work: Junketsu no Go — Work of Purity
 Type: Foundation-Fixator · *Anchor what is rightfully standing and refuse to let it be defiled.*
 
 Primary Wellsprings:
@@ -87,7 +87,7 @@ The Purity Fist tempts its user toward fanaticism — the conviction that their 
 
 ### **The Spirit Fist — *****Tamashii no Kobushi***
 
-Work: Süld Ajiin — Work of Spirit
+Work: Seirei no Go — Work of Spirit
 Type: Soul-Fixator · *Anchor the line between what lives and what has ended, and strike across it.*
 
 Primary Wellsprings:
@@ -149,7 +149,7 @@ Core Principle
 
 In Practice
 
-- Against a Tengeriin-line Büri using convergence-reading, the practitioner locks the surrounding sequence before the Tengeriin adept can claim the next instant. The adept's foresight sees a present that has already been ratified as closed.
+- Against a Tengeriin-line Moto using convergence-reading, the practitioner locks the surrounding sequence before the Tengan adept can claim the next instant. The adept's foresight sees a present that has already been ratified as closed.
 
 - Against a temporal-acceleration fighter, Fixatio simply refuses the acceleration's claim to the next instant. The fighter moves fast inside their own sequence and finds the practitioner's coordinate has already filled the space they were accelerating into.
 
@@ -239,7 +239,7 @@ The Scales Fist tempts its user toward paralysis — becoming so committed to th
 
 ### **The Total Fist — *****Zentai no Kobushi***
 
-Work: Zentai-sei no Ajiin — Work of Totality
+Work: Zentai-sei no Hataraki — Work of Totality
 Type: Sovereign-Fixator · *Anchor all six Works simultaneously and let the Plane itself deliver the verdict.*
 
 Primary Wellsprings:
@@ -271,7 +271,7 @@ In Practice
 
 Cost and Consequence
 
-The Total Fist cannot be used by a practitioner who has not accepted Coordinate Adhesion as permanent. Running all six Works through a single planted coordinate in one instant does not deepen the adhesion — it *completes* it. A practitioner who successfully delivers Zentai no Kobushi is, afterward, inseparable from that coordinate until loosened by a Tengeriin adept. This is not a flaw in the design. Gimbzo built it this way deliberately.
+The Total Fist cannot be used by a practitioner who has not accepted Coordinate Adhesion as permanent. Running all six Works through a single planted coordinate in one instant does not deepen the adhesion — it *completes* it. A practitioner who successfully delivers Zentai no Kobushi is, afterward, inseparable from that coordinate until loosened by a Tengan adept. This is not a flaw in the design. Gimbzo built it this way deliberately.
 
 *You do not use the fist of the Plane without paying the Plane's price.*
 

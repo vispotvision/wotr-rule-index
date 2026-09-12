@@ -4,14 +4,14 @@ notion_id: "3ba58200-eb22-810d-96b8-c67ffe902337"
 notion_url: "https://app.notion.com/p/Osric-of-Hallenfeld-The-Patient-Hand-3ba58200eb22810d96b8c67ffe902337"
 section: "Volume I — Character Cards"
 tags: ["Characters"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-12T05:40:00.000Z"
 verification: "unverified"
 ---
 
 # Osric of Hallenfeld — The Patient Hand
 
 *The Sleeping Dragon · The Patient Hand · The Man Who Recognized the Jaw*
-> **Full Name:** Osric of Hallenfeld (born Osric Kōkan Moto, identity suppressed during the Khökh consolidation)
+> **Full Name:** Osric of Hallenfeld (born Osric Kōkan Moto, identity suppressed during the Tenrai consolidation)
 > **Age:** 47 · **Bloodline:** Kōkan cadet line (Moto)
 > **Level:** 195 · **Stage:** IV Temper · **Band:** II
 > **Role:** Strategic uncle to Hild Ice, political architect of the Kokan Loyalist Coalition
@@ -28,15 +28,15 @@ He is the man who counseled moving Hild to the broken throne. The counsel was no
 ## Physical Description
 
 Taller than Lorn and narrower, built with the lean angularity of the Kōkan cadet lines. The Moto blood expresses itself in the specific vertical architecture that Concord-stock humans do not produce — the height, the narrow jaw, the dark eyes that carry a depth that reads as older than the face around them. His hair is dark and thinning at the crown, the specific hair-loss pattern that stress produced in men who processed stress through calculation rather than through action.
-His face carries the permanent expression of a man who spent three years pretending to be unimportant enough to overlook and who learned that the pretending changed the face. The features are arranged for absence: unremarkable brow, clean jaw, the specific neutrality of a man who had trained his face to say nothing because nothing was the thing that kept him alive during the Khökh consolidation, when being recognized as Kōkan cadet meant being "restructured" and being unrecognized meant surviving. The face retained the training even after the training stopped being necessary. Osric's face says nothing. His hands say everything — they move when he is thinking, the fingers arranging invisible pieces on invisible boards, and the arranging is the tell, and the tell is the only crack in the mask.
+His face carries the permanent expression of a man who spent three years pretending to be unimportant enough to overlook and who learned that the pretending changed the face. The features are arranged for absence: unremarkable brow, clean jaw, the specific neutrality of a man who had trained his face to say nothing because nothing was the thing that kept him alive during the Tenrai consolidation, when being recognized as Kōkan cadet meant being "restructured" and being unrecognized meant surviving. The face retained the training even after the training stopped being necessary. Osric's face says nothing. His hands say everything — they move when he is thinking, the fingers arranging invisible pieces on invisible boards, and the arranging is the tell, and the tell is the only crack in the mask.
 He wears the clothing of a minor Hallenfeld administrator: plain wool, practical cut, the specific anonymity of a man whose wardrobe was designed to be forgettable. The anonymity is eleven years old and the anonymity is the costume and the costume is the camouflage and the camouflage saved his life.
 
 ---
 
 ## The Three Years
 
-When the kingdom fell, Osric was a minor practitioner in a cadet line that the Khökh's purge classified as peripheral. He was not important enough to kill. He was not insignificant enough to ignore. He occupied the specific middle ground where the Khökh's assessment produced the result: watch. And the watching was the gap, and the gap was the three years, and the three years were the time Osric spent being watched while pretending to be nothing while actually being everything.
-During the three years, Osric assembled the intelligence that would become the coalition's strategic foundation. He tracked which houses sided with the Khökh and which hesitated. He identified which lords' loyalty was genuine and which was performed. He mapped the Khökh's administrative architecture from the inside, learning where the architecture was strong (military, propaganda, Azure's political machinery) and where it was weak (the cadet lines' resentment, the Banner Houses' conditional loyalty, the specific vulnerability that all illegitimate thrones shared, which was: the throne's authority depended on nobody testing it, and the not-testing was a choice, and choices could change).
+When the kingdom fell, Osric was a minor practitioner in a cadet line that the Tenrai's purge classified as peripheral. He was not important enough to kill. He was not insignificant enough to ignore. He occupied the specific middle ground where the Tenrai's assessment produced the result: watch. And the watching was the gap, and the gap was the three years, and the three years were the time Osric spent being watched while pretending to be nothing while actually being everything.
+During the three years, Osric assembled the intelligence that would become the coalition's strategic foundation. He tracked which houses sided with the Tenrai and which hesitated. He identified which lords' loyalty was genuine and which was performed. He mapped the Tenrai's administrative architecture from the inside, learning where the architecture was strong (military, propaganda, Azure's political machinery) and where it was weak (the cadet lines' resentment, the Banner Houses' conditional loyalty, the specific vulnerability that all illegitimate thrones shared, which was: the throne's authority depended on nobody testing it, and the not-testing was a choice, and choices could change).
 On the night Osric left, he walked out of the Hallenfeld corridor carrying his father's ring and nothing else. He arrived at the holdfast in the Ironwood March with the ring and with the intelligence and with the specific patience of a man who had spent three years calculating and who had produced the calculation's conclusion, which was: the Kōkan Line survives. A child exists. The child carries the jaw.
 He did not tell anyone he was Kōkan for three years after arriving. He told Fern. Fern told Lorn. On the night Osric finally spoke the name Kōkan aloud, it was to Hild, who was seven, and the speaking was the oath, and the oath was: I see your jaw, and the jaw is the king's jaw, and the king's jaw is the reason I am here, and the reason is the rest of my life.
 
@@ -53,7 +53,7 @@ Unlike Lorn, Osric does not disagree in public. Osric disagrees in the specific 
 ## The Zhuge Liang Parallel
 
 Zhuge Liang served Liu Bei — the legitimate but dispossessed heir whose claim was just and whose resources were insufficient and whose cause required a mind that could turn insufficient resources into sufficient outcomes. Osric serves Hild in the same capacity. The Kōkan heir whose claim is legitimate (the signed approval exists, even if nobody knows it). Whose resources are insufficient (a broken throne, three loyal houses, a Greymane with half an army). Whose cause requires the specific strategic mind that can read the board and position the pieces so that the insufficient becomes sufficient.
-The parallel extends to patience. Zhuge Liang waited in his thatched cottage for Liu Bei to come to him three times before agreeing to serve. Osric waited for three years inside the Khökh's system before leaving. Both waits were not passivity. Both waits were the specific active patience of a man who was calculating the moment when the waiting's value was exceeded by the acting's value, and the moment arrived, and the acting began, and the acting has not stopped.
+The parallel extends to patience. Zhuge Liang waited in his thatched cottage for Liu Bei to come to him three times before agreeing to serve. Osric waited for three years inside the Tenrai's system before leaving. Both waits were not passivity. Both waits were the specific active patience of a man who was calculating the moment when the waiting's value was exceeded by the acting's value, and the moment arrived, and the acting began, and the acting has not stopped.
 The divergence from Zhuge Liang is the personal. Zhuge Liang's devotion to Liu Bei was intellectual and moral. Osric's devotion to Hild is blood. Osric carries Kōkan Moto blood. He looks at Hild and sees the jaw and the jaw is the bloodline and the bloodline is the thing Osric has been protecting since the night he walked out of the Hallenfeld corridor with his father's ring and nothing else. The blood makes the devotion deeper than strategy. The blood makes the devotion structural.
 
 ---

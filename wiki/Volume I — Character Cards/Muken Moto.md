@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b8-b346-d1d8df799ed5"
 notion_url: "https://app.notion.com/p/Muken-Moto-3b158200eb2281b8b346d1d8df799ed5"
 section: "Volume I — Character Cards"
 tags: ["Characters", "Bloodlines"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-12T05:40:00.000Z"
 verification: "unverified"
 ---
 
@@ -130,7 +130,7 @@ verification: "unverified"
 |---|---|---|
 | **Ayame Yuno** *Wife* | Active Primary · Marital · Heavy | Parallel sovereign systems — **his impact-Body enforcement, her ritual-Attraction binding, each covering the other's failure mode** |
 | Children, Sodoku , Sonzai , Emira , Tomuka , Ezo  | Active · Filial · Heavy | Watching them inherit winter and preservation **forced him to see power as taught, not just wielded** |
-| **Azure Tenrai Moto** *Adversary, posthumous* | Distant-Antagonistic · Structural · Heavy | **Never fought him directly; removed him through manoeuvring Hataraki has no vector to detect.** The founding wound of the current Altan–Tenrai conflict |
+| **Azure Tenrai Moto** *Adversary, posthumous* | Distant-Antagonistic · Structural · Heavy | **Never fought him directly; removed him through manoeuvring Hataraki has no vector to detect.** The founding wound of the current Kōkan–Tenrai conflict |
 
 ---
 

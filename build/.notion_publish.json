@@ -258,7 +258,7 @@
   "scenes/Kami-No-Kobushi.md": {
     "page_id": "3d958200-eb22-81b6-a61c-f00332488ad4",
     "title": "THE GOD FIST — SEVEN DOCTRINES",
-    "hash": "ab3457338a43d3db"
+    "hash": "3b494d5bf2ee686e"
   },
   "scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md": {
     "page_id": "3d958200-eb22-81d6-be92-e97c7f35b8ed",
@@ -343,12 +343,12 @@
   "scenes/sodoku_gate_reunion_lambert.md": {
     "page_id": "3d958200-eb22-81d7-a649-e16f2eb37ce5",
     "title": "The Gate Opens",
-    "hash": "3fb718c16f34d16b"
+    "hash": "b427891b8195080f"
   },
   "scenes/sodoku_the_count_supply_report.md": {
     "page_id": "3d958200-eb22-81a0-bec0-c90d0d51f2eb",
     "title": "The Count",
-    "hash": "dbbc3b2c818ced14"
+    "hash": "64c70323ef051ea2"
   },
   "scenes/sodoku_true_religion_alabaster.md": {
     "page_id": "3d958200-eb22-8131-8181-d0c2e426af3d",
@@ -358,7 +358,7 @@
   "scenes/temur_true_religion_alabaster.md": {
     "page_id": "3d958200-eb22-81ba-921a-ef1e86ea5984",
     "title": "The True Religion",
-    "hash": "2fe443bf49967cce"
+    "hash": "f63e5bbdeabd401a"
   },
   "scenes/The_Path_of_Sorrow.md": {
     "page_id": "3d958200-eb22-815d-8d83-d5d7fb942598",
@@ -419,5 +419,15 @@
     "page_id": "3d958200-eb22-815b-bfd1-c47c90cd36cf",
     "title": "Conflicts",
     "hash": "287b2a67b65e9347"
+  },
+  "scenes/ARCS.md": {
+    "page_id": "3d958200-eb22-8105-8af2-fbde5728de07",
+    "title": "Reading order",
+    "hash": "dc1800b020981411"
+  },
+  "scenes/CAST.md": {
+    "page_id": "3d958200-eb22-813f-934f-e06e845a74b8",
+    "title": "Cast index",
+    "hash": "61e3d24181c45832"
   }
 }

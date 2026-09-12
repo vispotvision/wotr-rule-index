@@ -4,7 +4,7 @@ notion_id: "3b958200-eb22-81cb-b938-e489672d3a40"
 notion_url: "https://app.notion.com/p/The-Arctic-Lion-Sovereign-Configuration-Level-500-3b958200eb2281cbb938e489672d3a40"
 section: "Sodoku Moto"
 tags: ["Characters", "Reference Table"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-12T05:40:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 
 ## I · Equipment — Full Object Template
 
-### Khar Ild Reforged (黒裁) — Black Verdict
+### Kurosetsu Reforged (黒裁) — Black Verdict
 
 | **IDENTITY** |  |
 |---|---|
@@ -64,7 +64,7 @@ Carved into sternum by Filemu's vā tapuia in her final hours. Lifespan → Hata
 
 ### Three-Node Architecture
 
-**Khar Ild** (Fulguria) + **Arctic Lion** (Crymorath/Glacium) + **Tōga** (biological Crymorath). Connected via Resonance Circuit. Ruins stress stays in the blade.
+**Kurosetsu** (Fulguria) + **Arctic Lion** (Crymorath/Glacium) + **Tōga** (biological Crymorath). Connected via Resonance Circuit. Ruins stress stays in the blade.
 
 ---
 

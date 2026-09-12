@@ -6,7 +6,7 @@ Temür sat on the inn's front step with his back against the doorframe and his l
 
 He was soaked. The fur-collared coat, which had once been the mark of a crown prince and was now the only garment he owned that still carried enough structural integrity to block wind, had absorbed so much water that the fur had flattened into a matted pelt against his shoulders and the wool beneath it had darkened three shades and gained seven pounds. The covenant beads at his collarbone were wet, and the rain ran down the strands in thin lines that followed the curvature of each bead before dropping off the lowest point of the loop onto his chest, turquoise and garnet and aged bone all carrying the same cold water, the same temperature, the same indifference.
 
-Khar Ild lay across his thighs. Unsheathed. The mixed-grain steel was beaded with rainwater that the blade's unfinished surface could not shed cleanly, and the water collected in the shallow valleys between the martensite and austenite grain boundaries and sat there like something waiting. He had not cleaned the blade since the Tenrai settlement. There was still a faint discoloration along the first three inches of the edge, a shadow that was not rust and not tarnish but the chemical residue of blood that had been wiped away without solvent, and the residue had bonded to the grain structure in a way that Fractura could read as a record, a metallurgical memory of what the blade had done and what the blade had been asked to do and what the blade would be asked to do again if the world continued to be what it had decided to be.
+Kurosetsu lay across his thighs. Unsheathed. The mixed-grain steel was beaded with rainwater that the blade's unfinished surface could not shed cleanly, and the water collected in the shallow valleys between the martensite and austenite grain boundaries and sat there like something waiting. He had not cleaned the blade since the Tenrai settlement. There was still a faint discoloration along the first three inches of the edge, a shadow that was not rust and not tarnish but the chemical residue of blood that had been wiped away without solvent, and the residue had bonded to the grain structure in a way that Fractura could read as a record, a metallurgical memory of what the blade had done and what the blade had been asked to do and what the blade would be asked to do again if the world continued to be what it had decided to be.
 
 He looked at his hands. They were larger than they had been five years ago. The knuckles, which had always been prominent from Coagulatio compression training, had thickened further through years of field combat until the second and third metacarpals on both hands stood out like ridgeline, and the skin over them had gone smooth and hard and slightly translucent, the dermal layer thinned by repeated impact until the bone structure beneath was visible in certain light. The calluses on his palms had merged into continuous plates of hardened tissue that ran from the base of each finger to the heel of the hand, and the plates were cracked in places from cold and from dryness and from the specific kind of neglect that comes from a man who has stopped maintaining his body as an instrument and started treating it as a consumable.
 
@@ -14,9 +14,9 @@ He looked at his hands. They were larger than they had been five years ago. The 
 
 The thought arrived without ranking. No Judicium channel. No priority structure. Just the raw, unprocessed observation of a nineteen-year-old sitting in the rain looking at his own fists and recognizing them as the fists of someone he had not planned to become.
 
-*Father. Mother. Tomuka. Kharven. The Ashen Mandate. The War Court. The Covenant Archives. The warding lattice. The corridors I knew by distance. The throne room where Muken's scars glowed when the kingdom pressed too hard. The training yard where the ash from the morning fire settled on my boots. All of it. Every stone. Every corridor. Every distance I memorized. Gone. Not destroyed. Taken. Redistributed. Filed under exile and sealed with a decree that seventeen branch heads signed and none of them looked me in the eye while signing because looking me in the eye would have required them to acknowledge that the document they were putting their names to was the document Azure Tenrai Büri had designed five years before Muken died.*
+*Father. Mother. Tomuka. Kharven. The Ashen Mandate. The War Court. The Covenant Archives. The warding lattice. The corridors I knew by distance. The throne room where Muken's scars glowed when the kingdom pressed too hard. The training yard where the ash from the morning fire settled on my boots. All of it. Every stone. Every corridor. Every distance I memorized. Gone. Not destroyed. Taken. Redistributed. Filed under exile and sealed with a decree that seventeen branch heads signed and none of them looked me in the eye while signing because looking me in the eye would have required them to acknowledge that the document they were putting their names to was the document Azure Tenrai Moto had designed five years before Muken died.*
 
-His jaw set. The tendons along the hinge tightened until the muscle beneath his ear stood visible, and the rain ran down his face along the tendon line and dripped off the point of his chin onto Khar Ild's flat, and the water on the blade trembled once from the impact and settled.
+His jaw set. The tendons along the hinge tightened until the muscle beneath his ear stood visible, and the rain ran down his face along the tendon line and dripped off the point of his chin onto Kurosetsu's flat, and the water on the blade trembled once from the impact and settled.
 
 *They set every piece. Every single piece. The assassination. The corridor. Tomuka. The framing. Sonzai's anger pointed at the wrong targets. My precision weaponized against me. Mother's grief timed to coincide with the political window. And then the settlement. The burning. The thing we did because the thing they did had removed every other option, and the thing we did became the justification for the exile they had been engineering since before Father's body was cold. Every step we took was a step they had already mapped. Every verdict I delivered was a verdict they had already factored into the probability model. We were not fighting them. We were performing their choreography and calling it war.*
 
@@ -26,9 +26,9 @@ He did not cry. The observation was not new. He had arrived at it months ago, du
 
 The thought arrived without ranking. No Judicium channel. No priority structure. Just the raw, unprocessed observation of a nineteen-year-old sitting in the rain looking at his own fists and recognizing them as the fists of someone he had not planned to become.
 
-*Father. Mother. Tomuka. Kharven. The Ashen Mandate. The War Court. The Covenant Archives. The warding lattice. The corridors I knew by distance. The throne room where Muken's scars glowed when the kingdom pressed too hard. The training yard where the ash from the morning fire settled on my boots. All of it. Every stone. Every corridor. Every distance I memorized. Gone. Not destroyed. Taken. Redistributed. Filed under exile and sealed with a decree that seventeen branch heads signed and none of them looked me in the eye while signing because looking me in the eye would have required them to acknowledge that the document they were putting their names to was the document Azure Tenrai Büri had designed five years before Muken died.*
+*Father. Mother. Tomuka. Kharven. The Ashen Mandate. The War Court. The Covenant Archives. The warding lattice. The corridors I knew by distance. The throne room where Muken's scars glowed when the kingdom pressed too hard. The training yard where the ash from the morning fire settled on my boots. All of it. Every stone. Every corridor. Every distance I memorized. Gone. Not destroyed. Taken. Redistributed. Filed under exile and sealed with a decree that seventeen branch heads signed and none of them looked me in the eye while signing because looking me in the eye would have required them to acknowledge that the document they were putting their names to was the document Azure Tenrai Moto had designed five years before Muken died.*
 
-His jaw set. The tendons along the hinge tightened until the muscle beneath his ear stood visible, and the rain ran down his face along the tendon line and dripped off the point of his chin onto Khar Ild's flat, and the water on the blade trembled once from the impact and settled.
+His jaw set. The tendons along the hinge tightened until the muscle beneath his ear stood visible, and the rain ran down his face along the tendon line and dripped off the point of his chin onto Kurosetsu's flat, and the water on the blade trembled once from the impact and settled.
 
 *They set every piece. Every single piece. The assassination. The corridor. Tomuka. The framing. Sonzai's anger pointed at the wrong targets. My precision weaponized against me. Mother's grief timed to coincide with the political window. And then the settlement. The burning. The thing we did because the thing they did had removed every other option, and the thing we did became the justification for the exile they had been engineering since before Father's body was cold. Every step we took was a step they had already mapped. Every verdict I delivered was a verdict they had already factored into the probability model. We were not fighting them. We were performing their choreography and calling it war.*
 
@@ -46,7 +46,7 @@ It was thin. High. Cracked at the edges in the specific way that voices crack wh
 
 "Please..."
 
-The word arrived at Temür's ears and the Zasag read it automatically. Not the content. The physiological signature. Vocal cord tension consistent with moderate to severe dehydration. Fundamental frequency range indicating female, young, between twelve and sixteen. Harmonic distortion pattern consistent with prolonged vocal strain from repeated calling. The voice had been saying this word, or words like it, for a long time. Hours. Possibly longer.
+The word arrived at Temür's ears and the Kamigan read it automatically. Not the content. The physiological signature. Vocal cord tension consistent with moderate to severe dehydration. Fundamental frequency range indicating female, young, between twelve and sixteen. Harmonic distortion pattern consistent with prolonged vocal strain from repeated calling. The voice had been saying this word, or words like it, for a long time. Hours. Possibly longer.
 
 "Please give me something to eat... anything... I need food... please..."
 
@@ -58,7 +58,7 @@ Temür stood.
 
 The motion was slow. Not from exhaustion, though he was exhausted, and not from stiffness, though the rain had cooled his joints to the point where the first movement of any session required deliberate override of the body's thermal-conservation instincts. The slowness was the particular slowness of a man who had been sitting still long enough for the stillness to become a position rather than a pause, and leaving the position required a decision, and decisions required ranking, and ranking required the system that had been sitting idle in the rain for forty minutes while its operator stared at his own hands.
 
-He sheathed Khar Ild. The guard settled into the scabbard mouth with the small, final *tck* that had once meant the verdict is complete and the world may now resume, and now meant only that the blade was put away and his hands were free.
+He sheathed Kurosetsu. The guard settled into the scabbard mouth with the small, final *tck* that had once meant the verdict is complete and the world may now resume, and now meant only that the blade was put away and his hands were free.
 
 He walked south through the rain.
 
@@ -70,7 +70,7 @@ The structures were built in a row of six along the township's southern wall, ea
 
 The voice was coming from the third pen.
 
-Temür stopped at the grating and the Zasag read what was inside.
+Temür stopped at the grating and the Kamigan read what was inside.
 
 She was pressed against the far wall of the pen with her knees drawn to her chest and her arms wrapped around her shins and her chin resting on her kneecaps, and the posture was not comfort, it was compression, the body's instinctive effort to reduce its surface area when the environment had become hostile on every axis. She was small. Not child-small but deprivation-small, the kind of small that happens when a body that should have been larger has been denied the caloric input necessary to reach its intended dimensions, and the result was a frame that carried the proportions of a taller person compressed into a shorter space, long-limbed but narrow, the joints prominent, the muscles visible only as ridgelines between the tendons rather than the smooth contours of adequate nutrition.
 
@@ -88,23 +88,23 @@ The shift was immediate. The amber-brown irises, which had been fixed on the mid
 
 Her hands released her shins and came forward to the grating, and the fingers that wrapped around the iron bars were thin enough that the bars did not impede them, and the grip she applied was the grip of someone who was holding the bars to hold herself upright rather than to reach through them, because the body had allocated its remaining energy to the act of being seen and the act of being seen required verticality.
 
-"I can work. I can carry. I can clean. I can..." She stopped. The sentence structure failed. Her eyes stayed on his face, and behind the desperation and the hunger and the specific, practiced degradation of a person who has learned to offer their labor as the opening bid in a negotiation for basic survival, something else was visible, something that the Zasag read automatically and filed without being asked: she was ashamed. Not of the begging. Of the fact that the begging was necessary. Of the fact that her body had reduced her to a set of functions offered to a stranger through iron bars in exchange for the caloric minimum required to continue existing until the next stranger and the next set of bars and the next offer of functions.
+"I can work. I can carry. I can clean. I can..." She stopped. The sentence structure failed. Her eyes stayed on his face, and behind the desperation and the hunger and the specific, practiced degradation of a person who has learned to offer their labor as the opening bid in a negotiation for basic survival, something else was visible, something that the Kamigan read automatically and filed without being asked: she was ashamed. Not of the begging. Of the fact that the begging was necessary. Of the fact that her body had reduced her to a set of functions offered to a stranger through iron bars in exchange for the caloric minimum required to continue existing until the next stranger and the next set of bars and the next offer of functions.
 
 *She hates this. She hates what she is doing. She is doing it because the alternative is not doing it and not doing it is dying, and dying is easier than this but she has not chosen it yet, which means something inside her has decided that existing is still preferable to the alternative, and that decision is costing her more than the starvation is.* Temür looked at her through the grating.
 
-The Zasag read. It read the structural integrity of the pen. It read the lock mechanism on the gate, a simple iron pin-and-hasp arrangement that would yield to approximately 400 newtons of lateral force or one well-placed strike from a blade pommel. It read the township's patrol schedule based on the boot-tracks in the mud outside the pens, which indicated a two-guard rotation on a forty-minute cycle with the last pass occurring approximately twelve minutes ago. It read the distance from the pen to the inn where Emira was sleeping behind a locked door. It read the risk matrix of intervening in a disputed-territory holding operation against the risk matrix of walking away.
+The Kamigan read. It read the structural integrity of the pen. It read the lock mechanism on the gate, a simple iron pin-and-hasp arrangement that would yield to approximately 400 newtons of lateral force or one well-placed strike from a blade pommel. It read the township's patrol schedule based on the boot-tracks in the mud outside the pens, which indicated a two-guard rotation on a forty-minute cycle with the last pass occurring approximately twelve minutes ago. It read the distance from the pen to the inn where Emira was sleeping behind a locked door. It read the risk matrix of intervening in a disputed-territory holding operation against the risk matrix of walking away.
 
 The risk matrix of walking away returned a clean result. Low exposure. Zero entanglement. No political consequence. No resource expenditure. The ranking was clear: the efficient choice, the verdict that compressed the situation into its shortest resolution, was to turn around and walk back to the inn and sit on the step and wait for the rain to stop and resume the travel in the morning.
 
-The ranking was correct. The ranking had always been correct. Every ranking Temür Büri had ever produced had been correct, and the correctness had been the thing that nineteen milliseconds and five years and a burning settlement and an exile decree had proven was not the same as right.
+The ranking was correct. The ranking had always been correct. Every ranking Sodoku Moto had ever produced had been correct, and the correctness had been the thing that nineteen milliseconds and five years and a burning settlement and an exile decree had proven was not the same as right.
 
 *Correct is not right. Correct is the ranking. Right is the thing Father did at the village when he stood among the dead and said nothing and offered nothing and the nothing was heavier than any speech because the nothing meant I see you and I will not walk past you. He did not rank them. He did not calculate the risk matrix of standing in a village of dead people. He stood there because standing there was what the crown does when it encounters suffering, and the crown does not route around suffering, and the crown does not calculate the efficient path past suffering, and the crown does not produce a verdict that says this suffering is not my jurisdiction.*
 
 He looked at the lock. He looked at the girl. He looked at the rain.
 
-The Zasag offered its ranking one more time: walk away. Low cost. Clean resolution. Efficient.
+The Kamigan offered its ranking one more time: walk away. Low cost. Clean resolution. Efficient.
 
-He reached for Khar Ild's pommel.
+He reached for Kurosetsu's pommel.
 
 The practice blade came out of the scabbard with the faint, dissonant ring of its mixed-grain steel, and the sound cut through the rain's white noise and reached every pen in the row, and inside the pens heads turned and eyes opened and bodies that had been compressed into survival postures uncurled one degree toward the sound because the sound was metal and metal in the vicinity of holding pens usually meant one of two things and one of those things was worse than the other but the other was what they had stopped hoping for.
 
@@ -112,7 +112,7 @@ He struck the lock.
 
 The pommel hit the hasp at the junction point where the pin met the housing, and the force he applied was exactly 400 newtons, Coagulatio-compressed into a contact zone the width of the pommel's base, and the hasp snapped with a sound like a knuckle cracking, and the pin fell into the mud, and the gate swung open six inches on hinges that screamed rust into the rain.
 
-The girl stared at him through the open gate. Her hands were still on the grating. Her mouth was open. The amber-brown eyes, which had been performing the desperate focus of someone offering their labor to a stranger, were now performing something else, something that the Zasag could not rank because the Zasag did not have a category for the expression on a face when a door opens that was not supposed to open.
+The girl stared at him through the open gate. Her hands were still on the grating. Her mouth was open. The amber-brown eyes, which had been performing the desperate focus of someone offering their labor to a stranger, were now performing something else, something that the Kamigan could not rank because the Kamigan did not have a category for the expression on a face when a door opens that was not supposed to open.
 
 "Come out," Temür said.
 
@@ -126,7 +126,7 @@ Temür stepped forward and pulled the gate the rest of the way open. The hinges 
 
 He looked down the row of pens. Five more gates. Five more locks. Five more pin-and-hasp mechanisms that would yield to exactly 400 newtons of lateral force.
 
-The Zasag ranked the patrol schedule. Twenty-eight minutes remaining on the current cycle. Sufficient time.
+The Kamigan ranked the patrol schedule. Twenty-eight minutes remaining on the current cycle. Sufficient time.
 
 Temür walked to the fourth pen. He struck the lock. The hasp snapped. The gate opened.
 
@@ -134,7 +134,7 @@ He walked to the fifth. Struck. Snapped. Opened.
 
 Sixth. Seventh. Eighth. Each lock broke with the same knuckle-crack sound. Each gate swung on rusted hinges. Each pen released its contents into the rain, and the contents were people, and the people stood in the mud and the dark and the water with the particular stillness of bodies that had been stored and were now un-stored and did not yet have a framework for what un-stored meant or where un-stored people were supposed to go.
 
-Temür sheathed Khar Ild. The guard settled into the scabbard mouth. *Tck.* The sound was small and final and meant something different tonight than it had meant in the corridors of Kharven or on the ridge above the Tenrai settlement. In Kharven it had meant the verdict is complete. On the ridge it had meant the sentence has been delivered. Tonight, in the mud outside a row of broken holding pens in a township that did not know his name, it meant something that Judicium could not rank and Verdict Compression could not compress and the Zasag could not file.
+Temür sheathed Kurosetsu. The guard settled into the scabbard mouth. *Tck.* The sound was small and final and meant something different tonight than it had meant in the corridors of Kharven or on the ridge above the Tenrai settlement. In Kharven it had meant the verdict is complete. On the ridge it had meant the sentence has been delivered. Tonight, in the mud outside a row of broken holding pens in a township that did not know his name, it meant something that Judicium could not rank and Verdict Compression could not compress and the Kamigan could not file.
 
 It meant: this is what the crown does.
 
@@ -144,7 +144,7 @@ The crown that sees suffering and does not walk past it.
 
 Temür turned north. He walked back toward the inn through the mud and the rain, and behind him the sound of bare feet and uncertain breathing followed at a distance that was not trust and not fear but the specific distance that freed people maintain from the person who freed them until they have determined whether freed is a permanent condition or a temporary one.
 
-He did not look back. He did not need to. The Zasag read their footsteps through the mud and ranked nothing and filed nothing and for thirty seconds the Crown Eye simply perceived without judging, and the perceiving without judging was the hardest thing the Zasag had ever done, and it was the first thing Temür Büri had done in five years that his father would have recognized.
+He did not look back. He did not need to. The Kamigan read their footsteps through the mud and ranked nothing and filed nothing and for thirty seconds the Crown Eye simply perceived without judging, and the perceiving without judging was the hardest thing the Kamigan had ever done, and it was the first thing Sodoku Moto had done in five years that his father would have recognized.
 
 The inn's front step was wet and empty and the door behind it was closed and the lock behind the door was holding and Emira was behind the lock, sleeping, breathing, alive, and the rain continued, and the township did not know what had happened to its holding pens yet, and by the time it found out the Lion and his sister and the people he had freed would be gone.
 
@@ -152,7 +152,7 @@ Temür sat back down on the step. The coat was heavier than before. The rain was
 
 The demihuman girl reached the inn's overhang and stopped at the edge of the dry ground, her bare feet at the boundary between the mud and the stone, her ash-grey hair plastered to her face, her amber-brown eyes fixed on the boy sitting on the step who had broken her lock and told her to come out and had not asked for anything in return, and the expression on her face was not gratitude and not relief and not the performed thankfulness of a person who has been trained to display appreciation to people with power. It was the expression of someone who had just encountered a thing they had stopped believing existed, and was now standing at the edge of it, deciding whether to step onto the dry ground or stay in the rain where the rules were familiar and the disappointment was at least predictable.
 
-The rain ran off the overhang in a curtain that separated them by two inches of falling water. Temür looked at her. The Zasag read. The ranking system engaged, and for the first time in months the ranking it produced was not a threat assessment or a fault-line analysis or a priority queue of things that needed to be concluded.
+The rain ran off the overhang in a curtain that separated them by two inches of falling water. Temür looked at her. The Kamigan read. The ranking system engaged, and for the first time in months the ranking it produced was not a threat assessment or a fault-line analysis or a priority queue of things that needed to be concluded.
 
 It was a grocery list.
 
@@ -238,7 +238,7 @@ Temür did not turn his head.
 
 Temür looked at the rain.
 
-The Zasag read the water's fall-pattern, the wind's direction, the temperature differential between the rain-cooled air and the overhang's trapped warmth. The data filed. He did not want the data. The data arrived regardless.
+The Kamigan read the water's fall-pattern, the wind's direction, the temperature differential between the rain-cooled air and the overhang's trapped warmth. The data filed. He did not want the data. The data arrived regardless.
 
 His mother's voice sat in the garnet bead. The island sat in the memory. Trust is the only fortification that does not require maintenance. The words were beautiful and they were true and they were spoken by a woman who was dead because trust had not been sufficient to stop a blade from reaching her son's throat or a conspiracy from reaching her husband's life or grief from reaching the place inside her that the ritual vestments could not protect.
 
@@ -254,7 +254,7 @@ What he said was worse, because what he said was the thing the pain produced whe
 
 "Listen, girl."
 
-His voice had nothing in it. Not cold, which would have been a temperature, and temperature implied energy, and energy implied the expenditure of something on the act of speaking, and Temür was not expending anything on this. The words came out the way Khar Ild came out of its scabbard: mechanically, efficiently, along the path of least resistance.
+His voice had nothing in it. Not cold, which would have been a temperature, and temperature implied energy, and energy implied the expenditure of something on the act of speaking, and Temür was not expending anything on this. The words came out the way Kurosetsu came out of its scabbard: mechanically, efficiently, along the path of least resistance.
 
 "I did not save you to hear you cry about it. Eat. Shut up."
 
@@ -304,9 +304,9 @@ He did not acknowledge the name. He did not repeat it. He did not look at her.
 
 "There is a blanket upstairs," he said. "It is not good. The room is not good. The lock works. My sister is small and does not take up the entire bed. Sleep beside her. In the morning I will decide what happens next."
 
-He picked up Khar Ild from his thighs and laid the blade across his knees in the other direction, resettling the weight. The rain ran down the mixed-grain steel and collected at the lowest point of the blade's curvature and dripped off the edge in a thin, continuous line that hit the step's stone and spread into nothing.
+He picked up Kurosetsu from his thighs and laid the blade across his knees in the other direction, resettling the weight. The rain ran down the mixed-grain steel and collected at the lowest point of the blade's curvature and dripped off the edge in a thin, continuous line that hit the step's stone and spread into nothing.
 
-Yōko stood. The motion was careful, deliberate, the body allocating its resources with the precision of a system that had learned through repetition that careless movement cost more than careful movement and the difference was not pride but survival. She gathered the remaining bread and the salted pork and the water skin and held them against her chest with both arms, the way a child holds something precious, and the pork and the bread and the water were not precious by any metric that the Zasag could rank but they were everything she had and everything she had fit in two arms and that was a measurement that did not require Judicium.
+Yōko stood. The motion was careful, deliberate, the body allocating its resources with the precision of a system that had learned through repetition that careless movement cost more than careful movement and the difference was not pride but survival. She gathered the remaining bread and the salted pork and the water skin and held them against her chest with both arms, the way a child holds something precious, and the pork and the bread and the water were not precious by any metric that the Kamigan could rank but they were everything she had and everything she had fit in two arms and that was a measurement that did not require Judicium.
 
 She paused at the door.
 
@@ -320,7 +320,7 @@ She paused at the door.
 
 *I will go inside. I will sleep beside his sister. I will be the tool he says he needs. And tomorrow, when the morning comes and he decides what happens next, I will still have my name, because I said it out loud in someone else's air and the rain carried it and it did not disappear.*
 
-She opened the door and went inside and the door closed behind her and the lock engaged from within, and the sound of the lock engaging was a small, mechanical click that traveled through the door's timber and reached Temür on the step and was filed by the Zasag as: secure.
+She opened the door and went inside and the door closed behind her and the lock engaged from within, and the sound of the lock engaging was a small, mechanical click that traveled through the door's timber and reached Temür on the step and was filed by the Kamigan as: secure.
 
 He sat in the rain. The coat dripped. The beads hung. The blade lay across his knees. The holding pens were empty. The township was quiet. His sister was sleeping behind a lock, and beside her, settling onto the edge of a mattress that was straw over planking, a girl named Yōko was placing a strip of salted pork under the pillow for the morning, because the morning was not guaranteed, but the pork would keep, and keeping was a form of faith, and faith was the thing that had survived the pen and the chains and the caravan and the mud and the grating and the voice that had said shut up and meant please stay.
 
@@ -334,7 +334,7 @@ He released the bead. The memory faded. The rain continued.
 
 The words left his mouth and dissolved into the rain before they finished meaning anything. He was not speaking to anyone. He was speaking to the garnet bead and the memory it had fired and the voice of a dead woman who had told him about an island where people were not afraid, and the words were not a verdict on her philosophy but a verdict on himself for sitting in the rain thinking about it while the world continued to be what it had decided to be.
 
-The Zasag read the approach before his ears registered the footsteps.
+The Kamigan read the approach before his ears registered the footsteps.
 
 Four Aether signatures, closing from the south in a loose crescent formation. The formation was not military — the spacing was wrong, too wide at the flanks, too compressed at the center, the kind of arrangement that men who had been told to surround someone adopted when they had practiced surrounding livestock but had never surrounded anything that could hit back. Their movement was loud. Boots in mud. The clink of iron hardware against leather. The wet rasp of drawn steel. The unmistakable signature cocktail of cheap lamp oil, sweat, and the acrid cortisol-burn of men who were angry enough to act but not experienced enough to hide the anger from an Aether-sense reader.
 
@@ -342,9 +342,9 @@ Slavers. The holding pen operator's recovery team. Four men sent to retrieve pro
 
 Temür stood. The motion was slow, unhurried, the particular speed of a man who was not reacting to a threat but acknowledging a schedule, as though the men approaching through the rain were an appointment he had forgotten to cancel rather than a combat encounter he needed to prepare for.
 
-Khar Ild remained sheathed.
+Kurosetsu remained sheathed.
 
-The four men materialized out of the rain's grey curtain at fifteen meters and stopped at ten, and the Zasag ran its read in the 0.4 seconds it took for them to settle into their positions, and the read returned a combat profile that Judicium ranked, categorized, and filed with the indifferent efficiency of a system processing inputs well below its operational threshold.
+The four men materialized out of the rain's grey curtain at fifteen meters and stopped at ten, and the Kamigan ran its read in the 0.4 seconds it took for them to settle into their positions, and the read returned a combat profile that Judicium ranked, categorized, and filed with the indifferent efficiency of a system processing inputs well below its operational threshold.
 
 Three of them were nothing.
 
@@ -360,17 +360,17 @@ Darvo was thirty-four years old and built like a door. Broad through the shoulde
 
 *Sustainable and pointless. Six to eight seconds to solve a problem that should not exist in a world where people were not kept in pens. Six to eight seconds to deliver a verdict on men who sell people, and the verdict would be correct, and the men would fall, and the rain would wash the blood into the mud, and tomorrow there would be four new men wearing the same copper-thread insignia because the economy that produced holding pens did not run on individual enforcers, it ran on the demand that made enforcers necessary, and killing supply without addressing demand was a verdict that concluded nothing.*
 
-*Whatever. Whatever. Why do I care. Why am I calculating engagement windows for four men in a township I will leave in the morning. Why is the Zasag running full combat analytics on a D-tier enforcement officer and three F-tier subordinates when the ranking should return: walk away, low cost, clean resolution, efficient. Why am I standing in the rain with 291,000 EU in reserve and a blade that has killed Tenrai commanders and I am tired, and the tired is not physical, the tired is the kind that lives behind the sternum where the Soul Crystal sits and pulses and maintains the operating system that keeps the body functional, and the operating system is asking a question that the Zasag cannot rank.*
+*Whatever. Whatever. Why do I care. Why am I calculating engagement windows for four men in a township I will leave in the morning. Why is the Kamigan running full combat analytics on a D-tier enforcement officer and three F-tier subordinates when the ranking should return: walk away, low cost, clean resolution, efficient. Why am I standing in the rain with 291,000 EU in reserve and a blade that has killed Tenrai commanders and I am tired, and the tired is not physical, the tired is the kind that lives behind the sternum where the Soul Crystal sits and pulses and maintains the operating system that keeps the body functional, and the operating system is asking a question that the Kamigan cannot rank.*
 
 *Why am I still alive.*
 
 The question arrived without authorization. No Judicium channel. No priority structure. No ranked queue. Just the raw, unprocessed interrogation of a nineteen-year-old exile standing in the rain being surrounded by men who wanted to hurt him, and the question was not rhetorical, it was structural, it was the load-bearing inquiry that every other question rested on, and the inquiry was: why.
 
-*I was supposed to be king. I was supposed to sit in the Ashen Hall and hold the covenant beads and rank the kingdom's problems and deliver verdicts that mattered and maintain the structure that Muken built and Ayame reinforced and the Büri Line had sustained for twenty years. That was the path. That was the trajectory. Stage VI at sixteen, Stage XIII projected, 2.9 quadrillion AU/s at maturation, Archon-class Totality authority, full Zasag ignition, the Lion of Kharven sitting on the throne that his father's hands had held together through sheer structural violence.*
+*I was supposed to be king. I was supposed to sit in the Ashen Hall and hold the covenant beads and rank the kingdom's problems and deliver verdicts that mattered and maintain the structure that Muken built and Ayame reinforced and the Moto Line had sustained for twenty years. That was the path. That was the trajectory. Stage VI at sixteen, Stage XIII projected, 2.9 quadrillion AU/s at maturation, Archon-class Totality authority, full Kamigan ignition, the Lion of Kharven sitting on the throne that his father's hands had held together through sheer structural violence.*
 
 *Instead I am standing in the mud outside a township I cannot name from memory with a practice blade and 291,000 EU and a sister sleeping behind a lock and a fox-girl I freed because my dead mother told me about an island, and four men who sell people are forming a crescent around me and the crescent is wrong and their spacing is wrong and their steel is wrong and everything about them is wrong and I could end all four of them before the rain hits the ground twice and it does not matter because ending them does not end anything.*
 
-*So why. Why keep breathing. Why keep ranking. Why keep the Zasag running when the Zasag reads nothing worth reading and ranks nothing worth ranking and the verdicts it produces land on targets that do not change the world's fundamental architecture. Emira. Emira is why. Emira is the only ranking that returns a non-zero value. Emira is the load-bearing variable in the equation of whether Temür Büri continues to be a living system or becomes a memorial that no one will build because exiles do not receive memorials.*
+*So why. Why keep breathing. Why keep ranking. Why keep the Kamigan running when the Kamigan reads nothing worth reading and ranks nothing worth ranking and the verdicts it produces land on targets that do not change the world's fundamental architecture. Emira. Emira is why. Emira is the only ranking that returns a non-zero value. Emira is the load-bearing variable in the equation of whether Sodoku Moto continues to be a living system or becomes a memorial that no one will build because exiles do not receive memorials.*
 
 *If I die tonight, she wakes up alone behind a lock in a two-copper room and the lock does not protect her from what comes after morning. If I die tonight, the last Kōkan heir is a nine-year-old girl with no Temperance Stage and no Wellspring harmonization and no combat training and no political infrastructure and no one, no one, no one except a fox-girl who was in a pen three hours ago and who I called a tool because calling her a person would have cost me something I cannot afford to spend.*
 
@@ -384,13 +384,13 @@ It was not a question. The flat grey-green eyes were reading Temür with the par
 
 "Six locks," Darvo continued. The iron buckler shifted on his forearm, the leather straps creaking as he adjusted the weight distribution. "Six pens. Twenty-three head of labor stock. That's four hundred gold marks in merchandise you've cost me, plus the recovery expense, plus whatever the buyers were going to pay at market tomorrow. You understand that, don't you. You understand numbers."
 
-The three flankers had settled into position. Left, right, rear. Their hands on their hilts. Their breathing elevated. Their Aether fields — such as they were — flickered with the irregular pattern of men whose Essence management was being disrupted by adrenaline, producing the characteristic instability that untrained combatants displayed when their bodies pumped cortisol faster than their Soul Crystals could buffer it. The instability manifested as heat-bleed along the forearms and jaw, visible to the Zasag as faint thermal shimmer that an F-tier combatant could not suppress and did not know they were producing.
+The three flankers had settled into position. Left, right, rear. Their hands on their hilts. Their breathing elevated. Their Aether fields — such as they were — flickered with the irregular pattern of men whose Essence management was being disrupted by adrenaline, producing the characteristic instability that untrained combatants displayed when their bodies pumped cortisol faster than their Soul Crystals could buffer it. The instability manifested as heat-bleed along the forearms and jaw, visible to the Kamigan as faint thermal shimmer that an F-tier combatant could not suppress and did not know they were producing.
 
 *The left flanker's weight is on his right foot. He will commit from the right side, crossing his own center-line, which means his guard opens along the left ribcage during the first step. The rear flanker is breathing through his mouth. Endurance deficit. He will gas in under twelve seconds of sustained engagement. The right flanker is gripping his hilt with his ring and pinky fingers rather than his index and middle, which means he was trained left-handed and is fighting right-handed, which means every committed slash will carry 15-20% less force than his frame suggests because the dominant neural pathway is feeding the wrong arm.*
 
 *And Darvo. The buckler's third rivet is stressed. His lead foot is too far forward for a hand-and-a-half sword — he is fighting with a weapon that wants distance while standing at a distance that wants a shorter weapon. His Aether concentration in the shield-arm is 60/40 against the sword-arm, which means he fights shield-first, absorbing and countering, which means he is a patient fighter, which means he is the opposite of what his body and his voice are advertising, and the contradiction is the most interesting thing about him because contradictions are where fault-lines live.*
 
-Temür looked at Darvo the way the Zasag looked at everything: reading every line, every fault, every structural truth hidden beneath the surface presentation. The read took 0.8 seconds. The ranking took 0.3 seconds. The verdict took no time at all because the verdict had been formed before the crescent had finished closing.
+Temür looked at Darvo the way the Kamigan looked at everything: reading every line, every fault, every structural truth hidden beneath the surface presentation. The read took 0.8 seconds. The ranking took 0.3 seconds. The verdict took no time at all because the verdict had been formed before the crescent had finished closing.
 
 "Four hundred gold marks." Temür's voice carried no inflection. No mockery. No threat. The flat, even register of a man who was repeating a number because the number had been presented as though it mattered and he was offering it one opportunity to matter before he decided it did not. "That is what you have valued twenty-three people at. Seventeen gold marks per person. Less than a horse. Approximately equal to a good saddle."
 
@@ -402,7 +402,7 @@ The interruption was surgical. Not rude, not aggressive, not the dominance-displ
 
 *He interrupted me. Nobody interrupts me in this township. He did it without raising his voice. He did it the way someone places a stone on a board — not aggressively, just exactly where it needed to go. Who talks like that. Who stands in the rain surrounded by four armed men and talks like he is explaining arithmetic to someone who should already know it.*
 
-"Seventeen marks per head," Temür continued. He had not moved. His hands had not risen. Khar Ild's guard had not been touched. "That includes the Feline demihuman in pen two with the collapsed lung who would not have survived transit to market. That includes the eleven-year-old in pen five whose wrists were infected from your manacles. That includes the fox-girl in pen three whose caloric deficit was severe enough that another
+"Seventeen marks per head," Temür continued. He had not moved. His hands had not risen. Kurosetsu's guard had not been touched. "That includes the Feline demihuman in pen two with the collapsed lung who would not have survived transit to market. That includes the eleven-year-old in pen five whose wrists were infected from your manacles. That includes the fox-girl in pen three whose caloric deficit was severe enough that another
 
 Silence. The rain filled it.
 
@@ -410,7 +410,7 @@ Darvo's grey-green eyes had narrowed. The assessment template was failing. The t
 
 "You threatening me, boy?"
 
-"No." Temür blinked. The Zasag's ring-lines flared once, a brief amber-gold pulse that lit the rain between them for a fraction of a second, and in that fraction every man in the crescent felt something they could not name — not fear, not awe, not the sharp adrenaline spike of an imminent attack — but the deep, limbic, mammalian recognition that the hierarchy of the situation had been decided without their input and the decision had not gone in their favor. "A threat requires uncertainty about the outcome. There is no uncertainty here. I have read every fault-line in your equipment, your stance, your formation, and your subordinates' stress responses. I know where your buckler's mounting fails. I know which of your men is breathing through his mouth. I know which one is fighting with the wrong hand. I know that your total combined Aether output is less than what I spend on a single Ichii Kessai. And I know that you are a patient fighter pretending to be an aggressive one because the pretending is how you maintain authority over men who are weaker than you, and the pretending fails the moment you encounter someone who reads posture the way you read ledgers."
+"No." Temür blinked. The Kamigan's ring-lines flared once, a brief amber-gold pulse that lit the rain between them for a fraction of a second, and in that fraction every man in the crescent felt something they could not name — not fear, not awe, not the sharp adrenaline spike of an imminent attack — but the deep, limbic, mammalian recognition that the hierarchy of the situation had been decided without their input and the decision had not gone in their favor. "A threat requires uncertainty about the outcome. There is no uncertainty here. I have read every fault-line in your equipment, your stance, your formation, and your subordinates' stress responses. I know where your buckler's mounting fails. I know which of your men is breathing through his mouth. I know which one is fighting with the wrong hand. I know that your total combined Aether output is less than what I spend on a single Ichii Kessai. And I know that you are a patient fighter pretending to be an aggressive one because the pretending is how you maintain authority over men who are weaker than you, and the pretending fails the moment you encounter someone who reads posture the way you read ledgers."
 
 He said all of it at the same volume. The same register. The same flat, iron-drag cadence that carried no heat and no cold and no emotion of any kind, because emotion was a resource allocation and the allocation had been denied, and what remained was pure operational output: data, delivered as language, aimed at the one man in the crescent whose assessment skills were good enough to understand that the data was not a bluff.
 
@@ -424,47 +424,47 @@ The grey-green eyes moved from Temür's face to his hands (still at his sides) t
 
 "Walk south," Temür said. "File your complaint. Tell whatever authority you report to that your pens were opened by a vagrant with a practice blade. Tell them the vagrant said something about seventeen marks. Tell them whatever you need to tell them to make tonight feel like a professional setback rather than a personal failure."
 
-He paused. The rain hit Khar Ild's scabbard with a steady, rhythmic percussion.
+He paused. The rain hit Kurosetsu's scabbard with a steady, rhythmic percussion.
 
 "And tell them that if I find holding pens in the next township, the cost will be higher than four hundred marks."
 
-Darvo held for three seconds. His grip on the hand-and-a-half sword tightened once, the leather wrapping creaking under the pressure, and then released, and the release was the decision, and the decision was the same one the assessment had recommended, which was the same one the Zasag had predicted, which was: leave.
+Darvo held for three seconds. His grip on the hand-and-a-half sword tightened once, the leather wrapping creaking under the pressure, and then released, and the release was the decision, and the decision was the same one the assessment had recommended, which was the same one the Kamigan had predicted, which was: leave.
 
 He turned. The three flankers followed. The crescent dissolved into the rain, four shapes becoming silhouettes becoming suggestions becoming nothing, and the sound of their boots in the mud faded into the township's ambient noise until the only evidence they had been there was four sets of footprints filling slowly with rainwater.
 
 Temür stood in the rain.
 
-His hands were shaking. Not from cold. Not from fear. Not from the adrenaline that should have accompanied a four-on-one standoff and had been denied by the system that denied everything that was not operationally relevant. The shaking was exhaustion — pure, structural, metabolic exhaustion, the body's deferred invoice arriving now that the threat had departed. His Essence reserve sat at 291,000 EU, technically sufficient for continued operation, but the reserve was like a bank account with a large balance and no credit: the number looked adequate until you calculated the ongoing costs of maintaining a Zasag at passive, a Coagulatio compression reflex at idle, a Fractura reading field at minimum, and a body that had not slept in thirty-one hours and had been running combat analytics on four men while simultaneously processing the question of whether existence itself was worth the Essence it cost to sustain.
+His hands were shaking. Not from cold. Not from fear. Not from the adrenaline that should have accompanied a four-on-one standoff and had been denied by the system that denied everything that was not operationally relevant. The shaking was exhaustion — pure, structural, metabolic exhaustion, the body's deferred invoice arriving now that the threat had departed. His Essence reserve sat at 291,000 EU, technically sufficient for continued operation, but the reserve was like a bank account with a large balance and no credit: the number looked adequate until you calculated the ongoing costs of maintaining a Kamigan at passive, a Coagulatio compression reflex at idle, a Fractura reading field at minimum, and a body that had not slept in thirty-one hours and had been running combat analytics on four men while simultaneously processing the question of whether existence itself was worth the Essence it cost to sustain.
 
 *I did not draw the blade. I did not need to draw the blade. I ranked them and told them what the ranking contained and the ranking was sufficient. The verdict was delivered through language rather than steel. Father delivered verdicts through language. Father stood in a village of dead people and the silence was the verdict and the silence was enough.*
 
 *That is. Something.*
 
-He sat back down on the step. The coat dripped. The beads hung. Khar Ild lay across his thighs. The rain continued.
+He sat back down on the step. The coat dripped. The beads hung. Kurosetsu lay across his thighs. The rain continued.
 
 Behind the door, behind the lock, on a mattress of straw over planking beneath a blanket of thinned wool, Emira was sleeping, and beside her a fox-girl named Yōko was lying awake in the dark with a strip of salted pork under the pillow and her ash-grey ears turning toward the door, listening to the rain and the silence and the absence of violence that meant the boy on the step was still there, still breathing, still being the lock that the door did not know it needed.
 
 *Why am I still alive.*
 
-The question sat where it had been sitting. Unanswered. Unranked. The Zasag offered no data. Judicium offered no priority structure. Verdict Compression offered no shortest path to a resolution. The question simply existed, the way grief existed, the way the rain existed, the way the empty holding pens existed fifty meters south with their broken locks and their open gates and their absence of the twenty-three people who had been inside them three hours ago and were now somewhere in the dark learning what it meant to not be in a pen.
+The question sat where it had been sitting. Unanswered. Unranked. The Kamigan offered no data. Judicium offered no priority structure. Verdict Compression offered no shortest path to a resolution. The question simply existed, the way grief existed, the way the rain existed, the way the empty holding pens existed fifty meters south with their broken locks and their open gates and their absence of the twenty-three people who had been inside them three hours ago and were now somewhere in the dark learning what it meant to not be in a pen.
 
-Temür closed his eyes. The Zasag dimmed to standby. For the first time in thirty-one hours, the Crown Eye stopped reading, and the world behind his eyelids was dark and empty and carried no data and required no ranking, and the emptiness was not peace but it was close enough to peace that his body accepted it as a substitute, the way his body accepted everything now: not because it was good, but because it was present, and present was the minimum viable condition for continued operation.
+Temür closed his eyes. The Kamigan dimmed to standby. For the first time in thirty-one hours, the Crown Eye stopped reading, and the world behind his eyelids was dark and empty and carried no data and required no ranking, and the emptiness was not peace but it was close enough to peace that his body accepted it as a substitute, the way his body accepted everything now: not because it was good, but because it was present, and present was the minimum viable condition for continued operation.
 
-His breathing slowed. His shoulders dropped two centimeters. His grip on Khar Ild loosened until the blade rested on his thighs by gravity rather than by grip, and the practice blade's unfinished steel cooled in the rain, and the rain cooled on the steel, and the steel did not care about the cooling because steel did not care about anything, and for three seconds Temür envied it.
+His breathing slowed. His shoulders dropped two centimeters. His grip on Kurosetsu loosened until the blade rested on his thighs by gravity rather than by grip, and the practice blade's unfinished steel cooled in the rain, and the rain cooled on the steel, and the steel did not care about the cooling because steel did not care about anything, and for three seconds Temür envied it.
 
 Then sleep took him, or something close enough to sleep that his body stopped distinguishing, and the Lion of Kharven rested on a two-copper step in the rain with a sword on his lap and his sister behind a door and a fox-spirit beside his sister and four hundred marks worth of empty pens behind him and a question inside him that had no answer and did not need one yet, because yet was the word that separated the living from the dead, and yet meant tomorrow, and tomorrow meant Emira, and Emira meant the ranking returned a non-zero value, and the non-zero value was enough.
 
 The rain continued. The step held. The door stayed closed. The lock stayed engaged.
 
-And somewhere on the Verath Canyon road, a column of escorts carried an eleven-year-old boy with storm-gold hair and Tengeriin flecks in his irises toward a secondary citadel where the futures were too many to count and too dense to rank, and the futures contained a crown that no one had made yet and a madness that no one had named yet, and the convergence that would bring the Lion and the Mad King to the same corridor had not yet begun threading, but the Plane of Fate had noted the probability, and the probability was patient, and patience was the only currency that fate accepted.
+And somewhere on the Verath Canyon road, a column of escorts carried an eleven-year-old boy with storm-gold hair and Tengan flecks in his irises toward a secondary citadel where the futures were too many to count and too dense to rank, and the futures contained a crown that no one had made yet and a madness that no one had named yet, and the convergence that would bring the Lion and the Mad King to the same corridor had not yet begun threading, but the Plane of Fate had noted the probability, and the probability was patient, and patience was the only currency that fate accepted.
 
 Dawn came grey and wet and smelling of woodsmoke and the particular flatness that air carries after twelve hours of continuous rain, the kind of morning where the sky cannot decide whether it has finished weeping or is simply resting between sessions. The mud in the main road had deepened overnight. The holding pens at the southern wall stood open and empty, their gates hanging from rusted hinges like jaws that had been pried apart, and the boot-prints of four men who had walked south in the dark were already filling with grey water that erased them one millimeter at a time.
 
 Temür was asleep on the porch.
 
-Not properly asleep. Not the deep, restorative unconsciousness that the body required to repair muscle tissue and consolidate memory and flush the metabolic waste products that accumulated during sustained Zasag operation. He was in the shallow, twitching half-state that combat-trained bodies defaulted to when the environment had not been secured to the standard that full sleep required, the state where the autonomic system kept the auditory cortex online and the Aether Shell at minimum passive and the hands within reach of the blade, and the brain performed maintenance in four-minute cycles that produced rest the way a canteen produces water: enough to prevent death, not enough to prevent suffering.
+Not properly asleep. Not the deep, restorative unconsciousness that the body required to repair muscle tissue and consolidate memory and flush the metabolic waste products that accumulated during sustained Kamigan operation. He was in the shallow, twitching half-state that combat-trained bodies defaulted to when the environment had not been secured to the standard that full sleep required, the state where the autonomic system kept the auditory cortex online and the Aether Shell at minimum passive and the hands within reach of the blade, and the brain performed maintenance in four-minute cycles that produced rest the way a canteen produces water: enough to prevent death, not enough to prevent suffering.
 
-Khar Ild lay across his thighs. His head was tilted back against the doorframe. The covenant beads had shifted during the night and the garnet strand had wrapped once around his left wrist, the beads pressing into the tendons like a rosary held too tight, and the pressure had left small round indentations in his skin that would fade in an hour but for now looked like a sentence written in a language that only touch could read.
+Kurosetsu lay across his thighs. His head was tilted back against the doorframe. The covenant beads had shifted during the night and the garnet strand had wrapped once around his left wrist, the beads pressing into the tendons like a rosary held too tight, and the pressure had left small round indentations in his skin that would fade in an hour but for now looked like a sentence written in a language that only touch could read.
 
 The door behind him opened.
 
@@ -472,19 +472,19 @@ The hinges announced it first — a sharp, irritable squeal that carried the spe
 
 Then came the smack.
 
-It was an open palm, small but dense, applied to the back of Temür's skull with the particular velocity that indicated neither combat intent nor affection but something older than both — the universal frequency of a woman who had been dealing with young men's nonsense for longer than the young men had been alive and had developed a standardized response that required no thought, no emotional investment, and no follow-up explanation. The palm connected with the occipital ridge just above the hairline and Temür's head rocked forward six inches before his neck caught it, and the Zasag flared to half-focus on reflex and read the threat assessment and returned: Debera, non-hostile, mildly annoyed, and the assessment was filed and the Zasag dimmed back to standby in 0.2 seconds.
+It was an open palm, small but dense, applied to the back of Temür's skull with the particular velocity that indicated neither combat intent nor affection but something older than both — the universal frequency of a woman who had been dealing with young men's nonsense for longer than the young men had been alive and had developed a standardized response that required no thought, no emotional investment, and no follow-up explanation. The palm connected with the occipital ridge just above the hairline and Temür's head rocked forward six inches before his neck caught it, and the Kamigan flared to half-focus on reflex and read the threat assessment and returned: Debera, non-hostile, mildly annoyed, and the assessment was filed and the Kamigan dimmed back to standby in 0.2 seconds.
 
 "Ey."
 
 The voice that came out of Debera Ironvault was not a voice that had ever been designed for indoor use. It was a quarry-blast compressed into a larynx, produced by vocal cords that had spent fifty-eight years shouting across forge-halls and taprooms and guild dispute hearings, and the volume was not anger but architecture — the acoustic equivalent of a load-bearing wall. She did not raise her voice to be loud. She was loud the way granite was hard. It was a material property.
 
-"Ya know you can't just sleep around here, Büri boy."
+"Ya know you can't just sleep around here, Moto boy."
 
 She was standing in the doorway with one hand on the frame and the other holding a clay pipe that had gone out sometime before dawn and was now being held purely out of habit, the way a soldier holds a weapon after the engagement has ended because the hands have forgotten what to do when they are not holding something. She was three foot eleven and built like a millstone — circular through the torso, dense through the shoulders and hips, with arms that carried the particular proportional excess that dwarven physiology produced when the skeleton allocated its structural budget to the upper body and told the legs to manage with what was left. Her face was round, brown, weathered into a topography of creases that mapped fifty-eight years of squinting into forge-light and laughing at things that were only funny if you had buried enough friends to understand the joke, and her eyes were the dark amber of raw honey held up to firelight, small and sharp and set deep beneath a brow-ridge that could have been used as a shelf.
 
 Her hair was iron-grey, coarse as wire, pulled back from her face in a functional braid that had been re-tied so many times the individual hairs had developed a permanent curve, and the braid hung over her left shoulder and reached her waist and had a copper clasp at the end that she used to scratch the back of her neck when she was thinking and to tap on tables when she was impatient, which was most of the time. She wore a wool tunic the color of mud over leather breeches that had been patched at both knees with different leather, and the patches were the only things about her clothing that looked less than a decade old. A guild badge — the Verath Township Artisans' and Travelers' Guild seal, a crossed hammer and compass in tarnished brass — was pinned to her collar at an angle that suggested it had been pinned in a hurry years ago and never straightened.
 
-"Ya know you can't just sleep around here, Büri boy."
+"Ya know you can't just sleep around here, Moto boy."
 
 She was standing in the doorway with one hand on the frame and the other holding a clay pipe that had gone out sometime before dawn and was now being held purely out of habit, the way a soldier holds a weapon after the engagement has ended because the hands have forgotten what to do when they are not holding something. She was three foot eleven and built like a millstone — circular through the torso, dense through the shoulders and hips, with arms that carried the particular proportional excess that dwarven physiology produced when the skeleton allocated its structural budget to the upper body and told the legs to manage with what was left. Her face was round, brown, weathered into a topography of creases that mapped fifty-eight years of squinting into forge-light and laughing at things that were only funny if you had buried enough friends to understand the joke, and her eyes were the dark amber of raw honey held up to firelight, small and sharp and set deep beneath a brow-ridge that could have been used as a shelf.
 
@@ -496,11 +496,11 @@ She smelled of pipe tobacco, rendered fat, black coffee, and the faint sulfur-an
 
 *He looks like his father. Thinner. Meaner. But the jaw is Muken's jaw and the eyes are Muken's eyes with the wrong color behind them, all that amber-gold where Muken's were warm brown, and the warmth that Muken carried in his face is gone from this boy's face the way heat is gone from iron after you leave it in the rain overnight. I watched this kid eat porridge at my table when he was twelve and his father brought him through on the eastern campaign route. He sat right there on that bench and ate three bowls without talking and Muken put his hand on the boy's head and said nothing and the nothing was enough. That hand is in the ground now. That head is sleeping on my porch. Life is a bastard and I am too old and too short for its nonsense.*
 
-Temür's head came forward from the impact. His eyes opened. The Zasag's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
+Temür's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
 
 "Yeah, yeah."
 
-"Ya know you can't just sleep around here, Büri boy."
+"Ya know you can't just sleep around here, Moto boy."
 
 She was standing in the doorway with one hand on the frame and the other holding a clay pipe that had gone out sometime before dawn and was now being held purely out of habit, the way a soldier holds a weapon after the engagement has ended because the hands have forgotten what to do when they are not holding something. She was three foot eleven and built like a millstone — circular through the torso, dense through the shoulders and hips, with arms that carried the particular proportional excess that dwarven physiology produced when the skeleton allocated its structural budget to the upper body and told the legs to manage with what was left. Her face was round, brown, weathered into a topography of creases that mapped fifty-eight years of squinting into forge-light and laughing at things that were only funny if you had buried enough friends to understand the joke, and her eyes were the dark amber of raw honey held up to firelight, small and sharp and set deep beneath a brow-ridge that could have been used as a shelf.
 
@@ -512,7 +512,7 @@ She smelled of pipe tobacco, rendered fat, black coffee, and the faint sulfur-an
 
 *He looks like his father. Thinner. Meaner. But the jaw is Muken's jaw and the eyes are Muken's eyes with the wrong color behind them, all that amber-gold where Muken's were warm brown, and the warmth that Muken carried in his face is gone from this boy's face the way heat is gone from iron after you leave it in the rain overnight. I watched this kid eat porridge at my table when he was twelve and his father brought him through on the eastern campaign route. He sat right there on that bench and ate three bowls without talking and Muken put his hand on the boy's head and said nothing and the nothing was enough. That hand is in the ground now. That head is sleeping on my porch. Life is a bastard and I am too old and too short for its nonsense.*
 
-Temür's head came forward from the impact. His eyes opened. The Zasag's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
+Temür's head came forward from the impact. His eyes opened. The Kamigan's ring-lines settled into their resting configuration, the amber-gold bands visible but not active, the Crown Eye maintaining its passive scan the way a sleeping predator maintains its hearing — not processing, just registering.
 
 "Yeah, yeah."
 
@@ -538,7 +538,7 @@ The words were not addressed to Debera. They were addressed to the space between
 
 His fist clenched. The knuckles went white. The garnet bead strand, still wrapped around his left wrist, pressed into the tendons hard enough that the bead edges left marks that would last hours rather than minutes.
 
-"I promised my father I would always protect him. That was the first ranking I ever made, Debera. Before the Zasag. Before Judicium. Before Verdict Compression. Before any of it. I was six years old and Father put his hand on my head and told me that twins are the same soul in two bodies and that the soul's first job is to protect itself, and I looked at Sonzai and I ranked him as the thing I would protect before anything else, and that ranking has never been updated because rankings that involve your twin do not get updated, they get carved into the Soul Crystal at the foundational layer and they stay there and they do not move."
+"I promised my father I would always protect him. That was the first ranking I ever made, Debera. Before the Kamigan. Before Judicium. Before Verdict Compression. Before any of it. I was six years old and Father put his hand on my head and told me that twins are the same soul in two bodies and that the soul's first job is to protect itself, and I looked at Sonzai and I ranked him as the thing I would protect before anything else, and that ranking has never been updated because rankings that involve your twin do not get updated, they get carved into the Soul Crystal at the foundational layer and they stay there and they do not move."
 
 He released the fist. The white drained from the knuckles. The bead-marks remained.
 
@@ -554,7 +554,7 @@ He stood. The motion was slow but final, the kind of standing that announces dep
 
 Debera sighed. The sigh came from deep in her chest, traveling through the dwarven respiratory system's reinforced ribcage and emerging through her nose in a long, controlled exhale that carried the specific harmonic of a woman who had been sighing at young men's decisions for longer than the young men had been making them. She put the pipe in her belt. She crossed her arms. She looked up at him — the angle was significant, three foot eleven looking up at five foot ten, a geometry that should have produced comedy and instead produced something that felt like a wall addressing the sky.
 
-"Fine, fine." The words were capitulation and refusal simultaneously, the verbal form of a dwarf putting down a tool she was not finished with because the material she was working on had decided to be difficult. "But you'll take food for the road. I'm not havin' Muken Büri's children starve because his eldest son is too busy bein' miserable to pack a bag."
+"Fine, fine." The words were capitulation and refusal simultaneously, the verbal form of a dwarf putting down a tool she was not finished with because the material she was working on had decided to be difficult. "But you'll take food for the road. I'm not havin' Muken Moto's children starve because his eldest son is too busy bein' miserable to pack a bag."
 
 She turned toward the door, then stopped. The stopping was deliberate, the kind of pause that a person makes when they have already decided to say the thing they are about to say and are performing the fiction of deciding for the benefit of the person who is about to hear it.
 
@@ -572,7 +572,7 @@ Temür stood on the porch in the grey morning light.
 
 The rain had stopped, but the air was still thick with moisture, and every surface carried a thin film of water that turned the township into a landscape of dull reflections. The mud road. The holding pens, open and empty. The chimney that leaked smoke from the crack in its mortar. The eastern ridge, visible past the township's boundary markers as a dark line against the grey sky, and past the ridge the Verath Expanse, where the ambient Aether ran thick enough to mutate the fauna and the flora and the terrain itself into something that did not welcome visitors and did not warn them before the welcoming stopped.
 
-He looked east. The Zasag read the ridgeline. Fractura read the geological fault structure visible in the exposed rock face. Judicium read the threat gradient that increased with every meter of elevation gained past the boundary markers.
+He looked east. The Kamigan read the ridgeline. Fractura read the geological fault structure visible in the exposed rock face. Judicium read the threat gradient that increased with every meter of elevation gained past the boundary markers.
 
 *Encounter density: one per kilometer in valleys. Three to four in gulches. D-tier territorial, aggro-locked. Emira cannot run. Yōko cannot fight. I am the only combat asset in a three-person party with an average threat level of F-minus and a total Essence pool that is 99.6% concentrated in one member. If I take a hit that drops my output below 20,000 AU/s, the party's survival probability drops to single digits.*
 
@@ -588,13 +588,13 @@ She looked up at him. The dark-honey eyes held for three seconds. Four. Five.
 
 She reached into the interior pocket of her tunic and produced a folded piece of parchment, water-stained at the edges, sealed with a wax stamp that bore the Verath Guild seal. She held it up between two fingers.
 
-"Guild passage letter. Carries my seal. It won't mean much past the boundary markers, since the monsters can't read, but if you hit any settlements on the eastern route it'll get you through a gate without havin' to explain who you are or why a nineteen-year-old with Zasag bands and a practice blade is traveling with a child and a beastkin through territory that most caravans won't cross without a C-tier escort minimum."
+"Guild passage letter. Carries my seal. It won't mean much past the boundary markers, since the monsters can't read, but if you hit any settlements on the eastern route it'll get you through a gate without havin' to explain who you are or why a nineteen-year-old with Kamigan bands and a practice blade is traveling with a child and a beastkin through territory that most caravans won't cross without a C-tier escort minimum."
 
 Temür took the letter. His fingers touched hers during the transfer, briefly, the contact lasting less than a second, and the dwarf's skin was warm and rough and carried the iron-and-copper mineral undertone that he had smelled when she opened the door, and the warmth was the warmth of a person who slept indoors and ate regularly and was not running on the metabolic fumes of a body that had been converting grief into fuel for half a decade.
 
 "Debera."
 
-"Don't." The word came out fast. Clipped. The vocal equivalent of a door being shut before the draft could get in. "Don't you dare thank me. Don't you dare stand on my porch with Muken's eyes and say thank you like I am doing you a kindness. I am not doing you a kindness. I am doing the minimum. The minimum is food and a letter and not hitting you hard enough to knock sense into that thick Altan skull because sense cannot be knocked into Büris, I learned that from your father, and I am learning it again from you."
+"Don't." The word came out fast. Clipped. The vocal equivalent of a door being shut before the draft could get in. "Don't you dare thank me. Don't you dare stand on my porch with Muken's eyes and say thank you like I am doing you a kindness. I am not doing you a kindness. I am doing the minimum. The minimum is food and a letter and not hitting you hard enough to knock sense into that thick Kōkan skull because sense cannot be knocked into Motos, I learned that from your father, and I am learning it again from you."
 
 She turned away. Walked inside. The door closed. The hinges squealed. The smell of coffee and pipe smoke lingered on the porch for six seconds before the morning air carried it away.
 
@@ -604,13 +604,13 @@ He picked up the sack and slung it over his left shoulder. The weight settled ag
 
 The inn's door opened one more time. Smaller hands. Smaller weight. The sound of bare feet on the planking and then the sound of a nine-year-old's breathing, morning-thick and sleep-warm, and behind the nine-year-old the quieter sound of ash-grey ears turning toward the morning air and amber-brown eyes blinking against the grey light and fox-type tail hanging still against a borrowed nightshift that was too long at the hem and too wide at the shoulders and had been Debera's before Debera had decided, at some point during the night, that a beastkin girl who had been sleeping in mud deserved cotton.
 
-Temür did not look back. He stepped off the porch into the mud and turned east and began walking, and the canvas sack hung from his shoulder and Khar Ild hung at his hip and the covenant beads hung at his throat, and behind him the sound of two sets of feet — one bare and small, one bare and careful — followed at the distance that meant: we are coming with you because you are going and going is what we do now.
+Temür did not look back. He stepped off the porch into the mud and turned east and began walking, and the canvas sack hung from his shoulder and Kurosetsu hung at his hip and the covenant beads hung at his throat, and behind him the sound of two sets of feet — one bare and small, one bare and careful — followed at the distance that meant: we are coming with you because you are going and going is what we do now.
 
 The eastern ridge grew larger with each step. The boundary markers appeared at the township's edge, two iron posts driven into the mud with faded red paint on the caps that meant: past this point, the guild's jurisdiction ends and the wilderness begins and whatever happens after this line is between you and whatever lives on the other side of it.
 
 Temür walked past the markers without slowing.
 
-The Zasag engaged. The Crown Eye's ring-lines brightened from standby to active scan, the amber-gold bands expanding in his irises as the system shifted from township-mode to field-mode, and the first thing the field-mode read was the ambient Aether density, which increased by 12% within the first fifty meters past the boundary and would continue increasing with every kilometer of elevation gained, and the increase meant that the local fauna had been marinating in free Essence for centuries and the things that grew in this soup were not the things that grew in townships and the rules that applied in townships did not apply here.
+The Kamigan engaged. The Crown Eye's ring-lines brightened from standby to active scan, the amber-gold bands expanding in his irises as the system shifted from township-mode to field-mode, and the first thing the field-mode read was the ambient Aether density, which increased by 12% within the first fifty meters past the boundary and would continue increasing with every kilometer of elevation gained, and the increase meant that the local fauna had been marinating in free Essence for centuries and the things that grew in this soup were not the things that grew in townships and the rules that applied in townships did not apply here.
 
 The Verath Expanse opened ahead of them. Grey ridgelines. Dark valleys. The smell of wet stone and wild growth and the faint ozone trace of high-density ambient Aether that made the air taste like the air before a thunderstorm, charged and waiting.
 
@@ -624,9 +624,9 @@ The Lion walked east, and the territory let him pass, and the morning continued.
 
 The scream came from the second floor.
 
-It was high, sharp, and carried the specific frequency that only a child's lungs could produce — the frequency that bypassed every ranked priority and every Judicium channel and every layer of tactical assessment in Temür's architecture and went straight to the brainstem, the oldest part of the brain, the part that did not rank or calculate or compress but simply responded to the sound of a sibling in distress with a full-body autonomic cascade that had his hand on Khar Ild's grip and his weight on the balls of his feet before his eyes had finished opening.
+It was high, sharp, and carried the specific frequency that only a child's lungs could produce — the frequency that bypassed every ranked priority and every Judicium channel and every layer of tactical assessment in Temür's architecture and went straight to the brainstem, the oldest part of the brain, the part that did not rank or calculate or compress but simply responded to the sound of a sibling in distress with a full-body autonomic cascade that had his hand on Kurosetsu's grip and his weight on the balls of his feet before his eyes had finished opening.
 
-The Zasag flared to full active. Combat scan. Threat assessment. The inn's second floor: one Aether signature, F-tier, negligible — Yōko. One signature, sub-Stage, unformed — Emira. No hostile signatures. No displacement residue. No route-closures. No ambient Aether disturbance consistent with infiltration or assault.
+The Kamigan flared to full active. Combat scan. Threat assessment. The inn's second floor: one Aether signature, F-tier, negligible — Yōko. One signature, sub-Stage, unformed — Emira. No hostile signatures. No displacement residue. No route-closures. No ambient Aether disturbance consistent with infiltration or assault.
 
 Not an attack. Not a threat.
 
@@ -680,7 +680,7 @@ The volume was extraordinary. The clay pipe jabbed toward Temür with the accura
 
 The word hit a register that should not have been available to a three-foot-eleven woman and yet was, because dwarven vocal architecture did not obey the same frequency limitations as human vocal architecture, and the word Grandma arrived at every ear in the building at a volume and pitch that would have been appropriate for announcing a natural disaster.
 
-*He called me Grandma. In front of the little girl. In front of the beastkin. In front of my OWN ESTABLISHMENT. Grandma. GRANDMA. I am going to kill him. I am going to put this pipe through his Zasag and out the back of his thick, ungrateful, porridge-eating Altan skull and I am going to tell his father's ghost that I did it for the good of the bloodline because no Büri prince should be allowed to survive calling a guild head Grandma in her own inn—*
+*He called me Grandma. In front of the little girl. In front of the beastkin. In front of my OWN ESTABLISHMENT. Grandma. GRANDMA. I am going to kill him. I am going to put this pipe through his Kamigan and out the back of his thick, ungrateful, porridge-eating Kōkan skull and I am going to tell his father's ghost that I did it for the good of the bloodline because no Moto prince should be allowed to survive calling a guild head Grandma in her own inn—*
 
 Yōko's ears had lifted. Both of them. The full four-centimeter rise from skull-flat to upright, the ash-grey points standing at attention for the first time since the porch, and the lift was not fear and not the safety-tell and not the attention-mode she had used to read Temür last night. It was something else. Something that her body had not produced in long enough that the muscles responsible for it had to warm up before committing, like a machine that had been idle and was now being asked to remember its original function.
 
@@ -692,7 +692,7 @@ Her lips were pressed together. Her cheeks had tightened. The amber-brown eyes, 
 
 *Oh. She is doing it for her. The yelling is for the girl. To break the tension. To give her something to look at that is not me and not frightening and not the memory of whatever made her scream. The dwarf is good. The dwarf is actually good.*
 
-Debera was still going. The volume had not decreased. The pipe was describing increasingly complex geometric patterns in the air as the rant expanded to include the general ingratitude of Büri princes, the specific ingratitude of THIS Büri prince, the fiscal irresponsibility of distributing provisions without compensation, the logistical burden of maintaining a township inn during a territorial dispute, and — briefly, tangentially, but with impressive commitment — the declining quality of pipe tobacco available through Verath's current supply chain.
+Debera was still going. The volume had not decreased. The pipe was describing increasingly complex geometric patterns in the air as the rant expanded to include the general ingratitude of Moto princes, the specific ingratitude of THIS Moto prince, the fiscal irresponsibility of distributing provisions without compensation, the logistical burden of maintaining a township inn during a territorial dispute, and — briefly, tangentially, but with impressive commitment — the declining quality of pipe tobacco available through Verath's current supply chain.
 
 Temür stood in the middle of it with his hand on his sister's head and his face carrying the almost-expression that was not a smile.
 
@@ -780,7 +780,7 @@ Not once recognition spread. Not once the whispers shifted register.
 
 It started with an old man near the produce stall — bent, sun-spotted, wearing the kind of face that had watched enough people pass through a township to develop an instinct for which ones you moved aside for. His eyes tracked from Yōko to Temür and the tracking stopped, the way a compass needle stops when it finds north. His mouth opened. His hand found his companion's elbow.
 
-"Büri," the old man said. Just the name. But the name was enough.
+"Moto," the old man said. Just the name. But the name was enough.
 
 The companion looked. Both men went still.
 
@@ -790,7 +790,7 @@ The whisper propagated outward from the produce stall the way ripples propagate 
 
 "The Butcher."
 
-"The Scourge of the Büri."
+"The Scourge of the Moto."
 
 "I heard he wiped out an entire Tenrai settlement. Not a military post — the settlement. The main branch. Families."
 
@@ -814,7 +814,7 @@ A bruised plum burst against his shoulder and ran down the side of his coat in a
 
 Temür did not blink.
 
-He did not turn his head. He did not slow. He did not flinch. The absence of reaction was not discipline. Discipline implied effort. Discipline implied that the impulse to react existed and was being overridden by a stronger impulse to remain still. There was no impulse. The plum struck his shoulder and the data registered and the ranking system returned no actionable response because bruised fruit thrown by a frightened civilian was below the threshold at which Temür Büri's operating system considered intervention worth the metabolic cost.
+He did not turn his head. He did not slow. He did not flinch. The absence of reaction was not discipline. Discipline implied effort. Discipline implied that the impulse to react existed and was being overridden by a stronger impulse to remain still. There was no impulse. The plum struck his shoulder and the data registered and the ranking system returned no actionable response because bruised fruit thrown by a frightened civilian was below the threshold at which Sodoku Moto's operating system considered intervention worth the metabolic cost.
 
 Another thing struck him. Harder. A stone this time, river-smooth and dense, small enough to throw accurately but heavy enough to carry force. It clipped his ribs on the right side with a sharp crack that would leave a bruise the shape of a thumb and bounced away into the mud. The impact traveled through his coat and his silk underlayer and his skin and reached the intercostal muscles, and the muscles registered the contact as pain, and the pain was filed alongside the several hundred other minor pain signals that his body was currently carrying from three years of insufficient rest and inadequate nutrition and the accumulated structural damage of fighting without proper recovery, and the filing was automatic, and the stone joined the plum in the category of things that happened to him that did not change anything.
 
@@ -932,7 +932,7 @@ They did.
 
 The road toward the gate sloped downward through the lower quarter, past shuttered homes and low market stalls where gossip moved faster than trade. More people had heard by then. The whispers came in waves as they crossed through the district, each wave louder than the last, each wave carrying more specific accusations as the rumor network refined its data and the facts — real and imagined — achieved consensus.
 
-"That's Temür Büri."
+"That's Sodoku Moto."
 
 "The prince?"
 
@@ -992,7 +992,7 @@ The impulse arrived at the base of his throat and sat there for 0.6 seconds — 
 
 But the impulse died before it reached his tongue.
 
-He did not know whether he disliked what she said because it was naïve, or because some splinter of him — lodged deep in the place where the Zasag could not reach because the Zasag had not been built to reach the places where hope lived — understood that he did not entirely want it to be.
+He did not know whether he disliked what she said because it was naïve, or because some splinter of him — lodged deep in the place where the Kamigan could not reach because the Kamigan had not been built to reach the places where hope lived — understood that he did not entirely want it to be.
 
 The gate appeared ahead of them at the bottom of the quarter's slope.
 
@@ -1012,7 +1012,7 @@ Yōko stopped too, turning her body so that Emira remained behind the line of he
 
 "Name," the oldest guard said.
 
-"Temür Büri."
+"Sodoku Moto."
 
 The man's jaw flexed. The flexing was the only movement in his face. Everything else locked — the eyes, the mouth, the muscles of the brow. The lock was not fear. It was the controlled immobility of a man who was processing information that carried significant personal risk and was managing the processing through physical stillness because the alternative was physical reaction and physical reaction in the presence of this particular individual was a coin flip between survival and the kind of report that gets filed posthumously.
 
@@ -1214,7 +1214,7 @@ Emira froze. The freeze was total — every muscle in her small body locking sim
 
 Yōko's tail stiffened. The ash-grey fur rose along the dorsal line, the piloerection response that beastkin shared with their animal relatives, the body's ancient method of appearing larger to whatever had just entered the sensory field.
 
-Temür's hand moved to Khar Ild's grip with the smooth, practiced certainty of an action that had been repeated so many times the neural pathway between intent and execution had been polished frictionless. His fingers closed around the worn leather wrap and his weight shifted to the balls of his feet and his breathing slowed and the Zasag's ring-lines brightened from passive scan to active assessment, the amber-gold bands expanding in his irises until the banded structure was visible from three feet away.
+Temür's hand moved to Kurosetsu's grip with the smooth, practiced certainty of an action that had been repeated so many times the neural pathway between intent and execution had been polished frictionless. His fingers closed around the worn leather wrap and his weight shifted to the balls of his feet and his breathing slowed and the Kamigan's ring-lines brightened from passive scan to active assessment, the amber-gold bands expanding in his irises until the banded structure was visible from three feet away.
 
 No fear. Not in the simple sense. Not in the sense that the word fear was typically applied to human experience. What occupied the space where fear would have been in a normal person was something more specific and more functional: adjustment. The recognition that the environmental parameters had changed and the operating system needed to update its resource allocation to match.
 
@@ -1238,13 +1238,13 @@ Or ignorance.
 
 The difference was sometimes hard to rank.
 
-The brush moved again. Heavier this time. Closer. The Zasag read the displacement pattern — the way the branches moved, the timing of the movement, the weight distribution implied by the angle of deflection — and constructed a silhouette: quadrupedal, approximately 400 kilograms, low-slung through the shoulders, wide through the jaw. Crag Stalker or something in the same behavioral classification. D-tier territorial. Aggro-locked to a specific hunting range.
+The brush moved again. Heavier this time. Closer. The Kamigan read the displacement pattern — the way the branches moved, the timing of the movement, the weight distribution implied by the angle of deflection — and constructed a silhouette: quadrupedal, approximately 400 kilograms, low-slung through the shoulders, wide through the jaw. Crag Stalker or something in the same behavioral classification. D-tier territorial. Aggro-locked to a specific hunting range.
 
 The creature's Aether signature registered as a low, sullen pressure — the ambient hum of a body that had been absorbing free Essence from the environment for long enough that its tissues had been permanently altered, bone density increased, muscle fiber cross-section widened, sensory apparatus expanded beyond the original species template. Not intelligent. Not strategic. Just big and old and saturated with enough wild Aether to make its threat level exceed what its physical dimensions alone would suggest.
 
 Then it stopped.
 
-The brush stilled. The pressure receded. The creature's Aether signature faded from the Zasag's active-scan range — not because it had moved quickly but because it had moved slowly, deliberately, the withdrawal of a predator that had assessed the available prey and calculated the energy expenditure against the caloric return and determined that the three signatures at the road's edge were not worth the investment.
+The brush stilled. The pressure receded. The creature's Aether signature faded from the Kamigan's active-scan range — not because it had moved quickly but because it had moved slowly, deliberately, the withdrawal of a predator that had assessed the available prey and calculated the energy expenditure against the caloric return and determined that the three signatures at the road's edge were not worth the investment.
 
 The B-tier signature at the center of the group had tipped the calculation. The creature had read Temür's Aether the way territorial predators read the presence of a larger predator in their hunting range: not as prey, not as competition, but as information. The information said: the energy cost of engaging this target exceeds the caloric value of the other two targets combined, and the engagement would need to pass through this target first.
 
@@ -1254,7 +1254,7 @@ The creature left.
 
 Yōko let out the breath she had been holding. The exhale was long, controlled, the kind of breath that a body releases when the threat-detection system stands down and the muscles that had been allocated to flight begin returning to baseline. "I hate this place."
 
-Temür's hand left Khar Ild's grip. "Good."
+Temür's hand left Kurosetsu's grip. "Good."
 
 "Good?"
 
@@ -1280,7 +1280,7 @@ Yōko kept speaking softly to Emira as they walked. Kept checking whether she wa
 
 "...a little."
 
-"Let me see." Yōko crouched. Adjusted the shoe's tongue. Retied the lace. The entire interaction lasted twelve seconds and contained no tactical value and no strategic significance and Temür watched it happen and the watching produced a sensation in his chest that the Zasag could not categorize because the Zasag had not been built to categorize the specific pain of observing someone be gentle in a world that had given them no reason to be.
+"Let me see." Yōko crouched. Adjusted the shoe's tongue. Retied the lace. The entire interaction lasted twelve seconds and contained no tactical value and no strategic significance and Temür watched it happen and the watching produced a sensation in his chest that the Kamigan could not categorize because the Kamigan had not been built to categorize the specific pain of observing someone be gentle in a world that had given them no reason to be.
 
 Emira looked at Yōko when the shoe was fixed. "Thank you."
 
@@ -1288,7 +1288,7 @@ Emira looked at Yōko when the shoe was fixed. "Thank you."
 
 Two words. Said easily. Said the way people said things when the saying cost nothing and meant everything.
 
-Temür watched the interaction and did not intervene and did not comment and did not rank the interaction's tactical significance because the interaction's tactical significance was zero and its other significance — the significance that lived in the category the Zasag had not been built to process — was something he was not yet willing to name.
+Temür watched the interaction and did not intervene and did not comment and did not rank the interaction's tactical significance because the interaction's tactical significance was zero and its other significance — the significance that lived in the category the Kamigan had not been built to process — was something he was not yet willing to name.
 
 They were becoming real to one another.
 
@@ -1308,7 +1308,7 @@ He was wrong.
 
 This land of monsters, ruin, and relentless survival would mark him in a far crueler way than claws or hunger ever could. Here, step by slow unwilling step, the arithmetic he had built his life upon would begin to fail. Bloodline would stop being a sufficient answer. Hatred would stop feeling like structure. People would cease, one by one, to fit inside the cold architecture of his judgment.
 
-And by the time the road was done with him, Temür Büri would begin the long, brutal making of something he had never once intended to become.
+And by the time the road was done with him, Sodoku Moto would begin the long, brutal making of something he had never once intended to become.
 
 Not a softer man.
 
@@ -1554,7 +1554,7 @@ Yoko opened her mouth, the protest half-formed before she swallowed it back down
 
 Kroathar felt the new presence arrive the moment it crested the ridge line, distinct from the dead serpent's lingering residue, sharper, more deliberate. Human, by the shape of the essence. And not just any human.
 
-"Shut your trap." He said it to Saiya before she'd even opened her mouth, eyes narrowing toward the approaching figure. "Looks like we've got a visitor." A beat, his head tilting slightly as he read the essence signature more carefully. "Human. Büri, by the feel of it. I know that bloodline's type."
+"Shut your trap." He said it to Saiya before she'd even opened her mouth, eyes narrowing toward the approaching figure. "Looks like we've got a visitor." A beat, his head tilting slightly as he read the essence signature more carefully. "Human. Moto, by the feel of it. I know that bloodline's type."
 
 Temür came to a stop a careful distance away, close enough to speak without raising his voice, far enough that neither of them could close the gap before the other reacted. His eyes moved past Kroathar to the wyrm's halves still steaming on the ridge stone, the scale split clean down the spine, the scorch marks where something black and merciless had carved straight through an A-class monster like it was an inconvenience.
 
@@ -1580,7 +1580,7 @@ Saiya, perched on the wyrm's flank with a half-extracted core in one clawed hand
 
 "I've learned the difference costs less than pride does." Temür's eyes flicked to her briefly, taking in the blood, the casualness of her perch atop a dead serpent twice her size, before returning to Kroathar, the one who actually mattered in this exchange.
 
-Kroathar grunted, low, considering. "Büri blood usually means trouble. Crowns and politics and all the rot that comes with it. You don't carry yourself like court trash, though."
+Kroathar grunted, low, considering. "Moto blood usually means trouble. Crowns and politics and all the rot that comes with it. You don't carry yourself like court trash, though."
 
 "I left that behind on purpose." Something flickered behind Temür's eyes, brief and hard, gone before it could be read clearly. "I'm not here to discuss what I left. I'm here to get two people through this ridge without further complications."
 
@@ -1588,7 +1588,7 @@ Kroathar grunted, low, considering. "Büri blood usually means trouble. Crowns a
 
 "A woman and a child. Neither of them fighters. Neither of them your concern, if you let us pass." Temür's tone didn't change, but something underneath it did, a quiet readiness that hadn't been there a moment before, the kind of stillness that came right before a man decided whether negotiation was over.
 
-Kroathar caught it. Filed it away. Whatever this Büri was running from, or running toward, he wasn't bluffing about being willing to die over it if it came to that.
+Kroathar caught it. Filed it away. Whatever this Moto was running from, or running toward, he wasn't bluffing about being willing to die over it if it came to that.
 
 "Huh." He uncrossed his arms, chains shifting with the movement, and gestured loosely toward the open stretch of ridge behind him. "Walk your damn path, then. I've got no interest in chasing down strays who don't want trouble."
 
@@ -1596,7 +1596,7 @@ Saiya hopped down off the wyrm carcass, wiping a clawed hand clean on her thigh,
 
 "Some of us like boring," Kroathar said flatly, not looking at her.
 
-"You like boring. I tolerate it." She sauntered a few steps closer to Temür, tail flicking with open interest, studying him the way a cat studied something it hadn't decided yet whether to play with or eat. "So. Büri boy. Where exactly are you taking your two strays, hm?"
+"You like boring. I tolerate it." She sauntered a few steps closer to Temür, tail flicking with open interest, studying him the way a cat studied something it hadn't decided yet whether to play with or eat. "So. Moto boy. Where exactly are you taking your two strays, hm?"
 
 Temür's eyes cut to her, measured, giving nothing away. "Somewhere they'll be safe. That's all either of you need to know."
 

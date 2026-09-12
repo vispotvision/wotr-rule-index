@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81eb-9d79-eade4ec8fd73"
 notion_url: "https://app.notion.com/p/Hataraki-no-Sho-The-Martial-Application-of-the-Works-3b158200eb2281eb9d79eade4ec8fd73"
 section: "Hataraki — The Works of the Plane of Fate"
 tags: []
-last_edited: "2026-09-04T04:44:00.000Z"
+last_edited: "2026-09-12T05:41:00.000Z"
 verification: "unverified"
 ---
 
@@ -59,7 +59,7 @@ Reigan heirs disappoint differently. They are too often tempted by intimacy. To 
 Tengan makes strategists unbearable for several decades. The young who first awaken it often think they have become prophets. They have not. They have merely become aware of pressure. **This is still useful. Pressure wins more wars than prophecy ever will.**
 The true Tengan adept does not ask *what will happen?* He asks *which outcome has begun demanding itself of the field?*
 **Saki no Mon** · *Gate of the Next Instant.* Practiced in duel and small-group combat.
-**Mikettei no Ame** · *Rain of the Unchosen.* Belongs to formations, command corridors, cavalry timing, and the engineering of panic. A Khökh son has been seen to use it with nothing but banners, disciplined footwork, and the knowledge that frightened men always flee into the route that feels least chosen by them. That is the vulgar beauty of Hataraki. **One need not always strike to impose a Work. Sometimes one merely arranges the enemy into obedience.**
+**Mikettei no Ame** · *Rain of the Unchosen.* Belongs to formations, command corridors, cavalry timing, and the engineering of panic. A Tenrai son has been seen to use it with nothing but banners, disciplined footwork, and the knowledge that frightened men always flee into the route that feels least chosen by them. That is the vulgar beauty of Hataraki. **One need not always strike to impose a Work. Sometimes one merely arranges the enemy into obedience.**
 
 ### Kamigan · the crown eye
 

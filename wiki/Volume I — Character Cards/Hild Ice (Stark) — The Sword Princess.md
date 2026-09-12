@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-818d-8c37-c4ba50ed39d8"
 notion_url: "https://app.notion.com/p/Hild-Ice-Stark-The-Sword-Princess-3ba58200eb22818d8c37c4ba50ed39d8"
 section: "Volume I — Character Cards"
 tags: ["Characters"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-12T05:43:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 *The Sword Princess · The Bastard · The Season*
 > **Full Name:** Hild Ice (Stark-Moto, unrecognized)
 > **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
-> **Level:** 78 · **Stage:** I Ignition (unstable, bloodline-driven) · **Band:** I
+> **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
 > **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
 > **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
 

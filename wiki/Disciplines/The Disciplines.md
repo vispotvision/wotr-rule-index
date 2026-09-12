@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810f-a709-d122245d7ab8"
 notion_url: "https://app.notion.com/p/The-Disciplines-3b158200eb22810fa709d122245d7ab8"
 section: "Disciplines"
 tags: ["Disciplines", "Magic System", "Bloodlines"]
-last_edited: "2026-09-10T10:56:00.000Z"
+last_edited: "2026-09-12T05:41:00.000Z"
 verification: "unverified"
 ---
 
@@ -123,8 +123,8 @@ The first five entries are the general disciplines, open in principle to any pra
 ## The Practitioner Disciplines
 
 These are the named arts a practitioner *trains*, as opposed to the labours the Continuum authorises. They are catalogued by Family and Method rather than by lineage, and every one of them is available in principle to anyone whose Crystal architecture and Temperance can carry it. **Talos is the single exception, and it is an exception of birth rather than of secrecy: the discipline cannot be taught, only expressed by a Crystal that was built for it.**
-Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Ünen** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
-> **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Takhil is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
+Three of them are not disciplines at all in the strict sense. **Moetana**, **Solution**, and **Asami** are *states* — what a Crystal does when its internal partitions come down. They are grouped here because a practitioner meets them the same way they meet everything else in this section: by going far enough into their own architecture to find them.
+> **Read them in pairs.** Ainigma exists to defeat Solution. Nadi's per-strike arithmetic is the direct inverse of the Iron Bison's single compounded release. Moetana and Solution are two answers to one question about partitions, and Gisei is the third. **Recarvu and the Iron Bison both end in a body that cannot stop accumulating, by two entirely different routes.**
 - [Ainigma — The Riddle Wearing a Face](The Disciplines/Ainigma — The Riddle Wearing a Face.md)
 - [Ken — The Fist That Fights the Architecture](The Disciplines/Ken — The Fist That Fights the Architecture.md)
 - [Talos — The Bronze That Empties the Room](The Disciplines/Talos — The Bronze That Empties the Room.md)

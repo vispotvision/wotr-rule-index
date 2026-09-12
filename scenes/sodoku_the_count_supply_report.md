@@ -110,9 +110,9 @@ The lamp went out.
 
 The flame did not gutter and nobody carried it back from the glass. Somebody had put a hand over it, and the hand had been quick, and Sodoku stood in a ruined courtyard with his daughter's frost around his boots and filed the window and could make nothing whatsoever of it.
 
-Taulagi had seen it too. The old man's chin had come up perhaps a quarter of an inch.
+Heisuke had seen it too. The old man's chin had come up perhaps a quarter of an inch.
 
-*Third house past the fountain. Second floor. Left of the chimney.* Taulagi's hands stayed exactly where they were. *I will find out who lives there before I sleep, and I will not be telling anyone that I intend to.*
+*Third house past the fountain. Second floor. Left of the chimney.* Heisuke's hands stayed exactly where they were. *I will find out who lives there before I sleep, and I will not be telling anyone that I intend to.*
 
 "Please come this way."
 

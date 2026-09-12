@@ -289,7 +289,7 @@ Somewhere in the distance, patient as something that has decided time is not a r
 
 **The origin of the bloodline.** Section III previously placed the Moto's ancestral territories nowhere in particular and had Muken arriving in the north with a household, a wife and children already in train. The wiki's standing ruling governs: the seat is in **the western reach of the Inner World's northern shield**, past the ridgeline that now marks the Undaar-Keth border, and it is standing, ruined and depopulated. Yukazuri Moto has lived alone on that ground since her brother's death. Muken went north with a sister and a reputation and no standing, and the marriage and the children came inside the sixteen-year reign, not ahead of it.
 
-**The Saishiki.** Rebuilt on the amendment. The tradition is Agamalu in origin, carried out of Vāimoana by a daughter of the **Manono Branch**, and the entry now carries her matai title, *Tausi o le Vā Atoa*, and her ava-name in the Agamalu gafa, *Le Ie Tuuina Atu*. The discrepancy between what Kharven's records call her and what her own house calls her is now stated, because it is the political fact underneath the marriage.
+**The Saishiki.** Rebuilt on the amendment. The tradition is Agamalu in origin, carried out of Vāimoana by a daughter of the **Manono Branch**, and the entry now carries her matai title, *Tausi o le Vā Atoa*. Her ava-name is struck (C-002). The discrepancy between what Kharven's records call her and what her own house calls her is now stated, because it is the political fact underneath the marriage.
 
 **Geography.** Section II now names what lies past the western ridgeline and states plainly that the Crown has never filed a claim on it.
 

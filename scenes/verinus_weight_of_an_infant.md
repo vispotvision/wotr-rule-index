@@ -112,7 +112,7 @@ Charles's fingers went to the pectoral chain and turned a link.
 
 "Say more, my lord."
 
-"You will carry a legation and the legation will be genuine. Grain, shipping, and whether this Court can broker anything that does not go through the corridor." Verinus let a breath out. "And you will look at Kharven with your own eyes and tell me whether the Büri are what they were, and you will find out who is standing at the Ore Council's elbow, and you will do all of that while being a bishop of Sanctum Lux in a room full of people who have every reason to lie to a bishop of Sanctum Lux. That is the errand. I am aware of what I am asking."
+"You will carry a legation and the legation will be genuine. Grain, shipping, and whether this Court can broker anything that does not go through the corridor." Verinus let a breath out. "And you will look at Kharven with your own eyes and tell me whether the Moto are what they were, and you will find out who is standing at the Ore Council's elbow, and you will do all of that while being a bishop of Sanctum Lux in a room full of people who have every reason to lie to a bishop of Sanctum Lux. That is the errand. I am aware of what I am asking."
 
 "And my brother is in Kharven."
 
@@ -138,7 +138,7 @@ The harbour came up through the high window. Somebody outside was calling a boat
 
 Verinus looked down the aisle to the third row, where a woman from the far north was sitting with her cheek on her son's head and had not moved in a quarter of an hour.
 
-"His eyes went gold," he said. "You saw it. Your wife saw it and did not need to see it, which is a different sentence and I would like you to think about it later rather than now." He rubbed the chalk off one knuckle with his thumb. "I have seen that in one bloodline. It sits with the Altan Büri, it sits with the crown line specifically, and it has no business whatsoever appearing in a Concord bishop's son in a chapel on this water."
+"His eyes went gold," he said. "You saw it. Your wife saw it and did not need to see it, which is a different sentence and I would like you to think about it later rather than now." He rubbed the chalk off one knuckle with his thumb. "I have seen that in one bloodline. It sits with the Kōkan Moto, it sits with the crown line specifically, and it has no business whatsoever appearing in a Concord bishop's son in a chapel on this water."
 
 "I know what my wife is and I know what I am."
 

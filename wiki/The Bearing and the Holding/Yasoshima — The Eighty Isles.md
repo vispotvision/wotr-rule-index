@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-816d-adac-cdb407408b34"
 notion_url: "https://app.notion.com/p/Yasoshima-The-Eighty-Isles-3bc58200eb22816dadaccdb407408b34"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-04T04:38:00.000Z"
+last_edited: "2026-09-12T05:43:00.000Z"
 verification: "unverified"
 ---
 
@@ -57,7 +57,7 @@ This is why Yuno rites hold across generations without correction, why the house
 | **Personal name** *Filemu* | Peace, quiet, calm. Conferred at birth by the mother's family. **Samoan register: strict CV syllables, penultimate stress, no clusters** |
 | **Aiga** *Yuno* | **Manono Branch** — the rarest line, holder of the grand seasonal rites and the deepest reaches of Tofā Mamao, **and the only branch trained from childhood to expect that its permission to wear the tuiga will be resented** |
 | **Matai title** *Tausi o le Vā Atoa* | Keeper of the Whole Vā. Already canon as a Manono Branch title **and a literal description of the White Concord** |
-| **Ava-name** *Le Ie Tuuina Atu* | **The fine mat that was given away.** Kharven's records call her Queen. **The Yuno gafa records her as the debt the house placed in the north** — *and the discrepancy between the two names is the political fact* |
+| **Ava-name** *struck (C-002, ruled 2026-09-12: the Agamalu addition's strike reaches her own slot)* | Kharven's records call her Queen. **The Yuno gafa records her as the debt the house placed in the north** — *and the discrepancy between the two names is the political fact* |
 
 > *Yuno means gentle. It is a warning wearing a soft word. A woman named Peace who receives thirty hostile clans alone in a courtyard and has them rethreaded into three coalitions by dawn is that thesis walking around.*
 

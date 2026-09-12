@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8138-8dda-f74ea5945f55"
 notion_url: "https://app.notion.com/p/Lyss-Arvale-The-Quiet-Swan-3d958200eb2281388ddaf74ea5945f55"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:30:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Lyss Arvale · The Quiet Swan
 
 > *"Let the wind decide the volume; I will decide the direction."*
-> **Migrated with all content preserved, including the three implements, the four disciplines and the three incident records.** *"Voice"* and *"Memory/Ma"* are not among the Sixty: **Voice is re-sourced to Judicium, the Wellspring of Truth**, with the oath-as-force reading carried by Gnosis Fluency and Dominion Command, and **Memory/Ma is re-sourced to Anamnesis, the Wellspring of Remembrance** (the `Ma` Memory glyph is attested as Anamnesis-linked). **Aurevane is retained** as the card names it; its current law is optical coherence, so it governs the *carry* and *clarity* of her voice, and the card's wind and pressure work is read as Dominion Pressure and Ardency Cascade delivered through that coherence. **"Aether Class: Harmonic Choir-Type"** is not a Class name at her Band: *Harmonic* is Class II, Bands E and D, and she is Stage VII at Band C, so **she is Class III, Resonant**, with "choir-type" kept as the character of her Shell. **Stage VII, Refraction, is retained as stated; the surge toward VIII during choir rites is kept as an arc note, not a Stage.** *"Voyager Era"* on the card conflicts with the card's own Withering Age label; the Voyager Era closed at Year 070 and an active Oath Witness is **Withering Era**. *Innerworld* is written **Inner World**. **Unattested in current canon:** the Trial at Graybridge, Stormgate, the Sänger's Duel, the Oath Witness Corps and white-feather warrant, the High March of Eresse, the Choir-ward, Chamber Cant, the iron-judges. *The Aerial Ward is attested, and the Neutral Chambers, Eresse, Judicium, Aurevane, Anamnesis, Abyntheus, the `Wy` Motion glyph and the `Uur` Disruption glyph all verify.* The card's "Abynthean dissolvers" are read as Abyntheus practitioners, though the forgetting they offer reads as Limina work; flagged. **Values chosen:** Level 198, the top of Band II, because the card calls her young and junior and gives Strength C and Durability B; η ~0.60 at the top of the Expert range; Crystal State Fractured, hairline, because the card says so.
 
 ---
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81d3-91bc-ed91423447f6"
 notion_url: "https://app.notion.com/p/Mirrorwell-Prism-Soulbound-Echo-Anchor-3d958200eb2281d391bced91423447f6"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:32:00.000Z"
 verification: "unverified"
 ---
 
 # Mirrorwell Prism · Soulbound Echo Anchor
 
 ## Mirrorwell Prism · Soulbound Echo Anchor
-
-> **Migration note.** Kept: appearance, the Echo-Spire origin, the soulbound status, all three effects (tether stabilization, extended lifespan on a bound Echo, cheap re-summon of a mirrored state), all three limitations, the physical-damage backlash, and Karo Venrik as sole bearer. Converted: "projection" throughout is retired-system vocabulary for what Karo's current card names Echo-Sovereign; his signature technique is explicit that a fielded Echo "is not an illusion and it is not a summon," so every instance is rewritten as Echo/tether language rather than projection/summon language. "AU cost" is split into **EU** (Essence spent to field an Echo) and **AU/s** (the ongoing Attraction-Layer sustainment rate), per the units his own sheet and the rule index actually use. "Medium Core" does not exist in current canon; replaced with his real architecture: a Class II Harmonic Aether Shell, Spirit-dominant/Attraction-secondary Path, a Crystal actively fracturing at Stage V Splintering. "Echo-Spire Ruins" and the "Echo-forger" title are unattested in the wiki mirror and kept flagged, since the card's origin cannot stand without a find-site. "Great Spirit War" is confirmed canon and needed no change. The re-summon discount and lifespan-extension figures are the card's own stated percentages and duration, not metaphysical quantities pulled off the FOW tables, and are kept as given.
 
 ### What it is
 

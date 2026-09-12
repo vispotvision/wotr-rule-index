@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a8-a663-ca20efda6a0d"
 notion_url: "https://app.notion.com/p/Seraphine-Kharza-Ten-Thousand-Hands-3d958200eb2281a8a663ca20efda6a0d"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:20:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Seraphine Kharza · Ten Thousand Hands
 
 > *"Let help remember the shape of itself."*
-> **Migrated with all content preserved.** *The card states no Temperance Stage and no Level.* **Stage VIII, Transcendence, is assigned and committed:** *she shares her whole relationship circle (Cyrille Lacrim, Moros Pellayne, Marigold Vance, Yukizumi Yukari, Deimos, Maelia Cantorine) with the Reaper's two other retained Volume V specialists, Shiragiku Iori and Natsume Kurogiku, both independently read at Stage VIII on comparable civic-rescue and grief-work magnitude* — **nothing on this card claims she outranks that peer group, so she is set level with it rather than above or below it by guess.** **Class III, Resonant; Coherence Band B; η ~0.70** follow the same peers exactly, since their Class and Band sit together as a matched set on both existing sheets. **Level 224** is chosen at the conservative low end of that peer band (Iori 238, Natsume 240); the stat table is filled below rather than omitted. **"Animatria + Mechanica, laced with Mnemata" are genuine Categories and stand;** *the palms are Animatria shapes under Pack Ten, which is why they move with her attention and stop being anything if the line back to her is cut.* **"Flow" vocabulary is converted to Categories, Craft (Draftcraft: the cartridges are bottled and fired) and Wellspring harmonisations from the Sixty, assigned from the physics the card describes and marked as conversions.** **"Withering Age" converts to the Withering Era.** *Her secondary title on the card, "the Reliquary Gunner", is kept in Identity.* **Unattested in current canon:** the name Seraphine Kharza and its register; the "ordnance unit" of the Rescue & Deluge Cadre; the implement names Manifold, Spindle Corset and Palm Keys, which are the card's own. **Every other proper noun on the card is attested:** the Guild Accord, the Rescue & Deluge Cadre, the Star Chamber, Measures, the Reaper Yukizumi Yukari, Cyrille Lacrim (the Flood-Bell), Moros Pellayne, Marigold Vance and her Escort Lane, Deimos, Maelia Cantorine, the Black Concord, Rot-smoke, drum-Domains.
 
 ---
 

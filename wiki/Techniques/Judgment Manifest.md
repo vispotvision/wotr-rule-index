@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81b7-bca2-d2f0e17c92af"
 notion_url: "https://app.notion.com/p/Judgment-Manifest-3d958200eb2281b7bca2d2f0e17c92af"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:21:00.000Z"
 verification: "unverified"
 ---
 
 # Judgment Manifest
 
 ## Judgment Manifest
-
-> Converted from a Trello ability card credited to Francis, the same practitioner as Principle Overwrite and sharing its unattested character status (no current character card exists for him in the wiki mirror). Judicium and Exuroth verify as live Wellsprings (Judicium is Fulguria, Electromagnetism; Exuroth is Caloria, Thermodynamics). "Path: Fate" and "Temperance Requirement: Stage XIV Zenith" convert directly, Grade EX by the Temperance table. "Aether Class: Dominion Soul" is again not one of the seven current Classes and is read onto Class V, the Radiant, for the reasons given on Principle Overwrite. Turns convert at 5 seconds each (see Principle Overwrite for the derivation), giving roughly 25 seconds of sustained summoning. No Level is given; Band V's floor of 401 is used. "Chaos Wellsprings" in the source has no current equivalent; it is replaced with a named Family whose effect matches the described disruption, Limina, the entropy-and-mind Family, since the card's own "disruption of conceptual clarity" is exactly Limina's signature. Category and Mechanism are supplied under the invention-step rule. "The Iridescent Archive," the destination named on the source card, has no current-canon match and is kept only as a filing location.
 
 ### Summary card
 

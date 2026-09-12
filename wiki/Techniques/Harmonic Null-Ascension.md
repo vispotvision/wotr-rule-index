@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8189-a075-f0ba57eed018"
 notion_url: "https://app.notion.com/p/Harmonic-Null-Ascension-3d958200eb228189a075f0ba57eed018"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:17:00.000Z"
 verification: "unverified"
 ---
 
 # Harmonic Null-Ascension
 
 ## Harmonic Null-Ascension
-
-> Converted from the Trello card "HARMONIC NULL-ASCENSION" (Opalis). Same bearer as the companion cards in this batch: attested only as the one-line legend "Opalis Maethryn, the Radiant Arbiter" in *The Concord Military*, with no character sheet anywhere in the wiki mirror, so every number here is a conservative estimate off the Fracture of Worlds tables rather than a sheet value. "Temperance XII: Emnation" converts to Stage XII, Emanation, Band S, Grade ceiling SSS, stat ceiling 950. The free-text "Aether Class: Emanant Harmonic Destructive Law" is read down to Class V, the Radiant, kept consistent with the Lance and Shear cards for the same bearer. "Path: Self-as-Harmonic-Source, World-as-Instrument" is not a Path; a projected ranged tone-attack reads as Spirit Path. All named Wellsprings (Orrenthal, Cataclysm, Fractura primary; Dissolution, Basilithe, Tarturon, Tenebra, Penance, Petralon, Oneirion secondary) check against the current Sixty, and the weakness list's "Cymorath" is the correctly spelled Fulguria Wellspring. "The Iridescent Archive" destination is the old board's own filing language, kept only as a folder name and not treated as an in-world place.
 
 ### Summary card
 

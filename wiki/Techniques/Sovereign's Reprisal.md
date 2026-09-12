@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8108-86fc-f1857a895f37"
 notion_url: "https://app.notion.com/p/Sovereign-s-Reprisal-3d958200eb22810886fcf1857a895f37"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:20:00.000Z"
 verification: "unverified"
 ---
 
 # Sovereign's Reprisal
 
 ## Sovereign's Reprisal
-
-> **Migration note.** Converted from a Trello Abilities card for Drakvor (see Coagula Dominion for the same practitioner; no character card exists for him in the current wiki mirror, so he remains *unattested in current canon* and is kept only because the source cannot make sense without him). "Aether Class: Pressure Accumulator" is dropped for the same reason as the sibling card: it was old-system flavour text, not one of the seven current Aether Classes, and the mechanism it was gesturing at (stored force, delayed release) is fully covered by the Design Chain below. "Stage VIII Benediction" converts to Stage VIII, Transcendence (Benediction is now only a Vitalia Wellspring name and is retired as a Stage name). Wellsprings (Judicium, Cinerion), Family assignments (Fulguria, Caloria) and the Path tag (Body) check out against current canon without alteration. The harness that stores the blow is read as a Runecraft object, a fixed inscription that discharges on trigger rather than a spell held by ongoing attention, since the card describes it accumulating force passively between hits rather than under active declaration. "Turns" convert to exchanges; the Overchannel-spike figure below is pulled directly from the Fracture of Worlds physical benchmarks table rather than invented.
 
 ### Summary card
 

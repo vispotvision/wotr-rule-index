@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8117-b2f8-d2e30dbece9b"
 notion_url: "https://app.notion.com/p/Oblivion-Step-3d958200eb228117b2f8d2e30dbece9b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:25:00.000Z"
 verification: "unverified"
 ---
 
 # Oblivion-Step
 
 ## Oblivion-Step
-
-> Converted from the Trello card *Hypnather Oblivion-Step* (list: Abilities; labels: Teleport, Shadow, Dream, Animus, Finalized). The three Wellsprings named on the card, Hypnather, Oneirion and Letheveil, are all current canon, unchanged, all three Limina. The card names Hypnather first as the entry-threshold and Oneirion second as the space the step actually crosses; since Oneirion is the Wellspring that carries a working through configuration space "to reach targets no line of sight connects" (the literal teleport), it is recorded here as primary and Hypnather as secondary, with the change noted rather than silently made. "Aether Class: Dreambreaker Aether" was old freeform vocabulary and has no equivalent; it converts to Class III, the Resonant, the Class the FOW table correlates with Band C, the Band the Stage table assigns to Stage VII. "Path: Spirit Path" and "Temperance Requirement: Stage VII Refraction" already used current FOW terms and needed no conversion. Grade required (A-Grade) is read off the Stage VII row of the Stage table. Craft is assigned as Spellcraft: the card's "Activation: Declared" describes a spoken or announced casting act with no substrate, rune or vessel, which is Spellcraft's own definition (Ars Vocis, the speaking). Category is assigned as Transitus, the twenty-fifth Magical Category, the crossing of a body between Planes and the making of the aperture it crosses through, which is exactly what the card describes. The character Aeldoris has no card anywhere in current canon and is unattested; the name is kept because the technique cannot be described without an owner, per the verification law. "Anti-shadow sigils" is kept as a Runecraft counter-ward without naming a specific Wellspring, since the card does not specify one and none should be invented. The destination folder named for this card, The Iridescent Archive, returns nothing in the wiki and is treated as a Trello-era filing label rather than an in-world proper noun; it is not used inside the entry.
 
 ### Summary card
 

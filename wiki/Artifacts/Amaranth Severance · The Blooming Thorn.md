@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81c8-aaa9-efbff19b98eb"
 notion_url: "https://app.notion.com/p/Amaranth-Severance-The-Blooming-Thorn-3d958200eb2281c8aaa9efbff19b98eb"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
 # Amaranth Severance · The Blooming Thorn
 
 ## Amaranth Severance · The Blooming Thorn
-
-> Migration note: the old Essence Alignment "Spirit/Harmonia, Mournful pressure profile, reactive burst release" is struck and replaced with a proper Wellspring Harmonization: Mortalis (The Black Gate) primary, Vitalia, Biochemistry, matched to the blade's blood-drinking mechanism, with Anamnesis (Limina, Entropy/Void/Mind) as the secondary current behind the kill-recording pommel. "The Withering Age" converts to the Withering Era per the Errata to the Received Registers; the forging still falls inside that era on the corrected count. All three glyphs given, *Ma* (Memory), *Wy* (Motion) and *Uur* (Disruption), match the Master Glyph Index exactly, so none needed correction. "Refraction to Severance" as a Temperance range does not exist in Fracture of Worlds; Refraction is Stage VII, and there is no Stage named Severance. The most conservative reading consistent with the card is that the old sequential pair meant Refraction and the Stage immediately after it, so the range converts to Stage VII, Refraction, through Stage VIII, Transcendence. "Crimson Prefecture of Bluvest" is not attested; the Empire of Bluvest is confirmed canon with a High Lord at its head, so the Prefecture is kept as an unattested judicial office of that empire rather than struck outright, since the card cannot state its own historical use without it. Skyglass Archive, Dorrosfenn, Caedor and the Black Concord are all independently confirmed canon and used here as attested. "Dreadveil" is an attested surname (House Dreadveil); "Dreadveil Reliquary" as a specific vault is not independently attested and is kept for the same reason as the Prefecture. "Concord eclipses" has no direct match; the closest attested event is the Eclipse Wars, so the phrase is kept as an old-register nickname for that period rather than replaced outright. "Inclusion Saga" as a volume title does not match the current Book-numbered citation format used elsewhere in this batch; it is kept as the chapter title with the volume number flagged unverified rather than invented. No numeric figures were given on the card; mass, length, balance, Grade range and every EU figure below are conservative estimates, marked as such.
 
 ### What it is
 

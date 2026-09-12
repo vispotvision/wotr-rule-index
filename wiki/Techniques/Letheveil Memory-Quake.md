@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-811f-a838-fde4b94c787b"
 notion_url: "https://app.notion.com/p/Letheveil-Memory-Quake-3d958200eb22811fa838fde4b94c787b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:24:00.000Z"
 verification: "unverified"
 ---
 
 # Letheveil Memory-Quake
 
 ## Letheveil Memory-Quake
-
-> **Migration note.** Converted from the Trello card "Letheveil Memory-Quake" (Aeldoris). "Aether Class: Dreambreaker Aether" is not among the seven current Aether Classes; converted to **Class VI, The Voidic**, per the same reasoning applied to this practitioner's other techniques (the table ties Voidic explicitly to "deep Limina harmonization," and this technique runs on two Limina Wellsprings). Letheveil and Hypnather both verified against the Sixty; their Sub-Stat affinities (Letheveil tests Resilience Anchoring and strengthens Gnosis Cognition; Hypnather strengthens Vitality Regeneration, Tempering Yield and Gnosis Retention) are taken from *The Eight Families & the Sixty Wellsprings*, not invented. "Stage VII Refraction" matches the current Sixteen Stages exactly. Category (Mnemata) chosen from the twenty-six: its own definition names Somnalis as one of its "most natural partners," and Letheveil/Hypnather are its plainest memory-and-sleep fit among the twenty-six. Range (25-meter radius) and the 3-10 second memory window were already in real units. The old "1 turn" duration has no FOW equivalent; the shockwave's own duration is converted at an estimated 5 seconds, marked as an estimate. "Echoform entities" in the source's counters list is not an attested WOTR term; kept as descriptive flavour for a construct class the card needed and flagged here as **unattested in current canon**. **Aeldoris is unattested in current canon**; kept because the card cannot be converted without a caster, with no further biography given.
 
 ### Summary card
 

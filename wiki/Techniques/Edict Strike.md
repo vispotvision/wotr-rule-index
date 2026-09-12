@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814e-a4f8-d6c1dc848b7d"
 notion_url: "https://app.notion.com/p/Edict-Strike-3d958200eb22814ea4f8d6c1dc848b7d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:19:00.000Z"
 verification: "unverified"
 ---
 
 # Edict Strike
 
 ## Edict Strike
-
-> Converted from a Trello signature ability naming Drakvor, the same unattested practitioner as Bastion Imperium; the same flag applies here (no character card exists for him in the wiki mirror). Judicium and Coagula both check out unchanged against current canon. "Stage VIII Benediction" is corrected to Stage VIII, Transcendence, for the same reason given in Bastion Imperium. "Aether Class: Iron Will Aether" converts to the table-derived Class V, the Radiant, for Stage VIII's Band B. "Path: Body" checks out unchanged. "Armor below B-Tier Temperance buckles" is restated as armour built to withstand below B-Grade force, since Grade is the current term for the old "Tier." Duration is restated in seconds.
 
 ### Summary card
 

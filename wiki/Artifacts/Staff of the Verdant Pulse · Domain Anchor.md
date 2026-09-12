@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-817c-867c-f7540c8aa3f4"
 notion_url: "https://app.notion.com/p/Staff-of-the-Verdant-Pulse-Domain-Anchor-3d958200eb22817c867cf7540c8aa3f4"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:33:00.000Z"
 verification: "unverified"
 ---
 
 # Staff of the Verdant Pulse · Domain Anchor
 
 ## Staff of the Verdant Pulse · Domain Anchor
-
-> **Migration note.** The card's "Nature-Aether / Spiritual-Aether" alignment is pre-Fracture vocabulary; Chimwala N'Doro's current character card explicitly repudiates that exact phrase and confirms his true harmonizations, so the staff is reassigned to **Verdantia** (primary) and **Eidolyn** (secondary), both attested on his sheet. Parun glyphs **Ur (Balance)**, **Ie (Insight)** and **Ma (Memory)** are unchanged — all three are attested in the Master Glyph Index with these exact meanings. The origin site is converted: the card's **"Lurien"** is dead canon in current continuity (retconned per the Volume V ledger, pending a re-homing ruling) and is replaced here with **the Ancestral Grove**, the site named on Chimwala's own card; "Grove of Ancestral Roots" is kept as its working name since nothing in current canon contradicts it. The Blooming Siege of Caedor, the Verdant Covenant, and the Book II / Book V placements all match Chimwala's wiki card exactly and required no change. Mass, length and point of balance are not given by the source card; conservative figures for a two-handed hardwood ritual staff are chosen below and flagged. EU costs are given as a percentage of Chimwala's attested 9,300 EU pool, matching the convention used elsewhere in the wiki for named-practitioner constructs.
 
 ### What it is
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812a-8621-e99e982591aa"
 notion_url: "https://app.notion.com/p/Kaien-Rhuven-The-Silent-Apothege-3d958200eb22812a8621e99e982591aa"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Kaien Rhuven · The Silent Apothege
 
 > *"The loudest things in nature die first. I prefer what grows quietly."*
-> **Migrated with all content preserved.** The card is short and gives no Level, Class, Path, Domain, relic or numbers; nothing has been added to fill it. *"Stage VI, Devotion"* is an old name; **the numeral governs: Stage VI is retained as Glory.** The card gives no Aether Class; **at Band D the Shell is Class II, Harmonic,** the conservative reading. The card gives no Path; **Spirit dominant, Body secondary** is read off a healer who channels empathy into restoration through his hands, and is stated here as a choice. *"Verdantia · Catharsis"* are both attested and are cross-Family, Vitalia and Caloria, and the sheet says what that costs. *"The Guild Accord's Aetheric studies"* converts to **Aetherica**, the attested Category of quantitative Aether study; *"the Citadel"* converts to the **Concord Citadel.** The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Senoth is attested by name only:** the Senoth hills are the source of Vellun copper, placed in the western quarter on trade-route evidence alone, and Senoth sits among the nineteen orphaned realm entries pending keep-or-strike on the Volume V index; it is kept as the card gives it and flagged. **Unattested in current canon:** the Verdant Hollow. **Values chosen:** Level 148, mid Band II, for a Stage VI support practitioner the card describes as a herbalist rather than a fighter; η ~0.55 in the Expert range; Crystal State Refined.
 
 ---
 

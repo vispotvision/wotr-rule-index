@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81aa-8c22-e01fa043a30b"
 notion_url: "https://app.notion.com/p/Kaelis-Aranthor-The-Sunbound-Blade-3d958200eb2281aa8c22e01fa043a30b"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:03:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Kaelis Aranthor · The Sunbound Blade
 
 > *"You mistake confidence for arrogance. I simply know which way this is going."*
-> **Migrated with all content preserved.** **"Aether Class: Momentum Sovereign, Wyther-Dominant Kinetic Manipulator"** was free text built around a misfiled noun. **Wyther is one of the Fourteen Archons** (Motion Magic), not a Wellspring, and cannot be a Triune Core member. His momentum discipline is popularly said to court Wyther's favour. The Wellspring actually doing the mechanical work is **Ascensio, the Ladder of Ascent** (Vectoria, Mechanics), the current his Compound Velocity Trait is built on. His η of 0.90 (a 10% loss) sits at the top edge of **Class III, Resonant's** documented 5 to 10% band. That is ahead of the Class II correlate his Stage VI would normally suggest. It reads as a precocious Shell rather than an error, and is kept as the card states it. The old **Five Pillars** and **Key Combat Parameters** vocabulary (Strike Force in petajoules, Mach-scale speed) are retired as named frameworks; the underlying figures are kept, restated against the Physical Benchmarks table. **Global Tier** and the old three-way **Path Bias** convert to the Four Paths below. **Stage VI, Glory** matches current canon exactly. Level set at 165 (Level Band II), consistent with "Low A Tier." **Sun-Kissed Human, Desert Nomad Blood** returns no named people or culture on the wiki. Only the fact that the Outer World's southern deserts are real geography checks out. It is kept as a regional descriptor and flagged as lightly attested rather than struck, since the card cannot make sense without a homeland. Aurevane, Cataclysm, Mortalis and Judicium are all verified against the Sixty.
 
 ---
 

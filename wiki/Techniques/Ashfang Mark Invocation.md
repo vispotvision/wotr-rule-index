@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8154-87fc-c4ac3a251383"
 notion_url: "https://app.notion.com/p/Ashfang-Mark-Invocation-3d958200eb22815487fcc4ac3a251383"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:23:00.000Z"
 verification: "unverified"
 ---
 
 # Ashfang Mark Invocation
 
 ## Ashfang Mark Invocation
-
-> **Migration note.** Converted from a Trello ability card for **Draven Kael Vorrick, The Beast Slayer** (verified against his Volume IV character card). Primary Wellspring **Cinerion** is kept as given; it already matches Draven's attested sheet — Caloria, ash and remnants, the archive of kills. Secondary Wellspring "Vorynn Predatory Essences" is corrected: **Vorynn is attested in current canon only as Draven's Trait-lineage** (Vorynn Bloodbind, the Vorynn Trials), never as a Wellspring, so the borrowing runs through that Trait, with **Petralon** (his attested kinetic Wellspring) supplying the "kinetically amplifies chosen behavior" the old card described. "Aether Class: Primal-Kinetic" converts to his attested **Class III, Resonant**. "Path: Beast-Assimilation" is not one of the Four Paths (Body, Spirit, Attraction, Fate); Draven's sheet has him Body-dominant with no Spirit Axis, so the technique gates on Body alone and the old label survives only as flavor. "Stage VI Glory" matches his attested Catalyst Stage and is kept. The old "4 turns" converts to **20 seconds**, using the 5-seconds-per-turn rate Bloodbind Surge's own card states outright (2 turns = 10 seconds) — no other conversion is documented anywhere in the batch. Category is a judgment call: **Synergia**, chosen as the closest fit for a working that merges his Essence with a borrowed remnant, not verified against a categories glossary. Grade required (B) is read off Draven's own Tempering value, 248.
 
 ### Summary card
 

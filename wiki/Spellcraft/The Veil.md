@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81ed-8d47-f2f491c36eb9"
 notion_url: "https://app.notion.com/p/The-Veil-3d958200eb2281ed8d47f2f491c36eb9"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:27:00.000Z"
 verification: "unverified"
 ---
 
 # The Veil
 
 ## The Veil
-
-> The old card's "Spiritual Stratum" essay converts almost intact onto the current canon page *The Veil*, which keeps the same formal name and most of the same claims: a striated, non-uniform threshold rather than a single dimension, a barrier-and-bridge between the Material World and deeper planes, and a direct line to Animancy, Temperance, and spirit summoning. One genuine wrinkle surfaced in verification: "the Veil" was also an old House name, a feeling-sorted Wellspring grouping distinct from the cosmological Veil itself, and current canon explicitly warns that these old Houses (the Green Pulse, the Veil, the Black Gate) do not map onto the eight Families. The card's own Connections list already keeps the two senses straddled without noticing, so this entry keeps the cosmological sense (the threshold) as the subject and notes the House-name collision rather than let it stand unflagged. "Utopia" is confirmed real canon (the Celestial Host's home, its own arbitration realm) but is not part of the Veil's three-plane architecture; the card's claim that the Veil connects to it is dropped as unattested rather than kept. "The Plane of Fate," "the Wellspring Realms," and "Temperance" all convert cleanly, needing only current phrasing. Rikudoku Moto is a real name in canon (named a philosophical ally on two other character cards) but his identity is flagged in the wiki mirror itself as needing re-identification, so the card's specific claim about him is kept only as an attributed, unverified tradition. Eremund Vellsore and the Bound Watchers have no matching record anywhere in the wiki mirror and are flagged unattested. "The Great Spirit War" likewise has no matching record and is generalized to "a historical breach" rather than asserted as a named war. All Temperance Gate numbers below are copied from the current page's own Access and Perception table, not estimated.
 
 ### What it is
 

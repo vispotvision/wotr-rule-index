@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8197-b8ca-c830003386ea"
 notion_url: "https://app.notion.com/p/The-Aether-Bastion-3d958200eb228197b8cac830003386ea"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:17:00.000Z"
 verification: "unverified"
 ---
 
 # The Aether Bastion
 
 ## The Aether Bastion
-
-> Converted from the Trello card "The Aether Bastion" (Opalis). Same bearer as the other three cards in this batch, but at a far lower Stage: the card's own "Stage VI — Glory" is kept as given, converting cleanly to Band D, Grade ceiling A, stat ceiling 400. Opalis is attested in current canon only as the one-line legend "Opalis Maethryn, the Radiant Arbiter" in *The Concord Military*; there is no character sheet for her anywhere in the wiki mirror, so numbers below are conservative estimates off the Fracture of Worlds tables. "Path: Spirit + Aether" is not a Path pairing the current system recognizes; the working is a standing ward projecting Domain-style authority outward from the caster, so it is read as Attraction Path. "Aether Class: Convective Shield-Type" is not a Class; it is read down to Class V, the Radiant, kept consistent with the bearer's other three cards. Both named Wellsprings, Judicium and Sublimatio, check against the current Sixty; the card's "Parun glyphs of Ur + Ma + Ci" are kept as flavor since Parun glyph syntax is unaffected by the conversion. "The Iridescent Archive" destination is the old board's own filing language, kept only as a folder name and not treated as an in-world place.
 
 ### Summary card
 

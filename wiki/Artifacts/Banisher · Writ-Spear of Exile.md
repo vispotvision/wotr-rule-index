@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-818f-a987-eb80c04b8e7a"
 notion_url: "https://app.notion.com/p/Banisher-Writ-Spear-of-Exile-3d958200eb22818fa987eb80c04b8e7a"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:36:00.000Z"
 verification: "unverified"
 ---
 
 # Banisher · Writ-Spear of Exile
 
 ## Banisher · Writ-Spear of Exile
-
-> **Migration note.** Kept every fact the card gives: the wedge-bladed polearm, three ring-and-chain load, five named effects, the three-use Gate-Nail limit, the Pressure-Reversal backlash on perjured use. *Sealwright*, *Arbitration Division* and the *Neutral Chambers* are all attested current terms (Guild Accord, Arbitration Division, Neutral Chamber Subsect); kept as written. The glyphs Ur, Ma, Uur and Wy are all confirmed in the Master Glyph Index (Balance/Root·Urion, Recall–Memory/Derivative·Maelor, Disruption/Root·Uurgath, Motion/Root·Wyther) and kept unchanged. "Essence Alignment: Vectra" and "Vocatia/Ritus" were old-system category-as-alignment errors. Vectra, Vocatia and Ritus are Magical Categories, not Families. Replaced with an actual Wellspring/Family/Physics Domain assignment: Judicium (Fulguria/Electromagnetism, the same primary Wellspring the Master Glyph Index lists for `[Ur]` itself) as the governing law, Transference (Spatium/Spatial Geometry) as the exile mechanism. "Arbitration Marshals" has no current attestation; converted to **Neutral Chamber arbiters**, the Arbitration Division's own officers. "E.D. Vanguard Sealwrights" converts cleanly to the attested **Vanguard Orders**, Enforcement Division elite teams bearing the Sealwright Mark. "Temperance Flourishing→Severance": Flourishing maps directly to FOW Stage IV; Severance has no FOW Stage, so the ceiling is stated instead by reference to an attested Stage IX Neutral Chamber officer (Riven Eltamyr Vonnel) rather than invented. The card's "Rot lieutenants" faction is not attested as an organized enemy with a command structure. Current canon's only Rot references (Aivyriel · The Rot, Karasaki Hozume · The Verdant Rot) are individual fae-corruption entities, so the Caedor incident is rewritten as three Bloomrot-corrupted enforcers rather than a named faction's officer corps, flagged unattested. Mass, length and point of balance are not given by the card; plausible period-polearm figures are supplied and flagged as estimates. The card's "First Appearance (Inclusion Saga — The Blooming Silence, Ch. 9)" does not map to the current Volume numbering and is dropped rather than invented forward.
 
 ---
 

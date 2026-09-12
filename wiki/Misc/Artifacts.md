@@ -4,15 +4,14 @@ notion_id: "3d958200-eb22-8135-aecf-cee1b6c2cd65"
 notion_url: "https://app.notion.com/p/Artifacts-3d958200eb228135aecfcee1b6c2cd65"
 section: "Misc"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:08:00.000Z"
 verification: "unverified"
 ---
 
 # Artifacts
 
-Artifacts migrated from the old Trello board. See build/publish_imports.py.
-- [Mnemonis Solution · The Recursive Draft](Artifacts/Mnemonis Solution · The Recursive Draft.md)
 - [Verdiction Gauntlet · The Hand of Judgment](Artifacts/Verdiction Gauntlet · The Hand of Judgment.md)
+- [Mnemonis Solution · The Recursive Draft](Artifacts/Mnemonis Solution · The Recursive Draft.md)
 - [Kogane Kei · The Soul-Reed Blade](Artifacts/Kogane Kei · The Soul-Reed Blade.md)
 - [The Marshgrave's Phial · The Bottle That Weeps](Artifacts/The Marshgrave's Phial · The Bottle That Weeps.md)
 - [The Lantern of Echoed Veils · Spirit-Binding Relic](Artifacts/The Lantern of Echoed Veils · Spirit-Binding Relic.md)

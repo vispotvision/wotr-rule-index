@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-aec2-dcf949793255"
 notion_url: "https://app.notion.com/p/Raymond-Montclair-The-Luthier-of-Quiet-Roads-3d958200eb228187aec2dcf949793255"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:58:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Raymond Montclair · The Luthier of Quiet Roads
 
 > *"If you listen long enough, even ruins remember how to breathe."*
-> **Migrated with all content preserved, including both the lute and the traveler's case.** *"Late Imperial Calendar"* is a superseded term under the Errata to the Received Registers; the count itself is unchanged, only the name, so it becomes **the late Imperial Age**. *"Targeted Uninfected: 56"* has no current-system equivalent and is folded into prose below as the rough number of people his resonance has steadied rather than kept as a stat line. His Aether Class reads **Class II, Harmonic**, which sits a band above what Stage IV ordinarily correlates to; his card's own stated efficiency (0.89) is the reason, and the gap is stated rather than smoothed. Nothing else in the card required conversion. All Wellsprings named (Verdantia, Anamnesis, Somnalis, Oneirion) are attested as written.
 
 ---
 

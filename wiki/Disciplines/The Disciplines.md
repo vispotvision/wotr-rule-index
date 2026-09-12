@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810f-a709-d122245d7ab8"
 notion_url: "https://app.notion.com/p/The-Disciplines-3b158200eb22810fa709d122245d7ab8"
 section: "Disciplines"
 tags: ["Disciplines", "Magic System", "Bloodlines"]
-last_edited: "2026-09-12T05:41:00.000Z"
+last_edited: "2026-09-12T16:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -139,5 +139,7 @@ Three of them are not disciplines at all in the strict sense. **Moetana**, **Sol
 - [Moetana — The Vessel of Life's Essence](The Disciplines/Moetana — The Vessel of Life's Essence.md)
 - [Solution — The Mind That Solves Itself](The Disciplines/Solution — The Mind That Solves Itself.md)
 - [Asami and Gisei — The Two States of the Moto](The Disciplines/Asami and Gisei — The Two States of the Moto.md)
+- [Techniques](The Disciplines/Techniques.md)
+- [Spellcraft](The Disciplines/Spellcraft.md)
 
 ---

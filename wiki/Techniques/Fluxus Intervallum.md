@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8136-b434-d020212a01c7"
 notion_url: "https://app.notion.com/p/Fluxus-Intervallum-3d958200eb228136b434d020212a01c7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T16:11:00.000Z"
 verification: "unverified"
 ---
 
 # Fluxus Intervallum
 
 ## Fluxus Intervallum
-
-> Migration note. The source names its Wellspring as "the Wellspring of Strain, Atla'zon's Domain." Atla'zon is a real Titan (Prime Physical Titan, the World-Binder), but a Titan's Ground is Titanic Law, not one of the Sixty, and the attested precedent for Titan-keyed workings gates them at Zenith or higher, far above the Stage this card describes. The technique is reassigned instead to Transference, an attested Wellspring of the Spatium family (Spatial Geometry domain), whose real mechanism, resonant transfer between coupled oscillators where Essence moves along a gradient rather than being pushed, matches the card's own stated philosophy ("there is no between, only connection") almost exactly. "Path: Mind Path" is struck for the same reason given throughout this migration: Mind is not one of the four Paths and reads as Gnosis weighting. "Aether Class: Lattice/Conduit" is dropped; it is invented free text and, in any case, a technique's Codex line does not carry Aether Class. The old Stage label "Stage V, Benediction" is corrected: Benediction is not among the sixteen Stage names (it names a Wellspring resonance and, per Volume V's own established correction, maps to Stage VIII when used as a Temperance label), so the numeral V stands and the name is corrected to Splintering, the FOW Stage V. Grade required is not given; it is set to B-Grade, the maximum Tier Grade of the Stage immediately below the floor (Stage IV, Flourishing), the conservative reading consistent with the delegated numeric rule. Category is assigned as Vectra, the motion, direction, and spatial-gravitation category whose own listed examples include Aetherstep, essentially this technique by another name. Craft is Spellcraft: the activation is silent and internalised, held in the Crystal rather than spoken, written, or bottled, which the Four Crafts register as Spellcraft's high form. Of the listed counters, Fixatio, Tenebra, and the Titan Zar'thuun are verified and kept; "Concord Bind" is unattested in current canon and is dropped; "Archonic Reprimand" is likewise unattested and is replaced with reference to a Judicium-mediated interdiction field, an attested Wellspring effect with the same lawful-interference character. The named technique counters on the card (Resonance Breaker, Concord Severance, Gravitic Shear) are not attested as canon techniques and are rewritten as functional counterplay rather than invented proper nouns. The source gives no inventor, era, or originating problem; Origin below states that gap rather than inventing one.
 
 ### Summary card
 

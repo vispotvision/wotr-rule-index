@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-8139-e393091aeea5"
 notion_url: "https://app.notion.com/p/Argen-Vael-thar-The-White-Arbiter-3d958200eb2281e98139e393091aeea5"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Argen Vael'thar · The White Arbiter
 
 > *"Judgment is not to end the guilty. It is to remind the living of consequence."*
-> **Migrated with all content preserved, including the three relics, the four techniques and the familiar.** *"Temperance Tier: IX, Reflection"* is converted by numeral to **Stage IX, Invocation**. **"Aether Class: Absolute / Resonant Law"** is not a Class; *Absolute* is Class Omega, the Stage XIV threshold, and is struck. **He is Class V, Radiant.** The card gives no Path; **Fate dominant, Spirit secondary** is read from the oath-work and the Rings and marked as a reading. *"Resonance Hearings"* converts to the attested **Trials of Resonance**. *"Human, of the Eressean bloodline"* conflicts with Eresse as an elven polity; carried as **human, born in Eresse, of a family of Eressean law-keepers.** *"The Dawn Guard"* is, in current canon, **Dawn Guard, Sovereign of the Zettari**, a person and a contemporary; the card's "early law-keepers who mediated between the Dawn Guard and the First Accord" is kept verbatim and flagged. The *Withering Age* label converts to the **Withering Era**. Level, allocation and η are **estimates inside the Stage IX range**. **Unattested in current canon:** the *Crevice Wars* (the nearest attested event is the First Crevice Incursion), the *Third Wellspring Collapse*, the *Reconstruction Councils* (note the collision with the Reconstruction Age of the corrected count), the *First Accord*, the *Grand Hall of Harmony*, and the epithet *Merciful Iron*. **Chapter appearances: none given on the card, so none are invented; committed as "none recorded" below, matching how this batch treats every other card with no book citations to convert.**
 
 ---
 

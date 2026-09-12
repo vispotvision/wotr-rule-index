@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8118-966f-fa511f1cb4da"
 notion_url: "https://app.notion.com/p/Saba-no-Rosa-3d958200eb228118966ffa511f1cb4da"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:29:00.000Z"
 verification: "unverified"
 ---
 
 # Saba no Rosa
 
 ## Saba no Rosa
-
-> **Migration note.** Converted from an old Trello "Apex Fate Discipline" card into a Plane of Fate discipline on the current Sixty Wellsprings. Bara Moto and Muken already carry current names (Möngke to Bara under the Moto Reversion Ledger; Muken's given name was never converted), so the teaching relationship is kept as the card gives it. Anamnesis, Mortalis, Fractura and Contrition all check out against the current Sixty and keep their stated roles; Contrition's current epithet is "the Broken Flame" rather than "the Wellspring of Contrition," a Vitalia Wellspring, not a Caloria one. "Monlithion" is a misspelling of Monolithion, the Enduring Monument, Materia; corrected. "Aether Sangui" does not exist on the current Sixty and the wiki has no record of it; since the discipline cannot make sense without a Wellspring that supplies medium paid from the practitioner's own reserves, it is replaced with Oblation, the Offering Flame, Fluxia, which is the Wellspring current canon already uses for exactly this function in Moetana and Gisei. The Shingan and the Moto bloodline check out. Category is assigned as Ritus (the discipline's own five-step process of surfacing, widening, withdrawing, ratifying and sustaining a raised field matches the Intention-Space-Offering-Invocation-Seal shape of a Ritus working more closely than any other defined Category); Craft as Spellcraft, since the sea holds only while the practitioner's attention holds it, which is the defining trait of that Craft. Everything else, the examples, the philosophy, the warning Bara gave Muken, is kept as the card states it.
 
 ---
 

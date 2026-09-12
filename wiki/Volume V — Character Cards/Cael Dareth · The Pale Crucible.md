@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e1-b9a8-c67d08c6a7f0"
 notion_url: "https://app.notion.com/p/Cael-Dareth-The-Pale-Crucible-3d958200eb2281e1b9a8c67d08c6a7f0"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:29:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Cael Dareth · The Pale Crucible
 
 > *"Alchemical prayer,"* he calls the recitations.
-> **Migrated with all content preserved, including the relic.** *"Stage X, Revelation"* names Stage XV in the FOW ladder; the card's numeral governs and **Stage X is retained as Realization.** *"Aether Class: Aurum-Binder (Transmutative Philosopher)"* is not among the seven; **at Band A the Shell is Class V, Radiant.** *"Stoichiometric Resonant"* was not an Essence Typology; the disposition reads as **Materia dominant, Fulguria undertone.** *"Parun Glyph / Domain: Urion, Balance and Memory"* conflates a glyph with an Archon: **Urion is the first Archon, Order Magic,** and the glyphs are `Ur` (Balance) and `Ma` (Memory). *"Aspectal Alignment: Mind / Body"* converts to the Path. *"Fixatio · Judicium"* are both attested and are cross-Family, Materia and Fulguria, and the sheet says what that costs. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Varūn is attested** as the Deepwright Titan and as a Dawi kingdom, **and Wilhelm's card carries the Alchemarch Order of Varūn, now extinct, and flags Varūn as one of nineteen orphaned realm entries pending keep-or-strike;** Alchemarch is an attested Alchemetrica title. **Unattested in current canon:** the Alchemarch Citadel of the Iron Forges, the Causality Loop Experiment, the Philosopher of the Grey Flame, and *Verdiction* as a Wellspring (it is attested only as the name of Wilhelm's manufactured Core and of a Sanctum Lux codex; **two relics of the same extinct order sharing one coined name is worth a ruling, and this sheet asserts no link**). The Research and Archives Division is attested. **Values chosen:** Level 291 — high in Band III and one Threshold short of the Level 300 gate; a Stage X practitioner has already met that gate's own Stage requirement, but nothing on the card shows him past this point, so the sheet stops one credential short of claiming more than the card supports. **η 0.80, Band A, at the top of that Band's range** — a Class V Shell already carrying a Sovereign-grade paradox sits at the top of its Band, one step above Iryen Maevith's 0.75 elsewhere in this batch. **The Sub-Stat peaks step down from the 725 ceiling by 26 each**, an even split across the thirteen intervals to the lowest listed peak (387), the same spacing method the exemplar sheet uses. **The Verdiction Crucible and Wilhelm's Verdiction Core are held distinct:** both are products of the same extinct Alchemarch Order of Varūn, which accounts for the shared name, but neither card asserts they are one lineage of work, and no link is invented here. **Varūn's own name does not wait on the batch keep-or-strike review** — it is independently attested as the Deepwright Titan and as a Dawi kingdom, so this card's use of it stands regardless of that review's outcome. Chapter appearances are placed in Section X below.
 
 ---
 

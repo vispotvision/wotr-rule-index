@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8195-a856-d58a6422cbff"
 notion_url: "https://app.notion.com/p/Mbunda-wa-Moyo-Drum-of-the-Living-Heart-3d958200eb228195a856d58a6422cbff"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:33:00.000Z"
 verification: "unverified"
 ---
 
 # Mbunda wa Moyo · Drum of the Living Heart
 
 ## Mbunda wa Moyo · Drum of the Living Heart
-
-> **Migration note.** "Harmonic-Aether / Nature-Aether" is retired pre-Fracture vocabulary; the drum is reassigned to **Benediction** (primary) and **Verdantia** (secondary), both attested Vitalia harmonizations on Chimwala N'Doro's current card and the right mechanism for a covenant-resonance instrument. **Ur (Balance)** is unchanged and attested. The card's other two glyphs are not attested as written: **Sa** exists in the Master Glyph Index but means Silence or Illumination, never "Rhythm," and **Vaa** does not exist at all. Rather than keep a glyph under a meaning current canon does not give it (a near-miss the index treats as a failure, not a warning), the drum now carries **Ye (Unity)** — the Lupine Pack-Soul's attested synchronization phoneme, and the closest attested match for "align many practitioners' rhythm" — in place of Sa, and **Vor (Return)**, attested for cycling and circulating Essence, in place of Vaa. Both swaps are noted rather than silent. "The Heartwood Grove," "the Lurien elders" and "Kaetra" needed attention: Kaetra is thinly but genuinely attested as a polity in current canon and is kept as-is; "the Lurien elders" is converted to "the Grove elders" since Lurien itself is dead canon (see the Staff of the Verdant Pulse migration note for the same finding); the Heartwood Grove is not independently attested but does not contradict anything and is kept, flagged. The Siege of the Jade Bridge and the Battle of the Thorned Crossing are both unattested in current canon; kept because the drum's history cannot be stated without a battle, and flagged. Mass and dimensions are not given by the card; conservative figures for a large ceremonial hand drum are chosen below.
 
 ### What it is
 

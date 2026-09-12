@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-810f-92de-d6240970e084"
 notion_url: "https://app.notion.com/p/Nightglass-Seal-3d958200eb22810f92ded6240970e084"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
 # Nightglass Seal
 
 ## Nightglass Seal
-
-> **Migration note.** Converted from a pre-Fracture Trello card (Abilities list, target The Iridescent Archive / Techniques). Both Wellsprings verified live in current canon: Tenebra (The Hidden Shadow) and Oblivara (The Dark Mirror), both Limina, Entropy/Void/Mind, so no cross-family flag is needed. The old card's Stage tag read "Stage VIII, Benediction"; Benediction is not Stage VIII's current name, so per the standing correction pattern used elsewhere in the wiki (numeral stands, invented word struck), this is corrected to Stage VIII, Transcendence. The old Path tag "Fate + Shadow" is struck in half: "Shadow" is not one of the current Four Paths, and is read here as Spirit, since the technique operates on a Soul-Plane concept (a working's "intent" or "purpose"); Fate is kept for the ward's persistence. The invented Aether Class "Umbral Barrier" is replaced, with a stated judgment call, by Class IV, The Luminous, rather than the Band B default of Class V, The Radiant; this is chosen because the technique reads as precision and erasure rather than raw magnitude, and Class IV's own description names a Spirit Path Shell as its most common bearer. Category (not given) is assigned as Silentia, whose definition, the deliberate removal of magical possibility from a region, matches the card's "nullifies abilities by erasing their purpose" almost exactly. Craft is assigned as Spellcraft. Grade required (not given) is set to A-Grade, the ceiling carried in from Stage VII. The old "turn" duration unit converts at the same estimated one turn per six seconds used across this batch.
 
 ### Summary card
 

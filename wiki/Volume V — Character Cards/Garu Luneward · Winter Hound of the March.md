@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b0-9cde-c5306c2b59ba"
 notion_url: "https://app.notion.com/p/Garu-Luneward-Winter-Hound-of-the-March-3d958200eb2281b09cdec5306c2b59ba"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Garu Luneward · Winter Hound of the March
 
 > *"Tracks can lie. The wind cannot. Just listen."*
-> **Migrated with all content preserved:** both Traits sets, the Blue Cloak, both incident records. **"Sensory Scout, Lunar Echo Type" was not among the seven; he is Class I, the Muridic** (Stage IV still sits in Coherence Band F, per the Stage table). **η 0.92 is struck**; Band F caps Class I efficiency loss at 30 to 40 percent, so his true η is corrected down to 0.70, the top edge of that window, kept as the highest reading a Muridic Shell can honestly carry. His **Strike Force, Durability, Speed and Range are all retained unchanged**: none of them exceed the Stage IV, B-Grade ceiling, so none needed correcting. **The Praetorian March is struck canon**; his Hunter's Guild post is retitled to the frontier march. His **"Proto-Domain"** is corrected to a pre-Domain effect, since a true Domain seed does not appear before Stage VII. **Lupine/Wolfkin lineage is attested** (the Great Hunt Pact, First Moonfall, Pack-Soul architecture); his tail-less isolation and "Sensory Drowning" read as his own variant of the documented Lupine Isolation Decay, flagged here as an extrapolation rather than a quoted fact. **"Hunter's Guild" itself is unattested in current canon**; kept because the card cannot function without a scouting order, most plausibly a chartered guild under the wider Accord.
 
 ---
 

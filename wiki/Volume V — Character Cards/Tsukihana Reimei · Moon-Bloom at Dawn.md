@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c4-8a25-f459e2b41374"
 notion_url: "https://app.notion.com/p/Tsukihana-Reimei-Moon-Bloom-at-Dawn-3d958200eb2281c48a25f459e2b41374"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Tsukihana Reimei · Moon-Bloom at Dawn
 
 > *"Violence is a form of pruning."*
-> **Migrated with all content preserved, including the blade, the four techniques and the Domain title.** *"Stage VII, Resolution"* is converted by numeral to **Stage VII, Refraction**. **"Aether Class: Reflective Soul / Tempered Bloom Class"** is not among the seven; **she is Class III, Resonant.** *"Lunarlight Essence"* was not an Essence type; it is carried as her Essence colour. *"Parun Glyph / Domain: Kaetra + Selhar + Elyndra"* names three **Archons** (Dream, Harmony, Renewal), not glyphs; the line is converted to the three Archonic stations her working reads from, with Selhar's and Elyndra's attested glyphs. **The Mirror Garden is a Domain seed**, since Refraction is the seed's activation and the first true Domain forms at Stage VIII. The mirror work is committed as a **third harmonization, Mirithane**, alongside the card's Fixatio and Verdantia — the phase-conjugate mirror law fits the reflection rites, the Mirror Garden and Petal Reversal too exactly to leave sitting as a proposal. *"Path of Spirit and Mind equilibrium"* reads as **Spirit dominant, Attraction secondary** (the Oath). *"A rampaging Wellspring spirit"* converts to **a hostile entity a Well had generated** (Pack Eleven). The *Withering Age* label converts to the **Withering Era**. Level, allocation and η are **estimates inside the Stage VII range**. Her name is Japonic register, which is a fact about linguistic descent and nothing else. **Unattested in current canon:** *Kael'Nir*, *Hane-no-Tera*, the *Hobgoblin Empire's collapse* (the Hobgoblin Expanse and Undaar-Keth are attested; no collapse is), *High Arbiter Saen*, *Kagami no Sei*, the *Mirror Garden Oath*, the *Veil Arbiter* class, and the *fae-human treaties*. Chapter appearances: none recorded on the card; migrated as a new card, not yet placed in a chapter.
 
 ---
 

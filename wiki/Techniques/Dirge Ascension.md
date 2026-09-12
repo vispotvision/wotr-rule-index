@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8124-90c3-dd04d9100d99"
 notion_url: "https://app.notion.com/p/Dirge-Ascension-3d958200eb22812490c3dd04d9100d99"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:21:00.000Z"
 verification: "unverified"
 ---
 
 # Dirge Ascension
 
 ## Dirge Ascension
-
-> Converted from a Trello ability card credited to Francis, the fourth card of this batch and sharing the same unattested character status (no current character card exists for him in the wiki mirror). Exuroth, Judicium and Catharsis all verify as live Wellsprings (Exuroth and Catharsis are Caloria, Thermodynamics; Judicium is Fulguria, Electromagnetism). "Path: Spirit" and "Temperance Requirement: Stage XIV Zenith" convert directly, Grade EX. "Aether Class: Principle Dominion Soul" is read onto Class V, the Radiant, as the standing Class, with the card's own "near-Archonic form" read as a temporary push toward the Class Omega, Absolute threshold rather than a permanent crossing of it, since Class Omega is reserved in current canon for Archons, Titans and true World Spirits, and Stage XIV alone (Full World Spirit) does not by itself claim that seat outright. The card's stated "45 seconds" and "2,800,000 AU/s" are kept exactly as given; AU/s is current, live vocabulary, and the 45-second figure is in fact what fixes this batch's turn-to-second conversion rate at 5 seconds per turn (45 seconds over the card's own 9 turns), used on the other three cards in this batch. No Level is given; Band V's floor of 401 is used. "The Iridescent Archive," the destination named on the source card, has no current-canon match and is kept only as a filing location.
 
 ### Summary card
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8185-a46f-d4940823d98f"
 notion_url: "https://app.notion.com/p/Seraphic-Thread-Blessing-3d958200eb228185a46fd4940823d98f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
 # Seraphic Thread Blessing
 
 ## Seraphic Thread Blessing
-
-> Converted from a Trello ability card pairing Benediction and Luminalis under an old "Spirit + Fate" Path and a free-text "Luminous Harmonizer" Aether Class. Both Wellsprings, both Paths, and the Stage name (Splintering) check out unchanged against current canon (`wiki`). The Aether Class is re-derived from the Stage's own Band rather than kept as invented free text: Stage V sits in Band E, and the Aether Class correlate table assigns Band E to Class II, the Harmonic, which also happens to fit the old label's own "Harmonizer" half. "Shadow-aligned allies" and "Shadow curses" convert to Limina-aligned and a Limina curse, since Limina is the current Family covering entropy, void and the darker end of Mind, and Oblivara, already named later in the same card, is a Limina Wellspring. Duration is restated in seconds at roughly three seconds per old-count "turn," a conservative reading of one exchange's length, so the stated two turns become about six seconds. No caster is named in the source card, so no Level, Origin or inventor is invented; the entry stands as a generic Codex ability until Isaac attaches a practitioner to it.
 
 ### Summary card
 

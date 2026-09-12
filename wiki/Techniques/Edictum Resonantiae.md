@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814c-b9de-e80b157dae4d"
 notion_url: "https://app.notion.com/p/Edictum-Resonantiae-3d958200eb22814cb9dee80b157dae4d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:14:00.000Z"
 verification: "unverified"
 ---
 
 # Edictum Resonantiae
 
 ## Edictum Resonantiae
-
-> **Migration note.** Converted from the Trello card of the same name. The practitioner, **Serenyra**, has no character card in the current wiki mirror and is kept as **unattested in current canon** because the technique cannot be stated without an owner (see the companion notes on the other three entries in this batch for the character-level Class and Wellspring roster this entry shares and extends). Her old Aether Class, "Symphonic Scholar," converts to **Class III, the Resonant**, held consistent across all four entries. Her Path, "Fate," is one of the current four and needs no conversion. The old Wellsprings "Harmonic," "Celestial," and "Dream (minor)" are placeholders rather than names off the Sixty; re-sourced to **Judicium** (Fulguria, the Wellspring of Truth, the "law-by-resonance" the card describes), **Aurevane** (Fulguria, the Wellspring of Light, the "domain of ordered principle" the card names), and **Oneirion** (Limina, the Wellspring of Dream, minor, the "conceptual flexibility" the card gives it). Old Stage "VIII, Refraction" keeps its numeral; Stage VIII's current name is **Transcendence**. The card's own name for it, "Refraction," actually belongs to Stage VII in the current table, and the card's parenthetical "borderline Zenith-level art" is dropped as inflated old-card flavour text, since Zenith is Stage XIV and nothing in the card's own mechanics reaches that far. **The Iridescent Archive** and the **Aether Chord Staff** (her staff, carried over from *Nexus Harmoniae* in this same batch) have no wiki entry and are kept as **unattested** proper nouns the card cannot make sense without.
 
 ---
 

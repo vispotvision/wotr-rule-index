@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81af-84e9-fb872eeab366"
 notion_url: "https://app.notion.com/p/Mireglass-Suffusion-3d958200eb2281af84e9fb872eeab366"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
 # Mireglass Suffusion
 
 ## Mireglass Suffusion
-
-> **Migration note.** Converted from a pre-Fracture Trello card (Abilities list, target The Iridescent Archive / Techniques). Anamnesis (The Wellspring of Remembrance) is verified live in current canon and matches the card exactly. The card's other named source, "Nyxial (voided shadow, reflective nothingness)", contradicts current canon: Nyxial's live entry governs thermal inertia under negative feedback, a baseline that resists both provocation and exhaustion, and has nothing to do with shadow or reflection. Per the standing rule to convert a contradiction rather than keep it, this is substituted with Oblivara, The Dark Mirror, whose law of retroreflection and error-correcting redundancy is the actual match for the card's "reflective nothingness" and "replays distorted reflections"; both Wellsprings are Limina, so no cross-family flag is needed. The old Path tag "Spirit" needed no correction; it is already one of the current Four Paths. The invented Aether Class "Illusory-Conceptual Distortion" is replaced by Class II, The Harmonic, the correlate for Stage VI's Band D. Category (not given) is assigned as Mnemata, whose definition, memorycraft and echo manipulation, matches the field's operation directly. Craft is assigned as Spellcraft on the card's "Declared" activation. Grade required (not given) is set to B-Grade, the ceiling carried in from Stage V. The old "turn" duration unit converts at the same estimated one turn per six seconds used across this batch. The Stage tag itself, "Stage VI, Glory," needed no correction: it already matches Fracture of Worlds' current Stage VI name.
 
 ### Summary card
 

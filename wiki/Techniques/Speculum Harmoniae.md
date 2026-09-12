@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81bb-9794-c67b2dc67b6c"
 notion_url: "https://app.notion.com/p/Speculum-Harmoniae-3d958200eb2281bb9794c67b2dc67b6c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:13:00.000Z"
 verification: "unverified"
 ---
 
 # Speculum Harmoniae
 
 ## Speculum Harmoniae
-
-> **Migration note.** Converted from a Trello export that bundled two entries under one card: *Speculum Harmoniae* and, appended below it, *Nexus Harmoniae* (numbered "7." in the source, evidence the original list held at least six other entries not exported). Both are kept, in source order, since the file cannot be honestly split without inventing a second source. The practitioner, **Serenyra**, has no character card in the current wiki mirror; she is kept because neither technique is statable without an owner, and is flagged **unattested in current canon** throughout. Her old Aether Class, "Symphonic Scholar," is not one of the seven; the analytic, conductor-grade profile the card describes (clean signal, no world-bending, resonance work at near-full fidelity) converts most conservatively to **Class III, the Resonant**. Her old Path, "Mind," is not one of the four; Mind's actual home is the **Spirit Path**, which gates Gnosis, and that is the conversion used for *Speculum Harmoniae* below. The old Wellsprings "Harmonic" and "Dream" are placeholders, not names off the Sixty; re-sourced to **Mirithane** (Limina, the Wellspring of Reflection, the literal mirror-law "Speculum" names) and **Oneirion** (Limina, the Wellspring of Dream, the eidolic projection the card describes). Old Stage "V, Resonance" keeps its numeral; Stage V's current name is **Splintering**. "Thesauriel," her archive, and **The Iridescent Archive** itself have no wiki entry and are kept as **unattested** proper nouns the card cannot function without. Old "turns" are kept as the source's own duration unit; no current-canon replacement is mandated, so it is treated as an approximate combat-exchange count rather than a fixed second-count. No AU/s, EU or η figure is given for this technique in the source, so none is invented; the FOW line below derives Stage, Grade and governing stats from the tables rather than stating a false precision.
 
 ---
 

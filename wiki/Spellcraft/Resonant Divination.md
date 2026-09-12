@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-810a-a09e-e6558a18f7ba"
 notion_url: "https://app.notion.com/p/Resonant-Divination-3d958200eb22810aa09ee6558a18f7ba"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:25:00.000Z"
 verification: "unverified"
 ---
 
 # Resonant Divination
 
 ## Resonant Divination
-
-> The old card ("Divination Harmonics," a moon-and-fate essay for the pre-Fracture board) converts onto Branch Three of the current canon page *The Harmonic Arts*: Resonant Divination, Fate Reading. Every institution the card names checked out against that page almost word for word: the Sonochoral Conclave is live canon and does exactly the Dissonance Warning work the card gave it, Izathen the Broken Lyre and his Echo Fracture of 8,000 AF are attested verbatim, and Caelmorne Halvrein is a real figure, though canon files him as *He Whose Silence Was Sung by the Moon* himself, so the card's second figure, Serenhal Caelmorne, appears to be a duplicate split off the same person and is dropped as unattested. "Age of Grace" does not appear anywhere in the Concordance of Ages or the wiki mirror and is replaced with the dating *The Harmonic Arts* actually gives (Second Epoch origin, no further era claimed for formalization); "Age of Calamity" and "Voyager Era" are both attested current eras and stand unchanged. "Essence Drafts," "Wellspring Paths," and "spiritual signature" are folded into current vocabulary (Drafts, Wellspring harmonisation, Resonant Tone). Numbers throughout (the Temperance Gates) are copied from *The Harmonic Arts* directly, not estimated.
 
 ### What it is
 

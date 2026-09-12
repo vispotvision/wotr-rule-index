@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8155-9252-f55b8699e443"
 notion_url: "https://app.notion.com/p/Horizon-s-Reach-Limen-Hand-3d958200eb2281559252f55b8699e443"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:36:00.000Z"
 verification: "unverified"
 ---
 
 # Horizon's Reach · Limen-Hand
 
 ## Horizon's Reach · Limen-Hand
-
-> **Migration note.** The Skyglass Archive, Rovann, the Outer World, Caedor, the Empire of Eresse (Eressean), the Black Concord, and the Inclusion Saga are all confirmed current canon. The card's second nickname, "Kepler's Grasp," names a real Terran astronomer and does not belong in this register; it is dropped here, keeping only Limen-Hand, since the setting's technology ceiling runs to 1800 to 1900 and takes nothing from outside it. The card's "Vectra / Harmonia" alignment is converted onto current terms: Family Spatium, Physics Domain Spatial Geometry, since displacement, orbit-keeping, and positional bias are what the item actually does, with primary Wellspring Transference (the Living Exchange, carrying the displacement effects) and secondary Eclipseron (the Shadowed Star, carrying the orbital rings). Category Vectra is kept as the card gives it, confirmed a live Category (motion, direction, velocity, spatial gravitation). The card's Temperance range "Refraction to Severance" does not map to any Fracture of Worlds Stage; Severance is the Guild Accord's own legal term for dissolving a member's standing, not a Stage name. It is converted to the nearest attested pair, Refraction (Stage VII) through Transcendence (Stage VIII), matching the same correction made on the Ocular Codex entry in this batch. Glyph `Ie`'s gloss is corrected from "Insight" to the Master Glyph Index's attested gloss, Perception. R.A.D., the archivist named on the card, is unattested anywhere in the wiki mirror and is kept, flagged, because the origin has no substitute author. The card's invented effect-names (Tunneling Cast, Spatial Harmonic Bending, Pressure Differential Spikes, Topology Bias, Topology Lockdown, Phase Lag, Overphase Snap, Resonance Drift, Cascade Overrun) are dropped here for plain mechanism. Physical figures are plausible estimates for a forearm prosthesis of this description; the card gives none.
 
 ### What it is
 

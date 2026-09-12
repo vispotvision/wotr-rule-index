@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8101-8088-f8ae9a93db23"
 notion_url: "https://app.notion.com/p/Verdiction-Gauntlet-The-Hand-of-Judgment-3d958200eb2281018088f8ae9a93db23"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:31:00.000Z"
 verification: "unverified"
 ---
 
 # Verdiction Gauntlet · The Hand of Judgment
 
 ## Verdiction Gauntlet · The Hand of Judgment
-
-> **Migration note.** Converted from a Trello relic card onto Wilhelm, confirmed current canon as Wilhelm · The Guardian (designation V.I.L-H3M), a Sentinel-Class Alchemical Mech built under the Bastion Directive and registered to the now-extinct Alchemarch Order of Varūn, Keeper of the Obsidian Accordant Vault. His Essence Core is the Verdiction Core itself, manufactured, of no locatable provenance. The card's five effects are rewritten onto Wilhelm's actual attested Wellsprings and Traits rather than the invented "Aetheric energy channeling" the old card used: Fixatio (his attested primary, anchors and seals) carries the Aegis and the Seal, Petralon (attested) carries the repulsion, Nyxial (attested) carries the reflection, and the offensive strike is reframed onto his attested Trait Binding Echo (his Crystal stores injuries and redirects the force as retaliation once per cycle) rather than onto Judicium, which is not among his harmonizations. This removes the old card's implication that Wilhelm has an independent offensive channel; his own sheet is explicit that he has almost no personal offence and no attack Sub-Stat at all, and the correction keeps that intact. Glyph `Ci` is corrected from the card's gloss "Will" to the attested gloss "Order" (confirmed elsewhere as Fixatio/Coagulatio-linked). `Nar` and `Sh` do not appear anywhere in the wiki mirror and are kept, flagged unattested, because the barrier and reflection effects do not read without them. Talum-Thar, the Invasion of Talum-Thar and the Shield of the Bound Kingdom are unattested; the Exilic March campaign is independently confirmed on Wilhelm's own chapter-appearance list. Physical figures for the gauntlet are plausible estimates for the item type, since the card gives none.
 
 ### What it is
 

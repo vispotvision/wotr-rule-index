@@ -1,6 +1,10 @@
 # War of the Realms — Wiki mirror
 
-562 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+559 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+
+## Aberrations (1)
+
+- [Lich](Aberrations/Lich.md)
 
 ## Artifacts (21)
 
@@ -29,12 +33,6 @@
 ## Bestiary (1)
 
 - [The Bestiary](Bestiary/The%20Bestiary.md)
-
-## Bestiary Additions (3)
-
-- [Greater Wolf](Bestiary%20Additions/Greater%20Wolf.md)
-- [Lich](Bestiary%20Additions/Lich.md)
-- [Neiman Lion](Bestiary%20Additions/Neiman%20Lion.md)
 
 ## Characters (6)
 
@@ -142,17 +140,15 @@
 - [The Works and Days — Occupations, Trades and Technology](Materials,%20Alchemy%20&%20Trade/The%20Works%20and%20Days%20—%20Occupations,%20Trades%20and%20Technology.md)
 - [Weight, Measure and the Standard](Materials,%20Alchemy%20&%20Trade/Weight,%20Measure%20and%20the%20Standard.md)
 
-## Misc (5)
+## Misc (1)
 
 - [Artifacts](Misc/Artifacts.md)
-- [Bestiary Additions](Misc/Bestiary%20Additions.md)
-- [Spellcraft](Misc/Spellcraft.md)
-- [Techniques](Misc/Techniques.md)
-- [The Iridescent Archive](Misc/The%20Iridescent%20Archive.md)
 
-## Natural Beasts (1)
+## Natural Beasts (3)
 
 - [Droval — The Frost-Howler](Natural%20Beasts/Droval%20—%20The%20Frost-Howler.md)
+- [Greater Wolf](Natural%20Beasts/Greater%20Wolf.md)
+- [Neiman Lion](Natural%20Beasts/Neiman%20Lion.md)
 
 ## Peoples (1)
 
@@ -165,10 +161,6 @@
 - [The Elven Peoples](Races%20&%20Peoples/The%20Elven%20Peoples.md)
 - [The Goblinoid Peoples](Races%20&%20Peoples/The%20Goblinoid%20Peoples.md)
 - [The Tongues of the Realms](Races%20&%20Peoples/The%20Tongues%20of%20the%20Realms.md)
-
-## Reference Table (1)
-
-- [A Reader's Codex](Reference%20Table/A%20Reader's%20Codex.md)
 
 ## Sodoku Moto (2)
 
@@ -278,8 +270,9 @@
 - [The Yuno Bloodline](The%20Archaic%20Bloodlines/The%20Yuno%20Bloodline.md)
 - [The Zettari](The%20Archaic%20Bloodlines/The%20Zettari.md)
 
-## The Bearing and the Holding (6)
+## The Bearing and the Holding (7)
 
+- [Kushara — The Land That Remembers Weight](The%20Bearing%20and%20the%20Holding/Kushara%20—%20The%20Land%20That%20Remembers%20Weight.md)
 - [The Hobgoblin Expanse](The%20Bearing%20and%20the%20Holding/The%20Hobgoblin%20Expanse.md)
 - [The Inner World — The Northern Shield](The%20Bearing%20and%20the%20Holding/The%20Inner%20World%20—%20The%20Northern%20Shield.md)
 - [The New World — The Eastern Rise](The%20Bearing%20and%20the%20Holding/The%20New%20World%20—%20The%20Eastern%20Rise.md)
@@ -313,7 +306,7 @@
 
 - [The Counted Speech — A Speaker's Grammar of Parun](The%20Descent%20of%20Parun%20—%20The%20Fourteen%20Hands/The%20Counted%20Speech%20—%20A%20Speaker's%20Grammar%20of%20Parun.md)
 
-## The Disciplines (19)
+## The Disciplines (21)
 
 - [Ainigma — The Riddle Wearing a Face](The%20Disciplines/Ainigma%20—%20The%20Riddle%20Wearing%20a%20Face.md)
 - [Asami and Gisei — The Two States of the Moto](The%20Disciplines/Asami%20and%20Gisei%20—%20The%20Two%20States%20of%20the%20Moto.md)
@@ -326,7 +319,9 @@
 - [Recarvu — The Body That Builds Over What It Cannot Fix](The%20Disciplines/Recarvu%20—%20The%20Body%20That%20Builds%20Over%20What%20It%20Cannot%20Fix.md)
 - [Rusashin — The Dust That Remembers What It Touched](The%20Disciplines/Rusashin%20—%20The%20Dust%20That%20Remembers%20What%20It%20Touched.md)
 - [Solution — The Mind That Solves Itself](The%20Disciplines/Solution%20—%20The%20Mind%20That%20Solves%20Itself.md)
+- [Spellcraft](The%20Disciplines/Spellcraft.md)
 - [Talos — The Bronze That Empties the Room](The%20Disciplines/Talos%20—%20The%20Bronze%20That%20Empties%20the%20Room.md)
+- [Techniques](The%20Disciplines/Techniques.md)
 - [The Harmonic Arts](The%20Disciplines/The%20Harmonic%20Arts.md)
 - [The Iron Bison — A Discipline of Internal Resonance](The%20Disciplines/The%20Iron%20Bison%20—%20A%20Discipline%20of%20Internal%20Resonance.md)
 - [The Ketsumyōgan — The Binding Fate Eye](The%20Disciplines/The%20Ketsumyōgan%20—%20The%20Binding%20Fate%20Eye.md)
@@ -513,7 +508,7 @@
 - [Xanelor Rafminar · The Wandering Fang](Volume%20III%20—%20Character%20Cards/Xanelor%20Rafminar%20·%20The%20Wandering%20Fang.md)
 - [Zarron Mahuo · The Arbiter of Unity](Volume%20III%20—%20Character%20Cards/Zarron%20Mahuo%20·%20The%20Arbiter%20of%20Unity.md)
 
-## Volume IV — Character Cards (99)
+## Volume IV — Character Cards (98)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20IV%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aelor Vaelith · The Imperial Pegasus](Volume%20IV%20—%20Character%20Cards/Aelor%20Vaelith%20·%20The%20Imperial%20Pegasus.md)
@@ -608,7 +603,6 @@
 - [Ymir Rhok · The Emberhand](Volume%20IV%20—%20Character%20Cards/Ymir%20Rhok%20·%20The%20Emberhand.md)
 - [Yukizumi Yukari · The Reaper](Volume%20IV%20—%20Character%20Cards/Yukizumi%20Yukari%20·%20The%20Reaper.md)
 - [Zahir Ashveil · Desert's Fang](Volume%20IV%20—%20Character%20Cards/Zahir%20Ashveil%20·%20Desert's%20Fang.md)
-- [Zahir Ashveil · Desert's Fang](Volume%20IV%20—%20Character%20Cards/Zahir%20Ashveil%20·%20Desert's%20Fang%20(3bd58200).md)
 - [Zahiren Vahl · The Horizon-Eyed](Volume%20IV%20—%20Character%20Cards/Zahiren%20Vahl%20·%20The%20Horizon-Eyed.md)
 - [Zeraphine Drowl · The Black Vat Regent](Volume%20IV%20—%20Character%20Cards/Zeraphine%20Drowl%20·%20The%20Black%20Vat%20Regent.md)
 - [Zeven Halek · The Eye That Remains](Volume%20IV%20—%20Character%20Cards/Zeven%20Halek%20·%20The%20Eye%20That%20Remains.md)

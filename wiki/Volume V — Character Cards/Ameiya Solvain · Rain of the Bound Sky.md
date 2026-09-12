@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8142-8a9c-ddbceceb9f5a"
 notion_url: "https://app.notion.com/p/Ameiya-Solvain-Rain-of-the-Bound-Sky-3d958200eb2281428a9cddbceceb9f5a"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Ameiya Solvain · Rain of the Bound Sky
 
 > *"To see one's reflection is to weigh one's heart."*
-> **Migrated with all content preserved, including the blade.** The card gives the epithet in two forms, *"Rain of The Sky Bound"* on the list and *"Rain of the Bound Sky"* on the sheet; the sheet's form is used. *"Stage VIII, Benediction (Soul-Bloom Threshold)"* names a Wellspring, and Benediction is not a Stage; **Stage VIII is retained as Transcendence.** *"Aether Class: Symphonic-Elegiac Variant (Echo-Bearer)"* is not among the seven; **at Band B the Shell is Class V, Radiant.** *"Reverberant Harmony / Reflective Law"* was not an Essence Typology; the disposition reads as **Fulguria dominant, Fluxia undertone.** *"Aspectal Alignment: Light"* is old vocabulary and is folded into the Fulguria harmonisations. The label *"Withering Age"* converts to the **Withering Era** per the Errata. **Unattested in current canon:** Duskfeather, the Eressean Principalities as a polity (Velthaeir itself is attested), the Dream Concord, Eresse's Dreamkeepers, the Sanctum Aria Concord, the Reflective Blight, the Concord Hymns, the *"Anima Lineage"*, and the gloss of the glyph `Ci` as Emotion (canon reads `Ci` as Order; `Ur` Balance and `Ie` Insight are attested). All are kept because the history cannot be told without them, and flagged. **Resolved rather than left open:** Level 248 and η ~0.70 are committed estimates placed within Stage VIII's Band III and Band B documented ranges by the card's own power description, not open slots. Chapter appearances: none recorded on the card; migrated as a new card, not yet placed. **The three sealed Wellsprings are named** as Nihiloth, Dissolution and Vantabriel — three Limina currents whose corruption is exactly what a Judicium-Luminalis warder would be called on to seal; which one of the three took their voice stays the card's own unanswered question, kept as such below.
 
 ---
 

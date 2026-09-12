@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81cc-af99-e25ba35b60b0"
 notion_url: "https://app.notion.com/p/Pyrewind-Breaker-3d958200eb2281ccaf99e25ba35b60b0"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:19:00.000Z"
 verification: "unverified"
 ---
 
 # Pyrewind Breaker
 
 ## Pyrewind Breaker
-
-> Converted from a Trello ability card pairing Exuroth and Cataclysm. Both Wellsprings check out unchanged against current canon (`wiki`): both are Caloria, both are Thermodynamics-domain. "Path: Aether + Body" used Aether as if it were a Path; Aether is the ocean every working draws from, not one of the four routes, so the Path corrects to Spirit and Body, the two current Paths that fit a projected, ranged area burst with a physical concussive half. "Aether Class: Volatile Kinetic-Flame Hybrid" is free text and is replaced with the class the Stage/Band correlate table actually assigns: Stage VI, Glory sits in Band D, and Band D is Class II, the Harmonic, the same class Seraphic Thread Blessing lands on despite the very different technique, a fact about the table rather than an error in either entry. Duration is restated in seconds. Thaloré, Verdantia and Cinerion all check out against current canon in their stated Families; "Abyssal entities" also checks out, Abyssal being an attested creature-and-corruption category in the Bestiary rather than invented flavour. No caster is named in the source card.
 
 ### Summary card
 

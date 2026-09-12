@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81d6-89ef-cd479f1a3251"
 notion_url: "https://app.notion.com/p/Invert-Eidolon-3d958200eb2281d689efcd479f1a3251"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:27:00.000Z"
 verification: "unverified"
 ---
 
 # Invert Eidolon
 
 ## Invert Eidolon
-
-> **Migration note.** The card described a discipline, not one character's signature working, so it converts under the Spellcraft brief's essay format rather than the technique card. Old vocabulary ("Essence types," "temperance rite" as a loose noun) is retired in favour of current terms: Invert Eidolon is Animatria, a Spirit-Aligned Category, harmonised to Limina (Entropy, Void and Mind), performed as Spellcraft. Its "Anti-Eidolon" is restated as an Animatria construct fabricated from a fractured or refused portion of the summoner's own Essence Core, per The Spirit Summoning Arts. Stage floor and Grade are chosen off the Temperance Gate table rather than invented: Stage VIII, Transcendence, S-Grade, because a construct that acts with hostile independence rather than dissolving on release matches the Gate for semi-autonomous Animatria forms, not the Stage VI floor for a basic eidolon. Karo Venrik, the Foolish Magus, is confirmed current canon and a genuine master of Animatria constructs (his Nexus-networked eidolons Cognition, Convergence, Reflex, Requiem and Continuum are on record), so the card's speculative claim that he once triggered a fractured, refused construct during early summoning trials is kept as speculation, consistent with his sheet's own admission that two of his fielded Echoes never fully came back. Thessan of Mireya, Silvantes Mournthresh, the Twilight Concord, the Era of Calamity, the Wellspring Fracture of Nalisem, the Riven Choir, the Mirrorwake Ascetics, the Occultinarii of the Hollow Eye, and the Volume VI chapter citation have no card or page in current canon and are kept only because the discipline's history reads as empty without them; all are flagged below as unattested. "Era of Voyagers" converts cleanly to the Voyager Era, the Imperial Age's opening era, per the Errata to the Received Registers.
 
 ---
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81be-bb9a-f4663804c972"
 notion_url: "https://app.notion.com/p/Corona-Lunaris-3d958200eb2281bebb9af4663804c972"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:12:00.000Z"
 verification: "unverified"
 ---
 
 # Corona Lunaris
 
 ## Corona Lunaris
-
-> Converted from an unconverted Trello ability card for Serenyra, who has no character card in current canon; this entry stands alone pending her own conversion. The card's dual "Wellspring: Celestial / Harmonic" listing is folded to one true Wellspring: no Wellspring named Celestial or Harmonic exists among the Sixty, and the card's own description (lunar law, reflective light, refraction, converting hostile Aether to harmless illumination) matches Aurevane, the Wellspring of Light, exactly; "Harmonic" again reads as her Aether Class rather than a second Wellspring, carried over as Class II, The Harmonic, consistent with the rest of her card set. "Stage V — Resonance" converts on the numeral alone to current Stage V, named Splintering; Grade required is read off that Stage's ceiling, B-Grade. The card's flat "100 GJ" absorption threshold exceeds B-Grade's own upper energy bound of 46 GJ under the current Strike Force and Durability tables; per the conservative-value rule, it is converted down to that 46 GJ ceiling rather than kept as written, and the conversion is called out again in the Design Chain. The "Ma glyphs" mentioned as a visual detail have no current-canon glyph-script entry and are dropped rather than kept unverified; the corona's markings are described generically instead. The Lunarch Crown is kept as the technique's stated focus and flagged unattested, since no wiki entry exists for it and the card cannot make sense without some named focus item for the "touch to the circlet" activation.
 
 ### Summary card
 

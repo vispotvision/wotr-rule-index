@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8133-aca1-ebf28c4b27b7"
 notion_url: "https://app.notion.com/p/Solarbound-Aegoric-Knight-3d958200eb228133aca1ebf28c4b27b7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T16:11:00.000Z"
 verification: "unverified"
 ---
 
 # Solarbound Aegoric Knight
 
 ## Solarbound Aegoric Knight
-
-> Migration note. This card describes a discipline and a Shell archetype, not one working, so it is converted in the alternate format for a body of theory rather than a single technique. Its three named Wellsprings, Fixatio, Benediction, and Judicium, are all real and correctly assigned (Materia, Vitalia, and Fulguria respectively). "Aegoric" is not invented flavor text: the Fourteen Titans register attests an Aegoric Crucible, where Atla'zon and Gaia were forged during the Formation Epoch, so calling this Shell "Aegoric" is a real and load-bearing lineage claim, not decoration, and is kept. The card's likening of the archetype to Atlas is kept as a literary comparison only; Atlas is the mortal name for the real Titan Atla'zon, and nothing here claims the discipline draws on Titanic Law directly; its Wellspring Resonance section already names three attested Sixty-Wellspring currents instead, and that is what actually powers it. The old "Essence Typology: Body / Faith / Burden" and "Temperance Path: Resolution to Benediction to Judicium" are struck as invented labels and restated below in terms of the Families the discipline actually draws (Materia, Vitalia, Fulguria) and the Stages the card itself later gives correctly (Stage VII, Refraction, through Stage X, Realization; Benediction is not a Stage name and, per the correction already ruled elsewhere in Volume V, maps to Stage VIII, Transcendence, when it appears as a Temperance label). "Uur Disruption," named as a counter, is genuinely attested: [Uur] is Uurgath's own glyph for Disruption, and the Fourteen Titans register lists exactly this glyph as the attested counter to a comparable Atla'zon-adjacent permanence effect, so it is kept as written. "Crownforge," the named glyph-spiral pattern, is not attested anywhere in the wiki; it is kept as the discipline's visual signature since the card cannot describe its inscriptions without a name for them, and is flagged here as originated rather than canon. The old numeric multipliers (Strike x1.35, Durability x1.35, Lift x1.20, Reaction x0.85) have no table to derive them from in the current system and are dropped; in their place, the entry cites the attested general principle that a Body Path practitioner's Essence architecture routes through muscle and bone directly, which is the real mechanism the old multipliers were gesturing at. "Tier context: A/S-class regional influence" is restated in Tier Grade terms already consistent with the card's own Stage VII to Stage X range: A-Grade at the low end, S-Grade at the high end. Origin below draws on Ser Varnath Rhogar, a verified Guild Accord hero, as the discipline's closest attested exemplar; the card names no inventor, so this is presented as resemblance, not as an invented biography.
 
 ### What it is
 

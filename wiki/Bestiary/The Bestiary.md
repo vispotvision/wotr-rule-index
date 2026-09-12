@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8107-8b16-e50e291bb8e4"
 notion_url: "https://app.notion.com/p/The-Bestiary-3b158200eb2281078b16e50e291bb8e4"
 section: "Bestiary"
 tags: ["Bestiary", "Reference Table", "Peoples"]
-last_edited: "2026-08-14T23:07:00.000Z"
+last_edited: "2026-09-12T16:08:00.000Z"
 verification: "unverified"
 ---
 

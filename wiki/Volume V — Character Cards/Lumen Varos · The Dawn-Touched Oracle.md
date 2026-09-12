@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8168-9a63-f23159740493"
 notion_url: "https://app.notion.com/p/Lumen-Varos-The-Dawn-Touched-Oracle-3d958200eb2281689a63f23159740493"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Lumen Varos · The Dawn-Touched Oracle
 
 > *"A new day begins long before the sun rises."*
-> **Migrated with all content preserved.** **"Aether Class: Dawn-Threaded Aether, Aurelight Animus"** is not among the seven. **He is Class IV, Luminous**: *"most often a Spirit Path Shell that clarified faster than Core or Layer,"* which is this card's entire premise in the system's own words. **The Holy See of Lurien is dead canon.** It was retconned and replaced by **the Holy Sea of Alabaster**, the most frequently corrected reference in the Volume IV/V migration batches, and his affiliation is re-homed there. **The Aurum Sect does not resolve independently against the wiki mirror.** It is kept as an unattested sub-order beneath the Sea of Alabaster; the card cannot make sense without it. All four named Wellsprings, **Luminalis, Benediction, Anamnesis, Judicium**, are attested currents and needed no correction. *"Imperial Calendar"* is corrected to **the Imperial Age**. **Level 55, Pool 2,300** derive from Band I (55 lv × 20) plus Threshold I–III (3 × 400); 1,937 is allocated. The remainder is the largest proportional headroom in this batch, read as a Stage III prodigy's untapped range rather than a ceiling he has already reached.
 
 ---
 

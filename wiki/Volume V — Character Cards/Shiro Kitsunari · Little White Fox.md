@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8174-afb6-e643960f0230"
 notion_url: "https://app.notion.com/p/Shiro-Kitsunari-Little-White-Fox-3d958200eb228174afb6e643960f0230"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:55:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Shiro Kitsunari · Little White Fox
 
 > *"If the branches shiver, we should listen before we march."*
-> **Migrated with all content preserved.** The old sheet's **"Aether Class: Resonant Listener"** is not among the seven; **he is Class I, The Muridic**, Band F, an Awakened Crystal that has only just begun to hold a current. **"Vulpine Beastkin (Forest Spirit Touched)"** converts to **Beastkin, Fox-Spirit lineage** under current racial taxonomy; the "Forest Spirit Touched" note is kept as the spirit-adjacency the card itself describes. **"Outer Wilds Freeholds"** is not an attested polity; the Outer Wilds is real ground, and his standing there converts to an **Independent Concord Freeholder** courier, unaffiliated and roaming. **Imperial Calendar** corrects to the **Imperial Age** per the Errata. His three Wellsprings, **Verdantia, Somnalis, Mirithane**, needed no correction at all. Level chosen conservatively low (12) inside Band I, matching a child only recently awakened.
 
 ---
 

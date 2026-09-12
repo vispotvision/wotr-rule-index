@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-810b-aee5-f17d3ac1964a"
 notion_url: "https://app.notion.com/p/Draen-Varos-The-Red-Forge-Sentinel-3d958200eb22810baee5f17d3ac1964a"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:35:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Draen Varos · The Red Forge Sentinel
 
 > *"Heat is memory. Every blade remembers the hand that forged it."*
-> **Migrated with the axe, the prayer and both Archons kept.** *"Temperance Stage: VII — Resolution" gives a real numeral and an invented name; Resolution is not among the sixteen.* **Stage VII is retained, and its true name, Refraction, replaces Resolution.** *"Aether Class: Harmonic Bastion" and "Essence Typology: Ferric Ember Essence" are not register entries; his Flux Stability line already says Class III on the old card, which is the correct read* — **he is Class III, Resonant**, and his Essence Typology is read off the two Wellsprings he actually carries, Materia and Caloria disposition, rather than an invented type name. **Urion and Wyther check out as two of the Fourteen Archons exactly as written** — Balance and Motion — and are kept without correction. *"Tier: B+" and the raw joule and meganewton figures are struck as old-system numbers below what Stage VII's own ceiling permits*; the Primary Stat block replaces them. **Atlas, as a place name, is unattested** — the Fourteen Titans include a load-bearing figure of that name, and a bastion built on his mantle and named for him is kept as the card gives it. **Kaelzar has no card on file** and is kept as an unattested commanding officer.
 
 ---
 

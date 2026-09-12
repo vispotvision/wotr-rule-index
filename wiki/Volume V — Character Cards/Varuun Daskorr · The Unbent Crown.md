@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-b75c-eb9e1d491598"
 notion_url: "https://app.notion.com/p/Varuun-Daskorr-The-Unbent-Crown-3d958200eb228187b75ceb9e1d491598"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 ## Varuun Daskorr · The Unbent Crown
 
 > *"Law is mercy written in weight."*
-> **DEAD CANON FLAG: this sheet sits on a struck polity.** *Babyl and the Babylian Imperium were struck from canon.* Varuun is King of the Kingdom of Babyl, rules from Karn-Bael, and the card's whole institutional frame is the kingdom. **The character survives the setting**: an aging Inner World stone-king whose reign is sintered to a worked Coagula Core is legible on the current map. **Isaac's ruling needed on re-homing or striking**; all card content is preserved. *Pratorian March* is also struck (listed as the Praetorian March), though the Concord Gate Network page still names it; both facts recorded, neither resolved. **Migrated with all content preserved, including the three regalia.** *"Stage VIII – Benediction"*: Benediction is a Wellspring, and by the standing Benediction mapping it sits at Stage VIII, so numeral and mapping agree: **Stage VIII, Transcendence.** *"Aether Class: Gravemind Monarch (Sub-Class of Aegoric Lineage — Resonant Lawbearer)"* is not among the seven; **he is Class V, Radiant**, the Band B correlate of Stage VIII where the first true Domain forms; the card's word "Resonant" is noted. *"Path: Body / Mind / Balance (Dual Tempered)"*: Mind is read as Gnosis weighting per the standing correction; **Balance gets the same correction, not a ruling**: the four Paths (Body, Spirit, Attraction, Fate) have no seat named Balance, and the quality the card is describing, a sovereign who holds steady under the weight of his own decrees, is what Tempering already measures on this sheet (see the "layer on layer" reading below). **Balance is retained as a card-word and read as Tempering weighting.** *"Voyager Era (Imperial Calendar 742–Present)"* is inverted per the Errata: Year 742 of the Imperial Age falls in the **Withering Era**, which opens Year 645, and the card's own label says Withering. "Atlas" is the attested Titan Atla'zon, and "Atlas's strain" is attested as Atlazon's Strain on the Dougou Ozumu Zettai card. Coagula is attested in Materia as the Unifying Pulse; the card's gloss *"The Law That Binds"* describes Fixatio's law in current canon and is kept only as the card's phrase. Eresse and Parunic doctrine are attested. Unattested: *Karn-Bael*, *the Daskorr bloodline*, *the Lawbearers of Coagula*, *the Dawn Guard*, *the Kneeling Sun*, *the Oath of Stone*, *Temporal Weight Clauses*, *the Wellspring Chambers*, *the Crown of the Atlas Chain*, *the Robes of the Lawgivers*. Level is an estimate within Stage VIII's range; the card gives no combat figures.
+> **DEAD CANON FLAG: this sheet sits on a struck polity.** *Babyl and the Babylian Imperium were struck from canon.* Varuun is King of the Kingdom of Babyl, rules from Karn-Bael, and the card's whole institutional frame is the kingdom. **The character survives the setting**: an aging Inner World stone-king whose reign is sintered to a worked Coagula Core is legible on the current map. **Isaac's ruling needed on re-homing or striking**; all card content is preserved.
 
 ---
 

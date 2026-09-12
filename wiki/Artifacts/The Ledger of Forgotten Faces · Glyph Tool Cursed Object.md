@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8104-8a8d-d18084f84c96"
 notion_url: "https://app.notion.com/p/The-Ledger-of-Forgotten-Faces-Glyph-Tool-Cursed-Object-3d958200eb2281048a8dd18084f84c96"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:32:00.000Z"
 verification: "unverified"
 ---
 
 # The Ledger of Forgotten Faces · Glyph Tool / Cursed Object
 
 ## The Ledger of Forgotten Faces · Glyph Tool / Cursed Object
-
-> **Migration note.** Kept: appearance, the sealed-archive origin, the recording/search effects, both stated limitations, the unsanctioned claiming, the mythic reputation, and Karo Venrik as sole bearer. Converted: the "reconstruct... into semi-coherent projections" and "entities... gain partial personality fragments" effects directly contradict current canon; Karo's signature, Echo-Sovereign, is explicit that a fielded Echo "is not an illusion and it is not a summon," and nothing in his card allows him to birth a separate entity out of someone else's recorded face. The effect is converted instead into what his actual Wellspring already does: Anamnesis reads and holds impressions the way any object stores remanent history, and the Ledger's stored impressions can be overlaid onto a fielded Echo (still Karo underneath) rather than animated into a new person. The invented "Remembrance Schism" is struck; no such event exists in the Concordance and it is not the reader's place to name a new one, so it is replaced with the attested Great Spirit War, kept exactly as uncertain as the card already had it ("whispered to have been used"). "Eressean Arcane Academy" is unattested as a named institution and kept flagged, since the origin needs a find-site and Karo's own line is Eressean. Glyph `Ma` (Memory) is unverified per Karo's own sheet; `Ie` (Insight) has no match anywhere in the 136-form Master Glyph Index and is flagged as an unattested legacy gloss rather than struck outright, since the card cannot state the tool's function without a second glyph.
 
 ### What it is
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d8-9de4-f7e47be088e7"
 notion_url: "https://app.notion.com/p/Brynja-Haldr-s-Hammer-of-the-Northroot-3d958200eb2281d89de4f7e47be088e7"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:59:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Brynja Haldrís · Hammer of the Northroot
 
 > *"If it reaches my people, it passes through me first."*
-> **Migrated with all content preserved, including all three relics.** *"Highborn Veyran-Elf · Frostbound Clan Blood"* is not an attested lineage; the nearest current branch is **Eladrin**, the Eressean daughter-people who carried Order-as-Devotion into the harshest northern theater and found repetition alone could not survive the cold, which is exactly Brynja's own arc. *"Withering Age"* is a superseded term; the Errata to the Received Registers corrects it to **the Withering Era**. *"Northroot Stone Clans"* is not attested and is kept only because the card cannot be written without a home for her to defend; flagged below. *"Targeted Uninfected: 55"* has no current-system equivalent and is folded into prose. Her Aether Class, *"Runic Bulwark Emitter,"* is not among the seven; she reads as **Class II, Harmonic**, which is an exact match for Stage VI's own correlate band, no gap to flag. All named Wellsprings (Basilithe, Petralon, Fixatio, Terranova, Coagulatio) are attested as written.
 
 ---
 

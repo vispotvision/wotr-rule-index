@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8141-98ba-ca4b9eadbe9d"
 notion_url: "https://app.notion.com/p/Mkono-wa-Miti-Bracer-of-the-Living-Grove-3d958200eb22814198baca4b9eadbe9d"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
 # Mkono wa Miti · Bracer of the Living Grove
 
 ## Mkono wa Miti · Bracer of the Living Grove
-
-> **Migration note.** "Nature-Aether / Harmonic-Aether" is retired pre-Fracture vocabulary; the bracer is reassigned to **Verdantia** alone, Chimwala N'Doro's attested primary Vitalia harmonization and the correct single mechanism for a growth-and-regeneration defensive tool — no secondary Wellspring is needed and none is invented. **Ur (Balance)** and **Ma (Memory)** are unchanged and attested. The card's third glyph, **Lo (Shield)**, does not exist in the Master Glyph Index; the attested glyph closest to its function — "imposes geometry, reinforces boundaries" — is **Th (Foundation)**, used elsewhere in the wiki for exactly this defensive-geometry role, so Th stands in Lo's place, noted rather than silently substituted. "The Heartbloom Tree" is unattested in current canon; kept because the bracer's origin cannot be stated without a source sapling, and flagged. "Book III — Songs Beneath the Canopy" and the Battle of the Thorned Crossing are not confirmed on Chimwala's own character card (which lists Books II, IV and V by name) but are not contradicted by it either; kept as the card's own history and flagged as unattested rather than converted, since nothing in current canon says otherwise. Mass and length are not given by the card; conservative figures for a forearm bracer of the described material are chosen below.
 
 ### What it is
 

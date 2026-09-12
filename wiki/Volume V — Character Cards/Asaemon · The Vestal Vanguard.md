@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f3-87a4-daf9467a1cc1"
 notion_url: "https://app.notion.com/p/Asaemon-The-Vestal-Vanguard-3d958200eb2281f387a4daf9467a1cc1"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:58:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Asaemon · The Vestal Vanguard
 
 > *"True mercy isn't found in the healing of a wound, but in the absolute precision of the cut that prevents its return."*
-> **Migrated with all content preserved, including both relics.** *"High-Order Mortal Spirit (Aether-Sensitive)"* is old-system phrasing for a mortal practitioner and is dropped in favour of plain human. *"Order of the Radiant Veil"* and *"Third Era (Post-Wellspring Awakening)"* are not attested; the card's own Trello label reads Voyager Era, and that governs the era. *"Triune Core: Aurevane · Temperance · Equilibrium"* names two non-Wellsprings; **Temperance** and **Equilibrium** are converted to **Judicium** (same Family as Aurevane, truth read as precision) and **Dissolution** (the Unbinding Stream, which is what Severance actually is). His stated *"Wellspring of Origin"* is converted to **Materia Primordia**, the First Substance, the nearest real Wellspring to that name. His Aether Class reads **Class II, Harmonic**, one band above Stage IV's own correlate; his card's stated efficiency is unusually high for his Stage and that gap is stated rather than hidden. His old strike-force figures (petajoule range) are far past what Stage IV can produce and are replaced with the Stage's own benchmark.
 
 ---
 

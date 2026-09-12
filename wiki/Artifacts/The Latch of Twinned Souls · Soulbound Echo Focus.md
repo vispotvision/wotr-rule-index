@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-819d-8b45-d9003ec8141c"
 notion_url: "https://app.notion.com/p/The-Latch-of-Twinned-Souls-Soulbound-Echo-Focus-3d958200eb22819d8b45d9003ec8141c"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:32:00.000Z"
 verification: "unverified"
 ---
 
 # The Latch of Twinned Souls · Soulbound Echo Focus
 
 ## The Latch of Twinned Souls · Soulbound Echo Focus
-
-> **Migration note.** Kept: appearance, the failed-Domain-anchor origin, the Mirrorwell Prism connection, all three effects (reduced field cost, instant tether, dual-tether sensory bond), all three limitations, the soulbound status, and Karo Venrik as sole bearer. Converted: "projection" and "Projection Focus" are retired-system vocabulary rewritten as Echo/tether language, matching Echo-Sovereign's own wording that a fielded Echo is Karo himself rather than a summoned thing. "Medium Core" is replaced with his real architecture: a Spirit-dominant, Attraction-secondary Crystal actively fracturing at Stage V. "AU cost" is split into EU (initial field cost) and the tether-establishment mechanic, consistent with the other two Karo entries in this batch. "Archonic trial site" and "Eressean Arcane Games / Projection Duel champion" are unattested as named institutions or events but are plausible under Eressean court culture's ceremonial, competitive bent, and are kept flagged rather than struck, since the origin and history sections cannot otherwise stand. The mythic by-name "Projection's Hand" is renamed to match corrected terminology and flagged as the one deliberate wording change in this card.
 
 ### What it is
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81a4-8688-c39d15abda92"
 notion_url: "https://app.notion.com/p/Liminal-Palace-of-False-Dawn-3d958200eb2281a48688c39d15abda92"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:16:00.000Z"
 verification: "unverified"
 ---
 
 # Liminal Palace of False Dawn
 
 ## Liminal Palace of False Dawn
-
-> Converted from an OPALIS ability card on the old Trello board. The card's primary/secondary Wellspring split, its three-outcome function (Mind-State Overwrite, False Motion/False Causality, Cataclysmic Clarity Break), its 500 m range and 120 m radius overlay, and its named limits, weaknesses and counters are kept as given. "Temperance Path XII, Emanation, Self as Law & Lens" converts to FOW Stage XII, Emanation; "Self as Law & Lens" is the card's own gloss on Attraction Path commitment at that Stage, not a separate mechanical field. The old free-text "Aether Class: Reality-Harmonic Illusory Refraction" is a caster attribute and is not reproduced as a technique field; it reads consistent with Class V, the Radiant, offered for Opalis's own sheet rather than settled here. All ten source Wellspring names (Oneirion, Fractura, Tenebra as primary; Basilithe, Orrenthal, Dissolution, Tarturon, Cataclysm, Penance, Petralon as secondary) and the three named counter-Wellsprings (pure Basilithe beings, Eidolyn, Hypnather) checked against the current Sixty and are attested without alteration. Oneirion is kept as primary Wellspring exactly as the card states it. Numerical Effect is read off the SSS-Grade row of the FOW Strike Force table as the ceiling on the scale of perceptual field the working can sustain, since the card gives no force value of its own and the working does not discharge force against a body.
 
 ### Summary card
 

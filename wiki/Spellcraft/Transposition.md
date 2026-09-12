@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81ca-9c1f-da432e6fcefb"
 notion_url: "https://app.notion.com/p/Transposition-3d958200eb2281ca9c1fda432e6fcefb"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:27:00.000Z"
 verification: "unverified"
 ---
 
 # Transposition
 
 ## Transposition
-
-> **Migration note.** Converted under the discipline-essay format for the same reason as the other three cards in this batch: multiple named practitioners across eras, not one character's signature working. "Spatial-Soul Displacement," "Positional Overwrite," and "fate-aligned phenomena" as loose descriptors are retired for current vocabulary. Transposition is Ritus (the card's own type header was already a genuine current Category and needed no change), harmonised to Spatium, Spatial Geometry, with **Transference**, the Living Exchange, as the load-bearing Wellspring: its core law, that what must pass onward may remain itself through motion, is a near-exact restatement of the card's own claim that the rite lets something "remain itself" while crossing to a different position. The card's "Wellsprings of Conjunction, Echo, and Fixation" do not survive unchanged: Conjunction is a genuine Category rather than a Wellspring and is kept as a Category tag; there is no Wellspring called Echo, and the function it described is covered by Transference itself; "Fixation" converts to **Fixatio**, the Binding Flame, a real Wellspring of Materia. The card's claimed glyph meanings for Ci, Th and Ra (mirror/duality, threshold/crossing, binding chain) do not match the readings attested elsewhere in current canon (Ci: Order/Honor, Th: Foundation, Ra: Transcendence, per the Spirit Rune Arts fragment) and are corrected below rather than kept, with the caveat that the full chain still wants checking against the Master Glyph Index's 136 attested forms, the same caveat standing on Karo Venrik's own sheet for an unrelated glyph string. Velcrissa of Selantra, Zeven Halek and his partner Cylus, Thalorath the Gatewrought, the Red Twins of Dorrosfenn, the Great Spirit War (confirmed real, see below), Echo Constructs, the Fall of the Fourth Prince of Rovann, the Dancer-Priests of Ilcin'dor, and the Volume III chapter citation are addressed individually in Practitioners and history.
 
 ---
 

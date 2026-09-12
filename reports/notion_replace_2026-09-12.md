@@ -1,8 +1,10 @@
-# replace Vāimoana -> Wadatsumi — APPLIED 2026-09-12
+# replace Crymorath -> Cymorath — APPLIED 2026-09-12
 
-1 block(s) across 1 candidate page(s).
-## The Kingdom of Kharven — The Ashen Crown  (3bc58200-eb22-8140-8205-d05c390faf37)
-- [paragraph] Ayame Yuno's ritual architecture, carried north out of Vāimoana by a daughter of the Manono Branch — the rarest line, trained from childhood in the grand season
-  → Ayame Yuno's ritual architecture, carried north out of Wadatsumi by a daughter of the Manono Branch — the rarest line, trained from childhood in the grand seaso
-  mirror refreshed: The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md
+2 block(s) across 1 candidate page(s).
+## The Abyssal Depths — Prometheus, Zar'thuun, Vohrin  (3c758200-eb22-81fb-a0e8-ce042e2c2142)
+- [paragraph] Defensive · Fulguria · Crymorath · Electromagnetism · Revelation+ · [Vor] Return + [Cro] Cycle
+  → Defensive · Fulguria · Cymorath · Electromagnetism · Revelation+ · [Vor] Return + [Cro] Cycle
+- [paragraph] Codex: [Vor] Return + [Cro] Cycle / Crymorath / Fulguria / Electromagnetism / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.
+  → Codex: [Vor] Return + [Cro] Cycle / Cymorath / Fulguria / Electromagnetism / Revelation+ / Titan-Keyed. Method, Grade, Range and Medium open.
+  mirror refreshed: The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md
 

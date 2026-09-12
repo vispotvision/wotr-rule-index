@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-811f-aa49-d23d8865efbd"
 notion_url: "https://app.notion.com/p/Florwyn-s-Canticle-3d958200eb22811faa49d23d8865efbd"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:13:00.000Z"
 verification: "unverified"
 ---
 
 # Florwyn's Canticle
 
 ## Florwyn's Canticle
-
-> Converted from an unconverted Trello ability card for Serenyra, who has no character card in current canon; this entry stands alone pending her own conversion. Verdantia, the card's primary Wellspring, is already a current Wellspring (Family Vitalia, Physics Domain Biochemistry) and needed no substitution. "Harmonic" as a second listed source again reads as her Aether Class rather than a true Wellspring, carried over as Class II, The Harmonic, consistent with the rest of her card set. The card's "Florwyn bloodline echo" does not exist in current canon: there is no Florwyn bloodline, only Florwyn, one of the Fourteen Titans, the Verdant Weaver, Seat of Edenis. Her Ground is explicitly stated to underlie both reincarnation and bloodline Trait inheritance, which is the exact mechanism the card needs, so the fact is kept and converted from "bloodline echo" to an inherited Trait-echo of Florwyn's own Ground. "Stage VI — Illumination" converts on the numeral alone to current Stage VI, named Glory; Grade required is read off that Stage's ceiling. "Necrotic / Abyssal Wellsprings" as a named weakness converts to Mortalis, the current Vitalia Wellspring that governs the Black Gate and is the direct current-canon opposite of Verdantia's own family. Range, duration, and every cost and limit are kept as given, already physical units.
 
 ### Summary card
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8188-b4d8-d9b195f254dd"
 notion_url: "https://app.notion.com/p/Characters-3b158200eb228188b4d8d9b195f254dd"
 section: "Characters"
 tags: ["Characters", "Bloodlines", "Reference Table"]
-last_edited: "2026-09-10T11:08:00.000Z"
+last_edited: "2026-09-12T16:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -41,5 +41,6 @@ The character record runs on a seventeen-part skeleton, and the order of the par
 - [Volume III — Character Cards](Characters/Volume III — Character Cards.md)
 - [Volume IV — Character Cards](Characters/Volume IV — Character Cards.md)
 - [Volume V — Character Cards](Characters/Volume V — Character Cards.md)
+- [Volume VI — Character Cards](Characters/Volume VI — Character Cards.md)
 
 ---

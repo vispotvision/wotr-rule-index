@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f2-99ba-ce42acca6b3b"
 notion_url: "https://app.notion.com/p/Aeldoris-Vanthryx-The-Ruthless-3d958200eb2281f299bace42acca6b3b"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Aeldoris Vanthryx · The Ruthless
 
 > *"You confessed the moment you dreamed."*
-> **Migrated with all content preserved, including both relics and both incidents.** *"Deep Oneiron exposure"* is a near-miss spelling of a real Wellspring; **the Wellspring is Oneirion**, corrected throughout. *"Aether Class: Oneiric-Kinetic / The Dreambreaker Aether"* is not among the seven; **Stage VII sits in Coherence Band C, and Band C's own correlate is Class III, Resonant**, the conductor Shell, first Class at which stat values translate to output at near-full fidelity, which is what a psychic combatant's clean read-and-project loop actually needs. *"Temperance Stage: VII Refraction"* needed no correction; Refraction already is Stage VII's FOW name, Band C, Max Tier Grade A with a late push toward S, Ceiling 475. *"Path Bias: Spirit (1.50) · Attraction (1.20) · Body (1.05)"* already used current Path vocabulary; Fate is added here as untouched, since a dream-executioner's Domain is fragile and new. **Arithmetic flag:** five Wellsprings are named (the Triune Core plus Somnalis and Letheveil as the "2 additional infections"); the card's "58 Wellsprings targeted" would make sixty-three of sixty; **corrected to fifty-five remaining.** *"Duration: 1.5 turns"* for the Hypnather Descent Rite is a game-mechanic unit, not a WOTR one; **converted to roughly ninety seconds**, marked as an estimate. **Unattested in current canon:** Veyran, as a lineage descriptor, the same unattested marcher region flagged on the Black-Crowned Bastion card in this batch, kept for the same reason. The card's Strike Force, Durability, Speed, Range and Aether Output figures are struck; the Volume V format carries no slots for them, matching the two sibling cards on this board. **The epithet "He Who Writes Mercy in Ash" is the third instance of this epithet on this board** (Francis Alexander, Kaelan Vorn), still pending ruling on which of the three actually holds it, if any. **Values chosen:** Level 195, high in Band II and just under the Stage VIII gate; η ~0.65 for Band C, an estimate one step above the Crimson Shade's own Band C figure, since a psychic conductor Shell holds less waste than a hemomantic one.
 
 ---
 

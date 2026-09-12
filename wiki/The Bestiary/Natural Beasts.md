@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-811c-bd39-e6d11fd75ca1"
 notion_url: "https://app.notion.com/p/Natural-Beasts-3b258200eb22811cbd39e6d11fd75ca1"
 section: "The Bestiary"
 tags: []
-last_edited: "2026-08-04T00:01:00.000Z"
+last_edited: "2026-09-12T16:08:00.000Z"
 verification: "unverified"
 ---
 
@@ -117,3 +117,5 @@ Proud, intelligent, **fiercely loyal to chosen riders**, territorial and protect
 **Vulnerable when grounded or separated from riders. Sensitive to Essence-disrupting magic targeting the bond or the flight. And they require vast territories and Wellspring-rich nesting sites to thrive** — which is why the elite cavalry units are as small as they are.
 *The Skyward Charge chronicles legendary hippogrif riders breaking enemy sieges. Several Concord orders maintain elite hippogrif cavalry renowned for rapid deployment.*
 - [Droval — The Frost-Howler](Natural Beasts/Droval — The Frost-Howler.md)
+- [Neiman Lion](Natural Beasts/Neiman Lion.md)
+- [Greater Wolf](Natural Beasts/Greater Wolf.md)

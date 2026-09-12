@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e5-864d-e2aed5b35dcc"
 notion_url: "https://app.notion.com/p/Elowen-Mireille-The-Porcelain-Archivist-3d958200eb2281e5864de2aed5b35dcc"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T17:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Elowen Mireille · The Porcelain Archivist
 
 > *"People reveal themselves when they feel safe. I make them very safe."*
-> **Migrated with all content preserved, including all three relics and all three Core Disciplines.** *"Aether Class: Memory Weaver, Anamnesis-Dominant Manipulator"* is not among the seven; **she is Class II, Harmonic**; Stage V and VI both sit in the Harmonic Crystal's Bands E-D. *"Temperance Stage: Stage V · Flourishing"* is a genuine mismatch, not just old vocabulary: **Flourishing is Stage IV in Fracture of Worlds; Stage V is Splintering. The numeral V is kept, per the standing conversion law, and the Stage name is corrected to Splintering.** *"Global Tier: Mid B Tier"* and *"Attraction Scale: B+ Tier Cognitive Field"* are struck and replaced with Grade B, with the instability risk above 320 that Stage V's own ceiling table carries, and a plain account of her Attraction Layer's actual, still-developing state. *"Path Bias: Spirit 45% / Attraction 40% / Body 15%"* used percentages the Four Paths don't carry; **all three named are real, current Paths, Fate simply absent, so the bias survives as Spirit dominant, Attraction secondary.** Her Triune Core listed **Veyra** alongside two genuine Wellsprings; **Veyra is the Eighth Archon, Desire, not a Wellspring**, so it is struck from her Wellspring list. **"Withering Age" is corrected to the Withering Era.** The Ledger Room is downgraded from "Proto-Domain state" to atmosphere: **Domain seed activation is gated to Stage VII, two Stages above her**, the largest gap in the batch, so the downgrade is the largest too. **The Ivory Ledger Society is unattested in current canon**, kept because the card cannot make sense without a faction to be embedded in.
 
 ---
 

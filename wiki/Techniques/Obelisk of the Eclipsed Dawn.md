@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81da-b877-e45d75dc3806"
 notion_url: "https://app.notion.com/p/Obelisk-of-the-Eclipsed-Dawn-3d958200eb2281dab877e45d75dc3806"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:15:00.000Z"
 verification: "unverified"
 ---
 
 # Obelisk of the Eclipsed Dawn
 
 ## Obelisk of the Eclipsed Dawn
-
-> Converted from an OPALIS ability card on the old Trello board. The card's six-Wellspring source list, its dual offense/defense construct-summon function, its 3 km/300-800 m range block, its four-Obelisk cap, and its named limits and weaknesses are kept as given. "Temperance Requirement: Stage XII, Emnation" converts to the FOW Stage of the same numeral, Stage XII, Emanation, whose Band, Level range and Max Tier Grade are read off the FOW Stage table rather than invented. The old free-text "Aether Class: Emanative Construct-Weaving" is a caster attribute, not a technique one; it is not reproduced as a field here, but the "autonomous convergence engine that reads intent" language it was gesturing at is consistent with Class V, the Radiant, and that reading is offered for whoever builds Opalis's own character sheet rather than asserted as settled. All six source Wellspring names (Tarturon, Basilithe, Petralon, Oneirion, Tenebra, Fractura) checked against the current Sixty and are attested without alteration. Basilithe is promoted to primary Wellspring for the Codex line because the Obelisk's own core concept, a crystalline monument, is Basilithe's law before it is any of the other five; the remaining five are carried below as secondary harmonisations, per the card's own unranked list. "Opalis" has no character card in the wiki mirror; she is kept because the technique cannot be written without a caster, and is flagged unattested pending her own sheet. Numerical Effect is read off the SSS-Grade row of the FOW Strike Force table, the ceiling for a Stage XII Spellcraft working, since the card gives no numeric force value of its own.
 
 ### Summary card
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814b-b06d-c80ca11e279c"
 notion_url: "https://app.notion.com/p/Scission-3d958200eb22814bb06dc80ca11e279c"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:28:00.000Z"
 verification: "unverified"
 ---
 
 # Scission
 
 ## Scission
-
-> **Migration note.** Kept: the rite's function (severing Trait from soul, Essence from body, memory from identity, or Wellspring from host), its status as a guild/Concord last resort, its use in exorcism and emergency Temperance failure, and both named practitioners. Converted: "Ritus Class" is now Category Ritus (Spirit-Aligned, formal and ceremonial per current taxonomy — this one did not need reassignment, unlike its sibling cards below), Family Limina, Wellspring Dissolution, Craft Spellcraft. The card's "Wellsprings of Verdiction, Fixation, and Echo" (law, form, memory) convert to Judicium, Fixatio and Anamnesis, the current Wellsprings governing those same three things. Stage floor, Grade, governing stats and EU figures are not on the card; I set them at the conservative end consistent with a rite gated behind trained Concord/guild practice rather than raw power — Stage VI, Grade A — and logged that choice below rather than writing "estimate." **Unattested in current canon:** Kujo Valorin, Zethyra the Veinwrought, the First War of Silence, the Soulquake of Tirres, the Fracturing of Edenis (Edenis itself is attested, Florwyn's realm; the named event is not), and the Pactless as a named Outer World doctrine (the Outer World quarter is attested; the sect is not). Parun glyphs Ci, Ra and Ka do not appear in the portion of the 136-form Master Glyph Index retrieved for this pass; only Th (Foundation, attested Petralon/Vectoria) is confirmed, so the others are flagged rather than asserted and should get a full glyph-index pass before this entry ships.
 
 ### Summary card
 

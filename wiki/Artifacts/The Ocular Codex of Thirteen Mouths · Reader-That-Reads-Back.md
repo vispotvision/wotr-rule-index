@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8153-9f66-d6c2d8b90cf0"
 notion_url: "https://app.notion.com/p/The-Ocular-Codex-of-Thirteen-Mouths-Reader-That-Reads-Back-3d958200eb2281539f66d6c2d8b90cf0"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:35:00.000Z"
 verification: "unverified"
 ---
 
 # The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back
 
 ## The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back
-
-> **Migration note.** Malphas is confirmed current canon (Ferment of Stars, Lord of Absolute Rot, leader of Rot's Bloom), so "exposure to Malphas's Rot samples" is kept as given. The Skyglass Archive, the Empire of Bluvest, Velthaeir, Caedor, the Black Concord, and the Arbitration Division are all confirmed current canon. "The Withering Age" is corrected to the Withering Era per the Errata to the Received Registers. The card's "Mnemata / Animatria" alignment is converted onto current terms: Family Limina, Physics Domain Abstract-Entropic, primary Wellspring Vantabriel (near-total absorption and hysteresis, matching a book that keeps what strikes it), secondary Anamnesis (the Wellspring of Remembrance, carrying the naming effect), Category Mnemata primary with Animatria secondary for the animate tendrils and page-wyrm. The card's Temperance range "Refraction to Severance" does not map to any Fracture of Worlds Stage; Severance is the Guild Accord's own legal term for dissolving a member's standing, not a Stage name. It is converted to the nearest attested pair, Refraction (Stage VII) through Transcendence (Stage VIII). Glyph `Ie`'s gloss is corrected from the card's "Insight" to the Master Glyph Index's attested gloss, Perception; Iesara's own magic is called Insight Magic, but the glyph itself is filed under Perception. Glyphs `Ma`, `Uur`, and `Wy` needed no correction. The card's invented effect-names (Interference Lock, Resonance Fracture, Topology Bias, Tunneling Cast, Cascade Overrun, Harmonic Mute, Lattice Burnout) are not attested WOTR terms and are dropped here for plain mechanism. R.A.D., the assembler named on the card, is unattested anywhere in the wiki mirror and is kept, flagged, because the origin has no substitute author. The Velthaeir Footnotes Affair is not independently attested (Velthaeir itself, the Eressean Floating Archive-City, is confirmed) and is carried on the card's own word. Physical figures are plausible estimates for a tome of this description; the card gives none.
 
 ### What it is
 

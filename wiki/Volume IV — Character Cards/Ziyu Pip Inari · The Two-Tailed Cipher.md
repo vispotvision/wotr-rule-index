@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f4-a05e-c613998ec7b2"
 notion_url: "https://app.notion.com/p/Ziyu-Pip-Inari-The-Two-Tailed-Cipher-3d958200eb2281f4a05ec613998ec7b2"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Ziyu "Pip" Inari · The Two-Tailed Cipher
 
 > *"You never see the snare until the flowers open."*
-> **Migrated with all content preserved.** *"Shadow / Flora / Charm"* were not Essence types; they are re-sourced below to Tenebra, Verdantia with Fixatio, and Harmonics. *"Temperance Cycle: The Verdant Veil"* is not a Stage; the Verdant Veil is kept as the Signature. **The card states no Temperance Stage, no Level and no Aether Class.** The wiki mirror already carries a committed Volume IV character card for this exact man — *Stage VII, Refraction, Level 220, Class III Resonant, η ~0.60, Coherence Band C*, and a full stat allocation — with the Stage explicitly marked as originated on the strength of the seed mechanic: a working left in the ground that fires after the practitioner is gone is a Domain seed, and Refraction's own Threshold Catalyst is the first Domain seed activation, however fragile. **That committed sheet is adopted here in full**, closing Stage, Level, Class, η and the entire stat table rather than leaving them as an outside proposal. **Attested:** the Black Concord (the Accord's sixth and unspoken Division), the Kuromaki Association (a Beastkin guild, on Saruin Kye's sheet), Hyo Miran and Aurevian Lysanthir (both with Volume IV sheets), the Voyager Era (Imperial Age, Year 000 to 070). **Unattested:** a "Shadow Court" and any Archon belonging to one; the Fourteen Archons are named beings and no Shadow Court sits among them.
 
 ---
 

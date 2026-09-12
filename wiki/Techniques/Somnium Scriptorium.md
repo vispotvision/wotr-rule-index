@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-815a-9afd-e2b49fb02068"
 notion_url: "https://app.notion.com/p/Somnium-Scriptorium-3d958200eb22815a9afde2b49fb02068"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:14:00.000Z"
 verification: "unverified"
 ---
 
 # Somnium Scriptorium
 
 ## Somnium Scriptorium
-
-> **Migration note.** Converted from the Trello card of the same name. The practitioner, **Serenyra**, has no character card in the current wiki mirror and is kept as **unattested in current canon** because the technique cannot be stated without an owner (see the companion notes on *Speculum Harmoniae* and *Lumen Dissecans*, converted in the same batch, for the character-level Class and Wellspring roster this entry shares). Her old Aether Class, "Symphonic Scholar," converts to **Class III, the Resonant**, held consistent across all four converted entries. Her old Path, "Spirit → Mind," names a Path that is not one of the current four; **Mind is dropped and Spirit Path is kept**, since Spirit already headed the card's own listing and Spirit is the Path that gates Gnosis, the perception and cognition work this technique runs on. The old Wellsprings "Dream" and "Harmonic" are placeholders rather than names off the Sixty; re-sourced to **Oneirion** (Limina, the Wellspring of Dream, the narrative trapping the card describes) and **Eidolyn** (Limina, the Shaping Mind, the "binding through story-structure" the card names, since Eidolyn is the Wellspring that gives mental constructs solidity). Old Stage "VII, Diffraction" keeps its numeral; Stage VII's current name is **Refraction**. **The Iridescent Archive**, the card's filing destination, has no wiki entry and is kept as an **unattested** proper noun. "Turns" is kept as the source's own duration unit; no current-canon replacement is mandated.
 
 ---
 

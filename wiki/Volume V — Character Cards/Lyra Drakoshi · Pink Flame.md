@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8172-905e-db586b626820"
 notion_url: "https://app.notion.com/p/Lyra-Drakoshi-Pink-Flame-3d958200eb228172905edb586b626820"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:56:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Lyra Drakoshi · Pink Flame
 
 > *"Relax. If something tries to kill you, I will roast it first and ask questions if there is anything left."*
-> **Migrated with all content preserved.** **"Aether Class: Draconic Furnace Knight"** is not among the seven; **she is Class II, The Harmonic**, and her old efficiency reading of 0.78 sits inside that Class's own fifteen to twenty-five percent loss band with no adjustment needed. **"Draconic Ascendant (Humanoid Dragonblood)"** is partly attested: the Outer World's draconic bloodlines and the Ten Great Houses of Drakyssia are current canon, but no register uses the exact phrase "Draconic Ascendant." It is kept, flagged as **unattested in current canon**, because the card cannot describe a horned, tailed, scaled humanoid swordswoman without some such term. **"Outer World border freeholder"** converts cleanly to an **Independent Concord Freeholder**, an attested standing. **Imperial Calendar** corrects to the **Imperial Age**. Her three Wellsprings, **Pyreveil, Ignivale, Rebirthine**, needed no correction.
 
 ---
 

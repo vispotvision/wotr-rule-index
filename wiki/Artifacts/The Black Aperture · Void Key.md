@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8125-ada8-d27325cdd16e"
 notion_url: "https://app.notion.com/p/The-Black-Aperture-Void-Key-3d958200eb228125ada8d27325cdd16e"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:35:00.000Z"
 verification: "unverified"
 ---
 
 # The Black Aperture · Void Key
 
 ## The Black Aperture · Void Key
-
-> Migration note: the old Essence Alignment "Vectra (spatial) plus Harmonia (silence), negative-pressure profile" mixes two Magical Categories where a Wellspring Harmonization belongs; it converts to Nihiloth (The Hollow Law) primary and Letheveil (The Waters of Forgetting) secondary, both Limina, Entropy/Void/Mind, with Vectra and Harmonia kept below as the Category-register names for what the two effects look like rather than what powers them. "The Echo Collapse of Dorrosfenn" is not itself attested, but Dorrosfenn and a "Fracturing of Dorrosfenn" tied to Essence contamination are independently confirmed canon; the old card's event name is kept as the record's own name for that same fracturing rather than treated as a second, separate event. The Black Concord, Skyglass Archive, Varūn and its deep catacombs are all independently confirmed canon and used here as attested. "Dell" and "Nightwell-3" have no direct match and are kept as unattested Black Concord internal names, since the card cannot state its own current custody without them. Of the three glyphs given, *Uur* (Disruption) and *Ur* (Balance, inverted) match the Master Glyph Index exactly; *Ie* is an attested glyph but its canon gloss is Perception, not Insight, so the gloss is corrected while the glyph itself is kept. No numeric figures were given on the card; mass, length and every EU figure below are conservative estimates, marked as such.
 
 ### What it is
 

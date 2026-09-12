@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-817f-b32a-d49477acb8ea"
 notion_url: "https://app.notion.com/p/Bastion-Imperium-3d958200eb22817fb32ad49477acb8ea"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:19:00.000Z"
 verification: "unverified"
 ---
 
 # Bastion Imperium
 
 ## Bastion Imperium
-
-> Converted from a Trello signature ability naming Drakvor. No character card exists for Drakvor in the wiki mirror (`character`, `wiki` both return nothing); he is kept because the entry cannot function without a named practitioner, and is flagged here as unattested in current canon pending a character sheet Isaac supplies. Coagula and Judicium both check out unchanged against current canon: Coagula is Materia, Material Science; Judicium is Fulguria, Electromagnetism. "Temperance Requirement: Stage VIII Benediction" used a Wellspring's name as if it were a Stage name; the current Stage VIII is Transcendence, and that correction is applied throughout this entry and in Edict Strike. "Aether Class: Iron Will Aether" is free text and is replaced with the table-derived class for Stage VIII's Band B, which is Class V, the Radiant. "Path: Body-Fate" checks out unchanged, both being current canonical Paths. Duration is restated in seconds. The old Tags line (Coagula Binding, Judicium Weight, Structural Aether) is folded into the Codex line and Design Chain rather than kept as free-text tags.
 
 ### Summary card
 

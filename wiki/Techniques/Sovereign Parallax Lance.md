@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-811b-ac95-da20426ddaf7"
 notion_url: "https://app.notion.com/p/Sovereign-Parallax-Lance-3d958200eb22811bac95da20426ddaf7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:16:00.000Z"
 verification: "unverified"
 ---
 
 # Sovereign Parallax Lance
 
 ## Sovereign Parallax Lance
-
-> Converted from the Trello card "SOVEREIGN PARALLAX LANCE" (Opalis). The card's bearer is verified in current canon only as a one-line legend entry, "Opalis Maethryn, the Radiant Arbiter," in *The Concord Military*; no character sheet or FOW line exists for her anywhere in the wiki mirror, so every number below is chosen conservatively off the Fracture of Worlds tables per Law Two rather than pulled from a sheet, and is marked as an estimate. "Temperance XII — Emnation" converts to Stage XII, Emanation, Band S, Grade ceiling SSS, stat ceiling 950. The free-text "Aether Class: Harmonic Cataclysmic Refraction Art" is not a Class; the conservative Class consistent with a Radiant-epitheted practitioner performing world-bending destructive selection is Class V, the Radiant. "Path: Self-as-Law" is not a Path; the working is a projected ranged strike, so it is read as Spirit Path. All nine named Wellsprings (Fractura, Cataclysm, Dissolution primary; Basilithe, Orrenthal, Petralon, Tenebra, Tarturon, Penance, Oneirion secondary) check out against the current Sixty. "The Iridescent Archive" filing destination is old-board terminology carried over only as a folder name; it is not an attested in-world location and nothing in the entry below depends on it.
 
 ### Summary card
 

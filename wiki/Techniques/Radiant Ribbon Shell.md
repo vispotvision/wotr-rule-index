@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814b-88b9-e2274801acc1"
 notion_url: "https://app.notion.com/p/Radiant-Ribbon-Shell-3d958200eb22814b88b9e2274801acc1"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:11:00.000Z"
 verification: "unverified"
 ---
 
 # Radiant Ribbon Shell
 
 ## Radiant Ribbon Shell
-
-> Converted from a pre-Fracture Abilities card presenting a voice-based technique class with no named practitioner, filed as a template ("Harmonic Choir-Type") rather than as one person's art. The old Temperance numerals VII and VIII already match the current FOW Stage names, Refraction and Transcendence, and needed only confirmation. The card gives no free-text Aether Class; it is derived from the per-stage Coherence Band at floor and apex, Band C at Stage VII and Band B at Stage VIII, which read directly off the table as Class III, the Resonant, ascending to Class V, the Radiant, a reading the technique's own name already anticipates. The old primary Wellspring "Voice" is not on the Sixty; it is replaced with Judicium, the Wellspring of Truth, which the card's own Verity Timbre trait already describes functionally. The old secondary "Aurevane," used by the card for an air effect, is corrected: current canon's Aurevane governs Light, not Air, so the air-scaffold function is carried instead by Cymorath, the actual Air Wellspring on the Sixty. "Memory / Ma" converts to Anamnesis, with the glyph root Ma read as shorthand for Maelor, the Archon of Memory already attested in current cosmology. Range, decibel, and speed figures are physical units and are kept as given. The implements (Ribbon-Staff, Cantor's Mantle, Seal-Pin, Feather Vows) are unattested custom items kept because the technique cannot be read without them.
 
 ### Summary card
 

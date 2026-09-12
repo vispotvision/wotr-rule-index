@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-819d-bcfc-c122d09af21d"
 notion_url: "https://app.notion.com/p/Cyranthia-Valez-The-Gilded-Marionette-3d958200eb22819dbcfcc122d09af21d"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Cyranthia Valez · The Gilded Marionette
 
 > *"Power is not force. It is agreement shaped correctly."*
-> **Migrated with all content preserved, including all three relics and both Core Disciplines retained as Wellspring workings.** *"Aether Class: Influence Weaver, Attraction-Dominant Manipulator"* is not among the seven; **she is Class II, Harmonic** (Stage VI sits in the Harmonic Crystal's Bands E-D). *"Global Tier: High B Tier"* and *"Attraction Scale: A Tier Social Influence Field"* conflate old freeform grading with the Tier Grade ladder; **both are struck and replaced by Grade A (Stage VI's own ceiling) and a plain account of how far her Attraction Layer has actually developed.** *"Path Bias: Attraction 60% / Spirit 25% / Body 15%"* used percentages the Four Paths don't carry; **the three named Paths (Attraction, Spirit, Body) are real and current; Fate is simply absent; so the bias survives as Attraction dominant, Spirit secondary.** Her Triune Core listed **Veyra** alongside three genuine Wellsprings; **Veyra is the Eighth Archon, Desire, not a Wellspring at all**, so it is struck from her Wellspring list and kept only as the Archonic patronage the card's own voice already implied. **"Withering Age" is corrected to the Withering Era** per the Guild's Errata. Her Salon is downgraded from a stated "Proto-Domain state" to a conditioned space: **Domain seed activation is gated to Stage VII**, one Stage above her, and the card's own trajectory line already reads this correctly as a thing still approaching. **Targeted Uninfected: 54** has no Fracture of Worlds correlate; kept below as a plain fact about the size of her standing network. Level and stat spread are conservative choices within Stage VI, Band II, stated below. **Sable Rose Consortium, the Rose Courts, the Ivory Ledger Society, the First Empire and the Ember Crown Dominion do not appear elsewhere on this board's cards; unattested in current canon, kept only because the sheets that use them cannot make sense without them.**
 
 ---
 

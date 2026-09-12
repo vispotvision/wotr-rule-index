@@ -18,8 +18,7 @@ verification: "unverified"
 - **R14-A.** Stage names: Ignition and Temper on cards versus Murmuring and Flourishing in Fracture of Worlds and the Codex.
 - **R14-F.** Renard's Level 198 at Stage IV against the Band structure.
 - **The Lambert line.** Whether the dead Tenrai practitioner told the truth about the west postern.
-- **Raga delivery method.** Spoken or poured; decides how Kalaabad can kill the construct.
-- **Kaalabad / Kalaabad** spelling.
+- **Raga delivery method.** Spoken or poured; decides how Kaalabad can kill the construct.
 
 ## From Pack Thirteen
 

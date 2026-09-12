@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-811f-b07d-ced7f73a4ed4"
 notion_url: "https://app.notion.com/p/Serai-Linthra-The-Serpent-Alchemist-3d958200eb22811fb07dced7f73a4ed4"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:38:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Serai Linthra · The Serpent Alchemist
 
 > *"Every element yearns to become something else. My duty is only to listen, and help it remember what it could be."*
-> **Migrated with all content preserved.** *"Race: Human (Post-Transmutive / Chimera-linked)"* is not a race tag; she is **human**, half-organic and half-construct after years of transmutive work on her own body, and *"Chimera-linked"* describes her bond with Aroth rather than a lineage. *"Temperance Path: Stage VIII — Benediction"* names a Wellspring, not a Stage; **Benediction is Vitalia's own current, not one of the sixteen Stages.** Stage VIII is **Transcendence**, and the correction is made here. *"Division of Alchemetrica: Transmutation Sect"* does not exist under that name; Alchemetrica is attested as a practitioner's codex issued through the Guild Accord's **Research and Archives Division**, and she is filed under **the Alchemists' Society**, chartered beneath it. *"Rank: T6 Senior Alchemist"* already matches current Tiered Path math for Stage VIII (Tier 6, Master, Sovereign cluster), so no correction was needed there. *"Aether Class: Transmutive Soul — Chimera Mode"* is not among the seven; she is **Class III, Resonant**. **Kael'Nir, the Silver Marshes** is not attested anywhere in the wiki mirror and is kept only because the card cannot place her without an origin; flagged accordingly.
 
 ---
 

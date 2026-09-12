@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-815a-ad87-f599ab3d6297"
 notion_url: "https://app.notion.com/p/Kozakura-Shion-The-Bloomwarden-3d958200eb22815aad87f599ab3d6297"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Kozakura Shion · The Bloomwarden
 
 > *"I don't spare everything—I spare what lets you grow."*
-> **Migrated with all content preserved: the look, the three Traits, the three Implements, all five Techniques, the Duties, the Limits and the three Hooks.** The card's Trello label *Withering Age* converts per the Errata to the **Withering Era**, Year 645 of the Imperial Age to open. *"Flow: Harmonia + Animatria with a fine Mnemata thread"* names three of the twenty-six Magical Categories and is kept as Categories; the Wellsprings underneath are assigned below. **The card states no Temperance Stage, no Level and no Aether Class.** **Stage VIII, Transcendence, is assigned and committed:** *he shares the Reaper's own working circle with two other retained Volume V specialists, Shiragiku Iori and Natsume Kurogiku, both independently read at Stage VIII on the strength of a dual reading identical in shape to Pruner's Sight (a grudge that is also a physical sucker on a stem, a tie that is also a physical cord with tension) — nothing on the card claims Shion works at a different scale than his two sisters-in-craft.* **Class III, Resonant; Coherence Band B; η ~0.70** follow from the same peer architecture. **Level 228** is set below both named peers (Iori 238, Natsume 240), the conservative choice since the card gives no basis to place him level with or above them. The stat table is filled below rather than omitted. **Attested:** the Guild Accord; the Reaper, Yukizumi Yukari (Volume IV sheet, Arbitration Division, Vocatia charter); Shiragiku Iori, Natsume Kurogiku, Sumire Nekoha, Deimos, Lilium Verdanis "Lily-Quill," Cassiel Asterion and Maelia Cantorine, all with Volume V sheets; "Drum-Domains" (on Maelia's and Moros Pellayne's sheets) and "Measures" (on Natsume's sheet). **Unattested:** the "Vernal Office" as a named seat under the Reaper. *Hanafubuki*, *Hanebari* and the kokeshi are Japonic-register names in the practitioner's own language and stand as written; the register says nothing about ethnicity. **The relationships are one-directional on the record:** Iori's, Natsume's and Deimos's sheets do not list Shion.
 
 ---
 

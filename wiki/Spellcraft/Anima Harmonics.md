@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8121-8dd7-e9a3f7ddb270"
 notion_url: "https://app.notion.com/p/Anima-Harmonics-3d958200eb2281218dd7e9a3f7ddb270"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:26:00.000Z"
 verification: "unverified"
 ---
 
 # Anima Harmonics
 
 ## Anima Harmonics
-
-> The old card converts directly onto Branch One of the current canon page *The Harmonic Arts*, which is titled Anima Harmonics on the nose and preserves almost every fact the card gives: the soul's tone as a "signature," deep soul reading, Wellspring stabilization, Trait tracking, the ban on tuning another soul's Anima without consent, and Caelmorne Halvrein as the branch's defining practitioner. Caelmorne is confirmed canon; his epithet turns out to be *He Whose Silence Was Sung by the Moon*, which the companion Divination card gave to a second person, Serenhal Caelmorne, who does not exist as a separate figure in canon and is dropped here as an unattested duplicate. Thalos of Ira (the card's "Thalos of Irā") and the Auricle Choir are both confirmed canon, the latter's doctrine quoted almost verbatim. Mnirah Valein is a real figure but canon files her under the Spirit Summoning Arts and the early Reconstruction Age (the card's "Age of Deliberation," converted per the Errata table), codifying spirit-infusion theory rather than Anima Harmonics itself; her card claim of integrating Anima Harmonics into Spirit Construct design is kept but flagged unattested as a crossover. "Age of Grace" is dropped as unattested (see the Divination Harmonics migration note); "Age of Calamity" and "Voyager Era" stand. "Essence types," "spiritual signature," and "soulcraft" convert to current vocabulary throughout.
 
 ### What it is
 

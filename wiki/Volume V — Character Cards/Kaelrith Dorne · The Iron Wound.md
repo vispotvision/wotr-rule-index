@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812c-a956-d16a32c3350e"
 notion_url: "https://app.notion.com/p/Kaelrith-Dorne-The-Iron-Wound-3d958200eb22812ca956d16a32c3350e"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:23:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Kaelrith Dorne · The Iron Wound
 
 > *"Don't call it courage. It's what's left when the fear burns out."*
-> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage VII – Resolution"* is a Stage-error of the third class: Resolution is not among the sixteen. **The numeral wins; Stage VII is Refraction.** *"Path: Body / Will / Endurance"* is not a Path; **Body dominant, Spirit secondary, with Will and Endurance read as Tempering and Resilience weighting.** *"Aether Class: Gravemind Soldier"* is not among the seven; **at Stage VII, Coherence Band C, the Shell is Class III, Resonant**, and the pain-to-stability conversion is filed as a Trait riding Fixatio's law. *"Late Withering Age – Voyager Era Transition"* is an inverted register under the Errata; the Withering opens at Year 645 and is open now, so **the present is the Withering Era.** **Anguz** is one of the nineteen orphaned realm entries pending keep-or-strike; the card places it on the Outer World frontier and the Material Index files its collapsed mines as a northern holding. **Both readings recorded, neither chosen.** **Babyl is struck from canon** and carried here only as the frontier the card names. **Unattested in current canon:** the Withering Rebellions, the Siege of Cindralith, Oathglass, the Arbitration of Anguz, and the title *Gravemind Soldier*. The Enforcement Division is attested. **Resolved in this pass:** the stat pool follows *Fracture of Worlds — The Living System*, Part Three, whose own rates give 1,200 from Band I, 1,440 from 96 levels of Band II, and 2,800 from Thresholds I–VII (100 × the sum of Stages I through VII) — Pool 5,440, superseding the brief's flat-rate approximation (7,200). Level stays at 196, placed at the top of Band II. Allocated is set to 5,390, the 50-point remainder read as the stiffness of a Crystal calcified rather than refined.
 
 ---
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81aa-9827-c4c6043b24aa"
 notion_url: "https://app.notion.com/p/Archivium-Locus-3d958200eb2281aa9827c4c6043b24aa"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:12:00.000Z"
 verification: "unverified"
 ---
 
 # Archivium Locus
 
 ## Archivium Locus
-
-> Converted from an unconverted Trello ability card for Serenyra, who has no character card in current canon; this entry stands alone pending her own conversion. The card's dual "Wellspring: Harmonic / Spatial" listing is folded to one true Wellspring, Transference, since no Wellspring named Harmonic exists among the Sixty and the recurring "Harmonic" label reads instead as her Aether Class (Class II — The Harmonic, converted from the old free-text "Symphonic Scholar," carried over unchanged from the rest of her card set). "Spatial" converts directly to the Family Spatium, and Transference is the Spatium Wellspring whose canon description (redirecting force along a relational channel rather than blocking it) matches the card's mechanism exactly. Old "Path: Mind → Fate" does not sit on the current Four Paths; the working's actual resolution is a Fate-side operation (reading and redirecting trajectory), so the Path gate is set to Fate and Mind is dropped rather than mapped. "Stage VII — Diffraction" converts on the numeral alone to current Stage VII, named Refraction; Grade required is read off that Stage's ceiling. The item "Thesauriel," offered in the source only as one option beside plain gesture, is dropped as an unverifiable proper noun with no current-canon entry, since the source itself makes it optional. "Scribal Arts," named as a counter, is not a current Craft or Category; it is rendered below as Glyphica-class disruption, the nearest current equivalent. Range, duration and every cost and limit are kept as given, already physical units.
 
 ### Summary card
 

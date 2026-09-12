@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81a5-b868-ec33d20c359f"
 notion_url: "https://app.notion.com/p/Hypnather-Descent-Rite-3d958200eb2281a5b868ec33d20c359f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:24:00.000Z"
 verification: "unverified"
 ---
 
 # Hypnather Descent Rite
 
 ## Hypnather Descent Rite
-
-> **Migration note.** No character card exists for Aeldoris in current canon (checked against the wiki mirror directly). Rather than invent a stat sheet, the Governing Primary and Sub-Stats below are named by Wellspring affinity only, with no numeric score attached, the same choice already made for his other two documented techniques (Letheveil Memory-Quake, Oneiron Parasite). Hypnather, Letheveil and Oneirion are all confirmed Limina Wellsprings, but current canon documents Hypnather's law as a passive, personal one: a Crystal relaxing toward its own equilibrium arrangement during genuine, undisturbed rest, a process that "cannot be forced." The old card's forced paralysis-on-a-target reading does not fall out of that law honestly, so the technique is rebuilt below as a deliberate weaponisation of all three Wellsprings' own documented failure modes (interrupted relaxation, generation loss, projection error) rather than of their intended functions, which is exactly the invention the technique-design rule calls for: what a practitioner does with a phenomenon that a physicist, or an honest Wellspring, would not. "Aether Class: Dreambreaker Aether" converts to **Class VI, The Voidic**, matching the conversion already made twice for this same practitioner's other techniques: the table ties Voidic explicitly to "deep Limina harmonization," and this rite runs three Limina Wellsprings simultaneously, the deepest harmonization of Aeldoris's three documented techniques. "Duration per turn: 1.5 turns" converts to Spellcraft's attention-held model, noted only as the shortest-holding of Aeldoris's three documented techniques. Range (60 m) is a real unit and is kept as given.
 
 ### Summary card
 

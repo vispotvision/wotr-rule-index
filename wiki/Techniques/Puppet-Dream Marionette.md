@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-813c-a4f1-dd986f62009c"
 notion_url: "https://app.notion.com/p/Puppet-Dream-Marionette-3d958200eb22813ca4f1dd986f62009c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:24:00.000Z"
 verification: "unverified"
 ---
 
 # Puppet-Dream Marionette
 
 ## Puppet-Dream Marionette
-
-> **Migration note.** Converted from the Trello card "Somnalis 'Puppet-Dream' Marionette" (Aeldoris). "Aether Class: Dreambreaker Aether" is not one of the seven current Aether Classes; converted to **Class VI, The Voidic**, the one Class the table itself ties to "deep Limina harmonization," which fits a kit built on three Limina/Fluxia Wellsprings. "Path: Spirit → Attraction Drift" is kept as Spirit Path primary with a stated drift toward Attraction Path (the two real Paths nearest that description; Attraction Drift itself is not a current term). Somnalis, Oneirion and Eidolyn all verified against the Sixty (`wiki`); their Family and Sub-Stat affinities are pulled from *The Eight Families & the Sixty Wellsprings*, not invented. "Stage VII Refraction" already matches the current Sixteen Stages exactly, so the numeral and name stand unchanged. Category (Harmonia) chosen from the twenty-six because its Spirit↔Attraction alignment matches the card's own Path arrow and its function (tuning another Crystal's fear-response until it moves the body) matches Harmonia's definition most closely among the twenty-six. Range (0-60m) was already in real units. The old "1 turn" duration unit has no FOW equivalent; converted at an estimated 5 seconds per turn (one exchange), marked as an estimate. **Aeldoris is unattested in current canon** (no wiki or character-card entry); kept because the card cannot be converted without a caster, and the card gives no further biography to draw on.
 
 ### Summary card
 

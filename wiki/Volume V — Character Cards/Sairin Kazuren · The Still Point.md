@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81e1-a5a2-e8f0627274f6"
 notion_url: "https://app.notion.com/p/Sairin-Kazuren-The-Still-Point-3d958200eb2281e1a5a2e8f0627274f6"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:50:00.000Z"
 verification: "unverified"
 ---
 
 # Sairin Kazuren · The Still Point
 
 ## Sairin Kazuren · The Still Point
-
-> **Migrated with all content preserved.** *"Stage VI Glory" is retained exactly; the numeral and name already match Fracture of Worlds.* **"Aether Class: Stillblade Monastic Animus" is not among the seven** — her Stage VI Crystal correlates to **Coherence Band D**, which seats her at **Class II, Harmonic**, not the free-text class the card invents. *"Mireyan Eastern Human"* is not a race tag; she is **human**, and **Mireya / the Regency of Mireya** is kept as her realm, though the wiki mirror carries it as one of nineteen orphaned realm entries still pending a keep-or-strike ruling elsewhere in Volume V — this card does not decide that question, only inherits it. **Attested:** Judicium, Sublimatio, Tenebra, all three correctly sourced to their Families below. **Unattested in current canon, kept because the card cannot stand without them:** the Kazuren name and clan, and the Quiet Shrine where she was raised. *Old Strike Force and Aether Output figures (32 gigajoules, 120,000 AU/s) are old-system numbers not carried forward; her Primary Stats below are derived fresh from the Stage VI ceiling.*
 
 ---
 

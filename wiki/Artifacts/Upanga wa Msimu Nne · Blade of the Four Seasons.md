@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-810d-ba1c-d2604de2c710"
 notion_url: "https://app.notion.com/p/Upanga-wa-Msimu-Nne-Blade-of-the-Four-Seasons-3d958200eb22810dba1cd2604de2c710"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
 # Upanga wa Msimu Nne · Blade of the Four Seasons
 
 ## Upanga wa Msimu Nne · Blade of the Four Seasons
-
-> Migration note: "Nature-Aether / Harmonic-Aether / Seasonal Flux" is struck and replaced with Chimwala's attested Wellspring Harmonization, Verdantia primary with Rebirthine (The Cycle Eternal) as the seasonal-cycle secondary, both Vitalia, Biochemistry. "Edenis Wellspring" is explicitly struck on Chimwala's own character card ("not among the sixty; Verdantia is"), so the tempering site converts to the Mireya Well, an attested Verdantia-aligned site already tied to his record; "under the light of all four moons" is kept as flavour, unverified against any lunar canon. The Sylvaar are independently attested (Varrisak of the Sylvaar Wandering); "the Sylvaar moonbound orders" is Chimwala's own card's exact phrasing for his tie to them, so the card's "Sylvaar Moonbound Orders" is folded into that lowercase, already-canon form rather than treated as a separate named institution. Of the four glyphs given, *Ur* (Balance) and *Wy* (Motion) match the Master Glyph Index exactly; *Fa* and *Sa* do not exist as forms and are corrected to *Yn* (Bloom) and *Ka* (Cycle), the nearest attested glyphs carrying the same intent. "Treaty of Green Sky" and "Rotwood" have no wiki match and are kept as unattested place and treaty names, since the card cannot state its own origin or historical use without them. No numeric figures were given; mass, length, balance and every Essence-cost figure below are conservative estimates, marked as such.
 
 ### What it is
 

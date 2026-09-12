@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8128-a632-e5079a0a26c2"
 notion_url: "https://app.notion.com/p/Nkanda-wa-Mizimu-Necklace-of-the-Spirit-Chorus-3d958200eb228128a632e5079a0a26c2"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:33:00.000Z"
 verification: "unverified"
 ---
 
 # Nkanda wa Mizimu · Necklace of the Spirit Chorus
 
 ## Nkanda wa Mizimu · Necklace of the Spirit Chorus
-
-> **Migration note.** "Spiritual-Aether / Harmonic-Aether" is pre-Fracture vocabulary and is retired; the necklace is reassigned to **Anamnesis** (primary) and **Eidolyn** (secondary), both attested Limina harmonizations on Chimwala N'Doro's current card and the correct mechanism for ancestral-memory communion. The Parun glyphs **Ma (Memory)** and **Ie (Insight)** are unchanged — both attested. The card's third glyph, **Ta (Voice)**, does not exist in the Master Glyph Index; the attested glyph for that exact function is **Vo (Voice)**, so the torque now carries Vo in Ta's place, noted here rather than silently swapped. "Sanctum of the Thousand Voices" is unattested in current canon — kept because the necklace's forging cannot be stated without a forging site, and flagged. "The Innerworld Grove" and "the Verdant War Council" are both attested exactly on Chimwala's own card and required no change. Mass is not given by the source card; a conservative figure for a ceremonial torque of this description is chosen below and flagged.
 
 ### What it is
 

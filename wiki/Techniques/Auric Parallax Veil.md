@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8137-90e5-fc53d6a06e7c"
 notion_url: "https://app.notion.com/p/Auric-Parallax-Veil-3d958200eb22813790e5fc53d6a06e7c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:15:00.000Z"
 verification: "unverified"
 ---
 
 # Auric Parallax Veil
 
 ## Auric Parallax Veil
-
-> Converted from an OPALIS ability card on the old Trello board. The card's primary/secondary Wellspring split, its selective-negation/reinforcement/refraction-break function, its 400 m line-of-sight range and 60 m sheet area, and its named limits, weaknesses and counters are kept as given. "Temperance XII, Emanation, The Path of Self-as-Law" converts to FOW Stage XII, Emanation; "The Path of Self-as-Law" is the card's own gloss on what committing to Attraction Path at that Stage feels like from inside, not a fifth Path, and is not reproduced as a separate mechanical field. The old free-text "Aether Class: Harmonic Reality-Phase Articulation" is a caster attribute and is not reproduced as a technique field; its "reshapes the rules" language reads as Class V, the Radiant, offered for Opalis's own sheet rather than settled here. All ten source Wellspring names (Basilithe, Fractura, Tenebra as primary; Oneirion, Penance, Petralon, Orrenthal, Tarturon, Cataclysm, Dissolution as secondary) and the two named weaknesses (Hypnather, Eidolyn) checked against the current Sixty and are attested without alteration; Basilithe is kept as primary Wellspring exactly as the card states it. Numerical Effect is read off the SSS-Grade row of the FOW Strike Force table, since the card gives no numeric force value of its own; it is used here as the ceiling on what the Veil's law-selection can override, not as a discharge the Veil itself deals.
 
 ### Summary card
 

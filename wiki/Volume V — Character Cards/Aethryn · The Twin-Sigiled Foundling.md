@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81b4-a204-d34820424574"
 notion_url: "https://app.notion.com/p/Aethryn-The-Twin-Sigiled-Foundling-3d958200eb2281b4a204d34820424574"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:45:00.000Z"
 verification: "unverified"
 ---
 
 # Aethryn · The Twin-Sigiled Foundling
 
 ## Aethryn · The Twin-Sigiled Foundling
-
-> **Migrated with all content preserved: the twin sigils, the three Core Disciplines, both weaknesses, and the two Incident Records.** *"Aether Class: Proto-Resonant Child — Twin-Sigil Vessel"* is not among the seven; **he is Class I, the Muridic.** *"Stage III — Ascension"* already matches current Fracture of Worlds naming exactly, a rare direct hit; the card's *"anomalous Stage VII resonance spikes"* are converted into Overchannel events under Crystal Fracture risk rather than a second, unstable Stage. The profile's *"hybrid resonance of Aether and Abyss"* and the *"Abyssal-Fixatio hybrid"* on Eclipse Touch both fold into his own existing **Nihiloth** affinity — Limina is the current Family for what the old record called Abyss, and he already carries it, so nothing new was invented. Level 58 within Band I is the conservative reading of a foundling whose Stage caps him below Level 100; Threshold Catalyst point values are not itemized below Stage VII in the tables on hand, so the three he has cleared are estimated low rather than assumed equal to a later Stage's average. Every named Wellspring, the Guild Accord, and Parun itself check out against current canon; nothing here is unattested.
 
 ---
 

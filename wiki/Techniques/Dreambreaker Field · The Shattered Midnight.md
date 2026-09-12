@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81f8-bd12-ec4542c6e77f"
 notion_url: "https://app.notion.com/p/Dreambreaker-Field-The-Shattered-Midnight-3d958200eb2281f8bd12ec4542c6e77f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:25:00.000Z"
 verification: "unverified"
 ---
 
 # Dreambreaker Field · The Shattered Midnight
 
 ## Dreambreaker Field · The Shattered Midnight
-
-> **Migration note.** Converted from the Trello card "Dreambreaker Field: The Shattered Midnight" (Aeldoris). "Aether Class: Dreambreaker Aether" converted to **Class VI, The Voidic**, consistent with this practitioner's other three techniques and the table's own tie between Voidic and "deep Limina harmonization." Eidolyn and Oneirion verified as Limina, Somnalis as Fluxia, against the Sixty; affinities taken from *The Eight Families & the Sixty Wellsprings*. "Stage VII Refraction" matches the current Sixteen Stages exactly. "Path: Spirit → Attraction Drift" kept as Spirit Path primary with drift toward Attraction Path. Category (Domain Weaving) chosen from the twenty-six: its definition, "a single field from a single soul's claim... the Layer keeps recognising the claim, which is why a Domain fails all at once rather than fraying," matches the source's own "cannot overlay an existing Domain" limit almost exactly. Range (40-meter radius) was already real units; the old "3 turns" duration has no FOW equivalent, converted at an estimated 15 seconds, marked as an estimate. **Aeldoris is unattested in current canon**; kept as the card's necessary caster, with no further biography given.
 
 ### Summary card
 

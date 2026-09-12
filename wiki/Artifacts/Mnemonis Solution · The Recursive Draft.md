@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-817b-a695-cbdca66361a8"
 notion_url: "https://app.notion.com/p/Mnemonis-Solution-The-Recursive-Draft-3d958200eb22817ba695cbdca66361a8"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:30:00.000Z"
 verification: "unverified"
 ---
 
 # Mnemonis Solution · The Recursive Draft
 
 ## Mnemonis Solution · The Recursive Draft
-
-> **Migration note.** Converted from a Trello "Essence Draft" card into a Draftcraft entry under Fracture of Worlds. "Essence Behavior," "Soul Interaction Type" and "Medium Core" are old-system vocabulary; the draft's action is restated as an Anamnesis working on the Essence Core and Attraction Layer. The Stage requirement is converted by the numeral-preserving rule: the card's "Stage IV — Splintering" becomes FOW Stage IV (Flourishing), and "Stage V — Refraction" becomes FOW Stage V (Splintering) — which happens to match Karo Venrik's own attested Stage V standing when he is documented using the draft, so the conversion is left as the numerals give it. Karo Venrik and Vaelen Mourcrix are confirmed current-canon figures (kinsmen by House Mourcrix's descent from House Venrik, which explains a supervising Inquisitor tolerating an unlicensed Wellspring-transition experiment). Alchemarch Helviun Marr, the Mirrorwater source description, and the volume title *WOTR: The Legacies* are unattested in the wiki mirror and are kept because the card's provenance does not read without them. The Parun glyphs `Ma` and `Ie` are used elsewhere in canon (Anamnesis-linked summon glyphs, the Iesara Insight domain) but Karo's own character card flags them as not yet checked against the Master Glyph Index's full 136; `Ur` is independently confirmed as the index's worked example (Balance, Root, Urion). EU cost is not on any sheet and is set conservatively in line with comparably-scaled Draft-class workings recorded elsewhere in the register, and marked as an estimate.
 
 ### What it is
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8179-bc7b-c79b4a9edd9b"
 notion_url: "https://app.notion.com/p/Aren-Vallestride-Stone-Runner-3d958200eb228179bc7bc79b4a9edd9b"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:52:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Aren Vallestride · Stone-Runner
 
 > *"If my legs still work, then the road isn't finished with me yet."*
-> **Migrated with all content preserved:** the borrowed sword, both incident records, both weaknesses. **"Kinetic Anchor Aether: The Stonebound Trajectory"** was not one of the seven; **he is Class I, the Muridic**, an awakening Shell that leaks Essence unevenly, which is exactly what "mis-timed anchors backlash through his joints" already described. **The Praetorian March is struck canon** (archived alongside Nevara and the Empire of Praetoria); his outrider corps and courier line are retitled to the frontier march as plain geography, not a polity. **Imperial Calendar** corrects to **the Imperial Age** per the Errata (the count is unchanged, only the name). Stage III, Ascension, was already given and is retained unchanged; Level 46 and the stat spread below are chosen conservatively for an "early-growth combatant" still inside Band I.
 
 ---
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-817e-a5a3-c7948076832e"
 notion_url: "https://app.notion.com/p/The-Last-Monolith-3d958200eb22817ea5a3c7948076832e"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:20:00.000Z"
 verification: "unverified"
 ---
 
 # The Last Monolith
 
 ## The Last Monolith
-
-> **Migration note.** Converted from a Trello Abilities card for Drakvor (see Coagula Dominion and Sovereign's Reprisal for the same practitioner, *unattested in current canon*: no wiki card exists for him). "Aether Class: Immutable Aether" is dropped as old-system flavour text rather than a real Aether Class; nothing in the card's description requires a specific Aether Class to make sense, so none is assigned. "Stage VIII Benediction" converts to Stage VIII, Transcendence, per the same conversion as the sibling cards. The card's Path tag, "Body-Spirit," has no single-Path equivalent (the Four Paths are recognised singly, by which plane's logic a soul routes force through), so this entry reads it as a Body Path technique with a genuine Spirit Path component (the diagnostic reading of incoming force that lets the hardening selectively meet it), the way Borin Ironheart's own card splits Body/Spirit/Attraction by percentage rather than compounding two Path names into one tag. Wellsprings (Coagula, Judicium) and Families (Materia, Fulguria) check out unaltered. "Turns" convert to exchanges.
 
 ### Summary card
 

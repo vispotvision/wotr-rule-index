@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8170-897c-e243ebbda780"
 notion_url: "https://app.notion.com/p/Spinal-Forge-Ascent-3d958200eb228170897ce243ebbda780"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
 # Spinal Forge Ascent
 
 ## Spinal Forge Ascent
-
-> **Migration note.** Converted from a pre-Fracture Trello card (Abilities list, target The Iridescent Archive / Techniques). Note on the source file: its raw text runs directly from this card's final Sensation line into an unrelated second card, "Seraphic Thread Blessing," with no section break, which reads as a copy-paste artifact in the Trello export; that material belongs to a different technique and is not converted here, since this batch names only Spinal Forge Ascent for this source path. Both Wellsprings verified live in current canon: Transmutatio (The Law of Change, Spatium) and Ascensio (The Ladder of Ascent, Vectoria), cross-family as the card already implied. The Stage tag "Stage VII, Refraction" needed no correction; it already matches Fracture of Worlds' current Stage VII name. The old Path tag "Body + Essence" is struck in half: "Essence" is old resource-vocabulary, not one of the current Four Paths, so the technique is read as Body Path alone. The invented Aether Class "Kinetic Overclocked Modulation" is replaced by Class III, The Resonant, the correlate for Stage VII's Band C. Category (not given) is assigned as Arts, whose definition, controlled Flux and embodied Aether expression, matches a self-buff directly. Craft is assigned as Spellcraft, delivered through the body per the bodily/Corporis vector the Four Crafts document names under Spellcraft. Grade required (not given) is set to A-Grade, the ceiling carried in from Stage VI. The old "turn" duration unit converts at the same estimated one turn per six seconds used across this batch. Ascensio's canon mechanism (spreading a Threshold transition's stress across a longer path rather than taking it as one peak) is applied here to the card's own stated failure mode, structural microfractures from overuse, which the mechanism explains directly: the stress is deferred, not removed, and comes due once the buff lapses. Authorship (Origin, below): the card names no deviser, era, or founding problem, and none is invented to fill the gap. Because its own Counters & Interactions list reads as knowledge already circulating among other practitioners rather than something worked out live against a single caster, the technique is filed as a documented body-Transmutation art of unrecorded, anonymous authorship rather than left as a "pending" question.
 
 ### Summary card
 

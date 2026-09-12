@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8171-b690-ee09fa5a3ee0"
 notion_url: "https://app.notion.com/p/Saetsha-Bloomveil-The-Pink-Tempest-3d958200eb228171b690ee09fa5a3ee0"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Saetsha Bloomveil · The Pink Tempest
 
 > *"Until she answers, my spear will ask the question in her name."*
-> **Migrated with all content preserved:** the vow-magic, both relics, the refusal of Mortalis. **"Floral Lumen Aether: The Petaled Edict" was not among the seven; she is Class IV, the Luminous**, the one Class with no fixed Crystal-Tier correlate, most often found in a Spirit Path Shell that clarified faster than Core or Layer, which is exactly Saetsha's profile. **"Aether-touched Elf, Verdant Courtline" is corrected to Eressean elf stock**; Verdant Courtline traces to nothing in current canon, while Eresse is the attested elder elf civilization this kind of Archonic-contact story belongs to. **Her Strike Force and Durability are corrected upward**, from 160 GJ and 120 GJ to 8 TJ and 6 TJ, the floor of the S-Grade energy band her Stage IX ceiling requires; the source figures were roughly three orders of magnitude below what a Stage IX practitioner's stated peak output has to clear. **Elyndra's disappearance is retained as Saetsha's belief and mission, not as settled cosmology**: current canon lists Elyndra as a seated, active Archon of the Fourteen, paired with Selhar under Harmony and Renewal, with no record of her withdrawal. The card is written so this is exactly the kind of thing Saetsha alone believes and cannot get anyone else to confirm.
 
 ---
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81be-833b-e6e1cf0d7a59"
 notion_url: "https://app.notion.com/p/Fallacy-3d958200eb2281be833be6e1cf0d7a59"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:28:00.000Z"
 verification: "unverified"
 ---
 
 # Fallacy
 
 ## Fallacy
-
-> **Migration note.** The Trello card filed Fallacy as a "Manifestus Class" working: a deliberate act that injects a false axiom into a spiritual system, causing Drafts to misfire, Soul Crystals to misalign and Wellspring paths to deviate, before shattering and taking other structures with it. Current canon's Manifestus Category is an involuntary, short-lived emotional flare (R10-3-MANIFESTUS_SHAPE), which does not fit a working that is authored, aimed, and banned by formal order. What the card describes, a coerced transformation that bypasses lawful Wellspring participation and damages the Continuum, is the Unified Taxonomy's own definition of **Mechanica** almost word for word, with a **Phenomena** tail for the collapse it leaves behind once triggered. Refiled accordingly. Craft converts to **Spellcraft**, since the effect is explicitly temporary, holding only long enough to do damage before it shatters, matching the current Craft/durability rule that Spellcraft holds only while attention holds. Razakiel is attested (the Titan pages record him imposing the Unlawful Acts of Order before Dazkar annulled the decree by reflection), and is kept as the card's closest documented figure for "master of subversion," though no wiki entry ties him to the specific Fallacy the card describes. Serenhal Caelmorne has no wiki entry; Caelmorne is an attested house name elsewhere in the corpus (a different, unrelated Anima Harmonist), so the surname is plausible even though this character is originated. The Lucent Monastery, the Shattering of it, and the Trial of the Mirror Lords have no current entry and are kept as unattested, load-bearing only for this card. Vellsorea is attested, but only as one of nineteen orphaned realm entries still awaiting a keep-or-strike ruling elsewhere in the corpus; it is carried here on the same provisional footing. The Era of Deliberation converts per the Errata to **the Reconstruction Age, early** (−450 to −225 in the corrected count); the "entire doctrines collapsed" claim is kept as a claim about that era rather than a dated event. The Wellsprings of "Disjunction," "Unraveling" and "Echo" convert to the three closest attested Limina currents: **Nihiloth**, **Dissolution**, and **Mirithane**. The specific Parun glyph codes (Th, Wy, Lo, Ur) could not be checked against the Descent of Parun's lexicon and are dropped rather than guessed.
 
 ---
 

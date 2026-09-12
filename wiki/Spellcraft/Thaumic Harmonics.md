@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814f-82a4-d18146936d4e"
 notion_url: "https://app.notion.com/p/Thaumic-Harmonics-3d958200eb22814f82a4d18146936d4e"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:26:00.000Z"
 verification: "unverified"
 ---
 
 # Thaumic Harmonics
 
 ## Thaumic Harmonics
-
-> The old card converts directly onto Branch Two of the current canon page *The Harmonic Arts*, titled Thaumic Harmonics on the nose, and nearly every fact and figure it names is confirmed canon rather than needing invention: Thalos of Ira (the card's "Thalos of Irā") as codifier, Aurevia the Echowright as the one who proved it a combat discipline, and the Cantic Order's symphonic incantations as the constructive application the card described. "Genn Arkelos" has no matching record anywhere in the wiki mirror and is flagged unattested. Era labels are corrected: the card's "late Third Epoch" for the discovery is dropped in favor of the Second Epoch origin *The Harmonic Arts* actually attests (Epoch figures are not to be reconciled against each other in any case, per the Guild of Measurewrights' ruling on Epochs versus Ages); "Era of Grace" does not appear anywhere in current canon and is dropped as unattested, matching the sibling Anima and Divination Harmonics cards; "Age of Calamity" and "Voyager Era" are both attested and stand. "Spirit Runes," "Essence Draft," and "leyline" convert to current vocabulary (the Spirit Rune Arts, Drafts, Wellspring vein).
 
 ### What it is
 

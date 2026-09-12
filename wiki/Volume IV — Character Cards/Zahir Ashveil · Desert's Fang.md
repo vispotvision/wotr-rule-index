@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8100-b034-f7348d4ecc2c"
 notion_url: "https://app.notion.com/p/Zahir-Ashveil-Desert-s-Fang-3d958200eb228100b034f7348d4ecc2c"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Zahir Ashveil · Desert's Fang
 
 > *"The desert teaches you one lesson — burn fast, or be buried slow."*
-> **Migrated with all content preserved.** The card reads *"Stage III — Pursuit."* **Pursuit is not among the sixteen; Stage III is Ascension. The numeral stands and the word is struck.** *"Fire (Ash) / Earth (Sand) / Spirit (Hunt)"* were not Essence types; they are re-sourced to Cinerion, Terranova and Ignivale, with the Hunt read as Gnosis. **The Level sits at 100, the top of Band I, which is where a contracted blade-for-hire with a self-derived technique and no Stage IV Threshold lands; the pool and the allocation below match the Volume IV sheet already in the wiki mirror for this character.** *"Innerworld"* converts to the current form, **Inner World.** **Attested:** the Inner World and Outer World, Ymir Rhok (Volume IV sheet, The Emberhand), Kaerith Vireth as a name on three Volume IV sheets. **Unattested:** the Sunwatch Caravan Guard, Caldris Vaelthorn (no sheet, named only here), and Kaerith Vireth has no card of their own. **Aether Class resolved: Class II, Harmonic.** The Class table's baseline correlate for Coherence Band F is Class I, Muridic, but the Volume IV wiki mirror already carries a committed character card for this exact man giving Class II, Harmonic; an already-decided sheet for the same character governs over the table's generic baseline, so that is the value used here. η ~0.40, Band F is carried from that same committed sheet as its own documented figure, not as an open estimate. **Chapter appearances** are likewise resolved below to "not yet placed," in place of the card's TBD.
 
 ---
 

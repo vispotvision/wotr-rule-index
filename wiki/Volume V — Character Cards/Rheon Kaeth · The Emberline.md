@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817b-adbe-e004ce3d6cc8"
 notion_url: "https://app.notion.com/p/Rheon-Kaeth-The-Emberline-3d958200eb22817badbee004ce3d6cc8"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Rheon Kaeth · The Emberline
 
 > *"Some men heal. I just cool down."*
-> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage V – Flourishing (stalled)"* is a Stage-error of the first class, the same slip the Volume V register already corrects on the Lantern and the Green-Gold Heretic: **the name wins, and Flourishing is Stage IV.** The stall is kept as the card states it and is read as a soul sitting on the Band I gate at Level 100 with the Stage V Threshold unpassed. *"Path: Body / Spirit / Endurance"* reads as **Body dominant, Spirit secondary.** *"Aether Class: Ash-Bound Sentinel"* is not among the seven; **at Stage IV, Coherence Band F, the Shell is Class I, Muridic**, and its uneven leak is the card's night-storm heat signature. *"Late Withering Age – Voyager Era"* is an inverted register under the Errata; **the present is the Withering Era.** **The Praetorian March is struck from canon** (the card spells it *Pratorian*) and is carried only as the origin the card names; the *Outer Marches Division* is unattested. **Babyl is struck** and carried only as the frontier the card names. **Unattested in current canon:** the Firefront Collapse, the March Brand, the title *Ash-Bound Sentinel*. Exuroth and Penanceflare are both attested, Caloria Family. **Resolved in this pass:** η is set to ~0.25, Band F — between the documented Band F floor (Torven Greis, η 0.22, Volume I) and Band E's committed figure (Karo Venrik, ~0.50) — read as an active, if unrefined, Class I Shell rather than Torven's non-practising case. The stat pool follows *Fracture of Worlds — The Living System*, Part Three, whose own worked example is this exact case, Level 100 at Stage IV: 1,200 points from Band I plus 1,000 from Thresholds I–IV, Pool 2,200; the brief's flat-rate approximation (3,600) is dropped in favour of the canonical page, per the Magic System's own instruction that Fracture of Worlds is where a disputed number is settled. Allocated is set to 2,120, banking the remaining 80 points as the Residual Strain of a Threshold he has stood at for years without passing.
 
 ---
 

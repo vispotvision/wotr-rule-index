@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8148-99a9-f28585bfdd47"
 notion_url: "https://app.notion.com/p/Kurotana-3d958200eb22814899a9f28585bfdd47"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:30:00.000Z"
 verification: "unverified"
 ---
 
 # Kurotana
 
 ## Kurotana
-
-> **Migration note.** Converted from an old Trello fate-state card into a discipline anchored on Niran Yukari, Yukari Bloodline, card 15 on the current wiki. This one converts unusually cleanly: Niran's own sheet already carries a Domain named "Murder of Crows," seed, partial active, with black-violet crow silhouettes marking developing Thread-Locks, which is precisely the immature form of the Kurotana card's completed Domain, "Murder of Crows, Cathedral of Unchosen Futures." His sheet also already carries the Ketsumyōgan, Monolithion harmonisation and a bloodline named the Crows of Fate, and the current Ketsuen entry explicitly names a future "Septarch transition" for Niran as settled worldbuilding, not something this pass is inventing. The old card's history (a warning-eye that could not save everyone, and hardened into design) is kept unconverted. What the old card gives with no current-system anchor is the Wellspring set, and the Family, Category, Stage and Grade classification; these are derived below rather than invented from nothing. Monolithion (misspelled "Monlithion" nowhere in this card, so no correction needed here) supplies causal perception; Vantabriel is added for its canon description of endurance as carried loss rather than replaced loss, which is exactly what "Witness Backlash" describes; Nihiloth is added because its canon mechanism, a Domain that removes law rather than adding it, is the literal mechanism the card gives for the crow-Domain narrowing futures rather than showing them; Oblation is added as the payment Wellspring for the Three Witnesses, the same Wellspring that prices Moetana's and Gisei's sacrifices. The Seven Great Corruptions (Ruin, Purity, Spirit, Temporality, Knowledge, Balance, Totality) numerically and thematically mirror the Seven Works of Hataraki (Hametsu, Junketsu, Seirei, Jikan, Chishiki, Baransu, Zentaisei) that Bara Moto authored for the Moto bloodline; the old card gives no Moto connection and none is claimed here, but the parallel is worth recording as an unattested resonance between two bloodlines' apex doctrines, not a fact. Stage floor is derived, not stated on the card: Stage XI, Dissonance, is the Stage whose own Threshold Catalyst is "deliberately entering contact with an existence-ending force and remaining coherent long enough to choose how it is met," which is the Black Recognition described almost word for word. Grade required follows from the same Stage's table entry, SS-Grade, fracture risk above 700.
 
 ---
 

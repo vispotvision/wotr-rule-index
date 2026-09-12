@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8140-8807-ec89b48d5809"
 notion_url: "https://app.notion.com/p/Valen-Karth-The-Breakstorm-Vanguard-3d958200eb2281408807ec89b48d5809"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Valen Karth · The Breakstorm Vanguard
 
 > *"The world doesn't wait. Why should I?"*
-> **Migrated with the triad, the spear and the Skybrand kept intact.** *"Class V — Resonant Dragoon" was not one of the seven Aether Classes; the numeral survives and the invented title is struck.* **He is Class V, the Radiant** — the Shell tier at which a Domain first forms, which is exactly what "Veyrun's Reach" is. *"Grand Convergence — Cycle II (Outer Concord Theatres)"* cites no era the Concordance recognizes; the card's own Trello label reads Withering Age, so **the Withering Era is the era of record.** *Nevara is struck canon entirely* (Volume V standing note); the closing hook is re-set over **Caedor**, the New World theatre his own card already names. *Veyric Human, Aether-Scaled Draconids, General Saelri Varn and the Skyroot Wellspring* are unattested in current canon and kept only because the card cannot make sense without them. **The raw physics figures (gigantonewtons, Mach, joules, and a Flux Density and Aether Output three orders of magnitude above every peer Stage VIII sheet on file) are struck** as old-system invention rather than table-derived; the Primary Stat block below replaces them.
 
 ---
 

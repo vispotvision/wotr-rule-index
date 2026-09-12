@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c8-8884-ce97e6075050"
 notion_url: "https://app.notion.com/p/Marceline-Vireaux-The-Crimson-Mourner-3d958200eb2281c88884ce97e6075050"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T17:01:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Marceline Vireaux · The Crimson Mourner
 
 > *"I do not ruin lives. I arrange them."*
-> **Migrated with all content preserved, including all three relics and all three Core Disciplines.** *"Aether Class: Veiled Enchantress, Attraction and Tenebra Hybrid Manipulator"* is not among the seven; **she is Class II, Harmonic** (Stage VI, the Harmonic Crystal's own Band D). *"Global Tier: High B Tier"* and *"Attraction Scale: A Tier Emotional Field"* are struck and replaced with Grade A, her Stage's own ceiling language, and a plain account of how far her Attraction Layer has actually developed. *"Path Bias: Attraction 50% / Spirit 35% / Body 15%"* used percentages the Four Paths don't carry; **all three named are real, current Paths, Fate simply absent, so the bias survives as Attraction dominant, Spirit secondary.** Her Triune Core listed **Veyra** alongside two genuine Wellsprings; **Veyra is the Eighth Archon, Desire, not a Wellspring**, so it is struck from her Wellspring list and kept only as the Archonic patronage her own card voice already implied. **"Withering Age" is corrected to the Withering Era** per the Guild's Errata. The Blackrose Parlor is downgraded from a stated "Proto-Domain state" to a conditioned space: **Domain seed activation is gated to Stage VII**, one Stage above her; her own trajectory line already reads this correctly as still approaching. **The Sable Rose Consortium and the Rose Courts are unattested in current canon**, kept because the card cannot make sense without a lineage and a faction to belong to.
 
 ---
 

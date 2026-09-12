@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8181-8092-dba61e5c5199"
 notion_url: "https://app.notion.com/p/Band-of-Frozen-Brambles-Winter-Briar-3d958200eb2281818092dba61e5c5199"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:36:00.000Z"
 verification: "unverified"
 ---
 
 # Band of Frozen Brambles · Winter-Briar
 
 ## Band of Frozen Brambles · Winter-Briar
-
-> **Migration note.** The Regency of Mireya and Caedor are confirmed current canon; Mireya sits on an open nineteen-realm keep-or-strike docket elsewhere in the wiki mirror, which is noted here as a live administrative question and not treated as unattested. The card's cold mechanism, "Winter Dividend: heat siphoned by thorns returns as Essence," is converted onto Family Caloria, Physics Domain Thermodynamics, following the same precedent already established in the wiki mirror for enchanted cold: there is no Wellspring that makes cold as a substance, only heat and where it is moved to, and this is a Caloria current run backward. Primary Wellspring Cinerion, the Ash Veil, carries the frost and the heat-siphon; secondary Verdantia (Vitalia, Biochemistry) carries the bramble growth the card also describes. "Thornsingers" and "Cryokith" appear nowhere in the wiki mirror consulted; both are kept, flagged unattested, because the maker culture has no substitute given. "Pale March Wardens" is likewise unattested and kept for the same reason. "Enforcement Division" is not the Guild Accord's attested name for a containment or strike arm; it is converted here to Strategic Division, the confirmed realm-defense division under the Concord Council, on the reasoning that the card's siege and capture missions describe that division's remit. The card's invented effect-names (Vector Collapse, Harmonic Mute, Overpressure Discharge, Spatial Harmonic Bending, Phase Lag, Glyph Desaturation, Cascade Overrun) are dropped here for plain mechanism. Glyphs `Ur`, `Ma`, `Wy`, and `Uur` are all confirmed Root forms in the Master Glyph Index and needed no correction. Physical figures are plausible estimates for a gauntlet of this description; the card gives none.
 
 ### What it is
 

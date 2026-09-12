@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-b701-cc96aaffd81a"
 notion_url: "https://app.notion.com/p/Lyssara-Veyn-The-Black-Chrysalis-3d958200eb2281bfb701cc96aaffd81a"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Lyssara Veyn · The Black Chrysalis
 
 > *"Every cadaver I meet is simply a lesson that remembered me first."*
-> **Migrated with all content preserved, including the three relics.** *"Stage X, Revelation"* is converted by numeral to **Stage X, Realization** (Revelation is Stage XV in Fracture of Worlds). **"Aether Class: Thanosophic Weaver"** is not among the seven; **she is Class V, Radiant**, the Class a Stage X Domain-holder reads at. The card's *"Path: Mind / Spirit / Mortality"* is read as **Spirit dominant, Attraction secondary**: *Mind is struck as non-canonical vocabulary, and "Mortality" is exactly what her own Attraction Layer already states — developed, and pointed at the dying rather than the living — so Attraction is committed rather than left blank.* **"Voyager Era (Imperial Year 746 to present)"** is inverted per the Errata: Year 746 falls in the **Withering Era** (opens Year 645), and the card's *Withering Age* label converts the same way. Level, allocation and η are **estimates inside the Stage X range**, marked as such; the card gives Stage and no Level. **Unattested in current canon:** *Soul Dissolution Syndrome* (kept; the nearest current mechanism is the Crystal Fracture cascade after a failed Threshold), the *Mortalis Branch*, the title *Necrosophist*, and the *Eressean Mortalis Chambers*. Her thesis that death is transcription into the Wellspring lattice **contradicts the Alftian Codex, Volume the Second** (*the Wellspring does not retain the departed*); it is carried as her contested proposal, not as fact. The stasis work the old Class described is committed as a **tertiary harmonization, Fixatio**: her own suspension of the final moment is, mechanically, a Fixatio cure applied at the Mortalis boundary, and nothing on the card contradicts assigning the Wellspring that already explains her signature technique. **Chapter appearances** default to *Volume V — Character Cards*, the only placement the card gives, since no specific chapter title is stated.
 
 ---
 

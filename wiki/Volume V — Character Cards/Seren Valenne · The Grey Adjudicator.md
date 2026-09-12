@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9e6f-eb9b8929c149"
 notion_url: "https://app.notion.com/p/Seren-Valenne-The-Grey-Adjudicator-3d958200eb2281ff9e6feb9b8929c149"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:22:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Seren Valenne · The Grey Adjudicator
 
 > *"Every lie leaves a gravity behind it."*
-> **Migrated with all content preserved, including the three relics and the three quotes.** *"Stage IX – Reflection"* is a Stage-error of the third class: Reflection is not among the sixteen. **The numeral wins; Stage IX is Invocation.** *"Path: Mind / Spirit / Balance"* is not a Path; **Spirit dominant, Attraction secondary, with the Mind reading taken as Gnosis weighting.** *"Aether Class: Equilibrant Soul"* is not among the seven; **at Stage IX, Coherence Band A, the Shell is Class V, Radiant.** *"Voyager Era (Imperial Year 740 – Present)"* is an inverted register under the Errata: the Voyager Era closes at Year 070 and the Withering opens at 645, so **Year 740 sits in the Withering Era and the reading is reversed.** *"Rank A (Senior)"* is tier language read as reputation; the Tiered Path places Stage IX at **Tier 6 · Master, title Warden of Duty.** **Babyl is struck from canon** and is carried here only because the card's origin and current posting cannot be stated without it, exactly as Rheon Kaeth's and Kaelrith Dorne's cards carry it; no further ruling is needed beyond the standing strike. *Caedor* is one of the nineteen orphaned realm entries pending keep-or-strike. **Unattested in current canon:** the Eighth Fracture of Faith, the Caedor and Babyl Arbitration, the Arbitration of Anguz (from Kaelrith Dorne's card), the title *Equilibrant Soul*. The mantle glyphs *Ur* (Balance) and *Ma* (Recall) are both attested in the Master Glyph Index. **Resolved in this pass:** the stat pool follows *Fracture of Worlds — The Living System*, Part Three: 1,200 from Band I, 1,500 from Band II, 1,260 from 70 levels of Band III, and 4,500 from Thresholds I–IX (100 × the sum of Stages I through IX) — Pool 8,460, superseding the brief's flat-rate approximation (10,200). Level stays at 270, inside Band III. Allocated is set to 8,370, the 90-point remainder read as the residue a mirror carries home from a hearing.
 
 ---
 

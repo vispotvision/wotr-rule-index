@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81af-be50-e87addf9dc47"
 notion_url: "https://app.notion.com/p/Aelum-The-Pale-Hierophant-3d958200eb2281afbe50e87addf9dc47"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:57:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Aelum · The Pale Hierophant
 
 > *"Do not speak the words unless your soul can carry their weight. The veil is thin here, and I am listening."*
-> **Migrated with all content preserved, including both relics and the Wedding of Ash.** *"Numen (High Ritual Eidolon)"* is not a current lineage; the Accord's own taxonomists would file him **Celestial**, externally anchored the way every member of the Host is, his Throne-line running to **Nysera** rather than to Urion's. *"Court of Veils"* and *"the High Council of Spirit"* are not attested; the second is converted to **the Choir** that Sang him out of the Lawbell, which is attested and does the same narrative work. *"Era of the Mending"* has no seat in the Concordance; the card's own Trello label reads Voyager Era, and that label governs. *"Aether Class: Weaver (Binding/Ritual Type)"* is not among the seven; he reads as **Class V, Radiant**, a band above what Stage IX usually correlates to, which is stated here rather than smoothed over. Numbers below derive from the Stage IX table.
 
 ---
 

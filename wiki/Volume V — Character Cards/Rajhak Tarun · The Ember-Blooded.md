@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d2-acf6-db22e335efd1"
 notion_url: "https://app.notion.com/p/Rajhak-Tarun-The-Ember-Blooded-3d958200eb2281d2acf6db22e335efd1"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T16:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Rajhak Tarun · The Ember-Blooded
 
 > *"Every spark wants to grow. I just remind it how."*
-> **Migrated with all content preserved, including the three relics and four techniques.** *"Temperance Tier: VII, Resolution"* is converted by numeral to **Stage VII, Refraction**. **"Aether Class: Catalytic / Harmonic Hybrid"** is not among the seven; **he is Class III, Resonant**, the Class Coherence Band C reads at. *"Unbound Division"* is not one of the five Divisions or the unacknowledged sixth; **kept as the card's word for a man with no Division seat, flagged unattested.** The card gives no Path; **Spirit dominant, Body secondary** is read from the blood-ignition and the ritual work and is marked as a reading. Level, allocation and η are **estimates inside the Stage VII range**. The Draw Age converts *"unregistered Wellspring sites"* to **unregistered Cores no Measurewright has assayed.** The card's *Withering Age* label converts to the **Withering Era**. **Unattested in current canon:** the *Scorched Plains*, the *Verdant Choir* (Florwyn is attested as the Verdant Weaver; her Realmsong is the nearest current form), the *Unbound Division*, and the *spirit tribes*. **His name is kept as given, unregistered.** *Rajhak Tarun matches none of the five current strata (Japonic, Korean, Chinese, Northern English/Norse, Far-Northern); it predates the naming reform, the card cannot make sense without it, and forcing it into a stratum it does not fit would be inventing a fact the card never gives, so it stands outside the register system entirely, the same treatment an unattested place name gets.* **Chapter Appearances default to *Volume V — Character Cards*, the only placement the card gives.**
 
 ---
 

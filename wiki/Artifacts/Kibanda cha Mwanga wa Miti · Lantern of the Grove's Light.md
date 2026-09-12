@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8185-b5ac-db8c44f5d7bd"
 notion_url: "https://app.notion.com/p/Kibanda-cha-Mwanga-wa-Miti-Lantern-of-the-Grove-s-Light-3d958200eb228185b5acdb8c44f5d7bd"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:34:00.000Z"
 verification: "unverified"
 ---
 
 # Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light
 
 ## Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light
-
-> Migration note: the old "Nature-Aether / Spiritual-Aether" Essence Alignment is struck and replaced with the Wellspring Harmonization Chimwala N'Doro's own current character card already establishes: Verdantia primary (Vitalia, Biochemistry), with Benediction as a secondary ward-current. "Lurien" is dead canon; per the Volume IV re-homing ruling, Chimwala is one of five sheets anchored to the Holy Sea of Alabaster, so the forge-site converts there, with "the Sanctum of Heartlight" kept as an unattested sub-site name inside it (nothing in current canon contradicts it). "Heartbloom Tree" is unattested beyond this card and is kept for the same reason. Of the three glyphs given, only *Ur* (Balance) matches the Master Glyph Index exactly; *Lu* and *Fa* do not exist as forms, so they are corrected to the nearest attested glyph carrying the same intent: *Lu → On* (Light) and *Fa → Yn* (Bloom). The Rite of the First Light and the Verdant Covenant are kept as given; Verdant Covenant is independently attested as Chimwala's own order. No numeric figure was given anywhere on the card; the Essence draw below is a conservative estimate inside Chimwala's Stage VIII, Band B range, marked as such.
 
 ### What it is
 

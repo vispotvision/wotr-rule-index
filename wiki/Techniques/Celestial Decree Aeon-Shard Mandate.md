@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8197-be75-f5a6d190046f"
 notion_url: "https://app.notion.com/p/Celestial-Decree-Aeon-Shard-Mandate-3d958200eb228197be75f5a6d190046f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:15:00.000Z"
 verification: "unverified"
 ---
 
 # Celestial Decree: Aeon-Shard Mandate
 
 ## Celestial Decree: Aeon-Shard Mandate
-
-> Converted from an OPALIS ability card on the old Trello board. The card's ten-Wellspring source list, its three-outcome function (Worldrend Vector, Worldbind Bastion, Dreamveil Cascade), its line-of-sight range and variable-radius area block, and its named limits, weaknesses and counters are kept as given. "Temperance Requirement: Stage XII, Emnation" converts to FOW Stage XII, Emanation, with Band, Level range and Max Tier Grade read off the FOW Stage table. The old free-text "Aether Class: Emanant Harmonic Projection" is a caster attribute and is not reproduced as a technique field; its "world briefly obeying a new metaphysical constitution" language reads as Class V, the Radiant, offered for Opalis's own sheet rather than settled here. All ten source Wellspring names (Dissolution, Tarturon, Basilithe, Petralon, Orrenthal, Cataclysm, Penance, Oneirion, Tenebra, Fractura) and the two named anti-synergy Wellsprings (Verdantia, Hypnather) checked against the current Sixty and are attested without alteration. Dissolution is kept as primary Wellspring because the card lists it first among the ten and its "matter returning to luminous zero" gloss is the closest match to the shard's own "judgment made physical" framing. "Opalis" has no character card in the wiki mirror and is flagged unattested pending her own sheet, kept only because the technique cannot be written without a caster. Numerical Effect is read off the SSS-Grade row of the FOW Strike Force table, since the card gives no numeric force value of its own.
 
 ### Summary card
 

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8183-abd6-fdc925a2cc91"
 notion_url: "https://app.notion.com/p/Imprinta-3d958200eb228183abd6fdc925a2cc91"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:28:00.000Z"
 verification: "unverified"
 ---
 
 # Imprinta
 
 ## Imprinta
-
-> **Migration note.** Kept: the rite's function (projecting a piece of soul, memory, Trait, or Wellspring resonance into matter, place, or person, leaving a permanent spiritual echo capable of awakening, interacting, or influencing reality after the caster departs), its use in echo guardians, relational relics, and haunting memory-fields, and all four named figures. Converted: "Manifestus Class" is reassigned, for the same reason as its two sibling cards — current Manifestus is an involuntary emotional flare, and Imprinta is a deliberate, held working. It goes to **Mnemata** (Spirit ↔ Attraction), the category that already governs "memorycraft and echo manipulation, dream records, ancestral fields, temporal imprints" — a closer fit than Claustra here, since Imprinta's business is what the deposit remembers rather than what seals it shut. Wellspring: **Anamnesis**, the Wellspring of Remembrance (Limina family), whose own literature already notes it "does not store memories" so much as carry the Aetheric residue of directed experience — precisely the "living fragment" the card describes. Craft Spellcraft, with one flagged tension: R10-3-CRAFT*DURABILITY*TABLE holds that Spellcraft lasts only while the caster's attention holds, but Imprinta's whole point is a fragment that outlives the caster's attention entirely. I resolved this the way Animatria resolves a similar problem — the working detaches a small, independent piece of the caster's Essence Core at the moment of casting, paid for in full then, after which the fragment runs on its own Attraction Layer tether rather than the caster's live line; this is Isaac's call, made and logged here rather than left open. "Reconstruction of Utopia" and "Estesia" are unattested (Edenis, cited alongside them, is attested — Florwyn's realm, whose own Ground already includes "Memory Reclamation," which strengthens rather than weakens this card's Edenis reference). Mecre converts to **Maelor**, the attested Archon of Memory (*Mnemoris* — recall, preservation, echo transcription, ancestral archive), the same conversion logic as Edictum's Judger-to-Urion. Stage floor is not on the card; given Imprinta ranges from ambient, common imprinting up to Archon-originated architecture, I set the floor at Stage IV, the entry point for a genuine Spirit Axis bond, and noted that guardian- and relic-class Imprinta scales well above it rather than inventing a second unsupported number. **Unattested in current canon:** Soji the Dreamwalker, Caldran of Athame, the Choir of Vellsorea, the Vowsteel Rings, the Verdant Blades of Tirres, Estesia, the pre-Spirit War period as named, the Reconstruction of Utopia. Parun glyphs Ur ("memory/soul trace" in the card) and Wy ("grace/gentle binding") both collide with attested meanings — [Ur] is confirmed Balance and [Wy] is confirmed Motion — so those two specific claims are dropped rather than carried as near-misses; only [Ma] Memory (confirmed Anamnesis-linked) survives onto the Codex line. Ci and Ka are unverified and flagged.
 
 ### Summary card
 

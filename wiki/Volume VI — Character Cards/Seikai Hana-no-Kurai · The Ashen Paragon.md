@@ -4,26 +4,11 @@ notion_id: "3d958200-eb22-81e3-b3ae-e9f0948ddd78"
 notion_url: "https://app.notion.com/p/Seikai-Hana-no-Kurai-The-Ashen-Paragon-3d958200eb2281e3b3aee9f0948ddd78"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T15:14:00.000Z"
 verification: "unverified"
 ---
 
 # Seikai Hana-no-Kurai · The Ashen Paragon
-
-## Seikai Hana-no-Kurai · The Ashen Paragon
-
-> *"I already paid. I paid everything. Stop asking me to pay again."*
-> **Migrated with all content preserved.** *"Temperance Stage: Stage 3 — Endurance"* is not an FOW Stage name; **converted to FOW Stage III — Ascension**, with "Endurance" kept as her own description of what that Stage felt like rather than its name. *"Aether Class: Null-Emitter"* is not among the seven; her stated η of 0.61 sits exactly in the **Class I, The Muridic** band (~30–40% efficiency loss), whose canon description — *"Essence leaks unevenly, emotion distorts weather and mood"* — matches her passive drain under distress almost verbatim, so that is the correction. Her **Triune Core** named "Boundary," "Null," and an unnamed "Grief-Animus" are not Wellsprings; **Boundary converts to Mortalis** (Vitalia, The Black Gate) and **Null converts to Nihiloth** (Limina, The Hollow Law) — the same pairing, plus a third, carried by the already-canon Ashuric Seikai Yorime (Mortalis · Nihiloth · Velum), confirmed by `character()`. Grief-Animus stays unnamed and un-Wellspring, exactly as the source itself says: her Triune has not stabilised. Her stated Strike Force/Durability/Speed (GN, PJ, Mach 180) are two to three Grades past what Stage III permits (C-Grade ceiling 175); these are **not her sustainable output** — they are read here as forced **Overchannel**, the canon mechanism by which output spikes 2–5× ceiling at the cost of Crystal Fracture risk, which is exactly what her "involuntary," "not yet consciously accessible" abilities already describe. Level, Pool and Primary Stats below are her sustainable Stage III baseline, derived fresh; none were on the source card.
-
----
-
-### I · Identity
-
-**Name** · Seikai Hana-no-Kurai. **Called** · The Ashen Paragon. **Also** · Hana-no-Kurai · The Null-Mourner. **Epithet** · She Who Buries Her Grief in Other People's Safety.
-**Role** · **Frontier Protector. Awakening Seikai Scion. Reluctant Bearer of a Right of Claim she does not know she carries.**
-**Gloss rights** · **Never.** Nobody explains what she is to her face. She would refuse the explanation if they tried.
-
-#### Affiliation
 
 Unaffiliated. Formerly under protection contracts along the frontier; no standing structure remains.
 > **Catalyst Event · Stage III, Ascension.** Not triumphant. The morning she understood her power was working correctly was also the morning it had already cost her the thing it was supposed to protect.

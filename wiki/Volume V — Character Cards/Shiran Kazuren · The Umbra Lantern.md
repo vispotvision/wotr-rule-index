@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814b-9bb1-e751a85ef1b6"
 notion_url: "https://app.notion.com/p/Shiran-Kazuren-The-Umbra-Lantern-3d958200eb22814b9bb1e751a85ef1b6"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:49:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Shiran Kazuren · The Umbra Lantern
 
 > *"He Who Walks Before the Storm."*
-> **Migrated with all content preserved.** The old card names his Temperance as **"Stage V Flourishing,"** a conflation. **Flourishing is Stage IV; Stage V is Splintering.** The numeral is retained per this conversion's rule (the numeral carries, the name follows the numeral); **he is Stage V, Splintering**, not Flourishing. **"Aether Class: Lantern Soul Animus"** is not among the seven; **he is Class II, Harmonic** (Band E correlate): *"the attuned Shell holds rhythm,"* which is a fair description of a man who unnerves rooms by staying still. All three named Wellsprings, **Oneirion, Letheveil, Tenebra**, are attested Limina currents and needed no correction; the same-Family concentration is itself diagnostic, per the standing note on Limina-heavy sheets elsewhere in the index. **Kechiryuu: Yumekage Sui** is already a true name in its own language and required no naming-register work. **Regency of Mireya is attested current canon.** **Level 140, Pool 5,000** derive from Band I (100 lv × 20) plus Band II (40 lv × 25) plus Threshold I–V (5 × 400); 4,125 is allocated, the remaining headroom read as deliberate restraint rather than an unreached ceiling, consistent with a character built entirely around not showing what he has.
 
 ---
 

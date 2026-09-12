@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-819d-ac8d-d223ee8dded0"
 notion_url: "https://app.notion.com/p/Ilyrion-Vantheir-The-Veiled-Horn-3d958200eb22819dac8dd223ee8dded0"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:02:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Ilyrion Vantheir · The Veiled Horn
 
 > *"If I cared enough to try, this would already be over."*
-> **Migrated with all content preserved.** The Withering Age is the Withering Era (Errata III). **"Aether Class: Compressed Cataclysm Host"** was free text, not one of the seven; his η of 0.81 (a ~19% loss) sits inside **Class II, Harmonic's** documented 15-25% band at Stage VI's Coherence Band D, so **Class II is what he is.** The old **Five Pillars** (Essence Capacity, Flux Density, Aether Output, Efficiency η, Attraction Scale) are retired as a named framework; the underlying EU, Flux Density, AU/s, η and Attraction figures survive as the Soul Architecture line, since those terms remain canonical. **Global Tier** and the old three-way **Path Bias (Spirit 45 / Body 35 / Attraction 20)** convert to the Four Paths below; the card names no Fate-routed behaviour, so Fate is left unaddressed rather than invented. **"Targeted Uninfected: 56"** is an old worldbuilding metric with no current mechanical analogue and is dropped as a number; the underlying fact, that dormant Wellsprings nearby are drawn toward his own resonance the longer he stays, is kept as a Trait note instead. **Stage VI, Glory** is retained verbatim; it matches current Fracture of Worlds exactly. **The Pyre Courts and his Half-Infernal Elf lineage return no wiki hit and are unattested in current canon**; both are kept because the sheet cannot state why he was exiled, or from what, without them. Level set at 178 (Level Band II), high enough to justify "High A Tier when unsealed" against a Stage VI ceiling of 400, but under the Stage VII gate needed to cross Level 200, which the card gives him no evidence of clearing. Cinerion, Tenebra, Cataclysm and Mortalis are all verified against the Sixty.
 
 ---
 

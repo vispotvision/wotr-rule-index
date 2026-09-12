@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-81f1-911a-de43b83e9834"
 notion_url: "https://app.notion.com/p/World-Echelon-3d958200eb2281f1911ade43b83e9834"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:21:00.000Z"
 verification: "unverified"
 ---
 
 # World Echelon
 
 ## World Echelon
-
-> Converted from a Trello ability card credited to Francis, sharing the unattested character status noted on the companion cards in this batch. Judicium verifies as a live Wellspring (Fulguria, Electromagnetism). "Path: Spirit-Fate" is kept as given; the current Four Paths system calls this a rough seat, a Crystal that pulls across two Paths and cools with genuine capability on both and full commitment on neither, and the same ruling caps a rough seat at Tier Four, Adept, on formal certification, a detail worth keeping since it sits oddly next to a Stage XIV Zenith requirement and is used below as the "what nobody knows." "Temperance Requirement: Stage XIV Zenith" converts directly, Grade EX. "Aether Class: Principle Dominion Soul" is read onto Class V, the Radiant, as on the other three cards in this batch. Turns convert at 5 seconds each, giving roughly 40 seconds. No Level is given; Band V's floor of 401 is used. "Secondary Wellspring: 57 infected Wellsprings" has no equivalent in current canon as stated; there is no documented mechanism by which one practitioner corrupts fifty-seven of the Sixty at once. It is kept as a fact of the card, converted from "infected" to "injured" per the Heresiology of Alchemy's Wellspring Injury framework, and flagged here as an extraordinary, unattested claim rather than dropped, since the card cannot make sense without some account of what the merged Domain draws on. "The Iridescent Archive," the destination named on the source card, has no current-canon match and is kept only as a filing location.
 
 ### Summary card
 

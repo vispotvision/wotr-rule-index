@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8162-aad7-d80b2a1e5b88"
 notion_url: "https://app.notion.com/p/Rafik-Al-Seren-The-Sapphire-Mirage-3d958200eb228162aad7d80b2a1e5b88"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:40:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Rafik Al'Seren · The Sapphire Mirage
 
 > *"Truth is a mirage that survives only until someone believes in it."*
-> **Migrated with all content preserved, including the four relics.** Old **"Temperance Stage: VIII — Benediction"** keeps its numeral; **"Benediction" was never a Stage name and is struck — current canon names Stage VIII Transcendence.** **"Aether Class: Harmonic Soul — Mirage Aspect"** is not among the seven; **he is Class II, Harmonic**, kept by direct name-match rather than by Band — his Core has climbed to Transcendence while his Shell still leaks the way a Class II Shell leaks, and that mismatch is the actual mechanism behind Mirage Drift Syndrome, not an inconsistency to smooth over. **Mirithane (Limina, the Wellspring of Reflection) and Sublimatio (Vectoria, the Ascending Breath) both verify**, and so does **Sublimare (Vectoria, the Rising Breath)** as a separate, related current named on his own scroll. **Varūn verifies as a real realm entry, but current canon lists it among the "orphaned realm entries pending keep-or-strike"** — kept because the card cannot function without it, flagged unattested-pending rather than unattested outright. **"Path Alignment: Spirit-Dominant" is retained as-is** — Spirit is one of the four canonical Paths. Level and Pool are derived and committed to.
 
 ---
 

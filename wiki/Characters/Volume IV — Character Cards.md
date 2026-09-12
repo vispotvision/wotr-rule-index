@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81a1-bcab-cb47f888ca98"
 notion_url: "https://app.notion.com/p/Volume-IV-Character-Cards-3bd58200eb2281a1bcabcb47f888ca98"
 section: "Characters"
 tags: ["Characters"]
-last_edited: "2026-09-12T15:01:00.000Z"
+last_edited: "2026-09-12T15:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -146,7 +146,6 @@ Character cards for Volume IV. Migrated from the legacy Trello board (*The Dawn 
 - [Raivhar Drakonis · The Ashen Horn](Volume IV — Character Cards/Raivhar Drakonis · The Ashen Horn.md)
 - [Seraphion Veydrak · The Chain-Halo](Volume IV — Character Cards/Seraphion Veydrak · The Chain-Halo.md)
 - [Ymir Rhok · The Emberhand](Volume IV — Character Cards/Ymir Rhok · The Emberhand.md)
-- [Zahir Ashveil · Desert's Fang](Volume IV — Character Cards/Zahir Ashveil · Desert's Fang (3bd58200).md)
 - [Jindoku Malrake · He Who Bears the Will of the Titans](Volume IV — Character Cards/Jindoku Malrake · He Who Bears the Will of the Titans.md)
 - [Ziyu "Pip" Inari · The Two-Tailed Cipher](Volume IV — Character Cards/Ziyu Pip Inari · The Two-Tailed Cipher.md)
 - [Zahir Ashveil · Desert's Fang](Volume IV — Character Cards/Zahir Ashveil · Desert's Fang.md)

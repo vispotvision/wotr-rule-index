@@ -4,16 +4,13 @@ notion_id: "3d958200-eb22-8148-8bce-f6ee6755cd0b"
 notion_url: "https://app.notion.com/p/Azran-Nemeir-The-Gilded-Draft-3d958200eb2281488bcef6ee6755cd0b"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T15:14:00.000Z"
 verification: "unverified"
 ---
 
 # Azran Nemeir · The Gilded Draft
 
 ## Azran Nemeir · The Gilded Draft
-
-> *"Power that can't explain its reason doesn't deserve its reach."*
-> **Migrated with all content preserved.** *"Stage 3 - Ascension"* converts cleanly — **FOW Stage III is Ascension already**, no name correction needed, only Roman-numeral formatting. *"Global Tier: C-Tier - Concord Adept"* conflates two different axes, the same error the Crimson Shade card made: **C-Tier is not a Temperance Tier Grade, it is his Accord commission rank**, and "Adept" is an attested rung on the Guild Accord's own Merit ladder (Novice, Apprentice, Journeyman, Adept...). **His Tier Grade is derived separately from Stage III's own ceiling: C-Grade.** *"Aether Class: Weaver - Spirit Path Dominant"* is not among the seven — **he is Class II, Harmonic**, sitting near the top edge of that Class (his η is unusually clean for it), which fits a young practitioner who "wants Stage 4" and can feel the edge of a Class jump he has not yet earned. *"Spirare and Formare"* are not Wellsprings or Methods — **Spirare is folded into his Anima Spirare familiarity (Vitalia, adjacent to but distinct from his three harmonized currents) and Formare is converted to Scriptia**, the inscription Method, matching the glyph-writing his Sigil Stitch actually does. Luminalis, Verdantia and Phreatis were already correct as given. The Codex Filament, the Resonant Sandals, and the Farath Vein and Dust Vault incidents are unattested as named canon events or items — kept, since they are the whole of his service record and the card cannot state his history without them.
 
 ---
 

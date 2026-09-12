@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-814b-89ed-f38910961f7a"
 notion_url: "https://app.notion.com/p/Veil-of-Verdant-Pact-3d958200eb22814b89edf38910961f7a"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:18:00.000Z"
 verification: "unverified"
 ---
 
 # Veil of Verdant Pact
 
 ## Veil of Verdant Pact
-
-> **Migration note.** Converted from a pre-Fracture Trello card (Abilities list, target The Iridescent Archive / Techniques). Both Wellsprings verified live in current canon: Verdantia (Vitalia, Biochemistry) and Materia Primordia (Materia, Material Science), cross-family as the card already implied. The old Stage tag "Splintering" needed no correction; it is Stage V's current FOW name exactly. The old Path tag "Essence + Fate" is struck in half: "Essence" is old resource-vocabulary, not one of the current Four Paths (Body, Spirit, Attraction, Fate), so it is read here as Attraction, the Path that governs bonds and shared fields over a group of allies; Fate is kept. The invented Aether Class "Vital Shelter" is replaced with Class II, The Harmonic, the correlate for Stage V's Band E-D per the Aether Class table. Category (not given on the old card) is assigned as Domain Weaving, the closest of the twenty-six to a persistent field that reshapes local law in the caster's favour. Craft is assigned as Spellcraft on the card's own "Declared" activation. Grade required (not given) is set conservatively to B-Grade, the ceiling a practitioner already carries in from Stage IV on reaching Stage V. The old "turn" duration unit is converted at an estimated one turn per six seconds, stated here as a chosen conversion rather than a canon figure, since Fracture of Worlds runs in continuous time. Nothing in the card's history, philosophy, or listed counters was altered beyond this. Authorship (Origin, below): the card names no deviser, era, or precipitating problem, and none is invented to fill the gap. Because its own Counters & Interactions list reads as knowledge already circulating among other practitioners rather than something worked out live against a single caster, the technique is filed as a documented Vitalia/Materia ward of anonymous, folk-transmitted origin rather than left as a "pending" question.
 
 ### Summary card
 

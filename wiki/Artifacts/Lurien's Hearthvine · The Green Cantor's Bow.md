@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8175-9665-e238d46b56f2"
 notion_url: "https://app.notion.com/p/Lurien-s-Hearthvine-The-Green-Cantor-s-Bow-3d958200eb2281759665e238d46b56f2"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:35:00.000Z"
 verification: "unverified"
 ---
 
 # Lurien's Hearthvine · The Green Cantor's Bow
 
 ## Lurien's Hearthvine · The Green Cantor's Bow
-
-> **Migration note.** The Holy See of Lurien, the card's origin institution, is dead canon: Volume IV and V corrections retcon it to the Holy Sea of Alabaster, and this entry follows that ruling throughout. "The Withering Age" is corrected to the Withering Era per the Errata to the Received Registers. The card's "Nature / Harmonia" Essence Alignment is converted onto current terms: Family Vitalia, Physics Domain Biochemistry, primary Wellspring Verdantia, with Category Harmonia kept as the card gives it (confirmed a live Category). All three named glyphs, `Ur` (Balance), `Wy` (Motion), `Ma` (Memory), are confirmed Root forms in the Master Glyph Index and needed no correction. The card's invented effect-name "Harmonic Bleed" is not an attested WOTR term; it is dropped here in favour of plain mechanism, per the sheet's own rule that mechanism is stated functionally rather than dressed in invented jargon. The Green Cantor, the Sanctuary Bough, the Sanctuary of Mosslight, and the Wardens of the Green March do not appear anywhere in the wiki mirror consulted; all four are kept, flagged unattested, because the bow's origin and current holding have no substitute given for them. Malphas, the Guild Accord, Caedor, Beastkin, the Empire of Bluvest, and the Inclusion Saga are all confirmed current canon and needed no conversion beyond the era correction above. Physical figures (mass, draw length, draw weight) are plausible estimates for a war bow of this type; the card gives none.
 
 ### What it is
 

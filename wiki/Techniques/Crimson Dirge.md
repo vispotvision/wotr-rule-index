@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8180-b4fd-dfe37b06f820"
 notion_url: "https://app.notion.com/p/Crimson-Dirge-3d958200eb228180b4fddfe37b06f820"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:20:00.000Z"
 verification: "unverified"
 ---
 
 # Crimson Dirge
 
 ## Crimson Dirge
-
-> **Migration note.** Converted from a Trello Abilities card that, unlike its list-mates, never names its caster, only "he." No name is invented for him; the Origin section below records the gap rather than filling it, and he is not the same attested-if-unverified Drakvor named on the other three cards from this batch, since nothing on this card ties the two together. "Aether Class: Principle Dominion Soul" is dropped as old-system flavour text, the same treatment given the other three cards' free-text Aether Class tags. Stage XIV already carries the name Zenith in current canon, so no Stage-name conversion was needed there, a rare case of the old and current registers agreeing. The card's central mechanism, "alters one Hermetic Principle (Polarity, Rhythm) inside the affected field," is Western hermetic vocabulary with no home in WOTR's cosmology; it is converted below to the Design Chain's own three-strata language, a verse overriding the directional operator of one named Wellspring's Core Law within the field, which preserves the card's "one alteration per verse" structure without importing a foreign magic system (Law 4). The Path tag "Spirit-Fate" is read as Spirit Path primary with a genuine Fate-adjacent component, the same treatment given The Last Monolith's compound tag. Wellsprings (Judicium, Exuroth, Catharsis) and Families (Fulguria, Caloria) check out against current canon unaltered. "Turns" convert to exchanges; the memory-bleed figure is the card's own stated number, kept as given rather than invented.
 
 ### Summary card
 

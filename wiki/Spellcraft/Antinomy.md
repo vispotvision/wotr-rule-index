@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8136-b58e-ea901d51622f"
 notion_url: "https://app.notion.com/p/Antinomy-3d958200eb228136b58eea901d51622f"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:30:00.000Z"
 verification: "unverified"
 ---
 
 # Antinomy
 
 ## Antinomy
-
-> **Migration note.** Converted from an old Trello Synergia card for Septarch (Niran Yukari's Kurotana-state identity, itself converted separately) into a single technique on current Wellsprings. The old card's components, "Affinity" and "Aversion," are not Wellsprings on the current Sixty; the current Magical Categories page names "Affinity Fields" and "Aversion Nets" as its own worked examples under the Synergia Category, which is strong confirmation that Antinomy's basic shape was already anticipated in current canon even though its exact Wellspring assignment was not. The Affinity Pull is converted to Transference, the Living Exchange (Spatium), whose real mechanism, resonant energy transfer between two oscillators tuned alike, is exactly the bonding-into-what-the-target-is the old card describes. The Aversion Push is converted to Nihiloth, the Hollow Law (Limina), whose mechanism, destructive interference building a genuine null field, is exactly the forced rejection the old card describes. Oblivara, the Dark Mirror (Limina), is added as the identity-signature layer, since its canon mechanism, redundant encoding against erasure and retroreflection along the incident vector, explains why the target's own identity is what gets turned back on itself rather than erased outright. Category is Synergia on the strength of the direct textual match above. Stage floor and Grade follow Kurotana's own derivation (Stage XI Dissonance, SS-Grade), since Antinomy is cast from that same vessel and the card gives no numbers of its own to derive from.
 
 ---
 

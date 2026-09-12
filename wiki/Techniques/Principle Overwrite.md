@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-812f-8204-e60adb869ede"
 notion_url: "https://app.notion.com/p/Principle-Overwrite-3d958200eb22812f8204e60adb869ede"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T15:04:00.000Z"
+last_edited: "2026-09-12T16:21:00.000Z"
 verification: "unverified"
 ---
 
 # Principle Overwrite
 
 ## Principle Overwrite
-
-> Converted from a Trello ability card credited to Francis. No character card for Francis exists in the current wiki mirror, so his Stage, Wellsprings and history here rest on the source card alone and are flagged as unattested pending a Notion check. Judicium, Exuroth and Catharsis all verify as live Wellsprings (Judicium is Fulguria, Electromagnetism; Exuroth and Catharsis are both Caloria, Thermodynamics). "Path: Spirit" and "Temperance Requirement: Stage XIV Zenith" convert directly onto the current Four Paths and Sixteen Stages, unchanged in value, and Stage XIV sets Grade at EX per the Temperance table. The old free text "Aether Class: Principle Dominion Soul" is not one of the seven current Classes; it is read onto Class V, the Radiant, the closest standing match for a Stage XIV practitioner whose techniques bend local law and stabilise Domains, chosen as the conservative option rather than Class Omega, which the setting reserves for Archons, Titans and true World Spirits. The old system's "turns" do not exist in the current one; this whole batch converts them at 5 seconds per turn, a factor read off Dirge Ascension's own stated 45 seconds over 9 turns rather than invented for this card. No Level is given; Band V's floor of 401 is used as the conservative value consistent with Stage XIV. Category, Physics Domain assignment and Mechanism are supplied under the invention-step rule, since the source names no Category and no real phenomenon at all. "The Iridescent Archive," the destination named on the source card, has no current-canon match in the wiki and is kept only as a filing location, not a world fact.
 
 ### Summary card
 

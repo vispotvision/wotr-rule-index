@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d7-a691-e0226b730635"
 notion_url: "https://app.notion.com/p/Zahur-Vane-The-Silt-Walker-3d958200eb2281d7a691e0226b730635"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:02:00.000Z"
+last_edited: "2026-09-12T16:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,6 @@ verification: "unverified"
 ## Zahur Vane · The Silt Walker
 
 > *"The sand does not need to be hard to kill you. It only needs to be deep. Step carefully."*
-> **Migrated with all content preserved:** both relics, the Sinkhole Step, the Desiccation cost. **"Terramancer, Fluid-State Earth Type" was not among the seven; he is Class II, the Harmonic**, sitting at the very top edge of that Class's window, which matches the source's own η of 0.85 almost exactly. **"Solutio" is not one of the Sixty; it is corrected to Dissolution**, Limina's Unbinding Stream, the attested Wellspring for exactly the dissolving-law the card describes. **His lineage and the oasis he guards are renamed off "Orrenthal"**, which already names a real Wellspring (Fulguria, the Metallic Heart) unrelated to sand or nomads; both now use "the Great Sand Sea," a phrase the source card already supplies for his home region, so nothing new was invented. **His Durability is corrected from 4.5 petajoules to 3.2 terajoules**, the top of the A-Grade energy band his Stage VI ceiling actually supports; the source figure was roughly a thousand times over. **His "Shifting Meridian" Domain is corrected to a pre-Domain effect**, since a true Domain seed does not appear before Stage VII.
 
 ---
 

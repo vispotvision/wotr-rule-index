@@ -4,18 +4,18 @@ notion_id: "3bd58200-eb22-819b-bcda-cf19128af9f1"
 notion_url: "https://app.notion.com/p/Goraku-Tenry-The-Crimson-Gourd-3bd58200eb22819bbcdacf19128af9f1"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:07:00.000Z"
+last_edited: "2026-09-12T17:36:00.000Z"
 verification: "unverified"
 ---
 
 # Goraku Tenryū · The Crimson Gourd
 
 > *"If the fire in your belly is small, I'll pour you a drink. If it's big… I'll pour you two."*
-> **Surname collision — and it needs a ruling.** *This is Goraku Tenryū. Volume IV already contains Daigo Tenryū, "Ribbon-Ox."*
+> **Surname collision — ruled 2026-09-12.** *This is Goraku Tenryū. Volume IV also contains Daigo Tenryū, "Ribbon-Ox."*
 >
-> **Both are oni. Both are gourd-and-festival built. Both convert consumption into burst-force.** *Daigo runs on sweets and rhythm; Goraku on brew and blood-fire.* **Neither card mentions the other.**
+> **Both are oni. Both are gourd-and-festival built. Both convert consumption into burst-force.** *Daigo runs on sweets and rhythm; Goraku on brew and blood-fire.* **Each card lists the other under Relationships.**
 >
-> ***Kin, clan, or coincidence?*** *If they are related, the Tenryū are a lineage whose Wellspring inheritance is metabolic conversion — which would be the cleanest bloodline-mechanic pairing in the volume and is worth taking deliberately.*
+> ***Kin.*** *The Tenryū are a lineage whose Wellspring inheritance is metabolic conversion — the cleanest bloodline-mechanic pairing in the volume, taken deliberately.*
 > **Invented Stage name.** The card reads **"Stage VII (Dominion)."** *Dominion is a stat, not a Stage; Stage VII is Refraction.* Numeral stands. Braqth is among the nineteen orphaned realms pending ruling.
 
 ---
@@ -88,7 +88,7 @@ verification: "unverified"
 **Gourd of Endless Night** · **A Soulbound artifact-gourd carrying three rotating brews** — *one for raw power, one for Essence clarity, one for unhinged chaos.* **Its fumes alone can make mortals lightheaded.**
 **Bloodstorm Stride** · **Each step spills a phantom wave of boiling blood-fire around him** — perfect for close-quarters crowd control.
 **Oni's Pact** · **A family-bound agreement with a Fire-Aspected Wellspring that superheats his body when drunk**, letting him **breathe jets of molten steam.**
-> ***"A family-bound agreement."*** *That is the strongest single argument for the Tenryū being a lineage rather than a coincidence — the pact is inherited, not personal.*
+> ***"A family-bound agreement."*** *Inherited, not personal — the Tenryū lineage's metabolic-conversion inheritance as it shows on his sheet. On Daigo's it shows as Sugar Furnace.*
 
 ---
 
@@ -105,6 +105,7 @@ verification: "unverified"
 
 ## VIII · Relationships
 
+**Daigo Tenryū** · **Kin. The Tenryū are a lineage whose Wellspring inheritance is metabolic conversion.** *Oni's Pact converts brew and blood-fire into burst-force; Daigo's Sugar Furnace converts sweets and rhythm into the same — one inheritance, expressed two ways.*
 **Vaelthyr Iscarn** · **Mutual respect, occasional drinking partner.** *Both use each other for influence over Outer World affairs.*
 **Black Concord** *(rumoured)* · **Provides Oni-brew toxins for covert killings.**
 **Guild Accord, Enforcement Division** · **Considered a "problematic ally" due to unpredictable drunken rages.**

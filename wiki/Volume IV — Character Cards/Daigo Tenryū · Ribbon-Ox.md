@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81d5-8be7-c521e402b92a"
 notion_url: "https://app.notion.com/p/Daigo-Tenry-Ribbon-Ox-3bd58200eb2281d58be7c521e402b92a"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T12:57:00.000Z"
+last_edited: "2026-09-12T17:36:00.000Z"
 verification: "unverified"
 ---
 
@@ -111,6 +111,7 @@ verification: "unverified"
 
 ## XI · Relationships
 
+**Goraku Tenryū** · **Kin. The Tenryū are a lineage whose Wellspring inheritance is metabolic conversion.** *Sugar Furnace converts sweets and rhythm into burst-force; Goraku's Oni's Pact converts brew and blood-fire into the same — one inheritance, expressed two ways.*
 **Orya & Khyr** · **Pasture brothers — he herds people while she herds drakes.** *Both Stage VII, both Attraction-dominant, both with output floored on purpose. The two most similar sheets in the volume and neither knows it.*
 **Kaede "Blue Moth"** · **She cools his over-eager pushes; he carries her through riot heat like a breeze.**
 **Kaito "Scarlet Plague"** · **Kaito hates that Daigo's laughter breaks fevered rooms.** *Rivalry wrapped in compliments.* — **And mechanically it is a direct counter: Kaito's Room Fever runs on matched breathing, and Daigo's Festival Horns reset the beat of a crowd.**

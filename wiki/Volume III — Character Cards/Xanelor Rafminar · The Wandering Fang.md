@@ -4,14 +4,14 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:19:00.000Z"
+last_edited: "2026-09-12T18:48:00.000Z"
 verification: "unverified"
 ---
 
 # Xanelor Rafminar · The Wandering Fang
 
 > *"I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."*
-> **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal pending ratification.** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
+> **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
 > **Nothing answers to a name here.** What answers Xanelor's pact appears in no current canon document and is carried here as unnamed and unidentified — the mechanics below do not depend on naming it.
 
@@ -22,7 +22,7 @@ verification: "unverified"
 **Name** · Xanelor Rafminar.
 **Called** · The Wandering Fang.
 **Era** · Age of Calamity.
-**Standing** · The Spirit-Fanged Circle, a wilderness sage order. Nomadic. **He protects ground nobody has asked him to protect and holds no commission from anyone.**
+**Standing** · The Spirit-Fanged Circle (unattested), a wilderness sage order. Nomadic. **He protects ground nobody has asked him to protect and holds no commission from anyone.**
 > **Catalyst Event · Stage IX, Invocation.** He stopped working alone.
 >
 > The Sixteen Stages records that every technique before Invocation is the practitioner's own Crystal doing something, and that from Invocation the practitioner **asks, and something larger answers** — and the answering is not metaphor, is not reliable, and is not free. **The Wellspring is a co-author. Co-authors have their own preferences and exercise them.**
@@ -128,9 +128,9 @@ verification: "unverified"
 
 ## IX · Open Rulings
 
-- **Temperance Stage IX is originated.** Ratify, adjust, or reject.
+- **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 265, Coherence Band A, Grade S with late push to SS, ceiling 625, Reflex at ceiling, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
 - **Fenriris — struck.** Ruled non-canon and unattested (Isaac, 2026-09-12); the pact-entity is now written as unnamed rather than replaced with a new name.
-- **The Spirit-Fanged Circle** and **the Covenant of the Wildbound Fang** appear only in the legacy sheet.
+- **The Spirit-Fanged Circle — kept, unattested.** Appears only in the legacy sheet and is carried here as unattested (Isaac, 2026-09-12).
 - The legacy sheet's **"Feral Kinship → Glyphic Balance → Spiritbound Sovereignty"** progression was invented and has been removed.
-- **Rikudoku Moto** is named as a philosophical ally. **Moto is the pre-amendment house name, now Moto throughout.** *Whoever this is needs re-identifying or striking.*
+- **Rikudoku Moto — re-identified.** Named as a philosophical ally. Ruled the same figure attested twice elsewhere (Isaac, 2026-09-12): Kairen Moto's estranged father, tied to the Great Spirit Tree, and the Veil practitioner. *See Kairen Moto · The Iron-Root, Volume V.*
 > **Codex** · Limina / Abstract–Entropic / Eidolyn primary / Stage IX.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fe-ad9d-f25beb89b09e"
 notion_url: "https://app.notion.com/p/Kairen-Moto-The-Iron-Root-3d958200eb2281fead9df25beb89b09e"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:50:00.000Z"
+last_edited: "2026-09-12T18:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -108,7 +108,7 @@ verification: "unverified"
 
 ### IX · Relationships
 
-**Rikudoku Moto** · **Father, estranged and revered.** Kairen wants to be worthy of a legacy he believes his own iron has already spoiled.
+**Rikudoku Moto** · **Father, estranged and revered.** Kairen wants to be worthy of a legacy he believes his own iron has already spoiled. *Named on Xanelor Rafminar's card (Volume III) as the Wandering Fang's philosophical ally.*
 **Senshi Moto** · **Uncle, rival.** Views the mechanical arm as a weakness; Kairen views it as necessary evolution. *Unattested in the wiki mirror; kept because the card gives no other frame for the family conflict.*
 **The Guild Accord** · **Employs him for Reclamation missions in toxic zones**, without extending him a charter.
 

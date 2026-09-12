@@ -35,6 +35,22 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
   "convert batch N" calls still replay, so resuming just finishes the
   remaining batches with no review pass. Don't re-add a review stage unless
   Isaac asks for one back.
+- **All 200 converted and committed.** `build/publish_imports.py --dry-run`
+  found 128 clean, 72 held (71 with "pending Isaac" slots + Tovain's
+  restriction stub). Isaac chose: run an automated resolve pass on the 71,
+  then publish all 200. Resolve workflow script:
+  `.../workflows/scripts/wotr-resolve-pending.js` (batches passed as `args`,
+  not read from a file -- if resuming, re-pass the SAME `args` batches array
+  used originally, listed in the git log / this file's prior version, or
+  reconstruct it from `reports/publish_imports_held.md` minus `the_cryost.md`,
+  chunked by group in groups of ~8). Run id `wf_8c93958c-9f8`. If it died,
+  resume with `Workflow({scriptPath: "...wotr-resolve-pending.js",
+  resumeFromRunId: "wf_8c93958c-9f8", args: <same batches array>})`.
+  **After it completes:** `python build/publish_imports.py --dry-run` again
+  — should show 0 held (Tovain's stub always stays held, that's correct).
+  Then run it for real (no --dry-run), then `python build/docs_export.py
+  --out "G:/My Drive/War of the Realms — Documents" --private-out "G:/My
+  Drive/War of the Realms — Private"`, then commit and push everything.
 - **After all 200 exist:** run the resolve pass — a workflow (or a loop of agents,
   ~8 files each) that opens every converted file, replaces every "pending
   Isaac" / "estimate" / "TBD" with a committed value derived from the FOW

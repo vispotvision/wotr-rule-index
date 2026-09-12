@@ -48,7 +48,7 @@ if (Test-Path "G:\My Drive") {
     Log "docs start"
     $out = & python build\docs_export.py --out $docs --private-out "G:\My Drive\War of the Realms — Private" 2>&1
     $out | Select-Object -Last 1 | ForEach-Object { Log "  $_" }
-    $out = & python buildrcs_export.py --out "$docs\Arcs" 2>&1
+    $out = & python build\arcs_export.py --out "$docs\Arcs" 2>&1
     $out | Select-Object -Last 1 | ForEach-Object { Log "  $_" }
 } else { Log "G:\My Drive not mounted; docs skipped" }
 

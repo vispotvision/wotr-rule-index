@@ -15111,7 +15111,7 @@
     "pack_number": 16,
     "section": "§1",
     "title": "Technical register belongs in the finished narration, converted",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The technical and metaphysical register belongs in the finished narration itself, in Isaac's vocabulary, converted rather than removed or exported to notes.",
     "verbatim": "Pack Sixteen states the consequence for rough-draft work: the technical and metaphysical register belongs in the finished narration, in Isaac's vocabulary, converted rather than removed.",
@@ -15129,7 +15129,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "19"
@@ -15143,7 +15143,7 @@
     "pack_number": 16,
     "section": "§2",
     "title": "A dropped term must be logged in the author notes",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "If a rough-draft term does not survive into the finished prose in one of the four routed forms, the author notes must say which term was dropped and why, in one line, or the pass has failed.",
     "verbatim": "Deletion requires a note. If a term from the rough does not appear in the finished prose in one of the four forms above, the author notes say which term was dropped and why, in one line. A rough draft handed back with vocabulary quietly missing is a failed pass.",
@@ -15161,7 +15161,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "34"
@@ -15175,7 +15175,7 @@
     "pack_number": 16,
     "section": "§2",
     "title": "Every rough term is routed to one of four destinations",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Every content-bearing noun and verb in Isaac's rough prose is routed to a WOTR system term, a real scientific/technical term, the compound of both, or kept verbatim as a defined WOTR term; nothing is silently dropped.",
     "verbatim": "Conversion, not substitution. Every content-bearing noun and verb in Isaac's rough is routed to one of four destinations. Nothing is silently dropped.",
@@ -15192,7 +15192,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "25-32"
@@ -15206,7 +15206,7 @@
     "pack_number": 16,
     "section": "§3",
     "title": "The compound sentence, mechanism and system term in one breath",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The signature WOTR technical sentence names the real phenomenon, gives the system term as its name/boundary/address, and states the physical consequence, in one sentence or short group; neither element is a gloss on the other.",
     "verbatim": "The signature WOTR technical sentence carries the real mechanism and the system term in the same breath and attaches the physical consequence to both. Three elements, one sentence or one short group: [the real phenomenon, correctly named] + [the system term as its name, its boundary condition, or its address] + [what the body or the room did]. Neither element is a gloss on the other. The science is not a metaphor for the magic and the magic is not decoration on the science. They are the same event described at two strata, per Pack Thirteen §2.",
@@ -15224,7 +15224,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "40-44"
@@ -15238,7 +15238,7 @@
     "pack_number": 16,
     "section": "§4",
     "title": "The conversion lexicon is extended every session",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "The rough-to-converted term lexicon is built from Isaac's actual submissions and extended every session; anything converted in play must be entered in it or it does not exist as a settled conversion.",
     "verbatim": "Built from Isaac's actual submissions across the Kharven sequence. Extend it every session; anything converted in play is entered here or it does not exist.",
@@ -15255,7 +15255,7 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "56"
@@ -15269,7 +15269,7 @@
     "pack_number": 16,
     "section": "§5",
     "title": "A mechanism confined to the notes is a failed pass",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.",
     "verbatim": "Not in the author notes. The notes record originated material, conflicts, the Stat Ledger, and the audit. If a mechanism appears in the notes and not in the prose, the pass failed and the note is evidence of the failure.",
@@ -15287,7 +15287,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "84"
@@ -15301,7 +15301,7 @@
     "pack_number": 16,
     "section": "§5",
     "title": "Technical register is available to third-person narration",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.",
     "verbatim": "In the narration. Pack Twelve §2 makes the Technical Register available to third-person narration for anything a person chooses to do. Natalie stops reserving it for italic thought.",
@@ -15319,7 +15319,7 @@
       "pov"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "80"
@@ -15333,7 +15333,7 @@
     "pack_number": 16,
     "section": "§5",
     "title": "The four explaining voices carry argument, not vocabulary",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The four explaining voices remain the delivery system for causal explanation only; narration itself may carry technical terms without needing a voice to speak them.",
     "verbatim": "The four explaining voices (Pack Twelve §3, maximum two per engagement) remain the delivery system for causal explanation. They are not the delivery system for vocabulary. Narration may carry the terms; only the argument about why something worked needs a mouth.",
@@ -15351,7 +15351,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "82"
@@ -15365,7 +15365,7 @@
     "pack_number": 16,
     "section": "§6",
     "title": "A coinage colliding with canon is surfaced, not resolved silently",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.",
     "verbatim": "Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.",
@@ -15377,7 +15377,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "96"
@@ -15391,7 +15391,7 @@
     "pack_number": 16,
     "section": "§6",
     "title": "Isaac's coinages are converted and docketed, never replaced",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.",
     "verbatim": "A term in Isaac's rough that has no canon equivalent is a coinage, not a typo and not an approximation. It is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification. It is never silently replaced with a plainer word.",
@@ -15409,7 +15409,7 @@
       "naming"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "90-92"
@@ -15423,7 +15423,7 @@
     "pack_number": 16,
     "section": "§6",
     "title": "Spelling is corrected silently; vocabulary is not",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Spelling and grammar in Isaac's rough are corrected without comment; vocabulary is never silently corrected.",
     "verbatim": "Spelling and grammar in the rough are corrected without comment. Vocabulary is not.",
@@ -15434,7 +15434,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "94"
@@ -15448,7 +15448,7 @@
     "pack_number": 16,
     "section": "§7",
     "title": "What conversion does not touch",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.",
     "verbatim": "The conversion applies to mechanism, phenomenon, technical read, injury, and the physics of an exchange. It does not apply to: - The body. Chest, hands, gut. Story first (Master Style Directive) survives Pack Sixteen intact. - Grief and the elegiac beat. Describe the rust in full and the grief in three words (Pack Six). A converted grief is a failed grief. - Dialogue, except in a practitioner's diagnostic voice or a document's. - The ignorance quota (Pack Six). One thing per scene the POV perceives and cannot name. Conversion never rescues it.",
@@ -15467,7 +15467,7 @@
       "pov"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "102-109"
@@ -15481,7 +15481,7 @@
     "pack_number": 16,
     "section": "§7",
     "title": "Converting everything is as much a fault as converting nothing",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "A scene that converts everything has the same fault as a scene that converts nothing: it has stopped choosing.",
     "verbatim": "A scene that converts everything has the same fault as a scene that converts nothing: it has stopped choosing.",
@@ -15492,7 +15492,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "111"
@@ -15506,7 +15506,7 @@
     "pack_number": 16,
     "section": "§8",
     "title": "Check 30 — Conversion density",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "A scene with a working, exchange or injury must carry at least four WOTR technical-lexicon terms and at least two correctly-used real scientific/anatomical terms in the narration outside italics; false positives are reviewed by reading.",
     "verbatim": "Check 30 — Conversion density. A scene containing a working, an exchange, or an injury carries at least four terms from the WOTR technical lexicon and at least two correctly-used real scientific or anatomical terms, in the narration, outside italics.",
@@ -15525,7 +15525,7 @@
     "verification": [
       "check-30"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "119"
@@ -15539,7 +15539,7 @@
     "pack_number": 16,
     "section": "§8",
     "title": "Check 31 — Export",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "No mechanism term may appear in the author-notes block that does not also appear in the prose body.",
     "verbatim": "Check 31 — Export. No mechanism term appears in the author-notes block that does not also appear in the prose body.",
@@ -15559,7 +15559,7 @@
     "verification": [
       "check-31"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "121"
@@ -15573,7 +15573,7 @@
     "pack_number": 16,
     "section": "§8",
     "title": "Check 32 — Coinage retention",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Every distinctive term in the submitted rough must appear in the output in one of the four routed forms, or be listed as dropped in the notes; false positives are reviewed by reading.",
     "verbatim": "Check 32 — Coinage retention. Every distinctive term in the submitted rough appears in the output in one of the four routed forms, or is listed as dropped in the notes.",
@@ -15592,7 +15592,7 @@
     "verification": [
       "check-32"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "123"
@@ -15606,7 +15606,7 @@
     "pack_number": 16,
     "section": "§8",
     "title": "Check 33 — Italic quarantine",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Fewer than half of a scene's technical terms may sit inside italic thought.",
     "verbatim": "Check 33 — Italic quarantine. Fewer than half of a scene's technical terms sit inside italic thought.",
@@ -15626,7 +15626,7 @@
     "verification": [
       "check-33"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "125"
@@ -15640,7 +15640,7 @@
     "pack_number": 16,
     "section": "§9",
     "title": "Standing task, fold amendments into base guides",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Fold Packs One through Sixteen into the base guides and retire the diffs, asked once per session; precedence at sixteen packs deep is past the point where it can be tracked by reading.",
     "verbatim": "Fold Packs One through Sixteen into the base guides and retire the diffs. Sixteen packs is past the point where precedence can be tracked by reading. Ask once per session.",
@@ -15651,7 +15651,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Sixteen.md",
       "lines": "131"
@@ -15665,7 +15665,7 @@
     "pack_number": 17,
     "section": "§10",
     "title": "Standing task, fold amendments into base guides",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.",
     "verbatim": "Fold Packs One through Seventeen into the base guides and retire the diffs. Ask once per session.",
@@ -15676,7 +15676,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "130"
@@ -15690,7 +15690,7 @@
     "pack_number": 17,
     "section": "§2",
     "title": "Every entry states the four mechanism elements",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Every technique entry's Effect line (or immediately under it) must name the quantity acted on, the governing law, the operation performed on the quantity, and the causal chain from trigger to outcome; missing any one makes the entry unfinished and not canon.",
     "verbatim": "Every entry states how the thing works. Four elements, all four required, in the Effect line or immediately under it. An entry missing any one of them is not finished and is not canon.",
@@ -15707,7 +15707,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "25-27"
@@ -15721,7 +15721,7 @@
     "pack_number": 17,
     "section": "§2",
     "title": "The it-does-X-to-Y sentence test",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "A technique must be statable as \"it does X to Y, which under Z produces W\"; if that sentence cannot be written, the technique is not designed regardless of the prose around it.",
     "verbatim": "State the working as: it does X to Y, which under Z produces W. If that sentence cannot be written, the technique is not designed and no amount of prose will hide it.",
@@ -15733,7 +15733,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "34"
@@ -15747,7 +15747,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "Codex assignment is made after the phenomenon, never before",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "The Codex line (glyphs / Wellspring / Family / Physics Domain / Category / Stage) is assigned after the phenomenon is designed, never before.",
     "verbatim": "Codex assignment remains one small line at the foot: Codex: [glyphs] / Wellspring / Family / Physics Domain / Category / Stage. Assigned after the phenomenon, never before.",
@@ -15764,7 +15764,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "49"
@@ -15778,7 +15778,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "Cost must derive from the Operation",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The Cost line must be derived from the Operation line; a cost that could be swapped for a different cost without changing the mechanism is decoration.",
     "verbatim": "Cost. What it does to the body and what remains after. Derived from the Operation. If the cost could be swapped for a different cost without changing the mechanism, it is decoration.",
@@ -15795,7 +15795,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "44"
@@ -15809,7 +15809,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "Counter is mandatory on Signature techniques and must derive",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just \"hit him harder\" means the technique has no mechanism.",
     "verbatim": "Counter. Mandatory on Signature techniques. It falls out of the Operation or it is not a counter. If the counter is hit him harder, the technique has no mechanism.",
@@ -15827,7 +15827,7 @@
       "combat"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "46"
@@ -15841,7 +15841,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "A Limit must have a mechanical source",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "The Limit line must state why the mechanism forbids the thing it forbids; a limit with no mechanical source is a rule the author imposed rather than a derived limit.",
     "verbatim": "Limit. What it structurally cannot do, and why the mechanism forbids it. A limit with no mechanical source is a rule the author imposed.",
@@ -15858,7 +15858,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "45"
@@ -15872,7 +15872,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "The five-line card is replaced by a six-line card, mechanism first",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "The technique card format becomes six ordered lines — Operation, Manifestation, Cost, Limit, Counter, What nobody knows — with the Operation (mechanism) line first because every other line derives from it, plus a small Codex-assignment line at the foot.",
     "verbatim": "The five-line page format is replaced by six lines. Order matters: the mechanism comes first, because everything below it is derived from it.",
@@ -15889,7 +15889,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "40"
@@ -15903,7 +15903,7 @@
     "pack_number": 17,
     "section": "§3",
     "title": "What nobody knows is constrained to origin, not mechanism",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "The one-line-per-art \"What nobody knows\" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.",
     "verbatim": "What nobody knows. One line per art. Now constrained: it must be a question about why the law holds, never about what the working does. Mechanism is on the page. Origin is not.",
@@ -15921,7 +15921,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "47"
@@ -15935,7 +15935,7 @@
     "pack_number": 17,
     "section": "§4",
     "title": "Cost, Limit and Counter are outputs, not inputs",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Cost, Limit and Counter must be read off the mechanism once it exists rather than chosen for drama or convenience.",
     "verbatim": "Cost, Limit and Counter are outputs, not inputs.",
@@ -15952,7 +15952,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "55"
@@ -15966,7 +15966,7 @@
     "pack_number": 17,
     "section": "§4",
     "title": "Design order adds a derivation step after the mechanism",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Design order stays what refuses/survived/costs-belief, then phenomenon, then mechanism, then Codex, unchanged from the sixth edition; Pack Seventeen adds that once the mechanism exists, cost, limit and counter are derived from it rather than chosen.",
     "verbatim": "once the mechanism exists, the cost, the limit and the counter are read off it rather than chosen.",
@@ -15983,7 +15983,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "57"
@@ -15997,7 +15997,7 @@
     "pack_number": 17,
     "section": "§5",
     "title": "An artefact's working carries a full Operation line",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.",
     "verbatim": "Proof-marks, mass, balance and the response of the armour tier are already required by the Item Guide; Pack Seventeen adds that any working the object performs carries a full Operation line of its own.",
@@ -16014,7 +16014,7 @@
       "items"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "76"
@@ -16028,7 +16028,7 @@
     "pack_number": 17,
     "section": "§5",
     "title": "Bloodline faculties state the substrate difference",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty (\"the Moto see\") is not an entry.",
     "verbatim": "The Moto see is not an entry. What the eye is doing to what quantity, and what it costs to hold open, and what it cannot resolve, is one.",
@@ -16046,7 +16046,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "78"
@@ -16060,7 +16060,7 @@
     "pack_number": 17,
     "section": "§5",
     "title": "Skills state their operating principle at the level of the body",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A Skill entry must name the real cognitive cues a read operates on, or the mechanics, measure and tempo a martial skill operates on.",
     "verbatim": "Skills state their operating principle at the level of the body. A read is a real cognitive operation on real cues, and the entry names the cues. A martial skill is mechanics, measure and tempo, and the entry names them.",
@@ -16077,7 +16077,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "74"
@@ -16091,7 +16091,7 @@
     "pack_number": 17,
     "section": "§5",
     "title": "Traits state the substrate property altered",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A Trait must specify the Lattice property it alters, and therefore which injuries behave differently and which identically; a Trait that only restates its effect (\"harder to kill\") is not a Trait.",
     "verbatim": "Traits state what they change about the practitioner's substrate. A Trait that reads he is harder to kill is not a Trait. A Trait that specifies the Lattice property altered, and therefore which injuries behave differently and which behave identically, is one.",
@@ -16109,7 +16109,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "72"
@@ -16123,7 +16123,7 @@
     "pack_number": 17,
     "section": "§6",
     "title": "How it works is required; why it is possible is not",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where \"What nobody knows\" lives.",
     "verbatim": "The line is exact: how it works is required, why it is possible is not.",
@@ -16141,7 +16141,7 @@
       "worldbuilding"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "88"
@@ -16155,7 +16155,7 @@
     "pack_number": 17,
     "section": "§8",
     "title": "Check 34 — The four elements",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.",
     "verbatim": "Check 34 — The four elements. Quantity, law, operation and chain all present in the Operation line. Any absence is a FAIL.",
@@ -16175,7 +16175,7 @@
       "check-34",
       "--entry"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "114"
@@ -16189,7 +16189,7 @@
     "pack_number": 17,
     "section": "§8",
     "title": "Check 35 — Derivation",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.",
     "verbatim": "Check 35 — Derivation. For each of Cost, Limit and Counter, name the sentence in the Operation it follows from. Anything that cannot be traced is decoration and is cut or re-derived.",
@@ -16209,7 +16209,7 @@
       "check-35",
       "--entry"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "116"
@@ -16223,7 +16223,7 @@
     "pack_number": 17,
     "section": "§8",
     "title": "Check 36 — The assertion sweep",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Flags phrases that assert an outcome instead of stating a process (e.g. \"is assayed\", \"is converted\", \"responds to\"); each is replaced with the operation it stands in for, or deleted.",
     "verbatim": "Check 36 — The assertion sweep. Flag every phrase that states an outcome in place of a process: is assayed, is converted, is transferred, responds to, is affected by, is empowered by, resonates with, attunes to. Each one is either replaced with the operation it is standing in for or deleted.",
@@ -16244,7 +16244,7 @@
       "check-36",
       "--entry"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Seventeen.md",
       "lines": "118"
@@ -16258,7 +16258,7 @@
     "pack_number": 18,
     "section": "§2",
     "title": "The Codex is consulted before a working is designed",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.",
     "verbatim": "The Codex is opened before the working is designed, not after.",
@@ -16275,7 +16275,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "23"
@@ -16289,7 +16289,7 @@
     "pack_number": 18,
     "section": "§2",
     "title": "No new Codex category without a demonstrated absence",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.",
     "verbatim": "No new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may be proposed until the existing enumeration has been read and the absence demonstrated. A proposal that does not name what was checked and why it failed is not a proposal.",
@@ -16306,7 +16306,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "34"
@@ -16320,7 +16320,7 @@
     "pack_number": 18,
     "section": "§3",
     "title": "Pack Seventeen's card and the Spell Index share one schema",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.",
     "verbatim": "Pack Seventeen's card and the Spell Index schema are the same object. The mapping is exact and the Codex column governs:",
@@ -16338,7 +16338,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "40"
@@ -16352,7 +16352,7 @@
     "pack_number": 18,
     "section": "§3",
     "title": "The Codex outranks Pack Sixteen's conversion lexicon on conflict",
-    "status": "proposed",
+    "status": "live",
     "kind": "consequential_edit",
     "summary": "Pack Sixteen's route-1 rough-prose conversion now means routing to a Codex term, and where the Pack Sixteen §4 conversion lexicon disagrees with the Codex sheet, the sheet wins.",
     "verbatim": "And when converting Isaac's rough prose (Pack Sixteen §2), route 1 now means route to a Codex term. The conversion lexicon in Pack Sixteen §4 is subordinate to the Codex: where the two disagree, the sheet wins.",
@@ -16369,7 +16369,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "53"
@@ -16383,7 +16383,7 @@
     "pack_number": 18,
     "section": "§3",
     "title": "Every new working is written as a candidate Codex row",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A newly designed working's entry is written in Spell Index form and stands as a candidate row for the sheet; anything originated in play belongs in the Codex or does not exist.",
     "verbatim": "When a new working is designed, its entry is written in Spell Index form and is a candidate row for the sheet. The Codex is a living document and everything originated in play belongs in it or does not exist.",
@@ -16400,7 +16400,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "51"
@@ -16414,7 +16414,7 @@
     "pack_number": 18,
     "section": "§4",
     "title": "Where a glyph may be named on the page",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.",
     "verbatim": "Glyphs are named in a document, an instrument, a practitioner's diagnostic voice, or a private count. Narration may state what a glyph did and does not announce the bracket.",
@@ -16426,7 +16426,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "61"
@@ -16440,7 +16440,7 @@
     "pack_number": 18,
     "section": "§4",
     "title": "A glyph in text is quoted exactly as the Index gives it",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A glyph appearing in a chant, an inscription or a Wordform Chain must be quoted exactly as the Master Glyph Index gives it.",
     "verbatim": "A glyph in a chant, an inscription or a Wordform Chain is quoted exactly as the Index gives it.",
@@ -16451,7 +16451,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "62"
@@ -16465,7 +16465,7 @@
     "pack_number": 18,
     "section": "§4",
     "title": "Glyph Role and Glyph Class are orthogonal, non-substitutable axes",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Glyph Role (Authorization, Boundary, Direction, Sealing) describes function within a working; Glyph Class (Root, Derivative by Extension, Compound, Synonym, Counter) describes provenance; neither may stand in for the other.",
     "verbatim": "The four Glyph Roles from the Notion Lexicon (Authorization, Boundary, Direction, Sealing) describe function within a working. Glyph Class from the Codex (Root, and Derivative by Extension, Compound, Synonym or Counter) describes provenance. They are orthogonal axes and neither substitutes for the other.",
@@ -16476,7 +16476,7 @@
       "magic-mechanism"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "63"
@@ -16490,7 +16490,7 @@
     "pack_number": 18,
     "section": "§5",
     "title": "The alchemical doctrine line, and the operations it binds",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.",
     "verbatim": "the reagents are the nouns, the Wellspring is the verb, Glyphica is the grammar that makes the sentence lawful. It also fixes the eight Wellsprings that are simultaneously Wellspring, cosmic principle and alchemical operation, and any working that touches Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by their entries there.",
@@ -16508,7 +16508,7 @@
       "items"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "73"
@@ -16522,7 +16522,7 @@
     "pack_number": 18,
     "section": "§5",
     "title": "Three alchemy sources, consulted in a fixed order",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.",
     "verbatim": "Three sources, consulted in this order, and none of them optional.",
@@ -16540,7 +16540,7 @@
       "items"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "69"
@@ -16554,7 +16554,7 @@
     "pack_number": 18,
     "section": "§6",
     "title": "The Codex is read from the file, never from memory",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "The Master Codex is accessed read-only via openpyxl from the actual spreadsheet file; the sheet is the authority, not Natalie's recollection of it.",
     "verbatim": "Access method: openpyxl, read-only, from /mnt/project/The_Master_Codex.xlsx. Never from memory. The sheet is the authority and Natalie's recollection of it is not.",
@@ -16565,7 +16565,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "87"
@@ -16579,7 +16579,7 @@
     "pack_number": 18,
     "section": "§6",
     "title": "New Session Start step 4a, open the Master Codex",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.",
     "verbatim": "4a. Open the Master Codex for anything the scene will work. Query the Spell Index for existing precedent, the Glyph Index for the phenomenon, the Alchemical Index for any reagent, and the Lists sheet for every assignment the scene will name. Do this before the FOW line and before the Standing Inventory, because the Codex determines what the working is and the others determine what it costs and how it reads.",
@@ -16596,7 +16596,7 @@
       "codex"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "85"
@@ -16610,7 +16610,7 @@
     "pack_number": 18,
     "section": "§7",
     "title": "Check 37 — Controlled vocabulary",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and Type named in a file is validated against the Lists sheet; anything absent fails unless declared as a proposed new entry naming the checked enumeration.",
     "verbatim": "Check 37 — Controlled vocabulary. Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and alchemical Type named in the file is validated against the Lists sheet. Anything absent is a FAIL and must be either corrected or explicitly declared as a proposed new entry with the checked enumeration named.",
@@ -16630,7 +16630,7 @@
       "check-37",
       "--codex"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "95"
@@ -16644,7 +16644,7 @@
     "pack_number": 18,
     "section": "§7",
     "title": "Check 38 — Glyph validity",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Every bracketed glyph token in a file is validated against the Master Glyph Index; unknown tokens fail.",
     "verbatim": "Check 38 — Glyph validity. Every bracketed glyph token in the file is validated against the Master Glyph Index. Unknown tokens FAIL.",
@@ -16665,7 +16665,7 @@
       "check-38",
       "--codex"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "97"
@@ -16679,7 +16679,7 @@
     "pack_number": 18,
     "section": "§7",
     "title": "Check 39 — Precedent",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Manual check: for any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.",
     "verbatim": "Check 39 — Precedent. Manual. For any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.",
@@ -16700,7 +16700,7 @@
       "check-39",
       "--codex"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "99"
@@ -16714,7 +16714,7 @@
     "pack_number": 18,
     "section": "§9",
     "title": "Standing task, fold amendments into base guides",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.",
     "verbatim": "Fold Packs One through Eighteen into the base guides and retire the diffs. Ask once per session.",
@@ -16725,7 +16725,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Eighteen.md",
       "lines": "115"
@@ -16739,7 +16739,7 @@
     "pack_number": 19,
     "section": "§2",
     "title": "Prose is built around fixed dialogue, not the reverse",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Scenes are constructed to make Isaac's fixed lines land; the dialogue is never fitted to prose written ahead of it.",
     "verbatim": "The prose is built around the dialogue, never over it. Isaac's lines are the fixed points and the scene is constructed to make them land.",
@@ -16750,7 +16750,7 @@
       "scene-structure"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "57"
@@ -16764,7 +16764,7 @@
     "pack_number": 19,
     "section": "§2",
     "title": "Isaac's dialogue is fixed text",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Isaac's submitted dialogue is set as written and never rewritten.",
     "verbatim": "Set it. Do not rewrite it.",
@@ -16781,7 +16781,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "37"
@@ -16795,7 +16795,7 @@
     "pack_number": 19,
     "section": "§2",
     "title": "What may never be altered in Isaac's dialogue",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Register, rhythm, repetition, fragments, profanity, prosodic marks, line order, and word choice in Isaac's dialogue may never be changed, including for the sake of reading better.",
     "verbatim": "May never be altered: - Register, diction or formality level - Rhythm, sentence length, or clause structure - Repetition, including repetition that looks accidental - Fragments, run-ons, missing conjunctions - Profanity, crudeness, or bluntness of any kind - Capitals, stretched vowels, ellipses, and every other prosodic mark (see §3) - The order in which a character says things - Anything at all on the grounds that it reads better the other way",
@@ -16812,7 +16812,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "45-53"
@@ -16826,7 +16826,7 @@
     "pack_number": 19,
     "section": "§2",
     "title": "The narrow set of silent corrections to Isaac's dialogue",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Only typos, unambiguous verb tense/agreement, required punctuation, and stale canon-term forms may be silently corrected in Isaac's dialogue.",
     "verbatim": "May be corrected silently: - Typographical slips and dropped words (wsaas → was) - Verb tense and agreement where the intent is unambiguous - Punctuation required for the line to parse - A canon term used in a stale or incorrect form (Khavern → Kharven, kurotesu → Kurosetsu)",
@@ -16842,7 +16842,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "39-43"
@@ -16856,7 +16856,7 @@
     "pack_number": 19,
     "section": "§2",
     "title": "Procedure when a fixed line breaks canon",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.",
     "verbatim": "Where a line genuinely breaks the world — a term that contradicts canon, a name that has been retired, a claim that cannot be true — Natalie flags it in one sentence in the author notes and leaves the line standing unless Isaac rules otherwise. The draft is not touched.",
@@ -16873,7 +16873,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "55"
@@ -16887,7 +16887,7 @@
     "pack_number": 19,
     "section": "§3",
     "title": "Prosodic marks are reproduced verbatim, never normalised",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Capitals, stretched vowels, ellipses and repeated punctuation are notation for volume, duration, breath and intensity, and must be reproduced exactly rather than converted into narrative description.",
     "verbatim": "Natalie does not convert stretched vowels into a narrative tag (he tore it out of himself), does not reduce capitals to italics, and does not tidy ellipses into em dashes or commas.",
@@ -16904,7 +16904,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "63-70"
@@ -16918,7 +16918,7 @@
     "pack_number": 19,
     "section": "§3",
     "title": "A descriptive tag may accompany prosody, never replace it",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "A narrative tag may be added next to prosodic notation but may never be used instead of it.",
     "verbatim": "A tag may be added alongside prosody. It may never be added instead of it.",
@@ -16928,7 +16928,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "72"
@@ -16942,7 +16942,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "Staying composed under stress must cost visibly",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A character who stays composed under extreme stress is exercising an expensive discipline, and the scene must show that price.",
     "verbatim": "The inverse is a character note and it must cost. A character who does stay composed under extreme stress is exercising an expensive discipline, and the scene shows the price.",
@@ -16952,7 +16952,7 @@
       "dialogue"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "93"
@@ -16966,7 +16966,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "The iceberg rule applies to dialogue",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Characters never explain to each other something they both already know.",
     "verbatim": "And nobody explains anything they both already know. The iceberg rule is a dialogue rule first.",
@@ -16977,7 +16977,7 @@
       "pov"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "97"
@@ -16991,7 +16991,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "Originated dialogue must show real-time speech production",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavour.",
     "verbatim": "Speech is not prose. It is produced in real time by a person who has not finished thinking.",
@@ -17008,7 +17008,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "78-89"
@@ -17022,7 +17022,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "Register under stress shortens and simplifies",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.",
     "verbatim": "Register moves with state, and it moves the same way in every human being. Under stress, speech gets shorter, more concrete, more repetitive, and loses subordinate clauses.",
@@ -17039,7 +17039,7 @@
       "register"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "91"
@@ -17053,7 +17053,7 @@
     "pack_number": 19,
     "section": "§4",
     "title": "Speech idiom is anchored to the speaker's own life",
-    "status": "proposed",
+    "status": "live",
     "kind": "mandate",
     "summary": "A character's metaphors and idiom must come from their own life and trade, not from an external reference list.",
     "verbatim": "Speech is world-anchored. People reach for the objects and idioms their life has given them.",
@@ -17071,7 +17071,7 @@
       "standing-inventory"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "95"
@@ -17085,7 +17085,7 @@
     "pack_number": 19,
     "section": "§5",
     "title": "The composure ban",
-    "status": "proposed",
+    "status": "live",
     "kind": "ban",
     "summary": "Bars antithesis and parallelism, three-part lists, long subordinate clauses in shouted speech, and perfect syntax from established inarticulate/young/exhausted/foreign characters, and bars every character in a scene from constructing sentences at the same length.",
     "verbatim": "No character speaks in balanced clauses under duress, and Natalie's habit of writing everyone that way is a tell.",
@@ -17102,7 +17102,7 @@
       "prose-law"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "103-111"
@@ -17116,7 +17116,7 @@
     "pack_number": 19,
     "section": "§5",
     "title": "The cover-the-tags test is now a Pack Nineteen failure",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.",
     "verbatim": "Cover the dialogue tags and read the lines. If a stranger could not sort them by speaker, the scene failed, and the failure is now a Pack Nineteen failure and not merely a voice-differentiation warning.",
@@ -17127,7 +17127,7 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "113"
@@ -17141,7 +17141,7 @@
     "pack_number": 19,
     "section": "§7",
     "title": "Check 40 — Fidelity",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Manual check that every line of Isaac's dialogue matches the submitted rough verbatim except for corrections permitted in §2; any other change fails and is reverted.",
     "verbatim": "Check 40 — Fidelity. Manual. Diff the output against the submitted rough. Every line of Isaac's dialogue appears verbatim except for the corrections permitted in §2. Any other change is a FAIL and is reverted.",
@@ -17161,7 +17161,7 @@
       "check-40",
       "--dialogue"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "129"
@@ -17175,7 +17175,7 @@
     "pack_number": 19,
     "section": "§7",
     "title": "Check 41 — Prosody",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Automatic check that fails when the submitted rough has stretched vowels, repeated punctuation or capitalised shouting that the output drops.",
     "verbatim": "Check 41 — Prosody. Automatic where possible. If the submitted rough contains stretched vowels, repeated punctuation or capitalised shouting and the output does not, FAIL.",
@@ -17195,7 +17195,7 @@
       "check-41",
       "--dialogue"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "131"
@@ -17209,7 +17209,7 @@
     "pack_number": 19,
     "section": "§7",
     "title": "Check 42 — Composure",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Flags long, subordinate-heavy or parallel dialogue lines and reports the spread of line lengths across a scene, flagging files where every speaker clusters at one length.",
     "verbatim": "Check 42 — Composure. Flags dialogue lines that are long, subordinate-heavy, or contain parallel constructions, and reports the spread of line lengths across the scene.",
@@ -17229,7 +17229,7 @@
       "check-42",
       "--dialogue"
     ],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "133"
@@ -17243,7 +17243,7 @@
     "pack_number": 19,
     "section": "§8",
     "title": "The pack is not retroactive",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "No rewrite of scenes written before this pack is proposed; the pack governs dialogue written from here forward.",
     "verbatim": "No rewrite of past scenes is proposed. The pack governs from here.",
@@ -17254,7 +17254,7 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "146"
@@ -17268,7 +17268,7 @@
     "pack_number": 19,
     "section": "§9",
     "title": "Standing task, fold amendments into base guides",
-    "status": "proposed",
+    "status": "live",
     "kind": "procedure",
     "summary": "Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.",
     "verbatim": "Fold Packs One through Nineteen into the base guides and retire the diffs. Ask once per session.",
@@ -17279,7 +17279,7 @@
       "documents"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified wholesale",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Nineteen.md",
       "lines": "150"

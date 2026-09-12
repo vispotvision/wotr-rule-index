@@ -1,9 +1,9 @@
-# Pack Sixteen: Status: originated, pending Isaac's ratification (source
-# lines 5-6). No section marked confirmed, so every row is status: proposed.
+# Pack Sixteen: originated, ratified wholesale by Isaac 2026-09-12 (Claude
+# Code). Every row is status: live.
 pack: Pack Sixteen
 pack_number: 16
 source_file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
-ratified: null
+ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
 rules:
 
   - id: R16-1-CONSEQUENCE
@@ -11,7 +11,7 @@ rules:
     pack_number: 16
     section: "§1"
     title: Technical register belongs in the finished narration, converted
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The technical and metaphysical register belongs in the finished
@@ -28,7 +28,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "19"
@@ -39,7 +39,7 @@ rules:
     pack_number: 16
     section: "§2"
     title: Every rough term is routed to one of four destinations
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Every content-bearing noun and verb in Isaac's rough prose is routed
@@ -57,7 +57,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "25-32"
@@ -68,7 +68,7 @@ rules:
     pack_number: 16
     section: "§2"
     title: A dropped term must be logged in the author notes
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       If a rough-draft term does not survive into the finished prose in one
@@ -86,7 +86,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "34"
@@ -97,7 +97,7 @@ rules:
     pack_number: 16
     section: "§3"
     title: The compound sentence, mechanism and system term in one breath
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The signature WOTR technical sentence names the real phenomenon, gives
@@ -121,7 +121,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "40-44"
@@ -132,7 +132,7 @@ rules:
     pack_number: 16
     section: "§4"
     title: The conversion lexicon is extended every session
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       The rough-to-converted term lexicon is built from Isaac's actual
@@ -149,7 +149,7 @@ rules:
     supersedes: []
     applies_to: [register, session-protocol]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "56"
@@ -163,7 +163,7 @@ rules:
     pack_number: 16
     section: "§5"
     title: Technical register is available to third-person narration
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The Technical Register is available to third-person narration for
@@ -180,7 +180,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, pov]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "80"
@@ -191,7 +191,7 @@ rules:
     pack_number: 16
     section: "§5"
     title: The four explaining voices carry argument, not vocabulary
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The four explaining voices remain the delivery system for causal
@@ -209,7 +209,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "82"
@@ -220,7 +220,7 @@ rules:
     pack_number: 16
     section: "§5"
     title: A mechanism confined to the notes is a failed pass
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       If a mechanism term appears in the author notes but not in the prose,
@@ -237,7 +237,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, documents]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "84"
@@ -248,7 +248,7 @@ rules:
     pack_number: 16
     section: "§6"
     title: Isaac's coinages are converted and docketed, never replaced
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       A term in Isaac's rough with no canon equivalent is a coinage: it is
@@ -269,7 +269,7 @@ rules:
     supersedes: []
     applies_to: [register, prose-law, naming]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "90-92"
@@ -280,7 +280,7 @@ rules:
     pack_number: 16
     section: "§6"
     title: Spelling is corrected silently; vocabulary is not
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Spelling and grammar in Isaac's rough are corrected without comment;
@@ -292,7 +292,7 @@ rules:
     supersedes: []
     applies_to: [register, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "94"
@@ -303,7 +303,7 @@ rules:
     pack_number: 16
     section: "§6"
     title: A coinage colliding with canon is surfaced, not resolved silently
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Where a coinage collides with existing canon, the collision is
@@ -317,7 +317,7 @@ rules:
     supersedes: []
     applies_to: [register, naming, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "96"
@@ -328,7 +328,7 @@ rules:
     pack_number: 16
     section: "§7"
     title: What conversion does not touch
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Conversion applies to mechanism, phenomenon, technical read, injury
@@ -352,7 +352,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register, dialogue, pov]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "102-109"
@@ -363,7 +363,7 @@ rules:
     pack_number: 16
     section: "§7"
     title: Converting everything is as much a fault as converting nothing
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       A scene that converts everything has the same fault as a scene that
@@ -375,7 +375,7 @@ rules:
     supersedes: []
     applies_to: [prose-law, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "111"
@@ -386,7 +386,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 30 — Conversion density"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       A scene with a working, exchange or injury must carry at least four
@@ -405,7 +405,7 @@ rules:
     supersedes: []
     applies_to: [register, verification]
     verification: ["check-30"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "119"
@@ -416,7 +416,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 31 — Export"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       No mechanism term may appear in the author-notes block that does not
@@ -431,7 +431,7 @@ rules:
     supersedes: []
     applies_to: [register, verification, documents]
     verification: ["check-31"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "121"
@@ -442,7 +442,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 32 — Coinage retention"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Every distinctive term in the submitted rough must appear in the
@@ -459,7 +459,7 @@ rules:
     supersedes: []
     applies_to: [register, verification]
     verification: ["check-32"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "123"
@@ -470,7 +470,7 @@ rules:
     pack_number: 16
     section: "§8"
     title: "Check 33 — Italic quarantine"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Fewer than half of a scene's technical terms may sit inside italic
@@ -485,7 +485,7 @@ rules:
     supersedes: []
     applies_to: [register, verification, pov]
     verification: ["check-33"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "125"
@@ -496,7 +496,7 @@ rules:
     pack_number: 16
     section: "§9"
     title: Standing task, fold amendments into base guides
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Fold Packs One through Sixteen into the base guides and retire the
@@ -510,7 +510,7 @@ rules:
     supersedes: []
     applies_to: [session-protocol, documents]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Sixteen.md
       lines: "131"

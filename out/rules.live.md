@@ -1,6 +1,6 @@
 # Live rules by domain
 
-395 live of 577 extracted.
+467 live of 577 extracted.
 
 ## adjudication (23)
 
@@ -28,8 +28,14 @@
 - **R2-6-DOMAINS_BREAK_NOT_KILL** [Pack Two Amendment Six.4] A seated Domain corrodes cohesion and the line breaks, with killing happening in the rout; assess a Domain-class technique by Re-form rather than by casualties.
 - **R1-2-COUNTERPLAY_THREE_WAYS** [Pack One Amendment Two] Counterplay to any scaled technique is always exceeding its Frontage, outlasting its Sustain, or shortening its Re-form (via drill, veterancy, redundant command, or a counter-Domain).
 
-## character-sheet (50)
+## character-sheet (56)
 
+- **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
+- **R17-3-SIX_LINE_CARD** [Pack Seventeen §3] The technique card format becomes six ordered lines — Operation, Manifestation, Cost, Limit, Counter, What nobody knows — with the Operation (mechanism) line first because every other line derives from it, plus a small Codex-assignment line at the foot.
+- **R17-3-WHAT_NOBODY_KNOWS_SCOPE** [Pack Seventeen §3] The one-line-per-art "What nobody knows" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.
+- **R17-5-TRAIT_SCOPE** [Pack Seventeen §5] A Trait must specify the Lattice property it alters, and therefore which injuries behave differently and which identically; a Trait that only restates its effect ("harder to kill") is not a Trait.
+- **R17-5-SKILL_SCOPE** [Pack Seventeen §5] A Skill entry must name the real cognitive cues a read operates on, or the mechanics, measure and tempo a martial skill operates on.
+- **R17-5-BLOODLINE_SCOPE** [Pack Seventeen §5] A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty ("the Moto see") is not an entry.
 - **R14-6-CHECK29** [Pack Fourteen §6] The author notes must contain a Stat Ledger (§7) for every named practitioner or the run fails.
 - **R14-7-STAT_LEDGER_CONTENTS** [Pack Fourteen §7] Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
 - **R14-8-ABILITY_GUIDE_FOW_LINE** [Pack Fourteen §8] Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
@@ -81,8 +87,24 @@
 - **R24-1-FLESHSHAPER_SIGNATURES_AND_TELL** [Racial Voice and Dialect Guide Amendment I] Signature lines "That closes" (anything settled) and "Who holds it?" (their first question about any structure); under stress they become more procedural, not less, shortening to pure sequence with the reasons dropped.
 - **R24-3-HOST_CORE_DEVICE** [Racial Voice and Dialect Guide Amendment III] A Host gives an answer that is correct and unusable, aware of this and unable to do anything about it — accurate rather than confident, which is what stops them sounding like scripture.
 
-## codex (17)
+## codex (33)
 
+- **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
+- **R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK** [Pack Eighteen §2] A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
+- **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
+- **R18-3-ENTRY_AS_CANDIDATE_ROW** [Pack Eighteen §3] A newly designed working's entry is written in Spell Index form and stands as a candidate row for the sheet; anything originated in play belongs in the Codex or does not exist.
+- **R18-3-CODEX_OVERRIDES_LEXICON** [Pack Eighteen §3] Pack Sixteen's route-1 rough-prose conversion now means routing to a Codex term, and where the Pack Sixteen §4 conversion lexicon disagrees with the Codex sheet, the sheet wins.
+- **R18-4-GLYPH_NAMING_CONTEXTS** [Pack Eighteen §4] Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.
+- **R18-4-GLYPH_QUOTED_EXACTLY** [Pack Eighteen §4] A glyph appearing in a chant, an inscription or a Wordform Chain must be quoted exactly as the Master Glyph Index gives it.
+- **R18-4-ROLE_VS_CLASS_AXES** [Pack Eighteen §4] Glyph Role (Authorization, Boundary, Direction, Sealing) describes function within a working; Glyph Class (Root, Derivative by Extension, Compound, Synonym, Counter) describes provenance; neither may stand in for the other.
+- **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
+- **R18-5-ALCHEMY_DOCTRINE_BINDING** [Pack Eighteen §5] Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
+- **R18-6-SESSION_START_4A** [Pack Eighteen §6] Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.
+- **R18-6-ACCESS_METHOD** [Pack Eighteen §6] The Master Codex is accessed read-only via openpyxl from the actual spreadsheet file; the sheet is the authority, not Natalie's recollection of it.
+- **R18-7-CHECK37** [Pack Eighteen §7] Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and Type named in a file is validated against the Lists sheet; anything absent fails unless declared as a proposed new entry naming the checked enumeration.
+- **R18-7-CHECK38** [Pack Eighteen §7] Every bracketed glyph token in a file is validated against the Master Glyph Index; unknown tokens fail.
+- **R18-7-CHECK39** [Pack Eighteen §7] Manual check: for any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.
+- **R17-3-CODEX_LINE_ORDER** [Pack Seventeen §3] The Codex line (glyphs / Wellspring / Family / Physics Domain / Category / Stage) is assigned after the phenomenon is designed, never before.
 - **R13-2-STRATUM_TWO_WELLSPRING** [Pack Thirteen §2] The Wellspring stratum is the law: each of the Sixty carries a Core Law, Family and Physics Domain assigned as real physics, and its law is stated as that real law with a directional operator; the glyph constrains degrees of freedom rather than creating the effect.
 - **R13-2-CATEGORY_ACROSS_STRATA** [Pack Thirteen §2] The twenty-six Categories say what kind of thing came out; their alignment tag names which Plane carries the cost and which the counterplay; Category is workbook/Codex-line by default and may be named in diagnostic voice to tell the reader where to hit.
 - **R13-2-CRAFT_DEFINITION** [Pack Thirteen §2] The Craft (per Pack Ten) is which mouth a working came out of — speaking, cutting, pouring, writing — and it sets the durability of a projected form.
@@ -101,8 +123,9 @@
 - **R6-7-GOVERNING_RULE** [Pack Six PART II.7] Texture comes from the Standing Inventory; mechanism comes from the Codex; a scene that reaches for the Codex when it needs texture has failed.
 - **R5-F-LIGHT_NOVEL_KEPT** [Pack Five F] The chapter as a hard unit with one objective and a hook at close; legibility as reader pleasure (the argument for the Codex); and fast entry, chapters opening inside the situation.
 
-## combat (58)
+## combat (59)
 
+- **R17-3-COUNTER_MANDATORY** [Pack Seventeen §3] A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just "hit him harder" means the technique has no mechanism.
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
 - **R14-3-TRACEABILITY** [Pack Fourteen §3] Every outcome in a fight must trace to a row in the §3 table, and the author notes must say which.
@@ -162,8 +185,28 @@
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## dialogue (46)
+## dialogue (66)
 
+- **R19-2-FIXED_TEXT** [Pack Nineteen §2] Isaac's submitted dialogue is set as written and never rewritten.
+- **R19-2-PERMITTED_CORRECTIONS** [Pack Nineteen §2] Only typos, unambiguous verb tense/agreement, required punctuation, and stale canon-term forms may be silently corrected in Isaac's dialogue.
+- **R19-2-NEVER_ALTERED** [Pack Nineteen §2] Register, rhythm, repetition, fragments, profanity, prosodic marks, line order, and word choice in Isaac's dialogue may never be changed, including for the sake of reading better.
+- **R19-2-WORLD_BREAK_FLAG** [Pack Nineteen §2] A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.
+- **R19-2-BUILT_AROUND** [Pack Nineteen §2] Scenes are constructed to make Isaac's fixed lines land; the dialogue is never fitted to prose written ahead of it.
+- **R19-3-PROSODY_VERBATIM** [Pack Nineteen §3] Capitals, stretched vowels, ellipses and repeated punctuation are notation for volume, duration, breath and intensity, and must be reproduced exactly rather than converted into narrative description.
+- **R19-3-TAG_ALONGSIDE** [Pack Nineteen §3] A narrative tag may be added next to prosodic notation but may never be used instead of it.
+- **R19-4-REALISTIC_SPEECH** [Pack Nineteen §4] Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavour.
+- **R19-4-REGISTER_UNDER_STRESS** [Pack Nineteen §4] Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.
+- **R19-4-COMPOSURE_COST** [Pack Nineteen §4] A character who stays composed under extreme stress is exercising an expensive discipline, and the scene must show that price.
+- **R19-4-WORLD_ANCHORED_SPEECH** [Pack Nineteen §4] A character's metaphors and idiom must come from their own life and trade, not from an external reference list.
+- **R19-4-ICEBERG_DIALOGUE** [Pack Nineteen §4] Characters never explain to each other something they both already know.
+- **R19-5-COMPOSURE_BAN** [Pack Nineteen §5] Bars antithesis and parallelism, three-part lists, long subordinate clauses in shouted speech, and perfect syntax from established inarticulate/young/exhausted/foreign characters, and bars every character in a scene from constructing sentences at the same length.
+- **R19-5-SORT_BY_SPEAKER_TEST** [Pack Nineteen §5] If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.
+- **R19-7-CHECK40** [Pack Nineteen §7] Manual check that every line of Isaac's dialogue matches the submitted rough verbatim except for corrections permitted in §2; any other change fails and is reverted.
+- **R19-7-CHECK41** [Pack Nineteen §7] Automatic check that fails when the submitted rough has stretched vowels, repeated punctuation or capitalised shouting that the output drops.
+- **R19-7-CHECK42** [Pack Nineteen §7] Flags long, subordinate-heavy or parallel dialogue lines and reports the spread of line lengths across a scene, flagging files where every speaker clusters at one length.
+- **R19-8-NO_RETROACTIVE** [Pack Nineteen §8] No rewrite of scenes written before this pack is proposed; the pack governs dialogue written from here forward.
+- **R16-5-VOICES_VS_VOCABULARY** [Pack Sixteen §5] The four explaining voices remain the delivery system for causal explanation only; narration itself may carry technical terms without needing a voice to speak them.
+- **R16-7-NOT_CONVERTED** [Pack Sixteen §7] Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.
 - **R15-1-LICENCE** [Pack Fifteen §1] Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 - **R15-1-VOICE_DIFFERENTIATION** [Pack Fifteen §1] Characters must remain non-interchangeable, but through what they notice, want and refuse rather than through vocabulary fences.
 - **R15-4-PACK_NINE_CLASS_MARKING** [Pack Fifteen §4] Pack Nine's requirement that class show in vocabulary becomes optional.
@@ -211,8 +254,14 @@
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 - **R24-N-OVERRIDE_CAVEAT** [Racial Voice and Dialect Guide Amendment Notes] All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
-## documents (13)
+## documents (19)
 
+- **R19-9-STANDING_TASK** [Pack Nineteen §9] Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
+- **R18-9-STANDING_TASK** [Pack Eighteen §9] Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.
+- **R17-10-STANDING_TASK** [Pack Seventeen §10] Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.
+- **R16-5-NOT_IN_NOTES** [Pack Sixteen §5] If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
+- **R16-8-CHECK31** [Pack Sixteen §8] No mechanism term may appear in the author-notes block that does not also appear in the prose body.
+- **R16-9-STANDING_TASK** [Pack Sixteen §9] Fold Packs One through Sixteen into the base guides and retire the diffs, asked once per session; precedence at sixteen packs deep is past the point where it can be tracked by reading.
 - **R15-1-LICENCE** [Pack Fifteen §1] Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 - **R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK** [Pack Fifteen §1] Pack Twelve §6's clause forbidding a document from explaining mechanism is struck; a document may be as scientific as it wants, and the Mystic Register survives only as an option for documents that want to withhold.
 - **R14-7-STAT_LEDGER_CONTENTS** [Pack Fourteen §7] Every scene's author notes carry, per named practitioner: Stage, Band, Coherence Band, Aether Class and Crystal State going in; the stats the scene stressed and the §3 row each outcome traced to; EU spent and whether the tenth-of-reserve line was crossed; Crystal State coming out and any Threshold Event risk; and what healed by the next scene. This is the mechanical half, alongside the narrative Ledger.
@@ -227,8 +276,11 @@
 - **R23-11-ROLL_NAMES_FROM_ACCORD** [Inner World Naming Amendment XI] There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 
-## items (15)
+## items (18)
 
+- **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
+- **R18-5-ALCHEMY_DOCTRINE_BINDING** [Pack Eighteen §5] Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
+- **R17-5-ARTEFACT_SCOPE** [Pack Seventeen §5] Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.
 - **R13-9-ITEM_GUIDE_WEAPON_ENTRY** [Pack Thirteen §9] Every weapon entry in the Item and Equipment Writing Guide carries mass, length, point of balance, and the armour tier it beats and fails against.
 - **R11-2-APPARATUS_INHERITS_PHYSICS** [Pack Eleven §2] A machine is a conduit retuned to a current (phase-locking, not restricted to souls); every apparatus inherits its Family's favoured condition, suppressive condition, and characteristic pathology off the Environmental Coupling table.
 - **R11-3-GUNPOWDER_AND_ARMOUR_CONFIRMED** [Pack Eleven §3] Gunpowder exists, magical weapons exist, and armour is not dead.
@@ -245,8 +297,33 @@
 - **R1-1-PERCUSSION_VS_PLATE_AND_TELL** [Pack One Amendment One] Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 - **R22-4-KUROSETSU_SCABBARD_SURVIVES** [Moto Reversion Ledger IV] Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming one, and it survives the reversion.
 
-## magic-design (45)
+## magic-design (70)
 
+- **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
+- **R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK** [Pack Eighteen §2] A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
+- **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
+- **R18-3-ENTRY_AS_CANDIDATE_ROW** [Pack Eighteen §3] A newly designed working's entry is written in Spell Index form and stands as a candidate row for the sheet; anything originated in play belongs in the Codex or does not exist.
+- **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
+- **R18-5-ALCHEMY_DOCTRINE_BINDING** [Pack Eighteen §5] Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
+- **R18-7-CHECK39** [Pack Eighteen §7] Manual check: for any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.
+- **R17-2-FOUR_ELEMENTS** [Pack Seventeen §2] Every technique entry's Effect line (or immediately under it) must name the quantity acted on, the governing law, the operation performed on the quantity, and the causal chain from trigger to outcome; missing any one makes the entry unfinished and not canon.
+- **R17-2-THE_TEST** [Pack Seventeen §2] A technique must be statable as "it does X to Y, which under Z produces W"; if that sentence cannot be written, the technique is not designed regardless of the prose around it.
+- **R17-3-SIX_LINE_CARD** [Pack Seventeen §3] The technique card format becomes six ordered lines — Operation, Manifestation, Cost, Limit, Counter, What nobody knows — with the Operation (mechanism) line first because every other line derives from it, plus a small Codex-assignment line at the foot.
+- **R17-3-COST_DERIVED** [Pack Seventeen §3] The Cost line must be derived from the Operation line; a cost that could be swapped for a different cost without changing the mechanism is decoration.
+- **R17-3-LIMIT_MECHANICAL** [Pack Seventeen §3] The Limit line must state why the mechanism forbids the thing it forbids; a limit with no mechanical source is a rule the author imposed rather than a derived limit.
+- **R17-3-COUNTER_MANDATORY** [Pack Seventeen §3] A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just "hit him harder" means the technique has no mechanism.
+- **R17-3-WHAT_NOBODY_KNOWS_SCOPE** [Pack Seventeen §3] The one-line-per-art "What nobody knows" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.
+- **R17-3-CODEX_LINE_ORDER** [Pack Seventeen §3] The Codex line (glyphs / Wellspring / Family / Physics Domain / Category / Stage) is assigned after the phenomenon is designed, never before.
+- **R17-4-OUTPUTS_NOT_INPUTS** [Pack Seventeen §4] Cost, Limit and Counter must be read off the mechanism once it exists rather than chosen for drama or convenience.
+- **R17-4-READ_OFF_MECHANISM** [Pack Seventeen §4] Design order stays what refuses/survived/costs-belief, then phenomenon, then mechanism, then Codex, unchanged from the sixth edition; Pack Seventeen adds that once the mechanism exists, cost, limit and counter are derived from it rather than chosen.
+- **R17-5-TRAIT_SCOPE** [Pack Seventeen §5] A Trait must specify the Lattice property it alters, and therefore which injuries behave differently and which identically; a Trait that only restates its effect ("harder to kill") is not a Trait.
+- **R17-5-SKILL_SCOPE** [Pack Seventeen §5] A Skill entry must name the real cognitive cues a read operates on, or the mechanics, measure and tempo a martial skill operates on.
+- **R17-5-ARTEFACT_SCOPE** [Pack Seventeen §5] Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.
+- **R17-5-BLOODLINE_SCOPE** [Pack Seventeen §5] A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty ("the Moto see") is not an entry.
+- **R17-6-MECHANISM_VS_ORIGIN** [Pack Seventeen §6] Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where "What nobody knows" lives.
+- **R17-8-CHECK34** [Pack Seventeen §8] Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.
+- **R17-8-CHECK35** [Pack Seventeen §8] Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.
+- **R17-8-CHECK36** [Pack Seventeen §8] Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
 - **R15-1-LATIN_CHANT_SURVIVES** [Pack Fifteen §1] Latin for chant-based magic is not a register rule but a texture choice Isaac made, and it stands unless he says otherwise.
 - **R14-8-ABILITY_GUIDE_FOW_LINE** [Pack Fourteen §8] Every technique entry in the Ability and Technique Design Guide (sixth edition) carries an FOW line beneath the Codex line: governing Primary Stat and Sub-Stats, Stage floor, Grade required, Path gate if any, Resonant Pair if any.
 - **R13-2-THREE_STRATA_MANDATE** [Pack Thirteen §2] Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
@@ -293,8 +370,25 @@
 - **R1-2-SUSTAIN_DEFINED** [Pack One Amendment Two] Sustain is how long an effect holds before Essence cost forces cessation, and what the practitioner cannot do while holding it — the load-bearing clause, since it tells you what the enemy is free to do during the window.
 - **R1-2-REFORM_DEFINED** [Pack One Amendment Two] Re-form is how long an affected formation needs to recover cohesion, and whether it recovers at all — the field that decides engagements and the one authors most often fail to decide before writing.
 
-## magic-mechanism (74)
+## magic-mechanism (91)
 
+- **R18-4-GLYPH_NAMING_CONTEXTS** [Pack Eighteen §4] Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.
+- **R18-4-GLYPH_QUOTED_EXACTLY** [Pack Eighteen §4] A glyph appearing in a chant, an inscription or a Wordform Chain must be quoted exactly as the Master Glyph Index gives it.
+- **R18-4-ROLE_VS_CLASS_AXES** [Pack Eighteen §4] Glyph Role (Authorization, Boundary, Direction, Sealing) describes function within a working; Glyph Class (Root, Derivative by Extension, Compound, Synonym, Counter) describes provenance; neither may stand in for the other.
+- **R18-7-CHECK38** [Pack Eighteen §7] Every bracketed glyph token in a file is validated against the Master Glyph Index; unknown tokens fail.
+- **R17-2-FOUR_ELEMENTS** [Pack Seventeen §2] Every technique entry's Effect line (or immediately under it) must name the quantity acted on, the governing law, the operation performed on the quantity, and the causal chain from trigger to outcome; missing any one makes the entry unfinished and not canon.
+- **R17-2-THE_TEST** [Pack Seventeen §2] A technique must be statable as "it does X to Y, which under Z produces W"; if that sentence cannot be written, the technique is not designed regardless of the prose around it.
+- **R17-3-COST_DERIVED** [Pack Seventeen §3] The Cost line must be derived from the Operation line; a cost that could be swapped for a different cost without changing the mechanism is decoration.
+- **R17-3-LIMIT_MECHANICAL** [Pack Seventeen §3] The Limit line must state why the mechanism forbids the thing it forbids; a limit with no mechanical source is a rule the author imposed rather than a derived limit.
+- **R17-3-COUNTER_MANDATORY** [Pack Seventeen §3] A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just "hit him harder" means the technique has no mechanism.
+- **R17-3-WHAT_NOBODY_KNOWS_SCOPE** [Pack Seventeen §3] The one-line-per-art "What nobody knows" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.
+- **R17-4-OUTPUTS_NOT_INPUTS** [Pack Seventeen §4] Cost, Limit and Counter must be read off the mechanism once it exists rather than chosen for drama or convenience.
+- **R17-4-READ_OFF_MECHANISM** [Pack Seventeen §4] Design order stays what refuses/survived/costs-belief, then phenomenon, then mechanism, then Codex, unchanged from the sixth edition; Pack Seventeen adds that once the mechanism exists, cost, limit and counter are derived from it rather than chosen.
+- **R17-5-TRAIT_SCOPE** [Pack Seventeen §5] A Trait must specify the Lattice property it alters, and therefore which injuries behave differently and which identically; a Trait that only restates its effect ("harder to kill") is not a Trait.
+- **R17-6-MECHANISM_VS_ORIGIN** [Pack Seventeen §6] Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where "What nobody knows" lives.
+- **R17-8-CHECK36** [Pack Seventeen §8] Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
+- **R16-1-CONSEQUENCE** [Pack Sixteen §1] The technical and metaphysical register belongs in the finished narration itself, in Isaac's vocabulary, converted rather than removed or exported to notes.
+- **R16-3-COMPOUND_SENTENCE** [Pack Sixteen §3] The signature WOTR technical sentence names the real phenomenon, gives the system term as its name/boundary/address, and states the physical consequence, in one sentence or short group; neither element is a gloss on the other.
 - **R15-1-MYSTIC_REGISTER_NEVER_PHYSICS_STRUCK** [Pack Fifteen §1] Pack Twelve §6's clause forbidding a document from explaining mechanism is struck; a document may be as scientific as it wants, and the Mystic Register survives only as an option for documents that want to withhold.
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 - **R13-2-THREE_STRATA_MANDATE** [Pack Thirteen §2] Every working explained on the page is explained at three strata (the Aether, the Wellspring, the Essence), in the Technical Register, through one of Pack Twelve's four voices; the strata's causal order need not be the order on the page.
@@ -411,8 +505,10 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## naming (77)
+## naming (79)
 
+- **R16-6-COINAGE_HANDLING** [Pack Sixteen §6] A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.
+- **R16-6-COINAGE_COLLISION** [Pack Sixteen §6] Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
 - **R14-5-CANONICAL_TERMS** [Pack Fourteen §5] The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
 - **R14-5-NEAR_MISS_FAIL** [Pack Fourteen §5] A term not in the source is flagged as originated; a near-miss (a renamed Stage, a misspelt Wellspring, a misassigned Family, a misaligned Category) fails verification outright rather than warning.
 - **R14-6-CHECK27** [Pack Fourteen §6] Every capitalised system term in the draft is matched against wotr_terms.txt; unknown terms are listed, and near-misses (edit distance one or two from a canonical term) fail.
@@ -491,8 +587,12 @@
 - **R20-5-ON_THE_PAGE** [Naming Guide Amendment Part Five] Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
 - **R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE** [Racial Voice and Dialect Guide Amendment I] Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
 
-## pov (32)
+## pov (36)
 
+- **R19-4-ICEBERG_DIALOGUE** [Pack Nineteen §4] Characters never explain to each other something they both already know.
+- **R16-5-REGISTER_IN_NARRATION** [Pack Sixteen §5] The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
+- **R16-7-NOT_CONVERTED** [Pack Sixteen §7] Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.
+- **R16-8-CHECK33** [Pack Sixteen §8] Fewer than half of a scene's technical terms may sit inside italic thought.
 - **R15-1-REGISTER_BY_CULTURE** [Pack Fifteen §1] Per-culture narration registers become optional flavour rather than law.
 - **R15-4-PACK_FIVE_SCOPE** [Pack Fifteen §4] Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 - **R12-4-VOICE_ONE_POV** [Pack Twelve §4] Free indirect explanation ceilinged at the POV character's actual competence; an out-of-depth character explains wrong, and a confidently wrong technical explanation is now the primary vehicle for the misreading budget.
@@ -526,8 +626,25 @@
 - **R1-3-NAME_THREE_RULE** [Pack One Amendment Three] The one-italic-thought-per-NPC standard is suspended in mass combat; no more than three characters carry interiority through a battle sequence, everyone else is exterior only, and interiority for named characters outside the three is deferred to the aftermath.
 - **R20-5-ON_THE_PAGE** [Naming Guide Amendment Part Five] Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
 
-## prose-law (98)
+## prose-law (115)
 
+- **R19-2-FIXED_TEXT** [Pack Nineteen §2] Isaac's submitted dialogue is set as written and never rewritten.
+- **R19-2-NEVER_ALTERED** [Pack Nineteen §2] Register, rhythm, repetition, fragments, profanity, prosodic marks, line order, and word choice in Isaac's dialogue may never be changed, including for the sake of reading better.
+- **R19-3-PROSODY_VERBATIM** [Pack Nineteen §3] Capitals, stretched vowels, ellipses and repeated punctuation are notation for volume, duration, breath and intensity, and must be reproduced exactly rather than converted into narrative description.
+- **R19-4-REALISTIC_SPEECH** [Pack Nineteen §4] Originated dialogue must include false starts and self-repair, interruption, repetition, non-answers, characters talking past each other, trailing off, physical business mid-line, and characters saying the wrong thing, as craft law rather than optional flavour.
+- **R19-5-COMPOSURE_BAN** [Pack Nineteen §5] Bars antithesis and parallelism, three-part lists, long subordinate clauses in shouted speech, and perfect syntax from established inarticulate/young/exhausted/foreign characters, and bars every character in a scene from constructing sentences at the same length.
+- **R18-4-GLYPH_NAMING_CONTEXTS** [Pack Eighteen §4] Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.
+- **R16-1-CONSEQUENCE** [Pack Sixteen §1] The technical and metaphysical register belongs in the finished narration itself, in Isaac's vocabulary, converted rather than removed or exported to notes.
+- **R16-2-FOUR_ROUTES** [Pack Sixteen §2] Every content-bearing noun and verb in Isaac's rough prose is routed to a WOTR system term, a real scientific/technical term, the compound of both, or kept verbatim as a defined WOTR term; nothing is silently dropped.
+- **R16-2-DELETION_REQUIRES_NOTE** [Pack Sixteen §2] If a rough-draft term does not survive into the finished prose in one of the four routed forms, the author notes must say which term was dropped and why, in one line, or the pass has failed.
+- **R16-3-COMPOUND_SENTENCE** [Pack Sixteen §3] The signature WOTR technical sentence names the real phenomenon, gives the system term as its name/boundary/address, and states the physical consequence, in one sentence or short group; neither element is a gloss on the other.
+- **R16-5-REGISTER_IN_NARRATION** [Pack Sixteen §5] The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
+- **R16-5-VOICES_VS_VOCABULARY** [Pack Sixteen §5] The four explaining voices remain the delivery system for causal explanation only; narration itself may carry technical terms without needing a voice to speak them.
+- **R16-5-NOT_IN_NOTES** [Pack Sixteen §5] If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
+- **R16-6-COINAGE_HANDLING** [Pack Sixteen §6] A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.
+- **R16-6-SPELLING_VS_VOCABULARY** [Pack Sixteen §6] Spelling and grammar in Isaac's rough are corrected without comment; vocabulary is never silently corrected.
+- **R16-7-NOT_CONVERTED** [Pack Sixteen §7] Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.
+- **R16-7-OVERCONVERSION_FAULT** [Pack Sixteen §7] A scene that converts everything has the same fault as a scene that converts nothing: it has stopped choosing.
 - **R15-1-LICENCE** [Pack Fifteen §1] Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 - **R15-1-DICTION_PALETTE** [Pack Fifteen §1] The one-or-two-elevated-words-per-scene cap is gone; the word bank remains available.
 - **R15-1-REGISTER_BY_CULTURE** [Pack Fifteen §1] Per-culture narration registers become optional flavour rather than law.
@@ -627,8 +744,27 @@
 - **R24-2-ELADRIN_THREE_CHANNELS** [Racial Voice and Dialect Guide Amendment II] Prose must render at least two of three simultaneous channels in any exchange of consequence — sparse speech that rarely carries the content, distance (approach is agreement, a half-step back is objection, turning without moving the feet is refusal), and stillness (complete stillness is often the loudest thing in the room).
 - **R24-2-ELADRIN_NEVER_BARE_LINE** [Racial Voice and Dialect Guide Amendment II] Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
 
-## register (79)
+## register (98)
 
+- **R19-4-REGISTER_UNDER_STRESS** [Pack Nineteen §4] Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.
+- **R18-3-CODEX_OVERRIDES_LEXICON** [Pack Eighteen §3] Pack Sixteen's route-1 rough-prose conversion now means routing to a Codex term, and where the Pack Sixteen §4 conversion lexicon disagrees with the Codex sheet, the sheet wins.
+- **R16-1-CONSEQUENCE** [Pack Sixteen §1] The technical and metaphysical register belongs in the finished narration itself, in Isaac's vocabulary, converted rather than removed or exported to notes.
+- **R16-2-FOUR_ROUTES** [Pack Sixteen §2] Every content-bearing noun and verb in Isaac's rough prose is routed to a WOTR system term, a real scientific/technical term, the compound of both, or kept verbatim as a defined WOTR term; nothing is silently dropped.
+- **R16-2-DELETION_REQUIRES_NOTE** [Pack Sixteen §2] If a rough-draft term does not survive into the finished prose in one of the four routed forms, the author notes must say which term was dropped and why, in one line, or the pass has failed.
+- **R16-3-COMPOUND_SENTENCE** [Pack Sixteen §3] The signature WOTR technical sentence names the real phenomenon, gives the system term as its name/boundary/address, and states the physical consequence, in one sentence or short group; neither element is a gloss on the other.
+- **R16-4-EXTEND_LEXICON** [Pack Sixteen §4] The rough-to-converted term lexicon is built from Isaac's actual submissions and extended every session; anything converted in play must be entered in it or it does not exist as a settled conversion.
+- **R16-5-REGISTER_IN_NARRATION** [Pack Sixteen §5] The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
+- **R16-5-VOICES_VS_VOCABULARY** [Pack Sixteen §5] The four explaining voices remain the delivery system for causal explanation only; narration itself may carry technical terms without needing a voice to speak them.
+- **R16-5-NOT_IN_NOTES** [Pack Sixteen §5] If a mechanism term appears in the author notes but not in the prose, the pass failed and the note is evidence of that failure.
+- **R16-6-COINAGE_HANDLING** [Pack Sixteen §6] A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.
+- **R16-6-SPELLING_VS_VOCABULARY** [Pack Sixteen §6] Spelling and grammar in Isaac's rough are corrected without comment; vocabulary is never silently corrected.
+- **R16-6-COINAGE_COLLISION** [Pack Sixteen §6] Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
+- **R16-7-NOT_CONVERTED** [Pack Sixteen §7] Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.
+- **R16-7-OVERCONVERSION_FAULT** [Pack Sixteen §7] A scene that converts everything has the same fault as a scene that converts nothing: it has stopped choosing.
+- **R16-8-CHECK30** [Pack Sixteen §8] A scene with a working, exchange or injury must carry at least four WOTR technical-lexicon terms and at least two correctly-used real scientific/anatomical terms in the narration outside italics; false positives are reviewed by reading.
+- **R16-8-CHECK31** [Pack Sixteen §8] No mechanism term may appear in the author-notes block that does not also appear in the prose body.
+- **R16-8-CHECK32** [Pack Sixteen §8] Every distinctive term in the submitted rough must appear in the output in one of the four routed forms, or be listed as dropped in the notes; false positives are reviewed by reading.
+- **R16-8-CHECK33** [Pack Sixteen §8] Fewer than half of a scene's technical terms may sit inside italic thought.
 - **R15-1-LICENCE** [Pack Fifteen §1] Modern words, concepts and frames are legal in every channel of the prose, including narration and in-world documents.
 - **R15-1-DICTION_PALETTE** [Pack Fifteen §1] The one-or-two-elevated-words-per-scene cap is gone; the word bank remains available.
 - **R15-1-REGISTER_BY_CULTURE** [Pack Fifteen §1] Per-culture narration registers become optional flavour rather than law.
@@ -709,8 +845,9 @@
 - **R24-3-HOST_IDIOM_AND_SIGNATURES** [Racial Voice and Dialect Guide Amendment III] Idiom draws on measure, position and law (out of position, standing, no place, release a claim); light/fire/wings are banned as too obvious; signature lines "That is not the question" and "I do not have that"; under stress the Host becomes more precise and slower, with hedges appearing for the first time.
 - **R24-N-OVERRIDE_CAVEAT** [Racial Voice and Dialect Guide Amendment Notes] All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
-## scene-structure (24)
+## scene-structure (25)
 
+- **R19-2-BUILT_AROUND** [Pack Nineteen §2] Scenes are constructed to make Isaac's fixed lines land; the dialogue is never fitted to prose written ahead of it.
 - **R15-4-PACK_FIVE_SCOPE** [Pack Fifteen §4] Only Pack Five's register-by-culture rule is struck; its dramatic irony through POV lock, the elegiac mode, humour recalibration, and narration authority all stand because none of them are register rules.
 - **R13-4-DENSITY_BUDGET** [Pack Thirteen §4] A 2,500-word duel carries the full eight-item floor at first display and finisher, plus items 1-4 at every fight-changing exchange; a 700-1,500-word turn carries items 1-4 once and item 8 at close.
 - **R12-8-SCENE_GUIDE_PACK7_STRUCK** [Pack Twelve §8] The Scene Writing Process Guide's Pack Seven pre-write question and self-review check are struck.
@@ -736,14 +873,22 @@
 - **R1-3-PLAN_AFTERMATH_FIRST** [Pack One Amendment Three] When planning a battle scene, plan the aftermath first; the engagement exists to produce the conditions of the aftermath. If you cannot state what the aftermath scene is for before writing the battle, the battle has no reason to be in the book.
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 
-## session-protocol (3)
+## session-protocol (10)
 
+- **R19-8-NO_RETROACTIVE** [Pack Nineteen §8] No rewrite of scenes written before this pack is proposed; the pack governs dialogue written from here forward.
+- **R19-9-STANDING_TASK** [Pack Nineteen §9] Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
+- **R18-6-SESSION_START_4A** [Pack Eighteen §6] Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.
+- **R18-9-STANDING_TASK** [Pack Eighteen §9] Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.
+- **R17-10-STANDING_TASK** [Pack Seventeen §10] Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.
+- **R16-4-EXTEND_LEXICON** [Pack Sixteen §4] The rough-to-converted term lexicon is built from Isaac's actual submissions and extended every session; anything converted in play must be entered in it or it does not exist as a settled conversion.
+- **R16-9-STANDING_TASK** [Pack Sixteen §9] Fold Packs One through Sixteen into the base guides and retire the diffs, asked once per session; precedence at sixteen packs deep is past the point where it can be tracked by reading.
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 - **R8-27-STANDING_TASK** [Pack Eight 2.7] A naming pass runs per culture; existing techniques already established in prose are flagged, not renamed, cashing the release-and-true-name mechanic pitched since the fifth edition and requiring rewritten first displays across the major cast.
 - **R4-ADD-NO_SINGLE_PASS** [Pack Four Addendum] wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 
-## standing-inventory (13)
+## standing-inventory (14)
 
+- **R19-4-WORLD_ANCHORED_SPEECH** [Pack Nineteen §4] A character's metaphors and idiom must come from their own life and trade, not from an external reference list.
 - **R15-1-STANDING_INVENTORY_SURVIVES** [Pack Fifteen §1] The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
 - **R11-2-SILHOUETTE** [Pack Eleven §2] No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
 - **R11-3-PROOF_MARKS_CANON** [Pack Eleven §3] A dented cuirass is certified rather than damaged; soldiers read a proof-dent the way Kharven reads a forearm grip, and a shallow proof-dent signals a light charge and what that means about the man wearing it.
@@ -793,8 +938,27 @@
 - **R2-6-VOIDIC_COUNTER** [Pack Two Amendment Six.5] A Voidic practitioner is a poor attacker and the finest suppression instrument in the world; Voidic techniques are priced as artillery — slow to bring, slow to move, unable to defend themselves, needing a guard detachment, and affecting friendly output as readily as hostile.
 - **R2-6-SPEED_RULING** [Pack Two Amendment Six.6] Speed is Essence; a character who arrives fast arrives depleted, and there is no free travel at Grade — a scene with one has spent a resource silently.
 
-## verification (65)
+## verification (84)
 
+- **R19-2-WORLD_BREAK_FLAG** [Pack Nineteen §2] A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.
+- **R19-5-SORT_BY_SPEAKER_TEST** [Pack Nineteen §5] If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.
+- **R19-7-CHECK40** [Pack Nineteen §7] Manual check that every line of Isaac's dialogue matches the submitted rough verbatim except for corrections permitted in §2; any other change fails and is reverted.
+- **R19-7-CHECK41** [Pack Nineteen §7] Automatic check that fails when the submitted rough has stretched vowels, repeated punctuation or capitalised shouting that the output drops.
+- **R19-7-CHECK42** [Pack Nineteen §7] Flags long, subordinate-heavy or parallel dialogue lines and reports the spread of line lengths across a scene, flagging files where every speaker clusters at one length.
+- **R18-6-ACCESS_METHOD** [Pack Eighteen §6] The Master Codex is accessed read-only via openpyxl from the actual spreadsheet file; the sheet is the authority, not Natalie's recollection of it.
+- **R18-7-CHECK37** [Pack Eighteen §7] Every Wellspring, Family, Physics Domain, Temperance stage, Archon, Titan, Glyph Class, alchemical Tier and Type named in a file is validated against the Lists sheet; anything absent fails unless declared as a proposed new entry naming the checked enumeration.
+- **R18-7-CHECK38** [Pack Eighteen §7] Every bracketed glyph token in a file is validated against the Master Glyph Index; unknown tokens fail.
+- **R18-7-CHECK39** [Pack Eighteen §7] Manual check: for any new working, name the Spell Index rows checked and state whether the working is new, a derivation of a named row, or a duplicate.
+- **R17-2-THE_TEST** [Pack Seventeen §2] A technique must be statable as "it does X to Y, which under Z produces W"; if that sentence cannot be written, the technique is not designed regardless of the prose around it.
+- **R17-8-CHECK34** [Pack Seventeen §8] Manual check that quantity, law, operation and chain are all present in the Operation line; any absence fails.
+- **R17-8-CHECK35** [Pack Seventeen §8] Manual check: for each of Cost, Limit and Counter, name the sentence in the Operation it follows from; anything untraceable is cut or re-derived.
+- **R17-8-CHECK36** [Pack Seventeen §8] Flags phrases that assert an outcome instead of stating a process (e.g. "is assayed", "is converted", "responds to"); each is replaced with the operation it stands in for, or deleted.
+- **R16-2-DELETION_REQUIRES_NOTE** [Pack Sixteen §2] If a rough-draft term does not survive into the finished prose in one of the four routed forms, the author notes must say which term was dropped and why, in one line, or the pass has failed.
+- **R16-6-COINAGE_COLLISION** [Pack Sixteen §6] Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
+- **R16-8-CHECK30** [Pack Sixteen §8] A scene with a working, exchange or injury must carry at least four WOTR technical-lexicon terms and at least two correctly-used real scientific/anatomical terms in the narration outside italics; false positives are reviewed by reading.
+- **R16-8-CHECK31** [Pack Sixteen §8] No mechanism term may appear in the author-notes block that does not also appear in the prose body.
+- **R16-8-CHECK32** [Pack Sixteen §8] Every distinctive term in the submitted rough must appear in the output in one of the four routed forms, or be listed as dropped in the notes; false positives are reviewed by reading.
+- **R16-8-CHECK33** [Pack Sixteen §8] Fewer than half of a scene's technical terms may sit inside italic thought.
 - **R15-2-ONE_TEST** [Pack Fifteen §2] A word is flagged only if it punctures belief in the world, and the flag goes in author notes with the draft left untouched.
 - **R15-1-READS_MODERN_STRUCK** [Pack Fifteen §1] Natalie no longer raises, fixes, or notes "reads modern" as a critique on principle.
 - **R15-1-AI_TELL_CHECKS_SURVIVE** [Pack Fifteen §1] The AI-tell checks (em dashes, similes, not-X-but-Y, countdown negation, gloss, ladder) are about prose failing, not about period, and are unaffected by the register repeal.
@@ -861,8 +1025,11 @@
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (99)
+## worldbuilding (102)
 
+- **R19-4-WORLD_ANCHORED_SPEECH** [Pack Nineteen §4] A character's metaphors and idiom must come from their own life and trade, not from an external reference list.
+- **R17-5-BLOODLINE_SCOPE** [Pack Seventeen §5] A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty ("the Moto see") is not an entry.
+- **R17-6-MECHANISM_VS_ORIGIN** [Pack Seventeen §6] Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where "What nobody knows" lives.
 - **R15-1-RACIAL_VOICE_MENU** [Pack Fifteen §1] The Racial Voice and Dialect Guide and its Amendment stop being enforced; they become a menu of options a writer may reach for, and no scene fails for ignoring them.
 - **R15-1-STANDING_INVENTORY_SURVIVES** [Pack Fifteen §1] The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
 - **R13-2-STRATUM_ONE_AETHER** [Pack Thirteen §2] The Aether stratum is what was already in the room before a draw: Aetheric Density (AU/s ceiling), Residue, Saturation, and in the Draw Age the district main/standpipe/meter; its real-science analogue is field, gradient, reservoir, saturation, conduction, and a working changes with local density.

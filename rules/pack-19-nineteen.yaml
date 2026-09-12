@@ -1,10 +1,9 @@
-# Pack Nineteen: Status: originated, pending Isaac's ratification (see source
-# lines 5-6). No section is separately marked confirmed, so every row here is
-# status: proposed, ratified: null, until Isaac rules on the whole pack.
+# Pack Nineteen: originated, ratified wholesale by Isaac 2026-09-12 (Claude
+# Code). Every row is status: live.
 pack: Pack Nineteen
 pack_number: 19
 source_file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
-ratified: null
+ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
 rules:
 
   - id: R19-2-FIXED_TEXT
@@ -12,7 +11,7 @@ rules:
     pack_number: 19
     section: "§2"
     title: Isaac's dialogue is fixed text
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Isaac's submitted dialogue is set as written and never rewritten.
@@ -25,7 +24,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "37"
@@ -39,7 +38,7 @@ rules:
     pack_number: 19
     section: "§2"
     title: The narrow set of silent corrections to Isaac's dialogue
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Only typos, unambiguous verb tense/agreement, required punctuation, and
@@ -57,7 +56,7 @@ rules:
     supersedes: []
     applies_to: [dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "39-43"
@@ -68,7 +67,7 @@ rules:
     pack_number: 19
     section: "§2"
     title: What may never be altered in Isaac's dialogue
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Register, rhythm, repetition, fragments, profanity, prosodic marks,
@@ -89,7 +88,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "45-53"
@@ -100,7 +99,7 @@ rules:
     pack_number: 19
     section: "§2"
     title: Procedure when a fixed line breaks canon
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       A canon-breaking line in Isaac's dialogue is flagged once in author
@@ -117,7 +116,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "55"
@@ -128,7 +127,7 @@ rules:
     pack_number: 19
     section: "§2"
     title: Prose is built around fixed dialogue, not the reverse
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Scenes are constructed to make Isaac's fixed lines land; the dialogue
@@ -140,7 +139,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, scene-structure]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "57"
@@ -151,7 +150,7 @@ rules:
     pack_number: 19
     section: "§3"
     title: Prosodic marks are reproduced verbatim, never normalised
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Capitals, stretched vowels, ellipses and repeated punctuation are
@@ -168,7 +167,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "63-70"
@@ -179,7 +178,7 @@ rules:
     pack_number: 19
     section: "§3"
     title: A descriptive tag may accompany prosody, never replace it
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       A narrative tag may be added next to prosodic notation but may never be
@@ -191,7 +190,7 @@ rules:
     supersedes: []
     applies_to: [dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "72"
@@ -202,7 +201,7 @@ rules:
     pack_number: 19
     section: "§4"
     title: Originated dialogue must show real-time speech production
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Originated dialogue must include false starts and self-repair,
@@ -219,7 +218,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "78-89"
@@ -236,7 +235,7 @@ rules:
     pack_number: 19
     section: "§4"
     title: Register under stress shortens and simplifies
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Under stress, a character's speech must get shorter, more concrete,
@@ -253,7 +252,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "91"
@@ -264,7 +263,7 @@ rules:
     pack_number: 19
     section: "§4"
     title: Staying composed under stress must cost visibly
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A character who stays composed under extreme stress is exercising an
@@ -277,7 +276,7 @@ rules:
     supersedes: []
     applies_to: [dialogue]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "93"
@@ -288,7 +287,7 @@ rules:
     pack_number: 19
     section: "§4"
     title: Speech idiom is anchored to the speaker's own life
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A character's metaphors and idiom must come from their own life and
@@ -303,7 +302,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, worldbuilding, standing-inventory]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "95"
@@ -314,7 +313,7 @@ rules:
     pack_number: 19
     section: "§4"
     title: The iceberg rule applies to dialogue
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Characters never explain to each other something they both already
@@ -326,7 +325,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, pov]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "97"
@@ -337,7 +336,7 @@ rules:
     pack_number: 19
     section: "§5"
     title: The composure ban
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       Bars antithesis and parallelism, three-part lists, long subordinate
@@ -354,7 +353,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "103-111"
@@ -371,7 +370,7 @@ rules:
     pack_number: 19
     section: "§5"
     title: The cover-the-tags test is now a Pack Nineteen failure
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       If a stranger could not sort a scene's dialogue lines by speaker with
@@ -385,7 +384,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "113"
@@ -399,7 +398,7 @@ rules:
     pack_number: 19
     section: "§7"
     title: "Check 40 — Fidelity"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Manual check that every line of Isaac's dialogue matches the submitted
@@ -417,7 +416,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, verification]
     verification: ["check-40", "--dialogue"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "129"
@@ -428,7 +427,7 @@ rules:
     pack_number: 19
     section: "§7"
     title: "Check 41 — Prosody"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Automatic check that fails when the submitted rough has stretched
@@ -445,7 +444,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, verification]
     verification: ["check-41", "--dialogue"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "131"
@@ -456,7 +455,7 @@ rules:
     pack_number: 19
     section: "§7"
     title: "Check 42 — Composure"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Flags long, subordinate-heavy or parallel dialogue lines and reports
@@ -473,7 +472,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, verification]
     verification: ["check-42", "--dialogue"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "133"
@@ -484,7 +483,7 @@ rules:
     pack_number: 19
     section: "§8"
     title: The pack is not retroactive
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       No rewrite of scenes written before this pack is proposed; the pack
@@ -495,7 +494,7 @@ rules:
     supersedes: []
     applies_to: [dialogue, session-protocol]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "146"
@@ -506,7 +505,7 @@ rules:
     pack_number: 19
     section: "§9"
     title: Standing task, fold amendments into base guides
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Fold Packs One through Nineteen into the base guides and retire the
@@ -518,7 +517,7 @@ rules:
     supersedes: []
     applies_to: [session-protocol, documents]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Nineteen.md
       lines: "150"

@@ -1,9 +1,9 @@
-# Pack Seventeen: Status: originated, pending Isaac's ratification (source
-# lines 5-6). No section marked confirmed, so every row is status: proposed.
+# Pack Seventeen: originated, ratified wholesale by Isaac 2026-09-12 (Claude
+# Code). Every row is status: live.
 pack: Pack Seventeen
 pack_number: 17
 source_file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
-ratified: null
+ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
 rules:
 
   - id: R17-2-FOUR_ELEMENTS
@@ -11,7 +11,7 @@ rules:
     pack_number: 17
     section: "§2"
     title: Every entry states the four mechanism elements
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Every technique entry's Effect line (or immediately under it) must
@@ -29,7 +29,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "25-27"
@@ -40,7 +40,7 @@ rules:
     pack_number: 17
     section: "§2"
     title: The it-does-X-to-Y sentence test
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       A technique must be statable as "it does X to Y, which under Z
@@ -54,7 +54,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "34"
@@ -65,7 +65,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: The five-line card is replaced by a six-line card, mechanism first
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       The technique card format becomes six ordered lines — Operation,
@@ -82,7 +82,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "40"
@@ -97,7 +97,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: Cost must derive from the Operation
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The Cost line must be derived from the Operation line; a cost that
@@ -114,7 +114,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "44"
@@ -125,7 +125,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: A Limit must have a mechanical source
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       The Limit line must state why the mechanism forbids the thing it
@@ -141,7 +141,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "45"
@@ -152,7 +152,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: Counter is mandatory on Signature techniques and must derive
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A Counter is mandatory on Signature techniques and must fall out of
@@ -169,7 +169,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, combat]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "46"
@@ -180,7 +180,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: What nobody knows is constrained to origin, not mechanism
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       The one-line-per-art "What nobody knows" field must be a question
@@ -197,7 +197,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "47"
@@ -208,7 +208,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: Codex assignment is made after the phenomenon, never before
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       The Codex line (glyphs / Wellspring / Family / Physics Domain /
@@ -225,7 +225,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "49"
@@ -236,7 +236,7 @@ rules:
     pack_number: 17
     section: "§4"
     title: Cost, Limit and Counter are outputs, not inputs
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Cost, Limit and Counter must be read off the mechanism once it exists
@@ -250,7 +250,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "55"
@@ -261,7 +261,7 @@ rules:
     pack_number: 17
     section: "§4"
     title: Design order adds a derivation step after the mechanism
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Design order stays what refuses/survived/costs-belief, then
@@ -278,7 +278,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "57"
@@ -289,7 +289,7 @@ rules:
     pack_number: 17
     section: "§5"
     title: Traits state the substrate property altered
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A Trait must specify the Lattice property it alters, and therefore
@@ -307,7 +307,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "72"
@@ -318,7 +318,7 @@ rules:
     pack_number: 17
     section: "§5"
     title: Skills state their operating principle at the level of the body
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A Skill entry must name the real cognitive cues a read operates on, or
@@ -335,7 +335,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "74"
@@ -346,7 +346,7 @@ rules:
     pack_number: 17
     section: "§5"
     title: An artefact's working carries a full Operation line
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Beyond the Item Guide's existing proof-marks, mass, balance and armour
@@ -363,7 +363,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, items]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "76"
@@ -374,7 +374,7 @@ rules:
     pack_number: 17
     section: "§5"
     title: Bloodline faculties state the substrate difference
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A bloodline faculty entry must state what quantity the faculty acts on
@@ -390,7 +390,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, character-sheet, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "78"
@@ -401,7 +401,7 @@ rules:
     pack_number: 17
     section: "§6"
     title: How it works is required; why it is possible is not
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Entries must state mechanism but never need explain cosmic origin —
@@ -418,7 +418,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, worldbuilding]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "88"
@@ -429,7 +429,7 @@ rules:
     pack_number: 17
     section: "§8"
     title: "Check 34 — The four elements"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Manual check that quantity, law, operation and chain are all present
@@ -444,7 +444,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, verification]
     verification: ["check-34", "--entry"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "114"
@@ -455,7 +455,7 @@ rules:
     pack_number: 17
     section: "§8"
     title: "Check 35 — Derivation"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Manual check: for each of Cost, Limit and Counter, name the sentence
@@ -472,7 +472,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, verification]
     verification: ["check-35", "--entry"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "116"
@@ -483,7 +483,7 @@ rules:
     pack_number: 17
     section: "§8"
     title: "Check 36 — The assertion sweep"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Flags phrases that assert an outcome instead of stating a process
@@ -502,7 +502,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, magic-mechanism, verification]
     verification: ["check-36", "--entry"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "118"
@@ -513,7 +513,7 @@ rules:
     pack_number: 17
     section: "§10"
     title: Standing task, fold amendments into base guides
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Fold Packs One through Seventeen into the base guides and retire the
@@ -525,7 +525,7 @@ rules:
     supersedes: []
     applies_to: [session-protocol, documents]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Seventeen.md
       lines: "130"

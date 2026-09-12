@@ -102,8 +102,15 @@ integration.** Once shared, the next sync picks it up with no code changes
 needed.
 
 ## Owed by Isaac (do not decide these)
-- Muken's children (R22-10); Packs Sixteen–Nineteen; Black Agent's and
-  Rengai's combat assignments; the four Four Crafts items (R9-1); C-003.
+- All ruled 2026-09-12: Muken's children, Packs Sixteen through Nineteen,
+  Black Agent's and Rengai's combat assignments, C-003, C-004, the Law V
+  gate. Still open: three of the four Four Crafts items (R9-1) -- Law III's
+  rewrite, the golden-age question, the Latinate/vernacular doublet's scope
+  -- not enough proposed substance in the sources read so far to put real
+  options to Isaac; need the source document's Part Four docket text first.
+- A Zettari forge-culture substrate pitch (Docket 18) is owed FROM me, not
+  Isaac: he asked for a proposal drafted, mirroring the Dawi's Cask-Oath
+  Pitch. Not yet written.
 
 ## Every session ends with
 `python build/validate.py` (must PASS) → `python build/resolve.py` → commit →

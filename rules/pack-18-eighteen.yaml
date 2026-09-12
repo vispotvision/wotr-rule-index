@@ -1,9 +1,9 @@
-# Pack Eighteen: Status: originated, pending Isaac's ratification (source
-# lines 5-6). No section marked confirmed, so every row is status: proposed.
+# Pack Eighteen: originated, ratified wholesale by Isaac 2026-09-12 (Claude
+# Code). Every row is status: live.
 pack: Pack Eighteen
 pack_number: 18
 source_file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
-ratified: null
+ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
 rules:
 
   - id: R18-2-CODEX_FIRST_MANDATE
@@ -11,7 +11,7 @@ rules:
     pack_number: 18
     section: "§2"
     title: The Codex is consulted before a working is designed
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Before naming, pitching, converting or writing a working, the design
@@ -29,7 +29,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "23"
@@ -40,7 +40,7 @@ rules:
     pack_number: 18
     section: "§2"
     title: No new Codex category without a demonstrated absence
-    status: proposed
+    status: live
     kind: ban
     summary: >-
       A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class,
@@ -59,7 +59,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "34"
@@ -70,7 +70,7 @@ rules:
     pack_number: 18
     section: "§3"
     title: Pack Seventeen's card and the Spell Index share one schema
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Pack Seventeen's technique card fields (Operation, Manifestation, Cost,
@@ -89,7 +89,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "40"
@@ -100,7 +100,7 @@ rules:
     pack_number: 18
     section: "§3"
     title: Every new working is written as a candidate Codex row
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A newly designed working's entry is written in Spell Index form and
@@ -118,7 +118,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "51"
@@ -129,7 +129,7 @@ rules:
     pack_number: 18
     section: "§3"
     title: The Codex outranks Pack Sixteen's conversion lexicon on conflict
-    status: proposed
+    status: live
     kind: consequential_edit
     summary: >-
       Pack Sixteen's route-1 rough-prose conversion now means routing to a
@@ -146,7 +146,7 @@ rules:
     supersedes: []
     applies_to: [codex, register]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "53"
@@ -160,7 +160,7 @@ rules:
     pack_number: 18
     section: "§4"
     title: Where a glyph may be named on the page
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Glyphs are named only in a document, an instrument, a practitioner's
@@ -174,7 +174,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, codex, prose-law]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "61"
@@ -185,7 +185,7 @@ rules:
     pack_number: 18
     section: "§4"
     title: A glyph in text is quoted exactly as the Index gives it
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       A glyph appearing in a chant, an inscription or a Wordform Chain must
@@ -197,7 +197,7 @@ rules:
     supersedes: []
     applies_to: [magic-mechanism, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "62"
@@ -208,7 +208,7 @@ rules:
     pack_number: 18
     section: "§4"
     title: Glyph Role and Glyph Class are orthogonal, non-substitutable axes
-    status: proposed
+    status: live
     kind: definition
     summary: >-
       Glyph Role (Authorization, Boundary, Direction, Sealing) describes
@@ -225,7 +225,7 @@ rules:
     supersedes: []
     applies_to: [codex, magic-mechanism]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "63"
@@ -236,7 +236,7 @@ rules:
     pack_number: 18
     section: "§5"
     title: Three alchemy sources, consulted in a fixed order
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Alchemy design consults, in order, the Alchemical Index (what exists),
@@ -253,7 +253,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex, items]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "69"
@@ -264,7 +264,7 @@ rules:
     pack_number: 18
     section: "§5"
     title: The alchemical doctrine line, and the operations it binds
-    status: proposed
+    status: live
     kind: mandate
     summary: >-
       Reagents are the nouns, the Wellspring is the verb, and Glyphica is the
@@ -285,7 +285,7 @@ rules:
     supersedes: []
     applies_to: [magic-design, codex, items]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "73"
@@ -296,7 +296,7 @@ rules:
     pack_number: 18
     section: "§6"
     title: New Session Start step 4a, open the Master Codex
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Inserted between the current steps four and five of the Session Start
@@ -317,7 +317,7 @@ rules:
     supersedes: []
     applies_to: [session-protocol, codex]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "85"
@@ -328,7 +328,7 @@ rules:
     pack_number: 18
     section: "§6"
     title: The Codex is read from the file, never from memory
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       The Master Codex is accessed read-only via openpyxl from the actual
@@ -342,7 +342,7 @@ rules:
     supersedes: []
     applies_to: [codex, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "87"
@@ -353,7 +353,7 @@ rules:
     pack_number: 18
     section: "§7"
     title: "Check 37 — Controlled vocabulary"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Every Wellspring, Family, Physics Domain, Temperance stage, Archon,
@@ -374,7 +374,7 @@ rules:
     supersedes: []
     applies_to: [codex, verification]
     verification: ["check-37", "--codex"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "95"
@@ -385,7 +385,7 @@ rules:
     pack_number: 18
     section: "§7"
     title: "Check 38 — Glyph validity"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Every bracketed glyph token in a file is validated against the Master
@@ -400,7 +400,7 @@ rules:
     supersedes: []
     applies_to: [codex, verification, magic-mechanism]
     verification: ["check-38", "--codex"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "97"
@@ -411,7 +411,7 @@ rules:
     pack_number: 18
     section: "§7"
     title: "Check 39 — Precedent"
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Manual check: for any new working, name the Spell Index rows checked
@@ -428,7 +428,7 @@ rules:
     supersedes: []
     applies_to: [codex, verification, magic-design]
     verification: ["check-39", "--codex"]
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "99"
@@ -439,7 +439,7 @@ rules:
     pack_number: 18
     section: "§9"
     title: Standing task, fold amendments into base guides
-    status: proposed
+    status: live
     kind: procedure
     summary: >-
       Fold Packs One through Eighteen into the base guides and retire the
@@ -451,7 +451,7 @@ rules:
     supersedes: []
     applies_to: [session-protocol, documents]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: ratified wholesale"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Eighteen.md
       lines: "115"

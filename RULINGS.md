@@ -30,6 +30,13 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, later still — Packs Sixteen through Nineteen ratified wholesale
+
+Isaac: ratify them now, wholesale. All 72 rows across Packs Sixteen, Seventeen,
+Eighteen and Nineteen moved status: proposed -> live, ratified: "Isaac,
+2026-09-12, Claude Code: ratified wholesale" (both per-row and at each
+pack's own header). No new live-vs-live contradictions; validate.py passes.
+
 ## 2026-09-12, later still — C-003 and C-004 closed
 
 - **C-003.** Twelve wins everywhere, no exceptions (unlike C-001's firearms

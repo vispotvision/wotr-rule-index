@@ -49,8 +49,8 @@ are made, not left pending.
 
 ## Still owed by Isaac
 
-- Muken's children (R22-10)
-- Packs Sixteen through Nineteen
-- Black Agent's and Rengai's combat assignments
-- The four remaining Four Crafts items (R9-1)
+- ~~Muken's children (R22-10)~~ ruled 2026-09-12: the wiki's five (Sodoku, Sonzai, Emira, Tomuka, Ezo)
+- ~~Packs Sixteen through Nineteen~~ ratified wholesale 2026-09-12
+- ~~Black Agent's and Rengai's combat assignments~~ ratified as pitched 2026-09-12
+- Three of the four remaining Four Crafts items (R9-1): Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope (the Law V gate was ruled: Stage VII, 2026-09-12)
 - Ratification of every proposal Phase A files

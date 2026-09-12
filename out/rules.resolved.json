@@ -7486,7 +7486,7 @@
     "pack_number": 6,
     "section": "§13",
     "title": "Does a Ladder pass run across the archive",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Whether the Ladder rule applies forward-only or a Ladder pass runs across the whole archive, given Check 18 finds instances cheaply.",
     "verbatim": "Retroactive application. The Cozbi cycle and the enclave scene are the worst offenders in the corpus. Forward-only, or does a Ladder pass get run across the archive?",
@@ -7497,12 +7497,12 @@
       "verification"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-12, Claude Code: forward-only",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Six.md",
       "lines": "156"
     },
-    "notes": null,
+    "notes": "RULED 2026-09-12: forward-only. No retroactive Ladder pass across the archive; the Cozbi cycle and the enclave scene stand as written.",
     "superseded_by": []
   },
   {

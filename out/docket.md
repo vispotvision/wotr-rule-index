@@ -1,6 +1,6 @@
 # The Docket — open rulings
 
-18 outstanding.
+17 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
@@ -119,12 +119,6 @@ Cross-referenced by Pack Five §C.3 as making the psychic-distance-band docket i
 > Docket 18, Zettari forge-culture substrate. No proposal exists. Still the oldest unaddressed gap in the project.
 
 Restated near-identically in Pack Three's Still Open section (see R3-OP-ZETTARI_DOCKET); still open as of this pack too.
-
-## R6-13-RETROACTIVE_PENDING — Does a Ladder pass run across the archive
-
-*Pack Six §13, blocks: prose-law, verification*
-
-> Retroactive application. The Cozbi cycle and the enclave scene are the worst offenders in the corpus. Forward-only, or does a Ladder pass get run across the archive?
 
 ## R9-1-STILL_OPEN_ITEMS — Craft-structure items this pack leaves undecided
 

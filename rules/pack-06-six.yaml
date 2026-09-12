@@ -552,7 +552,7 @@ rules:
     pack_number: 6
     section: "§13"
     title: Does a Ladder pass run across the archive
-    status: pending
+    status: superseded
     kind: definition
     summary: >-
       Whether the Ladder rule applies forward-only or a Ladder pass runs
@@ -565,11 +565,13 @@ rules:
     supersedes: []
     applies_to: [prose-law, verification]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-12, Claude Code: forward-only"
     source:
       file: WOTR_Companion_Guide_Amendments_Pack_Six.md
       lines: "156"
-    notes: null
+    notes: >-
+      RULED 2026-09-12: forward-only. No retroactive Ladder pass across the
+      archive; the Cozbi cycle and the enclave scene stand as written.
 
   - id: R6-13-INVENTORY_ORDER_PENDING
     pack: Pack Six

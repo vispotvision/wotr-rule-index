@@ -57,6 +57,12 @@ table of contents. It needs a Notion integration token in `NOTION_TOKEN` (see
 the script's docstring for the three-step setup) and is incremental: re-running
 it only rewrites pages edited since the last run. Nothing writes back to Notion.
 
+`build/sync.ps1` wraps that: export, then commit and push `wiki/` if anything
+changed. Natalie archives each finished scene as a page under the wiki's Scene
+Archive section at session end, so running the sync (by hand, or hourly via the
+scheduled task described at the top of the script) is what lands new scenes in
+`wiki/The Scene Archive/`.
+
 ```
 python build/notion_export.py            # incremental
 python build/notion_export.py --full     # everything

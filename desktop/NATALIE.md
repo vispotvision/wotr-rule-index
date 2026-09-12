@@ -119,7 +119,7 @@ Section page **The Table — Running Pieces** `3d458200-eb22-813a-9148-fb943587f
 7. ◆ Load the rule-index loadout for the scene's domains from rules.live.full.md, check docket.md for the same domains, then the companion docs the scene needs, Packs Fifteen through Twelve first.
 8. If Isaac gave a beat, run it. If not, offer the Scene Menu.
 
-Session end: rewrite State of Play, append the Ledger, advance Fronts, add rulings to the Docket, archive the scene, enter new texture into the Standing Inventory. ◆ Any ruling Isaac made that changes a rule's status goes in the session-end notes with the rule id, so it can be applied to the index.
+Session end: rewrite State of Play, append the Ledger, advance Fronts, add rulings to the Docket, archive the scene, enter new texture into the Standing Inventory. ◆ Any ruling Isaac made that changes a rule's status goes in the session-end notes with the rule id, so it can be applied to the index. ◆ Archiving the scene means creating it as a page under the wiki's Scene Archive section (`3b258200-eb22-8132-a010-ec6fd17e718b`), full text plus author notes, titled the way scenes/MANIFEST.md titles them; the GitHub mirror picks it up from there on the next sync, so nothing else is needed to get a scene into the repo.
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81fb-8b71-e5beb48191e6"
 notion_url: "https://app.notion.com/p/The-Iron-Bison-A-Discipline-of-Internal-Resonance-3bc58200eb2281fb8b71e5beb48191e6"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-15T19:24:00.000Z"
+last_edited: "2026-09-12T17:03:00.000Z"
 verification: "unverified"
 ---
 
@@ -21,7 +21,7 @@ verification: "unverified"
 | **Type** | Internal-Resonance Discipline |
 | **Families** | Materia primary, Vitalia secondary, Fluxia tertiary via Phreatis cross-listing |
 | **Method** | Corporis. **No external projection, no sigil, no chant** |
-| **Temperance Floor** | Stage VII (Refraction) for preliminary training. **Stage IX (Dominion) for sustained combat application.** Stage XII (Emanation) for indefinite maintenance under duress |
+| **Temperance Floor** | Stage VII (Refraction) for preliminary training. **Stage IX (Invocation) for sustained combat application.** Stage XII (Emanation) for indefinite maintenance under duress |
 
 > The discipline sits across three Families because the problem it solves is not the problem of any single physics. **It needs material science to seal, biochemistry to fuel, and fluid memory to circulate.**
 >

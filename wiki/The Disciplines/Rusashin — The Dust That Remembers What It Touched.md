@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81c1-8272-d0f117d56c5c"
 notion_url: "https://app.notion.com/p/Rusashin-The-Dust-That-Remembers-What-It-Touched-3bc58200eb2281c18272d0f117d56c5c"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-15T19:24:00.000Z"
+last_edited: "2026-09-12T17:04:00.000Z"
 verification: "unverified"
 ---
 
@@ -85,7 +85,7 @@ The inversion. Same contact, same template, **but an anti-phase copy**: mirrored
 | **IX · The Dragon** *Russa* | Stage IX–X | A semi-autonomous construct of thousands of interlocking grains. **It is not alive. It is a sculpture that moves because every grain carries a fragment of the practitioner's Coagulatio intent.** Reforms from ambient Rusashin when damaged. Its striking force is the cumulative output of every grain along a single vector. *On impact it does not strike and withdraw.* *It detonates on contact**, every grain in the impact zone triggering its fault simultaneously* | 60,000–120,000 EU. **Single use at Form IX.** Full-body tremor; risk of uncontrolled nucleation if concentration breaks during formation |
 | **X · The Dragon Fist** *Russa no Kobushi* | Stage X+ | Complete sustained control of all nine prior Forms at once. The Russa can be maintained indefinitely and **fused to the body as a second skin that strikes with autonomous intent while the practitioner fights with their own fists inside it.** The terminal technique channels the dragon's entire aggregate force through a single punch, faults pre-seeded through the target on contact. *Silence first, then a delayed detonation as every fault propagates simultaneously. The ground craters* | 80,000–150,000+ EU per sustained minute. **Prolonged use ends in unconsciousness. The body does not warn before shutdown. The practitioner simply drops** |
 
-> ⚠️ **Open conflict, flagged for ruling.** This document names **Stage IX as Dominion and Stage X as Convergence.** The Nadi and Talos codices name **Stage IX as Invocation and Stage X as Realization.** Both are in project canon. Not resolved here.
+> ✅ **Resolved 2026-09-12.** This document previously named Stage IX "*Dominion*" and Stage X "*Convergence*". Per Isaac's ruling that the FOW/Codex Stage names govern, the numerals stand and the invented words are struck: **Stage IX is Invocation, Stage X is Realization** — matching the Nadi and Talos codices.
 
 ---
 

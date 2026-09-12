@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8127-be19-ea65c4aadf99"
 notion_url: "https://app.notion.com/p/Kogane-Kei-The-Soul-Reed-Blade-3d958200eb228127be19ea65c4aadf99"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:31:00.000Z"
 verification: "unverified"
 ---
 
 # Kogane Kei · The Soul-Reed Blade
 
 ## Kogane Kei · The Soul-Reed Blade
-
-> **Migration note.** Converted onto Karasaki Hozume, confirmed current canon as Hozume · The Verdant Rot, and Kogane Kei is independently confirmed on Hozume's own character card: his "What nobody knows" line asks whether Kei is a spirit-forged blade or a spirit in a blade, and his Open Rulings note that Kei should probably have its own entry in the Called · Summon Register. The card's "Marsh, Verdure, Sublimation" essence alignment is old-system vocabulary; Hozume's sheet has already ruled that Sublimation is a Great Work operation and not a current, so the alignment converts to his two attested Wellsprings, Mortalis and Verdantia (Vitalia family, Biochemistry). Because Kei was a person before the binding and answers to Hozume by recognition rather than compulsion, it is classified here under the Summon Register's Native provenance (Category Vocatia, with an Animatria facet for the living-blade shape); it is not a repeatable call-and-dismiss summon, so it is not forced onto one of the five numbered Summon Tiers, and full formalisation into the Register is left as Isaac's ruling per Hozume's own open note. Glyph `Ci` is corrected from the card's gloss "Cycle" to the attested gloss "Order"; `Ma` (Memory) and `Ur` (Balance) are both independently attested. Tyzura is carried provisionally per the open Tyzura/Ashura Tyurkia ruling on Hozume's own sheet. Mireya is one of the nineteen orphaned realm entries pending keep-or-strike; the Blight of Fennir and the volume title *WOTR: The Hollow Cycle* do not appear elsewhere in the archive consulted here. All four are kept, flagged unattested, because the card's provenance does not read without them. Physical figures are plausible estimates for the weapon type, since the card gives none.
 
 ### What it is
 

@@ -4,13 +4,13 @@ notion_id: "3bd58200-eb22-81bb-a593-ec19c65127f3"
 notion_url: "https://app.notion.com/p/Karasaki-Hozume-The-Verdant-Rot-3bd58200eb2281bba593ec19c65127f3"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:15:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 
 # Karasaki Hozume · The Verdant Rot
 
-> **Corrected.** "Marsh / Verdure / Sublimation Essence" were not Essence types. **"Cibation, Sublimation, Projection, Solution" as Core Wellspring Resonances** are Great Work operations, not currents — only Calcination on that list is genuinely a Wellspring. **Tyzura, Archon of Spirits** is carried provisionally: the Tyzura / Ashura Tyurkia identity question is an open ruling and this sheet cannot harden until it settles.
+> **Corrected.** "Marsh / Verdure / Sublimation Essence" were not Essence types. **"Cibation, Sublimation, Projection, Solution" as Core Wellspring Resonances** are Great Work operations, not currents — only Calcination on that list is genuinely a Wellspring. **Tyzura, Archon of Spirits** is carried provisionally: the Tyzura / Ashura Yukari identity question is an open ruling and this sheet cannot harden until it settles.
 
 ---
 
@@ -73,7 +73,7 @@ verification: "unverified"
 
 ## VI · Open Rulings
 
-- **Tyzura, Archon of Spirits** — blocked on the Tyzura / Ashura Tyurkia ruling.
+- **Tyzura, Archon of Spirits** — blocked on the Tyzura / Ashura Yukari ruling.
 - **Mireya** is one of the nineteen orphaned realm entries awaiting keep-or-strike.
 - **Kogane Kei** should probably have its own entry in the Called · Summon Register.
 > **Codex** · Vitalia / Biochemistry / Mortalis primary / Stage VIII.

@@ -4,15 +4,13 @@ notion_id: "3d958200-eb22-8144-ad02-c79b5994242d"
 notion_url: "https://app.notion.com/p/The-Marshgrave-s-Phial-The-Bottle-That-Weeps-3d958200eb228144ad02c79b5994242d"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:31:00.000Z"
 verification: "unverified"
 ---
 
 # The Marshgrave's Phial · The Bottle That Weeps
 
 ## The Marshgrave's Phial · The Bottle That Weeps
-
-> **Migration note.** Converted onto Karasaki Hozume, confirmed current canon as Hozume · The Verdant Rot. The card's "Marsh, Verdure" essence alignment converts to Hozume's attested Wellsprings Mortalis and Verdantia (Vitalia family, Biochemistry); the spirit-echo effect converts to his third attested harmonisation, Anamnesis, which his own sheet already describes as letting him feel spiritual imprints in places of grief or mass death, matching the Phial's stated third effect exactly. "Infused with the Hollow Bloom Wellspring itself" is corrected: the Hollow Bloom is Hozume's own Signature technique, not a Wellspring in its own right, so the Phial is restated as drawing on the same Mortalis/Verdantia pairing that technique runs on. Glyph `Ci` is corrected from the card's gloss "Cycle" to the attested gloss "Order"; `Ie` (Insight) is independently attested. Tyzura is carried provisionally per the open Tyzura/Ashura Tyurkia ruling already on Hozume's own sheet. Mireya is one of the nineteen orphaned realm entries pending keep-or-strike; Hollowfen, the Plague-Tide Purge and the volume title *WOTR: Chronicles of the Exiles* do not appear elsewhere in the archive consulted here. All four are kept, flagged unattested, because the card's history does not read without them. Physical figures are plausible estimates for the item type, since the card gives none.
 
 ### What it is
 

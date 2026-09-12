@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b8-813f-c11b313d40d8"
 notion_url: "https://app.notion.com/p/Drevath-Mourne-Kal-The-Iron-Horizon-3d958200eb2281b8813fc11b313d40d8"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,19 +13,19 @@ verification: "unverified"
 ## Drevath Mourne-Kal · The Iron Horizon
 
 > *"Preservation is the longest word for surrender. I am not here to mourn what Eresse was. I am here to build what it refused to become."*
-> **Migrated with all content preserved.** *"Stage XII Zenith"* conflated the Stage numeral with the wrong Stage name — **Stage XII is Emanation; Zenith is Stage XIV. The numeral XII is retained, the name is corrected.** *"Aether Class: Conquest Engine, Tyurkian-over-Winter-Eladrin Synthesis"* is not among the seven; **he is Class V, Radiant** — the world-bending Shell that stabilizes Domains against collapse, which is exactly what his proto-Domain does. *"Frostbound Wellspring"* and *"Tyurkian Iron Well"* are not among the Sixty. **Frostbound is remapped to Monolithion** (Materia, The Enduring Monument — the nearest real law to a stillness that declares permanence), and **the Iron Well is reclassified as the Tyurkian Cognitive Framework itself**, a Soul Crystal construction rather than a Wellspring. Coagula and Judicium are both real and retained as given. Old raw combat figures (EU in the millions, GN/PJ) used a non-FOW scale and are replaced with Stage/Band/Grade values off the tables. **Senzu Tyurkia** and **Vaelorian** are unattested as named individuals in current canon; *Tyurkian* as a lineage register is attested (see Zarron Mahuo) and the Archonic Principle of Stillness is confirmed (Pair V — Motion Against Stillness). Both unattested names are kept; the card cannot make sense without a maker or a rival.
+> **Migrated with all content preserved.** *"Stage XII Zenith"* conflated the Stage numeral with the wrong Stage name — **Stage XII is Emanation; Zenith is Stage XIV. The numeral XII is retained, the name is corrected.** *"Aether Class: Conquest Engine, Yukari-over-Winter-Eladrin Synthesis"* is not among the seven; **he is Class V, Radiant** — the world-bending Shell that stabilizes Domains against collapse, which is exactly what his proto-Domain does. *"Frostbound Wellspring"* and *"Yukari Iron Well"* are not among the Sixty. **Frostbound is remapped to Monolithion** (Materia, The Enduring Monument — the nearest real law to a stillness that declares permanence), and **the Iron Well is reclassified as the Yukari Cognitive Framework itself**, a Soul Crystal construction rather than a Wellspring. Coagula and Judicium are both real and retained as given. Old raw combat figures (EU in the millions, GN/PJ) used a non-FOW scale and are replaced with Stage/Band/Grade values off the tables. **Senzu Yukari** and **Vaelorian** are unattested as named individuals in current canon; *Yukari* as a lineage register is attested (see Zarron Mahuo) and the Archonic Principle of Stillness is confirmed (Pair V — Motion Against Stillness). Both unattested names are kept; the card cannot make sense without a maker or a rival.
 
 ---
 
 ### I · Identity
 
 **Name** · Drevath Mourne-Kal. **Called** · The Iron Horizon. **Myth Name** · Nakkul — "The Standard Planted in Tomorrow." **Known As** · The Pale Conqueror, He Who Measures the Distance Between a King and a Corpse, The Father's Proof.
-**Race** · Winter Eladrin, an Eressean daughter-people reshaped by the Archonic Principle of Stillness, diverged from the Eressean line during a northern schism the card calls the Harmonial Recession. **A Tyurkian Cognitive Framework was installed over that native architecture; the Stillness is still underneath. It has learned to march.**
+**Race** · Winter Eladrin, an Eressean daughter-people reshaped by the Archonic Principle of Stillness, diverged from the Eressean line during a northern schism the card calls the Harmonial Recession. **A Yukari Cognitive Framework was installed over that native architecture; the Stillness is still underneath. It has learned to march.**
 **Gloss rights** · Diagnostic only. He speaks Nakkul as a release call and never once translates it.
 
 #### Affiliation
 
-**None, by his own filing.** Accord legal status contested — no statute violated, no warrant written, a file that only waits. **Created in Senzu Tyurkia's Veil Sanctum as proof of concept**, called him father once, at first activation, and has not repeated it in over a year.
+**None, by his own filing.** Accord legal status contested — no statute violated, no warrant written, a file that only waits. **Created in Senzu Yukari's Veil Sanctum as proof of concept**, called him father once, at first activation, and has not repeated it in over a year.
 > **Catalyst Event · Stage XII, Emanation.** *Emerging from Dissonance with a Crystal denser than before entry — fractures become features, not scars to manage.* **His Winter Eladrin racial Dissonance tendency has been fully conscripted. Every fracture is load-bearing architecture now.**
 > 
 > **He did not resolve his contradiction. He built on top of it.** The offer to Vaelorian — step aside, live to watch it — is the same logic turned outward: not persuasion, a structural audit he has already run and is giving the other man the courtesy of reading before it is enforced.
@@ -36,7 +36,7 @@ verification: "unverified"
 
 **Aether Shell** · **Class V · Radiant.** The world bends toward him; the Shell holds a proto-Domain against collapse rather than merely projecting through it.
 **Attraction Layer** · Bonded to declared ground rather than to people — the Domain is the Axis.
-**Crystal State** · Constructed-over-Native Lattice: the Tyurkian frame runs in the same housing as his native Stasis architecture, both resolved nightly through the Rite of Stillborn Flame. **η** · ~0.93 *(estimate — Class V's Band B correlate, unusually clean for a Stage this high)*, **Coherence Band S.**
+**Crystal State** · Constructed-over-Native Lattice: the Yukari frame runs in the same housing as his native Stasis architecture, both resolved nightly through the Rite of Stillborn Flame. **η** · ~0.93 *(estimate — Class V's Band B correlate, unusually clean for a Stage this high)*, **Coherence Band S.**
 **The Iron Mandate** · The Conquest Engine itself: an Aether field that overwrites ambient Essence outward in hard columns rather than emitting force conventionally.
 
 ---
@@ -108,7 +108,7 @@ verification: "unverified"
 ### IX · Relationships
 
 **Vaelorian** · Primary opposition. Not personal — structural. Two answers to the same question, and they cannot both be right.
-**Senzu Tyurkia** · Creator. Father in construction, not in love. The carrier-wave dependency is the most honest thing Senzu ever admitted — a failsafe left inside something built to exceed him.
+**Senzu Yukari** · Creator. Father in construction, not in love. The carrier-wave dependency is the most honest thing Senzu ever admitted — a failsafe left inside something built to exceed him.
 
 ---
 

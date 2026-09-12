@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8197-a1e4-e8f539816fbf"
 notion_url: "https://app.notion.com/p/The-Lantern-of-Echoed-Veils-Spirit-Binding-Relic-3d958200eb228197a1e4e8f539816fbf"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T15:05:00.000Z"
+last_edited: "2026-09-12T16:59:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,11 +12,9 @@ verification: "unverified"
 
 ## The Lantern of Echoed Veils · Spirit-Binding Relic
 
-> **Migration note.** Kept: appearance, origin story, ward/communion/guardian-projection effects, the Hollowfen burial history, the "Lantern of Last Words" by-name, and Hozume as sole bearer. Converted: the old "Essence Alignment: Sublimation, Marsh" is retired system vocabulary (Sublimation is a Great Work operation, not a current, per Hozume's own corrected sheet), replaced with the two attested Wellsprings of his that actually cover the effect: Mortalis (lawful passage of the dead) and Anamnesis (spiritual imprint reading). Glyph `Vo` (Voice) is confirmed in the Master Glyph Index; `Ma` (Memory) is not verified there and is kept only because the card cannot state its function without a memory-glyph, flagged rather than invented. **Tyzura, Archon of Spirits** is carried exactly as provisional as Hozume's own sheet carries it: the Tyzura/Ashura Tyurkia identity question is an open ruling, and the Lantern's origin claim rides on that ruling rather than resolving it. **Hollowfen** does not appear in the wiki mirror; kept as the card's only named burial site, flagged unattested. Chose the conservative reading that the Lantern is resonance-keyed rather than blood-soulbound, since the card never uses "soulbound" for it and Hozume's own sheet lists no Soul Crystal item-bond.
-
 ### What it is
 
-A bronze lantern, reed-carved, burning a soft green flame that gives no heat; mist and murmuring shapes move visibly inside the glass. Believed to have fallen as a shard of Tyzura's dominion (provisional, per the standing Tyzura/Ashura Tyurkia ruling), and recovered by Karasaki Hozume from a drowned shrine in the marsh country he now wardens as the Hollow Cycle's Marshkeeper. Known in the region as the Lantern of Last Words, for preserving a soul's final murmur, and used, by report, to guide the mass burial of plague dead at Hollowfen, a site name attested nowhere outside this card and kept for that reason alone.
+A bronze lantern, reed-carved, burning a soft green flame that gives no heat; mist and murmuring shapes move visibly inside the glass. Believed to have fallen as a shard of Tyzura's dominion (provisional, per the standing Tyzura/Ashura Yukari ruling), and recovered by Karasaki Hozume from a drowned shrine in the marsh country he now wardens as the Hollow Cycle's Marshkeeper. Known in the region as the Lantern of Last Words, for preserving a soul's final murmur, and used, by report, to guide the mass burial of plague dead at Hollowfen, a site name attested nowhere outside this card and kept for that reason alone.
 
 ### Physical account
 

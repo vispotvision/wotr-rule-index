@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8181-8403-e3416fd5a83a"
 notion_url: "https://app.notion.com/p/The-Spirit-Summoning-Arts-3b158200eb2281818403e3416fd5a83a"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-11T04:49:00.000Z"
+last_edited: "2026-09-12T16:59:00.000Z"
 verification: "unverified"
 ---
 
@@ -96,7 +96,7 @@ Summoned spirits inherit the Wellspring alignment of their creator. A summoner h
 ## Key Figures
 
 **Karo Venrik** · A prodigious Spirit Summoner whose Animatria suite — Cognition, Convergence, Reflex, Requiem, Continuum — represents the most refined psionic-summoning architecture in the current era. His constructs operate through **Nexus networks**: shared perception fields in which multiple eidolons act as extensions of a single Animatria consciousness. His alignment with Wellsprings of memory and vital resonance produces spirits that function as living archives, carrying ancestral knowledge in their Essence structure. His Legion Summons are not brute-force multiplication but precision instruments, each eidolon tuned to a specific perceptual or tactical function within the network.
-**Ashura Tyurkia** · A Third Epoch theorist who integrated summoning within the earliest Wellspring alignment models. His contribution was recognizing that summoned spirits inherit their creator's Essence Typology **not as aesthetic decoration but as functional law**. A spirit built from Ignis Essence burns with conviction because conviction *is what Ignis Essence is*. His work established the principle that summoning is self-revelation, transforming the art from military utility into a diagnostic discipline used by Soul Crystal examiners and Temperance evaluators across the Concord.
+**Ashura Yukari** · A Third Epoch theorist who integrated summoning within the earliest Wellspring alignment models. His contribution was recognizing that summoned spirits inherit their creator's Essence Typology **not as aesthetic decoration but as functional law**. A spirit built from Ignis Essence burns with conviction because conviction *is what Ignis Essence is*. His work established the principle that summoning is self-revelation, transforming the art from military utility into a diagnostic discipline used by Soul Crystal examiners and Temperance evaluators across the Concord.
 **Mnirah Valein** · A philosopher-summoner of the Age of Deliberation who codified the [**Twelve Stages of Spirit Infusion**](https://app.notion.com/p/3be58200eb22812aab29e5590a909077), a progressive curriculum mapping summoning capability to the Coherence Ladder. Her system formalized the Temperance Gates now standard across the Accord. Her work also established the legal framework distinguishing lawful summoning — Wellspring-authorized, Glyphica-bounded, Attraction-anchored — from Mechanica, a distinction that would later underpin Statute XXVI.
 **The Anemoir Cult** · A clandestine order practicing World-Tethered summoning across generational timescales. The Anemoir preserve ancestral spirits by anchoring them to Wellspring veins and bloodline lattices, maintaining presences that span centuries. Their methods sit at the intersection of Vocatia, Mnemata, and Concordia, and their most senior practitioners are among the few living souls capable of **sustaining a summoned presence beyond their own lifespan**. The Concord tolerates them because their preservation work stabilizes Wellspring memory in regions where natural degradation would otherwise erase historical echo. Several provinces owe the continuity of their ancestral rites to Anemoir intervention.
 

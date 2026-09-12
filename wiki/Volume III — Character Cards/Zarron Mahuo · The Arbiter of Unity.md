@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81b7-89cc-eff29441be46"
 notion_url: "https://app.notion.com/p/Zarron-Mahuo-The-Arbiter-of-Unity-3bd58200eb2281b789cceff29441be46"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-12T16:59:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 > *"Born of two bloodlines, I claim neither and surpass both."*
 > **ORIGINATED, PENDING RULING.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment is a proposal pending ratification.** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
-> **Two lineage terms on this sheet need Isaac's ruling before they harden.** *Tyurkian* ties to the open Tyzura / Ashura Tyurkia identity question. *Vellsorea* is one of the nineteen orphaned realm entries awaiting a keep-or-strike decision. **Both are carried here provisionally and neither is load-bearing.**
+> **Two lineage terms on this sheet need Isaac's ruling before they harden.** *Yukari* ties to the open Tyzura / Ashura Yukari identity question. *Vellsorea* is one of the nineteen orphaned realm entries awaiting a keep-or-strike decision. **Both are carried here provisionally and neither is load-bearing.**
 
 ---
 
@@ -22,8 +22,8 @@ verification: "unverified"
 **Name** · Zarron Mahuo.
 **Called** · The Arbiter of Unity. The Veilborn Ascendant. Wielder of Hikariken.
 **Era** · Age of Calamity.
-**Standing** · Unaffiliated by choice and by consequence. Trained under a Tyurkian mentor-sect, then among the Veilwalkers of Vellsorea, **and claimed as a full son by neither.**
-**Lineage** · Hybrid. Tyurkian and high elven.
+**Standing** · Unaffiliated by choice and by consequence. Trained under a Yukari mentor-sect, then among the Veilwalkers of Vellsorea, **and claimed as a full son by neither.**
+**Lineage** · Hybrid. Yukari and high elven.
 > **Catalyst Event · Stage X, Realization.** He severed the Astral Gate at the Shattering of Virelion, and the Continuum did not resist him. It **accommodated** him — locally, grudgingly, within limits that were extremely specific, and the direction of the accommodation reversed and did not reverse back.
 >
 > The Sixteen Stages describes the lived experience of Realization as a species of loneliness with no good analogue lower on the ladder, and describes it in terms of weather. **You are no longer standing in it. You are part of what other people are standing in.**
@@ -119,7 +119,7 @@ verification: "unverified"
 **What he refuses** · To be claimed. Both houses offered and both offers arrived with terms, and he has spent a life proving he required neither, **which is a thing you can only prove by continuing to need nobody.**
 **What it costs him** · The Transference failure mode is not an accident of his harmonisation. **It is the only way he has ever found to give anybody anything**, and it operates below his decision-making, and he has never tried to fix it.
 **Speech** · Formal, subordinated, latinate — the Eressean register, learned rather than native, and slightly too correct in the way of a man who was taught the language by people watching for mistakes.
-> **One private thought, for prose use.** *The Tyurkian word for what he is does not translate, and the elven word for it is a legal term.*
+> **One private thought, for prose use.** *The Yukari word for what he is does not translate, and the elven word for it is a legal term.*
 
 ---
 
@@ -132,7 +132,7 @@ verification: "unverified"
 ## X · Open Rulings
 
 - **Temperance Stage X is originated.** Ratify, adjust, or reject.
-- **Tyurkian lineage** ties to the open Tyzura / Ashura Tyurkia question and cannot harden until that rules.
+- **Yukari lineage** ties to the open Tyzura / Ashura Yukari question and cannot harden until that rules.
 - **Vellsorea** is an orphaned realm entry pending keep-or-strike.
 - The legacy sheet's **"Radiant Emergence → Essence Embodiment → Veilfracture Dominion"** progression and its Projection / Exaltation / Coagulation / Solution / Sublimation resonances were Great Work operations used as a Wellspring path. **Removed rather than translated.**
 - **The Shattering of Virelion** and **the Collapse of the Veil** appear in the legacy sheet as named events with no current canon entry. Carried as references only.

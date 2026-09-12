@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c7-a80a-ded610a0bb5f"
 notion_url: "https://app.notion.com/p/The-Fractured-Dawn-Paragons-of-the-Archons-3d958200eb2281c7a80aded610a0bb5f"
 section: "Volume VI — Character Cards"
 tags: []
-last_edited: "2026-09-12T15:03:00.000Z"
+last_edited: "2026-09-12T17:00:00.000Z"
 verification: "unverified"
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-812f-a3b9-d313fe5b3c77"
 notion_url: "https://app.notion.com/p/Pair-VI-Harmony-and-Renewal-3b158200eb22812fa3b9d313fe5b3c77"
 section: "The Fourteen Archons"
 tags: []
-last_edited: "2026-08-03T03:58:00.000Z"
+last_edited: "2026-09-12T18:52:00.000Z"
 verification: "unverified"
 ---
 
@@ -24,7 +24,7 @@ verification: "unverified"
 | **Associated Glyphs** | `[Se]` Song · `[Lh]` Frequency · `[Ar]` Accord · `[Chw]` Choir |
 
 > ***Divine Edict*** · *"In every sound, the world remembers its shape."*
-Selhar governs the **Law of Resonant Equilibrium**, the principle that all things, living or dead, possess a frequency that seeks harmony with its environment. Through this Law, Wellsprings can synchronize to avert collapse, Domains can stabilize their tone, and hearts can be brought to alignment. His resonance ended the **Siege of Epphrenean Spire**, where his followers harmonized three Domains to nullify a destructive dissonance wave unleashed by Uurgath's cult.
+Selhar governs the **Law of Resonant Equilibrium**, the principle that all things, living or dead, possess a frequency that seeks harmony with its environment. Through this Law, Wellsprings can synchronize to avert collapse, Domains can stabilize their tone, and hearts can be brought to alignment. His resonance ended the **Siege of Epprenean Spire**, where his followers harmonized three Domains to nullify a destructive dissonance wave unleashed by Uurgath's cult.
 
 #### Resonaris — The Magic of Frequency and Accord
 

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-819b-bcda-cf19128af9f1"
 notion_url: "https://app.notion.com/p/Goraku-Tenry-The-Crimson-Gourd-3bd58200eb22819bbcdacf19128af9f1"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:36:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -16,7 +16,7 @@ verification: "unverified"
 > **Both are oni. Both are gourd-and-festival built. Both convert consumption into burst-force.** *Daigo runs on sweets and rhythm; Goraku on brew and blood-fire.* **Each card lists the other under Relationships.**
 >
 > ***Kin.*** *The Tenryū are a lineage whose Wellspring inheritance is metabolic conversion — the cleanest bloodline-mechanic pairing in the volume, taken deliberately.*
-> **Invented Stage name.** The card reads **"Stage VII (Dominion)."** *Dominion is a stat, not a Stage; Stage VII is Refraction.* Numeral stands. Braqth is among the nineteen orphaned realms pending ruling.
+> **Invented Stage name.** The card reads **"Stage VII (Dominion)."** *Dominion is a stat, not a Stage; Stage VII is Refraction.* Numeral stands. Braqth — a real place, ruled 2026-09-12: Outer World, the Southern Pan.
 
 ---
 

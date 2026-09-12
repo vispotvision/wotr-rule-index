@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9e6f-eb9b8929c149"
 notion_url: "https://app.notion.com/p/Seren-Valenne-The-Grey-Adjudicator-3d958200eb2281ff9e6feb9b8929c149"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:22:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -109,7 +109,7 @@ verification: "unverified"
 ### IX · Relationships
 
 **The Arbitration Division** · Peers call them the Grey Adjudicator. **Famed for never raising their voice nor drawing a weapon, and for quelling conflicts that once became interrealm wars.**
-**Kaelrith Dorne, the Iron Wound** · *Taken from his card rather than theirs.* **Unofficial reports say Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was counted peace enough.** *Unattested event; orphaned realm.*
+**Kaelrith Dorne, the Iron Wound** · *Taken from his card rather than theirs.* **Unofficial reports say Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was counted peace enough.** *Unattested event; Anguz — a real place, ruled 2026-09-12: Inner World, North.*
 **The parties to the Caedor and Babyl Arbitration** · A contested Wellspring boundary dispute after the Eighth Fracture of Faith. *Both names unattested or struck; carried as the card states them.*
 
 ---

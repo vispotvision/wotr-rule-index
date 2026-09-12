@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81e9-bcdc-c85efef27225"
 notion_url: "https://app.notion.com/p/Wilhelm-The-Guardian-3bd58200eb2281e9bcdcc85efef27225"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T12:01:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,7 +19,7 @@ verification: "unverified"
 >
 > ***A manufactured Crystal producing lawful output without a lawful origin is the exact category the Accord spent centuries suppressing, and the Guild Accord's Strategic Division commissioned this one.*** **Ruling needed: deliberate institutional hypocrisy, or a sheet requiring re-founding.**
 >
-> **Varūn**, his registry, is one of the nineteen orphaned realm entries pending keep-or-strike.
+> **Varūn**, his registry, is a real place — ruled 2026-09-12: the Old World.
 
 ---
 

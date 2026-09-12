@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812c-a956-d16a32c3350e"
 notion_url: "https://app.notion.com/p/Kaelrith-Dorne-The-Iron-Wound-3d958200eb22812ca956d16a32c3350e"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:23:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 
 **Name** · Kaelrith Dorne. **Called** · The Iron Wound.
 **Role** · **Veteran of the Withering Rebellions. Former Guild Accord auxiliary, Enforcement Division. Free Lance, serving no flag but his own.**
-**Type** · Mortal, tempered veteran. **Era** · Withering Era. **Realm of origin** · Anguz *(orphaned entry; frontier placement disputed between the card and the Material Index).*
+**Type** · Mortal, tempered veteran. **Era** · Withering Era. **Realm of origin** · Anguz *(a real place, ruled 2026-09-12: Inner World, North, as the Material Index has it).*
 **Appearance** · Tall, gaunt, built from endurance rather than youth. Silver hair, once the pale blond of Anguzian lineages, bleached by Essence exposure. **Countless scars score his face and neck in a cross-pattern, the ritual mark of an aborted Temperance binding.** Steel-grey eyes under the shadow of exhaustion. **The half-mantle still carries the faded insignia of the Enforcement Division, worn inside-out.**
 **Gloss rights** · Never. *"Every scar is a law written in pain. I just never learned to read them." A man who will not read his own scars does not translate anything for anyone.*
 
@@ -109,7 +109,7 @@ verification: "unverified"
 ### IX · Relationships
 
 **The Enforcement Division** · Deserter. Occasional consultant during Concord clean-ups. **The insignia is still on the mantle, inside-out.**
-**Seren Valenne, the Grey Adjudicator** · **Unofficial reports claim Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was considered peace enough.** *Unattested event; orphaned realm.*
+**Seren Valenne, the Grey Adjudicator** · **Unofficial reports claim Seren invoked his aid during the Arbitration of Anguz. Neither spoke to the other throughout the trial, and both left alive, which was considered peace enough.** *Unattested event; Anguz — a real place, ruled 2026-09-12: Inner World, North.*
 **Younger Accord soldiers** · Fear him; respect him in silence.
 **The dead of his unit** · **He drags the broken sword through battlefields long after the war ended, ensuring no corrupted echo rises again.**
 

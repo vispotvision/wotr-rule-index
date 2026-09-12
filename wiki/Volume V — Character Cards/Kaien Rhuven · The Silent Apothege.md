@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812a-8621-e99e982591aa"
 notion_url: "https://app.notion.com/p/Kaien-Rhuven-The-Silent-Apothege-3d958200eb22812a8621e99e982591aa"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:34:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -25,7 +25,7 @@ verification: "unverified"
 
 #### Affiliation
 
-**None.** *He tends the Verdant Hollow* *(unattested)*, **a quiet enclave at the edge of Senoth's misted valleys** *(Senoth pending keep-or-strike)*. **Once studied under the Guild Accord's Aetherica before abandoning Citadel life.** He rarely speaks of it. Era: Withering Era.
+**None.** *He tends the Verdant Hollow* *(unattested)*, **a quiet enclave at the edge of Senoth's misted valleys** *(Senoth — ruled 2026-09-12: a name that no longer attaches to ground; it stays on that list in The Bearing and the Holding)*. **Once studied under the Guild Accord's Aetherica before abandoning Citadel life.** He rarely speaks of it. Era: Withering Era.
 > **Catalyst Event · Stage VI, Glory.** *Willingly accepting genuine soul-cost to preserve something valued above one's own structural integrity.*
 > 
 > **The card gives the shape and not the event.** *He left the Citadel and its Aetheric studies for silence and soil, and he accepts no coin, only stories in exchange for cures.* A man who walked out of the institution that measures souls, to spend his own on people consumed by their Wellsprings, has accepted the cost the Stage names; what he preserved, and what it cost him, the card does not say and the sheet does not invent. **He believes every poison once began as medicine, and he treats sorrow and fever as the same imbalance: too much fire, too little patience.**
@@ -107,7 +107,7 @@ verification: "unverified"
 
 ### IX · Relationships
 
-**The Verdant Hollow** · **The enclave he tends,** at the edge of Senoth's misted valleys. *Unattested; Senoth pending keep-or-strike.*
+**The Verdant Hollow** · **The enclave he tends,** at the edge of Senoth's misted valleys. *Unattested; Senoth — ruled 2026-09-12 — remains a name that no longer attaches to ground.*
 **The Guild Accord** · **Former student of its Aetheric studies, before he abandoned Citadel life.** *He rarely speaks of it.*
 **Those consumed by their own Wellsprings** · **He tends them, and teaches that moderation is rhythm.**
 **The people who pay in stories** · The card names none of them.

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8128-8601-df8f4ea804b9"
 notion_url: "https://app.notion.com/p/The-Inner-World-The-Northern-Shield-3b158200eb2281288601df8f4ea804b9"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-04T04:42:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -93,7 +93,7 @@ The Accord's Logistics Division regards the northern quarter as the single great
 
 ## The Kingdoms of the Shield
 
-*Five polities sit on this ground. The rock does not care which, and the ledger above applies to all of them equally — but what each has built on top of it is the difference between them.*
+*Six polities sit on this ground. The rock does not care which, and the ledger above applies to all of them equally — but what each has built on top of it is the difference between them.*
 | Kingdom | What it is, in one line |
 |---|---|
 | **Kharven** *the Ashen Crown* | Feudal monarchy on frozen ground. **The cold is not the setting. The cold is the constitution** |
@@ -101,6 +101,7 @@ The Accord's Logistics Division regards the northern quarter as the single great
 | **Ketsuen** *the Crow's Reach* | Meritocracy that **accreted rather than conquered.** Builds walls out of awareness rather than stone |
 | **Stannvaard** *the Metal-Wardens* | Dawi forge-state in the Ring wall, **containing a republic that contains a court of universal jurisdiction** |
 | **Undaar-Keth** *the Closed Fist* | Hobgoblin decree-state. **A military organism with a civilian population attached, rather than the reverse** |
+| **Anguz** | Guild-controlled: Aethersteel and Bloodsilver priced on the coil, gold secondary. **The collapsed mines of Anguz** are the Dustquartz source. *A real place, ruled 2026-09-12: Inner World, North* |
 
 > **The economic spine.** Nalūn's credit finances Stannvaard's extraction and Stannvaard's metal backs Nalūn's credit; Ketsuen's wards protect the corridors both depend on; **and Kharven and Undaar-Keth hold the two ends of a cold peace across the Greymane ridgeline.**
 >

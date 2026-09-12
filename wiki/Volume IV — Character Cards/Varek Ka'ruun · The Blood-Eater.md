@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81b9-bb26-f18946ca95f4"
 notion_url: "https://app.notion.com/p/Varek-Ka-ruun-The-Blood-Eater-3bd58200eb2281b9bb26f18946ca95f4"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T18:42:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -17,7 +17,7 @@ verification: "unverified"
 >
 > *"Flame / Blood / Dominion"* were not Essence types. **The Horned Pyre** is retained as the Temperance Cycle's name.
 >
-> **Braqth** is among the nineteen orphaned realm entries pending keep-or-strike.
+> **Braqth** — a real place, ruled 2026-09-12: Outer World, the Southern Pan.
 
 ---
 

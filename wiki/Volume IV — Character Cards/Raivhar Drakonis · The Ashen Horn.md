@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8135-9fdd-f8bb25a119be"
 notion_url: "https://app.notion.com/p/Raivhar-Drakonis-The-Ashen-Horn-3bd58200eb2281359fddf8bb25a119be"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T19:18:00.000Z"
+last_edited: "2026-09-12T18:53:00.000Z"
 verification: "unverified"
 ---
 
@@ -15,7 +15,7 @@ verification: "unverified"
 >
 > ***That is Invocation stated outright.*** *From Stage IX the practitioner stops working alone and something larger answers — and the recorded pattern is relief, then something worse, as they work out that the thing they handed responsibility to did not sign anything.*
 >
-> *"Voidflame / Draconic / Celestial"* were not Essence types. **Epphrene** — site of the Siege he fought in — is among the nineteen orphaned realms.
+> *"Voidflame / Draconic / Celestial"* were not Essence types. **Epprenea** — site of the Siege he fought in — is a real place, ruled 2026-09-12: Outer World, the Southern Pan; the spelling *Epprenea* wins.
 
 ---
 
@@ -105,7 +105,7 @@ verification: "unverified"
 ## VIII · Relationships
 
 **Ziyu "Pip" Inari** · **Wary respect** — *once spared Pip's life during a Concord raid.*
-**Karo Venrik** · **Fought alongside during the Siege of Epphrene; now estranged.**
+**Karo Venrik** · **Fought alongside during the Siege of Epprenea; now estranged.**
 > ***Sixth thread into the Venrik cluster*** — and the second involving a rogue. **Sevrin Valeith runs Karo as a reluctant informant. Raivhar fought beside him and is now Accord-declared rogue after a massacre.**
 >
 > *Karo Venrik's connections are: his father Sandalphon, his wife Asta, his kinsman Vaelen, a man he cleared of divine interference, a spirit-binder who has leverage on him, and a war criminal he served with.* **That is not a supporting cast. That is a plot.**

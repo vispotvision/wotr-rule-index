@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ae-a271-c9b33f8cb6eb"
 notion_url: "https://app.notion.com/p/Dr-Vaelion-Rhest-The-Sleepless-Theorist-3d958200eb2281aea271c9b33f8cb6eb"
 section: "Volume V — Character Cards"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 
 **Name** · Dr. Vaelion Rhest. **Called** · The Sleepless Theorist.
 **Role** · **Aetheric Behaviorist. Senior Researcher, Theoretical Essence Physics, Guild Accord Research and Archives Division. Maps Wellspring resonance patterns during the Withering-era reconstruction.**
-**Type** · Mortal, arcane theorist. **Era** · Withering Era, Imperial Year 745 to present. **Realm of origin** · Vellsorea, Inner World, Eastern Reach *(unattested; kept because the card cannot stand without it — the outcome of the separate nineteen-realm keep-or-strike review does not change this card's usage either way).*
+**Type** · Mortal, arcane theorist. **Era** · Withering Era, Imperial Year 745 to present. **Realm of origin** · Vellsorea, the New World, the Eastern Rise *(ruled 2026-09-12: Vellsorea is a real place in the New World; the card's "Inner World, Eastern Reach" is corrected).*
 **Appearance** · Long black hair tied loosely and perpetually untidy, framing pale features dulled by sleeplessness. Layered robes in dark green and ivory, comfort rather than uniform, ink-stained and faintly perfumed by alchemical herbs. **A thin string of jade charms at the neck, resonating faintly with Verdantia's currents.** Eyes faintly silver, the shade of scholars who have stared too long into Wellspring light.
 **Gloss rights** · Unlimited. *He writes treatises in the middle of conversations and mutters equations over lukewarm tea. He will explain anything to anyone, whether or not they asked.*
 

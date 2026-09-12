@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81fa-aafd-eb037d281428"
 notion_url: "https://app.notion.com/p/Thalyss-Aevyrn-The-Deep-Coil-3bd58200eb2281faaafdeb037d281428"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T18:42:00.000Z"
+last_edited: "2026-09-12T18:54:00.000Z"
 verification: "unverified"
 ---
 
@@ -13,7 +13,7 @@ verification: "unverified"
 > *"The sea is not cruel. It is law. It swallows only those who cannot hold their breath."*
 > **Invented Stage name.** The card reads **"Stage IX (Judgment)."** *Judgment is not among the sixteen; Stage IX is Invocation.* Numeral stands, word struck.
 >
-> *"Water / Dragon / Silence"* were not Essence types. **Vellsorea** is among the nineteen orphaned realm entries pending keep-or-strike.
+> *"Water / Dragon / Silence"* were not Essence types. **Vellsorea** — a real place, ruled 2026-09-12: the New World, the Eastern Rise.
 
 ---
 
@@ -24,7 +24,7 @@ verification: "unverified"
 
 ### Affiliation
 
-**Kingdom of Vellsorea**, bound directly to the **Abyssal Court** under the **Oath of the Third Depth.** *Territorial warden and executioner for the Leviathan Pact, ensuring no landwalker trespasses into abyssal Wellsprings uninvited.*
+**Kingdom of Vellsorea** (the New World, the Eastern Rise), bound directly to the **Abyssal Court** under the **Oath of the Third Depth.** *Territorial warden and executioner for the Leviathan Pact, ensuring no landwalker trespasses into abyssal Wellsprings uninvited.*
 > **Catalyst Event · Stage IX, Invocation.** *Every technique before this was the practitioner's own Crystal doing something. From Invocation the practitioner asks, and something larger answers — and the answering is not metaphor, is not reliable, and is not free. The Wellspring is a co-author.*
 >
 > **His Wellspring contains a sleeping fragment of the original Leviathan.**

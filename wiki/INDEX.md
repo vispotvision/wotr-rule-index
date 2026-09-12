@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-557 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+559 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -413,9 +413,10 @@
 - [The Material Index · T0–T4](The%20Master%20Material%20Ledger/The%20Material%20Index%20·%20T0–T4.md)
 - [The Material Index · T5–T9](The%20Master%20Material%20Ledger/The%20Material%20Index%20·%20T5–T9.md)
 
-## The Moto Bloodline (2)
+## The Moto Bloodline (3)
 
 - [The Long Reading — Moto Ancient History](The%20Moto%20Bloodline/The%20Long%20Reading%20—%20Moto%20Ancient%20History.md)
+- [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
 ## The Spirit Summoning Arts (2)
@@ -423,10 +424,11 @@
 - [The Infinite Summoning Arts](The%20Spirit%20Summoning%20Arts/The%20Infinite%20Summoning%20Arts.md)
 - [The Twelve Stages of Spirit Infusion](The%20Spirit%20Summoning%20Arts/The%20Twelve%20Stages%20of%20Spirit%20Infusion.md)
 
-## The Tongues of the Realms (5)
+## The Tongues of the Realms (6)
 
 - [Accord Latin — The Formulary and the Two Spoken Registers](The%20Tongues%20of%20the%20Realms/Accord%20Latin%20—%20The%20Formulary%20and%20the%20Two%20Spoken%20Registers.md)
 - [Common — The Tongue With No Distinctions](The%20Tongues%20of%20the%20Realms/Common%20—%20The%20Tongue%20With%20No%20Distinctions.md)
+- [Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin](The%20Tongues%20of%20the%20Realms/Element%20Inventories%20—%20Mahuo,%20Yukari,%20the%20Elven%20Branches,%20Beastkin.md)
 - [Eressean and Varrisak — The Tongue of the Vey-Elarin](The%20Tongues%20of%20the%20Realms/Eressean%20and%20Varrisak%20—%20The%20Tongue%20of%20the%20Vey-Elarin.md)
 - [Old Vaross — The Goblinoid Tongue](The%20Tongues%20of%20the%20Realms/Old%20Vaross%20—%20The%20Goblinoid%20Tongue.md)
 - [Runic Dawi — The Tongue of the Holds](The%20Tongues%20of%20the%20Realms/Runic%20Dawi%20—%20The%20Tongue%20of%20the%20Holds.md)
@@ -459,7 +461,7 @@
 - [Bram Greymane — The Ridge](Volume%20I%20—%20Character%20Cards/Bram%20Greymane%20—%20The%20Ridge.md)
 - [Brida Ashwell — The Warm Diagnosis](Volume%20I%20—%20Character%20Cards/Brida%20Ashwell%20—%20The%20Warm%20Diagnosis.md)
 - [Cozbi Mahuo](Volume%20I%20—%20Character%20Cards/Cozbi%20Mahuo.md)
-- [Dougou Ozumu Zettai](Volume%20I%20—%20Character%20Cards/Dougou%20Ozumu%20Zettai.md)
+- [Dougou Ozumu Zettari](Volume%20I%20—%20Character%20Cards/Dougou%20Ozumu%20Zettari.md)
 - [Dunstan the Brine — The Ladle](Volume%20I%20—%20Character%20Cards/Dunstan%20the%20Brine%20—%20The%20Ladle.md)
 - [Edward Lambert — The Arithmetic](Volume%20I%20—%20Character%20Cards/Edward%20Lambert%20—%20The%20Arithmetic.md)
 - [Freda Thunn-Gorr — The Caldera Wife](Volume%20I%20—%20Character%20Cards/Freda%20Thunn-Gorr%20—%20The%20Caldera%20Wife.md)
@@ -484,9 +486,9 @@
 - [Niran Yukari](Volume%20I%20—%20Character%20Cards/Niran%20Yukari.md)
 - [Onawa Ashkewe](Volume%20I%20—%20Character%20Cards/Onawa%20Ashkewe.md)
 - [Osric of Hallenfeld — The Patient Hand](Volume%20I%20—%20Character%20Cards/Osric%20of%20Hallenfeld%20—%20The%20Patient%20Hand.md)
-- [Rashani Zettai](Volume%20I%20—%20Character%20Cards/Rashani%20Zettai.md)
+- [Rashani Zettari](Volume%20I%20—%20Character%20Cards/Rashani%20Zettari.md)
 - [Renard Greymane — The Left of the Throne](Volume%20I%20—%20Character%20Cards/Renard%20Greymane%20—%20The%20Left%20of%20the%20Throne.md)
-- [Rengai Zettai](Volume%20I%20—%20Character%20Cards/Rengai%20Zettai.md)
+- [Rengai Zettari](Volume%20I%20—%20Character%20Cards/Rengai%20Zettari.md)
 - [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)
 - [Sodoku Moto](Volume%20I%20—%20Character%20Cards/Sodoku%20Moto.md)
 - [Soren the Mast — The Climb](Volume%20I%20—%20Character%20Cards/Soren%20the%20Mast%20—%20The%20Climb.md)

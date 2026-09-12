@@ -30,6 +30,31 @@ Isaac, in Claude Code: "Karo Venrik is the Son of Hiromi Mahuo and the Elven Que
   Isaac as real options; need the actual Part Four docket text before
   asking.
 
+## 2026-09-12, still later — C-005 and C-006 closed; five proposals ratified
+
+- **C-005 (Zettari vs. Zettai).** Zettari wins. "Zettai" swept to
+  "Zettari" across the wiki and scenes; the three Volume I cards are
+  renamed (Rashani, Rengai, Dougou Ozumu Zettari). Rule rows keep their
+  verbatim quotes as the sources spell them (Zettai) and note the
+  divergence. In progress.
+- **C-006 (the Zettari's register).** The rule gives way: the Zettari's
+  established Swahili/Bantu/Arabic-flavoured vocabulary stands and the
+  five-strata naming rule is carved out — the Zettari are their own
+  register; "archaic bloodlines → Japonic" still governs any other archaic
+  line. R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC. In progress.
+- **Five proposals ratified wholesale, as written:** the Zettari
+  forge-culture pitch (Agano Sand and the Witnessed Temper; R33, after the
+  spelling sweep); the Moto bloodline Visual Aesthetic Guide pass
+  including the two flagged speculative items, the Tenrai palette and the
+  Kurenai crimson/mourning-black contrast (R34-1, R34-2); the
+  psychic-distance narration registers for nine POV characters, Hild Ice
+  and Dabney left unassigned (R35-1, R35-2); what House Yuno declined to
+  disclose to the Research Division — Yasoshima as a 200,000-year Essence
+  sink worked by the Kagura branch at real cost to the officiants (R36-1);
+  the four element inventories — Mahuo, Yukari, the elven branches,
+  Beastkin soul-names — with their open flags kept as flags (R37-1..4).
+  Each supersedes the pending row it answers. In progress.
+
 ## 2026-09-12, still later — wiki-wide docket sweep, fifth batch (the researched nine)
 
 Nine items researched read-only first (each with verbatim flags, evidence,

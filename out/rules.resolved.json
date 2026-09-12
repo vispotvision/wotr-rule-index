@@ -710,8 +710,10 @@
       "file": "WOTR_Naming_Guide_Amendment.docx",
       "lines": "228-230"
     },
-    "notes": "RULED 2026-09-12: yes, fill them in. Drafted by a background research agent, matching the existing Dawi/Moto inventory format where it fits and restructured where the culture's own anchor doesn't fit that shape (elven branches: shared roots + branch affixes; Beastkin: circumstance + expectation + Name-Keeping, matching the Akan day-name anchor). Several per-inventory items flagged rather than invented where canon doesn't settle a detail. Not yet reviewed by Isaac. Full draft in proposals/element_inventories_draft.md, logged in proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "RULED 2026-09-12: yes, fill them in. Drafted by a background research agent, matching the existing Dawi/Moto inventory format where it fits and restructured where the culture's own anchor doesn't fit that shape (elven branches: shared roots + branch affixes; Beastkin: circumstance + expectation + Name-Keeping, matching the Akan day-name anchor). Several per-inventory items flagged rather than invented where canon doesn't settle a detail. Full draft in proposals/element_inventories_draft.md, logged in proposals/PROPOSED.md. Superseded 2026-09-12 by R37-1-MAHUO_ELEMENT_INVENTORY (with R37-2, R37-3, R37-4 in rules/doc-element-inventories.yaml), Isaac having ratified the draft as written with its open flags kept as flags; the four inventories are published at wiki/The Tongues of the Realms/Element Inventories -- Mahuo, Yukari, the Elven Branches, Beastkin.md.",
+    "superseded_by": [
+      "R37-1-MAHUO_ELEMENT_INVENTORY"
+    ]
   },
   {
     "id": "R21-1-AGAMALU_HOMELAND_RULING",
@@ -1052,8 +1054,10 @@
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "114"
     },
-    "notes": "RULED 2026-09-12: yes, write it up. Drafted by a background research agent; not yet reviewed by Isaac. Full draft in proposals/moto_material_culture_draft.md, logged in proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "RULED 2026-09-12: yes, write it up. Drafted by a background research agent; full draft in proposals/moto_material_culture_draft.md, logged in proposals/PROPOSED.md. Ratified by Isaac 2026-09-12 as written, including the two flagged items; superseded by R34-1-MOTO_MATERIAL_CULTURE (rules/doc-moto-material-culture.yaml), with the six-line variations in R34-2-SEVEN_LINES_MATERIAL_VARIATIONS, published as the wiki page \"The Moto Bloodline — Material Culture\".",
+    "superseded_by": [
+      "R34-1-MOTO_MATERIAL_CULTURE"
+    ]
   },
   {
     "id": "R21-5-RESEARCH_DIVISION_PENDING",
@@ -1076,8 +1080,10 @@
       "file": "WOTR_Canon_Amendment_Agamalu_and_B├╝ri_Origin.md",
       "lines": "111"
     },
-    "notes": "RULED 2026-09-12: yes, write it. Re-attributed to House Yuno per the same-day C-004 ruling (this hook originally sat on the now-struck Agamalu/Vāimoana identity). Drafted by a background research agent as a committed decision: Yasoshima's Essence stability is House Yuno's Kagura branch using the island as a two-hundred-thousand-year sink for the world's ambient Essence drift, at real personal cost to the officiants. Not yet reviewed by Isaac. Full draft in proposals/research_division_secret_draft.md, logged in proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "RULED 2026-09-12: yes, write it. Re-attributed to House Yuno per the same-day C-004 ruling (this hook originally sat on the now-struck Agamalu/Vāimoana identity). Drafted by a background research agent as a committed decision: Yasoshima's Essence stability is House Yuno's Kagura branch using the island as a two-hundred-thousand-year sink for the world's ambient Essence drift, at real personal cost to the officiants. Not yet reviewed by Isaac. Full draft in proposals/research_division_secret_draft.md, logged in proposals/PROPOSED.md. RATIFIED 2026-09-12 as written: superseded by R36-1-YASOSHIMA_SINK_YUNO_SECRET, published on the Yasoshima wiki page under \"What the Research Division Was Not Told\".",
+    "superseded_by": [
+      "R36-1-YASOSHIMA_SINK_YUNO_SECRET"
+    ]
   },
   {
     "id": "R21-5-SONZAI_PENDING",
@@ -2963,7 +2969,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Raised as an open ruling on wiki/Summoned and Bound/Haelvorn · Housecat.md (Section XIII), whose blockquote recorded the spelling ruling and flagged the portfolio clash it exposed. Isaac ruled the same day; the blockquote was rewritten in Notion to a resolved statement (the verbatim above is quoted from it) and the mirror re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion, mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt, Coldblood Concentrate); The Arctic Lion — Sovereign Configuration (header, Aethersteel, Frost Array, Glacium, three-node architecture and every frost technique's Codex line); Bloodbind Surge; Hunter's Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter Rend; The Old World — The Western Wearing (Glacium); The Abyssal Depths (The Stillwater Rite's Codex); The Alchemical Index (Stasisline Needles, Stillwater Draught); The Material Index T5–T9 (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof, Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as Cymorath because the usage is motion, vector-field, wind or vibration reading rather than cold: the FOW V and Fulguria canon pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettai, Mizuki Moto (vibration through frost mist, not the frost itself), Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts, Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear, Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the Making of the God Hand, and the Niran scenes. Judgment calls: the Arctic Lion sheet's Fulguria-match row now states that the Family match runs through the Judicium substrate and the frost layer is Caloria; whether a Caloria layer inside a Fulguria structure carries a §14 stress figure the way the Ruins layer does is not ruled and was not invented. Stasisline Needles (rate arrest, no frost) was read as stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's Identity line already routed frost through Vohrin and were the model.",
+    "notes": "Raised as an open ruling on wiki/Summoned and Bound/Haelvorn · Housecat.md (Section XIII), whose blockquote recorded the spelling ruling and flagged the portfolio clash it exposed. Isaac ruled the same day; the blockquote was rewritten in Notion to a resolved statement (the verbatim above is quoted from it) and the mirror re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion, mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt, Coldblood Concentrate); The Arctic Lion — Sovereign Configuration (header, Aethersteel, Frost Array, Glacium, three-node architecture and every frost technique's Codex line); Bloodbind Surge; Hunter's Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter Rend; The Old World — The Western Wearing (Glacium); The Abyssal Depths (The Stillwater Rite's Codex); The Alchemical Index (Stasisline Needles, Stillwater Draught); The Material Index T5–T9 (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof, Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as Cymorath because the usage is motion, vector-field, wind or vibration reading rather than cold: the FOW V and Fulguria canon pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettari, Mizuki Moto (vibration through frost mist, not the frost itself), Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts, Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear, Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the Making of the God Hand, and the Niran scenes. Judgment calls: the Arctic Lion sheet's Fulguria-match row now states that the Family match runs through the Judicium substrate and the frost layer is Caloria; whether a Caloria layer inside a Fulguria structure carries a §14 stress figure the way the Ruins layer does is not ruled and was not invented. Stasisline Needles (rate arrest, no frost) was read as stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's Identity line already routed frost through Vohrin and were the model.",
     "superseded_by": []
   },
   {
@@ -3058,6 +3064,336 @@
       "lines": null
     },
     "notes": "Raised as an open ruling on wiki/Summoned and Bound/Obrenkael · The Mule.md (Section XIII), where Deadweight's chain [Ob] · [Abys] · [Th] was flagged because neither [Abys] Deep nor [Th] Foundation was attested at Oblation in the Master Glyph Index. Isaac took the amendment for [Abys] only. Recorded in three places, all in Notion and re-exported: the Amendments section added to the Master Glyph Index page (wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md, the text quoted in `verbatim`); the Deadweight Codex Assignment line on the Mule's card (\"Amended 2026-09-12: [Abys] Deep's Master Codex row now carries Oblation among its attested Wellsprings and Fluxia among its attested Families\"); and the card's Section XIII paragraph, now \"Codex amendment taken.\" The Haelvorn · Housecat cross-reference that pointed at the pitched-not-taken state was updated in the same pass. Deadweight stands as drafted, is not rebuilt, and remains the summon roster's one cross-family chain. `kind` is `definition` rather than `amendment` because the rule schema's kind enum has no `amendment` value and the checker is not to be changed; the row defines what [Abys] Deep's attested lists now read, which is what R25-1 (the other direct ruling of this shape) also files as a definition.",
+    "superseded_by": []
+  },
+  {
+    "id": "R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC",
+    "pack": "Zettari Naming Register Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "The Zettari keep their Swahili/Bantu/Arabic register; carved out of the Japonic stratum",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of \"archaic bloodlines\" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).",
+    "verbatim": "The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.",
+    "amends": [
+      {
+        "guide": "WOTR_Character_Naming_Guide.md",
+        "locus": "five strata / archaic bloodlines",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "register"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ruled directly, no source document (closes C-006)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-006. The clash was between the five-strata rule as ratified (R23-2-JAPONIC_STRATUM, \"Japonic. Archaic Bloodline institutional logic\", restated in imports/BRIEFS/common.md) and the Zettari's documented vocabulary on wiki/The Archaic Bloodlines/The Zettari.md and wiki/Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara.md. Isaac ruled the rule gives way. R23-2 stays live and unsuperseded: this row narrows its reach by one bloodline rather than striking it. The verbatim is the Register note added to The Zettari wiki page in Notion on 2026-09-12 (Culture section), mirrored to wiki/. The five-strata statement in imports/BRIEFS/common.md and the 2026-09-12 edition of the Character Naming Guide carry the same carve-out. Companion ruling the same day: C-005, the bloodline is spelled Zettari (not Zettai) everywhere; sources/ still spell it Zettai in the Pack One combat-assignment rows, so those rows' verbatim fields keep the old spelling as a known divergence.",
+    "superseded_by": []
+  },
+  {
+    "id": "R34-1-MOTO_MATERIAL_CULTURE",
+    "pack": "Moto Material Culture Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "The Moto crown-line dress pattern and the court-versus-campaign split",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.",
+    "verbatim": "The crown-line pattern is six things worn together: red enamel over dark steel, a beast-face boss, a knotwork belt, a fur mantle, a robe-over-harness silhouette, and a split between court dress and campaign dress that never collapses into one outfit with the accessories taken off. The pattern in full belongs to Kōkan. The other six Great Lines carry it in their own metal and palette, set out below.",
+    "amends": [
+      {
+        "guide": "WOTR_Visual_Aesthetic_Guide.md",
+        "locus": "Moto bloodline material culture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R21-5-MATERIAL_CULTURE_PENDING"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, including the two flagged items",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes R21-5-MATERIAL_CULTURE_PENDING (rules/doc-agamalu-buri-origin.yaml), whose proposed elements this adopts unchanged and builds out. The page grounds each element in what was already on record: the Ashen Crown's \"ironwork set with garnet\" (The Kingdom of Kharven — The Ashen Crown), Muken's Crown Mantle of Kharven and Sodoku's Field Coat (Volume I cards), Artemis Amagiri Moto's Passbreaker Mantle as the one prior campaign-worn over-robe, and the Concord baseline's quenched-dark finish and wholeness-marks-rank rule (The Apparatus of the Age). The bloodline's birth-markers (metallic skin-sheen, iris ring-lines and shard-patterns) are expressly outside this rule; they stay under the hub page's shared blood markers. A one-line cross-reference to the new page was appended to the Field Coat entry on Sodoku Moto's card.",
+    "superseded_by": []
+  },
+  {
+    "id": "R34-2-SEVEN_LINES_MATERIAL_VARIATIONS",
+    "pack": "Moto Material Culture Ruling",
+    "pack_number": null,
+    "section": "Standing Ruling",
+    "title": "Material-culture variations for the other six Great Lines",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.",
+    "verbatim": "Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-grey.",
+    "amends": [
+      {
+        "guide": "WOTR_Visual_Aesthetic_Guide.md",
+        "locus": "Moto bloodline material culture",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, including the two flagged items",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The draft flagged two of these as its most speculative items -- the Tenrai palette (built from technique-name imagery, no source fixing a colour) and the Kurenai contrast (an inference from the gap between the line's name and its ash/mourning/black technique names). Isaac ratified both as written on 2026-09-12; the wiki page states them as canon without hedging. The per-line table on the page carries the fuller wording (the Kōkan accents echo the line's metallic hair-sheen; the Shirogane/Akagane/Amagiri glosses \"Silver\", \"Copper\", \"Mist\" are the hub page's own).",
+    "superseded_by": []
+  },
+  {
+    "id": "R35-1-NARRATION_REGISTER_BANDS",
+    "pack": "Narration Registers (Psychic Distance by POV)",
+    "pack_number": null,
+    "section": "The three registers",
+    "title": "Three narration registers define psychic distance per POV character",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Every POV character carries one of three narration registers — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called \"narration register\", never \"Band\", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.",
+    "verbatim": "Every POV character carries a narration register: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called \"narration register\", not \"Band\". The Fracture of Worlds magic system already uses \"Band\" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.",
+    "amends": [
+      {
+        "guide": "WOTR_Master_Style_Directive.md",
+        "locus": "§1.1 — psychic distance / narration register",
+        "operation": "adds"
+      },
+      {
+        "guide": "WOTR_Scene_Writing_Process_Guide.md",
+        "locus": "§6 — psychic distance / narration register",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R4-OP-PSYCHIC_DISTANCE_BANDS"
+    ],
+    "applies_to": [
+      "pov",
+      "register",
+      "prose-law"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes the open item R4-OP-PSYCHIC_DISTANCE_BANDS (Pack Four, Still Open), which said FID is house default but no character has a specified band and that Amendment Thirteen's carve-out (R4-13) depends on knowing whose idiom the narration runs in. Two amends loci because the R4-OP row itself carried amends: null and the FID licence these registers parametrise lives in both guides: the Master Style Directive §1.1 is where free indirect discourse is licensed (Pack Five C.3 cites \"Directive Sec. 1.1\" for it, and R5-C3 amends that locus), and R4-13-FID_CARVEOUT, the rule these registers feed, amends the Scene Writing Process Guide §6 (desktop/NATALIE.md also files \"POV lock, psychic distance\" under that guide). TERM COLLISION, recorded not resolved: Pack Five C.3 (R5-C3-NARRATION_REGISTER_EXTENSION, live, demoted to flavour by R15-1) already uses \"narration registers\" for per-culture diction (Dawi / Eresse / Concord human / Moto POV) and its cross-reference keeps \"band\" (psychic distance) and \"register\" (culture) as two things to be \"assigned together\". Isaac ratified the draft's naming as written, so this row's \"narration register\" means the psychic-distance axis; where both senses could be read, say \"narration register (psychic distance)\" or \"culture register\". Logged in CONFLICTS.md. The published text is docs/NARRATION_REGISTERS.md (repo) and the Notion page \"Narration Registers — Psychic Distance by POV\" under The Rule Index, recorded in build/.notion_publish.json.",
+    "superseded_by": []
+  },
+  {
+    "id": "R35-2-NARRATION_REGISTER_ASSIGNMENTS",
+    "pack": "Narration Registers (Psychic Distance by POV)",
+    "pack_number": null,
+    "section": "Close register / Medium register / Distant-formal register / Unassigned",
+    "title": "Narration register assignments for the major POV cast",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.",
+    "verbatim": "Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.",
+    "amends": [
+      {
+        "guide": "WOTR_Master_Style_Directive.md",
+        "locus": "§1.1 — psychic distance / narration register",
+        "operation": "adds"
+      },
+      {
+        "guide": "WOTR_Scene_Writing_Process_Guide.md",
+        "locus": "§6 — psychic distance / narration register",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "register",
+      "prose-law"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The verbatim is the roster paragraph (\"Assignments at a glance\"); the nine per-character entries with their violation cautions follow it in full in docs/NARRATION_REGISTERS.md (sections \"Close register\", \"Medium register\", \"Distant/formal register\", \"Unassigned\"). Hild Ice and Dabney staying unassigned is part of what Isaac ratified, not a gap to fill: Hild Ice appears only inside other characters' POV, Dabney only as a four-month-old infant whose scene's interiority is his caretaker's. Grounding quotes in the entries (Darius's \"So he keeps it...\" thought, Aurelian's \"How interesting...\", Rengai's \"the specific stillness of a large animal\", Cozbi's \"It was elegant in the specific way corruption always is\") are the drafting agent's citations of scene text and were ratified with the draft. Two cautions lean on gloss-rights notes: Sodoku's on the superseded \"Sodoku never\" note (informative only), Cozbi's on the ratified \"Cozbi unlimited\" note (\"his interiority is the horror\"). Draft housekeeping flags (CAST.md's \"Lambert\" entry aggregating the family; a \"§C.3\" cross-reference that lives in pack-15, not pack-05) stay in proposals/psychic_distance_bands_draft.md and are not craft law.",
+    "superseded_by": []
+  },
+  {
+    "id": "R36-1-YASOSHIMA_SINK_YUNO_SECRET",
+    "pack": "Yasoshima Essence Sink / What House Yuno Declined to Disclose",
+    "pack_number": null,
+    "section": "What the Research Division Was Not Told",
+    "title": "Yasoshima's Essence stability is a House Yuno sink, worked by the Kagura branch at cost",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.",
+    "verbatim": "It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.",
+    "amends": [
+      {
+        "guide": "Yasoshima — The Eighty Isles (wiki page)",
+        "locus": "Yasoshima / the Research Division",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R21-5-RESEARCH_DIVISION_PENDING"
+    ],
+    "applies_to": [
+      "worldbuilding",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Answers R21-5-RESEARCH_DIVISION_PENDING (now superseded). Draft: proposals/research_division_secret_draft.md; Isaac ratified it as written on 2026-09-12 (RULINGS.md, \"Five proposals ratified wholesale\"). Published 2026-09-12 by live Notion edit: a new H1 section \"What the Research Division Was Not Told\" on the Yasoshima page, placed directly after Ambient Essence and marked with a reader's-knowledge callout (Notion heading block 3d958200-eb22-8165-b489-c78beb2e88bc); the page's Open Rulings row \"The Research Division\" resolved from \"unwritten\" to point at that section (block 8c4e0203-271d-4dcd-91aa-5ad33097cfce); one italic cross-reference line added inside the Ritual Self-Dilution callout on Ayame Yuno's Volume I card (block 3d958200-eb22-8113-a5bf-f826798d6184). Written for Yasoshima / House Yuno per the same-day C-004 ruling; no Wadatsumi, Vāimoana or Agamalu material carried. The Yuno Bloodline page under The Archaic Bloodlines mirrors the \"declined four times without explanation\" line and was deliberately left untouched (another agent was editing that folder); it still reads as the in-world, unexplained refusal, which is correct for a secret. `amends.guide` names the wiki page the text lives on, following the R31 (\"The Master Codex\") and R-shared-soul-crystal (\"The Ossuary Choir (character card)\") precedent for rulings that amend a wiki page rather than a craft guide; The Kingdom of Kharven page was not amended and so is not listed.",
+    "superseded_by": []
+  },
+  {
+    "id": "R37-1-MAHUO_ELEMENT_INVENTORY",
+    "pack": "Naming Guide Amendment / Element Inventories",
+    "pack_number": null,
+    "section": "I. Mahuo",
+    "title": "Mahuo element inventory, breath, soul and the Ledger",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.",
+    "verbatim": "Two-syllable given names built from a fixed inventory. One syllable is the generation-syllable, shared by every child of one generation within a line; the other is the personal syllable. Either syllable may occupy either position — canon shows both \"Ara Min\" and \"Mu-jin\" orderings. Family name attaches per the existing pattern; canon shows it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given name, and this inventory does not resolve which is \"correct\" — both are attested.",
+    "amends": [
+      {
+        "guide": "WOTR_Character_Naming_Guide.md",
+        "locus": "element inventories / Mahuo",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [
+      "R20-CO-REMAINING_GAPS"
+    ],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Supersedes R20-CO-REMAINING_GAPS on behalf of all four R37 rows: that colophon row only listed the four gaps, and the four inventories together are the answer to it. The full inventory (thirty elements, worked example, open flags) is on the wiki page named in the file header; the flags there (generational syllable in Ara/Min and Mu/Jin; Kwon as cadet branch or unrelated clan) were ratified as flags and are not resolved by this row.",
+    "superseded_by": []
+  },
+  {
+    "id": "R37-2-YUKARI_ELEMENT_INVENTORY",
+    "pack": "Naming Guide Amendment / Element Inventories",
+    "pack_number": null,
+    "section": "II. Yukari",
+    "title": "Yukari element inventory, thread, fate and the crow",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Yukari name is a two-element compound drawn from a thirty-element inventory in five categories (thread and fate, crow and silence, divine and dream, water/stone/grief, weight and office), and a full name carries up to five life-stage forms: childhood name, adult name taken at the Telling, calling-name, taboo true name, posthumous name. Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to the register. Whether individuals carry a second topographic surname beside \"Yukari\" stays an open flag.",
+    "verbatim": "Two-element compounds. A full name carries up to five life-stage forms: childhood name, adult name (taken at the Telling), calling-name (used by intimates), true name (taboo — spoken only among family or before Senri's stone), and posthumous name.",
+    "amends": [
+      {
+        "guide": "WOTR_Character_Naming_Guide.md",
+        "locus": "element inventories / Yukari",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Yukari is the register name in force as of 2026-09-12 (Tyurkia was swept to Yukari the same day). The open flag on the page -- whether a Yukari individual carries a second, compound-topographic surname alongside \"Yukari\" or whether \"Yukari\" absorbed that function -- was ratified as a flag and is not resolved by this row.",
+    "superseded_by": []
+  },
+  {
+    "id": "R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY",
+    "pack": "Naming Guide Amendment / Element Inventories",
+    "pack_number": null,
+    "section": "III. The Elven Branches",
+    "title": "Elven branch element inventory, shared roots and branch affixes",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share one root inventory and one affix inventory drawn from the Vey-Elarin grammar, plus one new branch-specific root each (kalen, sova, morel, faelo, verath); roots are disyllabic and open with restricted codas and every element carries a pitch contour. Branch divergence is shown on the same root, not by five separate lists. The root marin stays unglossed, and the clash with already published apostrophe-style Eressean-adjacent names stays an open flag.",
+    "verbatim": "Roots are disyllabic and open, codas restricted to a vowel, a liquid (l/r), a nasal (m/n/ny), or th. Every element carries a grammatical pitch contour (level/rising/falling).",
+    "amends": [
+      {
+        "guide": "WOTR_Character_Naming_Guide.md",
+        "locus": "element inventories / Elven branches",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The branches are named by language, not by quarter; the page says nothing about where they sit, so today's placement of the elven branches in the New World's elven old-ground is neither restated nor contradicted here. Two flags ratified as flags: (1) marin is attested with no gloss anywhere in canon and is left unglossed; (2) the amendment warns against apostrophe-style Elf naming while Volume V/VI characters such as Vaelorian Theryn Aerethiel and Argen Vael'thar use exactly that style, so this inventory reads differently from some names already on the page. Neither is resolved by this row.",
+    "superseded_by": []
+  },
+  {
+    "id": "R37-4-BEASTKIN_SOUL_NAME_INVENTORY",
+    "pack": "Naming Guide Amendment / Element Inventories",
+    "pack_number": null,
+    "section": "IV. Beastkin",
+    "title": "Beastkin soul-name inventory, circumstance, expectation and Name-Keeping",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.",
+    "verbatim": "A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.",
+    "amends": [
+      {
+        "guide": "WOTR_Character_Naming_Guide.md",
+        "locus": "element inventories / Beastkin soul-names",
+        "operation": "adds"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "naming",
+      "worldbuilding"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-12, Claude Code: ratified as written, open flags kept as flags",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Shaped as three linked layers rather than the Dawi/Moto flat category list because the amendment's own Beastkin anchor is a fixed circumstance-to-name correspondence, not a combinable phoneme pool. Two flags ratified as flags: (1) Name-Keeping is documented only for the Fox-Spirit/Mishiro lineage and the amendment's generalisation to all five is followed, not confirmed; (2) \"soul-name by birth circumstance, held name as the last thing\" is treated as one name under two descriptions, flagged in case two distinct names were intended. Neither is resolved by this row.",
     "superseded_by": []
   },
   {
@@ -3157,7 +3493,7 @@
     "pack": "Pack One",
     "pack_number": 1,
     "section": "Amendment One",
-    "title": "Dougou Zettai's canonical combat assignment",
+    "title": "Dougou Zettari's canonical combat assignment",
     "status": "live",
     "kind": "definition",
     "summary": "Percussion grammar; signature the Settling into the Iron Step, striking the ground before the body; answers plate with Black-Heart Bison Break, backforce rather than penetration; canonical.",
@@ -3180,7 +3516,7 @@
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "64"
     },
-    "notes": null,
+    "notes": "Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).",
     "superseded_by": []
   },
   {
@@ -3279,7 +3615,7 @@
     "pack": "Pack One",
     "pack_number": 1,
     "section": "Amendment One",
-    "title": "Rashani Zettai's canonical combat assignment",
+    "title": "Rashani Zettari's canonical combat assignment",
     "status": "live",
     "kind": "definition",
     "summary": "Verdict grammar; signature Origin read then Zero-Point deflection, wins by knowing rather than reaching; answers plate with a structural read through to what it's bolted to; canonical.",
@@ -3302,7 +3638,7 @@
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "62"
     },
-    "notes": null,
+    "notes": "Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).",
     "superseded_by": []
   },
   {
@@ -3310,7 +3646,7 @@
     "pack": "Pack One",
     "pack_number": 1,
     "section": "Amendment One",
-    "title": "Rengai Zettai's combat assignment, ratified 2026-09-12",
+    "title": "Rengai Zettari's combat assignment, ratified 2026-09-12",
     "status": "live",
     "kind": "definition",
     "summary": "Percussion grammar; signature the Return, narrowing post-injury into economy rather than flourish; answers plate by using it (joints and base); the post-injury reading follows from the Cinder Lung material and needs confirmation.",
@@ -3333,7 +3669,7 @@
       "file": "WOTR_Companion_Guide_Amendments.md",
       "lines": "63"
     },
-    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched, including the post-injury reading.",
+    "notes": "Not ratified in the 2026-09-12 session (Isaac ratified Yoko only). RULED 2026-09-12, later: ratified as pitched, including the post-injury reading. Source spells the bloodline Zettai; ruled Zettari 2026-09-12 (C-005).",
     "superseded_by": []
   },
   {
@@ -4486,7 +4822,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Two.md",
       "lines": "116"
     },
-    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a background research agent -- Agano Sand and the Witnessed Temper, a Vow Clause application. Full draft in proposals/zettari_forge_culture_draft.md, logged in proposals/PROPOSED.md. Surfaced a real naming split while drafting it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before this pitch is ratified.",
+    "notes": "Restated near-identically (without the Cask-Oath Pitch detail) in Packs Three and Four; see R3-OP-ZETTARI_DOCKET and R4-OP-ZETTARI_DOCKET. RULED 2026-09-12: yes, draft it. Drafted by a background research agent -- Agano Sand and the Witnessed Temper, a Vow Clause application. Full draft in proposals/zettari_forge_culture_draft.md, logged in proposals/PROPOSED.md. Surfaced a real naming split while drafting it: CONFLICTS.md C-005 (Zettari vs. Zettai) should be settled before this pitch is ratified. C-005 ruled 2026-09-12: Zettari; that blocker is cleared, the pitch itself still awaits Isaac's read.",
     "superseded_by": []
   },
   {
@@ -6307,7 +6643,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "225"
     },
-    "notes": "Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an ongoing production process); not the same task but the same underlying gap. RULED 2026-09-12: audit run (findings-only, no fixes made). Confirmed the flag: Cozbi Mahuo's technique table has no Cost or Limit column at all (the worst finding — the single most-scened character in the cast), Yoko Mishiro's has the same gap, and Kwon Mu-jin asserts costs without naming them. Clean: Aurelian, Verinus VII, Sodoku Moto, Niran Yukari, Rengai Zettai, Gimbzo. Also surfaced a bigger structural gap: four major-cast characters by scene count (Darius, Charles, Dhaerin, Wren) have no character sheet at all, so their costs were never checkable. Full report: reports/cost_taxonomy_audit_2026-09-12.md.",
+    "notes": "Related to Pack Seven's cost audit (R7-5-COST_AUDIT, kept live as an ongoing production process); not the same task but the same underlying gap. RULED 2026-09-12: audit run (findings-only, no fixes made). Confirmed the flag: Cozbi Mahuo's technique table has no Cost or Limit column at all (the worst finding — the single most-scened character in the cast), Yoko Mishiro's has the same gap, and Kwon Mu-jin asserts costs without naming them. Clean: Aurelian, Verinus VII, Sodoku Moto, Niran Yukari, Rengai Zettari, Gimbzo. Also surfaced a bigger structural gap: four major-cast characters by scene count (Darius, Charles, Dhaerin, Wren) have no character sheet at all, so their costs were never checkable. Full report: reports/cost_taxonomy_audit_2026-09-12.md.",
     "superseded_by": []
   },
   {
@@ -6332,7 +6668,7 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "224"
     },
-    "notes": "Pack Thirteen §9 later states these run \"in the same edition\" as its Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item was eventually addressed. RULED 2026-09-12: draft the remaining gaps. Turned out most of the named cast already has a canonical assignment (Sodoku Moto, Rashani Zettai, Dougou Zettai in this pack; Cozbi Mahuo in Pack Three) plus the newly-ratified Rengai and Black Agent rows. Two new proposed assignments drafted and logged as R4-HEMA-WREN and R4-HEMA-EDWARD_LAMBERT (both status:proposed, pending Isaac's read of the actual content). Considered and skipped as pure unarmed/Essence combatants with no blade to hang HEMA vocabulary on: Darius (Muay-Thai clinch/elbows/knees; owns a hammer, \"has never once struck with it\"), Verinus VII (fire/wings caster, no weapon), Charles Lambert (unarmed evasion, \"had nothing to strike with\"), Dhaerin (grimoire/construct caster), Aurelian (precognitive caster, doesn't fight on-page), Kwon Mu-jin (ice/Aetheric caster), Gimbzo (unarmed wrestling instructor). Flagged, not drafted: Kaalabad, a named halberd-wielding antagonist across the Wren scenes, is not tracked in scenes/CAST.md and was left out of scope rather than invent an assignment for an untracked character — worth a look if antagonist coverage is wanted later.",
+    "notes": "Pack Thirteen §9 later states these run \"in the same edition\" as its Combat Guide rewrite (R13-9-COMBAT_GUIDE_EDIT), suggesting this item was eventually addressed. RULED 2026-09-12: draft the remaining gaps. Turned out most of the named cast already has a canonical assignment (Sodoku Moto, Rashani Zettari, Dougou Zettari in this pack; Cozbi Mahuo in Pack Three) plus the newly-ratified Rengai and Black Agent rows. Two new proposed assignments drafted and logged as R4-HEMA-WREN and R4-HEMA-EDWARD_LAMBERT (both status:proposed, pending Isaac's read of the actual content). Considered and skipped as pure unarmed/Essence combatants with no blade to hang HEMA vocabulary on: Darius (Muay-Thai clinch/elbows/knees; owns a hammer, \"has never once struck with it\"), Verinus VII (fire/wings caster, no weapon), Charles Lambert (unarmed evasion, \"had nothing to strike with\"), Dhaerin (grimoire/construct caster), Aurelian (precognitive caster, doesn't fight on-page), Kwon Mu-jin (ice/Aetheric caster), Gimbzo (unarmed wrestling instructor). Flagged, not drafted: Kaalabad, a named halberd-wielding antagonist across the Wren scenes, is not tracked in scenes/CAST.md and was left out of scope rather than invent an assignment for an untracked character — worth a look if antagonist coverage is wanted later.",
     "superseded_by": []
   },
   {
@@ -6382,8 +6718,10 @@
       "file": "WOTR_Companion_Guide_Amendments_Pack_Four.md",
       "lines": "223"
     },
-    "notes": "Cross-reference note corrected 2026-09-12: the \"§C.3\" text this row cited as Pack Five's is not verbatim in pack-05-five.yaml; \"§C.3\" actually occurs in pack-15-fifteen.yaml on an unrelated topic. RULED 2026-09-12: yes, define bands now. Drafted by a background research agent for nine major POV characters (Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin close; Rengai medium; Cozbi Mahuo distant/formal), each grounded in scene text with a violation caution; two (Hild Ice, Dabney) flagged as needing more source. Called \"narration register,\" not \"Band,\" to avoid collision with the unrelated FOW Coherence Band stat. Not yet reviewed by Isaac. Full draft in proposals/psychic_distance_bands_draft.md, logged in proposals/PROPOSED.md.",
-    "superseded_by": []
+    "notes": "Cross-reference note corrected 2026-09-12: the \"§C.3\" text this row cited as Pack Five's is not verbatim in pack-05-five.yaml; \"§C.3\" actually occurs in pack-15-fifteen.yaml on an unrelated topic. RULED 2026-09-12: yes, define bands now. Drafted by a background research agent for nine major POV characters (Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin close; Rengai medium; Cozbi Mahuo distant/formal), each grounded in scene text with a violation caution; two (Hild Ice, Dabney) flagged as needing more source. Called \"narration register,\" not \"Band,\" to avoid collision with the unrelated FOW Coherence Band stat. Not yet reviewed by Isaac. Full draft in proposals/psychic_distance_bands_draft.md, logged in proposals/PROPOSED.md. RATIFIED 2026-09-12, Isaac, as written: superseded by R35-1-NARRATION_REGISTER_BANDS and R35-2-NARRATION_REGISTER_ASSIGNMENTS (rules/doc-psychic-distance-registers.yaml; text published at docs/NARRATION_REGISTERS.md and the Notion page \"Narration Registers — Psychic Distance by POV\" under The Rule Index).",
+    "superseded_by": [
+      "R35-1-NARRATION_REGISTER_BANDS"
+    ]
   },
   {
     "id": "R4-OP-ZETTARI_DOCKET",

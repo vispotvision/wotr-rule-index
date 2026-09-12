@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-473 live of 585 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+483 live of 595 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (25)
 
@@ -1583,7 +1583,7 @@ The Accord files every practitioner under given name, family or patronymic, cult
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
 
-## items (19)
+## items (21)
 
 ### R18-5-ALCHEMY_SOURCE_ORDER [Pack Eighteen §5]
 
@@ -1686,6 +1686,18 @@ Essence cannot be shipped (it leaks in transit, needs an untransportable instrum
 Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 
 > Percussion answers to plate: none of these seek to penetrate. Plate is not defeated by percussion, it is used. The armour transmits force inward, and the correct target is the joint, the base, the balance and the man's ability to keep standing in fifty pounds of steel. A percussion fighter's answer to plate is to make the plate expensive to wear.
+
+### R34-1-MOTO_MATERIAL_CULTURE [Moto Material Culture Ruling Standing Ruling]
+
+Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
+
+> The crown-line pattern is six things worn together: red enamel over dark steel, a beast-face boss, a knotwork belt, a fur mantle, a robe-over-harness silhouette, and a split between court dress and campaign dress that never collapses into one outfit with the accessories taken off. The pattern in full belongs to Kōkan. The other six Great Lines carry it in their own metal and palette, set out below.
+
+### R34-2-SEVEN_LINES_MATERIAL_VARIATIONS [Moto Material Culture Ruling Standing Ruling]
+
+Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.
+
+> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-grey.
 
 ### R22-4-KUROSETSU_SCABBARD_SURVIVES [Moto Reversion Ledger IV]
 
@@ -2133,7 +2145,7 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## magic-mechanism (95)
+## magic-mechanism (96)
 
 ### R18-4-GLYPH_NAMING_CONTEXTS [Pack Eighteen §4]
 
@@ -2708,6 +2720,12 @@ The three layers do not fuse identically. The Essence Cores never fuse: each don
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
 
+### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
+
+Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
+
+> It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.
+
 ## mass-combat (38)
 
 ### R3-8-NAVAL_SENSORY_HIERARCHY [Pack Three Amendment Eight §12]
@@ -2938,7 +2956,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (79)
+## naming (84)
 
 ### R16-6-COINAGE_HANDLING [Pack Sixteen §6]
 
@@ -3095,6 +3113,30 @@ Folded into the cost audit: re-cut every existing technique entry into the §1.3
 The Malō of Sātūlagi does not exist and never did; the Büri hold one seat and it is Kharven.
 
 > Sātūlagi | Struck from canon. The Malō of Sātūlagi does not exist and never did. The Büri hold one seat and it is Kharven.
+
+### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
+
+A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
+
+> Two-syllable given names built from a fixed inventory. One syllable is the generation-syllable, shared by every child of one generation within a line; the other is the personal syllable. Either syllable may occupy either position — canon shows both "Ara Min" and "Mu-jin" orderings. Family name attaches per the existing pattern; canon shows it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given name, and this inventory does not resolve which is "correct" — both are attested.
+
+### R37-2-YUKARI_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories II. Yukari]
+
+A Yukari name is a two-element compound drawn from a thirty-element inventory in five categories (thread and fate, crow and silence, divine and dream, water/stone/grief, weight and office), and a full name carries up to five life-stage forms: childhood name, adult name taken at the Telling, calling-name, taboo true name, posthumous name. Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to the register. Whether individuals carry a second topographic surname beside "Yukari" stays an open flag.
+
+> Two-element compounds. A full name carries up to five life-stage forms: childhood name, adult name (taken at the Telling), calling-name (used by intimates), true name (taboo — spoken only among family or before Senri's stone), and posthumous name.
+
+### R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories III. The Elven Branches]
+
+The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share one root inventory and one affix inventory drawn from the Vey-Elarin grammar, plus one new branch-specific root each (kalen, sova, morel, faelo, verath); roots are disyllabic and open with restricted codas and every element carries a pitch contour. Branch divergence is shown on the same root, not by five separate lists. The root marin stays unglossed, and the clash with already published apostrophe-style Eressean-adjacent names stays an open flag.
+
+> Roots are disyllabic and open, codas restricted to a vowel, a liquid (l/r), a nasal (m/n/ny), or th. Every element carries a grammatical pitch contour (level/rising/falling).
+
+### R37-4-BEASTKIN_SOUL_NAME_INVENTORY [Naming Guide Amendment / Element Inventories IV. Beastkin]
+
+A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
+
+> A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
 
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
@@ -3414,7 +3456,13 @@ Fleshshaper Goblin register is governed by the fact that they are surgeons who t
 
 > The governing principle: they are surgeons, and they talk like surgeons who have never been told to be squeamish about it.
 
-## pov (36)
+### R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC [Zettari Naming Register Ruling Standing Ruling]
+
+The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
+
+> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
+
+## pov (38)
 
 ### R19-4-ICEBERG_DIALOGUE [Pack Nineteen §4]
 
@@ -3632,7 +3680,19 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
-## prose-law (115)
+### R35-1-NARRATION_REGISTER_BANDS [Narration Registers (Psychic Distance by POV) The three registers]
+
+Every POV character carries one of three narration registers — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
+
+> Every POV character carries a narration register: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration register", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
+
+### R35-2-NARRATION_REGISTER_ASSIGNMENTS [Narration Registers (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
+
+Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
+
+> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
+
+## prose-law (117)
 
 ### R19-2-FIXED_TEXT [Pack Nineteen §2]
 
@@ -4312,6 +4372,18 @@ Introduce a character by whatever name the POV character would use (formal on fi
 
 > Prose convention: introduce a character by whatever name the POV character would use. A practitioner meeting another practitioner for the first time uses the formal address. An intimate uses the personal name. A stranger uses the Third Name if they have heard it, and a physical description if they have not. The narrator uses the name the scene has established and does not switch without a reason, because a name-switch in narration is a statement about how the character's relationship to the reader has changed.
 
+### R35-1-NARRATION_REGISTER_BANDS [Narration Registers (Psychic Distance by POV) The three registers]
+
+Every POV character carries one of three narration registers — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
+
+> Every POV character carries a narration register: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration register", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
+
+### R35-2-NARRATION_REGISTER_ASSIGNMENTS [Narration Registers (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
+
+Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
+
+> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
+
 ### R24-2-ELADRIN_THREE_CHANNELS [Racial Voice and Dialect Guide Amendment II]
 
 Prose must render at least two of three simultaneous channels in any exchange of consequence — sparse speech that rarely carries the content, distance (approach is agreement, a half-step back is objection, turning without moving the feet is refusal), and stillness (complete stillness is often the loudest thing in the room).
@@ -4324,7 +4396,7 @@ Never write an Eladrin line of dialogue without a distance or stillness beat att
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
 
-## register (98)
+## register (101)
 
 ### R19-4-REGISTER_UNDER_STRESS [Pack Nineteen §4]
 
@@ -4854,6 +4926,18 @@ Birth name (Concord Common) plus ordination name (Latin, chosen or assigned at v
 
 > Real anchor: Latin ecclesiastical naming conventions. The Papal naming tradition (a chosen name at elevation, replacing the birth name), monastic naming (a new name at profession of vows), and the specific Latin-compound naming of the late medieval Catholic Church.
 
+### R35-1-NARRATION_REGISTER_BANDS [Narration Registers (Psychic Distance by POV) The three registers]
+
+Every POV character carries one of three narration registers — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
+
+> Every POV character carries a narration register: how far the narration stands from the character's own idiom in that character's POV scenes. There are three. - Close register. Narration fuses with the character's own idiom. Sustained italicized direct thought is available, and even non-italic narration stays inside the character's trained vocabulary. The narration can be wrong the way the character is wrong. - Medium register. POV stays with the character and never head-hops, but emotion arrives via external behavioral description or simile rather than a fused personal idiom. No italicized direct thought. - Distant/formal register. An omniscient, epigrammatic narratorial voice describes the character from outside, with only occasional aphoristic italics. The distance is itself characterization, and it is the one register licensed for more narratorial explanation than the others get. The field is called "narration register", not "Band". The Fracture of Worlds magic system already uses "Band" for a different, unrelated stat (Coherence Band A–F), and the two should never appear interchangeably in the same sentence.
+
+### R35-2-NARRATION_REGISTER_ASSIGNMENTS [Narration Registers (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned]
+
+Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
+
+> Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
+
 ### R24-1-FLESHSHAPER_GOVERNING_PRINCIPLE [Racial Voice and Dialect Guide Amendment I]
 
 Fleshshaper Goblin register is governed by the fact that they are surgeons who talk like surgeons never told to be squeamish about it.
@@ -4913,6 +4997,12 @@ Idiom draws on measure, position and law (out of position, standing, no place, r
 All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
+
+### R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC [Zettari Naming Register Ruling Standing Ruling]
+
+The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
+
+> The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
 ## scene-structure (25)
 
@@ -5929,7 +6019,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (103)
+## worldbuilding (110)
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -6303,6 +6393,30 @@ With Sātūlagi struck, the six non-Kōkan/non-crown lines are landless; every l
 
 > With Sātūlagi struck, the six non-Kōkan lines are landless. Kurenai, Tenrai, Amagiri and the rest hold inherited authority with no ground to exercise it on, and every line's ambition must route through Kharven or through nothing.
 
+### R37-1-MAHUO_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories I. Mahuo]
+
+A Mahuo given name is two syllables drawn from a fixed thirty-element inventory in five categories (breath and soul, Ledger and record, house and clan-seat, precision and correction, care and healing); one syllable is the generation-syllable shared across a cohort, the other is personal, either may take either position, and the family name may precede or follow since canon attests both orders. Which syllable is generational in the attested pairs, and whether Kwon is a Mahuo cadet branch, stay open flags.
+
+> Two-syllable given names built from a fixed inventory. One syllable is the generation-syllable, shared by every child of one generation within a line; the other is the personal syllable. Either syllable may occupy either position — canon shows both "Ara Min" and "Mu-jin" orderings. Family name attaches per the existing pattern; canon shows it both preceding (Kwon Mu-jin) and following (Cozbi Mahuo) the given name, and this inventory does not resolve which is "correct" — both are attested.
+
+### R37-2-YUKARI_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories II. Yukari]
+
+A Yukari name is a two-element compound drawn from a thirty-element inventory in five categories (thread and fate, crow and silence, divine and dream, water/stone/grief, weight and office), and a full name carries up to five life-stage forms: childhood name, adult name taken at the Telling, calling-name, taboo true name, posthumous name. Only Ketsu, En, Jin and Mu are canon-attested; the rest are coined to the register. Whether individuals carry a second topographic surname beside "Yukari" stays an open flag.
+
+> Two-element compounds. A full name carries up to five life-stage forms: childhood name, adult name (taken at the Telling), calling-name (used by intimates), true name (taboo — spoken only among family or before Senri's stone), and posthumous name.
+
+### R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY [Naming Guide Amendment / Element Inventories III. The Elven Branches]
+
+The five elven branches (Eressean, Varrisak, Drow, Eladrin, Echo Elves) share one root inventory and one affix inventory drawn from the Vey-Elarin grammar, plus one new branch-specific root each (kalen, sova, morel, faelo, verath); roots are disyllabic and open with restricted codas and every element carries a pitch contour. Branch divergence is shown on the same root, not by five separate lists. The root marin stays unglossed, and the clash with already published apostrophe-style Eressean-adjacent names stays an open flag.
+
+> Roots are disyllabic and open, codas restricted to a vowel, a liquid (l/r), a nasal (m/n/ny), or th. Every element carries a grammatical pitch contour (level/rising/falling).
+
+### R37-4-BEASTKIN_SOUL_NAME_INVENTORY [Naming Guide Amendment / Element Inventories IV. Beastkin]
+
+A Beastkin soul-name is a circumstance-element (how the birth went, Akan-day-name style) spoken together with an expectation-element (the attribute the child is charged to grow into, flavoured by lineage stat), and the held-name is whichever fragment survives when home, rank and kin are gone; a third layer supplies the Name-Keeping ritual vocabulary. Whether the four non-Fox lineages actually practise Name-Keeping, and whether soul-name and held-name are one name or two, stay open flags.
+
+> A soul-name has two parts spoken together: the circumstance-element (what the birth was like, Akan-day-name style) and the expectation-element (the attribute the child is charged to grow into). The held-name is whichever fragment survives when everything else — home, rank, kin — has been taken.
+
 ### R23-1-POLYNESIAN_REGISTER_STRUCK [Inner World Naming Amendment I]
 
 Samoan phonotactics, the fa'amatai title system, the aiga, the Ava-name slot, the gafa, and every Moto name built from them are dead; the Polynesian register survives nowhere in the Inner World naming baseline (the Agamalu house's own naming is a separate question, not an Inner World register — see notes).
@@ -6404,6 +6518,18 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R34-1-MOTO_MATERIAL_CULTURE [Moto Material Culture Ruling Standing Ruling]
+
+Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
+
+> The crown-line pattern is six things worn together: red enamel over dark steel, a beast-face boss, a knotwork belt, a fur mantle, a robe-over-harness silhouette, and a split between court dress and campaign dress that never collapses into one outfit with the accessories taken off. The pattern in full belongs to Kōkan. The other six Great Lines carry it in their own metal and palette, set out below.
+
+### R34-2-SEVEN_LINES_MATERIAL_VARIATIONS [Moto Material Culture Ruling Standing Ruling]
+
+Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.
+
+> Only Kōkan holds a seat. The other six Great Lines are landless since the western seat's fall, and their material culture is portable, worn-on-the-body wealth rather than the fixed authority Kōkan expresses through a literal crown and a literal seat. Each of the six carries the pattern in its own metal and palette: Shirogane in bright silver, Akagane in copper and red-bronze, Kurenai in black and ash with the crimson hidden, Byakuya in near-white, Tenrai in gold and banner-heraldry, Amagiri in indigo and mist-grey.
 
 ### R22-1-HOUSE_STRUCK [Moto Reversion Ledger I]
 
@@ -6548,3 +6674,9 @@ All three registers are originations contradicting no existing lore (none existe
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
+
+### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
+
+Yasoshima's Essence stability is not natural. For two hundred thousand years House Yuno's Kagura branch has used the island as a sink, gathering and metabolising the world's ambient Essence drift one convergence rite at a time through the deepest reach of Tōbō no Michi; the ore-less islands are the right vessel because nothing in them distorts what is poured in. The working is paid for: the Kagura officiants who hold each convergence spend a sliver of their own selfhood into the pattern (Ritual Self-Dilution, the cost Ayame's own card names for her single-city version at Kharven). The house refuses the Research Division because an outside apparatus measuring the sink changes what it is holding (Kiyome's bar on profane or unstable use), because a partial account is itself a badly formed act, and because the mechanism is the only leverage that has kept the island unconquered. Consequence hook if forced open: the load backs up and discharges violently at Yasoshima, a mainland Measurewright reading spikes for the first time in recorded history, the island becomes the most contested ground in the four quarters, and the house's silence recoils on whoever breaks it like a sealed vow. Reader's knowledge only; no character outside the Kagura officiant line knows it.
+
+> It is stable because House Yuno has spent two hundred thousand years making it a drain. Every fracture, every fanning-out of chaotic Essence that the rest of the four quarters absorbs and calls weather — the ordinary drift that keeps Measurewrights employed everywhere else in the world — the Kagura branch has been quietly gathering to itself and metabolising, one convergence rite at a time, through the deepest reach of Tōbō no Michi. Yasoshima does not merely tolerate Essence better than anywhere else. It is where a portion of the world's disorder goes to stop being disorder.

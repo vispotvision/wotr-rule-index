@@ -1,47 +1,47 @@
 # Oathrend
 
-> **Migration note.** The old card filed this as "Manifestus," which no longer fits: current Manifestus is an involuntary short-lived flare triggered by emotional pressure, a Trait preview nobody aimed, and Oathrend is the opposite of that on every axis, deliberate, targeted, and structured around a specific bound object. The card's own description, a working that unmakes a vow's "metaphysical chain," maps directly onto Claustra, the current Category for binding and lawful imprisonment against a thing's own nature, whose documented failure mode is exactly what Oathrend induces: a Claustra working that loses its sustaining anchor does not weaken, it opens. Wellspring assignment follows from that: Dissolution, the Unbinding Stream, is the current Limina Wellspring built for exactly this kind of unmaking. Purganeth and Edenis are both attested current Realms (Purganeth as Dazkar's Titanic seat of Judgment and Penance, Edenis as Florwyn's seat); Lysandra Velkaris's oath to "Purganeth's ancient law" is kept as consistent in spirit with Dazkar's karmic-return doctrine even though her own card is unattested. Zeven Halek is an attested current character (Master Guilder, Commander of Accord Field Operations); the card's claim that he once invoked a personal Oathrend to sever a dead comrade's Concord tether is kept as an item in his history that his current sheet neither confirms nor rules out, since his attested Wellsprings (Aeolyth, Cinerion, Eclipseron, Fixatio) do not include Dissolution and the event is flagged accordingly. Lysandra Velkaris and the Ashblood Apostates are unattested and kept as the card's necessary cast. The Threefold Concord of Athame, the Pact of Renewal, the Crown Accords, and the ban across the Innerworld's Temple Courts are unattested named events kept as historical texture.
+> **Migration note.** Kept: the rite's function (forcibly breaking a binding oath, soul-pact, blood rite, or divine contract and sundering its consequences across every plane it was enforced on), its reputation for retribution and divine attention, the "Echo Scar" it leaves, and all three named practitioners/factions. Converted: the card's "Manifestus Class" cannot stand — current Manifestus is defined as an involuntary, short-lived Trait-flare triggered by emotional spike ("nobody aimed it"), and Oathrend is a deliberate, targeted act, which is exactly the old-system-vocabulary problem the conversion rules warn about. I reassigned it to Claustra (Spirit ↔ Attraction), the category that already governs binding, sealing and lawful imprisonment "against its own nature" — an oath is a Claustra-class seal, and Oathrend is what happens when that seal's anchor is attacked rather than renewed. Wellspring: Nihiloth, the Hollow Law (imposes law that isn't there), Family Limina. Craft Spellcraft (a spoken renunciation). Purganeth is attested in current canon as Dazkar's Spiritual Seat, governing Judgment, Balance, Karmic Return, Justice and Penance — a stronger fit for "Purganeth's ancient law" than the card could have known. Stage/Grade are not on the card; given the effect (provoking Archon- and Titan-level attention, causing recorded Mass Soul Collapses) I set the floor at Stage IX, the Stage whose own Threshold Catalyst is "calling on Wellsprings/Titans/Archonic law as co-authors" — logged here rather than left as an estimate. **Unattested in current canon:** Zeven Halek, Lysandra Velkaris, the Ashblood Apostates, the Threefold Concord of Athame, the Pact of Renewal, the Innerworld's Temple Courts (the Inner World quarter is attested; this institution is not), the Crown Accords as a named event (the Crown/Accord legitimacy split itself is attested), Concord Seers and Wellspring Tenders as named offices. Parun glyphs Ra, Ka, Lo and Ci are not confirmed against the portion of the 136-form Master Glyph Index retrieved for this pass and are flagged rather than asserted.
 
 ## Summary card
 
-**Effect** · The caster forcibly ends an existing oath, soul-pact, blood rite, or divine contract by severing the standing claim on the Plane of Fate that keeps it renewed, and every party still bound to it feels the bond fail at the same instant.
-**Cost** · A working this size is paid from the caster's own Attraction Layer as much as from raw reserve; casting it against a bond one had no part in making costs measurably more than unmaking one's own.
-**Limit** · Oathrend only unmakes what is already a standing, lawfully sealed bond. It has no purchase on an intention that was never formalized into one.
-**Counter** · A bond actively renewed by both parties at the moment of the attempt resists in proportion to how recently it was renewed; a bond nobody is tending to keep alive, out of neglect rather than strength, is the easiest target Oathrend has.
-> **What nobody knows.** Why some severed bonds leave every party with a matching Echo Scar and others leave nothing detectable at all, with no confirmed correlation to the bond's age, its parties, or which Wellspring sealed it originally.
+**Effect** · Forcibly breaks a sworn oath, soul-pact, blood rite, or divine contract, and the break registers across every plane the oath was enforced on — everyone bound to it feels the fracture.
+**Cost** · The caster's Resilience Oath sub-stat takes the working's full weight; breaking a vow through force rather than release costs the caster something structurally identical to what the vow itself would have cost to keep.
+**Limit** · It only works on a real, standing commitment. The working reads actual reciprocity and cannot invent an obligation where none exists — there must be a vow in force to unmake.
+**Counter** · A commitment mirrored under Dazkar's own law (a Purganeth-sworn oath) reflects the breaking back on whoever attempted it in exact kind, undiminished; an ordinary oath has no such reflection and simply comes apart.
+> **What nobody knows.** Why an oath sworn under duress shatters cleanly while one sworn freely and later regretted tends to leave the worst Echo Scars — the variable is not sincerity, and nobody has isolated a second one.
 
 ## Codex line
 
-**Wellspring** · Dissolution, the Unbinding Stream (primary)
-**Family** · Limina
-**Physics Domain** · Entropy, Void and Mind
-**Category** · Claustra
-**Craft** · Spellcraft
-**Stage floor** · IX, Invocation
-**Grade required** · S-Grade, late push toward SS-Grade
-**Path gate** · Attraction Path
+Wellspring · **Nihiloth**, the Hollow Law (primary).
+Family · **Limina** — Entropy, Void and Mind.
+Physics Domain · Field cancellation / destructive interference.
+Category · **Claustra** (Spirit ↔ Attraction) — reassigned from the card's original Manifestus; see migration note.
+Craft · **Spellcraft** (a spoken renunciation).
+Stage floor · **Stage IX — Invocation**.
+Grade required · **S-Grade**.
+Path gate · None documented.
 
 ## Design Chain
 
-**Trigger** · An oath, pact, or contract that is currently live and being actively sustained; Oathrend has nothing to act on against a bond that has already lapsed on its own.
-**Function** · Locates the Fate-side anchor sustaining a Claustra-class binding and severs the renewal that keeps it seated, rather than attacking the bond's Soul Plane syntax directly.
-**Mechanism** · The real-world analogue is resonant destructive interference, striking a bound structure at the exact frequency that opposes what is already holding it together, the way a matched countertone can shatter a resonating object from within rather than from an external blow. A Claustra binding's duration is a Fate-side claim renewed continuously by something; Oathrend supplies a counter-claim tuned to cancel that renewal rather than overpower it.
-**Numerical Effect** · At the Stage IX floor (625-point stat ceiling) the working draws an estimated high five to low six-figure EU cost against a bond the caster helped seal, scaling upward against a bond sealed and sustained by someone else entirely; figures are estimates inside the documented Stage IX range, not sourced numbers.
-**Target Response** · Every party still bound at the moment of severance registers the break as a felt wound, described consistently as the sudden absence of something they had stopped noticing was present; bound parties within line of the working's Attraction radius report the same instant.
-**Consequence** · The world briefly registers the vow's absence as a local discontinuity in whatever it was enforcing; wards, protections, or obligations that depended on the oath's standing lapse in the same instant rather than degrading gradually.
-**Limitation** · Oathrend unmakes the bond. It does not restore anything the bond was suppressing, erase the memory of having made it, or prevent a new bond from being sealed in its place.
-**Weakness** · The working must locate the specific renewal mechanism keeping the target bond alive before it can counter-tune to it, which takes measurable time against a bond whose renewal is deliberately obscured or distributed across several parties.
-**Cost** · Retribution, backlash, and unwanted divine attention are the documented standing costs, since severing a bond a higher power has an interest in is read by that power as an act regardless of the caster's intent.
-**Counterplay** · Actively renew the target bond from both ends the moment severance is attempted; a coordinated renewal outpaces a single counter-claim, and the documented failure case for Oathrend is a bond both parties refuse to let lapse.
+**Trigger** · A standing oath, pact, or contract the caster has standing to address (their own, or one they have been given cause and authority to attack) is named and directly confronted.
+**Function** · Imposes an antiphase counter-field against the oath's own binding architecture rather than attacking the parties to it — the working targets the Claustra seal, not the souls it holds.
+**Mechanism** · Destructive interference. A Claustra-class bond is a standing field held open by a continuous claim; Oathrend generates a field of equal magnitude and opposite phase across that same anchor point, and the two sum to zero the way two opposed waves cancel rather than fight. The seal does not weaken. It opens.
+**Numerical Effect** · At Stage IX / S-Grade, cancelling a personal-scale oath costs an estimated 90,000–130,000 EU and completes in under a second once the counter-field locks; a multi-party or divinely-witnessed pact runs toward the top of the range and can require a sustained cast of several seconds to fully null every anchor point.
+**Target Response** · Every party still bound to the oath feels the cancellation simultaneously, reported consistently as a felt absence rather than pain — "the world momentarily registers the vow's absence like a wound."
+**Consequence** · The vow's consequences unwind across every plane they were enforced on. What the oath was holding together (a truce, a bloodline claim, a Realm's stability) is no longer held by anything, and whatever else was load-bearing on that hold now has to carry its own weight or fail.
+**Limitation** · The working cannot manufacture an obligation — it reads and cancels a real, standing Claustra seal and does nothing at all against a target with no oath currently in force.
+**Weakness** · A Mirrored-Scale-class working (Purganeth's own reciprocity law) turns the caster's own counter-field back on them in exact kind; this is the one documented case where the caster, not the oath, absorbs the working.
+**Cost** · EU per the Numerical Effect line, and a Resilience Oath toll on the caster equal to what honouring the broken vow would have cost.
+**Counterplay** · Establish the oath under Purganeth-witnessed reciprocity before it can be targeted, or catch the counter-field before it locks — once it locks, the seal opens regardless of who is watching.
 
 ## FOW line
 
-**Governing Primary** · Resilience (Oath, Anchoring) and Dominion (Command)
-**Stage floor** · IX, Invocation
-**Grade required** · S-Grade, late push toward SS-Grade
-**Path gate** · Attraction Path
-**Resonant Pair** · None documented
+Governing Primary · **Resilience** (Oath, Persistence), secondary **Dominion** (Sovereignty).
+Stage floor · Stage IX — Invocation.
+Grade required · S-Grade.
+Path gate · None documented.
+Resonant Pair · None documented.
 
 ## Origin
 
-Zeven Halek is credited with one field use, breaking a dead comrade's Concord tether to spare Cylus Verenn from soul collapse; both men are attested as having lost their original squad together in the Ivory Vault Collapse, which is consistent context for such an act even though Halek's current sheet does not list Dissolution among his harmonizations, and the instance is kept flagged rather than folded silently into his attested kit. Lysandra Velkaris is credited with using Oathrend to free herself from a holy Sacrament binding her to Purganeth's law, choosing mortal free will over the bond; she is unattested but kept as the card's second named case, a self-directed rather than other-directed severance. The Ashblood Apostates are kept as the card's example of Oathrend practiced as doctrine rather than as a single desperate act.
+A documented, standing working rather than a single self-derived technique — the card gives it to three separate lineages of use (Zeven Halek's single battlefield invocation, Lysandra Velkaris's rejection of divine bondage, the Ashblood Apostates' standing liberation doctrine), all unattested in current canon and kept because the card's history does not resolve without them. As a named, taught technique it is counterable by anyone who has studied a prior Oathrend case, per the named-inventor rule.

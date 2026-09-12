@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Walk the supersession graph and emit the resolved index.
 
-Writes out/rules.resolved.json, out/rules.live.md and out/docket.md.
+Writes out/rules.resolved.json, out/rules.live.md, out/rules.live.full.md and out/docket.md.
 Resolves nothing that the source text did not state. Where a rule is superseded
 by something, that link came from a quotable line in a pack, not from an
 assumption about pack ordering.
@@ -51,6 +51,29 @@ def main() -> int:
             lines.append(f"- **{rule['id']}** [{rule['pack']} {rule['section']}] {rule['summary'].strip()}")
         lines.append("")
     (OUT_DIR / "rules.live.md").write_text("\n".join(lines), encoding="utf-8")
+
+    # same grouping with the source quote under each rule, for a writing
+    # session that has the file but not query.py (Claude Desktop project knowledge)
+    full = ["# Live rules by domain, with source text", ""]
+    full.append(
+        f"{len(live)} live of {len(rules)} extracted. Newest pack first within each domain; "
+        "the newer rule governs where two overlap."
+    )
+    full.append("")
+    for tag in sorted(load_vocab()):
+        hits = sorted(grouped.get(tag, []), key=lambda r: -(r.get("pack_number") or 0))
+        if not hits:
+            continue
+        full.append(f"## {tag} ({len(hits)})")
+        full.append("")
+        for rule in hits:
+            full.append(f"### {rule['id']} [{rule['pack']} {rule['section']}]")
+            full.append("")
+            full.append(rule["summary"].strip())
+            full.append("")
+            full.append(f"> {rule['verbatim'].strip()}")
+            full.append("")
+    (OUT_DIR / "rules.live.full.md").write_text("\n".join(full), encoding="utf-8")
 
     # the docket
     pending = sorted(

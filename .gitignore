@@ -14,3 +14,8 @@ build/.narrate-*.log
 build/.chatterbox_worker.log
 build/.supertonic_worker.log
 build/voices/bakeoff/
+build/voices/refs/*.wav
+build/voices/refs/.*.json
+build/.qwen_worker.log
+build/.supertonic_worker.log
+build/mcp_test.log

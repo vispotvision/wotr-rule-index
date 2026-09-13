@@ -150,3 +150,15 @@ than best-of-N can.
 - ~~Black Agent's and Rengai's combat assignments~~ ratified as pitched 2026-09-12
 - Three of the four remaining Four Crafts items (R9-1): Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope (the Law V gate was ruled: Stage VII, 2026-09-12)
 - Ratification of every proposal Phase A files
+
+## Phase F — the Discord bot
+
+Planned 2026-09-13; the plan is `bot/PLAN.md`. A deterministic,
+role-gated bot for the players' server, running on Isaac's PC beside WOTR MCP
+and importing its tools directly. No dice in canon channels: Table Rule 5
+adjudicates stat-by-stat and every outcome traces to a table row.
+
+- [ ] F0 — skeleton and lookups: `/rule`, `/rules`, `/docket`, `/conflicts`, `/wiki`, `/character`, `/fow`, `/recall`, `/timeline`; scheduled task; `DISCORD_TOKEN` from the environment
+- [ ] F1 — table state: `/fronts`, `/due`, `/ledger`, `/roster`, `/npc`; Judger writes (`/advance`, `/front`, `/ledger add|collect`, `/npc set`, `/menu`); player `/ledger propose` into the Judger queue
+- [ ] F2 — scene play: forum per thread, `/bind`, `/scene open|verify|close|archive|text`; transcript → `scenes/<slug>.md` + cast file
+- [ ] F3 — mechanics and audio: `/compare`, `/adjudicate` (Table Rule 5 card, no verdict), `/narrate`, `/ruling`, `/propose`; `/roll` off by default, `ooc` only

@@ -1,0 +1,63 @@
+{
+  "name": "Renard Greymane",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "26 on the card (House Greymane, Stormfold), but written as older than his years in bearing — 'spent his youth in the field rather than on the ridge, mobile warfare rather than static defense.'",
+  "body": "Tall, broad through the shoulders in the Greymane manner; an 'architectural build' — 'the body designed for holding ground, the frame that settles into position the way a wall settles into its foundation.' Face harder and more angular than his cousin Bram's. A big, solidly built line-soldier, not a giant.",
+  "pitch": "medium-low",
+  "texture": [
+    "grounded, chest-forward resonance (broad, wall-built frame)",
+    "faint weathering/gravel from campaign life and Kharven cold, not heavy rasp",
+    "near-flat affect that clips off mid-sentence rather than searching for a word",
+    "a battle-voice that can carry across chaos, held on a short leash the rest of the time"
+  ],
+  "pace": "measured",
+  "energy": "Low-burn and banked, not flat-dead — the restraint of a man deliberately not handing out material. Composure reads as stillness under pressure (in his one scripted scene he holds ground silently against an opponent two Stages above him). Only opens up in volume/urgency in battle, where he is 'Renard by voice only' — heard, not quoted.",
+  "register": "Vernacular commons register exclusively. Per the wiki's Accent page: 'Does not reach for a Latin word even where one would serve, and does not work around it either; he simply stops the sentence... Answers questions with actions more often than with clauses, which reads as taciturn and is in fact a man who has been placed by his speech before and declines to hand anyone the material.'",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.6,
+    "grit": 0.35,
+    "breath": 0.15,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Renard Greymane — The Left of the Throne.md",
+      "quote": "He does not speak much. The sword speaks for him. The sword's vocabulary is sufficient."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Renard Greymane — The Left of the Throne.md",
+      "quote": "the body designed for holding ground, the frame that settles into position the way a wall settles into its foundation"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Renard Greymane — The Left of the Throne.md",
+      "quote": "His face is harder than Bram's, more angular, the specific sharpness of a man who has spent his youth in the field"
+    },
+    {
+      "source": "scenes/renard_the_left_of_the_door.md:35",
+      "quote": "Renard said nothing. The sword was already speaking."
+    },
+    {
+      "source": "scenes/renard_the_left_of_the_door.md:17",
+      "quote": "He was not on his knees. Two."
+    },
+    {
+      "source": "wiki/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md:88",
+      "quote": "Vernacular core almost exclusively. Does not reach for a Latin word even where one would serve, and does not work around it either; he simply stops the sentence."
+    },
+    {
+      "source": "wiki/Common — The Tongue With No Distinctions/Accent — Placement, Prestige and the Shibboleth.md:88",
+      "quote": "Answers questions with actions more often than with clauses, which reads as taciturn"
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:248",
+      "quote": "Renard by voice only."
+    }
+  ],
+  "reference_direction": "Male, mid-20s but weathered a few years harder by campaign life. Medium-low pitch — chest-resonant from a broad, wall-built frame, but human-scaled, not a giant's boom. Texture is mostly clean with a faint gravel underneath, like cold air and hard use rather than a smoker's rasp. Delivery is terse and vernacular: short declaratives, sentences that stop rather than reach for the fancier word, long comfortable silences instead of filler. Near-flat affect at rest, composed under pressure with no waver. The one place it opens up is under battle noise, where it has to carry — think the clipped, load-bearing voice of a young infantry NCO giving a casualty count over a radio: economical, weathered, no theater, and only as loud as the moment requires.",
+  "one_line": "A young, broad-built guard who has been sized up and placed by his voice before and now spends as few words as the job allows — flat, vernacular, chest-low, silent by default, and raised only to carry a command through battle noise."
+}

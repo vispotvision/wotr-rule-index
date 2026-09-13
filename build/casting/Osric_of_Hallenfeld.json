@@ -1,0 +1,37 @@
+{
+  "name": "Osric of Hallenfeld",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "47 — canon age from the card; hair thinning at the crown, the specific pattern the card attributes to men who process stress through calculation rather than action, but nothing else in the description reads as frail or old",
+  "body": "Taller than Lorn and narrower — the lean, vertical angularity of the Kōkan cadet line (Moto blood) rather than a broad or barrel-chested build. Dark eyes carry a depth that reads older than the face around them. The face itself is trained flat and 'arranged for absence' — unremarkable brow, clean jaw, a mask built over three years of needing to be overlooked and never fully switched off once it stopped being necessary. The one visible tell is in the hands, which move while he thinks; the voice, like the face, is the disciplined half of him.",
+  "pitch": "medium-low",
+  "texture": ["controlled", "dry", "unhurried", "almost no rasp or grit", "even, audited delivery — no filler, no wasted breath", "pitched for a room, not projected across one"],
+  "pace": "measured",
+  "energy": "low-burn and contained — a man who spent three years saying nothing important and eleven years saying only what matters; no idle talk, no rise in volume under pressure, intensity converts to increased precision rather than heat",
+  "register": "strategic-advisor register, private rather than public — per the card's own distinction from Lambert, his disagreement is 'architectural' (the position you chose weakened a wall you did not see) rather than arithmetic, and it is delivered after the room, in debrief, never in front of the room it concerns; a mind that positions rather than hopes",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.35,
+    "grit": 0.08,
+    "breath": 0.1,
+    "pace": 0.9
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, section 'Voice'", "quote": "Osric speaks in the voice of a man who has spent three years saying nothing important and eleven years saying only the things that matter, and the contrast between the two periods produced a voice that is careful, precise, and carrying the specific weight of a man who treats every sentence as an expenditure and who audits his expenditures."},
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, section 'Voice'", "quote": "He does not waste words. He does not fill silence. He speaks when speaking changes the room's trajectory, and he remains silent when silence serves the trajectory better than speech, and the ability to distinguish between the two is the thing that makes him Hild's strategic advisor rather than merely her uncle."},
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, section 'Voice'", "quote": "Unlike Lorn, Osric does not disagree in public. Osric disagrees in the specific private register that Lambert also uses: after the room, in the debrief, when the disagreement can be delivered without undermining the authority it is attached to."},
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, section 'Physical Description'", "quote": "Taller than Lorn and narrower, built with the lean angularity of the Kōkan cadet lines. The Moto blood expresses itself in the specific vertical architecture that Concord-stock humans do not produce — the height, the narrow jaw, the dark eyes that carry a depth that reads as older than the face around them."},
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, section 'Physical Description'", "quote": "Osric's face says nothing. His hands say everything — they move when he is thinking, the fingers arranging invisible pieces on invisible boards, and the arranging is the tell, and the tell is the only crack in the mask."},
+    {"source": "wiki/Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md, opening line", "quote": "If Lorn is the honour, Osric is the board."},
+    {"source": "scenes/CAST.md:125-126", "quote": "## Osric of Hallenfeld (2 scenes)\n04_sodoku_what_the_sky_does_not_ask.md (7), 08_sodoku_recalescence.md (3)"},
+    {"source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:37", "quote": "Hild was inside. Yoko with her, and Osric with both, and the order had been given in the yard before light and Osric had repeated it back word for word without being asked, which was Osric."},
+    {"source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:119", "quote": "\"The southern reach is still standing. [...] Lord Osric has the princess and the lady below the cistern and has ordered the gatehouse shut behind him.\""},
+    {"source": "scenes/08_sodoku_recalescence.md:65", "quote": "Hild Ice went in the doorway that Osric had put himself in."},
+    {"source": "build/book_tools.py voice_fingerprints", "quote": "Osric of Hallenfeld does not appear in the fingerprint table (threshold: eight or more attributed lines) — the archive contains no lines directly quoted in his own voice, only narration about him and one relayed report of an order he gave off-page."}
+  ],
+  "reference_direction": "A male voice, medium-low but not deep or booming — the lean, narrow Kōkan-cadet build (taller and slighter than his broad-built peers) argues against a heavy chest voice, so the low end comes from control rather than mass. Texture is dry and almost entirely un-gritted: no growl, no rasp, the sound of a man who spent three years training his face to say nothing and applied the same discipline to his voice. Pace is measured and unhurried — he 'audits' his sentences, so there is real, deliberate space between clauses, though it never slides into slowness for its own sake. No regional colour or flourish: flat, cultivated, deliberately unremarkable, the vocal equivalent of the plain-wool 'minor administrator' costume the card describes — a voice built to be overlooked until the moment it decides to matter. Comparison: picture a career intelligence handler or a hostage negotiator's phone voice — level, exact, giving away nothing, all the pressure converted into precision instead of volume.",
+  "one_line": "A tall, narrow, 47-year-old strategist whose voice was drilled the same way his face was — to spend nothing it doesn't have to: medium-low, dry, almost ungritted, unhurried, and cast entirely from the card's own Voice section and physical description, since the archive gives him no quoted lines of his own."
+}

@@ -1,0 +1,36 @@
+{
+  "name": "Hild Ice (Stark)",
+  "speaks_in_archive": true,
+  "lines_read": 17,
+  "gender": "female",
+  "age": "11 (per wiki card — Kōkan/Stark bloodline, acting head of the Kokan Loyalist Coalition, Level 78, Stage I Murmuring); the card frames her cadence as inherited but still forming, 'audible beneath the child's voice the way a river is audible beneath ice' — a child growing into borrowed weight, not an adult voice in miniature",
+  "body": "eleven and small for it — 'wiry through the shoulders, all wrist and collarbone,' a frontier labour build (chopped wood, hauled water, trained with a sword since nine) rather than a trained fighter's or a court child's architecture; mail cut down and re-riveted because nothing fits her yet; feet do not touch the floor when she sits the throne",
+  "pitch": "medium-high",
+  "texture": ["clean, almost no rasp in public speech", "flat/matte — 'the wall,' the face and voice that do not change", "learned projection: carries a hall without straining or raising in pitch", "cracks into something smaller, thinner and breath-driven the instant the wall drops"],
+  "pace": "measured",
+  "energy": "banked and still in public — the identical flat control whether she is doing logistics arithmetic or eating a cold ration in front of a room full of men discussing her rationing; the one recorded exception (her father's return) collapses straight through the floor into open, unguarded crying with no controlled stage in between",
+  "register": "command register: short declarative statements, near-zero contractions (0.0 in the sampled lines), no rhetorical questions in public, precise logistics/arithmetic phrasing ('thirteen days, not nine,' 'grain, or ships, which is it') that reads like a ledger entry; softens into a smaller voice and actual questions only alone, off the record, in private",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": 2,
+    "weight": 0.15,
+    "grit": 0.05,
+    "breath": 0.18,
+    "pace": 0.9
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess.md, section 'Voice'", "quote": "Hild speaks in short declarative sentences. She does not ask questions when she can issue observations. She inherited her father's cadence without ever hearing it — the slow iron rhythm that the frontier named. At eleven the cadence is forming rather than finished, audible beneath the child's voice the way a river is audible beneath ice, present and gaining force."},
+    {"source": "wiki/Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess.md, section 'Voice'", "quote": "In public: level, controlled, the wall. The face that does not change. In private (the altar room, with Brida): the child surfaces. The voice becomes smaller. The sentences become questions. The wall comes down for the length of the prayer and goes back up when the prayer is finished."},
+    {"source": "wiki/Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess.md, section 'Physical Description'", "quote": "Her body is a frontier body. Not the sculpted architecture of a trained practitioner. The practical, hard-wearing frame of a child who has chopped wood and hauled water and trained with a sword since she was nine, carrying muscle across the shoulders and forearms that reads as labour rather than cultivation."},
+    {"source": "scenes/sodoku_the_count_supply_report.md:119", "quote": "Hild's voice came out with the wall behind it, and it carried, because she had learned to make it carry in a hall full of men who wanted her to be small."},
+    {"source": "scenes/sodoku_the_count_supply_report.md:121,125", "quote": "\"It is cold and you are all standing in it, and half your column has been standing in it since the gate came off the bar, and there is nothing at this gate that cannot be discussed indoors.\" ... \"Edward, you will accompany us. We plan tonight.\" The chin came down again. \"While we can.\""},
+    {"source": "scenes/sodoku_gate_reunion_lambert.md:47", "quote": "She was eleven and small for it. Wiry through the shoulders, all wrist and collarbone, built for the kind of growth that has not yet been fed enough to happen."},
+    {"source": "scenes/sodoku_gate_reunion_lambert.md:57-59", "quote": "\"Father,\" Hild said. The word came out wrong. Too small, cracked down the middle, eleven years of preparation collapsing into two syllables that had clearly been rehearsed and had clearly not survived contact."},
+    {"source": "scenes/sodoku_fourteenth_bow_table.md:125-137", "quote": "\"Do they have grain?\" ... \"The Holy Sea,\" she said. \"Does it have grain, or does it have ships. Because Edward says it is poor in grain, and if it is poor in grain then all of this is an argument about a man's beliefs when what we need is somebody's boats.\" ... \"So. Grain, or ships. Which is it, and who signs for it.\" ... \"Then that is the letter.\" Hild picked her crust back up."},
+    {"source": "scenes/wotr_the_weight_of_a_courier.md:75-79", "quote": "\"It is not,\" said Hild. She had her chin propped on the heel of her hand and her eyes on the fire. \"The southern road is out past the fourth ford. Tabitha walked it. He will have gone the long way through the Ironwood March and that is four days added and nobody told him it was four days because nobody knew when he left.\" She did not move her chin. \"So it is thirteen days, not nine, and you have been counting wrong since the equinox.\""},
+    {"source": "build/book_tools.py voice_fingerprints — Hild Ice row", "quote": "8 lines, mean words 31.1 ±22.1, short share 0.12, questions 0.0, contractions 0.0, first person 0.5, imperatives 0.0, favourite words: thing, eaten, fought, people, entirely, father"}
+  ],
+  "reference_direction": "Female, child (eleven) — not a light, bright child-voice. Pitch sits medium-high but grounded, with more chest support than a typical child reader because she has trained herself to project in halls full of men who want her small. Texture is clean and almost matte in public: no rasp, minimal breath, contractions near zero, so it reads as deliberately unadorned rather than childishly artless. Pace is slow and spaced, landing declaratives like ledger entries rather than reactions — an inherited 'slow iron rhythm' still forming, a river audible under ice. No regional colour beyond a plain, unornamented northern-frontier plainness; no lilt, no court polish. One clear exception: under total emotional overload the wall breaks completely and the voice goes small, cracked, and breath-driven before dissolving into open, ugly crying. Comparable to a child cadet reading a status report aloud in a flat, unhurried monotone that is visibly working not to sound like a child — controlled precisely because the control is the only thing holding a room's confidence in her.",
+  "one_line": "An eleven-year-old acting head of state whose public voice is a wall — flat, unhurried, arithmetic-precise — with her father's unheard cadence audible underneath it like a river under ice, and exactly one recorded moment where the wall comes down entirely."
+}

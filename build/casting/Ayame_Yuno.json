@@ -1,0 +1,68 @@
+{
+  "name": "Ayame Yuno",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "female",
+  "age": "Not given as a number on the card. She is a married queen with grown stepchildren and at least one son dead by the night of her own death, so she reads as a woman well past her ascension through eight Temperance stages of cloistered training and years of active campaign-era rule — cast mid-30s to mid-40s: fully arrived at who she is, not a queen still growing into the role.",
+  "body": "5'7\", soft hourglass carried with the seated composure of tapua'iga worn as a second skin — trained stillness sitting over a core strength the card says the court has never once accounted for. Skin deep warm brown, marked from birth at wrist, sternum and spine with unfinished ritual lines no tattooist has closed. Eyes near-black, trained since childhood to rest on the space around a face rather than the face itself; they take an auroral cast under active rite. Hair black, heavy, oiled, bound close beneath the Snow-Glass Diadem. This is a body built for holding a room motionless, not for a fight — her strike force is explicitly negligible; her impact is entirely social and liturgical.",
+  "pitch": "medium-low",
+  "texture": [
+    "silk-over-ice smoothness, almost no rasp",
+    "resonant, chest-supported tone built to fill a hall without straining",
+    "chant/liturgical inflection — cadences that land and settle rather than climb",
+    "glacial calm; the same 'impulse muffled, deliberation sharpened' effect her Domain has on others seems to live in the voice itself",
+    "a private register described once as warmer and unperformed, held in reserve behind the public one"
+  ],
+  "pace": "measured",
+  "energy": "restrained, custodial authority — she wins rooms by making them still, not by raising volume; the card's Attraction-Path power literally organizes crowds into silence and procession around her presence",
+  "register": "formal ritual/liturgical cadence — aphoristic, legalistic, built for oaths and verdicts ('Steel may take a crown. Only ritual decides whether the crown will stay on the skull.'). One narrated aside (The_Path_of_Sorrow.md:185) says this drops into a warmer, unguarded register in private, but no private-register line survives in the archive to read from, so the public ritual register is the default for the audiobook.",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.5,
+    "grit": 0.08,
+    "breath": 0.15,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — epigraph",
+      "quote": "Steel may take a crown. Only ritual decides whether the crown will stay on the skull."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — Appearance",
+      "quote": "Soft hourglass carried with the seated composure of tapua'iga worn as a second skin, shoulders wrapped in layered northern ceremonial fabrics that hide a core strength the court has never once accounted for."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — Appearance",
+      "quote": "Eyes near-black and wide-set, trained from childhood to settle on the space around a face rather than the face itself. Under active rite the black takes an auroral cast that the Banner Houses describe, privately, as the moment the room stops being theirs."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — Axiomatic Traits",
+      "quote": "Wherever she walks in earnest authority, ambient noise dampens and snowfall — or even dust, ash and pollen — organises into slow spirals around her. Those within the field find it harder to act rashly. Impulse is muffled, deliberation sharpened."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — Axiomatic Traits",
+      "quote": "Lies taste like iron on her tongue, and conflicting promises generate a faint pain behind her eyes — allowing her to reweave loyalties before they fracture the realm."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Ayame Yuno.md — Canonical System Metrics, Flux Density row",
+      "quote": "Dense enough that completed sigils hit like law, not suggestion. Low raw impact, exceptionally penetrating against structures of loyalty, morale and spiritual stability."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:185",
+      "quote": "The way her voice changed register from ritual cadence to the voice she used when it was just us, just the family, just the sound of a woman who was allowed to stop performing sovereignty for five minutes and be the person underneath it."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:299",
+      "quote": "Ayame's hands in Emira's hair. The brush. The warmth. The voice that said trust is the only fortification that does not require maintenance."
+    },
+    {
+      "source": "scenes/08_sodoku_recalescence.md:37",
+      "quote": "Ayame Yuno came down that corridor in the White Concord's pale silk with the silver thread still on her from the morning's ceremony."
+    }
+  ],
+  "reference_direction": "Adult woman, pitch sitting a couple of semitones below a bright default — grounded, not girlish, but nowhere near a contralto growl. Texture is smooth almost to the point of glassiness, silk over ice, with virtually no grit or vocal fry; chest-resonant and trained to project across a hall the way a liturgical officiant projects, not the way a shouter does. Pace is unhurried, each clause set down and allowed to settle before the next begins, with a faint chant-like lift on cadences — the reading rhythm of oaths and verdicts rather than conversation. No strong regional accent; think a formal court herald or a temple precentor delivering a state ritual, someone whose calm is itself a kind of authority that makes a room go quiet and careful rather than a person straining to be heard.",
+  "one_line": "A priest-queen's voice: silk laid over ice, unhurried and law-flat, built to still a room rather than fill it."
+}

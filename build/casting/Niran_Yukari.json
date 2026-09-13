@@ -1,0 +1,67 @@
+{
+  "name": "Niran Yukari",
+  "speaks_in_archive": true,
+  "lines_read": 31,
+  "gender": "male",
+  "age": "19 per the card, but the prose reads older — six years of combat training since thirteen and a father's death metabolized into stillness read as a young adult holding a command posture, not a teenager",
+  "body": "6'0\", lean-functional; six years of blade and ward-work have replaced the boy's frame entirely — broad through the trapezius, corded forearms. \"Purpose-built. Every part does something.\" Not a slight or willowy build despite the Yukari bloodline's typical narrow-shouldered frame.",
+  "pitch": "medium-low",
+  "texture": [
+    "smooth, settled hush rather than any rasp",
+    "a low sub-audible hum/resonance under the words (\"the Verdict Tone... the harmonic that made rooms lean in\")",
+    "almost no breath noise — controlled exhale, economical",
+    "level and flat even under strain, not brittle"
+  ],
+  "pace": "measured",
+  "energy": "restrained and coiled rather than low-energy — stillness that reads as held pressure, not passivity; the intensity lives underneath the calm, not in volume or speed",
+  "register": "economical, near-monastic formality; chooses words for information density (short declaratives, occasional clipped imperative); does not raise his voice to be heard and has never needed to; under stress goes quieter and flatter rather than louder or faster",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.55,
+    "grit": 0.15,
+    "breath": 0.12,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Niran Yukari.md — section XIII-XV, Voice field",
+      "quote": "Quiet. Rarely initiates. When he speaks, the room reorganises. Still, head slightly tilted, weight forward. Under stress: goes quiet, crimson deepens, reads everything — and acts when the Lock commits."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Niran Yukari.md — section XIII-XV, Description",
+      "quote": "6'0\", lean-functional. Six years of combat training have replaced the thirteen-year-old's frame entirely — broad through the trapezius, corded forearms from ward-work and blade training. Purpose-built. Every part does something."
+    },
+    {
+      "source": "wiki/The Archaic Bloodlines/The Yukari Bloodline.md:83",
+      "quote": "Auditory resonance. Yukari voices carry what other lineages call the Quiet Weight. Their speech does not project force. It settles. A Yukari speaking in a room produces the effect of a room becoming slightly more attentive, as though the walls have leaned inward by a fraction of an inch."
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:23",
+      "quote": "He said it the way he said most things. Quiet. Certain. The Verdict Tone quality humming beneath the surface of the words, the harmonic that made rooms lean in. He did not raise his voice to be heard. He had never needed to."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:55",
+      "quote": "He said it without heat, the same flat certainty she remembered from before, the Septarch's weight sitting just beneath the words without fully surfacing this time."
+    },
+    {
+      "source": "scenes/Niran_Reply_to_Haruki.md:19",
+      "quote": "He said it plainly, no cruelty in the delivery, though he understood exactly how it would land regardless."
+    },
+    {
+      "source": "scenes/Niran_Reply_to_Haruki.md:25",
+      "quote": "His voice stayed level even as his body argued otherwise."
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:77",
+      "quote": "Niran did not move. His breathing was controlled."
+    },
+    {
+      "source": "python build/book_tools.py voice_fingerprints",
+      "quote": "Niran | 9 lines | mean words 14 ±9.2 | short share 0.22 | contractions 0.44 | first person 0.56 | imperatives 0.11 | favourite words: enough, needs, hold, don't, where, i'll"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch — closer to a young, controlled baritone than a bright teenage tenor, because the text insists his voice reads as trained gravity rather than youth. Texture is a smooth, settled hush with a faint low hum underneath it (the 'Verdict Tone' that 'made rooms lean in') rather than any grit or rasp; breath is kept almost entirely out of the delivery, each line released on a controlled exhale, never gasped or pushed. Pace is unhurried and comfortable with silence between clauses — he does not fill space and does not speed up under pressure, if anything he slows and flattens further. No regional accent; a faint clipped, formal cadence, the diction of someone who chooses each word for information density. Comparable to a young field-commander or an unflappable control-room operator whose calm register is itself the warning sign — the quieter he gets, the more dangerous the moment.",
+  "one_line": "A young, purpose-built voice held deliberately still: low, level, and economical, the calm of someone whose intensity has nowhere to leak out except into the silence around his words."
+}

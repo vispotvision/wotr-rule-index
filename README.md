@@ -90,7 +90,7 @@ counts too — `[Rubric]` for a read-out liturgical text), optional delivery
 after a colon (`[Verinus: slow, beat]`; also `quiet`, `loud`, `whisper`,
 `faster`, `long beat`) and, for a speaker on Chatterbox Turbo, performed cues
 in the line (`[sigh]`, `[laugh]`, `[chuckle]`, `[gasp]`, `[cough]`, `[clear
-throat]`). The tags are the only thing a cast file may add: it is validated
+throat]`, `[breath]`). The tags are the only thing a cast file may add: it is validated
 word for word against the scene. Each speaker's voice is a `voices.yaml`
 entry — a Kokoro voice with a habitual `speed` and `gain`, or
 `engine: chatterbox` (`build/chatterbox_setup.ps1` makes its venv; Turbo for
@@ -109,6 +109,40 @@ preview: it picks the discrete card by name (ROCm lists the 7800X3D's
 integrated GPU first) and turns MIOpen off, because MIOpen's run-time kernel
 compiler can't find the C++ standard headers on Windows (`miopenStatusUnknownError`);
 PyTorch's own kernels run the model at ~1.5× real time, against ~1× on the CPU.
+
+**The character engine is `engine: qwen`** — Qwen3-TTS-1.7B-VoiceDesign (Alibaba,
+Apache-2.0), pure voice design: every line of a character is generated from a
+written brief, no reference clip. Isaac chose it on 12 Sep 2026 and the rest of
+the stack serves it. The brief is the 12-field caption the model was trained
+on (`gender, pitch, speed, volume, age, clarity, fluency, accent, texture,
+emotion, tone, personality`; the manual is `build/voices/QWEN_DESIGN_GUIDE.md`,
+written from four verified research reports in `build/voices/survey/`); a
+span's delivery tags replace the four delivery fields, cues become words in
+the text plus a `tone:` note. Because the model draws a fresh voice every
+call, each line is drawn up to `tries` times and the draw closest to the
+character's **anchor** — the take Isaac approved, `build/voices/anchors/<Name>/`
+— is kept, measured by a speaker embedding (fragments under 1.6 s by pitch),
+with the pass mark calibrated from the anchor's own line-to-line consistency.
+Exact pace, pitch, body size and intonation range are then applied by
+`build/voice_shape.py` (Praat), since the model has no such knobs. It runs in
+`C:\venvs\wotr-qwen-fast` through `faster-qwen3-tts` (static KV cache + HIP
+graphs: 2.4–2.8× real time per draw on the 9070 XT, against 0.5× plain);
+`build/qwen_tts_setup.ps1` builds both venvs. A scene's Qwen spans are
+rendered in a pre-pass grouped by speaker and direction, and the render
+prints how many draws were spent and which lines stayed far from the anchor.
+`--first N` renders an audition cut of a scene.
+
+A third engine, `engine: supertonic` (Supertonic 3, Supertone; model
+OpenRAIL-M): 99M parameters on ONNX Runtime, CPU only, ~4× real time at
+`steps: 10`, 44.1 kHz, reads back with no word errors on the audition lines
+and performs `[laugh]` `[sigh]` `[breath]`. It has ten fixed preset voices
+(`voice: M1`–`M5`, `F1`–`F5`, or `style:` a voice-style JSON) and no way to
+make a new one — Supertone's Voice Builder closed on 31 Aug 2026 and the
+project was archived on 9 Sep 2026, so it is the fast tier for narration and
+the wider cast, not for the leads whose voices are cast from the card.
+`build/supertonic_setup.ps1` makes its venv (`C:\venvs\wotr-supertonic`);
+`--voice narrator-st` renders a scene on it; the audition of all ten presets
+is in `build/voices/bakeoff/supertonic3/`.
 
 Reference clips come from openly licensed corpora, with credit:
 `build/voice_refs.py --browse M Scottish` lists VCTK speakers (110 English

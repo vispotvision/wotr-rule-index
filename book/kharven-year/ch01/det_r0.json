@@ -1,0 +1,100 @@
+{
+  "findings": [
+    {
+      "severity": "FAIL",
+      "pass": "tell_scan",
+      "quote": "# Chapter 1 — The Week After",
+      "problem": "Em dash present (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE). verify counts 1; it is in the chapter heading on line 1, not in the prose body.",
+      "evidence": "verify: 'FAIL em dashes: 1'. grep: only line 1 contains U+2014. notes_r0.md claims 'zero em dashes'.",
+      "fix": "Replace the heading dash: '# Chapter 1. The Week After' or '# Chapter 1: The Week After'. Correct the notes claim."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "shape",
+      "quote": "The clerk of the Bench had arrived on the third day with a case and a letter and had been given a chair, and she took the pause the way a clerk takes a pause, as a space with a form to fill in it.",
+      "problem": "Three consecutive sentences over 25 words (R4-14-CHAIN_CEILING): Lambert's 'The Bench keeps a Record ... not been asked for it.' (45), the clerk's arrival sentence (45), and her description 'A woman of forty in the grey of the Divisions ... where the flap rubbed.' (54).",
+      "evidence": "verify: 'FAIL three consecutive sentences over 25 words'. Counts 45/45/54 from a sentence split of the draft.",
+      "fix": "Break one of the three. Simplest: split the clerk's arrival sentence at 'chair.' -> 'She took the pause the way a clerk takes a pause, as a space with a form to fill in it.'"
+    },
+    {
+      "severity": "WARN",
+      "pass": "tell_scan",
+      "quote": "Two in the afternoon, then one, then the yard was quiet and the water was the only thing coming down.",
+      "problem": "verify flags a possible Ladder (Check 18): 'was quiet and the water was'. Two coordinated 'was' clauses; review by reading.",
+      "evidence": "verify: WARN possible Ladder. Notes claim 'no Ladder'.",
+      "fix": "Read it. If it is a Ladder, drop the second 'was': '...then the yard was quiet and only the water came down.' Otherwise leave and record the reading."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "The instrument lay where it had been signed, and nobody had moved it, because nobody had decided where it went.",
+      "problem": "Word count 3686 prose words against target 3500 (105%); band 80%-150% is 2800-5250. Within band. notes_r0.md says 3,674; tool says 3686.",
+      "evidence": "Count of whitespace tokens in prose paragraphs, heading and rule lines excluded; verify reports 'length 3686 words (set-piece band)'.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "The instrument lay where it had been signed, and nobody had moved it, because nobody had decided where it went.",
+      "problem": "Last line 'He was looking at the hands.' ends on a thing he can now see; flat runs 2 (fails at 4); sentence-length CV 0.92; 6 italic interior beats (Table Rule 10: Lambert, Yoko, Brida one each, Sodoku 'There it is.' plus the yard's 'left, left, your left' and Lambert's italic).",
+      "evidence": "verify info lines.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "hooks",
+      "quote": "\"Full, and dry to the bottom.\"",
+      "problem": "Declared lie sentence in notes_r0.md exists verbatim in the draft.",
+      "evidence": "Exact substring match.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "hooks",
+      "quote": "The boy watched his hands because at the Brine crossing he had watched what they did, and a boy who has seen that watches the hands for the rest of his life.",
+      "problem": "Declared misreading sentence in notes_r0.md exists verbatim in the draft.",
+      "evidence": "Exact substring match.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "hooks",
+      "quote": "The instrument lay where it had been signed, and nobody had moved it, because nobody had decided where it went.",
+      "problem": "Ch1 outline pays: [] so the pay-keyword gate is vacuous. Plants H01-H04 all appear. Keyword sweep of the four plant hooks: H01 4/4 present; H02 'Vaultmere','copy','factor' present, 'first week' absent; H03 'Miku','clause' present, 'three hundred','by name' absent; H04 'Brida','full night' present, 'sat down' absent. The absent keywords are payoff terms owed to ch5/ch6/ch12, not ch1.",
+      "evidence": "outline.json chapters[0].pays == []; hooks[].keywords substring-tested against the draft.",
+      "fix": "None for this chapter. Later chapters that pay H02/H03/H04 must carry 'first week', 'three hundred', 'by name', 'sat down'."
+    },
+    {
+      "severity": "PASS",
+      "pass": "combat_floor",
+      "quote": "The instrument lay where it had been signed, and nobody had moved it, because nobody had decided where it went.",
+      "problem": "Talky scene, no working, exchange or injury on the page; R16-8-CHECK30 technical-term floor does not attach. verify run without --combat raised nothing.",
+      "evidence": "verify output; notes_r0.md loadout 'prose-law dialogue register pov naming'.",
+      "fix": "None."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"How's your stack?\"",
+      "problem": "voice_check Sodoku Moto (13 archive lines, mean 45.6 words): this line z=-2.0; 'a question from a voice that almost never asks; a contraction from a voice that does not contract'. It is the fixed Kharven Standing Inventory greeting (R6-9-RECURRENCE_RULE), which the notes say keeps its question mark by rule, so the flag is expected, not a defect.",
+      "evidence": "voice_check output. verify lists 'the woodpile / how's your stack' as a Kharven recurrence hit.",
+      "fix": "Leave as is; note the Inventory licence in the chapter notes."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"Make the copy,\" he said.",
+      "problem": "voice_check Sodoku Moto: short imperatives 'Make the copy.', 'Hallenfeld carries it.', 'You will be.' (3 words, z=-2.0) and one-word 'Vaultmere.', 'Good.' (z=-2.1, 'far outside this voice') against an archive mean of 45.6 words. 'The road is hers...' (36 words, z=-0.4) sits inside it. The tool is length-only; the archive lines are king-in-assembly speeches, this is table talk.",
+      "evidence": "voice_check outputs for seven Sodoku lines.",
+      "fix": "No change required by the tool; author to confirm the clipped register is deliberate (notes: 'Sodoku imperatives and one Kharven greeting')."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"The Bench may not have them,\" Yoko said.",
+      "problem": "No fingerprint in the archive (fewer than eight attributed lines) for Yoko Mishiro, Edward Lambert, Tabitha Hallenfeld, Brida Ashwell, the clerk of the Bench, the factor of the Council of Links. voice_check could not test 24 lines; Miku has no line.",
+      "evidence": "voice_check: 'no fingerprint for NAME' for each.",
+      "fix": "None; voice for these cast members is a read-review item, not a deterministic one."
+    }
+  ]
+}

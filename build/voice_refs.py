@@ -5,6 +5,8 @@
   python build/voice_refs.py --browse F                   # every female VCTK speaker
   python build/voice_refs.py --make gimbzo p254 --seconds 12
   python build/voice_refs.py --make kizami p262 --seconds 10
+  python build/voice_refs.py --corpus libritts --split train.clean.100 --browse male "very low"
+  python build/voice_refs.py --design gimbzo gimbzo-src --pitch -4 --weight 0.5 --grit 0.35 --pace 0.92
 
 --make joins a few of the speaker's sentences into one clip, build/voices/refs/<name>.wav
 (24 kHz mono, 6–15 s is what Chatterbox wants), and appends the credit line to
@@ -162,9 +164,20 @@ def make(name: str, sid: str, seconds: float) -> Path:
 
 LTS_DESC = "parler-tts/libritts-r-filtered-speaker-descriptions"   # per-utterance gender / pitch / pace / accent, no audio
 LTS_AUDIO = "parler-tts/libritts_r_filtered"                       # the same rows with audio
-LTS_SPLIT = ("clean", "dev.clean")                                 # 40 readers; enough to cast a narrator
-LTS_INDEX = REFS / ".libritts_index.json"
+LTS_SPLITS = {"dev.clean": ("clean", "dev.clean", 120), "train.clean.100": ("clean", "train.clean.100", 300), "train.clean.360": ("clean", "train.clean.360", 400)}
+LTS_SPLIT = LTS_SPLITS["dev.clean"][:2]
 LTS_STEP = 120
+
+
+def lts_use(split: str) -> None:
+    """Pick which LibriTTS-R split to browse/make from: dev.clean (40 readers), train.clean.100 (247), train.clean.360 (904)."""
+    global LTS_SPLIT, LTS_STEP, LTS_INDEX
+    c, s, step = LTS_SPLITS[split]
+    LTS_SPLIT, LTS_STEP = (c, s), step
+    LTS_INDEX = REFS / f".libritts_index_{s}.json"
+
+
+LTS_INDEX = REFS / ".libritts_index_dev.clean.json"
 LTS_CREDIT = ("LibriTTS-R (Koizumi et al., 2023; derived from LibriTTS / LibriVox public-domain readings), CC BY 4.0, "
               "https://www.openslr.org/141/ — reader {sid} ({gender}, {pitch}, {rate}, {accent}); utterances {ids}")
 
@@ -242,16 +255,86 @@ def lts_make(name: str, sid: str, seconds: float) -> Path:
     return out
 
 
+# ---------------------------------------------------------------- designing a voice
+
+def design(name: str, source: str, pitch: float = 0.0, weight: float = 0.0, grit: float = 0.0, breath: float = 0.0, pace: float = 1.0) -> Path:
+    """Build build/voices/refs/<name>.wav from an existing clip, shaped toward a description.
+
+    pitch   semitones, negative = deeper (-3 to -5 turns a baritone into a bass; the clone follows)
+    weight  0-1, adds a copy an octave down underneath (chest, size)
+    grit    0-1, soft saturation, a rasp that thickens with level
+    breath  0-1, a little filtered noise under the voice (worn, tired, whispery)
+    pace    stretch factor, 0.9 = slower, unhurried
+    The result is a designed voice: nobody's, built from a consenting reader's clip. Credited as such.
+    """
+    import librosa
+    import soundfile as sf
+    src = Path(source) if Path(source).is_absolute() else (REFS / f"{source}.wav" if not source.endswith(".wav") else ROOT / source)
+    if not src.exists():
+        sys.exit(f"no clip at {src}")
+    y, sr = sf.read(str(src), dtype="float32")
+    if y.ndim > 1:
+        y = y.mean(axis=1)
+    if sr != TARGET_SR:
+        y = librosa.resample(y, orig_sr=sr, target_sr=TARGET_SR)
+        sr = TARGET_SR
+    if abs(pace - 1.0) > 0.01:
+        y = librosa.effects.time_stretch(y, rate=pace)
+    if abs(pitch) > 0.01:
+        y = librosa.effects.pitch_shift(y, sr=sr, n_steps=pitch)
+    if weight > 0:
+        low = librosa.effects.pitch_shift(y, sr=sr, n_steps=-12)
+        y = y + weight * 0.6 * low
+    if grit > 0:
+        drive = 1.0 + 6.0 * grit
+        y = np.tanh(y * drive) / np.tanh(drive) * (0.7 + 0.3 * (1 - grit)) + y * 0.3
+    if breath > 0:
+        rng = np.random.default_rng(0)
+        noise = rng.standard_normal(len(y)).astype(np.float32)
+        b, a = _lowpass(sr, 4000.0)
+        from scipy.signal import lfilter
+        noise = lfilter(b, a, noise).astype(np.float32)
+        env = np.abs(librosa.effects.preemphasis(y))
+        env = np.convolve(env, np.ones(1200) / 1200, mode="same")
+        y = y + breath * 0.25 * noise * (env / (env.max() or 1.0))
+    y = y / (float(np.max(np.abs(y))) or 1.0) * 0.9
+    out = REFS / f"{name}.wav"
+    sf.write(str(out), y.astype(np.float32), sr, subtype="PCM_16")
+    line = (f"- `{out.name}`: designed voice — {src.name} shaped with pitch {pitch:+.1f} st, weight {weight}, grit {grit}, breath {breath}, pace {pace}; "
+            f"see that clip's line for the source reader's credit")
+    credits = REFS / "CREDITS.md"
+    old = credits.read_text(encoding="utf-8") if credits.exists() else "# Reference clips — credits\n\n"
+    old = "\n".join(l for l in old.splitlines() if not l.startswith(f"- `{out.name}`")) + "\n"
+    credits.write_text(old + line + "\n", encoding="utf-8")
+    print(f"  {out.relative_to(ROOT)}: {len(y)/sr:.1f}s from {src.name} (pitch {pitch:+.1f}, weight {weight}, grit {grit}, breath {breath}, pace {pace})")
+    return out
+
+
+def _lowpass(sr: int, hz: float):
+    from scipy.signal import butter
+    return butter(2, hz / (sr / 2), btype="low")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--corpus", default="vctk", choices=["vctk", "libritts"], help="vctk: 110 studio speakers with accent tags; libritts: audiobook readers with pitch/pace descriptions")
     ap.add_argument("--browse", nargs="*", help="words to match: M/F and accents for vctk; gender, pitch, pace, accent words for libritts")
     ap.add_argument("--make", nargs=2, metavar=("NAME", "SPEAKER_ID"))
     ap.add_argument("--seconds", type=float, default=11.0)
+    ap.add_argument("--split", default="dev.clean", choices=list(LTS_SPLITS), help="libritts: which split to draw readers from")
+    ap.add_argument("--design", nargs=2, metavar=("NAME", "SOURCE"), help="shape an existing clip (a refs/ name or a .wav path) into a new reference")
+    ap.add_argument("--pitch", type=float, default=0.0, help="--design: semitones, negative = deeper")
+    ap.add_argument("--weight", type=float, default=0.0, help="--design: 0-1 sub-octave weight")
+    ap.add_argument("--grit", type=float, default=0.0, help="--design: 0-1 rasp")
+    ap.add_argument("--breath", type=float, default=0.0, help="--design: 0-1 breathiness")
+    ap.add_argument("--pace", type=float, default=1.0, help="--design: time stretch, 0.9 = slower")
     a = ap.parse_args()
+    lts_use(a.split)
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
-    if a.browse is not None:
+    if a.design:
+        design(a.design[0], a.design[1], a.pitch, a.weight, a.grit, a.breath, a.pace)
+    elif a.browse is not None:
         (lts_browse if a.corpus == "libritts" else browse)(a.browse)
     elif a.make:
         (lts_make if a.corpus == "libritts" else make)(a.make[0], a.make[1], a.seconds)

@@ -1,0 +1,54 @@
+{
+  "name": "Muken Moto",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "Mature adult, roughly early-to-mid 40s at death — sixteen years on the throne, a fourteen-year-old son (Sodoku) and two younger children (Tomuka 12, Ezo 9) alive at the assassination, hair already white with only the temples still going grey.",
+  "body": "6'1\", dense and heavy-shouldered, war-thickened, deep brown skin scored with old scars and law-burns, pale fracture lines that glow amber under strain. A load-bearing frame built for standing under weight rather than moving fast.",
+  "pitch": "low",
+  "texture": ["weathered", "restrained rasp", "resonant/chest-forward", "unhurried"],
+  "pace": "slow",
+  "energy": "banked, low-key, weight held in reserve rather than spent",
+  "register": "terse, sovereign-judicial; a man who renders verdicts, not arguments",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -4,
+    "weight": 0.7,
+    "grit": 0.35,
+    "breath": 0.15,
+    "pace": 0.88
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Muken Moto.md:171 (Psychology > Voice)",
+      "quote": "Voice · Direct, brutal, controlled, paternal, judgmental. Speaks rarely and finally; silence often carries the verdict."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Muken Moto.md:173 (Psychology > Posture)",
+      "quote": "Posture · Load-bearing stillness — present even at rest."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Muken Moto.md:175 (Psychology > Stress default)",
+      "quote": "Stress default · Goes immovable rather than reactive. Holds the line rather than escalating."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Muken Moto.md:158 (Physical Description)",
+      "quote": "Height 6'1\" · Build dense, heavy-shouldered, scarred, war-thickened."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Muken Moto.md:202 (Incomplete in the Record)",
+      "quote": "No transcript exists, so no signature lines are attested."
+    },
+    {
+      "source": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md:59",
+      "quote": "Up close, Muken was warmth and silence and the specific weight of a man who carried the crown so that the people around him could learn what it felt like before it was theirs."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:141",
+      "quote": "The crown that Muken wore in the village of the dead when he stood among the bodies and said nothing and offered nothing except the implicit promise that whoever did this would be found."
+    }
+  ],
+  "reference_direction": "Male, low-to-very-low pitch anchored in the chest, not the throat — a voice that sits under a room rather than filling it. Texture is weathered rather than shredded: a faint scar-tissue roughness at the edges of the tone (old wear, not a growl), carried on very little breath, with the vowels held long and the sentences deliberately spaced, as if each one has already been weighed before it is spent. No regional real-world accent flavor — plain, unornamented, continental-neutral delivery with no lilt and no rhetorical rise-and-fall; the pitch barely moves phrase to phrase. Comparable to the voice of a career military sovereign or war-court magistrate: a man who has delivered verdicts and death sentences far more often than persuasion, so the default setting is flat, final, and unhurried, with silence doing as much work as speech.",
+  "one_line": "A big, scarred king's voice pitched low and kept nearly still — brutal judgment delivered at a magistrate's unhurried, sentence-final pace, with more said in the pauses than in the words."
+}

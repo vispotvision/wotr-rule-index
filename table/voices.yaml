@@ -1,4 +1,4 @@
-Aurelian Prudentius Custos Clausorum:
+Aurelian:
   contraction_rate: 0.09
   favourite_words:
   - record
@@ -71,23 +71,23 @@ Dhaerin:
   sd_words: 18.9
   short_share: 0.22
 Emira:
-  contraction_rate: 0.14
+  contraction_rate: 0.13
   favourite_words:
   - needed
   - stay
   - close
+  - tomuka
+  - sonzai
+  - kuroyuki
+  - mizuyi
   - already
-  - asleep
-  - brought
-  - rest
-  - more
-  first_person_rate: 0.14
+  first_person_rate: 0.13
   imperative_rate: 0.0
-  lines: 14
-  mean_words: 5.2
-  question_rate: 0.5
-  sd_words: 4.5
-  short_share: 0.64
+  lines: 15
+  mean_words: 5.3
+  question_rate: 0.47
+  sd_words: 4.4
+  short_share: 0.6
 Gimbzo:
   contraction_rate: 0.79
   favourite_words:
@@ -142,7 +142,7 @@ Lambert:
   question_rate: 0.0
   sd_words: 25.5
   short_share: 0.25
-Niran Yukari:
+Niran:
   contraction_rate: 0.44
   favourite_words:
   - enough
@@ -160,7 +160,7 @@ Niran Yukari:
   question_rate: 0.0
   sd_words: 9.2
   short_share: 0.22
-Rengai:
+Rengai Zettari:
   contraction_rate: 0.9
   favourite_words:
   - because
@@ -197,7 +197,7 @@ Sodoku Moto:
   sd_words: 21.7
   short_share: 0.0
 Verinus VII:
-  contraction_rate: 0.11
+  contraction_rate: 0.1
   favourite_words:
   - going
   - want
@@ -207,10 +207,10 @@ Verinus VII:
   - because
   - bishop
   - down
-  first_person_rate: 0.54
-  imperative_rate: 0.05
-  lines: 74
-  mean_words: 31.1
+  first_person_rate: 0.51
+  imperative_rate: 0.06
+  lines: 78
+  mean_words: 29.7
   question_rate: 0.01
-  sd_words: 23.8
-  short_share: 0.18
+  sd_words: 24.0
+  short_share: 0.21

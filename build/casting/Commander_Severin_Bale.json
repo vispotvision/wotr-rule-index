@@ -1,0 +1,81 @@
+{
+  "name": "Commander Severin Bale",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "Not stated on the card — no birth year or age line the way some cards carry one (contrast Lord Knight Commander Maud Thole's card, which states '44' outright; Severin's Identity/Soul Architecture/Primary Stats sections give none). Cast as a seasoned veteran rather than a rookie: he is Head Captain over all Slayer cells across the Plateau theatres and personally trains regional Slayers, Dell among them (card, Duties: 'Train regional Slayers — Dell among them — and set thresholds for when not to swing'), which reads as a long career and an established mentor, plausibly mid-40s to mid-50s. Director's inference, not a sourced fact.",
+  "body": "No height/build line on the card either. Inferred from mechanism: Anvil Step reads 'feet bite ground; recoil disappears into the floor, not his frame' (Traits) — a body built to ground massive recoil rather than dodge it — and his Dexterity (344, Grade A) trails well behind an Ardency sitting at the literal stat ceiling (542 of 550, Grade S), with the card itself noting he is 'Built for straight fights.' He also wields a two-handed slab-edge greatblade (Gallowsgate) with a coffin guard as an unremarkable extension of himself. Reads as large, dense, low-center-of-gravity — built like a foundation stone for delivering and absorbing force in a straight line, not a duelist's taper.",
+  "pitch": "very low",
+  "texture": [
+    "dry, dense chest resonance",
+    "flat / affectless delivery",
+    "faint ground-in grit from the role, not a growl",
+    "unhurried, exact diction",
+    "clipped, declarative — few subordinate clauses"
+  ],
+  "pace": "slow",
+  "energy": "Banked and heavy rather than explosive. The kit's whole logic is control, not fury: latches that trap a weapon instead of trading blows with it, a coffin guard that turns aside a charge by planting rather than parrying, a gauntlet that silences a single breath instead of brawling a spell down. He does not need volume — the card's own magic says his calm is load-bearing: once he 'points the blade and declares a name, everything that protects that life grows heavy' (Traits, Sentence Weight), and a spoken order carries 'execution priority' — panic itself forgets how to scatter when he says stand (Traits, Black Writ). Play the menace as certainty, never as rising heat.",
+  "register": "Procedural, writ-and-oath language — Black Watch officialese delivered flat: name the target, state the sentence, close the book. No persuasion register and no negotiation; per Relationships, the Reaper ratifies and adjudicates while 'the Slayer executes and cannot adjudicate' — he is not building a case, he is reading a warrant that is already final.",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -5,
+    "weight": 0.8,
+    "grit": 0.25,
+    "breath": 0.1,
+    "pace": 0.85
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:13",
+      "quote": "\"I don't hurry. I remove options until the right one remains.\""
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:24",
+      "quote": "Sanctioned executioner and breach-commander. When writs read kill, Severin names the target, opens a straight road through chaos, and closes the book."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:84",
+      "quote": "Sentence Weight · Once he points the blade and declares a name, everything that protects that life grows heavy — shields sag, lies stumble."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:85",
+      "quote": "Anvil Step · Feet bite ground; recoil disappears into the floor, not his frame."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:86",
+      "quote": "Black Writ · Spoken orders carry execution priority; panic forgets how to scatter when he says stand."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:101",
+      "quote": "He wastes nothing. Blade rides low, hip quiet, shoulders square only at the end. He steps in, latches snap, and the enemy's weapon discovers it is furniture. The next beat is decision — one cut that ends engines, banners, or bravado."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Commander Severin Bale · The Slayer.md:58,62",
+      "quote": "Ardency 542 S — Near ceiling. One cut that ends engines, banners, or bravado | Dexterity 344 A — Built for straight fights"
+    },
+    {
+      "source": "scenes/CAST.md:95-96",
+      "quote": "## Commander Severin Bale (3 scenes)\nWOTR_Vaeloris_Sequence.md (26), verinus_sword_and_scale.md (2), verinus_what_a_thing_weighs.md (2)"
+    },
+    {
+      "source": "build/mcp_server.py:629-631 (cast_index)",
+      "quote": "first = n.split()[0] ... rx_first = re.compile(...) if len(first) >= 4 else None ... if c == 0 and rx_first: c = len(rx_first.findall(t))"
+    },
+    {
+      "source": "scenes/WOTR_Vaeloris_Sequence.md:31",
+      "quote": "Lord Knight Commander Maud Thole, 44. The White Guard. Called the Ballast. Sole standing authority to physically stop the Palatine taking a Reading; has exercised it eleven times."
+    },
+    {
+      "source": "scenes/verinus_sword_and_scale.md:153-157",
+      "quote": "He has told a bishop the true reason out loud in a room that weighs things, four paces from a Lord Knight Commander whose job is to write down what he says. ... \"Commander.\" / \"My lord.\""
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints output",
+      "quote": "12 characters with eight or more attributed lines (heuristic attribution; treat as measurement, not verdict). ... Verinus | Cozbi Mahuo | Gimbzo | Lambert | Emira | Sodoku Moto | Aurelian Prudentius Custos Clausorum | Darius | Rengai | Dhaerin | Niran Yukari | Hild Ice — Commander Severin Bale is not among them."
+    }
+  ],
+  "reference_direction": "Male, very low pitch with heavy chest resonance, dry/dense texture and only faint ground-in grit — no growl, no rasp for effect. Pace is unhurried to the point of stillness ('I don't hurry'), each clause set down and left there rather than rushed into the next. No regional or ethnic accent is assigned to him anywhere in the corpus — play it plain and institutional, a Black Watch officer's voice, not a folk voice. Closest comparison: a hanging judge reading a warrant aloud in a quiet room — the sentence is already decided before the first word is spoken, so nothing in the delivery needs to argue for it.",
+  "one_line": "A big, ground-anchored executioner's voice — very low, dry, and unhurried, speaking sentences (literally, in this magic system) rather than making threats.",
+  "accent_hint": "No accent stated or implied anywhere in the corpus — plain, institutional Black Watch diction; avoid regional color."
+}

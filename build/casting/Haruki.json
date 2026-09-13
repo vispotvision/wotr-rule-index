@@ -1,0 +1,103 @@
+{
+  "name": "Haruki",
+  "speaks_in_archive": true,
+  "lines_read": 9,
+  "gender": "female",
+  "age": "No number anywhere — no wiki card exists for Haruki at all (python build/book_tools.py character \"Haruki\" -> \"no card for 'Haruki' in the wiki mirror; check Notion before writing anything numeric about them\"; confirmed by hand: no file in any of the five Character Cards volumes matches 'haruki', and she is absent from every other character's card too). Textual anchors only: Niran_Awakening_Haruki_Reunion.md:31 calls her 'his younger cousin Niran', so she is his elder; the seventy-one-year-old Verinus addresses her as 'Dear child' (WOTR_Vaeloris_Sequence.md:2200) while treating her as a full office-holder ('You hold sacrament', WOTR_Vaeloris_Sequence.md:2256) parallel to Darius's Judgeship. Read as young-adult — old enough to command a room of 'Yukari children' and inherit a burden Darius used to carry, young enough for an old statesman to still call her a child. Cast around mid-20s.",
+  "body": "Also unrecorded numerically (same no-card gap as age). What the scenes confirm: an adult human woman, a trained combatant — 'Haruki had stopped moving the way a fighter moves' (21_darius_the_fist_of_god.md:33) — fast enough that Darius's shielding arm closes on empty air because she is already past him (16_darius_let_nothing_be_sealed.md:33-35). She takes a precision called-shot through the flank in that fight, a wound built to end her part in the fight without killing her (21_darius_the_fist_of_god.md:209), and is left 'white coming off the wreck' afterward (23_darius_the_fist_of_totality.md:166) but still able to redirect lethal light away from her own body a moment later, the same defensive reflex Aurelian shows (23_darius_the_fist_of_totality.md:172). Nothing marks her as giant-scaled or diminutive — an ordinary-sized woman who is a genuine fighter and now a sacrament-bearer, not a mass or a monster.",
+  "pitch": "medium-low",
+  "texture": [
+    "stern, sour-edged control on duty - the prose's own words, not a metaphor added here",
+    "an intimidating, faintly harsh front over something the text calls 'misunderstood' underneath",
+    "breath is the tell throughout the archive - held, caught, gone shallow, or let go soft depending on what she's feeling",
+    "cracks into a shaking, almost-breathless register at the one moment the guard drops entirely (finding her cousin alive)"
+  ],
+  "pace": "moderate",
+  "energy": "Controlled and a little coiled at baseline - she runs a sickroom like an officer, cutting off an injured man's protest in clipped, complete sentences ('Foolishness, and you're well aware of that.' Niran_Reply_to_Haruki.md:7) and taking a decision away from a room of onlookers without raising her voice (Niran_Reply_to_Haruki.md:13-15). That control is a held door, not calm: the one time it's tested by pure shock rather than duty, it goes to pieces on the way in - 'she stopped before she could speak, her breath light and lacking. Suffocating with the revelation of what stood before her... she couldn't help but tremble' (Niran_Awakening_Haruki_Reunion.md:31), and she keeps talking anyway, broken across ellipses, hand shaking 'not out of fear, just shock' (Niran_Awakening_Haruki_Reunion.md:35).",
+  "register": "Formal-terse command register with almost no softening words - she gives orders and states facts in short, complete declaratives ('Let me handle this, you need to adjust to your new body.' Niran_Reply_to_Haruki.md:7) and pulls rank on herself and on a whole room in the same breath ('I will take upon the responsibility you were given.' Niran_Reply_to_Haruki.md:13). No dialect or slang on the page. Under real emotional load the register doesn't relax into warmth so much as fracture into fragments and trailing ellipses ('Is this... truly you? After all this time... you still live?' Niran_Awakening_Haruki_Reunion.md:33) before she reassembles it.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.4,
+    "grit": 0.3,
+    "breath": 0.55,
+    "pace": 1.05
+  },
+  "evidence": [
+    {
+      "source": "build/book_tools.py character \"Haruki\" (CLI output)",
+      "quote": "no card for 'Haruki' in the wiki mirror; check Notion before writing anything numeric about them"
+    },
+    {
+      "source": "Niran_Reply_to_Haruki.md:5",
+      "quote": "\"You're awake.\" She spoke, she had grown much since he last saw her. Haruki's eyes lightened as a soft breath left her as her eyes laid down on Niran."
+    },
+    {
+      "source": "Niran_Reply_to_Haruki.md:7",
+      "quote": "\"And already speaking on leaving. Foolishness, and you're well aware of that.\" She said, harsh, but true. \"Your body will crumble on its own weight, you're still unstable... Let me handle this, you need to adjust to your new body.\" She said, her cloak extended out as it flowed behind her. Her gaze sharpened as there was this stern, strict, and sour gaze from her."
+    },
+    {
+      "source": "Niran_Reply_to_Haruki.md:9",
+      "quote": "\"I do not doubt your ability. I only doubt the knowledge we consider factual. Consider before acting, you are not impulsive.\" She spoke, her breath held for a moment as this more intimidating and yet misunderstood presence built around her."
+    },
+    {
+      "source": "Niran_Reply_to_Haruki.md:13",
+      "quote": "\"Cozbi has fled, but that doesn't mean he will not return. You are simply too valuable to leave unchecked. Therefore... I will take upon the responsibility you were given.\" She said, her eyes glared at him, then over to the other Yukari that surrounded him."
+    },
+    {
+      "source": "Niran_Awakening_Haruki_Reunion.md:31",
+      "quote": "She stopped before she could speak, her breath light and lacking. Suffocating with the revelation of what stood before her. For many cycles she had witnessed it, the death of her younger cousin Niran... she couldn't help but tremble."
+    },
+    {
+      "source": "Niran_Awakening_Haruki_Reunion.md:33",
+      "quote": "\"Is this... truly you? After all this time... you still live?\" She asked, as if needing the validation, to understand what she sees is not a phantom of her past, but the truth manifested as sight."
+    },
+    {
+      "source": "Niran_Awakening_Haruki_Reunion.md:35",
+      "quote": "\"You... You died.... Or at least that is what I was told to believe... but then you remain... how?\" She said, her hand shaking a bit but not out of fear, just shock."
+    },
+    {
+      "source": "Niran_Awakening_Haruki_Reunion.md:37",
+      "quote": "\"We thought we lost you, but you live on.\" She said, almost breathless as she approached him, disregarding the warnings that Cozbi had given her."
+    },
+    {
+      "source": "16_darius_let_nothing_be_sealed.md:33-35",
+      "quote": "Haruki came past him on the left. He got an arm out. He had it up and across before she was level with him and it was already too late by a considerable margin, and what closed on the space where she had been was a fistful of nothing and a great deal of light."
+    },
+    {
+      "source": "21_darius_the_fist_of_god.md:33",
+      "quote": "Down the crater, in the wreck at the far end, Haruki had stopped moving the way a fighter moves."
+    },
+    {
+      "source": "21_darius_the_fist_of_god.md:209",
+      "quote": "Haruki's wound read from thirty yards: through the flank, out the side, nothing through the centre line, laid exactly where enough structure lives to end a person's ability to fight and exactly clear of everything that ends a person."
+    },
+    {
+      "source": "23_darius_the_fist_of_totality.md:166",
+      "quote": "Haruki is white coming off the wreck."
+    },
+    {
+      "source": "23_darius_the_fist_of_totality.md:172",
+      "quote": "The light comes across the crater and goes into the wall in his hand rather than into his body. Haruki's does the same."
+    },
+    {
+      "source": "WOTR_Vaeloris_Sequence.md:52",
+      "quote": "Sacrament as upheld rather than delegated, distinguishing Haruki's burden from Darius's."
+    },
+    {
+      "source": "WOTR_Vaeloris_Sequence.md:2012",
+      "quote": "The file on the one they called Haruki was four lines long and three of them were dates."
+    },
+    {
+      "source": "WOTR_Vaeloris_Sequence.md:2200-2256 (\"The Slope\", Verinus and Haruki, WOTR_Vaeloris_Sequence.md:21)",
+      "quote": "\"Dear child,\" Verinus said... \"You hold sacrament. That is not a title and it is not a compliment... it is upheld in you and it goes out from you and there is nobody above you in the chain who can take it back.\""
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "not listed in the table (12 characters with eight or more attributed lines by the tool's own heuristic attribution). Her quoted lines are consistently tagged 'She said' / 'She spoke' rather than 'Haruki said', so the name-matching heuristic likely undercounts her - no numeric fingerprint is available either way."
+    }
+  ],
+  "reference_direction": "Female, medium-low pitch - an alto pitched for someone who has had to sound older than she is on duty, not a light or girlish register. Texture is a controlled, faintly sandy edge (the prose's own words are 'stern, strict, and sour') laid over a voice that is fundamentally breath-driven underneath: breath held, caught, gone shallow, or let out soft depending on what she's actually feeling, even while the words stay level. Pace is clipped and efficient in her command mode - short, complete declaratives, no hedging, no filler - but fragments and slows into broken, ellipsis-laden half-sentences at the one moment of pure shock in the archive (finding a cousin she believed dead, alive). No accent or dialect flavour is indicated anywhere in the text; play it clean and placeless, formally correct diction throughout. Comparison: a young officer or field medic who has trained herself to sound steady while on duty, and only lets you hear the shake in her breath between the words, never in the words themselves.",
+  "one_line": "A stern, breath-driven young alto - an officer's clipped composure over a sound-track of held and catching breath, that comes apart into shaking, broken half-sentences exactly once, when the duty finally has nothing left to hold back."
+}

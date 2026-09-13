@@ -8,6 +8,14 @@
 #                 engine: chatterbox   ref: build/voices/x.wav   exaggeration: 0.6   cfg: 0.35
 #                 (Chatterbox: expressive, slower, can design a voice from a reference clip;
 #                  see build/chatterbox_backend.py)
+#                 engine: supertonic   voice: M2   steps: 10   speed: 0.95
+#                 (Supertonic 3: fast, stable, 44.1 kHz, CPU only; ten fixed presets M1–M5 / F1–F5
+#                  or style: <voice-style .json>; performs [laugh] [sigh] [breath]; see build/supertonic_backend.py)
+#                 engine: qwen   instruct: "<the voice brief>"   anchor: build/voices/anchors/X.wav   tries: 2
+#                 speed / pitch_st / formant / range_factor (exact, applied after synthesis)
+#                 (Qwen3-TTS VoiceDesign: THE character engine — a voice from words, no clip; batched per
+#                  speaker, scored against the anchor; see build/qwen_backend.py. `instruct_from: casting`
+#                  reads qwen_instruct from build/casting/<Name>.json instead.)
 #
 # Speakers are the [Name] tags in scenes/cast/<scene>.cast.md. "narrator" is every
 # untagged line. A speaker with no entry gets a stable pick from _pool below, and the
@@ -38,20 +46,44 @@ Verinus:               # seventy-one in a twenty-six-year-old's body; dry, exact
 Aurelian:
   voice: am_michael
 
-# The Seven, and the Price of Each — Chatterbox voices designed from VCTK speakers (CC BY 4.0, credits in build/voices/refs/CREDITS.md)
-Gimbzo:                # eight feet of him; the laugh goes through the uprights
-  engine: chatterbox
-  model: turbo
-  ref: build/voices/refs/gimbzo.wav
-  speed: 0.92
-  gain: 1.1
+# The Seven, and the Price of Each — the leads are DESIGNED voices: Qwen3-TTS VoiceDesign from a written brief
+# (build/qwen_backend.py). `anchor` is the take Isaac approved on 12 Sep 2026; every batch is scored against it.
+Gimbzo:                # eight feet of him; Yhwach register — very deep, dark, slow, every word weighted; the creak is the point
+  engine: qwen         # 12-field brief (QWEN_DESIGN_GUIDE.md §3.1); "creaky, vocal fry, low rumble" measured closest to the
+  instruct: >-         # approved deep line (0.43 mean / 0.69 best vs 0.25 for the guide's base texture); no "hoarse" — it raises pitch
+    gender: Male. pitch: Very low male pitch, deep bass, generally stable with almost no rise.
+    speed: Slow, deliberate pace, with long pauses between sentences. volume: Conversational and projected from the chest, never loud.
+    age: Older adult. clarity: Clear, distinct pronunciation. fluency: Highly fluent, long unbroken sentences with no hesitations.
+    accent: General American English. texture: Deep, resonant, creaky, with vocal fry and a low rumble, gravelly and rough.
+    emotion: Calm and composed, without heat. tone: Flat, level, authoritative, matter-of-fact.
+    personality: Blunt, patient, plainspoken, unhurried.
+  anchor: build/voices/anchors/Gimbzo      # the three lines of the approved set; line3_deep is the register Isaac liked
+  tries: 4
+  pitch_st: -1         # the deep register, held for every line
+  range_factor: 0.9
+  gain: 1.05
+Darius:                # the Measurewright; Piccolo floor, Vegeta's edge when the door cracks
+  engine: qwen         # the prose brief that made the anchor lands closest to it (56% of draws >= 0.5; the 12-field form 44%)
+  instruct: >-
+    A stern middle-aged man. Deep, dry, resonant baritone, gruff and gravelly, low in the chest, measured and unhurried,
+    flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly;
+    never raises his voice. Clear American English, no accent, serious, no warmth.
+  anchor: build/voices/anchors/Darius
+  tries: 3
 Kizami:                # the Notcher; a neck with too many joints; keeps the record
   engine: chatterbox
   model: standard
   ref: build/voices/refs/kizami.wav
   exaggeration: 0.65
   cfg: 0.4
-Darius:                # the Measurewright; thirty-five years and three tribunals
+# the earlier Chatterbox casts, kept for A/B (VCTK speakers, CC BY 4.0; credits in build/voices/refs/CREDITS.md)
+Gimbzo-cb:
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/gimbzo.wav
+  speed: 0.92
+  gain: 1.1
+Darius-cb:
   engine: chatterbox
   model: turbo
   ref: build/voices/refs/darius.wav
@@ -67,3 +99,24 @@ narrator-f:            # reader 3576 — slightly low, a little expressive
   engine: chatterbox
   model: turbo
   ref: build/voices/refs/narrator-f.wav
+
+# Supertonic 3 presets (audition: build/voices/bakeoff/supertonic3/) — the fast tier; --voice narrator-st for a whole scene on it
+narrator-st:           # M2 — level, unhurried, reads back clean
+  engine: supertonic
+  voice: M2
+  steps: 10
+  speed: 0.95
+narrator-st-f:         # F5 — the only preset that took the giant's laugh cleanly
+  engine: supertonic
+  voice: F5
+  steps: 10
+  speed: 0.95
+
+# Qwen narrator — PROVISIONAL (candidate N1 of the 12 Sep audition; swap the brief and the anchor folder when Isaac picks)
+narrator-q:
+  engine: qwen
+  instruct: >-
+    A male narrator in his fifties. Low, warm-dark baritone, dry and unhurried, precise diction, literary audiobook narration;
+    understated, level, a faint gravity, no theatrics. Neutral clear English. Measured pace with natural pauses.
+  anchor: build/voices/anchors/narrator-q
+  tries: 3

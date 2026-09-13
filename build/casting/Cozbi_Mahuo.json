@@ -1,0 +1,74 @@
+{
+  "name": "Cozbi Mahuo",
+  "speaks_in_archive": true,
+  "lines_read": 22,
+  "gender": "male",
+  "age": "Unclear by design (card, Identity) — no simple count fits decades of harvesting, but the prose plays him as functionally ancient: \"I have not been afraid of anything in three hundred years\" (Cozbi_Pneuma_Unravel_Strike.md:13). Sex is male \"in his true self and most projections\" (card, Identity, line 25), so cast the centuries, not any one vessel's apparent youth.",
+  "body": "No fixed physical size or shape — a projected vessel three planes removed from the seated 'true' Cozbi, and his vessels 'don't uniformly match each other' (card §XIII, line 139). Not a giant, not built for melee (personal unarmed output is his weakest register per the stat block); what's constant across every vessel is a 'quality more than a face': gentleness that needs no performance, a stillness the air itself seems to observe, dust and breath that stop moving on his say-so (card §XIII, line 140). Cast the stillness, not a body type.",
+  "pitch": "medium-low",
+  "texture": ["smooth", "warm-surfaced", "cultured", "unhurried", "faintly amused", "flattens to plain ownership when addressing something he doesn't consider a person", "grit only surfaces through blood or real injury"],
+  "pace": "measured",
+  "energy": "Banked and inexhaustible rather than low — the calm of a man for whom time is not a resource he needs to conserve (card §XIII, Strength). Genuine delight surfaces as unhurried laughter that is allowed to run its full course rather than being clipped for effect; real menace never needs volume, only the withdrawal of warmth. The one measured exception is alarm, which is rare, brief, and the single documented place his cadence actually speeds up.",
+  "register": "A lecturer's register laid over a predator's patience — long, precisely joined clauses ('arithmetic', 'ledger', 'decoration men add so they can sleep afterward'), moderate contractions (0.5 on the numbers, so not stiffly formal), heavy first-person framing (0.58) and almost no questions (0.06) or imperatives (0.03): he explains and asserts, he does not interrogate or bark orders. Per the card, plural self-reference creeps in under strain 'per Mahuo pattern' (§XIII, Voice) — a house-brand tic worth landing on one or two lines under genuine pressure, not the whole read.",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.5,
+    "grit": 0.15,
+    "breath": 0.2,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Cozbi Mahuo.md:149",
+      "quote": "Unhurried, warm-sounding even describing atrocity, precise, with occasional plural self-reference under strain per Mahuo pattern. Explains everything, genuinely believing no one else would follow the arithmetic otherwise."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Cozbi Mahuo.md:150",
+      "quote": "Speed. Everywhere else unhurried — alarm makes him talk faster than his usual cadence allows. Dova's read earned real, unpracticed alarm: his only documented cadence speed-up"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Cozbi Mahuo.md:140",
+      "quote": "a quality more than a face: gentleness that never once needs to perform anything, a stillness in the air around him that ordinary physics doesn't achieve on its own"
+    },
+    {
+      "source": "scenes/Cozbi_Dragon_Binding_and_Ashuras_Call.md:27",
+      "quote": "\"You are to be my loyal subject.\" His voice carried none of the warmth he had used on the child, only the flat patience of ownership."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:29",
+      "quote": "\"Clever,\" Cozbi said. [...] \"I take because taking works. Everything else is decoration men add so they can sleep afterward.\""
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:33",
+      "quote": "\"He'll never remember the needle.\" Cozbi's voice stayed light, almost gentle, which made it worse than shouting would have."
+    },
+    {
+      "source": "scenes/Cozbi_Sealed_Retreat.md:17",
+      "quote": "\"It doesn't matter.\" Cozbi's voice stayed flat even through the blood, even through the effort it plainly cost him to keep it level."
+    },
+    {
+      "source": "scenes/Cozbi_Pneuma_Unravel_Strike.md:1",
+      "quote": "\"Do you want applause for your ferocity?\" Cozbi's voice carried across the ruined crater, unhurried, amused."
+    },
+    {
+      "source": "scenes/Cozbi_Antithesis_Split_Fight.md:1",
+      "quote": "\"No. This won't do.\" Cozbi's voice carried across the burning clearing with the particular disappointment of a man reviewing a performance he'd expected more from."
+    },
+    {
+      "source": "scenes/Cozbi_Defensive_Response_to_Dova.md:13",
+      "quote": "the thought carried none of his usual patience, only the flat, unpracticed alarm of a man recalculating a fight he had already told himself he'd won"
+    },
+    {
+      "source": "scenes/Cozbi_Root_Severance_and_Rashani_Threshold.md:29",
+      "quote": "\"Mm. Magnificence, forty-five.\" Cozbi's grin widened, an expression that had learned to imitate warmth so thoroughly it fooled anyone who had never seen what sat beneath it."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Cozbi Mahuo | 36 lines | mean words 21.6 ±16.5 | short share 0.17 | questions 0.06 | contractions 0.5 | first person 0.58 | imperatives 0.03 | favourite words: more, thing, i'll, don't, understand, want"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch — a warm baritone, not a bass, and not a giant's rumble; nothing here is built for size. Texture is smooth and almost ungritty at baseline (the numbers carry no rasp cue), with real grit reserved for the one scene where he's coughing blood and holding his voice level anyway. Pace is unhurried and deliberate, sentences given room to finish, with the single documented exception of a genuine-alarm speed-up that should sound like the register itself catching him off guard rather than a shift to a different voice. No regional accent flavour is on record — the diction reads closer to a lecture hall than a battlefield, precise and unbothered. Closest comparison: the calm, avuncular voice of a museum docent narrating something horrifying as though it were simply interesting — warmth as the delivery mechanism for cruelty, never volume.",
+  "one_line": "A centuries-patient, warm-baritone lecturer's voice that explains atrocity like arithmetic — smooth and unhurried until the one moment something finally startles it into speed."
+}

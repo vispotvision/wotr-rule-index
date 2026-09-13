@@ -1,0 +1,34 @@
+{
+  "name": "Onawa Ashkewe",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "female",
+  "age": "Card gives no fixed number: 'Appears late twenties. True age unrecorded — Tsohanto queens stop counting years at their coronation.' She carries the borrowed voices and memories of every prior wearer of the mask, so the read should be an old, settled composure sitting inside a young register — not a young voice and not an old one, but a young face with a much older weight of grief behind it.",
+  "body": "5'5\", slight and still, ceremonial rather than martial (card §XIII-XV) — a small, composed frame, not physically imposing; her authority reads through stillness and ritual bearing, not size or force.",
+  "pitch": "medium-low",
+  "texture": ["smooth and even, almost no rasp", "a faint blur/softening on sibilants (s, sh sounds), thickening when she is grieving", "hushed, controlled breathiness rather than open breath", "declarative and unhurried — feeling named before the fact that caused it", "goes quieter under stress, never louder or sharper"],
+  "pace": "measured",
+  "energy": "low and level by default; grief flattens her further rather than spiking her, and pressure makes her recede into more quiet rather than raise volume or speed — the opposite of a shout-under-stress voice.",
+  "register": "ceremonial/liturgical and declarative — states facts about death and grief with the evenness other rulers reserve for weather. Loosens toward plainer, less formal speech only after she has gone a stretch without invoking the mask, then snaps back to full ceremonial cadence within a sentence of putting it on again.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.5,
+    "grit": 0.1,
+    "breath": 0.4,
+    "pace": 0.88
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:131", "quote": "Unhurried, declarative, feeling stated before the noun that caused it. Two to three phonetic softenings on sibilants, more pronounced under grief than anger. Rarely raises her voice — states facts about death and grief with the same evenness other rulers reserve for weather"},
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:134", "quote": "Goes quieter, not louder. The mask's fangs are the only thing that moves"},
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:132", "quote": "Speaks more plainly and less ceremonially the longer she goes without invoking the mask — and the ceremonial register returns within a sentence of putting it back on"},
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:133", "quote": "Still, weighted, head tipped slightly as though listening to something behind the current conversation. Because she usually is"},
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:123", "quote": "5'5\", slight and still, ceremonial rather than martial."},
+    {"source": "wiki/Volume I — Character Cards/Onawa Ashkewe.md:23", "quote": "Appears late twenties. True age unrecorded — Tsohanto queens stop counting years at their coronation"},
+    {"source": "scenes/CAST.md:122-123", "quote": "Onawa Ashkewe (2 scenes)\n00_SUPERSEDED_wrong_names.md (4), 01_the_vacancy_korvaeth_arc.md (2)"},
+    {"source": "scenes/01_the_vacancy_korvaeth_arc.md:684", "quote": "Everything from my previous pass is struck. The record now reads: Ilthára Korvaeth of House Korvaeth, her brother Aeldros Korvaeth, the Validated, and Onawa, Empress of Eresse and her lifelong friend since the orchard at fourteen. No Marrovel, no Vaelor, no Greysalt, and no Onawa Ashkewe."}
+  ],
+  "reference_direction": "Female, medium-low pitch — not a bright youthful timbre despite her young face, but a smoothed, composed register with real weight under it, closer to alto than soprano. A faint hushed blur on sibilant sounds (s/sh) that thickens slightly under grief. Pace is unhurried and evenly spaced, the felt word landing just before the noun that caused it, almost like a ritual invocation rather than ordinary conversation. No regional real-world accent — placeless, formal, ceremonial cadence. The one deliberate contradiction to preserve: pressure makes her recede rather than rise — quieter and stiller under stress, not louder or faster. Comparable to a funeral celebrant or temple oracle reciting rites from memory: evenness that comes from discipline and inherited grief, not from an absence of feeling underneath it.",
+  "one_line": "A young queen's face over an old, grief-worn voice — hushed, unhurried, and ceremonially even, with a soft sibilant blur that thickens with sorrow and a stillness that only ever gets quieter under pressure, never louder."
+}

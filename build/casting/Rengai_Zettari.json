@@ -1,0 +1,74 @@
+{
+  "name": "Rengai Zettari",
+  "speaks_in_archive": true,
+  "lines_read": 14,
+  "gender": "male",
+  "age": "~20s per the card (Identity, wiki/Volume I — Character Cards/Rengai Zettari.md:23), Dougou Zettari's direct son. Young by the number but not by the writing — the card frames his defining trait as patience that risks tipping into inaction (card, Flaw, line 112), and the prose gives him a father he's already outlived in temperament: a knee that cracks 'the way it always did lately' at only six years into fatherhood (scenes/Rengai_Farewell_and_Dhaerin.md:7) and a voice that 'slows further' rather than spikes under stress (card, Voice, line 115). Cast a hardened man in his mid-to-late twenties who reads older than his years, not a boy soldier.",
+  "body": "6'0\", lean and wiry — attrition-fighter frame, dense where it counts (card, Description, wiki/Volume I — Character Cards/Rengai Zettari.md:106). Heat-scarred at jaw, neck and hands, knuckles permanently ash-stained (card line 108). His father Dougou is 'the Iron Bison' and built from raw output; Rengai is explicitly the leaner counter-instrument — 'His power is ash because his father is fire. He is what remains after the burn' (card line 96) — endurance and attrition rather than bulk or boom. Cast the wiry attrition fighter, not his father's mass and not a giant's rumble.",
+  "pitch": "medium-low",
+  "texture": ["dry", "sardonic", "unhurried", "faint smoke-cured rasp from lifelong ash exposure", "flattens and hardens rather than rises when truly angry", "banked heat, not volume", "a rare low tenderness reserved for his own house"],
+  "pace": "measured",
+  "energy": "Restrained and banked at baseline. Facing the man who has been the target of his whole journey, 'Rengai did not answer immediately [...] when he finally spoke his voice carried none of the heat Dhaerin had expected to hear in it' (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:13). When anger does surface, it shows as pressure, not projection: '\"You made a two-year-old bleed for it,\" Rengai said, and this time the heat did show, banked but visible, ash lifting faintly off his shoulders' (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:31). The card states the counterintuitive direction directly — under stress he 'slows further' rather than speeding up (card, Voice, line 115) — so tension should read as the voice getting quieter and more deliberate, never rushed. The one register he lowers all the way, rather than banks, is for his wife and son: 'Rengai's voice softened all the way down, the register he used only in this house, for these two people' (scenes/Rengai_Farewell_and_Dhaerin.md:23).",
+  "register": "Dry, sardonic, rarely loud, lets silence work (card, Voice, wiki/Volume I — Character Cards/Rengai Zettari.md:115) — he is repeatedly shown not answering immediately, working his jaw before letting words out clean (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:13,15). The numbers back a plainspoken adult who finishes his sentences rather than clips them or interrogates: mean utterance 31.9 words, zero short-share, contractions high at 0.9, first person heavy at 0.6, zero imperatives across his sample (build/book_tools.py voice_fingerprints) — he states his position in full, unhurried clauses. He drops flat and unornamented when naming a technique, 'the way his father said it' (scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:7), and reserves genuine warmth, low and quiet, for the one house that's his (scenes/Rengai_Farewell_and_Dhaerin.md:15,23). Dry humor surfaces without heat even toward people he respects: '\"Insufferable old man,\" he muttered, though there was no heat left in it' (scenes/Rengai_Farewell_and_Dhaerin.md:53).",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -1,
+    "weight": 0.4,
+    "grit": 0.5,
+    "breath": 0.55,
+    "pace": 0.87
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Rengai Zettari.md:115",
+      "quote": "Dry. Sardonic. Rarely loud. Lets silence work. Relaxed in ways that read wrong — stillness that functions as readiness. Under stress: slows further. Red eye brightens. Field thickens. The ash escalates for him"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rengai Zettari.md:106",
+      "quote": "6'0\", lean and wiry — attrition-fighter frame, dense where it counts."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rengai Zettari.md:96",
+      "quote": "His power is ash because his father is fire. He is what remains after the burn."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rengai Zettari.md:109",
+      "quote": "Aura: the air near him is drier than it should be. Eyes want to blink more often."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:13",
+      "quote": "Rengai did not answer immediately. [...] when he finally spoke his voice carried none of the heat Dhaerin had expected to hear in it."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:31",
+      "quote": "\"You made a two-year-old bleed for it,\" Rengai said, and this time the heat did show, banked but visible, ash lifting faintly off his shoulders in the cooling evening air."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:9",
+      "quote": "\"Little man.\" His voice came out rougher than he meant it to."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:15",
+      "quote": "He kept his voice low, level, the register he used when a thing was true and did not need volume to make it truer."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:23",
+      "quote": "Rengai's voice softened all the way down, the register he used only in this house, for these two people."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:53",
+      "quote": "\"Insufferable old man,\" he muttered, though there was no heat left in it, only the specific fondness reserved for people who were usually right and never let you forget it."
+    },
+    {
+      "source": "scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:7",
+      "quote": "He said the name the way his father said it, flat, unornamented, a fact rather than a boast, and his skin lit from beneath with a dull, banked glow."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Rengai | 10 lines | mean words 31.9 ±16.0 | short share 0.0 | questions 0.1 | contractions 0.9 | first person 0.6 | imperatives 0.0 | favourite words: because, something, back, never, don't, can't"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch, mid-to-late twenties but weathered — dry, sardonic, deliberately unhurried delivery that gets slower and quieter rather than louder or faster under real pressure. A faint smoke-cured rasp and dryness sit under the voice at all times (lifelong ash and cinder exposure, documented Cinder Lung risk and blood-flecked breath at cost), thickening slightly when he's been fighting hard. Volume almost never rises — anger reads as a flattening and hardening of tone, heat banked rather than shouted, breaking only into a rare low warmth at home with his wife and son. No regional accent flavour on record; closest comparison is a weary attrition soldier delivering a quiet field report he's given too many times before — economical, dry-humored, never needing to raise his voice to be believed.",
+  "one_line": "A dry, sardonic, smoke-cured baritone that gets quieter and slower exactly when the fight gets worse — banked heat instead of shouting, with a rare low tenderness kept only for his own house."
+}

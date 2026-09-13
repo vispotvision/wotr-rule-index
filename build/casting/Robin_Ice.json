@@ -1,0 +1,77 @@
+{
+  "name": "Robin Ice",
+  "speaks_in_archive": true,
+  "lines_read": 13,
+  "gender": "male",
+  "age": "29 (card-stated present age; the archive's only dialogue is a flashback to age 17, per the same voice-defining traits)",
+  "body": "Tall and narrow through the shoulders, built for distance rather than impact; nose broken at least twice, leftward deviation; a bastard runner who has been on the road since fourteen",
+  "pitch": "medium",
+  "texture": [
+    "nasal (career mouth-breather from sustained running)",
+    "breathy / winded, even at rest",
+    "flat, worn smooth of regional colour",
+    "clipped, procedural under duress",
+    "faint rasp under strain",
+    "unadorned and plain when something gets past his guard"
+  ],
+  "pace": "quick",
+  "energy": "restrained and instrumental most of the time — a report-voice that keeps its footing under atrocity and order alike — with brief, unplanned overflows into plain, undefended feeling when something slips past the discipline",
+  "register": "Functional and deferential in address (\"My lord,\" \"My Lord Palatine\"), compressed into report-cadence fragments when winded or under pressure; drops into complete, plain-spoken sentences with no rhetorical shaping when he is moved, as if the discipline has briefly gone offline",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": 1,
+    "weight": 0.25,
+    "grit": 0.3,
+    "breath": 0.65,
+    "pace": 1.08
+  },
+  "evidence": [
+    {
+      "source": "wiki card: Robin Ice — The Bastard Runner, Description section",
+      "quote": "His voice is Concord-flat, the accent of a man who has been everywhere and belonged nowhere, with the slight nasal quality runners develop from years of mouth-breathing during sustained movement."
+    },
+    {
+      "source": "wiki card: Robin Ice — The Bastard Runner, Description section",
+      "quote": "Tall and narrow through the shoulders, built for distance rather than impact."
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:107",
+      "quote": "Robin Ice hauled it round in a spray of frozen mud and got it stopped and half fell out of the saddle, and stood there holding the cheekpiece with both hands and breathing in a way that was not going to be sustainable for much longer."
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:119",
+      "quote": "\"The southern reach is still standing. Bram had the breach at the ninth hour and was holding it and I saw him on foot. The Seat is closed and the inner court is manned. Lord Osric has the princess and the lady below the cistern and has ordered the gatehouse shut behind him.\" The boy got a breath in. \"And Lord Lambert went out the postern before the gates opened. Six riders. No banner. He said five days.\""
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:123",
+      "quote": "\"On the road. Standing.\" Robin Ice's jaw moved. \"In front of the one with the halberd.\""
+    },
+    {
+      "source": "scenes/wotr_the_weight_of_a_courier.md:129",
+      "quote": "\"My Lord Palatine. I come with word from the True High King of Kharven, Sodoku Moto. He sends notice of distress and requests the support of the Holy Sea in his endeavours, specifically naval and grain support, and asks that you consider the ancient friendship between our houses in your deliberation.\""
+    },
+    {
+      "source": "scenes/wotr_the_weight_of_a_courier.md:163",
+      "quote": "\"There is a death-house at Coldbeck with forty in it. They cannot bury them. The ground is shut until Ice-out and the man who reads the names is a cooper because the last one who could do it properly died four years ago and the liturgy went with him. I stopped there on the sixth night. A woman gave me half a rind because I was on the Crown's business and I ate it and I have thought about that rind every day since, because she had four children in the room behind her and she gave it to me anyway, and I did not have anything to give her back except a sealed pouch I was not allowed to open.\""
+    },
+    {
+      "source": "scenes/wotr_the_weight_of_a_courier.md:169",
+      "quote": "\"Her name is Ada Foss,\" he said. \"I asked. I did not have to ask. I asked because I wanted to be able to say it somewhere that mattered and I did not think this would be the room.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:249",
+      "quote": "\"We have come to report. We hanged all the members of the Goblin Senate.\" He got his breath. \"The Hobgoblins want to speak about peace offerings.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:253",
+      "quote": "Robin Ice had ridden a hundred and eleven miles in eleven hours and had seen the man's face in every condition it comes in, at the wall and in the hall and on the road, and he said afterward, to a woman in a tavern in the Cooper's quarter who did not believe him, that the face which turned round in the upper burying ground that morning was one he had never seen before and has not seen since, and that there was nothing in it at all."
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:265",
+      "quote": "Then he said \"Aye,\" and turned his horse, and rode, and did it, and has never once said in any hall that he questioned the order, and has told two people privately that he did not, and both of them believe him, and the reason they believe him is that Robin Ice is a runner and a runner who begins weighing the traffic stops being one."
+    }
+  ],
+  "reference_direction": "Male, medium pitch — not deep; the narrow, distance-built frame carries less chest resonance than a soldier's would. A flattened, placeless, well-traveled non-accent: a voice worn smooth by having passed through everywhere and belonged nowhere, no regional colour to grab onto. A persistent light nasal quality and audible breath-management — a career runner's mouth-breathing — sits under even his most composed lines, so he never sounds fully at rest. Delivery is clipped and procedural under duress: short declaratives, report-cadence, feeling flattened out of it even when the content is atrocious (he can say \"Aye\" to an order to kill hostages in the same flat register he uses to report a road closure). That same discipline drops away, briefly and without warning, into plain, undefended, complete-sentence disclosure when something personal gets past his guard. Comparable to a battlefield field-runner's radio-check flatness or a long-haul dispatcher's voice: economical, wind-worn, permanently a little out of breath, holding a story it isn't its job to editorialize about.",
+  "one_line": "A worn, placeless courier's voice — medium-pitched, nasal from a lifetime of mouth-breathing at a run, flat and clipped when reporting even the worst orders, and briefly, plainly undefended when something personal slips through."
+}

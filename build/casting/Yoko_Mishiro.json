@@ -1,0 +1,84 @@
+{
+  "name": "Yoko Mishiro",
+  "speaks_in_archive": true,
+  "lines_read": 14,
+  "gender": "female",
+  "age": "29 (card-current, Volume I); 22-26 in earlier Scourge-of-Hell-era scenes — cast from the current record",
+  "body": "5'6\", long-limbed and lean, built for movement through tight spaces rather than force. Fox-spirit beastkin: ash-grey hair and ears, amber-brown eyes, narrow shoulders, legs stronger than the rest of her frame suggests. Non-combat architecture — 'Ardency and Vitality both leave her at a real disadvantage in a straight fight' — a small, light physical presence that habitually minimizes the space it takes up.",
+  "pitch": "medium-high",
+  "texture": [
+    "clean, almost unaccented — no rasp",
+    "clipped and economical, exact word count for the fact at hand",
+    "deliberate mid-sentence pauses ('a pause exactly one breath long' recurs as a beat)",
+    "dry, deadpan wit surfacing inside the same flat cadence",
+    "goes MORE precise and level under threat, never louder or shakier"
+  ],
+  "pace": "measured",
+  "energy": "low and contained; stillness reads as alertness, not passivity — the ears and tail do the emoting so the voice doesn't have to",
+  "register": "flat-precise sensory-report register, warmed at the edges around family without losing the economy",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": 1.5,
+    "weight": 0.2,
+    "grit": 0.08,
+    "breath": 0.25,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Yoko Mishiro.md, XIII-XV Voice field",
+      "quote": "Sensory-confirmation syntax. No heavy phonetic marking, more precise under stress rather than less. Offers exactly what is accurate and nothing more, still, even at home. Under stress narrows to the single confirmed fact"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Yoko Mishiro.md, XIII-XV Dialogue Evolution field",
+      "quote": "The Temür-specific softening has spread past him. More openly warm at home than she ever was on the road, precision intact, flatness mostly retired except under genuine threat"
+    },
+    {
+      "source": "scenes/YOKO_MISHIRO.md:9",
+      "quote": "the specific flatness of a voice that has learned to offer the exact amount of information required and nothing more. The warmth is real. It coexists with the flatness."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:901-903",
+      "quote": "\"He isn't,\" Yōko said. ... The answer came flat. No warmth. No gratitude. No performed relief at being offered an exit."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1329",
+      "quote": "\"You should rest. I can keep watch, my nose will catch anything long before it gets close.\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1345",
+      "quote": "\"Maybe. But you've fed me every night since. You've stopped twice on this road to let Emira rest when you didn't have to. A man who only sees a tool doesn't do that.\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1355",
+      "quote": "\"For what it's worth, whoever you killed them for, I'm glad you didn't kill me too.\""
+    },
+    {
+      "source": "scenes/temur_true_religion_alabaster.md:31",
+      "quote": "\"I try.\" ... \"Your father is arrogant. He does not listen. He walks toward large problems in order to see them better and he calls it assessment.\" A pause exactly one breath long. \"I have assumed it was the prince in him. I have no evidence.\""
+    },
+    {
+      "source": "scenes/temur_true_religion_alabaster.md:33",
+      "quote": "\"Someone is coming through the yard. Running. Small. And there is cold on her.\" A pause of exactly one breath. \"The cold is hers. She is making it.\""
+    },
+    {
+      "source": "scenes/temur_true_religion_alabaster.md:129",
+      "quote": "\"The output is climbing,\" she said, low, precise, offering exactly what was accurate and nothing more. ... \"Four paces and growing. If she does not stop crying soon, the fountain will crack.\""
+    },
+    {
+      "source": "scenes/sodoku_fourteenth_bow_table.md:115",
+      "quote": "\"I want that said, because it was said the other way and I do not want it left standing,\" Yoko went on. \"I would not poison your food.\""
+    },
+    {
+      "source": "scenes/sodoku_fourteenth_bow_table.md:119",
+      "quote": "\"You are not a child,\" Yoko said. \"That is the whole of it... it has never once made an exception for good intentions.\""
+    },
+    {
+      "source": "scenes/wotr_the_weight_of_a_courier.md:95",
+      "quote": "\"I am not throwing myself into anything,\" she said. \"I have a child asleep on the third sledge and a husband with a documented tendency to walk toward large problems in order to see them better. My entire function on this expedition has been to stand behind that tendency and describe what it is walking toward.\""
+    }
+  ],
+  "reference_direction": "Young adult woman, medium-high pitch — clear and light rather than bright or girlish. Clean, almost grainless texture: no rasp, only a little breath, minimal vibrato. Diction is clipped and exact, with real, held pauses between clauses rather than a rushed run-on — think a field medic radioing back precise vitals: no filler, no hedging, one fact at a time, delivered level whether the fact is mundane or urgent. No regional accent coloring. Under pressure the voice does not rise, speed up, or crack — it gets sparser and flatter, fewer words at the same steady pitch. At home the same clipped cadence carries a fractional warmth and dry deadpan humor, but never loses the economy — she is never a soft or maternal register, always a precise one that has simply let more warmth into it.",
+  "one_line": "A light, clean, unhurried voice that reports facts rather than performs feelings — deadpan and exact under pressure, and only ever warmer, never softer, at home."
+}

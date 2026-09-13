@@ -1,0 +1,41 @@
+{
+  "name": "Charles Lambert",
+  "speaks_in_archive": true,
+  "lines_read": 35,
+  "gender": "male",
+  "age": "Mid-40s to early 50s. The archive gives three different numbers across scenes that don't fully reconcile on a single timeline (41 in 05_aurelian_primate_under_the_wrong_stars.md:49, 47 in verinus_weight_of_an_infant.md:19, 53 in 08_charles_what_a_hand_is_for.md:69) but all agree on the same casting fact: a seasoned, middle-aged clergyman-administrator, not a young man and not elderly.",
+  "body": "No wiki card exists for Charles (checked Volumes I, III-VI of the Character Cards; only his brother Edward Lambert has one). Built from scene narration instead. At 41: 'A wide, plain, north-coast face... Big shoulders and a big chest and the beginnings of a stomach' (05_aurelian_primate_under_the_wrong_stars.md:49), heavyset enough that Aurelian notes 'A forty-one-year-old diocesan administrator in soaked wool with a stomach on him is not fast in any register that means anything' (06_aurelian_what_the_lamberts_are_for.md:39). At 47: 'Tall and gone narrow through the shoulder, stooped a few degrees at the neck' (verinus_weight_of_an_infant.md:19) -- leaner than the earlier scene, same long Lambert face and hard widow's peak as his brother. By his death two of his fingers won't close (07_charles_the_imperceptible_district.md:7) and he carries a permanently reopening scar through one eyebrow. Explicitly not a fighter: 'no output, no faculty, no working worth the name' (07:37) -- a clerk's body pressed into a battlefield, notable because he survives repeated hits by anticipation and footwork learned as a sailor's child rather than by any martial training (06:29-39).",
+  "pitch": "medium-low",
+  "texture": ["warm baritone at rest", "clause-stacked administrator cadence -- long, causal, subordinate-clause sentences", "voice 'gone thin at the top' when frightened", "drops flat and toneless under gravity -- the Lambert family trait, shared with his brother Edward", "easy, low laugh that 'goes up into the vault and comes back thin'", "audible labored breath and grinding-rib catches once injured", "dry, understated wit rather than open humor"],
+  "pace": "measured",
+  "energy": "Controlled and watchful at baseline -- a man reading a room before he speaks. Warms easily into charm and a low laugh in safe company, but the warmth sits over something that snaps flat and hard the instant he has to deliver an unwelcome truth to a superior. Under real threat the control frays into audible effort (gasping breaths, a voice that thins) but he keeps talking anyway -- the office keeps functioning even when the body is failing.",
+  "register": "Formal Church-administrative register: honorifics ('my lord', 'holiness', 'Bishop'), long sentences built on 'because' and enumerated particulars ('nine years', 'eleven minutes', 'four things'), almost no contractions, almost no imperatives -- he requests and observes rather than commands, even when he is right and his interlocutor is wrong. Wit lands as dry understatement ('That is a heavy verb, my lord' / 'That is a very poor bargain, my lord') rather than as jokes. The voice_fingerprints tool confirms this from the numbers: 20 attributed lines, mean length 35.3 words (long for the cast), only 0.1 contraction rate, 0 imperatives, favourite words 'years, three, eleven, grain, four, because'.",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.55,
+    "grit": 0.2,
+    "breath": 0.3,
+    "pace": 0.93
+  },
+  "evidence": [
+    {"source": "05_aurelian_primate_under_the_wrong_stars.md:49", "quote": "Forty-one, and looked older tonight. A wide, plain, north-coast face... Big shoulders and a big chest and the beginnings of a stomach"},
+    {"source": "05_aurelian_primate_under_the_wrong_stars.md:59", "quote": "Charles's voice had gone thin at the top. \"We were worried for your health.\""},
+    {"source": "05_aurelian_primate_under_the_wrong_stars.md:85", "quote": "\"With respect, holiness, I have every.\""},
+    {"source": "06_aurelian_what_the_lamberts_are_for.md:39", "quote": "A forty-one-year-old diocesan administrator in soaked wool with a stomach on him is not fast in any register that means anything"},
+    {"source": "06_aurelian_what_the_lamberts_are_for.md:147", "quote": "\"Forgive me. I have carried your correspondence into the north for nine years and I have never once done it under your name\""},
+    {"source": "verinus_weight_of_an_infant.md:19", "quote": "Tall and gone narrow through the shoulder, stooped a few degrees at the neck... Charles was forty-seven"},
+    {"source": "verinus_weight_of_an_infant.md:41", "quote": "Charles laughed. It was a good laugh, easy and low, and it went up into the vault and came back thin."},
+    {"source": "verinus_weight_of_an_infant.md:89", "quote": "\"That is a heavy verb, my lord.\""},
+    {"source": "verinus_weight_of_an_infant.md:137", "quote": "Charles's voice had dropped. \"You are going to have to say the other thing.\""},
+    {"source": "verinus_sword_and_scale.md:91", "quote": "His voice went flat in the way the family's voice went flat."},
+    {"source": "verinus_sword_and_scale.md:139", "quote": "\"It was my brother's answer,\" Charles said. \"I have simply been carrying it around for thirty years without permission.\""},
+    {"source": "07_charles_the_imperceptible_district.md:37", "quote": "fifty-three assessments deep in the Accord's file at the bottom of the register, no output, no faculty, no working worth the name"},
+    {"source": "07_charles_the_imperceptible_district.md:83", "quote": "He said it in the Church Latin he had used at eleven hundred offices of the dead, in the reading voice, because it was the only voice he had ever used for anything that mattered"},
+    {"source": "08_charles_what_a_hand_is_for.md:69", "quote": "fifty-three years old, an archbishop with no faculty and no working and no entry in any book in four worlds"},
+    {"source": "build/book_tools.py voice_fingerprints (row 'Lambert')", "quote": "20 | 35.3 ±25.5 | short share 0.25 | contractions 0.1 | imperatives 0.0 | favourite words: years, three, eleven, grain, four, because"}
+  ],
+  "reference_direction": "Adult male, medium-low pitch: a warm, resonant baritone, not a bass and not a tenor. Rounded, well-schooled Church diction, no strong regional flavor, though a hint of clipped north-coast crispness under the polish would suit his roots. The baseline is inviting and easy -- the voice of a man people tell things to without deciding to, with a genuine low laugh -- but two things happen under pressure and both are load-bearing: it thins toward reedy at the top when he is frightened, and it drops flat, even, and almost toneless when he has to say the hard thing to a superior (a trait he shares with his colder brother). Pace is measured and clause-stacked, like a career clergyman dictating a report or reading a parish return aloud, never rushed and rarely emphatic even under real physical damage, where the control audibly costs him breath rather than composure. Closer to a warm, dryly witty senior cleric or an unflappable civil servant than to an orator, a soldier, or a growler.",
+  "one_line": "A warm, clause-stacked archbishop's baritone -- easy laugh, dry wit, thins to reedy under fear, drops flat and toneless under gravity -- a career clerk's voice pressed, at the very end, into an unlikely hero's mouth."
+}

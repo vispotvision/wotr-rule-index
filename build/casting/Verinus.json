@@ -1,0 +1,79 @@
+{
+  "name": "Verinus VII, the Palatine",
+  "speaks_in_archive": true,
+  "lines_read": 46,
+  "gender": "male",
+  "age": "71 (wiki card, Section I \"Age: 71\"). Reads as elderly rather than merely late-middle-aged: forty-five years of the Reading technique have left him, per the card, \"the cardiovascular architecture of a career deep diver and the barotrauma to match,\" and Vitality is only S-Grade on \"a seventy-one-year-old man with an excellent Crystal and an ordinary spine.\" He has held the same office, and worn the same restraint, for nineteen years straight — the age should sound settled and long-worn, not frail-doddering.",
+  "body": "Tall and narrow, not broad — Section XIII: \"tall and has become narrow with it, the shoulders gone forward over a chest that carries the barrel-deepening of a man who has spent forty-five years breathing against pressure... thin arms, thin wrists, thin neck, and a ribcage that belongs on someone forty kilos heavier.\" No fighter's mass and no giant's frame: Dexterity is his worst stat by a wide margin and he \"has never held a weapon and moves like what he is\" (Section IV/V). Travel speed is nominally sub-relativistic but \"in practice he walks\" — staff \"have never seen him move faster than a considered pace\" (Section VI). The instrument of his voice is a thin-chested elderly man's, propped up by decades of controlled, pressure-trained breath rather than by physical bulk.",
+  "pitch": "medium-low",
+  "texture": [
+    "level and dry rather than deep or booming — thin frame, not a chest-voice giant",
+    "a faint, permanent edge of restriction at the margins, like a man who breathes carefully because breathing has cost him before",
+    "almost no grain in ordinary speech; the one time the archive records it breaking (the Judger's Flame rite) is treated as an anomaly, not the baseline",
+    "coastal fisherman's plainness surviving underneath forty-five years of formal court cadence — vowels softened, consonants exact"
+  ],
+  "pace": "measured",
+  "energy": "Low and deliberately flat, never raised — Section XIV: \"He never raises his voice, because inside the Sounding volume does nothing, and this has spread outward until the entire capital speaks quietly and nobody there can explain why.\" Command comes from stillness and the weight of what is being said, not from force behind the saying. The one recorded exception (01_verinus_fire_of_the_undeserving.md:213) is explicitly a first-in-nineteen-years break from the level default, confirming what the default is.",
+  "register": "Concord Common with coastal cadence surviving under forty-five years of court register (Section XIV, \"Voice / Dialect\", verbatim). Near-zero contractions (voice_fingerprints: 0.1) and heavy first-person framing (0.51) — he speaks in accountable \"I\" statements, entering his own reasoning into the record as he goes. Sentences alternate short, flat declaratives (\"Stand up.\" \"Recorded. Go.\" \"That sentence weighed nothing.\") with long, clause-stacked explanatory builds (mean words 29.7, but with very high variance, ±24.0) — he unpacks an argument in full rather than trimming it, then drops a short flat line at the end to close it. Occupational metaphor throughout is nautical and specifically about depth: soundings, drift, ballast, the lead line, what a thing draws.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.35,
+    "grit": 0.35,
+    "breath": 0.4,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:197",
+      "quote": "Concord Common, coastal cadence surviving under forty-five years of court register. Short sentences. Frequent questions that he does not then answer. He never raises his voice, because inside the Sounding volume does nothing, and this has spread outward until the entire capital speaks quietly and nobody there can explain why. Occupational metaphor is nautical and specifically about depth: soundings, drift, ballast, the lead line, what a thing draws."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:182",
+      "quote": "His lips carry a faint permanent bluish cast at the edges, which is the barotrauma, and which the Court has agreed among itself not to mention."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:115",
+      "quote": "the physiological presentation is exact: elevated intrathoracic pressure, reduced venous return, the specific grey-lipped breathlessness of a diver at depth."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:181",
+      "quote": "He is tall and has become narrow with it, the shoulders gone forward over a chest that carries the barrel-deepening of a man who has spent forty-five years breathing against pressure. The frame reads wrong at first glance and correctly at second: thin arms, thin wrists, thin neck, and a ribcage that belongs on someone forty kilos heavier."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:200",
+      "quote": "Stands. Always. He has never sat in the Palatine's chair and the chair is brought to every session anyway. Hands folded into the sleeves. Head tilted slightly down and to the left when listening, which is a habit from taking Readings and which people find unbearable to be on the receiving end of."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:201",
+      "quote": "He stops asking questions and begins answering them, precisely and at length, and everyone who has worked with him for more than a year knows that this is the sound of a man who has decided something and is very frightened of it."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md:77",
+      "quote": "In practice he walks. The Alabaster Court's staff have never seen him move faster than a considered pace and one deacon has publicly doubted he can."
+    },
+    {
+      "source": "scenes/verinus_sword_and_scale.md:15-17",
+      "quote": "\"Stand up.\" He said it without heat."
+    },
+    {
+      "source": "scenes/verinus_sword_and_scale.md:29",
+      "quote": "\"You asked me to lend you my faith as Darius did.\" Verinus's voice did not change."
+    },
+    {
+      "source": "scenes/verinus_sword_and_scale.md:33",
+      "quote": "\"...the day it develops some it stops being able to read.\" He let a breath out through the nose."
+    },
+    {
+      "source": "scenes/01_verinus_fire_of_the_undeserving.md:213",
+      "quote": "\"Discedite,\" Verinus said, and for the first time in nineteen years his voice was not level, \"omnes iniquitates tuae.\""
+    },
+    {
+      "source": "voice_fingerprints (build/book_tools.py)",
+      "quote": "Verinus VII | 78 lines | mean words 29.7 ±24.0 | short share 0.21 | questions 0.01 | contractions 0.1 | first person 0.51 | imperatives 0.06 | favourite words: going, want, tell, years, told, because"
+    }
+  ],
+  "reference_direction": "Male, elderly (71), medium-low pitch — not a deep bass; the frame under the voice is thin-chested and narrow, so the authority reads as dry and controlled rather than resonant or booming. Texture is level and mostly ungrained, with only a faint, permanent restriction at the edges — a man who breathes a little carefully, always, because breathing has cost him before, but who is not visibly frail or short of air in ordinary speech. Paced slow and unhurried, in short flat sentences that open out into long, fully-unpacked explanatory ones and then snap back short to close — never rushed, never raised, because in his own words volume does nothing where he lives and it has trained the rest of him to match. Accent is a fisherman's coastal plainness worn nearly smooth by forty-five years of formal ecclesiastical-court diction: the vowels remember the harbour, the sentence structure belongs to the bench. Comparable to a retired harbour magistrate — a man who spent his boyhood hauling nets and his old age handing down rulings in a nearly-silent courtroom, so that flatness itself has become the instrument of authority.",
+  "one_line": "Verinus VII, the Palatine, 71: a thin-framed, barotrauma-marked judge's voice — dry, medium-low, unhurried, and almost never raised, because for forty-five years volume has bought him nothing and stillness has bought him everything."
+}

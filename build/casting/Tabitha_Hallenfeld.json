@@ -1,0 +1,36 @@
+{
+  "name": "Tabitha Hallenfeld",
+  "speaks_in_archive": true,
+  "lines_read": 1,
+  "gender": "female",
+  "age": "42 — canon age, and the prose reads her at it: not old, not young, a woman in the durable middle of a working life, no age-related fragility anywhere in the description",
+  "body": "Broad through the shoulders and thick through the waist — built with the solidity of a body that has spent its life on roads, not a soldier's trained bulk but a haulier's accumulated one. Sun-darkened, wind-roughened face with crow's feet; hair brown streaked with grey, pulled back with two wooden pins; a heavy wool traveling coat belted with a knife and a rolled cylinder of route manifests. This is a big, weathered, outdoor body built for endurance, not for a delicate or reedy voice.",
+  "pitch": "medium-low",
+  "texture": ["sun-and-wind weathered", "plain, unpolished", "light natural grit from exposure rather than growl", "steady, not breathy", "carries without needing to push"],
+  "pace": "measured",
+  "energy": "grounded and economical, the energy of someone who has spent a life reading how much weight a thing can carry before it fails — level under ordinary pressure, and capable of going flat and hard when she is done being deflected",
+  "register": "plainspoken working-officer's register, not courtly — a house that produces quartermasters and courier captains rather than orators; short, load-bearing sentences; she names the fact and stops rather than dressing it up",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.6,
+    "grit": 0.3,
+    "breath": 0.12,
+    "pace": 0.97
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md", "quote": "Broad through the shoulders and thick through the waist, built with the solidity of a body that has spent its life on roads. Sun-darkened face, wind-roughened, crow's feet around the eyes."},
+    {"source": "wiki/Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md", "quote": "She reminds Hild of her mother. Not physically — Fern was lean and angular. The reminding is in how Tabitha reads rooms: for what they can carry and what they cannot, and how long the carrying will last before the surface fails."},
+    {"source": "wiki/Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md", "quote": "Tabitha walked three days through compromised territory to reach Kharven-Seat and tell Hild that the roads are talking and the roads are saying the Tenrai know where she is. The walking was the loyalty. The loyalty was the function. The function was the roads."},
+    {"source": "wiki/Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md", "quote": "Gods. She is a baby. She is a baby with a sword and a jaw that belongs on a grown woman. I will be damned if I let the roads die before this child has a chance to walk them."},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:37", "quote": "It is a question Tabitha Hallenfeld asked in open council in the seventh month, in front of the Queen's chair and the whole assembly, and which nobody answered then and nobody has answered since."},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:39", "quote": "\"Why did you buy the grain in the first week?\""},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:43", "quote": "He never answered her. He put his hands behind his back and waited, and the council moved on because councils do, and Tabitha Hallenfeld went home and wrote the question down and dated it, and has asked it twice since in private and been refused twice."},
+    {"source": "scenes/wotr_the_weight_of_a_courier.md:41", "quote": "If it is an agreement then there is a document and Tabitha can find the document."},
+    {"source": "scenes/wotr_the_weight_of_a_courier.md:79", "quote": "The southern road is out past the fourth ford. Tabitha walked it."},
+    {"source": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md:181", "quote": "The Hallenfelds are not glamorous. They do not produce legendary warriors or political masterminds. They produce quartermasters, road engineers, courier captains, and the specific category of administrator who understands that a message delivered six hours faster can save a thousand lives..."}
+  ],
+  "reference_direction": "A woman's voice, medium-low with real chest weight behind it — a big, solid frame speaking, not a slight one. Texture is road-weathered: years of sun and wind have put a light, dry grit on it, but it stays controlled and steady rather than rasped or growled. No court polish at all — plain, unpretentious, working-register delivery, closer to a haulier or dispatcher's plain speech than to the nobility her house nominally sits among. Pace is measured and unhurried, each fact set down the way she sets down a manifest, but she does not need volume to be heard and can go flat and final in an instant when she wants an answer and isn't getting one. Comparison: the voice of a lifelong logistics foreman or long-haul dispatcher — decades outdoors doing the unglamorous work that keeps everyone else moving, who reads a room the way she reads a road, for what it can carry and how long the carrying lasts.",
+  "one_line": "A big, sun-and-wind-weathered road officer of 42 — medium-low, steady, lightly gritted, plainspoken and unhurried until she needs to be flat and final; cast almost entirely from build and function, since the archive gives her only one spoken line."
+}

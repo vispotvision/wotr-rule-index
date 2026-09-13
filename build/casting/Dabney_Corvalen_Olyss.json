@@ -1,0 +1,79 @@
+{
+  "name": "Dabney Corvalen Olyss",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "late twenties (chronological, per the card); no sense of a seasoned/gravelly veteran age in the text — a young man doing an old man's job",
+  "body": "a paladin's sturdy, load-bearing build rather than a fast or slight one: Resilience 345 (A) and Vitality 320 (A) are his top stats after Harmonics, Dexterity 180 (B) is his lowest and by a wide margin, and his signature is standing in front of a hit and taking it rather than dodging it -- built to absorb, not to move quick",
+  "pitch": "medium-low",
+  "texture": [
+    "warm, smooth grain",
+    "resonant / carrying rather than thin -- Harmonics is his highest stat",
+    "a thin dry rasp that only surfaces under strain or cost, not a resting growl",
+    "controlled, held-breath quality -- something banked just under the surface"
+  ],
+  "pace": "measured",
+  "energy": "restrained and banked rather than idle or flat -- the steadiness of a man actively holding something down, not the calm of a man who feels nothing",
+  "register": "formal, vow-cadence; gentle authority -- a young cleric-knight's soft command, not a bark or a growl",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.55,
+    "grit": 0.25,
+    "breath": 0.4,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:21",
+      "quote": "Standing · Sanctum Lux. Spirit-bound paladin. Late twenties."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:24",
+      "quote": "Glory requires that you look at something that will cost you structurally and choose it anyway, in advance, in cold blood."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:26",
+      "quote": "Every vow Dabney has made is that decision repeated. The Order calls this the culture of duty. The instructors call it the year they learn what they will pay for."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:68",
+      "quote": "Break the vow and the bulwark is a tired young man. He does not endure because he is strong-minded. He endures because he promised, and the promise is doing the load-bearing."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:34",
+      "quote": "Risk · Echo Saturation. Overexposure leaves faint phantom voices during sleep. He has stopped mentioning it."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:76",
+      "quote": "He speaks a name and stands in front of it. Oathlight closes around the sworn like a held breath, and what strikes it is not deflected but received — the impact arrives in Dabney instead, on a delay, at full weight. Petals come off his hands throughout and settle on everything nearby."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:62",
+      "quote": "Path · Attraction dominant, Body secondary."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md:63",
+      "quote": "Resilience Oath 400 (at ceiling — the vow is the highest number he has)"
+    },
+    {
+      "source": "scenes/CAST.md:98-102",
+      "quote": "## Dabney (3 scenes)\n09_dabney_the_undamped_thing.md (4), verinus_weight_of_an_infant.md (3), 05_aurelian_primate_under_the_wrong_stars.md (2)"
+    },
+    {
+      "source": "scenes/09_dabney_the_undamped_thing.md:13",
+      "quote": "Dabney Lambert was four months old and lay in the fish crate she had lined with her own second petticoat, and he had his fists up beside his ears the way they all do."
+    },
+    {
+      "source": "scenes/09_dabney_the_undamped_thing.md:69",
+      "quote": "Dabney Lambert had no Stage. No Temperance floor, no suppression, no trained resistance anywhere in him, nothing between what he felt and what came out of him."
+    },
+    {
+      "source": "scenes/verinus_weight_of_an_infant.md:43",
+      "quote": "\"Dabney,\" he said, and turned the bundle so that the child's face came out of the wool. \"Dabney Charles Lambert. Four months on the ninth.\""
+    }
+  ],
+  "reference_direction": "Male, medium-low and resonant rather than deep -- a warm chest voice with headroom above it, not a bass. Smooth grain with a faint dry rasp that only shows up when a cost is landing on him, not a resting growl. Noticeable breath control running under the line, like a man practiced at holding a breath (and a feeling) steady on purpose. Measured, unhurried pace -- he chooses a sentence the way he chooses a vow, in advance and in cold blood, never rushed into it. Neutral, faintly formal or liturgical accent flavour -- clean and correct, no regional color, the diction of an order rather than a street. Comparison: a young battlefield chaplain's voice -- gentle enough to sit with the dying, level enough that a room believes him the instant he says he will stand in front of something.",
+  "one_line": "A young paladin's warm, measured chest voice -- gentle authority with a held-breath discipline over it, and a thin dry rasp that only surfaces when the vow's cost actually lands."
+}

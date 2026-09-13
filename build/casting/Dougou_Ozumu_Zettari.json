@@ -1,0 +1,66 @@
+{
+  "name": "Dougou Ozumu Zettari",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "No number is given on the card or in the archive. What's fixed: he lived long enough to found the True Iron Bison discipline, raise a son (Rengai) to adulthood, and die still 'running the loop' (card, Loop, wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:139). Cast a mature adult father, not a young man — the register is a founder's, not an heir's.",
+  "body": "7'2\", monolithic, load-bearing, siege-like (card, Physical Description, wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:127). Deep brown skin scored with charcoal fracture-lines across chest, arms, back and shoulders — active Essence channels, not scars — near-black crimson eyes that brighten arterial red under pressure, long black hair worn loose, and no armor: 'The body was the armour, by design, to the last' (card:127-131). This is the single largest body on the roster by a wide margin; the voice has to sit under that mass, not just be low.",
+  "pitch": "very low",
+  "texture": ["cavernous chest resonance", "near-zero rasp — worn smooth, not gravelly", "almost no audible breath (a sealed vessel, external leak near-zero by design)", "flat and unmoving phrase to phrase", "weight placed under every syllable rather than pushed"],
+  "pace": "slow",
+  "energy": "Banked to the point of stillness — essence and emotion convert to stored body-weight instead of radiating outward, and 'sensors misread him as dormant' (card, Traits, wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:71). Anger accumulates rather than flares (card:141), so volume and rate barely move even under provocation; the one input the architecture can't seal against is emotional breach (card, Resistances, and the Nanatsu no Fūin counterplay, wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:97), which is the sole place a controlled crack — not a shout — should be allowed through.",
+  "register": "Doctrinal and final — a founder stating law, not persuading anyone. 'Quiet, severe, patient' and unchanging across his whole life, a register the Paths now preserves permanently (card, Voice, wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:141-143). Consistent with how the one other person in the archive who describes him talks about him: a name invoked as a measuring stick for raw output and menace, never as a man who explains himself (scenes/Cozbi_Antithesis_Split_Fight.md:5; scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:5).",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -6,
+    "weight": 0.9,
+    "grit": 0.3,
+    "breath": 0.1,
+    "pace": 0.87
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:141 (Psychology > Voice)",
+      "quote": "Voice · Quiet, severe, patient. Anger that accumulates rather than flares."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:143",
+      "quote": "This never changed across his life, and it's the register the Paths now preserves him in permanently."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:127 (Physical Description)",
+      "quote": "Height 7'2\" · Build monolithic, load-bearing, siege-like."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:128",
+      "quote": "Skin deep brown, charcoal fracture-lines across chest, arms, back and shoulders — active Essence channels, not scars. Eyes near-black crimson, brightening arterial red under pressure. Hair long, black, worn loose."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:131",
+      "quote": "Armour · None. The body was the armour, by design, to the last."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:71 (Traits > Sealed-World Physiology)",
+      "quote": "Essence and emotion alike convert to stored body-weight rather than radiating outward. Barely leaks. Sensors misread him as dormant."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:97 (Techniques, Nanatsu no Fūin counterplay)",
+      "quote": "Forced overload — and emotional breach, the one vector this technique cannot seal against"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:139 (Psychology > Loop)",
+      "quote": "Converted every feeling into weight, every wound into another chamber. Never broke the loop. Died still running it."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:5",
+      "quote": "It'll be interesting, fighting the son of Dougou. I've heard a great deal about the Iron Bison's boy."
+    },
+    {
+      "source": "scenes/Cozbi_Antithesis_Split_Fight.md:5",
+      "quote": "If you carried Dougou's ceiling, I might actually be in some trouble tonight."
+    }
+  ],
+  "reference_direction": "Male, pitched as low as this cast goes — a sub-bass, sternum-deep chest voice for the single largest body in the roster (7'2\", siege-built, no armor because the body is the armor). Almost no rasp: this is not a roar or a growl, it's a sealed, load-bearing sound, closer to the low groan of a foundation settling than to a shout — fitting a man whose essence and emotion 'barely leak' by design. Delivery is unhurried and level, phrases set down like weights placed rather than thrown, with almost no breath audible between words. No specific real-world accent; keep it flat and continental-neutral, long vowels, sentences that end and stop rather than trail or lift. No attributed dialogue survives in the scene archive — the only in-scene testimony is other people invoking his name as a measuring stick for menace — so the whole reference is built from the card's own physical and psychological description. Comparable to the voice of a mountain given one slow, final sentence before it goes still again.",
+  "one_line": "A 7'2\" sealed-vessel founder whose voice never flared in life and doesn't survive in the scene archive at all — cast purely from the card as the lowest, stillest, least-breathy voice on the roster: doctrine laid down once, not argued."
+}

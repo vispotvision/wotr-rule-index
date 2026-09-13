@@ -1,0 +1,143 @@
+{
+  "round": 0,
+  "chapter": "ch01",
+  "fail": 9,
+  "warn": 6,
+  "dropped": 0,
+  "verdict": "escalate",
+  "merge_notes": [
+    "All quotes verified as whitespace-normalised substrings of draft_r0.md; none dropped.",
+    "No finding falls in the paragraph of the declared lie (\"Full, and dry to the bottom.\") or the declared misreading (\"The boy watched his hands because...\").",
+    "Deduped on quote: det em-dash heading finding merged with critic R15-1 finding; det chain-ceiling finding merged with critic R4-14 finding; det Ladder WARN merged with critic R6-1 WARN. Merged entries keep the det quote (the longer span) and cite both sources.",
+    "det PASS/INFO entries are not defects and are listed under info, not counted."
+  ],
+  "findings": [
+    {
+      "severity": "FAIL",
+      "pass": "R15-1-AI_TELL_CHECKS_SURVIVE (em dash)",
+      "sources": ["det tell_scan", "critic prose-law"],
+      "quote": "# Chapter 1 — The Week After",
+      "problem": "Em dash in the chapter heading. The AI-tell ban on em dashes has no carve-out for headings; verify reports FAIL em dashes: 1 and this is the only one in the file. notes_r0.md claims zero em dashes.",
+      "fix": "Replace the heading dash ('# Chapter 1: The Week After' or '# Chapter 1. The Week After') and correct the notes claim."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "R4-14-CHAIN_CEILING",
+      "sources": ["det shape", "critic prose-law"],
+      "quote": "The clerk of the Bench had arrived on the third day with a case and a letter and had been given a chair, and she took the pause the way a clerk takes a pause, as a space with a form to fill in it.",
+      "problem": "Three consecutive sentences over 25 words: Lambert's 'The Bench keeps a Record ... not been asked for it.' (45), the clerk's arrival sentence (45), and 'A woman of forty in the grey of the Divisions ... where the flap rubbed.' (54). verify reports FAIL three consecutive sentences over 25 words.",
+      "fix": "Break one of the three. Simplest: split the clerk's arrival sentence at 'chair.' so 'She took the pause...' stands alone, or shorten 'A woman of forty...' under 25 words."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "continuity",
+      "sources": ["critic continuity"],
+      "quote": "the hill had four stones on it cut to one depth, and Sodoku Moto did not look at the hill",
+      "problem": "Scene 10 is explicit that only three of the four grave-stones match: the mason matched the lettering depth across the first three at Lambert's instruction, and the fourth (Charles Lambert's) was set apart, smaller, with less on it. 'Cut to one depth' asserts uniformity where the prior chapter establishes a pointed non-match.",
+      "fix": "Drop the depth claim ('the hill had four stones on it') or keep the asymmetry (three cut to one depth, the fourth set apart and smaller)."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "R35-1-NARRATION_DISTANCE_BANDS / R5-C1-INFO_TRACKED_PER_POV (head-hop)",
+      "sources": ["critic pov"],
+      "quote": "Nobody at the table looked at the bench behind the king's shoulder except the boy, whose eyes had not left the king's hands, and the clerk, who had asked.",
+      "problem": "A comprehensive negative claim about every other person's gaze, narrated as fact from Sodoku's single POV, about a bench behind his own left shoulder with no turn narrated. The clause is also internally incoherent: it names the boy as an exception to looking at the bench, then says his eyes were on the king's hands, not the bench.",
+      "fix": "Limit the claim to what Sodoku can see from his seat (the clerk, in his forward field), drop the boy from this clause, or reframe as an inference from the room's stillness."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "R19-5-COMPOSURE_BAN",
+      "sources": ["critic dialogue"],
+      "quote": "Where she stops, and what she asks the road, and who she asks it of, is hers, and nobody at this table writes her a list.",
+      "problem": "Sodoku's line is a clean three-part list in one symmetric sentence with no false start, self-repair or interruption, which the rule bars outright (three-part lists, parallelism). R19-7-CHECK42 independently flags long parallel dialogue lines.",
+      "fix": "Break the tricolon: cut to two clauses, or interrupt it with a beat (Lambert's reaction, a pause) as the rest of the scene's dialogue is broken up."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "R19-5-COMPOSURE_BAN",
+      "sources": ["critic dialogue"],
+      "quote": "A thing the chain-cities have entered at Vaultmere is a thing they can no longer forget, my lord.",
+      "problem": "The factor's line is a mirrored 'a thing X ... is a thing Y' construction, the antithesis/parallelism the rule bars, delivered unbroken.",
+      "fix": "Recast without the mirrored construction, or move the lamp-leaning beat inside the line to break it."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "canon",
+      "sources": ["critic canon"],
+      "quote": "Gloves on, collar done up to the throat, grey at the temple and nowhere else",
+      "problem": "Lambert's wiki card gives grey-brown hair, thinning at the crown, cut close in the northern military style. The draft gives grey at the temples only and nowhere else: a different colour distribution and no crown thinning.",
+      "fix": "Change to grey-brown with crown-thinning, or flag the divergence in author notes as a deliberate departure from the card."
+    },
+    {
+      "severity": "FAIL",
+      "pass": "canon",
+      "sources": ["critic canon"],
+      "quote": "He knew where the four houses sat. He had known the four names since before the first cart of grain came north",
+      "problem": "The wiki fixes the recognised factor houses of Nalūn at fourteen. Nothing on the page marks 'the four' as a subset (e.g. the four that handle Kharven's grain), so it reads as the total and contradicts the count.",
+      "fix": "Mark 'the four' as a subset on the page or in notes, or reconcile with the wiki's fourteen."
+    },
+    {
+      "severity": "WARN",
+      "pass": "continuity",
+      "sources": ["critic continuity"],
+      "quote": "I have known for two years that a Hallenfeld would one day read it.",
+      "problem": "Scene 10 places Lambert's first Vaultmere order in the first week of 'the year after', roughly a year before ch1. 'Two years' of foreknowledge pushes the start before Hild's death and before the war that produced the order, which nothing in the continuity attests.",
+      "fix": "Confirm with Isaac whether the foreknowledge is meant to predate Hild's death; if not, shorten the span to fit inside the year since the order was written."
+    },
+    {
+      "severity": "WARN",
+      "pass": "R5-C1-INFO_TRACKED_PER_POV (unanchored knowledge)",
+      "sources": ["critic pov"],
+      "quote": "Lambert had asked her what. She had told him it was not his.",
+      "problem": "A private exchange between Lambert and Ada Foss, who is not in the scene, narrated as settled fact with no channel by which Sodoku knows it. The chapter gates Yoko's lines ('He had seen her write them. He had not seen them.') but gives this no equivalent anchor.",
+      "fix": "Add a one-clause anchor ('Lambert had told him so, once' or 'the story had gone round the Seat')."
+    },
+    {
+      "severity": "WARN",
+      "pass": "R6-1-LADDER_BAN / R6-11-CHECK18_LADDER (review by reading)",
+      "sources": ["det tell_scan", "critic prose-law"],
+      "quote": "Two in the afternoon, then one, then the yard was quiet and the water was the only thing coming down.",
+      "problem": "verify flags a possible Ladder ('was quiet and the water was'). On reading it is likely a false positive: the second clause's subject ('the water') does not restate the first clause's predicate ('quiet'); two independent 'was' clauses joined by 'and'. Notes claim no Ladder.",
+      "fix": "No action if Isaac agrees it is not a Ladder; otherwise drop the second 'was' ('...and only the water came down') and record the reading."
+    },
+    {
+      "severity": "WARN",
+      "pass": "R4-15-PROCEDURAL_SCENE_BUDGET (reification)",
+      "sources": ["critic prose-law"],
+      "quote": "she took the pause the way a clerk takes a pause, as a space with a form to fill in it",
+      "problem": "'Pause' is not in the Licensed Class and is handled with a listed reification verb ('took') and extended into 'a space to fill'. Notes declare only one unlicensed instance ('put it beside the figure he had lost'); in a procedural scene the budget is one per page.",
+      "fix": "Recast so 'pause' is not handled as an object, or count it in the notes and confirm it and the 'figure' instance do not share a page."
+    },
+    {
+      "severity": "WARN",
+      "pass": "R19-4-ICEBERG_DIALOGUE",
+      "sources": ["critic dialogue"],
+      "quote": "The Bench keeps a Record and Nalūn keeps a salt and this house keeps a pillar with a nail in it",
+      "problem": "Lambert tells the Bench's clerk that the Bench keeps a Record and Nalūn's factor that Nalūn keeps a salt; both already know. Only the Kharven pillar clause is plausibly new to those listeners.",
+      "fix": "Narrow to the Kharven pillar custom, or reframe as Lambert's complaint about not being consulted rather than a recap of all three."
+    },
+    {
+      "severity": "WARN",
+      "pass": "canon",
+      "sources": ["critic canon"],
+      "quote": "A woman of forty in the grey of the Divisions, hair the brown of a wet plank",
+      "problem": "The Bench of Attribution is not a Division and never has been (a standing joint instrument). Dressing its clerk in Divisions grey risks reading as a mix-up unless she is seconded staff keeping her parent Division's grey.",
+      "fix": "A half-line clarifying the clerk is seconded from a Division would close the gap, if that is the intended reading."
+    },
+    {
+      "severity": "WARN",
+      "pass": "canon",
+      "sources": ["critic canon"],
+      "quote": "He held that chair by right of a forfeiture he had made at nine years old in the mud of the Brine crossing",
+      "problem": "The wiki names the forfeiture 'in eleven men's blood' with no location, and ties the eleven to the Ashgate-road narrows, not the Brine crossing. The site is uncorroborated by the wiki tools used.",
+      "fix": "Confirm against scene 10 whether the forfeiture's site is the Brine crossing or the narrows before treating the detail as settled."
+    }
+  ],
+  "info": [
+    {"severity": "PASS", "pass": "shape", "note": "Word count 3686 prose words against target 3500 (105%); within set-piece band. Notes say 3,674."},
+    {"severity": "PASS", "pass": "shape", "note": "Last line ends on a thing he can now see; flat runs 2; sentence-length CV 0.92; 6 italic interior beats."},
+    {"severity": "PASS", "pass": "hooks", "note": "Declared lie and misreading sentences exist verbatim in the draft; plants H01-H04 present; pays [] vacuous."},
+    {"severity": "PASS", "pass": "combat_floor", "note": "Talky scene; R16-8-CHECK30 does not attach."},
+    {"severity": "INFO", "pass": "voice", "note": "voice_check flags 'How's your stack?' and short Sodoku imperatives as length outliers against a king-in-assembly archive; expected, not defects. No fingerprint for Yoko, Lambert, Tabitha, Brida, the clerk, the factor."}
+  ]
+}

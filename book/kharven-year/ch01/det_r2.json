@@ -1,0 +1,92 @@
+{
+  "findings": [
+    {
+      "severity": "PASS",
+      "pass": "tell_scan",
+      "quote": "# The Week After",
+      "problem": "verify tell scan clean: 0 fail, 0 warn. Zero em dashes in the file (grep count 0); no Ladder, no not-X-but-Y, no simile flagged.",
+      "evidence": "python build/book_tools.py verify book/kharven-year/ch01/draft_r2.md --band set-piece --culture Kharven: 'PASS: 0 fail, 0 warn'.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "# The Week After",
+      "problem": "Word count 3658 prose words by verify against target 3500 (105%); band 80%-150% is 2800-5250. Within band. Matches notes_r2.md's 3,658; wc -w gives 3665 including heading and rule lines.",
+      "evidence": "verify: 'length 3658 words (set-piece band)'.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "He was looking at the hands.",
+      "problem": "No chain-ceiling failure. Flat runs 1 (R4-14-RUN_RULE fails at 4); sentence-length mean 17.7 words, CV 0.94; paragraph mean 52 words, CV 0.88; last line ends on a thing he can now see.",
+      "evidence": "verify info lines: 'flat runs: 1', 'mean 17.7 words, CV 0.94', 'paragraph length: mean 52 words, CV 0.88', 'last line: \"He was looking at the hands.\"'.",
+      "fix": "None."
+    },
+    {
+      "severity": "INFO",
+      "pass": "shape",
+      "quote": "*There it is.*",
+      "problem": "verify reports 3 italic interior beats, but only one is an interior beat: line 41 '*There it is.*' (Sodoku, POV). The other two italic spans are the scene slug (line 3) and a yard man's overheard words 'left, left, your left' (line 9), which is reported speech, not interior. r1's three NPC italics (Lambert, Yoko, Brida) are gone. Table Rule 10 (one per named NPC per scene) is satisfied; no NPC carries an italic.",
+      "evidence": "grep -o '\\*[^*]*\\*' draft_r2.md returns three spans at lines 3, 9 and 41.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "Full, and dry to the bottom.",
+      "problem": "Declared lie sentence from notes_r2.md is present verbatim in the draft.",
+      "evidence": "grep -c -F 'Full, and dry to the bottom.' draft_r2.md: 1.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "The boy watched his hands because at the Brine crossing he had watched what they did, and a boy who has seen that watches the hands for the rest of his life.",
+      "problem": "Declared misreading sentence from notes_r2.md is present verbatim in the draft.",
+      "evidence": "grep -c -F on the full sentence: 1.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "Kharven-Seat, the lower hall and the passage behind it.",
+      "problem": "Kharven recurrence check satisfied: five Standing Inventory items found by verify.",
+      "evidence": "verify: 'Kharven recurrence: the woodpile / how's your stack, the night-stone, wet wood, the Thin Weeks, the death-house / the Waiting'.",
+      "fix": "None."
+    },
+    {
+      "severity": "INFO",
+      "pass": "combat_floor",
+      "quote": "# The Week After",
+      "problem": "No working, exchange or injury on the page; the R16-8-CHECK30 technical-term floor does not attach. Not run with --combat.",
+      "evidence": "notes_r2.md: 'No working, exchange or injury on the page'; full read of the draft confirms no combat; the only 'cut' hits are haircuts and cloth.",
+      "fix": "None."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"The Bench may not have them,\" Yoko said.",
+      "problem": "voice_check returns no fingerprint for Edward Lambert (4 lines checked), Yoko Mishiro (1), Tabitha Hallenfeld (5), Brida Ashwell (6) and Miku Tenrai Moto (no line on the page): fewer than eight attributed lines in the archive for each. Not checkable by the tool; no FAIL.",
+      "evidence": "python build/book_tools.py voice_check NAME \"LINE\": 'no fingerprint for NAME (fewer than eight attributed lines in the archive)' for all 16 lines.",
+      "fix": "None. Voice for these five rests on the critic pass, not on the deterministic one."
+    },
+    {
+      "severity": "WARN",
+      "pass": "voice",
+      "quote": "\"How's your stack?\"",
+      "problem": "Sodoku Moto's archive fingerprint (13 lines, mean 45.6 words) is a long, uncontracted, non-asking voice. All six of his lines here are short (1 to 22 words, z between -1.1 and -2.1); two single-word lines ('Vaultmere.', 'Good,') are 'far outside this voice'; 'How's your stack?' is flagged as a question from a voice that almost never asks and a contraction from a voice that does not contract.",
+      "evidence": "voice_check 'Sodoku Moto' 'How's your stack?': 'a question from a voice that almost never asks; a contraction from a voice that does not contract; by length alone it reads more like Emira'. 'Vaultmere.' and 'Good,': 'length is far outside this voice'. 'Make the copy,' and 'Hallenfeld carries it.': z=-2.0.",
+      "fix": "WARN, not FAIL: the greeting is the Kharven Standing Inventory's fixed wording (R6-9-RECURRENCE_RULE, notes_r2.md item 7) and the brief prescribes imperatives for Sodoku in this scene (R19-5-SORT_BY_SPEAKER_TEST). The archive's long mean comes from council speech; the short register is a deliberate choice here. Isaac to confirm the short register is acceptable for ch01, or lengthen one non-greeting line."
+    },
+    {
+      "severity": "PASS",
+      "pass": "hooks",
+      "quote": "# The Week After",
+      "problem": "outline.json chapter 1 pays: []. No hook is due this chapter, so no keyword FAIL is possible. Planted hooks H01-H04 all present by the sentences notes_r2.md cites. Planted-hook keyword presence for information only (keywords belong to the pay chapter): H01 4/4; H02 3/4 ('first week' absent, due ch6); H03 1/4 ('three hundred', 'by name' absent, due ch5; 'clause' present); H04 2/3 ('sat down' absent; 'sit down' present in Brida's 'When did you last sit down.', due ch12).",
+      "evidence": "outline.json chapters[0].pays == []; plants == [H01-yoko-lines, H02-copy-road, H03-miku-chair, H04-price-of-standing]; keyword substring check over the draft.",
+      "fix": "None."
+    }
+  ]
+}

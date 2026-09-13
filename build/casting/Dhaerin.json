@@ -1,0 +1,70 @@
+{
+  "name": "Dhaerin Valorin",
+  "speaks_in_archive": true,
+  "lines_read": 21,
+  "gender": "male",
+  "age": "Elderly. Called \"insufferable old man\" by Rengai, fondly (scenes/Rengai_Farewell_and_Dhaerin.md:53), and he is in the process of handing his life's work to his nephew Xhem, trusting him to \"manage Vaeloris\" in his absence because Xhem \"has managed harder things with less warning\" (scenes/Rengai_Farewell_and_Dhaerin.md:35) — the framing of a man near the end of a long career, not mid-career. His white hair confirms it directly: \"His white hair had come loose from its tie\" (scenes/Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md:9). Cast an old man's voice, not a seasoned-but-vigorous middle-aged one.",
+  "body": "Not built for melee. He fights from behind a grimoire and wand while Rengai does the physical work, and his body is the first thing to give out under strain: \"His wand hand trembled faintly from the feedback that had buckled his knees, and he forced the tremor into stillness through sheer discipline rather than any recovery the moment had given him time for\" (scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:43). He is Valorin bloodline — gold rune-script surfaces on his throat and temple when he casts, never on his fists: \"the fine gold script along his throat beginning to surface and glow faintly in the gathering dark\" (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:59); \"the faint gold geometry at his temple catching what little remained of it\" (scenes/Rengai_Farewell_and_Dhaerin.md:29). Cast a slight, scholarly frame running on discipline and borrowed time, not physical bulk — the opposite build from an eight-foot giant or a warrior like Rengai.",
+  "pitch": "medium-low",
+  "texture": ["dry", "papery", "unhurried", "precise diction", "no theatrical chant-voice", "faint rasp of age", "cracks only from mortal injury, never from fear"],
+  "pace": "measured",
+  "energy": "Low and banked, never rising to match a threat. He corrects Cozbi's argument in the same tone a tutor uses on a student's proof (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:25), and even while laying the rite that he knows will kill him, \"His voice did not shake. Whatever fear remained in him had already been spent on lesser things tonight\" (scenes/Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md:15). The one texture change on record is involuntary and physical, never emotional: blood in his throat turns his laughter \"wet, bubbling\" at the edge of death (scenes/Dhaerin_Magnum_Opus_Recursive_Array.md:9). His composure is a discipline, not a temperament — the only thing that ever cracks it is his own body failing, never the enemy in front of him.",
+  "register": "A tutor's register carried all the way into a death rite: level, conversational, corrective — \"You keep saying strong\" ... \"the word you actually want isn't strong. It's parasite\" (scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:25) — rather than declamatory. His incantations land the same way: \"Dhaerin's voice carried none of the theater most casters gave a chant, only the flat cadence of a man reading a proof aloud\" (scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:19), so his Latin ritual lines (\"Hoc sacramentum meum ultimum est,\" \"Rescindo\") should read as recitation, not performance. The numbers back a controlled, literate speaker: mean utterance 24.3 words, contractions moderate at 0.56, first-person framing heavy at 0.56, zero questions and zero imperatives across his sample (build/book_tools.py voice_fingerprints) — he states and explains, he does not interrogate or bark orders.",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.3,
+    "grit": 0.25,
+    "breath": 0.3,
+    "pace": 0.88
+  },
+  "evidence": [
+    {
+      "source": "scenes/Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md:9",
+      "quote": "His white hair had come loose from its tie somewhere in the last exchange and hung matted with his own blood down one side of his face, and he did not bother pushing it back."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:53",
+      "quote": "\"Insufferable old man,\" he muttered, though there was no heat left in it, only the specific fondness reserved for people who were usually right and never let you forget it."
+    },
+    {
+      "source": "scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:43",
+      "quote": "His wand hand trembled faintly from the feedback that had buckled his knees, and he forced the tremor into stillness through sheer discipline rather than any recovery the moment had given him time for."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:59",
+      "quote": "Dhaerin's hand moved to the grimoire at his belt without ceremony, thumb already finding the worn edge of its first page, the fine gold script along his throat beginning to surface and glow faintly in the gathering dark."
+    },
+    {
+      "source": "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md:25",
+      "quote": "\"You keep saying strong,\" Dhaerin said, his voice level, almost conversational, the specific tone of a scholar correcting an error in someone else's proof rather than a man addressing his own executioner. [...] \"It's parasite. I only mention it because you seem like a man who prides himself on precision, and precision matters to me too.\""
+    },
+    {
+      "source": "scenes/Cozbi_vs_Rengai_Dhaerin_Combat.md:19",
+      "quote": "\"Invoco caelum.\" Dhaerin's voice carried none of the theater most casters gave a chant, only the flat cadence of a man reading a proof aloud."
+    },
+    {
+      "source": "scenes/Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md:15",
+      "quote": "\"Hoc sacramentum meum ultimum est.\" He spoke the frame first, since every Saishiki rite required establishing the covenant before the cost or the command could be layered inside it. His voice did not shake. Whatever fear remained in him had already been spent on lesser things tonight."
+    },
+    {
+      "source": "scenes/Dhaerin_Magnum_Opus_Recursive_Array.md:9",
+      "quote": "It came up out of him in a wet, bubbling register, blood catching at the back of his throat with every exhale, and there was nothing hysterical in it, only the particular satisfaction of a man watching a very long proof finally resolve."
+    },
+    {
+      "source": "scenes/Rengai_Farewell_and_Dhaerin.md:35",
+      "quote": "\"I am certain.\" Dhaerin said it the way he said most things, with the flat, unhurried precision of a man who had already read the whole page before speaking any part of it aloud."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:39",
+      "quote": "\"Dhaerin Valorin is dead.\" She said it without softening it, the way she'd always said the things that mattered, direct because dressing it in gentler language would only have made the truth harder to trust once it finally landed."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Dhaerin | 9 lines | mean words 24.3 ±18.9 | short share 0.22 | questions 0.0 | contractions 0.56 | first person 0.56 | imperatives 0.0 | favourite words: finish, isn't, cozbi, tonight, i've, strength"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch — an old scholar's voice, dry and papery rather than warm or resonant, carrying a faint rasp of age but no habitual grit; not a giant's rumble and not a young man's clarity. Pace is unhurried and metronomic, sentences delivered the way a tutor reads a proof aloud, and it holds that level even while reciting Latin ritual lines or while dying. No regional accent flavour is on record — the diction reads closer to a lecture hall than a battlefield or a temple. Closest comparison: an elderly university don correcting a promising but wrong student, calm and exact, never needing volume to land the correction — and that same calm never leaves him, right up to the sentence that kills him.",
+  "one_line": "A dry, unhurried old scholar's voice — a rune-caster who corrects his own executioner's logic in the same flat, precise register he uses to recite the death-rite that kills him."
+}

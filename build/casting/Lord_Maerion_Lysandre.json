@@ -1,0 +1,76 @@
+{
+  "name": "Lord Maerion Lysandre · Keeper of the Seven Treatises",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "Not stated anywhere in the card — there is no numeric age and no Physical Description section (unlike the fuller character-sheet template, this card skips straight from Wellsprings and stats to Traits and Signature). Cast as senior and established rather than young: Level 266 at Stage IX (Invocation, an advanced attainment), the epithet 'Keeper of the Seven Treatises' (mastery earned through study), and a dual role as sitting High Court judge and wartime field commander all read as decades of accumulated standing, not a young officer's rank. Director's inference, not a sourced fact.",
+  "body": "Not physically described anywhere in the card — no build, height, or Physical Description section exists for him. The stat block argues against a large or physically dominant frame: Vitality 240 is explicitly 'His floor. A scholar who commands, not a duellist,' and Ardency 348 is called 'Modest — and deliberately so'; the Signature's own Counter notes that an opponent who gives him no legal pretext leaves him to 'fight them himself' at those same low combat stats. Cast the body as unremarkable and scholarly under judge's or commander's dress — the 'Lion' of his epithet lives in Dominion (614, SS, near ceiling) and in the magic of his voice (Roar of Command), not in physical size or muscle. Director's inference, not a sourced fact.",
+  "pitch": "medium-low",
+  "texture": [
+    "magisterial, controlled resonance rather than raw chest size",
+    "aphoristic, rhetorically balanced phrasing (parallel clauses, like a verdict being read)",
+    "little to no rasp or wear — polished, not battle-worn",
+    "projects/carries through command presence and magic, not volume",
+    "a scholar's exactness in word choice"
+  ],
+  "pace": "measured",
+  "energy": "Composed and banked by default — a judge's stillness, not a soldier's coil. His Roar of Command trait lets his battlefield orders 'resonate with Essence' to steady allies against fear, but that is a magical amplification of authority laid over the same controlled voice, not a shift into shouting or temperament change. His own epigraph is doctrine stated calmly, and the card's stated danger for him is coldness ('law without mercy becomes burnished sadism') rather than volatility — so play any heat as tightening severity, never a loss of composure.",
+  "register": "Concord High Court magisterial register: formal, precise, aphoristic. He is a judge who is also a field commander, so courtroom polish carries onto the battlefield in his orders rather than being swapped out for a soldier's bluntness.",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.55,
+    "grit": 0.1,
+    "breath": 0.1,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:13",
+      "quote": "A sword cuts the body. A law cuts the will. A just hand must know when to wield both."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:22",
+      "quote": "Lord Maerion Lysandre. Called · The Lion of the Concord. Roar of the Red Court · Keeper of the Seven Treatises."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:23,27",
+      "quote": "Concord High Magistrate. Battle-Scholar. Wellspring Strategist. ... he serves as both a judge in high-profile disputes and a field commander in times of realm-spanning war."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:64,66",
+      "quote": "Ardency | 348 | A | Modest — and deliberately so ... Vitality | 240 | B | His floor. A scholar who commands, not a duellist"
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:85",
+      "quote": "When Maerion issues orders in battle, they resonate with Essence, bolstering allies' morale and granting momentary resistance to fear and magical coercion."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:45-46",
+      "quote": "law without mercy becomes burnished sadism, and Judicium injury shows most clearly where either side is used to excuse the other's absence. \"A just hand must know when to wield both\" is a man stating the Judicium failure condition as a personal standard. Whether he passes it is the whole of his arc."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md:98",
+      "quote": "An enemy who commits no offence stands in the Tribunal untouched — and at Ardency 348 and Vitality 240, Maerion must then fight them himself."
+    },
+    {
+      "source": "scenes/ (case-insensitive grep for 'maerion' and 'lysandre' across every scenes/*.md file)",
+      "quote": "0 matches outside scenes/CAST.md's own index entry — no line of dialogue, tag, or narration naming him exists anywhere in the scene archive."
+    },
+    {
+      "source": "scenes/CAST.md:89-90",
+      "quote": "## Lord Maerion Lysandre (4 scenes)\nWOTR_Vaeloris_Sequence.md (14), wotr_the_weight_of_a_courier.md (3), 04_sodoku_what_the_sky_does_not_ask.md (2), sodoku_gate_reunion_lambert.md (2)"
+    },
+    {
+      "source": "build/mcp_server.py:629-637 (cast_index generator that wrote CAST.md) cross-checked by grepping the literal word 'Lord' in the four listed files",
+      "quote": "rx_first = re.compile(r\"(?<!\\w)\" + re.escape(first) + r\"(?!\\w)\") if len(first) >= 4 else None — first-word ('Lord') fallback fires whenever the full name has zero hits; grep counts for the bare word 'Lord' in the four files are 14, 3, 2, 2, exactly matching CAST.md's numbers and identical to the entry for 'Lord Lucen Vale' one line above. The CAST.md row is a matching artifact on the title 'Lord', not an appearance of this character."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints output",
+      "quote": "12 characters with eight or more attributed lines (heuristic attribution; treat as measurement, not verdict). — Lord Maerion Lysandre is not among them."
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch — a magistrate's carrying authority rather than a giant's bass. The stat block deliberately builds him as a mind and a voice rather than a body (Vitality 240 is his floor, Ardency only 348 'and deliberately so'), so the 'Lion' in his epithet should live entirely in command presence, not physical size. Texture is polished and controlled — courtroom-trained, aphoristic, rhetorically balanced (his own line runs sword/law/hand in parallel clauses) — with almost no rasp, since grit would read as a brawler and the card is explicit that he is not one. Pace is measured and weighted, an orator laying clauses down for effect rather than rushing. No accent or dialect is assigned to the Concord bench anywhere on record; play a refined, formal, aristocratic-judicial register that never loosens into slang. Closest comparison: the voice of a senior judge who is also a wartime general — a verdict read from the bench that could just as easily be a battlefield order, its authority coming from precision and resonance rather than volume or bulk.",
+  "one_line": "A magistrate's measured, resonant authority — not a giant's roar but a judge's verdict-voice, its weight coming from command and magic rather than muscle."
+}

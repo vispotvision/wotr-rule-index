@@ -1,0 +1,72 @@
+{
+  "name": "Emira Moto",
+  "speaks_in_archive": true,
+  "lines_read": 15,
+  "gender": "female",
+  "age": "9 — the only age at which she has attributed dialogue in the archive (scenes/The_Path_of_Sorrow.md). The record also places her roughly eleven years later as a grown battlefield physician with an 'iron' adult grip (scenes/sodoku_gate_reunion_lambert.md:13-15) and as an adult present at a policy debate at the table (scenes/sodoku_fourteenth_bow_table.md:39), but she has zero quoted lines in either later scene — cast from the nine-year-old record, which is the entire spoken archive.",
+  "body": "small and slight, a nine-year-old's frame worn down by five years of exile hardship; round face, dark eyes. Moves at 'the velocity that nine-year-old bodies achieve when fear overrides the mechanical limitations of short legs and a sleep-heavy frame' (The_Path_of_Sorrow.md:635); when frightened her grip is described as 'not muscular, it was existential' (same line); under acute threat she freezes totally rather than fleeing, 'every muscle in her small body locking simultaneously, the way prey animals froze' (The_Path_of_Sorrow.md:1213).",
+  "pitch": "high",
+  "texture": [
+    "hushed — several lines are explicitly whispered or described as barely audible ('Emira finally spoke loud enough for Temür to hear')",
+    "thin and light, an undeveloped child chest voice, effectively no rasp",
+    "catches and shrinks under stress: 'Quieter than before. Smaller.'",
+    "goes flat and matter-of-fact, not childish, on the rare declarative line ('He'll kill them.')",
+    "one recorded unguarded flicker of brightness — a four-millimetre smile at someone else's laugh — before receding back into guardedness"
+  ],
+  "pace": "measured",
+  "energy": "very low and guarded most of the time — flinches, shrinks, freezes; briefly warms and brightens for a beat around Yōko, the one adult she has decided to trust, then recedes",
+  "register": "a traumatized nine-year-old's near-whisper: short, mostly single-clause questions testing whether it is safe to ask ('What did he do?', 'Are you fighting?', 'What's a scourge?'), one flat one-line certainty learned by rote observation of her brother ('He'll kill them.'), and monosyllabic compliance in exchanges with a trusted adult ('Mm-hm.', '...a little.', 'Thank you.')",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": 4,
+    "weight": 0.15,
+    "grit": 0.05,
+    "breath": 0.55,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:635",
+      "quote": "the inn's front door burst open and Emira came through it at the velocity that nine-year-old bodies achieve when fear overrides the mechanical limitations of short legs and a sleep-heavy frame... the grip was not muscular, it was existential"
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:953",
+      "quote": "\"I'm trying,\" Emira said. Quieter than before. Smaller."
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:961",
+      "quote": "Emira finally spoke loud enough for Temür to hear. \"Are they talking about him?\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:967,981",
+      "quote": "\"Did he do it?\" ... \"Then why are we with him?\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1109-1113",
+      "quote": "\"Hm?\" Emira asked. ... Emira whispered the name like she was not sure if saying it too loudly might wake something. \"That sounds bad.\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1161-1171",
+      "quote": "Emira tugged faintly at Yōko's sleeve. \"What's a scourge?\" ... \"Because of monsters?\" ... \"He'll kill them.\" The certainty in the statement was absolute. Not hope. Not faith. The flat, factual certainty of a nine-year-old who had watched her brother do exactly one thing consistently for five years"
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1213,1229",
+      "quote": "Emira froze. The freeze was total — every muscle in her small body locking simultaneously, the way prey animals froze... Emira whispered, \"Monster?\""
+    },
+    {
+      "source": "scenes/The_Path_of_Sorrow.md:1275-1285",
+      "quote": "\"Your shoes okay?\" / \"Mm-hm.\" / \"The left one's rubbing, isn't it.\" / \"...a little.\" ... Emira looked at Yōko when the shoe was fixed. \"Thank you.\""
+    },
+    {
+      "source": "scenes/sodoku_gate_reunion_lambert.md:13-15",
+      "quote": "Emira's grip had not loosened. Iron, that grip. Nine years had done what nine years do to a body that trains, and the hand closed on his wrist above the gauntlet cuff was not a child's hand anymore"
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints — Emira row",
+      "quote": "15 lines, mean words 5.3 ±4.4, short share 0.6, questions 0.47, contractions 0.13, first person 0.13, imperatives 0.0, favourite words: needed, stay, close, tomuka, sonzai, kuroyuki. Heuristic — the tool's own caveat says treat as measurement, not verdict; a manual read of all 15 attributed lines confirms the short, question-heavy shape but not the exact favourite-word list, which traces in part to a quoted name-list inside an unrelated ruling note (THE_KINGDOM_OF_KHARVEN_corrected.md:312) that the attribution heuristic appears to have misassigned to her by name-proximity."
+    }
+  ],
+  "reference_direction": "Girl, roughly nine years old — a genuine child voice, not a stylized 'cute kid' performance. Pitch sits high, near the top of the child range; texture is thin and light with almost no chest weight, breathy rather than clear, and repeatedly drops to a near-whisper the prose calls out as barely audible. Pace is unhurried and halting — she tests a question, waits, and either gets an answer or retreats — rather than the quick chatter of a stereotyped animated child. No accent coloring is written into her lines; raised in a northern court but her handful of words carry no dialect markers. Comparable to a real, quietly traumatized child extra cast in a war film rather than an adult doing a 'child voice' — small, underplayed, careful — with exactly one unguarded flicker of brightness (a barely-there smile at someone else's laugh) breaking through before the guardedness closes back over it.",
+  "one_line": "A hushed, breath-light nine-year-old's voice — mostly whispered questions and monosyllables, flat and certain only when naming what her brother is, warming for a single beat around the one adult she trusts before retreating back into quiet."
+}

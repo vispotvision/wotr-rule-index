@@ -12,3 +12,5 @@ build/voices/*.wav
 build/.narrate_jobs.json
 build/.narrate-*.log
 build/.chatterbox_worker.log
+build/.supertonic_worker.log
+build/voices/bakeoff/

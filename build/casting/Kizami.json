@@ -1,0 +1,72 @@
+{
+  "name": "Kizami",
+  "speaks_in_archive": true,
+  "lines_read": 13,
+  "gender": "Ambiguous / non-human. The prose gives the body \"his\" (\"his chisel-jaw\") but gives the voice \"its\" (\"its voice had lost every bit of its clerkly flatness\") in the same scene. Cast gender-neutral, not distinctly male or female.",
+  "age": "Ageless / uncounted. No number is given for Kizami itself; it has been keeping the tally long enough to say \"Four hundred and six years since anyone said the names aloud\" and to have watched sixty-one arrivals and eleven gates opened, so read it as an old fixture of the gate, coeval with Gimbzo, not a young or a frail voice.",
+  "body": "Small and spindly next to Gimbzo's eight feet: \"a neck with too many joints,\" a chisel for a jaw, and a way of moving down a three-hundred-foot trunk \"with too many joints going at once\" and landing \"without disturbing the ash.\" Reads as insectile or wood-jointed rather than human-proportioned - light, quick, unresonant.",
+  "pitch": "medium-high",
+  "texture": [
+    "dry, papery",
+    "clipped consonants",
+    "a faint wood-on-wood clack under the words (the chisel keeps working while it talks)",
+    "thin, unresonant - no chest weight",
+    "cracks sharp and aggrieved under provocation, losing its \"clerkly flatness\""
+  ],
+  "pace": "quick",
+  "energy": "Deadpan and clipped at rest - a clerk reciting a tally without looking up, talking through its own work (\"Snap. Twist. Curl.\") rather than pausing for the sentence. Mildly, perpetually put-upon (\"Nobody asks me anything,\" \"I have said this four times\"). Under provocation the flatness cracks and the pitch/edge jumps, sharp rather than loud.",
+  "register": "Bureaucratic / clerkly: exact counts and repeated citations of its own prior statements, a record-keeper's insistence on precedent and subsection, delivered helpfully and literally with no warmth.",
+  "engine": "standard",
+  "exaggeration": 0.65,
+  "design": {
+    "pitch_st": 3,
+    "weight": 0.15,
+    "grit": 0.3,
+    "breath": 0.15,
+    "pace": 1.1
+  },
+  "evidence": [
+    {
+      "source": "scenes/balance_lesson.md:5",
+      "quote": "Kizami's head came around on a neck with too many joints in it."
+    },
+    {
+      "source": "scenes/balance_lesson.md:113",
+      "quote": "\"He would be in the root pile,\" Kizami said, from very high up, and its voice had lost every bit of its clerkly flatness. \"There is no room in the root pile. I have said this four times.\""
+    },
+    {
+      "source": "scenes/balance_lesson.md:15",
+      "quote": "\"I will need a second band.\" The chisel-jaw worked once on nothing, which is what it did when it was aggrieved. \"Voluntary adhesion files under a different hook. The hook is at the top of the column and I have to go up. Nobody thinks about the going up.\""
+    },
+    {
+      "source": "scenes/seven_labors.md:49",
+      "quote": "\"Baransu,\" said Kizami from up the trunk, without stopping. Snap. Twist. Curl. \"The odd one is Balance. Loaned in. Everyone notices and no one says.\""
+    },
+    {
+      "source": "scenes/seven_labors.md:53",
+      "quote": "\"Nobody asks me anything and I am the only one keeping a record.\""
+    },
+    {
+      "source": "scenes/seven_labors.md:147",
+      "quote": "\"Five is the root pile,\" Kizami said helpfully. \"I have seven in the root pile. There is no room in it. I have mentioned this.\""
+    },
+    {
+      "source": "scenes/04_verinus_the_hand_and_the_print.md:131",
+      "quote": "Kizami came down the column with too many joints going at once and landed on the ash without disturbing it and put his chisel-jaw sideways to read the trunk."
+    },
+    {
+      "source": "scenes/04_verinus_the_hand_and_the_print.md:135",
+      "quote": "\"There's a subsection,\" said Kizami."
+    },
+    {
+      "source": "scenes/09_dabney_the_undamped_thing.md:181",
+      "quote": "Kizami came down the column with too many joints going at once and landed without disturbing the ash."
+    },
+    {
+      "source": "build/voices.yaml:48",
+      "quote": "Kizami:                # the Notcher; a neck with too many joints; keeps the record"
+    }
+  ],
+  "reference_direction": "Non-human, gender-neutral-leaning voice, medium-high and thin, with no chest resonance - the sound should seem to come from something jointed rather than a throat. Dry, papery texture with a faint wooden clack riding under the consonants, as if the chisel never really stops. Quick, clipped pace: sentences land like tally marks being cut, not conversation. No regional accent - just exact, over-precise diction, the way a clerk reads exhibit numbers into a record without looking up. Default delivery is flat and unbothered; under contradiction or interruption the flatness snaps and the pitch jumps half a register, thin and aggrieved rather than loud. Closest comparison: a court stenographer reading receipts aloud in a monotone crossed with a woodpecker's clatter given syntax and a grudge.",
+  "one_line": "A small, many-jointed tree-clerk with a chisel for a jaw: dry, clipped, bureaucratically flat until provoked, when the flatness cracks into a thin, aggrieved edge."
+}

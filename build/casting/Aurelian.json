@@ -1,0 +1,70 @@
+{
+  "name": "Aurelian Prudentius Custos Clausorum · The Primate",
+  "speaks_in_archive": true,
+  "lines_read": 34,
+  "gender": "male",
+  "age": "58 (card, Identity section) — but reads as a specific mismatch: a 58-year-old's cultivated formality now running through a body the prose describes as freshly, unnaturally young (\"new skin,\" \"no history in it,\" a hand with \"no chalk on it and no ink and no callus anywhere\"). Cast the age of the man, not the skin.",
+  "body": "Tall without using it; narrow through the shoulder, slightly forward at the neck; stands with weight settled back, as though yielding the room. No soldier anywhere in him — Dexterity is his worst stat and he has never held a weapon. Hands are the tell: long-fingered, dry, unmarked, and permanently ~1.8°C above ambient, so a handshake leaves people fractionally unsettled. Speaks slowly with pauses seated on the exhale — breath IS the mechanism (his signature technique triggers by him ceasing to breathe), so restraint reads as physical, not just temperamental.",
+  "pitch": "medium-low",
+  "texture": ["dry", "warm-toned", "smooth", "unhurried", "faintly liturgical", "controlled-under-pressure"],
+  "pace": "slow",
+  "energy": "Low and banked, never absent — a man who has decided in advance never to be the one who acts, and whose calm is a held breath rather than a resting state. Even 'pleasantly' delivered lines to an enemy carry no charge; even mid-torture the delivery does not speed up.",
+  "register": "Concordia formal register, deliberately acquired over a Sum-gol (foreign, informal) substrate — near-zero contractions, precise legalistic/clerical diction, complete sentences. Under strain the substrate surfaces: dropped copulas in short assertions, qualifiers moved to the end of the clause, and (per the card) sentences that resolve to a rising interval that never quite closes, so a finished statement sounds like the first half of something. In the post-torture/post-abduction scenes this shifts further into a flatter, affectless delivery with no rise and no drop at all — a second, colder register layered over the first.",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.35,
+    "grit": 0.15,
+    "breath": 0.4,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md:24",
+      "quote": "Age: 58 · Sex: Male"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md:195",
+      "quote": "Concordia formal register, deliberately acquired, sitting over a Sum-gol substrate that surfaces under strain in two places: he drops the copula in short assertions, and his sentences resolve to a rising interval that never quite closes, so that a completed statement of his sounds to a Concordia ear like the first half of something. Under real pressure the register slips further and he begins using the valley's construction, which puts the qualifier last. He speaks slowly, with pauses seated on the exhale, and his pauses are the technique whether or not he is running it."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md:199",
+      "quote": "He stops breathing. Not metaphorically and not as technique. The suspension seats on the interval and under genuine strain the interval opens on its own, and everyone senior in the Grand Church has learned to watch his chest rather than his face."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md:180",
+      "quote": "His hands are the tell and everyone who has shaken one remembers it: long-fingered, dry, unmarked, and warm past what a hand should be, a full degree and more above the skin of whoever is holding it"
+    },
+    {
+      "source": "scenes/aurelian_word_under_the_hammer.md:33",
+      "quote": "\"Lux, lux,\" Aurelian said. \"Veniet, veniet.\""
+    },
+    {
+      "source": "scenes/aurelian_word_under_the_hammer.md:65",
+      "quote": "\"You are in it too, Master Sesk. That is the part people miss. It is not a curse laid on you by me. It is a statement about the structure of the room we are both standing in, and it applies to me identically, and I have considerably more to be laid open than you do.\""
+    },
+    {
+      "source": "scenes/06_aurelian_what_the_lamberts_are_for.md:79",
+      "quote": "he said it anyway, in the flat plain voice he had begun using since the cellar, the one that had no drop in it at the end of a sentence"
+    },
+    {
+      "source": "scenes/06_aurelian_what_the_lamberts_are_for.md:81",
+      "quote": "\"The halberdier is a tool with a good edge and somebody's hand on it, and I could put him down without standing up. I am speaking of the other one... I no longer wonder that Verinus was defeated.\""
+    },
+    {
+      "source": "scenes/06_aurelian_what_the_lamberts_are_for.md:113-115",
+      "quote": "\"Are you all right, Archbishop.\" / The inflection did not go up at the end."
+    },
+    {
+      "source": "scenes/19_aurelian_five_numbers.md:101-103",
+      "quote": "Aurelian's voice had gone very quiet and the slowed air carried it anyway. \"Deep Current Pull.\""
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Aurelian | 11 lines | mean words 15 ±19.5 | short share 0.36 | questions 0.0 | contractions 0.09 | first person 0.45 | imperatives 0.0 | favourite words: record, told, office, come, thought, veniet"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch, dry and warm-toned rather than gravelly — no growl, no rasp to speak of. Pace unhurried, sentences let out slowly on the exhale with real space between clauses; almost no contractions (0.09 on the numbers) and a nearly total absence of rhetorical questions or commands, so nothing in the delivery ever sounds like it's pushing on the listener. Accent flavour: a cultivated continental/ecclesiastical formality — the diction of a senior church jurist reading a verdict — with a foreign undertow that surfaces under strain as dropped little words and clauses that end on a note that never quite resolves, like a question that decided not to be one. Comparable to the voice of a hospice chaplain or a tribunal judge delivering a ruling nobody wants: gentle, unhurried, absolutely certain, and unsettling for how little it costs him to say it.",
+  "one_line": "A 58-year-old church judge's voice run through a body that no longer shows its age — warm, dry, and glacially unhurried, its careful formal cadence cracking into a foreign, unresolved lilt only when the thing he's holding threatens to finish."
+}

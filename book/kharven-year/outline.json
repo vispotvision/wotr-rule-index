@@ -1,0 +1,263 @@
+{
+  "title": "The Kharven Year",
+  "thread": "Sodoku Moto",
+  "culture": "Kharven",
+  "premise": "The year after the signing. In the spring Sodoku Moto put his hand last to an instrument that made four quarters one body of law, and every clause of it is a twelve-year-old girl in a cistern doorway and none of it says so. Over the twelve months that follow, the instrument is tested by the people who signed it and by the words other nations coin for what Kharven did to win: a child with a chair asks for three hundred names, the Expanse cuts a new word into a board, Nalūn asks to seal the promise in salt, Stannvaard refuses to deal with a body that has no name, and the four factors in Vaultmere give up a date. Sodoku pays each bill in person, unnamed instrument, unnamed grief, and by Ice-out he has done one thing he did not do at the signing: he sits down. The circle is never named in prose. Hild is never named as the reason.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Week After",
+      "beat": "Seven days after the signing the instrument has to be entered somewhere, and Nalūn's factor asks the table for a fair copy for Vaultmere while the Bench's clerk asks Yoko Mishiro for her record of the signing night and is refused in one sentence. Sodoku orders the copy made and names Tabitha Hallenfeld to carry it, knowing exactly where the four factors sit, and says in front of Lambert that the road is hers. In the passage behind the hall Brida, on her stick, tells him what a man who has not slept a full night in a year is spending and that it comes due in the Thin Weeks; he answers by asking after her stack and goes back to the grain returns. Miku Tenrai Moto holds his chair through all of it and watches the king's hands rather than his face.",
+      "scene_type": "talky",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Yoko Mishiro", "Edward Lambert", "Tabitha Hallenfeld", "Brida Ashwell", "Miku Tenrai Moto", "a clerk of the Bench", "a factor of the Council of Links"],
+      "place": "Kharven-Seat, the lower hall and the passage behind it",
+      "front_id": "the-accord-circle-unnamed",
+      "plants": ["H01-yoko-lines", "H02-copy-road", "H03-miku-chair", "H04-price-of-standing"],
+      "pays": [],
+      "time_elapsed": "Seven days after the signing; Ice-out",
+      "target_words": 3500
+    },
+    {
+      "number": 2,
+      "title": "The Road Woman",
+      "beat": "Tabitha rides the copy south with the road reading under her, past the fourth ford, through the Hallenfeld junction where the signal posts still stand for a body that only just came back, and into Rimward where the corridor closures have left convoys standing. In the counting city, scribes who served seven years take the copy from her without hurry. She stops asking Lambert's question and asks it of the first of the four factors instead; his book gives her the date of the first order, the first week, paid in Kharven coin, and beside it the description of the courier who placed it, which fits one boy she knows. She writes the date down and dates the writing.",
+      "scene_type": "quiet",
+      "pov": "Tabitha Hallenfeld",
+      "cast": ["Tabitha Hallenfeld", "a Hallenfeld courier captain", "the Chainwarden of the Eastern Reach's clerk", "the first factor"],
+      "place": "The Hallenfeld junction, Rimward, and Vaultmere",
+      "front_id": "tabitha-hallenfeld",
+      "plants": ["H05-robin-pouch"],
+      "pays": [],
+      "time_elapsed": "Eleven days on the road; late spring, when the grass comes",
+      "target_words": 3500
+    },
+    {
+      "number": 3,
+      "title": "The Board",
+      "beat": "Renard Greymane rides in from the Ridgewall with a board the Keth-Gorrum sent over the pass, carried up the last mile by a Bugbear who did not stop: a new compound cut into split ash that nobody in the Seat can decompose, and a count cut beside it, four hundred and seven. Lambert reads the count and understands that the Expanse has voted to enter the hostages as bearers of the word Bram made, and that the word now has a constituency of whom one is alive. Sodoku orders the board hung uncut in the lower hall on the pillar beside the instrument and stands in front of it for the length of a broth. Renard has the brass token inside his gambeson against the skin and shows it to nobody; Emira tells Yoko she watched her brother look at the board and could not find where he stopped and the looking began.",
+      "scene_type": "standard",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Edward Lambert", "Renard Greymane", "Yoko Mishiro", "Emira Moto"],
+      "place": "Kharven-Seat, the lower hall",
+      "front_id": "the-keth-gorrum-of-undaar-keth",
+      "plants": ["H06-the-board", "H07-the-token"],
+      "pays": [],
+      "time_elapsed": "Early summer, a month after the copy went south",
+      "target_words": 3500
+    },
+    {
+      "number": 4,
+      "title": "Ask Him",
+      "beat": "In the Stormfold hall, under the shield with the boss cracked in two directions, Renard reads the mutilation roll in the Stormfold book in his cousin's three-fingered hand and finds Egil Vald and Cass Holloway and not Wren. He asks Bram the question nobody has put, why Wren is not on it. Bram answers with two words, Ask him, and gets up on the hip and goes out into the yard with his cup, and Renard takes the two words for grief and does not correct himself. He rides back toward the Seat with the roll read and the two words in him and the packet still sealed.",
+      "scene_type": "talky",
+      "pov": "Renard Greymane",
+      "cast": ["Renard Greymane", "Bram Greymane"],
+      "place": "The Stormfold hall and the Ridgewall yard",
+      "front_id": "bram-greymane",
+      "plants": ["H08-ask-him"],
+      "pays": [],
+      "time_elapsed": "Midsummer",
+      "target_words": 3500
+    },
+    {
+      "number": 5,
+      "title": "Children of the Defeated Lines",
+      "beat": "At the harvest sitting, in Common, Miku Tenrai Moto asks that the three hundred entered as attrition on the road be entered by name under the clause about children of the defeated lines, and the hall hears the clause read back to the man who wrote it by the chair he seated. Sodoku had expected the first test of the instrument to come from outside and it has come from the table; he orders the recount by name, strikes the entry, and puts Lambert on it, and Lambert says in front of the hall what it will cost in riders and in the names of riders. Sodoku says the recount begins with the Seat's own column. Lambert's year accounts, read after, carry an unpriced line, eleven days of Dawi forge-work on the crossing, and Sodoku says it is paid before the Thin Weeks. Yoko declines to say what she has noticed about the boy's hands.",
+      "scene_type": "talky",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Miku Tenrai Moto", "Edward Lambert", "Yoko Mishiro", "Brida Ashwell", "Robin Ice"],
+      "place": "Kharven-Seat, the lower hall, the table",
+      "front_id": "the-accord-circle-unnamed",
+      "plants": ["H09-the-recount", "H10-borin-price"],
+      "pays": ["H03-miku-chair"],
+      "time_elapsed": "Late summer, the first harvest in",
+      "target_words": 3500
+    },
+    {
+      "number": 6,
+      "title": "The Counting City",
+      "beat": "The second, third and fourth factors keep Tabitha waiting the way Vaultmere keeps everyone waiting, and their books, when they open, show four orders placed on one day by one courier, the day Robin Ice came back from the Alabaster Court by the long road through the Ironwood March. The Chainwarden of the Vaultlands asks her, as bearer of the copy, whether Kharven will seal the instrument in salt at Deepvein so that it enforces itself, and she has no authority to answer and says so, and he enters that she said so. She rides north with a date instead of an answer, and the copy stays in the salt.",
+      "scene_type": "talky",
+      "pov": "Tabitha Hallenfeld",
+      "cast": ["Tabitha Hallenfeld", "the second, third and fourth factors", "the Chainwarden of the Vaultlands", "a factor of the Council of Links"],
+      "place": "Vaultmere, the counting city",
+      "front_id": "tabitha-hallenfeld",
+      "plants": ["H11-salt-seal"],
+      "pays": ["H02-copy-road"],
+      "time_elapsed": "Early autumn; three months in the salt",
+      "target_words": 3500
+    },
+    {
+      "number": 7,
+      "title": "The Name Under the Seal",
+      "beat": "An Expanse envoy comes down the Stormfold road with a stone on his back and a second board: the word has bearers, the bearers have a seat in the Keth-Gorrum, and the seat asks, through a hereditary interpreter who will not decompose the word, for the name under the seal on the hostages' instrument. Lambert gives his own name in the plain form, with his gloves on. Sodoku does not shield him; he gives his own name beside it as the seal above the seal, and the interpreter cuts both names into the board on the pillar while the hall watches. Miku watches the interpreter's chisel and not the king.",
+      "scene_type": "talky",
+      "pov": "Edward Lambert",
+      "cast": ["Edward Lambert", "Sodoku Moto", "an envoy of the Keth-Gorrum", "a hereditary interpreter", "Yoko Mishiro", "Miku Tenrai Moto"],
+      "place": "Kharven-Seat, the lower hall",
+      "front_id": "the-keth-gorrum-of-undaar-keth",
+      "plants": ["H12-two-names"],
+      "pays": ["H06-the-board"],
+      "time_elapsed": "Autumn, the leaves down",
+      "target_words": 3500
+    },
+    {
+      "number": 8,
+      "title": "Thornhaven",
+      "beat": "Riding for Stannvaard to price the eleven days, with Yoko and Renard and nobody else, Sodoku stops at Thornhaven, where the Thornwalls read manifests the way the Greymanes read a ridge and tell him the Ore Council's grain cut was a message and not a shortage. Tabitha comes in off the corridor with Robin Ice and the date, and Robin says what he carried back from the Alabaster Court: a sealed pouch he was not permitted to open, put into the king's hand, read in front of him, after which the king sent for Lambert. Tabitha asks the king the question she has stopped asking Lambert. Sodoku answers, Because I told him to, and nothing else, and tells her to date it, and she does.",
+      "scene_type": "standard",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Yoko Mishiro", "Renard Greymane", "Tabitha Hallenfeld", "Robin Ice", "the lord of House Thornwall"],
+      "place": "Thornhaven, the northern Ironwood March",
+      "front_id": "tabitha-hallenfeld",
+      "plants": [],
+      "pays": ["H05-robin-pouch"],
+      "time_elapsed": "First frost",
+      "target_words": 3500
+    },
+    {
+      "number": 9,
+      "title": "The Adamant Vaults",
+      "beat": "Beneath Stannvaard, Borin Ironheart prices the eleven days: Kurosetsu on his anvil for one night so he can hear what it remembered on the road, and Sodoku hands the blade across and stands a night unarmed in a Dawi forge with Renard on the door. Renard shows Borin the brass token and Borin says it was struck by a Stannvaard punch and will not say which guild's, and gives it back. In the Ore Council's chamber the Chair says the Council cannot settle a grain account with a body that has no name and offers to settle with Kharven alone; Sodoku takes the blade back at dawn, declines to name the circle for the Council's convenience, and stops the border reports Kharven has passed to the Dawi commission for nothing since his father's seal, sending the token with the last one.",
+      "scene_type": "working",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Borin Ironheart", "Renard Greymane", "Yoko Mishiro", "the Council Chair of the Ore Council"],
+      "place": "Thane-Gorr and the Adamant Vaults of Varrak-Thur",
+      "front_id": "the-accord-circle-unnamed",
+      "plants": [],
+      "pays": ["H10-borin-price", "H07-the-token"],
+      "time_elapsed": "Ten days; the last week before the Thin Weeks",
+      "target_words": 3500
+    },
+    {
+      "number": 10,
+      "title": "Three Hundred",
+      "beat": "Lambert reads the three hundred by name in the lower hall, and against forty of them stand the names of Kharven riders, some from the column that rode to the Brine crossing behind the king, and against most of them nothing at all. Sodoku stands the whole length of it and sends the forty to the Bench under the instrument rather than to the crown, and the hall hears what the thing he signed does to the men who followed him. Robin Ice, who carried the returns, knows four of the forty by their horses, and rides the summonses himself because a runner does not weigh the traffic. Brida watches the king's hands through the reading and tells nobody what she sees.",
+      "scene_type": "standard",
+      "pov": "Robin Ice",
+      "cast": ["Robin Ice", "Edward Lambert", "Sodoku Moto", "Miku Tenrai Moto", "Yoko Mishiro", "Brida Ashwell"],
+      "place": "Kharven-Seat, the lower hall",
+      "front_id": "the-accord-circle-unnamed",
+      "plants": [],
+      "pays": ["H09-the-recount"],
+      "time_elapsed": "The first of the Thin Weeks",
+      "target_words": 3500
+    },
+    {
+      "number": 11,
+      "title": "Coldbeck",
+      "beat": "Vresk Dokkan of Kaadre-Six comes back over the pass in a cart in the deep Thin Weeks as the speaker of the word, with a hereditary interpreter and no fingertips, asking for the Shieldwarden by the name Bram gave him, and Renard is sent to bring him down the Stormfold road to the Seat. They stop the night at Coldbeck's death-house, where a cooper reads the Waiting's names because the last man who knew the liturgy died with it, and among the men laying out the dead in the cold room is one with the Greymane smile and a shield-arm who does not look up. Renard has read the roll. He says nothing, to the cooper, to the hobgoblin, or to the man, and in the morning the cart goes on south.",
+      "scene_type": "quiet",
+      "pov": "Renard Greymane",
+      "cast": ["Renard Greymane", "Vresk Dokkan", "a hereditary interpreter", "the Coldbeck cooper", "Wren Greymane"],
+      "place": "The Ridgewall pass and the death-house at Coldbeck",
+      "front_id": "wren-greymane",
+      "plants": [],
+      "pays": ["H08-ask-him"],
+      "time_elapsed": "The deep Thin Weeks; four days on the road",
+      "target_words": 3500
+    },
+    {
+      "number": 12,
+      "title": "Under the Sky",
+      "beat": "A year after the signing Lambert reads all the names again in the lower hall, the three thousand and eleven and the three hundred and the four hundred and six, and Nalūn's factor asks a last time for the salt, and Sodoku refuses him: a promise that needs a mountain to hold it is not a promise. Vresk Dokkan stands under the board with no name of his own and asks for the Shieldwarden, and Bram comes down from the Stormfold on the hip and stands in front of him and then sits, in the hall, in front of everyone, and nobody records what is said between them. Sodoku asks Yoko for the four lines and she refuses him as she refused the Bench, and he does not press; Renard tells Brida what he saw at Coldbeck and tells nobody else. Sodoku goes up to the burying ground alone, and for the first time since the stones were set he sits down on the ground beside the smallest of them, and stays.",
+      "scene_type": "standard",
+      "pov": "Sodoku Moto",
+      "cast": ["Sodoku Moto", "Bram Greymane", "Vresk Dokkan", "Edward Lambert", "Yoko Mishiro", "Miku Tenrai Moto", "Brida Ashwell", "Renard Greymane", "Emira Moto", "a factor of the Council of Links"],
+      "place": "Kharven-Seat, the lower hall and the upper burying ground",
+      "front_id": "bram-greymane",
+      "plants": [],
+      "pays": ["H12-two-names", "H11-salt-seal", "H01-yoko-lines", "H04-price-of-standing"],
+      "time_elapsed": "Spring; a year to the day",
+      "target_words": 3500
+    }
+  ],
+  "hooks": [
+    {
+      "hook_id": "H01-yoko-lines",
+      "text": "Yoko's four lines about the signing night exist in her own record and the Bench has never been permitted to see them. The Bench's clerk asks and is refused; by the anniversary the king asks and is refused the same way, and does not press.",
+      "keywords": ["four lines", "Yoko", "refused", "Bench"],
+      "planted_ch": 1,
+      "due_ch": 12
+    },
+    {
+      "hook_id": "H02-copy-road",
+      "text": "Sodoku sends Tabitha Hallenfeld south with the fair copy of the instrument for Vaultmere, knowing the four factors sit there. The copy goes into the salt and the road gives her the first order's date.",
+      "keywords": ["Vaultmere", "copy", "first week", "factor"],
+      "planted_ch": 1,
+      "due_ch": 6
+    },
+    {
+      "hook_id": "H03-miku-chair",
+      "text": "Miku Tenrai Moto, fourteen, holds a chair at the table by right of a forfeiture and watches the king's hands. The first test of the refugee clause comes from that chair, not from outside: he asks for the three hundred by name.",
+      "keywords": ["Miku", "clause", "three hundred", "by name"],
+      "planted_ch": 1,
+      "due_ch": 5
+    },
+    {
+      "hook_id": "H04-price-of-standing",
+      "text": "Brida names what a man who has not slept a full night in a year is spending and says it comes due in the Thin Weeks. Bram would not sit at the signing. At the anniversary Bram sits in the hall and Sodoku sits on the ground by the smallest stone.",
+      "keywords": ["sat down", "Brida", "full night"],
+      "planted_ch": 1,
+      "due_ch": 12
+    },
+    {
+      "hook_id": "H05-robin-pouch",
+      "text": "The first factor's book describes the courier who placed the first-week order, and the description is Robin Ice. Robin carried a sealed pouch back from the Alabaster Court and put it in the king's hand; the king read it and sent for Lambert. Asked, the king says: Because I told him to.",
+      "keywords": ["pouch", "Robin", "told him to", "first week"],
+      "planted_ch": 2,
+      "due_ch": 8
+    },
+    {
+      "hook_id": "H06-the-board",
+      "text": "The Keth-Gorrum's board: a new compound nobody in the Seat can decompose, with a count of four hundred and seven cut beside it, hung uncut on the pillar beside the instrument. The second board says the word has bearers and a seat, and the seat asks for the name under the seal.",
+      "keywords": ["board", "four hundred and seven", "seat", "name"],
+      "planted_ch": 3,
+      "due_ch": 7
+    },
+    {
+      "hook_id": "H07-the-token",
+      "text": "The brass token from the dead courier's satchel, three left-leaning strokes and a circle, rides inside Renard's gambeson unread. Borin says it was struck by a Stannvaard punch and will not say which guild's. Sodoku sends it to the Dawi commission with the last border report.",
+      "keywords": ["token", "punch", "Stannvaard", "border reports"],
+      "planted_ch": 3,
+      "due_ch": 9
+    },
+    {
+      "hook_id": "H08-ask-him",
+      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard sees a man with the Greymane smile laying out the dead and says nothing.",
+      "keywords": ["Wren", "Coldbeck", "smile", "said nothing"],
+      "planted_ch": 4,
+      "due_ch": 11
+    },
+    {
+      "hook_id": "H09-the-recount",
+      "text": "The entry attrition on the road is struck and the three hundred are recounted by name, beginning with the Seat's own column. When Lambert reads them, forty carry the names of Kharven riders and the forty go to the Bench under the instrument, not to the crown.",
+      "keywords": ["three hundred", "riders", "Bench", "attrition"],
+      "planted_ch": 5,
+      "due_ch": 10
+    },
+    {
+      "hook_id": "H10-borin-price",
+      "text": "Eleven days of Borin Ironheart's forge-work on the crossing stand unpriced in Lambert's accounts, and Sodoku says it is paid before the Thin Weeks. Borin's price is Kurosetsu on his anvil for one night, so he can hear what it remembered on the road.",
+      "keywords": ["eleven days", "Borin", "Kurosetsu", "anvil"],
+      "planted_ch": 5,
+      "due_ch": 9
+    },
+    {
+      "hook_id": "H11-salt-seal",
+      "text": "Nalūn asks, through the Chainwarden of the Vaultlands and then through its factor at the table, whether Kharven will seal the instrument in salt at Deepvein so it enforces itself. Sodoku refuses: a promise that needs a mountain to hold it is not a promise.",
+      "keywords": ["salt", "seal", "Nalūn", "promise"],
+      "planted_ch": 6,
+      "due_ch": 12
+    },
+    {
+      "hook_id": "H12-two-names",
+      "text": "Lambert's name and then the king's are cut into the board as the names under the seal on the hostages' instrument. The Expanse answers by sending Vresk Dokkan back as the word's speaker, asking for the Shieldwarden by name, and Bram comes down and sits in front of him.",
+      "keywords": ["Vresk", "speaker", "Shieldwarden", "sits"],
+      "planted_ch": 7,
+      "due_ch": 12
+    }
+  ],
+  "voice_note": "The archive is written turn by turn: each scene answers a beat, stops on a decision, and leaves the remembering to author notes. The book remembers inside the prose. Its unit is the year rather than the turn, and the Kharven calendar (Ice-out, when the grass comes, the first frost, the Thin Weeks) is the structure, so a chapter knows its season the way a hall does. Names are read aloud and counted, and the count is the plot. The king is seen from outside as often as from inside, and no chapter closes on him choosing, because his choices are the outline's. The archive's habit of eleven of everything is retired; numbers are the ones the record gives. Nothing is glossed, nobody winks, nobody says what a thing means, and grief gets one named object per chapter and no adjective. Exemplar: The board hung where he had ordered it hung, on the pillar beside the instrument, and the two did not look like a pair. The instrument was vellum, written by a man who would not delegate a name. The board was ash, split, the cuts made with a chisel by somebody who had carried it up a pass without stopping, and by the fourth day the hall's damp had got into the cuts and darkened them, so that the word could be read from the door by anyone who could read it, which was nobody. Anti-exemplar: The board was more than a board. It was an accusation, and the accusation was the war itself, hung there for all to see. Sodoku stared at it, jaw tight, the weight of four hundred and seven lives pressing down on his shoulders like a physical thing. He had no words. There were no words."
+}

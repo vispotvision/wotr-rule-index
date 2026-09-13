@@ -1,0 +1,66 @@
+{
+  "name": "Kwon Mu-jin",
+  "speaks_in_archive": true,
+  "lines_read": 38,
+  "gender": "male",
+  "age": "24 (young adult; ten years into being treated as older than he is)",
+  "body": "Slight, unarmed scholar's build. Strike Force under 60 Joules unaided, 'Hollow-range... consistent with zero martial training'; his own footwork 'never exceeds an ordinary brisk walk.' Dexterity is his lowest stat of seven (still S, but SS only in Gnosis). White-blond hair, one round lens on a chain, ink-stained hands, a travelling coat over court robes he no longer wears. Not physically imposing in any register — the danger in the room is never his frame.",
+  "pitch": "medium",
+  "texture": ["clean", "precise", "unhurried", "faint dry wit with his sister", "goes flat and quieter, not louder, under mortal stress", "quiet menace when correcting rather than volume"],
+  "pace": "measured",
+  "energy": "Restrained, coiled — a fast analytical mind under a calm, controlled surface. Does not raise volume even dying; the voice narrows and gets more exact instead.",
+  "register": "Formal 'schoolmaster' register — precise diction, subordinate clauses, corrects people mid-conversation and explains before being asked. Loosens slightly into dry, deadpan wit only with his sister Ara. Court-honorific habits mostly worn off; contractions rare.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -1,
+    "weight": 0.3,
+    "grit": 0.1,
+    "breath": 0.15,
+    "pace": 0.97
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Kwon Mu-jin.md (Voice)",
+      "quote": "Formally precise, over-explains under stress. Court-honorific lapses mostly worn away with age. Explains before he is asked to. Apologises for explaining, less often than he used to. Leans in when diagnosing, straightens too fast when he remembers he is being watched"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Kwon Mu-jin.md (VI–VII Force and Flow)",
+      "quote": "Strike Force: below 60 Joules unaided. Hollow-range by raw kinetic output, consistent with zero martial training."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Kwon Mu-jin.md (Stress Default)",
+      "quote": "Removes the spectacles. Goes very still. Names the problem aloud whether anyone wants to hear it or not"
+    },
+    {
+      "source": "scenes/10_mujin_the_name_of_your_killer.md:127-131",
+      "quote": "\"That is not my name.\" He said it in the voice he used for a boy who had put the wrong glyph in a Draft-circle for the third time in a term, and every man on the road who could hear it heard something in it that made them wish they had not. \"You should get the name of your killer properly... I am Kwon Mu-jin.\""
+    },
+    {
+      "source": "scenes/10_mujin_the_name_of_your_killer.md:85",
+      "quote": "\"Rest in peace,\" said Kwon Mu-jin."
+    },
+    {
+      "source": "scenes/12_mujin_open_crucible.md:93-99",
+      "quote": "He set his teeth in what was left and said it. \"Domain Expansion.\" ... \"Open Crucible.\""
+    },
+    {
+      "source": "scenes/WOTR_Vaeloris_Sequence.md:1804",
+      "quote": "\"I have been unconscious for most of nine days. My planning has been extremely limited.\""
+    },
+    {
+      "source": "scenes/WOTR_Vaeloris_Sequence.md:1838",
+      "quote": "\"You always argue better in it and you have been arguing in Concord Common since you sat down, which means you have prepared this and you are frightened of it going wrong... So say it properly and stop managing me. I have been managed by four physicians and a Zettari captain and I would rather be shouted at by my sister.\""
+    },
+    {
+      "source": "scenes/WOTR_Vaeloris_Sequence.md:1864",
+      "quote": "\"You cannot compel. You are not the one holding the power in the exchange. You are recognised, or you are not, and a summoner who misrepresents himself gets exactly nothing, and the getting nothing is the mercy. That is the whole of the discipline. It is not a warning attached to the discipline. It is the discipline.\""
+    },
+    {
+      "source": "scenes/WOTR_Vaeloris_Sequence.md:1898",
+      "quote": "\"Not often,\" he said. \"And I have decided that is a fault rather than a virtue, and I have not done anything about it, and I am aware of the difference between those two sentences.\""
+    }
+  ],
+  "reference_direction": "Male, mid-twenties, medium pitch — not deep, not boyish; nothing chesty or booming, since the character is a physically slight academic with zero martial training. Clean diction with almost no rasp or vocal fry. Moderate, unhurried pace that tightens into short, exact clauses under pressure rather than speeding up or rising in volume or pitch — when he is dying on his feet with a polearm through his chest, he still names the technique cleanly instead of shouting it. A neutral, faintly formal accent flavor: precision as a habit of survival, not regional coloring. One comparison: a brilliant young field-medicine instructor delivering a diagnosis calmly while the patient is crashing — voice goes quieter and more exact as the stakes rise, warming only slightly, in dry deadpan, with family.",
+  "one_line": "A slight, unarmed 24-year-old scholar-prodigy whose combat voice is his classroom voice — precise, over-explaining, correcting the monster that is killing him by name, and still naming his own technique cleanly as he coughs blood."
+}

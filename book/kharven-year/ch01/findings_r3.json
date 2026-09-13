@@ -1,0 +1,65 @@
+{
+  "draft": "book/kharven-year/ch01/draft_r3.md",
+  "round": 3,
+  "fail": 1,
+  "warn": 4,
+  "dropped": 0,
+  "deduped": 1,
+  "verdict": "revise",
+  "findings": [
+    {
+      "severity": "FAIL",
+      "pass": "POV and knowledge",
+      "line": 19,
+      "quote": "Her ears were up. Her tail lay along the bench and did not move.",
+      "problem": "Reports Yoko's moment-specific physical state (ears erect, tail motionless) as bare fact while the same paragraph places her on the bench behind Sodoku's left shoulder, outside his forward field of view, with no turn, glance or other perception cue. Sodoku is standing at the head of the table reading the returns. A knowledge leak into a register the close, POV-locked narration is not licensed for. A second critic reached WARN on the identical line (R35-2-NARRATION_DISTANCE_ASSIGNMENTS); merged here under the FAIL.",
+      "evidence": "Draft line 19: \"Yoko Mishiro sat on the bench against the wall behind Sodoku's left shoulder... Her ears were up. Her tail lay along the bench and did not move.\" notes_r3.md records the writer repairing this exact failure mode elsewhere in the same draft: \"the ear-and-tail read after Yoko's refusal is cut and the beat is carried by what he can hear with his back to the bench ('Behind him the bench gave no sound. Not a page.')\". Later Yoko-behind-him detail is hedged as peripheral vision: \"At the edge of his eye, on the bench, Yoko's nose moved.\" The introductory line carries no such anchor, and ear position and tail stillness are harder to see from directly behind a standing man's shoulder than a nose twitch is.",
+      "fix": "Either move the detail to a moment where Sodoku actually turns or glances toward the bench, or convert it to an auditory or already-known register the way the refusal beat was fixed (what he can hear, or what he knows of her habitual posture from nine years beside her), or anchor it the way the later two instances are anchored."
+    },
+    {
+      "severity": "WARN",
+      "pass": "voice / R19-5-SORT_BY_SPEAKER_TEST",
+      "line": 77,
+      "quote": "\"The road is hers. The days on it.\" A leaf of the returns had come loose under his hand and he put it back. \"Where she stops. Who she asks. Nobody at this table writes her a list.\"",
+      "problem": "Sodoku Moto's dialogue register in this scene sits far below his archived voice fingerprint.",
+      "evidence": "det_r3.json voice pass: archive fingerprint 13 lines, mean 45.6 words, long, uncontracted, non-asking. All six of his lines are short (1 to 22 words, z between -1.1 and -2.1); 'Vaultmere.' and 'Good.' are 'far outside this voice'; 'How's your stack?' is a question and a contraction from a voice that does neither.",
+      "fix": "None deterministic. notes_r3.md leaves this for Isaac to confirm the short table register (the greeting is the Standing Inventory's fixed wording, the imperatives are the brief's). Standing doubt carried from r1/r2, not new in r3."
+    },
+    {
+      "severity": "WARN",
+      "pass": "canon",
+      "line": 19,
+      "quote": "Yoko Mishiro sat on the bench against the wall behind Sodoku's left shoulder, where she had sat, or stood, or crouched, for nine years, whenever there had been a wall.",
+      "problem": "The wiki's Yoko Mishiro character card gives her current standing as settled away from court, not as a fixture in the king's hall.",
+      "evidence": "Yoko Mishiro character card: \"Standing Unaffiliated, settled — a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way.\" The project's State of Play (fow_line Sodoku Moto Kharven) supports the draft: \"Yoko Mishiro, nine years beside him\". Wiki-internal conflict, already logged as open in notes_r3.md.",
+      "fix": "None proposed. Record both sources; Isaac's ruling. Already in notes_r3.md's conflicts list."
+    },
+    {
+      "severity": "WARN",
+      "pass": "canon",
+      "line": 9,
+      "quote": "a pick went into the upper burying ground to the depth of a forearm, and it was being emptied a body a morning",
+      "problem": "The Standing Inventory names this culture's funerary practice as sky burial, but the draft depicts ground inhumation with grave markers and never uses the sky-burial idiom.",
+      "evidence": "brief.md, STANDING INVENTORY: \"The dead: the death-house, the Waiting, sky burial, 'gone to the sky.'\" Draft has bodies dug into \"the upper burying ground\", \"carried ... up the hill\", and \"the hill had four stones on it\", with no sky-exposure and no use of \"gone to the sky.\"",
+      "fix": "Possibly reconciled as a Kharven-Seat-specific settled-city rite distinct from steppe sky burial (the bible independently places grave-stones at the Seat's upper burying ground), but the draft never states the distinction. Flag for Isaac rather than silently reconciling."
+    },
+    {
+      "severity": "WARN",
+      "pass": "canon",
+      "line": 25,
+      "quote": "Long in the bone the way the Tenrai went long, all wrist and neck, hair cut short at the nape the way the household had cut it",
+      "problem": "Miku Tenrai Moto has no character card in the wiki mirror, so his physical description is unattested.",
+      "evidence": "book_tools.py character \"Miku Tenrai Moto\": \"no card for 'Miku Tenrai Moto' in the wiki mirror; check Notion before writing anything numeric about them.\" Age and forfeiture-at-nine/Brine-crossing are independently confirmed via fow_line \"Sodoku Moto Kharven\"; only the physical description is open.",
+      "fix": "Confirm the physical description against Notion before treating it as settled canon."
+    }
+  ],
+  "dropped_findings": [],
+  "deduped_findings": [
+    {
+      "severity": "WARN",
+      "pass": "POV and knowledge / R35-2-NARRATION_DISTANCE_ASSIGNMENTS",
+      "quote": "Her ears were up. Her tail lay along the bench and did not move.",
+      "reason": "same quote as the FAIL; merged into it"
+    }
+  ]
+}

@@ -93,7 +93,37 @@ whole archive (a workflow: one agent per scene tags speakers, a checker
 validates); a voice per named character in `voices.yaml`; RVC as a third
 stage for community-made voices (needs a DirectML/ROCm torch on the 9070
 XT); the multilingual Chatterbox checkpoint (already downloaded) for the
-Latin lines.
+Latin lines. Chatterbox now runs on the 9070 XT (`build/chatterbox_gpu_setup.ps1`)
+with a Whisper read-back on every span.
+**Casting rule (Isaac, after the first multi-voice render):** a voice is chosen
+from the character's card and the prose — size, age, how the text says they
+sound — not from what a corpus offers; Darius and Gimbzo want deep, raspy,
+God-of-War-register voices, not the soft studio readers they got.
+
+**The engine decision (Isaac, 12 Sep 2026, late):** Qwen3-TTS-1.7B-VoiceDesign,
+pure voice design, for every character — and the job from here is to make
+that one model as good and as efficient as it can be. Corpus clips are out;
+the brief is the voice. Done the same night: `engine: qwen` in the narrator
+(`build/qwen_backend.py`, `build/qwen_worker.py`), faster-qwen3-tts HIP
+graphs (2.4–2.8× real time per draw), best-of-N draws scored against an
+approved anchor folder per character with a self-calibrated pass mark,
+Praat shaping for exact pace/pitch/body (`build/voice_shape.py`), the brief
+manual (`build/voices/QWEN_DESIGN_GUIDE.md`) from four verified research
+reports, a 41-character casting book (`build/casting.yaml`) with a
+"brief a voice actor" paragraph each, and the two locked leads: Gimbzo on a
+Yhwach register (the creaky 63 Hz line is the target; "creaky, vocal fry,
+low rumble" is the phrase that finds it, "hoarse" pushes pitch up) and Darius
+on Piccolo's floor with Vegeta's manner. Real-person references (Sabat,
+Epcar) are briefs, not clips, and personal-use only.
+Next: Isaac picks the narrator from the N1–N4 audition; write `qwen_instruct`
+for the other 39 characters from their casting briefs (a workflow: one agent
+per character drafts the 12-field brief from `casting.yaml` + the guide, a
+checker rejects untrained words); anchors for each as Isaac approves takes;
+`voice_describe.py` (measure a clip → brief words) for "capture the essence"
+briefs; speed — the ggml/Vulkan backend of faster-qwen3-tts, `subtalker`
+sampling experiments in the plain venv; loudness normalisation and a gentle
+master on the final MP3; RVC only if a character's voice must be held tighter
+than best-of-N can.
 
 ## Deferred until there is a reason
 

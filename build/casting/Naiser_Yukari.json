@@ -1,0 +1,36 @@
+{
+  "name": "Naiser Yukari",
+  "speaks_in_archive": true,
+  "lines_read": 2,
+  "gender": "male",
+  "age": "~50, explicit in the one scene where he appears and speaks (\"At about fifty, and not at the end\"). The wiki card describes the founder in mythic/ageless register (elegant, regal, twilight-under-cathedral-stone) but gives no age that contradicts this; the card's framing reads as in-universe hagiography of the founder at his legendary best, not a casting instruction. Cast from the scene's fifty-year-old body, not the legend.",
+  "body": "Broad through the chest and going soft at the middle; heavy jaw; long black hair (worn loose in the memory where his son shares the same jaw-line); grey working coat with a cuff worn through, reading lenses he habitually loses in his own hair. A lived-in, physically substantial father-and-soldier build, not the card's willowy 'long-limbed' elegance -- the two descriptions read as the same lineage at different distances: myth vs. memory.",
+  "pitch": "medium-low",
+  "texture": ["dry", "flat / low-resonance carry rather than musical", "light gravel at the edges of age", "unhurried", "wry"],
+  "pace": "measured",
+  "energy": "coiled and undemonstrative -- he spends almost the whole of his page-time in restraint (dying calmly, doing the arithmetic of his own blood loss) and lets exactly one line spike into a bark. The rest is dry, plain, and unbothered.",
+  "register": "plain and declarative, faintly paternal-authoritative -- a man who has never needed to perform command to get it. His 'Founder's Claim' trait (declarations carry unusual spiritual weight) argues for a voice that lands by flat certainty, not volume or ornament.",
+  "engine": "standard",
+  "exaggeration": 0.65,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.6,
+    "grit": 0.35,
+    "breath": 0.15,
+    "pace": 0.95
+  },
+  "evidence": [
+    {"source": "scenes/niran_malformation.md:97-99", "quote": "Naiser stood there. At about fifty, and not at the end, in the grey working coat with the left cuff worn through, with the reading-lenses pushed up into his hair... Broad through the chest and going soft at the middle. The heavy jaw."},
+    {"source": "scenes/niran_malformation.md:93", "quote": "\"You want control.\""},
+    {"source": "scenes/niran_malformation.md:107", "quote": "\"You want control,\" Naiser said again, with his eyes on the other one. \"...It is not a gift and it is not yours and it is not even the interesting problem in this room.\""},
+    {"source": "scenes/niran_malformation.md:109-111", "quote": "He raised his voice and it went out flat across a place with no walls to carry it. \"REVEAL YOURSELF.\""},
+    {"source": "scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md:5", "quote": "Say it plainly, the truth undressed of ornament, because ornament was where cowards hid the shape of what they meant."},
+    {"source": "scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md:7", "quote": "Some old habit of a Cymorath trained too young refused to stop measuring even now... logging the interval between drops as it had once logged the interval between breaths and bowstrings."},
+    {"source": "scenes/Niran_Awakening_Haruki_Reunion.md:7", "quote": "He looked the way Naiser had looked at this age, the same black hair, the same set through the jaw."},
+    {"source": "Volume I — Character Cards/Naiser Yukari.md, Identity and Core Profile", "quote": "He is elegant without softness, regal without vanity, and cold without emptiness. He does not radiate hunger. He radiates conclusion."},
+    {"source": "Volume I — Character Cards/Naiser Yukari.md, Appearance and presence", "quote": "His presence does not crash into a room. It settles over it."},
+    {"source": "build/book_tools.py voice_fingerprints", "quote": "Naiser Yukari does not appear in the fingerprint table -- only 2 attributed lines exist in the archive, below the 8-line inclusion threshold. No numeric mean-words/contraction data available; casting rests on the 2 lines plus narration and the wiki card."}
+  ],
+  "reference_direction": "Male, medium-low pitch, no named-voice comparison. Texture is dry and flat rather than musical or aristocratic-smooth -- the prose is explicit that when he raises his voice it 'went out flat,' i.e. command by plainness and weight-of-word (his 'Founder's Claim' trait literally makes his declarations land harder), not by resonance or theatrical volume. Pace measured and economical, holding still through long dry sentences and then landing short blunt ones ('You want control.'). A little age-gravel, a little chest weight from the broad-and-softening fifty-year-old build, minimal breathiness -- this is a disciplined, controlled speaker (bowstring- and breath-drilled) who stays composed even while bleeding out. Think of the low, plain, unhurried voice of a veteran officer or foreman-patriarch who has spent decades not needing to raise it -- and the one time in the archive he does, it still comes out flat rather than booming.",
+  "one_line": "A dry, unshowy patriarch: broad-chested, heavy-jawed, fifty and going soft at the middle, whose one archive outburst still comes out flat rather than musical -- command by plain weight-of-word, not performance."
+}

@@ -1,0 +1,53 @@
+{
+  "name": "Lorn Stark",
+  "speaks_in_archive": true,
+  "lines_read": 1,
+  "gender": "male",
+  "age": "44 — grey at the temples only, brown elsewhere; reads as solid mid-40s, not old",
+  "body": "broad, heavy Stark frame built bigger and heavier than his sister Fern's; a soldier's build that is durable and competent rather than impressive — never a gifted swordsman, but trained every day for years, so the frame reads as sturdy labor rather than athletic flash",
+  "pitch": "medium-low",
+  "texture": [
+    "plain",
+    "weathered",
+    "flat-affect",
+    "unhurried",
+    "controlled",
+    "faint gravel from age and outdoor soldiering, not a growl"
+  ],
+  "pace": "measured",
+  "energy": "low-key, steady, never raised; the authority sits in the flatness, not in volume",
+  "register": "plain-spoken military direct address — no flourish, no filler, no wasted syllables; reports and gives instructions rather than persuades; goes silent or physical (a handclasp, not a speech) at the one moment emotion actually threatens the flatness",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.45,
+    "grit": 0.3,
+    "breath": 0.15,
+    "pace": 0.96
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Lorn Stark — The Sword-Teacher.md, section 'Voice'",
+      "quote": "Stark-direct. No wasted syllables, no wasted steps. He speaks the way he fights: competently, without flair, each word placed where the word serves the sentence's purpose and nowhere else. He does not raise his voice. He does not need to."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Lorn Stark — The Sword-Teacher.md, section 'Physical Description'",
+      "quote": "His body is the body of a man who was never exceptional with a blade and who trained every day regardless, producing a frame that is competent and durable rather than impressive"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Lorn Stark — The Sword-Teacher.md, section 'Physical Description'",
+      "quote": "Forty-four and showing the specific accelerated grey that the last eleven years produced. Hair grey at the temples, brown elsewhere, cut in the northern military style."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:173",
+      "quote": "\"That is the third one of those,\" Lorn said. \"And they do not agree.\""
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:229",
+      "quote": "Lorn found that the thing he wanted to say would not come out in any arrangement that was not embarrassing, so he put his hand out instead"
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch, sitting a couple of semitones below neutral without going into deep-bass territory. Texture is plain and lightly weathered — a little dry gravel from age and years outdoors, not the raspy growl register (that belongs to Darius/Gimbzo, and Lorn is a different kind of man). Measured, unhurried pace with short, flat, declarative sentences and no rhetorical lift at the ends of lines — he reports and instructs, he doesn't perform. Minimal breathiness; the control is the point. No regional caricature — think a plain northern-frontier soldier's cadence, the voice of a career non-commissioned officer giving a status report, not a general rallying troops. One comparison: the flat, competent voice of a long-serving drill instructor who has never needed to shout to be obeyed.",
+  "one_line": "A plain, medium-low, lightly weathered soldier's voice — flat, unhurried, and short-sentenced, with the emotion pushed down into a handclasp instead of a raised voice; archive gives him exactly one line, so the card's own 'Voice' section (Stark-direct, no wasted syllables, never needs to raise it) is doing most of the casting work here."
+}

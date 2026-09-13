@@ -1,0 +1,93 @@
+{
+  "name": "Mira Yukari",
+  "speaks_in_archive": true,
+  "lines_read": 11,
+  "gender": "female",
+  "age": "No number given anywhere in the record. Placed in Niran's own generation by the prose: at 'Return to the Enclave' he is 24 and they are 'eleven years' into a shared partnership (scenes/Niran_Mira_Return_to_the_Enclave.md:9); 'Awakening' happens roughly seven years further on, after 'height and a settled kind of strength' had grown into her that wasn't there before (scenes/Niran_Mira_Awakening.md:9) — putting her in the early-to-mid thirties band alongside him. The Niran Yukari card gives a different, unreconciled figure — 'five years of shared building' (wiki/Volume I — Character Cards/Niran Yukari.md:105) — a discrepancy the record does not resolve; cast from the scene text's physical description rather than either number.",
+  "body": "No dedicated wiki card exists for her — book_tools.py character returns no match for either 'Mira' or 'Mira Yukari' — so build comes only from scene prose: adult, grown taller and physically sturdier across the timeskip ('height and a settled kind of strength into her that hadn't been there the last time he'd seen her', scenes/Niran_Mira_Awakening.md:9), not slight or delicate. Braid worn over one shoulder; near-black eyes with a violet-black corona from a developing Ketsumyōgan, an inner-world eye that reads 'Thread-density rather than physical light'; a plain working wardrobe (an unnoticed charcoal smudge on her cheek) consistent with hands-on ward and substrate labor rather than a courtly role.",
+  "pitch": "medium-low",
+  "texture": [
+    "clear and steady rather than airy or thin — repeatedly 'direct, unguarded' even while grieving",
+    "a controlled catch or crack right at the edge of a line under real emotional weight, then she pushes through and keeps talking rather than dissolving ('Her voice caught and she pushed through it anyway')",
+    "no rasp or roughness described anywhere in the record",
+    "one register shift toward fierce intensity when asserting something held onto for years ('She said it fast, almost fierce')",
+    "one register shift toward deliberate gentleness, rationed and rare ('the first real gentleness she'd allowed herself')"
+  ],
+  "pace": "measured",
+  "energy": "contained and steady under pressure — she delivers three pieces of devastating news back to back without letting the delivery fray, holding fierceness, grief and gentleness underneath a controlled surface rather than venting any of them outward; even her one flash of near-accusation is delivered 'quiet enough that it wasn't quite an accusation'",
+  "register": "plainspoken and direct, technically fluent (ward-layers, substrate flow, Thread-field) without ornament; chooses to deliver hard truths cleanly rather than soften them, and sequences what she says by what the listener can bear to hear first rather than by what is easiest to say",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.4,
+    "grit": 0.1,
+    "breath": 0.3,
+    "pace": 0.95
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Niran Yukari.md:105",
+      "quote": "Mira Yukari · Familial-Witness — five years of shared building. Saw him read Senri's tablet and understood before he finished."
+    },
+    {
+      "source": "build/book_tools.py character \"Mira Yukari\"",
+      "quote": "no card for 'Mira Yukari' in the wiki mirror; check Notion before writing anything numeric about them"
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:9",
+      "quote": "Seven years had put height and a settled kind of strength into her that hadn't been there the last time he'd seen her"
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:21",
+      "quote": "\"You're in a hidden room underneath the Vaeloris village.\" Her voice caught and she pushed through it anyway, the same direct, unguarded cadence he remembered, grief not softening the precision so much as running underneath it now."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:27",
+      "quote": "\"I never stopped.\" She said it fast, almost fierce, both hands tightening around his."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:31",
+      "quote": "\"There's more,\" Mira said, and her voice changed register, the fierceness folding down into something steadier, more deliberate, the tone of someone choosing to deliver a wound cleanly rather than let it fester unspoken."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:39",
+      "quote": "\"Dhaerin Valorin is dead.\" She said it without softening it, the way she'd always said the things that mattered, direct because dressing it in gentler language would only have made the truth harder to trust once it finally landed."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:49",
+      "quote": "\"They know.\" Mira's voice softened at that, the first real gentleness she'd allowed herself since the news had started."
+    },
+    {
+      "source": "scenes/Niran_Mira_Awakening.md:53",
+      "quote": "\"Niran.\" Mira's hand found his shoulder, not pulling him back, just steadying. \"You collapsed a Titan's borrowed authority field on your first hour back in a body. You are not walking out of this room today.\""
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:19",
+      "quote": "\"The outer ring held,\" Mira said. She had stopped walking two paces behind him, her near-black eyes with their violet-black corona sweeping the gate structure with the developing Ketsumyōgan's particular focus, the way her eyes moved when they were reading Thread-density rather than physical light."
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:37",
+      "quote": "Mira's hand found his forearm. She did not squeeze. She rested her fingers against the thread-marks tracing his skin, the contact light enough that it carried no demand, only the specific warmth of a person who had been standing beside him for eleven years"
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:87",
+      "quote": "\"I'll start on the western channel survey,\" she said. \"The substrate flow should be readable from the second terrace if the wards haven't shifted the resonance too far from baseline.\""
+    },
+    {
+      "source": "scenes/Niran_Mira_Return_to_the_Enclave.md:91",
+      "quote": "Thirty days of walking and the first thing he does is start repairing. Not grieving. Repairing... He's probably right. I hate that he's probably right."
+    },
+    {
+      "source": "scenes/Shichi_Karasu_Mission_Awakening.md:29-31",
+      "quote": "Mira had not let go of Niran's other hand through any of it... \"You're sending them without you,\" she said, quiet enough that it wasn't quite an accusation."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "12 characters with eight or more attributed lines (heuristic attribution; treat as measurement, not verdict). — Mira does not clear the eight-line threshold and has no row in the table; no numeric fingerprint exists for her."
+    }
+  ],
+  "reference_direction": "Adult woman, no fixed number given but read as being in Niran's own generation — grown into 'height and a settled kind of strength' by the point she reappears, not girlish or slight. Pitch sits medium-low, a grounded chest register rather than a bright head voice. Texture is clear and steady with the rasp dialed near zero — the record never describes roughness in her, only a controlled catch or crack right at the edge of a line when grief pushes through, which she pushes past rather than surrendering to. Pace is unhurried and deliberate, geared to a woman who has decided, before she opens her mouth, exactly how and in what order to say something hard. No accent markers in the prose. Comparable to a calm senior field medic or search-and-rescue lead relaying a hard diagnosis to family — warm and clearly caring underneath, but disciplined enough on the surface that the person hearing it can actually take the information in.",
+  "accent_hint": "None marked in the prose — unaccented Common/court register, consistent with the rest of the Yukari-enclave cast.",
+  "one_line": "A grounded, plainspoken alto who delivers devastating news in a level voice, letting grief surface only as a controlled catch at the edges before she keeps going."
+}

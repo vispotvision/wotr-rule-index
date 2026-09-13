@@ -37,8 +37,9 @@ from the file's _pool list. A tag can carry delivery for that one span, after a
 colon: [Verinus: slow] [Aurelian: quiet, beat] — slow / slower / fast / faster
 (pace), quiet / loud / whisper (level), beat / long beat (a pause before the
 line). A cue inside a line — [sigh] [laugh] [chuckle] [gasp] [cough] [clear
-throat] [sniff] [groan] — is performed by a Chatterbox Turbo speaker
-(build/chatterbox_backend.py) and silently dropped for a Kokoro one. The
+throat] [sniff] [groan] [breath] — is performed by a Chatterbox Turbo speaker
+(build/chatterbox_backend.py), the first three by a Supertonic speaker
+(build/supertonic_backend.py), and silently dropped for a Kokoro one. The
 tagged text minus its tags must match the scene exactly (--check-cast says
 where it does not), so a cast file can never drop or add words. --no-cast
 ignores it.
@@ -147,7 +148,7 @@ DELIVERY = {
 
 # Cues a Chatterbox Turbo speaker performs when they sit inside the line ([sigh] "No."); they
 # never change the speaker. A Kokoro speaker cannot perform them, so they are dropped there.
-CUES = {"laugh", "chuckle", "sigh", "gasp", "cough", "clear throat", "sniff", "groan", "shush"}
+CUES = {"laugh", "chuckle", "sigh", "gasp", "cough", "clear throat", "sniff", "groan", "shush", "breath"}
 CUE_RE = re.compile(r"\s*\[(" + "|".join(re.escape(c) for c in sorted(CUES, key=len, reverse=True)) + r")\]\s*", re.I)
 
 
@@ -350,9 +351,14 @@ class Speaker:
     """How one speaker is rendered: which engine (and Chatterbox model), which voice, and their habitual pace and level."""
 
     def __init__(self, name: str, engine: str, style, speed: float = 1.0, gain: float = 1.0, ref: str = "",
-                 exaggeration: float = 0.5, cfg: float = 0.5, model: str = "turbo", pack: str = "v1.0"):
+                 exaggeration: float = 0.5, cfg: float = 0.5, model: str = "turbo", pack: str = "v1.0", steps: int = 8):
         self.name, self.engine, self.style, self.pack = name, engine, style, pack
         self.speed, self.gain, self.ref, self.exaggeration, self.cfg, self.model = speed, gain, ref, exaggeration, cfg, model
+        self.steps = steps      # Supertonic only: flow-matching steps, 5 rough … 12 best
+        # Qwen only (build/qwen_backend.py): the brief, the approved take, tries per batch, and the exact shaping knobs
+        self.instruct, self.anchor, self.tries, self.good_enough, self.batch = "", "", 1, 0.6, 8
+        self.pitch_st, self.formant, self.range_factor, self.seed = 0.0, 1.0, 1.0, None
+        self.temperature = self.top_k = self.top_p = self.repetition_penalty = self.subtalker_temperature = None
 
 
 class Cast:
@@ -380,6 +386,25 @@ class Cast:
             return Speaker(name, "chatterbox", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)),
                            str(entry.get("ref", "")), float(entry.get("exaggeration", 0.5)), float(entry.get("cfg", 0.5)),
                            str(entry.get("model", "turbo")).lower())
+        if eng == "supertonic":
+            # voice: one of the ten presets (M1–M5, F1–F5); style: a voice-style JSON instead (build/supertonic_backend.py)
+            return Speaker(name, "supertonic", str(entry.get("voice", "M1")).upper(), float(entry.get("speed", 1.0)),
+                           float(entry.get("gain", 1.0)), str(entry.get("style", "")), steps=int(entry.get("steps", 8)))
+        if eng == "qwen":
+            sp = Speaker(name, "qwen", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)))
+            sp.instruct = str(entry.get("instruct", "")).strip()
+            if not sp.instruct or entry.get("instruct_from") == "casting":
+                sp.instruct = casting_instruct(name) or sp.instruct
+            if not sp.instruct:
+                sys.exit(f"{name}: engine qwen needs an `instruct` (the voice brief) or a qwen_instruct in build/casting/{name}.json")
+            sp.anchor = str(entry.get("anchor", ""))
+            sp.tries, sp.good_enough, sp.batch = int(entry.get("tries", 3 if sp.anchor else 1)), float(entry.get("good_enough", 0.6)), int(entry.get("batch", 8))
+            sp.pitch_st, sp.formant, sp.range_factor = float(entry.get("pitch_st", 0.0)), float(entry.get("formant", 1.0)), float(entry.get("range_factor", 1.0))
+            sp.seed = entry.get("seed")
+            for k in ("temperature", "top_k", "top_p", "repetition_penalty", "subtalker_temperature"):
+                if k in entry:
+                    setattr(sp, k, entry[k])
+            return sp
         style, pack = voice_style(self.engine, str(entry.get("voice", "af_heart")), self.presets)
         return Speaker(name, "kokoro", style, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)), pack=pack)
 
@@ -395,28 +420,62 @@ class Cast:
         return self.speakers[who]
 
 
+def casting_instruct(name: str) -> str:
+    """The Qwen brief recorded on the character's casting sheet, build/casting/<Name>.json (qwen_instruct)."""
+    p = ROOT / "build" / "casting" / (re.sub(r"[^A-Za-z0-9]+", "_", name).strip("_") + ".json")
+    if not p.exists():
+        return ""
+    try:
+        return str(json.loads(p.read_text(encoding="utf-8")).get("qwen_instruct", "")).strip()
+    except (OSError, ValueError):
+        return ""
+
+
+def shape_span(sp: Speaker, samples: np.ndarray, speed: float) -> np.ndarray:
+    """Exact pace / pitch / body for engines without a knob (Qwen): build/voice_shape.py."""
+    if sp.engine != "qwen":
+        return samples
+    import voice_shape
+    return voice_shape.shape(samples, SAMPLE_RATE, speed=speed, pitch_st=sp.pitch_st, formant=sp.formant, range_factor=sp.range_factor)
+
+
 CHECK = {"on": True, "threshold": 0.25, "retakes": 0, "worst": []}   # read-back check for generative spans
 
 
-def render_span(cast: Cast, sp: Speaker, text: str, speed: float) -> np.ndarray:
-    if sp.engine == "chatterbox":
-        from chatterbox_backend import synth as cb_synth   # build/chatterbox_backend.py
-        if sp.model != "turbo":
-            text = strip_cues(text)
-        samples = cb_synth(cast, sp, text, speed)
-        if CHECK["on"]:
-            import audio_check
-            score, heard = audio_check.wer(text, samples)
-            if score > CHECK["threshold"]:
-                # a second take; Chatterbox samples, so it differs — keep whichever reads back better
-                again = cb_synth(cast, sp, text, speed)
-                score2, heard2 = audio_check.wer(text, again)
-                CHECK["retakes"] += 1
-                if score2 < score:
-                    samples, score, heard = again, score2, heard2
-            if score > CHECK["threshold"]:
-                CHECK["worst"].append((score, sp.name, text[:90], heard[:90]))
+def read_back(sp: Speaker, text: str, samples: np.ndarray, retake) -> np.ndarray:
+    """The read-back check on a generative take: transcribe, and if too many words are wrong,
+    take it again with `retake()` and keep whichever reads back better."""
+    if not CHECK["on"]:
         return samples
+    import audio_check
+    score, heard = audio_check.wer(text, samples)
+    if score > CHECK["threshold"]:
+        again = retake()
+        score2, heard2 = audio_check.wer(text, again)
+        CHECK["retakes"] += 1
+        if score2 < score:
+            samples, score, heard = again, score2, heard2
+    if score > CHECK["threshold"]:
+        CHECK["worst"].append((score, sp.name, text[:90], heard[:90]))
+    return samples
+
+
+def render_span(cast: Cast, sp: Speaker, text: str, speed: float, mods: list[str] | None = None) -> np.ndarray:
+    if sp.engine == "qwen":
+        from qwen_backend import synth as qwen_synth   # build/qwen_backend.py
+        samples = qwen_synth(cast, sp, text, speed, mods)
+        samples = read_back(sp, strip_cues(text), samples, lambda: qwen_synth(cast, sp, text, speed, mods))
+        return shape_span(sp, samples, speed)
+    if sp.engine in ("chatterbox", "supertonic"):
+        if sp.engine == "chatterbox":
+            from chatterbox_backend import synth as gen_synth   # build/chatterbox_backend.py
+            if sp.model != "turbo":
+                text = strip_cues(text)
+        else:
+            from supertonic_backend import synth as gen_synth   # build/supertonic_backend.py
+        samples = gen_synth(cast, sp, text, speed)
+        # both engines sample, so a second take differs — keep whichever reads back better
+        return read_back(sp, text, samples, lambda: gen_synth(cast, sp, text, speed))
     samples, sr = cast.engine.get(sp.pack).create(strip_cues(text), voice=sp.style, speed=speed, lang="en-us")
     assert sr == SAMPLE_RATE, sr
     return samples.astype(np.float32)
@@ -428,7 +487,8 @@ def synth_scene(engine, cast: Cast, blocks, speed: float, lexicon, script=None) 
     out = []
     if script is None:
         script = [(kind, [("narrator", text, [])]) for kind, text in blocks]
-    for kind, spans in script:
+    pre = qwen_prepass(cast, script, speed, lexicon)
+    for bi, (kind, spans) in enumerate(script):
         if kind == "divider":
             out.append(silence(DIVIDER_PAUSE))
             continue
@@ -440,12 +500,52 @@ def synth_scene(engine, cast: Cast, blocks, speed: float, lexicon, script=None) 
                 sp_speed, gain, pause = sp_speed * f_speed, gain * f_gain, max(pause, p)
             if i or pause:
                 out.append(silence(max(SPAN_PAUSE if i else 0.0, pause)))
-            samples = render_span(cast, sp, respell(text, lexicon), sp_speed)
+            samples = pre.get((bi, i))
+            if samples is None:
+                samples = render_span(cast, sp, respell(text, lexicon), sp_speed, mods)
             if gain != 1.0:
                 samples = np.clip(samples * gain, -1.0, 1.0)
             out.append(samples)
         out.append(silence(TITLE_PAUSE if kind == "title" else PARA_PAUSE))
     return np.concatenate(out) if out else silence(0.1)
+
+
+def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
+    """Qwen draws a new voice per call but keeps one voice within a call, so every Qwen speaker's
+    spans are rendered up front in batches (grouped by delivery, so the brief is identical within
+    a batch) and handed back to synth_scene by (block, span) index. Each span still gets the
+    read-back check and the exact shaping afterwards."""
+    groups: dict[tuple, list] = {}
+    for bi, (kind, spans) in enumerate(script):
+        if kind == "divider":
+            continue
+        for i, (who, text, mods) in enumerate(spans):
+            sp = cast.speaker(who)
+            if sp.engine != "qwen":
+                continue
+            groups.setdefault((who, tuple(sorted(mods))), []).append((bi, i, respell(text, lexicon), list(mods)))
+    if not groups:
+        return {}
+    import qwen_backend as Q
+    done = {}
+    for (who, _), items in groups.items():
+        sp = cast.speaker(who)
+        # spans sharing brief + direction go to the worker together (one call, many lines, each drawn best-of-N)
+        by_instruct: dict[str, list] = {}
+        for bi, i, text, m in items:
+            instruct, clean, exempt = Q.instruct_for(sp, m, text)
+            by_instruct.setdefault(instruct, []).append((bi, i, text, m, clean, exempt))
+        for instruct, rows in by_instruct.items():
+            for start in range(0, len(rows), max(1, sp.batch)):
+                chunk = rows[start:start + max(1, sp.batch)]
+                takes = Q.synth_lines(sp, [r[4] for r in chunk], instruct, [r[5] for r in chunk])
+                for (bi, i, text, m, clean, _), x in zip(chunk, takes):
+                    sp_speed = speed * sp.speed
+                    for w in m:
+                        sp_speed *= DELIVERY[w][0]
+                    x = read_back(sp, clean, x, lambda t=text, m=m: Q.synth(cast, sp, t, speed, m))
+                    done[(bi, i)] = shape_span(sp, x, sp_speed)
+    return done
 
 
 def write_audio(samples: np.ndarray, path: Path, mp3: bool) -> Path:
@@ -510,6 +610,7 @@ def main() -> int:
     ap.add_argument("--check-cast", action="store_true", help="validate the cast files of the selected scenes and list their speakers")
     ap.add_argument("--no-cast", action="store_true", help="ignore cast files; one narrator voice")
     ap.add_argument("--no-check", action="store_true", help="skip the read-back check on Chatterbox spans (build/audio_check.py)")
+    ap.add_argument("--first", type=int, default=0, metavar="N", help="render only the first N paragraphs of each scene (an audition cut; output named *-first<N>)")
     ap.add_argument("--fetch-model", action="store_true")
     ap.add_argument("--pack", default="v1.0", choices=list(PACKS), help="with --fetch-model: which Kokoro pack (zh = v1.1-zh, 103 more voices)")
     ap.add_argument("--list-voices", action="store_true")
@@ -604,6 +705,10 @@ def main() -> int:
         blocks = scene_blocks(md)
         script = None if a.no_cast else load_cast(p, blocks)
         key = f"{ai:02d}-{si:02d} {D.safe_name(scene_title(p, md))}"
+        if a.first:
+            blocks = blocks[:a.first]
+            script = script[:a.first] if script else None
+            key += f"-first{a.first}"
         voices_hash = hashlib.sha256(json.dumps(load_voices_yaml(), sort_keys=True, default=str).encode()).hexdigest()[:8]
         h = hashlib.sha256((json.dumps(blocks) + json.dumps(script) + a.voice + str(a.speed) + lex_hash + voices_hash).encode("utf-8")).hexdigest()[:16]
         target = folder / key
@@ -632,6 +737,12 @@ def main() -> int:
         print(f"read-back check: {CHECK['retakes']} span(s) re-taken; {len(CHECK['worst'])} still above {CHECK['threshold']:.0%} word error:")
         for score, who, text, heard in sorted(CHECK["worst"], reverse=True)[:8]:
             print(f"  {score:.0%} {who}: {text!r} -> heard {heard!r}")
+    if "qwen_backend" in sys.modules:
+        R = sys.modules["qwen_backend"].REPORT
+        if R["lines"]:
+            print(f"qwen: {R['lines']} line(s), {R['draws']} draws; {len(R['low'])} below 0.40 similarity to the anchor" + (":" if R["low"] else ""))
+            for c, who, text in sorted(R["low"])[:8]:
+                print(f"  {c:.2f} {who}: {text!r}")
     print(f"audio: {written} written, {skipped} unchanged -> {out}")
     return 0
 

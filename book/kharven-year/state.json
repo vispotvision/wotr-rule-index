@@ -1,0 +1,161 @@
+{
+  "facts": [],
+  "hooks": [
+    {
+      "hook_id": "H01-yoko-lines",
+      "text": "Yoko's four lines about the signing night exist in her own record and the Bench has never been permitted to see them. The Bench's clerk asks and is refused; by the anniversary the king asks and is refused the same way, and does not press.",
+      "keywords": [
+        "four lines",
+        "Yoko",
+        "refused",
+        "Bench"
+      ],
+      "planted_ch": 1,
+      "due_ch": 12,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H02-copy-road",
+      "text": "Sodoku sends Tabitha Hallenfeld south with the fair copy of the instrument for Vaultmere, knowing the four factors sit there. The copy goes into the salt and the road gives her the first order's date.",
+      "keywords": [
+        "Vaultmere",
+        "copy",
+        "first week",
+        "factor"
+      ],
+      "planted_ch": 1,
+      "due_ch": 6,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H03-miku-chair",
+      "text": "Miku Tenrai Moto, fourteen, holds a chair at the table by right of a forfeiture and watches the king's hands. The first test of the refugee clause comes from that chair, not from outside: he asks for the three hundred by name.",
+      "keywords": [
+        "Miku",
+        "clause",
+        "three hundred",
+        "by name"
+      ],
+      "planted_ch": 1,
+      "due_ch": 5,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H04-price-of-standing",
+      "text": "Brida names what a man who has not slept a full night in a year is spending and says it comes due in the Thin Weeks. Bram would not sit at the signing. At the anniversary Bram sits in the hall and Sodoku sits on the ground by the smallest stone.",
+      "keywords": [
+        "sat down",
+        "Brida",
+        "full night"
+      ],
+      "planted_ch": 1,
+      "due_ch": 12,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H05-robin-pouch",
+      "text": "The first factor's book describes the courier who placed the first-week order, and the description is Robin Ice. Robin carried a sealed pouch back from the Alabaster Court and put it in the king's hand; the king read it and sent for Lambert. Asked, the king says: Because I told him to.",
+      "keywords": [
+        "pouch",
+        "Robin",
+        "told him to",
+        "first week"
+      ],
+      "planted_ch": 2,
+      "due_ch": 8,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H06-the-board",
+      "text": "The Keth-Gorrum's board: a new compound nobody in the Seat can decompose, with a count of four hundred and seven cut beside it, hung uncut on the pillar beside the instrument. The second board says the word has bearers and a seat, and the seat asks for the name under the seal.",
+      "keywords": [
+        "board",
+        "four hundred and seven",
+        "seat",
+        "name"
+      ],
+      "planted_ch": 3,
+      "due_ch": 7,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H07-the-token",
+      "text": "The brass token from the dead courier's satchel, three left-leaning strokes and a circle, rides inside Renard's gambeson unread. Borin says it was struck by a Stannvaard punch and will not say which guild's. Sodoku sends it to the Dawi commission with the last border report.",
+      "keywords": [
+        "token",
+        "punch",
+        "Stannvaard",
+        "border reports"
+      ],
+      "planted_ch": 3,
+      "due_ch": 9,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H08-ask-him",
+      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard sees a man with the Greymane smile laying out the dead and says nothing.",
+      "keywords": [
+        "Wren",
+        "Coldbeck",
+        "smile",
+        "said nothing"
+      ],
+      "planted_ch": 4,
+      "due_ch": 11,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H09-the-recount",
+      "text": "The entry attrition on the road is struck and the three hundred are recounted by name, beginning with the Seat's own column. When Lambert reads them, forty carry the names of Kharven riders and the forty go to the Bench under the instrument, not to the crown.",
+      "keywords": [
+        "three hundred",
+        "riders",
+        "Bench",
+        "attrition"
+      ],
+      "planted_ch": 5,
+      "due_ch": 10,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H10-borin-price",
+      "text": "Eleven days of Borin Ironheart's forge-work on the crossing stand unpriced in Lambert's accounts, and Sodoku says it is paid before the Thin Weeks. Borin's price is Kurosetsu on his anvil for one night, so he can hear what it remembered on the road.",
+      "keywords": [
+        "eleven days",
+        "Borin",
+        "Kurosetsu",
+        "anvil"
+      ],
+      "planted_ch": 5,
+      "due_ch": 9,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H11-salt-seal",
+      "text": "Nalūn asks, through the Chainwarden of the Vaultlands and then through its factor at the table, whether Kharven will seal the instrument in salt at Deepvein so it enforces itself. Sodoku refuses: a promise that needs a mountain to hold it is not a promise.",
+      "keywords": [
+        "salt",
+        "seal",
+        "Nalūn",
+        "promise"
+      ],
+      "planted_ch": 6,
+      "due_ch": 12,
+      "status": "planned"
+    },
+    {
+      "hook_id": "H12-two-names",
+      "text": "Lambert's name and then the king's are cut into the board as the names under the seal on the hostages' instrument. The Expanse answers by sending Vresk Dokkan back as the word's speaker, asking for the Shieldwarden by name, and Bram comes down and sits in front of him.",
+      "keywords": [
+        "Vresk",
+        "speaker",
+        "Shieldwarden",
+        "sits"
+      ],
+      "planted_ch": 7,
+      "due_ch": 12,
+      "status": "planned"
+    }
+  ],
+  "summaries": []
+}

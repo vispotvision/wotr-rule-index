@@ -26,8 +26,9 @@ reference clip (`ref: build/voices/<name>.wav`, 6–15 s of clean speech; with n
       cfg: 0.35
 
 Reference clips: your own recordings, a voice you designed, or a consenting
-actor. A clip of a real person you did not get permission from is personal-use
-only — never for the Drive audiobook or a shared link (Isaac's rule).
+actor. A clip of a real person you did not get permission from is for personal
+audiobooks and stories only — never published, never on a shared link or the
+wiki (Isaac's rule).
 
 The model runs in its own interpreter, build/.venv-chatterbox (its pinned
 PyTorch stack stays out of the MCP server's), through build/chatterbox_worker.py.

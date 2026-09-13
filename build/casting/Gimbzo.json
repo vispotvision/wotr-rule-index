@@ -1,0 +1,75 @@
+{
+  "name": "Gimbzo",
+  "speaks_in_archive": true,
+  "lines_read": 30,
+  "gender": "male",
+  "age": "Ancient beyond count — First-Eon generation, a contemporary of Bara, predating the languages later peoples used to name his own techniques ('I was here before the mouth that made them'). Reads as a weathered elder in bearing and diction, not a young man, but with no decay in him: his cultivation was frozen at Zenith, so age shows as wear and patience, never frailty.",
+  "body": "8 feet and up in effect (card lists 7'4\", but the prose revises a witness's estimate upward to 'past eight feet' once he stands). Barrel torso, slab pectorals, forearms thick as cooper's mallets, neck wider than his own jaw, deep umber-bronze sun-leathered skin, bare-chested above a wrapped hakama, twin great-axes with blades broad as church doors.",
+  "pitch": "very low",
+  "texture": [
+    "low chest/torso resonance — a body that size has to move air from somewhere deep",
+    "dry, weathered rasp: sun-leathered skin and an 'old lion's mane' beard, not a wet or screamed rasp",
+    "level and unhurried under almost all conditions — the text says outright he speaks 'without heat,' which is what makes the flat delivery land harder than shouting would",
+    "one percussive register break: the bark-laugh 'HOO,' described as going through gate-posts and coming back off a tree trunk — short, huge, then gone",
+    "a second, rarer register break under real threat, where the narration says his voice 'had gone somewhere it had not been' — colder and harder, still not loud"
+  ],
+  "pace": "slow",
+  "energy": "Low and settled at rest, matching a character whose whole magic is described as falling rather than flaring and recovering 'in long breaths, not heartbeats.' He delivers even brutal content at the same unhurried level; pressure shows as stillness and a longer pause, not volume. Escalation is rare and small in absolute terms, but reads as huge because the baseline is so flat.",
+  "register": "Blunt, plainspoken, craftsman/foreman diction — masonry and labor metaphors (arches, keystones, load paths, 'a working number'), not scripture or high fantasy declamation despite his mythic age. Voice-fingerprint data backs this: long, unbroken declarative sentences (mean 38.8 words, almost never clipped short) delivered with heavy contraction (0.79, highest in the cast — 'that's,' 'don't,' 'it's,' 'you'll') and almost no questions (0.03) — he states things, he doesn't probe. Occasional archaic 'Aye' is the only period-flavor tic; otherwise it's the cadence of a foreman assigning a work order.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -6,
+    "weight": 0.8,
+    "grit": 0.4,
+    "breath": 0.1,
+    "pace": 0.88
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Gimbzo.md:108",
+      "quote": "7'4\". Barrel-torso, slab-pectoraled, forearms thick as cooper's mallets, neck wider than his own jaw."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Gimbzo.md:108",
+      "quote": "a frosted beard climbing into stiff lifted points like an old lion's mane"
+    },
+    {
+      "source": "scenes/seven_labors.md:7",
+      "quote": "Darius revised, and revised again, and stopped revising at somewhere past eight feet because there was no further use in the number."
+    },
+    {
+      "source": "scenes/seven_labors.md:69",
+      "quote": "He said it without heat. He said almost everything without heat, which made the flat delivery worse than shouting."
+    },
+    {
+      "source": "scenes/seven_labors.md:21",
+      "quote": "\"HOO.\" The laugh went through the uprights and came back off the trunk."
+    },
+    {
+      "source": "scenes/balance_lesson.md:111",
+      "quote": "\"Out.\" Gimbzo's voice had gone somewhere it had not been."
+    },
+    {
+      "source": "scenes/22_darius_punta.md:73",
+      "quote": "It arrived out of the fourth month in the ash, in Gimbzo's flat voice, on a day Darius had spent face down in the grey with two cracked ribs and no idea what he had done wrong."
+    },
+    {
+      "source": "scenes/seven_labors.md:127",
+      "quote": "He said the numbers the way a mason says numbers."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Gimbzo.md:88",
+      "quote": "Because his Aether falls rather than flows, recovery between Works is measured in long breaths, not heartbeats."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Gimbzo | 34 lines | mean words 38.8 ±22.1 | short share 0.03 | questions 0.03 | contractions 0.79 | first person 0.41 | imperatives 0.06 | favourite words: that's, don't, whole, it's, because, you'll"
+    }
+  ],
+  "reference_direction": "Male, and as low as the range allows — pitched from the chest/torso rather than the throat, the way a very large man's voice has nowhere else to come from. Texture is dry and weathered, not wet or screamed: think sun-cracked leather, old timber, or a worn quarry stone — a low creak and rasp that's present at rest, not a growl reached for on cue. Pace is slow and unhurried, with real weight given to pauses ('the waiting had the quality of ground'), but the sentences themselves run long and unbroken rather than clipped or halting. Accent flavour should be plain and unaffected — rural or working-class Northern-English-adjacent, foreman or stonemason, never posh, never archaic-fantasy declamation, despite him predating recorded language. One comparison: an old quarry foreman near the end of a forty-year career, explaining in complete, unhurried sentences exactly why the wall a younger man just built is going to fall down — said at conversational volume because he has never once needed to raise it to be obeyed, with one big percussive bark of a laugh held in reserve and a rarer, colder register that comes out only when someone is about to get hurt for real.",
+  "one_line": "An ancient, eight-foot anchor of a man who talks the way a mountain would if it bothered to: low, slow, dry-graveled, almost never raising the register even when the sentence is lethal, with one huge percussive bark of a laugh and one rare, colder gear held in reserve.",
+  "qwen_instruct": "An ancient, immense man. Very deep, dark, resonant bass, as low as a human voice goes, with a low chest rumble under the vowels; slow, heavy, every word weighted and unhurried; calm, imperious, quietly menacing, never loud, never hurried; dry and slightly rough with age. Plain, level English with no accent and no theatrics.",
+  "qwen_anchor": "build/voices/anchors/Gimbzo.wav",
+  "qwen_note": "Yhwach (Bleach TYBW dub) register, per Isaac 2026-09-12; approved take: gimbzo_yhwach batch 1"
+}

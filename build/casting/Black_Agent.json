@@ -1,0 +1,46 @@
+{
+  "name": "Black Agent",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male (director's call, not a sourced fact — no source anywhere in the wiki, Notion workspace, or scene archive states a gender for this character; see evidence)",
+  "age": "Not stated anywhere in the corpus. No wiki card exists for this name (build/mcp_server.py's character lookup: \"no card for 'Black Agent' in the wiki mirror\"), and a Notion workspace search turns up no character page either — only the unrelated 'The Black Concord' faction page and other, differently-named Black Concord operatives (Deimos, Kaito Akagiri, Hazzen Skollgrin). Cast as a seasoned adult: the discipline behind 'unhurried' and 'waits' (sources/WOTR_Companion_Guide_Amendments.md:67) reads as earned control, not youth or inexperience. Director's inference, not a sourced fact.",
+  "body": "Not stated anywhere in the corpus — no wiki card, no scene description, no build on record. The only physical clue is behavioral rather than descriptive: a blade-fighter who 'does not engage plate' and instead 'waits' (sources/WOTR_Companion_Guide_Amendments.md:67), which reads as a lighter, mobile duelist rather than a heavy or armoured frame. Inferred from fighting style, not stated as fact.",
+  "pitch": "medium-low",
+  "texture": ["dry", "controlled", "unhurried", "exact, each word set down like a placed footfall", "coiled patience rather than aggression", "no rasp or strain on record"],
+  "pace": "slow",
+  "energy": "Low and banked throughout, per the only two descriptions of him that exist anywhere in the project: the combat-assignment rule calls him 'Unhurried. Every word in exact position and every motion likewise' (sources/WOTR_Companion_Guide_Amendments.md:67, ratified live as R1-1-BLACK_AGENT_ASSIGNED), and the project's internal voice roster repeats the same word for his speech specifically: 'Black Agent: unhurried, each word in its exact position' (desktop/NATALIE.md:186). Both sources also describe him as someone who 'does not engage plate' and 'waits' rather than pressing an advantage. Voice the same way: no urgency, no wasted breath, pressure applied by stillness rather than volume or speed.",
+  "register": "Flat and procedural — a man who has finished composing the sentence before he starts saying it, the same economy the record gives his swordwork (Absetzen and Durchwechseln — displacement and redirection, never a committed cut; sources/WOTR_Companion_Guide_Amendments.md:67). No dialect or regional marker is assigned to him anywhere in the naming or racial-voice material consulted.",
+  "engine": "turbo",
+  "exaggeration": 0.4,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.35,
+    "grit": 0.15,
+    "breath": 0.1,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "sources/WOTR_Companion_Guide_Amendments.md:67 (\"Per-character assignments, first pass\" table)",
+      "quote": "Black Agent | Blade | Unhurried. Every word in exact position and every motion likewise. Absetzen and Durchwechseln rather than committed cuts. | Does not engage plate. Waits. | Pitch"
+    },
+    {
+      "source": "rules/pack-01-one.yaml, R1-1-BLACK_AGENT_ASSIGNED (status: live)",
+      "quote": "Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits."
+    },
+    {
+      "source": "desktop/NATALIE.md:186 (VOICE ROSTER)",
+      "quote": "Black Agent: unhurried, each word in its exact position."
+    },
+    {
+      "source": "build/mcp_server.py:294 (character-card lookup, run live as `python build/book_tools.py character \"Black Agent\"`)",
+      "quote": "no card for 'Black Agent' in the wiki mirror; check Notion before writing anything numeric about them"
+    },
+    {
+      "source": "scenes/CAST.md:65-66 vs. scenes/cast/02_verinus_testament_of_the_sixty_fifth.cast.md (full per-line speaker tags for one of the 5 scenes CAST.md attributes to Black Agent)",
+      "quote": "CAST.md lists '## Black Agent (5 scenes)' including 02_verinus_testament_of_the_sixty_fifth.md (2 hits), but that scene's own line-by-line cast file tags only [Rubric], [Verinus] and [narrator] — no [Black Agent] line anywhere in it. Checked against the other four attributed files directly: none contain the literal string 'Black Agent'; every hit is the fallback first-word match on 'Black' in unrelated phrases ('the Black Hole', 'the Black Dragon', 'Black in the mouth', 'Black roots'), per the (?:len(first)>=4) fallback in build/mcp_server.py's cast_index(). The archive has zero actual Black Agent dialogue; the CAST.md entry is a matching artifact, not an appearance."
+    }
+  ],
+  "reference_direction": "Male, medium-low pitch, dry and unadorned texture with no rasp or breathiness, unhurried/measured pace that never speeds up under pressure, no regional accent (none is assigned to him anywhere in the corpus) — closest comparison is a fencing instructor mid-lesson: quiet, exact, entirely unbothered, each word placed the way he places a blade.",
+  "one_line": "An unhurried, exact-worded duelist with no face on file anywhere in the record — low, dry, and patient, a voice that has already finished the exchange before you noticed it started."
+}

@@ -1,0 +1,38 @@
+{
+  "name": "Edward Lambert",
+  "speaks_in_archive": true,
+  "lines_read": 26,
+  "gender": "male",
+  "age": "53 (weathered to read as 60s — 'the last eleven years added the decade that the previous forty-two had not')",
+  "body": "middling height — neither commanding a room by stature nor overlooked by it; frame lean but not gaunt, once solidly built in the northern-frontier manner (broad enough through chest and shoulders to carry armour and swing a blade competently), now thinned by eleven years of stress the appetite never replaced; long angular face weathered like old leather, deep-set iron-grey eyes shadowed by a heavy brow, close-cropped grey-brown hair, clean-shaven, dressed always in plain dark wool that says means without display",
+  "pitch": "medium-low",
+  "texture": ["dry", "flat", "unhurried", "faint papery age-rasp", "no fry or warmth added", "precise, almost mechanical evenness"],
+  "pace": "measured",
+  "energy": "low and contained, the same even keel whether he is reciting a grain count or ordering hostages killed — control is the whole performance; the one time he is pushed past it (the hostage order) the voice does not rise, it just empties out",
+  "register": "formal, clipped, bureaucratic-administrative; near-zero contractions, numbers cited like a ledger (years, four, eleven, three), dry self-aware irony rather than warmth, no rhetorical flourish because he considers persuasion-by-inflection a form of dishonesty",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.4,
+    "grit": 0.25,
+    "breath": 0.12,
+    "pace": 0.92
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Edward Lambert — The Arithmetic.md, section V (Voice & Mannerisms)", "quote": "His voice is quiet. Not soft. Quiet in the way that a mechanism is quiet when the mechanism is well-maintained, each component seated correctly, no friction, no waste."},
+    {"source": "wiki/Volume I — Character Cards/Edward Lambert — The Arithmetic.md, section V (Voice & Mannerisms)", "quote": "The words arrive in order, at a pace that does not vary, with the specific evenness of a man who has decided that vocal inflection is a form of persuasion and that persuasion is a form of dishonesty."},
+    {"source": "wiki/Volume I — Character Cards/Edward Lambert — The Arithmetic.md, section V (Voice & Mannerisms)", "quote": "He does not raise his voice. He has not raised his voice in eleven years."},
+    {"source": "wiki/Volume I — Character Cards/Edward Lambert — The Arithmetic.md, section II (Physical Description)", "quote": "Edward Lambert is fifty-three years old and looks sixty because the last eleven years added the decade that the previous forty-two had not."},
+    {"source": "wiki/Volume I — Character Cards/Edward Lambert — The Arithmetic.md, section II (Physical Description)", "quote": "His frame is lean but not gaunt. A body that was once solidly built in the northern frontier manner, broad enough through the chest and shoulders to carry armour and swing a blade with the competence of a man who trained daily."},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:253-255", "quote": "the face which turned round in the upper burying ground that morning was one he had never seen before and has not seen since, and that there was nothing in it at all. \"Kill all of the hostages.\""},
+    {"source": "scenes/sodoku_fourteenth_bow_table.md:81", "quote": "Lambert let the silence sit for three full seconds, which was his way of declining to be hurried."},
+    {"source": "scenes/sodoku_fourteenth_bow_table.md:95", "quote": "Lambert did not raise his voice at all."},
+    {"source": "scenes/wotr_the_weight_of_a_courier.md:55", "quote": "Lambert's voice did not change register at all, which was how everyone at that table understood he had stopped being agreeable."},
+    {"source": "scenes/sodoku_fourteenth_bow_table.md:99", "quote": "\"Be frugal,\" Lambert said. \"In grain, in coin, and in the number of people you tell they are wrong. All three ledgers run out.\""},
+    {"source": "scenes/sodoku_true_religion_alabaster.md:57", "quote": "\"Your highness.\" Lambert set the hand flat on his knee. \"I have written four letters to the Ore Council in eleven years. I have received three replies. All three were courteous. None of them contained a fact.\""},
+    {"source": "build/book_tools.py voice_fingerprints — Lambert row", "quote": "20 lines, mean words 35.3 ±25.5, short share 0.25, questions 0.0, contractions 0.1, first person 0.45, imperatives 0.0, favourite words: years, three, eleven, grain, four, because"}
+  ],
+  "reference_direction": "An older male voice, medium-low and dry, running at an almost perfectly even pace with very little pitch inflection — the vocal equivalent of a well-oiled mechanism, not a warm one. No softness, no rasp of effort, only the faint papery wear of age at the edges. Formal register, no contractions, numbers delivered like citations. Comparison: picture a meticulous frontier estate-steward or quartermaster reading a ledger aloud to a room he already knows is listening — never needs volume to be obeyed, and the one time the content turns horrifying (ordering hostages killed) the voice doesn't rise, it just goes emptier, which is the more frightening choice.",
+  "one_line": "A dry, even, medium-low administrator's voice that never once raises in eleven years — control itself is the performance, and horror reads as the voice going flatter, not louder."
+}

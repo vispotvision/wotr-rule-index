@@ -1,0 +1,36 @@
+{
+  "name": "Sodoku Moto",
+  "speaks_in_archive": true,
+  "lines_read": 32,
+  "gender": "male",
+  "age": "22 (per wiki card, current Scourge of Hell arc — exiled crown heir, Stage VI); the same unraised-voice signature is stated to hold unchanged decades later in the flash-forward material where he appears as a much older man, so the cadence is treated as a lifelong constant, not an age-specific colour",
+  "body": "five-foot-eleven, broad through the shoulders but built as a technique-fighter rather than a mass-fighter — trained leanness, not bulk; face 'finished arriving,' Muken's wide heavy jaw, amber-gold eyes with the Kamigan's ring-lines visible even at rest",
+  "pitch": "medium-low",
+  "texture": ["smooth", "controlled", "a hard iron edge under the smoothness rather than rasp", "breath almost inaudible", "no fry, no warmth added"],
+  "pace": "slow",
+  "energy": "low and banked, the same contained pressure whether he is negotiating a grain shipment or ending a man's existence with one word — under real stress the voice goes quieter and slower, never louder or faster",
+  "register": "formal, declarative, near-zero contractions (0.08 in the corpus), no questions at all in his measured lines — he states rather than asks; long analytical or legalistic sentences when laying out an argument, dropping to one or two words when giving an order or absorbing a blow; leaves silence after a sentence on purpose and lets other people fill it",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.45,
+    "grit": 0.1,
+    "breath": 0.15,
+    "pace": 0.88
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Sodoku Moto.md, section XIII-XV (Voice)", "quote": "Slow iron cadence. Silences that count. Moves before he decides to. Says little — already ranked before it leaves him. Processes rooms rather than scanning them. Under stress goes quieter, not louder, and reaches for the beads when no one is watching."},
+    {"source": "wiki/Volume I — Character Cards/Sodoku Moto.md, section XIII (Description)", "quote": "Five-eleven, broad through the shoulders, technique-fighter proportions rather than mass."},
+    {"source": "scenes/06_sodoku_the_shallow_seen_unburied.md:87", "quote": "The voice did not rise. It never had. That was the whole of what made it his."},
+    {"source": "scenes/sodoku_the_count_supply_report.md:102-103", "quote": "\"Quiet is what a thing sounds like when it is not currently pointed at you. I never saw a body. Neither did you. Neither did anyone we can name.\" He said it without heat."},
+    {"source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:113-115", "quote": "Sodoku waited. He had learned that off Muken, who had learned it off their father, and it was the only piece of the whole inheritance he had kept without arguing. A man arriving with news will give it in his own order if you leave the silence alone."},
+    {"source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:131,135", "quote": "\"Go back,\" Sodoku said. \"Tell Osric the road is closed and I am not coming back through it. Tell him he has the gate until I do.\" ... \"Then go round the ditch.\""},
+    {"source": "scenes/09_sodoku_the_true_nature.md:103-109", "quote": "He authored the last four seconds of a stranger, and the authoring cost him something he did not price and would not find missing for two months. \"Rest,\" said Sodoku Moto."},
+    {"source": "scenes/sodoku_true_religion_alabaster.md:81", "quote": "\"I propose to be correct first and fast afterward.\""},
+    {"source": "scenes/sodoku_true_religion_alabaster.md:93", "quote": "\"We hold to the high religion of the labours. It is older than the north, it is older than the Ashen Crown, and it does not require anyone's permission to be true.\""},
+    {"source": "build/book_tools.py voice_fingerprints — Sodoku Moto row", "quote": "13 lines, mean words 45.6 ±21.7, short share 0.0, questions 0.0, contractions 0.08, first person 0.46, imperatives 0.08, favourite words: through, years, hand, tell, every, because"}
+  ],
+  "reference_direction": "A young male voice pitched medium-low — a big, controlled young man's weight, not an old man's or a giant's bass. Texture is smooth almost to the point of glassiness, with a hard iron quality underneath rather than any rasp or vocal fry, and breath kept nearly inaudible, as though he never lets air escape carelessly. Pace is slow and deliberately spaced, with real silence left after a sentence that he expects the room to sit in rather than fill for him. No regional accent colour; diction is precise and almost legalistic, close to zero contractions, so short lines land like verdicts and long ones read like a prepared argument rather than conversation. Comparable to the voice of a young officer reading a sentence aloud in a quiet courtroom: he never needs volume, because the content already carries the weight, and when the moment is at its worst the voice gets quieter and slower rather than louder or faster.",
+  "one_line": "A twenty-two-year-old exiled prince whose voice never rises — flat, formal, iron-quiet whether he's arguing grain shipments or ending a stranger's life with a single word."
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Wren Greymane",
+  "speaks_in_archive": true,
+  "lines_read": 9,
+  "gender": "male",
+  "age": "No number given anywhere in the record. Reads as the elder of the two Greymane brothers — Bram's card gives Bram as 23 and 'the one who stayed'; Wren is 'the one who left,' already commanding his own six-hundred-man muster and running a sixteen-month solo deception before the record opens. Cast as mid-to-late twenties: old enough to have built and held that operation alone, young enough that nothing in the prose reads as aged or slowing.",
+  "body": "'A big man' by the text's own word — the line is used to explain why he beats an inhuman blow aside with nothing but bulk and a shield angle ('There was no technique in it. A big man and an angle, and that was all of it.'). Built for the front rank: takes an eleven-foot magic halberd swung by a monster on a four-foot heater shield and is only driven back, not broken; heaves the same weapon up and over his own shoulder by main strength; still on his feet, by will, after his shoulder is dislocated and put back in. A shield-and-halberd bulwark fighter's frame — heavy through the shoulders and forearms, not lean.",
+  "pitch": "low",
+  "texture": [
+    "flat and economical at rest — every attributed line outside combat is a short plain sentence ('They are ready,' 'We rally today,' 'Aye'), nothing florid, nothing explained twice",
+    "goes to full parade volume on the single command word that matters — 'RALLY.' is set alone in the text, in caps, the only time he is written loud",
+    "does not widen into panic or scream register even as his body fails — the dying beats shorten his speech to single clipped syllables ('Bulwark' twice more, then just 'Comp.') rather than to noise; the one involuntary sound he makes he is described as embarrassed by",
+    "the interior voice under the dialogue is dry, exact, and unsentimental even facing death — counts in feet and seconds, corrects its own reads, and lands one flat piece of gallows humor about his brother's defining image of him ('I am sorry about the smiling. I have never been able to account for it.')"
+  ],
+  "pace": "measured",
+  "energy": "Banked and controlled at rest — he does not waste a word addressing his commander or his own men. Spends everything held in reserve on the single shouted command that turns the whole column. Under mortal pressure the energy does not spike into panic; it compresses, syllable by syllable, until the command words themselves are all that is left of it.",
+  "register": "Plain Northern soldier's diction, no polish, no rank-flourish despite commanding six hundred men. Matches the scene's own 'Technical' register note for his POV (exhaustive, tactical, exact): distances in feet, time in seconds, casualties counted precisely. No archive line from him carries an ounce of self-pity even at the very end.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -4,
+    "weight": 0.7,
+    "grit": 0.3,
+    "breath": 0.15,
+    "pace": 0.9
+  },
+  "evidence": [
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:17",
+      "quote": "\"They are ready,\" Wren said."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:51",
+      "quote": "\"We rally today,\" Wren Greymane said."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:59",
+      "quote": "\"RALLY.\""
+    },
+    {
+      "source": "scenes/02_wren_bulwark.md:65-69",
+      "quote": "\"You are the traitor's traitor,\" he said. His voice was flat and did not travel. He had said perhaps forty words since the muster and he was spending nine of them here. \"Aye,\" said Wren."
+    },
+    {
+      "source": "scenes/02_wren_bulwark.md:89",
+      "quote": "\"Bulwark.\""
+    },
+    {
+      "source": "scenes/02_wren_bulwark.md:115",
+      "quote": "There was no technique in it. A big man and an angle, and that was all of it."
+    },
+    {
+      "source": "scenes/02_wren_bulwark.md:127",
+      "quote": "\"Compact.\""
+    },
+    {
+      "source": "scenes/03_wren_three_deliveries.md:97-99",
+      "quote": "\"Bulwark,\" said Wren Greymane. Nothing happened."
+    },
+    {
+      "source": "scenes/03_wren_three_deliveries.md:133-137",
+      "quote": "*I am sorry about the smiling. I have never been able to account for it.* He pulled the ring with his teeth. \"Comp.\""
+    },
+    {
+      "source": "scenes/03_wren_three_deliveries.md:107",
+      "quote": "The pain arrived late and enormous. Wren heard himself make a noise. He had time to be embarrassed by it."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Bram Greymane — The Ridge.md:26",
+      "quote": "His brother: Wren Greymane. The one who left. The one who joined the Tenrai. The one who smiled across two hundred paces of dead men and the smile was the wound that will not close."
+    }
+  ],
+  "reference_direction": "Male, low chest-register baritone with real weight and size behind it — a big, broad-framed soldier's voice, not a cultivated or aristocratic one. Plain Northern/Kharven accent, unornamented consonants, nothing performed. Delivery at rest is flat, spare and economical — a commander who has drilled six hundred men and does not repeat an order — with one gear held above that for a single parade-ground command shout, and nothing above that gear even as the character is dying: the voice compresses to single clipped words under mortal strain rather than breaking or rising into a scream. No line in the record softens or explains itself twice. Comparison: a veteran infantry NCO built like the front rank he leads from — quiet, deliberate, almost inaudible in ordinary speech until the one order that has to reach the whole formation, delivered without visible strain because raising it has never been a performance for him.",
+  "one_line": "A big, plainspoken soldier's low baritone — banked and economical at rest, one true parade-ground shout in reserve, and even dying it compresses to single flat syllables instead of breaking."
+}

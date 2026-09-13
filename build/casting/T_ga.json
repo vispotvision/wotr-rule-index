@@ -1,0 +1,84 @@
+{
+  "name": "Tōga (冬牙)",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "Not applicable in the human sense — the prose never assigns a pronoun beyond 'it'/'the creature'/'the animal'/'the thing,' and the card explicitly notes Sodoku 'does not command Tōga through speech' at all. Cast as a genderless titan-beast register, not mapped onto a male or female human voice.",
+  "age": "Card: 'Centuries. The Glacier Eye read ten thousand years of Winter saturation in the resonance handshake. The creature was alive before the Moto migration. Before the kingdom. Before the name Kharven existed.' This is not human-decrepit age — it is the eldest-thing-on-the-ice register: absolute, patient, undiminished. Nothing in the confirmed-abilities list reads as slowed or weakened by age; the age shows as authority and stillness, the way Gimbzo's age shows as wear rather than frailty, but taken further because Tōga is not even nominally humanoid.",
+  "body": "Titan-class Droval. 22 feet at the shoulder on all fours, 38+ feet reared on hind legs; 28 feet nose-to-haunch; an estimated 14–16 tons. Owl-fused predator skull — hooked bone-hard ivory beak transitioning into rows of jagged teeth, forward-facing binocular pale-blue-luminescent eyes, short tufted ears, stiff frost-lined whiskers. Dense blue-white fur partially crystallized into frost-mineral armour at shoulders and spine. Drifting ice crystals orbit the body at all times, formed from ambient moisture warped by its own Aetheric mass. This is a chest/skull cavity an order of magnitude larger than any human or even giant (Gimbzo, elsewhere in this cast, tops out 'past eight feet') — and the resonating structure is a beaked, owl-fused skull, not a mammalian throat, which is why the card's own vocal description reaches for 'owl-like' rather than wolf, lion, or bear.",
+  "pitch": "very low",
+  "texture": [
+    "bass-frequency, owl-like cry — the card's own word for it (\"Aurora Howl\") — a hollow, resonant boom/hoot quality rather than a mammalian roar, growl, or shriek, consistent with the owl-fused beaked skull",
+    "physically felt rather than merely heard: card says the audible component 'travels through ice, through boots, through bones, felt in the teeth and the sternum' — an infrasound-adjacent, sub-bass presence under the tone",
+    "a second, sub-audible layer running underneath any audible sound — 'Harmonic resonance that suppresses ambient sound and replaces it with the stillness that the body processes as dread' — so any vocal performance should carry a felt undertow, not just a single clean pitch",
+    "silence is the baseline, not a texture gap to fill: Silent Tread is '14+ tons... quieter than a walking human,' and in the one extended scene with Sodoku (04:43-55) it communicates entirely through held stillness — 'the great head came round, the eye found him and held' — no vocalization at all",
+    "unhurried and settled even under threat — nothing in the record shows Tōga vocalizing out of urgency or fear; the recorded cry is a weapon deployed once, not a habitual sound"
+  ],
+  "pace": "slow",
+  "energy": "Near-total silence and stillness at rest — a titan whose default state produces no sound at all, described as quieter than a walking human — with all vocal output reserved for one confirmed event (Aurora Howl), which the card frames as reaching through ice, boots, and bone and inducing physical dread and vertigo in listeners. This mirrors the pattern already established for Tōga's other faculties: patience converted instantly into total, overwhelming force (Glacier Pounce 'converts hours of patience into a single moment of total violence'). There is no register for casual, conversational, or repeated vocalization in the record; every documented output is either total silence or a singular, world-shaking event.",
+  "register": "No linguistic register at all — Tōga has zero attributed dialogue in the scene archive, and the card states outright that Sodoku 'does not command Tōga through speech or through Essence projection' but through thermal micro-shifts in the Frost Sovereignty Field, which Tōga's biology reads 'automatically, at the speed of instinct, without conscious processing.' Every interaction rendered on the page (04_sodoku_what_the_sky_does_not_ask.md:43-55; 01_wotr_muster_breach_road_north.md:199-209) is staged as wordless: a name spoken BY Sodoku, a hand on the flank, the head turning, the eye holding, obedience without acknowledgment. If this voice is ever called on in production, it is for the single confirmed non-verbal vocalization (the Aurora Howl) or ambient creature sound, never for spoken lines.",
+  "engine": "standard",
+  "exaggeration": 0.7,
+  "design": {
+    "pitch_st": -6,
+    "weight": 0.95,
+    "grit": 0.35,
+    "breath": 0.35,
+    "pace": 0.85
+  },
+  "evidence": [
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:17",
+      "quote": "Centuries. The Glacier Eye read ten thousand years of Winter saturation in the resonance handshake. The creature was alive before the Moto migration. Before the kingdom. Before the name Kharven existed."
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:33",
+      "quote": "22 feet on all fours · 38+ feet when reared on hind legs"
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:38",
+      "quote": "Owl-fused predator skull. Hooked beak (bone-hard, pale ivory) transitioning into rows of jagged teeth behind the beak-line."
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:49",
+      "quote": "22 feet at the shoulder, 14+ tons, and quieter than a walking human."
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:51",
+      "quote": "Explosive launch from stillness covering 30m in a single bound at full mass... The pounce converts hours of patience into a single moment of total violence"
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:52",
+      "quote": "Dual-frequency vocalization. Audible component: bass-frequency owl-like cry that travels through ice, through boots, through bones, felt in the teeth and the sternum. Sub-audible component: Harmonic resonance that suppresses ambient sound and replaces it with the stillness that the body processes as dread."
+    },
+    {
+      "source": "wiki/Sodoku Moto/Tōga (冬牙) — Winter Fang.md:25",
+      "quote": "Sodoku does not command Tōga through speech or through Essence projection. He commands through the Frost Sovereignty Field's frequency, the field communicating intent through thermal micro-shifts that Tōga's biology reads the way it reads weather: automatically, at the speed of instinct, without conscious processing."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:199-205",
+      "quote": "Sodoku said one word. \"Tōga.\" The thing came over the north curtain wall. It did not climb it and it did not jump it... The cold came off it in a front."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:209",
+      "quote": "The men who had never seen it before made a sound. Not a cheer."
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:45-53",
+      "quote": "He put his hand flat on Tōga's flank and held it there... The great head came round. The eye found him and held. \"Go and help them,\" Sodoku said. He patted the flank twice. Tōga looked at him a moment longer."
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:55",
+      "quote": "The creature had ten thousand years of winter in it and had chosen, and choosing is a thing that can be done twice, and Sodoku had never once let himself forget which of them was the smaller party to the arrangement."
+    },
+    {
+      "source": "scenes/04_sodoku_what_the_sky_does_not_ask.md:59",
+      "quote": "It did not run. Nothing that size runs and nothing that size needs to."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "12 characters with eight or more attributed lines — Tōga is not among them; zero attributed dialogue in the scene archive"
+    }
+  ],
+  "reference_direction": "Non-human, ungendered, and pitched at the absolute low end available — deeper than any human voice, drawn from a chest/resonating cavity many times larger than even the giant Gimbzo elsewhere in this cast. Texture should follow the card's own comparison, an owl-like boom/hoot rather than a wolf-growl or lion-roar: a hollow, resonant, sub-bass tone with a felt (near-infrasound) undertow beneath it, rather than a scraped or gravelly rasp. Pace is glacially slow and almost entirely silent — this is a voice that is used once, not conversationally, so any reference should be built around a single, enormous, room-filling utterance rather than a sustained speaking cadence. No accent, no language, no words: think the sub-bass boom of a very large owl crossed with the felt pressure-wave of distant calving ice, deployed the way a foghorn or a glacier cracking is deployed — total silence, then one utterance that is felt in the chest before it is heard.",
+  "one_line": "A ten-thousand-year-old, silent titan-owl of ice with no dialogue in the record at all — when it does make sound, the card describes a single dual-frequency 'Aurora Howl': a bass, owl-like boom felt in the teeth and sternum, backed by a sub-audible resonance that reads as dread, otherwise total, deliberate silence."
+}

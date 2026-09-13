@@ -1,0 +1,92 @@
+{
+  "findings": [
+    {
+      "severity": "PASS",
+      "pass": "tell_scan",
+      "quote": "# The Week After",
+      "problem": "verify tell scan clean: 0 fail, 0 warn. Zero em dashes (r0's heading dash removed), no Ladder flagged (r0's 'the yard was quiet and the water was' recast as 'only the water came down').",
+      "evidence": "python build/book_tools.py verify ... --band set-piece --culture Kharven: 'PASS: 0 fail, 0 warn'.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "# The Week After",
+      "problem": "Word count 3737 prose words against target 3500 (107%); band 80%-150% is 2800-5250. Within band. Matches notes_r1.md's 3,737.",
+      "evidence": "verify: 'length 3737 words (set-piece band)'; wc -w on the file gives 3744 including heading and rule lines.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "He was looking at the hands.",
+      "problem": "No chain-ceiling failure (r0's three consecutive 25+ word sentences broken at the clerk's arrival). Flat runs 2 (fails at 4); sentence-length CV 0.95; paragraph CV 0.89; 6 italic interior beats; last line ends on a thing he can now see.",
+      "evidence": "verify info lines: flat runs 2; mean 18.0 words, CV 0.95; italic interior beats 6; last line 'He was looking at the hands.'",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "Full, and dry to the bottom.",
+      "problem": "Declared lie sentence from notes_r1.md is present verbatim in the draft (line 139).",
+      "evidence": "grep -c exact string: 1.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "The boy watched his hands because at the Brine crossing he had watched what they did, and a boy who has seen that watches the hands for the rest of his life.",
+      "problem": "Declared misreading sentence from notes_r1.md is present verbatim in the draft (line 29).",
+      "evidence": "grep -c exact string: 1.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "shape",
+      "quote": "Kharven-Seat, the lower hall and the passage behind it.",
+      "problem": "Kharven recurrence check satisfied: five Standing Inventory items found by verify.",
+      "evidence": "verify: 'Kharven recurrence: the woodpile / how's your stack, the night-stone, wet wood, the Thin Weeks, the death-house / the Waiting'.",
+      "fix": "None."
+    },
+    {
+      "severity": "INFO",
+      "pass": "combat_floor",
+      "quote": "# The Week After",
+      "problem": "No working, exchange or injury on the page; the combat floor (R16-8-CHECK30 technical-term floor) does not attach. Not run with --combat.",
+      "evidence": "notes_r1.md: 'No working, exchange or injury on the page'; draft read in full confirms no combat.",
+      "fix": "None."
+    },
+    {
+      "severity": "PASS",
+      "pass": "hooks",
+      "quote": "# The Week After",
+      "problem": "Outline ch01 pays: [] (no hook due this chapter), so no keyword requirement attaches. Plants H01-H04 all present per notes_r1.md; state.json keyword spot-check: H01 'four lines', 'Yoko', 'Bench', 'refused' all on the page; H02 'Vaultmere', 'copy', 'factor' on the page ('first week' is the ch6 payment, not required here); H03 'Miku' on the page ('clause', 'three hundred', 'by name' are the ch5 payment); H04 'Brida', 'full night', 'sat down' on the page.",
+      "evidence": "outline.json chapters[0].pays == []; plants == [H01-yoko-lines, H02-copy-road, H03-miku-chair, H04-price-of-standing]; grep of draft for the keywords.",
+      "fix": "None."
+    },
+    {
+      "severity": "WARN",
+      "pass": "voice",
+      "quote": "\"How's your stack?\"",
+      "problem": "voice_check flags this Sodoku line as 'a question from a voice that almost never asks; a contraction from a voice that does not contract' (13 archive lines, mean 45.6 words; this line 3, z=-2.0). The wording is the Kharven Standing Inventory's fixed greeting, so the contraction and question mark are inventory-governed, not the character's; notes_r1.md says so. Recorded, not a defect.",
+      "evidence": "voice_check 'Sodoku Moto' \"How's your stack?\"",
+      "fix": "None if the Inventory fixes the wording. Otherwise no change possible without breaking R6-9-RECURRENCE_RULE."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"Make the copy,\" he said.",
+      "problem": "Sodoku's short lines ('Make the copy.', 'Hallenfeld carries it.', 'You will be.', 'Good.') each score z=-2.0/-2.1 against his archive mean of 45.6 words ('by length alone it reads more like Emira/Aurelian'). The archive fingerprint is 13 lines of long speech; the chapter's imperatives are deliberate per notes_r1.md (R19-5-SORT_BY_SPEAKER_TEST: 'Sodoku imperatives and one Kharven greeting'). His 22-word road line scores z=-1.1, inside the voice.",
+      "evidence": "voice_check on all seven attributed Sodoku lines.",
+      "fix": "None. If the archive mean is to govern, one of the imperatives could carry a clause, but that would cut against the composure ban (R19-5-COMPOSURE_BAN) the r1 revision addressed."
+    },
+    {
+      "severity": "INFO",
+      "pass": "voice",
+      "quote": "\"The Bench may not have them,\" Yoko said.",
+      "problem": "No voice fingerprint available for Edward Lambert (4 lines checked), Yoko Mishiro (1), Tabitha Hallenfeld (4), Brida Ashwell (5), the factor (1), the clerk (1): fewer than eight attributed lines in the archive for each. Miku has no line. voice_check cannot score them; sort-by-speaker must be checked by reading.",
+      "evidence": "voice_check output: 'no fingerprint for <name> (fewer than eight attributed lines in the archive)' for each.",
+      "fix": "None from the deterministic pass."
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Ignatius Sanctus Sanctorum Arsenal",
+  "identity_note": "The wiki card files this character as 'Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.' The scene archive never uses that string; it calls him 'Darius' or 'Darius Ignatius Sanctus Sanctorum' (Ignatius/Sanctus/Sanctorum are name-components conferred on him at 19/26/35 per 04_verinus_the_hand_and_the_print.md:196). Cross-checked as the same person via Sanctum Lux.md:26 ('The Will is held by Darius Ignatius Sanctus Sanctorum, who has refused investiture for eleven years') and :49 (the Eclipse Bastion / four hundred men), both matching the card's Archpaladin office, Eclipse Wars catalyst, and four-fracture Crystal. All scene evidence below is drawn from the 'Darius' dialogue on that basis.",
+  "speaks_in_archive": true,
+  "lines_read": 53,
+  "gender": "Male",
+  "age": "Present-arc physical age is stated directly, repeatedly, and near-verbatim as fifty-six: '13_darius_the_holiest_of_holy.md:197 — Darius is fifty-six. Derived from writing the modern apparatus between twenty-six and thirty-five and eleven years of refusal since.' Reconfirmed at 18_darius_the_hand_of_the_judger.md:99, 21_darius_the_fist_of_god.md:63, 22_darius_punta.md:31, 23_darius_the_fist_of_totality.md:111 and :157, and 20_aurelian_no_signature.md:153. Two outlying scenes round up to 'sixty-odd' (04_verinus_the_hand_and_the_print.md:101, balance_lesson.md:25) — a conflict logged, not resolved; fifty-six is the number the majority of the archive converges on and the one this casting uses. Plays older than either number: thirty-five years building Sanctum Lux's law plus eleven refusing its seat, on top of nine recent months of battlefield attrition (a torn lung, a dead shoulder, a broken disc, a leg gone purple hip to knee, four fractures in his Soul Crystal).",
+  "body": "The wiki card gives a legacy-sheet physique — six-foot-five, siege-built, broad through the shoulders, 'the specific muscle of a man whose body was consecrated before it was trained' (card, §VIII). The prose the character actually speaks in treats him as ordinary human mass, explicitly not a giant's: he stands next to Gimbzo, who tops 'somewhere past eight feet' (seven_labors.md:7), and his own weapon's weight is 'unremarkable for a man who had carried mail and a longsword through two campaigns before his hair went white' (balance_lesson.md:25). By the present arc that ordinary soldier's frame is broken and still standing: 'underneath it was a fifty-six-year-old man in a torn shirt with the shoulders and the back of a lifetime and a ruined lead leg going purple from hip to knee' (21_darius_the_fist_of_god.md:63); elsewhere a 'broken disc and a dead shoulder' (18_darius_the_hand_of_the_judger.md:99) and a torn lung from mid-fight (21_darius_the_fist_of_god.md:19-21). Cast the voice from the worked, weathered, human-scale soldier the prose gives us, not the statline giant.",
+  "pitch": "medium-low",
+  "texture": [
+    "dry, sanded — age and old damage (a torn lung, cracked ribs), not a wet or heavy growl",
+    "flat, level, near-monotone baseline — a reading/verdict voice with no lift or flourish",
+    "banked control that thickens under real strain (fear, pain) rather than breaking into volume — see evidence on 'flat and precise... when he was frightened'",
+    "a separate liturgical cadence for Church Latin invocations: 'the reading voice,' used the same way at a thousand offices of the dead",
+    "on the rare line where it does rise, the shift itself is the event — sudden, deliberate, and it costs him something (breath, composure) rather than arriving easily"
+  ],
+  "pace": "measured",
+  "energy": "Mostly inert and banked, almost all the time — contained close to affectless, and it flattens further rather than getting louder under fear ('flat and precise... mistaken for composure,' seven_labors.md:143). That containment is discipline, not temperament: he states on the page that he has not raised his voice in front of another living soul since he was twenty-six (14_darius_two_men_who_would_not_take_the_seat.md:165; recurs 15_darius_kill_me_first.md:155), which means every escalation in the archive is a chosen exception, not a mood. Under battlefield injury the banked control gives out differently — not to fury but to a single ragged, full-volume, one-breath shout that costs him his next breath (23_darius_the_fist_of_totality.md:77-79).",
+  "register": "Formal, unornamented, declarative — the wiki names it directly as the 'recalcitrant, unornamented Concordia register he speaks in' (Sanctum Lux.md:52), the same register in which, under direct tribunal questioning, he 'answered a different question, accurately, at length, and without visible feeling' (Sanctum Lux.md:54). Near-zero contractions (voice fingerprint: 0.09, far below cast average). Short declaratives and one-to-four-word clipped lines ('Under what authority.' 'Then why.' 'Balance.' 'Fractures.' 'How long.') account for nearly half his attributed lines (short share 0.45). Even his genuine questions are punctuated and delivered as flat statements — 'Where is he.' 'How.' — never with a rising, interrogative lift (questions rate: 0.0). Card psychology backs this from the other direction: 'Declarative, formal, unhedged. He does not ask questions in company' (card, §IX).",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.55,
+    "grit": 0.4,
+    "breath": 0.3,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "scenes/seven_labors.md:143",
+      "quote": "Darius's voice had gone flat and precise, which was what it did when he was frightened, and three tribunals had mistaken it for composure."
+    },
+    {
+      "source": "scenes/seven_labors.md:109",
+      "quote": "His voice had risen. It had not risen in a tribunal in twenty years."
+    },
+    {
+      "source": "scenes/14_darius_two_men_who_would_not_take_the_seat.md:165",
+      "quote": "His voice had gone up and he let it. He had not raised it in front of another living soul since the year he was twenty-six and had regarded that as a discipline, and he had spent nine months in an ash pit learning that some things are supposed to be said at volume by a man who means them."
+    },
+    {
+      "source": "scenes/14_darius_two_men_who_would_not_take_the_seat.md:129",
+      "quote": "Darius did not raise his voice for this part."
+    },
+    {
+      "source": "scenes/21_darius_the_fist_of_god.md:47-49",
+      "quote": "\"Don't.\" It came out on half a breath and he had to stop and get another one."
+    },
+    {
+      "source": "scenes/23_darius_the_fist_of_totality.md:77-79",
+      "quote": "\"POWER YOUR ENERGY INTO ME.\" He got it out at volume with the last of the breath he had been counting."
+    },
+    {
+      "source": "scenes/21_darius_the_fist_of_god.md:63",
+      "quote": "underneath it was a fifty-six-year-old man in a torn shirt with the shoulders and the back of a lifetime and a ruined lead leg going purple from hip to knee."
+    },
+    {
+      "source": "scenes/18_darius_the_hand_of_the_judger.md:99",
+      "quote": "He was a fifty-six-year-old paladin with a broken disc and a dead shoulder and it had never been his primary art."
+    },
+    {
+      "source": "scenes/balance_lesson.md:25",
+      "quote": "which is heavy for an axe and unremarkable for a man who had carried mail and a longsword through two campaigns before his hair went white."
+    },
+    {
+      "source": "scenes/07_charles_the_imperceptible_district.md:83",
+      "quote": "He said it in the Church Latin he had used at eleven hundred offices of the dead, in the reading voice, because it was the only voice he had ever used for anything that mattered"
+    },
+    {
+      "source": "scenes/07_charles_the_imperceptible_district.md:153",
+      "quote": "What came out of it was not entirely his voice. It came out doubled, layered under itself, his own and a second one over the top that was lower and drier"
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md, §IX Psychology",
+      "quote": "Speech · Declarative, formal, unhedged. He does not ask questions in company."
+    },
+    {
+      "source": "wiki/Volume IV — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md, §VIII Physical Description",
+      "quote": "Six foot five, siege-built, broad through the shoulders and dense with the specific muscle of a man whose body was consecrated before it was trained."
+    },
+    {
+      "source": "wiki/Factions, Bloodlines & Institutions/Sanctum Lux.md:52",
+      "quote": "he wrote it slowly, in the recalcitrant, unornamented Concordia register he speaks in"
+    },
+    {
+      "source": "wiki/Factions, Bloodlines & Institutions/Sanctum Lux.md:26",
+      "quote": "The Will is held by Darius Ignatius Sanctus Sanctorum, who has refused investiture for eleven years"
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "Darius | 11 lines | mean words 21.3 ±21.2 | short share 0.45 | questions 0.0 | contractions 0.09 | first person 0.36 | imperatives 0.0 | favourite words: more, told, years, eleven, never, whatever"
+    }
+  ],
+  "reference_direction": "Male, medium-low baritone — not a bass, and deliberately not the giant register the archive reserves for Gimbzo; this is an ordinary-sized, aging man carrying an extraordinary office and a wrecked body. Texture is dry and sanded rather than a wet growl: age, a torn lung, nine recent months in an ash pit — worn down, not thickened or gravelly. Delivery is level and unhurried almost all the time, close to monotone, built out of short declaratives and one-to-four-word clipped lines with no contractions and no rising lift at the end of a sentence — even his questions read as flat statements. Comparable to a battlefield chaplain-judge advocate: a man who has said exact, terrible things calmly for thirty-five years, so that the calm itself is the discipline, not an absence of feeling — there should be a banked pressure audible under the flat surface. Reserve genuine headroom for two distinct kinds of break, both rare and both costly: a deliberate, chosen escalation into full chest volume when he means a threat (something that, by his own account, has happened only a handful of times since he was twenty-six), and a ragged, damaged, one-breath shout when he is fighting hurt. No regional color or accent — placeless, institutional, liturgical formality throughout ('the recalcitrant, unornamented Concordia register').",
+  "one_line": "Ignatius Sanctus Sanctorum Arsenal — called Darius in the archive he actually speaks in — 56, Archpaladin of Sanctum Lux: a dry, medium-low, near-monotone voice that reads verdicts and last rites the same way, banking enormous pressure under a flat surface that has audibly cracked only once or twice in thirty years.",
+  "accent_hint": "None specified in the record. The formal, unornamented 'Concordia register' (Sanctum Lux.md:52) functions in place of any placeable regional accent — read neutral and institutional, not regional."
+}

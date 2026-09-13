@@ -1,0 +1,37 @@
+{
+  "name": "Azure Serathiel",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "No explicit age stated. The card frames him as having 'transcended mortal ken' rather than giving a number — ageless/timeless. Stage XI Dissonance at Level 307, reached by walking toward something that could end him and remaining coherent, implies a lifetime (or more) of sustained discipline. Reads as a composed, seasoned adult — never youthful, never frail-old.",
+  "body": "No height or build given directly. The statline is Dexterity-first (728 SS, the highest Dexterity in the migration) with Vitality (382 A) and Resilience (440 S) well below it and Dominion at 286 B, his own floor — a finesse blade-saint's frame built for evasion and precision, not mass or ground-holding. Wind-Wreathed Grace has him moving like drifting mist, footfalls that disturb no grass — lean and economical, not a powerhouse.",
+  "pitch": "medium-low",
+  "texture": ["smooth, almost no rasp", "hushed — 'quieter than the background'", "a faint aeolian breath (wind, still air) rather than vocal fry or growl", "spare and unhurried — no wasted syllables"],
+  "pace": "measured",
+  "energy": "banked stillness by design — a regulated setpoint, not a mood; Ardency (fire, passion, aggression) sits deliberately mid on his sheet, so the default reads serene and contained rather than flat or dead. The one described failure mode is a regulator held against a load it cannot overcome: no rise under provocation, then a delayed, total discharge once the load lifts.",
+  "register": "aphoristic and ceremonial — address rather than conversation. Short, often paradox-structured declaratives (see the epigraph), a master's economy of words rather than a talker's.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.45,
+    "grit": 0.15,
+    "breath": 0.32,
+    "pace": 0.92
+  },
+  "evidence": [
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:13", "quote": "The sky does not cleave. It parts. So too must the blade."},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:20", "quote": "A being who has transcended mortal ken, said to have duelled fate itself on a mountain of still air."},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:45", "quote": "Thermal inertia under negative feedback — a baseline that does not rise in favourable conditions and does not fall in hostile ones. This is the Aether of Stillness. His blade draws power from serenity because serenity is a regulated setpoint, not a mood."},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:46", "quote": "He is not invisible. He is quieter than the background, which is better."},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:61", "quote": "Deliberately mid. Serenity, not rage"},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:77", "quote": "Dexterity Silence 750 (at ceiling) · Finesse 730 · Economy 708"},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:83", "quote": "His very footfalls disturb no grass. His form moves like drifting mist, immune to mundane resistance."},
+    {"source": "wiki/Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md:97", "quote": "Nyxial holds his baseline against ambient, which means he cannot be provoked easily; but Nyxial fails by integral windup, and a regulator held against a load it cannot overcome discharges all at once when the load lifts."},
+    {"source": "scenes/CAST.md:92", "quote": "Azure Serathiel (3 scenes)\nTHE_KINGDOM_OF_KHARVEN_buri.md (7), THE_KINGDOM_OF_KHARVEN_corrected.md (7), The_Path_of_Sorrow.md (2)"},
+    {"source": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md:255", "quote": "Azure Khökh Büri, the line's head, did not plan a coup."},
+    {"source": "scenes/The_Path_of_Sorrow.md:17", "quote": "the document Azure Tenrai Moto had designed five years before Muken died"}
+  ],
+  "reference_direction": "Male, medium-low pitch, smooth and unforced with almost no rasp. Delivery is hushed and economical — he under-speaks rather than projects, each line placed the way his footfalls land: present, but disturbing nothing. Pace is unhurried but not slow; short, often paradox-shaped sentences delivered with total composure, vowels held rather than clipped. No regional real-world accent — a placeless, formal, faintly ceremonial cadence, like a vow spoken rather than a conversation held. Comparable to a serene martial-arts master or monastery-trained mentor's voice: still water with a blade under it, not a warrior's bark — and one that, on the rare occasion the regulation fails, can drop that stillness all at once rather than raising by degrees.",
+  "one_line": "A hushed, unhurried sword-saint's voice — serenity worn as discipline rather than temperament, with a coiled stillness that breaks all at once, not by degrees, if the pressure ever exceeds what it can hold."
+}

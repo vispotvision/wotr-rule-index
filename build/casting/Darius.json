@@ -1,0 +1,74 @@
+{
+  "name": "Darius",
+  "speaks_in_archive": true,
+  "lines_read": 48,
+  "gender": "male",
+  "age": "56 in the present-day arc (seven_labors.md:197, ruling: \"Darius is fifty-six. Derived from writing the modern apparatus between twenty-six and thirty-five and eleven years of refusal since.\"; confirmed again at 21_darius_the_fist_of_god.md:25, \"A man of fifty-six with the sixth Fist in him reads a scene...\"). Plays older than the number: an ascetic, institutional life (thirty-five years building Sanctum Lux's law, eleven more refusing its seat) sits on top of nine recent months of battlefield attrition.",
+  "body": "Ordinary human mass, not a giant's — explicitly unremarkable next to true giants in the archive (Gimbzo topped 'somewhere past eight feet', seven_labors.md:7; Darius is just 'a man of his mass', 13_darius_the_holiest_of_holy.md:25). But it is worked, soldierly mass carried for decades: 'unremarkable for a man who had carried mail and a longsword through two campaigns before his hair went white' (balance_lesson.md:25) - so white-haired well before the present day. By the present arc the body is broken and still standing: 'underneath it was a fifty-six-year-old man in a torn shirt with the shoulders and the back of a lifetime and a ruined lead leg going purple from hip to knee' (21_darius_the_fist_of_god.md:63); elsewhere a 'broken disc and a dead shoulder' (18_darius_the_hand_of_the_judger.md:99), a 'torn lung' (23_darius_the_fist_of_totality.md:147), and four fracture lines through his Soul Crystal, one more of which kills him (seven_labors.md:135-139). Archpaladin of Sanctum Lux; wears the Order's gold/plate and carries a smith's-hammer-sized artifact weapon.",
+  "pitch": "medium-low",
+  "texture": [
+    "dry, sanded rather than smooth - age plus a torn lung, not a heavy growl",
+    "flat and unornamented - deliberately without lift or flourish",
+    "a banked, controlled rasp that thickens under real strain rather than breaking into volume",
+    "liturgical evenness in the Latin invocations, like a man who has read the same office over a thousand coffins"
+  ],
+  "pace": "measured",
+  "energy": "Low and banked almost all the time - contained close to inert, described as 'flat and precise' even when 'frightened' because tribunals mistake it for composure (seven_labors.md:143). That containment is load-bearing, not natural calm, and it cracks rarely and dramatically: 'He had not raised it in front of another living soul since the year he was twenty-six' before he lets his voice go up in front of Aurelian (14_darius_two_men_who_would_not_take_the_seat.md:165).",
+  "register": "Formal, unornamented Concordia legal/liturgical register - the wiki names it directly: he wrote Sanctum Lux's founding law 'slowly, in the recalcitrant, unornamented Concordia register he speaks in' (Sanctum Lux.md:52), and under direct questioning from tribunals he 'answered a different question, accurately, at length, and without visible feeling' (Sanctum Lux.md:54). Near-zero contractions (voice_fingerprints: 0.09 contraction rate, far below the cast average), short declaratives and clipped one-to-three-word interrogatives ('Under what authority.' 'Then why.' 'Fractures.' 'Which.' - seven_labors.md, balance_lesson.md), and a separate 'reading voice' for the Church Latin workings - flat, level, funeral-cadenced (07_charles_the_imperceptible_district.md:83, of the same office's ritual Latin: 'in the Church Latin he had used at eleven hundred offices of the dead, in the reading voice, because it was the only voice he had ever used for anything that mattered').",
+  "engine": "turbo",
+  "exaggeration": 0.35,
+  "design": {
+    "pitch_st": -3,
+    "weight": 0.55,
+    "grit": 0.4,
+    "breath": 0.3,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "seven_labors.md:143",
+      "quote": "Darius's voice had gone flat and precise, which was what it did when he was frightened, and three tribunals had mistaken it for composure."
+    },
+    {
+      "source": "14_darius_two_men_who_would_not_take_the_seat.md:165",
+      "quote": "His voice had gone up and he let it. He had not raised it in front of another living soul since the year he was twenty-six and had regarded that as a discipline, and he had spent nine months in an ash pit learning that some things are supposed to be said at volume by a man who means them."
+    },
+    {
+      "source": "07_charles_the_imperceptible_district.md:153",
+      "quote": "What came out of it was not entirely his voice. It came out doubled, layered under itself, his own and a second one over the top that was lower and drier and belonged to a man standing in ash eleven hundred miles away..."
+    },
+    {
+      "source": "21_darius_the_fist_of_god.md:63",
+      "quote": "underneath it was a fifty-six-year-old man in a torn shirt with the shoulders and the back of a lifetime and a ruined lead leg going purple from hip to knee."
+    },
+    {
+      "source": "balance_lesson.md:25",
+      "quote": "unremarkable for a man who had carried mail and a longsword through two campaigns before his hair went white."
+    },
+    {
+      "source": "Factions, Bloodlines & Institutions/Sanctum Lux.md:52",
+      "quote": "he wrote it slowly, in the recalcitrant, unornamented Concordia register he speaks in"
+    },
+    {
+      "source": "Factions, Bloodlines & Institutions/Sanctum Lux.md:54",
+      "quote": "All three times he answered a different question, accurately, at length, and without visible feeling."
+    },
+    {
+      "source": "07_charles_the_imperceptible_district.md:83",
+      "quote": "He said it in the Church Latin he had used at eleven hundred offices of the dead, in the reading voice, because it was the only voice he had ever used for anything that mattered"
+    },
+    {
+      "source": "seven_labors.md:7",
+      "quote": "the ash under him did not release him so much as let him go... Darius revised, and revised again, and stopped revising at somewhere past eight feet"
+    },
+    {
+      "source": "voice_fingerprints (build/book_tools.py)",
+      "quote": "Darius | 11 | 21.3 ±21.2 | short share 0.45 | questions 0.0 | contractions 0.09 | first person 0.36 | imperatives 0.0 | favourite words: more, told, years, eleven, never, whatever"
+    }
+  ],
+  "reference_direction": "Male, medium-low baritone - not a bass, and specifically not the giant register (that belongs to Gimbzo elsewhere in this cast); Darius is an ordinary-sized man carrying an extraordinary office. Dry, sanded texture rather than a wet growl - age, a torn lung, nine months in an ash pit - worn down, not thickened. Delivery is level and unhurried almost all the time, close to monotone, in short declaratives and one-to-three-word clipped questions with no contractions and no lift at sentence-end: a man reading a verdict, or reading last rites, for the thousandth time. Comparable to a battlefield chaplain-judge advocate: someone who has said exact, terrible things calmly for thirty-five years, so that calm itself is the discipline. That flatness is a held door, not an absence of feeling, so the read should carry a banked pressure underneath the level surface, and on the rare line where it breaks (voice rising, or the one warm aside 'What did I tell you, kid' bleeding through another man's mouth), it should land as a genuine crack in something that has not cracked in thirty years, not as ordinary emphasis. No regional color - placeless, institutional, liturgical Concordia formality throughout.",
+  "one_line": "Darius Ignatius Sanctus Sanctorum, 56, Archpaladin of Sanctum Lux: a dry, medium-low, almost-monotone baritone - a battlefield chaplain-judge reading verdicts and last rites so calmly for so long that the calm is the discipline, with a banked, rarely-breaking pressure underneath it.",
+  "qwen_instruct": "A stern middle-aged man. Deep, dry, resonant baritone, gruff and gravelly, low in the chest, measured and unhurried, flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly; never raises his voice. Clear American English, no accent, serious, no warmth.",
+  "qwen_anchor": "build/voices/anchors/Darius.wav",
+  "qwen_note": "Piccolo floor with Vegeta's edge (Chris Sabat) per Isaac 2026-09-12; approved take: darius_piccolo batch 1. Note: words for throat strain ('tight', 'hoarse') push the pitch UP in this model; add the Vegeta colour as manner (clipped, sneering), not tension"
+}

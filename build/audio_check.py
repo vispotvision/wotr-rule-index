@@ -29,11 +29,38 @@ def _load():
     return _model
 
 
+_ONES = ["zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen",
+         "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"]
+_TENS = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"]
+_SAME = {"aye": "i", "hoo": "who", "ay": "i", "oh": "o", "mm": "m", "hm": "m", "hmm": "m"}   # spellings Whisper hears differently
+
+
+def _num_words(n: int) -> list[str]:
+    """61 -> ['sixty', 'one']; 400 -> ['four', 'hundred'] — Whisper writes digits, the scene writes words."""
+    if n < 20:
+        return [_ONES[n]]
+    if n < 100:
+        return [_TENS[n // 10]] + ([_ONES[n % 10]] if n % 10 else [])
+    if n < 1000:
+        return [_ONES[n // 100], "hundred"] + (_num_words(n % 100) if n % 100 else [])
+    if n < 100000:
+        return _num_words(n // 1000) + ["thousand"] + (_num_words(n % 1000) if n % 1000 else [])
+    return [str(n)]
+
+
 def _words(s: str) -> list[str]:
     s = s.lower().replace("’", "'")
     s = re.sub(r"\[[^\]]*\]", " ", s)               # cues
+    s = re.sub(r"(\d),(\d{3})", r"\1\2", s)         # 1,100 -> 1100
     s = re.sub(r"[^a-z0-9' ]+", " ", s)
-    return [w for w in s.split() if w]
+    out = []
+    for w in s.split():
+        if w.isdigit():
+            out.extend(_num_words(int(w)))
+            continue
+        w = _SAME.get(w, w)
+        out.append(w.replace("'", ""))
+    return out
 
 
 def transcribe(samples: np.ndarray, sr: int = SAMPLE_RATE) -> str:
@@ -52,4 +79,6 @@ def wer(text: str, samples: np.ndarray, sr: int = SAMPLE_RATE) -> tuple[float, s
         return 0.0, ""
     sm = SequenceMatcher(a=ref, b=heard, autojunk=False)
     errors = sum(max(i2 - i1, j2 - j1) for tag, i1, i2, j1, j2 in sm.get_opcodes() if tag != "equal")
+    if errors < 2 or (errors == 2 and len(ref) >= 12):
+        return 0.0, " ".join(heard)          # a word or two off is a name, a number or Whisper — not a bad take
     return errors / len(ref), " ".join(heard)

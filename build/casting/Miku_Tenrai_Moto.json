@@ -1,0 +1,54 @@
+{
+  "name": "Miku Tenrai Moto",
+  "speaks_in_archive": true,
+  "lines_read": 2,
+  "gender": "male",
+  "age": "fourteen at the book's present; nine at the Brine crossing forfeiture four years earlier",
+  "body": "a boy, not a warrior's build — undersized even for his age, marched four hundred miles on less food than the household guard dying around him; at nine he trembles so hard he cannot keep his feet and wets himself without noticing. Nothing in the archive gives him bulk, height, or trained bearing at fourteen either — the only presence he carries is borrowed from the chair and the forfeiture, not from his body",
+  "pitch": "medium-high",
+  "texture": ["flat", "thin", "uninflected", "quiet", "a held-down tremor under the stillness"],
+  "pace": "measured",
+  "energy": "low and contained — a stillness that reads as discipline, not calm; the stillness of a child who learned that showing more gets you hurt",
+  "register": "short, complete, declarative sentences with no hedge and no appeal for reassurance; the register of someone made to give the same testimony over and over until the wording became armor",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": 3,
+    "weight": 0.15,
+    "grit": 0.05,
+    "breath": 0.3,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:149-151",
+      "quote": "And the boy said nothing for a long time, and then said the thing that ended eleven years of war, in a small flat voice, with his hands at his sides. \"I will forfeit. And tell all of my men to pull away. And order whoever is fighting against you to stop.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:163-165",
+      "quote": "he is fourteen now and holds a seat at the table and has been asked eleven times, and the answer he gives is always the same and it is always four words. \"I saw him mean it.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:117",
+      "quote": "Miku Tenrai Moto could not answer. His whole frame was going and his teeth were going and he had wet himself and had not noticed and would notice later and would remember the noticing longer than he remembered the killing."
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:141",
+      "quote": "he had spent his entire short life watching adults change how they stood when he came into a room, watching them lower their voices and raise their chins and hand him things, and he had worked out very early and entirely alone that the weight was not about him"
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:380",
+      "quote": "being unable to stop yourself being vulnerable while watching yourself be vulnerable in advance is a torture the Tenrai have never written down"
+    },
+    {
+      "source": "book/kharven-year/bible.md:61",
+      "quote": "Miku Tenrai Moto — no card in the wiki mirror; nothing numeric on the page. Fourteen, the temporal running behind his eyes, a chair by right of a forfeiture at nine. Asked eleven times what he saw; four words: \"I saw him mean it.\""
+    },
+    {
+      "source": "book/kharven-year/bible.md:121",
+      "quote": "Miku's temporal. Never written from inside. He is seen watching hands."
+    }
+  ],
+  "reference_direction": "Male, a boy's voice, not a man's — medium-high, light, no chest weight and almost no rasp. Flat and quiet rather than expressive: both of his two recorded lines are given the same explicit direction by the prose itself, 'a small flat voice,' delivered without hedge, appeal, or emotional coloring, in short complete sentences. Pace is unhurried and deliberate, like a memorized statement recited for the eleventh time, not a child chattering or a child crying — the crying happens elsewhere, never in the two moments he actually speaks. No regional accent; plain, slightly formal phrasing, consistent with a child who has spent his whole life being addressed carefully by adults who wanted something from him. Comparison: the sound of a boy called forward to give a rehearsed statement to a tribunal — correct, unadorned, and giving away nothing about what it costs him to say it.",
+  "one_line": "A traumatized boy's flat, unbroken voice — light, quiet, and almost without inflection, like a short rehearsed statement given to a tribunal for the eleventh time."
+}

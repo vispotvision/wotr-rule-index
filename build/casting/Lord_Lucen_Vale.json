@@ -1,0 +1,71 @@
+{
+  "name": "Lord Lucen Vale · The Star Chamberlain",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "Not given as a number anywhere on the card (contrast Verinus VII, whose card states '71' outright). No scene text exists to infer from either. Cast from role and diction instead: he is a Guild Accord Star Chamber protocol officer credited with stabilizing the Second Fracture Vote and having 'prevented three diplomatic wars through cadence-law alone' (card, XII), and his title 'Chamberlain' plus epithets 'White North of the Accord Halls' and 'Architect of Polite Gravity' (card, I) read as an earned, senior office, not a young appointee. Direction: a mature adult male, vocally in the 50s-60s range — composed elder-statesman gravitas, not a young courtier's voice. This is a director's inference from role, flagged as such, not a sourced fact.",
+  "body": "Card gives no height, weight, or physical silhouette at all — unusual for this roster, and worth noting as an absence in itself. What it does give is stats: Path is 'Spirit dominant, Attraction secondary' with 'Body 0.85 / Spirit 1.35 / Attraction 1.25... preserved as written' (card, IV) — a below-baseline physical stat, and Ardency (offense) is his explicit 'floor' at Grade B with the stated classification 'Offense: Non-lethal, social & metaphysical redirection' (card, IV). He is one of only three characters across the whole roster whose profile explicitly forecloses violence. Read together: not a physically large or powerful man — slight-to-average build, unarmed, non-threatening at a glance. His entire presence is gravitational rather than physical: 'A soft north-pull settles the room. Voices unconsciously match his tempo. Aggression hesitates before reaching him' (card, II). Cast the voice to carry authority through stillness and placement, never through size or force.",
+  "pitch": "medium-low",
+  "texture": ["glass-smooth, almost no rasp", "cool / frost-touched rather than warm", "meticulously articulated consonants", "unhurried, evenly weighted syllables", "very controlled breath support", "faint ceremonial polish, like a man who has rehearsed silence as much as speech"],
+  "pace": "measured",
+  "energy": "Low and banked, never raised — his whole design is that the room comes down to his tempo rather than him rising to meet the room's. 'Voices unconsciously match his tempo. Aggression hesitates before reaching him' (card, II). His failure state is not losing control outward but the opposite: 'He does not collapse, burn out, or lose control. He becomes unable to stop being correct, and someone else has to break it' (card, II) — a man whose calm can run away with him if unchecked. Voice him as quietly, permanently 'on', with no ceiling of volume to reach for.",
+  "register": "High courtly-formal, near-aphoristic — a protocol officer's diction, complete sentences, no slang, everything phrased as if it will be quoted later. The card's own epigraph is his one directly quoted line and is the best register sample available: 'Decency is architecture. Stand where I place you, and the truth will hold' (card, epigraph) — declarative, metaphor drawn from geometry/placement, calm command rather than persuasion. His Snow-Glass trait implies the same holds under provocation: hostility returned at him 'refracts into self-conscious embarrassment' and 'rage dissolves into meticulously phrased sentences' (card, VI) — i.e. even when he is the target of anger, his own delivery stays exact and composed; he does not raise pitch or volume to match an aggressor.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.35,
+    "grit": 0.06,
+    "breath": 0.15,
+    "pace": 0.92
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:13",
+      "quote": "\"Decency is architecture. Stand where I place you, and the truth will hold.\""
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:27-30",
+      "quote": "**Also known as** · **White North of the Accord Halls** · *Architect of Polite Gravity.* **Epithet** · ***He Who Aligns the Room.*** ... **Profile** · *He arranges councils the way astronomers shape constellations — through the gravity of placement, tone and cadence.*"
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:47",
+      "quote": "**Aura** · **A soft north-pull settles the room.** *Voices unconsciously match his tempo. Aggression hesitates before reaching him.*"
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:44-46",
+      "quote": "**Risk · Law-Feedback.** *Overexertion traps him in an involuntary loop of perfect etiquette until externally disrupted.* ... **He does not collapse, burn out, or lose control. He becomes unable to stop being correct**, and someone else has to break it."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:94",
+      "quote": "**Snow-Glass Reflection** · **Hostility aimed at him refracts into self-conscious embarrassment.** *Rage dissolves into meticulously phrased sentences.*"
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:55",
+      "quote": "This is Polaris Poise: he is true north because his baseline does not move."
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:75-76",
+      "quote": "**Path** · Spirit dominant, Attraction secondary. *The card's Body 0.85 / Spirit 1.35 / Attraction 1.25 is preserved as written.* ... **Ardency 180, and the card's own line is \"Offense: Non-lethal, social & metaphysical redirection.\"**"
+    },
+    {
+      "source": "wiki/Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md:141",
+      "quote": "**Stabilised the Second Fracture Vote by geometric realignment.** *Prevented three diplomatic wars through cadence-law alone.*"
+    },
+    {
+      "source": "scenes/CAST.md:86-87",
+      "quote": "## Lord Lucen Vale (4 scenes)\nWOTR_Vaeloris_Sequence.md (14), wotr_the_weight_of_a_courier.md (3), 04_sodoku_what_the_sky_does_not_ask.md (2), sodoku_gate_reunion_lambert.md (2)"
+    },
+    {
+      "source": "director's verification note — not a file to quote from, but recording the check",
+      "quote": "Word-boundary search for 'Lucen', 'Vale', 'Chamberlain', 'Polaris' and 'Astrolabe' across every file in scenes/ returns zero hits outside scenes/CAST.md itself. The four files CAST.md's index attributes to Lord Lucen Vale (and, identically, to 'Lord Maerion Lysandre' directly below it — same four files, same counts) are all Sodoku/Kharven-Seat scenes with no Star Chamber content whatsoever. This CAST.md row is a stale or mismatched index entry, not a real appearance; there is no Lucen Vale dialogue anywhere in the archive to read or quote."
+    },
+    {
+      "source": "build/book_tools.py voice_fingerprints",
+      "quote": "12 characters with eight or more attributed lines (heuristic attribution; treat as measurement, not verdict)."
+    }
+  ],
+  "reference_direction": "Adult male, medium-low pitch — enough weight to read as an authority figure, but nowhere near a boom or growl. Texture is glass-smooth and cool rather than warm or gravelly: almost no rasp, crisp and exact consonants, the sound of someone who has rehearsed every sentence before it leaves him. Pace is measured and unhurried, never rushed even under provocation — he is built to make a room slow down to his tempo, not to raise his own volume to be heard over it. No regional roughness: a cultivated, neutral 'received' court-diplomat accent, precise vowels, formal address. Comparison: the voice of a state dinner's chief of protocol or a senior diplomatic aide reading the order of proceedings — quiet, exact, and entirely unbothered, the kind of calm that makes other people in the room lower their own voices without noticing they've done it.",
+  "accent_hint": "Neutral, cultivated 'received' court diction; no regional or dialect markers on the card. Crisp, evenly weighted consonants; unhurried vowels; near-total absence of contractions or casual phrasing (his one quoted line has none).",
+  "one_line": "A court chamberlain's voice — cool, glass-smooth, and unhurried, the kind of quiet, exact calm that makes a room match its tempo to him instead of the other way around."
+}

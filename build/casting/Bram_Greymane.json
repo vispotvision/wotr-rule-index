@@ -1,0 +1,81 @@
+{
+  "name": "Bram Greymane",
+  "speaks_in_archive": true,
+  "lines_read": 12,
+  "gender": "male",
+  "age": "23 in years, but the card and prose both insist he reads decades older — three years on the ridge plus the fighting after did the aging work that would normally take a lifetime. Cast the voice for the wear, not the birthdate.",
+  "body": "Built to absorb impact, not to move: 'the same structural width through the jaw, the same heavy brow ridge designed to withstand impact' (Godfrey's frame inherited whole). Three fingers gone from the left hand at the second joint, a bad hip that makes him limp, scars down the whole left side of jaw and neck. Unwashed, matted hair — a garrison body, not a groomed one.",
+  "pitch": "low",
+  "texture": [
+    "big chest resonance",
+    "flat / affectless under pressure",
+    "faint gravel from war-wear, not a growl",
+    "unpolished, plain diction",
+    "terse — short declarative sentences, few subordinate clauses"
+  ],
+  "pace": "measured",
+  "energy": "Coiled and contained by default — the voice of a man holding still on purpose. It does not rise with emotion; when it rises, it's for battlefield projection (short hammering commands), and it drops straight back to flat afterward, including in the middle of an atrocity.",
+  "register": "Blunt frontier-soldier plainness, not a commander's polished authority — a farm boy's directness wearing a garrison's flatness. No rhetorical flourish; the same level tone serves an order, a confession, and a threat.",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -4,
+    "weight": 0.65,
+    "grit": 0.4,
+    "breath": 0.15,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Bram Greymane — The Ridge.md:24",
+      "quote": "Godfrey's face rebuilt by a younger hand. The same structural width through the jaw, the same heavy brow ridge designed to withstand impact, the same dark eyes that read terrain for defensive value before reading anything else."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Bram Greymane — The Ridge.md:24",
+      "quote": "Twenty-three and showing the specific accelerated aging that war produces — the three years on the ridge and the fighting that followed filled the places that decades would normally fill."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Bram Greymane — The Ridge.md:32",
+      "quote": "The ridge does not move. Bram does not move. The two are the same sentence."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Bram Greymane — The Ridge.md:27",
+      "quote": "His words: \"I held, Grandfather.\""
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:91",
+      "quote": "Bram had a voice that carried without effort and he had never once been glad of it until this year."
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:89",
+      "quote": "\"THIS IS WHERE WE PROVE WHAT WE ARE.\""
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:93",
+      "quote": "\"PROTECTORS. STEWARDS. DEFENDERS. THOSE ARE WORDS THEY PUT ON A CHARTER IN A WARM ROOM AND THIS MORNING WE FIND OUT WHAT THEY COST.\" ... \"WE DIE HERE OR WE LIVE TO TELL IT. THERE IS NO THIRD THING.\""
+    },
+    {
+      "source": "scenes/01_wotr_muster_breach_road_north.md:97",
+      "quote": "\"RAGE. LET THE NORTHERN COLD GUIDE YOU.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:35",
+      "quote": "\"There was nothing to fight.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:313",
+      "quote": "\"I don't want to kill you.\""
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:315",
+      "quote": "He said it without heat. That is the thing everyone who was in that yard has said since: there was no heat in any part of it, at any point, on any of the eleven days."
+    },
+    {
+      "source": "scenes/10_wotr_what_the_ground_was_owed.md:333",
+      "quote": "\"Don't die now.\""
+    }
+  ],
+  "reference_direction": "Male, low and weighty — a big chest voice from a body built structurally wide, that projects to a crowd without straining ('carried without effort'). Some texture from three years of siege and battlefield damage, but this is not a growler or a shouter by nature: his signature is flatness — even, unhurried, almost no inflection, delivered at the same level whether he's giving an order or saying 'I don't want to kill you' to a man he is mutilating. Diction is plain and unpolished, a farm-raised soldier, not a noble's cadence, despite the command rank. Under battlefield pressure the voice opens up into a big, carrying, hard-edged shout doing short hammering phrases (four, five words at a time), then drops straight back to flat the moment the moment passes. Comparable to a heavy-built infantry NCO who's stopped reacting out loud to anything, years past the point where his voice needed to perform feeling to be obeyed.",
+  "one_line": "A young giant's frame with an old soldier's flatness — a low, effortlessly carrying voice that only ever gets loud to give short battlefield commands, and stays dead level even while doing something terrible.",
+  "accent_hint": "Plain frontier/garrison speech, unpolished and blunt — no aristocratic lift despite the command rank; short declarative sentences over long ones."
+}

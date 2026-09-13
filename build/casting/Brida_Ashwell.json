@@ -1,0 +1,34 @@
+{
+  "name": "Brida Ashwell",
+  "speaks_in_archive": true,
+  "lines_read": 6,
+  "gender": "female",
+  "age": "31 per the wiki card, but the prose ages her past that — wind-chapped, permanently flushed, and in her one extended scene she is eleven days out of a near-fatal abdominal wound, walking on a stick with her colour wrong 'for longer than that'; the voice should read as an adult woman worn a decade past her years by frontier work and a body that has recently failed and been dragged back",
+  "body": "short and dense through the torso, built close to the ground — a frontier labourer's build ('the specific way women are built when their mothers and grandmothers all worked standing up'), not lean, not delicate; presently compromised (walking wound, four hundred yards takes her forty minutes) without being frail in manner",
+  "pitch": "medium-low",
+  "texture": ["warm and firm at once — the card's own pairing, not a contradiction to resolve toward either pole", "unpolished, plain frontier grain, no court lilt", "economical/declarative — short sentences, almost no hedging or softening words", "can drop to a hushed near-whisper (protecting a sleeping patient) without losing firmness — a stage whisper that still carries an instruction", "capable of flat, unsoftened truth-telling with no comfort-words padding it"],
+  "pace": "measured",
+  "energy": "steady and unhurried; low-key even under grief or danger — she says the true thing once and stops rather than building to it or repeating it",
+  "register": "physician's bedside register: 'the voice of a thousand delivered instructions, each one as though it were the first' — declarative, non-negotiable, sparing with words even in comfort; the frontier plainness of Concord rather than any court accent",
+  "engine": "turbo",
+  "exaggeration": 0.3,
+  "design": {
+    "pitch_st": -2,
+    "weight": 0.55,
+    "grit": 0.3,
+    "breath": 0.3,
+    "pace": 0.95
+  },
+  "evidence": [
+    {"source": "wiki/Volume I — Character Cards/Brida Ashwell — The Warm Diagnosis.md, section 'Description'", "quote": "Short and dense through the torso, built close to the ground in the specific way women are built when their mothers and grandmothers all worked standing up."},
+    {"source": "wiki/Volume I — Character Cards/Brida Ashwell — The Warm Diagnosis.md, section 'Her voice'", "quote": "Firm and warm simultaneously. The voice of a thousand delivered instructions, each one as though it were the first, because the recipient needs to hear it as the first. \"The treatment is not negotiable.\""},
+    {"source": "scenes/renard_the_left_of_the_door.md:121-123", "quote": "Behind him the altar-room door opened the width of a hand and Brida's face was in the gap, hair down, eyes going from him to the wall to the floor and back. \"She's asleep,\" Brida said. Very quiet. \"Don't.\""},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:217", "quote": "She should not have been walking. She had taken it across the abdomen at the sally gate in the ninth hour and had been eleven days in the altar-room ... the wound had been what she herself called the third bowl, the one where they stop asking for water because they have forgotten they were thirsty, and she had gone into it and come back out of it, which almost nobody does. She was walking with a stick and would be for a year. Her colour was wrong and would be wrong for longer than that."},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:221-223", "quote": "She stood beside him and did not say anything for a while and then said the true thing, which is what she does, which is why the Seat sends her to the ones who will not talk. \"It must be hard to be the oldest,\" she said. \"And be the only one alive.\""},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:239", "quote": "Brida put her hand on his arm and left it there and did not tell him it was not his fault, because she had been eleven days in the third bowl and had come out of it with no patience left for the sentences people say at gravesides."},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:269-283", "quote": "\"Edward.\" ... \"I have not said anything.\" ... \"Your brother would have.\" ... \"And if there were.\""},
+    {"source": "scenes/10_wotr_what_the_ground_was_owed.md:394", "quote": "Brida comes four hundred yards up a path in forty minutes on a stick eleven days out of the third bowl, and her patience for graveside sentences is gone, so she says the true thing and then puts a hand on his arm and says nothing else."}
+  ],
+  "reference_direction": "Adult woman, low-to-medium alto — warmer and lower than a typical bright TTS default female voice, with real chest weight behind it to match a short, dense, hard-labour build. No court polish, no lilt: plain frontier grain, closer to a rural midwife or field-hospital doctor than a hospital consultant. The defining move is that 'firm' and 'warm' are the same register, not two settings to blend — every line lands as a settled instruction, not a suggestion, but never cold or clipped-for-effect. Economical almost to a fault: she says a true thing once, in as few words as it takes, and stops rather than cushioning it or repeating it. Two working modes recorded on the page — a hushed near-whisper at a sickbed that still carries the force of a command ('Don't'), and a flat, unsoftened delivery of hard truths at a graveside — and both modes should sound like the same voice at different volumes, not different characters. Slight roughness in the grain (wind-chapped, frontier-worn) rather than smooth studio warmth; unhurried pace throughout, never rushed even when the news is urgent. Think: the on-call country doctor who has delivered the same instruction a thousand times and needs it heard as if for the first time.",
+  "one_line": "A low, warm, unpolished frontier physician's voice — firm and warm as one setting, not two — equally able to drop to a hushed bedside command or lay a hard truth flat on a grave path without a single wasted word."
+}

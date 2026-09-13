@@ -1,0 +1,59 @@
+{
+  "name": "Rashani Zettari",
+  "speaks_in_archive": false,
+  "lines_read": 0,
+  "gender": "male",
+  "age": "18 (body and lineage-stated age) — but cast to read older than that in the mouth: trained composure, not adolescent uncertainty",
+  "body": "6'1\", lean and composed. No finished scars — the frame itself is young and unmarked — while the bearing the card gives him (weight distributed, eyes tracking more than expected) is adult. Perception is ahead of the body (the card's own core wound), so the voice should sound more settled and certain than the frame producing it.",
+  "pitch": "medium",
+  "texture": [
+    "clean, unscarred — almost no rasp or vocal fry",
+    "controlled breath, very little audible air",
+    "crisp, placed diction — each word lands rather than trails",
+    "a faint cool distance under the calm, not warmth"
+  ],
+  "pace": "measured",
+  "energy": "low and contained; under real pressure it narrows further toward silence rather than rising into heat or volume",
+  "register": "formal and economical — full clauses, no filler, no slang, no wasted words; precise enough that strangers read it as cold",
+  "engine": "turbo",
+  "exaggeration": 0.25,
+  "design": {
+    "pitch_st": -1,
+    "weight": 0.3,
+    "grit": 0.08,
+    "breath": 0.15,
+    "pace": 0.93
+  },
+  "evidence": [
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §XIII–XV (Voice row)",
+      "quote": "Calm and exact. No wasted words — which sometimes reads as cold. Composed, weight distributed, eyes tracking more than expected"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §XIII–XV (Stress Default row)",
+      "quote": "Origin Eye widens. Stops talking. Reads everything until one target resolves clearly"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §XIII–XV (Description)",
+      "quote": "6'1\", lean and composed. Precision over punishment. ... No finished scars. The body is eighteen."
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §XIII–XV (Aura)",
+      "quote": "the feeling your next movement is already known — not threatening. Diagnostic"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §XIII–XV (Core Wound)",
+      "quote": "His perception is ahead of his body. He can see every beginning but cannot always answer in time"
+    },
+    {
+      "source": "wiki/Volume I — Character Cards/Rashani Zettari.md, §I–II (Crystal State)",
+      "quote": "perception ahead of body. The Soul Crystal is still catching up to the Eye"
+    },
+    {
+      "source": "scenes/Cozbi_Root_Severance_and_Rashani_Threshold.md:77",
+      "quote": "I don't have the depth to read that."
+    }
+  ],
+  "reference_direction": "Male, medium pitch sitting just under center rather than deep — an eighteen-year-old's instrument, not a grown man's chest voice. Almost no grit or breath noise: this is an unscarred, controlled sound, diction crisp and unhurried, each word set down deliberately rather than let go in a run. Neutral, faintly formal delivery with no regional color — the speech of someone trained into stillness rather than raised loose. Think of a young analyst or junior officer giving a precise field report under pressure: exact, economical, quietly certain, and — this is the part the card insists on — someone who goes quieter and more clipped as the stakes rise, never louder or rougher.",
+  "one_line": "Card-only cast (no archive dialogue): an eighteen-year-old whose perception outruns his body, voiced calm, exact and economical — a controlled, unscarred sound that reads as cold rather than young, and that narrows toward near-silence under pressure instead of breaking upward."
+}

@@ -58,6 +58,7 @@ Gimbzo:                # eight feet of him; Yhwach register — very deep, dark,
     emotion: Calm and composed, without heat. tone: Flat, level, authoritative, matter-of-fact.
     personality: Blunt, patient, plainspoken, unhurried.
   anchor: build/voices/anchors/Gimbzo      # the three lines of the approved set; line3_deep is the register Isaac liked
+  fallback: Gimbzo-cb   # used while the engine is locked (--qwen unlocks it)
   tries: 4
   pitch_st: -1         # the deep register, held for every line
   range_factor: 0.9
@@ -69,6 +70,7 @@ Darius:                # the Measurewright; Piccolo floor, Vegeta's edge when th
     flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly;
     never raises his voice. Clear American English, no accent, serious, no warmth.
   anchor: build/voices/anchors/Darius
+  fallback: Darius-cb
   tries: 3
 Kizami:                # the Notcher; a neck with too many joints; keeps the record
   engine: chatterbox
@@ -124,4 +126,5 @@ narrator-q:
     emotion: Calm, composed, quietly attentive. tone: Level, literary, understated, precise.
     personality: Observant, intelligent, restrained.
   anchor: build/voices/anchors/narrator-q
+  fallback: narrator-st
   tries: 3

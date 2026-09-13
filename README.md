@@ -113,7 +113,11 @@ PyTorch's own kernels run the model at ~1.5× real time, against ~1× on the CPU
 **The character engine is `engine: qwen`** — Qwen3-TTS-1.7B-VoiceDesign (Alibaba,
 Apache-2.0), pure voice design: every line of a character is generated from a
 written brief, no reference clip. Isaac chose it on 12 Sep 2026 and the rest of
-the stack serves it. The brief is the 12-field caption the model was trained
+the stack serves it. **Locked for now (13 Sep 2026):** the voice still drifts
+between takes, so the engine is off unless `--qwen` is given on the command
+line; speakers on it use their `fallback:` entry (Chatterbox / Supertonic) or
+a pool voice, and the render says so. The MCP's `narrate_scene` never passes
+the flag, so nothing reachable from the phone or a shared link renders on it. The brief is the 12-field caption the model was trained
 on (`gender, pitch, speed, volume, age, clarity, fluency, accent, texture,
 emotion, tone, personality`; the manual is `build/voices/QWEN_DESIGN_GUIDE.md`,
 written from four verified research reports in `build/voices/survey/`); a

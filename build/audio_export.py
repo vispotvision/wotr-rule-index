@@ -390,6 +390,15 @@ class Cast:
             # voice: one of the ten presets (M1–M5, F1–F5); style: a voice-style JSON instead (build/supertonic_backend.py)
             return Speaker(name, "supertonic", str(entry.get("voice", "M1")).upper(), float(entry.get("speed", 1.0)),
                            float(entry.get("gain", 1.0)), str(entry.get("style", "")), steps=int(entry.get("steps", 8)))
+        if eng == "qwen" and not QWEN["allowed"]:
+            # Isaac, 13 Sep 2026: the design engine still drifts between takes — nobody gets it until it is fixed.
+            # Only an explicit --qwen on the command line unlocks it; the MCP's narrate_scene never passes that.
+            fb = entry.get("fallback")
+            if fb and fb in self.raw and fb != name:
+                QWEN["fallbacks"].append(f"{name} -> {fb}")
+                return self._build(name, self.raw[fb])
+            QWEN["fallbacks"].append(f"{name} -> pool")
+            return self._pool_pick(name)
         if eng == "qwen":
             sp = Speaker(name, "qwen", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)))
             sp.instruct = str(entry.get("instruct", "")).strip()
@@ -408,15 +417,18 @@ class Cast:
         style, pack = voice_style(self.engine, str(entry.get("voice", "af_heart")), self.presets)
         return Speaker(name, "kokoro", style, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)), pack=pack)
 
+    def _pool_pick(self, who: str) -> Speaker:
+        pick = self.pool[int(hashlib.sha256(who.encode("utf-8")).hexdigest(), 16) % len(self.pool)]
+        style, pack = voice_style(self.engine, pick, self.presets)
+        self.unassigned.append(f"{who} -> {pick}")
+        return Speaker(who, "kokoro", style, pack=pack)
+
     def speaker(self, who: str) -> Speaker:
         if who not in self.speakers:
             if who in self.raw and not who.startswith("_"):
                 self.speakers[who] = self._build(who, self.raw[who])
             else:
-                pick = self.pool[int(hashlib.sha256(who.encode("utf-8")).hexdigest(), 16) % len(self.pool)]
-                style, pack = voice_style(self.engine, pick, self.presets)
-                self.speakers[who] = Speaker(who, "kokoro", style, pack=pack)
-                self.unassigned.append(f"{who} -> {pick}")
+                self.speakers[who] = self._pool_pick(who)
         return self.speakers[who]
 
 
@@ -440,6 +452,7 @@ def shape_span(sp: Speaker, samples: np.ndarray, speed: float) -> np.ndarray:
 
 
 CHECK = {"on": True, "threshold": 0.25, "retakes": 0, "worst": []}   # read-back check for generative spans
+QWEN = {"allowed": False, "fallbacks": []}     # the design engine is off unless --qwen is given on the command line
 
 
 def read_back(sp: Speaker, text: str, samples: np.ndarray, retake) -> np.ndarray:
@@ -635,6 +648,8 @@ def main() -> int:
     ap.add_argument("--no-cast", action="store_true", help="ignore cast files; one narrator voice")
     ap.add_argument("--no-check", action="store_true", help="skip the read-back check on Chatterbox spans (build/audio_check.py)")
     ap.add_argument("--first", type=int, default=0, metavar="N", help="render only the first N paragraphs of each scene (an audition cut; output named *-first<N>)")
+    ap.add_argument("--qwen", action="store_true", help="unlock the Qwen design engine (it still drifts between takes; off for everyone until fixed — "
+                                                        "speakers on it fall back to their `fallback:` entry or a pool voice)")
     ap.add_argument("--fetch-model", action="store_true")
     ap.add_argument("--pack", default="v1.0", choices=list(PACKS), help="with --fetch-model: which Kokoro pack (zh = v1.1-zh, 103 more voices)")
     ap.add_argument("--list-voices", action="store_true")
@@ -648,6 +663,7 @@ def main() -> int:
         fetch_model(a.pack)
         return 0
     CHECK["on"] = not a.no_check
+    QWEN["allowed"] = bool(a.qwen)
     if a.say:
         import soundfile as sf
         engine = load_engine()
@@ -758,6 +774,8 @@ def main() -> int:
         voices_note = f", {len(speakers(script))} voices" if script else ""
         print(f"  {path.name}: {words:,} words -> {mins:.1f} min audio in {time.time()-t0:.0f}s{voices_note}", flush=True)
         written += 1
+    if QWEN["fallbacks"]:
+        print("qwen engine is locked (--qwen unlocks it); these speakers used their fallback: " + "; ".join(sorted(set(QWEN["fallbacks"]))))
     if cast_voices.unassigned:
         print("speakers with no entry in build/voices.yaml, given a pool voice: " + "; ".join(sorted(set(cast_voices.unassigned))))
     if CHECK["retakes"] or CHECK["worst"]:

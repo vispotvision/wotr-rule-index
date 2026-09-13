@@ -51,6 +51,7 @@ VENV_GPU = Path(r"C:\venvs\wotr-cb-gpu") / "Scripts" / "python.exe"   # AMD ROCm
 VENV_CPU = ROOT / "build" / ".venv-chatterbox" / "Scripts" / "python.exe"
 VENV_PY = VENV_GPU if VENV_GPU.exists() else VENV_CPU
 WORKER = ROOT / "build" / "chatterbox_worker.py"
+WORKER_LOG = ROOT / "build" / ".chatterbox_worker.log"   # the worker's stderr: model chatter, and the reason if it dies
 TARGET_SR = 24000
 _proc: subprocess.Popen | None = None
 
@@ -60,8 +61,10 @@ def _worker() -> subprocess.Popen:
     if _proc is None or _proc.poll() is not None:
         if not VENV_PY.exists():
             sys.exit("Chatterbox is not set up: run build/chatterbox_setup.ps1 (CPU) or build/chatterbox_gpu_setup.ps1 (the 9070 XT)")
+        log = open(WORKER_LOG, "a", encoding="utf-8")
+        log.write(f"\n=== worker start {VENV_PY}\n"); log.flush()
         _proc = subprocess.Popen([str(VENV_PY), str(WORKER)], cwd=ROOT, stdin=subprocess.PIPE, stdout=subprocess.PIPE,
-                                 stderr=subprocess.DEVNULL, text=True, encoding="utf-8", bufsize=1)
+                                 stderr=log, text=True, encoding="utf-8", bufsize=1)
     return _proc
 
 
@@ -125,7 +128,8 @@ def _one(sp, text: str, ref: str) -> np.ndarray:
     while True:
         line = w.stdout.readline()
         if not line:
-            sys.exit("the Chatterbox worker died; run build/.venv-chatterbox/Scripts/python.exe build/chatterbox_worker.py by hand to see why")
+            tail = WORKER_LOG.read_text(encoding="utf-8", errors="replace")[-1500:] if WORKER_LOG.exists() else ""
+            sys.exit(f"the Chatterbox worker died (exit {w.poll()}); the end of its log, {WORKER_LOG.name}:\n{tail}")
         try:
             msg = json.loads(line)
         except json.JSONDecodeError:

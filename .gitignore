@@ -11,3 +11,4 @@ build/.venv-chatterbox/
 build/voices/*.wav
 build/.narrate_jobs.json
 build/.narrate-*.log
+build/.chatterbox_worker.log

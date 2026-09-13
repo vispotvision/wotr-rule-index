@@ -395,12 +395,28 @@ class Cast:
         return self.speakers[who]
 
 
+CHECK = {"on": True, "threshold": 0.25, "retakes": 0, "worst": []}   # read-back check for generative spans
+
+
 def render_span(cast: Cast, sp: Speaker, text: str, speed: float) -> np.ndarray:
     if sp.engine == "chatterbox":
         from chatterbox_backend import synth as cb_synth   # build/chatterbox_backend.py
         if sp.model != "turbo":
             text = strip_cues(text)
-        return cb_synth(cast, sp, text, speed)
+        samples = cb_synth(cast, sp, text, speed)
+        if CHECK["on"]:
+            import audio_check
+            score, heard = audio_check.wer(text, samples)
+            if score > CHECK["threshold"]:
+                # a second take; Chatterbox samples, so it differs — keep whichever reads back better
+                again = cb_synth(cast, sp, text, speed)
+                score2, heard2 = audio_check.wer(text, again)
+                CHECK["retakes"] += 1
+                if score2 < score:
+                    samples, score, heard = again, score2, heard2
+            if score > CHECK["threshold"]:
+                CHECK["worst"].append((score, sp.name, text[:90], heard[:90]))
+        return samples
     samples, sr = cast.engine.get(sp.pack).create(strip_cues(text), voice=sp.style, speed=speed, lang="en-us")
     assert sr == SAMPLE_RATE, sr
     return samples.astype(np.float32)
@@ -493,6 +509,7 @@ def main() -> int:
     ap.add_argument("--plain", action="store_true", help="with --dry-run: print the cast-file format (tag it, save as scenes/cast/<stem>.cast.md)")
     ap.add_argument("--check-cast", action="store_true", help="validate the cast files of the selected scenes and list their speakers")
     ap.add_argument("--no-cast", action="store_true", help="ignore cast files; one narrator voice")
+    ap.add_argument("--no-check", action="store_true", help="skip the read-back check on Chatterbox spans (build/audio_check.py)")
     ap.add_argument("--fetch-model", action="store_true")
     ap.add_argument("--pack", default="v1.0", choices=list(PACKS), help="with --fetch-model: which Kokoro pack (zh = v1.1-zh, 103 more voices)")
     ap.add_argument("--list-voices", action="store_true")
@@ -505,6 +522,7 @@ def main() -> int:
     if a.fetch_model:
         fetch_model(a.pack)
         return 0
+    CHECK["on"] = not a.no_check
     if a.say:
         import soundfile as sf
         engine = load_engine()
@@ -610,6 +628,10 @@ def main() -> int:
         written += 1
     if cast_voices.unassigned:
         print("speakers with no entry in build/voices.yaml, given a pool voice: " + "; ".join(sorted(set(cast_voices.unassigned))))
+    if CHECK["retakes"] or CHECK["worst"]:
+        print(f"read-back check: {CHECK['retakes']} span(s) re-taken; {len(CHECK['worst'])} still above {CHECK['threshold']:.0%} word error:")
+        for score, who, text, heard in sorted(CHECK["worst"], reverse=True)[:8]:
+            print(f"  {score:.0%} {who}: {text!r} -> heard {heard!r}")
     print(f"audio: {written} written, {skipped} unchanged -> {out}")
     return 0
 

@@ -100,6 +100,16 @@ a stable pick from `_pool`. Fight passages: tag them `[narrator: urgent]` or
 give the narrator a Chatterbox register (`narrator-combat`, a reference clip
 made from the narrator's own Kokoro voice) so the narration performs them.
 
+Chatterbox on the RX 9070 XT: `build/chatterbox_gpu_setup.ps1` builds a second
+venv at `C:\venvs\wotr-cb-gpu` (a short path on purpose — AMD's torch wheel
+ships licence files nested past Windows' 260-character limit and dies half-way
+under the repo path) with AMD's native ROCm 10 PyTorch for Windows; the
+backend prefers it when it exists. Two things the worker does for that
+preview: it picks the discrete card by name (ROCm lists the 7800X3D's
+integrated GPU first) and turns MIOpen off, because MIOpen's run-time kernel
+compiler can't find the C++ standard headers on Windows (`miopenStatusUnknownError`);
+PyTorch's own kernels run the model at ~1.5× real time, against ~1× on the CPU.
+
 Reference clips come from openly licensed corpora, with credit:
 `build/voice_refs.py --browse M Scottish` lists VCTK speakers (110 English
 speakers, CC BY 4.0, tagged by gender, age and accent);

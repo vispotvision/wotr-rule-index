@@ -38,9 +38,18 @@ def say(obj) -> None:
 
 
 def _device():
+    """The discrete card. ROCm on this PC enumerates the 7800X3D's integrated GPU (gfx1036) as device 0
+    and the RX 9070 XT (gfx1201) as device 1, so "cuda" alone would land the model on the iGPU."""
     import torch
     if torch.cuda.is_available():
-        return "cuda"
+        best, best_score = 0, -1
+        for i in range(torch.cuda.device_count()):
+            p = torch.cuda.get_device_properties(i)
+            arch = getattr(p, "gcnArchName", "")
+            score = (2 if "RX" in p.name or "gfx12" in arch or "gfx11" in arch else 0) - (1 if "Graphics" in p.name and "RX" not in p.name else 0)
+            if score > best_score:
+                best, best_score = i, score
+        return f"cuda:{best}"
     try:
         import torch_directml
         return torch_directml.device()
@@ -51,13 +60,31 @@ def _device():
 def load(name: str):
     if name not in _models:
         device = _device()
+        import torch
+        if torch.version.hip and str(device).startswith("cuda"):
+            # AMD's Windows preview: MIOpen compiles its kernels at run time with hiprtc, and that
+            # compiler cannot find the C++ standard headers here ("#include <type_traits>" fails while
+            # building MIOpenBatchNormFwdInferSpatial.cpp -> miopenStatusUnknownError). With cuDNN/MIOpen
+            # off PyTorch uses its own conv and batch-norm kernels and the card works (~1.5x real time).
+            torch.backends.cudnn.enabled = False
         if name == "turbo":
             from chatterbox.tts_turbo import ChatterboxTurboTTS
             _models[name] = ChatterboxTurboTTS.from_pretrained(device=device)
         else:
             from chatterbox.tts import ChatterboxTTS
             _models[name] = ChatterboxTTS.from_pretrained(device=device)
-        say({"loaded": f"{name} on {device}"})
+        m = _models[name]
+        if hasattr(m, "norm_loudness"):
+            # chatterbox's loudness normalisation multiplies the float32 clip by a numpy float64 gain;
+            # under NumPy 2's promotion rules that yields float64 and the tokenizer then fails with
+            # "expected scalar type Double but found Float". Cast it back.
+            orig = m.norm_loudness
+            m.norm_loudness = lambda wav, sr, *a, **k: np.asarray(orig(wav, sr, *a, **k), dtype=np.float32)
+        label = str(device)
+        if str(device).startswith("cuda"):
+            import torch
+            label += f" ({torch.cuda.get_device_name(int(str(device).split(':')[-1]) if ':' in str(device) else 0)})"
+        say({"loaded": f"{name} on {label}"})
     return _models[name]
 
 

@@ -42,7 +42,7 @@ Read ${BOOK}\\outline.json (this chapter's row: beat, scene_type, pov, cast, pla
 8. "## Recall" — ${T} scene_recall "<beat keywords>" and ${T} scene_recall "<cast + place>"; ${T} wiki <term> for at most two capitalised terms in the beat that are not cast names.
 9. "## Continuity" — state.json facts about the cast or the place (newest first, at most 40, each with its quote), the summaries of all prior chapters, and the hook agenda (planted or advanced hooks due within 3 chapters).
 Trim order if the file passes ~40k tokens: wiki snippets, then the second recall, then full cards to FOW lines, then old summaries to one sentence. Never trim the previous chapter tail, the brief blanks, the loadout or the hook agenda. Return: the first line exactly \`scene_type: <type>\`, then the cast, the word count of brief.md, and whether it starts with ESCALATE.`, { phase: 'Brief', label: `brief:ch${CH}` })
-if (/ESCALATE/.test(brief || '')) return { chapter: A.chapter, stage: 'brief', escalate: brief }
+if (/starts_with_ESCALATE:\s*yes/i.test(brief || '') || /^ESCALATE:/m.test(brief || '')) return { chapter: A.chapter, stage: 'brief', escalate: brief }
 const COMBAT = /scene_type:\s*(duel|battle|working)/i.test(brief || '')
 
 // ------------------------------------------------------------------ draft

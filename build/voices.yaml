@@ -57,3 +57,13 @@ Darius:                # the Measurewright; thirty-five years and three tribunal
   ref: build/voices/refs/darius.wav
 
 _pool: [am_michael, bf_emma, am_fenrir, af_sarah, bm_lewis, af_nicole, am_eric, bf_alice]
+
+# narrators designed from LibriTTS-R audiobook readers (CC BY 4.0; credits in build/voices/refs/CREDITS.md)
+narrator-m:            # reader 2803 — slightly low, level, very clean; --voice narrator-m for a Chatterbox-only render
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/narrator-m.wav
+narrator-f:            # reader 3576 — slightly low, a little expressive
+  engine: chatterbox
+  model: turbo
+  ref: build/voices/refs/narrator-f.wav

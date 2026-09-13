@@ -39,6 +39,7 @@ use it for the voices that matter and leave narration to Kokoro. Weights
 from __future__ import annotations
 
 import json
+import re
 import subprocess
 import sys
 from pathlib import Path
@@ -46,7 +47,9 @@ from pathlib import Path
 import numpy as np
 
 ROOT = Path(__file__).resolve().parent.parent
-VENV_PY = ROOT / "build" / ".venv-chatterbox" / "Scripts" / "python.exe"
+VENV_GPU = Path(r"C:\venvs\wotr-cb-gpu") / "Scripts" / "python.exe"   # AMD ROCm torch (build/chatterbox_gpu_setup.ps1; short path on purpose)
+VENV_CPU = ROOT / "build" / ".venv-chatterbox" / "Scripts" / "python.exe"
+VENV_PY = VENV_GPU if VENV_GPU.exists() else VENV_CPU
 WORKER = ROOT / "build" / "chatterbox_worker.py"
 TARGET_SR = 24000
 _proc: subprocess.Popen | None = None
@@ -56,7 +59,7 @@ def _worker() -> subprocess.Popen:
     global _proc
     if _proc is None or _proc.poll() is not None:
         if not VENV_PY.exists():
-            sys.exit("Chatterbox is not set up: run build/chatterbox_setup.ps1 (creates build/.venv-chatterbox)")
+            sys.exit("Chatterbox is not set up: run build/chatterbox_setup.ps1 (CPU) or build/chatterbox_gpu_setup.ps1 (the 9070 XT)")
         _proc = subprocess.Popen([str(VENV_PY), str(WORKER)], cwd=ROOT, stdin=subprocess.PIPE, stdout=subprocess.PIPE,
                                  stderr=subprocess.DEVNULL, text=True, encoding="utf-8", bufsize=1)
     return _proc
@@ -79,6 +82,29 @@ def _speed(x: np.ndarray, factor: float) -> np.ndarray:
     return np.interp(np.linspace(0, len(x) - 1, n), np.arange(len(x)), x).astype(np.float32)
 
 
+MAX_CHARS = 280          # Chatterbox is happiest on a sentence or two; longer inputs garble or truncate
+_SENT = re.compile(r"(?<=[.!?…])\s+(?=[\"“'A-Z\[])")
+
+
+def chunks(text: str) -> list[str]:
+    """Sentences grouped up to MAX_CHARS; a single over-long sentence is split at a comma or semicolon."""
+    out, cur = [], ""
+    for s in _SENT.split(text.strip()):
+        if len(s) > MAX_CHARS:
+            parts = re.split(r"(?<=[,;])\s+", s)
+        else:
+            parts = [s]
+        for p in parts:
+            if cur and len(cur) + 1 + len(p) > MAX_CHARS:
+                out.append(cur)
+                cur = p
+            else:
+                cur = f"{cur} {p}".strip()
+    if cur:
+        out.append(cur)
+    return out
+
+
 def synth(cast, sp, text: str, speed: float) -> np.ndarray:
     ref = ""
     if sp.ref:
@@ -86,6 +112,13 @@ def synth(cast, sp, text: str, speed: float) -> np.ndarray:
         if not p.exists():
             sys.exit(f"{sp.name}: reference clip not found: {p}")
         ref = str(p)
+    pieces = [_one(sp, c, ref) for c in chunks(text)]
+    gap = np.zeros(int(TARGET_SR * 0.18), dtype=np.float32)
+    joined = pieces[0] if len(pieces) == 1 else np.concatenate([x for piece in pieces for x in (piece, gap)][:-1])
+    return _speed(joined, speed)
+
+
+def _one(sp, text: str, ref: str) -> np.ndarray:
     w = _worker()
     w.stdin.write(json.dumps({"text": text, "model": sp.model, "ref": ref, "exaggeration": sp.exaggeration, "cfg": sp.cfg}) + "\n")
     w.stdin.flush()
@@ -104,4 +137,4 @@ def synth(cast, sp, text: str, speed: float) -> np.ndarray:
             sys.exit(f"chatterbox: {msg['error']}\n  " + "\n  ".join(msg.get("where", [])))
         x = np.load(msg["path"]).astype(np.float32)
         Path(msg["path"]).unlink(missing_ok=True)
-        return _speed(_resample(x, int(msg["sr"])), speed)
+        return _resample(x, int(msg["sr"]))

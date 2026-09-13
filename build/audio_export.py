@@ -366,7 +366,8 @@ class Cast:
         self.presets = {k: v for k, v in self.raw.items() if not str(k).startswith("_") and isinstance(v, str)}
         pool = self.raw.get("_pool") or DEFAULT_POOL
         self.pool = [v.strip() for v in pool.split(",")] if isinstance(pool, str) else [str(v) for v in pool]
-        self.speakers = {"narrator": self._build("narrator", self.raw.get("narrator", narrator_spec) if narrator_spec == "narrator" else narrator_spec)}
+        # --voice may name a voices.yaml entry (a string or a mapping, e.g. a Chatterbox narrator) or be a bare spec
+        self.speakers = {"narrator": self._build("narrator", self.raw.get(narrator_spec, narrator_spec))}
         self.unassigned: list[str] = []
         self.chatterbox = None
 
@@ -510,7 +511,7 @@ def main() -> int:
         cast = Cast(engine, a.voice)
         samples = render_span(cast, cast.speaker("narrator"), respell(a.say, load_lexicon()), a.speed * cast.speaker("narrator").speed)
         out = Path(a.wav_out); out.parent.mkdir(parents=True, exist_ok=True)
-        sf.write(str(out), samples, SAMPLE_RATE)
+        sf.write(str(out), samples, SAMPLE_RATE, subtype="PCM_16")
         print(f"  {out}: {len(samples)/SAMPLE_RATE:.1f}s, voice {a.voice}")
         return 0
 

@@ -123,16 +123,27 @@ def anchor_embedding(path: str) -> np.ndarray:
     return _anchor_cache[path]
 
 
-def score(x: np.ndarray, sr: int, anchor: str, a_emb: np.ndarray) -> float:
-    """Similarity of a draw to the anchor: speaker-embedding cosine, or for a fragment too short to
-    embed, closeness of median pitch (1.0 = same pitch, 0.5 = 25 % off) — scaled to the same range."""
+_kept: dict[str, list[np.ndarray]] = {}      # context (one scene, one speaker) -> embeddings of the takes kept so far
+
+
+def score(x: np.ndarray, sr: int, anchor: str, a_emb: np.ndarray, context: str = "") -> tuple[float, np.ndarray | None]:
+    """Similarity of a draw to the voice: speaker-embedding cosine to the anchor, averaged with the
+    cosine to the takes already kept in this scene (so the scene stays coherent with itself, not
+    only with the anchor); for a fragment too short to embed, closeness of median pitch instead
+    (1.0 = same pitch, 0.5 = 25 % off)."""
     if len(x) < sr * SHORT_S:
         af = _anchor_f0.get(anchor, 0.0)
         f = median_f0(x, sr)
         if not af or not f:
-            return 0.5
-        return max(0.0, 1.0 - 2.0 * abs(f - af) / af)
-    return float(np.dot(a_emb, embed(x, sr)))
+            return 0.5, None
+        return max(0.0, 1.0 - 2.0 * abs(f - af) / af), None
+    e = embed(x, sr)
+    c = float(np.dot(a_emb, e))
+    kept = _kept.get(context) if context else None
+    if kept:
+        cen = np.mean(kept, axis=0); cen /= (np.linalg.norm(cen) + 1e-9)
+        c = 0.5 * c + 0.5 * float(np.dot(cen, e))
+    return c, e
 
 
 def _draw(text: str, instruct: str, kwargs: dict):
@@ -159,6 +170,7 @@ def generate(req: dict) -> dict:
             if req.get(k) is not None:
                 kwargs[k] = req[k]
     a_emb = anchor_embedding(anchor) if anchor else None
+    context = f"{req.get('context', '')}|{anchor}" if req.get("context") and anchor else ""
     if a_emb is not None:
         good = min(good, _anchor_self.get(anchor, 1.0))    # never demand more than the anchor's lines give each other
     paths, cos_out, tries_out, sr = [], [], [], 24000
@@ -169,12 +181,14 @@ def generate(req: dict) -> dict:
             if req.get("seed") is not None:
                 torch.manual_seed(int(req["seed"]) + 1000 * i + t)
             x, sr = _draw(text, instruct, kwargs)
-            c = score(x, sr, anchor, a_emb) if a_emb is not None else 1.0
+            c, e = score(x, sr, anchor, a_emb, context) if a_emb is not None else (1.0, None)
             if best is None or c > best[1]:
-                best = (x, c, t + 1)
+                best = (x, c, t + 1, e)
             if c >= good:
                 break
-        x, c, used = best
+        x, c, used, e = best
+        if context and e is not None and not exempt[i]:
+            _kept.setdefault(context, []).append(e)
         p = Path(tempfile.gettempdir()) / f"wotr_qwen_{abs(hash(text)) & 0xFFFFFFFF:08x}_{i}.npy"
         np.save(p, x)
         paths.append(str(p)); cos_out.append(c); tries_out.append(used)

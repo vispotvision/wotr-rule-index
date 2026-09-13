@@ -51,6 +51,7 @@ WORKER_LOG = ROOT / "build" / ".qwen_worker.log"
 TARGET_SR = 24000
 _proc: subprocess.Popen | None = None
 REPORT = {"lines": 0, "draws": 0, "low": []}      # filled in as a scene renders; printed by the narrator
+CONTEXT = ""                                       # the scene being rendered; kept takes are scored for coherence within it
 
 FIELDS = ["gender", "pitch", "speed", "volume", "age", "clarity", "fluency", "accent", "texture", "emotion", "tone", "personality"]
 _FIELD_RE = re.compile(r"\b(" + "|".join(FIELDS) + r")\s*:\s*", re.I)
@@ -171,7 +172,8 @@ def synth_lines(sp, texts: list[str], instruct: str, exempt: list[bool]) -> list
     and the draw closest to the anchor is kept."""
     w = _worker()
     req = {"texts": texts, "instruct": instruct, "anchor": _anchor_path(sp), "tries": int(getattr(sp, "tries", 1)),
-           "good_enough": float(getattr(sp, "good_enough", 0.6)), "exempt": exempt, "seed": getattr(sp, "seed", None)}
+           "good_enough": float(getattr(sp, "good_enough", 0.6)), "exempt": exempt, "seed": getattr(sp, "seed", None),
+           "context": CONTEXT}
     for k in ("temperature", "top_k", "top_p", "repetition_penalty", "subtalker_temperature"):
         v = getattr(sp, k, None)
         if v is not None:

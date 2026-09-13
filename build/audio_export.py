@@ -510,12 +510,22 @@ def synth_scene(engine, cast: Cast, blocks, speed: float, lexicon, script=None) 
     return np.concatenate(out) if out else silence(0.1)
 
 
+JOIN_CHARS = 900        # a joined take: about a minute of speech; the fast worker's static cache holds ~170 s
+
+
+def _ends_sentence(t: str) -> str:
+    return t if re.search(r"[.!?…\"'”’)]\s*$", t) else t + "."
+
+
 def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
-    """Qwen draws a new voice per call but keeps one voice within a call, so every Qwen speaker's
-    spans are rendered up front in batches (grouped by delivery, so the brief is identical within
-    a batch) and handed back to synth_scene by (block, span) index. Each span still gets the
-    read-back check and the exact shaping afterwards."""
-    groups: dict[tuple, list] = {}
+    """Qwen draws a fresh voice every call but cannot change voice inside one, so a speaker's
+    consecutive spans (same direction, no cue) are joined into ONE take of up to JOIN_CHARS,
+    spoken once — best-of-N against the anchor, where a minute of audio scores reliably — then cut
+    back into spans by word alignment (build/audio_align.py). A scene of 50 lines becomes a
+    handful of draws, and the voice cannot wander between the lines of a take. Spans with a cue,
+    a whisper, or a different direction get their own take. Results are handed back to
+    synth_scene by (block, span) index, each span shaped afterwards."""
+    rows = []                                          # (bi, i, text, mods, who, clean, instruct, exempt) in scene order
     for bi, (kind, spans) in enumerate(script):
         if kind == "divider":
             continue
@@ -523,28 +533,42 @@ def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
             sp = cast.speaker(who)
             if sp.engine != "qwen":
                 continue
-            groups.setdefault((who, tuple(sorted(mods))), []).append((bi, i, respell(text, lexicon), list(mods)))
-    if not groups:
+            rows.append((bi, i, respell(text, lexicon), list(mods), who))
+    if not rows:
         return {}
     import qwen_backend as Q
-    done = {}
-    for (who, _), items in groups.items():
+    import audio_align
+    # group: a speaker's spans in scene order, same instruct (direction), no exemption, up to JOIN_CHARS per take —
+    # whatever other speakers say in between; each piece goes back to its own place afterwards
+    takes: list[list] = []
+    open_take: dict[tuple, list] = {}
+    for bi, i, text, mods, who in rows:
         sp = cast.speaker(who)
-        # spans sharing brief + direction go to the worker together (one call, many lines, each drawn best-of-N)
-        by_instruct: dict[str, list] = {}
-        for bi, i, text, m in items:
-            instruct, clean, exempt = Q.instruct_for(sp, m, text)
-            by_instruct.setdefault(instruct, []).append((bi, i, text, m, clean, exempt))
-        for instruct, rows in by_instruct.items():
-            for start in range(0, len(rows), max(1, sp.batch)):
-                chunk = rows[start:start + max(1, sp.batch)]
-                takes = Q.synth_lines(sp, [r[4] for r in chunk], instruct, [r[5] for r in chunk])
-                for (bi, i, text, m, clean, _), x in zip(chunk, takes):
-                    sp_speed = speed * sp.speed
-                    for w in m:
-                        sp_speed *= DELIVERY[w][0]
-                    x = read_back(sp, clean, x, lambda t=text, m=m: Q.synth(cast, sp, t, speed, m))
-                    done[(bi, i)] = shape_span(sp, x, sp_speed)
+        instruct, clean, exempt = Q.instruct_for(sp, mods, text)
+        item = (bi, i, text, mods, who, clean, instruct, exempt)
+        key = (who, instruct)
+        cur = None if exempt else open_take.get(key)
+        if cur is not None and sum(len(r[5]) + 1 for r in cur) + len(clean) <= JOIN_CHARS:
+            cur.append(item)
+        else:
+            takes.append([item])
+            if not exempt:
+                open_take[key] = takes[-1]
+    done = {}
+    for take in takes:
+        who, instruct, exempt = take[0][4], take[0][6], take[0][7]
+        sp = cast.speaker(who)
+        texts = [_ends_sentence(r[5]) for r in take]
+        joined = " ".join(texts)
+        x = Q.synth_lines(sp, [joined], instruct, [exempt])[0]
+        x = read_back(sp, joined, x, lambda: Q.synth_lines(sp, [joined], instruct, [exempt])[0])
+        pieces = audio_align.split(x, SAMPLE_RATE, texts) if len(take) > 1 else [x]
+        for (bi, i, text, mods, *_), piece in zip(take, pieces):
+            sp_speed = speed * sp.speed
+            for w in mods:
+                sp_speed *= DELIVERY[w][0]
+            done[(bi, i)] = shape_span(sp, piece, sp_speed)
+    Q.REPORT["takes"] = Q.REPORT.get("takes", 0) + len(takes)
     return done
 
 
@@ -723,6 +747,9 @@ def main() -> int:
         folder.mkdir(parents=True, exist_ok=True)
         words = sum(len(t.split()) for _, t in blocks)
         t0 = time.time()
+        if "qwen_backend" in sys.modules or any(cast_voices.speaker(s).engine == "qwen" for s in (speakers(script) if script else ["narrator"])):
+            import qwen_backend
+            qwen_backend.CONTEXT = key
         samples = synth_scene(engine, cast_voices, blocks, a.speed, lexicon, script)
         path = write_audio(samples, target, mp3=not a.wav)
         manifest[key] = h
@@ -740,7 +767,7 @@ def main() -> int:
     if "qwen_backend" in sys.modules:
         R = sys.modules["qwen_backend"].REPORT
         if R["lines"]:
-            print(f"qwen: {R['lines']} line(s), {R['draws']} draws; {len(R['low'])} below 0.40 similarity to the anchor" + (":" if R["low"] else ""))
+            print(f"qwen: {R.get('takes', R['lines'])} take(s), {R['draws']} draws; {len(R['low'])} below 0.40 similarity to the anchor" + (":" if R["low"] else ""))
             for c, who, text in sorted(R["low"])[:8]:
                 print(f"  {c:.2f} {who}: {text!r}")
     print(f"audio: {written} written, {skipped} unchanged -> {out}")

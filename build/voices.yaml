@@ -112,11 +112,16 @@ narrator-st-f:         # F5 — the only preset that took the giant's laugh clea
   steps: 10
   speed: 0.95
 
-# Qwen narrator — PROVISIONAL (candidate N1 of the 12 Sep audition; swap the brief and the anchor folder when Isaac picks)
+# Qwen narrator — PROVISIONAL: N8, a light American tenor (122 Hz), chosen by measured distance from the leads
+# (0.26 to Darius, 0.25 to Gimbzo; the low male candidates sat at 0.5). Alternative: N7 female alto (0.20 / 0.19).
 narrator-q:
   engine: qwen
   instruct: >-
-    A male narrator in his fifties. Low, warm-dark baritone, dry and unhurried, precise diction, literary audiobook narration;
-    understated, level, a faint gravity, no theatrics. Neutral clear English. Measured pace with natural pauses.
+    gender: Male. pitch: Slightly high male pitch, a light tenor, generally stable with gentle variation.
+    speed: Measured, unhurried narration pace with natural pauses. volume: Conversational, even. age: Young adult, around thirty.
+    clarity: Very high clarity, crisp and distinct pronunciation. fluency: Highly fluent, long flowing sentences.
+    accent: General American English. texture: Light, clean, smooth and clear, bright, no rasp, no gravel.
+    emotion: Calm, composed, quietly attentive. tone: Level, literary, understated, precise.
+    personality: Observant, intelligent, restrained.
   anchor: build/voices/anchors/narrator-q
   tries: 3

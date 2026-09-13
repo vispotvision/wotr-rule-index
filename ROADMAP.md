@@ -151,6 +151,21 @@ than best-of-N can.
 - Three of the four remaining Four Crafts items (R9-1): Law III's rewrite, the golden-age question, the Latinate/vernacular doublet's scope (the Law V gate was ruled: Stage VII, 2026-09-12)
 - Ratification of every proposal Phase A files
 
+## Search by meaning — done 2026-09-13
+
+Isaac asked whether SillyTavern / Serene Pub would help; the one thing they
+would have added is semantic search over the lore, and that belongs in the
+MCP, not in a second front-end (both need an API key WOTR does not have).
+`build/embed_index.py` cuts wiki/ and scenes/ into passages under their
+headings, embeds them with bge-small (ONNX, CPU, no torch; model in
+`build/models/fastembed`), and keeps them by content hash so the hourly sync
+re-embeds only what changed. `wiki` and `scene_recall` now rank by cosine
+spread over the hits plus a keyword share (exact names still win), and show
+the passages that matched. The index is gitignored; `sync.ps1` rebuilds it.
+
+- [x] `build/embed_index.py`, hybrid `wiki` / `scene_recall`, sync step
+- [ ] a `scene_context(draft)` tool: names and places in a draft → the cards and pages they need (the lorebook trick, on demand)
+
 ## Phase F — the Discord bot
 
 Planned 2026-09-13; the plan is `bot/PLAN.md`. A deterministic,

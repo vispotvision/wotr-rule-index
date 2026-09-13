@@ -35,6 +35,13 @@ $code = $LASTEXITCODE
 $out | Select-Object -Last 3 | ForEach-Object { Log "  $_" }
 if ($code -ne 0) { Log "export failed (exit $code)"; exit $code }
 
+# semantic index over wiki/ and scenes/ for the MCP's wiki and scene_recall
+# (build/index/, gitignored; only chunks whose text changed get re-embedded)
+Log "embed start"
+$out = & python build\embed_index.py 2>&1
+$out | Select-Object -Last 1 | ForEach-Object { Log "  $_" }
+if ($LASTEXITCODE -ne 0) { Log "embed failed (exit $LASTEXITCODE)" }
+
 # the other direction: index outputs and scenes that changed in the repo go
 # up to Notion (build/notion_publish.py is idempotent; unchanged files are skipped)
 Log "publish start"

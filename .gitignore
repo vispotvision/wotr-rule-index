@@ -19,3 +19,6 @@ build/voices/refs/.*.json
 build/.qwen_worker.log
 build/.supertonic_worker.log
 build/mcp_test.log
+
+bot/.bot.log
+build/index/

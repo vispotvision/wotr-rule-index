@@ -191,6 +191,15 @@ except, if needed, moving pure helpers the bot shares into `common.py`.
   `closing`.
 - **PC off.** Same trade-off as the audio route. The slash commands stay
   registered; Discord shows "application did not respond". Accepted for v1.
+- **The semantic index.** `/wiki` and `/recall` go through `wiki()` and
+  `scene_recall()`, which since 2026-09-13 rank by meaning as well as by
+  keyword (`build/embed_index.py`, bge-small on the CPU, index in
+  `build/index/`). That module is safe from `to_thread` (one lock around the
+  model and the index), reloads on its own when the hourly sync rebuilds the
+  index, and falls back to the keyword ranker if the index is missing or
+  mid-rebuild. The first search in a fresh process pays ~1 s to load the
+  model; the bot should warm it at startup with a throwaway query. The bot's
+  interpreter needs `fastembed` (in `requirements.txt`).
 - **Rule drift.** A player quoting `/rule` gets the index as of the last
   sync. The embed footer carries the repo commit hash so a quote is datable.
 

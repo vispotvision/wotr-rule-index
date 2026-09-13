@@ -260,19 +260,52 @@ def _snippets(text: str, query: str, n: int = 3, width: int = 220) -> list[str]:
     return out
 
 
+def _hybrid(root: Path, corpus: str, query: str, limit: int = 5) -> list[tuple[int, Path, list[str]]]:
+    """Semantic hits (build/embed_index.py) merged with the keyword ranker: cosine
+    0-1 per file plus a quarter of the normalised keyword score, so a page that
+    carries the exact name still comes first. Falls back to keywords alone when the
+    index is missing or mid-rebuild. Returns (score out of 100, path, snippets)."""
+    kw = _rank(root, query, limit=limit * 2)
+    try:
+        import embed_index as E
+        sem = E.search(query, corpus, limit=limit * 4)
+    except Exception:
+        sem = []
+    if not sem:
+        return [(sc, p, _snippets(low, query)) for sc, p, low in kw]
+    # cosines from bge sit in a narrow band (~0.55-0.70), so spread the returned
+    # hits over 0-1 before adding the keyword share; a keyword-only page starts at 0
+    kw_max = max((sc for sc, _, _ in kw), default=1) or 1
+    top, floor = max(h["score"] for h in sem), min(h["score"] for h in sem)
+    span = (top - floor) or 1e-9
+    merged: dict[Path, dict] = {}
+    for h in sem:
+        merged[ROOT / h["path"]] = {"sem": (h["score"] - floor) / span, "kw": 0.0, "chunks": h["chunks"]}
+    for sc, p, _ in kw:
+        merged.setdefault(p, {"sem": 0.0, "kw": 0.0, "chunks": []})["kw"] = sc / kw_max
+    total = lambda m: m["sem"] + 0.6 * m["kw"]  # noqa: E731
+    ranked = sorted(merged.items(), key=lambda kv: -total(kv[1]))[:limit]
+    out = []
+    for p, m in ranked:
+        snips = [f"[{h}] " + t[:320].replace("\n", " ") + ("..." if len(t) > 320 else "") for h, t, _ in m["chunks"][:2]]
+        if m["kw"]:
+            snips += [x for x in _snippets(_read(p), query, n=2) if not any(x[3:60].lower() in y.lower() for y in snips)]
+        out.append((int(round(100 * total(m) / 1.6)), p, snips))
+    return out
+
+
 @server.tool()
 def wiki(query: str, full: bool = True) -> str:
-    """Search the wiki mirror (381 pages) by keywords. Returns the best matches with
-    snippets, and the full text of the top page (capped) when full=True. Faster than
-    Notion; up to an hour behind it."""
-    hits = _rank(WIKI, query)
+    """Search the wiki mirror (381 pages) by meaning and by keyword. Returns the best
+    matches with the passages that matched, and the full text of the top page (capped)
+    when full=True. Faster than Notion; up to an hour behind it."""
+    hits = _hybrid(WIKI, "wiki", query)
     if not hits:
         return f"nothing in the wiki mirror matches '{query}'"
     out = []
-    for score, p, _ in hits:
+    for score, p, snips in hits:
         rel = p.relative_to(WIKI).as_posix()
-        text = _read(p)
-        out.append(f"## {p.stem}  ({rel}, score {score})\n" + "\n".join(_snippets(text, query)))
+        out.append(f"## {p.stem}  ({rel}, score {score})\n" + "\n".join(snips))
     if full:
         top = _read(hits[0][1])
         out.append(f"\n---- full text of {hits[0][1].stem} ----\n" + top[:14000] + ("\n...[truncated]" if len(top) > 14000 else ""))
@@ -339,15 +372,16 @@ def fow_line(name: str) -> str:
 @server.tool()
 def scene_recall(query: str) -> str:
     """Search the scene archive (scenes/) for continuity: who said what, what happened
-    where. Returns the best-matching scenes with snippets around the matches."""
-    hits = _rank(SCENES, query, limit=4)
+    where. Matches by meaning as well as by keyword, so describe the moment in your
+    own words. Returns the best-matching scenes with the passages that matched."""
+    hits = _hybrid(SCENES, "scenes", query, limit=4)
     if not hits:
         return f"no scene matches '{query}'"
     out = []
-    for score, p, _ in hits:
+    for score, p, snips in hits:
         text = _read(p)
         title = re.search(r"(?m)^#\s+(.+)$", text)
-        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score})\n" + "\n".join(_snippets(text, query, n=4, width=400)))
+        out.append(f"## {title.group(1) if title else p.stem}  ({p.name}, score {score})\n" + "\n".join(snips))
     return "\n\n".join(out)
 
 

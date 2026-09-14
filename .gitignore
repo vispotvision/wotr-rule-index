@@ -32,3 +32,6 @@ build/backup.log
 vault/
 build/nightly.log
 build/book_dispatch.log
+build/.jobs_token
+build/.jobs/
+build/.jobs_server.log

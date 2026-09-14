@@ -1,0 +1,109 @@
+{
+  "name": "WOTR nightly",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            { "field": "cronExpression", "expression": "30 3 * * *" }
+          ]
+        }
+      },
+      "id": "trigger-0330",
+      "name": "03:30 every night",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [-200, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:8799/run/nightly",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{}",
+        "options": { "timeout": 30000 }
+      },
+      "id": "run-nightly",
+      "name": "Run the nightly",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [40, 300],
+      "notes": "Starts build/nightly.ps1 on the Windows host and returns a job_id at once. Credential: Header Auth named X-Job-Token, value from build/.jobs_token."
+    },
+    {
+      "parameters": { "amount": 4, "unit": "minutes" },
+      "id": "wait",
+      "name": "Give it four minutes",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [260, 300],
+      "webhookId": "wotr-nightly-wait"
+    },
+    {
+      "parameters": {
+        "url": "=http://host.docker.internal:8799/status/{{ $('Run the nightly').item.json.job_id }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": { "timeout": 30000 }
+      },
+      "id": "status",
+      "name": "How did it go",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [480, 300]
+    },
+    {
+      "parameters": {
+        "url": "http://host.docker.internal:8799/digest",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": { "response": { "response": { "responseFormat": "text" } }, "timeout": 30000 }
+      },
+      "id": "digest",
+      "name": "Fetch the digest",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [700, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "// Keep the parts worth reading on a phone: the Overnight note, the Numbers,\n// anything archived, the Judger queue and the book. Discord caps a message at 2000.\nconst md = $input.first().json.data || $input.first().json.body || '';\nconst want = ['Overnight', 'Numbers', 'Scenes archived since the last run', 'Judger queue', 'The book'];\nconst out = [];\nlet keep = false;\nfor (const line of String(md).split('\\n')) {\n  if (line.startsWith('# ')) { out.push('**' + line.slice(2).trim() + '**'); continue; }\n  if (line.startsWith('## ')) { keep = want.some(w => line.slice(3).startsWith(w)); if (keep) out.push('__' + line.slice(3).trim() + '__'); continue; }\n  if (keep) out.push(line);\n}\nlet text = out.join('\\n').replace(/\\n{3,}/g, '\\n\\n').trim();\nif (text.length > 1900) text = text.slice(0, 1900) + '\\n...(reports/nightly.md has the rest)';\nconst status = $('How did it go').item.json;\nif (status.state !== 'done') text = '(the nightly ended ' + status.state + ', exit ' + status.exit_code + ')\\n\\n' + text;\nreturn [{ json: { content: text, state: status.state } }];"
+      },
+      "id": "shape",
+      "name": "Shape it for reading",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [920, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "PASTE_YOUR_DISCORD_WEBHOOK_URL",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({ content: $json.content }) }}",
+        "options": { "timeout": 30000 }
+      },
+      "id": "deliver",
+      "name": "Send it to Isaac",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1140, 300],
+      "disabled": true,
+      "notes": "Paste a Discord channel webhook URL (Channel -> Edit -> Integrations -> Webhooks), then enable this node. Swap it for the Gmail or Telegram node if you would rather have it there."
+    }
+  ],
+  "connections": {
+    "03:30 every night": { "main": [[{ "node": "Run the nightly", "type": "main", "index": 0 }]] },
+    "Run the nightly": { "main": [[{ "node": "Give it four minutes", "type": "main", "index": 0 }]] },
+    "Give it four minutes": { "main": [[{ "node": "How did it go", "type": "main", "index": 0 }]] },
+    "How did it go": { "main": [[{ "node": "Fetch the digest", "type": "main", "index": 0 }]] },
+    "Fetch the digest": { "main": [[{ "node": "Shape it for reading", "type": "main", "index": 0 }]] },
+    "Shape it for reading": { "main": [[{ "node": "Send it to Isaac", "type": "main", "index": 0 }]] }
+  },
+  "settings": { "executionOrder": "v1" },
+  "pinData": {}
+}

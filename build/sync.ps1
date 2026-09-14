@@ -60,6 +60,9 @@ try {
     Log "embed failed: $($_.Exception.Message) (python at $python)"
 }
 
+# the Obsidian view (vault/, gitignored): the mirror with [[wikilinks]] injected
+try { & $python build\vault_export.py 2>&1 | Select-Object -Last 1 | ForEach-Object { Log "  $_" } } catch { Log "vault failed: $($_.Exception.Message)" }
+
 # the other direction: index outputs and scenes that changed in the repo go
 # up to Notion (build/notion_publish.py is idempotent; unchanged files are skipped)
 Log "publish start"

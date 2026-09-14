@@ -28,3 +28,5 @@ build/index/
 bot/queue/*.gather.md
 bot/queue/*.propose.json
 bot/.bot.log
+build/backup.log
+vault/

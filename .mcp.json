@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wotr": {
+      "command": "${HOME}/.venvs/wotr/bin/python",
+      "args": ["build/mcp_server.py"]
+    }
+  }
+}

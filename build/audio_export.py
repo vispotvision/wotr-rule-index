@@ -5,7 +5,7 @@
   python build/audio_export.py --fetch-model --pack zh  # the v1.1-zh pack too: 100 Mandarin voices + af_maple, af_sol, bf_vale (~380 MB)
   python build/audio_export.py --list-voices            # the voices the model carries
   python build/audio_export.py --scene 02_verinus_testament_of_the_sixty_fifth.md --voice af_heart
-  python build/audio_export.py --out "G:/My Drive/War of the Realms — Documents/Arcs/Audio" --max-minutes 20
+  python build/audio_export.py --out "$WOTR_DRIVE/War of the Realms — Documents/Arcs/Audio" --max-minutes 20   # the Drive mount; docs/audio when there is none
 
 One MP3 per scene, grouped by arc (scenes/ARCS.md order), skipping scenes whose
 text, voice and lexicon are unchanged since the last run (.manifest.json in the
@@ -13,8 +13,9 @@ output folder). The author-facing notes block at the foot of a scene is never
 read. Names the engine would mangle are respelled from build/pronounce.json
 before synthesis — add to it whenever a name comes out wrong.
 
-Engine: kokoro-onnx (Kokoro 82M, Apache-2.0 weights) on the CPU by default; with
-onnxruntime-directml installed in place of onnxruntime it runs on the AMD card.
+Engine: kokoro-onnx (Kokoro 82M, Apache-2.0 weights) on the CPU by default (the
+extras are requirements-audio.txt); a ROCm build of onnxruntime in place of
+onnxruntime would put it on the AMD card, untested here.
 
 Voices, --voice:
   af_heart                        one of the model's 54 built-in voices (--list-voices)

@@ -30,12 +30,14 @@ actor. A clip of a real person you did not get permission from is for personal
 audiobooks and stories only — never published, never on a shared link or the
 wiki (Isaac's rule).
 
-The model runs in its own interpreter, build/.venv-chatterbox (its pinned
-PyTorch stack stays out of the MCP server's), through build/chatterbox_worker.py.
-On this PC that is the CPU unless a ROCm or DirectML torch is installed in that
-venv (the RX 9070 XT has no CUDA), so it is several times slower than Kokoro —
-use it for the voices that matter and leave narration to Kokoro. Weights
-(~1 GB) come from the Hugging Face hub on first use. Setup: build/chatterbox_setup.ps1.
+The model runs in its own interpreter (its pinned PyTorch stack stays out of
+the MCP server's), through build/chatterbox_worker.py. Two venvs under
+WOTR_VENVS (common.venv_python; was C:\\venvs and build/.venv-chatterbox):
+wotr-cb-gpu carries AMD's ROCm torch for the RX 9070 XT (no CUDA) and is
+preferred when it exists; wotr-cb is the CPU copy, several times slower than
+Kokoro — use it for the voices that matter and leave narration to Kokoro.
+Weights (~1 GB) come from the Hugging Face hub on first use. Setup:
+build/chatterbox_gpu_setup.sh (the card) or build/chatterbox_setup.sh (CPU).
 """
 from __future__ import annotations
 
@@ -47,9 +49,11 @@ from pathlib import Path
 
 import numpy as np
 
-ROOT = Path(__file__).resolve().parent.parent
-VENV_GPU = Path(r"C:\venvs\wotr-cb-gpu") / "Scripts" / "python.exe"   # AMD ROCm torch (build/chatterbox_gpu_setup.ps1; short path on purpose)
-VENV_CPU = ROOT / "build" / ".venv-chatterbox" / "Scripts" / "python.exe"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import ROOT, venv_python  # noqa: E402
+
+VENV_GPU = venv_python("cb-gpu")   # AMD ROCm torch (build/chatterbox_gpu_setup.sh)
+VENV_CPU = venv_python("cb")       # CPU torch (build/chatterbox_setup.sh; was build/.venv-chatterbox)
 VENV_PY = VENV_GPU if VENV_GPU.exists() else VENV_CPU
 WORKER = ROOT / "build" / "chatterbox_worker.py"
 WORKER_LOG = ROOT / "build" / ".chatterbox_worker.log"   # the worker's stderr: model chatter, and the reason if it dies
@@ -61,7 +65,7 @@ def _worker() -> subprocess.Popen:
     global _proc
     if _proc is None or _proc.poll() is not None:
         if not VENV_PY.exists():
-            sys.exit("Chatterbox is not set up: run build/chatterbox_setup.ps1 (CPU) or build/chatterbox_gpu_setup.ps1 (the 9070 XT)")
+            sys.exit("Chatterbox is not set up: run build/chatterbox_setup.sh (CPU) or build/chatterbox_gpu_setup.sh (the 9070 XT)")
         log = open(WORKER_LOG, "a", encoding="utf-8")
         log.write(f"\n=== worker start {VENV_PY}\n"); log.flush()
         _proc = subprocess.Popen([str(VENV_PY), str(WORKER)], cwd=ROOT, stdin=subprocess.PIPE, stdout=subprocess.PIPE,

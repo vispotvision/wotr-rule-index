@@ -6,6 +6,86 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-14 (the Linux port)
+
+**The machine.** Windows was wiped overnight for Omarchy (Arch Linux, Hyprland,
+systemd 261); the box is still `Ultron`, the user is `oridon`, the repo is
+`~/wotr-rule-index`, and everything that lived outside it on Windows is in
+`~/wotr-vault` (private repo: `true-canon/` is the old `WOTR True Canon` folder,
+`claude/memory/` the old memory, `omarchy/CHECKLIST.md` the plan this session
+carried out). Isaac's checklist step 11 was the brief: scripts to shell, tasks to
+timers, `C:\` and `G:\` to config.
+
+**What replaced what.** One interpreter, `~/.venvs/wotr/bin/python` (3.14; was
+the Store 3.13). One config file, `~/.config/wotr/env` (mode 600; template
+`build/wotr.env.example`; fill it with `bash build/secrets.sh`, never by pasting
+into a chat) holding the three secrets and the paths — read by `build/env.sh`
+(every shell script sources it), `common.load_env()` (every tool; the `winreg`
+lookups are gone) and the units (`EnvironmentFile=`). Thirteen `.ps1` files
+became `.sh` (same names, same logs, same commit messages, same exit codes) and
+the five Windows tasks became systemd *user* units in `build/systemd/`,
+installed by `build/systemd_setup.sh`: `wotr-sync.timer` (hourly, now with an
+flock so a manual `sync_now` and the timer cannot overlap), `wotr-nightly.timer`
+(03:30), `wotr-book.timer` (02:00), `wotr-backup.timer` (Sun 03:00), and the
+daemons `wotr-jobs` (127.0.0.1:8799), `wotr-mcp-public` (8765), `wotr-bot`.
+Linger is on, so they run without a desktop login. Logs: `journalctl --user -u
+wotr-<name>` plus the scripts' own files. `bash build/setup_linux.sh` rebuilds
+all of it on a fresh machine. The MCP reaches Claude Code through `.mcp.json`
+(project-scoped; approve it once) and Claude Desktop through
+`build/install_mcp.sh` (run with the app closed). n8n's compose is
+`n8n/docker-compose.yml`, host networking, so it reaches the job runner at
+`127.0.0.1:8799`. The TTS venvs are `~/.venvs/wotr-<engine>` and their five
+`.sh` setups are untested ports (the narration freeze stands). Backups land in
+`~/wotr-backups` until Drive is mounted (rclone; `WOTR_DRIVE`).
+
+**Proven live on 09-14.** The nightly fired as a unit at 03:30 (the timer is
+`Persistent=true` and caught up the slot the moment it was installed): checks,
+headless Claude note, commit, push — `cfccaa5`. The bot is online
+(`WOTR Bot#7139`) and came back on its own after a reboot; the job runner
+answers `/health` and ran `book_dry` through n8n's route; the public MCP
+answers on 8765 behind its new secret; the first sync with the new Notion
+secret read 586 pages, all unchanged, and built the semantic index (11,092
+chunks, 9 min once); the first backup zip is 23.7 MB with True Canon inside.
+The port went through a 172-agent workflow: seven porters, a static battery, a
+live integration run, five skeptics, two refuters per finding, per-unit fixes,
+a re-check, a docs sweep (76 findings, 8 refuted, the rest fixed or handed to
+this note).
+
+**The secrets.** None were copied off Windows; all three were reissued tonight
+(Discord reset, Notion refreshed; ElevenLabs still empty). Two pastes landed in
+the chat and one at the shell prompt — the chat ones were reset again, the
+shell one left a stray line in the env file that systemd echoed into the
+journal 26 times; the line is gone, the journal purge and an optional third
+Discord reset are on Isaac's list below.
+
+**Not yet on Linux.** Tailscale is up but this node is `ultron-1` (the dead
+Windows node holds `ultron`) and Funnel needs the operator flag — so the
+public URL is not published; Docker's group is not joined, so n8n is not
+running; Ollama and rclone are not installed; Claude Desktop has no `WOTR MCP`
+entry yet. Each is one sudo line, listed under "Owed by Isaac".
+
+## Owed by Isaac (do not decide these) — added 2026-09-14
+- `sudo journalctl --rotate && sudo journalctl --vacuum-time=1s` (the stray
+  token line in the journal); a third Discord token reset afterwards is
+  optional (`bash build/secrets.sh DISCORD_TOKEN`).
+- Tailscale: delete the offline Windows node `ultron` in the admin console,
+  then `sudo tailscale set --hostname=ultron --operator=oridon`; then
+  `bash build/mcp_public_setup.sh` publishes the MCP and prints the URL; put it
+  in `WOTR_MCP_PUBLIC_URL` and restart `wotr-mcp-public`.
+- Docker: `sudo usermod -aG docker oridon && sudo systemctl enable --now docker`,
+  log out and in, then `cd n8n && docker compose up -d`; in n8n paste
+  `build/.jobs_token` as the `WOTR jobs` Header Auth credential and import
+  `n8n/WOTR_nightly.json`. If that workflow is activated, `systemctl --user
+  disable --now wotr-nightly.timer` so nothing runs twice.
+- Claude Desktop: quit it, `bash build/install_mcp.sh`, reopen.
+- Ollama: `sudo pacman -S ollama-rocm && sudo systemctl enable --now ollama`.
+- Drive, if wanted: rclone (`rclone config`, a remote `gdrive`, a mount), then
+  `WOTR_DRIVE=` in the env file.
+- The GPU engines, when the freeze lifts: `sudo usermod -aG render,video oridon`.
+- Everything the 09-13 list below still owes (the Four Crafts items, Darius's
+  card, the 43 Judger proposals, chapter 1's gate — `python build/book_next.py
+  --approve 1` or `--reject 1 --note "..."`).
+
 ## State on 2026-09-13 (night)
 
 **Rules and canon.** validate.py PASS. Docket empty; open conflicts: none

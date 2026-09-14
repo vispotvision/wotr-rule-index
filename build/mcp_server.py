@@ -7,7 +7,8 @@
                                        #   Authorization: Bearer <token>, or the path /t/<token>/mcp
                                        #   (for Claude custom connectors, which cannot send headers).
                                        #   The token is WOTR_MCP_TOKEN or build/.mcp_token. This is
-                                       #   what build/mcp_public_setup.ps1 runs behind Tailscale Funnel.
+                                       #   what the wotr-mcp-public unit (build/mcp_public_setup.sh)
+                                       #   runs behind Tailscale Funnel.
 
 Tools
   load_rules(tags, status)   the live loadout for a task, same output as build/query.py
@@ -18,13 +19,13 @@ Tools
                              Notion Scene Archive, one commit, pushed
   log_ruling(rule_id, ruling)      record a ruling in RULINGS.md so it gets applied
                              to the index next time Claude Code is in the repo
-  sync_now()                 run build/sync.ps1 (Notion <-> GitHub <-> Drive docs)
+  sync_now()                 run build/sync.sh (Notion <-> GitHub <-> Drive docs)
   narrate_scene(scene, voice)      render a scene to MP3 with the local Kokoro narrator
   narration_status()         jobs and links; in --public mode the MP3s are served at
                              /t/<token>/audio/... so a phone can play them while the PC is on
 
-NOTION_TOKEN is read from the environment, falling back to the user-level
-variable in the registry (Claude Desktop may have been started before it was set).
+NOTION_TOKEN is read from the environment, falling back to ~/.config/wotr/env
+(common.load_env() at import; Claude Desktop launches this with no shell profile).
 """
 import argparse
 from collections import Counter
@@ -38,7 +39,7 @@ from datetime import date, datetime
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
-from common import ROOT, load_rules, load_vocab  # noqa: E402
+from common import ROOT, TRUE_CANON, drive_dir, load_rules, load_vocab  # noqa: E402
 from mcp.server.mcpserver import MCPServer  # noqa: E402
 
 PY = sys.executable
@@ -47,22 +48,45 @@ RULINGS = ROOT / "RULINGS.md"
 
 
 def _env() -> dict:
+    # NOTION_TOKEN and friends are already here: common.load_env() read ~/.config/wotr/env at import
     env = dict(os.environ)
-    if not env.get("NOTION_TOKEN") and sys.platform == "win32":
-        try:
-            import winreg
-            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
-                env["NOTION_TOKEN"] = winreg.QueryValueEx(k, "NOTION_TOKEN")[0]
-        except OSError:
-            pass
     env["PYTHONIOENCODING"] = "utf-8"
     return env
 
 
 def _run(cmd: list[str], timeout: int = 600) -> tuple[int, str]:
-    p = subprocess.run(cmd, cwd=ROOT, env=_env(), capture_output=True, text=True,
-                       encoding="utf-8", errors="replace", timeout=timeout)
-    return p.returncode, (p.stdout + p.stderr).strip()
+    # The child gets a session of its own so a timeout can kill the whole tree. subprocess.run's
+    # timeout kills only the bash it started; a python step left running under sync.sh kept the
+    # sync lock (build/.sync.lock, inherited on fd 9) until it finished, and every hourly run in
+    # between logged "another sync is running; skipped" and exited 0. Raises TimeoutExpired like
+    # subprocess.run did, once the group is gone.
+    p = subprocess.Popen(cmd, cwd=ROOT, env=_env(), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+                         text=True, encoding="utf-8", errors="replace", start_new_session=True)
+    try:
+        out, err = p.communicate(timeout=timeout)
+    except subprocess.TimeoutExpired:
+        _kill_group(p)
+        raise
+    return p.returncode, (out + err).strip()
+
+
+def _kill_group(p: subprocess.Popen) -> None:
+    """SIGTERM the child's whole process group (it is its own session leader), SIGKILL what
+    is still there ten seconds later, reap the child and close its pipes."""
+    import signal
+    for sig, grace in ((signal.SIGTERM, 10), (signal.SIGKILL, 5)):
+        try:
+            os.killpg(p.pid, sig)
+        except ProcessLookupError:
+            break
+        try:
+            p.wait(timeout=grace)
+            break
+        except subprocess.TimeoutExpired:
+            continue
+    for pipe in (p.stdout, p.stderr):
+        if pipe:
+            pipe.close()
 
 
 def _git(*args: str) -> tuple[int, str]:
@@ -202,10 +226,9 @@ def log_ruling(rule_id: str, ruling: str, context: str = "") -> str:
 
 @server.tool()
 def sync_now() -> str:
-    """Run build/sync.ps1: Notion wiki -> repo, repo -> Notion, Drive documents, commit, push.
+    """Run build/sync.sh: Notion wiki -> repo, repo -> Notion, Drive documents, commit, push.
     Takes a minute or two."""
-    code, out = _run(["powershell", "-NoProfile", "-ExecutionPolicy", "Bypass", "-File",
-                      str(ROOT / "build" / "sync.ps1")], timeout=900)
+    code, out = _run(["bash", str(ROOT / "build" / "sync.sh")], timeout=900)
     return out[-2000:] or f"exit {code}"
 
 
@@ -444,7 +467,7 @@ LOADOUTS = {
 
 
 def _overnight() -> str:
-    """The head of reports/nightly.md (build/nightly.ps1, 03:30) while it is fresh:
+    """The head of reports/nightly.md (build/nightly.sh, 03:30) while it is fresh:
     the Overnight note, the numbers, and anything archived or waiting for Isaac."""
     p = ROOT / "reports" / "nightly.md"
     if not p.exists():
@@ -742,7 +765,7 @@ def cast_index(write: bool = True) -> str:
 # --------------------------------------------------------------------------
 # characters: create and update cards in Notion + the mirror; convert old material
 
-CANON = Path(r"C:\Users\isaac\Documents\WOTR True Canon")
+CANON = TRUE_CANON  # WOTR_TRUE_CANON in ~/.config/wotr/env (was Documents\WOTR True Canon)
 FOW_XLSX = CANON / "FOW_Stat_and_Magic_System_Codex.xlsx"
 WIKI_MANIFEST = WIKI / ".manifest.json"
 SHEET_SECTIONS = [
@@ -1292,10 +1315,8 @@ _WORDS_PER_SECOND = 18.0                    # measured: 3,359 words in 184 s on 
 
 
 def _audio_dir() -> Path:
-    drive = Path(r"G:\My Drive\War of the Realms — Documents\Arcs\Audio")
-    if Path(r"G:\My Drive").exists():
-        return drive
-    return ROOT / "docs" / "audio"
+    # the Drive folder when WOTR_DRIVE is set and mounted (rclone), else the repo's docs/audio
+    return drive_dir("War of the Realms — Documents", "Arcs", "Audio") or ROOT / "docs" / "audio"
 
 
 def _scene_files() -> list[tuple[Path, str]]:
@@ -1488,7 +1509,7 @@ def narration_status(job: str = "") -> str:
 
 # Tools that only read the repo (rules, the wiki mirror, scenes, the table). Every tool
 # not named here writes: scenes/, RULINGS.md, proposals/, table/*.yaml, reports/,
-# Notion pages, git commits and pushes, or runs build/sync.ps1. narrate_scene writes
+# Notion pages, git commits and pushes, or runs build/sync.sh. narrate_scene writes
 # only audio files (and burns CPU on this PC), so it is allowed through.
 READ_ONLY_TOOLS = {
     "load_rules", "rule", "check_docket", "list_conflicts",
@@ -1599,13 +1620,20 @@ def main() -> int:
     ap.add_argument("--public", action="store_true", help="shorthand for --http --read-only --token")
     ap.add_argument("--base-url", default=os.environ.get("WOTR_MCP_PUBLIC_URL", "https://ultron.tailf1bfa3.ts.net"),
                     help="where this server is reachable from outside (the Funnel hostname); used to build audio links")
-    ap.add_argument("--log", help="append stdout/stderr to this file (for the scheduled task)")
+    ap.add_argument("--log", help="append stdout/stderr to this file (for the wotr-mcp-public unit)")
     args = ap.parse_args()
     if args.public:
         args.http = args.read_only = args.token = True
     if args.log:
+        import logging
         f = open(args.log, "a", encoding="utf-8", buffering=1)
         sys.stdout = sys.stderr = f
+        # the SDK configured logging when `server` was built, and its StreamHandler holds the
+        # stderr of that moment; repoint it or the mcp package's own lines land in the journal
+        # while uvicorn's and the gate's go to the file
+        for h in logging.getLogger().handlers:
+            if isinstance(h, logging.StreamHandler):
+                h.setStream(f)
     if args.read_only:
         removed = restrict_to_read_only()
         print(f"read-only: {len(removed)} writing tools hidden ({', '.join(sorted(removed))})", flush=True)
@@ -1615,17 +1643,19 @@ def main() -> int:
         server.run()
         return 0
     if not args.token:
-        # Loopback only, but the n8n container reaches it as host.docker.internal, which the
-        # SDK's Host-header check would otherwise answer with 421 "Invalid Host header".
+        # Loopback only. n8n's container runs with network_mode: host, so it arrives as
+        # 127.0.0.1 like any local client and the SDK's Host-header check lets it through
+        # (was a host.docker.internal entry here, the Docker Desktop hop, which that check
+        # answered with 421 "Invalid Host header" until it was listed).
         from mcp.server.transport_security import TransportSecuritySettings
-        loopback = ["127.0.0.1:*", "localhost:*", "[::1]:*", "host.docker.internal:*"]
+        loopback = ["127.0.0.1:*", "localhost:*", "[::1]:*"]
         security = TransportSecuritySettings(enable_dns_rebinding_protection=True, allowed_hosts=loopback,
                                              allowed_origins=[f"http://{h}" for h in loopback])
         server.run(transport="streamable-http", host="127.0.0.1", port=args.port, transport_security=security)
         return 0
     token = shared_token()
     if len(token) < 16:
-        print("no shared secret: set WOTR_MCP_TOKEN or write build/.mcp_token (run build/mcp_public_setup.ps1)",
+        print("no shared secret: set WOTR_MCP_TOKEN or write build/.mcp_token (run build/mcp_public_setup.sh)",
               file=sys.stderr, flush=True)
         return 2
     PUBLIC["base"], PUBLIC["token"] = args.base_url.rstrip("/"), token

@@ -1,4 +1,4 @@
-"""Fun-CosyVoice 3 in its own interpreter (C:\\venvs\\wotr-cosy), driven over stdin/stdout.
+"""Fun-CosyVoice 3 in its own interpreter (<WOTR_VENVS>/wotr-cosy; was C:\\venvs), driven over stdin/stdout.
 
 The READER of the design-then-clone chain: Qwen VoiceDesign makes a voice once; this clones that
 designed take (`ref` wav + its transcript) for every line, with an instruct per line for
@@ -14,8 +14,12 @@ one JSON object per line on stdout:
 
 Zero-shot (no instruct) uses inference_zero_shot with the reference transcript prefixed by the
 CosyVoice 3 system prompt; an instruct uses inference_instruct2 ("You are a helpful assistant.
-<instruct><|endofprompt|>"). Card caveats as elsewhere: discrete GPU by name, MIOpen off.
-Setup: build/cosyvoice_setup.ps1.
+<instruct><|endofprompt|>"). Card caveats as elsewhere: discrete GPU by name, MIOpen off (the
+cudnn switch was for the Windows build; on Linux MIOpen works, but it stays off until measured).
+Setup: build/cosyvoice_setup.sh, which clones the repo under <venv>/src/CosyVoice. Nothing launches
+this worker yet (no cosy backend module): run it by hand with the venv's python. The clone's path
+comes from common.venv_python("cosy"), so build/common.py is imported here — it needs pyyaml,
+which CosyVoice's own requirements (omegaconf, HyperPyYAML) already bring into the venv.
 """
 import json
 import sys
@@ -24,7 +28,10 @@ from pathlib import Path
 
 import numpy as np
 
-SRC = Path(r"C:\venvs\wotr-cosy\src\CosyVoice")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import venv_python  # noqa: E402
+
+SRC = venv_python("cosy").parent.parent / "src" / "CosyVoice"     # <WOTR_VENVS>/wotr-cosy/src/CosyVoice
 MODEL_DIR = SRC / "pretrained_models" / "Fun-CosyVoice3-0.5B"
 OUT = sys.stdout
 _model = None

@@ -1,0 +1,21 @@
+# wotr-backup.service — was the scheduled task "WOTR weekly backup" (Sunday 03:00,
+# ExecutionTimeLimit one hour).
+#
+# Weekly backup of the canon (build/backup.py): one zip of wiki/, scenes/, table/,
+# rules/, sources/, proposals/, reports/, the top-level ledgers and the WOTR True Canon
+# folder — the one store that is in no git repository — keeping the last twelve. To
+# Google Drive when WOTR_DRIVE is mounted, else to WOTR_BACKUP_DIR. build/backup.sh does
+# the work; wotr-backup.timer says when.
+#
+# Logs: journalctl --user -u wotr-backup, and the script's own build/backup.log.
+
+[Unit]
+Description=WOTR weekly backup: the canon zipped, last twelve kept
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/backup.sh
+TimeoutStartSec=1h

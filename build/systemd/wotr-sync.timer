@@ -1,0 +1,15 @@
+# wotr-sync.timer — was the hourly trigger of the scheduled task "WOTR wiki sync"
+# (RepetitionInterval one hour, from logon). Fires wotr-sync.service on the hour.
+#
+#   systemctl --user list-timers wotr-sync.timer     # next and last run
+#   systemctl --user start wotr-sync.service         # a run now, outside the hour
+#   systemctl --user disable --now wotr-sync.timer   # stop the hourly run
+
+[Unit]
+Description=WOTR wiki sync, hourly
+
+[Timer]
+OnCalendar=hourly
+
+[Install]
+WantedBy=timers.target

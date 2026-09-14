@@ -10,7 +10,7 @@
         voice_id: <voice_id>
         stability: 0.5  similarity: 0.75  style: 0.0  speed: 1.0
 
-The key is ELEVENLABS_API_KEY (a user environment variable; never in a file in the repo).
+The key is ELEVENLABS_API_KEY (in the environment or ~/.config/wotr/env; never in a file in the repo).
 Output is PCM at the narrator's 24 kHz so it splices with the local engines. Every call
 costs characters on the ElevenLabs plan; `chars()` says how many a text will cost.
 """
@@ -20,8 +20,12 @@ import sys
 import time
 import urllib.error
 import urllib.request
+from pathlib import Path
 
 import numpy as np
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import load_env  # noqa: E402  (reads ~/.config/wotr/env into the environment at import)
 
 API = "https://api.elevenlabs.io/v1"
 SAMPLE_RATE = 24000
@@ -31,15 +35,11 @@ CHUNK = 4500  # characters per request; the API caps a request at 5,000 for mult
 
 def api_key() -> str:
     k = os.environ.get("ELEVENLABS_API_KEY", "").strip()
-    if not k and sys.platform == "win32":
-        try:
-            import winreg
-            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as reg:
-                k = str(winreg.QueryValueEx(reg, "ELEVENLABS_API_KEY")[0]).strip()
-        except OSError:
-            pass
     if not k:
-        sys.exit("ELEVENLABS_API_KEY is not set (user environment variable); the ElevenLabs engine cannot run.")
+        load_env()  # the key may have been pasted into ~/.config/wotr/env after this process started
+        k = os.environ.get("ELEVENLABS_API_KEY", "").strip()
+    if not k:
+        sys.exit("ELEVENLABS_API_KEY is not set (see ~/.config/wotr/env); the ElevenLabs engine cannot run.")
     return k
 
 

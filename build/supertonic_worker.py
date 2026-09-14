@@ -1,4 +1,4 @@
-"""Supertonic 3 in its own interpreter (C:\\venvs\\wotr-supertonic), driven over stdin/stdout.
+"""Supertonic 3 in its own interpreter (<WOTR_VENVS>/wotr-supertonic; was C:\\venvs), driven over stdin/stdout.
 
 Same line protocol as build/chatterbox_worker.py, so build/supertonic_backend.py is a near copy:
 
@@ -15,7 +15,7 @@ ten preset voices, and it performs <laugh> <breath> <sigh> written in the text. 
 project was archived by Supertone on 9 Sep 2026 (weights and code stay available under
 the supertone-oss-archive namespace; the `supertonic` pip package still downloads them).
 
-Setup: build/supertonic_setup.ps1. Run this file by hand to see load errors.
+Setup: build/supertonic_setup.sh. Run this file by hand with the venv's python to see load errors.
 """
 import json
 import sys

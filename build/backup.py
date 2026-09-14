@@ -1,22 +1,30 @@
 #!/usr/bin/env python3
-"""Weekly backup of the canon to Google Drive: one zip of wiki/, scenes/, table/, rules/,
-sources/, proposals/, reports/, the top-level ledgers and the WOTR True Canon folder
-(the base guides and their dated editions, which live in no git repository) into
-  G:\\My Drive\\War of the Realms — Backups\\wotr-<date>.zip
+"""Weekly backup of the canon: one zip of wiki/, scenes/, table/, rules/, sources/,
+proposals/, reports/, the top-level ledgers and the WOTR True Canon folder (the base
+guides and their dated editions, which live in no git repository) into
+  <WOTR_DRIVE>/War of the Realms — Backups/wotr-<date>.zip   when Drive is mounted,
+  <WOTR_BACKUP_DIR>/wotr-<date>.zip                           otherwise (~/wotr-backups),
 keeping the last twelve. A file another process holds open is skipped and named in the log.
-Run by build/backup.ps1 (the scheduled task "WOTR weekly backup", Sunday 03:00)."""
+Both paths come from ~/.config/wotr/env (build/wotr.env.example).
+Run by build/backup.sh (the systemd user timer wotr-backup.timer, Sunday 03:00)."""
 import sys
 import zipfile
 from datetime import datetime
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent.parent
-DEST = Path(r"G:\My Drive\War of the Realms — Backups")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+import common  # noqa: E402
+
+ROOT = common.ROOT
+# Drive when it is mounted (was G:\My Drive\War of the Realms — Backups); the local
+# backup directory otherwise — on Linux the backup always happens, Drive or not
+DRIVE_DEST = common.drive_dir("War of the Realms — Backups")
+DEST = DRIVE_DEST or common.BACKUP_DIR
 ITEMS = ["wiki", "scenes", "table", "rules", "sources", "proposals", "reports", "docs", "RULINGS.md", "CONFLICTS.md", "ROADMAP.md", "CONTINUE.md", "README.md"]
 # outside the repo and in no git history: the base craft guides and their dated
-# editions. Drive for Desktop mirrors that folder, but a mirror carries a rollback
-# with it (it has, once); these zips are the versions.
-EXTRA = [Path(r"C:\Users\isaac\Documents\WOTR True Canon")]
+# editions (WOTR_TRUE_CANON; was Documents\WOTR True Canon). A Drive mirror of that
+# folder carries a rollback with it (it has, once); these zips are the versions.
+EXTRA = [common.TRUE_CANON]
 KEEP = 12
 LOG = ROOT / "build" / "backup.log"
 
@@ -29,9 +37,8 @@ def log(msg: str) -> None:
 
 
 def main() -> int:
-    if not DEST.parent.exists():
-        log("G:\\My Drive not mounted; skipped")
-        return 0
+    if DRIVE_DEST is None:
+        log(f"Drive not mounted; writing to {DEST}")
     DEST.mkdir(parents=True, exist_ok=True)
     out = DEST / f"wotr-{datetime.now():%Y-%m-%d}.zip"
     skipped, n = [], 0

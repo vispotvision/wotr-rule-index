@@ -1,4 +1,5 @@
-"""Chatterbox in its own interpreter (build/.venv-chatterbox), driven over stdin/stdout.
+"""Chatterbox in its own interpreter (<WOTR_VENVS>/wotr-cb-gpu or wotr-cb; was C:\\venvs and
+build/.venv-chatterbox), driven over stdin/stdout.
 
 chatterbox-tts pins torch 2.6, transformers 5.2, gradio 6.8 and friends, which
 do not belong in the interpreter that runs the MCP server and Kokoro, so it
@@ -19,7 +20,9 @@ Two models, both from Resemble AI (MIT):
             and cfg (lower = looser, more emotional pacing) knobs. Slower.
 Both design a voice from a reference clip (audio_prompt_path) or use a built-in one.
 
-Setup: build/chatterbox_setup.ps1. Run this file by hand to see load errors.
+Setup: build/chatterbox_gpu_setup.sh (the card) or build/chatterbox_setup.sh (CPU). Run this
+file by hand with the venv's python to see load errors. The cudnn switch below was for the
+Windows build of AMD's torch; on Linux MIOpen works, but it stays off until measured.
 """
 import json
 import sys

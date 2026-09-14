@@ -45,7 +45,8 @@ are made, not left pending.
 ## Folding packs into base guides — eleven done, 2026-09-12
 
 Isaac: "yes — start folding the packs in now." 18 base guides live at
-`C:\Users\isaac\Documents\WOTR True Canon\`; each amendment rule names its
+`C:\Users\isaac\Documents\WOTR True Canon\` (now `~/wotr-vault/true-canon`;
+`WOTR_TRUE_CANON`); each amendment rule names its
 target guide in its `amends.guide` field. Eleven guides are done -- each
 got a new dated edition alongside the original (never overwritten), with a
 changelog listing every rule ID folded in and any judgment call flagged
@@ -83,7 +84,7 @@ scene (`scenes/cast/<scene>.cast.md`, speaker tags on the scene's own text,
 validated word for word) gives characters and registers their own voices
 from `build/voices.yaml`, with delivery words per line (slow, quiet, beat…)
 and Chatterbox Turbo cues ([sigh], [laugh]…) for speakers on that engine.
-Chatterbox (its own venv, `build/chatterbox_setup.ps1`) is the expressive
+Chatterbox (its own venv, `build/chatterbox_setup.sh`) is the expressive
 engine: Turbo for cues and speed, standard for the exaggeration knob, both
 able to design a voice from a reference clip. The MCP has `scene_text` →
 `cast_scene` → `narrate_scene` → `narration_status`, and the public server
@@ -93,7 +94,7 @@ whole archive (a workflow: one agent per scene tags speakers, a checker
 validates); a voice per named character in `voices.yaml`; RVC as a third
 stage for community-made voices (needs a DirectML/ROCm torch on the 9070
 XT); the multilingual Chatterbox checkpoint (already downloaded) for the
-Latin lines. Chatterbox now runs on the 9070 XT (`build/chatterbox_gpu_setup.ps1`)
+Latin lines. Chatterbox now runs on the 9070 XT (`build/chatterbox_gpu_setup.sh`)
 with a Whisper read-back on every span.
 **Casting rule (Isaac, after the first multi-voice render):** a voice is chosen
 from the character's card and the prose — size, age, how the text says they
@@ -130,12 +131,15 @@ the decision; this is the state. Qwen is locked: since `6caf56c` every
 `engine: qwen` speaker falls back to its `fallback:` entry or a pool voice
 unless `--qwen` is passed on the command line, and `narrate_scene` never
 passes it — the design engine still drifts between takes. What is installed:
-Kokoro (CPU, `build/models/`), Chatterbox on the GPU (`C:\venvs\wotr-cb-gpu`)
-and a CPU copy (`build/.venv-chatterbox`, superseded by the GPU one),
-Supertonic 3 (`C:\venvs\wotr-supertonic`), Qwen in two venvs
-(`C:\venvs\wotr-qwen`, `wotr-qwen-fast`), CosyVoice in flight
-(`C:\venvs\wotr-cosy`, `build/cosy_worker.py`, uncommitted) and an ElevenLabs
+Kokoro (CPU, `build/models/`), Chatterbox on the GPU (`~/.venvs/wotr-cb-gpu`)
+and a CPU copy (`~/.venvs/wotr-cb`, superseded by the GPU one),
+Supertonic 3 (`~/.venvs/wotr-supertonic`), Qwen in two venvs
+(`~/.venvs/wotr-qwen`, `wotr-qwen-fast`), CosyVoice in flight
+(`~/.venvs/wotr-cosy`, `build/cosy_worker.py`) and an ElevenLabs
 path in the narrator for a paid voice. Six engines, six venvs, one writer.
+(Those are the Linux paths, `<WOTR_VENVS>/wotr-<name>`; the venvs themselves
+were built on the Windows machine and none has been rebuilt here yet — the
+`.sh` setups are untested ports, see Linux below.)
 **The freeze:** nothing new on the voice roadmap until one engine-agnostic
 gate is passed — *Gimbzo holds one voice across three consecutive scene
 renders* (same pitch floor, same register, by ear and by `voice_shape.py`'s
@@ -189,7 +193,7 @@ headings, embeds them with bge-small (ONNX, CPU, no torch; model in
 `build/models/fastembed`), and keeps them by content hash so the hourly sync
 re-embeds only what changed. `wiki` and `scene_recall` now rank by cosine
 spread over the hits plus a keyword share (exact names still win), and show
-the passages that matched. The index is gitignored; `sync.ps1` rebuilds it.
+the passages that matched. The index is gitignored; `sync.sh` rebuilds it.
 
 - [x] `build/embed_index.py`, hybrid `wiki` / `scene_recall`, sync step
 - [x] `scene_context(draft)`: the lorebook — every name in a draft to its card or page, the prior scenes on the same ground, struck Büri terms, names with no page (`build/lorebook.py`; `build/aliases.yaml` maps archive names to card titles — Darius is Ignatius's card, and the card should carry that name)
@@ -197,8 +201,8 @@ the passages that matched. The index is gitignored; `sync.ps1` rebuilds it.
 
 ## The nightly — done 2026-09-13
 
-What n8n was for, without the key. The scheduled task `WOTR nightly` (03:30)
-runs `build/nightly.ps1`: `build/nightly.py` (validate, resolve, the three
+What n8n was for, without the key. The systemd user timer `wotr-nightly.timer`
+(03:30) runs `build/nightly.sh`: `build/nightly.py` (validate, resolve, the three
 archive audits, the Büri sweep; every finding hashed by file, check and text
 against `build/.nightly_state.json` so `reports/nightly.md` says NEW /
 CLEARED / STILL OPEN; the scenes archived since the last run, each a
@@ -208,16 +212,43 @@ note at the top (`build/nightly_prompt.md`; tools locked to reading, the
 read-only CLI, and editing the digest itself — it can decide nothing), then
 the digest and the audit reports are committed and pushed. `session_start`
 shows the note while it is under 36 hours old. The Claude step needs the
-CLI signed in once (`claude /login`, Isaac's hands); until then the numbers
-run alone, and `WOTR_NIGHTLY_NO_CLAUDE=1` turns the step off on purpose.
+CLI signed in (`claude /login`; it is, and the first Linux nightly wrote its
+note on 2026-09-14); without it the numbers run alone, and
+`WOTR_NIGHTLY_NO_CLAUDE=1` in `~/.config/wotr/env` turns the step off on
+purpose. The 2 h limit is a `timeout` around the CLI inside the script.
 
-- [x] `build/nightly.py`, `build/nightly.ps1`, the task, the OVERNIGHT block in `session_start`
-- [x] the book dispatcher (ideas I29): `WOTR book` (02:00) runs `build/book_dispatch.ps1` -> `build/book_next.py` says what the book needs -> Claude Code headless invokes the `book-chapter` workflow for one chapter -> the chapter is committed under `book/`. Gates: the first three chapters, then every fifth, and the last (`build/book_next.py --approve N` / `--reject N --note "..."`); a written, undecided gate chapter blocks the dispatcher, and nothing is archived until Isaac calls `archive_scene`. The 03:30 digest reports where the book stands.
+- [x] `build/nightly.py`, `build/nightly.sh`, the `wotr-nightly` unit, the OVERNIGHT block in `session_start`
+- [x] the book dispatcher (ideas I29): `wotr-book.timer` (02:00) runs `build/book_dispatch.sh` -> `build/book_next.py` says what the book needs -> Claude Code headless invokes the `book-chapter` workflow for one chapter -> the chapter is committed under `book/`. Gates: the first three chapters, then every fifth, and the last (`build/book_next.py --approve N` / `--reject N --note "..."`); a written, undecided gate chapter blocks the dispatcher, and nothing is archived until Isaac calls `archive_scene`. The 03:30 digest reports where the book stands.
 - [ ] the bot posts `bot/queue/*.judger.json` as approve cards in `#judger` (PLAN.md 9.3), and `/scene save` kicks off `/judger` in the background
-- [x] n8n as the orchestrator (2026-09-14): `build/jobs_server.py` on 127.0.0.1:8799, the logon task `WOTR jobs` (`build/jobs_setup.ps1`) — a fixed list of named jobs (nightly, book, book_dry, sync, backup, checks) behind a shared secret in `build/.jobs_token`, never a command and never a prompt. n8n cannot call Claude (no key) and cannot run anything on this machine (Linux container, no repo mount), so n8n orchestrates and the host executes; Docker Desktop lets the container reach the host loopback as host.docker.internal, verified from inside it. `n8n/WOTR_nightly.json` is the first workflow (run the nightly, wait, fetch the digest, send it on) and `n8n/README.md` is the wiring.
+- [x] n8n as the orchestrator (2026-09-14): `build/jobs_server.py` on 127.0.0.1:8799, the systemd user unit `wotr-jobs.service` (`build/systemd_setup.sh`) — a fixed list of named jobs (nightly, book, book_dry, sync, backup, checks) behind a shared secret in `build/.jobs_token`, never a command and never a prompt. n8n cannot call Claude (no key) and cannot run anything on this machine (a container, no repo mount), so n8n orchestrates and the host executes; the container shares the host network (`n8n/docker-compose.yml`, `network_mode: host`) and reaches the runner at `127.0.0.1:8799` (was Docker Desktop's loopback bridge, verified there; the Linux hop waits on the docker group). `n8n/WOTR_nightly.json` is the first workflow (run the nightly, wait, fetch the digest, send it on) and `n8n/README.md` is the wiring. If the workflow is activated, `systemctl --user disable --now wotr-nightly.timer` so nothing runs twice.
 - [ ] the book gate from the phone: n8n posts the gate digest to Discord and the reply drives `book_next.py --approve N`
-- [ ] Ollama (host:11434, six models) for the cheap mechanical passes — speaker tags, tell-bank scans — checked by the deterministic tools before anything counts
+- [ ] Ollama (`127.0.0.1:11434`, once `ollama-rocm` is installed here; the six models were on the old machine) for the cheap mechanical passes — speaker tags, tell-bank scans — checked by the deterministic tools before anything counts
 - [ ] a weekly drift report: what moved in the wiki and the archive this week, what contradicts, what is stale
+
+## Linux — 2026-09-14
+
+Ultron moved from Windows 11 to Arch (Omarchy) overnight and the tooling moved
+with it; nothing in the index, the table or the archive changed. What the port
+replaced:
+
+- [x] bash for every script (was PowerShell), through one prelude, `build/env.sh`: `build/sync.sh`, `build/nightly.sh`, `build/book_dispatch.sh`, `build/backup.sh`, `build/mcp_public_setup.sh`, `build/install_mcp.sh`, `build/systemd_setup.sh`, `build/setup_linux.sh`, `bot/run.sh`; same logs, same exit codes, same commit messages with the `.sh` name
+- [x] seven systemd user units (was seven scheduled tasks) in `build/systemd/`, installed by `build/systemd_setup.sh`: `wotr-sync.timer` (hourly), `wotr-nightly.timer` (03:30), `wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00), `wotr-jobs.service`, `wotr-mcp-public.service`, `wotr-bot.service`; linger on, so they run without a desktop session; `journalctl --user -u wotr-<name>` beside each script's own log
+- [x] the hard-coded paths and the registry token → one file, `~/.config/wotr/env` (template `build/wotr.env.example`), read the same way by the units, `build/env.sh` and `build/common.py`
+- [x] the interpreter → `~/.venvs/wotr` (Python 3.14; `requirements.txt`, with `requirements-audio.txt` for the narration extras, not installed)
+- [x] the MCP registration → `build/install_mcp.sh` (Claude Desktop) and `.mcp.json` (Claude Code, the project-scoped `wotr` server)
+- [x] n8n's compose → `n8n/docker-compose.yml`, one service on the host network
+- [x] Drive → `WOTR_DRIVE` when an rclone mount exists, local folders otherwise; the weekly backup always runs (the first Linux zip landed in `~/wotr-backups` on 2026-09-14)
+- [x] verified live on 2026-09-14: the job runner, the public server on loopback, the dry-run dispatcher (blocked at chapter 1's gate), the backup, the first nightly under `wotr-nightly.timer` (note written, pushed)
+
+Waits on Isaac's hands (sudo, a secret, a login):
+
+- [ ] secrets in `~/.config/wotr/env` (`bash build/secrets.sh`, a hidden prompt): `NOTION_TOKEN` and `DISCORD_TOKEN` went in on 09-14 (the Discord token then needs a reset and the journal a purge after the mis-paste that day — CONTINUE.md); `ELEVENLABS_API_KEY` and `HF_TOKEN` when wanted; `WOTR_MCP_PUBLIC_URL` once the funnel is up
+- [ ] docker: `sudo usermod -aG docker oridon`, re-login, `cd n8n && docker compose up -d`, then the `WOTR jobs` credential and the workflow import (`n8n/README.md`)
+- [ ] tailscale: `sudo tailscale set --operator=oridon` once, then `bash build/mcp_public_setup.sh` opens the funnel and prints the URL (this node is `ultron-1` while the retired Windows node still holds `ultron`: remove that node and rename, or set `WOTR_MCP_PUBLIC_URL` to match)
+- [ ] `ollama-rocm` for the cheap passes: `sudo pacman -S ollama-rocm; sudo systemctl enable --now ollama`
+- [ ] rclone for Drive: `rclone config`, a mount, `WOTR_DRIVE=<mount>` in the env file; the next sync writes the documents there and the next backup lands under it
+- [ ] the engine venvs from their `.sh` setups (`chatterbox_gpu_setup.sh`, `qwen_tts_setup.sh`, `supertonic_setup.sh`, `cosyvoice_setup.sh`; `sudo usermod -aG render,video oridon` first), still behind the narration freeze above
+- [ ] Claude Desktop: quit it, `bash build/install_mcp.sh`, start it again
 
 ## Phase F — the Discord bot
 
@@ -226,7 +257,7 @@ role-gated bot for the players' server, running on Isaac's PC beside WOTR MCP
 and importing its tools directly. No dice in canon channels: Table Rule 5
 adjudicates stat-by-stat and every outcome traces to a table row.
 
-- [x] F0 — landed 2026-09-13 (420ad8a) as the players' set: `/wiki`, `/define`, `/character`, `/fow`, `/recall`, `/timeline`, `/name`, `/stats`, `/narrate`; the rule/docket/conflict commands were dropped on Isaac's call (the Judger's desk, not the players'). Runs from `bot/run.ps1`; the logon task is not yet registered
+- [x] F0 — landed 2026-09-13 (420ad8a) as the players' set: `/wiki`, `/define`, `/character`, `/fow`, `/recall`, `/timeline`, `/name`, `/stats`, `/narrate`; the rule/docket/conflict commands were dropped on Isaac's call (the Judger's desk, not the players'). Runs from `bot/run.sh` as the `wotr-bot.service` unit (installed 2026-09-14; `Restart=on-failure`, and with `DISCORD_TOKEN` empty it exits quietly)
 - [ ] F1 — table state: `/fronts`, `/due`, `/ledger`, `/roster`, `/npc`; Judger writes (`/advance`, `/front`, `/ledger add|collect`, `/npc set`, `/menu`); player `/ledger propose` into the Judger queue
 - [ ] F2 — scene play: forum per thread, `/bind`, `/scene open|verify|close|archive|text`; transcript → `scenes/<slug>.md` + cast file
 - [ ] F3 — mechanics and audio: `/compare`, `/adjudicate` (Table Rule 5 card, no verdict), `/narrate`, `/ruling`, `/propose`; `/roll` off by default, `ooc` only

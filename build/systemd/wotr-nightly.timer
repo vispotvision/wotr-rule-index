@@ -1,0 +1,17 @@
+# wotr-nightly.timer — was the daily 03:30 trigger of the scheduled task "WOTR nightly".
+# Persistent=true is the old task's StartWhenAvailable: a night the machine slept
+# through is run at the next start instead of skipped.
+#
+#   systemctl --user list-timers wotr-nightly.timer
+#   systemctl --user start wotr-nightly.service        # a run now
+#   systemctl --user disable --now wotr-nightly.timer  # when n8n owns the nightly
+
+[Unit]
+Description=WOTR nightly, daily at 03:30
+
+[Timer]
+OnCalendar=*-*-* 03:30:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

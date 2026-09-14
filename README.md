@@ -14,12 +14,49 @@ require anyone to remember which pack it lived in.
 3. `schema/pack_structure.md` — how the three families of pack are laid out.
 4. `rules/pack-15-fifteen.yaml` — a real worked example against real source text.
 
+On Linux (Ultron, since 2026-09-14; the Windows years are history):
+
 ```
-pip install -r requirements.txt
-cd build && python3 validate.py    # PASS on the example as shipped
-python3 resolve.py
-python3 query.py --applies-to combat adjudication --format full
+bash build/setup_linux.sh        # once: ~/.venvs/wotr + requirements.txt, ~/.config/wotr/env from
+                                 # build/wotr.env.example (mode 600), then the systemd user units
+bash build/secrets.sh            # paste NOTION_TOKEN, DISCORD_TOKEN, ELEVENLABS_API_KEY at a hidden prompt
+                                 # (never into a chat or a commit); the paths in the file are Ultron's already
+python build/validate.py         # PASS on the example as shipped
+python build/resolve.py
+python build/query.py --applies-to combat adjudication --format full
 ```
+
+`python` is `~/.venvs/wotr/bin/python` (never the system one). Every shell
+script sources `build/env.sh`, which reads `~/.config/wotr/env`, puts that venv
+first on PATH and finds the Claude Code CLI, so a bare `python` inside anything
+a script starts is the same interpreter; the Python tools read the same file
+through `build/common.py`. The env file is the one place secrets and
+machine paths live — never in a chat, a commit or a unit file; `build/secrets.sh`
+writes a secret into it without echoing it and offers the bot restart.
+
+Everything scheduled is a systemd **user** unit (never cron). The eleven
+files are in `build/systemd/`; `bash build/systemd_setup.sh` installs them
+under `~/.config/systemd/user/` (`--status` lists them, `--remove` takes them
+out). Four timers — `wotr-sync.timer` (hourly), `wotr-nightly.timer` (03:30),
+`wotr-book.timer` (02:00), `wotr-backup.timer` (Sunday 03:00) — and three
+long-running services: `wotr-jobs.service` (the job runner for n8n,
+127.0.0.1:8799), `wotr-mcp-public.service` (the shared read-only MCP on 8765;
+enabled by `build/mcp_public_setup.sh`, not by the installer, so it never
+starts without its secret) and `wotr-bot.service` (the Discord bot). Each
+unit runs `bash build/<script>.sh` (or `bot/run.sh`) with the env file loaded.
+Logs: `journalctl --user -u wotr-<name>` for the unit's view (start, exit
+code, stderr) plus each script's own file — `build/sync.log`,
+`build/nightly.log`, `build/book_dispatch.log`, `build/backup.log`,
+`build/.jobs_server.log`, `build/mcp_public.log`, `bot/.bot.log`, all
+gitignored. The installer turns on `loginctl enable-linger`, so the units run
+whenever the machine is up, desktop session or not.
+
+Google Drive is not mounted unless you mount it: the Drive exports (the Word
+documents, the arc epubs, the narration MP3s) and the weekly backup go under
+`WOTR_DRIVE` when an rclone mount is configured there, and to local folders
+otherwise — the sync skips the documents and says so, `docs_export.py` by
+hand writes to `docs/`, narration to `docs/audio/`, the backup to
+`WOTR_BACKUP_DIR` (`~/wotr-backups`).
 
 ## Layout
 
@@ -66,18 +103,19 @@ exporter skips those pages so nothing is mirrored twice.
 
 `build/docs_export.py` turns all of it into Word documents, one per wiki section
 plus The Scene Archive and The Rule Index, each with a title page and contents;
-written into the Google Drive folder *War of the Realms — Documents* (via Drive
-for Desktop at `G:\My Drive`) so they open in Google Docs. Only documents whose
-source changed are rewritten.
+written into the Google Drive folder *War of the Realms — Documents* (under the
+`WOTR_DRIVE` mount; `docs/` when there is none) so they open in Google Docs. Only
+documents whose source changed are rewritten.
 
 `build/arcs_export.py` compiles the scene archive in the order of `scenes/ARCS.md`
 into one Word document and one epub per arc, plus a complete epub, in the Drive
 folder's `Arcs/` subfolder.
 
 `build/audio_export.py` narrates the scene archive with Kokoro (an 82M-parameter
-open text-to-speech model, run locally with kokoro-onnx — CPU by default, the AMD
-card if `onnxruntime-directml` is installed): one MP3 per scene in `ARCS.md`
-order, into the Drive folder's `Arcs/Audio/`, skipping scenes whose text and
+open text-to-speech model, run locally with kokoro-onnx — on the CPU; the extras
+are `requirements-audio.txt`, and a ROCm build of onnxruntime would put it on the
+card, untested): one MP3 per scene in `ARCS.md` order, into the Drive folder's
+`Arcs/Audio/` (`docs/audio/` without Drive), skipping scenes whose text and
 voice have not changed. The author-notes block at the foot of a scene is never
 read. `build/pronounce.json` respells names the engine gets wrong;
 `build/voices.yaml` names voices (`narrator: af_heart`, blends like
@@ -93,22 +131,27 @@ in the line (`[sigh]`, `[laugh]`, `[chuckle]`, `[gasp]`, `[cough]`, `[clear
 throat]`, `[breath]`). The tags are the only thing a cast file may add: it is validated
 word for word against the scene. Each speaker's voice is a `voices.yaml`
 entry — a Kokoro voice with a habitual `speed` and `gain`, or
-`engine: chatterbox` (`build/chatterbox_setup.ps1` makes its venv; Turbo for
+`engine: chatterbox` (`build/chatterbox_setup.sh` makes its venv; Turbo for
 cues and speed, `model: standard` for the `exaggeration` / `cfg` knobs; either
 can design a voice from a short `ref:` clip). Speakers nobody has assigned get
 a stable pick from `_pool`. Fight passages: tag them `[narrator: urgent]` or
 give the narrator a Chatterbox register (`narrator-combat`, a reference clip
 made from the narrator's own Kokoro voice) so the narration performs them.
 
-Chatterbox on the RX 9070 XT: `build/chatterbox_gpu_setup.ps1` builds a second
-venv at `C:\venvs\wotr-cb-gpu` (a short path on purpose — AMD's torch wheel
-ships licence files nested past Windows' 260-character limit and dies half-way
-under the repo path) with AMD's native ROCm 10 PyTorch for Windows; the
-backend prefers it when it exists. Two things the worker does for that
-preview: it picks the discrete card by name (ROCm lists the 7800X3D's
-integrated GPU first) and turns MIOpen off, because MIOpen's run-time kernel
-compiler can't find the C++ standard headers on Windows (`miopenStatusUnknownError`);
-PyTorch's own kernels run the model at ~1.5× real time, against ~1× on the CPU.
+Chatterbox on the RX 9070 XT: `build/chatterbox_gpu_setup.sh` builds a second
+venv at `~/.venvs/wotr-cb-gpu` (every engine venv is `<WOTR_VENVS>/wotr-<name>`,
+resolved by `common.venv_python`; each is built on a mise-installed Python 3.12,
+because the pinned stacks predate 3.14) with AMD's ROCm 10 PyTorch; the backend
+prefers it when it exists. Two things the worker does: it picks the discrete
+card by name (ROCm lists the 7800X3D's integrated GPU first) and turns MIOpen
+off — that was for AMD's Windows build, whose run-time kernel compiler could
+not find the C++ headers; on Linux MIOpen works, but the switch stays until it
+is measured. PyTorch's own kernels ran the model at ~1.5× real time, against
+~1× on the CPU. The card needs the user in the `render` and `video` groups.
+None of the engine venvs has been rebuilt on Linux yet: the five setup scripts
+(`chatterbox_setup.sh`, `chatterbox_gpu_setup.sh`, `qwen_tts_setup.sh`,
+`supertonic_setup.sh`, `cosyvoice_setup.sh`) are untested ports, held behind
+the narration freeze (ROADMAP). Remove an engine with `rm -rf ~/.venvs/wotr-<name>`.
 
 **The character engine is `engine: qwen`** — Qwen3-TTS-1.7B-VoiceDesign (Alibaba,
 Apache-2.0), pure voice design: every line of a character is generated from a
@@ -129,9 +172,9 @@ character's **anchor** — the take Isaac approved, `build/voices/anchors/<Name>
 with the pass mark calibrated from the anchor's own line-to-line consistency.
 Exact pace, pitch, body size and intonation range are then applied by
 `build/voice_shape.py` (Praat), since the model has no such knobs. It runs in
-`C:\venvs\wotr-qwen-fast` through `faster-qwen3-tts` (static KV cache + HIP
+`~/.venvs/wotr-qwen-fast` through `faster-qwen3-tts` (static KV cache + HIP
 graphs: 2.4–2.8× real time per draw on the 9070 XT, against 0.5× plain);
-`build/qwen_tts_setup.ps1` builds both venvs. A scene's Qwen spans are
+`build/qwen_tts_setup.sh` builds both venvs. A scene's Qwen spans are
 rendered in a pre-pass grouped by speaker and direction, and the render
 prints how many draws were spent and which lines stayed far from the anchor.
 `--first N` renders an audition cut of a scene.
@@ -144,7 +187,7 @@ and performs `[laugh]` `[sigh]` `[breath]`. It has ten fixed preset voices
 make a new one — Supertone's Voice Builder closed on 31 Aug 2026 and the
 project was archived on 9 Sep 2026, so it is the fast tier for narration and
 the wider cast, not for the leads whose voices are cast from the card.
-`build/supertonic_setup.ps1` makes its venv (`C:\venvs\wotr-supertonic`);
+`build/supertonic_setup.sh` makes its venv (`~/.venvs/wotr-supertonic`);
 `--voice narrator-st` renders a scene on it; the audition of all ten presets
 is in `build/voices/bakeoff/supertonic3/`.
 
@@ -162,14 +205,19 @@ python build/audio_export.py --list-voices
 python build/audio_export.py --dry-run --plain --scene <scene>.md > tag-me.md   # then add [Name] tags, save as scenes/cast/<scene>.cast.md
 python build/audio_export.py --check-cast --scene <scene>.md
 python build/audio_export.py --scene 02_verinus_testament_of_the_sixty_fifth.md --voice narrator
-python build/audio_export.py --out "G:/My Drive/War of the Realms — Documents/Arcs/Audio" --max-minutes 20
+python build/audio_export.py --out "$WOTR_DRIVE/War of the Realms — Documents/Arcs/Audio" --max-minutes 20
 ```
 
-`build/sync.ps1` wraps all of it: export, publish, docs, arcs, then commit and
-push if anything changed. Natalie archives each finished scene as a page under the wiki's Scene
-Archive section at session end, so running the sync (by hand, or hourly via the
-scheduled task described at the top of the script) is what lands new scenes in
-`wiki/The Scene Archive/`.
+`build/sync.sh` wraps all of it: export, the embedding index, the Obsidian
+vault, publish, docs, arcs, then commit and push if anything changed (the
+commit says `via build/sync.sh`). Natalie archives each finished scene as a
+page under the wiki's Scene Archive section at session end, so running the
+sync (`bash build/sync.sh` by hand, or hourly from `wotr-sync.timer`) is what
+lands new scenes in `wiki/The Scene Archive/`. Its log is `build/sync.log`; it
+exits 1 when `NOTION_TOKEN` is empty or the push fails. Two runs never
+overlap: it holds `build/.sync.lock`, and a second one logs "another sync is
+running; skipped" and exits 0. The Word documents and arcs run only when
+`WOTR_DRIVE` names a mounted folder; otherwise the log says `docs skipped`.
 
 ```
 python build/notion_export.py            # incremental
@@ -180,7 +228,16 @@ python build/notion_export.py --dry-run  # show what would change
 ## WOTR MCP
 
 `build/mcp_server.py` exposes the repo to Claude Desktop as a local connector
-named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
+named **WOTR MCP**, over stdio, with `~/.venvs/wotr/bin/python`. Registering
+it: with Claude Desktop closed, `bash build/install_mcp.sh` patches
+`~/.config/Claude/claude_desktop_config.json` (the previous file is kept as
+`.bak`; `--dry-run` prints the JSON it would write, `--force` patches while
+the app runs, which the app may undo on quit), then start the app from the
+launcher. Claude Code sessions in this repo get the same server from the
+project-scoped `.mcp.json` at the repo root (server name `wotr`); a fresh
+session asks once to approve it. The server reads `NOTION_TOKEN` and the
+paths from `~/.config/wotr/env` itself, so neither registration carries a
+secret. Tools:
 
 | tool | does |
 |---|---|
@@ -203,10 +260,11 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `prose_pass()`, `recurrence_report()`, `reconcile()`, `timeline()`, `pack_impact(text)` | archive-wide audits from `build/audit.py`, written to `reports/` |
 | `scene_text(scene)`, `cast_scene(scene, script)` | the scene's narration text to tag with `[Name]` speaker tags, and the tagged script saved as its cast file (refused if a word changed) |
 | `narrate_scene(scene, voice)`, `narration_status()` | render a scene to MP3 with the local narrator (`build/audio_export.py`) in the background — every tagged speaker in their own voice when a cast file exists; status lists jobs and the link to play each rendered scene |
-| `sync_now()` | runs `build/sync.ps1` |
+| `sync_now()` | runs `build/sync.sh` |
 
 `--http` serves the same tools over streamable HTTP on :8765 (kept for any local
-MCP client on this machine; nothing uses it today).
+MCP client on this machine, loopback only — the n8n container shares the host
+network, so it would reach it at `127.0.0.1`; nothing uses it today).
 `build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
 ### Sharing it with friends
@@ -226,23 +284,34 @@ supported, so a phone's player can seek): ask Claude on your phone to narrate a
 scene, wait the few minutes, ask for the status, tap the link. Works whenever
 the PC is on. The server's own log redacts the secret from every request line.
 
-`build/mcp_public_setup.ps1` does the whole thing on this PC: writes the secret
-to `build/.mcp_token` (gitignored), registers the scheduled task **WOTR MCP
-public** (starts at logon, hidden, restarts itself, logs to
-`build/mcp_public.log`), and publishes it with `tailscale funnel --bg 8765`, so
-it is reachable at `https://ultron.tailf1bfa3.ts.net/` while the PC is on and
-logged in. It prints the URL to hand out:
+`bash build/mcp_public_setup.sh` does the whole thing on this machine,
+idempotently: writes the secret to `build/.mcp_token` (gitignored, mode 600) if
+it is missing, installs and enables the systemd user unit
+**wotr-mcp-public.service** (from `build/systemd/`; restarts on failure, logs
+to `build/mcp_public.log`, `journalctl --user -u wotr-mcp-public` for the
+unit's view), waits for 127.0.0.1:8765 to listen, and publishes it with
+`tailscale funnel --bg 8765`, so it is reachable at
+`https://ultron.tailf1bfa3.ts.net/` whenever the machine is up. It prints the
+URL to hand out:
 
 - Claude Desktop / claude.ai → Settings → Connectors → Add custom connector:
   `https://ultron.tailf1bfa3.ts.net/t/<secret>/mcp`
 - Claude Code: `claude mcp add --transport http wotr https://ultron.tailf1bfa3.ts.net/mcp --header "Authorization: Bearer <secret>"`
 
-Rotate the secret by deleting `build/.mcp_token`, re-running the script and
-restarting the task; everyone then needs the new URL. Turn it off with
-`tailscale funnel --https=443 off` and `Unregister-ScheduledTask -TaskName "WOTR MCP public"`.
-Funnel needs to be enabled once for the tailnet (the first `tailscale funnel`
-prints the link); the `WOTR MCP` connector in Claude Desktop on this PC still
-runs over stdio with every tool, unaffected.
+The hostname in those lines is whatever Tailscale calls this machine; the
+script reads the real one from `tailscale status` and prints that. Set
+`WOTR_MCP_PUBLIC_URL` in `~/.config/wotr/env` to the same `https://<host>` so
+the narration audio links agree (the script reminds you when they differ).
+Rotate the secret by deleting `build/.mcp_token` and re-running the script in
+the same breath (it writes a new one and restarts the unit); everyone then
+needs the new URL. Turn it off with `bash build/mcp_public_setup.sh --off`,
+which is `tailscale funnel --https=443 off` plus `systemctl --user disable
+--now wotr-mcp-public.service`. Tailscale needs to be installed, logged in and
+allowed to be driven by this user (`sudo tailscale set --operator=$USER`,
+once), and Funnel enabled once for the tailnet (the first `tailscale funnel`
+prints the link); without Tailscale the script still brings the unit up on
+loopback and exits 0, to be re-run later. The `WOTR MCP` connector in Claude
+Desktop on this machine still runs over stdio with every tool, unaffected.
 
 ## The book pipeline, without n8n
 
@@ -256,7 +325,17 @@ Nothing is archived by the workflow; on approval, `archive_scene` files the
 chapter as a scene. Book state lives in `book/<slug>/` (`outline.json`,
 `bible.md`, `state.json`, one folder per chapter with every round's draft and
 findings). `build/book_tools.py` is the MCP's read-only tool set as a command
-line for the workflow's agents.
+line for the workflow's agents. Unattended, `build/book_dispatch.sh` (the
+`wotr-book.timer`, 02:00; log `build/book_dispatch.log`) writes one chapter a
+night through the same workflow: `build/book_next.py` decides, headless Claude
+Code runs it under a 5 h `timeout`, the chapter is committed under `book/`.
+A written, undecided gate chapter blocks it (`python build/book_next.py
+--approve N` / `--reject N --note "..."`); `WOTR_BOOK_OFF=1` in the env file
+turns it off; `--dry-run` says what it would do. Its sibling
+`build/nightly.sh` (`wotr-nightly.timer`, 03:30; log `build/nightly.log`) runs
+the checks, writes the "Overnight" note with a 2 h `timeout` on the CLI
+(`WOTR_NIGHTLY_NO_CLAUDE=1` for the numbers only) and commits
+`reports/nightly.md`.
 
 ## What this feeds
 

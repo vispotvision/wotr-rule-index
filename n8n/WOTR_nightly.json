@@ -18,7 +18,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "http://host.docker.internal:8799/run/nightly",
+        "url": "http://127.0.0.1:8799/run/nightly",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpHeaderAuth",
         "sendBody": true,
@@ -31,7 +31,7 @@
       "type": "n8n-nodes-base.httpRequest",
       "typeVersion": 4.2,
       "position": [40, 300],
-      "notes": "Starts build/nightly.ps1 on the Windows host and returns a job_id at once. Credential: Header Auth named X-Job-Token, value from build/.jobs_token."
+      "notes": "Starts build/nightly.sh on the host (the same script wotr-nightly.timer runs at 03:30; disable that timer if this workflow is active, so the nightly does not run twice) and returns a job_id at once. Credential: Header Auth named X-Job-Token, value from build/.jobs_token."
     },
     {
       "parameters": { "amount": 4, "unit": "minutes" },
@@ -44,7 +44,7 @@
     },
     {
       "parameters": {
-        "url": "=http://host.docker.internal:8799/status/{{ $('Run the nightly').item.json.job_id }}",
+        "url": "=http://127.0.0.1:8799/status/{{ $('Run the nightly').item.json.job_id }}",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpHeaderAuth",
         "options": { "timeout": 30000 }
@@ -57,7 +57,7 @@
     },
     {
       "parameters": {
-        "url": "http://host.docker.internal:8799/digest",
+        "url": "http://127.0.0.1:8799/digest",
         "authentication": "genericCredentialType",
         "genericAuthType": "httpHeaderAuth",
         "options": { "response": { "response": { "responseFormat": "text" } }, "timeout": 30000 }

@@ -20,9 +20,9 @@ voices are cast from the card (Darius, Gimbzo …) stay on a cloning engine.
       engine: supertonic
       style: build/voices/styles/rubric.json    # any Supertonic voice-style JSON
 
-Runs in its own interpreter, C:\\venvs\\wotr-supertonic, through
-build/supertonic_worker.py. Setup: build/supertonic_setup.ps1 (pip install supertonic;
-~400 MB of weights on first use). Model licence OpenRAIL-M, code MIT.
+Runs in its own interpreter, <WOTR_VENVS>/wotr-supertonic (common.venv_python; was
+C:\\venvs), through build/supertonic_worker.py. Setup: build/supertonic_setup.sh (pip install
+supertonic; ~400 MB of weights on first use). Model licence OpenRAIL-M, code MIT.
 """
 from __future__ import annotations
 
@@ -34,8 +34,10 @@ from pathlib import Path
 
 import numpy as np
 
-ROOT = Path(__file__).resolve().parent.parent
-VENV_PY = Path(r"C:\venvs\wotr-supertonic") / "Scripts" / "python.exe"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import ROOT, venv_python  # noqa: E402
+
+VENV_PY = venv_python("supertonic")
 WORKER = ROOT / "build" / "supertonic_worker.py"
 WORKER_LOG = ROOT / "build" / ".supertonic_worker.log"
 TARGET_SR = 24000
@@ -55,7 +57,7 @@ def _worker() -> subprocess.Popen:
     global _proc
     if _proc is None or _proc.poll() is not None:
         if not VENV_PY.exists():
-            sys.exit("Supertonic is not set up: run build/supertonic_setup.ps1")
+            sys.exit("Supertonic is not set up: run build/supertonic_setup.sh")
         log = open(WORKER_LOG, "a", encoding="utf-8")
         log.write(f"\n=== worker start {VENV_PY}\n"); log.flush()
         _proc = subprocess.Popen([str(VENV_PY), str(WORKER)], cwd=ROOT, stdin=subprocess.PIPE, stdout=subprocess.PIPE,

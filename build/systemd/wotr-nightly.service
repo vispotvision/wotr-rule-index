@@ -1,0 +1,37 @@
+# wotr-nightly.service — was the scheduled task "WOTR nightly" (daily 03:30,
+# ExecutionTimeLimit two hours).
+#
+# The nightly checks: build/nightly.py (validate, resolve, the audits, the Büri sweep,
+# the diff against last night -> reports/nightly.md), then Claude Code on the
+# subscription writes the "Overnight" note at the top, then the digest and the audit
+# reports are committed and pushed. build/nightly.sh does the work; wotr-nightly.timer
+# says when. session_start shows the note next morning.
+#
+# The two-hour limit is nightly.sh's own `timeout 2h` around the Claude step (it
+# mirrors the Windows task's ExecutionTimeLimit): when it fires, claude is killed, the
+# script logs it and still commits the numbers. TimeoutStartSec below is only the
+# backstop, and it is longer on purpose — the unit's clock starts before the pull and
+# nightly.py, so an equal limit would have systemd kill the whole cgroup (script
+# included) just before the script's timeout, and nothing would be logged or committed.
+# WOTR_NIGHTLY_NO_CLAUDE=1 in ~/.config/wotr/env runs the numbers only.
+#
+# ExecStartPre waits (up to two minutes) for DNS: with Persistent=true on the timer and
+# linger on, a 03:30 the machine slept through runs at the next boot, when the user
+# manager starts — before the network is up. Everything in the run (pull, claude, push)
+# needs it. Waits, never fails: the run goes ahead regardless and logs what it could not do.
+#
+# Logs: journalctl --user -u wotr-nightly, and the script's own build/nightly.log.
+# If an n8n workflow takes over the nightly, disable wotr-nightly.timer so it does
+# not run twice (build/systemd_setup.sh prints the command).
+
+[Unit]
+Description=WOTR nightly: the checks, the digest and the overnight note
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStartPre=/bin/bash -c 'for i in {1..24}; do getent hosts github.com >/dev/null 2>&1 && exit 0; sleep 5; done; exit 0'
+ExecStart=/bin/bash %h/wotr-rule-index/build/nightly.sh
+TimeoutStartSec=2h30min

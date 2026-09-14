@@ -1,0 +1,22 @@
+# wotr-sync.service — was the scheduled task "WOTR wiki sync" (hourly, while logged in).
+#
+# Two-way mirror: Notion wiki -> wiki/, then repo scenes and index outputs -> Notion,
+# then commit and push whatever changed. build/sync.sh does the work; this unit only
+# gives it a place to run. wotr-sync.timer says when (hourly). The hourly run and a
+# manual sync_now (the MCP tool, or `bash build/sync.sh` from a terminal) are
+# serialised by the flock in sync.sh: the second one to arrive logs "another sync is
+# running; skipped" and exits 0, instead of two exports racing into one commit.
+#
+# Logs: journalctl --user -u wotr-sync, and the script's own build/sync.log.
+# Needs NOTION_TOKEN in ~/.config/wotr/env; without it sync.sh logs a line and exits 1.
+
+[Unit]
+Description=WOTR wiki sync: mirror the Notion wiki into the wotr-rule-index repo and push
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/sync.sh
+TimeoutStartSec=30min

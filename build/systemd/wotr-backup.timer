@@ -1,0 +1,16 @@
+# wotr-backup.timer — was the weekly Sunday 03:00 trigger of the scheduled task
+# "WOTR weekly backup". Persistent=true: a Sunday the machine slept through is run at
+# the next start instead of skipped.
+#
+#   systemctl --user list-timers wotr-backup.timer
+#   systemctl --user start wotr-backup.service   # a backup now
+
+[Unit]
+Description=WOTR weekly backup, Sunday at 03:00
+
+[Timer]
+OnCalendar=Sun *-*-* 03:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

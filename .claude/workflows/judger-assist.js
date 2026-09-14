@@ -1,15 +1,15 @@
 export const meta = {
   name: 'judger-assist',
   description: "The Judger's assistant: read an archived scene (from Discord or the table) and draft the session close for Isaac to approve — Ledger lines, Front ticks, NPC wants and lies, rulings and docket items, contradictions with the cards and the timeline, a player-safe recap. Writes bot/queue/<slug>.judger.md + .json; writes nothing to the table.",
-  whenToUse: 'After /scene save archives a Discord scene, or any time a scene lands in scenes/ without a session close; args {scenes: [slugs] | "latest", thread?: "Kharven thread, the year after"}',
+  whenToUse: 'After /scene save archives a Discord scene, or any time a scene lands in scenes/ without a session close; args {scenes: [slugs] | "latest", thread?: "Kharven thread, the year after", repo?}',
   phases: [{ title: 'Gather' }, { title: 'Read' }, { title: 'Propose' }, { title: 'Check' }, { title: 'Note' }],
 }
 // ------------------------------------------------------------------ setup
-const A = Object.assign({ scenes: 'latest', thread: '' }, args || {})
-const REPO = 'C:\\Users\\isaac\\Documents\\wotr-rule-index'
+const A = Object.assign({ repo: '/home/oridon/wotr-rule-index', scenes: 'latest', thread: '' }, args || {})
+const REPO = A.repo || '/home/oridon/wotr-rule-index'
 const T = 'python build/book_tools.py'
-const Q = 'bot\\queue'
-const STANDING = `Repo: ${REPO}; run every command from there; output is UTF-8 (set PYTHONIOENCODING=utf-8). sources/, rules/, wiki/, scenes/ and table/ are READ-ONLY for this run: never commit; never call session_end, ledger_add, advance_front, npc_set, log_ruling, propose_rule, archive_scene or any MCP tool that writes. This run produces files under ${Q}\\ only — proposals the Judger (Isaac) approves or rejects one by one. The read-only tools are a command line: ${T} <tool> ... (no arguments lists them). CLAUDE.md binds: rules are quoted verbatim by id, never paraphrased into existence; a conflict is recorded, never resolved; nothing is invented — every claim about the scene carries a verbatim quote from it.`
+const Q = 'bot/queue'
+const STANDING = `Repo: ${REPO}; run every command from there; python on PATH is the repo's venv and its output is UTF-8. sources/, rules/, wiki/, scenes/ and table/ are READ-ONLY for this run: never commit; never call session_end, ledger_add, advance_front, npc_set, log_ruling, propose_rule, archive_scene or any MCP tool that writes. This run produces files under ${Q}/ only — proposals the Judger (Isaac) approves or rejects one by one. The read-only tools are a command line: ${T} <tool> ... (no arguments lists them). CLAUDE.md binds: rules are quoted verbatim by id, never paraphrased into existence; a conflict is recorded, never resolved; nothing is invented — every claim about the scene carries a verbatim quote from it.`
 
 // which scenes
 let slugs = Array.isArray(A.scenes) ? A.scenes : (A.scenes === 'latest' ? [] : String(A.scenes).split(',').map(s => s.trim()).filter(Boolean))
@@ -42,7 +42,7 @@ const VERDICTS = { type: 'object', properties: { verdicts: { type: 'array', item
 const results = await pipeline(slugs,
   // ---------------------------------------------------------------- gather
   (slug) => agent(`Gather the Judger's file for the scene scenes/${slug}.md. ${STANDING}
-Run, and write the outputs verbatim into ONE file ${Q}\\${slug}.gather.md under these headings, in this order:
+Run, and write the outputs verbatim into ONE file ${Q}/${slug}.gather.md under these headings, in this order:
 1. "## Scene" — the full text of scenes/${slug}.md.
 2. "## Thread" — the thread this scene belongs to: ${A.thread ? `Isaac says "${A.thread}"; use it.` : `look the slug up in scenes/ARCS.md (its arc) and match the arc to a thread name in table/fronts.yaml (${T} fronts with no argument lists every thread); state the match as an assumption in one line.`}
 3. "## Lorebook" — ${T} scene_context scenes/${slug}.md (cards and pages for every name, prior scenes on the same ground, struck terms, names with no page).
@@ -56,14 +56,14 @@ Return the thread you settled on as the first line exactly \`thread: <name>\`, t
   // ---------------------------------------------------------------- read (two independent readers)
   (g) => parallel([
     () => agent(`You are the reader of record for scene ${g.slug}. ${STANDING}
-Read ${Q}\\${g.slug}.gather.md — the "## Scene" section is the text; the "## Lorebook" section is what the wiki says about everyone in it. Extract what the scene ESTABLISHES as fact: deaths, injuries and what they cost, reserve spent, items gained/lost/broken, debts and promises, who now knows what (and who does not), lies told and left uncorrected, reputation (who saw), movement (where everyone ends up), numbers stated, relationships changed. One row per fact, each with a verbatim quote of 8-40 words. Also: the thread, the POV, place, in-world moment as far as the text states it, everyone present, the open questions, and the last line. Do not infer beyond the page; "probably" is not a fact.`, { label: `facts:${g.slug}`, phase: 'Read', schema: ASSERTIONS, effort: 'high' }),
+Read ${Q}/${g.slug}.gather.md — the "## Scene" section is the text; the "## Lorebook" section is what the wiki says about everyone in it. Extract what the scene ESTABLISHES as fact: deaths, injuries and what they cost, reserve spent, items gained/lost/broken, debts and promises, who now knows what (and who does not), lies told and left uncorrected, reputation (who saw), movement (where everyone ends up), numbers stated, relationships changed. One row per fact, each with a verbatim quote of 8-40 words. Also: the thread, the POV, place, in-world moment as far as the text states it, everyone present, the open questions, and the last line. Do not infer beyond the page; "probably" is not a fact.`, { label: `facts:${g.slug}`, phase: 'Read', schema: ASSERTIONS, effort: 'high' }),
     () => agent(`You are the rules clerk for scene ${g.slug}. ${STANDING}
-Read ${Q}\\${g.slug}.gather.md (the scene, its verification report, the docket, the conflicts). Then ${T} load_rules adjudication scene-structure prose-law --brief and, if the scene has a fight, ${T} load_rules combat stats --brief. Report, as plain text under three headings: (1) "Rulings made in play" — any place the scene text itself records a ruling (a Judger's call, an adjudication card, an author note saying "ruling:"), quoting it, with the rule id it touches if one exists; (2) "Rule questions the scene raised" — moments where the live rules do not settle what happened, quoting the moment and the nearest rule by id and verbatim text; (3) "Contradictions" — where the scene contradicts a card in the lorebook section, a timeline row, or a live rule: quote both sides. Nothing else; no prose notes.`, { label: `rules:${g.slug}`, phase: 'Read', effort: 'high' }),
+Read ${Q}/${g.slug}.gather.md (the scene, its verification report, the docket, the conflicts). Then ${T} load_rules adjudication scene-structure prose-law --brief and, if the scene has a fight, ${T} load_rules combat stats --brief. Report, as plain text under three headings: (1) "Rulings made in play" — any place the scene text itself records a ruling (a Judger's call, an adjudication card, an author note saying "ruling:"), quoting it, with the rule id it touches if one exists; (2) "Rule questions the scene raised" — moments where the live rules do not settle what happened, quoting the moment and the nearest rule by id and verbatim text; (3) "Contradictions" — where the scene contradicts a card in the lorebook section, a timeline row, or a live rule: quote both sides. Nothing else; no prose notes.`, { label: `rules:${g.slug}`, phase: 'Read', effort: 'high' }),
   ]).then(([facts, rules]) => ({ ...g, facts, rules })),
 
   // ---------------------------------------------------------------- propose
   (r) => agent(`You are the table clerk for scene ${r.slug} on thread "${r.thread}". ${STANDING}
-Inputs: ${Q}\\${r.slug}.gather.md (Fronts, Due, Roster, Ledger, Lorebook sections), the reader's facts (JSON below), and the rules clerk's report (below). Draft the proposals the Judger will approve one by one, each as the EXACT MCP call it would become:
+Inputs: ${Q}/${r.slug}.gather.md (Fronts, Due, Roster, Ledger, Lorebook sections), the reader's facts (JSON below), and the rules clerk's report (below). Draft the proposals the Judger will approve one by one, each as the EXACT MCP call it would become:
 - ledger_add for every fact that costs or binds: category one of "the dead" | "injuries and reserve" | "debts" | "who knows what" | "reputation" | "canon conflicts"; who; the line in the Ledger's register (one sentence, present tense, specific); due_after_sessions (a number) or due_condition (a stated condition). Skip anything already on the Ledger.
 - advance_front for each Front on the thread the scene moved (Table Rule 4: at least one per session): front_id from the Fronts section, what_happened as the consequence the PC saw, next_move. If nothing moved any Front, say so in one proposal of tool "inventory_note" with target "fronts" explaining why, so the Judger decides.
 - npc_set for every NPC whose want, refusal line, knowledge or lies the scene changed: name, thread, and only the fields that changed (knows[] and lied_about[] as short strings; last_seen as the scene slug).
@@ -81,7 +81,7 @@ ${r.rules}`, { label: `propose:${r.slug}`, phase: 'Propose', schema: PROPOSALS, 
 
   // ---------------------------------------------------------------- check (adversarial)
   (r) => agent(`You are the skeptic for scene ${r.slug}. Try to KILL each proposal below, then say which survive. ${STANDING}
-Open ${Q}\\${r.slug}.gather.md. For each proposal: (1) is the quote actually in the "## Scene" section, verbatim? (search for it); (2) does the proposal say more than the quote supports (an inference dressed as a fact, a number the page does not give, a motive the POV could not know)? (3) is it already on the Ledger / already the Front's recorded state / already on the card (check the Ledger, Fronts and Lorebook sections)? (4) are the args well-formed for the tool named (front_id exists in the Fronts section; category is one of the six; applies_to tags exist in schema/applies_to.md)? keep=false if any of (1)-(3) fails; if only (4) fails, keep=true with the corrected args in "fix". Be exact; a wrong Ledger line outlives the session.
+Open ${Q}/${r.slug}.gather.md. For each proposal: (1) is the quote actually in the "## Scene" section, verbatim? (search for it); (2) does the proposal say more than the quote supports (an inference dressed as a fact, a number the page does not give, a motive the POV could not know)? (3) is it already on the Ledger / already the Front's recorded state / already on the card (check the Ledger, Fronts and Lorebook sections)? (4) are the args well-formed for the tool named (front_id exists in the Fronts section; category is one of the six; applies_to tags exist in schema/applies_to.md)? keep=false if any of (1)-(3) fails; if only (4) fails, keep=true with the corrected args in "fix". Be exact; a wrong Ledger line outlives the session.
 
 Proposals:
 ${JSON.stringify(r.proposals, null, 1)}`, { label: `check:${r.slug}`, phase: 'Check', schema: VERDICTS, effort: 'high' }).then(v => {
@@ -98,8 +98,8 @@ ${JSON.stringify(r.proposals, null, 1)}`, { label: `check:${r.slug}`, phase: 'Ch
   // ---------------------------------------------------------------- note
   (r) => agent(`Write the Judger's note for scene ${r.slug} (thread "${r.thread}"). ${STANDING}
 Write TWO files:
-1. ${Q}\\${r.slug}.judger.json — exactly this JSON: {"scene": "${r.slug}", "thread": "${r.thread}", "proposals": <the kept proposals below, verbatim, each with id, tool, args, quote, why, confidence>, "rejected": <the killed proposals: id, tool, reason>}. The Discord bot posts each proposal as a card with approve/reject buttons; approve runs the tool with those args. So the args must be exactly what the tool takes.
-2. ${Q}\\${r.slug}.judger.md — for Isaac, in this order, plain and short:
+1. ${Q}/${r.slug}.judger.json — exactly this JSON: {"scene": "${r.slug}", "thread": "${r.thread}", "proposals": <the kept proposals below, verbatim, each with id, tool, args, quote, why, confidence>, "rejected": <the killed proposals: id, tool, reason>}. The Discord bot posts each proposal as a card with approve/reject buttons; approve runs the tool with those args. So the args must be exactly what the tool takes.
+2. ${Q}/${r.slug}.judger.md — for Isaac, in this order, plain and short:
    "# Judger's note — <scene title> — ${r.thread}"
    "## Recap for the players" — five sentences at most, only what was on the page, no numbers the players did not see, no NPC interiors.
    "## What the scene settled" — the reader's facts as a bulleted list, each with its quote in italics.
@@ -120,7 +120,7 @@ Reader's facts:
 ${JSON.stringify(r.facts, null, 1)}
 
 Rules clerk:
-${r.rules}`, { label: `note:${r.slug}`, phase: 'Note', effort: 'medium' }).then(n => ({ slug: r.slug, thread: r.thread, kept: r.kept.length, killed: r.killed.length, note: `${Q}\\${r.slug}.judger.md`, approval: n })),
+${r.rules}`, { label: `note:${r.slug}`, phase: 'Note', effort: 'medium' }).then(n => ({ slug: r.slug, thread: r.thread, kept: r.kept.length, killed: r.killed.length, note: `${Q}/${r.slug}.judger.md`, approval: n })),
 )
 
 const done = results.filter(Boolean)

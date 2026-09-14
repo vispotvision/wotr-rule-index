@@ -1,5 +1,6 @@
 """Shared loading and normalisation for the WOTR rule index."""
 import json
+import os
 import re
 import sys
 from pathlib import Path
@@ -10,6 +11,77 @@ SOURCES_DIR = ROOT / "sources"
 OUT_DIR = ROOT / "out"
 SCHEMA = ROOT / "schema" / "rule.schema.json"
 VOCAB_DOC = ROOT / "schema" / "applies_to.md"
+
+
+# --------------------------------------------------------------------------
+# machine configuration: ~/.config/wotr/env (see build/wotr.env.example)
+#
+# On Windows every tool read NOTION_TOKEN and friends out of the registry when
+# they were not in the environment. On Linux the equivalent is one file that the
+# shell scripts source (build/env.sh), the systemd units load (EnvironmentFile=)
+# and this loader reads — so a process started by Claude Desktop, which inherits
+# no shell profile, still finds the same values. Nothing here overrides a
+# variable that is already set.
+
+ENV_FILE = Path(os.environ.get("WOTR_ENV_FILE") or Path.home() / ".config" / "wotr" / "env")
+
+
+def load_env(path: Path = ENV_FILE) -> dict:
+    """Read KEY=value lines into os.environ where the key is unset or empty.
+    Reads the file the way systemd and build/env.sh do: one pair of quotes and
+    the surrounding whitespace stripped, a line without '=' ignored; a leading ~
+    is expanded as env.sh expands it. Returns what was loaded. Quiet when the
+    file is missing."""
+    loaded = {}
+    try:
+        text = path.read_text(encoding="utf-8")
+    except OSError:
+        return loaded
+    for line in text.splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, val = line.partition("=")
+        key, val = key.strip(), val.strip()
+        if len(val) >= 2 and val[0] == val[-1] and val[0] in "\'\"":
+            val = val[1:-1]
+        if val == "~" or val.startswith("~/"):
+            val = os.path.expanduser(val)
+        if key and re.fullmatch(r"[A-Za-z_][A-Za-z0-9_]*", key) and val and not os.environ.get(key):
+            os.environ[key] = val
+            loaded[key] = val
+    return loaded
+
+
+load_env()
+
+
+def env_path(key: str, default: str | None) -> Path | None:
+    """A path from the environment (~ expanded), or the default, or None."""
+    raw = os.environ.get(key) or default
+    return Path(raw).expanduser() if raw else None
+
+
+# the base craft guides and their dated editions — in no git repository
+TRUE_CANON = env_path("WOTR_TRUE_CANON", "~/wotr-vault/true-canon")
+# the TTS engines' interpreters live at <VENVS>/wotr-<engine>/bin/python
+VENVS = env_path("WOTR_VENVS", "~/.venvs")
+# Google Drive when it is mounted (rclone); None means "skip the Drive exports"
+DRIVE = env_path("WOTR_DRIVE", None)
+# the weekly zip lands here when Drive is not mounted
+BACKUP_DIR = env_path("WOTR_BACKUP_DIR", "~/wotr-backups")
+
+
+def drive_dir(*parts: str) -> Path | None:
+    """<WOTR_DRIVE>/<parts> if Drive is configured and mounted, else None."""
+    if DRIVE and DRIVE.is_dir():
+        return DRIVE.joinpath(*parts)
+    return None
+
+
+def venv_python(name: str) -> Path:
+    """The interpreter of the TTS venv <VENVS>/wotr-<name> (Linux layout)."""
+    return VENVS / f"wotr-{name}" / "bin" / "python"
 
 try:
     import yaml

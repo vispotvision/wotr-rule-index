@@ -2,7 +2,7 @@
 """What the book needs next, and the record of Isaac's gate decisions.
 
   python build/book_next.py                      # what to do next (human)
-  python build/book_next.py --json               # the same, for build/book_dispatch.ps1
+  python build/book_next.py --json               # the same, for build/book_dispatch.sh
   python build/book_next.py --approve 1          # Isaac approved chapter 1's gate
   python build/book_next.py --approve 1 --note "the ears line goes in as written"
   python build/book_next.py --reject 1 --note "re-brief: the clerk asks the king, not the Bench"

@@ -2,7 +2,7 @@
 """Reader copies of the scene archive in reading order (scenes/ARCS.md):
 one Word document per arc, and one epub per arc plus a complete epub.
 
-  python build/arcs_export.py --out "G:/My Drive/War of the Realms — Documents/Arcs"
+  python build/arcs_export.py --out "$WOTR_DRIVE/War of the Realms — Documents/Arcs"   # the Drive mount (build/sync.sh does this when WOTR_DRIVE is set)
 
 Only arcs whose scenes changed since the last run are rewritten (.manifest.json
 in the output folder).

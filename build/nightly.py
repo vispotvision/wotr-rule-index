@@ -10,7 +10,7 @@ what is NEW since last night, what CLEARED, and only counts what is still open
 (prose_pass carries a standing pile from pre-rule scenes). Adds the scenes archived
 since the last run (each is a `/judger <slug>` for the morning), the Judger queue,
 and the sync and backup logs. Nothing here edits canon; the audits write only under
-reports/. build/nightly.ps1 runs this at 03:30, lets Claude write the "Overnight"
+reports/. build/nightly.sh runs this at 03:30, lets Claude write the "Overnight"
 note at the top, and commits the digest. session_start shows the note.
 """
 from __future__ import annotations
@@ -177,7 +177,7 @@ def main() -> int:
     # 8. the digest
     head = [f"# Nightly — {now:%Y-%m-%d %H:%M}", "",
             "## Overnight", "",
-            "_(Claude's note goes here; build/nightly.ps1 writes it after these numbers. If this line is still here, the Claude step was off or failed — the numbers below stand on their own.)_", "",
+            "_(Claude's note goes here; build/nightly.sh writes it after these numbers. If this line is still here, the Claude step was off or failed — the numbers below stand on their own.)_", "",
             "## Numbers", "", "- " + "\n- ".join(numbers), ""]
     body = list(lines)
     if new_scenes:

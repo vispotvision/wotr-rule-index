@@ -41,13 +41,13 @@ the scene text.
 | Decision | Choice | Why |
 |---|---|---|
 | Language / library | Python 3, `discord.py` 2.x, slash commands (`app_commands`) | Same interpreter and venv as the MCP; direct import, no RPC |
-| Where the code lives | `bot/` at the repo root (`bot/main.py`, `bot/cogs/*.py`, `bot/run.ps1`) | Separable from `build/`, which is the index and the narrator |
+| Where the code lives | `bot/` at the repo root (`bot/main.py`, `bot/cogs/*.py`, `bot/run.sh`) | Separable from `build/`, which is the index and the narrator |
 | Dice | **None in canon channels.** | WOTR resolves contested actions by Table Rule 5 — Stage gap, the read, what has been spent, the environment — stat-by-stat (R14-3-STATS_DECIDE_TABLE), and every outcome traces to a table row (R14-3-TRACEABILITY, R13-8-RECONSTRUCTIBLE_ADJUDICATION). A `/roll` would be a new mechanic the rules don't have; introducing one goes through `propose_rule`, not through a bot. A `/roll` exists only as an out-of-canon toy, off by default, usable in channels tagged `ooc`. |
 | Who can write | Role-gated: **Judger** (Isaac; every write), **Scribe** (trusted helper; scene close, ledger, NPC notes), **Player** (post, look up, propose), **Reader** (look up only) | Writes commit to git and touch Notion; players propose, the Judger enters |
 | Scene container | Discord **forum channels**, one per story thread; each forum post is one scene; the in-character messages in it are the scene text | Forum posts are threads with titles, tags and a natural close; the message log is already speaker-tagged |
 | Attribution | A player's in-character messages are attributed to the character they are **bound** to (`/bind <character>`) — one binding per player per forum | Gives the cast file for free (see §6) |
 | Long answers | Embed up to 4096 chars; beyond that, paginate with buttons; a wiki answer always carries the Notion page link from the wiki manifest | Discord limits (embed 6000 total, 25 fields) |
-| Hosting | Windows scheduled task at logon, like `WOTR wiki sync`; log to `bot/.bot.log` | Same operating model as the narrator; bot is down when the PC is |
+| Hosting | the systemd user unit `wotr-bot.service` (`build/systemd/`, installed by `build/systemd_setup.sh`), like `wotr-sync.timer`; log to `bot/.bot.log` | Same operating model as the narrator; bot is down when the PC is |
 | Audio | `/narrate` attaches the MP3 when under the guild upload limit (10 MB unboosted), otherwise posts the split parts | Never post the `/t/<token>/audio/` route: that leaks the public-MCP secret |
 
 ## 4. Server layout (what Isaac builds in Discord; the bot assumes this)
@@ -81,7 +81,7 @@ Forum tags: `open`, `closing`, `archived`, `standard`, `combat`, `mass-combat`
 | `/recall <query>` | `scene_recall(query)` | Scene archive search |
 | `/timeline` | `timeline()` | Paginated |
 
-Also in F0: `bot/main.py`, `bot/run.ps1`, the scheduled task, `DISCORD_TOKEN`
+Also in F0: `bot/main.py`, `bot/run.sh`, the `wotr-bot.service` unit, `DISCORD_TOKEN`
 from the environment, the role names in `bot/config.yaml`, and a `/whoami`
 that prints the caller's roles and binding. All MCP calls run in
 `asyncio.to_thread` so the gateway heartbeat never blocks.
@@ -105,7 +105,7 @@ that prints the caller's roles and binding. All MCP calls run in
 
 Every write goes through one `asyncio.Lock`; writes already commit through
 `_table_commit`. The bot runs `git pull --ff-only` before a write because
-`build/sync.ps1` also commits on the hour (see §8).
+`build/sync.sh` also commits on the hour (see §8).
 
 ### Phase F2 — scene play and archive
 
@@ -167,7 +167,7 @@ bot/
     audio.py        F3
   embeds.py         rule / wiki / character / front renderers; paginator
   compile.py        forum post → markdown + cast file
-  run.ps1           venv activation, log, restart on crash
+  run.sh            env.sh (the venv), log; the restart on crash is the unit's
   .bot.log          (gitignored)
 ```
 
@@ -176,7 +176,7 @@ except, if needed, moving pure helpers the bot shares into `common.py`.
 
 ## 8. Risks and how the plan meets them
 
-- **Two writers on one repo.** `build/sync.ps1` commits hourly; the bot commits
+- **Two writers on one repo.** `build/sync.sh` commits hourly; the bot commits
   on writes. Both go through git, so the failure is a rejected push, not lost
   data. Bot writes `git pull --ff-only` first, hold the lock across
   write+commit+push, and report the failure in-channel if the push is

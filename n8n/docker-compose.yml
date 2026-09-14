@@ -1,0 +1,44 @@
+# n8n for WOTR — one service, on the host's network.
+#
+# Why host networking. n8n orchestrates and build/jobs_server.py executes; the
+# job runner binds 127.0.0.1:8799 on purpose so nothing but this machine can
+# start a job. On Docker Desktop (the Windows years) a container reached that
+# loopback as host.docker.internal; on Linux Docker there is no such bridge to
+# the host's loopback (host.docker.internal is a Docker Desktop thing, and even
+# with extra_hosts it lands on the host's LAN address, not 127.0.0.1). So n8n
+# shares the host network instead: from inside the container 127.0.0.1:8799 is
+# the job runner, 127.0.0.1:11434 is Ollama, 127.0.0.1:8765 is the MCP's HTTP
+# mode. With network_mode: host there is no ports: and no extra_hosts: — both
+# are invalid with host networking — and n8n listens on 5678 exactly as the
+# old "5678:5678" publish did; it exposes nothing that did not.
+#
+# Start it (once the user is in the docker group):
+#   cd ~/wotr-rule-index/n8n && docker compose up -d
+# Stop it:   docker compose down          (keeps the n8n_data volume: credentials, workflows)
+# Remove it: docker compose down -v       (drops the volume too — re-import n8n/WOTR_nightly.json
+#            and re-create the "WOTR jobs" Header Auth credential from build/.jobs_token)
+#
+# The old four-service compose (n8n + qdrant + open-webui + pipelines, from the
+# ComfyUI project) is kept at ~/wotr-vault/n8n/docker-compose.yml, not here;
+# this file is only what WOTR needs. Do not run both — they share container_name n8n.
+
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: n8n
+    restart: unless-stopped
+    network_mode: host
+    environment:
+      - N8N_HOST=localhost
+      - N8N_PORT=5678
+      - N8N_PROTOCOL=http
+      - N8N_SECURE_COOKIE=false
+      # the machine's zone (timedatectl show); the 03:30 in a Schedule node reads in it
+      - GENERIC_TIMEZONE=America/New_York
+      # Ollama on the host, for workflows that want the cheap mechanical passes
+      - OLLAMA_HOST=127.0.0.1:11434
+    volumes:
+      - n8n_data:/home/node/.n8n
+
+volumes:
+  n8n_data:

@@ -32,6 +32,10 @@ call draws a fresh member. So each line is drawn up to `tries` times in build/qw
 the draw closest to the anchor (ECAPA speaker-embedding cosine) is kept; low scores are
 reported at the end of the render. With faster-qwen3-tts (HIP graphs) a draw runs ~2.5x real
 time, so three draws still beat the plain package's single draw.
+
+Two interpreters under WOTR_VENVS (common.venv_python; was C:\\venvs), the first that exists
+wins: wotr-qwen-fast (faster-qwen3-tts) then wotr-qwen (the plain package). Setup for both:
+build/qwen_tts_setup.sh.
 """
 from __future__ import annotations
 
@@ -43,9 +47,11 @@ from pathlib import Path
 
 import numpy as np
 
-ROOT = Path(__file__).resolve().parent.parent
-VENVS = [Path(r"C:\venvs\wotr-qwen-fast") / "Scripts" / "python.exe",   # faster-qwen3-tts, HIP graphs (preferred)
-         Path(r"C:\venvs\wotr-qwen") / "Scripts" / "python.exe"]         # plain qwen-tts
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from common import ROOT, venv_python  # noqa: E402
+
+VENVS = [venv_python("qwen-fast"),   # faster-qwen3-tts, HIP graphs (preferred)
+         venv_python("qwen")]        # plain qwen-tts
 WORKER = ROOT / "build" / "qwen_worker.py"
 WORKER_LOG = ROOT / "build" / ".qwen_worker.log"
 TARGET_SR = 24000
@@ -143,7 +149,7 @@ def _worker() -> subprocess.Popen:
     if _proc is None or _proc.poll() is not None:
         py = next((p for p in VENVS if p.exists()), None)
         if py is None:
-            sys.exit("Qwen3-TTS is not set up: run build/qwen_tts_setup.ps1")
+            sys.exit("Qwen3-TTS is not set up: run build/qwen_tts_setup.sh")
         log = open(WORKER_LOG, "a", encoding="utf-8")
         log.write(f"\n=== worker start {py}\n"); log.flush()
         _proc = subprocess.Popen([str(py), str(WORKER)], cwd=ROOT, stdin=subprocess.PIPE, stdout=subprocess.PIPE,

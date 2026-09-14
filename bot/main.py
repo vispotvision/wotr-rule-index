@@ -2,7 +2,7 @@
 """WOTR Bot: the players' front-end onto the rule index, the wiki mirror, the scene
 archive and the table state. Plan: bot/PLAN.md.
 
-  python bot/main.py            # run; DISCORD_TOKEN from the environment (user variable ok)
+  python bot/main.py            # run; DISCORD_TOKEN from the environment or ~/.config/wotr/env
   python bot/main.py --sync     # also (re)register the slash commands with the guild, then run
 
 Nothing here resolves a conflict, paraphrases a rule, or invents a number: every
@@ -20,6 +20,9 @@ from discord.ext import commands
 
 BOT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BOT_DIR))
+sys.path.insert(0, str(BOT_DIR.parent / "build"))
+
+import common  # noqa: E402,F401  (reads ~/.config/wotr/env into the environment at import)
 
 CFG = yaml.safe_load((BOT_DIR / "config.yaml").read_text(encoding="utf-8"))
 COGS = ["cogs.lookup", "cogs.build", "cogs.audio", "cogs.scenes", "cogs.sheets", "cogs.craft"]
@@ -28,16 +31,9 @@ log = logging.getLogger("wotr")
 
 
 def token() -> str:
-    t = os.environ.get("DISCORD_TOKEN")
-    if not t and sys.platform == "win32":
-        try:
-            import winreg
-            with winreg.OpenKey(winreg.HKEY_CURRENT_USER, "Environment") as k:
-                t = winreg.QueryValueEx(k, "DISCORD_TOKEN")[0]
-        except OSError:
-            pass
+    t = os.environ.get("DISCORD_TOKEN")  # the environment, else ~/.config/wotr/env (common, at import)
     if not t:
-        sys.exit("DISCORD_TOKEN is not set (user environment variable).")
+        sys.exit("DISCORD_TOKEN is not set (see ~/.config/wotr/env).")
     return t.strip()
 
 

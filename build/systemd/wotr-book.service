@@ -1,0 +1,38 @@
+# wotr-book.service — was the scheduled task "WOTR book" (daily 02:00,
+# ExecutionTimeLimit five hours).
+#
+# The book dispatcher: one chapter a night, while Isaac sleeps. build/book_next.py says
+# what the book needs; if a chapter is due, Claude Code runs headless on the
+# subscription and the book-chapter workflow does the real work under book/<slug>/;
+# then what landed is committed. build/book_dispatch.sh does the work;
+# wotr-book.timer says when. Isaac approves or rejects at breakfast.
+#
+# The five-hour limit is book_dispatch.sh's own `timeout 5h` around the Claude step (it
+# mirrors the Windows task's ExecutionTimeLimit): when it fires mid-chapter, claude is
+# killed, the script logs it, refreshes GATES.md and commits whatever landed.
+# TimeoutStartSec below is only the backstop, and it is longer on purpose — the unit's
+# clock starts before the pull and book_next.py, so an equal limit would have systemd
+# kill the whole cgroup (script included) just before the script's timeout, and the
+# chapter on disk would sit uncommitted with nothing in the log. WOTR_BOOK_OFF=1 in
+# ~/.config/wotr/env is the off switch: the dispatcher writes nothing.
+#
+# ExecStartPre waits (up to two minutes) for DNS: with Persistent=true on the timer and
+# linger on, a 02:00 the machine slept through runs at the next boot, when the user
+# manager starts — before the network is up. Waits, never fails: the run goes ahead
+# regardless and logs what it could not do.
+#
+# Logs: journalctl --user -u wotr-book, and the script's own build/book_dispatch.log.
+# If an n8n workflow takes over the book, disable wotr-book.timer so it does not run
+# twice (build/systemd_setup.sh prints the command).
+
+[Unit]
+Description=WOTR book: one chapter a night, gated
+
+[Service]
+Type=oneshot
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStartPre=/bin/bash -c 'for i in {1..24}; do getent hosts github.com >/dev/null 2>&1 && exit 0; sleep 5; done; exit 0'
+ExecStart=/bin/bash %h/wotr-rule-index/build/book_dispatch.sh
+TimeoutStartSec=5h30min

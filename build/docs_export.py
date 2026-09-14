@@ -2,7 +2,7 @@
 """Turn the wiki mirror, the scene archive and the rule index into Word documents.
 
   python build/docs_export.py                      # writes to docs/ (gitignored)
-  python build/docs_export.py --out "G:/My Drive/War of the Realms — Documents"
+  python build/docs_export.py --out "$WOTR_DRIVE/War of the Realms — Documents"   # the Drive mount (build/sync.sh does this when WOTR_DRIVE is set)
   python build/docs_export.py --only "Magic"       # sections whose name contains this
 
 One .docx per wiki section (the section's hub page first, then every page under

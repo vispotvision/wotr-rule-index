@@ -1,0 +1,36 @@
+# wotr-jobs.service — was the logon task "WOTR jobs" (build/jobs_setup.ps1).
+#
+# The job runner for n8n: build/jobs_server.py on 127.0.0.1:8799 runs one of a fixed
+# list of named jobs (the nightly, the book dispatcher and its dry run, the sync, the
+# backup, the checks) when n8n POSTs for it, never a command and never a prompt. n8n runs
+# in Docker with network_mode: host, so it reaches the loopback listener directly
+# (was host.docker.internal on Docker Desktop). The shared secret is build/.jobs_token
+# (gitignored; written on first run; never in chat) — paste it into n8n once as a
+# header credential.
+#
+# Goes through build/py.sh because ExecStart= cannot take a variable as the
+# executable; py.sh sources env.sh and execs $WOTR_PYTHON. Restarts on a crash after
+# 30 s (the old task ran without a time limit and was restarted by hand).
+#
+# Restart only when GET /jobs shows nothing running: a job the runner started is a child
+# in this unit's cgroup, and a restart (KillMode is the default, control-group) kills it
+# with the runner — a chapter mid-write, a sync mid-commit — and the runner's table of
+# runs goes with it, so n8n's next /status poll gets a 404. build/systemd_setup.sh
+# leaves this unit alone while a job is running, for the same reason.
+#
+# Logs: journalctl --user -u wotr-jobs, and build/.jobs_server.log (--log below).
+
+[Unit]
+Description=WOTR job runner for n8n: named jobs only, loopback, shared secret
+
+[Service]
+Type=simple
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/jobs_server.py --port 8799 --log build/.jobs_server.log
+Restart=on-failure
+RestartSec=30
+
+[Install]
+WantedBy=default.target

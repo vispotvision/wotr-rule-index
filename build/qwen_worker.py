@@ -1,10 +1,11 @@
 """Qwen3-TTS VoiceDesign in its own interpreter, driven over stdin/stdout.
 
-Two interpreters can run this file; build/qwen_backend.py prefers the first that exists:
-  C:\\venvs\\wotr-qwen-fast   faster-qwen3-tts (MIT): static KV cache + CUDA graphs, which PyTorch
-                            runs as HIP graphs on the 9070 XT — measured 2.4-2.8x real time per
-                            line against 0.5x for the plain package (12 Sep 2026). One line per call.
-  C:\\venvs\\wotr-qwen        the plain qwen-tts package (transformers 4.57); batch calls allowed.
+Two interpreters can run this file, both under WOTR_VENVS (common.venv_python; was C:\\venvs);
+build/qwen_backend.py prefers the first that exists:
+  wotr-qwen-fast   faster-qwen3-tts (MIT): static KV cache + CUDA graphs, which PyTorch
+                   runs as HIP graphs on the 9070 XT — measured 2.4-2.8x real time per
+                   line against 0.5x for the plain package (12 Sep 2026). One line per call.
+  wotr-qwen        the plain qwen-tts package (transformers 4.57); batch calls allowed.
 
 Protocol — one JSON object per line on stdin:
     {"texts": ["line", ...], "instruct": "the brief", "anchor": "wav path or empty",
@@ -20,8 +21,9 @@ drawn up to `tries` times and scored against the anchor (the take Isaac approved
 ECAPA speaker embedding — cosine ~0.6+ reads as the same person, under 0.3 a stranger — and
 the closest draw is kept; a draw at or above `good_enough` stops early. Lines marked exempt
 (a whisper, a laugh-led line) take the first clean draw. Card caveats: the discrete GPU is
-picked by name (ROCm lists the iGPU first); MIOpen is off (its conv kernels do not compile on
-Windows gfx1201). Setup: build/qwen_tts_setup.ps1 (both venvs).
+picked by name (ROCm lists the iGPU first); MIOpen is off (its conv kernels did not compile on
+the Windows gfx1201 build; on Linux MIOpen works, but the switch stays until measured);
+attn_implementation="sdpa" (no flash-attn). Setup: build/qwen_tts_setup.sh (both venvs).
 """
 import json
 import sys

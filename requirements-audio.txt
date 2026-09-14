@@ -1,0 +1,22 @@
+# The CPU-side narration extras. NOT installed by build/setup_linux.sh: narration is
+# frozen behind the Gimbzo gate (ROADMAP, "The freeze" — nothing new on the voice
+# roadmap until one engine holds Gimbzo across three renders), and none of the
+# scheduled work needs these. They are what build/audio_export.py's Kokoro path and
+# its checks import lazily:
+#
+#   kokoro-onnx, soundfile, lameenc   audio_export.py: Kokoro 82M on the CPU, WAV in, MP3 out
+#   faster-whisper                    audio_check.py: transcribe the render back and diff it
+#   scipy, librosa                    voice_refs.py: resample, stretch, shift, the filters
+#   praat-parselmouth                 voice_shape.py: pitch floor and register after synthesis
+#
+# Install into the project venv when the gate is passed or a scene needs a render:
+#   ~/.venvs/wotr/bin/python -m pip install -r requirements-audio.txt
+# The GPU engines (Chatterbox, Supertonic, Qwen, CosyVoice) are not here; each has its
+# own venv under WOTR_VENVS (wotr-<engine>) and its own setup script.
+kokoro-onnx
+soundfile
+lameenc
+faster-whisper
+scipy
+librosa
+praat-parselmouth

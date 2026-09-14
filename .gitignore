@@ -39,3 +39,8 @@ build/.cosy_worker.log
 build/.sync_manual.err
 build/.sync_manual.out
 bot/.bot.sync.err
+
+# the Linux port: a venv if one is ever made inside the repo, and the sync and book dispatcher flocks
+.venv/
+build/.sync.lock
+build/.book.lock

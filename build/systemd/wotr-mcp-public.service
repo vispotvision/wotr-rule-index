@@ -1,0 +1,35 @@
+# wotr-mcp-public.service — was the logon task "WOTR MCP public"
+# (build/mcp_public_setup.ps1: hidden, restarted itself five times a minute apart).
+#
+# The WOTR MCP shared with friends: build/mcp_server.py --public on 127.0.0.1:8765 —
+# read-only tools only (READ_ONLY_TOOLS), the shared secret from build/.mcp_token
+# required on every request — published as https://<machine>.<tailnet>.ts.net/ by
+# Tailscale Funnel. Nothing a friend does through it can write to the repo, the table,
+# Notion, or git.
+#
+# NOT enabled by build/systemd_setup.sh: build/mcp_public_setup.sh enables and starts
+# this unit after it has written the secret and opened the funnel, so the server never
+# comes up without a token. Goes through build/py.sh (ExecStart= cannot take a variable
+# as the executable). Restarts on a crash after 30 s — but not on exit 2, which is the
+# server's own refusal to start without a shared secret (build/.mcp_token missing or
+# rotated away, WOTR_MCP_TOKEN unset) or a bad flag: a configuration error, not a
+# crash, so RestartPreventExitStatus=2 lets the unit stop and `systemctl --user status
+# wotr-mcp-public` show the reason once, instead of a 30 s loop appending it to the log.
+#
+# Logs: journalctl --user -u wotr-mcp-public, and build/mcp_public.log (--log below).
+
+[Unit]
+Description=WOTR MCP, read-only, shared secret required; published by Tailscale Funnel
+
+[Service]
+Type=simple
+WorkingDirectory=%h/wotr-rule-index
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8
+ExecStart=/bin/bash %h/wotr-rule-index/build/py.sh build/mcp_server.py --public --port 8765 --log build/mcp_public.log
+Restart=on-failure
+RestartSec=30
+RestartPreventExitStatus=2
+
+[Install]
+WantedBy=default.target

@@ -12,7 +12,7 @@ ruled, what contradicts a card. `session_end` in the MCP drafts that by regex an
 logs the session; this skill drafts it by reading, and writes nothing to the table
 until Isaac says which lines he approves.
 
-Repo: `C:\Users\isaac\Documents\wotr-rule-index`. Run everything from there.
+Repo: `/home/oridon/wotr-rule-index`. Run everything from there.
 
 ## Mode 1 — draft the close: `/judger <slug|latest>`
 

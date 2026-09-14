@@ -1,17 +1,17 @@
 ---
 name: wotr-rules
-description: Load the currently-live WOTR craft-law rules for a scene, character sheet, technique design, or naming task from the rule index at C:\Users\isaac\Documents\wotr-rule-index. Use before writing any War of the Realms prose, and whenever Isaac asks what the rules say about something.
+description: Load the currently-live WOTR craft-law rules for a scene, character sheet, technique design, or naming task from the rule index at /home/oridon/wotr-rule-index. Use before writing any War of the Realms prose, and whenever Isaac asks what the rules say about something.
 ---
 
 # WOTR rule index
 
-The index at `C:\Users\isaac\Documents\wotr-rule-index` holds every rule from the
+The index at `/home/oridon/wotr-rule-index` holds every rule from the
 nineteen amendment packs and the standalone amendments as one YAML row each,
 with a `status` that tells you whether it is currently in force. It exists so
 you never have to reread the packs: you query it for the tags a task touches,
 and you get back only the rules that govern that task.
 
-Path shorthand below: `$IDX` = `C:\Users\isaac\Documents\wotr-rule-index`.
+Path shorthand below: `$IDX` = `/home/oridon/wotr-rule-index`.
 
 ## Mode 1 — load rules for a task (the usual case)
 

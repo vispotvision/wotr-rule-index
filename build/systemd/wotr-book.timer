@@ -1,0 +1,17 @@
+# wotr-book.timer — was the daily 02:00 trigger of the scheduled task "WOTR book".
+# Persistent=true is the old task's StartWhenAvailable: a night the machine slept
+# through is run at the next start instead of skipped.
+#
+#   systemctl --user list-timers wotr-book.timer
+#   systemctl --user start wotr-book.service        # a run now (one chapter, gated)
+#   systemctl --user disable --now wotr-book.timer  # when n8n owns the book
+
+[Unit]
+Description=WOTR book, daily at 02:00
+
+[Timer]
+OnCalendar=*-*-* 02:00:00
+Persistent=true
+
+[Install]
+WantedBy=timers.target

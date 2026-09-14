@@ -4,6 +4,19 @@
 > below needs an Anthropic API key that does not exist and is not coming; do not
 > build toward it. The research notes are in `research/` beside this file.
 
+> **Linux note (2026-09-14).** The design below was written against the Windows
+> machine and is left as written; read its wiring through today's layout. The
+> dispatcher is `build/book_dispatch.sh` under the systemd user timer
+> `wotr-book.timer` (02:00), the nightly is `build/nightly.sh` under
+> `wotr-nightly.timer`, and `sync_now` runs `build/sync.sh`. n8n's compose is
+> `n8n/docker-compose.yml` in this repo with `network_mode: host`, so from inside
+> the container the host is `127.0.0.1` (the job runner on 8799, the MCP's HTTP
+> mode on 8765, Ollama on 11434) — not the Docker Desktop hostname the text uses.
+> A second MCP process would be one more user unit under `build/systemd/`. The
+> Drive paths are `$WOTR_DRIVE/War of the Realms — Documents/...` when an rclone
+> mount is configured in `~/.config/wotr/env`, and `docs/` / `docs/audio/`
+> otherwise. Secrets and paths come from that env file, never from the registry.
+
 # BOOK_PIPELINE.md — the War of the Realms book pipeline on n8n
 
 Design document, 2026-09-12; reviewed against the research notes, `build/mcp_server.py`, `build/verify.py` and `desktop/NATALIE.md` the same day. Written for the builder in the next session. Nothing in this file has been built; the numbers are estimates from the repo inventory and the research notes, and each is marked as such. Anything marked **to verify** is a claim the research does not settle; check it on the first run before relying on it.

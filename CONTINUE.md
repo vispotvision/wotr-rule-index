@@ -101,6 +101,22 @@ not on WIKI" in Notion -> "..." menu -> Connections -> add the "oridon"
 integration.** Once shared, the next sync picks it up with no code changes
 needed.
 
+## 2026-09-13, evening — second questionnaire round, all applied
+- Docket empty (pending=0). C-015 (psychic-distance bands vs R35-2) is the only open
+  conflict. Pack Twenty extracted (rules/pack-20-twenty.yaml); R40-1/R40-2 ratified
+  (Moto bank, Celestial pass); R9-1 closed; C-016 ruled.
+- Canon pages of the Living System carry the R38/R39 corrections (25 block edits);
+  three editions written in WOTR True Canon (Complete Magic System, Mechanism of the
+  Sixty, Character Template). 196/200 imports published; four Tovain stubs held.
+- The sync had not pushed all day: dead .git/worktrees/agent-* entries made git
+  print to stderr and sync.ps1 died under ErrorActionPreference=Stop before its
+  push. Fixed both; local commits ride up on the next run.
+- Bot: F2 (/scene save, /event) and the sheet checker are live; thread reading and
+  the auto-check wait on the Message Content intent (portal), then set
+  bot/config.yaml intents.message_content: true. ELEVENLABS_API_KEY still unset.
+- Another session is writing this repo too (judger / judger-assist skills appeared;
+  build/book_tools.py, ROADMAP.md, bot/PLAN.md modified by it) — pull before editing.
+
 ## 2026-09-13 — the questionnaire session
 - C-008 to C-014 ruled and closed (R39-1..R39-8, RULINGS.md 2026-09-13); R4-H1/H2 live;
   R2-OP/R4-OP superseded. validate.py PASS, 607 rules, pending=2 (R9-1, R20-2).

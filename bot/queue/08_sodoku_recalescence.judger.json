@@ -1,0 +1,556 @@
+{
+  "scene": "08_sodoku_recalescence",
+  "thread": "Kharven thread, the year after",
+  "proposals": [
+    {
+      "id": "P01",
+      "tool": "ledger_add",
+      "args": {
+        "category": "the dead",
+        "who": "Osric of Hallenfeld",
+        "text": "Osric of Hallenfeld, in the cistern doorway he put himself in, the black through him and Hild together at the ninth hour; his card still lists him living at 47.",
+        "due_condition": "Osric's card records the death, or the roll of the ninth hour's dead is read on the page"
+      },
+      "quote": "Hild Ice went in the doorway that Osric had put himself in. The black came through both of them together. [...] Osric's, four minutes old.",
+      "why": "L001-L005 carry Hild, Muken, Freya, Seiji and the eleven retainers; no Osric row. The Osric card has no death. Notes open item 6 lists it as unsettled, so the line records what the page says and the due leaves the card to Isaac.",
+      "confidence": "high"
+    },
+    {
+      "id": "P02",
+      "tool": "ledger_add",
+      "args": {
+        "category": "the dead",
+        "who": "Tomuka and Ezo Moto",
+        "text": "Tomuka, twelve, and Ezo, nine, the two sons of the corridor: Ayame named one and the named one was killed in front of her, and both were dead inside the year; which one she named has never been put into a sentence.",
+        "due_condition": "the page names which son Ayame named, or Isaac rules notes open item 4 (whether one brother was designed to survive)"
+      },
+      "quote": "Tomuka against the wall with a blade laid flat on his carotid at fifteen degrees off the edge, twelve years old, in a nightshirt and one boot [...] Ezo nine, four feet to the left, not restrained. [...] Then kill the one she named. [...] Both of them were dead inside the year. That was the other thing the architecture had allowed for.",
+      "why": "Not on the Ledger. Muken's card lists Tomuka and Ezo among his children; Sodoku's card names a brother Nergüi instead. The line records the page; the card clash is P18/P23.",
+      "confidence": "high"
+    },
+    {
+      "id": "P03",
+      "tool": "ledger_add",
+      "args": {
+        "category": "the dead",
+        "who": "Ayame Yuno",
+        "text": "Ayame Yuno, later, by her own hand, in a manner the household never described and Sodoku never asked about; the Saishiki liturgy went with her, and every Ice-out since is a mass grave read in death order by a man with a list.",
+        "due_condition": "Ayame's card is updated from 'Active in Kharven', or the next Ice-out reading is on the page"
+      },
+      "quote": "His mother went later, by her own hand, in the manner the household never described and which Sodoku has never asked anybody to describe. The Saishiki went with her. Nobody left holds the liturgy. Every Ice-out since, the ground opens and the whole winter's dead go in together and their names are read in the order they died, and what reads them now is a man with a list doing his best.",
+      "why": "Not on the Ledger. Ayame's card carries her as active and governing (P25).",
+      "confidence": "high"
+    },
+    {
+      "id": "P04",
+      "tool": "ledger_add",
+      "args": {
+        "category": "injuries and reserve",
+        "who": "Sodoku Moto",
+        "text": "Sodoku Moto: Freya's kitchen surrendered whole to Gisei on the ice; what is left is a shape with no contents, which he will go looking for that night and never understand.",
+        "due_condition": "the night of the ninth hour on the page, or any scene where Sodoku reaches for Freya: the kitchen must not be there"
+      },
+      "quote": "So he gave the kitchen. [...] All of it, offered whole, the last complete and undamaged thing he owned about Freya Moto, the one he had gone to in the dark for twelve years as a man goes to a fire. [...] afterward there was a shape where the kitchen had been and no contents in the shape, and he would go looking for it that night and find the shape and not understand what was supposed to be in it.",
+      "why": "A permanent reserve cost paid on the page (R12-1-PACK_SEVEN_SURVIVORS: the spending shows). L003 records Freya's death, not this memory. The due binds later scenes not to hand the kitchen back.",
+      "confidence": "high"
+    },
+    {
+      "id": "P05",
+      "tool": "ledger_add",
+      "args": {
+        "category": "injuries and reserve",
+        "who": "Sodoku Moto",
+        "text": "Sodoku Moto: blood from the mouth, both ears and through the mail at the untouched left shoulder; Hild's anchor out of the Crystal in one piece, the socket open, twelve years of Lattice collapsed through the Shell; the Shell gone from his surface so a hand meets deep water where the arm is.",
+        "due_after_sessions": 1
+      },
+      "quote": "Blood came out of his mouth and off his chin and out of both ears, and there was blood coming through the mail at the left shoulder where nothing had touched him. [...] the whole structure comes out of the Crystal in one piece and leaves the socket open. Twelve years of Lattice built around that seating [...] The Shell around it had gone somewhere and taken the surface of him with it.",
+      "why": "The physical bill of the severing; not on the Ledger (L006 is the year-after sleeplessness). Whether the Shell returns is not on the page, so the due is short.",
+      "confidence": "high"
+    },
+    {
+      "id": "P06",
+      "tool": "ledger_add",
+      "args": {
+        "category": "injuries and reserve",
+        "who": "Sodoku Moto",
+        "text": "Sodoku Moto: the strands ('The Plane itself, presenting') came down into him at the shoulders, the crown and the backs of both hands, more of them than he could have counted with the Ledger running, with nothing at his surface to resist; what they did to him and what they cost is not on the page.",
+        "due_condition": "the next scene in which Sodoku spends anything: the strands' bill shows on the page or it did not happen (R12-1-PACK_SEVEN_SURVIVORS)"
+      },
+      "quote": "The rest came to him, and there were more of them than he could have counted with the Ledger running. They came into the shoulders and the crown and the back of both hands and they went in without resistance, because there was nothing at the surface of him left to resist with",
+      "why": "R12-1-PACK_SEVEN_SURVIVORS: 'The economy is still a hard rail: power is finite, spent, and the spending shows on the page or it did not happen.' The Gisei bill is shown; the strands' is not. The line holds the debt open rather than inventing a cost.",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P07",
+      "tool": "ledger_add",
+      "args": {
+        "category": "injuries and reserve",
+        "who": "Yoko Mishiro",
+        "text": "Yoko Mishiro: a spearhead through the meat of the left thigh, snapped off at the socket, unmentioned and to stay unmentioned; she knelt on that leg in the ice.",
+        "due_after_sessions": 1
+      },
+      "quote": "There was a spearhead through the meat of her left thigh, snapped off at the socket, that she had not mentioned and would not mention, and she was kneeling on that leg",
+      "why": "An injury nobody on the page treats; not on the Ledger. Whether Sodoku ever learns of it is a question the reader logged; the due asks the next scene.",
+      "confidence": "high"
+    },
+    {
+      "id": "P08",
+      "tool": "ledger_add",
+      "args": {
+        "category": "injuries and reserve",
+        "who": "Sodoku Moto",
+        "text": "Sodoku Moto: the emptiness he met at thirty-two and in the water did not go out this time; it stayed and began to organise, and the page owes the fright it says he will feel later.",
+        "due_condition": "the later fright the page promises, or whatever the organised emptiness becomes"
+      },
+      "quote": "He had been here at thirty-two and he had been here in the water, and both times it had gone through him and out and left him standing, and this time it did not go out. It stayed. It began to organise, which is a thing emptiness had never done in front of him before, and he had no framework for it and watched it happen from the inside with a kind of clinical interest that would frighten him later.",
+      "why": "A change of state inside the PC the page leaves open ('would frighten him later'). Reserve, not injury; category is the nearest fit.",
+      "confidence": "high"
+    },
+    {
+      "id": "P09",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "the four-year-old in the room off the corridor",
+        "text": "The sound Ayame made in the corridor is on record in exactly one place, a four-year-old who was awake in a room off it, and it has been waiting on a trigger since; the page does not name the child.",
+        "due_condition": "the trigger"
+      },
+      "quote": "the sound she made is on record in exactly one place, which is inside a four-year-old who was awake in a room off that corridor, and it has been living there since, waiting on a trigger.",
+      "why": "The author notes identify the child as Emira ('Emira's present age. Four at the corridor'), but notes are author-facing, not canon; the line names nobody.",
+      "confidence": "high"
+    },
+    {
+      "id": "P10",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "Sodoku Moto",
+        "text": "Sodoku has never put which son Ayame named into a sentence; Reigan showed him the moment on the ice and he still did not make it into words.",
+        "due_condition": "anyone asks him, or the page names the son"
+      },
+      "quote": "Sodoku has never once put which of them she named into a sentence, and Reigan showed him the moment anyway and he took it and did not make it into words even now.",
+      "why": "A withheld fact the PC holds; the page insists on the withholding.",
+      "confidence": "high"
+    },
+    {
+      "id": "P11",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "Yoko Mishiro",
+        "text": "Yoko knows that under her hand Sodoku had no scent at all and that her nose, never wrong before, was wrong; it lives in her italic interior only and is never said aloud on the page.",
+        "due_condition": "Yoko says it aloud, or the scent is back on the page"
+      },
+      "quote": "It is wrong now. He is under my hand and there is no scent on him at all. Absent entirely, the absence of a room whose door you open a season after the person in it stopped living there.",
+      "why": "Only her italic interior carries it (see P33 for the POV-lock problem). Whether Sodoku knows is a reader question; the line does not answer it.",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P12",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "an unnamed man",
+        "text": "Hild's circlet is in an unnamed man's belt: she left it on a mounting block the morning of the ninth hour and forgot it, and he picked it up.",
+        "due_condition": "the circlet is seen again, or the man is named"
+      },
+      "quote": "The circlet was not on her head. She had left it on a mounting block that morning and forgotten it and a man had picked it up and put it in his belt.",
+      "why": "An object of the Kōkan claim loose in an unnamed hand; the reader logged the man as a question. Nothing on the Ledger carries the circlet.",
+      "confidence": "high"
+    },
+    {
+      "id": "P13",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "Sodoku Moto",
+        "text": "Sodoku knows whose point the first strand went down to in the Ashgate valley, four miles west: his brother, known since the whistle, put away three times now and never named on the page.",
+        "due_condition": "the brother is on the page, or Sodoku speaks of the strand that went west"
+      },
+      "quote": "The first of them went down into the Ashgate valley, four miles west, to a point Sodoku could locate exactly and had no way to reach. He knew whose point it was. He had known since the whistle and had put it away twice, and he put it away a third time now, because there was a thing coming down out of the sky into his brother and it was not his to look at",
+      "why": "The page never names the brother; the card's 'Sonzai Moto (brother, separated)' is not asserted here (see P41).",
+      "confidence": "high"
+    },
+    {
+      "id": "P14",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "Mizuyi",
+        "text": "Mizuyi is alive, married far south into a Zettari holding by her father, and her name sits in a Tenrai war room as a claim to be pushed against her own brothers' succession, without anybody having asked her.",
+        "due_condition": "Mizuyi, the Zettari holding, or the war-room claim on her name is next on the page (the Tenrai Front is closed and Seiji is L004 a year on; who now carries the claim is not on the page)"
+      },
+      "quote": "His sister in a Zettari holding a very long way south, married into the heaviest material in the Inner World by a father who had called it architecture [...] Alive. Out of reach. And her name in a Tenrai war room as a claim to be pushed, aimed at her own brothers' succession, without anybody having asked her.",
+      "why": "A living sibling with a claim in play; on no card and no Ledger line. Sodoku's card lists only Emira and Sonzai (P23).",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P15",
+      "tool": "ledger_add",
+      "args": {
+        "category": "who knows what",
+        "who": "the Court",
+        "text": "Three Court assessments record the same unexplained inefficiency in Sodoku's line and none found the cause; the cause discharged on the ice at the narrows, and no instrument the Court owns can read what a soul is holding unspent.",
+        "due_condition": "the next assessment of Sodoku's line"
+      },
+      "quote": "Three assessments had recorded the same unexplained inefficiency in his line and none of them had found the cause. The cause was that a supercooled thing is indistinguishable from a cold thing at the surface, and no instrument the Court owns can tell you what a soul is holding that it has not yet spent.",
+      "why": "The Court has a record and a gap; the page has the explanation the Court does not. Card carries Coherence Band D, not the assessments.",
+      "confidence": "high"
+    },
+    {
+      "id": "P16",
+      "tool": "ledger_add",
+      "args": {
+        "category": "reputation",
+        "who": "Sodoku Moto",
+        "text": "Sodoku: knelt in the ice at the narrows and steamed, four feet of ice to the mud in under two seconds; every man upright within sixty feet turned to look, and the ones fighting eleven seconds earlier did not start again.",
+        "due_after_sessions": 3
+      },
+      "quote": "The ice around both knees went. Four feet of it, to the mud, in under two seconds, and the steam came off him and stood [...] Every man still upright inside sixty feet turned to look. Some of them had been fighting eleven seconds earlier. None of them started again.",
+      "why": "Seen by every man inside sixty feet; the existing reputation lines carry due 3. Whether the fighting resumed is a reader question the page leaves open.",
+      "confidence": "high"
+    },
+    {
+      "id": "P17",
+      "tool": "ledger_add",
+      "args": {
+        "category": "debts",
+        "who": "Sodoku Moto",
+        "text": "Sodoku to Yoko: she has been there since they were children and he has never once said anything about it to her; felt at the anchor layer on the ice, still unsaid when he stood.",
+        "due_condition": "the next scene the two share in which he could say it"
+      },
+      "quote": "Everything else is gone and she is still here and she has been still here since we were children and I have never once said anything about it to her.",
+      "why": "The page states the debt in the PC's own italics and the scene ends without discharging it. Category 'debts' by analogy with L013 (an explanation owed); Isaac may prefer 'who knows what'.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P18",
+      "tool": "ledger_add",
+      "args": {
+        "category": "canon conflicts",
+        "who": "Sodoku Moto / Muken Moto / Ayame Yuno",
+        "text": "The corridor's dead: Sodoku's card has Muken, his mother and his brother Nergüi taken in one night; the page has Muken with no wound, Tomuka twelve and Ezo nine in the corridor and dead inside the year, Ayame later by her own hand, and Mizuyi alive in the south. Muken's own card agrees with the page on the manner of his death and lists Tomuka and Ezo; neither card knows Mizuyi.",
+        "due_condition": "Isaac rules which family the corridor took and which card is rewritten"
+      },
+      "quote": "No wound. That is the whole of it [...] Tomuka against the wall [...] twelve years old [...] Ezo nine, four feet to the left [...] His mother went later, by her own hand [...] And Mizuyi, who was alive.",
+      "why": "Sodoku card: 'A Tenrai-commissioned corridor assassination took his father Muken, his mother, and his brother Nergüi in one night.' Muken card: 'Killed via Tenrai-orchestrated removal through convergence-friendly channels, not open combat' and children 'Sodoku, Sonzai, Emira, Tomuka, Ezo'. Blocking: nobody can write Sodoku's family until this is picked. Recorded, not resolved.",
+      "confidence": "high"
+    },
+    {
+      "id": "P19",
+      "tool": "ledger_add",
+      "args": {
+        "category": "canon conflicts",
+        "who": "Yoko Mishiro",
+        "text": "Yoko Mishiro's card has her settled in a cabin on the Scourge's edge with Temür, their son Riku and a second child coming; the page has her at the narrows at a flat sprint with a spearhead in her thigh, reaching for Sodoku.",
+        "due_condition": "Isaac rules which Yoko the Kharven year carries, or dates the card to another era"
+      },
+      "quote": "She came out of the ice at the edge of the road at a flat sprint with her ears down and her tail out for balance, and she went to one knee beside him and put her hand around his forearm.",
+      "why": "Yoko card: 'Standing Unaffiliated, settled — a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way'. Blocking for any Yoko line on this thread.",
+      "confidence": "high"
+    },
+    {
+      "id": "P20",
+      "tool": "ledger_add",
+      "args": {
+        "category": "canon conflicts",
+        "who": "Sodoku Moto",
+        "text": "Sodoku's clock: the page has fourteen years since the corridor as half his life (twenty-eight per the author notes), 'here at thirty-two', and the corridor sound 'five years ago'; his card says twenty-two. Three numbers on one page against a fourth on the card, and the author notes list four earlier scenes carrying a nineteen that is now wrong.",
+        "due_condition": "Isaac fixes the age, and the notes' sweep of The Fixed End, The Shallow-Seen Unburied, The Howling Hawk and The Muster runs or is refused"
+      },
+      "quote": "He had been supercooled for half his life. [...] Fourteen years. Everything from the corridor onward, held below the point [...] He had been here at thirty-two and he had been here in the water [...] the sound a four-year-old had heard on a floor in Kharven-Seat five years ago",
+      "why": "Sodoku card: 'Age 22'. Notes: 'Ages applied: Sodoku 28, Yoko 28, Hild 12' and 'Sweep required in already-delivered files'. Recorded, not resolved.",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P21",
+      "tool": "ledger_add",
+      "args": {
+        "category": "canon conflicts",
+        "who": "Muken Moto",
+        "text": "Muken's reign: nineteen years on the page, sixteen on his card.",
+        "due_condition": "Isaac picks the number (notes open item 1)"
+      },
+      "quote": "Nineteen years of a reign and his son cannot point at a moment.",
+      "why": "Muken card: 'Refined over sixteen years of rule' and 'Sixteen years of rule matured Hataraki'. The notes call it 'the only unreconciled number in the scene'.",
+      "confidence": "high"
+    },
+    {
+      "id": "P22",
+      "tool": "card_note",
+      "args": {
+        "target": "Sodoku Moto",
+        "note": "The scene names the eye Reigan throughout; the card names it 'The Kamigan, Crown Eye · Innate · Judicium'. Scene 04's notes elected 'Reigan per the Moto Reversion Ledger. Spirit Sight.' (the Ledger's rename table: Süldiin→Reigan, the Spirit Sight) and the card was never changed. The scene also has the eye stuck open with no operator, which the card's 'A continuous, unclosable system' half-supports and half-contradicts (the page treats an open eye as a failure state)."
+      },
+      "quote": "Reigan was open. It had been open since the hand came off his shoulder and it had no operator in it any more, and so it showed him everything at once and in no order and did not stop to ask.",
+      "why": "Card versus page on the eye's name and nature; Isaac updates cards.",
+      "confidence": "high"
+    },
+    {
+      "id": "P23",
+      "tool": "card_note",
+      "args": {
+        "target": "Sodoku Moto",
+        "note": "Family on the page not on the card: a sister Mizuyi (married south into a Zettari holding), brothers Tomuka (twelve at the corridor) and Ezo (nine), a mother named Ayame Yuno who died later by her own hand. The card's Catalyst names a brother Nergüi and its bond rows list Emira and Sonzai as the only siblings. Muken's card already lists Tomuka and Ezo. The page also records three Court assessments of an unexplained inefficiency in his line, which the card's Coherence Band D does not mention."
+      },
+      "quote": "Tomuka against the wall [...] Ezo nine, four feet to the left [...] Ayame Yuno came down that corridor [...] And Mizuyi, who was alive.",
+      "why": "Companion to P18: what the card would need to carry.",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P24",
+      "tool": "card_note",
+      "args": {
+        "target": "Muken Moto",
+        "note": "Reign length: the page says nineteen years, the card sixteen ('Refined over sixteen years of rule'). No child Mizuyi on the card's children row (Sodoku, Sonzai, Emira, Tomuka, Ezo)."
+      },
+      "quote": "Nineteen years of a reign and his son cannot point at a moment.",
+      "why": "Companion to P21.",
+      "confidence": "high"
+    },
+    {
+      "id": "P25",
+      "tool": "card_note",
+      "args": {
+        "target": "Ayame Yuno",
+        "note": "The card's current status is 'Active in Kharven, maintaining the White Concord while Muken pursues campaigns at the fringes of the North.' The page has her dead later by her own hand, the Saishiki liturgy lost with her, and the Ice-out reading passed to a man with a list. The page's White Concord pale silk with silver thread agrees with the card's Concord role."
+      },
+      "quote": "His mother went later, by her own hand, in the manner the household never described [...] The Saishiki went with her. Nobody left holds the liturgy.",
+      "why": "Companion to P03; notes open item 5 ('Ayame Yuno governs, Agamalu retired. Sweep outstanding').",
+      "confidence": "high"
+    },
+    {
+      "id": "P26",
+      "tool": "card_note",
+      "args": {
+        "target": "Osric of Hallenfeld — The Patient Hand",
+        "note": "The card carries no death: 'Age: 47 ... Role: Strategic uncle to Hild Ice, political architect of the Kokan Loyalist Coalition'. The page kills him in the cistern doorway with Hild at the ninth hour."
+      },
+      "quote": "Hild Ice went in the doorway that Osric had put himself in. The black came through both of them together.",
+      "why": "Companion to P01.",
+      "confidence": "high"
+    },
+    {
+      "id": "P27",
+      "tool": "card_note",
+      "args": {
+        "target": "Hild Ice (Stark) — The Sword Princess",
+        "note": "Three things. (1) Age: card 11, page 'Twelve years of Lattice built around that seating, the whole of the girl's life' (L001 already says twelve). (2) The card's Sodoku row says 'Has never met him'; the page has a twelve-year Attraction Layer anchor seated in Sodoku's Crystal that held one and a half seconds past her death. (3) Nothing on the card carries a circlet, which the page has her leaving on a mounting block; and the manner of death (four lines from left shoulder through the ribs to the hip, not cuts, in strips) is new."
+      },
+      "quote": "At the Attraction Layer her anchor was intact for the length of one and a half seconds afterward. [...] Twelve years of Lattice built around that seating, the whole of the girl's life.",
+      "why": "Card: 'Sodoku Moto (father) | Has never met him. Carries his jaw, his cadence, his blood.' A bond of that magnitude against 'has never met him' needs Isaac's word on what an Attraction anchor requires.",
+      "confidence": "high"
+    },
+    {
+      "id": "P28",
+      "tool": "card_note",
+      "args": {
+        "target": "Hild Ice (Stark) — The Sword Princess",
+        "note": "Hild's mother. The card: 'Bloodline: Kōkan Line (paternal) / Stark (maternal)', 'Fern Stark (mother, deceased) | Died when Hild was 8-9', 'Cheekbones sharper than Sodoku's, Fern's contribution'; Lorn's card: 'this is my sister's daughter, and my sister is dead'. The page ties Freya Moto to a twelve-year kitchen memory beside twelve years of Hild's life, and the author notes say outright 'Hild at twelve means Freya died at or near her birth'. The page itself never says Freya is Hild's mother; the notes do. Isaac decides whether Fern and Freya are one woman, two, or a rename."
+      },
+      "quote": "the last complete and undamaged thing he owned about Freya Moto, the one he had gone to in the dark for twelve years as a man goes to a fire.",
+      "why": "The link rests on the author-facing notes plus juxtaposition, not on a sentence of the page, hence medium.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P29",
+      "tool": "card_note",
+      "args": {
+        "target": "Yoko Mishiro",
+        "note": "The page gives Yoko old marks around both ankles under the boot tops that 'had never stopped being marks'; the card's catalyst is 'The lock on the pen' but the card text does not carry ankle marks. The page also asserts shared history the card should carry if true: Sodoku once 'called me a tool' when she offered her nose, she 'made my peace with the word on a step in the rain', and she has been reaching for him 'since before he ever said my name out loud'."
+      },
+      "quote": "there were old marks around both ankles under the boot tops that had stopped being wounds a long time ago and had never stopped being marks.",
+      "why": "Grep of the card finds no ankle or manacle; the card excerpt in the gather agrees. Medium because the card is long and the check was a search, not a full read.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P30",
+      "tool": "npc_set",
+      "args": {
+        "name": "Yoko Mishiro",
+        "thread": "Kharven thread, the year after",
+        "want": "to reach him: 'I have been reaching for this man since before he ever said my name out loud'",
+        "knows": [
+          "Sodoku had no scent at all under her hand; her nose was wrong for the first time",
+          "under her hand the arm's surface was not there: her fingers went through the mail where the arm should have been, met resistance the way a hand meets deep water, and held nothing",
+          "her own spearhead through the left thigh, which she has not mentioned and will not"
+        ],
+        "last_seen": "08_sodoku_recalescence"
+      },
+      "quote": "I have been reaching for this man since before he ever said my name out loud. [...] There was a spearhead through the meat of her left thigh, snapped off at the socket, that she had not mentioned and would not mention",
+      "why": "The roster for this thread is empty. Only the fields the page changes are set; no refusal line is spoken on the page and nothing is lied about (the spearhead is withheld, not lied about), so those fields are left out.",
+      "confidence": "high",
+      "fixed": true
+    },
+    {
+      "id": "P32",
+      "tool": "propose_rule",
+      "args": {
+        "title": "What an Attraction Layer anchor does when the far end dies",
+        "rule_text": "An Attraction Layer bond does not tear when the far end dies. The seating holds for a short measurable interval after the body stops (one and a half seconds on the page), then the whole structure comes out of the Crystal in one piece and leaves the socket open. Lattice built around the seating collapses through the Shell in the order it was laid down, and the body pays at whatever points the preceding hours left weakest. The practitioner has every instant of the interval.",
+        "applies_to": [
+          "magic-mechanism",
+          "adjudication"
+        ],
+        "rationale": "No rule row governs. R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION covers a different bond and says of itself 'this rule is silent on ending'. The Living System (Part Fourteen, no rule row) says Attraction Force bonds 'survive time, death, distance and change' and lists 'Carrying bonds past death in forms that remain clean and reciprocal', while the collapse the page describes matches its Obsession degradation ('removal of the object produces fracture events'). Which force the Sodoku-Hild bond ran under, and whether the page's mechanism is canon, is for Isaac; the rule text is the page's own account so he can adopt or strike it whole."
+      },
+      "quote": "An Attraction Layer bond does not tear. It is seated, and when the far end stops existing the seating has nothing to hold against, and the whole structure comes out of the Crystal in one piece and leaves the socket open.",
+      "why": "The scene states a mechanism no pack states. Proposed as written on the page, not as a resolution of the Living System's two readings.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P33",
+      "tool": "conflict_note",
+      "args": {
+        "target": "C-008",
+        "note": "C-008 was closed by R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK ('no NPC italic thought inside a locked-POV scene'). This scene is Sodoku's (R35-2 close register) and carries a sustained italic first-person interior from Yoko Mishiro (from '*Nothing.*' through '*... since before he ever said my name out loud.*'). The scene sits against the ruling that closed the conflict. Isaac decides whether the scene is revised (Yoko's interior moved to what Sodoku can see or to a scene of her own) or the ruling reopened for a two-hander at a touch."
+      },
+      "quote": "*It is wrong now. He is under my hand and there is no scent on him at all.*",
+      "why": "R39-7: 'The narration-distance rule wins: no NPC italic thought inside a locked-POV scene.' R35-2: 'Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto'. The ruling is quoted, not applied; the conflict is recorded.",
+      "confidence": "high"
+    },
+    {
+      "id": "P34",
+      "tool": "conflict_note",
+      "args": {
+        "target": "C-015",
+        "note": "C-015 is open: Pack Twenty gives Sodoku band 3 while R35-2 puts him in close register. This scene relies on close register for the PC's own sustained italics ('*She is still here.*' / '*Everything else is gone and she is still here...*'), which R35-1 licenses only at close distance ('Sustained italicized direct thought is available'). If Pack Twenty's band 3 governs, the scene's Sodoku italics are also in question, not only Yoko's."
+      },
+      "quote": "*She is still here.* *Everything else is gone and she is still here and she has been still here since we were children and I have never once said anything about it to her.*",
+      "why": "The scene sits on an open conflict; nothing resolved.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P35",
+      "tool": "conflict_note",
+      "args": {
+        "target": "C-NEW (length: R1-3 minimum against Table Rule 2 band)",
+        "note": "Not yet a row in CONFLICTS.md. Verification (run with --band standard): 'WARN length 3970 words, outside the standard band 700–1500 (Table Rule 2)'; the count includes the Notes section, the scene body alone is 3,476 words. R1-3-SCENE_STANDARDS_DEFINED: 'The standing Scene Standards (minimum 2,500 words, ...) apply in full to all scenes except mass combat sequences'. Table Rule 2 (desktop/NATALIE.md): 'Conversational 300 to 700. Standard 700 to 1,500. Set piece 2,500 minimum with full scene standards. Default to the middle.' The rule row applies the 2,500 minimum to all scenes; the table ties it to set pieces only. Either the scene is a set piece and passes both (then the verify band was wrong), or it is a standard turn and R1-3 and Table Rule 2 disagree about it. Isaac logs the row or rules which governs."
+      },
+      "quote": "Sodoku Moto knelt in the ice at the ninth hour of the worst day of his life and steamed.",
+      "why": "A quoted rule and a quoted verifier line disagree on the same page; recorded for the Judger. The scene quote is placement only (the conflict is about the whole file's length).",
+      "confidence": "medium",
+      "fixed": true
+    },
+    {
+      "id": "P36",
+      "tool": "conflict_note",
+      "args": {
+        "target": "C-NEW (recalescence: converted grief, compound sentence, or chemistry)",
+        "note": "Not yet a row. The scene's spine is a thermodynamic account of grief. R16-7-NOT_CONVERTED: 'It does not apply to: - The body. Chest, hands, gut. ... - Grief and the elegiac beat. ... A converted grief is a failed grief.' R16-3-COMPOUND_SENTENCE licenses '[the real phenomenon, correctly named] + [the system term as its name, its boundary condition, or its address] + [what the body or the room did]'. R6-2-CHEMISTRY_BAN bars 'Real-world scientific vocabulary explaining a sensory impression ... unless the POV is a practitioner of that specific craft actively diagnosing.' Sodoku is not a metallurgist. Whether the passage is a converted grief (fail), a compound technical sentence (pass) or ambient chemistry (fail) is not settled by the rules. Related: the R6-3-IGNORANCE_QUOTA candidate 'he had no framework for it' is rescued one section later by 'Recalescence.', and the Wellspring name in narration ('Oblation converts identity into intensity') sits on R9-2-VOCAB_BAN_NARROWED (Wellspring names banned absolutely) against R12-1-PACK_SEVEN_REPEALED and R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB's diagnostic-voice carve-out."
+      },
+      "quote": "A liquid held below its freezing point does not have to freeze. If nothing in it gives the crystal a place to start, it will sit there, colder than the point at which it should have gone solid, holding the whole latent heat of the change it has not made.",
+      "why": "Three live rules read the same passage three ways; recorded, not resolved.",
+      "confidence": "medium",
+      "fixed": true
+    },
+    {
+      "id": "P37",
+      "tool": "propose_rule",
+      "args": {
+        "title": "What a Gisei-surrendered memory leaves",
+        "rule_text": "A memory surrendered to Gisei leaves a shape with no contents. The practitioner feels the conversion and does not feel what left; afterward he can find where the memory was and cannot know what it held. There is no recovery and no appeal.",
+        "applies_to": [
+          "magic-mechanism",
+          "adjudication",
+          "prose-law"
+        ],
+        "rationale": "The Asami and Gisei page (no rule row) says of memories: 'A specific memory, permanently surrendered. Not suppressed. Not forgotten in the recoverable sense. Erased from the Core's identity layer as though it never existed.' A findable shape may or may not be consistent with 'as though it never existed'. The page's residue is proposed for the Ledger (P04) and later scenes need to know whether Sodoku can notice the gap. Rule text is the page's own account, for Isaac to adopt or strike."
+      },
+      "quote": "He felt the conversion happen and did not feel what left. That is how it is built. The output arrived in his hands and the room went out of him at the same instant, and afterward there was a shape where the kitchen had been and no contents in the shape",
+      "why": "A mechanism the page asserts and no rule row governs.",
+      "confidence": "medium",
+      "fixed": true
+    },
+    {
+      "id": "P38",
+      "tool": "timeline_note",
+      "args": {
+        "target": "08_sodoku_recalescence",
+        "note": "Row 24 already reads 'The narrows. Immediately.' and needs no change. In-scene anchors for the placed column: immediately after the hand came off his shoulder (07); Osric's death four minutes old; the ninth hour of the worst day of his life; no wind in the valley since the aurora; Seiji eight miles up the road with six hundred men. No timeline row is contradicted."
+      },
+      "quote": "It had been open since the hand came off his shoulder [...] Osric's, four minutes old. [...] Sodoku Moto knelt in the ice at the ninth hour of the worst day of his life and steamed.",
+      "why": "For the timeline's 'placed' column, which is blank for rows 20 through 24.",
+      "confidence": "high"
+    },
+    {
+      "id": "P39",
+      "tool": "inventory_note",
+      "args": {
+        "target": "fronts",
+        "note": "No open Front on this thread moved (Table Rule 4 asks for at least one tick per session). All five open Fronts sit at the year-after state (the Accord circle 'signed, Sodoku's hand last'; Wren 'unrecorded since the narrows'); this scene is at the ninth hour, a year earlier, and none of the five wants (the Keth-Gorrum's word, the Accord reading, Tabitha's grain question, Bram's omission, Wren seen) appears on the page. The one Front the page touches is the Tenrai, which is closed ('Kept for the record'): Seiji is alive eight miles up the road here and L004 has him dead a year on, which is not a contradiction. Two things on the page have a Front's shape and no Front: the strands and the brother in the Ashgate valley (P06, P13), and the man with Hild's circlet (P12). Both wants are unknown, so no add_front is drafted; Isaac decides whether either becomes one."
+      },
+      "quote": "Seiji Tenrai Moto was eight miles up that road with six hundred men and a claim and four sets of messengers on four corridors.",
+      "why": "Table Rule 4 is not met by this session and the note says why rather than inventing a tick.",
+      "confidence": "high"
+    },
+    {
+      "id": "P40",
+      "tool": "inventory_note",
+      "args": {
+        "target": "Standing Inventory — Kharven",
+        "note": "Verification: 'FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)'. None of the woodpile, the night-stone, wet wood, the Thin Weeks or the death-house is on the page. What the page invents about Kharven's dead, which under R6-9 ('anything newly invented is entered into the Inventory the same session or it does not exist') either enters the Inventory or does not exist: the Ice-out as a mass grave for the whole winter's dead with names read in death order; the reading now done by 'a man with a list doing his best'; the Saishiki liturgy, lost with Ayame. These sit beside the existing death-house / the Waiting item and may belong with it."
+      },
+      "quote": "Every Ice-out since, the ground opens and the whole winter's dead go in together and their names are read in the order they died, and what reads them now is a man with a list doing his best.",
+      "why": "R6-9: 'Identity is repetition. Novelty is its enemy.' The recurrence FAIL and the new Kharven texture are one decision for Isaac.",
+      "confidence": "high"
+    },
+    {
+      "id": "P41",
+      "tool": "card_note",
+      "args": {
+        "target": "Sodoku Moto",
+        "note": "The card's bond row reads 'Sonzai Moto (brother, separated) — Heavy, unresolved. The Kamigan's threat-queue on his whereabouts has never closed.' The page has Sodoku able to locate 'exactly' the point in the Ashgate valley the first strand went down to, knowing 'whose point it was' since the whistle, and calling that man his brother. The page never names him. If the brother is Sonzai, the card's open threat-queue on his whereabouts is contradicted; if not, the card is missing a brother."
+      },
+      "quote": "to a point Sodoku could locate exactly and had no way to reach. He knew whose point it was. He had known since the whistle",
+      "why": "Identity unnamed on the page; recorded as either/or, not decided.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P42",
+      "tool": "inventory_note",
+      "args": {
+        "target": "Standing Inventory — Sodoku Moto idiom",
+        "note": "Invented this scene as the PC's own figure and likely to recur: supercooling / recalescence (a soul held below the point, undischarged, waiting on a seed; the front running in dendrites along the avenues of the arms; the latent heat coming out as steam). If it recurs it is an Inventory item; if it is a one-scene figure R6-9 says it does not exist after tonight. Also new: the Tenrai as 'architecture' (the corridor design, the marriage south), which the page uses four times."
+      },
+      "quote": "The front started at the Soul Crystal and propagated outward and it did not travel evenly, it went in branches, dendrites, running out along the paths that were already there, and the paths that were already there were the avenues of his arms.",
+      "why": "R6-9-RECURRENCE_RULE; see P36 for whether the figure is legal at all.",
+      "confidence": "medium",
+      "fixed": true
+    },
+    {
+      "id": "P43",
+      "tool": "inventory_note",
+      "args": {
+        "target": "Standing Inventory — the corridor assassin",
+        "note": "The unnamed killer in the corridor (the author notes call it 'Shiraku unnamed'; the page names nobody) is given three tells that should recur if it ever returns: a smell of damp stone, lamp oil and turned flowers; a second blade at the left hip in a scabbard two inches too short with the exposed steel gone dull grey; and shutting a wing by putting the shutting into the guards' heads instead of the doors. Enter or discard under R6-9."
+      },
+      "quote": "It smelled of damp stone and lamp oil and something sweet under both, flowers left in a sealed room until they turned. It had a second blade at the left hip in a scabbard two inches too short, so the last of the steel stood exposed and had gone dull grey with it.",
+      "why": "Three invented, recurrable details on an unnamed figure; the notes' name is not carried into the proposal.",
+      "confidence": "medium"
+    },
+    {
+      "id": "P44",
+      "tool": "inventory_note",
+      "args": {
+        "target": "verifier: R4-14-CHAIN_CEILING",
+        "note": "The FAIL 'three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)' counts a sentence from the '## Notes' section ('And the two clocks reconcile. *The Path of Sorrow* has him at nineteen ...', 36 words) as the third of the chain, after the scene body's last two sentences (56 and 32 words). Within the body no three consecutive sentences exceed 25 words. The rules clerk believes the checker reads past '## Notes' and has not changed it (CLAUDE.md: fix the data, not the checker; if the checker is wrong, say so and stop). Isaac decides whether the verifier stops at Notes."
+      },
+      "quote": "They came into the shoulders and the crown and the back of both hands and they went in without resistance, because there was nothing at the surface of him left to resist with, and the crystallisation front reached the last joint of the last finger of his right hand at the moment the first strand landed.",
+      "why": "Not an Inventory item; filed here because it needs a hand on build/, which this run cannot touch.",
+      "confidence": "medium"
+    }
+  ],
+  "rejected": [
+    {
+      "id": "P31",
+      "tool": "log_ruling",
+      "reason": "Fails (1): the quote '### Ages applied: Sodoku 28, Yoko 28, Hild 12' is in the '## Notes (author-facing, not canon)' section, not in '## Scene'. Fails (2): log_ruling records 'a ruling Isaac made at the table'; the notes are the drafter addressing Isaac ('per the file, against your nine and seven'), so logging it would invent a ruling. The age clash is already carried to Isaac by P20 as a canon conflict. Also (4): rule_id must be a string ('new'), not null."
+    }
+  ]
+}

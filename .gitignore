@@ -25,3 +25,6 @@ build/index/
 
 # Obsidian vault config (the repo can be opened as a vault; the config is personal)
 .obsidian/
+bot/queue/*.gather.md
+bot/queue/*.propose.json
+bot/.bot.log

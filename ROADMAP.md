@@ -164,7 +164,8 @@ spread over the hits plus a keyword share (exact names still win), and show
 the passages that matched. The index is gitignored; `sync.ps1` rebuilds it.
 
 - [x] `build/embed_index.py`, hybrid `wiki` / `scene_recall`, sync step
-- [ ] a `scene_context(draft)` tool: names and places in a draft → the cards and pages they need (the lorebook trick, on demand)
+- [x] `scene_context(draft)`: the lorebook — every name in a draft to its card or page, the prior scenes on the same ground, struck Büri terms, names with no page (`build/lorebook.py`; `build/aliases.yaml` maps archive names to card titles — Darius is Ignatius's card, and the card should carry that name)
+- [x] the Judger's assistant: `/judger <scene>` runs `.claude/workflows/judger-assist.js` — a reader of record, a rules clerk, a table clerk and a skeptic turn an archived scene into proposals (`ledger_add`, `advance_front`, `npc_set`, `log_ruling`, `propose_rule`, notes for Isaac's hands) in `bot/queue/<slug>.judger.md` + `.json`; `/judger apply <scene> P01 ...` (`build/judger_apply.py`) runs only the ids Isaac names. Nothing writes to the table until he does. The bot posts the JSON as cards with buttons (Phase F1/F2)
 
 ## Phase F — the Discord bot
 

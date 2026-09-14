@@ -13,6 +13,8 @@
   python build/book_tools.py gap_fill book/x/ch01/draft_r0.md
   python build/book_tools.py voice_check "Sodoku Moto" "the line as written"
   python build/book_tools.py loadout standard             # the applies_to tags for a scene type
+  python build/book_tools.py scene_context scenes/x.md    # the lorebook: every name's card/page, prior scenes, names with no page
+  python build/book_tools.py roster Kharven              timeline
 
 Same functions the MCP serves (build/mcp_server.py), UTF-8 on stdout, nothing that
 writes: archiving a chapter is archive_scene through the MCP, on Isaac's approval only.
@@ -78,6 +80,12 @@ def main() -> int:
         print(M.voice_fingerprints())
     elif t == "loadout":
         print(" ".join(M.LOADOUTS.get(x[0], M.LOADOUTS["standard"])))
+    elif t == "scene_context":
+        print(M.scene_context(Path(x[0]).read_text(encoding="utf-8")))
+    elif t == "roster":
+        print(M.roster(x[0] if x else ""))
+    elif t == "timeline":
+        print(M.timeline())
     else:
         sys.exit(f"unknown tool {t}")
     return 0

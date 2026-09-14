@@ -210,8 +210,19 @@ except, if needed, moving pure helpers the bot shares into `common.py`.
    list.
 2. Whether players may `/bind` to any card or only to cards on an allowed
    list (PCs), with NPCs reserved to the Judger.
-3. Whether `/scene archive` also runs `session_end`'s Ledger candidates into
-   the Judger queue automatically or only on request.
+3. ~~Whether `/scene archive` also runs `session_end`'s Ledger candidates into
+   the Judger queue automatically or only on request.~~ Answered 2026-09-13:
+   neither. The close is drafted by Claude Code, not by regex — the
+   `judger-assist` workflow (`/judger <slug>`) reads the archived scene and
+   writes `bot/queue/<slug>.judger.json`: `{"scene", "thread", "proposals":
+   [{id, tool, args, quote, why, confidence}], "rejected": [...], "applied":
+   [...]}`. The bot's part (F1): watch `bot/queue/` and post each proposal in
+   `#judger` as a card — the call in words, the quote, a ✔ Approve / ✘ Set
+   aside pair; Approve calls the named tool with the args exactly as given and
+   appends `{id, tool, when, result}` to `applied`; a proposal already in
+   `applied` is never run again (`build/judger_apply.py` is the reference
+   implementation and the command-line path). `session_end` stays available
+   for Natalie's own sessions; the bot does not call it.
 
 ## 10. Order of work
 

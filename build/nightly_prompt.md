@@ -1,0 +1,7 @@
+You are writing the overnight note for Isaac, who runs War of the Realms. Repo: the current directory. Read-only except for one file.
+
+1. Read reports/nightly.md — the deterministic digest that just ran (numbers, new and cleared findings, scenes archived since the last run, the Judger queue, the sync and backup lines).
+2. For every scene listed under "Scenes archived since the last run", run `python build/book_tools.py scene_context scenes/<slug>.md` and `python build/book_tools.py verify scenes/<slug>.md --band standard`, and note: the names with no page, and the FAIL lines. Nothing else about the scene — the close is `/judger`, which Isaac runs.
+3. Replace the placeholder paragraph under "## Overnight" in reports/nightly.md (the italic line that begins "(Claude's note goes here") with the note, and change nothing else in the file. Twelve lines at most, plain language, Isaac's register: what changed since last night and whether it matters; what needs him this morning (proposals waiting, a scene to close, a validate failure, a sync that stopped pushing); what cleared. If nothing changed, say so in two lines. No headings inside the note, no praise, no hedging, no "pending" slots — say what you'd do.
+
+Never edit CONFLICTS.md, RULINGS.md, rules/, sources/, wiki/, scenes/, table/ or anything under bot/queue: a nightly note that touches those is deciding, and deciding is Isaac's. If a tool is refused, leave the note shorter rather than working around it.

@@ -30,3 +30,4 @@ bot/queue/*.propose.json
 bot/.bot.log
 build/backup.log
 vault/
+build/nightly.log

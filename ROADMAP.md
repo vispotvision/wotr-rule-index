@@ -195,6 +195,25 @@ the passages that matched. The index is gitignored; `sync.ps1` rebuilds it.
 - [x] `scene_context(draft)`: the lorebook — every name in a draft to its card or page, the prior scenes on the same ground, struck Büri terms, names with no page (`build/lorebook.py`; `build/aliases.yaml` maps archive names to card titles — Darius is Ignatius's card, and the card should carry that name)
 - [x] the Judger's assistant: `/judger <scene>` runs `.claude/workflows/judger-assist.js` — a reader of record, a rules clerk, a table clerk and a skeptic turn an archived scene into proposals (`ledger_add`, `advance_front`, `npc_set`, `log_ruling`, `propose_rule`, notes for Isaac's hands) in `bot/queue/<slug>.judger.md` + `.json`; `/judger apply <scene> P01 ...` (`build/judger_apply.py`) runs only the ids Isaac names. Nothing writes to the table until he does. The bot posts the JSON as cards with buttons (Phase F1/F2)
 
+## The nightly — done 2026-09-13
+
+What n8n was for, without the key. The scheduled task `WOTR nightly` (03:30)
+runs `build/nightly.ps1`: `build/nightly.py` (validate, resolve, the three
+archive audits, the Büri sweep; every finding hashed by file, check and text
+against `build/.nightly_state.json` so `reports/nightly.md` says NEW /
+CLEARED / STILL OPEN; the scenes archived since the last run, each a
+`/judger <slug>` for the morning; the Judger queue; the sync and backup
+logs), then Claude Code headless on the subscription writes the "Overnight"
+note at the top (`build/nightly_prompt.md`; tools locked to reading, the
+read-only CLI, and editing the digest itself — it can decide nothing), then
+the digest and the audit reports are committed and pushed. `session_start`
+shows the note while it is under 36 hours old. The Claude step needs the
+CLI signed in once (`claude /login`, Isaac's hands); until then the numbers
+run alone, and `WOTR_NIGHTLY_NO_CLAUDE=1` turns the step off on purpose.
+
+- [x] `build/nightly.py`, `build/nightly.ps1`, the task, the OVERNIGHT block in `session_start`
+- [ ] the book dispatcher (ideas I29): the next chapter while Isaac sleeps, gated every fifth
+
 ## Phase F — the Discord bot
 
 Planned 2026-09-13; the plan is `bot/PLAN.md`. A deterministic,

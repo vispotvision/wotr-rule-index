@@ -49,6 +49,10 @@ locked behind `--qwen` (drift); nothing new on the voice roadmap until one
 engine holds Gimbzo across three renders. CosyVoice is in flight in another
 session (`build/cosy_worker.py`, uncommitted).
 
+**The nightly.** `WOTR nightly` (03:30) runs `build/nightly.ps1`; the digest is
+`reports/nightly.md`, shown by `session_start` while fresh. Its Claude step
+waits on `claude /login` (the CLI is not signed in; Isaac's hands).
+
 **The book.** `.claude/workflows/book-chapter.js` writes chapters in Claude
 Code; the design is `book/design/BOOK_PIPELINE.md` (moved from `n8n/`; its
 n8n transport needs an API key that does not exist — do not build toward it).

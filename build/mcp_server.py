@@ -443,6 +443,25 @@ LOADOUTS = {
 }
 
 
+def _overnight() -> str:
+    """The head of reports/nightly.md (build/nightly.ps1, 03:30) while it is fresh:
+    the Overnight note, the numbers, and anything archived or waiting for Isaac."""
+    p = ROOT / "reports" / "nightly.md"
+    if not p.exists():
+        return ""
+    age_h = (datetime.now().timestamp() - p.stat().st_mtime) / 3600
+    if age_h > 36:
+        return ""
+    text = p.read_text(encoding="utf-8", errors="replace")
+    keep, on = [], False
+    for ln in text.splitlines():
+        if ln.startswith("## "):
+            on = ln[3:].split(":")[0].strip() in ("Overnight", "Numbers", "Scenes archived since the last run", "Judger queue (proposals awaiting Isaac)")
+        if on or ln.startswith("# "):
+            keep.append(ln)
+    return "# OVERNIGHT (reports/nightly.md, %d h old)\n\n" % age_h + "\n".join(keep).strip()
+
+
 @server.tool()
 def session_start(thread: str, scene_type: str = "standard", culture: str = "Kharven") -> str:
     """Run the session start protocol in one call. thread: 'Sodoku Moto', 'Hild Ice',
@@ -452,6 +471,9 @@ def session_start(thread: str, scene_type: str = "standard", culture: str = "Kha
     the culture, and the brief rule loadout for the scene type."""
     parts = [_running_piece("State of Play — " + thread.split("/")[0].strip()),
              _running_piece("The Ledger"), _running_piece("Fronts"), _running_piece("Open Rulings")]
+    overnight = _overnight()
+    if overnight:
+        parts.insert(0, overnight)
     try:
         import table as _T
         parts.append("# FRONTS AS CLOCKS\n\n" + _fronts_text(thread.split("/")[0].strip().split()[0] if thread else None))

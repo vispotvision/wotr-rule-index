@@ -101,6 +101,21 @@ not on WIKI" in Notion -> "..." menu -> Connections -> add the "oridon"
 integration.** Once shared, the next sync picks it up with no code changes
 needed.
 
+## 2026-09-13 — the questionnaire session
+- C-008 to C-014 ruled and closed (R39-1..R39-8, RULINGS.md 2026-09-13); R4-H1/H2 live;
+  R2-OP/R4-OP superseded. validate.py PASS, 607 rules, pending=2 (R9-1, R20-2).
+- **Waiting on Isaac:** (1) Pack Twenty's five collisions with the later 09-12 rulings
+  and whether R20C-41..47 are his Four Crafts answers — reports/pack_twenty_impact.md;
+  then extract the pack in one commit. (2) Two naming drafts in proposals/ (Moto
+  Japonic bank; Celestial pass). (3) Darius's card — Isaac writes it in Notion.
+  (4) ELEVENLABS_API_KEY as a user env var before /narrate elevenlabs can run.
+- The Discord bot lives in bot/ (PLAN.md); the logon scheduled task "WOTR bot" is
+  written (bot/run.ps1) but not registered — Isaac to say yes.
+- The Trello import: 194 published, 6 held (reports/publish_imports_held.md; Tovain's
+  stub stays held by design; five have placeholders for a small resolve pass).
+- The Notion page "Information not on WIKI" is shared with oridon again (2026-09-13);
+  the section below is history.
+
 ## Owed by Isaac (do not decide these)
 - All ruled 2026-09-12: Muken's children, Packs Sixteen through Nineteen,
   Black Agent's and Rengai's combat assignments, C-003, C-004, the Law V

@@ -173,7 +173,7 @@ role-gated bot for the players' server, running on Isaac's PC beside WOTR MCP
 and importing its tools directly. No dice in canon channels: Table Rule 5
 adjudicates stat-by-stat and every outcome traces to a table row.
 
-- [ ] F0 — skeleton and lookups: `/rule`, `/rules`, `/docket`, `/conflicts`, `/wiki`, `/character`, `/fow`, `/recall`, `/timeline`; scheduled task; `DISCORD_TOKEN` from the environment
+- [x] F0 — landed 2026-09-13 (420ad8a) as the players' set: `/wiki`, `/define`, `/character`, `/fow`, `/recall`, `/timeline`, `/name`, `/stats`, `/narrate`; the rule/docket/conflict commands were dropped on Isaac's call (the Judger's desk, not the players'). Runs from `bot/run.ps1`; the logon task is not yet registered
 - [ ] F1 — table state: `/fronts`, `/due`, `/ledger`, `/roster`, `/npc`; Judger writes (`/advance`, `/front`, `/ledger add|collect`, `/npc set`, `/menu`); player `/ledger propose` into the Judger queue
 - [ ] F2 — scene play: forum per thread, `/bind`, `/scene open|verify|close|archive|text`; transcript → `scenes/<slug>.md` + cast file
 - [ ] F3 — mechanics and audio: `/compare`, `/adjudicate` (Table Rule 5 card, no verdict), `/narrate`, `/ruling`, `/propose`; `/roll` off by default, `ooc` only

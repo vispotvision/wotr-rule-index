@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8131-b70d-c91722f2d3e4"
 notion_url: "https://app.notion.com/p/II-Grades-Gates-and-Thresholds-Parts-Four-Ten-3d758200eb228131b70dc91722f2d3e4"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-11T03:14:00.000Z"
+last_edited: "2026-09-14T02:09:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,10 +19,10 @@ Grades use real-world energy equivalents drawn from physical TNT yield benchmark
 #### Where the Grade Sits
 
 The table above measures a **Sub-Stat's** raw value, and the Temperance ceiling in Part Five binds the Sub-Stat. Every Grade letter in this document, in the Path gates of Part Seven and the Resonant Pairs of Part Nine, means what it has always meant: a threshold on that Sub-Stat's own number.
-A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads and what decides a contested exchange. See *I. Levels, Experience and Stat Points* for the point economy.
+A **Primary** is the combined total of its eight Sub-Stats, and its Grade is read off the mean, the total divided by eight, or by seven for Dominion, whose Throne is not counted. That mean is the figure a character sheet has always carried on the Primary line. Eight Ardency Sub-Stats totalling 2,400 give a mean of 300 and an A-Grade Ardency. The total is what the sheet records; the mean is what an assessor reads and what decides a contested exchange. See I. Levels, Experience and Stat Points for the point economy.
 Because the ceiling sits on the Sub-Stat, a character's Sub-Stats and their Primary Grade sit in the same bracket. A B-Grade practitioner has broadly B-Grade stats. Spread shows what they are good at. It does not move them between brackets.
 A Primary is dragged down by its neglected entries as hard as it is lifted by its favourites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak.
-**Throne is the exception.** It carries no Temperance ceiling, its floor sits at EX-Grade, and it is excluded from the Dominion total. It is carried as its own line on the character sheet. *Pending ruling.*
+**Throne is the exception.** It carries no Temperance ceiling, its floor sits at EX-Grade, and it is excluded from the Dominion total. It is carried as its own line on the character sheet. Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
 | Grade | Sub-Stat value | Attack output | Travel speed |
 |---|---|---|---|
 | Hollow | 1–10 | below 60 J | below 12.4 m/s |
@@ -57,20 +57,21 @@ At **Zenith, Stage XIV**, speed and attack output are no longer assessed by conv
 ### Part Five — Temperance Gates and Stat Ceilings
 
 Temperance Stage functions as a hard ceiling on every Sub-Stat in the system, and a Primary's mean therefore cannot exceed it either. A character cannot allocate their way past a ceiling their Soul Crystal cannot structurally sustain. Throne alone carries no ceiling. The Crystal must have undergone the corresponding Threshold Event before it can hold a stat at the grade above.
-Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed through crisis.
+The Max Grade column binds allocation: a Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket. At Stages V, VII, IX and XI the Sub-Stat ceiling sits above that bracket, and the band between them, 276 to 350, 401 to 475, 551 to 625, 726 to 750, is the instability zone, reachable only under strain, never by allocation.
+Forced advancement past Temperance gates is not impossible, but it is catastrophic. Stats pushed above their sustainable grade, into the instability zone or past the ceiling itself, by alchemical augmentation, bloodline exploitation, or external metaphysical imposition generate Crystal Fracture Events at an exponentially increasing rate until the stat collapses or the Threshold is passed through crisis.
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing |
 |---|---|---|---|---|
 | I | Murmuring | E | 50 | 1 · Initiate |
 | II | Welling | D | 100 | 2 · Apprentice |
 | III | Ascension | C | 175 | 3 · Journeyman |
 | IV | Flourishing | B | 275 | 4 · Adept |
-| V | Splintering | B, instability above 320 | 350 | 5 · Expert |
+| V | Splintering | B, allocation stops at 275; instability above 320 | 350; 276–350 under strain only | 5 · Expert |
 | VI | Glory | A | 400 | 5 · Expert |
-| VII | Refraction | A, late push toward S entry | 475 | 5 · Expert |
+| VII | Refraction | A, allocation stops at 400; late push toward S entry | 475; 401–475 under strain only | 5 · Expert |
 | VIII | Transcendence | S | 550 | 6 · Master |
-| IX | Invocation | S, late push toward SS entry | 625 | 6 · Master |
+| IX | Invocation | S, allocation stops at 550; late push toward SS entry | 625; 551–625 under strain only | 6 · Master |
 | X | Realization | SS | 725 | 6 · Master |
-| XI | Dissonance | SS, fracture risk above 700 | 750, structurally unstable | 7 · Grandmaster |
+| XI | Dissonance | SS, allocation stops at 725; fracture risk above 700 | 750, structurally unstable; 726–750 under strain only | 7 · Grandmaster |
 | XII | Emanation | SSS | 950 | 7 · Grandmaster |
 | XIII | Principality | X | 1,200 | 8 · Archmaster |
 | XIV | Zenith | EX | 1,500 | 8 · Archmaster |
@@ -109,6 +110,7 @@ At D-Grade the practitioner can react to gunfire but cannot outrun it. At B-Grad
 ### Part Seven — Individual Stat Gates
 
 Every Sub-Stat carries a Path Alignment requirement. Certain subs cannot exceed a given Tier Grade without demonstrated Path commitment. **Path commitment is not declared. It is recognized by the Crystal based on behavioral pattern**, the consistent routing of Essence through a specific plane's logic over time.
+Where a gate below names a component of a Sub-Stat, the inscription and glyph-chain durability under Density, the gravitational component under Tolerance, and the rest, the gate binds the whole Sub-Stat's number. Part Twelve's Merge Ledger folded those components into the entries that carry them; they are no longer separate figures, and a sheet without the named Path commitment cannot carry the merged value above the component's Grade. The reading is strict, not lenient.
 A character who has fought exclusively through Body Path mechanics for three full Bands has genuine Body Path alignment regardless of what they claim. A character who has occasionally used Spirit techniques while routing primarily through physical expression will find Spirit-aligned Sub-Stats quietly resisting advancement beyond C-Grade until the actual pattern of Soul Crystal use reflects commitment.
 
 #### Vitality Gates
@@ -133,7 +135,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 #### Resilience Gates
 
-**Integrity** open, though the conversion of prior fractures into reinforcement requires Body Path at Stage V to exceed B. **Ward** requires Spirit Path at Stage III to exceed C, with defence of the character's own Domain requiring Fate Path at Stage VIII to exceed SS. **Persistence** requires Fate Path at Stage V to exceed S, and Stage VIII to exceed SS against Oblivion-class pressure. **Anchoring** open, though resistance to memory erasure and false implantation requires Spirit Path at Stage III to exceed C. **Fortification** requires Body Path at Stage IV to exceed B; resistance to self-generated blowback is open. **Hardening** requires Body Path at Stage III to exceed C; passive rejection of contamination is open. **Oath** requires Attraction Path at Stage IV to exceed B. **Continuity** requires Fate Path at Stage VI to exceed A against spatial displacement and Stage VII to exceed S against causal disruption.
+**Integrity** open, though the conversion of prior fractures into reinforcement requires Body Path at Stage V to exceed B. **Ward** requires Spirit Path at Stage III to exceed C, with defence of the character's own Domain requiring Fate Path at Stage VIII to exceed SS. **Persistence** requires Fate Path at Stage VII to exceed S, and Stage VIII to exceed SS against Oblivion-class pressure. **Anchoring** open, though resistance to memory erasure and false implantation requires Spirit Path at Stage III to exceed C. **Fortification** requires Body Path at Stage IV to exceed B; resistance to self-generated blowback is open. **Hardening** requires Body Path at Stage III to exceed C; passive rejection of contamination is open. **Oath** requires Attraction Path at Stage IV to exceed B. **Continuity** requires Fate Path at Stage VI to exceed A against spatial displacement and Stage VII to exceed S against causal disruption.
 
 #### Tempering Gates
 
@@ -147,6 +149,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 Thresholds are not achieved by accumulating enough experience. They are triggered by two factors: the Soul Crystal must have reached sufficient pressure within the current stage, a quantitative floor; and a **Catalyst Condition** must have been met, a specific quality of experience the Crystal requires before it will authorize the transition.
 A character can be quantitatively eligible for months of in-world time and never pass a Threshold because the Catalyst has not occurred. The System does not advance a soul that has not genuinely changed. This is not a punishment. It is accuracy.
+Stage I counts as a Threshold worth 100 points. Every practitioner starts with it. The events below are the transitions, and each grants the Stage number multiplied by 100 on the terms of Part Three.
 **I to II, Welling.** First genuine contact with a Wellspring current under personal pressure, not observed, not instructed, but touched and survived.
 **II to III, Ascension.** First technique developed independently from instruction, built from the character's own understanding of their Essence rather than received doctrine.
 **III to IV, Flourishing.** Formation of the first genuine Spirit Axis, a bond with another soul that carries mechanical weight in the Harmonics system.

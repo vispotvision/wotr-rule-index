@@ -77,8 +77,13 @@ if (Test-Path "G:\My Drive") {
     $out | Select-Object -Last 1 | ForEach-Object { Log "  $_" }
 } else { Log "G:\My Drive not mounted; docs skipped" }
 
-# make sure we are not committing on top of a stale checkout
+# make sure we are not committing on top of a stale checkout. Git writes warnings to stderr
+# (CRLF notices, worktree prune failures) and under ErrorActionPreference=Stop a stderr line
+# is a terminating error, which killed every run of 2026-09-13 before its push; so git runs
+# with errors demoted, and only exit codes are judged.
+$ErrorActionPreference = "Continue"
 & git pull -q --rebase origin master 2>&1 | Out-Null
+if ($LASTEXITCODE -ne 0) { Log "pull --rebase failed (exit $LASTEXITCODE); committing on the local branch anyway" }
 
 $changes = & git status --porcelain -- wiki table scenes/CAST.md scenes/TIMELINE.md build/.notion_publish.json
 if (-not $changes) { Log "no wiki changes"; exit 0 }

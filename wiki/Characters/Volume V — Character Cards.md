@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81d5-a85a-f46b3422fdb5"
 notion_url: "https://app.notion.com/p/Volume-V-Character-Cards-3bd58200eb2281d5a85af46b3422fdb5"
 section: "Characters"
 tags: ["Characters"]
-last_edited: "2026-09-12T16:04:00.000Z"
+last_edited: "2026-09-14T02:10:00.000Z"
 verification: "unverified"
 ---
 
@@ -99,3 +99,4 @@ verification: "unverified"
 - [Rhaevan Serathiel · The Velvet Executioner](Volume V — Character Cards/Rhaevan Serathiel · The Velvet Executioner.md)
 - [Khaeron Vant · The Ember Host](Volume V — Character Cards/Khaeron Vant · The Ember Host.md)
 - [Seri Zeliro-Vanthe · The Lantern-Fox](Volume V — Character Cards/Seri Zeliro-Vanthe · The Lantern-Fox.md)
+- [Serenyra Vaelith · The Archmagus of the Grove-Spired Crown](Volume V — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md)

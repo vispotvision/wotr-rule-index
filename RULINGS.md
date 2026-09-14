@@ -439,3 +439,28 @@ R9-1-STILL_OPEN_ITEMS. Two further collisions found at extraction and
 recorded, not resolved: R20C-52 (the Host has no native register) against
 R24-3 and R40-2, extracted superseded on arrival because both post-date it;
 and the psychic-distance table against R35-2, logged as C-015.
+
+## 2026-09-13, evening — C-016, the Living System pages corrected, two imports resolved
+
+- **C-016.** Fracture of Worlds governs Cymorath's stat effect: Dexterity
+  Celerity, Dexterity Burst, Gnosis Cartography. R27-1's "and Perception" was
+  a slip; the ruling's own deferral to FOW decides it. Noted on the row.
+- **The Living System pages.** The eight stat rulings (R38-1, R38-2, R39-1 to
+  R39-6) applied to the canon Notion pages as 25 block edits
+  (reports/living_system_edits.md): the canon-model sentence, Stage I as a
+  Threshold, the re-cost paragraph, the Max Grade cap and instability zone in
+  Part Three, Part Five's opening and its table rows V/VII/IX/XI, the strict
+  component gate and Persistence's Stage VII in Part Seven, Part Eight's
+  Threshold count, Dominion over seven in Parts Four and Twelve, and Part
+  Sixteen's Dissonance trio and Max Grade lines. Mirror refreshed.
+- **The Archmagus (Trello import).** Reconciled: her refusal of the Eressean
+  crown was a handover; Karo and Asta Venrik hold with her assent. Her Level
+  and η carry `derived` markers under R20C-34. Published to Volume V.
+- **Precept (Trello import).** The two unattested figures (the named breaker of
+  the Precept of Mercy and the lineage name) are struck; the Precept publishes
+  without them to The Iridescent Archive / Spellcraft.
+- **Three editions written** (WOTR True Canon): The Complete Magic System
+  (R25-1, R27-1, R29-1), The Mechanism of the Sixty (R31-1 folded, R27-1
+  cross-referenced), the Character Template and Examples (the nine combat
+  assignments, R14-8, the R39 stat guidance quoted), each with a changelog and
+  two review passes.

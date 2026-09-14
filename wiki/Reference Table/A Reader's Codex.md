@@ -1,22 +1,22 @@
 ---
 title: "A Reader's Codex"
-notion_id: "3d958200-eb22-8191-b3c0-d2cc21fda211"
-notion_url: "https://app.notion.com/p/A-Reader-s-Codex-3d958200eb228191b3c0d2cc21fda211"
+notion_id: "3db58200-eb22-812a-ad53-c3188d8e5557"
+notion_url: "https://app.notion.com/p/A-Reader-s-Codex-3db58200eb22812aad53c3188d8e5557"
 section: "Reference Table"
 tags: ["Reference Table"]
-last_edited: "2026-09-12T15:10:00.000Z"
+last_edited: "2026-09-14T00:04:00.000Z"
 verification: "unverified"
 ---
 
 # A Reader's Codex
 
-## War of the Realms: A Reader's Codex
+### War of the Realms: A Reader's Codex
 
 *The short version. Everything here is what the stories assume you already know. Nothing here is a rulebook, and nothing here is exhaustive. If a term or a house does not appear, you do not need it to read.*
 
 ---
 
-### The World in One Page
+#### The World in One Page
 
 Reality has three planes, and they are nested rather than stacked. The Plane of Fate lies deepest, the lattice everything else rests on. The Soul Plane lies between, where law becomes a felt truth. The Physical Plane sits on the surface, where truth becomes event, body, ruin, and mountain range. Wherever one plane's law borders another's, a threshold has to exist, and that threshold is called the Veil. Every act of magic in this world crosses all three planes at once, and every named power in it, human, bloodline, or god, answers to one of the three.
 Geography follows the same rule of layers. The world is cut into Four Quarters, and each one solved a different problem. The North, the Inner World, is an old glaciated shield with rich ground and almost no infrastructure. The West, the Old World, is worn-out country with the deepest workings and the most complete infrastructure, and it survives entirely on machinery it can no longer do without. The East, the New World, is a live volcanic arc, young, wet, and still building itself, rich on the surface and barely industrialized. The South, the Outer World, is old dry ground with almost no magic left in it and materials nobody else can get. The quarter with the most raw power has the least industry, and the quarter with the most industry has the least power, and nobody has ever found a way around that trade.
@@ -25,7 +25,7 @@ Time in this world comes in two counts that are never to be mixed. The Ages are 
 
 ---
 
-### The Draw Age
+#### The Draw Age
 
 Call it the Draw Age because that is the word everyone in it actually uses. Magic in this world is not only something a person does. For the last hundred and forty years it has also been something that comes down a pipe, past a meter, under a seal, and gets billed to somebody monthly. A charged main runs under every major city, buried in brick culvert beside the sewers, carrying Aether from a harmonized vein the way water is carried from a reservoir. Standpipes rise from it at street level for public draw. Gauge-housings sit wherever a main splits, holding the instruments that report density and flow, locked because the lock is the only thing standing between an honest reading and an argument about one.
 A charged district has a hum under it, not loud, not quite a sound, and a person who has lived their whole life on a main stops hearing it after two weeks and hears its absence within seconds if it stops. Supply comes in grades. Sealed domestic is cheap, capped, and usually thinner than the tariff claims. Trade supply runs hotter and gets inspected. Bonded supply is uncapped and issued against a person's name, which makes it a legal fact about someone before it is a service. Unmetered draw is illegal everywhere, universal everywhere, and called a spur. None of this is run by the Guild Accord itself. It is run by chartered Draw Boards, city by city, monopolies that set their own tariffs and answer to a licensing body their fees pay for, which is exactly the arrangement it sounds like.
@@ -34,7 +34,7 @@ Gunpowder is old, cheap, and everywhere, and it is the entire reason armor never
 
 ---
 
-### How Magic Works
+#### How Magic Works
 
 Every practitioner casts through a Soul Crystal, never through a wand or a word alone. The Crystal has three layers, one per plane. The Essence Core, on the Soul Plane, holds identity, memory, and Traits. The Aether Shell, on the Material Plane, converts that inner truth into outward force. The Attraction Layer, on the Plane of Fate, governs bonds, harmonizations, and Domains. Aether itself is an infinite ocean that belongs to nobody; Essence is the water a person has drawn in, circulated, and stamped with their own identity, and there is only ever as much of it as a soul has actually earned.
 A Wellspring is not a spirit and not a gift. It is a standing current in the Aether that carries a fixed law, running whether or not anyone is standing in it, the way a pressure gradient runs whether or not something is in its path. Harmonizing with one does not add anything to a practitioner. It phase-locks the Aether Shell so that Essence passing outward is shaped by that current's law before it reaches the world, which is why the same stat harmonized to two different Wellsprings behaves in two entirely different ways at the same magnitude. There are sixty Wellsprings in total, sorted into eight Families by the real physical domain each one answers to: Caloria governs heat, Fulguria electricity and light, Vectoria force and motion, Spatium distance and position, Materia matter itself, Vitalia biology, Fluxia fluids, and Limina entropy, void, and mind. Most people awaken three to five Wellsprings across a lifetime. Serious adepts harmonize with a dozen or more. Nobody a reader is likely to meet has all sixty.
@@ -43,7 +43,7 @@ A working itself has a fixed grammar underneath every named art in the world: a 
 
 ---
 
-### The Ladder
+#### The Ladder
 
 Advancement in this world is called Temperance, and Temperance is subtraction, not accumulation. A practitioner does not train their way up sixteen Stages. They survive something that structurally reorganizes the Crystal, and the Stage that results is built out of whatever was actually in the Crystal at the moment it broke and reformed. Nine souls in ten will live their whole lives inside the first Band alone.
 The sixteen Stages, in order, are Murmuring, Welling, Ascension, and Flourishing (Band F, where almost everyone stays); Splintering (Band E); Glory and Refraction (Bands D and C); Transcendence (Band B); Invocation and Realization (Band A); Dissonance and Emanation (Band S); Principality (Band SS); Zenith (Band SSS); and finally Revelation and Apex, which sit beyond the fourteen the Codex actually numbers and are folded together by the Accord's own bureaucracy because a filing system cannot administer a blank.
@@ -53,7 +53,7 @@ Every Threshold also leaves a residue called the seat. A clean seat means the me
 
 ---
 
-### The Soul Crystal and What Things Cost
+#### The Soul Crystal and What Things Cost
 
 Nothing in this system is free, and the system does not pretend otherwise. Essence is spent, never summoned from nowhere. Domains bleed their holder. Traits fatigue with use. Pushing past a sustainable limit, called Overchannel, leaves a permanent scar rather than a temporary one. Any practitioner who tells you a technique costs nothing is either lying or has not yet been sent the bill.
 The market has one honest product and one dishonest use for it. An Essence Draft, a working stabilized into a drinkable substance, can genuinely raise a practitioner to the quantitative floor a Threshold requires, and licensed, legitimate use of Drafts is the backbone of the Accord's entire pharmaceutical trade. What no Draft has ever done, and what no compound ever rendered will do, is supply the Catalyst Condition itself. A practitioner pushed past their sustainable grade without having actually met the Catalyst does not skip the work. Their Crystal begins fracturing at an accelerating rate until either the gained stat collapses or the Threshold is forced through outright crisis, and whoever comes out the other side is built from whatever was in the Crystal in that moment of forced reorganization, fear included. The most potent Drafts, made from magical creatures, carry the clearest version of this cost: Identity Contamination, in which the Essence taken carries the identity it was taken from, and enough of it leaves a practitioner unable to say cleanly which convictions are actually their own.
@@ -61,7 +61,7 @@ Costs are not only personal. They are civic. Under the Draw Age infrastructure d
 
 ---
 
-### The Houses and Powers a Reader Meets
+#### The Houses and Powers a Reader Meets
 
 The Moto are the archaic bloodline behind more of this world's crowns than any other family, founded in myth by Bara Moto, the First Epoch given human form, and Mizuki Moto, who turned that authority into something a family could actually inherit. Every Moto carries the Shingan, a sacred ocular inheritance split into four branches: Meigan for revelation, Reigan for the soul and curse-work, Tengan for fate and probability, and Kamigan, the crown eye, which unifies all three into sovereign judgment. The house also carries Hataraki, the deeper governing power authored by Bara before time itself, which is why a Moto technique tends to feel administrative rather than simply violent: a Moto strike can reveal, rank, condemn, or complete a situation rather than merely hit it harder. Of the house's seven great lines, six are landless, scattered across temperate ground after the ancestral seat in the Inner World's western shield was ruined. Only the Kōkan Line, the Kamigan-eyed line of crown authority, holds an actual seat, and that seat is Kharven.
 Kharven, the Ashen Crown, is a feudal monarchy built on frozen ground in the far north of the Inner World by Muken Moto, a Kōkan practitioner who conquered the region in fourteen months and spent sixteen years turning a country of feuding clans into a functioning state. Its constitution is the cold itself: a climate that kills the unprepared and rewards nothing but endurance, preparation, and showing up when called. Six Banner Houses hold personal oaths to whoever wears the crown rather than to the crown as an institution, which is why the kingdom fractured completely when Muken was murdered in a coup mounted by the Tenrai, a rival Great Line of his own house, and the oaths, unrenewed, simply expired. Kharven's queen consort, Ayame Yuno, came from the Manono seat of House Yuno on Yasoshima, a confederation of family groups governed by open assembly with no king and no standing army. Her ritual architecture, the Saishiki, once gave the northern clans' oaths real spiritual weight; her death left only the ceremony, and Kharven's oaths have been words alone ever since.
@@ -73,7 +73,7 @@ The New World is the East, a live volcanic arc still building itself, rich in su
 
 ---
 
-### The Archons, the Titans, and the Three Epochs
+#### The Archons, the Titans, and the Three Epochs
 
 This is how the world explains itself to itself, and it is worth reading as belief rather than as fact, because the world's own record-keepers say so. Before there were three planes there was Omnara, totality before it needed compartments. An event no surviving record explains, called the Division, split that totality into three currents, and from those three currents came the three planes and three sovereign intelligences called the Epochs: Bairos, who authored causality and sequence and gave the Plane of Fate its shape; Aegor, who gave form weight and mass and built the Physical Plane out of it; and Ashura, who gave awareness the capacity to feel, and is the reason the Soul Plane can hold memory at all. From the tension between the three, fourteen Archons condensed into what the world calls the Pantheon of Abstract Dominion: a Primordial Dyad of Order and Chaos, and six paired principles beneath it, Form against Time, Memory against Horizon, Will against Desire, Insight against Dream, Motion against Stillness, and Harmony paired with Renewal. Archonic Magic sits between the geologic authority of the Titans and the everyday currents of the Wellsprings, and every spell, Domain, and godlike ability in this world is required to trace its permission back to one of those three strata.
 The Fourteen Titans are a different kind of thing entirely, and the distinction is treated as important rather than pedantic. An Archon is a principle enthroned, with a court, a doctrine, and people who pray to it. A Titan is a principle bearing weight, with no theology worth the name and an enormous amount of engineering built around it instead: nobody prays to the Titan of gravity, they build to it. The fourteen are seated across four orders, the Physical (Atla'zon and Gaia), the Spiritual Seat (Omnis, Florwyn, Dazkar, Nysera, Sylorin, and Ilgrimm), the Strata (Valmir, Kaldrion, and Chronaeus), and the Abyssal Depths (Prometheus, Zar'thuun, and Vohrin), and a small number of rites keyed directly to them exist at the absolute outer edge of what a mortal Crystal can survive holding.
@@ -81,7 +81,7 @@ But the world's own institutions are honest, in their own dry way, about how muc
 
 ---
 
-### A Short Glossary of Forty Terms
+#### A Short Glossary of Forty Terms
 
 **Aether**: the infinite ocean of raw magical potential. It belongs to no one and is never used up.
 **Essence**: Aether a practitioner has drawn in, circulated, and stamped with their own identity. Finite, and only ever as much as has been earned.

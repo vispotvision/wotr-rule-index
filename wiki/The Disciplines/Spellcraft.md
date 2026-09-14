@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-819d-8948-f9263917090f"
 notion_url: "https://app.notion.com/p/Spellcraft-3d958200eb22819d8948f9263917090f"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-09-12T16:07:00.000Z"
+last_edited: "2026-09-14T02:10:00.000Z"
 verification: "unverified"
 ---
 
@@ -30,3 +30,4 @@ Spellcraft migrated from the old Trello board. See build/publish_imports.py.
 - [The Iron Tree](Spellcraft/The Iron Tree.md)
 - [Kurotana](Spellcraft/Kurotana.md)
 - [Antinomy](Spellcraft/Antinomy.md)
+- [Precept](Spellcraft/Precept.md)

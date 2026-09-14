@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8134-ae74-ed9961e833f0"
 notion_url: "https://app.notion.com/p/The-Tongues-of-the-Realms-3d758200eb228134ae74ed9961e833f0"
 section: "Races & Peoples"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-12T20:21:00.000Z"
+last_edited: "2026-09-14T01:42:00.000Z"
 verification: "unverified"
 ---
 
@@ -70,3 +70,5 @@ What remains is maintenance rather than construction: the Drow Shadow-Veil notat
 - [Accord Latin — The Formulary and the Two Spoken Registers](The Tongues of the Realms/Accord Latin — The Formulary and the Two Spoken Registers.md)
 - [Common — The Tongue With No Distinctions](The Tongues of the Realms/Common — The Tongue With No Distinctions.md)
 - [Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin](The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md)
+- [Moto Element Inventory — Japonic Stratum](The Tongues of the Realms/Moto Element Inventory — Japonic Stratum.md)
+- [The Celestial Host — Naming](The Tongues of the Realms/The Celestial Host — Naming.md)

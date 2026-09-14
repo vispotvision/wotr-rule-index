@@ -81,7 +81,7 @@
   },
   "3d758200-eb22-8134-ae74-ed9961e833f0": {
     "rel": "Races & Peoples/The Tongues of the Realms.md",
-    "edited": "2026-09-12T20:21:00.000Z",
+    "edited": "2026-09-14T01:42:00.000Z",
     "title": "The Tongues of the Realms"
   },
   "3d758200-eb22-81d0-a367-f18213037668": {
@@ -96,7 +96,7 @@
   },
   "3d758200-eb22-8151-8fc1-ebca5eb525f1": {
     "rel": "Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md",
-    "edited": "2026-09-10T11:15:00.000Z",
+    "edited": "2026-09-14T02:09:00.000Z",
     "title": "VI. The Sixteen Temperance Stages (Part Sixteen)"
   },
   "3d758200-eb22-814e-bff3-fd58ca5b26f4": {
@@ -106,7 +106,7 @@
   },
   "3d758200-eb22-81a2-82cb-c69140fdabd7": {
     "rel": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
-    "edited": "2026-09-11T02:33:00.000Z",
+    "edited": "2026-09-14T02:09:00.000Z",
     "title": "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)"
   },
   "3d758200-eb22-816d-8b90-d14e1e94cfd9": {
@@ -116,12 +116,12 @@
   },
   "3d758200-eb22-8131-b70d-c91722f2d3e4": {
     "rel": "Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
-    "edited": "2026-09-11T03:14:00.000Z",
+    "edited": "2026-09-14T02:09:00.000Z",
     "title": "II. Grades, Gates and Thresholds (Parts Four–Ten)"
   },
   "3d758200-eb22-81a7-8ab6-ff201f11a35b": {
     "rel": "Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md",
-    "edited": "2026-09-11T02:34:00.000Z",
+    "edited": "2026-09-14T02:09:00.000Z",
     "title": "I. Levels, Experience and Stat Points (Parts One–Three)"
   },
   "3d758200-eb22-8101-bde2-f8eceeaefc7a": {
@@ -196,7 +196,7 @@
   },
   "3d458200-eb22-813a-9148-fb943587f1dc": {
     "rel": "The Scene Archive/The Table — Running Pieces.md",
-    "edited": "2026-09-11T02:38:00.000Z",
+    "edited": "2026-09-14T01:02:00.000Z",
     "title": "The Table — Running Pieces"
   },
   "3c758200-eb22-81fb-a0e8-ce042e2c2142": {
@@ -331,18 +331,13 @@
   },
   "3bd58200-eb22-81d5-a85a-f46b3422fdb5": {
     "rel": "Characters/Volume V — Character Cards.md",
-    "edited": "2026-09-12T16:04:00.000Z",
+    "edited": "2026-09-14T02:10:00.000Z",
     "title": "Volume V — Character Cards"
   },
   "3bd58200-eb22-8011-9272-d395d8213585": {
     "rel": "Factions, Bloodlines & Institutions/The Void Vanguard.md",
     "edited": "2026-08-15T19:27:00.000Z",
     "title": "The Void Vanguard"
-  },
-  "3bd58200-eb22-810f-bc14-d93809ad9705": {
-    "rel": "Volume IV — Character Cards/Zahir Ashveil · Desert's Fang (3bd58200).md",
-    "edited": "2026-08-15T19:18:00.000Z",
-    "title": "Zahir Ashveil · Desert's Fang"
   },
   "3bd58200-eb22-812e-9e0e-d03121c93f1c": {
     "rel": "Volume IV — Character Cards/Seraphion Veydrak · The Chain-Halo.md",
@@ -1271,7 +1266,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-04T04:39:00.000Z",
+    "edited": "2026-09-13T23:44:00.000Z",
     "title": "The Scene Archive"
   },
   "3b258200-eb22-81a4-945c-e1dbd5a53898": {
@@ -1295,8 +1290,8 @@
     "title": "The Zettari–Mahou Accord"
   },
   "3b258200-eb22-8131-9fac-d195197bddc3": {
-    "rel": "In-World Document/In-World Documents & the Narrative Archive.md",
-    "edited": "2026-09-10T11:09:00.000Z",
+    "rel": "Information not on WIKI/In-World Documents & the Narrative Archive.md",
+    "edited": "2026-09-12T06:04:00.000Z",
     "title": "In-World Documents & the Narrative Archive"
   },
   "3b258200-eb22-810f-833b-eb3cadadfdc6": {
@@ -1874,11 +1869,6 @@
     "edited": "2026-09-10T10:12:00.000Z",
     "title": "Cosmology & Metaphysics"
   },
-  "3d958200-eb22-8191-b3c0-d2cc21fda211": {
-    "rel": "Reference Table/A Reader's Codex.md",
-    "edited": "2026-09-12T15:10:00.000Z",
-    "title": "A Reader's Codex"
-  },
   "3d958200-eb22-8171-8652-f3fb9eb8cbec": {
     "rel": "Aberrations/Lich.md",
     "edited": "2026-09-12T16:08:00.000Z",
@@ -2374,11 +2364,6 @@
     "edited": "2026-09-12T16:10:00.000Z",
     "title": "Sigillum Fixatio"
   },
-  "3d958200-eb22-8161-ab37-cbd0ad259454": {
-    "rel": "Misc/Bestiary Additions.md",
-    "edited": "2026-09-12T15:05:00.000Z",
-    "title": "Bestiary Additions"
-  },
   "3d958200-eb22-8135-aecf-cee1b6c2cd65": {
     "rel": "Misc/Artifacts.md",
     "edited": "2026-09-12T16:08:00.000Z",
@@ -2386,18 +2371,13 @@
   },
   "3d958200-eb22-819d-8948-f9263917090f": {
     "rel": "The Disciplines/Spellcraft.md",
-    "edited": "2026-09-12T16:07:00.000Z",
+    "edited": "2026-09-14T02:10:00.000Z",
     "title": "Spellcraft"
   },
   "3d958200-eb22-810c-bdd0-ff9ddaed93cc": {
     "rel": "The Disciplines/Techniques.md",
     "edited": "2026-09-12T16:07:00.000Z",
     "title": "Techniques"
-  },
-  "3d958200-eb22-81d5-b816-c24838c80f80": {
-    "rel": "Misc/The Iridescent Archive.md",
-    "edited": "2026-09-12T15:03:00.000Z",
-    "title": "The Iridescent Archive"
   },
   "3d958200-eb22-8148-8bce-f6ee6755cd0b": {
     "rel": "Volume VI — Character Cards/Azran Nemeir · The Gilded Draft.md",
@@ -2893,5 +2873,60 @@
     "rel": "The Zettari/The Zettari — Agano Sand and the Witnessed Temper.md",
     "edited": "2026-09-12T20:34:00.000Z",
     "title": "The Zettari — Agano Sand and the Witnessed Temper"
+  },
+  "3d958200-eb22-80a4-b8f3-cc2c16241f7d": {
+    "rel": "Misc/Information not on WIKI.md",
+    "edited": "2026-09-13T23:11:00.000Z",
+    "title": "Information not on WIKI"
+  },
+  "3d958200-eb22-815f-8fc6-c60b3ea0104e": {
+    "rel": "Information not on WIKI/Pack Twenty — The Clearance.md",
+    "edited": "2026-09-12T04:33:00.000Z",
+    "title": "Pack Twenty — The Clearance"
+  },
+  "3da58200-eb22-8185-9e34-c911128e4500": {
+    "rel": "The Table — Running Pieces/Fronts, as clocks.md",
+    "edited": "2026-09-13T23:38:00.000Z",
+    "title": "Fronts, as clocks"
+  },
+  "3da58200-eb22-819e-854c-e93d0f9ad70c": {
+    "rel": "The Table — Running Pieces/The Ledger, structured.md",
+    "edited": "2026-09-13T23:38:00.000Z",
+    "title": "The Ledger, structured"
+  },
+  "3da58200-eb22-81d1-8d27-d3637399b15c": {
+    "rel": "The Table — Running Pieces/NPC roster.md",
+    "edited": "2026-09-13T23:38:00.000Z",
+    "title": "NPC roster"
+  },
+  "3db58200-eb22-812a-ad53-c3188d8e5557": {
+    "rel": "Reference Table/A Reader's Codex.md",
+    "edited": "2026-09-14T00:04:00.000Z",
+    "title": "A Reader's Codex"
+  },
+  "3db58200-eb22-8145-ae66-d7fa3a3a1409": {
+    "rel": "The Scene Archive/The Freight Book.md",
+    "edited": "2026-09-14T00:08:00.000Z",
+    "title": "The Freight Book"
+  },
+  "3db58200-eb22-8163-aece-ffa4a7d82ad0": {
+    "rel": "The Tongues of the Realms/The Celestial Host — Naming.md",
+    "edited": "2026-09-14T01:42:00.000Z",
+    "title": "The Celestial Host — Naming"
+  },
+  "3db58200-eb22-819b-9173-d6f8397ae38b": {
+    "rel": "The Tongues of the Realms/Moto Element Inventory — Japonic Stratum.md",
+    "edited": "2026-09-14T01:42:00.000Z",
+    "title": "Moto Element Inventory — Japonic Stratum"
+  },
+  "3db58200-eb22-813c-9f35-dc4735b78c66": {
+    "rel": "Spellcraft/Precept.md",
+    "edited": "2026-09-14T02:10:00.000Z",
+    "title": "Precept"
+  },
+  "3db58200-eb22-8171-9521-d895c1fe2e67": {
+    "rel": "Volume V — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md",
+    "edited": "2026-09-14T02:10:00.000Z",
+    "title": "Serenyra Vaelith · The Archmagus of the Grove-Spired Crown"
   }
 }

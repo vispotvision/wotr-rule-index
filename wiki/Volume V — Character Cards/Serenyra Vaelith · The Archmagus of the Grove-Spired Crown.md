@@ -1,10 +1,22 @@
+---
+title: "Serenyra Vaelith · The Archmagus of the Grove-Spired Crown"
+notion_id: "3db58200-eb22-8171-9521-d895c1fe2e67"
+notion_url: "https://app.notion.com/p/Serenyra-Vaelith-The-Archmagus-of-the-Grove-Spired-Crown-3db58200eb2281719521d895c1fe2e67"
+section: "Volume V — Character Cards"
+tags: []
+last_edited: "2026-09-14T02:10:00.000Z"
+verification: "unverified"
+---
+
 # Serenyra Vaelith · The Archmagus of the Grove-Spired Crown
+
+## Serenyra Vaelith · The Archmagus of the Grove-Spired Crown
 
 > *"I do not seek the throne. I seek the equation that lets every soul sing in harmony with its own light."*
 
 ---
 
-## I · Identity
+### I · Identity
 
 **Name** · Serenyra Vaelith. **Title** · **The Archmagus of the Grove-Spired Crown.** **Also known as** · The Silver Veil · High Archivist of Resonance · The Princess of Eresse. **Epithet** · **Eresse's False Princess.**
 **Race / Lineage** · **High Elf, Eressean.** *A child of the lower glades, bloodline attenuated to the Elder Florwyn stock.*
@@ -13,14 +25,14 @@
 **Gloss rights** · **Diagnostic only.** *The card keeps her motives at one remove and ends on a foreshadowed schism; she is read through her lattices and her refusals, and her interior is not for the narration to open.*
 **Era** · Withering Era.
 
-### Affiliation
+#### Affiliation
 
 **Sanctum Aria** *(neutral, Accord-aligned; dedicated to the pursuit of universal Aetheric truth)* • **Council of Bloom** • **Active in the Astral Seminary of Sanctum Aria.**
 > **Catalyst Event · Stage VIII, Transcendence.** *Resolving a core internal contradiction documented in the Crystal's fracture record; the first true Domain forms.* **The card names both halves.** *The contradiction: a princess of Eresse who refused the throne, declaring her focus was on the equation rather than the crown.* **The Domain: the Lattice of Living Light, a prototype, nascent and portable.** *A soul that looked at a crown and chose a proof is a soul that read its own record and decided which load path to keep.*
 
 ---
 
-## II · Soul Architecture
+### II · Soul Architecture
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer: the Aetheric Refraction Field is the Class showing on the skin.*
 **Attraction Layer** · The Domain. *Every Aether thread inside the Lattice of Living Light is legible, a spell-tapestry and an archive at once.*
@@ -31,7 +43,7 @@
 
 ---
 
-## III · Wellspring Harmonizations
+### III · Wellspring Harmonizations
 
 **Aurevane** · Fulguria. **Governing.** *The Wellspring of Light; Gnosis Perception, Gnosis Vigilance, Harmonics Attunement.* **The Silver Veil, the Refraction Field, the Lunarch Crown:** *incoming hostile magic has its vector shunted into harmless ambient light. Refraction is electromagnetism, and this is the current that carries it.*
 **Mirithane** · Limina. *The Wellspring of Reflection: output becomes a more honest reflection of internal state; Harmonics Attunement, Tempering Coherence.* **The harmonic half of the old "Harmonic" affinity:** *every tone is a rewrite protocol because what she projects is an exact image of what she holds, which is also why misalignment inside her becomes catastrophe outside her.*
@@ -42,7 +54,7 @@
 
 ---
 
-## IV · Primary Stats
+### IV · Primary Stats
 
 **Stage VIII — Transcendence** · **Level 276** · Level Band III · Coherence Band B · Grade S · Ceiling 550.
 *Level is a derived value (R20C-34): placed high in Band III on the card's own scale claims, and held under the Stage X gate at 300.*
@@ -63,14 +75,14 @@
 
 ---
 
-## V · Sub-Stat Peaks
+### V · Sub-Stat Peaks
 
 **Harmonics Attunement 550** *(at ceiling)* · **Harmonics Breadth 538** · **Gnosis Retention 526** · Gnosis Fluency 514 · **Dominion Sovereignty 502** · Dominion Radius 490 · Tempering Clarity 478 · **Tempering Capacity 466** · Harmonics Projection 454 · Resilience Ward 442 · Gnosis Cognition 430 · Ardency Cascade 418 · Ardency Compression 406 · **Resilience Continuity 394.**
 *Continuity is the temporal-dislocation line, and it is the lowest peak listed on purpose: the card says the Temporal Chord fractures her own timeline.*
 
 ---
 
-## VI · Traits
+### VI · Traits
 
 **Veilweaver's Grace** · **Projected illusions are physically real within bounded spatial geometry, and stay real until the geometry is broken.** *Oneirion.*
 **Crystalline Recall** · **Records and replays a working's complete emotional signature and Essence flow as a living memory.** *Used to mimic, teach, or deceive.* **The [Ma] Recall glyphs in her eyes are this trait made visible.**
@@ -79,7 +91,7 @@
 
 ---
 
-## VII · Artifacts
+### VII · Artifacts
 
 **Thesauriel, the Mirror Codex** · *Compendium-focus.* **Writes complex lattices directly into reality without verbal incantation.** *Runecraft in a book.*
 **Lunarch Crown** · *Crystalline circlet.* **A passive refraction-field generator: shunts the kinetic and Aetheric vector of incoming hostile magic into harmless ambient light.** *The source of the 100 GJ durability rating.*
@@ -88,9 +100,9 @@
 
 ---
 
-## VIII · Signature
+### VIII · Signature
 
-### Symphonia Ascendant
+#### Symphonia Ascendant
 
 **Effect** · **She orchestrates Wellspring tones into weaponised, crystalline sound-geometry.** *The waves impose a refractive law on the target's internal Aether, and their own powers spontaneously redirect or fail catastrophically.* The other disciplines on the card: **Temporal Chord** *(Oneirion resonance slows or accelerates the subjective experience of time within a small radius; tactical, not a strike)*, **Archivium Locus** *(invisible glyphs etched into the environment, a fractal of her Domain, raise an immediate temporary shield whose geometry she then perfects)*.
 **Cost** · **Her own timeline.** *High output puts minor temporal fractures into her internal reality field. Only long Oneirion meditation realigns them. The Temporal Chord is paid for in stored memories that do not come back.* **A High Archivist of Resonance who is slowly losing her archive is the cost the card wrote, and it is a real one.**
@@ -100,7 +112,7 @@
 
 ---
 
-## IX · Relationships
+### IX · Relationships
 
 **The Eressean Crown** · **Refused.** *The False Succession: she declined the throne, declaring her focus was on the equation rather than the crown.* **The Venrik line holds the Grove-Spired throne in current canon; her standing with Karo and Asta Venrik is reconciled: the refusal was a handover, and the Venrik line holds with her assent (Isaac, 2026-09-13).**
 **Several Archons** · **Their respect, earned by the refusal.** *Which Archons the card does not say.*
@@ -110,7 +122,7 @@
 
 ---
 
-## X · Chapter Appearances
+### X · Chapter Appearances
 
 *WOTR: Volume V — Character Cards* (first appearance). *The card gives no chapter title of its own; this is the volume its Trello placement names — labelled Support, Canonized, Complete Sheet — and no more specific placement is invented.*
 **Incident records carried from the card** · **The Labyrinth of Ma** *(she stabilised an out-of-control Oneirion manifestation by integrating its chaos into a perfect lattice, saving the capital and causing widespread temporary collective memory loss)* · **The False Succession** *(as above)*.

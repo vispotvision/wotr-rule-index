@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8151-8fc1-ebca5eb525f1"
 notion_url: "https://app.notion.com/p/VI-The-Sixteen-Temperance-Stages-Part-Sixteen-3d758200eb2281518fc1ebca5eb525f1"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-14T02:09:00.000Z"
 verification: "unverified"
 ---
 
@@ -34,7 +34,7 @@ Power blooms. Identity stabilizes. The resonance signature becomes recognizable 
 
 #### Stage V — Splintering (Band E)
 
-The soul cracks open to become something larger. The first crisis Stage. The architecture has reached the limit of its initial configuration and must break to grow. Characters who pass through emerge with deeper but less stable power. Characters who fail fracture and may lose Sub-Stat progress. **Max Grade B, instability risk above 320. Ceiling 350.** *Catalyst:* surviving contact with an entity or force more than two full Tiers above the character's current ceiling. The Crystal fractures along emotional lines.
+The soul cracks open to become something larger. The first crisis Stage. The architecture has reached the limit of its initial configuration and must break to grow. Characters who pass through emerge with deeper but less stable power. Characters who fail fracture and may lose Sub-Stat progress. **Max Grade B; allocation stops at 275, instability risk above 320. Ceiling 350, the band from 276 reachable only under strain.** *Catalyst:* surviving contact with an entity or force more than two full Tiers above the character's current ceiling. The Crystal fractures along emotional lines.
 
 #### Stage VI — Glory (Band D)
 
@@ -42,7 +42,7 @@ Peak of the inner phase. The self burns bright and is noticed. The Aura begins g
 
 #### Stage VII — Refraction (Band C)
 
-Dual sight. The soul sees itself from outside. The practitioner begins perceiving their own Crystal architecture as an object of study rather than an unconscious medium. Domain seeds become structurally stable. Gnosis Sub-Stats undergo a qualitative jump as self-awareness extends to metaphysical structure. Projected fields are coherent but still depend on sustained presence. Traits externalize. **Max Grade A with late push toward S entry. Ceiling 475.** *Catalyst:* first Domain seed activation.
+Dual sight. The soul sees itself from outside. The practitioner begins perceiving their own Crystal architecture as an object of study rather than an unconscious medium. Domain seeds become structurally stable. Gnosis Sub-Stats undergo a qualitative jump as self-awareness extends to metaphysical structure. Projected fields are coherent but still depend on sustained presence. Traits externalize. **Max Grade A; allocation stops at 400, with late push toward S entry. Ceiling 475, the band from 401 reachable only under strain.** *Catalyst:* first Domain seed activation.
 
 ### Outer Influence, Stages VIII through XIV
 
@@ -52,7 +52,7 @@ The world is read as symbol. The practitioner resolves a core internal contradic
 
 #### Stage IX — Invocation (Band A)
 
-The practitioner calls on Wellsprings, Titans or Archonic law as co-authors of their expression. Techniques are no longer purely personal. The Domain consolidates into a **Realm** capable of holding other Domains. Pacts, artifacts and law begin to imprint on terrain. **Max Grade S with late push toward SS entry. Ceiling 625.** *Catalyst:* consolidating Domain into Realm structure.
+The practitioner calls on Wellsprings, Titans or Archonic law as co-authors of their expression. Techniques are no longer purely personal. The Domain consolidates into a **Realm** capable of holding other Domains. Pacts, artifacts and law begin to imprint on terrain. **Max Grade S; allocation stops at 550, with late push toward SS entry. Ceiling 625, the band from 551 reachable only under strain.** *Catalyst:* consolidating Domain into Realm structure.
 
 #### Stage X — Realization (Band A)
 
@@ -60,7 +60,7 @@ Truth as lived consequence. The world answers back. The Domain becomes a reality
 
 #### Stage XI — Dissonance (Band S)
 
-Power and identity clash. The second crisis Stage and the most dangerous. The Crystal has accumulated enough pressure to threaten its own coherence. Characters who pass through emerge with Crystals fractured but denser than clean advancement could produce. **Ardency Overchannel, Ardency Detonation and Resilience Nullity can only reach their true ceiling in characters who have passed through Dissonance.** The fractures are not damage. They are architectural features. Passive miracles leak. Regions behave differently around the character. **Max Grade SS with fracture risk above 700. Ceiling 750, structurally unstable.** *Catalyst:* deliberately entering contact with a force capable of ending the character's existence and remaining coherent long enough to choose how to meet it.
+Power and identity clash. The second crisis Stage and the most dangerous. The Crystal has accumulated enough pressure to threaten its own coherence. Characters who pass through emerge with Crystals fractured but denser than clean advancement could produce. **Ardency Overchannel, Ardency Detonation and Resilience Nullity can only reach their true ceiling in characters who have passed through Dissonance.** The fractures are not damage. They are architectural features. Passive miracles leak. Regions behave differently around the character. **Max Grade SS; allocation stops at 725, with fracture risk above 700. Ceiling 750, structurally unstable, the band from 726 reachable only under strain.** *Catalyst:* deliberately entering contact with a force capable of ending the character's existence and remaining coherent long enough to choose how to meet it.
 
 #### Stage XII — Emanation (Band S)
 

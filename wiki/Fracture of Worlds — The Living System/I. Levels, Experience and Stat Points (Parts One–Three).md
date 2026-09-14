@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81a7-8ab6-ff201f11a35b"
 notion_url: "https://app.notion.com/p/I-Levels-Experience-and-Stat-Points-Parts-One-Three-3d758200eb2281a78ab6ff201f11a35b"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-11T02:34:00.000Z"
+last_edited: "2026-09-14T02:09:00.000Z"
 verification: "unverified"
 ---
 
@@ -63,6 +63,7 @@ XP requirements are not linear. The early Bands move swiftly because the Crystal
 #### Allocation Per Level
 
 Every level grants a fixed allotment of Stat Points. **Points are spent on Sub-Stats only.** A Primary Stat is never purchased and holds no value of its own. It is the combined total of its eight Sub-Stats, recalculated the moment any one of them moves. Vitality is what Fortitude, Absorption, Constitution and the other five add up to. Dominion is what Radius, Sovereignty, Sense and the rest add up to. The Crystal does not record a category. It records where the pressure went, and the category is the arithmetic afterward.
+This is the model every sheet is built on. A sheet that records a Primary as a figure bought in its own right, a second layer of spend laid over the Sub-Stats, is wrong by this page and is re-costed to this shape: points on the Sub-Stats only, the Primary as the total of its eight, the Grade read off the mean.
 Points are spent freely across any Sub-Stats the character chooses, subject to the concentration cap below, which applies per Sub-Stat per level-up.
 | Band | Points per level | Concentration cap per Sub-Stat, per level-up |
 |---|---|---|
@@ -73,19 +74,21 @@ Points are spent freely across any Sub-Stats the character chooses, subject to t
 | V | 24 | 12 |
 
 Temperance Threshold events grant bonus Stat Points equal to **the Stage number multiplied by 100**, distributed freely into Sub-Stats on the same terms. A Stage VI Threshold awards 600 points. A Stage XIII Threshold awards 1,300.
+Stage I counts as a Threshold worth 100 points. Every practitioner starts with those 100 Threshold points, and the totals below count them: 1,000 from Thresholds I through IV, 9,100 through Stage XIII.
 
 #### The Full Point Economy
 
 Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: **9,000 points.** Threshold bonuses through Stage XIII total **9,100 points.** Full lifetime pool through Stage XIII: approximately **18,100 points**, spendable across sixty-three Sub-Stats, Throne excluded.
 The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.
+A sheet costed on the old figures, twenty, twenty-five and thirty a Level in Bands I through III, is re-costed to the table above: allocations trimmed to fit the current pool, Grade letters re-derived from the trimmed values, the Path gates of Part Seven applied in the same pass. The Threshold grants are unchanged and stay in the pool. A Temperance Stage ratified on such a sheet stands. Only the numbers move.
 **Breadth is affordable. Mastery is not.** A character who spreads the lifetime pool evenly carries roughly 287 in every Sub-Stat, which is A-Grade across the board at Stage XIII against an X-Grade ceiling. That is the versatile build, and it is a legitimate one: competent everywhere, dominant nowhere, and its Primary reads A. The specialist pushes a handful of Sub-Stats toward the 1,200 ceiling and pays for it with entries left near the floor. Both are viable, which is the point of the cut.
 **Worked examples.** A character finishing Band I at Level 100 and Stage IV holds 1,200 from leveling and 1,000 from Thresholds I through IV. Spread evenly that is 35 a Sub-Stat, E-Grade. Concentrated into fifteen entries it is 147, C-Grade, against a Stage IV ceiling of 275.
-A character finishing Band II at Level 200 and Stage VII holds roughly 5,500 cumulative. Spread evenly, 87 a Sub-Stat, D-Grade. Concentrated into twenty entries, 275, B-Grade, against a Stage VII ceiling of 475. A Band II practitioner reading B with an A ceiling above him is the correct shape, not an anomaly requiring justification.
+A character finishing Band II at Level 200 and Stage VII holds roughly 5,500 cumulative. Spread evenly, 87 a Sub-Stat, D-Grade. Concentrated into twenty entries, 275, B-Grade, against a Stage VII allocation cap of 400, with 401 to 475 reachable only under strain. A Band II practitioner reading B with an A ceiling above him is the correct shape, not an anomaly requiring justification.
 
 #### Temperance Ceilings
 
-**The ceiling binds the Sub-Stat.** No Sub-Stat may exceed the ceiling imposed by the character's current Temperance Stage, regardless of how many points are available to spend. Stage V caps a Sub-Stat at 350. Stage XIII caps a Sub-Stat at 1,200. The pool generates the points. The Crystal determines whether those points can be held. Points earned and refused by the ceiling are not lost; they sit as pressure until a Threshold enlarges the vessel.
-**Throne is the single exception.** It carries no ceiling and is excluded from the Dominion total.
-**Tier Grade is read off the mean.** A Primary's total divided by eight gives the value measured against the Grade table, which is the number a character sheet has always carried on the Primary line. A practitioner whose eight Ardency Sub-Stats total 2,400 has a mean of 300 and is A-Grade in Ardency. The total is what the sheet records. The mean is what an assessor reads, what a Measurewright says aloud, and what decides a contested exchange.
+**The ceiling binds the Sub-Stat.** No Sub-Stat may exceed the ceiling imposed by the character's current Temperance Stage, regardless of how many points are available to spend. The Stage's Max Grade letter binds allocation: a Sub-Stat may not be allocated past the top of that Grade's bracket. Where the Stage's numeric ceiling sits above the bracket, at Stages V, VII, IX and XI, the band between them is the instability zone, reachable only under strain, never by allocation. Stage V caps allocation at 275, B-Grade, and 276 to 350 is its instability zone. Stage XIII caps a Sub-Stat at 1,200. The pool generates the points. The Crystal determines whether those points can be held. Points earned and refused by the ceiling are not lost; they sit as pressure until a Threshold enlarges the vessel.
+**Throne is the single exception.** It carries no ceiling and is excluded from the Dominion total. Dominion's mean is therefore the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
+**Tier Grade is read off the mean.** A Primary's total divided by eight, or by seven for Dominion, gives the value measured against the Grade table, which is the number a character sheet has always carried on the Primary line. A practitioner whose eight Ardency Sub-Stats total 2,400 has a mean of 300 and is A-Grade in Ardency. The total is what the sheet records. The mean is what an assessor reads, what a Measurewright says aloud, and what decides a contested exchange.
 Because the ceiling sits on the Sub-Stat rather than the mean, the original rule holds and is **restored**: a character's Sub-Stats and their Primary Grade sit in the same bracket. If they are B-Grade, their stats are broadly B-Grade. Spread shows what they are good at. It does not move them between brackets.
 **What the mean does to specialists.** A Primary is dragged down by its neglected entries as hard as it is lifted by its favourites. A practitioner with three Dominion Sub-Stats at the ceiling and five near nothing reads as a modest Dominion on any assessor's ledger while legislating local reality with the three. The institutions measure the mean. The fight is decided by the peak. That gap is not a defect in the accounting; it is the reason a register is worth lying to.

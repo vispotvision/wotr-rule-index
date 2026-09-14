@@ -449,3 +449,24 @@ narration become him." R35-2: "Distant/formal register: Cozbi Mahuo."
 the two systems point opposite ways for him and disagree in kind for the rest.
 **Recommendation:** none stated by either source.
 **Status:** open
+
+---
+
+## C-016 — Cymorath's Stat Effect: Burst, or Perception
+
+**Rules:** R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN vs the Mechanism of the
+Sixty's Cymorath entry (base guide, WOTR_Mechanism_of_the_Sixty.md line 207)
+**The clash:** the ruling gives Cymorath's stat effect as "Dexterity Celerity
+and Gnosis Cartography and Perception, and nothing else"; the Mechanism of the
+Sixty's entry reads "Strengthens Dexterity Celerity, Burst, Gnosis
+Cartography" — Burst where the ruling has Perception. Whether "and nothing
+else" was an exhaustive Sub-Stat list or only a denial of any frost portfolio,
+neither text says. Found by the 2026-09-13 fold of that guide; the edition
+quotes the ruling beside the entry and changes neither.
+**Quotes:** R27-1: "Dexterity Celerity and Gnosis Cartography and Perception,
+and nothing else." Mechanism of the Sixty: "Strengthens Dexterity Celerity,
+Burst, Gnosis Cartography."
+**Consequence if unresolved:** a Cymorath-attuned card cannot be checked on
+this Sub-Stat trio.
+**Recommendation:** none stated by either source.
+**Status:** closed — ruled by Isaac, 2026-09-13: Fracture of Worlds governs (Celerity, Burst, Cartography); R27-1's Perception was a slip, noted on the row

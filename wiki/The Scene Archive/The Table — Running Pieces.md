@@ -3,9 +3,9 @@ title: "The Table — Running Pieces"
 notion_id: "3d458200-eb22-813a-9148-fb943587f1dc"
 notion_url: "https://app.notion.com/p/The-Table-Running-Pieces-3d458200eb22813a9148fb943587f1dc"
 section: "The Scene Archive"
-tags: ["Prose", "Reference Table"]
-last_edited: "2026-09-11T02:38:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-14T01:02:00.000Z"
+verification: null
 ---
 
 # The Table — Running Pieces
@@ -20,3 +20,9 @@ verification: "unverified"
 - [The Ledger](The Table — Running Pieces/The Ledger.md)
 - [Open Rulings — The Docket](The Table — Running Pieces/Open Rulings — The Docket.md)
 - [State of Play — Ilthára Korvaeth / The New World](The Table — Running Pieces/State of Play — Ilthára Korvaeth The New World.md)
+- [Fronts, as clocks](The Table — Running Pieces/Fronts, as clocks.md)
+- [The Ledger, structured](The Table — Running Pieces/The Ledger, structured.md)
+- [NPC roster](The Table — Running Pieces/NPC roster.md)
+- [[Fronts, as clocks]]
+- [[The Ledger, structured]]
+- [[NPC roster]]

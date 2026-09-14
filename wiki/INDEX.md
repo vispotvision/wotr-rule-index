@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-560 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+586 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -116,6 +116,19 @@
 
 - [Robin Ice — The Bastard Runner](Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
 
+## In-World Documents & the Narrative Archive (5)
+
+- [Anima Veri Credentis](In-World%20Documents%20&%20the%20Narrative%20Archive/Anima%20Veri%20Credentis.md)
+- [The Apprentice's Primer — A First Reader for the Newly Registered](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Apprentice's%20Primer%20—%20A%20First%20Reader%20for%20the%20Newly%20Registered.md)
+- [The Scene Archive](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Scene%20Archive.md)
+- [The Zettari–Mahou Accord](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Zettari–Mahou%20Accord.md)
+- [To Ara Min Mahuo](In-World%20Documents%20&%20the%20Narrative%20Archive/To%20Ara%20Min%20Mahuo.md)
+
+## Information not on WIKI (2)
+
+- [In-World Documents & the Narrative Archive](Information%20not%20on%20WIKI/In-World%20Documents%20&%20the%20Narrative%20Archive.md)
+- [Pack Twenty — The Clearance](Information%20not%20on%20WIKI/Pack%20Twenty%20—%20The%20Clearance.md)
+
 ## Lore & History (2)
 
 - [Lore & History](Lore%20&%20History/Lore%20&%20History.md)
@@ -140,9 +153,10 @@
 - [The Works and Days — Occupations, Trades and Technology](Materials,%20Alchemy%20&%20Trade/The%20Works%20and%20Days%20—%20Occupations,%20Trades%20and%20Technology.md)
 - [Weight, Measure and the Standard](Materials,%20Alchemy%20&%20Trade/Weight,%20Measure%20and%20the%20Standard.md)
 
-## Misc (1)
+## Misc (2)
 
 - [Artifacts](Misc/Artifacts.md)
+- [Information not on WIKI](Misc/Information%20not%20on%20WIKI.md)
 
 ## Natural Beasts (3)
 
@@ -162,12 +176,16 @@
 - [The Goblinoid Peoples](Races%20&%20Peoples/The%20Goblinoid%20Peoples.md)
 - [The Tongues of the Realms](Races%20&%20Peoples/The%20Tongues%20of%20the%20Realms.md)
 
+## Reference Table (1)
+
+- [A Reader's Codex](Reference%20Table/A%20Reader's%20Codex.md)
+
 ## Sodoku Moto (2)
 
 - [The Arctic Lion — Sovereign Configuration (Level 500)](Sodoku%20Moto/The%20Arctic%20Lion%20—%20Sovereign%20Configuration%20(Level%20500).md)
 - [Tōga (冬牙) — Winter Fang](Sodoku%20Moto/Tōga%20(冬牙)%20—%20Winter%20Fang.md)
 
-## Spellcraft (19)
+## Spellcraft (20)
 
 - [Anima Harmonics](Spellcraft/Anima%20Harmonics.md)
 - [Anointing](Spellcraft/Anointing.md)
@@ -180,6 +198,7 @@
 - [Kurotana](Spellcraft/Kurotana.md)
 - [Mugen no Hatsurugi](Spellcraft/Mugen%20no%20Hatsurugi.md)
 - [Oathrend](Spellcraft/Oathrend.md)
+- [Precept](Spellcraft/Precept.md)
 - [Resonant Divination](Spellcraft/Resonant%20Divination.md)
 - [Saba no Rosa](Spellcraft/Saba%20no%20Rosa.md)
 - [Scission](Spellcraft/Scission.md)
@@ -419,19 +438,40 @@
 - [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
+## The Scene Archive (3)
+
+- [The Freight Book](The%20Scene%20Archive/The%20Freight%20Book.md)
+- [The Left of the Door — Renard Greymane at the Altar-Room Door](The%20Scene%20Archive/The%20Left%20of%20the%20Door%20—%20Renard%20Greymane%20at%20the%20Altar-Room%20Door.md)
+- [The Table — Running Pieces](The%20Scene%20Archive/The%20Table%20—%20Running%20Pieces.md)
+
 ## The Spirit Summoning Arts (2)
 
 - [The Infinite Summoning Arts](The%20Spirit%20Summoning%20Arts/The%20Infinite%20Summoning%20Arts.md)
 - [The Twelve Stages of Spirit Infusion](The%20Spirit%20Summoning%20Arts/The%20Twelve%20Stages%20of%20Spirit%20Infusion.md)
 
-## The Tongues of the Realms (6)
+## The Table — Running Pieces (10)
+
+- [Fronts](The%20Table%20—%20Running%20Pieces/Fronts.md)
+- [Fronts, as clocks](The%20Table%20—%20Running%20Pieces/Fronts,%20as%20clocks.md)
+- [NPC roster](The%20Table%20—%20Running%20Pieces/NPC%20roster.md)
+- [Open Rulings — The Docket](The%20Table%20—%20Running%20Pieces/Open%20Rulings%20—%20The%20Docket.md)
+- [State of Play — Hild Ice / Kharven-Seat](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Hild%20Ice%20Kharven-Seat.md)
+- [State of Play — Ilthára Korvaeth / The New World](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Ilthára%20Korvaeth%20The%20New%20World.md)
+- [State of Play — Kwon Mu-jin / Hon-guk](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Hon-guk.md)
+- [State of Play — Sodoku Moto / Kharven](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Sodoku%20Moto%20Kharven.md)
+- [The Ledger](The%20Table%20—%20Running%20Pieces/The%20Ledger.md)
+- [The Ledger, structured](The%20Table%20—%20Running%20Pieces/The%20Ledger,%20structured.md)
+
+## The Tongues of the Realms (8)
 
 - [Accord Latin — The Formulary and the Two Spoken Registers](The%20Tongues%20of%20the%20Realms/Accord%20Latin%20—%20The%20Formulary%20and%20the%20Two%20Spoken%20Registers.md)
 - [Common — The Tongue With No Distinctions](The%20Tongues%20of%20the%20Realms/Common%20—%20The%20Tongue%20With%20No%20Distinctions.md)
 - [Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin](The%20Tongues%20of%20the%20Realms/Element%20Inventories%20—%20Mahuo,%20Yukari,%20the%20Elven%20Branches,%20Beastkin.md)
 - [Eressean and Varrisak — The Tongue of the Vey-Elarin](The%20Tongues%20of%20the%20Realms/Eressean%20and%20Varrisak%20—%20The%20Tongue%20of%20the%20Vey-Elarin.md)
+- [Moto Element Inventory — Japonic Stratum](The%20Tongues%20of%20the%20Realms/Moto%20Element%20Inventory%20—%20Japonic%20Stratum.md)
 - [Old Vaross — The Goblinoid Tongue](The%20Tongues%20of%20the%20Realms/Old%20Vaross%20—%20The%20Goblinoid%20Tongue.md)
 - [Runic Dawi — The Tongue of the Holds](The%20Tongues%20of%20the%20Realms/Runic%20Dawi%20—%20The%20Tongue%20of%20the%20Holds.md)
+- [The Celestial Host — Naming](The%20Tongues%20of%20the%20Realms/The%20Celestial%20Host%20—%20Naming.md)
 
 ## The War Cycle (10)
 
@@ -610,7 +650,7 @@
 - [Ziyu "Pip" Inari](Volume%20IV%20—%20Character%20Cards/Ziyu%20Pip%20Inari.md)
 - [Ziyu "Pip" Inari · The Two-Tailed Cipher](Volume%20IV%20—%20Character%20Cards/Ziyu%20Pip%20Inari%20·%20The%20Two-Tailed%20Cipher.md)
 
-## Volume V — Character Cards (89)
+## Volume V — Character Cards (90)
 
 - [Aeldoris Vanthryx · The Ruthless](Volume%20V%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
 - [Aelum · The Pale Hierophant](Volume%20V%20—%20Character%20Cards/Aelum%20·%20The%20Pale%20Hierophant.md)
@@ -688,6 +728,7 @@
 - [Seraphine Kharza · Ten Thousand Hands](Volume%20V%20—%20Character%20Cards/Seraphine%20Kharza%20·%20Ten%20Thousand%20Hands.md)
 - [Seraphine Lurielle · Lilac Gaze](Volume%20V%20—%20Character%20Cards/Seraphine%20Lurielle%20·%20Lilac%20Gaze.md)
 - [Seren Valenne · The Grey Adjudicator](Volume%20V%20—%20Character%20Cards/Seren%20Valenne%20·%20The%20Grey%20Adjudicator.md)
+- [Serenyra Vaelith · The Archmagus of the Grove-Spired Crown](Volume%20V%20—%20Character%20Cards/Serenyra%20Vaelith%20·%20The%20Archmagus%20of%20the%20Grove-Spired%20Crown.md)
 - [Seri Zeliro-Vanthe · The Lantern-Fox](Volume%20V%20—%20Character%20Cards/Seri%20Zeliro-Vanthe%20·%20The%20Lantern-Fox.md)
 - [Shiragiku Iori · The Wake-Embroiderer](Volume%20V%20—%20Character%20Cards/Shiragiku%20Iori%20·%20The%20Wake-Embroiderer.md)
 - [Shiran Kazuren · The Umbra Lantern](Volume%20V%20—%20Character%20Cards/Shiran%20Kazuren%20·%20The%20Umbra%20Lantern.md)

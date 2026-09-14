@@ -971,5 +971,15 @@
     "title": "Lich",
     "target": "The Iridescent Archive / Bestiary Additions"
   },
-  "_iridescent_archive": "3d958200-eb22-81d5-b816-c24838c80f80"
+  "_iridescent_archive": "3d958200-eb22-81d5-b816-c24838c80f80",
+  "imports/converted/characters/the_archmagus.md": {
+    "page_id": "3db58200-eb22-8171-9521-d895c1fe2e67",
+    "title": "Serenyra Vaelith · The Archmagus of the Grove-Spired Crown",
+    "target": "Volume V — Character Cards"
+  },
+  "imports/converted/spellcraft/precept.md": {
+    "page_id": "3db58200-eb22-813c-9f35-dc4735b78c66",
+    "title": "Precept",
+    "target": "The Iridescent Archive / Spellcraft"
+  }
 }

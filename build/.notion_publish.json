@@ -23,7 +23,7 @@
   "scenes/02_verinus_testament_of_the_sixty_fifth.md": {
     "page_id": "3d958200-eb22-819e-a591-c09112a91576",
     "title": "The Testament of the Sixty-Fifth",
-    "hash": "527792f15817a7b0"
+    "hash": "8876914fff044a8e"
   },
   "scenes/02_wren_bulwark.md": {
     "page_id": "3d958200-eb22-81d4-92f0-ceadaf7cfea8",
@@ -33,7 +33,7 @@
   "scenes/03_verinus_wall_between_the_safeguarded.md": {
     "page_id": "3d958200-eb22-81c9-bec9-d57a52d345c8",
     "title": "The Wall Between the Safeguarded",
-    "hash": "c33b92c2e453b55d"
+    "hash": "6c4b41da6608baca"
   },
   "scenes/03_wren_three_deliveries.md": {
     "page_id": "3d958200-eb22-813a-8527-cad2a715ff57",
@@ -48,12 +48,12 @@
   "scenes/04_verinus_the_hand_and_the_print.md": {
     "page_id": "3d958200-eb22-81d0-92de-c92eff1c4813",
     "title": "The Hand and the Print",
-    "hash": "c9e65a8a9c9f396b"
+    "hash": "d1a28815b2e2d249"
   },
   "scenes/05_aurelian_primate_under_the_wrong_stars.md": {
     "page_id": "3d958200-eb22-81d1-be01-d99bc48d161b",
     "title": "The Primate Under the Wrong Stars",
-    "hash": "ec506d5f37b49c92"
+    "hash": "c9535c1b7e920e28"
   },
   "scenes/05_sodoku_the_fixed_end.md": {
     "page_id": "3d958200-eb22-81a3-b699-f2051eb3737b",
@@ -88,7 +88,7 @@
   "scenes/08_sodoku_recalescence.md": {
     "page_id": "3d958200-eb22-816b-9a62-fa4a783e26d5",
     "title": "Recalescence",
-    "hash": "be7a8a0655dc4df3"
+    "hash": "4595c59e94b1da07"
   },
   "scenes/09_dabney_the_undamped_thing.md": {
     "page_id": "3d958200-eb22-81e8-90d0-f73e5b2b806c",
@@ -218,7 +218,7 @@
   "scenes/Cozbi_Rengai_Dhaerin_Confrontation.md": {
     "page_id": "3d958200-eb22-81a4-87c8-f5bf688fbc04",
     "title": "Cozbi Rengai Dhaerin Confrontation",
-    "hash": "d200a2d86dc19d3f"
+    "hash": "2423e16fa279a463"
   },
   "scenes/Cozbi_Root_Severance_and_Rashani_Threshold.md": {
     "page_id": "3d958200-eb22-81a8-9a51-f2c34fc88c27",
@@ -263,7 +263,7 @@
   "scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md": {
     "page_id": "3d958200-eb22-81d6-be92-e97c7f35b8ed",
     "title": "Naiser Death Cozbi Genocide Niran Fall",
-    "hash": "8713a849fee64e42"
+    "hash": "26675f9fbeec1f3f"
   },
   "scenes/Niran_Awakening_Haruki_Reunion.md": {
     "page_id": "3d958200-eb22-817d-ac5e-d3486478ca7d",
@@ -313,7 +313,7 @@
   "scenes/sesk_the_report.md": {
     "page_id": "3d958200-eb22-8146-82e5-c5c503676934",
     "title": "The Report",
-    "hash": "c89989f1c36e2792"
+    "hash": "feedfa41505204c8"
   },
   "scenes/seven_labors.md": {
     "page_id": "3d958200-eb22-8138-b9ff-dca39be196cd",
@@ -363,7 +363,7 @@
   "scenes/The_Path_of_Sorrow.md": {
     "page_id": "3d958200-eb22-815d-8d83-d5d7fb942598",
     "title": "The Path of Sorrow",
-    "hash": "3687394ec60bdd71"
+    "hash": "66365e57af80d3c3"
   },
   "scenes/verinus_sword_and_scale.md": {
     "page_id": "3d958200-eb22-8111-8ff2-e560385f77f8",
@@ -393,7 +393,7 @@
   "scenes/WOTR_Vaeloris_Sequence.md": {
     "page_id": "3d958200-eb22-8151-87b1-f30578381ea6",
     "title": "WAR OF THE REALMS",
-    "hash": "92ecd3ad0997885a"
+    "hash": "6c34c3d056021137"
   },
   "scenes/YOKO_MISHIRO.md": {
     "page_id": "3d958200-eb22-819b-bf2f-ed6196fe6602",
@@ -403,36 +403,66 @@
   "desktop/NATALIE.md": {
     "page_id": "3d958200-eb22-8138-8f80-dc57a05789c1",
     "title": "Natalie — Standing Rules",
-    "hash": "198fc27b99afa540"
+    "hash": "5bafefec7db62594"
   },
   "out/rules.live.full.md": {
     "page_id": "3d958200-eb22-816d-bae3-cae939fde2dd",
     "title": "Live Rules (resolved)",
-    "hash": "29e0db825656b969"
+    "hash": "9a8af7db8b82df63"
   },
   "out/docket.md": {
     "page_id": "3d958200-eb22-8117-a832-ca53d54225ca",
     "title": "Docket (index view)",
-    "hash": "f27aa46ae484f485"
+    "hash": "5bb8811b09e6662b"
   },
   "CONFLICTS.md": {
     "page_id": "3d958200-eb22-815b-bfd1-c47c90cd36cf",
     "title": "Conflicts",
-    "hash": "287b2a67b65e9347"
+    "hash": "7d2d4f65d755b52d"
   },
   "scenes/ARCS.md": {
     "page_id": "3d958200-eb22-8105-8af2-fbde5728de07",
     "title": "Reading order",
-    "hash": "dc1800b020981411"
+    "hash": "db269b0c9fdfc340"
   },
   "scenes/CAST.md": {
     "page_id": "3d958200-eb22-813f-934f-e06e845a74b8",
     "title": "Cast index",
-    "hash": "61e3d24181c45832"
+    "hash": "1368ced96a0dbfb8"
   },
   "docs/NARRATION_DISTANCE.md": {
     "page_id": "3d958200-eb22-81c3-8a70-c06ca3fa59d9",
     "title": "Narration Registers — Psychic Distance by POV",
     "hash": "e3d74800e583cd09"
+  },
+  "scenes/kaalabad_star_crusher.md": {
+    "page_id": "3da58200-eb22-8199-8aaa-cd3b9e472a03",
+    "title": "Star Crusher",
+    "hash": "ac256cec6ee5c718"
+  },
+  "scenes/kaalabad_the_petition.md": {
+    "page_id": "3da58200-eb22-8112-9ae9-de64f60e8744",
+    "title": "The Petition",
+    "hash": "ff080475b4e73ba3"
+  },
+  "scenes/TIMELINE.md": {
+    "page_id": "3da58200-eb22-81e4-8b48-ce7d3ce96362",
+    "title": "Timeline",
+    "hash": "72a8cd60b5e31770"
+  },
+  "table/FRONTS.md": {
+    "page_id": "3db58200-eb22-81f8-b88d-cd05ea5462b2",
+    "title": "Fronts, as clocks",
+    "hash": "7732e0b3dc087d9c"
+  },
+  "table/LEDGER.md": {
+    "page_id": "3db58200-eb22-81a5-afdc-e3256475c14d",
+    "title": "The Ledger, structured",
+    "hash": "066bd3f653f42458"
+  },
+  "table/NPCS.md": {
+    "page_id": "3db58200-eb22-81c6-a338-ce011ca4f941",
+    "title": "NPC roster",
+    "hash": "17e8bf698f1c64da"
   }
 }

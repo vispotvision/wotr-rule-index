@@ -101,6 +101,18 @@ not on WIKI" in Notion -> "..." menu -> Connections -> add the "oridon"
 integration.** Once shared, the next sync picks it up with no code changes
 needed.
 
+## 2026-09-13, night — third round applied
+- C-015 ruled (two axes, R41-1); C-016 was an artefact of retired names (Merge Ledger);
+  C-017..019 (Pack Twenty vs the R13-A/C/D rulings) ruled: later rulings win, R20C-24/26/27
+  superseded on arrival. Open conflicts: none.
+- R38-2 re-cost applied to the seven sheets with a stated pool (build/recost.py; reports/
+  recost_2026-09-13_applied.md). Retired Sub-Stat names scaled, not renamed.
+- Editions written: Combat Craft Guide (2026-09-13). Its next pass owes a note at the three
+  R20C rows now superseded.
+- Tasks: "WOTR weekly backup" (Sunday 03:00, build/backup.py → Drive). vault/ is the Obsidian
+  view (build/vault_export.py, hourly in the sync) — point Obsidian at vault/, not the repo.
+- Bot: /verify and /date added (16 commands). Message Content intent still off in the portal.
+
 ## 2026-09-13, evening — second questionnaire round, all applied
 - Docket empty (pending=0). C-015 (psychic-distance bands vs R35-2) is the only open
   conflict. Pack Twenty extracted (rules/pack-20-twenty.yaml); R40-1/R40-2 ratified

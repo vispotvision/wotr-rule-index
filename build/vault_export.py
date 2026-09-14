@@ -95,10 +95,10 @@ def link_text(md: str, names: list[tuple[str, str]], self_rel: str) -> str:
 
 
 def main() -> int:
-    if VAULT.exists():
-        shutil.rmtree(VAULT)
-    (VAULT / "wiki").mkdir(parents=True)
-    (VAULT / "scenes").mkdir(parents=True)
+    for sub in ("wiki", "scenes"):   # regenerate the content; leave the reader's .obsidian settings alone
+        if (VAULT / sub).exists():
+            shutil.rmtree(VAULT / sub)
+        (VAULT / sub).mkdir(parents=True)
     tg = targets()
     names = sorted(tg.items(), key=lambda kv: -len(kv[0]))
     names = [(n, "wiki/" + r) for n, r in names if len(n) >= 4]

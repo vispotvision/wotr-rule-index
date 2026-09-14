@@ -26,7 +26,7 @@ TABLE = ROOT / "table"
 WIKI = ROOT / "wiki"
 RP = WIKI / "The Table — Running Pieces"
 
-FILES = {k: TABLE / f"{k}.yaml" for k in ("fronts", "ledger", "sessions", "npcs")}
+FILES = {k: TABLE / f"{k}.yaml" for k in ("fronts", "ledger", "sessions", "npcs", "events")}
 
 
 def load(kind: str) -> list:

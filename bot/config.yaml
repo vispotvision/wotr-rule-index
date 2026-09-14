@@ -12,7 +12,13 @@ roles:
 # Gateway intents. message_content is needed from F2 (reading in-character posts);
 # it must also be switched on under Bot > Privileged Gateway Intents in the portal.
 intents:
-  message_content: false
+  message_content: false   # flip to true once Bot > Privileged Gateway Intents > Message Content is on in the portal
+
+# Channels the write commands use (ids from the server).
+channels:
+  judger: 1392897715548979303      # admin-talk: proposed scenes, ledger candidates
+  event_log: 1392902693835640862   # event-log: /event add posts its card here
+  character_submission: 1392872079128400043   # the forum the sheet checker watches
 
 # Longest embed page in characters (Discord caps a description at 4096).
 page_size: 3600

@@ -22,7 +22,7 @@ BOT_DIR = Path(__file__).resolve().parent
 sys.path.insert(0, str(BOT_DIR))
 
 CFG = yaml.safe_load((BOT_DIR / "config.yaml").read_text(encoding="utf-8"))
-COGS = ["cogs.lookup", "cogs.build", "cogs.audio"]
+COGS = ["cogs.lookup", "cogs.build", "cogs.audio", "cogs.scenes", "cogs.sheets"]
 
 log = logging.getLogger("wotr")
 

@@ -109,3 +109,31 @@ Isaac ruled the island takes a Japonic-register name in place of Vāimoana / Vā
 - **Kaiyō** (海洋, "ocean") — the literal successor to Vāimoana's meaning ("ocean water"); plainer, and plain may be right for a place nobody outside has been allowed to station on.
 
 *Why:* R21-5 as ruled. Once one is ratified, every "Vāimoana" in the wiki and the index is swept to it (stale_names will carry the pair).
+
+## 2026-09-13 — A Moto element inventory for the Japonic stratum
+
+**Status:** proposed
+**applies_to:** naming
+**Full draft:** proposals/moto_element_inventory_draft.md
+
+Fills the gap the Polynesian strike left (R21-1, R23-1): Moto naming is Japonic
+(R23-2) and had no element bank. Thirty elements in five categories in the
+Yukari inventory's shape; the slot structure Given + Line + Moto is attested
+(Artemis Amagiri Moto, Souma Byakuya Moto). Twenty-six elements are lifted
+from attested names and Line terms; every gloss and the remaining four
+elements are coined and marked. Four flags inline. When ratified, /name gains
+a Moto register.
+
+## 2026-09-13 — The Celestial Host naming pass (R20-2)
+
+**Status:** proposed
+**applies_to:** naming, register
+**Full draft:** proposals/celestial_naming_draft.md
+
+The formal pass R20-2-CELESTIAL_HOST_NAMING was waiting for: function-name +
+rank-suffix + Lawbell-name on the amendment's own structure, obeying the
+Host's idiom rule (R24-3: measure, position, law). The Lawbell-name is the
+Archon's attested name carried bare; the function and measure roots are
+coined on the Host's own vocabulary; the five working names are read back
+through the system and kept, not replaced. Four flags inline, two of them
+canon acts (Faisal's and Verantha's Lawbell-names) left to Isaac.

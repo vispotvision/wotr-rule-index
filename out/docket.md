@@ -1,44 +1,12 @@
 # The Docket — open rulings
 
-6 outstanding.
+2 outstanding.
 
 ## R20-2-CELESTIAL_HOST_NAMING — Celestial Host naming, pending a formal pass
 
 *Naming Guide Amendment Part Two, blocks: naming, worldbuilding*
 
 > Current status: Flagged as needing a full naming pass. Working names (Verantha, Kaethren Vareth, Dazgrim, Urstia) are placeholders.
-
-## R2-OP-UNFOLDED_GUIDES — Packs remain paste-in diffs, deliberately, but unfolded
-
-*Pack Two Still Open, blocks: session-protocol, documents*
-
-> The guides themselves are still unamended files. Both packs are paste-in diffs rather than rewritten guides. That is a deliberate choice so you can review the change rather than the whole document, but it means step seven of the run order is not complete until you fold them.
-
-An early instance of the same "fold packs into base guides" standing task later packs keep restating with a growing count.
-
-## R4-H1-WREN_ASSIGNED — Wren Greymane's combat assignment, drafted 2026-09-12
-
-*Pack Four Still Open, blocks: combat, character-sheet*
-
-> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
-
-Originated (no source document -- drafted 2026-09-12 by a background research agent), grounded in scenes/02_wren_bulwark.md and scenes/03_wren_three_deliveries.md (he absorbs halberd-strikes on a heater shield, then drives the arming sword into the one unarmored spot on the antagonist's neck rather than going for head or chest). Not yet reviewed by Isaac; pitch only.
-
-## R4-H2-EDWARD_LAMBERT_ASSIGNED — Edward Lambert's combat assignment, drafted 2026-09-12
-
-*Pack Four Still Open, blocks: combat, character-sheet*
-
-> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
-
-Originated (no source document -- drafted 2026-09-12 by a background research agent) -- barely needed drafting: scenes/05_sodoku_the_fixed_end.md's own author notes already describe this exact half-sword thrust, cross-strike to the nose, and hip-not-wrist follow-through ("Edward's fighting is HEMA and it is a fifty-three-year-old's HEMA"). Not yet reviewed by Isaac; pitch only.
-
-## R4-OP-PASTE_IN_DIFFS — All four packs remain paste-in diffs, unfolded
-
-*Pack Four Still Open, blocks: session-protocol, documents*
-
-> All four packs remain paste-in diffs. Step seven of the run order is not complete until they are folded.
-
-An early instance of the same "fold packs into base guides" standing task later packs keep restating with a growing count (e.g. R19-9-STANDING_TASK).
 
 ## R9-1-STILL_OPEN_ITEMS — Craft-structure items this pack leaves undecided
 

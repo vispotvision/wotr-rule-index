@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-487 live of 599 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+497 live of 607 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (25)
+## adjudication (27)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -148,13 +148,25 @@ A Sacrament or Transposition anchor is a soul that holds the celebrant's name at
 
 > Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
 
+### R39-1-CANON_STAT_MODEL [Stat System and Scene Rulings 2026-09-13 C-014]
+
+The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.
+
+> The canon model: points are spent on Sub-Stats only; a Primary is the total of its eight Sub-Stats and its Grade is read off the mean. The 125 sheets that buy Primaries as a second layer are wrong and are re-costed to this shape (the R38-2 re-cost proceeds on the canon model).
+
+### R39-4-MAX_GRADE_LETTER_BINDS [Stat System and Scene Rulings 2026-09-13 C-011]
+
+A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
+
+> The Max Grade letter binds: a Sub-Stat may not exceed the top of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725); the band from there up to the Stage's numeric ceiling is the flagged instability zone, reachable only under strain, never by allocation.
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (59)
+## character-sheet (67)
 
 ### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
 
@@ -323,6 +335,18 @@ Irony built on a character being stupid is not irony; a POV must apply sound rea
 Lambert carries institutional dryness in the debrief; Pietro carries contempt as wit; Yoko is accidentally funny through literalism; Sodoku does not make jokes and should not start.
 
 > Who carries it, current cast: Lambert (institutional dryness, arrives in the debrief). Pietro (contempt as wit). Yoko (accidental, through literalism). Sodoku does not make jokes and should not start.
+
+### R4-H1-WREN_ASSIGNED [Pack Four Still Open]
+
+Blade grammar; patient under load, gives ground on the shield rather than trade for it, then closes into Nachreisen (a German longsword-tradition term: "following after" — chasing the opening that appears right after a block or parry, instead of attacking on your own initiative) with the arming sword; does not fight the armor, reads for the one unarmored inch and puts the point there.
+
+> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
+
+### R4-H2-EDWARD_LAMBERT_ASSIGNED [Pack Four Still Open]
+
+Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.
+
+> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
 
 ### R3-7-EXPENDITURE_ASSIGNMENT [Pack Three Amendment Seven]
 
@@ -512,6 +536,42 @@ Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats
 Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
 
 > Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.
+
+### R39-1-CANON_STAT_MODEL [Stat System and Scene Rulings 2026-09-13 C-014]
+
+The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.
+
+> The canon model: points are spent on Sub-Stats only; a Primary is the total of its eight Sub-Stats and its Grade is read off the mean. The 125 sheets that buy Primaries as a second layer are wrong and are re-costed to this shape (the R38-2 re-cost proceeds on the canon model).
+
+### R39-2-DOMINION_MEAN_OF_SEVEN [Stat System and Scene Rulings 2026-09-13 C-009]
+
+Because Throne is excluded from the Dominion total, Dominion's mean is the total divided by seven; Throne sits outside both the total and the mean.
+
+> Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
+
+### R39-3-STAGE_ONE_THRESHOLD_COUNTS [Stat System and Scene Rulings 2026-09-13 C-010]
+
+Every practitioner starts with the Stage I Threshold's 100 points, so Part Three's worked totals stand exact; Part Eight's thirteen listed events are the transitions, not the count of Thresholds.
+
+> Stage I counts as a Threshold worth 100 points: everyone starts with 100 Threshold points, and Part Three's worked totals stand exact (2,200 at Level 100 / Stage IV; 9,100 through Stage XIII).
+
+### R39-4-MAX_GRADE_LETTER_BINDS [Stat System and Scene Rulings 2026-09-13 C-011]
+
+A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
+
+> The Max Grade letter binds: a Sub-Stat may not exceed the top of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725); the band from there up to the Stage's numeric ceiling is the flagged instability zone, reachable only under strain, never by allocation.
+
+### R39-5-PERSISTENCE_FATE_GATE_VII [Stat System and Scene Rulings 2026-09-13 C-012]
+
+Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
+
+> Persistence's Fate gate is Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected to VII.
+
+### R39-6-DISSONANCE_CEILING_TRIO [Stat System and Scene Rulings 2026-09-13 C-013]
+
+The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
+
+> The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
 ## codex (35)
 
@@ -725,7 +785,7 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## combat (59)
+## combat (61)
 
 ### R17-3-COUNTER_MANDATORY [Pack Seventeen §3]
 
@@ -948,6 +1008,18 @@ An art with a true name may carry a release call (imperative verb plus name); it
 One release per scene at most; two men releasing in the same scene is an event, not texture.
 
 > One release per scene at most. Two men releasing in the same scene is an event, not texture.
+
+### R4-H1-WREN_ASSIGNED [Pack Four Still Open]
+
+Blade grammar; patient under load, gives ground on the shield rather than trade for it, then closes into Nachreisen (a German longsword-tradition term: "following after" — chasing the opening that appears right after a block or parry, instead of attacking on your own initiative) with the arming sword; does not fight the armor, reads for the one unarmored inch and puts the point there.
+
+> Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch
+
+### R4-H2-EDWARD_LAMBERT_ASSIGNED [Pack Four Still Open]
+
+Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.
+
+> Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch
 
 ### R3-7-EXPENDITURE_GRAMMAR [Pack Three Amendment Seven]
 
@@ -1479,7 +1551,7 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
-## documents (19)
+## documents (20)
 
 ### R19-9-STANDING_TASK [Pack Nineteen §9]
 
@@ -1594,6 +1666,12 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 
 > The Accord's administrative system files every practitioner under a standardised format: given name, family or patronymic, culture of origin, rank designation.
+
+### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
+
+Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
+
+> Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
 ## items (23)
 
@@ -3498,7 +3576,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (38)
+## pov (39)
 
 ### R19-4-ICEBERG_DIALOGUE [Pack Nineteen §4]
 
@@ -3728,7 +3806,13 @@ Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, W
 
 > Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss). Each assigned character's entry below carries a violation caution, and the caution is part of the assignment: the register says whose idiom the narration runs in, the caution says where that idiom is most likely to be broken from outside.
 
-## prose-law (117)
+### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
+
+The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
+
+> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
+
+## prose-law (118)
 
 ### R19-2-FIXED_TEXT [Pack Nineteen §2]
 
@@ -4432,6 +4516,12 @@ Never write an Eladrin line of dialogue without a distance or stillness beat att
 
 > Never write an Eladrin line of dialogue without a distance or stillness beat attached. A bare Eladrin line is an incomplete sentence in their language, and the reader should be able to follow an entire Eladrin conversation with the dialogue removed.
 
+### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
+
+The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
+
+> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
+
 ## register (101)
 
 ### R19-4-REGISTER_UNDER_STRESS [Pack Nineteen §4]
@@ -5040,7 +5130,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## scene-structure (25)
+## scene-structure (26)
 
 ### R19-2-BUILT_AROUND [Pack Nineteen §2]
 
@@ -5192,7 +5282,13 @@ Per the Mass Combat Craft Guide §7: the wounded left where they fell, the strip
 
 > The five-stage aftermath sequence (per the Mass Combat Craft Guide section 7): the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season. Any aftermath scene should touch at least two.
 
-## session-protocol (10)
+### R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK [Stat System and Scene Rulings 2026-09-13 C-008]
+
+The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
+
+> The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
+
+## session-protocol (11)
 
 ### R19-8-NO_RETROACTIVE [Pack Nineteen §8]
 
@@ -5253,6 +5349,12 @@ A naming pass runs per culture; existing techniques already established in prose
 wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 
 > Both scripts run before presenting, failures are fixed, both re-run. No single-pass delivery.
+
+### R39-8-PACKS_FOLDED_INTO_EDITIONS [Stat System and Scene Rulings 2026-09-13 Folding]
+
+Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
+
+> Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
 ## standing-inventory (14)
 
@@ -5340,7 +5442,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (36)
+## stats (42)
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -5560,6 +5662,42 @@ Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats
 Every originated character sheet costed on the pre-cut per-Level allotment (20/25/30 points per Level in Bands I–III, the figures the Volume III/IV sheets show as "Band III at 30 per level") is re-costed to Part Three's current allotment: 12/15/18/21/24 points per Level in Bands I–V, "cut by two fifths", plus the Temperance Threshold grants of Stage × 100. Allocations are trimmed to fit the current pool, Grade letters are re-derived from the trimmed values, and the R38-1 strict caps are applied in the same pass. The Temperance Stage ratifications stand unaffected; only the numbers move.
 
 > Band I contributes 1,200 points. Band II, 1,500. Band III, 1,800. Band IV, 2,100. Band V, 2,400. Total from leveling at Level 500: 9,000 points. Threshold bonuses through Stage XIII total 9,100 points. Full lifetime pool through Stage XIII: approximately 18,100 points, spendable across sixty-three Sub-Stats, Throne excluded. The allotment was cut by two fifths from its original figures when the Sub-Stat count was consolidated from a hundred and twenty to sixty-four. The old pool was sized against a phantom count of twenty stats and produced an overabundance the ceiling could not absorb. The cut restores scarcity without making versatility a luxury.
+
+### R39-1-CANON_STAT_MODEL [Stat System and Scene Rulings 2026-09-13 C-014]
+
+The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.
+
+> The canon model: points are spent on Sub-Stats only; a Primary is the total of its eight Sub-Stats and its Grade is read off the mean. The 125 sheets that buy Primaries as a second layer are wrong and are re-costed to this shape (the R38-2 re-cost proceeds on the canon model).
+
+### R39-2-DOMINION_MEAN_OF_SEVEN [Stat System and Scene Rulings 2026-09-13 C-009]
+
+Because Throne is excluded from the Dominion total, Dominion's mean is the total divided by seven; Throne sits outside both the total and the mean.
+
+> Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.
+
+### R39-3-STAGE_ONE_THRESHOLD_COUNTS [Stat System and Scene Rulings 2026-09-13 C-010]
+
+Every practitioner starts with the Stage I Threshold's 100 points, so Part Three's worked totals stand exact; Part Eight's thirteen listed events are the transitions, not the count of Thresholds.
+
+> Stage I counts as a Threshold worth 100 points: everyone starts with 100 Threshold points, and Part Three's worked totals stand exact (2,200 at Level 100 / Stage IV; 9,100 through Stage XIII).
+
+### R39-4-MAX_GRADE_LETTER_BINDS [Stat System and Scene Rulings 2026-09-13 C-011]
+
+A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
+
+> The Max Grade letter binds: a Sub-Stat may not exceed the top of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725); the band from there up to the Stage's numeric ceiling is the flagged instability zone, reachable only under strain, never by allocation.
+
+### R39-5-PERSISTENCE_FATE_GATE_VII [Stat System and Scene Rulings 2026-09-13 C-012]
+
+Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
+
+> Persistence's Fate gate is Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected to VII.
+
+### R39-6-DISSONANCE_CEILING_TRIO [Stat System and Scene Rulings 2026-09-13 C-013]
+
+The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
+
+> The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
 ## verification (84)
 

@@ -379,3 +379,46 @@ pack's own header). No new live-vs-live contradictions; validate.py passes.
 ## 2026-09-12 — canon: the Agamalu retcon on Muken's queen is reversed
 
 Isaac, in Claude Code: "Ayame Yuno over Filemu Agamalu we retconned the Agamalu register." Reverses the Canon Amendment, Agamalu and Büri Origin's central claim (R21-1-QUEEN_OF_KHARVEN_RULING, R21-2-FILEMU_NAME_CORRECTION, R21-2-FILEMU_FULL_NAMING, R21-5-FILEMU_VOICE_PENDING, all marked superseded) that Muken's queen was "Filemu Agamalu" of the Agamalu house (Manono Branch, Vāimoana/Wadatsumi, the Ava-name Le Ie Tuuina Atu, matai title Tausi o le Vā Atoa, the Fusi Vā rite). She is Ayame Yuno again — Yuno Family, Kagura Branch, matai title Zenma no Mamori, Saimei Okurareta Nishiki, the rite named Saishiki — exactly as her own Volume I card (`wiki/Volume I — Character Cards/Ayame Yuno.md`, predating the Canon Amendment) already had her, untouched. Applied: swept "Filemu Agamalu"/"Filemu" back to "Ayame"/"Ayame Yuno" and "Fusi Vā" back to "Saishiki" across scenes/ and wiki/ wherever the Agamalu-register swap had been made (`scenes/THE_KINGDOM_OF_KHARVEN_buri.md`, `scenes/THE_KINGDOM_OF_KHARVEN_corrected.md`, `wiki/The Bearing and the Holding/Yasoshima — The Eighty Isles.md`, `wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md`). Left open on the Docket, C-004: whether the Agamalu homeland (Vāimoana/Wadatsumi as a place, its confederation-of-aiga governance, its Essence stability) survives as unrelated worldbuilding now that its only narrative tie to Kharven (the marriage) is gone, or whether that whole thread goes with it.
+
+## 2026-09-13 — the stat-system conflicts C-008 through C-014 closed; two proposals ratified; two pending rows superseded
+
+Isaac, in Claude Code (a questionnaire over every open row; each answer is
+his choice among stated options, quoted here as ruled). Rows R39-1 to R39-8
+in `rules/doc-stat-system-rulings.yaml` carry them into the index.
+
+- **C-014.** The canon model: points are spent on Sub-Stats only; a Primary
+  is the total of its eight Sub-Stats and its Grade is read off the mean.
+  The 125 sheets that buy Primaries as a second layer are wrong and are
+  re-costed to this shape (the R38-2 re-cost proceeds on the canon model).
+- **C-009.** Dominion's mean is the total divided by seven, the seven
+  counted Sub-Stats; Throne sits outside both the total and the mean.
+- **C-010.** Stage I counts as a Threshold worth 100 points: everyone
+  starts with 100 Threshold points, and Part Three's worked totals stand
+  exact (2,200 at Level 100 / Stage IV; 9,100 through Stage XIII).
+- **C-011.** The Max Grade letter binds: a Sub-Stat may not exceed the top
+  of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725);
+  the band from there up to the Stage's numeric ceiling is the flagged
+  instability zone, reachable only under strain, never by allocation.
+- **C-012.** Persistence's Fate gate is Stage VII, as the Four Paths page
+  has it; Part Seven's Stage V is corrected to VII.
+- **C-013.** The Sub-Stats that reach their true ceiling only through
+  Dissonance are Overflow, Overchannel and Persistence (Part Eight and The
+  Sixteen Stages agree); Part Sixteen's list is corrected to match.
+- **C-008.** The narration-distance rule wins: no NPC italic thought inside
+  a locked-POV scene. Pack One's "one private italic thought per named NPC"
+  carve-out survives only for scenes with no POV lock (omniscient and mass
+  combat).
+- **R4-H1-WREN_ASSIGNED, R4-H2-EDWARD_LAMBERT_ASSIGNED.** Ratified as
+  written; both go live, and the Combat Guide's pending appendix moves into
+  the main assignments table at the next edition.
+- **R2-OP-UNFOLDED_GUIDES, R4-OP-PASTE_IN_DIFFS.** Superseded by Isaac's
+  direction of 2026-09-12 to fold the packs into dated base-guide editions
+  ("yes — start folding the packs in now"); eleven guides are folded, the
+  remaining six follow the same way.
+
+Also chosen in the same sitting, not rulings: R9-1's five Four Crafts items
+get concrete options drafted from Part Four's docket before he rules; the
+Celestial Host naming pass (R20-2) and a Japonic Moto element bank are
+drafted as proposals; Pack Twenty — The Clearance gets pack_impact before
+extraction; A Reader's Codex is republished (its Notion deletion was an
+accident); Darius's card is Isaac's to write in Notion.

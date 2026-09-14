@@ -3527,6 +3527,254 @@
     "superseded_by": []
   },
   {
+    "id": "R39-1-CANON_STAT_MODEL",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-014",
+    "title": "Points buy Sub-Stats; a Primary is the sum of its eight; the Grade is the mean",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "The Living System's own model governs every sheet: Sub-Stats are what points are spent on, a Primary is the total of its eight Sub-Stats, and its Grade is read off the mean. The 125 cards that bought Primaries as a second layer of spend are wrong and are re-costed to this shape.",
+    "verbatim": "The canon model: points are spent on Sub-Stats only; a Primary is the total of its eight Sub-Stats and its Grade is read off the mean. The 125 sheets that buy Primaries as a second layer are wrong and are re-costed to this shape (the R38-2 re-cost proceeds on the canon model).",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Three, Stat Points",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-014)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-014. Gates the R38-2 re-cost of the 208 sheets: scale to the current pool on the canon model, not the cards' two-layer accounting.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-2-DOMINION_MEAN_OF_SEVEN",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-009",
+    "title": "Dominion's Grade is the mean of its seven counted Sub-Stats",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Because Throne is excluded from the Dominion total, Dominion's mean is the total divided by seven; Throne sits outside both the total and the mean.",
+    "verbatim": "Dominion's mean is the total divided by seven, the seven counted Sub-Stats; Throne sits outside both the total and the mean.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Three, Temperance Ceilings",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-009)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-009.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-3-STAGE_ONE_THRESHOLD_COUNTS",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-010",
+    "title": "Stage I is a Threshold worth 100 points",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Every practitioner starts with the Stage I Threshold's 100 points, so Part Three's worked totals stand exact; Part Eight's thirteen listed events are the transitions, not the count of Thresholds.",
+    "verbatim": "Stage I counts as a Threshold worth 100 points: everyone starts with 100 Threshold points, and Part Three's worked totals stand exact (2,200 at Level 100 / Stage IV; 9,100 through Stage XIII).",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Three, Stat Points; Part Eight",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-010)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-010.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-4-MAX_GRADE_LETTER_BINDS",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-011",
+    "title": "The Stage's Max Grade letter caps a Sub-Stat; the numeric ceiling above it is the instability zone",
+    "status": "live",
+    "kind": "mandate",
+    "summary": "A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.",
+    "verbatim": "The Max Grade letter binds: a Sub-Stat may not exceed the top of the Stage's Max Grade bracket (Stage V 275, VII 400, IX 550, XI 725); the band from there up to the Stage's numeric ceiling is the flagged instability zone, reachable only under strain, never by allocation.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Five, the Stage table",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-011)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-011.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-5-PERSISTENCE_FATE_GATE_VII",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-012",
+    "title": "Persistence's Fate gate is Stage VII",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.",
+    "verbatim": "Persistence's Fate gate is Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected to VII.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Seven, Path gates",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-012)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-012.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-6-DISSONANCE_CEILING_TRIO",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-013",
+    "title": "Overflow, Overchannel and Persistence reach their true ceiling only through Dissonance",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.",
+    "verbatim": "The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — Part Sixteen",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-013)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-013.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "C-008",
+    "title": "No NPC italic thought inside a locked-POV scene",
+    "status": "live",
+    "kind": "ban",
+    "summary": "The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.",
+    "verbatim": "The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's \"one private italic thought per named NPC\" carve-out survives only for scenes with no POV lock (omniscient and mass combat).",
+    "amends": [
+      {
+        "guide": "WOTR_Scene_Writing_Process_Guide.md",
+        "locus": "§5 worked example; Scene Standards",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "prose-law",
+      "scene-structure"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-008)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-008. Narrows R1-3-SCENE_STANDARDS_DEFINED's carve-out rather than repealing it: that row stays live for unlocked scenes.",
+    "superseded_by": []
+  },
+  {
+    "id": "R39-8-PACKS_FOLDED_INTO_EDITIONS",
+    "pack": "Stat System and Scene Rulings 2026-09-13",
+    "pack_number": null,
+    "section": "Folding",
+    "title": "The packs are folded into dated base-guide editions",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.",
+    "verbatim": "Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions (\"yes — start folding the packs in now\"); eleven guides are folded, the remaining six follow the same way.",
+    "amends": null,
+    "supersedes": [
+      "R2-OP-UNFOLDED_GUIDES",
+      "R4-OP-PASTE_IN_DIFFS"
+    ],
+    "applies_to": [
+      "documents",
+      "session-protocol"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: confirmed the 2026-09-12 direction as the ruling",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "The editions live beside the originals in WOTR True Canon; sources/ is untouched.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,
@@ -4912,7 +5160,7 @@
     "pack_number": 2,
     "section": "Still Open",
     "title": "Packs remain paste-in diffs, deliberately, but unfolded",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Both packs are paste-in diffs rather than rewritten guides, a deliberate choice for reviewability, but step seven of the run order is not complete until they are folded.",
     "verbatim": "The guides themselves are still unamended files. Both packs are paste-in diffs rather than rewritten guides. That is a deliberate choice so you can review the change rather than the whole document, but it means step seven of the run order is not complete until you fold them.",
@@ -4929,7 +5177,9 @@
       "lines": "121"
     },
     "notes": "An early instance of the same \"fold packs into base guides\" standing task later packs keep restating with a growing count.",
-    "superseded_by": []
+    "superseded_by": [
+      "R39-8-PACKS_FOLDED_INTO_EDITIONS"
+    ]
   },
   {
     "id": "R2-OP-ZETTARI_DOCKET",
@@ -6699,7 +6949,7 @@
     "pack_number": 4,
     "section": "Still Open",
     "title": "Wren Greymane's combat assignment, drafted 2026-09-12",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Blade grammar; patient under load, gives ground on the shield rather than trade for it, then closes into Nachreisen (a German longsword-tradition term: \"following after\" — chasing the opening that appears right after a block or parry, instead of attacking on your own initiative) with the arming sword; does not fight the armor, reads for the one unarmored inch and puts the point there.",
     "verbatim": "Wren Greymane | Blade | Patient under load. Takes the blow on the shield and gives ground rather than trade for it, then closes the half-step he's bought into the one point he's already read — Nachreisen with the arming sword rather than a fresh strike. | Doesn't fight the armor. Reads for the one unarmored inch — old scar tissue, a turned collar, the gap above a gorget — and puts the point there and nowhere else. | Pitch",
@@ -6730,7 +6980,7 @@
     "pack_number": 4,
     "section": "Still Open",
     "title": "Edward Lambert's combat assignment, drafted 2026-09-12",
-    "status": "proposed",
+    "status": "live",
     "kind": "definition",
     "summary": "Blade grammar; half-swording (Halbschwert — gripping partway up his own blade with the off hand for extra leverage and control on a thrust) up under the jaw; turns the point with the hip rather than the wrist because at fifty-three the wrist goes first; no exchanges, one finish.",
     "verbatim": "Edward Lambert | Blade | Half-swording up under the jaw into the floor of the mouth and through the palate; turns the point back out of the wound with the hip rather than the wrist, because at fifty-three the wrist is the first thing to go. No exchanges — an exchange is a thing two men can afford, and he can't. | The cross of his own hilt into the bridge of the nose isn't meant to kill; it buys the half-second to put a foot behind the knee and finish it on the ground, once, with no second exchange. | Pitch",
@@ -6811,7 +7061,7 @@
     "pack_number": 4,
     "section": "Still Open",
     "title": "All four packs remain paste-in diffs, unfolded",
-    "status": "pending",
+    "status": "superseded",
     "kind": "definition",
     "summary": "Step seven of the run order is not complete until Packs One through Four are folded into the base guides.",
     "verbatim": "All four packs remain paste-in diffs. Step seven of the run order is not complete until they are folded.",
@@ -6828,7 +7078,9 @@
       "lines": "226"
     },
     "notes": "An early instance of the same \"fold packs into base guides\" standing task later packs keep restating with a growing count (e.g. R19-9-STANDING_TASK).",
-    "superseded_by": []
+    "superseded_by": [
+      "R39-8-PACKS_FOLDED_INTO_EDITIONS"
+    ]
   },
   {
     "id": "R4-OP-PSYCHIC_DISTANCE_BANDS",

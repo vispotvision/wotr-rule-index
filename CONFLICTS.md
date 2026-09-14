@@ -306,7 +306,7 @@ carrying one; `verify_scene` cannot flag either way.
 are (a) the per-NPC standard applies to the POV character only once a
 narration distance is assigned, or (b) it applies to NPCs only in scenes
 whose POV character has the close distance. Isaac's call.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the distance rule wins; no NPC italic thought under a POV lock; the carve-out survives only for unlocked scenes (R39-7)
 
 ## C-009 — Dominion's mean: divided by eight, or by its seven counted entries
 
@@ -325,7 +325,7 @@ Bell: "**Dominion** 1,160 / mean 166 / C" (1,160/7 = 165.7; /8 = 145).
 **Consequence if unresolved:** the same Dominion total can read a Grade
 apart depending on the divisor; the re-cost verifier has to accept either.
 **Recommendation:** none stated. Found by the re-cost spec (2026-09-12).
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: divided by seven; Throne outside total and mean (R39-2)
 
 ## C-010 — is Stage I a Threshold worth 100 points
 
@@ -345,7 +345,7 @@ IV." Part Eight: "**I to II, Welling.**" … "**XIII to XIV, Zenith.**"
 **Recommendation:** the re-cost spec follows Part Three's own arithmetic
 (Stage I = 100) because Part Three is the page being re-costed to; that is
 the spec's working assumption, not a ruling.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: Stage I counts, 100 points; Part Three's totals stand (R39-3)
 
 ## C-011 — a Stage's "Max Grade" disagrees with the Grade value table
 
@@ -364,7 +364,7 @@ has always meant: a threshold on that Sub-Stat's own number". Part Six
 and over the Stage's Max Grade at once; the cards already print S.
 **Recommendation:** the re-cost spec re-derives every letter from the value
 table and leaves the Stage line's "Max Grade" wording alone. Not a ruling.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the Max Grade letter binds; the band up to the ceiling is the instability zone (R39-4)
 
 ## C-012 — Persistence's Fate gate: Stage V or Stage VII
 
@@ -380,7 +380,7 @@ Stage VIII to exceed SS against Oblivion-class pressure."
 **Consequence if unresolved:** a Stage V–VI Fate practitioner is either
 cleared past S in Persistence or not, depending on the page read.
 **Recommendation:** none stated.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: Stage VII; Part Seven corrected (R39-5)
 
 ## C-013 — which Sub-Stats need Dissonance to reach their true ceiling
 
@@ -397,7 +397,7 @@ other way.**" — agrees with Part Eight after the merge.
 gated depends on the page.
 **Recommendation:** none stated; two of three pages agree once retired
 names are read as their merged entries.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: Overflow, Overchannel, Persistence; Part Sixteen corrected (R39-6)
 
 ## C-014 — the character cards' stat accounting is not the canon's
 
@@ -429,4 +429,4 @@ scale every listed number by POOL_current / Pool_stated, apply the Stage
 ceiling and the strict Path caps, re-derive Grade letters from the value
 table, keep the card's own two-layer identity for verification. Isaac's
 call before anything runs.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the canon model; the 125 sheets are re-costed to it (R39-1)

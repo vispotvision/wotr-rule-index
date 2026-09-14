@@ -534,7 +534,7 @@ rules:
     pack_number: 2
     section: "Still Open"
     title: Packs remain paste-in diffs, deliberately, but unfolded
-    status: pending
+    status: superseded   # was pending; superseded by R39-8-PACKS_FOLDED_INTO_EDITIONS (Isaac, 2026-09-13)
     kind: definition
     summary: >-
       Both packs are paste-in diffs rather than rewritten guides, a

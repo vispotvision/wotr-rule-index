@@ -995,7 +995,7 @@ rules:
     pack_number: 4
     section: "Still Open"
     title: Wren Greymane's combat assignment, drafted 2026-09-12
-    status: proposed
+    status: live   # was proposed; ratified by Isaac, 2026-09-13 (RULINGS.md; R39 file header)
     kind: definition
     summary: >-
       Blade grammar; patient under load, gives ground on the shield rather
@@ -1036,7 +1036,7 @@ rules:
     pack_number: 4
     section: "Still Open"
     title: Edward Lambert's combat assignment, drafted 2026-09-12
-    status: proposed
+    status: live   # was proposed; ratified by Isaac, 2026-09-13 (RULINGS.md; R39 file header)
     kind: definition
     summary: >-
       Blade grammar; half-swording (Halbschwert — gripping partway up his
@@ -1143,7 +1143,7 @@ rules:
     pack_number: 4
     section: "Still Open"
     title: All four packs remain paste-in diffs, unfolded
-    status: pending
+    status: superseded   # was pending; superseded by R39-8-PACKS_FOLDED_INTO_EDITIONS (Isaac, 2026-09-13)
     kind: definition
     summary: >-
       Step seven of the run order is not complete until Packs One through

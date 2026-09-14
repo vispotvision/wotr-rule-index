@@ -33,13 +33,13 @@ _Run 2026-09-14_
 - 15_darius_kill_me_first.md: none  **← under the minimum**
 - 17_darius_ignis.md: none  **← under the minimum**
 - 21_darius_the_fist_of_god.md: none  **← under the minimum**
+- THE_KINGDOM_OF_KHARVEN_corrected.md: the woodpile / how's your stack, the Thin Weeks
+- The_Path_of_Sorrow.md: none  **← under the minimum**
 - renard_the_left_of_the_door.md: the night-stone, wet wood, the Thin Weeks
 - sodoku_gate_reunion_lambert.md: wet wood  **← under the minimum**
 - sodoku_the_count_supply_report.md: the night-stone, the Thin Weeks, the death-house / the Waiting
 - sodoku_true_religion_alabaster.md: the night-stone  **← under the minimum**
 - temur_true_religion_alabaster.md: the night-stone  **← under the minimum**
-- THE_KINGDOM_OF_KHARVEN_corrected.md: the woodpile / how's your stack, the Thin Weeks
-- The_Path_of_Sorrow.md: none  **← under the minimum**
 - verinus_weight_of_an_infant.md: none  **← under the minimum**
 - verinus_what_a_thing_weighs.md: none  **← under the minimum**
 - wotr_the_warrior_nurse.md: none  **← under the minimum**

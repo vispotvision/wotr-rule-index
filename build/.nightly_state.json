@@ -1,5 +1,5 @@
 {
-"run": "2026-09-14T00:16:32",
+"run": "2026-09-14T03:30:01",
 "findings": {
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
@@ -911,20 +911,6 @@
 "key": "94ae7fa033e0",
 "first_seen": "2026-09-13"
 },
-"98d18d22082e": {
-"file": "kaalabad_the_petition.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "98d18d22082e",
-"first_seen": "2026-09-13"
-},
-"90a67bb752c1": {
-"file": "kaalabad_the_petition.md",
-"check": "prose",
-"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
-"key": "90a67bb752c1",
-"first_seen": "2026-09-13"
-},
 "40193ffe2e24": {
 "file": "Niran_Awakening_Haruki_Reunion.md",
 "check": "prose",
@@ -965,6 +951,20 @@
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "9e1bf0ff78ca",
+"first_seen": "2026-09-13"
+},
+"98d18d22082e": {
+"file": "kaalabad_the_petition.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "98d18d22082e",
+"first_seen": "2026-09-13"
+},
+"90a67bb752c1": {
+"file": "kaalabad_the_petition.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "90a67bb752c1",
 "first_seen": "2026-09-13"
 },
 "c33cb6608edf": {
@@ -1058,13 +1058,6 @@
 "key": "bc1063319ddb",
 "first_seen": "2026-09-13"
 },
-"4271a9e58819": {
-"file": "aurelian_word_under_the_hammer.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "4271a9e58819",
-"first_seen": "2026-09-13"
-},
 "a4ea543cbd14": {
 "file": "Cozbi_Construct_Combat_Scene.md",
 "check": "prose",
@@ -1098,6 +1091,13 @@
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "846b7cbb31fc",
+"first_seen": "2026-09-13"
+},
+"4271a9e58819": {
+"file": "aurelian_word_under_the_hammer.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4271a9e58819",
 "first_seen": "2026-09-13"
 },
 "48895335c738": {
@@ -1142,13 +1142,6 @@
 "key": "db924d23c25c",
 "first_seen": "2026-09-13"
 },
-"77e4fce38e13": {
-"file": "balance_lesson.md",
-"check": "prose",
-"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
-"key": "77e4fce38e13",
-"first_seen": "2026-09-13"
-},
 "072abc094f3a": {
 "file": "Cozbi_Antithesis_Split_Fight.md",
 "check": "prose",
@@ -1175,6 +1168,13 @@
 "check": "prose",
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "9fdb8c3a77be",
+"first_seen": "2026-09-13"
+},
+"77e4fce38e13": {
+"file": "balance_lesson.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "77e4fce38e13",
 "first_seen": "2026-09-13"
 },
 "e570c26446c3": {

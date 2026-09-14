@@ -52,10 +52,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_Dragon_Binding_and_Ashuras_Call.md | 2 | 1 |
 | Cozbi_Root_Severance_and_Rashani_Threshold.md | 2 | 1 |
 | Dhaerin_Magnum_Opus_Recursive_Array.md | 2 | 1 |
-| kaalabad_the_petition.md | 2 | 1 |
 | Niran_Awakening_Haruki_Reunion.md | 2 | 1 |
 | Niran_Mira_Awakening.md | 2 | 1 |
 | Nisuke_Titan_Dominion_Strike.md | 2 | 1 |
+| kaalabad_the_petition.md | 2 | 1 |
 | renard_the_left_of_the_door.md | 2 | 1 |
 | 06_aurelian_what_the_lamberts_are_for.md | 2 | 0 |
 | 09_sodoku_the_true_nature.md | 2 | 0 |
@@ -65,32 +65,32 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 04_verinus_the_hand_and_the_print.md | 1 | 2 |
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 2 |
-| aurelian_word_under_the_hammer.md | 1 | 1 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 1 |
 | Cozbi_Merged_Form_Rescind_Explanation.md | 1 | 1 |
 | Cozbi_Rengai_Dhaerin_Confrontation.md | 1 | 1 |
 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1 | 1 |
 | Rengai_Farewell_and_Dhaerin.md | 1 | 1 |
+| aurelian_word_under_the_hammer.md | 1 | 1 |
 | seven_labors.md | 1 | 1 |
 | sodoku_fourteenth_bow_table.md | 1 | 1 |
 | sodoku_true_religion_alabaster.md | 1 | 1 |
 | temur_true_religion_alabaster.md | 1 | 1 |
 | wotr_the_warrior_nurse.md | 1 | 1 |
 | 07_sodoku_the_howling_hawk.md | 1 | 0 |
-| balance_lesson.md | 1 | 0 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 0 |
 | Cozbi_Pneuma_Unravel_Strike.md | 1 | 0 |
 | Cozbi_vs_Rengai_Dhaerin_Combat.md | 1 | 0 |
 | Shichi_Karasu_Mission_Awakening.md | 1 | 0 |
+| balance_lesson.md | 1 | 0 |
 | sodoku_gate_reunion_lambert.md | 1 | 0 |
 | Cozbi_Defensive_Response_to_Dova.md | 0 | 3 |
 | Rui_Trap_Deaths_Ray.md | 0 | 2 |
 | verinus_sword_and_scale.md | 0 | 2 |
 | 02_verinus_testament_of_the_sixty_fifth.md | 0 | 1 |
 | 06_sodoku_the_shallow_seen_unburied.md | 0 | 1 |
-| kaalabad_star_crusher.md | 0 | 1 |
 | Niran_Reply_to_Haruki.md | 0 | 1 |
 | Six_Crows_Dragon_Fight_Extended.md | 0 | 1 |
+| kaalabad_star_crusher.md | 0 | 1 |
 | Rengai_Confrontation_and_Nirans_Dream.md | 0 | 0 |
 
 ## The_Path_of_Sorrow.md
@@ -430,11 +430,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 
-## kaalabad_the_petition.md
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
-
 ## Niran_Awakening_Haruki_Reunion.md
 - FAIL antithesis 'not X but Y': "not so much bend as" (banned; AI-tells §1)
 - FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
@@ -448,6 +443,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## Nisuke_Titan_Dominion_Strike.md
 - FAIL antithesis 'not X but Y': "not so much shake as" (banned; AI-tells §1)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
+## kaalabad_the_petition.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
 ## renard_the_left_of_the_door.md
@@ -496,10 +496,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN sentences under 8 words: 15%, floor is 18% (R4-14-HARD_CEILINGS)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
-## aurelian_word_under_the_hammer.md
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
-
 ## Cozbi_Construct_Combat_Scene.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
@@ -517,6 +513,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## Rengai_Farewell_and_Dhaerin.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
+## aurelian_word_under_the_hammer.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
@@ -543,9 +543,6 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## 07_sodoku_the_howling_hawk.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 
-## balance_lesson.md
-- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-
 ## Cozbi_Antithesis_Split_Fight.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 
@@ -556,6 +553,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 
 ## Shichi_Karasu_Mission_Awakening.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+
+## balance_lesson.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 
 ## sodoku_gate_reunion_lambert.md
@@ -580,12 +580,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## 06_sodoku_the_shallow_seen_unburied.md
 - WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
 
-## kaalabad_star_crusher.md
-- WARN competing similes in one paragraph (2): "Calling it a wall was wrong. He had broken walls and knew what a wall ..." (AI-tells §5: cut one)
-
 ## Niran_Reply_to_Haruki.md
 - WARN length 615 words, outside the standard band 700–1500 (Table Rule 2)
 
 ## Six_Crows_Dragon_Fight_Extended.md
 - WARN length 1783 words, outside the standard band 700–1500 (Table Rule 2)
+
+## kaalabad_star_crusher.md
+- WARN competing similes in one paragraph (2): "Calling it a wall was wrong. He had broken walls and knew what a wall ..." (AI-tells §5: cut one)
 

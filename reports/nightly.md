@@ -1,8 +1,16 @@
-# Nightly — 2026-09-14 00:16
+# Nightly — 2026-09-14 03:30
 
 ## Overnight
 
-_(Claude's note goes here; build/nightly.ps1 writes it after these numbers. If this line is still here, the Claude step was off or failed — the numbers below stand on their own.)_
+First night on Linux. The digest ran on time at 03:30 and the index is exactly where the 00:16 run left it: validate passes, docket clear, one conflict open, the same 193 findings, none new, none cleared. No scene was archived since the last run, so there was nothing to verify.
+
+The Notion sync has not pushed since 01:01, the last run on Windows. Three hourly runs here aborted with no NOTION_TOKEN, and the one that found a token (03:16) got 401 "API token is invalid" back from Notion. Until a working secret is in ~/.config/wotr/env, wiki edits do not reach the repo. What I'd do this morning: regenerate the secret at notion.so/my-integrations, paste it in as NOTION_TOKEN, check the wiki database is still shared to that integration, then `systemctl --user start wotr-sync` and look for a push in build/sync.log.
+
+The backup wrote ~/wotr-backups/wotr-2026-09-14.zip (23.7 MB) on this disk only. Nothing carries it to Drive yet, so the newest copy off this machine is still yesterday's wotr-2026-09-13.zip on Google Drive. rclone is the missing piece; it is a sudo step, so it is yours.
+
+Also waiting on you, unchanged since last night: the 43 Judger proposals for 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year at its gate — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
+
+Nothing cleared.
 
 ## Numbers
 
@@ -32,6 +40,6 @@ _(Claude's note goes here; build/nightly.ps1 writes it after these numbers. If t
 
 ## The sync and the backup (last 26 h)
 
-- sync: 1 push(es), 0 quiet run(s), 2 failure line(s):  pull --rebase failed (exit 128); committing on the local branch anyway
-- backup:  wrote G:\My Drive\War of the Realms — Backups\wotr-2026-09-13.zip (23.6 MB, 1023 files)
-- last run of this digest: 2026-09-14T00:07:32
+- sync: 0 push(es), 0 quiet run(s), 1 failure line(s):  export failed (exit 1)
+- backup:  wrote /home/oridon/wotr-backups/wotr-2026-09-14.zip (23.7 MB, 1021 files)
+- last run of this digest: 2026-09-14T00:16:32

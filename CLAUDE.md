@@ -35,3 +35,8 @@ because it seems easy.
 `python build/validate.py` must exit 0 before you claim a pack is done. If a
 check fails, fix the data, not the checker. If you believe the checker is wrong,
 say so and stop.
+
+## The map
+`AGENTS.md` is the working map of the repo (layout, commands, the Linux setup,
+the MCP, the prose protocol) for every coding agent, this one included. Read it
+after this file; it explains, it does not loosen anything above.

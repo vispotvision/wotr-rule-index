@@ -32,7 +32,7 @@ def main() -> int:
     if hasattr(sys.stdout, "reconfigure"):
         sys.stdout.reconfigure(encoding="utf-8")
     ap = argparse.ArgumentParser()
-    ap.add_argument("tool")
+    ap.add_argument("tool", nargs="?")   # none, "help" or "list": print the tool list above
     ap.add_argument("args", nargs="*")
     ap.add_argument("--brief", action="store_true")
     ap.add_argument("--thread", default="")
@@ -43,6 +43,9 @@ def main() -> int:
     ap.add_argument("--combat", action="store_true")
     a = ap.parse_args()
     t, x = a.tool, a.args
+    if t in (None, "help", "list"):
+        print(__doc__.strip())
+        return 0
     if t == "session_start":
         print(M.session_start(x[0], x[1] if len(x) > 1 else "standard", x[2] if len(x) > 2 else "Kharven"))
     elif t == "load_rules":

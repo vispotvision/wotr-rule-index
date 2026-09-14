@@ -114,8 +114,18 @@ def _select(tags: list[str], status: list[str]) -> tuple[list[dict], list[str]]:
     rules = [r for r in load_rules() if r.get("status") in set(status)]
     if want:
         rules = [r for r in rules if want & set(r.get("applies_to") or [])]
-    rules.sort(key=lambda r: (-(r.get("pack_number") or 0), r.get("id", "")))
+    rules.sort(key=lambda r: (-_pack_rank(r), r.get("id", "")))
     return rules, bad
+
+
+def _pack_rank(r: dict) -> int:
+    """Newest first: the pack number, or for a standing ruling (pack_number null) the
+    number in its own id — R27-1-... ranks as 27, after Pack Twenty, as it should."""
+    n = r.get("pack_number")
+    if n is None:
+        m = re.match(r"R(\d+)", r.get("id") or "")
+        n = int(m.group(1)) if m else 0
+    return int(n)
 
 
 def _slug(title: str) -> str:

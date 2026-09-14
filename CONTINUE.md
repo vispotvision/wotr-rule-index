@@ -6,6 +6,37 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-14 (later that morning)
+
+**Done since the port block below.** Isaac joined the docker group; n8n is up
+from `n8n/docker-compose.yml` (container `n8n`, host networking — proven from
+inside it: `wget http://127.0.0.1:8799/health` answers), and `WOTR nightly` is
+imported (the CLI import needs an `id` field added to the JSON; the UI import
+does not). The journal was purged, so the stray token line is gone everywhere.
+The sync ran clean end to end with the new Notion secret at 06:24 (its one
+standing note: `scenes/YOKO_MISHIRO.md` cannot be published until its Notion
+parent is shared with the `oridon` integration). Headless Claude was proven
+from a unit (`systemd-run --user`, 1.6 s, no MCP servers loaded — the
+`--strict-mcp-config` flags do their job). The DNS wedge after `tailscale up`
+(every lookup hung) was `systemd-resolved`; `sudo systemctl restart
+systemd-resolved` cleared it.
+
+**AGENTS.md.** New at the root: the working map for every coding agent (Codex,
+OpenCode, Cursor, Copilot, Gemini, Claude Code) — layout, the Linux setup, the
+commands, the prose protocol with the table's Docket in it, what the robots
+commit, what never leaves the machine. `CLAUDE.md` points at it and is
+otherwise unchanged. `build/book_tools.py` run bare now prints its tool list.
+Checked by three agents (facts vs the tree, consistency vs the instruction
+files, a fresh agent trying four tasks) and rewritten once on their findings.
+
+**Still Isaac's, in n8n's UI** (`localhost:5678`): the owner account, the
+`WOTR jobs` Header Auth credential (value: `build/.jobs_token`) on the three
+HTTP nodes, the Discord webhook in "Send it to Isaac"; if the workflow is
+activated, `systemctl --user disable --now wotr-nightly.timer`. Still owed
+from the list below: Tailscale's `ultron` rename + operator flag (then the
+public URL), Claude Desktop's `install_mcp.sh` with the app closed, Ollama,
+rclone, the render/video groups.
+
 ## State on 2026-09-14 (the Linux port)
 
 **The machine.** Windows was wiped overnight for Omarchy (Arch Linux, Hyprland,

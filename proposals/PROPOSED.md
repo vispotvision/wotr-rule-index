@@ -112,7 +112,7 @@ Isaac ruled the island takes a Japonic-register name in place of Vāimoana / Vā
 
 ## 2026-09-13 — A Moto element inventory for the Japonic stratum
 
-**Status:** proposed
+**Status:** ratified 2026-09-13, Isaac: as written, flags kept → R40-1 (rules/doc-naming-banks-2026-09-13.yaml); published under The Tongues of the Realms as "Moto Element Inventory — Japonic Stratum" (Notion 3db58200-eb22-819b-9173-d6f8397ae38b)
 **applies_to:** naming
 **Full draft:** proposals/moto_element_inventory_draft.md
 
@@ -126,7 +126,7 @@ a Moto register.
 
 ## 2026-09-13 — The Celestial Host naming pass (R20-2)
 
-**Status:** proposed
+**Status:** ratified 2026-09-13, Isaac: as written, flags kept → R40-2 (rules/doc-naming-banks-2026-09-13.yaml; R20-2 superseded); published under The Tongues of the Realms as "The Celestial Host — Naming" (Notion 3db58200-eb22-8163-aece-ffa4a7d82ad0)
 **applies_to:** naming, register
 **Full draft:** proposals/celestial_naming_draft.md
 

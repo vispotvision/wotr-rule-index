@@ -325,7 +325,7 @@ rules:
     pack_number: null
     section: "Part Two"
     title: Celestial Host naming, pending a formal pass
-    status: pending
+    status: superseded   # was pending; superseded by R40-2-CELESTIAL_HOST_NAMING_PASS (Isaac, 2026-09-13)
     kind: definition
     summary: >-
       Proposed structure is a function-name plus a rank-suffix plus a

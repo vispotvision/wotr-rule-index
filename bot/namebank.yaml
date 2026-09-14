@@ -122,3 +122,31 @@ far_northern:
   codas: [q, k, t, s, n, m, r, l, kh, ""]
   suffixes: [-aq, -iq, -ut, -ung, -kha, -luk, -ni, -tuq, -ghi, -ra]
   roll_names: {bot_supplied: true, list: [Lamp, Fell, Cache, Ford, Seal, Stone, Smoke, Wharf, Fisher, Marsh, Drift, Kiln]}
+
+moto:
+  label: Moto (Japonic stratum)
+  rule: R40-1-MOTO_ELEMENT_INVENTORY
+  note: >-
+    Two-element given name (either order, two to four syllables, vowel-forward), then
+    the Line for the six landless Great Lines, then Moto. Kōkan, the line that holds the
+    seat, carries no Line name. Glosses marked coined are the draft's, ratified as flags.
+  lines: [Shirogane, Akagane, Kurenai, Byakuya, Tenrai, Amagiri]
+  elements:
+    crown & seat: {Kō: crown, Kan: the seat held, Za: the chair itself, Ōmi: the one who is looked at, Tsukasa: office, Ren: "the drilled, the tempered"}
+    metal & line: {Shiro: "silver, white", Aka: "copper, red", Kuro: black, Gane: worked metal, Byaku: white, Beni: the crimson kept hidden}
+    sky & weather: {Ten: heaven, Rai: thunder, Ama: "rain, heaven", Giri: "mist; the duty that binds", Fū: wind, Yuki: snow}
+    severance & exile: {Doku: "alone, the severed one", Setsu: the cut, Zuri: what is dragged behind, Muken: "the unseen, the withheld", Bara: "the root, the origin", Riku: the land left}
+    water & the Works: {Mizu: water, Ki: "the tree, what stands", Sou: "the pair, the double", Ma: the interval, Kai: "the sea, the open", Sai: the rite performed}
+
+celestial:
+  label: Celestial Host
+  rule: R40-2-CELESTIAL_HOST_NAMING_PASS
+  note: >-
+    Function-name (a function root + a measure root) · rank-suffix (changes with
+    promotion; its loss is a stripping) · Lawbell-name (the Archon served, carried bare;
+    its loss is the Severance). Measure, position and law — never light, fire or wings.
+  functions: {Ver: the verdict spoken, Tal: the tally kept, Oth: the oath witnessed, Dahl: the boundary walked, Sarn: the seal set, Ruth: the record entered, Kaeth: "the gavel, the strike", Daz: the exile escorted, Urs: the bell's own toll, Fai: "the kneeling, the servitude"}
+  measures: {an: the count, eth: the weight, ren: the distance, ia: the standing, sal: the position held, grim: the order of precedence, antha: the unbroken line of a ledger}
+  ranks: {ith: newly Sung, eth: a standing officer, vareth: a senior officer}
+  choirs: [Midreach (Oath-Keepers), Highspire (Verdict-Bearers), Lowmere (Sealkeepers), Bellwrought (Witness-Choir)]
+  archons: {Urion: Order, Uurgath: Chaos, Thalen: Form, Valen: Time, Maelor: Memory, Zhaeren: Horizon, Irath: Will, Veyra: Desire, Iesara: Insight, Kaetra: Dream, Wyther: Motion, Auren: Stillness, Selhar: Harmony, Elyndra: Renewal}

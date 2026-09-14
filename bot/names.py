@@ -20,17 +20,17 @@ CULTURES = {
     "elven": "Elven — pick a branch",
     "beastkin": "Beastkin — pick a lineage",
     "far_northern": "Far-Northern carried name",
+    "moto": "Moto (Japonic stratum)",
+    "celestial": "Celestial Host",
 }
 ELVEN_BRANCHES = list(BANK["elven"]["branches"])
 BEASTKIN_LINEAGES = [k for k in BANK["beastkin"]["expectation"] if k != "any"]
 
 NOT_OFFERED = {
-    "moto": "Moto names are Japonic-stratum (R23-2-JAPONIC_STRATUM) and the only Moto element bank on file is the Polynesian one, struck by R21-1 and R23-1. No ratified bank; nothing to draw from.",
     "zettari": "The Zettari register is Swahili/Bantu/Arabic in flavour (R32-1) with attested names but no element bank. Nothing to draw from.",
     "chinese": "The Chinese stratum has its six slots (R23-10-CHINESE_SLOTS) but no syllable bank. Nothing to draw from.",
     "goblinoid": "R20-1-GOBLINOID_ANCHOR names the pattern, not the elements. Nothing to draw from.",
     "undaar-keth": "R20-2-UNDAAR_KETH_NAMING refers to a hobgoblin element inventory that is not in the index. Nothing to draw from.",
-    "celestial": "Flagged in the amendment as pending a formal naming pass; the working names are placeholders.",
 }
 
 
@@ -196,7 +196,45 @@ def far_northern(rng: random.Random, **_) -> dict:
                   ("Unspoken", "while the person it belonged to lies in the death-house, through the Waiting")]}
 
 
-BUILDERS = {"mahuo": mahuo, "yukari": yukari, "dawi": dawi, "concord": concord, "holy_sea": holy_sea,
+def moto(rng: random.Random, **_) -> dict:
+    b = BANK["moto"]
+    for _ in range(30):  # two to four syllables (Naming Guide 5.1): re-pick while the compound runs long
+        x, y = _pick2(b["elements"], rng)
+        given = _join(x[0], y[0])
+        if len([c for c in given.lower() if c in "aeiouāīūēō"]) <= 4:
+            break
+    kokan = rng.random() < 0.3
+    line = None if kokan else rng.choice(b["lines"])
+    full = f"{given} Moto" if kokan else f"{given} {line} Moto"
+    return {"name": full, "rule": b["rule"], "note": b["note"], "flags": [
+        "Glosses on Doku, Muken, Bara and Zuri are coined and ratified as flags.",
+        "Whether Kokan is ever carried as a Line name is open; the bank omits it, as every attested Kokan name does."],
+        "lines": [("Given name", f"**{given}** — {x[0]} ({x[1]}, {x[2]}) + {y[0]} ({y[1]}, {y[2]})"),
+                  ("Line", f"**{line}**" if line else "**Kōkan** — the seat; no Line name is carried"),
+                  ("Reads as", f"“{x[1]}” + “{y[1]}”"),
+                  ("Renaming", "at promotion, vow or change of allegiance — a feature of this stratum")]}
+
+
+def celestial(rng: random.Random, **_) -> dict:
+    b = BANK["celestial"]
+    f = rng.choice(list(b["functions"].items()))
+    m = rng.choice(list(b["measures"].items()))
+    rank = rng.choice(list(b["ranks"].items()))
+    arch = rng.choice(list(b["archons"].items()))
+    choir = rng.choice(b["choirs"])
+    fn = f[0] + m[0]
+    full = f"{fn}-{rank[0]} {arch[0]}"
+    return {"name": fn, "rule": b["rule"], "note": b["note"], "flags": [
+        "Function and measure roots are coined on the Host's own vocabulary; the Archon names are attested.",
+        "The Lawbell-name is carried bare; a Parunic genitive form was left open."],
+        "lines": [("Function-name", f"**{fn}** — {f[0]} ({f[1]}) + -{m[0]} ({m[1]})"),
+                  ("Rank-suffix", f"**-{rank[0]}** — {rank[1]}"),
+                  ("Lawbell-name", f"**{arch[0]}** — the Archon of {arch[1]}; its loss is the Severance"),
+                  ("Choir", f"**{choir}**"),
+                  ("In the Host's register", f"**{full}** — “{fn}, {rank[1]}, of {arch[1]}”; mortals hear only **{fn}**")]}
+
+
+BUILDERS = {"mahuo": mahuo, "moto": moto, "celestial": celestial, "yukari": yukari, "dawi": dawi, "concord": concord, "holy_sea": holy_sea,
             "elven": elven, "beastkin": beastkin, "far_northern": far_northern}
 
 

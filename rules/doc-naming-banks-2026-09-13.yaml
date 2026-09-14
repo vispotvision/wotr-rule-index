@@ -1,0 +1,96 @@
+# Two naming banks, originated: no source document under sources/. Claude Code
+# drafted them on 2026-09-13 at Isaac's direction (proposals/
+# moto_element_inventory_draft.md, proposals/celestial_naming_draft.md, logged
+# in proposals/PROPOSED.md) and Isaac ratified both the same day AS WRITTEN,
+# flags kept: the drafts' inline open flags are part of what was ratified and
+# stay flags, not rulings. R40 is the next free id-numeral bucket. Uses the
+# R25/R37 "standalone doc, no pack number, empty source.file" pattern. Each
+# `verbatim` is a contiguous quote of the published wiki page (Notion children
+# of The Tongues of the Realms: "Moto Element Inventory — Japonic Stratum",
+# "The Celestial Host — Naming"), which the next sync mirrors into wiki/.
+pack: Naming Banks 2026-09-13
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-13, Claude Code: ratified as written, flags kept"
+rules:
+
+  - id: R40-1-MOTO_ELEMENT_INVENTORY
+    pack: Naming Banks 2026-09-13
+    pack_number: null
+    section: "Moto"
+    title: Moto element inventory, Japonic stratum, thirty elements and the Given + Line + Moto slot
+    status: live
+    kind: definition
+    summary: >-
+      The Moto get the element bank the Polynesian strike left them without:
+      thirty elements in five categories (crown & seat, metal & line, sky &
+      weather, severance & exile, water & the Works), two-element compounds of
+      two to four syllables, vowel-forward, no clusters. Twenty-six elements
+      are lifted from attested names and the seven Lines; the glosses and the
+      other four are coined. The slot is Given + Line + Moto, the Line named
+      for the six landless Great Lines and omitted for Kōkan. Four flags stay
+      open as ratified.
+    verbatim: >-
+      Given name + Line name + Moto. The surname is a fixed hereditary fact of
+      the bloodline; the Line sits between given name and surname for the six
+      landless Great Lines — Artemis Amagiri Moto, Souma Byakuya Moto — and is
+      omitted for Kōkan, the line that holds the seat. Two elements, either
+      order, joined plainly; a coda consonant is doubled or dropped by ear,
+      never clustered. The given name states what the line expects or what the
+      child was born into; the Line name says which metal they answer to; Moto
+      says whose they are.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "§5.1 Archaic Bloodlines — Moto; §12 Element Inventories"
+        operation: extends
+    supersedes: []
+    applies_to: [naming]
+    verification: []
+    ratified: "Isaac, 2026-09-13, Claude Code: as written, flags kept"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      The full thirty-element table is on the wiki page. Flags kept open: the
+      coined glosses on Doku, Muken, Bara and Zuri; Tenrai-marked names after
+      the massacre; Artemis and Emira as outliers; whether Kōkan is ever
+      carried as a Line name.
+
+  - id: R40-2-CELESTIAL_HOST_NAMING_PASS
+    pack: Naming Banks 2026-09-13
+    pack_number: null
+    section: "Celestial Host"
+    title: Celestial Host naming, function-name + rank-suffix + Lawbell-name
+    status: live
+    kind: definition
+    summary: >-
+      The formal pass R20-2 was waiting for. A Celestial's name has three
+      slots: a function-name (a function root and a measure root, coined on
+      the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally
+      and Toll), a rank-suffix that changes with promotion and whose loss is a
+      stripping, and a Lawbell-name that is the Archon's own name carried
+      bare, whose loss is the Severance. Obeys the Host's idiom rule. The five
+      working names are kept and read back through the system. Four flags stay
+      open as ratified, two of them canon acts for Isaac.
+    verbatim: >-
+      On the page: Function-name-Rank Lawbell — Verantha-eth Maelor,
+      "Verantha, senior, of Memory". Among mortals only the function-name is
+      heard; in the Host's own registers all three are written, and a register
+      entry with the third name struck is the document of a Severance.
+    amends:
+      - guide: "WOTR_Character_Naming_Guide.md"
+        locus: "§5 Per-Culture Naming Registers — the Celestial Host"
+        operation: extends
+    supersedes: [R20-2-CELESTIAL_HOST_NAMING]
+    applies_to: [naming, register]
+    verification: []
+    ratified: "Isaac, 2026-09-13, Claude Code: as written, flags kept"
+    source:
+      file: ""
+      lines: null
+    notes: >-
+      Closes R20-2-CELESTIAL_HOST_NAMING (the pass it asked for now exists).
+      Flags kept open: bare Archon name versus a Parunic genitive; the rank
+      ladder is the smallest that fits the attested names; Faisal's and
+      Verantha's Lawbell-names are unassigned; mortal by-names sit outside the
+      register on purpose (R24-3).

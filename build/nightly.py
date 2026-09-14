@@ -141,7 +141,20 @@ def main() -> int:
         except Exception:  # noqa: BLE001
             queue.append((q.stem, -1))
 
-    # 6. the sync and the backup
+    # 6. where the book stands (the dispatcher ran at 02:00)
+    books = []
+    for outline in sorted((ROOT / "book").glob("*/outline.json")):
+        slug = outline.parent.name
+        try:
+            import book_next as B
+            s = B.state(slug)
+            disp = outline.parent / "DISPATCH.md"
+            last = disp.read_text(encoding="utf-8").strip().splitlines()[:1] if disp.exists() else []
+            books.append((slug, s, last[0] if last else ""))
+        except Exception as e:  # noqa: BLE001
+            books.append((slug, None, f"book_next failed: {e}"))
+
+    # 7. the sync and the backup
     def tail_log(name: str, hours: int = 26) -> list[str]:
         p = ROOT / "build" / name
         if not p.exists():
@@ -161,7 +174,7 @@ def main() -> int:
     quiet = sum(1 for ln in sync if "no wiki changes" in ln)
     backup = tail_log("backup.log", hours=24 * 8)
 
-    # 7. the digest
+    # 8. the digest
     head = [f"# Nightly — {now:%Y-%m-%d %H:%M}", "",
             "## Overnight", "",
             "_(Claude's note goes here; build/nightly.ps1 writes it after these numbers. If this line is still here, the Claude step was off or failed — the numbers below stand on their own.)_", "",
@@ -171,6 +184,16 @@ def main() -> int:
         body += ["## Scenes archived since the last run", ""] + [f"- `{Path(p).stem}` — run `/judger {Path(p).stem}` for the close" for p in new_scenes] + [""]
     if queue:
         body += ["## Judger queue (proposals awaiting Isaac)", ""] + [f"- {s}: {n} waiting — `/judger apply {s} ...`" for s, n in queue] + [""]
+    if books:
+        body += ["## The book", ""]
+        for slug, s, note in books:
+            if s:
+                body.append(f"- **{slug}**: {s['written']}/{s['total']} chapters written. Next: {s['action']} — {s['why']}")
+                if s["action"] == "blocked":
+                    body.append(f"  - nothing more is written until you answer: `python build/book_next.py --approve {s['chapter']}` or `--reject {s['chapter']} --note \"...\"` (book/{slug}/ch{s['chapter']:02d}/GATE.md)")
+            else:
+                body.append(f"- **{slug}**: {note}")
+        body.append("")
     body += ["## New findings since last night", ""]
     body += [f"- [{f['check']}] {f['file']}: {f['text'][:200]}" for f in new[:60]] or ["- none"]
     if len(new) > 60:

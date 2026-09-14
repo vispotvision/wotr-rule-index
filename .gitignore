@@ -31,3 +31,4 @@ bot/.bot.log
 build/backup.log
 vault/
 build/nightly.log
+build/book_dispatch.log

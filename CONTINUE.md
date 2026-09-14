@@ -55,7 +55,20 @@ waits on `claude /login` (the CLI is not signed in; Isaac's hands).
 
 **The book.** `.claude/workflows/book-chapter.js` writes chapters in Claude
 Code; the design is `book/design/BOOK_PIPELINE.md` (moved from `n8n/`; its
-n8n transport needs an API key that does not exist — do not build toward it).
+n8n transport needs an API key that does not exist - do not build toward it).
+The dispatcher `WOTR book` (02:00, `build/book_dispatch.ps1`) writes one
+chapter a night unattended: `build/book_next.py` decides, headless Claude
+Code runs the workflow, the chapter lands under `book/` and is committed.
+Gates are chapters 1-3, then every fifth, and the last. **Chapter 1 is
+written and waiting: `python build/book_next.py --approve 1` or `--reject 1
+--note "..."` - until Isaac answers, the dispatcher writes nothing.**
+Two PowerShell traps learned here, and they bind any future script: a .ps1
+must be saved UTF-8 **with BOM** or PowerShell 5.1 reads an em dash's third
+byte as a smart quote and the file stops parsing; and a prompt must be piped
+to `claude -p` on **stdin**, never passed as an argument, or PowerShell
+strips its quotes. `Start-Job` also hung after its child exited - both
+scripts call `claude` directly and let the task's ExecutionTimeLimit be the
+timeout.
 
 **Ideas.** `reports/ideas_2026-09-13.md`: 102 ideas, 66 survived the
 skeptics, seven "Do next", the cut list. Done from it today: I03 (True Canon

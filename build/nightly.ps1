@@ -1,4 +1,4 @@
-# The nightly checks: build/nightly.py (validate, resolve, the audits, the Büri sweep,
+﻿# The nightly checks: build/nightly.py (validate, resolve, the audits, the Büri sweep,
 # the diff against last night -> reports/nightly.md), then Claude Code on the
 # subscription writes the "Overnight" note at the top (build/nightly_prompt.md; the
 # only file it may edit is reports/nightly.md), then the digest and the audit
@@ -24,7 +24,7 @@ $env:PYTHONIOENCODING = "utf-8"
 if (-not $env:NOTION_TOKEN) { $env:NOTION_TOKEN = [Environment]::GetEnvironmentVariable("NOTION_TOKEN", "User") }
 
 Log "nightly start"
-& git pull -q --rebase origin master 2>&1 | Out-Null
+& git pull -q --rebase --autostash origin master 2>&1 | Out-Null  # a tracked log churns; autostash keeps the rebase from refusing
 if ($LASTEXITCODE -ne 0) { Log "pull --rebase failed (exit $LASTEXITCODE); running on the local branch" }
 
 $out = & $python build\nightly.py 2>&1
@@ -39,20 +39,14 @@ $noClaude = $env:WOTR_NIGHTLY_NO_CLAUDE
 if (-not $noClaude) { $noClaude = [Environment]::GetEnvironmentVariable("WOTR_NIGHTLY_NO_CLAUDE", "User") }
 if ((Test-Path $claude) -and -not $noClaude) {
     Log "claude start"
-    $prompt = Get-Content -Raw -Encoding utf8 "build\nightly_prompt.md"
-    $job = Start-Job -ScriptBlock {
-        param($claude, $prompt, $repo)
-        Set-Location $repo
-        $env:PYTHONIOENCODING = "utf-8"
-        & $claude -p $prompt --max-turns 40 --allowedTools "Read" "Edit(reports/nightly.md)" "Bash(python build/book_tools.py:*)" 2>&1
-    } -ArgumentList $claude, $prompt, $repo
-    if (Wait-Job $job -Timeout 1500) {
-        $res = Receive-Job $job
-        Log ("  claude: " + (($res | Select-Object -Last 1) -join " ").Substring(0, [Math]::Min(160, (($res | Select-Object -Last 1) -join " ").Length)))
-    } else {
-        Stop-Job $job; Log "  claude: timed out after 25 min; the digest stands without the note"
-    }
-    Remove-Job $job -Force
+    # called directly, not through Start-Job: the job subsystem hung after the child had
+    # exited (2026-09-13: the task sat Running for 20 minutes with no child processes).
+    # The scheduled task's own ExecutionTimeLimit is the timeout now.
+    # stdin, not an argument: PowerShell strips quotes out of a native exe's arguments.
+    $res = Get-Content -Raw -Encoding utf8 "build\nightly_prompt.md" | & $claude -p --max-turns 40 `
+        --allowedTools "Read" "Edit(reports/nightly.md)" "Bash(python build/book_tools.py:*)" 2>&1
+    $tail = (($res | Select-Object -Last 1) -join " ")
+    Log ("  claude: " + $tail.Substring(0, [Math]::Min(160, $tail.Length)))
     if (Select-String -Path "reports\nightly.md" -Pattern "Claude's note goes here" -Quiet) { Log "  claude: note not written" } else { Log "  claude: note written" }
 } else { Log "claude step skipped" }
 

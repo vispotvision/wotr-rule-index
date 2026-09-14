@@ -212,7 +212,9 @@ CLI signed in once (`claude /login`, Isaac's hands); until then the numbers
 run alone, and `WOTR_NIGHTLY_NO_CLAUDE=1` turns the step off on purpose.
 
 - [x] `build/nightly.py`, `build/nightly.ps1`, the task, the OVERNIGHT block in `session_start`
-- [ ] the book dispatcher (ideas I29): the next chapter while Isaac sleeps, gated every fifth
+- [x] the book dispatcher (ideas I29): `WOTR book` (02:00) runs `build/book_dispatch.ps1` -> `build/book_next.py` says what the book needs -> Claude Code headless invokes the `book-chapter` workflow for one chapter -> the chapter is committed under `book/`. Gates: the first three chapters, then every fifth, and the last (`build/book_next.py --approve N` / `--reject N --note "..."`); a written, undecided gate chapter blocks the dispatcher, and nothing is archived until Isaac calls `archive_scene`. The 03:30 digest reports where the book stands.
+- [ ] the bot posts `bot/queue/*.judger.json` as approve cards in `#judger` (PLAN.md 9.3), and `/scene save` kicks off `/judger` in the background
+- [ ] a weekly drift report: what moved in the wiki and the archive this week, what contradicts, what is stale
 
 ## Phase F — the Discord bot
 

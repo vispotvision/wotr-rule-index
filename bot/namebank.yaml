@@ -1,0 +1,124 @@
+# Name-element banks for /name. Every list traces to a ratified rule (the `rule` field);
+# the Naming Guide (2026-09-12 edition) §12 and the amendment's Part Three are the text.
+# Lists marked `bot_supplied: true` are NOT canon: they are plain-register filler the
+# guide describes by example but never enumerates, and the embed says so.
+#
+# Not here, on purpose: the Satulagi/Moto Polynesian inventory (struck: R21-1, R23-1);
+# Moto, Zettari, Chinese-stratum, Goblinoid, Undaar-Keth and Celestial names (no ratified
+# element bank exists; the bot refuses rather than coins one).
+
+mahuo:
+  label: Mahuo (Korean stratum)
+  rule: R37-1-MAHUO_ELEMENT_INVENTORY
+  note: >-
+    Two-syllable given name: one generation-syllable shared by a cohort, one personal
+    syllable, in either order. Family name Mahuo (or the Kwon cadet branch) before or after
+    the given name — both are attested and the inventory does not pick.
+  families: [Mahuo, Kwon]
+  elements:
+    breath & soul: {Sum: breath, Hon: soul, Ryeo: echo of a soul, Yeong: spirit, Won: origin, Sae: "new, first breath"}
+    ledger & record: {Jang: chapter, Kye: "bond, a tallied account", Bo: safeguard, Ye: a recorded rite, Chae: debt, Rok: record}
+    house & clan-seat: {Gol: "hollow, valley", Ga: house, Ju: sovereign, Chang: prosperity, Dae: great, Ryeong: order}
+    precision & correction: {Jin: truth, Jeong: correct, Chak: exact, Ban: reflect, Kyeol: resolve, Seol: state plainly}
+    care & healing: {Eun: grace, Sun: goodness, Hwa: harmony, Yeon: "bond, compassion", Bit: light, Soo: "water, healing flow"}
+
+yukari:
+  label: Yukari (Japonic stratum)
+  rule: R37-2-YUKARI_ELEMENT_INVENTORY
+  note: >-
+    Two-element compounds. A full name carries up to five life-stage forms: childhood name,
+    adult name (taken at the Telling), calling-name, true name (taboo — family, Council, a
+    Proving, or before Senri's stone), posthumous name. Surname Yukari.
+  elements:
+    thread & fate: {Ketsu: thread-bound, En: bond, Sen: a drawn line, Un: fate, Kizu: the mark a pulled thread leaves, Toki: the moment a thread draws taut}
+    crow & silence: {Karasu: crow, Shizu: stillness, Yami: dark, Kage: shadow, Koe: a withheld voice, Aida: the interval between threads}
+    divine & dream: {Jin: divine, Mu: dream, Rei: spirit, Getsu: moon, Yoru: night, Asa: the hour before dawn}
+    water, stone & grief: {Sui: still water, Ishi: "stone, resolve", Namida: "tear, grief", Shizuku: the droplet before impact, Nagi: calm after grief, Fuchi: the deep pool grief settles into}
+    weight & office: {Kuro: "black, formal-office colour", Nushi: the one who holds a seat, Tsugu: the one who continues a line, Kari: a borrowed calling-name, Imi: "taboo, the withheld true name", Oku: "the deep name, spoken only at the Telling or at death"}
+
+dawi:
+  label: Dawi (Barrel Dwarves and kin)
+  rule: R20-3-DAWI_ELEMENTS
+  note: >-
+    Two-element compound given name (either order) + patronymic + an earned byname + an
+    oath-name when sworn. The rule says consonant gradation applies at the join but gives
+    no table, so the join is left plain — soften it by ear.
+  elements:
+    endurance: {Tor: endure, Kal: hold, Bor: bear/carry, Dur: last, Ven: stand, Pek: grip}
+    craft: {Grim: forge, Rin: cut, Stol: shape, Vak: hammer, Nal: bind, Keth: seal}
+    stone/metal: {Tharn: stone, Rul: iron, Ak: ore, Brek: vein/seam, Kohr: deep, Skarn: slag}
+    virtue: {Hal: "true", Vor: oath, Sen: wise, Drak: bold, Mund: guard, Frek: ready}
+    nature: {Ost: frost, Eld: fire, Valt: water, Holm: mountain, Sund: river, Grau: grey}
+
+concord:
+  label: Concord Human (Northern stratum)
+  rule: R20-3-CONCORD_GIVEN_NAMES
+  note: >-
+    A deliberately small given-name pool — three people in a village share one — so the
+    byname does the real work: patronymic (live and rural: -sohn; frozen and urban: the
+    bare name), occupational, locative, or descriptive.
+  male: [Aldric, Bram, Cael, Dunstan, Edric, Farren, Garret, Haldor, Ivor, Josse, Kael, Lorn, Marten, Niall, Osric, Penn, Ralf, Soren, Tomas, Wren]
+  female: [Ada, Brida, Calla, Dagna, Elspeth, Fern, Greta, Hild, Iona, Jessa, Keva, Lira, Maren, Nella, Orin, Pella, Rhea, Sira, Thea, Willa]
+  # The guide gives these by example only (the Smith, Forgeman, the Red, Longjaw, Quiet,
+  # of Greyshaft, Hillborn). The extra plain-register entries are bot-supplied filler.
+  occupational: {bot_supplied: true, list: [the Smith, Forgeman, the Cooper, the Fletcher, the Miller, the Tanner, the Carter, the Reeve, the Ostler, the Chandler, the Wright, the Mason, the Thatcher, the Fuller]}
+  descriptive: {bot_supplied: true, list: [the Red, Longjaw, Quiet, the Grey, the Tall, the Elder, the Young, Halfhand, the Lame, Broadback, the Loud, Blackbrow, the Fair, Onelock]}
+  locative: {bot_supplied: true, list: [of Greyshaft, Hillborn, of the Ford, Marshborn, of the Cross, Fellside, of the Mill, Northgate]}
+
+holy_sea:
+  label: Holy Sea of Alabaster (Latin ecclesiastical)
+  rule: R20-2-HOLY_SEA_NAMING
+  note: >-
+    Birth name in Concord Common (the Concord pool) + an ordination name in Latin, chosen
+    or assigned at vows, + the locative or title that carries rank. Attested: Aurelian
+    Prudentius Custos Clausorum; Verinus VII. The Latin pool below is bot-supplied filler
+    in that register, not canon.
+  ordination: {bot_supplied: true, list: [Prudentius, Constans, Clemens, Fidelis, Severus, Benedictus, Innocens, Pius, Vigilans, Tacitus, Honorius, Felix, Modestus, Firmus, Justus, Placidus, Sanctius, Verax]}
+  titles: {bot_supplied: true, list: [Custos, Lector, Cantor, Vicarius, Scriba, Ostiarius, Testis]}
+
+elven:
+  label: Elven (Vey-Elarin)
+  rule: R37-3-ELVEN_BRANCH_ELEMENT_INVENTORY
+  note: >-
+    One shared root and affix inventory; each branch bends the same root its own way.
+    Roots are disyllabic and open; codas only a vowel, l/r, m/n/ny, or th. The gloss of
+    `marin` is not on record and stays unglossed.
+  roots: {elar: note/name/person, vey: kin, thaer: "the kept thing, archive", sylva: growing ground, marin: "(unglossed)", seral: winter, lyth: silence, dhae: the dream, ven: seen, tor: told, ma: to hold, ur: to witness, ie: "the grant, the transfer"}
+  affixes: {-uren: validated, -ama: "contingent, unwitnessed", -ieur: "self-witnessed (Varrisak only)", -ith: a small name / by-name, -eth: an office or rite-role, -aer: "high, raised", -ak: "foreign, outside the form", -in: collective, -en: "genitive, of", -sae: "in-window, timely", -lo: "out-of-window, hasty", zo: "restatement clitic (Echo Elf)"}
+  branches:
+    Eressean: {root: kalen, gloss: the unvarying rite, suffix: -uren, form: "{name} — and the assembly stood for it"}
+    Varrisak: {root: sova, gloss: the vision sought alone, suffix: -ieur, form: "{name} — held, self-witnessed by the forest"}
+    Drow: {root: morel, gloss: the ledger of what is owed, suffix: -sae, alt_suffix: -lo, form: "{name} (in term) · {alt} (in default)"}
+    Eladrin: {root: faelo, gloss: the frost that holds rather than ends, suffix: "", form: "{name}, then a measured four-count silence — assent needs no suffix"}
+    Echo Elf: {root: verath, gloss: the term memorised exactly, suffix: "", form: "{name}. Zo {name}. — introduced, then ritually restated"}
+
+beastkin:
+  label: Beastkin soul-name
+  rule: R37-4-BEASTKIN_SOUL_NAME_INVENTORY
+  note: >-
+    Soul-name = circumstance of the birth + the attribute the child is charged to grow into,
+    spoken together; recorded but not used daily — an ordinary use-name serves in public.
+    The held-name is whatever survives when home, rank and kin are gone (Name-Keeping).
+  circumstance: {Vel: born into stillness, Rhaka: born during storm or violence, Tuen: born in flight or escape, Miro: born under threat, Oda: "born into plenty, safety", Kess: "born far from kin, alone"}
+  expectation:
+    Catkin: {Zhiv: quickness}
+    Lupine: {Kaal: the pack that holds}
+    Bearkin: {Dorn: the weight that stays}
+    Fox-Spirit: {Sana: kept by scent and memory}
+    Serpentkin: {Riss: "not forgotten, the coil that remembers"}
+    any: {Vantu: "raw courage, unbound to any lineage"}
+  keeping: {Ashe: I remain, Ndoto: "witness, the one who receives the name", Fen: "the last thing, what cannot be taken", Baru: spoken aloud, Tolo: "the return, a name given back to a survivor", Chike: "kept, held safe"}
+
+far_northern:
+  label: Far-Northern carried name
+  rule: R23-11-PHONOTACTICS
+  note: >-
+    A carried name is a dead person given on to a child, never inherited as a surname.
+    The rule gives phonotactics, not a morpheme list, so this is a sound-shape only —
+    meaning is yours to assign. The Accord files the person under a separate roll-name
+    taken off the nearest legible thing (R23-11-ROLL_NAMES_FROM_ACCORD).
+  vowels: [a, i, u, aa, ii, uu]
+  onsets: [q, k, t, s, n, m, r, l, kh, gh, y, w, h, ""]
+  codas: [q, k, t, s, n, m, r, l, kh, ""]
+  suffixes: [-aq, -iq, -ut, -ung, -kha, -luk, -ni, -tuq, -ghi, -ra]
+  roll_names: {bot_supplied: true, list: [Lamp, Fell, Cache, Ford, Seal, Stone, Smoke, Wharf, Fisher, Marsh, Drift, Kiln]}

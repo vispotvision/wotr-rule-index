@@ -1,0 +1,21 @@
+# WOTR Bot configuration. No secrets here: DISCORD_TOKEN is a user environment variable.
+
+guild_id: 1392715704347656222   # [ WOTR ] Chronicles of the Exiles; slash commands register here instantly
+
+# The plan's roles (bot/PLAN.md §3) mapped onto the server's existing roles.
+# A member with none of these is a Reader (lookups only).
+roles:
+  judger: [Archivist]
+  scribe: [Scribe, Lorekeeper]
+  player: [wotr noob, wotr soldier, wotr veteran]
+
+# Gateway intents. message_content is needed from F2 (reading in-character posts);
+# it must also be switched on under Bot > Privileged Gateway Intents in the portal.
+intents:
+  message_content: false
+
+# Longest embed page in characters (Discord caps a description at 4096).
+page_size: 3600
+
+# Out-of-character dice. Avrae already lives in #dice-tray, so this stays off.
+ooc_dice: false

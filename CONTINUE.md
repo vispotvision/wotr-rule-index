@@ -53,6 +53,16 @@ session (`build/cosy_worker.py`, uncommitted).
 `reports/nightly.md`, shown by `session_start` while fresh. Its Claude step
 waits on `claude /login` (the CLI is not signed in; Isaac's hands).
 
+**n8n.** Running in Docker (compose at `C:\Users\isaac\Documents\n8n`, port
+5678), with Ollama on the host at 11434 and the MCP's HTTP mode on 8765. It
+cannot call Claude (no key) and cannot run anything on this machine (Linux
+container, no repo mount), so the split is: n8n orchestrates,
+`build/jobs_server.py` (logon task `WOTR jobs`, 127.0.0.1:8799) executes
+named jobs, Claude Code thinks. `n8n/README.md` has the wiring;
+`n8n/WOTR_nightly.json` is the first workflow, ready to import. The shared
+secret is `build/.jobs_token` (gitignored, never in chat). **If a workflow is
+activated, disable the matching Windows task so nothing runs twice.**
+
 **The book.** `.claude/workflows/book-chapter.js` writes chapters in Claude
 Code; the design is `book/design/BOOK_PIPELINE.md` (moved from `n8n/`; its
 n8n transport needs an API key that does not exist - do not build toward it).

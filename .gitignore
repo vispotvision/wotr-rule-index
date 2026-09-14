@@ -35,3 +35,7 @@ build/book_dispatch.log
 build/.jobs_token
 build/.jobs/
 build/.jobs_server.log
+build/.cosy_worker.log
+build/.sync_manual.err
+build/.sync_manual.out
+bot/.bot.sync.err

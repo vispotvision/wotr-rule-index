@@ -1,0 +1,1193 @@
+# Pack Twenty — The Clearance. Source: sources/WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md,
+# the operative page Notion holds under "Information not on WIKI" (written 2026-09-12 04:33,
+# live on reading per Pack Eighteen's repeal of the ratification protocol; the fuller reasoning
+# is in a Pack Twenty document the repo does not have). Extracted 2026-09-13 after Isaac ruled
+# on its collisions (reports/pack_twenty_impact.md): where a row contradicts a ruling he made
+# later on 2026-09-12, the later ruling wins and the row is extracted as superseded on
+# arrival, quoted intact. R20C-41 to R20C-47 he confirmed as his Four Crafts rulings, which
+# closes R9-1-STILL_OPEN_ITEMS. The psychic-distance table collides with R35-2 (C-015, open).
+# Ids keep the pack's own R20C- codes to avoid the R20- naming-amendment series.
+pack: Pack Twenty
+pack_number: 20
+source_file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+ratified: "live on reading (Pack Eighteen's repeal); collisions ruled by Isaac, 2026-09-13"
+rules:
+
+  - id: R20C-CA-BAN_DEAD
+    pack: Pack Twenty
+    pack_number: 20
+    section: "The two conflicts"
+    title: "C-001, the proofed round"
+    status: superseded
+    kind: definition
+    summary: "C-001, the proofed round. Resolved: the ban is dead."
+    verbatim: "C-001, the proofed round. Resolved: the ban is dead. Pack Eleven §3's firearms clause cited Pack Seven as its whole authority; a rule does not survive the repeal of the thing it quotes. A Measurewright, proof-master or opponent in diagnostic voice may explain why a proofed round defeats proofed plate. The surviving constraint is R20C-26: the steel stops the shot, never the working. Explain metallurgy and terminal ballistics; never let the coupling be the thing that saved him."
+    amends: null
+    supersedes: []
+    applies_to: ["adjudication", "prose-law"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "14"
+    notes: "Superseded on arrival: Isaac closed C-001 later on 2026-09-12 — Eleven's ban stands (R11-3-FIREARM_PROSE_LAW live). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-CB-AVA_NAME_SURVIVES
+    pack: Pack Twenty
+    pack_number: 20
+    section: "The two conflicts"
+    title: "C-002, Filemu Agamalu's Ava-name"
+    status: superseded
+    kind: definition
+    summary: "C-002, Filemu Agamalu's Ava-name. Resolved: it survives."
+    verbatim: "C-002, Filemu Agamalu's Ava-name. Resolved: it survives. The strike killed Polynesian register as applied to Moto naming. Filemu is not Moto, and the Ava ceremony is her own house's conferring on her own house. Le Ie Tuuina Atu stands. What died is the addition, the claim that the Agamalu ceremony confers an Ava-name on Moto governance figures."
+    amends: null
+    supersedes: []
+    applies_to: ["naming"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "15"
+    notes: "Superseded on arrival: the Agamalu retcon was reversed later on 2026-09-12 (Ayame Yuno; the Ava-name rows superseded). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-1-BURI_DEAD_EVERYWHERE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-1"
+    title: "Büri is dead everywhere, without exception"
+    status: live
+    kind: definition
+    summary: "Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page."
+    verbatim: "Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page. The people are the Moto; the crown line is Kōkan. Chuluun Büri is Sonzai, surname dissolved, not translated."
+    amends: null
+    supersedes: []
+    applies_to: ["naming", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "19"
+    notes: "Confirms R22-1-HOUSE_STRUCK."
+
+  - id: R20C-2-SATULAGI_STAYS_DEAD
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-2"
+    title: "Sātūlagi stays dead"
+    status: live
+    kind: definition
+    summary: "Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place."
+    verbatim: "Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place. Confirms R21-4-BURI_LANDLESS_LINES live."
+    amends: null
+    supersedes: []
+    applies_to: ["naming", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "20"
+    notes: "Confirms R21-1-SATULAGI_STRUCK and R21-4-BURI_LANDLESS_LINES."
+
+  - id: R20C-3-SWEEP_TWO_TIERS
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-3"
+    title: "The sweep has two tiers"
+    status: live
+    kind: procedure
+    summary: "The sweep has two tiers. Canon pages get swept — body text, not just titles."
+    verbatim: "The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and \"Tengeriin\"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run."
+    amends: null
+    supersedes: []
+    applies_to: ["verification", "documents"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "21"
+    notes: null
+
+  - id: R20C-4-KHARVEN_STEPPE_ITEMS_RENAMED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-4"
+    title: "Kharven's Inventory loses its steppe items"
+    status: superseded
+    kind: definition
+    summary: "Kharven's Inventory loses its steppe items. Airag → the black draught (fermented seal milk cut with meltwater; refusing a cup off the household barrel is the insult — he would not drink off our barrel)."
+    verbatim: "Kharven's Inventory loses its steppe items. Airag → the black draught (fermented seal milk cut with meltwater; refusing a cup off the household barrel is the insult — he would not drink off our barrel). Borts → ribbon-meat (wind-cured above the smoke, two fingers wide). Aaruul → hardcurd (dried in cakes on the roof slates; three weeks' worth is insurance against the Thin Weeks). The deel → the double-coat (sealskin over felted wool, fastened at the left shoulder so the right arm is free; which shoulder tells you whether he expects to work or to fight). Tengri → the Open Cold (no god, never prayed to; what is above the roof and does not care — oaths are sworn under it, not to it)."
+    amends: null
+    supersedes: []
+    applies_to: ["standing-inventory"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "22"
+    notes: "Superseded on arrival: the Northern forms adopted later on 2026-09-12 (the skin, windmeat, stonecurd, the hide-coat, the Sky; proposals/PROPOSED.md, R23-8). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-5-BRIEF_BURI_SECTION_MUST_GO
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-5"
+    title: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster"
+    status: live
+    kind: procedure
+    summary: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here."
+    verbatim: "The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start."
+    amends: null
+    supersedes: []
+    applies_to: ["session-protocol", "documents"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "23"
+    notes: null
+
+  - id: R20C-6-LINES_FIVE_TO_SEVEN_FUNCTIONS
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-6"
+    title: "Lines Five to Seven get functions"
+    status: live
+    kind: definition
+    summary: "Lines Five to Seven get functions. Shirogane (silver): the mint and the assay — they set what a coin weighs and certify what a bar is."
+    verbatim: "Lines Five to Seven get functions. Shirogane (silver): the mint and the assay — they set what a coin weighs and certify what a bar is. Akagane (copper): the forge and the conduit-metal — they cast and seal the housings that carry the Draw, which puts a hand on the tap. Amagiri (rain, mist): the roads and the post — the passes, the way-houses, the runners."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "27"
+    notes: "Read beside R34-2-SEVEN_LINES_MATERIAL_VARIATIONS; no contradiction found at extraction."
+
+  - id: R20C-7-MUKEN_CHILDREN_STAY_CONTESTED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-7"
+    title: "Muken's children stay contested, and the contest is the canon"
+    status: superseded
+    kind: definition
+    summary: "Muken's children stay contested, and the contest is the canon. Two claimant lines, neither provable, the Accord recognising neither because the open question is profitable."
+    verbatim: "Muken's children stay contested, and the contest is the canon. Two claimant lines, neither provable, the Accord recognising neither because the open question is profitable. Never resolved in prose; anyone who states it as fact is stating a position."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "28"
+    notes: "Superseded on arrival: Muken's children were ruled later on 2026-09-12 (the wiki's Muken card stands; RULINGS.md). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-8-HATARAKI_NO_SHO_RECEIVED_NAME
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-8"
+    title: "Hataraki no Sho confirmed as the received name"
+    status: live
+    kind: definition
+    summary: "Hataraki no Sho confirmed as the received name."
+    verbatim: "Hataraki no Sho confirmed as the received name."
+    amends: null
+    supersedes: []
+    applies_to: ["naming"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "29"
+    notes: null
+
+  - id: R20C-9-ANCESTRAL_SEAT_WORKED_CORE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-9"
+    title: "What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it"
+    status: live
+    kind: definition
+    summary: "What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it. No battle, no plague, no enemy."
+    verbatim: "What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it. No battle, no plague, no enemy. They held the deepest draw anyone ever had, for generations, and the residual saturation Saruul reads there is the day the site gave out under a full household drawing at once. The Moto descend from whoever was standing furthest from the tap. What nobody knows: why that site and no other. Every survey since reads it as ordinary depleted ground. Largest call in the pack."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "30"
+    notes: null
+
+  - id: R20C-10-VAIMOANA_ISLAND_NAME
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-10"
+    title: "Vāimoana confirmed as the island name"
+    status: superseded
+    kind: definition
+    summary: "Vāimoana confirmed as the island name. Vāitele and Tuāoi dropped."
+    verbatim: "Vāimoana confirmed as the island name. Vāitele and Tuāoi dropped."
+    amends: null
+    supersedes: []
+    applies_to: ["naming", "worldbuilding"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "34"
+    notes: "Superseded on arrival: C-004 ruled later on 2026-09-12 — the island is Yasoshima, the Agamalu retcon reversed. Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-11-AIGA_CONFEDERATION
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-11"
+    title: "A confederation of aiga governed by fono"
+    status: superseded
+    kind: definition
+    summary: "A confederation of aiga governed by fono. No king, no standing army, no Accord charter."
+    verbatim: "A confederation of aiga governed by fono. No king, no standing army, no Accord charter. Live."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "35"
+    notes: "Superseded on arrival with the Agamalu/Vāimoana block (C-004, the retcon reversal). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-12-VAIMOANA_ESSENCE_STABILITY
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-12"
+    title: "The most stable Essence saturation recorded anywhere in the four quarters"
+    status: superseded
+    kind: definition
+    summary: "The most stable Essence saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana."
+    verbatim: "The most stable Essence saturation recorded anywhere in the four quarters. Nothing drifts at Vāimoana. Live."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding", "magic-mechanism"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "36"
+    notes: "Superseded on arrival with the Agamalu/Vāimoana block; the stability fact survives as Yasoshima's (R36-1). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-13-AGAMALU_UNDISCLOSED_READINGS
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-13"
+    title: "What the Agamalu declined to disclose four times: their own saturation readings"
+    status: superseded
+    kind: definition
+    summary: "What the Agamalu declined to disclose four times: their own saturation readings. The fono holds centuries of them."
+    verbatim: "What the Agamalu declined to disclose four times: their own saturation readings. The fono holds centuries of them. The reason is not secrecy. The readings show a stability nobody on the island can account for, an admission of ignorance invites a survey, and a survey invites a licence. The Division files it as obstruction because the alternative reading is worse."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "37"
+    notes: "Superseded on arrival: restated for House Yuno as R36-1-YASOSHIMA_SINK_YUNO_SECRET. Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-14-FILEMU_VOICE_LAUGA
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-14"
+    title: "Filemu's voice is lauga register"
+    status: superseded
+    kind: definition
+    summary: "Filemu's voice is lauga register. The sentence arrives carrying the weight of something already decided; the volume stays low and the cadence does the work."
+    verbatim: "Filemu's voice is lauga register. The sentence arrives carrying the weight of something already decided; the volume stays low and the cadence does the work. Under stress the cadence holds and the length drops. Lauga compresses."
+    amends: null
+    supersedes: []
+    applies_to: ["dialogue", "register"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "38"
+    notes: "Superseded on arrival: Filemu Agamalu is struck; Muken's queen is Ayame Yuno (RULINGS.md, 2026-09-12). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-15-TAULAGI_AFASOA_REANCHORED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-15"
+    title: "Taulagi and Afasoa are re-anchored, not renamed"
+    status: superseded
+    kind: definition
+    summary: "Taulagi and Afasoa are re-anchored, not renamed. The Agamalu register is alive and legitimate, so both read as Vāimoana-descended."
+    verbatim: "Taulagi and Afasoa are re-anchored, not renamed. The Agamalu register is alive and legitimate, so both read as Vāimoana-descended. Two people carrying the confederation's naming standing a long way from any fono is a thread, not a defect."
+    amends: null
+    supersedes: []
+    applies_to: ["naming"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "39"
+    notes: "Superseded on arrival by R23-7 (Taulagi and Afasoa as Yuno retainers with Japonic names). Isaac, 2026-09-13: the later ruling wins."
+
+  - id: R20C-16-SONZAI_RECORD_CARD
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-16"
+    title: "Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relatio"
+    status: live
+    kind: procedure
+    summary: "Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples."
+    verbatim: "Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples. Those are Isaac's."
+    amends: null
+    supersedes: []
+    applies_to: ["character-sheet"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "40"
+    notes: null
+
+  - id: R20C-17-SITES_RECHARGE_UNHELPFULLY
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-17"
+    title: "Sites recharge, and it does not help"
+    status: live
+    kind: definition
+    summary: "Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second."
+    verbatim: "Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second. Short-run: managed and corrupt, because the Guild sells renewal honestly. Long-run: predatory and doomed, because the curve bends one way. The Thin Weeks are this arriving early in the periphery."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding", "magic-mechanism"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "45"
+    notes: "Ratifies Pack Eleven's R11-A."
+
+  - id: R20C-18-COMMONER_DRAW_LEGAL_NOT_PRACTICAL
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-18"
+    title: "Commoners can buy draw legally and not practically"
+    status: live
+    kind: definition
+    summary: "Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay."
+    verbatim: "Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay. Lamps over the pool, none at the thin edge. The tariff is public and technically open to anyone."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "46"
+    notes: "Ratifies R11-B."
+
+  - id: R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-19"
+    title: "Tech ceiling"
+    status: live
+    kind: definition
+    summary: "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date."
+    verbatim: "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date. Telegraph: yes, as a Draw counterpart — Guild line, Guild price, information as licensed commodity. Rail: no — haulage stays animal and water, which keeps the passes and the Amagiri post load-bearing. Photography: no — the counterpart is the fixed-plate impression, slow and Guild-controlled, used for proofing and record. Nobody has a portrait of their mother."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "47"
+    notes: "Ratifies R11-C."
+
+  - id: R20C-20-WELLS_GENERATE_NO_ENTITIES
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-20"
+    title: "Wells generate no entities"
+    status: live
+    kind: definition
+    summary: "Wells generate no entities. The site is the entire threat."
+    verbatim: "Wells generate no entities. The site is the entire threat."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding", "magic-mechanism"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "48"
+    notes: "Ratifies R11-D."
+
+  - id: R20C-21-WELL_NAMES_CLASS_MARKED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-21"
+    title: "Both names, class-marked"
+    status: live
+    kind: definition
+    summary: "Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them."
+    verbatim: "Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them."
+    amends: null
+    supersedes: []
+    applies_to: ["naming", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "49"
+    notes: "Ratifies R11-E; read beside R11-4-WELL_NAMING."
+
+  - id: R20C-22-AMMUNITION_TIERS_RATIFIED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-22"
+    title: "The three ammunition tiers ratified, subject to R20C-26"
+    status: live
+    kind: definition
+    summary: "The three ammunition tiers ratified, subject to R20C-26."
+    verbatim: "The three ammunition tiers ratified, subject to R20C-26."
+    amends: null
+    supersedes: []
+    applies_to: ["items", "combat"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "50"
+    notes: "Subject to R20C-26."
+
+  - id: R20C-23-ORIGIN_STAYS_MYTHIC
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-23"
+    title: "Origin stays mythic"
+    status: live
+    kind: definition
+    summary: "Origin stays mythic. Mechanism is fully explicable; where it came from is not."
+    verbatim: "Origin stays mythic. Mechanism is fully explicable; where it came from is not. The last surviving soft zone."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-mechanism", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "54"
+    notes: "Ratifies R12-A."
+
+  - id: R20C-24-PHYSICAL_UNIT_CEILING
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-24"
+    title: "Physical-unit ceiling confirmed"
+    status: live
+    kind: mandate
+    summary: "Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else."
+    verbatim: "Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation."
+    amends: null
+    supersedes: []
+    applies_to: ["prose-law", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "55"
+    notes: "Ratifies R13-A."
+
+  - id: R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-25"
+    title: "The Percussion master-strike table is Dawi-authored in-world"
+    status: live
+    kind: definition
+    summary: "The Percussion master-strike table is Dawi-authored in-world."
+    verbatim: "The Percussion master-strike table is Dawi-authored in-world."
+    amends: null
+    supersedes: []
+    applies_to: ["combat", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "56"
+    notes: "Ratifies R13-B."
+
+  - id: R20C-26-STEEL_STOPS_THE_SHOT
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-26"
+    title: "The steel stops the shot, always"
+    status: live
+    kind: mandate
+    summary: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam."
+    verbatim: "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour."
+    amends: null
+    supersedes: []
+    applies_to: ["combat", "items", "adjudication"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "57"
+    notes: "Ratifies R13-C."
+
+  - id: R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-27"
+    title: "A gap-fill pass may not change an outcome Isaac wrote"
+    status: live
+    kind: ban
+    summary: "A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait."
+    verbatim: "A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait."
+    amends: null
+    supersedes: []
+    applies_to: ["verification", "session-protocol"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "58"
+    notes: "Ratifies R13-D."
+
+  - id: R20C-28-PHENOMENON_BANK_CANDIDATES
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-28"
+    title: "The Phenomenon Bank's eight seeds are ratified as candidates, not canon"
+    status: live
+    kind: definition
+    summary: "The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon."
+    verbatim: "The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-design"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "59"
+    notes: "Ratifies R13-E."
+
+  - id: R20C-29-CATEGORY_NAMING_DIAGNOSTIC
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-29"
+    title: "Category naming in diagnostic voice: allowed"
+    status: live
+    kind: definition
+    summary: "Category naming in diagnostic voice: allowed."
+    verbatim: "Category naming in diagnostic voice: allowed."
+    amends: null
+    supersedes: []
+    applies_to: ["prose-law", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "60"
+    notes: "Ratifies R13-F."
+
+  - id: R20C-30-STAGE_NAMES_FROM_FOW
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-30"
+    title: "Fracture of Worlds governs the Stage names"
+    status: live
+    kind: definition
+    summary: "Fracture of Worlds governs the Stage names. Verified against source."
+    verbatim: "Fracture of Worlds governs the Stage names. Verified against source. I Murmuring · II Welling · III Ascension · IV Flourishing · V Splintering · VI Glory · VII Refraction · VIII Transcendence · IX Invocation · X Realization · XI Dissonance · XII Emanation · XIII Principality · XIV Zenith · XV Revelation · XVI Apex. Ignition and Temper appear nowhere in FOW and are not Stage names. Every card carrying them is wrong."
+    amends: null
+    supersedes: []
+    applies_to: ["stats"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "61"
+    notes: "Ratifies R14-A; the Living System's own table."
+
+  - id: R20C-31-SUBSTAT_NAMES_FACULTY_ONLY
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-31"
+    title: "Sub-Stat names never appear outside a faculty reading"
+    status: live
+    kind: ban
+    summary: "Sub-Stat names never appear outside a faculty reading."
+    verbatim: "Sub-Stat names never appear outside a faculty reading."
+    amends: null
+    supersedes: []
+    applies_to: ["prose-law", "stats"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "62"
+    notes: "Ratifies R14-B."
+
+  - id: R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-32"
+    title: "Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card"
+    status: live
+    kind: definition
+    summary: "Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts."
+    verbatim: "Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts."
+    amends: null
+    supersedes: []
+    applies_to: ["stats", "character-sheet"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "63"
+    notes: "Ratifies R14-C; consistent with R39-1 (the canon stat model)."
+
+  - id: R20C-33-RESONANT_PAIRS_DIAGNOSTIC
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-33"
+    title: "Resonant Pair unlocks may be named in diagnostic voice"
+    status: live
+    kind: definition
+    summary: "Resonant Pair unlocks may be named in diagnostic voice."
+    verbatim: "Resonant Pair unlocks may be named in diagnostic voice."
+    amends: null
+    supersedes: []
+    applies_to: ["prose-law", "stats"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "64"
+    notes: "Ratifies R14-D."
+
+  - id: R20C-34-ESTIMATES_CANON_ON_USE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-34"
+    title: "Pack Fourteen's recommendation is overturned by Pack Eighteen"
+    status: live
+    kind: procedure
+    summary: "Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists."
+    verbatim: "Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists. An estimate is canon on use, carries a derived marker in the Ledger, and a source value beats it on contact, silently."
+    amends: null
+    supersedes: []
+    applies_to: ["stats", "session-protocol"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "65"
+    notes: "Overturns Pack Fourteen's recommendation (R14-E) by Pack Eighteen's repeal, in the pack's own words."
+
+  - id: R20C-35-CHANT_IN_OWN_LANGUAGE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-35"
+    title: "The Latin chant rule folds into the repeal"
+    status: live
+    kind: definition
+    summary: "The Latin chant rule folds into the repeal. A practitioner chants in their own language."
+    verbatim: "The Latin chant rule folds into the repeal. A practitioner chants in their own language. What survives is the canon fact that Accord Latin's invocation register has no first person, which makes a spoken Accord working authorless. Chant-based techniques unblocked."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-mechanism", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "66"
+    notes: "Ratifies R15-A."
+
+  - id: R20C-36-CLEARLY_WINS
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-36"
+    title: "Clearly wins"
+    status: live
+    kind: definition
+    summary: "Clearly wins. Character shows in what a person chooses to explain and what they leave out."
+    verbatim: "Clearly wins. Character shows in what a person chooses to explain and what they leave out."
+    amends: null
+    supersedes: []
+    applies_to: ["dialogue", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "67"
+    notes: "Ratifies R15-B."
+
+  - id: R20C-37-DOCUMENTS_OWE_NOTHING
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-37"
+    title: "In-world documents owe nothing to sounding in-world"
+    status: live
+    kind: definition
+    summary: "In-world documents owe nothing to sounding in-world."
+    verbatim: "In-world documents owe nothing to sounding in-world."
+    amends: null
+    supersedes: []
+    applies_to: ["documents"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "68"
+    notes: "Ratifies R15-C."
+
+  - id: R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-38"
+    title: "Section Two ratified entire"
+    status: live
+    kind: definition
+    summary: "Section Two ratified entire. True name in the practitioner's own language."
+    verbatim: "Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene."
+    amends: null
+    supersedes: []
+    applies_to: ["naming", "magic-design"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "72"
+    notes: "The R8-2x rows are already live to this effect."
+
+  - id: R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-39"
+    title: "Section One superseded"
+    status: live
+    kind: repeal
+    summary: "Section One superseded. Its sheet-versus-page split was written under Pack Seven."
+    verbatim: "Section One superseded. Its sheet-versus-page split was written under Pack Seven. Pack Seventeen's six-line card governs, mechanism first. Surviving: \"overuse strains him\" always fails, and drawback numbers are physical, never metaphysical."
+    amends: null
+    supersedes: []
+    applies_to: ["character-sheet", "magic-design"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "73"
+    notes: "Pack Seventeen's six-line card governs."
+
+  - id: R20C-40-NAMING_PASS_SCHEDULED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-40"
+    title: "The naming pass per culture is scheduled work"
+    status: live
+    kind: procedure
+    summary: "The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed."
+    verbatim: "The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed. Runs with Ability Guide 6e."
+    amends: null
+    supersedes: []
+    applies_to: ["naming"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "74"
+    notes: null
+
+  - id: R20C-41-CHANTCRAFT_FIFTH_CRAFT
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-41"
+    title: "Chantcraft is the fifth craft, Ars Cantus its medium-home"
+    status: live
+    kind: definition
+    summary: "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded."
+    verbatim: "Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-design", "codex"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "78"
+    notes: "Closes R9-1's Chantcraft item; Isaac confirmed R20C-41 to R20C-47 as his rulings on 2026-09-13."
+
+  - id: R20C-42-LAW_V_STAGE_GATE_REFRACTION
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-42"
+    title: "Law V is a Stage gate at Refraction (VII)"
+    status: live
+    kind: definition
+    summary: "Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood."
+    verbatim: "Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood. The gate applies to the working, not the technique — a Stage V practitioner with an internalised technique still needs a medium."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-mechanism", "magic-design"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "79"
+    notes: "Closes R9-1's Law V item (Isaac, 2026-09-13)."
+
+  - id: R20C-43-LAW_III_DEAD_AND_REPLACED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-43"
+    title: "Law III is dead and replaced"
+    status: live
+    kind: repeal
+    summary: "Law III is dead and replaced. Progression follows the sixteen Temperance Stages."
+    verbatim: "Law III is dead and replaced. Progression follows the sixteen Temperance Stages. The sixty Wellsprings are what a practitioner draws from, not what they climb. The fourteen in the old text were Archons; someone conflated the lists."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-design", "stats"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "80"
+    notes: "Closes R9-1's Law III item (Isaac, 2026-09-13)."
+
+  - id: R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-44"
+    title: "Runecraft versus Spellcraft varies by culture"
+    status: live
+    kind: definition
+    summary: "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have."
+    verbatim: "Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard."
+    amends: null
+    supersedes: []
+    applies_to: ["magic-design", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "81"
+    notes: "Closes R9-1's precedence item (Isaac, 2026-09-13)."
+
+  - id: R20C-45-GOLDEN_AGE_ACCORD_MISTAKEN
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-45"
+    title: "The golden age: the Accord is mistaken, and lying about being mistaken"
+    status: live
+    kind: definition
+    summary: "The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed."
+    verbatim: "The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed."
+    amends: null
+    supersedes: []
+    applies_to: ["worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "82"
+    notes: "Closes R9-1's golden-age item (Isaac, 2026-09-13)."
+
+  - id: R20C-46-DOUBLET_WIDER_SCOPE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-46"
+    title: "The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR"
+    status: live
+    kind: definition
+    summary: "The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR."
+    verbatim: "The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR."
+    amends: null
+    supersedes: []
+    applies_to: ["register", "naming"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "83"
+    notes: "Closes R9-1's doublet item (Isaac, 2026-09-13)."
+
+  - id: R20C-47-CRAFTS_OWE_THE_INVENTORY
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-47"
+    title: "Each craft owes the Standing Inventory a household object, an oath and a proverb"
+    status: live
+    kind: mandate
+    summary: "Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene."
+    verbatim: "Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene."
+    amends: null
+    supersedes: []
+    applies_to: ["standing-inventory"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "84"
+    notes: "Isaac, 2026-09-13."
+
+  - id: R20C-48-ZETTARI_THIN_GROUND
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-48"
+    title: "The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well"
+    status: live
+    kind: definition
+    summary: "The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first."
+    verbatim: "The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first. They are the best smiths in the four quarters because they had to be, and insufferable about it because being best is the only thing that ever compensated them."
+    amends: null
+    supersedes: []
+    applies_to: ["standing-inventory", "worldbuilding"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "88"
+    notes: "Extends R33-1/R33-2 with the fuller inventory (food, greeting, oaths, time, the dead, the tally-stick, exchange, proverbs, the body)."
+
+  - id: R20C-49-GLOSS_RIGHTS_CARD_FIELD
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-49"
+    title: "Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira"
+    status: live
+    kind: definition
+    summary: "Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never."
+    verbatim: "Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never."
+    amends: null
+    supersedes: []
+    applies_to: ["pov", "character-sheet"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "118"
+    notes: null
+
+  - id: R20C-50-FLESHSHAPER_VOICE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-50"
+    title: "Fleshshaper Goblin"
+    status: live
+    kind: definition
+    summary: "Fleshshaper Goblin. Old Vaross substrate."
+    verbatim: "Fleshshaper Goblin. Old Vaross substrate. Verbs of making dominate the clause. A Fleshshaper does not say it broke, they say someone unmade it, and if nobody did then it was never whole. No passive voice at all. Possession marked on the body and not the object: knife-at-my-hand, never my knife. Counting by pairs and hands. Discourse marker: a confirming particle at clause-end, roughly yeh, dropped when the speaker stops caring whether you follow. Bodies discussed as material, their own included, which is the part that unsettles everyone else."
+    amends: null
+    supersedes: []
+    applies_to: ["dialogue", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "122"
+    notes: "Read beside R24-1; no contradiction found at extraction."
+
+  - id: R20C-51-WINTER_ELADRIN_VOICE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-51"
+    title: "Winter Eladrin"
+    status: live
+    kind: definition
+    summary: "Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary."
+    verbatim: "Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary. Craft rule: meaning arrives in a physical clause before the spoken one, and the spoken clause is shorter than the gesture that preceded it. They never repeat themselves — a repeated sentence accuses the listener of inattention. No greetings exist; arrival is announced by being seen, and a Winter Eladrin who says hello is being deliberately hostile."
+    amends: null
+    supersedes: []
+    applies_to: ["dialogue", "register"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "123"
+    notes: "Read beside R24-2; no contradiction found at extraction."
+
+  - id: R20C-52-HOST_NO_NATIVE_REGISTER
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-52"
+    title: "The Celestial Host (also closes R20-2)"
+    status: superseded
+    kind: definition
+    summary: "The Celestial Host (also closes R20-2). The Host has no native register, and that is the ruling."
+    verbatim: "The Celestial Host (also closes R20-2). The Host has no native register, and that is the ruling. It speaks in the language of whoever recorded it, which is why Verantha, Kaethren Vareth, Dazgrim and Urstia do not match and never will. Those four names are confirmed canon, not placeholders. What is consistent is grammar: the Host speaks entirely in the completed aspect. No future tense, no conditional, no question. A Host that wants something says it has happened."
+    amends: null
+    supersedes: []
+    applies_to: ["dialogue", "register", "naming"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "124"
+    notes: "Superseded on arrival: R24-3 (the Host's idiom is measure and law) and R40-2 (the naming pass, ratified 2026-09-13) both post-date this row and give the Host a register and a naming system. Recorded, not resolved by the extractor; Isaac's later ratifications govern."
+
+  - id: R20C-53-INVENTORIES_ON_FIRST_USE
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-53"
+    title: "Remaining element inventories (Mahuo, Yukari, the Elven branches, Beastkin soul-names) are built on first use "
+    status: superseded
+    kind: procedure
+    summary: "Remaining element inventories (Mahuo, Yukari, the Elven branches, Beastkin soul-names) are built on first use and entered the same session. Not a standalone build."
+    verbatim: "Remaining element inventories (Mahuo, Yukari, the Elven branches, Beastkin soul-names) are built on first use and entered the same session. Not a standalone build."
+    amends: null
+    supersedes: []
+    applies_to: ["naming"]
+    verification: []
+    ratified: "superseded on arrival, Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "125"
+    notes: "Superseded on arrival: the four inventories were built standalone and ratified as R37-1 to R37-4 (2026-09-12)."
+
+  - id: R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-54"
+    title: "The three pitched combat assignments confirmed"
+    status: live
+    kind: definition
+    summary: "The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate."
+    verbatim: "The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate. Rengai Zettai: Percussion, the Return, and the post-injury narrowing off the Cinder Lung material confirmed — his ceiling drops and the Return becomes his economy. Yoko Mishiro: Blade, works from the bind, her Indes faster than her sight allows, written as an unfair advantage she never comments on. Remaining assignments run with Combat Guide 3e."
+    amends: null
+    supersedes: []
+    applies_to: ["combat"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "129"
+    notes: "Confirms the R1-1 assignment rows ratified 2026-09-12."
+
+  - id: R20C-55-COST_AUDIT_ON_CONTACT
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-55"
+    title: "The cost audit runs on contact, not as a sweep"
+    status: live
+    kind: procedure
+    summary: "The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use."
+    verbatim: "The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use."
+    amends: null
+    supersedes: []
+    applies_to: ["verification"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "130"
+    notes: null
+
+  - id: R20C-56-RETROACTIVE_FORWARD_ONLY
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-56"
+    title: "Retroactive passes: forward-only, corrected on contact"
+    status: live
+    kind: procedure
+    summary: "Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene."
+    verbatim: "Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene. The archive is a record."
+    amends: null
+    supersedes: []
+    applies_to: ["verification", "session-protocol"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "131"
+    notes: null
+
+  - id: R20C-57-INVENTORY_PAGES_BUILD_ORDER
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-57"
+    title: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page"
+    status: live
+    kind: procedure
+    summary: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave."
+    verbatim: "The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave."
+    amends: null
+    supersedes: []
+    applies_to: ["standing-inventory"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "132"
+    notes: "The six inventories exist under desktop/inventories/ (2026-09-12)."
+
+  - id: R20C-58-REGISTERS_FLAVOUR_NOT_LAW
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-58"
+    title: "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands)"
+    status: live
+    kind: definition
+    summary: "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e."
+    verbatim: "Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e."
+    amends: null
+    supersedes: []
+    applies_to: ["register", "dialogue"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "133"
+    notes: null
+
+  - id: R20C-59-THE_FOLD_BUILD_ORDER
+    pack: Pack Twenty
+    pack_number: 20
+    section: "R20C-59"
+    title: "Twenty packs of paste-in diffs"
+    status: live
+    kind: procedure
+    summary: "Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions."
+    verbatim: "Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions. Build order:"
+    amends: null
+    supersedes: []
+    applies_to: ["documents"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "137"
+    notes: "Consistent with R39-8; eleven guides folded on 2026-09-12."
+
+  - id: R20C-PD-PSYCHIC_DISTANCE_BANDS
+    pack: Pack Twenty
+    pack_number: 20
+    section: "Psychic-distance bands — assigned"
+    title: "Psychic-distance bands per POV, 1 most distant to 5 deepest interior"
+    status: live
+    kind: definition
+    summary: "| POV | Band | Note | |---|---|---| | Sodoku Moto | 3 | To 4 only at the moment of a decision his body has already made. Never 5."
+    verbatim: "| POV | Band | Note | |---|---|---| | Sodoku Moto | 3 | To 4 only at the moment of a decision his body has already made. Never 5. | | Verinus VII | 2 | The institution thinks in him. Narration near-procedural. | | Aurelian Prudentius | 4 | High FID. His vocabulary all over the narration, deliberately. | | Darius | 2 | Close and hot. To 1 under violence; the world reduces to what is in reach. | | Kwon Mu-jin | 3 | Drifts cold to 4 when he is counting. The drift is the tell. | | Renard Greymane | 3 | Narration picks up bar-idiom without comment. | | Ilthára Korvaeth | 4 | The Korvaeth arc runs on her lexicon. | | Yoko Mishiro | 3 | Sensory-first. Nose ahead of eye in narration as well as dialogue. | | Wren Greymane | 2 | Held at distance deliberately. Not explained. | | Charles, Dabney, Sesk | 3 | House baseline. Everything else measured against these. | | Emira | 2 | Tight, unrescued. She notices and does not interpret; neither does the narration. | | Cozbi | 5 | The one character licensed to have the narration become him. |"
+    amends: null
+    supersedes: []
+    applies_to: ["pov"]
+    verification: []
+    ratified: "live on reading (Pack Eighteen); Isaac, 2026-09-13"
+    source:
+      file: WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md
+      lines: "103-116"
+    notes: "Collides with R35-2-NARRATION_DISTANCE_ASSIGNMENTS (three registers; Cozbi distant/formal there, band 5 here). Logged as C-015; both stand until Isaac rules."
+

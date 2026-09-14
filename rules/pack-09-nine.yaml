@@ -40,7 +40,7 @@ rules:
     pack_number: 9
     section: "PART ONE"
     title: Craft-structure items this pack leaves undecided
-    status: pending
+    status: superseded   # was pending; its five items are ruled by R20C-41 to R20C-47 (Pack Twenty), confirmed by Isaac 2026-09-13
     kind: definition
     summary: >-
       Chantcraft accept/reject/fold, the Law V gate (Stage VII proposed),

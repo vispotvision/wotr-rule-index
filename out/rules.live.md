@@ -1,9 +1,10 @@
 # Live rules by domain
 
-497 live of 607 extracted.
+549 live of 671 extracted.
 
-## adjudication (27)
+## adjudication (28)
 
+- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
 - **R15-4-THIRTEEN_HAX_STRUCK** [Pack Fifteen §4] Pack Thirteen §6's ban on a character saying "hax" is struck; a character may say whatever makes him interesting, though scaling vocabulary stays author-notes-first as adjudication vocabulary, not because it is modern.
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
@@ -32,8 +33,12 @@
 - **R39-4-MAX_GRADE_LETTER_BINDS** [Stat System and Scene Rulings 2026-09-13 C-011] A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
 - **R28-1-BLACK_STONES_SHALE_ANALOGUE** [Voidfall Stone / Black Stones Ruling Standing Ruling] The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
-## character-sheet (67)
+## character-sheet (71)
 
+- **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
+- **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+- **R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED** [Pack Twenty R20C-39] Section One superseded. Its sheet-versus-page split was written under Pack Seven.
+- **R20C-49-GLOSS_RIGHTS_CARD_FIELD** [Pack Twenty R20C-49] Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
 - **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
 - **R17-3-SIX_LINE_CARD** [Pack Seventeen §3] The technique card format becomes six ordered lines — Operation, Manifestation, Cost, Limit, Counter, What nobody knows — with the Operation (mechanism) line first because every other line derives from it, plus a small Codex-assignment line at the foot.
 - **R17-3-WHAT_NOBODY_KNOWS_SCOPE** [Pack Seventeen §3] The one-line-per-art "What nobody knows" field must be a question about why the law holds, never about what the working does; mechanism belongs on the page, origin does not.
@@ -102,8 +107,9 @@
 - **R39-5-PERSISTENCE_FATE_GATE_VII** [Stat System and Scene Rulings 2026-09-13 C-012] Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
 - **R39-6-DISSONANCE_CEILING_TRIO** [Stat System and Scene Rulings 2026-09-13 C-013] The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
 
-## codex (35)
+## codex (36)
 
+- **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
 - **R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK** [Pack Eighteen §2] A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
 - **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
@@ -140,8 +146,12 @@
 - **R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA** [Abys Deep Codex Amendment Ruling Standing Ruling] The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
-## combat (61)
+## combat (65)
 
+- **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
+- **R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED** [Pack Twenty R20C-25] The Percussion master-strike table is Dawi-authored in-world.
+- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
+- **R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED** [Pack Twenty R20C-54] The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate.
 - **R17-3-COUNTER_MANDATORY** [Pack Seventeen §3] A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just "hit him harder" means the technique has no mechanism.
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
@@ -204,8 +214,12 @@
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## dialogue (66)
+## dialogue (70)
 
+- **R20C-36-CLEARLY_WINS** [Pack Twenty R20C-36] Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+- **R20C-50-FLESHSHAPER_VOICE** [Pack Twenty R20C-50] Fleshshaper Goblin. Old Vaross substrate.
+- **R20C-51-WINTER_ELADRIN_VOICE** [Pack Twenty R20C-51] Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary.
+- **R20C-58-REGISTERS_FLAVOUR_NOT_LAW** [Pack Twenty R20C-58] Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
 - **R19-2-FIXED_TEXT** [Pack Nineteen §2] Isaac's submitted dialogue is set as written and never rewritten.
 - **R19-2-PERMITTED_CORRECTIONS** [Pack Nineteen §2] Only typos, unambiguous verb tense/agreement, required punctuation, and stale canon-term forms may be silently corrected in Isaac's dialogue.
 - **R19-2-NEVER_ALTERED** [Pack Nineteen §2] Register, rhythm, repetition, fragments, profanity, prosodic marks, line order, and word choice in Isaac's dialogue may never be changed, including for the sake of reading better.
@@ -273,8 +287,12 @@
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 - **R24-N-OVERRIDE_CAVEAT** [Racial Voice and Dialect Guide Amendment Notes] All three registers are originations contradicting no existing lore (none existed); if any culture has established speech in an unreached document, these are overridden by it.
 
-## documents (20)
+## documents (24)
 
+- **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
+- **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
+- **R20C-37-DOCUMENTS_OWE_NOTHING** [Pack Twenty R20C-37] In-world documents owe nothing to sounding in-world.
+- **R20C-59-THE_FOLD_BUILD_ORDER** [Pack Twenty R20C-59] Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions.
 - **R19-9-STANDING_TASK** [Pack Nineteen §9] Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
 - **R18-9-STANDING_TASK** [Pack Eighteen §9] Fold Packs One through Eighteen into the base guides and retire the diffs, asked once per session.
 - **R17-10-STANDING_TASK** [Pack Seventeen §10] Fold Packs One through Seventeen into the base guides and retire the diffs, asked once per session.
@@ -296,8 +314,10 @@
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (23)
+## items (25)
 
+- **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
+- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
 - **R18-5-ALCHEMY_DOCTRINE_BINDING** [Pack Eighteen §5] Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
 - **R17-5-ARTEFACT_SCOPE** [Pack Seventeen §5] Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.
@@ -322,8 +342,15 @@
 - **R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER** [Zettari Forge Culture Ruling Standing Ruling] The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
 - **R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR** [Zettari Forge Culture Ruling Standing Ruling] A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
 
-## magic-design (72)
+## magic-design (79)
 
+- **R20C-28-PHENOMENON_BANK_CANDIDATES** [Pack Twenty R20C-28] The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
+- **R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE** [Pack Twenty R20C-38] Section Two ratified entire. True name in the practitioner's own language.
+- **R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED** [Pack Twenty R20C-39] Section One superseded. Its sheet-versus-page split was written under Pack Seven.
+- **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
+- **R20C-42-LAW_V_STAGE_GATE_REFRACTION** [Pack Twenty R20C-42] Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood.
+- **R20C-43-LAW_III_DEAD_AND_REPLACED** [Pack Twenty R20C-43] Law III is dead and replaced. Progression follows the sixteen Temperance Stages.
+- **R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE** [Pack Twenty R20C-44] Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
 - **R18-2-NO_NEW_CATEGORY_WITHOUT_CHECK** [Pack Eighteen §2] A new Wellspring, Family, Physics Domain, Archon, Titan, Glyph Class, Tier or alchemical Type may not be proposed until the existing enumeration has been read and shown not to already cover it; a proposal that does not name what was checked is not a proposal.
 - **R18-3-CARD_IS_SPELL_INDEX** [Pack Eighteen §3] Pack Seventeen's technique card fields (Operation, Manifestation, Cost, Limit, Counter, Codex line) map exactly onto Spell Index columns (Mechanism/Trigger, Effect/Numerical-Physical-Effect/Target Response, Cost/Backlash, Temperance Min plus Mechanism's constraint, Counterplay, and Category/Primary Glyphs/Wellsprings/Family/Physics Domain respectively), and the Codex column governs.
@@ -397,8 +424,13 @@
 - **R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA** [Abys Deep Codex Amendment Ruling Standing Ruling] The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
-## magic-mechanism (96)
+## magic-mechanism (101)
 
+- **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
+- **R20C-20-WELLS_GENERATE_NO_ENTITIES** [Pack Twenty R20C-20] Wells generate no entities. The site is the entire threat.
+- **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
+- **R20C-35-CHANT_IN_OWN_LANGUAGE** [Pack Twenty R20C-35] The Latin chant rule folds into the repeal. A practitioner chants in their own language.
+- **R20C-42-LAW_V_STAGE_GATE_REFRACTION** [Pack Twenty R20C-42] Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood.
 - **R18-4-GLYPH_NAMING_CONTEXTS** [Pack Eighteen §4] Glyphs are named only in a document, an instrument, a practitioner's diagnostic voice, or a private count; narration may state what a glyph did without announcing the bracketed form.
 - **R18-4-GLYPH_QUOTED_EXACTLY** [Pack Eighteen §4] A glyph appearing in a chant, an inscription or a Wordform Chain must be quoted exactly as the Master Glyph Index gives it.
 - **R18-4-ROLE_VS_CLASS_AXES** [Pack Eighteen §4] Glyph Role (Authorization, Boundary, Direction, Sealing) describes function within a working; Glyph Class (Root, Derivative by Extension, Compound, Synonym, Counter) describes provenance; neither may stand in for the other.
@@ -537,8 +569,15 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## naming (86)
+## naming (95)
 
+- **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
+- **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
+- **R20C-8-HATARAKI_NO_SHO_RECEIVED_NAME** [Pack Twenty R20C-8] Hataraki no Sho confirmed as the received name.
+- **R20C-21-WELL_NAMES_CLASS_MARKED** [Pack Twenty R20C-21] Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+- **R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE** [Pack Twenty R20C-38] Section Two ratified entire. True name in the practitioner's own language.
+- **R20C-40-NAMING_PASS_SCHEDULED** [Pack Twenty R20C-40] The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed.
+- **R20C-46-DOUBLET_WIDER_SCOPE** [Pack Twenty R20C-46] The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
 - **R16-6-COINAGE_HANDLING** [Pack Sixteen §6] A term in Isaac's rough with no canon equivalent is a coinage: it is converted into a defined WOTR term, kept in the prose, given a one-line definition in the author notes, and entered on the Open Rulings Docket for ratification, never silently replaced with a plainer word.
 - **R16-6-COINAGE_COLLISION** [Pack Sixteen §6] Where a coinage collides with existing canon, the collision is surfaced and both readings are stated, per the standing rule against silent resolution.
 - **R14-5-CANONICAL_TERMS** [Pack Fourteen §5] The full Fracture of Worlds terminology (Stages, Bands, Tier Grades, Coherence Bands, Aether Classes, Soul Crystal tiers/states, Primary Stats/Sub-Stats, speed components, Resonant Pairs, Threshold/Fracture Events, EU/Flux/AU-s/eta, the recovery model, Families, Wellsprings, Categories, Crafts, Planes, Aether/Residue/Saturation, Essence terms, Soul Crystal layers, Attraction/Obsession Force, Mechanism Vocabulary, the Domain timeline, and the Trait system) is used exactly, with no approximation.
@@ -603,6 +642,8 @@
 - **R22-6-DOCTRINE_COINAGES_TABLE** [Moto Reversion Ledger VI] Ar Nutag→Okuchi, Bükhel Mörgöl→Sōhai, Ajiin Devter→Hataraki no Sho.
 - **R22-6-SOHAI_LOSES_WORDPLAY** [Moto Reversion Ledger VI] Bükhel Mörgöl shared its root with the crown Work and the house name, so religion/Work-of-Totality/family were one word and the charge of Singling was levelled in a term that said so; Sōhai does not do that — the one genuine cost of the reversion.
 - **R22-7-FUSI_VA_KEPT** [Moto Reversion Ledger VII] Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
+- **R40-1-MOTO_ELEMENT_INVENTORY** [Naming Banks 2026-09-13 Moto] The Moto get the element bank the Polynesian strike left them without: thirty elements in five categories (crown & seat, metal & line, sky & weather, severance & exile, water & the Works), two-element compounds of two to four syllables, vowel-forward, no clusters. Twenty-six elements are lifted from attested names and the seven Lines; the glosses and the other four are coined. The slot is Given + Line + Moto, the Line named for the six landless Great Lines and omitted for Kōkan. Four flags stay open as ratified.
+- **R40-2-CELESTIAL_HOST_NAMING_PASS** [Naming Banks 2026-09-13 Celestial Host] The formal pass R20-2 was waiting for. A Celestial's name has three slots: a function-name (a function root and a measure root, coined on the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally and Toll), a rank-suffix that changes with promotion and whose loss is a stripping, and a Lawbell-name that is the Archon's own name carried bare, whose loss is the Severance. Obeys the Host's idiom rule. The five working names are kept and read back through the system. Four flags stay open as ratified, two of them canon acts for Isaac.
 - **R20-1-MAHUO_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Korean generational syllables (dollimja): family name first, a two-syllable given name sharing a generation syllable across the cohort, a clan seat distinguishing unrelated families sharing a surname. Avoid Chinese wuxia conventions and given-name-first Japanese conventions.
 - **R20-1-YUKARI_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Japanese life-stage renaming: childhood name, adult name at coming-of-age, calling name for intimates, true name taboo to speak, posthumous name at death. Avoid modern Japanese casual naming; carry feudal-era court weight.
 - **R20-1-ELVEN_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Northwest Coast Indigenous institutional logic: names as heritable property, publicly validated, requiring compensated witnesses, ranked name-holding, names as offices. Content is entirely original; no specific crest, ceremonial or sacred terms from living traditions appear. Avoid generic fantasy Elf naming and Tolkien's specific Quenya/Sindarin phonology.
@@ -626,8 +667,10 @@
 - **R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR** [Zettari Forge Culture Ruling Standing Ruling] A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
 - **R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC** [Zettari Naming Register Ruling Standing Ruling] The Zettari bloodline's names, titles and technique names are built in a Swahili/Bantu/Arabic-flavoured register, and that register stands. The five-strata naming convention's assignment of "archaic bloodlines" to the Japonic stratum does not reach the Zettari: they are their own register, a carve-out, not a repeal. The Japonic assignment continues to govern every other archaic line (Moto, Yukari, Yuno).
 
-## pov (39)
+## pov (41)
 
+- **R20C-49-GLOSS_RIGHTS_CARD_FIELD** [Pack Twenty R20C-49] Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
+- **R20C-PD-PSYCHIC_DISTANCE_BANDS** [Pack Twenty Psychic-distance bands — assigned] | POV | Band | Note | |---|---|---| | Sodoku Moto | 3 | To 4 only at the moment of a decision his body has already made. Never 5.
 - **R19-4-ICEBERG_DIALOGUE** [Pack Nineteen §4] Characters never explain to each other something they both already know.
 - **R16-5-REGISTER_IN_NARRATION** [Pack Sixteen §5] The Technical Register is available to third-person narration for anything a person chooses to do; it is not reserved for italic thought.
 - **R16-7-NOT_CONVERTED** [Pack Sixteen §7] Conversion applies to mechanism, phenomenon, technical read, injury and the physics of an exchange, but never to the body's plain physicality, grief and the elegiac beat, dialogue (outside a practitioner's diagnostic voice or a document), or the ignorance quota.
@@ -668,8 +711,12 @@
 - **R35-2-NARRATION_DISTANCE_ASSIGNMENTS** [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned] Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## prose-law (118)
+## prose-law (122)
 
+- **R20C-24-PHYSICAL_UNIT_CEILING** [Pack Twenty R20C-24] Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
+- **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
+- **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
+- **R20C-33-RESONANT_PAIRS_DIAGNOSTIC** [Pack Twenty R20C-33] Resonant Pair unlocks may be named in diagnostic voice.
 - **R19-2-FIXED_TEXT** [Pack Nineteen §2] Isaac's submitted dialogue is set as written and never rewritten.
 - **R19-2-NEVER_ALTERED** [Pack Nineteen §2] Register, rhythm, repetition, fragments, profanity, prosodic marks, line order, and word choice in Isaac's dialogue may never be changed, including for the sake of reading better.
 - **R19-3-PROSODY_VERBATIM** [Pack Nineteen §3] Capitals, stretched vowels, ellipses and repeated punctuation are notation for volume, duration, breath and intensity, and must be reproduced exactly rather than converted into narrative description.
@@ -789,8 +836,17 @@
 - **R24-2-ELADRIN_NEVER_BARE_LINE** [Racial Voice and Dialect Guide Amendment II] Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## register (101)
+## register (111)
 
+- **R20C-21-WELL_NAMES_CLASS_MARKED** [Pack Twenty R20C-21] Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+- **R20C-24-PHYSICAL_UNIT_CEILING** [Pack Twenty R20C-24] Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
+- **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
+- **R20C-35-CHANT_IN_OWN_LANGUAGE** [Pack Twenty R20C-35] The Latin chant rule folds into the repeal. A practitioner chants in their own language.
+- **R20C-36-CLEARLY_WINS** [Pack Twenty R20C-36] Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+- **R20C-46-DOUBLET_WIDER_SCOPE** [Pack Twenty R20C-46] The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
+- **R20C-50-FLESHSHAPER_VOICE** [Pack Twenty R20C-50] Fleshshaper Goblin. Old Vaross substrate.
+- **R20C-51-WINTER_ELADRIN_VOICE** [Pack Twenty R20C-51] Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary.
+- **R20C-58-REGISTERS_FLAVOUR_NOT_LAW** [Pack Twenty R20C-58] Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
 - **R19-4-REGISTER_UNDER_STRESS** [Pack Nineteen §4] Under stress, a character's speech must get shorter, more concrete, more repetitive, and lose subordinate clauses, uniformly across all characters.
 - **R18-3-CODEX_OVERRIDES_LEXICON** [Pack Eighteen §3] Pack Sixteen's route-1 rough-prose conversion now means routing to a Codex term, and where the Pack Sixteen §4 conversion lexicon disagrees with the Codex sheet, the sheet wins.
 - **R16-1-CONSEQUENCE** [Pack Sixteen §1] The technical and metaphysical register belongs in the finished narration itself, in Isaac's vocabulary, converted rather than removed or exported to notes.
@@ -878,6 +934,7 @@
 - **R5-G-STYLE_DIRECTIVE_EXCLUDED_LIST** [Pack Five G] The Master Style Directive's §10 deliberately-excluded list gains the Manhwa Energy Directive.
 - **R5-G-PROJECT_INSTRUCTIONS_EDIT** [Pack Five G] The Manhwa Energy Directive block is struck in full from project instructions, "manhwa-cinematic" and "manhwa energy" are struck from tone descriptions, and the genre-intersection statement is amended so only the pacing ambition survives.
 - **R23-10-CHINESE_PHONOTACTICS** [Inner World Naming Amendment X] Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the base guide already warns off — no four-syllable given names, no sect-title constructions, no honorific stacking.
+- **R40-2-CELESTIAL_HOST_NAMING_PASS** [Naming Banks 2026-09-13 Celestial Host] The formal pass R20-2 was waiting for. A Celestial's name has three slots: a function-name (a function root and a measure root, coined on the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally and Toll), a rank-suffix that changes with promotion and whose loss is a stripping, and a Lawbell-name that is the Archon's own name carried bare, whose loss is the Severance. Obeys the Host's idiom rule. The five working names are kept and read back through the system. Four flags stay open as ratified, two of them canon acts for Isaac.
 - **R20-2-HOLY_SEA_NAMING** [Naming Guide Amendment Part Two] Birth name (Concord Common) plus ordination name (Latin, chosen or assigned at vows) plus locative/title; a documented name in the Testimony archive carries metaphysical weight, and an undocumented person is theologically uncounted.
 - **R35-1-NARRATION_DISTANCE_BANDS** [Narration Distances (Psychic Distance by POV) The three registers] Every POV character carries one of three narration distances — close (narration fuses with the character's own idiom, italicized direct thought available), medium (POV locked, no head-hopping, but emotion arrives by external behaviour or simile, no italicized thought) or distant/formal (an omniscient epigrammatic voice describes the character from outside, occasional aphoristic italics, the one register licensed for more narratorial explanation) — and the field is called "narration register", never "Band", because Band is the unrelated FOW Coherence stat. This supplies the whose-idiom input that R4-13-FID_CARVEOUT depends on.
 - **R35-2-NARRATION_DISTANCE_ASSIGNMENTS** [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned] Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
@@ -922,8 +979,12 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## session-protocol (11)
+## session-protocol (15)
 
+- **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
+- **R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME** [Pack Twenty R20C-27] A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+- **R20C-34-ESTIMATES_CANON_ON_USE** [Pack Twenty R20C-34] Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists.
+- **R20C-56-RETROACTIVE_FORWARD_ONLY** [Pack Twenty R20C-56] Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
 - **R19-8-NO_RETROACTIVE** [Pack Nineteen §8] No rewrite of scenes written before this pack is proposed; the pack governs dialogue written from here forward.
 - **R19-9-STANDING_TASK** [Pack Nineteen §9] Fold Packs One through Nineteen into the base guides and retire the diffs, asked once per session.
 - **R18-6-SESSION_START_4A** [Pack Eighteen §6] Inserted between the current steps four and five of the Session Start Protocol, a new step 4a requires querying the Spell Index, Glyph Index, Alchemical Index and Lists sheet for everything the scene will work, before the FOW line and before the Standing Inventory.
@@ -936,8 +997,11 @@
 - **R4-ADD-NO_SINGLE_PASS** [Pack Four Addendum] wotr_verify.sh and wotr_beat_check.py both run before presenting; failures are fixed and both re-run; no single-pass delivery.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## standing-inventory (14)
+## standing-inventory (17)
 
+- **R20C-47-CRAFTS_OWE_THE_INVENTORY** [Pack Twenty R20C-47] Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
+- **R20C-48-ZETTARI_THIN_GROUND** [Pack Twenty R20C-48] The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first.
+- **R20C-57-INVENTORY_PAGES_BUILD_ORDER** [Pack Twenty R20C-57] The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
 - **R19-4-WORLD_ANCHORED_SPEECH** [Pack Nineteen §4] A character's metaphors and idiom must come from their own life and trade, not from an external reference list.
 - **R15-1-STANDING_INVENTORY_SURVIVES** [Pack Fifteen §1] The Standing Inventory is a texture source, not a register rule, and is unaffected by the repeal.
 - **R11-2-SILHOUETTE** [Pack Eleven §2] No smokestacks or soot; standpipes, gauge-housings, sealed conduit, brass and slate and Guild seals, a district's low draw-hum, and the politically loaded silence when a district's draw is cut.
@@ -953,8 +1017,14 @@
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R22-7-KHARVEN_INVENTORY_KEPT** [Moto Reversion Ledger VII] The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
-## stats (42)
+## stats (48)
 
+- **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
+- **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
+- **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+- **R20C-33-RESONANT_PAIRS_DIAGNOSTIC** [Pack Twenty R20C-33] Resonant Pair unlocks may be named in diagnostic voice.
+- **R20C-34-ESTIMATES_CANON_ON_USE** [Pack Twenty R20C-34] Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists.
+- **R20C-43-LAW_III_DEAD_AND_REPLACED** [Pack Twenty R20C-43] Law III is dead and replaced. Progression follows the sixteen Temperance Stages.
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 - **R14-2-ESTIMATE_MARKING** [Pack Fourteen §2] Where a value is not on any sheet, it is written in the author notes as an estimate inside the documented range for that Stage and Band, marked as such, and never invented to feel right.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
@@ -998,8 +1068,12 @@
 - **R39-5-PERSISTENCE_FATE_GATE_VII** [Stat System and Scene Rulings 2026-09-13 C-012] Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
 - **R39-6-DISSONANCE_CEILING_TRIO** [Stat System and Scene Rulings 2026-09-13 C-013] The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
 
-## verification (84)
+## verification (88)
 
+- **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
+- **R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME** [Pack Twenty R20C-27] A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+- **R20C-55-COST_AUDIT_ON_CONTACT** [Pack Twenty R20C-55] The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use.
+- **R20C-56-RETROACTIVE_FORWARD_ONLY** [Pack Twenty R20C-56] Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
 - **R19-2-WORLD_BREAK_FLAG** [Pack Nineteen §2] A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.
 - **R19-5-SORT_BY_SPEAKER_TEST** [Pack Nineteen §5] If a stranger could not sort a scene's dialogue lines by speaker with the tags covered, the scene fails as a Pack Nineteen violation, not merely a voice-differentiation warning.
 - **R19-7-CHECK40** [Pack Nineteen §7] Manual check that every line of Isaac's dialogue matches the submitted rough verbatim except for corrections permitted in §2; any other change fails and is reverted.
@@ -1085,8 +1159,21 @@
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (112)
+## worldbuilding (125)
 
+- **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
+- **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
+- **R20C-6-LINES_FIVE_TO_SEVEN_FUNCTIONS** [Pack Twenty R20C-6] Lines Five to Seven get functions. Shirogane (silver): the mint and the assay — they set what a coin weighs and certify what a bar is.
+- **R20C-9-ANCESTRAL_SEAT_WORKED_CORE** [Pack Twenty R20C-9] What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it. No battle, no plague, no enemy.
+- **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
+- **R20C-18-COMMONER_DRAW_LEGAL_NOT_PRACTICAL** [Pack Twenty R20C-18] Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay.
+- **R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL** [Pack Twenty R20C-19] Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date.
+- **R20C-20-WELLS_GENERATE_NO_ENTITIES** [Pack Twenty R20C-20] Wells generate no entities. The site is the entire threat.
+- **R20C-23-ORIGIN_STAYS_MYTHIC** [Pack Twenty R20C-23] Origin stays mythic. Mechanism is fully explicable; where it came from is not.
+- **R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED** [Pack Twenty R20C-25] The Percussion master-strike table is Dawi-authored in-world.
+- **R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE** [Pack Twenty R20C-44] Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
+- **R20C-45-GOLDEN_AGE_ACCORD_MISTAKEN** [Pack Twenty R20C-45] The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed.
+- **R20C-48-ZETTARI_THIN_GROUND** [Pack Twenty R20C-48] The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first.
 - **R19-4-WORLD_ANCHORED_SPEECH** [Pack Nineteen §4] A character's metaphors and idiom must come from their own life and trade, not from an external reference list.
 - **R17-5-BLOODLINE_SCOPE** [Pack Seventeen §5] A bloodline faculty entry must state what quantity the faculty acts on (e.g. what the eye does), what it costs to hold open, and what it cannot resolve; restating the faculty ("the Moto see") is not an entry.
 - **R17-6-MECHANISM_VS_ORIGIN** [Pack Seventeen §6] Entries must state mechanism but never need explain cosmic origin — why a Wellspring answers, where the Sixty came from, how many workings exist, or why the laws are the laws; that permanent gap is where "What nobody knows" lives.

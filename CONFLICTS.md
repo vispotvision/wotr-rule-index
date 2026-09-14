@@ -430,3 +430,22 @@ ceiling and the strict Path caps, re-derive Grade letters from the value
 table, keep the card's own two-layer identity for verification. Isaac's
 call before anything runs.
 **Status:** closed — ruled by Isaac, 2026-09-13: the canon model; the 125 sheets are re-costed to it (R39-1)
+
+---
+
+## C-015 — psychic-distance bands versus narration registers for the same cast
+
+**Rules:** R20C-PD-PSYCHIC_DISTANCE_BANDS vs R35-2-NARRATION_DISTANCE_ASSIGNMENTS
+**The clash:** Pack Twenty assigns each POV a band on a 1–5 scale (1 most
+distant, 5 deepest interior, FID the house default): Sodoku 3, Verinus 2,
+Aurelian 4, Darius 2, Kwon Mu-jin 3, Renard 3, Yoko 3, Wren 2, Charles/
+Dabney/Sesk 3, Emira 2, Cozbi 5. R35-2 (ratified later on 2026-09-12 from a
+proposal) assigns the same cast to three registers — close, medium,
+distant/formal — and puts Cozbi in distant/formal, Verinus and Darius in
+close, Hild Ice and Dabney unassigned.
+**Quotes:** Pack Twenty: "Cozbi | 5 | The one character licensed to have the
+narration become him." R35-2: "Distant/formal register: Cozbi Mahuo."
+**Consequence if unresolved:** a Cozbi scene cannot be checked for distance;
+the two systems point opposite ways for him and disagree in kind for the rest.
+**Recommendation:** none stated by either source.
+**Status:** open

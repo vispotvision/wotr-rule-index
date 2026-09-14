@@ -422,3 +422,20 @@ Celestial Host naming pass (R20-2) and a Japonic Moto element bank are
 drafted as proposals; Pack Twenty — The Clearance gets pack_impact before
 extraction; A Reader's Codex is republished (its Notion deletion was an
 accident); Darius's card is Isaac's to write in Notion.
+
+## 2026-09-13, later — Pack Twenty extracted; R9-1 closed
+
+Isaac, in Claude Code, on reports/pack_twenty_impact.md: **the later rulings
+win, all five** — C-001 (Eleven's ban stands), the Agamalu/Vāimoana block
+(reversed), the steppe items (the Northern forms), Muken's children (the card
+stands), Taulagi and Afasoa (Yuno retainers). Those rows are extracted as
+superseded on arrival, quoted intact (rules/pack-20-twenty.yaml). **R20C-41 to
+R20C-47 are his Four Crafts rulings** — Chantcraft the fifth craft; Law V a
+Stage gate at Refraction on the working; Law III dead, progression by the
+sixteen Stages; Runecraft vs Spellcraft by culture; the Accord mistaken and
+lying about the golden age; the doublet at the wider scope; each craft owes
+the Inventory an object, an oath and a proverb — which closes
+R9-1-STILL_OPEN_ITEMS. Two further collisions found at extraction and
+recorded, not resolved: R20C-52 (the Host has no native register) against
+R24-3 and R40-2, extracted superseded on arrival because both post-date it;
+and the psychic-distance table against R35-2, logged as C-015.

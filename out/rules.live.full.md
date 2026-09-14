@@ -1,8 +1,14 @@
 # Live rules by domain, with source text
 
-497 live of 607 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+549 live of 671 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (27)
+## adjudication (28)
+
+### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
+
+The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
+
+> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -166,7 +172,31 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (67)
+## character-sheet (71)
+
+### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
+
+Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
+
+> Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples. Those are Isaac's.
+
+### R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD [Pack Twenty R20C-32]
+
+Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+
+> Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+
+### R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED [Pack Twenty R20C-39]
+
+Section One superseded. Its sheet-versus-page split was written under Pack Seven.
+
+> Section One superseded. Its sheet-versus-page split was written under Pack Seven. Pack Seventeen's six-line card governs, mechanism first. Surviving: "overuse strains him" always fails, and drawback numbers are physical, never metaphysical.
+
+### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
+
+Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
+
+> Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
 
 ### R18-3-CARD_IS_SPELL_INDEX [Pack Eighteen §3]
 
@@ -573,7 +603,13 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## codex (35)
+## codex (36)
+
+### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
+
+Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
+
+> Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 
 ### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
 
@@ -785,7 +821,31 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## combat (61)
+## combat (65)
+
+### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
+
+The three ammunition tiers ratified, subject to R20C-26.
+
+> The three ammunition tiers ratified, subject to R20C-26.
+
+### R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED [Pack Twenty R20C-25]
+
+The Percussion master-strike table is Dawi-authored in-world.
+
+> The Percussion master-strike table is Dawi-authored in-world.
+
+### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
+
+The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
+
+> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
+
+### R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED [Pack Twenty R20C-54]
+
+The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate.
+
+> The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate. Rengai Zettai: Percussion, the Return, and the post-injury narrowing off the Cinder Lung material confirmed — his ceiling drops and the Return becomes his economy. Yoko Mishiro: Blade, works from the bind, her Indes faster than her sight allows, written as an unfair advantage she never comments on. Remaining assignments run with Combat Guide 3e.
 
 ### R17-3-COUNTER_MANDATORY [Pack Seventeen §3]
 
@@ -1153,7 +1213,31 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## dialogue (66)
+## dialogue (70)
+
+### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
+
+Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+
+> Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+
+### R20C-50-FLESHSHAPER_VOICE [Pack Twenty R20C-50]
+
+Fleshshaper Goblin. Old Vaross substrate.
+
+> Fleshshaper Goblin. Old Vaross substrate. Verbs of making dominate the clause. A Fleshshaper does not say it broke, they say someone unmade it, and if nobody did then it was never whole. No passive voice at all. Possession marked on the body and not the object: knife-at-my-hand, never my knife. Counting by pairs and hands. Discourse marker: a confirming particle at clause-end, roughly yeh, dropped when the speaker stops caring whether you follow. Bodies discussed as material, their own included, which is the part that unsettles everyone else.
+
+### R20C-51-WINTER_ELADRIN_VOICE [Pack Twenty R20C-51]
+
+Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary.
+
+> Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary. Craft rule: meaning arrives in a physical clause before the spoken one, and the spoken clause is shorter than the gesture that preceded it. They never repeat themselves — a repeated sentence accuses the listener of inattention. No greetings exist; arrival is announced by being seen, and a Winter Eladrin who says hello is being deliberately hostile.
+
+### R20C-58-REGISTERS_FLAVOUR_NOT_LAW [Pack Twenty R20C-58]
+
+Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
+
+> Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
 
 ### R19-2-FIXED_TEXT [Pack Nineteen §2]
 
@@ -1551,7 +1635,31 @@ All three registers are originations contradicting no existing lore (none existe
 
 > All three are originations and none contradicts existing lore, because no lore existed. If any of these cultures has established speech in a document I did not reach, these are overridden by it and I would rather be told than have it discovered in prose.
 
-## documents (20)
+## documents (24)
+
+### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
+
+The sweep has two tiers. Canon pages get swept — body text, not just titles.
+
+> The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and "Tengeriin"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run.
+
+### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
+
+The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
+
+> The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start.
+
+### R20C-37-DOCUMENTS_OWE_NOTHING [Pack Twenty R20C-37]
+
+In-world documents owe nothing to sounding in-world.
+
+> In-world documents owe nothing to sounding in-world.
+
+### R20C-59-THE_FOLD_BUILD_ORDER [Pack Twenty R20C-59]
+
+Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions.
+
+> Twenty packs of paste-in diffs. Precedence has not been trackable by reading since Pack Seven, and most of this docket was archaeology, not open questions. Build order:
 
 ### R19-9-STANDING_TASK [Pack Nineteen §9]
 
@@ -1673,7 +1781,19 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (23)
+## items (25)
+
+### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
+
+The three ammunition tiers ratified, subject to R20C-26.
+
+> The three ammunition tiers ratified, subject to R20C-26.
+
+### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
+
+The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
+
+> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
 
 ### R18-5-ALCHEMY_SOURCE_ORDER [Pack Eighteen §5]
 
@@ -1813,7 +1933,49 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (72)
+## magic-design (79)
+
+### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
+
+The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
+
+> The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
+
+### R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE [Pack Twenty R20C-38]
+
+Section Two ratified entire. True name in the practitioner's own language.
+
+> Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene.
+
+### R20C-39-PACK_EIGHT_SECTION_ONE_SUPERSEDED [Pack Twenty R20C-39]
+
+Section One superseded. Its sheet-versus-page split was written under Pack Seven.
+
+> Section One superseded. Its sheet-versus-page split was written under Pack Seven. Pack Seventeen's six-line card governs, mechanism first. Surviving: "overuse strains him" always fails, and drawback numbers are physical, never metaphysical.
+
+### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
+
+Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
+
+> Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
+
+### R20C-42-LAW_V_STAGE_GATE_REFRACTION [Pack Twenty R20C-42]
+
+Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood.
+
+> Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood. The gate applies to the working, not the technique — a Stage V practitioner with an internalised technique still needs a medium.
+
+### R20C-43-LAW_III_DEAD_AND_REPLACED [Pack Twenty R20C-43]
+
+Law III is dead and replaced. Progression follows the sixteen Temperance Stages.
+
+> Law III is dead and replaced. Progression follows the sixteen Temperance Stages. The sixty Wellsprings are what a practitioner draws from, not what they climb. The fourteen in the old text were Archons; someone conflated the lists.
+
+### R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE [Pack Twenty R20C-44]
+
+Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
+
+> Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
 
 ### R18-2-CODEX_FIRST_MANDATE [Pack Eighteen §2]
 
@@ -2247,7 +2409,37 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## magic-mechanism (96)
+## magic-mechanism (101)
+
+### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
+
+Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
+
+> Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second. Short-run: managed and corrupt, because the Guild sells renewal honestly. Long-run: predatory and doomed, because the curve bends one way. The Thin Weeks are this arriving early in the periphery.
+
+### R20C-20-WELLS_GENERATE_NO_ENTITIES [Pack Twenty R20C-20]
+
+Wells generate no entities. The site is the entire threat.
+
+> Wells generate no entities. The site is the entire threat.
+
+### R20C-23-ORIGIN_STAYS_MYTHIC [Pack Twenty R20C-23]
+
+Origin stays mythic. Mechanism is fully explicable; where it came from is not.
+
+> Origin stays mythic. Mechanism is fully explicable; where it came from is not. The last surviving soft zone.
+
+### R20C-35-CHANT_IN_OWN_LANGUAGE [Pack Twenty R20C-35]
+
+The Latin chant rule folds into the repeal. A practitioner chants in their own language.
+
+> The Latin chant rule folds into the repeal. A practitioner chants in their own language. What survives is the canon fact that Accord Latin's invocation register has no first person, which makes a spoken Accord working authorless. Chant-based techniques unblocked.
+
+### R20C-42-LAW_V_STAGE_GATE_REFRACTION [Pack Twenty R20C-42]
+
+Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood.
+
+> Law V is a Stage gate at Refraction (VII). Below it a working needs voice, hand, ink or blood. The gate applies to the working, not the technique — a Stage V practitioner with an internalised technique still needs a medium.
 
 ### R18-4-GLYPH_NAMING_CONTEXTS [Pack Eighteen §4]
 
@@ -3058,7 +3250,49 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (86)
+## naming (95)
+
+### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
+
+Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
+
+> Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page. The people are the Moto; the crown line is Kōkan. Chuluun Büri is Sonzai, surname dissolved, not translated.
+
+### R20C-2-SATULAGI_STAYS_DEAD [Pack Twenty R20C-2]
+
+Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
+
+> Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place. Confirms R21-4-BURI_LANDLESS_LINES live.
+
+### R20C-8-HATARAKI_NO_SHO_RECEIVED_NAME [Pack Twenty R20C-8]
+
+Hataraki no Sho confirmed as the received name.
+
+> Hataraki no Sho confirmed as the received name.
+
+### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
+
+Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+
+> Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+
+### R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE [Pack Twenty R20C-38]
+
+Section Two ratified entire. True name in the practitioner's own language.
+
+> Section Two ratified entire. True name in the practitioner's own language. Flat literal gloss, never poetic. Poetry lives in the by-name. Art carries the character; techniques may not. The release is an optional imperative call costing a beat and buying output. Escalation modifies the existing true name. The gloss never appears in prose, nobody translates their own technique aloud, the true name is spoken and never narrated, one release per scene.
+
+### R20C-40-NAMING_PASS_SCHEDULED [Pack Twenty R20C-40]
+
+The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed.
+
+> The naming pass per culture is scheduled work. Techniques established in prose are flagged, never renamed. Runs with Ability Guide 6e.
+
+### R20C-46-DOUBLET_WIDER_SCOPE [Pack Twenty R20C-46]
+
+The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
+
+> The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
 
 ### R16-6-COINAGE_HANDLING [Pack Sixteen §6]
 
@@ -3444,6 +3678,18 @@ Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite 
 
 > Fusi Vā. The Agamalu binding rite. It replaced Saishiki, which was a Japonic word sitting on a rite that is Agamalu in origin and Vāimoana in provenance, and was wrong for both registers on its own terms. The Büri amendment is not what made that change correct. Recommendation: keep.
 
+### R40-1-MOTO_ELEMENT_INVENTORY [Naming Banks 2026-09-13 Moto]
+
+The Moto get the element bank the Polynesian strike left them without: thirty elements in five categories (crown & seat, metal & line, sky & weather, severance & exile, water & the Works), two-element compounds of two to four syllables, vowel-forward, no clusters. Twenty-six elements are lifted from attested names and the seven Lines; the glosses and the other four are coined. The slot is Given + Line + Moto, the Line named for the six landless Great Lines and omitted for Kōkan. Four flags stay open as ratified.
+
+> Given name + Line name + Moto. The surname is a fixed hereditary fact of the bloodline; the Line sits between given name and surname for the six landless Great Lines — Artemis Amagiri Moto, Souma Byakuya Moto — and is omitted for Kōkan, the line that holds the seat. Two elements, either order, joined plainly; a coda consonant is doubled or dropped by ear, never clustered. The given name states what the line expects or what the child was born into; the Line name says which metal they answer to; Moto says whose they are.
+
+### R40-2-CELESTIAL_HOST_NAMING_PASS [Naming Banks 2026-09-13 Celestial Host]
+
+The formal pass R20-2 was waiting for. A Celestial's name has three slots: a function-name (a function root and a measure root, coined on the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally and Toll), a rank-suffix that changes with promotion and whose loss is a stripping, and a Lawbell-name that is the Archon's own name carried bare, whose loss is the Severance. Obeys the Host's idiom rule. The five working names are kept and read back through the system. Four flags stay open as ratified, two of them canon acts for Isaac.
+
+> On the page: Function-name-Rank Lawbell — Verantha-eth Maelor, "Verantha, senior, of Memory". Among mortals only the function-name is heard; in the Host's own registers all three are written, and a register entry with the third name struck is the document of a Severance.
+
 ### R20-1-MAHUO_ANCHOR [Naming Guide Amendment Part One]
 
 Real anchor is Korean generational syllables (dollimja): family name first, a two-syllable given name sharing a generation syllable across the cohort, a clan seat distinguishing unrelated families sharing a surname. Avoid Chinese wuxia conventions and given-name-first Japanese conventions.
@@ -3576,7 +3822,19 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (39)
+## pov (41)
+
+### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
+
+Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
+
+> Gloss rights ratified as a card field: Lambert yes, Yoko diagnostic only, Cozbi unlimited, Sodoku never, Emira never.
+
+### R20C-PD-PSYCHIC_DISTANCE_BANDS [Pack Twenty Psychic-distance bands — assigned]
+
+| POV | Band | Note | |---|---|---| | Sodoku Moto | 3 | To 4 only at the moment of a decision his body has already made. Never 5.
+
+> | POV | Band | Note | |---|---|---| | Sodoku Moto | 3 | To 4 only at the moment of a decision his body has already made. Never 5. | | Verinus VII | 2 | The institution thinks in him. Narration near-procedural. | | Aurelian Prudentius | 4 | High FID. His vocabulary all over the narration, deliberately. | | Darius | 2 | Close and hot. To 1 under violence; the world reduces to what is in reach. | | Kwon Mu-jin | 3 | Drifts cold to 4 when he is counting. The drift is the tell. | | Renard Greymane | 3 | Narration picks up bar-idiom without comment. | | Ilthára Korvaeth | 4 | The Korvaeth arc runs on her lexicon. | | Yoko Mishiro | 3 | Sensory-first. Nose ahead of eye in narration as well as dialogue. | | Wren Greymane | 2 | Held at distance deliberately. Not explained. | | Charles, Dabney, Sesk | 3 | House baseline. Everything else measured against these. | | Emira | 2 | Tight, unrescued. She notices and does not interpret; neither does the narration. | | Cozbi | 5 | The one character licensed to have the narration become him. |
 
 ### R19-4-ICEBERG_DIALOGUE [Pack Nineteen §4]
 
@@ -3812,7 +4070,31 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## prose-law (118)
+## prose-law (122)
+
+### R20C-24-PHYSICAL_UNIT_CEILING [Pack Twenty R20C-24]
+
+Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
+
+> Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.
+
+### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
+
+Category naming in diagnostic voice: allowed.
+
+> Category naming in diagnostic voice: allowed.
+
+### R20C-31-SUBSTAT_NAMES_FACULTY_ONLY [Pack Twenty R20C-31]
+
+Sub-Stat names never appear outside a faculty reading.
+
+> Sub-Stat names never appear outside a faculty reading.
+
+### R20C-33-RESONANT_PAIRS_DIAGNOSTIC [Pack Twenty R20C-33]
+
+Resonant Pair unlocks may be named in diagnostic voice.
+
+> Resonant Pair unlocks may be named in diagnostic voice.
 
 ### R19-2-FIXED_TEXT [Pack Nineteen §2]
 
@@ -4522,7 +4804,61 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## register (101)
+## register (111)
+
+### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
+
+Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+
+> Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
+
+### R20C-24-PHYSICAL_UNIT_CEILING [Pack Twenty R20C-24]
+
+Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
+
+> Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.
+
+### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
+
+Category naming in diagnostic voice: allowed.
+
+> Category naming in diagnostic voice: allowed.
+
+### R20C-35-CHANT_IN_OWN_LANGUAGE [Pack Twenty R20C-35]
+
+The Latin chant rule folds into the repeal. A practitioner chants in their own language.
+
+> The Latin chant rule folds into the repeal. A practitioner chants in their own language. What survives is the canon fact that Accord Latin's invocation register has no first person, which makes a spoken Accord working authorless. Chant-based techniques unblocked.
+
+### R20C-36-CLEARLY_WINS [Pack Twenty R20C-36]
+
+Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+
+> Clearly wins. Character shows in what a person chooses to explain and what they leave out.
+
+### R20C-46-DOUBLET_WIDER_SCOPE [Pack Twenty R20C-46]
+
+The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
+
+> The Latinate/vernacular doublet takes the wider scope — every craft term in WOTR.
+
+### R20C-50-FLESHSHAPER_VOICE [Pack Twenty R20C-50]
+
+Fleshshaper Goblin. Old Vaross substrate.
+
+> Fleshshaper Goblin. Old Vaross substrate. Verbs of making dominate the clause. A Fleshshaper does not say it broke, they say someone unmade it, and if nobody did then it was never whole. No passive voice at all. Possession marked on the body and not the object: knife-at-my-hand, never my knife. Counting by pairs and hands. Discourse marker: a confirming particle at clause-end, roughly yeh, dropped when the speaker stops caring whether you follow. Bodies discussed as material, their own included, which is the part that unsettles everyone else.
+
+### R20C-51-WINTER_ELADRIN_VOICE [Pack Twenty R20C-51]
+
+Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary.
+
+> Winter Eladrin. Speech is the secondary channel; stillness and the angle of the hands are primary. Craft rule: meaning arrives in a physical clause before the spoken one, and the spoken clause is shorter than the gesture that preceded it. They never repeat themselves — a repeated sentence accuses the listener of inattention. No greetings exist; arrival is announced by being seen, and a Winter Eladrin who says hello is being deliberately hostile.
+
+### R20C-58-REGISTERS_FLAVOUR_NOT_LAW [Pack Twenty R20C-58]
+
+Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
+
+> Per-culture narration registers are flavour, not law (Pack Fifteen §1 stands). Moto register is the exception and gets built with Combat Guide 3e.
 
 ### R19-4-REGISTER_UNDER_STRESS [Pack Nineteen §4]
 
@@ -5046,6 +5382,12 @@ Open syllables, permitted nasal codas, no clusters; avoid the wuxia register the
 
 > Open syllables, permitted nasal codas, no clusters. Avoid the wuxia register the base guide already warns off: no four-syllable given names, no sect-title constructions, no honorific stacking.
 
+### R40-2-CELESTIAL_HOST_NAMING_PASS [Naming Banks 2026-09-13 Celestial Host]
+
+The formal pass R20-2 was waiting for. A Celestial's name has three slots: a function-name (a function root and a measure root, coined on the Host's own vocabulary of Vow, Verdict, Boundary, Seal, Record, Tally and Toll), a rank-suffix that changes with promotion and whose loss is a stripping, and a Lawbell-name that is the Archon's own name carried bare, whose loss is the Severance. Obeys the Host's idiom rule. The five working names are kept and read back through the system. Four flags stay open as ratified, two of them canon acts for Isaac.
+
+> On the page: Function-name-Rank Lawbell — Verantha-eth Maelor, "Verantha, senior, of Memory". Among mortals only the function-name is heard; in the Host's own registers all three are written, and a register entry with the third name struck is the document of a Severance.
+
 ### R20-2-HOLY_SEA_NAMING [Naming Guide Amendment Part Two]
 
 Birth name (Concord Common) plus ordination name (Latin, chosen or assigned at vows) plus locative/title; a documented name in the Testimony archive carries metaphysical weight, and an undocumented person is theologically uncounted.
@@ -5288,7 +5630,31 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## session-protocol (11)
+## session-protocol (15)
+
+### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
+
+The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
+
+> The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start.
+
+### R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME [Pack Twenty R20C-27]
+
+A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+
+> A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+
+### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
+
+Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists.
+
+> Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists. An estimate is canon on use, carries a derived marker in the Ledger, and a source value beats it on contact, silently.
+
+### R20C-56-RETROACTIVE_FORWARD_ONLY [Pack Twenty R20C-56]
+
+Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
+
+> Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene. The archive is a record.
 
 ### R19-8-NO_RETROACTIVE [Pack Nineteen §8]
 
@@ -5356,7 +5722,25 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## standing-inventory (14)
+## standing-inventory (17)
+
+### R20C-47-CRAFTS_OWE_THE_INVENTORY [Pack Twenty R20C-47]
+
+Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
+
+> Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.
+
+### R20C-48-ZETTARI_THIN_GROUND [Pack Twenty R20C-48]
+
+The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first.
+
+> The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first. They are the best smiths in the four quarters because they had to be, and insufferable about it because being best is the only thing that ever compensated them.
+
+### R20C-57-INVENTORY_PAGES_BUILD_ORDER [Pack Twenty R20C-57]
+
+The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
+
+> The Standing Inventory is Notion, one page per culture, under a Standing Inventory section page. Build order after Kharven and the Moto: Stannvaard, the Dawi, the Zettari, Ketsuen, Nalūn, the Yukari enclave.
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 
@@ -5442,7 +5826,43 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (42)
+## stats (48)
+
+### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
+
+Fracture of Worlds governs the Stage names. Verified against source.
+
+> Fracture of Worlds governs the Stage names. Verified against source. I Murmuring · II Welling · III Ascension · IV Flourishing · V Splintering · VI Glory · VII Refraction · VIII Transcendence · IX Invocation · X Realization · XI Dissonance · XII Emanation · XIII Principality · XIV Zenith · XV Revelation · XVI Apex. Ignition and Temper appear nowhere in FOW and are not Stage names. Every card carrying them is wrong.
+
+### R20C-31-SUBSTAT_NAMES_FACULTY_ONLY [Pack Twenty R20C-31]
+
+Sub-Stat names never appear outside a faculty reading.
+
+> Sub-Stat names never appear outside a faculty reading.
+
+### R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD [Pack Twenty R20C-32]
+
+Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+
+> Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
+
+### R20C-33-RESONANT_PAIRS_DIAGNOSTIC [Pack Twenty R20C-33]
+
+Resonant Pair unlocks may be named in diagnostic voice.
+
+> Resonant Pair unlocks may be named in diagnostic voice.
+
+### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
+
+Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists.
+
+> Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists. An estimate is canon on use, carries a derived marker in the Ledger, and a source value beats it on contact, silently.
+
+### R20C-43-LAW_III_DEAD_AND_REPLACED [Pack Twenty R20C-43]
+
+Law III is dead and replaced. Progression follows the sixteen Temperance Stages.
+
+> Law III is dead and replaced. Progression follows the sixteen Temperance Stages. The sixty Wellsprings are what a practitioner draws from, not what they climb. The fourteen in the old text were Archons; someone conflated the lists.
 
 ### R14-2-LOADOUT_MANDATE [Pack Fourteen §2]
 
@@ -5699,7 +6119,31 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## verification (84)
+## verification (88)
+
+### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
+
+The sweep has two tiers. Canon pages get swept — body text, not just titles.
+
+> The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and "Tengeriin"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run.
+
+### R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME [Pack Twenty R20C-27]
+
+A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+
+> A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
+
+### R20C-55-COST_AUDIT_ON_CONTACT [Pack Twenty R20C-55]
+
+The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use.
+
+> The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use.
+
+### R20C-56-RETROACTIVE_FORWARD_ONLY [Pack Twenty R20C-56]
+
+Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
+
+> Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene. The archive is a record.
 
 ### R19-2-WORLD_BREAK_FLAG [Pack Nineteen §2]
 
@@ -6205,7 +6649,85 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (112)
+## worldbuilding (125)
+
+### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
+
+Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
+
+> Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page. The people are the Moto; the crown line is Kōkan. Chuluun Büri is Sonzai, surname dissolved, not translated.
+
+### R20C-2-SATULAGI_STAYS_DEAD [Pack Twenty R20C-2]
+
+Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
+
+> Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place. Confirms R21-4-BURI_LANDLESS_LINES live.
+
+### R20C-6-LINES_FIVE_TO_SEVEN_FUNCTIONS [Pack Twenty R20C-6]
+
+Lines Five to Seven get functions. Shirogane (silver): the mint and the assay — they set what a coin weighs and certify what a bar is.
+
+> Lines Five to Seven get functions. Shirogane (silver): the mint and the assay — they set what a coin weighs and certify what a bar is. Akagane (copper): the forge and the conduit-metal — they cast and seal the housings that carry the Draw, which puts a hand on the tap. Amagiri (rain, mist): the roads and the post — the passes, the way-houses, the runners.
+
+### R20C-9-ANCESTRAL_SEAT_WORKED_CORE [Pack Twenty R20C-9]
+
+What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it. No battle, no plague, no enemy.
+
+> What ruined the ancestral seat: the seat was sited on a Core concentration and the line worked it. No battle, no plague, no enemy. They held the deepest draw anyone ever had, for generations, and the residual saturation Saruul reads there is the day the site gave out under a full household drawing at once. The Moto descend from whoever was standing furthest from the tap. What nobody knows: why that site and no other. Every survey since reads it as ordinary depleted ground. Largest call in the pack.
+
+### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
+
+Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
+
+> Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second. Short-run: managed and corrupt, because the Guild sells renewal honestly. Long-run: predatory and doomed, because the curve bends one way. The Thin Weeks are this arriving early in the periphery.
+
+### R20C-18-COMMONER_DRAW_LEGAL_NOT_PRACTICAL [Pack Twenty R20C-18]
+
+Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay.
+
+> Commoners can buy draw legally and not practically. Metered utility, licensed, priced at a margin the margin cannot pay. Lamps over the pool, none at the thin edge. The tariff is public and technically open to anyone.
+
+### R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL [Pack Twenty R20C-19]
+
+Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date.
+
+> Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date. Telegraph: yes, as a Draw counterpart — Guild line, Guild price, information as licensed commodity. Rail: no — haulage stays animal and water, which keeps the passes and the Amagiri post load-bearing. Photography: no — the counterpart is the fixed-plate impression, slow and Guild-controlled, used for proofing and record. Nobody has a portrait of their mother.
+
+### R20C-20-WELLS_GENERATE_NO_ENTITIES [Pack Twenty R20C-20]
+
+Wells generate no entities. The site is the entire threat.
+
+> Wells generate no entities. The site is the entire threat.
+
+### R20C-23-ORIGIN_STAYS_MYTHIC [Pack Twenty R20C-23]
+
+Origin stays mythic. Mechanism is fully explicable; where it came from is not.
+
+> Origin stays mythic. Mechanism is fully explicable; where it came from is not. The last surviving soft zone.
+
+### R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED [Pack Twenty R20C-25]
+
+The Percussion master-strike table is Dawi-authored in-world.
+
+> The Percussion master-strike table is Dawi-authored in-world.
+
+### R20C-44-RUNECRAFT_VS_SPELLCRAFT_BY_CULTURE [Pack Twenty R20C-44]
+
+Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have.
+
+> Runecraft versus Spellcraft varies by culture. The Dawi rank cutting first and always have. Kharven ranks the man. Stannvaard ranks whichever is licensed. The Zettari rank cutting first, hard.
+
+### R20C-45-GOLDEN_AGE_ACCORD_MISTAKEN [Pack Twenty R20C-45]
+
+The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed.
+
+> The golden age: the Accord is mistaken, and lying about being mistaken. It knows its register is incomplete and enforces it anyway, because the alternative is admitting the catalogue was never closed.
+
+### R20C-48-ZETTARI_THIN_GROUND [Pack Twenty R20C-48]
+
+The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first.
+
+> The Zettari sit on thin ground, and their culture is the discipline of working a poor draw well. Their site was worked longest and gave out first. They are the best smiths in the four quarters because they had to be, and insufferable about it because being best is the only thing that ever compensated them.
 
 ### R19-4-WORLD_ANCHORED_SPEECH [Pack Nineteen §4]
 

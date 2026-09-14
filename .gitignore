@@ -22,3 +22,6 @@ build/mcp_test.log
 
 bot/.bot.log
 build/index/
+
+# Obsidian vault config (the repo can be opened as a vault; the config is personal)
+.obsidian/

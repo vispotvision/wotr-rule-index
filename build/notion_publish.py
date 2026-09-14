@@ -289,18 +289,31 @@ def main() -> int:
     rule_index_id = ensure_rule_index(m, args.dry_run) if any(j[1] == "rule_index" for j in todo) else m.get("_rule_index")
     MAP.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
 
+    unreachable = []
     for n, (rel, parent_key, title, md, h, entry) in enumerate(todo, 1):
         blocks = md_to_blocks(md)
-        if entry:
-            replace_body(entry["page_id"], blocks)
-            pid = entry["page_id"]
-            print(f"  [{n}/{len(todo)}] updated {rel} ({len(blocks)} blocks)")
-        else:
-            parent = {"page_id": {"scene_archive": SCENE_ARCHIVE_ID, "running_pieces": RUNNING_PIECES_ID}.get(parent_key, rule_index_id)}
-            pid = create_page(parent, title, blocks)
-            print(f"  [{n}/{len(todo)}] created {rel} -> {title} ({len(blocks)} blocks)")
+        try:
+            if entry:
+                replace_body(entry["page_id"], blocks)
+                pid = entry["page_id"]
+                print(f"  [{n}/{len(todo)}] updated {rel} ({len(blocks)} blocks)")
+            else:
+                parent = {"page_id": {"scene_archive": SCENE_ARCHIVE_ID, "running_pieces": RUNNING_PIECES_ID}.get(parent_key, rule_index_id)}
+                pid = create_page(parent, title, blocks)
+                print(f"  [{n}/{len(todo)}] created {rel} -> {title} ({len(blocks)} blocks)")
+        except RuntimeError as e:
+            # A page the integration can no longer see (its parent was unshared or moved) must not
+            # stop the rest of the publish; it stays unpublished, its hash unchanged, and is retried
+            # next run. The sync's commit and push still happen.
+            if "404" not in str(e):
+                raise
+            unreachable.append(rel)
+            print(f"  [{n}/{len(todo)}] SKIPPED {rel}: page not reachable (share its parent with the integration)")
+            continue
         m[rel] = {"page_id": pid, "title": title, "hash": h}
         MAP.write_text(json.dumps(m, indent=2, ensure_ascii=False), encoding="utf-8")
+    if unreachable:
+        print(f"{len(unreachable)} file(s) not published: their Notion pages are not shared with the integration")
     return 0
 
 

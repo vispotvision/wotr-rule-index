@@ -58,6 +58,7 @@ Gimbzo:                # eight feet of him; Yhwach register — very deep, dark,
     emotion: Calm and composed, without heat. tone: Flat, level, authoritative, matter-of-fact.
     personality: Blunt, patient, plainspoken, unhurried.
   anchor: build/voices/anchors/Gimbzo      # the three lines of the approved set; line3_deep is the register Isaac liked
+  portray: {pitch_st: -4, formant: 0.88, speed: 0.9, range_factor: 0.75}   # single-narrator mode: how the narrator voices him
   fallback: Gimbzo-cb   # used while the engine is locked (--qwen unlocks it)
   tries: 4
   pitch_st: -1         # the deep register, held for every line
@@ -70,9 +71,11 @@ Darius:                # the Measurewright; Piccolo floor, Vegeta's edge when th
     flat and precise with no lift at the ends of sentences, calm authority with contempt held under control. Speaks quietly;
     never raises his voice. Clear American English, no accent, serious, no warmth.
   anchor: build/voices/anchors/Darius
+  portray: {pitch_st: -2, formant: 0.95, speed: 0.95, range_factor: 0.8}
   fallback: Darius-cb
   tries: 3
 Kizami:                # the Notcher; a neck with too many joints; keeps the record
+  portray: {pitch_st: 2.5, formant: 1.06, speed: 1.08, range_factor: 1.15}
   engine: chatterbox
   model: standard
   ref: build/voices/refs/kizami.wav
@@ -128,3 +131,32 @@ narrator-q:
   anchor: build/voices/anchors/narrator-q
   fallback: narrator-st
   tries: 3
+
+# ONE narrator who reads everything and portrays the characters (Isaac, 13 Sep 2026: "one REALLY good voice").
+# --single --voice narrator-tb: every span is read in this voice in scene order, minute-long takes, and each character's
+# `portray:` shaping is applied to their lines. Brief in the register of a beloved audiobook narrator (words, no clip).
+narrator-tb:
+  engine: qwen
+  instruct: >-
+    gender: Male. pitch: Medium male pitch, generally stable, expressive but never dramatic.
+    speed: Relaxed, conversational pace, unhurried, natural pauses. volume: Conversational, even, intimate.
+    age: Adult, late thirties. clarity: Very high clarity, crisp yet relaxed pronunciation.
+    fluency: Highly fluent, long flowing sentences. accent: General American English.
+    texture: Warm and smooth with a gentle husky grain, rich and rounded, no harshness.
+    emotion: Warm, calm, gently wry. tone: Engaging audiobook storytelling, easygoing, kind, with a sly humour;
+    in dialogue he gives each character a distinct voice — a giant very deep and slow, a judge dry and clipped, a clerk quick and thin.
+    personality: Likeable, wry, patient, self-assured; a versatile narrator who inhabits every character.
+  anchor: build/voices/anchors/narrator-tb
+  fallback: narrator-st
+  tries: 3
+
+# ElevenLabs (build/elevenlabs_backend.py), used only when a render asks for it:
+#   python build/audio_export.py --engine elevenlabs --scene X    /   narrate_scene(scene, engine="elevenlabs")
+# Every speaker goes through this map; a speaker without a line here gets _default. A name
+# from the workspace works as well as an id (--list-eleven prints both). Costs characters
+# on the plan; the local engines above stay the free default. The cloned "Aatrox" voice is
+# a game actor's performance: personal listening only, never a render on the public route.
+_elevenlabs:
+  _model: eleven_multilingual_v2
+  _default: George - Warm, Captivating Storyteller
+  narrator: George - Warm, Captivating Storyteller

@@ -1374,9 +1374,12 @@ def cast_scene(scene: str, script: str) -> str:
 
 
 @server.tool()
-def narrate_scene(scene: str, voice: str = "narrator") -> str:
-    """Render one scene of the archive to an MP3 with the local narrator (build/audio_export.py), in the
-    background on Isaac's PC. `scene` is a scene file name or title (or a unique part of one). If the
+def narrate_scene(scene: str, voice: str = "narrator", engine: str = "local") -> str:
+    """Render one scene of the archive to an MP3, in the background on Isaac's PC (build/audio_export.py).
+    `engine`: "local" (Kokoro/Chatterbox/Qwen, free) or "elevenlabs" (every speaker through the
+    _elevenlabs map in build/voices.yaml; costs characters on Isaac's ElevenLabs plan, so ask him which
+    he wants before choosing it — the reply states the character count). ElevenLabs renders are
+    named *-eleven and sit beside the local ones. `scene` is a scene file name or title (or a unique part of one). If the
     scene has a cast file (cast_scene), every tagged speaker gets their own voice from build/voices.yaml
     and `voice` sets only the narrator; otherwise `voice` reads the whole scene — a built-in Kokoro voice,
     a voices.yaml name, a custom style file in build/voices/, or a blend like "af_heart:0.6,bm_george:0.4".
@@ -1394,15 +1397,25 @@ def narrate_scene(scene: str, voice: str = "narrator") -> str:
     running = [j for j in jobs if _job_state(j) == "running"]
     job_id = datetime.now().strftime("%Y%m%d-%H%M%S")
     log = ROOT / "build" / f".narrate-{job_id}.log"
-    cmd = [PY, str(ROOT / "build" / "audio_export.py"), "--scene", path.name, "--voice", voice, "--out", str(audio_dir)]
+    engine = (engine or "local").strip().lower()
+    if engine not in ("local", "elevenlabs"):
+        return f"engine must be 'local' or 'elevenlabs', not {engine!r}."
+    if engine == "elevenlabs" and PUBLIC["token"]:
+        # the shared connector may burn Isaac's CPU, not his ElevenLabs plan
+        return "The ElevenLabs engine is not available over the shared connector; ask Isaac to render it from his desk."
+    cmd = [PY, str(ROOT / "build" / "audio_export.py"), "--scene", path.name, "--voice", voice, "--out", str(audio_dir), "--engine", engine]
     flags = subprocess.CREATE_NEW_PROCESS_GROUP | getattr(subprocess, "CREATE_NO_WINDOW", 0) if sys.platform == "win32" else 0
     with open(log, "w", encoding="utf-8") as lf:
         subprocess.Popen(cmd, cwd=ROOT, env=_env(), stdout=lf, stderr=subprocess.STDOUT, creationflags=flags)
-    jobs.append({"id": job_id, "scene": path.name, "voice": voice, "log": str(log), "started": datetime.now().isoformat(timespec="seconds"), "words": words})
+    jobs.append({"id": job_id, "scene": path.name, "voice": voice, "engine": engine, "log": str(log), "started": datetime.now().isoformat(timespec="seconds"), "words": words})
     JOBS_FILE.write_text(json.dumps(jobs[-40:], indent=1), encoding="utf-8")
     note = f" ({len(running)} other render(s) still running; they share the CPU)" if running else ""
     has_cast = (ROOT / "scenes" / "cast" / f"{path.stem}.cast.md").exists()
     how = f"with its cast file (narrator voice {voice!r})" if has_cast else f"in one voice, {voice!r}"
+    if engine == "elevenlabs":
+        chars = len(path.read_text(encoding="utf-8", errors="replace"))
+        how += f" on ElevenLabs (about {chars:,} characters billed to the plan)"
+        est = words / 8
     return (f"Rendering {path.name} {how} — job {job_id}, about {words:,} words, "
             f"roughly {est/60:.0f} min to render{note}. Output folder: {audio_dir}. "
             f"Ask narration_status in a few minutes for the link. An unchanged scene already rendered with the same voices is skipped, not re-made.")
@@ -1498,7 +1511,7 @@ def with_token_gate(app, token: str, mount: str = "/mcp"):
         return hmac.compare_digest(a.encode("utf-8"), b.encode("utf-8"))
 
     def _log(scope, path: str, verdict: str) -> None:
-        shown = re.sub(r"^/t/[^/]+", "/t/<token>", path)
+        shown = re.sub(r"/t/[^/]+", "/t/<token>", path)  # anywhere in the path: OAuth discovery probes embed it too
         client = (scope.get("client") or ("?",))[0]
         print(f"{datetime.now().isoformat(timespec='seconds')} {client} {scope.get('method', '?')} {shown} {verdict}", flush=True)
 

@@ -359,6 +359,7 @@ class Speaker:
         self.instruct, self.anchor, self.tries, self.good_enough, self.batch = "", "", 1, 0.6, 8
         self.pitch_st, self.formant, self.range_factor, self.seed = 0.0, 1.0, 1.0, None
         self.temperature = self.top_k = self.top_p = self.repetition_penalty = self.subtalker_temperature = None
+        self.portray: dict = {}     # single-narrator mode: how the narrator's voice is bent for this character (pitch_st, formant, speed, range_factor, gain)
 
 
 class Cast:
@@ -376,12 +377,48 @@ class Cast:
         self.speakers = {"narrator": self._build("narrator", self.raw.get(narrator_spec, narrator_spec))}
         self.unassigned: list[str] = []
         self.chatterbox = None
+        # single-narrator mode: one voice reads everything and portrays the characters (voices.yaml `_single: true`,
+        # or --single); only meaningful when the narrator is on the Qwen engine
+        self.single = bool(self.raw.get("_single", False)) or SINGLE["on"]
 
     def _build(self, name: str, entry) -> Speaker:
+        if ELEVEN["on"]:
+            sp = self._eleven(name, entry)
+            if sp is not None:
+                return sp
+        sp = self._build_engine(name, entry)
+        if isinstance(entry, dict) and isinstance(entry.get("portray"), dict):
+            sp.portray = {k: float(v) for k, v in entry["portray"].items()}
+        return sp
+
+    def _eleven(self, name: str, entry) -> Speaker | None:
+        """--engine elevenlabs: the speaker's line in `_elevenlabs:` (or their entry's own `eleven:`),
+        else the map's `_default`; a speaker with neither keeps their local voice and is reported."""
+        emap = self.raw.get("_elevenlabs") or {}
+        spec = (entry.get("eleven") if isinstance(entry, dict) else None) or emap.get(name) or emap.get("_default")
+        if not spec:
+            ELEVEN["used"].append(f"{name} -> local (no _elevenlabs line, no _default)")
+            return None
+        settings = spec if isinstance(spec, dict) else {"voice_id": spec}
+        sp = self._eleven_speaker(name, settings, emap)
+        ELEVEN["used"].append(f"{name} -> {settings.get('voice_id')}" + ("" if name in emap or (isinstance(entry, dict) and entry.get("eleven")) else " (_default)"))
+        return sp
+
+    def _eleven_speaker(self, name: str, entry: dict, emap: dict | None = None) -> Speaker:
+        from elevenlabs_backend import resolve_voice   # build/elevenlabs_backend.py
+        sp = Speaker(name, "elevenlabs", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)))
+        sp.voice_id = resolve_voice(entry.get("voice_id") or entry.get("voice") or "")
+        sp.model_id = str(entry.get("model") or (emap or {}).get("_model") or "")
+        sp.stability, sp.similarity, sp.style_ex = float(entry.get("stability", 0.5)), float(entry.get("similarity", 0.75)), float(entry.get("style", 0.0))
+        return sp
+
+    def _build_engine(self, name: str, entry) -> Speaker:
         if isinstance(entry, str):
             style, pack = voice_style(self.engine, entry, self.presets)
             return Speaker(name, "kokoro", style, pack=pack)
         eng = str(entry.get("engine", "kokoro")).lower()
+        if eng == "elevenlabs":
+            return self._eleven_speaker(name, entry, self.raw.get("_elevenlabs") or {})
         if eng == "chatterbox":
             return Speaker(name, "chatterbox", None, float(entry.get("speed", 1.0)), float(entry.get("gain", 1.0)),
                            str(entry.get("ref", "")), float(entry.get("exaggeration", 0.5)), float(entry.get("cfg", 0.5)),
@@ -428,7 +465,8 @@ class Cast:
             if who in self.raw and not who.startswith("_"):
                 self.speakers[who] = self._build(who, self.raw[who])
             else:
-                self.speakers[who] = self._pool_pick(who)
+                sp = self._eleven(who, {}) if ELEVEN["on"] else None   # an unassigned speaker still gets the map's _default
+                self.speakers[who] = sp or self._pool_pick(who)
         return self.speakers[who]
 
 
@@ -443,16 +481,21 @@ def casting_instruct(name: str) -> str:
         return ""
 
 
-def shape_span(sp: Speaker, samples: np.ndarray, speed: float) -> np.ndarray:
-    """Exact pace / pitch / body for engines without a knob (Qwen): build/voice_shape.py."""
+def shape_span(sp: Speaker, samples: np.ndarray, speed: float, portray: dict | None = None) -> np.ndarray:
+    """Exact pace / pitch / body for engines without a knob (Qwen): build/voice_shape.py. In single-narrator
+    mode `portray` (the character's entry) is composed on top of the narrator's own shaping."""
     if sp.engine != "qwen":
         return samples
     import voice_shape
-    return voice_shape.shape(samples, SAMPLE_RATE, speed=speed, pitch_st=sp.pitch_st, formant=sp.formant, range_factor=sp.range_factor)
+    p = portray or {}
+    return voice_shape.shape(samples, SAMPLE_RATE, speed=speed * p.get("speed", 1.0), pitch_st=sp.pitch_st + p.get("pitch_st", 0.0),
+                             formant=sp.formant * p.get("formant", 1.0), range_factor=sp.range_factor * p.get("range_factor", 1.0))
 
 
 CHECK = {"on": True, "threshold": 0.25, "retakes": 0, "worst": []}   # read-back check for generative spans
 QWEN = {"allowed": False, "fallbacks": []}     # the design engine is off unless --qwen is given on the command line
+SINGLE = {"on": False}                          # --single: one narrator voice reads every span and portrays the characters
+ELEVEN = {"on": False, "used": []}              # --engine elevenlabs: every speaker goes through voices.yaml's _elevenlabs map
 
 
 def read_back(sp: Speaker, text: str, samples: np.ndarray, retake) -> np.ndarray:
@@ -474,6 +517,9 @@ def read_back(sp: Speaker, text: str, samples: np.ndarray, retake) -> np.ndarray
 
 
 def render_span(cast: Cast, sp: Speaker, text: str, speed: float, mods: list[str] | None = None) -> np.ndarray:
+    if sp.engine == "elevenlabs":
+        from elevenlabs_backend import synth as eleven_synth   # build/elevenlabs_backend.py
+        return eleven_synth(cast, sp, strip_cues(text), speed)
     if sp.engine == "qwen":
         from qwen_backend import synth as qwen_synth   # build/qwen_backend.py
         samples = qwen_synth(cast, sp, text, speed, mods)
@@ -538,13 +584,14 @@ def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
     handful of draws, and the voice cannot wander between the lines of a take. Spans with a cue,
     a whisper, or a different direction get their own take. Results are handed back to
     synth_scene by (block, span) index, each span shaped afterwards."""
-    rows = []                                          # (bi, i, text, mods, who, clean, instruct, exempt) in scene order
+    single = cast.single and cast.speaker("narrator").engine == "qwen"
+    rows = []                                          # (bi, i, text, mods, who) in scene order
     for bi, (kind, spans) in enumerate(script):
         if kind == "divider":
             continue
         for i, (who, text, mods) in enumerate(spans):
             sp = cast.speaker(who)
-            if sp.engine != "qwen":
+            if sp.engine != "qwen" and not single:
                 continue
             rows.append((bi, i, respell(text, lexicon), list(mods), who))
     if not rows:
@@ -552,14 +599,18 @@ def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
     import qwen_backend as Q
     import audio_align
     # group: a speaker's spans in scene order, same instruct (direction), no exemption, up to JOIN_CHARS per take —
-    # whatever other speakers say in between; each piece goes back to its own place afterwards
+    # whatever other speakers say in between; each piece goes back to its own place afterwards.
+    # Single-narrator mode: EVERY span in scene order, one voice, one brief; delivery tags become shaping only,
+    # so a take is never broken by a tag, and the dialogue is read in its context like a real narrator reads it.
     takes: list[list] = []
     open_take: dict[tuple, list] = {}
     for bi, i, text, mods, who in rows:
-        sp = cast.speaker(who)
-        instruct, clean, exempt = Q.instruct_for(sp, mods, text)
+        sp = cast.speaker("narrator") if single else cast.speaker(who)
+        instruct, clean, exempt = Q.instruct_for(sp, [] if single else mods, text if not single else strip_cues(text))
+        if single:
+            exempt = False
         item = (bi, i, text, mods, who, clean, instruct, exempt)
-        key = (who, instruct)
+        key = ("*", instruct) if single else (who, instruct)
         cur = None if exempt else open_take.get(key)
         if cur is not None and sum(len(r[5]) + 1 for r in cur) + len(clean) <= JOIN_CHARS:
             cur.append(item)
@@ -569,18 +620,19 @@ def qwen_prepass(cast: Cast, script, speed: float, lexicon) -> dict:
                 open_take[key] = takes[-1]
     done = {}
     for take in takes:
-        who, instruct, exempt = take[0][4], take[0][6], take[0][7]
-        sp = cast.speaker(who)
+        instruct, exempt = take[0][6], take[0][7]
+        gen = cast.speaker("narrator") if single else cast.speaker(take[0][4])
         texts = [_ends_sentence(r[5]) for r in take]
         joined = " ".join(texts)
-        x = Q.synth_lines(sp, [joined], instruct, [exempt])[0]
-        x = read_back(sp, joined, x, lambda: Q.synth_lines(sp, [joined], instruct, [exempt])[0])
+        x = Q.synth_lines(gen, [joined], instruct, [exempt])[0]
+        x = read_back(gen, joined, x, lambda: Q.synth_lines(gen, [joined], instruct, [exempt])[0])
         pieces = audio_align.split(x, SAMPLE_RATE, texts) if len(take) > 1 else [x]
-        for (bi, i, text, mods, *_), piece in zip(take, pieces):
-            sp_speed = speed * sp.speed
+        for (bi, i, text, mods, who, *_), piece in zip(take, pieces):
+            sp_speed = speed * gen.speed
             for w in mods:
                 sp_speed *= DELIVERY[w][0]
-            done[(bi, i)] = shape_span(sp, piece, sp_speed)
+            portray = cast.speaker(who).portray if single and who != "narrator" else None
+            done[(bi, i)] = shape_span(gen, piece, sp_speed, portray)
     Q.REPORT["takes"] = Q.REPORT.get("takes", 0) + len(takes)
     return done
 
@@ -650,6 +702,10 @@ def main() -> int:
     ap.add_argument("--first", type=int, default=0, metavar="N", help="render only the first N paragraphs of each scene (an audition cut; output named *-first<N>)")
     ap.add_argument("--qwen", action="store_true", help="unlock the Qwen design engine (it still drifts between takes; off for everyone until fixed — "
                                                         "speakers on it fall back to their `fallback:` entry or a pool voice)")
+    ap.add_argument("--engine", default="local", choices=["local", "elevenlabs"],
+                    help="elevenlabs: every speaker through voices.yaml's _elevenlabs map (build/elevenlabs_backend.py; costs characters); output named *-eleven")
+    ap.add_argument("--list-eleven", action="store_true", help="list the ElevenLabs workspace voices and stop")
+    ap.add_argument("--single", action="store_true", help="single-narrator mode: --voice reads every span and portrays the characters (their `portray:` shaping)")
     ap.add_argument("--fetch-model", action="store_true")
     ap.add_argument("--pack", default="v1.0", choices=list(PACKS), help="with --fetch-model: which Kokoro pack (zh = v1.1-zh, 103 more voices)")
     ap.add_argument("--list-voices", action="store_true")
@@ -664,6 +720,13 @@ def main() -> int:
         return 0
     CHECK["on"] = not a.no_check
     QWEN["allowed"] = bool(a.qwen)
+    SINGLE["on"] = bool(a.single)
+    ELEVEN["on"] = a.engine == "elevenlabs"
+    if a.list_eleven:
+        from elevenlabs_backend import list_voices
+        for v in list_voices():
+            print(f"  {v['voice_id']}  {v['name']}  ({v['category']})")
+        return 0
     if a.say:
         import soundfile as sf
         engine = load_engine()
@@ -749,8 +812,10 @@ def main() -> int:
             blocks = blocks[:a.first]
             script = script[:a.first] if script else None
             key += f"-first{a.first}"
+        if ELEVEN["on"]:
+            key += "-eleven"
         voices_hash = hashlib.sha256(json.dumps(load_voices_yaml(), sort_keys=True, default=str).encode()).hexdigest()[:8]
-        h = hashlib.sha256((json.dumps(blocks) + json.dumps(script) + a.voice + str(a.speed) + lex_hash + voices_hash).encode("utf-8")).hexdigest()[:16]
+        h = hashlib.sha256((json.dumps(blocks) + json.dumps(script) + a.voice + str(a.speed) + lex_hash + voices_hash + a.engine).encode("utf-8")).hexdigest()[:16]
         target = folder / key
         ext = ".wav" if a.wav else ".mp3"
         if not a.force and manifest.get(key) == h and target.with_suffix(ext).exists():
@@ -774,6 +839,8 @@ def main() -> int:
         voices_note = f", {len(speakers(script))} voices" if script else ""
         print(f"  {path.name}: {words:,} words -> {mins:.1f} min audio in {time.time()-t0:.0f}s{voices_note}", flush=True)
         written += 1
+    if ELEVEN["used"]:
+        print("elevenlabs voices: " + "; ".join(sorted(set(ELEVEN["used"]))))
     if QWEN["fallbacks"]:
         print("qwen engine is locked (--qwen unlocks it); these speakers used their fallback: " + "; ".join(sorted(set(QWEN["fallbacks"]))))
     if cast_voices.unassigned:

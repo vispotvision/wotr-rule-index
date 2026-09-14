@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T11:09:00.000Z"
+last_edited: "2026-09-14T02:47:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,19 +60,19 @@ verification: "unverified"
 ## IV · Primary Stats
 
 **Temperance Stage** · **XII — Emanation.** **Level** · 385. **Level Band** · IV — Mythic. **Coherence Band** · S. **Grade** · SSS. **Ceiling** · 950.
-> **The point economy, worked.** Bands I–III contribute 7,500. Band IV at 35 per level across 301–385 contributes 2,975. Threshold bonuses for Stages I through XII at Stage × 100 contribute 7,800.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–385 contributes 1,785. Threshold bonuses for Stages I through XII contribute 7,800, Stage I counting (R39-3). Total: 14,085.
 >
-> **Total lifetime pool: 18,275.** Allocated: 18,275.
+> **Total lifetime pool: 14,085.** Allocated: 14,131. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Vitality** | **856** | SSS | Holy Physiology, and it is a real number rather than a description |
-| **Resilience** | 840 | SSS | He is not moved |
-| **Ardency** | 828 | SSS | One strike. He does not need volume of fire |
-| **Dominion** | 800 | SSS | The field that reorganises a room |
-| **Tempering** | 720 | SS | Stage XII compression, expressed |
-| **Harmonics** | 650 | SS | Sound |
-| **Dexterity** | 548 | S | Siege-class. He arrives rather than moves |
-| **Gnosis** | **520** | S | **His floor, and it is doctrinally significant.** He concludes rather than investigates |
+| **Vitality** | **660** | SS | Holy Physiology, and it is a real number rather than a description |
+| **Resilience** | 647 | SS | He is not moved |
+| **Ardency** | 638 | SS | One strike. He does not need volume of fire |
+| **Dominion** | 617 | SS | The field that reorganises a room |
+| **Tempering** | 555 | SS | Stage XII compression, expressed |
+| **Harmonics** | 501 | S | Sound |
+| **Dexterity** | 422 | S | Siege-class. He arrives rather than moves |
+| **Gnosis** | **401** | S | **His floor, and it is doctrinally significant.** He concludes rather than investigates |
 
 **Path alignment** · **Attraction Path dominant, Body Path secondary.** Derived: Radiance, Pressure, Oath, Radius and Attunement are Attraction-gated; Fortitude, Absorption, Penetration, Threshold, Resistance, Density and Ossification are Body-gated.
 
@@ -80,21 +80,21 @@ verification: "unverified"
 
 ## V · Sub-Stat Peaks
 
-**Ardency Radiance 950** · Attraction VII · **at ceiling.** The highest value on the sheet, and the correct one.
-**Vitality Fortitude 936** · Body III. **Dominion Pressure 921** · Attraction VI.
-**Resilience Oath 903** · Attraction IV. *The vow, load-bearing and quantified.*
-**Vitality Absorption 887** · Body III. **Ardency Penetration 869** · Body III.
-**Resilience Immunity 852** · open. **Dominion Radius 834** · Attraction V.
-**Vitality Threshold 816** · Body IV. **Tempering Resistance 798** · Body IV.
-**Harmonics Attunement 781** · Attraction II. **Ardency Density 763** · Body IV.
-**Vitality Ossification 745** · Body IV. **Ardency Compression 660** · open.
+**Ardency Radiance 732** · Attraction VII · **at ceiling.** The highest value on the sheet, and the correct one.
+**Vitality Fortitude 721** · Body III. **Dominion Pressure 710** · Attraction VI.
+**Resilience Oath 696** · Attraction IV. *The vow, load-bearing and quantified.*
+**Vitality Absorption 684** · Body III. **Ardency Penetration 670** · Body III.
+**Resilience Immunity 657** · open. **Dominion Radius 643** · Attraction V.
+**Vitality Threshold 629** · Body IV. **Tempering Resistance 615** · Body IV.
+**Harmonics Attunement 602** · Attraction II. **Ardency Density 588** · Body IV.
+**Vitality Ossification 574** · Body IV. **Ardency Compression 509** · open.
 > **Three caps, and together they rewrite what kind of protection he actually has.**
 >
-> **Resilience Ward · 175 · capped at C-Grade.** Requires Spirit Path at Stage III.
-> **Gnosis Warding · 275 · capped at B-Grade.** Requires Spirit Path at Stage IV.
-> **Dominion Sovereignty · 400 · capped at A-Grade.** Requires Fate Path at Stage VI.
+> **Resilience Ward · 135 · capped at C-Grade.** Requires Spirit Path at Stage III.
+> **Gnosis Warding · 212 · capped at B-Grade.** Requires Spirit Path at Stage IV.
+> **Dominion Sovereignty · 308 · capped at A-Grade.** Requires Fate Path at Stage VI.
 >
-> **Ignatius has no arcane warding worth the name.** His Ward sits at C-Grade against a Vitality of SSS — **five full Tier Grades apart.** The Blessing of Sanctity is not a shield in the ordinary sense at all. It is Attraction Force at Radiance 950 and an Oath at 903, and what it does is make hostile working *unwelcome* rather than *blocked.*
+> **Ignatius has no arcane warding worth the name.** His Ward sits at C-Grade against a Vitality of SSS — **five full Tier Grades apart.** The Blessing of Sanctity is not a shield in the ordinary sense at all. It is Attraction Force at Radiance 732 and an Oath at 903, and what it does is make hostile working *unwelcome* rather than *blocked.*
 >
 > *A practitioner who ignores the presence entirely and simply cuts at him meets a very durable man with almost no ward. The Order has never published this and the Enforcement Division worked it out independently in about a decade.*
 
@@ -102,9 +102,9 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 828, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
-**Lifting Strength** · Vitality 856, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
-**Speed** · Dexterity 548, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *The legacy sheet's Mach 290 sustained sits inside S-Grade and is consistent; the Mach 610 burst is SS-Grade and only reachable under the Flare.*
+**Strike Force** · Ardency 638, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
+**Lifting Strength** · Vitality 660, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
+**Speed** · Dexterity 422, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *The legacy sheet's Mach 290 sustained sits inside S-Grade and is consistent; the Mach 610 burst is SS-Grade and only reachable under the Flare.*
 
 ---
 
@@ -138,7 +138,7 @@ White plate over interlocking gold filigree, the Sol Invictus sigil at the breas
 
 ## X · Open Rulings
 
-- **Essence Capacity 6.5 million EU, Flux Density 7.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.
+- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.
 - **"Archon Judger"** — Judicium is a Wellspring, and the Archons are the fourteen. Whether Sanctum Lux's Judger is an Archon by name wants confirming.
 - **The Eclipse Wars**, **the Sanctified Legion of Sol Invictus**, **the Solar Concordat**, **Tier IV Aetherion** appear only in the legacy sheet.
 - **Vaelen Mourcrix** is named as his counterpart and is presumably the Volume IV sheet *The Exculpate Arbiter.* **The two should be built as a matched pair** — one weighs, one concludes — and neither reads properly alone.

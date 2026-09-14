@@ -1,0 +1,42 @@
+# Standing ruling, originated: no source document. Isaac ruled directly on
+# 2026-09-13 in Claude Code, closing CONFLICTS.md C-015 (Pack Twenty's
+# psychic-distance bands against R35-2's narration registers). The record is
+# the "C-015 closed" entry in RULINGS.md; the verbatim quotes it. R41 is the
+# next free id-numeral bucket. Standalone-ruling pattern: empty source.file.
+pack: Distance Two Axes Ruling
+pack_number: null
+source_file: ""
+ratified: "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-015)"
+rules:
+
+  - id: R41-1-DISTANCE_IS_TWO_AXES
+    pack: Distance Two Axes Ruling
+    pack_number: null
+    section: "C-015"
+    title: Narration register and psychic-distance band are two axes, read together
+    status: live
+    kind: definition
+    summary: >-
+      R35-2's register (close, medium, distant/formal) says whose idiom the
+      narration runs in; Pack Twenty's band (1 to 5) says how deep inside the
+      POV it sits. Both assignments stand and neither trades off the other:
+      Cozbi runs distant/formal at band 5.
+    verbatim: >-
+      Both stand as two axes. R35-2's narration register says whose idiom the
+      narration runs in (close, medium, distant/formal); Pack Twenty's
+      psychic-distance band (1 most distant, 5 deepest interior) says how deep
+      inside the POV the narration sits. They are read together, never traded
+      off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration
+      becomes him, in a formal register. No row struck.
+    amends:
+      - guide: "WOTR_Scene_Writing_Process_Guide.md"
+        locus: "narration distance"
+        operation: extends
+    supersedes: []
+    applies_to: [pov, prose-law]
+    verification: []
+    ratified: "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-015)"
+    source:
+      file: ""
+      lines: null
+    notes: Closes CONFLICTS.md C-015. R35-2 and R20C-PD-PSYCHIC_DISTANCE_BANDS both stay live.

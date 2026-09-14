@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-811b-9988-d81970b1c19f"
 notion_url: "https://app.notion.com/p/Sinclair-Mercer-The-Soul-Devourer-3bd58200eb22811b9988d81970b1c19f"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T17:10:00.000Z"
+last_edited: "2026-09-14T02:45:00.000Z"
 verification: "unverified"
 ---
 
@@ -65,19 +65,19 @@ verification: "unverified"
 **Temperance Stage** · **XI — Dissonance.** *Originated, and the fit is exact.* The Sixteen Stages records that practitioners **trapped in** Dissonance rather than passing through it are the most dangerous individuals in the four quarters by a wide margin, because they hold SS-Grade output organised around an unresolved contradiction **and no structural reason to stop.** That is Sinclair described without reference to him.
 **Level Band** · IV — Mythic · **Coherence Band** · S · **Level** · 338 · **Grade** · SS, fracture risk above 700 · **Stat ceiling** · 750, structurally unstable.
 *The two Band figures are different axes and both are correct. Level Band IV covers levels 301–400; Coherence Band S is what Stage XI reads on the ladder.*
-> **The point economy, worked.** Bands I–III complete contribute 7,500. Band IV at 35 per level across levels 301–338 contributes 1,330. Threshold bonuses for Stages I through XI, at Stage number × 100, contribute 6,600.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–338 contributes 798. Threshold bonuses for Stages I through XI contribute 6,600, Stage I counting (R39-3). Total: 11,898.
 > <empty-block/
-> **Total lifetime pool: 15,430.** Allocated below: 15,262. Unspent: 168.
+> **Total lifetime pool: 11,898.** Allocated below: 11,768. Unspent: 130. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 15,430).*
 | Primary Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Resilience** | **742** | SS | **Above the 700 fracture line and held there.** The stat that carries him and the stat that is killing him |
-| **Gnosis** | 698 | SS | Sitting just under the line, and not by accident |
-| **Harmonics** | 671 | SS | High, and what it is harmonised to is other people |
-| **Dominion** | 640 | SS | Carried by the Domain rather than natively developed |
-| **Ardency** | 604 | SS | Low-mid SS. He does not win on output |
-| **Tempering** | 558 | SS | Bottom of the band. **He does not metabolise what he takes** |
-| **Dexterity** | 490 | S | A full Grade below his peaks |
-| **Vitality** | **426** | S | **Two Grades below his Resilience.** The exploitable gap, and the reason he has twice been badly hurt by opponents well beneath him |
+| **Resilience** | **572** | SS | **Above the 700 fracture line and held there.** The stat that carries him and the stat that is killing him |
+| **Gnosis** | 538 | S | Sitting just under the line, and not by accident |
+| **Harmonics** | 517 | S | High, and what it is harmonised to is other people |
+| **Dominion** | 494 | S | Carried by the Domain rather than natively developed |
+| **Ardency** | 466 | S | Low-mid SS. He does not win on output |
+| **Tempering** | 430 | S | Bottom of the band. **He does not metabolise what he takes** |
+| **Dexterity** | 378 | A | A full Grade below his peaks |
+| **Vitality** | **328** | A | **Two Grades below his Resilience.** The exploitable gap, and the reason he has twice been badly hurt by opponents well beneath him |
 
 **Path alignment** · **Fate Path dominant, Spirit Path secondary.** This is derived rather than chosen: Severance, Continuity, Nullity, Persistence and Sovereignty are all Fate-gated at Stage VIII or below, and Memory, Warding, Diagnosis, Coherence, Spectral, Suppression and Processing are all Spirit-gated. *A build shaped like his cannot exist on any other Path pairing.*
 > **Ruled, 2026-09-12: Obsession Force satisfies an Attraction Path gate.** Three of his Sub-Stats — **Dexterity Silence, Ardency Depth, Tempering Capacity** — clear **Attraction Path** commitment through Obsession Force and hold at the values below.
@@ -92,22 +92,22 @@ verification: "unverified"
 
 | Sub-Stat | Value | Gate | Note |
 |---|---|---|---|
-| **Resilience Severance** | **750** | Fate VIII | **At ceiling.** Dissolution, expressed as a number. Nothing he touches stays bound |
-| **Resilience Continuity** | 738 | Fate VII | Vantabriel. **He persists by carrying, not by recovering** |
-| **Resilience Nullity** | 724 | Fate VIII | One of the three subs that only reach true ceiling through Dissonance |
-| **Harmonics Memory** | 716 | Spirit III | **The most uncomfortable line on the sheet.** What his Harmonics remember is not his |
-| **Gnosis Cognition** | 705 | open | Over the line. He is thinking with more than one mind |
-| **Ardency Depth** | 688 | *Attraction IV* | **Gate cleared** — confirmed by the Obsession ruling above |
-| **Gnosis Warding** | 681 | Spirit IV | Why compulsion and erasure find no clean surface on him |
-| **Tempering Capacity** | 664 | *Attraction V* | **Gate cleared.** Also the hard ceiling on how many harmonisations he can hold |
-| **Dominion Sovereignty** | 652 | Fate VI | The Unwritten Grave stands on this |
-| **Gnosis Diagnosis** | 640 | Spirit IV | He reads a Crystal's damage before its owner feels it |
-| **Resilience Coherence** | 628 | Spirit III | Holding a fractured Core together at all |
-| **Ardency Spectral** | 611 | Spirit V | Oneirion-adjacent reach without the harmonisation |
-| **Dexterity Silence** | 596 | *Attraction V* | **Gate cleared.** Tenebra, expressed. The load-bearing one |
-| **Harmonics Suppression** | 584 | Spirit V | Quieter than the background |
-| **Tempering Processing** | 546 | Spirit V | **Low, deliberately.** He has no mechanism for digesting what he takes and has never sought one |
-| **Resilience Persistence** | 510 | Fate V | The lowest of his Resilience spread |
+| **Resilience Severance** | **578** | Fate VIII | **At ceiling.** Dissolution, expressed as a number. Nothing he touches stays bound |
+| **Resilience Continuity** | 569 | Fate VII | Vantabriel. **He persists by carrying, not by recovering** |
+| **Resilience Nullity** | 558 | Fate VIII | One of the three subs that only reach true ceiling through Dissonance |
+| **Harmonics Memory** | 552 | Spirit III | **The most uncomfortable line on the sheet.** What his Harmonics remember is not his |
+| **Gnosis Cognition** | 544 | open | Over the line. He is thinking with more than one mind |
+| **Ardency Depth** | 531 | *Attraction IV* | **Gate cleared** — confirmed by the Obsession ruling above |
+| **Gnosis Warding** | 525 | Spirit IV | Why compulsion and erasure find no clean surface on him |
+| **Tempering Capacity** | 512 | *Attraction V* | **Gate cleared.** Also the hard ceiling on how many harmonisations he can hold |
+| **Dominion Sovereignty** | 503 | Fate VI | The Unwritten Grave stands on this |
+| **Gnosis Diagnosis** | 494 | Spirit IV | He reads a Crystal's damage before its owner feels it |
+| **Resilience Coherence** | 484 | Spirit III | Holding a fractured Core together at all |
+| **Ardency Spectral** | 471 | Spirit V | Oneirion-adjacent reach without the harmonisation |
+| **Dexterity Silence** | 460 | *Attraction V* | **Gate cleared.** Tenebra, expressed. The load-bearing one |
+| **Harmonics Suppression** | 450 | Spirit V | Quieter than the background |
+| **Tempering Processing** | 421 | Spirit V | **Low, deliberately.** He has no mechanism for digesting what he takes and has never sought one |
+| **Resilience Persistence** | 393 | Fate V | The lowest of his Resilience spread |
 
 > **Six stats sit above 700**, which is the Stage XI fracture line: Resilience, Severance, Continuity, Nullity, Harmonics Memory and Gnosis Cognition.
 >
@@ -117,9 +117,9 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 604, low-mid SS-Grade. Roughly **30 TN peak contact force, on the order of 80 TJ energy yield, near 20 kilotons equivalent.** Town-level destructive capacity, which he almost never expresses as destruction because his delivery is severance rather than impact.
-**Lifting Strength** · Vitality 426, low S-Grade. **On the order of 60 million tonnes sustained.** Real, and irrelevant to how he fights.
-**Speed** · Dexterity 490, S-Grade. Travel in the region of **15,000 m/s**; reaction between **0.05 and 0.2 milliseconds.**
+**Strike Force** · Ardency 466, low-mid SS-Grade. Roughly **30 TN peak contact force, on the order of 80 TJ energy yield, near 20 kilotons equivalent.** Town-level destructive capacity, which he almost never expresses as destruction because his delivery is severance rather than impact.
+**Lifting Strength** · Vitality 328, low S-Grade. **On the order of 60 million tonnes sustained.** Real, and irrelevant to how he fights.
+**Speed** · Dexterity 378, A-Grade. Travel in the region of **15,000 m/s**; reaction between **0.05 and 0.2 milliseconds.**
 > **The exploitable asymmetry.** His Resilience sits at 742 and his Vitality at 426 — **a full two Tier Grades apart.**
 >
 > The differential rule cuts both ways. Against anything addressed to his soul he is untouchable. Against a B-Grade professional in good plate who closes fast and keeps closing, **he is a man with S-Grade Vitality being hit**, and the Grade gap that protects him is doing no work at all.

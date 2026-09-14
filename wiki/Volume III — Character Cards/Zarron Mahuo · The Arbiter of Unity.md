@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81b7-89cc-eff29441be46"
 notion_url: "https://app.notion.com/p/Zarron-Mahuo-The-Arbiter-of-Unity-3bd58200eb2281b789cceff29441be46"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T21:13:00.000Z"
+last_edited: "2026-09-14T02:46:00.000Z"
 verification: "unverified"
 ---
 
@@ -57,19 +57,19 @@ verification: "unverified"
 ## IV · Primary Stats
 
 **Temperance Stage** · **X — Realization.** **Level** · 290. **Level Band** · III — Sovereign. **Coherence Band** · A. **Grade** · SS. **Ceiling** · 725. **η** · 0.75–0.80, per the Band A range.
-> **The point economy, worked.** Bands I–II complete contribute 4,500. Band III at 30 per level across 201–290 contributes 2,700. Threshold bonuses for Stages I through X at Stage × 100 contribute 5,500.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–290 contributes 1,620. Threshold bonuses for Stages I through X contribute 5,500, Stage I counting (R39-3). Total: 9,820.
 >
-> **Total lifetime pool: 12,700.** Allocated: 12,638. Unspent: 62.
+> **Total lifetime pool: 9,820.** Allocated: 9,771. Unspent: 49. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 12,700).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Dominion** | 702 | SS | His highest, and the only Volume III sheet where Dominion leads |
-| **Harmonics** | 681 | SS | Transference. **The stat that makes him useful to other people** |
-| **Gnosis** | 664 | SS | Eclipseron. He reads before he acts |
-| **Ardency** | 620 | SS | Adequate. He is not an output practitioner |
-| **Tempering** | 597 | SS | Sound. **Compare Iskaron at 495 — this is why Zarron is Refined and Iskaron is Overgrown** |
-| **Resilience** | 558 | SS | Bottom of band |
-| **Dexterity** | 534 | S | He repositions through the Veil rather than through space |
-| **Vitality** | **470** | S | **His floor.** A man who fights by not being where the blow lands, and who is in serious trouble the moment that stops working |
+| **Dominion** | 543 | S | His highest, and the only Volume III sheet where Dominion leads |
+| **Harmonics** | 527 | S | Transference. **The stat that makes him useful to other people** |
+| **Gnosis** | 513 | S | Eclipseron. He reads before he acts |
+| **Ardency** | 479 | S | Adequate. He is not an output practitioner |
+| **Tempering** | 462 | S | Sound. **Compare Iskaron at 495 — this is why Zarron is Refined and Iskaron is Overgrown** |
+| **Resilience** | 431 | S | Bottom of band |
+| **Dexterity** | 413 | S | He repositions through the Veil rather than through space |
+| **Vitality** | **363** | A | **His floor.** A man who fights by not being where the blow lands, and who is in serious trouble the moment that stops working |
 
 **Path alignment** · **Attraction Path dominant, Fate Path secondary.** Derived: Synergy, Confluence, Projection, Attunement and Resonance are Attraction-gated; Rift, Anchoring and Dimensional are Fate-gated. **No Body commitment and no Spirit commitment**, and both absences bite — see the cap below.
 
@@ -77,18 +77,18 @@ verification: "unverified"
 
 ## V · Sub-Stat Peaks
 
-**Dominion Rift 725** · Fate VIII · **at ceiling.** The Veil-slipping, and the highest single value on the sheet.
-**Harmonics Synergy 710** · Attraction VI. **Gnosis Analysis 694** · open.
-**Harmonics Confluence 672** · Attraction V. **Dominion Projection 651** · Attraction VI.
-**Harmonics Attunement 608** · Attraction II. **Gnosis Resonance 585** · Attraction III.
-**Dominion Anchoring 564** · Fate VI. **Resilience Dimensional 542** · Fate VI.
-**Tempering Capacity 520** · Attraction V. *His harmonisation ceiling — four currents is close to what he can hold.*
-**Harmonics Fidelity 466** · open.
+**Dominion Rift 561** · Fate VIII · **at ceiling.** The Veil-slipping, and the highest single value on the sheet.
+**Harmonics Synergy 549** · Attraction VI. **Gnosis Analysis 537** · open.
+**Harmonics Confluence 520** · Attraction V. **Dominion Projection 503** · Attraction VI.
+**Harmonics Attunement 470** · Attraction II. **Gnosis Resonance 452** · Attraction III.
+**Dominion Anchoring 436** · Fate VI. **Resilience Dimensional 419** · Fate VI.
+**Tempering Capacity 402** · Attraction V. *His harmonisation ceiling — four currents is close to what he can hold.*
+**Harmonics Fidelity 360** · open.
 > **Three stats capped by Path, and the pattern is the character.**
 >
-> **Ardency Conversion · 275 · capped at B-Grade.** Requires Body Path at Stage V. **This is the ceiling on Transmutatio.** He can recover failed Essence; he cannot convert it at volume, which means the "grows stronger the more he suffers" reading of him is *quantitatively false.* He recovers. He does not compound.
-> **Tempering Processing · 400 · capped at A-Grade.** Requires Spirit Path at Stage V.
-> **Ardency Spectral · 400 · capped at A-Grade.** Requires Spirit Path at Stage V.
+> **Ardency Conversion · 213 · capped at B-Grade.** Requires Body Path at Stage V. **This is the ceiling on Transmutatio.** He can recover failed Essence; he cannot convert it at volume, which means the "grows stronger the more he suffers" reading of him is *quantitatively false.* He recovers. He does not compound.
+> **Tempering Processing · 309 · capped at A-Grade.** Requires Spirit Path at Stage V.
+> **Ardency Spectral · 309 · capped at A-Grade.** Requires Spirit Path at Stage V.
 >
 > *He committed to the relational planes and to Fate. He never committed to his own body or his own interior, and the sheet reads exactly like a man who was raised by two houses and has no practice at being alone in one.*
 
@@ -96,9 +96,9 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 620, mid SS-Grade. On the order of **40 TN peak contact force, near 100 TJ yield, roughly 25 kilotons equivalent** — though Hikariken's geometry concentrates this into a contact area small enough that the local pressure substantially exceeds the tier, which is the Focused-Yield Principle and the entire argument for a blade.
-**Lifting Strength** · Vitality 470, mid S-Grade. Around **100 million tonnes** sustained.
-**Speed** · Dexterity 534, low SS-Grade. Travel near **70,000 m/s**, reaction below 0.05 milliseconds. *His practical repositioning is Rift-mediated and does not appear on this line at all.*
+**Strike Force** · Ardency 479, mid SS-Grade. On the order of **40 TN peak contact force, near 100 TJ yield, roughly 25 kilotons equivalent** — though Hikariken's geometry concentrates this into a contact area small enough that the local pressure substantially exceeds the tier, which is the Focused-Yield Principle and the entire argument for a blade.
+**Lifting Strength** · Vitality 363, mid S-Grade. Around **100 million tonnes** sustained.
+**Speed** · Dexterity 413, low SS-Grade. Travel near **70,000 m/s**, reaction below 0.05 milliseconds. *His practical repositioning is Rift-mediated and does not appear on this line at all.*
 
 ---
 

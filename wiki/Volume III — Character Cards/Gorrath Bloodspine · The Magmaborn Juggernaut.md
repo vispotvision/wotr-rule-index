@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8125-b0e6-c71c9f049569"
 notion_url: "https://app.notion.com/p/Gorrath-Bloodspine-The-Magmaborn-Juggernaut-3bd58200eb228125b0e6c71c9f049569"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T21:13:00.000Z"
+last_edited: "2026-09-14T02:43:00.000Z"
 verification: "unverified"
 ---
 
@@ -58,19 +58,19 @@ verification: "unverified"
 ## IV · Primary Stats
 
 **Temperance Stage** · **VIII — Transcendence.** **Level** · 235. **Level Band** · III — Sovereign. **Coherence Band** · B. **Grade** · S. **Ceiling** · 550. **η** · ~0.70, per the Band B figure.
-> **The point economy, worked.** Bands I–II contribute 4,500. Band III at 30 per level across 201–235 contributes 1,050. Threshold bonuses for Stages I through VIII at Stage × 100 contribute 3,600.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–235 contributes 630. Threshold bonuses for Stages I through VIII contribute 3,600, Stage I counting (R39-3). Total: 6,930.
 >
-> **Total lifetime pool: 9,150.** Allocated: 8,899. Unspent: 251.
+> **Total lifetime pool: 6,930.** Allocated: 6,742. Unspent: 188. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 9,150).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Vitality** | **542** | S | **Near ceiling.** The only Volume III sheet where Vitality leads, and it leads by a distance |
-| **Ardency** | 521 | S | Output, and it is genuine |
-| **Resilience** | 508 | S | Holds under sustained load |
-| **Tempering** | 470 | S | Sound. **He shapes what he produces, which is why he is Refined and not Overgrown** |
-| **Dominion** | 432 | A | First true Domain, newly formed |
-| **Harmonics** | 395 | A | Modest |
-| **Dexterity** | 358 | A | Slow, and he has never pretended otherwise |
-| **Gnosis** | **310** | A | **His floor by a wide margin.** He does not read, does not analyse, and does not do subtle |
+| **Vitality** | **410** | S | **Near ceiling.** The only Volume III sheet where Vitality leads, and it leads by a distance |
+| **Ardency** | 395 | A | Output, and it is genuine |
+| **Resilience** | 385 | A | Holds under sustained load |
+| **Tempering** | 356 | A | Sound. **He shapes what he produces, which is why he is Refined and not Overgrown** |
+| **Dominion** | 327 | A | First true Domain, newly formed |
+| **Harmonics** | 299 | A | Modest |
+| **Dexterity** | 271 | B | Slow, and he has never pretended otherwise |
+| **Gnosis** | **235** | B | **His floor by a wide margin.** He does not read, does not analyse, and does not do subtle |
 
 **Path alignment** · **Body Path, near-total.** Not a pairing. A commitment.
 
@@ -78,13 +78,13 @@ verification: "unverified"
 
 ## V · Sub-Stat Peaks
 
-**Vitality Fortitude 550** · Body III · **at ceiling.**
-**Vitality Ossification 538** · Body IV. **The obsidian. This is the stat that makes him what he is.**
-**Vitality Absorption 525** · Body III. **Ardency Density 512** · Body IV.
-**Vitality Endurance 500** · Body II. **Resilience Hardening 488** · Body III.
-**Vitality Scarring 475** · Body V. **Ardency Detonation 462** · open, with Backlash risk above C.
-**Resilience Fortification 450** · Body IV. **Ardency Penetration 438** · Body III.
-**Vitality Regeneration 425** · open.
+**Vitality Fortitude 417** · Body III · **at ceiling.**
+**Vitality Ossification 407** · Body IV. **The obsidian. This is the stat that makes him what he is.**
+**Vitality Absorption 398** · Body III. **Ardency Density 388** · Body IV.
+**Vitality Endurance 379** · Body II. **Resilience Hardening 370** · Body III.
+**Vitality Scarring 360** · Body V. **Ardency Detonation 350** · open, with Backlash risk above C.
+**Resilience Fortification 341** · Body IV. **Ardency Penetration 332** · Body III.
+**Vitality Regeneration 322** · open.
 > **Gorrath is the only Volume III sheet with no Path caps at all.**
 >
 > Sinclair loses three sub-stats to the Obsession question. Zarron loses three to having no Body or Spirit commitment. Xanelor loses his entire pack-synergy claim to having no Attraction. **Gorrath loses nothing, because every stat he invested in is Body-gated or open, and he committed to Body absolutely.**
@@ -95,10 +95,10 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 521, mid S-Grade. On the order of **1 TN peak contact force, near 10 TJ yield, roughly 2.5 kilotons equivalent.** Town-level, delivered blunt — and the Sharp-Blunt asymmetry means he shatters structures a swordsman of equal Grade could only slice.
-**Lifting Strength** · Vitality 542, upper S-Grade, **with the Body Path multiplicative bonus applying** because his Essence routes through the Physical Plane first, where gravitational interaction is native rather than translated. **Toward 200 million tonnes** sustained. *He can arrest tectonic motion across a fault line, and has.*
-**Speed** · Dexterity 358, A-Grade. Travel in the region of **5,000 m/s**, reaction near 0.5 milliseconds.
-> **The gap that beats him.** Vitality 542 against Dexterity 358 and Gnosis 310 is **a full Tier Grade of separation.**
+**Strike Force** · Ardency 395, mid S-Grade. On the order of **1 TN peak contact force, near 10 TJ yield, roughly 2.5 kilotons equivalent.** Town-level, delivered blunt — and the Sharp-Blunt asymmetry means he shatters structures a swordsman of equal Grade could only slice.
+**Lifting Strength** · Vitality 410, upper S-Grade, **with the Body Path multiplicative bonus applying** because his Essence routes through the Physical Plane first, where gravitational interaction is native rather than translated. **Toward 200 million tonnes** sustained. *He can arrest tectonic motion across a fault line, and has.*
+**Speed** · Dexterity 271, B-Grade. Travel in the region of **5,000 m/s**, reaction near 0.5 milliseconds.
+> **The gap that beats him.** Vitality 410 against Dexterity 271 and Gnosis 235 is **a full Tier Grade of separation.**
 >
 > Anything that refuses to be in front of him defeats him. He cannot chase, cannot read a feint, and cannot be made to stop — *which means the correct answer to Gorrath has always been to let him arrive somewhere that does not matter.*
 

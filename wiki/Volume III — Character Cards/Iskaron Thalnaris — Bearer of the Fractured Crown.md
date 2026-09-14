@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81fb-9d4d-cb0ca34046e5"
 notion_url: "https://app.notion.com/p/Iskaron-Thalnaris-Bearer-of-the-Fractured-Crown-3bd58200eb2281fb9d4dcb0ca34046e5"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T21:13:00.000Z"
+last_edited: "2026-09-14T02:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -37,9 +37,9 @@ verification: "unverified"
 **η:** ~0.86 · *within the 0.85–0.90 Band S range*
 **Crystal State:** Overgrown. Power exceeding architecture, discharging involuntarily.
 **Path alignment:** **Body Path dominant, Spirit Path secondary.** No Attraction commitment and no Fate commitment, **which caps three of his Dominion sub-stats hard — see Section IV-b.**
-> **The point economy, worked.** Bands I–III complete contribute 7,500. Band IV at 35 per level across 301–330 contributes 1,050. Threshold bonuses for Stages I through XI at Stage × 100 contribute 6,600.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–330 contributes 630. Threshold bonuses for Stages I through XI contribute 6,600, Stage I counting (R39-3). Total: 11,730.
 >
-> **Total lifetime pool: 15,150.** Allocated: 14,802. Unspent: 348 — *and the unspent points are themselves in character, because he has never sat still long enough to place them.*
+> **Total lifetime pool: 11,730.** Allocated: 11,460. Unspent: 270 — *and the unspent points are themselves in character, because he has never sat still long enough to place them.* *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 15,150).*
 > **On the Stage assignment.** The Sixteen Stages holds that practitioners trapped in Dissonance rather than passing through it are **the most dangerous individuals in the four quarters by a wide margin, because they have SS-Grade output organised around an unresolved contradiction and no structural reason to stop.**
 >
 > That is Iskaron entirely. **The old sheet called him "nearing Archon." He is not ascending. He is stuck**, and the stuckness is the character.
@@ -52,32 +52,32 @@ verification: "unverified"
 
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Ardency** | **731** | SSS entry | **Above the fracture line.** Raw output is the only axis on which he is genuinely exceptional |
-| **Vitality** | **712** | SS | Above the line. **This is the attrition curve** — he outlasts rather than outfights |
-| **Resilience** | 664 | SS | Holds. Does not recover |
-| **Dominion** | 601 | SS | The raw figure is high and **the sub-stats that would express it are capped** |
-| **Harmonics** | 578 | SS | Bottom of band |
-| **Tempering** | **495** | S | **Two Grades under his Ardency. This is the Overgrown state stated as a number** — power his architecture cannot shape |
-| **Gnosis** | 470 | S | He does not analyse. He arrives |
-| **Dexterity** | 442 | S | No mobility game whatsoever |
+| **Ardency** | **566** | SSS entry | **Above the fracture line.** Raw output is the only axis on which he is genuinely exceptional |
+| **Vitality** | **551** | SS | Above the line. **This is the attrition curve** — he outlasts rather than outfights |
+| **Resilience** | 514 | S | Holds. Does not recover |
+| **Dominion** | 465 | S | The raw figure is high and **the sub-stats that would express it are capped** |
+| **Harmonics** | 448 | S | Bottom of band |
+| **Tempering** | **383** | A | **Two Grades under his Ardency. This is the Overgrown state stated as a number** — power his architecture cannot shape |
+| **Gnosis** | 364 | A | He does not analyse. He arrives |
+| **Dexterity** | 342 | A | No mobility game whatsoever |
 
 ---
 
 ### II-c. Sub-Stat Peaks
 
-**Ardency Overchannel 742** · open advancement, **and the Fracture of Worlds notes it carries inherent Overflow risk at every grade above D with no Path providing structural protection.** His highest stat is the one nothing shields him from.
-**Ardency Detonation 726** · open, with Backlash risk built into every grade above C.
-**Vitality Endurance 705** · Body II. Above the line.
-**Tempering Overflow 698** · open, inherent structural risk above B. **The mechanism of the Overgrown state.**
-**Ardency Density 681** · Body IV. **Vitality Scarring 664** · Body V. **Vitality Absorption 652** · Body III.
-**Resilience Hardening 640** · Body III. **Ardency Penetration 628** · Body III.
-**Vitality Tenacity 611** · Spirit III. *Psychological persistence sustaining the body — the rage, doing structural work.*
-**Resilience Fortification 597** · Body IV. **Vitality Threshold 584** · Body IV.
-**Harmonics Stability 520** · open, and low. He does not hold a baseline.
+**Ardency Overchannel 574** · open advancement, **and the Fracture of Worlds notes it carries inherent Overflow risk at every grade above D with no Path providing structural protection.** His highest stat is the one nothing shields him from.
+**Ardency Detonation 562** · open, with Backlash risk built into every grade above C.
+**Vitality Endurance 546** · Body II. Above the line.
+**Tempering Overflow 540** · open, inherent structural risk above B. **The mechanism of the Overgrown state.**
+**Ardency Density 527** · Body IV. **Vitality Scarring 514** · Body V. **Vitality Absorption 505** · Body III.
+**Resilience Hardening 496** · Body III. **Ardency Penetration 486** · Body III.
+**Vitality Tenacity 473** · Spirit III. *Psychological persistence sustaining the body — the rage, doing structural work.*
+**Resilience Fortification 462** · Body IV. **Vitality Threshold 452** · Body IV.
+**Harmonics Stability 403** · open, and low. He does not hold a baseline.
 > **The two lowest stats on the sheet are the answer to the whole character.**
 >
-> **Tempering Coherence · 445.** Fracture of Worlds: *"functions as the structural prerequisite for Temperance Threshold eligibility."*
-> **Tempering Maturity · 416.** Fracture of Worlds: *"the primary sub-stat consulted by the Crystal when evaluating Threshold readiness."*
+> **Tempering Coherence · 345.** Fracture of Worlds: *"functions as the structural prerequisite for Temperance Threshold eligibility."*
+> **Tempering Maturity · 322.** Fracture of Worlds: *"the primary sub-stat consulted by the Crystal when evaluating Threshold readiness."*
 >
 > **He is trapped in Dissonance because the two stats the Crystal reads to authorise a Threshold are the two he has never fed.** Not because he lacks power — his Ardency is SSS-entry. **He is quantitatively eligible and structurally unready, and no amount of what he is good at will move either number.**
 >
@@ -87,8 +87,8 @@ verification: "unverified"
 
 ### II-d. The Path Cap
 
-> **Dominion Sovereignty · 400 · capped.** Requires Fate Path at Stage VI to exceed A-Grade. He has no Fate commitment.
-> **Dominion Pressure · 400 · capped.** Requires Attraction Path at Stage VI. He has no Attraction commitment.
+> **Dominion Sovereignty · 310 · capped.** Requires Fate Path at Stage VI to exceed A-Grade. He has no Fate commitment.
+> **Dominion Pressure · 310 · capped.** Requires Attraction Path at Stage VI. He has no Attraction commitment.
 > **Dominion Radius** · likewise gated at Attraction V.
 >
 > **His Domain is A-Grade infrastructure carried by an SS-Grade man**, which is precisely why it does not close when he leaves and why it decays over days instead of dissolving. **He is not maintaining it. He is leaking it.**

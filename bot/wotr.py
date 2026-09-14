@@ -188,11 +188,23 @@ def scene_text(file: str) -> tuple[str, str]:
 
 
 def character(name: str) -> str:
-    return for_discord(M.character(name))
+    return for_discord(M.character(_alias(name)))
+
+
+def _alias(name: str) -> str:
+    """build/aliases.yaml: names the archive uses that a card title does not carry (Darius -> Ignatius's card)."""
+    p = ROOT / "build" / "aliases.yaml"
+    if p.exists():
+        import yaml
+        for k, v in (yaml.safe_load(p.read_text(encoding="utf-8")) or {}).items():
+            if str(k).lower() == name.lower().strip():
+                return str(v)
+    return name
 
 
 def character_page(name: str) -> dict | None:
     """The best card for a name: {title, text, url, category, also}. None when there is no card."""
+    name = _alias(name)
     key = name.lower().strip()
     cands = [p for p in WIKI.rglob("*.md") if p.name != "INDEX.md" and (key in p.stem.lower() or key in p.parent.name.lower())]
     if not cands:
@@ -204,7 +216,7 @@ def character_page(name: str) -> dict | None:
 
 
 def fow_line(name: str) -> str:
-    return for_discord(M.fow_line(name))
+    return for_discord(M.fow_line(_alias(name)))
 
 
 def timeline() -> str:

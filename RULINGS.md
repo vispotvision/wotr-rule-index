@@ -464,3 +464,38 @@ and the psychic-distance table against R35-2, logged as C-015.
   cross-referenced), the Character Template and Examples (the nine combat
   assignments, R14-8, the R39 stat guidance quoted), each with a changelog and
   two review passes.
+
+## 2026-09-13, late — C-015 closed: distance is two axes
+
+Isaac: **both stand as two axes.** R35-2's narration register says whose idiom
+the narration runs in (close, medium, distant/formal); Pack Twenty's
+psychic-distance band (1 most distant, 5 deepest interior) says how deep
+inside the POV the narration sits. They are read together, never traded off:
+Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes
+him, in a formal register. No row struck.
+
+**Correction, later the same evening (C-016).** Part Twelve's Merge Ledger
+retires Burst into Celerity and Cartography into Perception, so FOW's Cymorath
+entry ("Celerity, Burst, Cartography") and R27-1 ("Celerity and Cartography and
+Perception") describe the same two current Sub-Stats — Dexterity Celerity and
+Gnosis Perception. The clash was an artefact of retired names; the ruling
+"FOW governs" stands and costs nothing. Noted on R27-1 and on the C-016 row.
+
+## 2026-09-13, late — the re-cost applied; three more Pack Twenty collisions found
+
+- **R38-2 re-cost run** (build/recost.py, report reports/recost_2026-09-13_applied.md):
+  seven cards stated a lifetime pool on the old allotment — Gorrath, Iskaron,
+  Sinclair, Xanelor, Zarron, Ignatius, Karo. Each now carries the current pool
+  (12/15/18/21/24 a Level plus Stage × 100, Stage I counting), every listed stat
+  scaled by current ÷ stated and capped at the Stage's Max Grade top (R39-4),
+  Grade letters re-derived, the pool line and the worked economy rewritten and
+  marked. The two-layer shape is kept for verification. Retired Sub-Stat names
+  on the cards are scaled, not renamed, and listed with their absorbing entry.
+  R38-1's Path gates were not applied: the cards state no Path commitment.
+  Xanelor and Ignatius list slightly more than their pool (324 and 46) — the
+  sheets' own Allocated lines never counted every listed peak; the Judger's.
+- **Found by the Combat Craft Guide's 2026-09-13 edition:** R20C-24, R20C-26
+  and R20C-27 contradict Isaac's 2026-09-12 rulings on R13-A, R13-C and
+  R13-D. Logged as C-017, C-018, C-019, open; not resolved by the extractor.
+- The Combat Craft Guide's 2026-09-13 edition folds Wren and Edward into the
+  main table, quotes Pack Twenty's combat rows and the R39/R41 rulings.

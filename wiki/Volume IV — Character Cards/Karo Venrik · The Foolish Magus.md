@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81f9-b168-c92d2f23aa67"
 notion_url: "https://app.notion.com/p/Karo-Venrik-The-Foolish-Magus-3bd58200eb2281f9b168c92d2f23aa67"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-08-15T18:56:00.000Z"
+last_edited: "2026-09-14T02:47:00.000Z"
 verification: "unverified"
 ---
 
@@ -56,21 +56,21 @@ verification: "unverified"
 ## IV · Primary Stats
 
 **Temperance Stage** · **V — Splintering.** **Level** · 156. **Level Band** · II — Awakened. **Coherence Band** · E. **Grade** · B, with instability above 320. **Ceiling** · 350.
-> **The point economy, worked.** Band I contributes 2,000. Band II at 25 per level across 101–156 contributes 1,400. Threshold bonuses for Stages I through V at Stage × 100 contribute 1,500.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–156 contributes 840. Threshold bonuses for Stages I through V contribute 1,500, Stage I counting (R39-3). Total: 3,540.
 >
-> **Total lifetime pool: 4,900.** Allocated: 4,841. Unspent: 59.
+> **Total lifetime pool: 3,540.** Allocated: 3,503. Unspent: 37. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 4,900).*
 >
 > *Fracture of Worlds uses a Band II character at Level 156 with Thresholds through Stage V as its own worked example, and puts the figure at roughly 4,500. Karo sits just above it.*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Gnosis** | **268** | B | **Everything load-bearing about him lives here.** Reading, not striking |
-| **Harmonics** | 244 | B | The resonance the Echoes ride on |
-| **Tempering** | 186 | B | Bottom of band. **A crisis-stage soul, not a refined one** |
-| **Ardency** | 152 | C | Low personal output. Nearly all Essence routes into Echoes |
-| **Dexterity** | 138 | C | Unremarkable. **He relies on Echoes to be fast so he does not have to be** |
-| **Resilience** | 126 | C | Shell integrity thin |
-| **Vitality** | 112 | C | A scholar's body. He has never trained it to take a hit |
-| **Dominion** | **88** | D | **No stable Domain.** Proto-field only, and only in trance |
+| **Gnosis** | **194** | B | **Everything load-bearing about him lives here.** Reading, not striking |
+| **Harmonics** | 176 | B | The resonance the Echoes ride on |
+| **Tempering** | 134 | C | Bottom of band. **A crisis-stage soul, not a refined one** |
+| **Ardency** | 110 | C | Low personal output. Nearly all Essence routes into Echoes |
+| **Dexterity** | 100 | D | Unremarkable. **He relies on Echoes to be fast so he does not have to be** |
+| **Resilience** | 91 | D | Shell integrity thin |
+| **Vitality** | 81 | D | A scholar's body. He has never trained it to take a hit |
+| **Dominion** | **64** | D | **No stable Domain.** Proto-field only, and only in trance |
 
 **Path alignment** · **Spirit Path dominant, Attraction Path secondary.** Derived: Retention, Acuity, Memory, Inscription, Clarity, Coherence, Diagnosis and Sense are Spirit-gated; Attunement and Confluence are Attraction-gated. *Chosen under Maelorian tutelage after his first glyph-whisper surfaced in dream at nine.*
 
@@ -78,16 +78,16 @@ verification: "unverified"
 
 ## V · Sub-Stat Peaks
 
-**Gnosis Retention 292** · Spirit II · **his highest.** Anamnesis, expressed.
-**Gnosis Perception 278** · open. **Harmonics Attunement 264** · Attraction II.
-**Gnosis Analysis 251** · open. **Harmonics Fidelity 238** · open.
-**Harmonics Memory 226** · Spirit III. **Gnosis Acuity 214** · Spirit III.
-**Ardency Inscription 202** · Spirit III. **Tempering Clarity 190** · Spirit III.
-**Tempering Latency 178** · open. **Resilience Coherence 166** · Spirit III.
-**Tempering Maturity 154** · open. **Resilience Persistence 148** · Fate V — *fine at this value.*
-**Gnosis Diagnosis 142** · Spirit IV. **Dexterity Reflex 134** · open.
-**Harmonics Confluence 130** · Attraction V. **Dominion Sense 118** · Spirit III.
-**Resilience Integrity 106** · open. **Dominion Radius 96** · Attraction V.
+**Gnosis Retention 211** · Spirit II · **his highest.** Anamnesis, expressed.
+**Gnosis Perception 201** · open. **Harmonics Attunement 191** · Attraction II.
+**Gnosis Analysis 181** · open. **Harmonics Fidelity 172** · open.
+**Harmonics Memory 163** · Spirit III. **Gnosis Acuity 155** · Spirit III.
+**Ardency Inscription 146** · Spirit III. **Tempering Clarity 137** · Spirit III.
+**Tempering Latency 129** · open. **Resilience Coherence 120** · Spirit III.
+**Tempering Maturity 111** · open. **Resilience Persistence 107** · Fate V — *fine at this value.*
+**Gnosis Diagnosis 103** · Spirit IV. **Dexterity Reflex 97** · open.
+**Harmonics Confluence 94** · Attraction V. **Dominion Sense 85** · Spirit III.
+**Resilience Integrity 77** · open. **Dominion Radius 69** · Attraction V.
 > **A note on the legacy sheet's "all remaining Sub-Stats: 60–95 range."**
 >
 > There are one hundred and twenty Sub-Stats in the system. **Holding all remaining ones at 60–95 would cost between seven and eleven thousand points, against a lifetime pool of 4,900.** The line has been removed rather than adjusted.
@@ -98,9 +98,9 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 152, mid C-Grade. Roughly **0.2 GN peak force, on the order of 300 MJ** — small-building level, and **he has never once delivered it personally.**
-**Lifting Strength** · Vitality 112, low C-Grade. Around **12,000 tonnes.**
-**Speed** · Dexterity 138, C-Grade. Travel near **400 m/s**, reaction between 5 and 15 milliseconds. *An Echo arrives before he does, which is the entire point of an Echo.*
+**Strike Force** · Ardency 110, mid C-Grade. Roughly **0.2 GN peak force, on the order of 300 MJ** — small-building level, and **he has never once delivered it personally.**
+**Lifting Strength** · Vitality 81, low C-Grade. Around **12,000 tonnes.**
+**Speed** · Dexterity 100, D-Grade. Travel near **400 m/s**, reaction between 5 and 15 milliseconds. *An Echo arrives before he does, which is the entire point of an Echo.*
 
 ---
 
@@ -134,7 +134,7 @@ He wears the **Fragment Veil Cloak**, a near-transparent weave that reads, to an
 
 ## X · Open Rulings
 
-- **Essence Capacity 2,600 EU and Flux Density 4.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated.
+- **Essence Capacity 1,600 EU and Flux Density 3.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated.
 - **The Parun glyph chain** *Ma · Ur · Zo · Wy · Ie · Sa* needs checking against the Master Glyph Index's 136 attested forms. `[Ur]` Balance is confirmed. The rest are not verified.
 - **"Global Tier: D-Tier (Provincial Note, rising)"** — unclear which axis this is measuring. Not carried across.
 - **Latticefront Collective**, **Remembrance Division**, **Riftfall**, **512 VE** appear only in the legacy sheet and want confirming against the Concordance of Ages.

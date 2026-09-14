@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-12T18:48:00.000Z"
+last_edited: "2026-09-14T02:45:00.000Z"
 verification: "unverified"
 ---
 
@@ -51,26 +51,26 @@ verification: "unverified"
 **Fixatio** · Materia. Anchors and seals. **This is the sealing craft with an actual current under it** — the legacy sheet's "Runic Synergy" was a trait with no source.
 **Anima Spirare** · Vitalia. The pact seam. Bright arterial red, the breath of a living thing, **and the reason his constructs move like something that has been hunted rather than something that has been built.**
 **Transference** · Spatium. Coupled oscillators exchanging without a conductor. *This is how a construct at forty paces knows what he knows.*
-> **Four Families across four currents, at Tempering Capacity 425.** He is at the edge of what he can hold. **Exceeding Capacity does not drop the newest harmonisation — it degrades all four equally**, and a fifth would cost him the pact.
+> **Four Families across four currents, at Tempering Capacity 325.** He is at the edge of what he can hold. **Exceeding Capacity does not drop the newest harmonisation — it degrades all four equally**, and a fifth would cost him the pact.
 
 ---
 
 ## IV · Primary Stats
 
 **Temperance Stage** · **IX — Invocation.** **Level** · 265. **Level Band** · III — Sovereign. **Coherence Band** · A. **Grade** · S, with late push toward SS. **Ceiling** · 625. **η** · 0.75–0.80.
-> **The point economy, worked.** Bands I–II contribute 4,500. Band III at 30 per level across 201–265 contributes 1,950. Threshold bonuses for Stages I through IX at Stage × 100 contribute 4,500.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–265 contributes 1,170. Threshold bonuses for Stages I through IX contribute 4,500, Stage I counting (R39-3). Total: 8,370.
 >
-> **Total lifetime pool: 10,950.** Allocated: 10,950. **Nothing unspent** — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper.
+> **Total lifetime pool: 8,370.** Allocated: 8,694. **Nothing unspent** — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 10,950).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Dexterity** | **612** | SS | **His only SS stat, and the whole build hangs off it.** Nobody else in Volume III leads with Dexterity |
-| **Gnosis** | 588 | SS | Tracking, ambush detection, terrain reading |
-| **Dominion** | 561 | SS | The construct field. **Capped in expression — see below** |
-| **Ardency** | 534 | S | Construct manifestation and seal-cutting |
-| **Harmonics** | 512 | S | Modest, and the reason the pack reads the way it does |
-| **Resilience** | 470 | S | He is not built to be hit |
-| **Vitality** | 448 | S | Lean. Nomadic. Unremarkable |
-| **Tempering** | **425** | S | **His floor, and his harmonisation ceiling.** Four currents is all he gets |
+| **Dexterity** | **468** | S | **His only SS stat, and the whole build hangs off it.** Nobody else in Volume III leads with Dexterity |
+| **Gnosis** | 449 | S | Tracking, ambush detection, terrain reading |
+| **Dominion** | 429 | S | The construct field. **Capped in expression — see below** |
+| **Ardency** | 408 | S | Construct manifestation and seal-cutting |
+| **Harmonics** | 391 | A | Modest, and the reason the pack reads the way it does |
+| **Resilience** | 359 | A | He is not built to be hit |
+| **Vitality** | 342 | A | Lean. Nomadic. Unremarkable |
+| **Tempering** | **325** | A | **His floor, and his harmonisation ceiling.** Four currents is all he gets |
 
 **Path alignment** · **Body Path dominant, Spirit Path secondary.** Derived: Celerity, Economy and Density are Body-gated; Inscription and Sense are Spirit-gated. **No Attraction commitment**, which is the finding below.
 
@@ -78,16 +78,16 @@ verification: "unverified"
 
 ## V · Sub-Stat Peaks
 
-**Dexterity Reflex 625** · open · **at ceiling.** The highest value on the sheet and the correct one.
-**Dexterity Celerity 610** · Body II. **Gnosis Vigilance 594** · open.
-**Ardency Inscription 578** · Spirit III. *The seals.*
-**Gnosis Perception 562** · open. **Dexterity Evasion 546** · open to any Path.
-**Ardency Density 530** · Body IV. *Construct solidity.*
-**Gnosis Cartography 514** · open. **Dominion Sense 498** · Spirit III.
-**Dexterity Economy 482** · Body III. **Resilience Anchoring 461** · open.
+**Dexterity Reflex 478** · open · **at ceiling.** The highest value on the sheet and the correct one.
+**Dexterity Celerity 466** · Body II. **Gnosis Vigilance 454** · open.
+**Ardency Inscription 442** · Spirit III. *The seals.*
+**Gnosis Perception 430** · open. **Dexterity Evasion 417** · open to any Path.
+**Ardency Density 405** · Body IV. *Construct solidity.*
+**Gnosis Cartography 393** · open. **Dominion Sense 381** · Spirit III.
+**Dexterity Economy 368** · Body III. **Resilience Anchoring 352** · open.
 > **The finding, and it rewrites him.**
 >
-> **Harmonics Synergy · 400 · capped at A-Grade.** Requires Attraction Path at Stage VI. **Dominion Radius · 400 · capped.** Requires Attraction Path at Stage V. He has no Attraction commitment and cannot acquire one without abandoning the Path structure the rest of the sheet stands on.
+> **Harmonics Synergy · 306 · capped at A-Grade.** Requires Attraction Path at Stage VI. **Dominion Radius · 306 · capped.** Requires Attraction Path at Stage V. He has no Attraction commitment and cannot acquire one without abandoning the Path structure the rest of the sheet stands on.
 >
 > The legacy sheet claims his constructs "act as an intelligent pack in perfect synchrony." **They cannot. The stat that would do that is capped two Grades below his Dexterity.**
 >
@@ -99,9 +99,9 @@ verification: "unverified"
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 534, mid S-Grade. Around **1 TN peak force, on the order of 10 TJ, near 3 kilotons equivalent** — distributed across constructs rather than delivered in one place, which is why he has never once put a town-scale figure onto a target.
-**Lifting Strength** · Vitality 448, mid S-Grade. Roughly **80 million tonnes**.
-**Speed** · Dexterity 612, SS-Grade. Travel toward **200,000 m/s**, reaction below 0.05 milliseconds. **This is the number that beats people.** He is a full Grade faster than his own output, and every engagement he wins is won on arriving before the answer does.
+**Strike Force** · Ardency 408, mid S-Grade. Around **1 TN peak force, on the order of 10 TJ, near 3 kilotons equivalent** — distributed across constructs rather than delivered in one place, which is why he has never once put a town-scale figure onto a target.
+**Lifting Strength** · Vitality 342, mid S-Grade. Roughly **80 million tonnes**.
+**Speed** · Dexterity 468, S-Grade. Travel toward **200,000 m/s**, reaction below 0.05 milliseconds. **This is the number that beats people.** He is a full Grade faster than his own output, and every engagement he wins is won on arriving before the answer does.
 
 ---
 

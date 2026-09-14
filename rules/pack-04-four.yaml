@@ -1019,7 +1019,7 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-13, Claude Code: ratified as written (RULINGS.md 2026-09-13)"
     source:
       file: ""
       lines: null
@@ -1060,7 +1060,7 @@ rules:
     supersedes: []
     applies_to: [combat, character-sheet]
     verification: []
-    ratified: null
+    ratified: "Isaac, 2026-09-13, Claude Code: ratified as written (RULINGS.md 2026-09-13)"
     source:
       file: ""
       lines: null

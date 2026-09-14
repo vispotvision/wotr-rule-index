@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-549 live of 671 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+550 live of 672 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (28)
 
@@ -3822,7 +3822,7 @@ The Zettari bloodline's names, titles and technique names are built in a Swahili
 
 > The Zettari speak their own tongue. Their names and their arts are Swahili, Bantu and Arabic in flavour — Kafa-Karim, Habl Flow-Bind, Sarmad Fracture, Sukun Maji, Dawam Soul-Still Art, Kumi-na-Mbili Seal; Zuberi, Ma'Kovu, N'Kharu, Malani, Jomari, N'Yari, Zembari — and that register stands. The five-strata naming convention assigns the archaic bloodlines to the Japonic stratum; the Zettari are carved out of it as a register of their own, and the Japonic assignment continues to govern every other archaic line. Ruled by Isaac, 2026-09-12.
 
-## pov (41)
+## pov (42)
 
 ### R20C-49-GLOSS_RIGHTS_CARD_FIELD [Pack Twenty R20C-49]
 
@@ -4046,6 +4046,12 @@ The one-italic-thought-per-NPC standard is suspended in mass combat; no more tha
 
 > The one-private-italic-thought-per-named-NPC standard is suspended in mass combat. It exists to make a small cast feel populated and it does the opposite at scale, producing a scene that reads as a poll of forty consciousnesses. Replacement standard: name three. No more than three characters carry interiority through a battle sequence. Everyone else is exterior only: actions, voices, bodies. Interiority for named characters outside the three is deferred to the aftermath, where it lands harder because the reader has been waiting for it.
 
+### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
+
+R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
+
+> Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
+
 ### R20-5-ON_THE_PAGE [Naming Guide Amendment Part Five]
 
 Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
@@ -4070,7 +4076,7 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## prose-law (122)
+## prose-law (123)
 
 ### R20C-24-PHYSICAL_UNIT_CEILING [Pack Twenty R20C-24]
 
@@ -4749,6 +4755,12 @@ The Single Act must be physical (a thing done with the body under load, not a de
 The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
 
 > In the aftermath, and not by discussion of the act itself. The relationship has changed and both parties behave differently. Neither raises it. The scene three days later is about a bucket, or a burial detail, or who takes which watch, and the change is legible in how they handle the bucket. If a character says what the act meant, the amendment has been violated and the scene has been spent.
+
+### R41-1-DISTANCE_IS_TWO_AXES [Distance Two Axes Ruling C-015]
+
+R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
+
+> Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.
 
 ### R23-11-NAME_AVOIDANCE_WAITING [Inner World Naming Amendment XI]
 

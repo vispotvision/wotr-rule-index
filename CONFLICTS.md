@@ -448,7 +448,7 @@ narration become him." R35-2: "Distant/formal register: Cozbi Mahuo."
 **Consequence if unresolved:** a Cozbi scene cannot be checked for distance;
 the two systems point opposite ways for him and disagree in kind for the rest.
 **Recommendation:** none stated by either source.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: both stand as two axes; register is whose idiom, band is how deep (R41-1)
 
 ---
 
@@ -469,4 +469,51 @@ Burst, Gnosis Cartography."
 **Consequence if unresolved:** a Cymorath-attuned card cannot be checked on
 this Sub-Stat trio.
 **Recommendation:** none stated by either source.
-**Status:** closed — ruled by Isaac, 2026-09-13: Fracture of Worlds governs (Celerity, Burst, Cartography); R27-1's Perception was a slip, noted on the row
+**Status:** closed — ruled by Isaac, 2026-09-13: Fracture of Worlds governs. Corrected the same evening at extraction of the Merge Ledger: Burst was absorbed into Celerity and Cartography into Perception (Part Twelve), so FOW's 'Celerity, Burst, Cartography' and R27-1's 'Celerity and Cartography and Perception' name the same two current Sub-Stats — Dexterity Celerity and Gnosis Perception; the clash was an artefact of retired names
+
+---
+
+## C-017 — who may speak in Joules: Pack Twenty against the R13-A ruling
+
+**Rules:** R20C-24-PHYSICAL_UNIT_CEILING vs the ruling recorded on R13-A (2026-09-12)
+**The clash:** Pack Twenty (written 2026-09-12 04:33) ratifies R13-A as the
+pack recommended; Isaac ruled R13-A later that day the other way. Pack Twenty
+was extracted live on 2026-09-13 before this collision was found.
+**Quotes:** R20C-24: "Physical-unit ceiling confirmed. Joules and m/s in a
+Measurewright's or Guild officer's mouth; weight-and-reach for everyone else."
+R13-A's ruling: "Anyone in diagnostic voice may speak in Joules and
+metres-per-second, not only Measurewrights and Guild officers."
+**Consequence if unresolved:** whether a non-Guild practitioner may give a
+figure in diagnostic voice cannot be checked.
+**Recommendation:** none stated by either source. Isaac's 2026-09-13 answer
+on the five known collisions was "the later rulings win"; whether that reaches
+these three is his to say.
+**Status:** open
+
+## C-018 — the steel or the working: Pack Twenty against the R13-C ruling
+
+**Rules:** R20C-26-STEEL_STOPS_THE_SHOT vs the ruling recorded on R13-C (2026-09-12); also R11-3-AMMO_TIERS
+**The clash:** Pack Twenty has the steel stop the shot, always; Isaac ruled
+R13-C later on 2026-09-12 that the working stops shot against a worked
+cuirass, not the steel. R11-3-AMMO_TIERS' proofed shot "defeats proofed
+plate", which R20C-26 conditions ("subject to R20C-26").
+**Quotes:** R20C-26: "The steel stops the shot, always. A working may spall,
+bias, weaken or find the seam. It is never the armour." R13-C's ruling: "The
+working stops shot against a worked cuirass, not the steel."
+**Consequence if unresolved:** the armour-and-shot exchange in any combat
+scene cannot be adjudicated one way.
+**Recommendation:** none stated by either source.
+**Status:** open
+
+## C-019 — may the gap-fill pass change an outcome: Pack Twenty against the R13-D ruling
+
+**Rules:** R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME vs the ruling recorded on R13-D (2026-09-12)
+**The clash:** Pack Twenty forbids it; Isaac ruled R13-D later on 2026-09-12
+that it may, with the change stated in the author notes.
+**Quotes:** R20C-27: "A gap-fill pass may not change an outcome Isaac wrote.
+Flag, propose the smallest change, wait." R13-D's ruling: "Yes: the gap-fill
+pass may change an outcome Isaac wrote when no cause fits, and says so in
+the author notes."
+**Consequence if unresolved:** the gap-fill tool's remit is undefined.
+**Recommendation:** none stated by either source.
+**Status:** open

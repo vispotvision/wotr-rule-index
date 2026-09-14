@@ -2971,7 +2971,7 @@
       "file": "",
       "lines": null
     },
-    "notes": "Raised as an open ruling on wiki/Summoned and Bound/Haelvorn · Housecat.md (Section XIII), whose blockquote recorded the spelling ruling and flagged the portfolio clash it exposed. Isaac ruled the same day; the blockquote was rewritten in Notion to a resolved statement (the verbatim above is quoted from it) and the mirror re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion, mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt, Coldblood Concentrate); The Arctic Lion — Sovereign Configuration (header, Aethersteel, Frost Array, Glacium, three-node architecture and every frost technique's Codex line); Bloodbind Surge; Hunter's Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter Rend; The Old World — The Western Wearing (Glacium); The Abyssal Depths (The Stillwater Rite's Codex); The Alchemical Index (Stasisline Needles, Stillwater Draught); The Material Index T5–T9 (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof, Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as Cymorath because the usage is motion, vector-field, wind or vibration reading rather than cold: the FOW V and Fulguria canon pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettari, Mizuki Moto (vibration through frost mist, not the frost itself), Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts, Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear, Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the Making of the God Hand, and the Niran scenes. Judgment calls: the Arctic Lion sheet's Fulguria-match row now states that the Family match runs through the Judicium substrate and the frost layer is Caloria; whether a Caloria layer inside a Fulguria structure carries a §14 stress figure the way the Ruins layer does is not ruled and was not invented. Stasisline Needles (rate arrest, no frost) was read as stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's Identity line already routed frost through Vohrin and were the model.",
+    "notes": "C-016 ruled by Isaac, 2026-09-13: Fracture of Worlds governs the stat effect — Dexterity Celerity, Dexterity Burst, Gnosis Cartography, as the FOW Cymorath entry and the Mechanism of the Sixty have it; read through Part Twelve's Merge Ledger (Burst absorbed into Celerity, Cartography into Perception) the FOW entry and this row name the same current Sub-Stats, Dexterity Celerity and Gnosis Perception; corrected the same evening — no slip after all. Prior notes: >- Raised as an open ruling on wiki/Summoned and Bound/Haelvorn · Housecat.md (Section XIII), whose blockquote recorded the spelling ruling and flagged the portfolio clash it exposed. Isaac ruled the same day; the blockquote was rewritten in Notion to a resolved statement (the verbatim above is quoted from it) and the mirror re-exported. Retagged to Vohrin · Caloria · Thermodynamics in Notion, mirrors refreshed: Hide, Horn and Bone (Fellstag Winterpelt, Coldblood Concentrate); The Arctic Lion — Sovereign Configuration (header, Aethersteel, Frost Array, Glacium, three-node architecture and every frost technique's Codex line); Bloodbind Surge; Hunter's Breath; Maw of Crystalline Stasis; Vorynn Execution Strike; Winter Rend; The Old World — The Western Wearing (Glacium); The Abyssal Depths (The Stillwater Rite's Codex); The Alchemical Index (Stasisline Needles, Stillwater Draught); The Material Index T5–T9 (Glacium, Frostwool); and the Draven Kael Vorrick, Kaelen Brighthoof, Vaelthyr Iscarn and Valthrum · The Cryon King cards. Left as Cymorath because the usage is motion, vector-field, wind or vibration reading rather than cold: the FOW V and Fulguria canon pages, Niran Yukari, Ryuka Yukari, Lucius Xenotro, Rengai Zettari, Mizuki Moto (vibration through frost mist, not the frost itself), Azhura Vyren, Karu Velnar, Liorien Nael-Teth, Vaelorian Theryn Aerethiel, Iryen Maevith, The Reach Dwarves, Nadi, The Sage Arts, Hataraki, Kami no Kobushi, Ketsuen, Celestial Harmonic Shear, Harmonic Null-Ascension, Radiant Ribbon Shell, The Crossing and the Making of the God Hand, and the Niran scenes. Judgment calls: the Arctic Lion sheet's Fulguria-match row now states that the Family match runs through the Judicium substrate and the frost layer is Caloria; whether a Caloria layer inside a Fulguria structure carries a §14 stress figure the way the Ruins layer does is not ruled and was not invented. Stasisline Needles (rate arrest, no frost) was read as stasis and retagged; Cryost Ascendant, Mizuki Moto and Draven's Identity line already routed frost through Vohrin and were the model.",
     "superseded_by": []
   },
   {
@@ -3837,6 +3837,37 @@
       "lines": null
     },
     "notes": "Closes R20-2-CELESTIAL_HOST_NAMING (the pass it asked for now exists). Flags kept open: bare Archon name versus a Parunic genitive; the rank ladder is the smallest that fits the attested names; Faisal's and Verantha's Lawbell-names are unassigned; mortal by-names sit outside the register on purpose (R24-3).",
+    "superseded_by": []
+  },
+  {
+    "id": "R41-1-DISTANCE_IS_TWO_AXES",
+    "pack": "Distance Two Axes Ruling",
+    "pack_number": null,
+    "section": "C-015",
+    "title": "Narration register and psychic-distance band are two axes, read together",
+    "status": "live",
+    "kind": "definition",
+    "summary": "R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.",
+    "verbatim": "Both stand as two axes. R35-2's narration register says whose idiom the narration runs in (close, medium, distant/formal); Pack Twenty's psychic-distance band (1 most distant, 5 deepest interior) says how deep inside the POV the narration sits. They are read together, never traded off: Cozbi runs in a distant/formal idiom AND at band 5 — the narration becomes him, in a formal register. No row struck.",
+    "amends": [
+      {
+        "guide": "WOTR_Scene_Writing_Process_Guide.md",
+        "locus": "narration distance",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "pov",
+      "prose-law"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-13, Claude Code: ruled directly (closes C-015)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-015. R35-2 and R20C-PD-PSYCHIC_DISTANCE_BANDS both stay live.",
     "superseded_by": []
   },
   {
@@ -7031,7 +7062,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-13, Claude Code: ratified as written (RULINGS.md 2026-09-13)",
     "source": {
       "file": "",
       "lines": null
@@ -7062,7 +7093,7 @@
       "character-sheet"
     ],
     "verification": [],
-    "ratified": null,
+    "ratified": "Isaac, 2026-09-13, Claude Code: ratified as written (RULINGS.md 2026-09-13)",
     "source": {
       "file": "",
       "lines": null

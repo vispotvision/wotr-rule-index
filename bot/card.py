@@ -41,7 +41,7 @@ def fow(name: str) -> dict | None:
     d = W.character_page(name)
     if not d:
         return None
-    raw = W.M.fow_line(name)
+    raw = W.M.fow_line(W._alias(name))
     facts: list[tuple[str, str]] = []
     rows: list[dict] = []
     notes: list[str] = []

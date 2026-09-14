@@ -1,0 +1,222 @@
+# Re-cost pass (R38-2) — 2026-09-13 — APPLIED
+
+7 card(s) state a lifetime pool.
+
+## Gorrath Bloodspine · The Magmaborn Juggernaut
+
+- already on the current allotment (pool 6,930); nothing to do
+
+## Iskaron Thalnaris — Bearer of the Fractured Crown
+
+- Level 330, Stage XI; stated pool **15,150** → current pool **11,730** (5,130 levelling + 6,600 Thresholds); ratio 0.774; Sub-Stat cap 725 (R39-4)
+
+- Ardency: 731 → 566  [table]
+- Vitality: 712 → 551  [table]
+- Resilience: 664 → 514  [table]
+- Dominion: 601 → 465  [table]
+- Harmonics: 578 → 448  [table]
+- Tempering: 495 → 383  [table]
+- Gnosis: 470 → 364  [table]
+- Dexterity: 442 → 342  [table]
+- Overchannel: 742 → 574  [paragraph]
+- Detonation: 726 → 562  [paragraph] — retired name; read as Ardency Overchannel (Merge Ledger)
+- Endurance: 705 → 546  [paragraph] — retired name; read as Vitality Constitution (Merge Ledger)
+- Overflow: 698 → 540  [paragraph]
+- Density: 681 → 527  [paragraph]
+- Scarring: 664 → 514  [paragraph] — retired name; read as Vitality Regeneration or Resilience Integrity (Merge Ledger)
+- Absorption: 652 → 505  [paragraph]
+- Hardening: 640 → 496  [paragraph]
+- Penetration: 628 → 486  [paragraph]
+- Tenacity: 611 → 473  [paragraph] — retired name; read as Vitality Fortitude (Merge Ledger)
+- Fortification: 597 → 462  [paragraph]
+- Threshold: 584 → 452  [paragraph]
+- Stability: 520 → 403  [paragraph]
+- Coherence: 445 → 345  [paragraph]
+- Maturity: 416 → 322  [paragraph]
+- Sovereignty: 400 → 310  [callout]
+- Pressure: 400 → 310  [paragraph]
+- allocation (each stat once, table then peaks): 11,460 against the pool of 11,730; unspent 270
+- blocks to edit: 23
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger
+
+## Sinclair Mercer · The Soul Devourer
+
+- Level 338, Stage XI; stated pool **15,430** → current pool **11,898** (5,298 levelling + 6,600 Thresholds); ratio 0.771; Sub-Stat cap 725 (R39-4)
+
+- Resilience: 742 → 572  [table]
+- Gnosis: 698 → 538  [table]
+- Harmonics: 671 → 517  [table]
+- Dominion: 640 → 494  [table]
+- Ardency: 604 → 466  [table]
+- Tempering: 558 → 430  [table]
+- Dexterity: 490 → 378  [table]
+- Vitality: 426 → 328  [table]
+- Severance: 750 → 578  [table] — retired name; read as Resilience Ward (Merge Ledger)
+- Continuity: 738 → 569  [table]
+- Nullity: 724 → 558  [table] — retired name; read as Vitality Tolerance or Resilience Persistence (Merge Ledger)
+- Memory: 716 → 552  [table] — retired name; read as Harmonics Attunement (Merge Ledger)
+- Cognition: 705 → 544  [table]
+- Depth: 688 → 531  [table]
+- Warding: 681 → 525  [table] — retired name; read as Gnosis Cognition (Merge Ledger)
+- Capacity: 664 → 512  [table]
+- Sovereignty: 652 → 503  [table]
+- Diagnosis: 640 → 494  [table] — retired name; read as Gnosis Analysis (Merge Ledger)
+- Coherence: 628 → 484  [table]
+- Spectral: 611 → 471  [table] — retired name; read as Ardency Cascade (Merge Ledger)
+- Silence: 596 → 460  [table] — retired name; read as Dexterity Feint (Merge Ledger)
+- Suppression: 584 → 450  [table]
+- Processing: 546 → 421  [table] — retired name; read as Tempering Maturity (Merge Ledger)
+- Persistence: 510 → 393  [table]
+- Ardency: 604 → 466  [paragraph]
+- Vitality: 426 → 328  [paragraph]
+- Dexterity: 490 → 378  [paragraph]
+- allocation (each stat once, table then peaks): 11,768 against the pool of 11,898; unspent 130
+- blocks to edit: 29
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger
+
+## Xanelor Rafminar · The Wandering Fang
+
+- Level 265, Stage IX; stated pool **10,950** → current pool **8,370** (3,870 levelling + 4,500 Thresholds); ratio 0.764; Sub-Stat cap 550 (R39-4)
+
+- Capacity: 425 → 325  [callout]
+- Dexterity: 612 → 468  [table]
+- Gnosis: 588 → 449  [table]
+- Dominion: 561 → 429  [table]
+- Ardency: 534 → 408  [table]
+- Harmonics: 512 → 391  [table]
+- Resilience: 470 → 359  [table]
+- Vitality: 448 → 342  [table]
+- Tempering: 425 → 325  [table]
+- Reflex: 625 → 478  [paragraph]
+- Celerity: 610 → 466  [paragraph]
+- Vigilance: 594 → 454  [paragraph]
+- Inscription: 578 → 442  [paragraph] — retired name; read as Ardency Density (Merge Ledger)
+- Perception: 562 → 430  [paragraph]
+- Evasion: 546 → 417  [paragraph]
+- Density: 530 → 405  [paragraph]
+- Cartography: 514 → 393  [paragraph] — retired name; read as Gnosis Perception (Merge Ledger)
+- Sense: 498 → 381  [paragraph]
+- Economy: 482 → 368  [paragraph]
+- Anchoring: 461 → 352  [paragraph]
+- Synergy: 400 → 306  [paragraph]
+- Radius: 400 → 306  [paragraph]
+- Ardency: 534 → 408  [paragraph]
+- Vitality: 448 → 342  [paragraph]
+- Dexterity: 612 → 468  [paragraph]
+- allocation (each stat once, table then peaks): 8,694 against the pool of 8,370; unspent 0
+- ⚠ the listed numbers exceed the pool by 324: the sheet's own Allocated line did not count every listed stat, or a peak sits above its Primary's scale — for the Judger
+- blocks to edit: 22
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger
+
+## Zarron Mahuo · The Arbiter of Unity
+
+- Level 290, Stage X; stated pool **12,700** → current pool **9,820** (4,320 levelling + 5,500 Thresholds); ratio 0.773; Sub-Stat cap 725 (R39-4)
+
+- Dominion: 702 → 543  [table]
+- Harmonics: 681 → 527  [table]
+- Gnosis: 664 → 513  [table]
+- Ardency: 620 → 479  [table]
+- Tempering: 597 → 462  [table]
+- Resilience: 558 → 431  [table]
+- Dexterity: 534 → 413  [table]
+- Vitality: 470 → 363  [table]
+- Rift: 725 → 561  [paragraph] — retired name; read as Dominion Sense *(renamed)* (Merge Ledger)
+- Synergy: 710 → 549  [paragraph]
+- Analysis: 694 → 537  [paragraph]
+- Confluence: 672 → 520  [paragraph] — retired name; read as Harmonics Synergy (Merge Ledger)
+- Projection: 651 → 503  [paragraph]
+- Attunement: 608 → 470  [paragraph]
+- Resonance: 585 → 452  [paragraph] — retired name; read as Gnosis Fluency (Merge Ledger)
+- Anchoring: 564 → 436  [paragraph]
+- Dimensional: 542 → 419  [paragraph] — retired name; read as Resilience Continuity (Merge Ledger)
+- Capacity: 520 → 402  [paragraph]
+- Fidelity: 466 → 360  [paragraph] — retired name; read as Harmonics Attunement (Merge Ledger)
+- Conversion: 275 → 213  [paragraph] — retired name; read as Ardency Overchannel or Tempering Yield (Merge Ledger)
+- Processing: 400 → 309  [paragraph] — retired name; read as Tempering Maturity (Merge Ledger)
+- Spectral: 400 → 309  [paragraph] — retired name; read as Ardency Cascade (Merge Ledger)
+- Ardency: 620 → 479  [paragraph]
+- Vitality: 470 → 363  [paragraph]
+- Dexterity: 534 → 413  [paragraph]
+- allocation (each stat once, table then peaks): 9,771 against the pool of 9,820; unspent 49
+- blocks to edit: 23
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger
+
+## Ignatius Sanctus Sanctorum Arsenal · The Archpaladin
+
+- Level 385, Stage XII; stated pool **18,275** → current pool **14,085** (6,285 levelling + 7,800 Thresholds); ratio 0.771; Sub-Stat cap 950 (R39-4)
+
+- Vitality: 856 → 660  [table]
+- Resilience: 840 → 647  [table]
+- Ardency: 828 → 638  [table]
+- Dominion: 800 → 617  [table]
+- Tempering: 720 → 555  [table]
+- Harmonics: 650 → 501  [table]
+- Dexterity: 548 → 422  [table]
+- Gnosis: 520 → 401  [table]
+- Radiance: 950 → 732  [paragraph] — retired name; read as Ardency Compression (Merge Ledger)
+- Fortitude: 936 → 721  [paragraph]
+- Pressure: 921 → 710  [paragraph]
+- Oath: 903 → 696  [paragraph]
+- Absorption: 887 → 684  [paragraph]
+- Penetration: 869 → 670  [paragraph]
+- Immunity: 852 → 657  [paragraph] — retired name; read as Resilience Hardening (Merge Ledger)
+- Radius: 834 → 643  [paragraph]
+- Threshold: 816 → 629  [paragraph]
+- Resistance: 798 → 615  [paragraph] — retired name; read as Tempering Clarity (Merge Ledger)
+- Attunement: 781 → 602  [paragraph]
+- Density: 763 → 588  [paragraph]
+- Ossification: 745 → 574  [paragraph] — retired name; read as Vitality Fortitude (Merge Ledger)
+- Compression: 660 → 509  [paragraph]
+- Ward: 175 → 135  [paragraph]
+- Warding: 275 → 212  [paragraph] — retired name; read as Gnosis Cognition (Merge Ledger)
+- Sovereignty: 400 → 308  [paragraph]
+- Radiance: 950 → 732  [paragraph] — retired name; read as Ardency Compression (Merge Ledger)
+- Ardency: 828 → 638  [paragraph]
+- Vitality: 856 → 660  [paragraph]
+- Dexterity: 548 → 422  [paragraph]
+- Capacity: 6 → 5  [bulleted_list_item]
+- Density: 7 → 5  [bulleted_list_item]
+- allocation (each stat once, table then peaks): 14,131 against the pool of 14,085; unspent 0
+- ⚠ the listed numbers exceed the pool by 46: the sheet's own Allocated line did not count every listed stat, or a peak sits above its Primary's scale — for the Judger
+- blocks to edit: 26
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger
+
+## Karo Venrik · The Foolish Magus
+
+- Level 156, Stage V; stated pool **4,900** → current pool **3,540** (2,040 levelling + 1,500 Thresholds); ratio 0.722; Sub-Stat cap 275 (R39-4)
+
+- Gnosis: 268 → 194  [table]
+- Harmonics: 244 → 176  [table]
+- Tempering: 186 → 134  [table]
+- Ardency: 152 → 110  [table]
+- Dexterity: 138 → 100  [table]
+- Resilience: 126 → 91  [table]
+- Vitality: 112 → 81  [table]
+- Dominion: 88 → 64  [table]
+- Retention: 292 → 211  [paragraph]
+- Perception: 278 → 201  [paragraph]
+- Attunement: 264 → 191  [paragraph]
+- Analysis: 251 → 181  [paragraph]
+- Fidelity: 238 → 172  [paragraph] — retired name; read as Harmonics Attunement (Merge Ledger)
+- Memory: 226 → 163  [paragraph] — retired name; read as Harmonics Attunement (Merge Ledger)
+- Acuity: 214 → 155  [paragraph]
+- Inscription: 202 → 146  [paragraph] — retired name; read as Ardency Density (Merge Ledger)
+- Clarity: 190 → 137  [paragraph]
+- Latency: 178 → 129  [paragraph] — retired name; read as Tempering Yield (Merge Ledger)
+- Coherence: 166 → 120  [paragraph]
+- Maturity: 154 → 111  [paragraph]
+- Persistence: 148 → 107  [paragraph]
+- Diagnosis: 142 → 103  [paragraph] — retired name; read as Gnosis Analysis (Merge Ledger)
+- Reflex: 134 → 97  [paragraph]
+- Confluence: 130 → 94  [paragraph] — retired name; read as Harmonics Synergy (Merge Ledger)
+- Sense: 118 → 85  [paragraph]
+- Integrity: 106 → 77  [paragraph]
+- Radius: 96 → 69  [paragraph]
+- Ardency: 152 → 110  [paragraph]
+- Vitality: 112 → 81  [paragraph]
+- Dexterity: 138 → 100  [paragraph]
+- Capacity: 2 → 1  [bulleted_list_item]
+- Density: 4 → 3  [bulleted_list_item]
+- allocation (each stat once, table then peaks): 3,503 against the pool of 3,540; unspent 37
+- blocks to edit: 24
+- R38-1 Path gates: not applied (the card states no Path commitment); listed for the Judger

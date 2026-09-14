@@ -642,6 +642,22 @@ def scene_brief(beat: str, thread: str = "", scene_type: str = "standard", cultu
 
 
 @server.tool()
+def scene_context(draft: str, budget: int = 24000) -> str:
+    """The lorebook: paste a draft, a beat, or Isaac's prompt and get back what the wiki
+    knows about every name in it — character cards (full, capped), pages for places,
+    artifacts, disciplines and factions (their head), the prior scenes on the same
+    ground (semantic), struck Büri-register terms, and any name the wiki has no page
+    for. Call it before drafting and again before posting; nothing is written.
+    budget caps the reply in characters."""
+    import lorebook as L
+    try:
+        rev = _reversion_map()
+    except Exception:
+        rev = []
+    return L.context(draft, budget=budget, reversion=rev)
+
+
+@server.tool()
 def cast_index(write: bool = True) -> str:
     """Who appears in which scene. Matches every wiki character-card name (and the
     voice roster) against scenes/, writes scenes/CAST.md and, if missing, a

@@ -1,0 +1,6 @@
+# Names the scene archive uses that the wiki page title does not carry.
+#   alias: exact wiki page title
+# build/lorebook.py reads this so scene_context finds the card. The better fix
+# is the card itself carrying the name (a "Called" line, via update_character);
+# remove the line here once it does.
+Darius: "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin"

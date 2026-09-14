@@ -231,9 +231,11 @@ def collect_wiki() -> dict[str, list[tuple[str, str]]]:
     """section -> [(title, markdown)], hub page first then alphabetical."""
     manifest = json.loads((WIKI / ".manifest.json").read_text(encoding="utf-8"))
     pages = []
+    # pages under Notion's private root (the Judger's desk: NPC lies, the docket,
+    # the running pieces) never reach the shelf; notion_export stamps the flag
     for v in manifest.values():
         p = WIKI / v["rel"]
-        if not p.exists():
+        if not p.exists() or v.get("private"):
             continue
         md, meta = strip_frontmatter(p.read_text(encoding="utf-8"))
         pages.append({"title": v["title"], "section": v["rel"].split("/")[0], "md": md})
@@ -304,6 +306,13 @@ def main() -> int:
     private_dir.mkdir(parents=True, exist_ok=True)
     if args.private_out and (out_dir / "The Rule Index.docx").exists():
         (out_dir / "The Rule Index.docx").unlink()  # it lives in the private folder now
+    manifest = json.loads((WIKI / ".manifest.json").read_text(encoding="utf-8"))
+    public = {v["rel"].split("/")[0] for v in manifest.values() if not v.get("private")}
+    for section in {v["rel"].split("/")[0] for v in manifest.values() if v.get("private")} - public:
+        stale = out_dir / f"{safe_name(section)}.docx"
+        if section not in jobs and stale.exists():
+            stale.unlink()  # a private section that reached the shelf before the flag existed
+            print(f"  removed {stale.name} from the shelf (private section)")
 
     written = 0
     for section, (subtitle, items) in sorted(jobs.items()):

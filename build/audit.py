@@ -2,10 +2,10 @@
 """Archive-wide audits: the prose-law pass, recurrence tracking, the timeline
 skeleton, card-to-scene consistency, wiki duplicates, and the pack impact check.
 
-  python build/audit.py prose        -> reports/prose_pass_<date>.md
-  python build/audit.py recurrence   -> reports/recurrence_<date>.md
+  python build/audit.py prose        -> reports/prose_pass.md
+  python build/audit.py recurrence   -> reports/recurrence.md
   python build/audit.py timeline     -> scenes/TIMELINE.md (skeleton, kept if present)
-  python build/audit.py reconcile    -> reports/reconcile_<date>.md
+  python build/audit.py reconcile    -> reports/reconcile.md
   python build/audit.py impact <pack.md>   -> which live rules a new pack's text touches
 """
 import json
@@ -40,8 +40,12 @@ def _read(p: Path) -> str:
 
 
 def report(name: str, lines: list[str]) -> Path:
+    """One file per audit kind, overwritten each run (git holds the history); the date
+    goes under the title, not in the file name, so reports/ stops accumulating copies."""
     REPORTS.mkdir(exist_ok=True)
-    p = REPORTS / f"{name}_{date.today().isoformat()}.md"
+    p = REPORTS / f"{name}.md"
+    if lines and lines[0].startswith("# "):
+        lines = lines[:1] + [f"_Run {date.today().isoformat()}_", ""] + lines[1:]
     p.write_text("\n".join(lines) + "\n", encoding="utf-8", newline="\n")
     return p
 
@@ -209,7 +213,7 @@ def impact(pack_path: str) -> Path:
     hits.sort(key=lambda h: -h[0])
     lines = [f"# Pack impact — {Path(pack_path).name}", "", f"{len(hits)} live rules share four or more distinctive terms with this text. Read each against the pack before extraction; a strike or a contradiction needs quotable words.", ""]
     lines += [f"- **{rid}** ({n}) {title} — {', '.join(terms)}" for n, rid, title, terms in hits[:60]]
-    return report("impact_" + Path(pack_path).stem, lines)
+    return report("pack_impact", lines)  # the pack is named in the report's first line
 
 
 def main() -> int:

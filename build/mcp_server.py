@@ -2,8 +2,7 @@
 """WOTR MCP: the tools Natalie calls from Claude Desktop, over the rule index, the wiki mirror and the scene archive.
 
   python build/mcp_server.py           # stdio, what claude_desktop_config.json launches
-  python build/mcp_server.py --http    # streamable HTTP on :8765, for n8n's MCP Client node
-                                       #   (from the n8n container: http://host.docker.internal:8765/mcp)
+  python build/mcp_server.py --http    # streamable HTTP on :8765 for a local MCP client (unused today)
   python build/mcp_server.py --public  # --http --read-only, and a shared secret is required:
                                        #   Authorization: Bearer <token>, or the path /t/<token>/mcp
                                        #   (for Claude custom connectors, which cannot send headers).
@@ -1473,8 +1472,8 @@ READ_ONLY_TOOLS = {
     "load_rules", "rule", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
     "session_start", "verify_scene", "stale_names", "scene_brief",
-    "fronts", "due", "roster", "scene_menu",
-    "prose_pass", "recurrence_report", "reconcile", "timeline",
+    "fronts", "due", "roster", "scene_menu", "scene_context",
+    "timeline",  # prose_pass, recurrence_report, reconcile stay off the public route: minutes of CPU per call
     "voice_check", "voice_fingerprints", "gap_fill",
     "narrate_scene", "narration_status", "scene_text", "cast_scene",
 }

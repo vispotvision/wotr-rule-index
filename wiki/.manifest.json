@@ -7,7 +7,8 @@
   "3d758200-eb22-81a5-bb06-c271e0493f1c": {
     "rel": "The Table — Running Pieces/State of Play — Ilthára Korvaeth The New World.md",
     "edited": "2026-09-10T23:19:00.000Z",
-    "title": "State of Play — Ilthára Korvaeth / The New World"
+    "title": "State of Play — Ilthára Korvaeth / The New World",
+    "private": true
   },
   "3d758200-eb22-816c-be55-d46eabfa4f7b": {
     "rel": "The War Cycle/The Fisc — Paying for a Siege.md",
@@ -162,42 +163,50 @@
   "3d458200-eb22-81d1-9b3a-eb14c93ae922": {
     "rel": "The Scene Archive/The Left of the Door — Renard Greymane at the Altar-Room Door.md",
     "edited": "2026-09-10T11:22:00.000Z",
-    "title": "The Left of the Door — Renard Greymane at the Altar-Room Door"
+    "title": "The Left of the Door — Renard Greymane at the Altar-Room Door",
+    "private": true
   },
   "3d458200-eb22-810c-856c-e7d6dd3cecbb": {
     "rel": "The Table — Running Pieces/State of Play — Hild Ice Kharven-Seat.md",
     "edited": "2026-09-11T02:37:00.000Z",
-    "title": "State of Play — Hild Ice / Kharven-Seat"
+    "title": "State of Play — Hild Ice / Kharven-Seat",
+    "private": true
   },
   "3d458200-eb22-8135-b377-f859d84a96b7": {
     "rel": "The Table — Running Pieces/Open Rulings — The Docket.md",
     "edited": "2026-09-10T11:22:00.000Z",
-    "title": "Open Rulings — The Docket"
+    "title": "Open Rulings — The Docket",
+    "private": true
   },
   "3d458200-eb22-8139-94c7-c55fcf884b85": {
     "rel": "The Table — Running Pieces/State of Play — Kwon Mu-jin Hon-guk.md",
     "edited": "2026-09-10T11:22:00.000Z",
-    "title": "State of Play — Kwon Mu-jin / Hon-guk"
+    "title": "State of Play — Kwon Mu-jin / Hon-guk",
+    "private": true
   },
   "3d458200-eb22-8158-bf6b-d0bbf9af9b1c": {
     "rel": "The Table — Running Pieces/State of Play — Sodoku Moto Kharven.md",
     "edited": "2026-09-10T23:17:00.000Z",
-    "title": "State of Play — Sodoku Moto / Kharven"
+    "title": "State of Play — Sodoku Moto / Kharven",
+    "private": true
   },
   "3d458200-eb22-8167-8e70-d13cfe2b4c1e": {
     "rel": "The Table — Running Pieces/Fronts.md",
     "edited": "2026-09-11T02:38:00.000Z",
-    "title": "Fronts"
+    "title": "Fronts",
+    "private": true
   },
   "3d458200-eb22-81a9-aec9-dd49034177e2": {
     "rel": "The Table — Running Pieces/The Ledger.md",
     "edited": "2026-09-11T02:38:00.000Z",
-    "title": "The Ledger"
+    "title": "The Ledger",
+    "private": true
   },
   "3d458200-eb22-813a-9148-fb943587f1dc": {
     "rel": "The Scene Archive/The Table — Running Pieces.md",
     "edited": "2026-09-14T01:02:00.000Z",
-    "title": "The Table — Running Pieces"
+    "title": "The Table — Running Pieces",
+    "private": true
   },
   "3c758200-eb22-81fb-a0e8-ce042e2c2142": {
     "rel": "The Fourteen Titans/The Abyssal Depths — Prometheus, Zar'thuun, Vohrin.md",
@@ -867,7 +876,8 @@
   "3bc58200-eb22-81e0-be04-e39a67134b0b": {
     "rel": "In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
     "edited": "2026-08-14T23:00:00.000Z",
-    "title": "The Apprentice's Primer — A First Reader for the Newly Registered"
+    "title": "The Apprentice's Primer — A First Reader for the Newly Registered",
+    "private": true
   },
   "3bc58200-eb22-81c9-8a85-e32caf0235ed": {
     "rel": "Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture.md",
@@ -1267,12 +1277,14 @@
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
     "edited": "2026-09-13T23:44:00.000Z",
-    "title": "The Scene Archive"
+    "title": "The Scene Archive",
+    "private": true
   },
   "3b258200-eb22-81a4-945c-e1dbd5a53898": {
     "rel": "In-World Documents & the Narrative Archive/Anima Veri Credentis.md",
     "edited": "2026-08-04T00:15:00.000Z",
-    "title": "Anima Veri Credentis"
+    "title": "Anima Veri Credentis",
+    "private": true
   },
   "3b258200-eb22-80d8-ae44-ea3370421359": {
     "rel": "The Archaic Bloodlines/The Mahuo Family.md",
@@ -1282,17 +1294,20 @@
   "3b258200-eb22-811f-933c-ccc171351a0f": {
     "rel": "In-World Documents & the Narrative Archive/To Ara Min Mahuo.md",
     "edited": "2026-08-04T00:13:00.000Z",
-    "title": "To Ara Min Mahuo"
+    "title": "To Ara Min Mahuo",
+    "private": true
   },
   "3b258200-eb22-813a-b547-d9cd2ecb514d": {
     "rel": "In-World Documents & the Narrative Archive/The Zettari–Mahou Accord.md",
     "edited": "2026-08-04T00:13:00.000Z",
-    "title": "The Zettari–Mahou Accord"
+    "title": "The Zettari–Mahou Accord",
+    "private": true
   },
   "3b258200-eb22-8131-9fac-d195197bddc3": {
     "rel": "Information not on WIKI/In-World Documents & the Narrative Archive.md",
     "edited": "2026-09-12T06:04:00.000Z",
-    "title": "In-World Documents & the Narrative Archive"
+    "title": "In-World Documents & the Narrative Archive",
+    "private": true
   },
   "3b258200-eb22-810f-833b-eb3cadadfdc6": {
     "rel": "The Alftian Codex/Volume the Third.md",
@@ -2877,27 +2892,32 @@
   "3d958200-eb22-80a4-b8f3-cc2c16241f7d": {
     "rel": "Misc/Information not on WIKI.md",
     "edited": "2026-09-13T23:11:00.000Z",
-    "title": "Information not on WIKI"
+    "title": "Information not on WIKI",
+    "private": true
   },
   "3d958200-eb22-815f-8fc6-c60b3ea0104e": {
     "rel": "Information not on WIKI/Pack Twenty — The Clearance.md",
     "edited": "2026-09-12T04:33:00.000Z",
-    "title": "Pack Twenty — The Clearance"
+    "title": "Pack Twenty — The Clearance",
+    "private": true
   },
   "3da58200-eb22-8185-9e34-c911128e4500": {
     "rel": "The Table — Running Pieces/Fronts, as clocks.md",
     "edited": "2026-09-13T23:38:00.000Z",
-    "title": "Fronts, as clocks"
+    "title": "Fronts, as clocks",
+    "private": true
   },
   "3da58200-eb22-819e-854c-e93d0f9ad70c": {
     "rel": "The Table — Running Pieces/The Ledger, structured.md",
     "edited": "2026-09-13T23:38:00.000Z",
-    "title": "The Ledger, structured"
+    "title": "The Ledger, structured",
+    "private": true
   },
   "3da58200-eb22-81d1-8d27-d3637399b15c": {
     "rel": "The Table — Running Pieces/NPC roster.md",
     "edited": "2026-09-13T23:38:00.000Z",
-    "title": "NPC roster"
+    "title": "NPC roster",
+    "private": true
   },
   "3db58200-eb22-812a-ad53-c3188d8e5557": {
     "rel": "Reference Table/A Reader's Codex.md",
@@ -2907,7 +2927,8 @@
   "3db58200-eb22-8145-ae66-d7fa3a3a1409": {
     "rel": "The Scene Archive/The Freight Book.md",
     "edited": "2026-09-14T00:08:00.000Z",
-    "title": "The Freight Book"
+    "title": "The Freight Book",
+    "private": true
   },
   "3db58200-eb22-8163-aece-ffa4a7d82ad0": {
     "rel": "The Tongues of the Realms/The Celestial Host — Naming.md",

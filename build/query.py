@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Load the rules a given task needs. This is what the n8n context step calls.
+"""Load the rules a given task needs. The wotr-rules skill and the book workflow call it.
 
   python build/query.py --applies-to combat adjudication
   python build/query.py --applies-to dialogue --format brief

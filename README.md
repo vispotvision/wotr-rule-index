@@ -205,8 +205,8 @@ named **WOTR MCP** (registered in `claude_desktop_config.json`). Tools:
 | `narrate_scene(scene, voice)`, `narration_status()` | render a scene to MP3 with the local narrator (`build/audio_export.py`) in the background — every tagged speaker in their own voice when a cast file exists; status lists jobs and the link to play each rendered scene |
 | `sync_now()` | runs `build/sync.ps1` |
 
-`--http` serves the same tools over streamable HTTP on :8765 for n8n's MCP
-Client node (`http://host.docker.internal:8765/mcp` from the n8n container).
+`--http` serves the same tools over streamable HTTP on :8765 (kept for any local
+MCP client on this machine; nothing uses it today).
 `build/verify.py` also runs standalone: `python build/verify.py draft.md --combat --culture Kharven --band set-piece`.
 
 ### Sharing it with friends
@@ -246,7 +246,7 @@ runs over stdio with every tool, unaffected.
 
 ## The book pipeline, without n8n
 
-`n8n/BOOK_PIPELINE.md` is the full design (n8n nodes, ten check passes, cost).
+`book/design/BOOK_PIPELINE.md` is the full design (ten check passes, book memory, the round cap; its n8n transport needs an API key that does not exist).
 Until an API key exists it runs inside Claude Code instead, on the
 subscription: `.claude/workflows/book-chapter.js` takes one chapter through
 foundation (once: the book's spine derived from the Fronts and Ledger) →

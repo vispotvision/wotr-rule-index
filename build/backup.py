@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Weekly backup of the canon to Google Drive: one zip of wiki/, scenes/, table/, rules/,
-sources/, proposals/, reports/ and the top-level ledgers into
+sources/, proposals/, reports/, the top-level ledgers and the WOTR True Canon folder
+(the base guides and their dated editions, which live in no git repository) into
   G:\\My Drive\\War of the Realms — Backups\\wotr-<date>.zip
 keeping the last twelve. A file another process holds open is skipped and named in the log.
 Run by build/backup.ps1 (the scheduled task "WOTR weekly backup", Sunday 03:00)."""
@@ -12,6 +13,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DEST = Path(r"G:\My Drive\War of the Realms — Backups")
 ITEMS = ["wiki", "scenes", "table", "rules", "sources", "proposals", "reports", "docs", "RULINGS.md", "CONFLICTS.md", "ROADMAP.md", "CONTINUE.md", "README.md"]
+# outside the repo and in no git history: the base craft guides and their dated
+# editions. Drive for Desktop mirrors that folder, but a mirror carries a rollback
+# with it (it has, once); these zips are the versions.
+EXTRA = [Path(r"C:\Users\isaac\Documents\WOTR True Canon")]
 KEEP = 12
 LOG = ROOT / "build" / "backup.log"
 
@@ -42,6 +47,18 @@ def main() -> int:
                     n += 1
                 except OSError as e:
                     skipped.append(f"{f.relative_to(ROOT).as_posix()} ({e.strerror})")
+        for folder in EXTRA:
+            if not folder.exists():
+                log(f"{folder} not found; skipped")
+                continue
+            for f in folder.rglob("*"):
+                if not f.is_file():
+                    continue
+                try:
+                    z.write(f, f"{folder.name}/{f.relative_to(folder).as_posix()}")
+                    n += 1
+                except OSError as e:
+                    skipped.append(f"{folder.name}/{f.relative_to(folder).as_posix()} ({e.strerror})")
     log(f"wrote {out} ({out.stat().st_size / 1e6:.1f} MB, {n} files)" + (f"; skipped {len(skipped)}: " + "; ".join(skipped[:5]) if skipped else ""))
     old = sorted(DEST.glob("wotr-*.zip"), key=lambda f: f.stat().st_mtime, reverse=True)[KEEP:]
     for f in old:

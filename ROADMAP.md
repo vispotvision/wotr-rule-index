@@ -125,7 +125,35 @@ sampling experiments in the plain venv; loudness normalisation and a gentle
 master on the final MP3; RVC only if a character's voice must be held tighter
 than best-of-N can.
 
+**Where it stands (2026-09-13, the cutter's pass).** The paragraph above is
+the decision; this is the state. Qwen is locked: since `6caf56c` every
+`engine: qwen` speaker falls back to its `fallback:` entry or a pool voice
+unless `--qwen` is passed on the command line, and `narrate_scene` never
+passes it — the design engine still drifts between takes. What is installed:
+Kokoro (CPU, `build/models/`), Chatterbox on the GPU (`C:\venvs\wotr-cb-gpu`)
+and a CPU copy (`build/.venv-chatterbox`, superseded by the GPU one),
+Supertonic 3 (`C:\venvs\wotr-supertonic`), Qwen in two venvs
+(`C:\venvs\wotr-qwen`, `wotr-qwen-fast`), CosyVoice in flight
+(`C:\venvs\wotr-cosy`, `build/cosy_worker.py`, uncommitted) and an ElevenLabs
+path in the narrator for a paid voice. Six engines, six venvs, one writer.
+**The freeze:** nothing new on the voice roadmap until one engine-agnostic
+gate is passed — *Gimbzo holds one voice across three consecutive scene
+renders* (same pitch floor, same register, by ear and by `voice_shape.py`'s
+numbers) — and the gate is measured, not asserted. Whichever engine passes
+it is the character engine; the "Next" list that stood here (the 39 briefs,
+`voice_describe.py`, the ggml backend, `subtalker`, RVC) moves to Deferred
+below with that reason. The loudness master on the final MP3 is the one
+exception: it is a mastering step, not an engine, and the ideas report has it
+as Do next 7.
+
 ## Deferred until there is a reason
+
+- The voice roadmap's "Next" list (moved here 2026-09-13): `qwen_instruct`
+  briefs for the other 39 characters; `voice_describe.py` (measure a clip →
+  brief words); the ggml/Vulkan backend of faster-qwen3-tts and `subtalker`
+  sampling; RVC on ROCm. Reason: the Narration gate above is not passed; each
+  of these builds on an engine that may not be the one. When one engine holds
+  Gimbzo across three renders, take them up in that order.
 
 - Character reference art (Isaac, 2026-09-12). Goal: gather artwork for
   characters from artists and boards, not only local AI output. Design

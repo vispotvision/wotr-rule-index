@@ -25,8 +25,11 @@ No rule IDs that do not trace to a section. No `applies_to` tags outside
 project. If something is genuinely ambiguous, set the field to `null` and log it.
 
 ## Scope discipline
-One pack per commit. Stop at the end of each phase in `BRIEF.md` and report.
-Do not run ahead into the next phase because it seems easy.
+Read `CONTINUE.md` first: it is the live state, and two sessions often write
+this repo at once — commit only your own files. One pack per commit. Stop at
+the end of each phase of the job at hand (`BRIEF.md` for a pack extraction,
+`ROADMAP.md` otherwise) and report. Do not run ahead into the next phase
+because it seems easy.
 
 ## Validation gate
 `python build/validate.py` must exit 0 before you claim a pack is done. If a

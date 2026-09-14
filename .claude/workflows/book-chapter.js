@@ -1,7 +1,7 @@
 export const meta = {
   name: 'book-chapter',
   description: 'One chapter of a War of the Realms book, Claude Code as the orchestrator: foundation (once), brief, draft, checks, bounded revise, then the digest for Isaac (nothing is archived here)',
-  whenToUse: 'Writing a book chapter through the checked loop from n8n/BOOK_PIPELINE.md without n8n; args {slug, thread, front_thread, culture, chapter, do_foundation, premise, target_chapters, target_words}',
+  whenToUse: 'Writing a book chapter through the checked loop from book/design/BOOK_PIPELINE.md without n8n; args {slug, thread, front_thread, culture, chapter, do_foundation, premise, target_chapters, target_words}',
   phases: [{ title: 'Foundation' }, { title: 'Brief' }, { title: 'Draft' }, { title: 'Check' }, { title: 'Revise' }, { title: 'Digest' }],
 }
 // ------------------------------------------------------------------ setup

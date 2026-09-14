@@ -366,6 +366,7 @@ def main() -> int:
     print("listing wiki rows ...")
     rows = list_rows()
     crawl_incomplete = False
+    private_ids: set = set()  # stamped on the manifest so docs_export keeps them off the shelf
     for root_id in PRIVATE_ROOTS:
         try:
             private_pages = crawl_private_tree(root_id)
@@ -378,6 +379,7 @@ def main() -> int:
             continue
         print(f"  {len(private_pages)} pages under the private root {root_id}")
         rows += private_pages
+        private_ids.update(p["id"] for p in private_pages)
     # pages that notion_publish.py pushed *into* Notion from this repo are not
     # mirrored back, or they would come round twice
     pub = ROOT / "build" / ".notion_publish.json"
@@ -401,9 +403,15 @@ def main() -> int:
         if any(x["rel"] == rel and x["id"] != p["id"] for x in plan):
             rel = f"{slug(section)}/{slug(title)} ({p['id'][:8]}).md"
         plan.append({"id": p["id"], "title": title, "section": section, "rel": rel,
-                     "edited": p.get("last_edited_time", ""), "page": p})
+                     "edited": p.get("last_edited_time", ""), "page": p, "private": p["id"] in private_ids})
 
     path_for = {x["id"].replace("-", ""): x["rel"] for x in plan}
+    for x in plan:  # unchanged pages keep their manifest row; the flag still has to be current
+        if x["id"] in manifest:
+            if x["private"]:
+                manifest[x["id"]]["private"] = True
+            else:
+                manifest[x["id"]].pop("private", None)
     todo = [x for x in plan if manifest.get(x["id"], {}).get("edited") != x["edited"]
             or not (WIKI_DIR / x["rel"]).exists()]
     print(f"  {len(todo)} to export, {len(plan) - len(todo)} unchanged")
@@ -418,6 +426,8 @@ def main() -> int:
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(text, encoding="utf-8", newline="\n")
         manifest[x["id"]] = {"rel": x["rel"], "edited": x["edited"], "title": x["title"]}
+        if x["private"]:
+            manifest[x["id"]]["private"] = True
         print(f"  [{i}/{len(todo)}] {x['rel']}")
         if i % 10 == 0:
             MANIFEST.write_text(json.dumps(manifest, indent=2, ensure_ascii=False), encoding="utf-8")

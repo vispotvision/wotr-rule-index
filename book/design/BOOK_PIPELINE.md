@@ -1,3 +1,9 @@
+> **Status (2026-09-13).** This is the design of the book pipeline: the ten check
+> passes, the book memory, the three-round cap. `.claude/workflows/book-chapter.js`
+> implements it in Claude Code, on the subscription. The n8n transport described
+> below needs an Anthropic API key that does not exist and is not coming; do not
+> build toward it. The research notes are in `research/` beside this file.
+
 # BOOK_PIPELINE.md — the War of the Realms book pipeline on n8n
 
 Design document, 2026-09-12; reviewed against the research notes, `build/mcp_server.py`, `build/verify.py` and `desktop/NATALIE.md` the same day. Written for the builder in the next session. Nothing in this file has been built; the numbers are estimates from the repo inventory and the research notes, and each is marked as such. Anything marked **to verify** is a claim the research does not settle; check it on the first run before relying on it.

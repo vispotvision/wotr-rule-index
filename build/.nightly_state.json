@@ -1,0 +1,1356 @@
+{
+"run": "2026-09-13T23:37:04",
+"findings": {
+"0f2e58866e24": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "em dashes: 150 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "0f2e58866e24",
+"first_seen": "2026-09-13"
+},
+"67fe8e213674": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "countdown negation: \"No Judicium channel. No priority structure. Just the raw, unprocessed observation of a nineteen-year-old sitting in the rain looking at his \" (AI-tells §1)",
+"key": "67fe8e213674",
+"first_seen": "2026-09-13"
+},
+"f0accbcf7949": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "countdown negation: \"No Judicium channel. No priority structure. No ranked queue. Just the raw, unprocessed interrogation of a nineteen-year-old exile standing i\" (AI-tells §1)",
+"key": "f0accbcf7949",
+"first_seen": "2026-09-13"
+},
+"0c88926e84ee": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "countdown negation: \"Not enough to close distance. Not enough to constitute advance. Just enough to change the geometry of the conversation by four feet, which w\" (AI-tells §1)",
+"key": "0c88926e84ee",
+"first_seen": "2026-09-13"
+},
+"6eb63abe9da5": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "countdown negation: \"Not intelligent. Not strategic. Just big and old and saturated with enough wild Aether to make its threat level exceed what its physical dim\" (AI-tells §1)",
+"key": "6eb63abe9da5",
+"first_seen": "2026-09-13"
+},
+"7f37da2dc730": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "countdown negation: \"No flare of power. No posturing. Just *calculation*, cold and total, the kind that only came from a soul that had already measured worse thi\" (AI-tells §1)",
+"key": "7f37da2dc730",
+"first_seen": "2026-09-13"
+},
+"0fc74da590c8": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "reification: 6 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"the space between them and sat\"; \"the silence that followed\"; \"The question arrived\"; \"The question sat\"; \"The weight settled\"",
+"key": "0fc74da590c8",
+"first_seen": "2026-09-13"
+},
+"d0bcde68c23c": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d0bcde68c23c",
+"first_seen": "2026-09-13"
+},
+"d7f50d0b6b91": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "flat runs: 31 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d7f50d0b6b91",
+"first_seen": "2026-09-13"
+},
+"1132353b0bb4": {
+"file": "The_Path_of_Sorrow.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "1132353b0bb4",
+"first_seen": "2026-09-13"
+},
+"eed6eb9dad30": {
+"file": "WOTR_Vaeloris_Sequence.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "eed6eb9dad30",
+"first_seen": "2026-09-13"
+},
+"5944fd9485f4": {
+"file": "WOTR_Vaeloris_Sequence.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not a finding, it is\" (banned; AI-tells §1)",
+"key": "5944fd9485f4",
+"first_seen": "2026-09-13"
+},
+"2dc595bd23dc": {
+"file": "WOTR_Vaeloris_Sequence.md",
+"check": "prose",
+"text": "reification: 5 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"the weight of it came\"; \"the silence that came\"; \"grief that had settled\"; \"The weight went\"; \"authority came\"",
+"key": "2dc595bd23dc",
+"first_seen": "2026-09-13"
+},
+"12d24af20635": {
+"file": "WOTR_Vaeloris_Sequence.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "12d24af20635",
+"first_seen": "2026-09-13"
+},
+"dbd68eff18b8": {
+"file": "WOTR_Vaeloris_Sequence.md",
+"check": "prose",
+"text": "flat runs: 30 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "dbd68eff18b8",
+"first_seen": "2026-09-13"
+},
+"b74348a057b2": {
+"file": "THE_YUKARI_BLOODLINE.md",
+"check": "prose",
+"text": "em dashes: 9 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "b74348a057b2",
+"first_seen": "2026-09-13"
+},
+"40bffde0750e": {
+"file": "THE_YUKARI_BLOODLINE.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not merely see the threads the way the Moto saw them, as\" (banned; AI-tells §1)",
+"key": "40bffde0750e",
+"first_seen": "2026-09-13"
+},
+"875a343b9e02": {
+"file": "THE_YUKARI_BLOODLINE.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just that it was failing but\" (banned; AI-tells §1)",
+"key": "875a343b9e02",
+"first_seen": "2026-09-13"
+},
+"4bb70e354bda": {
+"file": "THE_YUKARI_BLOODLINE.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4bb70e354bda",
+"first_seen": "2026-09-13"
+},
+"3bbe2bc339c4": {
+"file": "THE_YUKARI_BLOODLINE.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "3bbe2bc339c4",
+"first_seen": "2026-09-13"
+},
+"f456107fe357": {
+"file": "01_the_vacancy_korvaeth_arc.md",
+"check": "prose",
+"text": "em dashes: 8 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "f456107fe357",
+"first_seen": "2026-09-13"
+},
+"9f229109aa5d": {
+"file": "01_the_vacancy_korvaeth_arc.md",
+"check": "prose",
+"text": "reification: 4 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"the moment it went\"; \"the moment he entered\"; \"the moment he left\"; \"silence held\"",
+"key": "9f229109aa5d",
+"first_seen": "2026-09-13"
+},
+"40be7f4d7b18": {
+"file": "01_the_vacancy_korvaeth_arc.md",
+"check": "prose",
+"text": "reification: two in one paragraph (R4-15-ONE_PER_PARAGRAPH): \"the moment he entered\"; \"the moment he left\"",
+"key": "40be7f4d7b18",
+"first_seen": "2026-09-13"
+},
+"14fb0c5dde30": {
+"file": "01_the_vacancy_korvaeth_arc.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "14fb0c5dde30",
+"first_seen": "2026-09-13"
+},
+"5812e259556c": {
+"file": "01_the_vacancy_korvaeth_arc.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "5812e259556c",
+"first_seen": "2026-09-13"
+},
+"25a4d2006e3a": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "prose",
+"text": "em dashes: 4 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "25a4d2006e3a",
+"first_seen": "2026-09-13"
+},
+"326e83d58bd7": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "prose",
+"text": "reification: 3 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"The question that followed\"; \"the moment he crossed\"; \"authority that moved\"",
+"key": "326e83d58bd7",
+"first_seen": "2026-09-13"
+},
+"430023ce3744": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "430023ce3744",
+"first_seen": "2026-09-13"
+},
+"a24940f9d31f": {
+"file": "THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "prose",
+"text": "flat runs: 20 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "a24940f9d31f",
+"first_seen": "2026-09-13"
+},
+"f32e620d0694": {
+"file": "15_darius_kill_me_first.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "f32e620d0694",
+"first_seen": "2026-09-13"
+},
+"a661d949e8d9": {
+"file": "15_darius_kill_me_first.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "a661d949e8d9",
+"first_seen": "2026-09-13"
+},
+"803a04dd4452": {
+"file": "15_darius_kill_me_first.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "803a04dd4452",
+"first_seen": "2026-09-13"
+},
+"475f075a1c2e": {
+"file": "15_darius_kill_me_first.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "475f075a1c2e",
+"first_seen": "2026-09-13"
+},
+"d61cec191781": {
+"file": "21_darius_the_fist_of_god.md",
+"check": "prose",
+"text": "em dashes: 6 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "d61cec191781",
+"first_seen": "2026-09-13"
+},
+"fa83a168a5db": {
+"file": "21_darius_the_fist_of_god.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "fa83a168a5db",
+"first_seen": "2026-09-13"
+},
+"8923ef14bb1b": {
+"file": "21_darius_the_fist_of_god.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "8923ef14bb1b",
+"first_seen": "2026-09-13"
+},
+"413947a9de1c": {
+"file": "21_darius_the_fist_of_god.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "413947a9de1c",
+"first_seen": "2026-09-13"
+},
+"a76b624e9e51": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"which was more graceful than the\" (banned; AI-tells §1)",
+"key": "a76b624e9e51",
+"first_seen": "2026-09-13"
+},
+"94489fbd265b": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not cynicism, it is\" (banned; AI-tells §1)",
+"key": "94489fbd265b",
+"first_seen": "2026-09-13"
+},
+"0e3210ca88a1": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "0e3210ca88a1",
+"first_seen": "2026-09-13"
+},
+"0392de287ea0": {
+"file": "verinus_what_a_thing_weighs.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "0392de287ea0",
+"first_seen": "2026-09-13"
+},
+"3b83f8d960a8": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "em dashes: 4 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "3b83f8d960a8",
+"first_seen": "2026-09-13"
+},
+"060595105183": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "060595105183",
+"first_seen": "2026-09-13"
+},
+"cc35021bad66": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "cc35021bad66",
+"first_seen": "2026-09-13"
+},
+"6225bfbe378b": {
+"file": "10_wotr_what_the_ground_was_owed.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (the night-stone); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "6225bfbe378b",
+"first_seen": "2026-09-13"
+},
+"99abda4cca20": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "99abda4cca20",
+"first_seen": "2026-09-13"
+},
+"d43cd08b361c": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "Ladder, two clauses in one sentence: \"Niran had maintained the wards at each camp, testing every perimeter stone against its substrate bef\" (R6-1-LADDER_BAN, Check 18)",
+"key": "d43cd08b361c",
+"first_seen": "2026-09-13"
+},
+"5c7b563ca997": {
+"file": "Niran_Mira_Return_to_the_Enclave.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5c7b563ca997",
+"first_seen": "2026-09-13"
+},
+"27019b6825d5": {
+"file": "19_aurelian_five_numbers.md",
+"check": "prose",
+"text": "em dashes: 3 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "27019b6825d5",
+"first_seen": "2026-09-13"
+},
+"4fdde8e6a1bd": {
+"file": "19_aurelian_five_numbers.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4fdde8e6a1bd",
+"first_seen": "2026-09-13"
+},
+"fe023f4d7511": {
+"file": "19_aurelian_five_numbers.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "fe023f4d7511",
+"first_seen": "2026-09-13"
+},
+"e90e0bf98d9c": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not so much break beneath him as\" (banned; AI-tells §1)",
+"key": "e90e0bf98d9c",
+"first_seen": "2026-09-13"
+},
+"c85267cb7534": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c85267cb7534",
+"first_seen": "2026-09-13"
+},
+"2e6d11ca3a89": {
+"file": "Naiser_Death_Cozbi_Genocide_Niran_Fall.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2e6d11ca3a89",
+"first_seen": "2026-09-13"
+},
+"1790f6ec9e90": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "em dashes: 78 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "1790f6ec9e90",
+"first_seen": "2026-09-13"
+},
+"4e73c18409c7": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just an animal with a clever face, but\" (banned; AI-tells §1)",
+"key": "4e73c18409c7",
+"first_seen": "2026-09-13"
+},
+"1903bf3eb72d": {
+"file": "YOKO_MISHIRO.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "1903bf3eb72d",
+"first_seen": "2026-09-13"
+},
+"097ff4f2994f": {
+"file": "01_wotr_muster_breach_road_north.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "097ff4f2994f",
+"first_seen": "2026-09-13"
+},
+"640aac0da32e": {
+"file": "01_wotr_muster_breach_road_north.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "640aac0da32e",
+"first_seen": "2026-09-13"
+},
+"782a8b3b6e66": {
+"file": "01_wotr_muster_breach_road_north.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "782a8b3b6e66",
+"first_seen": "2026-09-13"
+},
+"c72959f49f08": {
+"file": "23_darius_the_fist_of_totality.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "c72959f49f08",
+"first_seen": "2026-09-13"
+},
+"c47c64707a44": {
+"file": "23_darius_the_fist_of_totality.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c47c64707a44",
+"first_seen": "2026-09-13"
+},
+"4affd2eda042": {
+"file": "23_darius_the_fist_of_totality.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "4affd2eda042",
+"first_seen": "2026-09-13"
+},
+"17c40aca6701": {
+"file": "02_wren_bulwark.md",
+"check": "prose",
+"text": "em dashes: 10 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "17c40aca6701",
+"first_seen": "2026-09-13"
+},
+"c9fd8a6f939c": {
+"file": "02_wren_bulwark.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c9fd8a6f939c",
+"first_seen": "2026-09-13"
+},
+"7e2c986c0e3f": {
+"file": "02_wren_bulwark.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "7e2c986c0e3f",
+"first_seen": "2026-09-13"
+},
+"24ebb3e3a1be": {
+"file": "05_sodoku_the_fixed_end.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "24ebb3e3a1be",
+"first_seen": "2026-09-13"
+},
+"2554e50982d0": {
+"file": "05_sodoku_the_fixed_end.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2554e50982d0",
+"first_seen": "2026-09-13"
+},
+"51e9f588b5c3": {
+"file": "05_sodoku_the_fixed_end.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (the death-house / the Waiting); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "51e9f588b5c3",
+"first_seen": "2026-09-13"
+},
+"8730bc26db24": {
+"file": "08_charles_what_a_hand_is_for.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"that is not a trick of language, it is\" (banned; AI-tells §1)",
+"key": "8730bc26db24",
+"first_seen": "2026-09-13"
+},
+"d026fd855fe7": {
+"file": "08_charles_what_a_hand_is_for.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d026fd855fe7",
+"first_seen": "2026-09-13"
+},
+"12b562521c74": {
+"file": "08_charles_what_a_hand_is_for.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "12b562521c74",
+"first_seen": "2026-09-13"
+},
+"6a661b224f1f": {
+"file": "09_dabney_the_undamped_thing.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "6a661b224f1f",
+"first_seen": "2026-09-13"
+},
+"3f7e1816d9a5": {
+"file": "09_dabney_the_undamped_thing.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "3f7e1816d9a5",
+"first_seen": "2026-09-13"
+},
+"699cfd37e56f": {
+"file": "09_dabney_the_undamped_thing.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "699cfd37e56f",
+"first_seen": "2026-09-13"
+},
+"1bbad8fcaabb": {
+"file": "11_mujin_second_law_held_open.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "1bbad8fcaabb",
+"first_seen": "2026-09-13"
+},
+"9139f9abf041": {
+"file": "11_mujin_second_law_held_open.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9139f9abf041",
+"first_seen": "2026-09-13"
+},
+"fbfb168599b6": {
+"file": "11_mujin_second_law_held_open.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "fbfb168599b6",
+"first_seen": "2026-09-13"
+},
+"c6aeb2cfc479": {
+"file": "13_darius_the_holiest_of_holy.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c6aeb2cfc479",
+"first_seen": "2026-09-13"
+},
+"98a7af274cb4": {
+"file": "13_darius_the_holiest_of_holy.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "98a7af274cb4",
+"first_seen": "2026-09-13"
+},
+"6ee312267479": {
+"file": "13_darius_the_holiest_of_holy.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "6ee312267479",
+"first_seen": "2026-09-13"
+},
+"df208363ca93": {
+"file": "14_darius_two_men_who_would_not_take_the_seat.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "df208363ca93",
+"first_seen": "2026-09-13"
+},
+"cc70251d3487": {
+"file": "14_darius_two_men_who_would_not_take_the_seat.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "cc70251d3487",
+"first_seen": "2026-09-13"
+},
+"92e066ea84a4": {
+"file": "14_darius_two_men_who_would_not_take_the_seat.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "92e066ea84a4",
+"first_seen": "2026-09-13"
+},
+"be8592fe8aad": {
+"file": "22_darius_punta.md",
+"check": "prose",
+"text": "em dashes: 5 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "be8592fe8aad",
+"first_seen": "2026-09-13"
+},
+"2d21d4ff74db": {
+"file": "22_darius_punta.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2d21d4ff74db",
+"first_seen": "2026-09-13"
+},
+"654fa80b3574": {
+"file": "22_darius_punta.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "654fa80b3574",
+"first_seen": "2026-09-13"
+},
+"5d0603012df7": {
+"file": "Kami-No-Kobushi.md",
+"check": "prose",
+"text": "em dashes: 100 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "5d0603012df7",
+"first_seen": "2026-09-13"
+},
+"efda9b9b4275": {
+"file": "Kami-No-Kobushi.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "efda9b9b4275",
+"first_seen": "2026-09-13"
+},
+"67d9baff62dd": {
+"file": "Kami-No-Kobushi.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "67d9baff62dd",
+"first_seen": "2026-09-13"
+},
+"71cd2844735f": {
+"file": "07_charles_the_imperceptible_district.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "71cd2844735f",
+"first_seen": "2026-09-13"
+},
+"e1a556e6046e": {
+"file": "07_charles_the_imperceptible_district.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "e1a556e6046e",
+"first_seen": "2026-09-13"
+},
+"50dd18cc601a": {
+"file": "20_aurelian_no_signature.md",
+"check": "prose",
+"text": "em dashes: 8 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "50dd18cc601a",
+"first_seen": "2026-09-13"
+},
+"fa80e1096822": {
+"file": "20_aurelian_no_signature.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "fa80e1096822",
+"first_seen": "2026-09-13"
+},
+"321d4367d330": {
+"file": "wotr_the_weight_of_a_courier.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"that is more work than most\" (banned; AI-tells §1)",
+"key": "321d4367d330",
+"first_seen": "2026-09-13"
+},
+"6da28366c3b3": {
+"file": "wotr_the_weight_of_a_courier.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6da28366c3b3",
+"first_seen": "2026-09-13"
+},
+"17623c286ef4": {
+"file": "08_sodoku_recalescence.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "17623c286ef4",
+"first_seen": "2026-09-13"
+},
+"5a59fcb30bfe": {
+"file": "08_sodoku_recalescence.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "5a59fcb30bfe",
+"first_seen": "2026-09-13"
+},
+"d1fce2d77bd4": {
+"file": "10_mujin_the_name_of_your_killer.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d1fce2d77bd4",
+"first_seen": "2026-09-13"
+},
+"cace1892b72d": {
+"file": "10_mujin_the_name_of_your_killer.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "cace1892b72d",
+"first_seen": "2026-09-13"
+},
+"48808ccbe0d6": {
+"file": "12_mujin_open_crucible.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "48808ccbe0d6",
+"first_seen": "2026-09-13"
+},
+"a95721e18f37": {
+"file": "12_mujin_open_crucible.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "a95721e18f37",
+"first_seen": "2026-09-13"
+},
+"4aee9f00b8d3": {
+"file": "Cozbi_True_Power_Antithesis.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4aee9f00b8d3",
+"first_seen": "2026-09-13"
+},
+"67ef232d4fd5": {
+"file": "Cozbi_True_Power_Antithesis.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "67ef232d4fd5",
+"first_seen": "2026-09-13"
+},
+"2566e9c8ae4c": {
+"file": "niran_malformation.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2566e9c8ae4c",
+"first_seen": "2026-09-13"
+},
+"8f02a79aac82": {
+"file": "niran_malformation.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "8f02a79aac82",
+"first_seen": "2026-09-13"
+},
+"2ded16b611c0": {
+"file": "sesk_the_report.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2ded16b611c0",
+"first_seen": "2026-09-13"
+},
+"9915eef1f61c": {
+"file": "sesk_the_report.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9915eef1f61c",
+"first_seen": "2026-09-13"
+},
+"e91f2b250455": {
+"file": "verinus_weight_of_an_infant.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not a virtue, it is\" (banned; AI-tells §1)",
+"key": "e91f2b250455",
+"first_seen": "2026-09-13"
+},
+"0c9be2e4dd9b": {
+"file": "verinus_weight_of_an_infant.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "0c9be2e4dd9b",
+"first_seen": "2026-09-13"
+},
+"d0a622609b17": {
+"file": "01_verinus_fire_of_the_undeserving.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d0a622609b17",
+"first_seen": "2026-09-13"
+},
+"71df6d94364e": {
+"file": "01_verinus_fire_of_the_undeserving.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "71df6d94364e",
+"first_seen": "2026-09-13"
+},
+"307eeb0eaaad": {
+"file": "03_verinus_wall_between_the_safeguarded.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "307eeb0eaaad",
+"first_seen": "2026-09-13"
+},
+"b44076916323": {
+"file": "03_verinus_wall_between_the_safeguarded.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "b44076916323",
+"first_seen": "2026-09-13"
+},
+"6d122d99dafb": {
+"file": "03_wren_three_deliveries.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "6d122d99dafb",
+"first_seen": "2026-09-13"
+},
+"b6ef7ab7ddca": {
+"file": "03_wren_three_deliveries.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "b6ef7ab7ddca",
+"first_seen": "2026-09-13"
+},
+"e11c10183755": {
+"file": "16_darius_let_nothing_be_sealed.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "e11c10183755",
+"first_seen": "2026-09-13"
+},
+"34fc94798fae": {
+"file": "16_darius_let_nothing_be_sealed.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "34fc94798fae",
+"first_seen": "2026-09-13"
+},
+"f09c8548c804": {
+"file": "17_darius_ignis.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f09c8548c804",
+"first_seen": "2026-09-13"
+},
+"2e57a225c736": {
+"file": "17_darius_ignis.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "2e57a225c736",
+"first_seen": "2026-09-13"
+},
+"4d39db596025": {
+"file": "18_darius_the_hand_of_the_judger.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not holding a body still, it is\" (banned; AI-tells §1)",
+"key": "4d39db596025",
+"first_seen": "2026-09-13"
+},
+"52f75dfa2292": {
+"file": "18_darius_the_hand_of_the_judger.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "52f75dfa2292",
+"first_seen": "2026-09-13"
+},
+"6709d5b24cdb": {
+"file": "Cozbi_Ashwell_Mysticism_Demo.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "6709d5b24cdb",
+"first_seen": "2026-09-13"
+},
+"662c71763cb3": {
+"file": "Cozbi_Ashwell_Mysticism_Demo.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "662c71763cb3",
+"first_seen": "2026-09-13"
+},
+"00ba06923f7b": {
+"file": "Cozbi_Dragon_Binding_and_Ashuras_Call.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not so much as\" (banned; AI-tells §1)",
+"key": "00ba06923f7b",
+"first_seen": "2026-09-13"
+},
+"fe63d0f7064c": {
+"file": "Cozbi_Dragon_Binding_and_Ashuras_Call.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "fe63d0f7064c",
+"first_seen": "2026-09-13"
+},
+"8a145c5ecd60": {
+"file": "Cozbi_Root_Severance_and_Rashani_Threshold.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "8a145c5ecd60",
+"first_seen": "2026-09-13"
+},
+"e88cc393ef51": {
+"file": "Cozbi_Root_Severance_and_Rashani_Threshold.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e88cc393ef51",
+"first_seen": "2026-09-13"
+},
+"028ed54a3a4a": {
+"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "028ed54a3a4a",
+"first_seen": "2026-09-13"
+},
+"94ae7fa033e0": {
+"file": "Dhaerin_Magnum_Opus_Recursive_Array.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "94ae7fa033e0",
+"first_seen": "2026-09-13"
+},
+"98d18d22082e": {
+"file": "kaalabad_the_petition.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "98d18d22082e",
+"first_seen": "2026-09-13"
+},
+"90a67bb752c1": {
+"file": "kaalabad_the_petition.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "90a67bb752c1",
+"first_seen": "2026-09-13"
+},
+"40193ffe2e24": {
+"file": "Niran_Awakening_Haruki_Reunion.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not so much bend as\" (banned; AI-tells §1)",
+"key": "40193ffe2e24",
+"first_seen": "2026-09-13"
+},
+"b58c536cd67a": {
+"file": "Niran_Awakening_Haruki_Reunion.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "b58c536cd67a",
+"first_seen": "2026-09-13"
+},
+"d6abf960c158": {
+"file": "Niran_Mira_Awakening.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d6abf960c158",
+"first_seen": "2026-09-13"
+},
+"50b324ab5e0f": {
+"file": "Niran_Mira_Awakening.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "50b324ab5e0f",
+"first_seen": "2026-09-13"
+},
+"7310b522a8ae": {
+"file": "Nisuke_Titan_Dominion_Strike.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not so much shake as\" (banned; AI-tells §1)",
+"key": "7310b522a8ae",
+"first_seen": "2026-09-13"
+},
+"9e1bf0ff78ca": {
+"file": "Nisuke_Titan_Dominion_Strike.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9e1bf0ff78ca",
+"first_seen": "2026-09-13"
+},
+"c33cb6608edf": {
+"file": "renard_the_left_of_the_door.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c33cb6608edf",
+"first_seen": "2026-09-13"
+},
+"cce596953eca": {
+"file": "renard_the_left_of_the_door.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "cce596953eca",
+"first_seen": "2026-09-13"
+},
+"b3533405d93f": {
+"file": "06_aurelian_what_the_lamberts_are_for.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "b3533405d93f",
+"first_seen": "2026-09-13"
+},
+"183ac2a09905": {
+"file": "06_aurelian_what_the_lamberts_are_for.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "183ac2a09905",
+"first_seen": "2026-09-13"
+},
+"918828d7e80d": {
+"file": "09_sodoku_the_true_nature.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "918828d7e80d",
+"first_seen": "2026-09-13"
+},
+"1e89809ba4a6": {
+"file": "09_sodoku_the_true_nature.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "1e89809ba4a6",
+"first_seen": "2026-09-13"
+},
+"9201b1331f03": {
+"file": "sodoku_the_count_supply_report.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9201b1331f03",
+"first_seen": "2026-09-13"
+},
+"f3a12b2e3c88": {
+"file": "sodoku_the_count_supply_report.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "f3a12b2e3c88",
+"first_seen": "2026-09-13"
+},
+"34da2b797eca": {
+"file": "05_aurelian_primate_under_the_wrong_stars.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "34da2b797eca",
+"first_seen": "2026-09-13"
+},
+"c164a2b6bf38": {
+"file": "04_sodoku_what_the_sky_does_not_ask.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c164a2b6bf38",
+"first_seen": "2026-09-13"
+},
+"95f147bac1e4": {
+"file": "04_verinus_the_hand_and_the_print.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not an insult, it is\" (banned; AI-tells §1)",
+"key": "95f147bac1e4",
+"first_seen": "2026-09-13"
+},
+"aaf674b69955": {
+"file": "Cozbi_Sealed_Retreat.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "aaf674b69955",
+"first_seen": "2026-09-13"
+},
+"bc1063319ddb": {
+"file": "Six_Crows_vs_Black_Dragon.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "bc1063319ddb",
+"first_seen": "2026-09-13"
+},
+"4271a9e58819": {
+"file": "aurelian_word_under_the_hammer.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4271a9e58819",
+"first_seen": "2026-09-13"
+},
+"a4ea543cbd14": {
+"file": "Cozbi_Construct_Combat_Scene.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "a4ea543cbd14",
+"first_seen": "2026-09-13"
+},
+"e6723c86dbd7": {
+"file": "Cozbi_Merged_Form_Rescind_Explanation.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "e6723c86dbd7",
+"first_seen": "2026-09-13"
+},
+"a816e20ae5f3": {
+"file": "Cozbi_Rengai_Dhaerin_Confrontation.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "a816e20ae5f3",
+"first_seen": "2026-09-13"
+},
+"5a232a6bbd5f": {
+"file": "Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5a232a6bbd5f",
+"first_seen": "2026-09-13"
+},
+"846b7cbb31fc": {
+"file": "Rengai_Farewell_and_Dhaerin.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "846b7cbb31fc",
+"first_seen": "2026-09-13"
+},
+"48895335c738": {
+"file": "seven_labors.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "48895335c738",
+"first_seen": "2026-09-13"
+},
+"3a41902bf759": {
+"file": "sodoku_fourteenth_bow_table.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "3a41902bf759",
+"first_seen": "2026-09-13"
+},
+"f4ce081dd62f": {
+"file": "sodoku_true_religion_alabaster.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (the night-stone); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "f4ce081dd62f",
+"first_seen": "2026-09-13"
+},
+"077a15df89ae": {
+"file": "temur_true_religion_alabaster.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (the night-stone); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "077a15df89ae",
+"first_seen": "2026-09-13"
+},
+"37dd148a20b0": {
+"file": "wotr_the_warrior_nurse.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "37dd148a20b0",
+"first_seen": "2026-09-13"
+},
+"db924d23c25c": {
+"file": "07_sodoku_the_howling_hawk.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "db924d23c25c",
+"first_seen": "2026-09-13"
+},
+"77e4fce38e13": {
+"file": "balance_lesson.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "77e4fce38e13",
+"first_seen": "2026-09-13"
+},
+"072abc094f3a": {
+"file": "Cozbi_Antithesis_Split_Fight.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "072abc094f3a",
+"first_seen": "2026-09-13"
+},
+"5f51dabc0427": {
+"file": "Cozbi_Pneuma_Unravel_Strike.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not merely kill but\" (banned; AI-tells §1)",
+"key": "5f51dabc0427",
+"first_seen": "2026-09-13"
+},
+"d176edeee61c": {
+"file": "Cozbi_vs_Rengai_Dhaerin_Combat.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d176edeee61c",
+"first_seen": "2026-09-13"
+},
+"9fdb8c3a77be": {
+"file": "Shichi_Karasu_Mission_Awakening.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9fdb8c3a77be",
+"first_seen": "2026-09-13"
+},
+"e570c26446c3": {
+"file": "sodoku_gate_reunion_lambert.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (wet wood); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "e570c26446c3",
+"first_seen": "2026-09-13"
+},
+"828071c78f05": {
+"file": "Duplicate wiki pages (same title twice)",
+"check": "reconcile",
+"text": "The Veil ×2",
+"key": "828071c78f05",
+"first_seen": "2026-09-13"
+},
+"db3c1e629adf": {
+"file": "Card vs scene: Stage or Level stated differently",
+"check": "reconcile",
+"text": "none found by pattern (Stage/Level within 80 characters of a first name)",
+"key": "db3c1e629adf",
+"first_seen": "2026-09-13"
+},
+"fb6fac925c59": {
+"file": "Wellsprings named with a Family other than their own",
+"check": "reconcile",
+"text": "Volume VI — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "fb6fac925c59",
+"first_seen": "2026-09-13"
+},
+"bcac448e6621": {
+"file": "Wellsprings named with a Family other than their own",
+"check": "reconcile",
+"text": "Volume V — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "bcac448e6621",
+"first_seen": "2026-09-13"
+},
+"3286d7a60a6e": {
+"file": "Wellsprings named with a Family other than their own",
+"check": "reconcile",
+"text": "Volume V — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "3286d7a60a6e",
+"first_seen": "2026-09-13"
+},
+"575cc96b9ecd": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Büri",
+"key": "575cc96b9ecd",
+"first_seen": "2026-09-13"
+},
+"612ae19bbab9": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Khökh",
+"key": "612ae19bbab9",
+"first_seen": "2026-09-13"
+},
+"1053837dac55": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Altan",
+"key": "1053837dac55",
+"first_seen": "2026-09-13"
+},
+"4a68b978f8cc": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "the Büri bloodline",
+"key": "4a68b978f8cc",
+"first_seen": "2026-09-13"
+},
+"f2a2ba267073": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Manan",
+"key": "f2a2ba267073",
+"first_seen": "2026-09-13"
+},
+"c2ea0dedac52": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Nüdel",
+"key": "c2ea0dedac52",
+"first_seen": "2026-09-13"
+},
+"a34bd490c93e": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Muken Büri",
+"key": "a34bd490c93e",
+"first_seen": "2026-09-13"
+},
+"71b3b03f62f5": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Saruul Büri",
+"key": "71b3b03f62f5",
+"first_seen": "2026-09-13"
+},
+"09d22d7a1d66": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Sātūlagi",
+"key": "09d22d7a1d66",
+"first_seen": "2026-09-13"
+},
+"96b9ae4cb018": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Ajiin",
+"key": "96b9ae4cb018",
+"first_seen": "2026-09-13"
+},
+"10bb1ff969ae": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Bükhel Mörgöl",
+"key": "10bb1ff969ae",
+"first_seen": "2026-09-13"
+},
+"2876e541ce26": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Tengeriin",
+"key": "2876e541ce26",
+"first_seen": "2026-09-13"
+},
+"b9e1ab238c6e": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Wadatsumi",
+"key": "b9e1ab238c6e",
+"first_seen": "2026-09-13"
+},
+"28690e37bb0d": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",
+"check": "stale",
+"text": "Zasag",
+"key": "28690e37bb0d",
+"first_seen": "2026-09-13"
+},
+"02f6f1896910": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "stale",
+"text": "Sātūlagi",
+"key": "02f6f1896910",
+"first_seen": "2026-09-13"
+},
+"7ccb315139b9": {
+"file": "scenes/THE_KINGDOM_OF_KHARVEN_corrected.md",
+"check": "stale",
+"text": "Wadatsumi",
+"key": "7ccb315139b9",
+"first_seen": "2026-09-13"
+},
+"ce7bf75553e2": {
+"file": "scenes/01_verinus_fire_of_the_undeserving.md",
+"check": "stale",
+"text": "Büri",
+"key": "ce7bf75553e2",
+"first_seen": "2026-09-13"
+},
+"9d75cd112cb9": {
+"file": "scenes/06_aurelian_what_the_lamberts_are_for.md",
+"check": "stale",
+"text": "Büri",
+"key": "9d75cd112cb9",
+"first_seen": "2026-09-13"
+},
+"a5f1f767c8a9": {
+"file": "scenes/09_sodoku_the_true_nature.md",
+"check": "stale",
+"text": "Khar Ild",
+"key": "a5f1f767c8a9",
+"first_seen": "2026-09-13"
+}
+}
+}

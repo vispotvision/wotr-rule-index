@@ -6,13 +6,9 @@
 #
 #   bash build/cosyvoice_setup.sh
 #
-# UNTESTED: a line-for-line port of the PowerShell original (was build/cosyvoice_setup.ps1), written
-# while narration is frozen (ROADMAP: nothing new until one engine holds Gimbzo across three renders).
-# It has not been run on this machine. The two things no script can check from here are spelled out in
-# build/chatterbox_gpu_setup.sh: whether AMD's index (https://stable.repo.amd.com/rocm/whl-next/) serves
-# Linux wheels for the torch pin — the official fallback is https://download.pytorch.org/whl/rocm<ver>,
-# with different version strings — and the group membership without which torch does not see the card:
-#     sudo usermod -aG render,video oridon     (once, then log out and in)
+# RUN on this machine 2026-09-14: built from AMD's index as written (both GPUs listed, the worker picks
+# the 9070 XT by name); the one thing the port missed was pkg_resources (the setuptools pin below). No
+# render group is needed on Arch (/dev/kfd is mode 666), so the note under it is harmless noise.
 #
 # The repo is not a pip package: it is cloned under <WOTR_VENVS>/wotr-cosy/src (was C:\venvs\wotr-cosy\src)
 # and imported from there by build/cosy_worker.py, which finds it through common.venv_python("cosy"). Its
@@ -37,7 +33,9 @@ if [ ! -d "$src/CosyVoice" ]; then mkdir -p "$src"; git clone --recursive https:
 "$py" -m pip install "conformer==0.3.2" "diffusers==0.29.0" "hydra-core==1.3.2" "HyperPyYAML==1.2.3" "inflect" "librosa" \
     "lightning" "matplotlib" "networkx" "numpy<2.3" "omegaconf==2.3.0" "onnx" "onnxruntime" "openai-whisper" "pyarrow" \
     "pydantic" "pyworld" "rich" "soundfile" "x-transformers" "wetext" "wget" "transformers==4.51.3" "huggingface_hub" \
-    "speechbrain" "praat-parselmouth" "gdown" "modelscope"
+    "speechbrain" "praat-parselmouth" "gdown" "modelscope" "setuptools<81"
+# setuptools<81: cosyvoice/dataset/processor.py imports pkg_resources, which setuptools 81 removed
+# (found on the first Linux run, 2026-09-14 — the worker died with ModuleNotFoundError at import)
 "$py" -m pip install --index-url "$amd" "torch[device-gfx1201]==2.13.0+rocm10.0.0" "torchaudio==2.11.0.2+rocm10.0.0"
 "$py" -m pip install --index-url "$amd" --force-reinstall --no-deps "torch==2.13.0+rocm10.0.0" "torchaudio==2.11.0.2+rocm10.0.0"
 # the model, into the clone (build/cosy_worker.py's MODEL_DIR); the path goes in through the environment, not a quoted literal

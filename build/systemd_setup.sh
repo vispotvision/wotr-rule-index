@@ -19,6 +19,8 @@
 #      has written the shared secret (build/.mcp_token) and opened the funnel, so the
 #      public server never comes up without a token. The file is copied here with the
 #      rest (that script copies it too if it is missing, so either order works).
+#      NOT wotr-comfy.service either: build/comfy_setup.sh enables it once the clone,
+#      the venv and the ROCm torch it runs on exist; copied here, enabled there.
 #      Then restarts what changed and is running: `enable --now` on a running service
 #      is a no-op start, so without this an edited wotr-jobs/wotr-bot/wotr-mcp-public
 #      would keep the old process on the old ExecStart until restarted by hand. A
@@ -50,7 +52,7 @@ enable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
         wotr-jobs.service wotr-bot.service)
 # what a changed file restarts (see the header); never a oneshot service
 restartable=(wotr-sync.timer wotr-nightly.timer wotr-book.timer wotr-backup.timer
-             wotr-jobs.service wotr-bot.service wotr-mcp-public.service)
+             wotr-jobs.service wotr-bot.service wotr-mcp-public.service wotr-comfy.service)
 
 # every unit build/systemd/ ships, by name
 units=()
@@ -158,6 +160,7 @@ for u in "${enable[@]}"; do
     fi
 done
 echo "not enabled: wotr-mcp-public.service (build/mcp_public_setup.sh does that after writing the secret)"
+echo "not enabled: wotr-comfy.service (build/comfy_setup.sh does that once ComfyUI and its venv exist)"
 
 # ... and apply a changed file to what is running. is-active first: try-restart would
 # also return 0 for an inactive unit and nothing would have happened. An inactive one

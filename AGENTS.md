@@ -86,6 +86,16 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   Safest form: `bash build/py.sh build/<tool>.py …` (sources the config, runs
   the venv). `. build/env.sh` also puts it first on `PATH` but exports the
   secrets into your shell — use `py.sh` when you don't need them.
+- **The GPU venvs** are separate, one per engine, on a mise Python 3.12 with
+  AMD's ROCm 10 torch (`torch 2.13.0+rocm10.0.0`, index
+  `stable.repo.amd.com/rocm/whl-next/`, `[device-gfx1201]`): `wotr-comfy`
+  (ComfyUI), `wotr-cb-gpu` (Chatterbox), `wotr-qwen` / `wotr-qwen-fast`
+  (Qwen3-TTS VoiceDesign), `wotr-cosy` (CosyVoice), `wotr-supertonic` (ONNX,
+  CPU). Each has a `build/<engine>_setup.sh`; each is reached through
+  `common.venv_python("<name>")` by its worker, never imported into the
+  project venv. ROCm presents the card as `cuda:0`; the 7800X3D's iGPU is
+  `cuda:1`, so anything that picks a device picks by name or pins device 0.
+  No render/video group is needed on Arch (`/dev/kfd` is mode 666).
 - **One config file:** `~/.config/wotr/env` (mode 600; template
   `build/wotr.env.example` lists every key: the three secrets, `HF_TOKEN`,
   `WOTR_REPO` / `WOTR_PYTHON`, the paths `WOTR_TRUE_CANON` / `WOTR_VENVS` /
@@ -106,6 +116,7 @@ what lived outside it on Windows is in the private `~/wotr-vault`
   | `wotr-jobs.service` | always | `build/jobs_server.py` on 127.0.0.1:8799 (n8n's door) |
   | `wotr-mcp-public.service` | always | `mcp_server.py --public` on 8765 (read-only, token; enabled by `build/mcp_public_setup.sh`, not the installer) |
   | `wotr-bot.service` | always | `bot/run.sh` → `bot/main.py` |
+  | `wotr-comfy.service` | always | ComfyUI (`~/comfy/ComfyUI`, venv `wotr-comfy`) on 127.0.0.1:8188, the 9070 XT only (`--cuda-device 0`); enabled by `build/comfy_setup.sh`, not the installer |
 
   Did something run? `systemctl --user list-timers 'wotr-*'` and
   `journalctl --user -u wotr-<name>.service -u wotr-<name>.timer --since -3h`,
@@ -222,7 +233,11 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
 - **Frozen:** the narration engines (nothing new until one engine holds Gimbzo
   across three renders — `ROADMAP.md`) and any design where n8n calls Claude
   itself (needs an API key that doesn't exist; n8n triggers the host's jobs
-  instead). Don't build toward either.
+  instead). Don't build toward either. The engines themselves are installed
+  and proven on this machine since 2026-09-14 (`~/.venvs/wotr-{cb-gpu,qwen,
+  qwen-fast,supertonic,cosy}`, Kokoro's files in `build/models/`, the
+  reference clips in `build/voices/refs/`); the freeze is on new voice work,
+  not on rendering a scene with what stands.
 - **End of session:** `validate.py` → `resolve.py` → commit → push → tick
   `ROADMAP.md` (and `PROGRESS.md` after a pack) → append a dated block at the
   top of `CONTINUE.md`; never rewrite an older block.

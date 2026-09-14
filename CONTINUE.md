@@ -6,6 +6,52 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-14 (midday: ComfyUI and the local TTS, on the card)
+
+**Isaac asked for ComfyUI and the local TTS on Linux; both stand.** The one
+unknown behind everything — a ROCm torch that sees the 9070 XT from a 3.12
+venv — is settled: AMD's index (`stable.repo.amd.com/rocm/whl-next/`) serves
+the exact Linux wheels the setup scripts pin (`torch 2.13.0+rocm10.0.0`,
+cp312, `[device-gfx1201]`), and no `render`/`video` group was needed (Arch
+ships `/dev/kfd` and `renderD*` mode 666; ROCm 7.2.4 came with
+`ollama-rocm`). The card is `cuda:0`, the 7800X3D's iGPU is `cuda:1`.
+
+**ComfyUI** (new on Linux; the Windows installs lost everything but their
+metadata, kept in `~/wotr-vault/comfy`): `build/comfy_setup.sh` — clone at
+`~/comfy/ComfyUI` (0.35.0), venv `wotr-comfy`, requirements with torch held,
+the ten Windows workflows into the UI's list, and `wotr-comfy.service` on
+127.0.0.1:8188 with `--cuda-device 0` (without it comfy-aimdo planned against
+the iGPU's 31 GB). `--models` fetched what the workflows load and is free:
+Z-Image Turbo bf16 + Qwen3-4B encoder + VAE, RealESRGAN x4, BiRefNet (20 GB,
+in `models/`, no repo). First render: `text_to_image.json` as posted to
+`/prompt`, 1024², 8 steps, 19.6 s cold. Not fetched: FLUX.2 dev (non-
+commercial licence), Ideogram 4, Wan 2.2 (the video workflow) — add to
+`comfy_models()` in the script if wanted.
+
+**The engines**: every venv rebuilt by its own script as written (three
+headers rewritten from UNTESTED to what happened): `wotr-supertonic` answers;
+`wotr-cb-gpu` loads Turbo on `cuda:0`; `wotr-qwen` + `wotr-qwen-fast` both see
+the card and the fast worker captures HIP graphs; `wotr-cosy` needed one fix
+— `setuptools<81` for `pkg_resources` (now in `cosyvoice_setup.sh`) — and
+loads Fun-CosyVoice3-0.5B on the card. Kokoro's files re-fetched
+(`--fetch-model`), `requirements-audio.txt` installed into the project venv,
+the CC-BY reference clips copied back from the vault to `build/voices/refs/`.
+Kokoro read scene 02's cast (3 voices, 16.9 min) in 278 s on the CPU.
+
+**One Gimbzo line, three engines, measured** (Whisper read-back clean on all
+three; the anchor `line3_deep` is 63.2 Hz median / 57.3 floor): Chatterbox
+Turbo on the VCTK clip 131 Hz; Qwen VoiceDesign from the brief 84.7 Hz,
+cosine 0.37 to the anchor (anchor self-similarity 0.55), and the best-of-3
+draw repeated half the line; CosyVoice cloning the anchor itself 71.6 Hz /
+60.0 floor. One line each, not the gate — the freeze stands. Note for the
+`cosy_worker`: it chdirs into the clone, so `ref` must be an absolute path.
+
+**Docs**: AGENTS.md (unit row, a "GPU venvs" bullet, the freeze line says
+the engines are installed), README (unit count, the engine paragraph, a
+ComfyUI paragraph), ROADMAP Phase E (venvs ticked, ComfyUI added),
+`systemd_setup.sh` (copies `wotr-comfy.service`, restarts it on change,
+does not enable it — `comfy_setup.sh` does). `validate.py` PASS.
+
 ## State on 2026-09-14 (later that morning)
 
 **Done since the port block below.** Isaac joined the docker group; n8n is up

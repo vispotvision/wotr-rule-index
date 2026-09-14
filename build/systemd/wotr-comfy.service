@@ -1,0 +1,36 @@
+# wotr-comfy.service — ComfyUI on the 9070 XT, loopback only (build/comfy_setup.sh installs it).
+#
+# The clone is ~/comfy/ComfyUI (WOTR_COMFY in ~/.config/wotr/env to move it), the venv
+# ~/.venvs/wotr-comfy (AMD's ROCm 10 torch for gfx1201). --listen 127.0.0.1 keeps it off
+# the LAN and off the funnel: n8n (host network) and the tools on this machine reach it at
+# http://127.0.0.1:8188; nothing else can. Models load on demand and unload under memory
+# pressure, so an idle ComfyUI holds no VRAM from the TTS workers, only ~1 GB of RAM.
+#
+# --disable-auto-launch: no browser on start. --cuda-device 0: only the discrete card is visible
+# (HIP_VISIBLE_DEVICES=0); without it the VRAM manager, comfy-aimdo, introduces itself against
+# the 7800X3D's integrated GPU (cuda:1, "AMD Radeon Graphics, 31 GB") and plans for memory the
+# card does not have.
+#
+# ROCm notes (comfyanonymous/ComfyUI README, AMD section): no --use-pytorch-cross-attention
+# flag is needed on torch 2.13; HSA_OVERRIDE_GFX_VERSION is not set because gfx1201 is a
+# supported target of these wheels. If a model renders black, try --fp32-vae first.
+#
+# Logs: journalctl --user -u wotr-comfy (ComfyUI logs to stderr; user/comfyui.log too).
+
+[Unit]
+Description=WOTR ComfyUI on the 9070 XT (127.0.0.1:8188)
+After=network.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/comfy/ComfyUI
+EnvironmentFile=-%h/.config/wotr/env
+Environment=PYTHONIOENCODING=utf-8 PYTHONUNBUFFERED=1
+ExecStart=%h/.venvs/wotr-comfy/bin/python main.py --listen 127.0.0.1 --port 8188 --disable-auto-launch --cuda-device 0
+Restart=on-failure
+RestartSec=15
+# a stuck render gets 20 s to stop before SIGKILL
+TimeoutStopSec=20
+
+[Install]
+WantedBy=default.target

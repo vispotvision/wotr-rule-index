@@ -8,11 +8,8 @@
 #
 #   bash build/supertonic_setup.sh
 #
-# UNTESTED: a line-for-line port of the PowerShell original (was build/supertonic_setup.ps1), written
-# while narration is frozen (ROADMAP: nothing new until one engine holds Gimbzo across three renders).
-# It has not been run on this machine. The interpreter is a 3.12 from mise, as the original pinned
-# (py -3.12): the system python3 (3.14) may well do for an ONNX-only stack, but whether the onnxruntime
-# that supertonic 1.3.1 pulls in has a 3.14 wheel was not checked, so the pin stands until it is.
+# RUN on this machine 2026-09-14 as written: supertonic 1.3.1 resolved on the 3.12 and answered
+# "supertonic-3 ready, 44100 Hz" on the first run.
 #
 # Remove with: rm -rf ~/.venvs/wotr-supertonic   (or <WOTR_VENVS>/wotr-supertonic if that is set elsewhere)
 set -euo pipefail

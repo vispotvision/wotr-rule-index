@@ -34,7 +34,7 @@ through `build/common.py`. The env file is the one place secrets and
 machine paths live — never in a chat, a commit or a unit file; `build/secrets.sh`
 writes a secret into it without echoing it and offers the bot restart.
 
-Everything scheduled is a systemd **user** unit (never cron). The eleven
+Everything scheduled is a systemd **user** unit (never cron). The twelve
 files are in `build/systemd/`; `bash build/systemd_setup.sh` installs them
 under `~/.config/systemd/user/` (`--status` lists them, `--remove` takes them
 out). Four timers — `wotr-sync.timer` (hourly), `wotr-nightly.timer` (03:30),
@@ -44,6 +44,8 @@ long-running services: `wotr-jobs.service` (the job runner for n8n,
 enabled by `build/mcp_public_setup.sh`, not by the installer, so it never
 starts without its secret) and `wotr-bot.service` (the Discord bot). Each
 unit runs `bash build/<script>.sh` (or `bot/run.sh`) with the env file loaded.
+A fourth service, `wotr-comfy.service`, is ComfyUI on the 9070 XT
+(127.0.0.1:8188; installed and enabled by `build/comfy_setup.sh`, see below).
 Logs: `journalctl --user -u wotr-<name>` for the unit's view (start, exit
 code, stderr) plus each script's own file — `build/sync.log`,
 `build/nightly.log`, `build/book_dispatch.log`, `build/backup.log`,
@@ -147,11 +149,25 @@ card by name (ROCm lists the 7800X3D's integrated GPU first) and turns MIOpen
 off — that was for AMD's Windows build, whose run-time kernel compiler could
 not find the C++ headers; on Linux MIOpen works, but the switch stays until it
 is measured. PyTorch's own kernels ran the model at ~1.5× real time, against
-~1× on the CPU. The card needs the user in the `render` and `video` groups.
-None of the engine venvs has been rebuilt on Linux yet: the five setup scripts
-(`chatterbox_setup.sh`, `chatterbox_gpu_setup.sh`, `qwen_tts_setup.sh`,
-`supertonic_setup.sh`, `cosyvoice_setup.sh`) are untested ports, held behind
-the narration freeze (ROADMAP). Remove an engine with `rm -rf ~/.venvs/wotr-<name>`.
+~1× on the CPU. On Arch no render/video group is needed (`/dev/kfd` is world
+read-write). The engine venvs were rebuilt on Linux on 2026-09-14 by their own
+setup scripts (`chatterbox_gpu_setup.sh`, `qwen_tts_setup.sh`,
+`supertonic_setup.sh`, `cosyvoice_setup.sh`; `chatterbox_setup.sh` is the CPU
+copy, not rebuilt), each proven with one line: AMD's index serves the pinned
+Linux wheels, every torch sees the card as `cuda:0`. The freeze (ROADMAP) is on
+new voice work, not on the install. Remove an engine with `rm -rf ~/.venvs/wotr-<name>`.
+
+**ComfyUI** (`build/comfy_setup.sh`) is the image/video graph runner the Windows
+box had: a clone at `~/comfy/ComfyUI`, its own venv `wotr-comfy` on the same ROCm
+torch, and the user unit `wotr-comfy.service` on 127.0.0.1:8188, pinned to the
+9070 XT (`--cuda-device 0` — without it the VRAM manager plans against the
+integrated GPU's 31 GB). The ten workflow JSONs from the Windows install
+(`~/wotr-vault/comfy/ComfyUI/agent_workflows/`, API format — POST them to
+`/prompt` as they are) are copied into the UI's workflow list; `--models`
+fetches what they load and is freely licensed (Z-Image Turbo bf16 + its Qwen3-4B
+encoder + VAE, RealESRGAN x4, BiRefNet; ~20 GB into `models/`, which is not in
+any repo). First render on Linux: `text_to_image.json`, 1024², 8 steps, 19.6 s
+cold. n8n reaches it on the host network; nothing outside the machine can.
 
 **The character engine is `engine: qwen`** — Qwen3-TTS-1.7B-VoiceDesign (Alibaba,
 Apache-2.0), pure voice design: every line of a character is generated from a

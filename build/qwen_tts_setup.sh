@@ -13,14 +13,10 @@
 #
 #   bash build/qwen_tts_setup.sh
 #
-# UNTESTED: a line-for-line port of the PowerShell original (was build/qwen_tts_setup.ps1), written while
-# narration is frozen (ROADMAP: nothing new until one engine holds Gimbzo across three renders). It has
-# not been run on this machine. The two things no script can check from here are spelled out in
-# build/chatterbox_gpu_setup.sh: whether AMD's index (https://stable.repo.amd.com/rocm/whl-next/) serves
-# Linux wheels for the torch pin — the official fallback is https://download.pytorch.org/whl/rocm<ver>,
-# with different version strings — and the group membership without which torch does not see the card:
-#     sudo usermod -aG render,video oridon     (once, then log out and in)
-# Both interpreters are a 3.12 from mise (the original pinned py -3.12; the stacks predate 3.14).
+# RUN on this machine 2026-09-14: both venvs built from AMD's index as written, both see the 9070 XT, and
+# the fast worker captured its HIP graphs and drew a Gimbzo line (the drift is unchanged: 85 Hz median
+# against the 63 Hz anchor, cosine 0.37 — the gate's business, not this script's). The render group is not
+# needed on Arch (/dev/kfd is mode 666), so the note below is harmless noise.
 #
 # Remove with: rm -rf ~/.venvs/wotr-qwen-fast ~/.venvs/wotr-qwen   (or the same two under <WOTR_VENVS>)
 set -euo pipefail

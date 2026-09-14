@@ -247,7 +247,8 @@ Waits on Isaac's hands (sudo, a secret, a login):
 - [ ] tailscale: `sudo tailscale set --operator=oridon` once, then `bash build/mcp_public_setup.sh` opens the funnel and prints the URL (this node is `ultron-1` while the retired Windows node still holds `ultron`: remove that node and rename, or set `WOTR_MCP_PUBLIC_URL` to match)
 - [ ] `ollama-rocm` for the cheap passes: `sudo pacman -S ollama-rocm; sudo systemctl enable --now ollama`
 - [ ] rclone for Drive: `rclone config`, a mount, `WOTR_DRIVE=<mount>` in the env file; the next sync writes the documents there and the next backup lands under it
-- [ ] the engine venvs from their `.sh` setups (`chatterbox_gpu_setup.sh`, `qwen_tts_setup.sh`, `supertonic_setup.sh`, `cosyvoice_setup.sh`; `sudo usermod -aG render,video oridon` first), still behind the narration freeze above
+- [x] the engine venvs from their `.sh` setups — rebuilt 2026-09-14 as written (no group change needed on Arch; AMD's index serves the Linux wheels): Supertonic answers, Chatterbox Turbo and Qwen VoiceDesign (HIP graphs) both load on `cuda:0` and read a line back clean; Kokoro's files re-fetched; the reference clips restored from the vault. CosyVoice: see CONTINUE.md for where its build stopped
+- [x] ComfyUI (2026-09-14): `build/comfy_setup.sh` — clone, `wotr-comfy` venv on the same ROCm torch, `wotr-comfy.service` on 127.0.0.1:8188 pinned to the card, the ten Windows workflows restored, Z-Image Turbo + RealESRGAN + BiRefNet fetched (`--models`); first render 19.6 s cold
 - [ ] Claude Desktop: quit it, `bash build/install_mcp.sh`, start it again
 
 ## Phase F — the Discord bot

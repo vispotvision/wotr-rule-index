@@ -5,19 +5,10 @@
 #
 #   bash build/chatterbox_gpu_setup.sh
 #
-# UNTESTED: a line-for-line port of the PowerShell original (was build/chatterbox_gpu_setup.ps1),
-# written while narration is frozen (ROADMAP: nothing new until one engine holds Gimbzo across
-# three renders). It has not been run on this machine, and two things cannot be checked from here:
-#
-#   - Whether AMD's index, https://stable.repo.amd.com/rocm/whl-next/, serves Linux wheels for
-#     the pins below (torch 2.13.0+rocm10.0.0 / torchaudio 2.11.0.2+rocm10.0.0 were verified on
-#     Windows only). The official fallback is PyTorch's own ROCm index,
-#     https://download.pytorch.org/whl/rocm<ver> (rocm7.0 at the time of writing), whose version
-#     strings differ (torch==2.x.y+rocmN.N, no [device-gfx1201] extra) — change $amd and the pins
-#     together if AMD's index refuses. Neither index was reachable from the porting session.
-#   - The card is only visible to a user in the render and video groups. Once, then log out and in:
-#         sudo usermod -aG render,video oridon
-#     Until then torch.cuda.is_available() is False and the check at the end says so.
+# RUN on this machine 2026-09-14: AMD's index served the Linux wheels for these pins, the card came up
+# as cuda:0 without the render group (Arch ships /dev/kfd and /dev/dri/renderD* mode 666, so the warning
+# below does not fire and would not matter), and the worker loaded turbo on the 9070 XT and read a line back
+# clean through Whisper. The two "cannot be checked from here" points that stood in this header are settled.
 #
 # Source: https://rocm.docs.amd.com/projects/ai-ecosystem/en/latest/frameworks/pytorch/install.html
 # chatterbox-tts pins torch 2.6, so it is installed without its pins and its other dependencies by

@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume III — Character Cards"
 tags: []
-last_edited: "2026-09-14T02:45:00.000Z"
+last_edited: "2026-09-14T03:11:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 **Temperance Stage** · **IX — Invocation.** **Level** · 265. **Level Band** · III — Sovereign. **Coherence Band** · A. **Grade** · S, with late push toward SS. **Ceiling** · 625. **η** · 0.75–0.80.
 > **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–265 contributes 1,170. Threshold bonuses for Stages I through IX contribute 4,500, Stage I counting (R39-3). Total: 8,370.
 >
-> **Total lifetime pool: 8,370.** Allocated: 8,694. **Nothing unspent** — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 10,950).*
+> **Total lifetime pool: 8,370.** Allocated: 8,082. Unspent: 288 *(after the re-cost; the sheet was fully committed on its old pool)* — he is the only Volume III sheet with a fully committed pool, which is what a man with one job and no distractions looks like on paper. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 10,950).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Dexterity** | **468** | S | **His only SS stat, and the whole build hangs off it.** Nobody else in Volume III leads with Dexterity |

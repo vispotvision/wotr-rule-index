@@ -499,3 +499,16 @@ Gnosis Perception. The clash was an artefact of retired names; the ruling
   R13-D. Logged as C-017, C-018, C-019, open; not resolved by the extractor.
 - The Combat Craft Guide's 2026-09-13 edition folds Wren and Edward into the
   main table, quotes Pack Twenty's combat rows and the R39/R41 rulings.
+
+- **C-017, C-018, C-019.** Isaac: the later rulings win, all three, as for the
+  first five collisions. R20C-24, R20C-26 and R20C-27 go superseded on arrival;
+  the R13-A, R13-C and R13-D rulings of 2026-09-12 govern (Joules in anyone's
+  diagnostic voice; the working stops shot, not the steel; the gap-fill pass
+  may change an outcome and says so). R11-3-AMMO_TIERS reads with R13-C's
+  ruling, as its note already says. The Combat Craft Guide's 2026-09-13
+  edition quotes the three R20C rows; a note at each is owed in its next pass.
+- **Re-cost tail.** Isaac: trim Xanelor's and Ignatius's overages. On a second
+  count neither card is over its pool — the first count had double-counted a peak
+  listed twice (a table and a callout). Nothing trimmed; their pool lines now
+  carry the true Allocated and Unspent (Xanelor 8,082 / 288; Ignatius 13,471 /
+  614). Retired Sub-Stat names stay as scaled, not renamed.

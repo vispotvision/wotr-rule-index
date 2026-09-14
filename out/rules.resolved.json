@@ -18760,7 +18760,7 @@
     "pack_number": 20,
     "section": "R20C-24",
     "title": "Physical-unit ceiling confirmed",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.",
     "verbatim": "Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.",
@@ -18771,12 +18771,12 @@
       "register"
     ],
     "verification": [],
-    "ratified": "live on reading (Pack Eighteen); Isaac, 2026-09-13",
+    "ratified": "superseded on arrival, Isaac, 2026-09-13",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md",
       "lines": "55"
     },
-    "notes": "Ratifies R13-A.",
+    "notes": "Superseded on arrival (closes C-017): R13-A's ruling of 2026-09-12: anyone in diagnostic voice may speak in Joules and metres-per-second. Isaac, 2026-09-13: the later ruling wins, as for the first five collisions.",
     "superseded_by": []
   },
   {
@@ -18810,7 +18810,7 @@
     "pack_number": 20,
     "section": "R20C-26",
     "title": "The steel stops the shot, always",
-    "status": "live",
+    "status": "superseded",
     "kind": "mandate",
     "summary": "The steel stops the shot, always. A working may spall, bias, weaken or find the seam.",
     "verbatim": "The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.",
@@ -18822,12 +18822,12 @@
       "adjudication"
     ],
     "verification": [],
-    "ratified": "live on reading (Pack Eighteen); Isaac, 2026-09-13",
+    "ratified": "superseded on arrival, Isaac, 2026-09-13",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md",
       "lines": "57"
     },
-    "notes": "Ratifies R13-C.",
+    "notes": "Superseded on arrival (closes C-018): R13-C's ruling of 2026-09-12: the working stops shot against a worked cuirass, not the steel. Isaac, 2026-09-13: the later ruling wins, as for the first five collisions.",
     "superseded_by": []
   },
   {
@@ -18836,7 +18836,7 @@
     "pack_number": 20,
     "section": "R20C-27",
     "title": "A gap-fill pass may not change an outcome Isaac wrote",
-    "status": "live",
+    "status": "superseded",
     "kind": "ban",
     "summary": "A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.",
     "verbatim": "A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.",
@@ -18847,12 +18847,12 @@
       "session-protocol"
     ],
     "verification": [],
-    "ratified": "live on reading (Pack Eighteen); Isaac, 2026-09-13",
+    "ratified": "superseded on arrival, Isaac, 2026-09-13",
     "source": {
       "file": "WOTR_Companion_Guide_Amendments_Pack_Twenty_Clearance.md",
       "lines": "58"
     },
-    "notes": "Ratifies R13-D.",
+    "notes": "Superseded on arrival (closes C-019): R13-D's ruling of 2026-09-12: the gap-fill pass may change an outcome Isaac wrote when no cause fits, and says so in the author notes. Isaac, 2026-09-13: the later ruling wins, as for the first five collisions.",
     "superseded_by": []
   },
   {

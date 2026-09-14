@@ -488,7 +488,7 @@ figure in diagnostic voice cannot be checked.
 **Recommendation:** none stated by either source. Isaac's 2026-09-13 answer
 on the five known collisions was "the later rulings win"; whether that reaches
 these three is his to say.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the later ruling wins; the R13-A ruling governs; R20C-24 superseded on arrival
 
 ## C-018 — the steel or the working: Pack Twenty against the R13-C ruling
 
@@ -503,7 +503,7 @@ working stops shot against a worked cuirass, not the steel."
 **Consequence if unresolved:** the armour-and-shot exchange in any combat
 scene cannot be adjudicated one way.
 **Recommendation:** none stated by either source.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the later ruling wins; the R13-C ruling governs; R20C-26 superseded on arrival
 
 ## C-019 — may the gap-fill pass change an outcome: Pack Twenty against the R13-D ruling
 
@@ -516,4 +516,4 @@ pass may change an outcome Isaac wrote when no cause fits, and says so in
 the author notes."
 **Consequence if unresolved:** the gap-fill tool's remit is undefined.
 **Recommendation:** none stated by either source.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-13: the later ruling wins; the R13-D ruling governs; R20C-27 superseded on arrival

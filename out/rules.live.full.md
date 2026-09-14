@@ -1,14 +1,8 @@
 # Live rules by domain, with source text
 
-550 live of 672 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+547 live of 672 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (28)
-
-### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
-
-The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
-
-> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
+## adjudication (27)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -821,7 +815,7 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## combat (65)
+## combat (64)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -834,12 +828,6 @@ The three ammunition tiers ratified, subject to R20C-26.
 The Percussion master-strike table is Dawi-authored in-world.
 
 > The Percussion master-strike table is Dawi-authored in-world.
-
-### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
-
-The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
-
-> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
 
 ### R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED [Pack Twenty R20C-54]
 
@@ -1781,19 +1769,13 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (25)
+## items (24)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
 The three ammunition tiers ratified, subject to R20C-26.
 
 > The three ammunition tiers ratified, subject to R20C-26.
-
-### R20C-26-STEEL_STOPS_THE_SHOT [Pack Twenty R20C-26]
-
-The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
-
-> The steel stops the shot, always. A working may spall, bias, weaken or find the seam. It is never the armour.
 
 ### R18-5-ALCHEMY_SOURCE_ORDER [Pack Eighteen §5]
 
@@ -4076,13 +4058,7 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## prose-law (123)
-
-### R20C-24-PHYSICAL_UNIT_CEILING [Pack Twenty R20C-24]
-
-Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
-
-> Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.
+## prose-law (122)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -4816,19 +4792,13 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## register (111)
+## register (110)
 
 ### R20C-21-WELL_NAMES_CLASS_MARKED [Pack Twenty R20C-21]
 
 Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
 
 > Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
-
-### R20C-24-PHYSICAL_UNIT_CEILING [Pack Twenty R20C-24]
-
-Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
-
-> Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else. The gap is characterisation.
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -5642,19 +5612,13 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## session-protocol (15)
+## session-protocol (14)
 
 ### R20C-5-BRIEF_BURI_SECTION_MUST_GO [Pack Twenty R20C-5]
 
 The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
 
 > The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here. It must be cut or it governs every session start.
-
-### R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME [Pack Twenty R20C-27]
-
-A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
-
-> A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
 
 ### R20C-34-ESTIMATES_CANON_ON_USE [Pack Twenty R20C-34]
 
@@ -6131,19 +6095,13 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## verification (88)
+## verification (87)
 
 ### R20C-3-SWEEP_TWO_TIERS [Pack Twenty R20C-3]
 
 The sweep has two tiers. Canon pages get swept — body text, not just titles.
 
 > The sweep has two tiers. Canon pages get swept — body text, not just titles. Live targets: THE GOD FIST (carries Büri and "Tengeriin"), The Kingdom of Kharven, Sōhai, and the stale Open Rulings page under Running Pieces. Scene Archive prose is not swept — Pack Nineteen §8 holds, and a retro-edit risks breaking dialogue that is fixed text under R19-2. Corrected in passing when a scene is re-run.
-
-### R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME [Pack Twenty R20C-27]
-
-A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
-
-> A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
 
 ### R20C-55-COST_AUDIT_ON_CONTACT [Pack Twenty R20C-55]
 

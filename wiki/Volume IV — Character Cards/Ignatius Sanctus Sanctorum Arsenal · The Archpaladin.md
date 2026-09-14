@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume IV — Character Cards"
 tags: []
-last_edited: "2026-09-14T02:47:00.000Z"
+last_edited: "2026-09-14T03:11:00.000Z"
 verification: "unverified"
 ---
 
@@ -62,7 +62,7 @@ verification: "unverified"
 **Temperance Stage** · **XII — Emanation.** **Level** · 385. **Level Band** · IV — Mythic. **Coherence Band** · S. **Grade** · SSS. **Ceiling** · 950.
 > **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–385 contributes 1,785. Threshold bonuses for Stages I through XII contribute 7,800, Stage I counting (R39-3). Total: 14,085.
 >
-> **Total lifetime pool: 14,085.** Allocated: 14,131. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
+> **Total lifetime pool: 14,085.** Allocated: 13,471. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Vitality** | **660** | SS | Holy Physiology, and it is a real number rather than a description |

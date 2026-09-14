@@ -1,10 +1,9 @@
 # Live rules by domain
 
-550 live of 672 extracted.
+547 live of 672 extracted.
 
-## adjudication (28)
+## adjudication (27)
 
-- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
 - **R15-4-THIRTEEN_HAX_STRUCK** [Pack Fifteen §4] Pack Thirteen §6's ban on a character saying "hax" is struck; a character may say whatever makes him interesting, though scaling vocabulary stays author-notes-first as adjudication vocabulary, not because it is modern.
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
 - **R14-3-STATS_DECIDE_TABLE** [Pack Fourteen §3] Names which stat answers each Table Rule 5 adjudication question (who bends the room, who closes measure first, whether a working beats armour, whether a read lands, duration and pushing a working, draw cost, wound behaviour, resistance to a hostile working, sustained technique vs refusal, and what a Path gate forecloses), so adjudication is reconstructible from named stats.
@@ -146,11 +145,10 @@
 - **R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA** [Abys Deep Codex Amendment Ruling Standing Ruling] The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
-## combat (65)
+## combat (64)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED** [Pack Twenty R20C-25] The Percussion master-strike table is Dawi-authored in-world.
-- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
 - **R20C-54-COMBAT_ASSIGNMENTS_CONFIRMED** [Pack Twenty R20C-54] The three pitched combat assignments confirmed. Black Agent: Blade, unhurried, Absetzen and Durchwechseln over committed cuts, does not engage plate.
 - **R17-3-COUNTER_MANDATORY** [Pack Seventeen §3] A Counter is mandatory on Signature techniques and must fall out of the Operation line; a counter that is just "hit him harder" means the technique has no mechanism.
 - **R15-1-TECHNICAL_REGISTER_SURVIVES** [Pack Fifteen §1] Packs Twelve, Thirteen and Fourteen's Technical Register for combat and workings is not a register rule in this pack's sense and is unaffected; this pack makes explanation in real terms easier, not harder.
@@ -314,10 +312,9 @@
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (25)
+## items (24)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
-- **R20C-26-STEEL_STOPS_THE_SHOT** [Pack Twenty R20C-26] The steel stops the shot, always. A working may spall, bias, weaken or find the seam.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
 - **R18-5-ALCHEMY_DOCTRINE_BINDING** [Pack Eighteen §5] Reagents are the nouns, the Wellspring is the verb, and Glyphica is the grammar; any working touching Calcination, Dissolution, Coagulatio, Distillation, Sublimare or Transmutatio is bound by Alchemetrica's entries for them.
 - **R17-5-ARTEFACT_SCOPE** [Pack Seventeen §5] Beyond the Item Guide's existing proof-marks, mass, balance and armour response requirements, any working an artefact performs must carry a full Operation line of its own.
@@ -712,9 +709,8 @@
 - **R35-2-NARRATION_DISTANCE_ASSIGNMENTS** [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned] Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## prose-law (123)
+## prose-law (122)
 
-- **R20C-24-PHYSICAL_UNIT_CEILING** [Pack Twenty R20C-24] Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
 - **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
 - **R20C-33-RESONANT_PAIRS_DIAGNOSTIC** [Pack Twenty R20C-33] Resonant Pair unlocks may be named in diagnostic voice.
@@ -838,10 +834,9 @@
 - **R24-2-ELADRIN_NEVER_BARE_LINE** [Racial Voice and Dialect Guide Amendment II] Never write an Eladrin line of dialogue without a distance or stillness beat attached; a bare Eladrin line is an incomplete sentence in their language.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## register (111)
+## register (110)
 
 - **R20C-21-WELL_NAMES_CLASS_MARKED** [Pack Twenty R20C-21] Both names, class-marked. Guild register a Core Concentration; common tongue a Well; going in is a descent; the people are delvers, or well-rats if you dislike them.
-- **R20C-24-PHYSICAL_UNIT_CEILING** [Pack Twenty R20C-24] Physical-unit ceiling confirmed. Joules and m/s in a Measurewright's or Guild officer's mouth; weight-and-reach for everyone else.
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
 - **R20C-35-CHANT_IN_OWN_LANGUAGE** [Pack Twenty R20C-35] The Latin chant rule folds into the repeal. A practitioner chants in their own language.
 - **R20C-36-CLEARLY_WINS** [Pack Twenty R20C-36] Clearly wins. Character shows in what a person chooses to explain and what they leave out.
@@ -981,10 +976,9 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## session-protocol (15)
+## session-protocol (14)
 
 - **R20C-5-BRIEF_BURI_SECTION_MUST_GO** [Pack Twenty R20C-5] The standing project brief still carries a live THE BÜRI CULTURAL AMENDMENT section and a Büri voice roster. Cannot be edited from here.
-- **R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME** [Pack Twenty R20C-27] A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
 - **R20C-34-ESTIMATES_CANON_ON_USE** [Pack Twenty R20C-34] Pack Fourteen's recommendation is overturned by Pack Eighteen. Estimates do not wait for ratification, because ratification no longer exists.
 - **R20C-56-RETROACTIVE_FORWARD_ONLY** [Pack Twenty R20C-56] Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
 - **R19-8-NO_RETROACTIVE** [Pack Nineteen §8] No rewrite of scenes written before this pack is proposed; the pack governs dialogue written from here forward.
@@ -1070,10 +1064,9 @@
 - **R39-5-PERSISTENCE_FATE_GATE_VII** [Stat System and Scene Rulings 2026-09-13 C-012] Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
 - **R39-6-DISSONANCE_CEILING_TRIO** [Stat System and Scene Rulings 2026-09-13 C-013] The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
 
-## verification (88)
+## verification (87)
 
 - **R20C-3-SWEEP_TWO_TIERS** [Pack Twenty R20C-3] The sweep has two tiers. Canon pages get swept — body text, not just titles.
-- **R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME** [Pack Twenty R20C-27] A gap-fill pass may not change an outcome Isaac wrote. Flag, propose the smallest change, wait.
 - **R20C-55-COST_AUDIT_ON_CONTACT** [Pack Twenty R20C-55] The cost audit runs on contact, not as a sweep. Check 35 enforces it at point of use.
 - **R20C-56-RETROACTIVE_FORWARD_ONLY** [Pack Twenty R20C-56] Retroactive passes: forward-only, corrected on contact. Covers both the Kharven register pass and the Ladder pass across the Cozbi cycle and the enclave scene.
 - **R19-2-WORLD_BREAK_FLAG** [Pack Nineteen §2] A canon-breaking line in Isaac's dialogue is flagged once in author notes and left standing, untouched, unless Isaac rules otherwise.

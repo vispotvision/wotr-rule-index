@@ -1,5 +1,5 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-13_
+_Run 2026-09-14_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.

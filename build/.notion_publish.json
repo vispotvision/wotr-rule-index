@@ -464,5 +464,10 @@
     "page_id": "3db58200-eb22-81c6-a338-ce011ca4f941",
     "title": "NPC roster",
     "hash": "17e8bf698f1c64da"
+  },
+  "scenes/the_southern_passing.md": {
+    "page_id": "3dc58200-eb22-8137-904b-e9067ca18320",
+    "title": "The Southern Passing",
+    "hash": "e828fcfe5594fa33"
   }
 }

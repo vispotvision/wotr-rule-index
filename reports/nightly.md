@@ -1,14 +1,16 @@
-# Nightly — 2026-09-14 03:30
+# Nightly — 2026-09-15 14:34
 
 ## Overnight
 
-First night on Linux. The digest ran on time at 03:30 and the index is exactly where the 00:16 run left it: validate passes, docket clear, one conflict open, the same 193 findings, none new, none cleared. No scene was archived since the last run, so there was nothing to verify.
+Nothing in the index moved: validate passes, docket clear, one conflict open, the same 193 findings, none new, none cleared. No scene was archived, so there was nothing to verify. The three check reports changed only their run date.
 
-The Notion sync has not pushed since 01:01, the last run on Windows. Three hourly runs here aborted with no NOTION_TOKEN, and the one that found a token (03:16) got 401 "API token is invalid" back from Notion. Until a working secret is in ~/.config/wotr/env, wiki edits do not reach the repo. What I'd do this morning: regenerate the secret at notion.so/my-integrations, paste it in as NOTION_TOKEN, check the wiki database is still shared to that integration, then `systemctl --user start wotr-sync` and look for a push in build/sync.log.
+The machine was off from about 20:00 last night until 14:33 today, so the 03:30 digest and the 02:00 book dispatch both fired at boot instead. The digest's git pull failed a minute after boot (no network yet); local and origin are level, nothing was lost.
 
-The backup wrote ~/wotr-backups/wotr-2026-09-14.zip (23.7 MB) on this disk only. Nothing carries it to Drive yet, so the newest copy off this machine is still yesterday's wotr-2026-09-13.zip on Google Drive. rclone is the missing piece; it is a sudo step, so it is yours.
+The Notion sync is fixed. The new token worked from 04:03 yesterday morning, and every hourly run since read all 586 pages, found nothing changed and pushed nothing — quiet, not broken. It stopped at 20:04 because the machine did; look for a 15:00 line in build/sync.log to see it resume (the timer check itself was refused here). One page still never publishes: scenes/YOKO_MISHIRO.md, because its parent page is not shared with the integration — one Share click in Notion.
 
-Also waiting on you, unchanged since last night: the 43 Judger proposals for 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year at its gate — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
+Drive is still unwired: no rclone, WOTR_DRIVE unset, so backups stay on this disk and the sync skips the docs step. The newest copy off this machine is still 09-13 on Google Drive. The next backup is Sunday 09-20 at 03:00; the 09-14 zip was a proof run, not a miss. rclone is a sudo step, so it is yours.
+
+Waiting on you, unchanged: the 43 Judger proposals for 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year at its gate — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
 
 Nothing cleared.
 
@@ -40,6 +42,6 @@ Nothing cleared.
 
 ## The sync and the backup (last 26 h)
 
-- sync: 0 push(es), 0 quiet run(s), 1 failure line(s):  export failed (exit 1)
+- sync: 0 push(es), 8 quiet run(s), 0 failure line(s)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-09-14.zip (23.7 MB, 1021 files)
-- last run of this digest: 2026-09-14T00:16:32
+- last run of this digest: 2026-09-14T03:30:01

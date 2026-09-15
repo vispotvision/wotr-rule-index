@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-818f-80cc-dbf06e137994"
 notion_url: "https://app.notion.com/p/The-Veil-3b158200eb22818f80ccdbf06e137994"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology"]
-last_edited: "2026-09-11T03:48:00.000Z"
+last_edited: "2026-09-15T22:07:00.000Z"
 verification: "unverified"
 ---
 
@@ -129,3 +129,13 @@ Full entry into the Veil's liminal space, beyond mere perception. The practition
 ---
 
 ---
+
+---
+
+## Practitioners and History
+
+> *Merged from the Spellcraft conversion page, 2026-09-15. Unattested claims flagged.*
+**Rikudoku Moto** carries the most striking tradition attached to the Veil: that he manipulated deep Veil layers to fracture spiritual continuity across battlefields, and that his soul was rumored to drift between folds even after death. The name is genuinely attested in current canon, named a philosophical ally on two other characters' sheets, but the wiki mirror flags him as needing re-identification before anything about him hardens into fact. The specific claim is kept here as an unverified tradition attributed to him, not as settled history.
+**Eremund Vellsore**, credited with developing the first known method of Veil-thread weaving through song, and **the Bound Watchers**, Veil-bound entities said to sit at the outer edge of the Astral Fold in judgment over oaths and Temperance rituals, have no matching record anywhere in the wiki mirror. Both are kept because the account of who works the Veil and who judges its crossings reads thinner without them, and both are flagged **unattested in current canon**.
+> **Card reconciliation note.** The old card's "Wellspring Realms" and "Utopia" are not carried forward here. Utopia is a real place in current canon (home to the Celestial Host, with its arbitration realm Midreach), but it is not attested as part of the Veil's connected architecture. The card's "Great Spirit War" is not attested as a named conflict, though Echo Beasts and Veil ruptures are confirmed canon. The card's "Spiritual Stratum" title is confirmed: the formal term in Aetherica literature for the Veil.
+**Cross-references** · *The Eight Families & the Sixty Wellsprings* (Transference Family assignment, the retired Houses); *The Spirit Summoning Arts* and *The Harmonic Arts* (neighboring Disciplines operating through the Veil).

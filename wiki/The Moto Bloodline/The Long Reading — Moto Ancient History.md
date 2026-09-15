@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81b0-810f-d3e421cd9caa"
 notion_url: "https://app.notion.com/p/The-Long-Reading-Moto-Ancient-History-3bc58200eb2281b0810fd3e421cd9caa"
 section: "The Moto Bloodline"
 tags: ["Lore & History", "Bloodlines"]
-last_edited: "2026-09-12T20:18:00.000Z"
+last_edited: "2026-09-15T22:06:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,7 +12,7 @@ verification: "unverified"
 
 *The Moto at Alabaster · The Refusal · The Stay · The Recension*
 > An ancient history of the house, from Bara to the birth of Muken.
-> **Amendment note.** The source document is partially converted: it uses the amended system terms (Süld Hataraki, Meigan, Reigan, Tengan, Kamigan) **but retains the pre-amendment Line names Kōkan and Tenrai.** This page renders them as **Altan** and **Khökh** per the Moto Cultural Amendment. The source file still needs the pass.
+> **Amendment status — complete.** This page uses the R20C-1 names throughout: **Kōkan** and **Tenrai** (the Moto Cultural Amendment's Altan/Khökh forms are superseded). The original source file in `sources/` has not been updated but is read-only; this wiki entry is the governing text. Updated 2026-09-15.
 
 ---
 

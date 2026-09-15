@@ -64,7 +64,8 @@ bot/          the Discord bot — deterministic, no LLM, no dice in canon channe
 book/         the book pipeline: book/design/BOOK_PIPELINE.md; one folder per book (kharven-year/)
 n8n/          docker-compose.yml (host networking), WOTR_nightly.json, README.md
 proposals/    proposed rules awaiting a pack   reports/  audits, digests   imports/  conversions
-desktop/      NATALIE.md — what the Claude Desktop project reads
+desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md — what Claude
+              Cowork (Desktop's folder mode) reads (~/Claude/CLAUDE.md links to it)
 .claude/      skills (wotr-rules, judger); Workflow scripts (book-chapter.js, judger-assist.js)
               — the Workflow scripts run only in Claude Code; other agents use book_tools.py
 .mcp.json     registers WOTR MCP for Claude Code sessions here
@@ -230,6 +231,11 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   person is for Isaac's own listening only (`ROADMAP.md`, the casting rule).
   The base craft guides in `~/wotr-vault/true-canon` are never overwritten:
   a change is a new dated edition beside the original, with a changelog.
+- **Claude Cowork** is Claude Code run by Claude Desktop, with the app's
+  connectors (Notion, Drive, Trello, Gmail) beside the MCP. `desktop/COWORK.md`
+  binds it: a connector reads freely and writes canon on Isaac's word only,
+  through the MCP writer where one exists; `CLAUDE.md` and this file are never
+  rewritten as "folder instructions".
 - **Frozen:** the narration engines (nothing new until one engine holds Gimbzo
   across three renders — `ROADMAP.md`) and any design where n8n calls Claude
   itself (needs an API key that doesn't exist; n8n triggers the host's jobs

@@ -6,6 +6,21 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-15 (Cowork)
+
+**Claude Cowork has its instructions.** `desktop/COWORK.md` is the file: what
+Cowork is on this machine (Claude Code run by Claude Desktop, with the app's
+connectors and the `WOTR MCP`), where the work is, that it is not Natalie, the
+connector rules (read freely; write canon on Isaac's word only and through the
+MCP writers; private pages stay private; Drive/Trello/Gmail lines), the lines
+that hold everywhere, and that `CLAUDE.md`/`AGENTS.md` are never rewritten as
+folder instructions. `~/Claude` (Cowork's default folder, `coworkUserFilesPath`)
+now exists with `CLAUDE.md` as a symlink to it; opened on the repo, Cowork reads
+the repo's `CLAUDE.md` → `AGENTS.md` (new layout line and a "Claude Cowork"
+bullet) → `COWORK.md`. Unverified until Isaac opens a Cowork session: whether
+the repo's `.claude/skills` load there, and whether Cowork's own "update folder
+instructions" writes through the symlink or replaces it (harmless either way).
+
 ## State on 2026-09-14 (midday: ComfyUI and the local TTS, on the card)
 
 **Isaac asked for ComfyUI and the local TTS on Linux; both stand.** The one

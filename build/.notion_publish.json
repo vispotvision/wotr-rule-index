@@ -514,5 +514,10 @@
     "page_id": "3dd58200-eb22-81b1-8ae3-ff32ac23393b",
     "title": "The Hand of the Empress",
     "hash": "d4029354381cf292"
+  },
+  "scenes/the_hatch.md": {
+    "page_id": "3dd58200-eb22-8174-82cf-fc52dd866a49",
+    "title": "The Hatch",
+    "hash": "12e3f4f816e468ac"
   }
 }

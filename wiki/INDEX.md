@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-587 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+588 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -439,9 +439,10 @@
 - [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
-## The Scene Archive (3)
+## The Scene Archive (4)
 
 - [The Freight Book](The%20Scene%20Archive/The%20Freight%20Book.md)
+- [The Holy Inquisition — Part 1B: The Empty Chair](The%20Scene%20Archive/The%20Holy%20Inquisition%20—%20Part%201B%20The%20Empty%20Chair.md)
 - [The Left of the Door — Renard Greymane at the Altar-Room Door](The%20Scene%20Archive/The%20Left%20of%20the%20Door%20—%20Renard%20Greymane%20at%20the%20Altar-Room%20Door.md)
 - [The Table — Running Pieces](The%20Scene%20Archive/The%20Table%20—%20Running%20Pieces.md)
 

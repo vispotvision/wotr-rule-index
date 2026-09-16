@@ -504,5 +504,10 @@
     "page_id": "3dd58200-eb22-81fc-8ac2-fd543c9b5c3d",
     "title": "Spent, Not Dead",
     "hash": "64ac7ca844d9b706"
+  },
+  "scenes/no_entry_for_that.md": {
+    "page_id": "3dd58200-eb22-8125-8dfd-cfe949974587",
+    "title": "No Entry For That",
+    "hash": "ae67a98df6562c9b"
   }
 }

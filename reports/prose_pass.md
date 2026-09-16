@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-15_
+_Run 2026-09-16_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-84 scenes: 170 FAIL, 160 WARN.
+94 scenes: 183 FAIL, 181 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -32,8 +32,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 14_darius_two_men_who_would_not_take_the_seat.md | 3 | 1 |
 | 22_darius_punta.md | 3 | 1 |
 | Kami-No-Kobushi.md | 3 | 0 |
+| the_inhale_register.md | 2 | 4 |
 | 07_charles_the_imperceptible_district.md | 2 | 3 |
 | 20_aurelian_no_signature.md | 2 | 3 |
+| no_entry_for_that.md | 2 | 3 |
 | wotr_the_weight_of_a_courier.md | 2 | 3 |
 | 08_sodoku_recalescence.md | 2 | 2 |
 | 10_mujin_the_name_of_your_killer.md | 2 | 2 |
@@ -41,6 +43,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Cozbi_True_Power_Antithesis.md | 2 | 2 |
 | niran_malformation.md | 2 | 2 |
 | sesk_the_report.md | 2 | 2 |
+| the_holy_inquisition_part_1_the_kindling.md | 2 | 2 |
 | verinus_weight_of_an_infant.md | 2 | 2 |
 | 01_verinus_fire_of_the_undeserving.md | 2 | 1 |
 | 03_verinus_wall_between_the_safeguarded.md | 2 | 1 |
@@ -61,10 +64,13 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 09_sodoku_the_true_nature.md | 2 | 0 |
 | sodoku_the_count_supply_report.md | 2 | 0 |
 | 05_aurelian_primate_under_the_wrong_stars.md | 1 | 5 |
+| the_blackmatch.md | 1 | 4 |
+| what_the_plate_would_not_take.md | 1 | 4 |
 | 04_sodoku_what_the_sky_does_not_ask.md | 1 | 3 |
 | 04_verinus_the_hand_and_the_print.md | 1 | 2 |
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 2 |
+| direction_is_not_intention.md | 1 | 2 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 1 |
 | Cozbi_Merged_Form_Rescind_Explanation.md | 1 | 1 |
 | Cozbi_Rengai_Dhaerin_Confrontation.md | 1 | 1 |
@@ -75,6 +81,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | sodoku_fourteenth_bow_table.md | 1 | 1 |
 | sodoku_true_religion_alabaster.md | 1 | 1 |
 | temur_true_religion_alabaster.md | 1 | 1 |
+| the_hand_of_the_empress.md | 1 | 1 |
+| the_southern_passing.md | 1 | 1 |
 | wotr_the_warrior_nurse.md | 1 | 1 |
 | 07_sodoku_the_howling_hawk.md | 1 | 0 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 0 |
@@ -83,6 +91,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Shichi_Karasu_Mission_Awakening.md | 1 | 0 |
 | balance_lesson.md | 1 | 0 |
 | sodoku_gate_reunion_lambert.md | 1 | 0 |
+| spent_not_dead.md | 1 | 0 |
+| the_overpressure.md | 1 | 0 |
 | Cozbi_Defensive_Response_to_Dova.md | 0 | 3 |
 | Rui_Trap_Deaths_Ray.md | 0 | 2 |
 | verinus_sword_and_scale.md | 0 | 2 |
@@ -317,6 +327,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 
+## the_inhale_register.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN gloss watch: "...es were forty, fifty, sixty and seventy feet from the barn, which meant Brannoch Skell had walked them in.  *He..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...is own horse and was already the wrong distance behind him, which was to say the right one. "There is a standing obl..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...e that had not changed in the time he had been watching it, which meant she was not spending anything to make i..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
 ## 07_charles_the_imperceptible_district.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
@@ -329,6 +347,13 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN gloss watch: "...een since the roll, and the disc in his neck reported again which meant there was enough of him left for it to..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
 - WARN competing similes in one paragraph (2): "There was a moment between the Cycle and the next entry where Darius c..." (AI-tells §5: cut one)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## no_entry_for_that.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN gloss watch: "...ame through the web the way a nail comes out of green wood, which is to say not cleanly, and the large one made no..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## wotr_the_weight_of_a_courier.md
@@ -373,6 +398,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_holy_inquisition_part_1_the_kindling.md
+- FAIL em dashes: 7 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL antithesis 'not X but Y': "it was more a pressure than a sound" (banned; AI-tells §1)
+- WARN manufactured fragment emphasis: 4 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
 ## verinus_weight_of_an_infant.md
 - FAIL antithesis 'not X but Y': "it is not a virtue, it is" (banned; AI-tells §1)
@@ -475,6 +506,20 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN emotional signposting: "He was afraid" (AI-tells §4)
 - WARN emotional signposting: "he was afraid" (AI-tells §4)
 
+## the_blackmatch.md
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 7 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN gloss watch: "...er moved back.  He had put it on them in the interrogative, which meant nobody could answer it, which meant it..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...m in the interrogative, which meant nobody could answer it, which meant it stayed.  *He never accuses anybody o..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...one."  He brought the knife across.  It was done properly, which is to say deep and from the far side and drawn th..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+
+## what_the_plate_would_not_take.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN gloss watch: "...matched the Density in the lower yard forty feet below it, which meant everything he did up here cost more per..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN question in narration (hypophora?): "On chalk?" (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
 ## 04_sodoku_what_the_sky_does_not_ask.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN possible Ladder: "is full and the narrows is" in ""My lord, the ditch is full and the narrows is."..." (Check 18: review by reading)
@@ -495,6 +540,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN sentences under 8 words: 15%, floor is 18% (R4-14-HARD_CEILINGS)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
+## direction_is_not_intention.md
+- FAIL antithesis 'not X but Y': "That is not indifference to them, it is" (banned; AI-tells §1)
+- WARN gloss watch: "...reference, you will find that out at the same moment I do, which is to say slightly after it has happened.  "It co..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 
 ## Cozbi_Construct_Combat_Scene.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -536,6 +586,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL Kharven recurrence: 1 of the five signature items present (the night-stone); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
 - WARN possible Ladder: "is dead and the binding is" in "She is dead and the binding is gone and here we are, three thousand tw..." (Check 18: review by reading)
 
+## the_hand_of_the_empress.md
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
+## the_southern_passing.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## wotr_the_warrior_nurse.md
 - FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
@@ -560,6 +618,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 
 ## sodoku_gate_reunion_lambert.md
 - FAIL Kharven recurrence: 1 of the five signature items present (wet wood); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
+
+## spent_not_dead.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+
+## the_overpressure.md
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 
 ## Cozbi_Defensive_Response_to_Dova.md
 - WARN sentences under 8 words: 15%, floor is 18% (R4-14-HARD_CEILINGS)

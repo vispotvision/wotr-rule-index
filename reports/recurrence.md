@@ -1,5 +1,5 @@
 # Recurrence tracking — Kharven signature items across the archive
-_Run 2026-09-15_
+_Run 2026-09-16_
 
 
 30 scenes mention Kharven. Minimum two items per Kharven scene (R6-9-RECURRENCE_RULE); an item in half the scenes is a signature, an item in one is a stray, an item in none is dead weight.

@@ -1,5 +1,5 @@
 {
-"run": "2026-09-15T14:34:41",
+"run": "2026-09-16T03:30:17",
 "findings": {
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
@@ -631,6 +631,20 @@
 "key": "67d9baff62dd",
 "first_seen": "2026-09-13"
 },
+"9fd7fa10973e": {
+"file": "the_inhale_register.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9fd7fa10973e",
+"first_seen": "2026-09-16"
+},
+"81ba8b737d44": {
+"file": "the_inhale_register.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "81ba8b737d44",
+"first_seen": "2026-09-16"
+},
 "71cd2844735f": {
 "file": "07_charles_the_imperceptible_district.md",
 "check": "prose",
@@ -658,6 +672,20 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "fa80e1096822",
 "first_seen": "2026-09-13"
+},
+"002efbc1fe98": {
+"file": "no_entry_for_that.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "002efbc1fe98",
+"first_seen": "2026-09-16"
+},
+"2ed5d931a56a": {
+"file": "no_entry_for_that.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2ed5d931a56a",
+"first_seen": "2026-09-16"
 },
 "321d4367d330": {
 "file": "wotr_the_weight_of_a_courier.md",
@@ -756,6 +784,20 @@
 "text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "9915eef1f61c",
 "first_seen": "2026-09-13"
+},
+"0dcf9768620b": {
+"file": "the_holy_inquisition_part_1_the_kindling.md",
+"check": "prose",
+"text": "em dashes: 7 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "0dcf9768620b",
+"first_seen": "2026-09-16"
+},
+"6ab15bb2276a": {
+"file": "the_holy_inquisition_part_1_the_kindling.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it was more a pressure than a sound\" (banned; AI-tells §1)",
+"key": "6ab15bb2276a",
+"first_seen": "2026-09-16"
 },
 "e91f2b250455": {
 "file": "verinus_weight_of_an_infant.md",
@@ -1030,6 +1072,20 @@
 "key": "34da2b797eca",
 "first_seen": "2026-09-13"
 },
+"1a7ef7302d0e": {
+"file": "the_blackmatch.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "1a7ef7302d0e",
+"first_seen": "2026-09-16"
+},
+"206b9ff2ee75": {
+"file": "what_the_plate_would_not_take.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "206b9ff2ee75",
+"first_seen": "2026-09-16"
+},
 "c164a2b6bf38": {
 "file": "04_sodoku_what_the_sky_does_not_ask.md",
 "check": "prose",
@@ -1057,6 +1113,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "bc1063319ddb",
 "first_seen": "2026-09-13"
+},
+"44f3b92f4a9a": {
+"file": "direction_is_not_intention.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not indifference to them, it is\" (banned; AI-tells §1)",
+"key": "44f3b92f4a9a",
+"first_seen": "2026-09-16"
 },
 "a4ea543cbd14": {
 "file": "Cozbi_Construct_Combat_Scene.md",
@@ -1128,6 +1191,20 @@
 "key": "077a15df89ae",
 "first_seen": "2026-09-13"
 },
+"73f869854505": {
+"file": "the_hand_of_the_empress.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "73f869854505",
+"first_seen": "2026-09-16"
+},
+"0dd5cc69a8f0": {
+"file": "the_southern_passing.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "0dd5cc69a8f0",
+"first_seen": "2026-09-16"
+},
 "37dd148a20b0": {
 "file": "wotr_the_warrior_nurse.md",
 "check": "prose",
@@ -1183,6 +1260,20 @@
 "text": "Kharven recurrence: 1 of the five signature items present (wet wood); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
 "key": "e570c26446c3",
 "first_seen": "2026-09-13"
+},
+"f83781d52256": {
+"file": "spent_not_dead.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f83781d52256",
+"first_seen": "2026-09-16"
+},
+"1eaceface46b": {
+"file": "the_overpressure.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "1eaceface46b",
+"first_seen": "2026-09-16"
 },
 "828071c78f05": {
 "file": "Duplicate wiki pages (same title twice)",

@@ -2960,5 +2960,17 @@
     "edited": "2026-09-16T14:26:00.000Z",
     "title": "The Holy Inquisition — Part 1B: The Empty Chair",
     "private": true
+  },
+  "3de58200-eb22-8164-af35-fba708ef2478": {
+    "rel": "The Scene Archive/The Reference.md",
+    "edited": "2026-09-17T19:27:00.000Z",
+    "title": "The Reference",
+    "private": true
+  },
+  "3de58200-eb22-8109-884e-d46926e116fb": {
+    "rel": "The Scene Archive/The Damping.md",
+    "edited": "2026-09-17T19:27:00.000Z",
+    "title": "The Damping",
+    "private": true
   }
 }

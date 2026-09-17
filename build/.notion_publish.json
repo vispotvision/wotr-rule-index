@@ -584,5 +584,10 @@
     "page_id": "3de58200-eb22-8133-b31b-e3d0f2e0e316",
     "title": "The Vey-Elarin",
     "hash": "e42ba499a95f56bc"
+  },
+  "scenes/the_empty_place.md": {
+    "page_id": "3de58200-eb22-8147-8076-e815d5d20dea",
+    "title": "The Empty Place",
+    "hash": "60334f3e7fb75702"
   }
 }

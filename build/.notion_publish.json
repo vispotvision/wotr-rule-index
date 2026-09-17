@@ -534,5 +534,10 @@
     "page_id": "3de58200-eb22-8127-be7e-d97562b29963",
     "title": "The Terms",
     "hash": "f5199420e191ff9a"
+  },
+  "scenes/on_foot.md": {
+    "page_id": "3de58200-eb22-815d-9f56-fdb0bc31a15a",
+    "title": "On Foot",
+    "hash": "d069b35ce79255a2"
   }
 }

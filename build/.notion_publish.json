@@ -539,5 +539,10 @@
     "page_id": "3de58200-eb22-815d-9f56-fdb0bc31a15a",
     "title": "On Foot",
     "hash": "d069b35ce79255a2"
+  },
+  "scenes/the_slow_match.md": {
+    "page_id": "3de58200-eb22-819b-a15c-ca31c760f5b8",
+    "title": "The Slow Match",
+    "hash": "0de19ed2e5d6e17d"
   }
 }

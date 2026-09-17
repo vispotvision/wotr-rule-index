@@ -549,5 +549,10 @@
     "page_id": "3de58200-eb22-81d5-9334-e409c517819f",
     "title": "The Draught",
     "hash": "8c308d3510bd2b60"
+  },
+  "scenes/what_he_spent.md": {
+    "page_id": "3de58200-eb22-8158-a329-c9277b04d1ea",
+    "title": "What He Spent",
+    "hash": "f645b47416f6e50f"
   }
 }

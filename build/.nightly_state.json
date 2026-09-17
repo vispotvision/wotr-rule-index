@@ -1,5 +1,5 @@
 {
-"run": "2026-09-16T03:30:17",
+"run": "2026-09-17T03:30:18",
 "findings": {
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
@@ -673,6 +673,34 @@
 "key": "fa80e1096822",
 "first_seen": "2026-09-13"
 },
+"a5920a5b7f5d": {
+"file": "in_form.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "a5920a5b7f5d",
+"first_seen": "2026-09-17"
+},
+"cd4aee2adec7": {
+"file": "in_form.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "cd4aee2adec7",
+"first_seen": "2026-09-17"
+},
+"2cef831365ae": {
+"file": "nine_hours_of_daylight.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2cef831365ae",
+"first_seen": "2026-09-17"
+},
+"140903b51720": {
+"file": "nine_hours_of_daylight.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "140903b51720",
+"first_seen": "2026-09-17"
+},
 "002efbc1fe98": {
 "file": "no_entry_for_that.md",
 "check": "prose",
@@ -1092,6 +1120,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "c164a2b6bf38",
 "first_seen": "2026-09-13"
+},
+"5bec556a2d3d": {
+"file": "the_hatch.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5bec556a2d3d",
+"first_seen": "2026-09-17"
 },
 "95f147bac1e4": {
 "file": "04_verinus_the_hand_and_the_print.md",

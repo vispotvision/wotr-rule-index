@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-16_
+_Run 2026-09-17_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-94 scenes: 183 FAIL, 181 WARN.
+97 scenes: 188 FAIL, 190 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -35,6 +35,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_inhale_register.md | 2 | 4 |
 | 07_charles_the_imperceptible_district.md | 2 | 3 |
 | 20_aurelian_no_signature.md | 2 | 3 |
+| in_form.md | 2 | 3 |
+| nine_hours_of_daylight.md | 2 | 3 |
 | no_entry_for_that.md | 2 | 3 |
 | wotr_the_weight_of_a_courier.md | 2 | 3 |
 | 08_sodoku_recalescence.md | 2 | 2 |
@@ -67,6 +69,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | the_blackmatch.md | 1 | 4 |
 | what_the_plate_would_not_take.md | 1 | 4 |
 | 04_sodoku_what_the_sky_does_not_ask.md | 1 | 3 |
+| the_hatch.md | 1 | 3 |
 | 04_verinus_the_hand_and_the_print.md | 1 | 2 |
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 2 |
@@ -349,6 +352,20 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN competing similes in one paragraph (2): "There was a moment between the Cycle and the next entry where Darius c..." (AI-tells §5: cut one)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## in_form.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN possible Ladder: "was reasonable and the reason is" in ""There is a reason the fear was reasonable and the reason is that her ..." (Check 18: review by reading)
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## nine_hours_of_daylight.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## no_entry_for_that.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
@@ -524,6 +541,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN possible Ladder: "is full and the narrows is" in ""My lord, the ditch is full and the narrows is."..." (Check 18: review by reading)
 - WARN gloss watch: "...e him and the reading was the same.  Two of them. Together, which meant it had come to them at the same time an..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_hatch.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN emotional signposting: "he was terrified" (AI-tells §4)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## 04_verinus_the_hand_and_the_print.md

@@ -1276,7 +1276,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-17T17:50:00.000Z",
+    "edited": "2026-09-18T03:33:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -2977,6 +2977,18 @@
     "rel": "The Scene Archive/The Years That Were Not War.md",
     "edited": "2026-09-17T23:41:00.000Z",
     "title": "The Years That Were Not War",
+    "private": true
+  },
+  "3df58200-eb22-8125-8b54-edd0ada0056d": {
+    "rel": "The Scene Archive/The Turtle's Boy.md",
+    "edited": "2026-09-18T03:32:00.000Z",
+    "title": "The Turtle's Boy",
+    "private": true
+  },
+  "3df58200-eb22-8163-ac24-e2b417882d9e": {
+    "rel": "The Scene Archive/The Holy Inquisition, Part 1B The Empty Chair.md",
+    "edited": "2026-09-18T03:33:00.000Z",
+    "title": "The Holy Inquisition, Part 1B: The Empty Chair",
     "private": true
   }
 }

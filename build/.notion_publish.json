@@ -604,5 +604,15 @@
     "page_id": "3df58200-eb22-812c-9524-ffc275f92411",
     "title": "The Years That Were Not War",
     "hash": "31d325ae52be3a79"
+  },
+  "scenes/the_holy_inquisition_part_1b_the_empty_chair.md": {
+    "page_id": "3df58200-eb22-8173-a989-d29de96df36d",
+    "title": "The Holy Inquisition, Part 1B: The Empty Chair",
+    "hash": "7d64aa5929d43bed"
+  },
+  "scenes/the_turtles_boy.md": {
+    "page_id": "3df58200-eb22-81d5-8dd4-df31fc48ec62",
+    "title": "The Turtle's Boy",
+    "hash": "8e4ce7e1c9d9c789"
   }
 }

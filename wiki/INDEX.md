@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-593 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+594 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -169,8 +169,9 @@
 
 - [Races & Peoples](Peoples/Races%20&%20Peoples.md)
 
-## Races & Peoples (5)
+## Races & Peoples (6)
 
+- [The Ashkaru](Races%20&%20Peoples/The%20Ashkaru.md)
 - [The Beastkin and Demihuman Peoples](Races%20&%20Peoples/The%20Beastkin%20and%20Demihuman%20Peoples.md)
 - [The Dawi Peoples](Races%20&%20Peoples/The%20Dawi%20Peoples.md)
 - [The Elven Peoples](Races%20&%20Peoples/The%20Elven%20Peoples.md)

@@ -4,7 +4,7 @@ notion_id: "3df58200-eb22-817f-a15e-de004a49168c"
 notion_url: "https://app.notion.com/p/The-Ashkaru-3df58200eb22817fa15ede004a49168c"
 section: "Races & Peoples"
 tags: []
-last_edited: "2026-09-18T07:45:00.000Z"
+last_edited: "2026-09-18T20:50:00.000Z"
 verification: "unverified"
 ---
 
@@ -73,7 +73,7 @@ Removing a band does not make Kinjiki stronger. It makes one of his threads *aut
 
 ### The Distant World
 
-**Originated, pending ruling.** The Ashkaru homeworld has not been named. It exists in the wider cosmology as one of the worlds Bairos touched before the Separation, a place where the deep text was particularly dense, where reality's grammar required constant maintenance, and where the instruments built to maintain it were given permanent residence.
+The Ashkaru homeworld has not been named. It exists in the wider cosmology as one of the worlds Bairos touched before the Separation, a place where the deep text was particularly dense, where reality's grammar required constant maintenance, and where the instruments built to maintain it were given permanent residence.
 After the Separation, the world continued. The Ashkaru continued. Their purpose did not. What a race of living editorial instruments does when the document closes is the question their entire post-Separation history answers, and the answer is not uniform. Some maintained. Some adapted. Some, like Kinjiki, looked at the new arrangement and decided it was a draft.
 
 ---
@@ -83,5 +83,3 @@ After the Separation, the world continued. The Ashkaru continued. Their purpose 
 **Kinjiki, The Inversion.** Level 500. Stage XIV, Zenith. Band V. The only Ashkaru confirmed present in the current narrative theatre. See character entry.
 
 ---
-
-*All content in this entry is originated and pending Isaac's ruling.*

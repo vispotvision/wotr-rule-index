@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: ["Characters"]
-last_edited: "2026-09-12T05:54:00.000Z"
+last_edited: "2026-09-18T20:49:00.000Z"
 verification: "unverified"
 ---
 
@@ -59,3 +59,4 @@ verification: "unverified"
 - [Lilia — The Stormfold Nurse](Volume I — Character Cards/Lilia — The Stormfold Nurse.md)
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume I — Character Cards/Kirishima Hae-jin — Kaalabad, the Radiant God of Knights.md)
 - [Wystan Ashmore — Late Bell](Volume I — Character Cards/Wystan Ashmore — Late Bell.md)
+- [Kinjiki, The Inversion](Volume I — Character Cards/Kinjiki, The Inversion.md)

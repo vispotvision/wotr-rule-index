@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-594 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+595 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -499,7 +499,7 @@
 - [The Paths](The%20Zettari/The%20Paths.md)
 - [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
-## Volume I — Character Cards (49)
+## Volume I — Character Cards (50)
 
 - [Anryū Ichimonji](Volume%20I%20—%20Character%20Cards/Anryū%20Ichimonji.md)
 - [Ara Min Mahuo](Volume%20I%20—%20Character%20Cards/Ara%20Min%20Mahuo.md)
@@ -519,6 +519,7 @@
 - [Heisuke — Muken's Last Soldier](Volume%20I%20—%20Character%20Cards/Heisuke%20—%20Muken's%20Last%20Soldier.md)
 - [Hild Ice (Stark) — The Sword Princess](Volume%20I%20—%20Character%20Cards/Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess.md)
 - [Iracordas](Volume%20I%20—%20Character%20Cards/Iracordas.md)
+- [Kinjiki, The Inversion](Volume%20I%20—%20Character%20Cards/Kinjiki,%20The%20Inversion.md)
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume%20I%20—%20Character%20Cards/Kirishima%20Hae-jin%20—%20Kaalabad,%20the%20Radiant%20God%20of%20Knights.md)
 - [Krothar Thunn-Gorr — The Old Chain](Volume%20I%20—%20Character%20Cards/Krothar%20Thunn-Gorr%20—%20The%20Old%20Chain.md)
 - [Krothar Veylshroud — The Chain Without a Master](Volume%20I%20—%20Character%20Cards/Krothar%20Veylshroud%20—%20The%20Chain%20Without%20a%20Master.md)

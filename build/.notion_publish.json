@@ -589,5 +589,10 @@
     "page_id": "3de58200-eb22-8147-8076-e815d5d20dea",
     "title": "The Empty Place",
     "hash": "60334f3e7fb75702"
+  },
+  "scenes/the_brink.md": {
+    "page_id": "3df58200-eb22-816b-9b1e-e94f3b73feef",
+    "title": "The Brink",
+    "hash": "1cf8e4be60b0917e"
   }
 }

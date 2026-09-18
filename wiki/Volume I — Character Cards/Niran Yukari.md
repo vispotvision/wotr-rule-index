@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T20:19:00.000Z"
+last_edited: "2026-09-17T23:38:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,11 +20,11 @@ verification: "unverified"
 
 ## I–II · Identity and Soul Architecture
 
-**Lineage** Human · Yukari Bloodline · **Age** 19 · **Sex** Male
+**Lineage** Human · Yukari Bloodline · **Age** 32 · **Sex** Male
 **Standing** Yukari Enclave · **Shichi Karasu** · Inner World Frontier — *acting authority over the enclave and three tributary settlements*
 | **Level / Stage** | **195 / 500** · Band II — Disciplined Foundation · **Stage VII — Emanation** · Band **B** |
 |---|---|
-| **Typology** | Acoustic / Causal / **Thread-Sight** — *Cymorath dominant,* *Ketsumyōgan emerging* |
+| **Typology** | Acoustic / Causal / **Thread-Sight** — *Cymorath dominant, Ketsumyōgan emerging* |
 | **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 38,400 AU/s · **η 0.89** |
 | **Crystal State** | **Harmonic-Emergent.** Settled and load-bearing; Ketsumyōgan proto-expression stabilised into early active manifestation. ***Threadburn accumulation is the current cost, managed through deliberate recovery*** |
 
@@ -90,10 +90,10 @@ verification: "unverified"
 |---|---|---|
 | **Karasu Hibiki** · Crow Echo | Pressure-wave pulse across 60m — layered acoustic map of density, motion, Crystal output, saturation, structural integrity. **Locates suppressed practitioners by Essence displacement rather than sound** | 12,000 EU |
 | **Unmei no Habataki** · Fate Wingbeat | Highlights the **Thread-Lock cascade of up to three developing threats simultaneously** within 22m — mass, angle, speed, **commitment depth**, technique type | 14,000 EU |
-| **Kageashi** · Shadow Step | Near-silent movement 2–12m, **suppressing footfall, breath, cloth and Aether output simultaneously.** *Chains into Fate-Flinch Reflex for* *untraceable evasion sequences* | 9,200 EU/burst |
-| **Karasu no Kugi** · Crow Nail | Precision vibration into limb, joint or Essence channel **at maximum tension.** Disrupts proprioception 0.4–1.2s. *At B-tier:* *can target an active technique's output node without physical contact* | 18,000 EU |
-| **Thread-Cut Warning** | Targeted Aether pulse to **up to six allies within 30m** — threat-direction and threat-type delivered as physical sensation. *Allies with Resonant Perception* *receive the Thread-Lock tightening alongside it* | 15,000 EU |
-| **Ito no Kiroku** · Thread Record | Reads residual Thread-signature of a location or object. **Reconstructs recent causal history: who was present, techniques used, decisions made, emotional weight.** *Surfaces touched within 72 hours —* *bonded objects retain signature longer* | 22,000 EU · 3–8 min |
+| **Kageashi** · Shadow Step | Near-silent movement 2–12m, **suppressing footfall, breath, cloth and Aether output simultaneously.** *Chains into Fate-Flinch Reflex for untraceable evasion sequences* | 9,200 EU/burst |
+| **Karasu no Kugi** · Crow Nail | Precision vibration into limb, joint or Essence channel **at maximum tension.** Disrupts proprioception 0.4–1.2s. *At B-tier: can target an active technique's output node without physical contact* | 18,000 EU |
+| **Thread-Cut Warning** | Targeted Aether pulse to **up to six allies within 30m** — threat-direction and threat-type delivered as physical sensation. *Allies with Resonant Perception receive the Thread-Lock tightening alongside it* | 15,000 EU |
+| **Ito no Kiroku** · Thread Record | Reads residual Thread-signature of a location or object. **Reconstructs recent causal history: who was present, techniques used, decisions made, emotional weight.** *Surfaces touched within 72 hours — bonded objects retain signature longer* | 22,000 EU · 3–8 min |
 | **Muon Kabe** · Silent Wall | **Fourteen-layer composite ward constructed in real time.** Uses Cymorath substrate-read to align each layer to the material's natural resonance before committing the glyph — ***the ward integrates with the substrate rather than being imposed on it.*** 40s construction | 35,000 EU · **stone: 6–18 months** |
 
 ---

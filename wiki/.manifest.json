@@ -1231,7 +1231,7 @@
   },
   "3b258200-eb22-813a-96bd-f14ad18385f4": {
     "rel": "Volume I — Character Cards/Niran Yukari.md",
-    "edited": "2026-09-12T20:19:00.000Z",
+    "edited": "2026-09-17T23:38:00.000Z",
     "title": "Niran Yukari"
   },
   "3b258200-eb22-81d5-b87d-c8abc80dbc36": {
@@ -2971,6 +2971,12 @@
     "rel": "The Scene Archive/The Damping.md",
     "edited": "2026-09-17T19:27:00.000Z",
     "title": "The Damping",
+    "private": true
+  },
+  "3de58200-eb22-81ec-87c4-eb31db90fc8d": {
+    "rel": "The Scene Archive/The Years That Were Not War.md",
+    "edited": "2026-09-17T23:41:00.000Z",
+    "title": "The Years That Were Not War",
     "private": true
   }
 }

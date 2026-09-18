@@ -1,5 +1,5 @@
 {
-"run": "2026-09-17T03:30:18",
+"run": "2026-09-18T03:30:18",
 "findings": {
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
@@ -204,6 +204,34 @@
 "key": "a24940f9d31f",
 "first_seen": "2026-09-13"
 },
+"20e8f1c2d13c": {
+"file": "the_field_where_they_picked_them.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it was not a request and it was not a curse, it was\" (banned; AI-tells §1)",
+"key": "20e8f1c2d13c",
+"first_seen": "2026-09-18"
+},
+"45de2178ce4a": {
+"file": "the_field_where_they_picked_them.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not a technique, it is\" (banned; AI-tells §1)",
+"key": "45de2178ce4a",
+"first_seen": "2026-09-18"
+},
+"c5040fce6b74": {
+"file": "the_field_where_they_picked_them.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c5040fce6b74",
+"first_seen": "2026-09-18"
+},
+"b4eea78231f1": {
+"file": "the_field_where_they_picked_them.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "b4eea78231f1",
+"first_seen": "2026-09-18"
+},
 "f32e620d0694": {
 "file": "15_darius_kill_me_first.md",
 "check": "prose",
@@ -337,6 +365,27 @@
 "key": "5c7b563ca997",
 "first_seen": "2026-09-13"
 },
+"1855c609925c": {
+"file": "the_years_that_were_not_war.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not merely follow the causal web but\" (banned; AI-tells §1)",
+"key": "1855c609925c",
+"first_seen": "2026-09-18"
+},
+"00fcff435d74": {
+"file": "the_years_that_were_not_war.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "00fcff435d74",
+"first_seen": "2026-09-18"
+},
+"d3ff760ed3ee": {
+"file": "the_years_that_were_not_war.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d3ff760ed3ee",
+"first_seen": "2026-09-18"
+},
 "27019b6825d5": {
 "file": "19_aurelian_five_numbers.md",
 "check": "prose",
@@ -399,6 +448,27 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "1903bf3eb72d",
 "first_seen": "2026-09-13"
+},
+"00e914d48d40": {
+"file": "the_empty_place.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not mercy, it is\" (banned; AI-tells §1)",
+"key": "00e914d48d40",
+"first_seen": "2026-09-18"
+},
+"ce4c129a36cb": {
+"file": "the_empty_place.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "ce4c129a36cb",
+"first_seen": "2026-09-18"
+},
+"4f568023d92b": {
+"file": "the_empty_place.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "4f568023d92b",
+"first_seen": "2026-09-18"
 },
 "097ff4f2994f": {
 "file": "01_wotr_muster_breach_road_north.md",
@@ -630,6 +700,20 @@
 "text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "67d9baff62dd",
 "first_seen": "2026-09-13"
+},
+"1669f48fa6ee": {
+"file": "the_turtles_boy.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "1669f48fa6ee",
+"first_seen": "2026-09-18"
+},
+"7462e6391483": {
+"file": "the_turtles_boy.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "7462e6391483",
+"first_seen": "2026-09-18"
 },
 "9fd7fa10973e": {
 "file": "the_inhale_register.md",
@@ -1107,6 +1191,20 @@
 "key": "1a7ef7302d0e",
 "first_seen": "2026-09-16"
 },
+"9e705c6f07f4": {
+"file": "the_draught.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "9e705c6f07f4",
+"first_seen": "2026-09-18"
+},
+"4a23c513115d": {
+"file": "what_motion_cannot_reach.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4a23c513115d",
+"first_seen": "2026-09-18"
+},
 "206b9ff2ee75": {
 "file": "what_the_plate_would_not_take.md",
 "check": "prose",
@@ -1120,6 +1218,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "c164a2b6bf38",
 "first_seen": "2026-09-13"
+},
+"6876ca5d2716": {
+"file": "the_full_match.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "6876ca5d2716",
+"first_seen": "2026-09-18"
 },
 "5bec556a2d3d": {
 "file": "the_hatch.md",
@@ -1155,6 +1260,34 @@
 "text": "antithesis 'not X but Y': \"That is not indifference to them, it is\" (banned; AI-tells §1)",
 "key": "44f3b92f4a9a",
 "first_seen": "2026-09-16"
+},
+"d6f131e91fb5": {
+"file": "the_brink.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d6f131e91fb5",
+"first_seen": "2026-09-18"
+},
+"2f3456814543": {
+"file": "the_slow_match.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "2f3456814543",
+"first_seen": "2026-09-18"
+},
+"cb2b952fd06b": {
+"file": "the_terms.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"which is more levy than he\" (banned; AI-tells §1)",
+"key": "cb2b952fd06b",
+"first_seen": "2026-09-18"
+},
+"dc2cc7ccdb69": {
+"file": "the_vey_elarin.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "dc2cc7ccdb69",
+"first_seen": "2026-09-18"
 },
 "a4ea543cbd14": {
 "file": "Cozbi_Construct_Combat_Scene.md",
@@ -1198,6 +1331,13 @@
 "key": "4271a9e58819",
 "first_seen": "2026-09-13"
 },
+"03fe8bd47337": {
+"file": "on_foot.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "03fe8bd47337",
+"first_seen": "2026-09-18"
+},
 "48895335c738": {
 "file": "seven_labors.md",
 "check": "prose",
@@ -1239,6 +1379,20 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "0dd5cc69a8f0",
 "first_seen": "2026-09-16"
+},
+"6a03a54cbbcf": {
+"file": "what_he_spent.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6a03a54cbbcf",
+"first_seen": "2026-09-18"
+},
+"f0651c65a2f4": {
+"file": "what_we_did_not_do.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f0651c65a2f4",
+"first_seen": "2026-09-18"
 },
 "37dd148a20b0": {
 "file": "wotr_the_warrior_nurse.md",

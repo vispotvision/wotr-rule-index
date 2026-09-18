@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-17_
+_Run 2026-09-18_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-97 scenes: 188 FAIL, 190 WARN.
+114 scenes: 210 FAIL, 236 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -13,14 +13,17 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | THE_YUKARI_BLOODLINE.md | 5 | 5 |
 | 01_the_vacancy_korvaeth_arc.md | 5 | 1 |
 | THE_KINGDOM_OF_KHARVEN_corrected.md | 4 | 6 |
+| the_field_where_they_picked_them.md | 4 | 3 |
 | 15_darius_kill_me_first.md | 4 | 2 |
 | 21_darius_the_fist_of_god.md | 4 | 2 |
 | verinus_what_a_thing_weighs.md | 4 | 2 |
 | 10_wotr_what_the_ground_was_owed.md | 4 | 1 |
 | Niran_Mira_Return_to_the_Enclave.md | 3 | 8 |
+| the_years_that_were_not_war.md | 3 | 6 |
 | 19_aurelian_five_numbers.md | 3 | 4 |
 | Naiser_Death_Cozbi_Genocide_Niran_Fall.md | 3 | 4 |
 | YOKO_MISHIRO.md | 3 | 4 |
+| the_empty_place.md | 3 | 3 |
 | 01_wotr_muster_breach_road_north.md | 3 | 2 |
 | 23_darius_the_fist_of_totality.md | 3 | 2 |
 | 02_wren_bulwark.md | 3 | 1 |
@@ -32,6 +35,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | 14_darius_two_men_who_would_not_take_the_seat.md | 3 | 1 |
 | 22_darius_punta.md | 3 | 1 |
 | Kami-No-Kobushi.md | 3 | 0 |
+| the_turtles_boy.md | 2 | 7 |
 | the_inhale_register.md | 2 | 4 |
 | 07_charles_the_imperceptible_district.md | 2 | 3 |
 | 20_aurelian_no_signature.md | 2 | 3 |
@@ -67,25 +71,35 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | sodoku_the_count_supply_report.md | 2 | 0 |
 | 05_aurelian_primate_under_the_wrong_stars.md | 1 | 5 |
 | the_blackmatch.md | 1 | 4 |
+| the_draught.md | 1 | 4 |
+| what_motion_cannot_reach.md | 1 | 4 |
 | what_the_plate_would_not_take.md | 1 | 4 |
 | 04_sodoku_what_the_sky_does_not_ask.md | 1 | 3 |
+| the_full_match.md | 1 | 3 |
 | the_hatch.md | 1 | 3 |
 | 04_verinus_the_hand_and_the_print.md | 1 | 2 |
 | Cozbi_Sealed_Retreat.md | 1 | 2 |
 | Six_Crows_vs_Black_Dragon.md | 1 | 2 |
 | direction_is_not_intention.md | 1 | 2 |
+| the_brink.md | 1 | 2 |
+| the_slow_match.md | 1 | 2 |
+| the_terms.md | 1 | 2 |
+| the_vey_elarin.md | 1 | 2 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 1 |
 | Cozbi_Merged_Form_Rescind_Explanation.md | 1 | 1 |
 | Cozbi_Rengai_Dhaerin_Confrontation.md | 1 | 1 |
 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md | 1 | 1 |
 | Rengai_Farewell_and_Dhaerin.md | 1 | 1 |
 | aurelian_word_under_the_hammer.md | 1 | 1 |
+| on_foot.md | 1 | 1 |
 | seven_labors.md | 1 | 1 |
 | sodoku_fourteenth_bow_table.md | 1 | 1 |
 | sodoku_true_religion_alabaster.md | 1 | 1 |
 | temur_true_religion_alabaster.md | 1 | 1 |
 | the_hand_of_the_empress.md | 1 | 1 |
 | the_southern_passing.md | 1 | 1 |
+| what_he_spent.md | 1 | 1 |
+| what_we_did_not_do.md | 1 | 1 |
 | wotr_the_warrior_nurse.md | 1 | 1 |
 | 07_sodoku_the_howling_hawk.md | 1 | 0 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 0 |
@@ -97,7 +111,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | spent_not_dead.md | 1 | 0 |
 | the_overpressure.md | 1 | 0 |
 | Cozbi_Defensive_Response_to_Dova.md | 0 | 3 |
+| a_name_held_in_common.md | 0 | 3 |
 | Rui_Trap_Deaths_Ray.md | 0 | 2 |
+| the_holy_inquisition_part_1b_the_empty_chair.md | 0 | 2 |
 | verinus_sword_and_scale.md | 0 | 2 |
 | 02_verinus_testament_of_the_sixty_fifth.md | 0 | 1 |
 | 06_sodoku_the_shallow_seen_unburied.md | 0 | 1 |
@@ -105,6 +121,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Six_Crows_Dragon_Fight_Extended.md | 0 | 1 |
 | kaalabad_star_crusher.md | 0 | 1 |
 | Rengai_Confrontation_and_Nirans_Dream.md | 0 | 0 |
+| the_circus.md | 0 | 0 |
 
 ## The_Path_of_Sorrow.md
 - FAIL em dashes: 150 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
@@ -192,6 +209,15 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN question in narration (hypophora?): "Did you show up when the Crown called?" (AI-tells §1)
 - WARN paragraphs closing on three sentences over 18 words: 14 (R4-14-HARD_CEILINGS says 0)
 
+## the_field_where_they_picked_them.md
+- FAIL antithesis 'not X but Y': "it was not a request and it was not a curse, it was" (banned; AI-tells §1)
+- FAIL antithesis 'not X but Y': "It is not a technique, it is" (banned; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 4 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN gloss watch: "...vaeth was standing at the far side of it.  Alone. No Guard, which meant either that they were dead or that she..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 4 (R4-14-HARD_CEILINGS says 0)
+
 ## 15_darius_kill_me_first.md
 - FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -236,6 +262,17 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN emotional signposting: "information was grief" (AI-tells §4)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
+## the_years_that_were_not_war.md
+- FAIL antithesis 'not X but Y': "not merely follow the causal web but" (banned; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN possible Ladder: "was deliberate and the deliberateness was" in "The decision was deliberate and the deliberateness was the point...." (Check 18: review by reading)
+- WARN possible Ladder: "was excellent and the application was" in "The Academy trained practitioners the way the Accord trained practitio..." (Check 18: review by reading)
+- WARN manufactured fragment emphasis: 5 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN faculty as grammatical subject: "the Cymorath registered" (R6-2-FACULTY_NEVER_SUBJECT, Check 19)
+- WARN emotional signposting: "but was afraid" (AI-tells §4)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
 ## 19_aurelian_five_numbers.md
 - FAIL em dashes: 3 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -262,6 +299,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN manufactured fragment emphasis: 7 short Not/Never/And/Only fragments (AI-tells §1)
 - WARN faculty as grammatical subject: "the Kamigan filed" (R6-2-FACULTY_NEVER_SUBJECT, Check 19)
 - WARN length 1653 words, outside the set-piece band 2500–∞ (Table Rule 2)
+
+## the_empty_place.md
+- FAIL antithesis 'not X but Y': "it is not mercy, it is" (banned; AI-tells §1)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## 01_wotr_muster_breach_road_north.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -329,6 +374,17 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL em dashes: 100 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - FAIL flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+
+## the_turtles_boy.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 7 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN gloss watch: "...patient about this the way he was patient about everything, which was to say absolutely and without visible effort...." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...start, the way he was clear about the things that mattered, which was to say once and without raising his voice.  "M..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN question in narration (hypophora?): "What did that name mean?" (AI-tells §1)
+- WARN question in narration (hypophora?): "What did it mean to anyone?" (AI-tells §1)
+- WARN competing similes in one paragraph (2): "Drogo placed his hand on the boy's face. The mask was up, the way Xane..." (AI-tells §5: cut one)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
 ## the_inhale_register.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -530,6 +586,20 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN gloss watch: "...m in the interrogative, which meant nobody could answer it, which meant it stayed.  *He never accuses anybody o..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
 - WARN gloss watch: "...one."  He brought the knife across.  It was done properly, which is to say deep and from the far side and drawn th..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
 
+## the_draught.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN competing similes in one paragraph (2): "It looks like an opening and it has looked like an opening to every ma..." (AI-tells §5: cut one)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## what_motion_cannot_reach.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN possible Ladder: "is theatre and the man is" in "So the threat is theatre and the man is asking...." (Check 18: review by reading)
+- WARN gloss watch: "...rong twice this fortnight and it is not wrong about this.*  Which meant the threat was theatre.  Which meant th..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...ot wrong about this.*  Which meant the threat was theatre.  Which meant the man was asking.  *And he is asking..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## what_the_plate_would_not_take.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
@@ -541,6 +611,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN possible Ladder: "is full and the narrows is" in ""My lord, the ditch is full and the narrows is."..." (Check 18: review by reading)
 - WARN gloss watch: "...e him and the reading was the same.  Two of them. Together, which meant it had come to them at the same time an..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_full_match.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN manufactured fragment emphasis: 5 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 4 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
 ## the_hatch.md
@@ -569,6 +645,26 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN gloss watch: "...reference, you will find that out at the same moment I do, which is to say slightly after it has happened.  "It co..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 
+## the_brink.md
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+
+## the_slow_match.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_terms.md
+- FAIL antithesis 'not X but Y': "which is more levy than he" (banned; AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_vey_elarin.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## Cozbi_Construct_Combat_Scene.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
@@ -593,6 +689,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
+## on_foot.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## seven_labors.md
 - FAIL flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
@@ -616,6 +716,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 ## the_southern_passing.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## what_he_spent.md
+- FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
+
+## what_we_did_not_do.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
 
 ## wotr_the_warrior_nurse.md
 - FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
@@ -653,9 +761,18 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN length 576 words, outside the standard band 700–1500 (Table Rule 2)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
 
+## a_name_held_in_common.md
+- WARN manufactured fragment emphasis: 7 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
 ## Rui_Trap_Deaths_Ray.md
 - WARN length 669 words, outside the standard band 700–1500 (Table Rule 2)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_holy_inquisition_part_1b_the_empty_chair.md
+- WARN possible Ladder: "was thin and the stone was" in "Edward noted this for the fourth time and walked through the door into..." (Check 18: review by reading)
+- WARN manufactured fragment emphasis: 4 short Not/Never/And/Only fragments (AI-tells §1)
 
 ## verinus_sword_and_scale.md
 - WARN gloss watch: "...somebody raised in that household would have thought to do, which was to say nothing at all and wait.  "I have spent..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)

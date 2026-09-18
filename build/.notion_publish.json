@@ -624,5 +624,10 @@
     "page_id": "3df58200-eb22-81c7-aaa5-c34700b28f89",
     "title": "Xanelor — The Morning of the First Bell",
     "hash": "051a6c7871ed7c34"
+  },
+  "scenes/xanelor_after_the_crash.md": {
+    "page_id": "3df58200-eb22-813c-bbad-db402d26c04f",
+    "title": "Xanelor — After the Crash",
+    "hash": "70fa70be7d994858"
   }
 }

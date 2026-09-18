@@ -614,5 +614,10 @@
     "page_id": "3df58200-eb22-81d5-8dd4-df31fc48ec62",
     "title": "The Turtle's Boy",
     "hash": "8e4ce7e1c9d9c789"
+  },
+  "scenes/the_great_summoners_morning.md": {
+    "page_id": "3df58200-eb22-813f-bdb4-dd7d2f1812f1",
+    "title": "The Great Summoner's Morning",
+    "hash": "5d62e7ad504cad9d"
   }
 }

@@ -619,5 +619,10 @@
     "page_id": "3df58200-eb22-813f-bdb4-dd7d2f1812f1",
     "title": "The Great Summoner's Morning",
     "hash": "5d62e7ad504cad9d"
+  },
+  "scenes/xanelor_the_morning_of_the_first_bell.md": {
+    "page_id": "3df58200-eb22-81c7-aaa5-c34700b28f89",
+    "title": "Xanelor — The Morning of the First Bell",
+    "hash": "051a6c7871ed7c34"
   }
 }

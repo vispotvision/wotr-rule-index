@@ -659,5 +659,10 @@
     "page_id": "3e058200-eb22-8119-b752-fd39a581ca4a",
     "title": "The War in the North IV — The Blank Seal",
     "hash": "919376fb1b5c4a2c"
+  },
+  "scenes/the_war_in_the_north_v_the_shieldwarden.md": {
+    "page_id": "3e058200-eb22-8176-a78c-fdaa213b2f47",
+    "title": "The War in the North V — The Shieldwarden",
+    "hash": "73b2c22402f2f3b5"
   }
 }

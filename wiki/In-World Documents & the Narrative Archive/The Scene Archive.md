@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-09-18T23:40:00.000Z"
+last_edited: "2026-09-19T02:31:00.000Z"
 verification: null
 ---
 
@@ -138,3 +138,8 @@ verification: null
 - [[Xanelor — After the Crash]]
 - [[Xanelor — Rikudoku and the Address]]
 - [[Xanelor — The Introductions]]
+- [[The War in the North I — The Kharven-Seat]]
+- [[The War in the North II — The Road, Two Days South]]
+- [[The War in the North III — Utopia]]
+- [[The War in the North IV — The Blank Seal]]
+- [[The War in the North V — The Shieldwarden]]

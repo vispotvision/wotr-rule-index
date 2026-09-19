@@ -33,6 +33,20 @@ puts it on the clipboard. If the box rejects the length, the box text alone
 is the fallback. Still Isaac's hands: the paste, and confirming the `wotr`
 tools show in the project chat at all.
 
+**Evening: the enforced surface.** Isaac: "so fix it." The Desktop log
+showed the server connected and answering (122 live prose-law rules) and
+zero tool calls in the chat that drifted, so the model was simply not
+calling. Built the one surface where it cannot skip: `build/natalie_hook.py`
++ `.claude/settings.json` (SessionStart injects NATALIE.md and the prose-law
+brief; Stop verifies every reply over 120 words and blocks on FAIL, one
+enforced revision per reply), gated on a `.natalie` marker so the coding
+checkout is untouched. The clone `~/wotr-natalie` carries the marker; Isaac
+opens it in the app's Code tab and that session is the table. Checked with
+fake transcripts: no marker → silent; bad reply → block with the FAIL list;
+clean reply → silent; `stop_hook_active` → silent. Not yet seen: a real
+session in the Code tab (first open will ask to approve the project's
+`wotr` MCP server from `.mcp.json`).
+
 ## State on 2026-09-15 (Cowork)
 
 **Claude Cowork has its instructions.** `desktop/COWORK.md` is the file: what

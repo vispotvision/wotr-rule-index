@@ -1,0 +1,26 @@
+{
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$HOME/.venvs/wotr/bin/python\" \"$CLAUDE_PROJECT_DIR/build/natalie_hook.py\"",
+            "timeout": 60
+          }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "\"$HOME/.venvs/wotr/bin/python\" \"$CLAUDE_PROJECT_DIR/build/natalie_hook.py\"",
+            "timeout": 30
+          }
+        ]
+      }
+    ]
+  }
+}

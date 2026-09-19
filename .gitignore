@@ -44,3 +44,6 @@ bot/.bot.sync.err
 .venv/
 build/.sync.lock
 build/.book.lock
+
+# the Natalie clone: this marker turns on the table hooks in .claude/settings.json
+.natalie

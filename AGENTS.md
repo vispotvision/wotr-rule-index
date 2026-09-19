@@ -236,6 +236,15 @@ words; nothing invented; stop at phase ends; the validation gate). In addition:
   binds it: a connector reads freely and writes canon on Isaac's word only,
   through the MCP writer where one exists; `CLAUDE.md` and this file are never
   rewritten as "folder instructions".
+- **Natalie in Claude Code** is the clone at `~/wotr-natalie` opened in the
+  app's Code tab. Its `.natalie` marker (gitignored) turns on the two hooks in
+  `.claude/settings.json` (`build/natalie_hook.py`): SessionStart pulls, then
+  puts NATALIE.md and the brief prose-law loadout in context; Stop runs
+  `verify.py` on every reply over 120 words and blocks it with the FAIL list
+  until it is fixed. The coding checkout has no marker, so the hooks exit at
+  once here. This is the one surface where the rules are enforced rather than
+  requested; the Desktop project (`desktop/PROJECT_INSTRUCTIONS.md`) still
+  only asks.
 - **Frozen:** the narration engines (nothing new until one engine holds Gimbzo
   across three renders — `ROADMAP.md`) and any design where n8n calls Claude
   itself (needs an API key that doesn't exist; n8n triggers the host's jobs

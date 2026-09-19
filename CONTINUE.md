@@ -6,6 +6,22 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-18 (the Instructions box)
+
+**`desktop/PROJECT_INSTRUCTIONS.md` rewritten as an order of operations.** The
+text in the Claude Desktop project's Instructions box was the pre-MCP version
+(before `13171cc`): it named GitHub and Notion and nothing else. The repo copy
+now says, in order: WOTR MCP first when present (local `wotr` in Claude
+Desktop, all 45 tools; the public read-only connector, 25 tools, from
+claude.ai web/phone) with the per-chat sequence (`session_start` → `load_rules`
++ `check_docket` before any prose → `scene_brief`/`scene_context`/`fow_line`
+before drafting → `verify_scene` after, twice → the writers at the close, full
+server only); then what each GitHub file is for and what lives in the repo but
+not in knowledge (`sources/`, `desktop/inventories/`, `scenes/`, `table/`);
+then Notion; then the never-skipped list. Header says which files go in
+Knowledge. **Waits on Isaac's hands:** paste the text below the rule into the
+project's Instructions box and re-sync Knowledge. NATALIE.md unchanged.
+
 ## State on 2026-09-15 (Cowork)
 
 **Claude Cowork has its instructions.** `desktop/COWORK.md` is the file: what

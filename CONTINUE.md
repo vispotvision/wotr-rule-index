@@ -22,6 +22,17 @@ then Notion; then the never-skipped list. Header says which files go in
 Knowledge. **Waits on Isaac's hands:** paste the text below the rule into the
 project's Instructions box and re-sync Knowledge. NATALIE.md unchanged.
 
+**Later the same day, the design inverted.** Isaac: Natalie still writes
+without the rules. Cause: project Knowledge is retrieved in chunks, the box is
+the only text always in context, and the box held a pointer. The box text now
+carries the law itself (turn shape, length bands, the banned constructions,
+numbers from `fow_line` only, the four voices, `verify_scene` before posting),
+and `build/instructions_box.sh` builds the full paste (the box text plus
+NATALIE.md below its first rule, 35 KB) at `~/wotr-instructions-box.md` and
+puts it on the clipboard. If the box rejects the length, the box text alone
+is the fallback. Still Isaac's hands: the paste, and confirming the `wotr`
+tools show in the project chat at all.
+
 ## State on 2026-09-15 (Cowork)
 
 **Claude Cowork has its instructions.** `desktop/COWORK.md` is the file: what

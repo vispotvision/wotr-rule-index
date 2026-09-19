@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-818a-9903-e9116936db3e"
 notion_url: "https://www.notion.so/3e058200eb22818a9903e9116936db3e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-18T21:46:41"
+last_edited: "2026-09-18T21:47:57"
 verification: null
 ---
 # Rikudoku Moto
@@ -52,10 +52,11 @@ Stage, Level, Wellspring, Techniques, Stats: all TBD.
 
 **Sodoku Moto** (father, age 35 in this timeline): the Exiled Lion. The nature of their relationship is unestablished. Whether Sodoku is present at the Academy, still in exile, or somewhere else entirely is unknown.
 **Yoko Mishiro** (mother): Fox-Spirit Beastkin, Mishiro lineage. The One Who Stayed. Ruled 2026-09-18. Rikudoku's conception sits inside the Scourge of Hell period, when Sodoku was roughly twenty-two and the relationship was the thing neither of them named.
-**Hild Ice** (half-sister, through Freya, Sodoku's earlier line).
+**Hild Ice** (half-sister, paternal, through Freya): **dead.** Twelve years old, in a cistern doorway at the ninth hour, carried on the Ledger at L001. Rikudoku was around six when it happened, by the card arithmetic (Sodoku 28 with Hild at 12 in *Recalescence*); flagged as an estimate, not a fixed figure. What he was told, and when, is unestablished.
 **Emira Moto** (paternal aunt): Sodoku's younger sister. Approximately 22 in this timeline.
 **Sonzai Moto** (paternal uncle): Sodoku's brother, separated. Status unknown in this timeline.
 **Muken Moto** (grandfather, dead): Sodoku's father, killed in the Tenrai corridor assassination. Rikudoku has his frame.
+**Freya** (dead, Ledger L003): Hild's mother, and the reason there is a half-sister on this card at all.
 
 ## Open Questions
 
@@ -65,4 +66,4 @@ Stage, Level, Wellspring, Techniques, Stats: all TBD.
 4. Where is Sodoku in this timeline? Present, absent, known?
 5. Is the sleepiness mundane or a cost of something active?
 6. Why did Mu-jin choose not to address him?
-7. Does he know Hild?
+7. Did he know Hild before the ninth hour, and is she a name spoken in that household or a name nobody says?

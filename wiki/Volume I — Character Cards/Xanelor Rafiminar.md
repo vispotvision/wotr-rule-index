@@ -3,15 +3,15 @@ title: "Xanelor Rafiminar"
 notion_id: "3e058200-eb22-815e-88b2-f1f38c42b4bf"
 notion_url: "https://www.notion.so/3e058200eb22815e88b2f1f38c42b4bf"
 section: "Volume I — Character Cards"
-tags: ["Characters", "Peoples"]
-last_edited: "2026-09-18T21:37:59"
+tags: []
+last_edited: "2026-09-18T21:41:34"
 verification: null
 ---
 # Xanelor Rafiminar
 
 *The Turtle's Ward · The Sage's Arrow · Card — (pending)*
 
-> **Level 18 in a body trained outside the Accord's framework.** The Sage Arts cultivated perception and spatial processing three brackets above nominal Stage I output. No formal Wellspring harmonization. No formal assessment. No one has told him what he is yet.
+> **Level 95 in a body trained outside the Accord's framework.** The Sage Arts cultivated perception and spatial processing into C-Grade territory through a method no Accord diagnostic recognizes. No formal Wellspring harmonization. No formal assessment. No one has told him what he is yet.
 
 ---
 
@@ -22,20 +22,20 @@ verification: null
 **Age** 14 · **Sex** Male
 **Standing** No standing. No registration. Accepted into the Aetherion Academy by letter of recommendation from his guardian, Drogo. Has never been assessed, classified, or ranked by any Accord-affiliated body.
 
-> **Catalyst Event.** Unknown. The scars predate his earliest memory. Three parallel cuts, temple to jaw, left cheek, healed into permanent raised ridges. Whatever made them was not an animal and was not an accident. Drogo found the child screaming in a language Drogo did not speak, face half-ruined, lashed to a piece of wreckage that bore no flag or mark. **The event may have triggered an early Crystal seed that has gone undetected for twelve years.**
+> **Catalyst Event.** Unknown. The scars predate his earliest memory. Three parallel cuts, temple to jaw, left cheek, healed into permanent raised ridges. Whatever made them was not an animal and was not an accident. Drogo found the child screaming in a language Drogo did not speak, face half-ruined, lashed to a piece of wreckage that bore no flag or mark. **The event triggered a Crystal seed that has developed unsupervised for twelve years under Sage Arts cultivation.**
 
 ---
 
 ## II · Soul Architecture
 
-**Level** **18 / 500** · Band I — Mortal Foundation (1–100). *Nominal. Sage Arts training has produced sub-stat output inconsistent with this level (estimated)*
-**Temperance Stage** **I — Murmuring**, status unclear. *No formal awakening event. The Sage Arts may constitute a non-standard first-stage cultivation without a discrete transition — or he may still be pre-Murmuring entirely. Assessment pending*
-**Coherence Band** **Unclassified** — no Accord-framework measurement exists
+**Level** **95 / 500** · Band I — Mortal Foundation (1–100). *Five levels from the Stage IV gate. Sage Arts training has produced sub-stat output inconsistent with standard Band I profiles (estimated)*
+**Temperance Stage** **III — Ascension**, probable. *No formal awakening event. The Sage Arts produced continuous cultivation without discrete Stage transitions — he passed through Murmuring and Welling without knowing either had a name. Whether the Ascension ceiling applies or whether the non-standard path has bypassed the gate structure entirely is an open diagnostic question*
+**Coherence Band** **Unclassified** — no Accord-framework measurement exists. *Sage Arts cultivation produces a different relationship between Essence and body than standard progression*
 **Path** Body 55% · Spirit 35% · Attraction 10% *(estimated from training emphasis)*
 **Essence Typology** **Vectoria**, probable primary — trajectory, direction, spatial mapping. *The bow, the stake-field, the air-displacement sensing: all directional processing.* **Fluxia**, possible undertone — *Drogo's flow philosophy, the river metaphor, the adaptive-evasion training*
 **Aether Class** **Ø — Dormant** *(no formal assessment; reclassification expected at academy intake)*
-**Efficiency (η)** **Unclassified** — *functionally unmeasurable without standardized Essence-channel diagnostics*
-**Crystal State** **Unknown.** No fracture event on record, but the age-two scarring may constitute one. *If a Crystal seed formed at that event and has been developing under Sage Arts cultivation for twelve years without standard progression, the architecture will not resemble anything the academy's diagnostic framework expects*
+**Efficiency (η)** **Unclassified** — *functionally unmeasurable without standardized Essence-channel diagnostics. The Sage Arts appear to produce high efficiency through a different mechanism than standard Aether Flow*
+**Crystal State** **Intact, non-standard architecture.** The age-two scarring constituted a catalyst. Twelve years of Sage Arts cultivation have developed the Crystal along a path that does not correspond to any Accord-documented progression. *What the academy finds when they look may not resemble anything in the diagnostic literature*
 **Attraction / Obsession** Clean, latent
 
 ---
@@ -52,49 +52,50 @@ verification: null
 
 ## IV–V · Stats
 
-> *All values are Natalie's estimates based on narrative performance and training emphasis. Pending Isaac's ruling and formal FOW table derivation. Marked (est.) throughout.*
+> *All values are Natalie's estimates based on Level 95 Band I allocation (12 pts/level, ~1,140 total) and narrative training emphasis. Pending Isaac's ruling. Marked (est.) throughout.*
 
-**Gnosis** · 38 (est.) · Grade E *(well above Stage I nominal of max 50; perception sub-stats pulling the mean)* — Acuity 52 (est.) · Analysis 45 (est.) · Retention 30 (est.) · Sapience 25 (est.)
-**Dexterity** · 42 (est.) · Grade E — Economy 50 (est.) · Finesse 48 (est.) · Celerity 38 (est.) · *Four years of stake-field and bow work*
-**Tempering** · 30 (est.) · Grade E — Clarity 35 (est.) · Coherence 28 (est.) · Maturity 26 (est.) · *Meditation and breath discipline*
-**Resilience** · 22 (est.) · Grade F — Scarring 28 (est.) · Threshold 22 (est.) · Hardening 18 (est.) · *Jungle living, not combat*
-**Vitality** · 25 (est.) · Grade F — Constitution 30 (est.) · Filtration 22 (est.) · *Island survival*
-**Ardency** · 12 (est.) · Grade F — *Untrained. No Essence-channeling instruction*
-**Dominion** · 8 (est.) · Grade Hollow — *Non-existent. No Domain seed, no formal Essence projection*
-**Harmonics** · 10 (est.) · Grade Hollow — *No Wellspring contact. May spike dramatically upon first harmonization*
+**Gnosis** · 165 (est.) · Grade C — Acuity 190 (est.) · Analysis 175 (est.) · Retention 140 (est.) · Sapience 130 (est.) · *Sage Arts primary axis. The hearing, the reading, the spatial mapping — all Gnosis-heavy*
+**Dexterity** · 170 (est.) · Grade C — Economy 185 (est.) · Finesse 180 (est.) · Celerity 155 (est.) · *Four years of stake-field, bow work, and jungle movement*
+**Tempering** · 145 (est.) · Grade C — Clarity 160 (est.) · Coherence 140 (est.) · Maturity 130 (est.) · *Meditation, breath control, two-hour stillness discipline*
+**Resilience** · 125 (est.) · Grade D — Scarring 135 (est.) · Threshold 125 (est.) · Hardening 115 (est.) · *Island living and physical conditioning, not combat-tested*
+**Vitality** · 130 (est.) · Grade D — Constitution 140 (est.) · Filtration 125 (est.) · Threshold 120 (est.) · *Eight years of volcanic-island survival*
+**Ardency** · 55 (est.) · Grade E — Inscription 60 (est.) · Compression 55 (est.) · Depth 50 (est.) · *Low. No formal Essence-channeling instruction. The Sage Arts develop the body, not the channel*
+**Dominion** · 25 (est.) · Grade F — *Negligible. No Domain projection, no Essence field work. The gap stat*
+**Harmonics** · 35 (est.) · Grade F — *No Wellspring contact. Spike expected upon first harmonization — twelve years of unacknowledged Crystal growth means the resonance backlog may be significant*
 
 ---
 
 ## VI–VII · Force and Flow
 
-**Strike Force** · Negligible in Accord terms. Human-peak archery draw weight. No Essence amplification.
-**Attack Speed** · Human-range. Bow: 8–10 aimed shots per minute at combat distance. Melee: trained evasion-counter, not strike-initiation.
-**Reaction** · Disproportionately fast for his level. The blindfolded stake-field trained sub-millisecond spatial responses to air displacement. *This will register as anomalous on standard testing.*
-**Aura Pressure Field** · None detectable.
-**Domain Pressure** · None.
-**EU Reserve** · Unmeasured. Estimated negligible.
+**Strike Force** · D-Grade equivalent through physical force and Sage Arts body mechanics alone. No Essence amplification. *Archery output disproportionately high for the level — the read-and-release discipline concentrates kinetic delivery*
+**Attack Speed** · Human-peak to low superhuman. Bow: 10–12 aimed shots per minute at combat distance, first-shot accuracy the defining metric. Melee: evasion-counter only, not strike-initiation
+**Reaction** · C-Grade equivalent. The blindfolded stake-field trained sub-5ms spatial responses to air displacement. *Will register as anomalous on standard Level 95 testing*
+**Aura Pressure Field** · None detectable
+**Domain Pressure** · None
+**EU Reserve** · Unmeasured. Estimated low-moderate — the Crystal has been developing for twelve years, so raw capacity exists, but no trained channeling pathway to access it
+**Flux Density** · Unmeasured · **AU/s** Unknown · **η** Unclassified
 
 ---
 
 ## VIII–IX · Traits and Domain
 
-**Sage Perception** · Trained · Way of Growing Things — *environmental awareness operating below the formal Essence detection threshold. Can hear tide-crabs clicking over wet stone from half a mile. Can distinguish plant species by touch in the dark. Can feel air displacement against skin and map a changing obstacle field blindfolded.* Whether this constitutes a Trait in the formal sense or is pure physical training is an open question the academy will have to answer.
+**Sage Perception** · Trained · Way of Growing Things — *environmental awareness operating at C-Grade while formal Essence perception sits at F. Can hear tide-crabs clicking over wet stone from half a mile. Can distinguish plant species by touch in the dark. Can feel air displacement against skin and map a changing obstacle field blindfolded.* Whether this constitutes a Trait in the formal sense or is pure physical training refined to an extreme the Accord rarely sees is the diagnostic question.
 
 **The Remaining** · Trained · Flow — *Drogo's foundational discipline. Not a technique. A posture. The decision to be present when struck and to still be there when the striker exhausts himself.* Functionally: passive damage absorption and position maintenance under pressure, sustained through breath control and body mechanics rather than Essence reinforcement.
 
-**Domain** · None. Pre-seed. If his Crystal is intact and the Vectoria harmonic is real, first Domain contact may occur during formal training.
+**Domain** · None. Pre-seed. Crystal architecture exists but has never been projected. First Domain contact may occur during formal training and is likely to be Vectoria-aligned if it does.
 
 ---
 
 ## X · Techniques
 
-> *Xanelor carries no Essence-channeled techniques. What he carries are trained physical disciplines with unusual precision for his age, all derived from the Sage Arts.*
+> *Xanelor carries no Essence-channeled techniques. What he carries are trained physical disciplines with unusual precision for his age, all derived from the Sage Arts. At Level 95, they register as low-C to mid-D Grade in output despite zero Essence amplification.*
 
-**Gap-Standing** · Spatial positioning discipline. Reads where harm will land and occupies that position before it arrives. Trained through four years of increasingly complex obstacle courses. *Effect:* interposition between threat and target at speed above apparent physical capability. *Cost:* physical fatigue, bruising, positional commitment. *Limit:* one gap at a time; simultaneous multi-angle threats exceed his coverage. *Counter:* feints that draw him to a false gap, then strike the real one. **What nobody knows:** the gap-reading may be Vectoria pre-harmonization, operating on instinct rather than calculation. If so, formal harmonization will make this exponentially faster.
+**Gap-Standing** · Spatial positioning discipline. Reads where harm will land and occupies that position before it arrives. Trained through four years of increasingly complex obstacle courses. *Effect:* interposition between threat and target at speed above apparent physical capability. *Cost:* physical fatigue, bruising, positional commitment. *Limit:* one gap at a time; simultaneous multi-angle threats exceed his coverage. *Counter:* feints that draw him to a false gap, then strike the real one. **What nobody knows:** the gap-reading is almost certainly Vectoria pre-harmonization, operating on instinct rather than calculation. Formal harmonization will make this exponentially faster.
 
-**The Sage's Draw** · Archery discipline. Observation-first shooting — the target is read before the bow is drawn, the draw is completed in one motion without sighting pause, the release follows the read rather than the aim. *Effect:* unusual first-shot accuracy at medium range (30–50 paces) under field conditions. *Cost:* time. The read takes 1–3 seconds; a faster archer gets two shots in that window. *Limit:* diminishing accuracy past 60 paces, poor performance against targets moving in genuinely unpredictable patterns. *Counter:* close the distance past bow-range; chaotic movement that defeats the read.
+**The Sage's Draw** · Archery discipline. Observation-first shooting — the target is read before the bow is drawn, the draw is completed in one motion without sighting pause, the release follows the read rather than the aim. *Effect:* first-shot accuracy at medium range (30–60 paces) significantly above Level 95 standard, under field conditions. *Cost:* time. The read takes 1–2 seconds; a faster archer gets two shots in that window. *Limit:* diminishing accuracy past 80 paces, poor performance against targets moving in genuinely unpredictable patterns. *Counter:* close the distance past bow-range; chaotic movement that defeats the read.
 
-**Stillness** · Breath and body control discipline. Two hours of complete immobility under standard conditions. *Effect:* heartrate suppression, thermal regulation, near-invisible presence when stationary. *Cost:* transition time from stillness to motion (0.5–1 second recovery). *Limit:* environmental extremes degrade duration. *Counter:* force movement; the discipline is irrelevant if he cannot hold position.
+**Stillness** · Breath and body control discipline. Two hours of complete immobility under standard conditions. *Effect:* heartrate suppression, thermal regulation, near-invisible presence when stationary. Gecko test: a wild animal will nest on him without registering him as alive. *Cost:* transition time from stillness to motion (0.3–0.5 second recovery). *Limit:* environmental extremes degrade duration. *Counter:* force movement; the discipline is irrelevant if he cannot hold position.
 
 ---
 
@@ -102,7 +103,7 @@ verification: null
 
 **Drogo** *(guardian, dead or dying)* — Foundational, absolute, permanent. **Every decision Xanelor makes answers a question Drogo asked him.** *Stand in the gap. The strong thing remains. Let them see the good, not the face behind it.*
 **Origin** *(unknown, pre-memory)* — **Unprocessed.** The scars, the wreckage, the language Drogo did not speak. A hole in his history that he has not yet begun to excavate. *The academy, or what comes after it, will force this open.*
-**Resistances** · None in the formal sense. Physical conditioning above human-norm for his age. No Essence-based resistances, no ancestral protections, no Crystal-derived hardening. **Vulnerabilities:** everything a Stage I practitioner is vulnerable to, plus the complete absence of Essence-layer defense. A practitioner with any formal training in direct Essence assault will find no resistance. *The Sage Arts did not build that wall because Drogo's people did not need it.*
+**Resistances** · Physical conditioning at D-Grade through non-standard cultivation. No Essence-based resistances, no ancestral protections, no Crystal-derived hardening in the formal sense. **Vulnerabilities:** complete absence of Essence-layer defense. A practitioner with formal training in direct Essence assault will find no trained resistance — though the Crystal architecture, once accessed, may provide raw capacity that compensates. *The Sage Arts built the body. They did not build the shield.*
 
 ---
 
@@ -132,9 +133,13 @@ Brown skin, lean through the shoulders and waist, beginning to fill the frame th
 
 ## XVI–XVII · Temperance and Fractures
 
-**I Murmuring** — status unclear. May have entered unconsciously through Sage Arts cultivation, or may be pre-Murmuring entirely. No formal awakening event on record. *The scars at age two are the strongest candidate for a catalyst, but twelve years of undetected Crystal development would be unprecedented in Accord records — which do not include Drogo's people.*
+**I Murmuring** — entered unconsciously through Sage Arts cultivation, likely within the first year of training with Drogo. No formal awakening event.
+**II Welling** — passed through without recognition, probably age seven or eight. The Sage Arts continuous-cultivation method does not produce the standard discrete transition.
+**III Ascension** — probable current stage. *The ceiling of C/175 aligns with his strongest sub-stats, which suggests the Stage architecture is present even if the method of arrival was non-standard.*
 
-**Fracture Log** · *The Scarring (age two)* — unknown origin, unknown mechanism. Three parallel cuts, non-animal, non-accidental. Healed physically; psychologically unprocessed because pre-memory. **If this constituted a Crystal fracture event, the architecture has been developing without supervision or standard progression for twelve years. What the academy finds when they look may not resemble anything in the diagnostic literature.**
+> *Five levels from the Stage IV Flourishing gate. Whether the Sage Arts path produces a standard gate transition or something else entirely is an unanswered question. Drogo's people may have had their own name for what happens at the boundary.*
+
+**Fracture Log** · *The Scarring (age two)* — unknown origin, unknown mechanism. Three parallel cuts, non-animal, non-accidental. Healed physically; psychologically unprocessed because pre-memory. **This constituted the Crystal catalyst. Twelve years of unsupervised development under Sage Arts cultivation have produced an architecture that will not correspond to any Accord-documented progression pattern.**
 
 ---
 

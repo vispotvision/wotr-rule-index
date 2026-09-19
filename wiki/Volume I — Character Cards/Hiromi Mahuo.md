@@ -1,12 +1,13 @@
 ---
 title: "Hiromi Mahuo"
 notion_id: "3e058200-eb22-81ee-bfa6-ee0785f793ac"
-notion_url: "https://www.notion.so/3e058200eb2281eebfa6ee0785f793ac"
+notion_url: "https://app.notion.com/p/Hiromi-Mahuo-3e058200eb2281eebfa6ee0785f793ac"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-18T21:36:48"
-verification: null
+last_edited: "2026-09-19T01:39:00.000Z"
+verification: "unverified"
 ---
+
 # Hiromi Mahuo
 
 **Lineage:** Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.
@@ -14,11 +15,11 @@ verification: null
 **Title:** The Paragon of Dominion.
 **Class:** X, Aetherion Academy.
 
-## I. Identity
+### I. Identity
 
 Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Twin brother to Geturo (older by minutes), younger brother to Lily (older by a year and two months). Called "Teacher" in public; the family knows. Summoning prodigy: at six performed something in a binding circle none of the adults present could name; at seven, redefined summoning. Connection to the Open Crucible (Mu-jin's Book of Summons) implied, unconfirmed. Goal: to become the greatest summoner to ever live. States it without qualification and believes it.
 
-## II. Soul Architecture
+### II. Soul Architecture
 
 | **Level** | **85 / 500** · Band I Mortal Foundation (1–100) |
 |---|---|
@@ -30,11 +31,11 @@ Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Twin brother 
 | **Efficiency (η)** | ~0.40, estimated |
 | **Crystal State** | Clean, no fracture |
 
-## III. Wellspring Harmonizations
+### III. Wellspring Harmonizations
 
 TBD. Summoning discipline implies Hataraki or Spatium affinity. Pending Isaac's direction.
 
-## IV–V. Stats
+### IV–V. Stats
 
 | Stat | Value | Grade | Notes |
 |---|---|---|---|
@@ -42,32 +43,31 @@ TBD. Summoning discipline implies Hataraki or Spatium affinity. Pending Isaac's 
 | **Gnosis** | 120 | C | Summoning theory, binding analysis |
 | **Ardency** | 100 | C | Inscription, compression for summons |
 | **Harmonics** | 95 | D | Connection to summoned entities |
-| **Tempering** | 80 | D | |
-| **Dexterity** | 75 | D | |
+| **Tempering** | 80 | D |  |
+| **Dexterity** | 75 | D |  |
 | **Resilience** | 60 | D | Neglects eating; has collapsed three times |
 | **Vitality** | 55 | D | Low for his level, consistent with the collapses |
 
 All values estimated. Dominion is the confirmed anomaly: B-Grade in a Stage III body, the same outpacing pattern his teacher carries at a different scale.
 
-## VI–VII. Force and Flow
+### VI–VII. Force and Flow
 
 Not yet established. At Stage III his output is bounded by Muridic Aether Class. Reserve and flux density TBD.
 
-## VIII–IX. Traits and Domain
+### VIII–IX. Traits and Domain
 
 **Paragon of Dominion** · The title is applied by others. Dominion is not control. Dominion is the world knowing what you are before you ask it to. Innate. Present since six.
-
 Domain not yet seeded. Standard onset is Stage VII.
 
-## X. Techniques
+### X. Techniques
 
 Summoning discipline. Specifics unestablished. Redefined summoning at seven; the nature of the redefinition is the major open question.
 
-## XIII. Physical Description
+### XIII. Physical Description
 
 White hair falling to his collar in loose waves, the colour of forge-ash before it cools, parted roughly down the centre with two longer strands framing his face. The hair came from neither parent. Red irises, pale as diluted wine. Skin pale enough to catch and hold lamplight. Sharp features: high cheekbones, jaw still narrowing toward manhood. Small black drop earrings on both lobes. Black wool coat with a high collar buckled at the throat, open at the top buckle.
 
-## XIV. Psychology
+### XIV. Psychology
 
 | **Core Wound** | Unestablished. The discipline he hides under the showmanship suggests one exists |
 |---|---|
@@ -79,14 +79,14 @@ White hair falling to his collar in loose waves, the colour of forge-ash before 
 **Refuses:** micromanagement, surveillance, sharing his private hours.
 **Notices first:** postures, draw-gauges, other people's summons and their faults.
 
-## XV. Equipment
+### XV. Equipment
 
 Academy-issue. No special gear established.
 
-## Relationships
+### Relationships
 
 **Kwon Mu-jin** (father) · **Frithia** (mother) · **Geturo Mahuo** (twin) · **Lily Mahuo** (older sister) · **Taesyn Valorin** (cousin) · **Verona Mahuo** (cousin)
 
-## Naming Flag
+### Naming Flag
 
 Hiromi is Japonic register. Mahuo is Korean stratum (R23-2). Pending ruling.

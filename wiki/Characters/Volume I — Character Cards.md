@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: ["Characters"]
-last_edited: "2026-09-18T20:49:00.000Z"
+last_edited: "2026-09-19T01:40:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,3 +60,10 @@ verification: "unverified"
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume I — Character Cards/Kirishima Hae-jin — Kaalabad, the Radiant God of Knights.md)
 - [Wystan Ashmore — Late Bell](Volume I — Character Cards/Wystan Ashmore — Late Bell.md)
 - [Kinjiki, The Inversion](Volume I — Character Cards/Kinjiki, The Inversion.md)
+- [Naori Yukari](Volume I — Character Cards/Naori Yukari.md)
+- [Akira Yukari](Volume I — Character Cards/Akira Yukari.md)
+- [Hiromi Mahuo](Volume I — Character Cards/Hiromi Mahuo.md)
+- [Lily Mahuo](Volume I — Character Cards/Lily Mahuo.md)
+- [Geturo Mahuo](Volume I — Character Cards/Geturo Mahuo.md)
+- [Rikudoku Moto](Volume I — Character Cards/Rikudoku Moto.md)
+- [Xanelor Rafiminar](Volume I — Character Cards/Xanelor Rafiminar.md)

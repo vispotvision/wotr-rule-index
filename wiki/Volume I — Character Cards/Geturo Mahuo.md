@@ -1,23 +1,24 @@
 ---
 title: "Geturo Mahuo"
 notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
-notion_url: "https://www.notion.so/3e058200eb22819abe45e0609e1102db"
+notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-18T21:41:47"
-verification: null
+last_edited: "2026-09-19T01:41:00.000Z"
+verification: "unverified"
 ---
+
 # Geturo Mahuo
 
 **Lineage:** Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.
 **Age:** 14. Twin (older by minutes than Hiromi).
 **Class:** X, Aetherion Academy.
 
-## I. Identity
+### I. Identity
 
 Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies alchemy under Mu-jin. No title. The responsible counterweight: watches exits, checks for people, permits Hiromi to take the centre and walks the outside.
 
-## II. Soul Architecture
+### II. Soul Architecture
 
 | **Level** | **55 / 500** · Band I Mortal Foundation (1–100) |
 |---|---|
@@ -27,26 +28,26 @@ Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies al
 | **Aether Class** | **I — Muridic** |
 | **Crystal State** | Clean, no fracture |
 
-## IV–V. Stats
+### IV–V. Stats
 
 | Stat | Value | Grade | Notes |
 |---|---|---|---|
 | **Gnosis** | 85 | D | Alchemy theory, retention |
 | **Ardency** | 75 | D | Inscription for alchemy |
 | **Tempering** | 70 | D | Steady, patient progression |
-| **Resilience** | 65 | D | |
-| **Dexterity** | 60 | D | |
-| **Vitality** | 60 | D | |
-| **Dominion** | 40 | E | |
-| **Harmonics** | 45 | E | |
+| **Resilience** | 65 | D |  |
+| **Dexterity** | 60 | D |  |
+| **Vitality** | 60 | D |  |
+| **Dominion** | 40 | E |  |
+| **Harmonics** | 45 | E |  |
 
 All values estimated. No stat breaks his Stage ceiling. Progression is honest, even, the kind that comes from work rather than inheritance.
 
-## XIII. Physical Description
+### XIII. Physical Description
 
 Taller than Hiromi by three fingers. Broader through the chest and shoulders, dense and settled. Warm chestnut brown hair (mother's), cut short at the sides, longer on top. Face rounder, jaw heavier, cheekbones less pronounced. Frithia's mouth, wide, set in a line. Hands larger than a boy of fourteen ought to have, knuckled and square, hanging still at his sides. Academy black, buttoned to the collar, cinched at the waist, sleeves rolled.
 
-## XIV. Psychology
+### XIV. Psychology
 
 | **Flaw** | Patience that costs him; he knows it and pays it anyway |
 |---|---|
@@ -56,10 +57,10 @@ Taller than Hiromi by three fingers. Broader through the chest and shoulders, de
 **Refuses:** unnecessary attention.
 **Notices first:** people and their positions.
 
-## Relationships
+### Relationships
 
 **Hiromi** (twin) · **Lily** (older sister) · **Mu-jin** (father, alchemy collaborator) · **Frithia** (mother)
 
-## Naming Flag
+### Naming Flag
 
 Geturo fits no clear naming register. Pending ruling.

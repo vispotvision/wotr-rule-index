@@ -1,5 +1,5 @@
 {
-"run": "2026-09-18T03:30:18",
+"run": "2026-09-19T03:30:30",
 "findings": {
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
@@ -469,6 +469,69 @@
 "text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "4f568023d92b",
 "first_seen": "2026-09-18"
+},
+"f8f03cece07d": {
+"file": "the_war_in_the_north_i_the_kharven_seat.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "f8f03cece07d",
+"first_seen": "2026-09-19"
+},
+"4df933590816": {
+"file": "the_war_in_the_north_i_the_kharven_seat.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "4df933590816",
+"first_seen": "2026-09-19"
+},
+"e289161d401b": {
+"file": "the_war_in_the_north_i_the_kharven_seat.md",
+"check": "prose",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e289161d401b",
+"first_seen": "2026-09-19"
+},
+"0a2bbe5eb590": {
+"file": "the_war_in_the_north_ii_the_road_two_days_south.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "0a2bbe5eb590",
+"first_seen": "2026-09-19"
+},
+"5557480f0eb0": {
+"file": "the_war_in_the_north_ii_the_road_two_days_south.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "5557480f0eb0",
+"first_seen": "2026-09-19"
+},
+"82007b7ff97b": {
+"file": "the_war_in_the_north_ii_the_road_two_days_south.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "82007b7ff97b",
+"first_seen": "2026-09-19"
+},
+"94333f65b938": {
+"file": "xanelor_the_morning_of_the_first_bell.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "94333f65b938",
+"first_seen": "2026-09-19"
+},
+"56c3cd34e5ee": {
+"file": "xanelor_the_morning_of_the_first_bell.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "56c3cd34e5ee",
+"first_seen": "2026-09-19"
+},
+"c5961084e95c": {
+"file": "xanelor_the_morning_of_the_first_bell.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "c5961084e95c",
+"first_seen": "2026-09-19"
 },
 "097ff4f2994f": {
 "file": "01_wotr_muster_breach_road_north.md",
@@ -1135,6 +1198,20 @@
 "key": "cce596953eca",
 "first_seen": "2026-09-13"
 },
+"cc1a801d51ed": {
+"file": "the_war_in_the_north_v_the_shieldwarden.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "cc1a801d51ed",
+"first_seen": "2026-09-19"
+},
+"adc4607c0e32": {
+"file": "the_war_in_the_north_v_the_shieldwarden.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "adc4607c0e32",
+"first_seen": "2026-09-19"
+},
 "b3533405d93f": {
 "file": "06_aurelian_what_the_lamberts_are_for.md",
 "check": "prose",
@@ -1197,6 +1274,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "9e705c6f07f4",
 "first_seen": "2026-09-18"
+},
+"a8537b93369d": {
+"file": "the_war_in_the_north_iv_the_blank_seal.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "a8537b93369d",
+"first_seen": "2026-09-19"
 },
 "4a23c513115d": {
 "file": "what_motion_cannot_reach.md",
@@ -1268,6 +1352,13 @@
 "key": "d6f131e91fb5",
 "first_seen": "2026-09-18"
 },
+"13f0961f4ee1": {
+"file": "the_great_summoners_morning.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "13f0961f4ee1",
+"first_seen": "2026-09-19"
+},
 "2f3456814543": {
 "file": "the_slow_match.md",
 "check": "prose",
@@ -1288,6 +1379,13 @@
 "text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
 "key": "dc2cc7ccdb69",
 "first_seen": "2026-09-18"
+},
+"22c7892d9760": {
+"file": "the_war_in_the_north_iii_utopia.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "22c7892d9760",
+"first_seen": "2026-09-19"
 },
 "a4ea543cbd14": {
 "file": "Cozbi_Construct_Combat_Scene.md",
@@ -1401,6 +1499,13 @@
 "key": "37dd148a20b0",
 "first_seen": "2026-09-13"
 },
+"45486f29da87": {
+"file": "xanelor_rikudoku_and_the_address.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "45486f29da87",
+"first_seen": "2026-09-19"
+},
 "db924d23c25c": {
 "file": "07_sodoku_the_howling_hawk.md",
 "check": "prose",
@@ -1463,6 +1568,20 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "1eaceface46b",
 "first_seen": "2026-09-16"
+},
+"d9c74218d63c": {
+"file": "xanelor_after_the_crash.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "d9c74218d63c",
+"first_seen": "2026-09-19"
+},
+"5f4c1fd8a6c6": {
+"file": "xanelor_the_introductions.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "5f4c1fd8a6c6",
+"first_seen": "2026-09-19"
 },
 "828071c78f05": {
 "file": "Duplicate wiki pages (same title twice)",
@@ -1597,6 +1716,34 @@
 "key": "28690e37bb0d",
 "first_seen": "2026-09-13"
 },
+"92c8e461e279": {
+"file": "scenes/the_war_in_the_north_iv_the_blank_seal.md",
+"check": "stale",
+"text": "Möngön",
+"key": "92c8e461e279",
+"first_seen": "2026-09-19"
+},
+"ba3151c9152b": {
+"file": "scenes/the_war_in_the_north_iv_the_blank_seal.md",
+"check": "stale",
+"text": "Büri",
+"key": "ba3151c9152b",
+"first_seen": "2026-09-19"
+},
+"869a1022de16": {
+"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
+"check": "stale",
+"text": "Büri",
+"key": "869a1022de16",
+"first_seen": "2026-09-19"
+},
+"f40db1222df4": {
+"file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
+"check": "stale",
+"text": "Muken Büri",
+"key": "f40db1222df4",
+"first_seen": "2026-09-19"
+},
 "02f6f1896910": {
 "file": "scenes/THE_KINGDOM_OF_KHARVEN_corrected.md",
 "check": "stale",
@@ -1631,6 +1778,13 @@
 "text": "Khar Ild",
 "key": "a5f1f767c8a9",
 "first_seen": "2026-09-13"
+},
+"3a0bdede6dec": {
+"file": "scenes/the_war_in_the_north_v_the_shieldwarden.md",
+"check": "stale",
+"text": "Möngön",
+"key": "3a0bdede6dec",
+"first_seen": "2026-09-19"
 }
 }
 }

@@ -1,10 +1,10 @@
 # Prose-law pass over the scene archive
-_Run 2026-09-18_
+_Run 2026-09-19_
 
 
 Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.
 
-114 scenes: 210 FAIL, 236 WARN.
+124 scenes: 227 FAIL, 255 WARN.
 
 | scene | FAIL | WARN |
 |---|---|---|
@@ -24,6 +24,9 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Naiser_Death_Cozbi_Genocide_Niran_Fall.md | 3 | 4 |
 | YOKO_MISHIRO.md | 3 | 4 |
 | the_empty_place.md | 3 | 3 |
+| the_war_in_the_north_i_the_kharven_seat.md | 3 | 3 |
+| the_war_in_the_north_ii_the_road_two_days_south.md | 3 | 3 |
+| xanelor_the_morning_of_the_first_bell.md | 3 | 3 |
 | 01_wotr_muster_breach_road_north.md | 3 | 2 |
 | 23_darius_the_fist_of_totality.md | 3 | 2 |
 | 02_wren_bulwark.md | 3 | 1 |
@@ -66,12 +69,14 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Nisuke_Titan_Dominion_Strike.md | 2 | 1 |
 | kaalabad_the_petition.md | 2 | 1 |
 | renard_the_left_of_the_door.md | 2 | 1 |
+| the_war_in_the_north_v_the_shieldwarden.md | 2 | 1 |
 | 06_aurelian_what_the_lamberts_are_for.md | 2 | 0 |
 | 09_sodoku_the_true_nature.md | 2 | 0 |
 | sodoku_the_count_supply_report.md | 2 | 0 |
 | 05_aurelian_primate_under_the_wrong_stars.md | 1 | 5 |
 | the_blackmatch.md | 1 | 4 |
 | the_draught.md | 1 | 4 |
+| the_war_in_the_north_iv_the_blank_seal.md | 1 | 4 |
 | what_motion_cannot_reach.md | 1 | 4 |
 | what_the_plate_would_not_take.md | 1 | 4 |
 | 04_sodoku_what_the_sky_does_not_ask.md | 1 | 3 |
@@ -82,9 +87,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | Six_Crows_vs_Black_Dragon.md | 1 | 2 |
 | direction_is_not_intention.md | 1 | 2 |
 | the_brink.md | 1 | 2 |
+| the_great_summoners_morning.md | 1 | 2 |
 | the_slow_match.md | 1 | 2 |
 | the_terms.md | 1 | 2 |
 | the_vey_elarin.md | 1 | 2 |
+| the_war_in_the_north_iii_utopia.md | 1 | 2 |
 | Cozbi_Construct_Combat_Scene.md | 1 | 1 |
 | Cozbi_Merged_Form_Rescind_Explanation.md | 1 | 1 |
 | Cozbi_Rengai_Dhaerin_Confrontation.md | 1 | 1 |
@@ -101,6 +108,7 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | what_he_spent.md | 1 | 1 |
 | what_we_did_not_do.md | 1 | 1 |
 | wotr_the_warrior_nurse.md | 1 | 1 |
+| xanelor_rikudoku_and_the_address.md | 1 | 1 |
 | 07_sodoku_the_howling_hawk.md | 1 | 0 |
 | Cozbi_Antithesis_Split_Fight.md | 1 | 0 |
 | Cozbi_Pneuma_Unravel_Strike.md | 1 | 0 |
@@ -110,6 +118,8 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 | sodoku_gate_reunion_lambert.md | 1 | 0 |
 | spent_not_dead.md | 1 | 0 |
 | the_overpressure.md | 1 | 0 |
+| xanelor_after_the_crash.md | 1 | 0 |
+| xanelor_the_introductions.md | 1 | 0 |
 | Cozbi_Defensive_Response_to_Dova.md | 0 | 3 |
 | a_name_held_in_common.md | 0 | 3 |
 | Rui_Trap_Deaths_Ray.md | 0 | 2 |
@@ -307,6 +317,30 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
 - WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_war_in_the_north_i_the_kharven_seat.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN gloss watch: "...ur paces inside the door and bowed the way a woodward bows, which is to say she inclined her head and got it over w..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_war_in_the_north_ii_the_road_two_days_south.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 1996 words, outside the standard band 700–1500 (Table Rule 2)
+- WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## xanelor_the_morning_of_the_first_bell.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+- WARN manufactured fragment emphasis: 5 short Not/Never/And/Only fragments (AI-tells §1)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 1765 words, outside the standard band 700–1500 (Table Rule 2)
 
 ## 01_wotr_muster_breach_road_north.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -559,6 +593,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - WARN possible Ladder: "was open and the man was" in "The bind had happened at the hand and the hand was open and the man wa..." (Check 18: review by reading)
 
+## the_war_in_the_north_v_the_shieldwarden.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+
 ## 06_aurelian_what_the_lamberts_are_for.md
 - FAIL flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
 - FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
@@ -592,6 +631,13 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN competing similes in one paragraph (2): "It looks like an opening and it has looked like an opening to every ma..." (AI-tells §5: cut one)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_war_in_the_north_iv_the_blank_seal.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN gloss watch: "..., which nobody in the corridor had burned in four years and which meant the house had been provisioned from som..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN gloss watch: "...pen, and he had done it at the same speed he wrote his own, which meant he had been doing it long enough that i..." (R4-13-ZERO_BUDGET, Check 15; keep only if it is the POV's own idiom)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
+- WARN length 2188 words, outside the standard band 700–1500 (Table Rule 2)
 
 ## what_motion_cannot_reach.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -650,6 +696,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - WARN manufactured fragment emphasis: 3 short Not/Never/And/Only fragments (AI-tells §1)
 - WARN paragraphs closing on three sentences over 18 words: 2 (R4-14-HARD_CEILINGS says 0)
 
+## the_great_summoners_morning.md
+- FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
+- WARN paragraphs closing on three sentences over 18 words: 4 (R4-14-HARD_CEILINGS says 0)
+- WARN length 2446 words, outside the standard band 700–1500 (Table Rule 2)
+
 ## the_slow_match.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN paragraphs closing on three sentences over 18 words: 3 (R4-14-HARD_CEILINGS says 0)
@@ -664,6 +715,11 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 - WARN no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)
+
+## the_war_in_the_north_iii_utopia.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN sentences under 8 words: 18%, floor is 18% (R4-14-HARD_CEILINGS)
+- WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
 ## Cozbi_Construct_Combat_Scene.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
@@ -729,6 +785,10 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 - FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
 - WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0)
 
+## xanelor_rikudoku_and_the_address.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+- WARN manufactured fragment emphasis: 4 short Not/Never/And/Only fragments (AI-tells §1)
+
 ## 07_sodoku_the_howling_hawk.md
 - FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
 
@@ -755,6 +815,12 @@ Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `ver
 
 ## the_overpressure.md
 - FAIL flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
+
+## xanelor_after_the_crash.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
+
+## xanelor_the_introductions.md
+- FAIL em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
 
 ## Cozbi_Defensive_Response_to_Dova.md
 - WARN sentences under 8 words: 15%, floor is 18% (R4-14-HARD_CEILINGS)

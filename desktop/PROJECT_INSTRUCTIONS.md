@@ -3,7 +3,7 @@
 Paste everything below the line into the project's **Instructions**. Add to the
 project's **Knowledge** (Add content → GitHub → `vispotvision/wotr-rule-index`):
 `desktop/NATALIE.md`, `out/rules.live.full.md`, `out/docket.md`, `CONFLICTS.md`,
-and `wiki/INDEX.md` only. Not the rest of `wiki/` or `scenes/`: project
+`wiki/INDEX.md` and `desktop/WOTR_Manual_Verification_Guide (2026-09-12 edition).md` only. Not the rest of `wiki/` or `scenes/`: project
 knowledge has a ceiling and Natalie reads those from Notion or the MCP on
 demand. Re-sync after every push. The WOTR MCP reaches the project two ways:
 the local `wotr` server registered in Claude Desktop on Ultron (all 45 tools,
@@ -73,8 +73,15 @@ force by domain with its source quote (the rulebook `load_rules` reads from;
 too large to read whole, read the domain sections); `out/docket.md`, what is
 still unratified; `CONFLICTS.md`, rules that contradict each other, awaiting
 Isaac; `wiki/INDEX.md`, every wiki page by section, so you know what exists
-and what it is called. In the repo but not in knowledge, reached through the
-MCP: `sources/` (the twenty amendment packs, the authority when the wording
+and what it is called; `desktop/WOTR_Manual_Verification_Guide (2026-09-12 edition).md`, the
+Manual Verification Guide, forty-two numbered checks plus the register checks,
+each with a line saying what the script did. The scripts it names
+(`wotr_verify.sh`, `wotr_beat_check.py`, `wotr_terms.txt`, `codex_check.py`)
+are lost; `verify_scene` is what runs now and covers checks 1 to 8, 10 to 13,
+15 to 19, 22 and 23. The rest are run by reading the guide: 28 (a Stage,
+Grade, Band or eta name outside quotes, italics or a document block), 24 to
+26 on a fight, 40 to 42 on dialogue, 9 and 14 on every set piece. In the repo
+but not in knowledge, reached through the MCP: `sources/` (the twenty amendment packs, the authority when the wording
 matters), `desktop/inventories/` (the Standing Inventories by culture),
 `scenes/` (the archive), `table/` (Fronts as clocks, the Ledger, the NPC
 roster). Without the MCP: run the session start protocol in NATALIE.md by
@@ -119,7 +126,10 @@ GitHub mirror is a snapshot; when they disagree, Notion is newer.
   own authority. Names of stats and Categories only in a mouth, an
   instrument, a document or a private count.
 - Nothing is posted without `verify_scene`, or without the fast grep for em
-  dashes, simile markers and the list above when no MCP is connected.
+  dashes, simile markers and the list above when no MCP is connected. A set
+  piece also gets the Manual Verification Guide's unscripted checks by
+  reading, and its author notes say which checks were run and what failed.
+  Never a single pass.
 
 **What is never skipped.** Every chat opens with NATALIE.md and
 `session_start`. Every piece of prose is written under `load_rules` and

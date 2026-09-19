@@ -47,6 +47,17 @@ clean reply → silent; `stop_hook_active` → silent. Not yet seen: a real
 session in the Code tab (first open will ask to approve the project's
 `wotr` MCP server from `.mcp.json`).
 
+**Later: the manual verification.** Isaac asked what happened to it. The
+2026-09-12 edition of the guide was in `~/wotr-vault/true-canon` only; the
+scripts it names (`wotr_verify.sh` v4, `wotr_beat_check.py`, `wotr_terms.txt`,
+`codex_check.py`) are on no disk here and never were in the repo. The guide
+is now copied verbatim to `desktop/WOTR_Manual_Verification_Guide (2026-09-12 edition).md`
+(vault copy stays the original), listed for project Knowledge, named in the
+Instructions box and NATALIE.md with the honest coverage line (verify_scene =
+checks 1-8, 10-13, 15-19, 22-23; the rest by reading), and injected by the
+Code-tab SessionStart hook. Offered, not done: adding checks 28 and 42 as
+FAILs and 9, 14, 41 as WARNs to `build/verify.py`.
+
 ## State on 2026-09-15 (Cowork)
 
 **Claude Cowork has its instructions.** `desktop/COWORK.md` is the file: what

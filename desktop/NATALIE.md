@@ -163,7 +163,7 @@ Session end: rewrite State of Play, append the Ledger, advance Fronts, add rulin
 
 **Every turn:** sensory grounding, specific and layered. Texture from the Standing Inventory before anything invented. Metaphor native, simile rationed. No em dashes. No hypophora. No "it's not X, it's Y." No countdown negation, no manufactured fragment emphasis, no Ladder, no Gloss, no narrator moral adjudication, no reaction-shot cutaway, no comedic setup-deadpan-reaction. Varied sentence length inside every paragraph. Reification two per scene.
 
-**Set pieces:** the 2,500 floor, layered sensory opening (smell, texture, sound), end on physical action, one italic thought per named NPC, HEMA vocabulary as choreography skeleton, the combat technical floor (Thirteen §4), three-layer hit as three causal sentences at first display and finisher, gore in full, the POV's own body on the page. Run `bash wotr_verify.sh draft.md --scene --combat` (or WOTR MCP's verify_scene with combat=true), fix every FAIL, then present. Never a single pass.
+**Set pieces:** the 2,500 floor, layered sensory opening (smell, texture, sound), end on physical action, one italic thought per named NPC, HEMA vocabulary as choreography skeleton, the combat technical floor (Thirteen §4), three-layer hit as three causal sentences at first display and finisher, gore in full, the POV's own body on the page. ◆ `wotr_verify.sh` and its companions are lost; WOTR MCP's verify_scene (combat=true) is what runs, and it covers checks 1 to 8, 10 to 13, 15 to 19, 22 and 23 of the Manual Verification Guide. Run it, fix every FAIL, then run the guide's unscripted checks by reading (28 narration leak, 24 to 26 on a fight, 40 to 42 on dialogue, 9 and 14), say in the author notes which checks ran and what failed, then present. Never a single pass.
 
 **Turns:** the fast grep (em dashes, simile markers, banned constructions) before posting; with WOTR MCP that is verify_scene on the turn text.
 
@@ -212,7 +212,7 @@ Load by task. **Packs Fifteen, Fourteen, Thirteen, Twelve, Eleven govern the bas
 - Scene Writing Process Guide: three-pass process, POV lock, psychic distance.
 - Master Style Directive: Design Chain prose-legal; Fast Prose Rule; Subtext Continuum; Mechanism Vocabulary nameable in diagnostic voice. Diction Palette cap struck.
 - AI Writing Tells to Avoid: before every output.
-- Manual Verification Guide, wotr_verify.sh v3, wotr_terms.txt: set pieces.
+- Manual Verification Guide: every set piece. ◆ The 2026-09-12 edition is in project knowledge as `desktop/WOTR_Manual_Verification_Guide (2026-09-12 edition).md` (the vault's `true-canon` copy is the original); the scripts it names are lost and verify_scene stands in for the checks it covers.
 - Dialogue Craft Standards: any turn with real dialogue.
 - Visual Aesthetic Guide: appearance, read through Pack Eleven (Berserk opening retired).
 - Ability Technique Design Guide: sixth edition required; read through Fourteen, Thirteen, Twelve, Ten, Nine.

@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
 notion_url: "https://www.notion.so/3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-18T21:41:12"
+last_edited: "2026-09-18T21:41:47"
 verification: null
 ---
 # Geturo Mahuo
@@ -23,10 +23,8 @@ Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies al
 |---|---|
 | **Temperance Stage** | **II — Welling**, active. Max Grade D/100 |
 | **Coherence Band** | **E** |
-| **Path** | TBD |
 | **Essence Typology** | TBD — alchemy focus suggests Materia or Caloria affinity |
 | **Aether Class** | **I — Muridic** |
-| **Efficiency (η)** | ~0.35, estimated |
 | **Crystal State** | Clean, no fracture |
 
 ## IV–V. Stats
@@ -37,7 +35,7 @@ Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies al
 | **Ardency** | 75 | D | Inscription for alchemy |
 | **Tempering** | 70 | D | Steady, patient progression |
 | **Resilience** | 65 | D | |
-| **Dexterity** | 60 | D | Knuckled hands, fine-motor control |
+| **Dexterity** | 60 | D | |
 | **Vitality** | 60 | D | |
 | **Dominion** | 40 | E | |
 | **Harmonics** | 45 | E | |
@@ -53,15 +51,10 @@ Taller than Hiromi by three fingers. Broader through the chest and shoulders, de
 | **Flaw** | Patience that costs him; he knows it and pays it anyway |
 |---|---|
 | **Desire** | Unspoken. Not the greatest. Something quieter |
-| **Loop** | Sees through Hiromi's performances and does not stop them |
-| **Voice** | Quiet. Unhurried. Says "No" with the weight of a closed door. The sigh is perfected over thirteen years |
+| **Voice** | Quiet. Unhurried. The sigh is perfected over thirteen years |
 
-**Refuses:** unnecessary attention. His hands stay empty on purpose.
+**Refuses:** unnecessary attention.
 **Notices first:** people and their positions.
-
-## XV. Equipment
-
-Academy-issue. Alchemy tools (unspecified).
 
 ## Relationships
 

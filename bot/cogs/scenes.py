@@ -101,11 +101,14 @@ class Scenes(commands.Cog):
                 await send("No Judger channel is configured; ask the Judger to run /scene save.", ephemeral=True)
 
     @scene.command(name="save", description="Archive this thread, the messages after a link, or a pasted block as a scene.")
-    @app_commands.describe(title="The scene's title", source="Where the text comes from", link="With source=link: the first message to include", count="With source=thread: how many recent messages (default 200)")
+    @app_commands.describe(title="The scene's title (default: this thread's name)", source="Where the text comes from", link="With source=link: the first message to include", count="With source=thread: only the most recent N messages (default: the whole thread)")
     @app_commands.choices(source=[app_commands.Choice(name="this thread / channel", value="thread"),
                                   app_commands.Choice(name="from a message link onward", value="link"),
                                   app_commands.Choice(name="paste a block", value="paste")])
-    async def save(self, itx: discord.Interaction, title: str, source: str = "thread", link: str | None = None, count: app_commands.Range[int, 1, 500] = 200):
+    async def save(self, itx: discord.Interaction, title: str | None = None, source: str = "thread", link: str | None = None, count: app_commands.Range[int, 1, 10000] | None = None):
+        title = (title or getattr(itx.channel, "name", "") or "").strip()
+        if not title:
+            return await itx.response.send_message("Give the scene a title.", ephemeral=True)
         if source == "paste":
             return await itx.response.send_modal(PasteModal(self, title))
         await itx.response.defer(ephemeral=False)

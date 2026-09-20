@@ -1,48 +1,29 @@
-# Nightly — 2026-09-19 03:30
+# Nightly — 2026-09-19 22:20
 
 ## Overnight
 
-Ten scenes landed since last night: the five War in the North parts, the four Xanelor classroom scenes, and the Great Summoner's Morning. None has a close, so that is ten `/judger` runs, and it is the only work this morning that needs your hands.
+Second run today, nineteen hours after the 03:30 one. Nothing landed in between: no scene archived, no commit since the morning nightly, nothing new and nothing cleared. The 22 findings from this morning have rolled into the open count, 233 to 255. Same findings, one day older.
 
-Nine of the ten fail on one em dash each. Only the Great Summoner's Morning is clean of it. One character per file, cheapest thing on the list.
+The ten scenes from this morning still have no close. bot/queue holds nothing for any of them, so that is still ten `/judger` runs, and still the only work that needs your hands.
 
-Heavier: Part I fails the chain ceiling and eight flat runs, Xanelor First Bell fails the chain ceiling and five flat runs, Part II five flat runs. Those are rewrites, not fixes.
+08_sodoku_recalescence: 43 proposals waiting. Book kharven-year: stopped at the chapter 1 gate until you `--approve 1` or `--reject 1`.
 
-The Kharven recurrence check fails on all ten, including the four Xanelor scenes and the Aetherion one, which stand on no Kharven ground. The nightly counts it against Parts II and V only. I read the other eight as the checker's scope rather than a prose debt, and II and V as the real misses.
+The backup has not written since 09-14 03:24. Five days with no line in build/backup.log; the digest still shows the 09-14 zip only because it looks back eight days. This session could not read the timer, so I'd run `systemctl --user list-timers` first thing and see whether it fired and died or never fired.
 
-Names with no page, which block anything numeric or canonical about them: Brackenhold, Foss, Mell, Rannvei (I); Zuberi, Asante, Kujo (II); Emira, Sonzai (III); Marten Hillborn (IV); Josse Hillborn, Ridgewall (V); Frithia, Verona, Taesyn, Zaire, Drogo, Neraveth, Omoro (Xanelor); Aetherion Academy.
+Sync: quiet all day, last push 23:06 last night, no failures. It has skipped scenes/YOKO_MISHIRO.md on every run since 09-14 (117 times) because her Notion parent page is not shared with the integration. One share on the Notion side clears it.
 
-Wren has no page either, and he carries a Front sitting at 0 of 4. Emira and Verona now carry scenes with nothing behind them. Those three are the stubs I would write first.
+Two drafts sit at the repo root, untracked and outside scenes/: "The War in The North.md" (4,114 lines) and "Untitled.md" (6,423 lines, Sodoku at the rail off Satulagi's north), both from last night. Nothing audits or syncs them where they are. I'd move them into scenes/ under real names when they're ready; I have not touched them.
 
-Stale Büri-register terms still stand in three files: Part I (Muken Büri ×2, Büri ×4), Part IV (Möngön ×5, Büri ×4), Part V (Möngön ×1). R19-2 permits the silent correction to Moto and Shirogane. I have not touched them.
+build/mcp_server.py carries an uncommitted cast_index alias change dated 09-15. It is not from the nightly; commit it or drop it.
 
-Every one of these files ends on its author-note tail, so verify is reading the notes as prose. That is why the last-line check reports a rules list, and why Part II's context lists "Isaac" as a name with no page.
-
-08_sodoku_recalescence still has 43 proposals waiting on you.
-
-Book kharven-year is stopped at the chapter 1 gate. Nothing more is written until `python build/book_next.py --approve 1` or `--reject 1 --note "..."`.
-
-validate PASS, docket 0, one conflict open, 233 findings still open, nothing cleared. Sync pushed six times with no failures. The backup line still points at the 09-14 zip, five days old, so that job has not run.
+validate PASS, docket 0, one conflict open.
 
 ## Numbers
 
 - validate PASS
 - docket 0 outstanding
 - conflicts open 1
-- findings NEW 22 / CLEARED 0 / STILL OPEN 233
-
-## Scenes archived since the last run
-
-- `the_great_summoners_morning` — run `/judger the_great_summoners_morning` for the close
-- `the_war_in_the_north_i_the_kharven_seat` — run `/judger the_war_in_the_north_i_the_kharven_seat` for the close
-- `the_war_in_the_north_ii_the_road_two_days_south` — run `/judger the_war_in_the_north_ii_the_road_two_days_south` for the close
-- `the_war_in_the_north_iii_utopia` — run `/judger the_war_in_the_north_iii_utopia` for the close
-- `the_war_in_the_north_iv_the_blank_seal` — run `/judger the_war_in_the_north_iv_the_blank_seal` for the close
-- `the_war_in_the_north_v_the_shieldwarden` — run `/judger the_war_in_the_north_v_the_shieldwarden` for the close
-- `xanelor_after_the_crash` — run `/judger xanelor_after_the_crash` for the close
-- `xanelor_rikudoku_and_the_address` — run `/judger xanelor_rikudoku_and_the_address` for the close
-- `xanelor_the_introductions` — run `/judger xanelor_the_introductions` for the close
-- `xanelor_the_morning_of_the_first_bell` — run `/judger xanelor_the_morning_of_the_first_bell` for the close
+- findings NEW 0 / CLEARED 0 / STILL OPEN 255
 
 ## Judger queue (proposals awaiting Isaac)
 
@@ -55,37 +36,16 @@ validate PASS, docket 0, one conflict open, 233 findings still open, nothing cle
 
 ## New findings since last night
 
-- [prose] the_war_in_the_north_i_the_kharven_seat.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_war_in_the_north_i_the_kharven_seat.md: three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- [prose] the_war_in_the_north_i_the_kharven_seat.md: flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] the_war_in_the_north_ii_the_road_two_days_south.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_war_in_the_north_ii_the_road_two_days_south.md: flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] the_war_in_the_north_ii_the_road_two_days_south.md: Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
-- [prose] xanelor_the_morning_of_the_first_bell.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] xanelor_the_morning_of_the_first_bell.md: three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- [prose] xanelor_the_morning_of_the_first_bell.md: flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)
-- [prose] the_war_in_the_north_v_the_shieldwarden.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_war_in_the_north_v_the_shieldwarden.md: Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)
-- [prose] the_war_in_the_north_iv_the_blank_seal.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] the_great_summoners_morning.md: three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)
-- [prose] the_war_in_the_north_iii_utopia.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] xanelor_rikudoku_and_the_address.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] xanelor_after_the_crash.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [prose] xanelor_the_introductions.md: em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)
-- [stale] scenes/the_war_in_the_north_iv_the_blank_seal.md: Möngön
-- [stale] scenes/the_war_in_the_north_iv_the_blank_seal.md: Büri
-- [stale] scenes/the_war_in_the_north_i_the_kharven_seat.md: Büri
-- [stale] scenes/the_war_in_the_north_i_the_kharven_seat.md: Muken Büri
-- [stale] scenes/the_war_in_the_north_v_the_shieldwarden.md: Möngön
+- none
 
 ## Cleared since last night
 
 - none
 
-## Still open: 233 (see reports/prose_pass.md, reports/reconcile.md; 22 files still carry Büri-register terms (156 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
+## Still open: 255 (see reports/prose_pass.md, reports/reconcile.md; 22 files still carry Büri-register terms (156 hits) in all. Ruling 2026-09-12: Moto and Hataraki, not Ajiin. Governing forms in brackets.)
 
 ## The sync and the backup (last 26 h)
 
-- sync: 6 push(es), 20 quiet run(s), 0 failure line(s)
+- sync: 3 push(es), 23 quiet run(s), 0 failure line(s)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-09-14.zip (23.7 MB, 1021 files)
-- last run of this digest: 2026-09-18T03:30:18
+- last run of this digest: 2026-09-19T03:30:30

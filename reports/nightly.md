@@ -1,16 +1,16 @@
-# Nightly — 2026-09-20 18:34
+# Nightly — 2026-09-21 14:40
 
 ## Overnight
 
-Nothing moved in the numbers: validate passes, the docket is empty, the one conflict is still open, 255 findings still open with none new and none cleared, and no scene has been archived since the last run. This digest ran at 18:34 because Ultron booted at 18:34 — it was off from a little after 03:00, so the sync's long quiet stretch is the machine being off, not the timer.
+Nothing moved in the numbers: validate passes, the docket is empty, the one conflict is still open, 255 findings still open with none new and none cleared, and no scene was archived since the last run. Ultron was off from some time after the 23:05 sync until 14:40 today, so this digest ran at boot, not at the timer.
 
-Last night's nightly commit (12ba485) never reached GitHub: its own push failed at 22:22, and the 02:05 and 03:05 hourly runs both failed to carry it up. sync.sh swallows git's error and my check of the remote was refused, so I can't say why from here. Run `git push origin master` by hand this morning; whatever git prints is the reason. Until it lands, GitHub is a night behind.
+The sync is still not pushing. Every hourly run last evening (19:06 through 23:05) failed at the push, and the 14:40 run at boot died earlier than that — name resolution failed, so the Notion export never started; that one is the network not being up yet, not a new fault. Two nightly commits (12ba485 and adc4829) are still local, so GitHub is two nights behind. My check of the remote was refused, so I can't say from here why the pushes fail: run `git push origin master` by hand and read what git prints. The 15:00 run will show whether the network is back.
 
-Waiting on you: 43 Judger proposals on 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year is still gated — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
+No backup this morning: the 03:00 timer fired into a machine that was off, so the newest zip is still yesterday's, wotr-2026-09-20.zip (24 MB, 1,077 files).
 
-Two drafts sit untracked at the repo root: "The War in The North.md" (4,114 lines) and "Untitled.md" (6,423 lines, Sodoku and Yoko on the polar ship). Nothing indexes or commits them there. I'd move them into scenes/ if they're scenes, or out of the repo if they're not. build/mcp_server.py also carries 83 uncommitted lines.
+Waiting on you, same as last night: 43 Judger proposals on 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year is still gated — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
 
-Standing: scenes/YOKO_MISHIRO.md still isn't publishing (its Notion parent isn't shared with the integration) and the Drive isn't mounted, so docs are skipped. The backup wrote wotr-2026-09-20.zip, 24 MB, 1,077 files.
+Uncommitted: "The War in The North.md" and "Untitled.md" still sit untracked at the repo root, desktop/ryoku-wotr/ (the bar plugin, since 09-19) is untracked too, and build/mcp_server.py now carries 96 changed lines (cast_index folds short roster names into their full card names). I'd move the two drafts into scenes/ if they're scenes, and commit the plugin and the MCP change or drop them. Standing: scenes/YOKO_MISHIRO.md still isn't publishing (its Notion parent isn't shared with the integration) and the Drive isn't mounted, so docs are skipped.
 
 ## Numbers
 
@@ -40,6 +40,6 @@ Standing: scenes/YOKO_MISHIRO.md still isn't publishing (its Notion parent isn't
 
 ## The sync and the backup (last 26 h)
 
-- sync: 0 push(es), 6 quiet run(s), 2 failure line(s):  push failed (1 earlier commit(s) still local)
+- sync: 0 push(es), 0 quiet run(s), 6 failure line(s):  export failed (exit 1)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-09-20.zip (24.0 MB, 1077 files)
-- last run of this digest: 2026-09-19T22:20:57
+- last run of this digest: 2026-09-20T18:34:57

@@ -669,5 +669,10 @@
     "page_id": "3e358200-eb22-819f-bbab-ed1537d0a4a3",
     "title": "The Night's Watch",
     "hash": "6f71078abb6fa0a6"
+  },
+  "scenes/the_true_king_of_the_north_part_1.md": {
+    "page_id": "3e358200-eb22-81f2-822c-e1f36a7cce7e",
+    "title": "The True King of the North, Part 1",
+    "hash": "5b539513b2097bdc"
   }
 }

@@ -530,3 +530,9 @@ Context: Rikudoku Moto's card carried "Mother: unestablished" and "Who is his mo
 When Isaac asks Natalie to "make this better / improve it" on an RP post, his dialogue is in scope and gets improved automatically (voice, rhythm, realism per R19-4), keeping each line's meaning and intent and his prosodic notation (capitals, ellipses) per R19-3. R19-2 fixed-text still governs scene work where he submits dialogue to be set.
 
 Context: 2026-09-21, Class X tournament post (Xanelor / Hiromi / Mu-jin). Isaac: "you didn't automatically fix the dialogue" after Natalie set it verbatim under R19-2.
+
+## 2026-09-22 — new
+
+Juggernaut's Fist (Hiromi Mahuo): any contact counts as a landed strike, including a blow that is parried or blocked. Each contact deepens a gravity well (aetheric pressure raising air pressure and local pull) on the struck body. Isaac's ruling, shown in play 2026-09-22. The technique still needs a card entry with Cost, Limit and Counter; the demonstrated counter is that the imposed weight is only force and a skilled opponent can spend it as leverage.
+
+Context: Raised in xanelor_juggernauts_fist, where Xanelor's parry held but his forearm still grew heavier; answered by Isaac in xanelor_the_arrow, where Xanelor deliberately takes the fists on his forearms and each one adds weight.

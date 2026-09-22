@@ -779,5 +779,15 @@
     "page_id": "3e358200-eb22-81cc-bda2-e95645fbd926",
     "title": "The True King of the North, Part 22",
     "hash": "86f076030c42e813"
+  },
+  "scenes/commencement_of_the_curia_kujo_arc.md": {
+    "page_id": "3e358200-eb22-81b8-8d3b-fdf4be74354c",
+    "title": "Commencement of The Curia. [ Kujo Arc ]",
+    "hash": "0095229c0fd0cf60"
+  },
+  "scenes/the_revolution_of_the_inner_world.md": {
+    "page_id": "3e358200-eb22-81d2-baab-e839c628656c",
+    "title": "The Revolution Of The Inner World",
+    "hash": "6dda2229d7340457"
   }
 }

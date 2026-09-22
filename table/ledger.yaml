@@ -252,3 +252,18 @@
   opened_session: 0
   due: null
   status: collected
+- id: L030
+  category: injuries and reserve
+  who: Xanelor Rafiminar
+  text: 'Hairline fractures of the radius and ulna in both forearms, from shoving essence against the
+    Juggernaut''s Fist pressure well (Fusion Rule, equal and opposite on his own skeleton). Left wrist
+    strained along the radial side over the scaphoid (part one). Three draw fingers of the right hand
+    cut to the bone by the string at the overdraw. Right palm raw from the warden''s shield, left palm
+    friction-burned under the split glove. Boot soles scorched by the essence jets. Reserve: the first
+    raw pressure release left him hollowed and shaking in both legs; he does not know how to call it again
+    or whether he can.'
+  opened: '2026-09-22'
+  opened_session: 1
+  due: Before or at the Class X Open Tournament (seven days out, mandatory). Nothing heals on its own
+    by then; if he fights, the forearms are what an opponent aims at.
+  status: open

@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 28 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 29 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -17,6 +17,7 @@ Generated from table/ledger.yaml by WOTR MCP. 28 open lines. `due()` says what c
 - `L008` **Brida:** on a stick, eleven days out of the third bowl, four hundred yards uphill in forty minutes.  *(due: 1)*
 - `L009` **Renard Greymane**, 6 Sept: left forearm, the Held Boil's residue; no burn, grip reduced, duration unknown. Reserve about a third down.  *(due: 1)*
 - `L010` **Vresk Dokkan of Kaadre-Six:** eleven days, a fingertip and then all the toes and then other things, entered against names on a roll. Alive. Returned.  *(due: 1)*
+- `L030` Hairline fractures of the radius and ulna in both forearms, from shoving essence against the Juggernaut's Fist pressure well (Fusion Rule, equal and opposite on his own skeleton). Left wrist strained along the radial side over the scaphoid (part one). Three draw fingers of the right hand cut to the bone by the string at the overdraw. Right palm raw from the warden's shield, left palm friction-burned under the split glove. Boot soles scorched by the essence jets. Reserve: the first raw pressure release left him hollowed and shaking in both legs; he does not know how to call it again or whether he can.  *(due: Before or at the Class X Open Tournament (seven days out, mandatory). Nothing heals on its own by then; if he fights, the forearms are what an opponent aims at.)*
 
 ## debts
 

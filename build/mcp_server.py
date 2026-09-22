@@ -327,11 +327,12 @@ def _hybrid(root: Path, corpus: str, query: str, limit: int = 5) -> list[tuple[i
 
 
 @server.tool()
-def wiki(query: str, full: bool = True) -> str:
+def wiki(query: str, full: bool = True, limit: int = 6) -> str:
     """Search the wiki mirror (381 pages) by meaning and by keyword. Returns the best
     matches with the passages that matched, and the full text of the top page (capped)
-    when full=True. Faster than Notion; up to an hour behind it."""
-    hits = _hybrid(WIKI, "wiki", query)
+    when full=True. Faster than Notion; up to an hour behind it. limit is how many
+    pages come back; raise it when surveying what exists rather than looking one up."""
+    hits = _hybrid(WIKI, "wiki", query, limit=max(1, min(limit, 25)))
     if not hits:
         return f"nothing in the wiki mirror matches '{query}'"
     out = []
@@ -402,11 +403,14 @@ def fow_line(name: str) -> str:
 
 
 @server.tool()
-def scene_recall(query: str) -> str:
+def scene_recall(query: str, limit: int = 8) -> str:
     """Search the scene archive (scenes/) for continuity: who said what, what happened
     where. Matches by meaning as well as by keyword, so describe the moment in your
-    own words. Returns the best-matching scenes with the passages that matched."""
-    hits = _hybrid(SCENES, "scenes", query, limit=4)
+    own words. Returns the best-matching scenes with the passages that matched.
+    limit is how many scenes come back; raise it when tracing how a thread connects
+    across the archive rather than looking up one moment (the archive is 160 scenes,
+    so the old fixed 4 was the reason continuity questions came back thin)."""
+    hits = _hybrid(SCENES, "scenes", query, limit=max(1, min(limit, 25)))
     if not hits:
         return f"no scene matches '{query}'"
     out = []

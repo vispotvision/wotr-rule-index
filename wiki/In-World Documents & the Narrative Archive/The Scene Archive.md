@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8132-a010-ec6fd17e718b"
 notion_url: "https://app.notion.com/p/The-Scene-Archive-3b258200eb228132a010ec6fd17e718b"
 section: "In-World Documents & the Narrative Archive"
 tags: []
-last_edited: "2026-09-22T10:43:00.000Z"
+last_edited: "2026-09-22T13:00:00.000Z"
 verification: null
 ---
 
@@ -150,3 +150,9 @@ verification: null
 - [[The True King of the North, Part 4]]
 - [[The True King of the North, Part 5]]
 - [[The True King of the North, Part 6]]
+- [[The True King of the North, Part 7]]
+- [[The True King of the North, Part 8]]
+- [[The True King of the North, Part 9]]
+- [[The True King of the North, Part 10]]
+- [[The True King of the North, Part 11]]
+- [[The True King of the North, Part 12]]

@@ -33,6 +33,7 @@ import hmac
 import json
 import os
 import re
+import unicodedata
 import subprocess
 import sys
 from datetime import date, datetime
@@ -305,24 +306,28 @@ def _hybrid(root: Path, corpus: str, query: str, limit: int = 5) -> list[tuple[i
         sem = []
     if not sem:
         return [(sc, p, _snippets(low, query)) for sc, p, low in kw]
-    # cosines from bge sit in a narrow band (~0.55-0.70), so spread the returned
-    # hits over 0-1 before adding the keyword share; a keyword-only page starts at 0
+    # Raw cosine, NOT min-max. bge cosines sit in a narrow band (~0.55-0.70), and
+    # min-max spreading pinned the best hit of ANY query at a perfect 1.0 however weak
+    # it was, while a keyword-only page capped at 0.6 and could never catch it. That is
+    # why wiki("Emira") answered with the Matla discipline page and wiki("Kaalabad")
+    # with the superseded Kirishima Hae-jin card, against this function's own promise
+    # that "a page that carries the exact name still comes first". The keyword share is
+    # weighted 1.0 so an exact-stem match outranks any merely-similar page, which also
+    # keeps a card that is not in the embedding index yet reachable.
     kw_max = max((sc for sc, _, _ in kw), default=1) or 1
-    top, floor = max(h["score"] for h in sem), min(h["score"] for h in sem)
-    span = (top - floor) or 1e-9
     merged: dict[Path, dict] = {}
     for h in sem:
-        merged[ROOT / h["path"]] = {"sem": (h["score"] - floor) / span, "kw": 0.0, "chunks": h["chunks"]}
+        merged[ROOT / h["path"]] = {"sem": float(h["score"]), "kw": 0.0, "chunks": h["chunks"]}
     for sc, p, _ in kw:
         merged.setdefault(p, {"sem": 0.0, "kw": 0.0, "chunks": []})["kw"] = sc / kw_max
-    total = lambda m: m["sem"] + 0.6 * m["kw"]  # noqa: E731
+    total = lambda m: m["sem"] + 1.0 * m["kw"]  # noqa: E731
     ranked = sorted(merged.items(), key=lambda kv: -total(kv[1]))[:limit]
     out = []
     for p, m in ranked:
         snips = [f"[{h}] " + t[:320].replace("\n", " ") + ("..." if len(t) > 320 else "") for h, t, _ in m["chunks"][:2]]
         if m["kw"]:
             snips += [x for x in _snippets(_read(p), query, n=2) if not any(x[3:60].lower() in y.lower() for y in snips)]
-        out.append((int(round(100 * total(m) / 1.6)), p, snips))
+        out.append((int(round(100 * total(m) / 1.7)), p, snips))
     return out
 
 
@@ -340,8 +345,33 @@ def wiki(query: str, full: bool = True, limit: int = 6) -> str:
         rel = p.relative_to(WIKI).as_posix()
         out.append(f"## {p.stem}  ({rel}, score {score})\n" + "\n".join(snips))
     if full:
-        top = _read(hits[0][1])
-        out.append(f"\n---- full text of {hits[0][1].stem} ----\n" + top[:14000] + ("\n...[truncated]" if len(top) > 14000 else ""))
+        # The single full-text slot goes to a character card when the query matched one,
+        # not merely to hits[0]. Asking for "Renard Greymane" was returning the full text
+        # of a SCENE he appears in while his card sat below it as a snippet -- the exact
+        # shape of "she does not use the card". Scene pages and discipline pages keep the
+        # slot only when no card matched at all.
+        best = hits[0][1]
+        def _is_card(q):
+            # the folders are "Volume I — Character Cards" etc, so match the component
+            # by substring -- an equality test against "Character Cards" never fires
+            in_cards = any("character cards" in part.lower() or part == "Characters" for part in q.parts)
+            landing = q.stem.lower().startswith("volume") or q.stem == q.parent.name
+            return in_cards and not landing
+        def _fold(x):
+            return "".join(c for c in unicodedata.normalize("NFD", x) if unicodedata.category(c) != "Mn").lower()
+        # Only hand the slot to a card when the QUERY ACTUALLY NAMES IT. Preferring any
+        # card that merely placed would answer "Standing Inventory Kharven" with whatever
+        # card happened to rank -- the cure becoming the disease.
+        qwords = [w for w in re.split(r"\W+", query) if len(w) > 2]
+        # EVERY significant query word must be in the card's title, not merely one of
+        # them: "the Scene Archive" otherwise grabbed a card titled "...the Porcelain
+        # Archive", and a one-word overlap is not someone asking about a character.
+        cards = [h[1] for h in hits if _is_card(h[1]) and qwords
+                 and all(re.search(r"\b" + re.escape(_fold(w)), _fold(h[1].stem)) for w in qwords)]
+        if cards:
+            best = cards[0]
+        top = _read(best)
+        out.append(f"\n---- full text of {best.stem} ----\n" + top[:14000] + ("\n...[truncated]" if len(top) > 14000 else ""))
     return "\n\n".join(out)
 
 
@@ -379,16 +409,24 @@ def fow_line(name: str) -> str:
     lines = card.split("\n")
     keep = []
     grab = False
+    grab_level = 2
     for ln in lines:
         l = ln.strip()
         if re.search(r"\*\*(?:Level|Stage|Band|EU Reserve|Flux Density|AU/s|η|Aether Class|Soul Crystal|Coherence)\b", l) or re.search(r"\b(?:Level|Stage|Band):", l):
             keep.append(l)
-        if re.match(r"^##\s+.*(?:Stats|Force and Flow|Force & Flow|Traits and Domain|Fracture of Worlds|Temperance)", l):
+        # 109 of 283 cards head their stat sections "###", not "##", and were returning
+        # an empty stat block. Match either, and remember which level opened the section
+        # so the stop test below closes on a heading at that level or shallower -- widening
+        # only the entry test would make an H3 section swallow the rest of the card.
+        _h = re.match(r"^(#{2,3})\s+.*(?:Stats|Force and Flow|Force & Flow|Traits and Domain|Fracture of Worlds|Temperance)", l)
+        if _h:
             grab = True
+            grab_level = len(_h.group(1))
             keep.append(l)
             continue
         if grab:
-            if l.startswith("## "):
+            _any = re.match(r"^(#{1,6})\s", l)
+            if _any and len(_any.group(1)) <= grab_level:
                 grab = False
             elif l:
                 keep.append(l)

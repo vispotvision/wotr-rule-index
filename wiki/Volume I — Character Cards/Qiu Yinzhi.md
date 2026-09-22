@@ -4,8 +4,8 @@ notion_id: "3e358200-eb22-816d-a322-ca88ed8aa66b"
 notion_url: "https://app.notion.com/p/Qiu-Yinzhi-3e358200eb22816da322ca88ed8aa66b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-22T10:10:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-22T14:31:00.000Z"
+verification: null
 ---
 
 # Qiu Yinzhi

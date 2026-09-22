@@ -3,9 +3,9 @@ title: "Volume I — Character Cards"
 notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
-tags: ["Characters"]
-last_edited: "2026-09-22T10:11:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-22T14:31:00.000Z"
+verification: null
 ---
 
 # Volume I — Character Cards
@@ -67,7 +67,6 @@ verification: "unverified"
 - [Geturo Mahuo](Volume I — Character Cards/Geturo Mahuo.md)
 - [Rikudoku Moto](Volume I — Character Cards/Rikudoku Moto.md)
 - [Xanelor Rafiminar](Volume I — Character Cards/Xanelor Rafiminar.md)
-
 - [Qiu Yinzhi](Volume I — Character Cards/Qiu Yinzhi.md)
 - [Nol Tally](Volume I — Character Cards/Nol Tally.md)
 - [Edwyn Brack](Volume I — Character Cards/Edwyn Brack.md)
@@ -76,3 +75,12 @@ verification: "unverified"
 - [Nuvalik](Volume I — Character Cards/Nuvalik.md)
 - [Xu Deming](Volume I — Character Cards/Xu Deming.md)
 - [Lu Sanjing](Volume I — Character Cards/Lu Sanjing.md)
+- [Kujo](Volume I — Character Cards/Kujo.md)
+- [Sonzai Moto](Volume I — Character Cards/Sonzai Moto.md)
+- [Asante](Volume I — Character Cards/Asante.md)
+- [Zuberi](Volume I — Character Cards/Zuberi.md)
+- [Haruki Yuno](Volume I — Character Cards/Haruki Yuno.md)
+- [Bryndís](Volume I — Character Cards/Bryndís.md)
+- [Emira](Volume I — Character Cards/Emira.md)
+- [Corwin Sesk](Volume I — Character Cards/Corwin Sesk.md)
+- [Kaalabad](Volume I — Character Cards/Kaalabad.md)

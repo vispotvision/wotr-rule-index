@@ -2,7 +2,8 @@
   "3d858200-eb22-8123-bdac-cf86958a894c": {
     "rel": "Volume I — Character Cards/Wystan Ashmore — Late Bell.md",
     "edited": "2026-09-12T05:54:00.000Z",
-    "title": "Wystan Ashmore — Late Bell"
+    "title": "Wystan Ashmore — Late Bell",
+    "private": true
   },
   "3d758200-eb22-81a5-bb06-c271e0493f1c": {
     "rel": "The Table — Running Pieces/State of Play — Ilthára Korvaeth The New World.md",
@@ -180,7 +181,7 @@
   },
   "3d458200-eb22-8139-94c7-c55fcf884b85": {
     "rel": "The Table — Running Pieces/State of Play — Kwon Mu-jin Hon-guk.md",
-    "edited": "2026-09-10T11:22:00.000Z",
+    "edited": "2026-09-22T22:57:00.000Z",
     "title": "State of Play — Kwon Mu-jin / Hon-guk",
     "private": true
   },
@@ -251,7 +252,8 @@
   "3c658200-eb22-81d9-a073-d23a7db71522": {
     "rel": "Volume I — Character Cards/Kirishima Hae-jin — Kaalabad, the Radiant God of Knights.md",
     "edited": "2026-08-24T16:51:00.000Z",
-    "title": "Kirishima Hae-jin — Kaalabad, the Radiant God of Knights"
+    "title": "Kirishima Hae-jin — Kaalabad, the Radiant God of Knights",
+    "private": true
   },
   "3be58200-eb22-812a-ab29-e5590a909077": {
     "rel": "The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion.md",
@@ -266,82 +268,98 @@
   "3bd58200-eb22-8154-89a8-f9d5ecb39e91": {
     "rel": "Volume V — Character Cards/Cyrille Lacrim · The Flood-Bell.md",
     "edited": "2026-08-15T20:16:00.000Z",
-    "title": "Cyrille Lacrim · The Flood-Bell"
+    "title": "Cyrille Lacrim · The Flood-Bell",
+    "private": true
   },
   "3bd58200-eb22-8176-bb9b-f4be074d847d": {
     "rel": "Volume V — Character Cards/Pierre · The Laughing Guillotine.md",
     "edited": "2026-08-15T20:16:00.000Z",
-    "title": "Pierre · The Laughing Guillotine"
+    "title": "Pierre · The Laughing Guillotine",
+    "private": true
   },
   "3bd58200-eb22-81c8-882b-e29d9878e55d": {
     "rel": "Volume V — Character Cards/Moros Pellayne · The Ossuary Registrar.md",
     "edited": "2026-09-12T17:30:00.000Z",
-    "title": "Moros Pellayne · The Ossuary Registrar"
+    "title": "Moros Pellayne · The Ossuary Registrar",
+    "private": true
   },
   "3bd58200-eb22-8156-bcd5-e34617b1ae7e": {
     "rel": "Volume V — Character Cards/Marigold Vance · The Gilded Bailiff.md",
     "edited": "2026-08-15T20:08:00.000Z",
-    "title": "Marigold Vance · The Gilded Bailiff"
+    "title": "Marigold Vance · The Gilded Bailiff",
+    "private": true
   },
   "3bd58200-eb22-816a-ad8f-e8be911de174": {
     "rel": "Volume V — Character Cards/Sumire Nekoha · The Stray-Lantern.md",
     "edited": "2026-08-15T20:06:00.000Z",
-    "title": "Sumire Nekoha · The Stray-Lantern"
+    "title": "Sumire Nekoha · The Stray-Lantern",
+    "private": true
   },
   "3bd58200-eb22-81d4-85d5-e67c3a5b1f23": {
     "rel": "Volume V — Character Cards/Maelia Cantorine · The Countercant.md",
     "edited": "2026-08-15T20:06:00.000Z",
-    "title": "Maelia Cantorine · The Countercant"
+    "title": "Maelia Cantorine · The Countercant",
+    "private": true
   },
   "3bd58200-eb22-812a-ad38-d17cf1afff7f": {
     "rel": "Volume V — Character Cards/Natsume Kurogiku · The Knot-Shearer.md",
     "edited": "2026-08-15T19:43:00.000Z",
-    "title": "Natsume Kurogiku · The Knot-Shearer"
+    "title": "Natsume Kurogiku · The Knot-Shearer",
+    "private": true
   },
   "3bd58200-eb22-817a-ab47-dc2fdf7a9595": {
     "rel": "Volume V — Character Cards/Shiragiku Iori · The Wake-Embroiderer.md",
     "edited": "2026-08-15T19:43:00.000Z",
-    "title": "Shiragiku Iori · The Wake-Embroiderer"
+    "title": "Shiragiku Iori · The Wake-Embroiderer",
+    "private": true
   },
   "3bd58200-eb22-81e5-955a-f01d85aee914": {
     "rel": "Volume V — Character Cards/Lilium Verdanis · Lily-Quill.md",
     "edited": "2026-08-15T19:43:00.000Z",
-    "title": "Lilium Verdanis · Lily-Quill"
+    "title": "Lilium Verdanis · Lily-Quill",
+    "private": true
   },
   "3bd58200-eb22-8160-a69a-d8fa78833741": {
     "rel": "Volume V — Character Cards/Eryndrel Vaelune · The Trinebow.md",
     "edited": "2026-08-15T19:39:00.000Z",
-    "title": "Eryndrel Vaelune · The Trinebow"
+    "title": "Eryndrel Vaelune · The Trinebow",
+    "private": true
   },
   "3bd58200-eb22-816e-b677-e5ae85f6ac66": {
     "rel": "Volume V — Character Cards/Commander Severin Bale · The Slayer.md",
     "edited": "2026-09-12T20:17:00.000Z",
-    "title": "Commander Severin Bale · The Slayer"
+    "title": "Commander Severin Bale · The Slayer",
+    "private": true
   },
   "3bd58200-eb22-8175-80a4-dffe8ee9f813": {
     "rel": "Volume V — Character Cards/Sir Rhyse Calder · The Tartan Bastion.md",
     "edited": "2026-09-12T17:04:00.000Z",
-    "title": "Sir Rhyse Calder · The Tartan Bastion"
+    "title": "Sir Rhyse Calder · The Tartan Bastion",
+    "private": true
   },
   "3bd58200-eb22-8179-8ae8-f7b67e907c9f": {
     "rel": "Volume V — Character Cards/Cassiel Asterion · The Prism Notary.md",
     "edited": "2026-08-15T19:32:00.000Z",
-    "title": "Cassiel Asterion · The Prism Notary"
+    "title": "Cassiel Asterion · The Prism Notary",
+    "private": true
   },
   "3bd58200-eb22-8187-905a-c8dfc517ccc3": {
     "rel": "Volume V — Character Cards/Lord Lucen Vale · The Star Chamberlain.md",
     "edited": "2026-08-15T19:32:00.000Z",
-    "title": "Lord Lucen Vale · The Star Chamberlain"
+    "title": "Lord Lucen Vale · The Star Chamberlain",
+    "private": true
   },
   "3bd58200-eb22-81cd-b749-f3ddacf7482b": {
     "rel": "Volume V — Character Cards/Deimos · The Sin Eater.md",
     "edited": "2026-08-15T19:32:00.000Z",
-    "title": "Deimos · The Sin Eater"
+    "title": "Deimos · The Sin Eater",
+    "private": true
   },
   "3bd58200-eb22-81d5-a85a-f46b3422fdb5": {
     "rel": "Characters/Volume V — Character Cards.md",
     "edited": "2026-09-14T02:10:00.000Z",
-    "title": "Volume V — Character Cards"
+    "title": "Volume V — Character Cards",
+    "private": true
   },
   "3bd58200-eb22-8011-9272-d395d8213585": {
     "rel": "Factions, Bloodlines & Institutions/The Void Vanguard.md",
@@ -351,507 +369,608 @@
   "3bd58200-eb22-812e-9e0e-d03121c93f1c": {
     "rel": "Volume IV — Character Cards/Seraphion Veydrak · The Chain-Halo.md",
     "edited": "2026-08-15T19:18:00.000Z",
-    "title": "Seraphion Veydrak · The Chain-Halo"
+    "title": "Seraphion Veydrak · The Chain-Halo",
+    "private": true
   },
   "3bd58200-eb22-8135-9fdd-f8bb25a119be": {
     "rel": "Volume IV — Character Cards/Raivhar Drakonis · The Ashen Horn.md",
     "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Raivhar Drakonis · The Ashen Horn"
+    "title": "Raivhar Drakonis · The Ashen Horn",
+    "private": true
   },
   "3bd58200-eb22-81d5-885e-d21e8cce074e": {
     "rel": "Volume IV — Character Cards/Ymir Rhok · The Emberhand.md",
     "edited": "2026-08-15T19:18:00.000Z",
-    "title": "Ymir Rhok · The Emberhand"
+    "title": "Ymir Rhok · The Emberhand",
+    "private": true
   },
   "3bd58200-eb22-819b-9c7f-f6260b0a5220": {
     "rel": "Volume IV — Character Cards/Varozael Dreikthorne · Herald of Nightglass.md",
     "edited": "2026-08-15T19:15:00.000Z",
-    "title": "Varozael Dreikthorne · Herald of Nightglass"
+    "title": "Varozael Dreikthorne · Herald of Nightglass",
+    "private": true
   },
   "3bd58200-eb22-81e6-8d9e-c08cf323219f": {
     "rel": "Volume IV — Character Cards/Aurevian Lysanthir · Voice Between Wars.md",
     "edited": "2026-09-12T21:14:00.000Z",
-    "title": "Aurevian Lysanthir · Voice Between Wars"
+    "title": "Aurevian Lysanthir · Voice Between Wars",
+    "private": true
   },
   "3bd58200-eb22-81f4-bb4b-d3c3c9906da8": {
     "rel": "Volume IV — Character Cards/Ziyu Pip Inari.md",
     "edited": "2026-08-15T19:15:00.000Z",
-    "title": "Ziyu \"Pip\" Inari"
+    "title": "Ziyu \"Pip\" Inari",
+    "private": true
   },
   "3bd58200-eb22-8124-a5bc-ce786ef2d73e": {
     "rel": "Volume IV — Character Cards/Rikkan Sahr · The Sand-Skipper.md",
     "edited": "2026-08-15T19:10:00.000Z",
-    "title": "Rikkan Sahr · The Sand-Skipper"
+    "title": "Rikkan Sahr · The Sand-Skipper",
+    "private": true
   },
   "3bd58200-eb22-812f-961a-e1b93dd3a626": {
     "rel": "Volume IV — Character Cards/Saruin Kye · Golden Laugh.md",
     "edited": "2026-09-12T21:14:00.000Z",
-    "title": "Saruin Kye · Golden Laugh"
+    "title": "Saruin Kye · Golden Laugh",
+    "private": true
   },
   "3bd58200-eb22-81f8-8266-e6a5711bd552": {
     "rel": "Volume IV — Character Cards/Kaelen Raive · Sun-Sealed.md",
     "edited": "2026-09-12T21:14:00.000Z",
-    "title": "Kaelen Raive · Sun-Sealed"
+    "title": "Kaelen Raive · Sun-Sealed",
+    "private": true
   },
   "3bd58200-eb22-819b-bcda-cf19128af9f1": {
     "rel": "Volume IV — Character Cards/Goraku Tenryū · The Crimson Gourd.md",
     "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Goraku Tenryū · The Crimson Gourd"
+    "title": "Goraku Tenryū · The Crimson Gourd",
+    "private": true
   },
   "3bd58200-eb22-81af-bc22-e49f8a1b3219": {
     "rel": "Volume IV — Character Cards/Zahiren Vahl · The Horizon-Eyed.md",
     "edited": "2026-08-15T19:07:00.000Z",
-    "title": "Zahiren Vahl · The Horizon-Eyed"
+    "title": "Zahiren Vahl · The Horizon-Eyed",
+    "private": true
   },
   "3bd58200-eb22-81c8-9f1d-f55ee2887c08": {
     "rel": "Volume IV — Character Cards/Cael Veridion · Bearer of the Second Sun.md",
     "edited": "2026-08-15T19:07:00.000Z",
-    "title": "Cael Veridion · Bearer of the Second Sun"
+    "title": "Cael Veridion · Bearer of the Second Sun",
+    "private": true
   },
   "3bd58200-eb22-8147-9c4a-e961b1eee260": {
     "rel": "Volume IV — Character Cards/Sevrin Valeith · Maw of Nine Tongues.md",
     "edited": "2026-08-15T19:03:00.000Z",
-    "title": "Sevrin Valeith · Maw of Nine Tongues"
+    "title": "Sevrin Valeith · Maw of Nine Tongues",
+    "private": true
   },
   "3bd58200-eb22-814d-b915-d7d48e8e813a": {
     "rel": "Volume IV — Character Cards/Kaien Veyren · The Lotus Scar.md",
     "edited": "2026-09-12T18:50:00.000Z",
-    "title": "Kaien Veyren · The Lotus Scar"
+    "title": "Kaien Veyren · The Lotus Scar",
+    "private": true
   },
   "3bd58200-eb22-8193-9242-cd94b565e886": {
     "rel": "Volume IV — Character Cards/Vaelthyr Iscarn · Laughing Horn.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Vaelthyr Iscarn · Laughing Horn"
+    "title": "Vaelthyr Iscarn · Laughing Horn",
+    "private": true
   },
   "3bd58200-eb22-811b-9de6-f3b2a852ef70": {
     "rel": "Volume IV — Character Cards/Lord Maerion Lysandre · Keeper of the Seven Treatises.md",
     "edited": "2026-08-15T19:00:00.000Z",
-    "title": "Lord Maerion Lysandre · Keeper of the Seven Treatises"
+    "title": "Lord Maerion Lysandre · Keeper of the Seven Treatises",
+    "private": true
   },
   "3bd58200-eb22-8124-a098-f76d1cf7dedf": {
     "rel": "Volume IV — Character Cards/Garruk Stonehoof · The Iron-Mane.md",
     "edited": "2026-08-15T19:00:00.000Z",
-    "title": "Garruk Stonehoof · The Iron-Mane"
+    "title": "Garruk Stonehoof · The Iron-Mane",
+    "private": true
   },
   "3bd58200-eb22-8174-9514-f472eef89877": {
     "rel": "Volume IV — Character Cards/Orivane Caelthys · Astral Shepherd.md",
     "edited": "2026-08-15T19:00:00.000Z",
-    "title": "Orivane Caelthys · Astral Shepherd"
+    "title": "Orivane Caelthys · Astral Shepherd",
+    "private": true
   },
   "3bd58200-eb22-8162-9d81-f3d496424d1f": {
     "rel": "Volume IV — Character Cards/Moryn Sporetail · Mushroom Fox.md",
     "edited": "2026-08-15T18:58:00.000Z",
-    "title": "Moryn Sporetail · Mushroom Fox"
+    "title": "Moryn Sporetail · Mushroom Fox",
+    "private": true
   },
   "3bd58200-eb22-8168-bbe9-c9739555ea40": {
     "rel": "Volume IV — Character Cards/Lucien Draeve · Emerald Alchemist.md",
     "edited": "2026-08-15T19:00:00.000Z",
-    "title": "Lucien Draeve · Emerald Alchemist"
+    "title": "Lucien Draeve · Emerald Alchemist",
+    "private": true
   },
   "3bd58200-eb22-81e9-8087-faeef719c6e7": {
     "rel": "Volume IV — Character Cards/Kaelen Brighthoof · The Horned Hawk.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Kaelen Brighthoof · The Horned Hawk"
+    "title": "Kaelen Brighthoof · The Horned Hawk",
+    "private": true
   },
   "3bd58200-eb22-810d-b48d-c393f281a22e": {
     "rel": "Volume IV — Character Cards/Riven Eltamyr Vonnel · The Glaive.md",
     "edited": "2026-08-15T18:53:00.000Z",
-    "title": "Riven Eltamyr Vonnel · The Glaive"
+    "title": "Riven Eltamyr Vonnel · The Glaive",
+    "private": true
   },
   "3bd58200-eb22-8138-883d-de943d9c4a1e": {
     "rel": "Volume IV — Character Cards/Aivyriel · The Rot.md",
     "edited": "2026-08-15T18:53:00.000Z",
-    "title": "Aivyriel · The Rot"
+    "title": "Aivyriel · The Rot",
+    "private": true
   },
   "3bd58200-eb22-8161-81e9-fe287a9e1928": {
     "rel": "Volume IV — Character Cards/Thalyren Veyroot · The Verdant Sentinel.md",
     "edited": "2026-08-15T18:53:00.000Z",
-    "title": "Thalyren Veyroot · The Verdant Sentinel"
+    "title": "Thalyren Veyroot · The Verdant Sentinel",
+    "private": true
   },
   "3bd58200-eb22-8100-bdee-e5d1c3fc23aa": {
     "rel": "Volume IV — Character Cards/Lyraen Callivane · Verdure Hoof.md",
     "edited": "2026-08-15T18:49:00.000Z",
-    "title": "Lyraen Callivane · Verdure Hoof"
+    "title": "Lyraen Callivane · Verdure Hoof",
+    "private": true
   },
   "3bd58200-eb22-811b-9f25-eae7476d01b5": {
     "rel": "Volume IV — Character Cards/Atheron Dreymarch · Prophet of the Unblinking.md",
     "edited": "2026-08-15T18:49:00.000Z",
-    "title": "Atheron Dreymarch · Prophet of the Unblinking"
+    "title": "Atheron Dreymarch · Prophet of the Unblinking",
+    "private": true
   },
   "3bd58200-eb22-81f6-aa28-e288db32c9c8": {
     "rel": "Volume IV — Character Cards/Gorrum Vaelseth · Toad Guy.md",
     "edited": "2026-08-15T18:49:00.000Z",
-    "title": "Gorrum Vaelseth · Toad Guy"
+    "title": "Gorrum Vaelseth · Toad Guy",
+    "private": true
   },
   "3bd58200-eb22-8174-86b7-cc7791bbce97": {
     "rel": "Volume IV — Character Cards/Elder Seravain · Ophidian Archivist.md",
     "edited": "2026-08-15T18:49:00.000Z",
-    "title": "Elder Seravain · Ophidian Archivist"
+    "title": "Elder Seravain · Ophidian Archivist",
+    "private": true
   },
   "3bd58200-eb22-81b9-bb26-f18946ca95f4": {
     "rel": "Volume IV — Character Cards/Varek Ka'ruun · The Blood-Eater.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Varek Ka'ruun · The Blood-Eater"
+    "title": "Varek Ka'ruun · The Blood-Eater",
+    "private": true
   },
   "3bd58200-eb22-81fa-aafd-eb037d281428": {
     "rel": "Volume IV — Character Cards/Thalyss Aevyrn · The Deep Coil.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Thalyss Aevyrn · The Deep Coil"
+    "title": "Thalyss Aevyrn · The Deep Coil",
+    "private": true
   },
   "3bd58200-eb22-81ae-a572-f850f5bfff23": {
     "rel": "Volume IV — Character Cards/Graelith · The Stilled Surge.md",
     "edited": "2026-08-15T18:38:00.000Z",
-    "title": "Graelith · The Stilled Surge"
+    "title": "Graelith · The Stilled Surge",
+    "private": true
   },
   "3bd58200-eb22-81c0-99e6-c003850ec278": {
     "rel": "Volume IV — Character Cards/Morphaene the Gloam-Brewer.md",
     "edited": "2026-08-15T18:38:00.000Z",
-    "title": "Morphaene the Gloam-Brewer"
+    "title": "Morphaene the Gloam-Brewer",
+    "private": true
   },
   "3bd58200-eb22-81c4-9d55-df019d801601": {
     "rel": "Volume IV — Character Cards/The Ossuary Choir.md",
     "edited": "2026-09-12T17:16:00.000Z",
-    "title": "The Ossuary Choir"
+    "title": "The Ossuary Choir",
+    "private": true
   },
   "3bd58200-eb22-8129-a362-e281407b1710": {
     "rel": "Volume IV — Character Cards/Zeraphine Drowl · The Black Vat Regent.md",
     "edited": "2026-08-15T18:35:00.000Z",
-    "title": "Zeraphine Drowl · The Black Vat Regent"
+    "title": "Zeraphine Drowl · The Black Vat Regent",
+    "private": true
   },
   "3bd58200-eb22-8137-aec0-fea0928d2dcf": {
     "rel": "Volume IV — Character Cards/Kytheris · Mother of Spores.md",
     "edited": "2026-08-15T18:35:00.000Z",
-    "title": "Kytheris · Mother of Spores"
+    "title": "Kytheris · Mother of Spores",
+    "private": true
   },
   "3bd58200-eb22-81e5-b855-ca4472a9dbbf": {
     "rel": "Volume IV — Character Cards/Vorynth the Vatborn.md",
     "edited": "2026-08-15T18:35:00.000Z",
-    "title": "Vorynth the Vatborn"
+    "title": "Vorynth the Vatborn",
+    "private": true
   },
   "3bd58200-eb22-812f-850c-e77de18f01d0": {
     "rel": "Volume IV — Character Cards/Hazzen Skollgrin · The Crooked Grin.md",
     "edited": "2026-08-15T12:58:00.000Z",
-    "title": "Hazzen Skollgrin · The Crooked Grin"
+    "title": "Hazzen Skollgrin · The Crooked Grin",
+    "private": true
   },
   "3bd58200-eb22-81bf-a790-de65ab188193": {
     "rel": "Volume IV — Character Cards/Chimwala N'Doro · Emerald Tusks of the Verdant Covenant.md",
     "edited": "2026-08-15T12:58:00.000Z",
-    "title": "Chimwala N'Doro · Emerald Tusks of the Verdant Covenant"
+    "title": "Chimwala N'Doro · Emerald Tusks of the Verdant Covenant",
+    "private": true
   },
   "3bd58200-eb22-81c4-b862-fe0fa9cce29e": {
     "rel": "Volume IV — Character Cards/Shael Virellion · Oracle of the Broken Mirror.md",
     "edited": "2026-08-15T13:00:00.000Z",
-    "title": "Shael Virellion · Oracle of the Broken Mirror"
+    "title": "Shael Virellion · Oracle of the Broken Mirror",
+    "private": true
   },
   "3bd58200-eb22-8127-95cc-c4c79263598c": {
     "rel": "Volume IV — Character Cards/Rathien Veythar · The Fang.md",
     "edited": "2026-08-15T12:56:00.000Z",
-    "title": "Rathien Veythar · The Fang"
+    "title": "Rathien Veythar · The Fang",
+    "private": true
   },
   "3bd58200-eb22-813e-a5d3-e2161752a25f": {
     "rel": "Volume IV — Character Cards/Draven Kael Vorrick · The Beast Slayer.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Draven Kael Vorrick · The Beast Slayer"
+    "title": "Draven Kael Vorrick · The Beast Slayer",
+    "private": true
   },
   "3bd58200-eb22-81ce-ae1e-e024b9b87e12": {
     "rel": "Volume IV — Character Cards/Gonju · The Sage.md",
     "edited": "2026-08-15T12:54:00.000Z",
-    "title": "Gonju · The Sage"
+    "title": "Gonju · The Sage",
+    "private": true
   },
   "3bd58200-eb22-811b-b4b4-d0b734be4736": {
     "rel": "Volume IV — Character Cards/Eira Vale · The Echo Runner.md",
     "edited": "2026-08-15T12:45:00.000Z",
-    "title": "Eira Vale · The Echo Runner"
+    "title": "Eira Vale · The Echo Runner",
+    "private": true
   },
   "3bd58200-eb22-8179-8e34-fac4a3adebf3": {
     "rel": "Volume IV — Character Cards/Asta Venrik · Wyvern Marshal Emeritus.md",
     "edited": "2026-08-15T12:45:00.000Z",
-    "title": "Asta Venrik · Wyvern Marshal Emeritus"
+    "title": "Asta Venrik · Wyvern Marshal Emeritus",
+    "private": true
   },
   "3bd58200-eb22-81d5-8be7-c521e402b92a": {
     "rel": "Volume IV — Character Cards/Daigo Tenryū · Ribbon-Ox.md",
     "edited": "2026-09-12T17:36:00.000Z",
-    "title": "Daigo Tenryū · Ribbon-Ox"
+    "title": "Daigo Tenryū · Ribbon-Ox",
+    "private": true
   },
   "3bd58200-eb22-8165-a0ca-f36d77ba03ad": {
     "rel": "Volume IV — Character Cards/Orokh Sable-Forge · The Wyrmwright.md",
     "edited": "2026-08-15T12:44:00.000Z",
-    "title": "Orokh Sable-Forge · The Wyrmwright"
+    "title": "Orokh Sable-Forge · The Wyrmwright",
+    "private": true
   },
   "3bd58200-eb22-81a8-b3d3-d0c81a866757": {
     "rel": "Volume IV — Character Cards/Aelor Vaelith · The Imperial Pegasus.md",
     "edited": "2026-08-15T12:42:00.000Z",
-    "title": "Aelor Vaelith · The Imperial Pegasus"
+    "title": "Aelor Vaelith · The Imperial Pegasus",
+    "private": true
   },
   "3bd58200-eb22-81cf-ab4d-c150451dc2e3": {
     "rel": "Volume IV — Character Cards/Orya of the Wheat March · The Dragon Shepard.md",
     "edited": "2026-08-15T12:42:00.000Z",
-    "title": "Orya of the Wheat March · The Dragon Shepard"
+    "title": "Orya of the Wheat March · The Dragon Shepard",
+    "private": true
   },
   "3bd58200-eb22-8107-bea9-d5a31ea79d67": {
     "rel": "Volume IV — Character Cards/Yukizumi Yukari · The Reaper.md",
     "edited": "2026-08-15T12:39:00.000Z",
-    "title": "Yukizumi Yukari · The Reaper"
+    "title": "Yukizumi Yukari · The Reaper",
+    "private": true
   },
   "3bd58200-eb22-8114-8b85-ca79d709aae7": {
     "rel": "Volume IV — Character Cards/Kaede Suyori · Blue Moth.md",
     "edited": "2026-08-15T12:37:00.000Z",
-    "title": "Kaede Suyori · Blue Moth"
+    "title": "Kaede Suyori · Blue Moth",
+    "private": true
   },
   "3bd58200-eb22-8131-b88c-ce87d4202313": {
     "rel": "Volume IV — Character Cards/Kaito Akagiri · The Scarlet Plague.md",
     "edited": "2026-08-15T12:37:00.000Z",
-    "title": "Kaito Akagiri · The Scarlet Plague"
+    "title": "Kaito Akagiri · The Scarlet Plague",
+    "private": true
   },
   "3bd58200-eb22-8124-bfb8-d157f7ff14cc": {
     "rel": "Volume IV — Character Cards/Ascella · Wick.md",
     "edited": "2026-08-15T12:33:00.000Z",
-    "title": "Ascella · Wick"
+    "title": "Ascella · Wick",
+    "private": true
   },
   "3bd58200-eb22-816c-a809-e9f7ce2a90b9": {
     "rel": "Volume IV — Character Cards/Spoil · The Butcher.md",
     "edited": "2026-08-15T12:19:00.000Z",
-    "title": "Spoil · The Butcher"
+    "title": "Spoil · The Butcher",
+    "private": true
   },
   "3bd58200-eb22-81c5-869e-fdda2612badd": {
     "rel": "Volume IV — Character Cards/Renjiro Kaithen · The Pale Fang.md",
     "edited": "2026-08-15T12:19:00.000Z",
-    "title": "Renjiro Kaithen · The Pale Fang"
+    "title": "Renjiro Kaithen · The Pale Fang",
+    "private": true
   },
   "3bd58200-eb22-814e-ac4d-f397be8fa60a": {
     "rel": "Volume IV — Character Cards/Ristra Lenovira · The Hollow.md",
     "edited": "2026-08-15T12:33:00.000Z",
-    "title": "Ristra Lenovira · The Hollow"
+    "title": "Ristra Lenovira · The Hollow",
+    "private": true
   },
   "3bd58200-eb22-8176-8c32-c208a6464190": {
     "rel": "Volume IV — Character Cards/Rovhen Talvasciel · The Prettier.md",
     "edited": "2026-08-15T12:14:00.000Z",
-    "title": "Rovhen Talvasciel · The Prettier"
+    "title": "Rovhen Talvasciel · The Prettier",
+    "private": true
   },
   "3bd58200-eb22-819c-9280-d33b73c30039": {
     "rel": "Volume IV — Character Cards/Saórén Vyrrakal · The Walking Flame.md",
     "edited": "2026-08-15T12:14:00.000Z",
-    "title": "Saórén Vyrrakal · The Walking Flame"
+    "title": "Saórén Vyrrakal · The Walking Flame",
+    "private": true
   },
   "3bd58200-eb22-8111-905b-da4ab6def61d": {
     "rel": "Volume IV — Character Cards/Kurokiba Ranzou · The Drunken Oni.md",
     "edited": "2026-08-15T12:11:00.000Z",
-    "title": "Kurokiba Ranzou · The Drunken Oni"
+    "title": "Kurokiba Ranzou · The Drunken Oni",
+    "private": true
   },
   "3bd58200-eb22-814a-8222-eed9b54f6984": {
     "rel": "Volume IV — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md",
     "edited": "2026-08-15T12:11:00.000Z",
-    "title": "Adalric Vladimer Valen · The Crimson Shade"
+    "title": "Adalric Vladimer Valen · The Crimson Shade",
+    "private": true
   },
   "3bd58200-eb22-81cd-8ff5-d95df322b5ed": {
     "rel": "Volume IV — Character Cards/Velastra Nirellium · The Severed Saint.md",
     "edited": "2026-08-15T12:11:00.000Z",
-    "title": "Velastra Nirellium · The Severed Saint"
+    "title": "Velastra Nirellium · The Severed Saint",
+    "private": true
   },
   "3bd58200-eb22-814b-9e33-d0b019314f23": {
     "rel": "Volume IV — Character Cards/Baojin Zhaorin · The Verdant Colossus.md",
     "edited": "2026-08-15T12:07:00.000Z",
-    "title": "Baojin Zhaorin · The Verdant Colossus"
+    "title": "Baojin Zhaorin · The Verdant Colossus",
+    "private": true
   },
   "3bd58200-eb22-8162-86ec-d63053596b9f": {
     "rel": "Volume IV — Character Cards/Hyo Miran · The Velvet Dealer.md",
     "edited": "2026-09-12T18:50:00.000Z",
-    "title": "Hyo Miran · The Velvet Dealer"
+    "title": "Hyo Miran · The Velvet Dealer",
+    "private": true
   },
   "3bd58200-eb22-8187-b8bd-eb7d922f8552": {
     "rel": "Volume IV — Character Cards/Hieronymus Cruciferi · The Immortal.md",
     "edited": "2026-08-15T12:07:00.000Z",
-    "title": "Hieronymus Cruciferi · The Immortal"
+    "title": "Hieronymus Cruciferi · The Immortal",
+    "private": true
   },
   "3bd58200-eb22-8125-916d-cc690d26ab38": {
     "rel": "Volume IV — Character Cards/Evangelien Rhymaris · The Hollow Bride.md",
     "edited": "2026-09-12T18:50:00.000Z",
-    "title": "Evangelien Rhymaris · The Hollow Bride"
+    "title": "Evangelien Rhymaris · The Hollow Bride",
+    "private": true
   },
   "3bd58200-eb22-816f-891d-c3e3069fe3ea": {
     "rel": "Volume IV — Character Cards/Emilia Veirynthiel · The Bloom of Dissonant Realms.md",
     "edited": "2026-08-15T11:50:00.000Z",
-    "title": "Emilia Veirynthiel · The Bloom of Dissonant Realms"
+    "title": "Emilia Veirynthiel · The Bloom of Dissonant Realms",
+    "private": true
   },
   "3bd58200-eb22-81cd-9cea-f61185efd050": {
     "rel": "Volume IV — Character Cards/Ambrose Virellith · The Gilded Thorn.md",
     "edited": "2026-08-15T11:50:00.000Z",
-    "title": "Ambrose Virellith · The Gilded Thorn"
+    "title": "Ambrose Virellith · The Gilded Thorn",
+    "private": true
   },
   "3bd58200-eb22-8115-8055-c659f615df47": {
     "rel": "Volume IV — Character Cards/Leontes Praevan · Magistrate of Altherion.md",
     "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Leontes Praevan · Magistrate of Altherion"
+    "title": "Leontes Praevan · Magistrate of Altherion",
+    "private": true
   },
   "3bd58200-eb22-8118-afb5-de9b31de890b": {
     "rel": "Volume IV — Character Cards/Zeven Halek · The Eye That Remains.md",
     "edited": "2026-08-15T11:59:00.000Z",
-    "title": "Zeven Halek · The Eye That Remains"
+    "title": "Zeven Halek · The Eye That Remains",
+    "private": true
   },
   "3bd58200-eb22-812c-ac2a-f1de377cc177": {
     "rel": "Volume IV — Character Cards/Valen Therosian · The Gilded Commandant.md",
     "edited": "2026-09-12T20:02:00.000Z",
-    "title": "Valen Therosian · The Gilded Commandant"
+    "title": "Valen Therosian · The Gilded Commandant",
+    "private": true
   },
   "3bd58200-eb22-8150-b8c0-e591d45e7e5d": {
     "rel": "Volume IV — Character Cards/Hazul Vehramin · The Unbound.md",
     "edited": "2026-08-15T12:00:00.000Z",
-    "title": "Hazul Vehramin · The Unbound"
+    "title": "Hazul Vehramin · The Unbound",
+    "private": true
   },
   "3bd58200-eb22-8167-8012-ef411261330c": {
     "rel": "Volume IV — Character Cards/Azure Serathiel · The Sky-Veiled Saint.md",
     "edited": "2026-08-15T13:02:00.000Z",
-    "title": "Azure Serathiel · The Sky-Veiled Saint"
+    "title": "Azure Serathiel · The Sky-Veiled Saint",
+    "private": true
   },
   "3bd58200-eb22-816d-b0b9-dc79e8dcadac": {
     "rel": "Volume IV — Character Cards/Mirehollow Asakusa · The Verdant Lotus.md",
     "edited": "2026-09-12T18:50:00.000Z",
-    "title": "Mirehollow Asakusa · The Verdant Lotus"
+    "title": "Mirehollow Asakusa · The Verdant Lotus",
+    "private": true
   },
   "3bd58200-eb22-81db-b551-e698a53a3de0": {
     "rel": "Volume IV — Character Cards/Dalphne of the Pale Bough · The Gentle Fang.md",
     "edited": "2026-08-15T12:04:00.000Z",
-    "title": "Dalphne of the Pale Bough · The Gentle Fang"
+    "title": "Dalphne of the Pale Bough · The Gentle Fang",
+    "private": true
   },
   "3bd58200-eb22-81e9-bcdc-c85efef27225": {
     "rel": "Volume IV — Character Cards/Wilhelm · The Guardian.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Wilhelm · The Guardian"
+    "title": "Wilhelm · The Guardian",
+    "private": true
   },
   "3bd58200-eb22-81ee-a948-eb614a1f280a": {
     "rel": "Volume IV — Character Cards/Juno Petros Marien · Praefect of the Outer Colonies.md",
     "edited": "2026-09-12T21:14:00.000Z",
-    "title": "Juno Petros Marien · Praefect of the Outer Colonies"
+    "title": "Juno Petros Marien · Praefect of the Outer Colonies",
+    "private": true
   },
   "3bd58200-eb22-8128-a8ca-f6e571e9df2e": {
     "rel": "Volume IV — Character Cards/Virelsa of the Veilborne Skies.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Virelsa of the Veilborne Skies"
+    "title": "Virelsa of the Veilborne Skies",
+    "private": true
   },
   "3bd58200-eb22-8166-82e5-ce41c986085e": {
     "rel": "Volume IV — Character Cards/Selantra · The Velvet Storm.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Selantra · The Velvet Storm"
+    "title": "Selantra · The Velvet Storm",
+    "private": true
   },
   "3bd58200-eb22-8179-9066-c7f384366807": {
     "rel": "Volume IV — Character Cards/Estrella of the Lattice Veil.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Estrella of the Lattice Veil"
+    "title": "Estrella of the Lattice Veil",
+    "private": true
   },
   "3bd58200-eb22-8195-ab47-f388789beb53": {
     "rel": "Volume IV — Character Cards/Basilio Pavaret · The Crimson Bloom.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Basilio Pavaret · The Crimson Bloom"
+    "title": "Basilio Pavaret · The Crimson Bloom",
+    "private": true
   },
   "3bd58200-eb22-81c3-9b51-c68e8a02a607": {
     "rel": "Volume IV — Character Cards/Seravain Drelith · Wyrm-Crowned.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Seravain Drelith · Wyrm-Crowned"
+    "title": "Seravain Drelith · Wyrm-Crowned",
+    "private": true
   },
   "3bd58200-eb22-81cf-9332-fc3816d0e0ca": {
     "rel": "Volume IV — Character Cards/Nethoriel Vehlorim · Riptide.md",
     "edited": "2026-08-15T11:32:00.000Z",
-    "title": "Nethoriel Vehlorim · Riptide"
+    "title": "Nethoriel Vehlorim · Riptide",
+    "private": true
   },
   "3bd58200-eb22-81d0-b2b0-f845fc858474": {
     "rel": "Volume IV — Character Cards/Dorrik · The Pot Man.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Dorrik · The Pot Man"
+    "title": "Dorrik · The Pot Man",
+    "private": true
   },
   "3bd58200-eb22-81f7-93e7-f7a442d28279": {
     "rel": "Volume IV — Character Cards/Lyris Myndross · The Vampire Rider.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Lyris Myndross · The Vampire Rider"
+    "title": "Lyris Myndross · The Vampire Rider",
+    "private": true
   },
   "3bd58200-eb22-81f9-b1b1-ec9618cef5c7": {
     "rel": "Volume IV — Character Cards/Velcrissa · The Dusken Bloom.md",
     "edited": "2026-08-15T11:29:00.000Z",
-    "title": "Velcrissa · The Dusken Bloom"
+    "title": "Velcrissa · The Dusken Bloom",
+    "private": true
   },
   "3bd58200-eb22-8101-b671-edf63838c3c4": {
     "rel": "Volume IV — Character Cards/Sandalphon Aestraen · The Reverent.md",
     "edited": "2026-09-12T06:09:00.000Z",
-    "title": "Sandalphon Aestraen · The Reverent"
+    "title": "Sandalphon Aestraen · The Reverent",
+    "private": true
   },
   "3bd58200-eb22-819c-872a-f64cbdb1ea2b": {
     "rel": "Volume IV — Character Cards/Cernan Eryndor · The Bull.md",
     "edited": "2026-08-15T11:18:00.000Z",
-    "title": "Cernan Eryndor · The Bull"
+    "title": "Cernan Eryndor · The Bull",
+    "private": true
   },
   "3bd58200-eb22-819f-801b-d8a48de4a21c": {
     "rel": "Volume IV — Character Cards/Leon Vaerenthal · The Farmer.md",
     "edited": "2026-08-15T11:18:00.000Z",
-    "title": "Leon Vaerenthal · The Farmer"
+    "title": "Leon Vaerenthal · The Farmer",
+    "private": true
   },
   "3bd58200-eb22-81cc-9c21-ef8b1417e1bc": {
     "rel": "Volume IV — Character Cards/Silas Briarend Wytherm III · Gravebinder.md",
     "edited": "2026-08-15T11:18:00.000Z",
-    "title": "Silas Briarend Wytherm III · Gravebinder"
+    "title": "Silas Briarend Wytherm III · Gravebinder",
+    "private": true
   },
   "3bd58200-eb22-8174-8d04-d8dc2c18ae90": {
     "rel": "Volume IV — Character Cards/Malphas · Ferment of Stars.md",
     "edited": "2026-08-24T16:39:00.000Z",
-    "title": "Malphas · Ferment of Stars"
+    "title": "Malphas · Ferment of Stars",
+    "private": true
   },
   "3bd58200-eb22-8177-a204-e05388ef8832": {
     "rel": "Volume IV — Character Cards/Vaelen Mourcrix · The Exculpate Arbiter.md",
     "edited": "2026-08-15T11:19:00.000Z",
-    "title": "Vaelen Mourcrix · The Exculpate Arbiter"
+    "title": "Vaelen Mourcrix · The Exculpate Arbiter",
+    "private": true
   },
   "3bd58200-eb22-81b3-924f-e45ba808f85f": {
     "rel": "Volume IV — Character Cards/Dabney Corvalen Olyss · The Thorn-Petaled.md",
     "edited": "2026-09-19T01:48:00.000Z",
-    "title": "Dabney Corvalen Olyss · The Thorn-Petaled"
+    "title": "Dabney Corvalen Olyss · The Thorn-Petaled",
+    "private": true
   },
   "3bd58200-eb22-81bb-a593-ec19c65127f3": {
     "rel": "Volume IV — Character Cards/Karasaki Hozume · The Verdant Rot.md",
     "edited": "2026-09-12T18:50:00.000Z",
-    "title": "Karasaki Hozume · The Verdant Rot"
+    "title": "Karasaki Hozume · The Verdant Rot",
+    "private": true
   },
   "3bd58200-eb22-8146-9dc8-dac0ece8a344": {
     "rel": "Volume IV — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
     "edited": "2026-09-14T03:11:00.000Z",
-    "title": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin"
+    "title": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+    "private": true
   },
   "3bd58200-eb22-81f9-b168-c92d2f23aa67": {
     "rel": "Volume IV — Character Cards/Karo Venrik · The Foolish Magus.md",
     "edited": "2026-09-14T02:47:00.000Z",
-    "title": "Karo Venrik · The Foolish Magus"
+    "title": "Karo Venrik · The Foolish Magus",
+    "private": true
   },
   "3bd58200-eb22-81a1-bcab-cb47f888ca98": {
     "rel": "Characters/Volume IV — Character Cards.md",
     "edited": "2026-09-12T17:31:00.000Z",
-    "title": "Volume IV — Character Cards"
+    "title": "Volume IV — Character Cards",
+    "private": true
   },
   "3bd58200-eb22-8125-b0e6-c71c9f049569": {
     "rel": "Volume III — Character Cards/Gorrath Bloodspine · The Magmaborn Juggernaut.md",
     "edited": "2026-09-14T02:43:00.000Z",
-    "title": "Gorrath Bloodspine · The Magmaborn Juggernaut"
+    "title": "Gorrath Bloodspine · The Magmaborn Juggernaut",
+    "private": true
   },
   "3bd58200-eb22-81c7-8415-ef8ab3b0f48a": {
     "rel": "Volume III — Character Cards/Xanelor Rafminar · The Wandering Fang.md",
     "edited": "2026-09-14T03:11:00.000Z",
-    "title": "Xanelor Rafminar · The Wandering Fang"
+    "title": "Xanelor Rafminar · The Wandering Fang",
+    "private": true
   },
   "3bd58200-eb22-81b7-89cc-eff29441be46": {
     "rel": "Volume III — Character Cards/Zarron Mahuo · The Arbiter of Unity.md",
     "edited": "2026-09-14T02:46:00.000Z",
-    "title": "Zarron Mahuo · The Arbiter of Unity"
+    "title": "Zarron Mahuo · The Arbiter of Unity",
+    "private": true
   },
   "3bd58200-eb22-811b-9988-d81970b1c19f": {
     "rel": "Volume III — Character Cards/Sinclair Mercer · The Soul Devourer.md",
     "edited": "2026-09-14T02:45:00.000Z",
-    "title": "Sinclair Mercer · The Soul Devourer"
+    "title": "Sinclair Mercer · The Soul Devourer",
+    "private": true
   },
   "3bd58200-eb22-81fb-9d4d-cb0ca34046e5": {
     "rel": "Volume III — Character Cards/Iskaron Thalnaris — Bearer of the Fractured Crown.md",
     "edited": "2026-09-14T02:44:00.000Z",
-    "title": "Iskaron Thalnaris — Bearer of the Fractured Crown"
+    "title": "Iskaron Thalnaris — Bearer of the Fractured Crown",
+    "private": true
   },
   "3bd58200-eb22-81c7-a6ee-ebb13e817527": {
     "rel": "Characters/Volume III — Character Cards.md",
     "edited": "2026-09-10T11:23:00.000Z",
-    "title": "Volume III — Character Cards"
+    "title": "Volume III — Character Cards",
+    "private": true
   },
   "3bd58200-eb22-8168-9a4b-e231f286af4a": {
     "rel": "Factions, Bloodlines & Institutions/The Ten Great Houses of Drakyssia.md",
@@ -1027,92 +1146,110 @@
   "3ba58200-eb22-81c2-9db0-e155860d0caa": {
     "rel": "Sodoku Moto/Tōga (冬牙) — Winter Fang.md",
     "edited": "2026-09-12T05:39:00.000Z",
-    "title": "Tōga (冬牙) — Winter Fang"
+    "title": "Tōga (冬牙) — Winter Fang",
+    "private": true
   },
   "3ba58200-eb22-8105-b40e-d63ecbb3e1b3": {
     "rel": "Volume I — Character Cards/Garret Longshore — The Helmsman.md",
     "edited": "2026-09-12T05:40:00.000Z",
-    "title": "Garret Longshore — The Helmsman"
+    "title": "Garret Longshore — The Helmsman",
+    "private": true
   },
   "3ba58200-eb22-8107-a47d-c85834961083": {
     "rel": "Volume I — Character Cards/Nella Forgeman — The Open Hand.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Nella Forgeman — The Open Hand"
+    "title": "Nella Forgeman — The Open Hand",
+    "private": true
   },
   "3ba58200-eb22-8125-87bd-f7c96f77d80a": {
     "rel": "Volume I — Character Cards/Dunstan the Brine — The Ladle.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Dunstan the Brine — The Ladle"
+    "title": "Dunstan the Brine — The Ladle",
+    "private": true
   },
   "3ba58200-eb22-812b-87a6-c53a311b2ef8": {
     "rel": "Volume I — Character Cards/Sadamu, called Futakoto — Two Words.md",
     "edited": "2026-09-12T06:11:00.000Z",
-    "title": "Sadamu, called Futakoto — Two Words"
+    "title": "Sadamu, called Futakoto — Two Words",
+    "private": true
   },
   "3ba58200-eb22-815c-b7e5-d2a1b7e0d28f": {
     "rel": "Volume I — Character Cards/Heisuke — Muken's Last Soldier.md",
     "edited": "2026-09-12T06:11:00.000Z",
-    "title": "Heisuke — Muken's Last Soldier"
+    "title": "Heisuke — Muken's Last Soldier",
+    "private": true
   },
   "3ba58200-eb22-816f-a2da-ffec8f522b8f": {
     "rel": "Volume I — Character Cards/Soren the Mast — The Climb.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Soren the Mast — The Climb"
+    "title": "Soren the Mast — The Climb",
+    "private": true
   },
   "3ba58200-eb22-8190-957a-f01c509f15c5": {
     "rel": "Volume I — Character Cards/Lilia — The Stormfold Nurse.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Lilia — The Stormfold Nurse"
+    "title": "Lilia — The Stormfold Nurse",
+    "private": true
   },
   "3ba58200-eb22-81be-a93c-cb290c93bbfc": {
     "rel": "Volume I — Character Cards/Matheus — The Silent Eye.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Matheus — The Silent Eye"
+    "title": "Matheus — The Silent Eye",
+    "private": true
   },
   "3ba58200-eb22-81ca-96f4-d094a763986c": {
     "rel": "Volume I — Character Cards/Tabitha Hallenfeld — The Road Woman.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Tabitha Hallenfeld — The Road Woman"
+    "title": "Tabitha Hallenfeld — The Road Woman",
+    "private": true
   },
   "3ba58200-eb22-8129-9313-d0fb9c592a9a": {
     "rel": "Hild Ice (Stark) — The Sword Princess/Robin Ice — The Bastard Runner.md",
     "edited": "2026-09-12T05:40:00.000Z",
-    "title": "Robin Ice — The Bastard Runner"
+    "title": "Robin Ice — The Bastard Runner",
+    "private": true
   },
   "3ba58200-eb22-8133-a516-c8f8f91e0b1c": {
     "rel": "Volume I — Character Cards/Renard Greymane — The Left of the Throne.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Renard Greymane — The Left of the Throne"
+    "title": "Renard Greymane — The Left of the Throne",
+    "private": true
   },
   "3ba58200-eb22-81bd-b6fd-db49cfd6b314": {
     "rel": "Volume I — Character Cards/Bram Greymane — The Ridge.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Bram Greymane — The Ridge"
+    "title": "Bram Greymane — The Ridge",
+    "private": true
   },
   "3ba58200-eb22-81de-9043-cb228e511c96": {
     "rel": "Volume I — Character Cards/Brida Ashwell — The Warm Diagnosis.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Brida Ashwell — The Warm Diagnosis"
+    "title": "Brida Ashwell — The Warm Diagnosis",
+    "private": true
   },
   "3ba58200-eb22-810d-96b8-c67ffe902337": {
     "rel": "Volume I — Character Cards/Osric of Hallenfeld — The Patient Hand.md",
     "edited": "2026-09-12T05:40:00.000Z",
-    "title": "Osric of Hallenfeld — The Patient Hand"
+    "title": "Osric of Hallenfeld — The Patient Hand",
+    "private": true
   },
   "3ba58200-eb22-818d-8c37-c4ba50ed39d8": {
     "rel": "Volume I — Character Cards/Hild Ice (Stark) — The Sword Princess.md",
     "edited": "2026-09-12T05:43:00.000Z",
-    "title": "Hild Ice (Stark) — The Sword Princess"
+    "title": "Hild Ice (Stark) — The Sword Princess",
+    "private": true
   },
   "3ba58200-eb22-81b6-950a-cdd7c9e3082e": {
     "rel": "Volume I — Character Cards/Lorn Stark — The Sword-Teacher.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Lorn Stark — The Sword-Teacher"
+    "title": "Lorn Stark — The Sword-Teacher",
+    "private": true
   },
   "3ba58200-eb22-81d5-b761-e57f367328bf": {
     "rel": "Volume I — Character Cards/Edward Lambert — The Arithmetic.md",
     "edited": "2026-09-04T04:42:00.000Z",
-    "title": "Edward Lambert — The Arithmetic"
+    "title": "Edward Lambert — The Arithmetic",
+    "private": true
   },
   "3ba58200-eb22-81de-8069-f9ad05c82766": {
     "rel": "Natural Beasts/Droval — The Frost-Howler.md",
@@ -1122,17 +1259,20 @@
   "3b958200-eb22-81cb-b938-e489672d3a40": {
     "rel": "Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
     "edited": "2026-09-12T18:53:00.000Z",
-    "title": "The Arctic Lion — Sovereign Configuration (Level 500)"
+    "title": "The Arctic Lion — Sovereign Configuration (Level 500)",
+    "private": true
   },
   "3b758200-eb22-81cb-900e-e420731e32cc": {
     "rel": "Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
     "edited": "2026-08-15T01:11:00.000Z",
-    "title": "Borin Ironheart · The Master of the Soul Forge"
+    "title": "Borin Ironheart · The Master of the Soul Forge",
+    "private": true
   },
   "3b758200-eb22-818e-b34c-e3fdd4d16030": {
     "rel": "Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md",
     "edited": "2026-09-12T20:48:00.000Z",
-    "title": "Aurelian Prudentius Custos Clausorum · The Primate"
+    "title": "Aurelian Prudentius Custos Clausorum · The Primate",
+    "private": true
   },
   "3b558200-eb22-819c-9e78-fe7ec0806c15": {
     "rel": "Summoned and Bound/Haelvorn · Housecat.md",
@@ -1147,7 +1287,8 @@
   "3b358200-eb22-81a0-b5a5-dcb396a01bcf": {
     "rel": "Volume I — Character Cards/Verinus VII · The Palatine.md",
     "edited": "2026-09-12T20:48:00.000Z",
-    "title": "Verinus VII · The Palatine"
+    "title": "Verinus VII · The Palatine",
+    "private": true
   },
   "3b358200-eb22-817d-b03e-ede8e541965d": {
     "rel": "Summoned and Bound/Vaelmorn · The Standing Grave.md",
@@ -1177,106 +1318,126 @@
   "3b358200-eb22-8181-8e55-daf152e981e5": {
     "rel": "Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Krothar Veylshroud — The Chain Without a Master"
+    "title": "Krothar Veylshroud — The Chain Without a Master",
+    "private": true
   },
   "3b358200-eb22-8103-9b93-d1b65bfbc84f": {
     "rel": "Volume I — Character Cards/Freda Thunn-Gorr — The Caldera Wife.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Freda Thunn-Gorr — The Caldera Wife"
+    "title": "Freda Thunn-Gorr — The Caldera Wife",
+    "private": true
   },
   "3b358200-eb22-816a-be0f-e353c7f88c50": {
     "rel": "Volume I — Character Cards/Krothar Thunn-Gorr — The Old Chain.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Krothar Thunn-Gorr — The Old Chain"
+    "title": "Krothar Thunn-Gorr — The Old Chain",
+    "private": true
   },
   "3b358200-eb22-819b-bbb7-e956c6bf9f25": {
     "rel": "Volume I — Character Cards/Torven Greis — The Merchant Lord.md",
     "edited": "2026-08-15T00:29:00.000Z",
-    "title": "Torven Greis — The Merchant Lord"
+    "title": "Torven Greis — The Merchant Lord",
+    "private": true
   },
   "3b258200-eb22-81ca-a9c3-ed58dd1d8066": {
     "rel": "Volume I — Character Cards/Anryū Ichimonji.md",
     "edited": "2026-08-15T00:33:00.000Z",
-    "title": "Anryū Ichimonji"
+    "title": "Anryū Ichimonji",
+    "private": true
   },
   "3b258200-eb22-8134-ac40-e15946bf350a": {
     "rel": "Volume I — Character Cards/Lucius Xenotro.md",
     "edited": "2026-08-15T00:30:00.000Z",
-    "title": "Lucius Xenotro"
+    "title": "Lucius Xenotro",
+    "private": true
   },
   "3b258200-eb22-81b4-9964-f24b36c73717": {
     "rel": "Volume I — Character Cards/Yorime Seikai.md",
     "edited": "2026-09-12T20:18:00.000Z",
-    "title": "Yorime Seikai"
+    "title": "Yorime Seikai",
+    "private": true
   },
   "3b258200-eb22-8107-a384-dc30c3ac9760": {
     "rel": "Volume I — Character Cards/Iracordas.md",
     "edited": "2026-08-15T00:30:00.000Z",
-    "title": "Iracordas"
+    "title": "Iracordas",
+    "private": true
   },
   "3b258200-eb22-81ab-87c6-c888edd676ff": {
     "rel": "Volume I — Character Cards/Gimbzo.md",
     "edited": "2026-09-10T11:23:00.000Z",
-    "title": "Gimbzo"
+    "title": "Gimbzo",
+    "private": true
   },
   "3b258200-eb22-817f-b123-e09c3814a808": {
     "rel": "Volume I — Character Cards/Souma Byakuya Moto.md",
     "edited": "2026-09-10T11:23:00.000Z",
-    "title": "Souma Byakuya Moto"
+    "title": "Souma Byakuya Moto",
+    "private": true
   },
   "3b258200-eb22-8104-9b61-d1030007ea92": {
     "rel": "Volume I — Character Cards/Rengai Zettari.md",
     "edited": "2026-09-12T20:22:00.000Z",
-    "title": "Rengai Zettari"
+    "title": "Rengai Zettari",
+    "private": true
   },
   "3b258200-eb22-813a-96bd-f14ad18385f4": {
     "rel": "Volume I — Character Cards/Niran Yukari.md",
     "edited": "2026-09-17T23:38:00.000Z",
-    "title": "Niran Yukari"
+    "title": "Niran Yukari",
+    "private": true
   },
   "3b258200-eb22-81d5-b87d-c8abc80dbc36": {
     "rel": "Volume I — Character Cards/Rashani Zettari.md",
     "edited": "2026-09-12T20:22:00.000Z",
-    "title": "Rashani Zettari"
+    "title": "Rashani Zettari",
+    "private": true
   },
   "3b258200-eb22-8198-b06f-e6376ea9af97": {
     "rel": "Volume I — Character Cards/Mizuki Moto.md",
     "edited": "2026-09-04T04:38:00.000Z",
-    "title": "Mizuki Moto"
+    "title": "Mizuki Moto",
+    "private": true
   },
   "3b258200-eb22-817c-8fbe-c93f05d72feb": {
     "rel": "Volume I — Character Cards/Onawa Ashkewe.md",
     "edited": "2026-08-15T00:30:00.000Z",
-    "title": "Onawa Ashkewe"
+    "title": "Onawa Ashkewe",
+    "private": true
   },
   "3b258200-eb22-81b1-969c-fae081a7a00c": {
     "rel": "Volume I — Character Cards/Ara Min Mahuo.md",
     "edited": "2026-08-15T00:30:00.000Z",
-    "title": "Ara Min Mahuo"
+    "title": "Ara Min Mahuo",
+    "private": true
   },
   "3b258200-eb22-8188-b889-f849c8cc7c56": {
     "rel": "Volume I — Character Cards/Kwon Mu-jin.md",
     "edited": "2026-08-15T00:30:00.000Z",
-    "title": "Kwon Mu-jin"
+    "title": "Kwon Mu-jin",
+    "private": true
   },
   "3b258200-eb22-81d4-bf97-cea223727abf": {
     "rel": "Volume I — Character Cards/Cozbi Mahuo.md",
     "edited": "2026-09-12T20:20:00.000Z",
-    "title": "Cozbi Mahuo"
+    "title": "Cozbi Mahuo",
+    "private": true
   },
   "3b258200-eb22-8106-83e3-f45895781c04": {
     "rel": "Volume I — Character Cards/Yoko Mishiro.md",
     "edited": "2026-09-04T04:43:00.000Z",
-    "title": "Yoko Mishiro"
+    "title": "Yoko Mishiro",
+    "private": true
   },
   "3b258200-eb22-8169-a67b-cbde6be80dbe": {
     "rel": "Volume I — Character Cards/Sodoku Moto.md",
     "edited": "2026-09-12T20:19:00.000Z",
-    "title": "Sodoku Moto"
+    "title": "Sodoku Moto",
+    "private": true
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-22T13:25:00.000Z",
+    "edited": "2026-09-22T15:04:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -1372,52 +1533,62 @@
   "3b158200-eb22-8102-8a3b-d0038249a5a7": {
     "rel": "Volume I — Character Cards/Artemis Amagiri Moto.md",
     "edited": "2026-09-04T04:38:00.000Z",
-    "title": "Artemis Amagiri Moto"
+    "title": "Artemis Amagiri Moto",
+    "private": true
   },
   "3b158200-eb22-8153-a974-d20af56807e9": {
     "rel": "Volume I — Character Cards/Ayame Yuno.md",
     "edited": "2026-09-04T04:38:00.000Z",
-    "title": "Ayame Yuno"
+    "title": "Ayame Yuno",
+    "private": true
   },
   "3b158200-eb22-8112-ba9e-d2f71e56716c": {
     "rel": "Volume I — Character Cards/Naevra Yukari.md",
     "edited": "2026-08-03T23:45:00.000Z",
-    "title": "Naevra Yukari"
+    "title": "Naevra Yukari",
+    "private": true
   },
   "3b158200-eb22-81fc-b90e-fa46bf52d929": {
     "rel": "Volume I — Character Cards/Vethraun Ashmaw.md",
     "edited": "2026-08-03T23:45:00.000Z",
-    "title": "Vethraun Ashmaw"
+    "title": "Vethraun Ashmaw",
+    "private": true
   },
   "3b158200-eb22-8188-874c-cd1618236e50": {
     "rel": "Volume I — Character Cards/Dougou Ozumu Zettari.md",
     "edited": "2026-09-12T20:22:00.000Z",
-    "title": "Dougou Ozumu Zettari"
+    "title": "Dougou Ozumu Zettari",
+    "private": true
   },
   "3b158200-eb22-81e2-87c7-df121c416fdb": {
     "rel": "Volume I — Character Cards/Naiser Yukari.md",
     "edited": "2026-09-12T20:20:00.000Z",
-    "title": "Naiser Yukari"
+    "title": "Naiser Yukari",
+    "private": true
   },
   "3b158200-eb22-819a-85aa-e413f7e15e73": {
     "rel": "Volume I — Character Cards/Yukazuri Moto.md",
     "edited": "2026-09-04T04:38:00.000Z",
-    "title": "Yukazuri Moto"
+    "title": "Yukazuri Moto",
+    "private": true
   },
   "3b158200-eb22-81b8-b346-d1d8df799ed5": {
     "rel": "Volume I — Character Cards/Muken Moto.md",
     "edited": "2026-09-12T05:40:00.000Z",
-    "title": "Muken Moto"
+    "title": "Muken Moto",
+    "private": true
   },
   "3b158200-eb22-81da-b471-f9bfac2c784c": {
     "rel": "Characters/Volume I — Character Cards.md",
-    "edited": "2026-09-22T10:11:00.000Z",
-    "title": "Volume I — Character Cards"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Volume I — Character Cards",
+    "private": true
   },
   "3b158200-eb22-8188-b4d8-d9b195f254dd": {
-    "rel": "Characters/Characters.md",
-    "edited": "2026-09-12T16:04:00.000Z",
-    "title": "Characters"
+    "rel": "Information not on WIKI/Characters.md",
+    "edited": "2026-09-22T14:32:00.000Z",
+    "title": "Characters",
+    "private": true
   },
   "3b158200-eb22-8107-88df-f06567632401": {
     "rel": "The War Cycle/The Runners.md",
@@ -2397,477 +2568,572 @@
   "3d958200-eb22-8148-8bce-f6ee6755cd0b": {
     "rel": "Volume VI — Character Cards/Azran Nemeir · The Gilded Draft.md",
     "edited": "2026-09-12T17:16:00.000Z",
-    "title": "Azran Nemeir · The Gilded Draft"
+    "title": "Azran Nemeir · The Gilded Draft",
+    "private": true
   },
   "3d958200-eb22-818d-9818-c93f85469d79": {
     "rel": "Volume VI — Character Cards/Gorvan Aldric Voss · The Maw That Held.md",
     "edited": "2026-09-12T17:16:00.000Z",
-    "title": "Gorvan Aldric Voss · The Maw That Held"
+    "title": "Gorvan Aldric Voss · The Maw That Held",
+    "private": true
   },
   "3d958200-eb22-81b8-813f-c11b313d40d8": {
     "rel": "Volume VI — Character Cards/Drevath Mourne-Kal · The Iron Horizon.md",
     "edited": "2026-09-12T17:15:00.000Z",
-    "title": "Drevath Mourne-Kal · The Iron Horizon"
+    "title": "Drevath Mourne-Kal · The Iron Horizon",
+    "private": true
   },
   "3d958200-eb22-81fd-bb67-d8007cb2fc2d": {
     "rel": "Volume VI — Character Cards/Aurgon Mintruix · The Grand Seer of the Last Age.md",
     "edited": "2026-09-12T17:14:00.000Z",
-    "title": "Aurgon Mintruix · The Grand Seer of the Last Age"
+    "title": "Aurgon Mintruix · The Grand Seer of the Last Age",
+    "private": true
   },
   "3d958200-eb22-81e9-a28c-d242281b996d": {
     "rel": "Volume VI — Character Cards/Thalyndros Aerenvael · The Canopy Wyrm.md",
     "edited": "2026-09-12T17:14:00.000Z",
-    "title": "Thalyndros Aerenvael · The Canopy Wyrm"
+    "title": "Thalyndros Aerenvael · The Canopy Wyrm",
+    "private": true
   },
   "3d958200-eb22-8151-a46b-fc3347f762cb": {
     "rel": "Volume VI — Character Cards/Vargrath Ul-Dorr · Iron Dawn.md",
     "edited": "2026-09-12T17:13:00.000Z",
-    "title": "Vargrath Ul-Dorr · Iron Dawn"
+    "title": "Vargrath Ul-Dorr · Iron Dawn",
+    "private": true
   },
   "3d958200-eb22-81fe-9309-c328c7beaea4": {
     "rel": "Volume VI — Character Cards/Vaerath Ashveil · The Pale Reaping.md",
     "edited": "2026-09-12T17:12:00.000Z",
-    "title": "Vaerath Ashveil · The Pale Reaping"
+    "title": "Vaerath Ashveil · The Pale Reaping",
+    "private": true
   },
   "3d958200-eb22-8111-b694-d32172d39d82": {
     "rel": "Volume VI — Character Cards/Vaelorian Theryn Aerethiel · The Last Elven Lord.md",
     "edited": "2026-09-12T17:12:00.000Z",
-    "title": "Vaelorian Theryn Aerethiel · The Last Elven Lord"
+    "title": "Vaelorian Theryn Aerethiel · The Last Elven Lord",
+    "private": true
   },
   "3d958200-eb22-8197-82ee-cb2ee2455fc5": {
     "rel": "Volume VI — Character Cards/Casimir Aldous Alleyne · The Ashen Hand.md",
     "edited": "2026-09-12T17:11:00.000Z",
-    "title": "Casimir Aldous Alleyne · The Ashen Hand"
+    "title": "Casimir Aldous Alleyne · The Ashen Hand",
+    "private": true
   },
   "3d958200-eb22-81bf-ba0e-ddd24f133029": {
     "rel": "Volume VI — Character Cards/Vael of Nothing · The Devourer's Index.md",
     "edited": "2026-09-12T17:11:00.000Z",
-    "title": "Vael of Nothing · The Devourer's Index"
+    "title": "Vael of Nothing · The Devourer's Index",
+    "private": true
   },
   "3d958200-eb22-8191-a00a-da858bfdced1": {
     "rel": "Volume VI — Character Cards/Helki · The Shepherd of Unwilling Paths.md",
     "edited": "2026-09-12T18:51:00.000Z",
-    "title": "Helki · The Shepherd of Unwilling Paths"
+    "title": "Helki · The Shepherd of Unwilling Paths",
+    "private": true
   },
   "3d958200-eb22-813f-ac99-e3e3309a2f2b": {
     "rel": "Volume VI — Character Cards/Vaelthor Ashen-Meridian · The Patient Throne.md",
     "edited": "2026-09-12T17:09:00.000Z",
-    "title": "Vaelthor Ashen-Meridian · The Patient Throne"
+    "title": "Vaelthor Ashen-Meridian · The Patient Throne",
+    "private": true
   },
   "3d958200-eb22-81da-b137-d321af0543f1": {
     "rel": "Volume VI — Character Cards/Beatrix Vaelthorn · The Root-Sworn.md",
     "edited": "2026-09-12T17:09:00.000Z",
-    "title": "Beatrix Vaelthorn · The Root-Sworn"
+    "title": "Beatrix Vaelthorn · The Root-Sworn",
+    "private": true
   },
   "3d958200-eb22-81f0-820b-c9a03f4018d7": {
     "rel": "Volume VI — Character Cards/Vaithesca · Oracle of the End.md",
     "edited": "2026-09-12T17:08:00.000Z",
-    "title": "Vaithesca · Oracle of the End"
+    "title": "Vaithesca · Oracle of the End",
+    "private": true
   },
   "3d958200-eb22-814d-bf74-f94a402317bb": {
     "rel": "Volume VI — Character Cards/Vorrn · The Fourth Weight.md",
     "edited": "2026-09-12T17:07:00.000Z",
-    "title": "Vorrn · The Fourth Weight"
+    "title": "Vorrn · The Fourth Weight",
+    "private": true
   },
   "3d958200-eb22-81dd-adc7-cbdef23dcbf6": {
     "rel": "Volume VI — Character Cards/Ilyria Draven Morningstar · Monochrome.md",
     "edited": "2026-09-12T17:07:00.000Z",
-    "title": "Ilyria Draven Morningstar · Monochrome"
+    "title": "Ilyria Draven Morningstar · Monochrome",
+    "private": true
   },
   "3d958200-eb22-81e3-b3ae-e9f0948ddd78": {
     "rel": "Volume VI — Character Cards/Seikai Hana-no-Kurai · The Ashen Paragon.md",
     "edited": "2026-09-12T17:06:00.000Z",
-    "title": "Seikai Hana-no-Kurai · The Ashen Paragon"
+    "title": "Seikai Hana-no-Kurai · The Ashen Paragon",
+    "private": true
   },
   "3d958200-eb22-81c7-a80a-ded610a0bb5f": {
     "rel": "Volume VI — Character Cards/The Fractured Dawn · Paragons of the Archons.md",
     "edited": "2026-09-12T18:51:00.000Z",
-    "title": "The Fractured Dawn · Paragons of the Archons"
+    "title": "The Fractured Dawn · Paragons of the Archons",
+    "private": true
   },
   "3d958200-eb22-8119-bc46-dd0862a1ed34": {
     "rel": "Characters/Volume VI — Character Cards.md",
     "edited": "2026-09-12T16:06:00.000Z",
-    "title": "Volume VI — Character Cards"
+    "title": "Volume VI — Character Cards",
+    "private": true
   },
   "3d958200-eb22-8113-ac4a-c528af2cc723": {
     "rel": "Volume V — Character Cards/Seri Zeliro-Vanthe · The Lantern-Fox.md",
     "edited": "2026-09-12T17:05:00.000Z",
-    "title": "Seri Zeliro-Vanthe · The Lantern-Fox"
+    "title": "Seri Zeliro-Vanthe · The Lantern-Fox",
+    "private": true
   },
   "3d958200-eb22-8141-9f6c-ef6478934506": {
     "rel": "Volume V — Character Cards/Khaeron Vant · The Ember Host.md",
     "edited": "2026-09-12T17:04:00.000Z",
-    "title": "Khaeron Vant · The Ember Host"
+    "title": "Khaeron Vant · The Ember Host",
+    "private": true
   },
   "3d958200-eb22-81c4-a28d-d7ba26f0bbe6": {
     "rel": "Volume V — Character Cards/Rhaevan Serathiel · The Velvet Executioner.md",
     "edited": "2026-09-12T17:04:00.000Z",
-    "title": "Rhaevan Serathiel · The Velvet Executioner"
+    "title": "Rhaevan Serathiel · The Velvet Executioner",
+    "private": true
   },
   "3d958200-eb22-81aa-8c22-e01fa043a30b": {
     "rel": "Volume V — Character Cards/Kaelis Aranthor · The Sunbound Blade.md",
     "edited": "2026-09-12T17:03:00.000Z",
-    "title": "Kaelis Aranthor · The Sunbound Blade"
+    "title": "Kaelis Aranthor · The Sunbound Blade",
+    "private": true
   },
   "3d958200-eb22-819d-ac8d-d223ee8dded0": {
     "rel": "Volume V — Character Cards/Ilyrion Vantheir · The Veiled Horn.md",
     "edited": "2026-09-12T17:02:00.000Z",
-    "title": "Ilyrion Vantheir · The Veiled Horn"
+    "title": "Ilyrion Vantheir · The Veiled Horn",
+    "private": true
   },
   "3d958200-eb22-81e5-864d-e2aed5b35dcc": {
     "rel": "Volume V — Character Cards/Elowen Mireille · The Porcelain Archivist.md",
     "edited": "2026-09-12T17:02:00.000Z",
-    "title": "Elowen Mireille · The Porcelain Archivist"
+    "title": "Elowen Mireille · The Porcelain Archivist",
+    "private": true
   },
   "3d958200-eb22-81c8-8884-ce97e6075050": {
     "rel": "Volume V — Character Cards/Marceline Vireaux · The Crimson Mourner.md",
     "edited": "2026-09-12T17:01:00.000Z",
-    "title": "Marceline Vireaux · The Crimson Mourner"
+    "title": "Marceline Vireaux · The Crimson Mourner",
+    "private": true
   },
   "3d958200-eb22-81b9-909c-c8378f644483": {
     "rel": "Volume V — Character Cards/Aurelian Veymont · The Lion of the Dawn.md",
     "edited": "2026-09-12T17:00:00.000Z",
-    "title": "Aurelian Veymont · The Lion of the Dawn"
+    "title": "Aurelian Veymont · The Lion of the Dawn",
+    "private": true
   },
   "3d958200-eb22-819d-bcfc-c122d09af21d": {
     "rel": "Volume V — Character Cards/Cyranthia Valez · The Gilded Marionette.md",
     "edited": "2026-09-12T17:00:00.000Z",
-    "title": "Cyranthia Valez · The Gilded Marionette"
+    "title": "Cyranthia Valez · The Gilded Marionette",
+    "private": true
   },
   "3d958200-eb22-81d8-9de4-f7e47be088e7": {
     "rel": "Volume V — Character Cards/Brynja Haldrís · Hammer of the Northroot.md",
     "edited": "2026-09-12T16:59:00.000Z",
-    "title": "Brynja Haldrís · Hammer of the Northroot"
+    "title": "Brynja Haldrís · Hammer of the Northroot",
+    "private": true
   },
   "3d958200-eb22-8187-aec2-dcf949793255": {
     "rel": "Volume V — Character Cards/Raymond Montclair · The Luthier of Quiet Roads.md",
     "edited": "2026-09-12T16:58:00.000Z",
-    "title": "Raymond Montclair · The Luthier of Quiet Roads"
+    "title": "Raymond Montclair · The Luthier of Quiet Roads",
+    "private": true
   },
   "3d958200-eb22-81f3-87a4-daf9467a1cc1": {
     "rel": "Volume V — Character Cards/Asaemon · The Vestal Vanguard.md",
     "edited": "2026-09-12T16:58:00.000Z",
-    "title": "Asaemon · The Vestal Vanguard"
+    "title": "Asaemon · The Vestal Vanguard",
+    "private": true
   },
   "3d958200-eb22-81af-be50-e87addf9dc47": {
     "rel": "Volume V — Character Cards/Aelum · The Pale Hierophant.md",
     "edited": "2026-09-12T16:57:00.000Z",
-    "title": "Aelum · The Pale Hierophant"
+    "title": "Aelum · The Pale Hierophant",
+    "private": true
   },
   "3d958200-eb22-812b-b35b-cde0ec8d5315": {
     "rel": "Volume V — Character Cards/Valthrum · The Cryon King.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Valthrum · The Cryon King"
+    "title": "Valthrum · The Cryon King",
+    "private": true
   },
   "3d958200-eb22-8172-905e-db586b626820": {
     "rel": "Volume V — Character Cards/Lyra Drakoshi · Pink Flame.md",
     "edited": "2026-09-12T16:56:00.000Z",
-    "title": "Lyra Drakoshi · Pink Flame"
+    "title": "Lyra Drakoshi · Pink Flame",
+    "private": true
   },
   "3d958200-eb22-8122-a6c5-fd2ef48ee1dd": {
     "rel": "Volume V — Character Cards/Seraphine Lurielle · Lilac Gaze.md",
     "edited": "2026-09-12T16:55:00.000Z",
-    "title": "Seraphine Lurielle · Lilac Gaze"
+    "title": "Seraphine Lurielle · Lilac Gaze",
+    "private": true
   },
   "3d958200-eb22-8174-afb6-e643960f0230": {
     "rel": "Volume V — Character Cards/Shiro Kitsunari · Little White Fox.md",
     "edited": "2026-09-12T16:55:00.000Z",
-    "title": "Shiro Kitsunari · Little White Fox"
+    "title": "Shiro Kitsunari · Little White Fox",
+    "private": true
   },
   "3d958200-eb22-81d7-a691-e0226b730635": {
     "rel": "Volume V — Character Cards/Zahur Vane · The Silt Walker.md",
     "edited": "2026-09-12T16:54:00.000Z",
-    "title": "Zahur Vane · The Silt Walker"
+    "title": "Zahur Vane · The Silt Walker",
+    "private": true
   },
   "3d958200-eb22-81b0-9cde-c5306c2b59ba": {
     "rel": "Volume V — Character Cards/Garu Luneward · Winter Hound of the March.md",
     "edited": "2026-09-12T16:53:00.000Z",
-    "title": "Garu Luneward · Winter Hound of the March"
+    "title": "Garu Luneward · Winter Hound of the March",
+    "private": true
   },
   "3d958200-eb22-8171-b690-ee09fa5a3ee0": {
     "rel": "Volume V — Character Cards/Saetsha Bloomveil · The Pink Tempest.md",
     "edited": "2026-09-12T16:53:00.000Z",
-    "title": "Saetsha Bloomveil · The Pink Tempest"
+    "title": "Saetsha Bloomveil · The Pink Tempest",
+    "private": true
   },
   "3d958200-eb22-8179-bc7b-c79b4a9edd9b": {
     "rel": "Volume V — Character Cards/Aren Vallestride · Stone-Runner.md",
     "edited": "2026-09-12T16:52:00.000Z",
-    "title": "Aren Vallestride · Stone-Runner"
+    "title": "Aren Vallestride · Stone-Runner",
+    "private": true
   },
   "3d958200-eb22-8133-ab0d-c3d3d23d6b91": {
     "rel": "Volume V — Character Cards/Liorien Nael-Teth · Sleepless Quill.md",
     "edited": "2026-09-12T16:52:00.000Z",
-    "title": "Liorien Nael-Teth · Sleepless Quill"
+    "title": "Liorien Nael-Teth · Sleepless Quill",
+    "private": true
   },
   "3d958200-eb22-8192-ab62-ffe091036c27": {
     "rel": "Volume V — Character Cards/Ryuka Yukari · The Little Wayfinder.md",
     "edited": "2026-09-12T16:51:00.000Z",
-    "title": "Ryuka Yukari · The Little Wayfinder"
+    "title": "Ryuka Yukari · The Little Wayfinder",
+    "private": true
   },
   "3d958200-eb22-81fe-ad9d-f25beb89b09e": {
     "rel": "Volume V — Character Cards/Kairen Moto · The Iron-Root.md",
     "edited": "2026-09-12T18:48:00.000Z",
-    "title": "Kairen Moto · The Iron-Root"
+    "title": "Kairen Moto · The Iron-Root",
+    "private": true
   },
   "3d958200-eb22-81e1-a5a2-e8f0627274f6": {
     "rel": "Volume V — Character Cards/Sairin Kazuren · The Still Point.md",
     "edited": "2026-09-12T18:51:00.000Z",
-    "title": "Sairin Kazuren · The Still Point"
+    "title": "Sairin Kazuren · The Still Point",
+    "private": true
   },
   "3d958200-eb22-814b-9bb1-e751a85ef1b6": {
     "rel": "Volume V — Character Cards/Shiran Kazuren · The Umbra Lantern.md",
     "edited": "2026-09-12T18:51:00.000Z",
-    "title": "Shiran Kazuren · The Umbra Lantern"
+    "title": "Shiran Kazuren · The Umbra Lantern",
+    "private": true
   },
   "3d958200-eb22-8168-9a63-f23159740493": {
     "rel": "Volume V — Character Cards/Lumen Varos · The Dawn-Touched Oracle.md",
     "edited": "2026-09-12T16:48:00.000Z",
-    "title": "Lumen Varos · The Dawn-Touched Oracle"
+    "title": "Lumen Varos · The Dawn-Touched Oracle",
+    "private": true
   },
   "3d958200-eb22-81f7-bdc8-ddb68fe44de5": {
     "rel": "Volume V — Character Cards/Cyrus Vellhar · The Azure Warden.md",
     "edited": "2026-09-12T16:48:00.000Z",
-    "title": "Cyrus Vellhar · The Azure Warden"
+    "title": "Cyrus Vellhar · The Azure Warden",
+    "private": true
   },
   "3d958200-eb22-8144-83f2-fdc7c69baa06": {
     "rel": "Volume V — Character Cards/Ravenn Kaelor · The Pale Gale.md",
     "edited": "2026-09-12T16:47:00.000Z",
-    "title": "Ravenn Kaelor · The Pale Gale"
+    "title": "Ravenn Kaelor · The Pale Gale",
+    "private": true
   },
   "3d958200-eb22-818b-9db0-da90ff2681f1": {
     "rel": "Volume V — Character Cards/Karu Velnar · The Shackled Tempest.md",
     "edited": "2026-09-12T16:46:00.000Z",
-    "title": "Karu Velnar · The Shackled Tempest"
+    "title": "Karu Velnar · The Shackled Tempest",
+    "private": true
   },
   "3d958200-eb22-81c3-be93-e2f29ef60e39": {
     "rel": "Volume V — Character Cards/Raelen Vor'Skai · The Gilded Scourge.md",
     "edited": "2026-09-12T16:46:00.000Z",
-    "title": "Raelen Vor'Skai · The Gilded Scourge"
+    "title": "Raelen Vor'Skai · The Gilded Scourge",
+    "private": true
   },
   "3d958200-eb22-81af-80a8-ed2301259d80": {
     "rel": "Volume V — Character Cards/Azhura Vyren · The Azure Coilblade.md",
     "edited": "2026-09-12T16:45:00.000Z",
-    "title": "Azhura Vyren · The Azure Coilblade"
+    "title": "Azhura Vyren · The Azure Coilblade",
+    "private": true
   },
   "3d958200-eb22-81b4-a204-d34820424574": {
     "rel": "Volume V — Character Cards/Aethryn · The Twin-Sigiled Foundling.md",
     "edited": "2026-09-12T16:45:00.000Z",
-    "title": "Aethryn · The Twin-Sigiled Foundling"
+    "title": "Aethryn · The Twin-Sigiled Foundling",
+    "private": true
   },
   "3d958200-eb22-81f2-99ba-ce42acca6b3b": {
     "rel": "Volume V — Character Cards/Aeldoris Vanthryx · The Ruthless.md",
     "edited": "2026-09-12T16:44:00.000Z",
-    "title": "Aeldoris Vanthryx · The Ruthless"
+    "title": "Aeldoris Vanthryx · The Ruthless",
+    "private": true
   },
   "3d958200-eb22-81c5-942f-fbe6e631449a": {
     "rel": "Volume V — Character Cards/Drakvor · The Black-Crowned Bastion.md",
     "edited": "2026-09-12T16:43:00.000Z",
-    "title": "Drakvor · The Black-Crowned Bastion"
+    "title": "Drakvor · The Black-Crowned Bastion",
+    "private": true
   },
   "3d958200-eb22-8113-accc-f58b73c91da6": {
     "rel": "Volume V — Character Cards/Kaelan Vorn · The Axiomatic Sovereign.md",
     "edited": "2026-09-12T16:43:00.000Z",
-    "title": "Kaelan Vorn · The Axiomatic Sovereign"
+    "title": "Kaelan Vorn · The Axiomatic Sovereign",
+    "private": true
   },
   "3d958200-eb22-81be-af23-d06cf46b2c85": {
     "rel": "Volume V — Character Cards/Francis Alexander · The Crimson Dirge of Atonement.md",
     "edited": "2026-09-12T16:42:00.000Z",
-    "title": "Francis Alexander · The Crimson Dirge of Atonement"
+    "title": "Francis Alexander · The Crimson Dirge of Atonement",
+    "private": true
   },
   "3d958200-eb22-81b1-ad6b-d054fcbe1872": {
     "rel": "Volume V — Character Cards/Xhael Ten'Kor · The Ember Regent.md",
     "edited": "2026-09-12T16:41:00.000Z",
-    "title": "Xhael Ten'Kor · The Ember Regent"
+    "title": "Xhael Ten'Kor · The Ember Regent",
+    "private": true
   },
   "3d958200-eb22-81d0-aa9e-ecf69db979ee": {
     "rel": "Volume V — Character Cards/Kaien Thal'Ruhm · The Gilded Nomad.md",
     "edited": "2026-09-12T16:41:00.000Z",
-    "title": "Kaien Thal'Ruhm · The Gilded Nomad"
+    "title": "Kaien Thal'Ruhm · The Gilded Nomad",
+    "private": true
   },
   "3d958200-eb22-8162-aad7-d80b2a1e5b88": {
     "rel": "Volume V — Character Cards/Rafik Al'Seren · The Sapphire Mirage.md",
     "edited": "2026-09-12T16:40:00.000Z",
-    "title": "Rafik Al'Seren · The Sapphire Mirage"
+    "title": "Rafik Al'Seren · The Sapphire Mirage",
+    "private": true
   },
   "3d958200-eb22-8124-8198-d9b93357641b": {
     "rel": "Volume V — Character Cards/Ser Caldran Veiss · The Pale Knight of Vergegate.md",
     "edited": "2026-09-12T16:39:00.000Z",
-    "title": "Ser Caldran Veiss · The Pale Knight of Vergegate"
+    "title": "Ser Caldran Veiss · The Pale Knight of Vergegate",
+    "private": true
   },
   "3d958200-eb22-81a4-9093-c5d1bc66d8d6": {
     "rel": "Volume V — Character Cards/Garron Vuldane · Warden of Thaumar.md",
     "edited": "2026-09-12T16:39:00.000Z",
-    "title": "Garron Vuldane · Warden of Thaumar"
+    "title": "Garron Vuldane · Warden of Thaumar",
+    "private": true
   },
   "3d958200-eb22-811f-b07d-ced7f73a4ed4": {
     "rel": "Volume V — Character Cards/Serai Linthra · The Serpent Alchemist.md",
     "edited": "2026-09-12T16:38:00.000Z",
-    "title": "Serai Linthra · The Serpent Alchemist"
+    "title": "Serai Linthra · The Serpent Alchemist",
+    "private": true
   },
   "3d958200-eb22-815a-931a-d184a59fffa8": {
     "rel": "Volume V — Character Cards/Kael Serradyn · The Burnmark.md",
     "edited": "2026-09-12T16:38:00.000Z",
-    "title": "Kael Serradyn · The Burnmark"
+    "title": "Kael Serradyn · The Burnmark",
+    "private": true
   },
   "3d958200-eb22-8153-a121-c95fff247018": {
     "rel": "Volume V — Character Cards/Valthren Odrin · The Lantern Scribe.md",
     "edited": "2026-09-12T16:37:00.000Z",
-    "title": "Valthren Odrin · The Lantern Scribe"
+    "title": "Valthren Odrin · The Lantern Scribe",
+    "private": true
   },
   "3d958200-eb22-81ce-a461-f576b5eb5111": {
     "rel": "Volume V — Character Cards/Elion Drevas · The Black Cleric.md",
     "edited": "2026-09-12T20:01:00.000Z",
-    "title": "Elion Drevas · The Black Cleric"
+    "title": "Elion Drevas · The Black Cleric",
+    "private": true
   },
   "3d958200-eb22-81a0-b727-ee3bfb9cbad7": {
     "rel": "Volume V — Character Cards/Mavra Cindrel · The Golden Engine.md",
     "edited": "2026-09-12T16:36:00.000Z",
-    "title": "Mavra Cindrel · The Golden Engine"
+    "title": "Mavra Cindrel · The Golden Engine",
+    "private": true
   },
   "3d958200-eb22-810b-aee5-f17d3ac1964a": {
     "rel": "Volume V — Character Cards/Draen Varos · The Red Forge Sentinel.md",
     "edited": "2026-09-12T16:35:00.000Z",
-    "title": "Draen Varos · The Red Forge Sentinel"
+    "title": "Draen Varos · The Red Forge Sentinel",
+    "private": true
   },
   "3d958200-eb22-8140-8807-ec89b48d5809": {
     "rel": "Volume V — Character Cards/Valen Karth · The Breakstorm Vanguard.md",
     "edited": "2026-09-12T16:34:00.000Z",
-    "title": "Valen Karth · The Breakstorm Vanguard"
+    "title": "Valen Karth · The Breakstorm Vanguard",
+    "private": true
   },
   "3d958200-eb22-812a-8621-e99e982591aa": {
     "rel": "Volume V — Character Cards/Kaien Rhuven · The Silent Apothege.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Kaien Rhuven · The Silent Apothege"
+    "title": "Kaien Rhuven · The Silent Apothege",
+    "private": true
   },
   "3d958200-eb22-81eb-b624-e7312f7ee77c": {
     "rel": "Volume V — Character Cards/Azelra Kaine · The Incendiant Veil.md",
     "edited": "2026-09-12T16:33:00.000Z",
-    "title": "Azelra Kaine · The Incendiant Veil"
+    "title": "Azelra Kaine · The Incendiant Veil",
+    "private": true
   },
   "3d958200-eb22-817d-b602-f6f697e2d1a9": {
     "rel": "Volume V — Character Cards/Rik'Lye · The Forbidden Vessel.md",
     "edited": "2026-09-12T16:32:00.000Z",
-    "title": "Rik'Lye · The Forbidden Vessel"
+    "title": "Rik'Lye · The Forbidden Vessel",
+    "private": true
   },
   "3d958200-eb22-81d4-8699-dc882387f91b": {
     "rel": "Volume V — Character Cards/Kaelric Varnier · The Silver Veil.md",
     "edited": "2026-09-12T16:32:00.000Z",
-    "title": "Kaelric Varnier · The Silver Veil"
+    "title": "Kaelric Varnier · The Silver Veil",
+    "private": true
   },
   "3d958200-eb22-81dc-b521-dd7ca5656d4a": {
     "rel": "Volume V — Character Cards/Maeron Iskare · The Silent Oracle.md",
     "edited": "2026-09-12T16:31:00.000Z",
-    "title": "Maeron Iskare · The Silent Oracle"
+    "title": "Maeron Iskare · The Silent Oracle",
+    "private": true
   },
   "3d958200-eb22-8138-8dda-f74ea5945f55": {
     "rel": "Volume V — Character Cards/Lyss Arvale · The Quiet Swan.md",
     "edited": "2026-09-12T20:01:00.000Z",
-    "title": "Lyss Arvale · The Quiet Swan"
+    "title": "Lyss Arvale · The Quiet Swan",
+    "private": true
   },
   "3d958200-eb22-81e1-b9a8-c67d08c6a7f0": {
     "rel": "Volume V — Character Cards/Cael Dareth · The Pale Crucible.md",
     "edited": "2026-09-12T16:29:00.000Z",
-    "title": "Cael Dareth · The Pale Crucible"
+    "title": "Cael Dareth · The Pale Crucible",
+    "private": true
   },
   "3d958200-eb22-8155-a552-c94e53286e22": {
     "rel": "Volume V — Character Cards/Iryen Maevith · The Serene Gale.md",
     "edited": "2026-09-12T16:29:00.000Z",
-    "title": "Iryen Maevith · The Serene Gale"
+    "title": "Iryen Maevith · The Serene Gale",
+    "private": true
   },
   "3d958200-eb22-8183-952c-fcdd669a0867": {
     "rel": "Volume V — Character Cards/Arven Solthiel · The Smiling Veil.md",
     "edited": "2026-09-12T16:28:00.000Z",
-    "title": "Arven Solthiel · The Smiling Veil"
+    "title": "Arven Solthiel · The Smiling Veil",
+    "private": true
   },
   "3d958200-eb22-8142-8a9c-ddbceceb9f5a": {
     "rel": "Volume V — Character Cards/Ameiya Solvain · Rain of the Bound Sky.md",
     "edited": "2026-09-12T16:27:00.000Z",
-    "title": "Ameiya Solvain · Rain of the Bound Sky"
+    "title": "Ameiya Solvain · Rain of the Bound Sky",
+    "private": true
   },
   "3d958200-eb22-81c4-8a25-f459e2b41374": {
     "rel": "Volume V — Character Cards/Tsukihana Reimei · Moon-Bloom at Dawn.md",
     "edited": "2026-09-12T20:02:00.000Z",
-    "title": "Tsukihana Reimei · Moon-Bloom at Dawn"
+    "title": "Tsukihana Reimei · Moon-Bloom at Dawn",
+    "private": true
   },
   "3d958200-eb22-81e9-8139-e393091aeea5": {
     "rel": "Volume V — Character Cards/Argen Vael'thar · The White Arbiter.md",
     "edited": "2026-09-12T20:01:00.000Z",
-    "title": "Argen Vael'thar · The White Arbiter"
+    "title": "Argen Vael'thar · The White Arbiter",
+    "private": true
   },
   "3d958200-eb22-81d2-acf6-db22e335efd1": {
     "rel": "Volume V — Character Cards/Rajhak Tarun · The Ember-Blooded.md",
     "edited": "2026-09-12T16:26:00.000Z",
-    "title": "Rajhak Tarun · The Ember-Blooded"
+    "title": "Rajhak Tarun · The Ember-Blooded",
+    "private": true
   },
   "3d958200-eb22-81bf-b701-cc96aaffd81a": {
     "rel": "Volume V — Character Cards/Lyssara Veyn · The Black Chrysalis.md",
     "edited": "2026-09-12T20:01:00.000Z",
-    "title": "Lyssara Veyn · The Black Chrysalis"
+    "title": "Lyssara Veyn · The Black Chrysalis",
+    "private": true
   },
   "3d958200-eb22-81ae-a271-c9b33f8cb6eb": {
     "rel": "Volume V — Character Cards/Dr. Vaelion Rhest · The Sleepless Theorist.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Dr. Vaelion Rhest · The Sleepless Theorist"
+    "title": "Dr. Vaelion Rhest · The Sleepless Theorist",
+    "private": true
   },
   "3d958200-eb22-817b-adbe-e004ce3d6cc8": {
     "rel": "Volume V — Character Cards/Rheon Kaeth · The Emberline.md",
     "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Rheon Kaeth · The Emberline"
+    "title": "Rheon Kaeth · The Emberline",
+    "private": true
   },
   "3d958200-eb22-812c-a956-d16a32c3350e": {
     "rel": "Volume V — Character Cards/Kaelrith Dorne · The Iron Wound.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Kaelrith Dorne · The Iron Wound"
+    "title": "Kaelrith Dorne · The Iron Wound",
+    "private": true
   },
   "3d958200-eb22-81ff-9e6f-eb9b8929c149": {
     "rel": "Volume V — Character Cards/Seren Valenne · The Grey Adjudicator.md",
     "edited": "2026-09-12T18:54:00.000Z",
-    "title": "Seren Valenne · The Grey Adjudicator"
+    "title": "Seren Valenne · The Grey Adjudicator",
+    "private": true
   },
   "3d958200-eb22-8107-a768-c70bae86432a": {
     "rel": "Volume V — Character Cards/Elthiré Maen · The Wandering String.md",
     "edited": "2026-09-12T16:22:00.000Z",
-    "title": "Elthiré Maen · The Wandering String"
+    "title": "Elthiré Maen · The Wandering String",
+    "private": true
   },
   "3d958200-eb22-8187-b75c-eb9e1d491598": {
     "rel": "Volume V — Character Cards/Varuun Daskorr · The Unbent Crown.md",
     "edited": "2026-09-12T16:21:00.000Z",
-    "title": "Varuun Daskorr · The Unbent Crown"
+    "title": "Varuun Daskorr · The Unbent Crown",
+    "private": true
   },
   "3d958200-eb22-81c8-819c-d4d9cd82bdeb": {
     "rel": "Volume V — Character Cards/Kaelzar · The Forge That Roars.md",
     "edited": "2026-09-12T16:20:00.000Z",
-    "title": "Kaelzar · The Forge That Roars"
+    "title": "Kaelzar · The Forge That Roars",
+    "private": true
   },
   "3d958200-eb22-81a8-a663-ca20efda6a0d": {
     "rel": "Volume V — Character Cards/Seraphine Kharza · Ten Thousand Hands.md",
     "edited": "2026-09-12T16:20:00.000Z",
-    "title": "Seraphine Kharza · Ten Thousand Hands"
+    "title": "Seraphine Kharza · Ten Thousand Hands",
+    "private": true
   },
   "3d958200-eb22-8129-93de-cf51552cb5d1": {
     "rel": "Volume V — Character Cards/Khan Kirv · The Veil-Khan of the Dry Courts.md",
     "edited": "2026-09-12T16:19:00.000Z",
-    "title": "Khan Kirv · The Veil-Khan of the Dry Courts"
+    "title": "Khan Kirv · The Veil-Khan of the Dry Courts",
+    "private": true
   },
   "3d958200-eb22-81d0-ba25-d7621cd6be59": {
     "rel": "Volume V — Character Cards/Khasir Aluto · The Isocline Scribe.md",
     "edited": "2026-09-12T16:19:00.000Z",
-    "title": "Khasir Aluto · The Isocline Scribe"
+    "title": "Khasir Aluto · The Isocline Scribe",
+    "private": true
   },
   "3d958200-eb22-815a-ad87-f599ab3d6297": {
     "rel": "Volume V — Character Cards/Kozakura Shion · The Bloomwarden.md",
     "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Kozakura Shion · The Bloomwarden"
+    "title": "Kozakura Shion · The Bloomwarden",
+    "private": true
   },
   "3d958200-eb22-8100-b034-f7348d4ecc2c": {
     "rel": "Volume IV — Character Cards/Zahir Ashveil · Desert's Fang.md",
     "edited": "2026-09-12T16:17:00.000Z",
-    "title": "Zahir Ashveil · Desert's Fang"
+    "title": "Zahir Ashveil · Desert's Fang",
+    "private": true
   },
   "3d958200-eb22-81f4-a05e-c613998ec7b2": {
     "rel": "Volume IV — Character Cards/Ziyu Pip Inari · The Two-Tailed Cipher.md",
     "edited": "2026-09-12T16:16:00.000Z",
-    "title": "Ziyu \"Pip\" Inari · The Two-Tailed Cipher"
+    "title": "Ziyu \"Pip\" Inari · The Two-Tailed Cipher",
+    "private": true
   },
   "3d958200-eb22-816b-b1b5-ca90d76b68d9": {
     "rel": "The Bearing and the Holding/Kushara — The Land That Remembers Weight.md",
@@ -2891,7 +3157,7 @@
   },
   "3d958200-eb22-80a4-b8f3-cc2c16241f7d": {
     "rel": "Misc/Information not on WIKI.md",
-    "edited": "2026-09-13T23:11:00.000Z",
+    "edited": "2026-09-22T14:32:00.000Z",
     "title": "Information not on WIKI",
     "private": true
   },
@@ -2948,7 +3214,8 @@
   "3db58200-eb22-8171-9521-d895c1fe2e67": {
     "rel": "Volume V — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md",
     "edited": "2026-09-14T02:10:00.000Z",
-    "title": "Serenyra Vaelith · The Archmagus of the Grove-Spired Crown"
+    "title": "Serenyra Vaelith · The Archmagus of the Grove-Spired Crown",
+    "private": true
   },
   "3dc58200-eb22-81d0-8cc0-cae6c69e8ff7": {
     "rel": "Factions, Bloodlines & Institutions/The Holy Inquisition.md",
@@ -2999,126 +3266,157 @@
   "3df58200-eb22-816a-b489-cba6b2aa6ef9": {
     "rel": "Volume I — Character Cards/Kinjiki, The Inversion.md",
     "edited": "2026-09-18T20:52:00.000Z",
-    "title": "Kinjiki, The Inversion"
+    "title": "Kinjiki, The Inversion",
+    "private": true
   },
   "3e058200-eb22-81ee-bfa6-ee0785f793ac": {
     "rel": "Volume I — Character Cards/Hiromi Mahuo.md",
     "edited": "2026-09-19T01:39:00.000Z",
-    "title": "Hiromi Mahuo"
+    "title": "Hiromi Mahuo",
+    "private": true
   },
   "3e058200-eb22-819a-be45-e0609e1102db": {
     "rel": "Volume I — Character Cards/Geturo Mahuo.md",
     "edited": "2026-09-19T01:41:00.000Z",
-    "title": "Geturo Mahuo"
+    "title": "Geturo Mahuo",
+    "private": true
   },
   "3e058200-eb22-816d-b0aa-eeeb5b6499bd": {
     "rel": "Volume I — Character Cards/Lily Mahuo.md",
     "edited": "2026-09-19T01:39:00.000Z",
-    "title": "Lily Mahuo"
+    "title": "Lily Mahuo",
+    "private": true
   },
   "3e058200-eb22-818a-9903-e9116936db3e": {
     "rel": "Volume I — Character Cards/Rikudoku Moto.md",
     "edited": "2026-09-19T01:47:00.000Z",
-    "title": "Rikudoku Moto"
+    "title": "Rikudoku Moto",
+    "private": true
   },
   "3e058200-eb22-815e-88b2-f1f38c42b4bf": {
     "rel": "Volume I — Character Cards/Xanelor Rafiminar.md",
     "edited": "2026-09-19T01:41:00.000Z",
-    "title": "Xanelor Rafiminar"
+    "title": "Xanelor Rafiminar",
+    "private": true
   },
   "3e058200-eb22-8128-8104-ec45f49dec89": {
     "rel": "Volume I — Character Cards/Naori Yukari.md",
     "edited": "2026-09-19T01:39:00.000Z",
-    "title": "Naori Yukari"
+    "title": "Naori Yukari",
+    "private": true
   },
   "3e058200-eb22-818e-b371-e0821fc1da70": {
     "rel": "Volume I — Character Cards/Akira Yukari.md",
     "edited": "2026-09-19T01:39:00.000Z",
-    "title": "Akira Yukari"
+    "title": "Akira Yukari",
+    "private": true
   },
   "3e358200-eb22-816d-a322-ca88ed8aa66b": {
     "rel": "Volume I — Character Cards/Qiu Yinzhi.md",
-    "edited": "2026-09-22T10:10:00.000Z",
-    "title": "Qiu Yinzhi"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Qiu Yinzhi",
+    "private": true
   },
   "3e358200-eb22-81ee-8c69-c23f29b209d7": {
     "rel": "Volume I — Character Cards/Nol Tally.md",
-    "edited": "2026-09-22T10:10:00.000Z",
-    "title": "Nol Tally"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Nol Tally",
+    "private": true
   },
   "3e358200-eb22-81d1-9417-fbb9662823fe": {
     "rel": "Volume I — Character Cards/Edwyn Brack.md",
-    "edited": "2026-09-22T10:10:00.000Z",
-    "title": "Edwyn Brack"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Edwyn Brack",
+    "private": true
   },
   "3e358200-eb22-8136-891b-fa2974880fee": {
     "rel": "Volume I — Character Cards/Vesk.md",
-    "edited": "2026-09-22T10:10:00.000Z",
-    "title": "Vesk"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Vesk",
+    "private": true
   },
   "3e358200-eb22-813b-93b8-ee2dd9d5bfe3": {
     "rel": "Volume I — Character Cards/Ilmar Foss.md",
-    "edited": "2026-09-22T10:10:00.000Z",
-    "title": "Ilmar Foss"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Ilmar Foss",
+    "private": true
   },
   "3e358200-eb22-8192-a22e-e9b9566111b9": {
     "rel": "Volume I — Character Cards/Nuvalik.md",
-    "edited": "2026-09-22T10:11:00.000Z",
-    "title": "Nuvalik"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Nuvalik",
+    "private": true
   },
   "3e358200-eb22-8199-8f06-ea7e25369e73": {
     "rel": "Volume I — Character Cards/Xu Deming.md",
-    "edited": "2026-09-22T10:11:00.000Z",
-    "title": "Xu Deming"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Xu Deming",
+    "private": true
   },
   "3e358200-eb22-8105-939b-dec93181c777": {
     "rel": "Volume I — Character Cards/Lu Sanjing.md",
-    "edited": "2026-09-22T10:11:00.000Z",
-    "title": "Lu Sanjing"
+    "edited": "2026-09-22T14:31:00.000Z",
+    "title": "Lu Sanjing",
+    "private": true
   },
   "3e358200-eb22-8154-a4fb-f45f20da6923": {
     "rel": "Volume I — Character Cards/Kujo.md",
-    "edited": "2026-09-22T10:37:19",
-    "title": "Kujo"
+    "edited": "2026-09-22T14:37:00.000Z",
+    "title": "Kujo",
+    "private": true
   },
   "3e358200-eb22-8126-b8a6-e835eed6ee87": {
     "rel": "Volume I — Character Cards/Sonzai Moto.md",
-    "edited": "2026-09-22T10:38:49",
-    "title": "Sonzai Moto"
+    "edited": "2026-09-22T14:38:00.000Z",
+    "title": "Sonzai Moto",
+    "private": true
   },
   "3e358200-eb22-81bb-85bf-cd011788bdad": {
     "rel": "Volume I — Character Cards/Asante.md",
-    "edited": "2026-09-22T10:40:06",
-    "title": "Asante"
+    "edited": "2026-09-22T14:40:00.000Z",
+    "title": "Asante",
+    "private": true
   },
   "3e358200-eb22-810b-bda6-c687bad724e1": {
     "rel": "Volume I — Character Cards/Zuberi.md",
-    "edited": "2026-09-22T10:41:28",
-    "title": "Zuberi"
+    "edited": "2026-09-22T14:41:00.000Z",
+    "title": "Zuberi",
+    "private": true
   },
   "3e358200-eb22-819d-949c-cb26ceddfe93": {
     "rel": "Volume I — Character Cards/Haruki Yuno.md",
-    "edited": "2026-09-22T10:42:51",
-    "title": "Haruki Yuno"
+    "edited": "2026-09-22T14:42:00.000Z",
+    "title": "Haruki Yuno",
+    "private": true
   },
   "3e358200-eb22-8125-9378-d1c6cf98a7e5": {
     "rel": "Volume I — Character Cards/Bryndís.md",
-    "edited": "2026-09-22T10:43:56",
-    "title": "Bryndís"
+    "edited": "2026-09-22T14:43:00.000Z",
+    "title": "Bryndís",
+    "private": true
   },
   "3e358200-eb22-8116-bd1a-fc49a88f885a": {
     "rel": "Volume I — Character Cards/Emira.md",
-    "edited": "2026-09-22T10:45:06",
-    "title": "Emira"
+    "edited": "2026-09-22T14:45:00.000Z",
+    "title": "Emira",
+    "private": true
   },
   "3e358200-eb22-816e-ac0e-c28807f3a18d": {
     "rel": "Volume I — Character Cards/Kaalabad.md",
-    "edited": "2026-09-22T10:46:22",
-    "title": "Kaalabad"
+    "edited": "2026-09-22T14:46:00.000Z",
+    "title": "Kaalabad",
+    "private": true
   },
   "3e358200-eb22-8166-91a4-e7499fc2b381": {
     "rel": "Volume I — Character Cards/Corwin Sesk.md",
-    "edited": "2026-09-22T10:47:26",
-    "title": "Corwin Sesk"
+    "edited": "2026-09-22T14:47:00.000Z",
+    "title": "Corwin Sesk",
+    "private": true
+  },
+  "3e358200-eb22-8116-9454-faa55bc0126a": {
+    "rel": "The Table — Running Pieces/State of Play — Kwon Mu-jin Aetherion Academy.md",
+    "edited": "2026-09-22T15:08:00.000Z",
+    "title": "State of Play — Kwon Mu-jin / Aetherion Academy",
+    "private": true
   }
 }

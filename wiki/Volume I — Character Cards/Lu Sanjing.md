@@ -4,8 +4,8 @@ notion_id: "3e358200-eb22-8105-939b-dec93181c777"
 notion_url: "https://app.notion.com/p/Lu-Sanjing-3e358200eb228105939bdec93181c777"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-22T10:11:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-22T14:31:00.000Z"
+verification: null
 ---
 
 # Lu Sanjing

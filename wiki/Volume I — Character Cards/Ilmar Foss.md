@@ -4,8 +4,8 @@ notion_id: "3e358200-eb22-813b-93b8-ee2dd9d5bfe3"
 notion_url: "https://app.notion.com/p/Ilmar-Foss-3e358200eb22813b93b8ee2dd9d5bfe3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-22T10:10:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-22T14:31:00.000Z"
+verification: null
 ---
 
 # Ilmar Foss

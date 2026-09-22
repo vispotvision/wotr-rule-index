@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-610 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+620 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -34,9 +34,8 @@
 
 - [The Bestiary](Bestiary/The%20Bestiary.md)
 
-## Characters (6)
+## Characters (5)
 
-- [Characters](Characters/Characters.md)
 - [Volume I — Character Cards](Characters/Volume%20I%20—%20Character%20Cards.md)
 - [Volume III — Character Cards](Characters/Volume%20III%20—%20Character%20Cards.md)
 - [Volume IV — Character Cards](Characters/Volume%20IV%20—%20Character%20Cards.md)
@@ -125,8 +124,9 @@
 - [The Zettari–Mahou Accord](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Zettari–Mahou%20Accord.md)
 - [To Ara Min Mahuo](In-World%20Documents%20&%20the%20Narrative%20Archive/To%20Ara%20Min%20Mahuo.md)
 
-## Information not on WIKI (2)
+## Information not on WIKI (3)
 
+- [Characters](Information%20not%20on%20WIKI/Characters.md)
 - [In-World Documents & the Narrative Archive](Information%20not%20on%20WIKI/In-World%20Documents%20&%20the%20Narrative%20Archive.md)
 - [Pack Twenty — The Clearance](Information%20not%20on%20WIKI/Pack%20Twenty%20—%20The%20Clearance.md)
 
@@ -457,7 +457,7 @@
 - [The Infinite Summoning Arts](The%20Spirit%20Summoning%20Arts/The%20Infinite%20Summoning%20Arts.md)
 - [The Twelve Stages of Spirit Infusion](The%20Spirit%20Summoning%20Arts/The%20Twelve%20Stages%20of%20Spirit%20Infusion.md)
 
-## The Table — Running Pieces (10)
+## The Table — Running Pieces (11)
 
 - [Fronts](The%20Table%20—%20Running%20Pieces/Fronts.md)
 - [Fronts, as clocks](The%20Table%20—%20Running%20Pieces/Fronts,%20as%20clocks.md)
@@ -465,6 +465,7 @@
 - [Open Rulings — The Docket](The%20Table%20—%20Running%20Pieces/Open%20Rulings%20—%20The%20Docket.md)
 - [State of Play — Hild Ice / Kharven-Seat](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Hild%20Ice%20Kharven-Seat.md)
 - [State of Play — Ilthára Korvaeth / The New World](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Ilthára%20Korvaeth%20The%20New%20World.md)
+- [State of Play — Kwon Mu-jin / Aetherion Academy](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Aetherion%20Academy.md)
 - [State of Play — Kwon Mu-jin / Hon-guk](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Kwon%20Mu-jin%20Hon-guk.md)
 - [State of Play — Sodoku Moto / Kharven](The%20Table%20—%20Running%20Pieces/State%20of%20Play%20—%20Sodoku%20Moto%20Kharven.md)
 - [The Ledger](The%20Table%20—%20Running%20Pieces/The%20Ledger.md)
@@ -499,35 +500,42 @@
 - [The Paths](The%20Zettari/The%20Paths.md)
 - [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
-## Volume I — Character Cards (65)
+## Volume I — Character Cards (74)
 
 - [Akira Yukari](Volume%20I%20—%20Character%20Cards/Akira%20Yukari.md)
 - [Anryū Ichimonji](Volume%20I%20—%20Character%20Cards/Anryū%20Ichimonji.md)
 - [Ara Min Mahuo](Volume%20I%20—%20Character%20Cards/Ara%20Min%20Mahuo.md)
 - [Artemis Amagiri Moto](Volume%20I%20—%20Character%20Cards/Artemis%20Amagiri%20Moto.md)
+- [Asante](Volume%20I%20—%20Character%20Cards/Asante.md)
 - [Aurelian Prudentius Custos Clausorum · The Primate](Volume%20I%20—%20Character%20Cards/Aurelian%20Prudentius%20Custos%20Clausorum%20·%20The%20Primate.md)
 - [Ayame Yuno](Volume%20I%20—%20Character%20Cards/Ayame%20Yuno.md)
 - [Borin Ironheart · The Master of the Soul Forge](Volume%20I%20—%20Character%20Cards/Borin%20Ironheart%20·%20The%20Master%20of%20the%20Soul%20Forge.md)
 - [Bram Greymane — The Ridge](Volume%20I%20—%20Character%20Cards/Bram%20Greymane%20—%20The%20Ridge.md)
 - [Brida Ashwell — The Warm Diagnosis](Volume%20I%20—%20Character%20Cards/Brida%20Ashwell%20—%20The%20Warm%20Diagnosis.md)
+- [Bryndís](Volume%20I%20—%20Character%20Cards/Bryndís.md)
+- [Corwin Sesk](Volume%20I%20—%20Character%20Cards/Corwin%20Sesk.md)
 - [Cozbi Mahuo](Volume%20I%20—%20Character%20Cards/Cozbi%20Mahuo.md)
 - [Dougou Ozumu Zettari](Volume%20I%20—%20Character%20Cards/Dougou%20Ozumu%20Zettari.md)
 - [Dunstan the Brine — The Ladle](Volume%20I%20—%20Character%20Cards/Dunstan%20the%20Brine%20—%20The%20Ladle.md)
 - [Edward Lambert — The Arithmetic](Volume%20I%20—%20Character%20Cards/Edward%20Lambert%20—%20The%20Arithmetic.md)
 - [Edwyn Brack](Volume%20I%20—%20Character%20Cards/Edwyn%20Brack.md)
+- [Emira](Volume%20I%20—%20Character%20Cards/Emira.md)
 - [Freda Thunn-Gorr — The Caldera Wife](Volume%20I%20—%20Character%20Cards/Freda%20Thunn-Gorr%20—%20The%20Caldera%20Wife.md)
 - [Garret Longshore — The Helmsman](Volume%20I%20—%20Character%20Cards/Garret%20Longshore%20—%20The%20Helmsman.md)
 - [Geturo Mahuo](Volume%20I%20—%20Character%20Cards/Geturo%20Mahuo.md)
 - [Gimbzo](Volume%20I%20—%20Character%20Cards/Gimbzo.md)
+- [Haruki Yuno](Volume%20I%20—%20Character%20Cards/Haruki%20Yuno.md)
 - [Heisuke — Muken's Last Soldier](Volume%20I%20—%20Character%20Cards/Heisuke%20—%20Muken's%20Last%20Soldier.md)
 - [Hild Ice (Stark) — The Sword Princess](Volume%20I%20—%20Character%20Cards/Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess.md)
 - [Hiromi Mahuo](Volume%20I%20—%20Character%20Cards/Hiromi%20Mahuo.md)
 - [Ilmar Foss](Volume%20I%20—%20Character%20Cards/Ilmar%20Foss.md)
 - [Iracordas](Volume%20I%20—%20Character%20Cards/Iracordas.md)
+- [Kaalabad](Volume%20I%20—%20Character%20Cards/Kaalabad.md)
 - [Kinjiki, The Inversion](Volume%20I%20—%20Character%20Cards/Kinjiki,%20The%20Inversion.md)
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume%20I%20—%20Character%20Cards/Kirishima%20Hae-jin%20—%20Kaalabad,%20the%20Radiant%20God%20of%20Knights.md)
 - [Krothar Thunn-Gorr — The Old Chain](Volume%20I%20—%20Character%20Cards/Krothar%20Thunn-Gorr%20—%20The%20Old%20Chain.md)
 - [Krothar Veylshroud — The Chain Without a Master](Volume%20I%20—%20Character%20Cards/Krothar%20Veylshroud%20—%20The%20Chain%20Without%20a%20Master.md)
+- [Kujo](Volume%20I%20—%20Character%20Cards/Kujo.md)
 - [Kwon Mu-jin](Volume%20I%20—%20Character%20Cards/Kwon%20Mu-jin.md)
 - [Lilia — The Stormfold Nurse](Volume%20I%20—%20Character%20Cards/Lilia%20—%20The%20Stormfold%20Nurse.md)
 - [Lily Mahuo](Volume%20I%20—%20Character%20Cards/Lily%20Mahuo.md)
@@ -553,6 +561,7 @@
 - [Rikudoku Moto](Volume%20I%20—%20Character%20Cards/Rikudoku%20Moto.md)
 - [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)
 - [Sodoku Moto](Volume%20I%20—%20Character%20Cards/Sodoku%20Moto.md)
+- [Sonzai Moto](Volume%20I%20—%20Character%20Cards/Sonzai%20Moto.md)
 - [Soren the Mast — The Climb](Volume%20I%20—%20Character%20Cards/Soren%20the%20Mast%20—%20The%20Climb.md)
 - [Souma Byakuya Moto](Volume%20I%20—%20Character%20Cards/Souma%20Byakuya%20Moto.md)
 - [Tabitha Hallenfeld — The Road Woman](Volume%20I%20—%20Character%20Cards/Tabitha%20Hallenfeld%20—%20The%20Road%20Woman.md)
@@ -566,6 +575,7 @@
 - [Yoko Mishiro](Volume%20I%20—%20Character%20Cards/Yoko%20Mishiro.md)
 - [Yorime Seikai](Volume%20I%20—%20Character%20Cards/Yorime%20Seikai.md)
 - [Yukazuri Moto](Volume%20I%20—%20Character%20Cards/Yukazuri%20Moto.md)
+- [Zuberi](Volume%20I%20—%20Character%20Cards/Zuberi.md)
 
 ## Volume III — Character Cards (5)
 

@@ -814,5 +814,10 @@
     "page_id": "3e358200-eb22-8144-87d0-c7402b4e77e8",
     "title": "Xanelor — The Constellations",
     "hash": "29a8b2553d79c301"
+  },
+  "scenes/xanelor_juggernauts_fist.md": {
+    "page_id": "3e358200-eb22-811d-982d-fb0a5ce4b9c9",
+    "title": "Xanelor — Juggernaut's Fist",
+    "hash": "bb1391e0093f06a5"
   }
 }

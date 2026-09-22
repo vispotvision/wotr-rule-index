@@ -3,7 +3,11 @@
 Paste everything below the line into the project's **Instructions**. Add to the
 project's **Knowledge** (Add content → GitHub → `vispotvision/wotr-rule-index`):
 `desktop/NATALIE.md`, `out/rules.live.full.md`, `out/docket.md`, `CONFLICTS.md`,
-and `wiki/INDEX.md` only. Not the rest of `wiki/` or `scenes/`: project
+`wiki/INDEX.md`, and the four connective files `scenes/TIMELINE.md`,
+`scenes/CONTINUITY.md`, `scenes/CAST.md` and `scenes/ARCS.md` only. Those four are
+what let her answer "how does this connect to what we already wrote" without
+guessing: the chronology, what each scene changes and calls back to, who appears
+where, and the reading order. Not the rest of `wiki/` or `scenes/`: project
 knowledge has a ceiling and Natalie reads those from Notion or the MCP on
 demand. Re-sync after every push. The WOTR MCP reaches the project two ways:
 the local `wotr` server registered in Claude Desktop on Ultron (all 45 tools,

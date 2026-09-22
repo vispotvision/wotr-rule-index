@@ -290,3 +290,15 @@
   opened_session: 1
   due: When the tournament bracket is seeded, or when anyone at the Academy re-examines his intake sheet.
   status: open
+- id: L033
+  category: debts
+  who: Kwon Mu-jin
+  text: A match Mu-jin sanctioned and monitored ended with the arena ward cracked across a third of the
+    dome, a trench torn the length of the ring, and a sheet of transmogrified metal burned down through
+    sand, clay and stone a spread hand from a student's hip, with Mu-jin's own vial spent to stop a killing
+    shot. The Headmaster said he would know if anyone blew something up. Someone answers for the floor,
+    and for why it was allowed to go that far.
+  opened: '2026-09-22'
+  opened_session: 1
+  due: 1
+  status: open

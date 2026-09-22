@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 31 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 32 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -26,6 +26,7 @@ Generated from table/ledger.yaml by WOTR MCP. 31 open lines. `due()` says what c
 - `L013` Renard to Brida: an explanation, and a body before morning.  *(due: 2)*
 - `L014` **The four hundred and six**, under Lambert's own seal, negotiated by his own office, eleven of them children under twelve, his initial beside the clause on their treatment. Robin Ice stood on the path four seconds, said *aye*, and did it.  *(due: 2)*
 - `L031` His Omoro recurve, the blackwood bow built for island weather, split through the upper limb at the overdraw and hangs in two pieces joined by the string. He has no bow. Replacing it means an Academy bowyer, a debt to someone, or going without.  *(due: Before the Class X Open Tournament. An archer with no bow is a masked boy with a dagger.)*
+- `L033` A match Mu-jin sanctioned and monitored ended with the arena ward cracked across a third of the dome, a trench torn the length of the ring, and a sheet of transmogrified metal burned down through sand, clay and stone a spread hand from a student's hip, with Mu-jin's own vial spent to stop a killing shot. The Headmaster said he would know if anyone blew something up. Someone answers for the floor, and for why it was allowed to go that far.  *(due: 1)*
 
 ## who knows what
 

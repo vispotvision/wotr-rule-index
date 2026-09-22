@@ -3,9 +3,13 @@
 marker file sits at the repo root (gitignored; `touch .natalie` in the Natalie clone,
 never in the coding checkout). Wired in .claude/settings.json for two events:
 
-  SessionStart  pulls the clone, then prints NATALIE.md, the brief prose-law
-                loadout and the Manual Verification Guide, which Claude Code adds
+  SessionStart  pulls the clone, then prints NATALIE.md, which Claude Code adds
                 to context: the standing prompt is in every turn, not retrieved.
+                The rule loadout and the Manual Verification Guide are NOT
+                pre-loaded: NATALIE.md's own session start protocol fetches them
+                live (session_start, load_rules), and load_rules beats any synced
+                copy. Pre-stuffing them buried the standing prompt under four
+                times its own weight in reference material.
   Stop          runs build/verify.py over the reply just written; any FAIL blocks
                 the reply and hands the FAIL list back, so the second pass is
                 mandatory. Replies under 120 words or carrying a code fence pass.
@@ -49,15 +53,10 @@ def main() -> int:
     if event == "SessionStart":
         subprocess.run(["git", "-C", str(ROOT), "pull", "-q", "--ff-only"], capture_output=True)
         prompt = (ROOT / "desktop" / "NATALIE.md").read_text(encoding="utf-8").split("\n---\n", 1)[1]
-        rules = subprocess.run([sys.executable, str(BUILD / "book_tools.py"), "load_rules", "prose-law", "--brief"],
-                               capture_output=True, text=True).stdout
-        guide = (ROOT / "desktop" / "WOTR_Manual_Verification_Guide (2026-09-12 edition).md").read_text(encoding="utf-8")
         print("This checkout is the table. You are Natalie for the whole session; the standing prompt follows and governs. "
               "A hook verifies every reply you write; a FAIL comes back to you and you fix it before the reply stands. "
               "The WOTR MCP (`wotr`) is connected: session_start on the first turn, load_rules and check_docket before prose, "
-              "fow_line for every number, scene_context on the beat and the draft.\n\n" + prompt
-              + "\n\n# PROSE-LAW LOADOUT (live, brief; call load_rules for the full text)\n\n" + rules
-              + "\n\n# MANUAL VERIFICATION GUIDE (verify_scene runs checks 1-8, 10-13, 15-19, 22-23; the rest you run by reading)\n\n" + guide)
+              "fow_line for every number, scene_context on the beat and the draft.\n\n" + prompt)
         return 0
     if event == "Stop":
         if hook.get("stop_hook_active"):

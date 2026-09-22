@@ -79,14 +79,15 @@ One line per scene, in reading order, with the in-world moment as far as the tex
 | 73 | sodoku_the_count_supply_report.md | Kharven-Seat, the north gate, continuous. Night, the eleventh year. | ____ |
 | 74 | sodoku_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
 | 75 | temur_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
-| 76 | THE_KINGDOM_OF_KHARVEN_corrected.md | World of the Remaining | ____ |
-| 77 | The_Path_of_Sorrow.md | These are the hands of a man who lost everything. | ____ |
-| 78 | the_revolution_of_the_inner_world.md | Kharven-Seat. Eleven months after the loss of his daughter. | ____ |
-| 79 | THE_YUKARI_BLOODLINE.md | 000 years before, 000 years since | ____ |
-| 80 | verinus_sword_and_scale.md | The Grand Cathedral of the Alabaster Court. Continuous. | ____ |
-| 81 | verinus_weight_of_an_infant.md | The Alabaster Court, the lower chapel. Mid-morning. | ____ |
-| 82 | verinus_what_a_thing_weighs.md | The Grand Cathedral of the Alabaster Court. Late morning, the same day. | ____ |
-| 83 | wotr_the_warrior_nurse.md | The teaching house at Sum-gol · The Alabaster Court | ____ |
-| 84 | wotr_the_weight_of_a_courier.md | Kharven-Seat · The Alabaster Court · Altherion | ____ |
-| 85 | WOTR_Vaeloris_Sequence.md | Session compilation. Scenes and roleplay responses in narrative order. | ____ |
-| 86 | YOKO_MISHIRO.md | the first week | ____ |
+| 76 | the_house_of_abscene_kujo_arc.md | Vaeloris, after. The village a corpse; Kujo and the five Void Generals in the broken streets. | ____ |
+| 77 | THE_KINGDOM_OF_KHARVEN_corrected.md | World of the Remaining | ____ |
+| 78 | The_Path_of_Sorrow.md | These are the hands of a man who lost everything. | ____ |
+| 79 | the_revolution_of_the_inner_world.md | Kharven-Seat. Eleven months after the loss of his daughter. | ____ |
+| 80 | THE_YUKARI_BLOODLINE.md | 000 years before, 000 years since | ____ |
+| 81 | verinus_sword_and_scale.md | The Grand Cathedral of the Alabaster Court. Continuous. | ____ |
+| 82 | verinus_weight_of_an_infant.md | The Alabaster Court, the lower chapel. Mid-morning. | ____ |
+| 83 | verinus_what_a_thing_weighs.md | The Grand Cathedral of the Alabaster Court. Late morning, the same day. | ____ |
+| 84 | wotr_the_warrior_nurse.md | The teaching house at Sum-gol · The Alabaster Court | ____ |
+| 85 | wotr_the_weight_of_a_courier.md | Kharven-Seat · The Alabaster Court · Altherion | ____ |
+| 86 | WOTR_Vaeloris_Sequence.md | Session compilation. Scenes and roleplay responses in narrative order. | ____ |
+| 87 | YOKO_MISHIRO.md | the first week | ____ |

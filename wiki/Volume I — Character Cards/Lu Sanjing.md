@@ -1,59 +1,77 @@
 ---
 title: "Lu Sanjing"
 notion_id: "3e358200-eb22-8105-939b-dec93181c777"
-notion_url: "https://www.notion.so/3e358200eb228105939bdec93181c777"
+notion_url: "https://app.notion.com/p/Lu-Sanjing-3e358200eb228105939bdec93181c777"
 section: "Volume I — Character Cards"
-tags: ["Characters"]
-last_edited: "2026-09-22T06:11:23"
-verification: null
+tags: []
+last_edited: "2026-09-22T10:11:00.000Z"
+verification: "unverified"
 ---
+
 # Lu Sanjing
+
+## Lu Sanjing
 
 *Scholar. Cited only, in The Night's Watch. Everything not stated in that scene is pending Isaac.*
 
-## I · Identity
+### I · Identity
+
 **Name.** Lu Sanjing. Lineage-hall register (Chinese stratum). The scene places him writing "in his studio," which may point to a studio name (the scholar's slot); pending Isaac.
 **Standing.** A long and distinguished career. Living or dead: pending Isaac.
 **Level / Stage / Band.** Pending Isaac.
 
-## II · Soul Architecture
+### II · Soul Architecture
+
 Pending Isaac.
 
-## III · Work Architecture
+### III · Work Architecture
+
 Scholarship on Wellspring behaviour. Pending Isaac.
 
-## IV–V · Stats
+### IV–V · Stats
+
 Pending Isaac.
 
-## VI–VII · Force and Flow
+### VI–VII · Force and Flow
+
 Pending Isaac.
 
-## VIII–IX · Traits and Domain
+### VIII–IX · Traits and Domain
+
 Pending Isaac.
 
-## X · Techniques
+### X · Techniques
+
 None.
 
-## XI · Spirit Axes
+### XI · Spirit Axes
+
 Pending Isaac.
 
-## XII · Resistances
+### XII · Resistances
+
 Pending Isaac.
 
-## XIII · Physical Description
+### XIII · Physical Description
+
 Not on the page.
 
-## XIV · Psychology
+### XIV · Psychology
+
 He is the author of the honest position on why Wellsprings surface, wander and return: *we do not know, and the instrument does not care that we do not know.* Wystan holds it against the eleven competing accounts and the one the Accord enforces.
 
-## XV · Equipment
+### XV · Equipment
+
 Pending Isaac.
 
-## XVI · Temperance Record
+### XVI · Temperance Record
+
 Pending Isaac.
 
-## XVII · Fracture Log
+### XVII · Fracture Log
+
 Pending Isaac.
 
 ---
+
 *Source: The Night's Watch (scenes/the_nights_watch.md).*

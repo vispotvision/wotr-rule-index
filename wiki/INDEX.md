@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-602 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+610 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -499,7 +499,7 @@
 - [The Paths](The%20Zettari/The%20Paths.md)
 - [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
-## Volume I — Character Cards (57)
+## Volume I — Character Cards (65)
 
 - [Akira Yukari](Volume%20I%20—%20Character%20Cards/Akira%20Yukari.md)
 - [Anryū Ichimonji](Volume%20I%20—%20Character%20Cards/Anryū%20Ichimonji.md)
@@ -514,6 +514,7 @@
 - [Dougou Ozumu Zettari](Volume%20I%20—%20Character%20Cards/Dougou%20Ozumu%20Zettari.md)
 - [Dunstan the Brine — The Ladle](Volume%20I%20—%20Character%20Cards/Dunstan%20the%20Brine%20—%20The%20Ladle.md)
 - [Edward Lambert — The Arithmetic](Volume%20I%20—%20Character%20Cards/Edward%20Lambert%20—%20The%20Arithmetic.md)
+- [Edwyn Brack](Volume%20I%20—%20Character%20Cards/Edwyn%20Brack.md)
 - [Freda Thunn-Gorr — The Caldera Wife](Volume%20I%20—%20Character%20Cards/Freda%20Thunn-Gorr%20—%20The%20Caldera%20Wife.md)
 - [Garret Longshore — The Helmsman](Volume%20I%20—%20Character%20Cards/Garret%20Longshore%20—%20The%20Helmsman.md)
 - [Geturo Mahuo](Volume%20I%20—%20Character%20Cards/Geturo%20Mahuo.md)
@@ -521,6 +522,7 @@
 - [Heisuke — Muken's Last Soldier](Volume%20I%20—%20Character%20Cards/Heisuke%20—%20Muken's%20Last%20Soldier.md)
 - [Hild Ice (Stark) — The Sword Princess](Volume%20I%20—%20Character%20Cards/Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess.md)
 - [Hiromi Mahuo](Volume%20I%20—%20Character%20Cards/Hiromi%20Mahuo.md)
+- [Ilmar Foss](Volume%20I%20—%20Character%20Cards/Ilmar%20Foss.md)
 - [Iracordas](Volume%20I%20—%20Character%20Cards/Iracordas.md)
 - [Kinjiki, The Inversion](Volume%20I%20—%20Character%20Cards/Kinjiki,%20The%20Inversion.md)
 - [Kirishima Hae-jin — Kaalabad, the Radiant God of Knights](Volume%20I%20—%20Character%20Cards/Kirishima%20Hae-jin%20—%20Kaalabad,%20the%20Radiant%20God%20of%20Knights.md)
@@ -530,6 +532,7 @@
 - [Lilia — The Stormfold Nurse](Volume%20I%20—%20Character%20Cards/Lilia%20—%20The%20Stormfold%20Nurse.md)
 - [Lily Mahuo](Volume%20I%20—%20Character%20Cards/Lily%20Mahuo.md)
 - [Lorn Stark — The Sword-Teacher](Volume%20I%20—%20Character%20Cards/Lorn%20Stark%20—%20The%20Sword-Teacher.md)
+- [Lu Sanjing](Volume%20I%20—%20Character%20Cards/Lu%20Sanjing.md)
 - [Lucius Xenotro](Volume%20I%20—%20Character%20Cards/Lucius%20Xenotro.md)
 - [Matheus — The Silent Eye](Volume%20I%20—%20Character%20Cards/Matheus%20—%20The%20Silent%20Eye.md)
 - [Mizuki Moto](Volume%20I%20—%20Character%20Cards/Mizuki%20Moto.md)
@@ -539,8 +542,11 @@
 - [Naori Yukari](Volume%20I%20—%20Character%20Cards/Naori%20Yukari.md)
 - [Nella Forgeman — The Open Hand](Volume%20I%20—%20Character%20Cards/Nella%20Forgeman%20—%20The%20Open%20Hand.md)
 - [Niran Yukari](Volume%20I%20—%20Character%20Cards/Niran%20Yukari.md)
+- [Nol Tally](Volume%20I%20—%20Character%20Cards/Nol%20Tally.md)
+- [Nuvalik](Volume%20I%20—%20Character%20Cards/Nuvalik.md)
 - [Onawa Ashkewe](Volume%20I%20—%20Character%20Cards/Onawa%20Ashkewe.md)
 - [Osric of Hallenfeld — The Patient Hand](Volume%20I%20—%20Character%20Cards/Osric%20of%20Hallenfeld%20—%20The%20Patient%20Hand.md)
+- [Qiu Yinzhi](Volume%20I%20—%20Character%20Cards/Qiu%20Yinzhi.md)
 - [Rashani Zettari](Volume%20I%20—%20Character%20Cards/Rashani%20Zettari.md)
 - [Renard Greymane — The Left of the Throne](Volume%20I%20—%20Character%20Cards/Renard%20Greymane%20—%20The%20Left%20of%20the%20Throne.md)
 - [Rengai Zettari](Volume%20I%20—%20Character%20Cards/Rengai%20Zettari.md)
@@ -552,9 +558,11 @@
 - [Tabitha Hallenfeld — The Road Woman](Volume%20I%20—%20Character%20Cards/Tabitha%20Hallenfeld%20—%20The%20Road%20Woman.md)
 - [Torven Greis — The Merchant Lord](Volume%20I%20—%20Character%20Cards/Torven%20Greis%20—%20The%20Merchant%20Lord.md)
 - [Verinus VII · The Palatine](Volume%20I%20—%20Character%20Cards/Verinus%20VII%20·%20The%20Palatine.md)
+- [Vesk](Volume%20I%20—%20Character%20Cards/Vesk.md)
 - [Vethraun Ashmaw](Volume%20I%20—%20Character%20Cards/Vethraun%20Ashmaw.md)
 - [Wystan Ashmore — Late Bell](Volume%20I%20—%20Character%20Cards/Wystan%20Ashmore%20—%20Late%20Bell.md)
 - [Xanelor Rafiminar](Volume%20I%20—%20Character%20Cards/Xanelor%20Rafiminar.md)
+- [Xu Deming](Volume%20I%20—%20Character%20Cards/Xu%20Deming.md)
 - [Yoko Mishiro](Volume%20I%20—%20Character%20Cards/Yoko%20Mishiro.md)
 - [Yorime Seikai](Volume%20I%20—%20Character%20Cards/Yorime%20Seikai.md)
 - [Yukazuri Moto](Volume%20I%20—%20Character%20Cards/Yukazuri%20Moto.md)

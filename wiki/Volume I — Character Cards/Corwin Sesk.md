@@ -3,45 +3,45 @@ title: "Corwin Sesk"
 notion_id: "3e358200-eb22-8166-91a4-e7499fc2b381"
 notion_url: "https://www.notion.so/3e358200eb22816691a4e7499fc2b381"
 section: "Volume I — Character Cards"
-tags: ["Characters"]
-last_edited: "2026-09-22T10:26:12"
+tags: []
+last_edited: "2026-09-22T10:47:26"
 verification: null
 ---
 # Corwin Sesk
 
-Sources: `scenes/commencement_of_the_curia_kujo_arc.md` and `scenes/sesk_the_report.md`. Every line below is drawn from those scenes. Anything originated is marked; numeric system fields read `pending Isaac`.
+Sources: `scenes/commencement_of_the_curia_kujo_arc.md` and `scenes/sesk_the_report.md`. Every line below is drawn from those scenes. Anything originated is marked; numeric system fields read `null`.
 
 ## I · Identity
 
 - **Name:** Corwin Sesk. Given in his own words — "Corwin Sesk, my lord. Under instruction."
-- **Register:** given name plus unmarked surname, which is the Northern stratum shape under R23-2-NORTHERN_STRATUM (small given-name pool, frozen surname if the family is chartered, live patronymic if not, earned byname available to anyone) and R20-1-CONCORD_HUMAN_ANCHOR. **Observation only** — the scene never states his origin. Field: **`pending Isaac`**.
-- **Age / origin:** not stated. `pending Isaac`.
+- **Register:** given name plus unmarked surname, which is the Northern stratum shape under R23-2-NORTHERN_STRATUM (small given-name pool, frozen surname if the family is chartered, live patronymic if not, earned byname available to anyone) and R20-1-CONCORD_HUMAN_ANCHOR. **Observation only** — the scene never states his origin. Field: **`null`**.
+- **Age / origin:** not stated. `null`.
 - **Affiliation:** none of his own. He works **under instruction**, and says so before he says anything else about himself. The instructing party is "somebody upstairs" and is not named in this material.
 - **Trade:** interrogator. He calls it a trade himself — "a man in my tr[ade]" — and the whole of his characterisation runs through that word.
 - **Status:** alive; stopped working on the twelfth day; later giving a report.
-- **Level / Stage / Band:** `pending Isaac`. Nothing in the source suggests he is a practitioner at all, and none is assumed.
+- **Level / Stage / Band:** `null`. Nothing in the source suggests he is a practitioner at all, and none is assumed.
 
 ## II · Soul Architecture
 
 No working, no Essence, no current of any kind is attributed to him anywhere in this material.
 
-Soul Crystal, Crystal State, Aether Class, Essence Typology, Coherence Band and η: **all `pending Isaac`**, with the standing note that the source gives no evidence he has a practitioner's architecture. He does his work with a hooked blade, a mallet, pliers and a ledger.
+Soul Crystal, Crystal State, Aether Class, Essence Typology, Coherence Band and η: **all `null`**, with the standing note that the source gives no evidence he has a practitioner's architecture. He does his work with a hooked blade, a mallet, pliers and a ledger.
 
 ## III · Work Architecture
 
-- **Wellspring harmonisations:** none attested. `pending Isaac`.
-- **Family / Physics Domain:** `pending Isaac`.
-- **Craft and Category:** `pending Isaac`.
+- **Wellspring harmonisations:** none attested. `null`.
+- **Family / Physics Domain:** `null`.
+- **Craft and Category:** `null`.
 
 ## IV–V · Stats
 
-The Eight Primaries and every Sub-Stat peak: **`pending Isaac`**. Nothing in the source supports a combat or craft reading of him.
+The Eight Primaries and every Sub-Stat peak: **`null`**. Nothing in the source supports a combat or craft reading of him.
 
 What the source does establish is competence of a specific, non-magical kind: he works to a standard, checks his work, and stops a colleague's method on professional grounds rather than merciful ones.
 
 ## VI–VII · Force and Flow
 
-Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η: **all `pending Isaac`**. None attested, none inferred.
+Strike Force band, Attack Speed, Reaction, Travel, Aura Pressure Field radius, Domain Pressure, EU Reserve, Flux Density, AU/s, η: **all `null`**. None attested, none inferred.
 
 ## VIII–IX · Traits and Domain
 
@@ -69,13 +69,13 @@ He has no techniques in the system sense and none is invented here. His method i
 
 ## XI · Spirit Axes
 
-None described. `pending Isaac`.
+None described. `null`.
 
 His one sustained relation in this material is with **Aurelian Prudentius**, across fourteen days, and it is the relation of a tradesman to a task — which is precisely what makes it the most unsettling thing in the scene.
 
 ## XII · Resistances
 
-`pending Isaac`. Nothing tests him.
+`null`. Nothing tests him.
 
 ## XIII · Physical Description
 
@@ -83,7 +83,7 @@ The source gives posture and habit rather than appearance, and the card does not
 
 He is **against the wall** when he is not working, and says nothing. He **sits** — on an upturned crate, and the detail is exact: "Corwin Sesk had been sitting on an upturned crate for two hours writing nothing." He **wipes the mallet head** when he is done. He speaks **to the ledger** rather than to the room: "'Five hundred and ninety-one,' Sesk said, to the ledger." Giving his report, "Sesk's jaw worked once."
 
-Hair, face, build, clothing, distinguishing marks: **`pending Isaac`**. Table Rule 11's inventory is not in this source and will not be manufactured for a man this carefully underdescribed.
+Hair, face, build, clothing, distinguishing marks: **`null`**. Table Rule 11's inventory is not in this source and will not be manufactured for a man this carefully underdescribed.
 
 ## XIV · Psychology
 
@@ -112,19 +112,19 @@ Tools of a trade, not a loadout:
 - **A hooked blade** — used to lift the strips.
 - **A mallet**, wiped down after use.
 - **Drawing pliers** and **a wedge** for the back teeth — used by others before he stopped it, and available to him.
-- **Nails**, ten of them, and the scene is specific that they are **not iron**: "Iron would have rusted and rust was a smell he knew. These drank the lamplight off their heads and gave nothing back." What they are is **`pending Isaac`**, and it matters — the blood around them ran red for about a minute and then went black.
+- **Nails**, ten of them, and the scene is specific that they are **not iron**: "Iron would have rusted and rust was a smell he knew. These drank the lamplight off their heads and gave nothing back." What they are is **`null`**, and it matters — the blood around them ran red for about a minute and then went black.
 - **A ledger**, and something to write with, and a crate to sit on.
 
 No weapon, no armour, no proof-marks. Mass, length and balance are not given for any of it and are not invented.
 
 ## XVI · Temperance Record
 
-**`pending Isaac`.** No Stage, Level or Band, and no indication he is on the ladder at all.
+**`null`.** No Stage, Level or Band, and no indication he is on the ladder at all.
 
 ## XVII · Fracture Log
 
 Not a practitioner's fracture log. Recorded as the source has it:
 
 - **The promise he kept that was already broken.** "Four alive and the books untouched," said plainly on the second day because he was asked to say it plainly, and thanked for it — and false by about nine days at the time he said it. He did not know. His response is to put the not-knowing in the record himself. Unconsolidated, and it is the only thing in either scene that visibly costs him anything.
-- **The twelfth day.** He stopped. The source does not say why, and does not say what happened to him after. **`pending Isaac`**.
+- **The twelfth day.** He stopped. The source does not say why, and does not say what happened to him after. **`null`**.
 - **The nails that are not iron.** Entered here rather than in XV because he noticed what they were not, and a man who knows the smell of rust well enough to rule it out has done this a great many times.

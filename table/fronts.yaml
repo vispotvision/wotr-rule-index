@@ -288,16 +288,19 @@
   want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the
     designation, and will take a place the moment a Class X student's performance drops far enough, most
     cheaply when that student is injured.
-  last_move: ''
-  next_move: Class S students start turning up at the infirmary and the practice floors to look at who
-    got hurt, and ask which of the injured are entering the tournament.
+  last_move: The Hiromi-Xanelor match could not be kept inside the arena. The arrow's double sonic boom
+    was heard across the grounds, the ward cracked across a third of the dome, and a trench and a burn-hole
+    went through the floor. By nightfall Class S knows two Class X students came out of their first week
+    hurt, and that one of them has no bow.
+  next_move: 'Class S scouts the wounded before the tournament: the infirmary, the practice floors, the
+    bowyer''s.'
   clock:
   - tick: 1
     consequence: 'Word of the Hiromi-Xanelor match leaves the arena: the double boom was heard across
       the grounds, and Class S learns two Class X students came out of their first week injured.'
   - tick: 2
-    consequence: 'Class S scouts the wounded: students appear at the infirmary, the practice floors and
-      the dormitory corridors, noting who is hurt, who has no bow, who went grey.'
+    consequence: 'Class S scouts the wounded before the tournament: the infirmary, the practice floors,
+      the bowyer''s.'
   - tick: 3
     consequence: A Class S student issues a formal challenge to an injured Class X member before the tournament,
       timed for the week they cannot refuse cleanly.
@@ -307,6 +310,6 @@
   - tick: 5
     consequence: 'Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class
       S student takes the private dormitory and the X designation.'
-  position: 0
-  last_advanced: null
+  position: 1
+  last_advanced: '2026-09-22'
   seeded_from: added at the table

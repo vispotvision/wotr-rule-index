@@ -116,11 +116,12 @@ Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the pr
 
 ## Kwon Mu-jin
 
-**The Class Below** ○○○○○ 0/5 · open
+**The Class Below** ●○○○○ 1/5 · open
 - Want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the designation, and will take a place the moment a Class X student's performance drops far enough, most cheaply when that student is injured.
-- Next move: Class S students start turning up at the infirmary and the practice floors to look at who got hurt, and ask which of the injured are entering the tournament.
-  - [ ] 1. Word of the Hiromi-Xanelor match leaves the arena: the double boom was heard across the grounds, and Class S learns two Class X students came out of their first week injured.
-  - [ ] 2. Class S scouts the wounded: students appear at the infirmary, the practice floors and the dormitory corridors, noting who is hurt, who has no bow, who went grey.
+- Last move: The Hiromi-Xanelor match could not be kept inside the arena. The arrow's double sonic boom was heard across the grounds, the ward cracked across a third of the dome, and a trench and a burn-hole went through the floor. By nightfall Class S knows two Class X students came out of their first week hurt, and that one of them has no bow.
+- Next move: Class S scouts the wounded before the tournament: the infirmary, the practice floors, the bowyer's.
+  - [x] 1. Word of the Hiromi-Xanelor match leaves the arena: the double boom was heard across the grounds, and Class S learns two Class X students came out of their first week injured.
+  - [ ] 2. Class S scouts the wounded before the tournament: the infirmary, the practice floors, the bowyer's.
   - [ ] 3. A Class S student issues a formal challenge to an injured Class X member before the tournament, timed for the week they cannot refuse cleanly.
   - [ ] 4. A Class X seat is contested on the record: the Academy agrees to weigh tournament performance against Class S results.
   - [ ] 5. Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class S student takes the private dormitory and the X designation.

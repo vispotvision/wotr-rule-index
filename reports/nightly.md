@@ -1,16 +1,18 @@
-# Nightly — 2026-09-21 14:40
+# Nightly — 2026-09-22 05:35
 
 ## Overnight
 
-Nothing moved in the numbers: validate passes, the docket is empty, the one conflict is still open, 255 findings still open with none new and none cleared, and no scene was archived since the last run. Ultron was off from some time after the 23:05 sync until 14:40 today, so this digest ran at boot, not at the timer.
+One thing changed since yesterday's digest: you logged the R19-2-FIXED_TEXT ruling at 15:11 from Claude Desktop (6c459a2) — "make this better" on an RP post now covers your own dialogue, fixed-text still governs scene work you submit to be set. Everything else is as it was: validate passes, the docket is empty, the one conflict is still open, 255 findings with none new and none cleared, no scene archived, so there is nothing for scene_context or verify to look at.
 
-The sync is still not pushing. Every hourly run last evening (19:06 through 23:05) failed at the push, and the 14:40 run at boot died earlier than that — name resolution failed, so the Notion export never started; that one is the network not being up yet, not a new fault. Two nightly commits (12ba485 and adc4829) are still local, so GitHub is two nights behind. My check of the remote was refused, so I can't say from here why the pushes fail: run `git push origin master` by hand and read what git prints. The 15:00 run will show whether the network is back.
+This digest ran at 05:35, not 03:30: nothing fired between the 21:05 sync and 05:35, so Ultron was asleep through the slot and the timers caught up at wake. The sync that woke alongside it died at name resolution before the Notion export started — the network wasn't up yet, the same as yesterday's boot run, not a new fault. The 06:00 run will show whether it exports.
 
-No backup this morning: the 03:00 timer fired into a machine that was off, so the newest zip is still yesterday's, wotr-2026-09-20.zip (24 MB, 1,077 files).
+The push is still failing and now holds four commits: 12ba485, adc4829, f88c035 and 6c459a2 — the last is your ruling, so GitHub does not have it. Every hourly run from 15:05 to 21:05 yesterday failed at the push; the last push that landed was the 09-19 03:33 nightly. This morning's `git pull --rebase` went through, so GitHub answers to fetch on the same HTTPS remote and refuses the push: that is the push credential, not the network. build/sync.sh sends git's stderr to /dev/null, so the log cannot say which credential — run `git push origin master` by hand and read the line git prints. I'd have sync.sh keep that line in the log so the next failure names itself. My `git ls-remote` was refused, so I can't confirm the remote's head from here.
 
-Waiting on you, same as last night: 43 Judger proposals on 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year is still gated — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; nothing more gets written until you answer.
+No backup was due: the newest zip is still Sunday's wotr-2026-09-20.zip (24 MB, 1,077 files); the next runs Sunday 09-27 at 03:00.
 
-Uncommitted: "The War in The North.md" and "Untitled.md" still sit untracked at the repo root, desktop/ryoku-wotr/ (the bar plugin, since 09-19) is untracked too, and build/mcp_server.py now carries 96 changed lines (cast_index folds short roster names into their full card names). I'd move the two drafts into scenes/ if they're scenes, and commit the plugin and the MCP change or drop them. Standing: scenes/YOKO_MISHIRO.md still isn't publishing (its Notion parent isn't shared with the integration) and the Drive isn't mounted, so docs are skipped.
+Waiting on you, same as every night since 09-13: the 43 Judger proposals on 08_sodoku_recalescence (`/judger apply 08_sodoku_recalescence ...`), and chapter 1 of kharven-year at its gate — `python build/book_next.py --approve 1` or `--reject 1 --note "..."`; the dispatcher writes nothing until you answer.
+
+Uncommitted, unchanged from last night: "The War in The North.md" and "Untitled.md" at the repo root, desktop/ryoku-wotr/ untracked, build/mcp_server.py at 96 changed lines. I'd move the two drafts into scenes/ if they are scenes and commit the plugin and the MCP change or drop them. Standing: scenes/YOKO_MISHIRO.md still isn't publishing (its Notion parent isn't shared with the integration) and the Drive isn't mounted, so docs are skipped.
 
 ## Numbers
 
@@ -40,6 +42,6 @@ Uncommitted: "The War in The North.md" and "Untitled.md" still sit untracked at 
 
 ## The sync and the backup (last 26 h)
 
-- sync: 0 push(es), 0 quiet run(s), 6 failure line(s):  export failed (exit 1)
+- sync: 0 push(es), 0 quiet run(s), 8 failure line(s):  export failed (exit 1)
 - backup:  wrote /home/oridon/wotr-backups/wotr-2026-09-20.zip (24.0 MB, 1077 files)
-- last run of this digest: 2026-09-20T18:34:57
+- last run of this digest: 2026-09-21T14:40:43

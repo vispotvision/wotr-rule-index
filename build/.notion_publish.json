@@ -664,5 +664,10 @@
     "page_id": "3e058200-eb22-8176-a78c-fdaa213b2f47",
     "title": "The War in the North V — The Shieldwarden",
     "hash": "73b2c22402f2f3b5"
+  },
+  "scenes/the_nights_watch.md": {
+    "page_id": "3e358200-eb22-819f-bbab-ed1537d0a4a3",
+    "title": "The Night's Watch",
+    "hash": "6f71078abb6fa0a6"
   }
 }

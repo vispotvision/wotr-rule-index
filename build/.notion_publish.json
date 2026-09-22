@@ -799,5 +799,10 @@
     "page_id": "3e358200-eb22-81ba-94f8-c4e201ce424b",
     "title": "Xanelor — Seven Days",
     "hash": "b2a13996967b1dd9"
+  },
+  "scenes/xanelor_the_challenge.md": {
+    "page_id": "3e358200-eb22-8174-a998-fd83040c52f3",
+    "title": "Xanelor — The Challenge",
+    "hash": "4cec7757e9e84a20"
   }
 }

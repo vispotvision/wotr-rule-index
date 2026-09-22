@@ -40,51 +40,53 @@ One line per scene, in reading order, with the in-world moment as far as the tex
 | 34 | 03_wren_three_deliveries.md | The narrows, the Ashgate road. Continuous. | ____ |
 | 35 | aurelian_word_under_the_hammer.md | Beneath the Grand Church at Altherion. The eleventh day. | ____ |
 | 36 | balance_lesson.md |  | ____ |
-| 37 | Cozbi_Antithesis_Split_Fight.md |  | ____ |
-| 38 | Cozbi_Ashwell_Mysticism_Demo.md |  | ____ |
-| 39 | Cozbi_Construct_Combat_Scene.md |  | ____ |
-| 40 | Cozbi_Defensive_Response_to_Dova.md |  | ____ |
-| 41 | Cozbi_Dragon_Binding_and_Ashuras_Call.md | A hand can be lent,* he thought, *or it can be taken. You have not said which this is. | ____ |
-| 42 | Cozbi_Merged_Form_Rescind_Explanation.md |  | ____ |
-| 43 | Cozbi_Pneuma_Unravel_Strike.md |  | ____ |
-| 44 | Cozbi_Rengai_Dhaerin_Confrontation.md |  | ____ |
-| 45 | Cozbi_Root_Severance_and_Rashani_Threshold.md | eleven years | ____ |
-| 46 | Cozbi_Sealed_Retreat.md |  | ____ |
-| 47 | Cozbi_True_Power_Antithesis.md |  | ____ |
-| 48 | Cozbi_vs_Rengai_Dhaerin_Combat.md |  | ____ |
-| 49 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md |  | ____ |
-| 50 | Dhaerin_Magnum_Opus_Recursive_Array.md |  | ____ |
-| 51 | kalaabad_star_crusher.md | Above Sum-gol. Mid-morning. | ____ |
-| 52 | kalaabad_the_petition.md | Beneath Vaeloris. The council chamber, continuous. | ____ |
-| 53 | Kami-No-Kobushi.md | "**Möngke gave us seven ways to work. Gimbzo found seven ways to refuse.**" | ____ |
-| 54 | Naiser_Death_Cozbi_Genocide_Niran_Fall.md |  | ____ |
-| 55 | Niran_Awakening_Haruki_Reunion.md |  | ____ |
-| 56 | niran_malformation.md | The Yukari Enclave. The meditation floor, before dawn. | ____ |
-| 57 | Niran_Mira_Awakening.md |  | ____ |
-| 58 | Niran_Mira_Return_to_the_Enclave.md | Twenty-three. | ____ |
-| 59 | Niran_Reply_to_Haruki.md |  | ____ |
-| 60 | Nisuke_Titan_Dominion_Strike.md |  | ____ |
-| 61 | renard_the_left_of_the_door.md | Wet wood,* he thought, and did not know if he meant the man coming or himself. *One of us is going to waste a lot of hea | ____ |
-| 62 | Rengai_Confrontation_and_Nirans_Dream.md |  | ____ |
-| 63 | Rengai_Farewell_and_Dhaerin.md |  | ____ |
-| 64 | Rui_Trap_Deaths_Ray.md | It can't be. | ____ |
-| 65 | sesk_the_report.md | Beneath Vaeloris. The council chamber. | ____ |
-| 66 | seven_labors.md |  | ____ |
-| 67 | Shichi_Karasu_Mission_Awakening.md |  | ____ |
-| 68 | Six_Crows_Dragon_Fight_Extended.md |  | ____ |
-| 69 | Six_Crows_vs_Black_Dragon.md |  | ____ |
-| 70 | sodoku_fourteenth_bow_table.md | The Hallenfeld factor's house, the low street. The table. | ____ |
-| 71 | sodoku_gate_reunion_lambert.md | Kharven-Seat, the north gate. Night, the eleventh year. | ____ |
-| 72 | sodoku_the_count_supply_report.md | Kharven-Seat, the north gate, continuous. Night, the eleventh year. | ____ |
-| 73 | sodoku_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
-| 74 | temur_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
-| 75 | THE_KINGDOM_OF_KHARVEN_corrected.md | World of the Remaining | ____ |
-| 76 | The_Path_of_Sorrow.md | These are the hands of a man who lost everything. | ____ |
-| 77 | THE_YUKARI_BLOODLINE.md | 000 years before, 000 years since | ____ |
-| 78 | verinus_sword_and_scale.md | The Grand Cathedral of the Alabaster Court. Continuous. | ____ |
-| 79 | verinus_weight_of_an_infant.md | The Alabaster Court, the lower chapel. Mid-morning. | ____ |
-| 80 | verinus_what_a_thing_weighs.md | The Grand Cathedral of the Alabaster Court. Late morning, the same day. | ____ |
-| 81 | wotr_the_warrior_nurse.md | The teaching house at Sum-gol · The Alabaster Court | ____ |
-| 82 | wotr_the_weight_of_a_courier.md | Kharven-Seat · The Alabaster Court · Altherion | ____ |
-| 83 | WOTR_Vaeloris_Sequence.md | Session compilation. Scenes and roleplay responses in narrative order. | ____ |
-| 84 | YOKO_MISHIRO.md | the first week | ____ |
+| 37 | commencement_of_the_curia_kujo_arc.md | Beneath the Grand Church at Altherion. The eleventh day. Then the Curia, and Kharven under the Eternal Darkness. | ____ |
+| 38 | Cozbi_Antithesis_Split_Fight.md |  | ____ |
+| 39 | Cozbi_Ashwell_Mysticism_Demo.md |  | ____ |
+| 40 | Cozbi_Construct_Combat_Scene.md |  | ____ |
+| 41 | Cozbi_Defensive_Response_to_Dova.md |  | ____ |
+| 42 | Cozbi_Dragon_Binding_and_Ashuras_Call.md | A hand can be lent,* he thought, *or it can be taken. You have not said which this is. | ____ |
+| 43 | Cozbi_Merged_Form_Rescind_Explanation.md |  | ____ |
+| 44 | Cozbi_Pneuma_Unravel_Strike.md |  | ____ |
+| 45 | Cozbi_Rengai_Dhaerin_Confrontation.md |  | ____ |
+| 46 | Cozbi_Root_Severance_and_Rashani_Threshold.md | eleven years | ____ |
+| 47 | Cozbi_Sealed_Retreat.md |  | ____ |
+| 48 | Cozbi_True_Power_Antithesis.md |  | ____ |
+| 49 | Cozbi_vs_Rengai_Dhaerin_Combat.md |  | ____ |
+| 50 | Dhaerin_Final_Rite_Sacrament_Oblation_Rescind.md |  | ____ |
+| 51 | Dhaerin_Magnum_Opus_Recursive_Array.md |  | ____ |
+| 52 | kalaabad_star_crusher.md | Above Sum-gol. Mid-morning. | ____ |
+| 53 | kalaabad_the_petition.md | Beneath Vaeloris. The council chamber, continuous. | ____ |
+| 54 | Kami-No-Kobushi.md | "**Möngke gave us seven ways to work. Gimbzo found seven ways to refuse.**" | ____ |
+| 55 | Naiser_Death_Cozbi_Genocide_Niran_Fall.md |  | ____ |
+| 56 | Niran_Awakening_Haruki_Reunion.md |  | ____ |
+| 57 | niran_malformation.md | The Yukari Enclave. The meditation floor, before dawn. | ____ |
+| 58 | Niran_Mira_Awakening.md |  | ____ |
+| 59 | Niran_Mira_Return_to_the_Enclave.md | Twenty-three. | ____ |
+| 60 | Niran_Reply_to_Haruki.md |  | ____ |
+| 61 | Nisuke_Titan_Dominion_Strike.md |  | ____ |
+| 62 | renard_the_left_of_the_door.md | Wet wood,* he thought, and did not know if he meant the man coming or himself. *One of us is going to waste a lot of hea | ____ |
+| 63 | Rengai_Confrontation_and_Nirans_Dream.md |  | ____ |
+| 64 | Rengai_Farewell_and_Dhaerin.md |  | ____ |
+| 65 | Rui_Trap_Deaths_Ray.md | It can't be. | ____ |
+| 66 | sesk_the_report.md | Beneath Vaeloris. The council chamber. | ____ |
+| 67 | seven_labors.md |  | ____ |
+| 68 | Shichi_Karasu_Mission_Awakening.md |  | ____ |
+| 69 | Six_Crows_Dragon_Fight_Extended.md |  | ____ |
+| 70 | Six_Crows_vs_Black_Dragon.md |  | ____ |
+| 71 | sodoku_fourteenth_bow_table.md | The Hallenfeld factor's house, the low street. The table. | ____ |
+| 72 | sodoku_gate_reunion_lambert.md | Kharven-Seat, the north gate. Night, the eleventh year. | ____ |
+| 73 | sodoku_the_count_supply_report.md | Kharven-Seat, the north gate, continuous. Night, the eleventh year. | ____ |
+| 74 | sodoku_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
+| 75 | temur_true_religion_alabaster.md | The Hallenfeld factor's house, the low street, Kharven-Seat. Late that night. | ____ |
+| 76 | THE_KINGDOM_OF_KHARVEN_corrected.md | World of the Remaining | ____ |
+| 77 | The_Path_of_Sorrow.md | These are the hands of a man who lost everything. | ____ |
+| 78 | the_revolution_of_the_inner_world.md | Kharven-Seat. Eleven months after the loss of his daughter. | ____ |
+| 79 | THE_YUKARI_BLOODLINE.md | 000 years before, 000 years since | ____ |
+| 80 | verinus_sword_and_scale.md | The Grand Cathedral of the Alabaster Court. Continuous. | ____ |
+| 81 | verinus_weight_of_an_infant.md | The Alabaster Court, the lower chapel. Mid-morning. | ____ |
+| 82 | verinus_what_a_thing_weighs.md | The Grand Cathedral of the Alabaster Court. Late morning, the same day. | ____ |
+| 83 | wotr_the_warrior_nurse.md | The teaching house at Sum-gol · The Alabaster Court | ____ |
+| 84 | wotr_the_weight_of_a_courier.md | Kharven-Seat · The Alabaster Court · Altherion | ____ |
+| 85 | WOTR_Vaeloris_Sequence.md | Session compilation. Scenes and roleplay responses in narrative order. | ____ |
+| 86 | YOKO_MISHIRO.md | the first week | ____ |

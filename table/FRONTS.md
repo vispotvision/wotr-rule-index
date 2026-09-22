@@ -113,3 +113,14 @@ Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the pr
   - [ ] 3. A commoner is put up to it, or considers it, in a market, and does not.
   - [ ] 4. Someone says the two words to Ilthára's face.
   - [ ] 5. Resolves: the challenge is answered, and thirty years of nobody saying it are explained by what happens next.
+
+## Kwon Mu-jin
+
+**The Class Below** ○○○○○ 0/5 · open
+- Want: Class S wants Class X's seats. They are talented, hungry, irritated that someone else holds the designation, and will take a place the moment a Class X student's performance drops far enough, most cheaply when that student is injured.
+- Next move: Class S students start turning up at the infirmary and the practice floors to look at who got hurt, and ask which of the injured are entering the tournament.
+  - [ ] 1. Word of the Hiromi-Xanelor match leaves the arena: the double boom was heard across the grounds, and Class S learns two Class X students came out of their first week injured.
+  - [ ] 2. Class S scouts the wounded: students appear at the infirmary, the practice floors and the dormitory corridors, noting who is hurt, who has no bow, who went grey.
+  - [ ] 3. A Class S student issues a formal challenge to an injured Class X member before the tournament, timed for the week they cannot refuse cleanly.
+  - [ ] 4. A Class X seat is contested on the record: the Academy agrees to weigh tournament performance against Class S results.
+  - [ ] 5. Resolves: a Class X student who fought hurt or fought badly is moved down, and a Class S student takes the private dormitory and the X designation.

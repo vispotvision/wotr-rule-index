@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 29 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 30 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -25,6 +25,7 @@ Generated from table/ledger.yaml by WOTR MCP. 29 open lines. `due()` says what c
 - `L012` Kharven to Stannvaard: the grain.  *(due: 2)*
 - `L013` Renard to Brida: an explanation, and a body before morning.  *(due: 2)*
 - `L014` **The four hundred and six**, under Lambert's own seal, negotiated by his own office, eleven of them children under twelve, his initial beside the clause on their treatment. Robin Ice stood on the path four seconds, said *aye*, and did it.  *(due: 2)*
+- `L031` His Omoro recurve, the blackwood bow built for island weather, split through the upper limb at the overdraw and hangs in two pieces joined by the string. He has no bow. Replacing it means an Academy bowyer, a debt to someone, or going without.  *(due: Before the Class X Open Tournament. An archer with no bow is a masked boy with a dagger.)*
 
 ## who knows what
 

@@ -819,5 +819,10 @@
     "page_id": "3e358200-eb22-811d-982d-fb0a5ce4b9c9",
     "title": "Xanelor — Juggernaut's Fist",
     "hash": "bb1391e0093f06a5"
+  },
+  "scenes/xanelor_the_arrow.md": {
+    "page_id": "3e358200-eb22-8168-b4cc-fad785a4bcbc",
+    "title": "Xanelor — The Arrow",
+    "hash": "00dd454e14242a82"
   }
 }

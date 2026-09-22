@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 32 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 33 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -18,6 +18,7 @@ Generated from table/ledger.yaml by WOTR MCP. 32 open lines. `due()` says what c
 - `L009` **Renard Greymane**, 6 Sept: left forearm, the Held Boil's residue; no burn, grip reduced, duration unknown. Reserve about a third down.  *(due: 1)*
 - `L010` **Vresk Dokkan of Kaadre-Six:** eleven days, a fingertip and then all the toes and then other things, entered against names on a roll. Alive. Returned.  *(due: 1)*
 - `L030` Hairline fractures of the radius and ulna in both forearms, from shoving essence against the Juggernaut's Fist pressure well (Fusion Rule, equal and opposite on his own skeleton). Left wrist strained along the radial side over the scaphoid (part one). Three draw fingers of the right hand cut to the bone by the string at the overdraw. Right palm raw from the warden's shield, left palm friction-burned under the split glove. Boot soles scorched by the essence jets. Reserve: the first raw pressure release left him hollowed and shaking in both legs; he does not know how to call it again or whether he can.  *(due: Before or at the Class X Open Tournament (seven days out, mandatory). Nothing heals on its own by then; if he fights, the forearms are what an opponent aims at.)*
+- `L034` Bleeding from both nostrils (anterior septal vessels) under the load of the constellation net; went grey when the recursive warden poured back into him; contusion over the point of the right shoulder and split lip from the ward in part one; coat torn open across the chest. A boy who forgets to eat and has gone down on a practice floor three times this year, now emptied.  *(due: Next time he calls anything: every draw from here costs first-call price, and he has already paid for an imprint, a constellation net, a recursive warden and Juggernaut's Fist in one fight.)*
 
 ## debts
 

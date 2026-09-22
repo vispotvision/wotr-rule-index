@@ -794,5 +794,10 @@
     "page_id": "3e358200-eb22-81c1-a6b4-f7ac12026299",
     "title": "Xanelor — The Dorms",
     "hash": "1fcf0e9dbb8a14e7"
+  },
+  "scenes/xanelor_seven_days.md": {
+    "page_id": "3e358200-eb22-81ba-94f8-c4e201ce424b",
+    "title": "Xanelor — Seven Days",
+    "hash": "b2a13996967b1dd9"
   }
 }

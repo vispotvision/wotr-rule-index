@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 30 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 31 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -35,6 +35,7 @@ Generated from table/ledger.yaml by WOTR MCP. 30 open lines. `due()` says what c
 - `L018` Yoko's four lines exist. The Bench has never been permitted to see them.  *(due: 3)*
 - `L019` The refugee count went 4,200 to 3,900 between the first and second count, entered as attrition on the road. Everyone in the Seat knew what it was. Nobody recorded it.  *(due: 3)*
 - `L020` Nobody has ever put the two-word challenge form to Ilthára Korvaeth. Aeldros works out in the eleventh year that this was the whole answer.  *(due: 3)*
+- `L032` All of Class X watched Xanelor, recorded at intake as "no detectable pressure" (underlined), raise raw essence pressure hard enough to crack the arena ward and throw a supersonic arrow. Every student now knows the masked boy with no Crystal is not the soft bracket. Naori saw his thread go from ending at his own feet to one committed line; Dabney recognised unsuppressed pressure from the inside; Mu-jin saw him break a constellation net at its anchor points and cannot tell whether the boy ever read the book that describes it.  *(due: When the tournament bracket is seeded, or when anyone at the Academy re-examines his intake sheet.)*
 
 ## reputation
 

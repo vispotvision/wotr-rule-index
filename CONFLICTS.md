@@ -525,7 +525,7 @@ the author notes."
 **Quotes:** FoW VI (Glory): "**Aether Class emerges and the Echo field forms". TG Class I row: "Initiate through Adept, Awakened Crystal" (per the 2026-09-23 audit).
 **Consequence if unresolved:** a writer cannot say whether a Stage II–V practitioner has an Aether Class at all.
 **Recommendation:** none stated by either source.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-021 — Class I and the Awakened Crystal span different Stages; III–IV have no Crystal tier
 
@@ -534,7 +534,7 @@ the author notes."
 **Quotes:** TG:171 "Class I · Initiate to Apprentice · Stages I–II"; FoW VIII:70 "(Temperance I–II)"; TG:138 "Initiate through Adept, Awakened Crystal".
 **Consequence if unresolved:** a Journeyman or Adept card has no Crystal tier to cite.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-022 — how many Crystal States: four or three
 
@@ -543,7 +543,7 @@ the author notes."
 **Quotes:** see the two tables at those lines.
 **Consequence if unresolved:** cards citing "Crystallized" or "Overgrown" state rest on one page only.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-023 — which Threshold the Ascension Ration serves
 
@@ -552,7 +552,7 @@ the author notes."
 **Quotes:** Standing Index: "Carries a bonded practitioner to the Ascension quantitative floor reliably." Sixteen Stages: "**III to IV** | Ascension Ration, Accord Standard (T4)… The Catalyst is a Spirit Axis".
 **Consequence if unresolved:** a scene pricing the ration cannot say which Threshold it buys.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-024 — the Domain Seed Vitrifier's Class: III or IV
 
@@ -561,7 +561,7 @@ the author notes."
 **Quotes:** Standing Index: "**Domain Seed Vitrifier** · T6 | III / A / 42". Sixteen Stages: "Refraction Draught (T6) and Domain Seed Vitrifier (T6). Both reserved. Both Class IV."
 **Consequence if unresolved:** its carry rules and who may hold it are undefined.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-025 — three Paths or four
 
@@ -570,7 +570,7 @@ the author notes."
 **Quotes:** Categories: "The lived evolution along the three Paths." Four Paths: "A working has to get from a soul to the world, and there are four routes."
 **Consequence if unresolved:** Viaforma's description omits the Fate Path; a Fate-Path practitioner has no Viaforma account.
 **Recommendation:** none (the Four Paths page is the later, dedicated treatment, but neither page says it supersedes the other).
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-026 — does a Paragon pass Level 500
 
@@ -579,7 +579,7 @@ the author notes."
 **Quotes:** Tiered Path: "These practitioners have crossed past the five-hundredth level into territory the Codex calls the Apotheosis approach". TG: "Characters who reach Level 500 and continue to accumulate pressure do not advance in level."
 **Consequence if unresolved:** a Paragon's card cannot state a Level above 500, or can.
 **Recommendation:** none.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-027 — two Sub-Stats named Stability
 
@@ -588,7 +588,7 @@ the author notes."
 **Quotes:** FoW IV:172 "Every Sub-Stat name in the system is now unique".
 **Consequence if unresolved:** "Stability" on a card or gate is ambiguous.
 **Recommendation:** none; renaming one is Isaac's call.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-028 — can the Accord hang anyone
 
@@ -597,7 +597,7 @@ the author notes."
 **Quotes:** Codex: "The Accord is not a sovereign. It holds no territory and cannot hang anybody." Military: "Tribunal Marshals | Senior Executioners of the Codex".
 **Consequence if unresolved:** the Codex's framing of Crown against Accord may mislead a reader.
 **Recommendation:** none. The Codex line was left as written pending this.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
 
 ## C-029 — which Sub-Stats Dissonance tests
 
@@ -606,4 +606,4 @@ the author notes."
 **Quotes:** FoW II: "Overflow, Overchannel and Persistence". FoW VI (before the 2026-09-23 rename pass): "Ardency Overchannel, Ardency Detonation and Resilience Nullity".
 **Consequence if unresolved:** a Dissonance scene cannot say which numbers the Threshold reads.
 **Recommendation:** none; if FoW II governs, both bare "Nullity" become Persistence and FoW VI's Detonation becomes Overflow.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)

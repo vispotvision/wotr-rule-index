@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-547 live of 672 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+558 live of 683 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (27)
+## adjudication (29)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -142,6 +142,18 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
+### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
+
+The Accord executes only its own sworn members; in the New World it is the law.
+
+> The Accord cannot hang a kingdom's subject, but it executes its own sworn members under the Codex, through the Tribunal Marshals, and in the New World it is the law.
+
+### R42-11-DISSONANCE_SUBSTATS_BY_C013 [Magic System Rulings 2026-09-23 C-029]
+
+Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
+
+> Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.
+
 ### R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION [Sacrament Anchor Ruling Standing Ruling]
 
 A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
@@ -166,7 +178,7 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (71)
+## character-sheet (77)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -498,6 +510,42 @@ Roughly one outlier in eight named characters, each with a reason that exists in
 
 > Budget: roughly one outlier in eight named characters, and each one has a reason that exists in the workbook whether or not it ever reaches prose. Above that ratio the registers stop reading as systems and start reading as an author picking names he liked.
 
+### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
+
+The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
+
+> The Tiers of Standing are Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon; Tier 8 is no longer "Absolute" and Tier 9 no longer "Chosen" (the title Chosen of the Codex stands). Tier Grades remain lettered F through SSS, X, EX, EX+.
+
+### R42-2-AETHER_CLASS_FROM_GLORY [Magic System Rulings 2026-09-23 C-020]
+
+Aether Class emerges at Glory; Stages I–V are unclassed.
+
+> Aether Class emerges at Stage VI, Glory. Stages I–V are unclassed: the coil reads no Class, and Class Ø stays the sealed pre-Initiate Shell. Glory is Class I Muridic; Refraction is Class II Harmonic early and Class III Resonant late; Class V Radiant stays at Transcendence; everything above is unchanged.
+
+### R42-3-AWAKENED_CRYSTAL_I_TO_IV [Magic System Rulings 2026-09-23 C-021]
+
+The Awakened Crystal spans Stages I–IV.
+
+> The Awakened Crystal spans Stages I–IV, Initiate through Adept; the Harmonic Crystal begins at Stage V.
+
+### R42-4-THREE_CRYSTAL_STATES [Magic System Rulings 2026-09-23 C-022]
+
+Three Crystal States; Crystallized is a tier, not a State.
+
+> There are three Crystal States: Fractured, Refined, Overgrown. Crystallized is not a State; self-as-law belongs to the Crystallized Soul tier alone.
+
+### R42-8-PARAGON_LEVEL_UNCOUNTED [Magic System Rulings 2026-09-23 C-026]
+
+Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.
+
+> Paragons exceed Level 500. At Stages XV–XVI Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
+
+### R42-9-DOMINION_GRAVITY [Magic System Rulings 2026-09-23 C-027]
+
+Dominion's Stability is renamed Gravity.
+
+> Dominion's Stability is renamed Gravity; Harmonics keeps Stability.
+
 ### R22-2-NAMED_CHARACTERS_TABLE [Moto Reversion Ledger II]
 
 Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
@@ -597,7 +645,7 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## codex (36)
+## codex (37)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -814,6 +862,12 @@ The Master Codex row for [Abys] Deep now lists Oblation among its attested Wells
 Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
+
+### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
+
+There are four Paths, Fate included.
+
+> There are four Paths: Body, Spirit, Attraction and Fate.
 
 ## combat (64)
 
@@ -1769,7 +1823,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (24)
+## items (26)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1879,6 +1933,18 @@ Percussion does not seek to penetrate plate, it uses it — armour transmits for
 
 > Percussion answers to plate: none of these seek to penetrate. Plate is not defeated by percussion, it is used. The armour transmits force inward, and the correct target is the joint, the base, the balance and the man's ability to keep standing in fifty pounds of steel. A percussion fighter's answer to plate is to make the plate expensive to wear.
 
+### R42-5-ASCENSION_RATION_III_TO_IV [Magic System Rulings 2026-09-23 C-023]
+
+The Ascension Ration buys Flourishing's floor (III to IV).
+
+> The Ascension Ration serves the III to IV Threshold: it is held at Ascension and buys Flourishing's quantitative floor.
+
+### R42-6-VITRIFIER_CLASS_IV [Magic System Rulings 2026-09-23 C-024]
+
+The Domain Seed Vitrifier is Class IV.
+
+> The Domain Seed Vitrifier is Class IV, reserved, like the Refraction Draught.
+
 ### R34-1-MOTO_MATERIAL_CULTURE [Moto Material Culture Ruling Standing Ruling]
 
 Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
@@ -1915,7 +1981,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (79)
+## magic-design (80)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -2391,7 +2457,13 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
-## magic-mechanism (101)
+### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
+
+There are four Paths, Fate included.
+
+> There are four Paths: Body, Spirit, Attraction and Fate.
+
+## magic-mechanism (102)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -2957,6 +3029,12 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
+### R42-2-AETHER_CLASS_FROM_GLORY [Magic System Rulings 2026-09-23 C-020]
+
+Aether Class emerges at Glory; Stages I–V are unclassed.
+
+> Aether Class emerges at Stage VI, Glory. Stages I–V are unclassed: the coil reads no Class, and Class Ø stays the sealed pre-Initiate Shell. Glory is Class I Muridic; Refraction is Class II Harmonic early and Class III Resonant late; Class V Radiant stays at Transcendence; everything above is unchanged.
+
 ### R22-4-SYSTEM_TERMS_TABLE [Moto Reversion Ledger IV]
 
 Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
@@ -3232,7 +3310,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (95)
+## naming (97)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -3593,6 +3671,18 @@ Three vowels (a i u) with phonemic length, uvulars as the signature (q where ano
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
+
+The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
+
+> The Tiers of Standing are Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon; Tier 8 is no longer "Absolute" and Tier 9 no longer "Chosen" (the title Chosen of the Codex stands). Tier Grades remain lettered F through SSS, X, EX, EX+.
+
+### R42-9-DOMINION_GRAVITY [Magic System Rulings 2026-09-23 C-027]
+
+Dominion's Stability is renamed Gravity.
+
+> Dominion's Stability is renamed Gravity; Harmonics keeps Stability.
 
 ### R22-1-HOUSE_STRUCK [Moto Reversion Ledger I]
 
@@ -5802,7 +5892,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (48)
+## stats (57)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -6031,6 +6121,60 @@ A Voidic practitioner is a poor attacker and the finest suppression instrument i
 Speed is Essence; a character who arrives fast arrives depleted, and there is no free travel at Grade — a scene with one has spent a resource silently.
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
+
+### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
+
+The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
+
+> The Tiers of Standing are Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon; Tier 8 is no longer "Absolute" and Tier 9 no longer "Chosen" (the title Chosen of the Codex stands). Tier Grades remain lettered F through SSS, X, EX, EX+.
+
+### R42-2-AETHER_CLASS_FROM_GLORY [Magic System Rulings 2026-09-23 C-020]
+
+Aether Class emerges at Glory; Stages I–V are unclassed.
+
+> Aether Class emerges at Stage VI, Glory. Stages I–V are unclassed: the coil reads no Class, and Class Ø stays the sealed pre-Initiate Shell. Glory is Class I Muridic; Refraction is Class II Harmonic early and Class III Resonant late; Class V Radiant stays at Transcendence; everything above is unchanged.
+
+### R42-3-AWAKENED_CRYSTAL_I_TO_IV [Magic System Rulings 2026-09-23 C-021]
+
+The Awakened Crystal spans Stages I–IV.
+
+> The Awakened Crystal spans Stages I–IV, Initiate through Adept; the Harmonic Crystal begins at Stage V.
+
+### R42-4-THREE_CRYSTAL_STATES [Magic System Rulings 2026-09-23 C-022]
+
+Three Crystal States; Crystallized is a tier, not a State.
+
+> There are three Crystal States: Fractured, Refined, Overgrown. Crystallized is not a State; self-as-law belongs to the Crystallized Soul tier alone.
+
+### R42-5-ASCENSION_RATION_III_TO_IV [Magic System Rulings 2026-09-23 C-023]
+
+The Ascension Ration buys Flourishing's floor (III to IV).
+
+> The Ascension Ration serves the III to IV Threshold: it is held at Ascension and buys Flourishing's quantitative floor.
+
+### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
+
+There are four Paths, Fate included.
+
+> There are four Paths: Body, Spirit, Attraction and Fate.
+
+### R42-8-PARAGON_LEVEL_UNCOUNTED [Magic System Rulings 2026-09-23 C-026]
+
+Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.
+
+> Paragons exceed Level 500. At Stages XV–XVI Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
+
+### R42-9-DOMINION_GRAVITY [Magic System Rulings 2026-09-23 C-027]
+
+Dominion's Stability is renamed Gravity.
+
+> Dominion's Stability is renamed Gravity; Harmonics keeps Stability.
+
+### R42-11-DISSONANCE_SUBSTATS_BY_C013 [Magic System Rulings 2026-09-23 C-029]
+
+Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
+
+> Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.
 
 ### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
 
@@ -6619,7 +6763,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (125)
+## worldbuilding (126)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7196,6 +7340,12 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
+
+The Accord executes only its own sworn members; in the New World it is the law.
+
+> The Accord cannot hang a kingdom's subject, but it executes its own sworn members under the Codex, through the Tribunal Marshals, and in the New World it is the law.
 
 ### R34-1-MOTO_MATERIAL_CULTURE [Moto Material Culture Ruling Standing Ruling]
 

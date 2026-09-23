@@ -536,3 +536,40 @@ Context: 2026-09-21, Class X tournament post (Xanelor / Hiromi / Mu-jin). Isaac:
 Juggernaut's Fist (Hiromi Mahuo): any contact counts as a landed strike, including a blow that is parried or blocked. Each contact deepens a gravity well (aetheric pressure raising air pressure and local pull) on the struck body. Isaac's ruling, shown in play 2026-09-22. The technique still needs a card entry with Cost, Limit and Counter; the demonstrated counter is that the imposed weight is only force and a skilled opponent can spend it as leverage.
 
 Context: Raised in xanelor_juggernauts_fist, where Xanelor's parry held but his forearm still grew heavier; answered by Isaac in xanelor_the_arrow, where Xanelor deliberately takes the fists on his forearms and each one adds weight.
+
+## 2026-09-23 — the Magic System conflicts C-020 through C-029 closed; Tiers 8 and 9 renamed
+
+Isaac, in Claude Code (a questionnaire over every open row; each answer is
+his choice among stated options, quoted here as ruled). Rows R42-1 to R42-11
+in `rules/doc-magic-system-rulings-2026-09-23.yaml` carry them into the index.
+
+- **Tier names.** The Tiers of Standing are Initiate, Apprentice, Journeyman,
+  Adept, Expert, Master, Grandmaster, Archmaster, Paragon; Tier 8 is no
+  longer "Absolute" and Tier 9 no longer "Chosen" (the title Chosen of the
+  Codex stands). Tier Grades remain lettered F through SSS, X, EX, EX+.
+- **C-020.** Aether Class emerges at Stage VI, Glory. Stages I–V are
+  unclassed: the coil reads no Class, and Class Ø stays the sealed
+  pre-Initiate Shell. Glory is Class I Muridic; Refraction is Class II
+  Harmonic early and Class III Resonant late; Class V Radiant stays at
+  Transcendence; everything above is unchanged.
+- **C-021.** The Awakened Crystal spans Stages I–IV, Initiate through Adept;
+  the Harmonic Crystal begins at Stage V.
+- **C-022.** There are three Crystal States: Fractured, Refined, Overgrown.
+  Crystallized is not a State; self-as-law belongs to the Crystallized Soul
+  tier alone.
+- **C-023.** The Ascension Ration serves the III to IV Threshold: it is held
+  at Ascension and buys Flourishing's quantitative floor.
+- **C-024.** The Domain Seed Vitrifier is Class IV, reserved, like the
+  Refraction Draught.
+- **C-025.** There are four Paths: Body, Spirit, Attraction and Fate.
+- **C-026.** Paragons exceed Level 500. At Stages XV–XVI Level keeps
+  rising past 500 with no ceiling and no sixth Band; the Codex does not
+  number it.
+- **C-027.** Dominion's Stability is renamed Gravity; Harmonics keeps
+  Stability.
+- **C-028.** The Accord cannot hang a kingdom's subject, but it executes its
+  own sworn members under the Codex, through the Tribunal Marshals, and in
+  the New World it is the law.
+- **C-029.** Closed by the existing C-013 ruling of 2026-09-13: the
+  Sub-Stats that reach their true ceiling only through Dissonance are
+  Overflow, Overchannel and Persistence.

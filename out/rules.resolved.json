@@ -3871,6 +3871,350 @@
     "superseded_by": []
   },
   {
+    "id": "R42-1-TIER_NAMES_ARCHMASTER_PARAGON",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "Tier names",
+    "title": "The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.",
+    "verbatim": "The Tiers of Standing are Initiate, Apprentice, Journeyman, Adept, Expert, Master, Grandmaster, Archmaster, Paragon; Tier 8 is no longer \"Absolute\" and Tier 9 no longer \"Chosen\" (the title Chosen of the Codex stands). Tier Grades remain lettered F through SSS, X, EX, EX+.",
+    "amends": [
+      {
+        "guide": "The Standing and the Title — The Three Names",
+        "locus": "The Standing and the Title — The Three Names",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Isaac's direction of 2026-09-23, applied across the Notion wiki.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-10-ACCORD_EXECUTES_ITS_OWN",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-028",
+    "title": "The Accord executes only its own sworn members; in the New World it is the law",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Accord executes only its own sworn members; in the New World it is the law.",
+    "verbatim": "The Accord cannot hang a kingdom's subject, but it executes its own sworn members under the Codex, through the Tribunal Marshals, and in the New World it is the law.",
+    "amends": [
+      {
+        "guide": "The Guild Accord",
+        "locus": "The Guild Accord",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "worldbuilding",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-028)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-028.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-11-DISSONANCE_SUBSTATS_BY_C013",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-029",
+    "title": "Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.",
+    "verbatim": "Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-029)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-029.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-2-AETHER_CLASS_FROM_GLORY",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-020",
+    "title": "Aether Class emerges at Glory; Stages I–V are unclassed",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Aether Class emerges at Glory; Stages I–V are unclassed.",
+    "verbatim": "Aether Class emerges at Stage VI, Glory. Stages I–V are unclassed: the coil reads no Class, and Class Ø stays the sealed pre-Initiate Shell. Glory is Class I Muridic; Refraction is Class II Harmonic early and Class III Resonant late; Class V Radiant stays at Transcendence; everything above is unchanged.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "magic-mechanism"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-020)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-020.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-3-AWAKENED_CRYSTAL_I_TO_IV",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-021",
+    "title": "The Awakened Crystal spans Stages I–IV",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Awakened Crystal spans Stages I–IV.",
+    "verbatim": "The Awakened Crystal spans Stages I–IV, Initiate through Adept; the Harmonic Crystal begins at Stage V.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-021)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-021.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-4-THREE_CRYSTAL_STATES",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-022",
+    "title": "Three Crystal States; Crystallized is a tier, not a State",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Three Crystal States; Crystallized is a tier, not a State.",
+    "verbatim": "There are three Crystal States: Fractured, Refined, Overgrown. Crystallized is not a State; self-as-law belongs to the Crystallized Soul tier alone.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-022)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-022.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-5-ASCENSION_RATION_III_TO_IV",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-023",
+    "title": "The Ascension Ration buys Flourishing's floor (III to IV)",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Ascension Ration buys Flourishing's floor (III to IV).",
+    "verbatim": "The Ascension Ration serves the III to IV Threshold: it is held at Ascension and buys Flourishing's quantitative floor.",
+    "amends": [
+      {
+        "guide": "The Ladder and the Draft — Temperance, Advancement and Essence Drafts",
+        "locus": "The Ladder and the Draft — Temperance, Advancement and Essence Drafts",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-023)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-023.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-6-VITRIFIER_CLASS_IV",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-024",
+    "title": "The Domain Seed Vitrifier is Class IV",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The Domain Seed Vitrifier is Class IV.",
+    "verbatim": "The Domain Seed Vitrifier is Class IV, reserved, like the Refraction Draught.",
+    "amends": [
+      {
+        "guide": "The Standing Index",
+        "locus": "The Standing Index",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-024)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-024.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-7-FOUR_PATHS",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-025",
+    "title": "There are four Paths, Fate included",
+    "status": "live",
+    "kind": "definition",
+    "summary": "There are four Paths, Fate included.",
+    "verbatim": "There are four Paths: Body, Spirit, Attraction and Fate.",
+    "amends": [
+      {
+        "guide": "The Four Paths Routing, Recognition and the Gate",
+        "locus": "The Four Paths Routing, Recognition and the Gate",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "codex",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-025)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-025.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-8-PARAGON_LEVEL_UNCOUNTED",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-026",
+    "title": "Past Level 500 at Stages XV–XVI, uncounted, no sixth Band",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.",
+    "verbatim": "Paragons exceed Level 500. At Stages XV–XVI Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-026)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-026.",
+    "superseded_by": []
+  },
+  {
+    "id": "R42-9-DOMINION_GRAVITY",
+    "pack": "Magic System Rulings 2026-09-23",
+    "pack_number": null,
+    "section": "C-027",
+    "title": "Dominion's Stability is renamed Gravity",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Dominion's Stability is renamed Gravity.",
+    "verbatim": "Dominion's Stability is renamed Gravity; Harmonics keeps Stability.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "character-sheet",
+      "naming"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-23, Claude Code: ruled directly (closes C-027)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-027.",
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

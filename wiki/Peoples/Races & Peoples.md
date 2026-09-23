@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8170-8ac9-c4b9f7a6798a"
 notion_url: "https://app.notion.com/p/Races-Peoples-3b158200eb2281708ac9c4b9f7a6798a"
 section: "Peoples"
 tags: ["Peoples", "Bloodlines", "Geography"]
-last_edited: "2026-09-10T10:11:00.000Z"
+last_edited: "2026-09-23T00:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -64,3 +64,4 @@ The codices in this section are not neutral. Each people's entry is written from
 > *Parunic is the exception and stays where it is. It is a script for writing boundaries onto laws, not a tongue anyone was raised in, so it lives under The Magic System with the Descent of Parun and the Counted Speech.*
 >
 > *Still open: Drow Shadow-Veil notation, described from outside in three places and never given an entry, and Mirror-Sign, named as a full manual language with its own grammar and never given one.*
+- [The Ashkaru](Races & Peoples/The Ashkaru.md)

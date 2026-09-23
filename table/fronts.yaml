@@ -46,8 +46,12 @@
   thread: Kharven thread, the year after
   status: open
   want: four constituents with every reason to hate each other each want the instrument read their way.
-  last_move: signed, Sodoku's hand last.
-  next_move: The first test of the refugee clause, by someone who signed it.
+  last_move: 'First test of the refugee clause, by someone who signed it: Lambert brings Sodoku a Stannvaard
+    petition (Oskel and Daughters) reading clause nine''s "received" as a date after the seal, which would
+    put the four hundred and six outside the circle''s protection as grain-debt, and lays a drafted reading
+    with a space for the king''s seal nineteen days before the circle sits.'
+  next_move: The reading that test produces is entered, and one constituent discovers the instrument read
+    their way is now the minority reading.
   clock:
   - tick: 1
     consequence: The first test of the refugee clause, by someone who signed it.
@@ -63,8 +67,8 @@
   - tick: 5
     consequence: 'Resolves: the circle has a name and a first precedent, or it has split along the reading
       and the instrument is two documents.'
-  position: 0
-  last_advanced: null
+  position: 1
+  last_advanced: '2026-09-22'
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
 - id: tabitha-hallenfeld
   name: Tabitha Hallenfeld

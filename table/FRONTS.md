@@ -18,11 +18,11 @@ Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the pr
   - [ ] 4. The Keth-Gorrum sends the word north to the Accord table as a demand that Kharven use it in its own records; the Accord circle has to rule on a foreign noun.
   - [ ] 5. Resolves: the word is either entered in Kharven's roll or refused in writing, and whichever it is, the Expanse remembers who signed.
 
-**The Accord circle, unnamed** ○○○○○ 0/5 · open
+**The Accord circle, unnamed** ●○○○○ 1/5 · open
 - Want: four constituents with every reason to hate each other each want the instrument read their way.
-- Last move: signed, Sodoku's hand last.
-- Next move: The first test of the refugee clause, by someone who signed it.
-  - [ ] 1. The first test of the refugee clause, by someone who signed it.
+- Last move: First test of the refugee clause, by someone who signed it: Lambert brings Sodoku a Stannvaard petition (Oskel and Daughters) reading clause nine's "received" as a date after the seal, which would put the four hundred and six outside the circle's protection as grain-debt, and lays a drafted reading with a space for the king's seal nineteen days before the circle sits.
+- Next move: The reading that test produces is entered, and one constituent discovers the instrument read their way is now the minority reading.
+  - [x] 1. The first test of the refugee clause, by someone who signed it.
   - [ ] 2. The reading that test produces is entered, and one constituent discovers the instrument read their way is now the minority reading.
   - [ ] 3. The circle is asked for its name in a document that cannot leave the space blank; the naming becomes the fight.
   - [ ] 4. The second test of the clause arrives from outside the four (a Keth-Gorrum noun, a Stannvaard debt) and the circle has to speak with one voice or admit it has none.

@@ -1,6 +1,111 @@
 {
-"run": "2026-09-22T05:35:29",
+"run": "2026-09-23T17:44:57",
 "findings": {
+"3a3722c1a3a3": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not merely push from above but\" (banned; AI-tells §1)",
+"key": "3a3722c1a3a3",
+"first_seen": "2026-09-23"
+},
+"550412276bd9": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not simply a light that could be tangile, but\" (banned; AI-tells §1)",
+"key": "550412276bd9",
+"first_seen": "2026-09-23"
+},
+"06e178b1271c": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"was not simply empowerment, this was the freedom of expression, the revelation of nature i\" (banned; AI-tells §1)",
+"key": "06e178b1271c",
+"first_seen": "2026-09-23"
+},
+"ab78a1797fad": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just become physical, but\" (banned; AI-tells §1)",
+"key": "ab78a1797fad",
+"first_seen": "2026-09-23"
+},
+"c57d74ca9a7c": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not simply an evasive measure, but\" (banned; AI-tells §1)",
+"key": "c57d74ca9a7c",
+"first_seen": "2026-09-23"
+},
+"23a3c7f57f4c": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not simply erase events that had never occurred, but\" (banned; AI-tells §1)",
+"key": "23a3c7f57f4c",
+"first_seen": "2026-09-23"
+},
+"35f05c2a0a7d": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "antithesis: 12 more",
+"key": "35f05c2a0a7d",
+"first_seen": "2026-09-23"
+},
+"bc92cd0566a8": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "countdown negation: \"“No sermons. No cathedral. No witnesses telling you what your suffering means. Just pressure, darkness, and the body discovering that convic\" (AI-tells §1)",
+"key": "bc92cd0566a8",
+"first_seen": "2026-09-23"
+},
+"66821c064517": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "countdown negation: \"No bodies. No Names. No histories. No relationships. Only consciousness suspended over an absolute absence that provided nothing for conscio\" (AI-tells §1)",
+"key": "66821c064517",
+"first_seen": "2026-09-23"
+},
+"f20cb3ac7a28": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "countdown negation: \"No corruption. Nothing offered to the maw. Only metal.\" (AI-tells §1)",
+"key": "f20cb3ac7a28",
+"first_seen": "2026-09-23"
+},
+"ea6b86b903b2": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "countdown negation: \"There was no second shield. No sword technique. No Aspect calculation. Only the child behind him.\" (AI-tells §1)",
+"key": "ea6b86b903b2",
+"first_seen": "2026-09-23"
+},
+"76e07b0ca9fb": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "countdown negation: \"No courtesy. No disguise. No attempt at civilization. Only Kujo.\" (AI-tells §1)",
+"key": "76e07b0ca9fb",
+"first_seen": "2026-09-23"
+},
+"16a0b965448a": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "reification: 22 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"weight came\"; \"the weight came\"; \"weight he carried\"; \"The weight pressed\"; \"the authority he carried\"",
+"key": "16a0b965448a",
+"first_seen": "2026-09-23"
+},
+"6f4a89d8498e": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "6f4a89d8498e",
+"first_seen": "2026-09-23"
+},
+"2523cc80d1a0": {
+"file": "commencement_of_the_curia_kujo_arc.md",
+"check": "prose",
+"text": "flat runs: 263 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "2523cc80d1a0",
+"first_seen": "2026-09-23"
+},
 "0f2e58866e24": {
 "file": "The_Path_of_Sorrow.md",
 "check": "prose",
@@ -71,6 +176,55 @@
 "key": "1132353b0bb4",
 "first_seen": "2026-09-13"
 },
+"4adf4a8e0ef9": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just physically but\" (banned; AI-tells §1)",
+"key": "4adf4a8e0ef9",
+"first_seen": "2026-09-23"
+},
+"1511ffccd6c6": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"which was more graceful than the\" (banned; AI-tells §1)",
+"key": "1511ffccd6c6",
+"first_seen": "2026-09-23"
+},
+"aca4573250e4": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not cynicism, it is\" (banned; AI-tells §1)",
+"key": "aca4573250e4",
+"first_seen": "2026-09-23"
+},
+"1c94a2610f54": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "countdown negation: \"“Not enough to kill you. Not yet. Just enough that every promise starts costing something.”\" (AI-tells §1)",
+"key": "1c94a2610f54",
+"first_seen": "2026-09-23"
+},
+"3ea933aa5241": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "3ea933aa5241",
+"first_seen": "2026-09-23"
+},
+"ad2e4da2b1c5": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "flat runs: 23 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "ad2e4da2b1c5",
+"first_seen": "2026-09-23"
+},
+"ed38a343c212": {
+"file": "the_true_king_of_the_north_part_21.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (the death-house / the Waiting); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "ed38a343c212",
+"first_seen": "2026-09-23"
+},
 "eed6eb9dad30": {
 "file": "WOTR_Vaeloris_Sequence.md",
 "check": "prose",
@@ -106,6 +260,41 @@
 "key": "dbd68eff18b8",
 "first_seen": "2026-09-13"
 },
+"497e72e2a369": {
+"file": "the_true_king_of_the_north_part_9.md",
+"check": "prose",
+"text": "em dashes: 2 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "497e72e2a369",
+"first_seen": "2026-09-23"
+},
+"69f808f40e6d": {
+"file": "the_true_king_of_the_north_part_9.md",
+"check": "prose",
+"text": "reification: 3 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"silence followed\"; \"the grief came\"; \"Silence settled\"",
+"key": "69f808f40e6d",
+"first_seen": "2026-09-23"
+},
+"79e3c8fb17bb": {
+"file": "the_true_king_of_the_north_part_9.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "79e3c8fb17bb",
+"first_seen": "2026-09-23"
+},
+"6d910f2cc5df": {
+"file": "the_true_king_of_the_north_part_9.md",
+"check": "prose",
+"text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6d910f2cc5df",
+"first_seen": "2026-09-23"
+},
+"ca06b45ba995": {
+"file": "the_true_king_of_the_north_part_9.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "ca06b45ba995",
+"first_seen": "2026-09-23"
+},
 "b74348a057b2": {
 "file": "THE_YUKARI_BLOODLINE.md",
 "check": "prose",
@@ -140,6 +329,76 @@
 "text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "3bbe2bc339c4",
 "first_seen": "2026-09-13"
+},
+"567019cc9963": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"that was more interesting than handsome\" (banned; AI-tells §1)",
+"key": "567019cc9963",
+"first_seen": "2026-09-23"
+},
+"c2bcf1102e33": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "reification: 4 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"weight settled\"; \"the silence that followed\"; \"the moment arrived\"; \"The silence that followed\"",
+"key": "c2bcf1102e33",
+"first_seen": "2026-09-23"
+},
+"5acfb1bb4fbc": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5acfb1bb4fbc",
+"first_seen": "2026-09-23"
+},
+"287d58a6f5ba": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "flat runs: 26 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "287d58a6f5ba",
+"first_seen": "2026-09-23"
+},
+"85eea6d8f168": {
+"file": "the_true_king_of_the_north_part_1.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "85eea6d8f168",
+"first_seen": "2026-09-23"
+},
+"2addf95d0929": {
+"file": "the_true_king_of_the_north_part_20.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"it is not a virtue, it is\" (banned; AI-tells §1)",
+"key": "2addf95d0929",
+"first_seen": "2026-09-23"
+},
+"b17e66786688": {
+"file": "the_true_king_of_the_north_part_20.md",
+"check": "prose",
+"text": "countdown negation: \"It was not ceremonial. Not sovereign. Just Zuberi.\" (AI-tells §1)",
+"key": "b17e66786688",
+"first_seen": "2026-09-23"
+},
+"78732f7f2bf2": {
+"file": "the_true_king_of_the_north_part_20.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "78732f7f2bf2",
+"first_seen": "2026-09-23"
+},
+"24b149d1714d": {
+"file": "the_true_king_of_the_north_part_20.md",
+"check": "prose",
+"text": "flat runs: 11 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "24b149d1714d",
+"first_seen": "2026-09-23"
+},
+"b85ff55a3ed8": {
+"file": "the_true_king_of_the_north_part_20.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "b85ff55a3ed8",
+"first_seen": "2026-09-23"
 },
 "f456107fe357": {
 "file": "01_the_vacancy_korvaeth_arc.md",
@@ -204,6 +463,174 @@
 "key": "a24940f9d31f",
 "first_seen": "2026-09-13"
 },
+"5e75049a870e": {
+"file": "the_true_king_of_the_north_part_12.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "5e75049a870e",
+"first_seen": "2026-09-23"
+},
+"3ff2a1d3df38": {
+"file": "the_true_king_of_the_north_part_12.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "3ff2a1d3df38",
+"first_seen": "2026-09-23"
+},
+"48d65e23d85a": {
+"file": "the_true_king_of_the_north_part_12.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "48d65e23d85a",
+"first_seen": "2026-09-23"
+},
+"017ac2041683": {
+"file": "the_true_king_of_the_north_part_12.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "017ac2041683",
+"first_seen": "2026-09-23"
+},
+"cf6d8abf7936": {
+"file": "the_true_king_of_the_north_part_2.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not cruelty; it is\" (banned; AI-tells §1)",
+"key": "cf6d8abf7936",
+"first_seen": "2026-09-23"
+},
+"c292a89c421e": {
+"file": "the_true_king_of_the_north_part_2.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c292a89c421e",
+"first_seen": "2026-09-23"
+},
+"d579ca20b706": {
+"file": "the_true_king_of_the_north_part_2.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d579ca20b706",
+"first_seen": "2026-09-23"
+},
+"33d419d822f7": {
+"file": "the_true_king_of_the_north_part_2.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "33d419d822f7",
+"first_seen": "2026-09-23"
+},
+"926aff85ed2d": {
+"file": "the_true_king_of_the_north_part_14.md",
+"check": "prose",
+"text": "em dashes: 2 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "926aff85ed2d",
+"first_seen": "2026-09-23"
+},
+"935ee367028d": {
+"file": "the_true_king_of_the_north_part_14.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "935ee367028d",
+"first_seen": "2026-09-23"
+},
+"d32f0a167c48": {
+"file": "the_true_king_of_the_north_part_14.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d32f0a167c48",
+"first_seen": "2026-09-23"
+},
+"a010b9b983e9": {
+"file": "the_true_king_of_the_north_part_14.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "a010b9b983e9",
+"first_seen": "2026-09-23"
+},
+"ea3c2f1fb808": {
+"file": "the_true_king_of_the_north_part_16.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "ea3c2f1fb808",
+"first_seen": "2026-09-23"
+},
+"ea231b3a5438": {
+"file": "the_true_king_of_the_north_part_16.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "ea231b3a5438",
+"first_seen": "2026-09-23"
+},
+"d862c11cebbf": {
+"file": "the_true_king_of_the_north_part_16.md",
+"check": "prose",
+"text": "flat runs: 11 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "d862c11cebbf",
+"first_seen": "2026-09-23"
+},
+"a9cde316bf90": {
+"file": "the_true_king_of_the_north_part_16.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "a9cde316bf90",
+"first_seen": "2026-09-23"
+},
+"58db48f7ea21": {
+"file": "the_true_king_of_the_north_part_7.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not just as\" (banned; AI-tells §1)",
+"key": "58db48f7ea21",
+"first_seen": "2026-09-23"
+},
+"c47b2a6cb554": {
+"file": "the_true_king_of_the_north_part_7.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "c47b2a6cb554",
+"first_seen": "2026-09-23"
+},
+"0905a2687927": {
+"file": "the_true_king_of_the_north_part_7.md",
+"check": "prose",
+"text": "flat runs: 20 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "0905a2687927",
+"first_seen": "2026-09-23"
+},
+"83acf75a2e3d": {
+"file": "the_true_king_of_the_north_part_7.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "83acf75a2e3d",
+"first_seen": "2026-09-23"
+},
+"e70748bcb3f5": {
+"file": "the_true_king_of_the_north_part_3.md",
+"check": "prose",
+"text": "reification: two in one paragraph (R4-15-ONE_PER_PARAGRAPH): \"weight settled\"; \"weight always settled\"",
+"key": "e70748bcb3f5",
+"first_seen": "2026-09-23"
+},
+"6c58fa1e64cc": {
+"file": "the_true_king_of_the_north_part_3.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "6c58fa1e64cc",
+"first_seen": "2026-09-23"
+},
+"ee540f494721": {
+"file": "the_true_king_of_the_north_part_3.md",
+"check": "prose",
+"text": "flat runs: 14 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "ee540f494721",
+"first_seen": "2026-09-23"
+},
+"e741ad3d382c": {
+"file": "the_true_king_of_the_north_part_3.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "e741ad3d382c",
+"first_seen": "2026-09-23"
+},
 "20e8f1c2d13c": {
 "file": "the_field_where_they_picked_them.md",
 "check": "prose",
@@ -231,6 +658,34 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "b4eea78231f1",
 "first_seen": "2026-09-18"
+},
+"e2724a589ab0": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "Ladder, two clauses in one sentence: \"It tasted like cold air and iron and the specific warmth of a morning where everything was functioni\" (R6-1-LADDER_BAN, Check 18)",
+"key": "e2724a589ab0",
+"first_seen": "2026-09-23"
+},
+"66adebdb6023": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "66adebdb6023",
+"first_seen": "2026-09-23"
+},
+"8dcaca21cb6a": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "8dcaca21cb6a",
+"first_seen": "2026-09-23"
+},
+"5aab89a82475": {
+"file": "the_true_king_of_the_north_part_6.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "5aab89a82475",
+"first_seen": "2026-09-23"
 },
 "f32e620d0694": {
 "file": "15_darius_kill_me_first.md",
@@ -288,6 +743,34 @@
 "key": "413947a9de1c",
 "first_seen": "2026-09-13"
 },
+"bc65a2406d22": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "em dashes: 263 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "bc65a2406d22",
+"first_seen": "2026-09-23"
+},
+"f09c82a2c200": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f09c82a2c200",
+"first_seen": "2026-09-23"
+},
+"9e3cdeb9099b": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "flat runs: 46 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9e3cdeb9099b",
+"first_seen": "2026-09-23"
+},
+"2f5f71ecdfe7": {
+"file": "CONTINUITY.md",
+"check": "prose",
+"text": "sentences under 8 words: 8% of scene, floor is 18% (R4-14-HARD_CEILINGS)",
+"key": "2f5f71ecdfe7",
+"first_seen": "2026-09-23"
+},
 "a76b624e9e51": {
 "file": "verinus_what_a_thing_weighs.md",
 "check": "prose",
@@ -344,6 +827,27 @@
 "key": "6225bfbe378b",
 "first_seen": "2026-09-13"
 },
+"201cf8ce94be": {
+"file": "the_house_of_abscene_kujo_arc.md",
+"check": "prose",
+"text": "reification: 6 unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): \"weight arrived\"; \"the moment he arrived\"; \"authority sat\"; \"Silence settled\"; \"authority she gathered\"",
+"key": "201cf8ce94be",
+"first_seen": "2026-09-23"
+},
+"ac4872da34c4": {
+"file": "the_house_of_abscene_kujo_arc.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "ac4872da34c4",
+"first_seen": "2026-09-23"
+},
+"cfb1aa4f0e19": {
+"file": "the_house_of_abscene_kujo_arc.md",
+"check": "prose",
+"text": "flat runs: 122 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "cfb1aa4f0e19",
+"first_seen": "2026-09-23"
+},
 "99abda4cca20": {
 "file": "Niran_Mira_Return_to_the_Enclave.md",
 "check": "prose",
@@ -365,6 +869,69 @@
 "key": "5c7b563ca997",
 "first_seen": "2026-09-13"
 },
+"802c5ce31b04": {
+"file": "the_true_king_of_the_north_part_17.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "802c5ce31b04",
+"first_seen": "2026-09-23"
+},
+"7a508cfa79b3": {
+"file": "the_true_king_of_the_north_part_17.md",
+"check": "prose",
+"text": "flat runs: 16 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "7a508cfa79b3",
+"first_seen": "2026-09-23"
+},
+"c9d7ee192fea": {
+"file": "the_true_king_of_the_north_part_17.md",
+"check": "prose",
+"text": "Kharven recurrence: 1 of the five signature items present (wet wood); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "c9d7ee192fea",
+"first_seen": "2026-09-23"
+},
+"42ece954b17b": {
+"file": "the_true_king_of_the_north_part_11.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "42ece954b17b",
+"first_seen": "2026-09-23"
+},
+"9c47293b2f4c": {
+"file": "the_true_king_of_the_north_part_11.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "9c47293b2f4c",
+"first_seen": "2026-09-23"
+},
+"1d337f0d713c": {
+"file": "the_true_king_of_the_north_part_11.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "1d337f0d713c",
+"first_seen": "2026-09-23"
+},
+"5454d4acd172": {
+"file": "the_true_king_of_the_north_part_15.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "5454d4acd172",
+"first_seen": "2026-09-23"
+},
+"65fe980e478b": {
+"file": "the_true_king_of_the_north_part_15.md",
+"check": "prose",
+"text": "flat runs: 10 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "65fe980e478b",
+"first_seen": "2026-09-23"
+},
+"3864623d3598": {
+"file": "the_true_king_of_the_north_part_15.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "3864623d3598",
+"first_seen": "2026-09-23"
+},
 "1855c609925c": {
 "file": "the_years_that_were_not_war.md",
 "check": "prose",
@@ -385,6 +952,48 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "d3ff760ed3ee",
 "first_seen": "2026-09-18"
+},
+"a325f68d35cf": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"That is not a mistake, it is\" (banned; AI-tells §1)",
+"key": "a325f68d35cf",
+"first_seen": "2026-09-23"
+},
+"b42fab671789": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"It is not a mark he puts on it, it is\" (banned; AI-tells §1)",
+"key": "b42fab671789",
+"first_seen": "2026-09-23"
+},
+"a953ac07e911": {
+"file": "the_nights_watch.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "a953ac07e911",
+"first_seen": "2026-09-23"
+},
+"7f23530938ab": {
+"file": "the_true_king_of_the_north_part_10.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "7f23530938ab",
+"first_seen": "2026-09-23"
+},
+"3d4c167b667f": {
+"file": "the_true_king_of_the_north_part_10.md",
+"check": "prose",
+"text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "3d4c167b667f",
+"first_seen": "2026-09-23"
+},
+"38d2a9d6f80a": {
+"file": "the_true_king_of_the_north_part_10.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "38d2a9d6f80a",
+"first_seen": "2026-09-23"
 },
 "27019b6825d5": {
 "file": "19_aurelian_five_numbers.md",
@@ -449,6 +1058,48 @@
 "key": "1903bf3eb72d",
 "first_seen": "2026-09-13"
 },
+"dc9e6c4d0700": {
+"file": "the_true_king_of_the_north_part_13.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "dc9e6c4d0700",
+"first_seen": "2026-09-23"
+},
+"52ab9a2907bc": {
+"file": "the_true_king_of_the_north_part_13.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "52ab9a2907bc",
+"first_seen": "2026-09-23"
+},
+"1dfea0f28f30": {
+"file": "the_true_king_of_the_north_part_13.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "1dfea0f28f30",
+"first_seen": "2026-09-23"
+},
+"603a02af6474": {
+"file": "the_true_king_of_the_north_part_4.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "603a02af6474",
+"first_seen": "2026-09-23"
+},
+"e704f6aad4a0": {
+"file": "the_true_king_of_the_north_part_4.md",
+"check": "prose",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e704f6aad4a0",
+"first_seen": "2026-09-23"
+},
+"899c757076fd": {
+"file": "the_true_king_of_the_north_part_4.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "899c757076fd",
+"first_seen": "2026-09-23"
+},
 "00e914d48d40": {
 "file": "the_empty_place.md",
 "check": "prose",
@@ -469,6 +1120,90 @@
 "text": "flat runs: 6 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "4f568023d92b",
 "first_seen": "2026-09-18"
+},
+"ba93ba5f0d44": {
+"file": "the_true_king_of_the_north_part_19.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"that is more work than most\" (banned; AI-tells §1)",
+"key": "ba93ba5f0d44",
+"first_seen": "2026-09-23"
+},
+"a62c02d5f865": {
+"file": "the_true_king_of_the_north_part_19.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "a62c02d5f865",
+"first_seen": "2026-09-23"
+},
+"b4d27111e268": {
+"file": "the_true_king_of_the_north_part_19.md",
+"check": "prose",
+"text": "flat runs: 15 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "b4d27111e268",
+"first_seen": "2026-09-23"
+},
+"5f6511f28278": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "antithesis 'not X but Y': \"not simply a blade because of the purpose that it brings as\" (banned; AI-tells §1)",
+"key": "5f6511f28278",
+"first_seen": "2026-09-23"
+},
+"f291e1e98a5b": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f291e1e98a5b",
+"first_seen": "2026-09-23"
+},
+"e37830f7c315": {
+"file": "the_true_king_of_the_north_part_22.md",
+"check": "prose",
+"text": "flat runs: 9 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "e37830f7c315",
+"first_seen": "2026-09-23"
+},
+"1201538b47f2": {
+"file": "the_true_king_of_the_north_part_5.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "1201538b47f2",
+"first_seen": "2026-09-23"
+},
+"1162453eb11b": {
+"file": "the_true_king_of_the_north_part_5.md",
+"check": "prose",
+"text": "flat runs: 7 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "1162453eb11b",
+"first_seen": "2026-09-23"
+},
+"cbde6505290a": {
+"file": "the_true_king_of_the_north_part_5.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "cbde6505290a",
+"first_seen": "2026-09-23"
+},
+"f22c4f92b324": {
+"file": "the_true_king_of_the_north_part_8.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "f22c4f92b324",
+"first_seen": "2026-09-23"
+},
+"07df01f4ff88": {
+"file": "the_true_king_of_the_north_part_8.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "07df01f4ff88",
+"first_seen": "2026-09-23"
+},
+"4c37fc83c3ee": {
+"file": "the_true_king_of_the_north_part_8.md",
+"check": "prose",
+"text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
+"key": "4c37fc83c3ee",
+"first_seen": "2026-09-23"
 },
 "f8f03cece07d": {
 "file": "the_war_in_the_north_i_the_kharven_seat.md",
@@ -574,6 +1309,48 @@
 "text": "flat runs: 5 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
 "key": "4affd2eda042",
 "first_seen": "2026-09-13"
+},
+"4c1f1ceab93f": {
+"file": "the_true_king_of_the_north_part_18.md",
+"check": "prose",
+"text": "em dashes: 2 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "4c1f1ceab93f",
+"first_seen": "2026-09-23"
+},
+"d75b6656dd09": {
+"file": "the_true_king_of_the_north_part_18.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "d75b6656dd09",
+"first_seen": "2026-09-23"
+},
+"24f7b238bd8f": {
+"file": "the_true_king_of_the_north_part_18.md",
+"check": "prose",
+"text": "flat runs: 14 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "24f7b238bd8f",
+"first_seen": "2026-09-23"
+},
+"e93532b76ae6": {
+"file": "xanelor_juggernauts_fist.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "e93532b76ae6",
+"first_seen": "2026-09-23"
+},
+"8c7fa43a1af4": {
+"file": "xanelor_juggernauts_fist.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "8c7fa43a1af4",
+"first_seen": "2026-09-23"
+},
+"ae9dcb23bf39": {
+"file": "xanelor_juggernauts_fist.md",
+"check": "prose",
+"text": "flat runs: 8 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "ae9dcb23bf39",
+"first_seen": "2026-09-23"
 },
 "17c40aca6701": {
 "file": "02_wren_bulwark.md",
@@ -1198,6 +1975,20 @@
 "key": "cce596953eca",
 "first_seen": "2026-09-13"
 },
+"7f796e4a2ebe": {
+"file": "the_revolution_of_the_inner_world.md",
+"check": "prose",
+"text": "three consecutive sentences over 25 words (R4-14-CHAIN_CEILING)",
+"key": "7f796e4a2ebe",
+"first_seen": "2026-09-23"
+},
+"6ca489c8ac86": {
+"file": "the_revolution_of_the_inner_world.md",
+"check": "prose",
+"text": "flat runs: 12 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "6ca489c8ac86",
+"first_seen": "2026-09-23"
+},
 "cc1a801d51ed": {
 "file": "the_war_in_the_north_v_the_shieldwarden.md",
 "check": "prose",
@@ -1211,6 +2002,20 @@
 "text": "Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)",
 "key": "adc4607c0e32",
 "first_seen": "2026-09-19"
+},
+"60114a2c7598": {
+"file": "xanelor_the_arrow.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "60114a2c7598",
+"first_seen": "2026-09-23"
+},
+"c941ec9f353f": {
+"file": "xanelor_the_arrow.md",
+"check": "prose",
+"text": "flat runs: 4 stretches of three sentences within 40% of each other (R4-14-RUN_RULE)",
+"key": "c941ec9f353f",
+"first_seen": "2026-09-23"
 },
 "b3533405d93f": {
 "file": "06_aurelian_what_the_lamberts_are_for.md",
@@ -1506,6 +2311,20 @@
 "key": "45486f29da87",
 "first_seen": "2026-09-19"
 },
+"89a7c02f21c6": {
+"file": "xanelor_the_challenge.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "89a7c02f21c6",
+"first_seen": "2026-09-23"
+},
+"0b92a78b77f1": {
+"file": "xanelor_the_dorms.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "0b92a78b77f1",
+"first_seen": "2026-09-23"
+},
 "db924d23c25c": {
 "file": "07_sodoku_the_howling_hawk.md",
 "check": "prose",
@@ -1576,6 +2395,27 @@
 "key": "d9c74218d63c",
 "first_seen": "2026-09-19"
 },
+"302f1b73cb25": {
+"file": "xanelor_seven_days.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "302f1b73cb25",
+"first_seen": "2026-09-23"
+},
+"4466783f568a": {
+"file": "xanelor_the_bullet_train.md",
+"check": "prose",
+"text": "em dashes: 3 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "4466783f568a",
+"first_seen": "2026-09-23"
+},
+"2e3e540029e9": {
+"file": "xanelor_the_constellations.md",
+"check": "prose",
+"text": "em dashes: 1 (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)",
+"key": "2e3e540029e9",
+"first_seen": "2026-09-23"
+},
 "5f4c1fd8a6c6": {
 "file": "xanelor_the_introductions.md",
 "check": "prose",
@@ -1589,6 +2429,13 @@
 "text": "The Veil ×2",
 "key": "828071c78f05",
 "first_seen": "2026-09-13"
+},
+"0d948d7239cc": {
+"file": "Duplicate wiki pages (same title twice)",
+"check": "reconcile",
+"text": "Continuity map ×2",
+"key": "0d948d7239cc",
+"first_seen": "2026-09-23"
 },
 "db3c1e629adf": {
 "file": "Card vs scene: Stage or Level stated differently",
@@ -1730,6 +2577,20 @@
 "key": "ba3151c9152b",
 "first_seen": "2026-09-19"
 },
+"a3d170a47be1": {
+"file": "scenes/the_true_king_of_the_north_part_21.md",
+"check": "stale",
+"text": "Büri",
+"key": "a3d170a47be1",
+"first_seen": "2026-09-23"
+},
+"f097f5c87453": {
+"file": "scenes/the_true_king_of_the_north_part_21.md",
+"check": "stale",
+"text": "Altan",
+"key": "f097f5c87453",
+"first_seen": "2026-09-23"
+},
 "869a1022de16": {
 "file": "scenes/the_war_in_the_north_i_the_kharven_seat.md",
 "check": "stale",
@@ -1743,6 +2604,34 @@
 "text": "Muken Büri",
 "key": "f40db1222df4",
 "first_seen": "2026-09-19"
+},
+"fd1482fb7645": {
+"file": "scenes/CONTINUITY.md",
+"check": "stale",
+"text": "Büri",
+"key": "fd1482fb7645",
+"first_seen": "2026-09-23"
+},
+"ecdc024506b7": {
+"file": "scenes/CONTINUITY.md",
+"check": "stale",
+"text": "Muken Büri",
+"key": "ecdc024506b7",
+"first_seen": "2026-09-23"
+},
+"daa4f7d390f6": {
+"file": "scenes/CONTINUITY.md",
+"check": "stale",
+"text": "Möngön",
+"key": "daa4f7d390f6",
+"first_seen": "2026-09-23"
+},
+"1ca1fc390f03": {
+"file": "scenes/CONTINUITY.md",
+"check": "stale",
+"text": "Altan",
+"key": "1ca1fc390f03",
+"first_seen": "2026-09-23"
 },
 "02f6f1896910": {
 "file": "scenes/THE_KINGDOM_OF_KHARVEN_corrected.md",
@@ -1758,12 +2647,33 @@
 "key": "7ccb315139b9",
 "first_seen": "2026-09-13"
 },
+"d189d409f856": {
+"file": "scenes/the_true_king_of_the_north_part_1.md",
+"check": "stale",
+"text": "Satulagi",
+"key": "d189d409f856",
+"first_seen": "2026-09-23"
+},
 "ce7bf75553e2": {
 "file": "scenes/01_verinus_fire_of_the_undeserving.md",
 "check": "stale",
 "text": "Büri",
 "key": "ce7bf75553e2",
 "first_seen": "2026-09-13"
+},
+"c3799f502fad": {
+"file": "scenes/TIMELINE.md",
+"check": "stale",
+"text": "Khökh",
+"key": "c3799f502fad",
+"first_seen": "2026-09-23"
+},
+"ef56fb5b4864": {
+"file": "scenes/TIMELINE.md",
+"check": "stale",
+"text": "Büri",
+"key": "ef56fb5b4864",
+"first_seen": "2026-09-23"
 },
 "9d75cd112cb9": {
 "file": "scenes/06_aurelian_what_the_lamberts_are_for.md",
@@ -1785,6 +2695,13 @@
 "text": "Möngön",
 "key": "3a0bdede6dec",
 "first_seen": "2026-09-19"
+},
+"9dedaa187fd2": {
+"file": "scenes/the_revolution_of_the_inner_world.md",
+"check": "stale",
+"text": "Sātūlagi",
+"key": "9dedaa187fd2",
+"first_seen": "2026-09-23"
 }
 }
 }

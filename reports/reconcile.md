@@ -1,5 +1,5 @@
 # Reconcile — wiki vs scenes vs index
-_Run 2026-09-22_
+_Run 2026-09-23_
 
 
 Mechanical checks only; each finding is a place for a human read.
@@ -7,6 +7,7 @@ Mechanical checks only; each finding is a place for a human read.
 ## Duplicate wiki pages (same title twice)
 
 - The Veil ×2
+- Continuity map ×2
 
 ## Card vs scene: Stage or Level stated differently
 

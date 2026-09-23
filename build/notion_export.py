@@ -423,6 +423,9 @@ def main() -> int:
     for i, x in enumerate(todo, 1):
         text, _ = render_page(x["page"], x["section"], path_for)
         out = WIKI_DIR / x["rel"]
+        old = manifest.get(x["id"], {}).get("rel")
+        if old and old != x["rel"] and (WIKI_DIR / old).exists():  # moved or renamed in Notion
+            (WIKI_DIR / old).unlink()
         out.parent.mkdir(parents=True, exist_ok=True)
         out.write_text(text, encoding="utf-8", newline="\n")
         manifest[x["id"]] = {"rel": x["rel"], "edited": x["edited"], "title": x["title"]}

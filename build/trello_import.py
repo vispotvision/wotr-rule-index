@@ -19,9 +19,9 @@ WIKI = ROOT / "wiki"
 OUT = ROOT / "imports" / "trello"
 
 GROUPS = {
-    "[ Volume  IV  ]": ("characters", "Volume IV — Character Cards"),
-    "[ Volume V ]": ("characters", "Volume V — Character Cards"),
-    "[ Volume VI ]": ("characters", "Volume VI — Character Cards"),
+    "[ Volume  IV  ]": ("characters", "Volume I — Character Cards"),
+    "[ Volume V ]": ("characters", "Volume I — Character Cards"),
+    "[ Volume VI ]": ("characters", "Volume I — Character Cards"),
     "Abilities": ("techniques", "The Iridescent Archive / Techniques"),
     "[ Spellcraft ]": ("spellcraft", "The Iridescent Archive / Spellcraft"),
     "[ Artifacts ]": ("artifacts", "The Iridescent Archive / Artifacts"),

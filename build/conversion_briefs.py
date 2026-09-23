@@ -153,7 +153,7 @@ def main() -> int:
             "Gloss rights (a card field, ruled 2026-09-12) go in section I: yes / diagnostic only / unlimited / never, chosen from how the card's voice reads.",
             "",
             "## Exemplar (converted from this same board; copy its shape exactly)\n",
-            read("Volume IV — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md")]
+            read("Volume I — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md")]
     (BRIEFS / "character.md").write_text("\n".join(char), encoding="utf-8", newline="\n")
 
     tech = ["# Technique brief (Abilities list, and Spellcraft cards that describe a specific working)\n",
@@ -169,7 +169,7 @@ def main() -> int:
             "## Exemplar technique entries (from a converted character card)\n",
             "\n".join(read("Volume I — Character Cards/Cozbi Mahuo.md").split("## X · Techniques")[1].split("## XI")[0].split("\n")[:60]) if "## X · Techniques" in read("Volume I — Character Cards/Cozbi Mahuo.md") else "",
             "", "## Exemplar signature (Volume IV format)\n",
-            read("Volume IV — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md").split("## VIII · Signature")[1].split("## IX")[0]]
+            read("Volume I — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md").split("## VIII · Signature")[1].split("## IX")[0]]
     (BRIEFS / "technique.md").write_text("\n".join(tech), encoding="utf-8", newline="\n")
 
     art = ["# Artifact brief\n",
@@ -177,7 +177,7 @@ def main() -> int:
            "`## What it is` (type, appearance, provenance from the card, converted eras/names), `## Physical account` (mass, length, point of balance, the armour tier it beats and fails against — R13-9-ITEM_GUIDE_WEAPON_ENTRY; proof-marks if armour; plausible figures for the weapon type where the card gives nothing, noted in the migration note), `## Operation line` (every working the artefact performs, as a full Design Chain line: what it does to what quantity under what law — R17-5-ARTEFACT_SCOPE), `## Codex line` (Wellspring, Family, Physics Domain, Category, glyphs only if attested in the Master Glyph Index — check with `wiki`), `## Bond and cost` (soulbound? what it costs the bearer), `## Counterplay`, `## Bearers` (from the card).",
            "",
            "## Exemplar (artifact entries inside a converted card)\n",
-           read("Volume IV — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md").split("## VII · Artifacts")[1].split("## VIII")[0],
+           read("Volume I — Character Cards/Adalric Vladimer Valen · The Crimson Shade.md").split("## VII · Artifacts")[1].split("## VIII")[0],
            "", "## Rules that bind items\n", rules_brief(["items"], 40)]
     (BRIEFS / "artifact.md").write_text("\n".join(art), encoding="utf-8", newline="\n")
 

@@ -6,6 +6,23 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-23 (the Magic System pass)
+
+**Tiers 8/9 renamed and every open Magic System conflict ruled.** Tiers of
+Standing 8 and 9 are Archmaster and Paragon; the retired lettered Coherence
+Bands are gone from the Magic System pages (Stages read by Tier of Standing).
+A cross-check fixed ~14 mechanical errors in Notion (units, speeds, stale
+Sub-Stat names, tier slips); the Reader's Codex is current (Kagura Branch,
+four Crafts, Level/Bands/Tiers). Isaac's questionnaire closed C-020..C-029
+(R42-1..11) plus four follow-ups (R42-12..15), all applied in Notion
+including ~75 cards (Dominion Stability → Gravity; Stage I–V cards
+Unclassed). The Elven racial trait "Domain Stability" is NOT the Sub-Stat
+and keeps its name. **Open:** Ryuka's Crystal field ("Dormant network,
+awakening surface"); Kinjiki's η ~1.3 and Absolute Crystal at Stage XIV;
+the Color of Essence Revelation cell has a pasted Part Five inside it;
+lettered "Coherence Band" still on Technique pages and some cards outside
+the Magic System.
+
 ## State on 2026-09-18 (the Instructions box)
 
 **`desktop/PROJECT_INSTRUCTIONS.md` rewritten as an order of operations.** The

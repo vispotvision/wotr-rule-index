@@ -10,9 +10,19 @@
 #   bash build/wotr_plugin.sh            -> ~/wotr-plugin/
 #   bash build/wotr_plugin.sh /some/dir  -> /some/dir/
 #
-# Install: Claude Desktop -> Settings -> Capabilities -> add the built folder.
-# Rebuild and re-add after changing any SKILL.md; the plugin holds copies by
-# necessity (Desktop needs real files), so it is stale the moment the source moves.
+# Two outputs, because Desktop has two different doors and they are easy to confuse:
+#
+#   <out>/                a plugin folder -- the shape Claude Code and the Cowork
+#                         skills store use.
+#   <out>/../<name>.zip   one zip per skill, which is what a USER skill is uploaded
+#                         as. Desktop's own user skills arrive by syncing down from
+#                         the account (wotr-write on this machine is creatorType
+#                         "user" with a backingPluginId), NOT from a local folder.
+#                         The Extensions menu is a different mechanism again -- it
+#                         wants a root manifest.json and is for MCP/DXT extensions.
+#
+# Rebuild and re-upload after changing any SKILL.md; these are copies by necessity,
+# so they are stale the moment the source moves.
 set -euo pipefail
 cd "$(dirname "$0")/.."
 
@@ -43,4 +53,17 @@ done
 
 echo
 echo "$n skill(s) -> $out"
-echo "add that folder in Claude Desktop -> Settings -> Capabilities"
+
+# one uploadable zip per skill, beside the plugin folder
+for d in "$src"/*/; do
+    [ -f "$d/SKILL.md" ] || continue
+    name="$(basename "$d")"
+    z="$(dirname "$out")/$name.zip"
+    rm -f "$z"
+    ( cd "$src" && zip -qr "$z" "$name" )
+    printf '  %-14s -> %s\n' "$name" "$z"
+done
+
+echo
+echo "plugin folder : $out          (Claude Code / Cowork skills store shape)"
+echo "skill zips    : $(dirname "$out")/<name>.zip   (upload a user skill this way)"

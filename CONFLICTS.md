@@ -517,3 +517,93 @@ the author notes."
 **Consequence if unresolved:** the gap-fill tool's remit is undefined.
 **Recommendation:** none stated by either source.
 **Status:** closed — ruled by Isaac, 2026-09-13: the later ruling wins; the R13-D ruling governs; R20C-27 superseded on arrival
+
+## C-020 — when Aether Class begins: Stage VI or Initiate
+
+**Rules:** wiki pages, not pack rows — `Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md:41` vs `The Magic System/Tier Grade, Bands & the Aether Shell.md:138` and `Fracture of Worlds — The Living System/VII.*.md:30`
+**The clash:** FoW VI says Aether Class first emerges at Stage VI Glory; the Aether Class tables rate Class I Muridic from Initiate through Adept (Stages I–IV).
+**Quotes:** FoW VI (Glory): "**Aether Class emerges and the Echo field forms". TG Class I row: "Initiate through Adept, Awakened Crystal" (per the 2026-09-23 audit).
+**Consequence if unresolved:** a writer cannot say whether a Stage II–V practitioner has an Aether Class at all.
+**Recommendation:** none stated by either source.
+**Status:** open
+
+## C-021 — Class I and the Awakened Crystal span different Stages; III–IV have no Crystal tier
+
+**Rules:** `Tier Grade, Bands & the Aether Shell.md:138` and `:171`; `Fracture of Worlds — The Living System/VIII.*.md:70–71`
+**The clash:** the Aether Class table puts the Awakened Crystal at Initiate through Adept (I–IV); the Crystal tier table puts the Awakened Crystal at Initiate to Apprentice, Stages I–II, and Harmonic begins at V. Stages III–IV fall between the Crystal tiers.
+**Quotes:** TG:171 "Class I · Initiate to Apprentice · Stages I–II"; FoW VIII:70 "(Temperance I–II)"; TG:138 "Initiate through Adept, Awakened Crystal".
+**Consequence if unresolved:** a Journeyman or Adept card has no Crystal tier to cite.
+**Recommendation:** none.
+**Status:** open
+
+## C-022 — how many Crystal States: four or three
+
+**Rules:** `Tier Grade, Bands & the Aether Shell.md:181–185` vs `Fracture of Worlds — The Living System/VIII.*.md:78–82`
+**The clash:** TG lists four States (Fractured, Refined, Overgrown, Crystallized); FoW VIII lists three.
+**Quotes:** see the two tables at those lines.
+**Consequence if unresolved:** cards citing "Crystallized" or "Overgrown" state rest on one page only.
+**Recommendation:** none.
+**Status:** open
+
+## C-023 — which Threshold the Ascension Ration serves
+
+**Rules:** `Materials, Alchemy & Trade/The Standing Index.md:123` vs `The Magic System/The Sixteen Stages.md:298`
+**The clash:** the Standing Index says the ration carries a practitioner to the Ascension floor (II→III); the Sixteen Stages files it under III→IV, against the Spirit Axis Catalyst.
+**Quotes:** Standing Index: "Carries a bonded practitioner to the Ascension quantitative floor reliably." Sixteen Stages: "**III to IV** | Ascension Ration, Accord Standard (T4)… The Catalyst is a Spirit Axis".
+**Consequence if unresolved:** a scene pricing the ration cannot say which Threshold it buys.
+**Recommendation:** none.
+**Status:** open
+
+## C-024 — the Domain Seed Vitrifier's Class: III or IV
+
+**Rules:** `Materials, Alchemy & Trade/The Standing Index.md:145` vs `The Magic System/The Sixteen Stages.md:301`
+**The clash:** the Standing Index rates it Class III; the Sixteen Stages says both VI→VII Drafts are Class IV.
+**Quotes:** Standing Index: "**Domain Seed Vitrifier** · T6 | III / A / 42". Sixteen Stages: "Refraction Draught (T6) and Domain Seed Vitrifier (T6). Both reserved. Both Class IV."
+**Consequence if unresolved:** its carry rules and who may hold it are undefined.
+**Recommendation:** none.
+**Status:** open
+
+## C-025 — three Paths or four
+
+**Rules:** `The Magic System/The Magical Categories — Unified Taxonom.md:112` vs `The Magic System/The Four Paths Routing, Recognition and the Gate.md:17`
+**The clash:** the Categories page speaks of "the three Paths" and a "Three Paths codex"; the Four Paths page says there are four routes, adding Fate.
+**Quotes:** Categories: "The lived evolution along the three Paths." Four Paths: "A working has to get from a soul to the world, and there are four routes."
+**Consequence if unresolved:** Viaforma's description omits the Fate Path; a Fate-Path practitioner has no Viaforma account.
+**Recommendation:** none (the Four Paths page is the later, dedicated treatment, but neither page says it supersedes the other).
+**Status:** open
+
+## C-026 — does a Paragon pass Level 500
+
+**Rules:** `The Guild Accord/The Tiered Path.md:98` vs `The Magic System/Tier Grade, Bands & the Aether Shell.md:21` and `Fracture of Worlds — The Living System/I.*.md:17`
+**The clash:** the Tiered Path says Tier 9 practitioners "have crossed past the five-hundredth level"; the Level pages say a soul at 500 does not advance in level and begins the Apotheosis approach instead.
+**Quotes:** Tiered Path: "These practitioners have crossed past the five-hundredth level into territory the Codex calls the Apotheosis approach". TG: "Characters who reach Level 500 and continue to accumulate pressure do not advance in level."
+**Consequence if unresolved:** a Paragon's card cannot state a Level above 500, or can.
+**Recommendation:** none.
+**Status:** open
+
+## C-027 — two Sub-Stats named Stability
+
+**Rules:** `Fracture of Worlds — The Living System/IV.*.md:79` and `:118` vs `:172`
+**The clash:** Part IV claims every Sub-Stat name is now unique, but Harmonics and Dominion each carry a Sub-Stat named Stability (gated separately at FoW II:134 and :146).
+**Quotes:** FoW IV:172 "Every Sub-Stat name in the system is now unique".
+**Consequence if unresolved:** "Stability" on a card or gate is ambiguous.
+**Recommendation:** none; renaming one is Isaac's call.
+**Status:** open
+
+## C-028 — can the Accord hang anyone
+
+**Rules:** `Reference Table/A Reader's Codex.md` (The Houses and Powers) vs `The Guild Accord/The Concord Military.md:38` and `The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md:38, 50`
+**The clash:** the Codex says the Accord holds no territory and cannot hang anybody; the Military page lists Tribunal Marshals as "Senior Executioners of the Codex", and the Modern Era page makes the High Warden's presence martial law and the Accord "the jurisdiction" in the New World arc.
+**Quotes:** Codex: "The Accord is not a sovereign. It holds no territory and cannot hang anybody." Military: "Tribunal Marshals | Senior Executioners of the Codex".
+**Consequence if unresolved:** the Codex's framing of Crown against Accord may mislead a reader.
+**Recommendation:** none. The Codex line was left as written pending this.
+**Status:** open
+
+## C-029 — which Sub-Stats Dissonance tests
+
+**Rules:** `Fracture of Worlds — The Living System/II.*.md:85` vs `Fracture of Worlds — The Living System/VI.*.md:63` vs `The Magic System/The Sixteen Stages.md:195` and `The Magic System/The Ladder and the Draft….md:54`
+**The clash:** the three accounts of the Dissonance Threshold's Sub-Stats disagree even after the retired names are mapped through the FoW IV merge ledger. FoW II: Overflow, Overchannel, Persistence. FoW VI (mapped): Overchannel, Detonation (→ Overchannel), Persistence, with no Overflow. Sixteen Stages and Ladder: Overflow, Overchannel, and a bare "Nullity", which could be Vitality's (now Tolerance) or Resilience's (now Persistence).
+**Quotes:** FoW II: "Overflow, Overchannel and Persistence". FoW VI (before the 2026-09-23 rename pass): "Ardency Overchannel, Ardency Detonation and Resilience Nullity".
+**Consequence if unresolved:** a Dissonance scene cannot say which numbers the Threshold reads.
+**Recommendation:** none; if FoW II governs, both bare "Nullity" become Persistence and FoW VI's Detonation becomes Overflow.
+**Status:** open

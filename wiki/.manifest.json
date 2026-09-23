@@ -1437,7 +1437,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-22T15:04:00.000Z",
+    "edited": "2026-09-22T23:17:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -3417,6 +3417,12 @@
     "rel": "The Table — Running Pieces/State of Play — Kwon Mu-jin Aetherion Academy.md",
     "edited": "2026-09-22T15:08:00.000Z",
     "title": "State of Play — Kwon Mu-jin / Aetherion Academy",
+    "private": true
+  },
+  "3e358200-eb22-813f-988c-cfe973b55fee": {
+    "rel": "The Scene Archive/Continuity map.md",
+    "edited": "2026-09-22T23:17:00.000Z",
+    "title": "Continuity map",
     "private": true
   }
 }

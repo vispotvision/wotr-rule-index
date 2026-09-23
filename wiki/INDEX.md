@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-620 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+621 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -440,8 +440,9 @@
 - [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
-## The Scene Archive (9)
+## The Scene Archive (10)
 
+- [Continuity map](The%20Scene%20Archive/Continuity%20map.md)
 - [The Damping](The%20Scene%20Archive/The%20Damping.md)
 - [The Freight Book](The%20Scene%20Archive/The%20Freight%20Book.md)
 - [The Holy Inquisition — Part 1B: The Empty Chair](The%20Scene%20Archive/The%20Holy%20Inquisition%20—%20Part%201B%20The%20Empty%20Chair.md)

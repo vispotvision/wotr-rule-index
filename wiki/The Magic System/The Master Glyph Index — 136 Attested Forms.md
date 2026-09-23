@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81fb-b372-edd4501dcbde"
 notion_url: "https://app.notion.com/p/The-Master-Glyph-Index-136-Attested-Forms-3bc58200eb2281fbb372edd4501dcbde"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-12T18:52:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -116,7 +116,7 @@ A Family assignment names **the law being conditioned.** Fifteen of the unclassi
 
 Each of the 136 entries carries eleven fields: **Glyph, Name, Class, Primary Archon, Secondary Archon, Meaning & Use, Primary Wellspring, Family, Physics Domain, All Attested Wellsprings, All Attested Families.**
 **Worked example.** `[Ur]` **Balance** · Root · Urion · *Stabilizes Essence gradients; equalizes opposing forces.* · Primary Wellspring **Judicium** · Family **Fulguria** · Physics Domain **Electromagnetism.**
-> Its attested spread runs to **nine Wellsprings across six Families** — Exuroth, Fixatio, Ignivale, Judicium, Mirithane, Petralon, Thaloré, Equilibrium and Foundation. *A root that broad is not a specialist's glyph. It is a load-bearing member, and the number of Families that reach for it is the measure of that.*
+> Its attested spread runs to **seven Wellsprings across six Families** — Exuroth, Fixatio, Ignivale, Judicium, Mirithane, Petralon and Thaloré. *A root that broad is not a specialist's glyph. It is a load-bearing member, and the number of Families that reach for it is the measure of that.*
 Compare `[Lei]` **Binding** · Root · Maelor · attested in **two Wellsprings and one Family.** *Narrow, deep, and the whole of it belongs to Limina.*
 > **The Secondary Archon column is sparsely populated.** Where it is filled, the glyph is read from two stations at once, **and the path is the intersection rather than either reading alone.**
 

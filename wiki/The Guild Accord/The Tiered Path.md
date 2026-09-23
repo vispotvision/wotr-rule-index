@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-811c-b2ec-dee2ebc43a44"
 notion_url: "https://app.notion.com/p/The-Tiered-Path-3b158200eb22811cb2ecdee2ebc43a44"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-08-03T20:39:00.000Z"
+last_edited: "2026-09-23T22:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -27,8 +27,8 @@ verification: "unverified"
 | **5 · Expert** | B* → A → S | Splintering, Glory, Refraction | **Sealwright** (enforcement specialists) |
 | **6 · Master** | S → SS | Transcendence, Invocation, Realization | **Warden of Duty** |
 | **7 · Grandmaster** | SS* → SSS | Dissonance, Emanation | **Envoy of the Lattice** |
-| **8 · Absolute** | X → EX | Principality, Zenith | **Bearer of the Concord Flame** |
-| **9 · Chosen** | EX+ → Unbound | Revelation, Apex | **Chosen of the Codex** |
+| **8 · Archmaster** | X → EX | Principality, Zenith | **Bearer of the Concord Flame** |
+| **9 · Paragon** | EX+ → Unbound | Revelation, Apex | **Chosen of the Codex** |
 
 ---
 
@@ -84,7 +84,7 @@ The boundary the Codex calls **Mythic**, spanning Dissonance and Emanation from 
 Their Essence pressure warps the ambient Aether in their vicinity — *lesser practitioners feel their approach as a tightening in the chest, a ringing at the edge of hearing.* Deployed for inter-realm operations, Titan interference, and the neutralization of high-order paradox entities.
 Named **Envoys of the Lattice**, recognized across every realm connected to the Gate Network. **Commissions at this Tier require Concord Council majority approval.**
 
-## Tier 8 · Absolute
+## Tier 8 · Archmaster
 
 > *"Where gods falter, the Accord endures."*
 Walking **Principality** and then **Zenith**, the four-hundred-and-first level through the five-hundredth — **the furthest reach of canonical mortal coherence.**
@@ -92,12 +92,12 @@ At Principality the practitioner's doctrine becomes a recognized law of local re
 > Their Soul Crystals no longer merely store resonance. **They generate it**, producing a constant harmonic output that feeds the Lattice passively. **They are living wellsprings in miniature, their very existence a stabilizing force.**
 Realm-scale cataclysms, divine corruption events, and the collapse of entire Domains. Marked as **Bearers of the Concord Flame** — living arbiters between mortal and divine law. *Their missions are recorded in the Codex as events of historical consequence.*
 
-## Tier 9 · Chosen
+## Tier 9 · Paragon
 
 > *"Only those whose names are written into law itself may stand here."*
 **The Codex has no name for what lies past its own fifth Band, so the Accord supplies one.** These practitioners have crossed past the five-hundredth level into territory the Codex calls the Apotheosis approach, walking Revelation and then Apex.
 At **Revelation**, a soul first meets an Archon or Titan as participant rather than witness or casualty, its Crystal dense enough to hold that pressure without collapsing. At **Apex**, that same soul learns to hold a Principle without fracturing — even briefly, even imperfectly — **a state that does not end, pressing forever against what it has not yet become.**
-> Chosen practitioners are not merely powerful. **They are woven into the Lattice's architecture.** Their Soul Crystals resonate at frequencies that mirror the Wellspring of Law itself, and their actions ripple through the harmonic fabric of reality **with the weight of natural forces.**
+> Paragons are not merely powerful. **They are woven into the Lattice's architecture.** Their Soul Crystals resonate at frequencies that mirror the Wellspring of Law itself, and their actions ripple through the harmonic fabric of reality **with the weight of natural forces.**
 >
 > Cosmic-scale operations — restoration of dying Wellsprings, prevention of universal collapse, confrontation with Epochal or Archonic forces. **Authorization for Zenith Decrees rests with the High Concordant alone.**
 >

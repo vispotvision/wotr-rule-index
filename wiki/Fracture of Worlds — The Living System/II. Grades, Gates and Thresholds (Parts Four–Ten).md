@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8131-b70d-c91722f2d3e4"
 notion_url: "https://app.notion.com/p/II-Grades-Gates-and-Thresholds-Parts-Four-Ten-3d758200eb228131b70dc91722f2d3e4"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-14T02:09:00.000Z"
+last_edited: "2026-09-23T22:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -99,8 +99,8 @@ These values are the natural ceiling achievable at each Tier Grade through pure 
 | A | 1,715–8,575 m/s | 0.2–1 ms | Mach 10–30 |
 | S | 8,575–68,600 m/s | 0.05–0.2 ms | Mach 50–500 |
 | SS | 68,600–343,000 m/s | below 0.05 ms | Mach 1,000–8,810 |
-| SSS | 343,000–2,997,925 m/s | entirely Essence-mediated | 1–5% c |
-| X | 2,997,925–149,896,229 m/s | perceives in Essence-time | 10–50% c |
+| SSS | 2,997,925–29,979,246 m/s | entirely Essence-mediated | 1–5% c |
+| X | 29,979,246–149,896,229 m/s | perceives in Essence-time | 10–50% c |
 | EX | 149,896,229–299,792,458 m/s | — | approaching c |
 | EX+ | c and upward, toward Massively FTL+ | — | FTL parameters |
 

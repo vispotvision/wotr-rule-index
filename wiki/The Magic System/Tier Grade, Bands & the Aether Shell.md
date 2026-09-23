@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
 notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-11T03:11:00.000Z"
+last_edited: "2026-09-23T22:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -50,7 +50,7 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 > **The differential rule.** A character one full Tier Grade above their opponent in the relevant stat wins a direct exchange of that stat category without meaningful contest. **Two Tiers above is overwhelming to the point of one-sided. Three Tiers above means the lower-grade character is not engaging in a battle, they are surviving an event.**
 | Grade | Stat range | Attack output | Travel speed |
 |---|---|---|---|
-| **Hollow** | 1 – 10 | Below 60 J. The kinetic energy of a thrown fist at human speed | 10 – 12.4 m/s · 37 – 44.7 km/h |
+| **Hollow** | 1 – 10 | Below 60 J. The kinetic energy of a thrown fist at human speed | below 12.4 m/s · below 44.7 km/h |
 | **F** | 11 – 25 | 60 – 300 J. Human to trained athlete | 12.4 – 60 m/s · 44.7 – 216 km/h |
 | **E** | 26 – 50 | 300 J – 15 kJ. Street to low Wall level | 60 – 150 m/s · 216 – 540 km/h |
 | **D** | 51 – 100 | 15 kJ – 2.092 × 10^7 J. Wall level, 0.005 tons TNT at the ceiling | 150 – 340 m/s · 540 – 1,224 km/h |
@@ -82,7 +82,7 @@ The Continuum tracks total energy for Tier Grade comparison but tracks local pre
 
 ## Reaction Speed by Grade
 
-Speed divides into three components: **Attack Speed** (velocity of technique execution), **Reaction Speed** (capacity to perceive and respond to incoming force), and **Travel Speed** (movement velocity across space). All three are influenced by Dexterity Sub-Stats, particularly Celerity, Burst, Reflex, and Sequence, but each responds differently to Temperance advancement.
+Speed divides into three components: **Attack Speed** (velocity of technique execution), **Reaction Speed** (capacity to perceive and respond to incoming force), and **Travel Speed** (movement velocity across space). All three are influenced by Dexterity Sub-Stats, particularly Celerity, Reflex, and Sequence, but each responds differently to Temperance advancement.
 | Grade | Reaction Speed | Attack Speed |
 |---|---|---|
 | **Hollow** | 150 – 300 ms, purely biological | Does not exceed the physical mechanics of the body without Essence involvement |
@@ -112,9 +112,9 @@ Where Temperance measures the refinement of the Essence Core on the Soul Plane, 
 Every Aether Shell radiates an Aetheric Signature described by three constants.
 | Constant | What it measures | Governed by |
 |---|---|---|
-| **Lattice Conductivity** *Equilibrium and Vitae aligned* | How easily Essence moves through the Shell without resistance. Low means blockage and backlash. High means smooth passage. | Vitality (Constitution, Fortitude) · Tempering (Compression, Clarity) |
-| **Resonant Purity** *Intent aligned* | How closely the Shell's output matches the Core's intention. Low means static and misfires. High means near-instant Formation. | Gnosis (Sapience, Fluency) · Ardency (Compression, Inscription) |
-| **Continuum Retention** *Resonance aligned* | How long coherence endures after strain. Low means brief flares. High means sustained resonance. | Harmonics (Stability, Fidelity) · Resilience (Integrity, Continuity) |
+| **Lattice Conductivity** *Equilibrium and Vitae aligned* | How easily Essence moves through the Shell without resistance. Low means blockage and backlash. High means smooth passage. | Vitality (Constitution, Fortitude) · Tempering Clarity |
+| **Resonant Purity** *Intent aligned* | How closely the Shell's output matches the Core's intention. Low means static and misfires. High means near-instant Formation. | Gnosis Fluency · Ardency (Compression, Density) |
+| **Continuum Retention** *Resonance aligned* | How long coherence endures after strain. Low means brief flares. High means sustained resonance. | Harmonics (Stability, Attunement) · Resilience (Integrity, Continuity) |
 
 > **The Aether Index** · Conductivity multiplied by Purity, plus a Retention bonus. This is a **clarity score, not a power level.** The Continuum Coherence Ladder measures how much force moves through the Shell. The Aether Index measures how little gets lost on the way through.
 
@@ -141,7 +141,7 @@ flowchart LR
 | **IV · The Luminous** | The lucid Shell. It thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behaviour mirrors the bearer's emotional and moral alignment with unnerving precision. **Lateral.** No single corresponding Crystal Tier; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell has clarified faster than their Core or Layer. | Negligible. Precision exceeds baseline stat values |
 | **V · The Radiant** | The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains against collapse, and speak Parun motifs into matter. The line between intention and environment begins to blur. Early Master, Radiant Crystal, where the first true Domain forms. | Output begins **exceeding** what the raw numbers suggest |
 | **VI · The Voidic** | The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers, and reflects. Voidic conductors channel absence, silence, and negation without erasing themselves. They interface most directly with Limina Wellsprings and Titanic depths. **Lateral** — can appear alongside Resonant, Luminous, or Radiant. | Qualitatively different. Their Ardency does not deal damage. **It removes things** |
-| **Ω · The Absolute** | The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Archmaster, Absolute Crystal. Archons, Titans, and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. | Stat output is no longer meaningful as a separate measurement |
+| **Ω · The Absolute** | The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons, Titans, and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. | Stat output is no longer meaningful as a separate measurement |
 
 > The interaction is **not linear**. The jump from Class II to Class III produces the largest single improvement in stat-to-output fidelity. The jump from Class V to Class VI produces the most dramatic qualitative shift, from conventional force expression to inverted, negation-based expression. The jump to Class Ω produces output the stat system can no longer meaningfully track.
 
@@ -191,7 +191,7 @@ Separate from Tier. A Crystal at any Tier can occupy any of these.
 | **EU · Essence Units** | The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage. A practitioner operating below ten percent EU suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering. |
 |---|---|
 | **Flux Density · EU/g** | The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output drawn from the same reserve. |
-| **AU/s · Aether Units per second** | The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. Governed by Ardency Flux, Ardency Alacrity, and Tempering Latency. **AU/s = Flux Density × η** |
+| **AU/s · Aether Units per second** | The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. Governed by Ardency Flux, Ardency Alacrity, and Tempering Yield. **AU/s = Flux Density × η** |
 | **Eta · η · Efficiency** | The ratio of Essence spent to Essence that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. **The single most important variable in sustained combat**, because it determines how long the reserve lasts under continuous output. Governed by Aether Class, Tempering Clarity, and Ardency Compression. |
 
 ### Efficiency by Tier of Standing

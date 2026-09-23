@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8183-817e-cc1a61adee53"
 notion_url: "https://app.notion.com/p/The-Core-Vocabulary-3b158200eb228183817ecc1a61adee53"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T21:58:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -83,8 +83,8 @@ verification: "unverified"
 
 > *Temperance is not a buff. It is a confession of how much you've survived.*
 **Temperance** · The refinement of the Soul Crystal under pressure, expressed across sixteen Stages, Murmuring through Apex. Temperance is subtraction, not accumulation — each Stage is a structural reorganization triggered by a Threshold Event, never a reward for banked experience.
-**Band** · The broad tier a Temperance Stage falls within, F through the Apotheosis-adjacent bands. Brackets Stage-appropriate stat ceilings and Grade ranges.
-**Grade** · The letter-ranked output classification, E through EX+, attached to a Temperance Stage, marking raw magnitude within that Stage's Band.
+**Band** · One of five brackets of one hundred Levels each: I Mortal Foundation, II Awakened, III Sovereign, IV Mythic, V Absolute, capped at Level 500. No Band ceiling can be breached without the Temperance Threshold that Band demands. The old lettered bands attached to Stages are retired; a Stage's standing is now read by Tier of Standing.
+**Grade** · The letter-ranked output classification, E through EX+, attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap.
 **EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output drawn from the same reserve.
 **AU/s · Aether Units per second** · The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. **AU/s = Flux Density × η**
@@ -96,7 +96,7 @@ verification: "unverified"
 
 > *A soul is assembled out of what happened to it and what it could afford, in that order.*
 **Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul; the Soul Crystal only arms it.
-**The Four Reflections** · **Primary**, the innate law, present from birth and never removable. **Secondary**, forged by trauma or decision, conditional, expensive to fire. **Inherited**, written into the Core before the Core had a self to consent with, and governed by Tempering Inheritance. **Passive**, stabilised by long habit, always running, cheapest and most identifying. **Compound** Traits fuse two or more into one law. **Higher-Imprint** Traits are marked by an Archon, a Titan or a World Spirit Realm and behave as miniaturised Principles.
+**The Four Reflections** · **Primary**, the innate law, present from birth and never removable. **Secondary**, forged by trauma or decision, conditional, expensive to fire. **Inherited**, written into the Core before the Core had a self to consent with, and governed by Tempering Maturity. **Passive**, stabilised by long habit, always running, cheapest and most identifying. **Compound** Traits fuse two or more into one law. **Higher-Imprint** Traits are marked by an Archon, a Titan or a World Spirit Realm and behave as miniaturised Principles.
 **Trait tissue** · The bodily expression of a Trait. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer, the bias is laid down in flesh: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. Trait tissue heals on the wrong schedule in both directions, which is what makes it diagnostic. A body is a Trait record and a corpse is a better one.
 **Class Ø · the Dormant** · A soul whose Crystal has not opened and, in the overwhelming majority of cases, never will. Class Ø souls carry Traits like anyone else. They lack only the organ that would arm them.
 **The Weathering** · Refinement under strain without a melt. The soul hardens in place along the direction it was already being used, rather than liquefying and recasting. Produces real strengthening of what a person already was and no capacity to become anything else. The universal process for Class Ø souls and the standing background process for everyone.

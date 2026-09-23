@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81de-be03-db5381c6ad3e"
 notion_url: "https://app.notion.com/p/The-Ladder-and-the-Draft-Temperance-Advancement-and-Essence-Drafts-3c758200eb2281debe03db5381c6ad3e"
 section: "The Magic System"
 tags: ["Magic System", "Alchemy"]
-last_edited: "2026-09-10T11:22:00.000Z"
+last_edited: "2026-09-23T22:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -31,7 +31,7 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 ## II · The arc, in five movements
 
 *Summary only. The full treatment is in The Sixteen Stages.*
-**Inner Refinement · Band F · Stages I to IV.** Murmuring, Welling, Ascension, Flourishing. **Better than nine souls in ten will live and die inside this Band,** and everything the world thinks it knows about magic it knows from watching people who never left it. The Crystal opens, spills, finds direction, and stabilises into an identity.
+**Inner Refinement · Band I · Stages I to IV.** Murmuring, Welling, Ascension, Flourishing. **Better than nine souls in ten will live and die inside this Band,** and everything the world thinks it knows about magic it knows from watching people who never left it. The Crystal opens, spills, finds direction, and stabilises into an identity.
 **The first crisis · Stage V.** Splintering. The Crystal fractures along emotional lines after surviving contact with something more than two full Tiers above its ceiling. Not defeating it. Surviving it.
 **Consolidation · Stages VI to VII.** Glory and Refraction. The fractures become features, the aura starts generating environmental effects, and then the soul turns and looks at itself from outside. **Refraction is where a practitioner first reads their own fracture record as an object of study.**
 **Outer Influence · Stages VIII to X.** Transcendence, Invocation, Realization. The first true Domain forms from a wound consciously made load-bearing. Then the practitioner stops working alone. Then the Continuum stops resisting and starts accommodating, and **the direction of that accommodation never reverses back.**
@@ -43,15 +43,15 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 ## III · What climbs, layer by layer
 
 *The ladder is usually read as one number going up. It is three architectures changing at different rates, and they do not change together.*
-| Band | Essence Core | Aether Shell | Attraction Layer |
+| Tier of Standing | Essence Core | Aether Shell | Attraction Layer |
 |---|---|---|---|
-| **F · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonisation. First Spirit Axis at Flourishing. |
-| **E–D · V–VI** | Fractured along emotional lines, then processing those fractures into features. | Self-conducting. Signature becomes permanent. | Aura begins generating environmental effect. |
-| **C–B · VII–VIII** | Visible to itself. The fracture record becomes readable. | Traits externalise and interface cleanly with Wellspring dialect. | Domain seed, then first true Domain. |
-| **A–S · IX–XII** | Denser after Dissonance than clean advancement can produce. | Traits reach field-state and stop needing maintenance. | Domain to Realm to ambient consequence. Passive miracles leak. |
-| **SS–SSS · XIII–XIV** | The Crystal self-writes. | Trait and Domain Law fuse. The Trait stops being an ability. | A law with standing independent of the practitioner. |
+| **1–4 · I–IV** | Identity assembling. Traits present but volatile, with real risk of misfire and self-harm. | Forming and porous. Output arrives before control does. | First harmonisation. First Spirit Axis at Flourishing. |
+| **5 · V–VI** | Fractured along emotional lines, then processing those fractures into features. | Self-conducting. Signature becomes permanent. | Aura begins generating environmental effect. |
+| **5–6 · VII–VIII** | Visible to itself. The fracture record becomes readable. | Traits externalise and interface cleanly with Wellspring dialect. | Domain seed, then first true Domain. |
+| **6–7 · IX–XII** | Denser after Dissonance than clean advancement can produce. | Traits reach field-state and stop needing maintenance. | Domain to Realm to ambient consequence. Passive miracles leak. |
+| **8 · XIII–XIV** | The Crystal self-writes. | Trait and Domain Law fuse. The Trait stops being an ability. | A law with standing independent of the practitioner. |
 
-> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Detonation and Nullity reach their true ceiling in no other way.** The fractures are not damage. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
+> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Overchannel and Nullity reach their true ceiling in no other way.** The fractures are not damage. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
 
 ---
 
@@ -66,7 +66,7 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 | **Synthetic** | Alchemically blended | Variable and unique | **Highest. Internal reaction.** |
 
 **Where the material comes from.** Every substance in the ledger carries a Resonance, a Family and a Physics Domain alongside its Bearing and Holding grades. A dragon's scale is not a generic reagent. It carries a specific Wellspring resonance, it renders at a specific grade, and **that grade begins falling from the moment the animal stops.** The whole beast trade is an argument with decomposition, which is why the northern runners are the profitable ones and why some rendering houses are sited beside a glacier for no other reason.
-**Identity Contamination** is the risk that makes Creature-Sourced Drafts both the most potent and the least used by anyone with a career to protect. The Essence taken carries the identity it came from, and a Core that absorbs enough of it stops being able to say cleanly which convictions are its own. **The failure mode is not death. It is a practitioner whose Fidelity has quietly stopped matching their Coherence, and who is the last to notice.**
+**Identity Contamination** is the risk that makes Creature-Sourced Drafts both the most potent and the least used by anyone with a career to protect. The Essence taken carries the identity it came from, and a Core that absorbs enough of it stops being able to say cleanly which convictions are its own. **The failure mode is not death. It is a practitioner whose Attunement has quietly stopped matching their Coherence, and who is the last to notice.**
 
 ---
 
@@ -100,7 +100,7 @@ The consequences follow without further argument.
 ## VI · Tempering, and what a Draft actually touches
 
 *Tempering is the stat of becoming. A high-Tempering practitioner does not necessarily hold more power — they hold a cleaner, deeper, structurally sounder container for whatever they accumulate.*
-The Sub-Stats a Draft plausibly reaches: **Compression** (refinement of Essence already held), **Yield** (volume produced per Stage), **Conversion** (ambient Aether absorbed rather than passed through), **Latency** (the gap between generation and availability).
+The Sub-Stats a Draft plausibly reaches: **Clarity** (refinement of Essence already held) and **Yield** (volume produced per Stage, ambient Aether absorbed rather than passed through, and the gap between generation and availability).
 The Sub-Stats no Draft has ever reached: **Coherence**, the alignment between a practitioner's chosen Path and their lived behaviour, which is the structural prerequisite for Threshold eligibility, and **Maturity**, the degree to which prior trauma has been genuinely integrated, which is the primary Sub-Stat the Crystal consults when evaluating readiness.
 > **Coherence is the Crystal's internal honesty meter, and it cannot be drunk.** That is the entire mechanical reason the second key exists, stated in the vocabulary of the stat framework rather than in the vocabulary of doctrine.
 

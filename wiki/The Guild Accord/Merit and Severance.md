@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81ad-bc02-e5d29faaa253"
 notion_url: "https://app.notion.com/p/Merit-and-Severance-3b158200eb2281adbc02e5d29faaa253"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-08-03T20:42:00.000Z"
+last_edited: "2026-09-23T22:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -29,8 +29,8 @@ Each successful Commission grants Merit Points, commonly called **Echo Marks**, 
 | **Expert** | **Sealwright** designation available. Trusted with enforcement authority |
 | **Master** | Elevated to **Warden of Duty.** Authorized to lead large-scale operations |
 | **Grandmaster** | Named **Envoy of the Lattice.** Recognized across realms |
-| **Absolute** | **Bearer of the Concord Flame.** Living arbiter between mortal and divine law |
-| **Chosen** | Named **Chosen of the Codex.** Name permanently inscribed in the Lattice Ledger as recipient of Zenith Decree |
+| **Archmaster** | **Bearer of the Concord Flame.** Living arbiter between mortal and divine law |
+| **Paragon** | Named **Chosen of the Codex.** Name permanently inscribed in the Lattice Ledger as recipient of Zenith Decree |
 
 ---
 

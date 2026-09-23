@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
 notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-11T03:10:00.000Z"
+last_edited: "2026-09-23T22:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -33,7 +33,7 @@ Every Shell radiates an Aetheric Signature described by three constants.
 **Class IV — The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behaviour mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
 **Class V — The Radiant.** The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains against collapse and speak Parun motifs into matter. The line between intention and environment blurs; the Shell's clarity exerts topological pressure on its surroundings. Early Master, Radiant Crystal, where the first true Domain forms. Stat output begins **exceeding** what the raw numbers suggest, because the Shell is amplifying rather than merely conducting.
 **Class VI — The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Limina Wellsprings and Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls with deep Limina harmonization. Their Ardency does not deal damage in the conventional sense. It removes things.
-**Class Ω — The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Archmaster, Absolute Crystal. Archons, Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
+**Class Ω — The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons, Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
 
 #### Aether Class Progression
 

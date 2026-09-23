@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81d2-b8bc-d16c232faebf"
 notion_url: "https://app.notion.com/p/The-Master-Material-Ledger-3b158200eb2281d2b8bcd16c232faebf"
 section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-23T22:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -27,8 +27,8 @@ verification: "unverified"
 | **T5** | Rare / Spirit-Forged | **Requires a forge-array, a rite, or a corpse.** Not bought casually | Blue Sigil, Expert | Aethersteel; Bloodsilver; Gloomhide |
 | **T6** | Arcane-Resistant | **Refuses a category of working outright** rather than resisting it | Gold Sigil, Master | Grimbarite; Soulquartz; Frostwool |
 | **T7** | Titan-Forged | Era-one product or Titan remnant. **Found, not made** | Gold Sigil, Grandmaster | Titanstone; Drakehide Steel |
-| **T8** | Mythic / Celestial | Formed by cosmological event. **No terrestrial process reaches it.** Operates on Name, Fate, time | Obsidian Seal, Absolute | Chronoglass; Eclipsium; Abythros Thread |
-| **T9** | Transcendent / Forbidden | **Acts on the law rather than within it.** Proscribed. Nullifies or rewrites | Obsidian Seal, Chosen | Crevice Shale; Nullglass; Ash of Names |
+| **T8** | Mythic / Celestial | Formed by cosmological event. **No terrestrial process reaches it.** Operates on Name, Fate, time | Obsidian Seal, Archmaster | Chronoglass; Eclipsium; Abythros Thread |
+| **T9** | Transcendent / Forbidden | **Acts on the law rather than within it.** Proscribed. Nullifies or rewrites | Obsidian Seal, Paragon | Crevice Shale; Nullglass; Ash of Names |
 
 > **Every T8 and T9 entry in the register is Holding-grade.** There is no transcendent building material, and the absence is structural rather than accidental: **at T8 and above the material stops being something you build with and becomes something that acts.**
 

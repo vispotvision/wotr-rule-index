@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81d7-89a2-e9d5fc5cb4f4"
 notion_url: "https://app.notion.com/p/The-Practitioner-s-Field-Manual-The-Forge-3bc58200eb2281d789a2e9d5fc5cb4f4"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -23,7 +23,7 @@ verification: "unverified"
 | Layer | What it is |
 |---|---|
 | **The Generative Layer** | Family → Affinity → Method → Ability → Technique. **The entire engine of magic.** It answers **what a working does, how it does it, and what it costs.** *Every scene is written from here* |
-| **The Accounting Layer** | Level, Band, Stage, Grade, Coherence, Aether Class, EU, η. **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put it on the page only through a mouth, an instrument, a document or a private count*** |
+| **The Accounting Layer** | Level, Band, Stage, Grade, Tier of Standing, Aether Class, EU, η. **This settles what a practitioner can actually do and who wins.** It answers **how much.** ***Load it before writing, never abandon it while writing, and put it on the page only through a mouth, an instrument, a document or a private count*** |
 
 > **Both layers stay open. The generative layer decides what happens; the accounting layer decides whether it could have.**
 > *Every outcome should trace to a specific row, and the author notes should say which. What the reader receives is behaviour and physics. What the numbers do is make sure the behaviour was earned.*

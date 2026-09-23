@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81d0-a367-f18213037668"
 notion_url: "https://app.notion.com/p/VIII-Traits-Soul-Crystal-Tiers-Domains-Parts-Twenty-Twenty-Two-3d758200eb2281d0a367f18213037668"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-23T22:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -38,13 +38,13 @@ Traits awaken during Resonance Events.
 
 #### Trait Scaling with Temperance
 
-| Bands | Stages | Behaviour |
+| Tiers of Standing | Stages | Behaviour |
 |---|---|---|
-| F | I–IV | Present but volatile. Output low to modest, inconsistent, real risk of misfires and self-harm. |
-| E–D | V–VI | Stabilize into the soul's baseline rhythm. Modest to meaningful output, reliable enough for training. |
-| C–B | VII–VIII | Interface cleanly with Wellspring dialects. Significant output, semi-lawful, capable of shaping small environments. |
-| A–S | IX–XII | Field-state behaviour. Major, consistently world-facing output. Reality bends locally wherever the bearer exerts will. |
-| SS–SSS | XIII–XIV | Fuse with Domain Law. Output exceeds ordinary metrics. The Trait stops being an ability and becomes part of how reality must behave in that presence. |
+| 1–4 · Initiate to Adept | I–IV | Present but volatile. Output low to modest, inconsistent, real risk of misfires and self-harm. |
+| 5 · Expert | V–VI | Stabilize into the soul's baseline rhythm. Modest to meaningful output, reliable enough for training. |
+| 5–6 · Expert to Master | VII–VIII | Interface cleanly with Wellspring dialects. Significant output, semi-lawful, capable of shaping small environments. |
+| 6–7 · Master to Grandmaster | IX–XII | Field-state behaviour. Major, consistently world-facing output. Reality bends locally wherever the bearer exerts will. |
+| 8 · Archmaster | XIII–XIV | Fuse with Domain Law. Output exceeds ordinary metrics. The Trait stops being an ability and becomes part of how reality must behave in that presence. |
 
 #### Trait Evolution
 
@@ -66,13 +66,13 @@ Traits awaken during Resonance Events.
 The Crystal evolves through Developmental Tiers representing the synthesis of all three layers at once. These correlate with but are **not identical to** Temperance Stages or Aether Classes. A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic.
 | Tier | Description | Corresponds to |
 |---|---|---|
-| **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Band F |
-| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Class I, early Band F (Temperance I–II) |
-| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Class II, Bands E–D (Temperance V–VI) |
-| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class III, Band C (Temperance VII) |
-| **Radiant** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. Existence begins exerting topological pressure on its surroundings. | Class V, Band B (Temperance VIII) |
-| **Sovereign** | Trait law and Domain law begin to be the same law. No longer a container for power but a generator of local metaphysical conditions. | Bands A–S (Temperance IX–XII) |
-| **Crystallized Soul** | Self and law correspond with near-perfect precision. An exact instrument of identity. Thought carries causal weight. | Bands SS–SSS (Temperance XIII–XIV) |
+| **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Initiate |
+| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Class I, Tiers 1–2 · Initiate to Apprentice (Temperance I–II) |
+| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Class II, Tier 5 · Expert (Temperance V–VI) |
+| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class III, Tier 5 · Expert (Temperance VII) |
+| **Radiant** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. Existence begins exerting topological pressure on its surroundings. | Class V, Tier 6 · Master (Temperance VIII) |
+| **Sovereign** | Trait law and Domain law begin to be the same law. No longer a container for power but a generator of local metaphysical conditions. | Tiers 6–7 · Master to Grandmaster (Temperance IX–XII) |
+| **Crystallized Soul** | Self and law correspond with near-perfect precision. An exact instrument of identity. Thought carries causal weight. | Tier 8 · Archmaster (Temperance XIII–XIV) |
 | **Absolute** | The Crystal dissolves as a distinct boundary between self and Continuum. Being and law interpenetrate. | Class Ω, the Apotheosis approach |
 
 #### Crystal States
@@ -104,15 +104,15 @@ Domains are not techniques. They are consequences of sufficient Temperance, Domi
 **Low-G / High-G** — adjusted gravity. Governed by Dominion Sovereignty and the character's relationship to physical law.
 **Hush / Silence** — dampened energy transfer; sound, kinetic force or Essence propagation suppressed. Governed by Dominion Pressure and Harmonics Suppression.
 **Heat-Invert / Phase-Stabilize** — thermal or state control; the Domain enforces a specific temperature or material phase. Governed by Wellspring alignment.
-**Vectoring** — trajectory and reach modification; projectiles curve, distances distort, approach angles shift. Governed by Dominion Sovereignty and Dexterity Acuity.
-**Construct Sustain** — summoned constructs maintained passively without the summoner's concentration. Governed by Dominion Anchoring and Ardency Density.
+**Vectoring** — trajectory and reach modification; projectiles curve, distances distort, approach angles shift. Governed by Dominion Sovereignty and Dexterity Finesse.
+**Construct Sustain** — summoned constructs maintained passively without the summoner's concentration. Governed by Dominion Stability and Ardency Density.
 **Inertial Dominion** — motion and momentum obey the holder's doctrine; moving objects arrested, redirected or accelerated. Governed by Dominion Sovereignty and Vitality Absorption.
 
 #### Domain versus Domain
 
 When two Domains overlap, the Continuum resolves the conflict through a hierarchy.
 **First, Temperance differential.** A character two or more Stages above their opponent's Domain simply overwrites it. The higher doctrine takes precedence.
-**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty, Density and Stability holds their territory while the weaker Domain erodes.
+**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Stability holds their territory while the weaker Domain erodes.
 **Third, Wellspring compatibility.** Domains built from opposed Wellspring Houses produce interference patterns that degrade both. Domains from adjacent Houses may coexist or reinforce each other.
 **Fourth, doctrine coherence.** A Domain built from a deeply held, honestly lived truth is structurally denser than one built from adopted belief or forced cultivation. The Continuum measures **Tempering Coherence** and **Tempering Maturity** as the tiebreaker between otherwise equivalent Domains.
 

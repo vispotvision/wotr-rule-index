@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b2-99b3-c0129c3c7d55"
 notion_url: "https://app.notion.com/p/The-Standing-Index-3b158200eb2281b299b3c0129c3c7d55"
 section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -73,16 +73,16 @@ The explanation is not complicated. **Extraction produces Class IV as a by-produ
 | Tier | Rank gate | What the tier actually means | Who holds it |
 |---|---|---|---|
 | **T1** | None | Household. Needs no certification, no circle, and no understanding | Everyone |
-| **T2** | Initiate | Apprentice work. A careless hand can ruin it **without dying** | Households, field units, clerks |
+| **T2** | Apprentice | Apprentice work. A careless hand can ruin it **without dying** | Households, field units, clerks |
 | **T3** | Journeyman | **Trade standard. The bulk of the working alchemical economy sits here** | Guild halls, granaries, mines, militia |
 | **T4** | Adept | Professional. Certified circle, sealed workshop, entered formula | Chartered houses, Legion quartermasters, parishes |
 | **T5** | Expert | Reserved in most entries. **Threshold work begins in earnest** | Concord agents, assay houses, great households |
 | **T6** | Master | Class IV carry becomes routine **and the ethical questions stop being hypothetical** | Divisions, Envoys, the largest guild halls |
 | **T7** | Grandmaster | Gold Sigil. Class V enters the ledger. **Every lot has a provenance chain and a story** | Concord Council, Guildlords, three or four private holders |
-| **T8** | Absolute | Obsidian Seal. Black Concord territory. **Several entries carry no description at all** | The Council. The Black Concord. Nobody else lawfully |
-| **T9** | Chosen | Zenith Decree authorisation. Four entries exist. **One of them is a placeholder admitting the tier may not be real** | The High Concordant, and the Archives Eternal |
+| **T8** | Archmaster | Obsidian Seal. Black Concord territory. **Several entries carry no description at all** | The Council. The Black Concord. Nobody else lawfully |
+| **T9** | Paragon | Zenith Decree authorisation. Four entries exist. **One of them is a placeholder admitting the tier may not be real** | The High Concordant, and the Archives Eternal |
 
-> The Codex's own controlled vocabulary **stops at T8.** The ninth tier exists because **the Accord required a ceiling above Absolute and the Codex declined to supply one.**
+> The Codex's own controlled vocabulary **stops at T8.** The ninth tier exists because **the Accord required a ceiling above Archmaster and the Codex declined to supply one.**
 >
 > Whether T9 is a real grade or a bureaucratic fiction **is the oldest open question in this document.**
 
@@ -106,9 +106,9 @@ The explanation is not complicated. **Extraction produces Class IV as a by-produ
 | **Metering Tonic** · T2 | II / B / 6 | Tightens a porous Aether Shell for six to nine hours. **Reduces Welling-stage spillage by roughly half.** First rung of the guild ration | **Habituation.** A child kept on Metering through the whole of Welling meters worse afterward. *The finding is fourteen years old and has not changed the ration* | 0.4 |
 | **Bone-Grey Compress** · T2 | III / B / 22 | Draws fluid and infection out of a deep wound over four hours. **Aggressive.** Standard Legion field issue | **Draws indiscriminately. Past six hours it takes what the wound needed.** *Roughly one soldier in nine has forgotten* | 0.6 |
 | **Lampblack Register Ink** · T2 | I / A / 0 | **Cannot be altered without the alteration becoming visible under Concord light. Does not prevent forgery. Reveals it.** Mandatory for every Accord record — *the single most quietly consequential product in this index* | None | 0.25 |
-| **Quiet-Hour Incense** · T2 | II / C / 9 | Damps Trait flicker for a night. Lets a rough-seated practitioner sleep. *Sold openly and used mostly by people who would prefer not to be asked why they need it* | Dependence, and **a documented dulling of Harmonics Fidelity in habitual users** | 0.5 |
+| **Quiet-Hour Incense** · T2 | II / C / 9 | Damps Trait flicker for a night. Lets a rough-seated practitioner sleep. *Sold openly and used mostly by people who would prefer not to be asked why they need it* | Dependence, and **a documented dulling of Harmonics Attunement in habitual users** | 0.5 |
 | **Green Rot Seed** · T2 | III / C / 30 | Reduces a midden to usable soil in **eleven days rather than three years.** Lawful within a walled midden, unlawful in open ground — *and the condition is enforced by nobody* | **Escapes.** Green Rot has taken four documented croplands and one orchard belt in the eastern quarter | 0.3 |
-| **Hillcarry Salts** · T3 | II / A / 12 | Raises Tempering Compression and Yield across a season. **Brings a Welling practitioner to the Ascension floor in roughly a third the time.** The Accord's most-sold Threshold product by volume. *Named for the bucket-carrying practice, by people who understood exactly what they were replacing* | None documented **at the ration dose.** *The Guild is careful to specify the ration dose* | 1.2 |
+| **Hillcarry Salts** · T3 | II / A / 12 | Raises Tempering Clarity and Yield across a season. **Brings a Welling practitioner to the Ascension floor in roughly a third the time.** The Accord's most-sold Threshold product by volume. *Named for the bucket-carrying practice, by people who understood exactly what they were replacing* | None documented **at the ration dose.** *The Guild is careful to specify the ration dose* | 1.2 |
 | **Rat-Flight Ward Resin** · T3 | III / B / 55 | Vermin **will not enter the building. Not repelled. They arrive at the threshold and decline.** *The clearest everyday proof that carry is real, and nobody thinks of it that way* | **Cats will not enter either.** *Farmers accept this trade and complain about it constantly* | 1.8 |
 | **Coilwright's Reading Oil** · T3 | I / A / 0 · *reserved T5* | **The medium every assay coil is calibrated in. Carries nothing so that it distorts nothing.** *The one product in this index whose value lies entirely in what it refuses to do* | A contaminated batch produces false readings across every lot assayed against it — **has happened twice and both times was catastrophic** | 4.0 |
 | **Deadlight Phial** · T3 | II / B / 7 | Cold light for two hundred hours. No heat, no flame, no consumption of air. Standard in every deep working | **Shatters completely at end of life rather than dimming.** *Miners carry two. The two-phial rule is not regulation. It is what men who came back do* | 1.1 |

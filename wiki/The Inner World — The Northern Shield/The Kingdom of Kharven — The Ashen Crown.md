@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T20:17:00.000Z"
+last_edited: "2026-09-23T22:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -71,7 +71,7 @@ He was born in Nalūn, not Kharven, and not into the house whose crown he would 
 | **Thornwall · Ashmore · Hallenfeld** | Conquered in the traditional sense. **Not gentle. Muken did not do gentle. But precise** — and the precision mattered, because the difference between a conquest that produces a vassal and one that produces an insurgency **is the difference between a conqueror who stops when the objective is achieved and one who continues because the violence has become its own objective** |
 
 > **Muken always stopped. The stopping was the thing the Banner Houses remembered, more than the fighting.** The fighting was expected. **The stopping required a kind of discipline that the northern clans recognised as the same discipline the cold required** — and the recognition was the foundation of the kingdom.
-**Sixteen years.** In them he built Kharven-Seat, established the Crown's legal authority across all six provinces, reformed a feudal levy into a standing force, married **Ayame Yuno of the Manono Branch** and fathered the children who would inherit the winter, negotiated the kingdom's external relationships, and **transformed the northern quarter from a collection of feuding clans into a functional state whose population was better fed, better defended and better governed than under any previous arrangement.**
+**Sixteen years.** In them he built Kharven-Seat, established the Crown's legal authority across all six provinces, reformed a feudal levy into a standing force, married **Ayame Yuno of the Kagura Branch** and fathered the children who would inherit the winter, negotiated the kingdom's external relationships, and **transformed the northern quarter from a collection of feuding clans into a functional state whose population was better fed, better defended and better governed than under any previous arrangement.**
 > He did it through violence that was necessary and ugly and correct, that left scars the kingdom's historians would spend generations trying to justify or condemn, **and that Muken himself would have described, if asked, as the cost.**
 
 ---
@@ -151,7 +151,7 @@ Two traditions that have learned to coexist without fully merging. **The Moto tr
 
 ### The Fusi Vā
 
-Ayame Yuno's ritual architecture, **carried north out of Yasoshima by a daughter of the Manono seat** — the rarest line, trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
+Ayame Yuno's ritual architecture, **carried north out of Yasoshima by a daughter of the Kagura Branch** — trained from childhood in the grand seasonal rites and the deepest reaches of Tofā Mamao.
 The northern clans had their own oath traditions before the Moto came: simple, unadorned, a man's word given before witnesses with no ritual embellishment. **The Fusi Vā elevated these into binding structures that carried spiritual weight and could not be broken without consequence.**
 > **Her death removed the architecture and left the ceremony**, and the kingdom has been performing the ceremony ever since without any of the load-bearing underneath it.
 >

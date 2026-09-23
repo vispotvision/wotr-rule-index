@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8164-8024-c6956893b205"
 notion_url: "https://app.notion.com/p/The-Derivation-of-Practice-Thaumaturgic-and-Theurgic-3bc58200eb2281648024c6956893b205"
 section: "The Magic System"
 tags: ["Magic System", "Lore & History"]
-last_edited: "2026-09-10T11:22:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,9 +19,9 @@ verification: "unverified"
 
 ## Why a Second Axis
 
-The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Coherence Band measures efficiency. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
+The existing apparatus measures **what a practitioner can do.** Tier Grade measures raw magnitude. Tier of Standing measures rank. Efficiency (η) measures efficiency. Aether Class measures conductivity. Temperance Stage measures architectural maturity.
 > **None of these tell the Bureau where the capacity came from.**
-> Two practitioners present **identical Tier Grades, identical Coherence Bands, identical stat profiles.**
+> Two practitioners present **identical Tier Grades, identical Tiers of Standing, identical η, identical stat profiles.**
 >
 > **One** trained at the Altherion Collegium for eleven years. Techniques from curricula, harmonisations guided by instructors who had guided a hundred before hers. **Documented, reproducible, predictable.** *The Bureau knows exactly what she can do because the institution that built her kept records.*
 >

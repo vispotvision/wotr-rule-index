@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-816d-8b90-d14e1e94cfd9"
 notion_url: "https://app.notion.com/p/III-Physical-Force-Part-Eleven-3d758200eb22816d8b90d14e1e94cfd9"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table", "War"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-23T22:27:00.000Z"
 verification: "unverified"
 ---
 
@@ -31,18 +31,18 @@ Strike Force is the destructive energy delivered per discrete attack action, mea
 One ton of TNT is equivalent to 4.184 × 10⁹ Joules. TNT equivalence describes *destructive capacity*, not that every attack produces an explosion. A sword strike with City Block-level energy yield cuts. It does not detonate. What it *could* destroy and what it *does* destroy are questions of delivery, not capacity.
 | Tier Grade | Stat Range | Peak Force (N) | Energy Yield (J) | TNT Equiv. | Real-World Comparison |
 |---|---|---|---|---|---|
-| Hollow | 1–10 | 200–800 N | 40–300 J | — | Untrained to athletic human punch |
-| F | 11–25 | 0.2–0.5 MN | 300 J – 15 kJ | — | Trained athlete to industrial press |
-| E | 26–50 | 2–5 MN | 15 kJ – 0.3 MJ | — | Compact car impact concentrated into a limb |
-| D | 51–100 | 20–70 MN | 0.3–7 MJ | — | Heavy industrial press to demolition charge |
-| C | 101–175 | 0.1–0.3 GN | 7 MJ – 1.046 GJ | 0.005–0.25 t | Small Building to low Building |
+| Hollow | 1–10 | 200–800 N | below 60 J | — | Untrained to athletic human punch |
+| F | 11–25 | 0.2–0.5 MN | 60–300 J | — | Trained athlete to industrial press |
+| E | 26–50 | 2–5 MN | 300 J – 15 kJ | — | Compact car impact concentrated into a limb |
+| D | 51–100 | 20–70 MN | 15 kJ – 20.92 MJ | — | Heavy industrial press to demolition charge |
+| C | 101–175 | 0.1–0.3 GN | 20.92 MJ – 1.046 GJ | 0.005–0.25 t | Small Building to low Building |
 | B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |
 | A | 276–400 | 20–100 GN | 46 GJ – 4.184 TJ | 11–1,000 t | City Block to Multi-City Block |
 | S | 401–550 | 0.5–2 TN | 4.184–24.3 TJ | 1–5.8 kt | Small Town to Town |
 | SS | 551–725 | 10–200 TN | 41.8–418 TJ | 10–100 kt | Town to Large Town (nuclear yield range) |
-| SSS | 726–950 | 1–5 PN | 418 TJ – 4.184 EJ | 100 kt – 1 Tt | Large Town to Small Country |
-| X | 951–1,200 | 50–500 PN | 4.184 EJ – 124 YJ | 1 Tt – 29.6 Et | Country to Moon |
-| EX | 1,201–1,500 | 5–50 EN | 124 YJ – 6.9×10³⁷ J | 29.6 Et – 16.5 Rt | Moon to Large Planet |
+| SSS | 726–950 | 1–5 PN | 418 TJ – 4.184 ZJ | 100 kt – 1 Tt | Large Town to Small Country |
+| X | 951–1,200 | 50–500 PN | 4.184 ZJ – 1.24×10²⁹ J | 1 Tt – 29.6 Et | Country to Moon |
+| EX | 1,201–1,500 | 5–50 EN | 1.24×10²⁹ J – 6.9×10³⁷ J | 29.6 Et – 16.5 Rt | Moon to Large Planet |
 | EX+ | 1,501+ | >50 EN | >6.9×10³⁷ J | >16.5 Rt | Brown Dwarf and beyond |
 | Zenith | Stage XIV | Unquantified | Unquantified | — | Continuum recalibration required |
 
@@ -53,7 +53,7 @@ One ton of TNT is equivalent to 4.184 × 10⁹ Joules. TNT equivalence describes
 ### Lifting Strength
 
 Lifting Strength is a continuous output metric: how much mass can be held motionless against gravity, or how much structural resistance overcome through sustained application rather than impact.
-Governed primarily by **Vitality**, particularly Fortitude, Constitution and Endurance, with secondary contribution from **Dexterity's Economy**, which determines how efficiently the body converts Essence expenditure into sustained mechanical output. Body Path practitioners receive a multiplicative bonus at all Grades because their Essence architecture routes through the Physical Plane first, where gravitational interaction is native rather than translated.
+Governed primarily by **Vitality**, particularly Fortitude and Constitution, with secondary contribution from **Dexterity's Economy**, which determines how efficiently the body converts Essence expenditure into sustained mechanical output. Body Path practitioners receive a multiplicative bonus at all Grades because their Essence architecture routes through the Physical Plane first, where gravitational interaction is native rather than translated.
 | Tier Grade | Sustained Lift Ceiling | Real-World Comparison |
 |---|---|---|
 | Hollow | 50–120 kg | Untrained to athletic human |
@@ -77,7 +77,7 @@ Governed primarily by **Vitality**, particularly Fortitude, Constitution and End
 ### Durability
 
 Durability is the total destructive energy a character can absorb, deflect, distribute or endure without structural failure of body, Aether Shell or Soul Crystal. It is a composite of four layered systems.
-**Layer One: Physical Hardness.** Raw material resistance of the body: bone density, muscle fiber tensile strength, skin cohesion, organ integrity as enhanced by Essence saturation. The last line of defense. Governed by Vitality, particularly Constitution, Ossification and Scarring.
+**Layer One: Physical Hardness.** Raw material resistance of the body: bone density, muscle fiber tensile strength, skin cohesion, organ integrity as enhanced by Essence saturation. The last line of defense. Governed by Vitality, particularly Constitution, Fortitude and Regeneration.
 **Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh.
 **Layer Three: Technique-Active Defenses.** Wards, barriers, Domain-grade exclusion fields actively maintained or deployed. Not included in baseline benchmarks because they are technique-dependent and Essence-costly. A Fixatio-anchored barrier with a 50 TJ ceiling adds that on top of baseline, but costs Essence to maintain and can be shattered independently.
 **Layer Four: Domain Resistance.** At A-Grade and above, practitioners with active Domains gain a layer derived from Domain coherence. Within their own Domain, local law favours their survival. Not quantified in Joules, because it does not absorb energy. It degrades the coherence of incoming attacks, reducing effective yield before it reaches the Shell.
@@ -129,7 +129,7 @@ Aura Pressure is the passive force a character's metaphysical presence exerts on
 At **F through D**, Aura Pressure is perceptual rather than physical. Weaker practitioners feel unease, instinctive deference, mild sensory distortion. Psychological and spiritual, no measurable physical force.
 At **C-Grade**, measurable physical effects begin. Air density increases within the field. Loose objects vibrate. Surfaces crack under sustained exposure. The ground compresses. Effects scale with the gap between the practitioner's Tier and whatever is absorbing the pressure.
 At **A-Grade and above** it becomes a genuine combat factor. An A-Grade character standing within ten meters of an F-Grade practitioner exerts gravitational-analogue pressure equivalent to several hundred kilograms of distributed weight. The F-Grade practitioner's knees bend. Their breathing compresses. Their Aether Shell begins consuming Essence to resist the ambient load. At **S-Grade**, B-Grade and below characters inside the field take passive structural damage to their Shell simply by being present. At **SS-Grade** the effects become geological. Stone cracks. Water compresses. Air becomes optically dense. Footsteps leave indentations not from body mass but because Aura pressure exceeds the soil's load-bearing capacity.
-Governed primarily by **Harmonics**, particularly Attunement, Density and Projection, with secondary contribution from **Dominion's Pressure**. Body Path Aura is physically heavier but spatially compact. Attraction Path Aura is lighter per square meter but extends across far larger volumes. Spirit Path Aura is perceptually intense, targeting cognition and emotional stability rather than physical structure, and exerts less raw gravitational-analogue force.
+Governed primarily by **Harmonics**, particularly Attunement and Projection, with secondary contribution from **Dominion's Pressure**. Body Path Aura is physically heavier but spatially compact. Attraction Path Aura is lighter per square meter but extends across far larger volumes. Spirit Path Aura is perceptually intense, targeting cognition and emotional stability rather than physical structure, and exerts less raw gravitational-analogue force.
 
 ### Path Modifiers to Physical Force
 
@@ -148,6 +148,6 @@ Path modifiers apply *after* Temperance and Tier are calculated. The magnitude w
 ### Physical Force at the Boundaries
 
 **The Apotheosis Threshold.** Characters at EX+ who continue accumulating Crystal pressure do not advance in Grade. They begin producing outputs the Continuum's standard measurement framework struggles to quantify. At Zenith, Stage XIV, Physical Force is no longer assessed by conventional metrics. A punch from a Zenith-level practitioner does not deliver a quantifiable number of Joules. It delivers an event the local physics must accommodate. Conventional Joule ratings assume energy is a finite quantity interacting with matter by known law; Zenith-level force can locally alter those laws as a byproduct of delivery. The energy is real. The interaction is no longer standard.
-**The Hollow Floor.** Hollow-Grade output is indistinguishable from ordinary mortal capacity, forty to three hundred Joules, a normal human fist at five to fifteen metres per second. Most characters have already left it before entering the System, because the System does not begin tracking a soul until the Crystal has opened.
+**The Hollow Floor.** Hollow-Grade output is indistinguishable from ordinary mortal capacity, below sixty Joules, a normal human fist at under twelve and a half metres per second. Most characters have already left it before entering the System, because the System does not begin tracking a soul until the Crystal has opened.
 **Overchannel Spikes.** The benchmarks above are sustainable output. Overchannel can temporarily spike Strike Force and Lifting Strength by **two to five times** the sustainable ceiling, depending on the Ardency Overchannel Sub-Stat's Grade and the character's tolerance for Crystal Fracture risk. Every Overchannel event deposits structural damage that must be healed through rest, alchemical treatment or Temperance advancement. A character who regularly Overchannels accumulates fracture density that eventually becomes permanent. Some fractures become architectural features. Most become liabilities.
 *Every Joule was earned. Every Newton has a name.*

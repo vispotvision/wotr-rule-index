@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-623 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+624 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -440,9 +440,10 @@
 - [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
-## The Scene Archive (12)
+## The Scene Archive (13)
 
 - [Continuity map](The%20Scene%20Archive/Continuity%20map.md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e458200).md)
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e458200).md)
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e458200).md)
 - [The Damping](The%20Scene%20Archive/The%20Damping.md)

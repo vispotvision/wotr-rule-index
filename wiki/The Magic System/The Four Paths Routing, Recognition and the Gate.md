@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-812a-92c0-f639ef17493b"
 notion_url: "https://app.notion.com/p/The-Four-Paths-Routing-Recognition-and-the-Gate-3d558200eb22812a92c0f639ef17493b"
 section: "The Magic System"
 tags: ["Magic System"]
-last_edited: "2026-09-10T11:15:00.000Z"
+last_edited: "2026-09-23T22:26:00.000Z"
 verification: "unverified"
 ---
 
@@ -32,7 +32,7 @@ And the reverse holds, which is where careers stall. A practitioner who has occa
 **Body Path.** The shortest road and the most reliable. A direct multiplicative bonus to Strike Force, Durability and Lifting Strength, running from five per cent at early Stages to twenty per cent at Stage XII and above. Body Path practitioners at equal Grade and Stage consistently out-hit, out-tank and out-lift their counterparts, and the margin widens with advancement. **The trade is Range and Aura Pressure**, which is why a Body Path practitioner has to close and everybody who fights them knows it.
 **Spirit Path.** A moderate bonus to Strike Force delivered through Aetheric projection, five to twenty-five per cent, and no bonus at all to force delivered by hand. Some configurations take a slight penalty there. **They hit hardest at range and their force holds coherence across distance where Body Path force does not.** Durability bonus is negligible and replaced by precision in defensive deployment, which means they survive through correct response rather than absorption. A Spirit Path practitioner who is caught out of position is in more trouble than any other Path in the same situation.
 **Attraction Path.** The smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Attraction Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king, and every Attraction Path practitioner alive has organised their entire life around that sentence.
-**Fate Path.** No force modifier. What Fate gates is not output but permission: Persistence, Continuity, Inheritance, Severance, Anchoring, Sovereignty, Voidance, Rift, Reach, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
+**Fate Path.** No force modifier. What Fate gates is not output but permission: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Stability, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
 | Path | Routes through | Buys | Costs |
 |---|---|---|---|
 | **Body** | The Physical Plane, natively | Strike, Durability, Lifting | Range and Aura Pressure. Must close |
@@ -43,7 +43,7 @@ And the reverse holds, which is where careers stall. A practitioner who has occa
 ### IV. The Gates
 
 Every Sub-Stat carries a Path Alignment requirement, and the requirement is a pair: **a Path, and a Temperance Stage by which commitment to it must be demonstrated.** Below that threshold the Sub-Stat advances normally. Above it, it does not advance at all.
-Fortitude needs Body at Stage III to pass C. Alacrity needs Spirit at Stage III to pass C. Attunement needs Attraction at Stage II to pass D. Nullity needs Fate at Stage VII to pass S. **Roughly a third of the register is open advancement with no gate**, which is what makes a broadly competent practitioner possible and what makes an exceptional one so narrow.
+Fortitude needs Body at Stage III to pass C. Alacrity needs Spirit at Stage III to pass C. Attunement needs Attraction at Stage II to pass D. Persistence needs Fate at Stage VII to pass S. **Roughly a third of the register is open advancement with no gate**, which is what makes a broadly competent practitioner possible and what makes an exceptional one so narrow.
 > *A character sheet read properly is a biography. The gated Sub-Stats a practitioner has cleared say what they have actually spent their life doing, and the ones they have not cleared say what they told themselves they were doing instead.*
 
 ### V. Paths and Traits Are the Same Recognition, Read at Two Scales
@@ -74,7 +74,7 @@ And the failure case follows. **A melt with no adequate seed cools amorphous**, 
 
 The other three Paths are demonstrated by routing Essence. Body Path is proved by hitting things and being hit. Spirit Path by projecting and inscribing. Attraction Path by binding and being recognised.
 **Nothing a practitioner does in a fight demonstrates Fate.**
-Read what Fate actually gates and the pattern is not about force at all: **Persistence. Continuity. Inheritance. Anchoring. Severance. Sovereignty. Throne.** Every one of them concerns what goes on being true after the moment that made it true has passed.
+Read what Fate actually gates and the pattern is not about force at all: **Persistence. Continuity. Maturity. Anchoring. Ward. Sovereignty. Throne.** Every one of them concerns what goes on being true after the moment that made it true has passed.
 > **Fate commitment is recognised by what a soul refuses to let end.** A vow kept past the point where keeping it costs everything. A bond maintained across a death. A claim held for a century by somebody who could have put it down. **The Crystal reads continuity under pressure, and there is no drill that produces it and no instructor who can assign it.**
 >
 > *This is why Fate Path practitioners are rare in armies and common in orders, why the great houses cannot manufacture one however much they spend, and why the Vow Clause is the only instrument in the world that reliably produces Fate alignment: a vow kept is continuity, performed daily, for years, in front of a Crystal that is counting.*

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-812d-8a74-cb672f94bf76"
 notion_url: "https://app.notion.com/p/The-Black-Concord-3b158200eb22812d8a74cb672f94bf76"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-08-03T20:40:00.000Z"
+last_edited: "2026-09-23T22:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -31,7 +31,7 @@ Hierarchy is simple and absolute. **Each rank is an echo of absence.**
 | Rank | Function |
 |---|---|
 | **The Overseer** | The unseen hand. Speaks directly with the High Concordant. **Their existence may be theoretical** |
-| **The Wraiths** | Elite agents drawn from the Severed, Reborn, or Chosen operatives. Each holds a false identity in public life |
+| **The Wraiths** | Elite agents drawn from the Severed, Reborn, or Paragon operatives. Each holds a false identity in public life |
 | **The Shades** | Field operatives with erased lineage and rewritten memories. Infiltrators, assassins, containment specialists |
 | **The Scribes of Ash** | Archivists who record erased history on fading vellum, **then burn the pages to seal events from time** |
 | **The Null Priests** | Ritualists responsible for metaphysical redactions. **They silence Wellsprings or kill gods through temporal sealing** |

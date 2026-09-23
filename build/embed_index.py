@@ -29,7 +29,10 @@ INDEX_DIR = ROOT / "build" / "index"
 MODEL_DIR = ROOT / "build" / "models" / "fastembed"
 MODEL = "BAAI/bge-small-en-v1.5"
 CHUNK_CHARS = 900
-SKIP_NAMES = {"INDEX.md", "MANIFEST.md"}
+# Index files live inside scenes/ but are not scenes. Embedding them put CONTINUITY.md
+# into scene_recall's results as if it were a scene, and CAST/ARCS/TIMELINE had been in
+# the corpus all along -- a search for a moment should return the prose, not the index of it.
+SKIP_NAMES = {"INDEX.md", "MANIFEST.md", "CAST.md", "ARCS.md", "TIMELINE.md", "CONTINUITY.md"}
 
 _model = None
 _loaded: dict | None = None

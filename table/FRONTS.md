@@ -18,13 +18,13 @@ Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the pr
   - [ ] 4. The Keth-Gorrum sends the word north to the Accord table as a demand that Kharven use it in its own records; the Accord circle has to rule on a foreign noun.
   - [ ] 5. Resolves: the word is either entered in Kharven's roll or refused in writing, and whichever it is, the Expanse remembers who signed.
 
-**The Accord circle, unnamed** ●○○○○ 1/5 · open
+**The Accord circle, unnamed** ●●○○○ 2/5 · open
 - Want: four constituents with every reason to hate each other each want the instrument read their way.
-- Last move: First test of the refugee clause, by someone who signed it: Lambert brings Sodoku a Stannvaard petition (Oskel and Daughters) reading clause nine's "received" as a date after the seal, which would put the four hundred and six outside the circle's protection as grain-debt, and lays a drafted reading with a space for the king's seal nineteen days before the circle sits.
-- Next move: The reading that test produces is entered, and one constituent discovers the instrument read their way is now the minority reading.
+- Last move: Lambert brought the first test of the instrument to Sodoku's room at night, dressed as housekeeping: re-enter every southern register under the circle's seal, the relocation schedule and its sub-entries among them, so the four hundred and six pass from his office to the circle without anyone saying so. The paper is on the table. Sodoku has not answered.
+- Next move: Whatever Sodoku does with the brush is the reading. If he signs, the four hundred and six are the circle's and one constituent finds the instrument read Lambert's way. If he refuses, Lambert's seal stays on them and Tabitha's factors have a document to ask about.
   - [x] 1. The first test of the refugee clause, by someone who signed it.
-  - [ ] 2. The reading that test produces is entered, and one constituent discovers the instrument read their way is now the minority reading.
-  - [ ] 3. The circle is asked for its name in a document that cannot leave the space blank; the naming becomes the fight.
+  - [x] 2. The reading that test produces is entered, and one constituent discovers the instrument read their way is now the minority reading.
+  - [ ] 3. Whatever Sodoku does with the brush is the reading. If he signs, the four hundred and six are the circle's and one constituent finds the instrument read Lambert's way. If he refuses, Lambert's seal stays on them and Tabitha's factors have a document to ask about.
   - [ ] 4. The second test of the clause arrives from outside the four (a Keth-Gorrum noun, a Stannvaard debt) and the circle has to speak with one voice or admit it has none.
   - [ ] 5. Resolves: the circle has a name and a first precedent, or it has split along the reading and the instrument is two documents.
 

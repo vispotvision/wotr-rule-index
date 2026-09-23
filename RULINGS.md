@@ -573,3 +573,20 @@ in `rules/doc-magic-system-rulings-2026-09-23.yaml` carry them into the index.
 - **C-029.** Closed by the existing C-013 ruling of 2026-09-13: the
   Sub-Stats that reach their true ceiling only through Dissonance are
   Overflow, Overchannel and Persistence.
+
+## 2026-09-23, later — four follow-ups from the same questionnaire
+
+Isaac, in Claude Code, answering the questions the card pass raised. Rows
+R42-12 to R42-15 in `rules/doc-magic-system-rulings-2026-09-23.yaml`.
+
+- **Class and Stage.** The Class ladder is the typical path, not a lock:
+  a card whose Class sits above the ladder for its Stage stands, and the
+  Luminous and Voidic Classes stay lateral. The 26 Stage VI–VII cards that
+  disagree with the ladder are unchanged.
+- **Crystal State field.** A Crystal tier word written in a card's Crystal
+  State field moves to Crystal Tier, and Crystal State becomes null; a
+  Stage IV card reading Harmonic is corrected to Awakened.
+- **Via Fati.** Viaforma gains a fourth Via, Via Fati, for the Fate Path,
+  described from The Four Paths' Fate section only.
+- **Kinjiki.** Stage XIV is Tier 8, Archmaster; the card is corrected from
+  Paragon.

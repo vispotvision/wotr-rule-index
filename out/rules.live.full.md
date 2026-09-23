@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-558 live of 683 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+562 live of 687 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (29)
 
@@ -178,7 +178,7 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (77)
+## character-sheet (80)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -546,6 +546,24 @@ Dominion's Stability is renamed Gravity.
 
 > Dominion's Stability is renamed Gravity; Harmonics keeps Stability.
 
+### R42-12-CLASS_LADDER_NOT_A_LOCK [Magic System Rulings 2026-09-23 follow-up]
+
+The Class ladder is the typical path, not a lock.
+
+> The Class ladder is the typical path, not a lock: a card whose Class sits above the ladder for its Stage stands, and the Luminous and Voidic Classes stay lateral. The 26 Stage VI–VII cards that disagree with the ladder are unchanged.
+
+### R42-13-CRYSTAL_STATE_FIELD [Magic System Rulings 2026-09-23 follow-up]
+
+A tier word in the Crystal State field moves to Crystal Tier; State null.
+
+> A Crystal tier word written in a card's Crystal State field moves to Crystal Tier, and Crystal State becomes null; a Stage IV card reading Harmonic is corrected to Awakened.
+
+### R42-15-KINJIKI_ARCHMASTER [Magic System Rulings 2026-09-23 follow-up]
+
+Kinjiki's Tier of Standing is 8, Archmaster.
+
+> Stage XIV is Tier 8, Archmaster; the card is corrected from Paragon.
+
 ### R22-2-NAMED_CHARACTERS_TABLE [Moto Reversion Ledger II]
 
 Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
@@ -645,7 +663,7 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## codex (37)
+## codex (38)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -868,6 +886,12 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 There are four Paths, Fate included.
 
 > There are four Paths: Body, Spirit, Attraction and Fate.
+
+### R42-14-VIA_FATI [Magic System Rulings 2026-09-23 follow-up]
+
+Viaforma gains Via Fati for the Fate Path.
+
+> Viaforma gains a fourth Via, Via Fati, for the Fate Path, described from The Four Paths' Fate section only.
 
 ## combat (64)
 
@@ -5892,7 +5916,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (57)
+## stats (59)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -6175,6 +6199,18 @@ Dominion's Stability is renamed Gravity.
 Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 
 > Closed by the existing C-013 ruling of 2026-09-13: the Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence.
+
+### R42-12-CLASS_LADDER_NOT_A_LOCK [Magic System Rulings 2026-09-23 follow-up]
+
+The Class ladder is the typical path, not a lock.
+
+> The Class ladder is the typical path, not a lock: a card whose Class sits above the ladder for its Stage stands, and the Luminous and Voidic Classes stay lateral. The 26 Stage VI–VII cards that disagree with the ladder are unchanged.
+
+### R42-14-VIA_FATI [Magic System Rulings 2026-09-23 follow-up]
+
+Viaforma gains Via Fati for the Fate Path.
+
+> Viaforma gains a fourth Via, Via Fati, for the Fate Path, described from The Four Paths' Fate section only.
 
 ### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
 

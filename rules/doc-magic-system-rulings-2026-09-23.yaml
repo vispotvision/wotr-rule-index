@@ -282,3 +282,98 @@ rules:
     file: ''
     lines: null
   notes: Closes CONFLICTS.md C-029.
+- id: R42-12-CLASS_LADDER_NOT_A_LOCK
+  pack: Magic System Rulings 2026-09-23
+  pack_number: null
+  section: follow-up
+  title: The Class ladder is the typical path, not a lock
+  status: live
+  kind: definition
+  summary: The Class ladder is the typical path, not a lock.
+  verbatim: 'The Class ladder is the typical path, not a lock: a card whose Class
+    sits above the ladder for its Stage stands, and the Luminous and Voidic Classes
+    stay lateral. The 26 Stage VI–VII cards that disagree with the ladder are unchanged.'
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: extends
+  supersedes: []
+  applies_to:
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-23, Claude Code: ruled directly (questionnaire follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: Raised by the 2026-09-23 card pass.
+- id: R42-13-CRYSTAL_STATE_FIELD
+  pack: Magic System Rulings 2026-09-23
+  pack_number: null
+  section: follow-up
+  title: A tier word in the Crystal State field moves to Crystal Tier; State null
+  status: live
+  kind: definition
+  summary: A tier word in the Crystal State field moves to Crystal Tier; State null.
+  verbatim: A Crystal tier word written in a card's Crystal State field moves to
+    Crystal Tier, and Crystal State becomes null; a Stage IV card reading Harmonic
+    is corrected to Awakened.
+  amends:
+  - guide: character sheet template
+    locus: character sheet template
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-23, Claude Code: ruled directly (questionnaire follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: Raised by the 2026-09-23 card pass.
+- id: R42-14-VIA_FATI
+  pack: Magic System Rulings 2026-09-23
+  pack_number: null
+  section: follow-up
+  title: Viaforma gains Via Fati for the Fate Path
+  status: live
+  kind: definition
+  summary: Viaforma gains Via Fati for the Fate Path.
+  verbatim: Viaforma gains a fourth Via, Via Fati, for the Fate Path, described
+    from The Four Paths' Fate section only.
+  amends:
+  - guide: The Magical Categories — Unified Taxonomy
+    locus: The Magical Categories — Unified Taxonomy
+    operation: extends
+  supersedes: []
+  applies_to:
+  - codex
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-09-23, Claude Code: ruled directly (questionnaire follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: Raised by the 2026-09-23 card pass.
+- id: R42-15-KINJIKI_ARCHMASTER
+  pack: Magic System Rulings 2026-09-23
+  pack_number: null
+  section: follow-up
+  title: Kinjiki's Tier of Standing is 8, Archmaster
+  status: live
+  kind: definition
+  summary: Kinjiki's Tier of Standing is 8, Archmaster.
+  verbatim: Stage XIV is Tier 8, Archmaster; the card is corrected from Paragon.
+  amends:
+  - guide: character sheet template
+    locus: character sheet template
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-23, Claude Code: ruled directly (questionnaire follow-up)'
+  source:
+    file: ''
+    lines: null
+  notes: Raised by the 2026-09-23 card pass.

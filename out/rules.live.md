@@ -1,6 +1,6 @@
 # Live rules by domain
 
-558 live of 683 extracted.
+562 live of 687 extracted.
 
 ## adjudication (29)
 
@@ -34,7 +34,7 @@
 - **R39-4-MAX_GRADE_LETTER_BINDS** [Stat System and Scene Rulings 2026-09-13 C-011] A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
 - **R28-1-BLACK_STONES_SHALE_ANALOGUE** [Voidfall Stone / Black Stones Ruling Standing Ruling] The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
-## character-sheet (77)
+## character-sheet (80)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -97,6 +97,9 @@
 - **R42-4-THREE_CRYSTAL_STATES** [Magic System Rulings 2026-09-23 C-022] Three Crystal States; Crystallized is a tier, not a State.
 - **R42-8-PARAGON_LEVEL_UNCOUNTED** [Magic System Rulings 2026-09-23 C-026] Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.
 - **R42-9-DOMINION_GRAVITY** [Magic System Rulings 2026-09-23 C-027] Dominion's Stability is renamed Gravity.
+- **R42-12-CLASS_LADDER_NOT_A_LOCK** [Magic System Rulings 2026-09-23 follow-up] The Class ladder is the typical path, not a lock.
+- **R42-13-CRYSTAL_STATE_FIELD** [Magic System Rulings 2026-09-23 follow-up] A tier word in the Crystal State field moves to Crystal Tier; State null.
+- **R42-15-KINJIKI_ARCHMASTER** [Magic System Rulings 2026-09-23 follow-up] Kinjiki's Tier of Standing is 8, Archmaster.
 - **R22-2-NAMED_CHARACTERS_TABLE** [Moto Reversion Ledger II] Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
 - **R22-2-UNAFFECTED_CHARACTERS** [Moto Reversion Ledger II] Hild Ice and Robin Ice keep the Stark maternal register; Filemu Agamalu and the whole Agamalu house keep Polynesian register, which the amendment never governed; Tomuka, Ezo, Kuroyuki and Mizuyi were never converted and stay as they are.
 - **R20-1-BEASTKIN_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Akan day-naming plus the Name-Keeping tradition: a soul-name by birth circumstance, a held name as the last thing that cannot be taken; the soul-name carries an attribute the bearer is expected to embody, and failing it is a strong source of internal shame.
@@ -114,7 +117,7 @@
 - **R39-5-PERSISTENCE_FATE_GATE_VII** [Stat System and Scene Rulings 2026-09-13 C-012] Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
 - **R39-6-DISSONANCE_CEILING_TRIO** [Stat System and Scene Rulings 2026-09-13 C-013] The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
 
-## codex (37)
+## codex (38)
 
 - **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
@@ -153,6 +156,7 @@
 - **R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA** [Abys Deep Codex Amendment Ruling Standing Ruling] The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
+- **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
 
 ## combat (64)
 
@@ -1028,7 +1032,7 @@
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R22-7-KHARVEN_INVENTORY_KEPT** [Moto Reversion Ledger VII] The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
-## stats (57)
+## stats (59)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
@@ -1077,6 +1081,8 @@
 - **R42-8-PARAGON_LEVEL_UNCOUNTED** [Magic System Rulings 2026-09-23 C-026] Past Level 500 at Stages XV–XVI, uncounted, no sixth Band.
 - **R42-9-DOMINION_GRAVITY** [Magic System Rulings 2026-09-23 C-027] Dominion's Stability is renamed Gravity.
 - **R42-11-DISSONANCE_SUBSTATS_BY_C013** [Magic System Rulings 2026-09-23 C-029] Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
+- **R42-12-CLASS_LADDER_NOT_A_LOCK** [Magic System Rulings 2026-09-23 follow-up] The Class ladder is the typical path, not a lock.
+- **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 - **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
 - **R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT** [Stat Gates and Re-cost Ruling Standing Ruling] Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).

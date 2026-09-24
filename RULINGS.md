@@ -608,3 +608,9 @@ Context: Session 24 Sept 2026, building the wotr-docs skill. Isaac reversed his 
 Full-knowledge, fair-play rule. Natalie draws on everything that exists in WOTR (cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge) when writing characters and prose. Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.
 
 Context: Session 24 Sept 2026. Isaac's standing direction for how Natalie writes characters and prose generally.
+
+## 2026-09-24 — new
+
+Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately. Isaac's words: "the mechanism in the effect should be the SAME thing the Mechanism is the Effect or how it works". Applies to technique and ability entries, cards, sheets, the system accounts (WAR-3..7) and in-world documents.
+
+Context: Session 24 Sept 2026, during the system-accounts pass (Paperclip WAR-3..7). The Technique entry format in .claude/skills/wotr-write/references/technique-design.md and 63 Technique/Spellcraft wiki pages carry separate **Effect** and **Mechanism** fields.

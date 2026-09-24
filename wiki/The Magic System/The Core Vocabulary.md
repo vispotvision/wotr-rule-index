@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8183-817e-cc1a61adee53"
 notion_url: "https://app.notion.com/p/The-Core-Vocabulary-3b158200eb228183817ecc1a61adee53"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
+last_edited: "2026-09-24T18:35:00.000Z"
 verification: "unverified"
 ---
 

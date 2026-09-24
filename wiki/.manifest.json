@@ -108,7 +108,7 @@
   },
   "3d758200-eb22-81a2-82cb-c69140fdabd7": {
     "rel": "Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md",
-    "edited": "2026-09-23T23:23:00.000Z",
+    "edited": "2026-09-24T18:18:00.000Z",
     "title": "IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve)"
   },
   "3d758200-eb22-816d-8b90-d14e1e94cfd9": {
@@ -1413,7 +1413,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-24T17:15:00.000Z",
+    "edited": "2026-09-24T18:15:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -1883,7 +1883,7 @@
   },
   "3b158200-eb22-8183-817e-cc1a61adee53": {
     "rel": "The Magic System/The Core Vocabulary.md",
-    "edited": "2026-09-23T23:24:00.000Z",
+    "edited": "2026-09-24T18:35:00.000Z",
     "title": "The Core Vocabulary"
   },
   "3b158200-eb22-8197-9345-cf955fc00b7d": {
@@ -3486,6 +3486,12 @@
   "3e558200-eb22-8139-9500-c265943dfc2c": {
     "rel": "The Scene Archive/Continuity map (3e558200).md",
     "edited": "2026-09-24T17:15:00.000Z",
+    "title": "Continuity map",
+    "private": true
+  },
+  "3e558200-eb22-81a3-8c2c-f7f84422c9f9": {
+    "rel": "The Scene Archive/Continuity map (3e558200).md",
+    "edited": "2026-09-24T18:15:00.000Z",
     "title": "Continuity map",
     "private": true
   }

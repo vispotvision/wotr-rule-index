@@ -1749,6 +1749,209 @@
    "kind": "object",
    "fact": "Foss keeps a little book for readings and writes in it which Swale walk has a white salt lick with hinds at it.",
    "quote": "Then he took out the little book he kept for readings and wrote down which walk it was."
+  },
+  {
+   "ch": 9,
+   "subject": "Wystan",
+   "kind": "time",
+   "fact": "Day 10: Wystan slept four divisions before going to the Division archive at the eighth division; his hands shook at waking and stopped, which is about usual.",
+   "quote": "He had slept four divisions."
+  },
+  {
+   "ch": 9,
+   "subject": "archive keeper",
+   "kind": "lie",
+   "fact": "LIE (uncorrected): the archive keeper tells Wystan the metered-draw schedule is current and came down at the quarter; it is a season old, so Wystan's fraction is slightly wrong.",
+   "quote": "That's the current schedule, Warden. Came down at the quarter."
+  },
+  {
+   "ch": 9,
+   "subject": "archive keeper",
+   "kind": "object",
+   "fact": "The quarter's actual issue from the capital lies unopened in a canvas bag under the keeper's table, string still round its neck.",
+   "quote": "He sat and drew the roll toward him, and put his feet back under the table, where a canvas bag with the capital's ticket on it lay on its side with the string still round the neck."
+  },
+  {
+   "ch": 9,
+   "subject": "Night Register",
+   "kind": "record",
+   "fact": "The archive's issue roll records the schedule of metered draw drawn out under 'Night Register', in ink with press-mark and division.",
+   "quote": "The keeper entered it under the last line in ink, with the press-mark and the division, and turned the roll so Wystan could see it was right."
+  },
+  {
+   "ch": 9,
+   "subject": "Ferriby dead",
+   "kind": "number",
+   "fact": "The Bureau's Ferriby field sheets give length and girth for four of the dead and weight for none; Wystan used spring hind and stag weights from the Society's almanac, source noted.",
+   "quote": "The Bureau's field sheets gave length and girth for four of the Ferriby dead and weight for none of them, so he took a spring hind and a spring stag off the forester's table at the back of the Society's almanac, which carried them on two lines, and wrote both down with the source beside them."
+  },
+  {
+   "ch": 9,
+   "subject": "Ferriby pour",
+   "kind": "number",
+   "fact": "Wystan priced the Ferriby pour at the tariff (third dilution, eleven hinds and a stag) twice, two ways, and got two myriads and a fraction both times; the figure is on two leaves of his day book.",
+   "quote": "It came out at two myriads and a fraction."
+  },
+  {
+   "ch": 9,
+   "subject": "Wystan",
+   "kind": "misreading",
+   "fact": "MISREADING (uncorrected): Wystan concludes the Verdantia was bought over a meter at the tariff and a bill was paid; in truth it was drawn down as wastage on the Swale supply contract (ch4).",
+   "quote": "Two myriads and a fraction had been bought over a meter, at the tariff, and somebody had paid the bill when it came."
+  },
+  {
+   "ch": 9,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "The skin at Wystan's right nails, split by salt three days before, still catches the pen.",
+   "quote": "The pen caught once on a down-stroke where the salt had opened the skin at his right nails three days before."
+  },
+  {
+   "ch": 9,
+   "subject": "northern arrays",
+   "kind": "name",
+   "fact": "Four array lines lie within a day's ride of the Ferriby cut on the archive map: Swale (road down its side), Aysgill, Wendle (river bends back), Scarth (high ground south); Wystan has no reason to prefer the Swale.",
+   "quote": "Four lines came inside the thumb."
+  },
+  {
+   "ch": 9,
+   "subject": "Logistics",
+   "kind": "record",
+   "fact": "Wystan wired Logistics for draw records on the four lines, nine words, signed Night Register; he has never put his name on a wire.",
+   "quote": "Draw records requested: Swale, Aysgill, Wendle, Scarth. Night Register."
+  },
+  {
+   "ch": 9,
+   "subject": "Logistics",
+   "kind": "record",
+   "fact": "Logistics refused within the division, nine words signed with the office: returns publish on the schedule and not before.",
+   "quote": "Returns publish on the schedule and not before. Logistics."
+  },
+  {
+   "ch": 9,
+   "subject": "day book",
+   "kind": "object",
+   "fact": "The Logistics refusal slip is folded into Wystan's day book at the leaf with the arithmetic.",
+   "quote": "He folded the slip once and set it in the day book at the leaf with the arithmetic."
+  },
+  {
+   "ch": 9,
+   "subject": "Ferriby tin",
+   "kind": "object",
+   "fact": "The Ferriby tin and the birch block's tin stay on the scullery sill under Wystan's brass with the fold of chapter wax; he did not carry them to the bench.",
+   "quote": "The Ferriby tin was on the sill under his brass with the birch block's tin beside it, and he had looked at the two of them on his way up the stair and left them where they were."
+  },
+  {
+   "ch": 9,
+   "subject": "Timberline chapter",
+   "kind": "place",
+   "fact": "The Timberline chapter's bench is two streets east of Cutler Row, up an outside stair over a harness-maker's; long room, north light, stone floor, on the main with a Board-sealed meter inside the door.",
+   "quote": "The Timberline chapter kept its bench two streets east, up an outside stair over a harness-maker's, one long room with a north light and a stone floor."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "record",
+   "fact": "Yinzhi bought a fresh pig's blood from the shambles at the foot of the chapter's street (stuck at the sixth); it is on the chapter's day-book as bought with its cost.",
+   "quote": "It is on the chapter's day-book as bought and what it cost."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "record",
+   "fact": "Yinzhi worked her compound from her own coil reading in the scullery, not from the tins; she has not been near the tins and says so in the chapter book.",
+   "quote": "The tins are shut and I have not been near them and it is in the book that I have not."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "record",
+   "fact": "Yinzhi made the compound twice; yesterday's failed attempt is in the chapter book alongside today's.",
+   "quote": "Yesterday it did nothing, and I had it wrong, and the wrong one is in the book as well."
+  },
+  {
+   "ch": 9,
+   "subject": "compound",
+   "kind": "phenomenon",
+   "fact": "Yinzhi's compound is idle in the flask (warm, cold, light) and acts only in fresh blood, dulling and drawing it in, and runs on with nothing to hold it up; she has one timing, from an hour.",
+   "quote": "Blood, and it crosses over in blood, and once it has crossed it goes on in the meat with nothing left to hold it up."
+  },
+  {
+   "ch": 9,
+   "subject": "compound",
+   "kind": "phenomenon",
+   "fact": "Nothing at the bench stood up or leaned; Yinzhi says the other half is not in the pail, this is only the part that starts.",
+   "quote": "That's the other half of it and it is not in the pail."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "refusal",
+   "fact": "Yinzhi refuses to write the Ferriby tin's behaviour into the chapter book off one pail; she writes only the pail.",
+   "quote": "I am not writing yours."
+  },
+  {
+   "ch": 9,
+   "subject": "Wystan",
+   "kind": "unknown",
+   "fact": "Wystan tasted something green at the back of his tongue when the pail was uncovered, as before in ch1, and has recorded it neither time.",
+   "quote": "Wystan had the smell of it at once, iron and warmth and the shambles, and under it something green at the back of his tongue, which he had had before and had not written down then either."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "knowledge",
+   "fact": "Yinzhi now knows Wystan's price for the Ferriby pour and has read the Logistics refusal.",
+   "quote": "He took the slip out of the day book and gave it to her, and she read it and gave it back."
+  },
+  {
+   "ch": 9,
+   "subject": "Timberline chapter",
+   "kind": "number",
+   "fact": "The Timberline chapter drawing at third for a week shows on its bill at the month and draws a complaint from the chapter secretary; Yinzhi's draw will be asked about.",
+   "quote": "The chapter draws at third for a week and it is on our bill at the month and the bill comes to the secretary and the secretary complains at me about it."
+  },
+  {
+   "ch": 9,
+   "subject": "Yinzhi",
+   "kind": "object",
+   "fact": "Yinzhi still wears the regulation bracelet (ch1 lie stands); it came forward out of her cuff while she wrote and neither remarked it.",
+   "quote": "She had her head down over the book and her wrist across the page, and the regulation bracelet had come forward on it out of her cuff, the badly struck mark on the plate turned in toward the skin."
+  },
+  {
+   "ch": 9,
+   "subject": "Wystan",
+   "kind": "record",
+   "fact": "Wystan signed nothing in Yinzhi's chapter book.",
+   "quote": "He signed nothing."
+  },
+  {
+   "ch": 9,
+   "subject": "Swale line",
+   "kind": "record",
+   "fact": "At the eleventh Wystan filed a standing request: the quarterly Logistics return for the Swale line and its draw to reach the Night Register on the day of publication; no Ferriby, no other lines, no figure in it.",
+   "quote": "A standing request against the Swale line of the northern arrays."
+  },
+  {
+   "ch": 9,
+   "subject": "Swale line",
+   "kind": "record",
+   "fact": "The request is signed 'Night Register, Cutler Row' with no name, under Wystan's brass seal.",
+   "quote": "He signed it the way the Register signed, *Night Register, Cutler Row*, and no name, and struck his brass into the wax while it was soft, with his elbow on the counter and his left hand pressed over the back of his right so that the tremor went down into the counter instead of into the seal."
+  },
+  {
+   "ch": 9,
+   "subject": "registry roll",
+   "kind": "record",
+   "fact": "The request is on the Cutler Row registry roll in ink: date, division, office, line, and 'standing'.",
+   "quote": "The clerk turned to the registry roll and entered it in ink: the date, the division, the office, the line, and *standing* in the last column."
+  },
+  {
+   "ch": 9,
+   "subject": "day book",
+   "kind": "object",
+   "fact": "The counterfoil sits with the wire slip at the arithmetic leaf of the day book, with the entry date and line in the margin.",
+   "quote": "He laid the counterfoil in beside it, squared the two of them to the gutter, and wrote in the margin, in the division's figures, the day the request had been entered and the line it stood against."
   }
  ],
  "hooks": [
@@ -1794,12 +1997,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 58,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "A quarter inch of new growth under an unbroken Fixatio seal, logged 'crown +¼ in sealed, 11d'.",
      "quote": "Something in the tin had gone on running under a seal that was sold to the courts as a promise that nothing would."
+    },
+    {
+     "ch": 9,
+     "what": "Wystan sets the sealed Ferriby tin's running beside Yinzhi's bench compound; she refuses to carry the pail onto the tin, nothing concluded.",
+     "quote": "The tin at Ferriby has gone on running under a seal,\" he said."
     }
    ]
   },
@@ -1814,12 +2022,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 58,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "Four pieces of chapter wax fit the join, folded and dated for custody.",
      "quote": "The day somebody wants to say this tin was opened on the road, I want four pieces of chapter wax that fit a join, and a paper round them dated before anybody asked."
+    },
+    {
+     "ch": 9,
+     "what": "Custody kept: neither tin opened; Yinzhi's reproduction is from her own coil reading in her own hand, and Wystan signs nothing of hers.",
+     "quote": "The tins are shut and I have not been near them and it is in the book that I have not."
     }
    ]
   },
@@ -1875,6 +2088,11 @@
      "ch": 8,
      "what": "'A man from the Register' stays a form; Malphas's inference stays at the institution; Foss's imagined questioner has no face.",
      "quote": "The Register had walked up one lane."
+    },
+    {
+     "ch": 9,
+     "what": "The wire and the standing request both carry the office and no name; nothing has the request reach the cell.",
+     "quote": "He signed it the way the Register signed, *Night Register, Cutler Row*, and no name, and struck his brass into the wax while it was soft, with his elbow on the counter and his left hand pressed over the back of his right so that the tremor went down into the counter instead of into the seal."
     }
    ]
   },
@@ -2161,6 +2379,11 @@
      "ch": 8,
      "what": "The licks widen onto the Swale walks, off the main; Deming not named.",
      "quote": "Nobody walks the whole of the Swale."
+    },
+    {
+     "ch": 9,
+     "what": "Logistics refuses the draw records until the return publishes; Wystan files a standing request so the Swale return reaches the Night Register on its publication day. He never learns the eleven weeks.",
+     "quote": "Returns publish on the schedule and not before. Logistics."
     }
    ]
   },
@@ -2459,6 +2682,11 @@
      "ch": 7,
      "what": "The Hand gives Wystan the lick-keeper's hand, not the formulator's.",
      "quote": "It was the wrong one."
+    },
+    {
+     "ch": 9,
+     "what": "The purse now has a size, two myriads and a fraction, on two leaves in Wystan's hand; he does not name it aloud.",
+     "quote": "It had one now, on two leaves, in his own hand, and he had not gone looking for it."
     }
    ]
   }
@@ -2503,6 +2731,11 @@
    "ch": 8,
    "title": "Rounding",
    "summary": "Day 8, the Swale road inn (on the main). Foss pays the unnamed carter five salt bars for two loads to the ford. The bars leave no bill, and the carter shaves one into his pulse. The carter lies that the man at the ford wants two more, on account of the Register. The news: \"Man from the Register's been at the Ferriby lick-keeper. Asking about blocks.\" Nobody in the chain saw him; no name, no description. The carter refuses to give up the man at the ford. The main goes off at the tenth. Foss pays the two and refuses to wire. He concludes that the Register came up the road the way his manual did and blames his own asking. Day 9, the first division, Greyshaft Nine. Malphas asks nothing. He stops Ferriby for a season: no word up the lane, and the posts are left as they are. He moves the licks to the Swale walks, one block to a keeper, written in Foss's hand as the carter said it. He declines Foss's self-blame. Riding home, Foss rehearses his rounding-convention explanation and notes a white lick on a Swale walk."
+  },
+  {
+   "ch": 9,
+   "title": "Two Myriads",
+   "summary": "Day 10. In the Division archive Wystan draws the northern schedule of metered draw; the keeper says it is current, and it is a season old. Working from the assay's third dilution and Tally's count, eleven hinds and a stag, with spring weights off the Society's almanac, he prices the Ferriby pour twice and gets two myriads and a fraction both times. He concludes the dose was bought over a meter and that a bill was paid. Off the archive's map he takes four array lines within a day's ride of the Ferriby cut, Swale, Aysgill, Wendle and Scarth, and wires Logistics for their draw records in nine words under the Register's form. The refusal comes back in nine: returns publish on the schedule and not before. At the Timberline bench Yinzhi, working from her own coil reading and touching neither tin, shows him a compound that is idle in the flask and runs in a pail of pig. She will not carry it onto the Ferriby tin. At the eleventh division, as the main goes off, Wystan files a standing request against the Swale line: the return to reach the Night Register on the day it publishes."
   }
  ]
 }

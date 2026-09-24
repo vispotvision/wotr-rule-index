@@ -1,0 +1,8 @@
+{"findings":[
+{"severity":"info","pass":"shape","quote":"# Two Myriads","problem":"none: word count 3414 against target 3500 (97.5%), inside 80-150%","evidence":"wc -w 3417; verify reports 3414 words (set-piece band)","fix":"none"},
+{"severity":"info","pass":"tell_scan","quote":"# Two Myriads","problem":"none: verify --band set-piece --culture Accord passes","evidence":"PASS: 0 fail, 0 warn; sentence CV 0.89, paragraph CV 0.99, 6 italic interior beats","fix":"none"},
+{"severity":"info","pass":"shape","quote":"That's the current schedule, Warden. Came down at the quarter.","problem":"none: declared lie present verbatim","evidence":"grep -F count 1","fix":"none"},
+{"severity":"info","pass":"shape","quote":"Two myriads and a fraction had been bought over a meter, at the tariff, and somebody had paid the bill when it came.","problem":"none: declared misreading present verbatim","evidence":"grep -F count 1","fix":"none"},
+{"severity":"info","pass":"voice","quote":"I asked Logistics for the draw on four lines this afternoon.","problem":"voice unchecked: no fingerprint for Wystan or Yinzhi (fewer than eight attributed lines in the archive)","evidence":"voice_check returned 'no fingerprint' for 8 Wystan and 8 Yinzhi lines","fix":"none possible until the archive holds enough attributed lines"},
+{"severity":"info","pass":"hooks","quote":"# Two Myriads","problem":"none: outline pays [] for ch9, no hook to pay","evidence":"notes_r0.md Hooks: Paid none","fix":"none"}
+]}

@@ -1,0 +1,7 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# Two Myriads","problem":"none","evidence":"book_tools verify --band set-piece --culture Accord: PASS, 0 fail, 0 warn; 1 flat run (<4), sentence CV 0.89, 6 italic interior beats","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# Two Myriads","problem":"none","evidence":"3392 words (wc 3395) vs target 3500 = 97%, within 80-150%","fix":"none"},
+{"severity":"info","pass":"shape","quote":"That's the current schedule, Warden. Came down at the quarter.","problem":"none","evidence":"Both declared sentences (lie, misreading) found verbatim","fix":"none"},
+{"severity":"info","pass":"voice","quote":"It does nothing in the flask,","problem":"voice unverifiable","evidence":"voice_check: no fingerprint for Yinzhi or Wystan (fewer than eight archived lines); 7 lines checked","fix":"none"},
+{"severity":"info","pass":"hooks","quote":"# Two Myriads","problem":"none","evidence":"outline pays: [] - no hooks to pay","fix":"none"}
+]}

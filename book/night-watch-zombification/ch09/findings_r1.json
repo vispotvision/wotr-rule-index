@@ -1,0 +1,14 @@
+{
+ "fail": 0,
+ "warn": 1,
+ "dropped": 0,
+ "findings": [
+  {
+   "severity": "WARN",
+   "pass": "canon",
+   "quote": "It came out at two myriads and a fraction.",
+   "problem": "The wiki page 'Value, Coin and Trade' defines a myriad as a contracted delivery rate (one myriad delivered daily for a year, from a named source), not a spot quantity; the draft uses it as the total price of a single one-off dose. Unattested, not contradicted outright.",
+   "fix": "If intentional, add a line lampshading the conversion from rate to one-time quantity; otherwise confirm with Isaac whether 'myriad' doubles as a spot-price unit in this book."
+  }
+ ]
+}

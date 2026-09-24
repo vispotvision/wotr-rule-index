@@ -1,216 +1,540 @@
-Aurelian:
-  contraction_rate: 0.09
+Ara Min Mahuo:
+  contraction_rate: 0.29
+  favourite_words:
+  - before
+  - look
+  - like
+  - begin
+  - spend
+  - morning
+  - pretending
+  - going
+  first_person_rate: 0.14
+  imperative_rate: 0.07
+  lines: 14
+  mean_words: 9.3
+  question_rate: 0.21
+  sd_words: 11.6
+  short_share: 0.36
+Aurelian Prudentius Custos Clausorum:
+  contraction_rate: 0.05
   favourite_words:
   - record
+  - because
   - told
+  - since
+  - went
   - office
   - come
   - thought
-  - veniet
-  - kept
-  - ledger
-  first_person_rate: 0.45
+  first_person_rate: 0.34
   imperative_rate: 0.0
-  lines: 11
-  mean_words: 15
+  lines: 41
+  mean_words: 12.6
   question_rate: 0.0
-  sd_words: 19.5
-  short_share: 0.36
+  sd_words: 15.0
+  short_share: 0.24
+Ayame Yuno:
+  contraction_rate: 0.25
+  favourite_words:
+  - ayame
+  - chose
+  - because
+  - flaw
+  - throne
+  - mother
+  - mercy
+  - herself
+  first_person_rate: 0.17
+  imperative_rate: 0.0
+  lines: 12
+  mean_words: 14.2
+  question_rate: 0.0
+  sd_words: 12.1
+  short_share: 0.17
+Borin Ironheart:
+  contraction_rate: 0.08
+  favourite_words:
+  - oath
+  - name
+  - chains
+  - metal
+  - wanted
+  - better
+  - pending
+  - became
+  first_person_rate: 0.42
+  imperative_rate: 0.0
+  lines: 12
+  mean_words: 16.8
+  question_rate: 0.0
+  sd_words: 12.2
+  short_share: 0.08
+Bram Greymane:
+  contraction_rate: 0.1
+  favourite_words:
+  - error
+  - ridge
+  - does
+  - move
+  - bram
+  - throwing
+  - corrected
+  - gone
+  first_person_rate: 0.1
+  imperative_rate: 0.0
+  lines: 10
+  mean_words: 10.3
+  question_rate: 0.0
+  sd_words: 7.7
+  short_share: 0.1
+Brida Ashwell:
+  contraction_rate: 0.25
+  favourite_words:
+  - after
+  - council
+  - thing
+  - enough
+  - bleeding
+  - because
+  - 'true'
+  - first
+  first_person_rate: 0.25
+  imperative_rate: 0.06
+  lines: 16
+  mean_words: 24.1
+  question_rate: 0.06
+  sd_words: 23.0
+  short_share: 0.12
+Charles:
+  contraction_rate: 0.05
+  favourite_words:
+  - years
+  - three
+  - other
+  - thing
+  - because
+  - correspondence
+  - worried
+  - health
+  first_person_rate: 0.32
+  imperative_rate: 0.0
+  lines: 19
+  mean_words: 17
+  question_rate: 0.0
+  sd_words: 14.6
+  short_share: 0.21
 Cozbi Mahuo:
-  contraction_rate: 0.5
+  contraction_rate: 0.51
   favourite_words:
   - more
-  - thing
+  - once
+  - before
+  - never
   - i'll
   - don't
   - understand
-  - want
-  - once
-  - against
-  first_person_rate: 0.58
-  imperative_rate: 0.03
-  lines: 36
-  mean_words: 21.6
-  question_rate: 0.06
-  sd_words: 16.5
-  short_share: 0.17
+  - thing
+  first_person_rate: 0.51
+  imperative_rate: 0.05
+  lines: 41
+  mean_words: 19.9
+  question_rate: 0.07
+  sd_words: 16.2
+  short_share: 0.15
 Darius:
   contraction_rate: 0.09
   favourite_words:
+  - eleven
   - more
   - told
-  - years
-  - eleven
-  - never
   - whatever
   - standing
   - left
-  first_person_rate: 0.36
+  - want
+  - years
+  first_person_rate: 0.35
   imperative_rate: 0.0
-  lines: 11
-  mean_words: 21.3
+  lines: 23
+  mean_words: 21.0
   question_rate: 0.0
-  sd_words: 21.2
-  short_share: 0.45
+  sd_words: 19.6
+  short_share: 0.26
 Dhaerin:
-  contraction_rate: 0.56
+  contraction_rate: 0.38
   favourite_words:
+  - someone
   - finish
   - isn't
   - cozbi
-  - tonight
-  - i've
-  - strength
-  - it's
-  - someone
-  first_person_rate: 0.56
+  - never
+  - quite
+  - matched
+  - skill
+  first_person_rate: 0.54
   imperative_rate: 0.0
-  lines: 9
-  mean_words: 24.3
+  lines: 13
+  mean_words: 20
   question_rate: 0.0
-  sd_words: 18.9
-  short_share: 0.22
-Emira:
-  contraction_rate: 0.13
+  sd_words: 17.4
+  short_share: 0.15
+Edward Lambert:
+  contraction_rate: 0.09
   favourite_words:
+  - nothing
+  - hole
+  - ordination
+  - roll
+  - last
+  - confirmed
+  - sighting
+  - nine
+  first_person_rate: 0.18
+  imperative_rate: 0.0
+  lines: 11
+  mean_words: 15.9
+  question_rate: 0.09
+  sd_words: 15.9
+  short_share: 0.09
+Emira:
+  contraction_rate: 0.19
+  favourite_words:
+  - place
+  - people
   - needed
   - stay
   - close
-  - tomuka
-  - sonzai
-  - kuroyuki
-  - mizuyi
-  - already
-  first_person_rate: 0.13
+  - like
+  - three
+  - months
+  first_person_rate: 0.14
   imperative_rate: 0.0
-  lines: 15
-  mean_words: 5.3
-  question_rate: 0.47
-  sd_words: 4.4
-  short_share: 0.6
+  lines: 21
+  mean_words: 7.7
+  question_rate: 0.33
+  sd_words: 7.4
+  short_share: 0.43
 Gimbzo:
-  contraction_rate: 0.79
+  contraction_rate: 0.73
   favourite_words:
   - that's
+  - it's
   - don't
   - whole
-  - it's
   - because
+  - didn't
   - you'll
-  - years
-  - both
-  first_person_rate: 0.41
-  imperative_rate: 0.06
-  lines: 34
-  mean_words: 38.8
-  question_rate: 0.03
-  sd_words: 22.1
-  short_share: 0.03
+  - four
+  first_person_rate: 0.38
+  imperative_rate: 0.04
+  lines: 48
+  mean_words: 35.1
+  question_rate: 0.02
+  sd_words: 22.9
+  short_share: 0.04
 Hild Ice:
   contraction_rate: 0.0
   favourite_words:
   - thing
+  - winter
   - eaten
   - fought
+  - anything
   - people
   - entirely
-  - father
-  - arrogant
-  - does
-  first_person_rate: 0.5
+  - through
+  first_person_rate: 0.39
   imperative_rate: 0.0
-  lines: 8
-  mean_words: 31.1
+  lines: 28
+  mean_words: 20.8
   question_rate: 0.0
-  sd_words: 22.1
-  short_share: 0.12
-Lambert:
-  contraction_rate: 0.1
+  sd_words: 21.3
+  short_share: 0.29
+Hiromi Mahuo:
+  contraction_rate: 0.56
   favourite_words:
+  - back
+  - slander
+  - fine
+  - i'll
+  - honey
+  - taesyn
+  - course
+  - you're
+  first_person_rate: 0.33
+  imperative_rate: 0.0
+  lines: 9
+  mean_words: 10
+  question_rate: 0.0
+  sd_words: 12.8
+  short_share: 0.56
+Kujo:
+  contraction_rate: 0.01
+  favourite_words:
+  - every
+  - nihil
+  - because
+  - understand
+  - enough
+  - paru
+  - more
+  - reality
+  first_person_rate: 0.32
+  imperative_rate: 0.03
+  lines: 121
+  mean_words: 14.0
+  question_rate: 0.02
+  sd_words: 13.3
+  short_share: 0.22
+Lambert:
+  contraction_rate: 0.09
+  favourite_words:
+  - eleven
   - years
   - three
-  - eleven
   - grain
-  - four
   - because
+  - once
   - through
-  - somebody
-  first_person_rate: 0.45
+  - north
+  first_person_rate: 0.41
   imperative_rate: 0.0
-  lines: 20
-  mean_words: 35.3
+  lines: 46
+  mean_words: 33.7
   question_rate: 0.0
-  sd_words: 25.5
-  short_share: 0.25
-Niran:
-  contraction_rate: 0.44
+  sd_words: 23.2
+  short_share: 0.09
+Malphas:
+  contraction_rate: 0.25
   favourite_words:
+  - objection
+  - both
+  - says
+  - stays
+  - where
+  - written
+  - work
+  - boundary
+  first_person_rate: 0.38
+  imperative_rate: 0.12
+  lines: 8
+  mean_words: 32
+  question_rate: 0.0
+  sd_words: 19.0
+  short_share: 0.0
+Muken Moto:
+  contraction_rate: 0.11
+  favourite_words:
+  - muken
+  - before
+  - kingdom
+  - years
+  - make
+  - first
+  - tenrai
+  - death
+  first_person_rate: 0.28
+  imperative_rate: 0.0
+  lines: 64
+  mean_words: 14.1
+  question_rate: 0.06
+  sd_words: 14.1
+  short_share: 0.22
+Niran Yukari:
+  contraction_rate: 0.26
+  favourite_words:
+  - name
+  - don't
   - enough
   - needs
+  - must
   - hold
-  - don't
   - where
   - i'll
-  - today
-  - things
-  first_person_rate: 0.56
-  imperative_rate: 0.11
-  lines: 9
-  mean_words: 14
+  first_person_rate: 0.26
+  imperative_rate: 0.05
+  lines: 19
+  mean_words: 12.4
   question_rate: 0.0
-  sd_words: 9.2
-  short_share: 0.22
+  sd_words: 7.0
+  short_share: 0.11
 Rengai Zettari:
-  contraction_rate: 0.9
+  contraction_rate: 0.67
   favourite_words:
-  - because
   - something
+  - because
+  - before
+  - where
+  - take
   - back
   - never
   - don't
-  - can't
-  - ever
-  - where
-  first_person_rate: 0.6
+  first_person_rate: 0.53
   imperative_rate: 0.0
-  lines: 10
-  mean_words: 31.9
-  question_rate: 0.1
-  sd_words: 16.0
+  lines: 15
+  mean_words: 23.9
+  question_rate: 0.07
+  sd_words: 17.3
   short_share: 0.0
-Sodoku Moto:
-  contraction_rate: 0.08
+Robin Ice:
+  contraction_rate: 0.24
   favourite_words:
-  - through
+  - front
+  - halberd
+  - warrior
+  - princess
+  - given
+  - surname
+  - stark
+  - houses
+  first_person_rate: 0.18
+  imperative_rate: 0.0
+  lines: 17
+  mean_words: 12.1
+  question_rate: 0.0
+  sd_words: 12.6
+  short_share: 0.29
+Sodoku Moto:
+  contraction_rate: 0.12
+  favourite_words:
+  - before
+  - because
+  - every
   - years
   - hand
-  - tell
+  - through
+  - eleven
+  - like
+  first_person_rate: 0.3
+  imperative_rate: 0.07
+  lines: 69
+  mean_words: 25.0
+  question_rate: 0.01
+  sd_words: 23.3
+  short_share: 0.14
+Sonzai Moto:
+  contraction_rate: 0.05
+  favourite_words:
+  - become
+  - know
   - every
+  - tell
+  - need
+  - kharven
+  - enough
+  - alone
+  first_person_rate: 0.44
+  imperative_rate: 0.04
+  lines: 79
+  mean_words: 13.9
+  question_rate: 0.06
+  sd_words: 11.8
+  short_share: 0.27
+The Arctic Lion:
+  contraction_rate: 0.14
+  favourite_words:
+  - thing
   - because
   - before
-  - eleven
-  first_person_rate: 0.46
-  imperative_rate: 0.08
-  lines: 13
-  mean_words: 45.6
-  question_rate: 0.0
-  sd_words: 21.7
-  short_share: 0.0
+  - know
+  - people
+  - more
+  - every
+  - where
+  first_person_rate: 0.33
+  imperative_rate: 0.02
+  lines: 281
+  mean_words: 18.2
+  question_rate: 0.06
+  sd_words: 18.7
+  short_share: 0.24
 Verinus VII:
   contraction_rate: 0.1
   favourite_words:
-  - going
   - want
-  - tell
-  - years
   - told
-  - because
+  - going
   - bishop
-  - down
-  first_person_rate: 0.51
-  imperative_rate: 0.06
-  lines: 78
-  mean_words: 29.7
-  question_rate: 0.01
-  sd_words: 24.0
+  - years
+  - because
+  - tell
+  - find
+  first_person_rate: 0.48
+  imperative_rate: 0.05
+  lines: 131
+  mean_words: 28.2
+  question_rate: 0.02
+  sd_words: 24.3
+  short_share: 0.21
+Wren:
+  contraction_rate: 0.17
+  favourite_words:
+  - wren
+  - greymane
+  - dead
+  - field
+  - left
+  - ditch
+  - bank
+  - entered
+  first_person_rate: 0.08
+  imperative_rate: 0.0
+  lines: 12
+  mean_words: 12.8
+  question_rate: 0.0
+  sd_words: 7.0
+  short_share: 0.08
+Xanelor Rafiminar:
+  contraction_rate: 0.19
+  favourite_words:
+  - found
+  - someone
+  - promise
+  - people
+  - because
+  - time
+  - reminder
+  - even
+  first_person_rate: 0.38
+  imperative_rate: 0.0
+  lines: 21
+  mean_words: 11.9
+  question_rate: 0.05
+  sd_words: 8.4
+  short_share: 0.14
+Yoko Mishiro:
+  contraction_rate: 0.22
+  favourite_words:
+  - poison
+  - other
+  - food
+  - because
+  - jokes
+  - being
+  - asking
+  - since
+  first_person_rate: 0.67
+  imperative_rate: 0.0
+  lines: 18
+  mean_words: 23.2
+  question_rate: 0.11
+  sd_words: 22.9
+  short_share: 0.22
+Zuberi:
+  contraction_rate: 0.21
+  favourite_words:
+  - because
+  - people
+  - watch
+  - make
+  - more
+  - before
+  - where
+  - don't
+  first_person_rate: 0.34
+  imperative_rate: 0.03
+  lines: 29
+  mean_words: 21.2
+  question_rate: 0.07
+  sd_words: 17.1
   short_share: 0.21

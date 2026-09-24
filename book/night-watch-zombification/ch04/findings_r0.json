@@ -1,1 +1,0 @@
-{"fail":1,"warn":0,"dropped":0,"findings":[{"severity":"FAIL","pass":"setup","quote":"","problem":"ch04/draft_r0.md, notes_r0.md and det_r0.json do not exist; only brief.md is present. No draft to check.","fix":"Produce draft_r0.md and notes_r0.md (and run the deterministic check to make det_r0.json) for chapter 4 before review."}]}

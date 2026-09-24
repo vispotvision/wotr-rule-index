@@ -6,6 +6,7 @@ docs/
 
 build/.mcp_token
 build/mcp_public.log
+build/mcp_local.log
 build/models/
 build/.venv-chatterbox/
 build/voices/*.wav

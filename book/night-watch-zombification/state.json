@@ -1532,6 +1532,223 @@
    "kind": "object",
    "fact": "The birch block is tinned in the widest tin (the soil tin), sealed with brass wax and struck with Wystan's brass; entered in the Register file Ferriby.",
    "quote": "He took out the brass wax and warmed the stick in his fist, the left fist, and ran the wax round the join, and struck his brass into it while it was soft."
+  },
+  {
+   "ch": 8,
+   "subject": "the carter",
+   "kind": "name",
+   "fact": "The carter who runs the Greyshaft crates to the ford is unnamed; Foss and he do not know each other's names.",
+   "quote": "Foss had never had his name."
+  },
+  {
+   "ch": 8,
+   "subject": "the carter",
+   "kind": "object",
+   "fact": "The carter is a long man, fifty or a hard forty, waxed smock brown at the left shoulder, horn-buttoned jerkin with two missing, left thumbnail black; drives a cart and a grey cob.",
+   "quote": "The left thumbnail was black."
+  },
+  {
+   "ch": 8,
+   "subject": "salt bars",
+   "kind": "number",
+   "fact": "Foss pays the carter five salt bars for the last load to the ford and the one before.",
+   "quote": "\"The last load to the ford, and the one before.\""
+  },
+  {
+   "ch": 8,
+   "subject": "salt bars",
+   "kind": "object",
+   "fact": "The salt bars are coast-pan salt, unmarked, a hand long and a thumb thick, snapped off the sheet; they leave no bill at either end.",
+   "quote": "Pan salt would not hold a stamp through a wet season, and nobody paid the extra to try."
+  },
+  {
+   "ch": 8,
+   "subject": "the carter",
+   "kind": "lie",
+   "fact": "LIE (uncorrected): the carter says the man at the ford wants two more bars on account of the Register. Truth: the man at the ford asked for nothing more; the carter keeps the two.",
+   "quote": "He wants two more off you for the next, on account of the Register."
+  },
+  {
+   "ch": 8,
+   "subject": "salt bars",
+   "kind": "number",
+   "fact": "Foss pays the two extra bars from his saddlebag: seven bars in all on Day 8.",
+   "quote": "The carter tucked them into the smock with the others without looking."
+  },
+  {
+   "ch": 8,
+   "subject": "the Register at Ferriby",
+   "kind": "fact",
+   "fact": "The carter's news: a man from the Register has been at the Ferriby lick-keeper asking about blocks. Nothing more crossed: no name, no description, 'which register' unanswered.",
+   "quote": "Man from the Register's been at the Ferriby lick-keeper."
+  },
+  {
+   "ch": 8,
+   "subject": "the Register at Ferriby",
+   "kind": "fact",
+   "fact": "Nobody in the chain (carter, man at the ford) saw the Register man; the news came lick-keeper to man at the ford to carter.",
+   "quote": "Nor did the man at the ford."
+  },
+  {
+   "ch": 8,
+   "subject": "the chain",
+   "kind": "fact",
+   "fact": "The chain runs Greyshaft crates, the carter, the man at the ford, the Ferriby lick-keeper; the man at the ford drops the blocks to the lick-keeper himself.",
+   "quote": "He had it off the lick-keeper when he dropped the last."
+  },
+  {
+   "ch": 8,
+   "subject": "the carter",
+   "kind": "promise",
+   "fact": "The carter refuses to give up the man at the ford to Foss.",
+   "quote": "\"You'll not have him off me.\""
+  },
+  {
+   "ch": 8,
+   "subject": "the Swale road inn",
+   "kind": "fact",
+   "fact": "The Swale road inn is on the main, with a Board-pattern meter by the door; the Swale is off the main from the tenth division all this turn.",
+   "quote": "\"They've had us off at the tenth all this turn.\""
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss refuses to wire: a wire is nine words and the flimsy is kept at both ends for a turn. A wire office stands at the crossing below the inn.",
+   "quote": "There's a wire office at the crossing."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss spent a season asking on the Swale road (carters, chapmen, a horn-spoon woman at the crossing) for the Division's field manual.",
+   "quote": "He had asked carters and chapmen and a woman who sold horn spoons at the crossing below the inn, a little at a time and never twice to the same face, whether anybody had a grey limp-covered thing with the Division's heads in it, because a man he did work for wanted to read a paragraph."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "misreading",
+   "fact": "MISREADING (uncorrected): Foss concludes the Register reached Ferriby up the road, carter by carter, because of his own asking after the manual. Actually it came via Tally's survey stone, Called Late and the estate's round.",
+   "quote": "The Register had come to Ferriby the way he had come to the book, carter by carter, asking, until it found a man who carried something up a lane."
+  },
+  {
+   "ch": 8,
+   "subject": "the carter",
+   "kind": "fact",
+   "fact": "The carter has seen Foss's face on the night the Register was named; next meeting is set for the same night next turn.",
+   "quote": "\"Same night, next turn,\" Foss said."
+  },
+  {
+   "ch": 8,
+   "subject": "Greyshaft Nine",
+   "kind": "time",
+   "fact": "Foss reaches Greyshaft Nine at the first division of Day 9, having ridden through the night; its main has been capped four years.",
+   "quote": "The main had been capped four years, and Foss had long ago stopped expecting anything from the floor when he came in."
+  },
+  {
+   "ch": 8,
+   "subject": "Greyshaft Nine",
+   "kind": "fact",
+   "fact": "Foss cut the three house rules on the door board on Day 5; the knife skipped once in the S of 'season'.",
+   "quote": "The knife had skipped once in the S of season."
+  },
+  {
+   "ch": 8,
+   "subject": "Ferriby lane",
+   "kind": "fact",
+   "fact": "Malphas stops the Ferriby lane from the ninth day for a season: no word up the lane, the man at the ford not told, the blocks on the posts left to be licked away.",
+   "quote": "What is out on the posts stays on the posts."
+  },
+  {
+   "ch": 8,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas moves the licks to the Swale walks, one block to a keeper to begin with, where keepers already set salt.",
+   "quote": "\"The licks go to the Swale walks.\""
+  },
+  {
+   "ch": 8,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas asserts the lick-keeper 'is exactly what he says he is'. This is his belief only and is wrong: Josse lied about the barn (ch7). Do not treat as true.",
+   "quote": "They will have the lane, and at the end of the lane a man who sets salt for his living and was paid to set it, and he is exactly what he says he is."
+  },
+  {
+   "ch": 8,
+   "subject": "the project book",
+   "kind": "object",
+   "fact": "The order is written in the project book in Foss's hand, with the carter's words, and initialled I. F.",
+   "quote": "He wrote *I. F.* at the foot, and then, because it was his hand and it was in the book, he could not leave it there."
+  },
+  {
+   "ch": 8,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas declines Foss's self-blame about the road; it is not written in the book.",
+   "quote": "What you think of it is not a reading."
+  },
+  {
+   "ch": 8,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas orders Foss next turn to take the carter the walks.",
+   "quote": "Next turn you take the carter the walks."
+  },
+  {
+   "ch": 8,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas's hands keep their colour at four degrees while Foss's go white at the nails; Foss has no instrument for it and stops looking.",
+   "quote": "They were the colour of hands."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss counts the Greyshaft drip at twenty-two.",
+   "quote": "The drip. Foss counted it without meaning to, and made it twenty-two, and stopped."
+  },
+  {
+   "ch": 8,
+   "subject": "Swale walks",
+   "kind": "fact",
+   "fact": "The Swale walks are forest rides up the slope past the river, each with a keeper's hut at its foot; Foss counts nine and stops.",
+   "quote": "He began to count them and stopped at nine."
+  },
+  {
+   "ch": 8,
+   "subject": "Swale head hamlet",
+   "kind": "fact",
+   "fact": "The first hamlet at the Swale head has a capped, rusted standpipe; nobody there has been on the main for years.",
+   "quote": "Nobody here had been on the main for years."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss's rounding-convention account (his rehearsal, not certified): the Oath enters at the second place with fives to even; his issued instrument carried fives up; 'every figure I entered was correct to the instrument' for eleven years.",
+   "quote": "For eleven years every figure I entered was correct to the instrument."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss has given his rounding account to the examiners, a clerk of the Oath, a woman he once thought he might marry, and Vesk, drunk; never yet to anyone asking.",
+   "quote": "He had given it to Vesk, drunk."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "promise",
+   "fact": "Foss is to be released with his own name when the work is done; he does not know which name that will be.",
+   "quote": "When the work was done he would be released with his own name."
+  },
+  {
+   "ch": 8,
+   "subject": "Foss",
+   "kind": "object",
+   "fact": "Foss keeps a little book for readings and writes in it which Swale walk has a white salt lick with hinds at it.",
+   "quote": "Then he took out the little book he kept for readings and wrote down which walk it was."
   }
  ],
  "hooks": [
@@ -1653,6 +1870,11 @@
      "ch": 7,
      "what": "Wystan gives Josse only 'the Register', no name.",
      "quote": "Register, then."
+    },
+    {
+     "ch": 8,
+     "what": "'A man from the Register' stays a form; Malphas's inference stays at the institution; Foss's imagined questioner has no face.",
+     "quote": "The Register had walked up one lane."
     }
    ]
   },
@@ -1703,6 +1925,11 @@
      "ch": 6,
      "what": "Nuvalik sees his hands keep their colour at four degrees and explains it by his warm building (her misreading).",
      "quote": "He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it."
+    },
+    {
+     "ch": 8,
+     "what": "Foss sees Malphas's hands keep their colour at four degrees while his own go white; no instrument, no recognition.",
+     "quote": "They were the colour of hands."
     }
    ]
   },
@@ -1923,12 +2150,17 @@
    ],
    "planted_ch": 4,
    "due_ch": 47,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 4,
      "what": "Deming tells the factor the capital will see a bad spring in eleven weeks, from his own derivation off the house's copies, and has it noted in the factor's book.",
      "quote": "In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring."
+    },
+    {
+     "ch": 8,
+     "what": "The licks widen onto the Swale walks, off the main; Deming not named.",
+     "quote": "Nobody walks the whole of the Swale."
     }
    ]
   },
@@ -1983,12 +2215,17 @@
    ],
    "planted_ch": 6,
    "due_ch": 71,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 6,
      "what": "Foss reads the unsigned field-manual paragraph; Malphas has the wall counter read twice, adopts three counters as house rules and rules the season and wall off as the work's end.",
      "quote": "Move a wall, and the attribution is read against a room that is not the room."
+    },
+    {
+     "ch": 8,
+     "what": "'Wait a season' is laid on one lane while the work goes on; Foss does not call it a contradiction.",
+     "quote": "It did not say what to wait a season on."
     }
    ]
   },
@@ -2028,7 +2265,14 @@
    ],
    "planted_ch": 8,
    "due_ch": 29,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 8,
+     "what": "Foss pays the carter in salt bars, money that can be eaten and leaves no bill; the carter shaves one into his pulse.",
+     "quote": "A salt bar was money a man could eat."
+    }
+   ]
   },
   {
    "hook_id": "H23-edges-in-the-margin",
@@ -2140,12 +2384,17 @@
    ],
    "planted_ch": 6,
    "due_ch": 70,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 6,
      "what": "Malphas promises Foss release under his own name when the work is done; Foss says it is not in his gift; it goes in the book.",
      "quote": "When the work is done you will be released with your own name."
+    },
+    {
+     "ch": 8,
+     "what": "Foss, riding, does not know which name he will be released with.",
+     "quote": "When the work was done he would be released with his own name."
     }
    ]
   },
@@ -2249,6 +2498,11 @@
    "ch": 7,
    "title": "The Lick-Keeper",
    "summary": "Day 7. Wystan and Yinzhi walk the Ferriby estate's round north from the home farm. There is a salt lick every half mile, on knee-high oak posts, and the blocks are new tonic blocks, grey with a brown streak. At one post they meet the lick-keeper Josse Garretsohn, first seen, setting blocks bare-handed. Wystan shows the brass and gives only \"the Register\". Josse says the round turns at the birch, as his father's did, and that the steward paid for the tonic on the split tally. He lies that the blocks come from the home-farm barn and refuses to hand over his half of the tally. He set the birch lick before the thaw. The last lick is inside the birch on the east side, well short of the stone. It sits at Called Late's stopping place: the salt stopped there and the carrier turned home. Hair is rubbed into the bark on the north faces of the trunks round it. Yinzhi's coil shows the block carrying. Wystan grips it bare-handed and takes the forty-third minute: Josse setting it, content, nobody else in it. He concludes the formulator never goes near them. The block is tinned under his brass."
+  },
+  {
+   "ch": 8,
+   "title": "Rounding",
+   "summary": "Day 8, the Swale road inn (on the main). Foss pays the unnamed carter five salt bars for two loads to the ford. The bars leave no bill, and the carter shaves one into his pulse. The carter lies that the man at the ford wants two more, on account of the Register. The news: \"Man from the Register's been at the Ferriby lick-keeper. Asking about blocks.\" Nobody in the chain saw him; no name, no description. The carter refuses to give up the man at the ford. The main goes off at the tenth. Foss pays the two and refuses to wire. He concludes that the Register came up the road the way his manual did and blames his own asking. Day 9, the first division, Greyshaft Nine. Malphas asks nothing. He stops Ferriby for a season: no word up the lane, and the posts are left as they are. He moves the licks to the Swale walks, one block to a keeper, written in Foss's hand as the carter said it. He declines Foss's self-blame. Riding home, Foss rehearses his rounding-convention explanation and notes a white lick on a Swale walk."
   }
  ]
 }

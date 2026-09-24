@@ -1,0 +1,14 @@
+{
+ "fail": 0,
+ "warn": 1,
+ "dropped": 1,
+ "findings": [
+  {
+   "severity": "WARN",
+   "pass": "canon",
+   "quote": "Pan salt would not hold a stamp through a wet season, and nobody paid the extra to try.",
+   "problem": "Coast-pans unstamped salt bars are an unattested elaboration; wiki attests only Nalun's stamped standard bars (The Kingdom of Nalun; Material Index T0-T4). Not a contradiction.",
+   "fix": "No action needed if accepted as origination (listed in notes_r0.md Originations)."
+  }
+ ]
+}

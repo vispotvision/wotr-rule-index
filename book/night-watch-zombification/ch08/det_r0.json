@@ -1,0 +1,7 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# Rounding","problem":"none","evidence":"verify --band set-piece --culture Accord: PASS, 0 fail, 0 warn; reification 1 within budget; flat runs 1 (fails at 4); 7 italic interior beats","fix":null},
+{"severity":"info","pass":"shape","quote":"# Rounding","problem":"none","evidence":"3825 words vs target 3500 (109%; window 2800-5250)","fix":null},
+{"severity":"info","pass":"shape","quote":"He wants two more off you for the next, on account of the Register.","problem":"none","evidence":"both declared sentences from notes_r0.md found verbatim in draft (1 match each)","fix":null},
+{"severity":"info","pass":"voice","quote":"Ferriby stops,","problem":"none","evidence":"Malphas fingerprint (8 lines, mean 32 words): 4 lines checked, z -1.4 to -0.5, all inside 2 SD; Ilmar Foss and the carter have no fingerprint (fewer than eight archived lines)","fix":null},
+{"severity":"info","pass":"hooks","quote":"A salt bar was money a man could eat.","problem":"none","evidence":"outline pays: [] so no hook to pay; planted H22 keywords present (salt bar x2, money, eaten)","fix":null}
+]}

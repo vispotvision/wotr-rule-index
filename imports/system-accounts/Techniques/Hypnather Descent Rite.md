@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He forces a mind into a rest-state it did not choose, stops
+**The phenomenon in plain words.** He forces a mind into a rest-state it did not choose, stops
 the process halfway, and the target is left heavy, foggy, and seeing something that is not
 in the room.
 
@@ -149,9 +149,33 @@ and Memory Backlash. **Sleep Debt is Hypnather's bill arriving on the caster**, 
 particularly clean cost because Hypnather's benefit is recovery-during-rest: a practitioner
 who forces others out of quiescence loses his own access to it.
 
+**The lens: animal magnetism, and the artificial crisis.** Mesmer, *Mémoire sur
+la découverte du magnétisme animal* (1779), and the Marquis de Puységur's
+*somnambulisme artificiel* four years later: a practitioner induces, from outside
+and against the ordinary course of the body, a sleep-like *crise* in a subject who
+did not produce it themselves — and then holds the subject there, in a state that
+is neither waking nor honest sleep, answering the magnetiser. Mesmer's fluid does
+not exist. The **procedure** he described is the exact procedure on this page: a
+quiescence imposed rather than arrived at, maintained by the practitioner's held
+attention, with the subject's faculties dismantled in a particular order. Hypnather
+supplies the real law underneath — *"structural relaxation, the same behaviour
+that lets a supercooled glass keep settling toward order after it stops moving"* —
+and the rite's whole content is that the law is made to run *"against its will
+through the line-of-sight anchor"* and then stopped partway. The misreading is
+Mesmer's own and it is the dangerous one, because it is kind. Mesmer held the
+crisis to be **curative**: the convulsion was the healing, and the patient rose
+better than they lay down. Hypnather's documented failure state is the opposite —
+the configuration *"locks where it stood, **worse-ordered than before it
+began**"*. A school working from animal magnetism would use this rite as medicine,
+record cures, and leave a trail of people whose Crystals settled wrong. And the
+page contains the objection to its own mechanism in its own Counter: Hypnather's
+law *"states the reorganisation happens during genuine rest and cannot be
+forced."* Forced anyway, says the Mechanism. That contradiction is logged, not
+settled (`SA-GAP-DESCENT-FORCED-FAILURE`).
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Lk]` **Lock** · Counter · Thalen — one of the
 Index's only two Counter forms, described as occupying "a limit so no other limit can be set
@@ -206,6 +230,23 @@ flagging: the system's Vohrin is a Titan whose keyed compound is the Stillwater 
 (`wiki/Cosmology & Metaphysics/The Fourteen Titans.md`), which is evidence on the Titan
 side of `SA-UNATT-VOHRIN`.**
 
+**What the target sees and feels.** Three things at once, arriving with no clean
+edge between them, which is the page's own description and the correct one: *"a
+forced half-sleep with no clean edge to it."* The limbs go heavy and the reflexes
+slow — that is the interrupted relaxation locking where it stood, worse-ordered
+than it started. The last little while goes missing in patches rather than
+cleanly, because a Letheveil pass performed *"without their cooperation in
+identifying what is load-bearing"* produces indiscriminate generation loss instead
+of a clean edit. And something is in the room that is not in the room, because
+Oneirion has been made to land a trajectory *"at a coordinate the target's actual
+senses did not generate."* None of it feels like an attack. It feels like being
+very suddenly and very wrongly tired. Sixty metres is the working's whole reach —
+the shortest of Aeldoris's three — and it holds only while he keeps both his
+attention and his line of sight on one body. Break either and the Oneirion
+component has nothing to pin its coordinate to and *"simply misses, the way an
+honest projection error does."* Anything without a biological consciousness capable
+of genuine rest has no relaxation process to interrupt and feels nothing at all.
+
 **What bleeds, at the stated efficiency.** η ≈ 0.65 (card): **35 percent** of every
 expenditure leaves as heat, sound and structural bleed. Running three processes means three
 bleed paths, and the page's Memory Backlash — "some of what he extracts does not stay with
@@ -259,3 +300,75 @@ ledger is taken from it. Logged `SA-CROSS-AELDORIS-CARD`.
 `SA-UNATT-VOHRIN` (cross-reference evidence), `SA-CROSS-LIMINA-DOMAIN-NAME`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | **Sleep Debt** — running three interrupted processes through his own Shell *"destabilises his own waking mind"* — and **Memory Backlash**, the risk of pulling the target's own fear or trauma back through him: *"some of what he extracts does not stay with the target."* A cost that can leave him carrying someone else's worst memory is a cost with consequences outside the fight. Unpriced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and two are hard** | 60 m, his shortest reach; **line of sight held for the whole duration**, plus sustained attention; **requires a target with an actual biological consciousness capable of genuine rest** — no constructs, no undead, nothing outside that architecture. |
+| Something beats it | **pass, and the best counter costs a slap** | The page states it as an instruction: *"Do not let him find you quiescent."* |
+| It has a tell | **pass** | Declared, and he must hold his gaze on one target within sixty metres and keep holding it. A man staring fixedly at one person and doing nothing else is not subtle. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A (276–400), allocation stopping at 400 with 401–475 under strain only (Part Five); card Tempering **370** = A ✓, and the card glosses Tempering as *"the discipline that keeps Hypnather from taking him with it"*, which is this working's own risk named on his sheet. Against that: η 0.65 above the Tier 5 ceiling (`SA-NUM-ETA-TIER`) and two Primaries in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`). All three Spirit gates the working needs are met, which is unusual in this batch. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — the precondition, and this is the counter.** Hypnather's
+  law only runs during genuine quiescence, so *"a sudden, hard-enough shock,
+  pain-trigger or otherwise, breaks the quiescence the rite depends on and ejects
+  the target before the lock takes hold."* This is the most democratic counter in
+  the twenty-eight: it requires no Wellspring, no Stage and no equipment. An ally
+  who hits you hard enough, in time, has beaten a Stage VII working. What it
+  requires instead is **knowing** — and that knowledge lives on the Family page,
+  not on the technique page.
+- **Break the boundary — the anchor is a stare.** He needs line of sight held for
+  the duration. Smoke, cover, a shield wall, a body stepping in: the Oneirion
+  component's forced landing loses its coordinate and misses. Note that Stage VII
+  is exactly the line above which the *ordinary* anchor attack stops applying, and
+  this working hands one back voluntarily by requiring sustained line of sight.
+- **Deny the field — bring something that cannot sleep.** *"The rite has no
+  purchase on constructs, the undead, or anything else outside that
+  architecture."* Send the automaton through the door first. Family **Limina**,
+  for which the Counterplay register gives no terrain line
+  (`SA-GAP-COUNTERPLAY-TERRAIN`).
+- **Break the man — Spirit against Spirit, and regeneration.** *"A well-developed
+  Spirit Path Crystal resists having its own configuration-space trajectory
+  hijacked, since Spirit Path is itself built on precise, coherent projection"*,
+  and *"Verdantia's regenerative pressure can outpace the artificial lock before it
+  fully sets."* Both are preparation rather than reaction, which is the register's
+  whole doctrine: *"Pick before contact."*
+
+**The tell, stated plainly.** He fixes on one person inside sixty metres and holds
+it, doing nothing else while it runs. Break the stare or break the calm — either
+one ends it.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Hypnather Descent Rite.md` — the Counter (*"do not let him
+   find you quiescent"*), the Limit (needs a consciousness capable of rest), and
+   the line-of-sight requirement.
+2. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — **Hypnather's Core Law, which is where the counter actually lives**: that the
+   reorganisation happens during genuine rest and cannot be forced. A player who
+   reads the Family page before the technique page has the answer.
+3. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Interrupt
+   the chain", and *"Pick before contact."*
+4. `wiki/The Magic System/The Four Paths Routing, Recognition and the Gate.md` —
+   what a well-developed Spirit Path Crystal is and why it resists projection
+   hijacking.
+5. `wiki/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md` —
+   Verdantia's regenerative pressure, the other prepared defence.
+6. `wiki/Volume I — Character Cards/Aeldoris Vanthryx · The Ruthless.md` —
+   Tempering 370 and the gloss on it, which tells a reader that the rite is
+   dangerous to him and therefore that outlasting it is a strategy.
+
+**Conflicts added by this section:** `SA-GAP-COUNTERPLAY-TERRAIN`. The page's
+Effect is its Mechanism itemised — three named Limina failure states produced on
+command — so no `effect-mechanism` conflict arises; the contradiction between the
+Mechanism's forcing and Hypnather's own law was logged before this section as
+`SA-GAP-DESCENT-FORCED-FAILURE`.

@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** A beam is put on a structure that is still
+**The phenomenon in plain words.** A beam is put on a structure that is still
 running, and the structure's internal composition becomes legible from outside
 without the structure being taken apart.
 
@@ -124,9 +124,31 @@ should be. The afterimages are a Shell cost: a conduit that has been run as an
 instrument keeps reporting after the instrument is put down, which is the Index's
 "the law kept running after the intent stopped" in a diagnostic register.
 
+**The lens: the doctrine of signatures.** Paracelsus, *De signatura rerum
+naturalium*, developed by Jakob Böhme in *Signatura Rerum* (1622): every thing
+carries an outward mark of its inner virtue, set there to be read, so that the
+knowledgeable observer can identify what a substance **is** from what it
+**shows** — walnuts for the brain, lungwort for the lung, the whole lost science
+of reading nature's own labelling. It is the direct ancestor of the thing this
+working actually does, and it is wrong in an instructive way. Kirchhoff's
+spectroscopy vindicated the *form* of the signatures doctrine — a body really does
+declare its composition in a mark no other body can counterfeit — while destroying
+its content, because the mark is a set of wavelengths and not a resemblance.
+Judicium, *the Wellspring of Truth*, sits exactly on that seam: *"no substance can
+present another's spectrum"* is the signatures doctrine proved true at last, in
+units. Where the lens misleads is in what it promises about **completeness**. On
+Paracelsus's account the signature is given for our use and is therefore always
+legible, so a failure to read it is a failure of the reader's virtue rather than a
+limit of the instrument. A school reading Judicium that way meets this page's own
+open question — why some strong divine Edicts yield only *partial* structure — and
+concludes that the practitioner was insufficiently pure, and sends a better
+person. The instrument-level candidate offered in §3 is that part of the source
+lies outside the band, which would be answered by a wider aperture rather than a
+holier one. Offered as a candidate, not as canon.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Ora]` **Truth** · Extension ·
 Iesara — a limit on what may remain unstated — laid across `[Sa]`
@@ -171,6 +193,24 @@ the source lies **outside the instrument's band**. An Edict written above
 Wellspring authority would have members with no lines in the range Judicium tunes
 to, and would read as partial rather than as resistant. Offered as a candidate,
 not as canon.
+
+**What the target sees and feels.** A sigil drawn over one eye, a declared cast,
+and then a narrow beam — and the working they were in the middle of stops being
+private. Its lattice is held open and legible *"for as long as the beam is
+sustained"*, and legible not only to Serenyra: *"Aurevane carries that reading as
+visible, analytic light rather than an internal sense alone, which is why the
+exposed structure is something a bystander can also see."* Their working is now a
+diagram, in public, at up to five hundred metres, resolved down to about seven
+millimetres at full range. The working itself *"freezes into legible, suspended
+geometry for the duration of the window rather than continuing to operate
+normally"* — not stopped by force but pinned by being driven at its own
+characteristic frequencies, which is why the vulnerability window exists at all.
+Then she has a choice she did not have before: unravel it, alter it, or file it.
+What she cannot reach is anything already finished — *"instant, already-resolved
+effects have nothing left to expose"* — so a caster whose working has closed is
+holding nothing the beam can touch. Afterwards she keeps seeing lattices on
+ordinary objects, which is Judicium's documented spectral overload arriving with a
+duration on it.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card): **30 percent of every
 expenditure leaves as heat, sound and structural bleed**. Against a working whose
@@ -217,3 +257,79 @@ logged here as `SA-UNATT-THESAURIEL` so it reaches the questionnaire.
 **Conflicts logged from this page:** `SA-UNATT-BAND-D-LUMEN`,
 `SA-UNATT-THESAURIEL`, `SA-CROSS-AUS-LADDER`, `SA-GAP-TURN-LENGTH`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass, and billed in the right currency** | This is **the only page in the batch that bills in output rate rather than in reserve**: *"a measurable share of her established 22 AU/s baseline"*, standing, for as long as the beam holds — which is the correct shape of invoice for a sustained working, and it means dissecting one thing costs her the capacity to do another. Plus afterimages: *"lattice-shapes overlaid on ordinary objects for a time afterward"*, which is Judicium's own **spectral overload** with a clock on it. No EU figure exists and no AU/s→EU conversion exists without a duration (`SA-GAP-EU-FORMULA`, `SA-GAP-AU-TO-JOULES`). |
+| Stated limits | **pass, and the first is a real constraint on timing** | **Only a working still in progress can be read** — anything already resolved is gone; 500 m; **one target working per activation**; the window lasts one to two exchanges; line of sight required; the beam must be sustained, so the reading and her attention are the same resource. |
+| Something beats it | **pass, four ways, and one of them turns it on her** | A lattice built to lie, a mirror, a Void construct, or simply being fast. |
+| It has a tell | **pass** | A sigil drawn over one eye and a declared cast, then a visible beam — and the exposed structure is visible to bystanders, so the working broadcasts its own target. |
+| Numbers in band | **pass, and derivable** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); Gnosis **522** is S, a full Tier above the floor, which per Part Four *"wins a direct exchange of that stat category without meaningful contest"* — appropriate for a working the card treats as routine analysis. The Spirit gate on Gnosis Analysis is met. And the resolution figure is **checkable by a reader**: θ = 1.22λ/D gives about 6.7 mm at 500 m, so the beam reads a glyph-chain's members and not its grain. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — lie in the lattice.** The page's own Counter: *"a glyph
+  purpose-built to scramble or falsify its own lattice defeats the reading
+  outright."* This is the register's **Knot** — *"entangles a path so it cannot be
+  traced cleanly"* — and note what it does *not* require: no Stage advantage, no
+  Wellspring superiority, just a working built in advance to be unreadable. The
+  register's other half applies too: *"Taught techniques are documented and
+  counterable by anyone who studied."* A practitioner who knows Serenyra reads
+  lattices builds his warding to be illegible before he ever meets her.
+- **Break the boundary — a mirror, and she dissects herself.** *"A reflective
+  barrier can redirect the beam, forcing her to break the cast or risk dissecting
+  herself."* A counter that converts her own working into her own danger is the
+  strongest kind, and it is cheap.
+- **Deny the field — Fulguria's four-century-old kit, and the Void.** Family
+  **Fulguria**: *"fails against boiled leather, fired clay, dense fog and a
+  shielded interior"* — and dense fog against a working that needs line of sight to
+  five hundred metres is the whole route. The page adds a second: *"attempting the
+  technique against a Void-aligned construct risks contaminating her own
+  reading"*, because a target with no spectrum returns noise the instrument
+  believes is signal.
+- **Break the body — and the simplest answer of all: finish casting.** The beam
+  only reads what is still in progress. *"Time-displaced or phase-shifted workings
+  can slip out of the beam's window before the dissection completes."* An opponent
+  who resolves his workings fast, in single closed bursts rather than sustained
+  draws, presents nothing to dissect — compare the *"force the Seal early"*
+  instinct, used on oneself. Meanwhile she is stationary, sustaining a visible
+  beam, at a known bearing.
+- **Break the man — the archive is a motive.** Her third option on a successful
+  read is to *"file it into Thesauriel as new reference data."* A practitioner who
+  knows this can offer a working worth filing, and buy the exchange he actually
+  wanted. (*Thesauriel* is unattested outside her card, `SA-UNATT-THESAURIEL`.)
+
+**The tell, stated plainly.** A sigil over one eye, a declared cast, a narrow
+beam — and then the target's own working hanging open in the air where everyone
+present can see it. Nothing about this technique is deniable while it runs.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Lumen Dissecans.md` — the Limit (workings in progress only),
+   the Counter (a falsified lattice; a reflective barrier), and the Weakness
+   (Void-aligned constructs; phase-shifted workings).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Knot and
+   Lock", "Read him", and Fulguria's failure terrain.
+3. `wiki/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md`
+   — **Judicium's Core Law and its documented failure, spectral overload**, which
+   is the page a reader needs in order to see that her stated cost and her
+   Wellspring's stated failure are the same thing.
+4. `wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md` — what a
+   glyph is and is not, which is what makes "build a glyph that falsifies its own
+   lattice" a legitimate move rather than a wish.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four for the one-Tier differential rule, and Part Seven for the Spirit
+   gate on Gnosis Analysis.
+6. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`
+   — the **22 AU/s** figure this whole batch's Serenyra arithmetic derives from,
+   and Gnosis 522.
+
+**Conflicts added by this section:** `SA-EM-LUMEN-READ-VS-UNRAVEL`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

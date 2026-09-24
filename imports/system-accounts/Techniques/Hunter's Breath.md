@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He breathes out a cold ground-hugging mist, and
+**The phenomenon in plain words.** He breathes out a cold ground-hugging mist, and
 inside it nothing can find him by smell, by heat or by his Essence trace. Ordinary
 eyesight still works.
 
@@ -139,9 +139,30 @@ mechanism, not a metaphor. Vitality Tolerance is the Sub-Stat that answers for i
 ("Resistance to environmental vectors the body must simply refuse: extreme
 temperature …", Part Twelve), and the page cites it.
 
+**The lens: the *eidola*.** Democritus, as reported by Aristotle and Theophrastus,
+and Lucretius after him in *De rerum natura* IV: every body is continuously
+shedding thin films of itself — *eidola*, *simulacra* — which travel outward and
+strike the senses, so to be perceived is to be constantly leaking copies of
+yourself in every direction. It is a wrong theory of perception with an unusually
+useful consequence: on the atomist account, concealment is not a matter of
+blocking an observer but of **ceasing to shed**, or of drowning what you shed in
+the shedding of something else. That is precisely the shape of this working. The
+mist does not hide Draven behind anything. His biological heat signature and his
+Essence signature *"drop into the mist's own noise floor together, rather than
+being separately concealed"*, which is the atomist counsel exactly: put your
+simulacra where nobody can tell them from the room's. And the lens then fails, in
+the most practical way available. On the eidola account **all** perception is
+simulacra striking a sense, so a school reading Hunter's Breath through Lucretius
+will expect the mist to hide him from eyes as well, and the page says flatly that
+*"ordinary sight is unaffected."* Worse, the page's other counter is a mode of
+perception the lens cannot accommodate at all — *"a practitioner reading by
+chorus-sensed presence rather than heat, scent or Essence-trace is not fooled by
+any of it."* A hunter who has learned his optics from Lucretius will walk through a
+mist thinking he cannot be seen, and he can be seen.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Sil]` **Silence** · Synonym · Auren —
 the form's own meaning is the working's entire content, and the Category is Silentia,
@@ -180,6 +201,20 @@ to the counterplay line and it needed nothing added.**
 Behind it sits a **Field fault**: in warm air the working is correct and produces
 almost nothing, because the COP has collapsed. The working does not fail. The room
 fails to supply the gradient it assumed.
+
+**What the target sees and feels.** A cold front on the ground, fifteen metres of
+it, and the sudden absence of a read. Anything hunting by scent, heat or
+Essence-trace *"loses the read inside the cloud"* — not a false read, not a
+decoy, but the signal falling to somewhere in the region of half of what it was.
+And then, if the hunter has eyes, he simply looks. The page is explicit and this
+is the honest heart of the working: **ordinary sight is unaffected.** So what a
+pursuer actually experiences is a mist that tells them exactly where their quarry
+went — the cloud is visible, it hugs the ground, and it is fifteen metres wide in a
+place that was clear a moment ago. Concealment that announces its own position is
+still concealment when the thing hunting you reads by nose or by Essence; it is an
+arrow when the thing hunting you has a lantern. In genuinely freezing ground,
+where most of what hunts runs on those senses, the trade is worth it. In a warm or
+radiant place the mist cannot spread at all, and there is nothing to trade.
 
 **What bleeds, at the stated efficiency — and here the page and the card disagree.**
 The card gives **η ≈ 0.55**, which puts **45 %** of every expenditure out as heat,
@@ -238,3 +273,72 @@ choose. It only makes the stakes of the choice explicit, which is what it is for
 `SA-NUM-HUNTERSBREATH-CLASS-III`, `SA-NUM-HUNTERSBREATH-PATHGATE`,
 `SA-OFF-MAGICRAFT-NOT-PRACTISED`, `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`,
 `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass, modestly** | **Lung strain** — *"the cold he draws in does not leave gently."* Located in tissue, in the organ the working is performed with, and repeatable only so often. It is the smallest real cost in the batch, but a utility working at Stage VI should not be priced like an execution, and the environmental gate below does most of the limiting. Unpriced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and the first one is nearly a veto** | **Requires cold air to draw on** — *"Vohrin's cold-law needs an existing gradient. It does not manufacture one from nothing"*; 15 m; **ordinary sight unaffected**; Tenebra's signal-reduction must be held active through the exhale; warm or radiant domains overwhelm the mist before it spreads. |
+| Something beats it | **pass, three ways, two of them free** | Look at it. Lift it. Or read by something else. |
+| It has a tell | **pass, and the tell is the working** | The mist is *visible*. It hugs the ground, it is fifteen metres across, and it was not there a minute ago. A concealment working whose concealment is itself a landmark is an unusually honest design. |
+| Numbers in band | **pass on Grade, η contested** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); card **Dexterity 358** and **Dexterity-Silence 386** (read as Feint through the Merge Ledger) are both A ✓. The 50–60 % signal drop is the page's own conservative estimate against the Tenebra range. The real fault is η: the card gives **0.55**, inside the Tier 5 band of 0.50–0.60, and the page asserts a Class III efficiency of **0.90–0.95**, which is a different practitioner (`SA-NUM-HUNTERSBREATH-CLASS-III`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Deny the field — the temperature, which is the whole answer.** *"Choose the
+  ground by Family. … Caloria fails in thermal equilibrium, saturated cold, and
+  oxygen-poor air."* Vohrin runs on an existing gradient, so a warm room, a fired
+  interior, a radiant domain, or simply a fight in summer takes the technique off
+  the board before it is attempted. The page's own Counter adds the active version:
+  *"a thermal-inversion field forces the mist to rise rather than cling, breaking
+  the ground-hugging cover it depends on."*
+- **Break the boundary — change which sense you are hunting with.** The mist
+  drops heat, scent and Essence-trace into one noise floor and touches nothing
+  else. *"A chorus-sensed or spirit-registering presence read, rather than a
+  physical one, is not masked by any of this at all."* And beneath even that:
+  **use your eyes.** The single cheapest counter on any page in this batch is to
+  keep looking.
+- **Break the body — the mist does not stop anything.** It conceals. It does not
+  slow, armour or deflect. *"A volley is a volley"*, and a volley into a
+  fifteen-metre cloud that is known to contain one man is a reasonable use of
+  ammunition.
+- **Break the man — the lungs, over a campaign.** Lung strain accumulates on a
+  scout who has to break contact repeatedly. *"A defender who can afford to spend
+  nothing wins a long engagement against an attacker who cannot afford to spend
+  nothing."* Force him to use it four times in a night and the fourth mist is
+  bought with a chest that has stopped cooperating.
+
+**The tell, stated plainly.** A cold ground-hugging cloud, fifteen metres across,
+in a place that was clear. He is inside it, and you can see it.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Hunter's Breath.md` — the Limit (requires cold air), the line
+   *"ordinary sight is unaffected"*, and the Counter (thermal inversion,
+   chorus-sensed reading).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — Caloria's
+   failure terrain and "Exhaustion".
+3. `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`
+   — Vohrin's entry (**unattested in the register**, `SA-UNATT-VOHRIN`) and the
+   Family's Environmental Coupling, which is where "requires a gradient" becomes a
+   rule.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — Tenebra's absorptive, faceted-return geometry, which is the half doing the
+   signal reduction.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Seven, Dexterity Feint's gates, including the Attraction-Path gate on
+   suppressing kinetic noise and Aura spill above S (`SA-NUM-HUNTERSBREATH-PATHGATE`).
+6. `wiki/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md`
+   — Part Seventeen on Aether Class and Part Nineteen on η, which is how a reader
+   discovers that "Class III efficiency" and his card do not describe the same man.
+
+**Conflicts added by this section:** `SA-GAP-COUNTERPLAY-TERRAIN`. The page's
+Effect and Mechanism describe one operation — a cold front carrying a
+signal-reducing surface, dropping two signatures into one noise floor — so no
+`effect-mechanism` conflict arises.

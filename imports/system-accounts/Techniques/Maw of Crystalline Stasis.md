@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** Six metres of air around him turns into a branching
+**The phenomenon in plain words.** Six metres of air around him turns into a branching
 ice structure. Anything moving through it slows, and anything moving through it fast
 snaps.
 
@@ -135,9 +135,31 @@ Draven's four pages, plus joint frostbite — a Resilience Fortification cost (t
 that absorbed Insulation), and the page cites **Resilience Insulation 302** for it,
 which reads correctly under the Merge Ledger.
 
+**The lens: cold as an active quality.** Aristotle, *De generatione et corruptione*
+II.2–3, and the *Meteorologica*: hot, cold, wet and dry are the four primary
+qualities, and **cold is an active power** — not a privation of heat but a doer in
+its own right, whose proper works are condensing, thickening and congealing. The
+medieval tradition kept that, and it survived in medicine as one of the two active
+qualities in every complexion. Modern thermodynamics disagrees: there is no
+cold-stuff, only heat leaving. And yet the page's own framing of Vohrin is
+Aristotelian to the letter — *"heat's absence held as discipline rather than
+suffered as condition"* — a power exercised, not a lack endured, whose works here
+are precisely condensation and congelation: *"ambient moisture, breath vapour, and
+loose Essence in the field lose thermal energy fast enough to crystallise into a
+branching lattice rather than settling as ordinary frost."* Where the lens becomes
+actively dangerous is in what Aristotle's scheme implies about the **agent**. A
+quality exercised is a quality possessed, and an agent is not acted on by its own
+form — so a school reading Vohrin this way will tell its practitioners that their
+own cold cannot harm them, and will not warn them about their hands. The page's
+Limitation is blunt in the other direction: *"It does not target: everything in
+the six metres is affected the same way, **Draven included**."* And the cost
+lands exactly where a brute-forced field would be thinnest: *"frostbite sets in at
+his own knuckles and knees at high output."* The cold is not his. It is in the
+room, and he is in the room.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[RenB]` **Boundary** · Root · Zhaeren for
 the 6 m edge, laid across `[Frm]` **Form** · Extension · Thalen for the lattice habit
@@ -188,6 +210,22 @@ tips are where a reverse phase transition nucleates fastest. On that reading it 
 at the **edge** first, and the centre survives longest because it is the coarsest and
 best-shielded ice in the field. Offered as a candidate, not as canon.
 
+**What the target sees and feels.** Six metres of branching frost that is not
+weather. Moisture, breath and loose Essence go into a lattice, and the two things
+that happen inside it are stated plainly: what moves slowly is **slowed** as
+Essence flow through it crystallises, and what moves fast *"shatters rather than
+merely being stopped by it"* — the brittle-body failure of something driven
+through a rigid structure faster than the structure can yield. So the field
+punishes committing and rewards creeping, which inverts the ordinary instinct in a
+melee and is the whole of what makes it dangerous. Essence flow inside is
+obstructed as well as movement, so a working drawn through the lattice is drawn
+through something that resists it. And the working does not discriminate at all:
+*"everything in the six metres is affected the same way, Draven included"*, so he
+is standing in his own trap, taking the overflow in his knuckles and knees, holding
+a radius his Dominion of 168 — C-Grade, his second-weakest reading — was never
+built to hold. He is brute-forcing the volume with Ardency and Vitality, and the
+frostbite is the bill for the difference.
+
 **What bleeds, at the stated efficiency.** η ≈ 0.55 (card): **45 percent of every
 expenditure leaves as heat, sound and structural bleed** — and in a *cooling* working
 that is a genuine internal contradiction worth noting as texture rather than as a
@@ -235,3 +273,73 @@ the register. Neither is resolved here.
 **Conflicts logged from this page:** `SA-UNATT-VOHRIN`, `SA-NUM-MAW-DENSITY-274`,
 `SA-CROSS-DRAVEN-CRAFT-SPLIT`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass — and it is the best-explained cost in the batch** | Joint frostbite at the knuckles and knees, and the page traces it to his sheet rather than asserting it: *"his Dominion sits at 168, C-Grade … holding a six-metre field is a Dominion-class operation his sheet does not naturally support. He compensates by brute-forcing the radius through raw Ardency and Vitality output instead, and the strain finds his weakest structural margin first."* A cost derived from a stat is a cost a reader can predict. The EU figure — roughly 1,500–2,500 EU/s, giving 13,500–37,500 EU for one field — is scaled from another card and flagged by the page as an estimate, not a source. |
+| Stated limits | **pass** | 6 m; ≈9–15 s (converted from "3 turns", flagged as an estimate); **it does not target** — everything inside is treated alike, him included; it needs ambient moisture and loose Essence to crystallise; sustaining it risks freezing his own joints. |
+| Something beats it | **pass, and it is a phase transition** | Heat. One route, documented, cheap, and physically the right one. |
+| It has a tell | **pass** | Declared, and then six metres of visible branching frost. Nobody walks into this by accident. |
+| Numbers in band | **FAIL, already logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400 (Part Five), and the page requires A-Grade. **But its own governing Sub-Stat, Ardency Density, reads 274 — B-Grade, one point below the A floor** (`SA-NUM-MAW-DENSITY-274`). The working is gated at a Grade its stated governing Sub-Stat does not reach, by a single point, which is the tightest and most checkable numeric fault in the twenty-eight. η 0.55 is mid-band for Tier 5 ✓. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Deny the field — heat, which collapses it from inside.** *"A Pyreveil arte or
+  a sustained Aetheric overheat field forces the lattice back through its own
+  phase transition before it can finish crystallising."* The page is precise about
+  why this works: the counter is not "more energy than the field", it is
+  **reversing a phase change faster than Vohrin's sink can re-establish it.** And
+  the register's Family line points the same way for the ordinary case: *"Caloria
+  fails in thermal equilibrium."*
+- **Break the man — Rigidity, and his own six metres.** *"Present him with the
+  situation his own law handles worst and he will handle it that way
+  regardless."* He is inside the field and the field does not know him. Force him
+  to hold it — a fight he cannot leave, a position he must deny — and the frostbite
+  is delivered by his own working to the joints he needs to swing with. Every extra
+  second is paid at his weakest structural margin.
+- **Break the body — stay out, or move slowly.** Six metres is a small field. The
+  register's *"Distance"* is sufficient on its own, and inside it the lattice
+  shatters what moves *fast*, so a deliberate, unhurried approach is the correct
+  tempo and a committed charge is the worst possible choice. *"Shot"* is also
+  unaffected by any of this at the far side of six metres.
+- **Break the boundary — the anchor, and the Grade.** Stage VI is below
+  Refraction, so the declaration is takeable in the usual way. And the Grade fault
+  above is a live handle for a player who reads the sheets: a working whose
+  governing Sub-Stat is one point short of its own requirement is a working that
+  should be arguable at the table rather than assumed.
+
+**The tell, stated plainly.** He declares it and six metres of branching frost
+grows out from where he stands. He is in the middle of it and he cannot leave it
+without ending it, which makes the tell and the weakness the same fact.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Maw of Crystalline Stasis.md` — the Limitation ("it does not
+   target … Draven included"), the Counter (thermal flux), and the Cost paragraph
+   that derives the frostbite from his Dominion of 168.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — Caloria's
+   failure terrain, "Distance", "Rigidity".
+3. `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`
+   — Vohrin (**unattested in the register**, `SA-UNATT-VOHRIN`), Cinerion's
+   densifying, and the Family's Environmental Coupling.
+4. `wiki/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md`
+   — **Ardency Density**, and the Merge Ledger that produced the name, so a reader
+   can find the 274 and check it against the A floor of 276 themselves. This is the
+   single most rewarding lookup in the batch.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four for the Grade bands; Part Seven for Ardency Density's Body-Path gate
+   above B, which he meets and which is also why he cannot go higher.
+6. `wiki/Volume I — Character Cards/Draven Kael Vorrick · The Beast Slayer.md` —
+   Dominion 168, the stat the whole cost argument rests on.
+
+**Conflicts added by this section:** `SA-GAP-COUNTERPLAY-TERRAIN`. The page's
+Effect and Mechanism are one statement — directional heat extraction over a volume,
+crystallising a lattice that slows and shatters — so no `effect-mechanism` conflict
+arises; the Grade fault was logged before this section.

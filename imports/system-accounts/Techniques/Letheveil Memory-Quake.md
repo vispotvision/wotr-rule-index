@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** A pulse across twenty-five metres takes the last few
+**The phenomenon in plain words.** A pulse across twenty-five metres takes the last few
 seconds out of everyone in it, and whatever they were building out of those seconds goes
 with them.
 
@@ -153,9 +153,30 @@ Trait collapsing, inverting, or turning on its bearer after the bearer has repea
 the truth that formed it." A man who has compressed his own record enough times has denied
 a great deal.
 
+**The lens: Plato's wax tablet.** *Theaetetus* 191c–195b. Socrates proposes that
+memory is a block of wax in the soul receiving impressions from perception, and
+that the differences between people's memories are differences in the wax: some
+hard, some soft, some muddy, some too shallow to hold a mark. Forgetting is an
+impression that never set. As psychology it is superseded; as a description of
+what this working reaches, it is the page's own rule in older words. Letheveil
+*"does not erase memory outright; it tests Resilience Anchoring, so whatever is
+not load-bearing lets go first, a chant sequence, a count, the last three seconds
+of a bind."* An impression that has not yet set is exactly what the Quake shakes
+loose, and *"they only shake what a Crystal has not yet settled."* Hypnather's
+contribution has a Platonic reading too: it makes *"a waking mind briefly as porous
+as a resting one"*, which is to say it softens the wax. And the misreading is the
+one that follows from Socrates' own list, because in the *Theaetetus* the hardness
+of the wax is a property of the **person** — a matter of temperament and quality
+of soul. A school reading the Quake that way will select for steady men, train for
+discipline, and consider the working beaten by good character. The page's actual
+counters are not character at all. *"A sharp pain stimulus restores the scaffolding
+a target was about to lose"*, and *"a held physical anchor, an object or phrase
+fixed before the wave arrives, keeps at least one memory from slipping."* Not
+virtue. A pin, and a word agreed on beforehand.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[RenB]` **Boundary** · Root · Zhaeren — the
 working's content is a *threshold in time*, the line between labile and consolidated, and
@@ -193,6 +214,23 @@ A **Field fault** sits behind it in one case the page names: a Verdantia clarity
 "steady regenerative resonance keeps memory anchored against the shake" — the room supplies
 consolidation faster than the boundary can un-set it, so the working is correct and produces
 nothing.
+
+**What the target sees and feels.** A burst inside twenty-five metres, released in
+answer to something — a layered working mid-assembly, a fighting rhythm in
+progress — and then the specific, disorienting experience of having lost the
+scaffolding rather than the building. Deep memory is untouched. What goes is the
+last three to ten seconds and whatever was being held without being settled: *"a
+chant sequence, a count, the last three seconds of a bind."* A spell-chain
+dependent on layered recall does not fail dramatically; it stops having a place to
+continue from. A combat rhythm breaks. Domain concentration thins. The shockwave
+runs about five seconds and it takes **everyone in the radius**, so a formation
+fighting in step is a formation that loses its step together, and so do Aeldoris's
+own allies if they are inside twenty-five metres. Unconscious targets are
+untouched, and so is anything already anchored — which means an opponent who wrote
+the count down, or gripped an agreed object, or took a hard pinch at the right
+moment, keeps the one thing they most needed. Aeldoris pays a minor memory of his
+own on every release and comes out of it *"briefly confused himself"*, so the
+working costs him a piece of the same currency it spends.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.65 (card): **35 percent** of every
 expenditure leaves as heat, sound and structural bleed. Against an intended effect costing
@@ -247,3 +285,76 @@ threshold.** EU has a Starvation line at 10 %. Memory has nothing. Logged
 `SA-NUM-AELDORIS-INSTABILITY`, `SA-NUM-ETA-TIER`, `SA-GAP-TURN-LENGTH`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | **Recall Slip** — *"Aeldoris loses one of his own minor memories on release"*, permanently, every time — and **Temporal Fog**, brief confusion immediately afterward, which is a real tempo cost on a **reactive** working he may want to use twice. Paying in the same coin the working spends is the neatest cost design in the batch. The system still has no rule pricing memory (`SA-GAP-MEMORY-AS-COST`) and there is no EU figure (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and they are narrow on purpose** | 25 m; **reactive only**, released against an incoming layered working or a rhythm in progress; memory window **3 to 10 seconds** (already in real units, from the source); shockwave ≈5 s; **cannot reach memory that has already anchored**; conscious targets only; and it is **indiscriminate within the radius**. |
+| Something beats it | **pass, and the counters are props** | Pain, a pre-arranged anchor, a mind with no resting state, or a Verdantia clarity field. |
+| It has a tell | **pass** | It fires in answer to something you did, in a 25-metre burst, and everyone inside feels the same thing at the same moment — including his own side, which is its own kind of announcement. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A, allocation to 400, ceiling 475 under strain (Part Five), and the page states *"bounded by Stage VII's 475 ceiling, Grade A"* correctly. Card Tempering 370, Ardency 340, Dominion 300 are A ✓. Against that: Harmonics 430 and Dexterity 410 sit in the strain-only band as standing values (`SA-NUM-AELDORIS-INSTABILITY`) and η 0.65 is above the Tier 5 ceiling (`SA-NUM-ETA-TIER`). Both Spirit gates the working needs are met. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — anchor it beforehand, which is the intended answer.** *"A
+  held physical anchor, an object or phrase fixed before the wave arrives, keeps at
+  least one memory from slipping."* This is the register's **Lock** in its cheapest
+  possible form — occupy the limit before he can set one there — and it rewards the
+  exact behaviour the fair-play brief asks for: *"Preparation pays."* A party that
+  agreed on a word before the fight has beaten a Stage VII working with a word.
+- **Break the body — pain, and the counter nobody expects to be legal.** *"A sharp
+  pain stimulus restores the scaffolding a target was about to lose."* An ally with
+  a pin, a bitten tongue, a deliberately reopened wound. It requires no Wellspring
+  and no Stage, and like the `Hypnather Descent Rite` counter it lives in the
+  rule rather than on the character, which is why both of Aeldoris's mind-working
+  answers reward reading the Family page.
+- **Deny the field — bring something with no resting mind.** *"A construct whose
+  continuity sits outside any mind rides the shock out untouched"*; an Aether
+  automaton *"gives Hypnather nothing to widen."* Family **Limina**, for which the
+  Counterplay register names no terrain (`SA-GAP-COUNTERPLAY-TERRAIN`).
+- **Deny the field — Verdantia clarity.** *"A Verdantia clarity field's steady
+  regenerative resonance keeps memory anchored against the shake."* The same
+  Wellspring answers his Descent Rite. A party that brings one Verdantia
+  practitioner has bought protection against two of Aeldoris's three techniques,
+  which is the sort of thing a reader is supposed to work out by reading across
+  pages rather than down one.
+- **Break the man — it is reactive, so bait it.** The Quake only releases against
+  an incoming layered working or an established rhythm. Give it a cheap one. Every
+  release costs him a memory and leaves him briefly confused, and he cannot decline
+  to answer a threat that looks layered.
+
+**The tell, stated plainly.** You commit to something layered, and a
+twenty-five-metre burst answers it and takes the last few seconds from everyone
+standing in it. He cannot open with it and he cannot aim it.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Letheveil Memory-Quake.md` — the Limit (only unanchored
+   memory; conscious targets only), the 3–10 s window, and the Counter (pain, a
+   held anchor, a mindless construct).
+2. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — Letheveil's Core Law and Hypnather's, which is where "tests Resilience
+   Anchoring" and "widens the window" come from.
+3. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Knot and
+   Lock", and *"Pick before contact."*
+4. `wiki/Fracture of Worlds — The Living System/IV. The Eight Primaries and the Sixty-Four Sub-Stats (Part Twelve).md`
+   — **Resilience Anchoring**, the Sub-Stat the working actually tests, and the
+   Merge Ledger that renamed it from Coherence.
+5. `wiki/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md` —
+   Verdantia's clarity resonance, the prepared defence that answers two of his
+   three techniques.
+6. `wiki/Volume I — Character Cards/Aeldoris Vanthryx · The Ruthless.md` — the
+   three techniques together, which is how a reader notices that all of them run
+   through Limina and none of them touches an automaton.
+
+**Conflicts added by this section:** `SA-GAP-COUNTERPLAY-TERRAIN`. The page's
+Effect is its Mechanism stated plainly — a test of Resilience Anchoring, so the
+unsettled lets go first — and its counters are cheap, documented and findable. No
+`effect-mechanism` conflict arises.

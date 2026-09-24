@@ -602,3 +602,9 @@ Context: Aetherion Academy thread, scene 'The Sort'. Old card 'Rovhen Talvasciel
 Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical. Stats, Sub-Stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State, Category, the full Design Chain and mechanism explanation all print on the page. The 24 Sept brief line 'the Design Chain never appears / no mechanism explanation, no metaphysical units' is withdrawn. Never-invent-numbers still holds: empty fields stay flagged pending.
 
 Context: Session 24 Sept 2026, building the wotr-docs skill. Isaac reversed his own brief that kept the Design Chain and mechanism off document pages.
+
+## 2026-09-24 — new
+
+Full-knowledge, fair-play rule. Natalie draws on everything that exists in WOTR (cards, Stat Sheet, FOW, Codex, wiki, scenes, rulings, meta and system knowledge) when writing characters and prose. Knowledge is accessible, including meta knowledge, but is never used to outrageous advantage: NPCs and opponents fight with what they could plausibly know and do, abilities stay grounded in real physics principles, and every engagement is built to be fun and a genuine challenge for the PC, never rigged in either direction.
+
+Context: Session 24 Sept 2026. Isaac's standing direction for how Natalie writes characters and prose generally.

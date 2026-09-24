@@ -1,5 +1,5 @@
 # Reconcile — wiki vs scenes vs index
-_Run 2026-09-23_
+_Run 2026-09-24_
 
 
 Mechanical checks only; each finding is a place for a human read.
@@ -7,7 +7,7 @@ Mechanical checks only; each finding is a place for a human read.
 ## Duplicate wiki pages (same title twice)
 
 - The Veil ×2
-- Continuity map ×2
+- Continuity map ×10
 
 ## Card vs scene: Stage or Level stated differently
 
@@ -15,9 +15,9 @@ Mechanical checks only; each finding is a place for a human read.
 
 ## Wellsprings named with a Family other than their own
 
-- Volume VI — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)
-- Volume V — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)
-- Volume V — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)
+- Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)
+- Volume I — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)
+- Volume I — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)
 
 ## Stale-register residue
 

@@ -1,5 +1,5 @@
 {
-"run": "2026-09-23T17:44:57",
+"run": "2026-09-24T04:56:47",
 "findings": {
 "3a3722c1a3a3": {
 "file": "commencement_of_the_curia_kujo_arc.md",
@@ -2430,12 +2430,12 @@
 "key": "828071c78f05",
 "first_seen": "2026-09-13"
 },
-"0d948d7239cc": {
+"406e7fa6c4ff": {
 "file": "Duplicate wiki pages (same title twice)",
 "check": "reconcile",
-"text": "Continuity map ×2",
-"key": "0d948d7239cc",
-"first_seen": "2026-09-23"
+"text": "Continuity map ×10",
+"key": "406e7fa6c4ff",
+"first_seen": "2026-09-24"
 },
 "db3c1e629adf": {
 "file": "Card vs scene: Stage or Level stated differently",
@@ -2444,26 +2444,26 @@
 "key": "db3c1e629adf",
 "first_seen": "2026-09-13"
 },
-"fb6fac925c59": {
+"e49144d71185": {
 "file": "Wellsprings named with a Family other than their own",
 "check": "reconcile",
-"text": "Volume VI — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "fb6fac925c59",
-"first_seen": "2026-09-13"
+"text": "Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "e49144d71185",
+"first_seen": "2026-09-24"
 },
-"bcac448e6621": {
+"4524b4c6aca7": {
 "file": "Wellsprings named with a Family other than their own",
 "check": "reconcile",
-"text": "Volume V — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "bcac448e6621",
-"first_seen": "2026-09-13"
+"text": "Volume I — Character Cards/Cyrus Vellhar · The Azure Warden.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "4524b4c6aca7",
+"first_seen": "2026-09-24"
 },
-"3286d7a60a6e": {
+"d77a8fa3c86f": {
 "file": "Wellsprings named with a Family other than their own",
 "check": "reconcile",
-"text": "Volume V — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)",
-"key": "3286d7a60a6e",
-"first_seen": "2026-09-13"
+"text": "Volume I — Character Cards/Khasir Aluto · The Isocline Scribe.md: Phreatis · Fluxia (Family page says Vitalia)",
+"key": "d77a8fa3c86f",
+"first_seen": "2026-09-24"
 },
 "575cc96b9ecd": {
 "file": "scenes/THE_KINGDOM_OF_KHARVEN_buri.md",

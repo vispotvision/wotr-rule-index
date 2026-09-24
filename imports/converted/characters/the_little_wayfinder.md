@@ -26,7 +26,7 @@
 
 **Aether Shell** · **Class I · Muridic.** The awakening Shell flickers with first resonance; Essence leaks unevenly, which the card already calls **Spatial Drift** — strong emotion skipping him sideways into Spirit Layers or minor Domains he did not mean to enter.
 **Attraction Layer** · Undeveloped. *A warm presence rather than a bond; standing near him nudges strangers toward optimism, nothing more structured than that.*
-**Crystal State** · Dormant network, awakening surface. **η** · ~0.40, Coherence Band F.
+**Crystal State** · `null`. **Crystal Tier** · Awakened Crystal. **η** · ~0.40, Coherence Band F.
 **On scene** · Orange foxfire leaves fading paw-prints or glowing trails in the air; his excitement smells faintly of citrus and ozone.
 
 ---

@@ -416,3 +416,35 @@ four Tovain stubs held by design (`reports/publish_imports_held.md`).
 ## Every session ends with
 `python build/validate.py` (must PASS) → `python build/resolve.py` → commit →
 push → tick ROADMAP.md → append a dated block above.
+
+## State on 2026-09-24 (the last four Magic System items, ruled and applied)
+
+**C-030 to C-033 are closed and the edits are in Notion.** Isaac answered the
+WAR-2 questionnaire on 2026-09-24, one ruling per item; `RULINGS.md` carries the
+entry, `CONFLICTS.md` the four rows with the evidence, and
+`rules/doc-magic-system-rulings-2026-09-24.yaml` rows R43-1..4 the index.
+
+- **C-030.** Ryuka Yukari's Crystal State is `null`, his Crystal Tier is Awakened
+  Crystal, and "Dormant network, awakening surface" is off the card. Applied to the
+  Notion card and to `imports/converted/characters/the_little_wayfinder.md`.
+- **C-031.** Kinjiki's η reads "~1.2, the Archmaster ceiling"; Absolute Crystal
+  stays, the pairing Class Ω carries (FoW VII:36).
+- **C-032.** The Color of Essence's XV · Revelation cell reads whole again, and the
+  block that had been pasted inside it stands as "Part Five · Prose Application"
+  after Part Four — the same words, a proper Family / Write it as table.
+- **C-033.** The lettered Coherence Band is gone from the cards, the Technique pages
+  and the Arctic Lion sheet: **215 Notion pages, 399 occurrences** by script plus
+  **28 blocks by hand** (the field-label form, and four cards whose token is split by
+  emphasis). 30 occurrences were left as written, all of them *about* the retired
+  scale rather than carrying it — its own η ranges, Class and Crystal correlates,
+  the dated 2026-09-12 ratification records, and Dorrik's "He is Band F" framing.
+  Every one is listed in `reports/coherence_band_sweep_2026-09-24.md`.
+
+The Notion edits return through the hourly sync; the mirror in this worktree was
+deliberately not committed. **Open, and small:** Limina has no Part Five line (seven
+of eight Families are written, and nothing in the repo supplies the eighth);
+Dabney Corvalen Olyss' η is still "pending Isaac"; Aurelian Prudentius' line now
+names the Tier twice and wants a reword; the ~115 repo files under `imports/`,
+`book/` and `scenes/The_Path_of_Sorrow.md` still carry the lettered Band, which was
+outside the sweep's stated scope — `The_Path_of_Sorrow.md` has it in narrative prose,
+which is a different decision from a field swap.

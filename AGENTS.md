@@ -67,7 +67,8 @@ proposals/    proposed rules awaiting a pack   reports/  audits, digests   impor
 desktop/      NATALIE.md — what the Claude Desktop project reads; COWORK.md — what Claude
               Cowork (Desktop's folder mode) reads (~/Claude/CLAUDE.md links to it)
 .claude/      skills (wotr-rules, wotr-ops, judger; the writing set: wotr-write, wotr-rp,
-              wotr-npc, wotr-phenomenon, wotr-wound, wotr-stat-line, wotr-ledger); Workflow scripts (book-chapter.js, judger-assist.js)
+              wotr-npc, wotr-phenomenon, wotr-wound, wotr-stat-line, wotr-ledger; wotr-book drives
+              the book pipeline); Workflow scripts (book-chapter.js, judger-assist.js)
               — the Workflow scripts run only in Claude Code; other agents use book_tools.py
 .mcp.json     registers WOTR MCP for Claude Code sessions here
 CLAUDE.md CONTINUE.md ROADMAP.md CONFLICTS.md RULINGS.md PROGRESS.md BRIEF.md README.md

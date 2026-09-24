@@ -1,0 +1,7 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# The Docket Head","problem":"none","evidence":"verify --band set-piece --culture Accord: PASS, 0 fail, 0 warn; sentence CV 0.84, paragraph CV 0.95; last line ends on physical action","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# The Docket Head","problem":"none","evidence":"3413 prose words by verify (3716 wc -w) vs target 3500 = 97.5%, inside 80-150%","fix":"none"},
+{"severity":"info","pass":"combat_floor","quote":"# The Docket Head","problem":"none","evidence":"no working, exchange or injury on the page; verify raised no combat-floor warning","fix":"none"},
+{"severity":"info","pass":"voice","quote":"\"Custody.\"","problem":"voice not checkable","evidence":"voice_check on 8 lines each for Wystan Ashmore and Qiu Yinzhi: 'no fingerprint (fewer than eight attributed lines in the archive)'","fix":"none; manual voice review stands in"},
+{"severity":"info","pass":"hooks","quote":"It went quiet when you were at the sink.","problem":"none","evidence":"both declared sentences (lie, misreading) found verbatim once each; outline pays [] so no hook keywords owed","fix":"none"}
+]}

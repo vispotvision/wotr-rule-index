@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** A written structure covering a large volume takes
+**The phenomenon in plain words.** A written structure covering a large volume takes
 the momentum out of anything crossing into it and sends that momentum somewhere
 else along a path decided in advance.
 
@@ -120,9 +120,26 @@ which is the Core having run one geometry long enough to hold its bias.
 Anchoring Debt is an Attraction-Layer cost, Essence bound to a location she then
 has to leave.
 
+**The lens: Aristotle's four causes.** *Physics* II.3 and *Metaphysics* V.2.
+Aristotle asks four questions of anything that exists: what it is made of
+(material), what shape it has been given (formal), what set it going
+(efficient), and what it is for (final). A Runecraft lattice is the clearest
+case in this batch of a working whose material cause is worthless and whose
+formal cause carries everything: chalk, ground and air are the matter, and the
+pre-written channel is the form. The hostile momentum that arrives is only more
+matter, taking the shape that is already waiting for it. Read that way the
+Anchoring Debt stops looking like a penalty and starts looking like the
+efficient cause presenting its bill — she is the mover, and a mover who has
+written herself into the form cannot walk out of it while it stands. A school
+that reads the Locus through the **final** cause instead ("the lattice exists to
+protect the site") will predict that it reads intent, and will be wrong in the
+exact way the page's own Weakness records: *"it reads trajectory rather than
+intent."* The lens is a lens. The law underneath does not know what hostility
+is.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Ren]` **Passage** · Root · Auren —
 the channel the momentum is sent down — laid across `[Ho]` **Order** · Extension
@@ -163,6 +180,21 @@ never cross the sampled surface.
 
 A Veil rupture tearing holes that do not self-repair is a **Field fault**
 overlaid on the first — "The room could not supply what the working assumed."
+
+**What the target sees and feels.** Nothing at the boundary. There is no wall to
+strike and no discharge at the line, because coupling is not collision. A man
+running in at 60 m feels his footing stay honest and his weapon stay where he
+put it. What changes is the line of anything moving fast enough to be an
+oscillator the lattice can hold: a bolt, a thrown blade, a launched working
+visibly *bends* — not deflected off a surface but curving, over metres, as
+though the air had a grain in it. A vertical strike simply arrives short,
+grounded into the pattern before it reaches what it was aimed at. The
+characteristic feeling reported from inside is of being in a room where every
+direction has already been decided by someone else, which is accurate: the
+channels were written before anyone arrived. The unpleasant part is the
+corollary. A trajectory the writing did not anticipate is not resisted at all,
+and passes through a field of bending shot as though the lattice were not there
+— which it is not, on that vector.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card), so **30 percent of
 every expenditure leaves as heat, sound and structural bleed** (`Core Vocabulary`
@@ -207,3 +239,70 @@ ceiling no units (`SA-GAP-AETHERIC-DENSITY`).
 **Conflicts logged from this page:** `SA-OFF-RUNECRAFT-EPHEMERAL`,
 `SA-CROSS-ARCHIVIUM-CARD`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | Two costs, both outliving the scene. **Anchoring Debt scales with redirected mass** — the more she saves, the more expensive leaving becomes — and **Geometric Fatigue** locks her cognition into the lattice's own patterns afterward, which is a penalty on the Gnosis she is built out of. A cost that grows with success is the best shape a cost can have. |
+| Stated limits | **pass** | Radius 60 m; 5 turns; **cannot move once written**; a second Locus overwrites the first; only a limited set of vectors can be pre-written; force above the A-Grade band overwhelms it outright rather than being redirected. |
+| Something beats it | **pass** | Three of the four routes, below her Stage. See the routes below. |
+| It has a tell | **pass** | The largest tell in the batch: **one full uninterrupted turn of visible inscription** before the working exists at all, on ground and air she must be standing on. |
+| Numbers in band | **pass, estimated** | Stage VII ⇒ Max Grade A, Sub-Stat ceiling 475 allocation-capped at 400 (Part Five) ✓. Radius and duration are the page's own. **The absorption capacity is not sourced** — the page says so itself: *"an estimate since the source gives no figure of its own."* It is read at the A-Grade ceiling, which is in band; it is not attested. Logged `SA-GAP-ARCHIVIUM-CAPACITY`. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — the strongest route, and the cheapest.** The lattice
+  needs a full uninterrupted inscription turn on ink and ground. *"Take the
+  anchor and the sentence does not complete."* Stage VII is exactly the line at
+  which the chain goes internal, so this does **not** work against her spoken
+  workings — but the Locus is written, in a place, on a substrate, and a written
+  thing is beaten the way Runecraft is beaten: *"damage the substrate."* Break
+  the ground she wrote on, or reach her inside the turn, and there is no Locus.
+- **Break the man — Rigidity.** *"Present him with the situation his own law
+  handles worst and he will handle it that way regardless."* The lattice defaults
+  to the obvious trajectories. An attack that is merely *strange* — subterranean,
+  purely mental, arriving straight down a chimney — is not resisted, and she
+  cannot re-write while it holds.
+- **Deny the field — partial.** The Family is **Spatium**, and the Counterplay
+  register names failure terrain for Caloria, Fulguria, Materia and Fluxia only.
+  Spatium's coupling has to be read off
+  `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md`
+  instead. Logged as a register gap, `SA-GAP-COUNTERPLAY-TERRAIN`.
+- **Break the body — after the fact.** Anchoring Debt makes withdrawal
+  dangerous in proportion to how well the Locus worked. An attacker who accepts
+  the redirection, disengages, and comes back for her on the way out is using
+  her own ledger against her. *"Waiting for the cost"* is named as a bad plan;
+  **collecting** the cost at the moment it falls due is not the same plan.
+
+**The tell, stated plainly.** She has to stop, kneel, and write, in the open, on
+the ground she intends to hold, before the first hostile line crosses it. Any
+observer who understands that the writing must precede the crossing knows both
+that a Locus is coming and where its centre will be.
+
+**The lookup trail.** The pages a player would have to read to assemble the
+counter. Each gives a piece; none gives the answer.
+
+1. `wiki/Techniques/Archivium Locus.md` — the trigger ("one full, uninterrupted
+   turn"), the radius, and the Weakness line about trajectory versus intent.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — that a
+   ward is beaten by damaging its substrate, and that Stage VII closes the
+   anchor route for *spoken* chains but not for written ones.
+3. `wiki/The Magic System/The Four Crafts.md` — Law V, and why a written working
+   is a different animal from a declared one.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md`
+   — Transference's coupling conditions and what thins them.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four, so the reader can work out what "above the A-Grade band"
+   actually means in newtons, and therefore what overwhelms the lattice outright.
+6. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`
+   — that her Dexterity is not her strength, which is why reaching her inside the
+   inscription turn is a real plan rather than a wish.
+
+**Conflicts added by this section:** `SA-EM-ARCHIVIUM-HOSTILE-VS-TRAJECTORY`,
+`SA-GAP-ARCHIVIUM-CAPACITY`, `SA-GAP-COUNTERPLAY-TERRAIN`.

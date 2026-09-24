@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He grips a burnt bone taken from something he
+**The phenomenon in plain words.** He grips a burnt bone taken from something he
 killed, opens a vein against it, and for a short while his body does one thing that
 animal could do.
 
@@ -161,9 +161,26 @@ Wellspring harmonization becomes possible without tearing the lattice"
 instability for the duration, billed against Vitality — and the physical account says
 that is the correct organ, by a factor of fifty.
 
+**The lens: alchemical palingenesis.** Athanasius Kircher, *Mundus
+Subterraneus* (1665), and Joseph Duchesne before him, held that a plant reduced
+to ash keeps its form in the ash, and that the form can be called back out of it
+— the ghost of a rose rising from its own calcined salts in a sealed flask. It
+was wrong, and it was wrong for an interesting reason: what survives
+calcination is not the form but the **inorganic residue**, and the residue is a
+catalyst and a record rather than a seed. That is precisely the line Cinerion's
+law walks. The talon is ash-logic in bone: it carries the record of what
+produced it and none of the capacity. A school reading Ashfang as literal
+palingenesis expects the beast back, and will therefore hunt bigger beasts for
+bigger talons — and the page's Numerical Effect closes that door in one
+sentence: the borrowed trait *"cannot exceed his personal Stage VI stat ceiling
+no matter how large the source beast was."* The lens explains why a practitioner
+would believe otherwise, and the belief is expensive. The residue thinning with
+every reuse is the same lesson arriving by the shortest road: a catalyst is
+consumed by the reaction it does not power.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Frm]` **Form** · Extension · Thalen —
 the limit that says *which* shape the deposition takes — laid across `[Eq]`
@@ -199,6 +216,21 @@ page's counters are the same fault read from outside: an identity-stripping work
 or an Essence seal placed **before** contact leaves no signature to template from,
 which is the boundary never being established rather than the structure failing —
 a **Field fault** on the talon's side.
+
+**What the target sees and feels.** There is no target but Draven, and what he
+feels is a foreign proprioception arriving before the anatomy to support it. The
+sequence is fixed: the blood channel opens, the talon warms in the hand, and for
+two or three heartbeats his body reports a limb it does not have, a pressure
+sense it has never used, a reflex for a medium he is not in. Then the Shell
+expresses the trait at **his** scale, and the mismatch resolves into something
+usable. To anyone watching, the tell is the grip and the cut, not the
+transformation: he takes hold of a bone, he opens his own arm, and only then does
+he do something a man cannot. The heartbeat goes wrong at the same moment and
+stays wrong while the graft holds, which is audible to anyone close enough to
+hear him breathe. A second talon in the other hand does nothing at all — the
+Crystal at Stage VI has no room for two borrowed templates and his own pattern
+at once — so a fight in which he switches trophies mid-exchange is a fight in
+which he has given up the first trait to get the second.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.55 (card), so **45 percent of every
 expenditure leaves as heat, sound and structural bleed** — "which is why a
@@ -255,3 +287,65 @@ rather than leaving it to a reader.
 `SA-GAP-ASHFANG-OBJECT-WELLSPRING`, `SA-GAP-CINERION-RECLAIM`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass, weakly** | The stated cost is **cardiac instability while the graft holds**, and the card undercuts it in the same breath: *"It has never once stopped him."* A cost that has never mattered is a cost on paper. What saves the test is the second cost, which the page does not call a cost: **the residue thins with every reuse of the same talon**, so his arsenal is consumed by being used and has to be resupplied by killing. That is a real economy and it is checkable. |
+| Stated limits | **pass** | One trait at a time; the trait runs at **his own B-Grade Tempering ceiling** regardless of the source beast; requires physical possession of a talon from a beast **he** killed; requires an open blood channel; the same talon weakens with each draw. |
+| Something beats it | **pass** | Two routes, and one of them is pre-emptive. See below. |
+| It has a tell | **pass** | He must grip a specific object and cut himself open before anything happens, and the arrhythmia persists audibly throughout. |
+| Numbers in band | **pass — the cleanest in the batch** | Page requires B-Grade; card gives **Tempering 248**, inside B (176–275) (Part Four). Stage VI ⇒ Max Grade A, ceiling 400, no instability zone (Part Five). The cap-at-his-own-ceiling clause is the system's own anti-escalation rule doing its job. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — before contact, not during.** The page's own Counter:
+  an **Essence seal placed before the blood channel opens**, or a working that
+  strips the target's identity before the graft reads, *"leave nothing for
+  Petralon's thread to read."* This is the route worth planning around, and its
+  timing is the whole of it — the graft is a read of a stored signature, so the
+  answer is to spoil the signature, and afterwards there is nothing to spoil.
+  Stage VI is **below Refraction**, so the ordinary anchor attack applies too:
+  the channel is opened by hand, and a broken wrist is a finished sentence.
+- **Deny the field.** Family **Caloria / Vectoria**, and the register is explicit:
+  *"Caloria fails in thermal equilibrium, saturated cold, and oxygen-poor air."*
+  A fight staged in saturated cold costs him the Cinerion half of the working,
+  which is the half that holds the record.
+- **Break the man — the trophy economy.** Every talon is a finite, thinning
+  asset he has to carry. *"Read him"*: taught or self-derived, the graft is a
+  documented sequence with a physical prerequisite, and an opponent who has seen
+  him fight once knows which trophies are on his belt. Take the belt, or make him
+  spend the good talon on a feint, and the second exchange is against a weaker
+  man than the first.
+- **Break the body — unaffected, which is the point.** The graft grants a trait,
+  not a Stage. *"A volley is a volley."* Flight at B-Grade is still flight into
+  massed fire.
+
+**The tell, stated plainly.** Hand to trophy, blade to his own arm, then the
+heartbeat goes wrong. Three visible steps in order, every time, and the seal
+that beats him has to land before the first of them.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Ashfang Mark Invocation.md` — the trigger sequence and the
+   ceiling clause; the Weakness line about reuse thinning the residue.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` —
+   "Interrupt the chain", and Caloria's failure terrain.
+3. `wiki/The Magic System/The Four Crafts.md` — Law V: why Stage VI needs an
+   external anchor at all, and what taking it away does.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`
+   — Cinerion's law, the char-and-catalyst reading, and its Environmental
+   Coupling.
+5. `wiki/Volume I — Character Cards/Draven Kael Vorrick · The Beast Slayer.md` —
+   Tempering 248, and the Vorynn Bloodbind standing behind everything he does.
+6. `wiki/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md`
+   — what a Trait is and why a borrowed template cannot outrun its host's Crystal.
+
+**Conflicts added by this section:** `SA-FAIR-ASHFANG-COST-NEVER-BITES`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He tears open an old pact written into his blood and
+**The phenomenon in plain words.** He tears open an old pact written into his blood and
 for ten seconds his body puts out three times what it can put out.
 
 **The real phenomenon.** Two, stacked, and only the second makes it survivable.
@@ -149,9 +149,28 @@ reserve per minute sustained, which is the only rate-of-spend figure on any of
 Draven's four pages and the reason this account can compute a Starvation margin at
 all.
 
+**The lens: Bergson's *élan vital*.** *L'Évolution créatrice* (1907). Bergson
+argued that life is a single indivisible impulse, and that the intellect can
+only understand it by **spatialising** it after the fact — laying a continuous
+surge out as a series of measured positions, and losing the surge in the
+measuring. Whatever one thinks of it as biology, it is an unusually exact
+description of what the page says happens: tearing the Bloodbind floods the
+Shell *"faster than Petralon's kinetic thread can meter it"*, and Petralon's
+thread is the metering faculty — the intellect arriving late to a movement that
+has already happened. The surge cannot be metered finely once open because
+metering is the thing it outran. The lens also predicts the failure the page
+records as its standing cost: an impulse that is not divided is not steerable,
+and **Primal Regression** is what an unsteered impulse produces when it finishes
+arriving. The dangerous misreading is the obvious one. A school that believes
+élan vital is inexhaustible — Bergson's *durée* has no reservoir — will read the
+seventy-percent-per-minute bill as a failure of will rather than a figure, and
+will train men to hold the surge longer. The system's own answer to that school
+is Essence Starvation, which arrives at ten percent reserve and does not
+negotiate.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph: none, and that is the correct answer.** This is the one page in the batch
 whose boundary is **not** glyph-supplied. The system's three-way distinction is
@@ -203,6 +222,20 @@ The page's "What nobody knows" — whether the Bloodbind was ever meant to be re
 intent, and the system does not record intent for Traits: a Trait is "Survived into
 existence, never taught" (`The Core Vocabulary` §VI).
 
+**What the target sees and feels.** He is hit three times as hard as the man in
+front of him should be able to hit, and he has about ten seconds of it. The
+working has no reach, no projection and no area: everything it does arrives
+through Draven's own limbs, so the whole of it is felt at contact and nowhere
+else. What an opponent reads first is not strength but **sharpening** — the
+reflexes come up with the output and the register goes predatory, so the feints
+that worked in the first exchange stop working. The tell is on his skin: he tears
+the Bloodbind open himself, and **visible frost forms on his own scars** as the
+Vohrin compounding pulls outward, which is the one part of the working a
+bystander can see before the first blow lands. And the surge cannot be throttled
+once it is running — *"it runs its full ten seconds or it does not run at all"* —
+so the ten seconds are a clock an opponent can count, out loud, while giving
+ground.
+
 **What bleeds, at the stated efficiency.** η ≈ 0.55 (card): **45 percent of every
 expenditure leaves as heat, sound and structural bleed.** For a ten-second spike at
 tripled output that is an enormous absolute bleed, and it is the physical reason the
@@ -249,3 +282,70 @@ question is `SA-UNATT-VOHRIN`, which is a filing problem rather than a physics o
 `SA-OFF-MAGICRAFT-NOT-PRACTISED`, `SA-OFF-BLOODBIND-MECHANICA`,
 `SA-GAP-TRAIT-WORKING-GLYPH`, `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass — the best-costed page in the batch** | *"Roughly seventy percent of his active Essence reserve per minute sustained."* This is the only cost in the twenty-eight stated as a **fraction of reserve**, which is the one form the system can actually price: Starvation begins below 10 % EU (`Core Vocabulary` §V), so a ten-second surge is ≈11.7 % of reserve and **six surges put him into Starvation inside a single fight**, with no reserve figure needed. Plus the standing Primal Regression risk on repeat use. |
+| Stated limits | **pass** | 10 s, fixed; self-target only; no reach; **cannot be metered once torn open**; Primal Regression risk rises with extended or repeated use. |
+| Something beats it | **pass** | Three named routes, all below his Stage. |
+| It has a tell | **pass** | He tears the pact open by hand and frost forms on his scars. |
+| Numbers in band | **FAIL** | The page pushes his A-Grade Ardency baseline *"toward the top of that band **or briefly past it**."* Stage VI's Max Grade is A with a Sub-Stat ceiling of 400 and **no instability zone at this Stage** (Part Five) — Stage V and VII have documented over-ceiling strain bands, Stage VI does not. So the system provides no rule under which a Stage VI practitioner reads above A, and "briefly past it" is unsupported rather than merely generous. Logged `SA-FAIR-BLOODBIND-PAST-BAND`. **Not silently nerfed** — the questionnaire decides. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Deny the field — the Family, twice over.** Families **Vectoria / Caloria**.
+  The register: *"Caloria fails in thermal equilibrium, saturated cold, and
+  oxygen-poor air"*, and the page's own Weakness is a fire-dominant Caloria
+  discharge burning out the surge's cold expression early — *"though the raw
+  kinetic strength persists a moment longer"*, which is an honest partial and
+  worth reading twice before relying on it.
+- **Break the boundary — a cage, not a shield.** A Fixatio-built binding denies
+  the **muscular expression room to happen**. This is the correct shape of
+  counter against a working that has no projection: do not stop the Essence, stop
+  the limb. Stage VI is below Refraction, so the anchor route is open as well —
+  the pact is torn open by hand.
+- **Break the man — the clock and the pattern.** Ten seconds, unthrottleable,
+  and *"every thaumaturge has a pattern."* Giving ground for ten seconds is a
+  plan; the register warns that *"a plan that consists of surviving until he
+  tires is a plan to be killed by a tired man"*, and the distinction here is that
+  the duration is **stated and short**, so this is not waiting for a cost, it is
+  waiting out a stated window. A Harmonics-suppression working dulls the
+  predatory sharpening before it compounds, which is the half of the surge that
+  makes him hard to read.
+- **Break the body — normally.** Nothing in the surge changes his Stage, his
+  armour or his reach. Triple Strike Force does not outrun a volley.
+
+**The tell, stated plainly.** He tears the Bloodbind open — a deliberate,
+visible act on his own body — and frost forms on his scars. Ten seconds start
+there and cannot be extended or cut short.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Bloodbind Surge.md` — the 70 %-per-minute cost, the fixed
+   10 s, the "cannot be metered" limitation.
+2. `wiki/The Magic System/The Core Vocabulary.md` — §V, Essence Starvation below
+   10 % EU. **This is the page that turns the cost into a countdown**, and a
+   player who reads it can do the division.
+3. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — Caloria's
+   failure terrain, "Exhaustion", and the warning about waiting for costs.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`
+   — the heat-side Wellsprings that contest the cold expression.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Five (Stage VI has no instability zone) and Part Seven (Ardency
+   Overchannel: *"Overflow risk above D-Grade and Backlash risk above C, with no
+   Path providing structural protection"*).
+6. `wiki/Volume I — Character Cards/Draven Kael Vorrick · The Beast Slayer.md` —
+   Ardency 320, Ardency-Penetration 358, and the Vorynn Bloodbind's standing cost.
+7. `wiki/The Magic System/The Trait System Law, Function and the Forge.md` — that
+   the Bloodbind is a Trait rather than a Wellspring, and that *"a Trait's law is
+   not negotiable by its bearer"*, which is the Rigidity handle.
+
+**Conflicts added by this section:** `SA-FAIR-BLOODBIND-PAST-BAND`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

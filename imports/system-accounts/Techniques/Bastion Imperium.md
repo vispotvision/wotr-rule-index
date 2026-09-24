@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He plants himself, the ground under him becomes part of
+**The phenomenon in plain words.** He plants himself, the ground under him becomes part of
 him, he cannot be moved inside ten metres, and force below a certain size simply fails
 against him.
 
@@ -143,9 +143,29 @@ compression through his legs and spine while the stance holds." Correct anatomy:
 bearing problem the load path runs through the legs into the footprint, so the
 compressive column *is* his lower body, and the page's cost is the load path named.
 
+**The lens: Stoic pneuma and *tonos*.** Chrysippus, reported through Galen and
+reconstructed by Sambursky (*Physics of the Stoics*, 1959). The Stoics held that
+what makes a stone one stone rather than a heap is **pneuma** held in *tonos* —
+tension — and that the grades of cohesion run from *hexis* (bare holding
+together, in stones and timber) up through *physis* and *psyche*. Cohesion, on
+this account, is not a property of the matter but a tension running through it,
+and a tension can in principle span more than one body. That is exactly the
+figure Coagula's law cuts here: the stance is not Drakvor braced against the
+ground, it is **one hexis** with the man and the ground both inside it, which is
+why the page can say the ground *"stabilises into a metaphysical bulwark"* and
+mean something rather than nothing. The lens also names the cost correctly
+before the ledger does: tonos is held, and holding is work, and the page bills
+him in *"severe Aether compression through his legs and spine."* The productive
+misreading is the one the Stoics themselves would have made: if tonos is a
+quantity in the **body**, then the bastion should be indifferent to what it is
+standing on. The page's Weakness says the opposite — elevation loss and unstable
+terrain both reduce it, *"since Coagula's gathering has less to gather when the
+ground itself is already coming apart."* The tension is shared, so the ground is
+a member of the working and not its backdrop.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Lk]` **Lock** · Counter · Thalen — one
 of only two Counter forms in the whole Index, and the Index's description of it is this
@@ -189,6 +209,21 @@ substrate all leave the working correct and useless, and the page's own line is 
 Structural: "The Crystal could not hold what the boundary permitted" — his legs and
 spine, plus Coagula's residual porosity as the crack map the bulwark carries from the
 moment it forms.
+
+**What the target sees and feels.** An attacker below the threshold does not
+feel his blow stop. He feels it **arrive and count for nothing** — the contact
+is real, the sound is real, and the transferred momentum goes into a structure
+that includes ten metres of ground, so the man does not move because the man is
+not the mass being pushed. Reported from the receiving end, the register is
+closer to striking a buttress than a person: the shock returns up the arm
+undiminished. Mail wearers inside the radius feel the Essence shock in the
+teeth. The zone announces itself first and honestly — earth ripples, dark sigils
+bloom under his feet, a distant iron groan follows, and the air thickens around
+his torso *"like plate settling over bone."* And the working's great weakness is
+legible in the same moment: he has stopped moving, and he will not move again
+until it ends, because stepping out of the stance **is** ending it. Anything
+that never touches the ground he commands, or never enters the ten metres, is
+not in the argument at all.
 
 **What bleeds, at the stated efficiency — and the card's figure is the problem.** The
 card gives **η ≈ 0.55**, so **45 percent** of every expenditure leaves as heat, sound
@@ -242,3 +277,64 @@ already been run.
 **Conflicts logged from this page:** `SA-NUM-ETA-TIER`,
 `SA-GAP-BASTION-NON-TRANSFERABLE`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | Severe Aether compression through legs and spine for the duration, and real fatigue after release. It is not quantified in EU (`SA-GAP-EU-FORMULA`), but it is **located in tissue** and it compounds across a long engagement, which is the shape the register's *"Exhaustion"* route is built to exploit. |
+| Stated limits | **pass, and they are severe** | **He cannot move at all**; stepping out ends it; 10 m radius; ~12 s duration (four old-count turns at the page's own 3 s/turn); the threshold sits at the S-Grade band and anything above it is not affected. Immobility as the price of immovability is the fairest trade on any page in this batch. |
+| Something beats it | **pass** | All four routes touch it, and one of them is *"stay in the air"*. |
+| It has a tell | **pass** | Rippling earth, blooming sigils, an audible iron groan. It cannot be set up quietly. |
+| Numbers in band | **pass** | Stage VIII ⇒ Max Grade S, ceiling 550, Tier 6 · Master (Part Five). Threshold quoted at the S band: 0.5–2 TN, 4.184–24.3 TJ, 1–5.8 kt (Part Eleven / Part Four). Card: six Primaries in S. **The one number out of band is η 0.55 against the Tier 6 floor of 0.70** — logged, not resolved (`SA-NUM-ETA-TIER`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Deny the field — the ground, and the Family.** The working is anchored in
+  the ground it commands, so **take the ground**: a Sublimatio-driven
+  destabilisation, or a fight staged where there is no load path to gather. The
+  register's terrain line for **Materia** is *"opinions and no tools on open
+  water."* A bastion on a barge is a man standing still.
+- **Break the body — distance and elevation.** *"Distance. … Most practitioners
+  are a threat about closing range and are written as though they were not."*
+  Here the page says it out loud: an airborne opponent, or one attacking from
+  beyond 10 m, *"was never inside the working's argument to begin with."* This is
+  the cheapest counter in the batch and it requires no magic at all.
+- **Break the man — Rigidity, in its purest form.** *"Present him with the
+  situation his own law handles worst and he will handle it that way
+  regardless."* His law is *hold*. Present him with something that must be
+  chased — a runner, a fired building, a hostage being carried away — and he
+  either breaks his own working or loses the thing. He cannot do both.
+- **Break the boundary — the threshold, not the stance.** The threshold is a
+  band, not a wall. One strike above 2 TN is not filtered; it is simply not
+  covered by the working. *"Nothing in the register stops a working by standing
+  in front of it"* — and a stance is not a wall either.
+
+**The tell, stated plainly.** He plants, the earth ripples, sigils bloom, iron
+groans in the distance. From that instant he is the one thing on the field that
+cannot come to you.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Bastion Imperium.md` — the Limit ("cannot move at all"), the
+   10 m radius, and the Weakness about elevation and unstable terrain.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Choose
+   the ground by Family", "Distance", "Rigidity", "Exhaustion".
+3. `wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`
+   — Coagula's law of gathering, and what it needs from a substrate.
+4. `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md`
+   — the force benchmarks, so the reader can work out what "above the threshold"
+   means and whether anything he owns reaches it.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four for the S band; Part Seven for the Body and Fate gates on
+   Vitality Fortitude and Resilience Ward.
+6. `wiki/Volume I — Character Cards/Drakvor · The Black-Crowned Bastion.md` —
+   **Dexterity 355, his lowest Primary and an A among six S's.** The card tells
+   you what he cannot do, which is follow you.
+
+**Conflicts added by this section:** `SA-EM-BASTION-VERDICT-NOT-MECHANISM`.

@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** Whatever the person across from him is afraid the fight
+**The phenomenon in plain words.** Whatever the person across from him is afraid the fight
 contains, he gives it a body — and the body is as solid as their conviction is strong.
 
 **The real phenomenon.** **Template-directed nucleation from a supersaturated medium.**
@@ -176,9 +176,30 @@ Resilience is **260, B-Grade**, his second-weakest reading. **He is running an
 identity-blurring working on the thinnest Sub-Stat that answers for it**, and that is the
 real cost structure of this page.
 
+**The lens: the tulpa.** Alexandra David-Néel, *Magic and Mystery in Tibet*
+(1929), reporting the Tibetan *sprul-pa*: a thoughtform built by sustained
+concentration until it acquires apparent independence, and — in her own much-cited
+account of the fat jolly monk she made, who thinned and turned sly and took six
+months of hard work to dissolve — one that becomes harder to unmake the longer it
+is fed. As ethnography it is contested. As a description of **Identity Drift** it
+is uncomfortably good: *"sustained use blurs where his self-image ends and the
+borrowed fear-shapes begin"*, which is David-Néel's problem exactly, arriving on
+schedule. And the productive error is right at the centre. In her telling the
+tulpa is the **maker's** thoughtform, fed by the maker's mind; here the conviction
+is the **target's**, and Aeldoris is only the medium it deposits through — *"the
+technique borrows force from belief because Eidolyn's law has always translated
+intent into structural strength."* A school that reads the Falseface as tulpa-work
+will therefore try to break Aeldoris's concentration, and will find that the load-
+bearing belief is not his. It also has no way to make sense of the counter the
+page gives, which is the strangest and best line on the card: **stand in front of
+a mirror.** On a tulpa reading a mirror is nothing. On a template reading it is
+everything, because *"specular reflection returns the construct's own image
+undistorted, and a form templated from someone's imagined threat has no further
+truth behind it to survive contact with its own unedited reflection."*
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Frm]` **Form** · Extension · Thalen — the
 limit that decides *which* geometry the deposition takes, which is the whole content of a
@@ -213,6 +234,24 @@ not and discards what does not need carrying," so the supersaturation never reac
 critical and the working is correct and produces nothing. And behind *that*, a
 **Structural fault** waiting: Identity Drift on a B-Grade Resilience, against a threshold
 the system names Mirage Identity.
+
+**What the target sees and feels.** The thing he was already afraid of, standing
+in the room. Not a picture of it and not a suggestion of it: *"the construct's
+solidity is consequently real material behaviour rather than a trick of light"*,
+so it strikes and can be struck, and its mass scales with how convinced he is.
+The working is **reactive** — it releases against an incoming hostile action,
+once a target within eighty metres reads as carrying fear Aeldoris can find — so
+the sequence is always that you committed to something first and the thing arrived
+second. The awful part is the feedback: conviction feeds mass, so being right
+about how dangerous it is makes it more dangerous, and the ordinary discipline of
+taking a threat seriously is the thing being harvested. A group sharing one dread
+produces *"a shared, larger template"*; one deeply convinced person produces a
+single dense construct instead of several. Eidolyn's own documented failure shows
+up faithfully — *"any flaw in the source intent is faithfully reproduced at
+scale"* — so a fear with a hole in it arrives with the hole in it, at size, and a
+target who knows precisely what is wrong with his own nightmare is looking at the
+seam. Against a fearless or fully lucid mind, or a threat-shape the target has no
+concept of, nothing forms at all.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.65 (card): **35 percent** of every
 expenditure leaves as heat, sound and structural bleed. On a deposition working the
@@ -264,3 +303,75 @@ without a single rule being added.
 `SA-NUM-AELDORIS-INSTABILITY`, `SA-NUM-ETA-TIER`, `SA-CROSS-LIMINA-DOMAIN-NAME`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | **Identity Drift** and **Cognitive Static** — headache, memory flicker, perception distortion — are *"the price of routing someone else's conviction through his own Aether Shell repeatedly across an engagement."* The cost lands on his selfhood, which is the faculty the working uses, and it compounds within a single fight. Unpriced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and they are real constraints on tempo** | **Reactive only** — it cannot be opened on his own initiative; 80 m; requires an actual conviction to template from; a fearless or fully lucid target gives it nothing; a fear too diffuse to template gives it nothing; template defects reproduce faithfully at scale; the page **refuses to invent a duration** rather than guessing one. |
+| Something beats it | **pass, and one counter costs a pocket mirror** | Four routes, three of which a prepared party can carry. |
+| It has a tell | **pass** | It fires in answer to *your* action, and what appears is the thing you were already afraid of — which is, in practice, a self-labelling working. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A with allocation stopping at 400 and 401–475 *"under strain only"* (Part Five); card Ardency **340** = A ✓, glossed on the card as this technique's output stat. Against that: **η 0.65 is above the Tier 5 ceiling of 0.60** (`SA-NUM-ETA-TIER`), two of his Primaries sit in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`), and the card's lettered Band is retired (`SA-NUM-FALSEFACE-BAND-C`). None of these is a fairness fault; all three make his sheet, not his technique, the thing out of true. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — the mirror, and why it is not a gimmick.** A mirror
+  returns the construct's image undistorted, and a form with nothing behind it but
+  somebody's imagining cannot survive its own unedited reflection. In register
+  terms this is a **Lock**: *"occupies a limit so no other limit can be set
+  there."* The deposit needs a coordinate in conceptual space to organise around,
+  and a true specular return occupies it with the thing's own unembellished shape.
+  It is cheap, it is portable, it is documented on the card, and a player who
+  reads the card has it.
+- **Break the man — Letheveil discipline, which is the trained answer.** *"A
+  Letheveil-disciplined mind identifies the fear-model as load-bearing or not and
+  discards what does not need carrying, denying Eidolyn a stable template before
+  it ever forms."* This is the register's *"Read him"* turned inward: the counter
+  to a working that reads you is to have less to read.
+- **Deny the field — empathy, breaking the loop.** *"Empathy-based Essence, of
+  the kind Catharsis or Benediction practitioners carry, breaks the fear-loop the
+  construct depends on to stay fed."* Note where this counter acts: not on the
+  construct and not on Aeldoris, but on the **target**, which is where the fuel
+  is. One ally with the right Wellspring standing beside a frightened man is a
+  counter to a working eighty metres away.
+- **Break the body — normally, and the page allows it.** The construct can be
+  struck. Aeldoris is a man at the far end of an eighty-metre radius who has to
+  wait for you to act first. *"Numbers, correctly used"*, against a working that
+  produces **one** dense construct per deeply convinced target, means the second
+  and third attackers are fighting a man and not a nightmare.
+
+**The tell, stated plainly.** You attack, and the thing you were most afraid of
+answers. It is reactive, so it never arrives before you have given it something to
+answer — and it always looks like exactly what it was templated from, which tells
+you whose conviction is feeding it.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Eidolyn Falseface Lattice.md` — the Counter (the mirror, and
+   the reason given for it), the Limitation (no conviction, no construct), and the
+   reactive trigger.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Knot and
+   Lock", "Read him", and why shielding is not one of the four.
+3. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — Eidolyn, Oneirion, Somnalis and **Letheveil**, which is where the trained
+   counter comes from.
+4. `wiki/The Magic System/The Magical Categories — Unified Taxonom.md` — where
+   illusory projection sits, and what is and is not expected to have mass.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Seven, Ardency Density's Body-Path gate above B, which his Spirit
+   designation does not meet (`SA-NUM-FALSEFACE-PATHGATE`).
+6. `wiki/Volume I — Character Cards/Aeldoris Vanthryx · The Ruthless.md` — Ardency
+   340, and the rest of his repertoire, which is built on the same three
+   Wellsprings and therefore beaten by overlapping means.
+
+**Conflicts added by this section:** none new. The page's Effect and its Mechanism
+describe the same deposit, its counter is documented, cheap and findable, and it
+passes all five checks. Its open questions — what medium is being supersaturated
+(`SA-GAP-FALSEFACE-SATURATED-MEDIUM`) and the sheet-level faults above — were
+already logged.

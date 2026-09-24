@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** Inside a large dome, one named kind of action stops
+**The phenomenon in plain words.** Inside a large dome, one named kind of action stops
 working, or works but arrives as something milder. Nothing intercepts it. It simply
 does not resolve the way it would have.
 
@@ -138,9 +138,31 @@ for as long as it stands; violating its own spirit herself returns the backlash
 directly to her Soul Crystal." The roughened voice across repeated castings is
 Shell degradation on the conduit that carries recognition.
 
+**The lens: Austin's performatives.** J. L. Austin, *How to Do Things with Words*
+(1955 lectures, published 1962). Austin's insight was that some utterances do not
+describe the world but **alter** it — *I name this ship*, *I sentence you* — and
+that they work not by force but by satisfying **felicity conditions**: the right
+person, the right circumstances, the right form of words, and a speaker who means
+it. Read the Edict through that and the page's rules stop looking arbitrary. *"The
+narrower and clearer its wording, the stronger the Edict holds"* is Austin's
+insistence on correct form. *"She must personally embody the Edict for its
+duration"* is his sincerity condition, which he treated as the one that cannot be
+faked. *"The Edict, not Serenyra, is what refuses"* is exactly Austin's point
+that a performative, once felicitous, stands on its own and not on the speaker's
+continuing strength. The place the lens fails is worth a great deal, because it
+fails in the direction of a bad idea. In Austin an infelicitous performative is
+simply **void** — it misfires, nothing happens, and no one is hurt. Here, when the
+speaker herself violates the Edict's spirit, *"the backlash tears through her own
+Soul Crystal."* A school reading the working as pure speech-act therefore
+concludes that a lawcaster who wants out of her own Edict need only break it and
+watch it lapse harmlessly, and that school will produce broken Crystals. The
+Edict is not a convention held up by agreement. It is a debt she has signed, and
+the Counterplay register has a whole paragraph about what that means
+(**"The vow"**).
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Ath]` **Command** · Root · Irath,
 laid across `[Ho]` **Order** · Extension · Valen. From the thirty unclassified forms
@@ -197,6 +219,24 @@ the speaker meant it, and the caster's insincerity then shows up later as the
 Coherence fault rather than as an immediate failure. **The Edict holds and she
 does not.** Offered as a candidate, not as canon.
 
+**What the target sees and feels.** A spoken Edict naming one category of action,
+a strike into the ground, and then two hundred metres in which one specific thing
+has stopped being available. Attempting the bound action does not feel like being
+opposed by a person — the page is careful about this, and so is the experience:
+there is *"resistance, as though pushing against water"*, and then the action
+either fails or **resolves into the Edict's named alternative instead**. The
+lethal blow lands as a disarm. The Wellspring will not answer to shed blood. To
+the person inside the dome the refusal has no author present in it, which is why
+it is far harder to fight than a woman holding a shield. Aurevane carries the
+enforcement evenly to the dome's edge, so there is no soft margin near the
+boundary and no strong point at her feet. Oneirion's small contribution is the one
+a lawyer would notice first: the wording *"bends around edge cases"* rather than
+failing the instant an action falls just outside the letter, which means finding
+the gap is harder than reading the sentence. Three exchanges at full potency,
+then one or two of weaker echo — and a Void-aligned disturbance inside the dome
+opens *"dangerous tears where neither fully holds"*, which is not a safe place for
+anyone, including whoever made them.
+
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card): **30 percent of every
 expenditure leaves as heat, sound and structural bleed**, spread across 1.68×10⁷ m³
 and therefore invisible per cubic metre and enormous in total. The structural share
@@ -237,3 +277,76 @@ claim, which has no units (`SA-GAP-AETHERIC-DENSITY`).
 **Conflicts logged from this page:** `SA-UNATT-BAND-B-EDICTUM`,
 `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`,
 `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass — the best-shaped cost of any Serenyra page** | Three layers, and the first is a **vow**: she must personally embody the Edict for as long as it stands, and *"any time she herself violates its own spirit, the backlash tears through her own Soul Crystal."* Then an escalating cost — *"repeated use roughens her metaphysical voice, making the next Edict harder to sustain without harm"* — so the second Edict of a campaign is dearer than the first. Unpriced in EU (`SA-GAP-EU-FORMULA`), but a self-executing penalty on her own conduct does not need a number to bite. |
+| Stated limits | **pass** | One category of action per casting; a dome ≈200 m radius centred on her; about three exchanges at full potency plus a weaker echo; **a broadly worded Edict is weaker than a narrow one** — the wording is the working; she must be present and consistent throughout. |
+| Something beats it | **pass, and the cheapest route is the one the page omits** | The page names peer-level answers; the register supplies a commoner's one. See below. |
+| It has a tell | **pass** | She says it out loud, naming the category, and strikes the ground. Everyone inside two hundred metres has been told exactly what is now forbidden — which is necessary, since an Edict nobody has heard cannot be obeyed. |
+| Numbers in band | **pass** | Stage VIII ⇒ Max Grade S (401–550), ceiling 550, Tier 6 · Master, η 0.70–0.80 (Parts Five, Nineteen); card η 0.70 ✓ at the floor. Gnosis 522 and Tempering 470 are S, so **she meets this one at grade rather than above it**, which is the right reading of a technique the card calls the peak of her art. The card's lettered Coherence Band is retired under R42 (`SA-UNATT-BAND-B-EDICTUM`, `SA-UNATT-COHERENCE-BAND`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the man — the vow, which the page does not mention and the register
+  does.** *"A vow kept buys Coherence with conduct. A vow broken is a Shear
+  Break, and an opponent who knows the terms of a vow holds a weapon that does not
+  require touching him. Manoeuvring a sworn man into breaking his own oath is
+  legal everywhere, universally despised, and has ended more careers than any
+  duel."* She has just **announced the terms of her vow aloud to everyone in
+  earshot**. Build the situation in which honouring her own Edict costs her
+  something she cannot give up, and the backlash is delivered by her own working,
+  to her own Soul Crystal, at no cost to you. This is the counter a reader is meant
+  to assemble, and it is the reason the tell is not a weakness of the design.
+- **Break the boundary — Countersigning, and an opposing declaration.** The
+  register: *"Some Seals end when countersigned in writing, and some end when the
+  sum is spoken back correctly by another. A working that carries either of those
+  closing conditions can be ended by an opponent who is literate enough."* The
+  page's own Counter is the martial version — another lawcaster declaring an
+  opposing principle, *"the two resonate against each other and can collapse
+  both."* Note that it collapses **both**, so this is a trade and not a win.
+- **Break the boundary — the wording, worked.** Oneirion's flexibility is
+  finite. One category is bound; everything adjacent is not. An opponent who
+  listens to the exact phrasing and does the *neighbouring* thing has beaten a
+  200-metre working with attention, and the page invites this by making narrowness
+  the source of the Edict's strength: **the stronger the Edict, the smaller it
+  is.**
+- **Deny the field — the Void tear, at a price.** A Void-aligned disturbance
+  pits *"no law"* against *"this law"* and opens tears where neither holds. This
+  works and it is dangerous to the user, which is the honest kind of counter.
+  Family **Fulguria**: *"fails against … dense fog and a shielded interior."*
+- **Break the body — she is standing in the middle of it.** The dome is centred
+  on her and she must remain consistent with it for the duration. If her own Edict
+  forbids lethal force, she has disarmed her own guards.
+
+**The tell, stated plainly.** She names the forbidden category aloud and strikes
+the ground. The working cannot be quiet, because a law nobody has heard cannot
+be enforced — and everyone who heard it now knows the terms she is bound by too.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Edictum Resonantiae.md` — the Limit (one category; narrow
+   beats broad) and the Cost (she must embody it; backlash to her own Crystal).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — **"The
+   vow"** and **"Countersigning"**. These two paragraphs are the answer, and
+   neither of them is on the technique page.
+3. `wiki/The Magic System/The Standing and the Title — The Three Names.md` — what
+   standing an Edict is spoken from, and therefore what overstating it costs.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md`
+   — Judicium's law of discernment and consequence, and Aurevane's even carriage.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Seven, the Fate gates on Dominion Sovereignty and Dominion Fate, and
+   (per the page's own note) that Fate's terminal Sub-Stats do not open below
+   Stage XIII.
+6. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`
+   — what she will and will not do, which is the raw material for the vow route.
+
+**Conflicts added by this section:**
+`SA-EM-EDICTUM-RECOGNITION-NOT-ENFORCEMENT`, `SA-GAP-COUNTERPLAY-TERRAIN`.

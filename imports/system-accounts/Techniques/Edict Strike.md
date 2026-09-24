@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** A slow downward sword-cut that lands heavier the more
+**The phenomenon in plain words.** A slow downward sword-cut that lands heavier the more
 the person it is aimed at is hesitating, and doubles against someone fully unsure.
 
 **The real phenomenon.** **Impulse transfer and effective mass**, with a
@@ -139,9 +139,29 @@ Crystal State: **Refined, overbuilt by design** (card). **The invoice:** per swi
 per second — the correct shape for an instantaneous working, and this is one of the few
 pages in the batch whose cost cadence matches its duration.
 
+**The lens: the *vis imaginativa*.** Avicenna, *De anima* IV.4, developed by
+Marsilio Ficino and set out at length in Agrippa's *De occulta philosophia*
+(1533) I.lxiv: a sufficiently intense imagination acts on bodies, first on its
+own and then on others — the terrified man who marks his own flesh, the pregnant
+woman whose fright is held to shape the child. It was the standard learned
+explanation for centuries of how fear could do physical work, and it is the exact
+shape of this working's claim: the target's own hesitation contributes to what
+arrives. Judicium's half of the mechanism fits the lens precisely, because the
+*vis imaginativa* tradition always held that the imagination had to be **read**
+before it could be used, which is why the doctrine travelled with physiognomy and
+the reading of faces. What the lens gets wrong is the direction of the loan. On
+Avicenna's account the power sits in the **imaginer** — the fear does the wounding
+— and a school that reads Edict Strike that way concludes that a fearless target
+cannot be hurt by it, and will send its bravest man forward on that theory. The
+page says the baseline strike still lands at the S-Grade band, 0.5–2 TN,
+regardless of what anyone believes. Fearlessness halves the blow; it does not
+remove it. Where the doubled weight comes from, in joules, is the question this
+account logs rather than answers (`SA-PHYS-TN-THROUGH-A-BLADE`,
+`SA-EM-EDICT-DOUBT-AS-MASS`).
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Me]` **Measure** · Synonym · Urion —
 because the working *is* a measurement, and the strike is the measurement made heavy —
@@ -182,6 +202,21 @@ reads the target's doubt also telegraphing the strike itself." Behind it sits a
 peak through a 10⁻⁷ m² edge is not a fault the Crystal fails at, it is a fault the
 *blade* fails at, and nothing in the system covers a sword's material limit.
 `SA-PHYS-TN-THROUGH-A-BLADE`.
+
+**What the target sees and feels.** He is given time to understand it, which is
+the working's design and its flaw at once. The blade *"darkens into geometric
+iron-black facets as the strike builds"*, the air pulls inward just before it
+falls, and the windup and strike together run about three seconds — long enough
+for a competent opponent to do almost anything else. Then it lands with what the
+page calls *"a verdict-like thud"*, and armour rated for less than B-Grade force
+buckles rather than turning it. Against a target holding no doubt it is a heavy
+downward blow at the S band. Against a target holding a great deal, it is twice
+that, and the target has no way to tell from outside which one he has just been
+hit by. The cruelty of the thing is in the coupling: **the reading that finds his
+hesitation is the same reading that telegraphs the strike**, so the more carefully
+Drakvor measures the man, the longer the man has to leave. That is the page's own
+Limitation, in the page's own words — *"the same mechanism that reads the
+target's doubt also telegraphing the strike itself."*
 
 **What bleeds, at the stated efficiency.** η ≈ 0.55 (card): **45 percent** of every
 expenditure as heat, sound and structural bleed. On an instantaneous working that bleed
@@ -235,3 +270,69 @@ to Isaac as `SA-PHYS-TN-THROUGH-A-BLADE`.
 `SA-NUM-EDICT-SS-PUSH`, `SA-NUM-ETA-TIER`, `SA-GAP-TURN-LENGTH`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass, weakly** | *"Aether strain through his wrists and shoulders with every full swing."* It is located in tissue, it is per-use rather than per-scene, and it accumulates in the joints the working depends on — but there is no figure, no fraction of reserve, and no stated point at which the arm stops answering (`SA-GAP-EU-FORMULA`). For a technique that doubles its own output, this is the thinnest cost in the batch after `Dreambreaker Field`. |
+| Stated limits | **pass** | Melee range, one named target, a single committed downward strike; **the windup is slow and telegraphs itself**; roughly three seconds from commitment to landing; the doubling requires doubt that is actually there. |
+| Something beats it | **pass, three ways** | Resolve, speed, or evasion — all named, all available below his Stage. |
+| It has a tell | **pass, the strongest on any offensive page here** | Facets darkening across the blade, then the air drawing inward. The page treats the tell as a design feature rather than an oversight, which is the right instinct. |
+| Numbers in band | **flagged, already logged** | Stage VIII ⇒ Max Grade S (401–550), ceiling 550, Tier 6 (Part Five); card Gnosis 430 and Ardency 415 both S ✓. But the doubled impact leaves the S band — the page defends it by appeal to *"Stage VIII's own late push … toward SS-Grade"*, which is a reading of Part Five rather than a rule it states (`SA-NUM-EDICT-SS-PUSH`). η 0.55 against the Tier 6 floor of 0.70 (`SA-NUM-ETA-TIER`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the man — by not being readable, which is the page's own Counter.** A
+  Resolve-aligned Wellspring keeps a target's doubt *"from registering at all"*,
+  and the doubling is gone. This is the register's **Rigidity** inverted: instead
+  of presenting him with the situation his law handles worst, deny his law its
+  input. The interesting consequence for a player is that the counter is a state
+  of mind with a Wellspring behind it, so *being* fearless is not enough — it has
+  to be fearlessness the reading cannot find a seam in.
+- **Break the body — three seconds and a straight line down.** *"Distance. …
+  Most practitioners are a threat about closing range."* This one is melee-only
+  with a telegraphed windup. High-speed repositioning or a sublimation-type
+  evasion gets a body out from under it before it lands, and the page says so.
+  Compare *"Armour tiers"*: nothing under proofed plate is relevant here, since
+  the strike buckles anything rated below B-Grade, so the answer is not to wear
+  more but to not be there.
+- **Break the boundary — the commitment, not the blade.** The strike is
+  *committed to* against a named target. Interrupt the commitment — a second
+  threat appearing inside the three seconds, a grapple, an ally stepping in — and
+  the working is not weakened, it is **not performed**, because it exists only as
+  a completed downward swing.
+- **Deny the field — marginal.** Families **Fulguria / Materia**: *"Fulguria
+  fails against boiled leather, fired clay, dense fog and a shielded interior"*,
+  which reaches Judicium's reading half. In fog he can still swing; he cannot
+  read as well what he is swinging at.
+
+**The tell, stated plainly.** Facets crawl black across the blade, the air draws
+in, and then it comes straight down. Three seconds, every time, and the better he
+has read you the longer you have had.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Edict Strike.md` — the Limitation (the reading telegraphs the
+   strike) and the Weakness (agile or genuinely fearless targets).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Rigidity",
+   "Distance", "Armour tiers".
+3. `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md`
+   — the force bands, so a reader can work out what 0.5–2 TN does to what they are
+   wearing, and what doubling it would mean.
+4. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four for the S band and the standing differential rule; Part Five for
+   whether an SS "late push" at Stage VIII is a thing the system actually grants.
+5. `wiki/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md`
+   — Judicium's law of discernment, which is what is reading the hesitation.
+6. `wiki/Volume I — Character Cards/Drakvor · The Black-Crowned Bastion.md` —
+   Ardency 415, glossed on the card as *"enough to end a siege engine, not to
+   overwhelm a city"*, and Dexterity 355, which is how fast the windup is not.
+
+**Conflicts added by this section:** `SA-EM-EDICT-DOUBT-AS-MASS`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

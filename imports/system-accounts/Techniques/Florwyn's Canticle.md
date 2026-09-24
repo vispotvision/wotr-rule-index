@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** Wounds inside earshot close over minutes instead of
+**The phenomenon in plain words.** Wounds inside earshot close over minutes instead of
 days, and plants come up out of the ground while the singing lasts.
 
 **The real phenomenon.** The **wound-healing cascade**, driven from outside and at
@@ -136,9 +136,29 @@ The warning sign is a Trait acting when the bearer did not will it"
 (`The Core Vocabulary` §VI). Emotional Vulnerability is an Attraction-Layer cost:
 a working sustained by recognition is legible to anyone reading for it.
 
+**The lens: Ficino's musical medicine.** Marsilio Ficino, *De vita libri tres*
+(1489), Book III: song is the most effective of medicines because it moves in the
+same medium as the *spiritus* — air, breath, motion — and so reaches the vital
+spirit directly where a drug has to be digested first. Ficino sang his own
+Orphic hymns to a lyre for his health and recommended matching the mode to the
+patient. It is superseded medicine and it is the correct lens here, because the
+Canticle is not a spell that happens to be sung: it *"functions only while the
+hymn runs unbroken"*, and cutting the sound ends it. Verdantia's current is being
+routed **through her voice**, which is a Ficinian sentence exactly. The lens also
+predicts the page's two costs rather than merely decorating them. Ficino insisted
+the singer's own affect must be genuinely in the song or it does nothing, and the
+page bills her for precisely that: *"the hymn leaves her own emotional state
+legible to anyone reading for it."* The sincerity that makes it work is the
+sincerity that exposes her. And the misreading is the one a school of healers
+would fall into with the best of intentions — if more affect makes a better
+medicine, pour more in. That produces a singer who is entirely readable to an
+empathic enemy and whose inherited echo of Florwyn's Ground is being pulled closer
+than is safe to hold, which is the page's own **Lineage Strain**. The better the
+hymn, the more of the singer is in the room for anyone who cares to look.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Ser]` **Renewal** · Root · Wyther —
 the only form among the thirty that names this kind of limit, and it names it
@@ -179,6 +199,23 @@ propagule and microbial load, neither of which is visible.** A secondary
 **Structural fault** sits behind the Lineage Strain: a Crystal holding an Inherited
 law harder than it can guide is Overgrowth, and the page's own cost names the
 entanglement risk.
+
+**What the target sees and feels.** Singing, unbroken, and then wounds behaving
+oddly well. Injuries *"visibly seal as small growth breaks the skin and
+withdraws"* — not a clean closure but a botanical one, tissue answered by the same
+current that is putting vines and blossoms up out of the ground around her. The
+help is **gradual**, which is the honest part: nothing snaps shut, an injury that
+would otherwise take days closes over minutes of continuous singing, and *"a
+fractured Essence line stops spreading rather than reversing outright."* Nobody
+gets a limb back. Range is thirty metres, strongest inside ten, and it reaches
+every open injury and fractured Essence line within earshot without her choosing
+between them — friend and enemy alike, if an enemy is bleeding inside thirty
+metres. To an opponent the working is therefore a sound to be stopped rather than
+a target to be hit, and the page agrees: *"cut the sound and the hymn collapses
+before it completes."* Ground where nothing lives gives it very little to answer
+with, and a Mortalis-aligned current does worse than resist — it *"actively
+corrupts what the hymn is doing"*, which means the fight over the wounded can be
+won by making the healing go wrong rather than by making it stop.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card): **30 percent of every
 expenditure leaves as heat, sound and structural bleed**. In a working whose output
@@ -224,3 +261,74 @@ nothing in the system forbids it.
 **Conflicts logged from this page:** `SA-NUM-CANTICLE-DURATION`,
 `SA-NUM-CANTICLE-PATHGATE`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | **Lineage Strain** — pushing it hard *"pulls her inherited echo of Florwyn's Ground closer than is safe to hold"*, which is an escalating threat of entanglement rather than fatigue — and **Emotional Vulnerability**, since the hymn exposes her state to anyone reading for it. The second is a genuinely unusual cost because it hands an opponent *information*, which is the currency the whole Counterplay register trades in. Unpriced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and they are honest about what healing is** | 30 m, strongest within 10 m; up to 4 turns sustained; **the hymn must run unbroken**; healing is gradual, **cannot restore a severed limb**, and a fractured Essence line is only *stopped*, not reversed; it needs living tissue nearby to work with. |
+| Something beats it | **pass, and the first route costs nothing** | Silence her, sterilise the ground, or corrupt the current. |
+| It has a tell | **pass, maximal** | She is singing, continuously, and cannot stop without ending it. There is no version of this working that is covert. |
+| Numbers in band | **pass on Grade, one internal contradiction logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); Tempering 470 is S, a full Tier above the floor (Part Four), and Tempering is the right Primary for an inherited routing. But **the page's own duration and its own effect text disagree**: *"up to 4 turns sustained"* is 12 s or 20 s depending on which turn-length this batch uses, and the effect requires *"minutes of unbroken singing"* (`SA-NUM-CANTICLE-DURATION`, `SA-GAP-TURN-LENGTH`). The reinforcement component is also Body-gated while the page designates Spirit (`SA-NUM-CANTICLE-PATHGATE`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — the anchor is a sustained sound.** Stage VI is below
+  Refraction, so an external anchor is required, and this working's anchor is the
+  *voice, held continuously*: the most takeable anchor in the batch. *"Put a hand
+  over his mouth and a spoken one is"* finished. Not a strike, not a ward — noise,
+  a gag, a grapple, a wound to the throat, or anything that makes her stop for one
+  breath.
+- **Deny the field — ground that cannot answer.** *"Choose the ground by
+  Family."* Family **Vitalia**, and the page is explicit that *"a dead or
+  sterilised patch of ground gives it nothing to answer"*, and that the hymn
+  *"works best where something is already alive nearby."* Fighting on stone, in
+  ash, in a scoured vault, or on ground that has already been burned turns a
+  thirty-metre field hospital into a woman singing. The Counterplay register gives
+  no terrain line for Vitalia, so this has to be read off the Family page
+  (`SA-GAP-COUNTERPLAY-TERRAIN`).
+- **Deny the field — corrupt rather than block.** *"A Mortalis-aligned current
+  resists or actively corrupts what the hymn is doing."* The distinction matters
+  tactically: blocking the Canticle leaves the wounded as they were, and
+  corrupting it makes being healed worse than being left alone.
+- **Break the man — read the state she has exposed.** *"Make him hold Pressure
+  in"* has a direct analogue here, except that she cannot hold it in at all while
+  singing. An empathic opponent reads her emotional state as a matter of course
+  during the hymn, which means the Canticle is also a standing intelligence leak
+  about what she is afraid of losing.
+- **Break the body — she is stationary, audible and committed.** Four turns of
+  continuous singing inside a thirty-metre radius is four turns of a known
+  position. *"A volley is a volley."*
+
+**The tell, stated plainly.** Someone is singing without stopping. That is the
+entire tell and it cannot be reduced, because the hymn *is* the working.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Florwyn's Canticle.md` — the Limit (gradual; no limbs; needs
+   living tissue) and the Counter (cut the sound; Mortalis).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Interrupt
+   the chain", "Choose the ground by Family", "Make him hold Pressure in".
+3. `wiki/The Magic System/The Four Crafts.md` — Law V, and why a Stage VI working
+   hangs on voice.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Vitalia — Biochemistry.md` —
+   Verdantia's law, Mortalis as its opposite number, and the Family's
+   Environmental Coupling, which is where "sterile ground" becomes a rule rather
+   than a mood.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Seven, Vitality Regeneration's Body-Path gate on reinforcing healed
+   tissue, which this page's Spirit designation does not meet.
+6. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`
+   — Florwyn's Ground, the inheritance the Lineage Strain is straining against.
+
+**Conflicts added by this section:** `SA-GAP-COUNTERPLAY-TERRAIN`. The page's
+Effect and Mechanism agree — the hymn accelerates the body's own wound-closure
+chemistry and the vines are the same current finding other tissue — so no
+`effect-mechanism` conflict arises; its faults are the duration and the Path gate,
+both logged before this section.

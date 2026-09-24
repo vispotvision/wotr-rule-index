@@ -692,6 +692,202 @@
    "kind": "fact",
    "fact": "Vesk ends the night writing the division in the book's margin.",
    "quote": "Then he went to the shelf for the book and wrote the division in the margin."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "object",
+   "fact": "Day 2, fourth division: Deming enters the second tranche of the Swale supply in the Swale book's wastage column, in his own hand, in figures and in words.",
+   "quote": "The second tranche went out of the Swale book at the fourth division, in Deming's hand, in the wastage column."
+  },
+  {
+   "ch": 4,
+   "subject": "the Swale book",
+   "kind": "fact",
+   "fact": "Four years of wastage at the array ran flat quarter by quarter; this quarter the first tranche (small) and the second make a step in the column.",
+   "quote": "The column went down the page without a step in it anywhere."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "number",
+   "fact": "Deming has kept the Swale page himself for three of its four years.",
+   "quote": "He had kept this page himself for three of those years."
+  },
+  {
+   "ch": 4,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas sent for Deming to the coldhouse after the ninth division (the work already named) and ordered the Project name onto the letter; Deming argued against it with the precedent, and Malphas answered only 'I would prefer the file be built off a word I chose.'",
+   "quote": "He had sent for him to the coldhouse after the ninth division, when the work already had its name, and told him there, while Deming stood by the door with his hat in his hands and the rain on his shoulders and argued."
+  },
+  {
+   "ch": 4,
+   "subject": "the covering letter",
+   "kind": "object",
+   "fact": "The Xu covering letter to the Logistics factor names the account as Project Zombification, second tranche, in Deming's copying hand.",
+   "quote": "On the account of Project Zombification, second tranche."
+  },
+  {
+   "ch": 4,
+   "subject": "the covering letter",
+   "kind": "object",
+   "fact": "The letter names Verdantia: the second tranche drawn down as wastage for loss at the array housings.",
+   "quote": "The second tranche of Verdantia under the Swale supply contract drawn down against it as wastage and entered this day in the house's book."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "lie",
+   "fact": "Deming gives the cause of the loss as the thaw; this is his own false cover, in the letter and aloud ('What keepers say in a thaw').",
+   "quote": "Cause: the thaw."
+  },
+  {
+   "ch": 4,
+   "subject": "the covering letter",
+   "kind": "object",
+   "fact": "Deming signs the letter for the house and presses the Xu chop under the signature in red paste.",
+   "quote": "He wrote the house's compliments, and signed for the house, and pressed the chop beneath the signature in red paste out of the lacquer box, rocking it once each way so the corners took."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "number",
+   "fact": "Deming privately counts thirty-one days left of his usefulness to Malphas (counted on the house almanac).",
+   "quote": "Thirty-one days of a man who held the contract, and the pen, and the chop, and was useful."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "fact",
+   "fact": "Deming knows Malphas counted the thirty-one days before he did and let him argue anyway.",
+   "quote": "Malphas had counted them already."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "number",
+   "fact": "From the house's own copies of old returns, Deming derives eleven weeks from the factor taking the page to the published Logistics return coming back down the river.",
+   "quote": "It came out at eleven weeks."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "name",
+   "fact": "The Logistics factor stays unnamed; Deming knows his name and has never used it; the house calls him the factor.",
+   "quote": "Deming had known his name for years and had never once used it."
+  },
+  {
+   "ch": 4,
+   "subject": "the Xu house",
+   "kind": "fact",
+   "fact": "The Xu counting house is still on the main; per the factor, half the Swale is off it.",
+   "quote": "Half the Swale's off it."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "fact",
+   "fact": "Deming tells the factor the carters' notes are clean and every cart up the Swale road this quarter went full (true).",
+   "quote": "Every cart that went up the Swale road this quarter went up full and was entered full."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "fact",
+   "fact": "The factor pushes to move the loss into carriage on the house's bond; Deming holds it to wastage and the factor accepts it on his word.",
+   "quote": "Wastage. On your word."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "promise",
+   "fact": "Deming tells the factor that in eleven weeks the capital will see a bad spring on the Swale line, and asks for it noted.",
+   "quote": "In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring."
+  },
+  {
+   "ch": 4,
+   "subject": "the factor's pocket-book",
+   "kind": "object",
+   "fact": "The factor writes Deming's words, with the division, in his black oilcloth pocket-book.",
+   "quote": "'Xu says bad spring. Swale. Fifth division.'"
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "misreading",
+   "fact": "Deming concludes the factor is a carriage man who lost interest in the Swale page once carriage was lost to him. Not true: do not treat as fact.",
+   "quote": "Once the carriage was lost to him, the Swale page was the capital's trouble and no longer his."
+  },
+  {
+   "ch": 4,
+   "subject": "the covering letter",
+   "kind": "object",
+   "fact": "The factor reads the second line twice and makes a small hooked mark in the margin beside it: neither his query cross nor his initial; Deming has never seen it. Uninterpreted.",
+   "quote": "A short downstroke with a hook at the foot of it, turned to the left."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "object",
+   "fact": "The quarter's returns, with the house's Swale page, go into the front of the factor's satchel in a string bundle.",
+   "quote": "The quarter's returns went in at the front, the house's Swale page with them, in a bundle with a string round it that he tied off with his teeth and one hand."
+  },
+  {
+   "ch": 4,
+   "subject": "the covering letter",
+   "kind": "object",
+   "fact": "The letter goes apart from the returns, into a flat folder between two boards at the back of the factor's satchel.",
+   "quote": "It went into the back of the satchel, into a flat folder between two boards, and the boards were pressed shut on it and the strap buckled over."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "lie",
+   "fact": "The factor's lie: covering letters go in the stove at quarter-day. The letter was filed flat between boards; his 'I've still got a...' self-repairs to 'Stove had it.' Do not treat as true.",
+   "quote": "Covering letters stop on my desk and go in the stove at quarter-day."
+  },
+  {
+   "ch": 4,
+   "subject": "Deming",
+   "kind": "fact",
+   "fact": "Deming tells the Hollow Shaft story aloud to the factor, as a joke about careless men.",
+   "quote": "That is how they found the Hollow Shaft people."
+  },
+  {
+   "ch": 4,
+   "subject": "the Hollow Shaft precedent",
+   "kind": "fact",
+   "fact": "Hollow Shaft, twenty years ago: a cell; the hand was never found; the payer was found by one name in a private letter and amerced to his means.",
+   "quote": "They never found the hand, the one that did the work, never found him at all."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "fact",
+   "fact": "If the Division wants Xu, it will wire: 'Xu, Swale, explain.'",
+   "quote": "Nine words."
+  },
+  {
+   "ch": 4,
+   "subject": "the Logistics factor",
+   "kind": "object",
+   "fact": "The factor leaves upriver on foot along the river road with the satchel (and the letter), not looking back.",
+   "quote": "The factor came out below onto the river road and turned upstream along it, stooping, with the satchel against his hip and one mitt resting on the flap."
+  },
+  {
+   "ch": 4,
+   "subject": "Day 2",
+   "kind": "time",
+   "fact": "The chapter runs Day 2 from the fourth to the sixth division.",
+   "quote": "Down the river the bell began on the sixth division."
+  },
+  {
+   "ch": 4,
+   "subject": "the blotter",
+   "kind": "object",
+   "fact": "The blotter on the low table by the stove carries the letter's second line in reverse, in Deming's copying hand.",
+   "quote": "The second line was there, pale blue and backwards, in the house's best copying hand, which was his."
   }
  ],
  "hooks": [
@@ -1006,7 +1202,14 @@
    ],
    "planted_ch": 4,
    "due_ch": 22,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 4,
+     "what": "Deming privately counts thirty-one days of usefulness on the almanac and knows Malphas counted them first.",
+     "quote": "Thirty-one days of a man who held the contract, and the pen, and the chop, and was useful."
+    }
+   ]
   },
   {
    "hook_id": "H17-eleven-weeks",
@@ -1019,7 +1222,14 @@
    ],
    "planted_ch": 4,
    "due_ch": 47,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 4,
+     "what": "Deming tells the factor the capital will see a bad spring in eleven weeks, from his own derivation off the house's copies, and has it noted in the factor's book.",
+     "quote": "In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring."
+    }
+   ]
   },
   {
    "hook_id": "H18-the-project-name-is-the-file",
@@ -1032,7 +1242,14 @@
    ],
    "planted_ch": 4,
    "due_ch": 57,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 4,
+     "what": "The covering letter's second line names Project Zombification on Malphas's order ('a word I chose'); the factor marks it and files it apart, lying that it goes in the stove.",
+     "quote": "On the account of Project Zombification, second tranche."
+    }
+   ]
   },
   {
    "hook_id": "H19-the-hollow-shaft-people",
@@ -1045,7 +1262,14 @@
    ],
    "planted_ch": 4,
    "due_ch": 58,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 4,
+     "what": "Deming tells the Hollow Shaft story to the factor as a joke about careless men, thumb going round the hat brim.",
+     "quote": "That is how they found the Hollow Shaft people."
+    }
+   ]
   },
   {
    "hook_id": "H20-the-field-manual-paragraph",
@@ -1270,6 +1494,11 @@
    "ch": 3,
    "title": "The Morning Check",
    "summary": "Day 1, noon to the ninth division. Wystan wakes with his hands shaking. He recalls Keld's minute, then reads the written record against it word for word. It has not moved. At the medical house the porter admits him by his face, because his brass is on the tin lid at Cutler Row. Keld sits at the window counting under his breath at something Wystan cannot find. He asks \"Is that them\" and says \"They said the sixth.\" At the day desk Prime Warden Elspeth Lyle reads the edges memorandum and calls the file a curiosity. The Register may keep it open until the quarterly inspection of the gauge-housing and not a day longer. In the upper passage Brack stands by bleed and hands over the Bureau's raw Ferriby field sheets unasked. In Lyle's shut room the position and the term go into her minute in ink, under her silver, and he initials both. Residue settles on his skin and he does not remark it. Lyle orders the sheets entered as received unasked and denies sending for Brack. At the ninth division Wystan tells Brack: \"I will get a hand and not a purse.\""
+  },
+  {
+   "ch": 4,
+   "title": "A Number in the Room",
+   "summary": "Day 2, fourth to sixth division, Xu counting house. Deming enters the second tranche of the Swale supply as wastage at the array, where four years of the column had run flat. He writes the covering letter in the house form. Its second line reads \"On the account of Project Zombification, second tranche\", as Malphas ordered against his argument. The cause given is \"the thaw\", signed for the house under the Xu chop. On the almanac he privately counts thirty-one days of usefulness and knows Malphas counted them first. He derives eleven weeks to the Logistics return from the house's own copies. The Logistics factor, unnamed, queries the step in the column and pushes to move the loss into carriage on the house's bond. Deming holds it to wastage. He tells the factor that in eleven weeks the capital will see \"a bad spring\", and has it noted in the factor's pocket-book with the division. The factor reads the letter's second line twice and makes an unexplained hooked mark beside it. He files it between boards, says covering letters go in the stove, and leaves upriver with it after Deming tells the Hollow Shaft story as a joke."
   }
  ]
 }

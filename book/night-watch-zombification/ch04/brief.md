@@ -1,10 +1,8 @@
-# Brief — Chapter 4, "A Number in the Room"
+# Brief — chapter 4: A Number in the Room
 
-Book: night-watch-zombification. Thread: Wystan Ashmore. Culture: Accord. Assembled 2026-09-24 from outline.json, bible.md, state.json and the read-only book tools. Nothing here is written to the table.
+Book: night-watch-zombification. POV Xu Deming. Scene type talky. Front: the-swale-wastage (proposed). No ESCALATE: the docket is empty for these tags.
 
 ## The beat
-
-Outline row (verbatim):
 
 ```json
 {
@@ -32,18 +30,16 @@ Outline row (verbatim):
 }
 ```
 
-### Hooks this chapter must plant
+### Hooks this chapter must plant (pays: none)
 
-- **H16-thirty-one-days** (planted ch4, due ch22, status planned). Deming: thirty-one days of usefulness left, and Malphas has already counted them. Paid on the thirty-first day. Keywords: thirty-one, days, counted, useful.
-- **H17-eleven-weeks** (planted ch4, due ch47, status planned). 'In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.' Paid when the Logistics return publishes. Keywords: eleven weeks, Logistics, return, Swale.
-- **H18-the-project-name-is-the-file** (planted ch4, due ch57, status planned). 'I would prefer the file be built off a word I chose.' Every letter names Project Zombification. Paid when the Bench titles the file by the word and every thread ends in it. Keywords: Project Zombification, word, file, chose.
-- **H19-the-hollow-shaft-people** (planted ch4, due ch58, status planned). 'That is how they found the Hollow Shaft people. They found a name in a private correspondence.' Paid when the precedent is read into the record at Deming's hearing. Keywords: Hollow Shaft, correspondence, name, precedent.
+- **H16-thirty-one-days** (planted_ch 4, due_ch 22, status planned). Deming: thirty-one days of usefulness left, and Malphas has already counted them. Paid on the thirty-first day. Keywords: thirty-one, days, counted, useful.
+- **H17-eleven-weeks** (planted_ch 4, due_ch 47, status planned). 'In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.' Paid when the Logistics return publishes. Keywords: eleven weeks, Logistics, return, Swale.
+- **H18-the-project-name-is-the-file** (planted_ch 4, due_ch 57, status planned). 'I would prefer the file be built off a word I chose.' Every letter names Project Zombification. Paid when the Bench titles the file by the word and every thread ends in it. Keywords: Project Zombification, word, file, chose.
+- **H19-the-hollow-shaft-people** (planted_ch 4, due_ch 58, status planned). 'That is how they found the Hollow Shaft people. They found a name in a private correspondence.' Paid when the precedent is read into the record at Deming's hearing. Keywords: Hollow Shaft, correspondence, name, precedent.
 
-### Hooks this chapter pays
+Planting means the keyword line reaches the page in Deming's mouth, hand or private count. H16's thirty-one days is Deming's private count (card XIV); H17's eleven weeks and H19's Hollow Shaft line are spoken to the factor; H18's word is written in the covering letter's second line. Nothing here pays; no hook is due for payment in ch4.
 
-None (the outline row's `pays` is empty).
-
-### Front tick (proposed Front, from bible.md)
+### The Front tick (proposed Front from bible.md, verbatim)
 
 ### the-swale-wastage (Deming / the Logistics clock) — 5 segments
 - **Want (Deming's):** to survive the column he wrote. **Clock:** eleven weeks to the return; thirty-one days of usefulness.
@@ -53,27 +49,24 @@ None (the outline row's `pays` is empty).
 4. **The return.** The Swale column published and read on both sides. Ch47, 48, 52.
 5. **The payer.** The writ, the testimony, the verdict and the reservation. Ch56, 59, 60.
 
-**This chapter's tick:** segment 1, "Diversion", first of its three pushes (ch4, 9, 11; ch11 fills it). Mention is not advancement (bible): the world changes here when Deming draws the second tranche of Verdantia off the Swale supply contract and books it as wastage, and when the covering letter exists in his own hand with "Project Zombification" in its second line. The POV sees the consequence: the purse now has paper on it, and the clock starts in his own count (thirty-one days of usefulness, H16; eleven weeks to the Logistics return, H17). The segment is not filled (the salt-relief contract is ch9/ch11). `front_id` stays null; nothing is written to `table/fronts.yaml` (needs `add_front` on Isaac's word).
+**This chapter's tick:** segment 1, *Diversion*, first of its three pushes (ch4, 9, 11): the second tranche of Verdantia is drawn off the Swale supply contract as wastage and the covering letter carries the Project name in Deming's hand. The world changes (paper now exists, in his hand, carrying the word) and the POV sees the consequence. The clock starts on the page: eleven weeks to the return, thirty-one days of usefulness. The audit after ch5 records this Front at 0/3 because ch4 had no text; mention is not advancement.
 
 ## Protocol
 
 `desktop/NATALIE.md` governs the drafting, with these chapter adaptations:
 
-- **No turn-taking.** Table Rule 1's first half (answer what the PC did, stop at his next decision) is off: this is a chapter, not a turn. Its ending rule stays: end on an NPC line, a physical action, or a thing the POV can now see, never on a question aimed at the reader or Isaac.
-- **No PC in this book.** The standing book rule from bible.md applies in its place: **neither Wystan nor Malphas ever learns of the other.** This is a crew chapter (Deming POV): Malphas is seen, never entered, and here he is not in the room at all — he reaches the page only as orders already given, the days he has counted, the word he chose. If the cell's hunter comes up, it is only as "the Night Register" (a form, an institution; at most "a desk on Cutler Row with a brass token"), never Wystan's name, face or any trait the reader could match. Nothing noticed across that line is ever paid as recognition, and the narration never winks at the reader who knows both (the voice note's anti-exemplar is exactly what is forbidden). The Hollow Shaft story must read as Deming's fear of paper, not as a forecast of Wystan.
-- **Length:** 3,500 words, set-piece band (Table Rule 2: set piece 2,500 minimum with full scene standards; the ch3 gate used 2,975–4,025), although the scene type is talky.
-- **One deliberate lie by an NPC** (Table Rule 8) and **one misreading by the POV character** (R6-4, R5-C1), both declared verbatim in the notes. With only Deming and the factor in the room, the lie belongs to the factor (Deming's own false column is the beat's diversion, a written falsehood, and does not count as the NPC lie). Deming's misreading should be his own well-reasoned wrong inference (for example about how the return will be read, or what a named project protects him from); it must not be one of the bible's Wystan-side misreadings.
-- **Italic thought:** R39-7 binds (bible, POV and narration): only the POV (Deming) thinks in italics; the factor gets no private italic thought. The source gave Deming italic thoughts inside Vesk's POV; here he is the POV, so his thought is legitimate.
-- **Numbers:** none invented; numbers reach the page only in a mouth, an instrument, a document or a private count (R14-4, R12-5). Thirty-one days and eleven weeks are Deming's own estimates from the source (card, footer) and may stand as private count and speech. The Swale column's figures are a document: keep any value either as quoted in the source ("two myriads" is Deming's own figure there; bible Flags) or unquantified. Deming's card is a stub with every stat "pending Isaac": no Level, Stage, Band or Grade for him reaches the page.
-- **Register:** crew chapter, run in the POV's craft: **Deming's columns** (voice note). Careful diction; hat in his hands, thumb round the brim when afraid (card). The book's clock is the hum and the moment it stops. The dead are reported flat.
-- **Names:** Deming's courtesy name and generation character stay off the page (bible Flags; R23-10); the narration uses "Deming". The factor is an unnamed role (bible, Originated) — do not name him. Nella Stower (Logistics, the Swale returns desk) is the named Logistics officer for later chapters; she is not in this chapter's cast. The Hollow Shaft file's contents (a cell twenty years ago, a payer amerced to ruin off one name in correspondence, the hand never found) are the planner's originated reading (bible Flags).
-- **Article XV:** Deming knows Article Fifteen puts the liability on the payer and that the payer is him (card, XIV). Its *de voce* scope and the analogy reading are the bench's business in ch59; Deming need not state the law's scope beyond what the card gives.
+- **No turn-taking.** Table Rule 1's answer-the-PC half is off; there is no PC to answer and no decision to stop at. Its ending rule stays: end on an NPC line, a physical action, or a thing Deming can now see; never on a question aimed at the reader or at Isaac.
+- **There is no PC in this book.** The standing book rule from bible.md applies: neither Wystan nor Malphas ever learns of the other, and nothing noticed across that line is paid as recognition. For ch4: Deming knows the hunter at most as "the Night Register" / an Accord file-builder in general; no Wystan, no Cutler Row desk named as a person, no wink. Malphas is seen, never entered (only Deming thinks in italics, R39-7), and Malphas is not in this room; he is present only as the order Deming carries out and the days he has counted.
+- **Length:** target 3,500 words at the set-piece band (Table Rule 2: set piece 2,500 minimum with full scene standards).
+- **One deliberate lie by an NPC** (the Logistics factor, not the POV) and **one misreading by Deming**, both declared in the notes. Deming's lie in the column is his own act, not the NPC lie.
+- Crew-chapter idiom (bible voice note): Deming's craft is columns; the chapter runs in figures, tranches, lines and the ledger's rule. The dead are reported flat. Numbers reach the page only in a mouth, an instrument, a document or a private count (R14-4, R12-5); his card has no figures, so originate none for him.
+- Book flags that bind here: Deming's courtesy name and whether "Deming" is given or courtesy stay off the page (R23-10); narration uses "Deming". The city is unnamed; the return is read "in a room in the capital". The Hollow Shaft file's contents are originated by the bible (a cell twenty years ago, a payer amerced to ruin off one name in correspondence, the hand never found). Divisions, not Guild hours.
 
-### Standing Inventory (from `session_start "Wystan Ashmore" talky Accord`, # STANDING INVENTORY section only)
+### Standing Inventory (from `session_start "Wystan Ashmore" talky Accord`, "# STANDING INVENTORY" section only)
 
-### STANDING INVENTORY
+# STANDING INVENTORY
 
-### THE STANDING INVENTORY: THE GUILD ACCORD AND THE CONCORD
+# THE STANDING INVENTORY: THE GUILD ACCORD AND THE CONCORD
 
 Note: the sources give no Concord greeting, no everyday swearing and no idiom for the items marked (d); each is derived in one step from an attested fact (the live main, the witness clause, the cased weight, the silver token, the freeman by redemption, the tongue nobody dreams in) and chosen as the plainest option. Everything else is attested in the wiki mirror.
 
@@ -83,13 +76,9 @@ Chartered, metered and entered. A people who did not conquer anybody and are the
 
 ---
 
----
-
-Book's recurrence set (bible.md): the hum and the moment it stops; the meter, its seal and the bill; the small hammer and the dull note of a cased weight; the nine-word wire; the roll and the entry in ink. For a counting-house chapter the inventory's Exchange line is the natural field (the letter of credit against a factor house, the entry in ink, the bill, amercement set to means, the silver mark of twenty-four copper, "A melted coin does not testify").
-
 ## Rule loadout
 
-`load_rules prose-law dialogue register pov naming --brief` (tags from `loadout talky`):
+`load_rules prose-law dialogue register pov naming --brief` (tags from `loadout talky`), whole output:
 
 -- 309 rules for tags ['dialogue', 'naming', 'pov', 'prose-law', 'register']
 
@@ -1024,17 +1013,13 @@ R1-3-NAME_THREE_RULE  [Pack One Amendment Three]  live
 
 `check_docket prose-law dialogue register pov naming`:
 
-```
 -- 0 pending/proposed for ['dialogue', 'naming', 'pov', 'prose-law', 'register']
-```
 
-Nothing pending or proposed; no escalation.
+Nothing pending or proposed touches these tags; nothing changes what this chapter must do.
 
 ## Scene brief
 
-`scene_brief "<beat>" --thread "Wystan Ashmore" --type talky --culture Accord --cast "Xu Deming" "a Logistics factor"` (loadout dropped; it is §3). Note: the tool heads its brief with the thread name; the POV for this chapter is Xu Deming.
-
-#### Fill before drafting (author notes)
+### Fill before drafting (author notes)
 1. POV: ____  (write from whoever knows least about what is coming, R5-C1-WRITE_FROM_LEAST_KNOWING; a default, breakable with reason)
 2. This POV knows: ____ | wrongly believes: ____ | the reader knows that they do not: ____  (R5-C1-INFO_TRACKED_PER_POV)
 3. Ignorance quota, one thing the POV notices and cannot interpret, unresolved this scene: ____  (R6-3-IGNORANCE_QUOTA)
@@ -1045,24 +1030,20 @@ Nothing pending or proposed; no escalation.
 8. Ends on: ____  (physical action, an NPC line, or a thing he can now see; never a question at Isaac. Table Rule 1)
 9. Length band: ____  (conversational 300–700 / standard 700–1,500 / set piece 2,500+; default the middle. Table Rule 2)
 
-#### FOW lines (never invent a number)
-### Xu Deming  (Volume I — Character Cards/Xu Deming.md)
+### FOW lines (never invent a number)
+#### Xu Deming  (Volume I — Character Cards/Xu Deming.md)
 **Level / Stage / Band.** Pending Isaac.
-##### IV–V · Stats
+#### IV–V · Stats
 Pending Isaac.
-##### VI–VII · Force and Flow
-##### VIII–IX · Traits and Domain
-##### XVI · Temperance Record
+#### VI–VII · Force and Flow
+#### VIII–IX · Traits and Domain
+#### XVI · Temperance Record
 
 no card for 'a Logistics factor' in the wiki mirror; check Notion before writing anything numeric about them
 
-(No FOW line for "a Logistics factor": no card in the wiki mirror.)
-
 ## Previous chapter
 
-Last ~1,500 words of `ch03/final.md` ("The Morning Check", Wystan POV), raw, cut at a paragraph boundary:
-
-The passage ran back from the day desk over the hum, the whole length of the house, to the scullery. The tin was on the sill where he had left it. His brass lay on the lid, worn smooth at the rim, the Division's device uppermost.
+Last ~1489 words of `ch03/final.md` (The Morning Check, Wystan POV), raw, cut at a paragraph boundary:
 
 He picked it up first.
 
@@ -1190,14 +1171,12 @@ Brack got up off the bench, and settled his coat, and pulled the spectacles down
 
 ## Cast
 
-### Xu Deming (POV)
+### Xu Deming (no state.json facts yet: full card)
 
-state.json holds no facts about Deming, so the full card (`character "Xu Deming"`, under 6,000 characters):
-
-### Xu Deming  (Volume I — Character Cards/Xu Deming.md)
+Xu Deming  (Volume I — Character Cards/Xu Deming.md)
 
 
-### Xu Deming
+#### Xu Deming
 
 #### Xu Deming
 
@@ -1266,201 +1245,295 @@ Pending Isaac.
 
 *Source: The Night's Watch (scenes/the_nights_watch.md). The Swale-line figures (the cost of the third dilution, eleven weeks, thirty-one days) are his estimates as spoken in the scene.*
 
-### A Logistics factor
+bible.md line: **Xu Deming.** Card stub. The purse. Hat in his hands, thumb round the brim; careful diction; thirty-one days, eleven weeks. Convicted as payer ch60, refuses to name the hand.
 
-No card (`character "a Logistics factor"`: no card in the wiki mirror). bible.md line (Originated, unnamed roles): "a Logistics factor". No state.json facts. Everything about him (house, appearance, voice, his want in the argument, his lie) is the writer's to originate in the notes; keep him unnamed and numberless.
+### A Logistics factor (no card; no state.json facts)
+
+bible.md line: **Unnamed roles:** a carter on the Swale road (and the carter behind him); a Logistics factor; the Xu hall senior (Deming's uncle); a knife-man hired by the Xu hall; Deming's advocate; the three chairs of the Bench (Doctrine, Instrument, Ruling); the Bench clerk; the archive keeper; an Enforcement inspector; the Wicket families; the Society's secretary; an Academy porter; an Academy groundsman; Licentiates of the pouring; one careless first-year (unnamed, decides nothing).
+
+No card, no figures: the factor is an unnamed role and must not be named on the page (never invent). Numbers only in his mouth or on his papers. First sight gets a full physical inventory and an unswappable voice (Table Rule 11). He is not Nella Stower (the named Swale returns desk, bible names list); keep them apart.
 
 ### Voice fingerprints
 
-`voice_fingerprints`: neither Xu Deming nor the Logistics factor appears in the table (it lists 30 characters with eight or more attributed lines). No measurement exists; differentiate the two by R15-1 in the notes.
+`voice_fingerprints` has no row for Xu Deming or a Logistics factor (neither has eight attributed lines). Deming's voice comes from his source lines (Recall below): careful diction, full sentences, 'May I put a number in the room.' Make the factor's lines unswappable with his (R15-1).
 
 ## Recall
 
-### scene_recall "Xu counting house Verdantia Swale supply contract wastage covering letter Project Zombification Logistics return column Hollow Shaft"
+### scene_recall "Verdantia Swale wastage Logistics return Hollow Shaft Project Zombification"
 
-##### Commencement of The Curia. [ Kujo Arc ]  (commencement_of_the_curia_kujo_arc.md, score 97)
-[Commencement of The Curia. [ Kujo Arc ]] *Elegant. God help me, that is elegant. He has left every term of the contract standing and taken the conversion out of the middle of it, and I am now a man shovelling coal into a firebox with no boiler on the far side, and the office will not let me put the shovel down, because the office is not aware that anything ha...
-[Commencement of The Curia. [ Kujo Arc ]] The Ashgate valley sits on a basalt shelf and the shelf is full of iron. Mu-jin did not have it in those words. He had the working leaving the air and going down, and the note in the ground he had walked eleven miles toward changing key, and the whole continent under his boots choosing that instant to move. The rock we...
-...ck had kept coming, and it came still, and it fell from his fingers onto the stone in a rhythm he had stopped counting on the fourth day.  The first nail had been the loudest thing that ever happened to him.  The third had been...
-...getting longer.  "Master Sesk."  "You have said that same line four hundred and eleven times. I have not been counting because I was told to. I have been counting because there is nothing else to count." Sesk set the ledger on t...
-
-##### The Night's Watch  (the_nights_watch.md, score 77)
+#### The Night's Watch  (the_nights_watch.md, score 96)
 [WHAT DOES NOT SMELL DEAD] Xu Deming had been standing by the door for a quarter of an hour with his hat in his hands and rain still on his shoulders, and he chose this moment, which was the wrong one and which he knew was the wrong one. "May I put a number in the room." Malphas turned his head. "Third dilution against nine hinds and a stag is t...
-[Author notes] Isaac's scene, archived as delivered. Three movements: The Thing With Edges (Wystan, Night Register, Cutler Row), What Does Not Smell Dead (Vesk POV, Malphas's cell at the Greyshaft Nine coldhouse; Project Zombification named), Forty-Two (Yinzhi's sub-floor sweep, the hind signature, Wystan's anamnetic contact). New na...
-...der. They go quiet for a century and come back forty miles east of where anybody left them, and the scholarly houses had produced eleven competing accounts of the mechanism, and the Accord enforced the one that suited its sup...
-...smell.  That was the part Vesk still went and stood in front of, on the nights when the work was slow. A coldhouse with nine carcasses in it eleven days on should have had its own weather. The ammonia off the plant, yes, and...
+[WHAT DOES NOT SMELL DEAD] "Four to six. Without an anchor it cannot persist and I am not putting an anchor in it, because an anchor is a binding, and a binding is a name, and a name is the only thing in this world that the Accord can actually prosecute." Malphas wiped his fingers on a cloth and folded the cloth and put it in his pocket. "Four t...
+...Wystan's experience been wrong in a way that mattered, had returned it inside two days as **Wellspring bleed, Verdantia, tertiary expression, no operator indicated.** Two of the day-desk had agreed before they had finished readin...
+...turned the page over so the margin faced away from her, an old habit and a rude one. "The classification says Verdantia bleed, no operator. Two of my colleagues agree with it. My colleagues are better practitioners than I am."  "...
 
-##### The House of Abscene ( Kujo Arc )  (the_house_of_abscene_kujo_arc.md, score 74)
-[The House of Abscene ( Kujo Arc )] "I want that understood as a measurement. It is arithmetic and I am lodging it as arithmetic. In my trade a man softens on a curve. It is the most reliable thing about the work. Day one he is defiant, day three he is bargaining, day five he is telling you things you did not ask for to see which ones you want, and by da...
-[The House of Abscene ( Kujo Arc )] Aurelian was a husk. That was the honest word and he had been avoiding it for four days. Broken men are the easy ones. They have a shape, the shape is bent, and you go to the bend. A husk is what you get when the man has moved out of the body and left it hanging on the frame as a formality, and Sesk had spent eleven da...
-...hould give.   The walk took eleven paces and covered four thousand leagues, and Kalaabad counted them because counting was the only thing to do in there.  The tunnel had no walls. It had a floor, or something that answered when...
-...# The House of Abscene ( Kujo Arc )  Kujo stood in the corpse of Vaeloris as though the village had been built for the pu...
+#### Commencement of The Curia. [ Kujo Arc ]  (commencement_of_the_curia_kujo_arc.md, score 53)
+[Commencement of The Curia. [ Kujo Arc ]] The influence had never been on the ley alone. It went into every grain of iron in the shelf, in the ore in the ground and the nails in the carts and the mail on two thousand men, and it pulled, and the ground of the Ashgate valley came apart in waves. Nothing cracked. It rolled. The road and the fields on both sides o...
+[Commencement of The Curia. [ Kujo Arc ]] The ground began to answer. Aetherquakes, and no part of that word is metaphor. Nothing about it resembled the ordinary shaking of a district under pressure. The Aether across the whole Kharven basin had been carrying stress since the ninth hour, laid on by the aurora and the ridges and the corona and everything else t...
+...harmonizing with it. The sphere collapsed inward, rebuilt itself incorrectly, collapsed again, and each time returned with less structural fidelity than before. Kujo watched it happen with an expression that became almost fas...
+...heartbeat. His eyes widened, and the last clean edges of his composure continued to fray.  “Yes.”  His smile returned.  “Do that.”  He stepped halfway into the opening while darkness climbed over his body and his wings remain...
 
-##### THE KINGDOM OF KHARVEN  (THE_KINGDOM_OF_KHARVEN_corrected.md, score 64)
-[**VI. THE BANNER HOUSES**] When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls are the first to notice the pattern, because the Thornwalls have been tracking Stannvaard's trade behavior for generations and they know the difference between a shortage and a message. Their current analysis of the Ore Council's ...
-[**Flagged, not resolved**] **The count of Muken's children — ruled 2026-09-12.** Isaac: the wiki's Muken card stands. His children are **Sodoku, Sonzai, Emira, Tomuka and Ezo** (five), matching the received text's heirs Sodoku and Sonzai and confirming Emira as his own child rather than a raised sister. This entry's own prior note (citing "Tomuk...
-...the North · The Moto Seat*  ───  ◆  ───  *A Complete World Bible Entry*  *Geography · The Crown · The Banner Houses · Military · Economy · Culture · Defense · Relations · The Fall*  *Revision pass, corrected against the War...
-...whose Hataraki-bearing eyes and Plane-of-Fate-adjacent power make them the most spiritually dangerous ruling house in the Inner World, and the practical, unsentimental toughness of the northern clans who were there before th...
+#### The_Path_of_Sorrow  (The_Path_of_Sorrow.md, score 43)
+[The_Path_of_Sorrow] *Travel. Everything is travel. I have been traveling since the corridor and I have not arrived anywhere. Every verdict I delivered was correct and every correct verdict moved me further from the place I was trying to reach because the place I was trying to reach does not exist anymore. Kharven is not a place I can retu...
+[The_Path_of_Sorrow] She was wearing a shift that had once been undyed linen and was now the color of the mud she was sitting in, torn at the left shoulder where a seam had given way, and the tear exposed the collarbone and the upper curve of the shoulder, and both were visible as bone architecture rather than as body parts, the clavicle s...
+...isputed-territory holding operation against the risk matrix of walking away.  The risk matrix of walking away returned a clean result. Low exposure. Zero entanglement. No political consequence. No resource expenditure. The ran...
 
-##### THE KINGDOM OF KHARVEN  (THE_KINGDOM_OF_KHARVEN_buri.md, score 64)
-[**VI. THE BANNER HOUSES**] When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls are the first to notice the pattern, because the Thornwalls have been tracking Stannvaard's trade behavior for generations and they know the difference between a shortage and a message. Their current analysis of the Ore Council's ...
-[**Flagged, not resolved**] **The count of Muken's children — ruled 2026-09-12.** Isaac: the wiki's Muken card stands. His children are **Sodoku, Sonzai, Emira, Tomuka and Ezo** (five). The received text's three-heir roster (Temür, Chuluun) and Enkhtuya-as-child are not adopted. This entry's own prior note (citing "Tomuka, Chuluun, Ezo, Kuroyuki ...
-...the North · The Büri Seat*  ───  ◆  ───  *A Complete World Bible Entry*  *Geography · The Crown · The Banner Houses · Military · Economy · Culture · Defense · Relations · The Fall*  *Revision pass, corrected against the War...
-...ne, whose Ajiin-bearing eyes and Plane-of-Fate-adjacent power make them the most spiritually dangerous ruling house in the Inner World, and the practical, unsentimental toughness of the northern clans who were there before th...
-
-##### What the Ground Was Owed  (10_wotr_what_the_ground_was_owed.md, score 57)
+#### What the Ground Was Owed  (10_wotr_what_the_ground_was_owed.md, score 42)
 [The commander, found in the history] **Vresk Dokkan of Kaadre-Six, Vorruk-Kaan of the Third Ashfold.** He is the one who gave the *Grr-Vaa* speech to 2,200 men on the ash-field below Kaadre-Six, and the 2,200 who broke forty feet of Kharven wall in four patient nights and met Bram's three hundred in a twenty-two-foot gap. Same force. It closes. **And his ...
-[What the Ground Was Owed] Vresk Dokkan of Kaadre-Six had been Vorruk-Kaan for eleven years. In Old Vaross a name is a service record: given name, patronymic, district, and the rank compound, and only the compound changes in a lifetime, and it changes at every promotion and every demotion, so that any hobgoblin in the Expanse hearing a man's nam...
-...lūn through four factors who did not know about each other and he bought it at prices that made the Vaultmere houses laugh at him, and he shipped it north, and he did not distribute one bushel of it to any settlement in the s...
-...ed around him and went to a knee with their weapons out and their faces up, which is the Tenrai posture for a household guard that intends to die where it is standing and wishes the fact entered.  Sodoku Moto rode into the mi...
+[Rulings] ---
+...tened the people around him. He got up. He ate what was put in front of him. He sat the councils and read the returns and asked the correct questions about grain and about the standpipes and about which valleys had lost their...
+...ion to correct it. He sat in the Seat's lower hall for six weeks with a clerk on either side and read out the returns from the reach, valley by valley, and had the parish rolls fetched when a return gave a byname instead of an...
 
-##### Continuity map  (CONTINUITY.md, score 42)
-...t closes the absence opened at the Dragon Binding. | Three closings in one file: Naiser Yukari dies in chains counting his own blood, the last of the three brothers the Elder promised; Cozbi's gas moves through every Moto hall h...
-...itnesses who all still disagree about what they saw - the Drow name Kinslayer, which in their grammar is an accounting term: a debt incurred and not tallied - Ruvaen's answer when Ithuran opposed Saenna's appointment: a house th...
+#### **Physical Description**  (YOKO_MISHIRO.md, score 41)
+[**Temperance Record**] | **Stage** | **Status** | **Notes** | | --- | --- | --- | | **I — Murmuring** | **✓ Complete** | *Early childhood. Somnalis attunement was present at birth before formal Stage I. The nose was operational before the Crystal had a name for what it was doing.* | | **II — Welling** | **✓ Complete** | *Before captivity. Th...
+[***Wellspring Architecture***] **Verdantia (Primal Life)  **Accessible through fox-spirit lineage. Not her primary register but available without deliberate harmonization in high-Verdantia environments. The Scourge's Essence-wrong territories suppress this somewhat; she feels the Verdantia deficit as a faint background tiredness she can't locate. **...
+...require acknowledging the full shape of what it's building, and she is waiting for Temür to see it first.  **Verdantia (Primal Life)  **Accessible through fox-spirit lineage. Not her primary register but available without delibe...
 
-##### The Count  (sodoku_the_count_supply_report.md, score 39)
-[The Count] "Then tell me what is missing that should not be missing," Sodoku said, because his brother had asked for that too and Lambert had not yet given it. Something moved behind the heavy lids. "Grain is missing," Lambert said. "That you know. What is not missing is inscription substrate. Stannvaard has cut our grain allocat...
-[The Count] "You will get one from me. The rest will come up out of the Houses." He looked at the patched course in the wall. "Six of them, and every one has spent eleven years learning that the Crown is a thing you survive rather than a thing you serve. I am not walking into that hall assuming an oath transfers. Oaths expired wit...
+#### No Signature  (20_aurelian_no_signature.md, score 40)
+[Your central argument, and the Codex backs it] **Wise about the method, wrong about the task.** [Thru] Hollow's entry reads *hollows targets; removes purpose and binding.* Aimed at the Heartflare's terminal object it takes away recognition of what fulfilment would mean. But Paru 5's Numerical line says stability runs **one hour per point of sustained emotional inte...
+[The sequence, every entry as the Index gives it] **[Vt] Vector** (Wyther / Ignivale / Caloria) along the lines [Len] defined, diverged into **[Cy] Cycle** (Valen / Rebirthine / Vitalia / Biochemistry), which turns [Vor] and [Ser] from a single act into a circuit that never needs recasting. **[Flm] Judic Flame** burns only falsehood and imbalance, applied to **[Oth] P...
+...ngle defined causal run from origin to arrival with no completion boundary in the middle to sit on.*  **[Vor] Return.** Auren's, Somnalis beneath it, Fluxia, Fluid Dynamics, which means it does not gather and it does not fetch...
+..., and that border is a tangle. A defined line leaves no completion boundary in the middle to sit on.  **[Vor] Return** (Auren / Somnalis / Fluxia / Fluid Dynamics) does not gather or fetch; it establishes a flow and lets a flu...
+
+#### Cozbi_Root_Severance_and_Rashani_Threshold  (Cozbi_Root_Severance_and_Rashani_Threshold.md, score 37)
+[Cozbi_Root_Severance_and_Rashani_Threshold] The armor absorbed both without complaint. Copper runework flared dull orange for exactly as long as it took the metal to remember it was supposed to resist temperature, and then failed to resist it anyway. A groan came off the black iron, low, almost vocal, the sound a hull makes moments before a keel finally gives. *...
+[Cozbi_Root_Severance_and_Rashani_Threshold] The rivets went first, popping down the seam one after another, a spine discovering joints it had never asked for, and where each one failed the copper beneath simply ceased, a hole shaped exactly like a rivet with no memory of ever having held one. The stones beneath the worktable's legs began the same slow unwriting,...
+
+#### The Left of the Door  (renard_the_left_of_the_door.md, score 37)
+[Author-facing notes] **Stat Ledger (Pack Fourteen §7)** - *Renard Greymane.* Card: Level 198, Stage IV, Band II. Coherence Band F for Stage I to IV (eta 0.30 to 0.45, source range; estimate 0.40). Aether Class I Muridic (Band F). Crystal State Refined going in. Stats stressed: Dexterity Reflex (late on the first close, Nach), Gnosis Percep...
+[Author-facing notes] Heals by next scene: nothing; the forearm's deep-tissue insult is of unknown duration and the reserve recovers on Passive Recovery only, slower in a Winter-saturated hall (Part Nineteen). - *The Tenrai practitioner (originated).* Stage VI Glory, Coherence Band D (eta about 0.55, source), Aether Class II Harmonic. Exuro...
 
 ### scene_recall "Xu Deming Logistics factor Xu counting house river"
 
-##### The House of Abscene ( Kujo Arc )  (the_house_of_abscene_kujo_arc.md, score 95)
-[The House of Abscene ( Kujo Arc )] He did not petition the palace. He did not ask guildmasters for introductions, did not leave flattering reports where royal secretaries would conveniently discover them, and never once mentioned the crown while speaking in public. Instead, he made himself useful at precisely the level beneath royal attention, where use...
-[The House of Abscene ( Kujo Arc )] “That is important,” Kujo continued. “Do not let it remain long enough to become measurable. Let them recover. Let physicians find nothing. Let Sanctum Lux take readings and discover only people who are tired, frightened, overworked, or uncertain.” His gaze sharpened. “Certainty is what gives institutions permission to...
-...where a formation benefits them. Their soldiers anchor themselves into Petralon and their guilds have turned logistics into instinct.” His finger stopped over Thane-Gorr. “Why would I reward that preparation by giving them the w...
-...iscretion.”  Kujo moved around the table at an unhurried pace. “I have Generals for objectives, ministers for logistics, infiltrators for institutions, and accountants for resources. I have no need to reduce you into another func...
+(trimmed for length: only the hits from The Night's Watch and the continuity map are kept; the Kujo, Kharven and Vaeloris hits are dropped)
 
-##### Commencement of The Curia. [ Kujo Arc ]  (commencement_of_the_curia_kujo_arc.md, score 54)
-[Commencement of The Curia. [ Kujo Arc ]] And his own Order field came up to stop him. *Counterplay on Thirty-Four is Order.* *It is written in the sheet in my own Division's hand and I have read it a hundred times and I am the man holding Order across this entire crater.* *I am countering myself.* He had a fraction of a stretched second to solve it and no cap...
-[Commencement of The Curia. [ Kujo Arc ]] *A nothing with no edge cannot be weighed. That is the entire trick and it is a good one. But put a boundary around a nothing and the nothing inside it is no longer the same as the nothing outside, and the difference between the two has a magnitude, and a magnitude is a thing a pan can hold.* "Quidquid e nihilo tractum...
-...directly. We put ourselves into their hands and we slaughter the last of a dead line."  *He says it the way a factor reads a manifest.*  *I have been thirteen months in this man's company and I have not once heard him raise hi...
-...ck had kept coming, and it came still, and it fell from his fingers onto the stone in a rhythm he had stopped counting on the fourth day.  The first nail had been the loudest thing that ever happened to him.  The third had been...
-
-##### Continuity map  (CONTINUITY.md, score 53)
+#### Continuity map  (CONTINUITY.md, score 53)
 ...hundred and six buried)', 'eleven days (the byname going round the city)'. Effectively  | Dates the hooks by logistics to a full season before the first wyvern came over any pass — 'Nobody watched for this. Somebody was told' —...
 ...ame night | File's own dateline 'continuous' with the gate reunion; ends with the party moving indoors to the factor's house, which is where the next scenes sit. | Lambert lays the whole ledger in front of the returned prince...
 
-##### The Night's Watch  (the_nights_watch.md, score 52)
+#### The Night's Watch  (the_nights_watch.md, score 52)
 [WHAT DOES NOT SMELL DEAD] Xu Deming had been standing by the door for a quarter of an hour with his hat in his hands and rain still on his shoulders, and he chose this moment, which was the wrong one and which he knew was the wrong one. "May I put a number in the room." Malphas turned his head. "Third dilution against nine hinds and a stag is t...
 [Author notes] Isaac's scene, archived as delivered. Three movements: The Thing With Edges (Wystan, Night Register, Cutler Row), What Does Not Smell Dead (Vesk POV, Malphas's cell at the Greyshaft Nine coldhouse; Project Zombification named), Forty-Two (Yinzhi's sub-floor sweep, the hind signature, Wystan's anamnetic contact). New na...
 ...."  "Nine inches at the crown on the best of them. It will go further. It does not know it has finished."  Xu Deming had been standing by the door for a quarter of an hour with his hat in his hands and rain still on his should...
 ..."Third dilution against nine hinds and a stag is two myriads and a fraction, and I cannot buy two myriads." Deming had the careful diction of a man who had been capped young into a trading lineage and had taken a courtesy na...
 
-##### The Revolution Of The Inner World  (the_revolution_of_the_inner_world.md, score 50)
-[The Revolution Of The Inner World] An army cannot touch that. Neither can a purchase. If Whitemere had spent its entire reserve buying the basin floor it would have owned two hundred fathoms of halite and a drainage system requiring three centuries of institutional knowledge, and would have flooded the lower workings inside a season, and the fourteen fa...
-[The Revolution Of The Inner World] The Ore Council had been sinking at the pace of a body that intends to be there in three hundred years. The empire sank eleven new sites in four years, and the fourth of them, at Vault Hollow, came in at a density that put a thousand-house district on metered housings within eighteen months, and the Measurewrights' sur...
-...bert had done nothing about the holding at all. What he did was buy grain. He bought it in Nalūn through four factors who did not know about each other and he bought it at prices that made the Vaultmere houses laugh at him, an...
-...k?"*  Because the advance came in the fourth. Because on the day Edward Lambert placed his first order with a factor in Vaultmere, no orc had crossed the wall, and no council had been called, and no threat assessment existed i...
+### wiki Verdantia (trimmed to the ranked snippets; the full-page dump is dropped for length)
 
-##### THE KINGDOM OF KHARVEN  (THE_KINGDOM_OF_KHARVEN_buri.md, score 49)
-[**Corrected**] **Relations.** A **Holy Sea of Alabaster** entry has been added. Its absence was the single largest hole in Section XI, given that the Holy Sea stands on the white shelf and that the Crown has a courier on the road to it.
-[**VI. THE BANNER HOUSES**] When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls are the first to notice the pattern, because the Thornwalls have been tracking Stannvaard's trade behavior for generations and they know the difference between a shortage and a message. Their current analysis of the Ore Council's ...
-...they could not carry they took from the territory they passed through, and the taking was not pillage. It was logistics. The distinction mattered to Muken. It did not always matter to the people being taken from.  He used the Zas...
-...o anything, and the Hallenfelds have held it since Muken assigned them the post because Muken understood that logistics wins wars more reliably than courage and that the house controlling the logistics needed to be competent abov...
-
-##### THE KINGDOM OF KHARVEN  (THE_KINGDOM_OF_KHARVEN_corrected.md, score 49)
-[**Corrected**] **Relations.** A **Holy Sea of Alabaster** entry has been added. Its absence was the single largest hole in Section XI, given that the Holy Sea stands on the white shelf and that the Crown has a courier on the road to it.
-[**VI. THE BANNER HOUSES**] When Stannvaard cuts grain supply but keeps sending inscription substrate, the Thornwalls are the first to notice the pattern, because the Thornwalls have been tracking Stannvaard's trade behavior for generations and they know the difference between a shortage and a message. Their current analysis of the Ore Council's ...
-...they could not carry they took from the territory they passed through, and the taking was not pillage. It was logistics. The distinction mattered to Muken. It did not always matter to the people being taken from.  He used the Kam...
-...o anything, and the Hallenfelds have held it since Muken assigned them the post because Muken understood that logistics wins wars more reliably than courage and that the house controlling the logistics needed to be competent abov...
-
-##### WAR OF THE REALMS  (WOTR_Vaeloris_Sequence.md, score 49)
-[What Answered] "They say he knelt in a village and counted the dead out loud." Doyun's arms had come back up without his knowing. "For two hours. In his father's dialect. And then he did it again because one count is not a finding, which I did not understand until Captain Kesh explained it and now I cannot stop thinking about it." "T...
-[The Cabin, IV: The Eleven Words] "How many," he said, before it could be asked. "Enforcement's figure is between eleven and fourteen hundred. They will not commit to a number and I have asked for one four times. A number is a list and a list is names and names are precisely what nobody wants entered before the ninth, because a name is a person and a p...
-...licated and the Curia had been mistaught it for four centuries. Judicium did not consume. It read the local accounting and it asserted the true entry over the false one, and the void's work here had been the entering of a zero r...
-...h of the discharge climbed his wrist and did nothing to him and he watched it not do anything to him and kept counting.  At four hundred and ten he understood what the arrangement of them meant, which was that they had gone towa...
-
-### wiki "Verdantia" (hit list and snippets only; full page trimmed)
-
-##### Iryen Maevith · The Serene Gale  (Volume I — Character Cards/Iryen Maevith · The Serene Gale.md, score 103)
+#### Iryen Maevith · The Serene Gale  (Volume I — Character Cards/Iryen Maevith · The Serene Gale.md, score 103)
 [III · Wellspring Harmonizations] **Verdantia** · Vitalia. *The Green Pulse.* Carbon fixation and indeterminate meristematic growth: a plant has no final size, and photosynthesis converts ambient energy into structure continuously rather than in bouts. **Verdantia gives the Crystal indeterminate growth and continuous ambient conversion, which is why he...
 [IV · Primary Stats] **Path** · Spirit dominant, Body secondary. > **Vitality 498 on a sheet whose stated cost is the breath.** *Regeneration is the Verdantia peak and it is high; Constitution is higher.* **The number that matters is which of the two Lung Fracture attacks, and the card says it attacks the breath, which is Constitution.** A...
 ...other Domains.* >  > **The card says flowers orient toward him when he breathes, believing him a breeze from Verdantia's heart.** *That is a co-authored expression stated as folklore: the Green Pulse answering his breath as if i...
 ...ce Through Motion is a Wyther doctrine stated by a Vitalia soul.  ---  ### III · Wellspring Harmonizations  **Verdantia** · Vitalia. *The Green Pulse.* Carbon fixation and indeterminate meristematic growth: a plant has no final s...
 
-##### Recarvu — The Body That Builds Over What It Cannot Fix  (The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix.md, score 88)
+#### Recarvu — The Body That Builds Over What It Cannot Fix  (The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix.md, score 88)
 [The Three States] **Passive · Vigour** · No focus, no activation. Verdantia runs continuously, converting ambient Essence into low-grade vitality. Recovery accelerates, the immune system runs hot, bruises metabolise in hours rather than days. *The practitioner looks healthy the way a well-watered plant looks healthy: not because they ar...
 [Primary Wellsprings] | Wellspring | Function | Failure mode | |---|---|---| | **Verdantia** *The Green Pulse · Primary* | Carbon fixation and indeterminate meristematic growth. **A plant does not have a final size.** Meristem tissue stays embryonic for the organism's whole life. Tissue added by Recarvu does not follow the body's blueprint ...
 ...e new shape can do.*  ---  ## Primary Wellsprings  | Wellspring | Function | Failure mode | |---|---|---| | **Verdantia** *The Green Pulse · Primary* | Carbon fixation and indeterminate meristematic growth. **A plant does not hav...
 
-##### Lurien's Hearthvine · The Green Cantor's Bow  (Artifacts/Lurien's Hearthvine · The Green Cantor's Bow.md, score 78)
+#### Lurien's Hearthvine · The Green Cantor's Bow  (Artifacts/Lurien's Hearthvine · The Green Cantor's Bow.md, score 78)
 [Codex line] Wellspring: **Verdantia**, primary (Vitalia, Biochemistry). Category: **Harmonia**, per the card's own alignment, confirmed a live Category. Glyphs: `Ur` (Balance), `Wy` (Motion), `Ma` (Memory), all three confirmed Root forms in the Master Glyph Index; `Ur`'s attested spread already runs to nine Wellsprings across six ...
 [Operation line] Numerical effect: damp loam and undergrowth spreading to about six paces; footing inside slows an unhurried walk to roughly half pace, and shallow wounds close at the rate the Vitality Regeneration literature gives Verdantia generally. Target response: allies inside heal minor wounds and pay a footing cost, enemies ins...
 ...Alchemical Index records for Verdant Overgrowth Seeds, run from dormant to rooted almost at once. Mechanism: Verdantia current banked in the living wood discharges into the vine on contact; `Ur` keeps the discharge even so the r...
 ...unvegetated ground. **Hearthcall.** Trigger: bow planted tip down, string looped to earth. Function: seeds a Verdantia current into the ground under `Ur`'s balance keeping until it stabilizes into a standing Domain seed the size...
 
-##### The Sage Arts  (The Disciplines/The Sage Arts.md, score 59)
+#### The Sage Arts  (The Disciplines/The Sage Arts.md, score 59)
 ...pex Integration** | Concordia (Spirit ↔ Attraction Apex) | | **Wellspring Home** | House of the Green Pulse — Verdantia, Anima Spirare, Benediction, Transference, Rebirthine |  ---  ## The Inversion  A Sage opens their Soul Cryst...
 ...to the environment's dominant Wellspring dialect **without losing identity coherence**. A Sage standing in a Verdantia-saturated forest must let their Shell resonate at the forest's frequency, conduct the forest's Essence throug...
 
-##### Kozakura Shion · The Bloomwarden  (Volume I — Character Cards/Kozakura Shion · The Bloomwarden.md, score 50)
+#### Kozakura Shion · The Bloomwarden  (Volume I — Character Cards/Kozakura Shion · The Bloomwarden.md, score 50)
 ...per-soft petals drift; arguments land gentler than they began.**  ---  ### III · Wellspring Harmonizations  **Verdantia** · Vitalia. **The Green Pulse. Governing.** *Living blossoms from the mantle, a floor that feels like garden...
 ...urced exactly: the dying cross without stumbling and the living do not cling.** *Same-Family compounding with Verdantia, which is why the threshold feels like soil and not like a door.* **Coagula** · Materia. **The Unifying Pulse...
 
-##### Vaelmorn · The Standing Grave  (Summoned and Bound/Vaelmorn · The Standing Grave.md, score 45)
+#### Vaelmorn · The Standing Grave  (Summoned and Bound/Vaelmorn · The Standing Grave.md, score 45)
 ...way he carries everything else |  ---  ## III · Wellspring and Codex Assignment  | **Primary Wellspring** | **Verdantia.** The green current, and specifically its documented corruption vector. **Endless Spring: the inability to l...
 ...ly its documented corruption vector. **Endless Spring: the inability to let anything end.** Vaelmorn is not a Verdantia practitioner who fell to it. He is what it looks like when it was the design | |---|---| | **Secondary Wellsp...
 
-### wiki "Logistics" (hit list and snippets only; full page trimmed)
 
-##### The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices  (The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md, score 94)
+---- full text of Iryen Maevith · The Serene Gale ----
+
+#### Iryen Maevith · The Serene Gale
+
+### wiki Logistics (trimmed to the ranked snippets; the full-page dump is dropped for length)
+
+#### The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices  (The Guild Accord/The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices.md, score 94)
 [III. The Divisions, Politically] **The two blocs.** Strategic and Enforcement vote together on nearly everything and are called the hard hand by people who are not being careful. Arbitration and Research vote together and are called the long table. **Logistics is the swing, holds the purse and the Gates, and has been the swing for two hundred years**,...
 [Ranks within an academy] **The chairs are the money.** An endowed chair is a fund, and the holder is paid from it, and the endower's family frequently retains a say in appointments in perpetuity. A dozen chairs in the Inner World are in the gift of a crown rather than an academy, and those are the ones that get people ennobled.
 ...---|---|---|---| | **Strategic** | The Legion, and the Gates as a military asset | Levy on chartered realms | Logistics, over who controls Gate priority | | **Enforcement** | The Sealwrights, and the High Warden's presence, which...
 ...power to say what a thing is | Endowment, chairs, and the academies | Nobody openly. Everybody quietly | | **Logistics and Supply** | Gate coordination, Essence transport, the credit network | Tariff and carriage | Everyone, bec...
 
-##### The Bearing and the Holding  (Geography & the Four Quarters/The Bearing and the Holding.md, score 87)
+#### The Bearing and the Holding  (Geography & the Four Quarters/The Bearing and the Holding.md, score 87)
 [Hazard Register, Abbreviated] ---
 [The Names That No Longer Attach to Ground] *A separate class of open entry, and the one the Logistics Division finds most irritating.* Certain materials in continuous trade arrive under provenance names that no current survey can attach to anywhere. **The material is real.** It is assayed, priced, shipped, and used. The place it is said to come from cannot be f...
 ...rvey of the Four Quarters, Their Substrate, and What May Be Made Of Them* > Fourth revision. Compiled for the Logistics and Supply Division of the Guild Accord under attestation of the Guild of Measurewrights, Hexagonal Oath. Dat...
 ...e one obstacle Essence never touched, and it solves it for people who have never held a rank token.** > > The Logistics Division's position is that rail is a haulage convenience. **The Division has not yet costed what happens to...
 
-##### The Works and Days — Occupations, Trades and Technology  (Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology.md, score 86)
+#### The Works and Days — Occupations, Trades and Technology  (Materials, Alchemy & Trade/The Works and Days — Occupations, Trades and Technology.md, score 86)
 [The Works and Days — Occupations, Trades and Technology] *A Register of Occupations, Trades, and Technology Across the Four Quarters* *Compiled for the Research and Archives Division, with the assistance of the Logistics and Supply Division* > *"He asked what I did. I told him I kept the array running. He asked what magic I used. I told him I used a wrench. He did not know w...
 [The Three Floors] *Almost every argument about dignity, wages, and what a person is worth can be resolved by asking which floor they stand on.* | Floor | Standing | |---|---| | **First** *people the instrument sees* | Ranked practitioners carrying silver tokens that are **simultaneously badges, passports, lines of credit, and bullion.**...
 ...ound that this is the general experience."* > — Brida Voss, Senior Tender, Greyshaft Twelve, testimony to the Logistics Division  ---  ## The Governing Question  **The Accord classifies people by what their Soul Crystal can do. T...
 
-##### The Apparatus of the Age — Equipment and Material Culture  (Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture.md, score 81)
+#### The Apparatus of the Age — Equipment and Material Culture  (Materials, Alchemy & Trade/The Apparatus of the Age — Equipment and Material Culture.md, score 81)
 [The Road's Requirements] ---
 [The Infrastructure Beneath] ---
 ...lture  *A Register of Equipment, Technology, and Material Culture Across the Four Quarters* *Compiled for the Logistics and Supply Division · appendix to The Works and Days, The Bearing and the Holding, and The Four Ceilings*  --...
 ...tape: temporary, imperfect, and the difference between sleeping safely and not sleeping at all.**  ---  > The Logistics and Supply Division inventories **what it buys and what it insures.** Naval and shipboard equipment sits with...
 
-##### Materials, Alchemy & Trade  (Materials/Materials, Alchemy & Trade.md, score 69)
+#### Materials, Alchemy & Trade  (Materials/Materials, Alchemy & Trade.md, score 69)
 [The Three Registers] ---
 [III · The body that rules on it, and the money] *Filed elsewhere in the wiki and reached from here, because nothing in this section is settled without them.* The Bench of Attribution The Material Index · T0–T4 The Bearing and the Holding Value, Coin and Trade
 ...lacktooth wolfram out of the western tin districts and Ashfast chromite off the southern serpentine belt. The Logistics Division has flagged the dependency in every annual report for nineteen years and nothing has changed. **The...
 
-##### The Guild Accord  (Factions, Bloodlines & Institutions/The Guild Accord.md, score 50)
+#### The Guild Accord  (Factions, Bloodlines & Institutions/The Guild Accord.md, score 50)
 ...sonance"]     CC --> R["RESEARCH & ARCHIVES<br>scholarship, containment, the Archives Eternal"]     CC --> L["LOGISTICS & SUPPLY<br>Gates, Essence transport, Aether credit"]     CC --> EN["REGIONAL ENVOYS & GUILDLORDS"]     EN --...
 ...ion | Authority | |---|---| | **Strategic** | Realm defense, military coordination, cross-realm warfare, Gate logistics. Commands the Concord Legion | | **Enforcement** | Lawkeeping, Sealwright deployment, Wellspring policing, ap...
 
+
+---- full text of The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices ----
+
+#### The Guild Accord in the Modern Era — Divisions, Companies, Academies and Offices
+
+> *The Accord did not conquer anybody. It chartered them, and then it was the only thing that worked in all of their courts at once.*
+
+#### I. Two Faces, One Charter
+
+The Accord looks like two different institutions depending on which document you read, and both are correct.
+**The Concordat** is the covenant. The Codex, the Lattice, the fragment of Soul Crystal offered on joining, the Trials of Resonance, the Tiered Path from Initiate to Chosen. This binds **practitioners**, and it binds them spiritually rather than legally, which is why a practitioner cannot resign.
+**The Chancery** is the jurisdiction. The formulary, the articles, the market courts, the standards, the proof-marks, the Bench. This binds **trade**, and it binds by consent, because its courts are faster than anyone else's and its sanction is exclusion.
+They are one body because they flow from one power: **the charter.** The Accord's actual instrument is the ability to grant a standing and to take it away. A guild holds its charter from the Accord. An academy holds its charter from the Accord. A practitioner holds their tier from the Accord. Remove the charter and the hall is a building full of people with no legal ability to sell what they know.
+
+#### A register note, applied
+
+The original document renders the machinery in a mode the setting has since moved past: Lattice terminals, projected sigils, Aether credits, echo marks. **The Draw Age renders all of it in brass, paper and ink**, and the mechanism is unchanged.
+| Old rendering | Modern Era rendering |
+|---|---|
+| Lattice terminals projecting Commissions | **The board.** Paper, wax, a clerk, and a hall with a wall for it |
+| Sigil colours | **Seal colours.** Green, blue, gold and obsidian wax, struck on the posting |
+| Aether credits | **Draughts and the bill.** The Guild's unit of draw, and a letter of credit against a factor house |
+| Scry-glyph verification | **The wire, the field report, and a countersigning witness** |
+| Echo marks | **Entries.** The Bench's power of entry, on the roll, in ink |
+
+Nothing metaphysical is lost. The Lattice still records. It simply is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
+
+#### II. Where the Accord Actually Reaches
+
+The Accord is not equally strong everywhere and the pattern is materialist rather than political.
+**Strongest: the New World's arc.** Chartered from nothing within living memory. There is no older law to displace because there was no older law, so **the Accord is not one jurisdiction among several there; it is the jurisdiction.** Every settlement holds a charter, every charter names the Accord's standards, and a company that loses its charter loses the ground it stands on. The elven old-ground beside the arc is another matter: four Eons of Eressean law the Accord did not displace. The Divisions maintain more staff across the arc than in the whole of the Old World.
+**Strongest: the island nations.** Trade-dependent, small, and unable to survive exclusion for a season. An island that will not take Accord weights cannot sell its cargo in any port that does, and the arithmetic makes the argument without anyone having to make it. Island seats are famously punctilious about standards and famously resentful about it.
+**Strong: the Inner World.** The Concord heartland, the composite monarchy, the chancery schools, the conduit network at its densest. The Accord runs alongside crown law here rather than replacing it, and the two have grown into each other so completely that most people cannot tell you which of them issued the rule they are obeying.
+**Weak: the Old World.** Ancient polities with law older than the Accord and no interest in being harmonised. The holds keep two columns. The Keth-Gorrum's rulings are unreadable to Accord clerks by design. Undaar-Keth adopted the standards instantly and the jurisdiction never. 
+**And the seam is the conduit.** The Accord's practical reach ends roughly where the sealed conduit ends, because that is where the wire ends, and an institution that cannot get word to its own inspectors inside a season is not administering anything. **Every district the Withering cuts is a district the Accord quietly stops governing**, and the Lease-holders are moving into exactly those districts, and the correlation has been noticed by nobody senior.
+
+#### III. The Divisions, Politically
+
+Five Divisions, one unacknowledged sixth, and they are not colleagues. Each holds a different instrument and each is trying to make its instrument the one that decides.
+| Division | Instrument | Eats by | Standing rival |
+|---|---|---|---|
+| **Strategic** | The Legion, and the Gates as a military asset | Levy on chartered realms | Logistics, over who controls Gate priority |
+| **Enforcement** | The Sealwrights, and the High Warden's presence, which is martial law wherever it stands | Forfeitures and amercements, which is a scandal nobody will name | Arbitration, permanently |
+| **Arbitration** | Treaty, mediation, and the Trials of Resonance | Fees from the parties, which is the same scandal from the other direction | Enforcement, permanently |
+| **Research and Archives** | The Archives Eternal, the Codex, and the power to say what a thing is | Endowment, chairs, and the academies | Nobody openly. Everybody quietly |
+| **Logistics and Supply** | Gate coordination, Essence transport, the credit network | Tariff and carriage | Everyone, because it holds the purse |
+| **The Black Concord** | Whatever the High Concordant requires | Not accounted for anywhere | Not applicable |
+
+**The two blocs.** Strategic and Enforcement vote together on nearly everything and are called the hard hand by people who are not being careful. Arbitration and Research vote together and are called the long table. **Logistics is the swing, holds the purse and the Gates, and has been the swing for two hundred years**, which is why the Logistics head is the most courted person in the Citadel and the least likely ever to be nominated for anything.
+**Enforcement's funding is the structural problem nobody will touch.** It eats by forfeiture. A Division that takes its revenue from the property of people it convicts has an interest in convictions, and every clerk in the Citadel knows this, and Arbitration raises it once a decade and is voted down by the hard hand.
+
+#### IV. The High Concordant
+
+**Chosen, not elected.** The Council nominates. The Heart Vault accepts or does not, and there is no procedure for determining whether it has accepted other than whether the nominee survives the weaving. **This is unfalsifiable and is therefore the perfect political instrument**, because a failed nomination proves the candidate was unworthy and can never prove the Council chose badly.
+**Held for life**, because the office is not a post. The Concordant's soul is woven into the Vault at the Citadel's core and their breath sustains the Lattice. There is no retirement and no removal, and this is the whole shape of the office.
+**Powers.** Appointment and dismissal of Divisional Heads. Command of the Black Concord. The casting judgement in a divided Council. The charter, and the revocation of a charter, which is the power everything else rests on.
+**And one enormous constraint.** The Concordant cannot leave the Citadel for long. **The most powerful person in the four quarters cannot travel**, has not seen most of what they govern, and receives everything through five Divisional Heads, each of whom decides what is worth carrying up.
+So the real politics of the office is not the exercise of power. It is **curation.** A Head who wants a thing done does not argue for it. They arrange for the Concordant to hear about the problem it solves, three times, from three directions, over a season. Every senior person in the Citadel understands this. It is not corruption and nobody thinks of it that way.
+**The succession is the whole game and it is played before the death.** If the Concordant dies unsucceeded the Vault stills and the Accord collapses, and everyone knows this, which means the Council will accept almost any nominee rather than risk a gap. Therefore the contest is entirely over who is standing closest when the moment comes, and therefore the Concordant's health is the most closely held and most intensively rumoured fact in the Inner World, and therefore **the wire out of the Citadel is read by more people than any other line on the network.**
+
+#### V. The Guilds
+
+#### How a company is built
+
+Every chartered company in the four quarters runs the same skeleton, whatever it calls the parts.
+**Governance.** A **Master**, elected annually, styled Prime Warden or Upper Bailiff in some companies and addressed by that title without exception at any formal occasion. Beneath the Master, **Wardens**, from whose number the next Master is normally chosen. Together with a body of **Assistants**, including past Masters as permanent members, they form the **Court of Assistants**, which governs and which is **self-appointing**, and that last word is the entire politics of the guild system.
+**Officers.** The **Clerk** is the chief officer, keeps the records, calls the meetings, and in practice runs the company, since Masters last a year and Clerks last thirty. The **Beadle** assists the Clerk, leads processions, and acts as a constable, which means the man who carries the mace at a feast is the same man who throws you out of the hall.
+**Membership, in three classes.**
+| Class | How reached |
+|---|---|
+| **Apprentice** | Indentured to a master for seven years |
+| **Freeman** | By **servitude** (completing an apprenticeship), by **patrimony** (a parent was of the company), or by **redemption** (purchase) |
+| **Liveryman** | Full membership, by vote of the Court, normally once the freeman is established in business on his own account |
+
+The freedom brings the right to work for whom you choose or to set up on your own, and in chartered seats it brings a vote. **Redemption is the class question.** A freeman by purchase is a freeman, is treated as one, and is never quite forgotten to have bought it, and every company has a word for such a man that it does not use in front of him.
+**Precedence.** The order of the companies was settled once, by a body that has long since stopped existing, and has been argued about ever since. The **Twelve Great** take precedence at every civic occasion. Two of them have been in dispute over the eighth and ninth places for four hundred years, and the dispute is genuinely unresolvable because the original ruling is ambiguous and both readings are defensible.
+
+#### The kinds of company
+
+**Craft companies.** Regulate a craft: standards of work, terms of apprenticeship, who may take hire. The Engravers, the Drafters, the Assayers, the Fitters and Gaugers.
+**Merchant companies.** Regulate a **trade** rather than a craft, and their members make nothing. The great houses of Stannvaard. Historically these outrank craft companies in wealth and are outranked by them in precedence, and neither side has ever stopped minding.
+**Societies.** Restrict senior membership to actual practitioners, unlike the companies, most of which long ago stopped requiring that the Master of the company practise the trade the company is named for. **The Alchemists' Society** is the strictest: a man may be a freeman of it by purchase and may not sit on its Court unless he can work.
+**Ventures.** And this is the one worth understanding properly.
+
+#### The Adventurers
+
+**An adventurer is somebody who ventures capital.** That is the original and correct meaning, and it is what the Company of Adventurers was chartered to do: subscribe money to a risky undertaking, in shares, against a return.
+The Commission trade grew out of it. **A Commission is a venture, not a job.**
+- A **subscriber** puts up the outfitting: stores, carriage, Drafts, the Guild fees, and the bond posted against damage.
+- The venture is **divided into shares**, and the party takes shares rather than wages. A leader takes more. A first venture takes less. A specialist bargained for in advance takes a fixed share off the top before division, which everyone else resents.
+- **Losses fall on the subscribers**, and deaths fall on the party, and this asymmetry is the whole moral character of the trade.
+- A **bottomry** exists: a loan against the venture that is repaid only if the venture returns. It costs a great deal and it is what a party without a patron uses.
+- Underwriting exists, at a price, and the Company keeps the tables, and **the tables are the most honest document about mortality in the four quarters** because they are written by people with money on the answer.
+The five Commission Classes are unchanged. Reconnaissance, Containment, Retrieval, Arbitration, Extermination. What changes is that a party discussing a posting is discussing **terms**, and the argument in the hall is about shares and the bond, not about glory.
+
+#### VI. The Academies
+
+**Academies teach and examine. Societies recognise. They are not the same institution and they compete.**
+
+#### Ranks within an academy
+
+| Rank | What it is |
+|---|---|
+| **Scholar** | Under instruction. Not yet permitted to work unsupervised |
+| **Licentiate** | Holds the **licence**: permission to practise for hire. This is the qualification that matters commercially and the one most holders stop at |
+| **Master** | Permitted to take apprentices. A teaching qualification, not a superior practising one, and the distinction is constantly misunderstood outside academia |
+| **Doctor** | Permitted to teach the masters, examine, and dispute. Confers the right to be wrong in public at length |
+| **Chair** | An endowed and appointed post, named for whoever endowed it. Held for life or until a better one is offered |
+
+**The chairs are the money.** An endowed chair is a fund, and the holder is paid from it, and the
+...[truncated]
+
 ## Continuity
 
-### Facts (cast or place)
+### Facts about the cast or the place
 
-state.json holds 31 facts, all from ch3 and all Wystan-side (Wystan, Keld, Keld's minute, the brass token, Lyle, Brack). None concerns Xu Deming, the Logistics factor or the Xu counting house. No facts to carry.
+state.json holds **no facts** about Xu Deming, a Logistics factor, or the Xu counting house (99 facts, chapters 1–3; Deming has never been on the page). Beat-adjacent facts (Malphas's order and the cell's book, which this chapter's letter follows from), newest first:
 
-Lies and misreadings declared so far (so this chapter does not repeat a shape): ch1 lie (Qiu Yinzhi) "It went quiet when you were at the sink."; ch1 misreading (Wystan) the dose stops where the formulator stopped putting it. ch2 lie (Nuvalik) "Everything the fourth hind gave me is written down." (H08); ch2 misreading (Vesk) the Lord's warm hands explained by the ice press's exhaust. ch3 lie (Lyle, state.json kind "lie") "I did not send for Master Brack." — LIE, uncorrected; ch3 misreading (Wystan) the residue in a shut room falls on everyone alike (H13).
+- ch2 · Malphas · fact: Malphas wants the Arbitration Division's Warden-of-Duty field manual for its unsigned attribution paragraph; he has designed against it for two years from hearsay. Quote: "The manual has a section on attribution and the section has a paragraph in it that nobody signed, and every officer who works a residue works it off that paragraph, and I have never read the paragraph, and I have been designing against it for two years out of what other people tell me is in it."
+- ch2 · the book · object: The cell's book is kept on the shelf over the ice press, kept by Nuvalik since the first night; nobody else has taken it down. Quote: "It is on the shelf over the press where it has been since the first night and nobody has taken it down but me."
+- ch2 · Malphas · fact: Malphas's hands keep a living man's colour after sitting ungloved on an iron bench at four degrees since the first division (H07). Quote: "What there was instead was the one thing Vesk could not get past: the Lord had been sitting on an iron bench in a room the housing gauge had at four degrees since the first division, with no gloves on and his coat folded beside him and not under him, and his fingers were the colour of a living man's fingers."
+- ch2 · Malphas · promise: Malphas orders the night written up in the book, in ink, with the division, under the project's name, by four hands. Quote: "I want the whole of this project written down under the name I gave it, by four hands, in one book, because the file somebody builds out of us will be built off what is written and I would rather it be built off this than off a clerk's recollection of it."
+
+Lies standing in the book so far (for awareness; none is Deming's): ch1 Yinzhi (bracelet), ch2 Nuvalik (the fourth hind 'written down'), ch3 Lyle (did not send for Brack).
 
 ### Summaries of prior chapters
 
-state.json `summaries` holds ch3 only; ch1 and ch2 have not been carried into memory. For those two, the "Summary for continuity" from each chapter's `final_notes.md` (the writer's own, not approved into memory):
+**Ch1 · The Docket Head.** Wystan checks and blots Yinzhi's full name at the docket head and enters her as assay of record. Gloved, he moves the Ferriby wedge with forceps into a fresh Division Fixatio tin, seals it with brass wax and strikes his brass into the seal. He logs it in the day book as Register file Ferriby, exhibit one, "crown +¼ in sealed." He collects the four pieces of chapter wax. He folds them in a druggist's paper, dated, for custody. Over grounding tea he asks whether the bracelet is still pulling, and Yinzhi says no. He rejects a nine-word wire and writes Tally a letter: walk the line and measure into a notebook, a second dataset from the same observer, who set the marker, and what the animals put their mouths to. He signs it "Night Register, Cutler Row." He enters the Register's position, "A dose goes where it is put," and records the forty-second minute. The main returns at the sixth division. At the day desk he writes his memorandum under Brack's closed classification, with *edges* in the margin. A day clerk reads only the classification and shelves the book.
 
-- **Ch1, "The Docket Head" (Wystan POV; final_notes stopgap).** The same night, from the fourth division to the sixth. Wystan checks and blots Yinzhi's full name at the docket head (the name is not rendered) and enters her as assay of record. Gloved, he moves the Ferriby wedge with forceps into a fresh Division Fixatio tin, seals it with brass wax and strikes his brass into the seal. He logs it in the day book as Register file Ferriby, exhibit one, "crown +¼ in sealed." He collects the four pieces of chapter wax: two were on the front-room blotter and two under the desk. The pieces fit the join. He folds them in a druggist's paper, dates it on the outside and keeps it for custody. Over grounding tea he asks whether the bracelet is still pulling, and Yinzhi says no. He drafts a nine-word wire, rejects it and writes a letter to Tally instead: walk the line and measure into a notebook, a second dataset from the same observer, who set the marker, and what the animals put their mouths to. He signs it "Night Register, Cutler Row." He sends Yinzhi home. He enters the Register's position, "A dose goes where it is put," and records the forty-second minute. The main returns at the sixth division. At the day desk he writes his memorandum under Brack's closed classification, with *edges* in the margin. A day clerk reads only the classification and shelves the book.
-- **Ch2, "Twenty-Two Drops" (Vesk POV; final_notes stopgap).** Day one, the second division to the ninth, at Greyshaft Nine. Nuvalik brings the ninth hind down off the rail onto the slate table. Vesk has built the contractile matrix into the third-dilution formulation on one pour and lets it stand, then carries the flask in both palms and works it in at four places along the near flank, the count of forty between each. The colour clears inland, faster at the two forward pours; Foss, at the glass, gives the reason (the trunk quit last, the forward channel is finest, the finest channel pulls hardest) and calls the synthesis filthy and correct, wanting both findings in the book. Malphas asks Foss to get the Arbitration Division's field manual for its unsigned attribution paragraph; Foss refuses a wire and says it will take a season, and Malphas accepts a season. Nuvalik states what the hind is: no Crystal, no self, a net that shortens toward the emptier end. Malphas orders the night written up in ink under the project's name by four hands. The hind does not stand. Vesk sees the hide at her shoulder draw up once, tells nobody, and counts the drip to twenty-two.
-- **Ch3, "The Morning Check" (Wystan POV; state.json).** Day 1, noon to the ninth division. Wystan wakes with his hands shaking. He recalls Keld's minute, then reads the written record against it word for word. It has not moved. At the medical house the porter admits him by his face, because his brass is on the tin lid at Cutler Row. Keld sits at the window counting under his breath at something Wystan cannot find. He asks "Is that them" and says "They said the sixth." At the day desk Prime Warden Elspeth Lyle reads the edges memorandum and calls the file a curiosity. The Register may keep it open until the quarterly inspection of the gauge-housing and not a day longer. In the upper passage Brack stands by bleed and hands over the Bureau's raw Ferriby field sheets unasked. In Lyle's shut room the position and the term go into her minute in ink, under her silver, and he initials both. Residue settles on his skin and he does not remark it. Lyle orders the sheets entered as received unasked and denies sending for Brack. At the ninth division Wystan tells Brack: "I will get a hand and not a purse."
+**Ch2 · Twenty-Two Drops.** Day one, the second division to the ninth, at Greyshaft Nine. Nuvalik brings the ninth hind down off the rail onto the slate table. Vesk has built the contractile matrix into the third-dilution formulation on one pour and lets it stand, then carries the flask in both palms and works it in at four places along the near flank, the count of forty between each. The colour clears inland, faster at the two forward pours; Foss, at the glass, gives the reason (the trunk quit last, the forward channel is finest, the finest channel pulls hardest) and calls the synthesis filthy and correct, wanting both findings in the book. Malphas asks Foss to get the Arbitration Division's field manual for its unsigned attribution paragraph; Foss refuses a wire and says it will take a season, and Malphas accepts a season. Nuvalik states what the hind is: no Crystal, no self, a net that shortens toward the emptier end. Malphas orders the night written up in ink under the project's name by four hands. The hind does not stand. Vesk sees the hide at her shoulder draw up once, tells nobody, and counts the drip to twenty-two.
+
+**Ch3 · The Morning Check.** Day 1, noon to the ninth division. Wystan wakes with his hands shaking. He recalls Keld's minute, then reads the written record against it word for word. It has not moved. At the medical house the porter admits him by his face, because his brass is on the tin lid at Cutler Row. Keld sits at the window counting under his breath at something Wystan cannot find. He asks "Is that them" and says "They said the sixth." At the day desk Prime Warden Elspeth Lyle reads the edges memorandum and calls the file a curiosity. The Register may keep it open until the quarterly inspection of the gauge-housing and not a day longer. In the upper passage Brack stands by bleed and hands over the Bureau's raw Ferriby field sheets unasked. In Lyle's shut room the position and the term go into her minute in ink, under her silver, and he initials both. Residue settles on his skin and he does not remark it. Lyle orders the sheets entered as received unasked and denies sending for Brack. At the ninth division Wystan tells Brack: "I will get a hand and not a purse."
 
 ### Hook agenda
 
-Hooks planted or advanced and due within 3 chapters (due ch4–ch7), and any overdue:
-
-- **H08-concealed-contraction** (planted ch2, due ch6, status planned). Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens. Keywords: contraction, shoulder, separately, twice. Not this chapter's to pay (Nuvalik/Malphas side); do not touch.
-- **H01-far-side-of-the-marker** (planted ch1, due ch7, status planned). Tally found clean ground on the far side of the parish marker, twenty-two paces past the last carcass, and checked it twice; Wystan writes 'ask Tally who set the marker'. Paid when the lick-keeper's round is found to end at the marker: the carrier turned home there. Keywords: marker, far side, lick, turned. Wystan-side; do not touch.
-- OVERDUE: none (no hook with due_ch before ch4 is unpaid).
-
-Note: state.json still reads status "planned" for the ch1/ch2 plants (H01–H11, H21; H23 and H24 read "advanced"); the memory pass for ch1/ch2 has not run, so H01 and H08 are listed by their outline plant chapter. This chapter's own plants (H16, H17, H18, H19) are due ch22, 47, 57 and 58.
+- **H08-concealed-contraction** (planted, due ch6; keywords contraction, shoulder, separately, twice). Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens. Not this chapter's to pay: ch4 is Deming's counting house and neither hook's cast is in the room.
+- **H01-far-side-of-the-marker** (planted, due ch7; keywords marker, far side, lick, turned). Tally found clean ground on the far side of the parish marker, twenty-two paces past the last carcass, and checked it twice; Wystan writes 'ask Tally who set the marker'. Paid when the lick-keeper's round is found to end at the marker: the carrier turned home there. Not this chapter's to pay: ch4 is Deming's counting house and neither hook's cast is in the room.
+- **OVERDUE:** none (no hook has a due_ch before 4).
+- **Planted here:** H16, H17, H18, H19 (see The beat). H16 comes due at ch22, so it must be planted on this page.
 
 ### Audit carry-forward
 
-No `AUDIT_ch*.md` exists for this book yet.
+From `AUDIT_ch05.md` (the latest audit; written when ch4 had no text). Critical items, and the ones that bind ch4:
+
+- **Chapter 4 does not exist (CRITICAL for the book).** "H16–H19 are unplanted, and the-swale-wastage has no push. Xu Deming has never appeared on the page." Carry-forward 6: "Draft ch4 before ch9, planting H16–H19 and ticking the-swale-wastage s1. Until it exists, no chapter treats Deming's thirty-one days, eleven weeks, the Project-name letter or the Hollow Shaft joke as already said." This chapter is that draft.
+- **Unplanted hooks: WARN, CRITICAL once ch22 nears.** "H16 pays in ch22, and nothing has planted it."
+- **Memory gap (CRITICAL at audit time).** state.json then held only ch3; it now carries summaries and facts for ch1–3. Ch5 (drafted before this chapter, Wystan POV) is still not in state.json. Nothing in ch5 touches Deming; do not contradict it.
+- **Identity line (CRITICAL if found): none found.** Carry-forward 5: "Keep 'Ashmore' off the salt route." For ch4: Deming never hears or writes Wystan's name; the Register, if it appears in his thought, is an institution ("the Night Register", a file-builder), never a person he can picture.
+- **C1 (CRITICAL ⇢ ch44), C2 (⇢ ch6), C6 (⇢ ch9), C7 (⇢ ch12), C8 and C9 (⇢ ch7)** concern Wystan-side and cell chapters and do not bind ch4. One touches its figures: C6, the carcass counts. Tally's field count is eleven hinds and a stag; the cell's rail is nine hinds. Deming's source line prices "Third dilution against nine hinds and a stag", which is his figure in his mouth, and is the cell's (not Wystan's) count; ch4 may keep Deming's figures but must not hand them to any Wystan-side document.
+- **Front status:** the-swale-wastage segment 1 "Diversion" at 0/3 (ch4, 9, 11). This chapter makes the first push.

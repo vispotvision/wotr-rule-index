@@ -1,0 +1,8 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# A Number in the Room","problem":"none","evidence":"verify --band set-piece --culture Accord: PASS 0 fail 0 warn; flat runs 2 (fail at 4); sentence CV 0.83; italic interior beats 6","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# A Number in the Room","problem":"none","evidence":"3925 words vs target 3500 (112%, window 2800-5250); ends on a thing he can see","fix":"none"},
+{"severity":"info","pass":"shape","quote":"Covering letters stop on my desk and go in the stove at quarter-day.","problem":"none","evidence":"declared NPC lie present verbatim (1 hit); declared misreading 'Once the carriage was lost to him, the Swale page was the capital's trouble and no longer his.' present verbatim (1 hit)","fix":"none"},
+{"severity":"info","pass":"combat_floor","quote":"# A Number in the Room","problem":"not applicable","evidence":"talky scene, no combat; verify run without --combat","fix":"none"},
+{"severity":"info","pass":"voice","quote":"In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.","problem":"unscorable","evidence":"voice_check: no fingerprint for Xu Deming or the Logistics factor (fewer than eight attributed archive lines); 8 Deming lines and 1 factor line tried","fix":"none; manual voice review"},
+{"severity":"info","pass":"hooks","quote":"# A Number in the Room","problem":"none","evidence":"pays: [] so no hook must pay; planted H16-H19 keywords all present (thirty-one, counted, useful, eleven weeks, Logistics, return, Swale, Project Zombification, chose, file, Hollow Shaft, correspondence, precedent)","fix":"none"}
+]}

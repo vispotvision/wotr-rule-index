@@ -6,8 +6,11 @@ quoted or read straight off a system page; nothing here is invented.
 
 Standard: `wiki/The Magic System/The Physical Account Two Sets of Books.md` —
 "The Continuum keeps two sets of books on every working ever performed, and they
-balance." Each account carries the physical half, the stratal half, the mechanism
-as a boundary condition, and the ledger in Essence Units.
+balance." Each account carries five sections: the physical half; the stratal
+half, closing on a **lens** from philosophy or historical pseudoscience; the
+**mechanism, which is the effect**; the ledger in Essence Units; and the
+**counterplay and challenge** — a fairness check and a lookup trail. Sections 2,
+3 and 5 answer to Isaac's two later rulings, set out in §X below.
 
 ---
 
@@ -192,3 +195,71 @@ twenty-eight. Logged as `SA-GAP-AETHERIC-DENSITY`, the batch's largest gap.
 Each physical account below therefore states its energy budget in SI and says
 where those joules were sitting, and stops there. It does not claim the working
 clears or breaches a ceiling, because there is no ceiling to clear.
+
+## X · The two later rulings, and what they changed
+
+Isaac widened the format twice after the first seventeen accounts were written.
+Both are applied to all twenty-eight.
+
+### X.1 · Addendum 1 — fair, a challenge, and a wider well
+
+`.claude/skills/wotr-write/references/fair-play.md`. His words: "I want it to be
+a 'Challenge' want people to have to think look up stuff thats the whole fun of
+this" and "incooperated philosophers different pseudoscientific stuff just
+explore a lot of things".
+
+**Section 2 closes on a lens.** One idea from philosophy or historical
+pseudoscience, credited by thinker and work, that fits the working: it explains
+how the law is *understood or believed*, and it never changes a mechanic or a
+number. Every lens in this batch also names the **productive misreading** — the
+school that reads the working through the lens wrongly, and what that school gets
+killed by. The twenty-eight, in page order: Aristotle's four causes · alchemical
+palingenesis (Kircher) · Leibniz's compossibility · Stoic pneuma and *tonos*
+(Chrysippus) · Bergson's *élan vital* · Cusa's *coincidentia oppositorum* ·
+Kepler's *Harmonices Mundi* · James's specious present · *solve et coagula*
+(Valentine) · Goethe's *Farbenlehre* · *nomos* against *physis* (Antiphon) ·
+Lavoisier's caloric · Dionysian theosis · Zhuangzi's butterfly · the *vis
+imaginativa* (Avicenna, Agrippa) · Austin's performatives · the tulpa
+(David-Néel) · Berkeley's *esse est percipi* · Ficino's musical medicine · Zeno's
+dichotomy · Plotinian emanation · Democritus' *eidola* · Mesmer's animal
+magnetism · the *Kybalion*'s Hermetic Principles · Plato's wax tablet · Plato's
+cave · Paracelsus on signatures · Aristotle on cold as an active quality.
+
+**Section 5 is new.** The **fairness check** — five tests from the brief (a cost
+that hurts, stated limits, something beats it, a tell, numbers in band), each
+with a pass or fail and its reason. Then the **Counterplay routes that work**,
+named against the four in `wiki/The Magic System/Counterplay What Beats a
+Practitioner.md` and quoted from it, including routes the technique page omits.
+Then the tell, stated plainly. Then the **lookup trail**: the pages a player
+would have to read to assemble the counter, as a list of paths. Pieces, never the
+solution — no account spells the answer out.
+
+**New conflict kind `fairness`:** the working fails one of the five checks. Eight
+are logged. Never nerfed silently.
+
+### X.2 · Addendum 2 — the mechanism IS the effect
+
+Isaac, logged in `RULINGS.md`: "the mechanism in the effect should be the SAME
+thing the Mechanism is the Effect or how it works."
+
+- Section 3 is titled **Mechanism (the effect)** and follows the working from the
+  glyph's boundary, through the law, to **what the target sees and feels** — which
+  is now the closing paragraph of every section 3.
+- **There is no separate effect description anywhere in an account.** Section 1's
+  lead-in, formerly "The effect in plain words", is now "The phenomenon in plain
+  words" and states the physical situation rather than the outcome.
+- **New conflict kind `effect-mechanism`:** a wiki page's Effect line describes
+  something its Mechanism line does not produce, or the reverse. Thirteen are
+  logged.
+
+### X.3 · The questionnaire
+
+`_conflicts.jsonl`, one JSON line per conflict, 104 rows, each carrying `id`,
+`page`, `kind`, both quotes with their paths, `why`, and two to four `options`
+with what each would change. Kinds: `gap` 29 · `number` 25 · `effect-mechanism`
+13 · `cross-page` 10 · `physics-open` 8 · `fairness` 8 · `off-system` 6 ·
+`unattested` 5. Every `SA-` identifier cited anywhere in the twenty-eight
+accounts resolves to a row, and every row is cited by at least one account.
+**Nothing is resolved.** The four largest are `SA-GAP-EU-FORMULA`,
+`SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR` and `SA-GAP-TURN-LENGTH`, and
+each of them blocks a check the issue asked for.

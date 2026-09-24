@@ -6,6 +6,21 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-24 (writing skills in Claude Code)
+
+**The seven claude.ai WOTR skills now live in the repo, adapted for Code.**
+`.claude/skills/wotr-write` (+ references: scene-pipeline, technique-design,
+character-sheet, prose-law-quickcheck, tools), `wotr-rp`, `wotr-npc`,
+`wotr-phenomenon`, `wotr-wound`, `wotr-stat-line`, `wotr-ledger`. Same craft
+content as the account skills; what changed: `mcp__wotr__*` names with
+`build/book_tools.py` / `build/verify.py` fallbacks, drafts go to
+`/tmp/wotr-drafts/`, sources are the `wiki/` mirror (the Stat Sheet workbook
+is not in the repo: "workbook, unchecked"), and every writer
+(`archive_scene`, `ledger_add`, `npc_set`, ...) is a proposal made on Isaac's
+word, per AGENTS.md. The claude.ai account copies are unchanged and still
+serve Desktop chat; a craft change should land in both. `~/wotr-natalie`
+picks these up on its next pull.
+
 ## State on 2026-09-23 (the Magic System pass)
 
 **Tiers 8/9 renamed and every open Magic System conflict ruled.** Tiers of

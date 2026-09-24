@@ -1,6 +1,6 @@
 ---
 name: wotr-ops
-description: Procedures for running the War of the Realms machine at /home/oridon/wotr-rule-index that no tool returns — turning a transcript or a pasted scene into archived scenes in the right order, adding a character card without making a second one, knowing which wotr MCP call commits and pushes before you make it, and keeping the scene indexes honest. Use when Isaac says "archive this scene", "cut this transcript into scenes", "add this character", "close out the session", or asks where a rule, a number or a fact lives. Do NOT use for writing prose: the craft law, registers, stat tables and loadouts are served live by the wotr MCP (load_rules, check_docket, character, fow_line, wiki), and desktop/NATALIE.md governs the drafting.
+description: "Procedures for running the War of the Realms machine at /home/oridon/wotr-rule-index that no tool returns — turning a transcript or a pasted scene into archived scenes in the right order, adding a character card without making a second one, knowing which wotr MCP call commits and pushes before you make it, and keeping the scene indexes honest. Use when Isaac says 'archive this scene', 'cut this transcript into scenes', 'add this character', 'close out the session', or asks where a rule, a number or a fact lives. Do NOT use for writing prose; that is wotr-write (the craft law, registers, stat tables and loadouts are served live by the wotr MCP, and desktop/NATALIE.md governs the drafting)."
 ---
 
 # WOTR operations

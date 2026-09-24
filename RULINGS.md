@@ -614,3 +614,27 @@ Context: Session 24 Sept 2026. Isaac's standing direction for how Natalie writes
 Mechanism and Effect are one thing. The Effect of a working is its mechanism playing out: what happens is written as how it happens (the glyph moves a boundary, the law does what it does, and that is what the target sees and feels). No Effect line that could be true of a different mechanism, and no Mechanism line that leaves the Effect to be described separately. Isaac's words: "the mechanism in the effect should be the SAME thing the Mechanism is the Effect or how it works". Applies to technique and ability entries, cards, sheets, the system accounts (WAR-3..7) and in-world documents.
 
 Context: Session 24 Sept 2026, during the system-accounts pass (Paperclip WAR-3..7). The Technique entry format in .claude/skills/wotr-write/references/technique-design.md and 63 Technique/Spellcraft wiki pages carry separate **Effect** and **Mechanism** fields.
+## 2026-09-24 — the four remaining Magic System items closed; C-030 through C-033
+
+Isaac, in Claude Code (the WAR-2 questionnaire, one question per item; each
+answer is his choice among stated options, quoted here as ruled). Rows R43-1
+to R43-4 in `rules/doc-magic-system-rulings-2026-09-24.yaml` carry them into
+the index.
+
+- **C-030.** Ryuka Yukari's Crystal State becomes null and his Crystal Tier is
+  Awakened Crystal; the phrase "Dormant network, awakening surface" leaves the
+  card entirely.
+- **C-031.** Kinjiki's η is ~1.2, the Archmaster ceiling, and his Crystal Tier
+  stays Absolute Crystal, the pairing Class Ω carries.
+- **C-032.** The Color of Essence's Revelation cell is restored to its own
+  sentence and the block pasted inside it is lifted out as "Part Five · Prose
+  Application" after Part Four, the same words re-homed; Limina's absence is
+  left visible as a gap rather than papered over.
+- **C-033.** The retired lettered Coherence Band is replaced, wherever it
+  survives outside the Magic System pages, by the Tier of Standing for the
+  page's Stage, and η is kept as written.
+
+Context: the four items left open by the 2026-09-23 Magic System pass
+(`CONTINUE.md`, that block). Evidence and options were put to Isaac as one
+questionnaire; C-033's sweep was held until C-030 and C-031 were answered,
+because it walks past both η figures on its way through.

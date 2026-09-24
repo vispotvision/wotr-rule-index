@@ -1,6 +1,6 @@
 # Live rules by domain
 
-562 live of 687 extracted.
+566 live of 691 extracted.
 
 ## adjudication (29)
 
@@ -34,7 +34,7 @@
 - **R39-4-MAX_GRADE_LETTER_BINDS** [Stat System and Scene Rulings 2026-09-13 C-011] A Sub-Stat may not be allocated past the top of the Stage's Max Grade bracket (V 275, VII 400, IX 550, XI 725). The band from there to the Stage's numeric ceiling is reachable only under strain, never by spending points.
 - **R28-1-BLACK_STONES_SHALE_ANALOGUE** [Voidfall Stone / Black Stones Ruling Standing Ruling] The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
 
-## character-sheet (80)
+## character-sheet (83)
 
 - **R20C-16-SONZAI_RECORD_CARD** [Pack Twenty R20C-16] Sonzai gets a record card, not a character card: identity, standing, the Erasure act as a dated event, relations, reference art. No voice section, no interiority, no dialogue samples.
 - **R20C-32-PRECEDENCE_FOW_WORKBOOK_CARD** [Pack Twenty R20C-32] Precedence: Fracture of Worlds, then the Stat Sheet workbook, then the Notion card. The card is a rendering and it drifts.
@@ -100,6 +100,9 @@
 - **R42-12-CLASS_LADDER_NOT_A_LOCK** [Magic System Rulings 2026-09-23 follow-up] The Class ladder is the typical path, not a lock.
 - **R42-13-CRYSTAL_STATE_FIELD** [Magic System Rulings 2026-09-23 follow-up] A tier word in the Crystal State field moves to Crystal Tier; State null.
 - **R42-15-KINJIKI_ARCHMASTER** [Magic System Rulings 2026-09-23 follow-up] Kinjiki's Tier of Standing is 8, Archmaster.
+- **R43-1-RYUKA_AWAKENED_CRYSTAL** [Magic System Rulings 2026-09-24 C-030] Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal.
+- **R43-2-KINJIKI_ETA_1_2** [Magic System Rulings 2026-09-24 C-031] Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
+- **R43-4-LETTERED_BAND_SWEPT** [Magic System Rulings 2026-09-24 C-033] The lettered Coherence Band gives way to the Tier of Standing everywhere.
 - **R22-2-NAMED_CHARACTERS_TABLE** [Moto Reversion Ledger II] Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
 - **R22-2-UNAFFECTED_CHARACTERS** [Moto Reversion Ledger II] Hild Ice and Robin Ice keep the Stark maternal register; Filemu Agamalu and the whole Agamalu house keep Polynesian register, which the amendment never governed; Tomuka, Ezo, Kuroyuki and Mizuyi were never converted and stay as they are.
 - **R20-1-BEASTKIN_ANCHOR** [Naming Guide Amendment Part One] Real anchor is Akan day-naming plus the Name-Keeping tradition: a soul-name by birth circumstance, a held name as the last thing that cannot be taken; the soul-name carries an attribute the bearer is expected to embody, and failing it is a strong source of internal shame.
@@ -117,7 +120,7 @@
 - **R39-5-PERSISTENCE_FATE_GATE_VII** [Stat System and Scene Rulings 2026-09-13 C-012] Persistence (formerly Nullity) passes S-Grade on the Fate path at Stage VII, as the Four Paths page has it; Part Seven's Stage V is corrected.
 - **R39-6-DISSONANCE_CEILING_TRIO** [Stat System and Scene Rulings 2026-09-13 C-013] The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part Sixteen's list, which named Overchannel twice and dropped Overflow after the merge ledger, is corrected to match.
 
-## codex (38)
+## codex (39)
 
 - **R20C-41-CHANTCRAFT_FIFTH_CRAFT** [Pack Twenty R20C-41] Chantcraft is the fifth craft, Ars Cantus its medium-home. Not folded.
 - **R18-2-CODEX_FIRST_MANDATE** [Pack Eighteen §2] Before naming, pitching, converting or writing a working, the design order is fixed: read the Spell Index for precedent, then the Master Glyph Index, take Wellspring/Family/Physics Domain/Temperance Min/Category/Glyph Class assignment from the Lists sheet (never from memory), route alchemy to the Alchemical Index, and only then design and write.
@@ -157,6 +160,7 @@
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
+- **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
 
 ## combat (64)
 
@@ -354,7 +358,7 @@
 - **R33-1-ZETTARI_AGANO_SAND_WITNESSED_TEMPER** [Zettari Forge Culture Ruling Standing Ruling] The Zettari forge culture answers "what makes a thing trustworthy?" with witness and inheritance, not time: a Zettari-forged object is declared reliable once, before a witness older than the speaker, and the bloodline's Material Covenant Resonance holds the declaration in place. The substrate is Agano Sand ("covenant", Swahili-derived, inside the Zettari's own register), a working measure of the Paths' sand -- condensed lineage memory -- folded into the quench. It is access-gated rather than time-gated: it must come from, or through, someone the Paths already recognize. The rite is the Witnessed Temper, a Vow Clause working and not new magic: at the quench the smith or the sovereign the piece is for speaks a bound claim over the object before a Stone Witness (a ruin, an ancestral hall, a Path-linked relic), and the claim becomes a standing law the object runs. Write it as witnessed law, set against the Dawi's brewed endurance; the cross-culture parallel slot is deliberately left open.
 - **R33-2-ZETTARI_WITNESSED_TEMPER_ITEM_BEHAVIOUR** [Zettari Forge Culture Ruling Standing Ruling] A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: every significant strain it survives in the hands of whoever it was sworn to makes it measurably more resistant to that same kind of stress thereafter, and the hardening plateaus the way the bloodline's own combat maturity does. If the piece changes hands outside the terms of the oath its accrued memory does not transfer -- the cost falls on the object's recognition of the new holder, not on the oath-breaker's Crystal Coherence as with the Dawi -- and in the worst documented cases Physical Plane Authority's "hold shape" reverses for that bearer alone, making the piece more failure-prone in their hands than an ordinary equivalent. Trade entry, Standing Index format: Agano Sand, T4, provenance restricted, Class III / Fidelity A / Carry 26, price 26.0; sourcing requires a lineage-acknowledged Zettari's sponsorship, and no smith outside Kushara has explained why the sand only "listens" to a claim spoken over stone older than the speaker.
 
-## magic-design (80)
+## magic-design (81)
 
 - **R20C-28-PHENOMENON_BANK_CANDIDATES** [Pack Twenty R20C-28] The Phenomenon Bank's eight seeds are ratified as candidates, not canon. A seed becomes canon the session someone is derived from it — refusal, wound, conviction, then the phenomenon.
 - **R20C-38-PACK_EIGHT_SECTION_TWO_ENTIRE** [Pack Twenty R20C-38] Section Two ratified entire. True name in the practitioner's own language.
@@ -436,6 +440,7 @@
 - **R31-1-ABYS_DEEP_ATTESTED_AT_OBLATION_FLUXIA** [Abys Deep Codex Amendment Ruling Standing Ruling] The Master Codex row for [Abys] Deep now lists Oblation among its attested Wellsprings and Fluxia among its attested Families, so a Codex assignment line drafting [Abys] on an Oblation-primary, Fluxia construct is legal as written. Its Primary Wellspring, Family and Physics Domain (Abyntheus, Fulguria, Electromagnetism) are unchanged, and [Th] Foundation is not amended and stays cross-family.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
+- **R43-4-LETTERED_BAND_SWEPT** [Magic System Rulings 2026-09-24 C-033] The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 ## magic-mechanism (102)
 
@@ -728,7 +733,7 @@
 - **R35-2-NARRATION_DISTANCE_ASSIGNMENTS** [Narration Distances (Psychic Distance by POV) Close register / Medium register / Distant-formal register / Unassigned] Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin. Medium register: Rengai. Distant/formal register: Cozbi Mahuo. Each assignment carries a violation caution (never a narratorial verdict Darius does not voice himself; never validate Aurelian's certainty from outside his idiom; no neutral Church register for Verinus; no practitioner's jargon for Charles; no interpretive-summary sentences past Sodoku's procedural read; Niran's feeling only through his clinical vocabulary; Wren laconic and tactical only; Kwon Mu-jin's failing read shown from inside; no retrofitted first-person italics or verdicts for Rengai; Cozbi's explanation stays inside his self-mythologizing frame). Hild Ice and Dabney are unassigned until scenes in their own idiom exist for Isaac to rule on.
 - **R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK** [Stat System and Scene Rulings 2026-09-13 C-008] The narration-distance rule wins over Pack One's Scene Standards carve-out: a named NPC gets no private italic thought in a scene with a POV lock. The carve-out survives only where there is no lock — omniscient narration and mass combat.
 
-## prose-law (122)
+## prose-law (123)
 
 - **R20C-29-CATEGORY_NAMING_DIAGNOSTIC** [Pack Twenty R20C-29] Category naming in diagnostic voice: allowed.
 - **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
@@ -844,6 +849,7 @@
 - **R2-5-RESOLUTION_IN_AFTERMATH** [Pack Two Amendment Five] The relationship change is legible in how the two characters handle an unrelated later scene; if a character ever says what the act meant, the amendment has been violated and the scene has been spent.
 - **R41-1-DISTANCE_IS_TWO_AXES** [Distance Two Axes Ruling C-015] R35-2's register (close, medium, distant/formal) says whose idiom the narration runs in; Pack Twenty's band (1 to 5) says how deep inside the POV it sits. Both assignments stand and neither trades off the other: Cozbi runs distant/formal at band 5.
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
+- **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
 - **R20-4-PRONUNCIATION_ADAPTATION** [Naming Guide Amendment Part Four] When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
 - **R20-5-FORMAL_ADDRESS** [Naming Guide Amendment Part Five] A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
 - **R20-5-ON_THE_PAGE** [Naming Guide Amendment Part Five] Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
@@ -1032,7 +1038,7 @@
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R22-7-KHARVEN_INVENTORY_KEPT** [Moto Reversion Ledger VII] The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
-## stats (59)
+## stats (62)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
@@ -1083,6 +1089,9 @@
 - **R42-11-DISSONANCE_SUBSTATS_BY_C013** [Magic System Rulings 2026-09-23 C-029] Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 - **R42-12-CLASS_LADDER_NOT_A_LOCK** [Magic System Rulings 2026-09-23 follow-up] The Class ladder is the typical path, not a lock.
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
+- **R43-1-RYUKA_AWAKENED_CRYSTAL** [Magic System Rulings 2026-09-24 C-030] Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal.
+- **R43-2-KINJIKI_ETA_1_2** [Magic System Rulings 2026-09-24 C-031] Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
+- **R43-4-LETTERED_BAND_SWEPT** [Magic System Rulings 2026-09-24 C-033] The lettered Coherence Band gives way to the Tier of Standing everywhere.
 - **R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE** [Obsession Force / Attraction Path Gate Ruling Standing Ruling] A practitioner whose Attraction Layer runs under Obsession Force — the corrupted inversion of Attraction Force — still satisfies an Attraction Path gate for sub-stat purposes. Obsession does not cap Attraction-gated sub-stats hard; this is a setting-wide mechanical rule covering every corrupted practitioner, not a fix scoped to one character.
 - **R26-1-CONCORDANT_CRYSTAL_MECHANISM** [Shared Soul Crystal Mechanism 1] Establishes the Concordant Crystal as the general, reusable mechanism for a Soul Crystal shared by multiple donors: the Essence Cores stay discrete and take turns at the frame's single, non-multiplying Aether Shell; the Attraction Layer alone runs one Wellspring line per donor; Coherence and eta are pooled off the Shell while Tempering Coherence stays per-donor; the frame runs Overgrown by default; and a donor's death or removal either settles the frame toward Refined or, if the survivors will not release it, curdles into Obsession Force -- a failure mode, like single-Shell collapse, that no single-donor Crystal can suffer.
 - **R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT** [Stat Gates and Re-cost Ruling Standing Ruling] Where Part Twelve's Merge Ledger folds several of the old 120-register Sub-Stats into one, and Part Seven gates a component of that Sub-Stat on a Path (Density's inscription and glyph-chain durability on Spirit Path at Stage III, Tolerance's gravitational component on Attraction Path at Stage VI, and the rest), the component gate binds the merged Sub-Stat's whole number: a sheet without that Path commitment cannot carry the merged value above the component's Grade cap. The reading is strict, not lenient. Violating values on existing sheets are lowered to their caps in the same-day re-cost (R38-2).

@@ -607,3 +607,39 @@ the author notes."
 **Consequence if unresolved:** a Dissonance scene cannot say which numbers the Threshold reads.
 **Recommendation:** none; if FoW II governs, both bare "Nullity" become Persistence and FoW VI's Detonation becomes Overflow.
 **Status:** closed — ruled by Isaac, 2026-09-23 (RULINGS.md; R42 rows)
+
+## C-030 — Ryuka's Crystal State is a phrase, not a State
+
+**Rules:** `Volume I — Character Cards/Ryuka Yukari · The Little Wayfinder.md:41` vs `The Magic System/Tier Grade, Bands & the Aether Shell.md:171, 172, 182, 186` and R42-13-CRYSTAL_STATE_FIELD
+**The clash:** the card's Crystal State field holds a descriptive phrase rather than one of the three States, and the one tier word in it, "Dormant", is the Class Ø pre-Initiate Crystal — while the card's own Stage I and Unclassed Shell put him in the Awakened Crystal under C-021. The card carries no Crystal Tier field, so the 2026-09-23 follow-up that moves a tier word out of the State field has no target on this card.
+**Quotes:** Card: "**Crystal State** · Dormant network, awakening surface. **η** · ~0.40, Coherence Band F." TG&B:171: "**Dormant Crystal** | Sealed and silent. Precedes all awakening. … | Class Ø · pre-Initiate". TG&B:172: "**Awakened Crystal** | … | Unclassed · Initiate to Adept · Stages I–IV". TG&B:182: "Separate from Tier. A Crystal at any Tier can occupy any of these."
+**Consequence if unresolved:** Ryuka's sheet cannot state a Crystal Tier, and the State field returns a phrase that is not one of the three States.
+**Recommendation:** none. TG&B:168 does license a Crystal running behind its Stage ("A Crystal can run ahead of or behind its Shell or Core, and the gap is itself diagnostic"), so leaving the field as a diagnostic reading was a live option.
+**Status:** closed — ruled by Isaac, 2026-09-24 (RULINGS.md; R43-1)
+
+## C-031 — Kinjiki's η ~1.3 and Absolute Crystal at Stage XIV
+
+**Rules:** `Volume I — Character Cards/Kinjiki, The Inversion.md:34, 36, 52` vs `The Magic System/Tier Grade, Bands & the Aether Shell.md:177, 209, 210` and `Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md:36`, with R42-15-KINJIKI_ARCHMASTER
+**The clash:** two clashes on one line. The card gives η ~1.3 and calls it Paragon range, but the efficiency table gives Archmaster 0.95–1.2 and Paragon above 1.2, and R42-15 already corrected this card's Tier of Standing to 8, Archmaster. Separately the card's Crystal Tier is Absolute Crystal while the Crystal table files Stages XIII–XIV under Crystallized Soul — though the card's Class Ω Shell and FoW VII:36 pair Class Ω with Absolute Crystal directly, so that half may be lawful as written.
+**Quotes:** Card: "**Crystal State** · Refined. **Crystal Tier** · Absolute Crystal. **η** · ~1.3, Paragon range." TG&B:209: "**8 · Archmaster** · Principality to Zenith | 0.95 – 1.2". TG&B:210: "**9 · Paragon** · Revelation to Apex | above 1.2, unbounded". TG&B:177: "**Crystallized Soul** | … | Archmaster · Stages XIII–XIV". FoW VII:36: "**Class Ω — The Absolute.** … Paragon, Absolute Crystal."
+**Consequence if unresolved:** a scene pricing Kinjiki's sustained output cannot say which η the Threshold reads, and the card contradicts the Tier already ruled for it.
+**Recommendation:** none.
+**Status:** closed — ruled by Isaac, 2026-09-24 (RULINGS.md; R43-2)
+
+## C-032 — a Part Five pasted inside the Color of Essence's Revelation cell
+
+**Rules:** `The Magic System/The Color of Essence.md:46` (headings at `:26`, `:51`, `:67`, `:80`)
+**The clash:** not two rules but a malformed page. A whole prose-application section sits inside the XV · Revelation row's third cell, splitting the word *accompanies* across it. The page has headings for Part One through Part Four and no Part Five heading anywhere, the block is not a duplicate of Part Two (Part Two is hue by Family; the block is how to write each Family in prose), and it covers seven Families — Limina, the eighth at `:65`, has no line. One copy of the text exists in the repo, so there is no clean version to restore from.
+**Quotes:** `:46`, mid-cell, the seam: "the specific quality of fear that accom" → "Part Five · Prose Application" → "Essence does not glow. It does what the physics of its Family would do if that physics were visible." → the seven Family lines, ending "Fluxia · Humidity. Light behaving the way it behaves through water, colors shifting teal-green, the air thicker. Ears may pop from ambient pressure change" → "panies encountering something the Continuum treats as a peer".
+**Consequence if unresolved:** the Revelation row is unreadable and the prose-application guidance is not findable as guidance.
+**Recommendation:** none. `sources/` is read-only, but this is the wiki mirror of a Notion page, so the read-only rule does not bind the repair.
+**Status:** closed — ruled by Isaac, 2026-09-24 (RULINGS.md; R43-3)
+
+## C-033 — the retired lettered Coherence Band still stands outside the Magic System
+
+**Rules:** `Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md:82` and `VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md:90` vs 212 of the 275 files in `wiki/Volume I — Character Cards/`, 7 lines across 6 files in `wiki/Techniques/`, `Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md:14` and `The Scene Archive/The Left of the Door — Renard Greymane at the Altar-Room Door.md:48, 49`
+**The clash:** the Magic System pages retire the lettered Coherence Band and put the Tier of Standing in its place; 245 lines of card text, the Arctic Lion sheet and a scene-archive header still carry the retired scale. The Technique pages are worse than stale: they drop the word "Coherence", so a bare "Band B" there now reads three ways, two of them live — retired Coherence Band, Level Band I–V, or the lettered Tier Grade the 2026-09-23 batch kept.
+**Quotes:** FoW II:82: "It replaces the former lettered Coherence Bands, which shared their letters with the Grade table and stopped at Zenith." FoW VII:90: "The nine Tiers of Standing replace the former lettered Coherence Bands." Card, typical: "**Stage VIII — Transcendence** · **Level 246** · Coherence Band B · Grade S · Ceiling 550." (`Volume I — Character Cards/Aelor Vaelith · The Imperial Pegasus.md:50`) Technique: "**Stage floor** · Stage VIII, Transcendence (Band B)." (`Techniques/Edictum Resonantiae.md:63`)
+**Consequence if unresolved:** `fow_line` and every card return a retired field, and a Technique's bare "Band" cannot be read.
+**Recommendation:** none.
+**Status:** closed — ruled by Isaac, 2026-09-24 (RULINGS.md; R43-4)

@@ -1,6 +1,6 @@
 # Live rules by domain, with source text
 
-562 live of 687 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+566 live of 691 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
 ## adjudication (29)
 
@@ -178,7 +178,7 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (80)
+## character-sheet (83)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -564,6 +564,24 @@ Kinjiki's Tier of Standing is 8, Archmaster.
 
 > Stage XIV is Tier 8, Archmaster; the card is corrected from Paragon.
 
+### R43-1-RYUKA_AWAKENED_CRYSTAL [Magic System Rulings 2026-09-24 C-030]
+
+Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal.
+
+> Ryuka Yukari's Crystal State becomes null and his Crystal Tier is Awakened Crystal; the phrase "Dormant network, awakening surface" leaves the card entirely.
+
+### R43-2-KINJIKI_ETA_1_2 [Magic System Rulings 2026-09-24 C-031]
+
+Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
+
+> Kinjiki's η is ~1.2, the Archmaster ceiling, and his Crystal Tier stays Absolute Crystal, the pairing Class Ω carries.
+
+### R43-4-LETTERED_BAND_SWEPT [Magic System Rulings 2026-09-24 C-033]
+
+The lettered Coherence Band gives way to the Tier of Standing everywhere.
+
+> The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
+
 ### R22-2-NAMED_CHARACTERS_TABLE [Moto Reversion Ledger II]
 
 Möngke→Bara, Sarnai→Mizuki, Temür→Sodoku, Muken→Muken (given name was never converted), Saruul→Yukazuri, Chuluun→Sonzai (originated name dissolved, not translated), Enkhtuya→Emira (originated name dissolved), Souma Tsagaan→Souma Byakuya, Artemis Amagiri Büri→ Artemis Amagiri Moto (Amagiri was already Japonic and survives intact) — all with the Moto surname/bloodline where applicable.
@@ -663,7 +681,7 @@ The Dissonance-gated Sub-Stats are Overflow, Overchannel and Persistence; Part S
 
 > The Sub-Stats that reach their true ceiling only through Dissonance are Overflow, Overchannel and Persistence (Part Eight and The Sixteen Stages agree); Part Sixteen's list is corrected to match.
 
-## codex (38)
+## codex (39)
 
 ### R20C-41-CHANTCRAFT_FIFTH_CRAFT [Pack Twenty R20C-41]
 
@@ -892,6 +910,12 @@ There are four Paths, Fate included.
 Viaforma gains Via Fati for the Fate Path.
 
 > Viaforma gains a fourth Via, Via Fati, for the Fate Path, described from The Four Paths' Fate section only.
+
+### R43-3-COLOR_OF_ESSENCE_PART_FIVE [Magic System Rulings 2026-09-24 C-032]
+
+Part Five · Prose Application is lifted out of the Revelation cell.
+
+> The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
 ## combat (64)
 
@@ -2005,7 +2029,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (80)
+## magic-design (81)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -2486,6 +2510,12 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 There are four Paths, Fate included.
 
 > There are four Paths: Body, Spirit, Attraction and Fate.
+
+### R43-4-LETTERED_BAND_SWEPT [Magic System Rulings 2026-09-24 C-033]
+
+The lettered Coherence Band gives way to the Tier of Standing everywhere.
+
+> The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
 ## magic-mechanism (102)
 
@@ -4172,7 +4202,7 @@ The narration-distance rule wins over Pack One's Scene Standards carve-out: a na
 
 > The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's "one private italic thought per named NPC" carve-out survives only for scenes with no POV lock (omniscient and mass combat).
 
-## prose-law (122)
+## prose-law (123)
 
 ### R20C-29-CATEGORY_NAMING_DIAGNOSTIC [Pack Twenty R20C-29]
 
@@ -4857,6 +4887,12 @@ R35-2's register (close, medium, distant/formal) says whose idiom the narration 
 The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 
 > Name-avoidance. The name of the recently dead is not spoken until it has been given on. This interlocks with the Standing Inventory at no cost: the Waiting is the silence.
+
+### R43-3-COLOR_OF_ESSENCE_PART_FIVE [Magic System Rulings 2026-09-24 C-032]
+
+Part Five · Prose Application is lifted out of the Revelation cell.
+
+> The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
 ### R20-4-PRONUNCIATION_ADAPTATION [Naming Guide Amendment Part Four]
 
@@ -5916,7 +5952,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (59)
+## stats (62)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -6211,6 +6247,24 @@ The Class ladder is the typical path, not a lock.
 Viaforma gains Via Fati for the Fate Path.
 
 > Viaforma gains a fourth Via, Via Fati, for the Fate Path, described from The Four Paths' Fate section only.
+
+### R43-1-RYUKA_AWAKENED_CRYSTAL [Magic System Rulings 2026-09-24 C-030]
+
+Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal.
+
+> Ryuka Yukari's Crystal State becomes null and his Crystal Tier is Awakened Crystal; the phrase "Dormant network, awakening surface" leaves the card entirely.
+
+### R43-2-KINJIKI_ETA_1_2 [Magic System Rulings 2026-09-24 C-031]
+
+Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
+
+> Kinjiki's η is ~1.2, the Archmaster ceiling, and his Crystal Tier stays Absolute Crystal, the pairing Class Ω carries.
+
+### R43-4-LETTERED_BAND_SWEPT [Magic System Rulings 2026-09-24 C-033]
+
+The lettered Coherence Band gives way to the Tier of Standing everywhere.
+
+> The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
 ### R25-1-OBSESSION_SATISFIES_ATTRACTION_GATE [Obsession Force / Attraction Path Gate Ruling Standing Ruling]
 

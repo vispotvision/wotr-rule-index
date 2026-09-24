@@ -1,0 +1,116 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on
+# 2026-09-24 in Claude Code, answering the WAR-2 questionnaire over the four
+# items the 2026-09-23 Magic System pass left open, closing CONFLICTS.md
+# C-030 through C-033. The record is the 2026-09-24 entry in RULINGS.md;
+# each verbatim quotes it. R43 is a free id-numeral bucket.
+# Standalone-ruling pattern: empty source.file.
+pack: Magic System Rulings 2026-09-24
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-24, Claude Code: ruled directly, no source document (closes
+  C-030 to C-033)'
+rules:
+- id: R43-1-RYUKA_AWAKENED_CRYSTAL
+  pack: Magic System Rulings 2026-09-24
+  pack_number: null
+  section: C-030
+  title: Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal
+  status: live
+  kind: definition
+  summary: Ryuka's Crystal State is null; his Crystal Tier is Awakened Crystal.
+  verbatim: Ryuka Yukari's Crystal State becomes null and his Crystal Tier is Awakened
+    Crystal; the phrase "Dormant network, awakening surface" leaves the card entirely.
+  amends:
+  - guide: character sheet template
+    locus: character sheet template
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-09-24, Claude Code: ruled directly (closes C-030)'
+  source:
+    file: ''
+    lines: null
+  notes: Closes CONFLICTS.md C-030. Applies R42-13 to a card that carried no Crystal
+    Tier field.
+- id: R43-2-KINJIKI_ETA_1_2
+  pack: Magic System Rulings 2026-09-24
+  pack_number: null
+  section: C-031
+  title: Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal
+  status: live
+  kind: definition
+  summary: Kinjiki's η is ~1.2; his Crystal Tier stays Absolute Crystal.
+  verbatim: Kinjiki's η is ~1.2, the Archmaster ceiling, and his Crystal Tier stays
+    Absolute Crystal, the pairing Class Ω carries.
+  amends:
+  - guide: character sheet template
+    locus: character sheet template
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-09-24, Claude Code: ruled directly (closes C-031)'
+  source:
+    file: ''
+    lines: null
+  notes: Closes CONFLICTS.md C-031. Completes R42-15, which had corrected the Tier
+    of Standing but not the η figure or the rank word beside it.
+- id: R43-3-COLOR_OF_ESSENCE_PART_FIVE
+  pack: Magic System Rulings 2026-09-24
+  pack_number: null
+  section: C-032
+  title: Part Five · Prose Application is lifted out of the Revelation cell
+  status: live
+  kind: definition
+  summary: Part Five · Prose Application is lifted out of the Revelation cell.
+  verbatim: The Color of Essence's Revelation cell is restored to its own sentence
+    and the block pasted inside it is lifted out as "Part Five · Prose Application"
+    after Part Four, the same words re-homed; Limina's absence is left visible as
+    a gap rather than papered over.
+  amends:
+  - guide: The Color of Essence
+    locus: The Color of Essence
+    operation: extends
+  supersedes: []
+  applies_to:
+  - codex
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-24, Claude Code: ruled directly (closes C-032)'
+  source:
+    file: ''
+    lines: null
+  notes: Closes CONFLICTS.md C-032. Nothing added and nothing cut; the Limina line
+    is still owed.
+- id: R43-4-LETTERED_BAND_SWEPT
+  pack: Magic System Rulings 2026-09-24
+  pack_number: null
+  section: C-033
+  title: The lettered Coherence Band gives way to the Tier of Standing everywhere
+  status: live
+  kind: definition
+  summary: The lettered Coherence Band gives way to the Tier of Standing everywhere.
+  verbatim: The retired lettered Coherence Band is replaced, wherever it survives
+    outside the Magic System pages, by the Tier of Standing for the page's Stage,
+    and η is kept as written.
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: Fracture of Worlds — The Living System
+    operation: extends
+  supersedes: []
+  applies_to:
+  - character-sheet
+  - stats
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-24, Claude Code: ruled directly (closes C-033)'
+  source:
+    file: ''
+    lines: null
+  notes: Closes CONFLICTS.md C-033. Carries FoW II's replacement clause out to the
+    cards, the Technique pages, the Arctic Lion sheet and the scene archive.

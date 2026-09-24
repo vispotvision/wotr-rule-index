@@ -1,0 +1,93 @@
+{
+ "fail": 4,
+ "warn": 3,
+ "dropped": 0,
+ "findings": [
+  {
+   "severity": "FAIL",
+   "pass": "tell_scan",
+   "quote": "I have had all nine of them through my hands—",
+   "problem": "Em dash in the draft (banned).",
+   "evidence": "verify --band set-piece --culture Accord: FAIL em dashes: 1 (AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE); line 49.",
+   "fix": "Cut Vesk off with a full stop or an action beat instead of the dash."
+  },
+  {
+   "severity": "FAIL",
+   "pass": "shape",
+   "quote": "# Separately",
+   "problem": "Three consecutive sentences over 25 words somewhere in the draft.",
+   "evidence": "verify: FAIL three consecutive sentences over 25 words (R4-14-CHAIN_CEILING).",
+   "fix": "Break the chain: split or shorten one sentence of the three to under 25 words."
+  },
+  {
+   "severity": "FAIL",
+   "pass": "shape",
+   "quote": "# Separately",
+   "problem": "8 flat runs of three sentences within 40% of each other's length.",
+   "evidence": "verify: FAIL flat runs: 8 stretches (R4-14-RUN_RULE); sentence mean 14.7, CV 0.88.",
+   "fix": "Vary length inside each flagged run: one very short sentence or one long one per stretch."
+  },
+  {
+   "severity": "WARN",
+   "pass": "shape",
+   "quote": "# Separately",
+   "problem": "One paragraph closes on three sentences over 18 words.",
+   "evidence": "verify: WARN paragraphs closing on three sentences over 18 words: 1 (R4-14-HARD_CEILINGS says 0).",
+   "fix": "End that paragraph on a short sentence."
+  },
+  {
+   "severity": "WARN",
+   "pass": "voice",
+   "quote": "Two years designing against that paragraph",
+   "problem": "Malphas line is 76 words, far outside his fingerprint (mean 32).",
+   "evidence": "voice_check Malphas: this line 76, z=+2.3; length is far outside this voice.",
+   "fix": "Split the speech with a beat or cut it toward ~40 words."
+  },
+  {
+   "severity": "INFO",
+   "pass": "voice",
+   "quote": "Sit down,",
+   "problem": "Several short Malphas lines read below his length fingerprint (Sit down / Vesk: z=-1.6, nearer Hiromi Mahuo by length); Nuvalik, Foss and Vesk have no fingerprint (<8 archived lines).",
+   "evidence": "voice_check on 18 attributed lines; no line beyond |z|=2 except the 76-word one.",
+   "fix": "None required; short orders are in register per notes."
+  },
+  {
+   "severity": "INFO",
+   "pass": "shape",
+   "quote": "# Separately",
+   "problem": "Word count 4036 (wc, whole file; verify reports 3908 body) against target 3500 = 115%/112%, inside 80-150%. Declared lie and misreading both present verbatim.",
+   "evidence": "wc -w 4036; verify length 3908; both notes_r0 block quotes found in draft.",
+   "fix": "None."
+  },
+  {
+   "severity": "INFO",
+   "pass": "hooks",
+   "quote": "Separately",
+   "problem": "H08-concealed-contraction paid: all keywords present (contraction 2, shoulder 10, separately 1, twice 12).",
+   "evidence": "case-insensitive keyword counts in draft.",
+   "fix": "None."
+  },
+  {
+   "severity": "INFO",
+   "pass": "combat_floor",
+   "quote": "# Separately",
+   "problem": "Talky scene, no combat; combat floor not applicable.",
+   "evidence": "outline scene_type talky.",
+   "fix": "None."
+  },
+  {
+   "severity": "FAIL",
+   "pass": "POV/knowledge lock (single POV, R5-C1-INFO_TRACKED_PER_POV, R39-7)",
+   "quote": "Behind her Malphas stood at the door with his coat over his arm, in the part where the lamp did not reach, and stayed there through all four pours, and touched nothing.",
+   "problem": "Asserts an unseen continuous fact about Malphas in the dark behind her during all four pours; elsewhere the draft tracks him by sound when out of sight.",
+   "fix": "Cut the sentence or rewrite it from what she can actually perceive (e.g. the absence of any sound from that corner, or a glance she takes between pours), rather than asserting the unseen fact directly."
+  },
+  {
+   "severity": "WARN",
+   "pass": "POV/knowledge lock (no head-hopping into an NPC's interior, R5-C1/R39-7 area)",
+   "quote": "He explained things the way a man explains them when he expects to be explaining them again later, to somebody with the power to undo it.",
+   "problem": "States Foss's private expectation as flat fact rather than Nuvalik's inference.",
+   "fix": "If kept, anchor it more visibly to her observation of his manner (voice, posture) rather than stating his expectation as settled fact."
+  }
+ ]
+}

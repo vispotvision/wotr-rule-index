@@ -1112,6 +1112,272 @@
    "kind": "fact",
    "fact": "Per Tally the round goes south round the whole estate, the estate's ground, not Tally's line.",
    "quote": "It's theirs. It's not my line."
+  },
+  {
+   "ch": 6,
+   "subject": "the fourth hind",
+   "kind": "fact",
+   "fact": "The fourth hind's shoulder drew three times under Nuvalik's point: twice on her second day, once on her third, each smaller.",
+   "quote": "Twice on the second, once on the third."
+  },
+  {
+   "ch": 6,
+   "subject": "the fourth hind",
+   "kind": "fact",
+   "fact": "The fourth hind is finished now; Nuvalik found nothing in her on the morning of Day 5.",
+   "quote": "She is finished now."
+  },
+  {
+   "ch": 6,
+   "subject": "Nuvalik",
+   "kind": "fact",
+   "fact": "Nuvalik kept the contraction out of the book deliberately, so that no one would pour the hind again and lose what it was doing.",
+   "quote": "I did not write it down so that nobody could spend it."
+  },
+  {
+   "ch": 6,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas now knows of all three contractions and that Nuvalik held them back; Vesk and Foss heard it too.",
+   "quote": "Why is it not in the book,\" Malphas said."
+  },
+  {
+   "ch": 6,
+   "subject": "the book",
+   "kind": "object",
+   "fact": "The contraction is entered in the project's book in Nuvalik's hand with the concealment dated: 'held back by me, three days, so that nobody could spend it'. It is the first entry that has her in it.",
+   "quote": "It was the first entry in the book in her hand that had her in it at all."
+  },
+  {
+   "ch": 6,
+   "subject": "the eighth hind",
+   "kind": "fact",
+   "fact": "Malphas orders the contraction reproduced: a drawing shoulder by the eighth division tomorrow (Day 6), under two different pairs of hands, recorded in the book by both.",
+   "quote": "By the eighth division tomorrow I want a shoulder that draws, and I want two hands on it that are not the same two hands, and I want it in the book in both."
+  },
+  {
+   "ch": 6,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss is to hold the eighth hind's joint while Nuvalik goes in, so he cannot be told he expected the draw.",
+   "quote": "He has the steadier hands and he has never had them in one, and if it comes in under his hand as well he cannot be told he expected it."
+  },
+  {
+   "ch": 6,
+   "subject": "Nuvalik",
+   "kind": "fact",
+   "fact": "Nuvalik has said aloud that the reproduction will not be as clean as the fourth hind.",
+   "quote": "It will not be as clean,\" she said."
+  },
+  {
+   "ch": 6,
+   "subject": "the eighth hind",
+   "kind": "time",
+   "fact": "The eighth hind came off the rail hook at the fourth division of Day 5.",
+   "quote": "The eighth hind came down off the hook at the fourth division."
+  },
+  {
+   "ch": 6,
+   "subject": "the eighth hind",
+   "kind": "object",
+   "fact": "The eighth hind was poured sealed at four places at the fourth hind's dilution, count of forty each, two hands, and written up in the book.",
+   "quote": "The small knocks went on while she wrote the eighth hind up in the ordinary way: four places, the count of forty, poured sealed, two hands."
+  },
+  {
+   "ch": 6,
+   "subject": "the eighth hind",
+   "kind": "time",
+   "fact": "Because the sealed make-up tempers slower, the eighth hind is poured at the fifth division and stands a division less than the fourth before Nuvalik goes in; the book records it as a division less, not the same (figure rests on Vesk's lie).",
+   "quote": "If it tempers half a division slower, she is poured at the fifth division and not the fourth, and she stands a division less than the fourth hind did before I go in at her."
+  },
+  {
+   "ch": 6,
+   "subject": "the field manual",
+   "kind": "object",
+   "fact": "Foss has a copy of the Division field manual: a grey limp-covered print taken off an issue, no number, name, chapter or mark of origin.",
+   "quote": "This is a print somebody took off an issue, badly, with the heads set by eye."
+  },
+  {
+   "ch": 6,
+   "subject": "the field manual",
+   "kind": "fact",
+   "fact": "Foss's print leads to nobody; its provenance runs through a chapter bench and a carter.",
+   "quote": "It came up the road in a carter's coat with four other books in the bundle, and the carrier could not have told you what any of them were."
+  },
+  {
+   "ch": 6,
+   "subject": "the field manual",
+   "kind": "number",
+   "fact": "The manual is in about forty pockets in one district; a whole chapter bench has read it since the cut.",
+   "quote": "A whole chapter bench has been reading it since the cut, every man looking for the part about himself, and when a thing is in forty pockets in one district it stops being a thing you ask for and becomes a thing you decline."
+  },
+  {
+   "ch": 6,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss obtained the paragraph a season earlier than he had said.",
+   "quote": "I said a season and I was wrong by a season."
+  },
+  {
+   "ch": 6,
+   "subject": "the field manual",
+   "kind": "fact",
+   "fact": "The unsigned paragraph gives four ways attribution is broken: seal the object, interpose a hand, let a season pass, move a wall.",
+   "quote": "It is broken in four ways."
+  },
+  {
+   "ch": 6,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas had the fourth counter (move a wall) read twice and did nothing visible with it.",
+   "quote": "Read the last one again,\" Malphas said."
+  },
+  {
+   "ch": 6,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas spent two years designing against the paragraph from hearsay; three counters right, one backwards: he believed attribution ran up from object to hand, so the crew touched flasks bare. He puts the error in the book.",
+   "quote": "I have had you all touching flasks bare because I believed it ran the other way, up, from the object to the hand."
+  },
+  {
+   "ch": 6,
+   "subject": "house rules",
+   "kind": "fact",
+   "fact": "House rule one: every flask Fixatio-sealed when made up, seal broken only at the table, resealed over what is left; nothing tempers open.",
+   "quote": "First: every flask is Fixatio-sealed when it is made up, and the seal is not broken until the flask is at the table, and it goes on again over what is left."
+  },
+  {
+   "ch": 6,
+   "subject": "house rules",
+   "kind": "fact",
+   "fact": "House rule two: no live dose touched bare; gloves on before the seal comes off; gloves stay in the room.",
+   "quote": "Second: no live dose is touched bare."
+  },
+  {
+   "ch": 6,
+   "subject": "house rules",
+   "kind": "fact",
+   "fact": "House rule three: nothing from a flask or the substrate reaches Malphas without a second pair of hands; Vesk makes up, Nuvalik or Foss carries, Nuvalik cuts; Malphas touches neither dose nor substrate.",
+   "quote": "Third: nothing comes from a flask to me, or from the substrate to me, without a second pair of hands between."
+  },
+  {
+   "ch": 6,
+   "subject": "house rules",
+   "kind": "fact",
+   "fact": "The season and the wall are not house rules but the end of the work; written under the three with a rule across.",
+   "quote": "Write them both under the three and put a rule across, so the two do not read as instructions."
+  },
+  {
+   "ch": 6,
+   "subject": "house rules",
+   "kind": "object",
+   "fact": "Foss cuts the three rules into a board for the door, since ink on a coldhouse door would not last a turn.",
+   "quote": "Behind her Foss was cutting the three rules into a board with a knife."
+  },
+  {
+   "ch": 6,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas put his hand on the poured ninth hind's flank on the first night; he calls it a bad habit that stops now.",
+   "quote": "You put your hand on the ninth hind's flank on the first night."
+  },
+  {
+   "ch": 6,
+   "subject": "Foss",
+   "kind": "promise",
+   "fact": "Malphas promises Foss release under his own name when the work is done, and not to ask or send anyone after; it goes in the book.",
+   "quote": "When the work is done you will be released with your own name."
+  },
+  {
+   "ch": 6,
+   "subject": "Foss",
+   "kind": "name",
+   "fact": "Foss's given name is Ilmar.",
+   "quote": "Ilmar Foss, on a bench, with hands."
+  },
+  {
+   "ch": 6,
+   "subject": "Foss",
+   "kind": "number",
+   "fact": "Foss held a numbered instrument for eleven years and was struck off for a rounding convention.",
+   "quote": "I held a numbered instrument for eleven years."
+  },
+  {
+   "ch": 6,
+   "subject": "Vesk",
+   "kind": "lie",
+   "fact": "Vesk claims the dilution can be tempered sealed, half a division slower. He has never done it and does not know.",
+   "quote": "\"It can be tempered sealed,\" he said."
+  },
+  {
+   "ch": 6,
+   "subject": "Vesk",
+   "kind": "fact",
+   "fact": "The sealed make-up took longer than it ever had, and nobody remarked on it.",
+   "quote": "Then he made the dilution up inside the flask with the seal on, and it took longer than it had ever taken, and nobody said anything about that either."
+  },
+  {
+   "ch": 6,
+   "subject": "Vesk",
+   "kind": "object",
+   "fact": "Vesk wears the yard gloves, canvas, the only pair in the building; his hands do not close fully in them.",
+   "quote": "They were the yard gloves, canvas, stiff with the cold, the only pair in the building, and he stood a long moment with his hands in them and his hands not closing all the way."
+  },
+  {
+   "ch": 6,
+   "subject": "Vesk",
+   "kind": "injury",
+   "fact": "Vesk's two ridged yellow graft nails have grown out again since the fourth day.",
+   "quote": "The two nails on the fingers that had taken stood up over the edge of the bench, ridged and yellow and grown out again since the fourth day, and he was looking at them the way she looked at a joint she did not like."
+  },
+  {
+   "ch": 6,
+   "subject": "Vesk",
+   "kind": "number",
+   "fact": "Vesk has had all nine hinds through his hands and nothing like the contraction from any other.",
+   "quote": "I have had nothing like it off any of the others and I have had all nine of them through my hands."
+  },
+  {
+   "ch": 6,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Nuvalik sees Malphas's hands keep a living colour at four degrees while hers go the colour of tallow.",
+   "quote": "The gauge over the door had stood at four degrees since the first division and her own fingers had gone the colour of tallow inside the first quarter of it, the way they did every day, and his were the colour of hands."
+  },
+  {
+   "ch": 6,
+   "subject": "Nuvalik",
+   "kind": "misreading",
+   "fact": "Nuvalik believes Malphas's hands keep colour because he comes from a warm building and sits only a division; she has no control case.",
+   "quote": "He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it."
+  },
+  {
+   "ch": 6,
+   "subject": "the ice-press room",
+   "kind": "time",
+   "fact": "The ice-press room has had no hum (no main) for four years.",
+   "quote": "It had not had one for four years."
+  },
+  {
+   "ch": 6,
+   "subject": "the ninth hind",
+   "kind": "fact",
+   "fact": "The ninth hind, under sacking since the first night, has done nothing; nothing written on her in three days.",
+   "quote": "Nuvalik had written nothing about her in three days because there had been nothing to write."
+  },
+  {
+   "ch": 6,
+   "subject": "the ninth hind",
+   "kind": "fact",
+   "fact": "At chapter end Nuvalik takes the big knife to open the ninth hind.",
+   "quote": "She went back in and took the big knife off the hook to start the ninth hind's hide off her, because a hind that had done nothing in five days was a hind you learned from by opening."
+  },
+  {
+   "ch": 6,
+   "subject": "Nuvalik",
+   "kind": "fact",
+   "fact": "Nuvalik sees nothing to be released to: her name was carried by three before her and spent in this room.",
+   "quote": "There was nothing to release her to."
   }
  ],
  "hooks": [
@@ -1256,12 +1522,17 @@
    ],
    "planted_ch": 2,
    "due_ch": 60,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 2,
      "what": "Malphas's fingers keep a living man's colour after sitting ungloved at four degrees; Vesk explains it away by the press.",
      "quote": "What there was instead was the one thing Vesk could not get past: the Lord had been sitting on an iron bench in a room the housing gauge had at four degrees since the first division, with no gloves on and his coat folded beside him and not under him, and his fingers were the colour of a living man's fingers."
+    },
+    {
+     "ch": 6,
+     "what": "Nuvalik sees his hands keep their colour at four degrees and explains it by his warm building (her misreading).",
+     "quote": "He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it."
     }
    ]
   },
@@ -1276,14 +1547,20 @@
    ],
    "planted_ch": 2,
    "due_ch": 6,
-   "status": "planted",
+   "status": "paid",
    "events": [
     {
      "ch": 2,
      "what": "Vesk asks about the fourth hind's twice-reported contraction; Nuvalik says it is all written down.",
      "quote": "Everything the fourth hind gave me is written down."
+    },
+    {
+     "ch": 6,
+     "what": "Malphas takes up the concealed contraction; Nuvalik gives it as three, says why she held it back; entered in the book with the concealment dated and ordered reproduced under witness.",
+     "quote": "I did not write it down so that nobody could spend it."
     }
-   ]
+   ],
+   "paid_ch": 6
   },
   {
    "hook_id": "H09-nuvaliks-three-names",
@@ -1296,12 +1573,17 @@
    ],
    "planted_ch": 2,
    "due_ch": 55,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 2,
      "what": "Nuvalik tells Vesk her name was worn by three before her and she has spent all three in this room.",
      "quote": "The name I wear was worn by three people before me."
+    },
+    {
+     "ch": 6,
+     "what": "Set beside Foss's release: Nuvalik has nothing to be released to; the name is spent.",
+     "quote": "A name was not a coat."
     }
    ]
   },
@@ -1316,12 +1598,17 @@
    ],
    "planted_ch": 2,
    "due_ch": 46,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 2,
      "what": "Vesk's two grafts and ridged yellow nails; his village's nine grave stones.",
      "quote": "The second had taken in the way that a thing takes when it has been asked twice, which was well enough for holding and badly for gripping, and the nails on the two fingers that took had come in ridged and yellow and had never stopped growing since."
+    },
+    {
+     "ch": 6,
+     "what": "No live dose touched bare; the graft nails grown out again; the only gloves on hands that close two thirds.",
+     "quote": "The two nails on the fingers that had taken stood up over the edge of the bench, ridged and yellow and grown out again since the fourth day, and he was looking at them the way she looked at a joint she did not like."
     }
    ]
   },
@@ -1516,7 +1803,14 @@
    ],
    "planted_ch": 6,
    "due_ch": 71,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 6,
+     "what": "Foss reads the unsigned field-manual paragraph; Malphas has the wall counter read twice, adopts three counters as house rules and rules the season and wall off as the work's end.",
+     "quote": "Move a wall, and the attribution is read against a room that is not the room."
+    }
+   ]
   },
   {
    "hook_id": "H21-the-ninth-hind",
@@ -1529,12 +1823,17 @@
    ],
    "planted_ch": 2,
    "due_ch": 10,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 2,
      "what": "The ninth hind on the table with the matrix pour in her; she does not stand, the hide draws up once.",
      "quote": "The ninth hind is the freshest and she is the one I want."
+    },
+    {
+     "ch": 6,
+     "what": "The ninth hind has done nothing in five days; Nuvalik takes the big knife to open her.",
+     "quote": "The hide over the scapula lay the way hide lies."
     }
    ]
   },
@@ -1656,7 +1955,14 @@
    ],
    "planted_ch": 6,
    "due_ch": 70,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 6,
+     "what": "Malphas promises Foss release under his own name when the work is done; Foss says it is not in his gift; it goes in the book.",
+     "quote": "When the work is done you will be released with your own name."
+    }
+   ]
   },
   {
    "hook_id": "H29-the-ferriby-tin-returned",
@@ -1743,6 +2049,11 @@
    "ch": 5,
    "title": "Who Set the Marker",
    "summary": "Day 4, sixth division, to Day 5, sixth. Yinzhi brings the Society's bundle to Cutler Row. Tally's letter: he walks daily again; the marker is the Ferriby estate's old survey stone, their corner, set before the parish was on the roll. It leaves the second question unanswered. Wystan wires the Timberline bench and rides out with Yinzhi on hacks charged to Lyle's bill. At the eleventh division Tally, first seen, shows his notebook without letting go of it and walks them the line. The stone bears a weathered *TERM* and the estate's name. The estate's round comes up through the birch, meets the stone and bends west. Yinzhi's coil confirms the far side clean. Tally says the burn runs both sides and lies that nothing is set out. Wystan stands eight divisions without food and calls the scene late. At the sixth he states: somebody came up from the south along the estate's round, stopped short of the stone, stood a while, and went back the way he came, on foot, at a walking pace, more than once. What he did standing cannot be read. Wystan faints briefly, eats, writes *the round* in the margin, and looks down it."
+  },
+  {
+   "ch": 6,
+   "title": "Separately",
+   "summary": "Day 5, third to eighth division, Greyshaft Nine ice-press room. Malphas takes up Nuvalik's ch2 line that everything the fourth hind gave her is written down, against the book's three entries. She admits the shoulder drew three times under her point — twice on the hind's second day, once on her third, each smaller, now finished — and says she kept it out of the book because a thing that twitches is a thing that will walk and a pour would have lost it. Malphas orders it entered in her hand with the concealment dated, and orders it reproduced by the eighth division tomorrow under two hands: the eighth hind down, poured at the fourth's dilution, Foss holding the joint. Foss produces a nameless print of the Division field manual a season early and reads the unsigned paragraph: seal the object, interpose a hand, wait a season, move a wall. Malphas makes the first three house rules (Fixatio seal, no live dose bare, everything through a second pair of hands), leaves the season and the wall as the work's end, and promises Foss release under his own name. The eighth hind is poured sealed. The ninth has done nothing."
   }
  ]
 }

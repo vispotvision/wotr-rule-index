@@ -1,0 +1,9 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# Separately","problem":"verify --band set-piece --culture Accord: PASS, 0 fail, 0 warn","evidence":"flat runs 1; sentence CV 0.88; paragraph CV 0.96; 3934 words; italic interior beats 8; ends on physical action (taking the knife to open the ninth hind)","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# Separately","problem":"Word count within band","evidence":"wc 4062 total, verify 3934 (notes body 4045) vs target 3500 = 112-116%, inside 80-150%","fix":"none"},
+{"severity":"info","pass":"shape","quote":"\"It can be tempered sealed,\" he said. \"It is slower. Half a division slower, thereabouts.\"","problem":"Declared lie (Vesk) present verbatim","evidence":"1 exact match in draft","fix":"none"},
+{"severity":"info","pass":"shape","quote":"He came from a warm building, and he sat a division, and he went back to a warm building, and a division was not long enough to take the colour out of a man who was not working in it.","problem":"Declared misreading (Nuvalik) present verbatim","evidence":"1 exact match in draft","fix":"none"},
+{"severity":"info","pass":"hooks","quote":"I did not write it down so that nobody could spend it. Including me.","problem":"H08-concealed-contraction pay: all keywords present","evidence":"contraction 2, shoulder 9, separately 1, twice 9","fix":"none"},
+{"severity":"info","pass":"voice","quote":"\"Then read me the paragraph.\"","problem":"Malphas lines within fingerprint; other cast have no fingerprint","evidence":"Malphas z -0.4 to -1.4 over 4 lines (mean 32 words); Vesk, Foss, Nuvalik: fewer than eight archived lines, no fingerprint","fix":"none"},
+{"severity":"info","pass":"combat_floor","quote":"# Separately","problem":"Talky set piece, no combat; verify raised no combat-floor failure","evidence":"verify 0 fail","fix":"none"}
+]}

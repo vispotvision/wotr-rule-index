@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8188-b4d8-d9b195f254dd"
 notion_url: "https://app.notion.com/p/Characters-3b158200eb228188b4d8d9b195f254dd"
 section: "Information not on WIKI"
 tags: []
-last_edited: "2026-09-22T14:32:00.000Z"
+last_edited: "2026-09-24T00:01:00.000Z"
 verification: null
 ---
 
@@ -38,9 +38,5 @@ The character record runs on a seventeen-part skeleton, and the order of the par
 
 **Volume I** holds active cards in board order, spanning the founding generation through the present age. Standalone codices follow for the figures whose records outgrew a card.
 - [Volume I — Character Cards](Characters/Volume I — Character Cards.md)
-- [Volume III — Character Cards](Characters/Volume III — Character Cards.md)
-- [Volume IV — Character Cards](Characters/Volume IV — Character Cards.md)
-- [Volume V — Character Cards](Characters/Volume V — Character Cards.md)
-- [Volume VI — Character Cards](Characters/Volume VI — Character Cards.md)
 
 ---

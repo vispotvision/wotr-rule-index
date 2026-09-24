@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8131-b70d-c91722f2d3e4"
 notion_url: "https://app.notion.com/p/II-Grades-Gates-and-Thresholds-Parts-Four-Ten-3d758200eb228131b70dc91722f2d3e4"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:25:00.000Z"
+last_edited: "2026-09-23T23:23:00.000Z"
 verification: "unverified"
 ---
 
@@ -143,7 +143,7 @@ A character who has fought exclusively through Body Path mechanics for three ful
 
 #### Dominion Gates
 
-**Radius** requires Attraction Path at Stage V to exceed A, Stage VI to exceed A for partial projection outward, and Stage VII to exceed S for boundary expansion speed. **Sovereignty** requires Fate Path at Stage VI to exceed A, and Stage IX to exceed SSS where the imposed law encodes abstract conceptual truths. **Sense** requires Spirit Path at Stage III to exceed C for topology and higher-order phenomena, Spirit Path at Stage IV to exceed B for Archon-tier pressures, and Fate Path at Stage VIII to exceed SS for passive detection of spatial tears. **Stability** requires Attraction Path at Stage V to exceed A for the law's structural weight, and Fate Path at Stage VI to exceed A for holding territory in hostile Realm environments. **Pressure** requires Attraction Path at Stage VI to exceed A. **Command** requires Attraction Path at Stage VIII to exceed SS. **Fate** requires Fate Path at Stage VII to exceed S. **Throne** requires Fate Path at Stage XIII minimum and cannot be advanced below EX-Grade. Its ceiling is Absolute, the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis, and it is excluded from the Dominion total for that reason.
+**Radius** requires Attraction Path at Stage V to exceed A, Stage VI to exceed A for partial projection outward, and Stage VII to exceed S for boundary expansion speed. **Sovereignty** requires Fate Path at Stage VI to exceed A, and Stage IX to exceed SSS where the imposed law encodes abstract conceptual truths. **Sense** requires Spirit Path at Stage III to exceed C for topology and higher-order phenomena, Spirit Path at Stage IV to exceed B for Archon-tier pressures, and Fate Path at Stage VIII to exceed SS for passive detection of spatial tears. **Gravity** requires Attraction Path at Stage V to exceed A for the law's structural weight, and Fate Path at Stage VI to exceed A for holding territory in hostile Realm environments. **Pressure** requires Attraction Path at Stage VI to exceed A. **Command** requires Attraction Path at Stage VIII to exceed SS. **Fate** requires Fate Path at Stage VII to exceed S. **Throne** requires Fate Path at Stage XIII minimum and cannot be advanced below EX-Grade. Its ceiling is Absolute, the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis, and it is excluded from the Dominion total for that reason.
 
 ### Part Eight — Temperance Threshold Events
 

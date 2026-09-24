@@ -4,8 +4,8 @@ notion_id: "3d858200-eb22-8123-bdac-cf86958a894c"
 notion_url: "https://app.notion.com/p/Wystan-Ashmore-Late-Bell-3d858200eb228123bdaccf86958a894c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T05:54:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:27:00.000Z"
+verification: null
 ---
 
 # Wystan Ashmore — Late Bell
@@ -49,7 +49,7 @@ Pool: 4,500 from leveling, 5,500 from Thresholds I through X. 10,000 total, all 
 **Resilience.** Anchoring 420 (S) / Integrity 260 (B) / Ward 240 (B) / Fortification 200 (B) / Persistence 190 (B) / Hardening 170 (C) / Oath 60 (D) / Continuity 20 (F)
 **Harmonics.** Suppression 460 (S) / Stability 440 (S) / Empathy 160 (C) / Breadth 120 (C) / Attunement 100 (D) / Axis 100 (D) / Synergy 60 (D) / Projection 40 (E)
 **Tempering.** Coherence 340 (A) / Clarity 300 (A) / Maturity 280 (A) / Ceiling 100 (D) / Capacity 100 (D) / Yield 80 (D) / Overflow 60 (D) / Longevity 20 (F)
-**Dominion.** Sense 380 (A) / Stability 300 (A) / Sovereignty 240 (B) / Command 80 (D) / Fate 80 (D) / Radius 60 (D) / Pressure 20 (F) / **Throne: not registered**
+**Dominion.** Sense 380 (A) / Gravity 300 (A) / Sovereignty 240 (B) / Command 80 (D) / Fate 80 (D) / Radius 60 (D) / Pressure 20 (F) / **Throne: not registered**
 **Vitality.** Fortitude 160 (C) / Filtration 120 (C) / Absorption 100 (D) / Constitution 100 (D) / Hemostasis 100 (D) / Regeneration 100 (D) / Tolerance 60 (D) / Threshold 20 (F)
 **Dexterity.** Finesse 140 (C) / Reflex 120 (C) / Economy 80 (D) / Celerity 60 (D) / Evasion 60 (D) / Feint 40 (E) / Sequence 40 (E) / Grapple 20 (F)
 **Ardency.** Compression 60 (D) / Depth 60 (D) / Alacrity 40 (E) / Flux 20 (F) / Penetration 20 (F) / Density 20 (F) / Cascade 10 (Hollow) / Overchannel 10 (Hollow)

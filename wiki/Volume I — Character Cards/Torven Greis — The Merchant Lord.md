@@ -4,8 +4,8 @@ notion_id: "3b358200-eb22-819b-bbb7-e956c6bf9f25"
 notion_url: "https://app.notion.com/p/Torven-Greis-The-Merchant-Lord-3b358200eb22819bbbb7e956c6bf9f25"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:29:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:32:00.000Z"
+verification: null
 ---
 
 # Torven Greis — The Merchant Lord
@@ -31,7 +31,7 @@ verification: "unverified"
 **Level:** 38/500 · **Band:** I — Foundation (Levels 1–100)
 **Temperance Stage:** II — Welling
 **Soul Crystal Tier:** Awakened (early)
-**Aether Class:** I — Muridic
+**Aether Class:** Unclassed (Class emerges at Glory)
 **Attraction Force / Obsession Force:** Attraction Force. His Crystal developed around the pull toward systems, logistics, the desire to *connect* rather than to *possess*. His Wellspring attunement is minimal and entirely incidental to his actual power.
 **Wellspring Harmonization(s):**
 Primary — Contraxis (Contract / Agreement). Attunement acquired through prolonged exposure to Nalūn's Parun-bound instruments rather than through formal training. He cannot execute a Parun seal himself, but his Crystal resonates with them, which means he can *feel* when a contract is sound and when the terms are drifting. The Nalūn chainlords noticed this before he did.

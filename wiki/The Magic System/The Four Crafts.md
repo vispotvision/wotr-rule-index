@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-810f-ac23-e2613ea61705"
 notion_url: "https://app.notion.com/p/The-Four-Crafts-3bc58200eb22810fac23e2613ea61705"
 section: "The Magic System"
 tags: ["Magic System", "Disciplines"]
-last_edited: "2026-09-10T11:22:00.000Z"
+last_edited: "2026-09-23T23:31:00.000Z"
 verification: "unverified"
 ---
 

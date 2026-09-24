@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81cc-a193-d69c171c0986"
 notion_url: "https://app.notion.com/p/The-Sixteen-Stages-3b158200eb2281cca193d69c171c0986"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:25:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -192,7 +192,7 @@ The lived experience of this is reported as a species of loneliness that has no 
 The practitioner walks toward something that can end them, arrives, remains coherent, and chooses their manner of meeting it. That is the whole Catalyst and every word of it is load-bearing. Not survives. Not defeats. **Remains coherent long enough to choose.**
 Power and identity clash here, openly, in the Crystal, and the clash is the Stage. Practitioners trapped in Dissonance rather than passing through it are the most dangerous individuals in the four quarters by a wide margin, because they have SS-Grade output organised around an unresolved contradiction and no structural reason to stop.
 ***From outside*** · Instability that reads on any instrument and is visible to anyone in the room. The Enforcement Division has a standing protocol for a suspected Dissonance-trapped practitioner and the protocol's first line is to establish whether the practitioner has eaten.
-> **The architectural note.** Souls that pass through Dissonance rather than around it reach the next Stage fractured and denser than the clean path produces. **Overflow, Overchannel and Nullity reach their true ceiling in no other way.** The fractures are features. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
+> **The architectural note.** Souls that pass through Dissonance rather than around it reach the next Stage fractured and denser than the clean path produces. **Overflow, Overchannel and Persistence reach their true ceiling in no other way.** The fractures are features. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
 
 ### XII — Emanation
 
@@ -295,7 +295,7 @@ A gutter-seated practitioner out of an eastern district is unpredictable, occasi
 |---|---|
 | **I to II** | Sour Iron Filings and Hearth Ward Wax. T1, coppers, available in any market. Nobody's advancement is gated here. This is the last Stage of which that is true. |
 | **II to III** | Metering Tonic (T2) and Hillcarry Salts (T3). The guild ration begins. A village child reaches Ascension on the hill and the buckets; a bonded child reaches it in a third the time on Hillcarry, and both arrive, and only one of them arrives at fifteen. |
-| **III to IV** | Ascension Ration, Accord Standard (T4). Issued at cost against future commission. The Catalyst is a Spirit Axis and cannot be bought, so what the ration buys is the floor, and what the Accord buys is the term. |
+| **III to IV** | Ascension Ration, Accord Standard (T4). Issued at cost against future commission. The Catalyst is a Spirit Axis and cannot be bought, so what the ration buys is Flourishing's quantitative floor, and what the Accord buys is the term. |
 | **IV to V** | Splinter Ration (T5, reserved). Does not prevent the fracture. Decides where it runs. This is the single most consequential product in the Standing Index for who a person becomes and it is not available to anybody outside the Accord. |
 | **V to VI** | **Nothing.** There is no product for Glory. The Catalyst is a decision to accept soul-cost for something, and no house has ever found a way to sell that, though four have tried and the attempts are in the Striking record. |
 | **VI to VII** | Refraction Draught (T6) and Domain Seed Vitrifier (T6). Both reserved. Both Class IV. From here upward, advancement runs on Crystal Draw, and everybody in the trade knows what that means and the public literature does not say it. |

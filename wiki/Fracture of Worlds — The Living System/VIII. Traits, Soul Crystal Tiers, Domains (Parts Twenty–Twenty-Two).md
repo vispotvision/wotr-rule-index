@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81d0-a367-f18213037668"
 notion_url: "https://app.notion.com/p/VIII-Traits-Soul-Crystal-Tiers-Domains-Parts-Twenty-Twenty-Two-3d758200eb2281d0a367f18213037668"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -67,9 +67,9 @@ The Crystal evolves through Developmental Tiers representing the synthesis of al
 | Tier | Description | Corresponds to |
 |---|---|---|
 | **Dormant** | Sealed and silent. The Crystal exists but does not yet function as a metaphysical organ. | Class Ø, pre-Initiate |
-| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Class I, Tiers 1–2 · Initiate to Apprentice (Temperance I–II) |
-| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Class II, Tier 5 · Expert (Temperance V–VI) |
-| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class III, Tier 5 · Expert (Temperance VII) |
+| **Awakened** | Opened and circulating Essence. Traits can begin forming. The first layer to activate is always the Essence Core. | Unclassed, Tiers 1–4 · Initiate to Adept (Temperance I–IV) |
+| **Harmonic** | The three layers have found a recurring rhythm the Continuum can read consistently. Techniques stabilize; Wellspring harmonization becomes possible without tearing the lattice. | Unclassed until Glory, then Class I, Tier 5 · Expert (Temperance V–VI) |
+| **Resonant** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class II early, Class III late, Tier 5 · Expert (Temperance VII) |
 | **Radiant** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. Existence begins exerting topological pressure on its surroundings. | Class V, Tier 6 · Master (Temperance VIII) |
 | **Sovereign** | Trait law and Domain law begin to be the same law. No longer a container for power but a generator of local metaphysical conditions. | Tiers 6–7 · Master to Grandmaster (Temperance IX–XII) |
 | **Crystallized Soul** | Self and law correspond with near-perfect precision. An exact instrument of identity. Thought carries causal weight. | Tier 8 · Archmaster (Temperance XIII–XIV) |
@@ -105,18 +105,18 @@ Domains are not techniques. They are consequences of sufficient Temperance, Domi
 **Hush / Silence** — dampened energy transfer; sound, kinetic force or Essence propagation suppressed. Governed by Dominion Pressure and Harmonics Suppression.
 **Heat-Invert / Phase-Stabilize** — thermal or state control; the Domain enforces a specific temperature or material phase. Governed by Wellspring alignment.
 **Vectoring** — trajectory and reach modification; projectiles curve, distances distort, approach angles shift. Governed by Dominion Sovereignty and Dexterity Finesse.
-**Construct Sustain** — summoned constructs maintained passively without the summoner's concentration. Governed by Dominion Stability and Ardency Density.
+**Construct Sustain** — summoned constructs maintained passively without the summoner's concentration. Governed by Dominion Gravity and Ardency Density.
 **Inertial Dominion** — motion and momentum obey the holder's doctrine; moving objects arrested, redirected or accelerated. Governed by Dominion Sovereignty and Vitality Absorption.
 
 #### Domain versus Domain
 
 When two Domains overlap, the Continuum resolves the conflict through a hierarchy.
 **First, Temperance differential.** A character two or more Stages above their opponent's Domain simply overwrites it. The higher doctrine takes precedence.
-**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Stability holds their territory while the weaker Domain erodes.
+**Second, Dominion Sub-Stat comparison.** Within the same Temperance band, the character with higher Sovereignty and Gravity holds their territory while the weaker Domain erodes.
 **Third, Wellspring compatibility.** Domains built from opposed Wellspring Houses produce interference patterns that degrade both. Domains from adjacent Houses may coexist or reinforce each other.
 **Fourth, doctrine coherence.** A Domain built from a deeply held, honestly lived truth is structurally denser than one built from adopted belief or forced cultivation. The Continuum measures **Tempering Coherence** and **Tempering Maturity** as the tiebreaker between otherwise equivalent Domains.
 
 #### Domain Costs
 
-Maintenance costs Essence continuously. The rate is governed by **Dominion Radius** (larger Domains cost more), **Dominion Stability** (unstable Domains bleed faster), and environmental hostility (maintaining a Domain inside someone else's costs significantly more).
+Maintenance costs Essence continuously. The rate is governed by **Dominion Radius** (larger Domains cost more), **Dominion Gravity** (unstable Domains bleed faster), and environmental hostility (maintaining a Domain inside someone else's costs significantly more).
 A Domain collapses when EU drops below the minimum maintenance threshold, when concentration is shattered by sufficient force, or when a stronger Domain overwrites it. Collapse produces a **Resonance Shockwave** proportional to the Domain's size and density, often dealing significant damage to everything within the former territory, including the character who lost it.

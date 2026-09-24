@@ -4,8 +4,8 @@ notion_id: "3c658200-eb22-81d9-a073-d23a7db71522"
 notion_url: "https://app.notion.com/p/Kirishima-Hae-jin-Kaalabad-the-Radiant-God-of-Knights-3c658200eb2281d9a073d23a7db71522"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-24T16:51:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:36:00.000Z"
+verification: null
 ---
 
 # Kirishima Hae-jin — Kaalabad, the Radiant God of Knights
@@ -54,7 +54,8 @@ Eight Primary Stats, drawn from the Level 500 / Stage XIV point economy. Concent
 | Harmonics — 700 | SS-Grade. Low by design — no standing Spirit Axis, no bonded allies, a soul that stopped being legible to anyone else a long time before the chains went on. |
 | Gnosis — 650 | SS-Grade. The gap that matters most. Conviction, not cunning. He has never once out-thought an opponent, and it has cost him exactly once, permanently. |
 
-**Crystal State** — Crystallized. Self is law — his thought carries causal weight across the whole of Zarakal whether or not he is present to direct it, the mechanical description of a World Tether from the inside.
+**Crystal Tier** — Crystallized Soul. Self is law — his thought carries causal weight across the whole of Zarakal whether or not he is present to direct it, the mechanical description of a World Tether from the inside.
+**Crystal State** — `null`.
 **Wellspring** — Monolithion primary (The Enduring Monument — presence becomes geological, Vitality Gravitas / Resilience Persistence / Dominion Anchoring), Materia Primordia secondary (The First Substance — the body and the Domain gain mineral-weight authority, Vitality Ossification / Dominion Density). Family: Materia primary, Vitalia secondary.
 **EU Reserve** — Effectively unmetered at range — the Tether draws on Zarakal's own accumulated pressure rather than his personal reserve, which is why centuries of imprisonment have not visibly diminished the Realm's output. His personal reserve, independent of the Tether, sits at a standard EX-Grade sustain rate for close-range work.
 

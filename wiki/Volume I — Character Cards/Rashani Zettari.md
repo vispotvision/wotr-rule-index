@@ -4,8 +4,8 @@ notion_id: "3b258200-eb22-81d5-b87d-c8abc80dbc36"
 notion_url: "https://app.notion.com/p/Rashani-Zettari-3b258200eb2281d5b87dc8abc80dbc36"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-12T20:22:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:27:00.000Z"
+verification: null
 ---
 
 # Rashani Zettari
@@ -47,7 +47,7 @@ verification: "unverified"
 | **Vitality** | 188 · B | Threshold 195 · Endurance 192 · Constitution 188 |
 | **Tempering** | 185 · B | **Inheritance 235 [ZBI POOL]** · Maturity 188 |
 | **Resilience** | 182 · B | **Integrity 218** — recoil management |
-| **Dominion** | 178 · B | **Stability 218** · Radius 212 — *proto-Origin Field* |
+| **Dominion** | 178 · B | **Gravity 218** · Radius 212 — *proto-Origin Field* |
 
 ---
 

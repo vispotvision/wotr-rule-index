@@ -4,8 +4,8 @@ notion_id: "3e058200-eb22-81ee-bfa6-ee0785f793ac"
 notion_url: "https://app.notion.com/p/Hiromi-Mahuo-3e058200eb2281eebfa6ee0785f793ac"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-19T01:39:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:31:00.000Z"
+verification: null
 ---
 
 # Hiromi Mahuo
@@ -27,7 +27,7 @@ Son of the summoner Kwon Mu-jin and the weapon instructor Frithia. Twin brother 
 | **Coherence Band** | **D** |
 | **Path** | TBD |
 | **Essence Typology** | TBD |
-| **Aether Class** | **I — Muridic** (Band F, ~30–40% loss) |
+| **Aether Class** | **Unclassed (Class emerges at Glory)** |
 | **Efficiency (η)** | ~0.40, estimated |
 | **Crystal State** | Clean, no fracture |
 
@@ -52,7 +52,7 @@ All values estimated. Dominion is the confirmed anomaly: B-Grade in a Stage III 
 
 ### VI–VII. Force and Flow
 
-Not yet established. At Stage III his output is bounded by Muridic Aether Class. Reserve and flux density TBD.
+Not yet established. Reserve and flux density TBD.
 
 ### VIII–IX. Traits and Domain
 

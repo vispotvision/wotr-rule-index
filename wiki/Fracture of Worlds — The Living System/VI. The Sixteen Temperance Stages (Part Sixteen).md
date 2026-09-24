@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8151-8fc1-ebca5eb525f1"
 notion_url: "https://app.notion.com/p/VI-The-Sixteen-Temperance-Stages-Part-Sixteen-3d758200eb2281518fc1ebca5eb525f1"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ Truth as lived consequence. The world answers back. The Domain becomes a reality
 
 #### Stage XI — Dissonance (Tier 7 · Grandmaster)
 
-Power and identity clash. The second crisis Stage and the most dangerous. The Crystal has accumulated enough pressure to threaten its own coherence. Characters who pass through emerge with Crystals fractured but denser than clean advancement could produce. **Ardency Overchannel, Ardency Detonation and Resilience Persistence can only reach their true ceiling in characters who have passed through Dissonance.** The fractures are not damage. They are architectural features. Passive miracles leak. Regions behave differently around the character. **Max Grade SS; allocation stops at 725, with fracture risk above 700. Ceiling 750, structurally unstable, the band from 726 reachable only under strain.** *Catalyst:* deliberately entering contact with a force capable of ending the character's existence and remaining coherent long enough to choose how to meet it.
+Power and identity clash. The second crisis Stage and the most dangerous. The Crystal has accumulated enough pressure to threaten its own coherence. Characters who pass through emerge with Crystals fractured but denser than clean advancement could produce. **Ardency Overflow, Ardency Overchannel and Resilience Persistence can only reach their true ceiling in characters who have passed through Dissonance.** The fractures are not damage. They are architectural features. Passive miracles leak. Regions behave differently around the character. **Max Grade SS; allocation stops at 725, with fracture risk above 700. Ceiling 750, structurally unstable, the band from 726 reachable only under strain.** *Catalyst:* deliberately entering contact with a force capable of ending the character's existence and remaining coherent long enough to choose how to meet it.
 
 #### Stage XII — Emanation (Tier 7 · Grandmaster)
 

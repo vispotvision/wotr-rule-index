@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-811a-a023-db33375829c8"
 notion_url: "https://app.notion.com/p/Vectoria-Mechanics-3b158200eb22811aa023db33375829c8"
 section: "The Eight Families & the Sixty Wellsprings"
 tags: []
-last_edited: "2026-08-16T21:26:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,7 +12,7 @@ verification: "unverified"
 
 *Mechanics · force, motion, gravity*
 > Breaking, holding, and rising are the same law observed from three positions. Vectoria is the Family that treats a soul as a **loaded structure** and asks the only question a structural engineer ever asks, which is where the load goes and what happens at the place it concentrates.
-**Stat Affinity** · *Tempering (Acceleration, Clarity, Coherence) · Resilience (Scarring, Insulation, Nullity, Integrity) · Vitality (Endurance, Threshold, Nullity) · Dominion (Stability)*
+**Stat Affinity** · *Tempering (Acceleration, Clarity, Coherence) · Resilience (Scarring, Insulation, Nullity, Integrity) · Vitality (Endurance, Threshold, Nullity) · Dominion (Gravity)*
 
 ---
 
@@ -27,7 +27,7 @@ verification: "unverified"
 
 **Analogue** · Compressive load path and creep. Stone in compression; the arch.
 **Mechanism** · Masonry is enormously strong in compression and nearly worthless in tension, which is why the arch exists: it converts a span into a queue of compressive members. Petralon reorganises the Crystal along the same principle, routing every incoming load into compression and accepting slow creep deformation as the price of never developing a tensile crack.
-**Stat Effect** · Strengthens Vitality Endurance, Dominion Stability. The character becomes the ground beneath the ground.
+**Stat Effect** · Strengthens Vitality Endurance, Dominion Gravity. The character becomes the ground beneath the ground.
 **Failure** · Tensile exposure. Load the structure in the one direction it does not answer and it does not deform gracefully. It parts.
 
 ### Ascensio · *The Ladder of Ascent*

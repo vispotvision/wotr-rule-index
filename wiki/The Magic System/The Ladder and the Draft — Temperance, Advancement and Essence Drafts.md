@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81de-be03-db5381c6ad3e"
 notion_url: "https://app.notion.com/p/The-Ladder-and-the-Draft-Temperance-Advancement-and-Essence-Drafts-3c758200eb2281debe03db5381c6ad3e"
 section: "The Magic System"
 tags: ["Magic System", "Alchemy"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -51,7 +51,7 @@ The second key is why the ladder cannot be bought, and the first key is why peop
 | **6–7 · IX–XII** | Denser after Dissonance than clean advancement can produce. | Traits reach field-state and stop needing maintenance. | Domain to Realm to ambient consequence. Passive miracles leak. |
 | **8 · XIII–XIV** | The Crystal self-writes. | Trait and Domain Law fuse. The Trait stops being an ability. | A law with standing independent of the practitioner. |
 
-> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Overchannel and Nullity reach their true ceiling in no other way.** The fractures are not damage. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
+> **The architectural note on Dissonance.** Souls that pass *through* Stage XI rather than around it arrive at Emanation fractured and denser than the clean path produces. **Overflow, Overchannel and Persistence reach their true ceiling in no other way.** The fractures are not damage. Anyone who tells an ambitious practitioner otherwise is either being kind or has an interest in them not trying.
 
 ---
 

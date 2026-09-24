@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b7-92e2-ea5bd678c155"
 notion_url: "https://app.notion.com/p/The-Beastkin-and-Demihuman-Peoples-3b158200eb2281b792e2ea5bd678c155"
 section: "Races & Peoples"
 tags: []
-last_edited: "2026-08-03T20:31:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 

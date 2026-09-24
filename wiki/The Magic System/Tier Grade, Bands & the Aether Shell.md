@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
 notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:25:00.000Z"
+last_edited: "2026-09-23T23:41:00.000Z"
 verification: "unverified"
 ---
 
@@ -18,7 +18,7 @@ verification: "unverified"
 ## Level and the Five Bands
 
 Level is the count of how many times a Soul Crystal has meaningfully densified. It is not a measure of age. It is not a measure of training hours. It is the sediment of genuine contact with consequence, counted, compressed, and expressed as a number.
-The ceiling is **500**. This is the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters who reach Level 500 and continue to accumulate pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression.
+The ceiling is **500** for every practitioner below Stage XV. This is the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression. **Paragons exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
 > No character can breach a Band ceiling without first passing the Temperance Threshold that cluster demands. The System will simply halt the level counter and build pressure, called **Residual Strain**, until the Threshold is passed or the character fractures under the weight.
 | Band | Levels | Temperance cluster | Gate |
 |---|---|---|---|
@@ -135,14 +135,15 @@ flowchart LR
 | Class | The Shell | Efficiency loss |
 |---|---|---|
 | **Ø · The Dormant** | The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely; corresponds to the Dormant Crystal. **Traits are unaffected by any of this.** A Class Ø soul carries its laws in the ordinary material of itself, refines by the Weathering rather than by Temperance, and is missing only the organ that would arm what it already holds. | No output above Hollow Grade is possible |
-| **I · The Muridic** | The awakening Shell. It flickers with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably through Aether. The bearer may appear unstable when their lattice is simply learning to speak. Initiate through Adept, Awakened Crystal. | Roughly 30 – 40% |
-| **II · The Harmonic** | The attuned Shell. It begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Expert. | Roughly 15 – 25% |
-| **III · The Resonant** | The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia, and complex techniques awaken naturally. Late Expert. **The first Class at which stat values translate into output at near-full fidelity.** | Roughly 5 – 10% |
+| **I · The Muridic** | The awakening Shell. It flickers with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably through Aether. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, where Aether Class first emerges. **Stages I through V are unclassed: the coil reads no Class.** | Roughly 30 – 40% |
+| **II · The Harmonic** | The attuned Shell. It begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction. | Roughly 15 – 25% |
+| **III · The Resonant** | The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia, and complex techniques awaken naturally. Late Refraction. **The first Class at which stat values translate into output at near-full fidelity.** | Roughly 5 – 10% |
 | **IV · The Luminous** | The lucid Shell. It thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behaviour mirrors the bearer's emotional and moral alignment with unnerving precision. **Lateral.** No single corresponding Crystal Tier; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell has clarified faster than their Core or Layer. | Negligible. Precision exceeds baseline stat values |
 | **V · The Radiant** | The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains against collapse, and speak Parun motifs into matter. The line between intention and environment begins to blur. Early Master, Radiant Crystal, where the first true Domain forms. | Output begins **exceeding** what the raw numbers suggest |
 | **VI · The Voidic** | The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers, and reflects. Voidic conductors channel absence, silence, and negation without erasing themselves. They interface most directly with Limina Wellsprings and Titanic depths. **Lateral** — can appear alongside Resonant, Luminous, or Radiant. | Qualitatively different. Their Ardency does not deal damage. **It removes things** |
 | **Ω · The Absolute** | The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons, Titans, and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. | Stat output is no longer meaningful as a separate measurement |
 
+**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
 > The interaction is **not linear**. The jump from Class II to Class III produces the largest single improvement in stat-to-output fidelity. The jump from Class V to Class VI produces the most dramatic qualitative shift, from conventional force expression to inverted, negation-based expression. The jump to Class Ω produces output the stat system can no longer meaningfully track.
 
 ### How a Shell Ascends
@@ -168,9 +169,9 @@ The Crystal evolves through Developmental Tiers representing the synthesis of al
 | Tier | Condition | Corresponds to |
 |---|---|---|
 | **Dormant Crystal** | Sealed and silent. Precedes all awakening. The Crystal exists but does not yet function as a metaphysical organ. The soul around it is fully furnished and continues to refine by the Weathering, which is why the great majority of the world's Traits sit in bodies that will never be screened. | Class Ø · pre-Initiate |
-| **Awakened Crystal** | The Crystal has opened and begun to circulate Essence. Traits that were already present in the soul become armed, expressible, and expensive. The first layer to activate is always the Essence Core, which is where they were sitting all along. | Class I · Initiate to Apprentice · Stages I–II |
-| **Harmonic Crystal** | The three layers have found a recurring rhythm. Essence, Aether, and Attraction circulate in a pattern the Continuum can read consistently. Wellspring harmonization becomes structurally possible without tearing the lattice. | Class II · Expert · Stages V–VI |
-| **Resonant Crystal** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class III · Expert · Stage VII |
+| **Awakened Crystal** | The Crystal has opened and begun to circulate Essence. Traits that were already present in the soul become armed, expressible, and expensive. The first layer to activate is always the Essence Core, which is where they were sitting all along. | Unclassed · Initiate to Adept · Stages I–IV |
+| **Harmonic Crystal** | The three layers have found a recurring rhythm. Essence, Aether, and Attraction circulate in a pattern the Continuum can read consistently. Wellspring harmonization becomes structurally possible without tearing the lattice. | Unclassed until Glory, then Class I · Expert · Stages V–VI |
+| **Resonant Crystal** | The Crystal self-conducts. Power moves even in silence. The resonance signature becomes a permanent feature of the Continuum's local accounting. | Class II early, Class III late · Expert · Stage VII |
 | **Radiant Crystal** | The Attraction Layer gains territorial durability. The first true Domain becomes possible. The Crystal's existence exerts topological pressure on its surroundings. | Class V · Master · Stage VIII |
 | **Sovereign Crystal** | Trait law and Domain law begin to be the same law. The Crystal is no longer merely a container for power. It is a generator of local metaphysical conditions. | Master to Grandmaster · Stages IX–XII |
 | **Crystallized Soul** | Self and law correspond with near-perfect precision. The Crystal becomes an exact instrument of identity. Thought carries causal weight. | Archmaster · Stages XIII–XIV |
@@ -182,7 +183,7 @@ Separate from Tier. A Crystal at any Tier can occupy any of these.
 **Fractured** · split by contradiction or strain. The Core leaks, the Shell destabilizes, the Layer weakens. Thought becomes difficult to trust. Can heal through Temperance advancement, alchemical treatment, or the integration of fracture into architectural feature, which is the Dissonance path.
 **Refined** · balanced and coherent. Essence moves in rhythm, Aether conducts cleanly, Attraction Force binds without overreach. The standard healthy state, and rarer among veterans than recruitment posters suggest.
 **Overgrown** · swollen with more pressure than integrated. Power spills outward, emotions distort nearby space, the soul wounds its own surroundings. Common at Stage transitions when Essence accumulates faster than Temperance can shape it. This is what forced advancement produces.
-**Crystallized** · the self has become law. Thought carries causal weight. Very few reach this. Fewer remain recognizable afterward.
+Crystallized is not a State. Self-as-law belongs to the Crystallized Soul tier alone.
 
 ---
 
@@ -208,7 +209,7 @@ Separate from Tier. A Crystal at any Tier can occupy any of these.
 | **8 · Archmaster** · Principality to Zenith | 0.95 – 1.2 | Biomes carry the practitioner's doctrine. Above 1.0 the practitioner produces more coherent output than they spend. This is not free energy. It is the Continuum recognizing their expression as law and supplementing it with ambient flow. **The environment becomes a co-author.** |
 | **9 · Paragon** · Revelation to Apex | above 1.2, unbounded | No source figure exists. The lettered scale had no rung here. Flagged as an open gap rather than filled with an invented number. |
 
-> **The efficiency conflict, unresolved.** The Aether Class table above rates **Class I Muridic** at roughly thirty to forty percent loss, which is η 0.60 to 0.70. The table here places the same practitioners, Initiate through Adept, at η 0.30 to 0.45, which is fifty-five to seventy percent loss.
+> **The efficiency conflict, unresolved.** The Aether Class table above rates **Class I Muridic** at roughly thirty to forty percent loss, which is η 0.60 to 0.70. Since the ruling of 2026-09-23, Class I first emerges at Glory, Stage VI; the table here places those practitioners in Tier 5, Expert, at η 0.50 to 0.60, which is forty to fifty percent loss. The two ranges touch at 0.60 and do not otherwise agree.
 >
 > *Both describe how much of a working survives the trip out through the Shell. Both are reproduced as written. Neither has been withdrawn.*
 

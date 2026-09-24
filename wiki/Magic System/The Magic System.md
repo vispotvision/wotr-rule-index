@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8173-be05-e22b02540adb"
 notion_url: "https://app.notion.com/p/The-Magic-System-3b158200eb228173be05e22b02540adb"
 section: "Magic System"
 tags: ["Magic System", "Reference Table", "Open Rulings"]
-last_edited: "2026-09-11T02:37:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -93,7 +93,7 @@ Eight Primary Stats, eight Sub-Stats beneath each, sixty-four values in total. *
 | **Harmonics** | Resonance and bond. Attunement, empathy, breadth, synergy, axis. How honestly output reflects the inner state. | Fate |
 | **Resilience** | Structural persistence under assault. Integrity, ward, anchoring, persistence, hardening. | Soul |
 | **Tempering** | Refinement itself. Coherence, maturity, ceiling, capacity, longevity. The stat that governs whether you advance at all. | Soul |
-| **Dominion** | Command over local metaphysical law. Radius, sovereignty, stability, pressure, throne. The stat of sovereignty. | Fate |
+| **Dominion** | Command over local metaphysical law. Radius, sovereignty, gravity, pressure, throne. The stat of sovereignty. | Fate |
 
 > Two Sub-Stats gate everything else. **Tempering Coherence** is the structural prerequisite for Threshold eligibility, the Crystal's internal honesty meter. **Tempering Maturity** is the Sub-Stat the Crystal consults first when evaluating whether you are ready.
 >

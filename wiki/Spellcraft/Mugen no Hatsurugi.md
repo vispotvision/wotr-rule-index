@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8185-a08e-c5f442a6b44d"
 notion_url: "https://app.notion.com/p/Mugen-no-Hatsurugi-3d958200eb228185a08ec5f442a6b44d"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-12T16:29:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -54,8 +54,8 @@ verification: "unverified"
 
 ### FOW line
 
-**Governing Primary** · Dominion (Stability, from the Materia cluster) and Gnosis (Analysis and Retention, from Anamnesis and Aurevane's Perception).
-**Sub-Stats** · Dominion Stability, Gnosis Analysis, Gnosis Retention, Resilience Anchoring.
+**Governing Primary** · Dominion (Gravity, from the Materia cluster) and Gnosis (Analysis and Retention, from Anamnesis and Aurevane's Perception).
+**Sub-Stats** · Dominion Gravity, Gnosis Analysis, Gnosis Retention, Resilience Anchoring.
 **Stage floor** · Stage X, Realization.
 **Grade required** · SS-Grade.
 **Path gate** · Body Path, primary; Attraction Path, secondary, consistent with the 25% Attraction weighting on Muken's own sheet.

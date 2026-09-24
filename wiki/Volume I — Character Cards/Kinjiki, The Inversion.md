@@ -4,8 +4,8 @@ notion_id: "3df58200-eb22-816a-b489-cba6b2aa6ef9"
 notion_url: "https://app.notion.com/p/Kinjiki-The-Inversion-3df58200eb22816ab489cba6b2aa6ef9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-18T20:52:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:41:00.000Z"
+verification: null
 ---
 
 # Kinjiki, The Inversion
@@ -49,7 +49,7 @@ verification: "unverified"
 
 ### IV. Primary Stats
 
-**Stage XIV, Zenith** · **Level 500** · Band V Absolute · Tier of Standing: 9, Paragon · Pool 9,000 · Allocated 9,000.
+**Stage XIV, Zenith** · **Level 500** · Band V Absolute · Tier of Standing: 8, Archmaster · Pool 9,000 · Allocated 9,000.
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Gnosis** | **1,490** | EX | At ceiling. The reading architecture. Six threads. This is the whole body's purpose |

@@ -4,8 +4,8 @@ notion_id: "3b258200-eb22-81ca-a9c3-ed58dd1d8066"
 notion_url: "https://app.notion.com/p/Anry-Ichimonji-3b258200eb2281caa9c3ed58dd1d8066"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:33:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:27:00.000Z"
+verification: null
 ---
 
 # Anryū Ichimonji
@@ -27,7 +27,7 @@ verification: "unverified"
 | **Path** | Spirit 68% · Attraction 22% · Body 10% |
 | **Typology** | **Mnemantic-Null Class — *The Calligrapher's Absence*** |
 | **Efficiency (η)** | **1.05** — near-zero waste. ***No field pressure, aura warmth, or harmonic noise leaks outward*** |
-| **Soul Crystal** | **Pale Lattice** — *Parun-inscribed from birth;* *pre-loaded glyph-architecture distinguishes him from all non-Solvari practitioners* |
+| **Soul Crystal** | **Pale Lattice** — *Parun-inscribed from birth; pre-loaded glyph-architecture distinguishes him from all non-Solvari practitioners* |
 
 > **Solvari Lattice Ruling.** Two Sub-Stats marked **[SL]** are Parunic Glyph-chains **inscribed before birth**, activated through Tempering Inheritance rather than cultivated allocation.
 >
@@ -46,7 +46,7 @@ verification: "unverified"
 | **Ardency** | 198 · B | **Compression 235** · **Inscription 215** |
 | **Tempering** | 196 · B | **Inheritance 245** · Maturity 188 |
 | **Resilience** | 192 · B | Anchoring 195 · Integrity 188 |
-| **Dominion** | 188 · B | **Stability 215** · Radius 195 |
+| **Dominion** | 188 · B | **Gravity 215** · Radius 195 |
 | **Vitality** | 185 · B | Threshold 185 · Constitution 182 |
 | **Dexterity** | 182 · B | **Silence 215** · Burst 188 — *not speed-dominant* |
 
@@ -88,11 +88,11 @@ verification: "unverified"
 
 | Technique | Effect · Cost | Limits · Backlash |
 |---|---|---|
-| **Ichimonji no Fude** *The Single Stroke* | Brush contact. **Shell locked 40–90s; Output reduced 30–60%; strike force +40–70% against the locked target.** *Sensory:* *one brushstroke. The target feels nothing until Essence starts bleeding wrong.* 18,000 EU | Dissolution techniques, Stage IX+ Flux rejection · *Shell microfractures after 90s per locked target* |
-| **Ankoku no Ran** *Dark Current Scatter* | 12m radius — **65–80% signal suppression for 8 seconds**, 5.4–9°F drop. **He retains full Mnemata inside.** *Sensory:* *the room goes quiet in a way that has nothing to do with sound.* 31,000 EU | Body-Path fighters, high-output force-flood · *beyond 8s costs 4,200 EU/s and degrades Mnemata bandwidth 30%* |
+| **Ichimonji no Fude** *The Single Stroke* | Brush contact. **Shell locked 40–90s; Output reduced 30–60%; strike force +40–70% against the locked target.** *Sensory: one brushstroke. The target feels nothing until Essence starts bleeding wrong.* 18,000 EU | Dissolution techniques, Stage IX+ Flux rejection · *Shell microfractures after 90s per locked target* |
+| **Ankoku no Ran** *Dark Current Scatter* | 12m radius — **65–80% signal suppression for 8 seconds**, 5.4–9°F drop. **He retains full Mnemata inside.** *Sensory: the room goes quiet in a way that has nothing to do with sound.* 31,000 EU | Body-Path fighters, high-output force-flood · *beyond 8s costs 4,200 EU/s and degrades Mnemata bandwidth 30%* |
 | **Keiro no Shizuka** *The Quiet Archive* | 6–14 second read via brush contact — **extracts 80–120 hours of the target's Aether-interaction history.** *Full Wellspring alignment, Trait list, Essence pattern legible.* **Sensory: *he already knows more than the target has told anyone.**  • 44,000 EU | **Animatria defences trigger 0.8–1.4s blindness on rejection** · *bandwidth cost lingers 20–30s* |
-| **Sumi no Tobira** *The Ink Gate* | **Dissolution into Mnemantic particulate** — 22m at Mach 4.8, **2.4 GN re-solidification impact with 0% pre-detection.** *Sensory:* *he stops existing. Then the impact arrives.* 67,000 EU | Matter-physics practitioners, high Aether-saturation · *second transit within 10 min adds 0.3s disorientation* |
-| **Sōkoku no Hi** *Immolation of the Written Record* | Requires the Domain active. **35m imprint-extraction detonated as a 2.8 GN shockwave.** *All active Traits suppressed* *18–45 seconds* *in exposed practitioners.* **Sensory: *the room holds its breath. Then it forgets it knew how.**  • 190,000 EU | Domain practitioners retain partial function; Crystalia-hardened Crystals reduce to 8–12s · ***post-detonation Mnemata blind 12–18 seconds*** |
+| **Sumi no Tobira** *The Ink Gate* | **Dissolution into Mnemantic particulate** — 22m at Mach 4.8, **2.4 GN re-solidification impact with 0% pre-detection.** *Sensory: he stops existing. Then the impact arrives.* 67,000 EU | Matter-physics practitioners, high Aether-saturation · *second transit within 10 min adds 0.3s disorientation* |
+| **Sōkoku no Hi** *Immolation of the Written Record* | Requires the Domain active. **35m imprint-extraction detonated as a 2.8 GN shockwave.** *All active Traits suppressed 18–45 seconds in exposed practitioners.* **Sensory: *the room holds its breath. Then it forgets it knew how.**  • 190,000 EU | Domain practitioners retain partial function; Crystalia-hardened Crystals reduce to 8–12s · ***post-detonation Mnemata blind 12–18 seconds*** |
 
 ---
 
@@ -114,8 +114,8 @@ verification: "unverified"
 > Scent of **cold paper, iron gall ink, mineral stillness.** Aura: ***the room re-orients around him without knowing it did.***
 | **Core Wound** | **Reality is a badly edited manuscript. He cannot stop reading it.** *He cannot always stop feeling what he reads* |
 |---|---|
-| **Flaw** | **Total informational advantage becomes paralysis.** *The more he reads,* *the longer it takes to decide the page is finished* |
-| **Desire** | **Rewrite the first Parun Glyph** — *end the* *Grief Bias**, the Continuum's tendency to amplify loss over restoration* |
+| **Flaw** | **Total informational advantage becomes paralysis.** *The more he reads, the longer it takes to decide the page is finished* |
+| **Desire** | **Rewrite the first Parun Glyph** — *end the Grief Bias, the Continuum's tendency to amplify loss over restoration* |
 | **Loop** | Will understand exactly who someone is and why they will fail — **then hesitate, because understanding and ending are not the same act** |
 | **Voice** | Measured. ***Each sentence arrives already reviewed.*** Perfectly still **except the two-finger hair adjustment before precision action.** Under stress: **Mnemata contracts to single-target focus. He reads one thing completely** |
 

@@ -4,8 +4,8 @@ notion_id: "3e058200-eb22-815e-88b2-f1f38c42b4bf"
 notion_url: "https://app.notion.com/p/Xanelor-Rafiminar-3e058200eb22815e88b2f1f38c42b4bf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-19T01:41:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:32:00.000Z"
+verification: null
 ---
 
 # Xanelor Rafiminar
@@ -34,7 +34,7 @@ verification: "unverified"
 **Coherence Band** **Unclassified** — no Accord-framework measurement exists. *Sage Arts cultivation produces a different relationship between Essence and body than standard progression*
 **Path** Body 55% · Spirit 35% · Attraction 10% *(estimated from training emphasis)*
 **Essence Typology** **Vectoria**, probable primary — trajectory, direction, spatial mapping. *The bow, the stake-field, the air-displacement sensing: all directional processing.* **Fluxia**, possible undertone — *Drogo's flow philosophy, the river metaphor, the adaptive-evasion training*
-**Aether Class** **Ø — Dormant** *(no formal assessment; reclassification expected at academy intake)*
+**Aether Class** **Unclassed (Class emerges at Glory)**
 **Efficiency (η)** **Unclassified** — *functionally unmeasurable without standardized Essence-channel diagnostics. The Sage Arts appear to produce high efficiency through a different mechanism than standard Aether Flow*
 **Crystal State** **Intact, non-standard architecture.** The age-two scarring constituted a catalyst. Twelve years of Sage Arts cultivation have developed the Crystal along a path that does not correspond to any Accord-documented progression. *What the academy finds when they look may not resemble anything in the diagnostic literature*
 **Attraction / Obsession** Clean, latent

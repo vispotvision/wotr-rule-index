@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-812a-92c0-f639ef17493b"
 notion_url: "https://app.notion.com/p/The-Four-Paths-Routing-Recognition-and-the-Gate-3d558200eb22812a92c0f639ef17493b"
 section: "The Magic System"
 tags: ["Magic System"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -32,7 +32,7 @@ And the reverse holds, which is where careers stall. A practitioner who has occa
 **Body Path.** The shortest road and the most reliable. A direct multiplicative bonus to Strike Force, Durability and Lifting Strength, running from five per cent at early Stages to twenty per cent at Stage XII and above. Body Path practitioners at equal Grade and Stage consistently out-hit, out-tank and out-lift their counterparts, and the margin widens with advancement. **The trade is Range and Aura Pressure**, which is why a Body Path practitioner has to close and everybody who fights them knows it.
 **Spirit Path.** A moderate bonus to Strike Force delivered through Aetheric projection, five to twenty-five per cent, and no bonus at all to force delivered by hand. Some configurations take a slight penalty there. **They hit hardest at range and their force holds coherence across distance where Body Path force does not.** Durability bonus is negligible and replaced by precision in defensive deployment, which means they survive through correct response rather than absorption. A Spirit Path practitioner who is caught out of position is in more trouble than any other Path in the same situation.
 **Attraction Path.** The smallest direct bonus to Strike Force and Durability and the largest to Range, Aura Pressure, and the interaction between force and Domain authority. Their projected force degrades least over distance and their presence extends across the largest volume. **Inside a formed Domain, Attraction Path amplification can exceed the Body Path's raw advantage outright.** Outside it, Body Path remains king, and every Attraction Path practitioner alive has organised their entire life around that sentence.
-**Fate Path.** No force modifier. What Fate gates is not output but permission: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Stability, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
+**Fate Path.** No force modifier. What Fate gates is not output but permission: Persistence, Continuity, Maturity, Ward, Anchoring, Sovereignty, Gravity, Sense, and at the far end **Throne**, which requires Stage XIII, cannot be advanced below EX-Grade, and is the only Sub-Stat in the system with no practical upper boundary on this side of Apotheosis.
 | Path | Routes through | Buys | Costs |
 |---|---|---|---|
 | **Body** | The Physical Plane, natively | Strike, Durability, Lifting | Range and Aura Pressure. Must close |

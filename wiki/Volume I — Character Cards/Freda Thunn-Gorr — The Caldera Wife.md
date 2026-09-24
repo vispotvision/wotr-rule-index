@@ -4,8 +4,8 @@ notion_id: "3b358200-eb22-8103-9b93-d1b65bfbc84f"
 notion_url: "https://app.notion.com/p/Freda-Thunn-Gorr-The-Caldera-Wife-3b358200eb2281039b93d1b65bfbc84f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:29:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:31:00.000Z"
+verification: null
 ---
 
 # Freda Thunn-Gorr — The Caldera Wife
@@ -33,7 +33,7 @@ verification: "unverified"
 **Level:** ~45/500 · **Band:** I — Foundation
 **Temperance Stage:** II — Welling (stable, lifelong)
 **Soul Crystal Tier:** Awakened (early)
-**Aether Class:** I — Muridic
+**Aether Class:** Unclassed (Class emerges at Glory)
 **Path:** Spirit (passive)
 **η:** 0.19 — vestigial
 **Note:** Freda is not a practitioner. Her Crystal exists because she is Hobgoblin and all Hobgoblins carry Stone-Blood. Her Monolithion resonance is passive, expressing as the particular groundedness that non-Order Hobgoblins carry: a steadiness that reads to practitioners as an unusually stable ambient field. She does not use it. She does not think about it. People around her feel slightly more settled than they did before, and nobody has ever tested whether this is Wellspring effect or personality.

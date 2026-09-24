@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-819e-8385-c81cd92f8d13"
 notion_url: "https://app.notion.com/p/The-Magical-Categories-Unified-Taxonom-3c758200eb22819e8385c81cd92f8d13"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-23T23:42:00.000Z"
 verification: "unverified"
 ---
 
@@ -109,9 +109,9 @@ Sits between Body and Spirit because the trigger is always Spirit (emotional/Ess
 ## 10 · VIAFORMA
 
 **Triadic Axis**
-The lived evolution along the three Paths. Viaforma is how a soul's Aether behaviour reshapes over time through Temperance — the practice-name for the Three Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder.
-Not a technique cast, but the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, and **Via Anima** are the three long arcs every other category eventually serves.
-**Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Anima (Attraction)
+The lived evolution along the four Paths: Body, Spirit, Attraction and Fate. Viaforma is how a soul's Aether behaviour reshapes over time through Temperance — the practice-name for the Four Paths codex's structural claim: a soul's primary allegiance to one Plane, refined across the entire Coherence Ladder.
+Not a technique cast, but the shape of everything else in this taxonomy across a lifetime. **Via Corporis**, **Via Mentis**, **Via Anima** and **Via Fati** are the four long arcs every other category eventually serves. **Via Fati** routes no force at all; it is recognised by what a soul refuses to let end.
+**Examples:** Via Corporis (Body) · Via Mentis (Spirit) · Via Anima (Attraction) · Via Fati (Fate)
 
 ---
 

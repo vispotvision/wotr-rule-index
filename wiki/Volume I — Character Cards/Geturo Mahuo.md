@@ -4,8 +4,8 @@ notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
 notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-19T01:41:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:31:00.000Z"
+verification: null
 ---
 
 # Geturo Mahuo
@@ -25,7 +25,7 @@ Twin brother to Hiromi (younger by minutes), younger brother to Lily. Studies al
 | **Temperance Stage** | **II — Welling**, active. Max Grade D/100 |
 | **Coherence Band** | **E** |
 | **Essence Typology** | TBD — alchemy focus suggests Materia or Caloria affinity |
-| **Aether Class** | **I — Muridic** |
+| **Aether Class** | **Unclassed (Class emerges at Glory)** |
 | **Crystal State** | Clean, no fracture |
 
 ### IV–V. Stats

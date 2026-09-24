@@ -4,8 +4,8 @@ notion_id: "3b358200-eb22-8181-8e55-daf152e981e5"
 notion_url: "https://app.notion.com/p/Krothar-Veylshroud-The-Chain-Without-a-Master-3b358200eb2281818e55daf152e981e5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-08-15T00:29:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:27:00.000Z"
+verification: null
 ---
 
 # Krothar Veylshroud — The Chain Without a Master
@@ -75,7 +75,7 @@ verification: "unverified"
 **HARMONICS:** Attunement 780 / Density 750 / Breadth 680 / Stability 730 / Chord 600 / Confluence 710 / Axis 540 / Suppression 780
 **RESILIENCE:** Integrity 640 / Ward 580 / Persistence 670 / Coherence 620 / Anchoring 700 / Hardening 600 / Nullity 460 / Immunity 520
 **TEMPERING:** Compression 700 / Overflow 630 / Acceleration 660 / Clarity 730 / Coherence 690 / Maturity 720 / Ceiling 640 / Capacity 670
-**DOMINION:** Radius 440 / Sovereignty 420 / Density 470 / Stability 450 / Projection 430 / Sense 480 / Pressure 440 / Command 380
+**DOMINION:** Radius 440 / Sovereignty 420 / Density 470 / Gravity 450 / Projection 430 / Sense 480 / Pressure 440 / Command 380
 
 ---
 

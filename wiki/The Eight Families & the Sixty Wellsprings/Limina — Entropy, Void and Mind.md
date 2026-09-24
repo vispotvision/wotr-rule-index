@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8197-9345-cf955fc00b7d"
 notion_url: "https://app.notion.com/p/Limina-Entropy-Void-and-Mind-3b158200eb2281979345cf955fc00b7d"
 section: "The Eight Families & the Sixty Wellsprings"
 tags: []
-last_edited: "2026-08-03T04:27:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -12,7 +12,7 @@ verification: "unverified"
 
 *Abstract and entropic · entropy, void, and mind*
 > The largest Family and the only one whose truest signature is **what fails to be there.** Limina is not the Family of darkness. It is the Family of systems described by their absences, their relaxation times, and their information content, which is a harder and less romantic thing than its practitioners generally admit.
-**Stat Affinity** · *Gnosis (Warding, Retention, Cognition, Memorium, Diagnosis) · Resilience (Coherence, Severance, Nullity, Persistence, Continuity) · Harmonics (Recovery, Fidelity, Suppression, Stability, Memory) · Dominion (Reach, Sovereignty, Sense, Stability)*
+**Stat Affinity** · *Gnosis (Warding, Retention, Cognition, Memorium, Diagnosis) · Resilience (Coherence, Severance, Nullity, Persistence, Continuity) · Harmonics (Recovery, Fidelity, Suppression, Stability, Memory) · Dominion (Reach, Sovereignty, Sense, Gravity)*
 
 ---
 
@@ -90,7 +90,7 @@ verification: "unverified"
 
 **Analogue** · Thermal inertia under negative feedback. A regulated system holding setpoint against ambient.
 **Mechanism** · A body with high heat capacity governed by a feedback loop holds its temperature regardless of what the room does, and the larger the capacity the smaller the excursion. Nyxial gives the Crystal that regulation. The practitioner's baseline does not rise in favourable conditions and does not fall in hostile ones, which is a disadvantage exactly as often as it is a defence.
-**Stat Effect** · Strengthens Harmonics Stability, Dominion Stability, Vitality Endurance. Baseline output does not fluctuate with environmental pressure.
+**Stat Effect** · Strengthens Harmonics Stability, Dominion Gravity, Vitality Endurance. Baseline output does not fluctuate with environmental pressure.
 **Failure** · Integral windup. A regulator held against a load it cannot overcome accumulates correction, and when the load lifts the correction discharges all at once.
 
 ### Nihiloth · *The Hollow Law*

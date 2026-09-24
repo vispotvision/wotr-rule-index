@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8183-817e-cc1a61adee53"
 notion_url: "https://app.notion.com/p/The-Core-Vocabulary-3b158200eb228183817ecc1a61adee53"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:27:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -61,7 +61,7 @@ verification: "unverified"
 **Lattice Conductivity** · How easily Essence moves through the Aether Shell without resistance. Low Conductivity produces blockage and backlash; high Conductivity produces smooth passage.
 **Resonant Purity** · How closely the Aether Shell's output matches the Essence Core's intention. Low Purity produces static and misfires; high Purity produces near-instant Formation.
 **Continuum Retention** · How long a Crystal's coherence endures after strain. Low Retention produces brief flares of power; high Retention sustains resonance.
-**Crystal States** · The four conditions a Soul Crystal can occupy. **Fractured** (split by trauma or overload, producing erratic casting and identity leak), **Refined** (balanced and coherent, the baseline healthy state), **Overgrown** (power exceeding architecture, producing involuntary discharge), and **Crystallized** (the self has become law; thought itself carries causal weight).
+**Crystal States** · The three conditions a Soul Crystal can occupy. **Fractured** (split by trauma or overload, producing erratic casting and identity leak), **Refined** (balanced and coherent, the baseline healthy state), and **Overgrown** (power exceeding architecture, producing involuntary discharge). Crystallized is not a State; self-as-law belongs to the Crystallized Soul tier alone.
 **Wellspring** · A cosmic current of Aether-law a Soul Crystal harmonizes with rather than invents. Each carries its own Core Law, Family alignment, and Temperance-range compatibility. Harmonization with the correct Wellspring is one of the four conditions — alongside Essence Typology, Temperance Stage, and training — an Ability needs to develop.
 
 ---
@@ -83,7 +83,7 @@ verification: "unverified"
 
 > *Temperance is not a buff. It is a confession of how much you've survived.*
 **Temperance** · The refinement of the Soul Crystal under pressure, expressed across sixteen Stages, Murmuring through Apex. Temperance is subtraction, not accumulation — each Stage is a structural reorganization triggered by a Threshold Event, never a reward for banked experience.
-**Band** · One of five brackets of one hundred Levels each: I Mortal Foundation, II Awakened, III Sovereign, IV Mythic, V Absolute, capped at Level 500. No Band ceiling can be breached without the Temperance Threshold that Band demands. The old lettered bands attached to Stages are retired; a Stage's standing is now read by Tier of Standing.
+**Band** · One of five brackets of one hundred Levels each: I Mortal Foundation, II Awakened, III Sovereign, IV Mythic, V Absolute, capped at Level 500 for everyone below Stage XV. Paragons, at Stages XV–XVI, exceed it: Level keeps rising with no ceiling and no sixth Band, and the Codex does not number it. No Band ceiling can be breached without the Temperance Threshold that Band demands. The old lettered bands attached to Stages are retired; a Stage's standing is now read by Tier of Standing.
 **Grade** · The letter-ranked output classification, E through EX+, attached to a Temperance Stage, marking raw magnitude up to that Stage's Grade cap.
 **EU · Essence Units** · The raw reserve. Total volume of usable Essence stored in the Crystal at any given moment, also called Essence Volume. Scales with Temperance Stage. Below ten percent EU a practitioner suffers **Essence Starvation**: reduced stat expression, Shell degradation, Trait flickering.
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output drawn from the same reserve.

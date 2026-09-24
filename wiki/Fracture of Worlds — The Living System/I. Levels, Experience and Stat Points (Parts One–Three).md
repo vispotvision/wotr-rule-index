@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81a7-8ab6-ff201f11a35b"
 notion_url: "https://app.notion.com/p/I-Levels-Experience-and-Stat-Points-Parts-One-Three-3d758200eb2281a78ab6ff201f11a35b"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-14T02:09:00.000Z"
+last_edited: "2026-09-23T23:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -14,7 +14,7 @@ verification: "unverified"
 
 #### The Hard Cap
 
-The system operates on a maximum of Level 500. This number is not arbitrary. It represents the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters who reach Level 500 and continue to accumulate sufficient Soul Crystal pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression.
+The system operates on a maximum of Level 500 for every practitioner below Stage XV. This number is not arbitrary. It represents the structural limit of what a mortal Soul Crystal can contain before the distinction between practitioner and Principle collapses entirely. Characters below Stage XV who reach Level 500 and continue to accumulate sufficient Soul Crystal pressure do not advance in level. They begin the Apotheosis approach, a qualitative event outside the scope of numbered progression. **Paragons exceed Level 500.** At Stages XV–XVI, Level keeps rising past 500 with no ceiling and no sixth Band; the Codex does not number it.
 Levels divide into five Bands of one hundred levels each. Every Band corresponds to a Temperance Stage cluster. No character can breach a Band ceiling without first passing the Temperance Threshold that cluster demands. The System will simply halt the level counter and build pressure, called Residual Strain, until the Threshold is passed or the character fractures under the weight.
 
 #### The Five Bands

@@ -3,9 +3,9 @@ title: "Souma Byakuya Moto"
 notion_id: "3b258200-eb22-817f-b123-e09c3814a808"
 notion_url: "https://app.notion.com/p/Souma-Byakuya-Moto-3b258200eb22817fb123e09c3814a808"
 section: "Volume I — Character Cards"
-tags: ["Characters", "Bloodlines"]
-last_edited: "2026-09-10T11:23:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-23T23:32:00.000Z"
+verification: null
 ---
 
 # Souma Byakuya Moto
@@ -64,7 +64,7 @@ During a raid on sacred ground, Souma **completed a blood-soaked sacrament under
 | **Tier** | **High Guardian Tier** |
 |---|---|
 | **Path** | Sacrament 60% · Judicium 25% · Fixatio 15% |
-| **Aether Class** | **Sanctified Predator** — *still and heavy until provoked, then unfolding in circular ward-geometry and razor-straight counter-lines* |
+| **Aether Class** | **Unclassed (Class emerges at Glory)** — *still and heavy until provoked, then unfolding in circular ward-geometry and razor-straight counter-lines* |
 | **Aether Risk** | **Temperance calcification**, backlash tremors, memory-echo fatigue, soul-strain from overdraw |
 | **Wellsprings** | Benediction · Judicium · Fixatio — **4 additional shrine-linked nodes currently networked** |
 | **Untouched lattice nodes** | **3 remaining** |

@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-819a-85aa-e413f7e15e73"
 notion_url: "https://app.notion.com/p/Yukazuri-Moto-3b158200eb22819a85aae413f7e15e73"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-04T04:38:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-23T23:32:00.000Z"
+verification: null
 ---
 
 # Yukazuri Moto
@@ -36,7 +36,7 @@ verification: "unverified"
 **Temperance Stage** · **IV, the Hollowing — Arrested.** *The Hollowing requires the soul to empty toward something, and for thirty years there has been nothing to empty toward.*
 **Path** · Spirit 72% · Body 18% · Attraction 10%
 **Essence Typology** · Receptive Emitter — Somatic Sub-Class
-**Aether Class** · Receptive Emitter. **Broadcasts outward, cannot fully close the channel**
+**Aether Class** · Unclassed (Class emerges at Glory). **Broadcasts outward, cannot fully close the channel**
 **Aether Index** · 480 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**
 > **Crystal State.** Still clean, still uncracked — **but the stillness now reads differently.**
 >

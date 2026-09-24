@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
 notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-23T23:41:00.000Z"
 verification: "unverified"
 ---
 
@@ -27,13 +27,14 @@ Every Shell radiates an Aetheric Signature described by three constants.
 #### The Seven Aether Classes
 
 **Class Ø — The Dormant.** The unawakened Shell. Sealed, unresponsive, nearly silent. The soul dreams without memory and moves through the world without leaving lasting metaphysical trace. Precedes Initiate entirely. Corresponds to the Dormant Crystal. No stat output above Hollow Grade is possible.
-**Class I — The Muridic.** The awakening Shell, flickering with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably. The bearer may appear unstable when their lattice is simply learning to speak. Initiate through Adept, Awakened Crystal. **Roughly thirty to forty percent efficiency loss** to Shell interference.
-**Class II — The Harmonic.** The attuned Shell begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Expert, Harmonic Crystal. **Fifteen to twenty-five percent loss.**
-**Class III — The Resonant.** The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia and complex techniques awaken naturally. Presence becomes as important as any incantation. Late Expert, Resonant Crystal. **Five to ten percent loss.** The first Class at which stat values translate into combat output at near-full fidelity.
+**Class I — The Muridic.** The awakening Shell, flickering with first resonance. Essence leaks unevenly into space. Emotion distorts weather and mood. Will echoes unpredictably. The bearer may appear unstable when their lattice is simply learning to speak. Glory, Stage VI, Harmonic Crystal, where Aether Class first emerges; **Stages I through V are unclassed, and the coil reads no Class.** **Roughly thirty to forty percent efficiency loss** to Shell interference.
+**Class II — The Harmonic.** The attuned Shell begins to hold rhythm. Essence and Aether find a recurring pattern. Simple spellwork stabilizes. Wellspring whispers find purchase. Bonds form without tearing the self. Harmony is structured tension that no longer shatters. Early Refraction, Resonant Crystal. **Fifteen to twenty-five percent loss.**
+**Class III — The Resonant.** The conductor Shell. Essence and Aether exchange freely. Power moves even in silence. Magic ceases to feel like performance and begins to feel like breathing. Dual-casting, Synergia and complex techniques awaken naturally. Presence becomes as important as any incantation. Late Refraction, Resonant Crystal. **Five to ten percent loss.** The first Class at which stat values translate into combat output at near-full fidelity.
 **Class IV — The Luminous.** The lucid Shell thins. Light and thought draw close. Wellsprings respond with minimal prompting. Aether behaviour mirrors the bearer's emotional and moral alignment with unnerving precision. **No single corresponding Crystal Tier**; a Shell-specific peak, most often in Intent-aligned Spirit Path souls whose Shell clarified faster than their Core or Layer. A Luminous soul may test as Resonant or even Radiant Crystal overall while their Shell has simply gotten there first. Efficiency loss negligible; output precision exceeds baseline stat values by a factor depending on Sub-Stat architecture.
 **Class V — The Radiant.** The world-bending Shell. Aether bends toward the bearer. Currents curve around their presence. They can stabilize Realmgates, hold Domains against collapse and speak Parun motifs into matter. The line between intention and environment blurs; the Shell's clarity exerts topological pressure on its surroundings. Early Master, Radiant Crystal, where the first true Domain forms. Stat output begins **exceeding** what the raw numbers suggest, because the Shell is amplifying rather than merely conducting.
 **Class VI — The Voidic.** The inverted Shell. Polarity reverses. Instead of emitting, the Shell devours, remembers and reflects. Voidic conductors channel absence, silence and negation without erasing themselves, and interface most directly with Limina Wellsprings and Titanic depths. **Lateral rather than sequential**; it can appear alongside Resonant, Luminous or Radiant Shells rather than strictly after them. Most often in Split-Shell Entities and souls with deep Limina harmonization. Their Ardency does not deal damage in the conventional sense. It removes things.
 **Class Ω — The Absolute.** The threshold Shell. The Aether Shell dissolves as a distinct boundary. Being and Continuum interpenetrate. Every fragment of the self conducts law with minimal deviation. Paragon, Absolute Crystal. Archons, Titans and World Spirits who have crossed the Apotheosis Threshold exist at this clarity. Stat output is no longer meaningful as a separate measurement, because the practitioner and their output are the same event.
+**The Stage each Class names is the typical path, not a lock.** A Shell whose Class sits above the ladder for its Stage stands as recorded; Luminous (IV) and Voidic (VI) stay lateral.
 
 #### Aether Class Progression
 
@@ -99,7 +100,7 @@ The nine Tiers of Standing replace the former lettered Coherence Bands. The η f
 | 8 · Archmaster | XIII–XIV Principality to Zenith | 0.95–1.2 | Biomes carry the practitioner's doctrine. Above 1.0 the Continuum recognizes the expression as law and supplements it with ambient flow; the environment becomes a co-author. |
 | 9 · Paragon | XV–XVI Revelation to Apex | above 1.2, unbounded | No source figure exists. The lettered scale had no rung here. Flagged as an open gap rather than filled with an invented number. |
 
-> **The efficiency conflict, unresolved.** Part Seventeen rates **Class I Muridic** at thirty to forty percent loss, which is η 0.60 to 0.70. The efficiency table places the same practitioners, Initiate through Adept, at η 0.30 to 0.45, which is fifty-five to seventy percent loss.
+> **The efficiency conflict, unresolved.** Part Seventeen rates **Class I Muridic** at thirty to forty percent loss, which is η 0.60 to 0.70. Since the ruling of 2026-09-23, Class I first emerges at Glory, Stage VI; the efficiency table places those practitioners in Tier 5, Expert, at η 0.50 to 0.60, which is forty to fifty percent loss. The two ranges touch at 0.60 and do not otherwise agree.
 >
 > *Both describe how much of a working survives the trip out through the Shell. Both are reproduced as written. Neither has been withdrawn. A ruling is needed on which scale governs, and the redistribution above inherits the conflict rather than creating it.*
 

@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-814e-bff3-fd58ca5b26f4"
 notion_url: "https://app.notion.com/p/V-Wellsprings-Attraction-and-Obsession-Magic-Integration-Parts-Thirteen-Fifteen-3d758200eb22814ebff3fd58ca5b26f4"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-11T03:07:00.000Z"
+last_edited: "2026-09-23T23:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -55,9 +55,9 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 #### Vectoria
 
 *Force, motion, gravity. Mechanics, where breaking, holding and rising are the same law seen from different angles.*
-**Stat Affinity:** Tempering (Clarity, Maturity, Coherence), Resilience (Integrity, Fortification, Persistence), Vitality (Constitution, Threshold, Tolerance), Dominion (Stability)
+**Stat Affinity:** Tempering (Clarity, Maturity, Coherence), Resilience (Integrity, Fortification, Persistence), Vitality (Constitution, Threshold, Tolerance), Dominion (Gravity)
 **Fractura**, the Breaking Point. Temperance through failure. Strengthens Gnosis Analysis for fault-reading, Ardency Penetration, Resilience Integrity. Sees where things break and breaks them precisely.
-**Petralon**, the Foundation Stone. Temperance through endurance. Strengthens Vitality Constitution, Dominion Stability. Becomes the ground beneath the ground.
+**Petralon**, the Foundation Stone. Temperance through endurance. Strengthens Vitality Constitution, Dominion Gravity. Becomes the ground beneath the ground.
 **Ascensio**, the Ladder of Ascent. Temperance through rising. Strengthens Tempering Maturity, Harmonics Attunement. Stage transitions become smoother and less violent.
 **Sublimatio**, the Ascending Breath. Temperance through refinement. Strengthens Ardency Compression, Tempering Clarity. Output cleaner and sharper with less waste.
 **Sublimare**, the Rising Breath. Temperance through ascent. Strengthens Tempering Clarity, Resilience Fortification. The Crystal purifies itself, burning off impurities as silver vapor.
@@ -76,15 +76,15 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 #### Materia
 
 *Matter and substance. Material science, where what endures and what a soul becomes under enough pressure are the same question.*
-**Stat Affinity:** Vitality (Fortitude, Tolerance, Regeneration, Absorption), Resilience (Integrity, Anchoring, Hardening, Persistence, Fortification), Dominion (Stability), Tempering (Coherence, Clarity)
+**Stat Affinity:** Vitality (Fortitude, Tolerance, Regeneration, Absorption), Resilience (Integrity, Anchoring, Hardening, Persistence, Fortification), Dominion (Gravity), Tempering (Coherence, Clarity)
 **Coagula**, the Unifying Pulse. The personal, Soul Plane unifying force; a soul gathering itself back together. Strengthens Resilience Integrity, Tempering Coherence. The Crystal becomes harder to split.
 **Fixatio**, the Binding Flame. The anchoring law. Strengthens Vitality Fortitude, Resilience Anchoring. What is held by Fixatio stays held.
 **Coagulatio**, the Returning Stone. The material twin of Coagula, the alchemical operation that gathers substrate. Strengthens Ardency Compression, Tempering Clarity. Essence becomes denser, harder to waste.
-**Materia Primordia**, the First Substance. Strengthens Vitality Fortitude, Dominion Stability. Body and Domain gain mineral-weight authority.
+**Materia Primordia**, the First Substance. Strengthens Vitality Fortitude, Dominion Gravity. Body and Domain gain mineral-weight authority.
 **Basilithe**, the Stone Will. Strengthens Resilience Hardening, Harmonics Stability. The soul's frequency locks and refuses retuning.
-**Monolithion**, the Enduring Monument. Strengthens Vitality Tolerance, Resilience Persistence, Dominion Stability. Presence becomes geological.
+**Monolithion**, the Enduring Monument. Strengthens Vitality Tolerance, Resilience Persistence, Dominion Gravity. Presence becomes geological.
 **Terranova**, the Living Earth. Strengthens Vitality Regeneration, Harmonics Synergy. The body heals by growing rather than repairing.
-**Chthonica**, the Root Deep. Strengthens Vitality Absorption, Dexterity Economy, Dominion Stability. Roots to whatever surface it stands on.
+**Chthonica**, the Root Deep. Strengthens Vitality Absorption, Dexterity Economy, Dominion Gravity. Roots to whatever surface it stands on.
 **Tarturon**, the Fire of Reckoning. Correction through consequence. Strengthens Ardency Flux under moral weight, Tempering Overflow, Resilience Fortification. Output spikes when the practitioner believes they deserve to pay.
 
 #### Vitalia
@@ -112,7 +112,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 #### Limina
 
 *Entropy, void and mind. The abstract and the entropic, the only Family whose truest signature is what fails to be there.*
-**Stat Affinity:** Gnosis (Cognition, Retention, Analysis), Resilience (Anchoring, Ward, Persistence, Continuity), Harmonics (Attunement, Suppression, Stability), Dominion (Sovereignty, Sense, Stability)
+**Stat Affinity:** Gnosis (Cognition, Retention, Analysis), Resilience (Anchoring, Ward, Persistence, Continuity), Harmonics (Attunement, Suppression, Stability), Dominion (Sovereignty, Sense, Gravity)
 **Letheveil**, the Waters of Forgetting. Tests Resilience Anchoring rather than strengthening it, and strengthens Gnosis Cognition. Teaches which memories are load-bearing and which are chains.
 **Lethegraal**, the Cup of Forgetting. Strengthens Tempering Maturity, Harmonics Stability. The Crystal digests old pain into neutral architecture.
 **Hypnather**, the Sleep Crown. Strengthens Vitality Regeneration during rest cycles, Tempering Yield, Gnosis Retention. Recovery during sleep becomes dramatically more efficient.
@@ -123,7 +123,7 @@ Each Wellspring's Family assignment is fixed by the phenomenon it governs, not b
 **Dissolution**, the Unbinding Stream. Strengthens Resilience Ward, Tempering Maturity. Dissolves what no longer serves the Crystal's architecture.
 **Tenebra**, the Hidden Shadow. Strengthens Dexterity Feint, Harmonics Suppression, Dominion Sense. Difficult to detect, read or track by conventional or Aetheric means.
 **Oblivara**, the Dark Mirror. Strengthens Resilience Persistence, Gnosis Cognition. Resistance to conceptual erasure and perceptual manipulation.
-**Nyxial**, the Nocturne Flame. Strengthens Harmonics Stability, Dominion Stability, Vitality Constitution. Baseline output does not fluctuate with environmental pressure.
+**Nyxial**, the Nocturne Flame. Strengthens Harmonics Stability, Dominion Gravity, Vitality Constitution. Baseline output does not fluctuate with environmental pressure.
 **Nihiloth**, the Hollow Law. Strengthens Dominion Sovereignty, Resilience Persistence, Gnosis Cognition. Imposes law through negation. The Domain does not add rules. It removes them.
 **Vantabriel**, the Wellspring of Night. Strengthens Resilience Continuity, Harmonics Attunement, Tempering Longevity. Endures by carrying the memory of what was lost rather than replacing it.
 
@@ -172,7 +172,7 @@ Terrain-anchored Wellspring communion. A Sage does not cast spells in the conven
 #### Spirit Summoning Arts
 
 Five-step pipeline: Intent, Pattern, Essence Donation, Aether Formation, Attraction Anchoring.
-**Primary:** Ardency (Flux, Density) governs the construct's output, structural weight and duration. Harmonics (Attunement, Breadth) governs inherited Wellspring alignment. Dominion (Radius, Stability) governs operational independence and range.
+**Primary:** Ardency (Flux, Density) governs the construct's output, structural weight and duration. Harmonics (Attunement, Breadth) governs inherited Wellspring alignment. Dominion (Radius, Gravity) governs operational independence and range.
 **Secondary:** Gnosis Retention sets how many summon patterns can be held loaded. Tempering Yield sets how much Essence can be donated without depleting combat reserves. Dexterity Sequence sets command speed during engagement.
 **Wellspring inheritance.** Summons inherit their creator's alignment. A Materia-Family summoner produces anchored, durable, slow-to-dissolve constructs. A Limina-Family summoner produces absence-constructs, void-forms and negation agents. The spirit's behaviour is a function of the summoner's Harmonics profile, not a separate system.
 
@@ -180,7 +180,7 @@ Five-step pipeline: Intent, Pattern, Essence Donation, Aether Formation, Attract
 
 Aetheric effects encoded into Parunic inscription structures that persist independently of active concentration.
 **Primary:** Gnosis Fluency governs inscription accuracy and glyph-chain complexity. Ardency (Density, Compression, Depth) governs durability, efficiency and alignment. Resilience (Ward, Hardening) governs protective rune capacity.
-**Secondary:** Dexterity Finesse for physical precision of execution. Tempering Clarity for the cleanliness of Essence routed into the glyph. Dominion Stability for persistence against environmental erosion.
+**Secondary:** Dexterity Finesse for physical precision of execution. Tempering Clarity for the cleanliness of Essence routed into the glyph. Dominion Gravity for persistence against environmental erosion.
 
 #### Hataraki, the Works of the Plane of Fate
 

@@ -596,3 +596,9 @@ R42-12 to R42-15 in `rules/doc-magic-system-rulings-2026-09-23.yaml`.
 Isaac 2026-09-24: (1) Rovhen Talvasciel is retconned. The old Volume I card 'The Prettier' (Avian Crimsoncrest surgeon villain) is superseded; Rovhen is now a human retired private magical investigator, 28, former assistant to Edmund Lambert, new instructor at Aetherion Academy teaching the observation and investigation of magical phenomena. Old card to be rewritten or archived. (2) Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family; exact relation unset. Edmund is dead; Rovhen was his assistant.
 
 Context: Aetherion Academy thread, scene 'The Sort'. Old card 'Rovhen Talvasciel · The Prettier' (Volume I) collided with Isaac's new investigator. Canon has Edward Lambert 'The Arithmetic' (alive, Hild's right hand).
+
+## 2026-09-24 — R12-3-DESIGN_CHAIN_RETURNS
+
+Confirmed and extended to every document: character cards, technique and ability entries, items, lore, in-world documents and exports are fully metaphysical. Stats, Sub-Stats, Grades, Bands, Stage, EU, AU/s, eta, Crystal State, Category, the full Design Chain and mechanism explanation all print on the page. The 24 Sept brief line 'the Design Chain never appears / no mechanism explanation, no metaphysical units' is withdrawn. Never-invent-numbers still holds: empty fields stay flagged pending.
+
+Context: Session 24 Sept 2026, building the wotr-docs skill. Isaac reversed his own brief that kept the Design Chain and mechanism off document pages.

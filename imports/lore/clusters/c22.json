@@ -1,0 +1,192 @@
+{
+ "id": "c22",
+ "name": "The Reaper's crowd crews",
+ "era_span": "The Withering Era. Seraphine Kharza's card is the only one that states an era (\"Withering Era\"); the other five state none. Every card sets its member inside a working Guild Accord, so the shared events are placed in the Withering Era, with no year, unordered against one another, and each after the card events it depends on: Seraphine's registry formed, and Rhyse's vow at the collapsed bridge and his first bending of flows.",
+ "members": [
+  {
+   "slug": "cyrille-lacrim-the-flood-bell",
+   "line": "Siege-relief caster and extraction lead of the Guild Accord's Rescue & Deluge Cadre, paired with the Star Chamber and the Reaper on hot evacuations; she works consecrated water into jointed hands, sets a crowd's pulse with the Matins Cask, and \"could not hurt someone with that hand if she tried\"."
+  },
+  {
+   "slug": "seraphine-kharza-ten-thousand-hands",
+   "line": "The Reliquary Gunner, Withering Era: crowd-safety artillerist and last-touch custodian of the Rescue & Deluge Cadre and the Reaper's adjunct, who fires the licensed palms of the helpful dead from the reliquary cannon Manifold, registers only the willing, and takes every shot's recoil into her own body."
+  },
+  {
+   "slug": "sumire-nekoha-the-stray-lantern",
+   "line": "Night-witch and refuge-maker of the Accord's Logistics Safe-Route Auxiliary, seconded to the Reaper for crossings through crowds; she lays moth-lit lanes, hums panic into breathing, and carries children's misfortunes on nine violet bows until they spend on her."
+  },
+  {
+   "slug": "maelia-cantorine-the-countercant",
+   "line": "Riot-unbinder and hymn-breaker of the Arbitration Auxilia's Acoustic Ward, on call for the Reaper when crowds threaten last words; she hears the heartbeat a mob has agreed on, cuts it on the fifth beat, and spends her voice by the knot."
+  },
+  {
+   "slug": "sir-rhyse-calder-the-tartan-bastion",
+   "line": "March Warden of the North Rails in the Arbitration Auxilia's Escort Corps, the Accord's moving gate, a Human Northrail Highlander named as the last illegitimate son of the Dragon King Xalvion; he holds caravans, bridges and councils, stands dragons down, and carries the fear of the people in his lee. His card names nobody."
+  },
+  {
+   "slug": "deimos-the-sin-eater",
+   "line": "The Sin Eater, an aberrant mortal of the Arbitration Division and an unbadged Black Concord Auxiliary whose realm of operation is Purganeth and Outer Realms transit; he eats confessed guilt into a blackening right side and a sash of red seals, and cannot touch innocence or a child's guilt."
+  }
+ ],
+ "events": [
+  {
+   "name": "The damaged span at Bridgemarch",
+   "when": "The Withering Era. After Seraphine's registry had formed, so every palm she fires is licensed; after Rhyse had watched a bridge collapse under panic and sworn never again, and after he had begun to bend flows. Before any card's present.",
+   "where": "Bridgemarch, the junction city of Nalūn, and the Cuttings beside it (WORLD §3 and §5; the Nalūn page: \"The central void, where the tunnel network converges\", chain-bridges across open caverns, \"The sound of chain is constant\"; Cutwall \"scaffolding, rail and dust\", air that \"tastes of powdered halite and lamp soot\").",
+   "who": [
+    "sir-rhyse-calder-the-tartan-bastion",
+    "cyrille-lacrim-the-flood-bell",
+    "seraphine-kharza-ten-thousand-hands",
+    "sumire-nekoha-the-stray-lantern"
+   ],
+   "what": "Sir Rhyse was bringing arbiters through the junction toward Ironlink Hold, with the Rescue and Deluge Cadre's two casters in his escort and Sumire seconded from Logistics to lay its route through the junction crowds. A face gave way in the Cuttings, and the cutters at the face did not come out. The barracks emptied toward the junction, and the crowd came up with salt dust in its clothes onto the chain-bridges, where the junction's own traffic already stood. The shock had parted an anchor chain on one span, and the crowd pressed onto it. Rhyse planted Lochgate at the head of the damaged span and would not set Rail Root on it, because a tightened span that is already hurt can lock stress into the wrong supports; he knotted his tartan over the front ranks and turned the column onto the sound span beside it. Sumire went first with the barracks children, up the tiers by the Moth Path, before any bell sounded. At the edge of the damaged span a bow on her apron came undone and its misfortune spent on her: the rail gave under her hand and she went over. The salt dust had clouded Seraphine's manifests. Cyrille sweetened the water, the manifests cleared, and a nurse's cradle palm caught Sumire above the cavern floor and set her down. Then Cyrille struck the Matins Cask, and the crowd on the sound span matched the pulse and walked. Those who went over the rails after that landed on a Cushion Surge, and Seraphine's hands carried them to the triage tables. The damaged span stood empty until the Span's engineers closed it. Took: Rhyse, a damaged span he did not lock and a vow kept, the fear of the front ranks dragging at his reflexes for the rest of the road, and the handoff Cyrille's card records, gate and then water; Cyrille, the order of the route (Sumire pads it, Cyrille carries through it, the bell held until Sumire is clear), the practice of sweetening the water before Seraphine fires, and the cold of the overdraw, with tea at the tables while Puddle curled on Sumire; Seraphine, the duet her card names and hands numb to touch for the hour after, orders signed with her visor; Sumire, one bow spent, a fall, and a debt to a nurse's cradle palm, a dead nurse Seraphine answers to."
+  },
+  {
+   "name": "The cantor's door at Altherion",
+   "when": "The Withering Era, after Seraphine's registry had formed, while Yukizumi Yukari held the Reaper's office. Unordered against the other two.",
+   "where": "Altherion, the republic on the Ring's rim (WORLD §3 and §5), in the hall of one of the choir orders (the Modern Era page: \"the orders appoint their own Precentor of the Choirs, whom the Accord does not recognise and cannot appoint\").",
+   "who": [
+    "maelia-cantorine-the-countercant",
+    "seraphine-kharza-ten-thousand-hands",
+    "sumire-nekoha-the-stray-lantern",
+    "deimos-the-sin-eater",
+    "yukizumi-yukari-the-reaper"
+   ],
+   "what": "The cantor of a choir order lay dying in the order's hall. When his fear came on him he had led his congregation in swearing that they would not let him be taken, and they kept the oath at his door in chorus; the chorus agreed a heartbeat and held it. The death was disputed by stubborn love, and the Reaper came for the last word and sent for the Sin Eater. The congregation's children sang with the rest. Sumire went in first and walked them out along the Moth Path, down the stair and into the yard, and Deimos waited on the stair until the last of them had passed him. Seraphine planted Manifold at the door, and a single palm capped the loudest voice until it was a cough in one throat. Maelia knotted the Throat Ribbon twice, walked into the chorus with the hymnal open and cut across the fifth beat; the chant stumbled on one syllable and came apart into voices, and she answered it with a plain line that the congregation followed. Seraphine's hands laid a Casket Wall across the door, and a mason's brace held the living back. Deimos went in to the bed. The cantor confessed through the Prayer Knots what he had asked of his people, Deimos took it, and the oath came away from the congregation with it. Seraphine's palms held the door and did not touch the bed. Maelia drew the Silence Ring on the floorboards, and inside it the cantor's last word was heard. Sumire came back up the stair and kept the room gentle while Yukizumi lowered the star. Took: Maelia, the beat she exposed and the agreement riding on it, eaten by the man her card names beside her, and her voice kept at two knots; Deimos, a new red seal on the sash and a deeper stain on the right side, an agreement born of fear taken by confession, and a room entered after the children had gone; Seraphine, the wary treaty her card records, her palms holding the living and delivering nobody to him; Sumire, the children walked out and a man on the stair who waited for them to pass; Yukizumi, a last word heard and a death no longer disputed, what Deimos's card calls \"surgical consequence\"."
+  },
+  {
+   "name": "The drovers' march on the Corridor road",
+   "when": "The Withering Era, with Rhyse at his office of escorting arbiters. Unordered against the other two.",
+   "where": "A way-station in the Corridor Holdings of Stannvaard (WORLD §5; the Stannvaard page: \"Administered by the Transport Guild\", \"road maintenance, way-station operation, escort coordination\", \"A transient population with the specific character of people who live on roads\").",
+   "who": [
+    "sir-rhyse-calder-the-tartan-bastion",
+    "maelia-cantorine-the-countercant",
+    "cyrille-lacrim-the-flood-bell"
+   ],
+   "what": "Arbitration sat in the way-station hall to hear a dispute between the Transport Guild and the drovers who work its road, and Sir Rhyse brought the arbiters in under escort. The Acoustic Ward was attached to the hearing, and the Rescue and Deluge Cadre sent Cyrille. The drovers in the yard took up a work-song; by the time the hearing opened it had become a march, and the march came to the doors. Rhyse planted Lochgate in the doorway and knotted his tartan, and the head of the march slowed at the gate. Inside, Cyrille drew a Floodline around the arbiters' table. Maelia went out by the side door into the yard, the ribbon knotted twice, and cut across the fifth beat; the march fell apart into drovers. For a breath the yard had no beat, and the men at the back began to shove. Cyrille struck the Matins Cask once from the doorway, the yard matched the pulse, and the shoving stopped. Maelia gave them a plain line, and they followed it back across the yard. Rhyse lifted the gate, and the hearing sat again the same day. Nobody was struck. Took: Rhyse, a gate held without a blow and the Acoustic Ward as the other half of the Auxilia on a hot road; Maelia, a bell to hand a crowd once the chant is cut, and a flood-caster who waits for her signal; Cyrille, the order she keeps with the Acoustic Ward, the cut first and the toll after, since a pulse laid over a live chant gives a march a second beat, and the handoff her card gives Rhyse, gate and then water."
+  }
+ ],
+ "ties": [
+  {
+   "a": "cyrille-lacrim-the-flood-bell",
+   "b": "seraphine-kharza-ten-thousand-hands",
+   "kind": "comrades (the rescue duet)",
+   "summary": "One cadre and one water: it scaffolds her hands, and Cyrille sweetens it before Seraphine fires, as she did in the salt dust at Bridgemarch. Only Seraphine's card says so.",
+   "basis": "card"
+  },
+  {
+   "a": "cyrille-lacrim-the-flood-bell",
+   "b": "sir-rhyse-calder-the-tartan-bastion",
+   "kind": "comrades (the handoff)",
+   "summary": "Gate, then water: he holds the head of the route and she carries through it, at Bridgemarch and on the Corridor road; her card names Athena, who has no card, with him.",
+   "basis": "card"
+  },
+  {
+   "a": "cyrille-lacrim-the-flood-bell",
+   "b": "sumire-nekoha-the-stray-lantern",
+   "kind": "comrades (the route)",
+   "summary": "Sumire pads the route and Cyrille carries the frightened through it; the bell waits until Sumire is clear, because bell-drums rattle her.",
+   "basis": "card"
+  },
+  {
+   "a": "cyrille-lacrim-the-flood-bell",
+   "b": "maelia-cantorine-the-countercant",
+   "kind": "comrades (cut, then toll)",
+   "summary": "On the Corridor road Maelia cut the drovers' march and Cyrille's bell gave the broken yard a pulse; the bell has waited on the cut since.",
+   "basis": "new"
+  },
+  {
+   "a": "seraphine-kharza-ten-thousand-hands",
+   "b": "maelia-cantorine-the-countercant",
+   "kind": "comrades (vent and beat)",
+   "summary": "She caps the loudest voice until Maelia cuts the beat; at the cantor's door she did.",
+   "basis": "card"
+  },
+  {
+   "a": "seraphine-kharza-ten-thousand-hands",
+   "b": "deimos-the-sin-eater",
+   "kind": "wary treaty",
+   "summary": "He eats guilt and her palms only hold; at the cantor's door her hands held the living and did not touch the bed he went to.",
+   "basis": "card"
+  },
+  {
+   "a": "seraphine-kharza-ten-thousand-hands",
+   "b": "sumire-nekoha-the-stray-lantern",
+   "kind": "debt",
+   "summary": "A nurse's cradle palm caught Sumire when a bow's misfortune took her over the rail at Bridgemarch.",
+   "basis": "new"
+  },
+  {
+   "a": "seraphine-kharza-ten-thousand-hands",
+   "b": "sir-rhyse-calder-the-tartan-bastion",
+   "kind": "comrades of one crossing",
+   "summary": "Her hands carried the people who went over the rails while he held the damaged span empty at Bridgemarch.",
+   "basis": "new"
+  },
+  {
+   "a": "maelia-cantorine-the-countercant",
+   "b": "deimos-the-sin-eater",
+   "kind": "comrades (beat and agreement)",
+   "summary": "She exposes the beat and he eats the agreement riding on it; the cantor's oath came away that way.",
+   "basis": "card"
+  },
+  {
+   "a": "maelia-cantorine-the-countercant",
+   "b": "sir-rhyse-calder-the-tartan-bastion",
+   "kind": "comrades (one Auxilia)",
+   "summary": "The Acoustic Ward and the Escort Corps of the Arbitration Auxilia; on the Corridor road his gate held the doors while she cut the march.",
+   "basis": "card"
+  },
+  {
+   "a": "maelia-cantorine-the-countercant",
+   "b": "sumire-nekoha-the-stray-lantern",
+   "kind": "comrades (night lanes)",
+   "summary": "Both cards pair them with Vespera Corvina's night lanes and neither names the other; at the cantor's door Sumire walked the children out before Maelia cut.",
+   "basis": "new"
+  },
+  {
+   "a": "sumire-nekoha-the-stray-lantern",
+   "b": "deimos-the-sin-eater",
+   "kind": "witness",
+   "summary": "She walks children out of rooms he cannot work while they are there; at Altherion he waited on the stair until the last child had passed.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "cyrille-lacrim-the-flood-bell",
+   "wants": "The corridor-carver whose force she lacks: Marigold Vance, the Gilded Bailiff (c07). Cyrille's card: \"Her Verdict swing opens the aisle; Cyrille keeps it gentle\" and \"neither can do it alone.\" Marigold's card does not name her."
+  },
+  {
+   "slug": "seraphine-kharza-ten-thousand-hands",
+   "wants": "The registrar of last intent whose record her palms carry out: Moros Pellayne, the Ossuary Registrar (c06). \"He records last intent; her palms deliver the body kindly to the truth.\" His card does not name her."
+  },
+  {
+   "slug": "sumire-nekoha-the-stray-lantern",
+   "wants": "The wake-keepers her soft lanes lead into: Shiragiku Iori and Natsume Kurogiku (c06), \"Funeral and truce sisters\"; neither card names her, and Kozakura Shion's card (c06) wants her lanes for his petals."
+  },
+  {
+   "slug": "maelia-cantorine-the-countercant",
+   "wants": "The chamberlain whose silence she budgets: Lord Lucen Vale, the Star Chamberlain (c07). \"Two Star Chamber specialists whose failure state is the same silence, one dreading it and one budgeting for it.\" c07 asks the same tie from his side."
+  },
+  {
+   "slug": "sir-rhyse-calder-the-tartan-bastion",
+   "wants": "The head of the Division his Escort Corps serves: Argen Vael'thar, the White Arbiter, \"Guild Accord, Arbitration Division, at its head.\", whose students are \"Young Sealwrights\"; Rhyse escorts \"arbiters, convoys and Sealwright teams\". His card names nobody."
+  },
+  {
+   "slug": "deimos-the-sin-eater",
+   "wants": "The one who discharges what he stores: Kaede Suyori, Blue Moth (c07), \"Mediator in confession rites.\" c07 asks the same tie from Kaede's side."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "What Benediction is, three ways. Maelia: \"Neither is a Stage.\" and \"Benediction maps to Stage VIII, Transcendence\" (Maelia Cantorine · The Countercant, epigraph note). Cyrille: \"Used correctly here as a resonance rather than a Stage\" (Cyrille Lacrim · The Flood-Bell, III). Seraphine: \"Benediction · Vitalia. Grace; the consecration in the saintwater.\" (Seraphine Kharza · Ten Thousand Hands, III).",
+  "Who alone discharges the Sin Eater. Deimos: \"Kaede is the only person in the setting who can discharge what Deimos cannot.\" (Deimos · The Sin Eater, X). Iori: \"She is the only person in the setting doing the operation he cannot do, and his card lists Kaede for the same reason.\" (Shiragiku Iori · The Wake-Embroiderer, relationships). Shion: \"Shion is the fourth of the Reaper's specialists whose craft is, mechanically, a check on what the Sin Eater cannot do.\" (Kozakura Shion · The Bloomwarden).",
+  "Fascination on one card. Maelia, of Kaito: \"both cards call it fascination rather than a counter.\" (Maelia, X). Kaito's card lists one relationship, \"Kaede Suyori · Lover.\" (Kaito Akagiri · The Scarlet Plague, XI), and does not name Maelia.",
+  "Which Niran. Deimos: \"Niran / The Amalgam · Predator-rival.\" (Deimos, X). Maelia: \"Break fear choruses Niran's agents seed\" (Maelia, IX). Neither gives a surname. Niran Yukari's card (\"He Who Hears the Thread Before It Snaps\"; \"acting authority over the enclave and three tributary settlements\") names no Amalgam, fear chorus, Deimos or Maelia; the roster links Deimos's \"Niran\" to niran-yukari.",
+  "Rhyse's band against itself. \"Corrected to Band A throughout.\" (Sir Rhyse Calder · The Tartan Bastion, epigraph note; RULINGS.md 2026-09-12 sets the eta at the top of Band A). The same card's stat line reads \"Coherence Band C\" (Rhyse, IV).",
+  "Purganeth, a realm or a Stage. Deimos: \"Purganeth appears here as a realm and appeared on Valen Therosian's card as an invented Stage name\" (Deimos, epigraph note). Valen: \"The legacy sheet gives three tempered stages under Valorion, Purganeth and Theros.\" (Valen Therosian · The Gilded Commandant). The Spiritual Seat page: \"Prime Elemental Titan of the Spiritual World, Purganeth.\"",
+  "Card against wiki, the Black Concord's reach. Deimos: \"Unbadged Operative, Black Concord Auxiliary.\" and \"Arbitration officers deploy him when no verdict will suffice\" (Deimos, I). The Black Concord page: \"Unlike other Divisions, it answers only to the High Concordant.\" and \"Its operations are invisible to the Concord Council\".",
+  "Ties named from one side. Seraphine names Cyrille, Maelia and Deimos, and none of their cards names her; Cyrille names Rhyse and Sumire, and neither names her; Maelia names Deimos, and his card does not name her. Cyrille, Maelia and Deimos name Kaede, whose card names only Kaito; Sumire, Maelia and Deimos name Kaito, whose card names only Kaede; Cyrille and Seraphine name Marigold, whose card names neither; five members name Yukizumi, whose card names nobody. Rhyse's card names nobody."
+ ]
+}

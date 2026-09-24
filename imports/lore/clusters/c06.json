@@ -1,0 +1,288 @@
+{
+ "id": "c06",
+ "name": "The Reaper's office",
+ "era_span": "The Withering Era, before the present each card describes (Khasir Aluto and Khan Kirv state the Withering Era; the other seven cards state no era, and their Accord offices fit it). No card or scene gives a year. None of the nine appears in the archive: the ten scenes the roster and scenes/CAST.md give Commander Severin Bale all match the word 'Commander' (Sodoku Moto; Lord Knight Commander Maud Thole), never his name.",
+ "members": [
+  {
+   "slug": "yukizumi-yukari-the-reaper",
+   "line": "The Accord-appointed psychopomp and adjudicator of the Arbitration Division, the last vote on a disputed death; his glaive cuts attachments, not flesh, his obols hold promises, and his Grave Mercy postpones a rightful death on his own lifespan. His card lists no relationships."
+  },
+  {
+   "slug": "kozakura-shion-the-bloomwarden",
+   "line": "The Reaper's seasonal adjutant and spring psychopomp who prunes dying moments, walking funeral routes with Iori and Natsume when wakes run hot; his cut takes the grudge off the stem and leaves the love, and bare stone blunts him."
+  },
+  {
+   "slug": "shiragiku-iori-the-wake-embroiderer",
+   "line": "Funeral-florist and grief-binder retained to the Reaper for deathbed rites; she prepares his last rooms, her chrysanthemums warm on true grief and brown on a lie, and her veil carries a share of another's sorrow for an hour."
+  },
+  {
+   "slug": "natsume-kurogiku-the-knot-shearer",
+   "line": "Feud-mender and oath-tailor of the Star Chamber who walks with the Reaper when last words snag on living grudges; her red shears free a clinging grudge at a deathbed and lock on true love or honest duty."
+  },
+  {
+   "slug": "lilium-verdanis-lily-quill",
+   "line": "Star Chamber protocol scribe on retainer to the Reaper for last-words custody; she keeps a fragile minute as a white blossom in her ledger that returns at its original temperature, and her lily holds only what is genuinely there."
+  },
+  {
+   "slug": "khasir-aluto-the-isocline-scribe",
+   "line": "Withering Era. Star Chamber adjunct for Evidence and Preservation and the Reaper's courier for fragile minutes; his inked lines level a room's heat, a page of his Codex holds one dying breath, and he will not press a child's breath without the guardian's assent."
+  },
+  {
+   "slug": "moros-pellayne-the-ossuary-registrar",
+   "line": "Arbitration's forensic necro-jurist, the Reaper's adjunct for disputed deaths and an occasional Black Watch consultant; he cites the traces of the dead from his chained folio and will not compel a child's last words."
+  },
+  {
+   "slug": "commander-severin-bale-the-slayer",
+   "line": "Head Captain of the Black Watch, the executioner who carries the kill-writs the Reaper ratifies and cannot escort; built for straight fights, and his card forecasts that he will one day name the wrong person. He appears in no scene."
+  },
+  {
+   "slug": "khan-kirv-the-veil-khan-of-the-dry-courts",
+   "line": "Withering Era. Desert arbiter and sanctuary broker of the Dry Courts, treaty partner to the Accord and Black Watch liaison for sand-route warrants; his shared cup binds a night's hospitality, blood under it stains his sash, and he leans on Khasir when rain blurs his mirage sense."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Salt-Pan Writ",
+   "when": "The Withering Era, after Khan Kirv's Catalyst Event (his cup already binds a night's hospitality); before any card's present.",
+   "where": "The White Pans of the Varakh Drylands, the Outer World (WORLD §5, South). The event does not place the Dry Courts; it happened where the writ's road ran.",
+   "who": [
+    "commander-severin-bale-the-slayer",
+    "khan-kirv-the-veil-khan-of-the-dry-courts",
+    "khasir-aluto-the-isocline-scribe",
+    "yukizumi-yukari-the-reaper"
+   ],
+   "what": "A Black Watch kill-writ against a practitioner of predatory brandcraft, ratified by the Reaper, ran south along a sand route. The practitioner took water under Kirv's Khurrah as a guest at an oasis on the edge of the White Pans, and for that night the hospitality covered the guest. Kirv kept the night whole; at dawn, when it ended, he opened a lawful corridor from the oasis across the salt. Severin drove his Gravepins at the corridor's mouth and spoke the name there, outside the ring. Rain came across the pans and blurred the Khan's mirage sense; Khasir set isoclines along the corridor and put the marks and tracks the writ rested on under his signet, so the evidence stayed dry and unchanged until the Black Watch entered it. The writ closed clean. Took: Severin, a straight road through skirmish ground and the practice of naming at the mouth of the Khan's corridor, never under the cup; Kirv, a clean sash and the corridor as a form he has opened for the Black Watch since; Khasir, numb fingers carried home and the Khan's reliance; Yukizumi, a writ he ratified and could not have carried, closed with no blood under anyone's hospitality."
+  },
+  {
+   "name": "The Deathbed on the Stone Floor",
+   "when": "The Withering Era; the deathbed at which Kozakura Shion's Catalyst Event came.",
+   "where": "Altherion, the republic on the Ring's rim (WORLD §3, §5), on the stone ground floor of a timber house.",
+   "who": [
+    "yukizumi-yukari-the-reaper",
+    "shiragiku-iori-the-wake-embroiderer",
+    "natsume-kurogiku-the-knot-shearer",
+    "kozakura-shion-the-bloomwarden"
+   ],
+   "what": "A dying man's last word snagged on an old grudge his daughter held against him, and the Reaper brought his adjutants to the bed. The floor was stone and nothing green grew there, so Shion's reach was blunted; he grounded his naginata at the threshold and watched. Iori laid her ring of blooms and pinned a chrysanthemum on the daughter. Natsume went for the grudge with Benikiri and the hinge locked, because the shears do not cut true love; she put them away and hemmed the room with chalk. The bloom on the daughter warmed, the last word was spoken into the grudge and landed, and Yukizumi lowered the star. Took: Shion, the sight his card records, the sucker and the love as one stem, so his cut goes only where the love is absent; Natsume, a deathbed finished without a cut and a Bloomwarden who has walked her routes since; Iori, the daughter's share carried under the Snow-Mask for the hour and the fever after; Yukizumi, a coin in the Obol Case bearing the promise the daughter made at the bed."
+  },
+  {
+   "name": "The Measure at Vaultmere",
+   "when": "The Withering Era, after Khasir Aluto's Catalyst Event.",
+   "where": "Vaultmere, the counting city of Nalūn (WORLD §5).",
+   "who": [
+    "moros-pellayne-the-ossuary-registrar",
+    "khasir-aluto-the-isocline-scribe"
+   ],
+   "what": "A child lay dying in Vaultmere, and the clause of an instrument turned on how the child had come to be hurt. The instrument had not been sealed under Nalūn authority, so the dispute came to the Accord, and Moros seated the Measure at the bedside. The child's words would have decided it. Moros could have compelled them and did not. Khasir held the Polar Codex open at a clean page, the guardian withheld assent, and he closed the book. The child spoke to the guardian and nobody wrote it down; the sealed wound could not answer the clause, and the Measure was lost. Took: Moros, the lost case and the refusal his card states, with the child's page in his folio left blank because he did not ask; Khasir, a clean page kept clean in a Codex whose clean pages are finite, the refusal his card states, and the duty of preserving scenes for Moros since."
+  }
+ ],
+ "ties": [
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "commander-severin-bale-the-slayer",
+   "kind": "comrades (ratifier and executioner)",
+   "summary": "Severin carries the kill-writs the Reaper ratifies and cannot escort, so the Reaper can keep rooms human; only Severin's card says so.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "kozakura-shion-the-bloomwarden",
+   "kind": "master and adjutant",
+   "summary": "The Reaper's seasonal adjutant, who softens what the Reaper must end.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "shiragiku-iori-the-wake-embroiderer",
+   "kind": "master and adjutant",
+   "summary": "Retained for deathbed rites; she prepares the last rooms he enters, as she did at Altherion.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "natsume-kurogiku-the-knot-shearer",
+   "kind": "master and adjutant",
+   "summary": "She walks with him when last words snag on living grudges.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "lilium-verdanis-lily-quill",
+   "kind": "master and adjutant",
+   "summary": "On retainer for last-words custody: she holds the minute while he holds the hand.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "khasir-aluto-the-isocline-scribe",
+   "kind": "master and courier",
+   "summary": "He travels with the Reaper carrying brittle last breaths, opened only when the room deserves them.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "moros-pellayne-the-ossuary-registrar",
+   "kind": "comrades (surgical partnership)",
+   "summary": "Moros holds the record open and the Reaper lowers the star; both keep the doctrine that the trace is not the soul.",
+   "basis": "card"
+  },
+  {
+   "a": "yukizumi-yukari-the-reaper",
+   "b": "khan-kirv-the-veil-khan-of-the-dry-courts",
+   "kind": "allies",
+   "summary": "The writ Yukizumi ratified closed clean on the White Pans because Kirv opened the corridor; Kirv's card has him walk the Reaper through a heat court.",
+   "basis": "new"
+  },
+  {
+   "a": "commander-severin-bale-the-slayer",
+   "b": "khan-kirv-the-veil-khan-of-the-dry-courts",
+   "kind": "comrades (writ and corridor)",
+   "summary": "When a kill-writ must cross the sand, Kirv opens a lawful corridor; at the White Pans he did.",
+   "basis": "card"
+  },
+  {
+   "a": "commander-severin-bale-the-slayer",
+   "b": "khasir-aluto-the-isocline-scribe",
+   "kind": "witness",
+   "summary": "Khasir kept the Salt-Pan writ's evidence dry and unchanged in the rain.",
+   "basis": "new"
+  },
+  {
+   "a": "commander-severin-bale-the-slayer",
+   "b": "moros-pellayne-the-ossuary-registrar",
+   "kind": "consultant to his command",
+   "summary": "Moros consults for the Black Watch that Severin heads; neither card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "khan-kirv-the-veil-khan-of-the-dry-courts",
+   "b": "khasir-aluto-the-isocline-scribe",
+   "kind": "reliance",
+   "summary": "Kirv leans on Khasir when rain blurs his mirage sense; Kirv's noon heat courts are Khasir's stated worst case.",
+   "basis": "card"
+  },
+  {
+   "a": "khasir-aluto-the-isocline-scribe",
+   "b": "moros-pellayne-the-ossuary-registrar",
+   "kind": "comrades (two clerks)",
+   "summary": "Two clerks of the same rooms; at Vaultmere both refused a dying child's words and lost the Measure.",
+   "basis": "card"
+  },
+  {
+   "a": "khasir-aluto-the-isocline-scribe",
+   "b": "shiragiku-iori-the-wake-embroiderer",
+   "kind": "comrades",
+   "summary": "His lines keep the air hospitable for her flowers; her card does not name him.",
+   "basis": "card"
+  },
+  {
+   "a": "khasir-aluto-the-isocline-scribe",
+   "b": "natsume-kurogiku-the-knot-shearer",
+   "kind": "comrades",
+   "summary": "His lines keep the air hospitable for her stitches; her card does not name him.",
+   "basis": "card"
+  },
+  {
+   "a": "moros-pellayne-the-ossuary-registrar",
+   "b": "lilium-verdanis-lily-quill",
+   "kind": "comrades",
+   "summary": "She plants the vow and he footnotes it.",
+   "basis": "card"
+  },
+  {
+   "a": "shiragiku-iori-the-wake-embroiderer",
+   "b": "lilium-verdanis-lily-quill",
+   "kind": "comrades (the trio with Kohako)",
+   "summary": "Kohako seals the minute, Lilium plants the vow, Iori keeps the feeling gentle enough to keep.",
+   "basis": "card"
+  },
+  {
+   "a": "shiragiku-iori-the-wake-embroiderer",
+   "b": "natsume-kurogiku-the-knot-shearer",
+   "kind": "comrades (twin craft)",
+   "summary": "Flowers soothe, stitches hold; Natsume assists at Iori's wakes.",
+   "basis": "card"
+  },
+  {
+   "a": "natsume-kurogiku-the-knot-shearer",
+   "b": "lilium-verdanis-lily-quill",
+   "kind": "comrades",
+   "summary": "Natsume hems the minutes Lilium and Kohako save.",
+   "basis": "card"
+  },
+  {
+   "a": "kozakura-shion-the-bloomwarden",
+   "b": "shiragiku-iori-the-wake-embroiderer",
+   "kind": "comrades",
+   "summary": "He walks her funeral routes when wakes run hot; she stood at the Altherion bed with him.",
+   "basis": "card"
+  },
+  {
+   "a": "kozakura-shion-the-bloomwarden",
+   "b": "natsume-kurogiku-the-knot-shearer",
+   "kind": "witness",
+   "summary": "He watched her shears lock at the Altherion deathbed and came away with the sight his cut depends on.",
+   "basis": "new"
+  },
+  {
+   "a": "kozakura-shion-the-bloomwarden",
+   "b": "lilium-verdanis-lily-quill",
+   "kind": "comrades",
+   "summary": "On bare stone he needs Lily-Quill to set softer geometry.",
+   "basis": "card"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "yukizumi-yukari-the-reaper",
+   "wants": "A made thing his charter reaches: a Mechanica bearer the Accord built, Wilhelm first ('whose artificial Verdiction Core the Guild Accord itself commissioned')."
+  },
+  {
+   "slug": "kozakura-shion-the-bloomwarden",
+   "wants": "A lane-keeper to carry his petals through crowds: Sumire Nekoha, the Stray-Lantern."
+  },
+  {
+   "slug": "shiragiku-iori-the-wake-embroiderer",
+   "wants": "The man whose weight she softens: Deimos, the Sin Eater, who stores grief and cannot finish it."
+  },
+  {
+   "slug": "natsume-kurogiku-the-knot-shearer",
+   "wants": "The fevered room she lets out without tearing it: Kaito Akagiri, the Scarlet Plague."
+  },
+  {
+   "slug": "lilium-verdanis-lily-quill",
+   "wants": "The protocol officer whose councils she seats: Lord Lucen Vale, the Star Chamberlain."
+  },
+  {
+   "slug": "khasir-aluto-the-isocline-scribe",
+   "wants": "Someone to cool the air before he can ink it: Kaede Suyori, Blue Moth."
+  },
+  {
+   "slug": "moros-pellayne-the-ossuary-registrar",
+   "wants": "The writer of the Measures he seats: Vireline of the Three Masks."
+  },
+  {
+   "slug": "commander-severin-bale-the-slayer",
+   "wants": "The escort who makes the aisle his build needs: Marigold Vance, the Gilded Bailiff, whose card already names him."
+  },
+  {
+   "slug": "khan-kirv-the-veil-khan-of-the-dry-courts",
+   "wants": "The rescuer whose water rides his caravan lattice: Cyrille Lacrim, the Flood-Bell."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Severin's card: \"Neither sheet works without the other, and both cards say so from opposite directions.\" (Commander Severin Bale · The Slayer, XI). Yukizumi's card has no Relationships section and names neither Severin, the Slayer, the Black Watch nor kill-writs.",
+  "Shion's card: \"Yukizumi's sheet: Arbitration Division, Stage X, Mortalis and Anamnesis. It lists Deimos and does not list Shion.\" (Kozakura Shion · The Bloomwarden, IX). Yukizumi's card lists no one; the Deimos link is on Deimos's card (\"Deploys Deimos as surgical consequence\").",
+  "Benediction: Kirv's card, \"Benediction · Vitalia. Governing.\" and \"The Wellspring of Grace\" (III); Severin's card, \"Benediction is a resonance\"; Iori's card, \"Benediction is a resonance, not a Stage.\"",
+  "Shion's card: \"Two of the Reaper's other specialists, Iori and Natsume, were read at Stage VIII on the strength of the same dual reading, a bond that is a bond and is also a physical thing with a tension.\" Iori's card gives her reading as \"a flower is a flower and is also a container, and both are operative.\"",
+  "Same Stage and Level, two pools. Shion: \"Level 228 · Level Band III\", \"Pool 8,540 — 4,500 from Bands I–II, 840 from Band III, 3,200 from Thresholds I–VIII.\" Khasir: \"Level 228 · Level Band III\", \"Pool 6,804, per Fracture of Worlds — The Living System, Part Three: 1,200 from Band I, 1,500 from Band II, 504 from 28 levels of Band III, 3,600 from Thresholds I–VIII.\" Kirv's card follows Khasir's derivation.",
+  "\"Black Chrysanthemum\" is Natsume's alias (Natsume Kurogiku · The Knot-Shearer, I) and, in Iori's hook The Black Chrysanthemum, \"Rot-cult flowers that feed on anger appear at wakes\" (Shiragiku Iori · The Wake-Embroiderer, XI).",
+  "Natsume's card against itself: \"Four of the eight Volume V sheets built so far list Kaito as a rival, an opposite, or a professional problem.\" then \"Lucen, Cassiel, Lilium, Iori, Natsume and Deimos all define themselves partly against him.\"",
+  "Ties named from one side: every adjutant names Yukizumi and his card names none; Shion names Iori and Natsume, neither names him; Khasir names Iori, Natsume and Moros, none names him; Natsume names Iori (\"Twin craft\"), Iori's card does not name Natsume; Kirv names Severin, Severin's card does not; Moros names Lilium, Lilium's card does not.",
+  "Card against wiki: Severin's card calls the Black Watch \"the Accord's night division\"; The Guild Accord and the Modern Era page list five Divisions and the Black Concord, and no Black Watch. Shion's card marks his \"Vernal Office\" unattested.",
+  "Card against wiki: Yukizumi's card, \"current-generation Yukari psychopomp\", names no Ketsumyōgan; The Yukari Bloodline: \"The Yukari name is not automatic biological inheritance. It is chosen at the Telling.\" and \"Bearers who accept what they carry take the name.\"",
+  "Lilium's card is titled \"Lilium Verdanis · Lily-Quill\"; its Identity gives \"Title · The Petal Scribe.\"",
+  "Roster against archive: scenes/CAST.md credits Commander Severin Bale with ten scenes; none contains his name (the hits are the word \"Commander\")."
+ ]
+}

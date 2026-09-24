@@ -1,0 +1,232 @@
+{
+ "id": "c09",
+ "name": "The Zettari war camp and the Mahuo who came to it",
+ "era_span": "The Withering Era (Yorime's card: \"Current Era\"), the archive's present. Dougou's life lies before it; his card gives him dead and taken into the Paths. The Cozbi cycle runs in the Inner World: the aperture night, the dragon, the clearing. The Accord night falls in a Zettari war camp, unordered against them. The archive then carries Vaeloris, the road to Kharven and the Sovereign's death in the Kujo arc. No card or scene gives a year.",
+ "members": [
+  {
+   "slug": "dougou-ozumu-zettari",
+   "line": "Founder of the True Iron Bison, Zettari-blooded with a demonic strain; dead, taken into the Paths and acknowledged sovereign only after death. His sealed body turned feeling and Essence into stored weight, and emotional breach was his lowest resistance. His card names only his son Rengai, and not Yorime."
+  },
+  {
+   "slug": "rengai-zettari",
+   "line": "Dougou's direct son, active under Zettari observation, who built a discipline of ash and attrition apart from his father's brutality and carries Dougou's Ember Bead, an inherited warning marker. In the archive: Lyria's husband, Asante's father, a house near Vaeloris, and Cozbi's captive."
+  },
+  {
+   "slug": "rashani-zettari",
+   "line": "Eighteen, of the Zettari Origin-Aspect strain, under Zettari observation and incomplete sovereign training; his Origin Eye shows starting conditions faster than his body can answer them. His card files Rengai as a Sibling-Parallel; his scene gives him a brother, Ma'Kovu, and seven years chasing Mizuyi back."
+  },
+  {
+   "slug": "yorime-seikai",
+   "line": "Pureblood Seikai of the Ashuric Boundary custodians and Dougou's companion, who learned the difference between Claim and witness; she draws off his pressure with her hand and refuses to Claim his core. Her arc is how long witness remains mercy before it becomes permission."
+  },
+  {
+   "slug": "seikai-hana-no-kurai-the-ashen-paragon",
+   "line": "A frontier protector and awakening Seikai scion who believes she is human and carries a Right of Claim she does not know about; nobody may explain her to her face. Her firstborn was taken through a transaction she kept off every record, and two soldiers at Halvren's Pass lost their Wellspring connection to her Grief Surge."
+  },
+  {
+   "slug": "cozbi-mahuo",
+   "line": "The Ledger-Keeper, harvester of the Moto line, of the Mahuo, carrying many souls under one sovereign identity. His Catalyst was watching his people ground into the mud between the Zettari and the Moto, and a promise to his dying brother. Opposed by every venerable bloodline; he bound his own two-year-old son as a spiritual axis."
+  },
+  {
+   "slug": "kwon-mu-jin",
+   "line": "The Teacher, Archmagus of Alchemetrica, of the Mahuo court line, twenty-four, self-bound to the Dawn Guard's teaching vow and embedded with the Zettari war camp. Made a symbol at fourteen for correcting a lethal array, he wants summoning and alchemy made common inheritance. His sister Ara is absolute to him."
+  },
+  {
+   "slug": "ara-min-mahuo",
+   "line": "The Healer, twenty-one, of the Mahuo court line and sister to Kwon Mu-jin, who treated the poorest ward for nothing and kept no count. Her card has her weighing marriage into the Zettari Sovereign's household; the archive has her betrothed to Zuberi and grieving him."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Night of the Unfinished Strike",
+   "when": "While Dougou lived, in the years Yorime spent beside him, and in Rengai's boyhood \"under his father's brutal ceiling\" (Rengai's card). The night is on Yorime's card; Rengai's presence is new.",
+   "where": "Kushara (WORLD §5, Elsewhere), on ground no card names. The Zettari observation that Rengai and Rashani both stand under belongs to the Sovereign House seated there.",
+   "who": [
+    "dougou-ozumu-zettari",
+    "yorime-seikai",
+    "rengai-zettari"
+   ],
+   "what": "The Iron Bison state ruptured, and everything in reach began to give under the weight coming off Dougou. Yorime walked into it and stood in front of him. She said the sentence her card keeps: \"If you kill me, let it be because you chose to\". Dougou stopped. Rengai was there, a boy at the edge of the flattened ground, and saw his father halted by one sentence from a woman who had not raised a hand. Dougou never spoke of that night. Took: Dougou, a promise still unreleased; he had broken the one he made under the black bells many times, and Yorime never let him out of it. Yorime, the proof her art rests on, that the hand which stays can hold a catastrophe without consuming it; she went on refusing to Claim his core. Rengai, the warning his father's card says Dougou taught him; he built a discipline of ash that lets a field be read before it is spent, kept his voice low, and carried Dougou's Ember Bead when it came to him."
+  },
+  {
+   "name": "After Halvren's Pass",
+   "when": "The Current Era, after the battle at Halvren's Pass, while Hana-no-Kurai still held protection contracts on the frontier. New.",
+   "where": "Halvren's Pass. Hana's card names it and says only \"along the frontier\"; this record sets it in the Frontier Marches of Ketsuen (WORLD §5, North), the contested western border.",
+   "who": [
+    "yorime-seikai",
+    "seikai-hana-no-kurai-the-ashen-paragon"
+   ],
+   "what": "Yorime came along the pass after the fighting, as her card sends her over ground where soldiers' Essence has been lost (the Boundary Funeral at Ash-Hollow among her records). Two of the wounded had lost their Wellspring connection for good. The small black bells of her rosary rang near the frontier protector's hands. Yorime followed, faintly, what had been taken from the two soldiers and found it ended in the woman who had fought beside them, who did not know. Yorime judged it first, as her card says she always does. Nobody had chosen a theft and there was nothing to declare. She opened no court, took nothing from Hana, and did not tell her what the pass had shown. Took: Yorime, the knowledge that a scion of her own line walks the frontier unrecognised, taking without knowing she takes, and she kept it. Hana-no-Kurai, nothing she knows of; the debt to the two soldiers stayed hers, and she paid it until she couldn't."
+  },
+  {
+   "name": "The night the aperture was cut",
+   "when": "The night Ma'Kovu cut the aperture behind Mizuyi's threshold; the archive places it immediately before Cozbi loosed the dragon on the Inner World (scenes/CONTINUITY.md; TIMELINE row 9).",
+   "where": "A ruined castle, with a courtyard, a reliquary, and a corridor grooved by \"Azure's decades of paranoia\". The scene names no country.",
+   "who": [
+    "cozbi-mahuo",
+    "rashani-zettari"
+   ],
+   "what": "For years Cozbi had watched a woman through an opening behind her threshold, and that night he felt it close: Ma'Kovu had traced the watching home through his brother's Origin Eye. Cozbi filed the correction aloud, then pressed Matter and its contradiction together over an armour of Zettari make; the floor unwrote itself, the windows broke inward, and the armour held. He carried it into the dark and bade the brothers \"Fight well\". Three strides past the threshold Rashani felt the working as a beginning with no middle and no end his Eye could reach, named it a depth he was not permitted to read, filed it unsolved and walked on to the door. Took: Cozbi, the loss of the watching and the lesson in it (\"I already had what I needed from the watching\"), an armour tested against his own unwriting, and a new respect for the Zettari as readers of instruments. Rashani, the one kind of event he distrusts above all, a cause with no beginning he can see, filed and carried; and the door, which he opened."
+  },
+  {
+   "name": "The clearing",
+   "when": "After the dragon was loosed on the Inner World; Rengai and Dhaerin had walked for months to reach it.",
+   "where": "A clearing reached from Vaeloris in Ketsuen (WORLD §5, North) through three mountain passes and a stretch of coast; the scenes do not name it.",
+   "who": [
+    "rengai-zettari",
+    "cozbi-mahuo",
+    "dougou-ozumu-zettari"
+   ],
+   "what": "Rengai went to his son first, told Asante to be strong and Lyria that he would come back, and took the flask of pressed ash from its shelf; a message from the Vaeloris warden turned him back for information before he set out. At the clearing he asked Cozbi why he had bled a two-year-old. Cozbi answered with the Mahou ground into the mud between two armies and told him he had not chosen Dougou's wars. Rengai fought: he burned Cozbi's great spider from beneath, met the split body's clone at the point where its strike began, and was struck down by the Titan effigy. Dhaerin sealed Cozbi with a rite that cost his life. Cozbi, bleeding, told his construct to collect the fallen Zettari, and it carried Rengai away. Took: Rengai, captivity in a place nobody could find; his house told by the warden himself, and his son passing in time into the Sovereign's keeping. Cozbi, the seal his card logs as \"every claimed soul lost in one instant\", and his own verdict: \"I allowed myself to become too confident\". Dougou, nothing, being where he was; his name was the measure Cozbi held his son against."
+  },
+  {
+   "name": "The Accord night",
+   "when": "The night after the Sovereign's inquiry \"into the nature of Legion Summoning and the crimes of Cozbi Mahuo\" (the Accord's preamble); the letter to Ara is dated the same night. Unordered against the Cozbi cycle.",
+   "where": "A Zettari war camp, unnamed; the two in-world documents give it woodsmoke, cold canvas, lamplight and a lesson to frightened children every morning.",
+   "who": [
+    "kwon-mu-jin",
+    "ara-min-mahuo",
+    "cozbi-mahuo"
+   ],
+   "what": "Dawn Guard, Sovereign of the Zettari, whom Mu-jin had met only that day, held his inquiry into Cozbi's art and crimes, then asked Mu-jin to name someone of the Mahuo worth trusting and to draft the conditions of an alliance under his seal. Mu-jin drafted them by lamplight. The Accord condemns Cozbi and refuses his grief as an excuse; proposes a marriage between the Sovereign and Ara Min bound to her consent, given directly, with no brother or elder in the room; makes Mu-jin the line's representative until her standing is settled; and obliges each house to name the other's failures aloud. Before morning he wrote to his sister and put the choice in her hands. Ara was not there; Cozbi was judged in his absence. Took: Kwon Mu-jin, the office of speaking for the Mahuo before the Zettari and any court, and the duty to name the Zettari's failures in whatever room the Sovereign stands in. Ara Min, an offer she could refuse without breaking the alliance; her card still has her weighing it, and the archive later has her betrothed to the Sovereign and grieving him. Cozbi, a condemnation written by his own line, with his Catalyst refused as a defence."
+  }
+ ],
+ "ties": [
+  {
+   "a": "dougou-ozumu-zettari",
+   "b": "rengai-zettari",
+   "kind": "kin (father and son)",
+   "summary": "Rengai built ash against his father's sealed weight and carries his warning bead; Cozbi measured him against the Iron Bison.",
+   "basis": "card"
+  },
+  {
+   "a": "dougou-ozumu-zettari",
+   "b": "yorime-seikai",
+   "kind": "lovers",
+   "summary": "His companion, who draws off his pressure with her hand and will not Claim his core; his card does not name her.",
+   "basis": "card"
+  },
+  {
+   "a": "yorime-seikai",
+   "b": "rengai-zettari",
+   "kind": "witness",
+   "summary": "On the Night of the Unfinished Strike she stopped his father with one sentence, and the boy saw it.",
+   "basis": "new"
+  },
+  {
+   "a": "yorime-seikai",
+   "b": "seikai-hana-no-kurai-the-ashen-paragon",
+   "kind": "kin by line; witness",
+   "summary": "Two women of the Ashuric line; after Halvren's Pass Yorime read what Hana does not know she carries, and kept silent.",
+   "basis": "new"
+  },
+  {
+   "a": "rengai-zettari",
+   "b": "rashani-zettari",
+   "kind": "line-kin (sibling-parallel)",
+   "summary": "Rashani's card sets them side by side, one reading origins and one residue; the Origin Eye Rashani bears opened in Rengai's son.",
+   "basis": "card"
+  },
+  {
+   "a": "rengai-zettari",
+   "b": "cozbi-mahuo",
+   "kind": "enemy (captor)",
+   "summary": "Rengai walked months to kill Cozbi for the bled child and the Moto halls; Cozbi carried him off the field.",
+   "basis": "scene"
+  },
+  {
+   "a": "rashani-zettari",
+   "b": "cozbi-mahuo",
+   "kind": "enemy; witness",
+   "summary": "On the night Cozbi lost his aperture, Rashani read his working as a beginning past his depth.",
+   "basis": "scene"
+  },
+  {
+   "a": "dougou-ozumu-zettari",
+   "b": "cozbi-mahuo",
+   "kind": "enemy (inherited grievance)",
+   "summary": "Cozbi counts Dougou's wars among those that ground the Mahou, and measured Dougou's son against the Iron Bison.",
+   "basis": "scene"
+  },
+  {
+   "a": "cozbi-mahuo",
+   "b": "kwon-mu-jin",
+   "kind": "kin by line; accuser",
+   "summary": "Of one line and one summoning art; Mu-jin wrote the Accord that condemns Cozbi without appeal to inherited grief (in-world document).",
+   "basis": "scene"
+  },
+  {
+   "a": "cozbi-mahuo",
+   "b": "ara-min-mahuo",
+   "kind": "kin by line",
+   "summary": "The Sovereign offered her marriage to change what Cozbi had made of the line's name (the Accord and the letter).",
+   "basis": "scene"
+  },
+  {
+   "a": "kwon-mu-jin",
+   "b": "ara-min-mahuo",
+   "kind": "kin (brother and sister)",
+   "summary": "Absolute on both cards; she held his hands four hours at Rimward, and he gave the Sovereign her name as a question put to her.",
+   "basis": "card"
+  },
+  {
+   "a": "ara-min-mahuo",
+   "b": "rengai-zettari",
+   "kind": "guardian of his son",
+   "summary": "After Vaeloris took Lyria and Rengai was lost, Ara and the Sovereign made room for Asante in their life.",
+   "basis": "scene"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "dougou-ozumu-zettari",
+   "wants": "A voice of the Paths' judgment, the sovereign archive his card makes the last word on his life: Aegor's avatar, or Revari Zettari, whom the Paths page names the current inheritor of the True Everlasting Eyes."
+  },
+  {
+   "slug": "rengai-zettari",
+   "wants": "The student who still keeps his formula: Niran Yukari, whose card files Rengai as \"Mentor-Foundational\" and carries his Ash-Signal Pouch."
+  },
+  {
+   "slug": "rashani-zettari",
+   "wants": "The Peer-Witness his card leaves unassigned: someone who fights at the beginning of things."
+  },
+  {
+   "slug": "yorime-seikai",
+   "wants": "An executor of her own Boundary Remnant who Claims without judging first, the predatory kind her card sets her against."
+  },
+  {
+   "slug": "seikai-hana-no-kurai-the-ashen-paragon",
+   "wants": "One of the two soldiers from Halvren's Pass, or their kin, to whom she paid what she could until she couldn't."
+  },
+  {
+   "slug": "cozbi-mahuo",
+   "wants": "The Mahuo who took the same wound and reached the opposite conclusion: Aurelian Prudentius, the Primate, born Mahuo Do-hyeon of Sum-gol, whose card says of the two of them \"They have met once\"."
+  },
+  {
+   "slug": "kwon-mu-jin",
+   "wants": "The court that made him a symbol, in the person of Senior Alchemist Doryun, his estranged mentor and foil."
+  },
+  {
+   "slug": "ara-min-mahuo",
+   "wants": "Dawn Guard, Zuberi Zettari, Sovereign of Kushara, her betrothed in the archive; he has no card."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Dougou dead, and alive. Dougou's card: \"Deceased. Ascended into the Paths\" (Identity). Yorime's card writes him living: \"Dougou believes she deserves better than him.\" and \"If Dougou finally becomes the catastrophe he fears he already is, Yorime may be the only person capable of standing before him without hatred\" (VI); and of the last night: \"He has never spoken of that night\".",
+  "Fire or seal. Rengai's card: \"His power is ash because his father is fire\" (XI). Dougou's card gives him no fire: his currents are sealing, mass, deep earth and breath, and \"Essence and emotion alike convert to stored body-weight rather than radiating outward\" (Traits).",
+  "Ties named from one side. Yorime's card: \"Dougou Ozumu Zettari's significant other\"; Dougou's card names only Rengai and \"Aegor Zettari / The Paths\". Rashani's card names Rengai (\"Sibling-Parallel\"); Rengai's card does not name Rashani. Neither Seikai card names the other.",
+  "Kwon and Mahuo. Siblings with two family names: \"Kwon Mu-jin\" of the \"Mahuo court line\" and \"Ara Min Mahuo\", \"sister to Kwon Mu-jin\". The naming inventory leaves open \"whether Kwon is a Mahuo cadet-branch surname or an unrelated clan sharing the register\" and which syllable is generational (R37-1, open on the docket).",
+  "The Dawn Guard, an order or a man. Mu-jin's card: \"Self-bound to the Dawn Guard's teaching vow\" and \"Dawn Guard (Sovereign, alliance-bound)\"; Ara's card: \"Dawn Guard (prospective, undecided)\". The Accord and the Eight Houses page make Dawn Guard the Sovereign himself, Zuberi Zettari.",
+  "Card against scene, when Cozbi watched. Cozbi's card: \"Watching his own people ground into the mud beneath the Zettari and Moto's endless war\". Cozbi_Rengai_Dhaerin_Confrontation.md: \"I wasn't alive when the Mahou were ground into the mud, Rengai\". Naiser_Death_Cozbi_Genocide_Niran_Fall.md sides with the card: \"Cozbi had learned that lesson before he learned to walk without falling, watching his own people\".",
+  "Card against scene, Cozbi's age. Card: \"Unclear by design\" and \"decades of harvesting have outrun any simple count\". Cozbi_Root_Severance_and_Rashani_Threshold.md: \"He had run out of surprise sometime during the Second Epoch\" and \"the same unhurried patience that had outlasted three dynasties\".",
+  "Card against scene, Cozbi living or killed. Card: \"XIV Zenith · Active\"; the Primate's card: \"Cozbi Mahuo (living, Level 500, Stage XIV)\". Emira in the_true_king_of_the_north_part_17.md: \"it's been relatively quiet since Cozbi was killed\".",
+  "Card against scene, Rengai's years. Card: \"Age ~20s\". Rengai_Farewell_and_Dhaerin.md: \"She had learned, over twelve years of marriage\" and \"Asante was small for six\".",
+  "Card against scene, Rengai's standing. Card: \"Active under Zettari observation\". Cozbi_Sealed_Retreat.md: \"Collect the fallen Zettari. We're leaving\"; Niran_Mira_Awakening.md: \"Rengai has been captured\"; the_war_in_the_north_ii_the_road_two_days_south.md: \"Asante lost his mother. His father. Vaeloris\".",
+  "Card against scene, Rengai's Iron Bison. Card: he \"chose ash\" and \"Not fire. The thing fire leaves behind\", and his techniques name no Iron Bison. Cozbi_vs_Rengai_Dhaerin_Combat.md: \"Iron Bison.\" and \"He said the name the way his father said it\"; Cozbi_Antithesis_Split_Fight.md: \"Your Iron Bison is weak next to your father's\". The same fight gives Dougou an ash-sense his card lacks: \"some old Cinerion instinct reading the air pressure ahead of the strike the same way his father's had for forty years before him\".",
+  "Card against scene, Mu-jin's years. Card: \"Age 24\" and \"the ten years since\" he left the court at fourteen; WOTR_Vaeloris_Sequence.md and the_true_king_of_the_north_part_20.md agree on twenty-four. 10_mujin_the_name_of_your_killer.md: \"had spent forty years being unable to name\" and \"the calm man who had run a school for eleven years\".",
+  "Card against scene, where the siblings come from. Mu-jin's card: \"Eastern Concord-adjacent enclave\". WOTR_Vaeloris_Sequence.md: \"Of the house at Sum-gol\", and Sum-gol lies in Ketsuen, in the Inner World (the Ketsuen page).",
+  "Card against scene, when Sum-gol ended. The Primate's card (outside the cluster): \"He was nine when Sum-gol finished emptying\" and \"Age: 58\". WOTR_Vaeloris_Sequence.md, of Ara, twenty-one on her card: \"She was nine when Sum-gol went\". Mu-jin still keeps a school at Sum-gol in 10_mujin_the_name_of_your_killer.md and the matching passage of the Kujo arc.",
+  "Spelling of the line. The cards spell \"Mahuo\"; the Accord's title, its text (\"of the Mahou line\") and Cozbi's speech in Cozbi_Rengai_Dhaerin_Confrontation.md (\"The Mahou were livestock\") spell \"Mahou\"."
+ ]
+}

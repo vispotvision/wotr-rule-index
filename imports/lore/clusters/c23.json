@@ -1,0 +1,179 @@
+{
+ "id": "c23",
+ "name": "The Rot Host",
+ "era_span": "Unstated on all six cards; none names the Guild Accord, a Division, a crown or a year. Malphas's one archived scene, The Night's Watch, shows him with a cell of four and no host, so this record sets the Host's shared events after that scene, names no era and no year, and orders the events after Zeraphine's betrayal of the Pyraeon Forge Academy and by one another.",
+ "members": [
+  {
+   "slug": "vorynth-the-vatborn",
+   "line": "First General of Rot's Bloom and sworn lieutenant of Malphas, an unbound alchemical aberration whose torso is a vat that ferments corpses into sludge, acid and boneglass, whose standing presence rots walls, engines and armour over hours, and who cannot coordinate his waves without a conductor."
+  },
+  {
+   "slug": "kytheris-mother-of-spores",
+   "line": "Mother of Spores, High Matron of the Pale-Wreathed Sisterhood and Malphas' Second General of Bloom, crowned with spore-antlers and birthing fungal homunculi from her back, who tunes her spores to a soul's frequency and marks everyone who breathes them as soil; silence is her one known counter."
+  },
+  {
+   "slug": "the-ossuary-choir",
+   "line": "Three siblings fused by the Rite of Hollow Union into one ossified frame, Harmonists of Boneglass of the Cathedral of the Hollow Note and Third General of the Rot Host: emplaced artillery whose three voices of flesh, will and faith unravel wards and Domains before Vorynth moves in."
+  },
+  {
+   "slug": "graelith-the-stilled-surge",
+   "line": "The Stilled Surge, Silent Knight of the Cauldron March and Fourth General of the Rot Host, who hollowed his chest into a stillwater basin with his sword sunk in it, and whose every step pulls sound from the air and cuts Wellspring channels; Zeraphine's living pause."
+  },
+  {
+   "slug": "morphaene-the-gloam-brewer",
+   "line": "The Gloam-Brewer, Fifth General of the Rot Host and Herald of Miasmic Illusion of Malphas' Smog Legion, glass gourds and pipes woven through his body, who breathes out a mist in which each enemy sees their own decomposition, accurately, and who has never struck anyone."
+  },
+  {
+   "slug": "zeraphine-drowl-the-black-vat-regent",
+   "line": "The Black Vat Regent, a former Pyraeon Forge Academy tactician who betrayed the Academy to bind herself to Malphas and merged with a glass cistern of suspended corpses; Supreme Field Commander of the Rot Host, conducting four generals through sludge conduits, and unable to fight at all."
+  }
+ ],
+ "events": [
+  {
+   "name": "The first cadence on the Broken Rivers",
+   "when": "After Zeraphine had betrayed the Pyraeon Forge Academy, bound herself to Malphas and merged with the glass cistern (her card, I and VIII), with Vorynth already sworn as First General and each of the four already carrying the body their Catalyst made. It is the first engagement in which she held Vorynth, Kytheris, Graelith and Morphaene under one cadence.",
+   "where": "A walled river town on the Broken Rivers, in the Varakh Drylands of the Outer World (WORLD §5, South; SW: \"Thorn scrub, dry woodland, red earth, salt pan, seasonal river and very hot lowland basin\", with the Broken Rivers among its features).",
+   "who": [
+    "zeraphine-drowl-the-black-vat-regent",
+    "vorynth-the-vatborn",
+    "kytheris-mother-of-spores",
+    "graelith-the-stilled-surge",
+    "morphaene-the-gloam-brewer"
+   ],
+   "what": "The town had shut its gate on the Host and manned its wall. Zeraphine's cistern came up the river road behind the regiments of rot-homunculi, and the sludge conduits were run out from the glass to the foot of the wall. Morphaene went forward first. He stood at the lip of the ditch and breathed out, and the gloam rose over the parapet. Kytheris came up behind him, where Zeraphine had set her, under her crown of spore-antlers. She read the men on the wall one at a time and released into the gloam at each man's frequency. Where her spores went, the visions took on body. Men on the wall watched the blades in their hands rust through to the hilt and felt their own flesh open from inside. Some ran. Others turned on the men beside them. Vorynth walked up to the gate and stood in front of it. He never struck it. Through the afternoon the iron bands flaked, the timbers went soft, and the facing of the gate towers crumbled under a hand. At dusk the town's practitioners came out of the river gate in a sortie aimed at the glass. Zeraphine sent Graelith to meet it. He walked into their path. The sound went out of the air around him, their incantations arrived at nothing, and the channels they drew on found no medium. The sortie stopped in the river mud and turned back through the gate. Over that stretch of wall the gloam thinned wherever his radius reached, and the men there stopped seeing their ruin. Kytheris's spores went up at the edge of his field and found no frequency to match. She drew back from him. Morphaene moved along the ditch and laid the gloam on thicker beyond the muted ground. When the sortie was in, Zeraphine's cadence went down the conduits. Vorynth's waves came against the softened gate in the order she called them, and the gate went down. The town fell before morning. Vorynth took its dead into the vat. The survivors walked out with Kytheris's seeds in their lattice. Days later, in the mud by the river gate where Graelith had walked, the rot came up. What each took. Zeraphine: the order she has kept since. Morphaene's gloam goes out before the Surge, and Graelith is held back for the counterstroke. From the river gate she has called him a living pause. Vorynth: waves that moved in sequence when she called them, which he has never made them do alone. His card names her his field conductor. Kytheris: her counter, found at the river gate. Silence. Her wary respect for Graelith dates from that dusk. Graelith: his place in the order as the pause. And a wary rapport with Kytheris, whose spores strained his field while his field emptied her tuning. Morphaene: the habit his card records of routing thicker smog around the Fourth General's field, mid-battle, on the same side. And a partner whose spores gave his visions a body."
+  },
+  {
+   "name": "The emplacement in the Bone Hills",
+   "when": "A later season of the same campaign.",
+   "where": "A hill fort in the Bone Hills of the Varakh Drylands (SW: the Bone Hills among the Drylands' features, bone phosphate among its yields).",
+   "who": [
+    "the-ossuary-choir",
+    "vorynth-the-vatborn",
+    "zeraphine-drowl-the-black-vat-regent"
+   ],
+   "what": "The fort kept a Domain over its walls, and its wards were cut into the gate stones. Vorynth could do nothing at a gate while that Domain held. The Host hauled the Choir up the slope on a wagon bed, because the frame cannot walk, and set it down facing the wall. Then the siblings played. Three voices went out from the boneglass in three chests: flesh, will and faith. The glyph chains in the wards came apart one after another, the Domain slipped out of phase with itself and failed, and a crack ran up the gate stones from inside. Zeraphine's cistern stood at the foot of the hill, and her conduits ran up the slope to the frame. She took each change in the chord as her signal and passed it down the sludge to the waves. When the wards were down she called Vorynth. He walked up through the cracked gate and stood in the yard, and over the hours the fort went brittle around him. Afterwards he said their music had drowned out his rot. He called it vainglorious. Graelith was not on the hill. What each took. The Choir: their place in the order, first against the walls and ahead of Vorynth, the place their card's line on Malphas gives them. And a general who calls their song noise. Vorynth: a fort he entered through a gate another arm had opened. His distrust of the Choir has held from that yard. Zeraphine: the Choir's chord as her battle signal, and their pulses as the anchor she has leaned on since. The Choir's card gives her admiration for their precision."
+  },
+  {
+   "name": "The famine towns after the drought",
+   "when": "The drought that followed the Host's campaign on the Broken Rivers.",
+   "where": "The river towns of the Broken Rivers, in the Varakh Drylands (SW: \"several abundant years followed by severe drought\").",
+   "who": [
+    "kytheris-mother-of-spores",
+    "vorynth-the-vatborn"
+   ],
+   "what": "The drought came the year after the Host had taken the Broken Rivers. In the towns where Vorynth had stood, the granaries had gone soft and grey, and nothing stored in them kept. The towns went hungry. The Pale-Wreathed Sisterhood came in behind the hunger with Kytheris's spores and gave them out in the streets as blessings. The townspeople took them. Kytheris came in at the end of the season. Vorynth was still quartered on the river. The rot-homunculi carried the famine dead out to him, and he took them into the vat. What the vat made, he sprayed back over the ground as sludge. Her fungus came up in it. Where his rot had reduced a granary, her bloom took the grain dust and the beams. He went on taking the dead. She went on seeding what he left. What each took. Kytheris: towns marked as soil, whose survivors carry her seeds. A Sisterhood that revered her as saint-mother in their streets. And a rival for the dead whose rot readies the ground she wants. Vorynth: the famine dead for the vat, and a rival whose bloom comes up in everything he leaves."
+  }
+ ],
+ "ties": [
+  {
+   "a": "zeraphine-drowl-the-black-vat-regent",
+   "b": "vorynth-the-vatborn",
+   "kind": "commander and general",
+   "summary": "She conducts the waves he cannot coordinate alone. On the Broken Rivers they first came to a softened gate in the order she called.",
+   "basis": "card"
+  },
+  {
+   "a": "zeraphine-drowl-the-black-vat-regent",
+   "b": "kytheris-mother-of-spores",
+   "kind": "commander and general",
+   "summary": "Her card gives her authority over Kytheris. At the river town she set the spores behind Morphaene's gloam, the order she keeps.",
+   "basis": "card"
+  },
+  {
+   "a": "zeraphine-drowl-the-black-vat-regent",
+   "b": "graelith-the-stilled-surge",
+   "kind": "commander and general",
+   "summary": "She calls him a living pause and holds him for the counterstroke. At the river gate he stopped the sortie that came for her glass.",
+   "basis": "card"
+  },
+  {
+   "a": "zeraphine-drowl-the-black-vat-regent",
+   "b": "morphaene-the-gloam-brewer",
+   "kind": "commander and general",
+   "summary": "By her order his gloam goes out before her Bloom Surge, as it first went over the wall on the Broken Rivers.",
+   "basis": "card"
+  },
+  {
+   "a": "zeraphine-drowl-the-black-vat-regent",
+   "b": "the-ossuary-choir",
+   "kind": "signal and anchor",
+   "summary": "Outside the four her card sets under her, the Choir sounds the notes she passes down the conduits. In the Bone Hills their chord was her signal.",
+   "basis": "card"
+  },
+  {
+   "a": "vorynth-the-vatborn",
+   "b": "the-ossuary-choir",
+   "kind": "rivals",
+   "summary": "They open the walls before his forces move in, and he calls their song vainglorious noise. In the Bone Hills he walked through a gate they had cracked.",
+   "basis": "card"
+  },
+  {
+   "a": "vorynth-the-vatborn",
+   "b": "kytheris-mother-of-spores",
+   "kind": "rivals",
+   "summary": "Symbiotic competition: his rot reduces, her fungi repurpose. In the famine towns he took the dead into the vat and her bloom came up in the sludge he left.",
+   "basis": "card"
+  },
+  {
+   "a": "kytheris-mother-of-spores",
+   "b": "graelith-the-stilled-surge",
+   "kind": "wary allies",
+   "summary": "Each strains the other. His field empties her tuning, and her spores strain his field. She found her counter at the river gate.",
+   "basis": "card"
+  },
+  {
+   "a": "kytheris-mother-of-spores",
+   "b": "morphaene-the-gloam-brewer",
+   "kind": "comrades",
+   "summary": "Her spores give his visions a body. They first worked the wall of the river town in tandem.",
+   "basis": "card"
+  },
+  {
+   "a": "graelith-the-stilled-surge",
+   "b": "morphaene-the-gloam-brewer",
+   "kind": "comrades",
+   "summary": "His field thins the gloam, and Morphaene routes around it with thicker smog on the same side of the battle.",
+   "basis": "card"
+  },
+  {
+   "a": "graelith-the-stilled-surge",
+   "b": "the-ossuary-choir",
+   "kind": "comrades who cancel",
+   "summary": "Silence against resonance artillery, on both their cards. No event here puts them on one field, and the Choir's card says the Bloom does not appear to have noticed.",
+   "basis": "card"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "vorynth-the-vatborn",
+   "wants": "his lord: Malphas · Ferment of Stars (c35). Vorynth's card: \"Loyal as the first general; the kinetic arm of the Cauldron's influence\". Malphas's card names no general, and The Night's Watch shows him with a cell of four, so the tie stands on Vorynth's side alone."
+  },
+  {
+   "slug": "kytheris-mother-of-spores",
+   "wants": "a keeper of the Verdant cycle (c33, Rot and bloom), someone who tends bloom on rot as the lawful round of a grove. Mirehollow Asakusa's card gives him \"The Man Who Did Not Bloom\", Ch. XIV of The Exilic March, the book whose Ch. XXIV is her \"Soil in Waiting\", and his Crystal is \"entangled in swamp-root and fungal mycelium\". No card joins them."
+  },
+  {
+   "slug": "the-ossuary-choir",
+   "wants": "someone who knew the three siblings before the Rite of Hollow Union, kin or a cantor of the Cathedral of the Hollow Note, since their card leaves open whether three still exist inside. The nearest carded enemy is Maelia Cantorine · The Countercant (c22) of the Accord's Acoustic Ward, whose card cuts \"shared rhythms\" and names Graelith's inversion as her own."
+  },
+  {
+   "slug": "graelith-the-stilled-surge",
+   "wants": "an Engraver who cuts runes in advance, the counter his card names. Velastra Nirellium · The Severed Saint (c28) carries the same inversion and the same counter (\"an Engraver, working in advance, from outside the radius\"), and his card calls the two \"structurally the same character built by different hands\". No card joins them."
+  },
+  {
+   "slug": "morphaene-the-gloam-brewer",
+   "wants": "Vaerath Ashveil · The Pale Reaping (c27). He engulfed the crossing at Eldervale (his card), and she \"arrived three days after the battle ended and adjudicated every contested death across six silent hours\" (her card). Two cards at one battle, at different hours."
+  },
+  {
+   "slug": "zeraphine-drowl-the-black-vat-regent",
+   "wants": "someone of the Pyraeon Forge Academy she betrayed, a teacher or a fellow tactician who carries it. The same Academy expelled Malphas (c35). No page yet gives the Academy a place or a face."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Whether the Pyraeon Forge Academy is attested. Malphas's card: \"Pyraeon Forge Academy stands as the institution that expelled him, unrelated in etymology, coincidental in name only\" (Malphas, VI). Zeraphine's card: \"the Pyraeon Forge Academy as an institution is not, and this is its second appearance after Malphas's own expulsion from it.\" and \"Worth ratifying\" (Zeraphine, head).",
+  "How many generals interfere. Graelith's card: \"Three of five generals interfere with each other\" (Graelith, VIII), and the three it names are Graelith, the Choir and Kytheris. Morphaene's card makes a fourth: \"Disrupted by his silence fields, though he adapts by layering thicker smog\" (Morphaene, VIII) and \"which is a Fifth General routing around a Fourth General's field, mid-battle, on the same side\" (VII).",
+  "The Bloom's counts on Zeraphine's card. Her head note: \"Same Archon error across all three of the Bloom's command sheets.\" and \"two of the Bloom's four named leaders came out of the same school\". Her stat note: \"Take Zeraphine and the Bloom becomes three siege weapons pointing in different directions\" (IV). Against these, the cards name Malphas, Zeraphine and five generals, all six members carry an Archon correction on their own sheets, and her own card gives her four generals.",
+  "Chapter XXIV of The Exilic March. Under WOTR: The Exilic March, Kytheris's card gives \"Ch. XXIV, \"Soil in Waiting.\"\" (Kytheris, IX), and Morphaene's gives \"Ch. XXIV, \"Miasma Spreads\"\" (Morphaene, IX). Two titles for one chapter number."
+ ]
+}

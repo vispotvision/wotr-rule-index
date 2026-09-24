@@ -1,0 +1,175 @@
+{
+ "id": "c29",
+ "name": "The Withering courts",
+ "era_span": "Withering Era on four cards (Cyranthia, Elowen, Marceline, Aurelian); Seri's and Rovhen's cards state none. No scene holds any member. This record sets all four events in the Withering Era, in the western quarter (the Old World), places Seri and Rovhen in that era by its own choice, orders the events only against the cards' Catalysts and Seri's Quiet Route, and names no year.",
+ "members": [
+  {
+   "slug": "cyranthia-valez-the-gilded-marionette",
+   "line": "Independent political broker and court strategist of the Court-Blooded Strategist Line in the Withering Era, owed an uncalled favour by every capital, who works rooms through her Salon, binds spoken agreements with the Signet of Valez, brings down factions, marriages and houses' credit without a visible hand, and gave up the right to be believed for her own sake."
+  },
+  {
+   "slug": "elowen-mireille-the-porcelain-archivist",
+   "line": "A minor noblewoman among Archivists, embedded by the Ivory Ledger Society in the Withering Era, whose tea service is kept identical every time, who forgets nothing, makes people speak freely, can surface a truth she has overheard at the price of that memory, and has told no one which conversation she overheard at her Catalyst."
+  },
+  {
+   "slug": "marceline-vireaux-the-crimson-mourner",
+   "line": "Old noble blood of the Rose Courts and the Sable Rose Consortium's mourner in the Withering Era, whose honest grief works on the bereaved, whose presence softens hostility, toward whose networks inheritances drift through the Ledger of Wills, and who loses her own memories to the reputations she erodes."
+  },
+  {
+   "slug": "aurelian-veymont-the-lion-of-the-dawn",
+   "line": "Highborn solar human of a crown-blood the card calls the First Empire, sovereign and High Marshal of the Ember Crown Dominion in the Withering Era, whose coronation trials first made the ground answer him, who binds oaths on his Imperial Signet, holds a field with one spoken command that his own body pays for when he overreaches, and reads fields by instinct and never rooms."
+  },
+  {
+   "slug": "seri-zeliro-vanthe-the-lantern-fox",
+   "line": "A young thread-reader of House Zeliro-Vanthe, fourth generation from its patriarch, serving the Guild Accord's intelligence work with a blue-flamed lantern and a gold-clasped tome, Moto-adjacent in her faint sight, whose Quiet Route is cover for a case against her own house over three reclassified field reports."
+  },
+  {
+   "slug": "rovhen-talvasciel-the-prettier",
+   "line": "An Avian of the Crimsoncrest Line, once court enchanter to the Queen of Talveris and exiled after he redesigned her entire face, self-declared High Priest of the Doctrine of Divine Symmetry, hunted by the Guild Accord, who sees the fracture lines in every body, compels with his voice, and whose counter is a single competent hit."
+  }
+ ],
+ "events": [
+  {
+   "name": "The peace in the Ember Crown's field",
+   "when": "After Aurelian's coronation trials, when the Ember Crown first answered him (his card, I), and after the Catalysts on Cyranthia's and Marceline's cards.",
+   "where": "The coal foreland of the Old World (WORLD §5, West). The capital of a western kingdom, where Cyranthia kept her Salon through the talks, and the field below it, where the Ember Crown's pavilion stood. No page places the Ember Crown Dominion, and this record does not.",
+   "who": [
+    "aurelian-veymont-the-lion-of-the-dawn",
+    "cyranthia-valez-the-gilded-marionette",
+    "marceline-vireaux-the-crimson-mourner"
+   ],
+   "what": "The Ember Crown's campaign against the kingdom ended in the field. The kingdom's king was carried off the last engagement and died of his wounds some days later. Marceline Vireaux came to his widow within the week, in her mourning colours, and stayed at her side through the season. She arranged the burial. The king went into the ground in velvet. The terms were made in the capital, in Cyranthia Valez's Salon. For weeks the kingdom's council sat there with the Ember Crown's envoys, at tables she had placed, under lamps she had set. Aurelian never came up to the capital. He sent word that the terms would be spoken in his field. The widow came down to the pavilion with her council. Marceline walked beside her, and Cyranthia came with them. The council's officers had ridden down hard in the face. At the table, seated beside Marceline, they eased. Aurelian read the Ember Crown's terms aloud himself and swore them on his Imperial Signet. The widow spoke the kingdom's terms aloud. Cyranthia sat at the table while both of them spoke. The kingdom knelt, and the Ember Crown's banners stood over the field. What each took. Aurelian: a peace sworn on his own ground and his own signet. His envoys ran up a favour in Cyranthia's Salon, and the Ember Crown owes it. He never sat there himself. Cyranthia: a favour owed in each capital, and neither called. Terms she had shaped, sworn on ground she did not hold by the one man at the table who had never entered her rooms. Both parties had spoken the peace aloud in her presence, so her Signet of Valez holds it too. Marceline: a king she buried in velvet, and the widow's household in her circle. In the seasons after, that house's wealth moved toward the Consortium's networks."
+  },
+  {
+   "name": "The supply book of a Greaves tin house",
+   "when": "The Withering Era, when old-rate supply contracts had become inheritances (the Value page). After the Catalysts on all three cards.",
+   "where": "The Greaves districts, the western tin districts of the Old World (WORLD §5, West; `The Old World · The Western Wearing.md`, Greaves Tin): the hall of a tin house, the widow's parlour inside it, and Cyranthia's Salon in the district town. The district was off the wire.",
+   "who": [
+    "cyranthia-valez-the-gilded-marionette",
+    "marceline-vireaux-the-crimson-mourner",
+    "elowen-mireille-the-porcelain-archivist"
+   ],
+   "what": "In the winter the head of a tin house died. His shafts ran on pumps, and the pumps ran on supply his house held under contracts his father had written at the old rates. The supply book was worth more than the shafts. The Ivory Ledger Society had placed Elowen Mireille in his household before he died. Every afternoon she poured the tea in the widow's parlour, from the same cup and with the same pour. Marceline Vireaux came within the week. She sat with the widow and the heirs through the weeks after the burial. In those weeks the heirs came to remember a promise the old man had made, years before, to a house of the Sable Rose Consortium. None of them had spoken of it since. Before the thaw they wrote it into her Ledger of Wills, and the supply book was bound to the Consortium's house. Through the same weeks the tin house's creditors had been sitting in Cyranthia Valez's Salon. Cyranthia called once on the widow to condole. While she sat in the parlour, the widow and the chief creditor agreed terms aloud. In the spring the house's credit failed inside a week. No creditor accused the house of anything. Each called his paper separately, in turn. The marriage promised to the elder heir was broken off in the same week. The creditors took the shafts in settlement, and with them the pumps that had to run every hour. The supply book to feed the pumps was already bound, and it stayed with the Consortium. Elowen poured through all of it. She marked the afternoon the heirs spoke their father's promise, and the afternoon the widow agreed terms in Cyranthia's presence. She could read the heirs, the widow and the creditor. She found nothing out of true in anything Cyranthia said. Under Marceline's mourning hat she could read nothing at all. What each took. Cyranthia: a house brought down, and creditors she cannot spend a second time. The supply book her creditors needed, bound in another woman's ledger. It was her first sight of Marceline's hand. Marceline: the supply book, for the Consortium. And a rival whose collapse took the house down around the book and left her holding the one thing in it worth having. Elowen: two marked afternoons, and she has spent neither. And the one face in that parlour she could not read."
+  },
+  {
+   "name": "The exile from Talveris",
+   "when": "After Rovhen's Catalyst had turned outward (his card, I), while he held the office of court enchanter. Before Seri's assignment to the Quiet Route, while her handler was still her partner in the field (her card, IX: \"Former partner and instructor\").",
+   "where": "The palace of the Queen of Talveris. Rovhen's card names Talveris and no page places it. This record sets it among the western courts of the Old World (WORLD §3; §5, West) and names no district.",
+   "who": [
+    "rovhen-talvasciel-the-prettier",
+    "cyranthia-valez-the-gilded-marionette",
+    "seri-zeliro-vanthe-the-lantern-fox"
+   ],
+   "what": "Rovhen was court enchanter to the Queen of Talveris. She sat for him in his workroom, and he \"redesigned\" her entire face (his card, I). The queen's council met that night and sat until morning. Several of its members had sat in Cyranthia Valez's Salon in seasons past, and she was sent for before midnight. By morning the council had agreed, member by member, that there would be no trial. The court enchanter would leave Talveris and would not come back. He left that day with the crimson-gold wires of the Needlewing Halo coiled at his back. Some days later the Guild Accord sent Seri Zeliro-Vanthe and her partner to read the palace. In the workroom her lantern's blue flame burned brightest beside the chair where the queen had sat. The council chamber read calm. Her flame stood as high there as it had in the workroom. The palace servants gave her the name of the woman the council had sent for. She wrote both rooms up for the file the Accord keeps on him. What each took. Rovhen: exile, alive and untried, and the loss of his court. An Accord file with a thread-reader's account of his workroom in it. Nothing records that he knows who settled his exile. Cyranthia: the favour of Talveris, uncalled. Seri: the chair beside which her flame burned highest. A quarry the Accord hunts. And a room that read calmer than her flame, with Cyranthia Valez's name attached to it."
+  },
+  {
+   "name": "Tea on the Quiet Route",
+   "when": "During the Quiet Route, Seri's current long-form assignment (her card, IX). The latest of the four events.",
+   "where": "A merchant household in the slate belts of the Old World (WORLD §5, West), where the caravans of the Quiet Route halt.",
+   "who": [
+    "seri-zeliro-vanthe-the-lantern-fox",
+    "elowen-mireille-the-porcelain-archivist"
+   ],
+   "what": "Seri came to the household as a guest of the caravan, which was her cover on the Route. The Ivory Ledger Society had placed Elowen Mireille in the same household, and at the afternoon table Elowen poured. Every cup was the same cup and every pour the same pour. Seri saw that before she saw anything else. The table talked more freely than a merchant's table talks with a caravan guest at it. Seri felt the ease reach her as well, and she said less. Her lantern stood in the hall with its blue flame. At the edge of her sight, at each pour, the woman with the teapot was deciding something. Across the table Elowen watched a guest with a gold-clasped tome, whose posture showed she was listening harder than she spoke. Seri said nothing of what she was investigating while Elowen sat at the table. Neither woman spent anything that afternoon. What each took. Seri: an entry in the tome, on a companion who poured every cup alike and decided something at each pour. Like every entry, it cost her some of her distance. And a gatherer she could not read to the bottom. Elowen: a marked afternoon in which the guest said nothing she could ever expose. The guest was the first person she had poured for who never said the thing where she was sitting."
+  }
+ ],
+ "ties": [
+  {
+   "a": "cyranthia-valez-the-gilded-marionette",
+   "b": "marceline-vireaux-the-crimson-mourner",
+   "kind": "rivals",
+   "summary": "Two brokers of the same courts on twin sheets. At the Greaves tin house the Ledger of Wills held the supply book her creditors needed; in the Ember Crown's field they stood with the same widow.",
+   "basis": "new"
+  },
+  {
+   "a": "cyranthia-valez-the-gilded-marionette",
+   "b": "aurelian-veymont-the-lion-of-the-dawn",
+   "kind": "debt",
+   "summary": "His envoys ran up a favour in her Salon, and the Ember Crown owes it. He never sat there, and he swore the peace on his own signet in his own field, in her hearing.",
+   "basis": "new"
+  },
+  {
+   "a": "marceline-vireaux-the-crimson-mourner",
+   "b": "aurelian-veymont-the-lion-of-the-dawn",
+   "kind": "across the peace",
+   "summary": "She buried in velvet the king who died of his campaign, and walked beside the widow when the kingdom knelt in his pavilion.",
+   "basis": "new"
+  },
+  {
+   "a": "cyranthia-valez-the-gilded-marionette",
+   "b": "elowen-mireille-the-porcelain-archivist",
+   "kind": "witness",
+   "summary": "Elowen poured when the tin widow agreed terms aloud in Cyranthia's presence, and she holds that afternoon unspent.",
+   "basis": "new"
+  },
+  {
+   "a": "marceline-vireaux-the-crimson-mourner",
+   "b": "elowen-mireille-the-porcelain-archivist",
+   "kind": "witness",
+   "summary": "Elowen poured through Marceline's weeks in the widow's parlour and holds the afternoon the heirs spoke the promise. Under the mourning hat she could read nothing.",
+   "basis": "new"
+  },
+  {
+   "a": "cyranthia-valez-the-gilded-marionette",
+   "b": "rovhen-talvasciel-the-prettier",
+   "kind": "debt",
+   "summary": "The council of Talveris sent for her the night he remade the queen, and by morning he was to leave alive and untried. Talveris owes her the favour.",
+   "basis": "new"
+  },
+  {
+   "a": "seri-zeliro-vanthe-the-lantern-fox",
+   "b": "rovhen-talvasciel-the-prettier",
+   "kind": "hunter and quarry",
+   "summary": "She read the queen's chair and his workroom at Talveris for the Accord that hunts him.",
+   "basis": "new"
+  },
+  {
+   "a": "seri-zeliro-vanthe-the-lantern-fox",
+   "b": "cyranthia-valez-the-gilded-marionette",
+   "kind": "witness",
+   "summary": "At Talveris her flame burned high in a council chamber that read calm, and the servants gave her Cyranthia's name.",
+   "basis": "new"
+  },
+  {
+   "a": "seri-zeliro-vanthe-the-lantern-fox",
+   "b": "elowen-mireille-the-porcelain-archivist",
+   "kind": "rival archivists",
+   "summary": "Two gatherers on twin sheets at one tea table on the Quiet Route. Each marked the other, and neither spent anything.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "cyranthia-valez-the-gilded-marionette",
+   "wants": "an Arbitration Division mediator, the Accord office for \"Diplomacy, treaty enforcement, mediation between nations\" (`The Guild Accord.md`, Divisions), whose work her private tables do without the Accord in the quarter where it reaches least. Cael Veridion · Bearer of the Second Sun (c38) was one: \"Formerly Arbitration Division\", a \"mediator in divine treaty disputes\". No card joins them, and his era is unchecked here."
+  },
+  {
+   "slug": "elowen-mireille-the-porcelain-archivist",
+   "wants": "the officer of the Ivory Ledger Society who places her: the one who chooses the household she is embedded in and receives what she records. Her card makes her \"embedded rather than commanding\", so someone commands. No card carries the Society."
+  },
+  {
+   "slug": "marceline-vireaux-the-crimson-mourner",
+   "wants": "a keeper of third-party record, the counter her card names: \"a ledger, a sealed contract, a witnessed deed\" (VIII). A registrar of the Bench of Attribution, a sealing notary or a Measurewright of the Hexagonal Oath (WORLD §4). Her card names the counter and no one who holds it."
+  },
+  {
+   "slug": "aurelian-veymont-the-lion-of-the-dawn",
+   "wants": "\"someone he will not let fall\" (his card, VIII, Counter). The card turns his whole counter on that person and names none: kin of the First Empire's crown-blood, an heir, or a general of the Ember Crown."
+  },
+  {
+   "slug": "seri-zeliro-vanthe-the-lantern-fox",
+   "wants": "a bearer of the Moto blood whose thread floods her lantern. Her card: \"a strong Moto bloodline bearer\" (VI, Overcurrent Absorption), and \"As a Moto-adjacent descendant, she sees the Threadmarks on others\" (VI). The card names no Moto ancestor. Her handler, the one relation her card names outside the house, is carried by no card."
+  },
+  {
+   "slug": "rovhen-talvasciel-the-prettier",
+   "wants": "someone of the Order of Fleshbound Law, which \"Consider him a living blasphemy\" (IX), or an Avian aristocrat whose bloodline he touched. His card names both bodies and no member of either."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "What the Refraction Catalyst is. Aurelian's card: \"First Domain seed activation, however fragile: the Attraction Layer's first territorial claim, lasting minutes, gone the instant concentration slips.\" (Aurelian, I). Rovhen's card, for the same threshold: \"The soul sees itself from outside\" and \"Practitioners in Refraction are notoriously difficult to be around because they have just been handed the ability to examine their own architecture and have not yet learned to stop.\" (Rovhen, I). Rovhen's card says nothing of a Domain seed and reads his Dominion as \"A gallery, not a realm\" (IV).",
+  "The least physically formidable sheet. Cyranthia's card: \"She built the least physically formidable sheet on this board and has never needed the difference explained to her.\" (Cyranthia, IV). From the same Volume V shelf, Marceline's table gives Vitality 135, Resilience 165 and Dexterity 145 against Cyranthia's 140, 170 and 150, and Elowen's gives 95, 130 and 110, with \"Her floor. She has never once had to be strong\" (Marceline, IV; Elowen, IV).",
+  "Rovhen among the empathetic. Morphaene's card (c23): \"He is the third character in Volume IV whose cruelty runs on genuine empathy, after Rovhen Talvasciel and Kaito Akagiri. All three have Empathy above 400 and Ardency near their floor.\" (`Morphaene the Gloam-Brewer.md`, V). Rovhen's card gives \"Harmonics Empathy at 400\" (V), rates his Ardency 352, grade A, \"He does not need force\", and gives Resilience as \"His floor\" (IV). His card puts his first appearance in Volume VIII (X); Morphaene's and Vaelthyr Iscarn's (c32) cards put him in \"Volume IV\". Whether one counts sheets and the other books, no card says.",
+  "Against the wiki: Seri's Division. Seri's card: \"House Zeliro-Vanthe, Guild Accord Intelligence Division\" (I). `The Guild Accord.md` lists five Divisions, Strategic, Enforcement, Arbitration, Research & Archives and Logistics & Supply, and the Black Concord, \"The sixth and unspoken Division.\" No page names an Intelligence Division. This is a card against a page; it stands here because it bears on every Lore that places her.",
+  "Against the archive's index: Aurelian's name. `scenes/CAST.md` files \"Aurelian Veymont\" under the Primate, Aurelian Prudentius Custos Clausorum, with twenty scenes; the two cards are two men, and no scene names Veymont (section 6)."
+ ]
+}

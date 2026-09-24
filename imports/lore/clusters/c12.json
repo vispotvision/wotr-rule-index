@@ -1,0 +1,232 @@
+{
+ "id": "c12",
+ "name": "The Research and Archives Division",
+ "era_span": "The Withering Era, with no year number. Dr. Vaelion Rhest's and Lyssara Veyn's cards place them in it; the other six state no era, and this record sets their shared events in the same era. Azran's card gives the one firm span: twenty-six, in the Division since seventeen.",
+ "members": [
+  {
+   "slug": "azran-nemeir-the-gilded-draft",
+   "line": "Twenty-six, a Registered Adept of the Research and Archives Division since joining at seventeen, who held the Farath vein alone for ninety-seven minutes, writes the incident report before he celebrates, and goes silent for hours after long Phreatis work."
+  },
+  {
+   "slug": "cael-dareth-the-pale-crucible",
+   "line": "The Division's expelled theoretician, trained at the Alchemarch Citadel in Varūn, who ran the Causality Loop, carries its paradox sealed in his own Crystal, and writes his formulas nightly against the silver climbing his nerves."
+  },
+  {
+   "slug": "dr-vaelion-rhest-the-sleepless-theorist",
+   "line": "The Division's sleepless theorist of Wellspring behaviour, born in Vellsorea in the New World, stationed at the Neutral Chambers' Eastern Node, who split his own mind into the Versions of Sleep and is the first to arrive when a Wellspring collapses."
+  },
+  {
+   "slug": "lyssara-veyn-the-black-chrysalis",
+   "line": "Eressean-born necrosophist of the Mortalis Branch and physician to the failed Threshold, whose heart stopped on the fifth of her seven days in the Mortalis field, and whose Chrysalis Experiment the Division files as unverified."
+  },
+  {
+   "slug": "serai-linthra-the-serpent-alchemist",
+   "line": "Senior Alchemist of the Alchemists' Society, half construct and bound to the serpent Aroth, whose research the Guild banned and reinstated, and who means to rebuild the mentor who vanished in a crucible."
+  },
+  {
+   "slug": "valthren-odrin-the-lantern-scribe",
+   "line": "Keeper of the Candle Archive and Heretic-Warden of the Lantern Ward, who keeps confessions in candles that never gutter, pays for his life in memories, and makes a lie burn blue when it is spoken near him."
+  },
+  {
+   "slug": "gonju-the-sage",
+   "line": "The Quiet Greenhand, the Division's Rot-field herbalist lent to Arbitration's territory cases, who cannot fight, reads memory in roots, walks with the young bear Mallow, and stands on the edge of Splintering."
+  },
+  {
+   "slug": "silas-briarend-wytherm-iii-gravebinder",
+   "line": "Gravebinder of the Hollow Book and the Silent Circle of the Eastern Barrowwrights, who burns the record a decaying thing carries, speaks in voices not his own, and does not discuss the barrow he once erased."
+  }
+ ],
+ "events": [
+  {
+   "name": "The First Entry at the Loop bench",
+   "when": "The Withering Era, after the Guild reinstated Serai Linthra's research, and before Cael Dareth's card, which finds him unaffiliated: the Causality Loop and the expulsion that followed it.",
+   "where": "A Division workroom in the Upper Ring of Stannvaard, the extraction cities on the crater walls (WORLD §5; the Stannvaard page: \"Research sources experimental metalwork from the Inscription Guild\").",
+   "who": [
+    "cael-dareth-the-pale-crucible",
+    "dr-vaelion-rhest-the-sleepless-theorist",
+    "serai-linthra-the-serpent-alchemist",
+    "valthren-odrin-the-lantern-scribe",
+    "lyssara-veyn-the-black-chrysalis"
+   ],
+   "what": "Cael ran the Causality Loop Experiment at his bench, an attempt to rewrite failure as success by reversing temporal Essence signatures. It left a paradox in his Soul Crystal, and he locked it with the Fixative Seal; the first state he ever locked was his own. The Division opened the case under the Heresiology, which lets no suspected site be entered by one investigator. The party of four was Rhest as resonance-reader, a Division scrivener the record does not name as glyph-scrivener, Serai as material examiner, and Valthren as witness-officer. The Division reads the collapse after a failed Threshold as its physician's business, and it sent Lyssara in behind them. Valthren did not open with an accusation. He asked Cael to explain the working. Cael explained it aloud as an equation, and where it reached the paradox he fell into recitation. Nothing he said burned blue. Rhest read the current in Cael's Crystal as a Wellspring, the first he had been sent to that runs inside a man, and found it held and not spreading. He put one line in the file against unsealing it: a cure placed in error is not undone by wanting it undone. Serai took the composition of every reagent on the bench through the seal in her eye. She asked Cael one question, about the reversal of the signatures. He answered it as an equation. She wrote the answer into the file in her own hand, and kept a copy. Lyssara examined him for the dissolution the Division had expected and found none: he carried the paradox and had not come apart. She filed that. The scrivener copied every text on the bench, and the originals went under the Division's seal. The Division expelled Cael. The file holds the readings and no reply to his argument. What each took. Cael: the expulsion, his notebooks under the Division's seal, and an argument the Division has never answered. Rhest: the one Wellspring he has read inside a man, and his line in the file, which is why nobody tried to break the seal. Serai: the bench's compositions and Cael's answer, carried out of the room by an alchemist the Guild had banned and reinstated, from one it expelled. Valthren: Cael's account for the Lantern Ward, with no lie burned in it. Lyssara: a finding of nothing for her Branch to treat, filed on a man whose card ends him unable to decay."
+  },
+  {
+   "name": "The seven days at the Mortalis Chambers",
+   "when": "The Withering Era: Lyssara Veyn's Catalyst Event.",
+   "where": "The Grand Principality of Eresse, in the elven old-ground of the New World (WORLD §3), at the Mortalis Chambers her card names as her residence (unattested on the card).",
+   "who": [
+    "lyssara-veyn-the-black-chrysalis",
+    "dr-vaelion-rhest-the-sleepless-theorist"
+   ],
+   "what": "Lyssara went into the Mortalis resonance field for seven days and asked the Division for a watcher. The Division sent Rhest, its consultant on Wellspring behaviour, a man who does not sleep. Before she went in she asked one thing: that nobody push Essence into her body, whatever it did. A Vitalia push brings the expenditure back, and the equilibrium she meant to hold would fall to one side or the other. On the fifth day her heart stopped. Rhest carries Verdantia at his neck and could have pushed. He did not. He wrote down the hour. On the seventh day she woke, and she no longer told the pulse of life from the rhythm of death. What each took. Lyssara: her Realization, and the hour her heart stopped, in another person's hand. Rhest: seven nights he would not have slept in any case, the hour in his own hand, and a colleague who had asked him to keep his hands still at the one moment a physician reaches."
+  },
+  {
+   "name": "The Farath vein",
+   "when": "The Withering Era, in Azran Nemeir's years with the Division and before his elevation to Adept, which his card says formally recognised this act. Gonju was already the Accord's cleansing consultant, with Mallow.",
+   "where": "The Foraye country of the arc, in the New World (WORLD §3 and §5), where \"The Wellsprings here move\" (NW, The Ground Itself).",
+   "who": [
+    "azran-nemeir-the-gilded-draft",
+    "gonju-the-sage",
+    "dr-vaelion-rhest-the-sleepless-theorist"
+   ],
+   "what": "The Farath vein fed the water of three chartered settlements. When it went foul the three disputed the water, and Arbitration took it as a territory case and sent Gonju, its cleansing consultant, with Mallow. The Division had Azran on the vein. Mallow found the seam. Gonju read the roots along it with the Green Tongue and found where the corruption had come in. The vein began to fail while they stood on it. Azran opened a dual Phreatis and Luminalis stabilization channel and held it alone for ninety-seven minutes. Gonju cannot fight and cannot hold a channel; he kept the corrupted wildlife quiet under the Honey Truce and did not leave. Rhest was the first to arrive from outside. He read the vein's behaviour and wrote the corrected boundary into the Aether with the Lattice Stylus. Azran stitched the corruption closed at the place Gonju had named, and then he wrote the incident report before anything else. After the report came the silence that long Phreatis work leaves in him. Gonju had never met him. He brought him tea and left him alone with it. What each took. Azran: the Farath pattern, inscribed in the Codex Filament, and the elevation his card records. Gonju: the three settlements' water and the case closed, and the vein's history, read from its roots. Rhest: a re-bound vein, and the name of the junior who held it until he came."
+  },
+  {
+   "name": "The barrow on the Caedor plains",
+   "when": "The Withering Era, in Gonju's present as his card gives it, on the edge of Splintering.",
+   "where": "The Caedor plains in the arc of the New World (WORLD §3 and §5; Orya's card sets \"villages and grain routes along the New World's Caedor plains\", and the New World page gives the arc ash plains that \"bury a village in one night\").",
+   "who": [
+    "silas-briarend-wytherm-iii-gravebinder",
+    "gonju-the-sage"
+   ],
+   "what": "Within living memory a charter village on the plain was buried in ash in one night, and the survivors raised a barrow over the dead they could dig out. Two charters later disputed the ground around it, and Arbitration sent Gonju to read it for the case. The families asked the Accord for the burning, and the Accord sent a gravebinder. Silas has erased a barrow once by reading it carelessly, and he does not discuss it. Before this rite he asked the Greenhand for a reading. Gonju read the memory rings of the scrub on the mound and the roots beneath it, and named two records in the ground for Silas: the ash's, which was the night of the burial, and the dead's, which lay under it. Silas aimed the Silent Bloom at the second. He spoke in voices not his own for the length of the rite, and the grief went out of the barrow \"like heat out of a stone.\" What was left was inert and clean. One of the voices did not stop when the rite ended. Afterward Mallow shared his flatbread with Silas. Gonju coaxed the first green up through the mound. What each took. Silas: a barrow burned on the right layer, and a voice that stayed with him past the rite. Gonju: the last reading anyone will make of that record. Silas burned it, and nobody will read it again, the families included."
+  }
+ ],
+ "ties": [
+  {
+   "a": "cael-dareth-the-pale-crucible",
+   "b": "dr-vaelion-rhest-the-sleepless-theorist",
+   "kind": "witness",
+   "summary": "Rhest read the Wellspring in Cael's Crystal as held and wrote the line that kept the Division from trying to unseal it.",
+   "basis": "new"
+  },
+  {
+   "a": "cael-dareth-the-pale-crucible",
+   "b": "serai-linthra-the-serpent-alchemist",
+   "kind": "examiner and examined",
+   "summary": "She read his bench and asked him the one question about the reversal; the Guild reinstated her and expelled him, and she kept his answer.",
+   "basis": "new"
+  },
+  {
+   "a": "cael-dareth-the-pale-crucible",
+   "b": "valthren-odrin-the-lantern-scribe",
+   "kind": "confessor and confessant",
+   "summary": "Valthren took Cael's account for the Lantern Ward, and nothing in it burned blue.",
+   "basis": "new"
+  },
+  {
+   "a": "cael-dareth-the-pale-crucible",
+   "b": "lyssara-veyn-the-black-chrysalis",
+   "kind": "physician and patient",
+   "summary": "Sent for a dissolution, she found a man who had not come apart and filed that there was nothing to treat.",
+   "basis": "new"
+  },
+  {
+   "a": "dr-vaelion-rhest-the-sleepless-theorist",
+   "b": "lyssara-veyn-the-black-chrysalis",
+   "kind": "witness",
+   "summary": "He kept her one request while her heart stopped on the fifth day, and wrote the hour down; they have also stood on the same case.",
+   "basis": "new"
+  },
+  {
+   "a": "dr-vaelion-rhest-the-sleepless-theorist",
+   "b": "azran-nemeir-the-gilded-draft",
+   "kind": "senior and junior",
+   "summary": "Azran held the Farath vein alone until Rhest came to re-bind it.",
+   "basis": "new"
+  },
+  {
+   "a": "dr-vaelion-rhest-the-sleepless-theorist",
+   "b": "gonju-the-sage",
+   "kind": "comrades",
+   "summary": "Both on the Farath vein: Gonju named where the corruption came in, Rhest wrote the corrected boundary.",
+   "basis": "new"
+  },
+  {
+   "a": "dr-vaelion-rhest-the-sleepless-theorist",
+   "b": "serai-linthra-the-serpent-alchemist",
+   "kind": "comrades",
+   "summary": "Resonance-reader and material examiner of the same First Entry.",
+   "basis": "new"
+  },
+  {
+   "a": "dr-vaelion-rhest-the-sleepless-theorist",
+   "b": "valthren-odrin-the-lantern-scribe",
+   "kind": "comrades",
+   "summary": "Resonance-reader and witness-officer of the same First Entry.",
+   "basis": "new"
+  },
+  {
+   "a": "serai-linthra-the-serpent-alchemist",
+   "b": "valthren-odrin-the-lantern-scribe",
+   "kind": "comrades",
+   "summary": "Material examiner and witness-officer of the same First Entry.",
+   "basis": "new"
+  },
+  {
+   "a": "serai-linthra-the-serpent-alchemist",
+   "b": "lyssara-veyn-the-black-chrysalis",
+   "kind": "comrades",
+   "summary": "Both in Cael's workroom; their cards ask the same question about whether what comes back is the same.",
+   "basis": "new"
+  },
+  {
+   "a": "valthren-odrin-the-lantern-scribe",
+   "b": "lyssara-veyn-the-black-chrysalis",
+   "kind": "comrades",
+   "summary": "Witness-officer and physician on the same case, keepers of last words by candle and by Tome.",
+   "basis": "new"
+  },
+  {
+   "a": "azran-nemeir-the-gilded-draft",
+   "b": "gonju-the-sage",
+   "kind": "comrades",
+   "summary": "On the Farath vein Gonju named the place and stayed; afterward he left the silent young man alone with tea.",
+   "basis": "new"
+  },
+  {
+   "a": "gonju-the-sage",
+   "b": "silas-briarend-wytherm-iii-gravebinder",
+   "kind": "comrades (reader and burner)",
+   "summary": "Gonju named the layer, Silas burned it; they are the last two who read that barrow's record.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "azran-nemeir-the-gilded-draft",
+   "wants": "a fighter who will stand between him and the distance for four seconds. His counter is anyone who closes before the glyph sets, and his Dominion is his floor; a party leader of the Accord's field blades (c13) is the nearest pool."
+  },
+  {
+   "slug": "cael-dareth-the-pale-crucible",
+   "wants": "someone who remembers the Alchemarch Order of Varūn. Wilhelm · The Guardian (c17) is the only other card that carries the Order and the name Verdiction; the cards hold the two works distinct, so the tie is an order or a record, never shared work."
+  },
+  {
+   "slug": "dr-vaelion-rhest-the-sleepless-theorist",
+   "wants": "the keeper of the Chambers he is stationed in. Atheron Dreymarch (c08) holds the office of Neutral Chambers Keeper on his own card, under Arbitration (section 7). Failing him, one of the students who say his sarcasm hides a quiet kindness."
+  },
+  {
+   "slug": "lyssara-veyn-the-black-chrysalis",
+   "wants": "the office that rules on a death held open too long. Yukizumi Yukari · The Reaper (c06), the last vote on a disputed death, \"Consults for the Research & Archives Division on soul-law breaches\"."
+  },
+  {
+   "slug": "serai-linthra-the-serpent-alchemist",
+   "wants": "a fellow of the Society's Court. Garron Vuldane · Warden of Thaumar (c16) carries her charter word for word, seated at Stannvaard."
+  },
+  {
+   "slug": "valthren-odrin-the-lantern-scribe",
+   "wants": "a hunter from the order that pursues him. The order's name is struck from canon (section 7), so the Weaver needs the office, a sentinel of a holy see; Seraphion Veydrak (c28), \"formerly High Sentinel\" of that see on his own card, is the nearest."
+  },
+  {
+   "slug": "gonju-the-sage",
+   "wants": "Ascella \"Wick\" Morwyn (c07), whose Stillflame pairs with his cleansing; both cards say so."
+  },
+  {
+   "slug": "silas-briarend-wytherm-iii-gravebinder",
+   "wants": "an elder of his own Sect who refuses the doctrine he holds in public, since his card says the Sect does not accept it. Outside the Sect, Moros Pellayne (c06) keeps the same doctrine on the Arbitration side."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Whose are the Neutral Chambers. Rhest's card: \"Guild Accord · Research and Archives Division · Neutral Chambers.\" (Rhest, I). Seren Valenne's: \"Guild Accord · Arbitration Division · Arbitration Adjudicator, Senior. Assigned to the Neutral Chambers of the Inner World.\" (Seren Valenne · The Grey Adjudicator.md, I). Lyss Arvale's: \"Guild Accord · Arbitration Division, Neutral Chambers.\" (Lyss Arvale · The Quiet Swan.md). Atheron Dreymarch's card files the office of Neutral Chambers Keeper under the Arbitration Division, and Banisher \"was forged in the Neutral Chambers, under the Guild Accord's Arbitration Division\" (Banisher · Writ-Spear of Exile.md). Rhest may be a Research consultant seated in an Arbitration house; no card says so.",
+  "The order that hunts Valthren. Valthren's card: \"The Order of Lurien · Hunts him for rewriting sacred doctrine into mortal tongue.\" (Valthren, IX). The wiki: \"the Holy See of Lurien, dead canon, retconned and replaced by the Holy Sea of Alabaster.\" (SW, ruled 2026-09-12); Spellcraft/Anointing.md says the same. Other cards carry a re-homing note; Valthren's carries none.",
+  "Gonju and Lurien. Riven's card: \"Riven is the third sheet in this batch anchored to Lurien\", with Thalyren Veyroot and Gonju (Riven Eltamyr Vonnel · The Glaive.md, head). Seraphion's: \"Thalyren, Gonju and Chimwala are all anchored to it.\" (Seraphion Veydrak · The Chain-Halo.md, head). Gonju's card names no Lurien, no see and no seminary.",
+  "Bitter Gall or Bitter Bloom. Gonju's Traits: \"Bitter Gall · Passive resistance to corruption.\" (Gonju, VI). Gonju's Relationships and Ascella's card: \"Her Stillflame pairs with his Bitter Bloom to cleanse Rot seams without panic.\" (Gonju, X; Ascella, X). No trait on Gonju's card is called Bitter Bloom.",
+  "Gonju's floor. Gonju's card: \"The lowest primary stat in Volume IV\". Gorrum's card: \"below Gonju's 74, which makes Gorrum the least combat-capable character in the entire volume\". Shael Virellion's card calls its own Ardency of 44 \"Second-lowest primary in Volume IV, behind only Gonju\". Three cards, three different claims about who stands lowest.",
+  "Benediction. Gonju's card lists Benediction among his harmonisations and calls itself \"the only sheet in the volume where the term is used correctly\", as a resonance (Gonju, III). Khan Kirv's card: \"Benediction · Vitalia. Governing.\" (Khan Kirv · The Veil-Khan of the Dry Courts.md, III).",
+  "Alchemarch: title or order. Alchemetrica: \"A title rather than a rank, conferred rather than earned, held by perhaps forty people in the four quarters.\" (Alchemetrica.md, The Ladder). Wilhelm's card: \"Registered within the Alchemarch Order of Varūn, now extinct.\" Cael's card has him \"trained at the Alchemarch Citadel of the Iron Forges in Varūn\" and marks \"Varūn and the Alchemarch title attested\", the citadel not (Cael, I).",
+  "The Stage X thresholds. Lyssara's pool counts \"5,500 from Thresholds I to X\" (Lyssara, IV), and Cael's the same figure (Cael, IV). Valthren's card counts 4,000 from the same Thresholds (Valthren, IV). Rhest's and Lyssara's cards each also flag their own pool against the live Part Three rates and do not resolve it (Rhest, IV; Lyssara, IV).",
+  "Azran's two holds. The Catalyst: \"He held a stabilization circle solo for two hours during a commission after his party leader went down\" (Azran, I). The Farath Vein Incident: \"Held a dual Phreatis-Luminalis stabilization channel solo for ninety-seven minutes, saving three settlements' water access\" (Azran, IX). The card does not say whether these are one event; if they are, the durations disagree. This record treats them as two.",
+  "Rhest's era label. His card gives \"Era · Withering Era\" and, among its labels, \"Withering Age\" (Rhest, I and X), the superseded term (WORLD §1)."
+ ]
+}

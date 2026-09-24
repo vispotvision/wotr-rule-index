@@ -1,0 +1,214 @@
+{
+  "id": "c11",
+  "name": "The elven old-ground",
+  "era_span": "From Valthrum's First Eon, through the undated War of the Long Night, into the Withering Era and the year and more since Drevath's first activation. The New World throughout: the elven old-ground and the Tsohanto Reach at its seam. No year is stated.",
+  "members": [
+    {
+      "slug": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "line": "The Last Elven Lord, Paragon of Elyndra and Florwyn's Regent: former High Marshal of the Verdant Phalanx and last Regent of the Court of the Verdant Throne, recognised by Florwyn mid-battle into a draconic shape whose armour grows back from beneath, fed by the Great Spirit Tree through his back, holding his strength below the dragon he has not decided to become."
+    },
+    {
+      "slug": "thalyndros-aerenvael-the-canopy-wyrm",
+      "line": "The Canopy Wyrm: a sky-branch of Florwyn's Great Dragon design grown from the Great Spirit Tree's higher boughs and anchored through Vaelorian's Soul Crystal, Eresse's sky-arm, bonded to Vaelorian alone as root-node and mirror-body, sent rarely to break sieges, escort envoys and carry Vaelorian down from the sky."
+    },
+    {
+      "slug": "drevath-mourne-kal-the-iron-horizon",
+      "line": "The Iron Horizon: a Winter Eladrin made in Senzu Tyurkia's Veil Sanctum with a Tyurkian framework built over the Stillness underneath, more than a year from his first activation, holding four taken battlefields declared permanent, filed under nobody, and Vaelorian's structural rival, to whom he has offered: step aside, and live to watch it."
+    },
+    {
+      "slug": "saetsha-bloomveil-the-pink-tempest",
+      "line": "The Pink Tempest: an Eressean elf, once Elyndra's handmaiden and herald, now loosely aligned with the Guild Accord, the one witness on record to Elyndra's silence, declaring Edicts of Growth in an absent name from a dwindling echo, drawn to every dying grove, and refusing Mortalis entirely."
+    },
+    {
+      "slug": "valthrum-the-cryon-king",
+      "line": "The Cryon King: a Titan-wrought World Spirit Florwyn made to protect a season, estranged from her since he refused to end it in the War of the Long Night, an anomaly of the Winter Court who removes heat, neutral to every power, dormant in the Northern Waste awaiting the Signal of Entropy."
+    },
+    {
+      "slug": "vargrath-ul-dorr-iron-dawn",
+      "line": "Iron Dawn: half orc and half elf, pit-born at Tol-Varath, carrying a shard of the Titan Valmir and a wyrm-scale relic his Ironblood father burned into him, who would not leave thirty-eight dying elves in a gorge and now commands the army they seeded, the Elven Army of the Ashen Vale Compact, dreaming Kaetra's empire of mountain-citadels."
+    },
+    {
+      "slug": "onawa-ashkewe",
+      "line": "Queen of the Tsohanto: ruler of a hidden forest-and-barrow elven branch apart from Eresse and the Varrisak courts, who came out of the barrow trial at sixteen wearing her mother's mask crownwise against all precedent, speaks with the dead through the First Ash Mask with an unnamed raven at her shoulder, and solves everyone's grief but her own."
+    },
+    {
+      "slug": "brynja-haldris-hammer-of-the-northroot",
+      "line": "Hammer of the Northroot: Eladrin shield-warrior and forge-keeper of the Northroot Stone Clans, who earned all she holds standing between siege and child, carries the ancestral hammers Skor and Vethra and molten stone from the first Northroot forge at her throat, and fights for preservation, never for conquest."
+    }
+  ],
+  "events": [
+    {
+      "name": "The audit at the taken field",
+      "when": "New. Inside the year and more since Drevath's first activation, which his card counts from the one time he called Senzu father, and while Vaelorian holds the regency his card gives him. No year.",
+      "where": "The elven old-ground (WORLD.md §3), on the contested fringe where Drevath's card sets his four anchors: one of the battlefields he had already taken.",
+      "who": [
+        "vaelorian-theryn-aerethiel-the-last-elven-lord",
+        "thalyndros-aerenvael-the-canopy-wyrm",
+        "drevath-mourne-kal-the-iron-horizon"
+      ],
+      "what": "Drevath had taken the field and declared it permanent. He waited on it with the two vials he carries into deep Verdantia ground, and when the dragon came into sight he drove Mourne into the ground and spoke the word. Inside the boundary nothing grew and nothing healed. Thalyndros brought Vaelorian in from the sky, which is the work his card says he is sent for, and came down short of the boundary. His tail-roots and wing-tips went into ground outside the line, and he did not cross it. Vaelorian walked in alone, onto ground where his armour would not grow back. Drevath put the audit to him as a thing already run: step aside, and live to watch it. He gave him the courtesy of reading it before it was enforced. Vaelorian read it and did not step aside. He walked back out across the line to the dragon, and no blow was struck. The audit has not been enforced. What each took: Drevath took the refusal his audit had already forecast, from the one man whose kind of Domain his card names as the counter to his standard. Vaelorian took an offer he had not asked for, from someone who had priced him before he arrived. Thalyndros took a field where his breath would have found nothing to green, and a line he stood outside while the other half of his bond walked in."
+    },
+    {
+      "name": "The holding he did not take",
+      "when": "New. Inside the same year and more of Drevath's activation, in the Withering Era Brynja's card gives her.",
+      "where": "The Northroot holdings, in the Eladrin north of the elven old-ground. The wiki sets the Eladrin in Iampu (WORLD.md §3), and no page places the Northroot holdings.",
+      "who": [
+        "drevath-mourne-kal-the-iron-horizon",
+        "brynja-haldris-hammer-of-the-northroot"
+      ],
+      "what": "Drevath came to the edge of the Northroot holdings looking for ground to take. Brynja stood in front of the nearest holding with Skor and Vethra, as she stands in front of anything that comes for her people. Drevath read her at the reach of his structural read: her reserves, her stamina, the fracture points under her plate. The read gave him a defence whose stamina climbs the longer it holds. He did not drive Mourne into that ground. He turned away and took his field elsewhere, and the holding behind her was not entered. No blow was exchanged. What each took: Brynja took a holding that stood without a blow struck, and no way to know whether it stood because of her or because of a calculation she never saw. She did not count it. Drevath took the one field his audit priced too high, and a close sight of what his own native architecture does when nothing is built over it: an Eladrin standing still in front of her people, preserving, which is the thing his card says he fears more than Vaelorian."
+    },
+    {
+      "name": "The winter after the gorge",
+      "when": "New. After Vargrath's exile from Tol-Varath and his refusal in the gorge, and before Kaetra's dream-law fused into him, which his card places later. The Withering Era, which both cards give.",
+      "where": "A gorge below the Northroot holdings, in the Eladrin north of the elven old-ground, and the clans' forge-halls above it. No card places the gorge or Tol-Varath.",
+      "who": [
+        "vargrath-ul-dorr-iron-dawn",
+        "brynja-haldris-hammer-of-the-northroot"
+      ],
+      "what": "Vargrath had already refused to leave the thirty-eight when Brynja came down into the gorge. His card sets the day his Glory bloomed as the day he chose the gorge, and that day was his alone. She found an exile with draconic scars across his frame keeping thirty-eight dying elves alive in a cut of rock with the winter coming on. She stood in front of them as she stands in front of anything. The clans' forge-halls took them in for the winter. Vargrath came with them. When he left in the spring, the thirty-eight went with him. The clans did not follow. They fight for preservation and never for conquest, and they sent no one to the army the thirty-eight became. The cards do not say who the thirty-eight were or what brought them to the gorge, and this record does not either. What each took: Vargrath took a debt he owes, in a life that runs on debts owed to him: a winter's shelter from people who will never ask him to collect on it and will not march for his empire. Brynja took thirty-eight people she stood in front of for one winter, who went on to become an army she will not serve, and the sight of a stranger who had done without any vow what her vows make her do."
+    },
+    {
+      "name": "The grove at the barrow's edge",
+      "when": "New and undated. Inside Onawa's reign as her card gives it, after her mother's funeral, and after Elyndra fell silent in Saetsha's account, since the mark that drew Saetsha there is Elyndra's. It is dated against nothing in the Korvaeth record.",
+      "where": "The Tsohanto Reach (WORLD.md §3): a grove on grave-adjacent ground inside the mile of the Long Barrow Court.",
+      "who": [
+        "saetsha-bloomveil-the-pink-tempest",
+        "onawa-ashkewe"
+      ],
+      "what": "A grove at the barrow's edge was dying of blight, and Elyndra's mark drew Saetsha to it, as it draws her to dying ground whether she seeks it or not. She came into ground that held the stillness of a place already grieved for. The grove stood on Onawa's ground, and Onawa was there before her. In Onawa's presence the blight moved faster toward one of its two ends, clean healing or clean death. Saetsha declared an Edict of Growth in Elyndra's absent name. One tree took the Edict and lived. The rest of the grove finished dying cleanly, and Onawa let it. Neither asked the other to yield, and neither did. What each took: Saetsha took one living tree and a grove she could not keep, finished by a queen who carries that ending as mercy, which is the half of Elyndra's own edict Saetsha will not draw on. Onawa took a stranger's grief for an Archon who has gone silent and carried it past her own cost, as her card says she carries such things. She added no bead to her mourning cord for it. The cord holds resolved griefs."
+    },
+    {
+      "name": "The Long Night and the first Northroot forge",
+      "when": "The War of the Long Night, which Valthrum's card names and does not date, long before Brynja's life. The northern setting and the forge are new.",
+      "where": "Iampu and the Eladrin north of the elven old-ground (WORLD.md §3), where the Winter Court now licenses the frost-caves Valthrum's card ties to him.",
+      "who": [
+        "valthrum-the-cryon-king",
+        "brynja-haldris-hammer-of-the-northroot"
+      ],
+      "what": "Florwyn made Valthrum to protect a season, and in the War of the Long Night he refused to end it (his card). The winter he kept lay over the north. The Northroot clans did not leave it. They cut the first Northroot forge into the stone and kept it burning through the Long Night, and the clans' hearths have been lit from that forge since. The card records nothing of who fought whom in the war. No page ties the Long Night to the Ice-Voice Conflict, and this record does not either. What each took: Valthrum took his estrangement from the Titan who made him, which his card dates from that war, and a winter he would not end. The clans took their first forge. Brynja, long after, wears molten stone from it in the Oathband Necklace, and the vow-structure inside her Crystal is named for that necklace. She has never met Valthrum. She carries at her throat the heat her clans kept against his winter."
+    }
+  ],
+  "ties": [
+    {
+      "a": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "b": "thalyndros-aerenvael-the-canopy-wyrm",
+      "kind": "bonded",
+      "summary": "Root-node and mirror-body in the card's words; Thalyndros is anchored through Vaelorian's Crystal and carries him where a Domain must come down from the sky.",
+      "basis": "card"
+    },
+    {
+      "a": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "b": "drevath-mourne-kal-the-iron-horizon",
+      "kind": "rivals",
+      "summary": "Two answers to one question that cannot both be right; Drevath has put the audit to him, step aside and live to watch it, and has not enforced it.",
+      "basis": "card"
+    },
+    {
+      "a": "thalyndros-aerenvael-the-canopy-wyrm",
+      "b": "drevath-mourne-kal-the-iron-horizon",
+      "kind": "enemies",
+      "summary": "Drevath's taken ground stops the growth Thalyndros's breath needs, and Thalyndros held the line outside his boundary while Vaelorian walked in.",
+      "basis": "new"
+    },
+    {
+      "a": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "b": "saetsha-bloomveil-the-pink-tempest",
+      "kind": "bound to one Archon",
+      "summary": "He is called Elyndra's Paragon and she was Elyndra's herald, and her account says every Domain of Renewal went dark when Elyndra fell silent.",
+      "basis": "card"
+    },
+    {
+      "a": "thalyndros-aerenvael-the-canopy-wyrm",
+      "b": "valthrum-the-cryon-king",
+      "kind": "kin by making",
+      "summary": "Both were made by Florwyn; one is her proof made airborne, and the other refused her and has been estranged since the Long Night.",
+      "basis": "card"
+    },
+    {
+      "a": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "b": "valthrum-the-cryon-king",
+      "kind": "estranged through Florwyn",
+      "summary": "Her regent and the spirit who refused her; Valthrum stands neutral toward every other power.",
+      "basis": "card"
+    },
+    {
+      "a": "drevath-mourne-kal-the-iron-horizon",
+      "b": "brynja-haldris-hammer-of-the-northroot",
+      "kind": "opposed",
+      "summary": "He read her in front of a Northroot holding and did not take it; she stands for the preservation his card says he fears.",
+      "basis": "new"
+    },
+    {
+      "a": "vargrath-ul-dorr-iron-dawn",
+      "b": "brynja-haldris-hammer-of-the-northroot",
+      "kind": "debt",
+      "summary": "Her clans sheltered him and the thirty-eight through the winter after the gorge, and did not follow them to his army.",
+      "basis": "new"
+    },
+    {
+      "a": "saetsha-bloomveil-the-pink-tempest",
+      "b": "onawa-ashkewe",
+      "kind": "witnesses, opposed in doctrine",
+      "summary": "At a dying grove on the barrow's edge Saetsha saved one tree and Onawa let the rest finish, and each held a half of Elyndra's edict.",
+      "basis": "new"
+    },
+    {
+      "a": "valthrum-the-cryon-king",
+      "b": "brynja-haldris-hammer-of-the-northroot",
+      "kind": "legend and relic",
+      "summary": "Her necklace holds molten stone from the forge her clans lit against the winter he refused to end.",
+      "basis": "new"
+    }
+  ],
+  "outward": [
+    {
+      "slug": "vaelorian-theryn-aerethiel-the-last-elven-lord",
+      "wants": "Whoever cut the Branch of Rikudoku from the Great Spirit Tree, his conduit; a living piece of it walks the world in Kairen Moto's hand, and c05 points back at him."
+    },
+    {
+      "slug": "thalyndros-aerenvael-the-canopy-wyrm",
+      "wants": "Juna, the older dragon his card says he measured himself against, or any dragon of the natural lines who can smell the architect on him."
+    },
+    {
+      "slug": "drevath-mourne-kal-the-iron-horizon",
+      "wants": "The Accord officer who holds the file on him that only waits, or, if Isaac gives him a card, Senzu Tyurkia, who can still countermand him."
+    },
+    {
+      "slug": "saetsha-bloomveil-the-pink-tempest",
+      "wants": "A member of the Circle of Blooming Ash, Elyndra's followers on the Archons' page, who does not hear the silence she hears."
+    },
+    {
+      "slug": "valthrum-the-cryon-king",
+      "wants": "The Winter Court officer who licenses the Glacium frost-caves at a remove from him; the Korvaeth record names Queen Seralyth and her envoy Loreth Ann."
+    },
+    {
+      "slug": "vargrath-ul-dorr-iron-dawn",
+      "wants": "An Ironblood elder whose scars carry the Siege of Four Suns, the first of the debts he means the Realms to acknowledge."
+    },
+    {
+      "slug": "onawa-ashkewe",
+      "wants": "A sovereign to stand as her peer-witness, the Axis her card leaves unassigned and latent; she has no Accord standing, so the witness has to be another crown."
+    },
+    {
+      "slug": "brynja-haldris-hammer-of-the-northroot",
+      "wants": "Someone with the standing to ask her to break her oath: a Northroot clan elder, or whichever Seasonal Court of Iampu holds the Crown that season."
+    }
+  ],
+  "same_person": [],
+  "card_contradictions": [
+    "Arboreum Primordis. Vaelorian's card: \"Chthonica · Materia. (replacing the invented \"Arboreum Primordis\")\". Thalyndros's card keeps it throughout: \"drawing too hard on Arboreum Primordis through Vaelorian\", \"Network · Arboreum Primordis splinters\", and his shed armour is \"Infused by Arboreum Primordis\".",
+    "Vaelorian's Domain. Thalyndros's card: \"His stabilizing where Vaelorian's own Domain is still only a proto-core is exactly what a lesser, test-flight Aspect is for.\" Vaelorian's card: \"Throne-of-Everfall; his Domain, currently expressed as a darker, more vertical forest\", and his Catalyst reads \"Full World Spirit.\"",
+    "Whether Eresse stands. Thalyndros's card makes him \"Eresse's sky-arm\", deployed \"to escort envoys\" and landing on diplomats' \"sky-docks\". Vaelorian's card: \"a crown with no kingdom left to crown\". Drevath: \"I am not here to mourn what Eresse was.\" RULINGS.md (2026-09-12) makes the Korvaeth arc Eresse's present, with the polity standing under a regency.",
+    "Tempestaris, replaced twice. Vaelorian's card: \"Cymorath · Fulguria. (replacing the unattested \"Tempestaris\")\". Thalyndros's card: \"Sublimare · Vectoria.\" and \"Replacing \"Tempestaris,\" which is not among the sixty\". The two bonded cards replace one struck name with two different Wellsprings.",
+    "The Great Spirit War. Vaelorian's card: \"Every Great Spirit War engagement he has survived in his current shape has tightened the same metaphor\", and he is \"recorded in Accord lexicons\". The High Empire of Eresse.md: \"First Eon, Great Spirit War Era\". WORLD.md §1 already carries the war as having no place on the count. Read together, a living rival of the Accord's present fought in a First Eon war, and his card does not say he spans eras.",
+    "Paragon of Elyndra. Vaelorian's card calls him \"Paragon of Elyndra\". Saetsha's: \"Elyndra went silent, and every Domain of Renewal fell dark with her, in every account Saetsha has.\" The Fractured Dawn's Paragon of Elyndra is \"A Verdant Covenant elder (unattested) crystallising into something eternal and immobile\", and that card says each Paragon \"still needs its own full character card\".",
+    "Thalyndros's name. His card: \"Gloss rights · Never.\" and \"Draconic and Old Parunic are scholarly labels for what he is, not a name he answers to being called\", and he is \"Not a natural dragon but a purpose-bred sky-branch\". scenes/the_inhale_register.md gives him as a dragon's own three-part name, \"Three parts: the sound at hatching, the deed, the holding.\" and \"Thalyndros the Root-Wreathed Sky.\", and says the form is \"Built on the attested forms already in the Bestiary\", where no Bestiary page carries it.",
+    "The Empire of Bluvest. Drevath's card: \"What nobody knows. Why the Empire of Bluvest let him leave.\" Adalric Vladimer Valen's card carries the same sentence word for word. Vaerath Ashveil's card calls that empire \"struck; card gives no such empire in current canon\".",
+    "Drevath's schism and his Stillness. His card: \"diverged from the Eressean line during a northern schism the card calls the Harmonial Recession\" and \"reshaped by the Archonic Principle of Stillness\". The Elven Peoples.md has the Eladrin carry \"Order-as-Devotion into the harshest northern theater\" of the Great Spirit War and names no schism. None of the Fourteen Archons holds stillness: Wyther holds \"Flux, freedom from stasis\", and stasis sits with the Titan Vohrin.",
+    "The Onawa collision. Her card: \"Unaffiliated with Eresse or the Varrisak courts\". scenes/01_the_vacancy_korvaeth_arc.md: \"Onawa, Empress of Eresse\" and \"no Onawa Ashkewe.\" The State of Play: \"The Onawa collision: two women, or one and the Tsohanto card gets rewritten.\" WORLD.md §3 lists \"Onawa Ashkewe (SP-K)\" among struck names, while the State of Play strikes her from the Korvaeth arc only: \"are all struck from this arc and must not be propagated.\" scenes/00_SUPERSEDED_wrong_names.md kills her at Greysalt, and that pass is struck.",
+    "The Tsohanto Reach's age. The Eastern Rise page puts the Reach on the arc. It lists it on \"The young volcanic ground the Guild Accord chartered from nothing within living memory\", and rules that \"The Accord's doctrine that the New World was chartered from nothing, with no older law to displace, is true of the arc and of the arc alone.\" Onawa's card gives the Reach \"a hidden forest-and-barrow culture\", a mask \"her mother wore before her\", and \"Every prior wearer of the mask\". The Elven Peoples.md counts five branches, \"Five Theologies of a Single Song\", and the Tsohanto are not among them.",
+    "Eladrin and fire. The Elven Peoples.md says of the Eladrin that they \"cannot wield fire or passion-aligned glyphs.\" Brynja's card makes her a \"Forge-Keeper\" whose Fixatio is \"The Binding Flame\", and Drevath resolves himself nightly \"through the Rite of Stillborn Flame\".",
+    "The Glacium caves. Valthrum's card: \"The Winter Court · Licenses the frost-caves where Glacium grows, at a professional remove from him personally.\" The Material Index for tiers five to nine: \"The Court's position is that the caves are naturally cold.\""
+  ]
+}

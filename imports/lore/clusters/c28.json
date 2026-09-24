@@ -1,0 +1,169 @@
+{
+ "id": "c28",
+ "name": "Those who write mercy in ash",
+ "era_span": "The shared events fall in the Withering Era, with no year. Francis's and Kaelan's cards state it; Aeldoris's says \"War of the Realms\", which Francis's card joins to it (\"Withering Era, into the War of the Realms\"); Velastra's and Seraphion's cards state none, and this record sets them in it beside the others. Aelum's card says the Voyager Era, so he meets nobody here. He is joined to the rest through the Choir, a current and a legend. The rite at Ordas comes before the petition at Halcrest; the hearing at Altherion is unfixed against both. Everyone lives one life in one era. No event tests Francis's Paradox Stasis, which \"Nobody has yet tested\". Kaelan's parents stay unnamed. No event brings him near anyone whose presence surfaces forgotten memory, no Phantasm Court is convened on him, and none raises a dream-self that loves Aeldoris. Velastra's patron stays nameless. The epithet's first owner stays unruled, Seraphion's Chosen stay undefined, and the Arbiter's Descent stays unplayed.",
+ "members": [
+  {
+   "slug": "francis-alexander-the-crimson-dirge-of-atonement",
+   "line": "Severed Celestial of the Highspire Choir, apostate Verdict-Bearer and would-be usurper of the thirteenth seat, Sung at Highspire to fill an unspoken Verdict and self-anchored since; he defied Urion at the Irath Concord, carries Judicium, Exuroth and Catharsis and the Crimson Codex, and works in the Withering Era, into the War of the Realms, from the Soul Plane side of the Veil."
+  },
+  {
+   "slug": "kaelan-vorn-the-axiomatic-sovereign",
+   "line": "Conceptual executioner of the Withering Era, commoner-raised and Accord-academy-schooled, nominally of the Edict of Urion and functionally independent; his Silent Edict stills time, heat, decay and magic in a small loop anchored on Atla'zon, his card seals him as Archon-Touched without his knowing, and the Vantabriel Severing and the Manganthra Stasis are on his record."
+  },
+  {
+   "slug": "aeldoris-vanthryx-the-ruthless",
+   "line": "Independent dream-law hunter of the War of the Realms, a Veyran human changed by deep Oneirion exposure, who left Guild Accord Enforcement to take only cases of self-deception or corrupted conscience; his Phantasm Court raises a guilty target's dream-self, and the seven judges of the Broken Tribunal killed their own dream-selves while he did not lift a hand."
+  },
+  {
+   "slug": "aelum-the-pale-hierophant",
+   "line": "The Pale Hierophant of the Voyager Era, Keeper of the Silver Vow and presiding Oath-Warden of the Court of Veils, Sung by and answerable only to the Choir, networked to Nysera, the Dreaming Veil; he held a corrupt emperor's crown in stasis for a hundred years, and his card gives him no Race."
+  },
+  {
+   "slug": "velastra-nirellium-the-severed-saint",
+   "line": "The Severed Saint, former Adjudicator of the Celestial Concord and now of the Severance Concord that enforces the Law of Irrevocables; she carries Veyrinhal, the Oath-Eater, cannot lie, breaks chanted spells and resurrection rites by her presence, and no one remembers whom she served. Era unstated."
+  },
+  {
+   "slug": "seraphion-veydrak-the-chain-halo",
+   "line": "The Chain-Halo, Oathkeeper Inquisitor of the Guild Accord's Arbitration Division, Judgment Order, formerly High Sentinel of a struck Holy See; bound on pain of death by three vows his card says cannot all hold, he raises a halo of chained glyphs in which no one can lie, flee or resist sentence. Era unstated."
+  }
+ ],
+ "events": [
+  {
+   "name": "The hearing at Altherion",
+   "when": "The Withering Era. After Aeldoris had left Enforcement, and after the seven judges his card calls the Broken Tribunal had killed their own dream-selves. Unfixed against the rite at Ordas.",
+   "where": "Altherion, the republic on the Ring's rim (WORLD §3 and §5). The Stannvaard page: \"Enforcement maintains a permanent legation at Altherion\", and Guild Law there is \"enforced by arbitration tribunals whose appeals process is slow, thorough, and famously humourless\".",
+   "who": [
+    "aeldoris-vanthryx-the-ruthless",
+    "seraphion-veydrak-the-chain-halo"
+   ],
+   "what": "Arbitration took up the matter of the seven judges, and the Judgment Order sent Seraphion Veydrak to hear it. The hearing sat in Altherion, the city where Aeldoris had served with the Enforcement legation before he left it. Aeldoris came when he was called. Seraphion raised the Chain-Halo behind him before he asked anything. The clerks at the table nodded over their pages while the hunter sat before them, and the scribe's pen stopped in the middle of a line. Seraphion asked whether he had struck any of the seven. Aeldoris said he had not lifted a hand. The halo held. Seraphion asked what had broken them, and Aeldoris said they had killed their own dream-selves. He said nothing of himself past what the questions asked. Seraphion found no act of the hunter's hand in the matter and entered no sentence. Aeldoris went out into the city before evening. Took: Seraphion: a finding entered with no sentence, and the hunter's own words on the Judgment Order's record, spoken inside the halo. Aeldoris: his answer on the record of the Accord he had left, and nothing said of himself past it; the legation's city, walked into once more and out again."
+  },
+  {
+   "name": "The rite at Ordas",
+   "when": "The Withering Era, soon after the Vantabriel Severing, which Kaelan's card enters as an incident on record. After Velastra had severed her oaths and taken up the Oath-Eater. Before the petition at Halcrest.",
+   "where": "Ordas, among the Kingdoms of the Five Rivers (WORLD §3; the Southern Pan page: \"Ordas, small and wealthy, silver financing professional armies\"). No card places the Aetheric Nobility; this record puts one elder's house here and goes no further.",
+   "who": [
+    "kaelan-vorn-the-axiomatic-sovereign",
+    "velastra-nirellium-the-severed-saint",
+    "seraphion-veydrak-the-chain-halo"
+   ],
+   "what": "Seraphion had heard a case against an elder of the Archon-Touched and condemned the elder, and the house kept its elder behind its own doors. The sentence stood unexecuted. Kaelan Vorn held no commission from the Accord and asked for none. He came to Ordas and executed the elder with one strike that severed the Ascensio link. Then he was gone. The house laid the elder on a bier in its courtyard and began a raising. Seraphion came to keep the sentence he had passed. He raised the Chain-Halo over the courtyard and bound the officiants where they stood. Velastra Nirellium came up the road on foot, and she had been walking since long before the town came in sight. The house's people drew back from her path. The chant broke off as she neared the bier, and the rite came apart. At the bier she struck once with Veyrinhal, the Final Severance of that cycle. The same stroke loosened the chained glyphs that held the officiants, and some of them got free before Seraphion raised the ring again. When the courtyard was quiet, she asked him whether he wanted his three vows cut. He said no. She went back to the road. Took: Kaelan: an execution that stayed done, closed by a stroke he never saw, and a house that went looking for a hunter to set on him. He had gone before the rite began, and no card says what he learned of it. Seraphion: his sentence carried out by a man with no commission and closed by a woman the Accord had not sent; the halo raised twice over the same officiants; his three vows, kept by his own answer. Velastra: the cycle's Final Severance, spent on the elder; the loosened halo, one more thing her stroke parted without her aiming at it; his answer."
+  },
+  {
+   "name": "The petition at Halcrest",
+   "when": "The Withering Era, after the rite at Ordas.",
+   "where": "Halcrest, the gate city of Nalūn (WORLD §5; the Nalūn page: \"Customs house, immigration point, quarantine station.\" and \"Population transient by nature\").",
+   "who": [
+    "kaelan-vorn-the-axiomatic-sovereign",
+    "aeldoris-vanthryx-the-ruthless"
+   ],
+   "what": "The elder's house sent an envoy north to find a hunter. He found Aeldoris Vanthryx at Halcrest among the travellers waiting on the customs house, named the executioner as Kaelan Vorn, and asked the hunter to convene the Phantasm Court on him. Aeldoris asked what the executioner had hidden. The envoy said the strike had been made in the open, and that Kaelan had never denied it. Aeldoris declined the case. By then the men on the benches nearest them had begun to nod, and a customs clerk slept at his desk. The envoy took the south road that evening. Took: Aeldoris: the executioner's name, and a case he would not take. His card's Limit reads \"The target must be guilty of something they know and have not admitted\". The strike at Ordas had been made in the open. Kaelan: nothing he learned of. The house's want stands."
+  }
+ ],
+ "ties": [
+  {
+   "a": "francis-alexander-the-crimson-dirge-of-atonement",
+   "b": "kaelan-vorn-the-axiomatic-sovereign",
+   "kind": "one epithet; Urion's defier and Urion's nominal servant",
+   "summary": "Both cards carry He Who Writes Mercy in Ash, unruled. Francis defied Urion at the Irath Concord; Kaelan serves the Edict of Urion in name and holds Cosmic Law above any Archon. No record puts them in one place.",
+   "basis": "card"
+  },
+  {
+   "a": "francis-alexander-the-crimson-dirge-of-atonement",
+   "b": "aeldoris-vanthryx-the-ruthless",
+   "kind": "one epithet; the counter his card names",
+   "summary": "Both carry the epithet. Francis's card names \"an Oneirion or Kaetra-aligned working\" as a counter to the Dirge, and Oneirion governs Aeldoris; the Falseface page names Catharsis, which Francis carries, as counterplay to Aeldoris. No record puts them in one place.",
+   "basis": "card"
+  },
+  {
+   "a": "francis-alexander-the-crimson-dirge-of-atonement",
+   "b": "aelum-the-pale-hierophant",
+   "kind": "one Host, two eras",
+   "summary": "Both were Sung. Francis is Highspire's apostate (\"The Choir does not speak of him in official capacity\"); Aelum answers to the Choir alone. They connect through the order and never meet.",
+   "basis": "card"
+  },
+  {
+   "a": "kaelan-vorn-the-axiomatic-sovereign",
+   "b": "aeldoris-vanthryx-the-ruthless",
+   "kind": "one epithet; a case declined",
+   "summary": "Both carry the epithet. At Halcrest the Archon-Touched house asked Aeldoris to convene his Court on Kaelan, and he declined because the strike had been made in the open. Kaelan has never met him.",
+   "basis": "card"
+  },
+  {
+   "a": "kaelan-vorn-the-axiomatic-sovereign",
+   "b": "seraphion-veydrak-the-chain-halo",
+   "kind": "the sentence and the strike",
+   "summary": "Seraphion condemned the Archon-Touched elder; Kaelan, with no commission, executed the elder at Ordas. Both carry Judicium and Fixatio, a chain and a gauntlet.",
+   "basis": "new"
+  },
+  {
+   "a": "kaelan-vorn-the-axiomatic-sovereign",
+   "b": "velastra-nirellium-the-severed-saint",
+   "kind": "one execution, made final",
+   "summary": "Kaelan's strike killed the elder at Ordas; Velastra walked through the raising over the body and struck the Final Severance at the bier. He had gone before she came.",
+   "basis": "new"
+  },
+  {
+   "a": "seraphion-veydrak-the-chain-halo",
+   "b": "velastra-nirellium-the-severed-saint",
+   "kind": "oath-keeper and oath-eater",
+   "summary": "At Ordas her stroke loosened his halo while it held the officiants; afterward she asked whether he wanted his three vows cut, and he said no.",
+   "basis": "new"
+  },
+  {
+   "a": "seraphion-veydrak-the-chain-halo",
+   "b": "aeldoris-vanthryx-the-ruthless",
+   "kind": "judge and judged, with no sentence",
+   "summary": "At Altherion Seraphion heard him inside the halo on the seven judges of the Broken Tribunal, found no act of his hand, and entered no sentence.",
+   "basis": "new"
+  },
+  {
+   "a": "aelum-the-pale-hierophant",
+   "b": "kaelan-vorn-the-axiomatic-sovereign",
+   "kind": "a legend, never met",
+   "summary": "Kaelan knows the Hierophant's century from his Accord-chartered academy: a corrupt emperor's crown held in stasis for a hundred years. Both hold things still, and they never meet.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "francis-alexander-the-crimson-dirge-of-atonement",
+   "wants": "the Highspire officer who could speak of him in official capacity. Kaethren Vareth, the Last Gavel, \"the most senior surviving Highspire officer\" (The Celestial Host page); no card."
+  },
+  {
+   "slug": "kaelan-vorn-the-axiomatic-sovereign",
+   "wants": "the Sanctum Lux officer his card says \"would tell him Urion does not give\": a Lector, the grade the Sanctum Lux page calls \"The first grade permitted to say what something means\". No card fills it yet."
+  },
+  {
+   "slug": "aeldoris-vanthryx-the-ruthless",
+   "wants": "a fellow Veyran in dream-work. Liorien Nael-Teth, Sleepless Quill (c37), is a \"Veyran human\" whose Oneirion runs his \"dream-journaling discipline\". Neither card names the other."
+  },
+  {
+   "slug": "aelum-the-pale-hierophant",
+   "wants": "an officer of the Choir that Sang him, the one authority he answers to, of his own era. His card leaves the Choir unnamed, so the Weaver needs the office."
+  },
+  {
+   "slug": "velastra-nirellium-the-severed-saint",
+   "wants": "the Engraver her card names as her counter, \"working in advance, from outside the radius\". The c23 record asks the same office for Graelith."
+  },
+  {
+   "slug": "seraphion-veydrak-the-chain-halo",
+   "wants": "his seminary-mate. Riven Eltamyr Vonnel (c08), with whom he came \"out of the same seminary\". The c08 record asks the same tie from Riven's side. The c10 record names him as the inquisitor on Raivhar's trail."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "One epithet, three cards. Francis: \"Epithet · He Who Writes Mercy in Ash\" (Francis, I). Kaelan: \"Epithet · He Who Writes Mercy in Ash\" (Kaelan, I). Aeldoris: \"He Who Writes Mercy in Ash. See migration note; shared, unruled\" (Aeldoris, I). The card's text carries no migration note, and no other page read for this record gives one. Outside the cluster, Riven's card carries \"He Who Cuts Mercy Into Petals\" (`Riven Eltamyr Vonnel · The Glaive.md`, I).",
+  "Fate Path in a being the Choir Sang. Francis: \"No Choir carries Fate Path at any weight, because a Celestial's Crystal is anchored to somebody else's Throne. His opened when the anchor was cut. It is the one thing about him the Host's registers cannot explain\" (Francis, II). Aelum's card gives no Race. It reads \"Path · Spirit dominant, Fate secondary\" (Aelum, IV), beside \"The Choir · The body that Sang him\" (IX). The Celestial Host page: \"No Choir carries Fate Path at any weight, and the omission is structural\".",
+  "Sung, or raised. Aelum: \"The body that Sang him\" (IX) and \"Why the Empire that raised him let a Hierophant who once held its crown hostage for a century keep his seat afterward instead of striking him down\" (VIII). The Celestial Host page: \"There is no Celestial childhood, no family line\". Whether \"raised\" means reared or elevated is not ruled.",
+  "A Domain held in the Choir's service. The Celestial Host page: \"A Celestial who severs enough of that dependency to manifest a true personal Domain, while remaining nominally in service, earns the Grand Angel designation\". Aelum: \"a fifty-metre Domain he can extend or collapse at will\" (II) and \"Answerable to the Choir\" (I). His card gives him no Grand Angel title.",
+  "Aelum's century against his era. \"He held a corrupt emperor's crown in stasis for a hundred years\" in \"the Voyager Era\" (Aelum, I). WORLD.md §1, from the Concordance of Ages: the Voyager Era runs \"000 to 070 IC\".",
+  "What Severance leaves of a Celestial. Francis: \"Severed from the Throne-network and self-anchored since\" (Francis, I), alive and active. The Celestial Host page, of Severance: \"No afterlife, no reincarnation path, no recorded exception\", and \"Most Celestials live and are Severed still being, functionally, the thing they were Sung to be and nothing else\". The Celestial Host naming page, of the Lawbell-name: \"Permanent; losing it is the Severance\".",
+  "Francis's missing flag. \"The card names four mortal Wellsprings as remaining targets; see the arithmetic flag above\" (Francis, III). No flag stands above it on the card. The card's \"Fifty-seven Wellsprings under partial siphon\" (II), with four remaining, passes the Sixty.",
+  "Veyran. Aeldoris: \"Veyran is unattested; see the migration note\" (Aeldoris, I). The Southern Pan page: \"The Kingdom of Veyran, a horse-and-grain monarchy, exists by treaty guarantee because the empire values what it grows\". WORLD.md §3 lists Veyran; c19 records the same for Rafik and Ravenn.",
+  "Aeldoris, he or she. His card uses \"he\" throughout: \"He accepts only cases involving self-deception or corrupted conscience\" (Aeldoris, I). `Techniques/Oblivion-Step.md`: \"lets her own Crystal drop toward sleep on command\" and \"the line she is said to have coined for it\". `Techniques/Hypnather Descent Rite.md`: \"That Aeldoris carries no character card in current canon is noted above\", against the card that now stands.",
+  "Seraphion's see. Head note: \"He is formerly High Sentinel of the Holy See of Lurien.\" and \"One re-homing ruling to the Holy Sea of Alabaster settles all five\"; Affiliation: \"Formerly High Sentinel of the Holy See\" (Seraphion). WORLD.md §3 strikes the Holy See of Lurien. `RULINGS.md`, 2026-09-12: \"The Holy Sea of Alabaster inherits the Holy See of Lurien's old jurisdiction over southern phosphate law, along with everything else it replaced\". Whether that sentence re-homes a person's service or seminary is not ruled (c08, c12, c15 record the same). No event here places his see.",
+  "Card against wiki: the Accord's sentence. The Articles page: \"The Accord's real sanction is exclusion\". Seraphion's card sets him in the \"Arbitration Division, Judgment Order.\", sworn \"No Mercy for the Condemned\", with a halo that is \"both spiritual anchor and execution device\" (Seraphion, I and VI)."
+ ]
+}

@@ -1,0 +1,187 @@
+{
+ "id": "c16",
+ "name": "Anvil and relic",
+ "era_span": "The Withering Era, with no year number. Kaelzar's card states it (\"Withering Era, Imperial Age\"), and Gorvan's gives the superseded \"Withering Age\" (WORLD §1). The other five state no era. Three cards give a span of years: Orokh has \"a century at an anvil\", Gorvan \"a four-hundred-year career\", and Mavra is twenty-seven. This record sets the shared events inside Orokh's century, the last of them inside Ymir's apprenticeship.",
+ "members": [
+  {
+   "slug": "orokh-sable-forge-the-wyrmwright",
+   "line": "Giant-kin out of Braqth, the blind blacksmith of fallen dragons who forges without fire and takes material and story in payment; contracted quietly by the Accord for containment hardware, bargained with by the Black Concord, a century at his anvil."
+  },
+  {
+   "slug": "mavra-cindrel-the-golden-engine",
+   "line": "Twenty-seven, Felkin, of Orrengar in the Old World; a Liveryman-grade Vanguard Relicsmith of the Titanwrights whose rebellion machines haunt her Accord work, who wears her dead mentor's broken Runeglass pendant and has never asked what her Heart-Drive Core does."
+  },
+  {
+   "slug": "kaelzar-the-forge-that-roars",
+   "line": "The Echo Reincarnate of Maximus, Titan-Smith of Aegor's Forge: a leonine giant held by the Wellspring Containment Registry under a containment oath in the Atlas Deep Mantle, veteran of the Atlas Mantle War, the Ardent Siege and the Echo Containment Breach, who has not faced Maximus's memory."
+  },
+  {
+   "slug": "gorvan-aldric-voss-the-maw-that-held",
+   "line": "High Dawi of Varūn descent and a Rune-Forger lineage, four centuries a wall; lapsed from the Iron Accord after the Temple Rift broke the Deepkin trust, wearing the Rift's two Construct heads as pauldrons and the Iron Accord's death-mask crest because he won it."
+  },
+  {
+   "slug": "draen-varos-the-red-forge-sentinel",
+   "line": "A conscript smith out of Eresse's smelting districts who rose by attrition to the field armory of a Deep Mantle Bastion under Kaelzar; his Crystal holds Atlas Mantle slag, and his axe of failed Titan armor began as a mistake that got a soldier killed."
+  },
+  {
+   "slug": "ymir-rhok-the-emberhand",
+   "line": "Borin Ironheart's apprentice and an Accord armorer-in-training at the Forgeworks Annex, who heated metal with his hand on purpose one afternoon and whom Borin scolds for experimenting too far from tradition."
+  },
+  {
+   "slug": "garron-vuldane-warden-of-thaumar",
+   "line": "Master Alchemist, Siegewright and Warden of the Grand Forges for the Alchemists' Society at Stannvaard, who carries a Forge-Wellspring in his body, raised Harn and Vyr as companions, means to reforge what the Titans left, and lost his left arm to a Forge collapse."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Jaws fitted",
+   "when": "After the Temple Rift Crisis, once Gorvan had left the Iron Accord, inside Orokh's century at the anvil. No card gives it an era. The Dawi Peoples page dates the Rift otherwise (section 7).",
+   "where": "Orokh's cave mouth on the outer face of the Ring, above the Rimlands of Stannvaard (WORLD §5).",
+   "who": [
+    "gorvan-aldric-voss-the-maw-that-held",
+    "orokh-sable-forge-the-wyrmwright"
+   ],
+   "what": "Gorvan came to the cave mouth with the heads of the two Construct-class entities he had killed in the Temple Rift. He had carried them a long time. Orokh does not work fresh kill. Gorvan had waited until the heads had had time to forget, and Orokh read them by their heat and fitted them to his shoulders as pauldrons. For armour the price is a name. Gorvan named something he fears and will not admit, and what he named is in the pauldrons and in no record. During the fitting he felt, for the first time, the current that seeks him through the objects he touches long enough. He entered the price as paid. The heads kept an echo of what they had been, and Aether-sensitive opponents have felt a faint predatory awareness off his shoulders ever since. He calls it good hardware. What each took. Gorvan: the beast-jaw pauldrons, the Jaws That Watch, and the first touch of the current that seeks him through what he holds. Orokh: a fear Gorvan named at his anvil, kept in the metal and nowhere else."
+  },
+  {
+   "name": "The slag of the Atlas Mantle",
+   "when": "The Withering Era, after the Atlas Mantle War on Kaelzar's card, when the Accord raised the Bastion Kaelzar commands. His card dates the war VE 913. No corrected count supports the date, and this record gives it no year.",
+   "where": "The Atlas Deep Mantle, where Kaelzar's card stations him and Draen's card sets \"a Deep Mantle Bastion\". WORLD places neither, and this record does not place them. Draen came to it from the smelting districts of Eresse, in the Grand Principality on the elven old-ground of the New World (WORLD §3).",
+   "who": [
+    "kaelzar-the-forge-that-roars",
+    "draen-varos-the-red-forge-sentinel"
+   ],
+   "what": "Kaelzar closed the volcanic breach by bringing a mountain range down on it, and the fall left a field of slag and broken plate in the Mantle. The Accord raised a Bastion beside the fallen range and put Kaelzar over it. The Vanguard Bastion Unit sent conscript smiths down to work what the collapse had left, and Draen Varos was one of them. He worked the slag for the Bastion's armory. The tempered slag of the Mantle is in his Crystal now. Among the salvage lay Titan armor that had failed where it lay. Draen forged a two-headed axe from it. The axe failed on the line, and a soldier died of the failure. The death was entered on the Bastion's roll, and the soldier is sung at the solstice with the Accord's other dead in service. Draen did not melt the axe down. He put it back on the anvil and kept forging on it. He rose in the armory the way the Bastion Unit rises, by attrition, and the axe stayed on his anvil the whole way up. Kaelzar left the field armory in his hands. What each took. Kaelzar: a Bastion on the ground he had brought down, and at its armory a smith who went on forging the thing that had failed. Draen: the slag in his Crystal, an axe begun from failed Titan armor and a soldier's death, and the armory he has kept under Kaelzar since."
+  },
+  {
+   "name": "The collapse at the test forge",
+   "when": "The Withering Era, in Mavra Cindrel's years with the Titanwrights after the Orrengar rebellion. Mavra is twenty-seven on her card. The collapse falls inside those years, when Garron was already warden of the Grand Forges and Harn and Vyr were already his.",
+   "where": "A test forge of the Grand Forges in the Upper Ring of Stannvaard, the extraction cities on the crater walls (WORLD §5; the Stannvaard page: \"Production facilities first and settlements second\"). Garron's card seats him at Stannvaard, no page places the Grand Forges, and this record sets this forge in the Upper Ring. Afterwards, Orokh's cave mouth above the Rimlands.",
+   "who": [
+    "garron-vuldane-warden-of-thaumar",
+    "mavra-cindrel-the-golden-engine",
+    "orokh-sable-forge-the-wyrmwright"
+   ],
+   "what": "The Titanwrights brought Mavra's armour and weapon to the Grand Forges for field tests on live Wellspring heat. She ran her soul through them as conduits, test after test, under Garron's wardenship, and her mentor stood the tests with her. On the last of them the test forge collapsed. Garron went in under it. Harn and Vyr took the fall on their plating, and Garron held the roof off the test floor while the crew got out. Mavra came out through direct contact with the unstable Wellsprings the collapse had loosed, her armour and weapon still carrying her. She has had a Crystal that syncs to conductive alloys on contact ever since. Her mentor did not come out. The Runeglass pendant did, broken. The collapse took Garron's left arm. Afterwards he went out of the Ring to Orokh's cave mouth. Orokh does not work fresh kill, and the rib he laid on the Ash-Anvil came from a dragon long dead. His payment is always material and story. Garron brought Aethersteel for the material, and for the story he told the collapse. Orokh tapped along the rib until the marrow remembered flight and drew it into the core of an arm. Garron laid the Aethersteel over it himself at Stannvaard. What each took. Garron: an arm of dragonbone and Aethersteel, and a crew that came out from under him. Mavra: the Crystal that syncs to alloys, the broken pendant she wears, and her life, which came out from under the arm the forge took. Orokh: the story of the collapse, which is in the arm and in nobody's file."
+  },
+  {
+   "name": "The seals for the Deep Mantle",
+   "when": "The Withering Era, after the Echo Containment Breach on Kaelzar's card and inside Ymir Rhok's apprenticeship. Draen already had the Bastion's field armory.",
+   "where": "The Bastion in the Atlas Deep Mantle that Kaelzar commands, the cards' ground, which WORLD does not place and this record does not either; this record sets the Echo Containment Breach there. Orokh's cave mouth on the outer face of the Ring above the Rimlands of Stannvaard (WORLD §5).",
+   "who": [
+    "kaelzar-the-forge-that-roars",
+    "orokh-sable-forge-the-wyrmwright",
+    "draen-varos-the-red-forge-sentinel",
+    "ymir-rhok-the-emberhand"
+   ],
+   "what": "The breach broke the containment seals in the Deep Mantle, and Kaelzar held it and took the fracture he has carried since. The Accord let the new seals to Orokh under its quiet contract. Orokh came down into the Mantle to read the broken plates. He laid his hands on them, read the heat and rhythm left in them, and gave what he read to nobody. His price for a lock is a secret, and Kaelzar paid it. He told it to the smith alone, in the Bastion's armory, and nobody else heard it. While Orokh was in the armory he asked to lay a hand on the Axe of Tempered Remorse. Draen did not unsling it. Orokh forged the plates at his cave mouth in the cold, lifted each into the winter air and let his breath fall over it until the glow sank inward and set. The brackets that would hold them came from the Forgeworks Annex, and they were Ymir's work, plain ironwork to his master's standard. Ymir went up to the cave mouth for the plates. Orokh put them into his hands himself. The apprentice saw a workpiece take its heat under a hammer with no coal in the forge. Ymir brought plates and brackets down into the Mantle under Logistics and Supply and fitted them in the Bastion under Draen. Draen proofed every bracket before a plate went on it. He struck the Accord's proof-mark into the ones that passed. When a bolt would not seat, Ymir heated it with his bare hand and seated it. Draen made him strip it and proof it again. While the fitting lasted, Draen kept him on the armory floor with the Body Path initiates and put him through their drills. Kaelzar stood in the hold while the last plate went onto the apprentice's brackets. What each took. Kaelzar: seals on the Mantle's containment, paid for with a secret of his own. Orokh: Kaelzar's secret, which is in the plates and nowhere else, and what the broken seals told him, which he kept. Draen: an apprentice's brackets proofed and passed, and the axe still unread by any hand but his. Ymir: brackets of his own making holding the Deep Mantle's seals, a bolt proofed twice, the Bastion's drills, and the sight of a master's workpiece taking heat with no coal."
+  }
+ ],
+ "ties": [
+  {
+   "a": "kaelzar-the-forge-that-roars",
+   "b": "draen-varos-the-red-forge-sentinel",
+   "kind": "commander and officer",
+   "summary": "Draen's card makes Kaelzar his commanding officer at the Deep Mantle Bastion; the slag in Draen's Crystal and the plate of his axe came out of Kaelzar's fallen range.",
+   "basis": "card"
+  },
+  {
+   "a": "garron-vuldane-warden-of-thaumar",
+   "b": "mavra-cindrel-the-golden-engine",
+   "kind": "debt",
+   "summary": "He held the falling test forge off the floor until the crew was out; she came out, her mentor did not, and the forge took his arm.",
+   "basis": "new"
+  },
+  {
+   "a": "garron-vuldane-warden-of-thaumar",
+   "b": "orokh-sable-forge-the-wyrmwright",
+   "kind": "maker and client",
+   "summary": "Orokh drew the dragonbone core of Garron's arm from a long-dead rib; Garron paid in Aethersteel and in the story of the collapse.",
+   "basis": "new"
+  },
+  {
+   "a": "gorvan-aldric-voss-the-maw-that-held",
+   "b": "orokh-sable-forge-the-wyrmwright",
+   "kind": "maker and client",
+   "summary": "Orokh fitted the Rift's two Construct heads to Gorvan's shoulders for the price of a fear Gorvan named at his anvil.",
+   "basis": "new"
+  },
+  {
+   "a": "orokh-sable-forge-the-wyrmwright",
+   "b": "kaelzar-the-forge-that-roars",
+   "kind": "maker and payer",
+   "summary": "Kaelzar paid the price of the Deep Mantle's new seals with a secret of his own, and only Orokh heard it.",
+   "basis": "new"
+  },
+  {
+   "a": "orokh-sable-forge-the-wyrmwright",
+   "b": "draen-varos-the-red-forge-sentinel",
+   "kind": "witness",
+   "summary": "In the Bastion's armory the Wyrmwright asked to lay a hand on the Axe of Tempered Remorse, and Draen did not unsling it.",
+   "basis": "new"
+  },
+  {
+   "a": "draen-varos-the-red-forge-sentinel",
+   "b": "ymir-rhok-the-emberhand",
+   "kind": "teacher and student",
+   "summary": "Draen proofed the apprentice's brackets, sent a hand-heated bolt back to be proofed again, and drilled him with the Body Path initiates while the fitting lasted.",
+   "basis": "new"
+  },
+  {
+   "a": "orokh-sable-forge-the-wyrmwright",
+   "b": "ymir-rhok-the-emberhand",
+   "kind": "elder and beginner",
+   "summary": "Ymir's card calls him what Orokh looked like at the start; Orokh put the Deep Mantle's plates into the apprentice's hands himself.",
+   "basis": "new"
+  },
+  {
+   "a": "kaelzar-the-forge-that-roars",
+   "b": "ymir-rhok-the-emberhand",
+   "kind": "witness",
+   "summary": "Kaelzar stood in the hold that keeps him while the last seal went onto the apprentice's brackets.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "orokh-sable-forge-the-wyrmwright",
+   "wants": "the Black Concord's broker, who bargains with him \"for things no registry admits\". No card holds the office, so the Weaver needs the person."
+  },
+  {
+   "slug": "mavra-cindrel-the-golden-engine",
+   "wants": "someone from the Orrengar rebellion who knows which machines were hers, on either side of it."
+  },
+  {
+   "slug": "kaelzar-the-forge-that-roars",
+   "wants": "the present overseer of Echo Containment. His card fills the office with a Niran who conflicts with canon (section 7). Failing that, Varnath, whom he counts \"a successor of conviction\". No card holds Varnath, and the Concord Military page's Ser Varnath Rhogar is not said to be the same man."
+  },
+  {
+   "slug": "gorvan-aldric-voss-the-maw-that-held",
+   "wants": "a Deepkin warden of the collapsed zones who keeps the Mirror-Sign record of the Temple Rift, the other name for the withdrawal he walked out of. The Stannvaard page puts the nearest Deepkin presence in the Deep Reach under the Ring. Borin Ironheart (c02), of his lineage word for word, is the second."
+  },
+  {
+   "slug": "draen-varos-the-red-forge-sentinel",
+   "wants": "someone who knew the soldier the axe killed, kin or a comrade from that line."
+  },
+  {
+   "slug": "ymir-rhok-the-emberhand",
+   "wants": "Borin Ironheart (c02), his master; c02 already names Ymir as Borin's outward tie. Ravessa Flintweld, uncarded, is the second."
+  },
+  {
+   "slug": "garron-vuldane-warden-of-thaumar",
+   "wants": "a fellow of the Alchemists' Society's Court. Serai Linthra (c12) carries his charter word for word, and c12 names him as hers."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Whether Kaelzar has a card. Draen's card: \"Kaelzar · His commanding officer at the Deep Mantle Bastion. No card exists on file; kept as an unattested name\" (Draen, IX). Kaelzar's card exists. It names no Draen and no command, and it holds him \"under Echo Entity classification and a containment oath, stationed within Atlas Deep Mantle under Accord supervision\" (Kaelzar, I). A commanding officer and an entity held under supervision are both on the record.",
+  "Who leads on the shaping stat. Orokh's card: \"Orokh is the only sheet in Volume IV where Tempering leads\" (Orokh, IV). Lucien's card: \"Lucien is the second sheet in Volume IV where Tempering leads, after Orokh Sable-Forge\" (`Lucien Draeve · Emerald Alchemist.md`). Ymir's card: \"Ymir is the third character in Volume IV whose highest stat is Tempering, after Orokh Sable-Forge and Lucien Draeve\" (Ymir, IV).",
+  "Who commissioned whom. Ymir's card: \"Zahir Ashveil · Once commissioned him to forge a flame-channeling curved blade\" (Ymir, VIII). Zahir's card agrees in its Artifacts: \"Commissioned from Ymir Rhok, the Emberhand\", and \"Ymir's own sheet records the commission from the smith's side; the two agree\". It reverses in its Relationships: \"Ymir Rhok · Once commissioned Zahir to forge a flame-channeling curved blade; they still trade rare desert ores\" (`Zahir Ashveil · Desert's Fang.md`).",
+  "Gorvan's span. His card runs him \"Late Withering Age through the Concord Era\" (Gorvan, I). It gives him \"a four-hundred-year career\" and \"Four hundred years of refinement\" (Gorvan, IV). The Concordance of Ages opens the Withering Era at 645 IC, and every Guild instrument is sealed Year 715 (WORLD §1). \"Concord Era\" fits no era on the count (WORLD §1).",
+  "When the Temple Rift fell. Gorvan's card puts it inside his life: \"The Dawi-Deepkin trust · Shattered permanently at the Temple Rift Crisis\" and \"The Iron Accord · Left after the Rift\" (Gorvan, IX). The Dawi Peoples page sets \"The Temple Rift Crisis : The blood-feud\" in its Third Eon timeline. It also records a second register in which the Rift is \"ongoing tension between High Dawi and Barrel Dawi lineages\".",
+  "The two Maximuses. Kaelzar's card: \"Former identity · Maximus, Titan-Smith of Aegor's Forge\", and \"When the Wellspring Rebellion broke divine order, Maximus's Essence fused with Fixatio\" (Kaelzar, I). Gimbzo's card: \"Dougou, the Iron Bison Maximus, met him on the rim of the unfinished world and broke his ribcage into the dirt with a single overhead\" (`Gimbzo.md`). The Celestial Host page: \"the way Maximus's death very nearly did\". Whether these are one figure is not recorded.",
+  "Kaelzar's Niran. Kaelzar's card: \"Niran · Former overseer of Echo Containment\", with its own note, \"current canon's Niran Yukari is a living Stage VII practitioner of the Yukari Enclave with no containment role. Recorded, not resolved\" (Kaelzar, IX).",
+  "Kaelzar's era and date. His card gives \"Withering Era, Imperial Age\" and notes that its older label, Post-Titanic Age, Decline of Utopia, \"has no corrected term\" (Kaelzar, I). It dates the Atlas Mantle War VE 913, \"which no corrected count supports\" (Kaelzar, X).",
+  "The heat the Dawi refuse. Orokh's card makes Ignivale his forge-heat, \"which is why Hearthless Heat needs no coal\" (Orokh, III), and Ymir's calls it \"The forge-heat\" (Ymir, III). The Stannvaard page files Ignivale as \"The collapse from finding into execution. The fire that falls\", and says \"The Dawi's forges do not use Ignivale.\" Ymir's master keeps a Dawi forge beneath Stannvaard."
+ ]
+}

@@ -1,0 +1,198 @@
+{
+ "id": "c14",
+ "name": "The Yukari bloodline",
+ "era_span": "Cross-era. At the origin, the First Eon, by the Naevra and Naiser cards alone (the wiki and two scenes put the line's founding with Senri in the Interstitium; section 7, item 3). In the archive's present, the Withering Era at Senri's Gate in Ketsuen: Niran thirty-two on his card, Naori and Ryuka thirteen, Akira seven. Elder Seravain is undated; Lucien Draeve's card gives him centuries. No year number anywhere.",
+ "members": [
+  {
+   "slug": "naevra-yukari",
+   "line": "She Who Asked Fate to Blink: First-Generation Yukari of the First Yukari Line in the First Eon, one of the earliest daughters of the bloodline, who negotiates with the threads of cause; her card records the White Refusal, the Seven-Night Stitching and the Mercy Heresy, and she lies dormant in an unknown threshold archive of early Yukari memory. No scene."
+  },
+  {
+   "slug": "naiser-yukari",
+   "line": "The Founder Beneath the Storm: by his card a half-elf of Seikai and Zettari blood, founder and progenitor of the Yukari line in the First Eon, who refused absorption into either house and declared the Yukari name. Niran's card and the archive give a different Naiser, Niran's father, who dies in chains; section 7, item 1."
+  },
+  {
+   "slug": "niran-yukari",
+   "line": "He Who Hears the Thread Before It Snaps, Naiser's Heir: human, thirty-two on his card, ward-carver and acting authority over the Yukari Enclave, founder of Ketsuen by the wiki, head of the Shichi Karasu; his Core Wound is hearing his father's death four months late. The heaviest archive of the seven."
+  },
+  {
+   "slug": "naori-yukari",
+   "line": "The Boy Who Sees the End of Every Thread, Niran's Heir: thirteen, eldest son of the acting authority at Senri's Gate, whose thread-sight looks forward in time; no training, coldness as the tax of seeing, and his sister Akira the one thread he cannot read forward."
+  },
+  {
+   "slug": "akira-yukari",
+   "line": "The Girl Who Sees Without Eyes, the Little Crow: seven, the younger daughter of the acting authority, born blind and with no magical capacity, who reads the ground through bare feet by the exercise her brother adapted and has extended it past his design; the tether that keeps Naori human."
+  },
+  {
+   "slug": "ryuka-yukari-the-little-wayfinder",
+   "line": "The Little Wayfinder: thirteen, a fox-eared beastkin ward and wayfinder-in-training, Yukari on his father's side and Mahuo on his mother's, ward of the Mahuo Estate and grandson of Slyvine Mahuo, the Guild Accord's unofficial mascot; a dormant thread-sight and a Shortcut paid for in hunger. No scene."
+  },
+  {
+   "slug": "elder-seravain-ophidian-archivist",
+   "line": "The Ophidian Archivist: an elder of the Accord's Research and Archives Division, Ophidian Studies Cell, secretly of the Crimson Coil Circle that would revive the Serpent-God Vaelith; his serpent soul-limbs read what they touch and his venom takes memory until the name goes. No scene: the two the roster gives him match the word 'Elder'."
+  }
+ ],
+ "events": [
+  {
+   "name": "The White Refusal",
+   "when": "The First Eon, in the first generation of the Yukari line, after Naiser's Severance of Inheritance and the naming of the line, while he lived.",
+   "where": "The Old World (WORLD §3), on whose northern edge `The Yukari Bloodline.md` sets the line's first ground. No card places either founder.",
+   "who": [
+    "naevra-yukari",
+    "naiser-yukari"
+   ],
+   "what": "New. Naiser would not be absorbed into the Seikai doctrine or the Zettari, and in refusing he made a split that neither house had sanctioned. He survived what came of it. One of the things that came of it was a purge. Among the early powers an oath was sworn in blood against the new branch. An oath of that kind would have bound the descendants of those who swore it to the killing, one generation after the next. Naevra was a daughter of the line's first generation. She read the oath's thread before it was carried out, and she stopped the purge. Her card calls that the White Refusal. The branch went on. Some of the early powers revered her for it and some hated her, and the harsher doctrinal forces marked her as dangerous for believing that fate could be negotiated. That belief is the Mercy Heresy, which her card calls the first ideological fracture around Yukari purpose. Took: Naevra: the reverence and the hatred of early powers that her card records, and the name of heretic among the harsher doctrines; Naiser: a branch that outlived the first oath sworn against it, and a continuity he puts first, kept by a daughter of the line."
+  },
+  {
+   "name": "Naiser's death, heard four months late",
+   "when": "The archive fixes no year. By `Niran_Awakening_Haruki_Reunion.md` Niran had died first and outlived his father \"by dying first\"; by his card and the years scene he heard of the death four months after it happened.",
+   "where": "Unplaced. The scene gives a stone room below daylight, with damp rock, rusted iron and \"water that had never once seen daylight\", and names no place. Niran was elsewhere.",
+   "who": [
+    "naiser-yukari",
+    "niran-yukari"
+   ],
+   "what": "Sources: `scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md`; `scenes/the_years_that_were_not_war.md`. Naiser died in chains that had opened him in six places, none of them mortal alone. He counted the drops as they fell, from \"Some old habit of a Cymorath trained too young\". His brothers Revari and Muken had died before him. He ordered his grief with his son first. He thought of the boy's care for people who could do nothing for him and of his refusal to let his power be the first thing anyone saw in him. He wondered whether he had handed the boy the wrong fear. A tear ran from one eye, and the scene says of it, \"The tears were not for himself\". Then his hand opened on the chain. Four months later Niran felt a thread snap that he could not reach, and he received the death as information. Years on, at Senri's Gate, he told Mira: \"I do not regret the seeing. I regret the distance between the seeing and the reaching.\" Took: Niran: the Core Wound his card names, \"The wound is the gap\"; his father's instruction, kept as \"a second voice on hard decisions\"; a grief his card calls \"metabolised\"; Naiser: the death in that room, with his son first in his thoughts."
+  },
+  {
+   "name": "The years that were not war",
+   "when": "From Naori's birth, in an autumn after the Ward-Lighting, to his thirteenth year and Akira's seventh. The scene's author note puts Niran in his early thirties at the end of it; his card gives thirty-two.",
+   "where": "Senri's Gate, the old Yukari Enclave and capital of Ketsuen (WORLD §5): the long hall of sap-weeping cedar, the flat stone above the gate where Niran holds the midwinter Thread-Reading, the practice yard, and the limestone bank of the river below the cedar stand.",
+   "who": [
+    "niran-yukari",
+    "naori-yukari",
+    "akira-yukari"
+   ],
+   "what": "Sources: `scenes/the_years_that_were_not_war.md`. Naori was born three days after the last glyph of the Ward-Lighting was sealed into its station. Akira came after him, born blind. Niran sent neither child to the Mage Academy. He raised them in the ways of his people, the Telling first. Naori read threads from the time he could walk, and his sight looked forward. The elders named it Inzensho. Niran had already met the name in the thread-archive of the standing stones, at a midwinter reading. At six, on the flat stone above the gate, Naori asked his father whether he regretted being able to see these things. Niran told him that a crow must oversee the unfortunate events so that others do not have to, and that they should be grateful for the trust. Naori said he could see himself older, standing where he stood, reading carvings that said things not yet decided. \"The wall will thin,\" Niran said. \"I know,\" Naori said. \"That's what frightens me.\" To Mira, Niran said he believed it was what the boy needed to hear. Naori sat with his sister in the practice yard, set his hand on her forehead, and taught her to read the ground's resonance through her bare feet. She mastered it in three weeks. At seven she found him alone on the riverbank by the weight of his feet on the ground, told him he stood exactly like Father, and showed him how far her reading reached: a fox in the cedar stand, with three kits. \"That is not what I taught you,\" he said. \"I know. I added to it.\" He put his hand on her head, his father's gesture, and they went in before the dumplings got cold. Took: Niran: a son growing faster than the record accounts for, \"a deviation\" in his word, and Mira's answer to it: \"Then we make sure the cold has something warm to come home to.\"; Naori: the crow's role, which his card makes his desire, and a sister who is the one thread he cannot read forward; Akira: the exercise she made her own, and a brother who cannot pull away from her."
+  },
+  {
+   "name": "Ryuka's Telling at Senri's Gate",
+   "when": "The year all three children stood at the ages their cards give: Ryuka and Naori thirteen, Akira seven. It falls after the riverbank, since Akira already reads people by their step.",
+   "where": "Senri's Gate, Ketsuen (WORLD §5): the standing-stone gate and the long hall.",
+   "who": [
+    "niran-yukari",
+    "akira-yukari",
+    "ryuka-yukari-the-little-wayfinder"
+   ],
+   "what": "New. The Yukari page holds that the name is chosen at the Telling, and Ryuka carries it. His father's people keep the Telling, and he came to Senri's Gate for it as a ward of the Mahuo Estate, with Slyvine's Scarf around his neck and Kaname's Compass in his pocket. Niran met him at the standing-stone gate with the forearm grip that the valley uses there, and his hand read through the grip a Crystal barely woken. The elders gave the boy the full account of what the blood carries, what it costs and what it demands. He heard it through and took the name. When he came out of the long hall, the first person who asked him how his shortcut worked got the whole of it. Akira found him by his step before anyone told her his name, took his arm in both hands, and told him she was blind. The orange glow he gives off when he is happy was lost on her. Took: Ryuka: the Yukari name by his own acceptance, and the account of what it costs, which did not teach him to keep his gift to himself; Niran: a kinsman of two houses given the name at his gate, and what his grip read in the boy, a Crystal that nothing has yet called on hard; Akira: another step to know a person by."
+  }
+ ],
+ "ties": [
+  {
+   "a": "naevra-yukari",
+   "b": "naiser-yukari",
+   "kind": "kin (the founder and a daughter of the first generation)",
+   "summary": "He declared the Yukari name; her card makes her First-Generation Yukari, \"One of the earliest daughters of the Yukari bloodline\". Neither card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "naevra-yukari",
+   "b": "naiser-yukari",
+   "kind": "debt",
+   "summary": "Her White Refusal stopped the blood-oath purge sworn against the branch he split from two houses, and the branch he puts first outlived it.",
+   "basis": "new"
+  },
+  {
+   "a": "naiser-yukari",
+   "b": "niran-yukari",
+   "kind": "kin (father and son, by Niran's card and the archive)",
+   "summary": "Niran is \"Naiser's Heir\"; his father's instruction is \"a second voice on hard decisions\"; he heard the death four months after it happened. The Naiser card's First Eon founder cannot be this father as written (section 7, item 1).",
+   "basis": "card"
+  },
+  {
+   "a": "niran-yukari",
+   "b": "naori-yukari",
+   "kind": "kin; teacher and student",
+   "summary": "Niran taught him the Telling, the listening exercises and the meaning of the crow; Naori stands like him and does not know it.",
+   "basis": "card"
+  },
+  {
+   "a": "niran-yukari",
+   "b": "akira-yukari",
+   "kind": "kin (father and daughter)",
+   "summary": "She closes her eyes for the ground-reading the way he closes his for deep reads, and knows his weight and stance without ever having seen him.",
+   "basis": "card"
+  },
+  {
+   "a": "naori-yukari",
+   "b": "akira-yukari",
+   "kind": "kin; teacher and student; tether",
+   "summary": "He adapted a ground-reading exercise for her blindness and she extended it; she is the one thread he cannot read forward, and he cannot pull away from her.",
+   "basis": "card"
+  },
+  {
+   "a": "niran-yukari",
+   "b": "ryuka-yukari-the-little-wayfinder",
+   "kind": "kin; host",
+   "summary": "Ryuka took the Yukari name at a Telling given at Senri's Gate, the enclave Niran built into a kingdom; Niran met him at the gate with the forearm grip.",
+   "basis": "new"
+  },
+  {
+   "a": "akira-yukari",
+   "b": "ryuka-yukari-the-little-wayfinder",
+   "kind": "kin; friends",
+   "summary": "She knew him by his step before she knew his name; the glow he gives off when happy is lost on her.",
+   "basis": "new"
+  },
+  {
+   "a": "ryuka-yukari-the-little-wayfinder",
+   "b": "elder-seravain-ophidian-archivist",
+   "kind": "same order (the Guild Accord)",
+   "summary": "The boy the Accord's wards registered as a variable and the R.A.D. elder of the Ophidian Studies Cell both move inside the Accord; neither card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "elder-seravain-ophidian-archivist",
+   "b": "naevra-yukari",
+   "kind": "collector and the collected, by legend",
+   "summary": "Seravain knows the legend of a Yukari ancestor asleep in an archive of the line's earliest memory, and wants that archive for his library as he wanted Sandalphon's voices. He has not found it. She sleeps.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "naevra-yukari",
+   "wants": "an enemy of her own era, one of the harsher doctrinal forces that marked the Mercy Heresy as dangerous, or one of the early powers who swore the purge and hated her for stopping it. The index's other First Eon lives are Gimbzo, Iracordas, Vethraun Ashmaw, Valthrum and Aurgon Mintruix (WORLD §1); none of their cards names her."
+  },
+  {
+   "slug": "naiser-yukari",
+   "wants": "a kinsman of one of the two houses he refused, of his own era: an elder of the Seikai or the Zettari blood who wanted him absorbed and treated his birth as a disruption."
+  },
+  {
+   "slug": "niran-yukari",
+   "wants": "Rengai Zettari, the mentor his card calls foundational, and the conversation that burning the Ash-Signal Pouch would start. The pouch lies unburned against his sternum."
+  },
+  {
+   "slug": "naori-yukari",
+   "wants": "a master of inscription and ward-craft who is not his father, the teacher his card says he will take reluctantly. The Ward-Carver's Academy at Senri's Gate has such instructors, and so has Vaeloris, where Dhaerin's grammar is taught."
+  },
+  {
+   "slug": "akira-yukari",
+   "wants": "a peer who works without the draw. Xanelor Rafminar told the same Academy class that he has no magical potential and uses Sage Arts (`scenes/xanelor_the_introductions.md`)."
+  },
+  {
+   "slug": "ryuka-yukari-the-little-wayfinder",
+   "wants": "someone who can follow where his skips land, for the question his card gives to \"What nobody knows\": whether a skip lands him \"somewhere the Mahuo Estate cannot follow\". A Gate officer of the Accord's Logistics and Supply Division, or a guide of the Spirit Layers."
+  },
+  {
+   "slug": "elder-seravain-ophidian-archivist",
+   "wants": "an attributor. He needs someone who could say \"How much of the Scarlet Serpent Codex Seravain wrote himself\". The Bench of Attribution sits Research and Archives beside the Measurewrights and Arbitration for exactly that kind of question."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Naiser the founder against Naiser the father. The Naiser card: \"Founder of the Yukari Line · First Eon\", \"Half-Elf\", \"Progenitor of the Yukari\", and a present-tense Trajectory with no death. Niran's card: \"Naiser's Heir\", \"Naiser Yukari (deceased) · Filial-Formative\", and of Niran himself, \"Lineage Human · Yukari Bloodline · Age 32\". The death scene gives a man born into a family that already had a Telling: \"The Elder read the thread over my cradle and told my mother I would be the one who pulled this family out of its own mediocrity\", and \"three boys with the mark fresh on their foreheads\" (`Naiser Yukari.md`; `Niran Yukari.md`; `scenes/Naiser_Death_Cozbi_Genocide_Niran_Fall.md`). One name, two lives.",
+  "Naiser's face. The card: \"Tall, long-limbed\", \"Hair falls long and black, heavy as stormwater\". The malformation passage: \"Broad through the chest and going soft at the middle. The heavy jaw.\" (`Naiser Yukari.md`; `scenes/niran_malformation.md`)",
+  "Who founded the Yukari. The Naiser card: \"Progenitor of the Yukari\" and \"The First Yukari\". The Yukari page: \"The third was Senri\". `scenes/THE_YUKARI_BLOODLINE.md`: \"Their founder, Senri Yukari, arose during the 200,000-year Interstitium\". `scenes/Niran_Mira_Return_to_the_Enclave.md` calls Senri \"the founder of the Yukari bloodline\". Naevra's \"First-Generation Yukari\" in the First Eon meets the same clash. WORLD §1 records it: \"The Yukari founders' cards say First Eon; YK puts Senri in the Interstitium.\"",
+  "One Stage name for two Stages. Naevra's card gives her Temperance Stage as \"Stage IX\" with the name \"Realization\". Naiser's gives \"Stage 6\" with the name \"Realization\". A Lore states neither.",
+  "Niran's age. His card: \"Age 32\", and on the same card \"Six years of combat training have replaced the thirteen-year-old's frame entirely\" and the pouch \"Warm from six years of body heat\". The years scene's author note: \"Niran on his current card was 19, now updated to 32\". `scenes/Niran_Mira_Return_to_the_Enclave.md`: \"He was twenty-four now\". The Ketsuen page: \"a nineteen-year-old's ability to hear a thread snap before it finishes snapping.\"",
+  "When the crimson took the iris. Niran's card: \"the Ketsumyōgan's corona absorbed the iris entirely at eighteen\". Naori's card: \"Crimson corona consumed the iris entirely by age eleven, two years ahead of Niran's development\". The years scene: \"Crimson eyes that had come in at four, two years earlier than Niran's own\", with the consumption \"complete before the boy reached ten\", and later, of Naori at thirteen, \"had completed its consumption of the iris two years ago.\"",
+  "Naori's eyes in class. Naori's card: \"Crimson eyes\". `scenes/xanelor_the_introductions.md`: \"The Ketsumyōgan's dormant corona sat at the edge of his dark irises\".",
+  "The Academy. Naori's card: \"No Academy education\". The years scene: \"Niran had not sent either to the Mage Academy\". `scenes/xanelor_the_introductions.md` seats Naori and Akira in Kwon Mu-jin's class, and its author note names it \"Aetherion Academy RP\".",
+  "The children's ages. The cards give Naori thirteen and Akira seven. The years scene: \"The second came two years later. Akira.\"",
+  "What Cymorath is. Niran's card: \"vibration, air pressure, structural resonance, breath rhythm, weapon tension\". Naori's: \"vibration, structural resonance, stone-frequency reading\". The Ketsuen page: \"Vibration / Resonance\". Ryuka's card: \"Fulguria, Electromagnetism\", \"Vector fields and the Lorentz force\". R27-1: \"Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else\". A Lore names the listening and never the Wellspring's working.",
+  "Yukari eyes. Ryuka's card: \"Yukari gold\". The Yukari page: \"Dark irises from near-black to deep brown, with the faint violet-black corona of the Ketsumyōgan visible at the pupil's edge even in dormant state\". Niran's and Naori's cards give crimson.",
+  "Mira's eyes (scene against scene; Mira has no card, and both children's cards name her). The years scene: \"Her eyes, brown and unaugmented by any bloodline inheritance\". `scenes/Niran_Mira_Return_to_the_Enclave.md`: \"her near-black eyes with their violet-black corona\", with \"the developing Ketsumyōgan\". `UNCARDED.md` leaves it open.",
+  "Where Niran came from. `scenes/Niran_Mira_Return_to_the_Enclave.md`: \"a thirteen-year-old boy from Kushara\". The Ketsuen page: \"He worked passage from the Old World\".",
+  "The index against the archive. `scenes/CAST.md`: \"Elder Seravain (2 scenes)\". Neither file contains \"Seravain\"; each hit is \"Elder\" or \"elders\". The cluster hinge repeats it."
+ ]
+}

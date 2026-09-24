@@ -1,0 +1,205 @@
+{
+ "id": "c13",
+ "name": "The Accord's field blades",
+ "era_span": "Voyager Era for Asaemon (000 to 070 IC), who meets no one and reaches the cluster only by the Oriel record; the Withering Era for the other seven, with no year number: Caldran's card places his vanishing in the Withering Reforms and Valen's places his line's draconic hybridization in the Withering's early campaigns, and Kael, Azhura, Tsukihana, Vael and Draven state no era and are set beside them by the events they share. No member appears in any scene: the roster's Curia hit for Kael is the glyph [Kael], and CAST's 'Valen Therosian (a.k.a. Valen Karth)' rests on the Lethegraal root 'Valen'.",
+ "members": [
+  {
+   "slug": "kael-serradyn-the-burnmark",
+   "line": "Enforcement Sealwright, Solar-Graft Vanguard and containment specialist of the Enforcement Division, a Warden of Duty still called a Sealwright; the only operative known to have detonated a Wellspring bomb from ground zero and walked out (the Eclipse Siege), three times out of a Solar Collapse, reading it as a debt; he keeps the melted insignia of the commanding officer who died sealing the flame he carries, and his Division rivals Arbitration without naming it in front of him. No scene: the roster's one hit is the glyph [Kael], Ruin."
+  },
+  {
+   "slug": "azhura-vyren-the-azure-coilblade",
+   "line": "Draconic-hybrid Enforcement breacher of the Sky-Serpent lineage, She Who Guards the High Air, sworn warden of the travelers on the northern trade routes, her Axis bonded to that duty; her frost breath needs a pressure difference and dies in heat; she has never fought for a rank; her latest fight with the sky-beasts of the soundfold rifts was the Cymorath Distortion Hunt. Open: dragon ancestor or Wellspring."
+  },
+  {
+   "slug": "ser-caldran-veiss-the-pale-knight-of-vergegate",
+   "line": "Field Enforcer and Border Adjudicator of the Enforcement Division, Warden of Duty on a restricted license, codename White Silence, his record under Black Concord encryption he cannot remove; once a High Concordant candidate's field officer, he vanished in the Withering Reforms and came back stripped of rank; his silencing field mutes his own side, so he is deployed alone, and the Verge says his sword hums near liars. Open: the missing years and whether the Black Concord claims him."
+  },
+  {
+   "slug": "tsukihana-reimei-moon-bloom-at-dawn",
+   "line": "Human and fae-tainted blade of Eresse (Kael'Nir forests), nearly branded heretic, trained in Arbitration under High Arbiter Saen and taken by Enforcement after the Mirror Garden Oath; she quelled a Well-born entity by giving it her reflection; her Verdant Severance is one irreversible cut that keeps the soul, never drawn on a subject she has misread, and her Still Garden is Enforcement's rite for disputes inside the Accord; she does not explain the cut."
+  },
+  {
+   "slug": "vael-of-nothing-the-devourer-s-index",
+   "line": "Unaffiliated Correction and Null-Devour apex on whom the Guild Accord holds an open file, not a warrant; Nullborn, answered by Uurgath uncalled; blindfolded against an Index he cannot turn off, his body eroding, the Three Medallions worn after the third bystander case; the Final Index broke an enforcer at Tarvel's Crossing who countered it and asked for a non-combat posting. Open: why he stopped the one he stopped."
+  },
+  {
+   "slug": "draven-kael-vorrick-the-beast-slayer",
+   "line": "Independent hunter of high-tier Wellspring-mutated beasts, loosely allied with the Enforcement Division; Keeper of the Vorynn Trials, attuned to Vohrin's cold, close range only, a braid of bone talons; the Bloodbind that ignites his muscles risks a permanent Prime Beast regression; his card lists no relationships and reads a lost bond. Open: what he valued above himself."
+  },
+  {
+   "slug": "valen-karth-the-breakstorm-vanguard",
+   "line": "Dragoon Vanguard Commander of the Accord's Bluefront Legion, allied with the Dragoon Corps, his line draconic from the Withering's early campaigns; he forged his Domain by breaking his own Crystal, his dive needs open sky and leaves him grounded and slow, and men follow because he is already moving; incidents at Caedor Ridge and Operation Stormwake. Open: the Walking Rift signs nobody has told him about."
+  },
+  {
+   "slug": "asaemon-the-vestal-vanguard",
+   "line": "Voyager Era combat medic and precision executioner, bound by his own oath to no attested order, who fights for the Vanguard when a siege calls for him; his Axis is the discipline itself; at the Siege of Oriel he disconnected the corrupted generals from their power without a casualty on either side, paying after in blindness and brittleness; he explains a wound, never a working. Open: the Concord Severance he is chasing."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Oriel record",
+   "when": "The siege: the Voyager Era, in Asaemon's life, while the Vanguard called on him. The reading: the Withering Era, in Tsukihana's Arbitration years under High Arbiter Saen, before the Mirror Garden Oath took her to Enforcement. They never met.",
+   "where": "Oriel, which no page places, for the siege. For the reading, the Archives Eternal \"beneath the Council Spire of the Concord Citadel\" (CA, head; the Citadel, WORLD §4), in the Research and Archives Division's keeping (GA, Divisions table).",
+   "who": [
+    "asaemon-the-vestal-vanguard",
+    "tsukihana-reimei-moon-bloom-at-dawn"
+   ],
+   "what": "The Vanguard called Asaemon to the Siege of Oriel, where the enemy's generals had been corrupted, and he answered because the work wanted precision. In a single engagement he cut each general loose from the power that fed him. None of the generals died, and nobody on the Vanguard's side died. Afterwards he could not see for a time, and his body was brittle for a stretch. The Codex sets a scribe or a seer at every battle and holds an unrecorded war unlawful, and Arbitration reviews each engagement once it ends. Oriel went into the record. Asaemon's part of it is an account of wounds: where each general's connection had failed, and where he cut it. It says nothing of how he made the cut. Long afterwards, in her Arbitration years, Tsukihana Reimei read that review in the Archives Eternal. Took: Asaemon, the siege his card records, without a casualty on either side, paid for afterwards in blindness and brittleness; Tsukihana, a precedent in the Accord's own record for a cut that left both sides alive, set down by a man who described the wound and kept the working to himself."
+  },
+  {
+   "name": "The Cymorath Distortion Hunt",
+   "when": "The Withering Era, while Valen held command of the Dragoon Vanguard. After Azhura's Splintering, in the years of the discipline her card calls Glory; this is the hunt her card names as the most recent against the sky-beasts of the soundfold rifts. After Draven's Vorynn Trials had made his craft.",
+   "where": "The Corridor Holdings of Stannvaard (WORLD §5): the \"trade route territory\" the Transport Guild administers, with its \"road maintenance, way-station operation, escort coordination\" (Stannvaard page, provinces), on the road out of the Ring that the Nalūn page calls the Iron-to-Salt Corridor, \"The principal overland route connecting the Ring smelters to the chain-cities and the coast.\"",
+   "who": [
+    "azhura-vyren-the-azure-coilblade",
+    "draven-kael-vorrick-the-beast-slayer",
+    "valen-karth-the-breakstorm-vanguard",
+    "kael-serradyn-the-burnmark"
+   ],
+   "what": "A soundfold rift opened in the high air over the Corridor Holdings, and sky-beasts came down out of it on the convoys. The Transport Guild's escorts could not reach them. The Enforcement Division took the commission and sent Azhura Vyren to breach. Draven Kael Vorrick came for the beasts, and the Division's terms for its loose alliance with him put a Sealwright at his side: Kael Serradyn. The Division asked the Legion for dragoons, and Valen Karth brought his. Before the breach, Kael walked a wide ring round the ground below the road where the kills would fall. Then he held his heat in and stood downhill, off the breacher's ground, because warm air would have taken Azhura's breath. Azhura stood under the rift and listened to the pressure. Valen went up before she called it, and his dragoons went after him. He dove on the largest beast and killed it in the air. He landed grounded and slow, and a second beast came down on him there. Draven killed it at close quarters. Azhura's frost brought the rest down out of the air into the cold round Draven, and he killed them one by one. On the last he tore the Bloodbind open. Kael stood at the edge of the ring he had walked and did not fire. The surge ran out, and Draven was still himself. He cut talons from the kills before the convoys moved again. Took: Azhura, the fight her card records as her latest with the sky-beasts; a dragoon commander who does not wait for a breacher's call; a hunter who finished on the ground what she brought out of the air; Draven, talons for his braid, and the knowledge that the Division walks a ring for him when he works under its commission; Valen, the kill in the air, the grounding his dive costs, and a debt to the hunter who killed what came at him while he was down; Kael, a ring he walked and never fired, and a breacher's ground he kept cold by holding his own heat in."
+  },
+  {
+   "name": "The two readings on the ash plain",
+   "when": "The Withering Era, after Caldran's reinstatement under restricted license and after Tsukihana's transfer to Enforcement. After the enforcer at Tarvel's Crossing had survived the Final Index and asked for a non-combat posting, and after the third documented bystander case, since Vael wore the Three Medallions.",
+   "where": "The ash plain of the Accord-chartered arc in the New World, between the andesite chain and the caldera belt (WORLD §3; NW, Two Landmasses and The Ground Itself), where the Accord is \"the jurisdiction\" (ME, II).",
+   "who": [
+    "ser-caldran-veiss-the-pale-knight-of-vergegate",
+    "tsukihana-reimei-moon-bloom-at-dawn",
+    "vael-of-nothing-the-devourer-s-index"
+   ],
+   "what": "The enforcer from Tarvel's Crossing had given the Division an account that did not describe the turns under the Final Index, and the file on Vael still named no category. The Division sent Ser Caldran Veiss first, alone, as it deploys him. He found Vael on the ash plain with the blindfold on and the three medallions at his chest. The ends of Vael's fingers had lost their edges. Caldran kept Vigil's End in its scabbard. He asked where Vael had been and where he was going, and Vael told him. He asked about Tarvel's Crossing, and about the one target Vael had stopped, and Vael did not answer. Caldran's entry in the file said that Vael had told him no lie. It said nothing else. Afterwards the Division sent Tsukihana Reimei, to learn whether there was anything in him a Verdant Severance could keep. She hears Essence where no Well stirs. On the walk in, what she heard thinned the nearer she came, and she stopped at a distance. She could not say she had read him, and she never draws on a subject she has misread. She did not draw. Her entry recorded no reading. The file stayed a file. Took: Caldran, an entry that is true and names no category; Tsukihana, a subject she could not read, left uncut; Vael, two officers of the Division who came, read what they could and went away; the blindfold stayed on, and the file stayed open."
+  },
+  {
+   "name": "The Still Garden at Altherion",
+   "when": "The Withering Era, after Tsukihana's transfer to Enforcement, while Kael served as a Warden of Duty.",
+   "where": "Altherion (WORLD §3 and §5), in the hall of the \"permanent legation\" Enforcement keeps there, in a city that lives in part on \"arbitration fees\" (Stannvaard page, Accord relationship and economy).",
+   "who": [
+    "kael-serradyn-the-burnmark",
+    "tsukihana-reimei-moon-bloom-at-dawn"
+   ],
+   "what": "After Kael Serradyn sealed a Containment, Enforcement took the ground under the seal as forfeit. Its holder had filed with Arbitration, and Arbitration held that the forfeiture had to wait on its hearing. Both Divisions sent parties to the legation hall, and Kael came to give the account of the sealing. He gave it. The argument went on over his account, jurisdiction against jurisdiction and fee against forfeiture, until men on both sides stood with their hands on their weapons. Tsukihana Reimei laid the Still Garden, the rite Enforcement keeps for disputes inside the Accord. Inside it nobody wanted to strike. The ember-light in Kael's eyes went low with his pulse. The parties sat down, and the dispute went back to paper. Nobody on either side called it a rivalry in front of him. Took: Tsukihana, a dispute between the Division that trained her and the Division that took her, ended without a blow; Kael, his account of the sealing entered as he gave it, and the rivalry left unnamed in front of him, as his card says it always is."
+  }
+ ],
+ "ties": [
+  {
+   "a": "kael-serradyn-the-burnmark",
+   "b": "ser-caldran-veiss-the-pale-knight-of-vergegate",
+   "kind": "comrades (one Division, one rank)",
+   "summary": "Both are Wardens of Duty of the Enforcement Division and both hold Fixatio; no card or event has put them in one room.",
+   "basis": "card"
+  },
+  {
+   "a": "kael-serradyn-the-burnmark",
+   "b": "tsukihana-reimei-moon-bloom-at-dawn",
+   "kind": "comrades across the rivalry",
+   "summary": "One Division; she came to it from Arbitration, the Division it rivals, and at Altherion her Still Garden held the hall while Kael gave his account.",
+   "basis": "new"
+  },
+  {
+   "a": "kael-serradyn-the-burnmark",
+   "b": "draven-kael-vorrick-the-beast-slayer",
+   "kind": "watcher and watched",
+   "summary": "The Division's terms put Kael beside Draven on the Cymorath Distortion Hunt; he walked a ring against the Bloodbind and did not fire it.",
+   "basis": "new"
+  },
+  {
+   "a": "kael-serradyn-the-burnmark",
+   "b": "azhura-vyren-the-azure-coilblade",
+   "kind": "comrades (one Division)",
+   "summary": "On the Hunt Kael held his heat in and stood off her ground, since heat takes her breath.",
+   "basis": "new"
+  },
+  {
+   "a": "azhura-vyren-the-azure-coilblade",
+   "b": "draven-kael-vorrick-the-beast-slayer",
+   "kind": "comrades (a working hunt)",
+   "summary": "She brought the sky-beasts out of the air and he killed them on the ground; talons from that hunt are in his braid.",
+   "basis": "new"
+  },
+  {
+   "a": "azhura-vyren-the-azure-coilblade",
+   "b": "valen-karth-the-breakstorm-vanguard",
+   "kind": "comrades, with a professional friction",
+   "summary": "Two draconic lines in one sky; on the Hunt he dove before she called it.",
+   "basis": "new"
+  },
+  {
+   "a": "valen-karth-the-breakstorm-vanguard",
+   "b": "draven-kael-vorrick-the-beast-slayer",
+   "kind": "debt",
+   "summary": "A beast came at Valen while his dive had left him grounded and slow, and Draven killed it.",
+   "basis": "new"
+  },
+  {
+   "a": "ser-caldran-veiss-the-pale-knight-of-vergegate",
+   "b": "vael-of-nothing-the-devourer-s-index",
+   "kind": "reader and read",
+   "summary": "Caldran read Vael on the ash plain for the Division's file and entered that Vael had told him no lie.",
+   "basis": "new"
+  },
+  {
+   "a": "tsukihana-reimei-moon-bloom-at-dawn",
+   "b": "vael-of-nothing-the-devourer-s-index",
+   "kind": "reader and read",
+   "summary": "She went to learn whether the Verdant Severance could keep anything in him, could not read him, and did not draw.",
+   "basis": "new"
+  },
+  {
+   "a": "ser-caldran-veiss-the-pale-knight-of-vergegate",
+   "b": "tsukihana-reimei-moon-bloom-at-dawn",
+   "kind": "colleagues (one file)",
+   "summary": "Two Enforcement readers of one open file: his entry is a verdict of no lie, hers is no reading.",
+   "basis": "new"
+  },
+  {
+   "a": "asaemon-the-vestal-vanguard",
+   "b": "tsukihana-reimei-moon-bloom-at-dawn",
+   "kind": "precedent and reader (by record)",
+   "summary": "She read Arbitration's review of the Siege of Oriel, his Voyager Era cut that left both sides alive; they never met.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "kael-serradyn-the-burnmark",
+   "wants": "the people of the commanding officer who died sealing the flame he carries, a surviving kin or the old unit, to whom the melted insignia he keeps would belong by any reckoning but his. No card names the officer."
+  },
+  {
+   "slug": "azhura-vyren-the-azure-coilblade",
+   "wants": "a free blade on the same roads who refuses the Accord she serves. Karu Velnar, the Shackled Tempest, \"presently hunting traffickers along the trade routes and refusing every recruitment offer the Guild Accord has made him.\" Failing him, the Transport Guild's escort master on the Corridor Holdings."
+  },
+  {
+   "slug": "ser-caldran-veiss-the-pale-knight-of-vergegate",
+   "wants": "the High Concordant candidate he served as field officer, chosen or passed over; his card names neither the candidate nor the outcome."
+  },
+  {
+   "slug": "tsukihana-reimei-moon-bloom-at-dawn",
+   "wants": "High Arbiter Saen of the Arbitration Division, her mentor (card, unattested; no card of his own). Kaelen Raive's mentor, High Arbiter Selhane, is a separate name on a separate card (section 6)."
+  },
+  {
+   "slug": "vael-of-nothing-the-devourer-s-index",
+   "wants": "the enforcer at Tarvel's Crossing, who survived the Final Index by a Benediction-class counter and now holds a non-combat posting. No card names the enforcer."
+  },
+  {
+   "slug": "draven-kael-vorrick-the-beast-slayer",
+   "wants": "Sevrin Valeith, Maw of Nine Tongues, whose card gives Draven \"Mutual respect as predators\" and a standing threat to kill Sevrin if he binds anything \"with a beating heart.\""
+  },
+  {
+   "slug": "valen-karth-the-breakstorm-vanguard",
+   "wants": "whoever in the Guild has read the Walking Rift signs on his body and has not told him; his card keeps that silence, and the tie must keep it too. Failing that, Kaelvar Thren, the man who \"endures by stillness\", who has no card."
+  },
+  {
+   "slug": "asaemon-the-vestal-vanguard",
+   "wants": "the officer of the Voyager Era Vanguard who sends for him \"when precision matters more than numbers\"; no card holds one."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Draven's relationships. Draven's card: \"Draven's sheet lists no relationships at all\" and \"the absence of a single named relationship on the whole sheet\" (`Draven Kael Vorrick · The Beast Slayer.md`, I and IV). Sevrin Valeith's card: \"**Draven Kael Vorrick** · **Mutual respect as predators**, though Draven despises spirit-binding and **has threatened to kill Sevrin if he binds anything \"with a beating heart.\"**\" (`Sevrin Valeith · Maw of Nine Tongues.md`, relationships)",
+  "Which volume. All eight cards sit in the wiki folder Volume I, Character Cards. Azhura: \"Not specified in the source card beyond filing to Volume V\" (X). Caldran's appearances line files him to Volume V \"(first appearance)\" (X). Asaemon is \"Newly canonized\" to Volume V (X). Vael: \"migrated from the Trello board for Volume VI consideration\" (X). Draven: \"the cleanest stated cost on any Volume IV sheet\" (II).",
+  "Card against wiki: the Vanguard. Asaemon: \"Unaffiliated with any attested order\" and \"Fights for the Vanguard when a siege calls for him\" (I). The Concord Military page attests Enforcement's \"**The Vanguard Orders**\" and a hall \"Engraved upon the Hall of the Vanguard, Imperial Year 014, Voyager Era\". Which Vanguard calls Asaemon is not stated; the Oriel record in section 3 goes into the Accord's archive by the Law of Witness, which covers every battle, and says nothing of whose Vanguard it was.",
+  "Card against wiki: the glyph `[Vael]`. Tsukihana: \"Elyndra (Renewal, glyphs `[Yn]` Bloom and `[Vael]` Renewal)\" (II). The Master Glyph Index lists \"`[Ser]` | Renewal | Root · Wyther\" and no `[Vael]`.",
+  "The index against the archive. The roster and `scenes/CAST.md` give Kael Serradyn one scene, `commencement_of_the_curia_kujo_arc.md`; both hits are the glyph `[Kael]` in Kujo's working. `scenes/CAST.md`'s \"Valen Therosian (a.k.a. Valen Karth) (2 scenes)\" rests on the root \"Valen\" of Lethegraal in `20_aurelian_no_signature.md` and the Curia scene. Neither man appears in the archive."
+ ]
+}

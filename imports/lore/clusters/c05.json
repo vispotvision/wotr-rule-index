@@ -1,0 +1,225 @@
+{
+ "id": "c05",
+ "name": "Class X and what it grows into",
+ "era_span": "From the Academy years, when Rikudoku Moto is thirteen and sits Class X with Xanelor Rafiminar and the Mahuo children under their father Kwon Mu-jin, into the Age of Calamity that the Wandering Fang's card gives Xanelor grown, his death and last thought-wave to Dalphne, and the adult life of Rikudoku's son Kairen a generation after the Academy. No year is stated.",
+ "members": [
+  {
+   "slug": "xanelor-rafiminar",
+   "line": "The Turtle's Ward: found at two lashed to shipwreck on Omoro Island with three parallel scars on his left cheek, raised by the old turtle Drogo in the Sage Arts, the bow and the discipline of remaining, and sent to Class X of the Aetherion Academy on Drogo's letter with no standing, no registration and no assessment."
+  },
+  {
+   "slug": "xanelor-rafminar-the-wandering-fang",
+   "line": "The Wandering Fang of the Age of Calamity: a nomadic sage of the Spirit-Fanged Circle, carried unattested, who holds the Outer Wilds and the Frostmarch on nobody's commission, works six constructs that are one man's reflexes, and asked something unnamed to answer him; read here as Xanelor Rafiminar grown."
+  },
+  {
+   "slug": "rikudoku-moto",
+   "line": "Son of Sodoku Moto and Yoko Mishiro, of the Kōkan Line, thirteen and taller than his father, who sleeps through the first morning of Class X; by Isaac's ruling of 2026-09-12 the one Rikudoku Moto whom the Wandering Fang counts a philosophical ally and Kairen Moto calls father."
+  },
+  {
+   "slug": "kairen-moto-the-iron-root",
+   "line": "The Iron-Root: Rikudoku's estranged and revering son, a Lost Branch of the Moto who lost his right arm, rebuilt himself in iron and kept working, and walks the Accord's poisoned ground on contract carrying the Branch of Rikudoku, a cutting from the Great Spirit Tree."
+  },
+  {
+   "slug": "lily-mahuo",
+   "line": "Daughter of Kwon Mu-jin and Frithia, the youngest of the three by Isaac's ruling of 2026-09-18 though her card says eldest, whose pen records the room and who drafts concise letters to her father in her head."
+  },
+  {
+   "slug": "hiromi-mahuo",
+   "line": "The Paragon of Dominion: Mu-jin's summoning prodigy and middle child by Isaac's ruling, who did something in a binding circle at six that no adult could name, means to be the greatest summoner who ever lived, and fathers Karo Venrik by Saeloria of Eresse by Isaac's ruling."
+  },
+  {
+   "slug": "geturo-mahuo",
+   "line": "Mu-jin's eldest by Isaac's ruling, though his card calls him Hiromi's twin, who studies alchemy under his father, watches the doors, lets Hiromi take the centre and wants something quieter than being the greatest."
+  },
+  {
+   "slug": "kaien-thal-ruhm-the-gilded-nomad",
+   "line": "The Gilded Nomad: a former artificer of the Accord's Alchemetrica Division, in which the Class X homeroom teacher Kwon Mu-jin holds Archmagus rank, half his body gold-fused by a reactor implosion he later reforged on purpose, who refused repatriation and walks Varūn's pilgrims through Aether storms."
+  },
+  {
+   "slug": "dalphne-of-the-pale-bough-the-gentle-fang",
+   "line": "The Gentle Fang: a wandering beastkin sage of a dissolved druidic circle who received Xanelor Rafminar's final thought-wave, and with it the root of the Wolf Sage Arts, without ever meeting him."
+  }
+ ],
+ "events": [
+  {
+   "name": "The first morning of Class X",
+   "when": "The Academy years, when Rikudoku is thirteen (WORLD.md §2): the first morning of Class X, the morning the Class X Open Tournament was announced seven days out. From the scenes.",
+   "where": "The Aetherion Academy, which no page locates (WORLD.md §2): the circular Class X chamber.",
+   "who": [
+    "xanelor-rafiminar",
+    "rikudoku-moto",
+    "lily-mahuo",
+    "hiromi-mahuo",
+    "geturo-mahuo"
+   ],
+   "what": "Xanelor was in the chamber an hour before anyone else, in the back row by the service corridor, having mapped the building in his first week. The three Mahuo children came through the door together and each called their father Teacher. Geturo had missed his first class. Mu-jin had kept him up most of the night refining his alchemy. Frithia took the room in a sentence. Hiromi's feet came off the table. Rikudoku came in last and was asleep at his desk within four seconds. Mu-jin let him sleep. Asked by a classmate for his goal, Xanelor said through the mask, \"I made a promise to someone. He is gone. The promise is not.\" At the introductions he stood and told the room, \"I don't have any magical potential whatsoever.\" He named Omoro and a grandfather who had passed away, and said, \"That is all.\" Hiromi rose last and named his goal as the greatest summoner to ever live, and Lily's pen stopped for two seconds. At the dorm assignments Hiromi refused a roommate, and Xanelor asked for a room of his own, \"So I don't have to wear this mask all the time.\" The tournament was announced. Rikudoku lifted his head, said \"If I have to,\" and put it down again. Hiromi crossed the room and challenged Xanelor. Xanelor advised against it and accepted. The room took him for a boy with no Crystal, and backing away from the week's first challenge would have made him the soft bracket in every head there. Geturo told his brother he could not seriously be picking a fight already. Mu-jin moved the class to the Combat Arena so it would happen inside a warded ring. What each took: Xanelor took a fight he had not chosen, accepted so the room would not file him as the soft bracket. Hiromi took the fight he asked for. Rikudoku took a tournament he will enter if he has to; he did not want to hurt anyone in the room, and most of them had not said their names to him. Lily took the morning down on paper, and the scenes give her the pen and the pause and nothing more. Geturo took a brother walking into a fight he had tried to talk him out of."
+  },
+  {
+   "name": "The duel in the Combat Arena",
+   "when": "The same morning, seven days before the tournament. From the scenes.",
+   "where": "The Aetherion Academy, the Combat Arena.",
+   "who": [
+    "xanelor-rafiminar",
+    "hiromi-mahuo"
+   ],
+   "what": "Mu-jin stood at the rail with his hand near the signal-bell. Hiromi called up the imprint of a bullet train he had seen at nine from a station platform, and it carried him down the one straight line a borrowed train could take. Xanelor felt the push of air ahead of him and took the wave at its shoulder, as Drogo had taught him. The rigid envelope soaked the turn. His left wrist bent back past its limit and the glove split across a raw palm. Hiromi hit the ward and came up laughing, emptied of the imprint. He hung a net of constellations over the floor. Xanelor could not feel its lines, so he watched what they did to the sand. He stood on one rising hand to go up, shot three hands off one line from the air, cut the rest at their anchor points with a horn-handled knife, and threw his bow up into the dark of the dome. Then what twelve years on the island had stored in him came up through a body with no channel for it. The air of the ring pressed outward, and the ward cracked from the flaw Hiromi's shoulder had made. Xanelor crossed the ring and struck. A warden drafted from the net took the palm, and both it and Hiromi were thrown. Hiromi would not concede and closed his hands in Juggernaut's Fist, whose every contact adds weight to what it touches. Xanelor let the gauntlets land on his forearms, each blow heavier on the bones than the last, and slid back on two jets forced out through his boots. He pushed against the weight from inside his arms, and both forearms began to crack. He picked up the fallen bow. The dead weight on his right arm drew the string for him. The arrow left as a line of fire and broke the sound barrier inside the first pace. Mu-jin had already thrown a vial into its path. It turned the arrow to liquid metal a body's length short of Hiromi, and the metal burned down through sand, clay and stone a spread hand from his hip. Mu-jin climbed down into the ring. The outcome of the match is not ruled, and the contents of the vial are Isaac's to name. What each took: Xanelor took hairline fractures in both forearms, a strained scaphoid, three draw fingers cut to the bone and scorched boot soles. The Omoro bow split through its upper limb. Drogo's hands had started that bow and his had finished it. He had crossed the ring and struck first, which the Way of Growing Things never does. He took a gallery that now knows the boy the intake board wrote down as having no pressure is no soft bracket. Hiromi took a split lip, a bruised shoulder and blood from both nostrils. He took an empty imprint and seven days in which every draw costs what a first call costs."
+  },
+  {
+   "name": "The last thought-wave",
+   "when": "At the end of Xanelor Rafminar's life, in the Age of Calamity his card gives him, and so after the Academy years. From the cards.",
+   "where": "Unplaced on both cards. The only ground either names is the Outer Wilds and the Frostmarch, which the Fang kept, and the Outer World, whose Codex of Sages enters Dalphne as an Unclaimed Guide (WORLD.md §3).",
+   "who": [
+    "xanelor-rafminar-the-wandering-fang",
+    "xanelor-rafiminar",
+    "dalphne-of-the-pale-bough-the-gentle-fang"
+   ],
+   "what": "Xanelor's final thought-wave reached Dalphne, a man he had never met, and gave him access to the root of the Wolf Sage Arts. Dalphne's card leaves two things unknown: whether the thought-wave was sent or simply escaped, and whether Tsuuna was Dalphne's before it arrived. What each took: Dalphne took Xanelor's Fang, which reads on a coil as a foreign structure that has integrated cleanly, the name Last Echo of Xanelor, and a mentor he honours from a distance. What Xanelor gave or meant to give is not recorded, and this record leaves it so."
+  },
+  {
+   "name": "The storm on the Varūn road",
+   "when": "Undated, and new. It falls after Kairen lost his arm and rebuilt it in iron, while he worked Accord reclamation contracts, and after Kaien left the Alchemetrica Division and refused repatriation. Kairen's life begins a generation after the Academy years, since his father is Rikudoku.",
+   "where": "The pilgrim road into Varūn's workings, the Old World (WORLD.md §3, §5).",
+   "who": [
+    "kaien-thal-ruhm-the-gilded-nomad",
+    "kairen-moto-the-iron-root"
+   ],
+   "what": "An Aether storm closed the pilgrim road into Varūn's workings while a caravan was on it. Kaien was walking the caravan through without anyone's leave, as he does. Kairen was on the same road coming out of a reclamation contract in the poisoned ground of the workings, and the housing of the Iron-Graft had cracked where it meets the shoulder. They sheltered with the caravan until the storm blew out. Kaien looked at the arm and asked before he touched it. He mended the cracked housing with his hands and told Kairen in plain words what the join was doing to him, and he stopped there. He took no payment. When the road opened he went on with the caravan. What each took: Kairen took the first plain account of the arm from a man who builds such things, where his uncle Senshi calls it a weakness, and a debt with nobody left on the road to pay it to. Kaien left a mend behind him and did not stay to be thanked, which his card records as his habit."
+  }
+ ],
+ "ties": [
+  {
+   "a": "hiromi-mahuo",
+   "b": "geturo-mahuo",
+   "kind": "kin, brothers",
+   "summary": "Geturo walks the outside and watches the doors while Hiromi takes the centre, and he knows Hiromi goes to the binding circles before dawn.",
+   "basis": "card"
+  },
+  {
+   "a": "hiromi-mahuo",
+   "b": "lily-mahuo",
+   "kind": "kin, brother and sister",
+   "summary": "Lily counts his collapses and his skipped meals, and her pen stopped for two seconds when he named his goal.",
+   "basis": "card"
+  },
+  {
+   "a": "geturo-mahuo",
+   "b": "lily-mahuo",
+   "kind": "kin, brother and sister",
+   "summary": "They exchange looks; he nods and she steers, and he permits her authority without contesting it.",
+   "basis": "card"
+  },
+  {
+   "a": "xanelor-rafiminar",
+   "b": "hiromi-mahuo",
+   "kind": "rivals",
+   "summary": "Hiromi challenged the boy with no magic for his different style, and the duel broke Xanelor's forearms and his Omoro bow and emptied Hiromi; its outcome is not ruled.",
+   "basis": "scene"
+  },
+  {
+   "a": "xanelor-rafiminar",
+   "b": "geturo-mahuo",
+   "kind": "classmates",
+   "summary": "Geturo checks a room for people where Xanelor checks it for ground, and his was the one voice that tried to talk Hiromi out of the fight.",
+   "basis": "scene"
+  },
+  {
+   "a": "xanelor-rafiminar",
+   "b": "rikudoku-moto",
+   "kind": "classmates",
+   "summary": "They sat through the first morning of Class X at its edges, the one masked at the back and the other asleep, and each met the week's fighting reluctantly.",
+   "basis": "scene"
+  },
+  {
+   "a": "xanelor-rafminar-the-wandering-fang",
+   "b": "rikudoku-moto",
+   "kind": "allies",
+   "summary": "The Fang's card counts Rikudoku a philosophical ally, and Isaac's ruling makes that Rikudoku the same man as Kairen's father.",
+   "basis": "card"
+  },
+  {
+   "a": "rikudoku-moto",
+   "b": "kairen-moto-the-iron-root",
+   "kind": "kin, father and son, estranged",
+   "summary": "Kairen reveres a father he has left, carries the Branch of Rikudoku, and says his father grew the forest.",
+   "basis": "card"
+  },
+  {
+   "a": "xanelor-rafminar-the-wandering-fang",
+   "b": "kairen-moto-the-iron-root",
+   "kind": "his ally's son",
+   "summary": "Each card points to the other through Rikudoku, and nothing records that they met.",
+   "basis": "card"
+  },
+  {
+   "a": "dalphne-of-the-pale-bough-the-gentle-fang",
+   "b": "xanelor-rafminar-the-wandering-fang",
+   "kind": "successor",
+   "summary": "Dalphne holds Xanelor's last thought-wave and the root of the Wolf Sage Arts, and honours a mentor he never met.",
+   "basis": "card"
+  },
+  {
+   "a": "kaien-thal-ruhm-the-gilded-nomad",
+   "b": "kairen-moto-the-iron-root",
+   "kind": "debt",
+   "summary": "Kaien mended the cracked Iron-Graft on the Varūn road in a storm, explained the join and left before he could be paid.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "xanelor-rafiminar",
+   "wants": "The Headmaster of the Aetherion Academy, who answered Drogo's letter under a blue tower seal and took a boy the intake board wrote down as having no detectable pressure."
+  },
+  {
+   "slug": "xanelor-rafminar-the-wandering-fang",
+   "wants": "An official of a polity bordering the Frostmarch who wants to thank him formally, which is the one thing that would make him leave."
+  },
+  {
+   "slug": "rikudoku-moto",
+   "wants": "A keeper of the Great Spirit Tree, the tree the Branch of Rikudoku was cut from; Vaelorian Theryn Aerethiel's card calls it his conduit."
+  },
+  {
+   "slug": "kairen-moto-the-iron-root",
+   "wants": "The Guild Accord officer who writes his reclamation contracts and withholds the charter."
+  },
+  {
+   "slug": "lily-mahuo",
+   "wants": "An Academy examiner or assessor, the grader whose standards she has been measuring her own against."
+  },
+  {
+   "slug": "hiromi-mahuo",
+   "wants": "Saeloria, Queen of Eresse, the mother of his son Karo Venrik by Isaac's ruling (RULINGS.md, 2026-09-12)."
+  },
+  {
+   "slug": "geturo-mahuo",
+   "wants": "A working alchemist outside his family who takes his craft seriously on its own terms."
+  },
+  {
+   "slug": "kaien-thal-ruhm-the-gilded-nomad",
+   "wants": "The officer of the Alchemetrica Division who carried the offer of repatriation he refused."
+  },
+  {
+   "slug": "dalphne-of-the-pale-bough-the-gentle-fang",
+   "wants": "The Guild Accord officer who sends for him when a seal will not open and asks each time whether he will take a position."
+  }
+ ],
+ "same_person": [
+  [
+   "xanelor-rafiminar",
+   "xanelor-rafminar-the-wandering-fang"
+  ]
+ ],
+ "card_contradictions": [
+  "The surname. The Academy card and scenes/the_turtles_boy.md spell it Rafiminar (\"Xanelor Rafiminar left Omoro on a trading vessel two days later.\"). The Wandering Fang's card, Dalphne's card and scenes/xanelor_the_introductions.md spell it Rafminar (\"I am Xanelor Rafminar.\").",
+  "Fenriris. Dalphne's card calls Xanelor \"pactbearer of Fenriris\". The Wandering Fang's card: \"What answers Xanelor's pact appears in no current canon document and is carried here as unnamed and unidentified\". RULINGS.md, 2026-09-12, strikes Fenriris as non-canon.",
+  "The Mahuo children's ages and order. Lily's card: \"Age: 14. A year and two months older than the twins.\" and \"Hiromi (younger brother)\". Hiromi's card: \"Age: 13. Twin (younger by minutes than Geturo).\" Geturo's card: \"Age: 14. Twin (older by minutes than Hiromi).\" The cards disagree with each other, twins of two ages, and all three with Isaac's ruling (RULINGS.md, 2026-09-18): \"His children's ages are fixed at Geturo 15, Hiromi 13, Lily 12; Geturo is the eldest and Lily the youngest\".",
+  "Rikudoku's birth. Rikudoku's card: \"Rikudoku's conception sits inside the Scourge of Hell period, when Sodoku was roughly twenty-two\", and he \"was around six\" when Hild died. Yoko Mishiro's card: \"a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way\". Against both, scenes/the_revolution_of_the_inner_world.md has him born at Kharven-Seat after Hild's death, in the revolution's fourth year: \"a Reckoner at Kharven-Seat asked a question in a corridor in the fourth year\". The same scene makes Emira \"twenty-four\" at the birth; Rikudoku's card makes her \"Approximately 22\" when he is thirteen.",
+  "Rikudoku's Mishiro inheritance. Rikudoku's card: \"Every line of his only archived description is Moto and nothing in it is hers\", \"Eye colour unspecified\", and the question \"is assigned to Isaac and is not to be invented in prose.\" scenes/the_revolution_of_the_inner_world.md: \"The ears came on the ninth day.\" and \"amber eyes that were his mother's and are still.\" scenes/xanelor_rikudoku_and_the_address.md describes him with no ears.",
+  "Xanelor's skin. The Academy card: \"Brown skin\". scenes/the_turtles_boy.md: \"a pale and too-thin child\". The first-bell scene's notes: \"Corrects earlier incorrect description.\"",
+  "The boy's current and the man's four. The Academy card makes his Essence Typology \"Vectoria, probable primary\", and the Academy State of Play lists \"Xanelor's Wellspring, Vectoria, reading as confirmed\" among the items Isaac has not ruled. The Wandering Fang's card lists four harmonisations, Eidolyn, Fixatio, Anima Spirare and Transference, none of them Vectoria, and warns that \"a fifth would cost him the pact\".",
+  "Bonds. The Academy card sets Drogo on his Axes as \"Foundational, absolute, permanent.\" and estimates an Attraction share on his Path \"(estimated from training emphasis)\". The Wandering Fang's card: \"He has a pact and he does not have bonds.\" and \"A man who will not be commissioned does not form Axes\".",
+  "The Age of Calamity. The Wandering Fang's card: \"Era · Age of Calamity.\" wiki/The Disciplines/The Sage Arts.md: \"The Age of Calamity proved the discipline's combat value.\" followed by \"By the Voyager Era the Sage Arts have retreated from metropolitan practice.\" That order puts the Age of Calamity before the Voyager Era, long before the Academy years; the Harmonic Arts and Spirit Rune Arts pages order it the same way. WORLD.md §1 files the Age of Calamity under \"Fit none\".",
+  "Rikudoku's identity on the wiki. wiki/Cosmology & Metaphysics/The Veil.md: \"the wiki mirror flags him as needing re-identification before anything about him hardens into fact.\" The Wandering Fang's card records the re-identification as ruled on 2026-09-12.",
+  "The cast index. scenes/CAST.md files \"Kaien Thal'Ruhm (a.k.a. Kaien Rhuven, Kaien Veyren)\" on the strength of the summoners' morning's Instructor Kaien. Those are three cards. The scene gives no surname."
+ ]
+}

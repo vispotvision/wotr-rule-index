@@ -1,0 +1,152 @@
+{
+ "id": "c34",
+ "name": "The Night Register",
+ "era_span": "The archive's present, which the frame places in the Withering Era: the days around the Ferriby cut in The Night's Watch (scenes/the_nights_watch.md), from before the ninth to a night after the fourteenth at Cutler Row, some time after Vaeloris reformed. No card and no scene gives a year or an era name. The four stub cards derive from that one scene; Wystan's card reaches back to his Catalyst Event at nineteen and his eleven years on the desk. The one new event, the Timberline bench, sits just before the ninth and is dated no further.",
+ "members": [
+  {
+   "slug": "wystan-ashmore-late-bell",
+   "line": "Officer of Attribution on the Night Register, the Guild Accord Arbitration Division's night desk on Cutler Row; Northern register, chartered family, third son; Master, addressed as Warden of Duty; eleven years on the desk. At nineteen, clerking assay tins in a Measurewright's roll-room, he opened a sealed tin bare-handed and received a dead man's last minute. He carries forty-one such minutes by his card, one of them Osgood Keld's, the officer who trained him. He refuses \"To sign an attribution he cannot derive\", and was moved to nights after filing a chartered house's purse accurately."
+  },
+  {
+   "slug": "qiu-yinzhi",
+   "line": "Twenty-three, capped eight months, of a Measurewright lineage and an artificer's apprentice; coil-carrier for the Timberline chapter of the Night Watch Society, with a regulation bracelet that pulls toward a suppressed practitioner. Her master died two years before the scene after anamnetic contact taken against advice. She sat five days on a clean Ferriby return, then brought it to Cutler Row, and leaves the scene the assay of record on a Night Register exhibit with her full name at the head of its docket."
+  },
+  {
+   "slug": "nol-tally",
+   "line": "Forester and deer-counter of the Timberline chapter, North Ferriby walk, filed as \"Tally, N.\"; forty miles of timber a week; \"The sort of man who measures.\" He found eleven hinds and a stag dead where they stood in the Ferriby cut, measured the mass, cut a section, and checked the clean ground past the parish marker twice. On the fourteenth he filed in person and asked whether the Night Register was a person. He has not walked his line since the eleventh. Known by name to Malphas's cell."
+  },
+  {
+   "slug": "lu-sanjing",
+   "line": "A scholar, cited only, of the lineage-hall register. At the end of a long and distinguished career he wrote in his studio the honest position on why Wellsprings surface, wander and return: \"we do not know, and the instrument does not care that we do not know.\" Wystan holds it against the eleven competing accounts and the one the Accord enforces. His card does not say whether he lives."
+  },
+  {
+   "slug": "edwyn-brack",
+   "line": "Classifier in the Lattice Classification Bureau's northern office, Northern stratum; his signature is on half its classifications, and in Wystan's experience he has never been wrong in a way that mattered. He returned the Ferriby insert inside two days as \"Wellspring bleed, Verdantia, tertiary expression, no operator indicated\", no further action and no file: correct off a true measurement, and \"exactly what Malphas's method is built to produce\"."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Timberline bench",
+   "when": "The archive's present, before the ninth. Yinzhi already carried the chapter's coils and Tally already walked the North Ferriby walk; no card says when either began.",
+   "where": "The Timberline chapter's bench of the Night Watch Society, and the walks the chapter keeps. The scene gives the bench a standard to calibrate against and a morning hour to do it (the_nights_watch.md, 259). No page places the chapter in any polity of WORLD §3, and this record places it nowhere.",
+   "who": [
+    "nol-tally",
+    "qiu-yinzhi"
+   ],
+   "what": "New. Tally walked his forty miles each week and sent his counts in by other hands. He never carried one to the bulletin office himself. What he brought out of the timber came measured, by count and by rule, with the place given by the nearest stone. The chapter calibrated its coils at the bench, and Yinzhi carried them. When a walker's find wanted sealing, she went out to the ground with a tin. What came back she assayed at the bench. In that way she came to know his walk and his way of filing. Neither of them had any dealing with Cutler Row. Took: Tally, a coil-carrier of his own chapter who would come out to the ground and seal what he cut; Yinzhi, a walker's habits she could read by, so that on the fourteenth she knew what \"in person\" meant for him."
+  },
+  {
+   "name": "The Ferriby cut",
+   "when": "The ninth and tenth of the month The Night's Watch opens in; no month or year is named. By the night at Cutler Row, Vaeloris \"had reformed after the void took it\" (37).",
+   "where": "The Ferriby cut on the North Ferriby walk; the Ferriby stones and a parish boundary marker to the north; the Timberline chapter's bench. The scene's country keeps counties and parishes, the Swale walks, timber towns in the east and the Marches. No page places any of it in a polity of WORLD §3, and this record places none of it.",
+   "who": [
+    "nol-tally",
+    "qiu-yinzhi"
+   ],
+   "what": "On the morning of the ninth Tally came down the Ferriby cut and found eleven hinds and a stag inside a quarter mile, all of them dead where they stood and all of them \"carrying\": a pale grey-green mass up through the hide along the spine and flanks, fibrous at the base and soft at the crown. He measured it to nine inches at the tallest and cut a section with his knife; the tissue under the mass had not decayed. Yinzhi sealed the section in a Fixatio-anchored tin inside the hour, standing in the cut. Four ravens sat in the birch across the cut the whole time he worked, and none came down. On the tenth he walked the line north to the Ferriby stones and found the ground clean, went back, and found the last carcass twenty-two paces short of the parish boundary marker, with clean ground beyond it. He checked the far side twice. That morning Yinzhi calibrated a coil at the chapter bench at the eighth hour, loaded the sample dry and ran four passes, the last with the gate open. All four came back clean, and the fourth burned the coil. Took: Tally, a count, a height and a boundary checked twice, all written down; he did not walk his line after the eleventh, and no page says why. Yinzhi, a return with no author in it, run four times, and a burned coil; she did not file it, and for five days told herself she was not good enough to have read it."
+  },
+  {
+   "name": "The return and the fourteenth",
+   "when": "After the ninth. The Bureau's return came \"inside two days\", and Tally carried his insert to the bulletin office on the fourteenth; the scene orders the two no more closely than that.",
+   "where": "The Lattice Classification Bureau's northern office and the Night Watch Society's bulletin office. No page places either.",
+   "who": [
+    "edwyn-brack",
+    "nol-tally"
+   ],
+   "what": "The Ferriby insert reached the Bureau's northern office, and Brack returned it inside two days: Wellspring bleed, Verdantia, tertiary expression, no operator indicated. His note said the vein had probably surfaced through a fault in the drift geology and would exhaust itself by autumn, and recommended no further action and no file. Two of the Arbitration day-desk agreed before they had finished reading. Neither Brack nor the day-desk mentioned the boundary. On the fourteenth Tally carried his insert to the bulletin office himself and asked the clerk what happens to a filing after the Bureau closes it. The clerk said it goes to the Night Register. Tally asked whether the Night Register was a person, and the clerk said it was. The office printed the insert on its cheapest rag, nearly cut the last paragraph for length, and sent it up to Cutler Row in a bundle of nine. Took: Brack, one more return under his signature, correct off the measurement it was given; Tally, the clerk's word that the Register was a person."
+  },
+  {
+   "name": "Forty-two",
+   "when": "A night after the fourteenth, the main under Cutler Row off since the eleventh division; Yinzhi knocked at the third hour and a half, and the bell for the fourth division went while Wystan stood at the sink.",
+   "where": "Cutler Row: the Night Register's desk, and the back room behind it, a scullery before the Division took the building, with the drain in the floor and the long stone sink under the window.",
+   "who": [
+    "wystan-ashmore-late-bell",
+    "qiu-yinzhi",
+    "nol-tally",
+    "edwyn-brack",
+    "lu-sanjing"
+   ],
+   "what": "Only Wystan and Yinzhi were in the room; Tally is present by his insert, Brack by his classification, Lu Sanjing by his line. Wystan read Tally's insert twice and its last paragraph four times, and wrote \"edges\" in the margin and \"ask Tally who set the marker\" under it: a bleed has no edge, and a boundary means a hand, Article XV and a purse. Under that ran Lu Sanjing's line. Yinzhi came up the stair with the Ferriby tin, seal unbroken, told him of Tally's line and his question at the bulletin office, then of her clean return. He put on his gloves and had her break the wax. In the back room the wedge had grown, about a quarter inch, inside the sealed tin. He asked the tin \"What is carrying the signature\", and had her open the gate and sweep below the Bureau's floor. At a minute and forty the wire went over hard. The residue was signed by the hind; the deer had run the working on its own Lattice, so Brack's classification was correct. She told him of her master, would not stand in front of the bench, and asked him to count aloud afterward. He put his bare fingers on the wedge and received the hind's last minute, warm and unafraid while her legs came apart, the ravens arriving and not coming down. He was sick at the stone sink, then counted: forty-two. He called it a design. He told her to write to Tally and have him keep walking and measuring, had the wedge moved to a fresh tin under his brass as a Register exhibit, and asked her full name for the docket. She wrote it out. Took: Wystan, a forty-second minute he called \"the worst thing in the tin\", a Register exhibit, an assay of record, and a purse to chase under Article XV, \"the first honest reason I have had in four years to be awake at this hour\"; no hand anywhere in the cut. Yinzhi, the hind's signature found below the floor, her name at the head of a Register docket, his warning that at a hearing they will come for her first, and a letter to write to Tally. Tally, absent, a request for a second dataset from the same observer. Brack, absent, the verdict that he \"is not a fool and is not corrupt\". Lu Sanjing, absent, his line kept against eleven accounts at the third hour."
+  }
+ ],
+ "ties": [
+  {
+   "a": "wystan-ashmore-late-bell",
+   "b": "qiu-yinzhi",
+   "kind": "officer and assay of record",
+   "summary": "She brought the Ferriby tin to Cutler Row, swept below the Bureau's floor at his asking, watched him take the forty-second minute, and wrote her name at the head of his docket.",
+   "basis": "scene"
+  },
+  {
+   "a": "wystan-ashmore-late-bell",
+   "b": "nol-tally",
+   "kind": "officer and observer",
+   "summary": "Wystan read his insert twice and its last paragraph four times and wants a second dataset \"from the same observer\"; Tally had asked whether the Night Register was a person.",
+   "basis": "card"
+  },
+  {
+   "a": "wystan-ashmore-late-bell",
+   "b": "edwyn-brack",
+   "kind": "counterparts across desks",
+   "summary": "Half the northern office's classifications carry Brack's signature, and in Wystan's experience he has never been wrong in a way that mattered; the Ferriby assay showed his return correct off a true measurement.",
+   "basis": "card"
+  },
+  {
+   "a": "wystan-ashmore-late-bell",
+   "b": "lu-sanjing",
+   "kind": "reader and author",
+   "summary": "Wystan holds Lu Sanjing's honest position against the eleven competing accounts and the one the Accord enforces.",
+   "basis": "card"
+  },
+  {
+   "a": "qiu-yinzhi",
+   "b": "nol-tally",
+   "kind": "comrades of one chapter",
+   "summary": "Both are of the Timberline chapter; she sealed the wedge he cut in the Ferriby cut, carried his news to Cutler Row, and leaves the scene charged to write to him.",
+   "basis": "scene"
+  },
+  {
+   "a": "qiu-yinzhi",
+   "b": "edwyn-brack",
+   "kind": "two readings of one residue",
+   "summary": "Her four passes, on coils built to the Bureau's floor, came back as clean as his classification said; her sweep below the floor showed why both were right.",
+   "basis": "scene"
+  },
+  {
+   "a": "nol-tally",
+   "b": "edwyn-brack",
+   "kind": "filer and classifier",
+   "summary": "Brack's return closed the Ferriby matter as a bleed and never mentioned the boundary Tally checked twice.",
+   "basis": "scene"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "wystan-ashmore-late-bell",
+   "wants": "The chartered house whose purse he chased and filed accurately, the month before he was moved to nights (his card, XIV): its head, or the factor who kept that purse. No card names the house. Isaac's direction for the book ends it with Wystan and Malphas at the Academy \"separately without knowing they were connected\" (book/night-watch-zombification/bible.md, 11), so this record gives Wystan no tie into Malphas's cell (c35)."
+  },
+  {
+   "slug": "qiu-yinzhi",
+   "wants": "A Measurewright under the Hexagonal Oath to stand behind her assay at a hearing, or to take it apart: the Bench of Attribution's Instrument chair is the Measurewrights', and she is the assay \"they will come for\" first. Her own master is dead, unnamed and uncarded. In c35 Ilmar Foss, \"Struck from the Hexagonal Oath\", is the cell's instrument-maker who explains why a coil reads the cut clean; neither card has either know the other."
+  },
+  {
+   "slug": "nol-tally",
+   "wants": "The people who know his name and have never met him: his card says \"Known by name to Malphas's cell\" (c35). Malphas says \"A man named Tally has looked\", and Nuvalik's objection in the same room is his four ravens: \"when the sky refuses, people walk out to see why\"."
+  },
+  {
+   "slug": "lu-sanjing",
+   "wants": "A scholar of one of the eleven competing accounts, most of all the one the Accord enforces, \"the one that suited its supply contracts\". Research and Archives funds the societies (the Modern Era page, VI). No card names such a scholar."
+  },
+  {
+   "slug": "edwyn-brack",
+   "wants": "The man whose method is built to produce his classifications: c35's Malphas, named on Brack's own card. Neither knows the other. Above Brack, the Bureau's Provost; the Derivation of Practice page quotes a third Provost \"upon her resignation\", and no card holds the office."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "When Wystan went to nights. Wystan's card: \"Eleven years on the desk, four of them after the demotion\" (I); \"He chased a purse belonging to a chartered house two years ago, filed it accurately, and was moved to nights the following month\" (XIV); \"he has taken no soul-cost event in four years\" (XVI). The scene: \"He had held the title Warden of Duty for four years\" (41), and \"the first honest reason I have had in four years to be awake at this hour\" (331).",
+  "The dead at Ferriby. Tally's card: \"On the ninth he found eleven hinds and a stag dead where they stood inside a quarter mile of the Ferriby cut\" (XIV). The scene, in Wystan's mouth at the bench: \"Nine hinds and a stag are dead in a cut in the north\" (345). At Greyshaft Nine: \"Nine hinds hung on the rail.\" (105).",
+  "The wedge's days. Yinzhi's card: \"Sat five days on a clean return\" (XIV). The scene has her seal the tin \"on the ninth\", assay it \"on the tenth\", and carry it \"around for five days\" (85, 89); it has the wedge \"cut with a knife eleven days ago and sealed inside the hour\" (273), and the day book reads \"crown +¼ in sealed, 11d\" (279). Tally filed on the fourteenth. The counts do not meet on one night.",
+  "What Article XV reaches. Wystan's card: \"He can name who performed and never who paid\" (X); \"Article XV supplies the rest, since liability falls on the payer and his gift returns only the hand\" (Notes). The scene: \"a hand means Article XV and a purse behind it\" (31); \"Article Fifteen says the liability follows the payer\" (177). The Articles page gives Article XV as De voce, the speaking: \"Liability for a spoken working falls on the person who paid for it\", and \"A working that was spoken has no author in its own grammar.\" The Ferriby working was a formulation put into an animal (117 to 161), and no line calls it spoken."
+ ]
+}

@@ -1,0 +1,281 @@
+{
+ "id": "c04",
+ "name": "The Curia at Altherion",
+ "era_span": "From the Fall of Kirishima Hae-jin, long before the Great Spirit War (the Kept Vigil at Sum-gol), to the archive's present: the fourteen days beneath the Grand Church, the fourteenth day and its ninth hour, and Dabney's thirteenth year. Gimbzo is First-Eon-born and seated in the Plane of Fate, as his card allows. The Ignatius card says Voyager Era while every other source here puts Darius in the present; left open.",
+ "members": [
+  {
+   "slug": "aurelian-prudentius-custos-clausorum-the-primate",
+   "line": "Born Mahuo Do-hyeon of Sum-gol, the one of eleven in his cohort who lived; Primate of the Grand Church at Altherion and Word of Judger, who has never converted a finding into a sentence, runs a fever from a suspension held since twenty-seven, holds one of three Sealed Standard keys, and anchors Verinus's dawn Sacrament without having been asked."
+  },
+  {
+   "slug": "verinus-vii-the-palatine",
+   "line": "Born Osric Peyser of Coldwater Steps; Palatine of the Holy Sea of Alabaster, whose Sounding weighs what a statement costs the speaker; made by the harbour steps and Meren; on the fourteenth day he signed for Aurelian's four under the Grand Church over Aurelian's refusal."
+  },
+  {
+   "slug": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "line": "Darius in the archive: Archpaladin of Sanctum Lux and unvested Will of Judger, author of the order's apparatus, four fractures in his Crystal, who refuses to weigh twice; his card says Voyager Era and gives his Catalyst as the Sanctified Legion immolated while he did not break."
+  },
+  {
+   "slug": "gimbzo",
+   "line": "First-Eon Moto, contemporary of Bara and Anchor of the Original Moto Conclave, broken by Dougou the Iron Bison on a salt flat and taken whole into the Plane of Fate as living infrastructure; in the archive he sits in a gate in the ash at Sum-gol and teaches Darius the seven Works."
+  },
+  {
+   "slug": "dabney-corvalen-olyss-the-thorn-petaled",
+   "line": "Thirteen, of the Palatinate of the Holy Sea, ward of Edward Lambert, trained seven years by Darius and about to enter the Academy; a Catalyst he cannot remember, no friend his own age, a cat called Astro; the archive's Dabney Charles Lambert, son of Charles Lambert and Anyu Qilak."
+  },
+  {
+   "slug": "casimir-aldous-alleyne-the-ashen-hand",
+   "line": "Apprentice transmuter under his grandfather Bertrand Aurel's unlicensed charter, flagged by the Guild Accord's Alchemia Division; grief forced an aperture too large for him and the Coagulatio reflex sealed it at the cost of his right eye; his parents' deaths seeded his Mortalis; no scene holds him."
+  },
+  {
+   "slug": "kaalabad",
+   "line": "Kujo's general, given discretion, with a halberd, a gorget and a scar band at the throat; the man who continues forward; beaten only by structure, when Kwon Mu-jin collapsed his pull on its own axis; the present of Kirishima Hae-jin's life."
+  },
+  {
+   "slug": "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+   "line": "Kirishima Hae-jin, folk name Kaalabad, once the knight others measured themselves against; Azerack's halberd, the Realm of Zarakal across Sum-gol, the Kept Vigil it left behind, and chains struck by the Accord and Sanctum Lux together; his card gives him as imprisoned."
+  },
+  {
+   "slug": "corwin-sesk",
+   "line": "Interrogator under instruction, tidy and without appetite, who worked fourteen days on Aurelian, stopped on the twelfth, never once lied to him, and put his own ignorance into the record; fifty, twenty-two years in the trade, a daughter in Foraye."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Fall at Sum-gol and the Kept Vigil",
+   "when": "Kirishima's Fall and Sum-gol campaign long before the Great Spirit War (his card; the chaining undated); Aurelian's boyhood in the same valley, ending when he was nine, in the generation before the present",
+   "where": "Sum-gol (Breath Hollow, the Mahuo province of Ketsuen) and the Tower of Zarakal at the centre of the Realm",
+   "who": [
+    "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+    "kaalabad",
+    "aurelian-prudentius-custos-clausorum-the-primate"
+   ],
+   "what": "Card: Kirishima took the Halberd of Zarakal from Azerack and his Realm spread across Sum-gol; the Tower rose at its centre; when the Realm drew back it left the Kept Vigil, Sum-gol's Hanseon compact, still drawing on a debt nobody living incurred; the Accord and Sanctum Lux chained him together at a price neither disclosed to the other. Card: long after, the valley taught Mahuo Do-hyeon the pause at seven, before letters, and by nine his family had gone by attrition and he walked out alone. New: the valley he grew up in already had one ground nobody surveyed and nobody went near, where the old debt was still being paid. Kirishima took a claim on Sum-gol that persists without his attention, and on coming up out of the quiet asked Kujo for the Mahuo before any other house (kaalabad_the_petition.md). Aurelian took the pause out of the valley as the last practitioner taught by someone taught there; new, he left a valley already paying a debt with no living author, and rose in the order that paid part of the price of Kirishima's chains."
+  },
+  {
+   "name": "The God Hand in the lower chapel",
+   "when": "Ten years before the fourteenth day",
+   "where": "Altherion, the lower chapel of the Grand Church",
+   "who": [
+    "aurelian-prudentius-custos-clausorum-the-primate",
+    "ignatius-sanctus-sanctorum-arsenal-the-archpaladin"
+   ],
+   "what": "Scene (07_charles_the_imperceptible_district.md; 14_darius_two_men_who_would_not_take_the_seat.md): four men present, the door barred, eleven minutes. Aurelian put the chain of the Scale amulet over Charles Lambert's head; Darius stood across the table, never looked at Charles, and signed second. The office is held between two, one to carry and one to spend, walked out through different doors. Aurelian took ten years of wondering which half would go first, and felt the office go at the ninth hour of the fourteenth day. Darius took a channel whose far end nobody told him; it spent him at that hour, and that was his twelfth trial in the ash (09_dabney_the_undamped_thing.md)."
+  },
+  {
+   "name": "Nine months in the ash at Sum-gol",
+   "when": "The nine months ending on the fourteenth day, after the Regent put Darius inside Fate (14_darius)",
+   "where": "Sum-gol, a plane sideways: the ash, the gate in the wood and Kizami's trunk in the Plane of Fate",
+   "who": [
+    "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+    "gimbzo"
+   ],
+   "what": "Scene (seven_labors.md; balance_lesson.md; 04_verinus_the_hand_and_the_print.md; 09_dabney_the_undamped_thing.md): Gimbzo, holding no writ, offered to teach him; named the seven labors with Ruin first; offered Balance alone because a fifth fracture ends the Crystal; knocked him off the axe haft when the fifth began to ring; taught him that an arch is two collapses leaning on each other; spent four months configuring the Fist of God; and at the ninth hour of the fourteenth day, when the God Hand spent Darius as Charles Lambert died, charged him to teach a child who had just opened and keep him from the Regent, and opened the gate. Darius took the seven Works, Kami-no-Kobushi, the charge, and a fifth fracture that began and went back down unclosed. Gimbzo took the first student who said his sentence back to him, and sent him to a child neither of them named."
+  },
+  {
+   "name": "The fourteen days beneath the Grand Church",
+   "when": "The fourteen days of the Cloister Ward's shutdown, ending on the fourteenth day before the Curia sat; day eleven crowded",
+   "where": "Altherion, the cellar beneath the Grand Church; on day eleven the council chamber beneath Vaeloris and the sky above Sum-gol",
+   "who": [
+    "aurelian-prudentius-custos-clausorum-the-primate",
+    "corwin-sesk",
+    "kaalabad",
+    "verinus-vii-the-palatine"
+   ],
+   "what": "Scene (commencement_of_the_curia_kujo_arc.md; sesk_the_report.md; kaalabad_the_petition.md; kaalabad_star_crusher.md; 01_verinus_fire_of_the_undeserving.md): Aurelian walked in on his own feet for four Attestants and a scriptorium; Sesk stopped the molars, took the strips, seated the nails, broke the knee, and Aurelian suspended every injury. On day eleven Sesk told Kujo the four had left through the low cloister and asked that the work stop; Kaalabad stopped Sesk's breath with a look and petitioned for the Mahuo, the Valorin and the Zettari as a wage, then spent the Star Crusher on a Sum-gol village and a Valorin and Mahuo barrier declined it. Sesk stopped on the twelfth day. On the fourteenth Verinus came down in the Palatine's gold, declared the surety his, asked consent, heard no, entered it, and took every wound across the room; Sesk watched with the roster in his coat and said nothing. Aurelian took new skin, no molars, an anchor he was not told of, and his belief that the four lived. Verinus took the wounds and a declaration he could not take back. Sesk took the one line in his ledger, a report against himself, and a chosen silence. Kaalabad took an unanswered petition, a road north, and a list whose gap only Sesk heard."
+  },
+  {
+   "name": "The fourteenth day",
+   "when": "The fourteenth day, from before dawn through the ninth hour to the tenth and after: 'the worst day in the history of the North'",
+   "where": "The root of the wound in the Plane of Fate; Altherion, the precinct of the Grand Church; a keel north of the Sound; the Ashgate road and the Vaeloris quarter at Kharven; the ash at Sum-gol; new, a house in the Inner World",
+   "who": [
+    "verinus-vii-the-palatine",
+    "aurelian-prudentius-custos-clausorum-the-primate",
+    "kaalabad",
+    "dabney-corvalen-olyss-the-thorn-petaled",
+    "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+    "gimbzo",
+    "casimir-aldous-alleyne-the-ashen-hand"
+   ],
+   "what": "Scene: Verinus sealed pieces of Kujo, let thirty-five in every hundred across the Inner World die rather than spend the rite on some four thousand, became the wall anchored on Aurelian, and was set down in Utopia when the Judger's hand took the Custodia up (03_verinus, 04_verinus). At the fourth hour Aurelian came up into the precinct seeing every fate, said Dabney Lambert's name aloud, stopped Kaalabad's halberd on two fingers, then chose the future in which he did nothing and watched Kaalabad beat Charles Lambert (05_aurelian, 06_aurelian). On the Ashgate road Kaalabad pinned Wren Greymane with Zarakal and Kwon Mu-jin stripped him; Charles died in the narrows. On the keel four-month-old Dabney took his father's whole release undamped and his eyes went gold and stayed gold; in the ash Darius felt it and Gimbzo sent him through the gate (09_dabney). Over Kharven Darius kept Aurelian on his left, Aurelian spent into him as the other pan and built on Verinus's seam unknowing, and Darius held the seam without receiving it, drove the Regent out and sealed it, and fell with his hand closed (14_darius to 23_darius). New: before dawn Casimir's parents died in their bed, two of the thirty-five in every hundred; his grief forced the aperture and the Coagulatio reflex took his eye, and in the season when every scale-pan disagreed with itself the Alchemia Division logged it as a Wellspring proximity event with no fault assigned. Verinus took Utopia and the anchor still tied; Aurelian a load he does not know he carries and the choice he watched himself make; Kaalabad an empty hand at the precinct and the road; Dabney the release, the gold eyes and a Residue in the keel's timbers; Darius the seam in his closed hand, with his death reported at Alabaster weeks later (WOTR_Vaeloris_Sequence.md) against Dabney's card's seven years under him, both left standing; Gimbzo a student sent out; Casimir (new) both parents, an eye, a seal kept closed, the unopened vial and a flagged file."
+  }
+ ],
+ "ties": [
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "verinus-vii-the-palatine",
+   "kind": "debt",
+   "summary": "Verinus took Aurelian's fourteen days onto himself over his refusal, and Aurelian holds Verinus's name at weight for the Custodia without having been told.",
+   "basis": "card"
+  },
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "kind": "comrades",
+   "summary": "The Word and the Will, two of the three Sealed Standard holders, who conferred the God Hand together, fought the Void Regent in the Vaeloris quarter together, and each waited for the other to move first.",
+   "basis": "card"
+  },
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "corwin-sesk",
+   "kind": "captive and interrogator",
+   "summary": "Fourteen days on the frame; Sesk never lied to him, then kept the one truth that would have ended the arrangement.",
+   "basis": "scene"
+  },
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "kaalabad",
+   "kind": "enemy",
+   "summary": "Kaalabad came down on the man who had left the cell, lost his halberd to two fingers, and asked Kujo for Aurelian's lineage by name.",
+   "basis": "scene"
+  },
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+   "kind": "one valley",
+   "summary": "Kirishima's Fall left the Kept Vigil in the Sum-gol that raised Aurelian, and Aurelian's order helped chain him.",
+   "basis": "new"
+  },
+  {
+   "a": "aurelian-prudentius-custos-clausorum-the-primate",
+   "b": "dabney-corvalen-olyss-the-thorn-petaled",
+   "kind": "witness",
+   "summary": "Aurelian's open eyes confirmed the boy safe, and he said the name aloud in a burned precinct.",
+   "basis": "scene"
+  },
+  {
+   "a": "verinus-vii-the-palatine",
+   "b": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "kind": "foils",
+   "summary": "Two measuring faiths who never agreed on the second operation; Darius held Verinus's seam in his hand and sealed it, and Verinus believes Darius will come back.",
+   "basis": "card"
+  },
+  {
+   "a": "verinus-vii-the-palatine",
+   "b": "dabney-corvalen-olyss-the-thorn-petaled",
+   "kind": "protector",
+   "summary": "Verinus blessed him at four months, saw his eyes go gold, and kept him out of every day-book.",
+   "basis": "scene"
+  },
+  {
+   "a": "verinus-vii-the-palatine",
+   "b": "corwin-sesk",
+   "kind": "witness",
+   "summary": "Sesk watched the Sacrament from the wall, knowing the four Verinus bought were already gone, and kept silent.",
+   "basis": "scene"
+  },
+  {
+   "a": "verinus-vii-the-palatine",
+   "b": "casimir-aldous-alleyne-the-ashen-hand",
+   "kind": "debt",
+   "summary": "Verinus let thirty-five in every hundred go, and Casimir's parents were two of them; neither knows the other's name.",
+   "basis": "new"
+  },
+  {
+   "a": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "b": "gimbzo",
+   "kind": "teacher and student",
+   "summary": "Nine months in the ash; the seven Works, the Fist of God, and the charge of a child.",
+   "basis": "scene"
+  },
+  {
+   "a": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "b": "dabney-corvalen-olyss-the-thorn-petaled",
+   "kind": "teacher and student",
+   "summary": "Seven years of forms under Darius, the Crystal confirmed at six.",
+   "basis": "card"
+  },
+  {
+   "a": "gimbzo",
+   "b": "dabney-corvalen-olyss-the-thorn-petaled",
+   "kind": "charge",
+   "summary": "Gimbzo felt a child open in the hour Dabney took his father's release and sent Darius to teach him; the scene names no child, and the Paragon question stays off Dabney's card.",
+   "basis": "scene"
+  },
+  {
+   "a": "dabney-corvalen-olyss-the-thorn-petaled",
+   "b": "casimir-aldous-alleyne-the-ashen-hand",
+   "kind": "the same day",
+   "summary": "Dabney lost his father at the ninth hour of the fourteenth day and Casimir lost both parents before its dawn; they have not met.",
+   "basis": "new"
+  },
+  {
+   "a": "kaalabad",
+   "b": "corwin-sesk",
+   "kind": "fellow instruments",
+   "summary": "Two of Kujo's people in the same chamber beneath Vaeloris on day eleven; Kaalabad stopped Sesk's breath with his neck, and Sesk heard the gap in his list.",
+   "basis": "scene"
+  },
+  {
+   "a": "kaalabad",
+   "b": "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+   "kind": "same person",
+   "summary": "One life: the Kujo general is Kirishima Hae-jin come up out of the quiet.",
+   "basis": "scene"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "aurelian-prudentius-custos-clausorum-the-primate",
+   "wants": "Cozbi Mahuo (c09): the other Mahuo at the Zenith, who took the same valley and concluded that decisions are the problem; they have met once and neither filed a record of it."
+  },
+  {
+   "slug": "verinus-vii-the-palatine",
+   "wants": "An officer of the Alabaster Court left holding his empty seat, above all his First Auditor Deacon Ilse Barrow (uncarded), who outweighs him in his own Domain."
+  },
+  {
+   "slug": "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+   "wants": "Vaelen Mourcrix · The Exculpate Arbiter (c10), whom his card asks to be built as his matched pair: Vaelen weighs, Darius concludes."
+  },
+  {
+   "slug": "gimbzo",
+   "wants": "Dougou Ozumu Zettari (c09), the Iron Bison who broke him on the salt flat, and the bloodline that carries Dougou's residue, the first thing he will look for."
+  },
+  {
+   "slug": "dabney-corvalen-olyss-the-thorn-petaled",
+   "wants": "Edward Lambert · The Arithmetic (c01), his guardian."
+  },
+  {
+   "slug": "casimir-aldous-alleyne-the-ashen-hand",
+   "wants": "An officer of the Guild Accord's Alchemia Division who holds the flag on his pre-registration."
+  },
+  {
+   "slug": "kaalabad",
+   "wants": "Kwon Mu-jin (c09), the schoolmaster of the house at Sum-gol who collapsed his pull on its own axis and stripped him on the Ashgate road."
+  },
+  {
+   "slug": "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+   "wants": "A Mahuo of Sum-gol who grew up beside the Kept Vigil his Fall left, such as Ara Min Mahuo (c09); Azerack, his corruptor, has no card."
+  },
+  {
+   "slug": "corwin-sesk",
+   "wants": "His daughter in Foraye, unwritten to for five weeks (uncarded), or the party upstairs whose instruction he works under."
+  }
+ ],
+ "same_person": [
+  [
+   "kaalabad",
+   "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights"
+  ]
+ ],
+ "card_contradictions": [
+  "Darius's era: Ignatius Sanctus Sanctorum Arsenal, \"Era · Voyager Era.\" Aurelian Prudentius lists \"Darius Ignatius Sanctus Sanctorum, Archpaladin, the Will of Judger\" as \"(living)\" beside a Primate of fifty-eight; Verinus VII lists \"Darius, Archpaladin of Sanctum Lux\" as \"(living)\"; Dabney Corvalen Olyss has him \"Trained by Darius Ignatius Sanctus Sanctorum Arsenal for seven years\" at thirteen. Sanctum Lux.md: an apparatus \"thirty-five years old\" by a man who \"is still alive\".",
+  "Darius's name: the Ignatius card's title is \"Ignatius Sanctus Sanctorum Arsenal\" and never says Darius; Aurelian's card writes \"Darius Ignatius Sanctus Sanctorum\"; Dabney's writes \"Darius Ignatius Sanctus Sanctorum Arsenal\"; notes to 04_verinus_the_hand_and_the_print.md: \"Darius corrected to Darius Ignatius Sanctus Sanctorum ... The invented surname is struck.\"",
+  "Which Stage is Zenith: Gimbzo gives his Temperance Stage as \"XII\" and names it \"Zenith, anchored permanently\"; Aurelian Prudentius and Kirishima Hae-jin both give Zenith as \"XIV\"; Verinus VII and Ignatius give \"XII\" as \"Emanation\".",
+  "Wellspring spelling: Gimbzo \"Fixatio · Monlithion · Coagulatio\"; Kirishima Hae-jin \"Monolithion primary (The Enduring Monument\".",
+  "Where Verinus is: Aurelian Prudentius, \"Verinus VII, the Palatine (living, in Utopia)\"; Verinus VII, \"Head of state and head of the faith, seated at the Alabaster Court\", on a card whose Spirit Axes already record the dawn Sacrament. (Scenes: 04_verinus sets him in Utopia; WOTR_Vaeloris_Sequence.md has him at Alabaster after Darius's death.)",
+  "Kaalabad's status: Kaalabad, \"Status: alive and advancing at last sight, after injuries that should have ended him.\"; Kirishima Hae-jin, \"Status: Imprisoned, chained, Domain intact and active at range\".",
+  "Kaalabad's name and origin: Kaalabad, \"Name: Kaalabad. No second element given.\" and \"Age / origin / register: not stated.\"; Kirishima Hae-jin gives the true name and \"Folk name: Kaalabad, the Radiant God of Knights\". The Kaalabad card leaves the spelling open; notes to 05_aurelian_primate_under_the_wrong_stars.md: \"Ruled 2026-09-12: Kaalabad is correct, matching Kirishima Hae-jin's own Volume I card title.\"",
+  "The throat (card against scene): Kaalabad's card, \"the scene tells us where it came from: Wren 'driven steel into his throat.'\"; kaalabad_the_petition.md, \"Somebody had put a hand around that throat a very long time ago and closed it and had never entirely let go\"; the card's helmet \"where a strap had stretched\" against the petition's \"the strap was fine and the skull underneath it was not the shape helms are made for\".",
+  "Kaalabad's years against his jailers (card against scene): kaalabad_star_crusher.md counts \"Nine hundred years\" under the seal; 05_aurelian has him think \"Forty years\"; the Kirishima card names the Accord among the jailers, and WORLD.md dates the Accord from Year Zero.",
+  "Sesk's face and age (card against scene): Corwin Sesk leaves \"Hair, face, build, clothing, distinguishing marks\" null and \"Age / origin: not stated.\"; commencement_of_the_curia_kujo_arc.md, \"He was fifty and unremarkable in every particular\" and \"Sandy going grey, a bald patch he combed nothing over\".",
+  "Dabney's name and father (card against scene): Dabney's card leaves his surname unsettled, is titled Dabney Corvalen Olyss and makes him \"Ward of Edward Lambert\"; verinus_weight_of_an_infant.md, \"Dabney Charles Lambert. Four months on the ninth.\" UNCARDED.md notes Part 20 flags the pair as not yet squared.",
+  "Darius alive or dead (card against scene): Dabney's card, \"Trained by Darius Ignatius Sanctus Sanctorum Arsenal for seven years.\"; WOTR_Vaeloris_Sequence.md, \"Darius is dead.\" and Verinus there, \"He is going to come back.\"; that file's Open Rulings keep \"Darius alive in the Works\" open.",
+  "The investiture (card against scene): Aurelian's and Verinus's cards, refused \"for eleven years\"; seven_labors.md, \"refused the investiture on top of that, six years running\".",
+  "The fifth fracture (card against scene and wiki): Ignatius, \"A fifth risks partial ocular collapse and permanent loss of perceptual acuity\"; seven_labors.md, \"A fifth kills the Crystal.\"; Sanctum Lux.md, \"a Soul Crystal that will not survive one\".",
+  "The Catalyst (card against wiki): Ignatius, \"The Sanctified Legion of Sol Invictus was immolated during the Eclipse Wars, and he did not break\", with its Open Ruling that these \"appear only in the legacy sheet\"; Sanctum Lux.md, he \"led four hundred Sanctified Legionaries through the outer gate of the Eclipse Bastion\". The Open Ruling stands.",
+  "A struck name: Verinus VII, \"its treaty position with the Malo of Satulagi\"; LAW.md §3, Sātūlagi \"does not exist and never did\" (R21-1-SATULAGI_STRUCK).",
+  "The Sounding's years (card against scene): Verinus VII, \"Seated. Continuous. Nineteen years without interruption.\"; verinus_weight_of_an_infant.md, \"He had held the Sounding for forty-one years\".",
+  "Kaalabad's voice (card against scene): Kirishima Hae-jin, \"He does not raise his voice, because nothing has made him raise his voice in longer than anyone alive has been counting.\"; 05_aurelian, \"WHO THE HELL TOLD YOU YOU COULD LEAVE.\", read in its notes as \"him rattled\"."
+ ]
+}

@@ -1,0 +1,155 @@
+{
+ "id": "c30",
+ "name": "Alabaster and the Scale",
+ "era_span": "The Withering Era. Maeron Iskare's card is the only one that states an era (\"Withering Era\"); the other five state none. Every card sets its member inside a living Holy Sea of Alabaster, a Sanctum Lux built on the Ladder of Standing, or an Accord that sends envoys to tea, so all three shared events are placed in the Withering Era, with no year: the commune before the Rimlands well, the White Parlour unordered against both, each after the card events it depends on (the petrification at Sirel; the Day of Seven Refractions, Seraphine's lost eye and Maeron's fused mask; the Mirrormass Incident, Beatrix's turn to using the arm, and Maren's death).",
+ "members": [
+  {
+   "slug": "lumen-varos-the-dawn-touched-oracle",
+   "line": "Human initiate of the Holy Sea of Alabaster and apprentice of the Aurum Sect, which escorts him on pilgrimages to Dawn-Altars; the Sea \"Treats him as a sacred child and a potential oracle, cherished, and watched\". His Firstlight Sight sees \"the moment before a choice becomes fate\", his touch \"soothes wounds, purifies minor corruption\", and on the Day of Seven Refractions he called a Wellspring rupture seconds before it struck."
+  },
+  {
+   "slug": "seraphine-lurielle-lilac-gaze",
+   "line": "Alabaster noble, prophetic hostess of the White Parlour and quiet Accord informant, \"Officially a loyal daughter of the Sea\"; a prophecy surge took her right eye, her Somnalis foresight works only inside her prepared salon, and she once warned an Alabaster prince off a coronation date that would have killed him."
+  },
+  {
+   "slug": "maeron-iskare-the-silent-oracle",
+   "line": "Withering Era. Masked diviner of the Guild Accord's Obscurial Chamber, of \"a bloodline of the Alabaster cloisters\", \"buried by prophecy before birth\", in covenant with the Holy Sea's Ecliptic Choir and \"tolerated heresy\" to the Church; the only known survivor of Eclipseron's Eye, he pays for every truth he reveals with a small fact of his own."
+  },
+  {
+   "slug": "beatrix-vaelthorn-the-root-sworn",
+   "line": "Wandering root-healer, formerly indentured to a commune in the Holy Sea of Alabaster's outer territories, whose elders ruled her petrified arm \"divine judgment\" and let her go; she survived the Sirel site that killed three archaeologists, hears heartbeats through the soil, and seeks \"a name for what she is becoming\"."
+  },
+  {
+   "slug": "elion-drevas-the-black-cleric",
+   "line": "Former Sanctum Lux Lector from Eresse, expelled after the Mirrormass Incident at the Crevice, where he paid a Phenomenon off with half his Soul Crystal; pursued for \"divine inversion\", he wanders absolving the Wellspring-tainted by drawing their corruption into himself, with consent, at the price of his remaining life."
+  },
+  {
+   "slug": "leon-vaerenthal-the-farmer",
+   "line": "Farmer of Eld Hollow on the Senoth borderland, marked by the Scarlet Communion and hunted by Sanctum Lux inquisitors; his dead sister Maren is held in his Crystal, and his Ashen Guard flares unbidden only for those he holds an Axis to, Tilda among them."
+  }
+ ],
+ "events": [
+  {
+   "name": "The blessing at the commune",
+   "when": "The Withering Era. The month after the petrification at Sirel, while Beatrix still hid the arm. The elders had not yet ruled. Lumen was already of the Aurum Sect, and already a child whose touch \"soothes wounds, purifies minor corruption\".",
+   "where": "The outer territories of the Holy Sea of Alabaster (WORLD §3; Beatrix's card), at the root-healer commune, on the road of an Aurum Sect pilgrimage to a Dawn-Altar. No page places the territories, the commune or the altars, and this record places none of them.",
+   "who": [
+    "lumen-varos-the-dawn-touched-oracle",
+    "beatrix-vaelthorn-the-root-sworn"
+   ],
+   "what": "The Sect's escort brought Lumen along the pilgrims' road, and the road ran past the commune. The elders had heard what the Sea said of the boy. They asked the escort to stop. Beatrix was sent for. She came out into the yard with the arm in her sleeve, as she had worn it since Sirel. The elders told her to bare it, and she did. The bark ran down over the back of the hand, grey and split along the grain. The escort's cleric allowed a blessing, and Lumen laid his hand on the bark. The yard went quiet around him. Nothing in the arm changed. He kept his hand where it was until the cleric lifted it away, and the escort took him on toward the altar. Before the month was out the elders ruled the arm divine judgment and let her go. Took: Beatrix, an arm bared on the elders' order and unchanged under the Sea's own blessed child; the ruling that followed within the month; the road out of the commune. The sleeve stayed down for a while after that. Her card dates the end of the hiding to the day she began to use the arm; Lumen, a hand laid on a corruption his touch did not answer, and lifted off it by the Sea's cleric."
+  },
+  {
+   "name": "Tea after the Seven Refractions",
+   "when": "The Withering Era. After the Day of Seven Refractions; after the prophecy surge took Seraphine's eye and she kept her parlour; after the exposure at Eclipseron's Eye fused Maeron's mask. Unordered against the other two.",
+   "where": "The White Parlour, Seraphine's salon in the Holy Sea of Alabaster (WORLD §3; her card calls her the White Parlour Seer). Whether it stands in her family's manor, her card does not say.",
+   "who": [
+    "seraphine-lurielle-lilac-gaze",
+    "maeron-iskare-the-silent-oracle",
+    "lumen-varos-the-dawn-touched-oracle"
+   ],
+   "what": "The rupture Lumen called on the Day of Seven Refractions had not been called by any forecast the Accord's councils held. The councils wanted it read, and the Obscurial Chamber sent Maeron. The Aurum Sect would not bring its initiate to an Accord reader in any house of its own. The Ecliptic Choir, his covenant partners inside the Sea, proposed the White Parlour, where Accord envoys already came under the pretext of tea. The escort brought the boy and stood inside the door. Seraphine poured. The boy drank. Maeron left his cup where she set it. He asked leave to take the boy into a shared sleep, with the hostess as the third, and to read the rupture from inside the sight that had seen it. Seraphine refused. She said it once. Maeron asked his questions across the table instead, and the boy answered each of them plainly: where he had stood, what he had seen, and that he had called it seconds before it struck. He did not explain how. The torque at Maeron's throat stayed cold while he spoke. When the teaset's hour came, the escort took Lumen home. Maeron filed his reading with the councils. By morning some small fact of his own was gone. The mask offered it back in the night, and he did not write it down. Took: Seraphine, a refusal made at her own table, in the hearing of the Accord she serves unofficially and of the Sea she serves by name; the Choir's knowledge that her parlour will say no to an Accord reader; Maeron, a reading filed; a small fact of his own paid for it; a boy whose answers kept the torque cold; Lumen, an Accord reader's questions, answered plainly; a hostess who would not let him be taken into anyone's sleep; an escort who watched all of it from the door."
+  },
+  {
+   "name": "The soured well on the Rimlands road",
+   "when": "The Withering Era. After the Mirrormass Incident and Elion's expulsion, while he walked the Inner Realms absolving; after Beatrix left the commune and began to use the arm; after Maren's death, with Leon already marked by the Communion and hunted. After the commune event, and before any card's present.",
+   "where": "A farm settlement on a road through the Rimlands of Stannvaard (WORLD §5). The Stannvaard page gives the Rimlands as \"Roads, way-stations, timber and the agriculture feeding the crater population\". Altherion and its Grand Church stand on the rim above.",
+   "who": [
+    "elion-drevas-the-black-cleric",
+    "beatrix-vaelthorn-the-root-sworn",
+    "leon-vaerenthal-the-farmer"
+   ],
+   "what": "The settlement's well had soured. Wellspring corruption had come up into the water, and the households that drank from it were sick. Elion came up the road alone. He went from bed to bed. To each who consented he put his hands, and he drew the corruption out of them into his own Crystal. At dusk he prayed over the well, and the prayers drained him while the water steadied. Beatrix came in from the timber side. She knelt in the yard and laid the bark arm flat on the ground. She listened. The sour thread ran under the yard from the old well toward the fields. Upslope, past the last barn, the ground held clean water and no thread. Leon had hired on for the harvest. He took a spade to the place she marked and dug until the water stood in the hole. While he worked, every pulse in the yard ran faster, and the ground gave the change to Beatrix. She told him so, plainly. Elion read the curse in him at a look and offered him the rite. Leon refused. Elion did not ask again. Beatrix asked Elion what her arm was becoming. He read it for a long while and gave her no name. The riders came before the new well was lined. Beatrix felt their horses through the ground before anyone saw them, and she said so. Leon was gone by the timber track. Elion drew the Forget-Me Veil about himself and stayed at the beds. The inquisitors watered their horses at the new well, asked after a farmer by name, and rode on toward Altherion. Nobody in the yard told them which way he had gone. Took: Elion, the sickness of the households who consented, carried in his own Crystal; the drain of the prayers at the well; a curse he was refused leave to take; an arm he read and could not name; hours under the Veil in the sight of the order that pursues him; Beatrix, a well found with the arm she no longer hid; no name for it from a former Lector, whose grade is the first the Scale permits to say what a reading means; a stranger's pulse read through the ground and told to him; Leon, a well dug with his own hands; the curse kept, by his own refusal; a warning through the ground that put him on the timber track ahead of the order that hunts him."
+  }
+ ],
+ "ties": [
+  {
+   "a": "lumen-varos-the-dawn-touched-oracle",
+   "b": "seraphine-lurielle-lilac-gaze",
+   "kind": "debt (shelter)",
+   "summary": "Both are the Sea's by their cards; at the White Parlour she refused to let the Accord's reader take him into a shared sleep.",
+   "basis": "new"
+  },
+  {
+   "a": "lumen-varos-the-dawn-touched-oracle",
+   "b": "maeron-iskare-the-silent-oracle",
+   "kind": "the reader and the read",
+   "summary": "Two seers of the Sea's cloisters and altars, one buried by prophecy before birth and one cherished for his sight; Maeron asked, the boy answered plainly, and the torque stayed cold.",
+   "basis": "new"
+  },
+  {
+   "a": "seraphine-lurielle-lilac-gaze",
+   "b": "maeron-iskare-the-silent-oracle",
+   "kind": "host and Accord guest",
+   "summary": "Her card takes Accord envoys at tea; the Accord's diviner came to her table, asked for a shared sleep, and took her refusal.",
+   "basis": "new"
+  },
+  {
+   "a": "lumen-varos-the-dawn-touched-oracle",
+   "b": "beatrix-vaelthorn-the-root-sworn",
+   "kind": "witness",
+   "summary": "The Sea's cherished child laid his hand on the arm of the commune's judged girl, and nothing changed; the elders' ruling followed within the month.",
+   "basis": "new"
+  },
+  {
+   "a": "beatrix-vaelthorn-the-root-sworn",
+   "b": "leon-vaerenthal-the-farmer",
+   "kind": "comrades of one well",
+   "summary": "She found the clean water with the arm and he dug it; she read his pulse through the ground and warned him of the riders. Both cards carry Mortalis.",
+   "basis": "new"
+  },
+  {
+   "a": "beatrix-vaelthorn-the-root-sworn",
+   "b": "elion-drevas-the-black-cleric",
+   "kind": "the asker and the unanswering reader",
+   "summary": "Both were named by a verdict with a god in it; at the Rimlands well she asked the former Lector to name what the arm was becoming, and he gave no name.",
+   "basis": "new"
+  },
+  {
+   "a": "elion-drevas-the-black-cleric",
+   "b": "leon-vaerenthal-the-farmer",
+   "kind": "fellow quarry, a refused rite",
+   "summary": "Both are Sanctum Lux's quarry by their cards; at the Rimlands well Elion offered to draw the curse out and Leon refused.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "lumen-varos-the-dawn-touched-oracle",
+   "wants": "The officer above the Aurum Sect whose watching his card records (\"someone above the Aurum Sect start watching him at all\"). The office sits in the Holy Sea's hierarchy, whose Primate and Palatine are in c04. No card names the watcher."
+  },
+  {
+   "slug": "seraphine-lurielle-lilac-gaze",
+   "wants": "The Accord envoy who comes to her parlour \"under the pretext of tea\", a diplomat of the Accord's quiet side. c07 holds the Accord's protocol officers who arrange councils. No envoy's card names her, and her Alabaster prince has no card."
+  },
+  {
+   "slug": "maeron-iskare-the-silent-oracle",
+   "wants": "The healer his card names as his balance. \"Serenyra Vale · Mutual respect. She heals the body; he unravels the mind\". The cluster notes read her as Serenyra Vaelith (c39), whose home is Eresse, where his card stations him."
+  },
+  {
+   "slug": "beatrix-vaelthorn-the-root-sworn",
+   "wants": "A keeper of Verdantia who could put a name to what she is becoming. The Sage Arts gives the kind: the Verdant Synod, \"A reclusive circle operating in the wilds of Nalūn, dedicated to the cultivation and protection of Wellspring Groves\". No card names one."
+  },
+  {
+   "slug": "elion-drevas-the-black-cleric",
+   "wants": "Whoever knows the forgotten Well of Penanceflare he walks toward. Vaithesca, Oracle of the End (c20), was \"possibly a priestess of a forgotten Wellspring\", and Penanceflare is one of the three at her collision. Neither card names the other."
+  },
+  {
+   "slug": "leon-vaerenthal-the-farmer",
+   "wants": "The hand of the Scarlet Communion that marked him and knows what threatening Tilda does to him. No card names one."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "What rules Alabaster. Seraphine's card: \"Alabaster Noble\" (I) and \"An Alabaster prince, once · Warned him off a coronation date that would have killed him within the week\" (`Seraphine Lurielle · Lilac Gaze.md`, IX). The Palatine's card: \"Head of state and head of the faith, seated at the Alabaster Court\" (`Verinus VII · The Palatine.md`, I). No page gives the Holy Sea a prince or a coronation.",
+  "Indenture inside the Sea. Beatrix's card: \"formerly indentured to a root-healer commune under the Holy Sea of Alabaster's outer territories\" (I). The Palatine's card sets the Sea's abolition doctrine against \"every polity that trades in persons\" (relationships, Meren). The Long Reading: the Manumission Doctrine \"extends that protection to the counted, because a doctrine administered through an archive can only reach what the archive holds\". Whether the commune's indenture falls inside that doctrine no page says.",
+  "A Lector at Invocation. Elion's card: \"Former Sanctum Lux Lector\" and \"Catalyst Event · Stage IX, Invocation\", reached at the Crevice (I). The Sanctum Lux page sets the Lector's Temperance at Stages V to VII and the Arbiter's at VII to IX (The Ladder of Standing), and its Measurewrights \"maintain open Threshold cases on any member whose Stage progression and Level accumulation diverge\".",
+  "\"Divine\" in the Scale's mouth. Elion's card: Sanctum Lux \"Pursues him for \"divine inversion,\" the order's own word for what the Mirrormass Incident looked like from inside\" (IX). The Sanctum Lux page: \"Sanctum Lux does not worship\"; of the Archons and the Titans, \"it declines to call either of them gods\"; and of the street's error that the order is a church, it \"strikes it from every filing that carries a seal\".",
+  "Penanceflare. Elion's card: \"The forgotten Well of Penanceflare\" (IX). Deimos's card: \"\"Penanceflare\" is not among the sixty\" (`Deimos · The Sin Eater.md`, migration note). The Caloria page lists \"Penanceflare · The Light of Contrition\" among its Wellsprings, and the cards of Rheon Kaeth, Kael Serradyn, Valthren Odrin, Valen Karth and Vaithesca carry it.",
+  "A farm on ground that no longer attaches. Leon's card: \"Formerly a farmer of Eld Hollow, Senoth borderland\" (I). `RULINGS.md`, 2026-09-12: \"Senoth stays under \"Names That No Longer Attach to Ground\"\". Kaien Rhuven's card: \"a name that no longer attaches to ground\". The Atla'zon and Gaia page still speaks of \"the Priests of the Axis in the Senoth Kingdom\", and Renjiro Kaithen's card of \"the Senoth Kingdom's Ash Warden Corps\".",
+  "Where the Alabaster cathedral stands. Maeron's card: \"Temporarily stationed in Eresse for a Wellspring audit of the Alabaster cathedral\" (I). The Kharven page puts the Sea's territory on \"the white shelf\"; the Inner World page says the Sea \"sits in no quarter and has no page\"; the New World page puts Eresse in the east (ruled 2026-09-12). No page places an Alabaster cathedral.",
+  "Two bodies on one card. Maeron's card: \"Active; Bound Advisor to the Guild Synod.\" and \"Advisory role to the High Concordant's councils on Wellspring resonance forecasts\" (I). \"Guild Synod\" appears on no other page.",
+  "One name, two things. Leon's signature working is \"Ashen Guard\" (V). The Kharven page: \"The Ashen Guard\", \"the Crown's standing professional force\".",
+  "Serenyra's surname. Maeron's card and Kaelric Varnier's card both write \"Serenyra Vale\"; her own card is `Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`. The roster links Maeron's mention to serenyra-vaelith."
+ ]
+}

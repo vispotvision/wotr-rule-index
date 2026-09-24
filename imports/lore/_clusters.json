@@ -1,0 +1,661 @@
+{
+ "clusters": [
+  {
+   "id": "c01",
+   "name": "Hild's council: the Kōkan Loyalist Coalition",
+   "theme": "The Sword Princess and the people who raised, counselled, guarded and doctored her through the war for Kharven-Seat",
+   "era": "The archive's present in the Inner World: the war for Kharven-Seat to the year after the ninth hour (the revolution scene runs further)",
+   "hinge": "Kin and council around Hild Ice: her uncles Lorn Stark and Osric of Hallenfeld, her right hand Edward Lambert, her physician Brida Ashwell, Tabitha Hallenfeld on the roads, Robin Ice, and the Greymane cousins Bram (the southern approach) and Renard (the left of the throne), all named on her card and sharing the True King of the North scenes.",
+   "members": [
+    "hild-ice-stark-the-sword-princess",
+    "edward-lambert-the-arithmetic",
+    "lorn-stark-the-sword-teacher",
+    "osric-of-hallenfeld-the-patient-hand",
+    "tabitha-hallenfeld-the-road-woman",
+    "brida-ashwell-the-warm-diagnosis",
+    "robin-ice-the-bastard-runner",
+    "bram-greymane-the-ridge",
+    "renard-greymane-the-left-of-the-throne"
+   ]
+  },
+  {
+   "id": "c02",
+   "name": "The Kōkan expedition's hands",
+   "theme": "The helmsman, rigger, surgeon, cook, ward-smith, forge-master, old guard and scout who carry the expedition, with the Stormfold nurse who shares their wards",
+   "era": "The archive's present in the Inner World (The True King of the North)",
+   "hinge": "Each card's role is a post on the Kōkan expedition (Garret, Soren, Nella, Dunstan, Matheus, Heisuke, Sadamu) and they share its scenes with Borin; Lilia stitches the same war's wounded at the Greymane estate and shares part 11 with Nella.",
+   "members": [
+    "garret-longshore-the-helmsman",
+    "soren-the-mast-the-climb",
+    "nella-forgeman-the-open-hand",
+    "dunstan-the-brine-the-ladle",
+    "matheus-the-silent-eye",
+    "borin-ironheart-the-master-of-the-soul-forge",
+    "heisuke-muken-s-last-soldier",
+    "sadamu-called-futakoto-two-words",
+    "lilia-the-stormfold-nurse"
+   ]
+  },
+  {
+   "id": "c03",
+   "name": "The Ashen Crown: Muken's house and the Moto lines",
+   "theme": "Kharven's royal house, its queen, its heirs and widowed kin, the Moto lines around the throne, and the Sword Saint who argued for its correction",
+   "era": "Muken's reign and removal into the archive's present at Kharven (Muken's card: Northern Sovereign Era; Artemis's: War of the Realms Era)",
+   "hinge": "The Moto bloodline and the Kharven crown: Muken, his queen Ayame Yuno, his children Mizuki and Sodoku, Yukazuri of the ruined ancestral ground, Yoko who travels with Sodoku, the Amagiri and Byakuya lines, and Azure Serathiel, whose Kharven scenes put him before the Tenrai council and the Amagiri head.",
+   "members": [
+    "muken-moto",
+    "ayame-yuno",
+    "mizuki-moto",
+    "yukazuri-moto",
+    "sodoku-moto",
+    "yoko-mishiro",
+    "azure-serathiel-the-sky-veiled-saint",
+    "artemis-amagiri-moto",
+    "souma-byakuya-moto"
+   ]
+  },
+  {
+   "id": "c04",
+   "name": "The Curia at Altherion",
+   "theme": "The Holy Sea's Primate and Palatine, Darius and those he trained or fought beside, and Kujo's instruments who came to the Grand Church precinct",
+   "era": "The archive's present (the Verinus, Darius, Aurelian and Curia scenes); Gimbzo is First-Eon-born and anchored; Ignatius's card says Voyager Era",
+   "hinge": "A shared archive thread at the Grand Church of Altherion: Aurelian and Verinus share most of their scenes; Darius (Ignatius) shares his arc with Gimbzo, Dabney and Casimir; Kaalabad (kept with Kirishima Hae-jin, whose folk name is Kaalabad) and the interrogator Corwin Sesk run through the same Curia arc and the cells beneath the Grand Church.",
+   "members": [
+    "aurelian-prudentius-custos-clausorum-the-primate",
+    "verinus-vii-the-palatine",
+    "ignatius-sanctus-sanctorum-arsenal-the-archpaladin",
+    "gimbzo",
+    "dabney-corvalen-olyss-the-thorn-petaled",
+    "casimir-aldous-alleyne-the-ashen-hand",
+    "kaalabad",
+    "kirishima-hae-jin-kaalabad-the-radiant-god-of-knights",
+    "corwin-sesk"
+   ]
+  },
+  {
+   "id": "c05",
+   "name": "Class X and what it grows into",
+   "theme": "The Aetherion Academy class of Xanelor, Rikudoku and the Mahuo children, their teacher's Division, and the Wandering Fang's line in the age after",
+   "era": "Cross-era: the Academy years (about thirteen years after the Scourge) into the Age of Calamity of Xanelor the Wandering Fang",
+   "hinge": "The Academy scenes join Xanelor, Rikudoku, Lily, Hiromi and Geturo (with Kaien Thal'Ruhm in the summoners' morning); the two Xanelor cards may be one person, and the Wandering Fang's card names Rikudoku as ally and Kairen as Rikudoku's son, while Dalphne carries Xanelor's last thought-wave.",
+   "members": [
+    "xanelor-rafiminar",
+    "xanelor-rafminar-the-wandering-fang",
+    "rikudoku-moto",
+    "kairen-moto-the-iron-root",
+    "lily-mahuo",
+    "hiromi-mahuo",
+    "geturo-mahuo",
+    "kaien-thal-ruhm-the-gilded-nomad",
+    "dalphne-of-the-pale-bough-the-gentle-fang"
+   ]
+  },
+  {
+   "id": "c06",
+   "name": "The Reaper's office",
+   "theme": "Yukizumi the psychopomp and the adjutants who keep last words, disputed deaths and lawful endings, with the Slayer who carries the writs the Reaper cannot",
+   "era": "Unstated on most cards; Severin's life on the page runs through the archive's present",
+   "hinge": "Every card names the Reaper as its office or partner: the flower-named adjutants of funerals and last words (Kozakura, Shiragiku, Natsume, Lilium), his courier and forensic adjunct (Khasir, Moros), Khan Kirv, whose card leans on Khasir, and Severin Bale, whose card says his sheet and Yukizumi's do not work without each other.",
+   "members": [
+    "yukizumi-yukari-the-reaper",
+    "kozakura-shion-the-bloomwarden",
+    "shiragiku-iori-the-wake-embroiderer",
+    "natsume-kurogiku-the-knot-shearer",
+    "lilium-verdanis-lily-quill",
+    "khasir-aluto-the-isocline-scribe",
+    "moros-pellayne-the-ossuary-registrar",
+    "commander-severin-bale-the-slayer",
+    "khan-kirv-the-veil-khan-of-the-dry-courts"
+   ]
+  },
+  {
+   "id": "c07",
+   "name": "The Star Chamber's Protocol Corps",
+   "theme": "The Accord's chamberlain, notary, bailiff and fixers who arrange councils and Measures, with the couriers and lamplighters who carry for them",
+   "era": "Unstated on the cards",
+   "hinge": "The Star Chamber and Vireline's Measures: Lucen Vale and Cassiel's duet, Kaito and Kaede as heat and cold in the same rooms, Marigold the bailiff and Pierre, whose cards call each other trading partners, Eira and Ascella, whose cards name each other, and Arven, an unregistered Echo Courier of the Accord.",
+   "members": [
+    "lord-lucen-vale-the-star-chamberlain",
+    "cassiel-asterion-the-prism-notary",
+    "kaede-suyori-blue-moth",
+    "kaito-akagiri-the-scarlet-plague",
+    "marigold-vance-the-gilded-bailiff",
+    "pierre-the-laughing-guillotine",
+    "eira-vale-the-echo-runner",
+    "ascella-wick",
+    "arven-solthiel-the-smiling-veil"
+   ]
+  },
+  {
+   "id": "c08",
+   "name": "The courts of waking and sleeping law",
+   "theme": "The Concord's high magistrates and arbiters, and the predators, poisoners and sea-powers who have stood trial, duelled or drunk with them",
+   "era": "Unstated on the cards; Maerion's scenes place him in the archive's present",
+   "hinge": "A knot of cards that name each other: Maerion's names Atheron and Riven as fellow judges; Riven and Atheron govern waking and sleeping law and Riven leashes Hazzen; Varek lost to Riven in duel court and hunted with Thalyss; Orivane and Lucien each define themselves against Atheron; Leontes is Altherion's high magistrate.",
+   "members": [
+    "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+    "riven-eltamyr-vonnel-the-glaive",
+    "atheron-dreymarch-prophet-of-the-unblinking",
+    "leontes-praevan-magistrate-of-altherion",
+    "hazzen-skollgrin-the-crooked-grin",
+    "varek-ka-ruun-the-blood-eater",
+    "thalyss-aevyrn-the-deep-coil",
+    "orivane-caelthys-astral-shepherd",
+    "lucien-draeve-emerald-alchemist"
+   ]
+  },
+  {
+   "id": "c09",
+   "name": "The Zettari war camp and the Mahuo who came to it",
+   "theme": "The Zettari sovereign line and the Seikai women bound to it, and the Mahuo harvester, archmagus and healer drawn into its camp and household",
+   "era": "The archive's present and the Kushara front (Yorime's card: Current Era)",
+   "hinge": "Kin and camp: Dougou, his son Rengai and Rashani of the Zettari line; Yorime Seikai, Dougou's companion, and the Seikai scion Hana-no-Kurai; Cozbi, whose scenes are fought against Rengai; Kwon Mu-jin embedded in the Zettari war camp and his sister Ara-min weighing marriage into the Sovereign's household.",
+   "members": [
+    "dougou-ozumu-zettari",
+    "rengai-zettari",
+    "rashani-zettari",
+    "yorime-seikai",
+    "seikai-hana-no-kurai-the-ashen-paragon",
+    "cozbi-mahuo",
+    "kwon-mu-jin",
+    "ara-min-mahuo"
+   ]
+  },
+  {
+   "id": "c10",
+   "name": "House Venrik and the Eressean crown",
+   "theme": "The Grove-Spired throne's family, its exiled regent and inquisitor kin, its daughter in the dark, its sky-champions, and the war criminal Karo served beside",
+   "era": "New World; Karo's card: post-Riftfall cycle, 512 VE; the others unstated",
+   "hinge": "Raivhar's card lays out Karo Venrik's web: his father Sandalphon, his wife Asta, his kinsman Vaelen, and Raivhar who fought beside him; Ilyria's card names Karo as her father; Eryndrel's card pairs him with Aelor in Eresse's Aerial Ward.",
+   "members": [
+    "karo-venrik-the-foolish-magus",
+    "asta-venrik-wyvern-marshal-emeritus",
+    "sandalphon-aestraen-the-reverent",
+    "vaelen-mourcrix-the-exculpate-arbiter",
+    "ilyria-draven-morningstar-monochrome",
+    "aelor-vaelith-the-imperial-pegasus",
+    "eryndrel-vaelune-the-trinebow",
+    "raivhar-drakonis-the-ashen-horn"
+   ]
+  },
+  {
+   "id": "c11",
+   "name": "The elven old-ground",
+   "theme": "Florwyn's regent and the wyrm grown for him, his structural rival, Elyndra's herald, Florwyn's estranged winter spirit, and the elven kings, queens and clans beyond Eresse's court",
+   "era": "New World; Withering Era where the cards state one; Valthrum's card reaches back to the First Eon",
+   "hinge": "Florwyn and the elder elven courts: Thalyndros and Drevath are each defined against Vaelorian, Valthrum is Florwyn's own making, Saetsha is Elyndra's herald; Vargrath commands the Elven Army of the Ashen Vale Compact, Onawa is queen of the Tsohanto, and Brynja fights for the Northroot Eladrin clans.",
+   "members": [
+    "vaelorian-theryn-aerethiel-the-last-elven-lord",
+    "thalyndros-aerenvael-the-canopy-wyrm",
+    "drevath-mourne-kal-the-iron-horizon",
+    "saetsha-bloomveil-the-pink-tempest",
+    "valthrum-the-cryon-king",
+    "vargrath-ul-dorr-iron-dawn",
+    "onawa-ashkewe",
+    "brynja-haldris-hammer-of-the-northroot"
+   ]
+  },
+  {
+   "id": "c12",
+   "name": "The Research and Archives Division",
+   "theme": "The Accord's theorists, necrosophists, archivists and society alchemists, and the ones it expelled",
+   "era": "Withering Era where stated (Dr. Vaelion Rhest, Lyssara Veyn); others unstated",
+   "hinge": "An order: every card is filed under or against the Research and Archives Division (its Alchemists' Society, Lantern Ward, Mortalis branch and Neutral Chambers), with Cael Dareth its expelled theoretician and Silas the Accord's gravebinder of the Hollow Book.",
+   "members": [
+    "azran-nemeir-the-gilded-draft",
+    "cael-dareth-the-pale-crucible",
+    "dr-vaelion-rhest-the-sleepless-theorist",
+    "lyssara-veyn-the-black-chrysalis",
+    "serai-linthra-the-serpent-alchemist",
+    "valthren-odrin-the-lantern-scribe",
+    "gonju-the-sage",
+    "silas-briarend-wytherm-iii-gravebinder"
+   ]
+  },
+  {
+   "id": "c13",
+   "name": "The Accord's field blades",
+   "theme": "Enforcement Division breachers, sealwrights and veil arbiters, the hunters and dragoons who fight beside them, and the correction they keep an open file on",
+   "era": "Voyager Era for Asaemon; Withering Era or unstated for the rest",
+   "hinge": "An order: Kael Serradyn, Azhura, Ser Caldran and Tsukihana serve the Enforcement Division, Draven hunts in loose alliance with it, Valen Karth leads the Accord's dragoons, Asaemon answers the Vanguard's sieges, and Vael of Nothing is the correction the Accord keeps an open file on, whose card records the enforcer he broke at Tarvel's Crossing.",
+   "members": [
+    "kael-serradyn-the-burnmark",
+    "azhura-vyren-the-azure-coilblade",
+    "ser-caldran-veiss-the-pale-knight-of-vergegate",
+    "tsukihana-reimei-moon-bloom-at-dawn",
+    "vael-of-nothing-the-devourer-s-index",
+    "draven-kael-vorrick-the-beast-slayer",
+    "valen-karth-the-breakstorm-vanguard",
+    "asaemon-the-vestal-vanguard"
+   ]
+  },
+  {
+   "id": "c14",
+   "name": "The Yukari bloodline",
+   "theme": "The thread-reading line from its first daughters and its founder to Niran's Ketsuen, his children and the fox-eared ward of two houses",
+   "era": "Cross-era: the First Eon founders (Naevra, Naiser) to Niran's Ketsuen in the archive's present",
+   "hinge": "Blood: Naevra and Naiser at the line's origin, Niran and his children Naori and Akira, Ryuka of the Yukari father and Mahuo mother; Elder Seravain shares two of Niran's scenes (the years that were not war, and Naiser's death).",
+   "members": [
+    "naevra-yukari",
+    "naiser-yukari",
+    "niran-yukari",
+    "naori-yukari",
+    "akira-yukari",
+    "ryuka-yukari-the-little-wayfinder",
+    "elder-seravain-ophidian-archivist"
+   ]
+  },
+  {
+   "id": "c15",
+   "name": "Thalyren's groves and the highland plains",
+   "theme": "The grove sovereign, the plainswanderer he guides, the toad-broker and mushroom fox of the same trails, and the centaur warlord, tracker and warden of the Outer World highlands",
+   "era": "Unstated on the cards; Gorrum appears in two archive-present scenes with Hild's coalition",
+   "hinge": "Cards that name each other: Thalyren guides Lyraen and knows Gorrum; Lyraen and Gorrum travel together; Moryn trades with Gorrum and guests in Thalyren's grove; Garruk names Kaelen Brighthoof and Thalyren; Kaelen names Lyraen and Thalyren; Cernan is the unaligned warden of the same Outer World highlands.",
+   "members": [
+    "thalyren-veyroot-the-verdant-sentinel",
+    "lyraen-callivane-verdure-hoof",
+    "gorrum-vaelseth-toad-guy",
+    "moryn-sporetail-mushroom-fox",
+    "garruk-stonehoof-the-iron-mane",
+    "kaelen-brighthoof-the-horned-hawk",
+    "cernan-eryndor-the-bull"
+   ]
+  },
+  {
+   "id": "c16",
+   "name": "Anvil and relic",
+   "theme": "The Accord's smiths, siegewrights and relicsmiths, the dwarf who left the Iron Accord, the Titan-Smith's echo, and Borin's apprentice",
+   "era": "Withering Era where stated (Kaelzar, Gorvan); others unstated",
+   "hinge": "A craft and a lineage of teaching: Ymir's card makes him Borin Ironheart's apprentice; Draen oversees a field armory at a Deep Mantle Bastion and Kaelzar is held in the Atlas Deep Mantle; Orokh, Mavra, Garron and Gorvan are dragon-smith, relicsmith, siegewright and rune-forger of the same trade.",
+   "members": [
+    "orokh-sable-forge-the-wyrmwright",
+    "mavra-cindrel-the-golden-engine",
+    "kaelzar-the-forge-that-roars",
+    "gorvan-aldric-voss-the-maw-that-held",
+    "draen-varos-the-red-forge-sentinel",
+    "ymir-rhok-the-emberhand",
+    "garron-vuldane-warden-of-thaumar"
+   ]
+  },
+  {
+   "id": "c17",
+   "name": "The Obsidian Vault and the crimson houses",
+   "theme": "Wilhelm the vault-warden and the field officers who served beside him, and the deathless and vampiric wanderers of the same roads",
+   "era": "Unstated on the cards",
+   "hinge": "Wilhelm's card names Hazul and Zeven from the planar breaches and the Whispering Crucible; Zeven's names Basilio, who sketches him; Basilio, Adalric and Lyris come of vampiric houses, and Hieronymus, called the Immortal, is the deathless reaper among them.",
+   "members": [
+    "wilhelm-the-guardian",
+    "hazul-vehramin-the-unbound",
+    "zeven-halek-the-eye-that-remains",
+    "basilio-pavaret-the-crimson-bloom",
+    "adalric-vladimer-valen-the-crimson-shade",
+    "hieronymus-cruciferi-the-immortal",
+    "lyris-myndross-the-vampire-rider"
+   ]
+  },
+  {
+   "id": "c18",
+   "name": "The Tenryū and the dragon-blooded",
+   "theme": "The oni celebrants of the Tenryū line and their drinking halls, the drake shepherd, and the dragonkin of the marches, courts and borders",
+   "era": "Unstated on the cards",
+   "hinge": "Daigo's and Goraku's cards call each other Tenryū kin, Daigo's names Orya his pasture-brother, and Kurokiba is an oni brew-sage of the same drinking halls; Seravain Drelith (dragonkin trueblood), Saoren (the Molten Lineage) and Lyra Drakoshi (a draconic border warden) carry the dragon blood.",
+   "members": [
+    "daigo-tenryu-ribbon-ox",
+    "goraku-tenryu-the-crimson-gourd",
+    "kurokiba-ranzou-the-drunken-oni",
+    "orya-of-the-wheat-march-the-dragon-shepard",
+    "seravain-drelith-wyrm-crowned",
+    "saoren-vyrrakal-the-walking-flame",
+    "lyra-drakoshi-pink-flame"
+   ]
+  },
+  {
+   "id": "c19",
+   "name": "Sun and sand",
+   "theme": "Desert wayfinders and freeblades, an exiled sun-prince, an ember-blooded arcanist, an ash-fire executioner and a dreamcaster of the Free Ports",
+   "era": "Voyager Era (Kaelis, Khaeron); others unstated",
+   "hinge": "Sun, fire and sand: the Great Sand Sea (Zahur), the Black Oasis (Raelen), Solfatara (Xhael), the Scorched Plains (Rajhak), the Veyran Free Ports (Rafik), a desert-born freeblade (Kaelis) and a Cinerion ash-fire ritualist (Khaeron); Xhael and Rafik each aided the Varūn caravans through storms.",
+   "members": [
+    "zahur-vane-the-silt-walker",
+    "raelen-vor-skai-the-gilded-scourge",
+    "kaelis-aranthor-the-sunbound-blade",
+    "xhael-ten-kor-the-ember-regent",
+    "rajhak-tarun-the-ember-blooded",
+    "khaeron-vant-the-ember-host",
+    "rafik-al-seren-the-sapphire-mirage"
+   ]
+  },
+  {
+   "id": "c20",
+   "name": "The long memory",
+   "theme": "The powers older than the Accord, Malakar's general and the paladin his plague made, and the editors who keep or rewrite the record",
+   "era": "Cross-era: First Eon (Iracordas, Vethraun), the First Epoch (Kinjiki), the Founding Era of Sanctum Lux (Lucius), the Pale Ledger of the late Imperial Calendar (Anryū); Vorrn and Vaithesca undated",
+   "hinge": "A record: Iracordas is Malakar's First Hand and Lucius's mother died in Malakar's plague-years; Vethraun and Kinjiki predate every Concord; Vorrn and Vaithesca are collapse-made; Anryū, the Pale Editor, and Kinjiki, Bairos's editorial instrument, stand at either end of the page.",
+   "members": [
+    "iracordas",
+    "lucius-xenotro",
+    "vethraun-ashmaw",
+    "kinjiki-the-inversion",
+    "anryu-ichimonji",
+    "vorrn-the-fourth-weight",
+    "vaithesca-oracle-of-the-end"
+   ]
+  },
+  {
+   "id": "c21",
+   "name": "The Outer trails",
+   "theme": "The trader who deals with everyone, and the guardians, monks, oracles, pot-helmed drifters, shepherds and ghostwalkers of the wandering roads",
+   "era": "Unstated on the cards",
+   "hinge": "The Outer Trails: Baojin guards the Greenroads and his card notes he works the same trails as Hyo; Kaien Veyren's card names Shael; Dorrik walks the forgotten roads, Helki tends dying Wellsprings for the Outer World's villages and caravans, and Ristra ghostwalks the Scattered Wastes.",
+   "members": [
+    "hyo-miran-the-velvet-dealer",
+    "baojin-zhaorin-the-verdant-colossus",
+    "kaien-veyren-the-lotus-scar",
+    "shael-virellion-oracle-of-the-broken-mirror",
+    "dorrik-the-pot-man",
+    "helki-the-shepherd-of-unwilling-paths",
+    "ristra-lenovira-the-hollow"
+   ]
+  },
+  {
+   "id": "c22",
+   "name": "The Reaper's crowd crews",
+   "theme": "The flood-caster, reliquary gunner, stray-lantern, countercant and rail-warden who carry evacuations and riots, and the sin-eater in transit",
+   "era": "Unstated on the cards",
+   "hinge": "Hot evacuations for the Reaper and the Star Chamber: Cyrille and Seraphine of the Rescue and Deluge Cadre, Sumire's safe routes, Maelia's Acoustic Ward and Sir Rhyse's Escort Corps, with Deimos the Sin Eater, whom Seraphine's and Maelia's cards name.",
+   "members": [
+    "cyrille-lacrim-the-flood-bell",
+    "seraphine-kharza-ten-thousand-hands",
+    "sumire-nekoha-the-stray-lantern",
+    "maelia-cantorine-the-countercant",
+    "sir-rhyse-calder-the-tartan-bastion",
+    "deimos-the-sin-eater"
+   ]
+  },
+  {
+   "id": "c23",
+   "name": "The Rot Host",
+   "theme": "Malphas's generals of rot, bloom, bone-song, stillness and smog under their Regent",
+   "era": "Unstated on the cards",
+   "hinge": "An order of command: Vorynth, Kytheris, the Ossuary Choir, Graelith and Morphaene are Malphas's First to Fifth Generals, and Zeraphine's card gives her authority over Vorynth, Kytheris, Graelith and Morphaene and leans on the Choir.",
+   "members": [
+    "vorynth-the-vatborn",
+    "kytheris-mother-of-spores",
+    "the-ossuary-choir",
+    "graelith-the-stilled-surge",
+    "morphaene-the-gloam-brewer",
+    "zeraphine-drowl-the-black-vat-regent"
+   ]
+  },
+  {
+   "id": "c24",
+   "name": "Babyl and the Praetorian March",
+   "theme": "The king, praefect and admiral of a stone-and-faith dominion and its imperial periphery, and the adjudicator, deserter and veteran it produced",
+   "era": "Withering Era where stated (Varuun, Seren, Kaelrith, Rheon); Juno and Valen unstated",
+   "hinge": "A place: Varuun rules Babyl, Juno and Valen are foils on the same imperial periphery, Seren is Babyl-born, Rheon is of the Praetorian March on the Babyl frontier, and Kaelrith's card names Seren from the Arbitration of Anguz.",
+   "members": [
+    "varuun-daskorr-the-unbent-crown",
+    "juno-petros-marien-praefect-of-the-outer-colonies",
+    "valen-therosian-the-gilded-commandant",
+    "seren-valenne-the-grey-adjudicator",
+    "kaelrith-dorne-the-iron-wound",
+    "rheon-kaeth-the-emberline"
+   ]
+  },
+  {
+   "id": "c25",
+   "name": "The Citadel's high seats",
+   "theme": "The High Concordant, the Prime Arbiter and the Arbitration Division's counsel, seer and oath witness, and the foundling the Accord keeps under watch",
+   "era": "Withering Era where stated (Lyss Arvale); Aurgon's card reaches back to the closing of the First Eon",
+   "hinge": "An office: Argen reports only to the High Concordant Drakvor; Aurgon, Vaelthor and Lyss serve or served the Arbitration Division; Aethryn lives in a sealed Accord hospice under the Accord's standing refusal to classify him.",
+   "members": [
+    "drakvor-the-black-crowned-bastion",
+    "argen-vael-thar-the-white-arbiter",
+    "aurgon-mintruix-the-grand-seer-of-the-last-age",
+    "vaelthor-ashen-meridian-the-patient-throne",
+    "lyss-arvale-the-quiet-swan",
+    "aethryn-the-twin-sigiled-foundling"
+   ]
+  },
+  {
+   "id": "c26",
+   "name": "The sainted, the fallen and the vessel",
+   "theme": "A war relic, a fallen fae, a grieving revenant, an assassin-sovereign, an Archon's vessel, and the pitch that frames the Archon-touched",
+   "era": "Withering Era where stated (Rhaevan, Azelra); the Fractured Dawn pitch names its own Fractured Era",
+   "hinge": "Azure Serathiel's card names Ambrose, Emilia and Evangelien, and Rhaevan shares his surname; Azelra is Veyra's vessel and the Fractured Dawn is the pitch of Archon-imprinted mortals that names her Archon.",
+   "members": [
+    "ambrose-virellith-the-gilded-thorn",
+    "emilia-veirynthiel-the-bloom-of-dissonant-realms",
+    "evangelien-rhymaris-the-hollow-bride",
+    "rhaevan-serathiel-the-velvet-executioner",
+    "azelra-kaine-the-incendiant-veil",
+    "the-fractured-dawn-paragons-of-the-archons"
+   ]
+  },
+  {
+   "id": "c27",
+   "name": "Ash and the red thread",
+   "theme": "The Ashveil desert blade and the death-speaker who shares his name, the ash-duelist, the butcher, the sanguine assassin and the sealed-ash exile",
+   "era": "Withering Era (Ilyrion); others unstated",
+   "hinge": "Zahir, Spoil and Renjiro all name the same uncarded frost-hunter rival, Kaerith Vireth; Zahir and Vaerath share the Ashveil name; Rathien works blood as Spoil does, and Ilyrion sealed ash as Renjiro does.",
+   "members": [
+    "zahir-ashveil-desert-s-fang",
+    "vaerath-ashveil-the-pale-reaping",
+    "renjiro-kaithen-the-pale-fang",
+    "spoil-the-butcher",
+    "rathien-veythar-the-fang",
+    "ilyrion-vantheir-the-veiled-horn"
+   ]
+  },
+  {
+   "id": "c28",
+   "name": "Those who write mercy in ash",
+   "theme": "Executioners and oath-bearers of cosmic law who stand outside the Accord's courts",
+   "era": "Withering Era (Francis, Kaelan); Voyager Era (Aelum); others unstated",
+   "hinge": "A shared record: Francis, Kaelan and Aeldoris carry the same epithet, He Who Writes Mercy in Ash (Aeldoris's card marks it shared and unruled); Aelum and Francis were both Sung by the Choir; Velastra and Seraphion bear severed and thrice-bound oaths.",
+   "members": [
+    "francis-alexander-the-crimson-dirge-of-atonement",
+    "kaelan-vorn-the-axiomatic-sovereign",
+    "aeldoris-vanthryx-the-ruthless",
+    "aelum-the-pale-hierophant",
+    "velastra-nirellium-the-severed-saint",
+    "seraphion-veydrak-the-chain-halo"
+   ]
+  },
+  {
+   "id": "c29",
+   "name": "The Withering courts",
+   "theme": "The brokers, hostesses, mourners and marshals who move crowns through rooms, and the court enchanter who remade a queen",
+   "era": "Withering Era (Cyranthia, Elowen, Marceline, Aurelian Veymont); Seri and Rovhen unstated",
+   "hinge": "A kind of power and an era: Cyranthia, Elowen and Marceline each hold a standing network across several courts, Aurelian Veymont holds the Ember Crown's field, Seri reads rooms for House Zeliro-Vanthe, and Rovhen served and was exiled from the court of Talveris.",
+   "members": [
+    "cyranthia-valez-the-gilded-marionette",
+    "elowen-mireille-the-porcelain-archivist",
+    "marceline-vireaux-the-crimson-mourner",
+    "aurelian-veymont-the-lion-of-the-dawn",
+    "seri-zeliro-vanthe-the-lantern-fox",
+    "rovhen-talvasciel-the-prettier"
+   ]
+  },
+  {
+   "id": "c30",
+   "name": "Alabaster and the Scale",
+   "theme": "The Holy Sea's initiates, seers and loyal daughters, and those Sanctum Lux has expelled, hunted or judged",
+   "era": "Withering Era where stated (Maeron); others unstated",
+   "hinge": "An institution: Lumen and Seraphine belong to the Holy Sea of Alabaster, Maeron to its cloister bloodline and Ecliptic Choir, Beatrix to a commune in its outer territories, Elion was a Sanctum Lux lector and Leon is hunted by its inquisitors.",
+   "members": [
+    "lumen-varos-the-dawn-touched-oracle",
+    "seraphine-lurielle-lilac-gaze",
+    "maeron-iskare-the-silent-oracle",
+    "beatrix-vaelthorn-the-root-sworn",
+    "elion-drevas-the-black-cleric",
+    "leon-vaerenthal-the-farmer"
+   ]
+  },
+  {
+   "id": "c31",
+   "name": "Old World roads and chains",
+   "theme": "The frontier march's courier and scout, the merchant lord of the Chainward Road, and the Thunn-Gorr family of mercenary chains",
+   "era": "Unstated on the cards",
+   "hinge": "Kin and a place: Krothar the Old Chain, his wife Freda and his son Krothar Veylshroud are the Thunn-Gorr; the Old Chain made his name on the Old World circuits, and Aren, Garu and Torven's family come of the Old World and its frontier and trade roads.",
+   "members": [
+    "freda-thunn-gorr-the-caldera-wife",
+    "krothar-thunn-gorr-the-old-chain",
+    "krothar-veylshroud-the-chain-without-a-master",
+    "torven-greis-the-merchant-lord",
+    "aren-vallestride-stone-runner",
+    "garu-luneward-winter-hound-of-the-march"
+   ]
+  },
+  {
+   "id": "c32",
+   "name": "The Voice Between Wars and the Outer nobles",
+   "theme": "The Arbitration negotiator, the stag and serpent nobles who deal with the Accord, the spirit-binder who trades with them, and the two-tailed cipher who clears their rivals",
+   "era": "Unstated on the cards",
+   "hinge": "Cards that name each other: Aurevian mediated the Thorned Court's blood-hunt treaty and names Varozael, and Ziyu Pip sabotages his rivals; Vaelthyr and Sevrin record a documented arrangement of bound spirits for political cover.",
+   "members": [
+    "aurevian-lysanthir-voice-between-wars",
+    "varozael-dreikthorne-herald-of-nightglass",
+    "vaelthyr-iscarn-laughing-horn",
+    "sevrin-valeith-maw-of-nine-tongues",
+    "ziyu-pip-inari",
+    "ziyu-pip-inari-the-two-tailed-cipher"
+   ]
+  },
+  {
+   "id": "c33",
+   "name": "Rot and bloom",
+   "theme": "The marshkeeper, swamp swordsman, bloomrot fae, grove sage and hollow herbalist who keep the Verdant cycle",
+   "era": "Withering Era where stated (Kaien Rhuven); others unstated",
+   "hinge": "A path and a patron: Karasaki and Mirehollow both walk Tyzura's cycles, Aivyriel and Chimwala keep the Verdant groves and rot-beds, and Kaien Rhuven tends the Verdant Hollow.",
+   "members": [
+    "karasaki-hozume-the-verdant-rot",
+    "mirehollow-asakusa-the-verdant-lotus",
+    "aivyriel-the-rot",
+    "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+    "kaien-rhuven-the-silent-apothege"
+   ]
+  },
+  {
+   "id": "c34",
+   "name": "The Night Register",
+   "theme": "The Arbitration officer of attribution and the classifier, scholar, deer-counter and Measurewright apprentice around his case",
+   "era": "The archive's present (The Night's Watch)",
+   "hinge": "A shared archive thread: all five come from The Night's Watch, on the side of the Night Register, the Lattice Classification Bureau and the Night Watch Society.",
+   "members": [
+    "wystan-ashmore-late-bell",
+    "qiu-yinzhi",
+    "nol-tally",
+    "lu-sanjing",
+    "edwyn-brack"
+   ]
+  },
+  {
+   "id": "c35",
+   "name": "Malphas's cell",
+   "theme": "The Ferment of Stars and the instrument-maker, carried-name bearer, formulator and buyer who work under him",
+   "era": "The archive's present (The Night's Watch)",
+   "hinge": "A shared archive thread and a command: Ilmar, Nuvalik, Vesk and Xu Deming are Malphas's cell at the Greyshaft Nine coldhouse, and The Night's Watch is Malphas's one archived scene.",
+   "members": [
+    "malphas-ferment-of-stars",
+    "ilmar-foss",
+    "nuvalik",
+    "vesk",
+    "xu-deming"
+   ]
+  },
+  {
+   "id": "c36",
+   "name": "Gale and still point",
+   "theme": "The Kazuren siblings of shrine and monastery, and the gale-bloods of Veyran and Kael'Nir who walk against, before and within the storm",
+   "era": "Imperial Age (Ravenn); others unstated",
+   "hinge": "Kin and a place: Sairin and Shiran are Kazuren siblings; Karu and Iryen both come out of Kael'Nir (arena and temple choir), Karu and Ravenn out of Veyran blood.",
+   "members": [
+    "sairin-kazuren-the-still-point",
+    "shiran-kazuren-the-umbra-lantern",
+    "ravenn-kaelor-the-pale-gale",
+    "karu-velnar-the-shackled-tempest",
+    "iryen-maevith-the-serene-gale"
+   ]
+  },
+  {
+   "id": "c37",
+   "name": "Road-folk and the Eastward Isles",
+   "theme": "The grove courier, the wandering luthier and minstrel, and the two who came out of the Archive of the Eastward Isles",
+   "era": "Withering Era (Elthiré), late Imperial Age (Raymond); others unstated",
+   "hinge": "Pairs on the same roads: Liorien and Cyrus both come of the Archive of the Eastward Isles; Elthiré and Raymond carry music along Accord routes; Shiro runs an informal courier circuit for the Guild Accord along the Outer Wilds.",
+   "members": [
+    "shiro-kitsunari-little-white-fox",
+    "raymond-montclair-the-luthier-of-quiet-roads",
+    "elthire-maen-the-wandering-string",
+    "liorien-nael-teth-sleepless-quill",
+    "cyrus-vellhar-the-azure-warden"
+   ]
+  },
+  {
+   "id": "c38",
+   "name": "Sun-Sealed and the horizon couriers",
+   "theme": "The Arbitration duelist and the sand, sky and cartographer couriers he escorts or is teased by, and the solar ascendant they carry maps past",
+   "era": "Unstated on the cards",
+   "hinge": "Cards that name each other: Kaelen Raive names Rikkan and Saruin, Rikkan names Zahiren, Zahiren and Cael Veridion name each other.",
+   "members": [
+    "kaelen-raive-sun-sealed",
+    "rikkan-sahr-the-sand-skipper",
+    "saruin-kye-golden-laugh",
+    "zahiren-vahl-the-horizon-eyed",
+    "cael-veridion-bearer-of-the-second-sun"
+   ]
+  },
+  {
+   "id": "c39",
+   "name": "Sanctum Aria",
+   "theme": "The archmagus who refused Eresse's crown, the glassblade she confides in, the vessel he watched wake, and the herald who stood when the Sanctum Aria Concord fell",
+   "era": "Withering Era where stated (Serenyra, Kaelric)",
+   "hinge": "Kaelric's card calls Serenyra (as Serenyra Vale) his rival turned confidante; Kaelric and Rik'Lye name each other; Serenyra studies in Sanctum Aria's Astral Seminary and Ameiya stood alone when the Sanctum Aria Concord collapsed.",
+   "members": [
+    "serenyra-vaelith-the-archmagus-of-the-grove-spired-crown",
+    "kaelric-varnier-the-silver-veil",
+    "rik-lye-the-forbidden-vessel",
+    "ameiya-solvain-rain-of-the-bound-sky"
+   ]
+  },
+  {
+   "id": "c40",
+   "name": "The Age of Calamity",
+   "theme": "The arbiter, the crowned creviceborne, the soul-devourer and the magmaborn chieftain of the later age",
+   "era": "Age of Calamity",
+   "hinge": "An era: all four cards place their lives in the Age of Calamity, and Zarron's card is written against Iskaron and Sinclair.",
+   "members": [
+    "zarron-mahuo-the-arbiter-of-unity",
+    "iskaron-thalnaris-bearer-of-the-fractured-crown",
+    "sinclair-mercer-the-soul-devourer",
+    "gorrath-bloodspine-the-magmaborn-juggernaut"
+   ]
+  },
+  {
+   "id": "c41",
+   "name": "The Triune of the Three-Headed Serpent",
+   "theme": "The three matched co-founders of the Triune, and the occult medium of the Creviceward Circle",
+   "era": "Unstated on the cards",
+   "hinge": "An order: Selantra, Velcrissa and Virelsa were built as a matched set and their cards say to read them together; Estrella, an occult medium and soul-binder of the Creviceward Circle, is placed with them by kind.",
+   "members": [
+    "selantra-the-velvet-storm",
+    "velcrissa-the-dusken-bloom",
+    "virelsa-of-the-veilborne-skies",
+    "estrella-of-the-lattice-veil"
+   ]
+  }
+ ],
+ "notes": [
+  "Built from scratch: imports/lore/_clusters.json did not exist. 276 roster slugs in 41 clusters of 4 to 9, every slug in exactly one.",
+  "The graph's nine-person groups were largely re-cut: several joined unrelated people through name-key collisions (Adalric to Hieronymus, Vethraun to the Ossuary Choir) or through migration-note stat comparisons (Gorrath to Karasaki, Cernan, Sinclair and Zarron). Those edges are not in-world ties and were not used.",
+  "Possible same persons kept together: ziyu-pip-inari with ziyu-pip-inari-the-two-tailed-cipher (c32); xanelor-rafiminar with xanelor-rafminar-the-wandering-fang (c05). Kaalabad and Kirishima Hae-jin, whose folk name is Kaalabad, are also kept together (c04); placing them together does not settle whether they are one person.",
+  "Cross-cluster ties the writers must honour: Yukizumi Yukari (c06) is Yukari by blood (c14); Borin Ironheart (c02) is Ymir Rhok's mentor (c16); Kwon Mu-jin (c09) shares his Kujo-arc scenes with Kaalabad (c04) and is father to Lily, Hiromi and Geturo (c05); Sodoku (c03) is Hild's father (c01) and Rikudoku's (c05); Sevrin (c32) and Karo Venrik (c10) are bound as informant and handler; Goraku (c18) drinks with Vaelthyr (c32); Maeron (c30) names Serenyra (c39); Serenyra (c39) handed the Grove-Spired throne to the Venrik line (c10, Isaac 2026-09-13); Azure Serathiel (c03) is the absent hub of c26; Maerion (c08) and Severin (c06) carry many scenes in the North and Curia threads; Gorrum (c15) appears in two scenes of Hild's coalition; Malphas (c35) is lord of the Rot Host (c23); Deimos (c22) is named on most of the Reaper office's cards (c06).",
+  "Malphas placed with his cell rather than his generals: his own card names neither, and The Night's Watch, his one archived scene, puts him with the cell. The Night's Watch cast is split by side: the Night Register (c34) and the cell (c35).",
+  "Azure Serathiel kept at Kharven (c03) because his archived scenes put him in the Tenrai council's argument over Muken; his card's own ties (Ambrose, Emilia, Evangelien, Vaelen) sit in c26 and c10.",
+  "Card-level conflicts already recorded on the cards and left open: Kaelzar's (c16) and Rik'Lye's (c39) cards name a Niran who is not canon's Niran Yukari; Ignatius's card says Voyager Era while the scenes write Darius in the present; WORLD.md lists Babyl (c24) and the name Onawa Ashkewe (c11) among struck names. Placement settles none of them.",
+  "Shared surnames without a textual tie were not treated as kinship: Draen and Lumen Varos (c16, c30), Rhaevan and Azure Serathiel (c26, c03), Eira and Lucen Vale (both c07). Zahir and Vaerath Ashveil share a cluster (c27) without their cards naming each other.",
+  "Clusters that rest wholly or partly on order, place, era or kind rather than on cards naming each other (the fallback for groups of one or two): c12, c13, c17, c18, c19, c20, c21, c24, c25, c26, c28, c29, c30, c31, c33, c36, c37, c40, c41. Their hinges say which.",
+  "Point-of-view and record cards: Sodoku Moto (record) is in c03; Hild Ice and Robin Ice (pov) in c01; Kwon Mu-jin (pov) in c09."
+ ]
+}

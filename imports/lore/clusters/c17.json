@@ -1,0 +1,179 @@
+{
+ "id": "c17",
+ "name": "The Obsidian Vault and the crimson houses",
+ "era_span": "Unstated on all seven cards. Wilhelm, Hazul and Zeven serve the Guild Accord, so their lives fall inside the Imperial Age after the Accord's founding; the other four carry no era. The record sets the seven as contemporaries, places the Whispering Crucible in the Old World and the three new events in the Outer World (the Varakh Drylands, Calverne, Valecar), states no year, and lengthens no life.",
+ "members": [
+  {
+   "slug": "wilhelm-the-guardian",
+   "line": "The Guardian, V.I.L-H3M: a Sentinel-Class alchemical mech the Accord's Strategic Division commissioned under the lost Bastion Directive, registered with the extinct Alchemarch Order of Varūn, Keeper of the Obsidian Accordant Vault and tethered to its gates, a manufactured Verdiction Core that remembers every blow, built without the capacity to attach."
+  },
+  {
+   "slug": "hazul-vehramin-the-unbound",
+   "line": "The Unbound: Eidolon Conductor and Aetheric Diplomat of the Accord's Interplanar Liaison Unit, once of the House of Eirnvala, bonded by pact to the shifting Eidolon panther Basil, who does his fighting; the only hand that has repaired Wilhelm's Core."
+  },
+  {
+   "slug": "zeven-halek-the-eye-that-remains",
+   "line": "The Eye That Remains: Master Guilder and Commander of Accord Field Operations, whose squad died in the Ivory Vault and whose reconstructed eye reads absences at a soul-burn that does not reverse; served with Wilhelm at the Whispering Crucible and lets Basilio sketch him without posing."
+  },
+  {
+   "slug": "basilio-pavaret-the-crimson-bloom",
+   "line": "The Crimson Bloom, Painter of Lived Sorrows, of an independent vampiric house with a broken lineage, who refused once and for good to feed by force, paints in his own blood from grief offered willingly, and has never said where it goes."
+  },
+  {
+   "slug": "adalric-vladimer-valen-the-crimson-shade",
+   "line": "The Crimson Shade: Baron and former High Lord of Bluvest, self-exiled, a hemomantic duelist for hire whose honour strains against a physiology that must feed, harbinger of Red Moon Nights to caravans and small settlements, respected by the elder vampiric courts."
+  },
+  {
+   "slug": "hieronymus-cruciferi-the-immortal",
+   "line": "The Immortal, Bearer of the Black Sun Cross: former Champion of the Oblivion Concord, bound to the soul-drinking Cross by a rite that burned his mortality away, listed in the Accord's hazard registries, with no allies and no capacity to bond."
+  },
+  {
+   "slug": "lyris-myndross-the-vampire-rider",
+   "line": "The Vampire Rider, the Pale Fang of Ruin: vampiric scout-warden of the Dragonbound Accord's remnants, tied to the dragon Phy'ruk Ritrax by a forced ritual that took, a tether without a partnership that every witness describes the same wrong way."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Fall of the Whispering Crucible",
+   "when": "Wilhelm's card names the event and gives it no date. This record sets it after the Ivory Vault Collapse, so that Zeven and Cylus came to it as the pair that collapse left, and in a season when Wilhelm was deployed away from the Vault.",
+   "where": "The coal foreland of the Old World (WORLD.md §5, West). No card places the Crucible or says what it was. This record gives the quarter and the country, and it ties the Crucible neither to Varūn nor to the Alchemarch Order.",
+   "who": [
+    "wilhelm-the-guardian",
+    "zeven-halek-the-eye-that-remains"
+   ],
+   "what": "The Crucible fell with an Accord unit inside it. Wilhelm planted himself at the way out. He did not move again until the unit was clear. Everything that came at him struck and failed to shift him, and the ground under his feet took what his body did not. Zeven worked behind him with the eye. He read the gaps in the field and laid seals in them, and the seals went off hours later behind the column. Cylus came out beside him. Wilhelm came out last. He cannot pursue, and he did not try. Zeven has claimed since that Wilhelm saved his life twice. Wilhelm's card records the claim as Zeven's, and nothing on it answers. What each took: Wilhelm took new engravings, as his body takes them from every direct confrontation, and the memory of every blow in a Core nobody else can service. He took a comrade's claim his architecture was not built to return. Zeven took a debt he speaks of aloud. The one operative he trusts at his back is Vaerion Syl'Tharas. At the Crucible he stood behind Wilhelm."
+  },
+  {
+   "name": "The breach on the Varakh Drylands",
+   "when": "New and undated. One of the catastrophic planar breaches that Wilhelm's and Hazul's cards say they were deployed to together, and the one that fractured the Core. The repair both cards record came after it.",
+   "where": "The Varakh Drylands in the Outer World (WORLD.md §5, South): thorn scrub and red earth, ground the Outer World page calls not worth a major dragon's permanent occupation. The Dragonbound Accord's remnants watched it. No card places the remnants or the breaches.",
+   "who": [
+    "wilhelm-the-guardian",
+    "hazul-vehramin-the-unbound",
+    "lyris-myndross-the-vampire-rider"
+   ],
+   "what": "The breach opened on ground the remnants watched, and Lyris and Phy'ruk found it first. They were flying its edge when the Accord's team came through. Hazul came to deal with whoever held the ground, and Wilhelm came to hold the breach. Hazul went to the rider before he went to the breach. He sent Basil forward without a word. Wilhelm walked into the mouth of the breach and planted. What came through struck him and did not move him, and the Core took every blow into its memory. Basil fought at his flank. The rider and the dragon kept to the edge through all of it. The breach closed. When Wilhelm came out of the stance, the Verdiction Core was fractured. The Accord allowed a repair, and Hazul made it. It is the only repair of that Core on record, and it told him nothing of what the Core was rendered from. Hazul's report describes Lyris and Phy'ruk in the air the same wrong way every other witness does. The Archives filed it with the rest. What each took: Wilhelm took a fractured Core and one repair by the only hand that has ever serviced it. There is no second Hazul. Hazul took the Accord's leave to put his hands inside a manufactured Crystal. He got no answer about where it came from. He also saw a bond made by force hold together in the air without working in concert, which his bond with Basil does. Lyris took one more witness to what she and Phy'ruk look like together. This one was written into an Accord liaison's report. She had flown above a man whose Eidolon moved with him on orders never spoken aloud, and she and Phy'ruk do that poorly."
+  },
+  {
+   "name": "The Red Moon Night on the Calverne road",
+   "when": "New and undated. After Adalric's self-exile, after the Ivory Vault gave Zeven the eye, and after Basilio refused to feed by force. It is the first time Basilio sketched Zeven.",
+   "where": "Calverne, the merchant monarchy that holds the road between the eastern mines and the coast, among the Kingdoms of the Five Rivers in the Outer World (WORLD.md §3 and §5; the Five Rivers row of the Outer World page). A caravan halt on that road.",
+   "who": [
+    "zeven-halek-the-eye-that-remains",
+    "basilio-pavaret-the-crimson-bloom",
+    "adalric-vladimer-valen-the-crimson-shade"
+   ],
+   "what": "Adalric came to the halt after dark. By morning prey had been taken from it and none were found. The carters knew the sign from the road and called it a Red Moon Night. An Accord courier travelling with the caravan was among the missing, and the Accord sent Zeven to retrieve him. He read the halt with the eye. What it gave him was a gap: something had passed through the halt quieter than the ground behind it and had left nothing. From the gap he derived a shape and no name. He laid no seals, since nothing was coming back, and he filed the reading. Nobody was retrieved. Basilio came to the halt in the days after, as he goes where people are grieving. The halt's people gave him their grief willingly. He painted it in his own blood, and the painting wept when he did. Zeven was still there. Basilio asked to sketch him. Zeven let him and would not pose. He could read the tether beginning to form between them, and he looked away at the last moment. Basilio drew the eye. He did not ask whose it had been. What each took: Adalric took prey, which his discipline requires, and was gone before the carters woke. An Accord reading of his shape sits in a file under no name, taken from an angle he had not planned for, and no record says he knows it exists. Basilio took the halt's grief and has never said where it goes. He also took the first of his sketches of Zeven, and every one since has the face turned away. Zeven took a courier he could not bring back and a shape he has nothing to check against. It may be a man. It may be a gap with nothing behind it. He took the first sitting as well, and looked away from it."
+  },
+  {
+   "name": "The field at Valecar",
+   "when": "New and undated. After Adalric's self-exile, and after the last days of the Oblivion Concord, when Hieronymus was already independent.",
+   "where": "Valecar, among the Kingdoms of the Five Rivers in the Outer World (WORLD.md §3), a river kingdom the Outer World page calls known for cavalry, grain and mercenaries.",
+   "who": [
+    "adalric-vladimer-valen-the-crimson-shade",
+    "hieronymus-cruciferi-the-immortal"
+   ],
+   "what": "A Valecar commander hired mercenaries for a field in the river country. Adalric took his coin to guard him. Hieronymus came onto the field for the other side near midday. The battle ended in minutes. Inside the radius of the Black Sun the ranks stopped being structured, and the souls of the slain went into the Cross. The commander's host broke. Adalric kept his rapier sheathed: he had been hired for the commander, and in daylight his cloak hid nothing. He kept the man alive in the wreck of the baggage lines through the afternoon. After dark he took him off the field under the cloak. Hieronymus did not follow them into the dark. Neither man learned the other's name that day, and the record gives them no second meeting. What each took: Adalric took a contract kept on a field where he never drew, and a living employer. He had seen what the Immortal does to a field. He is among the mercenaries Hieronymus's card says respect him. Hieronymus took the souls of the field into a Cross that must be fed before it can release. He also took one more commander who fears him. That one went out of reach in the dark."
+  }
+ ],
+ "ties": [
+  {
+   "a": "wilhelm-the-guardian",
+   "b": "hazul-vehramin-the-unbound",
+   "kind": "comrades, and a debt",
+   "summary": "Deployed together to catastrophic planar breaches; Hazul repaired Wilhelm's fractured Core, the only repair of it on record, and the Accord permitted it.",
+   "basis": "card"
+  },
+  {
+   "a": "wilhelm-the-guardian",
+   "b": "zeven-halek-the-eye-that-remains",
+   "kind": "comrades, and a claimed debt",
+   "summary": "They served together at the Fall of the Whispering Crucible, and Zeven claims Wilhelm saved his life twice.",
+   "basis": "card"
+  },
+  {
+   "a": "zeven-halek-the-eye-that-remains",
+   "b": "basilio-pavaret-the-crimson-bloom",
+   "kind": "sitter and painter",
+   "summary": "Basilio sketches him, and he never poses and looks away before the tether closes; the first sitting was at the Calverne halt.",
+   "basis": "card"
+  },
+  {
+   "a": "wilhelm-the-guardian",
+   "b": "lyris-myndross-the-vampire-rider",
+   "kind": "witnesses",
+   "summary": "She and Phy'ruk flew the edge of the Drylands breach while he held its mouth until the Core fractured.",
+   "basis": "new"
+  },
+  {
+   "a": "hazul-vehramin-the-unbound",
+   "b": "lyris-myndross-the-vampire-rider",
+   "kind": "liaison and witness",
+   "summary": "He dealt with her for the remnants at the Drylands breach and filed a description of her and Phy'ruk in the air that matches every other.",
+   "basis": "new"
+  },
+  {
+   "a": "zeven-halek-the-eye-that-remains",
+   "b": "adalric-vladimer-valen-the-crimson-shade",
+   "kind": "the reader and the absence",
+   "summary": "Zeven read the shape of a Red Moon Night at the Calverne halt and filed it under no name.",
+   "basis": "new"
+  },
+  {
+   "a": "basilio-pavaret-the-crimson-bloom",
+   "b": "adalric-vladimer-valen-the-crimson-shade",
+   "kind": "opposed",
+   "summary": "Basilio painted the grief of the halt Adalric emptied; one refused to feed by force, and the other's discipline requires it.",
+   "basis": "new"
+  },
+  {
+   "a": "adalric-vladimer-valen-the-crimson-shade",
+   "b": "hieronymus-cruciferi-the-immortal",
+   "kind": "opposite sides of one field",
+   "summary": "At Valecar Adalric kept a commander alive through the field Hieronymus ended; their cards share the trait name Curse of Rejectance, and whether it is one mechanism stays open.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "wilhelm-the-guardian",
+   "wants": "Yukizumi Yukari, the Reaper, whose remit names Mechanica and whose card names Wilhelm; c06 already points Yukizumi's outward tie at him, and the ruling on Wilhelm's making stays open whoever carries it."
+  },
+  {
+   "slug": "hazul-vehramin-the-unbound",
+   "wants": "Hyo Miran, the Velvet Dealer (c21), whose card keeps a rare and cryptic friendship with him and gave Basil a collar that shifts with the moon."
+  },
+  {
+   "slug": "zeven-halek-the-eye-that-remains",
+   "wants": "Cylus Verenn, his longest-standing companion and the other survivor of the Ivory Vault, who has no card; failing that, Vaerion Syl'Tharas, the one operative he trusts at his back."
+  },
+  {
+   "slug": "basilio-pavaret-the-crimson-bloom",
+   "wants": "An elder of the vampiric courts Adalric's card names, one who holds an account of how Basilio's house lost its lineage."
+  },
+  {
+   "slug": "adalric-vladimer-valen-the-crimson-shade",
+   "wants": "One of the safehouse-keepers or informants his card lists across the realms, the network he keeps where a lord would keep land; the Bluvest line his card shares with Drevath Mourne-Kal is c11's."
+  },
+  {
+   "slug": "hieronymus-cruciferi-the-immortal",
+   "wants": "A survivor of the Oblivion Concord's last days, whoever forged the Cross or performed the rite that burned his mortality away."
+  },
+  {
+   "slug": "lyris-myndross-the-vampire-rider",
+   "wants": "A keeper of bond law at the Avo'Kara Sanctum of Kra'Vorrak, the ritual city the Outer World page gives to bond law and Soul Crystal rites, who would read a bond made by force; or whoever forced the ritual."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "The floor of the bonding stat. Wilhelm's card: \"Harmonics 162 is the lowest primary stat on any sheet in this migration.\" Hieronymus's card: \"Second-lowest Harmonics in the migration\" and \"only Wilhelm, who was manufactured without the capacity to attach, sits lower.\" Velastra Nirellium's card: \"The lowest Harmonics in the migration\", at \"Harmonics 158\", and \"below Wilhelm's 162, and Wilhelm was manufactured without the capacity to attach.\" Gonju's card: Ardency at \"74\", \"The lowest primary stat in Volume IV\" (`Gonju · The Sage.md`).",
+  "Who lists Wilhelm as a comrade. Wilhelm's card: \"Three sheets in this volume list him as a comrade and his sheet is not built to reciprocate.\" and \"Zeven claims Wilhelm saved his life twice.\" Hazul's card lists him. Zeven's card names neither Wilhelm nor the Whispering Crucible. Hyo Miran's card: \"Avoids him religiously.\" No third card lists him as a comrade.",
+  "Where Wilhelm served with Zeven and Cylus. Wilhelm's card: \"Both served with Wilhelm during the Fall of the Whispering Crucible.\" The Verdiction Gauntlet page: \"Historical usage: alongside Cylus Verenn and Zeven Halek during the Exilic March, an attested campaign on Wilhelm's own chapter-appearance record.\" Wilhelm's card gives \"WOTR: Exilic March\" as a chapter appearance, a book title. The same page drops the card's earlier \"Invasion of Talum-Thar\" and \"Shield of the Bound Kingdom\" as unattested.",
+  "Zeven and Cylus called uncarded. `Spellcraft/Transposition.md`: \"None of the four practitioners the card names, Velcrissa of Selantra, Zeven Halek and his combat partner Cylus, Thalorath the Gatewrought, or the Red Twins of Dorrosfenn, have a card or page anywhere in current canon\". `Spellcraft/Oathrend.md` gives Oathrend \"Zeven Halek's single battlefield invocation\" and calls it \"unattested in current canon\". Zeven has a card, and it names no Transposition and no Oathrend.",
+  "Zeven's Division. His card: \"Guild Accord\" and \"Vanguard Division, Second Ring.\" The Modern Era page: \"Five Divisions, one unacknowledged sixth\", namely Strategic, Enforcement, Arbitration, Research and Archives, Logistics and Supply, and the Black Concord. `The Concord Military.md` puts \"The Vanguard Orders\" inside the Enforcement Division as \"Elite strike teams responding to Wellspring breaches, Domain violations, and rogue Ascendant entities.\"",
+  "One name, two traits, twice. Curse of Rejectance. Adalric: \"Purges toxins, corruptive Essence and mental intrusions automatically.\" Hieronymus: \"His Soul Crystal emits a constant purification surge, burning out all foreign Essence.\", and on him it forecloses Spirit Axes. Adalric's card gives him \"Attraction Layer · Developed, and pointed at a network rather than a person\" and an Attraction secondary Path. Adalric's card itself: \"Worth ruling whether these are the same mechanism.\" Eternal Endurance, unremarked on either card. Adalric: \"Operates at full capacity while mana and blood reserves remain stable.\" Hieronymus: \"Stage VII body reinforcement, capable of continuing combat after catastrophic injury.\" Adalric's card gives that same body-reinforcement phrase to a different trait, \"Vampiric Physiology · Stage VII body reinforcement\".",
+  "A Voidic reaper. Hieronymus's card: \"Class VI · Voidic.\", \"Relentless Battlefield Reaper\", \"His arrival often ends battles in minutes.\", and his output stat reads \"Near ceiling. Annihilation is output\". `The Practitioner Problem.md`: \"A Voidic practitioner is a poor attacker and the finest suppression instrument in the world\", \"They are not fielded as combatants.\", and \"They are slow to move and cannot defend themselves.\" His card offers its own reading, \"his Ardency does not deal damage. It removes things.\"",
+  "Hieronymus's Class. His card quotes the Accord's registries: \"Listed in Guild Accord hazard registries as a \"Stage VII Class X\" spell disruptor and Essence annihilator.\" The same card: \"Aether Shell · Class VI · Voidic.\" Adalric's card counts the Aether Classes as eight: \"is not among the eight\".",
+  "The Empire of Bluvest. Adalric's card: \"Former High Lord of the Empire of Bluvest\". Its unknown: \"Why the Empire of Bluvest let him leave.\" Drevath Mourne-Kal's card carries the same line. Vaerath Ashveil's card calls that empire \"struck; card gives no such empire in current canon\". The Amaranth Severance and Ocular Codex artifact pages carry Bluvest as live: \"Forged in the catacombs of Bluvest by the Red Alchemists during the Withering Era\" and \"six heretical grimoires seized in the Empire of Bluvest\". WORLD.md lists Bluvest neither among the places nor among the struck names. This is c11's item 8, with the artifact pages added."
+ ]
+}

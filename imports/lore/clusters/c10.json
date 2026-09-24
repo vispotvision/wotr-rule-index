@@ -1,0 +1,222 @@
+{
+ "id": "c10",
+ "name": "House Venrik and the Eressean crown",
+ "era_span": "The New World, where Eresse stands on the elven old-ground, with the Outer World for the Siege of Epprenea and Raivhar's rogue years. Karo's card alone states an era, 'Post-Riftfall cycle, 512 VE', and its own Open Rulings ask for Riftfall and 512 VE to be confirmed; the other seven cards state none. By Isaac's ruling of 2026-09-12 Karo is the son of Hiromi Mahuo, who is thirteen in the Academy scenes (c05), so the house's present falls a generation or more after the Academy years. No card or scene gives a year a Lore may state, and none of the eight appears in the archive: the CAST hits for Aelor Vaelith are Aelor, the Void power of Kujo's arc, and those for Vaelen Mourcrix are House Ess-Vaelen.",
+ "members": [
+  {
+   "slug": "karo-venrik-the-foolish-magus",
+   "line": "High Elf of the Eressean line, Echo-Binder of the Ma Sigil; by Isaac's ruling the son of Hiromi Mahuo and Saeloria, Queen of Eresse. Founder of the Division, exiled from the Grove-Spired throne for unlicensed Anamnesis research after he surrendered the succession; his Crystal is still fracturing, he has fielded Echoes for eleven years and two never came back, and he will not hear the Division called a parlour trick. His card names nobody."
+  },
+  {
+   "slug": "asta-venrik-wyvern-marshal-emeritus",
+   "line": "Eressean Highborn, the Skyfang Queen of Eresse and 'Karo's Tomboy Queen', former commander of the Skyfang Militia in Royal House Venrik, chosen as queen over the conservative houses. Her Glory came holding a burning sky corridor open for civilian gliders while her wyvern bled under her; pride makes her slow to retreat, and her card reads her discipline as 'the discipline Karo hammered in.'"
+  },
+  {
+   "slug": "sandalphon-aestraen-the-reverent",
+   "line": "High Elf of Eresse, Half-Sung; Saeloria's consort and former Crown-Consort and Regent, exiled under the Pact of Iridescent Mourning, on Pilgrim-Writ, escorted-archives only. Terrain began keeping what he sang, the opposite of the self-erasure he was under; his braid-ribbons each bind an Echo. By Isaac's ruling he is not Karo's father."
+  },
+  {
+   "slug": "vaelen-mourcrix-the-exculpate-arbiter",
+   "line": "High Elf of Eresse, Imperial Inquisitor and Arbiter of Sanctum Lux's Judicariate Circle of Eresse, House Mourcrix, descended from House Venrik (kinship to Karo open on his card). He reads guilt by what is missing; he rendered a verdict the Circle overturned and the ground kept, and has never resolved which of the two he serves. He weighs and cannot rule."
+  },
+  {
+   "slug": "ilyria-draven-morningstar-monochrome",
+   "line": "Monochrome, half-vampire contract slayer of armoured combatants, formerly of the Accord's Special Division; Karo Venrik's daughter by a mother of the sealed Draven Morningstar line. Her Glory came when a target named her father in her technique and she did not correct him; she wears his blue sash through Resonance Inversion and refuses every replacement."
+  },
+  {
+   "slug": "aelor-vaelith-the-imperial-pegasus",
+   "line": "Sky-Marshal of the Aerial Ward, the Imperial Pegasus, Eresse's Crown champion and treaty-lancer under the Accord's Arbitration Division, riding Mirenai of the Velthaeir cloud-archives. Close to unbeatable where the treaty is clear and a mistake anywhere ambiguous; heavy ash roughens his footing on the air unless he scrubs a lane."
+  },
+  {
+   "slug": "eryndrel-vaelune-the-trinebow",
+   "line": "The Trinebow, Eresse's line-ranger and treaty marksman in the Aerial Ward, who rides with the Imperial Pegasus: 'He calls Aelor's dive; Aelor calls his wind.' He hates killing shots and will spend position to avoid them; his card pairs 'a champion who cannot read a situation with a ranger who reads nothing else.'"
+  },
+  {
+   "slug": "raivhar-drakonis-the-ashen-horn",
+   "line": "The Ashen Horn, Domain Gladiator of a Vanguard Order in the Enforcement Division, declared rogue after the Kyrenshade Massacre; his horns draw from Wellsprings he anchors in, his Pyre takes the Traits of those he kills, and a Voice talks in his flame. He fought beside Karo at the Siege of Epprenea and is now estranged."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Burning Corridor",
+   "when": "While Asta commanded the Eressean Skyfang Militia, after the cliff wars of her Welling and Ascension; the night of her Catalyst Event. No card gives a year.",
+   "where": "A pass in the Eressean mountain chains, in the Grand Principality of Eresse on the elven old-ground of the New World (WORLD §3, §5 East), where Asta's card puts the three minor Wellsprings that answer her.",
+   "who": [
+    "asta-venrik-wyvern-marshal-emeritus",
+    "eryndrel-vaelune-the-trinebow",
+    "aelor-vaelith-the-imperial-pegasus"
+   ],
+   "what": "The forest under a pass burned in the night, and no card says what lit it. The valley's people went out by glider along the one corridor of air over the pass, full of smoke and broken lift. Asta took the Skyfang flights in and held the corridor open, shaping the air so the gliders could follow her. Eryndrel hooked the route at the near end with his Threadline, read the air and called the corridor closing, aloud, for every rider; Asta refused to leave it, and her wyvern bled under her. Aelor could not find footing on ash-thick ridges, so he scrubbed a clean lane at the far mouth and held it, and the gliders came out onto clear air. The corridor closed behind Asta after the last glider, as Eryndrel had read it would. Took: Asta, her Glory and a wyvern that bled under her the length of the corridor; Eryndrel, a call given aloud and refused on a read that was right about the air; Aelor, the far mouth held on a lane he scrubbed himself, and the pairing Eryndrel's card records, in which Eryndrel calls his dive and he calls Eryndrel's wind."
+  },
+  {
+   "name": "The Siege of Epprenea",
+   "when": "Before the Kyrenshade Massacre, while Raivhar served in the Enforcement Division's Vanguard Order. No card gives a year or places it against Karo's exile.",
+   "where": "Epprenea, in the Outer World ('Outer World, the Southern Pan', ruled 2026-09-12; WORLD §3). Vaelthyr Iscarn's card puts a Wellspring under its ice labyrinths; the event speaks only of the Wellspring under the siege ground.",
+   "who": [
+    "karo-venrik-the-foolish-magus",
+    "raivhar-drakonis-the-ashen-horn"
+   ],
+   "what": "Raivhar, with a Vanguard Order in the Concord's line, anchored his horns in the Wellspring under the siege ground and fought from it; the ice around him charred and crystallised. The Wellspring began to fail while he drew on it, and the record does not say whether his draw, the siege or both began it. Karo read the Wellspring through the conduit Raivhar's horns made into it, found where it was failing, turned his own Essence into harmonic resonance and held it (the Concord Military page gives the act without a place). The Wellspring held and Raivhar's anchoring held with it; they fought out the siege on one side. Took: Karo, his name on the Wall of Resonance beneath the Concord Citadel; Raivhar, an anchoring that did not collapse under him, and the feel of Karo's read passing down through his own horns, which he knew again at Dorrosfenn."
+  },
+  {
+   "name": "The Weighing at Vaelmarr",
+   "when": "The hearing that ended in Karo's exile from the Grove-Spired throne, at which both Karo's and Vaelen's Catalyst Events came; at least eleven years behind Karo's present, since his card makes Echo-Sovereign the shape of that fracture and counts eleven years of Echoes.",
+   "where": "Vaelmarr, seat of the Sunroot Court (WORLD §3, the New World), in a council chamber built partly below grade, as Eressean chambers are (desktop/inventories/eresse.md).",
+   "who": [
+    "karo-venrik-the-foolish-magus",
+    "vaelen-mourcrix-the-exculpate-arbiter"
+   ],
+   "what": "The Division's unlicensed Anamnesis research came before the Judicariate Circle of Eresse, inside its window, witnesses named and paid. Vaelen, Imperial Inquisitor, read the Division's work by what was missing from it and rendered a verdict in its favour. The Circle overturned him on the licence the research had never had; the chamber floor where he rendered the verdict kept it anyway. The Crown put the choice to Karo, the Division or the succession. He kept the Division, surrendered the succession and was exiled, and his Crystal fractured along the succession and has not stopped. Took: Karo, exile and the losses his card counts ('The Crown, the succession, and a name that opened doors'), the Division kept, and the one insult he will not hear; Vaelen, his Catalyst Event, a verdict the ground kept and the institution overturned, and the unresolved question of which he serves. The event rests on his office; the kinship his card makes a family matter of stays on his Open Rulings. The Mnemonis page later has him supervise Karo's Wellspring shift, reluctantly."
+  },
+  {
+   "name": "The Contract at Dorrosfenn",
+   "when": "After the Kyrenshade Massacre and Raivhar's declaration as rogue, while Ilyria was attached to the Accord's Special Division; the engagement at which her Catalyst Event came.",
+   "where": "Dorrosfenn, in the Outer World (WORLD §3, §5 South).",
+   "who": [
+    "ilyria-draven-morningstar-monochrome",
+    "raivhar-drakonis-the-ashen-horn"
+   ],
+   "what": "The Special Division put a deniable contract on the rogue, and it went to Ilyria. She told him what she was about to do to his coherence, threaded Coherence Collapse into the node under his fire, and for the beats it buys his Aether failed. In those beats he knew the read, which he had felt at Epprenea running through his own horns, and he spoke the name Karo Venrik. She did not correct him, and she let him see the elven calm and the vampiric hunger working as one instrument. His Voidic Shell turned the thread back, and the Voidflame's pattern slotted into her lattice. She broke contact; the blue sash at her waist held her through the recovery. Raivhar left alive and still rogue; no card says what the Division entered on the contract. Took: Ilyria, her Glory, a Resonance Inversion worked out with her father's sash at her waist, and her father's name, spoken by a man who had fought beside him, left uncorrected; Raivhar, his life and his fire, and the name of the man whose read he felt, spoken aloud to the man's daughter."
+  }
+ ],
+ "ties": [
+  {
+   "a": "karo-venrik-the-foolish-magus",
+   "b": "asta-venrik-wyvern-marshal-emeritus",
+   "kind": "spouses",
+   "summary": "Asta's card makes her Karo's wife, chosen as queen over the conservative houses, and reads her discipline as his; his card does not name her.",
+   "basis": "card"
+  },
+  {
+   "a": "karo-venrik-the-foolish-magus",
+   "b": "ilyria-draven-morningstar-monochrome",
+   "kind": "father and daughter",
+   "summary": "Alive, aware of what she does and silent about it; she wears his blue sash and has declined every replacement.",
+   "basis": "card"
+  },
+  {
+   "a": "karo-venrik-the-foolish-magus",
+   "b": "sandalphon-aestraen-the-reverent",
+   "kind": "kin by marriage",
+   "summary": "Sandalphon is the consort of Karo's mother, Queen Saeloria; by Isaac's ruling Karo is Hiromi Mahuo's son.",
+   "basis": "card"
+  },
+  {
+   "a": "karo-venrik-the-foolish-magus",
+   "b": "vaelen-mourcrix-the-exculpate-arbiter",
+   "kind": "kin; the weighed and the weigher",
+   "summary": "House Mourcrix descends from House Venrik (open on Vaelen's card); Vaelen's overturned verdict at Vaelmarr was in favour of Karo's Division, and he later supervised Karo's Wellspring shift, reluctantly.",
+   "basis": "card"
+  },
+  {
+   "a": "karo-venrik-the-foolish-magus",
+   "b": "raivhar-drakonis-the-ashen-horn",
+   "kind": "comrades, now estranged",
+   "summary": "Karo held the Wellspring Raivhar was anchored in at the Siege of Epprenea; since Kyrenshade they are estranged.",
+   "basis": "card"
+  },
+  {
+   "a": "aelor-vaelith-the-imperial-pegasus",
+   "b": "eryndrel-vaelune-the-trinebow",
+   "kind": "comrades (the Ward's pairing)",
+   "summary": "He calls Aelor's dive; Aelor calls his wind. Only Eryndrel's card says so.",
+   "basis": "card"
+  },
+  {
+   "a": "asta-venrik-wyvern-marshal-emeritus",
+   "b": "eryndrel-vaelune-the-trinebow",
+   "kind": "comrades; a call refused",
+   "summary": "In the Burning Corridor he called the line closing and she would not leave it; both were right about something.",
+   "basis": "new"
+  },
+  {
+   "a": "asta-venrik-wyvern-marshal-emeritus",
+   "b": "aelor-vaelith-the-imperial-pegasus",
+   "kind": "the queen and the Crown's champion",
+   "summary": "Two of Eresse's commanders in the air; in the Burning Corridor he held the far mouth while she held the corridor.",
+   "basis": "new"
+  },
+  {
+   "a": "asta-venrik-wyvern-marshal-emeritus",
+   "b": "sandalphon-aestraen-the-reverent",
+   "kind": "kin by marriage",
+   "summary": "Her card counts him in the family; its 'Karo's father' is superseded by Isaac's ruling.",
+   "basis": "card"
+  },
+  {
+   "a": "asta-venrik-wyvern-marshal-emeritus",
+   "b": "vaelen-mourcrix-the-exculpate-arbiter",
+   "kind": "kin by marriage",
+   "summary": "Her card counts House Mourcrix, descended from House Venrik, in the one bloodline.",
+   "basis": "card"
+  },
+  {
+   "a": "sandalphon-aestraen-the-reverent",
+   "b": "vaelen-mourcrix-the-exculpate-arbiter",
+   "kind": "kin",
+   "summary": "Sandalphon's card calls Vaelen 'their kinsman'; Elder Seravain's card says Vaelen would recognise the offer Sandalphon has refused.",
+   "basis": "card"
+  },
+  {
+   "a": "asta-venrik-wyvern-marshal-emeritus",
+   "b": "ilyria-draven-morningstar-monochrome",
+   "kind": "her father's wife",
+   "summary": "Derived from two cards: Asta is Karo's wife and Ilyria is Karo's daughter by a woman of the Draven Morningstar line. Neither card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "ilyria-draven-morningstar-monochrome",
+   "b": "raivhar-drakonis-the-ashen-horn",
+   "kind": "enemies (slayer and target)",
+   "summary": "At Dorrosfenn her Collapse stopped his fire, he named her father, and his Shell turned her thread back; both walked away.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "karo-venrik-the-foolish-magus",
+   "wants": "His father: Hiromi Mahuo, the Paragon of Dominion (c05), Karo's father by Isaac's ruling of 2026-09-12. Neither card names the other, and no card records how the Venrik name came to a Mahuo's son."
+  },
+  {
+   "slug": "asta-venrik-wyvern-marshal-emeritus",
+   "wants": "The woman whose assent her crown rests on: Serenyra Vaelith, the Archmagus of the Grove-Spired Crown (c39), whose refusal 'was a handover, and the Venrik line holds with her assent.'"
+  },
+  {
+   "slug": "sandalphon-aestraen-the-reverent",
+   "wants": "His queen: Saeloria, Queen of Eresse, whose consort he is by Isaac's ruling. She has no card."
+  },
+  {
+   "slug": "vaelen-mourcrix-the-exculpate-arbiter",
+   "wants": "The one who concludes where he weighs: Ignatius Sanctus Sanctorum Arsenal (c04), 'Where Vaelen Mourcrix weighs, Ignatius concludes'; that card asks for the two to be built as a matched pair."
+  },
+  {
+   "slug": "ilyria-draven-morningstar-monochrome",
+   "wants": "The keeper of a seal: the Accord officer who holds the Draven Morningstar archive, sealed three generations before her birth, in the Research and Archives Division (c12)."
+  },
+  {
+   "slug": "aelor-vaelith-the-imperial-pegasus",
+   "wants": "A witness who can read a cause he cannot: Lyss Arvale, the Quiet Swan (c25), Oath Witness of the Neutral Chambers, whom 'The Aerial Ward's couriers' fly between tribunals and call 'wind's conscience.'"
+  },
+  {
+   "slug": "eryndrel-vaelune-the-trinebow",
+   "wants": "The smith of his unplayed hook: Orokh Sable-Forge, the Wyrmwright (c16), who in The Fourth Limb offers him a prototype limb for four-way splits."
+  },
+  {
+   "slug": "raivhar-drakonis-the-ashen-horn",
+   "wants": "The Accord's inquisitor on his trail: Seraphion Veydrak, the Chain-Halo (c28), of the Arbitration Division's Judgment Order, who 'Sees him as a heretic to be reclaimed or destroyed.'"
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Karo's father. Asta: 'Migrated so far: Sandalphon Aestraen (Karo's father), Karo Venrik, Asta Venrik (Karo's wife), and Vaelen Mourcrix' (Asta Venrik · Wyvern Marshal Emeritus, head note). Raivhar: 'Karo Venrik's connections are: his father Sandalphon' (Raivhar Drakonis · The Ashen Horn, VIII). Sandalphon: 'Karo Venrik is not his son: Isaac ruled on 2026-09-12 that Karo Venrik is the son of Hiromi Mahuo and Saeloria, the Elven Queen.' (Sandalphon Aestraen · The Reverent, lineage flag). Isaac's ruling governs (RULINGS.md, 2026-09-12); the two cards are unamended.",
+  "Sandalphon's card against itself, in one flag: 'Karo Venrik is not his son' and 'Sandalphon, his son Karo, and their kinsman Vaelen' (Sandalphon, lineage flag).",
+  "Who holds the Grove-Spired throne. Karo: 'Exiled from the Grove-Spired throne' and 'He surrendered a succession' (Karo, I); 'What it costs him · The Crown, the succession, and a name that opened doors.' (Karo, IX). Asta: 'Skyfang Queen of Eresse' (Asta, I); 'As queen she still smells faintly of wyvern oil' (Asta, Profile). Serenyra: 'The Venrik line holds the Grove-Spired throne in current canon; her standing with Karo and Asta Venrik is reconciled: the refusal was a handover, and the Venrik line holds with her assent (Isaac, 2026-09-13).' (Serenyra Vaelith, IX).",
+  "A High Elf with a Mahuo father. Karo: 'Race · High Elf, Eressean line.' (Karo, I). Isaac's ruling makes Hiromi Mahuo his father; Hiromi's card gives 'Lineage: Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.' and states no race (Hiromi Mahuo). A naming register is not ethnicity (LAW §3).",
+  "What Karo passed to his daughter. Ilyria: 'her father's psionic targeting instrument, inherited' (of Anima Spirare, Ilyria, III) and 'A Karo-class elven psionic with comparable Animatric depth can override her read' (Ilyria, VIII). Karo's card harmonises Anamnesis, Oneirion, Fixatio and Judicium, has no Anima Spirare and never calls him a psionic (Karo, III). The wiki gives him an 'Animatria suite' and 'Nexus networks' (The Spirit Summoning Arts, Key Figures); his card gives him Echo-Sovereign alone.",
+  "Karo's Shell. Karo: 'Aether Shell · Unclassed (Class emerges at Glory).' (Karo, II). The Latch artifact page: 'Karo's Aether Shell is Class II Harmonic' (The Latch of Twinned Souls, Operation line).",
+  "Ilyria, former or current. 'Unaffiliated; formerly attached to the Guild Accord Special Division' (Ilyria, I) against 'The Guild Accord Special Division · Contract-bound, deniable. One open contract has run six weeks under observation with no action taken' (Ilyria, IX). The Guild Accord pages list five Divisions and the Black Concord and no Special Division (WORLD §4).",
+  "The Venrik and Mourcrix line, asked about three times. Vaelen's Identity states the descent and his Open Rulings ask 'confirm intended.' Asta: 'This wants confirming as deliberate before more is built on it.' Sandalphon: 'Confirm this is intended before anything is built on it.' Isaac's 2026-09-12 ruling settled Karo's parents and did not mention House Mourcrix.",
+  "Ties named from one side. Karo's card names none of the other seven. Asta names Karo, Sandalphon and Vaelen, and of the others only Raivhar's note names her. Ilyria and Raivhar each name Karo, and his card names neither. Eryndrel names Aelor; Aelor's card does not name Eryndrel.",
+  "Beyond the cards, the crowns of Eresse. Isaac's ruling calls Saeloria 'Queen of Eresse', and the Elven Peoples page calls the Sunroot Court at Vaelmarr \"Saeloria's court.\" The Korvaeth scene gives Eresse an Empress, Onawa, executed at Korvaeth: 'The Empress of Eresse came out of the eastern door at the sixth bell' (scenes/01_the_vacancy_korvaeth_arc.md). The New World State of Play: 'Sunroot split name from office and voted a regency under Ovaeren, chosen because he has no blood claim.' Serenyra's card puts the Venrik line on the throne with her assent. No page sets these in order."
+ ]
+}

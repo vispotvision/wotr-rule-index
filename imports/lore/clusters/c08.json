@@ -1,0 +1,245 @@
+{
+ "id": "c08",
+ "name": "The courts of waking and sleeping law",
+ "era_span": "Unstated on all nine cards, and no scene holds any of them: the eleven scenes the roster and scenes/CAST.md give Lord Maerion Lysandre match the word 'Lord', never his name, so nothing places him in the archive's present. The three events sit before the present each card describes, ordered against one another and against card events (the Petal Writ, the Oath of the Third Depth, Leontes' resignation after his undated Fall), with no era or year assigned. Lucien's card alone implies a long life ('for centuries').",
+ "members": [
+  {
+   "slug": "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+   "line": "Concord High Magistrate of the Arbitration Division's Concord High Court, battle-scholar and field commander, the Lion of the Concord; he binds a spoken law into a blow, his Domain is a courtroom where breaking a law brings backlash on anyone, himself included, and he commands and does not personally fight. He appears in no scene: the eleven the roster gives him match the word 'Lord'."
+  },
+  {
+   "slug": "riven-eltamyr-vonnel-the-glaive",
+   "line": "Arbiter Exemplar of the Neutral Chambers with Code 9-L execution authority, an arbiter-duelist with a parasol-glaive whose mercy is 'structured, not sentimental'; lies fracture into petals for him, his one-line Final Petal is chosen before the strike, and an unjust verdict can break him. His card roots him in the struck Holy See of Lurien."
+  },
+  {
+   "slug": "atheron-dreymarch-prophet-of-the-unblinking",
+   "line": "Neutral Chambers Keeper and Moon-Oath Binder of the Forgotten Court of Noxthallow; oaths sworn before him hang on him as chains and summon him into the oathbreaker's dreams, where he binds or strips the will. Permanently blindfolded; he cannot fight, only judge, and only those who have sworn."
+  },
+  {
+   "slug": "leontes-praevan-magistrate-of-altherion",
+   "line": "High Magistrate of Altherion and Chief Arbiter of its Central Concord Tribunal, the Ink-Warden; a former Concord Auditor who resigned after a private, undated failure he calls the Fall, he binds by glyphs read in ordinary text, cannot recall a clause, and remembers every word written in his court."
+  },
+  {
+   "slug": "orivane-caelthys-astral-shepherd",
+   "line": "Astral Magus and Celestial Navigator of the Concord Celestial Cartography Office, keeper of safe passage through the Outer World's drifting realms and a neutral party when navigation rights are contested; he reads the sky by what it blocks, forecasts and does not prevent, and his cost is the false transit."
+  },
+  {
+   "slug": "hazzen-skollgrin-the-crooked-grin",
+   "line": "Black Concord containment hunter who eats bindings, seals and Domain anchorings, rebuilt from executioner bones and laughing through every death, with thirteen devoured entities stitched into him and a Wellspring that was once the prism that held him; he cannot re-bind anything."
+  },
+  {
+   "slug": "lucien-draeve-emerald-alchemist",
+   "line": "Black Concord poison-savant, formerly a medicinal alchemist of Research and Archives, who moved to assassination after 'unfortunate accidents' removed his rivals; his touch turns a brew toxic or back, his Domain makes every airborne particle his instrument, and somebody else usually administers what he makes."
+  },
+  {
+   "slug": "varek-ka-ruun-the-blood-eater",
+   "line": "Chieftain of the Braqth Dominion's Flame-Horn Tribe in the Outer World and leader of the Crimson Hunt, which burns Wellsprings into feasting grounds; his coming-of-age scar-glyphs feed him the longer he stays in melee, his horns vent fire when he drinks heart's blood, and nothing tells him when to stop."
+  },
+  {
+   "slug": "thalyss-aevyrn-the-deep-coil",
+   "line": "Wellspring Sovereign of the Abyss of the Kingdom of Vellsorea in the New World, warden and executioner of the Leviathan Pact under the Oath of the Third Depth, letting no landwalker into an abyssal Wellspring uninvited; he signed with the Leviathan fragment in his Wellspring and shifts between human and serpent form."
+  }
+ ],
+ "events": [
+  {
+   "name": "The duel court in Braqth",
+   "when": "After Riven had taken Hazzen as his last-argument enforcer under the Petal Writ, and after Varek's coming-of-age duels had cut the carvings he still wears. Before the blood-and-salt feast.",
+   "where": "Braqth, in the Outer World (WORLD §3; Braqth ruled a real place on 2026-09-12, the Southern Pan). The Southern Pan page gives the Braqthian confederations their standing-stone work in columnar basalt.",
+   "who": [
+    "riven-eltamyr-vonnel-the-glaive",
+    "varek-ka-ruun-the-blood-eater",
+    "hazzen-skollgrin-the-crooked-grin"
+   ],
+   "what": "The Crimson Hunt burned a Wellspring in Braqth into a feasting ground, and the confederation that drew on it brought the loss before the Guild Accord. Arbitration sent Riven Eltamyr Vonnel. Varek Ka'ruun would not answer a written ruling. He called for duel court under the coming-of-age law his carvings had been cut by, and Riven accepted. They fought inside a ring of basalt posts. Hazzen Skollgrin stood at the edge of it under the Petal Writ, there to carry out the ruling if the Blood-Eater refused it. Riven kept out of Varek's reach. His footwork narrowed the exchange toward one ending, and he closed it with a single cut he had chosen before he stepped in. Varek lost. He said he had been honoured by the artistry of his own defeat, and the Hunt left that Wellspring to the confederation. Hazzen had nothing to enforce. That night Varek drank with him and, in the middle of a toast, tried to bite his neck. Hazzen laughed. Varek has said since that he laughs right. Took: Riven, the one duel his card records, won; the foot strain his footwork costs; an enforcer who stood at the ring and was not loosed; Varek, the loss, which he calls an honour; one Wellspring fewer for the Hunt; a man to drink with after battles; Hazzen, a drinking companion, and a bite at his neck mid-toast."
+  },
+  {
+   "name": "The blood-and-salt feast",
+   "when": "After the duel court, since Varek and Hazzen already drank together after battles; after Thalyss had sworn the Oath of the Third Depth.",
+   "where": "The New World's eastern seaboard, in the waters of the Kingdom of Vellsorea (WORLD §3; Vellsorea ruled the New World, the Eastern Rise, on 2026-09-12). The Eastern Rise page: \"An oceanic plate is going down beneath it along the whole seaboard\", and \"The Wellsprings here move.\"",
+   "who": [
+    "thalyss-aevyrn-the-deep-coil",
+    "varek-ka-ruun-the-blood-eater",
+    "hazzen-skollgrin-the-crooked-grin"
+   ],
+   "what": "A sea-bound Wellspring beast followed a moving current up out of the deep water and onto the shelf off Vellsorea. The shelf had no room for the Leviathan's form. In human shape Thalyss Aevyrn could turn the water only a short way around him. The Oath of the Third Depth lets no landwalker into an abyssal Wellspring uninvited, and he invited one. Varek Ka'ruun came. He fought the beast at close quarters in the shallows, where the carvings on his skin fed him more the longer he stayed, while Thalyss held the water heavy around it. It died on the shelf. They feasted on the shore on its blood and on salt, and Varek drank from its heart. Hazzen Skollgrin had come with him, as he came after battles. At the tide-line Thalyss took him under, to see, he said, if it was funny. Hazzen came up alive. He had swallowed the air in the slain fish. Thalyss has tried again since, and Hazzen has lived each time. Took: Thalyss, a landwalker let in by invitation, the one door the Oath leaves open, and the respect of one apex predator for another that both cards record; Varek, a feast, the beast's heart's blood, and that same respect; Hazzen, the first of the drownings he has survived, and the way he survived it."
+  },
+  {
+   "name": "The hearing at Altherion",
+   "when": "After Leontes Praevan had resigned the Concord audit post and taken the chief seat of the Altherion Central Concord Tribunal. The Fall that came before the resignation stays undated and undescribed, as his card rules. After Atheron's oath-chains had come to hold without his tending.",
+   "where": "Altherion, the republic on the Ring's rim (WORLD §3 and §5; Leontes' card: Inner World, northern rim), in the Altherion Central Concord Tribunal.",
+   "who": [
+    "leontes-praevan-magistrate-of-altherion",
+    "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+    "riven-eltamyr-vonnel-the-glaive",
+    "atheron-dreymarch-prophet-of-the-unblinking",
+    "orivane-caelthys-astral-shepherd"
+   ],
+   "what": "Two carrying houses contested a route through the Outer World's drifting realms, and Orivane Caelthys sat between them as the neutral party. He charted the lanes, and they divided them. The settlement was written and signed. The master of one house also swore to keep it in the presence of Atheron Dreymarch, and a chain for that oath hung on Atheron's body from that day. A season later the master sent a ship down the other house's lane. The chain summoned Atheron into his sleep, and Atheron laid a geas on his will. The house never used that lane again. The other house held its charter in Altherion and sued there for the season's carriage it had lost. Lord Maerion Lysandre argued for the house. Riven Eltamyr Vonnel argued for the master: the geas was a sentence, and no man could be sentenced twice for one breach. Maerion answered that a ruling given in a dream paid no carrier, and that dream-law was too abstract for waking politics. Atheron came to the tribunal blindfolded and said the chain still held. Leontes Praevan asked for the written settlement. He read it, ruled on it and on nothing else, and gave the house its carriage. The master went home liable awake and bound asleep. On the tribunal steps Orivane told Atheron that chains can become snares to the self. Took: Maerion, a win over Riven in a Concord trial, one of those his card counts, and his view of Atheron's rulings set down in a court that forgets nothing written; Riven, a loss to Maerion, argued for an ally's sentence; Leontes, the written record of both arguments, which he does not forget, and a judgment resting on a signed page; Atheron, a chain that held in the master's sleep whatever the waking court decided, and a warning; Orivane, his lanes upheld in ink, and the warning his card records, given as advice."
+  }
+ ],
+ "ties": [
+  {
+   "a": "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+   "b": "atheron-dreymarch-prophet-of-the-unblinking",
+   "kind": "colleagues (mutual respect)",
+   "summary": "Each respects the other's authority; Maerion finds Atheron's dream-law too abstract for waking politics, and said so at Altherion.",
+   "basis": "card"
+  },
+  {
+   "a": "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+   "b": "riven-eltamyr-vonnel-the-glaive",
+   "kind": "rivals (friendly, in court)",
+   "summary": "Courtroom rivals who have each won and lost to the other in Concord trials; at Altherion Maerion won.",
+   "basis": "card"
+  },
+  {
+   "a": "riven-eltamyr-vonnel-the-glaive",
+   "b": "atheron-dreymarch-prophet-of-the-unblinking",
+   "kind": "allies (waking and sleeping law)",
+   "summary": "Riven governs the waking law and Atheron the sleeping; at Altherion Riven argued for Atheron's sentence and lost.",
+   "basis": "card"
+  },
+  {
+   "a": "riven-eltamyr-vonnel-the-glaive",
+   "b": "hazzen-skollgrin-the-crooked-grin",
+   "kind": "master and leashed enforcer",
+   "summary": "Riven keeps Hazzen as a last-argument enforcer on a Petal Writ, which Hazzen bites often; at Braqth he stood by the ring.",
+   "basis": "card"
+  },
+  {
+   "a": "riven-eltamyr-vonnel-the-glaive",
+   "b": "varek-ka-ruun-the-blood-eater",
+   "kind": "rivals (victor and vanquished)",
+   "summary": "They fought once in ceremonial duel court at Braqth; Varek lost and was honoured by the artistry.",
+   "basis": "card"
+  },
+  {
+   "a": "varek-ka-ruun-the-blood-eater",
+   "b": "hazzen-skollgrin-the-crooked-grin",
+   "kind": "comrades (drinking companions)",
+   "summary": "Varek drinks with Hazzen after battles, once tried to bite his neck mid-toast, and says he laughs right.",
+   "basis": "card"
+  },
+  {
+   "a": "varek-ka-ruun-the-blood-eater",
+   "b": "thalyss-aevyrn-the-deep-coil",
+   "kind": "comrades (apex predators)",
+   "summary": "They hunted a sea-bound Wellspring beast off Vellsorea and celebrated with a blood-and-salt feast.",
+   "basis": "card"
+  },
+  {
+   "a": "thalyss-aevyrn-the-deep-coil",
+   "b": "hazzen-skollgrin-the-crooked-grin",
+   "kind": "tormentor and survivor",
+   "summary": "Thalyss has tried to drown Hazzen many times to see if it is funny; Hazzen lives by the air in slain fish.",
+   "basis": "card"
+  },
+  {
+   "a": "lucien-draeve-emerald-alchemist",
+   "b": "hazzen-skollgrin-the-crooked-grin",
+   "kind": "poisoner and subject",
+   "summary": "Lucien has poisoned Hazzen many times for research, and Hazzen found it hilarious.",
+   "basis": "card"
+  },
+  {
+   "a": "lucien-draeve-emerald-alchemist",
+   "b": "atheron-dreymarch-prophet-of-the-unblinking",
+   "kind": "avoidance (a witness shunned)",
+   "summary": "Lucien dislikes Atheron, says dream chains ruin his work, and avoids direct dealings; Atheron's card does not name him.",
+   "basis": "card"
+  },
+  {
+   "a": "orivane-caelthys-astral-shepherd",
+   "b": "atheron-dreymarch-prophet-of-the-unblinking",
+   "kind": "counsel",
+   "summary": "Orivane respects Atheron's dream-law and warned him, on the Altherion steps, that chains can become snares to the self.",
+   "basis": "card"
+  },
+  {
+   "a": "orivane-caelthys-astral-shepherd",
+   "b": "lucien-draeve-emerald-alchemist",
+   "kind": "distrust",
+   "summary": "Orivane keeps dealings with Lucien minimal and calls his alchemy a corrosion of the greater weave.",
+   "basis": "card"
+  },
+  {
+   "a": "leontes-praevan-magistrate-of-altherion",
+   "b": "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+   "kind": "judge and advocate",
+   "summary": "Maerion won before Leontes at Altherion; the one binds with a spoken law, the other with a law that must be read.",
+   "basis": "new"
+  },
+  {
+   "a": "leontes-praevan-magistrate-of-altherion",
+   "b": "riven-eltamyr-vonnel-the-glaive",
+   "kind": "judge and advocate",
+   "summary": "Riven argued a sleeping sentence before Leontes, and Leontes ruled on the written page.",
+   "basis": "new"
+  },
+  {
+   "a": "leontes-praevan-magistrate-of-altherion",
+   "b": "atheron-dreymarch-prophet-of-the-unblinking",
+   "kind": "waking court and sleeping court",
+   "summary": "Leontes ruled past Atheron's chain: the geas stood outside his record, and the master answered awake.",
+   "basis": "new"
+  },
+  {
+   "a": "leontes-praevan-magistrate-of-altherion",
+   "b": "orivane-caelthys-astral-shepherd",
+   "kind": "witness",
+   "summary": "Leontes upheld the settlement Orivane had charted, on its written terms.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "lord-maerion-lysandre-keeper-of-the-seven-treatises",
+   "wants": "a field arbiter he patronises and does not fully trust. Kaien Veyren, the Lotus Scar, whose card makes Maerion \"His primary patron in the Regency he serves\" and says Maerion \"mistrusts his habit of vanishing for weeks\". The Regency's place was struck with Mireya and is unnamed (`RULINGS.md`, 2026-09-12)."
+  },
+  {
+   "slug": "riven-eltamyr-vonnel-the-glaive",
+   "wants": "the enforcer who came up beside him. Seraphion Veydrak, the Chain-Halo, whose card says the two \"are both Arbitration Division enforcers who came out of the same seminary\". Where that seminary stood waits on the Lurien question (section 7)."
+  },
+  {
+   "slug": "atheron-dreymarch-prophet-of-the-unblinking",
+   "wants": "the one presence that could unmake his tribunal by standing in it. Sandalphon Aestraen, whom he keeps at a distance because \"Sandalphon's fractured memory-song might twist and snarl his dream-chains.\""
+  },
+  {
+   "slug": "leontes-praevan-magistrate-of-altherion",
+   "wants": "the colleague who watched the same kind of failure. Caius Veylan, \"Longtime colleague\", who shares \"a belief that law is the only true restraint left once you have watched an institution fail from the inside.\" Caius has no card."
+  },
+  {
+   "slug": "hazzen-skollgrin-the-crooked-grin",
+   "wants": "the scholar who cuts him open to learn. Hiromi Mahuo, who \"Once tried to dissect Hazzen mid-conversation. Hazzen let him.\""
+  },
+  {
+   "slug": "varek-ka-ruun-the-blood-eater",
+   "wants": "a healer who will patch him after a fight with no throttle. Lyraen Callivane, the Verdure Hoof, who \"Once healed him after a battle\"; he called her \"the little lamb that bites.\""
+  },
+  {
+   "slug": "thalyss-aevyrn-the-deep-coil",
+   "wants": "the crown his pact-marks bind him to. The Vellsorean royal line, bound to him by \"Living sigils\"."
+  },
+  {
+   "slug": "orivane-caelthys-astral-shepherd",
+   "wants": "the grove his forecasts protect. Thalyren Veyroot, the Verdant Sentinel; Orivane \"assists in predicting celestial weather that could affect his groves.\""
+  },
+  {
+   "slug": "lucien-draeve-emerald-alchemist",
+   "wants": "the one who stayed. Elder Seravain, the Ophidian Archivist of Research and Archives, with whom Lucien has \"exchanged venoms and antidotes for centuries.\""
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Orivane's card against itself. \"Respects his dream-law work but warns him that chains can become snares to the self.\" (`Orivane Caelthys · Astral Shepherd.md`, VIII) and, of Orivane, Atheron and Emilia Veirynthiel, \"None of the three sheets knows the other two exist.\" (same, IV). Atheron's card also compares him with Emilia: \"Two seers, opposite faculties, and the Court exiled the one who could only look backward.\" (`Atheron Dreymarch · Prophet of the Unblinking.md`, V)",
+  "Ties named from one side. Maerion names Atheron and Riven; neither names Maerion. Varek names Hazzen; Hazzen does not name Varek. Thalyss names Hazzen; Hazzen does not name Thalyss. Lucien names Atheron and Hazzen; neither names Lucien. Orivane names Atheron and Lucien; neither names Orivane. Leontes names no member. Only Riven and Atheron, Riven and Hazzen, Riven and Varek, and Varek and Thalyss are named on both cards.",
+  "The count of \"Judgment\". Maerion's card: \"Invented Stage name\" and \"third instance of 'Judgment,' after Thalyss Aevyrn and Lucien Draeve.\" (Maerion, epigraph note). Riven's card says its own Stage word read \"Judgment (brushing the border of Revelation)\" (Riven, epigraph note). Thalyss's: \"The card reads 'Stage IX (Judgment).'\" (Thalyss, epigraph note). Lucien's card carries no such note; its Catalyst reads \"Stage IX, Invocation.\" (Lucien, II)",
+  "Four magistrates or five. Maerion's card: \"Maerion is the fourth Judicium magistrate in Volume IV, and the four form a clean set.\" (Maerion, IV). Kaelen Raive's card: \"Vaelen weighs. Leontes writes. Riven cuts once. Maerion commands.\" and \"he is the only one of the five with no diplomatic faculty at all.\" (`Kaelen Raive · Sun-Sealed.md`, IV)",
+  "Card against wiki: where the Black Concord sits. Hazzen: \"Enforcement Division, Severance Protocol Cell 3C\" under the Black Concord (Hazzen, I). Lucien: \"Black Concord, Toxin Arts Division.\" (Lucien, I). The Guild Accord page: \"The sixth and unspoken Division. Reports only to the High Concordant.\" (`The Guild Accord.md`, the Divisions table).",
+  "Card against wiki: how one enters it. Lucien \"shifted to assassination and sabotage after several 'unfortunate accidents' removed his political rivals\", and \"Lucien left openly\" (Lucien, I). The Black Concord page: \"No one joins the Black Concord by choice. They are taken\" (`The Black Concord.md`, Recruitment).",
+  "Card against wiki: Altherion. Leontes: \"High Magistrate of the Kingdom of Altherion.\" (Leontes, I). The Stannvaard page: \"Altherion, the multiracial republic whose River Crown Council governs the kingdom's largest surface settlement\", and \"Not the kingdom's capital\", of a Stannvaard whose capital is Thane-Gorr. Sanctum Lux's page has both: \"the Kingdom of Altherion, a multiracial republic\".",
+  "Riven's upbringing. \"He is Lurien-born, raised in the Holy See of Lurien.\" and \"wants a single re-homing ruling rather than four.\" (Riven, epigraph note). Seraphion's card: Riven and Seraphion \"are both Arbitration Division enforcers who came out of the same seminary.\" (`Seraphion Veydrak · The Chain-Halo.md`, epigraph note). `RULINGS.md`, 2026-09-12: \"The Holy Sea of Alabaster inherits the Holy See of Lurien's old jurisdiction over southern phosphate law, along with everything else it replaced.\" Whether that sentence re-homes a person's upbringing is not ruled; no event here places Riven's youth.",
+  "What summons Atheron. Lucien's card: \"a death by 'unfortunate accident' in an oathbound household is a summons.\" (Lucien, IX, gloss). Atheron's card: \"Breaking such an oath summons Atheron in dreams\" and \"They must have sworn.\" (Atheron, VI and VII). One card makes a death the summons; the other makes it the breaking of an oath by one who swore.",
+  "The index against the archive. `scenes/CAST.md`: \"Lord Maerion Lysandre (a.k.a. Lord Lucen Vale) (11 scenes)\". None of the eleven files contains \"Maerion\" or \"Lysandre\"; each hit is the word \"Lord\". The `_clusters.json` note \"Maerion (c08) and Severin (c06) carry many scenes in the North and Curia threads\" repeats the error."
+ ]
+}

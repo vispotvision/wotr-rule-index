@@ -1,0 +1,160 @@
+{
+ "id": "c35",
+ "name": "Malphas's cell",
+ "era_span": "The archive's present, in the Withering Era: the night of The Night's Watch at the Greyshaft Nine coldhouse, after Vaeloris reformed, and the cell's work at the bench before it. No year is given. Malphas's two Catalysts are undated; this record places its events in the span his card leaves between his first Catalyst and the Becoming, the one span in which card and scene both hold, and describes his body in none of its new events. The Rot Host (c23) comes after this scene.",
+ "members": [
+  {
+   "slug": "malphas-ferment-of-stars",
+   "line": "The Living Cauldron, Ferment of Stars, expelled from the Pyraeon Forge Academy and declared a metaphysical threat, whom the Heresiology names as Fermentation perverted; his card is the form after the Becoming, a hood and robe over a parchment skull with the Golden Remnant at his hip, and in the scene he is a man who is not large, sits on the gauge bench with hands that keep a living colour and names the work Project Zombification."
+  },
+  {
+   "slug": "ilmar-foss",
+   "line": "Instrument-maker struck from the Hexagonal Oath eleven years before the scene for what he calls, drunk, a rounding convention; the steadiest hands in the building, who knows attribution from the inside, states why the residue reads clean, calls the synthesis filthy and presses Malphas on the walking dose."
+  },
+  {
+   "slug": "nuvalik",
+   "line": "Far-Northern butcher and anatomist of the ferment, carrying a name three people carried before her; she wipes her blade before she speaks, has twice objected that a carcass no bird will touch stays where it fell and gets counted, did not report the contraction she got out of the fourth hind's shoulder, and hesitated before she went for the hook."
+  },
+  {
+   "slug": "vesk",
+   "line": "Formulator of the Verdantia growth, raised in a village that put stones on its graves; two grafts have left his hands unable to close, he loses his thoughts and keeps the pleasure, delights in the dead getting up, and calls Malphas Lord and a genius without ever asking his Stage."
+  },
+  {
+   "slug": "xu-deming",
+   "line": "The purse: capped young into a trading lineage under a courtesy name he does not much like, buyer of record for the Verdantia he diverted off the Swale line as wastage, who knows Article Fifteen makes the payer liable and that the payer is him, and who argued against naming the project."
+  }
+ ],
+ "events": [
+  {
+   "name": "The first reading at the bench",
+   "when": "Before the doses went into the field at the Ferriby cut and the other counties, while the cell was proving its rot synthesis at Greyshaft Nine (Malphas: \"We have been practising rot synthesis and the slow breakdown of biological matrices, and we have proved it out\", scene l. 205).",
+   "where": "The Greyshaft Nine coldhouse on its capped main: the table and the gauge bench (scenes/the_nights_watch.md). Accord jurisdiction; no page places it in a quarter.",
+   "who": [
+    "ilmar-foss",
+    "nuvalik",
+    "vesk",
+    "malphas-ferment-of-stars"
+   ],
+   "what": "The first beast the ferment had finished was laid on the coldhouse table. Nuvalik opened it. The connective net was gone and the cells were whole, and the carcass gave off no smell. Foss put a coil over the residue and it read clean. He said at the bench why it read clean: nothing in the room had coupled, and the beast's own Lattice had run the working and signed it. Vesk stood at the bench and heard it. Malphas heard it out. Nuvalik said that a carcass with no smell draws no bird down to it, and that such a carcass stays where it fell and gets counted. It was the first of the two times she said it before the night of the report. What each took. Ilmar Foss: the account of the clean reading, which Malphas calls on him to give again on the night of the report (\"Tell him why it reads clean\"). Vesk: the account itself; by the night of the report Foss could say to him, \"You know it and you do not use it\", and Vesk still held that the purity was the elegant part. Nuvalik: the objection her card counts twice, the first of the two. Malphas: the practice Foss states for the whole cell at the report: \"We draw nothing. We couple nothing.\""
+  },
+  {
+   "name": "The draw off the Swale line",
+   "when": "After the ferment was proven at the bench and before the doses reached the Ferriby cut. On the night of the report Deming gives the Logistics Division eleven weeks to find it.",
+   "where": "The Swale line, the pumping array whose wastage column goes into a Logistics return (scene, l. 173), and then Vesk's bench at Greyshaft Nine.",
+   "who": [
+    "xu-deming",
+    "vesk",
+    "malphas-ferment-of-stars"
+   ],
+   "what": "The field doses needed more Verdantia than Deming could buy. He took it off a legitimate supply contract on the Swale line and drew it down as wastage, against a pumping array whose wastage had lain flat for four years, and the record names him as the buyer. The stock came to Vesk's bench at Greyshaft Nine. Vesk made the third dilution from it, to be introduced live and carried on the animal's own circulation. What each took. Xu Deming: the standing of buyer of record, and with it the liability Article Fifteen lays on the payer; on the night of the report he knows the payer is him. Vesk: the stock his growth formulation needed, in the quantity the field doses asked. Malphas: a working stock bought in another man's name."
+  },
+  {
+   "name": "What Does Not Smell Dead (the archive)",
+   "when": "The night of The Night's Watch, in the archive's present. The nine hinds had hung on the rail eleven days (l. 105), and the Ferriby tin had lain five days unfiled (\"She has been carrying it for five days and she has not filed it\", l. 201).",
+   "where": "The Greyshaft Nine coldhouse, on a main capped four years: the rail, the gauge bench, the ice press in the next room, the drip in the far corner (scenes/the_nights_watch.md, l. 103 to 105).",
+   "who": [
+    "malphas-ferment-of-stars",
+    "vesk",
+    "ilmar-foss",
+    "nuvalik",
+    "xu-deming"
+   ],
+   "what": "Vesk came up the rail with the flask in both palms and told Malphas the experiments had gone as he said. Malphas had Foss say why the residue reads clean. Foss called the synthesis filthy and gave the reason: nothing in the room couples, and the animal's own Lattice runs the working and signs it. Nuvalik reported the bodies: the scaffold eaten, the cells left, no smell. She called that a fault, said so a third time on Malphas's word, and told him he had made a thing that sits in a field waiting to be counted. Vesk gave the growth. Deming, at the door with his hat in his hands, put the cost in the room, told them he had diverted the Verdantia off the Swale line and bought it, and set out the clock of the Logistics return and the reach of Article Fifteen. Malphas answered that the two objections were one: the work had an edge. He named Tally and the girl with the unfiled tin. He set the next work: the dose made to walk, on a contractile matrix, with no anchor, since an anchor is a binding and a binding is a name. He named Nuvalik's unreported contraction and said he would discuss it with her separately. He named the task Project Zombification, and when Deming objected he ordered the name used by all of them, in writing and in correspondence. Vesk thought the name was doing something besides the deer and lost the thought. Malphas ordered the ninth hind to the table. Nuvalik stood still for a while at the tail of the rail, then went and got the hook. What each took. Malphas: the finding that the work has an edge, the next work set against it, and a name of his choosing on the project, to be used in writing. Ilmar Foss: his objection to the walking dose on the record, answered by Malphas: \"I need a gradient\"; his \"So we stop\" answered too: \"We stop having edges.\" Nuvalik: her fault heard a third time and made the ground of the next work; her unreported contraction named in front of the room, with a separate word owed; the order for the ninth hind, which she carried out; and, on the page, the thought that she has spent all three names for this body on this work (l. 155). Vesk: his growth made the base of the next work, and the dead to get up; \"Vesk felt the whole thing arrive at once and had to put his hands flat on the bench.\" Xu Deming: his warning spoken before the fact, as he asked; the name he argued against, now to go into the correspondence he feared; and, on the page, the count of his useful days, which he believes Malphas already holds."
+  }
+ ],
+ "ties": [
+  {
+   "a": "malphas-ferment-of-stars",
+   "b": "vesk",
+   "kind": "lord and follower",
+   "summary": "Vesk calls him Lord and a genius and has watched him eleven days for a sign of his Stage without asking; Malphas made Vesk's growth the base of the walking dose.",
+   "basis": "card"
+  },
+  {
+   "a": "malphas-ferment-of-stars",
+   "b": "ilmar-foss",
+   "kind": "command",
+   "summary": "Malphas calls on Foss to say why the residue reads clean, and Foss presses him on the walking dose: no Crystal, no self, no reason.",
+   "basis": "card"
+  },
+  {
+   "a": "malphas-ferment-of-stars",
+   "b": "nuvalik",
+   "kind": "command",
+   "summary": "She says her fault a third time on his word; he names the contraction she did not report and owes her a separate word; she fetches the hook.",
+   "basis": "scene"
+  },
+  {
+   "a": "malphas-ferment-of-stars",
+   "b": "xu-deming",
+   "kind": "the hand and the purse",
+   "summary": "Deming bought what Malphas uses and carries the payer's liability; his thought is that Malphas has already counted his days.",
+   "basis": "card"
+  },
+  {
+   "a": "vesk",
+   "b": "ilmar-foss",
+   "kind": "rivals at the bench",
+   "summary": "Foss corrects Vesk's reading that purity makes it clean; Vesk reads Foss as a man expecting an appeal hearing and gets in ahead of him on the growth.",
+   "basis": "card"
+  },
+  {
+   "a": "vesk",
+   "b": "nuvalik",
+   "kind": "bench-mates, one confidence",
+   "summary": "She explained her carried name to him once and never again; her wiping the blade before she speaks is the one thing about her that frightens him.",
+   "basis": "card"
+  },
+  {
+   "a": "vesk",
+   "b": "xu-deming",
+   "kind": "formulator and buyer",
+   "summary": "Deming is buyer of record for the Verdantia that Vesk formulates, and the Swale draw fed the third dilution.",
+   "basis": "card"
+  },
+  {
+   "a": "nuvalik",
+   "b": "xu-deming",
+   "kind": "one objection from two ends",
+   "summary": "Malphas calls theirs one objection: her carcass stays where it fell, his ledger stays where it was written.",
+   "basis": "scene"
+  },
+  {
+   "a": "ilmar-foss",
+   "b": "nuvalik",
+   "kind": "colleagues at the proof",
+   "summary": "His coil read clean over the first carcass her knife opened; each answers Malphas for one half of the method, the reading and the bodies.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "malphas-ferment-of-stars",
+   "wants": "someone of the Pyraeon Forge Academy on the side that expelled him and declared him a metaphysical threat: a master, examiner or tribunal officer who signed it. Zeraphine Drowl (c23) came out of the same Academy, and c23 gives her the same need."
+  },
+  {
+   "slug": "ilmar-foss",
+   "wants": "an officer or fellow of the Guild of Measurewrights under the Hexagonal Oath who sat on his striking eleven years before the scene: the one who can say what the rounding convention was."
+  },
+  {
+   "slug": "nuvalik",
+   "wants": "kin by the carried name: a living Far-Northern household member who owes her a kin-turn through the name the three dead carried before her."
+  },
+  {
+   "slug": "vesk",
+   "wants": "someone of the village that put stones on its graves: the one who told the boy why, when he asked."
+  },
+  {
+   "slug": "xu-deming",
+   "wants": "a senior of his trading lineage's hall: the one who capped him young and keeps the book his generation character is written in."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Malphas's body. The card: \"What's left of him reads as a hood and a robe before it reads as a person\", \"The skull inside the hood is bone the color of old parchment\", and \"Nothing about either body has weight in the way a living thing has weight\" (Malphas · Ferment of Stars.md, I.V), with the Golden Remnant that \"travels at his hip or a half-pace behind\". The scene: he sits \"with his coat folded beside him\" (l. 115); \"He was not a large man\" (l. 183); \"Eleven days and the man's fingers had stayed the colour of a living man's fingers in a room at four degrees\" (l. 183). The scene shows no Remnant.",
+  "Whether the scene's Malphas has a card. The scene's archive note: \"New names in play with no card yet: Wystan, Qiu Yinzhi, Nol Tally, Edwyn Brack, Malphas, Vesk, Ilmar Foss, Nuvalik, Xu Deming, Lu Sanjing.\" (scenes/the_nights_watch.md, l. 399). The roster joins the scene to Malphas · Ferment of Stars.md, and the four stubs name \"Malphas's cell\".",
+  "Nuvalik's names, one or three. Her card: \"a carried name that belonged to three people before her\" (Nuvalik.md, I) and \"The three dead whose name she carries\" (XI), against \"she has spent all three names for this body on this work\" (XIV). The scene: \"carrying a name that had belonged to three people before her\" (l. 143) and \"Three names for this body and I have spent all three of them on this.\" (l. 155). The Far-Northern stratum allows either: \"A person may carry several.\" (naming amendment, §XI).",
+  "The carcass count, against Deming's figure. Tally's insert, as Wystan reads it: \"eleven hinds and a stag inside a quarter mile\" (l. 11), and Malphas repeats the eleven (l. 197). Deming prices \"nine hinds and a stag\" (l. 173), and Wystan says \"Nine hinds and a stag are dead in a cut in the north\" (l. 345). The rail at Greyshaft Nine holds \"Nine hinds\" (l. 105). Tally found the Ferriby carcasses standing on the ninth and went back to them on the tenth, and the rail's hinds had hung there eleven days by the night of the report.",
+  "Whether the Pyraeon Forge Academy is attested (c23's first item, repeated because it stands on Malphas's card). Malphas: \"Pyraeon Forge Academy stands as the institution that expelled him, unrelated in etymology, coincidental in name only\" (VI). Zeraphine Drowl: \"the Pyraeon Forge Academy as an institution is not, and this is its second appearance after Malphas's own expulsion from it.\" (head)."
+ ]
+}

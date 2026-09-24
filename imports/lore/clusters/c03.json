@@ -1,0 +1,249 @@
+{
+ "id": "c03",
+ "name": "The Ashen Crown: Muken's house and the Moto lines",
+ "era_span": "From Muken's road north out of Nalūn, through his sixteen years of rule and the corridor night that ended them, into the archive's present at Kharven. Muken's card files him under the Northern Sovereign Era, Ayame's under the Northern Throne, Late Young World, Artemis's under the War of the Realms Era; none maps to WORLD §1, and no year number is stated.",
+ "members": [
+  {
+   "slug": "muken-moto",
+   "line": "King of Kharven, the Ashen Blade, Moto-aligned through Shingan ignition and the coronation rites and never named Moto by descent; sixteen years of rule, wife Ayame Yuno and five children on his card; dead by a Tenrai removal his clear-fault judgment could not see."
+  },
+  {
+   "slug": "ayame-yuno",
+   "line": "The priest-queen of Kharven, Yuno Family, Kagura Branch, wed to Muken and still answerable to her house on the islands; she binds conquest into oath, memory and ritual law, and her card leaves her alive and at work while Muken campaigns."
+  },
+  {
+   "slug": "mizuki-moto",
+   "line": "Her card's Muken's Firstborn and Frost-Braid Heir, the Moto War Court's battlefield preservation specialist, who holds damage still in the cold and remembers every breath that failed; her card names no mother and Muken's card does not list her."
+  },
+  {
+   "slug": "yukazuri-moto",
+   "line": "Muken's sister, the Still Knife and Moto of No House, mortal and unbloodlined, alone in a cabin on the ruined ancestral ground since his removal left her no body to sit beside; she still refuses to claim ground."
+  },
+  {
+   "slug": "sodoku-moto",
+   "line": "Record mode. The Exiled Lion and Kōkan Butcher, former Crown Heir; the corridor night took his father, mother and a brother, he and Sonzai burned the Tenrai settlement, and the High Council exiled him; he carries his father's beads and travels with Yoko and Emira."
+  },
+  {
+   "slug": "yoko-mishiro",
+   "line": "Fox-spirit of the Mishiro line, the One Who Stayed, who walked through the lock on the pen on her own decision; her card, later, has her settled on the Scourge's edge with her husband, their son Riku and a second child coming."
+  },
+  {
+   "slug": "azure-serathiel-the-sky-veiled-saint",
+   "line": "A wandering Sword Saint and Guardian of the Celestial Oath, formerly of the Veil-Court of Serica, secret patron of the lost Wellspring of Benediction, said to be under House Moto's Aegis Mandate, which he denies; a different man from Azure Tenrai Moto."
+  },
+  {
+   "slug": "artemis-amagiri-moto",
+   "line": "The Bear and Mist-Breaker, an Amagiri of House Moto built like a siege beast, who makes every road and retreat cost too much; his card leaves him in the storm marches hunting the one enemy who broke his pass-law cleanly."
+  },
+  {
+   "slug": "souma-byakuya-moto",
+   "line": "The White Fang at the Threshold, called the Blessed, Sacrament-marked guardian of the Hidden Moto Village, who held the breach on the Night of the Broken Chancel and the passage at Snowgate, and fears his protection is becoming a cage."
+  }
+ ],
+ "events": [
+  {
+   "name": "The road north with a sister",
+   "when": "Before the Sixteen-Year Crown, on the road that ended in the conquest of the north (Kharven entry; the card's Catalyst is the coronation at its end).",
+   "where": "From Nalūn north and east into the boreal forest of Kharven's highland plateau (WORLD §5).",
+   "who": [
+    "muken-moto",
+    "yukazuri-moto"
+   ],
+   "what": "Muken was born in Nalūn, and his sister shared his mother and none of the blood the house would recognise. He fed them both on what his hands could earn and went north with the warriors who trusted his judgment, carrying a sister, a reputation from other people's wars and no standing. By the count of her own card she was a small child on that road, which is how her axis on him came to be filial and formative. Basis: scene and card, with the Long Reading's account of Nalūn as ruled on the Kharven entry. Took: Muken took the crown at the road's end, through blood-conquest and rite. Yukazuri took the one bond she oriented her whole life around."
+  },
+  {
+   "name": "The Still Snow Vigil at the Ridgewall (new)",
+   "when": "In the last years of Muken's reign, while the Greymanes held the western line against the hobgoblin raids that Godfrey reports to Muken in his last year (Part 5).",
+   "where": "The Ridgewall, the Greymane fortress in the western highlands of Kharven (WORLD §5).",
+   "who": [
+    "mizuki-moto",
+    "yukazuri-moto"
+   ],
+   "what": "A raid held the fortress under assault from dusk to dawn. A room behind the wall filled with the wounded, and Mizuki opened her field over it and held it through the night, slowing blood and breath and the leak of Essence until the surgeons could reach each cot. Yukazuri came to the room after the fighting reached it, as she always came, and sat beside the one soldier the field was holding who could not be saved. His dying took eleven hours. Her broadcast kept him calm, and she listened to him to the end. Neither card records that they spoke. Took: Mizuki took the Vigil her card records: a wounded room kept alive, and every breath that failed before dawn remembered, among them the one her field lengthened. Yukazuri took the Temperance step her card calls the dying soldier's eleven hours. The Still Line on Mizuki's card stays open; this night does not settle it."
+  },
+  {
+   "name": "The corridor night",
+   "when": "The night after the last assembly of Muken's sixteenth year of rule, the eve of the ceremony (Parts 5 and 6).",
+   "where": "Kharven-Seat (WORLD §5).",
+   "who": [
+    "muken-moto",
+    "ayame-yuno",
+    "sodoku-moto",
+    "yukazuri-moto"
+   ],
+   "what": "Azure Tenrai Moto had put his case for a correction to the Tenrai council and to the Amagiri head, Ren, and the channel they built went through the palace in one night. Muken died in the corridor outside his study; Ezo and Tomuka were killed in rooms Ayame's Saishiki had warded, by a trusted face the wards let pass. The wards were still whole when the bodies were found. The archive has Ayame die later by her own hand, and the Saishiki with her. Sodoku and Sonzai answered at the Tenrai settlement; the High Council sealed what happened there beside the exile decree. Yukazuri's card says the removal came without warning and left her no body to sit beside. The archive's firstborn, Mizuyi, was away from the palace that night; whether she is the carded Mizuki is open (section 6), so Mizuki is left out of this event. Basis: scene and card. Took: Muken took the Removal, the fracture his card leaves unconsolidated. Ayame's card stands at an earlier moment and records nothing of this night. The archive gives her the wards and the ending. Sodoku took his Catalyst and the Splintering, the massacre and the exile, a seam his card calls closed and load-bearing and stronger than the Crystal around it. Yukazuri took her second Catalyst and the cabin on the ruined ground."
+  },
+  {
+   "name": "The broken lock",
+   "when": "In the exile, while Sodoku travelled with Emira toward the Scourge of Hell (`scenes/The_Path_of_Sorrow.md`).",
+   "where": "The holding pens of a township on the road into the Scourge of Hell; WORLD.md does not place the Scourge.",
+   "who": [
+    "sodoku-moto",
+    "yoko-mishiro"
+   ],
+   "what": "Sodoku broke the lock on Yoko's pen with his blade's pommel, then the locks down the rest of the row. He bought her bread and broth, called her a tool, and sat outside the inn in the rain while she slept beside his sister. By her card she walked through the lock on her own decision. She travelled on with them into the Scourge. Basis: scene and card. Took: Yoko took her Catalyst and, in time, the bond her card calls absolute. Sodoku took the Unranked Category his card records, the room inside the Kamigan that holds Yoko and Emira."
+  },
+  {
+   "name": "Snowgate (new)",
+   "when": "In the kingless years after Muken's removal, once the Greymanes had held the western ridgeline as long as their stores and their discipline allowed and had withdrawn from it.",
+   "where": "The Stormfold, on the northern approaches of the western ridgeline (WORLD §5). Souma's card names the passage Snowgate; no page places the Hidden Moto Village, and this event does not.",
+   "who": [
+    "souma-byakuya-moto",
+    "artemis-amagiri-moto"
+   ],
+   "what": "Raiders came through the unheld approaches, and civilians had to be moved out through the northern passage. Souma planted Shirokiba at the passage mouth and held it while they went through. Beyond him the road climbed to a pass the Amagiri post had always kept, and Artemis closed it behind the last of them against the pursuit, and went on holding it long after retreat had become the sane choice. The two lines held one retreat from its two ends. The route held. Basis: new, built from both cards. Took: Souma took what his card records of Snowgate: memory-loss, deeper soul-strain, and a worsening fear that he can only matter through suffering. Artemis took the lesson his card records from holding that pass, that survival could be imposed as law. The enemy who broke his pass-law is not this night's; his hunt stays open."
+  }
+ ],
+ "ties": [
+  {
+   "a": "muken-moto",
+   "b": "ayame-yuno",
+   "kind": "spouses",
+   "summary": "King and priest-queen whose cards make their powers parallel sovereign systems, each covering the other's failure.",
+   "basis": "card"
+  },
+  {
+   "a": "muken-moto",
+   "b": "sodoku-moto",
+   "kind": "father and son",
+   "summary": "Sodoku carries his father's beads and, by both cards, the loop and the verdict-framework Muken seeded in him.",
+   "basis": "card"
+  },
+  {
+   "a": "muken-moto",
+   "b": "yukazuri-moto",
+   "kind": "brother and sister",
+   "summary": "He brought her north from Nalūn and fed her; her whole Temperance was built around listening for him.",
+   "basis": "card"
+  },
+  {
+   "a": "muken-moto",
+   "b": "mizuki-moto",
+   "kind": "father and firstborn, contested",
+   "summary": "Her card makes her his firstborn and his war strategy's preserver; his card and the 2026-09-12 ruling do not list her.",
+   "basis": "card"
+  },
+  {
+   "a": "ayame-yuno",
+   "b": "sodoku-moto",
+   "kind": "mother and son",
+   "summary": "She blessed his union with Fern Stark before the king signed it, and her island story is the reason the archive gives for the lock he broke.",
+   "basis": "scene"
+  },
+  {
+   "a": "ayame-yuno",
+   "b": "mizuki-moto",
+   "kind": "one court",
+   "summary": "The queen and the king's eldest serve the same Crown of Kharven; Mizuki's card names no mother.",
+   "basis": "card"
+  },
+  {
+   "a": "ayame-yuno",
+   "b": "yukazuri-moto",
+   "kind": "kin by marriage",
+   "summary": "The queen and the king's unacknowledged sister; no card or scene puts them in one room.",
+   "basis": "card"
+  },
+  {
+   "a": "ayame-yuno",
+   "b": "yoko-mishiro",
+   "kind": "legacy, never met",
+   "summary": "Ayame's story of an island where people stopped being afraid is what Sodoku carried to the pen where Yoko was held.",
+   "basis": "scene"
+  },
+  {
+   "a": "sodoku-moto",
+   "b": "yoko-mishiro",
+   "kind": "lovers, then married",
+   "summary": "He broke her lock and she walked out on her own decision; her card has them married, and the archive has their son born at Kharven-Seat.",
+   "basis": "card"
+  },
+  {
+   "a": "sodoku-moto",
+   "b": "mizuki-moto",
+   "kind": "siblings, contested",
+   "summary": "Her card makes her Muken's firstborn and heir; his card makes him the former Crown Heir and names no elder sister.",
+   "basis": "card"
+  },
+  {
+   "a": "sodoku-moto",
+   "b": "yukazuri-moto",
+   "kind": "aunt and nephew",
+   "summary": "Kin through Muken; each carries Muken as the bond that orders the rest, and no record puts them together.",
+   "basis": "card"
+  },
+  {
+   "a": "mizuki-moto",
+   "b": "yukazuri-moto",
+   "kind": "aunt and niece; comrades",
+   "summary": "Near in age, both of the hours after violence; one night at the Ridgewall she held a dying soldier still while her aunt listened to him die.",
+   "basis": "new"
+  },
+  {
+   "a": "artemis-amagiri-moto",
+   "b": "souma-byakuya-moto",
+   "kind": "comrades",
+   "summary": "Two lines outside the crown held one retreat at Snowgate from its two ends, the threshold and the road.",
+   "basis": "new"
+  },
+  {
+   "a": "artemis-amagiri-moto",
+   "b": "azure-serathiel-the-sky-veiled-saint",
+   "kind": "claimed by one house",
+   "summary": "Artemis serves House Moto; the same house is said to hold Azure under an Aegis Mandate, which he denies.",
+   "basis": "card"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "muken-moto",
+   "wants": "A foreign sovereign who calls him brother. The archive names one, the Zettari sovereign Revari, who crossed into Kharven with his son to warn a king he had known since a border town."
+  },
+  {
+   "slug": "ayame-yuno",
+   "wants": "An elder of her own branch. She is still answerable to her house on Yasoshima, whose council ratified her marriage as a covenant between houses."
+  },
+  {
+   "slug": "mizuki-moto",
+   "wants": "The equal witness her Crystal is looking for, a field surgeon or bonesetter who stays at the cot with her through the hours after."
+  },
+  {
+   "slug": "yukazuri-moto",
+   "wants": "Her card's named foil. That is a person who chooses connection despite the cost, comes to the ruined ground, and stays past one season."
+  },
+  {
+   "slug": "sodoku-moto",
+   "wants": "A Banner House lord whose oath he must earn again, because the oaths expired with his father and the kingdom is re-sworn one house at a time (Part 18)."
+  },
+  {
+   "slug": "yoko-mishiro",
+   "wants": "Another beastkin who came out of a pen. She would know the third category without being told."
+  },
+  {
+   "slug": "azure-serathiel-the-sky-veiled-saint",
+   "wants": "The office of the Holy Sea of Alabaster that banned The Blue Vigil, which his card asks to have named as the banning authority."
+  },
+  {
+   "slug": "artemis-amagiri-moto",
+   "wants": "The single enemy who once broke his pass-law cleanly."
+  },
+  {
+   "slug": "souma-byakuya-moto",
+   "wants": "A student he trains to hold the line, so that the village stops relying on one body, as his card's hook asks."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Muken's children. Muken's card: \"Children, Sodoku , Sonzai , Emira , Tomuka , Ezo\" (Spirit Axes), the list the 2026-09-12 ruling adopted. Mizuki's card: \"Muken's Firstborn\" and \"active in Kharven as Muken's eldest child\". The archive's firstborn is Mizuyi (Part 6).",
+  "Who was heir. Mizuki's card: \"The Frost-Braid Heir\". Sodoku's card: \"Kōkan Line. Former Crown Heir\". Part 6 gives Mizuyi \"the strongest claim to the throne by primogeniture\".",
+  "The brother in the corridor. Sodoku's card: the assassination \"took his father Muken, his mother, and his brother\" under a name the 2026-09-12 ruling struck. Muken's card lists five children, and that name is not among them; the archive kills Ezo and Tomuka that night (Part 6).",
+  "How Ayame died. Sodoku's card puts his mother's death in the one night. Part 6: \"Ayame died later, by her own hand\"; 08_sodoku_recalescence.md agrees. Ayame's own card stands before any of it: \"Active in Kharven, maintaining the White Concord\". Card against scene.",
+  "Mizuki's age against the reign. Mizuki's card gives her age as nineteen with Muken living and ruling. The Kharven entry in the archive: \"the marriage and the children came inside the sixteen-year reign, not ahead of it\" (THE_KINGDOM_OF_KHARVEN_corrected.md). Card against scene.",
+  "Muken's eyes. Muken's card: \"slate-grey with a heavy amber ring\". The_Path_of_Sorrow.md: \"all that amber-gold where Muken's were warm brown\". Card against scene.",
+  "Spouses in two eras. Muken's card: \"Northern Sovereign Era\". Ayame's card: \"Northern Throne, Late Young World\". Neither maps to WORLD §1.",
+  "When Yoko came. Sodoku's card, at twenty-two, has walked into the Unranked room \"for three years, for Yoko and Emira\". The_Path_of_Sorrow.md sets the broken lock after \"five years of grief\" since the corridor, and Part 6 makes him sixteen that night. Card against scene.",
+  "A Moto village. Souma's card: \"Sworn threshold-guardian of the Hidden Moto Village\". The Moto Bloodline page: \"The Moto hold one seat and it is Kharven. The six non-Kōkan lines are landless.\" Card against wiki.",
+  "Where Yukazuri lives. Her card: \"A cabin in the ruined Moto ancestral ground\". The Moto Origin and Moto Bloodline pages put that ground past the western ridgeline; the Long Reading puts it on the white shelf in the hinterland above the Holy Sea's coast (WORLD §7, open). The Lore uses the card's words and places the cabin nowhere further.",
+  "Struck forms on three cards. Ayame's card carries the struck Polynesian title and kin terms where the Yuno page renders the same house in its Japonic terms (R23-1, live). Yoko's card names her husband and his line by the struck Mongolian-register name for Sodoku. Sodoku's card names the corridor brother by a name struck on 2026-09-12. None of these forms is written in any Lore."
+ ]
+}

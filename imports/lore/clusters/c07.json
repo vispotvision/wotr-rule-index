@@ -1,0 +1,258 @@
+{
+ "id": "c07",
+ "name": "The Star Chamber's Protocol Corps",
+ "era_span": "Unstated on all nine cards; no card or scene gives a year, and no member's name appears in any file under scenes/ (scenes/CAST.md files eleven scenes under 'Lord Maerion Lysandre (a.k.a. Lord Lucen Vale)', but 'Lucen' occurs in no scene). Their offices (the Star Chamber's Protocol Corps, the Divisions, the Black Concord) are the Guild Accord's; the four events sit before each card's present and are placed on no count.",
+ "members": [
+  {
+   "slug": "lord-lucen-vale-the-star-chamberlain",
+   "line": "Star Chamberlain of the Guild Accord's Star Chamber, Protocol Corps, 'Human, Accord-born Harmonian': he arranges councils by placement and cadence, moving a chair two fingers' width or turning a glass; his Dawn Coin forces unembroidered speech from the one who turns it; his card forecloses violence, needs decorum, credits him with stabilising the Second Fracture Vote, and foreshadows his losing his voice at full council."
+  },
+  {
+   "slug": "cassiel-asterion-the-prism-notary",
+   "line": "'Light-law duelist and oath-engraver' of the protocol corps, seconded to Vireline for Measures and to Lucen for high councils; his meridian is a line objects prefer not to cross, his Facet Seal takes only a promise spoken without embroidery, none of his techniques strikes, and smoke and drums scatter his lines unless Kaede or Ascella steadies the air."
+  },
+  {
+   "slug": "kaede-suyori-blue-moth",
+   "line": "Blue Moth, 'Court lepidopterist, hush-healer, and social countermeasure', 'the only person who can cool a fevered room after Kaito warms it'; their card uses they, gives them a Moth Court, the Chrysalis Vow and a sheet that says they have never hurt anyone, and names no affiliation and no one but Kaito, whom they love."
+  },
+  {
+   "slug": "kaito-akagiri-the-scarlet-plague",
+   "line": "The Scarlet Plague, court fixer, duelist and 'social pathogen': once Arbitration's liaison, he burned his writ and now contracts deniably for the Black Concord, selling outcomes; Room Fever matches three people's breathing and leads half a step faster, he never raises his voice, his cuts are small, his debts small and numerous, and his card names only Kaede."
+  },
+  {
+   "slug": "marigold-vance-the-gilded-bailiff",
+   "line": "The Gilded Bailiff of the Star Chamber's Protocol Corps, Bailiff-at-Large to Vireline's Measures and escort for the Reaper in hot halls; her stamp makes a court, her Golden Receipt prints a gilt chit for any promise made within arm's reach, her tiara tilts toward the loudest lie, and she is the one member of the corps who can hit somebody, always to disarm."
+  },
+  {
+   "slug": "pierre-the-laughing-guillotine",
+   "line": "The Laughing Guillotine, freelance 'Court Fool / Interrogant', hired by guilds to detonate hypocrisy and rented by the Black Concord to salt negotiations, wearing an Arbitration pin borrowed from Vireline; his laughter knocks a truth loose, his bloody glove stains an oath, sincere silence unmans him, and his sheet says he has never executed anybody."
+  },
+  {
+   "slug": "eira-vale-the-echo-runner",
+   "line": "The Echo Runner, 'Concord courier of memory-chains across damped terrains', Logistics and Supply with an unacknowledged Black Concord secondment; she and the white gander Pilgrim carry treaty-clauses and echo-keys in quill-sized packets, Research and Archives relies on her for unfrayed codices, Sealwright teams trust her, and she cannot fight."
+  },
+  {
+   "slug": "ascella-wick",
+   "line": "Ascella Morwyn, called Wick, night-route guide and echo-archivist of Research and Archives with a Logistics field commission for Plateau operations; her load-bearing Lantern of Still Radiance lays a hush-field on command in the dark, her Stillflame gives light that does not echo, and her Moth Court (Hush, Brindle, Little King) roosts in her hood."
+  },
+  {
+   "slug": "arven-solthiel-the-smiling-veil",
+   "line": "The Smiling Veil, a young Veil-Touched man, 'Intermediary between lucid realms' and an unregistered Echo Courier for the Guild Accord, once an apprentice of the Somnalis Seminary at Eresse (unattested); he lulls spirits into conversation and remembers every dream he has entered, speaks in other people's voices for days after a long veilwalk, and the rumour that the Black Concord uses him to erase memories stays unconfirmed."
+  }
+ ],
+ "events": [
+  {
+   "name": "The Fever at the Round Table",
+   "when": "Before Kaito burned his writ, while he was still Arbitration's liaison; the council Kaede's card gives as the beginning of the two of them ('How it began').",
+   "where": "Altherion, the republic on the Ring's rim (WORLD §3, §5), in the River Crown Council's chamber: a round table without a head, one chair per delegation, and a speaking floor that belongs to whoever holds it (Stannvaard page).",
+   "who": [
+    "kaito-akagiri-the-scarlet-plague",
+    "kaede-suyori-blue-moth",
+    "lord-lucen-vale-the-star-chamberlain",
+    "cassiel-asterion-the-prism-notary"
+   ],
+   "what": "Arbitration convened a council in the lent chamber between two delegations quarrelling over escort fees on the corridor road. Lucen arranged it; the table gave him no head to set, and he imposed no order of speaking on a room built to refuse one, moving chairs two fingers' width and turning the glasses. Kaede sat at his side as co-architect; Cassiel stood at the meridian. Kaito, as Arbitration's liaison charged with bringing both delegations to yes, spoke softly, matched three delegates' breathing and led half a step faster. No voice rose; someone blurted, someone agreed, and the room reached for a larger yes than either delegation had come to give. Cassiel laid his line between the delegations and the yes shrank to the terms both would sign. The heat stayed in the room, and Kaede cooled it. When the chamber emptied, Kaede walked out beside Kaito. Took: Kaito, a yes smaller than the one he built, two rivals across every table since, and Kaede; Kaede, Kaito and the work of cooling the rooms he warms (they showed him afterward how to leave a pulse in a throat); Lucen, the rival his card names, and the practice of seating Kaede where Kaito is expected; Cassiel, the cold rivalry his card records and the line he has drawn against Kaito's yes since."
+  },
+  {
+   "name": "The Unsealed Promise",
+   "when": "Before any card's present; unordered against the council at Altherion. Lucen's Dawn Coin and Cassiel's Facet Seal already worked as a pair.",
+   "where": "Ironlink Hold, capital of Nalūn (WORLD §5), a chamber off the Great Chain Hall under lanterns on walls of amber salt; the Nalūn page: 'The Accord handles disputes between parties who did not seal under Nalūn authority.'",
+   "who": [
+    "lord-lucen-vale-the-star-chamberlain",
+    "cassiel-asterion-the-prism-notary",
+    "marigold-vance-the-gilded-bailiff",
+    "pierre-the-laughing-guillotine",
+    "ascella-wick"
+   ],
+   "what": "A partner of a factor house had promised a carrying company, on the road and never in salt, to carry its winter grain at the old rate; unsealed, the promise was the Accord's to hear. Vireline (uncarded) wrote the Measure, Lucen arranged it, Cassiel refereed, and Marigold kept the floor at the partner's shoulder. Pierre came hired by the company's guild, Vireline's borrowed pin on his collar. The partner would not turn the Dawn Coin and answered all morning with embroidery. Lamp smoke frayed Cassiel's line until Ascella set her lantern on the flags and the air inside its circle steadied. Pierre set up a harmless joke; the partner laughed, and on the laugh said plainly that he would carry the grain at the old rate, as he had said on the road. Cassiel turned the Facet Seal once and it took; the words were spoken within Marigold's reach, and a gilt chit printed into her purse. The Measure found for the company. Took: Pierre and Marigold, the trade their cards name, his punchline loosening the knot and her receipt tying it (the grain was carried; the chit has never rattled); Cassiel, a seal on a promise made without embroidery by a man who had embroidered all morning; Lucen, the Coin back in his pocket unturned and a Measure closed without it; Ascella, a place in the Star Chamber's rooms when smoke or dust is in the air, Cassiel sending for her since."
+  },
+  {
+   "name": "The Thornback Crossing",
+   "when": "Before the Plateau operations both cards name in their chapter appearances; the first road Ascella lit for Eira.",
+   "where": "The Thornback March, Ketsuen's northern frontier (WORLD §5), where the ward-perimeter meets the wilderness and the wildlife 'has opinions about territorial boundaries' (Ketsuen page).",
+   "who": [
+    "eira-vale-the-echo-runner",
+    "ascella-wick"
+   ],
+   "what": "A Sealwright team working past the ward-perimeter needed its field record, a memory-chain that would fray if handled roughly, brought out whole to the Research and Archives Division. Eira folded it into a quill-sized packet and Pilgrim carried it. The only road out crossed the March at night. Ascella went ahead with crook and lantern, and Stillflame lit the road without echo; Eira cast thin and let the ground lead, and the gander's throat-tone held the heading. Once something large moved across the road ahead; Ascella set the lantern down and the hush-field held. Nothing on the March turned toward them. The packet reached the archivists unfrayed. Took: Eira, the lamp both cards record (Ascella lights what she must cross unseen) and a road the archivists have sent her down again; Ascella, the runner she has lit since, and the thing the Sealwright teams ask for her by name to do, a hush-field put down in the dark on command."
+  },
+  {
+   "name": "The Keeper's Account",
+   "when": "While Arven carried for the Accord off the register, before his card's present; unordered against the other three.",
+   "where": "A way-station on the Rimlands road below Altherion (WORLD §5; the Stannvaard page gives the Rimlands as roads, way-stations, timber and the farms feeding the crater cities).",
+   "who": [
+    "arven-solthiel-the-smiling-veil",
+    "cassiel-asterion-the-prism-notary",
+    "marigold-vance-the-gilded-bailiff"
+   ],
+   "what": "A Measure over a load of timber that left the way-station and never reached Altherion turned on what the station's night-keeper had seen, and she lay in a sleep nobody at the station could break. The Measure sat in the station's hall, Cassiel refereeing and Marigold keeping the floor. The Accord sent for the courier it does not register. Arven sat a night at the keeper's bed and lulled her into conversation inside her sleep; at dawn he gave her account in the hall in her voice. Nothing in it was a promise, and Cassiel turned no seal; Marigold stood at Arven's shoulder and the tiara did not tilt. The Measure closed on the account. For days Arven spoke in the keeper's voice; the carters in the yard heard it come out of a stranger, and Marigold walked him through them to the road. Took: Arven, the keeper's voice for days and no entry on any roll (the Measure's record names a courier and gives no name); Cassiel, a Measure closed on words his seal never touched, carried by a man the Accord keeps off its register; Marigold, a witness walked through a hostile yard, and no chit, because nothing was promised within her reach."
+  }
+ ],
+ "ties": [
+  {
+   "a": "lord-lucen-vale-the-star-chamberlain",
+   "b": "cassiel-asterion-the-prism-notary",
+   "kind": "comrades (the duet)",
+   "summary": "Lucen arranges the constellation and Cassiel sets the meridian; the Coin makes the speech the Seal can take.",
+   "basis": "card"
+  },
+  {
+   "a": "lord-lucen-vale-the-star-chamberlain",
+   "b": "kaede-suyori-blue-moth",
+   "kind": "comrades (co-architects)",
+   "summary": "Co-architect of moderated discourse on Lucen's card; at Altherion Kaede cooled the room Lucen had set.",
+   "basis": "card"
+  },
+  {
+   "a": "lord-lucen-vale-the-star-chamberlain",
+   "b": "kaito-akagiri-the-scarlet-plague",
+   "kind": "rivals",
+   "summary": "Heat to Lucen's cold; Kaito held the floor at a table where Lucen set no order of speaking. Only Lucen's card names him.",
+   "basis": "card"
+  },
+  {
+   "a": "lord-lucen-vale-the-star-chamberlain",
+   "b": "marigold-vance-the-gilded-bailiff",
+   "kind": "comrades",
+   "summary": "She clicks the gavel so his order sticks, and she kept the floor of the Measure he arranged at Ironlink Hold. Only her card says so.",
+   "basis": "card"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "kaito-akagiri-the-scarlet-plague",
+   "kind": "rivals",
+   "summary": "Cold rivalry; at Altherion Cassiel's line cut Kaito's yes down to the terms both delegations would sign.",
+   "basis": "card"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "kaede-suyori-blue-moth",
+   "kind": "reliance",
+   "summary": "He needs Kaede to steady the air; at Altherion they cooled the room his line had left hot.",
+   "basis": "card"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "ascella-wick",
+   "kind": "reliance",
+   "summary": "He needs Ascella to steady the air; at Ironlink Hold her lantern held the lamp smoke off his line, and he has sent for her since.",
+   "basis": "card"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "marigold-vance-the-gilded-bailiff",
+   "kind": "comrades",
+   "summary": "Constellation and meridian on her card; she kept the floor of both Measures he refereed here.",
+   "basis": "card"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "pierre-the-laughing-guillotine",
+   "kind": "comrades of one Measure",
+   "summary": "Pierre's joke made the partner speak without embroidery, and Cassiel's seal took what he said.",
+   "basis": "new"
+  },
+  {
+   "a": "cassiel-asterion-the-prism-notary",
+   "b": "arven-solthiel-the-smiling-veil",
+   "kind": "witness",
+   "summary": "Cassiel closed a Measure on the account Arven carried out of a sleeper, and turned no seal on it.",
+   "basis": "new"
+  },
+  {
+   "a": "kaede-suyori-blue-moth",
+   "b": "kaito-akagiri-the-scarlet-plague",
+   "kind": "lovers",
+   "summary": "He heats and they cool; a touch to the wrist means enough, and the blue ribbon on his sheath means they will follow.",
+   "basis": "card"
+  },
+  {
+   "a": "kaede-suyori-blue-moth",
+   "b": "ascella-wick",
+   "kind": "counterparts",
+   "summary": "Two Moth Courts, and the pair Cassiel's card and Lilium's send for when the air goes wrong; no card has them meet.",
+   "basis": "card"
+  },
+  {
+   "a": "marigold-vance-the-gilded-bailiff",
+   "b": "pierre-the-laughing-guillotine",
+   "kind": "trading partners",
+   "summary": "His punchlines loosen knots and her receipts tie them; the first knot was the partner's promise at Ironlink Hold.",
+   "basis": "card"
+  },
+  {
+   "a": "marigold-vance-the-gilded-bailiff",
+   "b": "arven-solthiel-the-smiling-veil",
+   "kind": "escort",
+   "summary": "Marigold walked Arven through the Rimlands yard while he spoke in the keeper's voice.",
+   "basis": "new"
+  },
+  {
+   "a": "pierre-the-laughing-guillotine",
+   "b": "kaito-akagiri-the-scarlet-plague",
+   "kind": "professionals",
+   "summary": "Both sell results in the same rooms, and the Black Concord hires both; only Pierre's card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "eira-vale-the-echo-runner",
+   "b": "ascella-wick",
+   "kind": "colleagues",
+   "summary": "Ascella lights what Eira must cross unseen; the first road was the Thornback March.",
+   "basis": "card"
+  },
+  {
+   "a": "eira-vale-the-echo-runner",
+   "b": "arven-solthiel-the-smiling-veil",
+   "kind": "counterparts",
+   "summary": "The same trade, memory-chains carried for the Accord, one runner on the register and one off it; Arven's card asserts no other link, and this record makes none.",
+   "basis": "card"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "lord-lucen-vale-the-star-chamberlain",
+   "wants": "The hand that can break his loop of perfect etiquette and carry a council if his voice goes: Maelia Cantorine, the Countercant (c22), whose card sets them as 'Two Star Chamber specialists whose failure state is the same silence, one dreading it and one budgeting for it.'"
+  },
+  {
+   "slug": "cassiel-asterion-the-prism-notary",
+   "wants": "The archer who works his lines: Eryndrel Vaelune, the Trinebow (c10); both cards say he 'Threads his shots along Cassiel's lines'."
+  },
+  {
+   "slug": "kaede-suyori-blue-moth",
+   "wants": "The confessor whose load they discharge: Deimos, the Sin Eater (c22), whose card names Kaede 'Mediator in confession rites'; Kaede's card does not name him."
+  },
+  {
+   "slug": "kaito-akagiri-the-scarlet-plague",
+   "wants": "His buyer: the Black Concord officer who contracts his outcomes and keeps him deniable. No card holds that office."
+  },
+  {
+   "slug": "marigold-vance-the-gilded-bailiff",
+   "wants": "The man whose writs her aisle keeps clean: Commander Severin Bale, the Slayer (c06). Her card names him; his does not name her."
+  },
+  {
+   "slug": "pierre-the-laughing-guillotine",
+   "wants": "The judge whose pin he borrows and whose clauses he hits: Vireline of the Three Masks, the Arbitration judge who writes the Measures. She has no card."
+  },
+  {
+   "slug": "eira-vale-the-echo-runner",
+   "wants": "The archive at the end of her road: Elder Seravain, the Ophidian Archivist (c14), the R.A.D. elder whose card names her and whose archive her codices reach."
+  },
+  {
+   "slug": "ascella-wick",
+   "wants": "The sage she cleanses Rot seams with: Gonju, the Sage (c12); 'Her Stillflame pairs with his Bitter Bloom' on both cards."
+  },
+  {
+   "slug": "arven-solthiel-the-smiling-veil",
+   "wants": "The clerk who pays him: an Accord officer, in Logistics or Arbitration, who hires a courier off the register and keeps his name off the roll. No card holds that office."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Cassiel's card: \"A hard mechanical counter, and both cards call it a rivalry without saying why.\" (Cassiel Asterion · The Prism Notary, XI). Kaito's card lists one relationship, \"Kaede Suyori · Lover.\" (Kaito Akagiri · The Scarlet Plague, XI), and names neither Cassiel nor any rivalry; Lucen's \"volatile rival\" and Pierre's \"Professional\" are likewise unanswered on Kaito's card.",
+  "Lucen's card: \"Kaede of Glass Courts · Co-architect of moderated discourse.\" (Lord Lucen Vale · The Star Chamberlain, XI). Kaede's card has no Relationships section, gives no \"Glass Courts\", and names no one but Kaito.",
+  "Kaede's pronoun: Kaede's card has \"They walked beside him\" and Kaito's \"He heats; they cool.\"; Daigo Tenryū's card has \"She cools his over-eager pushes\" and Eryndrel Vaelune's \"Her Blue Veil keeps his long holds clean.\"",
+  "R.A.D.: Eira's card has \"R.A.D. archivists · Rely on her for \"unfrayed\" transfer of delicate codices.\" (Eira Vale · The Echo Runner, X), and Elder Seravain's card reads it as the Division (\"Ascella Morwyn is R.A.D. with a Logistics commission.\"); the artifact pages Horizon's Reach · Limen-Hand and The Ocular Codex of Thirteen Mouths read it as one person, \"the archivist the card records only as R.A.D.\"",
+  "Eira's card: \"Bonded under Featherbind oath at a Lurien shrine.\" (Eira Vale · The Echo Runner, X), against its own header: \"Lurien, where the Featherbind oath was sworn, is dead canon and wants re-attributing to the Holy Sea of Alabaster.\" The re-attribution is the card's suggestion and is not ruled."
+ ]
+}

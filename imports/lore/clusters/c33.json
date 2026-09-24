@@ -1,0 +1,144 @@
+{
+ "id": "c33",
+ "name": "Rot and bloom",
+ "era_span": "Withering Era. Kaien Rhuven's card is the only one that states an era; the other four state none, and Chimwala's book of the siege of Caedor and his lantern forged in the Holy Sea of Alabaster sit in the present. All four events fall in the Withering Era; the two at Hollowfen (Dorrosfenn, Outer World) and the two in the Lake Districts (Ketsuen, Inner World) are not ordered against each other.",
+ "members": [
+  {
+   "slug": "karasaki-hozume-the-verdant-rot",
+   "line": "Karasaki Hozume, the Verdant Rot: Marshkeeper of the Hollow Cycle, an independent cycle-warden once of an Apothecary Guild whose dissolution he made hold weight on purpose, unofficially aligned with Tyzura; his hand in standing water turns rot into a flowering that closes wounds on a debt he calls heal-now, off wet ground he is a man with a sword, and he carries Kogane Kei, the Lantern of Last Words and the Phial of his exile."
+  },
+  {
+   "slug": "mirehollow-asakusa-the-verdant-lotus",
+   "line": "Mirehollow Asakusa, the Verdant Lotus: swamp samurai and sword-saint of Sakurabog who stopped working and went to live in a bog, whose Crystal is entangled in swamp-root and mycelium, who hears the grief of terrain and reaches the dead not yet departed, will not strike hard (\"I do not cut. I invite stillness.\"), walks Tyzura's cycles alone, and still listens for the breath of the Dryad Queen who gave him his fae-glamour."
+  },
+  {
+   "slug": "aivyriel-the-rot",
+   "line": "Aivyriel, the Rot: Fae sovereign of Bloomrot of the Primordial Garden Lineage and one of the Old Verdant Nine, sealed and reborn through seasonal convergence, whose body blooms and decays with the ground; revered by primal fae, feared by dryads, loathed by druidic orthodoxy, she does not kill and lets the earth decide how a body is repurposed, calls the voices of everything that died within her reach, and is sought in plagues and collapse."
+  },
+  {
+   "slug": "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+   "line": "Chimwala N'Doro, Emerald Tusks of the Verdant Covenant: druid sage of an earth-aligned order, Keeper of the Ancestral Grove, advisor to the Council of the Innerworld Grove and spirit envoy to the Treaty Assembly, who carries ancestral record in his tusk-markings, mentors young druids and beastkin herbalists, keeps seasonal rites with the Sylvaar, and protects every bond he holds by talking; his four-season blade reclaimed Rotwood."
+  },
+  {
+   "slug": "kaien-rhuven-the-silent-apothege",
+   "line": "Kaien Rhuven, the Silent Apothege: a human herbalist of the Verdant Hollow in the Withering Era who left the Guild Accord's Aetherica and the Concord Citadel for silence and soil, takes no coin and keeps no ledger, cures for stories, tends the Wellspring-consumed and teaches that moderation is rhythm, and draws poisons out through the roots at the price of carrying a little of each."
+  }
+ ],
+ "events": [
+  {
+   "name": "The burial at Hollowfen",
+   "when": "The Withering Era. After Hozume had taken up the marsh country as its keeper and recovered the Lantern from its drowned shrine (Lantern page), with Kogane Kei at his side; after Asakusa had gone to live in the bog (his card, I).",
+   "where": "The fen villages of Hollowfen, in the marsh basins of Dorrosfenn, in the Outer World (WORLD §3 and §5, South; the Outer World page).",
+   "who": [
+    "karasaki-hozume-the-verdant-rot",
+    "mirehollow-asakusa-the-verdant-lotus",
+    "aivyriel-the-rot"
+   ],
+   "what": "Plague came into the fen villages. The dead came faster than the villages could bury them. They were carried down to the lower fen and laid in the reeds at the water's edge. Aivyriel came into the marsh in the plague season. She kept away from the villages. She walked in the lower fen among the laid dead, and the ground there answered her. The reed-beds flowered out of season and the flowers went black at the stem. Fungus fanned out over the bodies. Her perfume came up the causeway on the evening air. The villagers who breathed it saw their dead alive again, or saw them dying, and the burial crews would not go down. Hozume went down alone with the Lantern. He carried it low over each body in turn. Where the green flame found a last murmur, he let it speak, and the shade that had lingered by the body went quiet and stopped moving. Then he laid the body under the standing water. He worked through her bloom for days, and it did not take him. Some of the dead the Lantern could not reach. Its light passed over them and showed nothing at all, and Hozume held it over them and waited, and nothing came. Asakusa came down through the reeds to those. Nobody saw him come. The reeds moved, and he was standing in the water. Her bloom stood around him in the reeds, and nothing in it touched him. He stood over each of the silent dead with his hands at his sides and his sword sheathed, and roots came up around his feet into the ground beneath them. When he moved on, the Lantern found a murmur where it had found none. Hozume laid those dead under the water as well. Asakusa never spoke to him. When the last of them was under, he went back into the reeds. Aivyriel had stayed through all of it and done nothing to hinder the burial, and over the next season her bloom closed over the whole lower fen. Necromancers came down from the theocracy to whisper to it, as necromancers whisper to all her gardens, hoping for a harvest. Every one of the dead under that garden had been given passage before it grew. What each took. Hozume: the name the region gave the Lantern, the Lantern of Last Words, which its page records. The knowledge that its light does not reach the dead who have not begun to go, and of the man in the reeds who reached them. And a burial ground that became another's garden. Asakusa: a ground that has grieved, of the kind his roots need before they will bind. He has listened to it since, as he listens to mournful land. And a man on the same cycle, to whom he said nothing. Aivyriel: a garden over the lower fen of Hollowfen, and the voices of its plague dead, within her reach, which her crown can call. Necromancers whispering at its edge."
+  },
+  {
+   "name": "The year of the Phial",
+   "when": "The year after the burial: the \"full year\" the Phial page gives to \"feeding the swamps of Hollowfen\", in what that page calls Hozume's exile. After Kaien Rhuven had left the Concord Citadel (his card, I).",
+   "where": "The fen villages of Hollowfen, in the marsh basins of Dorrosfenn (as above).",
+   "who": [
+    "karasaki-hozume-the-verdant-rot",
+    "kaien-rhuven-the-silent-apothege"
+   ],
+   "what": "Through that year Hozume fed the swamps from the Phial and healed the living with it. The plague had left sores on its survivors that would not close, and a wasting that would not stop, and he poured the healing draw for them again and again. The flesh came back. His card says what that healing is: heal-now. The Phial answers the hand that pours it and weighs nothing else. By the turn of the year the healed carried a grey growth under the skin. It showed first at the joints. It had come out of the draw that saved them. Kaien Rhuven came up the fen road late in that year, his robes worn thin, the short harvesting blade at his side. He asked each household for a story, as he asks everyone he treats. Then he knelt in the reed-bed behind the house with one hand in the roots and the other on the sick. He stayed there until the growth had gone out of them into the reeds. It went through him first. He worked slowly, one house at a time, to the end of the year. Hozume went with him from house to house. At the last house he told Kaien a story of his own. Kaien took it as he takes all his payment. He wrote nothing down. What each took. Hozume: survivors who lived past the debt his healing ran. A debt of his own, owed to a man who takes no coin. Neither card says what story he paid with, and this record does not. Kaien: the stories of the Hollowfen households, Hozume's among them, which he carries with every story he was paid in. And a little of every growth he drew through himself, which his card says he carries afterward."
+  },
+  {
+   "name": "The Reclamation of Rotwood",
+   "when": "The Withering Era. After the Sylvaar gave Chimwala the leaf-blade \"following what the record calls the Treaty of Green Sky\" (the Blade page). The Blade page gives Rotwood a book of its own. It is the sixth, after the card's book of the siege of Caedor.",
+   "where": "Rotwood, a forest in the timber country of the Lake Districts, in Ketsuen, in the Inner World (WORLD §5, North; the Ketsuen page).",
+   "who": [
+    "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+    "aivyriel-the-rot"
+   ],
+   "what": "The wood above the lakes was dying. Aivyriel came into it while it died, and the dying wood answered her. The standing dead put out flowers from the bark and rotted from inside the flowers. Fungal beds spread across the forest floor. Her perfume carried down to the lakeshore. Chimwala came up from the lakes with druids of the Covenant to reclaim the wood. Before the first cut he went to the wood's edge, where she stood. The blade stayed across his back. They spoke there. Then he began the rite, one season to each day, as the Blade page sets it down. On the first day the blade went green, and the Spring cut opened the wood's ground. On the second day it went gold. On the third it went red, and the seed-gem in its pommel darkened with what the cut drew out. On the fourth it went silver-white. The ground the cuts had opened answered the rite. Each day her bloom drew back from it a little further, and she did not call it forward. By the fourth morning she stood at the wood's edge with her own flowering ground around her feet. The Winter cut closed the rite. On the fifth morning the druids looked for her at the edge, and she had gone. Chimwala never drew the blade against her. What each took. Chimwala: Rotwood reclaimed, cleansed in sequence as the Blade page records. A fae the Order of Purity calls a living blight, who let his rite run to its end. And a student who came out of the wood changed. Aivyriel: the voices of everything that had died in the wood within her reach, which her crown can call. And a forest that answered a druid's rite over her bloom. She let it."
+  },
+  {
+   "name": "The watcher from Rotwood",
+   "when": "After the Reclamation of Rotwood, in the same season.",
+   "where": "A lakeland fishing settlement in the Lake Districts of Ketsuen (WORLD §5, North; the Ketsuen page).",
+   "who": [
+    "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+    "kaien-rhuven-the-silent-apothege"
+   ],
+   "what": "One of the younger druids Chimwala taught was a beastkin herbalist from the lakeshore. She had kept the watch at Rotwood through all four days, drawing on the opened ground to hold it. When the rite closed she could not stop. Flowers opened on the backs of her hands and did not close, and the herbs drying in her satchel put out roots. Whatever she touched grew. Chimwala's gifts are growth, and growth was what ran in her. He sent word along the lake road for the herbalist the Wellspring-consumed are carried to. Kaien Rhuven came. He asked her for a story before he touched her, and she told him one. He sat with her in the house by the water. He set her breathing to the pace of his own and kept it there, day after day, and he taught her what he teaches all of them, that moderation is rhythm. The flowers on her hands closed one at a time. Chimwala was there through all of it. When Kaien left, he took her story with him and nothing else. He kept no record of her. What each took. Chimwala: his student living, and a teaching he could not have given her. A debt to a man who asked her for a story and asked him for nothing. Kaien: her story. No record of her, as he keeps none."
+  }
+ ],
+ "ties": [
+  {
+   "a": "karasaki-hozume-the-verdant-rot",
+   "b": "mirehollow-asakusa-the-verdant-lotus",
+   "kind": "two on one path, kept apart",
+   "summary": "Both cards set them on Tyzura's cycle and in The Hollow Cycle. At Hollowfen Asakusa reached the dead the Lantern could not, and went back into the reeds without a word.",
+   "basis": "new"
+  },
+  {
+   "a": "karasaki-hozume-the-verdant-rot",
+   "b": "aivyriel-the-rot",
+   "kind": "wary allies over the dead",
+   "summary": "At Hollowfen he gave the plague dead passage and laid them under the water; her bloom closed over them after, and every one had passage before the necromancers came to whisper to it.",
+   "basis": "new"
+  },
+  {
+   "a": "mirehollow-asakusa-the-verdant-lotus",
+   "b": "aivyriel-the-rot",
+   "kind": "witness",
+   "summary": "He walked through her bloom in the lower fen of Hollowfen and it did not touch him. He did nothing against her; his card holds that \"To fight the rot is to forget the flower.\"",
+   "basis": "new"
+  },
+  {
+   "a": "karasaki-hozume-the-verdant-rot",
+   "b": "kaien-rhuven-the-silent-apothege",
+   "kind": "debt",
+   "summary": "Kaien drew out of the Hollowfen survivors the growth Hozume's healing had left in them, through his own body, and took a story from Hozume for it.",
+   "basis": "new"
+  },
+  {
+   "a": "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+   "b": "aivyriel-the-rot",
+   "kind": "rivals over one forest",
+   "summary": "At Rotwood he spoke with her before the rite, never drew on her, and reclaimed the wood she had begun to bloom; she let the rite run and walked away on the fifth morning.",
+   "basis": "new"
+  },
+  {
+   "a": "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+   "b": "kaien-rhuven-the-silent-apothege",
+   "kind": "debt",
+   "summary": "Kaien brought Chimwala's student back from the growth the Rotwood watch had left running in her, for her story alone.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "karasaki-hozume-the-verdant-rot",
+   "wants": "someone of the Apothecary Guild whose dissolution he carries on purpose: a guild-fellow or master who knew it before its end, or one of \"The apothecaries who first named it \"the Soul-Reed\"\" (`Kogane Kei · The Soul-Reed Blade.md`). No card or page names the guild."
+  },
+  {
+   "slug": "mirehollow-asakusa-the-verdant-lotus",
+   "wants": "an adversary from *The Exilic March*: Kytheris, Mother of Spores (c23). c23's outward already points her at him. His chapter of that book is \"The Man Who Did Not Bloom\" (his card, XI), in the book whose chapter XXIV her card calls \"Soil in Waiting\". She marks every person her spores reach as soil; he blends into the ground. No card joins them."
+  },
+  {
+   "slug": "aivyriel-the-rot",
+   "wants": "a druid of the Order of Purity, the order whose druids \"Consider her a living blight\" (her card, IX): an enemy who has named her and follows her gardens. No card or page describes the order."
+  },
+  {
+   "slug": "chimwala-n-doro-emerald-tusks-of-the-verdant-covenant",
+   "wants": "a beastkin herbalist of the Innerworld groves he mentors (his card, VII). The nearest card is Moryn Sporetail (c15), a fungal alchemist and trader who \"Wanders between Core World villages, Innerworld groves and Outer World fringes\" (`Moryn Sporetail · Mushroom Fox.md`). No card joins them."
+  },
+  {
+   "slug": "kaien-rhuven-the-silent-apothege",
+   "wants": "someone of the Guild Accord's Aetherica at the Concord Citadel who knew him as a student there: a teacher or a fellow student. The tie must leave his card's \"What he studied at the Citadel, and why he left\" unanswered, as the card does."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "What Tyzura is. Karasaki's card carries \"Tyzura, Archon of Spirits\" and says it \"is carried provisionally: the Tyzura / Ashura Yukari identity question is an open ruling\" (Karasaki, head). Mirehollow's names \"Tyzura, Archon of Spirits\" in his Relationships (IX). The Fractured Dawn's card: \"Tyzura Tyurkia, \"Archon of Spirits,\" does not fit anywhere in the Fourteen\" and is \"reclassified from Archon to World Spirit\" (`The Fractured Dawn · Paragons of the Archons.md`, head). `RULINGS.md`, 2026-09-12: \"Tyurkia are now all Yukari so revert them to that.\" The Fractured Dawn still reads \"Tyzura Tyurkia\", and the Docket keeps \"Tyzura/Ashura identity\" open.",
+  "What Kogane Kei is. Karasaki's card: \"What nobody knows. Whether Kogane Kei is a spirit-forged blade or a spirit in a blade\" (Karasaki, V). Kei's page: \"Kei was once a mortal man, bound into spirit-forged steel by Hozume\" (`Kogane Kei · The Soul-Reed Blade.md`, What it is). A card against an artifact page.",
+  "Whether The Hollow Cycle is attested. Mirehollow's card lists *WOTR: The Hollow Cycle* among his chapter appearances (XI). Kei's page gives the same book as Kei's first appearance with \"(volume title unattested, kept for the same reason)\" (Kei page, Bearers).",
+  "Where Chimwala is anchored. Seraphion Veydrak's card: \"Thalyren, Gonju and Chimwala are all anchored to it\", the Holy See of Lurien, and \"One re-homing ruling to the Holy Sea of Alabaster settles all five\" (`Seraphion Veydrak · The Chain-Halo.md`, head). Chimwala's card names no Lurien and no see. His lantern's page: \"Forged within the Holy Sea of Alabaster\" (`Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light.md`). `RULINGS.md`, 2026-09-12: the Holy Sea \"inherits the Holy See of Lurien's old jurisdiction over southern phosphate law, along with everything else it replaced.\"",
+  "Whether the Verdant Covenant is attested. Chimwala's card: \"Verdant Covenant, an earth-aligned druidic order.\" (I). The Fractured Dawn's card lists \"the Verdant Covenant\" among names that \"returned no hits against the wiki and are unattested in current canon\", and gives \"A Verdant Covenant elder (unattested)\"."
+ ]
+}

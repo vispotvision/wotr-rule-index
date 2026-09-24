@@ -1,0 +1,377 @@
+{
+ "id": "c01",
+ "name": "Hild's council: the Kōkan Loyalist Coalition",
+ "era_span": "The Withering Era, the archive's present in the Inner World with no year number: the eleven years after Muken's fall, the war for Kharven-Seat, the ninth hour on the Ashgate road and the year after, with the revolution scene running on to the sixth year of the empire.",
+ "members": [
+  {
+   "slug": "hild-ice-stark-the-sword-princess",
+   "line": "Eleven on the card, acting head of the Kokan Loyalist Coalition on the broken throne at Kharven-Seat, Kōkan by her father and Stark by her mother Fern; she has never met her father, and the scenes end her at twelve in a cistern doorway beside Osric."
+  },
+  {
+   "slug": "edward-lambert-the-arithmetic",
+   "line": "Hild's right hand, fifty-three, a Hallenfeld-corridor trade administrator's son from Muken's civil service who counts everything; widowed when Kasumi Kurenai Moto died in the Tenrai restructuring, he reached the holdfast when Hild was four and serves her without the uncles' love."
+  },
+  {
+   "slug": "lorn-stark-the-sword-teacher",
+   "line": "Fern's brother, forty-four, of House Stark of the Eastern March, senior uncle and military guardian, never a great swordsman; he put the wooden sword in Hild's hand with two words, stand up, and says his disagreements in the room."
+  },
+  {
+   "slug": "osric-of-hallenfeld-the-patient-hand",
+   "line": "Born Osric Kōkan Moto, forty-seven, the coalition's political architect; three years a watched clerk in the Hallenfeld corridor, then the holdfast, the name Kōkan spoken to Hild at seven, the move to the broken throne, and the cistern doorway."
+  },
+  {
+   "slug": "tabitha-hallenfeld-the-road-woman",
+   "line": "Forty-two, of House Hallenfeld of the river corridors, the coalition's logistics officer and road intelligence, who reads rooms the way Fern did and walked three days on compromised roads to warn Hild."
+  },
+  {
+   "slug": "brida-ashwell-the-warm-diagnosis",
+   "line": "Thirty-one, Concord-born with a frozen locative surname, Hild's physician and the coalition's medical authority, the one who tells Hild to eat and means it; wounded at the sally gate at the ninth hour."
+  },
+  {
+   "slug": "robin-ice-the-bastard-runner",
+   "line": "Twenty-nine on the card, seventeen in the scenes; a Kōkan-cadet bastard with Stark blood and the Ice name, courier of the Kōkan expedition sworn to both brothers, who carried out Lambert's hostage order."
+  },
+  {
+   "slug": "bram-greymane-the-ridge",
+   "line": "Twenty-three, Godfrey's grandson and the Shieldwarden's heir, holder of the southern approach, who threw his grandfather's shield once when Wren smiled from the Tenrai line and picked it up again."
+  },
+  {
+   "slug": "renard-greymane-the-left-of-the-throne",
+   "line": "Twenty-six, Bram's cousin and Godfrey's grand-nephew, Hild's guard at the left of the broken throne, who killed the Tenrai practitioner at her door."
+  }
+ ],
+ "events": [
+  {
+   "name": "The corridor offices at Hallenfeld (new)",
+   "when": "The first three years after the fall of Muken's kingdom, before Lambert or Osric reached the Ironwood March.",
+   "where": "Hallenfeld, the river junction, and the tariff offices of the Hallenfeld corridor on the eastern routes.",
+   "who": [
+    "edward-lambert-the-arithmetic",
+    "osric-of-hallenfeld-the-patient-hand",
+    "tabitha-hallenfeld-the-road-woman"
+   ],
+   "what": "Lambert's lordship never left the dispatch queue, and after the fall he went on keeping the tariff accounts of the eastern corridor from a desk in the Hallenfeld corridor. Osric came to the same corridor in the plain wool of a minor Hallenfeld administrator, a Kōkan cadet the Tenrai had chosen to watch. The two men worked the same traffic of manifests and tariff returns. Hallenfeld couriers carried it along roads that Tabitha's house kept graded and drained with no crown left to pay for them. Lambert marked the quiet clerk. His figures were always right, and he never put his name forward. Osric kept lists, as he kept every list: the cadet families in the corridor and the officers married into them. Lambert's name was on one because of Kasumi. In the second year a Hallenfeld courier set the report of her death on Lambert's desk among three trade manifests and a tariff update. Lambert answered the tariff update, sealed it, and shut his door for three days. On the fourth he walked to the Hallenfeld junction. Osric served out his third year and then walked out of the corridor with his father's ring. Neither man told the other where he was going. What each took: Lambert took the habit of reading every Hallenfeld satchel to the bottom, and the knowledge that a death can come filed between a manifest and a tariff update. Osric took a map of the Tenrai's administration drawn from inside it, and the tariff officer's face. He knew that face again when Lambert came to the holdfast announcing himself as a man who could count, and he did not name it. Tabitha's house learned in those years to carry sealed things it could not read on roads nobody paid for. The use for the roads came later, in a broken chair at Kharven-Seat."
+  },
+  {
+   "name": "The holdfast in the Ironwood March",
+   "when": "The holdout years after the fall: from the uncles' coming, through the year Hild was four, to the winter Fern died, when Hild was eight.",
+   "where": "Fern Stark's holdfast in the Ironwood March.",
+   "who": [
+    "hild-ice-stark-the-sword-princess",
+    "lorn-stark-the-sword-teacher",
+    "osric-of-hallenfeld-the-patient-hand",
+    "edward-lambert-the-arithmetic",
+    "brida-ashwell-the-warm-diagnosis"
+   ],
+   "what": "Fern kept a holdfast in the Ironwood March and a daughter whose hair caught violet light, and she paid the Tenrai assessors to look elsewhere. Her brother Lorn was with her. Osric came with his father's ring and a secret he kept three years before he gave it to Fern. Lambert came when Hild was four and announced himself as a man who could count. Fern recognised what he was, and he stayed. When Osric at last spoke the name Kōkan aloud, he spoke it to Hild, at seven. Fern died in the room where the altar stands. The child lay on the floor of that room and would not eat or speak, until Lorn put a wooden practice sword in her hand and said: stand up. (New:) Brida was the holdfast's physician by that winter. Once the child was standing, Brida made her eat, and her rule that Hild does not train on an empty stomach dates from then. Lambert kept the stores through that winter as he had since he came. What each took: Hild took the sword as the act of getting up, the braid and the altar from her mother, the count from Lambert and the name from Osric. Lorn took the guardianship and never set it down. Osric took the spoken oath, which he treated as the rest of his life. Lambert took the investment he had chosen, the child over the corridor, and taught her from the age of four. Brida took the work Lambert's card gives her: keeping this particular person alive."
+  },
+  {
+   "name": "The broken throne",
+   "when": "From Hild's coming to Kharven-Seat at Osric's counsel, through the council three months later and the bastard speech, to a night in the Thin Weeks after her father's return.",
+   "where": "Kharven-Seat: the throne room, the altar room that had been Ayame's, and the passage behind the throne hall.",
+   "who": [
+    "hild-ice-stark-the-sword-princess",
+    "lorn-stark-the-sword-teacher",
+    "osric-of-hallenfeld-the-patient-hand",
+    "tabitha-hallenfeld-the-road-woman",
+    "brida-ashwell-the-warm-diagnosis",
+    "renard-greymane-the-left-of-the-throne",
+    "edward-lambert-the-arithmetic",
+    "bram-greymane-the-ridge"
+   ],
+   "what": "Hild came to Kharven-Seat on Osric's counsel and carried her mother's altar there herself. Three months on, Lorn gave her the houses. Hallenfeld held. The Keld watched. Ashmore and Thornwall had gone to the Tenrai. Osric came in with Tabitha Hallenfeld, three days off compromised roads, who told the council that exiles were camped on the polar shelf with a man named Robin Ice among them. Hild asked to go to Bram. Osric read the road as Wren's, and Tabitha said she was the target. So Hild sent Brida and supplies south to Bram with the Greymane words, and Bram took the message as the alliance. When Pietro Ashmore called her a bastard in her grandfather's hall, Lorn put him on his knees and held his chains. Renard stood at the left of the throne with his hand on his sword. Hild forbade the killing and named herself Hild Ice, and the cold of that hall stayed in its walls. Lambert's glass fell four fingers. Lorn and Osric went out to send the dispatch south, and Lambert asked her in the empty hall whether she would hand over the reins. In the Thin Weeks a Tenrai practitioner dressed as a Kharven courier reached the altar-room door where Hild slept and Brida lay on the pallet. Renard killed him in the passage. The dying man said that Lambert had opened the west postern for him. Brida put her face to the gap in the door and told Renard, very quietly, that the girl was asleep. What each took: Hild took her own name, spoken by her. Lorn took the sight of the child saying what her mother would have said, and wet eyes in front of the court. Osric took the claim, seen by the houses. Tabitha found the purpose for the roads in a girl whose feet did not reach the floor. Brida took the road south to Bram's wounded. The ridge learned her word for the men who stop asking for water. Renard took a dead man's claim against Lambert and a brass token against his skin. Lambert took one nod's worth of assessment. He put his question to her with nobody listening. Bram built with the four words."
+  },
+  {
+   "name": "The ninth hour",
+   "when": "The day of the Ashgate road, from before light to the ninth hour.",
+   "where": "Kharven-Seat (the yard, the outer wall, the broken sally gate, the cut chamber below the old cistern), the breach at the southern reach, and the narrows of the Ashgate road.",
+   "who": [
+    "hild-ice-stark-the-sword-princess",
+    "edward-lambert-the-arithmetic",
+    "lorn-stark-the-sword-teacher",
+    "osric-of-hallenfeld-the-patient-hand",
+    "tabitha-hallenfeld-the-road-woman",
+    "brida-ashwell-the-warm-diagnosis",
+    "robin-ice-the-bastard-runner",
+    "bram-greymane-the-ridge",
+    "renard-greymane-the-left-of-the-throne"
+   ],
+   "what": "Before light Hild stood at the foot of the stair with Tabitha behind her and the broken circlet in her hand. Her father kissed her hair and rode out. Lorn watched from the outer wall. Lambert had orders to find Sonzai. Before he went out the postern with six riders and no banner, Lorn put out his hand, and Lambert gripped it once. The order given in the yard put Hild below the old cistern with Osric, the gatehouse shut, no sortie for anything. When the column had gone, Lorn picked up the circlet. She had set it on the mounting block and forgotten it; he put it in his belt. At the southern reach Bram held a twenty-two-foot breach with three hundred men against two thousand two hundred. Renard's voice was on his left. Robin Ice rode through the narrows, where nobody had sent him. He reported that Bram held, that Osric had the princess below the cistern, and that Lambert had gone out. Lambert turned back at the fourth mile. The Stormfold road had gone under a ridge. He came back to fight in the mouth of the broken sally gate with forty of the household and about ninety Ashwell tenants. Brida took a wound across the abdomen at the sally gate. At the ninth hour Hild Ice went in the cistern doorway that Osric had put himself in, and the black came through both of them together. What each took: Hild died at twelve, in a doorway, with the circlet in another man's belt. Osric kept the doorway. Lorn kept the circlet. Lambert came off the gate covered in other men's blood, having shouted a line of household men and tenants in behind him. Brida took the wound she herself would call the third bowl, and eleven days in the altar-room with the night-stone ticking. Bram held the breach on foot past the ninth hour, a dead horse behind him. Renard held the left of his cousin's line. Robin gave his report in its order. Tabitha had stood at the girl's back that morning, for the last time."
+  },
+  {
+   "name": "The three stones and the circle",
+   "when": "The year after the ninth hour, from the southern campaign and the first frost to the signing in the spring.",
+   "where": "The lower hall and the upper burying ground at Kharven-Seat; the Stormfold hall and its crossings.",
+   "who": [
+    "edward-lambert-the-arithmetic",
+    "brida-ashwell-the-warm-diagnosis",
+    "robin-ice-the-bastard-runner",
+    "bram-greymane-the-ridge",
+    "tabitha-hallenfeld-the-road-woman"
+   ],
+   "what": "Lambert read the three thousand and eleven southern dead aloud himself over six weeks, and in the same six weeks broke the orc host in the southern reach with a supply schedule. Bram came south in the fourth month and found nothing to fight. In the fifth he held the Stormfold crossings for four days and lost three fingers of his left hand. Lambert sent him Wren's name among the dead and sixteen depositions in one bundle. In the seventh month Tabitha asked in open council why Lambert had bought the grain in the first week, and he did not answer. On the morning of the first frost Lambert stood before three stones in the upper burying ground, Hild Ice, Lorn Stark and Osric of Hallenfeld, their lettering cut to one depth at his instruction. Brida came up the path on a stick. Robin Ice rode in with word that the Goblin Senate was hanged. Lambert ordered the four hundred and six hostages killed, and Robin said aye and did it, and Brida watched him go down the path. In the spring the circle was signed in the lower hall after Lambert read the names. Brida stood at the back with her stick. Bram, with three fingers, would not sit. What each took: Lambert took an order he says he would still give, and a question he has never answered. Brida took a stick for a year, colour that never came back, and no patience left for the sentences people say at gravesides. Robin took what he learned about himself on that path. Lambert built an unwritten office around it. Bram took the roll in the Stormfold book and the dedication to Wren, entered before his own name. Tabitha wrote her question down, dated it, and has been refused twice since."
+  }
+ ],
+ "ties": [
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "lorn-stark-the-sword-teacher",
+   "kind": "kin",
+   "summary": "Her mother's brother raised her after Fern died and put the first sword in her hand.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "osric-of-hallenfeld-the-patient-hand",
+   "kind": "oath",
+   "summary": "A Kōkan cadet who saw the king's jaw in a child and swore his life to it when he spoke the name to her at seven.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "edward-lambert-the-arithmetic",
+   "kind": "teacher and student",
+   "summary": "He taught her to count, to hear the second sentence and to read the empty chair, and he serves where the uncles love.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "brida-ashwell-the-warm-diagnosis",
+   "kind": "physician and patient",
+   "summary": "The one who tells her to eat, reads her jaw, and sees the child under the wall.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "bram-greymane-the-ridge",
+   "kind": "alliance",
+   "summary": "They never met; four words she sent him made the alliance.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "renard-greymane-the-left-of-the-throne",
+   "kind": "guard and ward",
+   "summary": "He stands at the left of the throne and killed the man who reached her door.",
+   "basis": "card"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "kin",
+   "summary": "Both carry the name Ice and Stark blood, and Robin carried her name across the frontier before she owned it.",
+   "basis": "scene"
+  },
+  {
+   "a": "hild-ice-stark-the-sword-princess",
+   "b": "tabitha-hallenfeld-the-road-woman",
+   "kind": "protector",
+   "summary": "The road woman who reads rooms the way Fern did, walked three days to warn her, and stood at her back on the last morning.",
+   "basis": "card"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "osric-of-hallenfeld-the-patient-hand",
+   "kind": "comrades",
+   "summary": "The two uncles, honour and board, flanking the throne and telling her hard things gently.",
+   "basis": "card"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "edward-lambert-the-arithmetic",
+   "kind": "rivals in counsel",
+   "summary": "Lorn objects in the room and Lambert in the debrief; before the ninth hour they shook hands once on the wall.",
+   "basis": "card"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "brida-ashwell-the-warm-diagnosis",
+   "kind": "comrades",
+   "summary": "The winter Fern died, Lorn got the child standing and Brida got her eating.",
+   "basis": "new"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "renard-greymane-the-left-of-the-throne",
+   "kind": "comrades",
+   "summary": "Lorn held Pietro's chains while Renard held the left of the throne.",
+   "basis": "scene"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "kin",
+   "summary": "Robin carries Stark blood the Warden will not let him name.",
+   "basis": "card"
+  },
+  {
+   "a": "lorn-stark-the-sword-teacher",
+   "b": "bram-greymane-the-ridge",
+   "kind": "allies",
+   "summary": "Lorn sent the dispatch that carried Hild's words and a physician to Bram.",
+   "basis": "scene"
+  },
+  {
+   "a": "osric-of-hallenfeld-the-patient-hand",
+   "b": "edward-lambert-the-arithmetic",
+   "kind": "comrades",
+   "summary": "Both keep disagreement for after the room; in the corridor years (new) they worked the same traffic, and Osric knew Lambert's face at the holdfast.",
+   "basis": "card"
+  },
+  {
+   "a": "osric-of-hallenfeld-the-patient-hand",
+   "b": "tabitha-hallenfeld-the-road-woman",
+   "kind": "comrades",
+   "summary": "Osric reopened the Hallenfeld roads to the coalition and brought Tabitha into the throne room.",
+   "basis": "scene"
+  },
+  {
+   "a": "osric-of-hallenfeld-the-patient-hand",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "kin",
+   "summary": "Both are of the Kōkan cadet line; Osric read Robin's presence as the signature of the exiles.",
+   "basis": "card"
+  },
+  {
+   "a": "osric-of-hallenfeld-the-patient-hand",
+   "b": "bram-greymane-the-ridge",
+   "kind": "allies",
+   "summary": "Osric read the Stormfold road as Wren's trap and sent the dispatch south instead of the girl.",
+   "basis": "scene"
+  },
+  {
+   "a": "edward-lambert-the-arithmetic",
+   "b": "tabitha-hallenfeld-the-road-woman",
+   "kind": "rivals",
+   "summary": "She asked in open council why he bought the grain in the first week, and he has never answered.",
+   "basis": "scene"
+  },
+  {
+   "a": "edward-lambert-the-arithmetic",
+   "b": "brida-ashwell-the-warm-diagnosis",
+   "kind": "witness",
+   "summary": "She stood with him at the three stones and watched him give the hostage order.",
+   "basis": "scene"
+  },
+  {
+   "a": "edward-lambert-the-arithmetic",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "command",
+   "summary": "Lambert gave the order on the path and Robin carried it out; Lambert later made him the courier of what cannot be written.",
+   "basis": "scene"
+  },
+  {
+   "a": "edward-lambert-the-arithmetic",
+   "b": "bram-greymane-the-ridge",
+   "kind": "comrades",
+   "summary": "Lambert's grain schedule broke the host Bram met at the Stormfold, and Lambert sent him the whole truth about Wren at once.",
+   "basis": "scene"
+  },
+  {
+   "a": "edward-lambert-the-arithmetic",
+   "b": "renard-greymane-the-left-of-the-throne",
+   "kind": "suspicion",
+   "summary": "A dying Tenrai practitioner told Renard that Lambert opened the west postern.",
+   "basis": "scene"
+  },
+  {
+   "a": "tabitha-hallenfeld-the-road-woman",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "comrades",
+   "summary": "Couriers of the same roads; she reported him on the polar shelf and walked the southern road he rode.",
+   "basis": "scene"
+  },
+  {
+   "a": "brida-ashwell-the-warm-diagnosis",
+   "b": "bram-greymane-the-ridge",
+   "kind": "physician and patient",
+   "summary": "Hild sent her south to Bram's wounded with supplies and the Greymane words.",
+   "basis": "scene"
+  },
+  {
+   "a": "brida-ashwell-the-warm-diagnosis",
+   "b": "renard-greymane-the-left-of-the-throne",
+   "kind": "comrades",
+   "summary": "The ridge knows her third bowl; the night of the door she held the gap and told him, very quietly, that the girl was asleep.",
+   "basis": "scene"
+  },
+  {
+   "a": "brida-ashwell-the-warm-diagnosis",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "witness",
+   "summary": "She watched the boy go down the path to kill the hostages.",
+   "basis": "scene"
+  },
+  {
+   "a": "bram-greymane-the-ridge",
+   "b": "renard-greymane-the-left-of-the-throne",
+   "kind": "kin",
+   "summary": "Cousins of the Stormfold; Renard's voice held Bram's left at the breach, and he read the farrier's tally book that found the rat.",
+   "basis": "card"
+  },
+  {
+   "a": "bram-greymane-the-ridge",
+   "b": "robin-ice-the-bastard-runner",
+   "kind": "witness",
+   "summary": "Robin saw Bram on foot in the breach at the ninth hour and carried the sight to the narrows.",
+   "basis": "scene"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "hild-ice-stark-the-sword-princess",
+   "wants": "needs the Stark of Hollenmark: the Warden of the Eastern March, who named her Ice before she was born and whom she has never met (uncarded). Her father, Sodoku Moto, is already carried from c03."
+  },
+  {
+   "slug": "edward-lambert-the-arithmetic",
+   "wants": "needs Muken Moto (card): the king who filed his name after eleven quarters of correct reports, called his third stake wrong, and never touched it again."
+  },
+  {
+   "slug": "lorn-stark-the-sword-teacher",
+   "wants": "needs a frontier captain of the kind Part 1 names as a third uncle, Tomas Farren (uncarded): a man with no Moto blood who stood with the coalition for his own reasons."
+  },
+  {
+   "slug": "osric-of-hallenfeld-the-patient-hand",
+   "wants": "needs an officer of the Tenrai consolidation: one of the assessors who judged him peripheral and watched him for three years in the Hallenfeld corridor."
+  },
+  {
+   "slug": "tabitha-hallenfeld-the-road-woman",
+   "wants": "needs someone of the Bench she sits in the sixth year, or the editor of the Ashwell Register, who printed her question and will not say who gave it to him."
+  },
+  {
+   "slug": "brida-ashwell-the-warm-diagnosis",
+   "wants": "needs Nella Forgeman (card), the expedition's surgeon, whose stores Lambert's card counts beside hers."
+  },
+  {
+   "slug": "robin-ice-the-bastard-runner",
+   "wants": "needs Verinus VII, the Palatine (card), before whom his account of Coldbeck and Ada Foss was entered at weight."
+  },
+  {
+   "slug": "bram-greymane-the-ridge",
+   "wants": "needs Lilia, the Stormfold nurse (card), who stitched his brigandine and shortened his shield strap without saying so."
+  },
+  {
+   "slug": "renard-greymane-the-left-of-the-throne",
+   "wants": "needs his cousin Wren Greymane (uncarded), whose defection he answered without hesitating."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Bram's approach. Hild's card: \"Holds the western approach with half an army.\" Bram's card: \"holder of the southern approach\". The Banner Houses page gives House Greymane \"the western border\"; the scenes give Bram the southern approach (`the_true_king_of_the_north_part_10.md`, `the_true_king_of_the_north_part_12.md`).",
+  "When the sword came. Hild's card: Fern \"Died when Hild was 8-9\" and Hild has \"trained with a sword since she was nine\". Lorn's card: \"When Fern died and Hild was eight years old\". `the_true_king_of_the_north_part_1.md` has her training \"since she was twelve\", and has Lorn give her his sword \"after the second winter\".",
+  "Hild's mother. Hild's card: \"Fern Stark (mother, deceased)\". Rikudoku Moto's card: \"Hild Ice (half-sister, paternal, through Freya)\" and \"Freya (dead, Ledger L003): Hild's mother\". `08_sodoku_recalescence.md` puts Freya's death at or near Hild's birth.",
+  "Osric's house. Osric's card: \"born Osric Kōkan Moto, identity suppressed during the Tenrai consolidation\". The Banner Houses page: \"Osric of Hallenfeld, a survivor of the house's collapse\".",
+  "Osric's arrival. Osric's card: he \"walked out of the Hallenfeld corridor carrying his father's ring and nothing else\". `the_true_king_of_the_north_part_1.md`: he \"had arrived at the holdfast with his family and his father's ring and nothing else\".",
+  "How many uncles. Hild's card names two, Lorn and Osric. `the_true_king_of_the_north_part_1.md`: \"Three uncles.\", the third being \"Tomas Farren, the frontier captain who had no Moto blood\". `the_true_king_of_the_north_part_13.md` also counts \"three uncles\".",
+  "Hild and her father. Hild's card: \"Has never met him.\" `the_true_king_of_the_north_part_17.md`: Sodoku's hands went where they had gone \"when she was a nursing infant and he was seventeen and terrified\".",
+  "Hild's looks. Hild's card: \"Her hair is dark\" and \"Her eyes are brown\". `the_true_king_of_the_north_part_17.md`: \"Her hair was pale to the point of colourlessness\" and \"Her eyes were grey.\"",
+  "Lorn's span. Lorn's card: \"the specific accelerated grey that the last eleven years produced\". `01_wotr_muster_breach_road_north.md` and `10_wotr_what_the_ground_was_owed.md`: an arrangement about Hild made \"nineteen years ago\".",
+  "Lambert's build and past. Lambert's card: \"He is of middling height\", \"Lambert was not a soldier\" and \"He was thirty-nine when Muken noticed him.\" `the_true_king_of_the_north_part_17.md`: \"He was tall and had been taller\", and Muken knew him \"at twenty-six\" on a survey line. `05_sodoku_the_fixed_end.md`: \"forty years with a sword and no illusions about any of it\".",
+  "Lambert's voice. Lambert's card: \"The last time he raised his voice was the day he received the courier's report about Kasumi\". `05_sodoku_the_fixed_end.md`: \"Edward Lambert had never raised his voice in his life.\"",
+  "Robin's age. Robin's card: 29, a runner since fourteen. `the_true_king_of_the_north_part_19.md` and `10_wotr_what_the_ground_was_owed.md`: seventeen. `the_revolution_of_the_inner_world.md`: \"Robin Ice was twenty-three when the wire reached Ashwell\".",
+  "Brida's age. Brida's card: 31. `the_revolution_of_the_inner_world.md`, in the fourth year: \"She was fifty-two\".",
+  "Tabitha's age. Tabitha's card: 42. `the_revolution_of_the_inner_world.md`, in the sixth year: \"Tabitha Hallenfeld is fifty-one now\".",
+  "Bram's years on the ridge. Bram's card: \"the three years on the ridge\", and Godfrey as the grandfather who gave the shield. `the_war_in_the_north_v_the_shieldwarden.md`: the brothers held the southern approach \"for nine years\", with \"their father telling them that the ridge did not move\".",
+  "Renard and the ridge. Renard's card: \"a man who has spent his youth in the field rather than on the ridge\". `renard_the_left_of_the_door.md`: \"Every man on the ridge learned what it was\", and he knows the third bowl from men he saw bleed \"on the ridge\"."
+ ]
+}

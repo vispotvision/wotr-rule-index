@@ -1,0 +1,248 @@
+{
+ "id": "c02",
+ "name": "The Kōkan expedition's hands",
+ "era_span": "The archive's present in the Inner World: the eleventh year after Muken's assassination, from the crossing to the polar shelf to the north gate of Kharven-Seat. Borin's card reaches back through centuries at Varrak-Thur, and his record runs on to the Stannvaard annexation (the_revolution_of_the_inner_world.md).",
+ "members": [
+  {
+   "slug": "garret-longshore-the-helmsman",
+   "line": "Concord-born helmsman and navigator of the Kōkan expedition from the western fishing settlements, who steers between a compass he does not trust and a sea he trusts less."
+  },
+  {
+   "slug": "soren-the-mast-the-climb",
+   "line": "Concord rigger, lookout and forward reconnaissance, built like a rope, who talks to Garret's helm in a hand language they built over years and swore his oath on the climbing."
+  },
+  {
+   "slug": "nella-forgeman-the-open-hand",
+   "line": "Field surgeon of the expedition, a smith's daughter from a Concord chartered quarter and Accord field-certified, who swore palm out to keep alive everyone on the ice and everyone collected on the way to Kharven."
+  },
+  {
+   "slug": "dunstan-the-brine-the-ladle",
+   "line": "Cook, quartermaster and provisions officer, a Concord man without Attunement, who keeps the galley hot and brought a cast-iron ladle to a Titan Droval."
+  },
+  {
+   "slug": "matheus-the-silent-eye",
+   "line": "Matheus of the Ketsuen Enclave, Yukari-trained ward-craft, who swears on his work and whose ward-fabric lining is the one piece of the Verdict Plate signed by two craftsmen."
+  },
+  {
+   "slug": "borin-ironheart-the-master-of-the-soul-forge",
+   "line": "High Dawi forgemaster of Varrak-Thur beneath Stannvaard, marked by the apprentice Thurgan he could not save, whom the scenes carry on the expedition as its aethersmith."
+  },
+  {
+   "slug": "heisuke-muken-s-last-soldier",
+   "line": "One of the last men of Muken's border guard and the expedition's senior military authority, Moto by his card, who carries uninscribed Stannvaard steel and keeps silent until Sodoku requires him."
+  },
+  {
+   "slug": "sadamu-called-futakoto-two-words",
+   "line": "Frontier Moto cadet from the Polar Reach, the column's forward scout and youngest hand, whose oath was two words: I swear."
+  },
+  {
+   "slug": "lilia-the-stormfold-nurse",
+   "line": "Stormfold nurse at the Greymane estate and primary caretaker for Bram Greymane's wounded, who read his quiet as choice and told him the treatment is not negotiable."
+  }
+ ],
+ "events": [
+  {
+   "name": "The crossing to the polar shelf",
+   "when": "The eleventh year after Muken's assassination, the last weeks at sea before the rift camp (scene).",
+   "where": "At sea off the polar shelf beyond the Polar Reach, aboard the expedition's ship.",
+   "who": [
+    "garret-longshore-the-helmsman",
+    "soren-the-mast-the-climb",
+    "nella-forgeman-the-open-hand",
+    "dunstan-the-brine-the-ladle",
+    "matheus-the-silent-eye",
+    "borin-ironheart-the-master-of-the-soul-forge",
+    "heisuke-muken-s-last-soldier",
+    "sadamu-called-futakoto-two-words"
+   ],
+   "what": "Scene (the_true_king_of_the_north_part_1.md, part 6): Garret held the helm and read a storm coming by morning; Soren worked the rigging and signed to the helm; Sadamu called depths from the bow to Garret; Dunstan passed salt pork and barley up the galley hatch; Nella counted frostbite and marked the old soldier at the stern rail for favouring his left hand; Heisuke stood at that rail and did not speak to Sodoku; Borin went below to re-seat the keel array and Matheus went with him unasked. Took: Garret, a crossing brought to the ice; Soren, a helm that answered his signals; Sadamu, his first post, the lead-line to Garret's wheel; Dunstan, a crew that ate without comment; Nella, a patient who had not asked to be one; Heisuke, a left hand the surgeon had already seen; Borin and Matheus, their first joint work."
+  },
+  {
+   "name": "The oaths at the rift's edge",
+   "when": "The eleventh year, at the rift camp, on the day Sodoku told his brother of Hild (scene).",
+   "where": "The polar rift on the ice sheet beyond the Polar Reach.",
+   "who": [
+    "borin-ironheart-the-master-of-the-soul-forge",
+    "matheus-the-silent-eye",
+    "garret-longshore-the-helmsman",
+    "sadamu-called-futakoto-two-words",
+    "nella-forgeman-the-open-hand",
+    "dunstan-the-brine-the-ladle",
+    "soren-the-mast-the-climb"
+   ],
+   "what": "Scene (the_true_king_of_the_north_part_7.md): after Robin Ice, they swore standing to the Crown and the Commander, each in their own form. Borin named himself son of Kettan, called Ironheart, and left the oath-name slot empty; Matheus swore on his work; Garret said he had not drowned yet; Sadamu said his name and 'I swear'; Nella held up her right hand palm out; Dunstan swore no one would go hungry while he had hands and a fire; Soren swore on the climbing and climbed back to the roof. Heisuke is not among the oath-givers the scene names. Took: Borin, an empty fourth slot the forge would make him question; Matheus, an oath by perception; Garret, a promise to make his skills useful; Sadamu, the two words his byname keeps; Nella, a count with no ceiling; Dunstan, the next meal as his standing charge; Soren, the watch roof."
+  },
+  {
+   "name": "The forge on the ice",
+   "when": "The rift camp, after the oaths and before the column struck camp (scene, with two new acts).",
+   "where": "The rift camp on the ice sheet beyond the Polar Reach: the forward igloo and the makeshift forge.",
+   "who": [
+    "borin-ironheart-the-master-of-the-soul-forge",
+    "matheus-the-silent-eye",
+    "dunstan-the-brine-the-ladle",
+    "heisuke-muken-s-last-soldier"
+   ],
+   "what": "Scene (parts 8, 9, 12, 13): Borin built a forge from his leather roll, fuelled by rendered fat and an accelerant mixed from materials Matheus provided; on it he tuned Kurosetsu, worked the Chains of War and forged the Arctic Lion, whose gauntlets carry Matheus's ward-fabric lining, the one piece of the Verdict Plate with two signatures; after the chains, the empty oath-name slot seemed fillable to him for the first time. New: the rendered fat came from Dunstan's galley stores. New: Borin, who held his oath to cover everyone's equipment, offered to inscribe Heisuke's Stannvaard steel; Heisuke declined and the sword stayed plain steel. Took: Borin, work on an object born of a Soul Forge and the thought that the rift's oath might become his oath-name; Matheus, his signature beside a Dawi's; Dunstan, a second fire drawing on the galley's stores; Heisuke, his sword as it was."
+  },
+  {
+   "name": "The Titan Droval on the polar shelf",
+   "when": "The fifth day of the column's march north from the rift (scene).",
+   "where": "The polar shelf, on the road from the rift to Kharven.",
+   "who": [
+    "soren-the-mast-the-climb",
+    "garret-longshore-the-helmsman",
+    "nella-forgeman-the-open-hand",
+    "dunstan-the-brine-the-ladle",
+    "sadamu-called-futakoto-two-words",
+    "matheus-the-silent-eye",
+    "borin-ironheart-the-master-of-the-soul-forge",
+    "heisuke-muken-s-last-soldier"
+   ],
+   "what": "Scene (the_true_king_of_the_north_part_14.md, part 15): after four days of Soren's clear signals to Garret, Yoko smelled two Titan-class Droval. Soren came down from the sled's mast-pole beside Garret with the count and read them as a bonded pair; Garret stood still, compass in hand; Matheus said he could not ward against Titan-class; Borin studied the fur; Sadamu drew his knife, laughed and sheathed it; Dunstan took up the ladle and asked for it to go in the record; Nella ran her triage protocol and held Dunstan's arm through the fight; Heisuke stepped forward once and did not draw. Sodoku bonded the first beast and Sonzai claimed the second. Took: Soren, a reading the day proved; Garret, a compass that does not point away from Titan Droval; Nella, a protocol whose short form is to run; Dunstan, the ladle and the joke about the record; Sadamu, the knife as an insult; Matheus, inscription carried by the air, which he had crossed a continent to see; Borin, a Winter-dense hide he had never forged; Heisuke, one step, and the son moving with his father's weight."
+  },
+  {
+   "name": "The Stormfold halt",
+   "when": "After the polar shelf, before the column reached the north gate of Kharven-Seat on a night of the eleventh year (new, on two scene traces).",
+   "where": "The Stormfold, at the Greymane estate.",
+   "who": [
+    "nella-forgeman-the-open-hand",
+    "lilia-the-stormfold-nurse",
+    "heisuke-muken-s-last-soldier"
+   ],
+   "what": "Scene traces (sodoku_gate_reunion_lambert.md): Heisuke did not speak from the Stormfold to the gate, and Sodoku saw a pack with bone-setting splints built there. New: at the Greymane estate, whose infirmary held the east end of the great hall (part 11), Nella worked beside Lilia over the wounded of the southern approach for as long as the column halted; Lilia kept the running of her infirmary and Nella took the cases she was given, counting the Greymane wounded into her rift oath. Took: Nella, the Greymane wounded under her oath's count; Lilia, a surgeon from the Crown's column who worked her room on her terms; Heisuke, the quiet he kept to the north gate."
+  }
+ ],
+ "ties": [
+  {
+   "a": "garret-longshore-the-helmsman",
+   "b": "soren-the-mast-the-climb",
+   "kind": "comrades",
+   "summary": "Shipmates of years who built a hand language between rigging and helm and carried it onto the ice.",
+   "basis": "card"
+  },
+  {
+   "a": "garret-longshore-the-helmsman",
+   "b": "sadamu-called-futakoto-two-words",
+   "kind": "comrades",
+   "summary": "The helm and the lead-line: on the crossing the scout called depths back to Garret's wheel.",
+   "basis": "scene"
+  },
+  {
+   "a": "soren-the-mast-the-climb",
+   "b": "sadamu-called-futakoto-two-words",
+   "kind": "comrades",
+   "summary": "The camp's two watchers, who kept the highest igloo's roof between them.",
+   "basis": "scene"
+  },
+  {
+   "a": "borin-ironheart-the-master-of-the-soul-forge",
+   "b": "matheus-the-silent-eye",
+   "kind": "partners in craft",
+   "summary": "Keel array, forge accelerant and the Lion's gauntlets; the one piece of the Verdict Plate with two signatures is theirs.",
+   "basis": "card"
+  },
+  {
+   "a": "borin-ironheart-the-master-of-the-soul-forge",
+   "b": "dunstan-the-brine-the-ladle",
+   "kind": "debt",
+   "summary": "The forge on the ice burned rendered fat from the galley stores, so the cook fuelled the smith.",
+   "basis": "new"
+  },
+  {
+   "a": "borin-ironheart-the-master-of-the-soul-forge",
+   "b": "heisuke-muken-s-last-soldier",
+   "kind": "rival (of method)",
+   "summary": "Borin offered to inscribe Heisuke's Stannvaard steel and Heisuke declined; the smith who inscribes and the soldier who trusts plain steel.",
+   "basis": "new"
+  },
+  {
+   "a": "nella-forgeman-the-open-hand",
+   "b": "dunstan-the-brine-the-ladle",
+   "kind": "comrades",
+   "summary": "She held his arm through the Droval fight and argued the ladle's legal standing with him at the gate.",
+   "basis": "scene"
+  },
+  {
+   "a": "nella-forgeman-the-open-hand",
+   "b": "heisuke-muken-s-last-soldier",
+   "kind": "surgeon and patient",
+   "summary": "She marked his favoured left hand on the crossing; he is a patient who will not report it.",
+   "basis": "scene"
+  },
+  {
+   "a": "nella-forgeman-the-open-hand",
+   "b": "matheus-the-silent-eye",
+   "kind": "colleagues",
+   "summary": "Condition and signature: together they examined the stranger carried in off the ice.",
+   "basis": "scene"
+  },
+  {
+   "a": "nella-forgeman-the-open-hand",
+   "b": "lilia-the-stormfold-nurse",
+   "kind": "colleagues",
+   "summary": "Two healers of one war who shared the Greymane wounded when the column halted in the Stormfold.",
+   "basis": "new"
+  },
+  {
+   "a": "heisuke-muken-s-last-soldier",
+   "b": "sadamu-called-futakoto-two-words",
+   "kind": "comrades",
+   "summary": "The column's two Moto soldiers: one of the last of Muken's border guard, and the frontier cadet whose formation the column marched in.",
+   "basis": "card"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "garret-longshore-the-helmsman",
+   "wants": "A teacher on the shore: the master in the western fishing settlements who first put him on a wheel."
+  },
+  {
+   "slug": "soren-the-mast-the-climb",
+   "wants": "A keeper of the Hallenfeld signal posts, the kingdom's other trade in signals sent across distance."
+  },
+  {
+   "slug": "nella-forgeman-the-open-hand",
+   "wants": "A physician of the coalition; Edward Lambert's card already pools her supplies with Brida Ashwell's."
+  },
+  {
+   "slug": "dunstan-the-brine-the-ladle",
+   "wants": "The steward who keeps the kingdom's stores at Kharven-Seat, where Lambert counts the salt pork by the barrel."
+  },
+  {
+   "slug": "matheus-the-silent-eye",
+   "wants": "A teacher at the Ward-Carver's Academy at Senri's Gate, where every Ketsuen carver traces his training."
+  },
+  {
+   "slug": "borin-ironheart-the-master-of-the-soul-forge",
+   "wants": "An apprentice at his forge; Ymir Rhok's card already names Borin his mentor."
+  },
+  {
+   "slug": "heisuke-muken-s-last-soldier",
+   "wants": "A fellow survivor of Muken's service, one of the six who drove the survey stakes for the wall at Kharven-Seat (Edward Lambert counted him dead)."
+  },
+  {
+   "slug": "sadamu-called-futakoto-two-words",
+   "wants": "An elder of the Polar Reach frontier that raised him, kin or a camp elder."
+  },
+  {
+   "slug": "lilia-the-stormfold-nurse",
+   "wants": "The physician Hild sent to Bram with supplies (Brida Ashwell), a colleague from the Ironwood March."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Spelling of the expedition: Garret's card ('Navigator and helmsman for the Kōkan expedition') and Sadamu's ('Forward scout, perimeter watch for the Kōkan expedition') write Kōkan; Soren, Nella, Dunstan, Matheus and Heisuke write Kokan (Nella: 'Field surgeon for the Kokan expedition'), the form part 7's notes list as struck-register residue.",
+  "Garret's card names the armoured man 'Temür' ('When Temür walked out of the igloo in glacier-crystal armor'), a struck name for Sodoku (R22-2); Heisuke's card names him Sodoku, once misspelled ('He will speak when Sdoku requires it').",
+  "Nella's card takes the byline 'The Treatment Is Not Negotiable'; Lilia's card gives the line to Lilia ('the hurting is the treatment, and the treatment is not negotiable'), and the archive speaks it only in Lilia's mouth (the_true_king_of_the_north_part_11.md).",
+  "Heisuke's card ('Bloodline: Moto (main branch, border guard)') and Sadamu's ('Bloodline: Moto (frontier cadet)') keep them Moto; the ruling that renamed them reads 'Bloodline route: Taulagi and Afasoa become Yuno retainers with Japonic names' (R23-7, notes).",
+  "Both cards still gloss the struck names: 'formerly Taulagi: tau + lagi = war/season + sky' (Heisuke) and 'formerly Afasoa: afa + soa = storm + companion' (Sadamu).",
+  "Card against scene: Borin's card makes him 'The Master of the Soul Forge' who 'Operates the Soul Forge within the Adamant Vaults'; the_true_king_of_the_north_part_9.md says 'Borin had seen a Soul Forge once.'",
+  "Card against scene: Borin's card gives eyes 'dark brown with a reddish undertone' and 'His hair is dark, iron-grey streaking through black'; part 8 gives 'the grey-green of unpolished malachite' and the_revolution_of_the_inner_world.md 'white hair'.",
+  "Card against wiki: Borin's card sets him at 'Stage XII' (Catalyst Event); the Arctic Lion page reads 'Borin Ironheart, Aethersmith (Stage III+). Eleven days, polar crossing'.",
+  "Card against scene: Lilia's card gives 'Age: 28', 'Tall for a northern woman, nearly Bram's height', 'Hair the colour of dark straw'; the_war_in_the_north_v_the_shieldwarden.md gives 'thirty-six, short, deep through the chest', 'Sandy hair going grey at the front', and its notes say 'Lilia has no card.'",
+  "Card against scene: Heisuke's card gives 'Age: 61' and Dunstan's 'somewhere between forty and sixty', yet part 7 calls Dunstan 'the oldest person on the ice sheet after Borin'.",
+  "Card against scene: Soren's card says 'He was the one who spotted the Titan Droval from the mast-pole'; part 14 says 'Yoko smelled them first.'",
+  "Scene against scene: part 7's notes name eight oath-givers without Heisuke ('the eight oaths at the rift's edge (Robin, Borin, Matheus, Garret, Afasoa, Nella, Dunstan, Soren)'); part 15 has 'Toward the twenty people who had sworn their oaths at the rift's edge' and lists him among them.",
+  "Nella's card closes on an out-of-world line: 'A file that is written but never presented is unreachable on mobile.'"
+ ]
+}

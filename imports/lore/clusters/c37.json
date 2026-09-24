@@ -1,0 +1,121 @@
+{
+  "id": "c37",
+  "name": "Road-folk and the Eastward Isles",
+  "era_span": "Elthiré's card sets him in the Withering Era; Raymond's sets him in the late Imperial Age, which can reach the Withering Era or the end of the Long Reckoning, and this record does not choose. Shiro's, Liorien's and Cyrus's cards give no era; all three stand in the Guild Accord's years. The grove event places Shiro in the Withering Era beside Elthiré. The two Archive events carry no era. Raymond's mending at Burnt Orchard comes before Elthiré's visit by a span this record does not fix, and the two never meet. No year is given anywhere.",
+  "members": [
+    {
+      "slug": "shiro-kitsunari-little-white-fox",
+      "line": "Little White Fox, the Bell-On-Branch: a boy with a light, underfed body who runs an informal courier circuit for the Guild Accord on the Outer Wilds as an Independent Concord Freeholder, unchartered and loyal first to his home grove; the forest caught him in a net of branches when he fell as a toddler, a fox-shrine bell in his hair warns him with a chime nothing else hears, and through living bark he hears footfalls, breath and a Wellspring going quiet, at the price of nosebleed and deafness."
+    },
+    {
+      "slug": "raymond-montclair-the-luthier-of-quiet-roads",
+      "line": "The Luthier of Quiet Roads, Ash-Tone Pilgrim, Soft-Handed Witness: a mortal of Verdant-flecked ancestry in the late Imperial Age, an unbound wayfarer the Accord's escorts tolerate, whose first bond is to his ashwood lute; instruments he repairs keep what they felt, his resonance blurs his own memory and flattens his joy and grief, he has steadied close to sixty people and never counted, and he mended the chapel instrument at Burnt Orchard and kept the vigil at the Hollow Bridge."
+    },
+    {
+      "slug": "elthire-maen-the-wandering-string",
+      "line": "The Wandering String, Keeper of Forgotten Roads: a Guild Accord Pathwarden out of Caedor, classified Echo Courier of the Ninth Route, one of twelve envoys who keep the Accord's presence in unanchored Wellspring territories without arms, going about as a minstrel with the songbird Pell and the Lyre of Seven Winds; he came to his power by listening and carries every tone he has given form to, and he was last seen at the Borders of Babyl after the Rift Refrain Incident."
+    },
+    {
+      "slug": "liorien-nael-teth-sleepless-quill",
+      "line": "The Sleepless Quill, Drift-Scribe of the Eastward Isles: a small, underfed Veyran archivist of a Brine-Touched Scribe line, archivist-member of the Archive of the Eastward Isles and consultant to the Accord, whose first bond is to the ledger; every working is written, each major casting writes his memory into the ink, the Broken Shell Night cost him several months, and his reconstructed ledger of the Drowned Ledger Affair outlived a Black Concord cell and stands as precedent in three coastal courts."
+    },
+    {
+      "slug": "cyrus-vellhar-the-azure-warden",
+      "line": "The Azure Warden, Laughing Undertow: a human with a Mirithane-sensitive mutation, former apprentice of the Archive, now a Wellspring drifter with no Accord rank, whose first bond is to an Abyssal-touched memory shell that whispered back; the Laughing Shoal formed around him in the Archive incident, he fled with a shard of the Dream-Tideglass without reporting the shell, the Archive sends people after him and he keeps ahead, and he teaches coastal children small illusions for nothing."
+    }
+  ],
+  "events": [
+    {
+      "name": "The Broken Shell Night",
+      "when": "While Cyrus was an apprentice of the Archive and Liorien one of its archivists. Liorien's card names the night and Cyrus's names the Archive incident; this record makes them one night. No card dates it, and neither does this record.",
+      "where": "The Archive of the Eastward Isles, which both cards name and no page places.",
+      "who": [
+        "liorien-nael-teth-sleepless-quill",
+        "cyrus-vellhar-the-azure-warden"
+      ],
+      "what": "The Archive had held an ancient leviathan's echo bound, and on the Broken Shell Night the echo came loose inside it. Liorien raised the Echo-Current Folio. His charm-papers broke into a small storm and closed in a half-dome over the echo. The dome caught the echo and played it back, and caught it again, for as long as the senior archivists needed to bind it a second time. They bound it. The casting wrote several months of Liorien's memory into the ink. Elsewhere in the Archive that night, Cyrus sat with an Abyssal-touched memory shell. It whispered. He answered, and it answered him back. Ripples ran out of true around him, sound warped, and the Laughing Shoal formed where he was. Before the seniors were done with the echo, he took a shard of the Archive's Dream-Tideglass and fled. He did not report the shell. The dome records what happens inside it, and Cyrus was never inside it. What each took. Liorien: several months of his own memory, written into the Folio's pages; what he has of those months is what the pages kept, and his card leaves open whether he can ever have them back. Cyrus: his first Spirit Axis bond, to a shell that answered him; the Laughing Shoal; the Tideglass Shard; and a flight he has kept up ever since, because the bond was never reported."
+    },
+    {
+      "name": "The town Cyrus had left",
+      "when": "After the Broken Shell Night, in the time the Archive has been sending people to bring Cyrus back (his card).",
+      "where": "A coastal town, which neither card names, where Cyrus had taught children and moved on (his card: \"Coastal children · He teaches them small illusions, unpaid, in towns he does not stay in long\").",
+      "who": [
+        "liorien-nael-teth-sleepless-quill",
+        "cyrus-vellhar-the-azure-warden"
+      ],
+      "what": "The Archive sent Liorien after its apprentice. He came to a coastal town Cyrus had passed through, and Cyrus had already gone. The children remembered him. Near Liorien they spoke softly and told the truth, as most people do near him, and they showed him the small illusions the drifter had taught them for no pay. Liorien wrote down what they showed him and what they said. He went back to the Archive with their testimony and without Cyrus. What each took. Liorien: a page of children's testimony about the man the Archive wanted, which went into the Archive's record of Cyrus, the record Cyrus's card calls formally unreliable. Cyrus: one more town left ahead of the Archive, as his card says he keeps ahead of them; he never saw the archivist, and the illusions stayed with the children."
+    },
+    {
+      "name": "The quiet at the grove's edge",
+      "when": "In the Withering Era, Elthiré's era, while he walked the Ninth Route and Shiro, still a boy, ran his circuit. Shiro's card gives him no era of his own.",
+      "where": "The edge of Shiro's home grove on the Outer Wilds, beside a trade route his circuit runs (Shiro's card). No page places the Outer Wilds, and c05 leaves them unplaced.",
+      "who": [
+        "shiro-kitsunari-little-white-fox",
+        "elthire-maen-the-wandering-string"
+      ],
+      "what": "Shiro let his Aether into the bark at the edge of his home grove, and the wood gave him back the first patches of the Wellspring under it going quiet. He ran the word along his circuit, ahead of the caravans on the treeline, as he ran the rest of the Accord's traffic. It reached the Pathwarden of the Ninth Route. Elthiré came to the grove's edge with Pell on his shoulder and asked the boy what he had heard and how. Shiro told him plainly. Then Elthiré played the Lyre of Seven Winds on the quiet ground, for as long as the ground needed. Shiro kept his hands on the bark while he played. Through the wood he heard the rhythm come back. He held the veil too long. His nose bled, and for a stretch afterwards he heard nothing at all. The ground had given Elthiré little to feed on, and he left thinner than he came. What each took. Shiro: the rhythm back in the wood at his grove's edge, heard through the bark; a nosebleed and a stretch of deafness for holding the veil past its time; and an envoy of the Accord, which he serves by proxy, who knows him by sight and asked him what he heard. Elthiré: the grove's tone, carried now with every other tone he has given form to; a runner on the Outer Wilds whose word reached the Ninth Route before the quiet spread; and the thinning that starved ground costs him."
+    },
+    {
+      "name": "The instrument at Burnt Orchard",
+      "when": "Raymond's mending in the late Imperial Age (his card), and Elthiré's playing after it, in the Withering Era, on the Ninth Route. This record does not fix the time between. The two never meet.",
+      "where": "The chapel at Burnt Orchard (Raymond's card), on a road the Accord's escorts travel. No page places it.",
+      "who": [
+        "raymond-montclair-the-luthier-of-quiet-roads",
+        "elthire-maen-the-wandering-string"
+      ],
+      "what": "Raymond came to Burnt Orchard on the road with an Accord escort. He restored the chapel's instrument, and in the restoring he halted a local Wellspring flare that nobody else had noticed building. Then he went on with the escort. Afterwards the Ninth Route brought Elthiré to the same chapel, and he played there. The instrument Raymond had mended still held what it had felt, longer than an instrument otherwise holds anything. Elthiré heard it. He gave that tone form in the chapel. The village could tell him that a luthier had come with the escort and gone on. What they told him went back onto the Ninth Route with him. What each took. Raymond: one more instrument that keeps what he steadied; he does not count the people he has steadied, and nobody has ever asked him to; he took nothing from Elthiré, whom he never met. Elthiré: the tone the mended instrument held, which he carries now with the rest, and the luthier's story, which he carries on the Ninth Route by his own word: \"Carry the story, not the glory.\""
+    }
+  ],
+  "ties": [
+    {
+      "a": "liorien-nael-teth-sleepless-quill",
+      "b": "cyrus-vellhar-the-azure-warden",
+      "kind": "archivist and fled apprentice of one Archive",
+      "summary": "Both cards name the Archive of the Eastward Isles; on the Broken Shell Night Liorien's Folio held the loose echo while Cyrus answered the shell and fled, and the Archive later sent Liorien after him to a town he had already left.",
+      "basis": "card"
+    },
+    {
+      "a": "shiro-kitsunari-little-white-fox",
+      "b": "elthire-maen-the-wandering-string",
+      "kind": "runner and envoy",
+      "summary": "Shiro's word of a Wellspring going quiet at his grove's edge brought the Pathwarden of the Ninth Route, who asked him what he heard and played the rhythm back into the wood.",
+      "basis": "new"
+    },
+    {
+      "a": "raymond-montclair-the-luthier-of-quiet-roads",
+      "b": "elthire-maen-the-wandering-string",
+      "kind": "successor on the road, through one instrument",
+      "summary": "Elthiré played in the chapel at Burnt Orchard, heard what Raymond's mending had kept in its instrument, and carries the tone and the luthier's story; they never met.",
+      "basis": "new"
+    }
+  ],
+  "outward": [
+    {
+      "slug": "shiro-kitsunari-little-white-fox",
+      "wants": "The forest priest of his home grove who made him the anklet of living bark, the one person his card shows making something for him by hand; or one of his unnamed mentors."
+    },
+    {
+      "slug": "raymond-montclair-the-luthier-of-quiet-roads",
+      "wants": "The party leader of a Guild Accord escort he walks with (mercantile escort is Journeyman work on the Tiered Path): the officer who keeps him on the road and finds him useful and inconvenient in roughly equal measure."
+    },
+    {
+      "slug": "elthire-maen-the-wandering-string",
+      "wants": "Another of the twelve envoys entrusted with the unanchored Wellspring territories, a Pathwarden on another route whose road crosses the Ninth; c24 also asks, through Seren Valenne, for someone of Caedor."
+    },
+    {
+      "slug": "liorien-nael-teth-sleepless-quill",
+      "wants": "A survivor of the fishing village in the Drowned Ledger Affair: someone whose testimony the Black Concord cell tried to erase and his reconstructed ledger kept."
+    },
+    {
+      "slug": "cyrus-vellhar-the-azure-warden",
+      "wants": "Someone in a coastal town he left: a child he taught, grown, or the parent who let him teach them; a person who would take him in again."
+    }
+  ],
+  "same_person": [],
+  "card_contradictions": [
+    "The Archive's name and attestation. Liorien: \"Archivist-Member of the Archive of the Eastward Isles\" (I). Cyrus: \"Former apprentice of the Archive of Eastward Islands *(unattested independently of this card; kept as load-bearing)*\" (I). The Fractured Dawn uses Cyrus's spelling, \"the Archive of Eastward Islands\", and lists it among names that \"returned no hits against the wiki and are unattested in current canon\". Liorien's card also names it, spelled Isles, so Cyrus's card is not its only witness.",
+    "The Hollow Bridge. Raymond: \"The Hollow Bridge · Held a three-hour resonance vigil there and prevented a skirmish without a blade drawn on either side.\" (IX). Artemis Amagiri Moto: \"The Hollow Bridge Containment · Held a three-span crossing against a superior force by repeatedly closing every retreat line except the one that fed directly into his killing range.\" (Lore and Trajectory). One card is set in the late Imperial Age, the other in the War of the Realms Era; no card says whether the two bridges are one crossing.",
+    "Echo Courier, a classification or a post held off the register. Elthiré: \"Guild Accord Pathwarden, classified Echo Courier of the Ninth Route\" (I). Arven Solthiel: \"an unregistered Echo Courier for the Guild Accord\", \"a distinct post from Eira Vale's Echo Runner elsewhere in the wiki mirror\" (I). No Guild page defines the term.",
+    "Which volume. Cyrus: \"Filed to Volume V, Character Cards on migration.\" (X). Raymond's card also names Volume V (X). Both pages sit in the Volume I card section."
+  ]
+}

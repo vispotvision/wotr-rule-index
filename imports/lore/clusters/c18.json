@@ -1,0 +1,176 @@
+{
+ "id": "c18",
+ "name": "The Tenryū and the dragon-blooded",
+ "era_span": "Unstated on all seven cards. Every card sets its member against a working Guild Accord (convoys and tithe, the Enforcement Division, mercenary contracts, a bounty list, watch posts, Concord Sanctions, the Star Chamber's Measures), so the shared events fall in the Accord's age; this record names no era and no year and orders the events by the members' Catalyst Events and by one another.",
+ "members": [
+  {
+   "slug": "daigo-tenryu-ribbon-ox",
+   "line": "Ribbon-Ox, the Dango Dragon: a sky-oni, dragon-blooded celebrant and pact-binder of the Tenryū who turns sweets and rhythm into lift, ties quick promises with a red cord bitten into a knot, cracks sieges into parades and anchors festival truces so trade can happen under watchful dragons."
+  },
+  {
+   "slug": "goraku-tenryu-the-crimson-gourd",
+   "line": "The Crimson Gourd, war-leader and brewer of Battle Draughts for the Braqth Raiding Courts, the Outer World's coastal oni clans; Tenryū kin to Daigo, carrying the Gourd of Endless Night and an inherited Oni's Pact that burns hotter with every draught, an Enforcement Division \"problematic ally\"."
+  },
+  {
+   "slug": "kurokiba-ranzou-the-drunken-oni",
+   "line": "The Drunken Oni, a wandering duelist from the Ember-Sake Highlands called Brew-Sage among the oni clans, whose body ferments Essence in the blood; never beaten in a duel or a drinking contest, a \"wild contract\" in the Accord's books, one bad night from a Fracture Event."
+  },
+  {
+   "slug": "orya-of-the-wheat-march-the-dragon-shepard",
+   "line": "The Dragon Shepard of the Village Concord of the Wheat March on the New World's Caedor plains, field partner to the Accord's harvest convoys, who guides drakes like flocks with Khyr of the Harvest, keeps the egg tithe, breaks Rot lines with warm drafts, and has spent forty years learning to turn a stampede."
+  },
+  {
+   "slug": "seravain-drelith-wyrm-crowned",
+   "line": "The Ivory Coil, Marchlord of Glass: a dragonkin trueblood of the Celestial Wyrmline, outside the Accord under Concord Sanctions with a Marchlord Exception, whose standing ground crystallises and does not revert, who cannot fight well apart from his formed ranks."
+  },
+  {
+   "slug": "saoren-vyrrakal-the-walking-flame",
+   "line": "The Walking Flame, dragonkin of the Molten Lineage rooted beneath Tres Aures: a former court performer of the Fire Blossom Empire, now free, contracted for courtly disputes and on the Accord's Ember-Tier bounty list, who wins before contact and pays for the fire in private (the card uses they)."
+  },
+  {
+   "slug": "lyra-drakoshi-pink-flame",
+   "line": "Pink Flame, the Blushscale Warden: a draconic Independent Concord Freeholder who keeps one road and one gate on the Outer World border for the Accord's watch posts, smells lies as sour smoke, answers to no throne, and once ended a border feud by heating the floor under two lords' boots."
+  }
+ ],
+ "events": [
+  {
+   "name": "The speaking-mold line on the Wheat March",
+   "when": "After Khyr chose Orya on a drought relief run (Orya, VII), in a harvest that came in under cold rain. It is the first season Orya and Daigo worked one route, the pairing Eryndrel Vaelune's card later finds and uses.",
+   "where": "The Wheat March on the Caedor plains, the ash plain of the New World's arc (WORLD §3 and §5; Orya's card: \"villages and grain routes along the New World's Caedor plains\"; the New World page: \"Ash plains that carry a crop in three seasons\").",
+   "who": [
+    "orya-of-the-wheat-march-the-dragon-shepard",
+    "daigo-tenryu-ribbon-ox"
+   ],
+   "what": "Cold rain lay on the Wheat March through the harvest, and a line of the Rot's \"speaking mold\" came up through the wet sheaves toward the villages. The Accord's harvest convoy stood at the field edge with its carts half loaded. Daigo Tenryū was travelling with it to keep the crowds at the carts moving. Orya walked the flank of the line with her crook and whistled cross-drafts through the stooks. Khyr went ahead of her breathing warm gusts over the grain, drying it and snuffing the Rot-fog, and she combed the crop behind him. The mold had already reached some mouths among the field hands. The villages began to crowd onto the road. Daigo tapped his horns together and walked the frightened into a marching column along the carts. Then he bit a dango and breathed out over the ones the mold had reached, and the warm sugar-dust cleared it from their mouths. The line broke short of the villages. The convoy carried the grain out dry. That night Khyr took a gourd off the lead wagon and sat on it, and Orya let him keep it until morning. What each took. Orya: a harvest carried out dry, and someone to take the crowd while she worked the flank. From that season the division Daigo's card records held: he herds people, she herds drakes. Daigo: a pasture brother, his card's word for her, and a route he has worked beside her since, where Eryndrel Vaelune later uses her ripples and his ribbons as moving posts."
+  },
+  {
+   "name": "The unfinished contest on the Braqth coast",
+   "when": "After Goraku Tenryū and Kurokiba Ranzou had each met Refraction by brewing from it (their Catalyst Events; Goraku's card calls it \"the same response\"), while Goraku led the Braqth Raiding Courts and the oni clans already called Kurokiba Brew-Sage.",
+   "where": "A feast hall of the Braqth Raiding Courts on the Braqth coast, in the Outer World (WORLD §3; Braqth ruled a real place, the Southern Pan, on 2026-09-12; Goraku's card: \"Outer World coastal Oni clans\"). The Southern Pan page gives the Braqthian confederations their standing-stone work in columnar basalt, the quarter's universal building stone.",
+   "who": [
+    "goraku-tenryu-the-crimson-gourd",
+    "kurokiba-ranzou-the-drunken-oni",
+    "daigo-tenryu-ribbon-ox"
+   ],
+   "what": "The Braqth courts held one of their domain-borne feasts, and the wandering Brew-Sage came in off the road to it. The hall set its war-leader against him in a drinking contest. Each man drank from his own gourd, Goraku from the Gourd of Endless Night and Kurokiba from the Red Horn Gourd, and the hall kept the pace with drums and chanting. Kurokiba's brew built in his blood, and the sake vapour off his breath hung over the benches. Goraku ran hotter with every draught, as his rite runs. Steam came off his skin. The blood-fire spilled around his seat each time he shifted on it, and he did not slow. Daigo Tenryū, his kinsman, was at the feast. He tapped his horns together, and the boom went through the basalt like a shrine drum. The hall took his beat, and the chant slowed under it. He went between the two men with his cords. With his teeth he tied a red cord on each man's wrist, on a quick promise: the contest would be finished on a night when he stood in the hall. Both men let him tie it. Nobody lost. Neither man has sat the second night. What each took. Goraku: a red cord on his wrist, and a contest he can finish only with his kinsman in the hall. His raiders saw him set the gourd down unbeaten. Kurokiba: his record whole, since he did not lose, and a cord that warms in his palm whenever Daigo tugs the other end. The oni halls tell the night both ways. Daigo: two cord-ends, and a night owed to him by each man."
+  },
+  {
+   "name": "The ceasefire at the gate on the Grass Sea road",
+   "when": "After Lyra Drakoshi had taken her road and her gate for good (her Catalyst Event, Lyra I); after Saórén Vyrrakal had left the court of the Fire Blossom Empire and gone free; with the Glass Marches already the ground the Marchlord of Glass stands in.",
+   "where": "A border road across the Southern Grass Sea, where the human marcher states meet Drakyssian ranch territory (WORLD §5, South; SW: the Grass Sea is \"Divided between human marcher states and Drakyssian ranch territory\"). Lyra's gate stands on it, with a local Guild Accord watch post and the inn. Her card names \"The Outer World border\" and no region; this record places it here.",
+   "who": [
+    "lyra-drakoshi-pink-flame",
+    "saoren-vyrrakal-the-walking-flame",
+    "seravain-drelith-wyrm-crowned"
+   ],
+   "what": "Two border lords had been feuding along the road, and they came to parley in the stone-floored hall by Lyra's gate. One of them had contracted Saórén Vyrrakal for the dispute, as champion and as show. The other had asked the Marchlord of Glass to stand behind his claim, and the Marchlord's formed ranks came up to the verge of the road. The watch post fired a flare for dragon-class muscle. Lyra came. She shut her gate to formed ranks and told the Marchlord that the table was open to him if he walked in alone. He left his ranks on the verge and came through the gate by himself, into a room where the other lord's champion was waiting. The chime on her horn stayed quiet while he walked behind her to the table. Saórén made the entrance they had been paid for, flame trails on the floor and the grin. Lyra watched it through to the end and told them it was good fire and a good show. She smelled the room. Both lords gave off sour smoke. The Marchlord gave off none, and under Saórén's perfume she could read nothing at all. When the lords began to call their champions forward, she heated the stone floor under their boots until the soles smoked, and she grinned while she did it. The hall laughed. The lords laughed with it, and both signed. The duel was never fought. The Marchlord walked back through the gate, and his ranks left the verge. The verge where they stood waiting has a glaze on it now, and the carts go round it. What each took. Lyra: a ceasefire on her road, one guest she smelled no lie on, and one she could not smell at all. Saórén: a contract closed before contact with nobody hurt, and the room won by someone else's fire. And a warden who took their fire and their show both, which is what their card says earns their protection. Seravain: a walk through a gate away from his ranks, at a warden's word, with the opposing champion in the room, and the walk back out. The claim he stood behind was settled, and his ranks never crossed the road."
+  },
+  {
+   "name": "The first truce-fair on the reopened road",
+   "when": "The trading season after the ceasefire at the gate.",
+   "where": "The same road across the Southern Grass Sea, at Lyra's gate.",
+   "who": [
+    "daigo-tenryu-ribbon-ox",
+    "lyra-drakoshi-pink-flame"
+   ],
+   "what": "With the ceasefire signed, the watch post sent for someone to anchor a festival truce, so that trade could open on the road under watchful dragons, as Daigo's card gives his duty. Daigo came. He set the fair's pace with his horns and turned the crowd at the gate into columns. People from both lords' lands came to trade across the old line. He tied their quick promises with red cords bitten into knots. Lyra kept the gate as the watching dragon the truce needed, and she stayed at the gate through the dancing. No blade came out that season. The traders came back the next season, and the one after. What each took. Daigo: cord-ends whose other ends sit in the palms of traders from both sides of an old feud. Lyra: a busy road. Some of the traders are the regulars her card finds at the inn."
+  }
+ ],
+ "ties": [
+  {
+   "a": "daigo-tenryu-ribbon-ox",
+   "b": "goraku-tenryu-the-crimson-gourd",
+   "kind": "kin",
+   "summary": "One Tenryū lineage of metabolic conversion on both cards, the degree unstated by ruling. At the Braqth feast Daigo stopped his kinsman's contest with his horns and a cord.",
+   "basis": "card"
+  },
+  {
+   "a": "daigo-tenryu-ribbon-ox",
+   "b": "orya-of-the-wheat-march-the-dragon-shepard",
+   "kind": "pasture brothers",
+   "summary": "His card: \"he herds people while she herds drakes.\" On the Wheat March he took the crowd and she took the flank; Eryndrel Vaelune's card works them as a pair.",
+   "basis": "card"
+  },
+  {
+   "a": "daigo-tenryu-ribbon-ox",
+   "b": "kurokiba-ranzou-the-drunken-oni",
+   "kind": "oath",
+   "summary": "Daigo's red cord on Kurokiba's wrist holds the Braqth contest over until Daigo stands in the hall, and it warms when he tugs it.",
+   "basis": "new"
+  },
+  {
+   "a": "goraku-tenryu-the-crimson-gourd",
+   "b": "kurokiba-ranzou-the-drunken-oni",
+   "kind": "rivals",
+   "summary": "Two oni who met Refraction by brewing; their contest on the Braqth coast stands unfinished, and neither lost.",
+   "basis": "new"
+  },
+  {
+   "a": "lyra-drakoshi-pink-flame",
+   "b": "seravain-drelith-wyrm-crowned",
+   "kind": "host and guest",
+   "summary": "He left his formed ranks on the verge and walked through her gate alone at her word; she smelled no lie on him.",
+   "basis": "new"
+  },
+  {
+   "a": "lyra-drakoshi-pink-flame",
+   "b": "saoren-vyrrakal-the-walking-flame",
+   "kind": "witness",
+   "summary": "She watched their show through, called it good fire and a good show, and ended the dispute they were hired for. She cannot smell them under the perfume.",
+   "basis": "new"
+  },
+  {
+   "a": "saoren-vyrrakal-the-walking-flame",
+   "b": "seravain-drelith-wyrm-crowned",
+   "kind": "rivals",
+   "summary": "Hired and asked for by opposite sides of one feud; he walked into the room where they waited, and the duel between their sides was never fought.",
+   "basis": "new"
+  },
+  {
+   "a": "daigo-tenryu-ribbon-ox",
+   "b": "lyra-drakoshi-pink-flame",
+   "kind": "comrades",
+   "summary": "He anchored the first truce-fair on her reopened road; she kept the gate as its watching dragon.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "daigo-tenryu-ribbon-ox",
+   "wants": "a hand of the Star Chamber's protocol corps (c07). Kaede Suyori · Blue Moth is on his card: \"She cools his over-eager pushes; he carries her through riot heat like a breeze.\" Kaito Akagiri and Vireline's Measures are the other doors his card opens."
+  },
+  {
+   "slug": "goraku-tenryu-the-crimson-gourd",
+   "wants": "an Outer World noble who trades influence over a cup: Vaelthyr Iscarn · Laughing Horn (c32), his \"occasional drinking partner\", whose own card does not yet name him."
+  },
+  {
+   "slug": "kurokiba-ranzou-the-drunken-oni",
+   "wants": "the Guild Accord broker who writes his contracts and files him as a \"wild contract\". The Accord's field blades (c13) or a contract clerk of the Divisions is the nearest pool."
+  },
+  {
+   "slug": "orya-of-the-wheat-march-the-dragon-shepard",
+   "wants": "Eryndrel Vaelune · The Trinebow (c10), the Aerial Ward ranger whose card uses her ripples and Daigo's ribbons as moving posts to stitch routes; failing him, a convoy master of the Logistics & Supply Division."
+  },
+  {
+   "slug": "seravain-drelith-wyrm-crowned",
+   "wants": "the Accord officer who keeps his file: whoever holds his Concord Sanctions and administers the Marchlord Exception, in Arbitration or Enforcement (c08, c13)."
+  },
+  {
+   "slug": "saoren-vyrrakal-the-walking-flame",
+   "wants": "a keeper of the Guardians of Tres Aures, under whose ground their lineage is rooted. Gorrum Vaelseth (c15) and Saruin Kye (c38) are bound to that order by their cards, and c15 asks for the same keeper."
+  },
+  {
+   "slug": "lyra-drakoshi-pink-flame",
+   "wants": "the captain of the Accord watch post who fires her flares, a field officer of Logistics or Enforcement. The post is on her card and has no face."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "The Walking Flame's name. The title and the Identity spell \"Saórén\". The Catalyst note reads \"Saóren has never described it as anything but a good night.\" (Saórén, I), and the stat note \"Saóren is spectacle with nothing underneath it.\" (IV). The roster and this record follow the title.",
+  "Orya and Khyr. Orya's card, V: \"She is not bonded to Khyr. She is bonded to a herd, and Khyr is the one with a name.\" The same card, VII: \"Bond\" and \"Khyr chose Orya during a drought relief run.\"; XI: \"Over-bonded to Khyr.\"",
+  "Daigo's gourd. Goraku's card: \"Both are oni. Both are gourd-and-festival built.\" (Goraku, head). Daigo's card carries dango skewers, the Skewer Fan, Tassel Cords and Ox-Charm Geta, and no gourd.",
+  "Whether Daigo and Orya know each other. Daigo's card: \"The two most similar sheets in the volume and neither knows it.\" (Daigo, XI). Eryndrel Vaelune's card: \"Orya & Daigo · Uses their ripples and ribbons as moving posts to stitch routes.\" (Eryndrel, X). The first reads either as two people who have never met or as two people who do not know their builds match; the second works them as a pair. The events above have them work one route, which Eryndrel's card needs, and neither is told of the likeness.",
+  "Kaede's pronoun. Daigo's card: \"She cools his over-eager pushes\" (Daigo, XI). Kaede's card uses they; c07 records the same disagreement from its side.",
+  "Goraku and Vaelthyr. Goraku's card: \"Vaelthyr Iscarn · Mutual respect, occasional drinking partner.\" and \"Both use each other for influence over Outer World affairs.\" (Goraku, VIII). Vaelthyr's card lists his relationships and does not name Goraku (`Vaelthyr Iscarn · Laughing Horn.md`, VIII)."
+ ]
+}

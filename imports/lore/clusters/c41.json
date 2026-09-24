@@ -1,0 +1,121 @@
+{
+    "id": "c41",
+    "name": "The Triune of the Three-Headed Serpent",
+    "era_span": "The Withering Era, set by this record: no card here states an era and no scene holds any of the four. Velcrissa was \"Formerly Chair of Temperance Studies at multiple Facultas\", and chairs are the academy posts The Guild Accord in the Modern Era describes, so the Triune's three events are set in that present, with no year number. Order: the hall at the Facultas, then the naming at Altherion, then the seam at the exclusion line. Each of the four lives one life in one era; Virelsa's card, a fae's, gives no lifespan, and none is lengthened.",
+    "members": [
+        {
+            "slug": "selantra-the-velvet-storm",
+            "line": "Aetheric alchemist and co-founder of the Triune of the Three-Headed Serpent, built as a matched set with Velcrissa and Virelsa; her pride is the wound she made load-bearing, she reads a failed working as Essence in an inconvenient basis, turns any failure into fuel and cannot take a hit, and her Catalytic Ribbons run only reactions she already knows, though she will attempt what she has never seen."
+        },
+        {
+            "slug": "velcrissa-the-dusken-bloom",
+            "line": "Shadow binder, Temperance guide and spiritual mediator, formerly Chair of Temperance Studies at multiple Facultas, second of the Triune; she stopped working alone, is quieter than the background, averts collapse by speeding a failing Crystal's settling, and works in a voice that arrives before her speech and is mistaken for weather, and she cannot do it loudly."
+        },
+        {
+            "slug": "virelsa-of-the-veilborne-skies",
+            "line": "Exiled Matron of the Triune, Spirit-Weaver of the Fallen Fae, formerly of the Fae Courts of the Higher Realms, third of the Triune; divine relics still answer her despite banishment, she reads outcast and condemned souls by their absence, binds to anyone and anchors nowhere, and holds the Twilight Bridge open for others while she cannot cross it herself."
+        },
+        {
+            "slug": "estrella-of-the-lattice-veil",
+            "line": "Occult medium and soul-binder, a peripheral agent of the Creviceward Circle, with a Half-Seer's Eye that sees in metaphor and sees what once was true; her Conjunction Rite sutures a spirit across a threshold it should not survive when she has known its shape, and she empties toward the depleted without deciding to."
+        }
+    ],
+    "events": [
+        {
+            "name": "The hall at the Facultas",
+            "when": "Before the Triune was named, while Velcrissa held a chair of Temperance Studies; before Selantra's Catalyst, which it occasions. Withering Era, no year.",
+            "where": "A Facultas in the Concord, the heartland's composite monarchy (WORLD.md section 3). No page names a Facultas or places an academy, and this record names neither the house nor the town.",
+            "who": [
+                "selantra-the-velvet-storm",
+                "velcrissa-the-dusken-bloom"
+            ],
+            "what": "Selantra worked before the Facultas in its hall. She ran her reactions along the conduits under her skin, faster than any Scholar on the benches could have prepared a spell, and she made a spectacle of them for the room. One reaction came back in a form she had never seen. She tried it anyway. The backlash ran into her through the conduits, and her Crystal began to fail in front of the hall. Velcrissa held the chair of Temperance Studies there. She stayed in her seat. Keeping her voice low, she hurried the failing Crystal on to its settling. The working reached Selantra before anyone heard Velcrissa speak, and the hall took it for a change in the weather. Selantra lived. The wound was to her pride. In the time after the hall she left it open and made it bear weight on purpose. What each took. Selantra: the wound to her pride, which she made load-bearing, the Catalyst her card records; since then her backlash is \"absorbed by pride and paid later\"; and a debt to the one woman in the hall who saw how near the failing came and hurried it to its settling. Velcrissa: the measure of Selantra, an alchemist who turns any failure into fuel and cannot take a hit; the hall never learned whose working it was, which her card gives as the price: \"Nothing anyone sees\"."
+        },
+        {
+            "name": "The naming at Altherion",
+            "when": "After the hall at the Facultas, once Velcrissa had given up the last of her chairs. Withering Era, no year.",
+            "where": "Altherion, the republic on the rim of the Ring, whose Republican Law \"Applies to every person within Altherion's territory regardless of guild affiliation, racial origin or institutional membership.\" (The Guild Seat of Stannvaard). A hired room in the city. No page gives the Triune a seat, and this record gives it none.",
+            "who": [
+                "selantra-the-velvet-storm",
+                "velcrissa-the-dusken-bloom",
+                "virelsa-of-the-veilborne-skies"
+            ],
+            "what": "Velcrissa came to Altherion without a chair. She had given up the last of them, and the fund that paid it, before she came. Selantra came with the backlash of the hall still carried in her pride. Virelsa met them in the city. In a hired room she spoke to the other two, and while she spoke the light that lies dormant in her flickered. Selantra had never seen that reaction. She tried it that night, alone, and it would not come, and the backlash went to her pride, as hers does. The three agreed there to work as one order. They named it the Triune of the Three-Headed Serpent. Its Matron was Virelsa. What each took. Selantra: the order her card says she co-founded, and a reaction she had seen once and could not run. Velcrissa: an order to answer to in place of a chair, and the two women her card says to read her with. Virelsa: the Matron's place in the Triune and two bonds she chose; the card still gives her no ground of her own."
+        },
+        {
+            "name": "The seam at the exclusion line",
+            "when": "After the naming at Altherion, once Estrella held the rite her card names. Withering Era, no year.",
+            "where": "The southern Crevice margin in the Outer World, at the line the Accord keeps around the Crevice, \"along which the rock stops obeying the ordinary rules at a distance the Accord has fixed at four leagues and revises upward roughly once a decade.\" (The Outer World, The Southern Pan).",
+            "who": [
+                "estrella-of-the-lattice-veil",
+                "virelsa-of-the-veilborne-skies",
+                "velcrissa-the-dusken-bloom"
+            ],
+            "what": "A man Estrella had known was carried out from inside the line. He was breathing. What he was had come away from him in pieces. Estrella could mend him, since she had known his shape. She could not reach all of the pieces. The Creviceward Circle, whose agent she was on its edge, sent for the Matron of the Triune, and Virelsa came to the line with Velcrissa. Virelsa read the man by what was missing from him. She joined the higher stratum, where the rest of him had gone, to the lower one where he lay, and she held it open. She stayed on her own side of it. Estrella sutured him across it with the shape she had known as the template, and the seam held. She emptied toward him while she worked, without deciding to. When it was done she could not stand. Velcrissa hurried her settling and sat the night with her. What each took. Estrella: the seam that held; the emptying her card names as the rite's cost; a debt to Velcrissa; and the use of a bridge she could never hold herself. Virelsa: the crossing, which bound her further, nearer the number of bonds her card says she can hold, and a bond to the Circle's medium. Velcrissa: a debtor on the edge of the Creviceward Circle."
+        }
+    ],
+    "ties": [
+        {
+            "a": "selantra-the-velvet-storm",
+            "b": "velcrissa-the-dusken-bloom",
+            "kind": "co-founders; debt",
+            "summary": "Each card names the other in the matched set of the Triune; this record adds the hall at the Facultas, where Velcrissa hurried the settling of Selantra's failing Crystal, and the debt Selantra carries from it.",
+            "basis": "card"
+        },
+        {
+            "a": "selantra-the-velvet-storm",
+            "b": "virelsa-of-the-veilborne-skies",
+            "kind": "co-founders; witness",
+            "summary": "Selantra's card names Virelsa in the matched set; this record adds the naming at Altherion, where Selantra saw Virelsa's dormant light flicker, a reaction she has never been able to run.",
+            "basis": "card"
+        },
+        {
+            "a": "velcrissa-the-dusken-bloom",
+            "b": "virelsa-of-the-veilborne-skies",
+            "kind": "co-founders; comrades",
+            "summary": "Velcrissa's card says to read her with Virelsa, and the two share the veiling current; this record adds the exclusion line, where Virelsa held the bridge and Velcrissa settled the medium who crossed the man over.",
+            "basis": "card"
+        },
+        {
+            "a": "velcrissa-the-dusken-bloom",
+            "b": "estrella-of-the-lattice-veil",
+            "kind": "debt",
+            "summary": "At the exclusion line Velcrissa hurried Estrella's settling after the rite emptied her, and sat the night with her.",
+            "basis": "new"
+        },
+        {
+            "a": "virelsa-of-the-veilborne-skies",
+            "b": "estrella-of-the-lattice-veil",
+            "kind": "comrades at a crossing",
+            "summary": "Virelsa held the bridge and Estrella sutured the man across it; one binds to anyone and anchors nowhere, the other threads anybody to anybody and little to herself.",
+            "basis": "new"
+        }
+    ],
+    "outward": [
+        {
+            "slug": "selantra-the-velvet-storm",
+            "wants": "An alchemist of the Alchemists' Society who came to the same rung by the same road: Serai Linthra (c12) holds Transmutatio as her primary current, as Selantra's list begins with it, and her Transcendence Catalyst turned her own body's contradiction into a discipline. c12 sets her in the Withering Era, where this record sets the Triune."
+        },
+        {
+            "slug": "velcrissa-the-dusken-bloom",
+            "wants": "A former Scholar of one of the Facultas whom she walked through a Threshold while she held a chair, and who owes her the passage. Her card's named inverse, Iskaron Thalnaris (c40), is a comparison of sheets and makes no meeting."
+        },
+        {
+            "slug": "virelsa-of-the-veilborne-skies",
+            "wants": "One of the Fallen Fae she is Spirit-Weaver for, or someone of the Fae Courts of the Higher Realms who stood at her banishment. Emilia Veirynthiel (c26) is a fallen fae cast out by the High Fae."
+        },
+        {
+            "slug": "estrella-of-the-lattice-veil",
+            "wants": "Someone the Crevice has marked, the kind her rite is for. Iskaron Thalnaris (c40), \"Creviceborne\" and \"Former Scion of the Outer Crevice\", came out of a Crevice-margin concentration, and his card says \"Something did not finish leaving with him.\" His card gives the Age of Calamity, which fits no count; the Weaver decides whether an era allows it."
+        }
+    ],
+    "same_person": [],
+    "card_contradictions": [
+        "Who founded the Triune, and in what order. Selantra: \"Co-founder of the Triune.\" Velcrissa: \"Second of the Triune; read with Selantra and Virelsa.\" Virelsa: \"Third of the Triune.\" Only Selantra's card says co-founder, and no card says whether second and third count founding, rank, or the order of the set. The roster's hinge calls all three co-founders. Section 3 names no founder's order.",
+        "What Virelsa was exiled from. \"Exiled Matron of the Triune.\" beside \"Formerly of the Fae Courts of the Higher Realms.\" and \"Divine relics still respond to her despite banishment\" (Virelsa of the Veilborne Skies.md). The card does not say whether the exile is from the Courts or from the Triune. Section 3 places no exile and sets her with the Triune in both of its events.",
+        "\"Velcrissa of Selantra\" (card against page). Transposition (Spellcraft): \"None of the four practitioners the card names, Velcrissa of Selantra, Zeven Halek and his combat partner Cylus, Thalorath the Gatewrought, or the Red Twins of Dorrosfenn, have a card or page anywhere in current canon\". The page reads one practitioner; the cards are two women. c17 records the same page's claim against Zeven Halek's card.",
+        "The name Virelsa (card against page). \"Virelsa the Breathweaver · A Cymorath Sage\" (The Sage Arts) against Virelsa of the Veilborne Skies, whose card carries no Cymorath. Whether they are one woman is not recorded.",
+        "Estrella's lunar harmonics. Her card carries \"Old Lunar Harmonics (pre-Atlas Moons)\" as flavour until a cosmology check is made. No event here uses it.",
+        "The Facultas and the chair (card against page). Velcrissa: \"Formerly Chair of Temperance Studies at multiple Facultas.\" The Guild Accord in the Modern Era: a chair is \"An endowed and appointed post, named for whoever endowed it.\" The card names the chair for its subject, and the word Facultas appears on no wiki page."
+    ]
+}

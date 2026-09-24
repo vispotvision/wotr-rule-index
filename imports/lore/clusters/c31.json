@@ -1,0 +1,178 @@
+{
+ "id": "c31",
+ "name": "Old World roads and chains",
+ "era_span": "No card states an era. Aren's village was lost to a Withering surge and Garu hunts Withering-touched wolves, so the frontier march stands in the Withering Era. Torven's family crossed from the Old World in the late Long Reckoning and he was born after the crossing. The Thunn-Gorr are long-lived by their cards' Hobgoblin measure, and the Old Chain's early circuits lie before Aren, Garu or Torven was born; he is joined to the march by record and legend only. The son's latest moment is the Scourge of Hell contract (scenes/The_Path_of_Sorrow.md); Torven's is the sixth year of the empire (scenes/the_revolution_of_the_inner_world.md). No year number.",
+ "members": [
+  {
+   "slug": "krothar-thunn-gorr-the-old-chain",
+   "line": "Crimson Order Hobgoblin of Gorr-Keth, about a hundred and forty, the Gorr-Keth Reaver of the Old World circuits and Chain-Father behind his back; took up the chain an Ironblood chief snapped on the shelf docks, fought seventy years on contract across four quarters without leaving a job unfinished, trained his son with chains and forged the son's suppressor chains; his card calls him retired."
+  },
+  {
+   "slug": "freda-thunn-gorr-the-caldera-wife",
+   "line": "Born Freda Vaal-Kess of a civilian shelf-island line, about a hundred and thirty-five, no practitioner; runs the Thunn-Gorr seat in the Keth-Gorrum and the papers that bring a mercenary's pay home, wears the ear-drop Krothar carved, keeps her son's room and his boyhood chains, and waits for him."
+  },
+  {
+   "slug": "krothar-veylshroud-the-chain-without-a-master",
+   "line": "Krothar Thunn-Gorr, called Veylshroud, about fifty, green-skinned and divergent from the Crimson Order; an unaffiliated mercenary in the Scourge of Hell with Saiya, who holds the rite that reseals the suppressor chains his father forged; the chains are straining, he has not written home, and the quiet place he wants is Gorr-Keth."
+  },
+  {
+   "slug": "torven-greis-the-merchant-lord",
+   "line": "Concord human, forty-nine, frontier-born son of Old World emigrants; watched a convoy master ruined by an uninspected bridge ward at seventeen, bought his first way-station with borrowed salt, and built the Greis Trading House of Chainward Landing and its eleven way-stations on the Iron-to-Salt Corridor; widower of Dalla, father of Edsen, whose stations the empire bought in a single morning in the revolution scene."
+  },
+  {
+   "slug": "aren-vallestride-stone-runner",
+   "line": "Human of Old World borderland farmstead stock, an apprentice courier on probation on a Guild Accord courier line along the frontier march; lost his village to a Withering surge, found his anchoring step alone, carries a dead outrider's sword to return to the outrider's family, and is trusted for the Hollow Ford Run and the Black Cart Ambush."
+  },
+  {
+   "slug": "garu-luneward-winter-hound-of-the-march",
+   "line": "Human and Lupine hybrid of an Old World northern strain, tail-less and without the Pack-Soul; a Hunter's Guild forward scout for the Caravan Families on the frontier march, who trust his tracking and understand little else of him; tracked the Vanished Sled Line through a whiteout and hunted the Gray Fang pack alone."
+  }
+ ],
+ "events": [
+  {
+   "name": "The caldera yard, the son's seventeenth year",
+   "when": "The son's seventeenth year, which Freda's card gives, before he left the Expanse; the father was home. On the cards.",
+   "where": "Gorr-Keth, the caldera yard of the Thunn-Gorr holdings on the caldera's western shelf.",
+   "who": [
+    "krothar-thunn-gorr-the-old-chain",
+    "freda-thunn-gorr-the-caldera-wife",
+    "krothar-veylshroud-the-chain-without-a-master"
+   ],
+   "what": "The boy trained in the yard with his father's chains, Binding Lash first. In his seventeenth year he passed his father's ceiling while both parents watched, and neither spoke of it then or since. His green skin had already told the Crimson Order he was not wholly theirs; the Order noticed, and the son left. What each took: the father, the gap between what he taught and what grew on it, and the words he would say later, \"I did not teach him what comes after.\" The mother, a subject she and her husband have never opened, and a room to keep. The son, his father's chain technique, his mother's patience and a skin the Order could read at a glance. The chains he trained with stayed on the yard wall."
+  },
+  {
+   "name": "The year of the suppressor chains",
+   "when": "After the son left the Expanse and before the Scourge of Hell contract, where the scene finds him already chained. On the cards.",
+   "where": "Gorr-Keth, where both parents' lines of that year were spoken; neither card places the forge or the ground where the chains were put on him.",
+   "who": [
+    "krothar-thunn-gorr-the-old-chain",
+    "krothar-veylshroud-the-chain-without-a-master",
+    "freda-thunn-gorr-the-caldera-wife"
+   ],
+   "what": "The father looked at his son's unmanaged output and made a decision: he forged sigil shackles for the son's wrists, forearms and throat, and the son accepted them. Freda was not there and watched from a distance she cannot close. The father then re-forged his own fighting chains in the same forge with the same inscriptions over the better part of a season, and told Freda what he had not taught; she said her own line in the caldera yard to no one. What each took: the father, a fracture accommodated and unhealed, and fighting chains re-forged where the shackles were made. The son, the leash he agreed to, which he asked for back himself after Death's Lance and which Saiya now reseals; the chains are fracturing around him and he has not contacted his father. The mother, the chains as the whole of the family's conversation about him."
+  },
+  {
+   "name": "The ford in the melt",
+   "when": "New. After the son left the Expanse and before the year of the suppressor chains, in Torven's early years on the corridor while he still loaded his own wagons (his card: the first fifteen years of his career). Both men young and close in age. No year number.",
+   "where": "A ford on the Iron-to-Salt Corridor, the Greis road between the Ring smelter camps of the Upper Ring and Ironlink Hold; which ford is not recorded.",
+   "who": [
+    "torven-greis-the-merchant-lord",
+    "krothar-veylshroud-the-chain-without-a-master"
+   ],
+   "what": "Torven hired a young Hobgoblin chain-fighter out of the Expanse, who gave a name and no island, to ride escort on an iron run. At a ford in the melt the river rose while the lead wagon was in it and the wagon began to go. The Hobgoblin threw a weighted chain round the wagon's tongue, planted on the bank and held it against the water while the teamsters cut the team free and dragged the load back. No iron went into the river, and Torven walked the ford himself next morning. What each took: Torven, a line in his supply book marking the ford as one that goes out in the melt, which no Greis wagon has crossed in the melt since; he paid the contract as written, walked that crossing every spring after, and did not stop expecting the next bridge to fail. The son, the pay, work on a road and his name in a merchant's book; he sent nothing home."
+  },
+  {
+   "name": "The Old Chain on the frontier march",
+   "when": "New. In the Old Chain's contract years, long before Aren or Garu rode the march; the telling reached each of them on the march in their own time.",
+   "where": "The frontier march of Aren's and Garu's cards, whose stock both cards give as the Old World; no card or page places the march, and the Old Chain's circuits (the Old World's western quarter, the Inner World frontier) cover it wherever it runs.",
+   "who": [
+    "krothar-thunn-gorr-the-old-chain",
+    "garu-luneward-winter-hound-of-the-march",
+    "aren-vallestride-stone-runner"
+   ],
+   "what": "The Caravan Families hired the Old Chain to escort their trains on the march, and every contract ran to its term. Their old hands still tell of the Hobgoblin who did not chase: when a raid came he planted with his chains in the ground and let it come to him, and when it broke he let it go. He spoke seldom and explained nothing; the Families trusted his work and understood little else of him. His pay went home to Gorr-Keth on the papers Freda kept. What each took: the Old Chain, finished contracts and a name still told on the march, which he has no way of knowing. Garu, the Families' measure of an outsider: they speak of the Old Chain and of their packless scout in the same terms, men whose work they trust and whose selves they cannot read. Aren, in his probationary year, after the march had seen him hold ground, heard old hands say he stood the way the Old Chain had stood; he took the story and the name."
+  },
+  {
+   "name": "The Hollow Ford Run",
+   "when": "Aren's probationary term on the courier line, Withering Era. The run is on Aren's card; Garu's part is new.",
+   "where": "A village on the frontier march, its bridge and its ford; the village's name is not recorded.",
+   "who": [
+    "aren-vallestride-stone-runner",
+    "garu-luneward-winter-hound-of-the-march"
+   ],
+   "what": "Garu was scouting ahead of a Caravan Families train that Aren's caravan-company travelled with, and downwind of a village he caught the scent of a Withering-spawned nest under its bridge. Had he left the nest he would have lost it, so he stayed on it. Aren ran the warning through the night on failing legs and reached the village before the nest moved; when it moved, the fight came to the ford, and Aren's anchors collapsed the crossing and cut the creatures off before they could swarm inland. What each took: Aren, the trust of the guards and civilians who were there, beyond his rank, and a scout who tells him first. Garu, a runner: when a warning has to go back faster than the train can move, he stays on the trail and sends it by Aren."
+  }
+ ],
+ "ties": [
+  {
+   "a": "krothar-thunn-gorr-the-old-chain",
+   "b": "freda-thunn-gorr-the-caldera-wife",
+   "kind": "kin (husband and wife)",
+   "basis": "card",
+   "summary": "They met on the shelf docks and married after six years' courtship; she is the reason he came home from every contract, and she runs the seat and the household while he is gone."
+  },
+  {
+   "a": "krothar-thunn-gorr-the-old-chain",
+   "b": "krothar-veylshroud-the-chain-without-a-master",
+   "kind": "kin (father and son); teacher and student; debt of the chains",
+   "basis": "card",
+   "summary": "He taught the boy the chain, Binding Lash first, and forged the suppressor chains the son wears; the chains are straining and the son has not contacted him."
+  },
+  {
+   "a": "freda-thunn-gorr-the-caldera-wife",
+   "b": "krothar-veylshroud-the-chain-without-a-master",
+   "kind": "kin (mother and son)",
+   "basis": "card",
+   "summary": "She raised him, keeps his room and his boyhood chains, and waits; he does not write or visit, knows she waits, and wants Gorr-Keth without having said so."
+  },
+  {
+   "a": "torven-greis-the-merchant-lord",
+   "b": "krothar-veylshroud-the-chain-without-a-master",
+   "kind": "employer and hired chain",
+   "basis": "new",
+   "summary": "In their young years a Hobgoblin with no island held a Greis iron wagon against a river at a ford in the melt; Torven paid the contract and wrote the ford into his book."
+  },
+  {
+   "a": "krothar-thunn-gorr-the-old-chain",
+   "b": "garu-luneward-winter-hound-of-the-march",
+   "kind": "predecessor and successor in the Caravan Families' trust, by record",
+   "basis": "new",
+   "summary": "The Families trusted the silent Hobgoblin's work long before they trusted the packless scout's, and they speak of the two alike; the two have never met."
+  },
+  {
+   "a": "krothar-thunn-gorr-the-old-chain",
+   "b": "aren-vallestride-stone-runner",
+   "kind": "legend",
+   "basis": "new",
+   "summary": "The march's old hands said the boy stood the way the Old Chain had stood; the Old Chain has never heard of him."
+  },
+  {
+   "a": "aren-vallestride-stone-runner",
+   "b": "garu-luneward-winter-hound-of-the-march",
+   "kind": "comrades (runner and scout)",
+   "basis": "new",
+   "summary": "On the Hollow Ford Run Garu found the nest and stayed on it, and Aren ran the warning and broke the ford; the shared road is on both cards."
+  }
+ ],
+ "outward": [
+  {
+   "slug": "krothar-thunn-gorr-the-old-chain",
+   "wants": "The Bugbear fishing family whose shelf dock the Ironblood chief broke when he was sixteen, who had fished it for four generations; the chain he carried home was theirs."
+  },
+  {
+   "slug": "freda-thunn-gorr-the-caldera-wife",
+   "wants": "A Keth-Gorrum office: the delegate who nominally holds the seat she runs, or the records division that has tried twice to hire her."
+  },
+  {
+   "slug": "krothar-veylshroud-the-chain-without-a-master",
+   "wants": "Sodoku Moto, already on his card and in scenes/The_Path_of_Sorrow.md; Sodoku is record-only, so the tie stays to what that scene records. Saiya, his sealer, has no card."
+  },
+  {
+   "slug": "torven-greis-the-merchant-lord",
+   "wants": "Edward Lambert, who set the valuation on the eleven way-stations and bought them in one instrument (scenes/the_revolution_of_the_inner_world.md)."
+  },
+  {
+   "slug": "aren-vallestride-stone-runner",
+   "wants": "The dead outrider's family, unmet, who are owed the blade."
+  },
+  {
+   "slug": "garu-luneward-winter-hound-of-the-march",
+   "wants": "Lupine kin at a distance: a wolfkin of an intact pack, with the Pack-Soul he was born without, who reads him as quietly wrong."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Whether the Old Chain still fights. His card: \"Retired from active mercenary/guild contract work.\" Freda's card: \"a household whose primary earner is a mercenary on contract across the world\". His own Loop and Desire: \"Leaves again because the distance is easier to manage from the outside.\" and \"To be done. He is not done.\"",
+  "Where the son is. The Old Chain's desire is to \"not think about what his son's Essence feels like from three islands away.\" Freda's card: \"She watched him leave the Expanse.\" and \"He does not visit.\" The son's card: \"Current Location: The Scourge of Hell\".",
+  "Where the green came from. Freda's card: \"Neither parent's coloring predicted it.\" The son's card: \"The result of his father's Crimson Order blood mixing with his mother's non-Order Vaal-Kess lineage.\"",
+  "The ceiling and the shackles. Freda's card has the son pass \"his father's ceiling\" at seventeen, and the father's card puts the father in Band IV. The son's card says the suppressor chains, applied after, were \"Forged for Band III.\" On the cards' own numbers the order does not close.",
+  "The marriage. Freda's card gives her \"~135\", a meeting \"at fourteen\", a courtship of \"six years\" and \"a hundred and twenty years of marriage\"; the sum is the Old Chain's \"~140\", and it closes only if the fourteen is his age.",
+  "The career. The Old Chain's card gives \"~140\", a departure \"at twenty-two\" and \"a seventy-year mercenary career\"; the son's card gives \"~50\". Seventy years from twenty-two end near the son's birth, yet Freda's card says \"She raised him on Gorr-Keth while his father was on contract\", and the Old Chain re-forged his fighting chains after the son's shackles were made.",
+  "Who holds the seat. The Old Chain's card: \"He has attended twelve parliamentary sessions in his life and voted in nine.\" Freda's: \"Not a delegate herself\" and \"whoever the delegate nominally is\". Both cards make the family \"high-island resident\" on Gorr-Keth and call the seat a \"shelf-island constituency seat\".",
+  "Card against scene, who wanted the chains. scenes/The_Path_of_Sorrow.md: \"Someone hadn't wanted him at full strength out here, and he hadn't asked why.\" scenes/CONTINUITY.md: \"Kroathar's suppressor chains, which someone put on him\". The son's card: \"The son accepted it.\" and \"He asked for them back himself after Death's Lance.\"",
+  "Card against scene, the son's name. The scene spells him \"Kroathar\" throughout; every card writes \"Krothar\".",
+  "Card against scene, who built the Greis house. Torven's card: \"He bought his first way-station with borrowed salt before he was nineteen.\" scenes/the_revolution_of_the_inner_world.md: \"The Greis Trading House had held the Iron-to-Salt corridor for two generations\" and \"Greis walked away richer than his father had died\".",
+  "Card against wiki, the seat. The Hobgoblin Expanse page gives the charter's \"prohibition on hereditary seats\" and \"twelve continuous years of residency before standing for election\"; the Old Chain's card: \"The Thunn-Gorr family holds a shelf-island constituency seat\". The same page puts Gorr-Keth among the high islands.",
+  "Card against wiki, the dock. The Old Chain's card: \"a visiting Ironblood warband chief break a fishing dock in half during a trade dispute\". The Hobgoblin Expanse page: Vorrak the Patient \"lasted eleven years, two months, and six days before breaking a shelf-island dock in half during an argument about fish pricing\". No page says whether these are one dock; no Lore names the Orc."
+ ]
+}

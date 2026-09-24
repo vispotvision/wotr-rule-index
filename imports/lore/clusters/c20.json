@@ -1,0 +1,164 @@
+{
+ "id": "c20",
+ "name": "The long memory",
+ "era_span": "Cross-era. The First Eon for Iracordas and Vethraun Ashmaw by their cards, both of whom WORLD §6 lets live across eras; the Epoch register for Kinjiki, made before the Planes separated and present in the current theatre; the Great Spirit War of Sanctum Lux's founding for Lucius (his card: Founding Era; the war has no place on the count); the late Imperial Age for Anryū (his card: late Imperial Calendar). Vorrn and Vaithesca are undated. No year number anywhere.",
+ "members": [
+  {
+   "slug": "iracordas",
+   "line": "The Architect of Despair, the Pale Shadow: a First Eon Pureblood Demon, one of the Seven Great Demonic Generals and Malakar's First Hand, who cultivates wrath until his enemies destroy themselves from within; his card records the Red Choir Massacre and the Ashen Siege of Veyr. No scene."
+  },
+  {
+   "slug": "lucius-xenotro",
+   "line": "Lucent Sea: human, Angelic-Blessed, twenty-two on his card, First Grand Paladin of the order his card spells Scantum Lux, blessed by Faisal; Malakar's plague killed his mother, and at seventeen he purified the infected at Veyr Chapel without burning them. No scene."
+  },
+  {
+   "slug": "vethraun-ashmaw",
+   "line": "The Hollow Throne: a Draconic Primordial of Omnis's line, First Eon, who ate the Inner World's Wellsprings into his core and wants to be reclassified a Titan; active below in the Ossuary Caldera, watched by Irath and opposed by Maelor. No scene."
+  },
+  {
+   "slug": "kinjiki-the-inversion",
+   "line": "The Inversion: an Ashkaru, Bairos's editorial instrument from before the Planes separated, a tool that outlived its use, who holds the present order a rough draft and means to correct it; six sealed reading threads; the only Ashkaru present in the current theatre. No scene."
+  },
+  {
+   "slug": "anryu-ichimonji",
+   "line": "The Pale Editor: a Solvari of the Pale Ledger, an archival order of the late Imperial Age, living in an unsanctioned archive beneath a Guild Accord registry; he reads before he acts and wants to rewrite the first Parun glyph. No scene."
+  },
+  {
+   "slug": "vorrn-the-fourth-weight",
+   "line": "The Fourth Weight: an Abythron construct built in Zar'thuun's domain from three destroyed civilisations, complete at his ceiling; his Void Descent, documented three times, leaves permanent Wellspring dead zones that the Black Concord files. No scene."
+  },
+  {
+   "slug": "vaithesca-oracle-of-the-end",
+   "line": "Oracle of the End: once a mortal woman, possibly a priestess of a forgotten Wellspring, fractured into a collision of three Wellsprings when a collapse of reality killed a monastery; she names endings that already exist and is aging back toward before her naming. No scene."
+  }
+ ],
+ "events": [
+  {
+   "name": "Veyr, in the plague-years",
+   "when": "The Great Spirit War, in which Sanctum Lux was founded (`Sanctum Lux.md`). It fell in the plague-years, when \"the Grand Demon Malakar released pestilences into the mortal world\" (Lucius's card). The siege came first. The cleansing came after it, in Lucius's seventeenth year. WORLD §1 leaves the war off the count, and no year is given.",
+   "where": "Veyr, the fortress-city of Iracordas's card, and Veyr Chapel within its walls (Lucius's card; `Sanctum Lux.md`). No page places Veyr in a quarter, and this record gives it none.",
+   "who": [
+    "iracordas",
+    "lucius-xenotro"
+   ],
+   "what": "Iracordas held Veyr for Malakar's side and never breached its walls. He worked on the defenders from outside. He fed the fury and mistrust already among them until the city was fighting itself, and his card keeps the result as the Ashen Siege of Veyr. When the siege ended, the city's survivors were carried into Veyr Chapel, infected. Lucius was seventeen. He purified them there without burning them alive, and the order's received account keeps the deed. The two never stood face to face. The walls Iracordas never breached stood between the siege and the chapel. Took: Iracordas: the Ashen Siege, a fortress-city held in collapse without a breach, one of the two deeds his card records. The survivors carried out of the chapel alive were the part of Veyr his work did not keep. Lucius: the First Cleansing. It is the first deed his card records after his mother's death, and the first proof of the doctrine the order later made him Grand Paladin for."
+  },
+  {
+   "name": "The monastery that went out",
+   "when": "Undated on both cards. It is Vaithesca's Catalyst Event, and it is one of the three Void Descents Vorrn's card documents. Which of the three is not recorded.",
+   "where": "The Outer World (WORLD §3). The ground is now a Dead Zone of the kind Drakyssia marks on its imperial flight charts (`The Outer World · The Southern Pan.md`). No page names the monastery.",
+   "who": [
+    "vorrn-the-fourth-weight",
+    "vaithesca-oracle-of-the-end"
+   ],
+   "what": "A monastery stood there. Among its people was a woman whom her card calls \"possibly a priestess of a forgotten Wellspring\". Vorrn came to that ground. The Abythron Plate opened along every crack at once. While it stood open he was a walking Void Fracture, and his passive bleed ran into the ground around him. Nihiloth and Tenebra are two of the three Wellsprings her card names at the collision, and they are the two that bleed runs on. Penanceflare met them there. Reality collapsed where the three met, and everyone in the monastery died. The woman's consciousness did not die with her. It fractured into the collision and stayed there, as the point where the three meet. When the plate closed, the region did not recover its Wellspring function, and the Black Concord filed the reclassification and kept the incident record. Took: Vorrn: a new crack in the plate, which will not repair. His card makes the cracks the record of every descent. By his card he does not investigate, and nothing in the record has him learn who was inside. Vaithesca: the day she stopped being mortal, and the node she became. Her memory begins after it. In her own words, \"I do not remember being born\" and \"I remember the moment after\"."
+  },
+  {
+   "name": "Three copies under the registry",
+   "when": "The late Imperial Age, which Anryū's card calls the late Imperial Calendar, in his years beneath the registry. It falls after the monastery's ground was reclassified.",
+   "where": "Anryū's unsanctioned archive beneath a Guild Accord registry building (his card). No page places the building.",
+   "who": [
+    "anryu-ichimonji",
+    "kinjiki-the-inversion",
+    "vethraun-ashmaw",
+    "vorrn-the-fourth-weight"
+   ],
+   "what": "The registry above him keeps filings its clerks enter and do not read again. Anryū reads them. Three he copied and set side by side in the archive below. The first is an instrument log of a Shell reading that flickers from one classification to another and back, entered with a note that nobody trusts it. That is Kinjiki's Shell, as his card describes it. The second is a sealwork return from the Ossuary Caldera. No Concord-seal set inside held on its own past six hours, and the emissaries who set them said it was like standing inside something that breathed. The third is a region reclassification from the Outer World, the monastery's ground, entered under the standing protocol for a Vorrn-class presence. It carries the reclassification and nothing of the incident, which the Black Concord keeps. He read each one through. He has acted on none of them. Took: Anryū: three records kept together under the registry. One of them is the log of a reader made before the first Parun glyph he means to rewrite. Kinjiki: nothing he knows of. His card gives him the fear that someone will read the original, and a mortal archive now holds his reading. Vethraun: nothing he knows of. The six hours stand in a mortal file. Vorrn: nothing. The entry names his class and none of his cracks."
+  }
+ ],
+ "ties": [
+  {
+   "a": "iracordas",
+   "b": "lucius-xenotro",
+   "kind": "enemy (opposite sides of Malakar's war)",
+   "summary": "Iracordas is \"the personal right hand of the Grand Demon Malakar\"; Malakar's plague killed Lucius's mother, and Lucius's light is built against demonic Essence and plague. Neither card names the other.",
+   "basis": "card"
+  },
+  {
+   "a": "iracordas",
+   "b": "lucius-xenotro",
+   "kind": "enemy (Veyr)",
+   "summary": "Iracordas held Veyr in collapse without breaching its walls; afterward, inside them, Lucius purified the infected survivors at Veyr Chapel. The walls stood between them.",
+   "basis": "new"
+  },
+  {
+   "a": "vorrn-the-fourth-weight",
+   "b": "vaithesca-oracle-of-the-end",
+   "kind": "cause and remnant",
+   "summary": "His Void Descent over a monastery in the Outer World killed everyone in it and made her; two of the three Wellsprings at her collision are the two his bleed runs on. Her memory begins after it, and he does not investigate.",
+   "basis": "new"
+  },
+  {
+   "a": "kinjiki-the-inversion",
+   "b": "vorrn-the-fourth-weight",
+   "kind": "made things (kin by making, through Bairos)",
+   "summary": "An editorial instrument Bairos authored and a construct built in the domain of a Titan whose Bonds name Bairos as provenance; both were made for a use, both govern a null, and both keep what strikes them. Neither card names the other.",
+   "basis": "new"
+  },
+  {
+   "a": "anryu-ichimonji",
+   "b": "kinjiki-the-inversion",
+   "kind": "witness; counterpart editors",
+   "summary": "The Pale Editor keeps the instrument log of the Ashkaru made to correct reality's text. One wants to rewrite the first Parun glyph; the other means to cross out everything not meant to be there. Kinjiki does not know the log has been read.",
+   "basis": "new"
+  },
+  {
+   "a": "anryu-ichimonji",
+   "b": "vethraun-ashmaw",
+   "kind": "witness",
+   "summary": "The Caldera's sealwork return, six hours and the breathing, lies copied in his archive.",
+   "basis": "new"
+  },
+  {
+   "a": "anryu-ichimonji",
+   "b": "vorrn-the-fourth-weight",
+   "kind": "witness",
+   "summary": "He holds the reclassification entered under the Vorrn-class protocol, without the incident record the Black Concord keeps.",
+   "basis": "new"
+  }
+ ],
+ "outward": [
+  {
+   "slug": "iracordas",
+   "wants": "one of the other six Great Demonic Generals. No card names them. The other road outward is Malakar's own house, now that the archive writes him dead: `scenes/the_true_king_of_the_north_part_18.md` gives Malakar a daughter, Selvara Kusho."
+  },
+  {
+   "slug": "lucius-xenotro",
+   "wants": "Sadara Izayoi, the First Hand under whom `Sanctum Lux.md` records him as First Grand Paladin. Or Epsilon, who codified the glyphwork."
+  },
+  {
+   "slug": "vethraun-ashmaw",
+   "wants": "a keeper of the sealed vault of Sublimatio, the Wellspring he means to take last, or one of the emissaries who carried Concord-seals into the Caldera. Maelor's search for someone to stop him has found nobody. It stays that way."
+  },
+  {
+   "slug": "kinjiki-the-inversion",
+   "wants": "a Moto of the present, one of \"Bara's other children\", met by someone who has not yet decided whether they are kin or evidence."
+  },
+  {
+   "slug": "anryu-ichimonji",
+   "wants": "a Yuno delegate who sat in the Shiun Convocation while he read every Crystal in the room. \"The Yuno have not forgiven him\"."
+  },
+  {
+   "slug": "vorrn-the-fourth-weight",
+   "wants": "the Black Concord officer who files his reclassifications, or the volunteer the Black Concord's counter would need to stay in the area. That counter has been proposed three times and tested by no one."
+  },
+  {
+   "slug": "vaithesca-oracle-of-the-end",
+   "wants": "one of those she has already spoken over, who carries the mark of their own ending."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "One Stage number, two names. Iracordas's card gives his Temperance Stage as X, \"Realization\". Vethraun's card: \"Stage 10, Dominion\", where \"the soul no longer negotiates with the world\". `The Sixteen Stages.md` names X \"Realization\". A Lore states neither.",
+  "The Hollow Throne. Vethraun's card lists \"The Hollow Throne\" among his titles. Vorrn's card: \"the accumulated doctrine becomes recognisable to a Hollow Throne\". Vaithesca's: \"recognition from a Hollow Throne\". `The Sixteen Stages.md`: \"Zenith is conferred, and the conferring party is a Hollow Throne\". His card sets him short of Zenith. One name, two things.",
+  "The order's name. Lucius's card spells it \"Scantum Lux\" in his title, his faction line and his Lore. `Sanctum Lux.md` and WORLD §4 spell it \"Sanctum Lux\".",
+  "Who founded the order, and whose doctrine it is. Lucius's card has \"The Founding of the Scantum Lux\", and says \"he became Grand Paladin because his doctrine proved holiness must become measurable protection\". `Sanctum Lux.md`: \"Sanctum Lux was founded during the Great Spirit War by Sadara Izayoi\", with Lucius \"recorded as First Grand Paladin\" beneath her. The same page makes the Ladder and the measuring doctrine \"thirty-five years old\", written by Darius and backdated to Sadara.",
+  "When Lucius lived against when Iracordas lived. Lucius's card: \"Founding Era\". Iracordas's: \"The First Eon\". `The High Empire of Eresse.md`: \"First Eon, Great Spirit War Era\". `Sanctum Lux.md` founds the order in the Great Spirit War, and WORLD §1 gives the war no place on the count. Whether the two lived in one age stays open. The Veyr event keeps them apart by walls.",
+  "Bara and Bairos. Kinjiki's card: \"Pre-Planar creation of Bairos, the First Epoch\", and of the Moto, \"Bara's other children\". `The Three Epochs.md` gives Bairos's true name as \"Bara (in the mortal tongue)\". `The Ashkaru.md`: \"Bairos's instruments before Bara existed\", and \"The Moto are Bara's children\". The card and the Epochs page join the two names; the Ashkaru page parts them.",
+  "Vethraun's age, within his card. \"First Eon: before the Guild Accord, before any Concord had names\"; \"Jaw of the First Age\"; \"First Eon, roughly 340 years into the Deep Age\". WORLD §1 maps the Deep Age to no era.",
+  "Vethraun's Concord rings, within his card. \"before any Concord had names\", against \"a necklace of Concord-marked rings and amulets\" and seals that are \"each a dead Concord-oath\". He is active in the present, and the card does not say when the rings were taken.",
+  "Vethraun's Inner World against the wiki's. His card: \"He ate it whole, absorbing its Wellsprings into his Triune Core\", and \"The Inner World's surviving settlements live on his exhale\". `The Inner World · The Northern Shield.md`: \"Ambient Wellspring saturation across the shield runs high and steady\". Nothing says whether his Inner World is the northern shield of WORLD §3.",
+  "Six Wellsprings, within Vorrn's card. It lists four harmonisations and folds Eclipseron and Oblivara \"as flavour rather than separate harmonisations; a single Shell holding six Wellsprings live has no precedent outside a Convergent build, and Vorrn is not one\". Its stat reading then says: \"Harmonics 60 in a being with six Wellsprings live in one Shell\".",
+  "The Imperial Calendar. Anryū's card: \"late Imperial Calendar\". The Errata page renames the Imperial Calendar the Imperial Age: \"Only the name of the age is corrected\"."
+ ]
+}

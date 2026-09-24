@@ -1,0 +1,129 @@
+{
+ "id": "c38",
+ "name": "Sun-Sealed and the horizon couriers",
+ "era_span": "No card states an era and no scene holds any member. Every event needs the Guild Accord with its Divisions, which the Concordance of Ages dates to the Voyager Era, so all fall in the Imperial Age after the Accord's founding; no card narrows it, and this record gives no era and no year. The cards' chapter numbers put all five in one stretch of one book, Chapters XIX to XXXIV, which dates nothing. The three events are unordered against one another.",
+ "members": [
+  {
+   "slug": "kaelen-raive-sun-sealed",
+   "line": "Warden of the Dawning Sigil, Solar Acolyte, Wellspring Arbiter and Bound Duelist of the Arbitration Division, its enforcer for truth-binding trials and sanctum duels; a living Parun seal on his chest blinds or sears and at full charge binds a Domain shut, a charge he must survive; lies and illusion fail near him; he cannot negotiate, holds honorary rank among the Outer World Sun-Monks, and answers to High Arbiter Selhane."
+  },
+  {
+   "slug": "rikkan-sahr-the-sand-skipper",
+   "line": "The Sand-Skipper, Horizon Courier of the Concord: Logistics and Supply runner between Concord-controlled Wellsprings across Outer World frontiers where Domain stability is low, and freelance smuggler for Zahiren Vahl; his luck holds only while he moves, he cannot fight and never has, reads Essence storms by their flow, and once paid soul-cost for a satchel whose contents the card does not give."
+  },
+  {
+   "slug": "saruin-kye-golden-laugh",
+   "line": "Golden Laugh, Cloud-Borne, Keeper of the West Wind: an independent Beastkin vagabond and relic courier for the Outer World's Sky-Trading Pavilions, loosely allied to the Kuromaki Association and in debt to the Guardians of Tres Aures; he rides a living cloud, turns sure hits into misses and holds failing bridges just long enough, and cannot hold ground, protect a place or end a fight."
+  },
+  {
+   "slug": "zahiren-vahl-the-horizon-eyed",
+   "line": "The Horizon-Eyed, Keeper of the Sand-Whisper Codex: harmonic historian, Wellspring cartographer and Arbitration Division ritual arbiter for ancient Wellspring rights among desert-bound peoples; sigils from the Horizon Wellspring burn in his flesh at a falsehood, he reads the history ground keeps and can erase it by reading carelessly, anchors the memories of the long dead to places, and has traded sealed-Wellspring cartography to Research and Archives for protection."
+  },
+  {
+   "slug": "cael-veridion-bearer-of-the-second-sun",
+   "line": "Bearer of the Second Sun, the Dawn-Brand: formerly the Arbitration Division's mediator in divine treaty disputes, transformed in the Heliarch Concord Collapse by the Dawn Vein Covenant that binds his soul to a Celestial Wellspring; his voice turns Domains within earshot, his auric blood heals and sears, the cracks along his arms are the irreversible price, and he is a free agent sought by the Concord and Outer World cults."
+  }
+ ],
+ "events": [
+  {
+   "name": "The reading of the Heliarch hall",
+   "when": "Undated. The Collapse is on both cards, and it is Cael's Catalyst. He was a mediator \"until his transformation during the Heliarch Concord Collapse\", \"and the Collapse is the Catalyst\". Zahiren's reading follows the Collapse and is new. It was the last matter Cael attended for the Division.",
+   "where": "The Outer World (WORLD §3 and §5). Neither card names the hall or its ground, and this record names none past the quarter. After the Collapse, Cael is sought by \"Outer World cults\". Every other member of this cluster works in that quarter.",
+   "who": [
+    "cael-veridion-bearer-of-the-second-sun",
+    "zahiren-vahl-the-horizon-eyed"
+   ],
+   "what": "The Heliarch Concord was a treaty with divine parties to it, and the Arbitration Division had Cael at its table as mediator. It broke. In the course of its breaking Cael took the Dawn Vein Covenant, and his soul was bound to a Celestial Wellspring. The Division wanted the Collapse on its record. It sent Zahiren to take it from the floor of the hall. He read it once, slowly. The floor held the treaty breaking and the parties turning on one another. Then it held Cael's voice, and every Domain within earshot turning toward it, and the hall going still long enough for the parties to go out of it. Zahiren spoke the reading into the Division's record with Cael standing in the hall. His veins pulsed through all of it and never burned. The cracks along Cael's arms had opened by then, and when the record was entered he left the Division's service. What each took: Cael: the Covenant and the cracks that pay for it. His part in the Collapse went onto the Division's record in the words of a witness whose veins burn at a falsehood. His service ended, and after it his card makes him \"a free agent with no official ties\". Zahiren: a reading he did not take twice. The floor gave him one voice turning every Domain in a hall, which his card says he distrusts. It also gave him the parties going out of that hall, and his card says he respects Cael's role."
+  },
+  {
+   "name": "The storm on the Drylands road",
+   "when": "Undated, and new. Rikkan was running for the Logistics and Supply Division and carrying Zahiren's cartography to Research and Archives. Kaelen was the Arbitration Division's Bound Duelist.",
+   "where": "The Varakh Drylands in the Outer World (WORLD §5). The Southern Pan page gives them \"Thorn scrub, dry woodland, red earth, salt pan, seasonal river\". The road ran from the ground where Zahiren handed the package over to the Concord-controlled Wellspring where Research and Archives took it. No page names either place, and this record names neither.",
+   "who": [
+    "rikkan-sahr-the-sand-skipper",
+    "kaelen-raive-sun-sealed",
+    "zahiren-vahl-the-horizon-eyed"
+   ],
+   "what": "Zahiren gave Rikkan a sealed package for Research and Archives. The road crossed a frontier of the kind Rikkan's card names, where Domain stability is low. Research and Archives asked Arbitration, the Division it votes with at the long table, for an escort, and Arbitration sent Kaelen. Neither man asked what was in the package. Out on the red earth an Essence storm came across the road. Rikkan read the run of it and took a line through its edge at a pace no escort could keep. Ground the storm had loosened held under his feet for as long as he kept moving on it. What the wind threw at him went wide. Kaelen could not follow at that pace. He set himself on the road under his own weight and stood while the storm went over him. When it had passed he walked the rest of the road alone. At the Wellspring the package had been handed over and signed for. Rikkan was sitting on the sanctum step. What each took: Rikkan: one more delivery time of the kind the Quartermasters reward with priority work. He also left his escort standing on the road. Kaelen: the speed his card says he values. He also saw a line hold on luck, the gambling with fate his card says he distrusts. Zahiren: a package delivered unopened, which neither carrier asked about."
+  },
+  {
+   "name": "The trial at the sanctum on the Dust Coast",
+   "when": "Undated, and new. Zahiren and Kaelen both served the Arbitration Division.",
+   "where": "The Aurelian Dust Coast in the Outer World, the mineral desert between the Drakhal Spine and the sea (WORLD §5). The Southern Pan page says Aether there is too weak for large dragons to nest, and \"smaller draconic houses, mining enclaves and mortal city-states\" hold it. The trial was held at the sanctum over a small Wellspring. No page names the Wellspring or the two peoples who claimed it, and this record names none of them.",
+   "who": [
+    "zahiren-vahl-the-horizon-eyed",
+    "kaelen-raive-sun-sealed",
+    "saruin-kye-golden-laugh"
+   ],
+   "what": "Two desert-bound peoples claimed the same small Wellspring, each by ancient right, and brought the dispute to the Accord. Arbitration sent Zahiren. He read the sanctum's ground. It kept both peoples at the Wellspring, each in its turn, further back than either people's own account of it. He said so. His veins pulsed and did not burn. Neither people would take a reading that gave the Wellspring to both, and one of them refused it outright and asked for trial. The Division sent Kaelen. The trial was set as a sanctum duel against that people's champion. The champion gave ground. Then he opened a Domain over the sanctum. Kaelen began the charge that binds a Domain shut. Before it was full, the champion's people broke the ring and came at the Warden from the sides. Saruin came down into the sanctum on his cloud. For as long as the charge took, the blows that should have landed on Kaelen missed him, and a wall of the sanctum that had started to fall held until the charge was full. The Seal bound the champion's Domain shut. His law stood suspended while the trial concluded, and the verdict was entered with the Division. Saruin was gone before it was read. Zahiren had not moved through any of it. When the sanctum was quiet he anchored what the ground held of both peoples' dead at the Wellspring to the sanctum floor, for whichever of them came to witness it. What each took: Kaelen: the verdict. He also came through the charge alive, kept so by a man who cannot end a fight. Saruin: the Warden alive at the end of the charge, and no part in the verdict, which he left before it was read. Zahiren: a mediation that ended where the Warden's work began, and a memory anchored at the sanctum for both peoples. The ground there now keeps the trial as well. The cloud coming down is in it with the rest, for any reader after him."
+  }
+ ],
+ "ties": [
+  {
+   "a": "kaelen-raive-sun-sealed",
+   "b": "rikkan-sahr-the-sand-skipper",
+   "kind": "escort and courier",
+   "basis": "card",
+   "summary": "Kaelen escorts Rikkan on hazardous deliveries; he values his speed and distrusts his gambling with fate, and on the Drylands road the courier left him standing in the storm and was sitting on the sanctum step when he came in."
+  },
+  {
+   "a": "kaelen-raive-sun-sealed",
+   "b": "saruin-kye-golden-laugh",
+   "kind": "debt, and the one who teases",
+   "basis": "card",
+   "summary": "Saruin pokes at him. He finds him too serious and shows up when it truly matters, and on the Dust Coast he kept the blows off the Warden until the charge was full."
+  },
+  {
+   "a": "rikkan-sahr-the-sand-skipper",
+   "b": "zahiren-vahl-the-horizon-eyed",
+   "kind": "courier and trusted contact",
+   "basis": "card",
+   "summary": "Rikkan carries Zahiren's sealed-Wellspring cartography to Research and Archives and brings maps and artifacts to him, and neither asks what is in the package."
+  },
+  {
+   "a": "zahiren-vahl-the-horizon-eyed",
+   "b": "cael-veridion-bearer-of-the-second-sun",
+   "kind": "professional acquaintance, and witness",
+   "basis": "card",
+   "summary": "Zahiren read the floor of the Heliarch hall into the Division's record with Cael in the room. He distrusts the voice that turned every Domain there. He respects what it did."
+  },
+  {
+   "a": "kaelen-raive-sun-sealed",
+   "b": "zahiren-vahl-the-horizon-eyed",
+   "kind": "mediator and enforcer of one Division",
+   "basis": "new",
+   "summary": "At the sanctum on the Dust Coast Zahiren's reading ended the talking, and Kaelen's duel gave the verdict."
+  }
+ ],
+ "outward": [
+  {
+   "slug": "kaelen-raive-sun-sealed",
+   "wants": "High Arbiter Selhane, his \"Mentor and political handler within the Arbitration Division\". Selhane has no card, and the card's check of the name against the Archon Selhar is open. Aurevian Lysanthir (c32) asks for Kaelen from his side, and Kaelen's card does not name him."
+  },
+  {
+   "slug": "rikkan-sahr-the-sand-skipper",
+   "wants": "A Quartermaster of the Logistics and Supply Division, the office that gives him \"priority assignments due to unmatched delivery times\". No card names one."
+  },
+  {
+   "slug": "saruin-kye-golden-laugh",
+   "wants": "A keeper of the Guardians of Tres Aures, to whom he owes \"more than one\" favour. Gorrum Vaelseth (c15) and Saórén Vyrrakal (c18) are bound to that order by their cards, and both records ask for the same keeper."
+  },
+  {
+   "slug": "zahiren-vahl-the-horizon-eyed",
+   "wants": "The officer of Research and Archives who takes his sealed-Wellspring cartography and gives him protection for it. His card sets Elder Seravain (c08) in that Division and makes no bond between them; the office is the need."
+  },
+  {
+   "slug": "cael-veridion-bearer-of-the-second-sun",
+   "wants": "Lyrielle Vaerenth, the High Elf who was his \"Political ally turned reluctant adversary after the Concord schism\". She has no card."
+  }
+ ],
+ "same_person": [],
+ "card_contradictions": [
+  "Five Judicium practitioners or six. Kaelen's card calls him \"the fifth Judicium practitioner in Volume IV\" (III). It adds \"Raive is the fifth Judicium practitioner in Volume IV, and the first who is primarily a fighter\", and \"he is the only one of the five with no diplomatic faculty at all\" (IV). The other four it names are Vaelen, Leontes, Riven and Maerion. Cael's card harmonises \"Judicium · Fulguria. Order, measure, consequence\" (III). It calls his sheet the widest gap \"on any sheet in Volume IV\" (IV). Either Volume IV holds six Judicium practitioners or Kaelen's count leaves Cael out. c08 already carries Maerion's \"the fourth Judicium magistrate in Volume IV, and the four form a clean set\".",
+  "Which Division Rikkan's runs for Zahiren serve. Rikkan's affiliation: \"freelance smuggling for Zahiren Vahl when the Arbitration Division needs \"off-the-record\" transfers\" (I). His relationship note: \"Zahiren gives sealed-Wellspring cartography to R.A.D. Rikkan is the man who carries it\" (VIII). Zahiren's card gives Research and Archives \"classified cartographic data for sealed Wellsprings in exchange for protection\" and names no courier (VIII). The direction differs too. \"Delivers sensitive maps and artifacts to him\" runs toward Zahiren; the note carries Zahiren's cartography away from him. This record's road event carries a package for Research and Archives and settles nothing about the Arbitration runs.",
+  "One collapse, or a collapse and a schism. Zahiren's card: \"his role in the Concord Collapse\". Cael's card: \"the Heliarch Concord Collapse\", \"the Collapse\", and \"Political ally turned reluctant adversary after the Concord schism\". No card says whether the schism is the Collapse.",
+  "Zahiren's quarter. His title is \"Concord Mediator of the Innerworld\". His work is \"especially among desert-bound or nomadic societies\". His card ranks the cartographers with \"Zahiren the deserts\", and his Signature grants survival \"in harsh Essence wastelands\". The Inner World page names no desert, and the deserts on the wiki are the Outer World's. This is a card set against the wiki. This record's events are all in the Outer World and leave the title standing.",
+  "The Sylvaar. Zahiren \"Holds informal alliances with the Sylvaar nomad caravans\". The wiki's Sylvaar are elven: \"the Sylvaar Dream Groves\" of the New World's old-ground, and the \"Sylvaar Wanderers\" of the Varrisak. A card set against the wiki. Florwyn, of \"Florwyn's Nomads\", is one of the Fourteen Titans on the wiki.",
+  "Selhane and Selhar. Kaelen's card: \"High Arbiter Selhane\" \"wants checking against Selhar, one of the fourteen Archons\". It adds \"the names are one letter apart and that is either deliberate or a slip\". Open on the card."
+ ]
+}

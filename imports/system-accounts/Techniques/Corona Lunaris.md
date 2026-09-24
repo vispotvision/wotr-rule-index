@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** A half-dome around one body returns incoming
+**The phenomenon in plain words.** A half-dome around one body returns incoming
 energy instead of letting it through, and the fraction it cannot return leaves as
 light.
 
@@ -127,9 +127,30 @@ coherent emission is that sentence doing its job. Crown Fatigue is not an Essenc
 cost at all: it is the focus's own thermal recovery, which is a physical-account
 line, and the page is right to keep it separate.
 
+**The lens: Goethe's *Farbenlehre*.** *Zur Farbenlehre* (1810). Goethe refused
+Newton's account and proposed instead that colour is *"the deeds and sufferings
+of light"* — that brightness is not a quantity carried through a medium but
+something that happens where light meets its own resistance, darkness being an
+active pole rather than an absence. As optics it lost, and it lost for good
+reasons. As a description of what this working looks like from the inside it is
+almost embarrassingly exact: the corona does nothing until it is struck, and
+*"the harder the corona is hit, the brighter it burns."* The light is the deed
+and the suffering both. Aurevane's register has a natural claim on the idea,
+since a Wellspring of illumination whose law only shows itself under assault is
+Goethean polarity with a Crown on it. And the misreading is the dangerous kind,
+because it is **comforting**: if brightness is the harm departing, then a
+brighter corona is a safer one, and a practitioner reads her own glare as a
+receipt. The page disagrees twice. *"A Wellspring current keyed to consume light
+rather than reflect it can feed on what the corona sheds"* — the light is
+material, and something can eat it. And a Void-aligned strike *"ignores the
+reflective law outright and passes straight through"* — there are things in the
+register that do not have a deed or a suffering to offer. What the shed light
+actually is, in joules, is the open question this account logs rather than
+answers (`SA-PHYS-CORONA-HARMLESS-LIGHT`).
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[RenB]` **Boundary** · Root ·
 Zhaeren — the exact form for a working whose entire content is *where the
@@ -170,6 +191,23 @@ the shed fraction is **removing the working's own thermal load**, and a mirror
 whose loss term is being drained runs closer to unity reflectance. On that
 reading the Darkness current is not feeding on the corona; it is cooling it.
 Offered as a candidate, not as canon.
+
+**What the target sees and feels.** An attacker's working reaches a half-sphere
+of standing Aurevane current and does not stop — it **disperses across the
+surface**, losing its lethal vector and going out sideways as light, and the
+flash scales with what was thrown. That is what a reflective boundary does:
+nothing arrives at the person inside, and the energy is still in the room. What
+the attacker feels next depends on what he brought. A fist or a blade meets no
+resistance worth the name — *"physical force is not converted, only transferred
+through as blunt impact"* — so the corona is, to a man with a hammer, a lamp. A
+strike from several directions at once *"outruns what the corona's refraction can
+resolve in time"*, and the vectors that do not get resolved arrive in full. The
+corona also announces its own budget: it holds two turns, or until it has
+converted a running total of **46 GJ** and shatters, so an attacker who keeps
+count is being told when it breaks. And the working has a physical anchor anyone
+can see — a hand on the Lunarch Crown and a spoken word. The Crown needs to cool
+between peak activations, which means there is a window after every hard save in
+which the save is not available.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card), so **30 percent of
 every expenditure leaves as heat, sound and structural bleed**. Here the bleed is
@@ -212,3 +250,66 @@ problem first and called it Glare. Four options are put to Isaac in
 **Conflicts logged from this page:** `SA-PHYS-CORONA-HARMLESS-LIGHT`,
 `SA-CROSS-CORONA-CROWN-100GJ`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | **Lunar Burn** — burned Essence pathways, headaches, light sensitivity and a distorted aura afterward — plus **Crown Fatigue**, an item-level cooldown between peak activations *inside the same scene*. A defensive working with a cooldown is the correct shape: it means the second crisis is not covered by the answer to the first. Unpriced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass, and they are hard** | 2 turns sustained, or until a cumulative **46 GJ** is converted and it shatters; half-sphere on herself or **one** nearby ally; **answers Aetheric attacks only** — a fist or a blade passes through as blunt or edged force; multi-vector attacks outrun its refraction; the Crown must cool. |
+| Something beats it | **pass, four ways, none needing a peer** | Multi-vector attack; a Void-aligned strike that ignores the reflective law; a light-consuming current that feeds on what it sheds; or simply hitting it with a stick. |
+| It has a tell | **pass** | A hand to the Crown and a spoken command, then a glowing half-sphere that gets brighter the better it is working. |
+| Numbers in band | **pass, with a deliberate correction on the record** | Stage V ⇒ allocation stops at 275, ceiling 350 under strain only, instability above 320 (Part Five) — and the page quotes that instability figure correctly. The 46 GJ threshold is the **upper energy bound of B-Grade** (Part Four), converted down from the source's uncapped 100 GJ *"since Stage V's own ceiling does not reach that far."* That correction is logged as a cross-page disagreement (`SA-CROSS-CORONA-CROWN-100GJ`), not resolved here. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the body — the register's own warning, made literal.** *"Shielding.
+  Nothing in the register stops a working by standing in front of it. … Neither
+  is a wall and both are written as one constantly."* The corona is the exact
+  thing that page is warning about, and the page **agrees**: physical force is
+  not converted. *"Shot"* and *"a volley is a volley"* both apply at full value
+  to a woman standing inside a light show.
+- **Break the boundary — the Crown is the anchor, and it is an object.** Stage V
+  is far below Refraction, so an external anchor is required, and here it is
+  *worn*. Take the Crown, foul the hand that reaches for it, or gag the command,
+  and there is no corona. This also makes her a **Runecraft-style** target in one
+  respect: *"damage the substrate"*, and the substrate is jewellery.
+- **Deny the field — Fulguria's four-century-old kit.** Family **Fulguria**:
+  *"fails against boiled leather, fired clay, dense fog and a shielded
+  interior."* And the register's dry note applies squarely to the light the
+  corona sheds — *"the counter-Fulguria kit has been leather and ceramic for four
+  centuries and it is not a secret; it is simply cheaper to ignore until somebody
+  dies of it."*
+- **Break the man — the cooldown, counted.** *"Make him hold Pressure in"* has an
+  item-shaped variant here: force a peak activation early, cheaply, with a
+  throwaway working, and then attack inside the cooling window. The saves are
+  rationed and the ration is visible.
+
+**The tell, stated plainly.** Hand to the Crown, a spoken word, a half-sphere of
+light. Its brightness reports how much of its 46 GJ budget it has already spent,
+so a patient attacker is reading a fuel gauge.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Corona Lunaris.md` — the Limit (Aetheric only), the 46 GJ
+   threshold, and the Crown's cooldown.
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "What Does
+   Not Work: Shielding", "Shot", and Fulguria's failure terrain.
+3. `wiki/The Magic System/The Four Crafts.md` — Law V, and what it means that the
+   anchor is an item she is wearing.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Fulguria — Electromagnetism.md`
+   — Aurevane's law of illumination, and the Wellsprings that eat light.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four for the B-Grade energy bound the 46 GJ figure comes from; Part
+   Five for Stage V's instability threshold.
+6. `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md`
+   — so a reader can work out what a 46 GJ budget actually buys, and how few
+   strikes at their own Grade it is.
+
+**Conflicts added by this section:** `SA-EM-CORONA-HARMLESS-VS-REDIRECTED`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

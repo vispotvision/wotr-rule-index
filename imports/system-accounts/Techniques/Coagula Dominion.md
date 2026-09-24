@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** Fifteen metres of air goes thick. Spellwork crossing it
+**The phenomenon in plain words.** Fifteen metres of air goes thick. Spellwork crossing it
 arrives late and weaker. Running through it is like running through syrup. A body
 moving on pure momentum passes untouched.
 
@@ -161,9 +161,30 @@ Stage VIII: **Radiant**. Crystal State: **Refined, overbuilt by design** (card).
 names. **This is the correct invoice shape for a sustained field and the page is one of
 only three in the batch to get it right.**
 
+**The lens: *solve et coagula*.** The alchemical axiom of the Latin corpus —
+"dissolve and coagulate" — read through Basil Valentine's *Azoth* (1613) and the
+Emerald Tablet tradition behind it. The operation the alchemists cared about was
+never coagulation alone but the **pair**: matter is dissolved to loosen its form
+and then fixed again, and neither half is an achievement without the other. The
+whole of Coagula's Core Law is the second half of that axiom done to Essence, and
+Drakvor's contribution is to run it **outward** rather than inward — the current
+that would gather a fractured Crystal back into one piece instead fixes the loose
+Essence of a fifteen-metre sphere, *"the way a supersaturated solution locks into
+a lattice the instant something gives it a nucleus to organise around."* The
+alchemists would have recognised the nucleus immediately; a seed crystal is
+exactly what their *coagula* step called for. The instructive misreading follows
+from taking the axiom seriously as a cycle. A school that reads the Dominion as a
+*coagula* operation will look for the *solve* that undoes it, and will bring a
+dissolving working to thin the field — meeting the medium on its own ground,
+which is the one approach the page rules out, since *"high-Tier Wellsprings
+overpower the coagulation outright"* only if they are already overwhelming. The
+answer the page actually gives is not to dissolve the medium but to **stop using
+it**: fly, or step. The lens teaches a practitioner to fight the field. The field
+is not the working's weakness; the medium is.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Knt]` **Knot** · Counter · Maelor — the
 other of the Index's only two Counter forms, and its description is this working:
@@ -205,6 +226,24 @@ diagnosis: "it does not distinguish between the two." Rib pressure that worsens 
 duration is a Shell under a load with no release valve.
 Boundary: the field's edge is a medium, so everything that does not use the medium is
 outside a boundary that was never drawn around it.
+
+**What the target sees and feels.** Two different fights, depending on what you
+are made of. A caster inside the radius does not lose his working — he watches it
+*arrive*, and arrive **late and undersized**, one full Tier Grade down from what
+he paid for. That is the cruel part, because it is not a failure he can diagnose
+mid-cast: the sentence completes, the Seal closes, and the result is an A-Grade
+result in an S-Grade man's hands. Per the standing differential rule a one-Tier
+gap *"wins a direct exchange of that stat category without meaningful contest"*,
+so the field does not need to stop anything; it needs only to make him the lesser
+man for as long as he stands in it. Anyone crossing on foot feels *"the air
+itself go to syrup"* and pays proportionately more Essence per stride — fought,
+not stopped. And the exemptions are visible from outside and worth memorising: a
+working already sealed inside a Crystal passes untouched, and a body moving on
+**pure muscular momentum** is invisible to the field entirely. A man who runs
+through on his own legs and swings his own arm has not been slowed at all.
+Meanwhile Drakvor is standing in the middle of it with the same law running
+through his own Shell, and the pressure behind his ribs is getting worse the
+longer he holds it.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.55 (card): **45 percent** as heat,
 sound and structural bleed, across 1.41×10⁴ m³, continuously, for as long as he holds
@@ -254,3 +293,72 @@ than rib pressure. Logged `SA-GAP-COAGULA-SATURATION` for Isaac.
 **Conflicts logged from this page:** `SA-NUM-ETA-TIER`, `SA-GAP-COAGULA-SATURATION`,
 `SA-GAP-EU-FORMULA`, `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`,
 `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass, and honestly built** | *"Drakvor is running Coagula's law through his own Shell at the same time as the field, and it does not distinguish between the two."* A **double draw**, located in tissue (rib-deep pressure) and explicitly *"worsening the longer it is sustained"*. The page even labels it: *"This is not decorative."* Unpriced in EU (`SA-GAP-EU-FORMULA`) and with no stated duration, so it cannot be turned into a countdown — the one weak seam. |
+| Stated limits | **pass** | 15 m sphere; declared, not reflexive, and requires committed attention plus a standing draw; **reaches only Essence loose in the air**; a working already sealed in a Crystal is exempt; a body on inertia is exempt; high-Tier Wellsprings overpower it. |
+| Something beats it | **pass, and cheaply** | The page names the route in its own Counter: anything that *"never asks the air's permission."* |
+| It has a tell | **pass** | Declared, sustained, and the medium visibly changes — the air goes to syrup for everyone including his own side. |
+| Numbers in band | **pass** | Stage VIII ⇒ Max Grade S, ceiling 550, Tier 6 (Part Five); card Tempering 515 / Dominion 500 / Gnosis 430 all S ✓; the one-Tier output penalty is the Fracture's own standing differential rule (Part Four) rather than a number the page invented. **η 0.55 against the Tier 6 floor of 0.70 is out of band** and was logged before this section (`SA-NUM-ETA-TIER`); the card's *"above 0.8 inside bastions he has personally tuned"* does not cover this working. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Deny the field — by routing, which is the page's own answer.** The field
+  thickens **ambient Essence**. A working that routes through Vectoria or Spatium
+  instead — flight, blink-step — *"never touches the medium Drakvor is
+  thickening."* This is *"choose the ground by Family"* run one level deeper: not
+  which room, but which medium. The register's Materia line, *"opinions and no
+  tools on open water"*, is the room-level version of the same move.
+- **Break the body — on inertia, with no Essence at all.** The field is
+  invisible to *"a body moving under its own momentum rather than Essence-borne
+  lift."* A thrown spear, a fired shot, a man sprinting on his own legs. *"Shot.
+  Chemically cheap, mechanically simple."* The single cheapest counter in the
+  batch, and it is written into the page's own Limitation.
+- **Break the boundary — one clean burst instead of a sustained draw.** The
+  page's Counterplay names *"high-clarity Spirit Path casters who can push a
+  working through in one clean burst rather than a sustained draw"*: the
+  discernment layer thickens around currents that are still drawing, so a working
+  that is finished before the field has read it is not a load-bearing current to
+  thicken. Sealing early, on purpose, beats a field that taxes duration —
+  compare *"Force the Seal early"* in the register, used offensively here rather
+  than against him.
+- **Break the man — Rigidity and attention.** The field is declared and holds
+  only while he commits attention to it. Give him two things worth attending to
+  outside the fifteen metres and the field is the one that lapses, because he
+  cannot follow either of them without leaving it.
+
+**The tell, stated plainly.** He declares it, he commits to a standing draw, and
+the air inside fifteen metres goes visibly and audibly thick. Everyone inside
+knows, including his allies, who are casting in the same syrup.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Coagula Dominion.md` — the Limitation (only loose ambient
+   Essence; inertial bodies exempt) and the Weakness (Vectoria and Spatium pass
+   clean through).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Choose the
+   ground by Family", "Shot", "Force the Seal early".
+3. `wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`
+   — Coagula's Core Law, and what it can and cannot gather.
+4. `wiki/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md` and
+   `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md`
+   — the two routings that bypass the medium, so a reader can find out which
+   Wellsprings actually qualify instead of guessing.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Four, the standing differential rule, which is what makes "one Tier
+   down" a sentence rather than a flavour note.
+6. `wiki/Volume I — Character Cards/Drakvor · The Black-Crowned Bastion.md` — his
+   η, and the bastion clause that does *not* apply here.
+
+**Conflicts added by this section:** none new. The page's faults were already
+logged (`SA-NUM-ETA-TIER`, `SA-GAP-COAGULA-SATURATION`); its Effect and its
+Mechanism deliver the same working, and its counter is stated in the page's own
+voice. **This is the fairest page in the batch.**

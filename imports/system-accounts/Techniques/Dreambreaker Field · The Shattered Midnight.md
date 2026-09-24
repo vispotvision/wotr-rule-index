@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** He claims forty metres of ground and inside it attacks
+**The phenomenon in plain words.** He claims forty metres of ground and inside it attacks
 travel on bent lines, timing stops being trustworthy, and nobody can read what a working
 just cost them.
 
@@ -145,9 +145,30 @@ declaration needs exactly that. Crystal State: **Refined, residue-heavy** (card)
 — a sensory cost, correctly located, and the physical account agrees: a practitioner
 inside his own GRIN medium sees through it.
 
+**The lens: Zhuangzi's butterfly.** *Zhuangzi*, ch. 2 ("Discussion on Making All
+Things Equal"), c. 4th century BCE: Zhou dreams he is a butterfly, wakes, and
+cannot establish which of the two is dreaming the other. The chapter's real
+argument is not about dreams but about **frames** — that "this" and "that" are
+positional, that the distinctions we argue from are not in the world, and that
+the wise response is to stop insisting on one side. No text fits this working
+better, because the field's whole operation is a refusal to settle: it *"overlays
+dream-logic onto waking physics inside the claimed radius, so the two disagree
+with each other rather than one replacing the other."* Not a substitution. A
+standing disagreement, held open by a Domain claim, with Somnalis keeping the
+contradiction legible to Aeldoris alone so that he is the only person inside who
+knows which adjacent possibility is currently being enforced. And here the lens
+inverts into the best piece of practical advice in the batch by being **exactly
+wrong**. Zhuangzi counsels release: stop adjudicating, and the distinction stops
+troubling you. The page's own Weakness says the opposite in one line — *"A Body
+Path anchor holding hard to physical law resists the distortion."* Inside the
+Shattered Midnight, the man who releases his frame is the man whose aim, timing
+and cost-reading go. The man who insists, stubbornly and without subtlety, on the
+room's ordinary law is the man who keeps them. A school that has read its
+Zhuangzi will counsel the first thing, and its students will die curved.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Et]` **Mirage** · Root · Kaetra. This is
 the single best glyph fit in the batch: a gradient-index medium producing curved rays
@@ -186,6 +207,23 @@ Ground already claimed by a Domain, or a Titan's presence, leaves the working co
 unable to take hold — and the page says the claim is *unmade*, not weakened, which is what
 a binary claim does. Boundary: the field is indiscriminate because an index gradient has no
 allegiance, and the page's own Consequence states the cost — allies included.
+
+**What the target sees and feels.** Forty metres of ground where two accounts of
+the room are both in force and neither is winning. An attack vector **curves**,
+and it is not an illusion of curvature — Eidolyn gives the contradiction enough
+Ardency Density that *"a curved trajectory or a slowed second is not an illusion
+inside the field but a locally true fact"* — so aiming off does not correct it.
+A second takes longer or less long than the last one did. Distance and timing are
+being routed through configuration space rather than the room's geometry, which
+means the shortest path between two points inside the field is a question with a
+different answer each time it is asked. Worst of the four, and the one that gets
+people killed: **Essence misalignment**, so a practitioner's reading of his own
+cost is wrong, and he spends without knowing what he has spent. The field holds
+evenly and *"fails all at once rather than fraying at the edges"*, because a
+Domain claim is recognised until it is broken outright — so there is no soft
+boundary to fight from, and no warning shiver before it ends. Aeldoris pays
+almost nothing for this: a flicker of his own contradictions (Double Vision) and
+a residue that stays in the ground afterward.
 
 **What bleeds, at the stated efficiency — and the card is above its band.** The card gives
 **η ≈ 0.65**, so **35 percent** of every expenditure leaves as heat, sound and structural
@@ -234,3 +272,70 @@ about the clock.
 **Conflicts logged from this page:** `SA-NUM-AELDORIS-INSTABILITY`, `SA-NUM-ETA-TIER`,
 `SA-GAP-DREAMBREAKER-TWO-BOUNDARIES`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **FAIL** | The stated costs are **Double Vision** — *"a brief sensory overlay of his own field's contradictions"* — and **Dream Residue**, which is a mark left *in the ground after the fight ends*. Neither degrades his output, neither is priced in EU or as a fraction of reserve, neither can reach Essence Starvation, and one of them is not paid by him at all. Against a working that spoils aim, timing and cost-reading for everyone else inside forty metres, that is not a price. Logged `SA-FAIR-DREAMBREAKER-COST-COSMETIC`. |
+| Stated limits | **pass** | 40 m radius; ≈15 s per sustained hold; **cannot be laid over an already-claimed Domain**; a Titan's presence unmakes the claim outright; bounded by Stage VII's A-Grade ceiling. |
+| Something beats it | **pass, and cheaply** | Four routes named on the page, none needing a peer: a grounding rune, a reality-lock invocation, an unclaimed Aether pulse, or a Body Path anchor. |
+| It has a tell | **pass** | Declared, and the claim is a visible forty-metre field that behaves wrongly from the moment it lands. |
+| Numbers in band | **FAIL, already on the record** | The technique's own figures are in band — Stage VII ⇒ Max Grade A with allocation stopping at 400, ceiling 475 *"under strain only"* (Part Five). The **card** is not: **Harmonics 430 and Dexterity 410 are S-Grade and sit inside Stage VII's instability zone, which Part Five says is reachable *"only under strain, never by allocation"***, and they are carried as standing values (`SA-NUM-AELDORIS-INSTABILITY`). η 0.65 is above the Tier 5 ceiling of 0.60 (`SA-NUM-ETA-TIER`). Both were logged before this section. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — a second claim, which is the whole answer.** Domain
+  Weaving works *"by the Attraction Layer claiming a radius and continuing to
+  recognise that claim until it is broken outright."* Recognition is the load-
+  bearing part, so contest the recognition: a reality-lock invocation reasserts
+  the Layer's ordinary reading, an unclaimed Aether pulse *"disrupts the field the
+  way any second claim would"*, and a pre-existing Domain cannot be overlaid at
+  all. In the register this is **Lock**: *"occupies a limit so no other limit can
+  be set there."* A defender who claims the ground **first** has beaten this
+  working before it was cast.
+- **Deny the field — a grounding rune, and insisting.** *"A Body Path anchor
+  holding hard to physical law resists the distortion."* This is the counter a
+  player has to read for, because it is counter-intuitive: against a field built
+  out of ambiguity, the answer is rigidity. A rune on a substrate does the same
+  job for a position rather than a person — and being Runecraft, it is beaten the
+  way Runecraft is beaten, so both sides are scraping at walls.
+- **Break the body — fifteen seconds and forty metres.** The field does nothing
+  to flesh. *"Distance"* takes it away entirely, and a formation that spreads
+  outside forty metres and keeps a line of fire open is fighting a man whose
+  working cannot reach it.
+- **Break the man — Somnalis is the seam.** He is the only person inside who can
+  read which adjacent possibility is being enforced, which means his advantage is
+  *information*, and information is what the register's *"Read him"* takes away:
+  *"Every thaumaturge has a pattern … and a pattern learned is a pattern
+  interruptible."* Fight him twice and the second field is much less use.
+
+**The tell, stated plainly.** He declares a claim on forty metres, and inside it
+the first thing anyone does goes wrong in a way that is obvious and specific:
+things curve. It is not a subtle working and it does not pretend to be.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Dreambreaker Field · The Shattered Midnight.md` — the
+   Limitation (no overlay on a claimed Domain; Titans unmake it) and the Weakness
+   (the Body Path anchor).
+2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Knot and
+   Lock", "Wards", "Distance", "Read him".
+3. `wiki/Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md`
+   — Part Twenty-Two, Domains and the Attraction Layer's recognition, which is the
+   page that turns "claim the ground first" from a trick into a rule.
+4. `wiki/The Magic System/The Four Paths Routing, Recognition and the Gate.md` —
+   what a Body Path anchor is and why it holds here.
+5. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — Eidolyn, Oneirion and Somnalis, and the coupling conditions for all three.
+6. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Five's instability-zone rule, which is how a reader discovers that two
+   of Aeldoris's own Primaries should not be where the card puts them.
+
+**Conflicts added by this section:** `SA-FAIR-DREAMBREAKER-COST-COSMETIC`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

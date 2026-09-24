@@ -14,7 +14,7 @@ method: imports/system-accounts/_method.md
 
 ## 1 · Physical account (physics)
 
-**The effect in plain words.** One person's sense of how long a second lasts is
+**The phenomenon in plain words.** One person's sense of how long a second lasts is
 pushed up or down, and their movements land off the beat they intended.
 
 **The real phenomenon.** **Attention-driven duration distortion** — the
@@ -116,9 +116,29 @@ her the same clock it bends." Memory Shear is misremembered event order — a Gn
 Retention degradation in the Core. Sleep Debt is Hypnather's business showing up
 on an Oneirion bill: recovery that can only be taken quiescent.
 
+**The lens: James's specious present.** William James, *The Principles of
+Psychology* (1890), ch. XV, "The Perception of Time". James argued that we never
+perceive duration directly: we perceive a *"specious present"* — a short saddle
+of time we sit on — and its felt length is set by how much the mind has to
+attend to inside it. An hour of novelty is long lived and short remembered; an
+hour of boredom is the reverse. Nothing in the clock changes, and everything in
+the report does. That is the whole of Oneirion's operation here, and the page
+says so in the same words from the other direction: *"attention density, not the
+clock, sets the felt rate."* The thread does not manufacture the effect; it
+decides which way an already-running accounting gets pushed. The lens also names
+the cost before the ledger reaches it — James's present is *stitched* out of
+overlapping fringes, and **Memory Shear** is what a stitcher does to itself by
+running other people's seams. The useful misreading belongs to a school that
+takes the working for time-bending rather than time-**telling**: it will send a
+chronometer into the field, find that the clock agrees with every other clock,
+and conclude that the affected man is lying or shirking. The chronometer is
+answering a question nobody asked. Motor timing slips a half-beat because
+intention is timed against the felt present, and the felt present is where she
+has her hand.
+
 ---
 
-## 3 · Mechanism
+## 3 · Mechanism (the effect)
 
 **Glyph (proposed; the page names none).** `[Tir]` **Hour** · Extension · Valen —
 a limit on duration, which is precisely and only what this working sets — laid
@@ -158,6 +178,21 @@ The Limit — nothing without a coherent dream underneath it — is the same
 mechanism read from the other side: a construct, a Wellspring husk or a Severed
 mind has no configuration-space trajectory with a duration-accounting on it, so
 there is no ratio to pin. Not resistance. **Absence of a boundary to move.**
+
+**What the target sees and feels.** A line of current from her hand to him, laid
+while she holds his eyes or an active Essence-lock, and then a fault between
+intention and body that he cannot locate. Nothing looks slow. Nothing looks fast.
+His footsteps land *"before or after they meant them to"* by about half a beat,
+and every correction he makes is timed off the same bad reference, so correcting
+makes it worse. At the slowed end the world does not appear to crawl; his own
+responses simply arrive late to events that seemed to leave him plenty of room.
+At the sharpened end he is early, over-committed, and spending twice the effort
+for the same ground. The honest tells are all on her side: the thread is visible,
+it runs from her hand, and it requires her to keep looking at him — a target who
+understands that eye contact is a **component** rather than a menace knows what to
+take away. Anything without a coherent dream underneath it feels nothing at all:
+no construct, no Wellspring husk, no already-Severed mind. Against those three
+the thread does not fail gracefully; it has nowhere to land.
 
 **What bleeds, at the stated efficiency.** η ≈ 0.70 (card), so **30 percent of
 every expenditure leaves as heat, sound and structural bleed**. Because the
@@ -199,3 +234,69 @@ what the standard requires.
 
 **Conflicts logged from this page:** `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+## 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | Two costs, both aimed at the faculty the working is made of. **Memory Shear** — *"she starts misremembering the order of events that just happened"* — degrades sequence in the practitioner whose whole technique is sequence. **Sleep Debt** requires deep, Wellspring-guided sleep afterward *"or risks involuntary dream-bleed mid-fight"*, which is a cost that arrives in the **next** engagement. Neither is priced in EU (`SA-GAP-EU-FORMULA`). |
+| Stated limits | **pass** | One thread at a time; single target; 500 m; line of sight **or** an active Essence-link; requires held eye contact or the lock to be maintained; 3 turns; nothing without a coherent dream-life can be threaded. |
+| Something beats it | **pass** | A Fate-keyed ward severs it outright; a sufficiently trained mind refuses the tempo; and the sleep debt is exploitable across a long fight. |
+| It has a tell | **pass, unusually strong** | A visible line of current from her hand, plus sustained eye contact she cannot break without ending the working. |
+| Numbers in band | **pass, one figure unsourced** | Stage VI ⇒ Max Grade A, ceiling 400, Tier 5 · Expert (Part Five) ✓; Gnosis 522 is S, a full Tier above the floor (Part Four). But the tempo shift itself — *"roughly a factor of two"* — is the page's own estimate, *"since the source gives no rate of its own."* In band by construction rather than by attestation. Logged `SA-GAP-CHORDA-TEMPO-RATE`. |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+
+- **Break the boundary — the eyes are the anchor.** Stage VI is below
+  Refraction, so *"a working requires an external anchor: voice, hand, ink or
+  blood"*, and this one requires all of the harder ones at once: a hand to lay
+  the thread from and a held gaze to keep it on. *"Put a hand over his mouth"*
+  becomes, here, break the line of sight. A Fate-keyed ward does the same job at
+  range by reading the thread's shape before it completes — *"Wards … are beaten
+  the way Runecraft is beaten"*, and wards are also how you beat a thread.
+- **Break the man — Exhaustion, in its one honest form.** The register normally
+  warns that *"a plan that consists of surviving until he tires is a plan to be
+  killed by a tired man."* This page is the exception it allows for, because the
+  cost is not vague fatigue but **dream-bleed mid-fight** on a second
+  engagement. Pressing the tempo of the *campaign* rather than the fight is the
+  counter, and it is a decision made days earlier.
+- **Deny the field — the three immunities.** A construct, a Wellspring husk and
+  an already-Severed mind cannot be threaded at all. This is the rare case where
+  *"deny the field"* is satisfied by choosing **who walks in** rather than where
+  the fight is: send the thing with no dream underneath it. Family **Limina**,
+  and the Counterplay register gives no terrain line for Limina
+  (`SA-GAP-COUNTERPLAY-TERRAIN`).
+- **Break the body — normal, and decisive.** The thread does nothing to flesh,
+  armour or reach. A half-beat of motor slip is a serious handicap in a duel and
+  almost nothing against *"numbers, correctly used."*
+
+**The tell, stated plainly.** She fixes her eyes on one person and a line runs
+from her hand to them. While it runs, she is watching one target and holding one
+thread, and both facts are visible to everyone else in the room.
+
+**The lookup trail.**
+
+1. `wiki/Techniques/Chorda Somnii.md` — the trigger's eye-contact requirement,
+   the one-thread limit, and the three things that cannot be threaded.
+2. `wiki/The Magic System/The Four Crafts.md` — Law V, and why a Stage VI
+   working must hang on something takeable.
+3. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Interrupt
+   the chain", "Wards", "Exhaustion".
+4. `wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`
+   — Oneirion's law, that it operates through conceptual rather than physical
+   space, and its coupling conditions.
+5. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+   — Part Seven, the Spirit-Path gates on Gnosis Cognition and Retention; Part
+   Four, for what "out-Stage her" would actually require.
+6. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md`
+   — Gnosis 522, and the rest of her repertoire, so a reader can work out that
+   taking her line of sight costs her three techniques at once and not just this
+   one.
+
+**Conflicts added by this section:** `SA-GAP-CHORDA-TEMPO-RATE`,
+`SA-GAP-COUNTERPLAY-TERRAIN`.

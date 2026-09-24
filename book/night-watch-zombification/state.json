@@ -1,6 +1,251 @@
 {
  "facts": [
   {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "time",
+   "fact": "Chapter 1 runs one night at Cutler Row, from the fourth division to the sixth; it is the same night the Ferriby tin was opened.",
+   "quote": "The same night, from the fourth division to the sixth."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "name",
+   "fact": "Yinzhi wrote her full four-part name (surname, generation character, given name, courtesy name) at the docket head in the lineage-hall hand; Wystan checked and blotted it; the name is never rendered on the page.",
+   "quote": "Surname, generation character, given name, courtesy name."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "fact",
+   "fact": "Yinzhi is entered on the Register docket as assay of record, over Wystan's signature as Warden of Duty for the Night Register.",
+   "quote": "He wrote *assay of record* under her name, and under that his own, *W. Ashmore, Warden of Duty, for the Night Register*, and the division."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "His hands tremor; the brass strike needed his elbow on the bench and his left hand pressed over his right.",
+   "quote": "He set his elbow on the bench and laid his left hand over the back of his right and pressed, and the tremor went down into the bench instead of into the seal."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "He has lived with the smell of brass wax for eleven years.",
+   "quote": "Resin came up off it, and under the resin a metal smell he had lived with for eleven years and still could not have named."
+  },
+  {
+   "ch": 1,
+   "subject": "Brass wax",
+   "kind": "fact",
+   "fact": "Brass wax is a dull yellow stick the Division issues only to its officers.",
+   "quote": "The Register's wax came out of the forms drawer: brass wax, a dull yellow stick the Division issued to its officers and to nobody else."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby wedge",
+   "kind": "number",
+   "fact": "The wedge's crown shows a quarter inch of new growth inside the sealed chapter tin, logged in the day-book margin as 'crown +¼ in sealed, 11d'.",
+   "quote": "The number was already in ink in the margin, *crown +¼ in sealed, 11d*, and the same eye an hour later would only give him the same number with less sleep behind it."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby wedge",
+   "kind": "fact",
+   "fact": "The growth continued inside a Fixatio tin whose seal was whole; Wystan recorded that in the day book.",
+   "quote": "Something in the tin had gone on running under a seal that was sold to the courts as a promise that nothing would."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby wedge",
+   "kind": "fact",
+   "fact": "Chain of custody: Tally cut the wedge in the North Ferriby cut; Yinzhi sealed it there under chapter wax on the 9th; the chapter's tin was found whole; its seal was broken at Cutler Row by the assay in the officer's presence.",
+   "quote": "Cut in the cut by Tally, N., and sealed there by the assay under chapter wax, the 9th."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby wedge",
+   "kind": "object",
+   "fact": "The wedge was moved by gloved forceps into a fresh Division Fixatio tin, sealed with brass wax and struck with Wystan's brass: Register file Ferriby, exhibit one.",
+   "quote": "Contents moved by forceps, gloved, to a Division tin; brass wax; struck."
+  },
+  {
+   "ch": 1,
+   "subject": "Chapter's tin",
+   "kind": "object",
+   "fact": "The chapter's emptied tin was left unwashed, upright at the far end of the scullery sill.",
+   "quote": "He stood it upright at the far end of the sill, away from the wash-tray, where nobody could put it in the vinegar by mistake."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby tin",
+   "kind": "fact",
+   "fact": "Wystan holds that the exhibit is no longer the Society's; the chapter may ask the Division in writing and will be refused.",
+   "quote": "From this division it is not the Society's."
+  },
+  {
+   "ch": 1,
+   "subject": "Chapter wax",
+   "kind": "object",
+   "fact": "Four pieces of the broken chapter seal (two from the front-room blotter, two from under the desk) fit the join; folded in a druggist's paper, labelled and dated, laid on the sill beside the tin.",
+   "quote": "He wrote on the outside, *Chapter wax, Timberline. Broken by the assay at Cutler Row in the officer's presence. Four pieces.*"
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "A taste of green from the wedge stays at the back of his tongue through three rinses and grounding tea; he does not record it. Unresolved.",
+   "quote": "He had nothing to put against that. He did not write it down."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Appearance: tall and narrow, hair tied at the nape and hanging to the waist, dark red in lamplight, a white line through the left eyebrow.",
+   "quote": "The black glass gave him back a tall, narrow man with his hair tied at the nape and hanging to the waist, dark red where the lamp caught it, and a white line through the left eyebrow."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "lie",
+   "fact": "LIE: Yinzhi tells Wystan her bracelet stopped pulling at the sink. It did not (her thumb is on the badly struck mark as she says it). Uncorrected; Wystan believes it.",
+   "quote": "It went quiet when you were at the sink."
+  },
+  {
+   "ch": 1,
+   "subject": "Tally",
+   "kind": "fact",
+   "fact": "Tally's insert was dated the 14th and is held open at the Night Register.",
+   "quote": "Your insert of the 14th has been read at the Night Register and is open here."
+  },
+  {
+   "ch": 1,
+   "subject": "Tally",
+   "kind": "promise",
+   "fact": "Wystan's letter asks Tally to rewalk the line as before the 11th, measure the same way and log each find at the time in a notebook kept on his person: a second dataset from the same observer.",
+   "quote": "I want a second dataset from the same observer."
+  },
+  {
+   "ch": 1,
+   "subject": "Tally",
+   "kind": "fact",
+   "fact": "The letter asks who set the parish marker on the Ferriby line and when, and what the animals drank or licked from.",
+   "quote": "Tell me what the animals on that line put their mouths to: water, licks, troughs, anything that is set out and filled."
+  },
+  {
+   "ch": 1,
+   "subject": "Letter to Tally",
+   "kind": "object",
+   "fact": "The letter is signed 'Night Register, Cutler Row' under brass wax and goes with the Society's bag in the morning bundle; the nine-word wire was rejected.",
+   "quote": "He signed it *Night Register, Cutler Row*, dropped a thumb of brass wax beside it, and set the brass in the wax."
+  },
+  {
+   "ch": 1,
+   "subject": "Night Register",
+   "kind": "fact",
+   "fact": "The Night Register has been one officer for four years, in a scullery on Cutler Row whose main goes off at the eleventh division; a Prime Warden's minute could fold it.",
+   "quote": "It had been true for four years, since the Division wanted a particular officer somewhere else and found him a scullery on Cutler Row with a main that went off at the eleventh division."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "number",
+   "fact": "Yinzhi was eight months capped and burned two coils.",
+   "quote": "If it comes to a hearing, and it will not come soon, somebody will stand up and say the assay was eight months capped and burned two coils and cannot say what she read."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "fact",
+   "fact": "Wystan sends Yinzhi home; she may tell the chapter the tin is under his brass at Cutler Row and they may write.",
+   "quote": "Tell them it is under my brass at Cutler Row and they may write."
+  },
+  {
+   "ch": 1,
+   "subject": "Qiu Yinzhi",
+   "kind": "fact",
+   "fact": "Yinzhi knows Wystan counts forty-two minutes, and tells him to eat something at the sixth.",
+   "quote": "\"Then you counted.\""
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby site",
+   "kind": "number",
+   "fact": "Eleven hinds and a stag died inside a quarter mile, the last twenty-two paces short of the parish boundary marker; clean ground beyond, checked twice by Tally.",
+   "quote": "The last of them twenty-two paces short of the parish boundary marker."
+  },
+  {
+   "ch": 1,
+   "subject": "Ferriby site",
+   "kind": "fact",
+   "fact": "Four ravens in the birch would not come down to the carcasses.",
+   "quote": "Four ravens in the birch that would not come down."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "His Register position, written in the day book under 'edges': a dose goes where it is put. (Held as true by him; see the misreading.)",
+   "quote": "A dose goes where it is put."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "misreading",
+   "fact": "MISREADING: Wystan concludes the formulator's dose stops where it was put, so every site will show a hard edge. True of Ferriby's first site only; false of every dose after.",
+   "quote": "Whatever the formulator had put into those animals had stopped where he stopped putting it, because a man who works at a distance from his own work has to choose the distance, and every site in the four counties would show the same hard margin once somebody walked it with a rule."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "number",
+   "fact": "The Ferriby hind is the forty-second minute in the back of his day book.",
+   "quote": "At the back of the book, on the pages he kept for them, he entered the forty-second minute beneath the other forty-one."
+  },
+  {
+   "ch": 1,
+   "subject": "Cutler Row",
+   "kind": "time",
+   "fact": "The main came back on at the sixth division; Wystan logged 'main on, 6th'.",
+   "quote": "The main came back at the sixth division."
+  },
+  {
+   "ch": 1,
+   "subject": "Day desk",
+   "kind": "fact",
+   "fact": "The Division's day desk is at the front of the same Cutler Row building, up four steps from the passage.",
+   "quote": "He lifted it the way he lifted everything, two fingers and a thumb at the rim of the lid and the base, and he took the docket form in the other hand, and he went out through the front room and along the passage, where the hum ran under the boards the whole length of the house, and up the four steps to the front of the building where the Division kept its day desk."
+  },
+  {
+   "ch": 1,
+   "subject": "Brack",
+   "kind": "fact",
+   "fact": "The docket book's Ferriby entry carries Brack's Bureau return: Wellspring bleed, Verdantia, tertiary expression, no operator indicated, no file; ruled off in red and marked closed.",
+   "quote": "Two lines had been ruled under it in red."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan's memorandum opens Register file Ferriby under the red rule, does not dispute the measurement, and puts 'edges' in the margin by Brack's line; the docket form is folded in at the page.",
+   "quote": "In the margin, level with Brack's line, he wrote one word."
+  },
+  {
+   "ch": 1,
+   "subject": "Day clerk",
+   "kind": "fact",
+   "fact": "An unnamed day clerk (about fifty, bald crown with grey fringe, wen by the nose, brown coat buttoned wrong, black sateen oversleeves) reads only Brack's line, calls it closed and shelves the book unread.",
+   "quote": "He shut the book over the memorandum, over the folded docket and the one word in the margin, took it off the lectern in both arms and slid it into its place on the shelf behind the counter, spine out."
+  },
+  {
+   "ch": 1,
+   "subject": "Wystan",
+   "kind": "object",
+   "fact": "At the end of the night the Ferriby tin sits on the scullery sill beside the chapter-wax fold, with his brass lying on the lid.",
+   "quote": "Wystan picked up the tin by its rim, two fingers and a thumb, and carried it back down the passage over the hum to the sill, and set it beside the fold of chapter wax, and laid his brass on the lid."
+  },
+  {
    "ch": 3,
    "subject": "Wystan",
    "kind": "time",
@@ -230,7 +475,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 7,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "Wystan's letter asks Tally who set the parish marker and what the animals on the line drank from; Tally's clean far side, checked twice.",
+     "quote": "Tell me who set the parish marker on the Ferriby line, and when, if anybody knows."
+    }
+   ]
   },
   {
    "hook_id": "H02-quarter-inch-sealed",
@@ -243,7 +495,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 58,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "A quarter inch of new growth under an unbroken Fixatio seal, logged 'crown +¼ in sealed, 11d'.",
+     "quote": "Something in the tin had gone on running under a seal that was sold to the courts as a promise that nothing would."
+    }
+   ]
   },
   {
    "hook_id": "H03-chapter-wax",
@@ -256,7 +515,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 58,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "Four pieces of chapter wax fit the join, folded and dated for custody.",
+     "quote": "The day somebody wants to say this tin was opened on the road, I want four pieces of chapter wax that fit a join, and a paper round them dated before anybody asked."
+    }
+   ]
   },
   {
    "hook_id": "H04-tallys-second-dataset",
@@ -269,7 +535,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 41,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "Wystan asks Tally for a notebook kept on his person: a second dataset from the same observer.",
+     "quote": "I want a second dataset from the same observer."
+    }
+   ]
   },
   {
    "hook_id": "H05-night-register-a-person",
@@ -282,7 +555,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 68,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "The bulletin clerk told Tally the Night Register was a person; one line in a minute could fold the desk.",
+     "quote": "A desk could be folded into another desk by one line in a Prime Warden's minute."
+    }
+   ]
   },
   {
    "hook_id": "H06-edge-held-cup",
@@ -295,7 +575,14 @@
    ],
    "planted_ch": 1,
    "due_ch": 78,
-   "status": "planned"
+   "status": "planted",
+   "events": [
+    {
+     "ch": 1,
+     "what": "Wystan holds his tea by the rim, thumb and two fingers, away from his palm.",
+     "quote": "He gave her one and took the other to the window, and he held it there by the rim, the thumb on one side and two fingers on the other, so that none of the heat came near his palm."
+    }
+   ]
   },
   {
    "hook_id": "H07-warm-hands",
@@ -547,6 +834,11 @@
    "status": "advanced",
    "events": [
     {
+     "ch": 1,
+     "what": "Wystan writes 'edges' in the docket-book margin level with Brack's line.",
+     "quote": "In the margin, level with Brack's line, he wrote one word."
+    },
+    {
      "ch": 3,
      "what": "Lyle reads 'edges' in the margin; the position goes into her minute.",
      "quote": "She read *edges* and the plain sentences underneath it, and then *A dose goes where it is put*, and took up her pen, and copied the line into the minute in a small upright hand, and wrote the date and the division beside it."
@@ -566,6 +858,11 @@
    "due_ch": 67,
    "status": "advanced",
    "events": [
+    {
+     "ch": 1,
+     "what": "Brack's Bureau return in the docket book: bleed, no operator, no file; closed.",
+     "quote": "A day clerk had entered it in the copying hand, the Bureau's return pinned to the leaf beside it, signed in its own ink: *Wellspring bleed, Verdantia, tertiary expression, no operator indicated. No further action. No file. E. Brack, Lattice Classification Bureau, northern office.*"
+    },
     {
      "ch": 3,
      "what": "Brack stands by bleed and says he would sign it again.",
@@ -686,6 +983,11 @@
   }
  ],
  "summaries": [
+  {
+   "ch": 1,
+   "title": "The Docket Head",
+   "summary": "Wystan checks and blots Yinzhi's full name at the docket head and enters her as assay of record. Gloved, he moves the Ferriby wedge with forceps into a fresh Division Fixatio tin, seals it with brass wax and strikes his brass into the seal. He logs it in the day book as Register file Ferriby, exhibit one, \"crown +¼ in sealed.\" He collects the four pieces of chapter wax. He folds them in a druggist's paper, dated, for custody. Over grounding tea he asks whether the bracelet is still pulling, and Yinzhi says no. He rejects a nine-word wire and writes Tally a letter: walk the line and measure into a notebook, a second dataset from the same observer, who set the marker, and what the animals put their mouths to. He signs it \"Night Register, Cutler Row.\" He enters the Register's position, \"A dose goes where it is put,\" and records the forty-second minute. The main returns at the sixth division. At the day desk he writes his memorandum under Brack's closed classification, with *edges* in the margin. A day clerk reads only the classification and shelves the book."
+  },
   {
    "ch": 3,
    "title": "The Morning Check",

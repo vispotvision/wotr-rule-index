@@ -26,6 +26,12 @@ Nine, and whatever `load_rules` returns newer.
    Grade required, Path gate if any, Resonant Pair if any. Every figure from
    `fow_line` or Fracture_of_Worlds; estimates labelled.
 
+6. The fairness pass (`wotr-write/references/fair-play.md`): the cost that hurts, the stated limits, the
+   Counterplay route that beats it, the tell, numbers in band for the Stage.
+   Then the lookup trail: which pages a player would have to read to find the
+   counter. And the lens: the philosopher or historical theory the stratal
+   account draws on, credited in the notes.
+
 The swap test: if two characters exchanged abilities and neither read as
 wrong, neither ability is working.
 

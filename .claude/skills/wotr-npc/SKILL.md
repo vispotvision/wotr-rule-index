@@ -10,6 +10,10 @@ furniture. This skill produces a roster entry and the first-sight paragraph.
 
 ## Before building
 
+An NPC knows only what it could learn in-world and plays that well; the
+writer's meta knowledge never becomes the NPC's omniscience (`wotr-write/references/fair-play.md`).
+
+
 `roster(thread)` to see who exists; `wiki(query)` and `grep -ril` under
 `wiki/` for a name or role already filed. Never duplicate. Load the culture's Standing
 Inventory (`desktop/inventories/<culture>.md`): the NPC's food, oaths, time-words and proverbs come from it.

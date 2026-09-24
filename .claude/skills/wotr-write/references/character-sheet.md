@@ -9,6 +9,10 @@ has the no-second-card procedure).
 
 ## Before writing
 
+A sheet's abilities pass the fairness checks in `wotr-write/references/fair-play.md`; its vow, failure
+terrain and tells are written so a player who reads the card can find them.
+
+
 1. `character(name)` if a card exists. `convert_character(source)` for old
    material (a Trello export, an old sheet): it returns the conversion brief on
    the current system; work from the brief, not the old text.

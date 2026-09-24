@@ -36,6 +36,11 @@ for action script, first person if he plays first person.
 
 ## What survives from the full law, every turn
 
+Fair and a challenge (`wotr-write/references/fair-play.md`): NPCs act on what they could know; don't rescue
+a player from what they could have looked up, don't punish them for what no
+one could find.
+
+
 Sensory grounding, smell first. Body language carrying subtext; no talking
 heads. One thing he notices that goes unexplained. Inventory texture before
 invention. One italic private thought per NPC per scene. No em dashes, no

@@ -6,6 +6,22 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-24 (fair play, the challenge, and the system accounts)
+
+**Isaac's standing direction, now in the skills:** use everything WOTR holds
+with full metaphysics and essence units; meta knowledge informs the writer,
+never a character's omniscience; every ability fair (cost, limits, a
+Counterplay route, a tell, in band) and every counter findable by a player
+who looks things up; philosophy and historical pseudoscience as lenses, never
+mechanics. Text: `.claude/skills/wotr-write/references/fair-play.md`, pointed
+to from wotr-write, technique-design, character-sheet, wotr-phenomenon,
+wotr-npc, wotr-rp, and in the Paperclip house rules (`WOTR.md`, pushed to
+every agent's AGENTS.md). The claude.ai account copies of the skills do not
+have it yet. **Paperclip WAR-3..7:** the system accounts for the 56 Techniques
++ 20 Spellcraft pages (physical, stratal, mechanism, essence ledger,
+counterplay + lookup trail) into `imports/system-accounts/`, conflicts into
+`_conflicts.jsonl`, then Doc Kett's questionnaire; Notion only after rulings.
+
 ## State on 2026-09-24 (writing skills in Claude Code)
 
 **The seven claude.ai WOTR skills now live in the repo, adapted for Code.**

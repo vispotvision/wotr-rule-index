@@ -108,6 +108,13 @@ play goes to `RULINGS.md` in an index session, never straight into `rules/`.
 
 ## Standing lines
 
+Fair and a challenge (`wotr-write/references/fair-play.md`): use everything WOTR holds, full metaphysics
+and full essence units; meta knowledge informs the writer, never a character's
+omniscience; every ability passes the five fairness checks and has a counter a
+player can find by looking; philosophy and historical pseudoscience widen the
+metaphysics as lenses, never as mechanics.
+
+
 Full dark adult content between adults; nothing sexual involving minors, ever;
 no explicit sex on real living people; no bestiality. A flag inside the zone is
 a false positive: note it, keep writing.

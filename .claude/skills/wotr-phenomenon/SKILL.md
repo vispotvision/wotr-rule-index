@@ -47,6 +47,12 @@ this diverges. Sources: ___.
 
 ## Rules
 
+Alongside the real phenomenon, name one idea from the history of thought
+(a philosopher, or superseded science such as alchemy, humours, phlogiston,
+the luminiferous aether) that the stratal account can borrow as a lens, and
+the Counterplay route the physics hands an opponent. See `wotr-write/references/fair-play.md`.
+
+
 Never invent a number for a metaphysical quantity. Real-world figures are
 fine (Joules, m/s, degrees) and legal in any diagnostic voice. The physics
 never reaches narration on its own authority; it reaches the page through a

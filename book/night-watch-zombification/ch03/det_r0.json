@@ -1,0 +1,9 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# The Morning Check","problem":"none","evidence":"verify --band set-piece --culture Accord: PASS, 0 fail, 0 warn; flat runs 1 (fail at 4); sentence CV 0.84; last line ends on NPC line + physical action","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# The Morning Check","problem":"none","evidence":"3635 prose words (verify), 3639 wc -w; target 3500, allowed 2800-5250","fix":"none"},
+{"severity":"info","pass":"shape","quote":"I did not send for Master Brack.","problem":"none","evidence":"both declared sentences in notes_r0.md (the lie and the misreading) found verbatim in the draft, once each","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# The Morning Check","problem":"verify counts 5 italic interior beats; notes say only one italic thought (Wystan's). The other italics are the written record and Lyle's minute text, not thoughts","evidence":"verify info: italic interior beats: 5 (Table Rule 10)","fix":"none; confirm by eye at review"},
+{"severity":"info","pass":"voice","quote":"\"Is that them.\"","problem":"voice_check could not score any cast member","evidence":"voice_check returned 'no fingerprint (fewer than eight attributed lines in the archive)' for Wystan Ashmore (8 lines), Osgood Keld (2), Elspeth Lyle (8), Edwyn Brack (8)","fix":"none; voice left to the reader pass"},
+{"severity":"info","pass":"hooks","quote":"# The Morning Check","problem":"none","evidence":"outline row 3 pays []; brief: no hooks to pay","fix":"none"},
+{"severity":"info","pass":"combat_floor","quote":"# The Morning Check","problem":"not applicable","evidence":"scene_type quiet; no combat","fix":"none"}
+]}

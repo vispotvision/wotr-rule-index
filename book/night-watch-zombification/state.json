@@ -1,422 +1,695 @@
 {
-  "facts": [],
-  "hooks": [
+ "facts": [
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "time",
+   "fact": "Chapter runs Day 1 from noon to the ninth division.",
+   "quote": "He woke at noon with the shutters closed and the house humming under him."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "His hands shake with a fine fast tremor at waking, worse in the right; the Division filed it as a disciplinary observation.",
+   "quote": "The Division had entered it in his file under a different heading, in the copying hand, as a disciplinary observation."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "Holding himself suppressed asleep leaves his jaw and shoulders aching each morning.",
+   "quote": "He had kept himself down all night, asleep, the way he kept himself down awake, and this was what it came to in the mornings."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld's minute",
+   "kind": "fact",
+   "fact": "Keld's minute is held by Wystan and checked each morning against a written record; the minute first, then the paper.",
+   "quote": "The minute came first and the paper after, because a record read first is a record remembered, and after that the minute would only agree with it."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld's minute",
+   "kind": "fact",
+   "fact": "The written record's exact text, in brown ink gone tea-coloured, folded in four in Wystan's coat.",
+   "quote": "*Keld, O. Door on the landing. Handle iron, cold. Right hand. Lamp behind. Count at thirty-one. Legs tired. Not afraid. Bread, dark, butter. Says: \"Sixth. They said the sixth. Hold it to the sixth.\"*"
+  },
+  {
+   "ch": 3,
+   "subject": "Keld's minute",
+   "kind": "fact",
+   "fact": "On Day 1 the minute matched the record exactly, forward and backward.",
+   "quote": "It had not moved."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan was the second man through the landing door and took the minute off the handle; the relief came late.",
+   "quote": "The first had his arms full, so it was Wystan who put his hand on the handle, and that was how he had the minute."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "object",
+   "fact": "His brass token was left on the tin lid at Cutler Row at the sixth division; he went to the medical house without it.",
+   "quote": "His brass was lying on a tin lid on Cutler Row, where he had left it at the sixth division, and he gave his name at the porter's hatch with nothing in his hand."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "object",
+   "fact": "He retrieved the brass from the tin lid and put it in his waistcoat.",
+   "quote": "He put it in his waistcoat."
+  },
+  {
+   "ch": 3,
+   "subject": "Brass token",
+   "kind": "fact",
+   "fact": "The Register's token is brass because the Night Register is not a full desk; carried four years, never asked to change it.",
+   "quote": "He had carried it four years and had never asked to have it changed."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld",
+   "kind": "fact",
+   "fact": "Keld's Division coat hangs on a peg in his room with his silver token still in it.",
+   "quote": "Nobody had ever come to take it back."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld",
+   "kind": "fact",
+   "fact": "Keld lives in the upper-floor end room of the Division medical house, two streets over behind the stables.",
+   "quote": "Keld's room was on the upper floor at the end."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld",
+   "kind": "fact",
+   "fact": "Keld counts under his breath to varying numbers (twelve, nineteen, seven, four, thirty); Wystan cannot find what he counts.",
+   "quote": "He could find nothing in the street that Keld was counting."
+  },
+  {
+   "ch": 3,
+   "subject": "Keld",
+   "kind": "fact",
+   "fact": "Keld asks for 'them' and repeats 'They said the sixth'; the orderly says he asks twice, same as always.",
+   "quote": "\"Twice. Same as always.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Keld",
+   "kind": "fact",
+   "fact": "Keld taught Wystan the druggist's fold in the back room of the old office on the river.",
+   "quote": "Keld had taught him to fold a paper the druggist's way."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Six people alive know what Stage Wystan holds; Keld knew first but is not counted among the six.",
+   "quote": "Keld was alive."
+  },
+  {
+   "ch": 3,
+   "subject": "Elspeth Lyle",
+   "kind": "fact",
+   "fact": "Prime Warden Elspeth Lyle is one of the six who know his Stage; she had it off his file the week he was put on nights.",
+   "quote": "She had had it off his file the week he was put on nights, and she had read it, and had said nothing then, and had said nothing since."
+  },
+  {
+   "ch": 3,
+   "subject": "Elspeth Lyle",
+   "kind": "name",
+   "fact": "Prime Warden Elspeth Lyle, about sixty, the only person in the building who calls him 'Warden of Duty'.",
+   "quote": "She was the only person in the building who used the title, and she used it as other people use a surname in a quarrel."
+  },
+  {
+   "ch": 3,
+   "subject": "Night Register file",
+   "kind": "promise",
+   "fact": "The Register may keep the file open until the quarterly inspection of the gauge-housing and not a day longer; entered in Lyle's minute in ink under her silver seal, initialled by Wystan.",
+   "quote": "*The Register may keep this curiosity open until the quarterly inspection of the gauge-housing, and not a day longer. E. Lyle, Prime Warden.*"
+  },
+  {
+   "ch": 3,
+   "subject": "Night Register file",
+   "kind": "fact",
+   "fact": "The Register's position, copied into Lyle's minute: a dose goes where it is put, and every site will show the same margin.",
+   "quote": "The Register's position is that a dose goes where it is put, and that every site will show the same margin when somebody walks it with a rule."
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan initialled both position and term; his hand shook on the second initial.",
+   "quote": "His hand shook on the second initial and he did not stop to steady it."
+  },
+  {
+   "ch": 3,
+   "subject": "Elspeth Lyle",
+   "kind": "fact",
+   "fact": "Lyle signs the northern office's quarterly return together with the gauge-housing seal on inspection day.",
+   "quote": "At the inspection the Board's man reads my housing and seals it, and the northern office's return goes up the same day under the same seal, and I sign the two together."
+  },
+  {
+   "ch": 3,
+   "subject": "Elspeth Lyle",
+   "kind": "fact",
+   "fact": "Lyle refuses to put the Night Register on the return quarrelling with the Bureau.",
+   "quote": "\"I will not put the Night Register on that return quarrelling with the Bureau over deer.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Day clerk",
+   "kind": "fact",
+   "fact": "The day clerk heard 'eleven hinds and a stag' and wrote something in his ledger.",
+   "quote": "She said it back to him quite flatly, and the clerk at the end of the counter wrote something very small in his ledger."
+  },
+  {
+   "ch": 3,
+   "subject": "Edwyn Brack",
+   "kind": "name",
+   "fact": "Edwyn Brack, Bureau, about fifty, coil-burn scar on right thumb; had seen the memorandum.",
+   "quote": "\"I have seen your memorandum.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Edwyn Brack",
+   "kind": "fact",
+   "fact": "Brack stands by his classification: bleed, Verdantia, tertiary, no operator.",
+   "quote": "It's bleed. My man took it off a calibrated coil against the standard and it's bleed, Verdantia, tertiary, and there's no operator in it."
+  },
+  {
+   "ch": 3,
+   "subject": "Bureau field sheets",
+   "kind": "object",
+   "fact": "Brack gave Wystan the Bureau's raw Ferriby field sheets with coil calibration, in a green-taped folder, unasked.",
+   "quote": "\"No. Master Brack gave them to me in the passage.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Bureau field sheets",
+   "kind": "promise",
+   "fact": "Lyle orders the sheets entered as received unasked, today, before he reads them.",
+   "quote": "\"Then enter them as received unasked, today, with the division, before you read a line of them.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Elspeth Lyle",
+   "kind": "lie",
+   "fact": "LIE: Lyle says she did not send for Brack (she did; tell: the pen did not stop, eyes on the green tape). Uncorrected.",
+   "quote": "\"I did not send for Master Brack.\""
+  },
+  {
+   "ch": 3,
+   "subject": "Wystan",
+   "kind": "misreading",
+   "fact": "MISREADING: Wystan believes the residue settling in a shut room falls on everyone alike; in fact it runs to him (H13).",
+   "quote": "It was what any shut room did by this hour, with the main running under it and people at work in it all day, and it came down on everybody in the room alike; Lyle had simply never sat a night on the Register, and had nothing on her hands to feel it with."
+  },
+  {
+   "ch": 3,
+   "subject": "Edwyn Brack",
+   "kind": "fact",
+   "fact": "Brack heard Wystan say he will get a hand and not a purse.",
+   "quote": "\"I will get a hand and not a purse.\""
+  }
+ ],
+ "hooks": [
+  {
+   "hook_id": "H01-far-side-of-the-marker",
+   "text": "Tally found clean ground on the far side of the parish marker, twenty-two paces past the last carcass, and checked it twice; Wystan writes 'ask Tally who set the marker'. Paid when the lick-keeper's round is found to end at the marker: the carrier turned home there.",
+   "keywords": [
+    "marker",
+    "far side",
+    "lick",
+    "turned"
+   ],
+   "planted_ch": 1,
+   "due_ch": 7,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H02-quarter-inch-sealed",
+   "text": "A quarter inch of new growth inside a Fixatio-anchored tin with the seal unbroken; the day book reads 'crown +¼ in sealed, 11d'. Paid at the hearing: Fixatio held what it was given, and what it was given was a running working.",
+   "keywords": [
+    "quarter inch",
+    "Fixatio",
+    "running",
+    "sealed"
+   ],
+   "planted_ch": 1,
+   "due_ch": 58,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H03-chapter-wax",
+   "text": "'They are chapter wax and I will want them later.' Four pieces of the broken seal, dated and kept. Paid at the hearing: the pieces fit the join and prove custody.",
+   "keywords": [
+    "chapter wax",
+    "four pieces",
+    "join",
+    "custody"
+   ],
+   "planted_ch": 1,
+   "due_ch": 58,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H04-tallys-second-dataset",
+   "text": "Wystan asks Tally to keep walking and measuring: 'I want a second dataset from the same observer.' Paid when the notebook is taken from Tally's walking body, complete to the night he died.",
+   "keywords": [
+    "second dataset",
+    "same observer",
+    "notebook",
+    "Tally"
+   ],
+   "planted_ch": 1,
+   "due_ch": 41,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H05-night-register-a-person",
+   "text": "The bulletin clerk told Tally the Night Register was a person. The cell knows its hunter only as the Night Register. Paid when the Register is folded and Malphas closes the line.",
+   "keywords": [
+    "Night Register",
+    "person",
+    "folded",
+    "somewhere else"
+   ],
+   "planted_ch": 1,
+   "due_ch": 68,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H06-edge-held-cup",
+   "text": "Wystan holds everything by the very edge, two-fingered, even a cup. Paid in VI: Salter sees a man holding a cup that way across the quad, notes it, and nothing follows.",
+   "keywords": [
+    "cup",
+    "rim",
+    "two fingers",
+    "window"
+   ],
+   "planted_ch": 1,
+   "due_ch": 78,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H07-warm-hands",
+   "text": "Malphas's hands keep a living man's colour in a four-degree coldhouse. Paid in the hearing gallery, at the verdict, as a detail Wystan notices and never explains; never recognition.",
+   "keywords": [
+    "hands",
+    "warm",
+    "cold",
+    "gallery"
+   ],
+   "planted_ch": 2,
+   "due_ch": 60,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H08-concealed-contraction",
+   "text": "Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens.",
+   "keywords": [
+    "contraction",
+    "shoulder",
+    "separately",
+    "twice"
+   ],
+   "planted_ch": 2,
+   "due_ch": 6,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H09-nuvaliks-three-names",
+   "text": "Nuvalik carries a name three people carried before her and thinks she has spent all three on this work. Paid when she sets down the name she wears in the cell and leaves; she does not inform.",
+   "keywords": [
+    "name",
+    "three",
+    "set down",
+    "leaves"
+   ],
+   "planted_ch": 2,
+   "due_ch": 55,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H10-vesks-grafts",
+   "text": "Vesk's grafted fingers, the ridged yellow nails that will not stop growing; the village that put stones on its graves. Paid when he dies of his own formulation and Nuvalik lays stones on his walking body.",
+   "keywords": [
+    "grafts",
+    "nails",
+    "stones",
+    "grave"
+   ],
+   "planted_ch": 2,
+   "due_ch": 46,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H11-the-sky-finishes",
+   "text": "'Where I was raised, the sky finishes what the ground starts, and when the sky refuses, people walk out to see why.' Paid when the ravens will not come down to Tally and he walks.",
+   "keywords": [
+    "sky",
+    "ground",
+    "ravens",
+    "walk out"
+   ],
+   "planted_ch": 2,
+   "due_ch": 38,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H12-kelds-minute",
+   "text": "Keld's minute, taken off a door handle, lucid, waiting for relief; checked every morning against a written record. It slips by a word after Cutler Row; paid when it is set right at Keld's bedside.",
+   "keywords": [
+    "Keld",
+    "minute",
+    "written record",
+    "relief"
+   ],
+   "planted_ch": 3,
+   "due_ch": 72,
+   "status": "planted",
+   "events": [
     {
-      "hook_id": "H01-far-side-of-the-marker",
-      "text": "Tally found clean ground on the far side of the parish marker, twenty-two paces past the last carcass, and checked it twice; Wystan writes 'ask Tally who set the marker'. Paid when the lick-keeper's round is found to end at the marker: the carrier turned home there.",
-      "keywords": [
-        "marker",
-        "far side",
-        "lick",
-        "turned"
-      ],
-      "planted_ch": 1,
-      "due_ch": 7,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H02-quarter-inch-sealed",
-      "text": "A quarter inch of new growth inside a Fixatio-anchored tin with the seal unbroken; the day book reads 'crown +¼ in sealed, 11d'. Paid at the hearing: Fixatio held what it was given, and what it was given was a running working.",
-      "keywords": [
-        "quarter inch",
-        "Fixatio",
-        "running",
-        "sealed"
-      ],
-      "planted_ch": 1,
-      "due_ch": 58,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H03-chapter-wax",
-      "text": "'They are chapter wax and I will want them later.' Four pieces of the broken seal, dated and kept. Paid at the hearing: the pieces fit the join and prove custody.",
-      "keywords": [
-        "chapter wax",
-        "four pieces",
-        "join",
-        "custody"
-      ],
-      "planted_ch": 1,
-      "due_ch": 58,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H04-tallys-second-dataset",
-      "text": "Wystan asks Tally to keep walking and measuring: 'I want a second dataset from the same observer.' Paid when the notebook is taken from Tally's walking body, complete to the night he died.",
-      "keywords": [
-        "second dataset",
-        "same observer",
-        "notebook",
-        "Tally"
-      ],
-      "planted_ch": 1,
-      "due_ch": 41,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H05-night-register-a-person",
-      "text": "The bulletin clerk told Tally the Night Register was a person. The cell knows its hunter only as the Night Register. Paid when the Register is folded and Malphas closes the line.",
-      "keywords": [
-        "Night Register",
-        "person",
-        "folded",
-        "somewhere else"
-      ],
-      "planted_ch": 1,
-      "due_ch": 68,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H06-edge-held-cup",
-      "text": "Wystan holds everything by the very edge, two-fingered, even a cup. Paid in VI: Salter sees a man holding a cup that way across the quad, notes it, and nothing follows.",
-      "keywords": [
-        "cup",
-        "rim",
-        "two fingers",
-        "window"
-      ],
-      "planted_ch": 1,
-      "due_ch": 78,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H07-warm-hands",
-      "text": "Malphas's hands keep a living man's colour in a four-degree coldhouse. Paid in the hearing gallery, at the verdict, as a detail Wystan notices and never explains; never recognition.",
-      "keywords": [
-        "hands",
-        "warm",
-        "cold",
-        "gallery"
-      ],
-      "planted_ch": 2,
-      "due_ch": 60,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H08-concealed-contraction",
-      "text": "Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens.",
-      "keywords": [
-        "contraction",
-        "shoulder",
-        "separately",
-        "twice"
-      ],
-      "planted_ch": 2,
-      "due_ch": 6,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H09-nuvaliks-three-names",
-      "text": "Nuvalik carries a name three people carried before her and thinks she has spent all three on this work. Paid when she sets down the name she wears in the cell and leaves; she does not inform.",
-      "keywords": [
-        "name",
-        "three",
-        "set down",
-        "leaves"
-      ],
-      "planted_ch": 2,
-      "due_ch": 55,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H10-vesks-grafts",
-      "text": "Vesk's grafted fingers, the ridged yellow nails that will not stop growing; the village that put stones on its graves. Paid when he dies of his own formulation and Nuvalik lays stones on his walking body.",
-      "keywords": [
-        "grafts",
-        "nails",
-        "stones",
-        "grave"
-      ],
-      "planted_ch": 2,
-      "due_ch": 46,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H11-the-sky-finishes",
-      "text": "'Where I was raised, the sky finishes what the ground starts, and when the sky refuses, people walk out to see why.' Paid when the ravens will not come down to Tally and he walks.",
-      "keywords": [
-        "sky",
-        "ground",
-        "ravens",
-        "walk out"
-      ],
-      "planted_ch": 2,
-      "due_ch": 38,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H12-kelds-minute",
-      "text": "Keld's minute, taken off a door handle, lucid, waiting for relief; checked every morning against a written record. It slips by a word after Cutler Row; paid when it is set right at Keld's bedside.",
-      "keywords": [
-        "Keld",
-        "minute",
-        "written record",
-        "relief"
-      ],
-      "planted_ch": 3,
-      "due_ch": 72,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H13-low-ground-sink",
-      "text": "Wystan's Shell rests near zero saturation; free residue in a closed volume runs toward him. The dead lean to the quiet. He believes they are being sent to him; paid when he learns he is the sink and nobody sent them.",
-      "keywords": [
-        "sink",
-        "lowest",
-        "lean",
-        "nobody sent"
-      ],
-      "planted_ch": 3,
-      "due_ch": 44,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H14-brass-token",
-      "text": "The Register token is brass, not silver, because the Night Register is not a full desk, and he has never asked to have it changed. Paid when he hands it in.",
-      "keywords": [
-        "brass",
-        "token",
-        "silver",
-        "handed"
-      ],
-      "planted_ch": 3,
-      "due_ch": 72,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H15-six-who-know",
-      "text": "Suppression held waking and sleeping; six people alive know what Stage he is. Paid when he drops it in the death-house and the whole cordon knows.",
-      "keywords": [
-        "Stage",
-        "six",
-        "cordon",
-        "knew"
-      ],
-      "planted_ch": 3,
-      "due_ch": 64,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H16-thirty-one-days",
-      "text": "Deming: thirty-one days of usefulness left, and Malphas has already counted them. Paid on the thirty-first day.",
-      "keywords": [
-        "thirty-one",
-        "days",
-        "counted",
-        "useful"
-      ],
-      "planted_ch": 4,
-      "due_ch": 22,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H17-eleven-weeks",
-      "text": "'In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.' Paid when the Logistics return publishes.",
-      "keywords": [
-        "eleven weeks",
-        "Logistics",
-        "return",
-        "Swale"
-      ],
-      "planted_ch": 4,
-      "due_ch": 47,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H18-the-project-name-is-the-file",
-      "text": "'I would prefer the file be built off a word I chose.' Every letter names Project Zombification. Paid when the Bench titles the file by the word and every thread ends in it.",
-      "keywords": [
-        "Project Zombification",
-        "word",
-        "file",
-        "chose"
-      ],
-      "planted_ch": 4,
-      "due_ch": 57,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H19-the-hollow-shaft-people",
-      "text": "'That is how they found the Hollow Shaft people. They found a name in a private correspondence.' Paid when the precedent is read into the record at Deming's hearing.",
-      "keywords": [
-        "Hollow Shaft",
-        "correspondence",
-        "name",
-        "precedent"
-      ],
-      "planted_ch": 4,
-      "due_ch": 58,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H20-the-field-manual-paragraph",
-      "text": "Foss reads the Division field manual's unsigned paragraph on anamnetic reading and its counters; Malphas adopts them as house rules. Paid when a moved wall makes Wystan's Called Late at Greyshaft Nine confidently wrong.",
-      "keywords": [
-        "field manual",
-        "paragraph",
-        "wall",
-        "moved"
-      ],
-      "planted_ch": 6,
-      "due_ch": 71,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H21-the-ninth-hind",
-      "text": "'The ninth hind is the freshest and she is the one I want.' Paid when she stands up off the table and leans to the standpipe.",
-      "keywords": [
-        "ninth hind",
-        "table",
-        "stood",
-        "standpipe"
-      ],
-      "planted_ch": 2,
-      "due_ch": 10,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H22-the-salt-bar",
-      "text": "Foss pays the carter in salt bars because salt bars leave no bill; the salt bar is money that can be eaten. Paid when the parish dead walk out of the pit with the bars in their purses.",
-      "keywords": [
-        "salt bar",
-        "money",
-        "eaten",
-        "pit"
-      ],
-      "planted_ch": 8,
-      "due_ch": 29,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H23-edges-in-the-margin",
-      "text": "Wystan's margin note: edges. Paid when the walkers erase them and he strikes the word in public.",
-      "keywords": [
-        "edges",
-        "margin",
-        "struck",
-        "bleed"
-      ],
-      "planted_ch": 1,
-      "due_ch": 16,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H24-brack-signs-bleed",
-      "text": "Brack's classification: Wellspring bleed, Verdantia, no operator indicated, correct off a true measurement. Paid when the Accord's official classification stays bleed and Brack signs it again.",
-      "keywords": [
-        "Brack",
-        "bleed",
-        "no operator",
-        "signed"
-      ],
-      "planted_ch": 1,
-      "due_ch": 67,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H25-enforcements-stay-counter",
-      "text": "STAY's counter: threaten something outside the boundary; two Enforcement men have used it. Harrow is one. Paid when Wystan drops STAY to save the family on the stair.",
-      "keywords": [
-        "STAY",
-        "outside",
-        "boundary",
-        "dropped"
-      ],
-      "planted_ch": 31,
-      "due_ch": 36,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H26-the-death-house-exemption",
-      "text": "Article XX: a death-house may not be cut; the exemption is claimed far more often than granted. Paid when Wystan holds the Wicket death-house under STAY and the dead are entered on the roll.",
-      "keywords": [
-        "death-house",
-        "may not be cut",
-        "Article XX",
-        "roll"
-      ],
-      "planted_ch": 32,
-      "due_ch": 63,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H27-deming-will-not-name-the-hand",
-      "text": "Deming decides that whatever the Accord asks he will not give it the hand. Paid when the Ruling chair asks and he refuses under reservation.",
-      "keywords": [
-        "name",
-        "hand",
-        "reservation",
-        "refused"
-      ],
-      "planted_ch": 22,
-      "due_ch": 60,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H28-foss-released",
-      "text": "Malphas promises Foss release with his own name when the work is done. Paid when Foss takes a bench under his own name and informs no one.",
-      "keywords": [
-        "released",
-        "own name",
-        "bench",
-        "Oath"
-      ],
-      "planted_ch": 6,
-      "due_ch": 70,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H29-the-ferriby-tin-returned",
-      "text": "When the Bench reserves the hand, the exhibits return to the filing party: the Ferriby tin and the chapter wax go back to Timberline. Paid when the tin is the lesson at Aetherion.",
-      "keywords": [
-        "Ferriby",
-        "tin",
-        "returned",
-        "lesson"
-      ],
-      "planted_ch": 69,
-      "due_ch": 76,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H30-mu-jins-announcement",
-      "text": "The Society tells Wystan the academies ask for field instruction; at Aetherion, Mu-jin has promised Class X the Night's Watch for 'field work, real cases'. Paid when Wystan takes the class to a real case.",
-      "keywords": [
-        "field work",
-        "real cases",
-        "Night's Watch",
-        "Academy"
-      ],
-      "planted_ch": 72,
-      "due_ch": 77,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H31-the-quiet-wing",
-      "text": "At the Aetherion the hum stops at one door, the west range; Wystan stands there and turns back east. Paid when he does it again at the end of the week and goes no further.",
-      "keywords": [
-        "hum",
-        "west range",
-        "stops",
-        "turned"
-      ],
-      "planted_ch": 74,
-      "due_ch": 79,
-      "status": "planned"
-    },
-    {
-      "hook_id": "H32-hand-never-purse",
-      "text": "His technique gets the hand, never the purse; Article XV prosecutes only the purse. This case inverts it. Paid when he teaches it: the hand or the purse, never both.",
-      "keywords": [
-        "hand",
-        "purse",
-        "never",
-        "both"
-      ],
-      "planted_ch": 3,
-      "due_ch": 76,
-      "status": "planned"
+     "ch": 3,
+     "what": "Keld's minute checked against the written record; it has not moved; relief came late.",
+     "quote": "It had not moved."
     }
-  ],
-  "summaries": []
+   ]
+  },
+  {
+   "hook_id": "H13-low-ground-sink",
+   "text": "Wystan's Shell rests near zero saturation; free residue in a closed volume runs toward him. The dead lean to the quiet. He believes they are being sent to him; paid when he learns he is the sink and nobody sent them.",
+   "keywords": [
+    "sink",
+    "lowest",
+    "lean",
+    "nobody sent"
+   ],
+   "planted_ch": 3,
+   "due_ch": 44,
+   "status": "planted",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Residue settles on Wystan in Lyle's shut room; he misreads it as falling on everyone.",
+     "quote": "It began on the backs of his hands first, as it always did, where the stain was."
+    }
+   ]
+  },
+  {
+   "hook_id": "H14-brass-token",
+   "text": "The Register token is brass, not silver, because the Night Register is not a full desk, and he has never asked to have it changed. Paid when he hands it in.",
+   "keywords": [
+    "brass",
+    "token",
+    "silver",
+    "handed"
+   ],
+   "planted_ch": 3,
+   "due_ch": 72,
+   "status": "planted",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Brass token explained against silver; carried four years, never asked to change it.",
+     "quote": "The Register's token was brass because the Night Register was not a full desk."
+    }
+   ]
+  },
+  {
+   "hook_id": "H15-six-who-know",
+   "text": "Suppression held waking and sleeping; six people alive know what Stage he is. Paid when he drops it in the death-house and the whole cordon knows.",
+   "keywords": [
+    "Stage",
+    "six",
+    "cordon",
+    "knew"
+   ],
+   "planted_ch": 3,
+   "due_ch": 64,
+   "status": "planted",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Six people alive know his Stage; Lyle is one of them.",
+     "quote": "*Six people alive know what Stage I hold.*"
+    }
+   ]
+  },
+  {
+   "hook_id": "H16-thirty-one-days",
+   "text": "Deming: thirty-one days of usefulness left, and Malphas has already counted them. Paid on the thirty-first day.",
+   "keywords": [
+    "thirty-one",
+    "days",
+    "counted",
+    "useful"
+   ],
+   "planted_ch": 4,
+   "due_ch": 22,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H17-eleven-weeks",
+   "text": "'In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.' Paid when the Logistics return publishes.",
+   "keywords": [
+    "eleven weeks",
+    "Logistics",
+    "return",
+    "Swale"
+   ],
+   "planted_ch": 4,
+   "due_ch": 47,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H18-the-project-name-is-the-file",
+   "text": "'I would prefer the file be built off a word I chose.' Every letter names Project Zombification. Paid when the Bench titles the file by the word and every thread ends in it.",
+   "keywords": [
+    "Project Zombification",
+    "word",
+    "file",
+    "chose"
+   ],
+   "planted_ch": 4,
+   "due_ch": 57,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H19-the-hollow-shaft-people",
+   "text": "'That is how they found the Hollow Shaft people. They found a name in a private correspondence.' Paid when the precedent is read into the record at Deming's hearing.",
+   "keywords": [
+    "Hollow Shaft",
+    "correspondence",
+    "name",
+    "precedent"
+   ],
+   "planted_ch": 4,
+   "due_ch": 58,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H20-the-field-manual-paragraph",
+   "text": "Foss reads the Division field manual's unsigned paragraph on anamnetic reading and its counters; Malphas adopts them as house rules. Paid when a moved wall makes Wystan's Called Late at Greyshaft Nine confidently wrong.",
+   "keywords": [
+    "field manual",
+    "paragraph",
+    "wall",
+    "moved"
+   ],
+   "planted_ch": 6,
+   "due_ch": 71,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H21-the-ninth-hind",
+   "text": "'The ninth hind is the freshest and she is the one I want.' Paid when she stands up off the table and leans to the standpipe.",
+   "keywords": [
+    "ninth hind",
+    "table",
+    "stood",
+    "standpipe"
+   ],
+   "planted_ch": 2,
+   "due_ch": 10,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H22-the-salt-bar",
+   "text": "Foss pays the carter in salt bars because salt bars leave no bill; the salt bar is money that can be eaten. Paid when the parish dead walk out of the pit with the bars in their purses.",
+   "keywords": [
+    "salt bar",
+    "money",
+    "eaten",
+    "pit"
+   ],
+   "planted_ch": 8,
+   "due_ch": 29,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H23-edges-in-the-margin",
+   "text": "Wystan's margin note: edges. Paid when the walkers erase them and he strikes the word in public.",
+   "keywords": [
+    "edges",
+    "margin",
+    "struck",
+    "bleed"
+   ],
+   "planted_ch": 1,
+   "due_ch": 16,
+   "status": "advanced",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Lyle reads 'edges' in the margin; the position goes into her minute.",
+     "quote": "She read *edges* and the plain sentences underneath it, and then *A dose goes where it is put*, and took up her pen, and copied the line into the minute in a small upright hand, and wrote the date and the division beside it."
+    }
+   ]
+  },
+  {
+   "hook_id": "H24-brack-signs-bleed",
+   "text": "Brack's classification: Wellspring bleed, Verdantia, no operator indicated, correct off a true measurement. Paid when the Accord's official classification stays bleed and Brack signs it again.",
+   "keywords": [
+    "Brack",
+    "bleed",
+    "no operator",
+    "signed"
+   ],
+   "planted_ch": 1,
+   "due_ch": 67,
+   "status": "advanced",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Brack stands by bleed and says he would sign it again.",
+     "quote": "I'd sign it again this afternoon."
+    }
+   ]
+  },
+  {
+   "hook_id": "H25-enforcements-stay-counter",
+   "text": "STAY's counter: threaten something outside the boundary; two Enforcement men have used it. Harrow is one. Paid when Wystan drops STAY to save the family on the stair.",
+   "keywords": [
+    "STAY",
+    "outside",
+    "boundary",
+    "dropped"
+   ],
+   "planted_ch": 31,
+   "due_ch": 36,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H26-the-death-house-exemption",
+   "text": "Article XX: a death-house may not be cut; the exemption is claimed far more often than granted. Paid when Wystan holds the Wicket death-house under STAY and the dead are entered on the roll.",
+   "keywords": [
+    "death-house",
+    "may not be cut",
+    "Article XX",
+    "roll"
+   ],
+   "planted_ch": 32,
+   "due_ch": 63,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H27-deming-will-not-name-the-hand",
+   "text": "Deming decides that whatever the Accord asks he will not give it the hand. Paid when the Ruling chair asks and he refuses under reservation.",
+   "keywords": [
+    "name",
+    "hand",
+    "reservation",
+    "refused"
+   ],
+   "planted_ch": 22,
+   "due_ch": 60,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H28-foss-released",
+   "text": "Malphas promises Foss release with his own name when the work is done. Paid when Foss takes a bench under his own name and informs no one.",
+   "keywords": [
+    "released",
+    "own name",
+    "bench",
+    "Oath"
+   ],
+   "planted_ch": 6,
+   "due_ch": 70,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H29-the-ferriby-tin-returned",
+   "text": "When the Bench reserves the hand, the exhibits return to the filing party: the Ferriby tin and the chapter wax go back to Timberline. Paid when the tin is the lesson at Aetherion.",
+   "keywords": [
+    "Ferriby",
+    "tin",
+    "returned",
+    "lesson"
+   ],
+   "planted_ch": 69,
+   "due_ch": 76,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H30-mu-jins-announcement",
+   "text": "The Society tells Wystan the academies ask for field instruction; at Aetherion, Mu-jin has promised Class X the Night's Watch for 'field work, real cases'. Paid when Wystan takes the class to a real case.",
+   "keywords": [
+    "field work",
+    "real cases",
+    "Night's Watch",
+    "Academy"
+   ],
+   "planted_ch": 72,
+   "due_ch": 77,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H31-the-quiet-wing",
+   "text": "At the Aetherion the hum stops at one door, the west range; Wystan stands there and turns back east. Paid when he does it again at the end of the week and goes no further.",
+   "keywords": [
+    "hum",
+    "west range",
+    "stops",
+    "turned"
+   ],
+   "planted_ch": 74,
+   "due_ch": 79,
+   "status": "planned"
+  },
+  {
+   "hook_id": "H32-hand-never-purse",
+   "text": "His technique gets the hand, never the purse; Article XV prosecutes only the purse. This case inverts it. Paid when he teaches it: the hand or the purse, never both.",
+   "keywords": [
+    "hand",
+    "purse",
+    "never",
+    "both"
+   ],
+   "planted_ch": 3,
+   "due_ch": 76,
+   "status": "planted",
+   "events": [
+    {
+     "ch": 3,
+     "what": "Wystan tells Brack he will get a hand and not a purse; Brack answers that Fifteen wants the purse.",
+     "quote": "\"I will get a hand and not a purse.\""
+    }
+   ]
+  }
+ ],
+ "summaries": [
+  {
+   "ch": 3,
+   "title": "The Morning Check",
+   "summary": "Day 1, noon to the ninth division. Wystan wakes with his hands shaking. He recalls Keld's minute, then reads the written record against it word for word. It has not moved. At the medical house the porter admits him by his face, because his brass is on the tin lid at Cutler Row. Keld sits at the window counting under his breath at something Wystan cannot find. He asks \"Is that them\" and says \"They said the sixth.\" At the day desk Prime Warden Elspeth Lyle reads the edges memorandum and calls the file a curiosity. The Register may keep it open until the quarterly inspection of the gauge-housing and not a day longer. In the upper passage Brack stands by bleed and hands over the Bureau's raw Ferriby field sheets unasked. In Lyle's shut room the position and the term go into her minute in ink, under her silver, and he initials both. Residue settles on his skin and he does not remark it. Lyle orders the sheets entered as received unasked and denies sending for Brack. At the ninth division Wystan tells Brack: \"I will get a hand and not a purse.\""
+  }
+ ]
 }

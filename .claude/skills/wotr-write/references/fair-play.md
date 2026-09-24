@@ -27,6 +27,15 @@ documented and it could have read) and plays that well. An opponent may be
 clever, prepared and ruthless. It may not be omniscient, and it never counters
 a plan it had no way to hear about.
 
+## The mechanism is the effect
+
+Isaac, 2026-09-24: "the mechanism in the effect should be the SAME thing the
+Mechanism is the Effect or how it works". Never describe what a working does
+apart from how it does it. The effect a reader sees is the law running under
+the new boundary, followed through to the target. That is also what makes a
+working fair: an effect that follows from a mechanism has limits and a
+counter a player can work out; an effect with no mechanism has neither.
+
 ## Fair: real physics is the floor, not a licence
 
 Real physics says what is possible, the system says what it costs, fairness

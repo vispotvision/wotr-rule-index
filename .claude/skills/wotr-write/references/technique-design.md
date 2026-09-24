@@ -39,7 +39,10 @@ wrong, neither ability is working.
 
 **Summary card, five lines, what the reader sees:**
 - **Effect**: two to four sentences. What happens, what it looks like, what the
-  target feels. Detail is not complexity.
+  target feels, written as the mechanism playing out: the boundary the glyph
+  moves, the law doing what it does, and that is the effect. Mechanism and
+  Effect are one thing (Isaac, 2026-09-24, RULINGS.md); an Effect that could
+  be true of a different mechanism is wrong. Detail is not complexity.
 - **Cost**: one line. What it does to the body and what remains after. "Overuse
   strains him" is not a cost. The cost must survive outside the fight.
 - **Limit**: one line. What it structurally cannot do.

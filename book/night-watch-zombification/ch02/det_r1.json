@@ -1,0 +1,6 @@
+{"findings":[
+{"severity":"INFO","pass":"shape","quote":"# Twenty-Two Drops","problem":"none","evidence":"verify --band set-piece --culture Accord --combat: 0 fail, 0 warn; 3826 words vs target 3500 (109%, inside 80-150%)","fix":"none"},
+{"severity":"WARN","pass":"combat_floor","quote":"# Twenty-Two Drops","problem":"gap_fill counts 11 HEMA terms, 1 anatomy term, Wellspring 0, Essence 0; notes say no fight in chapter, so likely word-count noise","evidence":"gap_fill WARN only; also flags length outside standard band (set-piece band applies)","fix":"none required; confirm HEMA hits are ordinary words"},
+{"severity":"INFO","pass":"voice","quote":"The ninth hind is the freshest and she is the one I want. Say what she is now that she is on the table.","problem":"none","evidence":"voice_check Malphas z=-0.4; Nuvalik and Foss have no fingerprint (<8 archive lines)","fix":"none"},
+{"severity":"INFO","pass":"tell_scan","quote":"Everything the fourth hind gave me is written down.","problem":"none","evidence":"both declared sentences (lie, misreading) found verbatim","fix":"none"},
+{"severity":"INFO","pass":"hooks","quote":"# Twenty-Two Drops","problem":"none","evidence":"outline pays is empty for this chapter; no hooks to pay","fix":"none"}]}

@@ -1,0 +1,28 @@
+{
+ "fail": 1,
+ "warn": 2,
+ "dropped": 2,
+ "findings": [
+  {
+   "severity": "FAIL",
+   "pass": "canon",
+   "quote": "He had taken the glass out of his coat with the other hand. He did not use it. He held it, and watched.",
+   "problem": "Foss's card and ch2 have him work with the jeweller's glass screwed into his eye; ch10 has him hold it in his hand and hold it up to the cap instead.",
+   "fix": "Have Foss screw the glass into his eye, leaving both hands free for the lamp and the rule, to match his card and ch2."
+  },
+  {
+   "severity": "WARN",
+   "pass": "continuity",
+   "quote": "Foss went to the shelf over the press and took the book down, which Vesk had never seen anybody but Nuvalik do, and Nuvalik watched him do it and said nothing.",
+   "problem": "Foss already wrote in the book at the gauge bench earlier in the chapter, so saying this is a first is in tension with that entry, and with the ch2 fact that nobody but Nuvalik takes it down.",
+   "fix": "Show Nuvalik carrying the book to Foss for the first entry, or cut the 'never seen anybody but Nuvalik' clause."
+  },
+  {
+   "severity": "WARN",
+   "pass": "combat_floor",
+   "quote": "# The Ninth Hind",
+   "problem": "gap_fill keyword audit: Wellspring 0, Essence 0, and length WARN against the standard band.",
+   "fix": "None required. The set-piece band is correct and verify passes it."
+  }
+ ]
+}

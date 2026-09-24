@@ -1952,6 +1952,188 @@
    "kind": "object",
    "fact": "The counterfoil sits with the wire slip at the arithmetic leaf of the day book, with the entry date and line in the margin.",
    "quote": "He laid the counterfoil in beside it, squared the two of them to the gutter, and wrote in the margin, in the division's figures, the day the request had been entered and the line it stood against."
+  },
+  {
+   "ch": 10,
+   "subject": "Deming",
+   "kind": "fact",
+   "fact": "Deming arrived at the coldhouse at the ninth division of day 12, off the Swale road.",
+   "quote": "Deming had come in at the ninth division off the Swale road with river mud to his ankles and his hat already in his hands."
+  },
+  {
+   "ch": 10,
+   "subject": "Greyshaft Nine",
+   "kind": "object",
+   "fact": "The coldhouse has no meter by the door; a square of cleaner brick marks where one was.",
+   "quote": "There was a square of cleaner brick where one had been."
+  },
+  {
+   "ch": 10,
+   "subject": "Deming",
+   "kind": "knowledge",
+   "fact": "Nuvalik read Deming the book (the pour, the fourth hind's entries, her concealment) as far as the fifth day, then Malphas stopped her.",
+   "quote": "She got as far as the fifth day."
+  },
+  {
+   "ch": 10,
+   "subject": "the book",
+   "kind": "record",
+   "fact": "At Deming's request Foss entered in the book that Deming was read the book and heard it (not its content).",
+   "quote": "Foss wrote it at the gauge bench, in the warm air off the press, and blotted it."
+  },
+  {
+   "ch": 10,
+   "subject": "the ninth hind",
+   "kind": "injury",
+   "fact": "Nuvalik took the hide off the ninth hind's near shoulder and down the flank to the last rib on the fifth night, and stopped; the rest of the hide stays on.",
+   "quote": "Nuvalik had had the big knife to her on the fifth night and taken the hide off the near shoulder and down the flank as far as the last rib, and stopped there."
+  },
+  {
+   "ch": 10,
+   "subject": "Nuvalik",
+   "kind": "fact",
+   "fact": "Nuvalik has sat by the ninth hind part of every night since the fifth.",
+   "quote": "She had sat there part of every night since the fifth."
+  },
+  {
+   "ch": 10,
+   "subject": "Greyshaft Nine",
+   "kind": "object",
+   "fact": "The iron bench (Malphas's seat) is on the west wall, the room's width from the press, under three capped standpipes never stripped; the press and gauge bench are on the east wall.",
+   "quote": "The iron bench was the whole width of the room away from the press, against the brick, under the capped iron of three standpipes nobody had troubled to strip."
+  },
+  {
+   "ch": 10,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Vesk saw Malphas's hands keep their colour on the cold west bench while his own ached; he made nothing of it.",
+   "quote": "They were the colour of hands."
+  },
+  {
+   "ch": 10,
+   "subject": "the ninth hind",
+   "kind": "fact",
+   "fact": "At the twelfth division on day 12 the ninth hind drew, rolled onto her breastbone and stood on the table.",
+   "quote": "The ninth hind stood up off the table."
+  },
+  {
+   "ch": 10,
+   "subject": "the ninth hind",
+   "kind": "fact",
+   "fact": "Standing, the ninth hind leaned west toward the corner standpipe housing, not toward the door.",
+   "quote": "Her line went on to the corner, and to the capped standpipe housing standing up out of the floor there, waist-high, iron, with nothing in it."
+  },
+  {
+   "ch": 10,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "As the hind leaned toward his corner Malphas rose, took his coat over his arm, and stood at the door with his back to the board of three rules.",
+   "quote": "He did it without any hurry."
+  },
+  {
+   "ch": 10,
+   "subject": "Vesk",
+   "kind": "misreading",
+   "fact": "MISREADING (uncorrected): Vesk takes the Lord's rising and going to the door as courtesy and house rule three; the page never says why he rose (the lean was toward his corner).",
+   "quote": "It was what a man of any breeding did, when the work was on its feet and he was sitting in its road."
+  },
+  {
+   "ch": 10,
+   "subject": "the slate table",
+   "kind": "object",
+   "fact": "The hind's hoof struck the table's edge coming off and left a white chip in the slate.",
+   "quote": "He had his hat crushed against his chest in one hand and his other hand on the frame, and he was looking at the hoof that had struck the table's edge, at the white chip it had left in the slate."
+  },
+  {
+   "ch": 10,
+   "subject": "Deming",
+   "kind": "fact",
+   "fact": "Deming saw the hind come off the table and went out into the yard and was sick against the wall, twice.",
+   "quote": "The Lord moved half a pace aside for him, and Deming went past him and out into the yard, and they heard him in the yard at once, being sick against the wall, and then being sick again."
+  },
+  {
+   "ch": 10,
+   "subject": "Vesk",
+   "kind": "fact",
+   "fact": "Vesk lost the drip count for the first time during the crossing, and got it back at the close.",
+   "quote": "He could not find it."
+  },
+  {
+   "ch": 10,
+   "subject": "the ninth hind",
+   "kind": "fact",
+   "fact": "The ninth hind lay down against the corner standpipe housing and stayed down; the net has nothing left to shorten into.",
+   "quote": "Over by the housing the ninth hind lay against the iron where she had put herself, and stayed down."
+  },
+  {
+   "ch": 10,
+   "subject": "corner standpipe",
+   "kind": "object",
+   "fact": "Through Foss's glass the rust runs unbroken across the corner standpipe's cap seam: the cap has not been off in four years, since the main was capped.",
+   "quote": "The rust ran across the seam unbroken, the colour of an old kettle, with dust along its top."
+  },
+  {
+   "ch": 10,
+   "subject": "Foss",
+   "kind": "phenomenon",
+   "fact": "Foss: anything that runs on a difference runs to the low side; the capped pipe is the emptiest iron in the building and she went down to it.",
+   "quote": "Anything that runs on a difference runs to the low side, and the draw does, that's the whole of a main."
+  },
+  {
+   "ch": 10,
+   "subject": "Foss",
+   "kind": "fact",
+   "fact": "Foss says he could have predicted her direction on the first night, nobody asked him, and he wants that in the book.",
+   "quote": "Nobody asked me which way."
+  },
+  {
+   "ch": 10,
+   "subject": "Nuvalik",
+   "kind": "phenomenon",
+   "fact": "Nuvalik: there is no Crystal and nobody in the hind; only the net, which shortens toward the empty end.",
+   "quote": "There is nobody in her."
+  },
+  {
+   "ch": 10,
+   "subject": "Vesk",
+   "kind": "fact",
+   "fact": "Vesk's village lays beck stones on graves 'to keep the dead where they were put'; he now believes he knows what they are for.",
+   "quote": "*Now I know what they're for,* he thought."
+  },
+  {
+   "ch": 10,
+   "subject": "Deming",
+   "kind": "lie",
+   "fact": "LIE (uncorrected): Deming tells the room he was sick from eel at the ford inn, coming on since the eighth division; the cause was the hind.",
+   "quote": "That was the eel."
+  },
+  {
+   "ch": 10,
+   "subject": "the ninth hind",
+   "kind": "number",
+   "fact": "Foss measured eleven feet on the rule from the table's west edge to the hind's near shoulder, confirming Vesk's ch2 figure.",
+   "quote": "On the rule, from the table's edge to the point of her near shoulder."
+  },
+  {
+   "ch": 10,
+   "subject": "the book",
+   "kind": "record",
+   "fact": "Foss took the book down (only Nuvalik had before) and wrote the date, 'the twelfth division', the ninth hind, 'stood', what she did in order and the eleven feet measured on the rule, under the leaf's heading of the work's name.",
+   "quote": "Foss wrote *stood*."
+  },
+  {
+   "ch": 10,
+   "subject": "Malphas",
+   "kind": "fact",
+   "fact": "Malphas: the sink is the quiet; she found the quietest thing in the building unshown, and that is what he wanted proven on a table.",
+   "quote": "Write where she went, and write it as the place and not as anything she meant by going there,\" Malphas said, \"because the sink is the quiet, and she has found the quietest thing in this building without any of us showing it her, and that is the whole of what I wanted proven on a table."
+  },
+  {
+   "ch": 10,
+   "subject": "Vesk",
+   "kind": "fact",
+   "fact": "Vesk sets the sealed flask down by the book; his conclusion: it walks.",
+   "quote": "*It walks,* he thought."
   }
  ],
  "hooks": [
@@ -2148,6 +2330,11 @@
      "ch": 8,
      "what": "Foss sees Malphas's hands keep their colour at four degrees while his own go white; no instrument, no recognition.",
      "quote": "They were the colour of hands."
+    },
+    {
+     "ch": 10,
+     "what": "Vesk sees the Lord's hands keep their colour on the cold west bench, away from the press; unexplained, not tied to the lean.",
+     "quote": "They were the colour of hands."
     }
    ]
   },
@@ -2224,6 +2411,11 @@
      "ch": 6,
      "what": "No live dose touched bare; the graft nails grown out again; the only gloves on hands that close two thirds.",
      "quote": "The two nails on the fingers that had taken stood up over the edge of the bench, ridged and yellow and grown out again since the fourth day, and he was looking at them the way she looked at a joint she did not like."
+    },
+    {
+     "ch": 10,
+     "what": "Grafted fingers a stiffness in the gloves; Vesk thinks of his village's grave stones and now knows what they are for; no stone is laid.",
+     "quote": "There was no stone in the building, and there was nobody to lay one, and the ninth hind was lying where the pipe had put her and not where anybody had."
     }
    ]
   },
@@ -2348,12 +2540,17 @@
    ],
    "planted_ch": 4,
    "due_ch": 22,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 4,
      "what": "Deming privately counts thirty-one days of usefulness on the almanac and knows Malphas counted them first.",
      "quote": "Thirty-one days of a man who held the contract, and the pen, and the chop, and was useful."
+    },
+    {
+     "ch": 10,
+     "what": "Deming's thumb goes round his hat brim while he is read the book; nothing counted aloud.",
+     "quote": "Deming had listened with his hat held at his belt and his thumb going round the brim, slowly, the whole way round and then back the other way."
     }
    ]
   },
@@ -2398,12 +2595,17 @@
    ],
    "planted_ch": 4,
    "due_ch": 57,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 4,
      "what": "The covering letter's second line names Project Zombification on Malphas's order ('a word I chose'); the factor marks it and files it apart, lying that it goes in the stove.",
      "quote": "On the account of Project Zombification, second tranche."
+    },
+    {
+     "ch": 10,
+     "what": "Foss's entry of the ninth hind's stand sits under the leaf headed with the name of the work (word not printed).",
+     "quote": "It said the date, and the division."
     }
    ]
   },
@@ -2463,7 +2665,7 @@
    ],
    "planted_ch": 2,
    "due_ch": 10,
-   "status": "advanced",
+   "status": "paid",
    "events": [
     {
      "ch": 2,
@@ -2474,8 +2676,14 @@
      "ch": 6,
      "what": "The ninth hind has done nothing in five days; Nuvalik takes the big knife to open her.",
      "quote": "The hide over the scapula lay the way hide lies."
+    },
+    {
+     "ch": 10,
+     "what": "The ninth hind stands up off the table, leans west, crosses eleven feet to the capped corner standpipe housing and lies down against it.",
+     "quote": "The hind reached the standpipe."
     }
-   ]
+   ],
+   "paid_ch": 10
   },
   {
    "hook_id": "H22-the-salt-bar",
@@ -2618,6 +2826,11 @@
      "ch": 8,
      "what": "Foss, riding, does not know which name he will be released with.",
      "quote": "When the work was done he would be released with his own name."
+    },
+    {
+     "ch": 10,
+     "what": "Foss takes the book down and writes the night in his own hand; the promise is not touched.",
+     "quote": "Foss went to the shelf over the press and took the book down, which Vesk had never seen anybody but Nuvalik do, and Nuvalik watched him do it and said nothing."
     }
    ]
   },
@@ -2736,6 +2949,11 @@
    "ch": 9,
    "title": "Two Myriads",
    "summary": "Day 10. In the Division archive Wystan draws the northern schedule of metered draw; the keeper says it is current, and it is a season old. Working from the assay's third dilution and Tally's count, eleven hinds and a stag, with spring weights off the Society's almanac, he prices the Ferriby pour twice and gets two myriads and a fraction both times. He concludes the dose was bought over a meter and that a bill was paid. Off the archive's map he takes four array lines within a day's ride of the Ferriby cut, Swale, Aysgill, Wendle and Scarth, and wires Logistics for their draw records in nine words under the Register's form. The refusal comes back in nine: returns publish on the schedule and not before. At the Timberline bench Yinzhi, working from her own coil reading and touching neither tin, shows him a compound that is idle in the flask and runs in a pail of pig. She will not carry it onto the Ferriby tin. At the eleventh division, as the main goes off, Wystan files a standing request against the Swale line: the return to reach the Night Register on the day it publishes."
+  },
+  {
+   "ch": 10,
+   "title": "The Ninth Hind",
+   "summary": "Day 12, the coldhouse. Deming arrives off the Swale road. Nuvalik reads him the book to the fifth day, and Foss enters that he heard it. The ninth hind lies on the slate table, opened along the near shoulder and flank since the fifth night. Vesk, making up a sealed flask, sees the Lord's hands keep their colour on the iron bench under the dead standpipes, away from the press. He makes nothing of it. At the twelfth division the ninth hind draws, rolls and stands up on the table. She leans west toward the corner. The Lord rises, takes his coat and stands at the door before she reaches it, and Vesk takes it for courtesy. She comes off the table and chips the slate. Deming is sick in the yard. She crosses to the capped standpipe housing, lies down against it and stays down. Foss reads the standpipe's cap through his glass: rust unbroken across the seam, nothing in the pipe for four years. Nuvalik says there is nobody in her, only the net. Deming blames eel at the ford. Foss measures eleven feet on the rule and writes *stood*. Malphas: the sink is the quiet."
   }
  ]
 }

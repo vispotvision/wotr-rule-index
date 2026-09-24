@@ -1,0 +1,84 @@
+{
+ "findings": [
+  {
+   "severity": "INFO",
+   "pass": "shape",
+   "quote": "# The Ninth Hind",
+   "problem": "Word count 3817 (verifier) against target 3500: 109%, within 80-150%.",
+   "evidence": "verify: length 3817 words (set-piece band); wc -w 3821",
+   "fix": "none"
+  },
+  {
+   "severity": "INFO",
+   "pass": "tell_scan",
+   "quote": "# The Ninth Hind",
+   "problem": "verify --band set-piece --culture Accord --combat: PASS, 0 fail, 0 warn.",
+   "evidence": "reification 1 within budget; sentence CV 0.92; paragraph CV 0.87",
+   "fix": "none"
+  },
+  {
+   "severity": "WARN",
+   "pass": "shape",
+   "quote": "# The Ninth Hind",
+   "problem": "gap_fill (non-set-piece default band) flags length outside standard 700-1500.",
+   "evidence": "gap_fill: WARN length 3817 words, outside the standard band 700-1500 (Table Rule 2)",
+   "fix": "none; chapter is set-piece band, verify with --band set-piece passes"
+  },
+  {
+   "severity": "WARN",
+   "pass": "combat_floor",
+   "quote": "# The Ninth Hind",
+   "problem": "gap_fill stratum audit counts Wellspring 0, Essence 0, Aether 2; physics terms none; mechanism vocabulary none.",
+   "evidence": "gap_fill items 3,4,7. Notes claim strata carried by Foss/Nuvalik without naming the Wellspring (R9-2); regex counts words only.",
+   "fix": "Confirm in review that the directional law and Essence stratum ('no Crystal in her') read on the page; no change needed if so"
+  },
+  {
+   "severity": "WARN",
+   "pass": "combat_floor",
+   "quote": "# The Ninth Hind",
+   "problem": "gap_fill counts 20 HEMA and 6 anatomy terms in a chapter the notes declare has no contest; 18 paragraphs flagged as physical exchange.",
+   "evidence": "gap_fill items 1,5; notes: 'Combat vocabulary: none. There is no contest.'",
+   "fix": "Ordinary-word regex hits likely; reviewer to confirm no stray combat vocabulary"
+  },
+  {
+   "severity": "INFO",
+   "pass": "voice",
+   "quote": "\"That will do,\" Malphas said.",
+   "problem": "Malphas short line reads off-fingerprint by length (z=-1.5, nearer Ara Min Mahuo).",
+   "evidence": "voice_check Malphas: 8 lines, mean 32 words (this line: 3, z=-1.5)",
+   "fix": "Optional; a 3-word dismissal is in character"
+  },
+  {
+   "severity": "INFO",
+   "pass": "voice",
+   "quote": "\"I beg the room's pardon,\" Deming said.",
+   "problem": "No fingerprint for Deming, Vesk, Nuvalik or Foss (fewer than eight archived lines); voice unchecked for them.",
+   "evidence": "voice_check: 'no fingerprint' for each",
+   "fix": "none"
+  },
+  {
+   "severity": "INFO",
+   "pass": "hooks",
+   "quote": "The ninth hind stood up off the table.",
+   "problem": "H21-the-ninth-hind keywords all present: ninth hind (7), table (21), stood (26), standpipe (2).",
+   "evidence": "grep counts on draft",
+   "fix": "none"
+  },
+  {
+   "severity": "INFO",
+   "pass": "hooks",
+   "quote": "\"That was the eel.\"",
+   "problem": "Declared lie sentence present verbatim.",
+   "evidence": "grep -F: 1 match",
+   "fix": "none"
+  },
+  {
+   "severity": "INFO",
+   "pass": "hooks",
+   "quote": "It was what a man of any breeding did, when the work was on its feet and he was sitting in its road.",
+   "problem": "Declared misreading sentence present verbatim.",
+   "evidence": "grep -F: 1 match",
+   "fix": "none"
+  }
+ ]
+}

@@ -590,3 +590,9 @@ R42-12 to R42-15 in `rules/doc-magic-system-rulings-2026-09-23.yaml`.
   described from The Four Paths' Fate section only.
 - **Kinjiki.** Stage XIV is Tier 8, Archmaster; the card is corrected from
   Paragon.
+
+## 2026-09-24 — new
+
+Isaac 2026-09-24: (1) Rovhen Talvasciel is retconned. The old Volume I card 'The Prettier' (Avian Crimsoncrest surgeon villain) is superseded; Rovhen is now a human retired private magical investigator, 28, former assistant to Edmund Lambert, new instructor at Aetherion Academy teaching the observation and investigation of magical phenomena. Old card to be rewritten or archived. (2) Edmund Lambert is a separate character from Edward Lambert and a member of the Lambert family; exact relation unset. Edmund is dead; Rovhen was his assistant.
+
+Context: Aetherion Academy thread, scene 'The Sort'. Old card 'Rovhen Talvasciel · The Prettier' (Volume I) collided with Isaac's new investigator. Canon has Edward Lambert 'The Arithmetic' (alive, Hild's right hand).

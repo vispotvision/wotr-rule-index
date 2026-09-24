@@ -30,8 +30,8 @@ All three are read-only against `wiki/` and write only inside this folder.
 **Measured.** Canon states an EU cost and a joule output for the same working
 three times, all on Dougou Ozumu Zettari's sheet and his Spellcraft page. They
 price one EU at **112 to 3,571 joules** — two to four decades below 1 EU = 1 MJ.
-The twelve characters who state both a reserve and a strike put a ceiling on the
-same quantity that spans 11.2 decades, 217 to 3.3×10¹³ J/EU.
+The thirteen characters who state both a reserve and a strike put a ceiling on
+the same quantity that spans 11.2 decades, 217 to 3.3×10¹³ J/EU.
 
 **By proxy.** Where no joules are stated, an EU figure is read against the band
 its Stage's Max Grade claims. At 1 EU = 1 MJ, 25 of 155 figures land in band;
@@ -40,11 +40,38 @@ the attested EU figures are not ordered by Stage: Stage XII alone spans 9.8
 orders of magnitude, and a Stage XIII reserve (92,000 EU) sits below a Stage V
 one (185,000 EU). The residual is Stage-shaped, from +0.98 decades at Stage III
 to −13.69 at Stage XIV. The proxy itself is checkable and imperfect: against the
-eighteen attested Strike Force figures it agrees seven times and is out by one to
+nineteen attested Strike Force figures it agrees seven times and is out by one to
 seven Grades on the rest.
 
 Logged as `CONFLICTS.md` C-034 (the measured conversion and the unordered
 reserves), C-035 (the AU/s formula fails on 26 of 29 cards), C-036 (the S/SS gap
 in the Grade table), C-037 (the η conflict), C-039 (the SSS ceiling written EJ
-for ZJ) and C-040 (eleven Strike Force figures against their Stage's Grade). All
+for ZJ) and C-040 (twelve Strike Force figures against their Stage's Grade). All
 are Isaac's to rule. **No card figure was changed.**
+
+## What `figure_class` means, and what WAR-17 changed
+
+A joule figure is `system_table` where it sits on one of the pages that define
+the ladders, `band_edge_quoted` where it is within 2% of a ladder figure — the
+line is citing the band, not measuring anything — and `attested` where the page
+states it for itself. Two restrictions keep the middle class honest, added under
+WAR-17 after the round-2 review of WAR-9:
+
+*   **Same measure.** Part Eleven runs two joule ladders, Strike Force and
+    Durability, over the same range of numbers. A figure is matched only against
+    the ladder for the measure its own line states — read off the field label
+    where there is one, else off the measure named nearest the figure in the
+    line, else the attack-output ladder, which is the one Part Four grades. Each
+    row carries that reading as `figure_measure` and `figure_measure_basis`.
+*   **Ladder rows only.** A number used to illustrate a rule in prose ("A Shell
+    rated at 5 TJ absorbs 5 TJ") is not a band edge, so only the rows of the
+    tables are matched against.
+
+Two rows changed class and one changed what it matched. Karo Venrik's
+**Strike Force** 300 MJ had been read as a citation of the F-Grade *Durability*
+row, 0.1–0.3 GJ; it is an `attested` card figure, and it is the nineteenth
+strike row in `grade_proxy_check` (C-040). Corona Lunaris's superseded 100 GJ
+threshold had been read against the C-Grade Durability row, and is `attested`.
+Souma Byakuya Moto's 0.005 PJ Durability keeps its class but now matches the
+B-Grade Durability ceiling rather than Part Eleven's prose illustration, the two
+being the same 5 TJ. Nothing else moved, and no card figure was changed.

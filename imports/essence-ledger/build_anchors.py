@@ -392,6 +392,18 @@ def owner(verbatim: str, token, page_title: str, file: str | None = None) -> tup
 #
 # 2% is wide enough to catch Part Eleven's 46 GJ against Part Four's 4.6024×10^10
 # and narrow enough to leave Dougou's 8–20 MJ clear of the 20.92 MJ D/C edge.
+#
+# Two restrictions on what counts as a match (WAR-17). Without them the test
+# fired on coincidence rather than citation:
+#
+#   *  **Same measure.** Part Eleven runs two joule ladders, Strike Force and
+#      Durability, over the same range of numbers, so a Strike Force figure is
+#      not citing a band because it happens to land on a Durability row. The
+#      measure a line states is read off it; where it states none, the figure is
+#      read against the attack-output ladder, which is the one Part Four grades.
+#   *  **Ladder rows only.** A number used to illustrate a rule in prose
+#      ("A Shell rated at 5 TJ absorbs 5 TJ") is not a band edge, so only the
+#      rows of the tables themselves are matched against.
 SYSTEM_PAGES = (
     "wiki/Fracture of Worlds — The Living System/",
     "wiki/The Magic System/",
@@ -399,29 +411,112 @@ SYSTEM_PAGES = (
 )
 EDGE_TOLERANCE = 0.02
 
+# The words a page uses for each of the two joule measures, in the ladder
+# headings and on the cards. Taken as the pages write them.
+MEASURE_WORDS = {
+    "strike": ("strike force", "strike energy", "attack output", "energy yield"),
+    "durability": ("durability", "shielding"),
+}
+MEASURE_RE = re.compile("|".join(re.escape(w) for ws in MEASURE_WORDS.values()
+                                 for w in ws), re.I)
+MEASURE_OF_WORD = {w: m for m, ws in MEASURE_WORDS.items() for w in ws}
+# A measure word that names the table rather than the figure. "the current
+# Strike Force and Durability table" says which table is being read, not which
+# of its two ladders the number came off, so it settles nothing.
+NAMES_A_TABLE = re.compile(r"^[^.;]{0,40}?\b(tables?|ladders?|columns?|benchmarks?)\b", re.I)
+DEFAULT_MEASURE = "strike"
+# The label prefixes that state a measure outright, as `fit.py` reads them.
+LABEL_MEASURE = {"strike force": "strike", "strike energy": "strike",
+                 "durability": "durability"}
+LADDER_ROW = re.compile(r"^\s*\|")
+TABLE_RULE = re.compile(r"^\s*\|[\s|:-]*\|\s*$")
+HEADING = re.compile(r"^\s*#{1,6}\s")
+
+
+def measure_words_in(text: str, at: int | None = None):
+    """Every measure word in a line that is not naming a table, nearest to
+    `at` first."""
+    hits = []
+    for m in MEASURE_RE.finditer(text):
+        if NAMES_A_TABLE.match(text[m.end():]):
+            continue
+        d = 0 if at is None else min(abs(m.end() - at), abs(m.start() - at))
+        hits.append((d, MEASURE_OF_WORD[m.group(0).lower()]))
+    return [m for _, m in sorted(hits, key=lambda h: h[0])]
+
+
+def figure_measure(row: dict) -> tuple[str, str]:
+    """(measure, basis) for a joule figure: what the line says it is measuring.
+    Never a guess about the figure — only what the line writes beside it."""
+    label = re.sub(r"\s+", " ", (row.get("label") or "")).strip().lower()
+    for prefix, measure in LABEL_MEASURE.items():
+        if label.startswith(prefix):
+            return measure, f"the field label, {row['label']!r}"
+    verbatim = row["verbatim"]
+    at = verbatim.find(row["token"]) if row.get("token") else -1
+    near = measure_words_in(verbatim, at if at >= 0 else None)
+    if near:
+        return near[0], "the measure named nearest the figure in the line"
+    return DEFAULT_MEASURE, "no measure named in the line; read against the attack-output ladder"
+
+
+def ladder_measure(file: str, line: int) -> str | None:
+    """The measure of the ladder a system-table row belongs to, read off the
+    table's own header row and the heading above it. `None` where the line is
+    not a row of a table at all."""
+    lines = (REPO / file).read_text(encoding="utf-8").splitlines()
+    if line > len(lines) or not LADDER_ROW.match(lines[line - 1]):
+        return None
+    header, heading = None, None
+    for i in range(line - 2, -1, -1):
+        raw = lines[i]
+        if header is None and TABLE_RULE.match(raw):
+            header = lines[i - 1] if i else None
+        if HEADING.match(raw):
+            heading = raw
+            break
+        if header is None and not LADDER_ROW.match(raw):
+            return None          # prose between the row and its own header
+    for text in (header, heading):
+        near = measure_words_in(text or "")
+        if near:
+            return near[0]
+    return DEFAULT_MEASURE
+
 
 def classify_joules(rows: list[dict]) -> None:
-    system_values: list[tuple[float, dict]] = []
+    system_values: dict[str, list[tuple[float, dict]]] = {m: [] for m in MEASURE_WORDS}
     for r in rows:
-        r["figure_class"] = ("system_table" if r["source"]["file"].startswith(SYSTEM_PAGES)
-                             else None)
-        if r["figure_class"] == "system_table":
-            for v in (r["value"], r["value_low"], r["value_high"]):
-                if v:
-                    system_values.append((v, r))
+        on_a_system_page = r["source"]["file"].startswith(SYSTEM_PAGES)
+        r["figure_class"] = "system_table" if on_a_system_page else None
+        if not on_a_system_page:
+            continue
+        measure = ladder_measure(r["source"]["file"], r["source"]["line"])
+        r["figure_measure"] = measure
+        r["figure_measure_basis"] = ("the ladder the row belongs to" if measure
+                                     else "not a ladder row")
+        if not measure:
+            continue             # prose on a system page is not a band edge
+        for v in (r["value"], r["value_low"], r["value_high"]):
+            if v:
+                system_values[measure].append((v, r))
 
-    def nearest(v):
-        if not v or not system_values:
+    def nearest(v, measure):
+        pool = system_values[measure]
+        if not v or not pool:
             return None, None
-        sv, src = min(system_values, key=lambda s: abs(math.log10(s[0] / v)))
-        return abs(sv - v) / max(sv, v), {"value": sv, "source": src["source"],
+        sv, src = min(pool, key=lambda s: abs(math.log10(s[0] / v)))
+        return abs(sv - v) / max(sv, v), {"value": sv, "measure": measure,
+                                          "source": src["source"],
                                           "verbatim": src["verbatim"]}
 
     for r in rows:
         if r["figure_class"]:
             continue
+        measure, basis = figure_measure(r)
+        r["figure_measure"], r["figure_measure_basis"] = measure, basis
         ends = [v for v in (r["value"], r["value_low"], r["value_high"]) if v]
-        diffs = [nearest(v) for v in ends]
+        diffs = [nearest(v, measure) for v in ends]
         if diffs and all(d is not None and d <= EDGE_TOLERANCE for d, _ in diffs):
             r["figure_class"] = "band_edge_quoted"
             r["nearest_system_figure"] = diffs[0][1]
@@ -625,6 +720,14 @@ def main() -> int:
                 "`attested` (the page states it for itself). Part Eleven:30 defines the "
                 "quantity: Strike Force is recorded in Newtons and Joules. A card's Strike "
                 "Force and Durability rows are therefore the quantity Part Four grades.",
+                "the band-edge test is restricted two ways, so that it catches a citation "
+                "rather than a coincidence (WAR-17). A figure is matched only against the "
+                "ladder for the measure its own line states — `figure_measure`, with "
+                "`figure_measure_basis` saying how it was read: the field label, else the "
+                "measure named nearest the figure in the line, else the attack-output "
+                "ladder, the one Part Four grades. And it is matched only against rows of "
+                "the ladder tables, never against a number a system page uses to "
+                "illustrate a rule in prose.",
                 "`entity` is read off the line, not off the page: the possessive name "
                 "nearest before the figure in the same line wins, then a possessive in the "
                 "page title, then the page title itself. `entity_basis` and "

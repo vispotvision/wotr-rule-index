@@ -7,6 +7,7 @@
     "method": "extract_anchors.py sweeps every wiki page for a figure carrying one of the four essence units, then build_anchors.py adds the system tables verbatim and a short hand supplement. No figure here is computed, rounded or inferred: each row quotes the whole line it came from, with file and line. Where a page states that a figure does not exist, the row is in `unquantified` rather than filled in.",
     "caveats": [
       "`joules` holds the measured side of the conversion: every joule figure in the mirror, with `figure_class` saying which kind it is — `system_table` (the figure is part of a Grade ladder), `band_edge_quoted` (within 2% of a ladder figure, so the line cites the band rather than measuring) or `attested` (the page states it for itself). Part Eleven:30 defines the quantity: Strike Force is recorded in Newtons and Joules. A card's Strike Force and Durability rows are therefore the quantity Part Four grades.",
+      "the band-edge test is restricted two ways, so that it catches a citation rather than a coincidence (WAR-17). A figure is matched only against the ladder for the measure its own line states — `figure_measure`, with `figure_measure_basis` saying how it was read: the field label, else the measure named nearest the figure in the line, else the attack-output ladder, the one Part Four grades. And it is matched only against rows of the ladder tables, never against a number a system page uses to illustrate a rule in prose.",
       "`entity` is read off the line, not off the page: the possessive name nearest before the figure in the same line wins, then a possessive in the page title, then the page title itself. `entity_basis` and `entity_evidence` carry which rule fired and the words it fired on. This is why The Iron Tree's reserve rows say Dougou, Obrenkael's ruling line says Kwon Hae-ryu and the Open Crucible's cost row says Kwon Mu-jin.",
       "`duplicate_of` marks a row restating a figure already recorded for the same entity — same entity, same kind, same value. Every attestation stays in the file; the fit counts each figure once. Two figures for one character that differ (Krothar suppressed and unsuppressed, Sodoku's card and his Level 500 configuration) are not duplicates and are not marked.",
       "An anchor's `source.file` is the key into `pages`, which holds what that page states about its own practitioner. `pages` fields are read from labelled card fields only: a Stage named in prose, or a Grade from a stat row, is left null rather than guessed, and `context_lines` quotes the field lines for audit.",
@@ -31216,8 +31217,11 @@
       },
       "verbatim": "A katana-form blade: plausible mass 950 g, blade length 85 cm, overall length with hilt and reed-guard near 120 cm, point of balance roughly 15 cm forward of the guard, consistent with a cutting-forward katana rather than a thrusting one. On the Strike Force table, a cut delivered through Hozume's own Ardency, 395, A-Grade, sits at 20 to 100 GN, 46 GJ to 4.184 TJ, City Block to Multi-City Block level, and defeats plate, fortress stone and anything below that ceiling. It fails against S-Grade and above personal or structural defences (Town-level output or a true Domain barrier) and against anything past Hozume's own Stage VIII ceiling of 550.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -31248,8 +31252,11 @@
       },
       "verbatim": "A katana-form blade: plausible mass 950 g, blade length 85 cm, overall length with hilt and reed-guard near 120 cm, point of balance roughly 15 cm forward of the guard, consistent with a cutting-forward katana rather than a thrusting one. On the Strike Force table, a cut delivered through Hozume's own Ardency, 395, A-Grade, sits at 20 to 100 GN, 46 GJ to 4.184 TJ, City Block to Multi-City Block level, and defeats plate, fortress stone and anything below that ceiling. It fails against S-Grade and above personal or structural defences (Town-level output or a true Domain barrier) and against anything past Hozume's own Stage VIII ceiling of 550.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -31280,8 +31287,11 @@
       },
       "verbatim": "A forearm-and-hand gauntlet: plausible mass 3.6 kg, length 44 cm from wrist cuff to fingertip, point of balance at the heel of the palm beneath the gem, where the plate is thickest. On the Strike Force table, a discharge through it sits at Wilhelm's own Ardency, 268, B-Grade: 1 to 5 GN peak, 1.046 to 46 GJ, Building to Large Building level. It defeats proofed plate and fortified structure up to that ceiling. It fails against A-Grade-and-above personal defences (a Refraction-Stage or higher Domain shield), and, per its own Binding Limitation, against anything carrying genuine Divine Immunity.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 1046000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 32
@@ -31312,6 +31322,8 @@
       },
       "verbatim": "| Hollow | 1–10 | below 60 J | below 12.4 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31335,6 +31347,8 @@
       },
       "verbatim": "| F | 11–25 | 60–300 J | 12.4–60 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31358,6 +31372,8 @@
       },
       "verbatim": "| E | 26–50 | 300 J – 15 kJ | 60–150 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31381,6 +31397,8 @@
       },
       "verbatim": "| E | 26–50 | 300 J – 15 kJ | 60–150 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31404,6 +31422,8 @@
       },
       "verbatim": "| D | 51–100 | 15 kJ – 2.092×10^7 J | 150–340 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31427,6 +31447,8 @@
       },
       "verbatim": "| D | 51–100 | 15 kJ – 2.092×10^7 J | 150–340 m/s |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31450,6 +31472,8 @@
       },
       "verbatim": "| C | 101–175 | 2.092×10^7 – 1.046×10^9 J | Mach 1.0–1.5 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31473,6 +31497,8 @@
       },
       "verbatim": "| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31496,6 +31522,8 @@
       },
       "verbatim": "| A | 276–400 | 4.6024×10^10 – 4.184×10^12 J | Mach 5–25 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31519,6 +31547,8 @@
       },
       "verbatim": "| S | 401–550 | 4.184×10^12 – 2.42672×10^13 J | Mach 25–200 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31542,6 +31572,8 @@
       },
       "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31565,6 +31597,8 @@
       },
       "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31588,6 +31622,8 @@
       },
       "verbatim": "| X | 951–1,200 | 4.184×10^21 – 1.24×10^29 J | 10–50% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31611,6 +31647,8 @@
       },
       "verbatim": "| EX | 1,201–1,500 | 1.24×10^29 – 6.906×10^37 J | 50–100% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31634,6 +31672,8 @@
       },
       "verbatim": "| EX+ | 1,501+ | 6.906×10^37 J and above | FTL and above |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31657,6 +31697,8 @@
       },
       "verbatim": "| Hollow | 1–10 | 200–800 N | below 60 J | — | Untrained to athletic human punch |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31680,6 +31722,8 @@
       },
       "verbatim": "| F | 11–25 | 0.2–0.5 MN | 60–300 J | — | Trained athlete to industrial press |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31703,6 +31747,8 @@
       },
       "verbatim": "| E | 26–50 | 2–5 MN | 300 J – 15 kJ | — | Compact car impact concentrated into a limb |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31726,6 +31772,8 @@
       },
       "verbatim": "| E | 26–50 | 2–5 MN | 300 J – 15 kJ | — | Compact car impact concentrated into a limb |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31749,6 +31797,8 @@
       },
       "verbatim": "| D | 51–100 | 20–70 MN | 15 kJ – 20.92 MJ | — | Heavy industrial press to demolition charge |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31772,6 +31822,8 @@
       },
       "verbatim": "| D | 51–100 | 20–70 MN | 15 kJ – 20.92 MJ | — | Heavy industrial press to demolition charge |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31795,6 +31847,8 @@
       },
       "verbatim": "| C | 101–175 | 0.1–0.3 GN | 20.92 MJ – 1.046 GJ | 0.005–0.25 t | Small Building to low Building |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31818,6 +31872,8 @@
       },
       "verbatim": "| C | 101–175 | 0.1–0.3 GN | 20.92 MJ – 1.046 GJ | 0.005–0.25 t | Small Building to low Building |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31841,6 +31897,8 @@
       },
       "verbatim": "| B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31864,6 +31922,8 @@
       },
       "verbatim": "| A | 276–400 | 20–100 GN | 46 GJ – 4.184 TJ | 11–1,000 t | City Block to Multi-City Block |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31887,6 +31947,8 @@
       },
       "verbatim": "| A | 276–400 | 20–100 GN | 46 GJ – 4.184 TJ | 11–1,000 t | City Block to Multi-City Block |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31910,6 +31972,8 @@
       },
       "verbatim": "| S | 401–550 | 0.5–2 TN | 4.184–24.3 TJ | 1–5.8 kt | Small Town to Town |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31933,6 +31997,8 @@
       },
       "verbatim": "| SS | 551–725 | 10–200 TN | 41.8–418 TJ | 10–100 kt | Town to Large Town (nuclear yield range) |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31956,6 +32022,8 @@
       },
       "verbatim": "| SSS | 726–950 | 1–5 PN | 418 TJ – 4.184 ZJ | 100 kt – 1 Tt | Large Town to Small Country |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -31979,6 +32047,8 @@
       },
       "verbatim": "| SSS | 726–950 | 1–5 PN | 418 TJ – 4.184 ZJ | 100 kt – 1 Tt | Large Town to Small Country |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32002,6 +32072,8 @@
       },
       "verbatim": "| X | 951–1,200 | 50–500 PN | 4.184 ZJ – 1.24×10²⁹ J | 1 Tt – 29.6 Et | Country to Moon |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32025,6 +32097,8 @@
       },
       "verbatim": "| X | 951–1,200 | 50–500 PN | 4.184 ZJ – 1.24×10²⁹ J | 1 Tt – 29.6 Et | Country to Moon |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32048,6 +32122,8 @@
       },
       "verbatim": "| EX | 1,201–1,500 | 5–50 EN | 1.24×10²⁹ J – 6.9×10³⁷ J | 29.6 Et – 16.5 Rt | Moon to Large Planet |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32071,6 +32147,8 @@
       },
       "verbatim": "| EX | 1,201–1,500 | 5–50 EN | 1.24×10²⁹ J – 6.9×10³⁷ J | 29.6 Et – 16.5 Rt | Moon to Large Planet |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32094,6 +32172,8 @@
       },
       "verbatim": "| EX+ | 1,501+ | >50 EN | >6.9×10³⁷ J | >16.5 Rt | Brown Dwarf and beyond |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32117,6 +32197,8 @@
       },
       "verbatim": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh.",
       "figure_class": "system_table",
+      "figure_measure": null,
+      "figure_measure_basis": "not a ladder row",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32140,6 +32222,8 @@
       },
       "verbatim": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh.",
       "figure_class": "system_table",
+      "figure_measure": null,
+      "figure_measure_basis": "not a ladder row",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32163,6 +32247,8 @@
       },
       "verbatim": "**Layer Three: Technique-Active Defenses.** Wards, barriers, Domain-grade exclusion fields actively maintained or deployed. Not included in baseline benchmarks because they are technique-dependent and Essence-costly. A Fixatio-anchored barrier with a 50 TJ ceiling adds that on top of baseline, but costs Essence to maintain and can be shattered independently.",
       "figure_class": "system_table",
+      "figure_measure": null,
+      "figure_measure_basis": "not a ladder row",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32186,6 +32272,8 @@
       },
       "verbatim": "| Hollow | 100–800 J | — | Survives unarmed human combat |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32209,6 +32297,8 @@
       },
       "verbatim": "| F | 0.1–0.3 GJ | — | Survives small arms fire and bladed weapons |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32232,6 +32322,8 @@
       },
       "verbatim": "| E | 1–5 GJ | — | Survives vehicular impact and explosive fragmentation |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32255,6 +32347,8 @@
       },
       "verbatim": "| D | 10–50 GJ | — | Survives direct artillery and structural collapse |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32278,6 +32372,8 @@
       },
       "verbatim": "| C | 0.1–0.3 TJ | 0.024–0.072 t | Survives localized demolition-scale events |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32301,6 +32397,8 @@
       },
       "verbatim": "| B | 1–5 TJ | 0.24–1.2 t | Survives building-scale destruction |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32324,6 +32422,8 @@
       },
       "verbatim": "| A | 0.2–1 PJ | 48–239 t | Survives city-block-scale destruction |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32347,6 +32447,8 @@
       },
       "verbatim": "| S | 2–10 PJ | 0.48–2.4 kt | Survives small-town-scale destruction |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32370,6 +32472,8 @@
       },
       "verbatim": "| SS | 40–800 PJ | 9.6–191 kt | Survives regional-scale destruction |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32393,6 +32497,8 @@
       },
       "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32416,6 +32522,8 @@
       },
       "verbatim": "| X | 10 EJ – 500 ZJ | 2.4 Mt – 120 Gt | Survives continental to lunar-scale events |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32439,6 +32547,8 @@
       },
       "verbatim": "| X | 10 EJ – 500 ZJ | 2.4 Mt – 120 Gt | Survives continental to lunar-scale events |",
       "figure_class": "system_table",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32462,6 +32572,8 @@
       },
       "verbatim": "| **Hollow** | 1–10 | below 60 J |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32485,6 +32597,8 @@
       },
       "verbatim": "| **F** | 11–25 | 60–300 J |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32508,6 +32622,8 @@
       },
       "verbatim": "| **E** | 26–50 | 300 J – 15 kJ *(street to wall)* |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32531,6 +32647,8 @@
       },
       "verbatim": "| **E** | 26–50 | 300 J – 15 kJ *(street to wall)* |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32554,6 +32672,8 @@
       },
       "verbatim": "| **D** | 51–100 | 15 kJ – 2.09 × 10⁷ J *(wall)* |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32577,6 +32697,8 @@
       },
       "verbatim": "| **D** | 51–100 | 15 kJ – 2.09 × 10⁷ J *(wall)* |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32600,6 +32722,8 @@
       },
       "verbatim": "| **C** | 101–175 | to 1.05 × 10⁹ J *(building)* |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32623,8 +32747,11 @@
       },
       "verbatim": "**Numerical Effect** · At Stage X's SS-Grade ceiling, a delivered strike's structural weight can in principle be ratified up to the SS-Grade band (10 to 200 TN peak force, 41.8 to 418 TJ), though most individual deliveries land far below that figure; the technique's advantage is in timing and certainty of arrival, not raw destructive scaling. One concrete data point is given directly: against a light-infantry line, arrivals come at a rate of roughly one weapon transition every two to three strides.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 41800000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -32655,8 +32782,11 @@
       },
       "verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 20900000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 132
@@ -32687,8 +32817,11 @@
       },
       "verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 20900000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 132
@@ -32719,8 +32852,11 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) is the largest event the Veil can select the outcome of at Stage XII; it is a ceiling on what may be overridden, not a discharge the Veil itself releases.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -32751,15 +32887,18 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) is the largest event the Veil can select the outcome of at Stage XII; it is a ceiling on what may be overridden, not a discharge the Veil itself releases.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5e+18,
+        "value": 4.184e+21,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 95
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 37
         },
-        "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |"
+        "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |"
       },
-      "distance_from_nearest_system_figure": 0.1632,
+      "distance_from_nearest_system_figure": 0.9989999999999999,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32783,8 +32922,11 @@
       },
       "verbatim": "**Numerical Effect** · At Stage VIII's S-Grade ceiling, the threshold sits at 0.5 to 2 TN peak force, 4.184 to 24.3 TJ, a 1 to 5.8-kiloton TNT equivalent, Small Town to Town scale. Anything below that band loses power against the stance. The stance holds for roughly twelve seconds, matching the source's four old-count turns.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -32815,8 +32957,11 @@
       },
       "verbatim": "**Numerical Effect** · Strike Force triples for the duration, pushing his own A-Grade Ardency baseline (20–100 GN peak, 46 GJ–4 TJ yield, per the FOW Physical Benchmarks table) toward the top of that band or briefly past it, an Overchannel-range spike rather than sustained output.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -32847,8 +32992,11 @@
       },
       "verbatim": "**Numerical Effect** · Strike Force triples for the duration, pushing his own A-Grade Ardency baseline (20–100 GN peak, 46 GJ–4 TJ yield, per the FOW Physical Benchmarks table) toward the top of that band or briefly past it, an Overchannel-range spike rather than sustained output.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -32879,8 +33027,11 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) for the Worldrend Vector; Worldbind Bastion draws on the same ceiling as sustained stabilisation rather than released force across a 5 to 50 m radius; Dreamveil Cascade applies it as a short-range omnidirectional perceptual pulse.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -32911,15 +33062,18 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) for the Worldrend Vector; Worldbind Bastion draws on the same ceiling as sustained stabilisation rather than released force across a 5 to 50 m radius; Dreamveil Cascade applies it as a short-range omnidirectional perceptual pulse.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5e+18,
+        "value": 4.184e+21,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 95
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 37
         },
-        "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |"
+        "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |"
       },
-      "distance_from_nearest_system_figure": 0.1632,
+      "distance_from_nearest_system_figure": 0.9989999999999999,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -32943,8 +33097,11 @@
       },
       "verbatim": "**Numerical Effect** · Range up to 300 m, line-of-sight, delivered as a line up to 100 m long and under 3 cm wide; at the required SSS-Grade the cut sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield along the line, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous, with resonance cracks lingering a few seconds along the cut.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -32975,8 +33132,11 @@
       },
       "verbatim": "**Numerical Effect** · Encases the target in a half-sphere for 2 turns sustained, or until it has converted a running total of hostile energy and shatters. That threshold is set at 46 GJ, the upper energy bound of B-Grade under the current Strike Force and Durability table, converted down from the source's uncapped 100 GJ figure since Stage V's own ceiling does not reach that far.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -33006,16 +33166,19 @@
         "line": 39
       },
       "verbatim": "**Numerical Effect** · Encases the target in a half-sphere for 2 turns sustained, or until it has converted a running total of hostile energy and shatters. That threshold is set at 46 GJ, the upper energy bound of B-Grade under the current Strike Force and Durability table, converted down from the source's uncapped 100 GJ figure since Stage V's own ceiling does not reach that far.",
-      "figure_class": "band_edge_quoted",
+      "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
-        "value": 100000000000.0,
+        "value": 46024000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 90
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 33
         },
-        "verbatim": "| C | 0.1–0.3 TJ | 0.024–0.072 t | Survives localized demolition-scale events |"
+        "verbatim": "| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |"
       },
-      "distance_from_nearest_system_figure": 0.0,
+      "distance_from_nearest_system_figure": 0.53976,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33039,8 +33202,11 @@
       },
       "verbatim": "**Numerical Effect** · At Stage IX, S-Grade, the Bloom's held force sits in the 0.5-2 TN, 4.184-24.3 TJ band, small town to town level. A combat-scale Bloom runs 6-18 metres; the Stillpoint eye at apex runs 1-2 metres.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33071,8 +33237,11 @@
       },
       "verbatim": "**Numerical Effect** · The baseline strike sits at Stage VIII's S-Grade ceiling, 0.5 to 2 TN peak force, 4.184 to 24.3 TJ. Against a fully hesitant target the impact doubles, which the Stage can sustain without instability, since Stage VIII's own late push runs toward SS-Grade before any Overchannel risk applies. Windup and strike together run roughly three seconds, matching the source's single old-count turn.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33103,8 +33272,11 @@
       },
       "verbatim": "**Numerical Effect** · Range up to 500 m, line-of-sight, primarily single-target with a secondary 15 m radius dissonance burst on collapse; at the required SSS-Grade the strike sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous once frequency-lock completes, with residual dissonance lasting a few seconds.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -33135,8 +33307,11 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) stands as the ceiling on the sheer scale of perceptual field the overlay can sustain at Stage XII; nothing in that range is discharged against a body, since the working never touches physical reality.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -33167,15 +33342,18 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) stands as the ceiling on the sheer scale of perceptual field the overlay can sustain at Stage XII; nothing in that range is discharged against a body, since the working never touches physical reality.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5e+18,
+        "value": 4.184e+21,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 95
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 37
         },
-        "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |"
+        "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |"
       },
-      "distance_from_nearest_system_figure": 0.1632,
+      "distance_from_nearest_system_figure": 0.9989999999999999,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33199,8 +33377,11 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) when run in Fracture Cascade mode; Ecliptic Aegis and Oneiric Reversal modes draw on the same ceiling as absorbed or redirected rather than released force.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -33231,15 +33412,18 @@
       },
       "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) when run in Fracture Cascade mode; Ecliptic Aegis and Oneiric Reversal modes draw on the same ceiling as absorbed or redirected rather than released force.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5e+18,
+        "value": 4.184e+21,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 95
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 37
         },
-        "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |"
+        "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |"
       },
-      "distance_from_nearest_system_figure": 0.1632,
+      "distance_from_nearest_system_figure": 0.9989999999999999,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33263,8 +33447,11 @@
       },
       "verbatim": "**Numerical Effect** · At Stage VI's A-Grade ceiling, peak force runs 20 to 100 GN and energy yield 46 GJ to 4.184 TJ, an 11 to 1,000-tonne TNT equivalent, City Block to Multi-City Block scale at the sustainable maximum. The burst itself is instantaneous, under a second, matching the source's \"1 turn (instant burst).\"",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -33295,8 +33482,11 @@
       },
       "verbatim": "**Numerical Effect** · At Stage VI's A-Grade ceiling, peak force runs 20 to 100 GN and energy yield 46 GJ to 4.184 TJ, an 11 to 1,000-tonne TNT equivalent, City Block to Multi-City Block scale at the sustainable maximum. The burst itself is instantaneous, under a second, matching the source's \"1 turn (instant burst).\"",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33327,8 +33517,11 @@
       },
       "verbatim": "**Numerical Effect** · Range up to 900 m, single-target with a fractured echo along a line up to 40 m; at the required SSS-Grade the strike sits at the conservative low end of that Grade's benchmark, on the order of 1 PN of peak force and roughly 400 TJ of yield (low hundred-kiloton TNT-equivalent), an estimate chosen per Law Two since the card gives no force figure of its own. Resolution is instantaneous, with the harmonic disturbance it leaves lingering a few seconds afterward.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -33359,8 +33552,11 @@
       },
       "verbatim": "**Numerical Effect** · Eight-metre displacement, instant. The strike that follows draws on his documented Ardency 320 (A-Grade): peak force in the 20–100 GN range, 46 GJ to 4 TJ yield, city-block-scale output at full commitment, though an ambush strike is a fraction of that ceiling rather than the full spike.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -33397,8 +33593,11 @@
       },
       "verbatim": "**Numerical Effect** · Eight-metre displacement, instant. The strike that follows draws on his documented Ardency 320 (A-Grade): peak force in the 20–100 GN range, 46 GJ to 4 TJ yield, city-block-scale output at full commitment, though an ambush strike is a fraction of that ceiling rather than the full spike.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33435,8 +33634,11 @@
       },
       "verbatim": "**Numerical Effect** · Strike Force is Draven's own attested Ardency 320, A-Grade: 20 to 100 GN peak, 46 GJ to 4.184 TJ yield, city-block scale, with this technique run near the top of that sustainable range rather than an Overchannel spike. The freeze itself holds for 1 to 2 seconds, kept from the card as given.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -33473,8 +33675,11 @@
       },
       "verbatim": "**Numerical Effect** · Strike Force is Draven's own attested Ardency 320, A-Grade: 20 to 100 GN peak, 46 GJ to 4.184 TJ yield, city-block scale, with this technique run near the top of that sustainable range rather than an Overchannel spike. The freeze itself holds for 1 to 2 seconds, kept from the card as given.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33505,8 +33710,11 @@
       },
       "verbatim": "**Numerical Effect** · Heat extraction and impact force both land at Draven's A-Grade Ardency band (20–100 GN peak force, 46 GJ–4 TJ yield, city-block scale, per the FOW Physical Benchmarks table), delivered instantaneously across the arc rather than sustained.",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -33543,8 +33751,11 @@
       },
       "verbatim": "**Numerical Effect** · Heat extraction and impact force both land at Draven's A-Grade Ardency band (20–100 GN peak force, 46 GJ–4 TJ yield, city-block scale, per the FOW Physical Benchmarks table), delivered instantaneously across the arc rather than sustained.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -33581,6 +33792,8 @@
       },
       "verbatim": "| **Hollow** | 1 – 10 | Below 60 J. The kinetic energy of a thrown fist at human speed | below 12.4 m/s · below 44.7 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33604,6 +33817,8 @@
       },
       "verbatim": "| **F** | 11 – 25 | 60 – 300 J. Human to trained athlete | 12.4 – 60 m/s · 44.7 – 216 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33627,6 +33842,8 @@
       },
       "verbatim": "| **E** | 26 – 50 | 300 J – 15 kJ. Street to low Wall level | 60 – 150 m/s · 216 – 540 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33650,6 +33867,8 @@
       },
       "verbatim": "| **E** | 26 – 50 | 300 J – 15 kJ. Street to low Wall level | 60 – 150 m/s · 216 – 540 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33673,6 +33892,8 @@
       },
       "verbatim": "| **D** | 51 – 100 | 15 kJ – 2.092 × 10^7 J. Wall level, 0.005 tons TNT at the ceiling | 150 – 340 m/s · 540 – 1,224 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33696,6 +33917,8 @@
       },
       "verbatim": "| **D** | 51 – 100 | 15 kJ – 2.092 × 10^7 J. Wall level, 0.005 tons TNT at the ceiling | 150 – 340 m/s · 540 – 1,224 km/h |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33719,6 +33942,8 @@
       },
       "verbatim": "| **C** | 101 – 175 | 2.092 × 10^7 – 1.046 × 10^9 J. Small Building to low Building, 0.005 – 0.25 tons TNT | 340 – 500 m/s · Mach 1.0 – 1.5 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33742,6 +33967,8 @@
       },
       "verbatim": "| **B** | 176 – 275 | 1.046 × 10^9 – 4.6024 × 10^10 J. Building to Large Building, 0.25 – 11 tons TNT | 510 – 1,372 m/s · Mach 1.5 – 4 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33765,6 +33992,8 @@
       },
       "verbatim": "| **A** | 276 – 400 | 4.6024 × 10^10 – 4.184 × 10^12 J. City Block to Multi-City Block, 11 – 1,000 tons TNT | 1,715 – 8,575 m/s · Mach 5 – 25 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33788,6 +34017,8 @@
       },
       "verbatim": "| **S** | 401 – 550 | 4.184 × 10^12 – 2.42672 × 10^13 J. Small Town to Town, 1 – 5.8 kilotons TNT | 8,575 – 68,600 m/s · Mach 25 – 200 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33811,6 +34042,8 @@
       },
       "verbatim": "| **SS** | 551 – 725 | 4.184 × 10^13 – 4.184 × 10^14 J. Town to Large Town, 10 – 100 kilotons TNT | 68,600 – 343,000 m/s · Mach 200 – 1,000 |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33834,6 +34067,8 @@
       },
       "verbatim": "| **SSS** | 726 – 950 | 4.184 × 10^14 – 4.184 × 10^21 J. Large Town to Small Country, 100 kilotons – 1 teraton TNT | Sub-Relativistic, 1% – 10% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33857,6 +34092,8 @@
       },
       "verbatim": "| **X** | 951 – 1,200 | 4.184 × 10^21 – 1.24 × 10^29 J. Country to Moon, 1 teraton – 29.6 exatons TNT | Relativistic, 10% – 50% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33880,6 +34117,8 @@
       },
       "verbatim": "| **EX** | 1,201 – 1,500 | 1.24 × 10^29 – 6.906 × 10^37 J. Moon to Large Planet, 29.6 exatons – 16.512 ronnatons TNT | Relativistic+, 50% – 100% c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33903,6 +34142,8 @@
       },
       "verbatim": "| **EX+** | 1,501 and above | 6.906 × 10^37 J and above. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale | FTL and above, beginning at c |",
       "figure_class": "system_table",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the ladder the row belongs to",
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33926,15 +34167,18 @@
       },
       "verbatim": "**Strike Force** 1.2 GN baseline / **2.4 GN vs Fixatio-locked targets** · 4.8 GJ / **18.6 GJ amplified** — *~1.1 tons TNT baseline, ~4.4 tons amplified*",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5000000000.0,
+        "value": 1050000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 88
+          "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
+          "line": 133
         },
-        "verbatim": "| E | 1–5 GJ | — | Survives vehicular impact and explosive fragmentation |"
+        "verbatim": "| **C** | 101–175 | to 1.05 × 10⁹ J *(building)* |"
       },
-      "distance_from_nearest_system_figure": 0.04,
+      "distance_from_nearest_system_figure": 0.78125,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33958,15 +34202,18 @@
       },
       "verbatim": "**Strike Force** 1.2 GN baseline / **2.4 GN vs Fixatio-locked targets** · 4.8 GJ / **18.6 GJ amplified** — *~1.1 tons TNT baseline, ~4.4 tons amplified*",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 10000000000.0,
+        "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 89
+          "line": 39
         },
-        "verbatim": "| D | 10–50 GJ | — | Survives direct artillery and structural collapse |"
+        "verbatim": "| B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |"
       },
-      "distance_from_nearest_system_figure": 0.46236559139784944,
+      "distance_from_nearest_system_figure": 0.5956521739130435,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -33990,8 +34237,11 @@
       },
       "verbatim": "**Durability** 8.4 GJ Shell / 2.1 GJ physical · **Attack Speed** Mach 1.4 sustained · **Reaction 15–30ms Solvari neural conduction advantage**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 10000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 89
@@ -34022,15 +34272,18 @@
       },
       "verbatim": "**Durability** 8.4 GJ Shell / 2.1 GJ physical · **Attack Speed** Mach 1.4 sustained · **Reaction 15–30ms Solvari neural conduction advantage**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 1050000000.0,
+        "value": 1000000000.0,
+        "measure": "durability",
         "source": {
-          "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
-          "line": 133
+          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+          "line": 88
         },
-        "verbatim": "| **C** | 101–175 | to 1.05 × 10⁹ J *(building)* |"
+        "verbatim": "| E | 1–5 GJ | — | Survives vehicular impact and explosive fragmentation |"
       },
-      "distance_from_nearest_system_figure": 0.5,
+      "distance_from_nearest_system_figure": 0.5238095238095238,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34054,15 +34307,18 @@
       },
       "verbatim": "**Still Current** · Lineage — **Shell microanchors resist deformation up to 0.8 TJ per localised impact.** *Incoming Shell-targeting techniques must break the anchor first.*",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
-        "value": 1000000000000.0,
+        "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 91
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 34
         },
-        "verbatim": "| B | 1–5 TJ | 0.24–1.2 t | Survives building-scale destruction |"
+        "verbatim": "| A | 276–400 | 4.6024×10^10 – 4.184×10^12 J | Mach 5–25 |"
       },
-      "distance_from_nearest_system_figure": 0.2,
+      "distance_from_nearest_system_figure": 0.8087954110898662,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34086,15 +34342,18 @@
       },
       "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 4e+16,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 94
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| SS | 40–800 PJ | 9.6–191 kt | Survives regional-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.5454545454545454,
+      "distance_from_nearest_system_figure": 0.9952454545454545,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34118,8 +34377,11 @@
       },
       "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 4e+16,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -34150,8 +34412,11 @@
       },
       "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 1000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 91
@@ -34182,8 +34447,11 @@
       },
       "verbatim": "**Strike Force** · 0.15 GN / 0.4 PJ — *direct physical strikes are negligible;* **her impact manifests in structural changes to morale, oaths and ritual law rather than kinetic damage**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 418000000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 42
@@ -34214,8 +34482,11 @@
       },
       "verbatim": "**Durability** · 11 PJ shielding / 280 GJ hardness — heavily biased toward **layered liturgical wards, Moto-crafted artifacts and winter-law barriers woven through her attire**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 1e+16,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 93
@@ -34246,8 +34517,11 @@
       },
       "verbatim": "**Durability** · 11 PJ shielding / 280 GJ hardness — heavily biased toward **layered liturgical wards, Moto-crafted artifacts and winter-law barriers woven through her attire**",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 300000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -34278,15 +34552,18 @@
       },
       "verbatim": "**Strike Force (Sustained):** SS-Grade equivalent (est. 55–200 GJ range) — Borin’s combat-relevant output is incidental to his craft. A hammer-stroke designed to reshape S-Grade alloy at the molecular level delivers force sufficient to reshape most opponents at the anatomical level. He does not train for combat. He does not need to. The forge has its own opinions about uninvited guests.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force (Sustained)'",
       "nearest_system_figure": {
-        "value": 50000000000.0,
+        "value": 46024000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 89
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 33
         },
-        "verbatim": "| D | 10–50 GJ | — | Survives direct artillery and structural collapse |"
+        "verbatim": "| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |"
       },
-      "distance_from_nearest_system_figure": 0.09090909090909091,
+      "distance_from_nearest_system_figure": 0.1632,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34310,8 +34587,11 @@
       },
       "verbatim": "**Strike Force** · 80,000 N casual / **up to 12,000,000 N, 8–20 MJ, at apex contact**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 20900000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 132
@@ -34342,15 +34622,18 @@
       },
       "verbatim": "**Durability** · 100,000 J baseline / up to 8 MJ in True Iron Bison state",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 15000.0,
+        "value": 800.0,
+        "measure": "durability",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
-          "line": 30
+          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+          "line": 86
         },
-        "verbatim": "| E | 26–50 | 300 J – 15 kJ | 60–150 m/s |"
+        "verbatim": "| Hollow | 100–800 J | — | Survives unarmed human combat |"
       },
-      "distance_from_nearest_system_figure": 0.85,
+      "distance_from_nearest_system_figure": 0.992,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34374,15 +34657,18 @@
       },
       "verbatim": "**Durability** · 100,000 J baseline / up to 8 MJ in True Iron Bison state",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 20900000.0,
+        "value": 100000000.0,
+        "measure": "durability",
         "source": {
-          "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
-          "line": 132
+          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+          "line": 87
         },
-        "verbatim": "| **D** | 51–100 | 15 kJ – 2.09 × 10⁷ J *(wall)* |"
+        "verbatim": "| F | 0.1–0.3 GJ | — | Survives small arms fire and bladed weapons |"
       },
-      "distance_from_nearest_system_figure": 0.6172248803827751,
+      "distance_from_nearest_system_figure": 0.92,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34406,8 +34692,11 @@
       },
       "verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
         "value": 20900000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 132
@@ -34438,8 +34727,11 @@
       },
       "verbatim": "**Strike Force** · Ardency 320, A-Grade — **on the order of 20–100 GN peak force, 46 GJ to 4 TJ yield, city-block scale.** *The legacy sheet's 300 GN sits just above A-Grade and reads as an Overchannel spike rather than sustainable output.*",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 46000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 39
@@ -34470,8 +34762,11 @@
       },
       "verbatim": "**Strike Force** · Ardency 320, A-Grade — **on the order of 20–100 GN peak force, 46 GJ to 4 TJ yield, city-block scale.** *The legacy sheet's 300 GN sits just above A-Grade and reads as an Overchannel spike rather than sustainable output.*",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -34502,8 +34797,11 @@
       },
       "verbatim": "**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monlithion law*",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 8e+17,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -34534,8 +34832,11 @@
       },
       "verbatim": "**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monlithion law*",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 300000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -34566,15 +34867,18 @@
       },
       "verbatim": "**Strike Force** · Ardency 395, mid S-Grade. On the order of **1 TN peak contact force, near 10 TJ yield, roughly 2.5 kilotons equivalent.** Town-level, delivered blunt — and the Sharp-Blunt asymmetry means he shatters structures a swordsman of equal Grade could only slice.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 5000000000000.0,
+        "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 81
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 34
         },
-        "verbatim": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh."
+        "verbatim": "| A | 276–400 | 4.6024×10^10 – 4.184×10^12 J | Mach 5–25 |"
       },
-      "distance_from_nearest_system_figure": 0.5,
+      "distance_from_nearest_system_figure": 0.5816,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34598,15 +34902,18 @@
       },
       "verbatim": "**Strike Force** · Ardency 638, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 5e+18,
+        "value": 4.184e+21,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 95
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 37
         },
-        "verbatim": "| SSS | 1–5 EJ | 239 kt – 1.2 Mt | Survives country-scale seismic events |"
+        "verbatim": "| SSS | 726–950 | 4.184×10^14 – 4.184×10^21 J | 1–10% c |"
       },
-      "distance_from_nearest_system_figure": 0.2,
+      "distance_from_nearest_system_figure": 0.9990439770554493,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34630,15 +34937,18 @@
       },
       "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 1e+16,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 93
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| S | 2–10 PJ | 0.48–2.4 kt | Survives small-town-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.375,
+      "distance_from_nearest_system_figure": 0.97385,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34662,8 +34972,11 @@
       },
       "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 4e+16,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -34694,15 +35007,18 @@
       },
       "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 46000000000.0,
+        "value": 50000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 39
+          "line": 89
         },
-        "verbatim": "| B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |"
+        "verbatim": "| D | 10–50 GJ | — | Survives direct artillery and structural collapse |"
       },
-      "distance_from_nearest_system_figure": 0.32608695652173914,
+      "distance_from_nearest_system_figure": 0.38,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34725,16 +35041,19 @@
         "line": 101
       },
       "verbatim": "**Strike Force** · Ardency 110, mid C-Grade. Roughly **0.2 GN peak force, on the order of 300 MJ** — small-building level, and **he has never once delivered it personally.**",
-      "figure_class": "band_edge_quoted",
+      "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 300000000.0,
+        "value": 1046000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 87
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 32
         },
-        "verbatim": "| F | 0.1–0.3 GJ | — | Survives small arms fire and bladed weapons |"
+        "verbatim": "| C | 101–175 | 2.092×10^7 – 1.046×10^9 J | Mach 1.0–1.5 |"
       },
-      "distance_from_nearest_system_figure": 0.0,
+      "distance_from_nearest_system_figure": 0.7131931166347992,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34758,15 +35077,18 @@
       },
       "verbatim": "**Strike Energy:** ~22 PJ standard technique contact",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Energy'",
       "nearest_system_figure": {
-        "value": 4e+16,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 94
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| SS | 40–800 PJ | 9.6–191 kt | Survives regional-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.45,
+      "distance_from_nearest_system_figure": 0.9809818181818182,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34790,8 +35112,11 @@
       },
       "verbatim": "**Durability:** ~38 PJ structural; ~95 PJ with Resilience active",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 4e+16,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -34822,8 +35147,11 @@
       },
       "verbatim": "**Durability:** ~38 PJ structural; ~95 PJ with Resilience active",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 4e+16,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -34854,8 +35182,11 @@
       },
       "verbatim": "**Strike Force** 0.38 GN baseline / **4.2 GN radiant reinforcement** · **Durability** 1.4 PJ shielding / 26 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 1000000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 92
@@ -34886,15 +35217,18 @@
       },
       "verbatim": "**Strike Force** 0.38 GN baseline / **4.2 GN radiant reinforcement** · **Durability** 1.4 PJ shielding / 26 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 46000000000.0,
+        "value": 50000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 39
+          "line": 89
         },
-        "verbatim": "| B | 176–275 | 1–5 GN | 1.046–46 GJ | 0.25–11 t | Building to Large Building |"
+        "verbatim": "| D | 10–50 GJ | — | Survives direct artillery and structural collapse |"
       },
-      "distance_from_nearest_system_figure": 0.43478260869565216,
+      "distance_from_nearest_system_figure": 0.48,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34918,8 +35252,11 @@
       },
       "verbatim": "**Strike Force** 0.12 GN baseline / **0.38 GN reinforced** · ~1.4 × 10⁹ J peak, **~0.33 tons TNT equivalent**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 1050000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 133
@@ -34950,15 +35287,18 @@
       },
       "verbatim": "**Durability** 0.036 PJ shielding / 7.8 GJ physical hardness · **Attack Speed** Mach 4 sustained, Mach 11 burst",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 41800000000000.0,
+        "value": 200000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 42
+          "line": 92
         },
-        "verbatim": "| SS | 551–725 | 10–200 TN | 41.8–418 TJ | 10–100 kt | Town to Large Town (nuclear yield range) |"
+        "verbatim": "| A | 0.2–1 PJ | 48–239 t | Survives city-block-scale destruction |"
       },
-      "distance_from_nearest_system_figure": 0.13875598086124402,
+      "distance_from_nearest_system_figure": 0.82,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -34982,8 +35322,11 @@
       },
       "verbatim": "**Durability** 0.036 PJ shielding / 7.8 GJ physical hardness · **Attack Speed** Mach 4 sustained, Mach 11 burst",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 10000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 89
@@ -35014,15 +35357,18 @@
       },
       "verbatim": "**Strike Force** · 1.6 GN baseline / 9.5 GN reinforced / **0.12–0.40 PJ execution**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 200000000000000.0,
+        "value": 41840000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 92
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| A | 0.2–1 PJ | 48–239 t | Survives city-block-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.4,
+      "distance_from_nearest_system_figure": 0.6513333333333333,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35046,15 +35392,18 @@
       },
       "verbatim": "**Durability** · 0.38 PJ shielding / 84 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
-        "value": 418000000000000.0,
+        "value": 200000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 42
+          "line": 92
         },
-        "verbatim": "| SS | 551–725 | 10–200 TN | 41.8–418 TJ | 10–100 kt | Town to Large Town (nuclear yield range) |"
+        "verbatim": "| A | 0.2–1 PJ | 48–239 t | Survives city-block-scale destruction |"
       },
-      "distance_from_nearest_system_figure": 0.09090909090909091,
+      "distance_from_nearest_system_figure": 0.47368421052631576,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35078,8 +35427,11 @@
       },
       "verbatim": "**Durability** · 0.38 PJ shielding / 84 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 100000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35110,15 +35462,18 @@
       },
       "verbatim": "> **Structural and impact** — very high. Petralon plus 84 GJ hardness.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
-        "value": 100000000000.0,
+        "value": 46024000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 90
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 33
         },
-        "verbatim": "| C | 0.1–0.3 TJ | 0.024–0.072 t | Survives localized demolition-scale events |"
+        "verbatim": "| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |"
       },
-      "distance_from_nearest_system_figure": 0.16,
+      "distance_from_nearest_system_figure": 0.4520952380952381,
       "duplicate_of": {
         "file": "wiki/Volume I — Character Cards/Muken Moto.md",
         "line": 57
@@ -35148,15 +35503,18 @@
       },
       "verbatim": "**Strike Force** · 4.8 PJ equivalent **through focused thread-collapse events**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 1e+16,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 93
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| S | 2–10 PJ | 0.48–2.4 kt | Survives small-town-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.52,
+      "distance_from_nearest_system_figure": 0.9128333333333334,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35180,8 +35538,11 @@
       },
       "verbatim": "**Durability** · 3.1 PJ shielding / 240 GJ physical hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 2000000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 93
@@ -35212,8 +35573,11 @@
       },
       "verbatim": "**Durability** · 3.1 PJ shielding / 240 GJ physical hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 300000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35244,8 +35608,11 @@
       },
       "verbatim": "**Strike Force** 0.18 GN baseline / **0.62 GN Aether-assisted** · **Durability** 4.2 GJ shielding / 2.8 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 5000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 88
@@ -35276,8 +35643,11 @@
       },
       "verbatim": "**Strike Force** 0.18 GN baseline / **0.62 GN Aether-assisted** · **Durability** 4.2 GJ shielding / 2.8 GJ hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 5000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 88
@@ -35308,15 +35678,18 @@
       },
       "verbatim": "**Strike Force** 0.18 GN baseline / **1.2 GN with Aspect Reinforcement** · ~2.4 GJ peak, **~0.57 tons TNT**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 5000000000.0,
+        "value": 1050000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 88
+          "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
+          "line": 133
         },
-        "verbatim": "| E | 1–5 GJ | — | Survives vehicular impact and explosive fragmentation |"
+        "verbatim": "| **C** | 101–175 | to 1.05 × 10⁹ J *(building)* |"
       },
-      "distance_from_nearest_system_figure": 0.52,
+      "distance_from_nearest_system_figure": 0.5625,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35340,15 +35713,18 @@
       },
       "verbatim": "**Strike Force** 4.2 GN baseline / **18 GN at Ember Compression peak** · ~2.4 × 10¹¹ J — ***~57 tons TNT equivalent***",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
-        "value": 300000000000.0,
+        "value": 46024000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 90
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 33
         },
-        "verbatim": "| C | 0.1–0.3 TJ | 0.024–0.072 t | Survives localized demolition-scale events |"
+        "verbatim": "| B | 176–275 | 1.046×10^9 – 4.6024×10^10 J | Mach 1.5–4 |"
       },
-      "distance_from_nearest_system_figure": 0.2,
+      "distance_from_nearest_system_figure": 0.8082333333333334,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35372,8 +35748,11 @@
       },
       "verbatim": "**Durability** 0.8 PJ shielding / 120 GJ hardness · **Attack Speed** Mach 12 sustained / Mach 28 burst",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 1000000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 92
@@ -35404,8 +35783,11 @@
       },
       "verbatim": "**Durability** 0.8 PJ shielding / 120 GJ hardness · **Attack Speed** Mach 12 sustained / Mach 28 burst",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 100000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35436,15 +35818,18 @@
       },
       "verbatim": "| Ardency | 366 | A | **Enough to weaponise geometry. Not the 450 PJ the card claimed** |",
       "figure_class": "withdrawn",
+      "figure_measure": "strike",
+      "figure_measure_basis": "no measure named in the line; read against the attack-output ladder",
       "nearest_system_figure": {
-        "value": 8e+17,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 94
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| SS | 40–800 PJ | 9.6–191 kt | Survives regional-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.4375,
+      "distance_from_nearest_system_figure": 0.9990702222222222,
       "withdrawn_because": "the line names the figure only to withdraw it: \"Not the 450 PJ the card claimed\"",
       "duplicate_of": null,
       "duplicate_of_value_only": null
@@ -35469,8 +35854,11 @@
       },
       "verbatim": "> **Vitality 262 under a durability rating of 100 GJ.** *The number and the rating do not disagree: the durability is the Lunarch Crown's, not hers.* **Take the circlet and she is a slender woman standing inside a very good idea.**",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 100000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35501,8 +35889,11 @@
       },
       "verbatim": "**Lunarch Crown** · *Crystalline circlet.* **A passive refraction-field generator: shunts the kinetic and Aetheric vector of incoming hostile magic into harmless ambient light.** *The source of the 100 GJ durability rating.*",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the measure named nearest the figure in the line",
       "nearest_system_figure": {
         "value": 100000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35539,15 +35930,18 @@
       },
       "verbatim": "**Strike Force** · Ardency 466, low-mid SS-Grade. Roughly **30 TN peak contact force, on the order of 80 TJ energy yield, near 20 kilotons equivalent.** Town-level destructive capacity, which he almost never expresses as destruction because his delivery is severance rather than impact.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 50000000000000.0,
+        "value": 41840000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 82
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "**Layer Three: Technique-Active Defenses.** Wards, barriers, Domain-grade exclusion fields actively maintained or deployed. Not included in baseline benchmarks because they are technique-dependent and Essence-costly. A Fixatio-anchored barrier with a 50 TJ ceiling adds that on top of baseline, but costs Essence to maintain and can be shattered independently."
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.375,
+      "distance_from_nearest_system_figure": 0.477,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35571,8 +35965,11 @@
       },
       "verbatim": "**Strike Force** 0.42 GN / 0.003 PJ · **Durability** 0.005 PJ shielding / 18 GJ hardness · **Speed** Mach 11 burst",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
           "line": 34
@@ -35603,13 +36000,16 @@
       },
       "verbatim": "**Strike Force** 0.42 GN / 0.003 PJ · **Durability** 0.005 PJ shielding / 18 GJ hardness · **Speed** Mach 11 burst",
       "figure_class": "band_edge_quoted",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 5000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 81
+          "line": 91
         },
-        "verbatim": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh."
+        "verbatim": "| B | 1–5 TJ | 0.24–1.2 t | Survives building-scale destruction |"
       },
       "distance_from_nearest_system_figure": 0.0,
       "duplicate_of": null,
@@ -35635,8 +36035,11 @@
       },
       "verbatim": "**Strike Force** 0.42 GN / 0.003 PJ · **Durability** 0.005 PJ shielding / 18 GJ hardness · **Speed** Mach 11 burst",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 10000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 89
@@ -35667,15 +36070,18 @@
       },
       "verbatim": "**Strike Force** · 14.2 GN / **310 PJ** Chthonic-Pyraeon burst",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 8e+17,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 94
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| SS | 40–800 PJ | 9.6–191 kt | Survives regional-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.6125,
+      "distance_from_nearest_system_figure": 0.9986503225806451,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35699,8 +36105,11 @@
       },
       "verbatim": "**Durability** · 280 PJ Essence-shield / 90 GJ scale-and-bone hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 8e+17,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 94
@@ -35731,8 +36140,11 @@
       },
       "verbatim": "**Durability** · 280 PJ Essence-shield / 90 GJ scale-and-bone hardness",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 100000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35763,15 +36175,18 @@
       },
       "verbatim": "**Strike Force** · Ardency 408, mid S-Grade. Around **1 TN peak force, on the order of 10 TJ, near 3 kilotons equivalent** — distributed across constructs rather than delivered in one place, which is why he has never once put a town-scale figure onto a target.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 5000000000000.0,
+        "value": 4184000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 81
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 34
         },
-        "verbatim": "**Layer Two: Aether Shell Shielding.** The active Essence field surrounding every practitioner above F-Grade, buffering between incoming force and the body. Density governed by Resilience, particularly Integrity, Hardening and Fortification. The Shell absorbs and redistributes incoming energy across its entire surface before residual force reaches the body. A Shell rated at 5 TJ absorbs 5 TJ across all concurrent attacks before anything reaches flesh."
+        "verbatim": "| A | 276–400 | 4.6024×10^10 – 4.184×10^12 J | Mach 5–25 |"
       },
-      "distance_from_nearest_system_figure": 0.5,
+      "distance_from_nearest_system_figure": 0.5816,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35795,8 +36210,11 @@
       },
       "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
         "value": 20900000.0,
+        "measure": "strike",
         "source": {
           "file": "wiki/In-World Documents & the Narrative Archive/The Apprentice's Primer — A First Reader for the Newly Registered.md",
           "line": 132
@@ -35827,8 +36245,11 @@
       },
       "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 100000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 87
@@ -35859,8 +36280,11 @@
       },
       "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 1000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 91
@@ -35891,15 +36315,18 @@
       },
       "verbatim": "**Strike Force** · 0.09 GN precision blade / **2.1 PJ Somnalis-loaded nerve-point hit**",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 2000000000000000.0,
+        "value": 418400000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 93
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "| S | 2–10 PJ | 0.48–2.4 kt | Survives small-town-scale destruction |"
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.047619047619047616,
+      "distance_from_nearest_system_figure": 0.8007619047619048,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     },
@@ -35923,8 +36350,11 @@
       },
       "verbatim": "**Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 2000000000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 93
@@ -35955,8 +36385,11 @@
       },
       "verbatim": "**Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline",
       "figure_class": "attested",
+      "figure_measure": "durability",
+      "figure_measure_basis": "the field label, 'Durability'",
       "nearest_system_figure": {
         "value": 300000000000.0,
+        "measure": "durability",
         "source": {
           "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
           "line": 90
@@ -35987,15 +36420,18 @@
       },
       "verbatim": "**Strike Force** · Ardency 479, mid SS-Grade. On the order of **40 TN peak contact force, near 100 TJ yield, roughly 25 kilotons equivalent** — though Hikariken's geometry concentrates this into a contact area small enough that the local pressure substantially exceeds the tier, which is the Focused-Yield Principle and the entire argument for a blade.",
       "figure_class": "attested",
+      "figure_measure": "strike",
+      "figure_measure_basis": "the field label, 'Strike Force'",
       "nearest_system_figure": {
-        "value": 50000000000000.0,
+        "value": 41840000000000.0,
+        "measure": "strike",
         "source": {
-          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-          "line": 82
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 36
         },
-        "verbatim": "**Layer Three: Technique-Active Defenses.** Wards, barriers, Domain-grade exclusion fields actively maintained or deployed. Not included in baseline benchmarks because they are technique-dependent and Essence-costly. A Fixatio-anchored barrier with a 50 TJ ceiling adds that on top of baseline, but costs Essence to maintain and can be shattered independently."
+        "verbatim": "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |"
       },
-      "distance_from_nearest_system_figure": 0.5,
+      "distance_from_nearest_system_figure": 0.5816,
       "duplicate_of": null,
       "duplicate_of_value_only": null
     }

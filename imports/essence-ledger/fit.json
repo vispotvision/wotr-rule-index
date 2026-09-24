@@ -202,16 +202,17 @@
   "grade_proxy_check": {
     "summary": {
       "note": "every attested joule figure read against the Grade the Stage→Part Five→Part Four proxy would have assigned it. 0 means the proxy agrees; a positive number means the page states an output that many Grades above what the proxy assigns, negative that many below. This is the error the per-anchor residuals in `reserves` and `costs` inherit before any constant is tested.",
-      "strike_rows": 18,
+      "strike_rows": 19,
       "agree": 7,
-      "mean_grades_apart": -0.05555555555555555,
-      "mean_abs_grades_apart": 1.6111111111111112,
+      "mean_grades_apart": -0.10526315789473684,
+      "mean_abs_grades_apart": 1.5789473684210527,
       "distribution": {
         "2": 3,
         "1": 4,
         "-3": 1,
         "-7": 1,
         "0": 7,
+        "-1": 1,
         "-5": 1,
         "4": 1
       }
@@ -330,6 +331,25 @@
           "line": 39
         },
         "verbatim": "**Numerical Effect** · Range up to 300 m, line-of-sight, delivered as a line up to 100 m long and under 3 cm wide; at the required SSS-Grade the cut sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield along the line, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous, with resonance cracks lingering a few seconds along the cut."
+      },
+      {
+        "entity": "Corona Lunaris",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 100000000000.0,
+        "joules_high": 100000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 5,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Techniques/Corona Lunaris.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · Encases the target in a half-sphere for 2 turns sustained, or until it has converted a running total of hostile energy and shatters. That threshold is set at 46 GJ, the upper energy bound of B-Grade under the current Strike Force and Durability table, converted down from the source's uncapped 100 GJ figure since Stage V's own ceiling does not reach that far."
       },
       {
         "entity": "Harmonic Null-Ascension",
@@ -862,6 +882,25 @@
           "line": 55
         },
         "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Karo Venrik · The Foolish Magus",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 300000000.0,
+        "joules_high": 300000000.0,
+        "grade_attested_low": "C",
+        "grade_attested_high": "C",
+        "stage": 5,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+          "line": 101
+        },
+        "verbatim": "**Strike Force** · Ardency 110, mid C-Grade. Roughly **0.2 GN peak force, on the order of 300 MJ** — small-building level, and **he has never once delivered it personally.**"
       },
       {
         "entity": "Krothar Veylshroud — The Chain Without a Master",
@@ -1514,10 +1553,10 @@
   "reserve_vs_strike": {
     "summary": {
       "note": "a strike is not a reserve, so this is a ceiling, not the conversion: no single strike can deliver more than the pool it draws on. Read that way each character sets an upper bound on joules per EU, and the bounds do not agree with each other.",
-      "n": 12,
+      "n": 13,
       "min": 217.3913043478261,
       "max": 32978723404255.32,
-      "median": 25945945945.945946,
+      "median": 13750000000.0,
       "decades_spanned": 11.180991671916148
     },
     "rows": [
@@ -1634,6 +1673,25 @@
           "line": 55
         },
         "strike_verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Karo Venrik · The Foolish Magus",
+        "reserve_eu": 1600.0,
+        "strike_joules": 300000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 187500.0,
+        "eta": 0.5,
+        "j_per_eu_through_eta": 375000.0,
+        "strikes_the_reserve_holds_at_1MJ": 5.333333333333333,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+          "line": 137
+        },
+        "reserve_verbatim": "- **Essence Capacity 1,600 EU and Flux Density 3.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated.",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+          "line": 101
+        },
+        "strike_verbatim": "**Strike Force** · Ardency 110, mid C-Grade. Roughly **0.2 GN peak force, on the order of 300 MJ** — small-building level, and **he has never once delivered it personally.**"
       },
       {
         "entity": "Krothar Veylshroud — The Chain Without a Master",

@@ -1,0 +1,23 @@
+Verdict: revise (1 FAIL, 6 WARN, 1 dropped)
+
+- **FAIL** [continuity] "in twelve days Vesk had watched for the thing that men like him were supposed to have and had not seen it once"
+  - Problem: Time-elapsed contradiction: 'in twelve days' vs 'Eleven days he had watched for it. The twelfth had started at the second division' two sentences later; notes fix eleven.
+  - Fix: Change 'in twelve days Vesk had watched' to 'in eleven days Vesk had watched'.
+- **WARN** [POV and knowledge] "Foss came, with the glass in his fist and an expression he did not trouble to arrange."
+  - Problem: 'did not trouble to arrange' asserts Foss's inner effort, not a cue Vesk can see (R39-7/R5-C1).
+  - Fix: Rephrase as an observable face read by Vesk, or cut the clause.
+- **WARN** [POV and knowledge] "He put two fingers against the ninth hind's flank, above the pour, and pressed."
+  - Problem: Ambiguous 'He' (Malphas vs Vesk); if Malphas, 'the way a man checks...' states his motive, which Vesk cannot know.
+  - Fix: Name the actor; if Malphas, hedge the gloss as Vesk's guess.
+- **WARN** [rules] "Eleven days of the ferment had taken the connective net out of her"
+  - Problem: Figure in bare narration against the brief's numbers protocol; R12-5/R14-4 may only bind stat figures, so a doubt.
+  - Fix: Confirm scope, or route the count through a mouth, document or private count.
+- **WARN** [canon] "Then she will not need four days. Eleven feet is all she needs."
+  - Problem: 'Eleven feet' to the standpipe is unattested invention (source's figure is eleven miles).
+  - Fix: Accept as chapter invention and log it as a fact, or soften.
+- **WARN** [canon] "The one their Wardens of Duty are issued. Not the published articles."
+  - Problem: Warden of Duty is a Guild-wide Tier-6 rank, not Arbitration-specific; manual issue unattested.
+  - Fix: Reword so the manual is the division's, not tied to the rank.
+- **WARN** [beat-and-hooks] "Behind him Malphas said nothing at all. He did that most days and Vesk had never once been able to read it."
+  - Problem: H08 plant half-missing: Malphas never registers Nuvalik's concealment or 'will discuss with her separately'.
+  - Fix: Add a legible Malphas beat on the lie, or the 'separately' line.

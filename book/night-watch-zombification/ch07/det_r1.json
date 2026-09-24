@@ -1,0 +1,60 @@
+{
+ "findings": [
+  {
+   "severity": "info",
+   "pass": "tell_scan",
+   "quote": "# The Lick-Keeper",
+   "problem": "none",
+   "evidence": "verify --band set-piece --culture Accord: PASS 0 fail 0 warn; reification 1 within budget; sentence CV 0.77; paragraph CV 0.98; 7 italic interior beats",
+   "fix": "none"
+  },
+  {
+   "severity": "info",
+   "pass": "shape",
+   "quote": "# The Lick-Keeper",
+   "problem": "none",
+   "evidence": "3561 words (verify) vs target 3500 = 101.7%, inside 80-150%",
+   "fix": "none"
+  },
+  {
+   "severity": "info",
+   "pass": "shape",
+   "quote": "Steward keeps them in the barn, I load up there.",
+   "problem": "none",
+   "evidence": "declared lie sentence found verbatim",
+   "fix": "none"
+  },
+  {
+   "severity": "info",
+   "pass": "shape",
+   "quote": "A man who put his dose into salt and let other hands carry it out to the beasts was a man who never went near them.",
+   "problem": "none",
+   "evidence": "declared misreading sentence found verbatim",
+   "fix": "none"
+  },
+  {
+   "severity": "info",
+   "pass": "voice",
+   "quote": "Register, then.",
+   "problem": "voice_check could not score",
+   "evidence": "24 lines checked (8 each Josse, Yinzhi, Wystan): no fingerprint for any (fewer than eight attributed lines in the archive)",
+   "fix": "none; unscored, not a fail"
+  },
+  {
+   "severity": "info",
+   "pass": "hooks",
+   "quote": "far side",
+   "problem": "none",
+   "evidence": "H01-far-side-of-the-marker keywords present: marker 1, far side 2, lick 22, turned 8",
+   "fix": "none"
+  },
+  {
+   "severity": "info",
+   "pass": "combat_floor",
+   "quote": "# The Lick-Keeper",
+   "problem": "not applicable",
+   "evidence": "outline scene_type talky; no combat",
+   "fix": "none"
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{"findings":[
+{"severity":"info","pass":"tell_scan","quote":"# The Lick-Keeper","problem":"none: verify PASS, 0 fail, 0 warn","evidence":"book_tools verify --band set-piece --culture Accord: PASS; reification 1 within budget; sentence CV 0.77; 7 italic interior beats; last line physical action","fix":"none"},
+{"severity":"info","pass":"shape","quote":"# The Lick-Keeper","problem":"none: length 3560 words vs target 3500 (102%, within 80-150%)","evidence":"verify reports 3560 words set-piece band; wc -w 3564","fix":"none"},
+{"severity":"info","pass":"shape","quote":"Steward keeps them in the barn, I load up there.","problem":"none: declared lie sentence present verbatim","evidence":"grep -F count 1","fix":"none"},
+{"severity":"info","pass":"shape","quote":"A man who put his dose into salt and let other hands carry it out to the beasts was a man who never went near them.","problem":"none: declared misreading sentence present verbatim","evidence":"grep -F count 1","fix":"none"},
+{"severity":"info","pass":"hooks","quote":"far side of the marker stone was clean because nobody had ever carried any salt to it","problem":"none: H01-far-side-of-the-marker keywords all present","evidence":"marker 1, far side 2, lick 19, turned 7","fix":"none"},
+{"severity":"info","pass":"voice","quote":"No. No, that's my half.","problem":"voice_check could not score: no fingerprint for Josse Garretsohn, Qiu Yinzhi or Wystan Ashmore (fewer than eight archive lines)","evidence":"14 lines checked (5 Josse, 4 Yinzhi, 5 Wystan); all returned no fingerprint","fix":"none; voice left to the reader pass"},
+{"severity":"info","pass":"combat_floor","quote":"# The Lick-Keeper","problem":"not applicable: outline scene_type talky, no fight","evidence":"outline ch7 scene_type talky","fix":"none"}
+]}

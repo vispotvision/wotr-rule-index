@@ -1,0 +1,28 @@
+{
+ "fail": 1,
+ "warn": 2,
+ "dropped": 0,
+ "findings": [
+  {
+   "severity": "FAIL",
+   "pass": "continuity",
+   "quote": "Under it were forty-one more in his own hand, the newest a hind in the North Ferriby cut. He entered the forty-third beneath them.",
+   "problem": "Minute count wrong: ch1 left 42 own-hand entries beneath Keld's; draft says forty-one existing then enters the forty-third (41+1 is 42). Uses the card's stale figure.",
+   "fix": "Change 'forty-one more' to 'forty-two more' so the new entry is the forty-third."
+  },
+  {
+   "severity": "WARN",
+   "pass": "POV and knowledge (R5-C1 / R35 narration-distance)",
+   "quote": "He considered the Register, and the girl with the case, and the man's hands.",
+   "problem": "Josse's interior act stated flat, no external tell for Wystan to observe.",
+   "fix": "'He looked at the Register, then at the girl with the case, then at the man's hands.'"
+  },
+  {
+   "severity": "WARN",
+   "pass": "POV and knowledge (R5-C1 / R35 narration-distance)",
+   "quote": "He shrugged, and it cost him nothing.",
+   "problem": "Narrator certifies Josse's inner state rather than Wystan inferring it from behaviour.",
+   "fix": "Replace with an external correlate, e.g. 'He shrugged, easy, and went back to the block.'"
+  }
+ ]
+}

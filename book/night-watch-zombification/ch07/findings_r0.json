@@ -1,0 +1,31 @@
+{
+ "fail": 2,
+ "warn": 1,
+ "dropped": 2,
+ "findings": [
+  {
+   "severity": "FAIL",
+   "pass": "shape",
+   "quote": "# The Lick-Keeper",
+   "problem": "Flat runs: 9 stretches of three sentences whose lengths sit within 40% of each other (R4-14-RUN_RULE).",
+   "evidence": "book_tools verify --band set-piece --culture Accord: FAIL flat runs: 9 stretches",
+   "fix": "Break each flat run with a sharply shorter or longer sentence; re-run verify until 0."
+  },
+  {
+   "severity": "WARN",
+   "pass": "shape",
+   "quote": "# The Lick-Keeper",
+   "problem": "One paragraph closes on three sentences over 18 words (R4-14-HARD_CEILINGS allows 0).",
+   "evidence": "verify WARN: paragraphs closing on three sentences over 18 words: 1",
+   "fix": "Cut or split one of the closing long sentences in that paragraph."
+  },
+  {
+   "severity": "FAIL",
+   "pass": "hooks",
+   "quote": "the far side of the stone was clean because nobody had ever carried any salt to it",
+   "problem": "H01-far-side-of-the-marker is paid here but its keyword 'marker' never appears in the draft (0 hits); the draft says 'stone' throughout.",
+   "evidence": "keywords: marker 0, far side 2, lick 22, turned 8",
+   "fix": "Name the stone as the marker at least once in the payoff passage (e.g. 'the far side of the marker stone was clean')."
+  }
+ ]
+}

@@ -1378,6 +1378,160 @@
    "kind": "fact",
    "fact": "Nuvalik sees nothing to be released to: her name was carried by three before her and spent in this room.",
    "quote": "There was nothing to release her to."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "name",
+   "fact": "The lick-keeper of the Ferriby estate's round is Josse Garretsohn; first seen ch7.",
+   "quote": "Josse Garretsohn."
+  },
+  {
+   "ch": 7,
+   "subject": "the lick round",
+   "kind": "number",
+   "fact": "The Ferriby round runs north from the home farm to the birch with a salt lick every half mile on knee-high squared oak posts.",
+   "quote": "A lick every half mile."
+  },
+  {
+   "ch": 7,
+   "subject": "the lick round",
+   "kind": "fact",
+   "fact": "The round turns at the birch, as Josse's father's did; past the birch it goes along the bound by the old stone, with no beasts worth the salt.",
+   "quote": "My father turned at the birch. I turn at the birch."
+  },
+  {
+   "ch": 7,
+   "subject": "tonic blocks",
+   "kind": "fact",
+   "fact": "The blocks are new tonic blocks this season: grey salt with a rust-brown streak poured through at a slant, the size of an assize loaf; before this season the licks held plain white salt.",
+   "quote": "New this season."
+  },
+  {
+   "ch": 7,
+   "subject": "tonic blocks",
+   "kind": "fact",
+   "fact": "The steward paid for the tonic blocks, notched on a split hazel tally with a nicked notch for tonic: the steward's money, not the farm's.",
+   "quote": "Tonic's his money, not the farm's."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "lie",
+   "fact": "LIE (uncorrected; Wystan believes it): Josse says the blocks come from the steward's barn at the home farm and he loads there. Per the ch8 outline, a carter supplies him.",
+   "quote": "Steward keeps them in the barn, I load up there."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "fact",
+   "fact": "Josse refuses to hand over his half of the tally to anyone, the Register included.",
+   "quote": "Not to the steward, not to the Register, not to anybody, that's what a half is."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "fact",
+   "fact": "Josse says no one has walked the round with him since the tonic, and the steward (bad hip) has never been up past the second field.",
+   "quote": "The steward's never been up past the second field in his life, he's got a bad hip, he'd..."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "fact",
+   "fact": "Josse knows the Register is taking the steward's block from the birch lick; he has seen the brass but has no name, only 'the Register'.",
+   "quote": "Register, then."
+  },
+  {
+   "ch": 7,
+   "subject": "Josse Garretsohn",
+   "kind": "time",
+   "fact": "Josse set the birch lick's block before the thaw (weeks back).",
+   "quote": "Set a new one there back before the thaw came in."
+  },
+  {
+   "ch": 7,
+   "subject": "the last lick",
+   "kind": "fact",
+   "fact": "The last lick is just inside the birch on the east side, in a hollow out of sight of the cut; no post beyond it toward the stone's south-east corner. It is Called Late's stopping place.",
+   "quote": "There was no post on it after this one."
+  },
+  {
+   "ch": 7,
+   "subject": "the far side of the marker",
+   "kind": "fact",
+   "fact": "The far side of the marker stone is clean because the salt round stopped at the birch and the carrier turned home there.",
+   "quote": "The man who carried the salt had put his frame on his back here and gone home down the same road, and the far side of the marker stone was clean because nobody had ever carried any salt to it."
+  },
+  {
+   "ch": 7,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan now knows his ch5 reading (the walker turned short of the stone to keep the dead on this side) was wrong: the walker turned because it was the last post.",
+   "quote": "He had turned because this was the last post."
+  },
+  {
+   "ch": 7,
+   "subject": "the birch hollow",
+   "kind": "fact",
+   "fact": "Red-brown hind hair is rubbed into the bark at hind-shoulder height on the north faces of the birches round the last lick, through to the green on one; Wystan records it uninterpreted.",
+   "quote": "He could not say what a beast did that for, at a lick, facing away from the salt."
+  },
+  {
+   "ch": 7,
+   "subject": "the birch block",
+   "kind": "fact",
+   "fact": "Yinzhi's coil browned along its length on the birch block: it carried a working (assay of record: carrying).",
+   "quote": "\"It's carrying,\" she said."
+  },
+  {
+   "ch": 7,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan grips the birch block bare-handed with his right hand, deliberately; Yinzhi witnesses it.",
+   "quote": "He did not take the block by the edge."
+  },
+  {
+   "ch": 7,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "Salt entered the ink-cracks at the nails of Wystan's right palm; stinging went to a steady burn and he did not wipe it.",
+   "quote": "The cracks at the nails had gone from stinging to a steady burn."
+  },
+  {
+   "ch": 7,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "Wystan's left calf still carries the knot from the night at the stone.",
+   "quote": "The left calf caught and let go."
+  },
+  {
+   "ch": 7,
+   "subject": "the forty-third minute",
+   "kind": "fact",
+   "fact": "The Hand gave the forty-third minute: Josse setting the birch block, content, nobody else in it, turning south for home.",
+   "quote": "There was nobody else anywhere in it."
+  },
+  {
+   "ch": 7,
+   "subject": "the forty-third minute",
+   "kind": "number",
+   "fact": "The minute is entered as the forty-third at the back of the day book under Keld's (forty-one more, forty-two with Keld's), with the word 'content'.",
+   "quote": "Under it were forty-one more, forty-two with Keld's, the newest a hind in the North Ferriby cut."
+  },
+  {
+   "ch": 7,
+   "subject": "Wystan",
+   "kind": "misreading",
+   "fact": "MISREADING (uncorrected): from a minute with nobody else in it, Wystan concludes the formulator never goes near the beasts.",
+   "quote": "A man who put his dose into salt and let other hands carry it out to the beasts was a man who never went near them."
+  },
+  {
+   "ch": 7,
+   "subject": "the birch block",
+   "kind": "object",
+   "fact": "The birch block is tinned in the widest tin (the soil tin), sealed with brass wax and struck with Wystan's brass; entered in the Register file Ferriby.",
+   "quote": "He took out the brass wax and warmed the stick in his fist, the left fist, and ran the wax round the join, and struck his brass into it while it was soft."
   }
  ],
  "hooks": [
@@ -1392,7 +1546,7 @@
    ],
    "planted_ch": 1,
    "due_ch": 7,
-   "status": "advanced",
+   "status": "paid",
    "events": [
     {
      "ch": 1,
@@ -1403,8 +1557,14 @@
      "ch": 5,
      "what": "Tally's letter identifies the marker as the Ferriby estate's old survey stone; Called Late reads a walker on the estate's round turning short of it, more than once; Wystan writes 'the round.'",
      "quote": "It is the Ferriby estate's old survey stone, the corner of their ground, set by the estate before the parish was on the roll."
+    },
+    {
+     "ch": 7,
+     "what": "The round ends at the last lick in the birch; the carrier turned home there, so the far side of the marker is clean.",
+     "quote": "The salt stopped here."
     }
-   ]
+   ],
+   "paid_ch": 7
   },
   {
    "hook_id": "H02-quarter-inch-sealed",
@@ -1482,12 +1642,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 68,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "The bulletin clerk told Tally the Night Register was a person; one line in a minute could fold the desk.",
      "quote": "A desk could be folded into another desk by one line in a Prime Warden's minute."
+    },
+    {
+     "ch": 7,
+     "what": "Wystan gives Josse only 'the Register', no name.",
+     "quote": "Register, then."
     }
    ]
   },
@@ -1502,12 +1667,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 78,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "Wystan holds his tea by the rim, thumb and two fingers, away from his palm.",
      "quote": "He gave her one and took the other to the window, and he held it there by the rim, the thumb on one side and two fingers on the other, so that none of the heat came near his palm."
+    },
+    {
+     "ch": 7,
+     "what": "Wystan breaks the edge habit to grip the block bare; bread by the crust edge, tin by its rim.",
+     "quote": "He did not take the block by the edge."
     }
    ]
   },
@@ -1643,12 +1813,17 @@
    ],
    "planted_ch": 3,
    "due_ch": 72,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 3,
      "what": "Keld's minute checked against the written record; it has not moved; relief came late.",
      "quote": "It had not moved."
+    },
+    {
+     "ch": 7,
+     "what": "Keld's stays at the head of the column as the forty-third is entered.",
+     "quote": "Keld's stood at the head of the column, where it always stood."
     }
    ]
   },
@@ -1683,12 +1858,17 @@
    ],
    "planted_ch": 3,
    "due_ch": 72,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 3,
      "what": "Brass token explained against silver; carried four years, never asked to change it.",
      "quote": "The Register's token was brass because the Night Register was not a full desk."
+    },
+    {
+     "ch": 7,
+     "what": "The brass is shown before any name at the start of the conversation.",
+     "quote": "Wystan took the brass out of his waistcoat and showed it on his palm."
     }
    ]
   },
@@ -1877,6 +2057,11 @@
      "ch": 5,
      "what": "Wystan reads the walker's turn as a chosen edge; the margin grows to 'the estate. before the roll.' and 'the round.'",
      "quote": "That was the edge."
+    },
+    {
+     "ch": 7,
+     "what": "The margin grows 'the round's end. the last lick. the birch.'; edges reinforced, not struck.",
+     "quote": "The dose had gone where it was put."
     }
    ]
   },
@@ -2014,12 +2199,17 @@
    ],
    "planted_ch": 3,
    "due_ch": 76,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 3,
      "what": "Wystan tells Brack he will get a hand and not a purse; Brack answers that Fifteen wants the purse.",
      "quote": "\"I will get a hand and not a purse.\""
+    },
+    {
+     "ch": 7,
+     "what": "The Hand gives Wystan the lick-keeper's hand, not the formulator's.",
+     "quote": "It was the wrong one."
     }
    ]
   }
@@ -2054,6 +2244,11 @@
    "ch": 6,
    "title": "Separately",
    "summary": "Day 5, third to eighth division, Greyshaft Nine ice-press room. Malphas takes up Nuvalik's ch2 line that everything the fourth hind gave her is written down, against the book's three entries. She admits the shoulder drew three times under her point — twice on the hind's second day, once on her third, each smaller, now finished — and says she kept it out of the book because a thing that twitches is a thing that will walk and a pour would have lost it. Malphas orders it entered in her hand with the concealment dated, and orders it reproduced by the eighth division tomorrow under two hands: the eighth hind down, poured at the fourth's dilution, Foss holding the joint. Foss produces a nameless print of the Division field manual a season early and reads the unsigned paragraph: seal the object, interpose a hand, wait a season, move a wall. Malphas makes the first three house rules (Fixatio seal, no live dose bare, everything through a second pair of hands), leaves the season and the wall as the work's end, and promises Foss release under his own name. The eighth hind is poured sealed. The ninth has done nothing."
+  },
+  {
+   "ch": 7,
+   "title": "The Lick-Keeper",
+   "summary": "Day 7. Wystan and Yinzhi walk the Ferriby estate's round north from the home farm. There is a salt lick every half mile, on knee-high oak posts, and the blocks are new tonic blocks, grey with a brown streak. At one post they meet the lick-keeper Josse Garretsohn, first seen, setting blocks bare-handed. Wystan shows the brass and gives only \"the Register\". Josse says the round turns at the birch, as his father's did, and that the steward paid for the tonic on the split tally. He lies that the blocks come from the home-farm barn and refuses to hand over his half of the tally. He set the birch lick before the thaw. The last lick is inside the birch on the east side, well short of the stone. It sits at Called Late's stopping place: the salt stopped there and the carrier turned home. Hair is rubbed into the bark on the north faces of the trunks round it. Yinzhi's coil shows the block carrying. Wystan grips it bare-handed and takes the forty-third minute: Josse setting it, content, nobody else in it. He concludes the formulator never goes near them. The block is tinned under his brass."
   }
  ]
 }

@@ -888,6 +888,230 @@
    "kind": "object",
    "fact": "The blotter on the low table by the stove carries the letter's second line in reverse, in Deming's copying hand.",
    "quote": "The second line was there, pale blue and backwards, in the house's best copying hand, which was his."
+  },
+  {
+   "ch": 5,
+   "subject": "Day 4 to Day 5",
+   "kind": "time",
+   "fact": "The chapter runs from Day 4, sixth division, at Cutler Row to Day 5, sixth division, at the Ferriby cut.",
+   "quote": "*Cutler Row, then the North Ferriby cut and the parish marker. Day 4, the sixth division, to Day 5, the sixth.*"
+  },
+  {
+   "ch": 5,
+   "subject": "Yinzhi",
+   "kind": "fact",
+   "fact": "Yinzhi knocks once and enters Cutler Row without waiting for the first time.",
+   "quote": "She had not done that before."
+  },
+  {
+   "ch": 5,
+   "subject": "the parish marker",
+   "kind": "fact",
+   "fact": "Per Tally's letter, the marker is the Ferriby estate's old survey stone, the corner of their ground, set by the estate before the parish was on the roll; the parish adopted it as its bound afterwards; nobody knows who cut it or when.",
+   "quote": "It is the Ferriby estate's old survey stone, the corner of their ground, set by the estate before the parish was on the roll."
+  },
+  {
+   "ch": 5,
+   "subject": "Tally",
+   "kind": "promise",
+   "fact": "Tally is walking his line every day since Wystan's letter, the same way, writing it at the time, and is at the stone most days at dusk writing up.",
+   "quote": "I am walking again, every day since, the same way as before, and writing it at the time like you said."
+  },
+  {
+   "ch": 5,
+   "subject": "Tally's letter",
+   "kind": "fact",
+   "fact": "Tally's letter answers who set the marker but not Wystan's second question (what the animals drank from).",
+   "quote": "He had asked two things. Tally had answered one."
+  },
+  {
+   "ch": 5,
+   "subject": "the day book",
+   "kind": "object",
+   "fact": "Wystan's day-book margin now reads: edges / ask Tally who set the marker / the estate. before the roll. / the round.",
+   "quote": "Beneath *edges* and *ask Tally who set the marker* and *the estate. before the roll.* he wrote two words."
+  },
+  {
+   "ch": 5,
+   "subject": "the hacks",
+   "kind": "fact",
+   "fact": "The two Division hacks were hired on a chit to the northern office and go on the Prime Warden's bill with the three lamps.",
+   "quote": "The Division's stables stood behind the medical house, and the ostler gave them two hacks on a chit to the northern office, which put the hire on the Prime Warden's bill with his three lamps."
+  },
+  {
+   "ch": 5,
+   "subject": "the Timberline bench",
+   "kind": "fact",
+   "fact": "Wystan wires the Timberline bench (nine words) that the assay of record is with the Register at Ferriby, returning tomorrow.",
+   "quote": "*Assay of record with Register at Ferriby. Returns tomorrow.*"
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan had not slept since the noon before the ride; he rides badly, Yinzhi rides well.",
+   "quote": "He rode badly, with his weight too far back and the reins in the tips of his fingers, and had not slept since the noon before, and he let the hack follow hers."
+  },
+  {
+   "ch": 5,
+   "subject": "Tally",
+   "kind": "fact",
+   "fact": "Tally and Wystan meet in person for the first time; Tally calls Yinzhi 'Qiu' and Wystan shows him the brass token and gives the name Ashmore.",
+   "quote": "Wystan took the brass out of his waistcoat and showed it on his palm before he gave the name."
+  },
+  {
+   "ch": 5,
+   "subject": "Tally's notebook",
+   "kind": "object",
+   "fact": "Tally's oilcloth notebook, on a thong at his belt, logs every day since the letter with the same walk in the same order, 'North of the stone. Nothing.'; he shows it but does not let go of it.",
+   "quote": "He held it for Wystan to read and did not let go of it."
+  },
+  {
+   "ch": 5,
+   "subject": "the last hind",
+   "kind": "number",
+   "fact": "The stone stands twenty-two paces north of the last carcass, a hind lying toward the stone.",
+   "quote": "He stopped with his toe against the stone."
+  },
+  {
+   "ch": 5,
+   "subject": "the carcasses",
+   "kind": "fact",
+   "fact": "The dead show no scavenging: eyes whole, a faint sweetish smell without rot; Wystan did not count them this chapter.",
+   "quote": "The eyes were whole."
+  },
+  {
+   "ch": 5,
+   "subject": "the parish marker",
+   "kind": "fact",
+   "fact": "The stone is a hip-high squared block of grey grit leaning west, yellow lichen on its north face, a surveyor's sighting groove on the dressed top; the south face bears TERM, the estate's name cut shallower and later, and an illegible line that may have been a year.",
+   "quote": "*TERM*, and the rest of a word the chancery still used, and under it the estate's name cut shallower, by somebody else, later."
+  },
+  {
+   "ch": 5,
+   "subject": "the parish marker",
+   "kind": "fact",
+   "fact": "Wystan touched the stone and felt nothing carried on it.",
+   "quote": "It had carried nothing that he could feel, and he had not thought it would."
+  },
+  {
+   "ch": 5,
+   "subject": "the parish clerk",
+   "kind": "fact",
+   "fact": "The parish clerk had the stone's before-the-roll dating from his father.",
+   "quote": "Parish clerk had it from his father."
+  },
+  {
+   "ch": 5,
+   "subject": "the estate's round",
+   "kind": "fact",
+   "fact": "The Ferriby estate's round comes up out of the birch from the south on the east side, meets the stone at its south-east corner and bends west along the estate's bound; north of the stone is parish ground.",
+   "quote": "Comes up out of their ground through the birch and goes along their bound, west."
+  },
+  {
+   "ch": 5,
+   "subject": "Yinzhi",
+   "kind": "fact",
+   "fact": "Yinzhi ran a fresh coil twice north of the stone and confirms the far side clean, as assay of record.",
+   "quote": "\"Nothing,\" she said. \"Clean.\""
+  },
+  {
+   "ch": 5,
+   "subject": "the burn",
+   "kind": "fact",
+   "fact": "Per Tally, the burn runs the foot of the timber down the whole cut and on north under the rise: the same water both sides of the stone; Wystan concludes it is not the burn.",
+   "quote": "So it was not the burn."
+  },
+  {
+   "ch": 5,
+   "subject": "Tally",
+   "kind": "lie",
+   "fact": "LIE: Tally says nothing is set out (troughs, anything filled) on his line or near it. He knows better; not true.",
+   "quote": "\"Nothing set out on my line, nor near it.\""
+  },
+  {
+   "ch": 5,
+   "subject": "the day book",
+   "kind": "object",
+   "fact": "Wystan records Tally's lie in the day book, attributed: 'Nothing set out, per Tally.'",
+   "quote": "*Burn, both sides of the stone. North side clean. Nothing set out, per Tally.*"
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "Wystan stood eight divisions (twelfth to sixth) without food calling the scene late: swollen feet, cold shins, tremor, left calf knot, greying vision.",
+   "quote": "Eight divisions. He had counted every one."
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "The working's price falls on the body, not the Crystal; a following-week debt is owed.",
+   "quote": "The week after would send its own bill."
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Called Late reads, off the estate's round: somebody came up from the south, stopped well short of the stone, stood a while, went back the way he came, on foot at a walking pace, more than once.",
+   "quote": "\"Somebody came up from the south,\" Wystan said."
+  },
+  {
+   "ch": 5,
+   "subject": "the walker",
+   "kind": "fact",
+   "fact": "The walker's passes lie layered with disagreeing clocks; the newest are weeks old and at least some broke ground the dead had already shed on; none went past the stopping place or followed the round west; nothing of him came near the stone. Wystan will not give a number.",
+   "quote": "The newest were weeks old."
+  },
+  {
+   "ch": 5,
+   "subject": "the walker",
+   "kind": "fact",
+   "fact": "Called Late cannot say who the walker is or what he did while standing.",
+   "quote": "\"He stood,\" he said. \"I cannot give you what he did standing.\""
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "misreading",
+   "fact": "MISREADING: Wystan concludes the walker turned short of the stone so the dead would lie on this side, i.e. the edge is a chosen line. Wrong: it is where an ordinary round stops.",
+   "quote": "He had turned short of the stone so that the dead would lie on this side of it."
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "injury",
+   "fact": "On turning Wystan faints briefly to one knee, bare palm flat on the stone; both calves cramp when he sits. Yinzhi and Tally witness it.",
+   "quote": "It did not go far."
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "In the faint Wystan's bare palm touched the stone, his one lapse from holding things by the edge; he finds nothing on it.",
+   "quote": "He had not held it by the edge."
+  },
+  {
+   "ch": 5,
+   "subject": "Wystan",
+   "kind": "fact",
+   "fact": "Wystan finally eats Tally's bread, holding it by the crust's edge.",
+   "quote": "He took it by the edge of the crust, two fingers and a thumb."
+  },
+  {
+   "ch": 5,
+   "subject": "the day book",
+   "kind": "object",
+   "fact": "Wystan writes the walker's sequence and the divisions against each pass in the day book, with 'stood, short of the stone; what, not had.'",
+   "quote": "He wrote the sequence in the plain words he had said it in, and the divisions against each pass as near as the field would give them, and under it, *stood, short of the stone; what, not had.*"
+  },
+  {
+   "ch": 5,
+   "subject": "the estate's round",
+   "kind": "fact",
+   "fact": "Per Tally the round goes south round the whole estate, the estate's ground, not Tally's line.",
+   "quote": "It's theirs. It's not my line."
   }
  ],
  "hooks": [
@@ -902,12 +1126,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 7,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "Wystan's letter asks Tally who set the parish marker and what the animals on the line drank from; Tally's clean far side, checked twice.",
      "quote": "Tell me who set the parish marker on the Ferriby line, and when, if anybody knows."
+    },
+    {
+     "ch": 5,
+     "what": "Tally's letter identifies the marker as the Ferriby estate's old survey stone; Called Late reads a walker on the estate's round turning short of it, more than once; Wystan writes 'the round.'",
+     "quote": "It is the Ferriby estate's old survey stone, the corner of their ground, set by the estate before the parish was on the roll."
     }
    ]
   },
@@ -962,12 +1191,17 @@
    ],
    "planted_ch": 1,
    "due_ch": 41,
-   "status": "planted",
+   "status": "advanced",
    "events": [
     {
      "ch": 1,
      "what": "Wystan asks Tally for a notebook kept on his person: a second dataset from the same observer.",
      "quote": "I want a second dataset from the same observer."
+    },
+    {
+     "ch": 5,
+     "what": "Tally shows the notebook kept daily since the letter, 'North of the stone. Nothing.', without letting go of it.",
+     "quote": "Tally took the notebook off its thong and opened it."
     }
    ]
   },
@@ -1339,6 +1573,11 @@
      "ch": 3,
      "what": "Lyle reads 'edges' in the margin; the position goes into her minute.",
      "quote": "She read *edges* and the plain sentences underneath it, and then *A dose goes where it is put*, and took up her pen, and copied the line into the minute in a small upright hand, and wrote the date and the division beside it."
+    },
+    {
+     "ch": 5,
+     "what": "Wystan reads the walker's turn as a chosen edge; the margin grows to 'the estate. before the roll.' and 'the round.'",
+     "quote": "That was the edge."
     }
    ]
   },
@@ -1499,6 +1738,11 @@
    "ch": 4,
    "title": "A Number in the Room",
    "summary": "Day 2, fourth to sixth division, Xu counting house. Deming enters the second tranche of the Swale supply as wastage at the array, where four years of the column had run flat. He writes the covering letter in the house form. Its second line reads \"On the account of Project Zombification, second tranche\", as Malphas ordered against his argument. The cause given is \"the thaw\", signed for the house under the Xu chop. On the almanac he privately counts thirty-one days of usefulness and knows Malphas counted them first. He derives eleven weeks to the Logistics return from the house's own copies. The Logistics factor, unnamed, queries the step in the column and pushes to move the loss into carriage on the house's bond. Deming holds it to wastage. He tells the factor that in eleven weeks the capital will see \"a bad spring\", and has it noted in the factor's pocket-book with the division. The factor reads the letter's second line twice and makes an unexplained hooked mark beside it. He files it between boards, says covering letters go in the stove, and leaves upriver with it after Deming tells the Hollow Shaft story as a joke."
+  },
+  {
+   "ch": 5,
+   "title": "Who Set the Marker",
+   "summary": "Day 4, sixth division, to Day 5, sixth. Yinzhi brings the Society's bundle to Cutler Row. Tally's letter: he walks daily again; the marker is the Ferriby estate's old survey stone, their corner, set before the parish was on the roll. It leaves the second question unanswered. Wystan wires the Timberline bench and rides out with Yinzhi on hacks charged to Lyle's bill. At the eleventh division Tally, first seen, shows his notebook without letting go of it and walks them the line. The stone bears a weathered *TERM* and the estate's name. The estate's round comes up through the birch, meets the stone and bends west. Yinzhi's coil confirms the far side clean. Tally says the burn runs both sides and lies that nothing is set out. Wystan stands eight divisions without food and calls the scene late. At the sixth he states: somebody came up from the south along the estate's round, stopped short of the stone, stood a while, and went back the way he came, on foot, at a walking pace, more than once. What he did standing cannot be read. Wystan faints briefly, eats, writes *the round* in the margin, and looks down it."
   }
  ]
 }

@@ -1413,7 +1413,7 @@
   },
   "3b258200-eb22-8132-a010-ec6fd17e718b": {
     "rel": "In-World Documents & the Narrative Archive/The Scene Archive.md",
-    "edited": "2026-09-23T23:15:00.000Z",
+    "edited": "2026-09-24T00:29:00.000Z",
     "title": "The Scene Archive",
     "private": true
   },
@@ -3396,6 +3396,12 @@
   "3e458200-eb22-8112-abe3-f60f8443ee96": {
     "rel": "The Scene Archive/Continuity map (3e458200).md",
     "edited": "2026-09-23T23:15:00.000Z",
+    "title": "Continuity map",
+    "private": true
+  },
+  "3e558200-eb22-8127-b8b1-eba89a6fb293": {
+    "rel": "The Scene Archive/Continuity map (3e558200).md",
+    "edited": "2026-09-24T00:29:00.000Z",
     "title": "Continuity map",
     "private": true
   }

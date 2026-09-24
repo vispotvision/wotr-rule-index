@@ -21,6 +21,26 @@ word, per AGENTS.md. The claude.ai account copies are unchanged and still
 serve Desktop chat; a craft change should land in both. `~/wotr-natalie`
 picks these up on its next pull.
 
+## State on 2026-09-24 (character lore, written, not published)
+
+**Every card has a Lore section on disk; none is in Notion yet.** Isaac asked
+for a character manager that makes the connections and gives every character
+a backstory in Notion. `.claude/workflows/character-lore.js` (args `{date,
+cards?, rewrite?}`) built the roster (`build/lore_roster.py` →
+`imports/lore/_roster.json`), 41 clusters (`_clusters.json`), one shared
+history per cluster (`clusters/`), the cross-cluster ties (`WEAVE.md`), and
+276 sections "Lore · The Life Behind the Card" (`imports/lore/cards/`, all
+verify.py PASS when written; Sodoku Moto's is a record compiled from the
+card and archive, nothing new). `LAW.md` and `WORLD.md` are the brief the
+writers read; `UNCARDED.md` registers archive characters with no card
+(Charles, Kujo, Wren, Ilthára ...). **On Isaac's word the run stopped after
+writing:** the canon and craft checks, revisions, tie reconciliation (ties
+may be one-sided), the hub page "The Web of Lives" and the audit were
+skipped, and he chose to hold publishing. To publish: `bash build/py.sh
+build/lore_publish.py` (dry run; 276 would go) then `--apply` on his word;
+it appends the section to each card page and replaces it on a re-run. The
+skipped stages can be run later by resuming the workflow on the same files.
+
 ## State on 2026-09-23 (the Magic System pass)
 
 **Tiers 8/9 renamed and every open Magic System conflict ruled.** Tiers of

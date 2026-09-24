@@ -21,9 +21,16 @@ word, per AGENTS.md. The claude.ai account copies are unchanged and still
 serve Desktop chat; a craft change should land in both. `~/wotr-natalie`
 picks these up on its next pull.
 
-## State on 2026-09-24 (character lore, written, not published)
+## State on 2026-09-24 (character lore, written and published)
 
-**Every card has a Lore section on disk; none is in Notion yet.** Isaac asked
+**Published later the same day:** Isaac ran `lore_publish.py --apply` himself;
+all 276 sections are on their Notion card pages (checked on three: one
+section each, last on the page). `imports/lore/_published.json` holds the
+hashes, so a re-run only sends changed files. "The Web of Lives" hub page
+was not made (its stage was skipped). The hourly sync mirrors the sections
+into wiki/, after which `lore_roster.py` reports has_lore for each card.
+
+**Every card has a Lore section on disk.** Isaac asked
 for a character manager that makes the connections and gives every character
 a backstory in Notion. `.claude/workflows/character-lore.js` (args `{date,
 cards?, rewrite?}`) built the roster (`build/lore_roster.py` →

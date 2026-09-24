@@ -2,86 +2,1832 @@
   "meta": {
     "issue": "WAR-9",
     "conversion_tested": "1 EU = 1 MJ of potential; delivered = EU × η; 1 AU/s = 1 MW",
-    "grade_read_from": "Part Five's Max Grade for the Stage the page states",
-    "residual_unit": "decades (log10) outside the Grade's joule band; 0.0 = inside"
+    "grade_read_from": "where the page states joules, the page; otherwise the proxy — Part Five's Max Grade for the Stage the page states",
+    "residual_unit": "decades (log10) outside the Grade's joule band; 0.0 = inside",
+    "joules_defined_by": {
+      "source": {
+        "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+        "line": 30
+      },
+      "verbatim": "Strike Force is the destructive energy delivered per discrete attack action, measured in **Newtons** for peak contact force at the moment of impact and **Joules** for total energy yield. Both matter. A sword thrust concentrates low total energy into an extremely small contact area, producing high local pressure and deep penetration. A body slam distributes enormous total energy across a broad contact zone, producing catastrophic structural damage without penetration. The Continuum records both."
+    },
+    "stage_xiv_reading": {
+      "read": "Part Five's Stage gate table: Stage XIV, Zenith, Max Grade EX.",
+      "why": "the proxy reads a Stage's Max Grade off Part Five for every Stage, and Part Five gives XIV a Max Grade like every other row. Part Eleven's benchmark table does not: its Zenith row declines to give a figure. The two are not reconciled here. Declining to quantify is not a second figure, so this is recorded rather than filed as a conflict — but the fit's worst residual, the Primate at Stage XIV, rests on reading EX, and a reader who takes Part Eleven's row instead has no band to read him against at all.",
+      "part_five": {
+        "source": {
+          "file": "wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md",
+          "line": 77
+        },
+        "verbatim": "| XIV | Zenith | EX | 1,500 | 8 · Archmaster |"
+      },
+      "part_eleven": {
+        "source": {
+          "file": "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
+          "line": 47
+        },
+        "verbatim": "| Zenith | Stage XIV | Unquantified | Unquantified | — | Continuum recalibration required |"
+      }
+    }
+  },
+  "dedupe": {
+    "note": "one figure counted once. `duplicate_of` in anchors.json marks the rows left out; every attestation stays in that file.",
+    "reserves": {
+      "rows": 35,
+      "distinct": 31,
+      "distinct_strict": 31
+    },
+    "costs": {
+      "rows": 136,
+      "distinct": 128,
+      "distinct_strict": 124
+    },
+    "kept_apart_because_they_name_different_workings": [
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "eu": 6200.0,
+        "names": "Tetsu no Ho · Iron Step",
+        "source": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 59
+        },
+        "verbatim": "| **Tetsu no Ho** · Iron Step | Footwork pressure; forces the ground to accept his weight before he ever strikes the body above it | 6,200 EU |",
+        "same_value_recorded_at": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 54
+        }
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "eu": 4800.0,
+        "names": "Ozumu no Katachi Form of Accumulated Crush",
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 93
+        },
+        "verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |",
+        "same_value_recorded_at": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 53
+        }
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "eu": 6200.0,
+        "names": "Juuretsu Binding Weight",
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 94
+        },
+        "verbatim": "| **Juuretsu** *Binding Weight* | 6,200 EU | **Forces terrain to recognise heavier law.** 5–20 m focused, up to 1 km at apex | Airborne attrition, refusing ground contact |",
+        "same_value_recorded_at": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 54
+        }
+      },
+      {
+        "entity": "Vethraun Ashmaw",
+        "eu": 800.0,
+        "names": "The Hollow Echo",
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 118
+        },
+        "verbatim": "> **The Hollow Echo** · If Perathane Swallow is active and reserves drop below 800 EU, **the channel inverts, draining an additional 80 EU/s** until the technique ends or the threshold is crossed. **Invisible to him mid-combat. He has overstayed it before.**",
+        "same_value_recorded_at": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 105
+        }
+      }
+    ]
+  },
+  "direct_pairs": [
+    {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Ozumu no Katachi Form of Accumulated Crush",
+      "basis": "the EU cost and the joule output are written on one line",
+      "why": null,
+      "eu": 4800.0,
+      "eu_low": 4800.0,
+      "eu_high": 4800.0,
+      "joules_low": 1000000.0,
+      "joules_high": 5000000.0,
+      "j_per_eu_low": 208.33333333333334,
+      "j_per_eu_high": 1041.6666666666667,
+      "eta": 0.99,
+      "j_per_eu_through_eta_low": 210.43771043771045,
+      "j_per_eu_through_eta_high": 1052.1885521885522,
+      "joules_at_1MJ_low": 4800000000.0,
+      "joules_at_1MJ_high": 4800000000.0,
+      "decades_from_1MJ_least": 2.9822712330395684,
+      "decades_from_1MJ_most": 3.681241237375587,
+      "cost_source": {
+        "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+        "line": 93
+      },
+      "cost_verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |",
+      "cost_high_source": null,
+      "joule_source": {
+        "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+        "line": 93
+      },
+      "joule_verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |"
+    },
+    {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "basis": "stated a few lines apart on one page",
+      "why": "The Iron Tree's apex. The cost line names Kokushin Gyūha and its EU figure; the Numerical Effect line gives the output 'at apex'; the technique table calls Kokushin Gyūha the 'Apex fruit of the whole system'.",
+      "eu": 7400.0,
+      "eu_low": 7400.0,
+      "eu_high": 7400.0,
+      "joules_low": 8000000.0,
+      "joules_high": 20000000.0,
+      "j_per_eu_low": 1081.081081081081,
+      "j_per_eu_high": 2702.7027027027025,
+      "eta": null,
+      "j_per_eu_through_eta_low": null,
+      "j_per_eu_through_eta_high": null,
+      "joules_at_1MJ_low": 7400000000.0,
+      "joules_at_1MJ_high": 7400000000.0,
+      "decades_from_1MJ_least": 2.568201724066995,
+      "decades_from_1MJ_most": 2.9661417327390325,
+      "cost_source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 20
+      },
+      "cost_verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+      "cost_high_source": null,
+      "joule_source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 41
+      },
+      "joule_verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+    },
+    {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "basis": "stated a few lines apart on one page",
+      "why": "The Iron Tree's branches. Both figures are on the page as ranges for the same set of releases: 2,800 to 8,900 EU per branch, and branch outputs in the 1 to 10 MJ range.",
+      "eu": null,
+      "eu_low": 2800,
+      "eu_high": 8900,
+      "joules_low": 1000000.0,
+      "joules_high": 10000000.0,
+      "j_per_eu_low": 112.35955056179775,
+      "j_per_eu_high": 3571.4285714285716,
+      "eta": null,
+      "j_per_eu_through_eta_low": null,
+      "j_per_eu_through_eta_high": null,
+      "joules_at_1MJ_low": 2800000000.0,
+      "joules_at_1MJ_high": 8900000000.0,
+      "decades_from_1MJ_least": 2.4471580313422194,
+      "decades_from_1MJ_most": 3.949390006644913,
+      "cost_source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 20
+      },
+      "cost_verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+      "cost_high_source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 20
+      },
+      "joule_source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 41
+      },
+      "joule_verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+    }
+  ],
+  "grade_proxy_check": {
+    "summary": {
+      "note": "every attested joule figure read against the Grade the Stage→Part Five→Part Four proxy would have assigned it. 0 means the proxy agrees; a positive number means the page states an output that many Grades above what the proxy assigns, negative that many below. This is the error the per-anchor residuals in `reserves` and `costs` inherit before any constant is tested.",
+      "strike_rows": 18,
+      "agree": 7,
+      "mean_grades_apart": -0.05555555555555555,
+      "mean_abs_grades_apart": 1.6111111111111112,
+      "distribution": {
+        "2": 3,
+        "1": 4,
+        "-3": 1,
+        "-7": 1,
+        "0": 7,
+        "-5": 1,
+        "4": 1
+      }
+    },
+    "rows": [
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 8000000.0,
+        "joules_high": 20000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 41
+        },
+        "verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 1000000.0,
+        "joules_high": 10000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 41
+        },
+        "verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+      },
+      {
+        "entity": "Auric Parallax Veil",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 4.184e+18,
+        "joules_high": 4.184e+18,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Techniques/Auric Parallax Veil.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) is the largest event the Veil can select the outcome of at Stage XII; it is a ceiling on what may be overridden, not a discharge the Veil itself releases."
+      },
+      {
+        "entity": "Draven Kael Vorrick",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 4000000000000.0,
+        "joules_high": 4000000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": null,
+        "grade_from_stage_proxy": null,
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": null,
+        "source": {
+          "file": "wiki/Techniques/Bloodbind Surge.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · Strike Force triples for the duration, pushing his own A-Grade Ardency baseline (20–100 GN peak, 46 GJ–4 TJ yield, per the FOW Physical Benchmarks table) toward the top of that band or briefly past it, an Overchannel-range spike rather than sustained output."
+      },
+      {
+        "entity": "Celestial Decree: Aeon-Shard Mandate",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 4.184e+18,
+        "joules_high": 4.184e+18,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Techniques/Celestial Decree Aeon-Shard Mandate.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) for the Worldrend Vector; Worldbind Bastion draws on the same ceiling as sustained stabilisation rather than released force across a 5 to 50 m radius; Dreamveil Cascade applies it as a short-range omnidirectional perceptual pulse."
+      },
+      {
+        "entity": "Celestial Harmonic Shear",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 400000000000000.0,
+        "joules_high": 400000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Techniques/Celestial Harmonic Shear.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · Range up to 300 m, line-of-sight, delivered as a line up to 100 m long and under 3 cm wide; at the required SSS-Grade the cut sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield along the line, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous, with resonance cracks lingering a few seconds along the cut."
+      },
+      {
+        "entity": "Harmonic Null-Ascension",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 400000000000000.0,
+        "joules_high": 400000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Techniques/Harmonic Null-Ascension.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · Range up to 500 m, line-of-sight, primarily single-target with a secondary 15 m radius dissonance burst on collapse; at the required SSS-Grade the strike sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous once frequency-lock completes, with residual dissonance lasting a few seconds."
+      },
+      {
+        "entity": "Liminal Palace of False Dawn",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 4.184e+18,
+        "joules_high": 4.184e+18,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Techniques/Liminal Palace of False Dawn.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) stands as the ceiling on the sheer scale of perceptual field the overlay can sustain at Stage XII; nothing in that range is discharged against a body, since the working never touches physical reality."
+      },
+      {
+        "entity": "Obelisk of the Eclipsed Dawn",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 4.184e+18,
+        "joules_high": 4.184e+18,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Techniques/Obelisk of the Eclipsed Dawn.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) when run in Fracture Cascade mode; Ecliptic Aegis and Oneiric Reversal modes draw on the same ceiling as absorbed or redirected rather than released force."
+      },
+      {
+        "entity": "Sovereign Parallax Lance",
+        "measure": "other",
+        "label": "Numerical Effect",
+        "joules_low": 400000000000000.0,
+        "joules_high": 400000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Techniques/Sovereign Parallax Lance.md",
+          "line": 39
+        },
+        "verbatim": "**Numerical Effect** · Range up to 900 m, single-target with a fractured echo along a line up to 40 m; at the required SSS-Grade the strike sits at the conservative low end of that Grade's benchmark, on the order of 1 PN of peak force and roughly 400 TJ of yield (low hundred-kiloton TNT-equivalent), an estimate chosen per Law Two since the card gives no force figure of its own. Resolution is instantaneous, with the harmonic disturbance it leaves lingering a few seconds afterward."
+      },
+      {
+        "entity": "Anryū Ichimonji",
+        "measure": "other",
+        "label": "2.4 GN vs Fixatio-locked targets",
+        "joules_low": 4800000000.0,
+        "joules_high": 4800000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+          "line": 57
+        },
+        "verbatim": "**Strike Force** 1.2 GN baseline / **2.4 GN vs Fixatio-locked targets** · 4.8 GJ / **18.6 GJ amplified** — *~1.1 tons TNT baseline, ~4.4 tons amplified*"
+      },
+      {
+        "entity": "Anryū Ichimonji",
+        "measure": "other",
+        "label": "2.4 GN vs Fixatio-locked targets",
+        "joules_low": 18600000000.0,
+        "joules_high": 18600000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+          "line": 57
+        },
+        "verbatim": "**Strike Force** 1.2 GN baseline / **2.4 GN vs Fixatio-locked targets** · 4.8 GJ / **18.6 GJ amplified** — *~1.1 tons TNT baseline, ~4.4 tons amplified*"
+      },
+      {
+        "entity": "Anryū Ichimonji",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 8400000000.0,
+        "joules_high": 8400000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+          "line": 58
+        },
+        "verbatim": "**Durability** 8.4 GJ Shell / 2.1 GJ physical · **Attack Speed** Mach 1.4 sustained · **Reaction 15–30ms Solvari neural conduction advantage**"
+      },
+      {
+        "entity": "Anryū Ichimonji",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 2100000000.0,
+        "joules_high": 2100000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+          "line": 58
+        },
+        "verbatim": "**Durability** 8.4 GJ Shell / 2.1 GJ physical · **Attack Speed** Mach 1.4 sustained · **Reaction 15–30ms Solvari neural conduction advantage**"
+      },
+      {
+        "entity": "Anryū Ichimonji",
+        "measure": "other",
+        "label": "Still Current",
+        "joules_low": 800000000000.0,
+        "joules_high": 800000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+          "line": 75
+        },
+        "verbatim": "**Still Current** · Lineage — **Shell microanchors resist deformation up to 0.8 TJ per localised impact.** *Incoming Shell-targeting techniques must break the anchor first.*"
+      },
+      {
+        "entity": "Artemis Amagiri Moto",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 8.8e+16,
+        "joules_high": 8.8e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+          "line": 62
+        },
+        "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**"
+      },
+      {
+        "entity": "Artemis Amagiri Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 4.3e+16,
+        "joules_high": 4.3e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+          "line": 62
+        },
+        "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**"
+      },
+      {
+        "entity": "Artemis Amagiri Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 1900000000000.0,
+        "joules_high": 1900000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+          "line": 62
+        },
+        "verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**"
+      },
+      {
+        "entity": "Ayame Yuno",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 400000000000000.0,
+        "joules_high": 400000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+          "line": 64
+        },
+        "verbatim": "**Strike Force** · 0.15 GN / 0.4 PJ — *direct physical strikes are negligible;* **her impact manifests in structural changes to morale, oaths and ritual law rather than kinetic damage**"
+      },
+      {
+        "entity": "Ayame Yuno",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 1.1e+16,
+        "joules_high": 1.1e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+          "line": 65
+        },
+        "verbatim": "**Durability** · 11 PJ shielding / 280 GJ hardness — heavily biased toward **layered liturgical wards, Moto-crafted artifacts and winter-law barriers woven through her attire**"
+      },
+      {
+        "entity": "Ayame Yuno",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 280000000000.0,
+        "joules_high": 280000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+          "line": 65
+        },
+        "verbatim": "**Durability** · 11 PJ shielding / 280 GJ hardness — heavily biased toward **layered liturgical wards, Moto-crafted artifacts and winter-law barriers woven through her attire**"
+      },
+      {
+        "entity": "Borin Ironheart · The Master of the Soul Forge",
+        "measure": "strike",
+        "label": "Strike Force (Sustained)",
+        "joules_low": 55000000000.0,
+        "joules_high": 200000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": "SSS",
+        "peak_primary_grade": null,
+        "grades_apart": -3,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+          "line": 94
+        },
+        "verbatim": "**Strike Force (Sustained):** SS-Grade equivalent (est. 55–200 GJ range) — Borin’s combat-relevant output is incidental to his craft. A hammer-stroke designed to reshape S-Grade alloy at the molecular level delivers force sufficient to reshape most opponents at the anatomical level. He does not train for combat. He does not need to. The forge has its own opinions about uninvited guests."
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 8000000.0,
+        "joules_high": 20000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 58
+        },
+        "verbatim": "**Strike Force** · 80,000 N casual / **up to 12,000,000 N, 8–20 MJ, at apex contact**"
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 100000.0,
+        "joules_high": 100000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 59
+        },
+        "verbatim": "**Durability** · 100,000 J baseline / up to 8 MJ in True Iron Bison state"
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 8000000.0,
+        "joules_high": 8000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 59
+        },
+        "verbatim": "**Durability** · 100,000 J baseline / up to 8 MJ in True Iron Bison state"
+      },
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "measure": "other",
+        "label": "Ozumu no Katachi Form of Accumulated Crush",
+        "joules_low": 1000000.0,
+        "joules_high": 5000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "D",
+        "stage": 13,
+        "grade_from_stage_proxy": "X",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -7,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 93
+        },
+        "verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |"
+      },
+      {
+        "entity": "Draven Kael Vorrick · The Beast Slayer",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 4000000000000.0,
+        "joules_high": 4000000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 6,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": "A",
+        "peak_primary_grade": "A",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Draven Kael Vorrick · The Beast Slayer.md",
+          "line": 91
+        },
+        "verbatim": "**Strike Force** · Ardency 320, A-Grade — **on the order of 20–100 GN peak force, 46 GJ to 4 TJ yield, city-block scale.** *The legacy sheet's 300 GN sits just above A-Grade and reads as an Overchannel spike rather than sustainable output.*"
+      },
+      {
+        "entity": "Gimbzo",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 3.8e+17,
+        "joules_high": 3.8e+17,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+          "line": 66
+        },
+        "verbatim": "**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monlithion law*"
+      },
+      {
+        "entity": "Gimbzo",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 220000000000.0,
+        "joules_high": 220000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -3,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+          "line": 66
+        },
+        "verbatim": "**Durability** 380 PJ shielding / 220 GJ hardness — *skin and bone reinforced by Monlithion law*"
+      },
+      {
+        "entity": "Gorrath Bloodspine · The Magmaborn Juggernaut",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 10000000000000.0,
+        "joules_high": 10000000000000.0,
+        "grade_attested_low": "S",
+        "grade_attested_high": "S",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": "S",
+        "peak_primary_grade": "S",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Gorrath Bloodspine · The Magmaborn Juggernaut.md",
+          "line": 98
+        },
+        "verbatim": "**Strike Force** · Ardency 395, mid S-Grade. On the order of **1 TN peak contact force, near 10 TJ yield, roughly 2.5 kilotons equivalent.** Town-level, delivered blunt — and the Sharp-Blunt asymmetry means he shatters structures a swordsman of equal Grade could only slice."
+      },
+      {
+        "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 4e+18,
+        "joules_high": 4e+18,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": "SS",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+          "line": 105
+        },
+        "verbatim": "**Strike Force** · Ardency 638, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist."
+      },
+      {
+        "entity": "Iracordas",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 1.6e+16,
+        "joules_high": 1.6e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Iracordas.md",
+          "line": 55
+        },
+        "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Iracordas",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 7.2e+16,
+        "joules_high": 7.2e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Iracordas.md",
+          "line": 55
+        },
+        "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Iracordas",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 31000000000.0,
+        "joules_high": 31000000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -3,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Iracordas.md",
+          "line": 55
+        },
+        "verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Krothar Veylshroud — The Chain Without a Master",
+        "measure": "strike",
+        "label": "Strike Energy",
+        "joules_low": 2.2e+16,
+        "joules_high": 2.2e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+          "line": 85
+        },
+        "verbatim": "**Strike Energy:** ~22 PJ standard technique contact"
+      },
+      {
+        "entity": "Krothar Veylshroud — The Chain Without a Master",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 3.8e+16,
+        "joules_high": 3.8e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+          "line": 88
+        },
+        "verbatim": "**Durability:** ~38 PJ structural; ~95 PJ with Resilience active"
+      },
+      {
+        "entity": "Krothar Veylshroud — The Chain Without a Master",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 9.5e+16,
+        "joules_high": 9.5e+16,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+          "line": 88
+        },
+        "verbatim": "**Durability:** ~38 PJ structural; ~95 PJ with Resilience active"
+      },
+      {
+        "entity": "Lucius Xenotro",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 1400000000000000.0,
+        "joules_high": 1400000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+          "line": 67
+        },
+        "verbatim": "**Strike Force** 0.38 GN baseline / **4.2 GN radiant reinforcement** · **Durability** 1.4 PJ shielding / 26 GJ hardness"
+      },
+      {
+        "entity": "Lucius Xenotro",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 26000000000.0,
+        "joules_high": 26000000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 8,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+          "line": 67
+        },
+        "verbatim": "**Strike Force** 0.38 GN baseline / **4.2 GN radiant reinforcement** · **Durability** 1.4 PJ shielding / 26 GJ hardness"
+      },
+      {
+        "entity": "Mizuki Moto",
+        "measure": "other",
+        "label": "0.38 GN reinforced",
+        "joules_low": 1400000000.0,
+        "joules_high": 1400000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+          "line": 54
+        },
+        "verbatim": "**Strike Force** 0.12 GN baseline / **0.38 GN reinforced** · ~1.4 × 10⁹ J peak, **~0.33 tons TNT equivalent**"
+      },
+      {
+        "entity": "Mizuki Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 36000000000000.0,
+        "joules_high": 36000000000000.0,
+        "grade_attested_low": null,
+        "grade_attested_high": null,
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": null,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+          "line": 55
+        },
+        "verbatim": "**Durability** 0.036 PJ shielding / 7.8 GJ physical hardness · **Attack Speed** Mach 4 sustained, Mach 11 burst"
+      },
+      {
+        "entity": "Mizuki Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 7800000000.0,
+        "joules_high": 7800000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+          "line": 55
+        },
+        "verbatim": "**Durability** 0.036 PJ shielding / 7.8 GJ physical hardness · **Attack Speed** Mach 4 sustained, Mach 11 burst"
+      },
+      {
+        "entity": "Muken Moto",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 120000000000000.0,
+        "joules_high": 400000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+          "line": 56
+        },
+        "verbatim": "**Strike Force** · 1.6 GN baseline / 9.5 GN reinforced / **0.12–0.40 PJ execution**"
+      },
+      {
+        "entity": "Muken Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 380000000000000.0,
+        "joules_high": 380000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+          "line": 57
+        },
+        "verbatim": "**Durability** · 0.38 PJ shielding / 84 GJ hardness"
+      },
+      {
+        "entity": "Muken Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 84000000000.0,
+        "joules_high": 84000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+          "line": 57
+        },
+        "verbatim": "**Durability** · 0.38 PJ shielding / 84 GJ hardness"
+      },
+      {
+        "entity": "Naevra Yukari",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 4800000000000000.0,
+        "joules_high": 4800000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 9,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+          "line": 54
+        },
+        "verbatim": "**Strike Force** · 4.8 PJ equivalent **through focused thread-collapse events**"
+      },
+      {
+        "entity": "Naevra Yukari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 3100000000000000.0,
+        "joules_high": 3100000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 9,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+          "line": 55
+        },
+        "verbatim": "**Durability** · 3.1 PJ shielding / 240 GJ physical hardness"
+      },
+      {
+        "entity": "Naevra Yukari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 240000000000.0,
+        "joules_high": 240000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 9,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+          "line": 55
+        },
+        "verbatim": "**Durability** · 3.1 PJ shielding / 240 GJ physical hardness"
+      },
+      {
+        "entity": "Niran Yukari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 4200000000.0,
+        "joules_high": 4200000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+          "line": 57
+        },
+        "verbatim": "**Strike Force** 0.18 GN baseline / **0.62 GN Aether-assisted** · **Durability** 4.2 GJ shielding / 2.8 GJ hardness"
+      },
+      {
+        "entity": "Niran Yukari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 2800000000.0,
+        "joules_high": 2800000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+          "line": 57
+        },
+        "verbatim": "**Strike Force** 0.18 GN baseline / **0.62 GN Aether-assisted** · **Durability** 4.2 GJ shielding / 2.8 GJ hardness"
+      },
+      {
+        "entity": "Rashani Zettari",
+        "measure": "other",
+        "label": "1.2 GN with Aspect Reinforcement",
+        "joules_low": 2400000000.0,
+        "joules_high": 2400000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 6,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "B",
+        "grades_apart": -1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+          "line": 56
+        },
+        "verbatim": "**Strike Force** 0.18 GN baseline / **1.2 GN with Aspect Reinforcement** · ~2.4 GJ peak, **~0.57 tons TNT**"
+      },
+      {
+        "entity": "Rengai Zettari",
+        "measure": "other",
+        "label": "18 GN at Ember Compression peak",
+        "joules_low": 240000000000.0,
+        "joules_high": 240000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "A",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+          "line": 53
+        },
+        "verbatim": "**Strike Force** 4.2 GN baseline / **18 GN at Ember Compression peak** · ~2.4 × 10¹¹ J — ***~57 tons TNT equivalent***"
+      },
+      {
+        "entity": "Rengai Zettari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 800000000000000.0,
+        "joules_high": 800000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "A",
+        "grades_apart": 3,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+          "line": 54
+        },
+        "verbatim": "**Durability** 0.8 PJ shielding / 120 GJ hardness · **Attack Speed** Mach 12 sustained / Mach 28 burst"
+      },
+      {
+        "entity": "Rengai Zettari",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 120000000000.0,
+        "joules_high": 120000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 7,
+        "grade_from_stage_proxy": "A",
+        "card_stated_grade": null,
+        "peak_primary_grade": "A",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+          "line": 54
+        },
+        "verbatim": "**Durability** 0.8 PJ shielding / 120 GJ hardness · **Attack Speed** Mach 12 sustained / Mach 28 burst"
+      },
+      {
+        "entity": "Sinclair Mercer · The Soul Devourer",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 80000000000000.0,
+        "joules_high": 80000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 11,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": "SS",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Sinclair Mercer · The Soul Devourer.md",
+          "line": 120
+        },
+        "verbatim": "**Strike Force** · Ardency 466, low-mid SS-Grade. Roughly **30 TN peak contact force, on the order of 80 TJ energy yield, near 20 kilotons equivalent.** Town-level destructive capacity, which he almost never expresses as destruction because his delivery is severance rather than impact."
+      },
+      {
+        "entity": "Souma Byakuya Moto",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 3000000000000.0,
+        "joules_high": 3000000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 5,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Souma Byakuya Moto.md",
+          "line": 72
+        },
+        "verbatim": "**Strike Force** 0.42 GN / 0.003 PJ · **Durability** 0.005 PJ shielding / 18 GJ hardness · **Speed** Mach 11 burst"
+      },
+      {
+        "entity": "Souma Byakuya Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 18000000000.0,
+        "joules_high": 18000000000.0,
+        "grade_attested_low": "B",
+        "grade_attested_high": "B",
+        "stage": 5,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Souma Byakuya Moto.md",
+          "line": 72
+        },
+        "verbatim": "**Strike Force** 0.42 GN / 0.003 PJ · **Durability** 0.005 PJ shielding / 18 GJ hardness · **Speed** Mach 11 burst"
+      },
+      {
+        "entity": "Vethraun Ashmaw",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 3.1e+17,
+        "joules_high": 3.1e+17,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 70
+        },
+        "verbatim": "**Strike Force** · 14.2 GN / **310 PJ** Chthonic-Pyraeon burst"
+      },
+      {
+        "entity": "Vethraun Ashmaw",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 2.8e+17,
+        "joules_high": 2.8e+17,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 71
+        },
+        "verbatim": "**Durability** · 280 PJ Essence-shield / 90 GJ scale-and-bone hardness"
+      },
+      {
+        "entity": "Vethraun Ashmaw",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 90000000000.0,
+        "joules_high": 90000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -2,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 71
+        },
+        "verbatim": "**Durability** · 280 PJ Essence-shield / 90 GJ scale-and-bone hardness"
+      },
+      {
+        "entity": "Xanelor Rafminar · The Wandering Fang",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 10000000000000.0,
+        "joules_high": 10000000000000.0,
+        "grade_attested_low": "S",
+        "grade_attested_high": "S",
+        "stage": 9,
+        "grade_from_stage_proxy": "S",
+        "card_stated_grade": "S",
+        "peak_primary_grade": "S",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Xanelor Rafminar · The Wandering Fang.md",
+          "line": 102
+        },
+        "verbatim": "**Strike Force** · Ardency 408, mid S-Grade. Around **1 TN peak force, on the order of 10 TJ, near 3 kilotons equivalent** — distributed across constructs rather than delivered in one place, which is why he has never once put a town-scale figure onto a target."
+      },
+      {
+        "entity": "Yorime Seikai",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 3000000.0,
+        "joules_high": 25000000.0,
+        "grade_attested_low": "D",
+        "grade_attested_high": "C",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -5,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+          "line": 66
+        },
+        "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding"
+      },
+      {
+        "entity": "Yorime Seikai",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 80000000.0,
+        "joules_high": 220000000.0,
+        "grade_attested_low": "C",
+        "grade_attested_high": "C",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -5,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+          "line": 66
+        },
+        "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding"
+      },
+      {
+        "entity": "Yorime Seikai",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 2000000000000.0,
+        "joules_high": 2000000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 12,
+        "grade_from_stage_proxy": "SSS",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": -3,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+          "line": 66
+        },
+        "verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding"
+      },
+      {
+        "entity": "Yukazuri Moto",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 2100000000000000.0,
+        "joules_high": 2100000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 4,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 4,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+          "line": 57
+        },
+        "verbatim": "**Strike Force** · 0.09 GN precision blade / **2.1 PJ Somnalis-loaded nerve-point hit**"
+      },
+      {
+        "entity": "Yukazuri Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 4000000000000000.0,
+        "joules_high": 4000000000000000.0,
+        "grade_attested_low": "SSS",
+        "grade_attested_high": "SSS",
+        "stage": 4,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 4,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+          "line": 58
+        },
+        "verbatim": "**Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline"
+      },
+      {
+        "entity": "Yukazuri Moto",
+        "measure": "durability",
+        "label": "Durability",
+        "joules_low": 180000000000.0,
+        "joules_high": 180000000000.0,
+        "grade_attested_low": "A",
+        "grade_attested_high": "A",
+        "stage": 4,
+        "grade_from_stage_proxy": "B",
+        "card_stated_grade": null,
+        "peak_primary_grade": null,
+        "grades_apart": 1,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+          "line": 58
+        },
+        "verbatim": "**Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline"
+      },
+      {
+        "entity": "Zarron Mahuo · The Arbiter of Unity",
+        "measure": "strike",
+        "label": "Strike Force",
+        "joules_low": 100000000000000.0,
+        "joules_high": 100000000000000.0,
+        "grade_attested_low": "SS",
+        "grade_attested_high": "SS",
+        "stage": 10,
+        "grade_from_stage_proxy": "SS",
+        "card_stated_grade": "SS",
+        "peak_primary_grade": "S",
+        "grades_apart": 0,
+        "source": {
+          "file": "wiki/Volume I — Character Cards/Zarron Mahuo · The Arbiter of Unity.md",
+          "line": 99
+        },
+        "verbatim": "**Strike Force** · Ardency 479, mid SS-Grade. On the order of **40 TN peak contact force, near 100 TJ yield, roughly 25 kilotons equivalent** — though Hikariken's geometry concentrates this into a contact area small enough that the local pressure substantially exceeds the tier, which is the Focused-Yield Principle and the entire argument for a blade."
+      }
+    ]
+  },
+  "reserve_vs_strike": {
+    "summary": {
+      "note": "a strike is not a reserve, so this is a ceiling, not the conversion: no single strike can deliver more than the pool it draws on. Read that way each character sets an upper bound on joules per EU, and the bounds do not agree with each other.",
+      "n": 12,
+      "min": 217.3913043478261,
+      "max": 32978723404255.32,
+      "median": 25945945945.945946,
+      "decades_spanned": 11.180991671916148
+    },
+    "rows": [
+      {
+        "entity": "Dougou Ozumu Zettari",
+        "reserve_eu": 92000.0,
+        "strike_joules": 20000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 217.3913043478261,
+        "eta": null,
+        "j_per_eu_through_eta": null,
+        "strikes_the_reserve_holds_at_1MJ": 4600.0,
+        "reserve_source": {
+          "file": "wiki/Spellcraft/The Iron Tree.md",
+          "line": 20
+        },
+        "reserve_verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+          "line": 58
+        },
+        "strike_verbatim": "**Strike Force** · 80,000 N casual / **up to 12,000,000 N, 8–20 MJ, at apex contact**"
+      },
+      {
+        "entity": "Artemis Amagiri Moto",
+        "reserve_eu": 41800.0,
+        "strike_joules": 8.8e+16,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 2105263157894.7368,
+        "eta": 0.84,
+        "j_per_eu_through_eta": 2506265664160.401,
+        "strikes_the_reserve_holds_at_1MJ": 4.75e-07,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+          "line": 56
+        },
+        "reserve_verbatim": "| **Essence Capacity** | 41,800 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+          "line": 62
+        },
+        "strike_verbatim": "**Strike Force** · 6.9 GN / 88 PJ · **Durability** · 43 PJ shielding / **1,900 GJ hardness**"
+      },
+      {
+        "entity": "Ayame Yuno",
+        "reserve_eu": 37000.0,
+        "strike_joules": 400000000000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 10810810810.81081,
+        "eta": 0.86,
+        "j_per_eu_through_eta": 12570710245.128849,
+        "strikes_the_reserve_holds_at_1MJ": 9.25e-05,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+          "line": 58
+        },
+        "reserve_verbatim": "| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+          "line": 64
+        },
+        "strike_verbatim": "**Strike Force** · 0.15 GN / 0.4 PJ — *direct physical strikes are negligible;* **her impact manifests in structural changes to morale, oaths and ritual law rather than kinetic damage**"
+      },
+      {
+        "entity": "Borin Ironheart · The Master of the Soul Forge",
+        "reserve_eu": 180000000.0,
+        "strike_joules": 200000000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 1111.111111111111,
+        "eta": 0.91,
+        "j_per_eu_through_eta": 1221.001221001221,
+        "strikes_the_reserve_holds_at_1MJ": 900.0,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+          "line": 102
+        },
+        "reserve_verbatim": "**Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor.",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+          "line": 94
+        },
+        "strike_verbatim": "**Strike Force (Sustained):** SS-Grade equivalent (est. 55–200 GJ range) — Borin’s combat-relevant output is incidental to his craft. A hammer-stroke designed to reshape S-Grade alloy at the molecular level delivers force sufficient to reshape most opponents at the anatomical level. He does not train for combat. He does not need to. The forge has its own opinions about uninvited guests."
+      },
+      {
+        "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+        "reserve_eu": 5500000.0,
+        "strike_joules": 4e+18,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 727272727272.7273,
+        "eta": 0.9,
+        "j_per_eu_through_eta": 808080808080.8081,
+        "strikes_the_reserve_holds_at_1MJ": 1.375e-06,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+          "line": 141
+        },
+        "reserve_verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+          "line": 105
+        },
+        "strike_verbatim": "**Strike Force** · Ardency 638, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist."
+      },
+      {
+        "entity": "Iracordas",
+        "reserve_eu": 16800.0,
+        "strike_joules": 1.6e+16,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 952380952380.9524,
+        "eta": 0.93,
+        "j_per_eu_through_eta": 1024065540194.5725,
+        "strikes_the_reserve_holds_at_1MJ": 1.05e-06,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Iracordas.md",
+          "line": 48
+        },
+        "reserve_verbatim": "| **Essence Capacity** | **16,800 EU** |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Iracordas.md",
+          "line": 55
+        },
+        "strike_verbatim": "**Strike Force** 58 GN / **16 PJ** · **Durability** 72 PJ shielding / 31 GJ hardness"
+      },
+      {
+        "entity": "Krothar Veylshroud — The Chain Without a Master",
+        "reserve_eu": 1600000.0,
+        "strike_joules": 2.2e+16,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 13750000000.0,
+        "eta": 0.81,
+        "j_per_eu_through_eta": 16975308641.97531,
+        "strikes_the_reserve_holds_at_1MJ": 7.272727272727273e-05,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+          "line": 99
+        },
+        "reserve_verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+          "line": 85
+        },
+        "strike_verbatim": "**Strike Energy:** ~22 PJ standard technique contact"
+      },
+      {
+        "entity": "Muken Moto",
+        "reserve_eu": 1850000.0,
+        "strike_joules": 400000000000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 216216216.2162162,
+        "eta": 0.84,
+        "j_per_eu_through_eta": 257400257.4002574,
+        "strikes_the_reserve_holds_at_1MJ": 0.004625,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+          "line": 60
+        },
+        "reserve_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+          "line": 56
+        },
+        "strike_verbatim": "**Strike Force** · 1.6 GN baseline / 9.5 GN reinforced / **0.12–0.40 PJ execution**"
+      },
+      {
+        "entity": "Naevra Yukari",
+        "reserve_eu": 185000.0,
+        "strike_joules": 4800000000000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 25945945945.945946,
+        "eta": 0.96,
+        "j_per_eu_through_eta": 27027027027.027027,
+        "strikes_the_reserve_holds_at_1MJ": 3.8541666666666664e-05,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+          "line": 48
+        },
+        "reserve_verbatim": "| **Essence Capacity** | 185,000 EU | Vast reserve for a mortal-line being, **allowing prolonged causal and psionic engagement without immediate collapse** |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+          "line": 54
+        },
+        "strike_verbatim": "**Strike Force** · 4.8 PJ equivalent **through focused thread-collapse events**"
+      },
+      {
+        "entity": "Vethraun Ashmaw",
+        "reserve_eu": 9400.0,
+        "strike_joules": 3.1e+17,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 32978723404255.32,
+        "eta": 0.91,
+        "j_per_eu_through_eta": 36240355389291.56,
+        "strikes_the_reserve_holds_at_1MJ": 3.032258064516129e-08,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 64
+        },
+        "reserve_verbatim": "| **Essence Capacity** | 9,400 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+          "line": 70
+        },
+        "strike_verbatim": "**Strike Force** · 14.2 GN / **310 PJ** Chthonic-Pyraeon burst"
+      },
+      {
+        "entity": "Yorime Seikai",
+        "reserve_eu": 74000.0,
+        "strike_joules": 25000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 337.8378378378378,
+        "eta": 0.94,
+        "j_per_eu_through_eta": 359.401955146636,
+        "strikes_the_reserve_holds_at_1MJ": 2960.0,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+          "line": 59
+        },
+        "reserve_verbatim": "| **Essence Capacity** | **74,000 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger*** |",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+          "line": 66
+        },
+        "strike_verbatim": "**Strike Force** 0.003–0.02 GN / 3–25 MJ · **Durability** 80–220 MJ / up to 0.002 PJ anti-Aether shielding"
+      },
+      {
+        "entity": "Yukazuri Moto",
+        "reserve_eu": 3100.0,
+        "strike_joules": 2100000000000000.0,
+        "j_per_eu_if_one_strike_spent_the_whole_reserve": 677419354838.7097,
+        "eta": 0.89,
+        "j_per_eu_through_eta": 761145342515.4042,
+        "strikes_the_reserve_holds_at_1MJ": 1.4761904761904762e-06,
+        "reserve_source": {
+          "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+          "line": 61
+        },
+        "reserve_verbatim": "**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89",
+        "strike_source": {
+          "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+          "line": 57
+        },
+        "strike_verbatim": "**Strike Force** · 0.09 GN precision blade / **2.1 PJ Somnalis-loaded nerve-point hit**"
+      }
+    ]
   },
   "at_1_MJ": {
     "costs_only": {
-      "in_band_delivered": 15,
-      "in_band_potential": 19,
-      "of": 130,
-      "sum_sq_decades_delivered": 2747.416583128844,
-      "median_decades_delivered": -1.0775236315089423
+      "in_band_delivered": 14,
+      "in_band_potential": 18,
+      "of": 124,
+      "sum_sq_decades_delivered": 2325.3737076149246,
+      "median_decades_delivered": -0.9605538245719175
     },
     "reserves_only": {
-      "in_band_delivered": 13,
-      "in_band_potential": 15,
-      "of": 35,
-      "sum_sq_decades_delivered": 591.5913081025183,
+      "in_band_delivered": 11,
+      "in_band_potential": 13,
+      "of": 31,
+      "sum_sq_decades_delivered": 364.98918883530143,
       "median_decades_delivered": -0.20295898850515234
     },
     "all": {
-      "in_band_delivered": 28,
-      "in_band_potential": 34,
-      "of": 165,
-      "sum_sq_decades_delivered": 3339.0078912313625,
-      "median_decades_delivered": -0.8514093551468496
+      "in_band_delivered": 25,
+      "in_band_potential": 31,
+      "of": 155,
+      "sum_sq_decades_delivered": 2690.362896450226,
+      "median_decades_delivered": -0.8380453935888681
     }
   },
   "best_fit": {
     "costs_only": {
       "k_j_per_eu": 50118723.36272725,
       "log10_k": 7.7,
-      "in_band": 54,
-      "of": 130,
-      "sum_sq_decades": 1774.7802639323297
+      "in_band": 53,
+      "of": 124,
+      "sum_sq_decades": 1470.413038191055
     },
     "reserves_only": {
       "k_j_per_eu": 3715352.290971728,
       "log10_k": 6.57,
-      "in_band": 19,
-      "of": 35,
-      "sum_sq_decades": 519.2821335656089
+      "in_band": 17,
+      "of": 31,
+      "sum_sq_decades": 316.2991773019152
     },
     "all": {
       "k_j_per_eu": 6165950.018614822,
       "log10_k": 6.79,
-      "in_band": 68,
-      "of": 165,
-      "sum_sq_decades": 2729.391557967073
+      "in_band": 65,
+      "of": 155,
+      "sum_sq_decades": 2171.342310102697
     }
   },
   "by_grade_reading": {
     "stage_max": {
-      "tested": 165,
-      "in_band_at_1MJ": 28,
+      "tested": 155,
+      "in_band_at_1MJ": 25,
       "best_fit": {
         "k_j_per_eu": 6165950.018614822,
         "log10_k": 6.79,
-        "in_band": 68,
-        "of": 165,
-        "sum_sq_decades": 2729.391557967073
+        "in_band": 65,
+        "of": 155,
+        "sum_sq_decades": 2171.342310102697
       },
       "required_k_spread": {
-        "n": 165,
+        "n": 155,
         "k_min": 2932.3957735249332,
         "k_max": 1.150289147999828e+24,
-        "k_median": 87067782.15761735,
+        "k_median": 68453847.4424823,
         "decades_spanned": 20.593584437727525
       }
     },
     "card_stated": {
-      "tested": 23,
-      "in_band_at_1MJ": 9,
+      "tested": 21,
+      "in_band_at_1MJ": 7,
       "best_fit": {
         "k_j_per_eu": 3715352.290971728,
         "log10_k": 6.57,
-        "in_band": 14,
-        "of": 23,
+        "in_band": 12,
+        "of": 21,
         "sum_sq_decades": 20.220380568640795
       },
       "required_k_spread": {
-        "n": 23,
+        "n": 21,
         "k_min": 33.34396089085933,
         "k_max": 8077515097.768314,
         "k_median": 5167387.868478663,
@@ -89,17 +1835,17 @@
       }
     },
     "peak_primary": {
-      "tested": 55,
+      "tested": 53,
       "in_band_at_1MJ": 24,
       "best_fit": {
-        "k_j_per_eu": 562341.3251903491,
-        "log10_k": 5.75,
-        "in_band": 27,
-        "of": 55,
-        "sum_sq_decades": 563.1559019547014
+        "k_j_per_eu": 1412537.5446227554,
+        "log10_k": 6.15,
+        "in_band": 26,
+        "of": 53,
+        "sum_sq_decades": 519.5568616762253
       },
       "required_k_spread": {
-        "n": 55,
+        "n": 53,
         "k_min": 2359.992878035203,
         "k_max": 4.5193517440496865e+21,
         "k_median": 658915.3904485751,
@@ -109,23 +1855,18 @@
   },
   "by_stage": {
     "12": {
-      "n": 28,
-      "mean_decades_at_1MJ": -2.7494709976941505,
+      "n": 27,
+      "mean_decades_at_1MJ": -2.851303256868008,
       "median_required_k": 32310060391073.258
     },
     "13": {
-      "n": 18,
-      "mean_decades_at_1MJ": -11.626409327666726,
-      "median_required_k": 3.4174842895739566e+21
-    },
-    "10": {
-      "n": 21,
-      "mean_decades_at_1MJ": -2.5135345825338327,
-      "median_required_k": 2100153925.4197617
+      "n": 13,
+      "mean_decades_at_1MJ": -11.750184834221917,
+      "median_required_k": 3.71090465787071e+21
     },
     "7": {
-      "n": 34,
-      "mean_decades_at_1MJ": -0.35627535454874476,
+      "n": 33,
+      "mean_decades_at_1MJ": -0.36707157741385826,
       "median_required_k": 19946437.36701779
     },
     "8": {
@@ -137,6 +1878,11 @@
       "n": 1,
       "mean_decades_at_1MJ": -13.687904578185858,
       "median_required_k": 1.150289147999828e+24
+    },
+    "10": {
+      "n": 18,
+      "mean_decades_at_1MJ": -2.7335061644035337,
+      "median_required_k": 3579807827.420048
     },
     "5": {
       "n": 5,
@@ -165,10 +1911,10 @@
     }
   },
   "required_k_spread_all": {
-    "n": 165,
+    "n": 155,
     "k_min": 2932.3957735249332,
     "k_max": 1.150289147999828e+24,
-    "k_median": 87067782.15761735,
+    "k_median": 68453847.4424823,
     "decades_spanned": 20.593584437727525
   },
   "formula_check": [
@@ -811,7 +2557,7 @@
     },
     {
       "family": "reserve",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_reserve",
       "eu": 92000.0,
       "source": {
@@ -837,59 +2583,7 @@
     },
     {
       "family": "reserve",
-      "entity": "The Iron Tree",
-      "kind": "eu_reserve",
-      "eu": 92000.0,
-      "source": {
-        "file": "wiki/Spellcraft/The Iron Tree.md",
-        "line": 43
-      },
-      "verbatim": "**Consequence** · Each release draws down Dougou's 92,000 EU reserve and the vented chamber cannot be re-loaded until the seal recompresses on its own schedule.",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 1.075,
-      "eta_from": "Part Nineteen, Tier 8 midpoint",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 92000000000.0,
-      "delivered_j_at_1MJ": 98900000000.0,
-      "k_required_j_per_eu": 2.3030872386259272e+20,
-      "skipped": null,
-      "decades_potential": -10.657803848513662,
-      "decades_delivered": -10.626395384262038
-    },
-    {
-      "family": "reserve",
-      "entity": "Obrenkael · The Mule",
-      "kind": "eu_reserve",
-      "eu": 90000000.0,
-      "source": {
-        "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
-        "line": 215
-      },
-      "verbatim": "**EU figures ruled.** Call cost is given as 9% of reserve, and the absolute number now stands behind it. Ruled 2026-09-12: Kwon Hae-ryu's EU Reserve is 90,000,000 EU, at Level 355, Stage X Realization, Band IV, and the Call Cost at 9% is approximately 8,100,000 EU. The figure is a log-linear interpolation on Level between the project's fixed anchors, Ara Min at Level 250, roughly 4,200,000, and Borin Ironheart at Level 378, 180,000,000 estimated, and the Borin-to-Mu-jin slope, 850,000,000 at Level 430, confirms it. `Fracture_of_Worlds.pdf` establishes that EU scales with Temperance Stage and is governed by Tempering Yield and gives no Band-by-Band reserve table, so the interpolation is the method and not a source. Borin's figure keeps its estimate marking and Raga's entry, which says only that a Stage X summoner spends most of what he has, stays a loose neighbour; neither is contradicted by this reserve.",
-      "stage": 10,
-      "grade": "SS",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.75,
-      "eta_from": "Part Nineteen, Tier 6 midpoint",
-      "band_j_low": 41840000000000.0,
-      "band_j_high": 418400000000000.0,
-      "potential_j_at_1MJ": 90000000000000.0,
-      "delivered_j_at_1MJ": 67500000000000.0,
-      "k_required_j_per_eu": 1960143.663725111,
-      "skipped": null,
-      "decades_potential": 0.0,
-      "decades_delivered": 0.0
-    },
-    {
-      "family": "reserve",
-      "entity": "The Open Crucible — Kwon Mu-jin's Book of Summons",
+      "entity": "Kwon Mu-jin",
       "kind": "eu_reserve",
       "eu": 850000000.0,
       "source": {
@@ -1071,32 +2765,6 @@
     },
     {
       "family": "reserve",
-      "entity": "Dougou Ozumu Zettari",
-      "kind": "eu_reserve",
-      "eu": 92000.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
-        "line": 62
-      },
-      "verbatim": "**Essence Capacity** · 92,000 EU · **Flux Density** 18,400 EU/g · **Aura** SS-Tier Sovereign Tectonic Gravity",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.99,
-      "eta_from": "page, line 38",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 92000000000.0,
-      "delivered_j_at_1MJ": 91080000000.0,
-      "k_required_j_per_eu": 2.500827052043305e+20,
-      "skipped": null,
-      "decades_potential": -10.657803848513662,
-      "decades_delivered": -10.662168653916112
-    },
-    {
-      "family": "reserve",
       "entity": "Gimbzo",
       "kind": "eu_reserve",
       "eu": 480000000000000.0,
@@ -1224,32 +2892,6 @@
       "skipped": null,
       "decades_potential": -0.4174716932032931,
       "decades_delivered": -0.5089866743246433
-    },
-    {
-      "family": "reserve",
-      "entity": "Kwon Mu-jin",
-      "kind": "eu_reserve",
-      "eu": 850000000.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
-        "line": 73
-      },
-      "verbatim": "**EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87",
-      "stage": 12,
-      "grade": "SSS",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": "SS",
-      "card_stated_grade": "SSS",
-      "eta": 0.87,
-      "eta_from": "page, line 73",
-      "band_j_low": 418400000000000.0,
-      "band_j_high": 4.184e+21,
-      "potential_j_at_1MJ": 850000000000000.0,
-      "delivered_j_at_1MJ": 739500000000000.0,
-      "k_required_j_per_eu": 1789177786.361663,
-      "skipped": null,
-      "decades_potential": 0.0,
-      "decades_delivered": 0.0
     },
     {
       "family": "reserve",
@@ -1723,7 +3365,7 @@
     },
     {
       "family": "cost",
-      "entity": "Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light",
+      "entity": "Chimwala N'Doro",
       "kind": "eu_cost",
       "eu": 60.0,
       "source": {
@@ -1753,7 +3395,7 @@
     },
     {
       "family": "cost",
-      "entity": "Upanga wa Msimu Nne · Blade of the Four Seasons",
+      "entity": "Chimwala N'Doro",
       "kind": "eu_cost",
       "eu": 2400.0,
       "source": {
@@ -2065,7 +3707,7 @@
     },
     {
       "family": "cost",
-      "entity": "Mugen no Hatsurugi",
+      "entity": "Muken Moto",
       "kind": "eu_cost",
       "eu": 90000.0,
       "source": {
@@ -2091,7 +3733,7 @@
     },
     {
       "family": "cost",
-      "entity": "Oathrend",
+      "entity": "Zeven Halek",
       "kind": "eu_cost",
       "eu": 130000.0,
       "source": {
@@ -2143,7 +3785,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 7400.0,
       "source": {
@@ -2169,33 +3811,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
-      "kind": "eu_cost",
-      "eu": 7400.0,
-      "source": {
-        "file": "wiki/Spellcraft/The Iron Tree.md",
-        "line": 46
-      },
-      "verbatim": "**Cost** · 2,800 to 8,900 EU per branch; 7,400 EU for Kokushin Gyūha.",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 1.075,
-      "eta_from": "Part Nineteen, Tier 8 midpoint",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 7400000000.0,
-      "delivered_j_at_1MJ": 7955000000.0,
-      "k_required_j_per_eu": 2.863297648021423e+21,
-      "skipped": null,
-      "decades_potential": -11.752359956128242,
-      "decades_delivered": -11.720951491876617
-    },
-    {
-      "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 4800.0,
       "source": {
@@ -2221,7 +3837,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 6200.0,
       "source": {
@@ -2247,7 +3863,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 3600.0,
       "source": {
@@ -2273,7 +3889,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 4200.0,
       "source": {
@@ -2299,7 +3915,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 5400.0,
       "source": {
@@ -2325,33 +3941,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Iron Tree",
-      "kind": "eu_cost",
-      "eu": 2800.0,
-      "source": {
-        "file": "wiki/Spellcraft/The Iron Tree.md",
-        "line": 58
-      },
-      "verbatim": "| **Tetsu no Atama** · Iron Head | Brutal, close-range, used only when he considers the opponent beneath formal technique | 2,800 EU |",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 1.075,
-      "eta_from": "Part Nineteen, Tier 8 midpoint",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 2800000000.0,
-      "delivered_j_at_1MJ": 3010000000.0,
-      "k_required_j_per_eu": 7.567286641199475e+21,
-      "skipped": null,
-      "decades_potential": -12.174433644516998,
-      "decades_delivered": -12.143025180265374
-    },
-    {
-      "family": "cost",
-      "entity": "The Iron Tree",
+      "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
       "eu": 6200.0,
       "source": {
@@ -2374,32 +3964,6 @@
       "skipped": null,
       "decades_potential": -11.829199986360964,
       "decades_delivered": -11.797791522109339
-    },
-    {
-      "family": "cost",
-      "entity": "The Iron Tree",
-      "kind": "eu_cost",
-      "eu": 7400.0,
-      "source": {
-        "file": "wiki/Spellcraft/The Iron Tree.md",
-        "line": 60
-      },
-      "verbatim": "| **Kokushin Gyūha** · Black-Heart Bison Break | Apex fruit of the whole system: one sealed chamber released through a single contact point, entering the target instead of spreading outward | 7,400 EU |",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 1.075,
-      "eta_from": "Part Nineteen, Tier 8 midpoint",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 7400000000.0,
-      "delivered_j_at_1MJ": 7955000000.0,
-      "k_required_j_per_eu": 2.863297648021423e+21,
-      "skipped": null,
-      "decades_potential": -11.752359956128242,
-      "decades_delivered": -11.720951491876617
     },
     {
       "family": "cost",
@@ -2478,32 +4042,6 @@
       "skipped": null,
       "decades_potential": 0.0,
       "decades_delivered": 0.0
-    },
-    {
-      "family": "cost",
-      "entity": "Obrenkael · The Mule",
-      "kind": "eu_cost",
-      "eu": 8100000.0,
-      "source": {
-        "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
-        "line": 215
-      },
-      "verbatim": "**EU figures ruled.** Call cost is given as 9% of reserve, and the absolute number now stands behind it. Ruled 2026-09-12: Kwon Hae-ryu's EU Reserve is 90,000,000 EU, at Level 355, Stage X Realization, Band IV, and the Call Cost at 9% is approximately 8,100,000 EU. The figure is a log-linear interpolation on Level between the project's fixed anchors, Ara Min at Level 250, roughly 4,200,000, and Borin Ironheart at Level 378, 180,000,000 estimated, and the Borin-to-Mu-jin slope, 850,000,000 at Level 430, confirms it. `Fracture_of_Worlds.pdf` establishes that EU scales with Temperance Stage and is governed by Tempering Yield and gives no Band-by-Band reserve table, so the interpolation is the method and not a source. Borin's figure keeps its estimate marking and Raga's entry, which says only that a Stage X summoner spends most of what he has, stays a loose neighbour; neither is contradicted by this reserve.",
-      "stage": 10,
-      "grade": "SS",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.75,
-      "eta_from": "Part Nineteen, Tier 6 midpoint",
-      "band_j_low": 41840000000000.0,
-      "band_j_high": 418400000000000.0,
-      "potential_j_at_1MJ": 8100000000000.0,
-      "delivered_j_at_1MJ": 6075000000000.0,
-      "k_required_j_per_eu": 21779374.04139012,
-      "skipped": null,
-      "decades_potential": -0.7131066569805681,
-      "decades_delivered": -0.8380453935888681
     },
     {
       "family": "cost",
@@ -2797,7 +4335,7 @@
     },
     {
       "family": "cost",
-      "entity": "The Open Crucible — Kwon Mu-jin's Book of Summons",
+      "entity": "Kwon Mu-jin",
       "kind": "eu_cost",
       "eu": 127500000.0,
       "source": {
@@ -3267,58 +4805,6 @@
       "family": "cost",
       "entity": "Dougou Ozumu Zettari",
       "kind": "eu_cost",
-      "eu": 8900.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
-        "line": 95
-      },
-      "verbatim": "| **Tetsu no Arashi** *Iron Bison's Charge* | 8,900 EU | 250–600 mph forward vector | Lateral redirection, terrain denial |",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.99,
-      "eta_from": "page, line 38",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 8900000000.0,
-      "delivered_j_at_1MJ": 8811000000.0,
-      "k_required_j_per_eu": 2.585124593123416e+21,
-      "skipped": null,
-      "decades_potential": -11.672201669214305,
-      "decades_delivered": -11.676566474616756
-    },
-    {
-      "family": "cost",
-      "entity": "Dougou Ozumu Zettari",
-      "kind": "eu_cost",
-      "eu": 7400.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
-        "line": 96
-      },
-      "verbatim": "| **Kokushin Gyūha** *Black-Heart Bison Break* | 7,400 EU | **Compressed force sent inward through armour, stone or Domain structure.** 5–12 MN | Spatial bypass, Spirit Path severance |",
-      "stage": 13,
-      "grade": "X",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.99,
-      "eta_from": "page, line 38",
-      "band_j_low": 4.184e+21,
-      "band_j_high": 1.2399999999999999e+29,
-      "potential_j_at_1MJ": 7400000000.0,
-      "delivered_j_at_1MJ": 7326000000.0,
-      "k_required_j_per_eu": 3.1091363349727575e+21,
-      "skipped": null,
-      "decades_potential": -11.752359956128242,
-      "decades_delivered": -11.756724761530691
-    },
-    {
-      "family": "cost",
-      "entity": "Dougou Ozumu Zettari",
-      "kind": "eu_cost",
       "eu": 14000.0,
       "source": {
         "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
@@ -3522,32 +5008,6 @@
       "skipped": null,
       "decades_potential": -0.06092436968948049,
       "decades_delivered": -0.3205616801952366
-    },
-    {
-      "family": "cost",
-      "entity": "Helki · The Shepherd of Unwilling Paths",
-      "kind": "eu_cost",
-      "eu": 890000.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Helki · The Shepherd of Unwilling Paths.md",
-        "line": 97
-      },
-      "verbatim": "**Cost** · 310,000 EU, plus a permanent tithe of 40,000 EU stripped from her own maximum Essence Capacity; gone forever, not recoverable by any Craft. She has used it fourteen times; her ceiling has fallen from 1,200,000 to 890,000 EU.",
-      "stage": 7,
-      "grade": "A",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": "S",
-      "card_stated_grade": "A",
-      "eta": 0.55,
-      "eta_from": "Part Nineteen, Tier 5 midpoint",
-      "band_j_low": 46024000000.0,
-      "band_j_high": 4184000000000.0,
-      "potential_j_at_1MJ": 890000000000.0,
-      "delivered_j_at_1MJ": 489500000000.00006,
-      "k_required_j_per_eu": 896469.095146867,
-      "skipped": null,
-      "decades_potential": 0.0,
-      "decades_delivered": 0.0
     },
     {
       "family": "cost",
@@ -3912,32 +5372,6 @@
       "skipped": null,
       "decades_potential": -0.18586310629778044,
       "decades_delivered": -0.2720492539140637
-    },
-    {
-      "family": "cost",
-      "entity": "Muken Moto",
-      "kind": "eu_cost",
-      "eu": 90000.0,
-      "source": {
-        "file": "wiki/Volume I — Character Cards/Muken Moto.md",
-        "line": 94
-      },
-      "verbatim": "  **Cost** · 42,000 EU per mark / 90,000 EU execution.",
-      "stage": 10,
-      "grade": "SS",
-      "grade_reading": "stage_max",
-      "peak_primary_grade": null,
-      "card_stated_grade": null,
-      "eta": 0.84,
-      "eta_from": "page, line 60",
-      "band_j_low": 41840000000000.0,
-      "band_j_high": 418400000000000.0,
-      "potential_j_at_1MJ": 90000000000.0,
-      "delivered_j_at_1MJ": 75600000000.0,
-      "k_required_j_per_eu": 1750128271.1831348,
-      "skipped": null,
-      "decades_potential": -2.667349166419893,
-      "decades_delivered": -2.743069880358011
     },
     {
       "family": "cost",
@@ -5134,6 +6568,58 @@
       "skipped": null,
       "decades_potential": -0.4284670775047562,
       "decades_delivered": -0.4790770708598434
+    },
+    {
+      "family": "cost",
+      "entity": "Dougou Ozumu Zettari",
+      "kind": "eu_cost",
+      "eu": 2800,
+      "source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 20
+      },
+      "verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+      "stage": 13,
+      "grade": "X",
+      "grade_reading": "stage_max",
+      "peak_primary_grade": null,
+      "card_stated_grade": null,
+      "eta": 1.075,
+      "eta_from": "Part Nineteen, Tier 8 midpoint",
+      "band_j_low": 4.184e+21,
+      "band_j_high": 1.2399999999999999e+29,
+      "potential_j_at_1MJ": 2800000000.0,
+      "delivered_j_at_1MJ": 3010000000.0,
+      "k_required_j_per_eu": 7.567286641199475e+21,
+      "skipped": null,
+      "decades_potential": -12.174433644516998,
+      "decades_delivered": -12.143025180265374
+    },
+    {
+      "family": "cost",
+      "entity": "Dougou Ozumu Zettari",
+      "kind": "eu_cost",
+      "eu": 8900,
+      "source": {
+        "file": "wiki/Spellcraft/The Iron Tree.md",
+        "line": 20
+      },
+      "verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+      "stage": 13,
+      "grade": "X",
+      "grade_reading": "stage_max",
+      "peak_primary_grade": null,
+      "card_stated_grade": null,
+      "eta": 1.075,
+      "eta_from": "Part Nineteen, Tier 8 midpoint",
+      "band_j_low": 4.184e+21,
+      "band_j_high": 1.2399999999999999e+29,
+      "potential_j_at_1MJ": 8900000000.0,
+      "delivered_j_at_1MJ": 9567500000.0,
+      "k_required_j_per_eu": 2.3807193927369134e+21,
+      "skipped": null,
+      "decades_potential": -11.672201669214305,
+      "decades_delivered": -11.64079320496268
     }
   ]
 }

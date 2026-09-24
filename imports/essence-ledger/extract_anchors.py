@@ -39,6 +39,12 @@ SCALES = {
     "trillion": 1_000_000_000_000,
 }
 
+# joules — the measured side of the conversion. Part Eleven states that Strike
+# Force and Durability are recorded in joules, so a card's joule figure is the
+# quantity Part Four grades, attested rather than inferred.
+JMULT = {"": 1, "k": 1e3, "M": 1e6, "G": 1e9, "T": 1e12,
+         "P": 1e15, "E": 1e18, "Z": 1e21}
+
 
 def to_number(text: str):
     """Parse one numeric token. Returns float or None — never a guess."""
@@ -54,6 +60,57 @@ def to_number(text: str):
     if m:
         return float(t.replace(",", ""))
     return None
+
+
+def j_mantissa(text: str):
+    """One joule mantissa, plain or scientific. Returns float or None."""
+    t = text.strip().lstrip("~≈").strip()
+    m = re.fullmatch(rf"({J_NUM})\s*(?:×|x)\s*10(?:([{SUPS}]+)|\^(-?[0-9]+))", t)
+    if m:
+        exp = m.group(2).translate(SUPER) if m.group(2) else m.group(3)
+        return float(m.group(1).replace(",", "")) * 10 ** int(exp)
+    if re.fullmatch(J_NUM, t):
+        return float(t.replace(",", ""))
+    return None
+
+
+def joule_value(token: str):
+    """(value, low, high) in joules for one swept joule token."""
+    m = JOULE_RANGE.fullmatch(token.strip())
+    if m:
+        mult = JMULT[m.group("u")]
+        lo, hi = j_mantissa(m.group("lo")), j_mantissa(m.group("hi"))
+        return None, (lo * mult if lo is not None else None), (hi * mult if hi is not None else None)
+    m = JOULE_ONE.fullmatch(token.strip())
+    if m:
+        v = j_mantissa(m.group("n"))
+        return (v * JMULT[m.group("u")] if v is not None else None), None, None
+    return None, None, None
+
+
+# The label a figure sits under, as the page writes it. In a table row it is
+# the row's first cell; elsewhere it is the nearest bolded field name before
+# the figure — which is what tells `43 PJ shielding` on a Durability run from
+# the `88 PJ` earlier in the same Strike Force line. A bold span the figure
+# sits inside is not its label. Taken as written and never translated.
+LABEL_CELL = re.compile(r"^\|\s*(?P<v>[^|]{1,60})\|")
+LABEL_BOLD = re.compile(r"\*\*(?P<v>[^*]{1,60})\*\*")
+
+
+def label_of(raw: str, token: str | None = None):
+    m = LABEL_CELL.match(raw)
+    if m:
+        return re.sub(r"[*_`]", "", m.group("v")).strip().strip("·:").strip() or None
+    at = raw.find(token) if token else -1
+    if at < 0:
+        at = len(raw)
+    best = None
+    for m in LABEL_BOLD.finditer(raw):
+        if m.end() <= at:
+            best = m
+    if not best:
+        return None
+    return re.sub(r"[*_`]", "", best.group("v")).strip().strip("·:").strip() or None
 
 
 def clean(line: str) -> str:
@@ -88,6 +145,15 @@ RESERVE_TRAILING = re.compile(rf"(?P<n>{SCI}|~?{NUM}{SCALE})\s*EU\s+reserve", re
 
 # absolute EU costs: a number followed by bare EU (not EU/g, EU/s, EU/min, EU/hour)
 EU_COST = re.compile(rf"(?P<n>{SCI}|~?{NUM}{SCALE})\s*\*{{0,2}}\s*EU\b(?!/|\s*(?:per|reserve))", re.I)
+
+J_NUM = r"[0-9][0-9,]*(?:\.[0-9]+)?"
+J_SCI = rf"{J_NUM}\s*(?:×|x)\s*10(?:[{SUPS}]+|\^-?[0-9]+)"
+# "8 to 20 MJ", "1–5 MJ", "0.12–0.40 PJ" — one unit, shared by both ends.
+# A unit letter between the two ends ("46 GJ to 4.184 TJ") stops the match, and
+# the two figures are then taken singly by JOULE_ONE.
+JOULE_RANGE = re.compile(
+    rf"(?P<lo>{J_SCI}|~?{J_NUM})\s*(?:–|—|-|to)\s*(?P<hi>{J_SCI}|~?{J_NUM})\s*(?P<u>[kMGTPEZ]?)J\b")
+JOULE_ONE = re.compile(rf"(?P<n>{J_SCI}|~?{J_NUM})\s*(?P<u>[kMGTPEZ]?)J\b")
 
 ETA_RANGE = re.compile(r"η[^0-9\n]{0,18}?(?P<lo>[01]?\.[0-9]+)\s*(?:–|—|-|to)\s*(?P<hi>[01]?\.[0-9]+)")
 ETA_ONE = re.compile(r"η[^0-9\n]{0,18}?(?P<n>~?[01](?:\.[0-9]+)?)")
@@ -200,6 +266,18 @@ def scan_line(raw: str):
     for m in EU_COST.finditer(raw):
         take("eu_cost", m)
 
+    # joules. Ranges first, so "8 to 20 MJ" is one figure with two ends rather
+    # than two figures; spans keep JOULE_ONE off what the range already took.
+    jspans = []
+    for m in JOULE_RANGE.finditer(raw):
+        jspans.append((m.start(), m.end()))
+        found.append(("joule", m.group(0).strip()))
+    for m in JOULE_ONE.finditer(raw):
+        if any(not (m.end() <= a or m.start() >= b) for a, b in jspans):
+            continue
+        jspans.append((m.start(), m.end()))
+        found.append(("joule", m.group(0).strip()))
+
     m = ETA_RANGE.search(raw)
     if m:
         found.append(("eta", f"{m.group('lo')}–{m.group('hi')}"))
@@ -225,7 +303,9 @@ def main() -> int:
             if ctx is None:
                 ctx = page_context(lines)
             for kind, token in hits:
-                if kind == "eta" and "–" in token:
+                if kind == "joule":
+                    value, low, high = joule_value(token)
+                elif kind == "eta" and "–" in token:
                     lo, hi = token.split("–")
                     value, low, high = None, to_number(lo), to_number(hi)
                 else:
@@ -234,6 +314,7 @@ def main() -> int:
                     "page_title": title,
                     "kind": kind,
                     "token": token,
+                    "label": label_of(raw, token),
                     "value": value,
                     "low": low,
                     "high": high,

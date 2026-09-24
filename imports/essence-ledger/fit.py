@@ -4,9 +4,25 @@
 Isaac's conversion to test is **1 EU = 1 MJ of potential**, with energy
 delivered = EU × η, so 1 AU/s = 1 MW.
 
-The test asks whether a figure, converted to joules and read through η, lands in
-the joule band the page's own Grade claims in FoW Part Four. Nothing here edits a
-card. Two families of figure are tested separately, because Part Four measures
+The conversion has two sides and both are read here.
+
+**The measured side.** Part Eleven records Strike Force and Durability in
+joules, so a card's joule figure is the quantity Part Four grades, attested
+rather than inferred. Three tests use it, and they come first because where a
+page states the joules outright the page outranks any proxy:
+
+*   `direct_pairs`    — a working whose EU cost and joule output are both
+    stated. This is the conversion itself, measured, with nothing in between.
+*   `grade_proxy_check` — every attested joule figure read against the Grade
+    the proxy below would have assigned it. This is the proxy's own error bar.
+*   `reserve_vs_strike` — for a character with both a reserve and an attested
+    strike, the joules per EU that would hold if one strike spent the whole
+    reserve. An upper bound per character, and its spread across characters.
+
+**The proxy.** Where no joule figure is stated — which is most of the corpus —
+the test asks whether an EU figure, converted and read through η, lands in the
+joule band the page's own Grade claims in Part Four. Nothing here edits a card.
+Two families of figure are tested separately, because Part Four measures
 **attack output**, not stored volume:
 
 *   `cost`  — an absolute EU spend for one working. This is the family Isaac's
@@ -24,6 +40,12 @@ Four says the fight is decided by the peak.
 Residual is reported in **decades** — log10 of how far outside its band a figure
 falls, 0.0 meaning inside. The fitted constant is the k that puts the most
 figures in band, and among those the k with the smallest sum of squared decades.
+
+Each figure is counted once. A row that restates a figure already recorded for
+the same entity carries `duplicate_of` in `anchors.json` and is left out of
+every count here; `dedupe` in the report says how many rows that dropped and
+what the stricter reading (entity and value alone, ignoring which working is
+named) would have dropped instead.
 
     python imports/essence-ledger/fit.py
 """
@@ -187,12 +209,36 @@ def main() -> int:
             "verbatim": a["verbatim"],
         }
 
-    raw_reserves = [a for a in doc["anchors"] if a["kind"] == "eu_reserve"]
+    # Each figure once. `duplicate_of` marks a row restating a figure already
+    # recorded for the same entity; the stricter reading ignores which working
+    # a cost names, and both counts are reported.
+    def distinct(rows, strict=False):
+        field = "duplicate_of_value_only" if strict else "duplicate_of"
+        return [r for r in rows if not r.get(field)]
+
+    raw_reserves = distinct([a for a in doc["anchors"] if a["kind"] == "eu_reserve"])
+    raw_costs = distinct(doc["costs"])
+    dedupe = {
+        "note": ("one figure counted once. `duplicate_of` in anchors.json marks the rows "
+                 "left out; every attestation stays in that file."),
+        "reserves": {"rows": len([a for a in doc["anchors"] if a["kind"] == "eu_reserve"]),
+                     "distinct": len(raw_reserves),
+                     "distinct_strict": len(distinct([a for a in doc["anchors"]
+                                                      if a["kind"] == "eu_reserve"], True))},
+        "costs": {"rows": len(doc["costs"]), "distinct": len(raw_costs),
+                  "distinct_strict": len(distinct(doc["costs"], True))},
+        "kept_apart_because_they_name_different_workings": [
+            {"entity": r["entity"], "eu": r["value"], "names": r["label"],
+             "source": r["source"], "verbatim": r["verbatim"],
+             "same_value_recorded_at": r["duplicate_of_value_only"]}
+            for r in doc["costs"] if r.get("duplicate_of_value_only") and not r.get("duplicate_of")
+        ],
+    }
     readings = {}
     for reading in ("stage_max", "card_stated", "peak_primary"):
         readings[reading] = {
             "reserves": build(raw_reserves, "reserve", reading),
-            "costs": build(doc["costs"], "cost", reading),
+            "costs": build(raw_costs, "cost", reading),
         }
     reserves = readings["stage_max"]["reserves"]
     costs = readings["stage_max"]["costs"]
@@ -276,6 +322,232 @@ def main() -> int:
                            ("all", tested))
     }
 
+    # --- the measured side: canon's own joule figures -----------------------
+    # Part Eleven:30 states the quantity. A card's Strike Force row is what
+    # Part Four grades, so where a page gives joules the page is read directly
+    # and the Stage→Grade proxy is not consulted.
+    grade_order = [g["grade"] for g in system["grade_bands"]]
+
+    def grade_of(j):
+        """The Grade whose attack-output band holds a figure, as Part Four
+        writes it. `None` where a figure falls in the S/SS gap C-036 records."""
+        if j is None:
+            return None
+        for g in system["grade_bands"]:
+            lo, hi = g["attack_output_j_low"], g["attack_output_j_high"]
+            if (lo is None or j >= lo) and (hi is None or j <= hi):
+                return g["grade"]
+        return None
+
+    def measure_of(label):
+        low = (label or "").lower()
+        if low.startswith(("strike force", "strike energy")):
+            return "strike"
+        if low.startswith("durability"):
+            return "durability"
+        return "other"
+
+    measured = [j for j in doc["joules"]
+                if j["figure_class"] == "attested" and not j.get("duplicate_of")]
+
+    def jfig(j):
+        """(low, high) of a joule row; a single figure is both."""
+        if j["value"] is not None:
+            return j["value"], j["value"]
+        return j["value_low"], j["value_high"]
+
+    proxy_check = []
+    for j in measured:
+        f = j["source"]["file"]
+        lo, hi = jfig(j)
+        n = stage_number(pages.get(f, {}).get("temperance_stage"))
+        proxy = stage_grade.get(n) if n else None
+        attested_hi, attested_lo = grade_of(hi), grade_of(lo)
+        steps = None
+        if proxy in grade_order and attested_hi in grade_order:
+            steps = grade_order.index(attested_hi) - grade_order.index(proxy)
+        proxy_check.append({
+            "entity": j["entity"],
+            "measure": measure_of(j["label"]),
+            "label": j["label"],
+            "joules_low": lo, "joules_high": hi,
+            "grade_attested_low": attested_lo,
+            "grade_attested_high": attested_hi,
+            "stage": n,
+            "grade_from_stage_proxy": proxy,
+            "card_stated_grade": pages.get(f, {}).get("stated_grade"),
+            "peak_primary_grade": peak_grade.get(f),
+            "grades_apart": steps,
+            "source": j["source"],
+            "verbatim": j["verbatim"],
+        })
+    strikes = [p for p in proxy_check if p["measure"] == "strike" and p["grades_apart"] is not None]
+    proxy_summary = {
+        "note": ("every attested joule figure read against the Grade the Stage→Part Five→"
+                 "Part Four proxy would have assigned it. 0 means the proxy agrees; a "
+                 "positive number means the page states an output that many Grades above "
+                 "what the proxy assigns, negative that many below. This is the error the "
+                 "per-anchor residuals in `reserves` and `costs` inherit before any "
+                 "constant is tested."),
+        "strike_rows": len(strikes),
+        "agree": sum(1 for p in strikes if p["grades_apart"] == 0),
+        "mean_grades_apart": (sum(p["grades_apart"] for p in strikes) / len(strikes)
+                              if strikes else None),
+        "mean_abs_grades_apart": (sum(abs(p["grades_apart"]) for p in strikes) / len(strikes)
+                                  if strikes else None),
+        "distribution": {},
+    }
+    for p in strikes:
+        k = str(p["grades_apart"])
+        proxy_summary["distribution"][k] = proxy_summary["distribution"].get(k, 0) + 1
+
+    # --- direct pairs: one working, an EU cost and a joule output ------------
+    # Mechanical first: a cost and a joule figure written on the same line.
+    # Then the hand pairs, where the page states the two a few lines apart and
+    # names the working in both. Each hand pair carries both quotes; nothing is
+    # paired that the page does not put together itself.
+    HAND_PAIRS = [
+        {
+            "why": ("The Iron Tree's apex. The cost line names Kokushin Gyūha and its EU "
+                    "figure; the Numerical Effect line gives the output 'at apex'; the "
+                    "technique table calls Kokushin Gyūha the 'Apex fruit of the whole system'."),
+            "cost": ("wiki/Spellcraft/The Iron Tree.md", 20, 7400),
+            "joule": ("wiki/Spellcraft/The Iron Tree.md", 41, None),
+            "which_joule": "8 to 20 MJ",
+        },
+        {
+            "why": ("The Iron Tree's branches. Both figures are on the page as ranges for "
+                    "the same set of releases: 2,800 to 8,900 EU per branch, and branch "
+                    "outputs in the 1 to 10 MJ range."),
+            "cost": ("wiki/Spellcraft/The Iron Tree.md", 20, 2800),
+            "cost_high": ("wiki/Spellcraft/The Iron Tree.md", 20, 8900),
+            "joule": ("wiki/Spellcraft/The Iron Tree.md", 41, None),
+            "which_joule": "1 to 10 MJ",
+        },
+    ]
+
+    def find_row(rows, file, line, value=None, token=None):
+        for r in rows:
+            if r["source"]["file"] != file or r["source"]["line"] != line:
+                continue
+            if value is not None and r["value"] != value:
+                continue
+            if token is not None and r["token"] != token:
+                continue
+            return r
+        return None
+
+    def make_pair(cost, joule, basis, why=None, cost_high=None):
+        """One working's EU cost against its joule output. Where either side is
+        a range the envelope is taken: the least joules per EU the two ranges
+        allow, and the most."""
+        lo, hi = jfig(joule)
+        eu_lo = cost["value"]
+        eu_hi = cost_high["value"] if cost_high else cost["value"]
+        eta = eta_near(cost["source"]["file"], cost["source"]["line"])
+        e = eta["eta"] if eta else None
+        return {
+            "entity": cost["entity"],
+            "working": cost["label"] or joule["label"],
+            "basis": basis,
+            "why": why,
+            "eu": eu_lo if eu_lo == eu_hi else None,
+            "eu_low": eu_lo, "eu_high": eu_hi,
+            "joules_low": lo, "joules_high": hi,
+            "j_per_eu_low": (lo / eu_hi) if lo and eu_hi else None,
+            "j_per_eu_high": (hi / eu_lo) if hi and eu_lo else None,
+            "eta": e,
+            "j_per_eu_through_eta_low": (lo / (eu_hi * e)) if lo and e and eu_hi else None,
+            "j_per_eu_through_eta_high": (hi / (eu_lo * e)) if hi and e and eu_lo else None,
+            "joules_at_1MJ_low": eu_lo * K_TEST, "joules_at_1MJ_high": eu_hi * K_TEST,
+            # how far 1 EU = 1 MJ overshoots what the page states, in decades
+            "decades_from_1MJ_least": (math.log10(eu_lo * K_TEST / hi) if hi and eu_lo else None),
+            "decades_from_1MJ_most": (math.log10(eu_hi * K_TEST / lo) if lo and eu_hi else None),
+            "cost_source": cost["source"], "cost_verbatim": cost["verbatim"],
+            "cost_high_source": cost_high["source"] if cost_high else None,
+            "joule_source": joule["source"], "joule_verbatim": joule["verbatim"],
+        }
+
+    joules_by_line: dict[tuple, list] = {}
+    for j in doc["joules"]:
+        if j["figure_class"] in ("system_table", "withdrawn"):
+            continue
+        joules_by_line.setdefault((j["source"]["file"], j["source"]["line"]), []).append(j)
+    direct_pairs = []
+    for c in raw_costs:
+        for j in joules_by_line.get((c["source"]["file"], c["source"]["line"]), []):
+            direct_pairs.append(make_pair(c, j, "the EU cost and the joule output are written on one line"))
+    for hp in HAND_PAIRS:
+        c = find_row(doc["costs"], hp["cost"][0], hp["cost"][1], value=hp["cost"][2])
+        j = find_row(doc["joules"], hp["joule"][0], hp["joule"][1], token=hp["which_joule"])
+        ch = (find_row(doc["costs"], *hp["cost_high"][:2], value=hp["cost_high"][2])
+              if hp.get("cost_high") else None)
+        if not c or not j or (hp.get("cost_high") and not ch):
+            raise SystemExit(f"hand pair not found in the data: {hp['why'][:40]}")
+        direct_pairs.append(make_pair(c, j, "stated a few lines apart on one page",
+                                      hp["why"], ch))
+
+    # --- reserve against attested strike ------------------------------------
+    strike_by_entity: dict[str, dict] = {}
+    for p in proxy_check:
+        if p["measure"] != "strike" or not p["joules_high"]:
+            continue
+        cur = strike_by_entity.get(p["entity"])
+        if cur is None or p["joules_high"] > cur["joules_high"]:
+            strike_by_entity[p["entity"]] = p
+    reserve_vs_strike = []
+    for r in raw_reserves:
+        s = strike_by_entity.get(r["entity"])
+        if not s or not r["value"]:
+            continue
+        eta = eta_near(r["source"]["file"], r["source"]["line"])
+        e = eta["eta"] if eta else None
+        reserve_vs_strike.append({
+            "entity": r["entity"],
+            "reserve_eu": r["value"],
+            "strike_joules": s["joules_high"],
+            "j_per_eu_if_one_strike_spent_the_whole_reserve": s["joules_high"] / r["value"],
+            "eta": e,
+            "j_per_eu_through_eta": (s["joules_high"] / (r["value"] * e)) if e else None,
+            "strikes_the_reserve_holds_at_1MJ": (r["value"] * K_TEST) / s["joules_high"],
+            "reserve_source": r["source"], "reserve_verbatim": r["verbatim"],
+            "strike_source": s["source"], "strike_verbatim": s["verbatim"],
+        })
+    rvs_ratios = sorted(x["j_per_eu_if_one_strike_spent_the_whole_reserve"]
+                        for x in reserve_vs_strike)
+    reserve_vs_strike_spread = {
+        "note": ("a strike is not a reserve, so this is a ceiling, not the conversion: no "
+                 "single strike can deliver more than the pool it draws on. Read that way "
+                 "each character sets an upper bound on joules per EU, and the bounds do "
+                 "not agree with each other."),
+        "n": len(rvs_ratios),
+        "min": rvs_ratios[0] if rvs_ratios else None,
+        "max": rvs_ratios[-1] if rvs_ratios else None,
+        "median": rvs_ratios[len(rvs_ratios) // 2] if rvs_ratios else None,
+        "decades_spanned": (math.log10(rvs_ratios[-1] / rvs_ratios[0])
+                            if rvs_ratios and rvs_ratios[0] else None),
+    }
+
+    # --- which Stage XIV row the proxy reads --------------------------------
+    stage_xiv = next((s for s in system["stage_gates"] if s["stage"] == "XIV"), None)
+    pe = REPO / "wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md"
+    pe_lines = pe.read_text(encoding="utf-8").splitlines()
+    zenith = next(((i + 1, l) for i, l in enumerate(pe_lines) if l.startswith("| Zenith |")), None)
+    stage_xiv_reading = {
+        "read": "Part Five's Stage gate table: Stage XIV, Zenith, Max Grade EX.",
+        "why": ("the proxy reads a Stage's Max Grade off Part Five for every Stage, and "
+                "Part Five gives XIV a Max Grade like every other row. Part Eleven's "
+                "benchmark table does not: its Zenith row declines to give a figure. The "
+                "two are not reconciled here. Declining to quantify is not a second figure, "
+                "so this is recorded rather than filed as a conflict — but the fit's worst "
+                "residual, the Primate at Stage XIV, rests on reading EX, and a reader who "
+                "takes Part Eleven's row instead has no band to read him against at all."),
+        "part_five": {"source": stage_xiv["source"] if stage_xiv else None,
+                      "verbatim": stage_xiv["verbatim"] if stage_xiv else None},
+        "part_eleven": ({"source": {"file": pe.relative_to(REPO).as_posix(), "line": zenith[0]},
+                         "verbatim": zenith[1]} if zenith else None),
+    }
+
     # --- the AU/s = Flux Density × η check ---------------------------------
     by_file: dict[str, dict] = {}
     for a in doc["anchors"]:
@@ -313,9 +585,20 @@ def main() -> int:
         "meta": {
             "issue": "WAR-9",
             "conversion_tested": "1 EU = 1 MJ of potential; delivered = EU × η; 1 AU/s = 1 MW",
-            "grade_read_from": "Part Five's Max Grade for the Stage the page states",
+            "grade_read_from": ("where the page states joules, the page; otherwise the proxy — "
+                                "Part Five's Max Grade for the Stage the page states"),
             "residual_unit": "decades (log10) outside the Grade's joule band; 0.0 = inside",
+            "joules_defined_by": {
+                "source": {"file": "wiki/Fracture of Worlds — The Living System/"
+                                   "III. Physical Force (Part Eleven).md", "line": 30},
+                "verbatim": pe_lines[29],
+            },
+            "stage_xiv_reading": stage_xiv_reading,
         },
+        "dedupe": dedupe,
+        "direct_pairs": direct_pairs,
+        "grade_proxy_check": {"summary": proxy_summary, "rows": proxy_check},
+        "reserve_vs_strike": {"summary": reserve_vs_strike_spread, "rows": reserve_vs_strike},
         "at_1_MJ": at_1mj,
         "best_fit": fits,
         "by_grade_reading": by_reading,
@@ -328,7 +611,47 @@ def main() -> int:
     REPORT.write_text(json.dumps(report, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
     # --- printed report ----------------------------------------------------
-    print("=== at 1 EU = 1 MJ ===")
+    print("=== the measured side: where canon states both an EU cost and a joule output ===")
+    for p in direct_pairs:
+        lo = f"{p['j_per_eu_low']:,.0f}" if p["j_per_eu_low"] else "—"
+        hi = f"{p['j_per_eu_high']:,.0f}" if p["j_per_eu_high"] else "—"
+        eu = (f"{p['eu_low']:,.0f}" if p["eu_low"] == p["eu_high"]
+              else f"{p['eu_low']:,.0f}–{p['eu_high']:,.0f}")
+        print(f"  {p['entity'][:22]:<23} {p['working'][:26]:<27} {eu:>13} EU  ->  "
+              f"{p['joules_low']:.3g} – {p['joules_high']:.3g} J"
+              f"   = {lo} – {hi} J/EU"
+              f"   (1 MJ overshoots by {p['decades_from_1MJ_least']:+.2f} to "
+              f"{p['decades_from_1MJ_most']:+.2f} decades)")
+
+    ps = proxy_summary
+    print(f"\n=== the Stage->Grade proxy, checked against those joule figures ===")
+    print(f"  strike figures with a Stage to check against: {ps['strike_rows']}"
+          f"   proxy agrees on {ps['agree']}"
+          f"   mean {ps['mean_grades_apart']:+.2f} Grades, mean absolute {ps['mean_abs_grades_apart']:.2f}")
+    for k in sorted(ps["distribution"], key=int):
+        print(f"    {k:>3} Grades apart: {ps['distribution'][k]}")
+    for p in sorted(strikes, key=lambda p: -abs(p["grades_apart"]))[:10]:
+        print(f"    {p['entity'][:26]:<27} {p['joules_high']:.3g} J = {p['grade_attested_high']:<4}"
+              f"  proxy says {p['grade_from_stage_proxy']:<4} from Stage {p['stage']}"
+              f"   {p['grades_apart']:+d}")
+
+    rs = reserve_vs_strike_spread
+    print(f"\n=== reserve against attested strike ({rs['n']} characters state both) ===")
+    print(f"  joules per EU if one strike spent the whole reserve: "
+          f"{rs['min']:.3g} … {rs['max']:.3g}, median {rs['median']:.3g}"
+          f"  — {rs['decades_spanned']:.1f} decades apart")
+    for x in sorted(reserve_vs_strike, key=lambda x: -x["j_per_eu_if_one_strike_spent_the_whole_reserve"]):
+        print(f"    {x['entity'][:26]:<27} {x['reserve_eu']:>15,.0f} EU  strike {x['strike_joules']:.3g} J"
+              f"   {x['j_per_eu_if_one_strike_spent_the_whole_reserve']:>12,.0f} J/EU"
+              f"   at 1 MJ the reserve holds {x['strikes_the_reserve_holds_at_1MJ']:.3g} such strikes")
+
+    print(f"\n=== each figure counted once ===")
+    print(f"  reserves {dedupe['reserves']['rows']} rows -> {dedupe['reserves']['distinct']} figures"
+          f" (strictest reading {dedupe['reserves']['distinct_strict']})")
+    print(f"  costs    {dedupe['costs']['rows']} rows -> {dedupe['costs']['distinct']} figures"
+          f" (strictest reading {dedupe['costs']['distinct_strict']})")
+
+    print("\n=== at 1 EU = 1 MJ ===")
     for name, s in at_1mj.items():
         print(f"{name:<14} delivered in band {s['in_band_delivered']}/{s['of']}"
               f"   potential in band {s['in_band_potential']}/{s['of']}"

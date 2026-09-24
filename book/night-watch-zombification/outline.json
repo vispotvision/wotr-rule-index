@@ -1,0 +1,2001 @@
+{
+  "title": "The Night Watch — Zombification Arc",
+  "thread": "Wystan Ashmore",
+  "front_thread": "Accord",
+  "culture": "Accord",
+  "premise": "Isaac's words: \"Continue the story of The Night Watch based on Wystan Ashmore and Malphas which eventually ends with them working at the Aetherion Academy separately without knowing they were connected. This story is called 'The Night Watch — Zombification Arc'. 80 chapters.\" The book continues from the last line of The Night's Watch. Wystan's gift gets the hand and never the purse, and Article XV prosecutes only the purse; this time he gets the purse (Xu Deming) and never the hand (Malphas). Malphas makes the dose walk: a contractile matrix leaning down a saturation gradient toward the quiet, which is the capped mains, the districts the Accord cuts at night, and the lowest-saturation body in a room, which is Wystan. The case closes on Deming by Accord law; the hand is named in no file Wystan can read; the official classification stays bleed. Years later both men teach at the Aetherion Academy in separate wings, and neither ever learns of the other.",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Docket Head",
+      "beat": "Picking up the second she finishes writing her name at the head of the docket, Wystan strikes the fresh tin's wax with his brass, enters the Ferriby wedge as Register exhibit one, and folds the four chapter-wax pieces into a paper he dates on the outside. He writes to Tally for a second dataset and the name of whoever set the marker, and sends Yinzhi home. At the sixth division the main comes back and the hum fills the building; he carries the tin to the day desk, finds Brack's classification entered and closed, and enters his own memorandum beneath it, one word in the margin: edges. The Ferriby filing is now a Register file with an exhibit and a named assay, and nobody on the day desk reads past the classification.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi"
+      ],
+      "place": "Cutler Row, the Night Register (the scullery back room) and the day desk at the sixth division",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [
+        "H01-far-side-of-the-marker",
+        "H02-quarter-inch-sealed",
+        "H03-chapter-wax",
+        "H04-tallys-second-dataset",
+        "H05-night-register-a-person",
+        "H06-edge-held-cup",
+        "H23-edges-in-the-margin",
+        "H24-brack-signs-bleed"
+      ],
+      "pays": [],
+      "time_elapsed": "The same night, from the fourth division to the sixth",
+      "target_words": 3500
+    },
+    {
+      "number": 2,
+      "title": "Twenty-Two Drops",
+      "beat": "The ninth hind lies on the table by the second division and Vesk builds the contractile matrix into his third-dilution formulation, flask in both palms because his hands will not close. Nuvalik opens the shoulder and will not say what she found in the fourth hind; Malphas sits on the gauge bench in the four-degree cold with his fingers the colour of a living man's and asks Foss to get him the Arbitration Division's field manual. Vesk counts the drip, twenty-two a minute, and lets the question of what Stage the Lord is go by again. The work turns from proving rot to making it move.",
+      "scene_type": "working",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Malphas",
+        "Nuvalik",
+        "Ilmar Foss"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [
+        "H07-warm-hands",
+        "H08-concealed-contraction",
+        "H09-nuvaliks-three-names",
+        "H10-vesks-grafts",
+        "H11-the-sky-finishes",
+        "H21-the-ninth-hind"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 1; the second division to the ninth",
+      "target_words": 3500
+    },
+    {
+      "number": 3,
+      "title": "The Morning Check",
+      "beat": "Wystan wakes at noon with his hands shaking, reads Keld's minute against the written record as he does every morning, and walks to the medical house where Keld sits at a window still waiting for a relief that came too late. At the day desk Prime Warden Elspeth Lyle reads the edges memorandum and tells him the Register may keep a curiosity open until the quarterly inspection of the gauge-housing and not a day longer. Brack stops him in the corridor, stands by his classification, and hands over the Bureau's raw readings unasked; in Lyle's closed room Wystan feels the day's residue settle on his skin as it always does and does not remark it. He knows he will get a hand and not a purse, and says so to Brack in those words.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Osgood Keld",
+        "Elspeth Lyle",
+        "Edwyn Brack"
+      ],
+      "place": "the Division's medical house and the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [
+        "H12-kelds-minute",
+        "H13-low-ground-sink",
+        "H14-brass-token",
+        "H15-six-who-know",
+        "H32-hand-never-purse"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 1; noon to the ninth division",
+      "target_words": 3500
+    },
+    {
+      "number": 4,
+      "title": "A Number in the Room",
+      "beat": "In the Xu counting house by the river Deming draws the second tranche of Verdantia off the Swale supply contract as wastage and writes the covering letter as ordered, naming Project Zombification in the second line. He counts the days Malphas has given him and the weeks the Logistics return will take, and argues with a Logistics factor over a column he intends to lie in. He tells the factor the Hollow Shaft story as a joke about careless men; it is the thing he is most afraid of. The purse now has paper on it, in his hand, carrying the chosen word.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "a Logistics factor"
+      ],
+      "place": "the Xu counting house by the river",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [
+        "H16-thirty-one-days",
+        "H17-eleven-weeks",
+        "H18-the-project-name-is-the-file",
+        "H19-the-hollow-shaft-people"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 2",
+      "target_words": 3500
+    },
+    {
+      "number": 5,
+      "title": "Who Set the Marker",
+      "beat": "Tally's answer comes up with the bulletin bundle: the marker is the Ferriby estate's old survey stone. Wystan and Yinzhi ride to the cut, where Tally (first seen, first inventoried) walks them the line, and Wystan stands eight hours on the carcass ground without food to run Called Late on a scene weeks cold. He states a sequence: somebody came up from the south along the estate's round, stopped short of the stone, and went back the way he came, on foot, at a walking pace, more than once. The inquiry moves off the cut and onto the round.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Nol Tally"
+      ],
+      "place": "the North Ferriby cut and the parish marker",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 4 to 5",
+      "target_words": 3500
+    },
+    {
+      "number": 6,
+      "title": "Separately",
+      "beat": "In the ice-press room Malphas has the discussion he promised: Nuvalik says she hid the twitch in the fourth hind's shoulder because a thing that twitches is a thing that will walk, and he asks her to make it happen again by morning. Foss reads the Division field manual aloud, the unsigned paragraph on anamnetic reading and its counters: seal the object, use an intermediary, wait a season, move a wall. Malphas makes each counter a house rule (every flask Fixatio-sealed, no live dose touched bare, everything through a second pair of hands) and tells Foss that when the work is done he will be released with his own name. The cell now works against the Night Register as against a form it has read.",
+      "scene_type": "talky",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "Malphas",
+        "Ilmar Foss",
+        "Vesk"
+      ],
+      "place": "Greyshaft Nine, the coldhouse, the ice-press room",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [
+        "H20-the-field-manual-paragraph",
+        "H28-foss-released"
+      ],
+      "pays": [
+        "H08-concealed-contraction"
+      ],
+      "time_elapsed": "Day 5",
+      "target_words": 3500
+    },
+    {
+      "number": 7,
+      "title": "The Lick-Keeper",
+      "beat": "On the estate round Wystan finds the salt licks, one every half mile, the last twenty-two paces short of the marker, and the lick-keeper Josse Garretsohn, who says the estate steward paid for the new tonic blocks. Wystan takes a block bare-handed and receives his forty-third minute: Josse setting it, content, nobody else anywhere in it. The far side of the marker was clean because the round stopped there and the carrier turned home; the carrier is Josse, and Josse is an intermediary. Wystan has the hand, and the hand is the wrong one.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Josse Garretsohn"
+      ],
+      "place": "the Ferriby estate lick round",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H01-far-side-of-the-marker"
+      ],
+      "time_elapsed": "Day 7",
+      "target_words": 3500
+    },
+    {
+      "number": 8,
+      "title": "Rounding",
+      "beat": "Foss rides to the Swale road inn to meet the carter who meets the carter who supplies Josse, and pays him in salt bars because salt bars leave no bill. The carter mentions that a man from the Register has asked the Ferriby lick-keeper about blocks. Foss carries it back; Malphas stops Ferriby for a season and moves the licks to the Swale walks, and Foss spends the ride home rehearsing the explanation he still gives about a rounding convention. The dosing network loses one route and gains a wider one.",
+      "scene_type": "standard",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "a carter on the Swale road",
+        "Malphas"
+      ],
+      "place": "the Swale road inn and Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [
+        "H22-the-salt-bar"
+      ],
+      "pays": [],
+      "time_elapsed": "Days 8 to 9",
+      "target_words": 3500
+    },
+    {
+      "number": 9,
+      "title": "Two Myriads",
+      "beat": "In the Division archive Wystan works the metered-draw tariff by hand and arrives at the price of third-dilution Verdantia against nine hinds and a stag: two myriads and a fraction. He petitions Logistics and Supply for the draw records of the Swale line and three others and is refused on the nine-word wire: returns publish on the schedule and not before. At the Timberline chapter bench Yinzhi reproduces a threshold compound that is inert in the flask and runs in blood. Wystan files a standing request against the Swale line so that the day the return publishes it lands on his desk.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "a Logistics clerk on the wire"
+      ],
+      "place": "the Division archive and the Timberline chapter bench",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 10",
+      "target_words": 3500
+    },
+    {
+      "number": 10,
+      "title": "The Ninth Hind",
+      "beat": "At night in the coldhouse the ninth hind, dead twenty-three days, stands up off the table and leans across the slate toward the capped standpipe housing in the corner, where Malphas has been sitting on the gauge bench; he rises and walks to the door before she reaches it, and Vesk takes it for courtesy. She lies down against the housing and stays down. Deming, present to hear what his money bought, is sick in the yard; Foss writes the distance and the time; Malphas says the sink is the quiet. The matrix walks.",
+      "scene_type": "working",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Malphas",
+        "Ilmar Foss",
+        "Nuvalik",
+        "Xu Deming"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H21-the-ninth-hind"
+      ],
+      "time_elapsed": "Day 12, the twelfth division",
+      "target_words": 3500
+    },
+    {
+      "number": 11,
+      "title": "Salt",
+      "beat": "The licks are watched, so Malphas wants the dose in salt bars, and Deming's lineage holds the parish-relief contract that pays the Wicket Lane poor in salt bars, money that can be eaten. Deming works out what salt in a parish means and does it anyway, over a meal he does not eat, with his thumb going round his hat brim. He moves the relief contract's next delivery to a press Foss built. The dose is now in currency.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "Malphas",
+        "Ilmar Foss"
+      ],
+      "place": "the Xu counting house and the parish-relief warehouse",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 13",
+      "target_words": 3500
+    },
+    {
+      "number": 12,
+      "title": "The Memorandum",
+      "beat": "At the full desk Wystan argues edges before Lyle, Brack and the day clerks with the lick round drawn on the board and Josse's minute in the file. Brack concedes the edge is real and holds that the classification is still correct: the residue is the deer's, and a deer cannot be charged. Lyle gives Wystan until the quarterly inspection to produce a purse, and enters the edges memorandum as the Register's position. The file has a stated theory with his name on it.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Elspeth Lyle",
+        "Edwyn Brack",
+        "Qiu Yinzhi"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 15",
+      "target_words": 3500
+    },
+    {
+      "number": 13,
+      "title": "Release",
+      "beat": "On a ridge above the Swale walks at night Nuvalik watches hinds that took the dosed licks die standing, then, days later, get up and walk downhill into the dark, not running, leaning. Nobody from the cell has touched a lick; the carter's man set them and has gone. She thinks about the sky and the ground, and about the three people whose name she carries. The dead are loose and nobody but the cell knows it yet.",
+      "scene_type": "standard",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "Ilmar Foss"
+      ],
+      "place": "a ridge above the Swale walks",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 17 to 18, nights",
+      "target_words": 3500
+    },
+    {
+      "number": 14,
+      "title": "The One That Walked",
+      "beat": "Tally walks his line again, as Wystan asked, and in the Swale walks finds a hind lying eleven miles from any lick at a Withering-cut hamlet with a dead standpipe, and then, at dusk, sees one walking. He measures what he can with a rule, follows it until it lies down, writes the time, and finds no line anywhere he could stand and check the far side of. He carries the insert himself again and the clerk sends it to the Night Register.",
+      "scene_type": "quiet",
+      "pov": "Nol Tally",
+      "cast": [
+        "Nol Tally"
+      ],
+      "place": "the Swale walks and a Withering-cut hamlet",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 20 to 21",
+      "target_words": 3500
+    },
+    {
+      "number": 15,
+      "title": "No Edge",
+      "beat": "With Tally's insert in his coat Wystan walks the Swale walks with Yinzhi and Tally and finds carcasses spread across fifty miles in no pattern the edges theory can hold. He touches a walked hind bare and gets his forty-fourth minute: nobody in it, only downhill, only content, a leaning with no one leaning. He writes it down exactly and has no reading for it. The file's theory is broken in the field before anyone at the desk knows.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Nol Tally"
+      ],
+      "place": "the Swale walks",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 22 to 23",
+      "target_words": 3500
+    },
+    {
+      "number": 16,
+      "title": "The Weather Form",
+      "beat": "Brack re-classifies the Swale carcasses off true measurements, bleed, Verdantia, no operator, no edge, and he is right by the instrument. Lyle reads the Register's edges memorandum aloud against it before the whole desk, and the day clerks laugh in the way clerks laugh. Wystan strikes edges in his day book with one line so it can still be read, and writes bleed beside it in quotation marks. The Register's position is withdrawn in public.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Elspeth Lyle",
+        "Edwyn Brack"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H23-edges-in-the-margin"
+      ],
+      "time_elapsed": "Day 24",
+      "target_words": 3500
+    },
+    {
+      "number": 17,
+      "title": "Eleven Miles",
+      "beat": "The cell tallies the walks off the Society's inserts and the Bureau's published returns, and Malphas reads the re-classification and is satisfied. Vesk's second graft is failing; the nails come in faster, and he is offered a third graft and refuses it because his fingers would be shorter again. Foss notes that the walks run eleven miles and four to six days, exactly as said. The released work now looks like weather to the one office that measures it.",
+      "scene_type": "standard",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Malphas",
+        "Ilmar Foss",
+        "Nuvalik"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 25",
+      "target_words": 3500
+    },
+    {
+      "number": 18,
+      "title": "Relief",
+      "beat": "At the medical house Keld calls Wystan by the name of the officer who should have relieved them, and Wystan answers to it. Keld's minute holds against the written record. Yinzhi finds him there with a coil: the Swale lie-down points all read near floor ambient, and she wants to know what the Accord cut near each of them. The file gains its next question.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Osgood Keld",
+        "Qiu Yinzhi"
+      ],
+      "place": "the Division's medical house",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 26",
+      "target_words": 3500
+    },
+    {
+      "number": 19,
+      "title": "Wastage",
+      "beat": "A Logistics clerk, Nella Stower, queries the Swale column early on the wire and Deming answers her in person with a pumping-array fault report he has had forged; she believes him and enters the query closed. Walking home he understands why every letter he writes must carry the project's name and his own hand. He counts: nineteen days of usefulness left.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "Nella Stower"
+      ],
+      "place": "the Logistics and Supply returns desk",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 27",
+      "target_words": 3500
+    },
+    {
+      "number": 20,
+      "title": "The Hollow Shaft File",
+      "beat": "Wystan draws the Hollow Shaft file from the archive: a cell convicted twenty years ago off one name in private correspondence, the payer amerced to ruin, the hand never found. He reads how the file was built, writ by writ, from a single letter, and copies the procedure into his day book. He notes the file has no Anamnetic exhibit at all. The Register has a precedent for convicting a purse off paper.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "the archive keeper"
+      ],
+      "place": "the Division archive",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 29",
+      "target_words": 3500
+    },
+    {
+      "number": 21,
+      "title": "Map of the Quiet",
+      "beat": "Yinzhi lays every lie-down point against the Accord's registers of capped mains, dead legs and Withering-cut hamlets, and every one sits at a quiet place. She walks the arithmetic to Wystan in sequence and leaves the result to the end: they go downhill in saturation, toward the quiet. She notices he goes very still at the word quiet and does not ask why. The file now has a mechanism in it that is not Wystan's.",
+      "scene_type": "working",
+      "pov": "Qiu Yinzhi",
+      "cast": [
+        "Qiu Yinzhi",
+        "Wystan Ashmore"
+      ],
+      "place": "the Timberline chapter bench and Cutler Row, the Night Register (the scullery back room)",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 30",
+      "target_words": 3500
+    },
+    {
+      "number": 22,
+      "title": "The Thirty-First Day",
+      "beat": "On the thirty-first day Malphas tells Deming he is not needed at the coldhouse again and hands him the last bundle of letters to post, every one naming the Project. Deming posts them. He works out on the walk back that the name funnels to him, and that if he names the hand he becomes a witness the hand must remove; he decides that whatever the Accord asks he will not give it the hand. His usefulness has been counted to the day.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "Malphas"
+      ],
+      "place": "Greyshaft Nine, the coldhouse and the post",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [
+        "H27-deming-will-not-name-the-hand"
+      ],
+      "pays": [
+        "H16-thirty-one-days"
+      ],
+      "time_elapsed": "Day 31",
+      "target_words": 3500
+    },
+    {
+      "number": 23,
+      "title": "The Gradient",
+      "beat": "At a Withering-cut hamlet with a capped standpipe Wystan and Yinzhi put a recovered hind in a sealed barn and watch it lean toward the quietest corner. Wystan explains the gradient in the Technical Register, contractile tissue leaning down a saturation gradient to a sink; Yinzhi sees the lean shift when he moves and he says it is the draught. They have the physics and not the author.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi"
+      ],
+      "place": "a Withering-cut hamlet at the Swale head",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 33",
+      "target_words": 3500
+    },
+    {
+      "number": 24,
+      "title": "What the Sky Does",
+      "beat": "Nuvalik walks the Swale walks alone to see the dead hamlets and finds the ravens still sitting in the trees, not coming down. On the far ridge a man is measuring a carcass with a rule, and she knows the name Malphas said; she could walk down and tell him to stop eating the lick salt he carries in his pack, and she does not. The watchers are now inside the work's ground.",
+      "scene_type": "quiet",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "Nol Tally"
+      ],
+      "place": "the Swale walks",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 35",
+      "target_words": 3500
+    },
+    {
+      "number": 25,
+      "title": "Downhill",
+      "beat": "In the city a walking hind comes in off the north road after the eleventh division and lies down against the Register's own outer stair on Cutler Row. Wystan reads it as a message: the formulator knows the Register sits in the quiet and is walking the dead to its door. Yinzhi hears the theory and does not argue. The Register now believes it is being answered.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi"
+      ],
+      "place": "Cutler Row, the outer stair, after the eleventh division",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 37, night",
+      "target_words": 3500
+    },
+    {
+      "number": 26,
+      "title": "Precedent",
+      "beat": "Wystan asks Lyle to open an Article XV purse file against the Swale line before the return, citing Hollow Shaft; she refuses him (no ledger, no purse) and tells him the Enforcement Division has asked for every carcass report. Wystan understands that the dead have become someone else's jurisdiction as well as his. Lyle signs the reports over.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Elspeth Lyle"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 38",
+      "target_words": 3500
+    },
+    {
+      "number": 27,
+      "title": "The Human Question",
+      "beat": "Malphas tells the cell that deer spend in six days and a man is bigger, and that the salt bars have been in the Wicket Lane parish a turn. Foss argues the Oath way, in clauses; Vesk is delighted; Nuvalik says nothing and wipes her knife. Foss builds the second salt press because he is the one who can. The project takes human substrate.",
+      "scene_type": "talky",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "Malphas",
+        "Vesk",
+        "Nuvalik"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 38, night",
+      "target_words": 3500
+    },
+    {
+      "number": 28,
+      "title": "The Fever Parish",
+      "beat": "The Wicket Lane layer-out, Greta, sends to the Society because her dead do not smell, and Wystan comes. In the death-house nine dead lie in the sitting, salt bars in their purses; he touches a bar and gets his forty-fifth minute, the parish relief clerk counting them out, nobody else. Brack, called, says the parish had fever before any of this. The dose has a door into people.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Greta of Wicket Lane",
+        "Edwyn Brack",
+        "Qiu Yinzhi"
+      ],
+      "place": "Wicket Lane fever parish, the death-house",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 41",
+      "target_words": 3500
+    },
+    {
+      "number": 29,
+      "title": "The Pit",
+      "beat": "From the lane at night Vesk and Foss watch the paupers' pit at Wicket Lane, where the excluded go without the roll, and see the dead climb out of the lime and walk into the cut district, slow, unafraid. Vesk remembers the stones on the graves in his village and laughs out loud. The salt bar has done what the flask did.",
+      "scene_type": "standard",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Ilmar Foss"
+      ],
+      "place": "Wicket Lane fever parish, the paupers' pit",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H22-the-salt-bar"
+      ],
+      "time_elapsed": "Day 43, night",
+      "target_words": 3500
+    },
+    {
+      "number": 30,
+      "title": "In Registro",
+      "beat": "At first light Wystan walks the cut district and counts the parish dead lying in doorways where they lay down at the quietest points of the street. Greta cannot enter them in the roll because they were excluded; the Enforcement carts arrive before the layer-out can sit a single shift with them. Wystan writes each face into his day book because nobody else will. Human dead have walked, and the Accord has noticed.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Greta of Wicket Lane",
+        "Enforcement carters"
+      ],
+      "place": "Wicket Lane fever parish and the cut district",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 44, dawn",
+      "target_words": 3500
+    },
+    {
+      "number": 31,
+      "title": "Upper Bailiff",
+      "beat": "Upper Bailiff Aldric Harrow of the Enforcement Division takes the dead as a public-safety matter and claims them as forfeitures in Lyle's room, and Arbitration and Enforcement have the argument they have had for two hundred years. Harrow is one of the two Enforcement men who once made Wystan drop his Domain by threatening what stood outside it, and he mentions it pleasantly. Lyle gives Harrow the streets and keeps the file.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Elspeth Lyle"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [
+        "H25-enforcements-stay-counter"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 45",
+      "target_words": 3500
+    },
+    {
+      "number": 32,
+      "title": "Night Cut",
+      "beat": "Yinzhi learns that Lyle handed her gradient map to Harrow and that Enforcement is cutting the poorer districts at night, on purpose, to draw the dead away from the chartered ones. She stands at a gauge-housing as an inspector caps a death-house's line in Wicket Lane though Article XX forbids it, and he tells her the exemption is claimed far more often than it is granted. Her map has become a design for pens.",
+      "scene_type": "standard",
+      "pov": "Qiu Yinzhi",
+      "cast": [
+        "Qiu Yinzhi",
+        "an Enforcement inspector",
+        "Greta of Wicket Lane"
+      ],
+      "place": "Wicket Lane fever parish",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [
+        "H26-the-death-house-exemption"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 47",
+      "target_words": 3500
+    },
+    {
+      "number": 33,
+      "title": "The Hall Asks",
+      "beat": "The Xu hall senior asks Deming why the parish-relief contract has been delivering from a new press, and Deming tells him a supplier changed, which is true and not the answer. His uncle lets it go for the length of the meal. Deming counts the weeks to the return: four.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "the Xu hall senior"
+      ],
+      "place": "the Xu lineage hall",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 49",
+      "target_words": 3500
+    },
+    {
+      "number": 34,
+      "title": "A Desk with a Brass Token",
+      "beat": "Malphas reads Enforcement's night cuts as a gift: the Accord is building his sinks for him. He asks Foss who the Night Register is, and Foss, after two days asking at inns, reports a desk on Cutler Row with a brass token and a man on nights; Malphas says then it is a desk, and designs the next release around the cut districts. The walks now run fourteen miles.",
+      "scene_type": "standard",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "Malphas",
+        "Vesk"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 51",
+      "target_words": 3500
+    },
+    {
+      "number": 35,
+      "title": "STAY",
+      "beat": "In a Wicket lodging room a dead man is getting up, halfway through the contraction, and Wystan seals the room and seats STAY so that the working stops mid-run and every operation in the room is recorded. It is the first live exhibit of the mechanism anyone has held. Inside it he cannot strike, seal or open a door; he stands in the thick air with the noise of the street arriving late, and waits for Brack.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi"
+      ],
+      "place": "Wicket Lane fever parish, a lodging room",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 53, night",
+      "target_words": 3500
+    },
+    {
+      "number": 36,
+      "title": "Outside the Boundary",
+      "beat": "Harrow arrives first, with fire, and the lodging family is on the stair outside the boundary as the district goes dark and the dead start down the lane; he says he will leave them outside the cordon unless Wystan drops the Domain. Wystan drops it. Harrow's men burn the room and the exhibit in it, and the family is walked out. The Register loses its live evidence to the one counter his Domain has.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Qiu Yinzhi",
+        "the lodging family"
+      ],
+      "place": "Wicket Lane fever parish",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [
+        "H25-enforcements-stay-counter"
+      ],
+      "time_elapsed": "Day 53, the same night",
+      "target_words": 3500
+    },
+    {
+      "number": 37,
+      "title": "Forty Miles a Week",
+      "beat": "Tally walks the Ferriby line for the dataset, measuring, with the lick salt he has carried and eaten for two months in his pack. At dusk he goes down in the cut with a broken ankle, writes the day's figures in his notebook with the rule laid across the page, and gets cold, then warm, then content. He dies there counting.",
+      "scene_type": "quiet",
+      "pov": "Nol Tally",
+      "cast": [
+        "Nol Tally"
+      ],
+      "place": "the North Ferriby cut",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 55",
+      "target_words": 3500
+    },
+    {
+      "number": 38,
+      "title": "The Sky Refuses",
+      "beat": "The carter brings word that a forester lay two days in the Ferriby cut and no raven came down to him, and then that he was gone. Nuvalik goes to the cut against the rule and finds his rule where he fell, and understands what her proverb was always about: when the sky refuses, people walk out to see why, and now the dead walk out too. She keeps the rule.",
+      "scene_type": "quiet",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "a carter on the Swale road"
+      ],
+      "place": "the North Ferriby cut",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H11-the-sky-finishes"
+      ],
+      "time_elapsed": "Day 57",
+      "target_words": 3500
+    },
+    {
+      "number": 39,
+      "title": "Eleventh Division",
+      "beat": "Harrow orders Cutler Row cut at the eleventh division as the pen for the Wicket dead, the Register's street, because the gradient map says it will draw. Wystan will not leave the Register's rooms; Yinzhi will not leave him. They sit through the last of the hum and hear it stop.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Aldric Harrow"
+      ],
+      "place": "Cutler Row",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 59, to the eleventh division",
+      "target_words": 3500
+    },
+    {
+      "number": 40,
+      "title": "Cutler Row",
+      "beat": "The dead come down Cutler Row in the dark, deer and parish dead and a forester with no rule in his coat, and Enforcement's cordon burns them at the lane mouths. Yinzhi, at the window, sees them pass every quiet doorway and come to the Register's door and lie down at Wystan's feet where he stands on the step. She sees Tally among them and knows him by his coat.",
+      "scene_type": "battle",
+      "pov": "Qiu Yinzhi",
+      "cast": [
+        "Qiu Yinzhi",
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Nol Tally"
+      ],
+      "place": "Cutler Row, after the eleventh division",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 59 to 60, the night",
+      "target_words": 3500
+    },
+    {
+      "number": 41,
+      "title": "The Second Dataset",
+      "beat": "In the aftermath Wystan takes Tally's notebook out of Tally's coat: the second dataset from the same observer, complete to the night he died, last line in his hand. Wystan has stood all night on the lowest ground in the street and taken in everything the dead carried, and in the morning Keld's minute does not match the written record by one word. He writes the discrepancy down and does not correct it.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Nol Tally"
+      ],
+      "place": "Cutler Row, the Night Register (the scullery back room)",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H04-tallys-second-dataset"
+      ],
+      "time_elapsed": "Day 60",
+      "target_words": 3500
+    },
+    {
+      "number": 42,
+      "title": "Forfeiture",
+      "beat": "Harrow claims the Cutler Row dead as forfeitures and burns them without the roll; Wystan, before Lyle, gets one name entered: Nol Tally, Timberline chapter, North Ferriby walk. Arbitration loses the rest. The Register's street was a pen and the Division has minuted it as a success.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Elspeth Lyle"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 62",
+      "target_words": 3500
+    },
+    {
+      "number": 43,
+      "title": "Graft",
+      "beat": "Vesk's grafts were grown on his own Verdantia, and the ferment has been in his hands for a year; the nails will not stop. Malphas examines him from a pace off, gloved, and does not touch, and Vesk sees for the first time that the Lord never touches anything live. He asks Nuvalik, when it comes, for stones.",
+      "scene_type": "quiet",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Malphas",
+        "Nuvalik"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 65",
+      "target_words": 3500
+    },
+    {
+      "number": 44,
+      "title": "Low Ground",
+      "beat": "In the Register's back room, a sealed volume, Brack and Yinzhi move a recovered walker's cage from wall to wall and the dead thing leans each time toward Wystan wherever he stands. Brack reads his Shell as the lowest saturation in the room; Wystan says his own trait aloud, Low Ground, and understands that nobody sent the dead to his door. He is the sink, and the formulator does not know he exists.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Edwyn Brack",
+        "Qiu Yinzhi"
+      ],
+      "place": "Cutler Row, the Night Register (the scullery back room)",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H13-low-ground-sink"
+      ],
+      "time_elapsed": "Day 67",
+      "target_words": 3500
+    },
+    {
+      "number": 45,
+      "title": "Stones",
+      "beat": "Vesk dies in the coldhouse with his hands in a basin, counting the drip, thinking of the stones on the graves in his village and the question he asked as a boy. His last pleasure is that he will find out.",
+      "scene_type": "quiet",
+      "pov": "Vesk",
+      "cast": [
+        "Vesk",
+        "Nuvalik",
+        "Malphas"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 70",
+      "target_words": 3500
+    },
+    {
+      "number": 46,
+      "title": "What the Ground Starts",
+      "beat": "In the night Vesk's body stands up off the pallet and leans toward the capped standpipe in the corner, and Nuvalik lays stones on it, one on each hand and one on the chest, the way his village did. Malphas has Foss measure the lean before she finishes. Nuvalik understands what her grafted friend asked for and why the stones were always there.",
+      "scene_type": "standard",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "Malphas",
+        "Ilmar Foss"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H10-vesks-grafts"
+      ],
+      "time_elapsed": "Days 71 to 72",
+      "target_words": 3500
+    },
+    {
+      "number": 47,
+      "title": "The Return",
+      "beat": "Eleven weeks to the day the Logistics return publishes, and Wystan's standing request drops it on his desk: the Swale line, a pumping array with four years of flat wastage, has had a bad spring. Nella Stower's closed query is in the margin. The purse has a column.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Nella Stower"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [
+        "H17-eleven-weeks"
+      ],
+      "time_elapsed": "Day 77",
+      "target_words": 3500
+    },
+    {
+      "number": 48,
+      "title": "The Column",
+      "beat": "Deming reads the same return in the counting house and his uncle reads it over his shoulder. Nothing can be burned; the letters were posted a turn and a half ago. He sits with his hat on his knee and waits for the knock he predicted.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "the Xu hall senior"
+      ],
+      "place": "the Xu counting house",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 77",
+      "target_words": 3500
+    },
+    {
+      "number": 49,
+      "title": "Article XV",
+      "beat": "Wystan opens the Article XV purse file and argues the doctrine before Lyle: a working run by an animal's Lattice has no author in its own grammar, like a spoken one, so liability falls on the payer. Lyle grants the file for its life because Harrow wants the Swale contract's forfeiture and needs a conviction to get it. Wystan and Harrow now want the same verdict for opposite reasons.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Elspeth Lyle",
+        "Aldric Harrow"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 79",
+      "target_words": 3500
+    },
+    {
+      "number": 50,
+      "title": "Wait a Season",
+      "beat": "Malphas stops all releases and tells the cell to wait a season. The letters naming the Project are already in the world, and he lets Deming fall: the file will be built off a word he chose. Foss understands that the name was always a funnel to one man.",
+      "scene_type": "talky",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "Malphas",
+        "Nuvalik"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 80",
+      "target_words": 3500
+    },
+    {
+      "number": 51,
+      "title": "The Ledger",
+      "beat": "Wystan builds the file from paper: the Swale return, the relief contract's delivery book, the carter's inn account, and the first of Deming's letters obtained by writ to the post office under the Hollow Shaft procedure. Every thread converges on the Xu counting house and every letter names the Project. He touches no exhibit; there is no hand on paper.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Nella Stower"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk and the post office",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 82 to 86",
+      "target_words": 3500
+    },
+    {
+      "number": 52,
+      "title": "The Hall Decides",
+      "beat": "The Xu hall senior strikes Deming's standing ahead of any charge and, without telling him, hires a knife to recover the letters from the Register. Deming learns it at the door when his key no longer turns. He sits on the counting-house step with his hat in his hands.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "the Xu hall senior"
+      ],
+      "place": "the Xu lineage hall",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 88",
+      "target_words": 3500
+    },
+    {
+      "number": 53,
+      "title": "Knife",
+      "beat": "The knife-man comes into the Register at the fourth division for the letters, and Wystan draws the arming sword for the fifth time on the desk. He is weak against any competent man with a knife and takes a cut through the left forearm and another under the ribs, and keeps the letters; the man goes out the scullery window. Yinzhi finds him sitting on the floor with the letter case held by its edge.",
+      "scene_type": "duel",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "a knife-man hired by the Xu hall",
+        "Qiu Yinzhi"
+      ],
+      "place": "Cutler Row, the Night Register (the scullery back room)",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 90, the fourth division",
+      "target_words": 3500
+    },
+    {
+      "number": 54,
+      "title": "Recovery",
+      "beat": "Yinzhi sits the wound and reads the letters while he sleeps: every one names Project Zombification and none names a hand. When he wakes feverish he tells her the purse will name the hand under reservation; she does not believe it and does not say so. She sees the shape of the funnel and he does not.",
+      "scene_type": "quiet",
+      "pov": "Qiu Yinzhi",
+      "cast": [
+        "Qiu Yinzhi",
+        "Wystan Ashmore"
+      ],
+      "place": "Cutler Row, the Night Register (the scullery back room)",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 91 to 93",
+      "target_words": 3500
+    },
+    {
+      "number": 55,
+      "title": "The Last Name",
+      "beat": "Nuvalik sets down the name she has worn in the cell and leaves Greyshaft Nine with Tally's rule and nothing else. She informs no one; Malphas lets her go and says she owes him nothing he wrote down. She walks north under her Accord roll-name to where the name came from.",
+      "scene_type": "quiet",
+      "pov": "Nuvalik",
+      "cast": [
+        "Nuvalik",
+        "Malphas",
+        "Ilmar Foss"
+      ],
+      "place": "Greyshaft Nine, the coldhouse and the north road",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H09-nuvaliks-three-names"
+      ],
+      "time_elapsed": "Day 94",
+      "target_words": 3500
+    },
+    {
+      "number": 56,
+      "title": "Writ",
+      "beat": "The Bench issues the writ and Wystan, wound bound, goes with Harrow's men to the Xu counting house. Deming comes out with his hat in his hands and says he said this would happen before it happened. The payer is in custody.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Xu Deming"
+      ],
+      "place": "the Xu counting house",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 98",
+      "target_words": 3500
+    },
+    {
+      "number": 57,
+      "title": "The Word",
+      "beat": "The Bench clerk titles the file In re Project Zombification, and Wystan, preparing testimony with Yinzhi and Brack, sees that every thread ends in the word and none goes past it. The word is the only author the file has. He files it anyway because it is the only purse he has ever held.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Edwyn Brack",
+        "the Bench clerk"
+      ],
+      "place": "the Bench of Attribution, the northern sitting hall, the clerks' room",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H18-the-project-name-is-the-file"
+      ],
+      "time_elapsed": "Day 105",
+      "target_words": 3500
+    },
+    {
+      "number": 58,
+      "title": "Chain of Custody",
+      "beat": "On the first day of the sitting Deming's advocate says the Ferriby exhibit was tampered with, because a quarter inch of growth inside a sealed Fixatio tin is impossible. Yinzhi, the assay of record, says Fixatio holds what it is given and it was given a running working; Wystan lays the four chapter-wax pieces on the glass and they fit the join. The Ruling chair reads the Hollow Shaft precedent into the record and Deming lifts his head at the name.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "Xu Deming",
+        "Deming's advocate",
+        "the three chairs"
+      ],
+      "place": "the Bench of Attribution, the northern sitting hall",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H02-quarter-inch-sealed",
+        "H03-chapter-wax",
+        "H19-the-hollow-shaft-people"
+      ],
+      "time_elapsed": "Day 112, a sitting on Uurgath's day",
+      "target_words": 3500
+    },
+    {
+      "number": 59,
+      "title": "The Register Is a Person",
+      "beat": "Deming watches the Night Register testify: a thin man in black who holds the file by its edge and says exactly what he cannot attribute. The chairs take the analogy to the spoken working two to one, the Doctrine chair's dissent entered in full, and Deming's advocate has nothing left but the hour. Deming understands he will be convicted before dinner and that the question after it will be the hand.",
+      "scene_type": "talky",
+      "pov": "Xu Deming",
+      "cast": [
+        "Xu Deming",
+        "Wystan Ashmore",
+        "Deming's advocate",
+        "the three chairs"
+      ],
+      "place": "the Bench of Attribution, the northern sitting hall",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 113, morning",
+      "target_words": 3500
+    },
+    {
+      "number": 60,
+      "title": "The Gallery",
+      "beat": "At the afternoon sitting the verdict is read on the Register's file, no officer named aloud: Deming convicted as payer, amercement set to his means, which is everything, and his standing reserved until he names the hand. While it is read Wystan notices a man in the gallery whose hands keep a living colour in a hall where every other pair has gone white, notes it the way he notes a faulty gutter, and returns to the dock. The Ruling chair asks Deming for the hand; Deming looks up at the gallery once, where forty people sit, and refuses, and is taken down.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Xu Deming",
+        "the three chairs",
+        "Malphas"
+      ],
+      "place": "the Bench of Attribution, the northern sitting hall",
+      "front_id": null,
+      "proposed_front": "the-swale-wastage",
+      "plants": [],
+      "pays": [
+        "H07-warm-hands",
+        "H27-deming-will-not-name-the-hand"
+      ],
+      "time_elapsed": "Day 113, afternoon",
+      "target_words": 3500
+    },
+    {
+      "number": 61,
+      "title": "Reserved",
+      "beat": "Wystan has the purse and not the hand, the inverse of his whole career, and Harrow is already seizing the Swale contract. Greta sends word: the fever's dead lie in the Wicket death-house and Harrow has ordered the district cut tonight, death-house and all. The last salt is still in the parish.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Aldric Harrow",
+        "Greta of Wicket Lane"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk and the Bench steps",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 115",
+      "target_words": 3500
+    },
+    {
+      "number": 62,
+      "title": "Death-House",
+      "beat": "Wystan brings the families of the Wicket dead inside the death-house before dark, so that nothing they love stands outside any boundary he might draw, and seals the volume. Harrow's cordon forms in the lane with fire. The main goes off.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Greta of Wicket Lane",
+        "Aldric Harrow",
+        "the Wicket families"
+      ],
+      "place": "Wicket Lane fever parish, the death-house",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 116, to the eleventh division",
+      "target_words": 3500
+    },
+    {
+      "number": 63,
+      "title": "The Quiet Man",
+      "beat": "Wystan lets his suppression go for the first time in years and seats STAY at full in the death-house, and the Pressure of a Stage X Master comes off him into the lane and drops the cordon to its knees. Harrow tries the counter again and finds nothing of Wystan's outside; the dead stop mid-lean, and Greta enters every one of them on the parish roll by name while the working holds. At dawn Wystan releases it and has taken in everything the room carried.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Greta of Wicket Lane",
+        "Aldric Harrow",
+        "Qiu Yinzhi"
+      ],
+      "place": "Wicket Lane fever parish, the death-house",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [
+        "H26-the-death-house-exemption"
+      ],
+      "time_elapsed": "Day 116 to 117, the night",
+      "target_words": 3500
+    },
+    {
+      "number": 64,
+      "title": "Six",
+      "beat": "At dawn Yinzhi holds Wystan up in the lane while the cordon picks itself off the stones. Everyone in it knows now what Stage he is; the six who knew are not six any more, and by noon the Division has it in writing. She walks him home by the long way through a district with its main on.",
+      "scene_type": "quiet",
+      "pov": "Qiu Yinzhi",
+      "cast": [
+        "Qiu Yinzhi",
+        "Wystan Ashmore",
+        "Aldric Harrow"
+      ],
+      "place": "Wicket Lane fever parish and the road to Cutler Row",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H15-six-who-know"
+      ],
+      "time_elapsed": "Day 117",
+      "target_words": 3500
+    },
+    {
+      "number": 65,
+      "title": "Disciplinary",
+      "beat": "Lyle enters a disciplinary observation: a Master concealing his Stage from his own Division. The Register's standing goes under review and Wystan answers every question he is asked and none he is not. He sits the length of it with his hands on his knees to hide the shaking.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Elspeth Lyle"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Day 121",
+      "target_words": 3500
+    },
+    {
+      "number": 66,
+      "title": "Substrate",
+      "beat": "Malphas ends the project: the supply is cut with Deming reserved and the substrate spent. He has Foss move the coldhouse's partition wall a yard and the rail with it before they go, and they burn the flasks in the ice-press room. Greyshaft Nine is left with its drip and its cold.",
+      "scene_type": "working",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "Malphas"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Days 124 to 125",
+      "target_words": 3500
+    },
+    {
+      "number": 67,
+      "title": "Bleed",
+      "beat": "The Accord's official classification of the walking dead stays bleed, and Brack signs it again, correctly, off true measurements: no operator indicated. Lyle explains to Wystan that the Division will not admit made dead because it would have to admit the night cuts. The one exhibit convicted one payer; everything else is weather.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Edwyn Brack",
+        "Elspeth Lyle"
+      ],
+      "place": "the Arbitration Division's northern office, the day desk",
+      "front_id": null,
+      "proposed_front": "the-quiet-districts",
+      "plants": [],
+      "pays": [
+        "H24-brack-signs-bleed"
+      ],
+      "time_elapsed": "Day 130",
+      "target_words": 3500
+    },
+    {
+      "number": 68,
+      "title": "The Desk Is Folded",
+      "beat": "On the last night the carter brings word that the Night Register is being folded into the day desk. Malphas says then the person has gone somewhere else and draws a line through the entry in his book; he gives Foss a sealed purse and his own name back. A letter lies unopened on the gauge bench in a woman's hand Foss does not know, asking whether the question of soil has an answer.",
+      "scene_type": "talky",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss",
+        "Malphas",
+        "a carter on the Swale road"
+      ],
+      "place": "Greyshaft Nine, the coldhouse",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H05-night-register-a-person"
+      ],
+      "time_elapsed": "Day 132",
+      "target_words": 3500
+    },
+    {
+      "number": 69,
+      "title": "Returned",
+      "beat": "The Bench reserves the attribution of the hand (the power of reservation: not condemned, not closed) and returns the exhibits to the filing party, the Timberline chapter. Yinzhi takes back the Ferriby tin and the four pieces of chapter wax on the chapter's behalf. Wystan signs the release with the pen off the bench.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi",
+        "the Bench clerk"
+      ],
+      "place": "the Bench of Attribution, the northern sitting hall",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [
+        "H29-the-ferriby-tin-returned"
+      ],
+      "pays": [],
+      "time_elapsed": "Day 140",
+      "target_words": 3500
+    },
+    {
+      "number": 70,
+      "title": "Rounding Convention",
+      "beat": "Foss takes a bench in a northern coil-shop under his own name, makes honest coils, and writes a petition to the Hexagonal Oath he does not send. He informs no one. He goes on living.",
+      "scene_type": "quiet",
+      "pov": "Ilmar Foss",
+      "cast": [
+        "Ilmar Foss"
+      ],
+      "place": "a coil-shop in a northern foundry town",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H28-foss-released"
+      ],
+      "time_elapsed": "Day 150",
+      "target_words": 3500
+    },
+    {
+      "number": 71,
+      "title": "Called Late",
+      "beat": "The Swale delivery addresses take Wystan to Greyshaft Nine, burned out and dripping, and he stands fourteen hours to reconstruct it. He states the sequence confidently and articulately: one formulator, working alone, at a bench against the east wall, taking in no visitor; the wall was moved and the sequence is wrong. He files it.",
+      "scene_type": "working",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Qiu Yinzhi"
+      ],
+      "place": "Greyshaft Nine, the coldhouse, burned",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H20-the-field-manual-paragraph"
+      ],
+      "time_elapsed": "Day 160; first frost",
+      "target_words": 3500
+    },
+    {
+      "number": 72,
+      "title": "Brass",
+      "beat": "Wystan reads Keld's minute at Keld's bedside against the written record, and with Keld breathing in the room it comes back word for word. The Night Register is folded and he hands in the brass token he never asked to have changed, refuses the day desk, and takes the Night Watch Society's post as field man; the Society's secretary mentions that the academies ask for field instruction. Yinzhi takes the Timberline chapter bench as its assayer.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Osgood Keld",
+        "Qiu Yinzhi",
+        "the Society's secretary"
+      ],
+      "place": "the medical house and the Society's bulletin office",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [
+        "H30-mu-jins-announcement"
+      ],
+      "pays": [
+        "H12-kelds-minute",
+        "H14-brass-token"
+      ],
+      "time_elapsed": "Day 175",
+      "target_words": 3500
+    },
+    {
+      "number": 73,
+      "title": "Doctor Salter",
+      "beat": "Nine years on, Doctor Osric Salter keeps the west-range stillroom at the Aetherion Academy, the one room in the building on a capped dead leg where the hum stops. He teaches preservation and applied ferment to Licentiates, and reads the notice that the Night Watch Society will send a field instructor to Class X this week as he reads weather. His hands are warm on a cold retort.",
+      "scene_type": "quiet",
+      "pov": "Osric Salter",
+      "cast": [
+        "Osric Salter",
+        "Licentiates of the pouring"
+      ],
+      "place": "the Aetherion Academy, the west-range stillroom",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Nine years on; the first week of Class X",
+      "target_words": 3500
+    },
+    {
+      "number": 74,
+      "title": "East",
+      "beat": "Wystan arrives at the Aetherion Academy as the Society's field man, the Ferriby tin in his satchel under the chapter's wax, and cannot sleep on a building that hums in every wall. Walking the ground at night he finds the one door where the hum stops, the west range, stands at it a moment, and turns back east. His rooms are off the eastern lecture halls.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "an Academy porter"
+      ],
+      "place": "the Aetherion Academy, the eastern halls and the west-range door",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [
+        "H31-the-quiet-wing"
+      ],
+      "pays": [],
+      "time_elapsed": "Nine years on; two days into Class X's first week",
+      "target_words": 3500
+    },
+    {
+      "number": 75,
+      "title": "Preservation",
+      "beat": "Salter teaches a class to hold a ferment at the edge of running and not over it, and demonstrates with a sealed jar that holds what it was given. A Licentiate asks whether the dead can be kept; Salter says everything can be kept if you do not touch it. He writes the day's word in his course book.",
+      "scene_type": "working",
+      "pov": "Osric Salter",
+      "cast": [
+        "Osric Salter",
+        "Licentiates of the pouring"
+      ],
+      "place": "the Aetherion Academy, the west-range stillroom",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Nine years on; the same day",
+      "target_words": 3500
+    },
+    {
+      "number": 76,
+      "title": "Hand and Purse",
+      "beat": "Mu-jin brings Wystan to Class X, says the Night's Watch man is here, and steps back to the wall. Wystan puts the Ferriby tin on the bench under its chapter wax, does not open it, and teaches attribution from it: you will get the hand, or you will get the purse, and you will never get both. The class is a room of faces that do not decide anything.",
+      "scene_type": "talky",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Kwon Mu-jin",
+        "Class X, as a room"
+      ],
+      "place": "the Aetherion Academy, an eastern lecture hall",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H29-the-ferriby-tin-returned",
+        "H32-hand-never-purse"
+      ],
+      "time_elapsed": "Nine years on; three days into the week",
+      "target_words": 3500
+    },
+    {
+      "number": 77,
+      "title": "Field Work",
+      "beat": "Wystan takes the class out to a real case, a cold scene in the Academy grounds a groundsman reported, and makes them count before they touch. Investigation and inquiry into active magical events, field work, real cases: what their homeroom teacher promised them. He shows them that the scene gives up a hand and nothing more, and names the careless first-year to nobody.",
+      "scene_type": "standard",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore",
+        "Class X, as a room",
+        "an Academy groundsman"
+      ],
+      "place": "the Aetherion Academy grounds",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H30-mu-jins-announcement"
+      ],
+      "time_elapsed": "Nine years on; four days into the week",
+      "target_words": 3500
+    },
+    {
+      "number": 78,
+      "title": "Across the Quad",
+      "beat": "From the west-range window Salter sees a tall man on the east gallery holding a cup by its rim with two fingers, the way nobody holds a cup. He notes it and returns to the jar on his bench. Nothing follows.",
+      "scene_type": "quiet",
+      "pov": "Osric Salter",
+      "cast": [
+        "Osric Salter"
+      ],
+      "place": "the Aetherion Academy, the west-range window",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [
+        "H06-edge-held-cup"
+      ],
+      "time_elapsed": "Nine years on; five days into the week",
+      "target_words": 3500
+    },
+    {
+      "number": 79,
+      "title": "West Range",
+      "beat": "On his last evening before the Open Tournament clears the timetable Wystan walks the Academy ground again, and at the west-range door the hum stops again. He stands in the quiet a count of ten, the way he stood on Cutler Row with the main off, and turns east. He writes the time in his day book and packs the tin.",
+      "scene_type": "quiet",
+      "pov": "Wystan Ashmore",
+      "cast": [
+        "Wystan Ashmore"
+      ],
+      "place": "the Aetherion Academy, the west-range door and the eastern halls",
+      "front_id": null,
+      "proposed_front": "the-night-register-file",
+      "plants": [],
+      "pays": [
+        "H31-the-quiet-wing"
+      ],
+      "time_elapsed": "Nine years on; the eve of the Open Tournament",
+      "target_words": 3500
+    },
+    {
+      "number": 80,
+      "title": "Sealed",
+      "beat": "In the west-range stillroom Salter fills a fresh specimen jar, lays the lid on, and seals the join with wax. He presses the wax down with the ball of his thumb and sets the jar on the shelf with the others.",
+      "scene_type": "working",
+      "pov": "Osric Salter",
+      "cast": [
+        "Osric Salter"
+      ],
+      "place": "the Aetherion Academy, the west-range stillroom",
+      "front_id": null,
+      "proposed_front": "project-zombification",
+      "plants": [],
+      "pays": [],
+      "time_elapsed": "Nine years on; the same night",
+      "target_words": 3500
+    }
+  ],
+  "hooks": [
+    {
+      "hook_id": "H01-far-side-of-the-marker",
+      "text": "Tally found clean ground on the far side of the parish marker, twenty-two paces past the last carcass, and checked it twice; Wystan writes 'ask Tally who set the marker'. Paid when the lick-keeper's round is found to end at the marker: the carrier turned home there.",
+      "keywords": [
+        "marker",
+        "far side",
+        "lick",
+        "turned"
+      ],
+      "planted_ch": 1,
+      "due_ch": 7
+    },
+    {
+      "hook_id": "H02-quarter-inch-sealed",
+      "text": "A quarter inch of new growth inside a Fixatio-anchored tin with the seal unbroken; the day book reads 'crown +¼ in sealed, 11d'. Paid at the hearing: Fixatio held what it was given, and what it was given was a running working.",
+      "keywords": [
+        "quarter inch",
+        "Fixatio",
+        "running",
+        "sealed"
+      ],
+      "planted_ch": 1,
+      "due_ch": 58
+    },
+    {
+      "hook_id": "H03-chapter-wax",
+      "text": "'They are chapter wax and I will want them later.' Four pieces of the broken seal, dated and kept. Paid at the hearing: the pieces fit the join and prove custody.",
+      "keywords": [
+        "chapter wax",
+        "four pieces",
+        "join",
+        "custody"
+      ],
+      "planted_ch": 1,
+      "due_ch": 58
+    },
+    {
+      "hook_id": "H04-tallys-second-dataset",
+      "text": "Wystan asks Tally to keep walking and measuring: 'I want a second dataset from the same observer.' Paid when the notebook is taken from Tally's walking body, complete to the night he died.",
+      "keywords": [
+        "second dataset",
+        "same observer",
+        "notebook",
+        "Tally"
+      ],
+      "planted_ch": 1,
+      "due_ch": 41
+    },
+    {
+      "hook_id": "H05-night-register-a-person",
+      "text": "The bulletin clerk told Tally the Night Register was a person. The cell knows its hunter only as the Night Register. Paid when the Register is folded and Malphas closes the line.",
+      "keywords": [
+        "Night Register",
+        "person",
+        "folded",
+        "somewhere else"
+      ],
+      "planted_ch": 1,
+      "due_ch": 68
+    },
+    {
+      "hook_id": "H06-edge-held-cup",
+      "text": "Wystan holds everything by the very edge, two-fingered, even a cup. Paid in VI: Salter sees a man holding a cup that way across the quad, notes it, and nothing follows.",
+      "keywords": [
+        "cup",
+        "rim",
+        "two fingers",
+        "window"
+      ],
+      "planted_ch": 1,
+      "due_ch": 78
+    },
+    {
+      "hook_id": "H07-warm-hands",
+      "text": "Malphas's hands keep a living man's colour in a four-degree coldhouse. Paid in the hearing gallery, at the verdict, as a detail Wystan notices and never explains; never recognition.",
+      "keywords": [
+        "hands",
+        "warm",
+        "cold",
+        "gallery"
+      ],
+      "planted_ch": 2,
+      "due_ch": 60
+    },
+    {
+      "hook_id": "H08-concealed-contraction",
+      "text": "Nuvalik got contraction out of the fourth hind's shoulder twice and did not report it; Malphas 'will discuss with her separately'. Paid when the discussion happens.",
+      "keywords": [
+        "contraction",
+        "shoulder",
+        "separately",
+        "twice"
+      ],
+      "planted_ch": 2,
+      "due_ch": 6
+    },
+    {
+      "hook_id": "H09-nuvaliks-three-names",
+      "text": "Nuvalik carries a name three people carried before her and thinks she has spent all three on this work. Paid when she sets down the name she wears in the cell and leaves; she does not inform.",
+      "keywords": [
+        "name",
+        "three",
+        "set down",
+        "leaves"
+      ],
+      "planted_ch": 2,
+      "due_ch": 55
+    },
+    {
+      "hook_id": "H10-vesks-grafts",
+      "text": "Vesk's grafted fingers, the ridged yellow nails that will not stop growing; the village that put stones on its graves. Paid when he dies of his own formulation and Nuvalik lays stones on his walking body.",
+      "keywords": [
+        "grafts",
+        "nails",
+        "stones",
+        "grave"
+      ],
+      "planted_ch": 2,
+      "due_ch": 46
+    },
+    {
+      "hook_id": "H11-the-sky-finishes",
+      "text": "'Where I was raised, the sky finishes what the ground starts, and when the sky refuses, people walk out to see why.' Paid when the ravens will not come down to Tally and he walks.",
+      "keywords": [
+        "sky",
+        "ground",
+        "ravens",
+        "walk out"
+      ],
+      "planted_ch": 2,
+      "due_ch": 38
+    },
+    {
+      "hook_id": "H12-kelds-minute",
+      "text": "Keld's minute, taken off a door handle, lucid, waiting for relief; checked every morning against a written record. It slips by a word after Cutler Row; paid when it is set right at Keld's bedside.",
+      "keywords": [
+        "Keld",
+        "minute",
+        "written record",
+        "relief"
+      ],
+      "planted_ch": 3,
+      "due_ch": 72
+    },
+    {
+      "hook_id": "H13-low-ground-sink",
+      "text": "Wystan's Shell rests near zero saturation; free residue in a closed volume runs toward him. The dead lean to the quiet. He believes they are being sent to him; paid when he learns he is the sink and nobody sent them.",
+      "keywords": [
+        "sink",
+        "lowest",
+        "lean",
+        "nobody sent"
+      ],
+      "planted_ch": 3,
+      "due_ch": 44
+    },
+    {
+      "hook_id": "H14-brass-token",
+      "text": "The Register token is brass, not silver, because the Night Register is not a full desk, and he has never asked to have it changed. Paid when he hands it in.",
+      "keywords": [
+        "brass",
+        "token",
+        "silver",
+        "handed"
+      ],
+      "planted_ch": 3,
+      "due_ch": 72
+    },
+    {
+      "hook_id": "H15-six-who-know",
+      "text": "Suppression held waking and sleeping; six people alive know what Stage he is. Paid when he drops it in the death-house and the whole cordon knows.",
+      "keywords": [
+        "Stage",
+        "six",
+        "cordon",
+        "knew"
+      ],
+      "planted_ch": 3,
+      "due_ch": 64
+    },
+    {
+      "hook_id": "H16-thirty-one-days",
+      "text": "Deming: thirty-one days of usefulness left, and Malphas has already counted them. Paid on the thirty-first day.",
+      "keywords": [
+        "thirty-one",
+        "days",
+        "counted",
+        "useful"
+      ],
+      "planted_ch": 4,
+      "due_ch": 22
+    },
+    {
+      "hook_id": "H17-eleven-weeks",
+      "text": "'In eleven weeks somebody in a room in the capital will look at the Swale line and see a bad spring.' Paid when the Logistics return publishes.",
+      "keywords": [
+        "eleven weeks",
+        "Logistics",
+        "return",
+        "Swale"
+      ],
+      "planted_ch": 4,
+      "due_ch": 47
+    },
+    {
+      "hook_id": "H18-the-project-name-is-the-file",
+      "text": "'I would prefer the file be built off a word I chose.' Every letter names Project Zombification. Paid when the Bench titles the file by the word and every thread ends in it.",
+      "keywords": [
+        "Project Zombification",
+        "word",
+        "file",
+        "chose"
+      ],
+      "planted_ch": 4,
+      "due_ch": 57
+    },
+    {
+      "hook_id": "H19-the-hollow-shaft-people",
+      "text": "'That is how they found the Hollow Shaft people. They found a name in a private correspondence.' Paid when the precedent is read into the record at Deming's hearing.",
+      "keywords": [
+        "Hollow Shaft",
+        "correspondence",
+        "name",
+        "precedent"
+      ],
+      "planted_ch": 4,
+      "due_ch": 58
+    },
+    {
+      "hook_id": "H20-the-field-manual-paragraph",
+      "text": "Foss reads the Division field manual's unsigned paragraph on anamnetic reading and its counters; Malphas adopts them as house rules. Paid when a moved wall makes Wystan's Called Late at Greyshaft Nine confidently wrong.",
+      "keywords": [
+        "field manual",
+        "paragraph",
+        "wall",
+        "moved"
+      ],
+      "planted_ch": 6,
+      "due_ch": 71
+    },
+    {
+      "hook_id": "H21-the-ninth-hind",
+      "text": "'The ninth hind is the freshest and she is the one I want.' Paid when she stands up off the table and leans to the standpipe.",
+      "keywords": [
+        "ninth hind",
+        "table",
+        "stood",
+        "standpipe"
+      ],
+      "planted_ch": 2,
+      "due_ch": 10
+    },
+    {
+      "hook_id": "H22-the-salt-bar",
+      "text": "Foss pays the carter in salt bars because salt bars leave no bill; the salt bar is money that can be eaten. Paid when the parish dead walk out of the pit with the bars in their purses.",
+      "keywords": [
+        "salt bar",
+        "money",
+        "eaten",
+        "pit"
+      ],
+      "planted_ch": 8,
+      "due_ch": 29
+    },
+    {
+      "hook_id": "H23-edges-in-the-margin",
+      "text": "Wystan's margin note: edges. Paid when the walkers erase them and he strikes the word in public.",
+      "keywords": [
+        "edges",
+        "margin",
+        "struck",
+        "bleed"
+      ],
+      "planted_ch": 1,
+      "due_ch": 16
+    },
+    {
+      "hook_id": "H24-brack-signs-bleed",
+      "text": "Brack's classification: Wellspring bleed, Verdantia, no operator indicated, correct off a true measurement. Paid when the Accord's official classification stays bleed and Brack signs it again.",
+      "keywords": [
+        "Brack",
+        "bleed",
+        "no operator",
+        "signed"
+      ],
+      "planted_ch": 1,
+      "due_ch": 67
+    },
+    {
+      "hook_id": "H25-enforcements-stay-counter",
+      "text": "STAY's counter: threaten something outside the boundary; two Enforcement men have used it. Harrow is one. Paid when Wystan drops STAY to save the family on the stair.",
+      "keywords": [
+        "STAY",
+        "outside",
+        "boundary",
+        "dropped"
+      ],
+      "planted_ch": 31,
+      "due_ch": 36
+    },
+    {
+      "hook_id": "H26-the-death-house-exemption",
+      "text": "Article XX: a death-house may not be cut; the exemption is claimed far more often than granted. Paid when Wystan holds the Wicket death-house under STAY and the dead are entered on the roll.",
+      "keywords": [
+        "death-house",
+        "may not be cut",
+        "Article XX",
+        "roll"
+      ],
+      "planted_ch": 32,
+      "due_ch": 63
+    },
+    {
+      "hook_id": "H27-deming-will-not-name-the-hand",
+      "text": "Deming decides that whatever the Accord asks he will not give it the hand. Paid when the Ruling chair asks and he refuses under reservation.",
+      "keywords": [
+        "name",
+        "hand",
+        "reservation",
+        "refused"
+      ],
+      "planted_ch": 22,
+      "due_ch": 60
+    },
+    {
+      "hook_id": "H28-foss-released",
+      "text": "Malphas promises Foss release with his own name when the work is done. Paid when Foss takes a bench under his own name and informs no one.",
+      "keywords": [
+        "released",
+        "own name",
+        "bench",
+        "Oath"
+      ],
+      "planted_ch": 6,
+      "due_ch": 70
+    },
+    {
+      "hook_id": "H29-the-ferriby-tin-returned",
+      "text": "When the Bench reserves the hand, the exhibits return to the filing party: the Ferriby tin and the chapter wax go back to Timberline. Paid when the tin is the lesson at Aetherion.",
+      "keywords": [
+        "Ferriby",
+        "tin",
+        "returned",
+        "lesson"
+      ],
+      "planted_ch": 69,
+      "due_ch": 76
+    },
+    {
+      "hook_id": "H30-mu-jins-announcement",
+      "text": "The Society tells Wystan the academies ask for field instruction; at Aetherion, Mu-jin has promised Class X the Night's Watch for 'field work, real cases'. Paid when Wystan takes the class to a real case.",
+      "keywords": [
+        "field work",
+        "real cases",
+        "Night's Watch",
+        "Academy"
+      ],
+      "planted_ch": 72,
+      "due_ch": 77
+    },
+    {
+      "hook_id": "H31-the-quiet-wing",
+      "text": "At the Aetherion the hum stops at one door, the west range; Wystan stands there and turns back east. Paid when he does it again at the end of the week and goes no further.",
+      "keywords": [
+        "hum",
+        "west range",
+        "stops",
+        "turned"
+      ],
+      "planted_ch": 74,
+      "due_ch": 79
+    },
+    {
+      "hook_id": "H32-hand-never-purse",
+      "text": "His technique gets the hand, never the purse; Article XV prosecutes only the purse. This case inverts it. Paid when he teaches it: the hand or the purse, never both.",
+      "keywords": [
+        "hand",
+        "purse",
+        "never",
+        "both"
+      ],
+      "planted_ch": 3,
+      "due_ch": 76
+    }
+  ],
+  "voice_note": "The archive crossed between two rooms in three scenes; the book keeps both sides on one calendar and one clock, and each side sees the other only as a form. The Register never has a face for the cell and the Lord never has a name for the Register, and nothing noticed across that line is ever paid as recognition; the narration never winks at the reader who knows both. Wystan-side chapters run in the Register's idiom: numbers, not adjectives; the division of the hour; the day book's margin; one object handled per chapter (tin, block, bar, ledger, wax). Crew chapters run in their POV's craft (Vesk's formulation, Nuvalik's knife, Foss's instruments, Deming's columns), and Malphas is seen, never entered, until Movement VI. The hum and the moment it stops is the book's clock. The dead are reported flat. Exemplar: The main came back at the sixth division and the building filled with it from the floor up. Wystan heard it arrive under the boards and his shoulders came down half an inch. He wrote the time in the margin. The tin sat on the sill under his brass, and the four pieces of chapter wax lay beside it in a fold of paper dated on the outside in his hand, squared to the edge. Anti-exemplar: Somewhere out there a man with warm hands was watching, and Wystan could almost feel him. Hunter and hunted, two sides of the same coin, bound by a thread neither could see. If only he knew how close he was."
+}

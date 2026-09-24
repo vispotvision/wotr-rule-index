@@ -19,6 +19,26 @@ script; the edits went to Notion and return through the hourly sync.
   is republished from that file by the sync, so the repo file is the place to edit)
   and one line in `imports/converted/characters/the_little_wayfinder.md` under C-030.
 
+## Two more left as written, found by the check pass
+
+These say "Coherence Band" with no letter after it, so the scripted pass never
+saw them. Both are prose that leans on the retired scale as an idea, and neither
+survives a swap without a reword:
+
+**Ara Min Mahuo** (`:14`)
+- "Grade B across the board, cleanly, matching Stage VIII's Coherence Band exactly." — her Grade letter equalled the band letter for Stage VIII, which is the whole observation. With the band retired the sentence has no referent left to match.
+
+**Sodoku Moto** (`:14`)
+- "Level 320 in a Stage VI body. Two to four Grade brackets past what his Crystal has certified, and a Coherence Band of **D**, which is what that costs." — the point is that his band is low for his Level, and the Tier of Standing does not carry that.
+
+## The check pass
+
+36 of the 216 swept pages were re-read straight from Notion after the edits: all
+28 hand-edited blocks' pages, the 6 Technique pages, the Arctic Lion sheet, the
+two cards from C-030 and C-031, and 15 drawn at random from the scripted set.
+Every lettered Band still standing was one of the deliberate leaves — the two
+above, or one of the thirty listed below. No unintended survivors.
+
 ## Left as written, and why
 
 The ruling replaces the Band where a page uses it as *that page's rank reading*.

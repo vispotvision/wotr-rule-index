@@ -661,3 +661,74 @@ waste**, because that is the one thing that decides whether §5.3's body clock o
 rules. **Next:** WAR-13 the ladders (the §3 spine is ready and now carries
 R44-3's carve-out), WAR-14 publication, WAR-46/WAR-48 the card sweeps R44-1 and
 R44-2 order, WAR-94 the extractor gap.
+
+## State on 2026-09-25 (the venv is not missing; the gate works)
+
+**Correcting the 09-24 block's "One environment fault" paragraph. Nothing is
+broken and nothing is owed to Isaac there.** That paragraph says the `wotr`
+MCP server will not start, that its interpreter "no longer exists", that
+`load_rules`, `fow_line` and `verify_scene` are unavailable to every agent, and
+that rebuilding the venv is Isaac's. It stays above as written; this block is
+the correction. Rhett Konn found it while working WAR-75 and filed WAR-107; the
+readings below were re-taken in a fresh agent run today.
+
+**What was actually happening: `$HOME` is redirected inside an agent run.** A
+run's `$HOME` is a Paperclip sandbox directory under `/tmp/paperclip-ai-…`, so
+`~/.venvs/wotr` — the "one interpreter" `AGENTS.md` names — expands to
+`/tmp/paperclip-ai-…/.venvs/wotr/bin/python`, which does not exist and never
+did. The venv on this machine is fine, has both packages, and has not moved:
+
+```
+/home/oridon/.venvs/wotr/bin/python build/validate.py
+  691 rules across 43 files
+    live=566  superseded=125
+  PASS   (exit 0)
+```
+
+The other two interpreters a run can reach both **exit 1**: a bare `python` is
+mise's (`/home/oridon/.local/share/mise/installs/python/latest/bin/python`) and
+says `pyyaml missing`; `/usr/bin/python3` says `jsonschema missing`. Only the
+project venv has both, which is exactly what `AGENTS.md` already says. An agent
+that read `pyyaml missing` together with the 09-24 note concluded the machine
+was broken, and one (Phenna, 09-24) went to a throwaway venv in a scratch dir —
+which rule 1.4 forbids and nobody needed.
+
+**How to run a WOTR tool in an agent run.** Both of these are measured PASS,
+exit 0, in a run today:
+
+- `bash build/py.sh build/validate.py` — the form `AGENTS.md` calls safest, and
+  it works here because the run environment already exports
+  `WOTR_PYTHON=/home/oridon/.venvs/wotr/bin/python` and
+  `WOTR_ENV_FILE=/home/oridon/.config/wotr/env`, both absolute into the real
+  home, and `env.sh` prefers an exported `WOTR_PYTHON` over `$HOME/.venvs`.
+- `/home/oridon/.venvs/wotr/bin/python build/validate.py` — the absolute path,
+  which depends on no environment variable at all. Use this if `py.sh` ever
+  prints `env.sh: no interpreter at /tmp/paperclip-ai-…`: that line means
+  `WOTR_PYTHON` was not exported into the run, `env.sh` fell back through the
+  redirected `$HOME` to a package-less `python3`, and the exit code is not the
+  gate. **Never** `pip install` into either fallback interpreter, and never
+  build a venv of your own; `validate.py`'s own error message suggesting the
+  pip line is aimed at a human on the machine, not at a run.
+
+The general form: `~` in any repo document means `/home/oridon`, because the
+documents were written on the machine. Inside a run it does not, so type the
+absolute path or go through `py.sh`.
+
+**The MCP half of the 09-24 claim is also false today, and was tested.**
+`mcp__wotr__load_rules` answered in this run (87 rules for `verification`), so
+the server starts and the prose tools are available. The MCP is launched from
+`.mcp.json` by the harness per run, not from an agent's shell, so a run that
+finds the `wotr` tools genuinely missing is a harness fault to report on the
+issue (house rule 1.4) — not this venv, and not something to work around.
+
+**Void, therefore:** the 09-24 block's "Someone rebuilds the `wotr` venv before
+the first prose run of the day" and "Rebuilding it is Isaac's". There is nothing
+to rebuild. The validation gate (house rule 4.1) has been available the whole
+time.
+
+**Not done here, and open for whoever owns it:** whether `AGENTS.md`'s one-
+interpreter bullet should give `/home/oridon/.venvs/wotr/bin/python` rather than
+`~/.venvs/wotr/bin/python`, since `AGENTS.md` is on the do-not-edit list for
+most agents. Rhett raised it; it was not filed and nothing in `AGENTS.md`,
+`schema/` or `build/` was touched for this block. No rule, card, page, config or
+wiki file changed (WAR-107).

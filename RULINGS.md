@@ -700,3 +700,17 @@ Recorded as one sentence, and this sentence is what the index row quotes:
 No cell changes. The three tables that carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written.
 
 Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Closes CONFLICTS.md C-036. Index row: R44-3-S_SS_GAP_RANKED_BY_SUBSTAT in rules/doc-essence-ledger-rulings-2026-09-25.yaml. C-038, the same shape in the travel-speed column, is not named by this ruling and stays open.
+
+## 2026-09-25 — R44-4-ETA_PART_SEVENTEEN_GOVERNS
+
+**C-037 — the efficiency conflict, Class I Muridic against Tier 5 Expert.** Isaac ruled this directly on the Paperclip board on 2026-09-25, answering the WAR-11 questionnaire card "The Essence Ledger — rulings needed". He chose option (a) of the call "C-037 — the eta conflict: Class I Muridic 0.60-0.70 against Tier 5 Expert 0.50-0.60. Which governs?" and wrote no words of his own, so the ruling is the option exactly as it was put to him:
+
+> **Part Seventeen governs — eta reads 0.60-0.70 at Stage VI-VII** — Part Nineteen's Tier 5 row is corrected to match.
+
+Recorded as one sentence, and this sentence is what the index row quotes:
+
+> Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
+
+The page edit it names is the η cell of the Tier 5 · Expert row in "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)", 0.50–0.60 to 0.60–0.70, and nothing else on that row or any other. The ruling does not name the same page's own unresolved-conflict callout at mirror line 103, so that wording is left exactly as written.
+
+Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Closes CONFLICTS.md C-037. Index row: R44-4-ETA_PART_SEVENTEEN_GOVERNS in rules/doc-essence-ledger-rulings-2026-09-25.yaml. The owed page edit is recorded in reports/essence_ledger_rulings_2026-09-25.md and goes to Notion, returning through the hourly sync.

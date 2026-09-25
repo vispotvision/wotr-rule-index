@@ -17,7 +17,7 @@ Ara Min Mahuo:
   sd_words: 11.6
   short_share: 0.36
 Aurelian Prudentius Custos Clausorum:
-  contraction_rate: 0.05
+  contraction_rate: 0.02
   favourite_words:
   - record
   - because
@@ -35,7 +35,7 @@ Aurelian Prudentius Custos Clausorum:
   sd_words: 15.0
   short_share: 0.24
 Ayame Yuno:
-  contraction_rate: 0.25
+  contraction_rate: 0.0
   favourite_words:
   - ayame
   - chose
@@ -53,7 +53,7 @@ Ayame Yuno:
   sd_words: 12.1
   short_share: 0.17
 Borin Ironheart:
-  contraction_rate: 0.08
+  contraction_rate: 0.0
   favourite_words:
   - oath
   - name
@@ -89,7 +89,7 @@ Bram Greymane:
   sd_words: 7.7
   short_share: 0.1
 Brida Ashwell:
-  contraction_rate: 0.25
+  contraction_rate: 0.06
   favourite_words:
   - after
   - council
@@ -107,7 +107,7 @@ Brida Ashwell:
   sd_words: 23.0
   short_share: 0.12
 Charles:
-  contraction_rate: 0.05
+  contraction_rate: 0.0
   favourite_words:
   - years
   - three
@@ -125,7 +125,7 @@ Charles:
   sd_words: 14.6
   short_share: 0.21
 Cozbi Mahuo:
-  contraction_rate: 0.51
+  contraction_rate: 0.44
   favourite_words:
   - more
   - once
@@ -143,7 +143,7 @@ Cozbi Mahuo:
   sd_words: 16.2
   short_share: 0.15
 Darius:
-  contraction_rate: 0.09
+  contraction_rate: 0.04
   favourite_words:
   - eleven
   - more
@@ -179,7 +179,7 @@ Dhaerin:
   sd_words: 17.4
   short_share: 0.15
 Edward Lambert:
-  contraction_rate: 0.09
+  contraction_rate: 0.0
   favourite_words:
   - nothing
   - hole
@@ -251,7 +251,7 @@ Hild Ice:
   sd_words: 21.3
   short_share: 0.29
 Hiromi Mahuo:
-  contraction_rate: 0.56
+  contraction_rate: 0.44
   favourite_words:
   - back
   - slander
@@ -269,7 +269,7 @@ Hiromi Mahuo:
   sd_words: 12.8
   short_share: 0.56
 Kujo:
-  contraction_rate: 0.01
+  contraction_rate: 0.0
   favourite_words:
   - every
   - nihil
@@ -287,7 +287,7 @@ Kujo:
   sd_words: 13.3
   short_share: 0.22
 Lambert:
-  contraction_rate: 0.09
+  contraction_rate: 0.0
   favourite_words:
   - eleven
   - years
@@ -305,7 +305,7 @@ Lambert:
   sd_words: 23.2
   short_share: 0.09
 Malphas:
-  contraction_rate: 0.25
+  contraction_rate: 0.0
   favourite_words:
   - objection
   - both
@@ -323,7 +323,7 @@ Malphas:
   sd_words: 19.0
   short_share: 0.0
 Muken Moto:
-  contraction_rate: 0.11
+  contraction_rate: 0.05
   favourite_words:
   - muken
   - before
@@ -359,7 +359,7 @@ Niran Yukari:
   sd_words: 7.0
   short_share: 0.11
 Rengai Zettari:
-  contraction_rate: 0.67
+  contraction_rate: 0.47
   favourite_words:
   - something
   - because
@@ -377,7 +377,7 @@ Rengai Zettari:
   sd_words: 17.3
   short_share: 0.0
 Robin Ice:
-  contraction_rate: 0.24
+  contraction_rate: 0.18
   favourite_words:
   - front
   - halberd
@@ -395,7 +395,7 @@ Robin Ice:
   sd_words: 12.6
   short_share: 0.29
 Sodoku Moto:
-  contraction_rate: 0.12
+  contraction_rate: 0.06
   favourite_words:
   - before
   - because
@@ -413,7 +413,7 @@ Sodoku Moto:
   sd_words: 23.3
   short_share: 0.14
 Sonzai Moto:
-  contraction_rate: 0.05
+  contraction_rate: 0.01
   favourite_words:
   - become
   - know
@@ -431,7 +431,7 @@ Sonzai Moto:
   sd_words: 11.8
   short_share: 0.27
 The Arctic Lion:
-  contraction_rate: 0.14
+  contraction_rate: 0.09
   favourite_words:
   - thing
   - because
@@ -449,7 +449,7 @@ The Arctic Lion:
   sd_words: 18.7
   short_share: 0.24
 Verinus VII:
-  contraction_rate: 0.1
+  contraction_rate: 0.0
   favourite_words:
   - want
   - told
@@ -467,7 +467,7 @@ Verinus VII:
   sd_words: 24.3
   short_share: 0.21
 Wren:
-  contraction_rate: 0.17
+  contraction_rate: 0.0
   favourite_words:
   - wren
   - greymane
@@ -485,7 +485,7 @@ Wren:
   sd_words: 7.0
   short_share: 0.08
 Xanelor Rafminar:
-  contraction_rate: 0.19
+  contraction_rate: 0.14
   favourite_words:
   - found
   - someone
@@ -503,7 +503,7 @@ Xanelor Rafminar:
   sd_words: 8.4
   short_share: 0.14
 Yoko Mishiro:
-  contraction_rate: 0.22
+  contraction_rate: 0.17
   favourite_words:
   - poison
   - other
@@ -521,7 +521,7 @@ Yoko Mishiro:
   sd_words: 22.9
   short_share: 0.22
 Zuberi:
-  contraction_rate: 0.21
+  contraction_rate: 0.17
   favourite_words:
   - because
   - people

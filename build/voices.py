@@ -26,7 +26,15 @@ SKIP = {"MANIFEST.md", "CAST.md", "ARCS.md", "TIMELINE.md", "00_SUPERSEDED_wrong
 QUOTE = re.compile(r"[\"“]([^\"“”]{3,400})[\"”]")
 TAG = re.compile(r"(?:[\"”]\s*,?\s*(?:said|asked|answered|replied|murmured|called|went on|added|breathed)\s+([A-Z][\w'’-]+(?:\s+[A-Z][\w'’-]+)?))|(?:([A-Z][\w'’-]+(?:\s+[A-Z][\w'’-]+)?)\s+(?:said|asked|answered|replied|murmured|called|went on|added|breathed)\s*[,:]?\s*[\"“])")
 NAME = re.compile(r"\b([A-Z][a-z]{2,}(?:\s+[A-Z][a-z]{2,})?)\b")
-CONTRACTION = re.compile(r"\b\w+['’](?:t|s|re|ve|ll|d|m)\b", re.I)
+# 's is a possessive far more often than a contraction, so it counts only after a stem
+# that actually contracts with it (it's, nothing's, where's); "the Palatine's" is not a contraction.
+CONTRACTION = re.compile(
+    r"\b\w+['’](?:t|re|ve|ll|d|m)\b"
+    r"|\b(?:it|he|she|that|there|what|who|let|here|how|where|why|when"
+    r"|everything|something|nothing|anything|everyone|someone|anyone"
+    r"|everybody|somebody|nobody|anybody|whatever|whoever)['’]s\b",
+    re.I,
+)
 
 
 def cast_names() -> set[str]:

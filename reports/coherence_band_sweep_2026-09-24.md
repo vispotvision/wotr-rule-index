@@ -15,9 +15,21 @@ script; the edits went to Notion and return through the hourly sync.
   token is split by emphasis (`Coherence Band **B**`), which the mirror-side
   prefilter could not see.
 - **30 occurrences left as written** — see below.
-- Outside Notion: `scenes/renard_the_left_of_the_door.md` (the scene archive page
-  is republished from that file by the sync, so the repo file is the place to edit)
-  and one line in `imports/converted/characters/the_little_wayfinder.md` under C-030.
+- Outside Notion: `scenes/renard_the_left_of_the_door.md` and one line in
+  `imports/converted/characters/the_little_wayfinder.md` under C-030.
+
+  **Corrected 2026-09-25 (WAR-35).** This bullet first read that the scene archive
+  page "is republished from that file by the sync, so the repo file is the place to
+  edit". That is wrong. The archive page — *The Left of the Door — Renard Greymane
+  at the Altar-Room Door*, `3d458200-eb22-81d1-9b3a-eb14c93ae922` — is its own
+  condensed summary and ledger prose, not a republish of the scene file, so editing
+  `scenes/renard_the_left_of_the_door.md` left the page untouched: it still read
+  "Coherence Band F for Stage I to IV" and "Coherence Band D" a day after the sweep,
+  `page_last_edited_at` 2026-09-10, two weeks before it. It needed its own edit and
+  has now had one, under the same R43-4 whose notes already name the scene archive:
+  the two lines read **Tier of Standing 4, Adept** (Stage IV) and **Tier of Standing
+  5, Expert** (Stage VI), η as written. It was not one of the 36 pages the check
+  pass below re-read, which is why that pass did not catch it.
 
 ## Two more left as written, found by the check pass
 

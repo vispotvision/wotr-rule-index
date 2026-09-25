@@ -6,6 +6,62 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-48 — the 26 AU/s figures recomputed, none applied)
+
+**All twenty-six are recomputed and no card moved.**
+`reports/au_s_recompute_2026-09-25.md` is the run: every figure computed from
+`imports/essence-ledger/fit.json` `formula_check`, none typed, with each card's
+Flux Density, η, stated AU/s, the product, the multiple, and a verdict. Twenty
+are arithmetically settled and ready; six are stopped and recorded.
+
+**Nothing was applied because R44-2 does not exist yet, verified two ways.** Its
+verbatim is in no `RULINGS.md` — not on this branch, not on `origin/master` —
+and the one file it is written in,
+`rules/doc-essence-ledger-rulings-2026-09-25.yaml`, is **not on master either**:
+`git ls-tree origin/master rules/` has 43 files and none is it. It arrived in
+`f335403`, unpushed on this branch. `CLAUDE.md`: *"A ruling exists only if it is
+in `RULINGS.md`."* That is **WAR-96**, filed out of WAR-72 to Doc Kett, still
+`todo`, and WAR-48 is blocked on it. Nothing about R44-2's *content* is in
+question — the issue quotes Isaac's WAR-11 answer — only its record, and
+`RULINGS.md` is written through `log_ruling` alone, which is WAR-96's call and
+not this issue's task. The moves are too large to ship on an unrecorded ruling:
+eight cards move more than 1.89 decades, Gimbzo's by 7.89.
+
+**Six cards need a ruling, not a sweep, and they are the run's real product.**
+Two contradict a figure their own card states elsewhere: **Gimbzo** (three
+technique costs at 3.2 × 10¹²–1.1 × 10¹⁴ EU that the recomputed 8.648 × 10⁶ AU/s
+turns from 4.8–164 ms into 4.3–147 days, i.e. every named Work unusable), and
+**Dougou Ozumu Zettari** (`:38` states 3,900 AU/s **external** with internal
+cycling immeasurable, so Flux Density × η is a different quantity, not a
+correction of that figure). Four are stopped on form, which the ruling does not
+reach: **Elion Drevas** (the card's η is the range ~0.72–0.78, so the product is
+a range where the field is one figure; `fit.json`'s 0.75 is the extractor's
+midpoint, not the card's), **Ignatius** (the figure lives in the card's own
+`## X · Open Rulings` section as a record that the legacy sheet's numbers are
+unconfirmed — rewriting it would falsify the record), **Borin Ironheart** (all
+three fields say `(est.)`, and WAR-46 held a self-declared estimate is not a
+figure these rulings name), **Sodoku Moto** (`~3,800 base`, and the product 772.8
+is neither approximate nor a base).
+
+**Two further findings.** Four of the twenty land on a decimal (Artemis 1,663.2,
+Ayame 438.6, Vethraun 282.1, Yukazuri 258.1) where no AU/s field in the corpus
+holds one; the exact product invents nothing but rounding would, so it is the
+same question as the backlog's *"what a card figure corrected under R44-1
+becomes"*. And **four cards state the AU/s twice** (Mizuki `:30`/`:59`, Muken
+`:34`/`:60`, Niran `:28`/`:61`, Yukazuri `:40`/`:61`), so the sweep is thirty
+statements across twenty-six cards — twenty-four of them on the ready twenty.
+All twenty-six cards are under `wiki/`, the Notion mirror, so the application is
+Notion page edits with the mirror returning through the hourly sync, the way
+C-030..C-033 went in; that sync is itself blocked right now.
+
+**Not pushed, deliberately, and for the same reason as WAR-46's commit.** This
+branch carries three commits that are not mine (`f335403`, `0d60241`,
+`7904f76`); `git push origin HEAD:master` would ship them to get one report out,
+and `f335403` is the very file WAR-96 is about — putting the R44 index rows on
+master while `RULINGS.md` still lacks the entry would deepen the defect rather
+than close it. `validate.py` PASS, 697 rules, live=572 superseded=125. No card,
+source, rule, `RULINGS.md`, wiki, table or config file changed.
+
 ## State on 2026-09-25 (WAR-72 — the Part's rebuild was already on master; audited)
 
 **Read this before the WAR-46 block below, which is stale on one point.** That

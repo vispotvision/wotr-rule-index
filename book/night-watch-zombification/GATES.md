@@ -1,21 +1,21 @@
 # Gates — night-watch-zombification
 
-Chapters 0/80 written. Gate chapters: 1, 2, 3, 8, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63, 68, 73, 78, 80 (the first 3, then every 5th, and the last).
+Chapters 10/80 written. Gate chapters: 1, 2, 3, 8, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63, 68, 73, 78, 80 (the first 3, then every 5th, and the last).
 
-**Next:** write — chapter 1 — The Docket Head (a gate chapter)
+**Next:** blocked — chapter 1 is written and gated; Isaac has not decided (--approve 1 / --reject 1)
 
 | # | chapter | written | gate | decision | when | note |
 |---|---|---|---|---|---|---|
-| 1 | The Docket Head | — | yes | — |  |  |
-| 2 | Twenty-Two Drops | — | yes | — |  |  |
-| 3 | The Morning Check | — | yes | — |  |  |
-| 4 | A Number in the Room | — | — | — |  |  |
-| 5 | Who Set the Marker | — | — | — |  |  |
-| 6 | Separately | — | — | — |  |  |
-| 7 | The Lick-Keeper | — | — | — |  |  |
-| 8 | Rounding | — | yes | — |  |  |
-| 9 | Two Myriads | — | — | — |  |  |
-| 10 | The Ninth Hind | — | — | — |  |  |
+| 1 | The Docket Head | yes | yes | waiting |  |  |
+| 2 | Twenty-Two Drops | yes | yes | waiting |  |  |
+| 3 | The Morning Check | yes | yes | waiting |  |  |
+| 4 | A Number in the Room | yes | — | — |  |  |
+| 5 | Who Set the Marker | yes | — | — |  |  |
+| 6 | Separately | yes | — | — |  |  |
+| 7 | The Lick-Keeper | yes | — | — |  |  |
+| 8 | Rounding | yes | yes | waiting |  |  |
+| 9 | Two Myriads | yes | — | — |  |  |
+| 10 | The Ninth Hind | yes | — | — |  |  |
 | 11 | Salt | — | — | — |  |  |
 | 12 | The Memorandum | — | — | — |  |  |
 | 13 | Release | — | yes | — |  |  |

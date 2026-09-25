@@ -742,3 +742,9 @@ Recorded as one sentence, and this sentence is what the index row quotes:
 The two lines the item names, quoted on the WAR-11 questionnaire comment the card was posted with, are `Summoned and Bound/Raga · The Divine Thunder Bear.md:81` ("roughly a fifth of a Band V reserve") and `Volume I — Character Cards/Verinus VII · The Palatine.md:86` ("low for Band V and low deliberately"). Nothing is edited.
 
 Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Not a CONFLICTS.md row; a reading Phase 1 made and logged no conflict over, put to Isaac because it was a reading. Index row: R44-6-BARE_BAND_V_IS_LEVEL_BAND in rules/doc-essence-ledger-rulings-2026-09-25.yaml. Confirms that R43-4's sweep of the retired lettered Coherence Band does not reach these two lines.
+
+## 2026-09-25 — WAR-70 (R44-1 corrections)
+
+A card EU figure that R44-1 (1 EU = 1 MJ) puts outside its Stage's band is corrected by moving it to a set point in that band, so every correction is arithmetic off Part Four. The set point is the band's midpoint in decades (the geometric mean of floor and ceiling, in joules, divided by 1 MJ). Isaac chose option 1 of WAR-70 ("1"); the choice of midpoint over floor within option 1 was made by the session relaying it, on his standing direction to make the calls, and he can change it. Figures on C-040's cards (the twelve whose Strike Force does not sit in their Stage's band) are corrected the same way; C-040 itself stays as ruled.
+
+Context: Paperclip WAR-70, filed from WAR-46's sweep (`reports/eu_band_sweep_2026-09-25.md`: 130 of 155 banded EU figures miss, 124 below, 6 above). Answered in Claude Code chat 2026-09-25, Isaac: "1".

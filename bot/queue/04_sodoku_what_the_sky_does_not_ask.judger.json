@@ -1,0 +1,559 @@
+{
+ "scene": "04_sodoku_what_the_sky_does_not_ask",
+ "thread": "Kharven thread, the year after",
+ "proposals": [
+  {
+   "id": "P01",
+   "tool": "ledger_add",
+   "args": {
+    "category": "the dead",
+    "who": "Tenrai officers of the turned column, eleven counted",
+    "text": "The Tenrai officers were already down when Sodoku looked. He counted eleven off the horses before he stopped counting, and the eleven went first and went together, and he had been in enough of these to know what that meant. Eleven is what he counted, not a total, and the page does not say what he took it to mean.",
+    "due_condition": "When the Tenrai officer corps of the Ashgate column is next counted, or when the narrows is entered on a roll."
+   },
+   "quote": "The Tenrai officers were already down. He counted eleven of them off the horses before he stopped counting, and he had been in enough of these to know what it meant that the eleven went first and went together.",
+   "why": "A counted death toll the PC witnessed; nothing on the Ledger covers it. L005 already records 'Eleven Tenrai retainers' but that is a different event (on a knee around the boy, killed with Kurosetsu, without the cold) — flagging the collision of the number so Isaac can keep them apart.",
+   "confidence": "high"
+  },
+  {
+   "id": "P02",
+   "tool": "ledger_add",
+   "args": {
+    "category": "the dead",
+    "who": "A Tenrai serjeant and his block of about forty at the near end of the narrows",
+    "text": "A serjeant got about forty men into a block facing the wrong way and was trying to turn them; a Greymane spear went into him under the arm from behind while he was still shouting, and the forty came apart in the time it takes to notice they have. The page states the wound and the break, not the serjeant's death.",
+    "due_condition": "When anyone accounts for the Tenrai foot at the near end of the narrows."
+   },
+   "quote": "a Greymane spear went into him under the arm from behind while he was still shouting, and the forty came apart in the time it takes to notice they have.",
+   "why": "A named-by-role death and a unit broken, seen by the PC from the Droval's back. Not on the Ledger.",
+   "confidence": "high"
+  },
+  {
+   "id": "P03",
+   "tool": "ledger_add",
+   "args": {
+    "category": "injuries and reserve",
+    "who": "Sodoku Moto",
+    "text": "He is on foot: he put the Titan Droval up the road into another house's fight without weighing it, and the mount was the reason anyone within a mile of him took a step back. The page adds what he sent 'would be enough for the foot, and it would be nothing at all for the thing standing on the road with the purple around it'.",
+    "due_condition": "The next time he is closed with while dismounted, or the moment he needs the Droval at the far end of the road."
+   },
+   "quote": "He was on foot now. He had put his mount into the fight and his mount was the reason anyone within a mile of him took a step back",
+   "why": "A spent asset at the reserve stratum, which R12-3-COMBAT_EXCHANGE_OWES makes owed accounting ('the cost in body and reserve (both), and what the character cannot do next'). The Ledger's Sodoku line L006 carries sleep and Kurosetsu's vibration only.",
+   "confidence": "high"
+  },
+  {
+   "id": "P04",
+   "tool": "ledger_add",
+   "args": {
+    "category": "injuries and reserve",
+    "who": "Sodoku Moto",
+    "text": "Opening Reigan costs him ordinary sight while he holds it: eleven seconds blind in the ruts, counted, and letting go puts his stomach in his throat and greys the top and sides of everything for a moment.",
+    "due_condition": "The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse, and the sword came out before he had finished coming back."
+   },
+   "quote": "The read cost him eleven seconds.",
+   "why": "A stated, numbered cost of the faculty with a physical after-effect; the Ledger has no Reigan line and the Sodoku card carries no Reigan entry at all.",
+   "confidence": "high"
+  },
+  {
+   "id": "P05",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "The outer town of Kharven-Seat (four hundred households) against Sodoku Moto",
+    "text": "Four hundred households put a season of winter wood on the fire in one day on Sodoku's asking, and if the road holds they go through the Thin Weeks on borrowed heat and short rations with the death-house taking whatever the cold takes.",
+    "due_condition": "The Thin Weeks, or the first hard night after the road is decided."
+   },
+   "quote": "If the road held, they would be through the Thin Weeks on borrowed heat and short rations and the death-house would take whatever the cold took",
+   "why": "A cost the PC ordered and the town paid in an hour; a debt owed downhill from him, not on the Ledger (L012 is Kharven to Stannvaard for grain, a different debt).",
+   "confidence": "high"
+  },
+  {
+   "id": "P06",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "Sodoku Moto to Osric of Hallenfeld",
+    "text": "Sodoku sends word by Robin Ice that the road is closed and he is not coming back through it, and that Osric holds the gate until he does — a return he has promised against a road he has just declared shut.",
+    "due_condition": "When Sodoku comes back through the narrows, or when the gate is opened by anyone else."
+   },
+   "quote": "\"Go back,\" Sodoku said. \"Tell Osric the road is closed and I am not coming back through it. Tell him he has the gate until I do.\"",
+   "why": "An explicit promise spoken on the page, binding a named man's command until the PC returns. Nothing on the Ledger carries it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P07",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "Lord Lambert",
+    "text": "Lambert went out the postern before the gates opened, six riders, no banner, and said five days. Sodoku's reading: he left with the road still open and would have been on the Stormfold before the aurora came up, which was either the best timing of the man's life or the worst, and there was no way to know which for five days.",
+    "due_condition": "Five days from the ninth hour, when Lambert's stated term is up."
+   },
+   "quote": "And Lord Lambert went out the postern before the gates opened. Six riders. No banner. He said five days.",
+   "why": "A stated term said out loud and reported to the PC; the only clock the scene hands anyone. Not on the Ledger (L023 is Lambert's reputation, L014 the four hundred and six).",
+   "confidence": "high"
+  },
+  {
+   "id": "P08",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Sodoku Moto, alone",
+    "text": "Sodoku alone knows his brother and Zuberi are four hundred miles north and west, together, running at an output no living body sustains in front of something whose edge he went looking for and could not find, and he can do nothing at all with the knowing.",
+    "due_condition": "When Sodoku next has anyone to tell it to, or when word arrives from the northwest."
+   },
+   "quote": "He put the eye further out and found the edge of the thing they were standing in front of.",
+   "why": "A read the PC holds privately and cannot act on; the 'who knows what' stratum exists for exactly this. Nothing on the Ledger covers the northwest.",
+   "confidence": "high"
+  },
+  {
+   "id": "P09",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Sodoku Moto about Sonzai",
+    "text": "Sodoku credits the man placed inside the Tenrai column to Sonzai — 'That is his hand and nobody else's' — in his own head, on no evidence the page gives, and nobody in the scene hears the attribution or corrects it.",
+    "due_condition": "When Sodoku says Sonzai's name to anyone who knows who actually built the turning."
+   },
+   "quote": "*He put a man inside. That is his hand and nobody else's, and I have known him since we were both small enough to fit under the same table, and it did not occur to me once.*",
+   "why": "The scene's left-standing misreading under R6-4-MISREADING_BUDGET ('At least one POV inference per scene is wrong, and is not corrected on the page'). It is a fact about who believes what and must be tracked before anyone corrects it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P10",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Sodoku Moto about Osric of Hallenfeld",
+    "text": "Sodoku knows he ordered Osric into the doorway if the wall comes down and knows he never said that part out loud, so the order exists only in the man who gave it.",
+    "due_condition": "If the wall of the inner court comes down."
+   },
+   "quote": "*And if the wall comes down he will put himself in the doorway, and that is a thing I ordered and did not say out loud.*",
+   "why": "An unspoken order is a knowledge asymmetry with a body on the other end. The scene's own notes flag it is not a written death ('Osric's death is not written and this is not a promise of one'), so it goes on the Ledger as knowledge, not as a death.",
+   "confidence": "high"
+  },
+  {
+   "id": "P11",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Robin Ice",
+    "text": "Robin Ice arrived with four things to say, rehearsed in order for six miles on a standing instruction to say them in the order and say nothing else, and had already lost one of them. What the lost item was is not said, and the page does not say how many of the four he got out.",
+    "due_condition": "The next time Robin Ice reports, or when the missing item matters to someone."
+   },
+   "quote": "*Say it in the order. He told you once, in the hall, in front of everyone, say it in the order and do not say anything else, and I have got four things and I have been rehearsing the order for six miles and I have already lost one of them.*",
+   "why": "A named hole in the intelligence the PC received. It is the reader's open question and the table needs the hole recorded before anyone fills it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P12",
+   "tool": "ledger_add",
+   "args": {
+    "category": "reputation",
+    "who": "Wren Greymane",
+    "text": "Sixteen months of every village between here and the Stormfold calling Wren traitor, with the ridge smile repeated to Sodoku three times by three people who each thought they were first, against a turning Sodoku watches him execute at the narrows.",
+    "due_condition": "When anyone outside Sodoku's own head learns who built the turning."
+   },
+   "quote": "Every village between here and the Stormfold saying the word traitor about a man who had been standing in the enemy's saddle waiting for a road narrow enough.",
+   "why": "A standing reputation the scene loads and does not discharge; the Ledger's reputation stratum has lines for Sodoku, Bram, Lambert and Ilthára and none for Wren, and the [wren-greymane] Front turns on the omission.",
+   "confidence": "high"
+  },
+  {
+   "id": "P13",
+   "tool": "ledger_add",
+   "args": {
+    "category": "reputation",
+    "who": "Robin Ice with Sodoku Moto",
+    "text": "Robin Ice rides through the narrows unordered, takes the long way round the ditch without being told twice, does not say come with me, and Sodoku files his name with the ones who came back.",
+    "due_condition": "The next time Sodoku needs a rider he will spend."
+   },
+   "quote": "he took the long way round the ditch without being told twice, and Sodoku watched him do it and put the boy's name into the part of his head where he kept the ones who came back.",
+   "why": "A standing change in how the PC values a named NPC. L021 already records that three depositions notice Sodoku never thanked the boy; this is the other half — the private credit — and is not on the Ledger.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P17",
+   "tool": "npc_set",
+   "args": {
+    "name": "Robin Ice",
+    "thread": "Kharven thread, the year after",
+    "want": "To say the four things in the order he was given them in the hall, in front of everyone, and say nothing else. The thing he wanted to say and did not say was 'come with me'.",
+    "refusal_line": "\"My lord, the ditch is full and the narrows is.\"",
+    "knows": [
+     "the southern reach still stands and Bram had the breach at the ninth hour and was holding it on foot",
+     "the Seat is closed, the inner court is manned, and Osric has the princess and the lady below the cistern with the gatehouse shut behind him",
+     "Lord Lambert went out the postern before the gates opened, six riders, no banner, five days",
+     "Wren Greymane is on the road, standing, in front of the one with the halberd",
+     "carries Sodoku's word to Osric: the road is closed, Sodoku is not coming back through it, Osric has the gate until he does",
+     "had four things to deliver and had already lost one of them"
+    ],
+    "last_seen": "04_sodoku_what_the_sky_does_not_ask"
+   },
+   "quote": "\"The southern reach is still standing. Bram had the breach at the ninth hour and was holding it and I saw him on foot. The Seat is closed and the inner court is manned. Lord Osric has the princess and the lady below the cistern and has ordered the gatehouse shut behind him.\"",
+   "why": "The roster is empty for this thread and Robin is the only NPC who speaks. Everything here is on the page: the want is his own italic line, the refusal is the one objection he makes, and the knows list is the four items as delivered.",
+   "confidence": "high"
+  },
+  {
+   "id": "P18",
+   "tool": "npc_set",
+   "args": {
+    "name": "Osric of Hallenfeld",
+    "thread": "Kharven thread, the year after",
+    "want": "To hold the walls of the inner court and the gatehouse exactly as ordered and not sortie for anything, including Sodoku. The order is Sodoku's; the page's warrant for it being Osric's own is 'He will do it. He will do exactly it, and he will do it while she argues with him'.",
+    "knows": [
+     "the order given in the yard before light, repeated back word for word without being asked",
+     "has the princess and the lady below the cistern and has ordered the gatehouse shut behind him"
+    ],
+    "lied_about": []
+   },
+   "quote": "Hold the walls of the inner court. Hold the gatehouse. Do not sortie for anything, including him.",
+   "why": "His standing order and his charge both change state on the page, and a message is dispatched to him. He is named but not present, so no last_seen is proposed and the third knows entry is in flight, not delivered — Isaac may want it held until a scene shows it arriving.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P19",
+   "tool": "npc_set",
+   "args": {
+    "name": "Wren Greymane",
+    "thread": "Kharven thread, the year after",
+    "want": "To have the road narrow enough — sixteen months in the enemy's saddle 'waiting for a road narrow enough'",
+    "knows": [
+     "built the turning at the Ashgate narrows; it went along the enemy column from the middle outward and was over inside the time a man needs to fill his lungs",
+     "is on the road, standing, in front of the one with the halberd, shield on his arm (Robin Ice's report)"
+    ],
+    "lied_about": [
+     "sixteen months in the enemy's saddle, with every village between here and the Stormfold saying the word traitor"
+    ]
+   },
+   "quote": "\"On the road. Standing.\" Robin Ice's jaw moved. \"In front of the one with the halberd.\"",
+   "why": "The scene fixes his design, his position and the sixteen-month deception the North read as treason. He is reported rather than seen, so no last_seen is proposed; the lied_about entry is the deception the scene states, not an invention.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P30",
+   "tool": "propose_rule",
+   "args": {
+    "title": "Mass-combat precedence suspends the duel instruments in verification as well as in craft",
+    "rule_text": "Once a formation exists, the Mass Combat Craft Guide governs and the duel instruments — the three-layer hit model, the HEMA vocabulary and the armour-tier breakdown — are suspended; verification follows the same precedence, and the anatomy-by-named-structure requirement is not asserted against a scene whose combat is a formation breaking.",
+    "applies_to": [
+     "mass-combat",
+     "combat",
+     "verification"
+    ],
+    "rationale": "R1-4-PRECEDENCE_NOTE is verbatim \"Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.\" A formation exists on the page: \"a Tenrai serjeant had got about forty men into a block facing the wrong way and was trying to turn them\". verify nonetheless reports \"combat density: 8 HEMA terms, 0 anatomy terms\" and warns \"no anatomical/injury vocabulary found in a combat scene (R13-6-ANATOMY_VOCAB, check 23)\", whose own verbatim is \"Anatomy by named structure. Fracture types by name. Neurological consequence by name.\" Whether that requirement reaches a mass-combat scene is unstated."
+   },
+   "quote": "Down at the near end of the narrows a Tenrai serjeant had got about forty men into a block facing the wrong way and was trying to turn them",
+   "why": "A standing warn that either means the scene owes anatomy or means the check does not apply. R1-4 says which guide governs and says nothing about the checks, so every mass-combat scene will carry the same unresolved warn.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P32",
+   "tool": "propose_rule",
+   "args": {
+    "title": "Whether the close register's own-idiom carve-out reaches the faculty-as-subject ban",
+    "rule_text": "The faculty-as-subject ban holds in narration. It does not reach a sentence that is in the POV character's own idiom in the close register, where naming the faculty as an actor is the character's belief about his own apparatus and can be wrong — the same licence R4-13-FID_CARVEOUT grants a gloss. Outside the close register the ban is absolute.",
+    "applies_to": [
+     "prose-law",
+     "pov",
+     "magic-mechanism"
+    ],
+    "rationale": "R6-2-FACULTY_NEVER_SUBJECT is verbatim \"The faculty is never the grammatical subject. Barred: his Cymorath mapped the thinning. Permitted: the fourth layer had thinned. The character perceives. The apparatus does not act on its own behalf.\" The scene puts the faculty in the subject slot three times: \"Reigan does not add anything to the world. It takes the world away and leaves what is under it\", \"the eye had taken him past all of that in the first instant\", \"because Reigan goes to weight\". R6-11-CHECK19_APPARATUS_SUBJECT does not catch them, flagging only \"a named faculty is the grammatical subject of a perception verb\". Relatedly, R6-2-READ_DELIVERS_FACT is verbatim \"The read delivers a fact, never an interpretation...\" while the scene's read delivers \"which was the part that told him how bad it was\" and \"Two of them. Together, which meant it had come to them at the same time and in the same place\" — and R4-13-FID_CARVEOUT already licenses exactly that shape: \"The sentence is in the POV character's idiom, could be wrong, and reveals the character doing the interpreting. Keep it.\" Whether that carve-out extends from the gloss rule to the faculty rule is unstated."
+   },
+   "quote": "Reigan does not add anything to the world. It takes the world away and leaves what is under it",
+   "why": "Three sentences in an archived scene sit on the wrong side of a live ban that the checker cannot see, and the nearest carve-out is written for a different rule. Either the carve-out extends or the scene is a standing breach.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P33",
+   "tool": "card_note",
+   "args": {
+    "target": "Robin Ice — The Bastard Runner",
+    "note": "The scene renders Robin Ice twelve years younger and physically different from his card, and gives him a different kit. Scene: \"Seventeen. A face still deciding what it would be, thin at the cheek and heavy at the brow, black hair cut by somebody in a hurry, ice in it. A courier's coat two sizes too big and cinched at the waist with a belt that had gone round nearly twice.\" Card: \"**Age:** 29 · **Level:** 112 · **Stage:** II Kindle · **Band:** I\"; \"Tall and narrow through the shoulders, built for distance rather than impact. Dark auburn hair, cut close on the sides, longer on top ... A courier's coat, shorter than a soldier's, belted with a scarred leather strap holding three sealed message cases and a non-military knife.\" The card also carries \"He has been a runner since fourteen\", which at seventeen would make him three years in rather than fifteen. Recorded, not resolved: either the scene is twelve years before the card's present or one of the two is wrong about the man."
+   },
+   "quote": "Seventeen. A face still deciding what it would be, thin at the cheek and heavy at the brow, black hair cut by somebody in a hurry, ice in it.",
+   "why": "The only NPC who speaks in the scene contradicts his card on age, hair, build and belt. Nothing can be written about Robin Ice again until Isaac says which is canon.",
+   "confidence": "high"
+  },
+  {
+   "id": "P34",
+   "tool": "card_note",
+   "args": {
+    "target": "Muken Moto",
+    "note": "A pronoun in the scene reads against the card's generations. Scene: \"He had learned that off Muken, who had learned it off their father, and it was the only piece of the whole inheritance he had kept without arguing.\" Read one way, 'their father' is a father shared by Muken and Sodoku, which puts Muken in Sodoku's generation; read the other, it is the father of Muken's own generation, i.e. Sodoku's grandfather. The Sodoku Moto card allows only the second: \"A Tenrai-commissioned corridor assassination took his father Muken, his mother, and his brother Nergüi **in one night.**\" and, at line 120, \"**Muken** *(father, dead)*\". Muken's own card: \"**The Ashen Blade — He Who Writes Ruin Into Law** ... *King of Kharven · The North-Forged Crown · The Kept Debt*\". Recorded, not resolved: either the line wants rewording or the card's generations do."
+   },
+   "quote": "He had learned that off Muken, who had learned it off their father, and it was the only piece of the whole inheritance he had kept without arguing.",
+   "why": "A one-word pronoun reassigns a generation in the PC's own family, and the family is load-bearing for the whole Kharven thread (L002 on the Ledger is Muken's death).",
+   "confidence": "high"
+  },
+  {
+   "id": "P35",
+   "tool": "card_note",
+   "args": {
+    "target": "Tōga (冬牙) — Winter Fang",
+    "note": "The scene commands the mount by speech and touch. Scene: \"\\\"Go and help them,\\\" Sodoku said. / He patted the flank twice.\" Card: \"Sodoku does not command Tōga through speech or through Essence projection. He commands through the Frost Sovereignty Field's frequency, the field communicating intent through thermal micro-shifts that Tōga's biology reads the way it reads weather: automatically, at the speed of instinct, without conscious processing.\" Either the spoken order is for Sodoku's own benefit while the field carries the intent, or the card's mechanism is amended. Recorded, not resolved."
+   },
+   "quote": "\"Go and help them,\" Sodoku said.",
+   "why": "The card names speech as the one channel that does not work, and the scene's central act is a spoken order obeyed.",
+   "confidence": "high"
+  },
+  {
+   "id": "P36",
+   "tool": "card_note",
+   "args": {
+    "target": "Tōga (冬牙) — Winter Fang",
+    "note": "The scene makes the bond revocable and unequal in the creature's favour. Scene: \"There had been no promise made when the two of them came to terms on the ice and there was none now. The creature had ten thousand years of winter in it and had chosen, and choosing is a thing that can be done twice, and Sodoku had never once let himself forget which of them was the smaller party to the arrangement.\" Card: \"the recognition was the bond ... The bond operates through Winter resonance. The Verdict Plate's glacier-crystal lattice and Tōga's Wellspring-saturated biology harmonized at the contact point during the skull-standing, and the harmonization is stable and continuous\" and \"Recognition is a hierarchy discovered by two equals who determine, through contest, that one of them IS the thing the other was born to follow.\" The scene's notes declare this an origination: \"the fact that Tōga's arrangement can be revisited are originated.\" Recorded, not resolved: revocable-and-unequal against stable-continuous-and-equal."
+   },
+   "quote": "There had been no promise made when the two of them came to terms on the ice and there was none now.",
+   "why": "An origination declared in play rewrites the card's account of the bond in both its terms (revocability and parity). Isaac either takes the amendment onto the card or pulls the paragraph.",
+   "confidence": "high"
+  },
+  {
+   "id": "P37",
+   "tool": "card_note",
+   "args": {
+    "target": "Tōga (冬牙) — Winter Fang",
+    "note": "The scene has the mount leave Sodoku dismounted and alone within sight of a hostile corona, which the card says cannot happen. Scene: \"The Titan Droval went up the road.\" / \"He was on foot now.\" / \"past the hole, at the far end, a violet corona standing on the road with nothing left upright around it inside sixty feet.\" Card: \"Tōga's territorial instinct now includes Sodoku. The man is part of the territory. Threatening Sodoku activates the same response as threatening Tōga's den range. The response is: everything dies.\" Either the corona at four hundred paces does not register as a threat to the territory, or the instinct yields to an order, or the card's absolute needs qualifying. Recorded, not resolved."
+   },
+   "quote": "He was on foot now.",
+   "why": "The card states an unconditional response; the scene's whole second half depends on that response not firing.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P39",
+   "tool": "card_note",
+   "args": {
+    "target": "Sodoku Moto",
+    "note": "The card carries no Reigan entry: a grep for 'Reigan' in `wiki/Volume I — Character Cards/Sodoku Moto.md` returns nothing. What the card does carry is a different eye, at line 92: \"> **The Kamigan, Crown Eye** · Innate · Judicium\", with \"**Kōkan Bloodline Verdict-Sight** · Lineage — native intimacy with the Plane of Fate\" at line 96. R22-4-SYSTEM_TERMS_TABLE's summary keeps the two apart — 'Zasag→Kamigan (the Ruling Sight) ... Süldiin→Reigan (the Spirit Sight)' — so the scene's decisive faculty is not the one the card lists. The scene makes it decisive and prices it: \"a man who opens that eye stops having the ordinary one for as long as he keeps it open\", \"The read cost him eleven seconds.\", \"put him four hundred miles away without being asked, because Reigan goes to weight\", and the after-effect \"The world came back in a rush that put his stomach into his throat and greyed the top and sides of everything for a moment\". The scene's own note sources Reigan to the Moto Reversion Ledger ('Spirit Sight'), and the gather lists Reigan under 'Names with no page'. The naming half of this is already pending against the same card as P22 in bot/queue/08_sodoku_recalescence.judger.json; what this adds is the blindness, the counted eleven seconds and the four-hundred-mile reach. Recorded, not resolved."
+   },
+   "quote": "a man who opens that eye stops having the ordinary one for as long as he keeps it open.",
+   "why": "The PC used a faculty his card does not list, paid a numbered price for it, and the Ledger line P04 will point at a card that says nothing about it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P41",
+   "tool": "card_note",
+   "args": {
+    "target": "Yoko Mishiro",
+    "note": "The scene puts Yoko at Kharven-Seat below the cistern at the ninth hour. Scene: \"Hild was inside. Yoko with her, and Osric with both\" and, in Robin Ice's report, \"Lord Osric has the princess and the lady below the cistern and has ordered the gatehouse shut behind him.\" Card: \"**Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way**\"; and the Sodoku Moto card has \"Travelling the Scourge of Hell with Yoko and Emira\". Neither Standing field carries a date, so nothing says which state is when. Recorded, not resolved."
+   },
+   "quote": "Hild was inside. Yoko with her, and Osric with both",
+   "why": "Two cards put Yoko somewhere else with no date on either Standing field, so a reader cannot tell whether the scene is before, after or against them.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P42",
+   "tool": "card_note",
+   "args": {
+    "target": "Zuberi Zettari",
+    "note": "No card exists for the man the scene has the PC feeling at four hundred miles. Scene: \"Zuberi was beside him and the reading was the same.\" The scene's note asks for confirmation: \"1. *Zuberi* is Zuberi Zettari, Dawn Guard, sovereign head of House Zettari and ruler of Kushara. That is who I have him feeling, since he is the only Zuberi in the project. Confirm or correct.\" The only page is `wiki/Factions, Bloodlines & Institutions/The Eight Great Houses of Kushara.md:31` — \"**The Sovereign Line.** Dawn Guard — Zuberi Zettari — is sovereign head of the house and ruler of Kushara\" — and the gather lists Zuberi under \"Names with no page\". Spelling is settled: C-005 closed, \"**Zettari** wins, everywhere\", and R32-1-ZETTARI_REGISTER_SWAHILI_BANTU_ARABIC governs the register. Either the identification is confirmed and the man gets a card, or the scene is feeling someone else."
+   },
+   "quote": "Zuberi was beside him and the reading was the same.",
+   "why": "A sovereign head of a great house is put in mortal danger four hundred miles off-page with no card and only a wiki line to his name; the identification is asked for in the scene's own notes and remains unanswered.",
+   "confidence": "high"
+  },
+  {
+   "id": "P43",
+   "tool": "timeline_note",
+   "args": {
+    "target": "04_sodoku_what_the_sky_does_not_ask",
+    "note": "In-world moment as stated: \"*The Ashgate road, from the Kharven side. The ninth hour.*\" — the Ashgate road a quarter mile short of the narrows, in sight of Kharven-Seat, the same morning the outer town was ordered to burn its winter wood (\"the order had been given in the yard before light\"), and sixteen months after the defection at the ridge (\"Sixteen months of it. The defection at the ridge.\"). Concurrent with 02_wren_bulwark and 03_wren_three_deliveries, both placed at the same hour on the same road; already entered at row 83 as \"The Ashgate road, Kharven side. The ninth hour\". The note adds the sixteen-month anchor and the before-light order, which the row does not carry."
+   },
+   "quote": "*The Ashgate road, from the Kharven side. The ninth hour.*",
+   "why": "The row exists but carries only the epigraph; the sixteen months since the ridge and the order given before light are the two datable anchors in the text and both are load-bearing for the Wren front and the winter-wood debt.",
+   "confidence": "high"
+  },
+  {
+   "id": "P44",
+   "tool": "conflict_note",
+   "args": {
+    "target": "C-008",
+    "note": "This scene sits directly on C-008 in a fact pattern its closing ruling does not reach. C-008 is closed — \"ruled by Isaac, 2026-09-13: the distance rule wins; no NPC italic thought under a POV lock; the carve-out survives only for unlocked scenes (R39-7)\" — and R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK is verbatim \"The narration-distance rule wins: no NPC italic thought inside a locked-POV scene. Pack One's \\\"one private italic thought per named NPC\\\" carve-out survives only for scenes with no POV lock (omniscient and mass combat).\" This scene is mass combat and POV-locked at once, and it carries Robin Ice's private italic thought: \"*Say it in the order. He told you once, in the hall, in front of everyone, say it in the order and do not say anything else, and I have got four things and I have been rehearsing the order for six miles and I have already lost one of them.*\" verify counts 17 italic interior beats. Recorded against the closed row rather than resolved; the rule proposal is P28."
+   },
+   "quote": "*Say it in the order. He told you once, in the hall, in front of everyone, say it in the order and do not say anything else, and I have got four things and I have been rehearsing the order for six miles and I have already lost one of them.*",
+   "why": "Every open conflict in CONFLICTS.md (C-034 to C-040) is a stats or energy row and none touch this scene; the one conflict this scene actually stands on is C-008, closed in terms that assumed mass combat and a POV lock were alternatives rather than a pair.",
+   "confidence": "high"
+  },
+  {
+   "id": "P45",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Kharven Standing Inventory",
+    "note": "New entry, originated this scene (R6-9-RECURRENCE_RULE, declared in the scene's notes): burning the winter wood on order. A lord asks the outer town to put a season's woodpile on the fire in one day to deny it, and the town does it without argument; the price is named in the same breath. Scene: \"the outer town had been told to burn its winter wood this morning and had done it without argument, which was a thing Sodoku had asked for and had expected to have to ask for twice. Four hundred households putting a season on the fire in one day. If the road held, they would be through the Thin Weeks on borrowed heat and short rations and the death-house would take whatever the cold took, and that was the arrangement, and the town had made it in about an hour.\" Sits on inventory items already carried — the woodpile count, the Thin Weeks, the death-house and the Waiting — and recurs in 05_sodoku_the_fixed_end. Entry wanted so the next Kharven scene draws it rather than re-invents it."
+   },
+   "quote": "Four hundred households putting a season on the fire in one day.",
+   "why": "Declared originated in play and already reused in a later scene; R6-9's requirement of a same-session Inventory entry is what keeps it texture instead of novelty.",
+   "confidence": "high"
+  },
+  {
+   "id": "P46",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Kharven Standing Inventory",
+    "note": "New entry, originated this scene (declared in the notes): a courier riding through a contested narrows unordered, and being valued for it without being thanked. Scene: \"Blood on his left ear that was not his. He had ridden through the narrows to get here, which nobody had told him to do and nobody would have permitted.\" With the standing instruction it rests on — \"say it in the order and do not say anything else\" — and the reward, which is being sent straight back out: \"\\\"Then go round the ditch.\\\"\" Kharven courier practice, wanted as texture: the order of the items is half the message, and the man who volunteers the ride is not congratulated for it."
+   },
+   "quote": "Blood on his left ear that was not his. He had ridden through the narrows to get here, which nobody had told him to do and nobody would have permitted.",
+   "why": "One of the three originations declared in the scene's notes; without an Inventory row the practice (and the 'say it in the order' instruction) reads as a one-off invention next time a runner arrives.",
+   "confidence": "high"
+  },
+  {
+   "id": "P47",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Kharven Standing Inventory",
+    "note": "New entry, originated this scene (declared in the notes): terms come to on the ice, carrying no promise on either side and revisitable by either party. Scene: \"There had been no promise made when the two of them came to terms on the ice and there was none now. The creature had ten thousand years of winter in it and had chosen, and choosing is a thing that can be done twice, and Sodoku had never once let himself forget which of them was the smaller party to the arrangement.\" This is the form a northern bond takes in Kharven idiom — an arrangement, not an oath — and it reads against the Tōga card's \"stable and continuous\" harmonisation (see the card note). Entry wanted so 'the terms on the ice' is a fixed phrase and not re-derived."
+   },
+   "quote": "choosing is a thing that can be done twice",
+   "why": "The third declared origination, and the one with the longest reach: it changes the standing of the PC's mount from bonded to contingent and needs a fixed phrase before it is paraphrased into something softer.",
+   "confidence": "high"
+  }
+ ],
+ "rejected": [
+  {
+   "id": "P14",
+   "tool": "ledger_add",
+   "reason": "Fails (2): there is no conflict, only a sequence dressed as one. The proposal concedes 'the scene does not say which side of the doorway this is', and the scene's own words make the two compatible — 'the cut chamber below the old cistern, which was stone on six sides and had one way in' is a cistern doorway. The ninth hour is an hour, and the archive already narrates the death inside it: bot/queue/08_sodoku_recalescence.judger.json P26 records that scene 08 'kills him in the cistern doorway with Hild at the ninth hour'. Putting this on the blocking stratum would enter a contradiction that the corpus does not contain. Separately on (4), the stored category string would be 'canon conflicts' where every existing row reads 'canon conflicts on the ledger (blocking)'."
+  },
+  {
+   "id": "P15",
+   "tool": "advance_front",
+   "reason": "Fails (3) twice. The turning is already the table's recorded state: State of Play — Sodoku Moto Kharven.md:15 reads 'Wren Greymane turned six hundred spears on the Tenrai on the Ashgate road, built over sixteen months, officers first and together' — the design, the six hundred and the officers first and together, all of it. And the Front sits a year downstream of this scene: its want is 'unrecorded since the narrows' and its next tick is 'Wren is seen, alive, by someone who has read the roll and says nothing yet', so ticking it with the narrows itself spends a tick on the event the clock is measured from and does not move the want. The house answer to this exact problem is already on record: bot/queue/08_sodoku_recalescence.judger.json P39 files a note to `fronts` saying 'No open Front on this thread moved (Table Rule 4 asks for at least one tick per session). All five open Fronts sit at the year-after state ... this scene is at the ninth hour, a year earlier.' Table Rule 4 is not a licence to tick a clock backwards."
+  },
+  {
+   "id": "P16",
+   "tool": "advance_front",
+   "reason": "Fails (1) and (3). (1): the quote closes the quotation mark after 'on foot', which the page does not — the line runs on ('...and I saw him on foot. The Seat is closed and the inner court is manned.'), so the string as given is not in the Scene. (3): the Front's recorded `last` is 'walked in from Stormfold for the signing and would not sit', a year after this scene, and L007 carries the same state; advancing it on the ninth hour records a consequence earlier than the state already recorded. Nothing in the scene touches the Front's want (that nobody asks him about Wren's omission) — Bram is a line of secondhand report. 'the turning nobody will credit to him' is also a prediction, and 'in front of Bram' puts Wren's turning where Bram is not."
+  },
+  {
+   "id": "P20",
+   "tool": "log_ruling",
+   "reason": "Fails (1): the quote is in '## Notes (author-facing, not canon)', not in '## Scene'. This is the exact ground the last close's skeptic used to reject a log_ruling — bot/queue/08_sodoku_recalescence.judger.json rejects its P31 as 'the quote ... is in the \"## Notes (author-facing, not canon)\" section, not in \"## Scene\"' and adds that log_ruling records 'a ruling Isaac made at the table' while the notes are the drafter addressing Isaac. Also fails (3): R35-2-NARRATION_DISTANCE_ASSIGNMENTS already carries 'Close register: Darius, Aurelian, Verinus, Charles, Sodoku Moto, Niran Yukari, Wren, Kwon Mu-jin' in its verbatim field, so the row would restate live law and change nothing. The ruling's own body concedes no rule carries 'the PC rule', which is the half worth telling Isaac — as a note, not a logged ruling."
+  },
+  {
+   "id": "P21",
+   "tool": "log_ruling",
+   "reason": "Fails (1): the quote is from '## Notes', not '## Scene'. Also fails (3): the sourcing is already on the record — R22-4-SYSTEM_TERMS_TABLE's summary reads 'Süldiin→Reigan (the Spirit Sight)' (verified), which is precisely what the ruling would say, and the proposal itself admits the verbatim field stops at 'Ajiin | Hataraki | The Working | | Nüdel | Shingan | The Seeing |' (also verified exactly). What Reigan actually lacks is a page, and the gather already carries that under 'Names with no page'; a logged ruling does not close a wiki gap."
+  },
+  {
+   "id": "P22",
+   "tool": "log_ruling",
+   "reason": "Fails (1): quote from '## Notes', not '## Scene'. Fails (4) as well, on the same point the last close's skeptic made: log_ruling's rule_id is a string and takes 'new' where no rule applies, not null. And there is nothing to rule — the notes record a handling decision about a character the drafter says is not theirs to write, which is a standing instruction, not a table ruling on a rule."
+  },
+  {
+   "id": "P23",
+   "tool": "log_ruling",
+   "reason": "Fails (1): quote from '## Notes', not '## Scene'. Fails (3): the three originations are already being carried to Isaac by P45, P46 and P47, which is the instrument R6-9 actually asks for (an Inventory entry); a ruling row on top of them records the same thing twice. The summary-versus-verbatim distinction the proposal draws is correct and verified (R6-9-RECURRENCE_RULE's verbatim is 'Identity is repetition. Novelty is its enemy.'), so carry that sentence into P45's note rather than into a ruling."
+  },
+  {
+   "id": "P24",
+   "tool": "log_ruling",
+   "reason": "Fails (1): quote from '## Notes', not '## Scene'. Fails (3): the substance is already in front of Isaac as P10, which files the doorway line as knowledge rather than a death, exactly as this asks. Fails (4): rule_id is null where log_ruling takes a string ('new')."
+  },
+  {
+   "id": "P25",
+   "tool": "log_ruling",
+   "reason": "Fails (1): quote from '## Notes', not '## Scene'. Fails (3): a draw of items the Inventory already holds is not a new record — R22-7-KHARVEN_INVENTORY_KEPT's verbatim already carries 'the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs' (verified), and the gather's own verify line already reports the draw: 'info Kharven recurrence: wet wood, the Thin Weeks, the death-house / the Waiting'. Nothing changes state, so there is nothing to log."
+  },
+  {
+   "id": "P26",
+   "tool": "propose_rule",
+   "reason": "Fails (1): the quote is from '## Notes (author-facing, not canon)', not '## Scene'. The register is genuinely unruled and the docket evidence checks out (the gather's Docket returns 0 pending for prose-law/scene-structure, and R15-1-REGISTER_BY_CULTURE's verbatim does name other cultures and end 'Available as flavour. Not law.'), so this should come back — but anchored on Scene prose that demonstrates the register, the way the last close's surviving propose_rule proposals were anchored, with the notes cited in the rationale instead of quoted as the warrant."
+  },
+  {
+   "id": "P27",
+   "tool": "propose_rule",
+   "reason": "Fails (1): the quote is a verify output line, not Scene text, and it does not appear anywhere in the gather — the gather's Verification block reports 'WARN length 3097 words'. The 2,502 figure is reproducible (I re-ran verify on the prose above '## Notes': 2502), so the number is honest, but it belongs in the note, not in the quote field; the last close's identical item did exactly that (08_sodoku_recalescence P35 quotes Scene prose and puts the verify line in the note). Fails (3) as well: that same P35 already has this clash pending as 'C-NEW (length: R1-3 minimum against Table Rule 2 band)', and the proposal itself cites it as already open in State of Play — Kwon Mu-jin. One clash, one row."
+  },
+  {
+   "id": "P28",
+   "tool": "propose_rule",
+   "reason": "Fails (3): P44 in this same set already records this against C-008 with the same quote, and recording is the instrument CLAUDE.md prescribes — 'When two packs contradict each other, you record both ... You do not decide which one wins.' The rule_text here decides it ('the POV lock governs and the mass-combat carve-out does not revive'), which is the thing the proposal's own rationale says is 'Isaac's to do, not mine'. The underlying gap is real and verified (C-008 is closed, ruled 2026-09-13, 'the carve-out survives only for unlocked scenes (R39-7)', and R39-7's verbatim glosses unlocked as '(omniscient and mass combat)' while this scene is both) — which is exactly what P44 puts in front of him."
+  },
+  {
+   "id": "P29",
+   "tool": "propose_rule",
+   "reason": "Fails (1) and contains a false claim about the checker. The quote is a verify FAIL line, not Scene text. Its first factual claim is right — I reproduced verify's triple and it is the 30/44/60 run spanning three paragraphs ('That is the whole of the fault...', 'Breath went out of him...', 'Down at the near end of the narrows...'), and no single paragraph in the file holds three consecutive sentences over 25 words. But the second claim is wrong: verify's flagged run does not 'end on' the 28-word 'Every village between here and the Stormfold...' sentence, and the splitter does not join the italic lines — '*Sonzai.*' is its own paragraph and its own one-word sentence, which breaks the chain. Under CLAUDE.md a checker you believe is wrong is something you say and stop on, not something you rewrite by rule."
+  },
+  {
+   "id": "P31",
+   "tool": "propose_rule",
+   "reason": "no verdict"
+  },
+  {
+   "id": "P38",
+   "tool": "card_note",
+   "reason": "Fails (2) by its own admission. 'It did not run' and 'Explosive launch from stillness covering 30m in a single bound' are not in conflict — a bound is not a run — and the note concedes 'Not necessarily a contradiction' before asserting 'the card's ability contradicts as written'. The scene's line is also about size, not about the species. A card row that resolves to nothing costs Isaac a ruling and puts a non-finding on the card."
+  },
+  {
+   "id": "P40",
+   "tool": "card_note",
+   "reason": "Fails (3) on the half that is real and (2) on the half that is new. The age clash is already pending against this card: bot/queue/08_sodoku_recalescence.judger.json P27 reads 'Age: card 11, page ... (L001 already says twelve)' and carries two further items besides. The novel half is not a contradiction — 'Status: Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne' is a standing political office, and being in a stone room under the keep during an assault on the Seat does not contradict holding it. Nothing correct here is new and nothing new here is correct."
+  },
+  {
+   "id": "P48",
+   "tool": "inventory_note",
+   "reason": "Fails (2) on its central claim. 'The Work' is not originated here and is not carried by nothing: R22-4-SYSTEM_TERMS_TABLE's verbatim is 'Ajiin | Hataraki | The Working | | Nüdel | Shingan | The Seeing |', the Moto Reversion Ledger doc has 'the Work of Totality', and scenes/commencement_of_the_curia_kujo_arc.md uses it throughout (lines 579, 1119, 8115, 9370 — 'Work magic. He had used the phrase in three hundred writs.'). Nor is the Crevice-taker uncarried: scenes/CONTINUITY.md:1134 already indexes, under this very scene, 'the one who took the Crevice, holding his brother and Zuberi at once'. The target also invents an entry in a list the gather prints in full — 'Names with no page' holds Tenrai, Sonzai, Reigan, Zuberi and nothing else. The one finding here that is new and that I verified is worth re-filing as a conflict_note: Geography & the Four Quarters.md:25 files the Crevice in the south ('THE OUTER WORLD · SOUTH ... pans, bone-beds, the Crevice') while the two men reading as held by it are north and west of Kharven."
+  }
+ ],
+ "applied": [
+  {
+   "id": "P01",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L047 under 'the dead'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P03",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L048 under 'injuries and reserve'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P04",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L049 under 'injuries and reserve'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P05",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L050 under 'debts'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P06",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L051 under 'debts'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P08",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L052 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P09",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L053 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P10",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L054 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P11",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L055 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P12",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L056 under 'reputation'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  }
+ ]
+}

@@ -1,0 +1,690 @@
+{
+ "scene": "01_wotr_muster_breach_road_north",
+ "thread": "Kharven thread, the year after",
+ "proposals": [
+  {
+   "id": "P01",
+   "tool": "ledger_add",
+   "args": {
+    "category": "the dead",
+    "who": "Egil Vald",
+    "text": "Egil Vald dies at the twelfth rotation in the breach at the southern reach, a hooked blade under the cuisse and the femoral opened, silently, and the man beside him steps across the gap without being told.",
+    "due_condition": "When anyone counts what the hold at the breach cost Bram's three hundred — Egil Vald is the only one of them counted on the page."
+   },
+   "quote": "Egil Vald went down at the twelfth rotation with a hooked blade under the cuisse and the femoral opened and he was dead in the time it takes to fill a bucket, and he made no sound about it, and the man beside him stepped across the gap without being told.",
+   "why": "A named death with a mechanism and an hour, and the Ledger's 'the dead' carries no line for him. The scene's own notes declare Egil Vald originated, so this is his first and only entry.",
+   "confidence": "high"
+  },
+  {
+   "id": "P03",
+   "tool": "ledger_add",
+   "args": {
+    "category": "injuries and reserve",
+    "who": "Bram Greymane",
+    "text": "Bram Greymane finishes the morning on foot behind a horse hit in the near hind and dead, with his shield strapped to a forearm he can no longer feel, after four hours holding a twenty-two-foot gap.",
+    "due_after_sessions": 1
+   },
+   "quote": "on foot by then with a dead horse behind him and his shield strapped to a forearm he could no longer feel",
+   "why": "A binding injury and a lost mount. L007 already carries Bram at 'three fingers, the hip' from a later date; nothing on the Ledger carries the forearm or the horse, and this is where both happen.",
+   "confidence": "high"
+  },
+  {
+   "id": "P04",
+   "tool": "ledger_add",
+   "args": {
+    "category": "injuries and reserve",
+    "who": "Bram's three hundred",
+    "text": "By the fifteenth rotation Bram's three hundred are putting men back into the front rank who cannot lift a shield to head height, because the alternative is a hole.",
+    "due_after_sessions": 1
+   },
+   "quote": "it worked for the first nine rotations and got ragged at the eleventh and by the fifteenth they were rotating men who could not lift the shield to head height and were being put back in the front anyway because the alternative was a hole",
+   "why": "The reserve of a whole command spent to the floor, stated in the text as a count of rotations. Nothing on the Ledger prices the three hundred.",
+   "confidence": "high"
+  },
+  {
+   "id": "P06",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "Wren Greymane",
+    "text": "Wren Greymane chose six hundred men for faith and spent sixteen months of it: they were spat at in their own villages, eleven of them have wives who stopped writing, and three were killed by their own kin.",
+    "due_condition": "When the six hundred learn what the sixteen months bought, or when anyone outside the column is told the cover was ordered."
+   },
+   "quote": "Sixteen months of being spat at in their own villages. Eleven of them had wives who had stopped writing.",
+   "why": "The standing price of Wren's whole command, stated in counts the scene fixes. It is separate from Cass Holloway's line and larger, and no Ledger row carries it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P07",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Wren Greymane",
+    "text": "Only Wren Greymane knows the book in his saddlebag exists, with three of his own men killed by their own kin entered in it; he has told nobody.",
+    "due_condition": "When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without a word."
+   },
+   "quote": "Three of them had been killed by their own kin and Wren had entered all three in a book he kept in his saddlebag and had told nobody about the book.",
+   "why": "A secret held by exactly one man, declared originated in the notes, and the reason the smile across the dead men has something under it. A later scene (03_wren_three_deliveries) already turns on the book, so the knowledge line needs to exist from here.",
+   "confidence": "high"
+  },
+  {
+   "id": "P08",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Seiji Tenrai Moto",
+    "text": "Seiji Tenrai Moto sent four riders out on four routes at the second hour: by tonight the Seat is to have three reports that the column is moving on the Stormfold road and one that the Brine crossing is already taken, all four signed by hands the Seat's clerks know. Three had reached Lorn Stark by the seventh hour. The column marches directly at the Seat.",
+    "due_condition": "When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to be believed, not four."
+   },
+   "quote": "By tonight the Seat will have three separate reports that we are moving on the Stormfold road and one that we have already taken the Brine crossing, and all four will be signed by men whose hands their clerks know.",
+   "why": "The lie is the scene's engine and it stands uncorrected at the end. The Ledger has no line for it and the roster is empty, so nothing yet records that the Seat's intelligence is poisoned or who poisoned it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P09",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Lorn Stark",
+    "text": "Lorn Stark holds three reports that do not agree, knows two of them are paid, does not know which two, and the lie stands uncorrected when the muster marches out.",
+    "due_condition": "When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the three."
+   },
+   "quote": "\"Then two of them are being paid and I would like to know which two.\"",
+   "why": "The Kharven side of P08, and the only thing in the scene that stops the deception being total. Both halves are needed or the Ledger cannot say whether the Seat was fooled.",
+   "confidence": "high"
+  },
+  {
+   "id": "P10",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Edward Lambert",
+    "text": "Every channel Edward Lambert runs north of the Ashgate road stopped reporting between the fourth and the fifth hour, and he cannot say whether it is the weather; Sonzai's last confirmed sighting is nine days old and from a man he does not trust.",
+    "due_condition": "When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed closed."
+   },
+   "quote": "The last confirmed sighting is nine days old and it is from a man I do not trust, and every channel I have running north of the Ashgate road stopped reporting between the fourth and the fifth hour this morning, which is either the weather or it is not.",
+   "why": "The Seat's intelligence going dark on the same morning the column comes up that road is the single most consequential unknown in section IV, and no Ledger row carries Edward's network at all.",
+   "confidence": "high"
+  },
+  {
+   "id": "P11",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "Edward Lambert",
+    "text": "Edward Lambert rides the Stormfold road with six riders and no banner under orders to find Sonzai, on his own terms: if he is not back in five days Lorn assumes the road is closed and acts accordingly.",
+    "due_condition": "Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road is assumed closed."
+   },
+   "quote": "I am fifty-three years old and I intend to do it on the Stormfold road with six riders and no banner, and if I am not back in five days you will assume the road is closed and act accordingly",
+   "why": "A deadline stated in words by the man who set it, with a named consequence if it lapses. It is the clearest due_condition in the scene and the thread has no line for it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P12",
+   "tool": "ledger_add",
+   "args": {
+    "category": "debts",
+    "who": "Lorn Stark",
+    "text": "Lorn Stark stood in a room with Hild's mother and made an arrangement about the girl; he has kept every part of it, reckons that keeping it has cost him more than any oath he has sworn to anyone with a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.",
+    "due_condition": "When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what it obliged him to."
+   },
+   "quote": "I stood in a room with her mother and I made an arrangement about that girl and I have kept every part of it and I would like it recorded somewhere that keeping it has cost me more than any oath I have sworn to anyone with a title.",
+   "why": "He asks in his own interior voice for it to be recorded somewhere, which is what the Ledger is. The terms of the arrangement are not on the page and the line does not guess at them. Note the 'nineteen years' figure is the subject of P18.",
+   "confidence": "high"
+  },
+  {
+   "id": "P13",
+   "tool": "ledger_add",
+   "args": {
+    "category": "reputation",
+    "who": "Wren Greymane",
+    "text": "Wren Greymane claims the Greymane banner and the title Shield of the North aloud in front of six hundred men he chose, and then takes two villages under it before noon.",
+    "due_condition": "When the claim reaches Bram, the Seat, or the roll."
+   },
+   "quote": "\"Under the banner of Greymane. The true Greymane. The true Shield of the North.\"",
+   "why": "A reputation claimed in public, in words, in front of six hundred witnesses, and immediately spent on two villages. The wren-greymane Front turns on the name and the roll, and this is where he takes it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P14",
+   "tool": "ledger_add",
+   "args": {
+    "category": "reputation",
+    "who": "the Greymane name",
+    "text": "What Ashgate will describe tonight, if anyone lives to describe it, is a grey wolf: the woman in the doorway saw the banner, cannot read it, and the device is Godfrey's.",
+    "due_condition": "When the first survivor's account of Ashgate is heard anywhere on the Kharven side, or when Bram hears what the grey wolf did at Ashgate."
+   },
+   "quote": "She has seen the banner. She has seen it and she cannot read it and she is going to describe it to somebody tonight if she lives that long, and what she will describe is a grey wolf, and my grandfather is under a stone eight leagues from here.",
+   "why": "The house's reputation is damaged by the thing the column did not even fight for, and Wren names the mechanism himself. It is a distinct cost from P13 and lands on Bram and on Godfrey's name rather than on Wren.",
+   "confidence": "high"
+  },
+  {
+   "id": "P15",
+   "tool": "ledger_add",
+   "args": {
+    "category": "reputation",
+    "who": "Sodoku Moto",
+    "text": "The yard at Kharven-Seat goes quiet in a rolling wave as Sodoku crosses it, which Lorn judges is not the quiet of respect; the men who had never seen the beast make a sound that is not a cheer, and he rides out ahead of the whole muster on it.",
+    "due_after_sessions": 3
+   },
+   "quote": "The men in the yard went quiet in a rolling wave that started where he entered it and went out to the walls, and it was not the quiet of respect exactly, and Lorn had been trying to find the word for it since the boat.",
+   "why": "The PC's standing with his own muster, read by the POV who has been looking for the word for it since the boat. L021 carries his reputation from a different beat; nothing carries the yard.",
+   "confidence": "high"
+  },
+  {
+   "id": "P16",
+   "tool": "ledger_add",
+   "args": {
+    "category": "who knows what",
+    "who": "Seiji Tenrai Moto",
+    "text": "Kujo's generals set the pace and choose the road at the head of Wren's column, and none of them consults Seiji Tenrai Moto, and Seiji does not appear to expect it; whether Seiji knows what he has bought is not settled on the page.",
+    "due_condition": "When the alliance is next asked to agree on anything, or when Seiji gives an order the generals do not take."
+   },
+   "quote": "There were four of them that Wren could name and two that he could not, and none of them consulted Seiji, and Seiji did not appear to expect it.",
+   "why": "The scene's notes call this 'the whole politics of the alliance in one line' and hand the reading to Isaac. Recording it as a knowledge line keeps the open question open instead of resolving it.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P18",
+   "tool": "ledger_add",
+   "args": {
+    "category": "canon conflicts on the ledger (blocking)",
+    "who": "Hild Ice (Stark) and Sodoku Moto",
+    "text": "The scene says nineteen years twice — Seiji on the Ice claim, \"it has been the whole of it for nineteen years\", and Lorn on Sodoku's absence, \"he comes up out of the sea after nineteen years\" — against cards that put Hild at eleven and Sodoku at twenty-two. Nineteen years of absence by a father aged twenty-two, from a daughter aged eleven, does not close. Recorded, not resolved.",
+    "due_condition": "Before any scene on the Kharven thread states an age or a span for Hild, Sodoku or the Ice claim."
+   },
+   "quote": "And he comes up out of the sea after nineteen years and puts his hand on her head, and she lets him.",
+   "why": "Two verbatim 'nineteen years' in the scene against 'Age 11' on Hild's card and 'Age 22' on Sodoku's. An arrangement made nineteen years ago about an eleven-year-old, by a father aged twenty-two, does not close. Recorded, not resolved.",
+   "confidence": "high"
+  },
+  {
+   "id": "P19",
+   "tool": "advance_front",
+   "args": {
+    "front_id": "wren-greymane",
+    "what_happened": "Wren rallied his six hundred under the Greymane banner and the title Shield of the North, marched directly at the Seat behind Kujo's generals and Kaalabad while four false reports ran south, took Ashgate with nobody in the column drawing and a second village beyond it, and understood by the second one that he had misread what he had joined.",
+    "next_move": "Wren is seen, alive, by someone who has read the roll and says nothing yet — or the grey wolf at Ashgate reaches the roll before he does."
+   },
+   "quote": "They took the first village at the eleventh hour and Wren Greymane understood by the second one that he had misread what he had joined.",
+   "why": "The front stands at 0/4 with its 'last' field blank; this scene is the earliest thing recorded about Wren on the thread and gives the front its origin and its want ('Alive, not on the roll'). Flag for Isaac: this scene sits a year of story time before the fronts' recorded states, and the PC saw none of section III, so what_happened is what the page shows rather than what Sodoku saw.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P20",
+   "tool": "advance_front",
+   "args": {
+    "front_id": "bram-greymane",
+    "what_happened": "Bram held a twenty-two-foot breach at the southern reach for four hours against two thousand two hundred, on the same shield he threw down at the ridge — the crack in the boss rebound twice and everyone in the line knowing what it was — and was still facing the gap at the ninth hour on foot, with a dead horse and a forearm he could not feel.",
+    "next_move": "Somebody asks. The shield is the omission's token and three hundred men now know its story; the first question about Wren comes from inside Bram's own line."
+   },
+   "quote": "He rode the length of his own front at a walk with his shield on his arm, the same shield, the one he had thrown down at the ridge and picked back up, and the crack in the boss was still there and had been rebound twice and everyone in the line knew what it was.",
+   "why": "The front's want is 'nobody asks him about Wren's omission from the roll', and this scene puts the token of that omission in front of three hundred witnesses who know what it is. Same chronology caveat as P19: the front's 'last' entry postdates this scene, so Isaac may want this as the front's origin rather than a tick.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P21",
+   "tool": "npc_set",
+   "args": {
+    "name": "Seiji Tenrai Moto",
+    "thread": "Kharven thread, the year after",
+    "want": "the last of a dead line slaughtered and Miku Tenrai Moto seated as the one heir the Tenrai, Amagiri and Akagane all recognise",
+    "refusal_line": "The Ice have no claim. That is the whole of it and it has been the whole of it for nineteen years.",
+    "knows": [
+     "what all four planted reports say and whose hands signed them",
+     "that the column is marching directly while the reports run south",
+     "that a man who believes half of it commits",
+     "that Kujo's generals set the pace and do not consult him",
+     "where Miku Tenrai Moto is kept is withheld: Wren asked once in the fourth month and was answered pleasantly and at length and told nothing, and the page does not say who answered"
+    ],
+    "lied_about": [
+     "three reports that the column is moving on the Stormfold road",
+     "one report that the Brine crossing is already taken"
+    ],
+    "last_seen": "01_wotr_muster_breach_road_north"
+   },
+   "quote": "\"They will believe two of them, which is better. A man who believes everything reconsiders. A man who believes half of it commits.\"",
+   "why": "The roster is empty for this thread and Seiji is the scene's liar-in-chief, with his want, his refusal and three separate lies all in quoted dialogue. The Ledger has him dead later (L004), so his entry has to exist before it can be closed.",
+   "confidence": "high"
+  },
+  {
+   "id": "P22",
+   "tool": "npc_set",
+   "args": {
+    "name": "Wren Greymane",
+    "thread": "Kharven thread, the year after",
+    "want": "to be the true Greymane and the true Shield of the North, in front of every man he chose",
+    "refusal_line": "Every one of you has been called a traitor to your face by somebody you loved. Every one of you took it.",
+    "knows": [
+     "that Bram is at the southern reach this morning with three hundred men and a wall that has already gone",
+     "that the book in his saddlebag exists and nobody else does",
+     "that he has misread what he joined, by the second village",
+     "that something is opening the country ahead of the column and nobody else in it will look at it",
+     "that he chose his six hundred for faith, a word he has never said aloud to any of them"
+    ],
+    "lied_about": [
+     "sixteen months of playing traitor, on his own name"
+    ],
+    "last_seen": "01_wotr_muster_breach_road_north"
+   },
+   "quote": "*Bram would understand the book. That is the obscene part.*",
+   "why": "Roster empty; Wren carries a front and two sections of POV and every field here is quoted. Flag for Isaac: Wren is on R35-2's close-register list alongside PCs, so if he is player-facing rather than an NPC this should be a card entry instead.",
+   "confidence": "medium"
+  },
+  {
+   "id": "P23",
+   "tool": "npc_set",
+   "args": {
+    "name": "Bram Greymane",
+    "thread": "Kharven thread, the year after",
+    "want": "to hold the gap and find out what the words on the charter cost",
+    "refusal_line": "WE DIE HERE OR WE LIVE TO TELL IT. THERE IS NO THIRD THING.",
+    "knows": [
+     "nothing about his own right flank for eleven minutes he experienced as either a moment or an afternoon",
+     "his left only by hearing Renard's voice in it",
+     "that the cold and not courage is what beats the Expanse: three-quarters of a beat late, all of them"
+    ],
+    "last_seen": "01_wotr_muster_breach_road_north"
+   },
+   "quote": "he knew nothing at all about his right for a period he later worked out at eleven minutes and experienced as either a moment or an afternoon",
+   "why": "Roster empty and Bram carries a front. His refusal line is his own shouted words and his knowledge is explicitly bounded by the scene — what he does not know is the point of the section, which is what the roster should carry.",
+   "confidence": "high"
+  },
+  {
+   "id": "P24",
+   "tool": "npc_set",
+   "args": {
+    "name": "Lorn Stark",
+    "thread": "Kharven thread, the year after",
+    "want": "to know which two of the three reports are being paid, and the word for the quiet that goes out to the walls",
+    "refusal_line": "That is the third one of those. And they do not agree.",
+    "knows": [
+     "that the villages on the Ashgate road have stopped answering",
+     "that two of the three reports are paid and not which two",
+     "that the west has gone white three times and nobody can tell him what it was",
+     "the arrangement he made in a room with Hild's mother, kept in every part, and what keeping it has cost him",
+     "the number the Seat's muster comes to, worked out twice and not a third time"
+    ],
+    "last_seen": "01_wotr_muster_breach_road_north"
+   },
+   "quote": "He sent two runners and got back two men who had run four miles in the cold to say that the villages on the Ashgate road had stopped answering, which he already had.",
+   "why": "Roster empty; Lorn is the POV of section IV, holds the scene's two live secrets and ends it with the circlet in his belt. Every field is quoted. He is also unassigned any narration register (see P34), which Isaac may want to settle before the entry lands.",
+   "confidence": "high"
+  },
+  {
+   "id": "P25",
+   "tool": "npc_set",
+   "args": {
+    "name": "Edward Lambert",
+    "thread": "Kharven thread, the year after",
+    "want": "to find Sonzai, because that is the question he has been given",
+    "refusal_line": "I have four names and a direction.",
+    "knows": [
+     "Sonzai's last confirmed sighting is nine days old and from a man he does not trust",
+     "every channel he runs north of the Ashgate road stopped reporting between the fourth and the fifth hour",
+     "that Sodoku wants Sonzai"
+    ],
+    "last_seen": "01_wotr_muster_breach_road_north"
+   },
+   "quote": "\"He wants Sonzai,\" Edward said.",
+   "why": "Roster empty; Edward states his want, his refusal of the word 'nothing', his intelligence and his own five-day deadline in quoted dialogue, then rides out of the scene. The Ledger already carries him twice (L014, L023) with no roster entry behind it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P26",
+   "tool": "card_note",
+   "args": {
+    "target": "Kaalabad",
+    "note": "The card carries no mount and no working of this kind. The scene gives him a nineteen-hand draconic horse — \"It stood nineteen hands and its barrel was plated along the flanks in a pattern that was under the skin instead of on it\", slit nostril, no steam in the cold, \"It made no sound on frozen ground\" — and an unexplained pass up a village street: \"by the time he came back the mill was on fire from the inside without anyone having entered it, and four of the eleven houses had come off their footings and gone over sideways in the same direction\". Two card lines to reconcile: the halberd is \"normally carried 'across the left shoulder'\" where the scene has it \"across his back\"; and the card's \"**Loud on the march:** his boots make more sound than the man walking behind him\" sits against this scene's mounted silence, \"the thing at the front of the column travelled in silence, and the silence was ahead of the noise\". The card's \"**Voice:** `null`\" agrees with \"He had not spoken to anyone since the muster.\""
+   },
+   "quote": "The horse was not a horse. It stood nineteen hands and its barrel was plated along the flanks in a pattern that was under the skin instead of on it",
+   "why": "Two assertions about a character his card does not carry — a named mount and a destructive effect with no mechanism — plus a small carry-position discrepancy. Isaac updates cards; this records what the scene has committed him to.",
+   "confidence": "high"
+  },
+  {
+   "id": "P27",
+   "tool": "card_note",
+   "args": {
+    "target": "Bram Greymane — The Ridge",
+    "note": "Card: \"He threw it once, on the field where his brother smiled at him from behind the Tenrai banner. He picked it up.\" The scene adds detail the card does not carry: \"the crack in the boss was still there and had been rebound twice and everyone in the line knew what it was\" — so the shield's story is public to three hundred men. The scene also gives him an injury the card has no line for: \"on foot by then with a dead horse behind him and his shield strapped to a forearm he could no longer feel\". And the card's \"Role: Commander of the loyalist Greymane forces, holder of the southern approach\" agrees with \"## II. THE SOUTHERN REACH\", while Hild's card says he \"Holds the western approach with half an army\" — the two cards disagree with each other, not with the scene."
+   },
+   "quote": "the same shield, the one he had thrown down at the ridge and picked back up, and the crack in the boss was still there and had been rebound twice",
+   "why": "The rebinding and the line's knowledge of the shield are new; the forearm is a new injury; and the western-versus-southern approach is a card-against-card contradiction this scene surfaces. Recorded, not resolved.",
+   "confidence": "high"
+  },
+  {
+   "id": "P28",
+   "tool": "card_note",
+   "args": {
+    "target": "Hild Ice (Stark) — The Sword Princess",
+    "note": "The card's relationship row reads \"| **Sodoku Moto (father)** | Has never met him. Carries his jaw, his cadence, his blood. Knows him through Fern's stories ... The question behind the sternum: *where were you* |\". In this scene they meet: \"He stopped in front of his daughter and stood there a moment. / Then he put a hand on the back of her head and kissed her hair, and let go, and turned away, and did not say anything that carried as far as the wall.\" The card also has no broken circlet; the scene has her holding it \"in her hand instead of on her head\", then leaving it on the mounting block. And the card's \"**Age:** 11\" sits against the scene's \"nineteen years\" (see the canon-conflict line)."
+   },
+   "quote": "Hild was at the foot of the stair with Tabitha behind her and the broken circlet in her hand instead of on her head.",
+   "why": "A flat contradiction between the card's stated 'Has never met him' and a physical meeting on the page, plus an object the card does not carry. This is the single largest card-versus-scene collision in the file.",
+   "confidence": "high"
+  },
+  {
+   "id": "P29",
+   "tool": "card_note",
+   "args": {
+    "target": "Sodoku Moto",
+    "note": "Card: \"**Standing** Exiled by High Council decree, wanted across multiple territories, **charged with the massacre of the Tenrai main-branch settlement.** Travelling the Scourge of Hell with Yoko and Emira\". In this scene he is in full harness in the yard at Kharven-Seat, commands a muster by his presence — \"The men in the yard went quiet in a rolling wave\" — and rides out ahead of it: \"the thing with Sodoku on its back went out ahead of all of it and did not slow at the threshold\". The mount needs no entry: the card already links the sub-page \"Tōga (冬牙) — Winter Fang\" (Droval, Titan-class, sovereignty recognition bond). He is the PC, so no npc_set touches him; the Standing line is the one thing this scene puts against the card."
+   },
+   "quote": "Sodoku came down the inner stair into the yard in full harness.",
+   "why": "The card's standing is not where the scene has him, and it carries no named mount. He is the PC, so no npc_set touches him — the card is the only place this can land, and Isaac holds the pen on cards.",
+   "confidence": "high"
+  },
+  {
+   "id": "P30",
+   "tool": "card_note",
+   "args": {
+    "target": "Seiji Tenrai Moto (no card in Volume I)",
+    "note": "scene_context lists Seiji, Tenrai Moto, Sonzai and Ashgate under \"Names with no page\". The scene commits numbers and canon to Seiji with no card behind them: \"He was twenty-nine and had the sort of face that agrees with whoever is nearest\"; thirteen months in his company (\"I have been thirteen months in this man's company and I have not once heard him raise his voice\"); and a succession claim — \"The Tenrai recognise one heir. The Amagiri recognise one heir. The Akagane recognise one heir. Miku Tenrai Moto, trueborn to Azure Tenrai Moto, who was High King of the North while these people were still deciding what to call themselves.\" Miku Tenrai Moto and Azure Tenrai Moto have no page either, and the scene's own note leaves whether Miku exists a live question."
+   },
+   "quote": "Miku Tenrai Moto, trueborn to Azure Tenrai Moto, who was High King of the North while these people were still deciding what to call themselves.",
+   "why": "An age, a duration and a three-house succession claim asserted about a character with no card, naming two further people with no page. The Ledger already has Seiji dead (L004) with nothing describing him alive.",
+   "confidence": "high"
+  },
+  {
+   "id": "P31",
+   "tool": "log_ruling",
+   "args": {
+    "rule_id": "R13-D",
+    "ruling": "Applied as ruled: the gap-fill pass changed an outcome Isaac wrote because no cause fit, and said so in the author notes. Isaac's paste had \"Sodoku looked at Kujo\"; Kujo is at the root of the wound in the Void and Sodoku is in a yard at Kharven-Seat, so the line became the west horizon and the wrong-coloured cloud, with the change disclosed and offered back.",
+    "context": "01_wotr_muster_breach_road_north, author notes: \"**One line I could not use as written.** Your paste has *Sodoku looked at Kujo*. ... If you meant something else by it, tell me and I will put it back.\" R13-D is status-superseded with its ruling live; C-019 closed 2026-09-13 with the R13-D ruling governing over R20C-27-GAP_FILL_NEVER_CHANGES_OUTCOME."
+   },
+   "quote": "Your paste has *Sodoku looked at Kujo*. Kujo is at the root of the wound in the Void and Sodoku is in a yard at Kharven-Seat, so I gave him the west horizon and the wrong-coloured cloud instead.",
+   "why": "A ruling exercised in play, on a rule whose superseding conflict is already closed in its favour. Logging it gives R13-D its first recorded application and shows the disclosure duty being met.",
+   "confidence": "high"
+  },
+  {
+   "id": "P33",
+   "tool": "log_ruling",
+   "args": {
+    "rule_id": "R1-3-SCENE_STANDARDS_DEFINED",
+    "ruling": "The Mass Combat Guide was scoped to one section of a four-section scene: section II only, with the sensory hierarchy inverted to sound, pressure, smell, sight. The standards' other provisions were read as in force for sections I, III and IV.",
+    "context": "01_wotr_muster_breach_road_north, author notes: \"**Mass Combat Guide is in force for section II.** Sensory hierarchy inverted to sound, pressure, smell, sight.\" On the page: \"Sound first. ... Then pressure. ... Then the smell ... Then, last, what he could actually see\". R3-8-NAVAL_SENSORY_HIERARCHY carries the land order: \"Section 1's order (sound, pressure, smell, sight) was built for a man in a press.\""
+   },
+   "quote": "Sound. Pressure. Smell. Sight, last, and less of it as the light came up and the fires went out.",
+   "why": "A per-section application of a rule written per-scene. Logging it records the scoping decision, which is what the word-floor and spacer questions (P36, and the four --- rules against 'no section spacers') both turn on.",
+   "confidence": "high"
+  },
+  {
+   "id": "P34",
+   "tool": "log_ruling",
+   "args": {
+    "rule_id": "R6-3-IGNORANCE_QUOTA",
+    "ruling": "Discharged and deliberately left open: Miku Tenrai Moto is given no location, Wren asked once and was told nothing, and whether the boy exists is left as a question the reader holds before any character does. The western horizon is the second undischarged unreadable — \"Nobody could tell him what it was.\"",
+    "context": "01_wotr_muster_breach_road_north, author notes ruling 3: \"*Miku Tenrai Moto* has no location and Wren asked once, was answered pleasantly and at length, and came out knowing nothing.\" The rule reads: \"Minimum one per scene, mandatory. The POV notices something and cannot interpret it. The narration does not rescue him.\""
+   },
+   "quote": "He had asked, once, in the fourth month, where the boy was kept.",
+   "why": "The quota is met and the resolution deferred exactly as the rule requires. Logged so that the later scene that resolves Miku — or that never does — can be checked against the deferral.",
+   "confidence": "high"
+  },
+  {
+   "id": "P35",
+   "tool": "log_ruling",
+   "args": {
+    "rule_id": "R6-9-RECURRENCE_RULE",
+    "ruling": "Seven originations were declared in one scene and entered in the author notes: Stone-Blood latency in deep cold, Wren's book, Ashgate, the mill, Cass Holloway, Egil Vald, and Lorn keeping the circlet. One of them, Stone-Blood latency, was offered back for withdrawal (\"If this is wrong, it is one paragraph and I will pull it\").",
+    "context": "01_wotr_muster_breach_road_north, author notes ruling 6: \"*Ashgate*, the mill, Cass Holloway, Egil Vald and Lorn keeping the circlet are originated.\" The rule reads: \"Identity is repetition. Novelty is its enemy.\" The same scene fails the Kharven recurrence check with 0 of 5 signature items."
+   },
+   "quote": "*Ashgate*, the mill, Cass Holloway, Egil Vald and Lorn keeping the circlet are originated.",
+   "why": "Seven new things and none of the five recurring ones is the exact shape the rule warns about, and the scene declares it openly. Logging the ruling is what makes the inventory entries (P38-P40) owed rather than optional.",
+   "confidence": "high"
+  },
+  {
+   "id": "P36",
+   "tool": "log_ruling",
+   "args": {
+    "rule_id": "R35-2-NARRATION_DISTANCE_ASSIGNMENTS",
+    "ruling": "An assigned close-register character was run entirely from outside, in another character's POV, by decision: Sodoku gets no interiority, no thought, and one word of dialogue, and the reading of him belongs to Lorn.",
+    "context": "01_wotr_muster_breach_road_north, author notes: \"**PC handling.** Sodoku is rendered entirely from outside, in Lorn Stark's POV. No interiority, no dialogue beyond the one word you gave me, no thought attributed to him. ... Lorn supplies the reading and the reading is Lorn's, not his.\" R35-2 puts Sodoku Moto in the close register."
+   },
+   "quote": "Lorn supplies the reading and the reading is Lorn's, not his.",
+   "why": "A live rule applied against its own grain, deliberately, and disclosed. It is also the fact the rule question in P42 rests on, so the application should be on the record whichever way Isaac rules.",
+   "confidence": "high"
+  },
+  {
+   "id": "P37",
+   "tool": "propose_rule",
+   "args": {
+    "title": "Stone-Blood latency in deep cold",
+    "rule_text": "Goblinoid mineral tissue runs slower as ambient temperature falls. Sustained deep cold without fire or shelter does not weaken a Stone-Blood formation and does not break its discipline; it puts the whole formation fractionally behind its own count. The effect is latency, not weakness, and it is written as timing rather than as failing strength. It is cumulative over nights of exposure and it is uniform across the formation, which is what makes it exploitable: a body drilled to a signal that arrives on time cannot correct for its own late arrival. Nothing here amends the Crimson Order's stated key limitations.",
+    "applies_to": [
+     "worldbuilding",
+     "mass-combat",
+     "adjudication",
+     "magic-mechanism"
+    ],
+    "rationale": "The scene originates the effect on the author's own motion and offers to withdraw it: \"*Stone-Blood in deep cold* is originated. Not weakness, latency. If this is wrong, it is one paragraph and I will pull it.\" No rule id exists for it. The nearest canon, wiki/Races & Peoples/The Goblinoid Peoples.md, states \"**Stone-Blood is not a metaphor.** It is a literal spiritual designation: the mineral density of asteroidal material persists in the blood of all goblinoid peoples as Aetheric matter\", and lists the Crimson Order's key limitations as the Brittle Vow and Emotional Null with no cold clause. The whole outcome of section II rests on the effect, so it is either a rule or a paragraph that comes out."
+   },
+   "quote": "They were not weak. They were three-quarters of a beat late, all of them, and the lateness was the only currency Bram's men had.",
+   "why": "The scene's load-bearing mechanism has no rule behind it and its author asked for a verdict. Either it becomes a rule that other cold-weather scenes can use, or the paragraph is pulled and the hold at the breach needs a different cause.",
+   "confidence": "high"
+  },
+  {
+   "id": "P38",
+   "tool": "propose_rule",
+   "args": {
+    "title": "No POV runs without an assigned narration register",
+    "rule_text": "A scene may not be written from the POV of a character to whom no narration register has been assigned. The register is assigned before the scene, not inferred from it. Until a register exists for that character, R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK cannot be applied to the section, and R4-13-FID_CARVEOUT's idiom test — \"The sentence is in the POV character's idiom, could be wrong, and reveals the character doing the interpreting\" — has no standard to test against, so a flagged gloss in that section is neither licensed nor struck and stands recorded.",
+    "applies_to": [
+     "pov",
+     "register",
+     "prose-law",
+     "scene-structure"
+    ],
+    "rationale": "R35-2-NARRATION_DISTANCE_ASSIGNMENTS names close, medium and distant/formal casts and an unassigned list (\"Unassigned, pending scenes in their own idiom: Hild Ice (Stark), Dabney (Corvalen Olyss)\"). Neither Bram Greymane nor Lorn Stark appears anywhere on it, and this scene runs both interior: Bram's eleven minutes of not knowing his right, and Lorn's \"*Nineteen years.*\" Two consequences are already live in this file: R39-7-NO_NPC_THOUGHT_UNDER_POV_LOCK cannot be applied to sections II and IV because their POV lock is unknown, and the verifier's gloss WARN on \"which meant he had put it on in the dark and by himself\" turns on whether that is Lorn's own idiom, which cannot be answered without his register."
+   },
+   "quote": "*I stood in a room with her mother and I made an arrangement about that girl and I have kept every part of it and I would like it recorded somewhere that keeping it has cost me more than any oath I have sworn to anyone with a title.*",
+   "why": "Two of the scene's three POVs are unassigned, and that single gap blocks two other checks (the NPC-thought lock and the gloss carve-out) from being applied at all. The typo note in the rule_text's rule id reference is R4-13-FID_CARVEOUT — Isaac should correct it on approval.",
+   "confidence": "high"
+  },
+  {
+   "id": "P39",
+   "tool": "propose_rule",
+   "args": {
+    "title": "A close-register character rendered from outside",
+    "rule_text": "A character assigned the close register may be the object of another POV's reading rather than the POV. When that happens the assignment does not travel: the character gets no interiority, no italic thought and no interpretive summary of his own, and every reading of him on the page belongs to the POV doing the reading and may be wrong. The scene states in its notes that it is doing this and names whose reading it is.",
+    "applies_to": [
+     "pov",
+     "register",
+     "prose-law"
+    ],
+    "rationale": "R35-1-NARRATION_DISTANCE_BANDS defines the close register as \"Narration fuses with the character's own idiom. Sustained italicized direct thought is available\", and R35-2 assigns Sodoku Moto to it with the caution \"no interpretive-summary sentences past Sodoku's procedural read.\" Neither row says what governs when a close-register character is looked at instead of looked through. This scene did it deliberately and disclosed it, and the practice is going to recur every time a PC is in another POV's scene."
+   },
+   "quote": "Sodoku is rendered entirely from outside, in Lorn Stark's POV. No interiority, no dialogue beyond the one word you gave me, no thought attributed to him.",
+   "why": "The gap is real: an assigned register tells you how to write a character as POV and says nothing about writing him as a subject. The scene's handling is a clean candidate rule and Isaac only has to approve or reject the shape.",
+   "confidence": "high"
+  },
+  {
+   "id": "P42",
+   "tool": "propose_rule",
+   "args": {
+    "title": "Whether a later scene discharges a battle's aftermath",
+    "rule_text": "The aftermath a battle owes may be discharged by a later scene rather than by the file that carries the fighting, on two conditions: the later scene is named as the discharge when the battle is written, and it touches at least two of the five aftermath stages. A battle whose aftermath is deferred to no named scene has not met the standard, and a file that ends when the fighting ends owes the aftermath until a named scene pays it.",
+    "applies_to": [
+     "scene-structure",
+     "mass-combat",
+     "prose-law",
+     "session-protocol"
+    ],
+    "rationale": "R1-3-WORD_FLOOR_INCLUDES_AFTERMATH: \"A battle sequence that ends when the fighting ends has not met the standard regardless of its length.\" R1-3-AFTERMATH_IS_WHERE_IT_HAPPENS: \"the interior action of a battle occurs in its aftermath.\" R1-3-FIVE_STAGE_AFTERMATH names the five stages and requires \"at least two\". R1-3-PLAN_AFTERMATH_FIRST: \"If you cannot state what the aftermath scene is for before you write the battle, the battle has no reason to be in the book.\" No row says whether a separate archived scene satisfies the unit. Section II ends on the fighting — \"pulled his axe out of it and turned round to face the gap again\" — and the notes leave it open: \"**Open.** Whether Bram's line holds past the ninth hour.\""
+   },
+   "quote": "put his boot on the chest of something that had stopped moving and pulled his axe out of it and turned round to face the gap again",
+   "why": "Either this file owes an aftermath it does not have, or a later scene owes it and no rule names which. The Ledger cannot price the hold at the breach until the answer exists — only Egil Vald is counted on the page.",
+   "confidence": "high"
+  },
+  {
+   "id": "P44",
+   "tool": "timeline_note",
+   "args": {
+    "target": "01_wotr_muster_breach_road_north",
+    "note": "The in-world moment as stated: \"*Four places, the same morning.*\" Four places in that morning — the muster field eight leagues south of the Tenrai camp, the southern reach where forty feet of wall had gone in the night, the Ashgate road, and Kharven-Seat. Hours as the text gives them: messengers out at the second hour; the Expanse through the breach from the second hour, still coming at the fifth, still coming at the ninth; Bram holds the twenty-two-foot gap four hours; the first village taken at the eleventh hour; Lorn on the wall since the fourth hour, third runner in at the seventh; Edward's channels north of the Ashgate road stop reporting between the fourth and the fifth hour. Deep winter: \"thirty below on a fourth night with no fires and no shelter\" for the besiegers, \"eleven winters\" of frost already in the mortar course, and Wren's own muster \"men who have slept in mail for eleven nights\". No date, month or year is named on the page. Row #80 reads \"Four places, the same morning. The messengers at the second hour\", which is accurate."
+   },
+   "quote": "*Four places, the same morning.*",
+   "why": "The row's moment is fully stated by the text and needs no inference, and the duplicate placement under row #68 is the one thing a timeline row must not silently carry. Recorded here and in the canon-conflict line, resolved in neither.",
+   "confidence": "high"
+  },
+  {
+   "id": "P45",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Kharven",
+    "note": "`verify --band standard --combat` reports \"FAIL Kharven recurrence: 0 of the five signature items present (none); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)\" — none of the woodpile / how's your stack, the night-stone, wet wood, the Thin Weeks, or the death-house / the Waiting appears in 4,431 words set in four Kharven places. The same file originates seven new things instead. R20C-47-CRAFTS_OWE_THE_INVENTORY: \"Each craft owes the Standing Inventory a household object, an oath and a proverb. Kharven's ledger holds none and gets them next Kharven scene.\" What the scene does supply in their place, if Isaac wants any of it entered as Kharven idiom rather than as novelty: the rotation on a whistle every eighty count, front rank to rear through the gaps in the second; and two shouted lines, \"RAGE. LET THE NORTHERN COLD GUIDE YOU.\" and \"FOR THE GLORY OF KHARVEN.\""
+   },
+   "quote": "They rotated on a whistle every eighty count, front rank to the rear through the gaps in the second, and it worked for the first nine rotations",
+   "why": "A hard FAIL against a live rule, on the culture whose inventory ledger is already recorded as empty and owed. The debt compounds: this scene was the next Kharven scene and it added novelty instead of recurrence.",
+   "confidence": "high"
+  },
+  {
+   "id": "P46",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Wren's book",
+    "note": "Originated this scene and owed the Standing Inventory under R6-9-RECURRENCE_RULE. A book Wren Greymane keeps in his saddlebag, in which he has entered three of his own men killed by their own kin. Nobody knows it exists. The notes state what it is for: \"It exists so the smile across the dead men at the ridge has something under it, and so Bram is the only man alive who would read it and hand it back without a word.\" It recurs already — 03_wren_three_deliveries has it \"Left saddlebag, under the oilcloth, on a horse he slapped away himself\" — so the Inventory entry should carry the saddlebag, the oilcloth, and the fact that entries are made by hand and by name."
+   },
+   "quote": "Three of them had been killed by their own kin and Wren had entered all three in a book he kept in his saddlebag and had told nobody about the book.",
+   "why": "An invented object that already recurs across two scenes, which is exactly what the recurrence rule wants held rather than re-invented. Its physical details differ slightly between the two scenes, so pinning them now prevents a third version.",
+   "confidence": "high"
+  },
+  {
+   "id": "P47",
+   "tool": "inventory_note",
+   "args": {
+    "target": "the broken circlet",
+    "note": "Originated as a kept object this scene under R6-9-RECURRENCE_RULE, declared in the notes (\"Lorn keeping the circlet\"). It is broken; Hild holds it in her hand rather than wearing it; she sets it on the mounting block and forgets it; Lorn picks it up and puts it in his belt, which is where the scene ends. The Inventory should carry where it is (Lorn's belt), that it is broken and not mended, and that the last person to wear it did not wear it. The scene's own open question is what it becomes: kept, returned, or used."
+   },
+   "quote": "picked up the broken circlet where Hild had set it on the mounting block and forgotten it, and put it in his belt",
+   "why": "The scene's last physical action, and an object that has now changed hands with nobody saying a word about it. It is the kind of thing that gets re-invented in a different shape three scenes later unless the Inventory holds it.",
+   "confidence": "high"
+  },
+  {
+   "id": "P48",
+   "tool": "inventory_note",
+   "args": {
+    "target": "Ashgate and its mill",
+    "note": "Originated this scene under R6-9-RECURRENCE_RULE and listed in the notes (\"*Ashgate*, the mill\"). A village on the road between the Tenrai camp and Kharven-Seat: eleven houses and a mill, on a single street, with a doorway a woman can stand in with a child on her hip. After Kaalabad's one pass: the mill burning from the inside with nobody having entered it, and four of the eleven houses off their footings and over sideways \"in the same direction\", with people in three. The Ashgate road is named twice more in the file — the villages on it stop answering, and Edward's channels north of it go dark — and scene_context lists Ashgate under \"Names with no page\"."
+   },
+   "quote": "The first village was called Ashgate and had eleven houses and a mill.",
+   "why": "A new place with a stated count, a road named after it, and no page. Three later beats in this same file hang off the Ashgate road, so the Inventory needs it before another scene gives the village a different size.",
+   "confidence": "high"
+  }
+ ],
+ "rejected": [
+  {
+   "id": "P02",
+   "tool": "ledger_add",
+   "reason": "Fails (2) and miscategorises. The page says only 'there were people in three of them'; no death is stated, and the proposal's own text concedes 'the scene does not say whether they lived' — a line filed under 'the dead' for people the page never kills. 'nobody counted' appears nowhere in the scene. Causation by Kaalabad is also inference: the page says only 'by the time he came back'. The Ashgate facts are carried without over-claim by P48 and the reputation cost by P14."
+  },
+  {
+   "id": "P05",
+   "tool": "ledger_add",
+   "reason": "Fails (2): the page says Cass 'had not been permitted to attend, and had asked once, and had been refused' — passive throughout, with no agent named. 'Wren Greymane refused Cass Holloway leave' and 'the refusal is Wren's to answer for' are an inference dressed as fact, and under a sixteen-month traitor cover the refusing authority is exactly what the scene withholds. The args also point two ways: who='Cass Holloway' while the debt is assigned to Wren. P06 carries the priced cost of the six hundred without the invented agent."
+  },
+  {
+   "id": "P17",
+   "tool": "ledger_add",
+   "reason": "Fails (2) — the conflict is not one. scenes/commencement_of_the_curia_kujo_arc.md is the parent arc transcript: I checked every archived scene against it and 33 of them sit inside it at 63-99% line overlap (aurelian_word_under_the_hammer 0.99, 03_wren_three_deliveries 0.87, 04_sodoku 0.84, 02_wren_bulwark 0.75), this file's prose being one contiguous block from :2300. Row #68's moment is the arc file's own opening, 'Beneath the Grand Church at Altherion. The eleventh day into the fourteenth', not a rival placement for the muster. 'The same prose end to end' is also inexact: the title, the epigraph '*Four places, the same morning.*', all four section headings, the Notes and two prose lines ('He got to the end of the line and came back.', '\"So you have nothing.\"') are absent from the commencement copy. A blocking canon-conflict row asserting one of the two timeline rows is wrong would put a false conflict on the Ledger."
+  },
+  {
+   "id": "P32",
+   "tool": "log_ruling",
+   "reason": "Fails (2): the quote cannot support the claim. R1-3-NAME_THREE_RULE reads 'Replacement standard: name three. No more than three characters carry interiority through a battle sequence' — a cap on interiority, not on names. Cass Holloway, Egil Vald and Renard carry no interiority at all, and section II contains zero italic beats, so logging this as the cap 'applied and satisfied' by those three would enter a misreading of a live rule into the record. If anything satisfies the cap file-wide it is Wren, Bram and Lorn, and the 12 italic beats the verifier counts need no reconciling because the rule only suspends the one-thought-per-NPC standard inside mass combat."
+  },
+  {
+   "id": "P40",
+   "tool": "propose_rule",
+   "reason": "Fails (2): the rationale's load-bearing claim about the scene is false. Section II does carry a thing its POV notices and cannot interpret — 'the smell, which was hot iron and lamp oil and something mineral and dry that came off their skin and that nobody in Kharven had a word for' — and 'Bram Greymane had no idea whether it was going well' with eleven minutes of knowing nothing about his right. So the file does not 'fail on a per-POV reading', and the consequence the proposal rests on ('whether section II is finished') does not arise. The three rule quotes are accurate, so the abstract question can be re-proposed, but not on this scene's evidence."
+  },
+  {
+   "id": "P41",
+   "tool": "propose_rule",
+   "reason": "Fails (1) and (2). The only quote is verifier output, not scene text. And the WARN is an artifact of the flag the gather used: build/verify.py has BANDS = {'conversational': (300, 700), 'standard': (700, 1500), 'set-piece': (2500, 10**9)}, so a 4,431-word four-place set piece run as --band standard is being measured against a band it was never in; under --band set-piece it clears a 2,500 floor with no ceiling, which is exactly R1-3-SCENE_STANDARDS_DEFINED's 'minimum 2,500 words'. Nothing points opposite ways at this file, and the proposed rule would carve an exemption from a ceiling that does not apply. If Isaac wants the real question — a code band with no extracted rule row behind it — it is a docket item about verify.py, not a mass-combat length rule."
+  },
+  {
+   "id": "P43",
+   "tool": "propose_rule",
+   "reason": "Fails (2): it dresses a non-collision as one. R13-A governs what is in a mouth — 'Joules and metres per second in a Measurewright's or Guild officer's mouth only' (applies_to dialogue, register, combat) — and 'at thirty below' is narration, names no unit and no scale, and sits on the weight-and-reach side of the line the rule itself draws. So 'a ruling either licenses it or the section loses its cause' is false; nothing forbids the figure. C-017 is already closed (2026-09-13, the R13-A ruling governs), so there is no live ambiguity to settle either. A rule row for this would be a row for nothing."
+  },
+  {
+   "id": "P49",
+   "tool": "conflict_note",
+   "reason": "Fails (3) as redundant, and has nowhere to land. It carries the same quote and the same claim as P31, which is the proper record; C-019 is already closed with the R13-D ruling recorded against it and R20C-27 marked 'Superseded on arrival (closes C-019)' in the rule row itself, so nothing is missing. CONFLICTS.md's own format is 'Append, do not rewrite. One row per conflict' with no slot for a note on a closed row. If the licence's first exercise is worth recording, P31 records it."
+  }
+ ],
+ "applied": [
+  {
+   "id": "P01",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L035 under 'the dead'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P03",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L036 under 'injuries and reserve'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P04",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L037 under 'injuries and reserve'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P06",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L038 under 'debts'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P07",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L039 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P08",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L040 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P09",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L041 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P10",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L042 under 'who knows what'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P11",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L043 under 'debts'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P12",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L044 under 'debts'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P13",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L045 under 'reputation'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  },
+  {
+   "id": "P15",
+   "tool": "ledger_add",
+   "when": "2026-09-25",
+   "result": "entered L046 under 'reputation'; push failed:  behind its remote\nhint: counterpart. If you want to integrate the remote changes, use 'git pull'\nhint: before pushing again.\nhint: See the 'Note about fast-forwards' in 'git push --help' for details."
+  }
+ ]
+}

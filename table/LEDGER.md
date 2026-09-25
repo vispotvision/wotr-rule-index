@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 42 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 43 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -33,6 +33,7 @@ Generated from table/ledger.yaml by WOTR MCP. 42 open lines. `due()` says what c
 - `L033` A match Mu-jin sanctioned and monitored ended with the arena ward cracked across a third of the dome, a trench torn the length of the ring, and a sheet of transmogrified metal burned down through sand, clay and stone a spread hand from a student's hip, with Mu-jin's own vial spent to stop a killing shot. The Headmaster said he would know if anyone blew something up. Someone answers for the floor, and for why it was allowed to go that far.  *(due: 1)*
 - `L038` Wren Greymane chose six hundred men for faith and spent sixteen months of it: they were spat at in their own villages, eleven of them have wives who stopped writing, and three were killed by their own kin.  *(due: When the six hundred learn what the sixteen months bought, or when anyone outside the column is told the cover was ordered.)*
 - `L043` Edward Lambert rides the Stormfold road with six riders and no banner under orders to find Sonzai, on his own terms: if he is not back in five days Lorn assumes the road is closed and acts accordingly.  *(due: Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road is assumed closed.)*
+- `L044` Lorn Stark stood in a room with Hild's mother and made an arrangement about the girl; he has kept every part of it, reckons that keeping it has cost him more than any oath he has sworn to anyone with a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.  *(due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what it obliged him to.)*
 
 ## who knows what
 

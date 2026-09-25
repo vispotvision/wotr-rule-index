@@ -408,3 +408,14 @@
   due: 'Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road
     is assumed closed.'
   status: open
+- id: L044
+  category: debts
+  who: Lorn Stark
+  text: Lorn Stark stood in a room with Hild's mother and made an arrangement about the girl; he has kept
+    every part of it, reckons that keeping it has cost him more than any oath he has sworn to anyone with
+    a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what
+    it obliged him to.
+  status: open

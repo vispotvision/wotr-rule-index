@@ -387,3 +387,14 @@
   due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the
     three.
   status: open
+- id: L042
+  category: who knows what
+  who: Edward Lambert
+  text: Every channel Edward Lambert runs north of the Ashgate road stopped reporting between the fourth
+    and the fifth hour, and he cannot say whether it is the weather; Sonzai's last confirmed sighting
+    is nine days old and from a man he does not trust.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed
+    closed.
+  status: open

@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 40 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 41 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -45,6 +45,7 @@ Generated from table/ledger.yaml by WOTR MCP. 40 open lines. `due()` says what c
 - `L039` Only Wren Greymane knows the book in his saddlebag exists, with three of his own men killed by their own kin entered in it; he has told nobody.  *(due: When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without a word.)*
 - `L040` Seiji Tenrai Moto sent four riders out on four routes at the second hour: by tonight the Seat is to have three reports that the column is moving on the Stormfold road and one that the Brine crossing is already taken, all four signed by hands the Seat's clerks know. Three had reached Lorn Stark by the seventh hour. The column marches directly at the Seat.  *(due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to be believed, not four.)*
 - `L041` Lorn Stark holds three reports that do not agree, knows two of them are paid, does not know which two, and the lie stands uncorrected when the muster marches out.  *(due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the three.)*
+- `L042` Every channel Edward Lambert runs north of the Ashgate road stopped reporting between the fourth and the fifth hour, and he cannot say whether it is the weather; Sonzai's last confirmed sighting is nine days old and from a man he does not trust.  *(due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed closed.)*
 
 ## reputation
 

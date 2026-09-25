@@ -7,8 +7,9 @@
    "imports/essence-ledger/anchors.json",
    "imports/essence-ledger/fit.json"
   ],
-  "working_constant_j_per_eu": 1000.0,
-  "note": "the working constant is the draft's, not a ruling. C-034 is open and chooses none of the readings; every table here is marked pending on it in the Part."
+  "working_constant_j_per_eu": 1000000.0,
+  "constant_ruled_by": "R44-1 (RULINGS.md, 2026-09-25 entry, C-034): 'One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error.'",
+  "note": "the constant is ruled, not chosen. `constant_fit` reports the measured windows and `physics-check.md` the physical brackets that the ruled constant misses; those are residuals recorded against the ruling, never a reason to move it."
  },
  "constant_fit": {
   "pairs": [
@@ -84,7 +85,7 @@
   ],
   "best_k": 1061.695557198609,
   "candidates": {
-   "brief, 1 EU = 1 MJ": {
+   "RULED (R44-1), 1 EU = 1 MJ": {
     "k_j_per_eu": 1000000.0,
     "sum_sq_decades": 21.47818423327876,
     "in_band": 0,
@@ -2435,8 +2436,8 @@
    "j_high": 15000.0,
    "tnt_low": 1.4340344168260038e-08,
    "tnt_high": 3.5850860420650095e-06,
-   "eu_to_buy_ceiling_at_k": 15.0,
-   "eu_to_buy_floor_at_k": 0.06
+   "eu_to_buy_ceiling_at_k": 0.015,
+   "eu_to_buy_floor_at_k": 6e-05
   },
   {
    "tier": "2 · Apprentice",
@@ -2453,8 +2454,8 @@
    "j_high": 20920000.0,
    "tnt_low": 3.5850860420650095e-06,
    "tnt_high": 0.005,
-   "eu_to_buy_ceiling_at_k": 20920.0,
-   "eu_to_buy_floor_at_k": 15.0
+   "eu_to_buy_ceiling_at_k": 20.92,
+   "eu_to_buy_floor_at_k": 0.015
   },
   {
    "tier": "3 · Journeyman",
@@ -2471,8 +2472,8 @@
    "j_high": 1046000000.0,
    "tnt_low": 0.005,
    "tnt_high": 0.25,
-   "eu_to_buy_ceiling_at_k": 1046000.0,
-   "eu_to_buy_floor_at_k": 20920.0
+   "eu_to_buy_ceiling_at_k": 1046.0,
+   "eu_to_buy_floor_at_k": 20.92
   },
   {
    "tier": "4 · Adept",
@@ -2489,8 +2490,8 @@
    "j_high": 46024000000.0,
    "tnt_low": 0.25,
    "tnt_high": 11.0,
-   "eu_to_buy_ceiling_at_k": 46024000.0,
-   "eu_to_buy_floor_at_k": 1046000.0
+   "eu_to_buy_ceiling_at_k": 46024.0,
+   "eu_to_buy_floor_at_k": 1046.0
   },
   {
    "tier": "5 · Expert",
@@ -2507,8 +2508,8 @@
    "j_high": 4184000000000.0,
    "tnt_low": 11.0,
    "tnt_high": 1000.0,
-   "eu_to_buy_ceiling_at_k": 4184000000.0,
-   "eu_to_buy_floor_at_k": 46024000.0
+   "eu_to_buy_ceiling_at_k": 4184000.0,
+   "eu_to_buy_floor_at_k": 46024.0
   },
   {
    "tier": "6 · Master",
@@ -2528,8 +2529,8 @@
    "j_high": 418400000000000.0,
    "tnt_low": 1000.0,
    "tnt_high": 100000.0,
-   "eu_to_buy_ceiling_at_k": 418400000000.0,
-   "eu_to_buy_floor_at_k": 4184000000.0
+   "eu_to_buy_ceiling_at_k": 418400000.0,
+   "eu_to_buy_floor_at_k": 4184000.0
   },
   {
    "tier": "7 · Grandmaster",
@@ -2546,8 +2547,8 @@
    "j_high": 4.184e+21,
    "tnt_low": 100000.0,
    "tnt_high": 1000000000000.0,
-   "eu_to_buy_ceiling_at_k": 4.184e+18,
-   "eu_to_buy_floor_at_k": 418400000000.0
+   "eu_to_buy_ceiling_at_k": 4184000000000000.0,
+   "eu_to_buy_floor_at_k": 418400000.0
   },
   {
    "tier": "8 · Archmaster",
@@ -2567,8 +2568,8 @@
    "j_high": 6.905999999999999e+37,
    "tnt_low": 1000000000000.0,
    "tnt_high": 1.6505736137667303e+28,
-   "eu_to_buy_ceiling_at_k": 6.905999999999999e+34,
-   "eu_to_buy_floor_at_k": 4.184e+18
+   "eu_to_buy_ceiling_at_k": 6.905999999999999e+31,
+   "eu_to_buy_floor_at_k": 4184000000000000.0
   },
   {
    "tier": "9 · Paragon",
@@ -2586,7 +2587,7 @@
    "tnt_low": 1.6505736137667303e+28,
    "tnt_high": null,
    "eu_to_buy_ceiling_at_k": null,
-   "eu_to_buy_floor_at_k": 6.905999999999999e+34
+   "eu_to_buy_floor_at_k": 6.905999999999999e+31
   }
  ],
  "drain": [
@@ -2598,13 +2599,13 @@
    "au_s": 670000000000000.0,
    "eta": 0.94,
    "eta_from": "card, Gimbzo.md:62",
-   "reserve_j": 4.8e+17,
-   "power_w": 6.7e+17,
+   "reserve_j": 4.8e+20,
+   "power_w": 6.7e+20,
    "seconds_to_empty": 0.7164179104477612,
    "seconds_to_starvation": 0.6447761194029851,
-   "waste_w": 4.020000000000004e+16,
-   "seconds_to_lethal_rise": 3.0472636815921885e-11,
-   "shed_fraction": 4.975124378109448e-14,
+   "waste_w": 4.020000000000004e+19,
+   "seconds_to_lethal_rise": 3.047263681592037e-14,
+   "shed_fraction": 4.9751243781094474e-17,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Gimbzo.md",
     "line": 61
@@ -2619,13 +2620,13 @@
    "au_s": 5100000.0,
    "eta": 0.9,
    "eta_from": "card, Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md:16",
-   "reserve_j": 5500000000.0,
-   "power_w": 5100000000.0,
+   "reserve_j": 5500000000000.0,
+   "power_w": 5100000000000.0,
    "seconds_to_empty": 1.0784313725490196,
    "seconds_to_starvation": 0.9705882352941176,
-   "waste_w": 509999999.9999999,
-   "seconds_to_lethal_rise": 0.002401970203804721,
-   "shed_fraction": 3.921568627450981e-06,
+   "waste_w": 509999999999.9999,
+   "seconds_to_lethal_rise": 2.4019607937331803e-06,
+   "shed_fraction": 3.921568627450981e-09,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
     "line": 141
@@ -2640,13 +2641,13 @@
    "au_s": 5200.0,
    "eta": 0.93,
    "eta_from": "card, Iracordas.md:52",
-   "reserve_j": 16800000.0,
-   "power_w": 5200000.0,
+   "reserve_j": 16800000000.0,
+   "power_w": 5200000000.0,
    "seconds_to_empty": 3.230769230769231,
    "seconds_to_starvation": 2.9076923076923076,
-   "waste_w": 363999.99999999977,
-   "seconds_to_lethal_rise": 3.3839779005524884,
-   "shed_fraction": 0.005494505494505498,
+   "waste_w": 363999999.99999976,
+   "seconds_to_lethal_rise": 0.003365403106610478,
+   "shed_fraction": 5.494505494505498e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Iracordas.md",
     "line": 51
@@ -2661,13 +2662,13 @@
    "au_s": 7600.0,
    "eta": 0.84,
    "eta_from": "card, Artemis Amagiri Moto.md:59",
-   "reserve_j": 41800000.0,
-   "power_w": 7600000.0,
+   "reserve_j": 41800000000.0,
+   "power_w": 7600000000.0,
    "seconds_to_empty": 5.5,
    "seconds_to_starvation": 4.95,
-   "waste_w": 1216000.0000000002,
-   "seconds_to_lethal_rise": 1.0090609555189454,
-   "shed_fraction": 0.0016447368421052628,
+   "waste_w": 1216000000.0000002,
+   "seconds_to_lethal_rise": 0.0010074029727022576,
+   "shed_fraction": 1.6447368421052628e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
     "line": 58
@@ -2682,13 +2683,13 @@
    "au_s": 480.0,
    "eta": 0.89,
    "eta_from": "card, Yukazuri Moto.md:40",
-   "reserve_j": 3100000.0,
-   "power_w": 480000.0,
+   "reserve_j": 3100000000.0,
+   "power_w": 480000000.0,
    "seconds_to_empty": 6.458333333333333,
    "seconds_to_starvation": 5.8125,
-   "waste_w": 52800.0,
-   "seconds_to_lethal_rise": 24.114173228346456,
-   "shed_fraction": 0.03787878787878788,
+   "waste_w": 52800000.0,
+   "seconds_to_lethal_rise": 0.02320163642562218,
+   "shed_fraction": 3.787878787878788e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
     "line": 40
@@ -2703,13 +2704,13 @@
    "au_s": 420000,
    "eta": 0.81,
    "eta_from": "page, line 101",
-   "reserve_j": 2800000000.0,
-   "power_w": 420000000.0,
+   "reserve_j": 2800000000000.0,
+   "power_w": 420000000000.0,
    "seconds_to_empty": 6.666666666666667,
    "seconds_to_starvation": 6.0,
-   "waste_w": 79799999.99999997,
-   "seconds_to_lethal_rise": 0.01535126193638939,
-   "shed_fraction": 2.5062656641604018e-05,
+   "waste_w": 79799999999.99997,
+   "seconds_to_lethal_rise": 1.5350877577716236e-05,
+   "shed_fraction": 2.506265664160402e-08,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
     "line": 100
@@ -2722,15 +2723,15 @@
    "tier": "5 · Expert",
    "eu": 2460.0,
    "au_s": 340.0,
-   "eta": 0.55,
-   "eta_from": "Part Nineteen, Tier 5 midpoint",
-   "reserve_j": 2460000.0,
-   "power_w": 340000.0,
+   "eta": 0.89,
+   "eta_from": "card, Naiser Yukari.md:60 (R44-5; missed by fit.json)",
+   "reserve_j": 2460000000.0,
+   "power_w": 340000000.0,
    "seconds_to_empty": 7.235294117647059,
    "seconds_to_starvation": 6.511764705882353,
-   "waste_w": 152999.99999999997,
-   "seconds_to_lethal_rise": 8.112582781456956,
-   "shed_fraction": 0.013071895424836603,
+   "waste_w": 37400000.0,
+   "seconds_to_lethal_rise": 0.0327557623402321,
+   "shed_fraction": 5.3475935828877e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
     "line": 59
@@ -2745,13 +2746,13 @@
    "au_s": 18500.0,
    "eta": 0.96,
    "eta_from": "card, Naevra Yukari.md:51",
-   "reserve_j": 185000000.0,
-   "power_w": 18500000.0,
+   "reserve_j": 185000000000.0,
+   "power_w": 18500000000.0,
    "seconds_to_empty": 10.0,
    "seconds_to_starvation": 9.0,
-   "waste_w": 740000.0000000007,
-   "seconds_to_lethal_rise": 1.6598915989159877,
-   "shed_fraction": 0.0027027027027027003,
+   "waste_w": 740000000.0000007,
+   "seconds_to_lethal_rise": 0.001655409879486159,
+   "shed_fraction": 2.7027027027027e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
     "line": 50
@@ -2766,13 +2767,13 @@
    "au_s": 4200.0,
    "eta": 0.4,
    "eta_from": "card, Naori Yukari.md:28",
-   "reserve_j": 42000000.0,
-   "power_w": 4200000.0,
+   "reserve_j": 42000000000.0,
+   "power_w": 4200000000.0,
    "seconds_to_empty": 10.0,
    "seconds_to_starvation": 9.0,
-   "waste_w": 2520000.0,
-   "seconds_to_lethal_rise": 0.48649722001588563,
-   "shed_fraction": 0.0007936507936507937,
+   "waste_w": 2520000000.0,
+   "seconds_to_lethal_rise": 0.00048611149691388646,
+   "shed_fraction": 7.936507936507937e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
     "line": 28
@@ -2787,13 +2788,13 @@
    "au_s": 780.0,
    "eta": 0.91,
    "eta_from": "card, Vethraun Ashmaw.md:67",
-   "reserve_j": 9400000.0,
-   "power_w": 780000.0,
+   "reserve_j": 9400000000.0,
+   "power_w": 780000000.0,
    "seconds_to_empty": 12.051282051282051,
    "seconds_to_starvation": 10.846153846153847,
-   "waste_w": 70199.99999999997,
-   "seconds_to_lethal_rise": 17.96187683284458,
-   "shed_fraction": 0.0284900284900285,
+   "waste_w": 70199999.99999997,
+   "seconds_to_lethal_rise": 0.01745063961936238,
+   "shed_fraction": 2.8490028490028502e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
     "line": 66
@@ -2808,13 +2809,13 @@
    "au_s": 38400.0,
    "eta": 0.89,
    "eta_from": "card, Niran Yukari.md:28",
-   "reserve_j": 485000000.0,
-   "power_w": 38400000.0,
+   "reserve_j": 485000000000.0,
+   "power_w": 38400000000.0,
    "seconds_to_empty": 12.630208333333334,
    "seconds_to_starvation": 11.3671875,
-   "waste_w": 4223999.999999999,
-   "seconds_to_lethal_rise": 0.29014684983420186,
-   "shed_fraction": 0.0004734848484848486,
+   "waste_w": 4223999999.999999,
+   "seconds_to_lethal_rise": 0.0002900096070121246,
+   "shed_fraction": 4.734848484848486e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
     "line": 28
@@ -2829,8 +2830,8 @@
    "au_s": 52000.0,
    "eta": 1.05,
    "eta_from": "card, Anryū Ichimonji.md:29",
-   "reserve_j": 820000000.0,
-   "power_w": 52000000.0,
+   "reserve_j": 820000000000.0,
+   "power_w": 52000000000.0,
    "seconds_to_empty": 15.76923076923077,
    "seconds_to_starvation": 14.192307692307692,
    "waste_w": 0.0,
@@ -2850,13 +2851,13 @@
    "au_s": 26000.0,
    "eta": 0.82,
    "eta_from": "card, Mizuki Moto.md:30",
-   "reserve_j": 470000000.0,
-   "power_w": 26000000.0,
+   "reserve_j": 470000000000.0,
+   "power_w": 26000000000.0,
    "seconds_to_empty": 18.076923076923077,
    "seconds_to_starvation": 16.26923076923077,
-   "waste_w": 4680000.000000001,
-   "seconds_to_lethal_rise": 0.26186404446344586,
-   "shed_fraction": 0.00042735042735042724,
+   "waste_w": 4680000000.000001,
+   "seconds_to_lethal_rise": 0.000261752248612072,
+   "shed_fraction": 4.2735042735042726e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
     "line": 30
@@ -2871,13 +2872,13 @@
    "au_s": 1900.0,
    "eta": 0.86,
    "eta_from": "card, Ayame Yuno.md:61",
-   "reserve_j": 37000000.0,
-   "power_w": 1900000.0,
+   "reserve_j": 37000000000.0,
+   "power_w": 1900000000.0,
    "seconds_to_empty": 19.473684210526315,
    "seconds_to_starvation": 17.526315789473685,
-   "waste_w": 266000.0,
-   "seconds_to_lethal_rise": 4.640151515151516,
-   "shed_fraction": 0.007518796992481203,
+   "waste_w": 266000000.0,
+   "seconds_to_lethal_rise": 0.0046052977841938665,
+   "shed_fraction": 7.518796992481203e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
     "line": 60
@@ -2892,13 +2893,13 @@
    "au_s": 68000.0,
    "eta": 0.78,
    "eta_from": "card, Rengai Zettari.md:29",
-   "reserve_j": 1400000000.0,
-   "power_w": 68000000.0,
+   "reserve_j": 1400000000000.0,
+   "power_w": 68000000000.0,
    "seconds_to_empty": 20.58823529411765,
    "seconds_to_starvation": 18.529411764705884,
-   "waste_w": 14959999.999999998,
-   "seconds_to_lethal_rise": 0.08189597539778046,
-   "shed_fraction": 0.00013368983957219254,
+   "waste_w": 14959999999.999998,
+   "seconds_to_lethal_rise": 8.188503768516547e-05,
+   "shed_fraction": 1.3368983957219254e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
     "line": 29
@@ -2913,13 +2914,13 @@
    "au_s": 24000.0,
    "eta": 0.81,
    "eta_from": "card, Rashani Zettari.md:29",
-   "reserve_j": 540000000.0,
-   "power_w": 24000000.0,
+   "reserve_j": 540000000000.0,
+   "power_w": 24000000000.0,
    "seconds_to_empty": 22.5,
    "seconds_to_starvation": 20.25,
-   "waste_w": 4559999.999999999,
-   "seconds_to_lethal_rise": 0.2687582272926723,
-   "shed_fraction": 0.0004385964912280703,
+   "waste_w": 4559999999.999999,
+   "seconds_to_lethal_rise": 0.00026864046870196,
+   "shed_fraction": 4.385964912280703e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
     "line": 29
@@ -2934,13 +2935,13 @@
    "au_s": 3900.0,
    "eta": 0.99,
    "eta_from": "card, Dougou Ozumu Zettari.md:38",
-   "reserve_j": 92000000.0,
-   "power_w": 3900000.0,
+   "reserve_j": 92000000000.0,
+   "power_w": 3900000000.0,
    "seconds_to_empty": 23.58974358974359,
    "seconds_to_starvation": 21.23076923076923,
-   "waste_w": 39000.00000000004,
-   "seconds_to_lethal_rise": 33.10810810810808,
-   "shed_fraction": 0.05128205128205123,
+   "waste_w": 39000000.00000004,
+   "seconds_to_lethal_rise": 0.03141186727524486,
+   "shed_fraction": 5.128205128205123e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
     "line": 38
@@ -2955,13 +2956,13 @@
    "au_s": 118000.0,
    "eta": 0.92,
    "eta_from": "card, Lucius Xenotro.md:64",
-   "reserve_j": 2850000000.0,
-   "power_w": 118000000.0,
+   "reserve_j": 2850000000000.0,
+   "power_w": 118000000000.0,
    "seconds_to_empty": 24.152542372881356,
    "seconds_to_starvation": 21.73728813559322,
-   "waste_w": 9439999.999999994,
-   "seconds_to_lethal_rise": 0.12979444797626624,
-   "shed_fraction": 0.00021186440677966115,
+   "waste_w": 9439999999.999994,
+   "seconds_to_lethal_rise": 0.00012976697664554597,
+   "shed_fraction": 2.1186440677966115e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
     "line": 63
@@ -2976,13 +2977,13 @@
    "au_s": 72000.0,
    "eta": 0.84,
    "eta_from": "card, Muken Moto.md:34",
-   "reserve_j": 1850000000.0,
-   "power_w": 72000000.0,
+   "reserve_j": 1850000000000.0,
+   "power_w": 72000000000.0,
    "seconds_to_empty": 25.694444444444443,
    "seconds_to_starvation": 23.125,
-   "waste_w": 11520000.000000002,
-   "seconds_to_lethal_rise": 0.10635527001215488,
-   "shed_fraction": 0.0001736111111111111,
+   "waste_w": 11520000000.000002,
+   "seconds_to_lethal_rise": 0.00010633682401680971,
+   "shed_fraction": 1.736111111111111e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Muken Moto.md",
     "line": 34
@@ -2997,13 +2998,13 @@
    "au_s": 2850.0,
    "eta": 0.94,
    "eta_from": "card, Yorime Seikai.md:63",
-   "reserve_j": 74000000.0,
-   "power_w": 2850000.0,
+   "reserve_j": 74000000000.0,
+   "power_w": 2850000000.0,
    "seconds_to_empty": 25.964912280701753,
    "seconds_to_starvation": 23.36842105263158,
-   "waste_w": 171000.00000000015,
-   "seconds_to_lethal_rise": 7.248520710059165,
-   "shed_fraction": 0.011695906432748529,
+   "waste_w": 171000000.00000015,
+   "seconds_to_lethal_rise": 0.0071638264775026545,
+   "shed_fraction": 1.1695906432748527e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
     "line": 62
@@ -3018,13 +3019,13 @@
    "au_s": 59500.0,
    "eta": 0.7,
    "eta_from": "card, Ara Min Mahuo.md:38",
-   "reserve_j": 4200000000.0,
-   "power_w": 59500000.0,
+   "reserve_j": 4200000000000.0,
+   "power_w": 59500000000.0,
    "seconds_to_empty": 70.58823529411765,
    "seconds_to_starvation": 63.529411764705884,
-   "waste_w": 17850000.000000004,
-   "seconds_to_lethal_rise": 0.06863514119229044,
-   "shed_fraction": 0.00011204481792717084,
+   "waste_w": 17850000000.000004,
+   "seconds_to_lethal_rise": 6.862745866974325e-05,
+   "shed_fraction": 1.1204481792717085e-07,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
     "line": 71
@@ -3039,13 +3040,13 @@
    "au_s": 12500.0,
    "eta": 0.91,
    "eta_from": "card, The Arctic Lion — Sovereign Configuration (Level 500).md:14",
-   "reserve_j": 4200000000.0,
-   "power_w": 12500000.0,
+   "reserve_j": 4200000000000.0,
+   "power_w": 12500000000.0,
    "seconds_to_empty": 336.0,
    "seconds_to_starvation": 302.4,
-   "waste_w": 1124999.9999999995,
-   "seconds_to_lethal_rise": 1.0908281389136247,
-   "shed_fraction": 0.0017777777777777785,
+   "waste_w": 1124999999.9999995,
+   "seconds_to_lethal_rise": 0.0010888908246948,
+   "shed_fraction": 1.7777777777777786e-06,
    "au_s_source": {
     "file": "wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
     "line": 17
@@ -3060,13 +3061,13 @@
    "au_s": 3800.0,
    "eta": 0.84,
    "eta_from": "card, Sodoku Moto.md:43",
-   "reserve_j": 1340000000.0,
-   "power_w": 3800000.0,
+   "reserve_j": 1340000000000.0,
+   "power_w": 3800000000.0,
    "seconds_to_empty": 352.63157894736844,
    "seconds_to_starvation": 317.36842105263156,
-   "waste_w": 608000.0000000001,
-   "seconds_to_lethal_rise": 2.021452145214521,
-   "shed_fraction": 0.0032894736842105257,
+   "waste_w": 608000000.0000001,
+   "seconds_to_lethal_rise": 0.002014809259240984,
+   "shed_fraction": 3.2894736842105256e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
     "line": 86
@@ -3081,13 +3082,13 @@
    "au_s": 1566000.0,
    "eta": 0.87,
    "eta_from": "card, Kwon Mu-jin.md:73",
-   "reserve_j": 850000000000.0,
-   "power_w": 1566000000.0,
+   "reserve_j": 850000000000000.0,
+   "power_w": 1566000000000.0,
    "seconds_to_empty": 542.7841634738187,
    "seconds_to_starvation": 488.5057471264368,
-   "waste_w": 203580000.0,
-   "seconds_to_lethal_rise": 0.0060173496153808365,
-   "shed_fraction": 9.824147755182238e-06,
+   "waste_w": 203580000000.0,
+   "seconds_to_lethal_rise": 6.017290559163872e-06,
+   "shed_fraction": 9.824147755182238e-09,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
     "line": 73
@@ -3102,13 +3103,13 @@
    "au_s": 75.0,
    "eta": 0.5,
    "eta_from": "card, Yoko Mishiro.md:36",
-   "reserve_j": 185000000.0,
-   "power_w": 75000.0,
+   "reserve_j": 185000000000.0,
+   "power_w": 75000000.0,
    "seconds_to_empty": 2466.6666666666665,
    "seconds_to_starvation": 2220.0,
-   "waste_w": 37500.0,
-   "seconds_to_lethal_rise": 34.50704225352113,
-   "shed_fraction": 0.05333333333333334,
+   "waste_w": 37500000.0,
+   "seconds_to_lethal_rise": 0.032668408981812364,
+   "shed_fraction": 5.333333333333333e-05,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
     "line": 69
@@ -3123,13 +3124,13 @@
    "au_s": 3200.0,
    "eta": 0.91,
    "eta_from": "card, Borin Ironheart · The Master of the Soul Forge.md:34",
-   "reserve_j": 180000000000.0,
-   "power_w": 3200000.0,
+   "reserve_j": 180000000000000.0,
+   "power_w": 3200000000.0,
    "seconds_to_empty": 56250.0,
    "seconds_to_starvation": 50625.0,
-   "waste_w": 287999.9999999999,
-   "seconds_to_lethal_rise": 4.283216783216785,
-   "shed_fraction": 0.0069444444444444475,
+   "waste_w": 287999999.9999999,
+   "seconds_to_lethal_rise": 0.004253501760428893,
+   "shed_fraction": 6.944444444444447e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
     "line": 103

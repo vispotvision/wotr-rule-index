@@ -597,3 +597,67 @@ marks every table that rests on one. `imports/essence-ledger/ledger_tables.py`
 reproduces every figure in the Part from `anchors.json` and `fit.json` alone.
 **Next:** WAR-11 is the rulings Isaac owes; WAR-13 is the ladders; WAR-14 is
 publication.
+
+## State on 2026-09-25 (the Essence Ledger's Part, rebuilt at the ruled constant)
+
+**Supersedes the block above on one point and one only: the constant.** That
+block says the Part works at 1 EU = 1 kJ. It does not any more. Isaac answered
+C-034 on 2026-09-25 (WAR-11), logged as **R44-1**: *"One constant: 1 EU = 1 MJ
+stands. The Ledger converts at 1 MJ everywhere, and the card figures that then
+sit outside their Stage's band are the error; each is a card correction in its
+own issue, not in this ruling batch."* The ruling is later than the brief
+permission the 1 kJ choice rested on, and later than the physics check. Rhett
+Konn sent WAR-12 back for it; the Part is rebuilt. **`ledger_tables.py` carries
+the constant in one place, `K = 1e6`** — every joule, watt, ton of TNT, drain
+figure, waste figure and Starvation floor in the Part follows from it.
+
+**The physics case is not deleted; it is recorded as the residual, which is what
+the finish line asked for.** `CLAUDE.md`: a ruling and a physics note
+disagreeing is recorded, never resolved. The Part's **§2.4** and **§9.2** are
+that record, quoted from `physics-check.md` in its own words: the ruled constant
+misses canon's three self-pricing lines by 2.45–2.98 decades in one direction;
+it is outside all four of that note's physical brackets, including E = mc² on
+Draen Varos and Kaelzar; the EU→J→Grade chain now lands Dougou's apex working at
+**B-Grade** where The Iron Tree:41 says D-to-low-C, +2.54 decades; conducted
+waste needs ΔT of 10⁵–10⁸ K across three millimetres of skin; and at 1 AU/s =
+1 MW **every anchor reaches a lethal core temperature in 0.031 ps to 32.8 ms**,
+so Essence Starvation's ten-percent floor is unreachable on the body-heat route.
+The Part states each of these and moves the ruling nowhere. The route to revisit
+R44-1 is a fresh ruling on WAR-11, and Gemma Nye's independent second opinion on
+the note is WAR-59.
+
+**Four further R44 rows are applied, each quoted where used and listed in the
+Part's new §9.1.** R44-2 (the AU/s identity governs; the card figures are the
+error) rewrites §6's framing and, with it, why the five "sheets their own two
+numbers cannot be" stay flagged and unfiled — all five are among the twenty-six
+R44-2 already calls errors, and WAR-48 will move them. **R44-3** (the S-to-SS
+joule gap, 24.3–41.8 TJ, is ranked by Sub-Stat and not by joules) is now stated
+inside the **§3 spine**, because WAR-13 hangs six ladders on that section and
+would otherwise inherit the gap silently; the first attested figure to land in
+it is Kwon Mu-jin's cheapest summons, 37.0 TJ, worked in §5.2. **R44-4** (η
+reads 0.60–0.70 at Stage VI–VII) and **R44-5** (a card's η governs per
+character) settle the one η in the Part that came off a table.
+
+**New, and small: WAR-94.** Applying R44-5 turned up that `anchors.json` has no
+η for Naiser Yukari although `Naiser Yukari.md:60` states 0.89 — Phase 1's
+extractor read his AU/s row and missed the "Aetheric Efficiency" row beneath it,
+and the label is the likely cause, so other cards may be affected. Not a canon
+conflict and no card touched. `ledger_tables.py` patches it in one named place
+(`CARD_ETA_MISSED_BY_PHASE_1`, with the card line quoted) and WAR-94 is the fix
+at source.
+
+**Unchanged by the rebuild:** §4's reserve law and every reserve band. The
+0.012812-decades-per-Level fit is in EU space off the ruled Obrenkael method, so
+the constant does not touch it; only the joule columns beside it moved. C-041
+stands as filed, with one correction Rhett caught — its FoW I:18 quote had
+carried bold the source does not, now character for character. The two open
+questions the block above names (the missing mass, the two recovery populations)
+both survive their rulings and are restated as questions against live rulings
+rather than as open conflict rows; a third is added, **where the Shell dumps its
+waste**, because that is the one thing that decides whether §5.3's body clock or
+§6.4's burn radius binds a practitioner at full output.
+
+**No card, page, config or wiki file was changed.** `validate.py` PASS, 691
+rules. **Next:** WAR-13 the ladders (the §3 spine is ready and now carries
+R44-3's carve-out), WAR-14 publication, WAR-46/WAR-48 the card sweeps R44-1 and
+R44-2 order, WAR-94 the extractor gap.

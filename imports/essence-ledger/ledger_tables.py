@@ -28,7 +28,9 @@ def load(name):
 #    on Dougou Ozumu Zettari's sheet and his Spellcraft page (fit.json
 #    `direct_pairs`). Those three are the whole measured evidence. Grid-search
 #    the constant that puts all three inside the joule band their own page
-#    states, scoring in decades.
+#    states, scoring in decades. The search does NOT choose the constant —
+#    R44-1 does, at 1 MJ. What this section produces is the residual of the
+#    ruled constant against canon's only measurement, which the Part reports.
 # --------------------------------------------------------------------------
 
 def residual_decades(pred_lo, pred_hi, band_lo, band_hi):
@@ -85,7 +87,7 @@ def constant_fit(fit):
         k *= step
 
     candidates = {}
-    for label, k in (("brief, 1 EU = 1 MJ", 1e6),
+    for label, k in (("RULED (R44-1), 1 EU = 1 MJ", 1e6),
                      ("1 EU = 1 kJ", 1e3),
                      ("least squares on the three pairs", best_k)):
         rows = []
@@ -436,6 +438,20 @@ BODY_HEAT_CAPACITY_J_PER_K = 245_000.0   # 70 kg x 3.5 kJ/kg/K, physics-check.md
 LETHAL_RISE_K = 5.0
 BODY_SHED_W = 2_000.0
 
+# A card eta that states itself on the page but is absent from anchors.json,
+# because Phase 1's extractor read the AU/s row and not the row under it. R44-5
+# makes the card govern, and names this character. Nothing here is inferred: the
+# figure and the line are quoted in the Part beside the table they feed.
+CARD_ETA_MISSED_BY_PHASE_1 = {
+    "Naiser Yukari": {
+        "eta": 0.89,
+        "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+        "line": 60,
+        "verbatim": "| **Aetheric Efficiency** | 0.89 | **Almost all of what he "
+                    "commits lands exactly where intended** |",
+    },
+}
+
 
 def drain(fit, anchors, k):
     au, card_eta = {}, {}
@@ -463,6 +479,19 @@ def drain(fit, anchors, k):
                 ce["source"]["file"].rsplit("/", 1)[-1], ce["source"]["line"]))
         else:
             aus, eta = a["value"], r["eta"]
+            # R44-5 (RULINGS.md, 2026-09-25): "The card's eta governs per
+            # character and the tables are typical ranges ... Sodoku Moto's
+            # 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as
+            # written." Phase 1's extractor read Naiser Yukari's AU/s off
+            # `Naiser Yukari.md:59` and missed the "Aetheric Efficiency" row on
+            # the line below it, so `fit.json` fell back to a Part Nineteen Tier
+            # midpoint for a character whose card states a figure. The ruling
+            # names him; the card governs. Quoted in the Part, §5.3.
+            ov = CARD_ETA_MISSED_BY_PHASE_1.get(r["entity"])
+            if ov:
+                eta = ov["eta"]
+                r = dict(r, eta=eta, eta_from="card, %s:%d (R44-5; missed by "
+                         "fit.json)" % (ov["file"].rsplit("/", 1)[-1], ov["line"]))
         waste_w = (1 - eta) * aus * k if eta is not None and eta < 1 else 0.0
         rows.append({
             "entity": r["entity"],
@@ -603,7 +632,14 @@ def recovery(fit):
 def main():
     anchors, fit = load("anchors.json"), load("fit.json")
     cf = constant_fit(fit)
-    K = 1e3  # the draft's working constant; see the Part, §2
+    # The RULED constant. Isaac answered C-034 on 2026-09-25 (WAR-11): "One
+    # constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and
+    # the card figures that then sit outside their Stage's band are the error."
+    # Carried into the index as R44-1. Every joule, watt, TNT and heat figure
+    # below is at that constant; the measured windows and the physical brackets
+    # in `constant_fit` and in `physics-check.md` are reported against it as
+    # residuals, not used to move it.
+    K = 1e6
     law = reserve_law(fit)
     out = {
         "meta": {
@@ -613,7 +649,8 @@ def main():
             "inputs": ["imports/essence-ledger/anchors.json",
                        "imports/essence-ledger/fit.json"],
             "working_constant_j_per_eu": K,
-            "note": "the working constant is the draft's, not a ruling. C-034 is open and chooses none of the readings; every table here is marked pending on it in the Part.",
+            "constant_ruled_by": "R44-1 (RULINGS.md, 2026-09-25 entry, C-034): 'One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error.'",
+            "note": "the constant is ruled, not chosen. `constant_fit` reports the measured windows and `physics-check.md` the physical brackets that the ruled constant misses; those are residuals recorded against the ruling, never a reason to move it.",
         },
         "constant_fit": cf,
         "reserve_law": law,
@@ -675,7 +712,7 @@ def main():
     for o in t["over_gate_ceiling"]:
         print("     over the gate: %-46s %-11.4g by %.2f decades" % (o["entity"][:46], o["eu"], o["decades_over"]))
 
-    print("\nD. THE SPINE — joules -> Grade -> Tier 1..9, and the EU that buys the ceiling at 1 kJ")
+    print("\nD. THE SPINE — joules -> Grade -> Tier 1..9, and the EU that buys the ceiling at the ruled 1 MJ")
     for r in out["spine"]:
         hi = ("%9.3g" % r["j_high"]) if r["j_high"] else "  and up"
         tnthi = ("%9.3g" % r["tnt_high"]) if r["tnt_high"] else "  and up"
@@ -683,7 +720,7 @@ def main():
         print("   %-16s %-10s %9.3g - %-9s J   %9.3g - %-9s t TNT   ceiling costs %s"
               % (r["tier"], "/".join(r["grades"]), r["j_low"], hi, r["tnt_low"], tnthi, eu))
 
-    print("\nE. THE DRAIN — t = EU / (AU/s), and the waste-heat clock at 1 AU/s = 1 kW")
+    print("\nE. THE DRAIN — t = EU / (AU/s), and the waste-heat clock at the ruled 1 AU/s = 1 MW")
     for r in out["drain"]:
         print("   %-44s %8.1f s to empty, %8.1f s to Starvation, waste %9.3g W, +5K in %-10s (eta %s from %s)"
               % (r["entity"][:44], r["seconds_to_empty"], r["seconds_to_starvation"],

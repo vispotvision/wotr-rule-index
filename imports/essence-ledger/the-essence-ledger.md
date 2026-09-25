@@ -7,9 +7,16 @@ parent WAR-8), 2026-09-25.*
 > Notion; that is Phase 4 (WAR-14). No card, page, table or figure anywhere in
 > the project has been changed to make this Part come out. Where canon
 > contradicts canon the Part states the equation, shows the break, and leaves
-> the conflict open on Isaac's docket. Where a ruling is pending the slot is
-> marked **PENDING** and the question is named in words he can answer in a
-> sentence.
+> the conflict open. Where a ruling is pending the slot is marked **PENDING**
+> and the question is named in words Isaac can answer in a sentence.
+>
+> **The constant is ruled.** **[ruled]** *"One constant: 1 EU = 1 MJ stands. The
+> Ledger converts at 1 MJ everywhere"* — Isaac on C-034, 2026-09-25, carried as
+> **R44-1**. This Part converts at 1 MJ everywhere, and it shows the residual
+> against every anchor, measurement and physical bracket the ruled constant
+> misses, in the words of the note that found them. **A ruling and a physics
+> note disagreeing is recorded, never resolved** (`CLAUDE.md`); §2.4 and §9.2
+> are that record, and nothing in them moves the ruling.
 
 ---
 
@@ -45,8 +52,10 @@ the other side of the fight.
 | marker | meaning |
 |---|---|
 | **[canon]** | quoted verbatim from a page, with file and line. Nothing in a `[canon]` block is the draft's words. |
-| **[derived]** | arithmetic on `[canon]` figures. The working is shown so it can be checked. |
+| **[ruled]** | quoted verbatim from `RULINGS.md`, with its row in the index. A ruling is applied exactly as worded and never extended to a case it does not name. |
+| **[derived]** | arithmetic on `[canon]` or `[ruled]` figures. The working is shown so it can be checked. |
 | **[draft]** | the Part's own statement. Needs Isaac's word before it is anything more. |
+| **[residual]** | a figure the Part is required to show and required not to soften: what the ruled constant does against an anchor, a measurement or a law of physics. A residual never moves a ruling. |
 | **PENDING** | a slot a ruling must fill. Both readings are stated; the draft chooses neither and names the question. |
 
 ---
@@ -140,7 +149,32 @@ states one side or the other and must be inferred.
 > boundary between D-Grade and low C-Grade force; branch outputs below apex sit
 > in the **1 to 10 MJ** range his sheet's individual techniques already occupy.
 
-### 2.2 The fit, and the residual against each
+### 2.2 The constant, ruled
+
+**[ruled]** `RULINGS.md`, the 2026-09-25 entry, *"the Essence Ledger
+questionnaire answered; C-034 through C-037"*, carried into the index as
+**R44-1**:
+
+> **C-034.** One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ
+> everywhere, and the card figures that then sit outside their Stage's band
+> are the error; each is a card correction in its own issue, not in this
+> ruling batch.
+
+**1 EU = 1 MJ of potential. Energy delivered = EU × η × 1 MJ. 1 AU/s = 1 MW.**
+*"The Ledger converts at 1 MJ everywhere"* names this Part by its office, and
+this Part converts at 1 MJ everywhere: every joule, watt, ton of TNT, drain
+time, waste figure and Starvation floor below is at that constant, and
+`ledger_tables.py` carries it in one place, `K = 1e6`.
+
+Isaac's brief of 2026-09-24 had said *"If 1 MJ fits badly, pick the constant
+that fits best and say why."* The ruling is 2026-09-25, on the same question,
+raised as C-034 and answered with the physics check already in hand; it answers
+the fit on its own terms by naming the card figures that miss as the error. The
+later and more specific word governs the earlier and general one, so the fit
+below is not an argument. **It is the residual, which is what the brief asks the
+Part to show.**
+
+### 2.3 The residual against canon's own measurement
 
 **[derived]** Each line fixes a window on the constant *k* in joules per EU:
 the predicted output *k* × EU must land inside the joule figure the page
@@ -154,125 +188,155 @@ thousandth of a decade and scores the miss in decades.
 | any branch release | 2,800 – 8,900 | 1–10 MJ | 357 – 1,124 J/EU |
 
 The first and third windows overlap on 357–1,042. The second begins at 1,081.
-**No single constant satisfies all three** — they miss each other by 0.016
-decades, four percent, which is a rounding seam rather than a disagreement.
-The least-squares optimum sits at **1,062 J/EU**, in the seam.
+The three miss each other by 0.016 decades, four percent, which is a rounding
+seam rather than a disagreement; the least-squares optimum through all three
+sits at **1,062 J/EU**, in the seam.
 
-Three constants against the three lines:
+**[residual] The ruled constant is 0 of 3.** Per working, against the ruled
+1 MJ, with the measured optimum beside it so the size of the gap is legible:
+
+| working | at the ruled **1 MJ/EU** | residual | at the measured 1,062 J/EU |
+|---|---|---|---|
+| Ozumu no Katachi (stated 1–5 MJ) | 4.80 GJ | **+2.982 decades** | 5.10 MJ, +0.008 dec |
+| Kokushin Gyūha, apex (stated 8–20 MJ) | 7.40 GJ | **+2.568 decades** | 7.86 MJ, −0.008 dec |
+| branch release (stated 1–10 MJ) | 2.8–8.9 GJ | **+2.447 decades** | 2.97–9.45 MJ, in band |
 
 | constant | in band | sum of squared residuals (decades) |
 |---|---|---|
-| the brief's 1 EU = 1 MJ | **0 of 3** | 21.478 |
-| **1 EU = 1 kJ** | **2 of 3** | 0.0011 |
+| **the ruled 1 EU = 1 MJ (R44-1)** | **0 of 3** | **21.478** |
+| 1 EU = 1 kJ | 2 of 3 | 0.0011 |
 | least squares, 1,062 J/EU | 1 of 3 | 0.0001 |
 
-Per working, at each:
+**Canon's only three self-pricing lines miss the ruled constant by 2.45 to 2.98
+decades, all three in the same direction.** R44-1 names which side of that gap
+is the error — *"the card figures that then sit outside their Stage's band are
+the error"* — and the sweep of every card figure that misses is WAR-46's, not
+this Part's. The Part records the residual and moves nothing: no card figure,
+including these three, has been changed by this phase.
 
-| working | at 1 MJ/EU | at **1 kJ/EU** | at 1,062 J/EU |
-|---|---|---|---|
-| Ozumu no Katachi (1–5 MJ) | 4.8 GJ, **+2.982 dec** | 4.8 MJ, **in band** | 5.10 MJ, +0.008 dec |
-| Kokushin Gyūha (8–20 MJ) | 7.4 GJ, **+2.568 dec** | 7.4 MJ, **−0.034 dec** | 7.86 MJ, −0.008 dec |
-| branch release (1–10 MJ) | 2.8–8.9 GJ, **+2.447 dec** | 2.8–8.9 MJ, **in band** | 2.97–9.45 MJ, in band |
+### 2.4 The residual against physics
 
-### 2.3 The constant this Part works at, and why
+The physics check that preceded the ruling (WAR-10,
+`imports/essence-ledger/physics-check.md`, commit `9505f80`) tested the same
+constant against real thermodynamics and against E = mc², and returned a
+verdict the ruling did not adopt. **A ruling and a physics note disagreeing is
+recorded, never resolved** (`CLAUDE.md`). The note is recorded here, in its own
+words, and the ruling stands over it.
 
-**[draft] 1 EU = 1 kJ of potential. Energy delivered = EU × η × 1 kJ. 1 AU/s =
-1 kW.**
+**[residual]** `physics-check.md`, "The verdict, first":
 
-Isaac's brief asked for 1 EU = 1 MJ and said: *"Fit the conversion to the
-attested figures and report the residuals. If 1 MJ fits badly, pick the
-constant that fits best and say why."* It fits badly. The residuals are above;
-the reasons it cannot be rescued are these, in order of how hard they bite.
+> **No. 1 EU = 1 MJ is too large by three to four orders of magnitude at the low
+> end and too small by fourteen at the high end, and the failure is not a
+> rounding problem — it is structural.**
 
-1. **It misses canon's only self-pricing page by three decades**, on all three
-   lines, in the same direction. That is C-034's first half and this Part does
-   not settle it — but a constant that reproduces the only measurement is
-   better placed than one that does not.
+The three findings it carries, each against a figure this Part prints:
 
-2. **It breaks E = mc² on two cards, and no Grade table fixes that.** The
-   physics check (WAR-10, `physics-check.md` §1.4) works it: Draen Varos's
-   Forge-Heart is **[canon]** `wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md:37`
+1. **The low end, on thermodynamics alone.** `physics-check.md` §1.2: *"At 1 EU
+   = 1 MJ, the cheapest working on the cheapest attested sheet — Yukazuri
+   Moto's Nerve Reading, 140 EU — costs 140 MJ, and her own stated η of 0.89
+   dumps 15.4 MJ of waste heat into a 70 kg body whose entire thermal budget to
+   a lethal core temperature is 1.2 MJ. She dies twelve times over reading
+   someone's muscle tension."* That working is priced at the ruled constant in
+   §5.2 of this Part, and the figure there is the same 140 MJ.
+
+2. **The high end, on arithmetic before physics.** §1.3: *"The Primate's
+   2,400,000,000 EU at 1 EU = 1 MJ is 2.4 × 10¹⁵ J — **2.4 petajoules, 0.574
+   megatons**, not the 2.4 exajoules and half-gigaton the brief states."* And,
+   corrected: *"his Stage's Max Grade is EX, whose floor is 1.24 × 10²⁹ J, so
+   the largest named reserve in canon cannot pay for **one** attack at his own
+   Grade's minimum. It is short by a factor of 5.2 × 10¹³."*
+
+3. **Two cards over the mass–energy limit.** §1.4: *"At 1 EU = 1 MJ, Draen
+   Varos's Forge-Heart holds 6.0 × 10¹⁸ J in a crystal his own card weighs at
+   nine kilograms — 7.5 times the rest-mass energy of the crystal. Kaelzar's 3
+   billion EU/g is 33 times c². Nothing made of matter can store more energy
+   than its own mass–energy; the contents would outweigh the container. This is
+   not a tuning problem and no choice of Grade table fixes it."* The card the
+   first half rests on is **[canon]**
+   `wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md:37`
    *"nine kilograms of Crystal and slag that reads as one structure. Flux
-   Density **670 million EU/g.**"* — 6.03 × 10¹² EU. At 1 MJ/EU that is
-   6.03 × 10¹⁸ J in an object whose entire rest-mass energy is 8.09 × 10¹⁷ J.
-   **The contents outweigh the container, 7.5 to one.** Any constant above
-   **1.34 × 10⁵ J/EU** puts him over; Kaelzar's three billion EU/g puts the
-   ceiling at **3.0 × 10⁴ J/EU**. 1 kJ clears both by one and a half to two
-   decades. 1 MJ clears neither.
+   Density **670 million EU/g.**"*
 
-3. **It kills the practitioner with her own waste heat before she finishes a
-   sentence.** At 1 MJ/EU, Yukazuri Moto's 140 EU Nerve Reading — reading a
-   man's muscle tension from fifteen feet — costs 140 MJ, and the eleven
-   percent her own η discards is 15.4 MJ into a body whose whole thermal budget
-   to a lethal core temperature is 1.225 MJ. She dies twelve times over
-   (`physics-check.md` §1.2). At 1 kJ/EU the same working costs 140 kJ, wastes
-   15.4 kJ, and warms her by **0.063 K**. That is what a serious working
-   *should* cost a body.
+And the AU/s axis fails separately, which is what §5.3 and §6.3 of this Part
+show at every scale. `physics-check.md`, same section:
 
-4. **It is out by the same factor of a thousand twice.** The brief's own sanity
-   check reads the Primate's 2,400,000,000 EU as "2.4 exajoules, half a
-   gigaton". At 1 MJ/EU it is 2.4 **peta**joules and 0.574 **mega**tons
-   (`physics-check.md` §1.3). A factor of 1,000 went astray in the brief's
-   arithmetic, and a factor of 1,000 is exactly the correction the measurement
-   asks for. The Ledger is the shape Isaac described; it sits three decades
-   lower than he put it.
+> **1 AU/s = 1 MW fails harder and fails on its own**, without reference to the
+> EU constant at all. One megawatt of throughput at any attested η leaks a waste
+> heat of 37 MW to 4 × 10¹⁹ W into a human body whose combined perfusion and
+> evaporative capacity is about 2 kW. **Not one attested practitioner survives
+> one second of their own stated output.** The best case in the whole anchor
+> set, Yoko Mishiro at 75 AU/s, cooks to death in 33 milliseconds.
 
-**Why 1 kJ and not 1,062 J.** 1,062 scores marginally better and is
-unmemorable. 1 kJ is inside two of the three windows, misses the third by
-**0.034 decades — eight percent**, which is smaller than the rounding in "8 to
-20 MJ", and it lets a reader convert at the table without a calculator: *drop
-three zeroes and read kilojoules; a thousand EU is a megajoule.* The brief's
-own reason for 1 MJ was that it is round. This is the round number that is also
-right.
+**[residual] The four independent brackets, and where the ruled constant sits
+in them** (three from `physics-check.md` §6, one from `fit.json`
+`direct_pairs`):
 
-**[derived] The four independent brackets, and where 1 kJ sits in them** (three
-from `physics-check.md` §6, one from `fit.json` `direct_pairs`):
-
-| constraint | law | bound on 1 EU | 1 kJ |
+| constraint | law | bound on 1 EU | the ruled 1 MJ |
 |---|---|---|---|
-| canon's three self-pricing lines | — | 112 – 3,571 J | inside |
-| a body surviving its own η loss over a whole working | first law + 245 kJ/K body heat capacity | ≤ 3,592 J | inside |
-| Draen Varos's nine-kilogram crystal | E = mc² | ≤ 1.34 × 10⁵ J | inside |
-| Kaelzar's three billion EU/g | E = mc² | ≤ 3.0 × 10⁴ J | inside |
+| canon's three self-pricing lines | — | 112 – 3,571 J | **outside, by 2.45 decades above the window (2.45–2.98 per line)** |
+| a body surviving its own η loss over a whole working | first law + 245 kJ/K body heat capacity | ≤ 3,592 J | **outside, by 2.44 decades** |
+| Draen Varos's nine-kilogram crystal | E = mc² | ≤ 1.34 × 10⁵ J | **outside, by 0.87 decades** |
+| Kaelzar's three billion EU/g | E = mc² | ≤ 3.0 × 10⁴ J | **outside, by 1.5 decades** |
 
-All four overlap on **112 to 3.6 × 10³ J/EU**. **1 kJ is the only power of ten
-inside all four** — 100 J falls just outside the measured window's floor of
-112 — and the brief's 10⁶ is outside every one of them.
+All four brackets overlap on **112 to 3.6 × 10³ J/EU**. `physics-check.md` §6:
+*"All four brackets overlap in the range **10² to 3.6 × 10³ J/EU**, and the
+brief's 10⁶ J/EU lies outside all four."*
 
-> **PENDING — C-034.** The conflict row is open and this Part does not close
-> it. Two readings are live and the draft's constant presumes neither is
-> *settled*: **(a)** the conversion is the measured one, in the hundreds to
-> low thousands of joules, and the attested reserves are what is out of order;
-> **(b)** there is no single constant, and each Stage carries its own (the
-> per-Stage medians are in `fit.json` `by_stage`). Every table below is built
-> at 1 kJ and inherits whichever way Isaac rules. **The question:** *is one EU
-> worth the same number of joules at Stage III as at Stage XIV?*
+**[draft] Stated plainly, because the finish line asks for it and softening it
+would be a lie:** the ruled constant fails all four brackets, and the ruling is
+later than the report that says so. **R44-1's own `notes` field records that it
+was made in that knowledge** — *"`imports/essence-ledger/physics-check.md`
+(WAR-10) reports that this constant fails against real physics; the ruling is
+later than that report and is recorded as made"* — and the RULINGS.md entry
+says the same: *"the ruling is later than that report and is recorded here as
+made, not reconciled with it."* So the Ledger converts at 1 MJ, the residuals
+are on the page beside every figure they touch, and the route to revisit the
+constant is a fresh ruling, never a Part built at a different number.
 
-### 2.4 The chain, end to end
+> **RULED — C-034 (R44-1), and what it does not name.** The constant is
+> settled: one constant, 1 MJ, everywhere, and the card figures that then miss
+> their Stage's band are the error. The row is closed with the ruling batch
+> (WAR-22).
+>
+> What R44-1's operative sentence does **not** describe, and which this Part
+> therefore does not treat as answered: whether the reserve *ladder* reads on
+> **Level** or on **Stage**. Part Nineteen says the reserve *"Scales with
+> Temperance Stage"*; the method Isaac ruled for building one interpolates on
+> **Level** (§4.1). R44-1's second clause — *"the card figures that then sit
+> outside their **Stage's** band are the error"* — presumes a band per Stage
+> exists and makes it the arbiter, which is what §4.3 builds; it does not say
+> how that band is derived. **The question, unattached to any closed row:**
+> *does "scales with Temperance Stage" set the reserve, or cap it through the
+> Band gates?* §4.3 is built on the second reading and falls with it.
+
+### 2.5 The chain, end to end
 
 **[derived]** EU → J → Grade → TNT → what it wrecks, with 1 t TNT ≡ 4.184 × 10⁹ J
 (the thermochemical definition, so the arithmetic is exact rather than
 measured):
 
-    joules delivered = EU spent × η × 1,000
+    joules delivered = EU spent × η × 1,000,000
     Grade            = the Part Four row whose attack-output band holds it
     tons TNT         = joules ÷ 4.184 × 10⁹
 
-Worked once, on the line the whole constant rests on. Dougou spends 7,400 EU on
-Kokushin Gyūha at his stated η — **[canon]** `wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:38`
-*"**Aether Index** · 3,900 AU/s external · **internal cycling immeasurable** ·
-**η 0.99**"*:
+Worked once, on the only line in canon that states both ends. Dougou spends
+7,400 EU on Kokushin Gyūha at his stated η — **[canon]**
+`wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md:38` *"**Aether Index**
+· 3,900 AU/s external · **internal cycling immeasurable** · **η 0.99**"*:
 
-    7,400 EU × 1,000 J/EU        = 7.40 MJ of potential
-    × η 0.99                     = 7.33 MJ delivered
-    Part Four: 15 kJ – 2.092×10⁷ = D-Grade, top of the band
-    ÷ 4.184 × 10⁹                = 1.75 kg of TNT
-    Part Four's gloss for D      : "Wall level"
+    7,400 EU × 1,000,000 J/EU        = 7.40 GJ of potential
+    × η 0.99                         = 7.33 GJ delivered
+    Part Four: 1.046×10⁹ – 4.6024×10¹⁰ = B-Grade, mid-band
+    ÷ 4.184 × 10⁹                    = 1.75 tons of TNT
+    Part Four's gloss for B          : "Building to Large Building, 0.25 to
+                                       11 tons TNT"  (FoW II:47)
 
-**[canon]** The Iron Tree:41 grades that same working *"at the boundary between
-D-Grade and low C-Grade force"*. The chain, run forwards from the EU cost,
-arrives where the page that states the cost says it arrives. **That is the
-whole argument for the constant in one line.**
+**[residual]** The page that states the cost states the Grade too. **[canon]**
+The Iron Tree:41 grades that same working *"at the boundary between D-Grade and
+low C-Grade force"*. The chain run forwards from the EU cost at the ruled
+constant arrives at **B**, three Grades above — 7.33 GJ against a D ceiling of
+2.092 × 10⁷ J, **+2.54 decades**. Under R44-1 the sheet's joule figure is the
+error and the chain is right; the residual is on this page and is not softened.
 
 *(The joule → TNT column of Part Four is exact on twelve rows of thirteen and
 the X row's ceiling is the Moon's gravitational binding energy to 0.2%;
@@ -296,16 +360,16 @@ invented.
 **[derived] The nine rungs.** A Grade sits at the lowest Tier of Standing whose
 Stages can reach it.
 
-| Tier | Grade(s) | first Stage that reaches it | peak output, joules | tons TNT | EU that buys the ceiling at 1 kJ |
+| Tier | Grade(s) | first Stage that reaches it | peak output, joules | tons TNT | EU that buys the ceiling at the ruled 1 MJ |
 |---|---|---|---|---|---|
-| **1 · Initiate** | Hollow, F, E | I Murmuring | below 60 – 1.5 × 10⁴ | ≤ 3.6 × 10⁻⁶ | 15 EU |
-| **2 · Apprentice** | D | II Welling | 1.5 × 10⁴ – 2.092 × 10⁷ | 3.6 × 10⁻⁶ – 0.005 | 20,920 EU |
-| **3 · Journeyman** | C | III Ascension | 2.092 × 10⁷ – 1.046 × 10⁹ | 0.005 – 0.25 | 1.046 × 10⁶ EU |
-| **4 · Adept** | B | IV Flourishing | 1.046 × 10⁹ – 4.6024 × 10¹⁰ | 0.25 – 11 | 4.602 × 10⁷ EU |
-| **5 · Expert** | A | VI Glory | 4.6024 × 10¹⁰ – 4.184 × 10¹² | 11 – 1,000 | 4.184 × 10⁹ EU |
-| **6 · Master** | S, SS | VIII Transcendence | 4.184 × 10¹² – 4.184 × 10¹⁴ | 1 kt – 100 kt | 4.184 × 10¹¹ EU |
-| **7 · Grandmaster** | SSS | XII Emanation | 4.184 × 10¹⁴ – 4.184 × 10²¹ | 100 kt – 1 Tt | 4.184 × 10¹⁸ EU |
-| **8 · Archmaster** | X, EX | XIII Principality | 4.184 × 10²¹ – 6.906 × 10³⁷ | 1 Tt – 16.5 Rt | 6.906 × 10³⁴ EU |
+| **1 · Initiate** | Hollow, F, E | I Murmuring | below 60 – 1.5 × 10⁴ | ≤ 3.6 × 10⁻⁶ | **0.015 EU** |
+| **2 · Apprentice** | D | II Welling | 1.5 × 10⁴ – 2.092 × 10⁷ | 3.6 × 10⁻⁶ – 0.005 | 20.9 EU |
+| **3 · Journeyman** | C | III Ascension | 2.092 × 10⁷ – 1.046 × 10⁹ | 0.005 – 0.25 | 1,046 EU |
+| **4 · Adept** | B | IV Flourishing | 1.046 × 10⁹ – 4.6024 × 10¹⁰ | 0.25 – 11 | 4.602 × 10⁴ EU |
+| **5 · Expert** | A | VI Glory | 4.6024 × 10¹⁰ – 4.184 × 10¹² | 11 – 1,000 | 4.184 × 10⁶ EU |
+| **6 · Master** | S, SS | VIII Transcendence | 4.184 × 10¹² – 4.184 × 10¹⁴ | 1 kt – 100 kt | 4.184 × 10⁸ EU |
+| **7 · Grandmaster** | SSS | XII Emanation | 4.184 × 10¹⁴ – 4.184 × 10²¹ | 100 kt – 1 Tt | 4.184 × 10¹⁵ EU |
+| **8 · Archmaster** | X, EX | XIII Principality | 4.184 × 10²¹ – 6.906 × 10³⁷ | 1 Tt – 16.5 Rt | 6.906 × 10³¹ EU |
 | **9 · Paragon** | EX+ | XV Revelation | 6.906 × 10³⁷ and above | 16.5 Rt and above | no ceiling |
 
 **[draft] How to use it.** Take the thing's *peak output in joules* — a beast's
@@ -318,15 +382,50 @@ modifiers are WAR-13's business, not this Part's. **The tier names for each
 register (Hearth-pest to Sky-eater, Tincture to Stone, Trinket to Covenant)
 belong to WAR-13 and are deliberately absent here.**
 
-Two holes in the spine, both already filed, both inherited rather than created:
+**[residual] The bottom rung costs less than one EU.** At the ruled constant a
+Tier 1 Initiate's ceiling — the whole of Hollow, F and E, 15 kJ — is bought by
+**0.015 EU**, and the cheapest attested reserve in canon (Karo Venrik, 1,600 EU)
+would pay for a hundred thousand of them. The spine's bottom four rungs are
+priced in fractions of the smallest unit the reserve is counted in. That is a
+consequence of R44-1 and not a fault in the Grade table, which is exact; it is
+recorded here because a ladder-builder in WAR-13 will meet it on rung one.
 
-- **C-036**, the gap between S's ceiling (2.42672 × 10¹³ J) and SS's floor
-  (4.184 × 10¹³ J). A figure of 30 TJ sits in Tier 6 but in no Grade. The
-  ladder above reads Tier 6 across the whole S-to-SS range because it takes the
-  Tier's outer edges, which is a reading and not a repair.
+**[ruled] One carve-out sits inside this spine, and WAR-13 inherits it.**
+`RULINGS.md`, 2026-09-25, carried into the index as **R44-3**:
+
+> **C-036.** The gap is deliberate. The Part Four Grade table stands exactly as
+> written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to
+> 41.8 TJ — is ranked by the Sub-Stat column, not by joules.
+
+So the spine is a joule ladder **with one stated exception**: between S's
+ceiling and SS's floor, the joule column does not rank and the Sub-Stat column
+does. A thing whose peak output lands in 24.3–41.8 TJ is not placed by the
+table above; it is placed by its Sub-Stat value against Part Four's
+401–550 (S) / 551–725 (SS) column. Both S and SS sit in **Tier 6 · Master**, so
+the *tier* is unaffected either way — the carve-out decides the Grade inside the
+tier, which is what a ladder with Grade-sensitive modifiers will need. One
+attested figure already lands in it: Kwon Mu-jin's cheapest summons, §5.2. The
+general rung Isaac added on the same day extends the same fallback along the
+row: *"A ruling's fallback for one column of a table reaches the whole table
+(e.g. R44-3's Sub-Stat ranking reaches the travel-speed column of the Part Four
+Grade table)"* (`RULINGS.md`, 2026-09-25 — new, rung 4). That rung reaches
+C-038's Mach 4-to-5 gap by the same route; the row is still carried open in
+`CONFLICTS.md` and applying it there is WAR-49's work, not this Part's. **This
+Part ranks nothing by travel speed.**
+
+One hole is left in the spine, inherited rather than created:
+
 - **C-039**, four Technique pages and Ignatius's card writing the SSS ceiling as
   4.184 EJ where all three ladders write 4.184 ZJ. Anything priced against "the
-  SSS ceiling" is priced two ways, a thousandfold apart.
+  SSS ceiling" is priced two ways, a thousandfold apart. **Still open** — it was
+  not on the WAR-11 card. The general rung Isaac added the same day names this
+  row's own example in passing — *"Figure against gloss: the bigger is intended.
+  Where a stated figure and its gloss on the same line disagree (e.g. '4.184 EJ
+  … 1 Tt TNT-equivalent'), keep whichever makes the working stronger, checked
+  against the technique's Stage band, and correct the other to match"*
+  (`RULINGS.md`, 2026-09-25 — new, rung 5) — but the row is still carried open
+  in `CONFLICTS.md` and applying the rung to it is not this Part's work. **This
+  Part prices nothing against "the SSS ceiling."**
 
 ---
 
@@ -421,10 +520,10 @@ absolutes:
 
 **[canon]** `wiki/Fracture of Worlds — The Living System/I. Levels, Experience and Stat Points (Parts One–Three).md:18`
 
-> **No character can breach a Band ceiling without first passing the Temperance
-> Threshold that cluster demands.** The System will simply halt the level
-> counter and build pressure, called Residual Strain, until the Threshold is
-> passed or the character fractures under the weight.
+> No character can breach a Band ceiling without first passing the Temperance
+> Threshold that cluster demands. The System will simply halt the level counter
+> and build pressure, called Residual Strain, until the Threshold is passed or
+> the character fractures under the weight.
 
 **[canon]** `:22–25` — *"**Gate:** Stage IV before Level 100 can be
 surpassed"*, *"**Gate:** Stage VII before Level 200"*, *"**Gate:** Stage X
@@ -533,14 +632,25 @@ room under it is theirs. A Stage XIII practitioner with 92,000 EU is not
 mis-statted — he is a man who built a very precise instrument instead of a very
 large one, and Dougou's sheet is exactly that.
 
-> **PENDING — C-034, second half.** Part Nineteen says the reserve *"Scales
-> with Temperance Stage"*; the ruled method interpolates on **Level**. Both
-> are live text and the draft reconciles neither. **The question:** *does
-> "scales with Temperance Stage" set the reserve, or set a ceiling on it
-> through the Band gates?* On the first reading the table above is wrong and
-> the reserves are wrong with it; on the second the table above is right and
-> the floor is simply not a rule. Everything in §4.3 is built on the second
-> reading and falls with it.
+> **What the ruling gives this table, and what it does not.** **[ruled]** R44-1
+> makes a Stage's band the arbiter of a card figure — *"the card figures that
+> then sit outside their **Stage's** band are the error"* — which is exactly
+> what §4.3 supplies and what the twelve under-band anchors above would be
+> measured against. It does not say how a Stage's band is derived, and Part
+> Nineteen's *"Scales with Temperance Stage"* still sits beside a ruled method
+> that interpolates on **Level**. **The open question, unattached to any
+> closed row** (it is stated once, in §2.4): *does "scales with Temperance
+> Stage" set the reserve, or cap it through the Band gates?* Everything in
+> §4.3 is built on the second reading and falls with it.
+>
+> **[draft] One thing this Part will not do.** R44-1 names a card figure
+> outside its Stage's band as an error; the twelve anchors below their Stage's
+> *floor* in the table above are outside a **working band** that this Part
+> derived, not outside a canon table. A derived band is not a ruling's "Stage's
+> band" until Isaac says it is, and reading it as one would turn twelve
+> characters into errata on the strength of arithmetic this Part did itself.
+> **No card figure is called an error here.** The residuals are shown and WAR-46
+> owns the sweep.
 
 ### 4.5 The two that go over the ceiling
 
@@ -552,7 +662,7 @@ the anomaly in-world rather than hiding it:
 
 **[canon]** `wiki/Volume I — Character Cards/Sodoku Moto.md:36`
 > | **Level** | **320 / 500** · Band IV — Mythic (301–400). *Flag: normally
-> clusters Stage XI–XII. **He is genuinely Stage VI*** |
+> clusters Stage XI–XII. He is genuinely Stage VI* |
 
 **Krothar Veylshroud, Level 380 at Stage VIII.** Stage VIII cannot pass Level
 300 without the Stage X Threshold.
@@ -566,10 +676,15 @@ characters as over the ceiling, which is a reading of the gate rule and not a
 claim about either card.
 
 **Gimbzo, 4.8 × 10¹⁴ EU at Stage XII** — 4.85 decades over any Level the gates
-allow, and 6.14 over the working band. This is inside C-034 already (his is the
-figure that makes Stage XII span 9.8 orders of magnitude on its own) and is not
-re-filed. At 1 kJ his reserve is 480 petajoules; his own card calls it a
-cistern.
+allow, and 6.14 over the working band. He is the figure that makes Stage XII
+span 9.8 orders of magnitude on its own, he was inside C-034, and **R44-1 now
+names him:** a card figure outside its Stage's band is the error, and his is
+outside by 4.85 decades. The correction is WAR-46's and is not made here.
+**[residual]** At the ruled 1 MJ his reserve is **4.8 × 10²⁰ J, 480
+exajoules, 115 gigatons of TNT** — 4.85 decades above the Tier 7 Grandmaster
+reserve ceiling his own Stage sits at, though the figure itself lands inside
+SSS on the spine in §3, which is Tier 7's own Grade. **His reserve is one
+Grandmaster attack.** His own card calls it a cistern.
 
 ---
 
@@ -583,20 +698,20 @@ says what that rate is for: *"The single most important variable in sustained
 combat, because it determines how long the reserve lasts under continuous
 output."*
 
-**[draft]** One AU is one EU crossing the boundary. At 1 EU = 1 kJ that makes
-1 AU/s = 1 kW, and the time to empty is:
+**[draft]** One AU is one EU crossing the boundary. At the ruled 1 EU = 1 MJ
+that makes 1 AU/s = 1 MW, and the time to empty is:
 
     t_empty       = EU reserve ÷ (AU/s)                 seconds
     t_starvation  = 0.9 × EU reserve ÷ (AU/s)           seconds, to the ten-percent floor
-    power drawn   = AU/s × 1 kW
-    power delivered = AU/s × η × 1 kW
-    waste heat    = (1 − η) × AU/s × 1 kW
+    power drawn   = AU/s × 1 MW
+    power delivered = AU/s × η × 1 MW
+    waste heat    = (1 − η) × AU/s × 1 MW
 
 **The factor cancels in the first two lines and does not cancel in the last
 three.** Every drain time below is a property of the two figures on the card
-and of the decision to make one AU one EU; it would be the same at 1 MJ. The
-*waste* scales with the constant directly, and that is what the brief's
-constant destroyed and this one restores.
+and of the decision to make one AU one EU; it is the same at any constant. The
+*power* and the *waste* scale with the constant directly, and at the ruled
+constant they are the residual this section has to carry: see §5.3.
 
 ### 5.2 Worked, at three scales
 
@@ -605,118 +720,186 @@ constant destroyed and this one restores.
 Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η**
 0.89"*
 
-    reserve        3,100 EU × 1 kJ            = 3.10 MJ potential, 2.76 MJ deliverable
-    full output    480 AU/s × 1 kW            = 480 kW drawn, 427 kW delivered
+    reserve        3,100 EU × 1 MJ            = 3.10 GJ potential, 2.76 GJ deliverable
+    full output    480 AU/s × 1 MW            = 480 MW drawn, 427 MW delivered
     t_empty        3,100 ÷ 480                = 6.46 s
     t_starvation   0.9 × 6.46                 = 5.81 s
-    waste          0.11 × 480 kW              = 52.8 kW
-    net of the ~2 kW a body sheds             = 50.8 kW → 0.207 K/s
-    +5 K (lethal core rise)                   = 24.1 s
+    waste          0.11 × 480 MW              = 52.8 MW
+    net of the ~2 kW a body sheds             = 52.8 MW → 215 K/s
+    +5 K (lethal core rise)                   = 23.2 ms
 
-**She runs dry four times before she cooks.** The reserve is the binding clock
-and Starvation is the real risk. Her three named workings, priced:
+**[residual] She cooks 250 times over before she runs dry.** At the ruled
+constant the heat clock beats the reserve clock by a factor of 250 on the
+cheapest sheet in the corpus, so Starvation — the mechanic Part Nineteen
+defines — cannot be reached at full output. This is `physics-check.md` §4.7's
+first finding, and it holds at every scale: *"At 1 AU/s = 1 MW the thermal clock
+finishes 10⁴ to 10¹⁶ times sooner than the reserve does, so nobody ever reaches
+ten percent EU — they cook at ninety-nine. The mechanic canon defines cannot
+occur."* Recorded, not reconciled; the ruling stands and §5.3 gives the factor
+for all twenty-six anchors.
+
+Her three named workings, priced at the ruled constant:
 
 | working | EU | potential | delivered at η 0.89 | Grade | fraction of reserve |
 |---|---|---|---|---|---|
-| Nerve Reading (`:83`) | 140 | 140 kJ | 125 kJ | D | 4.5% |
-| Coagulatio Seal (`:84`) | 260 | 260 kJ | 231 kJ | D | 8.4% |
-| Somnalis Drift (`:85`) | 390 | 390 kJ | 347 kJ | D | 12.6% |
+| Nerve Reading (`:83`) | 140 | 140 MJ | 125 MJ | **C** | 4.5% |
+| Coagulatio Seal (`:84`) | 260 | 260 MJ | 231 MJ | **C** | 8.4% |
+| Somnalis Drift (`:85`) | 390 | 390 MJ | 347 MJ | **C** | 12.6% |
 
 Seven full Somnalis Drifts and she is in Starvation (0.9 × 3,100 ÷ 390 = 7.15).
 Nineteen Nerve Readings. That is a scene's worth of decisions, and it is the
-number a player at her side of the table needs.
+number a player at her side of the table needs — **the fractions of reserve do
+not move with the constant, and they are the part of this table a scene uses.**
+
+**[residual]** The Grade column does. At the ruled constant, reading a man's
+muscle tension from fifteen feet delivers 125 MJ and grades **C — "Small
+Building to low Building, 0.005 to 0.25 tons TNT"** (FoW II:46), thirty
+kilograms of TNT to notice that someone's shoulder is tight. Her Stage is IV,
+whose Max Grade is B, so it is inside her ceiling and breaks no gate; it is the
+`physics-check.md` §1.2 finding in the units the Part prints. The three figures
+here and the 140 MJ in §2.4 are the same number.
 
 **Middle — Dougou Ozumu Zettari, Stage XIII, Tier 8 Archmaster.** The one sheet
 in the corpus that prices itself, and therefore the calibration.
 **[canon]** `:38` *"3,900 AU/s external … **η 0.99**"*; The Iron Tree:20,
 92,000 EU reserve.
 
-    reserve        92,000 EU × 1 kJ           = 92.0 MJ potential, 91.1 MJ deliverable
-    full output    3,900 AU/s × 1 kW          = 3.90 MW drawn, 3.86 MW delivered
+    reserve        92,000 EU × 1 MJ           = 92.0 GJ potential, 91.1 GJ deliverable
+    full output    3,900 AU/s × 1 MW          = 3.90 GW drawn, 3.86 GW delivered
     t_empty        92,000 ÷ 3,900             = 23.6 s
     t_starvation                              = 21.2 s
-    waste          0.01 × 3.90 MW             = 39.0 kW
-    net of ~2 kW                              = 37.0 kW → 0.151 K/s
-    +5 K                                      = 33.1 s
+    waste          0.01 × 3.90 GW             = 39.0 MW
+    net of ~2 kW                              = 39.0 MW → 159 K/s
+    +5 K                                      = 31.4 ms
 
-    apex strike    7,400 EU                   = 7.33 MJ delivered, D-Grade top
+    apex strike    7,400 EU                   = 7.33 GJ delivered, B-Grade mid-band
     strikes held   92,000 ÷ 7,400             = 12.4 from full, 11.2 before Starvation
 
-**His two clocks are within a factor of 1.6 of each other** — 21 seconds of
-reserve against 33 seconds of heat. That is the whole mechanic working: η
-matters, the reserve matters, and a fight is decided by which one you spend
-first. Twelve apex strikes from a full reserve is a fightable number, and it is
-the only one in the corpus that comes out of canon's own arithmetic rather than
-out of a choice.
+**Twelve apex strikes from a full reserve** is the one number in this section
+that comes out of canon's own arithmetic rather than out of a choice: the ratio
+of a reserve to a cost is the constant's one blind spot, and it holds at any
+constant. It is the fightable figure, and a scene can be run on it.
+
+**[residual] His two clocks are a factor of 676 apart** — 21.2 seconds of
+reserve against **31.4 milliseconds** of heat, on the highest η in the corpus
+(0.99, one percent wasted). At the measured constant they were within a factor
+of 1.6, which is the mechanic η exists to create; at the ruled constant the
+reserve clock is never reached and η stops being a decision, because the man
+with one percent waste and the man with forty percent waste both die inside a
+tenth of a second. **§6.3 shows where that heat cannot go, and §6.4 prices what
+it looks like on the way out.**
 
 **Large — Kwon Mu-jin, Stage XII, Tier 7 Grandmaster.**
 **[canon]** `wiki/Volume I — Character Cards/Kwon Mu-jin.md:73` *"**Flux
 Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87"*, reserve
 850,000,000 EU.
 
-    reserve        8.5 × 10⁸ EU × 1 kJ        = 850 GJ potential, 740 GJ deliverable
-    full output    1,566,000 AU/s × 1 kW      = 1.57 GW drawn, 1.36 GW delivered
+    reserve        8.5 × 10⁸ EU × 1 MJ        = 850 TJ potential, 740 TJ deliverable
+    full output    1,566,000 AU/s × 1 MW      = 1.57 TW drawn, 1.36 TW delivered
     t_empty        8.5 × 10⁸ ÷ 1,566,000      = 542.8 s   (9 min 2 s)
     t_starvation                              = 488.5 s   (8 min 8 s)
-    waste          0.13 × 1.57 GW             = 204 MW
+    waste          0.13 × 1.57 TW             = 204 GW
+    +5 K                                      = 6.0 µs
 
-Two hundred megawatts cannot be shed by a body — **[derived]** it is a hundred
-thousand times what a man can lose, and it is the reason §6.3 exists. What can
-be shed is the *reserve*: nine minutes at full draw. Against his own summons:
+**[residual]** Two hundred gigawatts is a hundred million times the ~2 kW a
+body can shed. His heat clock is **six microseconds** and his reserve clock is
+nine minutes: **a factor of 8 × 10⁷.** §6.3 is where that heat cannot go and
+§6.4 is what it looks like going.
+
+What is *not* a residual is the reserve arithmetic, which is what a scene runs
+on. Against his own summons:
 
 **[canon]** `wiki/The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md:30`
 > | **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5
 > to 127.5 million EU |
 
-**[derived]** 42.5–127.5 GJ potential, 37–111 GJ delivered — **A-Grade, Tier 5
-Expert** on the spine in §3, three rungs below his own Tier. And: **six
-constructs at the dear end, eighteen at the cheap end, before Starvation.** A
-summoner who calls six heavy constructs has spent his afternoon.
+**[derived]** 42.5–127.5 TJ potential, **37.0–110.9 TJ delivered.** And here
+the spine's one carve-out bites, on the first attested figure to meet it:
+
+- the **dear** construct, 110.9 TJ, is **SS — Tier 6 · Master**, one rung below
+  his own Tier 7.
+- the **cheap** construct, **37.0 TJ, lands inside R44-3's gap** — above S's
+  ceiling of 2.42672 × 10¹³ J and below SS's floor of 4.184 × 10¹³ J. **[ruled]**
+  *"an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ —
+  is ranked by the Sub-Stat column, not by joules."* So the cheap construct is
+  not graded off this table at all: it is graded off Kwon Mu-jin's Sub-Stat
+  value against Part Four's 401–550 (S) / 551–725 (SS) column. Either way it is
+  Tier 6, because S and SS share a Tier — **the carve-out moves the Grade, never
+  the rung**, which is the property WAR-13's ladders need and the reason §3
+  states it.
+
+And: **six constructs at the dear end, eighteen at the cheap end, before
+Starvation.** A summoner who calls six heavy constructs has spent his afternoon.
 
 ### 5.3 The whole attested set
 
 **[derived]** `ledger_tables.py` §E, every anchor that states a reserve and an
 AU/s, sorted by how long the reserve holds at full draw. Times to Starvation
-are at 90% of reserve spent. Waste and the heat clock are at 1 AU/s = 1 kW,
-against 245 kJ/K body heat capacity, a +5 K lethal rise and the ~2 kW a body
-can shed (`physics-check.md`, Method).
+are at 90% of reserve spent. Waste and the heat clock are at the ruled
+1 AU/s = 1 MW, against 245 kJ/K body heat capacity, a +5 K lethal rise and the
+~2 kW a body can shed (`physics-check.md`, Method).
 
 | t to empty | to Starvation | entity | EU | AU/s | η | waste | +5 K in |
 |---|---|---|---|---|---|---|---|
-| 0.72 s | 0.65 s | Gimbzo | 4.8 × 10¹⁴ | 6.7 × 10¹⁴ | 0.94 | 4.0 × 10¹⁶ W | 30 ps |
-| 1.08 s | 0.97 s | Ignatius / Darius | 5,500,000 | 5,100,000 | 0.90 | 510 MW | 2.4 ms |
-| 3.23 s | 2.91 s | Iracordas | 16,800 | 5,200 | 0.93 | 364 kW | 3.4 s |
-| 5.50 s | 4.95 s | Artemis Amagiri Moto | 41,800 | 7,600 | 0.84 | 1.22 MW | 1.0 s |
-| 6.46 s | 5.81 s | Yukazuri Moto | 3,100 | 480 | 0.89 | 52.8 kW | 24.1 s |
-| 6.67 s | 6.00 s | Krothar Veylshroud | 2,800,000 | 420,000 | 0.81 | 79.8 MW | 15 ms |
-| 7.24 s | 6.51 s | Naiser Yukari | 2,460 | 340 | 0.55 † | 153 kW | 8.1 s |
-| 10.00 s | 9.00 s | Naevra Yukari | 185,000 | 18,500 | 0.96 | 740 kW | 1.7 s |
-| 10.00 s | 9.00 s | Naori Yukari | 42,000 | 4,200 | 0.40 | 2.52 MW | 0.49 s |
-| 12.05 s | 10.85 s | Vethraun Ashmaw | 9,400 | 780 | 0.91 | 70.2 kW | 18.0 s |
-| 12.63 s | 11.37 s | Niran Yukari | 485,000 | 38,400 | 0.89 | 4.22 MW | 0.29 s |
+| 0.72 s | 0.65 s | Gimbzo | 4.8 × 10¹⁴ | 6.7 × 10¹⁴ | 0.94 | 40.2 EW | 0.031 ps |
+| 1.08 s | 0.97 s | Ignatius / Darius | 5,500,000 | 5,100,000 | 0.90 | 510 GW | 2.4 µs |
+| 3.23 s | 2.91 s | Iracordas | 16,800 | 5,200 | 0.93 | 364 MW | 3.4 ms |
+| 5.50 s | 4.95 s | Artemis Amagiri Moto | 41,800 | 7,600 | 0.84 | 1.22 GW | 1.0 ms |
+| 6.46 s | 5.81 s | Yukazuri Moto | 3,100 | 480 | 0.89 | 52.8 MW | 23.2 ms |
+| 6.67 s | 6.00 s | Krothar Veylshroud | 2,800,000 | 420,000 | 0.81 | 79.8 GW | 15.4 µs |
+| 7.24 s | 6.51 s | Naiser Yukari | 2,460 | 340 | 0.89 † | 37.4 MW | 32.8 ms |
+| 10.00 s | 9.00 s | Naevra Yukari | 185,000 | 18,500 | 0.96 | 740 MW | 1.7 ms |
+| 10.00 s | 9.00 s | Naori Yukari | 42,000 | 4,200 | 0.40 | 2.52 GW | 486 µs |
+| 12.05 s | 10.85 s | Vethraun Ashmaw | 9,400 | 780 | 0.91 | 70.2 MW | 17.5 ms |
+| 12.63 s | 11.37 s | Niran Yukari | 485,000 | 38,400 | 0.89 | 4.22 GW | 290 µs |
 | 15.77 s | 14.19 s | Anryū Ichimonji | 820,000 | 52,000 | 1.05 | none — see §6.5 | never |
-| 18.08 s | 16.27 s | Mizuki Moto | 470,000 | 26,000 | 0.82 | 4.68 MW | 0.26 s |
-| 19.47 s | 17.53 s | Ayame Yuno | 37,000 | 1,900 | 0.86 | 266 kW | 4.6 s |
-| 20.59 s | 18.53 s | Rengai Zettari | 1,400,000 | 68,000 | 0.78 | 15.0 MW | 0.08 s |
-| 22.50 s | 20.25 s | Rashani Zettari | 540,000 | 24,000 | 0.81 | 4.56 MW | 0.27 s |
-| 23.59 s | 21.23 s | Dougou Ozumu Zettari | 92,000 | 3,900 | 0.99 | 39.0 kW | 33.1 s |
-| 24.15 s | 21.74 s | Lucius Xenotro | 2,850,000 | 118,000 | 0.92 | 9.44 MW | 0.13 s |
-| 25.69 s | 23.13 s | Muken Moto | 1,850,000 | 72,000 | 0.84 | 11.5 MW | 0.11 s |
-| 25.96 s | 23.37 s | Yorime Seikai | 74,000 | 2,850 | 0.94 | 171 kW | 7.3 s |
-| 70.59 s | 63.53 s | Ara Min Mahuo | 4,200,000 | 59,500 | 0.70 | 17.9 MW | 0.07 s |
-| 5 min 36 s | 5 min 2 s | The Arctic Lion (Level 500) | 4,200,000 | 12,500 | 0.91 | 1.12 MW | 1.1 s |
-| 5 min 52 s | 5 min 17 s | Sodoku Moto | 1,340,000 | 3,800 | 0.84 | 608 kW | 2.0 s |
-| 9 min 2 s | 8 min 8 s | Kwon Mu-jin | 850,000,000 | 1,566,000 | 0.87 | 204 MW | 6 ms |
-| 41 min 6 s | 37 min 0 s | Yoko Mishiro | 185,000 | 75 | 0.50 | 37.5 kW | 34.5 s |
-| 15 h 37 m 30 s | 14 h 3 m 45 s | Borin Ironheart | 180,000,000 | 3,200 | 0.91 | 288 kW | 4.3 s |
+| 18.08 s | 16.27 s | Mizuki Moto | 470,000 | 26,000 | 0.82 | 4.68 GW | 262 µs |
+| 19.47 s | 17.53 s | Ayame Yuno | 37,000 | 1,900 | 0.86 | 266 MW | 4.6 ms |
+| 20.59 s | 18.53 s | Rengai Zettari | 1,400,000 | 68,000 | 0.78 | 15.0 GW | 81.9 µs |
+| 22.50 s | 20.25 s | Rashani Zettari | 540,000 | 24,000 | 0.81 | 4.56 GW | 269 µs |
+| 23.59 s | 21.23 s | Dougou Ozumu Zettari | 92,000 | 3,900 | 0.99 | 39.0 MW | 31.4 ms |
+| 24.15 s | 21.74 s | Lucius Xenotro | 2,850,000 | 118,000 | 0.92 | 9.44 GW | 130 µs |
+| 25.69 s | 23.13 s | Muken Moto | 1,850,000 | 72,000 | 0.84 | 11.5 GW | 106 µs |
+| 25.96 s | 23.37 s | Yorime Seikai | 74,000 | 2,850 | 0.94 | 171 MW | 7.2 ms |
+| 70.59 s | 63.53 s | Ara Min Mahuo | 4,200,000 | 59,500 | 0.70 | 17.9 GW | 68.6 µs |
+| 5 min 36 s | 5 min 2 s | The Arctic Lion (Level 500) | 4,200,000 | 12,500 | 0.91 | 1.12 GW | 1.1 ms |
+| 5 min 52 s | 5 min 17 s | Sodoku Moto | 1,340,000 | 3,800 | 0.84 | 608 MW | 2.0 ms |
+| 9 min 2 s | 8 min 8 s | Kwon Mu-jin | 850,000,000 | 1,566,000 | 0.87 | 204 GW | 6.0 µs |
+| 41 min 6 s | 37 min 0 s | Yoko Mishiro | 185,000 | 75 | 0.50 | 37.5 MW | 32.7 ms |
+| 15 h 37 m 30 s | 14 h 3 m 45 s | Borin Ironheart | 180,000,000 | 3,200 | 0.91 | 288 MW | 4.3 ms |
 
-*† Naiser Yukari's card states no η and Part Nineteen's Tier 5 midpoint stands
-in; every other η in this table is the figure that character's own card states,
-and `ledger_tables.json` `drain[].eta_from` carries the file and line for each.
-(Two reserves are quoted from a Spellcraft or Disciplines page rather than a
-card — Dougou's from The Iron Tree, Kwon Mu-jin's from The Open Crucible — and
-for those two `fit.json` had fallen back to a Tier midpoint because the page
-carrying the reserve states no η. The card wins here.)*
+*† **Naiser Yukari's η is the one figure in this Part that differs from Phase
+1's data, and the reason is a live ruling.** `fit.json` carries no η for him and
+falls back to Part Nineteen's Tier 5 midpoint, because Phase 1's extractor read
+the AU/s row of his card and not the row printed directly beneath it. The card
+states the figure: **[canon]** `wiki/Volume I — Character Cards/Naiser
+Yukari.md:60` — `| **Aetheric Efficiency** | 0.89 | **Almost all of what he
+commits lands exactly where intended** |`. **[ruled]** R44-5 governs and names
+him: *"The card's η governs per character and the tables are typical ranges; an
+in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's
+0.81 and Naiser Yukari's figure stand as written."* So the table reads **0.89**
+off the card, not 0.55 off a superseded Tier row and not the 0.65 that R44-4's
+corrected Tier row would have given. The gap in `anchors.json` is filed as
+**WAR-94** and no card was touched.*
+
+*Every other η here is the figure that character's own card states, and
+`ledger_tables.json` `drain[].eta_from` carries the file and line for each. (Two
+reserves are quoted from a Spellcraft or Disciplines page rather than a card —
+Dougou's from The Iron Tree, Kwon Mu-jin's from The Open Crucible — and for
+those two `fit.json` had fallen back to a Tier midpoint because the page
+carrying the reserve states no η. Under R44-5 the card wins, and it does here.)*
+
+**[residual] The last column is the whole of `physics-check.md`'s verdict in one
+place.** At the ruled constant, twenty-five of the twenty-six anchors reach a
+lethal core temperature in **between 0.031 picoseconds and 32.7 milliseconds**
+of their own stated full output. The twenty-sixth is Anryū Ichimonji, and only
+because his η is above one and he wastes nothing (§6.5). The two longest are
+Naiser Yukari at 32.8 ms and Yoko Mishiro at 32.7 ms, and the note names the
+second of them as its best case: *"The best case in the whole anchor set, Yoko
+Mishiro at 75 AU/s, cooks to death in 33 milliseconds."* **The longest heat
+clock in the table, 32.8 ms, is twenty-two times shorter than the shortest
+reserve clock in it, Gimbzo's 0.72 s. The two columns do not overlap
+anywhere.** Recorded; the ruling stands.
 
 **[derived] What the column says about the cards.** Five sheets describe a
 practitioner their own two numbers cannot be:
@@ -745,6 +928,16 @@ His two numbers and his prose describe the same person.
 ruling adopts the identity**, and §3.3 of `physics-check.md` is the list to
 file from.
 
+**[ruled] And one ruling already stands between them and a filing.** R44-2 names
+the stated card AU/s figures as the error where they are not Flux Density × η,
+and **all five of these sheets are among the twenty-six that miss** (§6.2:
+Gimbzo +7.889 decades, Ayame Yuno +0.637, Artemis Amagiri Moto +0.660, Iracordas
+−0.226, Ignatius +0.021). So the five durations above are computed from figures a
+live ruling has already called errors, and WAR-48's recomputation will move them
+before anything about the identity is settled. **A row filed on these five today
+would be filed against numbers that are going to change.** They stay flagged and
+unfiled, and WAR-48 is the issue that will know.
+
 > **PENDING.** **The question:** *is one AU one EU — that is, does a second at
 > full AU/s cost exactly AU/s worth of EU?* If yes, the table above is the
 > Ledger and five cards need their durations reconciled. If no, the two axes
@@ -769,11 +962,18 @@ scene.**
 
 ### 6.1 The equation, as canon states it
 
-**[canon]** FoW VII:85, and the same identity twice more at
-`wiki/The Magic System/The Core Vocabulary.md:90` and
-`wiki/The Magic System/Tier Grade, Bands & the Aether Shell.md:195`:
+**[canon]** FoW VII:85 states it as a formula:
 
 > Formula: **AU/s = Flux Density × η**.
+
+**[canon]** and the same identity, without the word *Formula*, twice more —
+`wiki/The Magic System/The Core Vocabulary.md:90` and
+`wiki/The Magic System/Tier Grade, Bands & the Aether Shell.md:195`, both:
+
+> **AU/s = Flux Density × η**
+
+**[ruled]** R44-2 makes it an identity that governs, and the card figures that
+miss it the error. The rest of this section is written on that ruling.
 
 ### 6.2 It is short one mass, and the cards measure the missing one
 
@@ -805,15 +1005,31 @@ structure"* (`:37`). His implied *m* is 0.00024 g — thirty-seven million times
 smaller. **The mass reading is not the whole Crystal.** It could be a working
 aperture, a coupled fraction, or nothing at all; the draft asserts none of them.
 
-> **PENDING — C-035.** The conflict row is open: the identity is stated three
-> times and fails on twenty-six of twenty-nine cards, and no card states an
-> exception. **The question this Part adds, and it is a smaller one:** *does
-> AU/s = Flux Density × η carry an implicit mass, and if so, whose — the whole
-> Crystal (Draen Varos's nine kilograms), or a working aperture much smaller
-> than it?* A ruling on the mass would settle twenty-one of the twenty-six
-> misses at once and leave the seven high-Flux sheets and Gimbzo to C-035
-> proper. **The Part does not bend to fit any card; the equation above is FoW
-> VII:85 as written, and the residual column is what the cards do with it.**
+> **RULED — C-035 (R44-2), and the question that survives it.** **[ruled]**
+> `RULINGS.md`, 2026-09-25:
+>
+> > **C-035.** The formula governs: AU/s = Flux Density × η. The stated card
+> > AU/s figures are the error, and the twenty-six that miss are recomputed in
+> > their own issue, not in this ruling batch.
+>
+> That settles which side of the identity is canon and it is the side this
+> section is written on: **the equation governs and the twenty-six card figures
+> are the error.** The row is closed with the ruling batch (WAR-22) and the
+> recomputation is WAR-48's, not this Part's. The residual column above stays
+> exactly as it is, because the residual is now the measure of a known card
+> error rather than of a live dispute.
+>
+> **The question this section adds is not answered by it, and is new.** R44-2
+> rules that the identity governs; it says nothing about an implicit mass, and
+> the identity as written is still dimensionally short by a gram per second
+> (§6.2). **The question, against a live ruling:** *does AU/s = Flux Density ×
+> η carry an implicit mass, and if so, whose — the whole Crystal (Draen Varos's
+> nine kilograms), or a working aperture much smaller than it?* It matters to
+> WAR-48, because if the answer is "one gram, taken as read" then twenty-one of
+> the twenty-six misses are not card errors at all but a unit never written
+> down, and recomputing them would delete a real regularity. **The Part does
+> not bend to fit any card; the equation above is FoW VII:85 as written, and
+> the residual column is what the cards do with it.**
 
 ### 6.3 Where the waste goes, and why it cannot go through the body
 
@@ -825,14 +1041,20 @@ place the irreversibility happened. Light and sound are ways out of that place,
 not alternatives to it, and each thermalises where it is absorbed.
 
 **[derived] It cannot be generated inside the body and conducted out.**
-Fourier's law, q = −k∇T. Yukazuri's 52.8 kW through 1.8 m² of skin is
-29.3 kW/m²; across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that needs
+Fourier's law, q = −k∇T. Yukazuri's 52.8 MW through 1.8 m² of skin is
+29.3 MW/m²; across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that needs
 
-    ΔT = qL/k = 2.93 × 10⁴ × 0.003 / 0.4 = 220 K
+    ΔT = qL/k = 2.93 × 10⁷ × 0.003 / 0.4 = 2.2 × 10⁵ K
 
 across three millimetres — and she is the *smallest* output in the set. At
-Dougou's 39 kW it is 163 K; at Kwon Mu-jin's 204 MW it is 8.5 × 10⁵ K. Skin
-chars at about 200 °C.
+Dougou's 39.0 MW it is 1.63 × 10⁵ K; at Kwon Mu-jin's 204 GW it is
+8.5 × 10⁸ K. Skin chars at about 200 °C.
+
+**[residual]** Those three numbers are the ruled constant's, and they are two
+hundred thousand times a temperature that exists. They are not a reason to move
+the constant — R44-1 governs — but they are the reason the rest of this section
+has to be read as a *requirement on where the Crystal sits*, not as a
+description of a man warming up.
 
 **[draft] So the Soul Crystal is not a battery in the chest — it is an
 aperture, and the dissipation happens at or outside the body's surface.** This
@@ -854,16 +1076,20 @@ looks like. T = (P / εσA)^¼ over 1.8 m² at ε = 0.98:
 
 | practitioner | waste | surface T | pain on bare skin (2 kW/m²) | wood ignites, piloted (12.5 kW/m²) |
 |---|---|---|---|---|
-| Yukazuri Moto | 52.8 kW | 852 K | 1.45 m | 0.58 m |
-| Dougou Ozumu Zettari | 39.0 kW | 790 K | 1.25 m | 0.50 m |
-| Naori Yukari | 2.52 MW | 2,240 K | 10.0 m | 4.0 m |
-| Ara Min Mahuo | 17.9 MW | 3,658 K | 26.7 m | 10.7 m |
-| Kwon Mu-jin | 204 MW | 6,717 K | 90.0 m | 36.0 m |
+| Dougou Ozumu Zettari | 39.0 MW | 4,444 K | 39.4 m | 15.8 m |
+| Yukazuri Moto | 52.8 MW | 4,793 K | 45.8 m | 18.3 m |
+| Naori Yukari | 2.52 GW | 12,600 K | 317 m | 127 m |
+| Ara Min Mahuo | 17.9 GW | 20,550 K | 843 m | 337 m |
+| Kwon Mu-jin | 204 GW | 37,770 K | 2,846 m | 1,138 m |
 
-*Radius r = √(P / 4π · threshold).* At 852 K Yukazuri glows a dull cherry red
-and is painful to stand beside. At 2,240 K Naori is above the melting point of
-steel. At 6,717 K Kwon Mu-jin is **hotter than the surface of the Sun** and
-sets timber alight at thirty-six metres, **including his own side's.**
+*Radius r = √(P / 4π · threshold).* **[residual]** At the ruled constant the
+weakest practitioner in the corpus, a Stage IV adept reading someone's muscle
+tension, runs a surface at **4,793 K** — comparable to the photosphere of the
+Sun — and sets timber alight at **eighteen metres**. Kwon Mu-jin's 37,770 K is
+hotter than any main-sequence star's surface, and the ignition radius is
+**1.14 kilometres**, which reaches his own army, his own city and the ground he
+is standing on. Dougou, at η 0.99 — the single most efficient practitioner in
+canon, wasting one percent — still ignites wood at fifteen metres.
 
 **[draft] This is the tell, and it is also the cost.** A practitioner at full
 output is a lamp, a furnace and a hazard to everyone within a stated radius,
@@ -871,6 +1097,15 @@ and the radius is on this table. A low-η practitioner is brighter for the same
 work. A high-η one is nearly dark — which is why Anryū's card bothers to say
 his does not leak, and why a reader who notices a man working in silence and in
 the cold should be more frightened, not less.
+
+**[draft] What the constant does to the tell, said plainly.** The tell survives
+R44-1 and the counterplay survives with it, because both depend on *(1 − η) ×
+output* and on nothing else; the ladder of who is brighter than whom is
+unchanged. What changes is that at the ruled constant the radii are **kilometres
+rather than metres**, which makes the tell a strategic fact — you can see a
+practitioner working from the next valley — rather than a tactical one you read
+across a room. WAR-13's Domain and Wellspring-site ladders will price hazard off
+this table and should know which it is.
 
 ### 6.5 η above one
 
@@ -884,29 +1119,41 @@ pump delivers three to five times its input because it moves energy from
 outside. Canon's clause is the correct escape and it names the right price:
 **there must be a reservoir, and it must measurably deplete.**
 
-Quantified at Anryū Ichimonji's 52,000 AU/s and η 1.05: of every 1.05
-delivered, 0.05 is drawn in, so 4.76% of 52.0 MW = **2.48 MW** comes out of the
-surroundings. Cooling sea-level air (ρ 1.225 kg/m³, c_p 1,005 J·kg⁻¹·K⁻¹) by
-10 K to supply it takes
+Quantified at Anryū Ichimonji's 52,000 AU/s and η 1.05, at the ruled constant:
+of every 1.05 delivered, 0.05 is drawn in, so 4.76% of 52.0 GW = **2.48 GW**
+comes out of the surroundings. Cooling sea-level air (ρ 1.225 kg/m³, c_p
+1,005 J·kg⁻¹·K⁻¹) by 10 K to supply it takes
 
-    V = 2.48 × 10⁶ / (1.225 × 1,005 × 10) = 201 m³ per second
+    V = 2.48 × 10⁹ / (1.225 × 1,005 × 10) = 2.01 × 10⁵ m³ per second
 
-— a sphere 3.6 m in radius, every second. **[draft]** A practitioner running
-η > 1 in air stands in a steady inward draught, a ring of condensation and
-frost, and a falling barometer. **That is measurable with a thermometer**, and
-it is the counter as well as the tell: *starve the reservoir.* Still air behind
-glass, vacuum, Aether-dead ground, a Silence Realm — and η falls back below one
-by definition, because there is nothing left to supplement it with.
+— a sphere **36.4 m in radius, every second.** **[draft]** A practitioner
+running η > 1 in air stands in a steady inward draught, a ring of condensation
+and frost, and a falling barometer. **That is measurable with a thermometer**,
+and it is the counter as well as the tell: *starve the reservoir.* Still air
+behind glass, vacuum, Aether-dead ground, a Silence Realm — and η falls back
+below one by definition, because there is nothing left to supplement it with.
 
-*(At 1 MJ/EU the same figure is 2.48 GW and the bubble is 36.6 m in radius,
-which is a weather event rather than a tell. The constant is what makes this
-observable instead of theatrical.)*
+**[residual]** At the ruled constant the draught is 201,000 cubic metres of air
+a second — a cube fifty-nine metres on a side, every second: a standing wind, a
+fog bank and a local storm, not a thermometer reading. The counter is unchanged and a player can still find
+it — seal the room, take the air away — but the tell has stopped being subtle.
+**[draft]** Read at 1 MJ, Anryū Ichimonji is not a quiet man; he is a weather
+front, and any scene written with him should say so.
 
-> **PENDING — C-037.** Part Seventeen rates Class I Muridic at η 0.60–0.70 and
-> Part Nineteen puts the same Stages in Tier 5 at η 0.50–0.60. The page flags
-> it itself and withdraws neither. Every figure in this Part that reads η off
-> a Tier midpoint rather than off a card inherits it. **The question:** *which
-> scale governs a Stage VI or VII practitioner's η?*
+> **RULED — C-037 (R44-4).** **[ruled]** `RULINGS.md`, 2026-09-25:
+>
+> > **C-037.** Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII.
+> > Part Nineteen's Tier 5 row is corrected to match.
+>
+> Applied here in the one place the Part reads η off a table instead of a card
+> — Naiser Yukari, §5.3's footnote — at the ruled row's midpoint 0.65. The row
+> is closed with the ruling batch (WAR-22); the Part Nineteen page cell it
+> corrects is WAR-22's edit and not this Part's. **[ruled]** And the general
+> case beside it, R44-5: *"The card's η governs per character and the tables
+> are typical ranges; an in-world-acknowledged outlier is lawful. Sodoku Moto's
+> 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as written."*
+> Every other η in this Part is a card's own, so R44-4 moves one number and
+> R44-5 protects the rest.
 
 ---
 
@@ -924,14 +1171,21 @@ observable instead of theatrical.)*
 
 **[derived] Ten percent of what, in joules, at each Tier's ceiling:**
 
-| Tier | reserve ceiling, EU | Starvation floor, EU | in joules |
+| Tier | reserve ceiling, EU | Starvation floor, EU | in joules, at the ruled 1 MJ |
 |---|---|---|---|
-| 3 · Journeyman | 50,300 | 5,030 | 5.03 MJ |
-| 4 · Adept | 961,000 | 96,100 | 96.1 MJ |
-| 5 · Expert | 1.84 × 10⁷ | 1.84 × 10⁶ | 1.84 GJ |
-| 6 · Master | 3.51 × 10⁸ | 3.51 × 10⁷ | 35.1 GJ |
-| 7 · Grandmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 GJ |
-| 8 · Archmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 GJ |
+| 3 · Journeyman | 50,300 | 5,030 | 5.03 GJ |
+| 4 · Adept | 961,000 | 96,100 | 96.1 GJ |
+| 5 · Expert | 1.84 × 10⁷ | 1.84 × 10⁶ | 1.84 TJ |
+| 6 · Master | 3.51 × 10⁸ | 3.51 × 10⁷ | 35.1 TJ |
+| 7 · Grandmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 TJ |
+| 8 · Archmaster | 6.70 × 10⁹ | 6.70 × 10⁸ | 670 TJ |
+
+**[residual]** The Tier 6 floor, 35.1 TJ, sits inside R44-3's ranking gap (24.3
+to 41.8 TJ), so **the energy a Master must keep in reserve to stay out of
+Starvation is, as a released quantity, in the one band of the Grade table that
+joules do not rank.** It is a coincidence of two ruled numbers rather than a
+contradiction, and it is recorded so that a WAR-13 ladder pricing "what a
+Starved Master still has" does not read it off the joule column.
 
 **[canon]** One card sets its own margin above the floor, and says why that is
 allowed: `wiki/Volume I — Character Cards/Hieronymus Cruciferi · The Immortal.md:16`
@@ -962,15 +1216,49 @@ lists are what any system does when its efficiency collapses and its heat
 climbs together, and this gives Starvation a direction rather than a line in
 the sand: it does not begin at ten percent, it *becomes visible* there.
 
-**[derived] And it makes the two clocks cross.** From §5.3, at 1 kJ the reserve
-clock and the heat clock are within a factor of 1.6 on Dougou, a factor of 4 on
-Yukazuri, a factor of 1.2 on Yorime. **A practitioner near Starvation is a
-practitioner whose heat clock is winning**, because η is falling and the waste
-fraction is rising while the reserve that could be spent more slowly is the
-thing running out. *(At 1 MJ/EU the heat clock finishes 10⁴ to 10¹⁶ times
-sooner than the reserve clock and nobody ever reaches ten percent —
-`physics-check.md` §4.7. The mechanic canon defines cannot occur at the brief's
-constant. It can at this one.)*
+**[derived] It also says which clock wins, and the direction is the same at any
+constant.** A practitioner near Starvation is a practitioner whose heat clock is
+gaining, because η is falling and the waste fraction is rising while the reserve
+that could be spent more slowly is the thing running out.
+
+**[residual] At the ruled constant the heat clock does not merely win; it wins
+before the reserve clock starts.** `physics-check.md` §4.7, first finding:
+
+> **Starvation and overheating are the same clock, and the constant decides
+> which one runs out first.** At 1 AU/s = 1 MW the thermal clock finishes 10⁴ to
+> 10¹⁶ times sooner than the reserve does, so nobody ever reaches ten percent
+> EU — they cook at ninety-nine. The mechanic canon defines cannot occur.
+
+§5.3's last column is that finding in figures: the margin runs from a factor of
+**22** (Naiser Yukari, 6.51 s of reserve against 32.8 ms of heat) to **2 × 10¹³**
+(Gimbzo). **So on the body-heat route the ten-percent floor in FoW VII:83 is
+unreachable.** The Part does not soften that and does not repair it: R44-1 is
+later than the note, governs, and stands.
+
+**[derived] And spending more slowly does not help, which is worth stating
+because it is the obvious escape and it fails.** Both clocks scale as one over
+the output rate — the reserve empties in EU ÷ rate, and the body reaches +5 K in
+(245 kJ/K × 5 K) ÷ ((1 − η) × rate × 1 MJ) — so **the ratio between them is the
+same at a tenth of a card's AU/s as at all of it.** Nothing about duty cycle
+recovers Starvation as a mechanic. Only three things move that ratio: the
+constant (ruled), η (on the card), and **where the waste goes**.
+
+**[draft] So §6.3 is not a flourish; it is the only route this Part has, and it
+is one canon already half-states.** Fourier's law says the waste cannot be made
+inside the body and conducted out at any of these figures, which means the body
+heat-capacity clock in §5.3 is a bound on a route physics has already closed
+rather than a prediction about a practitioner. `physics-check.md` §6 says the
+same thing from the other side: the AU/s axis is *"unbounded by thermodynamics
+if the waste is dissipated outside it — in which case §4.5's radiance, burn
+radius and sound pressure become the binding constraints instead, and they are
+the interesting ones, because a player can find them."* At the ruled constant the
+binding constraint on sustained output is therefore **§6.4's table, not §5.3's
+last column** — the surface temperature, the burn radius and who else is standing
+in it. Essence Starvation survives as canon's mechanic because the reserve clock
+survives untouched by the constant; what the ruled constant costs is that a
+practitioner's limit is now written in burn radius rather than in core
+temperature. **A ruling on where the Shell dumps its waste would settle which of
+the two clocks the table plays by, and no ruling names it.**
 
 **[canon]** The cost is also permanent in at least one recorded case:
 `wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md:175`
@@ -1110,33 +1398,81 @@ Stage's band, including the twelve that sit under it and the two that sit over.
 
 **And it is findable.** A player who reads Part Four gets the Grade ladder. Part
 Five gets the Stage gates. Part One gets the Level gates. Part Nineteen gets η
-and the Starvation floor. `Counterplay` gets the four routes. This Part joins
-them and adds nothing that is not on one of those pages or derivable from them
-with a calculator. **Nobody has to be told the answer, and the answer is there
-for anyone who looks.**
+and the Starvation floor. `Counterplay` gets the four routes. `RULINGS.md`, the
+2026-09-25 entry, gets the constant and the four calls that hang off it. This
+Part joins them and adds nothing that is not on one of those pages or derivable
+from them with a calculator. **Nobody has to be told the answer, and the answer
+is there for anyone who looks.**
+
+**And where it does not work, it says so.** The ruled constant puts the burn
+radius in kilometres (§6.4), the conducted ΔT at 10⁵ to 10⁸ K (§6.3) and the
+body-heat clock in microseconds (§5.3), and a fair table cannot be built by
+hiding that from the player who does the arithmetic — they will do it, that is
+the point of the whole design. **§9.2 is the list, and every entry on it is
+quoted from the note that found it.** A Ledger that survives being checked is
+the only kind worth shipping; a reader who checks this one will find the
+residuals already on the page, named, with their sources, and the ruling that
+governs them stated over the top.
 
 ---
 
-## §9 · What is open
+## §9 · What is ruled, and what is open
+
+### 9.1 Ruled, and applied in this Part exactly as worded
+
+**[ruled]** `RULINGS.md`, the 2026-09-25 entry, rows R44-1 to R44-5 in
+`rules/doc-essence-ledger-rulings-2026-09-25.yaml`. Each closes a row that
+earlier drafts of this Part carried open.
+
+| row | ruling | where this Part applies it |
+|---|---|---|
+| **C-034** | **R44-1** — one constant, 1 EU = 1 MJ, everywhere; the card figures that then miss their Stage's band are the error | §2.2, and every joule, watt, ton of TNT and heat figure in the Part |
+| **C-035** | **R44-2** — the formula governs: AU/s = Flux Density × η; the stated card AU/s figures are the error | §6.1–6.2; the residual column is a measure of a known card error, not of a dispute |
+| **C-036** | **R44-3** — the gap is deliberate; 24.3–41.8 TJ is ranked by the Sub-Stat column, not by joules | §3 (stated in the spine WAR-13 inherits), §5.2 (Kwon Mu-jin's cheap construct), §7.1 (the Tier 6 floor) |
+| **C-037** | **R44-4** — Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII | §6.5; the one place the Part read η off a Tier row |
+| *(the Stage VI card η figures)* | **R44-5** — the card's η governs per character; the tables are typical ranges | §5.3's footnote, which is why Naiser Yukari reads 0.89 off his card |
+
+Plus the general rungs of the same day (`RULINGS.md`, 2026-09-25 — new): rung 1
+(a ruling's general sentence governs) is why *"The Ledger converts at 1 MJ
+everywhere"* reaches this Part, and rung 4 (a fallback for one column reaches
+the whole table) is cited in §3.
+
+### 9.2 Recorded against a ruling, not resolved
+
+| what | where | the residual |
+|---|---|---|
+| canon's three self-pricing lines | §2.3 | the ruled constant misses all three by 2.45–2.98 decades, one direction |
+| real thermodynamics and E = mc² | §2.4 | the ruled constant is outside all four of `physics-check.md`'s brackets |
+| the chain against the page that states the cost | §2.5 | The Iron Tree:41 says D-to-low-C; the chain gives B, +2.54 decades |
+| the bottom of the spine | §3 | a Tier 1 ceiling costs 0.015 EU — less than one unit of the currency |
+| conduction out of a body | §6.3 | ΔT of 2.2 × 10⁵ to 8.5 × 10⁸ K across three millimetres of skin |
+| the body-heat clock | §5.3, §7.2 | every anchor cooks in 0.031 ps to 32.8 ms; the ten-percent floor is unreachable on that route |
+
+**`CLAUDE.md`: a ruling and a physics note disagreeing is recorded, never
+resolved.** These are recorded. The route to revisit R44-1 is a fresh ruling,
+which is WAR-11's business and not this Part's; `physics-check.md` (WAR-10) is
+the case in full and Gemma Nye's independent second opinion is WAR-59.
+
+### 9.3 Still open
 
 | slot | on | the question |
 |---|---|---|
-| the constant | **C-034** | is one EU worth the same joules at Stage III as at Stage XIV? |
-| the reserve axis | **C-034** | does "scales with Temperance Stage" set the reserve, or cap it through the Band gates? |
-| 1 AU = 1 EU | new, §5.3 | does a second at full AU/s cost AU/s worth of EU? Five cards' durations hang on it. |
-| the missing mass | **C-035** + §6.2 | does AU/s = Flux Density × η carry an implicit Crystal mass, and whose? |
-| η at Stages VI–VII | **C-037** | Class I Muridic's 0.60–0.70 or Tier 5's 0.50–0.60? |
+| the reserve axis | new, §2.4 | does "scales with Temperance Stage" set the reserve, or cap it through the Band gates? R44-1 makes a Stage's band the arbiter but does not say how it is derived. §4.3 falls with this. |
+| 1 AU = 1 EU | new, §5.3 | does a second at full AU/s cost AU/s worth of EU? Five cards' durations hang on it, and no R44 row names it. |
+| the missing mass | new, §6.2 | R44-2 rules the identity governs; it says nothing about the gram per second the identity is dimensionally short of. If the answer is "one gram, taken as read", twenty-one of WAR-48's twenty-six recomputations are not errors. |
+| where the Shell dumps its waste | new, §7.2 | inside the body (§5.3's clock binds) or at/outside the surface (§6.4's radiance binds)? Fourier's law closes the first; no page rules it. |
 | recovery | new, §7.3 | are the percentage rates and the absolute rates the same quantity? |
 | Tier 9 reserve band | — | Part One has no Band for Stages XV–XVI; Part Nineteen has no η figure for Tier 9. Both left null. |
 | Stage XIV's Grade | `fit.json` `meta` | Part Five gives Zenith EX; Part Eleven's benchmark row declines to quantify it. |
-| the S/SS joule gap | **C-036** | 24.3–41.8 TJ is in Tier 6 and in no Grade. |
-| the SSS ceiling | **C-039** | 4.184 EJ or 4.184 ZJ — a thousandfold. |
+| the SSS ceiling | **C-039** | 4.184 EJ or 4.184 ZJ — a thousandfold. Rung 5 of 2026-09-25 names this row's own example; the row is still carried open and applying it is not this Part's work. |
 | Strike Force vs Stage | **C-040** | twelve cards state an output their Stage's Grade does not reach. |
+| B-to-A travel-speed gap | **C-038** | Mach 4 to Mach 5 sits in no Grade. Rung 4 of 2026-09-25 reaches it; the row is carried open. |
 | Level gates vs two cards | **C-041** *(filed by this phase)* | Sodoku at L320/Stage VI and Krothar at L380/Stage VIII are past gates their Stage has not opened. |
+| Naiser Yukari's η in `anchors.json` | **WAR-94**, §5.3 | not a canon question: Phase 1's extractor read his AU/s row and missed the "Aetheric Efficiency" row beneath it. Filed against `anchors.json` and `extract_anchors.py`; no card touched. |
 
-**Nothing in this Part resolves any of them.** Where a table had to be built
-over an open slot, the reading it used is named in the PENDING block beside it
-and the table falls with the reading.
+**Nothing in this Part resolves any of §9.3.** Where a table had to be built over
+an open slot, the reading it used is named beside it and the table falls with the
+reading.
 
 ---
 
@@ -1178,7 +1514,16 @@ a figure in any table above should be checked rather than here.
 `imports/essence-ledger/anchors.json` and `fit.json` (WAR-9, Phase 1 — every attested figure, with its entity, Stage, Tier, file and line, and the fit against them);
 `imports/essence-ledger/physics-check.md` (WAR-10 — the conversion against real physics);
 `imports/essence-ledger/ledger_tables.py` and `ledger_tables.json` (this phase — every table above, reproducible);
-`CONFLICTS.md` C-034 to C-041; `RULINGS.md` R43.
+`CONFLICTS.md` C-034 to C-041;
+`RULINGS.md` — the 2026-09-24 entry (R43) and **the 2026-09-25 entries: "the
+Essence Ledger questionnaire answered; C-034 through C-037" (R44-1 to R44-6,
+`rules/doc-essence-ledger-rulings-2026-09-25.yaml`) and "new" (Isaac's general
+rungs for ruling)**. R44-1 is the constant this Part converts at and is quoted
+verbatim in §2.2; R44-2 to R44-5 are quoted verbatim where each is applied and
+listed in §9.1. R44-6 ("Band V" is the live Level Band) is not used by this Part.
+*At the time of writing the R44 rows are in the WAR-22 ruling batch (commit
+`3215399`), in review and not yet on master; the 2026-09-25 "new" entry, which is
+on master, already cites R44-3 and R44-5 by id.*
 
 **Laws used by name, standard and uncited.** Conservation of energy; the second
 law and the Gouy–Stodola theorem (Ẇ_lost = T₀Ṡ_gen); E = mc²; Fourier's law of

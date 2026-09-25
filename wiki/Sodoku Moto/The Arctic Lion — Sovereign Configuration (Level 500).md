@@ -3,15 +3,15 @@ title: "The Arctic Lion — Sovereign Configuration (Level 500)"
 notion_id: "3b958200-eb22-81cb-b938-e489672d3a40"
 notion_url: "https://app.notion.com/p/The-Arctic-Lion-Sovereign-Configuration-Level-500-3b958200eb2281cbb938e489672d3a40"
 section: "Sodoku Moto"
-tags: ["Characters", "Reference Table"]
-last_edited: "2026-09-12T18:53:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-24T21:44:00.000Z"
+verification: null
 ---
 
 # The Arctic Lion — Sovereign Configuration (Level 500)
 
 *The Winter Crown · The True King of the North · Forged by Borin Ironheart · Age 28*
-> **Level 500 · Stage XII Emanation · Band V · Coherence Band S · η 0.91**
+> **Level 500 · Stage XII Emanation · Band V · Tier of Standing 7, Grandmaster · η 0.91**
 > **Root Phenomenon:** Sovereignty — the season that asks "will you endure?"
 > **Family:** Fulguria (Judicium) · Caloria (Vohrin) · **Domain:** Electromagnetism · Thermodynamics · **Wellsprings:** Judicium + Vohrin (co-primary) · Coagulatio + Fixatio (secondary)
 > **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign

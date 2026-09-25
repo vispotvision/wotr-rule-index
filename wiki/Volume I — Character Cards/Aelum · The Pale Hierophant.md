@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81af-be50-e87addf9dc47"
 notion_url: "https://app.notion.com/p/Aelum-The-Pale-Hierophant-3d958200eb2281afbe50e87addf9dc47"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-24T21:46:00.000Z"
 verification: null
 ---
 
@@ -33,7 +33,7 @@ Presides over the Court of Veils, an order of ritual overseers with no attested 
 
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him rather than merely answering him; this is one band past what Stage IX ordinarily produces, and it is the reason a century-long stasis held at all.
 **Attraction Layer** · Developed and fixed on the ritual circle itself rather than on any person, a fifty-metre Domain he can extend or collapse at will.
-**Crystal State** · Radiant. **η** · ~0.98, Band A.
+**Crystal State** · Radiant. **η** · ~0.98, Tier of Standing 6, Master.
 **The Silver Vow** · A structure inside the Crystal shaped like a held oath rather than a stored charge; it does not discharge, it enforces, which is why disrupting it produces Ritual Backlash instead of a simple misfire.
 
 ---
@@ -49,7 +49,7 @@ Presides over the Court of Veils, an order of ritual overseers with no attested 
 
 ### IV · Primary Stats
 
-**Stage IX — Invocation** · **Level 275** · Level Band III · Coherence Band A · Grade S with late push toward SS · Ceiling 625.
+**Stage IX — Invocation** · **Level 275** · Level Band III · Tier of Standing 6, Master · Grade S with late push toward SS · Ceiling 625.
 > **Pool 10,350** — 4,500 from Bands I–II, 2,250 from Band III, 3,600 from Thresholds I–IX. **Allocated 10,270.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|

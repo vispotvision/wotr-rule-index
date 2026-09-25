@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f3-87a4-daf9467a1cc1"
 notion_url: "https://app.notion.com/p/Asaemon-The-Vestal-Vanguard-3d958200eb2281f387a4daf9467a1cc1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-24T21:46:00.000Z"
 verification: null
 ---
 
@@ -33,7 +33,7 @@ Unaffiliated with any attested order; loosely bound by his own oath rather than 
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The attuned Shell holds rhythm before it should, for a Stage this early; it is the reason his filaments track a target's resonance instead of merely striking it.
 **Attraction Layer** · Faint, pointed at the wound rather than the person carrying it.
-**Crystal Tier** · Awakened. **η** · ~0.92, Band F.
+**Crystal Tier** · Awakened. **η** · ~0.92, Tier of Standing 4, Adept.
 **Crystal State** · `null`.
 **The Gilded Filament** · A structure that reads as a second nervous system laid over the first, translating what he senses into thread rather than force.
 
@@ -50,7 +50,7 @@ Unaffiliated with any attested order; loosely bound by his own oath rather than 
 
 ### IV · Primary Stats
 
-**Stage IV — Flourishing** · **Level 78** · Level Band I · Coherence Band F · Grade B · Ceiling 275.
+**Stage IV — Flourishing** · **Level 78** · Level Band I · Tier of Standing 4, Adept · Grade B · Ceiling 275.
 > **Pool 3,160** — 1,560 from Band I, 1,600 from Thresholds I–IV. **Allocated 3,130.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|

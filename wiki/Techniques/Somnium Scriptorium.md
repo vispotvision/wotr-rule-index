@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-815a-9afd-e2b49fb02068"
 notion_url: "https://app.notion.com/p/Somnium-Scriptorium-3d958200eb22815a9afde2b49fb02068"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:14:00.000Z"
+last_edited: "2026-09-24T21:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 
 **Governing Primary** · Gnosis, with Ardency secondary.
 **Sub-Stats** · Gnosis Cognition, Gnosis Retention, Ardency Cascade, Ardency Density.
-**Stage floor** · Stage VII, Refraction (Band C).
+**Stage floor** · Stage VII, Refraction (Tier of Standing 5, Expert).
 **Grade required** · A-Grade, with a late push toward S-Grade.
 **Path gate** · Spirit Path.
 **Resonant Pair** · None attested in the source.

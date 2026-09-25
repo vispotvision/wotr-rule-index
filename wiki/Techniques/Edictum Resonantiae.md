@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814c-b9de-e80b157dae4d"
 notion_url: "https://app.notion.com/p/Edictum-Resonantiae-3d958200eb22814cb9dee80b157dae4d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:14:00.000Z"
+last_edited: "2026-09-24T21:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 
 **Governing Primary** · Dominion, with Gnosis secondary.
 **Sub-Stats** · Dominion Sovereignty, Gnosis Acuity, Gnosis Analysis, Harmonics Attunement.
-**Stage floor** · Stage VIII, Transcendence (Band B).
+**Stage floor** · Stage VIII, Transcendence (Tier of Standing 6, Master).
 **Grade required** · S-Grade.
 **Path gate** · Fate Path, the source's own designation; as with Nexus Harmoniae, Fate's terminal Sub-Stats (Throne included) do not open below Stage XIII, so at Stage VIII this reads as an early Fate-Path expression built on Dominion Sovereignty rather than the terminal Throne Sub-Stat.
 **Resonant Pair** · None attested in the source.

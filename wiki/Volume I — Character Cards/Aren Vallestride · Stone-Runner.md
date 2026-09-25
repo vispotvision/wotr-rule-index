@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8179-bc7b-c79b4a9edd9b"
 notion_url: "https://app.notion.com/p/Aren-Vallestride-Stone-Runner-3d958200eb228179bc7bc79b4a9edd9b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-24T21:46:00.000Z"
 verification: null
 ---
 
@@ -35,7 +35,7 @@ A Guild Accord–chartered courier line running low-risk routes along the fronti
 
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The awakening Shell flickers with first resonance; Essence leaks unevenly along his legs and boots, which is the mechanism behind every mis-timed anchor and every bone-deep bruise he's taken from his own technique.
 **Attraction Layer** · Undeveloped. He has bonds (the caravan, the sword's dead owner) but nothing that has crystallized into an Axis yet.
-**Crystal Tier** · Awakened. **η** · ~0.65, Band F.
+**Crystal Tier** · Awakened. **η** · ~0.65, Tier of Standing 3, Journeyman.
 **Crystal State** · `null`.
 **The stubborn part of the Core** · Nothing ornate. A soul that has decided, repeatedly and under real pressure, to stand back up.
 
@@ -52,7 +52,7 @@ A Guild Accord–chartered courier line running low-risk routes along the fronti
 
 ### IV · Primary Stats
 
-**Stage III, Ascension** · **Level 46** · Level Band I · Coherence Band F · Grade C · Ceiling 175.
+**Stage III, Ascension** · **Level 46** · Level Band I · Tier of Standing 3, Journeyman · Grade C · Ceiling 175.
 > **Pool 2,120** (920 from Band I, 1,200 from Thresholds I–III). **Allocated 2,075.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|

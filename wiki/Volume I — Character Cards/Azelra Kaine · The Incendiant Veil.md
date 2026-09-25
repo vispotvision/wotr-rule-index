@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81eb-b624-e7312f7ee77c"
 notion_url: "https://app.notion.com/p/Azelra-Kaine-The-Incendiant-Veil-3d958200eb2281ebb624e7312f7ee77c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-23T23:46:00.000Z"
+last_edited: "2026-09-24T21:48:00.000Z"
 verification: null
 ---
 
@@ -37,7 +37,7 @@ verification: null
 
 **Aether Shell** · **Class V · Radiant.** *Aether bends toward the bearer. Desire bends toward her presence; others orbit their own suppressed wants.*
 **Attraction Layer** · **Vast, and not entirely hers.** *Veyra's lattice runs through it. Through Attraction Force, Ardoris is sacred creation; through Obsession Force it is consuming fixation, and the card has her on both sides of that line at once.*
-**Crystal State** · **Fractured at the graft, held.** *Tri-layered; the middle layer carries Veyra's mark and resonates endlessly between lust and devotion.* **Soul Crystal** · Radiant. **η** · ~0.76, Band A.
+**Crystal State** · **Fractured at the graft, held.** *Tri-layered; the middle layer carries Veyra's mark and resonates endlessly between lust and devotion.* **Soul Crystal** · Radiant. **η** · ~0.76, Tier of Standing 6, Master.
 **Essence Typology** · **Caloria, undivided.** *Energy crossing a boundary. Creation and destruction on one current, which is the Family's own description and hers.*
 **Archonic patron** · **Veyra, the Flame of Desire,** *Ardoris*: passion, creation through longing, the Law of Becoming. Glyphs `[Ve]` Desire · `[Ra]` Flame · `[Leth]` Blood · `[Asa]` Creation. *Divine Edict: "Desire is the only proof of life."* **The card's glyph, ✶VYR-ON-AH, is unattested and is recorded here as the card gives it.**
 
@@ -54,7 +54,7 @@ verification: null
 
 ### IV · Primary Stats
 
-**Stage IX, Invocation** · **Level 278** · Level Band III · Coherence Band A · Grade S with late push toward SS · Ceiling 625.
+**Stage IX, Invocation** · **Level 278** · Level Band III · Tier of Standing 6, Master · Grade S with late push toward SS · Ceiling 625.
 > **Pool 11,340** · 4,500 from Bands I–II, 2,340 from Band III, 4,500 from Thresholds I–IX. **Allocated 11,196.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -122,3 +122,43 @@ verification: null
 
 **None recorded on the card; this migration is her first placement in the index.**
 > **Codex** · Caloria / Thermodynamics / Pyreveil primary / Stage IX.
+
+---
+
+### Lore · The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card and the record of The sainted, the fallen and the vessel. What those sources do not state is new here.*
+
+#### Origin
+
+Azelra Kaine was born Eressean, to a household of the Grand Principality. Her people kept one calendar in the same words and the same order, and let none of it drift. As a child she recopied the rite calendar without variation. Among her people the recopying was itself a rite. She gave her name with its witness, on the falling tone, the way every Eressean name is given. Her people entered the names of their dead in the sealed register at Velthaeir.
+She left the Principality for the Guild Accord's service. The Accord entered her as a scholar. She came to its alchemical division as an arcanist.
+
+#### The Making
+
+The west's Wellsprings thinned every year of the Withering. Supply was bought like grain, and nobody could state the cause. In every house on an Accord main a meter hung by the door under a Board's seal, and the bill came monthly. Azelra believed passion could be refined into a controllable energy source. No Board metered it.
+The division kept a file on a war relic of the Violet Court. It held a coil reading of the relic's core, which the instrument read as coherent and could not trace to an origin. It held accounts from the courts whose generals the relic had killed. It set down a presence that lowered the defences of everyone near it and did not switch off. It described a pull built to point outward at people who had not consented to it. Azelra read the file. She carried it into the experiments as the one case on record of a pull made on purpose.
+She volunteered for the Veyric Resonance experiments. The Rite of Veyric Resonance grafted her soul, and Veyra's lattice ran through it. The soul fractured at the graft. It held. The scholar who had believed passion could be refined into a controllable energy source became the experiments' avatar. Veyra, the Flame of Desire, spoke through her when desire had to turn to action. Her heart came to beat in rhythm with intent, in place of blood, and each pulse reshaped her Aether into what the nearby hearts coveted most. Where she walked, wars paused, lovers ruined themselves, and faith burned clean through doctrine.
+
+#### The Cost
+
+The graft was paid for in memory. Every use of the current eroded what she remembered of her former self. No emotion struck her without being doubled. Those near her felt their want or their guilt heightened, and she felt it with them. She could carry that wanting a long while, because it left her in cleansing bursts.
+The Ember Sanctum took the most. It was her inner Realm expanded, a burning horizon where emotion took form as flame and everyone present was made to act on their truest want. Every heart in it was a heart she was holding, and she forgot her own to hold them. When it closed, the heat went out through the lines in her skin.
+She argued her philosophy aloud and called desire divine truth. Her own desires were replaced by everyone else's. Nothing in the fire strengthened the part of her that kept her mortal name. The stronger the resonance with Veyra, the less of that name survived it.
+She never went back to the Accord. She kept fragments of its issue plating, fused with melted sigils, in an asymmetrical crimson mantle.
+
+#### Where They Stand
+
+Azelra Kaine is unaffiliated and marked rogue. Two incidents are named for the marking, the Pyric Concord Incident and the Velthros Collapse, and no record settles which it was. The Accord still hunts her. It fears she could reawaken the dormant Wellspring Vantabriel, one of the corrupted Wellsprings Ameiya Solvain gave their emotional voice to seal. No record says she has gone near it, or that she and Ameiya have met.
+A second vessel is rumoured, the Cold Flame, meant to extinguish her. Nobody has established that it exists.
+She cannot fully die. Her Essence rekindles where longing gathers. She carries the Crimson Lumen, a blade that reshapes with her heart rate. She wears the Ashen Veil, and the backlash of spiritual flame does not reach her through it.
+Veyra has a Paragon in the record of the Fractured Dawn, a disgraced general who feels every soldier's want and pain. That general is being consumed by others' desire. The two answer to one Archon and never meet. Nobody knows whether Veyra's will through Azelra is salvation or the seduction of mankind, and she has not decided.
+
+#### Ties
+
+- **Veyra, the Flame of Desire** · her Archon. Veyra speaks through her, and her Essence is partially bound to the lattice.
+- **Ambrose Virellith · The Gilded Thorn** · reader and read. She read the division's file on them before her graft, and they have never met.
+- **The Fractured Dawn · Paragons of the Archons** · one Archon. She and its Paragon of Veyra never meet.
+- **Ameiya Solvain · Rain of the Bound Sky** · Vantabriel. The Accord fears she could reawaken Vantabriel, one of the Wellsprings Ameiya sealed.
+- **The Guild Accord** · former employer, hunter. It still hunts its former arcanist.
+- **The Cold Flame** · rumoured second vessel. It is meant to extinguish her, and nobody has established that it exists.

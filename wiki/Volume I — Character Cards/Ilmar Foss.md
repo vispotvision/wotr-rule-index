@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-813b-93b8-ee2dd9d5bfe3"
 notion_url: "https://app.notion.com/p/Ilmar-Foss-3e358200eb22813b93b8ee2dd9d5bfe3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-22T14:31:00.000Z"
+last_edited: "2026-09-24T21:06:00.000Z"
 verification: null
 ---
 
@@ -77,3 +77,41 @@ Pending Isaac.
 ---
 
 *Source: The Night's Watch (scenes/the_nights_watch.md).*
+
+---
+
+### Lore · The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of Malphas's cell. What those sources do not state is new here.*
+
+#### Origin
+
+Ilmar Foss was born to a man who kept the instruments of an Accord assay house, and he grew up in the back room where the coils came in for repair. His father taught him to hold a housing still while the wire inside it was worked. Then he taught him to screw a jeweller's glass into his eye and keep it there with no hand on it, so that both hands stayed free. The boy had the hands young. He could seat a winding without resting his wrist on the bench.
+He was apprenticed into the Guild of Measurewrights. He swore the Hexagonal Oath. The Guild attested what it measured and sealed what it attested. It was dry and it was adversarial. It said what the needle said, and where a ruling went against the needle, it entered its dissent in full and kept entering it. Ilmar learned attribution practice there from the inside.
+
+#### The Making
+
+Eleven years before the night of the report, the Guild struck him from the Oath. In the years after, when he drank, he called the thing he was struck for a rounding convention. He kept the glass and the trade. Nothing he read could be attested any more. He took bench work that asked for no seal, and in the end he came to Malphas's cell at the Greyshaft Nine coldhouse.
+The cell proved its rot synthesis there. When the ferment finished its first beast, the carcass went onto the coldhouse table and Nuvalik opened it. The connective net was gone. The cells were whole, and there was no smell. Ilmar put a coil over the residue, and it read clean. At the bench he said why: nothing in the room had coupled, and the beast's own Lattice had run the working and signed it. Vesk stood by and heard it. Malphas heard it out.
+On the night of the report, the nine hinds had hung on the rail eleven days. Ilmar had a coil in pieces in front of him and the glass in his eye, and he did not look up when Malphas said his name. Malphas wanted Vesk told why it read clean. Ilmar set the glass down and turned round on the stool, and he gave the reason again, for the Ferriby cut this time. The cell drew nothing and coupled nothing. The deer's own Lattice ran the working, and the deer signed the residue. To Vesk he said, "You know it and you do not use it."
+
+#### The Cost
+
+The Oath was the loss. Once his name was struck, no reading of his carried the Guild's seal and no instrument he built went out attested. He kept the science. He had learned it under an oath he no longer held, and in the coldhouse he used it to say why the Register would find no hand in the cell's work.
+He trusted the needle. He told Vesk that the Bureau was correct to write *bleed, no operator indicated* and close the Ferriby file, since the signature on it was the deer's. He would not let the word pure stand either. Vesk had come up the rail with the flask held out in both palms, praising the careful synthesis and calling Malphas a genius. Ilmar called the synthesis filthy. He gave the count: four intermediates he could name, one he could not.
+Vesk read him as a man who still explained things as though he expected an appeal hearing.
+Malphas said the work had an edge. Ilmar said nobody had looked. Malphas gave him a forester's name. Ilmar took the glass out of his eye. "So we stop," he said. Malphas answered that they would stop having edges, and he set the next work, a dose made to walk. Ilmar asked with what. There was no Crystal in the hinds, he said, and no self. They would get meat with a new scaffold in it and no reason to do anything. Malphas said he needed a gradient. "Days," Ilmar said, putting a measure on it, and Malphas gave him four to six.
+
+#### Where They Stand
+
+Ilmar Foss works at a bench in the Greyshaft Nine coldhouse, with a coil in pieces in front of him and a jeweller's glass screwed into his eye. His hands are the steadiest in the building. When he drinks, he still calls the thing he was struck for a rounding convention.
+The work he pressed Malphas on is the next work. Malphas has named it Project Zombification and ordered the name used in writing. The ninth hind is going to the table. His objection is on the record, and it has been answered.
+A forester named Tally has looked. A chapter coil-carrier carried a clean return on the Ferriby tin for five days without filing it. Her sweep below the Bureau's floor has read the signature Ilmar said was the deer's.
+
+#### Ties
+
+- **Malphas · Ferment of Stars** · command. Malphas calls on him to say why the residue reads clean, and he presses Malphas on the walking dose.
+- **Vesk** · rivals at the bench. He corrected Vesk on purity, and Vesk got in ahead of him on the growth.
+- **Nuvalik** · colleagues at the proof. His coil read clean over the first carcass her knife opened; she answers for the bodies, he for the reading.
+- **Qiu Yinzhi** · the Hexagonal Oath. He was struck from the Oath her assay answers to, and her sweep found the deer's signature he named; neither knows the other.
+- **Nol Tally** · known by name. He told Malphas nobody had looked, and Malphas answered him with Tally's name.

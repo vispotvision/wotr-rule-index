@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-631 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+651 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -107,10 +107,6 @@
 ## Hataraki — The Works of the Plane of Fate (1)
 
 - [Hataraki no Sho — The Martial Application of the Works](Hataraki%20—%20The%20Works%20of%20the%20Plane%20of%20Fate/Hataraki%20no%20Sho%20—%20The%20Martial%20Application%20of%20the%20Works.md)
-
-## Hild Ice (Stark) — The Sword Princess (1)
-
-- [Robin Ice — The Bastard Runner](Hild%20Ice%20(Stark)%20—%20The%20Sword%20Princess/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
 
 ## In-World Documents & the Narrative Archive (5)
 
@@ -436,7 +432,7 @@
 - [The Moto Bloodline — Material Culture](The%20Moto%20Bloodline/The%20Moto%20Bloodline%20—%20Material%20Culture.md)
 - [The Moto Origin — The Western Reach](The%20Moto%20Bloodline/The%20Moto%20Origin%20—%20The%20Western%20Reach.md)
 
-## The Scene Archive (32)
+## The Scene Archive (52)
 
 - [Continuity map](The%20Scene%20Archive/Continuity%20map.md)
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e458200).md)
@@ -461,6 +457,26 @@
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e558200).md)
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e558200).md)
 - [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e558200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e558200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e558200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
+- [Continuity map](The%20Scene%20Archive/Continuity%20map%20(3e658200).md)
 - [The Damping](The%20Scene%20Archive/The%20Damping.md)
 - [The Freight Book](The%20Scene%20Archive/The%20Freight%20Book.md)
 - [The Holy Inquisition — Part 1B: The Empty Chair](The%20Scene%20Archive/The%20Holy%20Inquisition%20—%20Part%201B%20The%20Empty%20Chair.md)
@@ -519,7 +535,7 @@
 - [The Paths](The%20Zettari/The%20Paths.md)
 - [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
-## Volume I — Character Cards (275)
+## Volume I — Character Cards (276)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -714,6 +730,7 @@
 - [Rikudoku Moto](Volume%20I%20—%20Character%20Cards/Rikudoku%20Moto.md)
 - [Ristra Lenovira · The Hollow](Volume%20I%20—%20Character%20Cards/Ristra%20Lenovira%20·%20The%20Hollow.md)
 - [Riven Eltamyr Vonnel · The Glaive](Volume%20I%20—%20Character%20Cards/Riven%20Eltamyr%20Vonnel%20·%20The%20Glaive.md)
+- [Robin Ice — The Bastard Runner](Volume%20I%20—%20Character%20Cards/Robin%20Ice%20—%20The%20Bastard%20Runner.md)
 - [Rovhen Talvasciel · The Prettier](Volume%20I%20—%20Character%20Cards/Rovhen%20Talvasciel%20·%20The%20Prettier.md)
 - [Ryuka Yukari · The Little Wayfinder](Volume%20I%20—%20Character%20Cards/Ryuka%20Yukari%20·%20The%20Little%20Wayfinder.md)
 - [Sadamu, called Futakoto — Two Words](Volume%20I%20—%20Character%20Cards/Sadamu,%20called%20Futakoto%20—%20Two%20Words.md)

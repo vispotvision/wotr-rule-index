@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b4-a204-d34820424574"
 notion_url: "https://app.notion.com/p/Aethryn-The-Twin-Sigiled-Foundling-3d958200eb2281b4a204d34820424574"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-24T21:47:00.000Z"
 verification: null
 ---
 
@@ -33,7 +33,7 @@ No faction holds him. The Guild Accord observes him under a standing refusal to 
 
 **Aether Shell** · Unclassed (Class emerges at Glory). Awakened, and still flickering.
 **Attraction Layer** · Undeveloped by choice or by inability. What the card called a hybrid resonance of Aether and Void reads, in current terms, as a Shell that leaks into Limina current rather than a bond formed with any person or place.
-**Crystal Tier** · Awakened, Unstable. **η** · ~0.22, Band F.
+**Crystal Tier** · Awakened, Unstable. **η** · ~0.22, Tier of Standing 3, Journeyman.
 **Crystal State** · `null`.
 **The Open Circle** · *A geometric absence where a completed Stage should sit in the Crystal's architecture. Wellsprings that brush against it read an open question rather than a closed current, which is the literal shape of "the circle opens for you, but closes for me."*
 
@@ -51,7 +51,7 @@ No faction holds him. The Guild Accord observes him under a standing refusal to 
 
 ### IV · Primary Stats
 
-**Stage III — Ascension** · **Level 58** · Level Band I · Coherence Band F · Grade C · Ceiling 175.
+**Stage III — Ascension** · **Level 58** · Level Band I · Tier of Standing 3, Journeyman · Grade C · Ceiling 175.
 > **Pool 1,450** — 1,160 from Band I (58 levels), 290 from Thresholds I–III (estimated). **Allocated 1,435.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|

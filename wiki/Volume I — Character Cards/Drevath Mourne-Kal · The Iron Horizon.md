@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b8-813f-c11b313d40d8"
 notion_url: "https://app.notion.com/p/Drevath-Mourne-Kal-The-Iron-Horizon-3d958200eb2281b8813fc11b313d40d8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-23T23:46:00.000Z"
+last_edited: "2026-09-24T21:50:00.000Z"
 verification: null
 ---
 
@@ -35,7 +35,7 @@ verification: null
 
 **Aether Shell** · **Class V · Radiant.** The world bends toward him; the Shell holds a proto-Domain against collapse rather than merely projecting through it.
 **Attraction Layer** · Bonded to declared ground rather than to people — the Domain is the Axis.
-**Crystal State** · Constructed-over-Native Lattice: the Tyurkian frame runs in the same housing as his native Stasis architecture, both resolved nightly through the Rite of Stillborn Flame. **η** · ~0.93 *(estimate — Class V's Band B correlate, unusually clean for a Stage this high)*, **Coherence Band S.**
+**Crystal State** · Constructed-over-Native Lattice: the Tyurkian frame runs in the same housing as his native Stasis architecture, both resolved nightly through the Rite of Stillborn Flame. **η** · ~0.93 *(estimate — Class V's Band B correlate, unusually clean for a Stage this high)*, **Tier of Standing 7, Grandmaster.**
 **The Iron Mandate** · The Conquest Engine itself: an Aether field that overwrites ambient Essence outward in hard columns rather than emitting force conventionally.
 
 ---
@@ -51,7 +51,7 @@ verification: null
 
 ### IV · Primary Stats
 
-**Stage XII — Emanation** · **Level 386** · Level Band IV · Coherence Band S · Grade SSS · Ceiling 950.
+**Stage XII — Emanation** · **Level 386** · Level Band IV · Tier of Standing 7, Grandmaster · Grade SSS · Ceiling 950.
 > **Pool 15,310** — 7,500 from Bands I–III, 3,010 from Band IV, 4,800 from Thresholds I–XII. **Allocated 15,290.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -115,3 +115,39 @@ verification: null
 
 Not yet placed in a chapter; migrated as a new Volume VI card.
 > **Codex** · Materia / Material Science / Coagula primary / Stage XII.
+
+---
+
+### Lore · The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card and the record of The elven old-ground. What those sources do not state is new here.*
+
+#### Origin
+
+Drevath Mourne-Kal was made in Senzu Tyurkia's Veil Sanctum as proof of concept. The lattice Senzu built on was Winter Eladrin. That people had come out of the Eressean line long before, in a northern schism called the Harmonial Recession, and the Archonic Principle of Stillness had reshaped them in the cold. The Eladrin of the north believed that frost held a thing in trust until it was needed again. Over that native architecture Senzu installed a Tyurkian framework. The Stillness stayed underneath it.
+Senzu was his father by construction. He built Drevath to exceed him and left a failsafe inside the work, through which the maker could countermand him at the level of his architecture. He forged Mourne for him, a blade of dense alloy, cold to the touch always. It was the one gift Drevath ever called a gift without contempt. At first activation Drevath called Senzu father.
+
+#### The Making
+
+He learned to take ground. He walked onto contested fringe country, drove Mourne into the earth and spoke the one word of war-script carved into his breastplate. He never translated it. Inside the boundary that rose from the blade, growth stopped, wounds stopped closing, and every current but his own ran thin. Allies were exempt by his design. He took four battlefields that way and declared each of them permanent. He ran on a race built to bond with a current, and he never learned to ask a Wellspring for anything. He told a Wellspring what it now belonged to, and the four anchors he set on his fields answered him the way a garrison answers the man who took the town.
+Then the Dissonance his race was prone to came for him. He came out of it with a Crystal denser than the one he had carried in. Every fracture in him bore load now. The contradiction in him stayed unresolved, and he built on top of it.
+
+#### The Cost
+
+"Preservation is the longest word for surrender," he has said. The Stillness learned to march. Every night he performed the Rite of Stillborn Flame to resolve the two of them in the one housing. If he missed it past two days, the Stillness would overtake the engine built over it, and he would slow, stop advancing and begin to preserve. He feared that more than he feared Vaelorian.
+He carried two stabilising vials onto deep living ground to hold down his own race's resonance there, and he did not admit to needing them. The air around him ran colder than the air elsewhere, and he stopped trying to turn it off. He could raise the boundary once in an engagement. It fell if his reserves ran low, or if a living current inside it grew strong enough to contest it. The one law he could not make permanent was somebody else's.
+At the edge of the Northroot holdings, in the Eladrin north, he came looking for ground to take. Brynja Haldrís stood in front of the nearest holding with Skor and Vethra. She was Eladrin. She did not move. He read her at the reach of his structural read: her reserves, her stamina, the fracture points under her plate. It showed him a defence whose stamina climbed the longer it held. He turned away without driving Mourne into that ground and took his field elsewhere, and the holding behind her was not entered. No blow was exchanged.
+
+#### Where They Stand
+
+Drevath Mourne-Kal is known as the Pale Conqueror and the Father's Proof, and he files himself under no one. The Accord keeps a file on him that only waits, since he has broken no statute and no warrant has been written. He holds four taken battlefields in contested fringe country, each declared permanent.
+On one of those fields he waited with his two vials, and the dragon Thalyndros came into sight carrying Vaelorian. He drove Mourne into the ground and spoke the word. The dragon came down short of the boundary, sank his tail-roots and wing-tips into the ground outside it, and did not cross. Vaelorian walked in alone. His armour would not grow back on that ground. Drevath put the audit to him as a thing already run, step aside and live to watch it, and gave him the courtesy of reading it before it was enforced. Vaelorian read it, did not step aside, and walked back out across the line to the dragon. No blow was struck. The audit has not been enforced.
+Every night he performs the Rite of Stillborn Flame, and the Stillness stays underneath. Senzu can still countermand him at the level of his architecture, and Drevath is working to sever that and has not succeeded. He has not called Senzu father again in over a year. Nobody knows why the Empire of Bluvest let him leave.
+
+#### Ties
+
+- **Vaelorian Theryn Aerethiel · The Last Elven Lord** · rivals. Two answers to one question that cannot both be right; Drevath has put the audit to him on a taken field, step aside and live to watch it, and has not enforced it.
+- **Thalyndros Aerenvael · The Canopy Wyrm** · enemies. His taken ground stops the growth the dragon's breath needs, and at the audit Thalyndros stayed outside it.
+- **Brynja Haldrís · Hammer of the Northroot** · opposed. He read her standing still before a Northroot holding and turned away.
+- **Adalric Vladimer Valen · The Crimson Shade** · Bluvest. Both men left the Empire of Bluvest, and nobody knows why it let either go.
+- **Senzu Tyurkia** · creator. Senzu built him and can still countermand him; Drevath called him father once, at first activation.

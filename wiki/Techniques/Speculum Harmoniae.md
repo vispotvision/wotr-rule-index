@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bb-9794-c67b2dc67b6c"
 notion_url: "https://app.notion.com/p/Speculum-Harmoniae-3d958200eb2281bb9794c67b2dc67b6c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:13:00.000Z"
+last_edited: "2026-09-24T21:45:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 
 **Governing Primary** · Gnosis, with Harmonics secondary.
 **Sub-Stats** · Gnosis Cognition, Harmonics Attunement, Dominion Sovereignty.
-**Stage floor** · Stage V, Splintering (Band E).
+**Stage floor** · Stage V, Splintering (Tier of Standing 5, Expert).
 **Grade required** · B-Grade.
 **Path gate** · Spirit Path.
 **Resonant Pair** · None attested in the source.
@@ -120,7 +120,7 @@ Serenyra devised Speculum Harmoniae as a decoy and diversion tool; the source gi
 
 **Governing Primary** · Dominion, with Gnosis secondary.
 **Sub-Stats** · Dominion Sovereignty, Gnosis Acuity, Gnosis Analysis, Harmonics Attunement.
-**Stage floor** · Stage VIII, Transcendence (Band B).
+**Stage floor** · Stage VIII, Transcendence (Tier of Standing 6, Master).
 **Grade required** · S-Grade.
 **Path gate** · Fate Path, the source's own designation; note that Fate's terminal Sub-Stats (Throne among them) do not open below Stage XIII, so at Stage VIII this reads as an early Fate-Path expression riding on Dominion Sovereignty rather than the terminal Throne Sub-Stat.
 **Resonant Pair** · None attested in the source.

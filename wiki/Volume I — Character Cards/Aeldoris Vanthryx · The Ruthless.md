@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f2-99ba-ce42acca6b3b"
 notion_url: "https://app.notion.com/p/Aeldoris-Vanthryx-The-Ruthless-3d958200eb2281f299bace42acca6b3b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-25T20:03:00.000Z"
 verification: null
 ---
 
@@ -21,7 +21,7 @@ verification: null
 **Name** · Aeldoris Vanthryx. **Called** · The Ruthless. **Also** · White-Fanged Sleepreaver · Dreamless Baron · Lord of the Silent Hours.
 **Epithet** · He Who Writes Mercy in Ash. *See migration note; shared, unruled.*
 **Role** · **Independent Hunter. Former Guild Accord Enforcement. Dream-law executioner.**
-**Race** · Veyran Human, an Aether-Blood mutation from deep Oneirion exposure. *Veyran is unattested; see the migration note.*
+**Race** · Veyran Human, an Aether-Blood mutation from deep Oneirion exposure.
 **Build** · 1.91 m. Lean, aristocratic, predatory. Moonlit-pale skin; crimson-ringed eyes hazed with dream; silver-white hair that drifts like vapour.
 **Presence** · A soft pressure of sleep. Shadows shimmer faintly; nearby minds recall forgotten memories involuntarily.
 **Gloss rights** · never. He forces confession out of everyone he meets and explains nothing of himself in return.
@@ -39,7 +39,7 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 
 **Aether Shell** · **Class III · Resonant.** Essence and Aether exchange freely; a read lands or it does not, with almost nothing lost between.
 **Attraction Layer** · Drifting. *Prolonged Eidolyn use causes self-confusion: an Attraction Layer built on other people's fears rather than his own bonds.*
-**Crystal State** · Refined, residue-heavy. **η** · ~0.65, Band C.
+**Crystal State** · Refined, residue-heavy. **η** · ~0.65, Tier of Standing 5, Expert.
 **Path** · Spirit dominant, Attraction secondary, Body tertiary, Fate untouched.
 **Risk** · **Identity bleed.** Dreams of others distort his own sense of self; the risk is dissociation, not destruction.
 
@@ -57,7 +57,7 @@ Independent. Formerly Guild Accord Enforcement, before he went hunting the fract
 
 ### IV · Primary Stats
 
-**Stage VII — Refraction** · **Level 195** · Level Band II · Coherence Band C · Grade A, late push toward S · Ceiling 475.
+**Stage VII — Refraction** · **Level 195** · Level Band II · Tier of Standing 5, Expert · Grade A, late push toward S · Ceiling 475.
 > **Pool 7,175** — 4,375 from Bands I–II, 2,800 from Thresholds I–VII. **Allocated 6,560.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|

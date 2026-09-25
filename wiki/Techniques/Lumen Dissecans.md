@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b3-84a6-d7340d59f343"
 notion_url: "https://app.notion.com/p/Lumen-Dissecans-3d958200eb2281b384a6d7340d59f343"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:14:00.000Z"
+last_edited: "2026-09-24T21:44:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,7 +60,7 @@ verification: "unverified"
 
 **Governing Primary** · Gnosis, with Harmonics secondary.
 **Sub-Stats** · Gnosis Acuity, Gnosis Analysis, Gnosis Perception, Harmonics Attunement.
-**Stage floor** · Stage VI, Glory (Band D).
+**Stage floor** · Stage VI, Glory (Tier of Standing 5, Expert).
 **Grade required** · A-Grade.
 **Path gate** · Spirit Path.
 **Resonant Pair** · None attested in the source.

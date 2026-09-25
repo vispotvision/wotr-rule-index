@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-813e-a5d3-e2161752a25f"
 notion_url: "https://app.notion.com/p/Draven-Kael-Vorrick-The-Beast-Slayer-3bd58200eb22813ea5d3e2161752a25f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-23T23:46:00.000Z"
+last_edited: "2026-09-24T21:39:00.000Z"
 verification: null
 ---
 
@@ -32,7 +32,7 @@ verification: null
 ## II · Soul Architecture
 
 **Aether Shell** · **Class III · Resonant.** *Channels Aether into hyper-dense muscular ignition and aggressive kinetic force*, **using Frost Essence for systematic slowing and Ash Essence for battlefield obfuscation and the archival of kills.**
-**Crystal State** · Refined. **η** · ~0.55, Band D.
+**Crystal State** · Refined. **η** · ~0.55, Tier of Standing 5, Expert.
 **Aura** · **A palpable drop in ambient temperature; the air smells faintly of ozone and burned bone.** *His presence is low-frequency and intensely focused — reminiscent of a massive creature in hiding.*
 > **Risk · Primal Regression.** *Over-reliance on the Vorynn Bloodbind risks triggering an uncontrolled metamorphosis into a Prime Beast form, resulting in permanent loss of sapience and systemic collapse.*
 >
@@ -52,7 +52,7 @@ verification: null
 
 ## IV · Primary Stats
 
-**Stage VI — Glory** · **Level 178** · Coherence Band D · Grade A · Ceiling 400.
+**Stage VI — Glory** · **Level 178** · Tier of Standing 5, Expert · Grade A · Ceiling 400.
 > **Pool 6,050.** **Allocated 5,988.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -98,3 +98,43 @@ verification: null
 
 **1.95m.** Lean, dense, **heavily scarred muscle.** Dark weathered skin; **eyes the colour of chipped ice.** *Black hair tightly bound in a single thick braid interwoven with bone talons.*
 > **Codex** · Caloria / Thermodynamics / Vohrin primary / Stage VI.
+
+---
+
+### Lore · The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card and the record of The Accord's field blades. What those sources do not state is new here.*
+
+#### Origin
+
+Draven Kael Vorrick was born into the Vorynn Bloodbind Lineage, a line of hunters in the far north. The line was attuned to the Titan Vohrin's cold laws, and its craft came off a hostile northern Wellspring path, the Fang of the Winter Maw. Its blood carried an ancestral pact. Opened, the blood lit a hunter's muscles with a predator's force. The pact was older than anyone who carried it, and nobody born to the line had been asked.
+The Vorynn tested their young out in the cold, in trials of endurance, ambush and predatory pressure. They taught the other side of the pact as plainly. A hunter who leaned on the blood too long went into the shape of a beast and did not come back as himself. Draven knew the shape of that ending before he made his first kill.
+
+#### The Making
+
+He passed the trials the line set him. Then he kept setting them for himself, harder each season, with nobody asking it of him. He lay out in the cold until the cold was a second skin. He learned to be quieter than the ground under him, and to close on a quarry before it knew anything was closing. He learned to put the cold into it with one blow and freeze it where it stood. He never learned to fight at range. He never needed to.
+His work became the beasts the Wellsprings had changed, the big ones other hunters would not go after. From each kill he cut a bone talon and bound it into his braid. The braid grew thick. Men who dealt with him called him the Ashfang, and Winter's Maw, and the Black-Braid Hunter. Some called him the Wellspring Raider.
+On that road he was bound to someone, and he built his strength on the bond.
+Then he paid. Draven willingly accepted a real cost out of his own soul to preserve something he valued above his own structural integrity.
+
+#### The Cost
+
+Every gift is paid in the body. Each ignition of the blood tears fibre along the path it runs. Each sweeping cut of cold numbs his arms. Breathing in the cold for his hiding mist strains his lungs. When he spreads the cold wide around him, he stands inside it too, and frostbite finds his knuckles and his knees. When he draws a beast's trait out of one of his talons, his heartbeat goes wrong while it holds. Drawn on twice, a talon gives less.
+The blood keeps the last payment. Leaned on too long, it will take him into a Prime Beast form, and his mind will not come back out of it. He knows the shape of that ending. He has never let the freeze run long on himself to learn where it gives first. He has never asked anyone to stand inside his cold and report.
+His blood was bound before he was born. He despises spirit-binding.
+The strength stayed. The bond did not. His power is still shaped like a bond to somebody who is not there. He keeps the Vorynn Trials alone.
+
+#### Where They Stand
+
+Draven Kael Vorrick works as an independent hunter, loosely allied with the Enforcement Division. He hunts the largest and worst of the beasts the Wellsprings have changed. He is heavily scarred, with eyes the colour of chipped ice and a single black braid thick with bone talons. The air drops cold around him. It smells faintly of ozone and burned bone.
+The latest hunt on record is the Cymorath Distortion Hunt. A soundfold rift opened in the high air over the Corridor Holdings, and sky-beasts came down on the convoys. Draven came for the beasts. The Division's terms for working with him put Kael Serradyn at his side. Before the breach Kael walked a wide ring round the ground below the road where the kills would fall. Draven took the terms.
+Valen Karth dove on the largest beast and killed it in the air. He landed grounded and slow, and a second beast came down on him. Draven killed it at close quarters. Azhura Vyren's frost brought the rest out of the air into the cold round him, and he killed them one by one. On the last he tore the Bloodbind open. Kael stood at the edge of his ring and did not fire. The surge ran out. Draven was still himself. He cut talons from the kills before the convoys moved.
+He and Sevrin Valeith hold each other in the respect of predators. His threat to kill Sevrin if he binds anything "with a beating heart" still stands. What Draven valued above himself, he has told no one.
+
+#### Ties
+
+- **Kael Serradyn · The Burnmark** · watcher and watched. On the Cymorath Distortion Hunt the Division put Kael at Draven's side, and Kael walked a ring against the Bloodbind and never fired it.
+- **Azhura Vyren · The Azure Coilblade** · comrades on a working hunt. She brought the sky-beasts down into his cold, and he killed them on the ground.
+- **Valen Karth · The Breakstorm Vanguard** · debt. Draven killed the beast that came down on Valen while the dive had left him grounded and slow, and the debt is Valen's to carry.
+- **Sevrin Valeith · Maw of Nine Tongues** · predators. They respect each other as predators, and Draven has threatened to kill him if he binds anything "with a beating heart."
+- **Guild Accord, Enforcement Division** · loose alliance. When he hunts under its commission, the Division walks a ring for him.

@@ -3,9 +3,9 @@ title: "The Left of the Door — Renard Greymane at the Altar-Room Door"
 notion_id: "3d458200-eb22-81d1-9b3a-eb14c93ae922"
 notion_url: "https://app.notion.com/p/The-Left-of-the-Door-Renard-Greymane-at-the-Altar-Room-Door-3d458200eb2281d19b3aeb14c93ae922"
 section: "The Scene Archive"
-tags: ["Prose", "Characters"]
-last_edited: "2026-09-10T11:22:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-25T18:29:00.000Z"
+verification: null
 ---
 
 # The Left of the Door — Renard Greymane at the Altar-Room Door
@@ -45,8 +45,8 @@ Measure held wide, closed twice. Tempo: Nach at the first close, Indes at the fi
 
 ## Stat Ledger (Pack Fourteen §7)
 
-- **Renard Greymane.** Card: Level 198, Stage IV, Band II. Coherence Band F for Stage I to IV (eta 0.30 to 0.45 source range; estimate 0.40). Aether Class I Muridic. Crystal State Refined in and out. Stats stressed: Dexterity Reflex (Nach), Gnosis Perception (the frost, wrong cause), Vitality Threshold (no pain from the touch, stress analgesia on top). EU spent roughly a third at Band F waste rates (estimate). No Threshold Event. Heals by next scene: nothing; forearm insult of unknown duration; Passive Recovery only, slowed in a Winter-saturated hall.
-- **Tenrai practitioner (originated).** Stage VI Glory, Coherence Band D (eta about 0.55), Aether Class II Harmonic. Exuroth strengthens Ardency Overchannel, Tempering Overflow, Vitality Threshold (why no sound when the hand opened). EU spent: most of reserve holding the wall against the gradient (estimate). Out: dead, Class IV, brachial artery.
+- **Renard Greymane.** Card: Level 198, Stage IV, Band II. Tier of Standing 4, Adept (eta 0.30 to 0.45 source range; estimate 0.40). Aether Class I Muridic. Crystal State Refined in and out. Stats stressed: Dexterity Reflex (Nach), Gnosis Perception (the frost, wrong cause), Vitality Threshold (no pain from the touch, stress analgesia on top). EU spent roughly a third at Band F waste rates (estimate). No Threshold Event. Heals by next scene: nothing; forearm insult of unknown duration; Passive Recovery only, slowed in a Winter-saturated hall.
+- **Tenrai practitioner (originated).** Stage VI Glory, Tier of Standing 5, Expert (eta about 0.55), Aether Class II Harmonic. Exuroth strengthens Ardency Overchannel, Tempering Overflow, Vitality Threshold (why no sound when the hand opened). EU spent: most of reserve holding the wall against the gradient (estimate). Out: dead, Class IV, brachial artery.
 - **Canon conflict R14-F.** Level 198 at Stage IV sits outside Fracture of Worlds Band II (Stages V to VII). Either Level or Stage on the card is wrong, or Renard is a stagnation case (Part Ten). Ruling needed.
 
 ## Ledger after the scene

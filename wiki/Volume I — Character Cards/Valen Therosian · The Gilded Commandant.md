@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-812c-ac2a-f1de377cc177"
 notion_url: "https://app.notion.com/p/Valen-Therosian-The-Gilded-Commandant-3bd58200eb22812cac2af1de377cc177"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-23T23:46:00.000Z"
+last_edited: "2026-09-24T21:41:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ Empire of Praetoria — Naval High Command — Council of Sovereigns — **Loyal
 **Essence Core** · Rigid, honed, and audibly uninterested in nuance.
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him; currents curve around his presence. **Output exceeds what the raw numbers suggest.**
 **Attraction Layer** · Dominant, and pointed at an institution rather than a person. *He is not loyal to a monarch. He is loyal to the fact of a monarchy.*
-**Crystal State** · Refined. **η** · 0.75–0.80, Band A.
+**Crystal State** · Refined. **η** · 0.75–0.80, Tier of Standing 6, Master.
 
 ---
 
@@ -56,7 +56,7 @@ Empire of Praetoria — Naval High Command — Council of Sovereigns — **Loyal
 
 ## IV · Primary Stats
 
-**Stage X — Realization** · **Level 298** · Level Band III · Coherence Band A · Grade SS · Ceiling 725.
+**Stage X — Realization** · **Level 298** · Level Band III · Tier of Standing 6, Master · Grade SS · Ceiling 725.
 > **Pool 12,940** — 4,500 from Bands I–II, 2,940 from Band III at 30 per level, 5,500 from Thresholds I–X. **Allocated 12,919.**
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
@@ -135,3 +135,41 @@ Ch. IV, *The Fires That Do Not Beg Forgiveness* · Ch. VII, *The Gathering of So
 - **The card title and the body described two different offices — ruled 2026-09-12: High Admiral stands.** The Trello card title was a mislabel.
 - **Valorion, Purganeth and Theros** are not among the sixty.
 > **Codex** · Fulguria / Electromagnetism / Judicium primary / Stage X.
+
+---
+
+### Lore · The Life Behind the Card
+
+*Written 2026-09-24 by the character-lore pass from this card and the record of Babyl and the Praetorian March. What those sources do not state is new here.*
+
+#### Origin
+
+Valen Therosian was born in a harbour town of the March, where the Crown's ships came in to be fitted and provisioned. His father kept the edict book for the yard. Every decree the Crown sent down reached him under seal, and he copied it out fair for each captain in port. Valen ran the copies along the moorings before he was tall enough to see over a rail, and learned the fleet from the ships he carried them to.
+Some of those edicts set a levy on timber. Some named a man traitor. His father copied both in the same hand and at the same pace, and never changed a word of either. Valen learned his letters from the copies. He could recite the form of an edict long before he knew the name of anyone who had written one.
+He did not ask.
+
+#### The Making
+
+He went into the fleet as soon as it would take him, and he rose by command. He never made himself a duellist. His own strength was real, and he held it back, since a fleet handled well left him no reason to spend it. What he learned was how to make many hulls answer one voice.
+The voice carried. On a deck or a quay with a crowd listening, his orders were obeyed before he had finished giving them. Men who had come to argue found that they had hesitated. The Naval High Command gave him ships, then squadrons, then the March itself as its High Admiral. The Loyalist Circle of the Crown-Forged took him in. The Crown made him its Imperial Arbiter of Crown Preservation.
+That office asked no judgement of him. The edicts judged. When one named a man traitor, Valen struck hardest where it pointed and did not weigh the man first. He spoke before assemblies, and anyone in the room whose allegiance had already faltered found that their workings would not answer them. Everyone present saw it.
+Then the ground began to answer him. Terrain changed where he had stood. Pacts he bound held in the earth, and the regions where he had spent his years took a set that would outlast him by generations. The ground he had stood on had begun to defend the Crown for him, and it would go on after he was gone. No other immortality had ever been offered to the Loyalist Circle.
+
+#### The Cost
+
+The voice reached only the wavering. He could not turn it on anyone certain. Every assembly he broke thinned the ranks of those willing to stand near him unsure, and he went on thinning them for decades.
+When a man came before him with no edict attached, Valen had nothing to go on. He had never been asked to read one. The only man ever named beside him was his opponent on council.
+General Cael Thurn had been loyal and turned rebel. An edict named him traitor. Before the trial Valen argued on council that the edict be carried out. Juno Petros Marien presided at the trial in the Cradle-Marches. He heard the case and spared the general in open court, where everyone present could hear it. Valen opposed the sparing on council and lost. The general lived. Juno now commands his silence in every battlefield. A traitor under edict walked out of court over Valen's word.
+Valen never asked mercy for anyone. His loyalty ran to the fact of a monarchy. He put it in two sentences: "We do not preserve crowns by bowing to the cries of the broken. We preserve them by reminding the world why they still wear gold." It cost him every uncertain man who might have stood beside him.
+
+#### Where They Stand
+
+Valen Therosian is High Admiral of the March and the Crown's Imperial Arbiter of Crown Preservation. He is called the Gilded Commandant. He is the Crown's enforcer and has never worn it. On council he opposes Juno, as he has since the general was spared. Across the frontier Varuun Daskorr holds the March tense and accuses it of weaponizing Wellspring fire. The High Admiral has not met him.
+The fleet still moves when he speaks. The ground where he has spent his years keeps its set, and it will hold the Crown's pacts after him. Before an assembly of people who believe something, his voice does nothing. Alone with one man, he has his rank.
+
+#### Ties
+
+- **Juno Petros Marien · Praefect of the Outer Colonies** · rival on council and ideological foil. Valen asked the council for the edict on Cael Thurn, and Juno spared the general in open court.
+- **Varuun Daskorr · The Unbent Crown** · enemies across a frontier. The king accuses Valen's March of weaponizing Wellspring fire.
+- **Rheon Kaeth · The Emberline** · one March. Rheon was born to the March Valen commands and wears its brand, faint now under his scars.
+- **The Crown** · its enforcer, never its wearer. Valen preserves its will, and its mercy is no part of his office.

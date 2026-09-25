@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81a8-a218-c66905c24259"
 notion_url: "https://app.notion.com/p/The-Color-of-Essence-3bc58200eb2281a8a218c66905c24259"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:27:00.000Z"
+last_edited: "2026-09-24T21:24:00.000Z"
 verification: "unverified"
 ---
 
@@ -43,7 +43,7 @@ The metaphor is smelting. Raw ore is dark, dense, full of impurity. Heat and pre
 | **XII · Emanation** | 7 · Grandmaster | The Family color **begins to bleach toward white at its edges.** The passive aura projects far enough that the color change in a room's ambient light announces them before they arrive. *The bleaching is the first visible sign that identity and Continuum-law are beginning to merge* |
 | **XIII · Principality** | 8 · Archmaster | **Near-white**, washed in light, the way tinted glass looks held against the sun rather than against shadow. Difficult to look at directly — not from brightness but from a saturation the eye processes as pressure. **Reads as a statement rather than a phenomenon** |
 | **XIV · Zenith** | 8 · Archmaster | **Near-white with the faintest ghost of Family color.** The sun seen through colored glass. The canonical ceiling of mortal progression. *The ghost of hue is all that distinguishes one Zenith Crystal from another* |
-| **XV · Revelation** | 9 · Paragon | **Pressurised white** — every color held in compression, the way white light contains the full spectrum. Not perceived as colorless but as containing all color simultaneously. **Two recorded practitioners; neither produced effects describable in color terms.** *The descriptions default to temperature, pressure, and the specific quality of fear that accomPart Five · Prose Application* *Essence does not glow. It does what the physics of its Family would do if that physics were visible.* *Family* *Write it as* *Caloria* *The air bends with heat-shimmer. Surfaces near the hands darken in the orange-red register the way a stovetop darkens before it is visibly hot. Thermal, not luminous* *Fulguria* *A sharpness in the air, the blue-white that precedes a spark, the way fine hair rises. Fulguria flickers because current flickers* *Vectoria* *Nothing visible. Weight, pressure, the reason dust is moving without wind. Describe what it is doing to other things, never what it looks like on its own* *Spatium* *The visual refuses to resolve. Geometry bends. A wall twelve feet away reads as ten for a moment, then corrects, and the correction is the Essence. Use the eye's confusion as the description* *Materia* *Grit. Mineral dust. The smell of wet stone. The only Family whose visual expression has texture — granular, particulate, something with weight that settles on surfaces* *Vitalia* *Copper and warmth. Biological, not decorative: the specific wet-red of living tissue. Describe the observer's involuntary physical response as part of the visual* *Fluxia* *Humidity. Light behaving the way it behaves through water, colors shifting teal-green, the air thicker. Ears may pop from ambient pressure change* *panies encountering something the Continuum treats as a peer* |
+| **XV · Revelation** | 9 · Paragon | **Pressurised white** — every color held in compression, the way white light contains the full spectrum. Not perceived as colorless but as containing all color simultaneously. **Two recorded practitioners; neither produced effects describable in color terms.** *The descriptions default to temperature, pressure, and the specific quality of fear that accompanies encountering something the Continuum treats as a peer* |
 | **XVI · Apex** | 9 · Paragon | **Absolute white.** The distinction between soul and Continuum dissolves, and the color distinction dissolves with it. *What observers report is not a visual phenomenon. It is the experience of standing inside a law rather than looking at one.* **No practitioner has reached Apex within the documented age** |
 
 ---
@@ -87,3 +87,16 @@ The full Essence Color of any practitioner is the intersection of Family hue and
 > **The answer, for the record, is nearly always yes.**
 
 ---
+
+## Part Five · Prose Application
+
+*Essence does not glow. It does what the physics of its Family would do if that physics were visible.*
+| **Family** | **Write it as** |
+|---|---|
+| **Caloria** | The air bends with heat-shimmer. Surfaces near the hands darken in the orange-red register the way a stovetop darkens before it is visibly hot. Thermal, not luminous |
+| **Fulguria** | A sharpness in the air, the blue-white that precedes a spark, the way fine hair rises. Fulguria flickers because current flickers |
+| **Vectoria** | Nothing visible. Weight, pressure, the reason dust is moving without wind. Describe what it is doing to other things, never what it looks like on its own |
+| **Spatium** | The visual refuses to resolve. Geometry bends. A wall twelve feet away reads as ten for a moment, then corrects, and the correction is the Essence. Use the eye's confusion as the description |
+| **Materia** | Grit. Mineral dust. The smell of wet stone. The only Family whose visual expression has texture — granular, particulate, something with weight that settles on surfaces |
+| **Vitalia** | Copper and warmth. Biological, not decorative: the specific wet-red of living tissue. Describe the observer's involuntary physical response as part of the visual |
+| **Fluxia** | Humidity. Light behaving the way it behaves through water, colors shifting teal-green, the air thicker. Ears may pop from ambient pressure change |

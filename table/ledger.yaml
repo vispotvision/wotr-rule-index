@@ -365,3 +365,15 @@
   due: When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without
     a word.
   status: open
+- id: L040
+  category: who knows what
+  who: Seiji Tenrai Moto
+  text: 'Seiji Tenrai Moto sent four riders out on four routes at the second hour: by tonight the Seat
+    is to have three reports that the column is moving on the Stormfold road and one that the Brine crossing
+    is already taken, all four signed by hands the Seat''s clerks know. Three had reached Lorn Stark by
+    the seventh hour. The column marches directly at the Seat.'
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to
+    be believed, not four.
+  status: open

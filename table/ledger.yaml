@@ -438,3 +438,15 @@
   opened_session: 1
   due: 3
   status: open
+- id: L047
+  category: the dead
+  who: Tenrai officers of the turned column, eleven counted
+  text: The Tenrai officers were already down when Sodoku looked. He counted eleven off the horses before
+    he stopped counting, and the eleven went first and went together, and he had been in enough of these
+    to know what that meant. Eleven is what he counted, not a total, and the page does not say what he
+    took it to mean.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When the Tenrai officer corps of the Ashgate column is next counted, or when the narrows is entered
+    on a roll.
+  status: open

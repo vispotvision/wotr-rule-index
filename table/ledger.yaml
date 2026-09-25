@@ -532,3 +532,13 @@
   opened_session: 1
   due: The next time Robin Ice reports, or when the missing item matters to someone.
   status: open
+- id: L056
+  category: reputation
+  who: Wren Greymane
+  text: Sixteen months of every village between here and the Stormfold calling Wren traitor, with the
+    ridge smile repeated to Sodoku three times by three people who each thought they were first, against
+    a turning Sodoku watches him execute at the narrows.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When anyone outside Sodoku's own head learns who built the turning.
+  status: open

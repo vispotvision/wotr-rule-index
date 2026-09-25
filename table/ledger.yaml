@@ -522,3 +522,13 @@
   opened_session: 1
   due: If the wall of the inner court comes down.
   status: open
+- id: L055
+  category: who knows what
+  who: Robin Ice
+  text: Robin Ice arrived with four things to say, rehearsed in order for six miles on a standing instruction
+    to say them in the order and say nothing else, and had already lost one of them. What the lost item
+    was is not said, and the page does not say how many of the four he got out.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: The next time Robin Ice reports, or when the missing item matters to someone.
+  status: open

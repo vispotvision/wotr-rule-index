@@ -657,7 +657,7 @@ the author notes."
 **Quotes:** Dougou:93: "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |" The Iron Tree:20: "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive." The Iron Tree:41: "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy." The quantity: FoW III:30: "Strike Force is the destructive energy delivered per discrete attack action, measured in **Newtons** for peak contact force at the moment of impact and **Joules** for total energy yield." FoW VII:83: "**EU (Essence Units)** — the raw reserve. Total volume of usable Essence stored in the Crystal at any moment. Scales with Temperance Stage, governed primarily by **Tempering Yield**." Gimbzo:58: "| **Essence Capacity** | **4.8 × 10¹⁴ EU** — *vast, but the volume sits low. He does not burn essence, he stores it, like a cistern. Endurance fights favour him absolutely* |" Dougou:62: "**Essence Capacity** · 92,000 EU · **Flux Density** 18,400 EU/g · **Aura** SS-Tier Sovereign Tectonic Gravity" Yorime:59: "| **Essence Capacity** | **74,000 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger***" Part Four's ladder, for scale, FoW II:28 and :40: "| Hollow | 1–10 | below 60 J | below 12.4 m/s |" … "| EX+ | 1,501+ | 6.906×10^37 J and above | FTL and above |"
 **Consequence if unresolved:** the Essence Ledger cannot state a joule value for any EU figure, so no working can be priced in real energy, no reserve table can be built by Stage, Tier or Grade, and the tier ladders of WAR-8 have no spine to hang on. And the one page that prices a working both ways prices it three decades below the conversion the brief proposes, so the constant cannot be adopted without deciding what that page now says.
 **Recommendation:** none. Three readings are live and this row chooses none of them: the conversion is the measured one, in the hundreds of joules, and the reserves are what is wrong; or the conversion is a constant near 1 MJ and Dougou's sheet is what is wrong; or the conversion is not one constant at all (a per-Stage constant would fit — the median constant each Stage would need is in `imports/essence-ledger/fit.json`, `by_stage`). Which of those is Isaac's call, and every card figure stays exactly as written until he makes it.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-25 (RULINGS.md; R44-1)
 
 ## C-035 — AU/s = Flux Density × η fails on 26 of the 29 cards that state all three
 
@@ -666,7 +666,7 @@ the author notes."
 **Quotes:** FoW VII:85: "**AU/s (Aether Units per second)** — the output rate, how much Essence converts into active expression per second of sustained operation. Governed by **Ardency Flux**, **Ardency Alacrity** and **Tempering Yield**. Formula: **AU/s = Flux Density × η**." Muken:60: "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84" (18,600 × 0.84 = 15,624). Sodoku:86: "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84" (920 × 0.84 = 773). Draen Varos:37: "Flux Density **670 million EU/g.** Aether Output **98,000 AU/s.**" with η from :36: "**Crystal State** · Forge-Heart, steady burn. **η** · ~0.61, Band C." (6.7×10⁸ × 0.61 = 4.1×10⁸). Holding, Kwon Mu-jin:73: "**Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87" (1,800,000 × 0.87 = 1,566,000).
 **Consequence if unresolved:** `fow_line` returns two figures that cannot both be true, and a scene that prices a sustained working has no way to tell which of the three numbers on the card is the one the Threshold reads.
 **Recommendation:** none. The formula is stated three times and no card states an exception to it, so nothing in the text says which side gives way. No card figure has been changed.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-25 (RULINGS.md; R44-2)
 
 ## C-036 — the Part Four Grade table leaves a gap between S and SS
 
@@ -675,7 +675,7 @@ the author notes."
 **Quotes:** FoW II:35: "| S | 401–550 | 4.184×10^12 – 2.42672×10^13 J | Mach 25–200 |" FoW II:36: "| SS | 551–725 | 4.184×10^13 – 4.184×10^14 J | Mach 200–1,000 |" FoW III:41: "| S | 401–550 | 0.5–2 TN | 4.184–24.3 TJ | 1–5.8 kt | Small Town to Town |" FoW III:42: "| SS | 551–725 | 10–200 TN | 41.8–418 TJ | 10–100 kt | Town to Large Town (nuclear yield range) |" TG&B:60: "| **S** | 401 – 550 | 4.184 × 10^12 – 2.42672 × 10^13 J. Small Town to Town, 1 – 5.8 kilotons TNT | 8,575 – 68,600 m/s · Mach 25 – 200 |" TG&B:61: "| **SS** | 551 – 725 | 4.184 × 10^13 – 4.184 × 10^14 J. Town to Large Town, 10 – 100 kilotons TNT | 68,600 – 343,000 m/s · Mach 200 – 1,000 |"
 **Consequence if unresolved:** an output measured between 24.3 and 41.8 terajoules cannot be graded, so it cannot be ranked against an opponent under Part Four's own "one full Tier Grade above" rule. One figure already lands there: Vaelmorn's 40,000,000 EU call cost reads 3.5×10¹³ J at 1 EU = 1 MJ.
 **Recommendation:** none stated by the page.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-25 (RULINGS.md; R44-3)
 
 ## C-037 — the efficiency conflict, Class I Muridic against Tier 5 Expert
 
@@ -684,7 +684,7 @@ the author notes."
 **Quotes:** FoW VII:30: "**Class I — The Muridic.** … Glory, Stage VI, Harmonic Crystal, where Aether Class first emerges; **Stages I through V are unclassed, and the coil reads no Class.** **Roughly thirty to forty percent efficiency loss** to Shell interference." FoW VII:97: "| 5 · Expert | V–VII Splintering to Refraction | 0.50–0.60 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows real-time observation and correction of waste. |" The page's own flag, FoW VII:103: "> **The efficiency conflict, unresolved.** Part Seventeen rates **Class I Muridic** at thirty to forty percent loss, which is η 0.60 to 0.70. … The two ranges touch at 0.60 and do not otherwise agree."
 **Consequence if unresolved:** a Stage VI or VII practitioner's η is read two ways, and since AU/s is defined as Flux Density × η, both their sustained output and the joule value of everything they spend move with the choice. Sodoku Moto (Stage VI, η 0.84), Rashani Zettari (Stage VI, η 0.81) and Naiser Yukari (Stage VI) all sit on it.
 **Recommendation:** none. Neither figure has been withdrawn on the page.
-**Status:** open
+**Status:** closed — ruled by Isaac, 2026-09-25 (RULINGS.md; R44-4)
 
 ## C-038 — the Part Four travel-speed column leaves a gap between B and A
 

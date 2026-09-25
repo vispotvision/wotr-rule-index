@@ -714,3 +714,17 @@ Recorded as one sentence, and this sentence is what the index row quotes:
 The page edit it names is the η cell of the Tier 5 · Expert row in "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)", 0.50–0.60 to 0.60–0.70, and nothing else on that row or any other. The ruling does not name the same page's own unresolved-conflict callout at mirror line 103, so that wording is left exactly as written.
 
 Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Closes CONFLICTS.md C-037. Index row: R44-4-ETA_PART_SEVENTEEN_GOVERNS in rules/doc-essence-ledger-rulings-2026-09-25.yaml. The owed page edit is recorded in reports/essence_ledger_rulings_2026-09-25.md and goes to Notion, returning through the hourly sync.
+
+## 2026-09-25 — R44-5-CARD_ETA_GOVERNS_PER_CHARACTER
+
+**The Stage VI cards whose η sits above both candidate ranges.** Isaac ruled this directly on the Paperclip board on 2026-09-25, answering the WAR-11 questionnaire card "The Essence Ledger — rulings needed". He chose option (a) of the call "Not in Phase 1's rows — the Stage VI cards state eta above BOTH candidate ranges. Does the C-037 ruling reach them?" and wrote no words of his own, so the ruling is the option exactly as it was put to him:
+
+> **The card's eta governs per character; the tables are typical ranges** — Nothing changes. An in-world-acknowledged outlier is lawful.
+
+Recorded as one sentence, and this sentence is what the index row quotes:
+
+> The card's η governs per character and the tables are typical ranges; an in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as written.
+
+The three cards are the ones the call was put on: Sodoku Moto.md:43 (0.84), Rashani Zettari.md:29 (0.81) and Naiser Yukari, all Stage VI. Nothing is edited.
+
+Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Not a CONFLICTS.md row; raised on the WAR-11 card because the three Stage VI cards state an η above both candidate ranges in C-037. Index row: R44-5-CARD_ETA_GOVERNS_PER_CHARACTER in rules/doc-essence-ledger-rulings-2026-09-25.yaml. Reads alongside R42-12, which held the Class ladder to be the typical path rather than a lock.

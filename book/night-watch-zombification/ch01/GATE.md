@@ -2,7 +2,7 @@
 
 **Book:** night-watch-zombification · **POV:** Wystan Ashmore · **Words:** 3,413 prose words by verify (3,716 by `wc -w` on the whole file); target 3,500, set-piece band 2,500+.
 
-Files: `final.md` (copied from `draft_r0.md`), `final_notes.md` (from `notes_r0.md`).
+Files: `final.md` (copied from `draft_r1.md`), `final_notes.md` (from `notes_r1.md`). See **Instructed round (r1)** below.
 
 ## Verdict
 
@@ -36,9 +36,44 @@ Outline beat: Yinzhi's name at the docket head; the tin struck with his brass an
 
 ## Originated, pending Isaac (from notes)
 
-The day desk sits in the same building, up four steps. The day clerk is unnamed. Also originated: the brass token, brass wax and fresh tins, the grounding tea and the kettle. Flags: the fold carries no rendered date, and Tally cut the wedge while the assay sealed it.
+The day desk sits in the same building, up four steps. The day clerk is unnamed. Also originated: the brass token, brass wax and fresh tins, the grounding tea and the kettle. Flags: the fold carries no rendered date, and the archive attests two different accounts of who cut the wedge, which the exhibit entry no longer chooses between (see the Instructed round below, and `final_notes.md` Flags).
 
 Written in Isaac's unattended run (he asked for the whole book written through); gate not decided.
+
+## Instructed round (r1) — Rhett Konn's note at the gate, 2026-09-25
+
+**The note.** The chain-of-custody line in the day-book exhibit entry put the knife in Tally's hand.
+The archive attests two accounts and reconciles neither: `scenes/the_nights_watch.md:13` gives Tally a
+cut on the ninth ("He had cut a section with his knife"), and `scenes/the_nights_watch.md:275` gives the
+wedge in the tin to Yinzhi ("Under the third lamp he could see that it had grown since she cut it").
+Naming Tally either states the wrong one or silently picks a winner between two archive lines inside a
+document entered in ink as exhibit one.
+
+**The change.** One clause, `final.md:57`:
+
+- was: *Cut in the cut by Tally, N., and sealed there by the assay under chapter wax, the 9th.*
+- now: *Cut in the cut, sealed there by the assay under chapter wax, the 9th.*
+
+True under either reading, decides nothing, and in character for a Register document that records what
+it can attest. Nothing else moved: same POV, events, order and ending; no new character; the declared
+lie and misreading untouched. Length: 3,413 prose words by `verify` before and after, 3,716 → 3,712 by
+`wc -w` on the whole file (three words out of a 3,700-word chapter).
+
+**Bounded-revise compliance.** Frozen rules held: 100% of dialogue lines kept, 100% of paragraphs kept,
+word count 100% of round 0, no new characters, no new lie or misreading.
+
+**Checks.** `build/verify.py final.md --band set-piece --culture Accord` → **PASS, 0 fail, 0 warn**,
+3,413 words, set-piece band. `build/validate.py` → PASS. `load_rules prose-law` and
+`check_docket prose-law` run before the edit; 0 pending or proposed.
+
+**Carried with it.** `final_notes.md` Flags now quotes `:13` and `:275` side by side instead of calling
+the question settled; `state.json`'s ch01 custody fact and its anchoring quote are re-cut to the
+corrected sentence (the quote has to be verbatim from `final.md`).
+
+**Not decided here.** Which account is right is filed as **WAR-64** for Doc Kett, `needs-ruling`,
+`blocked-on-isaac`, and recorded as **C-042** in `CONFLICTS.md` with both lines quoted verbatim and
+their file:line. Neither archive line was touched. It does not block this chapter: the corrected line is
+true under either answer, and if the ruling names Tally the attribution goes back in one clause.
 
 ## What Isaac is deciding
 

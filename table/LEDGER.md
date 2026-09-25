@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 47 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 48 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -24,6 +24,7 @@ Generated from table/ledger.yaml by WOTR MCP. 47 open lines. `due()` says what c
 - `L036` Bram Greymane finishes the morning on foot behind a horse hit in the near hind and dead, with his shield strapped to a forearm he can no longer feel, after four hours holding a twenty-two-foot gap.  *(due: 1)*
 - `L037` By the fifteenth rotation Bram's three hundred are putting men back into the front rank who cannot lift a shield to head height, because the alternative is a hole.  *(due: 1)*
 - `L048` He is on foot: he put the Titan Droval up the road into another house's fight without weighing it, and the mount was the reason anyone within a mile of him took a step back. The page adds what he sent 'would be enough for the foot, and it would be nothing at all for the thing standing on the road with the purple around it'.  *(due: The next time he is closed with while dismounted, or the moment he needs the Droval at the far end of the road.)*
+- `L049` Opening Reigan costs him ordinary sight while he holds it: eleven seconds blind in the ruts, counted, and letting go puts his stomach in his throat and greys the top and sides of everything for a moment.  *(due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse, and the sword came out before he had finished coming back.)*
 
 ## debts
 

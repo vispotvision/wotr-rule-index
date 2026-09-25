@@ -462,3 +462,14 @@
   due: The next time he is closed with while dismounted, or the moment he needs the Droval at the far
     end of the road.
   status: open
+- id: L049
+  category: injuries and reserve
+  who: Sodoku Moto
+  text: 'Opening Reigan costs him ordinary sight while he holds it: eleven seconds blind in the ruts,
+    counted, and letting go puts his stomach in his throat and greys the top and sides of everything for
+    a moment.'
+  opened: '2026-09-25'
+  opened_session: 1
+  due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse,
+    and the sword came out before he had finished coming back.
+  status: open

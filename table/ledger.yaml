@@ -335,3 +335,12 @@
   opened_session: 1
   due: 1
   status: open
+- id: L037
+  category: injuries and reserve
+  who: Bram's three hundred
+  text: By the fifteenth rotation Bram's three hundred are putting men back into the front rank who cannot
+    lift a shield to head height, because the alternative is a hole.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: 1
+  status: open

@@ -419,3 +419,12 @@
   due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what
     it obliged him to.
   status: open
+- id: L045
+  category: reputation
+  who: Wren Greymane
+  text: Wren Greymane claims the Greymane banner and the title Shield of the North aloud in front of six
+    hundred men he chose, and then takes two villages under it before noon.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When the claim reaches Bram, the Seat, or the roll.
+  status: open

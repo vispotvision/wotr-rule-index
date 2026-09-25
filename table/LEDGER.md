@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 43 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 44 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -55,6 +55,7 @@ Generated from table/ledger.yaml by WOTR MCP. 43 open lines. `due()` says what c
 - `L022` **Bram:** did not maim a commander, made a nation invent a word.  *(due: 3)*
 - `L023` **Lambert:** took the southern reach with a supply schedule and no battle and no scorched-earth order, and cannot be thanked for it in public.  *(due: 3)*
 - `L024` **Ilthára Korvaeth:** the Mad Queen, and after the yard the byname has evidence, and the evidence is a ledger rather than raving.  *(due: 3)*
+- `L045` Wren Greymane claims the Greymane banner and the title Shield of the North aloud in front of six hundred men he chose, and then takes two villages under it before noon.  *(due: When the claim reaches Bram, the Seat, or the roll.)*
 
 ## canon conflicts on the ledger (blocking)
 

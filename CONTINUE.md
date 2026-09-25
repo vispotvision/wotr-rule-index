@@ -1059,3 +1059,60 @@ interpreter bullet should give `/home/oridon/.venvs/wotr/bin/python` rather than
 most agents. Rhett raised it; it was not filed and nothing in `AGENTS.md`,
 `schema/` or `build/` was touched for this block. No rule, card, page, config or
 wiki file changed (WAR-107).
+
+## State on 2026-09-25 (the sweep now reads a card's η written without the η)
+
+**WAR-94 is fixed at source (`8ff44e3`).** Phase 1's extractor read Naiser
+Yukari's AU/s row and missed the `| **Aetheric Efficiency** | 0.89 |` row under
+it. The cause, exactly: `ETA_LABEL` in `imports/essence-ledger/extract_anchors.py`
+hand-rolled its separator instead of using the module's `SEP`, so it accepted
+only a literal `(η)` and only `· : |` and a `**` stopped it dead; `ETA_ONE` needs
+the literal η character, which that row does not have. `ETA_FIELD` is added and
+tried **only after** all three older patterns have failed, so no line that
+already yields a figure can have its figure changed — verified, not asserted:
++4 candidate rows, 0 lost, 0 existing value changed. Its separator must carry a
+field marker, which is what keeps it off `Verinus VII · The Palatine.md:131`'s
+"Transfer efficiency 1.0 by definition" — a technique's transfer ratio inside a
+bold span, not a Coherence η.
+
+**The sweep ran wide over all four measures** (every wiki line naming a measure
+and carrying a digit that `scan_line` reported nothing for, no distance window)
+and found **four figures on four cards**: η **0.89** `Naiser Yukari.md:60`, η
+**~0.76** `Krothar Thunn-Gorr — The Old Chain.md:40`, η **0.22** `Torven Greis —
+The Merchant Lord.md:39`, AU/s **~420,000** `Krothar Veylshroud …:100`. The two
+new η are the same family by a second mechanism — `**η (Coherence Efficiency):**`
+puts 26 non-digit characters between the η and the number where `ETA_ONE` allows
+18. Veylshroud's is the fourth measure's version: the label `**AU/s Output:**`
+was stopped by its own second word, so `AU/s Output` joins the label list.
+Thunn-Gorr and Torven Greis had **no anchor row of any kind** before this.
+Nothing else is missed by this cause; `flux_density` and `eu_reserve` none.
+
+**What moved, and the half of it that is not WAR-94's.** The fitted constant did
+not move, and neither did §4's reserve law or any reserve band. `fit.json` moved
+one row: Naiser's η **0.65 → 0.89**, `eta_from` now `page, line 60`, R44-5 read
+off the corpus instead of patched around it. He joins `formula_check` as a row
+that does not hold (480 × 0.89 = 427.2 against his card's 340 AU/s; under R44-2
+the AU/s is the error). `CARD_ETA_MISSED_BY_PHASE_1` is **removed** from
+`ledger_tables.py` — it reached `drain()` only, so the four reserve-band cells
+that read η off `fit.json` had kept a Tier midpoint and now read 0.89 too; `drain`
+gains Krothar Veylshroud. **But rebuilding `anchors.json` from the committed
+scripts produced a different file before a line was changed**, because `de43b93`
+(`Wiki sync: 290 file(s) changed in Notion`, 18:40) landed **20 card figures**
+after WAR-71 committed it: 19 cards' AU/s under R44-2's identity and Kinjiki's η
+1.3 → 1.2 under C-031, all verified against the commit as real applied edits
+(`Draen Varos` 98,000 → **408,700,000**). A mirror-only baseline was built first
+so the two could be told apart, and they are, in the commit message and on the
+issue. The consequence is large and sits in `ledger_tables.json` now:
+**`flux_eta.holds_exactly` 3 → 19** of 30, `implied_mass_between_0p2_and_10_g`
+21 → 28 — the counts the Part's §6 argues the missing mass from.
+
+**`the-essence-ledger.md` is deliberately untouched** and now disagrees with
+`ledger_tables.json`. Republishing 20 figures from another issue's card sweep is
+not a regex issue's call: **WAR-117** owns the rebuild (its step 1 is done, its
+"expect exactly four values, 0.55 to 0.65" is superseded — the four cells read
+0.89) and **WAR-13** has been told before it hangs its ladders. §5.3's footnote
+can now be shortened to "the card states it". New: **WAR-125**, three attested
+figures the sweep found and left because each is data entry rather than an
+extractor defect (Veylshroud's second, passive 135,000 AU/s; Wystan Ashmore's
+Flux Density labelled just "Flux" in prose; Helki's superseded 1,200,000
+capacity). No card, page, config or wiki file changed. `validate.py` PASS.

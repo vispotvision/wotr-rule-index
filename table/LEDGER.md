@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 46 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 47 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -23,6 +23,7 @@ Generated from table/ledger.yaml by WOTR MCP. 46 open lines. `due()` says what c
 - `L034` Bleeding from both nostrils (anterior septal vessels) under the load of the constellation net; went grey when the recursive warden poured back into him; contusion over the point of the right shoulder and split lip from the ward in part one; coat torn open across the chest. A boy who forgets to eat and has gone down on a practice floor three times this year, now emptied.  *(due: Next time he calls anything: every draw from here costs first-call price, and he has already paid for an imprint, a constellation net, a recursive warden and Juggernaut's Fist in one fight.)*
 - `L036` Bram Greymane finishes the morning on foot behind a horse hit in the near hind and dead, with his shield strapped to a forearm he can no longer feel, after four hours holding a twenty-two-foot gap.  *(due: 1)*
 - `L037` By the fifteenth rotation Bram's three hundred are putting men back into the front rank who cannot lift a shield to head height, because the alternative is a hole.  *(due: 1)*
+- `L048` He is on foot: he put the Titan Droval up the road into another house's fight without weighing it, and the mount was the reason anyone within a mile of him took a step back. The page adds what he sent 'would be enough for the foot, and it would be nothing at all for the thing standing on the road with the purple around it'.  *(due: The next time he is closed with while dismounted, or the moment he needs the Droval at the far end of the road.)*
 
 ## debts
 

@@ -6,6 +6,26 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-48 — sixteen AU/s figures corrected in Notion under R44-2)
+
+R44-2 (`RULINGS.md`, 2026-09-25, logged by WAR-96) rules that **AU/s = Flux Density x eta** governs and
+that a card's stated AU/s is the error. Of the twenty-six cards that miss:
+
+- **Sixteen are corrected on the live Notion pages** (nineteen statements; Mizuki, Muken and Niran
+  each state the figure twice and both statements moved together). Only the AU/s field was touched —
+  Flux Density and eta stand as written on every card, per R44-2's own scope.
+- **Ten are held and not corrected**, all on **WAR-102** (Doc Kett, `canon` + `needs-ruling`):
+  Gimbzo (`CONFLICTS.md` **C-053**) and Dougou Ozumu Zettari (**C-054**) because the recomputed figure
+  contradicts figures their own cards state elsewhere; Elion Drevas, Ignatius, Borin Ironheart and
+  Sodoku Moto because the ruling does not say what their wording becomes; and Artemis, Ayame,
+  Vethraun and Yukazuri because the exact product lands on a decimal in a field that has never held
+  one, and rounding would invent a number.
+
+**The edits are in Notion, not in git.** `wiki/` is the mirror and it is still stale (WAR-29 /
+WAR-68), so a grep of `wiki/` returns the *old* AU/s figures until the hourly sync commits again.
+The card-by-card working, with every figure computed from `imports/essence-ledger/fit.json` by script
+and none typed, is `reports/au_s_recompute_2026-09-25.md`.
+
 ## State on 2026-09-25 (WAR-113 — `wiki/` is stale in git; do not trust an absence found by grep)
 
 **Until the sync commits again, `wiki/` in git is 2026-09-24 17:15 (`c79211a`).**

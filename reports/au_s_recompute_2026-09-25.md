@@ -4,16 +4,49 @@ Etta Band. `imports/essence-ledger/fit.json` `formula_check` is the input; every
 computed from it, none typed. `python build/validate.py` PASS, 697 rules, live=572 superseded=125,
 before and after — this run changed no rule and no card.
 
-## What this run did and did not do
+## Applied 2026-09-25, after WAR-96 (second pass)
+
+**Sixteen cards, nineteen statements, are corrected on the live Notion pages.** WAR-96 shipped
+R44-1..R44-6 into `RULINGS.md` on `origin/master` (`e1a5cda`), so the record gap this report was first
+written around is closed; the section below is kept as the account of why the first pass withheld.
+R44-2 was read in both layers of its entry — the option as Isaac was given it and the one-sentence
+form the index row quotes — and both say the same thing.
+
+**Applied (16 cards / 19 statements).** Anryū Ichimonji 9,870 · Draen Varos 408,700,000 ·
+Garron Vuldane 11,610,000 · Iracordas 8,742 · Kael Serradyn 13,692,000 · Lucius Xenotro 37,720 ·
+Mavra Cindrel 3,782,000 · **Mizuki Moto 6,478** (both statements) · **Muken Moto 15,624** (both) ·
+Naevra Yukari 2,784 · **Niran Yukari 16,376** (both) · Rashani Zettari 6,642 · Rengai Zettari 14,196 ·
+Serai Linthra 7,098,000 · Valthren Odrin 8,442,000 · Yorime Seikai 13,066. Each edit replaced the
+AU/s figure alone, by exact-match on the card's own wording, so the field keeps its own form
+(comma-grouped integer) and Flux Density and η are untouched on every card. A page whose live text had
+drifted from the mirror would have failed the match rather than been overwritten; none did.
+
+**Held (4) — the exact product lands on a decimal.** Artemis Amagiri Moto 1,663.2 · Ayame Yuno 438.6 ·
+Vethraun Ashmaw 282.1 · Yukazuri Moto 258.1. No AU/s field in the corpus has ever held a decimal, and
+rounding would invent a number. Doc Kett's WAR-96 comment names this as still open and not R44-2's to
+answer, so it stays with the six at WAR-102.
+
+**Stopped (6) — unchanged from the first pass**, and now recorded in `CONFLICTS.md`: Gimbzo (**C-053**)
+and Dougou Ozumu Zettari (**C-054**) on contradiction; Elion Drevas, Ignatius, Borin Ironheart and
+Sodoku Moto on form. The two rows were withheld on the first pass only because R44-2 was not yet
+recorded; that reason is gone.
+
+**The contradiction test was run on all sixteen before applying.** No card among them binds a cast
+time to its output, and every stated maintenance rate (Anryū 4,800 EU/s, Lucius 34,000, Niran 8,400,
+Rengai 6,200, Mizuki 2,800, Rashani 1,800) stays below that card's recomputed AU/s. Anryū's second
+AU/s mention at `:83` is a Domain collapse threshold of 1.1 billion, not his own output, and 9,870
+sits far below it as 52,000 did.
+
+## What the first pass did and did not do
 
 **It recomputed all twenty-six and changed none of them.** The arithmetic is settled for twenty of
 the twenty-six, two are stopped for contradicting a figure their own card states elsewhere, and four
 are stopped because the ruling does not say what their form becomes. The twenty that are arithmetically
-ready are not applied, and the reason is not arithmetic: **R44-2 is in no `RULINGS.md`, and the file
-that carries it is not on master.** `CLAUDE.md`: *"A ruling exists only if it is in `RULINGS.md`
-(Isaac's or an agent ruling)."* That is house rule 3.2 and this run stops on it.
+ready were not applied, and the reason was not arithmetic: **R44-2 was in no `RULINGS.md`, and the file
+that carries it was not on master.** `CLAUDE.md`: *"A ruling exists only if it is in `RULINGS.md`
+(Isaac's or an agent ruling)."* That is house rule 3.2 and the first pass stopped on it.
 
-## The record gap, verified two ways
+## The record gap, verified two ways — closed by WAR-96 on 2026-09-25
 
 1. **R44-2's verbatim is in no `RULINGS.md`.** `grep` for `Flux Density`, `AU/s = `, `C-035` and
    `One constant` over `RULINGS.md` returns nothing, on this branch and on `origin/master`.
@@ -78,6 +111,11 @@ Figures are given as numbers; each card's own wording is quoted in the sections 
 | 24 | Vethraun Ashmaw | 310 | 0.91 | 780 | 282.1 | 2.765 | arithmetic settled |
 | 25 | Yorime Seikai | 13,900 | 0.94 | 2,850 | 13,066 | 0.2181 | arithmetic settled |
 | 26 | Yukazuri Moto | 290 | 0.89 | 480 | 258.1 | 1.86 | arithmetic settled |
+
+**The `verdict` column is the first pass's reading and is left as written.** For what each row's
+figure actually became, read the applied / held / stopped lists at the top of this report: the sixteen
+marked *arithmetic settled* whose product is a whole number were applied, and the four marked
+*arithmetic settled* whose product lands on a decimal were held.
 
 Twenty-nine cards state all three fields. Three hold exactly and are not in the table — **Ara Min Mahuo** (59,500), **Kwon Mu-jin** (1,566,000), **Yoko Mishiro** (75); each implies a mass of
 exactly 1 g in the identity, which is the open question the Essence Ledger Part records and not this
@@ -169,14 +207,14 @@ second ruling.
 
 ## What is left to do, in order
 
-1. **WAR-96** records R44-1..R44-6 in `RULINGS.md` through `log_ruling`, and `f335403` reaches master.
-   Until then R44-2 does not exist and nothing below can start.
-2. **Twenty cards, twenty-four statements** (all four double-statement cards are among the twenty),
-   take the recomputed figure in the table above. The
-   arithmetic is done and needs no second pass; four of the twenty want the decimal question answered
-   first, or answered as part of the R44-1 form ruling.
-3. **Six cards need a ruling, not a sweep** — Gimbzo and Dougou on contradiction, Elion Drevas,
-   Ignatius, Borin Ironheart and Sodoku Moto on form. Each is recorded above with both sides quoted
-   and neither resolved.
-4. **The application is Notion, and the sync must be running** for the mirror to come back.
+1. ~~**WAR-96** records R44-1..R44-6 in `RULINGS.md`~~ — **done 2026-09-25**, `e1a5cda` on master.
+2. ~~**Twenty cards take the recomputed figure**~~ — **sixteen applied**, listed at the top of this
+   report. The remaining four of the twenty are the decimal cases and are held with the six.
+3. **Ten cards need a ruling, not a sweep** — Gimbzo (**C-053**) and Dougou (**C-054**) on
+   contradiction; Elion Drevas, Ignatius, Borin Ironheart and Sodoku Moto on form; Artemis, Ayame,
+   Vethraun and Yukazuri on the decimal. All ten are on **WAR-102** (Doc Kett), each with both sides
+   quoted and neither resolved.
+4. **The mirror still has to come back.** The nineteen edits are live in Notion; `wiki/` in git will
+   not show them until the hourly sync commits again, which is blocked on **WAR-29** / **WAR-68**.
+   Until then a grep of `wiki/` returns the old figures, per the standing warning in `CONTINUE.md`.
 

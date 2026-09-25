@@ -1,0 +1,3843 @@
+{
+ "meta": {
+  "issue": "WAR-12",
+  "phase": "Essence Ledger Phase 2 — the system",
+  "date": "2026-09-25",
+  "inputs": [
+   "imports/essence-ledger/anchors.json",
+   "imports/essence-ledger/fit.json"
+  ],
+  "working_constant_j_per_eu": 1000.0,
+  "note": "the working constant is the draft's, not a ruling. C-034 is open and chooses none of the readings; every table here is marked pending on it in the Part."
+ },
+ "constant_fit": {
+  "pairs": [
+   {
+    "entity": "Dougou Ozumu Zettari",
+    "working": "Ozumu no Katachi Form of Accumulated Crush",
+    "why": null,
+    "eu_low": 4800.0,
+    "eu_high": 4800.0,
+    "joules_low": 1000000.0,
+    "joules_high": 5000000.0,
+    "k_window_low": 208.33333333333334,
+    "k_window_high": 1041.6666666666667,
+    "k_window_strict_low": 208.33333333333334,
+    "k_window_strict_high": 1041.6666666666667,
+    "cost_source": {
+     "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+     "line": 93
+    },
+    "cost_verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |",
+    "joule_source": {
+     "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+     "line": 93
+    },
+    "joule_verbatim": "| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |"
+   },
+   {
+    "entity": "Dougou Ozumu Zettari",
+    "working": "Cost",
+    "why": "The Iron Tree's apex. The cost line names Kokushin Gyūha and its EU figure; the Numerical Effect line gives the output 'at apex'; the technique table calls Kokushin Gyūha the 'Apex fruit of the whole system'.",
+    "eu_low": 7400.0,
+    "eu_high": 7400.0,
+    "joules_low": 8000000.0,
+    "joules_high": 20000000.0,
+    "k_window_low": 1081.081081081081,
+    "k_window_high": 2702.7027027027025,
+    "k_window_strict_low": 1081.081081081081,
+    "k_window_strict_high": 2702.7027027027025,
+    "cost_source": {
+     "file": "wiki/Spellcraft/The Iron Tree.md",
+     "line": 20
+    },
+    "cost_verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+    "joule_source": {
+     "file": "wiki/Spellcraft/The Iron Tree.md",
+     "line": 41
+    },
+    "joule_verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+   },
+   {
+    "entity": "Dougou Ozumu Zettari",
+    "working": "Cost",
+    "why": "The Iron Tree's branches. Both figures are on the page as ranges for the same set of releases: 2,800 to 8,900 EU per branch, and branch outputs in the 1 to 10 MJ range.",
+    "eu_low": 2800,
+    "eu_high": 8900,
+    "joules_low": 1000000.0,
+    "joules_high": 10000000.0,
+    "k_window_low": 112.35955056179775,
+    "k_window_high": 3571.4285714285716,
+    "k_window_strict_low": 357.14285714285717,
+    "k_window_strict_high": 1123.5955056179776,
+    "cost_source": {
+     "file": "wiki/Spellcraft/The Iron Tree.md",
+     "line": 20
+    },
+    "cost_verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.",
+    "joule_source": {
+     "file": "wiki/Spellcraft/The Iron Tree.md",
+     "line": 41
+    },
+    "joule_verbatim": "**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy."
+   }
+  ],
+  "best_k": 1061.695557198609,
+  "candidates": {
+   "brief, 1 EU = 1 MJ": {
+    "k_j_per_eu": 1000000.0,
+    "sum_sq_decades": 21.47818423327876,
+    "in_band": 0,
+    "of": 3,
+    "rows": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Ozumu no Katachi Form of Accumulated Crush",
+      "eu_low": 4800.0,
+      "eu_high": 4800.0,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 5000000.0,
+      "predicted_j_low": 4800000000.0,
+      "predicted_j_high": 4800000000.0,
+      "residual_decades": 2.9822712330395684,
+      "in_band": false
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 7400.0,
+      "eu_high": 7400.0,
+      "stated_j_low": 8000000.0,
+      "stated_j_high": 20000000.0,
+      "predicted_j_low": 7400000000.0,
+      "predicted_j_high": 7400000000.0,
+      "residual_decades": 2.568201724066995,
+      "in_band": false
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 2800,
+      "eu_high": 8900,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 10000000.0,
+      "predicted_j_low": 2800000000.0,
+      "predicted_j_high": 8900000000.0,
+      "residual_decades": 2.4471580313422194,
+      "in_band": false
+     }
+    ]
+   },
+   "1 EU = 1 kJ": {
+    "k_j_per_eu": 1000.0,
+    "sum_sq_decades": 0.001146382261915095,
+    "in_band": 2,
+    "of": 3,
+    "rows": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Ozumu no Katachi Form of Accumulated Crush",
+      "eu_low": 4800.0,
+      "eu_high": 4800.0,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 5000000.0,
+      "predicted_j_low": 4800000.0,
+      "predicted_j_high": 4800000.0,
+      "residual_decades": 0.0,
+      "in_band": true
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 7400.0,
+      "eu_high": 7400.0,
+      "stated_j_low": 8000000.0,
+      "stated_j_high": 20000000.0,
+      "predicted_j_low": 7400000.0,
+      "predicted_j_high": 7400000.0,
+      "residual_decades": -0.03385826726096737,
+      "in_band": false
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 2800,
+      "eu_high": 8900,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 10000000.0,
+      "predicted_j_low": 2800000.0,
+      "predicted_j_high": 8900000.0,
+      "residual_decades": 0.0,
+      "in_band": true
+     }
+    ]
+   },
+   "least squares on the three pairs": {
+    "k_j_per_eu": 1061.695557198609,
+    "sum_sq_decades": 0.00013016566033960053,
+    "in_band": 1,
+    "of": 3,
+    "rows": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Ozumu no Katachi Form of Accumulated Crush",
+      "eu_low": 4800.0,
+      "eu_high": 4800.0,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 5000000.0,
+      "predicted_j_low": 5096138.674553324,
+      "predicted_j_high": 5096138.674553324,
+      "residual_decades": 0.008271233039521115,
+      "in_band": false
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 7400.0,
+      "eu_high": 7400.0,
+      "stated_j_low": 8000000.0,
+      "stated_j_high": 20000000.0,
+      "predicted_j_low": 7856547.123269707,
+      "predicted_j_high": 7856547.123269707,
+      "residual_decades": -0.007858267261014658,
+      "in_band": false
+     },
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "working": "Cost",
+      "eu_low": 2800,
+      "eu_high": 8900,
+      "stated_j_low": 1000000.0,
+      "stated_j_high": 10000000.0,
+      "predicted_j_low": 2972747.5601561056,
+      "predicted_j_high": 9449090.45906762,
+      "residual_decades": 0.0,
+      "in_band": true
+     }
+    ]
+   }
+  }
+ },
+ "reserve_law": {
+  "method_source": {
+   "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
+   "line": 215
+  },
+  "ruled_anchors": [
+   {
+    "entity": "Ara Min Mahuo",
+    "level": 250,
+    "eu": 4200000
+   },
+   {
+    "entity": "Borin Ironheart",
+    "level": 378,
+    "eu": 180000000
+   },
+   {
+    "entity": "Kwon Mu-jin",
+    "level": 430,
+    "eu": 850000000
+   }
+  ],
+  "segments": [
+   {
+    "from": "Ara Min Mahuo",
+    "to": "Borin Ironheart",
+    "levels": [
+     250,
+     378
+    ],
+    "decades_per_level": 0.012750181364885982
+   },
+   {
+    "from": "Borin Ironheart",
+    "to": "Kwon Mu-jin",
+    "levels": [
+     378,
+     430
+    ],
+    "decades_per_level": 0.01296435424251897
+   }
+  ],
+  "decades_per_level": 0.012812053529535511,
+  "log10_eu_at_level_0": 3.420235908014023,
+  "levels_per_decade": 78.0515003074807,
+  "rows": [
+   {
+    "entity": "Naori Yukari",
+    "level": 80,
+    "stage": 3,
+    "eu_stated": 42000.0,
+    "eu_predicted": 27874.057422077003,
+    "residual_decades": 0.17804910002103616,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
+     "line": 54
+    },
+    "verbatim": "**EU Reserve** 42,000 · **AU/s** 4,200 · **η 0.40** · **Passive Recovery 15% EU/min**"
+   },
+   {
+    "entity": "Mizuki Moto",
+    "level": 128,
+    "stage": 7,
+    "eu_stated": 470000.0,
+    "eu_predicted": 114862.63098684956,
+    "residual_decades": 0.6119190981411493,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+     "line": 59
+    },
+    "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+   },
+   {
+    "entity": "Yoko Mishiro",
+    "level": 145,
+    "stage": 5,
+    "eu_stated": 185000.0,
+    "eu_predicted": 189663.46032176772,
+    "residual_decades": -0.010811941393658422,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
+     "line": 69
+    },
+    "verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+   },
+   {
+    "entity": "Karo Venrik · The Foolish Magus",
+    "level": 156,
+    "stage": 5,
+    "eu_stated": 1600.0,
+    "eu_predicted": 262371.2586017182,
+    "residual_decades": -2.214796275965638,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+     "line": 137
+    },
+    "verbatim": "- **Essence Capacity 1,600 EU and Flux Density 3.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated."
+   },
+   {
+    "entity": "Anryū Ichimonji",
+    "level": 180,
+    "stage": 7,
+    "eu_stated": 820000.0,
+    "eu_predicted": 532605.3729753195,
+    "residual_decades": 0.18740830905330164,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+     "line": 63
+    },
+    "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+   },
+   {
+    "entity": "Rashani Zettari",
+    "level": 182,
+    "stage": 6,
+    "eu_stated": 540000.0,
+    "eu_predicted": 564975.5458138986,
+    "residual_decades": -0.019635890566518023,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+     "line": 64
+    },
+    "verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
+   },
+   {
+    "entity": "Niran Yukari",
+    "level": 195,
+    "stage": 7,
+    "eu_stated": 485000.0,
+    "eu_predicted": 829060.7334464006,
+    "residual_decades": -0.23284460767118395,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+     "line": 61
+    },
+    "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+   },
+   {
+    "entity": "Ara Min Mahuo",
+    "level": 250,
+    "stage": 8,
+    "eu_stated": 4200000.0,
+    "eu_predicted": 4200000.000000003,
+    "residual_decades": -2.892982399659862e-16,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+     "line": 71
+    },
+    "verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+   },
+   {
+    "entity": "Rengai Zettari",
+    "level": 250,
+    "stage": 7,
+    "eu_stated": 1400000.0,
+    "eu_predicted": 4200000.000000003,
+    "residual_decades": -0.4771212547196627,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+     "line": 60
+    },
+    "verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
+   },
+   {
+    "entity": "Sodoku Moto",
+    "level": 320,
+    "stage": 6,
+    "eu_stated": 1340000.0,
+    "eu_predicted": 33120206.620253995,
+    "residual_decades": -1.3929882391005788,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
+     "line": 86
+    },
+    "verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
+   },
+   {
+    "entity": "Kwon Hae-ryu",
+    "level": 355,
+    "stage": 10,
+    "eu_stated": 90000000,
+    "eu_predicted": 93006844.70310426,
+    "residual_decades": -0.014272401559804476,
+    "source": {
+     "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
+     "line": 75
+    },
+    "verbatim": "| **Call Cost** | Approximately 9% of her reserve, which is about 8,100,000 EU against a reserve of 90,000,000 EU. The percentage is the honest figure and the absolute number now stands behind it, set by ruling; the interpolation is recorded in Section XIII |"
+   },
+   {
+    "entity": "Borin Ironheart · The Master of the Soul Forge",
+    "level": 378,
+    "stage": 12,
+    "eu_stated": 180000000.0,
+    "eu_predicted": 183312526.10804322,
+    "residual_decades": -0.00791963707514087,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+     "line": 102
+    },
+    "verbatim": "**Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor."
+   },
+   {
+    "entity": "Krothar Veylshroud — The Chain Without a Master",
+    "level": 380,
+    "stage": 8,
+    "eu_stated": 1600000.0,
+    "eu_predicted": 194453717.04354742,
+    "residual_decades": -2.084696266581592,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+     "line": 99
+    },
+    "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+   },
+   {
+    "entity": "Krothar Veylshroud",
+    "level": 380,
+    "stage": 8,
+    "eu_stated": 2800000,
+    "eu_predicted": 194453717.04354742,
+    "residual_decades": -1.8416582178952974,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+     "line": 99
+    },
+    "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+   },
+   {
+    "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+    "level": 385,
+    "stage": 12,
+    "eu_stated": 5500000.0,
+    "eu_predicted": 225359835.45739636,
+    "residual_decades": -1.6125138273909505,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+     "line": 141
+    },
+    "verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed."
+   },
+   {
+    "entity": "Kwon Mu-jin",
+    "level": 430,
+    "stage": 12,
+    "eu_stated": 850000000.0,
+    "eu_predicted": 850000000.0000002,
+    "residual_decades": -1.4464911998299308e-16,
+    "source": {
+     "file": "wiki/The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
+     "line": 30
+    },
+    "verbatim": "| **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5 to 127.5 million EU |"
+   },
+   {
+    "entity": "Verinus VII · The Palatine",
+    "level": 462,
+    "stage": 12,
+    "eu_stated": 620000000.0,
+    "eu_predicted": 2184764541.6236124,
+    "residual_decades": -0.5470129491611755,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md",
+     "line": 86
+    },
+    "verbatim": "**EU Reserve:** approximately 620,000,000 — **low for Band V and low deliberately.** He runs a permanent standing Domain and a Sovereign-Frequency unlock off a reserve that a comparable practitioner would consider insufficient, and the difference is made up entirely in Tempering Yield and in the fact that the Sounding is fed by every honest word spoken inside it"
+   },
+   {
+    "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+    "level": 500,
+    "stage": 12,
+    "eu_stated": 4200000.0,
+    "eu_predicted": 6702898958.860925,
+    "residual_decades": -3.2030133823838782,
+    "source": {
+     "file": "wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
+     "line": 17
+    },
+    "verbatim": "> **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign"
+   },
+   {
+    "entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+    "level": 500,
+    "stage": 14,
+    "eu_stated": 2400000000.0,
+    "eu_predicted": 6702898958.860925,
+    "residual_decades": -0.44605143107017264,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md",
+     "line": 85
+    },
+    "verbatim": "**EU Reserve:** **2,400,000,000.** Confirmed 2026-09-12. Fracture of Worlds specifies no EU table by Stage; this figure was extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII, and stands as final."
+   }
+  ],
+  "n": 19,
+  "within_half_decade": 11,
+  "within_one_decade": 13,
+  "median_abs_residual": 0.44605143107017264
+ },
+ "bands": {
+  "by_stage": [
+   {
+    "n": 1,
+    "low_eu": 42000.0,
+    "low_entity": "Naori Yukari",
+    "high_eu": 42000.0,
+    "high_entity": "Naori Yukari",
+    "decades_spanned": 0.0,
+    "geometric_mean": 42000.00000000003,
+    "entities": [
+     {
+      "entity": "Naori Yukari",
+      "eu": 42000.0,
+      "eta": 0.4
+     }
+    ],
+    "stage": 3,
+    "tier": "3 · Journeyman",
+    "gate_level": 100,
+    "gate_ceiling_eu": 50285.324953404684,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684,
+    "anchors": [
+     {
+      "entity": "Naori Yukari",
+      "eu": 42000.0,
+      "eta": 0.4,
+      "level": 80,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
+       "line": 54
+      },
+      "verbatim": "**EU Reserve** 42,000 · **AU/s** 4,200 · **η 0.40** · **Passive Recovery 15% EU/min**"
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 1
+   },
+   {
+    "n": 1,
+    "low_eu": 3100.0,
+    "low_entity": "Yukazuri Moto",
+    "high_eu": 3100.0,
+    "high_entity": "Yukazuri Moto",
+    "decades_spanned": 0.0,
+    "geometric_mean": 3099.9999999999995,
+    "entities": [
+     {
+      "entity": "Yukazuri Moto",
+      "eu": 3100.0,
+      "eta": 0.89
+     }
+    ],
+    "stage": 4,
+    "tier": "4 · Adept",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684,
+    "anchors": [
+     {
+      "entity": "Yukazuri Moto",
+      "eu": 3100.0,
+      "eta": 0.89,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+       "line": 61
+      },
+      "verbatim": "**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89"
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 1
+   },
+   {
+    "n": 2,
+    "low_eu": 1600.0,
+    "low_entity": "Karo Venrik · The Foolish Magus",
+    "high_eu": 185000.0,
+    "high_entity": "Yoko Mishiro",
+    "decades_spanned": 2.063051745747089,
+    "geometric_mean": 17204.650534085256,
+    "entities": [
+     {
+      "entity": "Karo Venrik · The Foolish Magus",
+      "eu": 1600.0,
+      "eta": 0.5
+     },
+     {
+      "entity": "Yoko Mishiro",
+      "eu": 185000.0,
+      "eta": 0.5
+     }
+    ],
+    "stage": 5,
+    "tier": "5 · Expert",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014,
+    "anchors": [
+     {
+      "entity": "Karo Venrik · The Foolish Magus",
+      "eu": 1600.0,
+      "eta": 0.5,
+      "level": 156,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.5101333318411847,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+       "line": 137
+      },
+      "verbatim": "- **Essence Capacity 1,600 EU and Flux Density 3.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated."
+     },
+     {
+      "entity": "Yoko Mishiro",
+      "eu": 185000.0,
+      "eta": 0.5,
+      "level": 145,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
+       "line": 69
+      },
+      "verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+     }
+    ],
+    "under_gate": 2,
+    "in_cluster": 1
+   },
+   {
+    "n": 3,
+    "low_eu": 2460.0,
+    "low_entity": "Naiser Yukari",
+    "high_eu": 1340000.0,
+    "high_entity": "Sodoku Moto",
+    "decades_spanned": 2.7361696912614284,
+    "geometric_mean": 121193.09832280673,
+    "entities": [
+     {
+      "entity": "Naiser Yukari",
+      "eu": 2460.0,
+      "eta": 0.55
+     },
+     {
+      "entity": "Rashani Zettari",
+      "eu": 540000.0,
+      "eta": 0.81
+     },
+     {
+      "entity": "Sodoku Moto",
+      "eu": 1340000.0,
+      "eta": 0.84
+     }
+    ],
+    "stage": 6,
+    "tier": "5 · Expert",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014,
+    "anchors": [
+     {
+      "entity": "Naiser Yukari",
+      "eu": 2460.0,
+      "eta": 0.55,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.3233182073937304,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+       "line": 57
+      },
+      "verbatim": "| **Essence Capacity** | 2,460 EU | Vast enough to sustain prolonged metaphysical engagement, **but governed with rigid discipline** |"
+     },
+     {
+      "entity": "Rashani Zettari",
+      "eu": 540000.0,
+      "eta": 0.81,
+      "level": 182,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+       "line": 64
+      },
+      "verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
+     },
+     {
+      "entity": "Sodoku Moto",
+      "eu": 1340000.0,
+      "eta": 0.84,
+      "level": 320,
+      "under_gate_ceiling": false,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.1444581844436822,
+      "decades_over_gate": 0.1444581844436822,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
+       "line": 86
+      },
+      "verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
+     }
+    ],
+    "under_gate": 2,
+    "in_cluster": 1
+   },
+   {
+    "n": 4,
+    "low_eu": 470000.0,
+    "low_entity": "Mizuki Moto",
+    "high_eu": 1400000.0,
+    "high_entity": "Rengai Zettari",
+    "decades_spanned": 0.47403017774252054,
+    "geometric_mean": 715229.4214417475,
+    "entities": [
+     {
+      "entity": "Mizuki Moto",
+      "eu": 470000.0,
+      "eta": 0.82
+     },
+     {
+      "entity": "Niran Yukari",
+      "eu": 485000.0,
+      "eta": 0.89
+     },
+     {
+      "entity": "Anryū Ichimonji",
+      "eu": 820000.0,
+      "eta": 1.05
+     },
+     {
+      "entity": "Rengai Zettari",
+      "eu": 1400000.0,
+      "eta": 0.78
+     }
+    ],
+    "stage": 7,
+    "tier": "5 · Expert",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014,
+    "anchors": [
+     {
+      "entity": "Mizuki Moto",
+      "eu": 470000.0,
+      "eta": 0.82,
+      "level": 128,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+       "line": 59
+      },
+      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+     },
+     {
+      "entity": "Niran Yukari",
+      "eu": 485000.0,
+      "eta": 0.89,
+      "level": 195,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+       "line": 61
+      },
+      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+     },
+     {
+      "entity": "Anryū Ichimonji",
+      "eu": 820000.0,
+      "eta": 1.05,
+      "level": 180,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+       "line": 63
+      },
+      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+     },
+     {
+      "entity": "Rengai Zettari",
+      "eu": 1400000.0,
+      "eta": 0.78,
+      "level": 250,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.1634814217571126,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+       "line": 60
+      },
+      "verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
+     }
+    ],
+    "under_gate": 4,
+    "in_cluster": 3
+   },
+   {
+    "n": 6,
+    "low_eu": 37000.0,
+    "low_entity": "Ayame Yuno",
+    "high_eu": 4200000.0,
+    "high_entity": "Ara Min Mahuo",
+    "decades_spanned": 2.0550475663309054,
+    "geometric_mean": 660376.629058355,
+    "entities": [
+     {
+      "entity": "Ayame Yuno",
+      "eu": 37000.0,
+      "eta": 0.86
+     },
+     {
+      "entity": "Artemis Amagiri Moto",
+      "eu": 41800.0,
+      "eta": 0.84
+     },
+     {
+      "entity": "Krothar Veylshroud — The Chain Without a Master",
+      "eu": 1600000.0,
+      "eta": 0.81
+     },
+     {
+      "entity": "Krothar Veylshroud",
+      "eu": 2800000,
+      "eta": 0.81
+     },
+     {
+      "entity": "Lucius Xenotro",
+      "eu": 2850000.0,
+      "eta": 0.92
+     },
+     {
+      "entity": "Ara Min Mahuo",
+      "eu": 4200000.0,
+      "eta": 0.7
+     }
+    ],
+    "stage": 8,
+    "tier": "6 · Master",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245,
+    "anchors": [
+     {
+      "entity": "Ayame Yuno",
+      "eu": 37000.0,
+      "eta": 0.86,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.4272569433836662,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+       "line": 58
+      },
+      "verbatim": "| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |"
+     },
+     {
+      "entity": "Artemis Amagiri Moto",
+      "eu": 41800.0,
+      "eta": 0.84,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.3742823856756259,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+       "line": 56
+      },
+      "verbatim": "| **Essence Capacity** | 41,800 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |"
+     },
+     {
+      "entity": "Krothar Veylshroud — The Chain Without a Master",
+      "eu": 1600000.0,
+      "eta": 0.81,
+      "level": 380,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+       "line": 99
+      },
+      "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+     },
+     {
+      "entity": "Krothar Veylshroud",
+      "eu": 2800000,
+      "eta": 0.81,
+      "level": 380,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+       "line": 99
+      },
+      "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+     },
+     {
+      "entity": "Lucius Xenotro",
+      "eu": 2850000.0,
+      "eta": 0.92,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+       "line": 60
+      },
+      "verbatim": "| **Essence Capacity** | **2,850,000 EU** — *massive for his age* |"
+     },
+     {
+      "entity": "Ara Min Mahuo",
+      "eu": 4200000.0,
+      "eta": 0.7,
+      "level": 250,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+       "line": 71
+      },
+      "verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+     }
+    ],
+    "under_gate": 6,
+    "in_cluster": 4
+   },
+   {
+    "n": 1,
+    "low_eu": 185000.0,
+    "low_entity": "Naevra Yukari",
+    "high_eu": 185000.0,
+    "high_entity": "Naevra Yukari",
+    "decades_spanned": 0.0,
+    "geometric_mean": 184999.99999999997,
+    "entities": [
+     {
+      "entity": "Naevra Yukari",
+      "eu": 185000.0,
+      "eta": 0.96
+     }
+    ],
+    "stage": 9,
+    "tier": "6 · Master",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245,
+    "anchors": [
+     {
+      "entity": "Naevra Yukari",
+      "eu": 185000.0,
+      "eta": 0.96,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.7282869390476474,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+       "line": 48
+      },
+      "verbatim": "| **Essence Capacity** | 185,000 EU | Vast reserve for a mortal-line being, **allowing prolonged causal and psionic engagement without immediate collapse** |"
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 0
+   },
+   {
+    "n": 4,
+    "low_eu": 9400.0,
+    "low_entity": "Vethraun Ashmaw",
+    "high_eu": 90000000,
+    "high_entity": "Kwon Hae-ryu",
+    "decades_spanned": 3.981114655839626,
+    "geometric_mean": 402682.58074664435,
+    "entities": [
+     {
+      "entity": "Vethraun Ashmaw",
+      "eu": 9400.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Iracordas",
+      "eu": 16800.0,
+      "eta": 0.93
+     },
+     {
+      "entity": "Muken Moto",
+      "eu": 1850000.0,
+      "eta": 0.84
+     },
+     {
+      "entity": "Kwon Hae-ryu",
+      "eu": 90000000,
+      "eta": 0.75
+     }
+    ],
+    "stage": 10,
+    "tier": "6 · Master",
+    "gate_level": 400,
+    "gate_ceiling_eu": 350798170.5665734,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245,
+    "anchors": [
+     {
+      "entity": "Vethraun Ashmaw",
+      "eu": 9400.0,
+      "eta": 0.91,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -2.0223308138509624,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+       "line": 64
+      },
+      "verbatim": "| **Essence Capacity** | 9,400 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |"
+     },
+     {
+      "entity": "Iracordas",
+      "eu": 16800.0,
+      "eta": 0.93,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.7701493857247983,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Iracordas.md",
+       "line": 48
+      },
+      "verbatim": "| **Essence Capacity** | **16,800 EU** |"
+     },
+     {
+      "entity": "Muken Moto",
+      "eu": 1850000.0,
+      "eta": 0.84,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+       "line": 60
+      },
+      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
+     },
+     {
+      "entity": "Kwon Hae-ryu",
+      "eu": 90000000,
+      "eta": 0.75,
+      "level": 355,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.6903905425646488,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
+       "line": 75
+      },
+      "verbatim": "| **Call Cost** | Approximately 9% of her reserve, which is about 8,100,000 EU against a reserve of 90,000,000 EU. The percentage is the honest figure and the absolute number now stands behind it, set by ruling; the interpolation is recorded in Section XIII |"
+     }
+    ],
+    "under_gate": 4,
+    "in_cluster": 1
+   },
+   {
+    "n": 7,
+    "low_eu": 74000.0,
+    "low_entity": "Yorime Seikai",
+    "high_eu": 480000000000000.0,
+    "high_entity": "Gimbzo",
+    "decades_spanned": 9.812009517644611,
+    "geometric_mean": 258835599.78351617,
+    "entities": [
+     {
+      "entity": "Yorime Seikai",
+      "eu": 74000.0,
+      "eta": 0.94
+     },
+     {
+      "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+      "eu": 4200000.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+      "eu": 5500000.0,
+      "eta": 0.9
+     },
+     {
+      "entity": "Borin Ironheart · The Master of the Soul Forge",
+      "eu": 180000000.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Verinus VII · The Palatine",
+      "eu": 620000000.0,
+      "eta": 0.89
+     },
+     {
+      "entity": "Kwon Mu-jin",
+      "eu": 850000000.0,
+      "eta": 0.875
+     },
+     {
+      "entity": "Gimbzo",
+      "eu": 480000000000000.0,
+      "eta": 0.94
+     }
+    ],
+    "stage": 12,
+    "tier": "7 · Grandmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     301,
+     400
+    ],
+    "cluster_eu_low": 18908802.26859034,
+    "cluster_eu_high": 350798170.5665734,
+    "anchors": [
+     {
+      "entity": "Yorime Seikai",
+      "eu": 74000.0,
+      "eta": 0.94,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -2.4074323006732357,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+       "line": 59
+      },
+      "verbatim": "| **Essence Capacity** | **74,000 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger*** |"
+     },
+     {
+      "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+      "eu": 4200000.0,
+      "eta": 0.91,
+      "level": 500,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.6534147300063115,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
+       "line": 17
+      },
+      "verbatim": "> **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign"
+     },
+     {
+      "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+      "eu": 5500000.0,
+      "eta": 0.9,
+      "level": 385,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.536301330909968,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+       "line": 141
+      },
+      "verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed."
+     },
+     {
+      "entity": "Borin Ironheart · The Master of the Soul Forge",
+      "eu": 180000000.0,
+      "eta": 0.91,
+      "level": 378,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+       "line": 102
+      },
+      "verbatim": "**Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor."
+     },
+     {
+      "entity": "Verinus VII · The Palatine",
+      "eu": 620000000.0,
+      "eta": 0.89,
+      "level": 462,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.24733436967002603,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md",
+       "line": 86
+      },
+      "verbatim": "**EU Reserve:** approximately 620,000,000 — **low for Band V and low deliberately.** He runs a permanent standing Domain and a Sovereign-Frequency unlock off a reserve that a comparable practitioner would consider insufficient, and the difference is made up entirely in Tempering Yield and in the fact that the Sounding is fed by every honest word spoken inside it"
+     },
+     {
+      "entity": "Kwon Mu-jin",
+      "eu": 850000000.0,
+      "eta": 0.875,
+      "level": 430,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.38436160588606494,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
+       "line": 30
+      },
+      "verbatim": "| **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5 to 127.5 million EU |"
+     },
+     {
+      "entity": "Gimbzo",
+      "eu": 480000000000000.0,
+      "eta": 0.94,
+      "level": null,
+      "under_gate_ceiling": false,
+      "in_cluster_band": false,
+      "decades_from_cluster": 6.13618391754736,
+      "decades_over_gate": 4.854978564593809,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+       "line": 58
+      },
+      "verbatim": "| **Essence Capacity** | **4.8 × 10¹⁴ EU** — *vast, but the volume sits low. He does not burn essence, he stores it, like a cistern. Endurance fights favour him absolutely* |"
+     }
+    ],
+    "under_gate": 6,
+    "in_cluster": 1
+   },
+   {
+    "n": 1,
+    "low_eu": 92000.0,
+    "low_entity": "Dougou Ozumu Zettari",
+    "high_eu": 92000.0,
+    "high_entity": "Dougou Ozumu Zettari",
+    "decades_spanned": 0.0,
+    "geometric_mean": 92000.00000000006,
+    "entities": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "eu": 92000.0,
+      "eta": 1.075
+     }
+    ],
+    "stage": 13,
+    "tier": "8 · Archmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     401,
+     500
+    ],
+    "cluster_eu_low": 361301174.5036687,
+    "cluster_eu_high": 6702898958.860925,
+    "anchors": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "eu": 92000.0,
+      "eta": 1.075,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -3.5940815460122075,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Spellcraft/The Iron Tree.md",
+       "line": 20
+      },
+      "verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive."
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 0
+   },
+   {
+    "n": 1,
+    "low_eu": 2400000000.0,
+    "low_entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+    "high_eu": 2400000000.0,
+    "high_entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+    "decades_spanned": 0.0,
+    "geometric_mean": 2400000000.000002,
+    "entities": [
+     {
+      "entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+      "eu": 2400000000.0,
+      "eta": 1.06
+     }
+    ],
+    "stage": 14,
+    "tier": "8 · Archmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     401,
+     500
+    ],
+    "cluster_eu_low": 361301174.5036687,
+    "cluster_eu_high": 6702898958.860925,
+    "anchors": [
+     {
+      "entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+      "eu": 2400000000.0,
+      "eta": 1.06,
+      "level": 500,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md",
+       "line": 85
+      },
+      "verbatim": "**EU Reserve:** **2,400,000,000.** Confirmed 2026-09-12. Fracture of Worlds specifies no EU table by Stage; this figure was extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII, and stands as final."
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 1
+   }
+  ],
+  "by_tier": [
+   {
+    "n": 1,
+    "low_eu": 42000.0,
+    "low_entity": "Naori Yukari",
+    "high_eu": 42000.0,
+    "high_entity": "Naori Yukari",
+    "decades_spanned": 0.0,
+    "geometric_mean": 42000.00000000003,
+    "entities": [
+     {
+      "entity": "Naori Yukari",
+      "eu": 42000.0,
+      "eta": 0.4
+     }
+    ],
+    "tier": "3 · Journeyman",
+    "stages": [
+     3
+    ],
+    "gate_level": 100,
+    "gate_ceiling_eu": 50285.324953404684,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684,
+    "anchors": [
+     {
+      "entity": "Naori Yukari",
+      "eu": 42000.0,
+      "eta": 0.4,
+      "level": 80,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
+       "line": 54
+      },
+      "verbatim": "**EU Reserve** 42,000 · **AU/s** 4,200 · **η 0.40** · **Passive Recovery 15% EU/min**"
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 1
+   },
+   {
+    "n": 1,
+    "low_eu": 3100.0,
+    "low_entity": "Yukazuri Moto",
+    "high_eu": 3100.0,
+    "high_entity": "Yukazuri Moto",
+    "decades_spanned": 0.0,
+    "geometric_mean": 3099.9999999999995,
+    "entities": [
+     {
+      "entity": "Yukazuri Moto",
+      "eu": 3100.0,
+      "eta": 0.89
+     }
+    ],
+    "tier": "4 · Adept",
+    "stages": [
+     4
+    ],
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684,
+    "anchors": [
+     {
+      "entity": "Yukazuri Moto",
+      "eu": 3100.0,
+      "eta": 0.89,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+       "line": 61
+      },
+      "verbatim": "**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89"
+     }
+    ],
+    "under_gate": 1,
+    "in_cluster": 1
+   },
+   {
+    "n": 9,
+    "low_eu": 1600.0,
+    "low_entity": "Karo Venrik · The Foolish Magus",
+    "high_eu": 1400000.0,
+    "high_entity": "Rengai Zettari",
+    "decades_spanned": 2.942008053022313,
+    "geometric_mean": 172871.3344820802,
+    "entities": [
+     {
+      "entity": "Karo Venrik · The Foolish Magus",
+      "eu": 1600.0,
+      "eta": 0.5
+     },
+     {
+      "entity": "Naiser Yukari",
+      "eu": 2460.0,
+      "eta": 0.55
+     },
+     {
+      "entity": "Yoko Mishiro",
+      "eu": 185000.0,
+      "eta": 0.5
+     },
+     {
+      "entity": "Mizuki Moto",
+      "eu": 470000.0,
+      "eta": 0.82
+     },
+     {
+      "entity": "Niran Yukari",
+      "eu": 485000.0,
+      "eta": 0.89
+     },
+     {
+      "entity": "Rashani Zettari",
+      "eu": 540000.0,
+      "eta": 0.81
+     },
+     {
+      "entity": "Anryū Ichimonji",
+      "eu": 820000.0,
+      "eta": 1.05
+     },
+     {
+      "entity": "Sodoku Moto",
+      "eu": 1340000.0,
+      "eta": 0.84
+     },
+     {
+      "entity": "Rengai Zettari",
+      "eu": 1400000.0,
+      "eta": 0.78
+     }
+    ],
+    "tier": "5 · Expert",
+    "stages": [
+     5,
+     6,
+     7
+    ],
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014,
+    "anchors": [
+     {
+      "entity": "Karo Venrik · The Foolish Magus",
+      "eu": 1600.0,
+      "eta": 0.5,
+      "level": 156,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.5101333318411847,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Karo Venrik · The Foolish Magus.md",
+       "line": 137
+      },
+      "verbatim": "- **Essence Capacity 1,600 EU and Flux Density 3.2 × 10² EU/g** carry across from the legacy sheet. **I have not been able to source EU benchmarks by Stage** and cannot confirm these are in range. Flagged rather than restated."
+     },
+     {
+      "entity": "Naiser Yukari",
+      "eu": 2460.0,
+      "eta": 0.55,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.3233182073937304,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+       "line": 57
+      },
+      "verbatim": "| **Essence Capacity** | 2,460 EU | Vast enough to sustain prolonged metaphysical engagement, **but governed with rigid discipline** |"
+     },
+     {
+      "entity": "Yoko Mishiro",
+      "eu": 185000.0,
+      "eta": 0.5,
+      "level": 145,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
+       "line": 69
+      },
+      "verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+     },
+     {
+      "entity": "Mizuki Moto",
+      "eu": 470000.0,
+      "eta": 0.82,
+      "level": 128,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+       "line": 59
+      },
+      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+     },
+     {
+      "entity": "Niran Yukari",
+      "eu": 485000.0,
+      "eta": 0.89,
+      "level": 195,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+       "line": 61
+      },
+      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+     },
+     {
+      "entity": "Rashani Zettari",
+      "eu": 540000.0,
+      "eta": 0.81,
+      "level": 182,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+       "line": 64
+      },
+      "verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
+     },
+     {
+      "entity": "Anryū Ichimonji",
+      "eu": 820000.0,
+      "eta": 1.05,
+      "level": 180,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+       "line": 63
+      },
+      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+     },
+     {
+      "entity": "Sodoku Moto",
+      "eu": 1340000.0,
+      "eta": 0.84,
+      "level": 320,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.1444581844436822,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
+       "line": 86
+      },
+      "verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
+     },
+     {
+      "entity": "Rengai Zettari",
+      "eu": 1400000.0,
+      "eta": 0.78,
+      "level": 250,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.1634814217571126,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+       "line": 60
+      },
+      "verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
+     }
+    ],
+    "under_gate": 9,
+    "in_cluster": 5
+   },
+   {
+    "n": 11,
+    "low_eu": 9400.0,
+    "low_entity": "Vethraun Ashmaw",
+    "high_eu": 90000000,
+    "high_entity": "Kwon Hae-ryu",
+    "decades_spanned": 3.981114655839626,
+    "geometric_mean": 491398.62145922723,
+    "entities": [
+     {
+      "entity": "Vethraun Ashmaw",
+      "eu": 9400.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Iracordas",
+      "eu": 16800.0,
+      "eta": 0.93
+     },
+     {
+      "entity": "Ayame Yuno",
+      "eu": 37000.0,
+      "eta": 0.86
+     },
+     {
+      "entity": "Artemis Amagiri Moto",
+      "eu": 41800.0,
+      "eta": 0.84
+     },
+     {
+      "entity": "Naevra Yukari",
+      "eu": 185000.0,
+      "eta": 0.96
+     },
+     {
+      "entity": "Krothar Veylshroud — The Chain Without a Master",
+      "eu": 1600000.0,
+      "eta": 0.81
+     },
+     {
+      "entity": "Muken Moto",
+      "eu": 1850000.0,
+      "eta": 0.84
+     },
+     {
+      "entity": "Krothar Veylshroud",
+      "eu": 2800000,
+      "eta": 0.81
+     },
+     {
+      "entity": "Lucius Xenotro",
+      "eu": 2850000.0,
+      "eta": 0.92
+     },
+     {
+      "entity": "Ara Min Mahuo",
+      "eu": 4200000.0,
+      "eta": 0.7
+     },
+     {
+      "entity": "Kwon Hae-ryu",
+      "eu": 90000000,
+      "eta": 0.75
+     }
+    ],
+    "tier": "6 · Master",
+    "stages": [
+     8,
+     9,
+     10
+    ],
+    "gate_level": 400,
+    "gate_ceiling_eu": 350798170.5665734,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245,
+    "anchors": [
+     {
+      "entity": "Vethraun Ashmaw",
+      "eu": 9400.0,
+      "eta": 0.91,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -2.0223308138509624,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+       "line": 64
+      },
+      "verbatim": "| **Essence Capacity** | 9,400 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |"
+     },
+     {
+      "entity": "Iracordas",
+      "eu": 16800.0,
+      "eta": 0.93,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.7701493857247983,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Iracordas.md",
+       "line": 48
+      },
+      "verbatim": "| **Essence Capacity** | **16,800 EU** |"
+     },
+     {
+      "entity": "Ayame Yuno",
+      "eu": 37000.0,
+      "eta": 0.86,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.4272569433836662,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+       "line": 58
+      },
+      "verbatim": "| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |"
+     },
+     {
+      "entity": "Artemis Amagiri Moto",
+      "eu": 41800.0,
+      "eta": 0.84,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -1.3742823856756259,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+       "line": 56
+      },
+      "verbatim": "| **Essence Capacity** | 41,800 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |"
+     },
+     {
+      "entity": "Naevra Yukari",
+      "eu": 185000.0,
+      "eta": 0.96,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.7282869390476474,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+       "line": 48
+      },
+      "verbatim": "| **Essence Capacity** | 185,000 EU | Vast reserve for a mortal-line being, **allowing prolonged causal and psionic engagement without immediate collapse** |"
+     },
+     {
+      "entity": "Krothar Veylshroud — The Chain Without a Master",
+      "eu": 1600000.0,
+      "eta": 0.81,
+      "level": 380,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+       "line": 99
+      },
+      "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+     },
+     {
+      "entity": "Muken Moto",
+      "eu": 1850000.0,
+      "eta": 0.84,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+       "line": 60
+      },
+      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
+     },
+     {
+      "entity": "Krothar Veylshroud",
+      "eu": 2800000,
+      "eta": 0.81,
+      "level": 380,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+       "line": 99
+      },
+      "verbatim": "**EU Reserve:** ~1,600,000 suppressed / est. 2,800,000 unsuppressed"
+     },
+     {
+      "entity": "Lucius Xenotro",
+      "eu": 2850000.0,
+      "eta": 0.92,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+       "line": 60
+      },
+      "verbatim": "| **Essence Capacity** | **2,850,000 EU** — *massive for his age* |"
+     },
+     {
+      "entity": "Ara Min Mahuo",
+      "eu": 4200000.0,
+      "eta": 0.7,
+      "level": 250,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+       "line": 71
+      },
+      "verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+     },
+     {
+      "entity": "Kwon Hae-ryu",
+      "eu": 90000000,
+      "eta": 0.75,
+      "level": 355,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.6903905425646488,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Summoned and Bound/Obrenkael · The Mule.md",
+       "line": 75
+      },
+      "verbatim": "| **Call Cost** | Approximately 9% of her reserve, which is about 8,100,000 EU against a reserve of 90,000,000 EU. The percentage is the honest figure and the absolute number now stands behind it, set by ruling; the interpolation is recorded in Section XIII |"
+     }
+    ],
+    "under_gate": 11,
+    "in_cluster": 5
+   },
+   {
+    "n": 7,
+    "low_eu": 74000.0,
+    "low_entity": "Yorime Seikai",
+    "high_eu": 480000000000000.0,
+    "high_entity": "Gimbzo",
+    "decades_spanned": 9.812009517644611,
+    "geometric_mean": 258835599.78351617,
+    "entities": [
+     {
+      "entity": "Yorime Seikai",
+      "eu": 74000.0,
+      "eta": 0.94
+     },
+     {
+      "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+      "eu": 4200000.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+      "eu": 5500000.0,
+      "eta": 0.9
+     },
+     {
+      "entity": "Borin Ironheart · The Master of the Soul Forge",
+      "eu": 180000000.0,
+      "eta": 0.91
+     },
+     {
+      "entity": "Verinus VII · The Palatine",
+      "eu": 620000000.0,
+      "eta": 0.89
+     },
+     {
+      "entity": "Kwon Mu-jin",
+      "eu": 850000000.0,
+      "eta": 0.875
+     },
+     {
+      "entity": "Gimbzo",
+      "eu": 480000000000000.0,
+      "eta": 0.94
+     }
+    ],
+    "tier": "7 · Grandmaster",
+    "stages": [
+     12
+    ],
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     301,
+     400
+    ],
+    "cluster_eu_low": 18908802.26859034,
+    "cluster_eu_high": 350798170.5665734,
+    "anchors": [
+     {
+      "entity": "Yorime Seikai",
+      "eu": 74000.0,
+      "eta": 0.94,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -2.4074323006732357,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+       "line": 59
+      },
+      "verbatim": "| **Essence Capacity** | **74,000 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger*** |"
+     },
+     {
+      "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+      "eu": 4200000.0,
+      "eta": 0.91,
+      "level": 500,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.6534147300063115,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
+       "line": 17
+      },
+      "verbatim": "> **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign"
+     },
+     {
+      "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+      "eu": 5500000.0,
+      "eta": 0.9,
+      "level": 385,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -0.536301330909968,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+       "line": 141
+      },
+      "verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed."
+     },
+     {
+      "entity": "Borin Ironheart · The Master of the Soul Forge",
+      "eu": 180000000.0,
+      "eta": 0.91,
+      "level": 378,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+       "line": 102
+      },
+      "verbatim": "**Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor."
+     },
+     {
+      "entity": "Verinus VII · The Palatine",
+      "eu": 620000000.0,
+      "eta": 0.89,
+      "level": 462,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.24733436967002603,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Verinus VII · The Palatine.md",
+       "line": 86
+      },
+      "verbatim": "**EU Reserve:** approximately 620,000,000 — **low for Band V and low deliberately.** He runs a permanent standing Domain and a Sovereign-Frequency unlock off a reserve that a comparable practitioner would consider insufficient, and the difference is made up entirely in Tempering Yield and in the fact that the Sounding is fed by every honest word spoken inside it"
+     },
+     {
+      "entity": "Kwon Mu-jin",
+      "eu": 850000000.0,
+      "eta": 0.875,
+      "level": 430,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": 0.38436160588606494,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
+       "line": 30
+      },
+      "verbatim": "| **Cost** | 5–15% of his 850,000,000 EU reserve per construct, roughly 42.5 to 127.5 million EU |"
+     },
+     {
+      "entity": "Gimbzo",
+      "eu": 480000000000000.0,
+      "eta": 0.94,
+      "level": null,
+      "under_gate_ceiling": false,
+      "in_cluster_band": false,
+      "decades_from_cluster": 6.13618391754736,
+      "decades_over_gate": 4.854978564593809,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+       "line": 58
+      },
+      "verbatim": "| **Essence Capacity** | **4.8 × 10¹⁴ EU** — *vast, but the volume sits low. He does not burn essence, he stores it, like a cistern. Endurance fights favour him absolutely* |"
+     }
+    ],
+    "under_gate": 6,
+    "in_cluster": 1
+   },
+   {
+    "n": 2,
+    "low_eu": 92000.0,
+    "low_entity": "Dougou Ozumu Zettari",
+    "high_eu": 2400000000.0,
+    "high_entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+    "decades_spanned": 4.416423414366051,
+    "geometric_mean": 14859340.49680538,
+    "entities": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "eu": 92000.0,
+      "eta": 1.075
+     },
+     {
+      "entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+      "eu": 2400000000.0,
+      "eta": 1.06
+     }
+    ],
+    "tier": "8 · Archmaster",
+    "stages": [
+     13,
+     14
+    ],
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     401,
+     500
+    ],
+    "cluster_eu_low": 361301174.5036687,
+    "cluster_eu_high": 6702898958.860925,
+    "anchors": [
+     {
+      "entity": "Dougou Ozumu Zettari",
+      "eu": 92000.0,
+      "eta": 1.075,
+      "level": null,
+      "under_gate_ceiling": true,
+      "in_cluster_band": false,
+      "decades_from_cluster": -3.5940815460122075,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Spellcraft/The Iron Tree.md",
+       "line": 20
+      },
+      "verbatim": "**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive."
+     },
+     {
+      "entity": "Aurelian Prudentius Custos Clausorum · The Primate",
+      "eu": 2400000000.0,
+      "eta": 1.06,
+      "level": 500,
+      "under_gate_ceiling": true,
+      "in_cluster_band": true,
+      "decades_from_cluster": 0.0,
+      "decades_over_gate": 0.0,
+      "source": {
+       "file": "wiki/Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md",
+       "line": 85
+      },
+      "verbatim": "**EU Reserve:** **2,400,000,000.** Confirmed 2026-09-12. Fracture of Worlds specifies no EU table by Stage; this figure was extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII, and stands as final."
+     }
+    ],
+    "under_gate": 2,
+    "in_cluster": 1
+   }
+  ],
+  "law_full_ladder": [
+   {
+    "stage": 1,
+    "tier": "1 · Initiate",
+    "gate_level": 100,
+    "gate_ceiling_eu": 50285.324953404684,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684
+   },
+   {
+    "stage": 2,
+    "tier": "2 · Apprentice",
+    "gate_level": 100,
+    "gate_ceiling_eu": 50285.324953404684,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684
+   },
+   {
+    "stage": 3,
+    "tier": "3 · Journeyman",
+    "gate_level": 100,
+    "gate_ceiling_eu": 50285.324953404684,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684
+   },
+   {
+    "stage": 4,
+    "tier": "4 · Adept",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     1,
+     100
+    ],
+    "cluster_eu_low": 2710.490949881665,
+    "cluster_eu_high": 50285.324953404684
+   },
+   {
+    "stage": 5,
+    "tier": "5 · Expert",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014
+   },
+   {
+    "stage": 6,
+    "tier": "5 · Expert",
+    "gate_level": 200,
+    "gate_ceiling_eu": 960830.1312740014,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014
+   },
+   {
+    "stage": 7,
+    "tier": "5 · Expert",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     101,
+     200
+    ],
+    "cluster_eu_low": 51790.88287895132,
+    "cluster_eu_high": 960830.1312740014
+   },
+   {
+    "stage": 8,
+    "tier": "6 · Master",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245
+   },
+   {
+    "stage": 9,
+    "tier": "6 · Master",
+    "gate_level": 300,
+    "gate_ceiling_eu": 18359124.496450245,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245
+   },
+   {
+    "stage": 10,
+    "tier": "6 · Master",
+    "gate_level": 400,
+    "gate_ceiling_eu": 350798170.5665734,
+    "cluster_levels": [
+     201,
+     300
+    ],
+    "cluster_eu_low": 989597.6776821039,
+    "cluster_eu_high": 18359124.496450245
+   },
+   {
+    "stage": 11,
+    "tier": "7 · Grandmaster",
+    "gate_level": 400,
+    "gate_ceiling_eu": 350798170.5665734,
+    "cluster_levels": [
+     301,
+     400
+    ],
+    "cluster_eu_low": 18908802.26859034,
+    "cluster_eu_high": 350798170.5665734
+   },
+   {
+    "stage": 12,
+    "tier": "7 · Grandmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     301,
+     400
+    ],
+    "cluster_eu_low": 18908802.26859034,
+    "cluster_eu_high": 350798170.5665734
+   },
+   {
+    "stage": 13,
+    "tier": "8 · Archmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     401,
+     500
+    ],
+    "cluster_eu_low": 361301174.5036687,
+    "cluster_eu_high": 6702898958.860925
+   },
+   {
+    "stage": 14,
+    "tier": "8 · Archmaster",
+    "gate_level": 500,
+    "gate_ceiling_eu": 6702898958.860925,
+    "cluster_levels": [
+     401,
+     500
+    ],
+    "cluster_eu_low": 361301174.5036687,
+    "cluster_eu_high": 6702898958.860925
+   },
+   {
+    "stage": 15,
+    "tier": "9 · Paragon",
+    "gate_level": null,
+    "gate_ceiling_eu": null,
+    "cluster_levels": null,
+    "cluster_eu_low": null,
+    "cluster_eu_high": null,
+    "pending": "no Level Band in Part One"
+   },
+   {
+    "stage": 16,
+    "tier": "9 · Paragon",
+    "gate_level": null,
+    "gate_ceiling_eu": null,
+    "cluster_levels": null,
+    "cluster_eu_low": null,
+    "cluster_eu_high": null,
+    "pending": "no Level Band in Part One"
+   }
+  ],
+  "totals": {
+   "n": 31,
+   "under_gate_ceiling": 29,
+   "over_gate_ceiling": [
+    {
+     "entity": "Sodoku Moto",
+     "eu": 1340000.0,
+     "decades_over": 0.1444581844436822
+    },
+    {
+     "entity": "Gimbzo",
+     "eu": 480000000000000.0,
+     "decades_over": 4.854978564593809
+    }
+   ],
+   "in_cluster_band": 14,
+   "within_1_decade_of_cluster": 22
+  }
+ },
+ "spine": [
+  {
+   "tier": "1 · Initiate",
+   "grades": [
+    "Hollow",
+    "F",
+    "E"
+   ],
+   "stages": [
+    1,
+    1,
+    1
+   ],
+   "stage_names": [
+    "I Murmuring",
+    "I Murmuring",
+    "I Murmuring"
+   ],
+   "j_low": 60.0,
+   "j_high": 15000.0,
+   "tnt_low": 1.4340344168260038e-08,
+   "tnt_high": 3.5850860420650095e-06,
+   "eu_to_buy_ceiling_at_k": 15.0,
+   "eu_to_buy_floor_at_k": 0.06
+  },
+  {
+   "tier": "2 · Apprentice",
+   "grades": [
+    "D"
+   ],
+   "stages": [
+    2
+   ],
+   "stage_names": [
+    "II Welling"
+   ],
+   "j_low": 15000.0,
+   "j_high": 20920000.0,
+   "tnt_low": 3.5850860420650095e-06,
+   "tnt_high": 0.005,
+   "eu_to_buy_ceiling_at_k": 20920.0,
+   "eu_to_buy_floor_at_k": 15.0
+  },
+  {
+   "tier": "3 · Journeyman",
+   "grades": [
+    "C"
+   ],
+   "stages": [
+    3
+   ],
+   "stage_names": [
+    "III Ascension"
+   ],
+   "j_low": 20920000.0,
+   "j_high": 1046000000.0,
+   "tnt_low": 0.005,
+   "tnt_high": 0.25,
+   "eu_to_buy_ceiling_at_k": 1046000.0,
+   "eu_to_buy_floor_at_k": 20920.0
+  },
+  {
+   "tier": "4 · Adept",
+   "grades": [
+    "B"
+   ],
+   "stages": [
+    4
+   ],
+   "stage_names": [
+    "IV Flourishing"
+   ],
+   "j_low": 1046000000.0,
+   "j_high": 46024000000.0,
+   "tnt_low": 0.25,
+   "tnt_high": 11.0,
+   "eu_to_buy_ceiling_at_k": 46024000.0,
+   "eu_to_buy_floor_at_k": 1046000.0
+  },
+  {
+   "tier": "5 · Expert",
+   "grades": [
+    "A"
+   ],
+   "stages": [
+    6
+   ],
+   "stage_names": [
+    "VI Glory"
+   ],
+   "j_low": 46024000000.0,
+   "j_high": 4184000000000.0,
+   "tnt_low": 11.0,
+   "tnt_high": 1000.0,
+   "eu_to_buy_ceiling_at_k": 4184000000.0,
+   "eu_to_buy_floor_at_k": 46024000.0
+  },
+  {
+   "tier": "6 · Master",
+   "grades": [
+    "S",
+    "SS"
+   ],
+   "stages": [
+    8,
+    10
+   ],
+   "stage_names": [
+    "VIII Transcendence",
+    "X Realization"
+   ],
+   "j_low": 4184000000000.0,
+   "j_high": 418400000000000.0,
+   "tnt_low": 1000.0,
+   "tnt_high": 100000.0,
+   "eu_to_buy_ceiling_at_k": 418400000000.0,
+   "eu_to_buy_floor_at_k": 4184000000.0
+  },
+  {
+   "tier": "7 · Grandmaster",
+   "grades": [
+    "SSS"
+   ],
+   "stages": [
+    12
+   ],
+   "stage_names": [
+    "XII Emanation"
+   ],
+   "j_low": 418400000000000.0,
+   "j_high": 4.184e+21,
+   "tnt_low": 100000.0,
+   "tnt_high": 1000000000000.0,
+   "eu_to_buy_ceiling_at_k": 4.184e+18,
+   "eu_to_buy_floor_at_k": 418400000000.0
+  },
+  {
+   "tier": "8 · Archmaster",
+   "grades": [
+    "X",
+    "EX"
+   ],
+   "stages": [
+    13,
+    14
+   ],
+   "stage_names": [
+    "XIII Principality",
+    "XIV Zenith"
+   ],
+   "j_low": 4.184e+21,
+   "j_high": 6.905999999999999e+37,
+   "tnt_low": 1000000000000.0,
+   "tnt_high": 1.6505736137667303e+28,
+   "eu_to_buy_ceiling_at_k": 6.905999999999999e+34,
+   "eu_to_buy_floor_at_k": 4.184e+18
+  },
+  {
+   "tier": "9 · Paragon",
+   "grades": [
+    "EX+"
+   ],
+   "stages": [
+    15
+   ],
+   "stage_names": [
+    "XV Revelation"
+   ],
+   "j_low": 6.905999999999999e+37,
+   "j_high": null,
+   "tnt_low": 1.6505736137667303e+28,
+   "tnt_high": null,
+   "eu_to_buy_ceiling_at_k": null,
+   "eu_to_buy_floor_at_k": 6.905999999999999e+34
+  }
+ ],
+ "drain": [
+  {
+   "entity": "Gimbzo",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 480000000000000.0,
+   "au_s": 670000000000000.0,
+   "eta": 0.94,
+   "eta_from": "card, Gimbzo.md:62",
+   "reserve_j": 4.8e+17,
+   "power_w": 6.7e+17,
+   "seconds_to_empty": 0.7164179104477612,
+   "seconds_to_starvation": 0.6447761194029851,
+   "waste_w": 4.020000000000004e+16,
+   "seconds_to_lethal_rise": 3.0472636815921885e-11,
+   "shed_fraction": 4.975124378109448e-14,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+    "line": 61
+   },
+   "au_s_verbatim": "| **Aether Output** | 6.7 × 10¹⁴ AU/s — **slow casting cadence, but each Work lands with siege weight** |"
+  },
+  {
+   "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 5500000.0,
+   "au_s": 5100000.0,
+   "eta": 0.9,
+   "eta_from": "card, Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md:16",
+   "reserve_j": 5500000000.0,
+   "power_w": 5100000000.0,
+   "seconds_to_empty": 1.0784313725490196,
+   "seconds_to_starvation": 0.9705882352941176,
+   "waste_w": 509999999.9999999,
+   "seconds_to_lethal_rise": 0.002401970203804721,
+   "shed_fraction": 3.921568627450981e-06,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+    "line": 141
+   },
+   "au_s_verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed."
+  },
+  {
+   "entity": "Iracordas",
+   "stage": 10,
+   "tier": "6 · Master",
+   "eu": 16800.0,
+   "au_s": 5200.0,
+   "eta": 0.93,
+   "eta_from": "card, Iracordas.md:52",
+   "reserve_j": 16800000.0,
+   "power_w": 5200000.0,
+   "seconds_to_empty": 3.230769230769231,
+   "seconds_to_starvation": 2.9076923076923076,
+   "waste_w": 363999.99999999977,
+   "seconds_to_lethal_rise": 3.3839779005524884,
+   "shed_fraction": 0.005494505494505498,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Iracordas.md",
+    "line": 51
+   },
+   "au_s_verbatim": "| **Aether Output** | 5,200 AU/s |"
+  },
+  {
+   "entity": "Artemis Amagiri Moto",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 41800.0,
+   "au_s": 7600.0,
+   "eta": 0.84,
+   "eta_from": "card, Artemis Amagiri Moto.md:59",
+   "reserve_j": 41800000.0,
+   "power_w": 7600000.0,
+   "seconds_to_empty": 5.5,
+   "seconds_to_starvation": 4.95,
+   "waste_w": 1216000.0000000002,
+   "seconds_to_lethal_rise": 1.0090609555189454,
+   "shed_fraction": 0.0016447368421052628,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+    "line": 58
+   },
+   "au_s_verbatim": "| **Aether Output** | 7,600 AU/s | **Fast enough to overwrite short-range movement exchanges in real time** |"
+  },
+  {
+   "entity": "Yukazuri Moto",
+   "stage": 4,
+   "tier": "4 · Adept",
+   "eu": 3100.0,
+   "au_s": 480.0,
+   "eta": 0.89,
+   "eta_from": "card, Yukazuri Moto.md:40",
+   "reserve_j": 3100000.0,
+   "power_w": 480000.0,
+   "seconds_to_empty": 6.458333333333333,
+   "seconds_to_starvation": 5.8125,
+   "waste_w": 52800.0,
+   "seconds_to_lethal_rise": 24.114173228346456,
+   "shed_fraction": 0.03787878787878788,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+    "line": 40
+   },
+   "au_s_verbatim": "**Aether Index** · 480 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**"
+  },
+  {
+   "entity": "Krothar Veylshroud",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 2800000,
+   "au_s": 420000,
+   "eta": 0.81,
+   "eta_from": "page, line 101",
+   "reserve_j": 2800000000.0,
+   "power_w": 420000000.0,
+   "seconds_to_empty": 6.666666666666667,
+   "seconds_to_starvation": 6.0,
+   "waste_w": 79799999.99999997,
+   "seconds_to_lethal_rise": 0.01535126193638939,
+   "shed_fraction": 2.5062656641604018e-05,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+    "line": 100
+   },
+   "au_s_verbatim": "**AU/s Output:** ~420,000 active / ~135,000 passive (chains on)"
+  },
+  {
+   "entity": "Naiser Yukari",
+   "stage": 6,
+   "tier": "5 · Expert",
+   "eu": 2460.0,
+   "au_s": 340.0,
+   "eta": 0.55,
+   "eta_from": "Part Nineteen, Tier 5 midpoint",
+   "reserve_j": 2460000.0,
+   "power_w": 340000.0,
+   "seconds_to_empty": 7.235294117647059,
+   "seconds_to_starvation": 6.511764705882353,
+   "waste_w": 152999.99999999997,
+   "seconds_to_lethal_rise": 8.112582781456956,
+   "shed_fraction": 0.013071895424836603,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+    "line": 59
+   },
+   "au_s_verbatim": "| **Aether Output** | 340 AU/s | High enough to overwhelm lesser opponents in layered sequences, **yet controlled enough to avoid waste** |"
+  },
+  {
+   "entity": "Naevra Yukari",
+   "stage": 9,
+   "tier": "6 · Master",
+   "eu": 185000.0,
+   "au_s": 18500.0,
+   "eta": 0.96,
+   "eta_from": "card, Naevra Yukari.md:51",
+   "reserve_j": 185000000.0,
+   "power_w": 18500000.0,
+   "seconds_to_empty": 10.0,
+   "seconds_to_starvation": 9.0,
+   "waste_w": 740000.0000000007,
+   "seconds_to_lethal_rise": 1.6598915989159877,
+   "shed_fraction": 0.0027027027027027003,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+    "line": 50
+   },
+   "au_s_verbatim": "| **Aether Output** | 18,500 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |"
+  },
+  {
+   "entity": "Naori Yukari",
+   "stage": 3,
+   "tier": "3 · Journeyman",
+   "eu": 42000.0,
+   "au_s": 4200.0,
+   "eta": 0.4,
+   "eta_from": "card, Naori Yukari.md:28",
+   "reserve_j": 42000000.0,
+   "power_w": 4200000.0,
+   "seconds_to_empty": 10.0,
+   "seconds_to_starvation": 9.0,
+   "waste_w": 2520000.0,
+   "seconds_to_lethal_rise": 0.48649722001588563,
+   "shed_fraction": 0.0007936507936507937,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
+    "line": 28
+   },
+   "au_s_verbatim": "| **Aether** | Class II Harmonic — **Forward-Temporal Causal Reader · Acoustic Resonance.** 4,200 AU/s · **η 0.40** |"
+  },
+  {
+   "entity": "Vethraun Ashmaw",
+   "stage": 10,
+   "tier": "6 · Master",
+   "eu": 9400.0,
+   "au_s": 780.0,
+   "eta": 0.91,
+   "eta_from": "card, Vethraun Ashmaw.md:67",
+   "reserve_j": 9400000.0,
+   "power_w": 780000.0,
+   "seconds_to_empty": 12.051282051282051,
+   "seconds_to_starvation": 10.846153846153847,
+   "waste_w": 70199.99999999997,
+   "seconds_to_lethal_rise": 17.96187683284458,
+   "shed_fraction": 0.0284900284900285,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+    "line": 66
+   },
+   "au_s_verbatim": "| **Aether Output** | 780 AU/s | **A sustained-pressure engine, not a rapid-fire combatant.** *A river of stone: slow to begin, catastrophic at full flow* |"
+  },
+  {
+   "entity": "Niran Yukari",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 485000.0,
+   "au_s": 38400.0,
+   "eta": 0.89,
+   "eta_from": "card, Niran Yukari.md:28",
+   "reserve_j": 485000000.0,
+   "power_w": 38400000.0,
+   "seconds_to_empty": 12.630208333333334,
+   "seconds_to_starvation": 11.3671875,
+   "waste_w": 4223999.999999999,
+   "seconds_to_lethal_rise": 0.29014684983420186,
+   "shed_fraction": 0.0004734848484848486,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+    "line": 28
+   },
+   "au_s_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 38,400 AU/s · **η 0.89** |"
+  },
+  {
+   "entity": "Anryū Ichimonji",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 820000.0,
+   "au_s": 52000.0,
+   "eta": 1.05,
+   "eta_from": "card, Anryū Ichimonji.md:29",
+   "reserve_j": 820000000.0,
+   "power_w": 52000000.0,
+   "seconds_to_empty": 15.76923076923077,
+   "seconds_to_starvation": 14.192307692307692,
+   "waste_w": 0.0,
+   "seconds_to_lethal_rise": null,
+   "shed_fraction": null,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+    "line": 63
+   },
+   "au_s_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+  },
+  {
+   "entity": "Mizuki Moto",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 470000.0,
+   "au_s": 26000.0,
+   "eta": 0.82,
+   "eta_from": "card, Mizuki Moto.md:30",
+   "reserve_j": 470000000.0,
+   "power_w": 26000000.0,
+   "seconds_to_empty": 18.076923076923077,
+   "seconds_to_starvation": 16.26923076923077,
+   "waste_w": 4680000.000000001,
+   "seconds_to_lethal_rise": 0.26186404446344586,
+   "shed_fraction": 0.00042735042735042724,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+    "line": 30
+   },
+   "au_s_verbatim": "| **Aether Index** | 26,000 AU/s sustained · **η 0.82** |"
+  },
+  {
+   "entity": "Ayame Yuno",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 37000.0,
+   "au_s": 1900.0,
+   "eta": 0.86,
+   "eta_from": "card, Ayame Yuno.md:61",
+   "reserve_j": 37000000.0,
+   "power_w": 1900000.0,
+   "seconds_to_empty": 19.473684210526315,
+   "seconds_to_starvation": 17.526315789473685,
+   "waste_w": 266000.0,
+   "seconds_to_lethal_rise": 4.640151515151516,
+   "shed_fraction": 0.007518796992481203,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+    "line": 60
+   },
+   "au_s_verbatim": "| **Aether Output** | 1,900 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |"
+  },
+  {
+   "entity": "Rengai Zettari",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 1400000.0,
+   "au_s": 68000.0,
+   "eta": 0.78,
+   "eta_from": "card, Rengai Zettari.md:29",
+   "reserve_j": 1400000000.0,
+   "power_w": 68000000.0,
+   "seconds_to_empty": 20.58823529411765,
+   "seconds_to_starvation": 18.529411764705884,
+   "waste_w": 14959999.999999998,
+   "seconds_to_lethal_rise": 0.08189597539778046,
+   "shed_fraction": 0.00013368983957219254,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+    "line": 29
+   },
+   "au_s_verbatim": "| **Aether** | 68,000 AU/s · **η 0.78** — *efficient in debris terrain;* *weaker in rain, clean wind, sealed chambers* |"
+  },
+  {
+   "entity": "Rashani Zettari",
+   "stage": 6,
+   "tier": "5 · Expert",
+   "eu": 540000.0,
+   "au_s": 24000.0,
+   "eta": 0.81,
+   "eta_from": "card, Rashani Zettari.md:29",
+   "reserve_j": 540000000.0,
+   "power_w": 24000000.0,
+   "seconds_to_empty": 22.5,
+   "seconds_to_starvation": 20.25,
+   "waste_w": 4559999.999999999,
+   "seconds_to_lethal_rise": 0.2687582272926723,
+   "shed_fraction": 0.0004385964912280703,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+    "line": 29
+   },
+   "au_s_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 24,000 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |"
+  },
+  {
+   "entity": "Dougou Ozumu Zettari",
+   "stage": 13,
+   "tier": "8 · Archmaster",
+   "eu": 92000.0,
+   "au_s": 3900.0,
+   "eta": 0.99,
+   "eta_from": "card, Dougou Ozumu Zettari.md:38",
+   "reserve_j": 92000000.0,
+   "power_w": 3900000.0,
+   "seconds_to_empty": 23.58974358974359,
+   "seconds_to_starvation": 21.23076923076923,
+   "waste_w": 39000.00000000004,
+   "seconds_to_lethal_rise": 33.10810810810808,
+   "shed_fraction": 0.05128205128205123,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+    "line": 38
+   },
+   "au_s_verbatim": "**Aether Index** · 3,900 AU/s external · **internal cycling immeasurable** · **η 0.99**"
+  },
+  {
+   "entity": "Lucius Xenotro",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 2850000.0,
+   "au_s": 118000.0,
+   "eta": 0.92,
+   "eta_from": "card, Lucius Xenotro.md:64",
+   "reserve_j": 2850000000.0,
+   "power_w": 118000000.0,
+   "seconds_to_empty": 24.152542372881356,
+   "seconds_to_starvation": 21.73728813559322,
+   "waste_w": 9439999.999999994,
+   "seconds_to_lethal_rise": 0.12979444797626624,
+   "shed_fraction": 0.00021186440677966115,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+    "line": 63
+   },
+   "au_s_verbatim": "| **Aether Output** | 118,000 AU/s — *lets him* *change battlefield light faster than most opponents can adjust vision or stance* |"
+  },
+  {
+   "entity": "Muken Moto",
+   "stage": 10,
+   "tier": "6 · Master",
+   "eu": 1850000.0,
+   "au_s": 72000.0,
+   "eta": 0.84,
+   "eta_from": "card, Muken Moto.md:34",
+   "reserve_j": 1850000000.0,
+   "power_w": 72000000.0,
+   "seconds_to_empty": 25.694444444444443,
+   "seconds_to_starvation": 23.125,
+   "waste_w": 11520000.000000002,
+   "seconds_to_lethal_rise": 0.10635527001215488,
+   "shed_fraction": 0.0001736111111111111,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+    "line": 34
+   },
+   "au_s_verbatim": "**Aether Index** · 72,000 AU/s · **η 0.84**"
+  },
+  {
+   "entity": "Yorime Seikai",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 74000.0,
+   "au_s": 2850.0,
+   "eta": 0.94,
+   "eta_from": "card, Yorime Seikai.md:63",
+   "reserve_j": 74000000.0,
+   "power_w": 2850000.0,
+   "seconds_to_empty": 25.964912280701753,
+   "seconds_to_starvation": 23.36842105263158,
+   "waste_w": 171000.00000000015,
+   "seconds_to_lethal_rise": 7.248520710059165,
+   "shed_fraction": 0.011695906432748529,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+    "line": 62
+   },
+   "au_s_verbatim": "| **Aether Output** | 2,850 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |"
+  },
+  {
+   "entity": "Ara Min Mahuo",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 4200000.0,
+   "au_s": 59500.0,
+   "eta": 0.7,
+   "eta_from": "card, Ara Min Mahuo.md:38",
+   "reserve_j": 4200000000.0,
+   "power_w": 59500000.0,
+   "seconds_to_empty": 70.58823529411765,
+   "seconds_to_starvation": 63.529411764705884,
+   "waste_w": 17850000.000000004,
+   "seconds_to_lethal_rise": 0.06863514119229044,
+   "shed_fraction": 0.00011204481792717084,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+    "line": 71
+   },
+   "au_s_verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+  },
+  {
+   "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 4200000.0,
+   "au_s": 12500.0,
+   "eta": 0.91,
+   "eta_from": "card, The Arctic Lion — Sovereign Configuration (Level 500).md:14",
+   "reserve_j": 4200000000.0,
+   "power_w": 12500000.0,
+   "seconds_to_empty": 336.0,
+   "seconds_to_starvation": 302.4,
+   "waste_w": 1124999.9999999995,
+   "seconds_to_lethal_rise": 1.0908281389136247,
+   "shed_fraction": 0.0017777777777777785,
+   "au_s_source": {
+    "file": "wiki/Sodoku Moto/The Arctic Lion — Sovereign Configuration (Level 500).md",
+    "line": 17
+   },
+   "au_s_verbatim": "> **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign"
+  },
+  {
+   "entity": "Sodoku Moto",
+   "stage": 6,
+   "tier": "5 · Expert",
+   "eu": 1340000.0,
+   "au_s": 3800.0,
+   "eta": 0.84,
+   "eta_from": "card, Sodoku Moto.md:43",
+   "reserve_j": 1340000000.0,
+   "power_w": 3800000.0,
+   "seconds_to_empty": 352.63157894736844,
+   "seconds_to_starvation": 317.36842105263156,
+   "waste_w": 608000.0000000001,
+   "seconds_to_lethal_rise": 2.021452145214521,
+   "shed_fraction": 0.0032894736842105257,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
+    "line": 86
+   },
+   "au_s_verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
+  },
+  {
+   "entity": "Kwon Mu-jin",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 850000000.0,
+   "au_s": 1566000.0,
+   "eta": 0.87,
+   "eta_from": "card, Kwon Mu-jin.md:73",
+   "reserve_j": 850000000000.0,
+   "power_w": 1566000000.0,
+   "seconds_to_empty": 542.7841634738187,
+   "seconds_to_starvation": 488.5057471264368,
+   "waste_w": 203580000.0,
+   "seconds_to_lethal_rise": 0.0060173496153808365,
+   "shed_fraction": 9.824147755182238e-06,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
+    "line": 73
+   },
+   "au_s_verbatim": "**EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87"
+  },
+  {
+   "entity": "Yoko Mishiro",
+   "stage": 5,
+   "tier": "5 · Expert",
+   "eu": 185000.0,
+   "au_s": 75.0,
+   "eta": 0.5,
+   "eta_from": "card, Yoko Mishiro.md:36",
+   "reserve_j": 185000000.0,
+   "power_w": 75000.0,
+   "seconds_to_empty": 2466.6666666666665,
+   "seconds_to_starvation": 2220.0,
+   "waste_w": 37500.0,
+   "seconds_to_lethal_rise": 34.50704225352113,
+   "shed_fraction": 0.05333333333333334,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
+    "line": 69
+   },
+   "au_s_verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+  },
+  {
+   "entity": "Borin Ironheart · The Master of the Soul Forge",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 180000000.0,
+   "au_s": 3200.0,
+   "eta": 0.91,
+   "eta_from": "card, Borin Ironheart · The Master of the Soul Forge.md:34",
+   "reserve_j": 180000000000.0,
+   "power_w": 3200000.0,
+   "seconds_to_empty": 56250.0,
+   "seconds_to_starvation": 50625.0,
+   "waste_w": 287999.9999999999,
+   "seconds_to_lethal_rise": 4.283216783216785,
+   "shed_fraction": 0.0069444444444444475,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+    "line": 103
+   },
+   "au_s_verbatim": "**Aether Output (AU/s):** ~3,200 AU/s (est.) — high sustained throughput, optimized for multi-hour forge operations rather than combat exchange."
+  }
+ ],
+ "flux_eta": {
+  "rows": [
+   {
+    "entity": "Draen Varos · The Red Forge Sentinel",
+    "flux_density": 670000000.0,
+    "eta": 0.61,
+    "stated_au_s": 98000.0,
+    "expected_au_s": 408700000.0,
+    "ratio": 0.00023978468314166872,
+    "implied_crystal_mass_g": 0.00023978468314166872,
+    "residual_decades": -3.6201785620190985,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md",
+     "line": 37
+    },
+    "flux_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **98,000 AU/s.**"
+   },
+   {
+    "entity": "Serai Linthra · The Serpent Alchemist",
+    "flux_density": 7800000.0,
+    "eta": 0.91,
+    "stated_au_s": 59000.0,
+    "expected_au_s": 7098000.0,
+    "ratio": 0.008312200619892927,
+    "implied_crystal_mass_g": 0.008312200619892927,
+    "residual_decades": -2.08028398336943,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Serai Linthra · The Serpent Alchemist.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 59,000 AU/s."
+   },
+   {
+    "entity": "Garron Vuldane · Warden of Thaumar",
+    "flux_density": 13500000.0,
+    "eta": 0.86,
+    "stated_au_s": 118000.0,
+    "expected_au_s": 11610000.0,
+    "ratio": 0.010163652024117141,
+    "implied_crystal_mass_g": 0.010163652024117141,
+    "residual_decades": -1.9929502124324485,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Garron Vuldane · Warden of Thaumar.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 118,000 AU/s."
+   },
+   {
+    "entity": "Elion Drevas · The Black Cleric",
+    "flux_density": 9400000.0,
+    "eta": 0.75,
+    "stated_au_s": 72000.0,
+    "expected_au_s": 7050000.0,
+    "ratio": 0.010212765957446808,
+    "implied_crystal_mass_g": 0.010212765957446808,
+    "residual_decades": -1.9908566205601304,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Elion Drevas · The Black Cleric.md",
+     "line": 37
+    },
+    "flux_verbatim": "**The fractured Crystal** · Six channels active, three sealed by the tithe itself. Flux Density **9.4 million EU/g.** Aether Output **72,000 AU/s.**"
+   },
+   {
+    "entity": "Kael Serradyn · The Burnmark",
+    "flux_density": 16300000.0,
+    "eta": 0.84,
+    "stated_au_s": 145000.0,
+    "expected_au_s": 13692000.0,
+    "ratio": 0.010590125620800467,
+    "implied_crystal_mass_g": 0.010590125620800467,
+    "residual_decades": -1.9750988882308647,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Kael Serradyn · The Burnmark.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 145,000 AU/s."
+   },
+   {
+    "entity": "Valthren Odrin · The Lantern Scribe",
+    "flux_density": 12600000.0,
+    "eta": 0.67,
+    "stated_au_s": 91000.0,
+    "expected_au_s": 8442000.0,
+    "ratio": 0.01077943615257048,
+    "implied_crystal_mass_g": 0.01077943615257048,
+    "residual_decades": -1.9674039554972957,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Valthren Odrin · The Lantern Scribe.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 91,000 AU/s."
+   },
+   {
+    "entity": "Mavra Cindrel · The Golden Engine",
+    "flux_density": 6100000.0,
+    "eta": 0.62,
+    "stated_au_s": 48000.0,
+    "expected_au_s": 3782000.0,
+    "ratio": 0.01269169751454257,
+    "implied_crystal_mass_g": 0.01269169751454257,
+    "residual_decades": -1.8964802871334336,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Mavra Cindrel · The Golden Engine.md",
+     "line": 37
+    },
+    "flux_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **48,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition."
+   },
+   {
+    "entity": "Dougou Ozumu Zettari",
+    "flux_density": 18400.0,
+    "eta": 0.99,
+    "stated_au_s": 3900.0,
+    "expected_au_s": 18216.0,
+    "ratio": 0.21409749670619235,
+    "implied_crystal_mass_g": 0.21409749670619235,
+    "residual_decades": -0.6693884105805872,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md",
+     "line": 62
+    },
+    "flux_verbatim": "**Essence Capacity** · 92,000 EU · **Flux Density** 18,400 EU/g · **Aura** SS-Tier Sovereign Tectonic Gravity"
+   },
+   {
+    "entity": "Yorime Seikai",
+    "flux_density": 13900.0,
+    "eta": 0.94,
+    "stated_au_s": 2850.0,
+    "expected_au_s": 13066.0,
+    "ratio": 0.21812337364151232,
+    "implied_crystal_mass_g": 0.21812337364151232,
+    "residual_decades": -0.6612977938452835,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+     "line": 61
+    },
+    "flux_verbatim": "| **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems,* *cuts recognition**, and drains unstable Essence from the inside* |"
+   },
+   {
+    "entity": "Borin Ironheart · The Master of the Soul Forge",
+    "flux_density": 11000.0,
+    "eta": 0.91,
+    "stated_au_s": 3200.0,
+    "expected_au_s": 10010.0,
+    "ratio": 0.3196803196803197,
+    "implied_crystal_mass_g": 0.3196803196803197,
+    "residual_decades": -0.4952840991594126,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Borin Ironheart · The Master of the Soul Forge.md",
+     "line": 104
+    },
+    "flux_verbatim": "**Flux Density (EU/g):** ~11,000 EU/g (est.) — dense, penetrating. His Essence sinks into worked material the way water sinks into dry earth."
+   },
+   {
+    "entity": "Iracordas",
+    "flux_density": 9400.0,
+    "eta": 0.93,
+    "stated_au_s": 5200.0,
+    "expected_au_s": 8742.0,
+    "ratio": 0.5948295584534431,
+    "implied_crystal_mass_g": 0.5948295584534431,
+    "residual_decades": -0.22560745851883465,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Iracordas.md",
+     "line": 50
+    },
+    "flux_verbatim": "| **Flux Density** | 9,400 EU/g |"
+   },
+   {
+    "entity": "Kwon Mu-jin",
+    "flux_density": 1800000.0,
+    "eta": 0.87,
+    "stated_au_s": 1566000.0,
+    "expected_au_s": 1566000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
+     "line": 73
+    },
+    "flux_verbatim": "**EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87"
+   },
+   {
+    "entity": "Yoko Mishiro",
+    "flux_density": 150.0,
+    "eta": 0.5,
+    "stated_au_s": 75.0,
+    "expected_au_s": 75.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Yoko Mishiro.md",
+     "line": 69
+    },
+    "flux_verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+   },
+   {
+    "entity": "Ara Min Mahuo",
+    "flux_density": 85000.0,
+    "eta": 0.7,
+    "stated_au_s": 59500.0,
+    "expected_au_s": 59499.99999999999,
+    "ratio": 1.0000000000000002,
+    "implied_crystal_mass_g": 1.0000000000000002,
+    "residual_decades": 9.64327466553287e-17,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+     "line": 71
+    },
+    "flux_verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+   },
+   {
+    "entity": "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+    "flux_density": 5400000.0,
+    "eta": 0.9,
+    "stated_au_s": 5100000.0,
+    "expected_au_s": 4860000.0,
+    "ratio": 1.0493827160493827,
+    "implied_crystal_mass_g": 1.0493827160493827,
+    "residual_decades": 0.020933906835642984,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Ignatius Sanctus Sanctorum Arsenal · The Archpaladin.md",
+     "line": 141
+    },
+    "flux_verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed."
+   },
+   {
+    "entity": "Yukazuri Moto",
+    "flux_density": 290.0,
+    "eta": 0.89,
+    "stated_au_s": 480.0,
+    "expected_au_s": 258.1,
+    "ratio": 1.8597442851607902,
+    "implied_crystal_mass_g": 1.8597442851607902,
+    "residual_decades": 0.2694532328317183,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Yukazuri Moto.md",
+     "line": 61
+    },
+    "flux_verbatim": "**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89"
+   },
+   {
+    "entity": "Niran Yukari",
+    "flux_density": 18400.0,
+    "eta": 0.89,
+    "stated_au_s": 38400.0,
+    "expected_au_s": 16376.0,
+    "ratio": 2.344894968246214,
+    "implied_crystal_mass_g": 2.344894968246214,
+    "residual_decades": 0.37012339471308153,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+     "line": 61
+    },
+    "flux_verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+   },
+   {
+    "entity": "Vethraun Ashmaw",
+    "flux_density": 310.0,
+    "eta": 0.91,
+    "stated_au_s": 780.0,
+    "expected_au_s": 282.1,
+    "ratio": 2.764976958525345,
+    "implied_crystal_mass_g": 2.764976958525345,
+    "residual_decades": 0.44169151653511407,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Vethraun Ashmaw.md",
+     "line": 65
+    },
+    "flux_verbatim": "| **Flux Density** | 310 EU/g | Chthonic-Pyraeon Flux penetrates **regardless** — *the way tectonic force does not ask permission to reshape coastlines* |"
+   },
+   {
+    "entity": "Lucius Xenotro",
+    "flux_density": 41000.0,
+    "eta": 0.92,
+    "stated_au_s": 118000.0,
+    "expected_au_s": 37720.0,
+    "ratio": 3.1283138918345705,
+    "implied_crystal_mass_g": 3.1283138918345705,
+    "residual_decades": 0.4953103232408346,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+     "line": 62
+    },
+    "flux_verbatim": "| **Flux Density** | 41,000 EU/g — **extremely fine spectral compression, making his beams surgical instead of explosive** |"
+   },
+   {
+    "entity": "Rashani Zettari",
+    "flux_density": 8200.0,
+    "eta": 0.81,
+    "stated_au_s": 24000.0,
+    "expected_au_s": 6642.0,
+    "ratio": 3.6133694670280034,
+    "implied_crystal_mass_g": 3.6133694670280034,
+    "residual_decades": 0.5579123704492396,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+     "line": 64
+    },
+    "flux_verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
+   },
+   {
+    "entity": "Mizuki Moto",
+    "flux_density": 7900.0,
+    "eta": 0.82,
+    "stated_au_s": 26000.0,
+    "expected_au_s": 6478.0,
+    "ratio": 4.013584439641865,
+    "implied_crystal_mass_g": 4.013584439641865,
+    "residual_decades": 0.6035324042966599,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+     "line": 59
+    },
+    "flux_verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+   },
+   {
+    "entity": "Ayame Yuno",
+    "flux_density": 510.0,
+    "eta": 0.86,
+    "stated_au_s": 1900.0,
+    "expected_au_s": 438.59999999999997,
+    "ratio": 4.331965344277246,
+    "implied_crystal_mass_g": 4.331965344277246,
+    "residual_decades": 0.6366849736113249,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Ayame Yuno.md",
+     "line": 59
+    },
+    "flux_verbatim": "| **Flux Density** | 510 EU/g | Dense enough that **completed sigils hit like law, not suggestion.** Low raw impact, **exceptionally penetrating against structures of loyalty, morale and spiritual stability** |"
+   },
+   {
+    "entity": "Artemis Amagiri Moto",
+    "flux_density": 1980.0,
+    "eta": 0.84,
+    "stated_au_s": 7600.0,
+    "expected_au_s": 1663.2,
+    "ratio": 4.569504569504569,
+    "implied_crystal_mass_g": 4.569504569504569,
+    "residual_decades": 0.6598691159573785,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Artemis Amagiri Moto.md",
+     "line": 57
+    },
+    "flux_verbatim": "| **Flux Density** | 1,980 EU/g | His magic lands like compressed impact. **Even his soft techniques feel heavy** |"
+   },
+   {
+    "entity": "Muken Moto",
+    "flux_density": 18600.0,
+    "eta": 0.84,
+    "stated_au_s": 72000.0,
+    "expected_au_s": 15624.0,
+    "ratio": 4.608294930875576,
+    "implied_crystal_mass_g": 4.608294930875576,
+    "residual_decades": 0.6635402661514704,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+     "line": 60
+    },
+    "flux_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
+   },
+   {
+    "entity": "Rengai Zettari",
+    "flux_density": 18200.0,
+    "eta": 0.78,
+    "stated_au_s": 68000.0,
+    "expected_au_s": 14196.0,
+    "ratio": 4.790081713158636,
+    "implied_crystal_mass_g": 4.790081713158636,
+    "residual_decades": 0.6803429220306811,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+     "line": 60
+    },
+    "flux_verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
+   },
+   {
+    "entity": "Sodoku Moto",
+    "flux_density": 920.0,
+    "eta": 0.84,
+    "stated_au_s": 3800.0,
+    "expected_au_s": 772.8,
+    "ratio": 4.917184265010352,
+    "implied_crystal_mass_g": 4.917184265010352,
+    "residual_decades": 0.6917164832093733,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Sodoku Moto.md",
+     "line": 86
+    },
+    "flux_verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
+   },
+   {
+    "entity": "Anryū Ichimonji",
+    "flux_density": 9400.0,
+    "eta": 1.05,
+    "stated_au_s": 52000.0,
+    "expected_au_s": 9870.0,
+    "ratio": 5.268490374873354,
+    "implied_crystal_mass_g": 5.268490374873354,
+    "residual_decades": 0.7216861909651624,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+     "line": 63
+    },
+    "flux_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+   },
+   {
+    "entity": "Naevra Yukari",
+    "flux_density": 2900.0,
+    "eta": 0.96,
+    "stated_au_s": 18500.0,
+    "expected_au_s": 2784.0,
+    "ratio": 6.6451149425287355,
+    "implied_crystal_mass_g": 6.6451149425287355,
+    "residual_decades": 0.8225024974644892,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+     "line": 49
+    },
+    "flux_verbatim": "| **Flux Density** | 2,900 EU/g | **Fine-edged, surgical pressure** designed to pierce spiritual patterns and unravel hostile threads — **bypassing crude defences rather than smashing through them** |"
+   },
+   {
+    "entity": "Gimbzo",
+    "flux_density": 9200000.0,
+    "eta": 0.94,
+    "stated_au_s": 670000000000000.0,
+    "expected_au_s": 8648000.0,
+    "ratio": 77474560.5920444,
+    "implied_crystal_mass_g": 77474560.5920444,
+    "residual_decades": 7.889159121755572,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Gimbzo.md",
+     "line": 60
+    },
+    "flux_verbatim": "| **Flux Density** | 9.2 × 10⁶ EU/g — **blunt-force density of the highest order.** *His magic does not pierce, it crushes. Plate becomes paste, wards become powder, Domains feel the floor sag* |"
+   }
+  ],
+  "n": 29,
+  "holds_exactly": 3,
+  "implied_mass_between_0p2_and_10_g": 21,
+  "implied_mass_names": [
+   "Dougou Ozumu Zettari",
+   "Yorime Seikai",
+   "Borin Ironheart · The Master of the Soul Forge",
+   "Iracordas",
+   "Kwon Mu-jin",
+   "Yoko Mishiro",
+   "Ara Min Mahuo",
+   "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
+   "Yukazuri Moto",
+   "Niran Yukari",
+   "Vethraun Ashmaw",
+   "Lucius Xenotro",
+   "Rashani Zettari",
+   "Mizuki Moto",
+   "Ayame Yuno",
+   "Artemis Amagiri Moto",
+   "Muken Moto",
+   "Rengai Zettari",
+   "Sodoku Moto",
+   "Anryū Ichimonji",
+   "Naevra Yukari"
+  ]
+ },
+ "recovery": {
+  "rows": [
+   {
+    "entity": "Niran Yukari",
+    "kind": "passive",
+    "as_written": "28% EU/min",
+    "reserve_eu": 485000.0,
+    "fraction_per_min": 0.28,
+    "eu_per_min": 135800.0,
+    "minutes_empty_to_full": 3.571428571428571,
+    "minutes_to_clear_starvation": 3.214285714285714,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+     "line": 61
+    }
+   },
+   {
+    "entity": "Naori Yukari",
+    "kind": "passive",
+    "as_written": "15% EU/min",
+    "reserve_eu": 42000.0,
+    "fraction_per_min": 0.15,
+    "eu_per_min": 6300.0,
+    "minutes_empty_to_full": 6.666666666666667,
+    "minutes_to_clear_starvation": 6.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Naori Yukari.md",
+     "line": 54
+    }
+   },
+   {
+    "entity": "Rashani Zettari",
+    "kind": "passive",
+    "as_written": "14% EU/min",
+    "reserve_eu": 540000.0,
+    "fraction_per_min": 0.14,
+    "eu_per_min": 75600.0,
+    "minutes_empty_to_full": 7.142857142857142,
+    "minutes_to_clear_starvation": 6.428571428571428,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+     "line": 64
+    }
+   },
+   {
+    "entity": "Mizuki Moto",
+    "kind": "passive",
+    "as_written": "12% EU/min at rest",
+    "reserve_eu": 470000.0,
+    "fraction_per_min": 0.12,
+    "eu_per_min": 56400.0,
+    "minutes_empty_to_full": 8.333333333333334,
+    "minutes_to_clear_starvation": 7.500000000000001,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+     "line": 59
+    }
+   },
+   {
+    "entity": "Anryū Ichimonji",
+    "kind": "passive",
+    "as_written": "11% EU/min",
+    "reserve_eu": 820000.0,
+    "fraction_per_min": 0.11,
+    "eu_per_min": 90200.0,
+    "minutes_empty_to_full": 9.090909090909092,
+    "minutes_to_clear_starvation": 8.181818181818182,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+     "line": 63
+    }
+   },
+   {
+    "entity": "Rengai Zettari",
+    "kind": "passive",
+    "as_written": "9% EU/min",
+    "reserve_eu": 1400000.0,
+    "fraction_per_min": 0.09,
+    "eu_per_min": 126000.0,
+    "minutes_empty_to_full": 11.11111111111111,
+    "minutes_to_clear_starvation": 10.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+     "line": 60
+    }
+   },
+   {
+    "entity": "Krothar Veylshroud",
+    "kind": "passive, chains on",
+    "as_written": "~18,000 EU/min",
+    "reserve_eu": 2800000,
+    "fraction_per_min": 0.0064285714285714285,
+    "eu_per_min": 18000.0,
+    "minutes_empty_to_full": 155.55555555555557,
+    "minutes_to_clear_starvation": 140.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+     "line": 102
+    }
+   },
+   {
+    "entity": "Krothar Veylshroud",
+    "kind": "passive, chains off",
+    "as_written": "~52,000 EU/min",
+    "reserve_eu": 2800000,
+    "fraction_per_min": 0.018571428571428572,
+    "eu_per_min": 52000.0,
+    "minutes_empty_to_full": 53.84615384615385,
+    "minutes_to_clear_starvation": 48.46153846153846,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+     "line": 102
+    }
+   },
+   {
+    "entity": "Krothar Veylshroud",
+    "kind": "active, chains off",
+    "as_written": "~88,000 EU/min",
+    "reserve_eu": 2800000,
+    "fraction_per_min": 0.03142857142857143,
+    "eu_per_min": 88000.0,
+    "minutes_empty_to_full": 31.818181818181817,
+    "minutes_to_clear_starvation": 28.636363636363637,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+     "line": 103
+    }
+   },
+   {
+    "entity": "Ara Min Mahuo",
+    "kind": "passive",
+    "as_written": "~126,000 EU/hour",
+    "reserve_eu": 4200000.0,
+    "fraction_per_min": 0.0005,
+    "eu_per_min": 2100.0,
+    "minutes_empty_to_full": 2000.0,
+    "minutes_to_clear_starvation": 1800.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+     "line": 72
+    }
+   },
+   {
+    "entity": "Ara Min Mahuo",
+    "kind": "active",
+    "as_written": "~252,000 EU/hour",
+    "reserve_eu": 4200000.0,
+    "fraction_per_min": 0.001,
+    "eu_per_min": 4200.0,
+    "minutes_empty_to_full": 1000.0,
+    "minutes_to_clear_starvation": 900.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Ara Min Mahuo.md",
+     "line": 74
+    }
+   },
+   {
+    "entity": "Kwon Mu-jin",
+    "kind": "passive",
+    "as_written": "~12,750,000 EU/hour at rest",
+    "reserve_eu": 850000000.0,
+    "fraction_per_min": 0.00025,
+    "eu_per_min": 212500.0,
+    "minutes_empty_to_full": 4000.0,
+    "minutes_to_clear_starvation": 3600.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
+     "line": 74
+    }
+   },
+   {
+    "entity": "Kwon Mu-jin",
+    "kind": "active",
+    "as_written": "~38,250,000 EU/hour",
+    "reserve_eu": 850000000.0,
+    "fraction_per_min": 0.00075,
+    "eu_per_min": 637500.0,
+    "minutes_empty_to_full": 1333.3333333333333,
+    "minutes_to_clear_starvation": 1200.0,
+    "source": {
+     "file": "wiki/Volume I — Character Cards/Kwon Mu-jin.md",
+     "line": 74
+    }
+   }
+  ],
+  "stated_as_percentage": {
+   "n": 6,
+   "low": 0.09,
+   "low_entity": "Rengai Zettari",
+   "high": 0.28,
+   "high_entity": "Niran Yukari",
+   "median": 0.14,
+   "minutes_empty_to_full_at_median": 7.142857142857142,
+   "minutes_empty_to_full_at_low": 11.11111111111111,
+   "minutes_empty_to_full_at_high": 3.571428571428571
+  },
+  "stated_as_absolute": {
+   "n": 7,
+   "low": 0.00025,
+   "low_entity": "Kwon Mu-jin",
+   "high": 0.03142857142857143,
+   "high_entity": "Krothar Veylshroud",
+   "median": 0.001,
+   "minutes_empty_to_full_at_median": 1000.0,
+   "minutes_empty_to_full_at_low": 4000.0,
+   "minutes_empty_to_full_at_high": 31.818181818181817
+  },
+  "decades_between_the_two_medians": 2.146128035678238
+ }
+}

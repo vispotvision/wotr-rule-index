@@ -14,6 +14,16 @@ obviously supersedes an earlier one, unless the pack text *itself* says so in
 words you can quote. "Later pack beats earlier pack" is Isaac's rule for
 reading, not a licence for you to silently mark rules dead.
 
+## Nothing waits on Isaac (his direction, 2026-09-25)
+Recording a conflict is still the first step, and extraction still never marks a
+rule dead on its own. But a recorded conflict does not sit waiting for Isaac: it
+is ruled, openly, by the Paperclip docket (Doc Kett, reviewed by Rhett Konn and
+Gemma Nye) under the precedence ladder in the `wotr-conflict` skill, logged with
+`log_ruling` as an **agent ruling** that names its grounds, and applied. Isaac
+reads the day's agent rulings in `CONTINUE.md` and may overturn any of them; an
+overturn is a new ruling, never a silent edit. `RULINGS.md` is written only
+through `log_ruling`, never edited by hand or committed from a worktree.
+
 ## Never paraphrase a rule into existence
 Every rule row carries a `verbatim` field containing exact text from the source
 file. If you cannot quote it, you have not found a rule. `summary` may be your

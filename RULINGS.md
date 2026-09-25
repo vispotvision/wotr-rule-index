@@ -638,3 +638,9 @@ Context: the four items left open by the 2026-09-23 Magic System pass
 (`CONTINUE.md`, that block). Evidence and options were put to Isaac as one
 questionnaire; C-033's sweep was held until C-030 and C-031 were answered,
 because it walks past both η figures on its way through.
+
+## 2026-09-24 — R8-16-PHYSICAL_NUMBERS_ONLY
+
+Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause "the Design Chain remains workbook". Grounds: R20C-39 (Pack Eight Section One superseded), R12-1-NUMBER_BAN_STRUCK, and Isaac's 24 Sept ruling that documents are fully metaphysical (logged on R12-3). The technique card on documents is R17-3's six-line card with the Design Chain below it (R12-3-CARD_PLUS_CHAIN).
+
+Context: Found 24 Sept 2026 while checking the index for the documents ruling. R20C-39 superseded Pack Eight Section One, but these two rows are still marked live and are why the "no Design Chain / no units on documents" restriction kept resurfacing.

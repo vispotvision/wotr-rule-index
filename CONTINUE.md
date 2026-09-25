@@ -6,6 +6,86 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-72 — the Part's rebuild was already on master; audited)
+
+**Read this before the WAR-46 block below, which is stale on one point.** That
+block, and the WAR-72 issue filed out of it, both say the draft Part
+Twenty-Three still works at 1 EU = 1 kJ and "owes itself a rebuild". It does
+not. The rebuild landed on master as `1271ff9`, *"Essence Ledger P2 rebuilt at
+the ruled constant, 1 EU = 1 MJ (WAR-12)"*, at 15:14 — thirty-one minutes after
+WAR-46's commit was written at 14:43, and WAR-46's commit has been sitting
+unpushed on the WAR-22 branch since. WAR-46 read the Part at `e59835f` and was
+right at the time; master moved under it. Nothing was wrong with either run.
+
+**WAR-72 therefore changed no figure, and this block is its whole product.**
+What it did instead was audit `1271ff9` against its own finish line, because a
+commit message is not evidence. All of it holds:
+
+- **The constant lives in one place and the chain is clean at 1 MJ.**
+  `ledger_tables.py:642` is `K = 1e6`; `fit.py:67` is `K_TEST = 1e6` and always
+  was, so 1e3 only ever lived in `ledger_tables.py`. Re-running
+  `ledger_tables.py` reproduces `ledger_tables.json` byte-identically, so the
+  committed JSON is the committed script's output and not a stale artifact.
+- **The prose follows the JSON, not just the headline.** Spot-checked the nine-
+  rung spine (§3), the drain and waste-heat set (§5.3, §6.4) and the Starvation
+  floors (§7) row by row against `ledger_tables.json`: every figure matches.
+  The arithmetic blocks hand-check too — Dougou's 7,400 EU × 1e6 = 7.40 GJ,
+  Kwon Mu-jin's 42.5–127.5 M EU = 42.5–127.5 TJ, Yukazuri Moto's 52.8 MW at
+  4,793 K and 18.3 m. The *arguments* were rebuilt with the numbers, not only
+  the numbers: §3's bottom-rung note now reads 0.015 EU (it was 15 EU at 1 kJ),
+  which is the kind of line a find-and-replace rebuild leaves behind and this
+  one did not.
+- **§2 records the residuals and reopens nothing**, which is what WAR-72 asked
+  for and what `CLAUDE.md` requires. §2.2 states R44-1 as governing, quoted.
+  §2.3 carries canon's three self-pricing lines missing the ruled constant by
+  **+2.447 to +2.982 decades**, all three the same direction, with the 1 kJ and
+  least-squares columns kept beside them as residual rather than argument. §2.4
+  carries all four of `physics-check.md`'s brackets, each failed, each in the
+  note's own words, with R44-1's own `notes` field quoted to show the ruling was
+  made in that knowledge. Nothing is softened and nothing is reconciled.
+- **The C-034 PENDING note is out.** The two PENDING blocks left in the Part
+  (`:941`, `:1332`) are the AU-identity question and the two recovery
+  populations — neither is C-034, and R44-1 settles the constant only. The
+  Paragon row's PENDING cells are absent data (`gate_level: null` in the JSON),
+  not an unanswered ruling. Tier 7 and Tier 8 printing the same ceiling
+  (6.70 × 10⁹ EU) is real and derived — both gate on Level 500, the highest gate
+  the ruled anchors reach — not a copy error.
+
+`python build/validate.py` PASS, 697 rules, live=572 superseded=125.
+
+**The audit did turn up one real thing, and it is not about the figures —
+it is about the record. Filed as WAR-96 to Doc Kett, `canon`.** R44-1 is not in
+`RULINGS.md`. `rules/doc-essence-ledger-rulings-2026-09-25.yaml` says in its own
+header *"The record is the 2026-09-25 entry in RULINGS.md; each verbatim quotes
+it"*, and all six rows carry `source.file: ''`, the standalone pattern that
+`AGENTS.md` says `validate.py` deliberately does not check — "those quotes rest
+on your care alone." Grepping `RULINGS.md` for `essence ledger`, `C-034`..`C-037`
+or `One constant` returns nothing, on this branch or on `origin/master`.
+RULINGS.md's 2026-09-25 section is a different ruling: Isaac's seven
+precedence-ladder answers on WAR-61, which mention R44-3 and R44-5 as examples
+as though they were already recorded but carry none of the four C-row closures.
+
+That matters because `CLAUDE.md` says a ruling exists only if it is in
+`RULINGS.md`, and the Part's §2.2 — **on master** — prints R44-1's text as a
+block quote attributed to *"`RULINGS.md`, the 2026-09-25 entry"* and marks it
+**[ruled]**. The likely cause is the same split that made WAR-72 look necessary:
+the Part's rebuild is on master, the R44 index rows (`48e09d6`) are not, and the
+`3215399` hand-edit of `RULINGS.md` that the WAR-46 block below says was
+deliberately withheld is no longer in this branch's ancestry after the rebase.
+WAR-72 did not touch `RULINGS.md` and did not call `log_ruling`: that file is
+written only through the tool, never by hand or from a worktree, and logging the
+batch is not what this issue asked for. Nothing about the six rulings' *content*
+is in question.
+
+**So WAR-13 and WAR-14 are no longer waiting on this.** WAR-72 named both as
+affected and told them to wait for the rebuild rather than the draft; the
+rebuild is what is on master now, so the nine-rung spine WAR-13 hangs its
+ladders on is the 1 MJ spine in §3, including R44-3's 24.3–41.8 TJ carve-out,
+which §3 states deliberately because six of those ladders need it. Neither
+issue was touched here. What still blocks WAR-46's card corrections is
+unchanged and is not this: the ruling that says what a corrected figure
+becomes, with Doc Kett.
+
 ## State on 2026-09-25 (WAR-46 — R44-1's card sweep, swept and not applied)
 
 R44-1 settles 1 EU = 1 MJ and names the card figures that then miss their

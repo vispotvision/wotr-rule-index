@@ -19,4 +19,4 @@ WorkingDirectory=%h/wotr-rule-index
 EnvironmentFile=-%h/.config/wotr/env
 Environment=PYTHONIOENCODING=utf-8
 ExecStart=/bin/bash %h/wotr-rule-index/build/sync.sh
-TimeoutStartSec=30min
+TimeoutStartSec=90min

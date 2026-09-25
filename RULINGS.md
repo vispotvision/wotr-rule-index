@@ -644,3 +644,17 @@ because it walks past both η figures on its way through.
 Superseded; mark struck in the index along with R8-12-SHEET_GETS_OPERATIONAL_ACCOUNT's clause "the Design Chain remains workbook". Grounds: R20C-39 (Pack Eight Section One superseded), R12-1-NUMBER_BAN_STRUCK, and Isaac's 24 Sept ruling that documents are fully metaphysical (logged on R12-3). The technique card on documents is R17-3's six-line card with the Design Chain below it (R12-3-CARD_PLUS_CHAIN).
 
 Context: Found 24 Sept 2026 while checking the index for the documents ruling. R20C-39 superseded Pack Eight Section One, but these two rows are still marked live and are why the "no Design Chain / no units on documents" restriction kept resurfacing.
+
+## 2026-09-25 — new
+
+Isaac's rules for ruling (the precedence ladder's general rungs), answered in Claude Code on Doc Kett's WAR-61 questions. Agents apply these before the agent ladder in the wotr-conflict skill.
+
+1. **A ruling's general sentence governs.** Where a ruling answers a narrow question but its operative sentence is written generally, the sentence applies to every case it describes (e.g. R44-5: "the card's η governs per character and the tables are typical ranges" reaches every card, not only the three Stage VI cards it was asked about).
+2. **Off-ladder runs both ways.** A ruling that lets a card sit above a ladder (η above its range, Aether Class above its Stage) equally lets it sit below; the card governs (e.g. Aethryn η 0.22; Ambrose Virellith Class III at Stage VIII).
+3. **Stale status notes are bookkeeping.** A line in canon that states the state of the record ("Veyran is unattested", "the efficiency conflict, unresolved") and that the record has since overtaken may be updated by any sweep, citing what overtook it; no ruling needed.
+4. **A ruling's fallback for one column of a table reaches the whole table** (e.g. R44-3's Sub-Stat ranking reaches the travel-speed column of the Part Four Grade table).
+5. **Figure against gloss: the bigger is intended.** Where a stated figure and its gloss on the same line disagree (e.g. "4.184 EJ … 1 Tt TNT-equivalent"), keep whichever makes the working stronger, checked against the technique's Stage band, and correct the other to match.
+6. **Book against card: the card for numbers, the book for events.** Stats and mechanics follow the character's card; what happens in the story follows the book's bible and chapters.
+7. **Authorship questions are the agents' to decide.** Where an item asks to confirm or flip originated material (e.g. "Did she say it … Confirm or flip", scenes/01_the_vacancy_korvaeth_arc.md:754), the agents choose the reading that best fits the rest of canon and ship it as agent-made canon, logged, which Isaac may overturn.
+
+Context: Doc Kett's WAR-61 comment (2026-09-25): of the thirteen WAR-62 docket items, two were settled by the written text and eleven needed a rung that did not exist; these seven answers supply them. Closes on their own: WAR-39, WAR-40, WAR-43, WAR-44, WAR-47, C-038 (WAR-49), C-039, WAR-50; WAR-53/58 (authorship) go to the agents.

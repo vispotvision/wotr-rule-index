@@ -4,15 +4,22 @@
 Input  : `_candidates.json` (written by `extract_anchors.py`)
 Output : `anchors.json`
 
-Three things happen here and nothing else:
+Four things happen here and nothing else:
 
 1.  The system tables the fit is read against are lifted **verbatim** out of
     the wiki mirror — Part Four's Grade / joule table, Part Five's Stage gates,
     Part Nineteen's efficiency table and its four resource definitions. They are
     located by their header line, not by line number, so an edit upstream moves
     them rather than silently mis-quoting them.
-2.  The swept figures are carried through unchanged.
-3.  A short hand supplement adds the figures the sweep could not parse — a
+2.  Where a live ruling has corrected one of those cells and the page edit has
+    not yet come back through the hourly sync, the ruling's figures are the ones
+    the fit reads. The page row stays in `verbatim` as the mirror writes it and
+    the row carries `corrected_by_ruling`, naming the ruling and quoting it.
+    One cell stands this way: Part Nineteen's Tier 5 η, under R44-4 (WAR-71).
+3.  The swept figures are carried through unchanged, each with the Stage its own
+    line states where the table it sits in gates its rows one by one
+    (`stage_on_the_line`, WAR-71).
+4.  A short hand supplement adds the figures the sweep could not parse — a
     second number on a line that carries two, a number written out in words.
     Every supplement row names the file and line and quotes the whole line;
     nothing is added that is not on the page.
@@ -113,6 +120,29 @@ def grade_band(cell: str) -> tuple:
     return (None, None)
 
 
+# --- rulings that have moved a system table since the mirror was exported ---
+# A live ruling outranks the page it corrects. R44-4 corrects Part Nineteen's
+# Tier 5 η cell and the Notion edit it names has not yet come back through the
+# hourly sync, so the mirror still carries the old range. The page row stays in
+# `verbatim` exactly as the mirror writes it; the figures the fit reads come off
+# the ruling, which is quoted here in its own words and named by id. Nothing is
+# computed: 0.60 and 0.70 are the two numbers the ruling writes.
+ETA_TIER_RULINGS = {
+    "5": {
+        "eta_low": 0.60,
+        "eta_high": 0.70,
+        "ruling": "R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+        "ruling_file": "rules/doc-essence-ledger-rulings-2026-09-25.yaml",
+        "ruling_verbatim": ("Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. "
+                            "Part Nineteen's Tier 5 row is corrected to match."),
+        "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (closes C-037)",
+        "note": ("the mirror still carries the pre-ruling cell, 0.50–0.60; the page edit "
+                 "R44-4 names goes to Notion and returns on the hourly sync. `verbatim` "
+                 "is the mirror's row as written; `eta_low`/`eta_high` are the ruling's."),
+    },
+}
+
+
 def system_tables() -> dict:
     ii, vii = lines_of(FOW_II), lines_of(FOW_VII)
 
@@ -149,8 +179,9 @@ def system_tables() -> dict:
         c = cells(row)
         eta = strip_md(c[2])
         m = re.match(r"~?([0-9.]+)\s*(?:–|—|-)\s*([0-9.]+)$", eta)
-        etas.append({
-            "tier": strip_md(c[0]),
+        tier = strip_md(c[0])
+        entry = {
+            "tier": tier,
             "temperance": strip_md(c[1]),
             "eta": eta,
             "eta_low": float(m.group(1)) if m else (
@@ -160,7 +191,19 @@ def system_tables() -> dict:
             "note": strip_md(c[3]),
             "source": {"file": FOW_VII.relative_to(REPO).as_posix(), "line": n},
             "verbatim": row,
-        })
+            "corrected_by_ruling": None,
+        }
+        ruled = ETA_TIER_RULINGS.get(re.match(r"([0-9])", tier).group(1)
+                                    if re.match(r"([0-9])", tier) else None)
+        if ruled:
+            entry["eta_as_the_mirror_writes_it"] = entry["eta"]
+            entry["eta_low_as_the_mirror_writes_it"] = entry["eta_low"]
+            entry["eta_high_as_the_mirror_writes_it"] = entry["eta_high"]
+            entry["eta_low"] = ruled["eta_low"]
+            entry["eta_high"] = ruled["eta_high"]
+            entry["corrected_by_ruling"] = {k: v for k, v in ruled.items()
+                                            if k not in ("eta_low", "eta_high")}
+        etas.append(entry)
 
     defs = []
     for start in ("**EU (Essence Units)**", "**Flux Density (EU/g)**",
@@ -582,6 +625,33 @@ def mark_duplicates(rows: list[dict]) -> None:
             seen.append(r)
 
 
+# --- the Stage a figure's own line states ----------------------------------
+# `pages` holds the Stage the *page* states, which is the page's entry Stage. A
+# table that gates each row separately states a Stage per figure, and that one
+# governs the figure on it: Rusashin enters at Stage III and gates Form IX at
+# Stage IX–X, so Form IX's cost is a Stage IX figure and not a Stage III one
+# (WAR-71). The sweep carries the cell it read in `row_gate`; nothing is decided
+# here beyond writing down which Stage the line names and quoting the cell.
+#
+# Where the cell gives a range the gate is its low end — the Stage at which the
+# row opens — and `stage_high` keeps the other end so a reader can take it the
+# other way. A row with no gate cell carries `null` and the page's Stage stands.
+def stage_on_the_line(r: dict):
+    g = r.get("row_gate")
+    if not g:
+        return None
+    return {
+        "stage": g["stage"],
+        "stage_high": g["stage_high"],
+        "basis": ("the low end of the Stage range the row's own %s cell states"
+                  % g["column"].strip("* ") if g["range"] else
+                  "the Stage the row's own %s cell states" % g["column"].strip("* ")),
+        "column": g["column"],
+        "cell": g["cell"],
+        "table_header_line": g["header_line"],
+    }
+
+
 def quote(file: str, line: int) -> str:
     raw = lines_of(REPO / file)
     if not 1 <= line <= len(raw):
@@ -632,6 +702,7 @@ def main() -> int:
                      "au_s": "AU/s", "eta": None, "joule": "J"}[r["kind"]],
             "qualifier": None,
             "origin": "swept",
+            "stage_on_the_line": stage_on_the_line(r),
             "source": {"file": r["file"], "line": r["line"]},
             "verbatim": r["verbatim"],
         }
@@ -657,6 +728,7 @@ def main() -> int:
             "unit": {"eu_reserve": "EU", "flux_density": "EU/g", "au_s": "AU/s"}[s["kind"]],
             "qualifier": s["qualifier"],
             "origin": "hand",
+            "stage_on_the_line": None,
             "source": {"file": s["file"], "line": s["line"]},
             "verbatim": quote(s["file"], s["line"]),
         })
@@ -676,6 +748,7 @@ def main() -> int:
             "unit": "EU",
             "qualifier": s["qualifier"],
             "origin": "hand",
+            "stage_on_the_line": None,
             "source": {"file": s["file"], "line": s["line"]},
             "verbatim": quote(s["file"], s["line"]),
         })
@@ -756,6 +829,20 @@ def main() -> int:
                 "The 'Band V' in 'a fifth of a Band V reserve' (Raga) and 'low for Band V' "
                 "(Verinus VII) is the Level Band of FoW Part One, Levels 401–500, Absolute — "
                 "which is live and was never retired. It is not the lettered Coherence Band.",
+                "`stage_on_the_line` is the Stage a figure's own table row states, where the "
+                "table gates its rows one by one — a Discipline's Forms table gives every "
+                "Form its own Gate Stage and the page's Stage field is only its entry. It "
+                "governs the page's Stage for that figure (WAR-71). The column has to name a "
+                "gate or a Temperance and the cell has to be a Stage statement and nothing "
+                "else, which is what keeps it off a `Gate` column holding Wellspring gates "
+                "and off a `Temperance cluster` the page itself says binds nothing. A range "
+                "cell is read at its low end, the Stage the row opens at, and the other end "
+                "is kept in `stage_high`.",
+                "`system.eta_by_tier` Tier 5 carries `corrected_by_ruling`: R44-4 corrects "
+                "that η cell to 0.60–0.70 and the Notion edit it names has not returned "
+                "through the sync yet, so `verbatim` is the mirror's 0.50–0.60 row and "
+                "`eta_low`/`eta_high` are the ruling's figures. The pre-ruling numbers are "
+                "kept beside them as `*_as_the_mirror_writes_it`.",
             ],
         },
         "system": system_tables(),

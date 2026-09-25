@@ -6,6 +6,10 @@ exact file, line number and the verbatim line the figure sits in. Values are
 parsed only where the form is unambiguous; anything else is emitted with
 `value: null` and `parsed: false` so a human fills it or leaves it null.
 
+Where a figure sits on a table row that states its own gate Stage, the row's
+Stage is carried with it as `row_gate`, quoting the cell it was read from, so a
+per-row gate is not overwritten by the page's entry Stage (WAR-71).
+
 Nothing here decides anything. It collects. `anchors.json` is the reviewed
 output; this script produces `_candidates.json` beside it.
 
@@ -228,6 +232,86 @@ STAT_ROWS = (
 )
 
 
+# --- the Stage a table row states for itself -------------------------------
+# A page's Stage field is the page's. Several pages gate each *row* of a table
+# separately — a Discipline's Forms table gives every Form its own Gate Stage,
+# and the page's entry Stage is only the first row's — so a figure on such a row
+# states its own Stage and is read against that one (WAR-71).
+#
+# Nothing is inferred. Two conditions, both off the page's own words:
+#
+#   *  the table's header names a gate or a Temperance column, and
+#   *  the row's cell in that column is a Stage statement and nothing else.
+#
+# The second condition is what keeps this off the columns that look like gates
+# and are not. Sinclair Mercer's stat table has a `Gate` column holding
+# Wellspring gates ("Fate VIII", "Spirit III"), and Tier Grade, Bands & the
+# Aether Shell's `Gate` column holds a sentence ("Stage IV before Level 100 can
+# be surpassed") beside a `Temperance cluster` the page itself says "binds
+# nothing". A bare numeral is read as a Stage only under a header that says
+# Stage or Temperance; under a bare `Gate` the cell has to write the word.
+GATE_HEADERS = {
+    # header cell (lowercased, markdown stripped) -> is a bare numeral a Stage?
+    "gate": False,
+    "stage": True,
+    "stage gate": True,
+    "gate stage": True,
+    "temperance": True,
+    "temperance stage": True,
+    "temperance range": True,
+    "temperance gate": True,
+}
+# "Stage IV", "Stage III (Ascension)", "Stage VII–VIII", "Stage X+",
+# "IV to VI", "I – II". A cell carrying anything else is not read.
+GATE_CELL = re.compile(
+    rf"^(?P<w>Stage\s+)?(?P<lo>{ROMAN})(?:\s*\([^)]*\))?"
+    rf"(?:\s*(?:–|—|-|to|through)\s*(?:Stage\s+)?(?P<hi>{ROMAN})(?:\s*\([^)]*\))?)?"
+    r"\s*\+?$")
+TABLE_ROW = re.compile(r"^\s*\|")
+TABLE_RULE = re.compile(r"^\s*\|[\s|:-]*\|\s*$")
+
+
+def row_cells(raw: str) -> list[str]:
+    return [c.strip() for c in raw.strip().strip("|").split("|")]
+
+
+def row_gates(lines: list[str]) -> dict[int, dict]:
+    """{line number: the Stage that row states} for every table row on the page
+    whose table gates its rows one by one. Quotes the cell it read."""
+    out: dict[int, dict] = {}
+    i = 0
+    while i < len(lines):
+        if not (TABLE_ROW.match(lines[i]) and i + 1 < len(lines)
+                and TABLE_RULE.match(lines[i + 1])):
+            i += 1
+            continue
+        header = [re.sub(r"[*_`]", "", c).strip().lower() for c in row_cells(lines[i])]
+        cols = [(k, GATE_HEADERS[h]) for k, h in enumerate(header) if h in GATE_HEADERS]
+        j = i + 2
+        while j < len(lines) and TABLE_ROW.match(lines[j]):
+            if cols:
+                cells = row_cells(lines[j])
+                for k, bare_ok in cols:
+                    if k >= len(cells):
+                        continue
+                    cell = re.sub(r"[*_`]", "", cells[k]).strip()
+                    m = GATE_CELL.match(cell)
+                    if not m or (not m.group("w") and not bare_ok):
+                        continue
+                    out[j + 1] = {
+                        "stage": m.group("lo"),
+                        "stage_high": m.group("hi"),
+                        "range": bool(m.group("hi")),
+                        "column": row_cells(lines[i])[k],
+                        "cell": cells[k],
+                        "header_line": i + 1,
+                    }
+                    break
+            j += 1
+        i = j
+    return out
+
+
 def tier_grades(lines: list[str]) -> list[dict]:
     """The Primary / value / Grade rows of the card's stat table, as written."""
     out = []
@@ -296,12 +380,14 @@ def main() -> int:
         title = next((l.split(":", 1)[1].strip().strip('"')
                       for l in lines[:8] if l.startswith("title:")), path.stem)
         ctx = None
+        gates = None
         for n, raw in enumerate(lines, start=1):
             hits = scan_line(raw)
             if not hits:
                 continue
             if ctx is None:
                 ctx = page_context(lines)
+                gates = row_gates(lines)
             for kind, token in hits:
                 if kind == "joule":
                     value, low, high = joule_value(token)
@@ -322,6 +408,7 @@ def main() -> int:
                     "file": rel,
                     "line": n,
                     "verbatim": clean(raw),
+                    "row_gate": gates.get(n),
                     "context": ctx,
                 })
     OUT.write_text(json.dumps(rows, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")

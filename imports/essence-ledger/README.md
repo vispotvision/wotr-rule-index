@@ -13,14 +13,14 @@ to stand on.
 | `anchors.json` | **the deliverable.** Every attested essence figure in the wiki mirror — EU reserve, AU/s, Flux Density, η, **and joules** — with its entity, the Level / Stage / Tier of Standing / Aether Class / Coherence Band / Tier Grades stated on the same page, the exact file and line, and a verbatim quote of the whole line. Plus the system tables the fit reads against, lifted verbatim from FoW Parts Four, Five and Nineteen; the absolute EU costs (`costs`); the joule figures (`joules`, each classed `attested`, `band_edge_quoted`, `system_table` or `withdrawn`); and the figures canon says do not exist (`unquantified`). An entity is read off the line rather than off the page (`entity_basis`), and a row restating a figure already recorded carries `duplicate_of`. |
 | `fit.json` | the fit. The measured side first — `direct_pairs` (a working whose EU cost and joule output are both stated), `grade_proxy_check` (the Stage→Grade proxy measured against the attested joules) and `reserve_vs_strike`. Then the proxy: per-anchor residuals at Isaac's 1 EU = 1 MJ, the best single constant, the residual by Stage, and the AU/s = Flux Density × η check card by card. |
 | `physics-check.md` | WAR-10, Phase 2. The fitted constant against real physics: the low end (a body's heat capacity against η's waste), the high end (E = mc² against the million-EU/g sheets), the Grade table's joule → TNT → "what it wrecks" chain against cube-root blast scaling, the drain arithmetic, and where the energy η discards goes. Written after Phase 1 and against its two data files; it changes no figure, adopts no constant and files no conflict row. |
-| `extract_anchors.py` | the sweep. Walks `wiki/**/*.md`, finds figures carrying one of the four units, writes `_candidates.json`. Parses a number only where the form is unambiguous. |
-| `build_anchors.py` | `_candidates.json` + the verbatim system tables + a short hand supplement → `anchors.json`. |
+| `extract_anchors.py` | the sweep. Walks `wiki/**/*.md`, finds figures carrying one of the four units, writes `_candidates.json`. Parses a number only where the form is unambiguous. Where a figure sits on a table row that gates itself — a Discipline's Forms table gives every Form its own `Gate` Stage — it carries that row's Stage as `row_gate`, quoting the cell (WAR-71). |
+| `build_anchors.py` | `_candidates.json` + the verbatim system tables + a short hand supplement → `anchors.json`. Also the one place a live ruling is substituted into a system table the mirror has not re-exported yet (`ETA_TIER_RULINGS`: Part Nineteen's Tier 5 η under R44-4), and where `row_gate` becomes each row's `stage_on_the_line`. |
 | `fit.py` | `anchors.json` → `fit.json` and the printed report. |
 | `_candidates.json` | the raw sweep, written by `extract_anchors.py` and consumed by `build_anchors.py`. A regenerable intermediate; not committed. |
 | **`the-essence-ledger.md`** | **WAR-12, Phase 2. The deliverable of this phase: the draft FoW Part Twenty-Three, "The Essence Ledger".** The constant with its residuals, the EU → J → Grade → TNT chain joined to Part Four, reserve bands per Stage and per Tier of Standing with every attested character placed in them, AU/s as power with the drain arithmetic and three worked scales, Flux Density against η stated as an equation with the residual column, and Essence Starvation and recovery in the new units. Nothing in it is published; every claim carries a `[canon]`, `[ruled]`, `[derived]`, `[draft]` or `[residual]` marker, every ruling it applies is quoted verbatim where it is applied, and every slot a ruling must fill is marked **PENDING** with the question named. |
 | `ledger_tables.py` | WAR-12. Every table the Part prints, from `anchors.json` and `fit.json` only: the constant fit, the reserve law on Level, the bands by Stage and Tier, the nine-rung spine, the drain and waste-heat clocks, the Flux × η residual, and the recovery rates. **The ruled constant lives here in one place, `K = 1e6` (R44-1); change it there and every figure in the Part follows.** |
 | `ledger_tables.json` | what `ledger_tables.py` writes. The Part's arithmetic, machine-readable. |
-| `eu_band_sweep.py` | WAR-46, after the rulings. `fit.json` → `reports/eu_band_sweep_2026-09-25.md`: every attested EU figure that misses the band its Stage's Max Grade claims at 1 EU = 1 MJ, each with the reason nothing was set on it. Changes no card figure and reads no card. |
+| `eu_band_sweep.py` | WAR-46, after the rulings. `fit.json` → `reports/eu_band_sweep_2026-09-25.md`: every attested EU figure that misses the band its Stage's Max Grade claims at 1 EU = 1 MJ, each with the reason nothing was set on it. Changes no card figure and reads no card. Regenerated under WAR-71 against the corrected fit; its `GATE` reason is gone with the defect it recorded, and §"What moved when the fit was corrected" states both runs' counts. |
 
 ## Running it
 
@@ -44,14 +44,27 @@ The thirteen characters who state both a reserve and a strike put a ceiling on
 the same quantity that spans 11.2 decades, 217 to 3.3×10¹³ J/EU.
 
 **By proxy.** Where no joules are stated, an EU figure is read against the band
-its Stage's Max Grade claims. At 1 EU = 1 MJ, 25 of 155 figures land in band;
-the best single constant, 6.2×10⁶ J/EU, reaches 65. It cannot do better, because
+its Stage's Max Grade claims. At 1 EU = 1 MJ, 27 of 155 figures land in band;
+the best single constant, 6.2×10⁶ J/EU, reaches 67. It cannot do better, because
 the attested EU figures are not ordered by Stage: Stage XII alone spans 9.8
 orders of magnitude, and a Stage XIII reserve (92,000 EU) sits below a Stage V
-one (185,000 EU). The residual is Stage-shaped, from +0.98 decades at Stage III
+one (185,000 EU). The residual is Stage-shaped, from +1.21 decades at Stage III
 to −13.69 at Stage XIV. The proxy itself is checkable and imperfect: against the
 nineteen attested Strike Force figures it agrees seven times and is out by one to
 seven Grades on the rest.
+
+Those counts are the corrected ones. WAR-9 read 25 in band and 65 at the best
+constant, because two things in the fit were wrong and WAR-71 fixed them: a
+figure on a table row that gates itself was read against the page's entry Stage
+rather than its own, and Part Nineteen's Tier 5 η was the mirror's pre-ruling
+0.50–0.60 rather than R44-4's 0.60–0.70. Neither is a card correction and
+neither touches the constant; `reports/eu_band_sweep_2026-09-25.md` states both
+runs' counts side by side. The draft Part and `ledger_tables.json` were **not**
+rebuilt under WAR-71 and still carry WAR-12's arithmetic: rerunning
+`ledger_tables.py` against the corrected fit moves Naiser Yukari's fallback η
+from 0.55 to 0.65 in four places, and the Part is written on top of those tables,
+so the two move together or not at all. That rebuild is WAR-12's and is filed
+separately.
 
 Logged as `CONFLICTS.md` C-034 (the measured conversion and the unordered
 reserves), C-035 (the AU/s formula fails on 26 of 29 cards), C-036 (the S/SS gap

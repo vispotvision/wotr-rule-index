@@ -31,8 +31,10 @@ Two families of figure are tested separately, because Part Four measures
     since a reserve is not a strike.
 
 "Their stated Grade" reads three ways and the test is run under each:
-`stage_max`, Part Five's Max Grade for the Stage the page states, the only Grade
-nearly every page supplies and the default for the per-anchor tables below;
+`stage_max`, Part Five's Max Grade for the Stage the figure's own line states
+where the table it sits in gates its rows one by one, else the Stage the page
+states — the only Grade nearly every page supplies, and the default for the
+per-anchor tables below (`stage_basis` on each row says which was read);
 `card_stated`, a Grade the card writes on its own Stage or Ceiling line; and
 `peak_primary`, the highest Primary Grade in the card's stat table, since Part
 Four says the fight is decided by the peak.
@@ -103,11 +105,20 @@ def main() -> int:
         t = re.match(r"([0-9])", s["tier_of_standing"])
         stage_tier[n] = int(t.group(1)) if t else None
 
-    tier_eta = {}
+    # Part Nineteen's efficiency table, with any cell a live ruling has corrected
+    # already substituted in `anchors.json`. Where a row carries a ruling, the η
+    # a figure reads is the ruling's and `eta_from` says so by id, so a reader
+    # never has to wonder whether the fit saw it (R44-4, Tier 5 — WAR-71).
+    tier_eta, tier_eta_from = {}, {}
     for e in system["eta_by_tier"]:
         t = re.match(r"([0-9])", e["tier"])
         if t and e["eta_low"] is not None:
             tier_eta[int(t.group(1))] = (e["eta_low"], e["eta_high"])
+            ruled = e.get("corrected_by_ruling")
+            tier_eta_from[int(t.group(1))] = (
+                f"Part Nineteen, Tier {t.group(1)} midpoint, as corrected by "
+                f"{ruled['ruling']}" if ruled else
+                f"Part Nineteen, Tier {t.group(1)} midpoint")
 
     # η as each page states it. A page can state it more than once (a Tier range
     # in the architecture block, an exact figure on the flow line); the one
@@ -137,6 +148,21 @@ def main() -> int:
     def stated(a) -> dict:
         return pages.get(a["source"]["file"], {})
 
+    # Which Stage a figure is read against. A page's Stage field is the page's;
+    # where the table a figure sits in gates its rows one by one, the row states
+    # a Stage of its own and that one governs for that figure — Rusashin enters
+    # at Stage III and gates Form IX at Stage IX–X, so Form IX's cost is not a
+    # Stage III figure (WAR-71). `anchors.json` carries the cell it was read
+    # from; nothing is decided here that the line does not write.
+    def stage_of(a) -> tuple:
+        page_n = stage_number(stated(a).get("temperance_stage"))
+        gate = a.get("stage_on_the_line")
+        if gate:
+            n = stage_number(gate["stage"])
+            if n is not None:
+                return n, gate["basis"], page_n, gate
+        return page_n, "the Stage the page states", page_n, None
+
     # peak Primary Grade where the page's stat table parsed
     order = [g["grade"] for g in system["grade_bands"]]
     peak_grade: dict[str, str] = {}
@@ -151,7 +177,7 @@ def main() -> int:
             if a["value"] is None:
                 continue
             f = a["source"]["file"]
-            n = stage_number(stated(a).get("temperance_stage"))
+            n, stage_basis, page_stage, gate = stage_of(a)
             if reading == "stage_max":
                 grade = stage_grade.get(n) if n else None
             elif reading == "card_stated":
@@ -159,7 +185,11 @@ def main() -> int:
             else:
                 grade = peak_grade.get(f)
             if grade is None or grade not in grade_band:
-                out.append({**base(a, family), "stage": n, "grade": None,
+                out.append({**base(a, family), "stage": n,
+                            "stage_basis": stage_basis,
+                            "stage_stated_on_the_page": page_stage,
+                            "stage_on_the_line": gate,
+                            "grade": None,
                             "grade_reading": reading,
                             "skipped": "no Grade available for this reading"})
                 continue
@@ -169,11 +199,14 @@ def main() -> int:
             else:
                 rng = tier_eta.get(stage_tier.get(n))
                 if not rng:
-                    out.append({**base(a, family), "stage": n, "grade": grade,
+                    out.append({**base(a, family), "stage": n,
+                                "stage_basis": stage_basis,
+                                "stage_stated_on_the_page": page_stage,
+                                "stage_on_the_line": gate, "grade": grade,
                                 "skipped": "no η on the page and none for the Stage's Tier"})
                     continue
                 eta = (rng[0] + rng[1]) / 2
-                eta_from = f"Part Nineteen, Tier {stage_tier[n]} midpoint"
+                eta_from = tier_eta_from[stage_tier[n]]
             lo, hi = grade_band[grade]
             # the k that would land this figure on its band's geometric centre —
             # the spread of these across anchors is the whole question
@@ -181,6 +214,9 @@ def main() -> int:
             row = {
                 **base(a, family),
                 "stage": n,
+                "stage_basis": stage_basis,
+                "stage_stated_on_the_page": page_stage,
+                "stage_on_the_line": gate,
                 "grade": grade,
                 "grade_reading": reading,
                 "peak_primary_grade": peak_grade.get(f),
@@ -360,7 +396,7 @@ def main() -> int:
     for j in measured:
         f = j["source"]["file"]
         lo, hi = jfig(j)
-        n = stage_number(pages.get(f, {}).get("temperance_stage"))
+        n, stage_basis, page_stage, gate = stage_of(j)
         proxy = stage_grade.get(n) if n else None
         attested_hi, attested_lo = grade_of(hi), grade_of(lo)
         steps = None
@@ -374,6 +410,9 @@ def main() -> int:
             "grade_attested_low": attested_lo,
             "grade_attested_high": attested_hi,
             "stage": n,
+            "stage_basis": stage_basis,
+            "stage_stated_on_the_page": page_stage,
+            "stage_on_the_line": gate,
             "grade_from_stage_proxy": proxy,
             "card_stated_grade": pages.get(f, {}).get("stated_grade"),
             "peak_primary_grade": peak_grade.get(f),
@@ -586,7 +625,16 @@ def main() -> int:
             "issue": "WAR-9",
             "conversion_tested": "1 EU = 1 MJ of potential; delivered = EU × η; 1 AU/s = 1 MW",
             "grade_read_from": ("where the page states joules, the page; otherwise the proxy — "
-                                "Part Five's Max Grade for the Stage the page states"),
+                                "Part Five's Max Grade for the Stage the figure's own line "
+                                "states where its table gates each row, else the Stage the "
+                                "page states (WAR-71; `stage_basis` per row)"),
+            "eta_read_from": ("the η the page states nearest the figure, else Part Nineteen's "
+                              "midpoint for the Stage's Tier of Standing — with Tier 5 taken "
+                              "at R44-4's 0.60–0.70 rather than the mirror's pre-ruling "
+                              "0.50–0.60, since the page edit the ruling names has not yet "
+                              "returned through the sync (WAR-71). `eta_from` per row names "
+                              "the ruling where it applies; anchors.json, "
+                              "system.eta_by_tier, quotes it."),
             "residual_unit": "decades (log10) outside the Grade's joule band; 0.0 = inside",
             "joules_defined_by": {
                 "source": {"file": "wiki/Fracture of Worlds — The Living System/"

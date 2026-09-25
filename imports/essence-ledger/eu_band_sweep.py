@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 """WAR-46 — the R44-1 EU-band sweep. Reads imports/essence-ledger/fit.json and
-writes reports/eu_band_sweep_2026-09-25.md. Reads only; changes no card figure."""
+writes reports/eu_band_sweep_2026-09-25.md. Reads only; changes no card figure.
+
+Regenerated for WAR-71 against the corrected fit: every figure is now read
+against the Stage its own line states where its table gates each row, and the
+Tier 5 η is R44-4's. The `GATE` reason is gone with the defect it recorded."""
 import json, math, re, collections
 
 FIT = json.load(open('imports/essence-ledger/fit.json'))
@@ -10,11 +14,6 @@ ROWS = FIT['reserves'] + FIT['costs']
 C040 = sorted({r['entity'] for r in FIT['grade_proxy_check']['rows']
                if r.get('measure') == 'strike' and r.get('grades_apart') not in (0, None)})
 assert len(C040) == 12, C040
-
-ROM = {'I':1,'II':2,'III':3,'IV':4,'V':5,'VI':6,'VII':7,'VIII':8,'IX':9,'X':10,
-       'XI':11,'XII':12,'XIII':13,'XIV':14}
-GATE_CELL = re.compile(r'\|\s*Stage\s+(XIV|XIII|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I)'
-                       r'(?:\s*[–-]\s*(XIV|XIII|XII|XI|X|IX|VIII|VII|VI|V|IV|III|II|I))?\s*\|')
 
 # A line is not a card figure only where it says so of itself. "extrapolated" is
 # deliberately not a trigger: Aurelian Prudentius's reserve says how it was arrived at
@@ -30,11 +29,6 @@ def classify(r):
     if any(ent.startswith(n.split(' ·')[0].split(' —')[0]) for n in C040):
         return 'C-040', ('the Stage-to-Grade chain that sets this band is contested on '
                          'this card by name')
-    m = GATE_CELL.search(r['verbatim'])
-    if m and ROM[m.group(1)] != r['stage']:
-        gate = m.group(1) + ('–' + m.group(2) if m.group(2) else '')
-        return 'GATE', ('the line states its own gate, Stage %s, not the Stage %s the '
-                        'band was read from' % (gate, r['stage']))
     low = r['verbatim'].lower()
     if any(t in low for t in NOTCARD):
         return 'NOT-A-CARD-FIGURE', ('the line states the figure is an estimate or is not '
@@ -77,8 +71,17 @@ def main():
     w('Ruling: `RULINGS.md`, 2026-09-25, C-034; '
       '`rules/doc-essence-ledger-rulings-2026-09-25.yaml` R44-1.')
     w('Input: `imports/essence-ledger/fit.json` (`reserves`, `costs`, `grade_proxy_check`), '
-      'built for WAR-9.')
-    w('Written by the Stat Keeper, 2026-09-25. **No card figure was changed by this sweep.**')
+      'built for WAR-9 and corrected for WAR-71.')
+    w('Written by the Stat Keeper, 2026-09-25; regenerated the same day against the '
+      'corrected fit. **No card figure was changed by this sweep.**')
+    w('')
+    w('Two defects this sweep found in the fit it reads have since been fixed in the '
+      'extractor (WAR-71), and this file is the run after that fix. A figure on a table '
+      'row that states its own gate Stage is now read against that Stage rather than '
+      'against the page\'s entry Stage, and the Tier 5 η is R44-4\'s 0.60–0.70 rather '
+      'than the mirror\'s pre-ruling 0.50–0.60. The counts below moved accordingly and '
+      'the `GATE` reason is gone with the defect that produced it; §"What moved when the '
+      'fit was corrected" records what changed.')
     w('')
     w('## What the ruling asks for, and what it supplies')
     w('')
@@ -107,10 +110,20 @@ def main():
     w('## The reading')
     w('')
     w('Each attested EU figure is converted at 1 EU = 1 MJ, taken through the η that its '
-      'page states (or the Part Nineteen tier midpoint where the page states none), and '
-      'read against the attack-output band that its Stage\'s Max Grade claims in Part Four. '
-      'The chain is Part Five\'s Stage gate table → the Stage\'s Max Grade → Part Four\'s '
-      'joule column.')
+      'page states (or the Part Nineteen tier midpoint for its Stage\'s Tier of Standing '
+      'where the page states none), and read against the attack-output band that its '
+      'Stage\'s Max Grade claims in Part Four. The chain is Part Five\'s Stage gate table → '
+      'the Stage\'s Max Grade → Part Four\'s joule column.')
+    w('')
+    w('"Its Stage" is the Stage the figure\'s own line states where the table it sits in '
+      'gates its rows one by one, and the Stage the page states otherwise — `stage_basis` '
+      'on every row of `fit.json` says which was read. Where the η comes off Part '
+      'Nineteen\'s Tier 5 row it is the ruled 0.60–0.70, midpoint 0.65: R44-4 corrects that '
+      'cell and the mirror has not re-exported it yet, so `anchors.json` keeps the mirror\'s '
+      'row in `verbatim` and reads the ruling\'s figures.')
+    w('')
+    w('> Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen\'s '
+      'Tier 5 row is corrected to match.')
     w('')
     w('Part Five, `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and '
       'Thresholds (Parts Four–Ten).md:67`:')
@@ -149,15 +162,48 @@ def main():
     w('| misses that read **above** their band | %d |' %
       sum(1 for r in out if r['decades_delivered'] > 0))
     w('')
-    w('The WAR-11 card put the miss at 137 of 165; this sweep reads 130 of %d, the '
+    w('The WAR-11 card put the miss at 137 of 165; this sweep reads %d of %d, the '
       'difference being the figures that carry no band and the duplicate anchors '
       '`fit.json` keeps apart. The direction is one-sided: %d of the %d misses read '
       'below the band their Stage claims, most of them by two decades or more.'
-      % (len(banded), sum(1 for r in out if r['decades_delivered'] < 0), len(out)))
+      % (len(out), len(banded), sum(1 for r in out if r['decades_delivered'] < 0), len(out)))
+    w('')
+    w('## What moved when the fit was corrected')
+    w('')
+    w('The first run of this sweep, before WAR-71, read 25 of 155 in band and 130 out, six '
+      'of the misses above their band, and logged the reasons `C-040` 48, `GATE` 4, '
+      '`NOT-A-CARD-FIGURE` 11, `DERIVED` 2, `NO-TARGET` 65. Two corrections to the fit it '
+      'reads moved those counts, and neither is a card correction:')
+    w('')
+    w('- **the Stage a gated row is read against.** `imports/essence-ledger/extract_anchors.py` '
+      'now carries the Stage a table row states for itself wherever the table gates its rows '
+      'one by one, and `fit.py` reads that Stage. %d figures in the corpus carry such a '
+      'Stage. On `The Disciplines/'
+      'Rusashin — The Dust That Remembers What It Touched.md` the four Forms the fit had been '
+      'reading against Stage III, the discipline\'s entry, are read at the Stages its `Gate` '
+      'column writes: Form II at IV, Form VII at VII–VIII, Form VIII at VIII–IX, Form IX at '
+      'IX–X, each taken at the low end of its range, the Stage the row opens at. Form II at '
+      '4,000 EU lands inside B-Grade and leaves the log; the other three flip from above '
+      'their band to below it and are logged `NO-TARGET`. The `GATE` reason existed only to '
+      'record this misreading and is gone with it.'
+      % sum(1 for r in ROWS if r.get('stage_on_the_line')))
+    w('- **the Tier 5 η.** R44-4 corrects Part Nineteen\'s Tier 5 row from 0.50–0.60 to '
+      '0.60–0.70 and the page edit it names has not come back through the hourly sync, so '
+      '`build_anchors.py` now reads the ruling\'s figures and keeps the mirror\'s row in '
+      '`verbatim` (`anchors.json`, `system.eta_by_tier`, `corrected_by_ruling`). %d lines '
+      'take their η there, one more than the fifteen the first run counted, because Rusashin '
+      'Form VII moved onto Stage VII and so onto Tier 5 with the first correction. Every '
+      'delivered figure on them rises 18%%. `Spellcraft/Vainglory.md:28` at 75,000 EU was '
+      'the only row within that distance of a band edge and it is now inside the band, so it '
+      'leaves the log too.' % sum(1 for r in ROWS if 'Tier 5' in (r.get('eta_from') or '')))
+    w('')
+    w('Nothing else moved: the same 155 figures carry a band, the same %d carry none, and '
+      'the twelve cards `C-040` names are the same twelve. No card figure was changed by '
+      'either correction, and neither touches the constant.' % len(skipped))
     w('')
     w('## Why no figure was set')
     w('')
-    w('Five reasons, in the order they were applied. Each line in the log carries exactly '
+    w('Four reasons, in the order they were applied. Each line in the log carries exactly '
       'one.')
     w('')
     w('| reason | lines | what it means |')
@@ -166,9 +212,6 @@ def main():
       'names, where the Stage-to-Grade chain is measured out by one to seven Grades. The '
       'band itself is contested on that card, so the correction depends on C-040 and this '
       'issue stops rather than deciding it. |' % reasons['C-040'])
-    w('| `GATE` | %d | The line states its own gate Stage in the table cell, and it is not '
-      'the Stage the band was read from. The miss is in the reading, not demonstrably in '
-      'the figure. |' % reasons['GATE'])
     w('| `NOT-A-CARD-FIGURE` | %d | The line says in words that the figure is an estimate, '
       'an extrapolation or not stated on the card. R44-1 names *card figures*; extending it '
       'to these would extend a ruling to a case it does not name (house rule 3.2). |'
@@ -196,21 +239,24 @@ def main():
       'largest row. Correcting the EU to agree with them would land the figure further '
       'outside the band the ruling reads it against, not inside it.')
     w('')
-    w('## The log — 130 lines, nothing set')
+    w('## The log — %d lines, nothing set' % len(out))
     w('')
     w('`dec` is decades (log₁₀) outside the band, delivered through η; negative reads below '
-      'the band, positive above. `band` is the Stage\'s Max Grade.')
+      'the band, positive above. `band` is the Stage\'s Max Grade. A Stage marked *(own '
+      'gate)* was read off the line\'s own gate cell rather than off the page.')
     w('')
-    w('| entity | file:line | Stage | band | EU | J at 1 MJ, delivered | dec | reason |')
-    w('|---|---|---|---|---|---|---|---|')
+    w('| entity | file:line | Stage | band | EU | η | J at 1 MJ, delivered | dec | reason |')
+    w('|---|---|---|---|---|---|---|---|---|')
     for r, code, why in logged:
-        w('| %s | `%s:%d` | %s | %s | %s | %s | %+.2f | `%s` |' % (
+        stage = ('%s *(own gate)*' % r['stage'] if r.get('stage_on_the_line')
+                 else str(r['stage']))
+        w('| %s | `%s:%d` | %s | %s | %s | %.2f | %s | %+.2f | `%s` |' % (
             r['entity'].replace('|', '\\|'),
             r['source']['file'], r['source']['line'],
-            r['stage'], r['grade'], fmt(r['eu']),
+            stage, r['grade'], fmt(r['eu']), r['eta'],
             '%.3g' % r['delivered_j_at_1MJ'], r['decades_delivered'], code))
     w('')
-    w('### The four figures with no Grade available, read against nothing')
+    w('### The %d figures with no Grade available, read against nothing' % len(skipped))
     w('')
     w('| entity | file:line | EU | why |')
     w('|---|---|---|---|')
@@ -219,7 +265,7 @@ def main():
                                           r['source']['file'], r['source']['line'],
                                           fmt(r['eu']), r['skipped']))
     w('')
-    w('## Three things found on the way, none of them a card correction')
+    w('## Two things found on the way, neither of them a card correction')
     w('')
     w('**One. The sweep\'s worst residual is a figure the card says is final.** '
       '`Volume I — Character Cards/Aurelian Prudentius Custos Clausorum · The Primate.md:85` '
@@ -235,27 +281,22 @@ def main():
       '`meta.stage_xiv_reading`). Three readings meet on this one line and R44-1 names none '
       'of them.')
     w('')
-    w('**Two. The fit reads a Discipline page\'s entry Stage onto every Form in its cost '
-      'table.** `The Disciplines/Rusashin — The Dust That Remembers What It Touched.md` '
-      'gates each Form in its own `Gate` column — Form II at Stage IV, Form VII at Stage '
-      'VII–VIII, Form VIII at Stage VIII–IX, Form IX at Stage IX–X — and `fit.json` reads '
-      'all of them against Stage III, the discipline\'s entry. Those four rows are four of '
-      'the six figures in the whole sweep that read *above* their band; the other two are '
-      'reserves. Read instead against the Stage each line itself states — same η, 0.40, '
-      'which is the Tier 3 midpoint and would itself move with the Stage — Form II at 4,000 '
-      'EU lands inside B-Grade, and the other three flip from above their band to below it. '
-      'Neither reading is offered here as the right one. The four are logged `GATE` and '
-      'nothing was touched; the extractor is `imports/essence-ledger/build_anchors.py` and '
-      'the fix belongs to whoever owns that file, not to a card.')
-    w('')
-    w('**Three. R44-4 has moved the η the fit used on fifteen lines.** Those lines take η '
-      'from "Part Nineteen, Tier 5 midpoint", 0.55 under the old table. R44-4 corrects Tier '
-      '5 to 0.60–0.70, midpoint 0.65, so every delivered-joule figure on those fifteen lines '
-      'is 18% low as `fit.json` stands. One line changes status: `Spellcraft/Vainglory.md:28` '
-      'at 75,000 EU is logged here at −0.05 decades below the A-Grade floor and sits inside '
-      'the band once the ruled η is used. It is logged `NOT-A-CARD-FIGURE` regardless, its '
-      'own line reading "Not stated on the card", so the sweep\'s disposition does not turn '
-      'on it. No other line flips.')
+    above = [r for r in out if r['decades_delivered'] > 0]
+    fams = collections.Counter(r['family'] for r in above)
+    w('**Two. Once each figure is read against its own Stage, almost every miss reads '
+      '%s its band.** %d of the %d misses read above their band and the other %d below, and '
+      'the ones above are %s — %s. Read that way a stored pool can sit above what its Stage '
+      'may throw while every attested spend for a working comes in under it, which is a '
+      'shape and not a correction. Nothing here says which side of the proxy is wrong, and '
+      'the misses that remain above their band are logged like the rest.'
+      % ('below' if len(above) * 2 < len(out) else 'above',
+         len(above), len(out), len(out) - len(above),
+         ' and '.join('%d %s%s' % (n, f, '' if n == 1 else 's')
+                      for f, n in sorted(fams.items())),
+         ', '.join('%s at %+.2f, `%s:%d`'
+                   % (r['entity'], r['decades_delivered'],
+                      r['source']['file'], r['source']['line'])
+                   for r in sorted(above, key=lambda r: -r['decades_delivered']))))
     w('')
     w('## What would let this sweep run')
     w('')
@@ -271,7 +312,8 @@ def main():
     w('- a rule that the figure is correct and the Stage on the card is what moves, which is '
       'C-040\'s other direction and belongs with C-040;')
     w('- a rule that an EU reserve is not read against an attack-output band at all, which '
-      'would take most of the 130 out of scope and leave the costs.')
+      'would take %d of the %d out of scope and leave the costs.'
+      % (sum(1 for r in out if r['family'] == 'reserve'), len(out)))
     w('')
     w('Until one of them exists, R44-1 is applied as far as it reaches: the constant is '
       'settled, the misses are counted, and every card stands exactly as written.')

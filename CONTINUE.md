@@ -6,6 +6,50 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-71 — the two defects WAR-46 found in the fit are fixed)
+
+**Both were in the extractor, neither was a card.** WAR-46's sweep logged two
+things it could not act on, and WAR-71 fixed them at source in
+`imports/essence-ledger/`, rebuilt `anchors.json` and `fit.json`, and regenerated
+`reports/eu_band_sweep_2026-09-25.md` from the corrected fit. **No card figure
+moved, the constant did not move, and no conflict was resolved.**
+
+**One: a gated table row is read against its own Stage.** `extract_anchors.py`
+now carries the Stage a table row states for itself wherever the table gates its
+rows one by one (`row_gate` → `anchors.json`'s `stage_on_the_line` → `fit.py`'s
+`stage_basis`). The test is mechanical and deliberately narrow: the column has to
+be named `Gate` / `Stage` / `Temperance`, and the cell has to be a Stage
+statement **and nothing else**. That is what keeps it off Sinclair Mercer's
+`Gate` column (Wellspring gates — "Fate VIII") and off Tier Grade, Bands & the
+Aether Shell's `Temperance cluster`, which the page itself says binds nothing. A
+range cell is read at its low end, the Stage the row opens at, and `stage_high`
+keeps the other end. Four figures in the corpus carry one, all four the Rusashin
+Forms; the Nadi Forms table has the same shape and its costs are `EU/s` rates the
+sweep refuses by design, so nothing there to read.
+
+**Two: Part Nineteen's Tier 5 η is R44-4's.** The ruling corrects that cell to
+0.60–0.70 and the Notion edit it names has not come back through the hourly sync,
+so the mirror still writes 0.50–0.60. `build_anchors.py` now substitutes the
+ruling's figures in one named place (`ETA_TIER_RULINGS`), quoting R44-4 verbatim
+and keeping the mirror's row untouched in `verbatim`; the pre-ruling numbers stay
+beside them as `*_as_the_mirror_writes_it`, and `fit.json`'s `eta_from` names the
+ruling by id on the 16 rows that read there.
+
+**What the numbers did.** In band at 1 EU = 1 MJ: 25 of 155 → **27 of 155**. Best
+single constant still 6.2×10⁶ J/EU, in band 65 → **67**. Misses 130 → **128**
+(Rusashin Form II at 4,000 EU lands in B-Grade; `Spellcraft/Vainglory.md:28` at
+75,000 EU lands in A-Grade at the ruled η). Readings *above* band 6 → **2**, and
+both survivors are reserves. The `GATE` reason is gone from the sweep with the
+defect it recorded; the other three Rusashin Forms flip to below band and are
+logged `NO-TARGET`, which is why `NO-TARGET` went 65 → 68. The Stage III mean
+residual went +0.98 → +1.21 because only Naori Yukari is left there.
+
+**What was deliberately not rebuilt.** `ledger_tables.json` and the draft Part
+(`the-essence-ledger.md`). Rerunning `ledger_tables.py` against the corrected fit
+moves Naiser Yukari's fallback η from 0.55 to 0.65 in four places, and the Part is
+written on top of those tables — the two move together or not at all, and that is
+WAR-12's work. Filed as a follow-up, not done here.
+
 ## State on 2026-09-25 (WAR-96 — R44-1..R44-6 are now in RULINGS.md)
 
 **The record exists.** Six `RULINGS.md` entries, one per row, logged with

@@ -503,3 +503,13 @@
   opened_session: 1
   due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.
   status: open
+- id: L053
+  category: who knows what
+  who: Sodoku Moto about Sonzai
+  text: Sodoku credits the man placed inside the Tenrai column to Sonzai — 'That is his hand and nobody
+    else's' — in his own head, on no evidence the page gives, and nobody in the scene hears the attribution
+    or corrects it.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When Sodoku says Sonzai's name to anyone who knows who actually built the turning.
+  status: open

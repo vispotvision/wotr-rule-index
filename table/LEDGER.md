@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 51 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 52 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -54,6 +54,7 @@ Generated from table/ledger.yaml by WOTR MCP. 51 open lines. `due()` says what c
 - `L041` Lorn Stark holds three reports that do not agree, knows two of them are paid, does not know which two, and the lie stands uncorrected when the muster marches out.  *(due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the three.)*
 - `L042` Every channel Edward Lambert runs north of the Ashgate road stopped reporting between the fourth and the fifth hour, and he cannot say whether it is the weather; Sonzai's last confirmed sighting is nine days old and from a man he does not trust.  *(due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed closed.)*
 - `L052` Sodoku alone knows his brother and Zuberi are four hundred miles north and west, together, running at an output no living body sustains in front of something whose edge he went looking for and could not find, and he can do nothing at all with the knowing.  *(due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.)*
+- `L053` Sodoku credits the man placed inside the Tenrai column to Sonzai — 'That is his hand and nobody else's' — in his own head, on no evidence the page gives, and nobody in the scene hears the attribution or corrects it.  *(due: When Sodoku says Sonzai's name to anyone who knows who actually built the turning.)*
 
 ## reputation
 

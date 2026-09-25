@@ -428,3 +428,13 @@
   opened_session: 1
   due: When the claim reaches Bram, the Seat, or the roll.
   status: open
+- id: L046
+  category: reputation
+  who: Sodoku Moto
+  text: The yard at Kharven-Seat goes quiet in a rolling wave as Sodoku crosses it, which Lorn judges
+    is not the quiet of respect; the men who had never seen the beast make a sound that is not a cheer,
+    and he rides out ahead of the whole muster on it.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: 3
+  status: open

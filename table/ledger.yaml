@@ -493,3 +493,13 @@
   opened_session: 1
   due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.
   status: open
+- id: L052
+  category: who knows what
+  who: Sodoku Moto, alone
+  text: Sodoku alone knows his brother and Zuberi are four hundred miles north and west, together, running
+    at an output no living body sustains in front of something whose edge he went looking for and could
+    not find, and he can do nothing at all with the knowing.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.
+  status: open

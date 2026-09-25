@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 50 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 51 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -53,6 +53,7 @@ Generated from table/ledger.yaml by WOTR MCP. 50 open lines. `due()` says what c
 - `L040` Seiji Tenrai Moto sent four riders out on four routes at the second hour: by tonight the Seat is to have three reports that the column is moving on the Stormfold road and one that the Brine crossing is already taken, all four signed by hands the Seat's clerks know. Three had reached Lorn Stark by the seventh hour. The column marches directly at the Seat.  *(due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to be believed, not four.)*
 - `L041` Lorn Stark holds three reports that do not agree, knows two of them are paid, does not know which two, and the lie stands uncorrected when the muster marches out.  *(due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the three.)*
 - `L042` Every channel Edward Lambert runs north of the Ashgate road stopped reporting between the fourth and the fifth hour, and he cannot say whether it is the weather; Sonzai's last confirmed sighting is nine days old and from a man he does not trust.  *(due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed closed.)*
+- `L052` Sodoku alone knows his brother and Zuberi are four hundred miles north and west, together, running at an output no living body sustains in front of something whose edge he went looking for and could not find, and he can do nothing at all with the knowing.  *(due: When Sodoku next has anyone to tell it to, or when word arrives from the northwest.)*
 
 ## reputation
 

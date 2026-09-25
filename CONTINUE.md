@@ -6,6 +6,36 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-113 — `wiki/` is stale in git; do not trust an absence found by grep)
+
+**Until the sync commits again, `wiki/` in git is 2026-09-24 17:15 (`c79211a`).**
+Notion is 290 files ahead, including the character-lore pass: **5** files in git
+carry `Lore · The Life Behind the Card`, **276** carry it in the main checkout's
+working tree. Hild Ice's card has `circlet` twice on the live page and zero times
+in the committed mirror — which is how WAR-106 came to be filed on an absence that
+was not one.
+
+**Before filing any finding whose content is "the card does not say X":**
+
+```bash
+git log -1 --format='%ad  %s' --date=iso -- wiki/    # when the sync last committed
+grep -m1 last_edited "wiki/<the file>"               # what Notion time that file carries
+```
+
+A last `Wiki sync:` commit older than the page's `last_edited` means the absence is
+the mirror's, not canon's. `wiki/` is a cache that carries no staleness signal.
+
+**Why, in one line:** the 2026-09-24 18:00 sync exported all 284 changed pages to
+disk, was killed by the unit's 30-minute timeout before its commit, and
+`wiki/.manifest.json` had already advanced — so every later export correctly says
+`0 to export` and no run will ever redo the work. Then nineteen consecutive runs
+died at `sync.sh:114-118`, a conflict-marker guard that aborts on `RULINGS.md`, a
+file the sync's own path list (`sync.sh:123`) never stages or commits.
+
+Full evidence, with both of WAR-113's suggested causes refuted:
+`reports/wiki_mirror_staleness_2026-09-25.md`. The repair is **WAR-29** and
+**WAR-68** (Marsha Law); nothing was fixed from here, because every repair is in
+`build/*.sh` / `build/*.py` or is a commit of `wiki/`.
 ## State on 2026-09-25 (WAR-71 — the two defects WAR-46 found in the fit are fixed)
 
 **Both were in the extractor, neither was a card.** WAR-46's sweep logged two

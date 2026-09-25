@@ -728,3 +728,17 @@ Recorded as one sentence, and this sentence is what the index row quotes:
 The three cards are the ones the call was put on: Sodoku Moto.md:43 (0.84), Rashani Zettari.md:29 (0.81) and Naiser Yukari, all Stage VI. Nothing is edited.
 
 Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Not a CONFLICTS.md row; raised on the WAR-11 card because the three Stage VI cards state an η above both candidate ranges in C-037. Index row: R44-5-CARD_ETA_GOVERNS_PER_CHARACTER in rules/doc-essence-ledger-rulings-2026-09-25.yaml. Reads alongside R42-12, which held the Class ladder to be the typical path rather than a lock.
+
+## 2026-09-25 — R44-6-BARE_BAND_V_IS_LEVEL_BAND
+
+**The bare "Band V" reading.** Isaac ruled this directly on the Paperclip board on 2026-09-25, answering the WAR-11 questionnaire card "The Essence Ledger — rulings needed". He chose option (a) of the call "Not in Phase 1's rows — the 'stale Band' item. Phase 1 read Raga's 'a fifth of a Band V reserve' as the live Level Band, not the retired Coherence Band. Confirm or correct?" and wrote no words of his own, so the ruling is the option exactly as it was put to him:
+
+> **Confirmed — Level Bands, live; nothing changes** — The brief's "stale Band" item closes with no edit.
+
+Recorded as one sentence, and this sentence is what the index row quotes:
+
+> Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
+
+The two lines the item names, quoted on the WAR-11 questionnaire comment the card was posted with, are `Summoned and Bound/Raga · The Divine Thunder Bear.md:81` ("roughly a fifth of a Band V reserve") and `Volume I — Character Cards/Verinus VII · The Palatine.md:86` ("low for Band V and low deliberately"). Nothing is edited.
+
+Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Not a CONFLICTS.md row; a reading Phase 1 made and logged no conflict over, put to Isaac because it was a reading. Index row: R44-6-BARE_BAND_V_IS_LEVEL_BAND in rules/doc-essence-ledger-rulings-2026-09-25.yaml. Confirms that R43-4's sweep of the retired lettered Coherence Band does not reach these two lines.

@@ -75,8 +75,8 @@
 | YOKO_MISHIRO.md | 4904 |
 | aurelian_word_under_the_hammer.md | 2556 |
 | balance_lesson.md | 2605 |
-| kalaabad_star_crusher.md | 2523 |
-| kalaabad_the_petition.md | 2613 |
+| kaalabad_star_crusher.md | 2523 |
+| kaalabad_the_petition.md | 2613 |
 | niran_malformation.md | 2637 |
 | renard_the_left_of_the_door.md | 4027 |
 | sesk_the_report.md | 2574 |

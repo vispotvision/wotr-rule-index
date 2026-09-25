@@ -658,3 +658,17 @@ Isaac's rules for ruling (the precedence ladder's general rungs), answered in Cl
 7. **Authorship questions are the agents' to decide.** Where an item asks to confirm or flip originated material (e.g. "Did she say it … Confirm or flip", scenes/01_the_vacancy_korvaeth_arc.md:754), the agents choose the reading that best fits the rest of canon and ship it as agent-made canon, logged, which Isaac may overturn.
 
 Context: Doc Kett's WAR-61 comment (2026-09-25): of the thirteen WAR-62 docket items, two were settled by the written text and eleven needed a rung that did not exist; these seven answers supply them. Closes on their own: WAR-39, WAR-40, WAR-43, WAR-44, WAR-47, C-038 (WAR-49), C-039, WAR-50; WAR-53/58 (authorship) go to the agents.
+
+## 2026-09-25 — R44-1-EU_JOULE_ONE_MEGAJOULE
+
+**C-034 — what turns EU into joules.** Isaac ruled this directly on the Paperclip board on 2026-09-25, answering the WAR-11 questionnaire card "The Essence Ledger — rulings needed". He chose option (a) of the call "C-034 — What turns EU into joules?" and wrote no words of his own, so the ruling is the option exactly as it was put to him:
+
+> **One constant, 1 EU = 1 MJ stands; the cards that miss are the error** — The Ledger converts at 1 MJ everywhere. 137 of 165 attested figures then sit outside their Stage's band and each becomes a card correction — a follow-up issue, not this one.
+
+Recorded as one sentence, and this sentence is what the index row quotes:
+
+> One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error; each is a card correction in its own issue, not in this ruling batch.
+
+No card figure is changed by this ruling. `imports/essence-ledger/physics-check.md` (WAR-10) reports that this constant fails against real physics; the ruling is later than that report and is recorded as made.
+
+Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11 (idempotency key war11:essence-ledger-questionnaire:v1), kind ask_user_questions, resolver policy human_only, status answered, resolved 2026-09-25T17:59:14Z; the six answers were a, a, c, a, a, a. Closes CONFLICTS.md C-034. Index row: R44-1-EU_JOULE_ONE_MEGAJOULE in rules/doc-essence-ledger-rulings-2026-09-25.yaml.

@@ -686,3 +686,17 @@ Recorded as one sentence, and this sentence is what the index row quotes:
 No card figure is changed by this ruling.
 
 Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-48 found that the entry the index row quotes did not exist and withheld its sweep for that reason. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Closes CONFLICTS.md C-035. Index row: R44-2-AU_FORMULA_GOVERNS in rules/doc-essence-ledger-rulings-2026-09-25.yaml. The card-by-card table is imports/essence-ledger/fit.json, formula_check.
+
+## 2026-09-25 — R44-3-S_SS_GAP_RANKED_BY_SUBSTAT
+
+**C-036 — the S/SS energy gap in the Part Four Grade table.** Isaac ruled this directly on the Paperclip board on 2026-09-25, answering the WAR-11 questionnaire card "The Essence Ledger — rulings needed". He chose option (c) of the call "C-036 — the Part Four Grade table leaves 2.42672e13 to 4.184e13 J in no Grade at all. How does it close?" and wrote no words of his own, so the ruling is the option exactly as it was put to him:
+
+> **The gap is deliberate — grade that range by the Sub-Stat column** — The table stands exactly as written; an output between 24.3 and 41.8 TJ is ranked by Sub-Stat, not by joules.
+
+Recorded as one sentence, and this sentence is what the index row quotes:
+
+> The gap is deliberate. The Part Four Grade table stands exactly as written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ — is ranked by the Sub-Stat column, not by joules.
+
+No cell changes. The three tables that carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written.
+
+Context: Logged under WAR-96 by Doc Kett, the Canon Clerk, who owns the batch; WAR-72 found that the entry the index rows quote did not exist. Isaac's answer is Paperclip interaction 364556db-a75a-4e23-ab6a-cc9541ecdbcb on WAR-11, status answered, resolved 2026-09-25T17:59:14Z. Closes CONFLICTS.md C-036. Index row: R44-3-S_SS_GAP_RANKED_BY_SUBSTAT in rules/doc-essence-ledger-rulings-2026-09-25.yaml. C-038, the same shape in the travel-speed column, is not named by this ruling and stays open.

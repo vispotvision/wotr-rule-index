@@ -344,3 +344,14 @@
   opened_session: 1
   due: 1
   status: open
+- id: L038
+  category: debts
+  who: Wren Greymane
+  text: 'Wren Greymane chose six hundred men for faith and spent sixteen months of it: they were spat
+    at in their own villages, eleven of them have wives who stopped writing, and three were killed by
+    their own kin.'
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When the six hundred learn what the sixteen months bought, or when anyone outside the column is
+    told the cover was ordered.
+  status: open

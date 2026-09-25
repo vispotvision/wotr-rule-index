@@ -221,6 +221,12 @@ The tightest run in the archive: eleven files covering one morning at Class X, e
 
 ## Every scene, in placed order
 
+In two tables, cut at the muster. The wiki takes at most 100 rows in one table and there
+are 148 scenes here; the cut is where the column leaves for the Ashgate road. No scene is
+in both tables and none has been left out.
+
+### From the Ironwood March to the precinct at Altherion (1-79)
+
 | scene | placed | basis | establishes |
 |---|---|---|---|
 | the_true_king_of_the_north_part_2.md | The Ironwood March, ~12 years before the return | Split file. Its second movement (Zaehaerys rides to confront Fern over the pregnancy) is the earliest datable Kharven material: Hild is 'eleven' in the present- | Two strands set against each other: Hild resolves to tell the coalition the truth about Stannvaard and the winter, and — years earlier — Zaehaerys rides the March to confront Fern over the p |
@@ -302,6 +308,11 @@ The tightest run in the archive: eleven files covering one morning at Class X, e
 | 04_verinus_the_hand_and_the_print.md | The root of the wound, then the Plane of Fate. Continuous | File's own dateline; quoted 'At dawn, in a half-second'. Its second movement closes Darius's nine months in the ash ('seated there since the third month') and l | The Judger's hand takes the Custodia up out of the world and it does not stop standing — the seal is now a door no longer made of Verinus, with Kujo's hairline fault still in it and outside  |
 | 05_aurelian_primate_under_the_wrong_stars.md | Altherion, the precinct. Before dawn | File's own dateline 'Before dawn'; quoted 'the fourth hour', 'the Curia sitting since the second hour', 'a fortnight' underground. | Aurelian comes up out of the cellar fearless and seeing every fate at once, says Dabney Lambert's name aloud in the open, declares that the only path to peace now is war, and puts out a Zeni |
 | 06_aurelian_what_the_lamberts_are_for.md | Altherion, the precinct. Four minutes later | File's own dateline 'Four minutes later'; quoted 'the fourth hour', 'the last hour (Verinus going out of the world)'. Ends with Aurelian announcing he will trav | Aurelian holds twelve futures side by side and chooses the one where he does nothing while Kaalabad beats Charles; the Lambert line's faculty-less read is seen for the first time in two hund |
+
+### From the muster to the Aetherion Academy (80-148)
+
+| scene | placed | basis | establishes |
+|---|---|---|---|
 | 01_wotr_muster_breach_road_north.md | Four places, the same morning. The messengers at the second hour | Quoted: 'the same morning'; 'the messengers went out at the second hour'; 'they had come through at the second hour and they were still coming through at the fi | Both Greymane brothers commit on opposite sides on the same morning — Wren rides north under a false Greymane banner with Seiji Tenrai Moto and Kujo's generals while Bram holds the southern  |
 | 02_wren_bulwark.md | The Ashgate road, the narrows. The ninth hour | File's own dateline 'The ninth hour'; quoted 'sixteen months', 'four seconds', 'eleven months carrying the charges'. | The sixteen-month betrayal springs: six hundred Greymanes turn on the Tenrai column in the narrows and kill the officers in the middle third. The aurora empties into Kaalabad, who draws Zara |
 | 03_wren_three_deliveries.md | The narrows and the ditch bank. Continuous; then Sum-gol, the same morning | File's own datelines 'Continuous' and 'THE ORCHARD ROAD, SUM-GOL, THE SAME MORNING'; quoted 'The third delivery took eleven seconds to arrive'. | Wren Greymane dies pinned to the ditch bank by Zarakal after the second Bulwark comes up a third of a shield and the third does not come up at all, and buys with his last charge the only thi |

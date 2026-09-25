@@ -6,6 +6,11 @@ error. Built by reading all 160 scenes; `placed` carries the position, and the e
 each placement rests on is in CONTINUITY.md beside it. Scenes the text does not locate
 are listed at the end rather than guessed at.
 
+The order runs in two tables, cut at the muster. The wiki takes at most 100 rows in one
+table and there are 148 placed scenes; the numbering runs straight through, 1 to 148.
+
+## Placed, 1-79: from the Ironwood March to the precinct at Altherion
+
 | # | scene | in-world moment (from the text) | placed |
 |---|---|---|---|
 | 1 | the_true_king_of_the_north_part_2.md | The holdfast, the altar room, before she goes down; then the Ironwood March, Fern's holdfast, years earlier. | The Ironwood March, ~12 years before the return |
@@ -87,6 +92,11 @@ are listed at the end rather than guessed at.
 | 77 | 04_verinus_the_hand_and_the_print.md | The root of the wound. Then the Plane of Fate. | The root of the wound, then the Plane of Fate. Continuous |
 | 78 | 05_aurelian_primate_under_the_wrong_stars.md | Altherion. The precinct of the Grand Church, where the Cloister Ward used to be. Before dawn. | Altherion, the precinct. Before dawn |
 | 79 | 06_aurelian_what_the_lamberts_are_for.md | Altherion. The precinct, still. Four minutes later. | Altherion, the precinct. Four minutes later |
+
+## Placed, 80-148: from the muster to the Aetherion Academy
+
+| # | scene | in-world moment (from the text) | placed |
+|---|---|---|---|
 | 80 | 01_wotr_muster_breach_road_north.md | Four places, the same morning. | Four places, the same morning. The messengers at the second hour |
 | 81 | 02_wren_bulwark.md | The Ashgate road, within sight of the Kharven gates. The ninth hour. | The Ashgate road, the narrows. The ninth hour |
 | 82 | 03_wren_three_deliveries.md | The narrows, the Ashgate road. Continuous. Then the orchard road, Sum-gol, the same morning. | The narrows and the ditch bank. Continuous; then Sum-gol, the same morning |

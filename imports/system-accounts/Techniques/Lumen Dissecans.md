@@ -250,9 +250,17 @@ register's failure mode and the page's stated cost are identical. The one thing
 not checkable is the local Aetheric Density ceiling, which has no units
 (`SA-GAP-AETHERIC-DENSITY`).
 
-**One unattested name kept, not invented:** *Thesauriel*, the archive the readings
-feed into, appears only on this page's source card. The page already flags it;
-logged here as `SA-UNATT-THESAURIEL` so it reaches the questionnaire.
+**One name this page has wrong, corrected later in the batch:** *Thesauriel*. This
+page's Origin calls it an archive and declares it *"likewise unattested"*. It is
+attested — Serenyra's card names it twice, as *"Thesauriel, the Mirror Codex ·
+Compendium-focus … Runecraft in a book"* and again in her Craft line — and the card
+makes it an **instrument** rather than a place. The conflict is therefore what it is,
+not whether it exists, and it is mechanical: the Counterplay register's answer to
+Runecraft is *"damage the substrate"*, which reaches a book in her hands and does not
+reach an archive elsewhere. `SA-UNATT-THESAURIEL` was filed here on the page's own
+false premise and was rewritten while accounting for `Speculum Recordatio`; the id is
+kept so this citation still resolves. *The Iridescent Archive, named in the same
+sentence, is genuinely unattested and page-declared.*
 
 **Conflicts logged from this page:** `SA-UNATT-BAND-D-LUMEN`,
 `SA-UNATT-THESAURIEL`, `SA-CROSS-AUS-LADDER`, `SA-GAP-TURN-LENGTH`,
@@ -304,7 +312,8 @@ logged here as `SA-UNATT-THESAURIEL` so it reaches the questionnaire.
 - **Break the man — the archive is a motive.** Her third option on a successful
   read is to *"file it into Thesauriel as new reference data."* A practitioner who
   knows this can offer a working worth filing, and buy the exchange he actually
-  wanted. (*Thesauriel* is unattested outside her card, `SA-UNATT-THESAURIEL`.)
+  wanted. (*Thesauriel* is attested on her card as a carried codex rather than a
+  place, which is a counter as much as a motive: `SA-UNATT-THESAURIEL`.)
 
 **The tell, stated plainly.** A sigil over one eye, a declared cast, a narrow
 beam — and then the target's own working hanging open in the air where everyone

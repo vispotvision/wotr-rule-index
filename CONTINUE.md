@@ -6,6 +6,101 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-24 (the agents)
+
+The first full day of the Paperclip team working the repo. Fifteen commits
+landed on master under the agents' git identity, between 17:19 and 19:36;
+everything earlier in the day under Isaac's name is the book dispatcher, the
+lore publish, the hourly wiki sync and the nightly, not this team.
+
+**What shipped.** The Magic System rulings for the day went in first: `16eb7d8`
+closed C-030..C-033 as R43-1..4, `10709bf` applied the Coherence Band sweep
+across the repo and Notion, and `a71c2f0` was the check pass — 36 pages re-read
+straight from Notion, every surviving lettered Band a deliberate leave, all
+thirty recorded in `reports/coherence_band_sweep_2026-09-24.md` (WAR-2, done).
+Doc Kett then filed C-038 in `CONFLICTS.md` (`db2d9f7`, WAR-16, done): Part
+Four's travel-speed column leaves Mach 4 to Mach 5 in no Grade, the same break
+repeats in metres per second at `TG&B:58`/`:59`, and Anryū Ichimonji's Ink Gate
+transit at Mach 4.8 already lands in the gap. Nothing resolved.
+
+Phenna Menon shipped the first twenty-eight system accounts — Isaac's ask for a
+metaphysical, physical and mechanism account in real essence units for every
+working — as `9b9ee99`, then applied both addenda in four batches, `d56dde8`,
+`a98213a`, `8146db0` and `cd3bc6a`, and filed the questionnaire as `686ed30`:
+`imports/system-accounts/_conflicts.jsonl`, 104 rows, 104 unique ids. All 28
+carry the five sections with a credited lens and a Counterplay lookup trail,
+section 3 is "Mechanism (the effect)" and no account holds a separate effect
+description anywhere. Thirteen of the rows are `effect-mechanism` — a page's
+stated Effect and its Mechanism describing different workings, Celestial
+Harmonic Shear and Dirge Ascension the sharpest — and eight are `fairness`
+(WAR-4, done).
+
+The Essence Ledger took the rest of the evening. Etta Band collected every
+attested EU, AU/s and η figure in the corpus and fitted the EU-to-joule
+constant (`77b298b`), Rhett Konn's review pass added the measured side
+(`5891b28`, with `a9f90b7` restoring C-038, which that commit had dropped), and
+he approved on round two after checking all 692 anchor rows and 1,066 quoted
+lines back to file:line with zero mismatches and no card figure changed
+(WAR-9, done). He left one defect standing rather than holding the phase: the
+2% band-edge filter matched across measure columns. Etta fixed it the same
+evening in `5a0c848` — a figure is now matched only against the ladder for the
+measure its own line states, and only against rows of a table, which moved Karo
+Venrik's Strike Force and Corona Lunaris's superseded 100 GJ from band citation
+to attested (WAR-17, done).
+
+Phenna Menon closed the day with the real-physics check, `9505f80`,
+`imports/essence-ledger/physics-check.md`, 848 lines. The verdict is no: 1 EU =
+1 MJ does not hold and the failure is structural. At the low end Yukazuri Moto's
+Nerve Reading would put 15.4 MJ of waste heat into a body whose whole budget to
+a lethal core temperature is 1.225 MJ; requiring only that spending a reserve
+not cook the practitioner caps the constant at 3,592 J/EU, which is the top of
+the measured band to three figures — two methods that never look at each other
+landing on the same number. At the high end the brief's own figure was out by a
+factor of a thousand, and corrected it is worse: the largest reserve in canon
+cannot pay for one attack at its own Grade's minimum. Two cards break E = mc²
+outright. No constant was adopted and no canon figure moved (WAR-10, in review
+with Rhett Konn).
+
+**What is blocked, and on whom.** WAR-5, the second twenty-eight Techniques, is
+in progress with Phenna Menon and is the live piece of the system-accounts job;
+WAR-6 (the twenty Spellcraft pages, Phenna) and WAR-7 (Rhett's review of the
+accounts against the system and each other) are queued behind it, and the
+parent WAR-3 waits on all three. On the Ledger side WAR-12 (the FoW Part, Etta)
+is held by the physics check now in review, WAR-13 (the nine-name ladders,
+Etta) by WAR-12, and WAR-14 (publish to wiki and Notion, Cody Wix) by WAR-13;
+the parent WAR-8 waits on the lot. WAR-15 — three Yukari cards plus Gimbzo and
+Vethraun naming Temperance Stages Fracture of Worlds does not — is in the
+backlog with Doc Kett and needs no ruling: Pack Twenty's
+`R20C-30-STAGE_NAMES_FROM_FOW` already settles it, the work is applying it.
+
+**What waits on Isaac.** One issue, WAR-11, `blocked-on-isaac` with Doc Kett:
+the Essence Ledger questionnaire. On it sit the η conflict (Aether Class I at
+0.60–0.70 against Tier of Standing 5 at 0.50–0.60), the card-figure
+disagreements Phase 1 surfaced, the stale Coherence Band references the nine
+Tiers of Standing replaced, and C-034 through C-040 — six rows after the
+rewrite, plus C-038. C-036 and C-038 are the same shape, a Tier Grade column
+whose row-pair does not meet, and C-036 now stands in three tables, so a ruling
+that closes it has to name all three or the other two keep the old edges.
+Whether C-036 and C-038 take one ruling or two is his call and the rows say so.
+Nothing else in the repo is waiting on him.
+
+**One environment fault, flagged twice today and still open.** The `wotr` MCP
+server will not start: its interpreter under `/tmp/paperclip-ai-…/.venvs/wotr/`
+no longer exists, so `load_rules`, `fow_line` and `verify_scene` are
+unavailable to every agent, and `build/validate.py` will not run in the default
+shell for the same reason (`pyyaml missing`). Phenna worked around it with a
+throwaway venv in her run scratch dir and touched nothing in the repo to do it.
+If validation is failing for anyone else on this machine, that missing venv is
+why. Rebuilding it is Isaac's.
+
+**Tomorrow's first moves.** Rhett Konn reviews WAR-10; the physics check is the
+hinge for the whole Ledger, and Phases 2, 3 and 4 unblock in order behind it.
+Phenna Menon carries WAR-5 to the end and goes straight into WAR-6. Doc Kett
+takes WAR-15, which needs nobody, and keeps WAR-11 ready so the questionnaire
+can be answered in one sitting whenever Isaac sits down to it. Someone rebuilds
+the `wotr` venv before the first prose run of the day, because nothing written
+can be verified without it.
+
 ## State on 2026-09-24 (fair play, the challenge, and the system accounts)
 
 **Isaac's standing direction, now in the skills:** use everything WOTR holds

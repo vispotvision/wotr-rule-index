@@ -314,3 +314,14 @@
   due: 'Next time he calls anything: every draw from here costs first-call price, and he has already paid
     for an imprint, a constellation net, a recursive warden and Juggernaut''s Fist in one fight.'
   status: open
+- id: L035
+  category: the dead
+  who: Egil Vald
+  text: Egil Vald dies at the twelfth rotation in the breach at the southern reach, a hooked blade under
+    the cuisse and the femoral opened, silently, and the man beside him steps across the gap without being
+    told.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When anyone counts what the hold at the breach cost Bram's three hundred — Egil Vald is the only
+    one of them counted on the page.
+  status: open

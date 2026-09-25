@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 33 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 34 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -9,6 +9,7 @@ Generated from table/ledger.yaml by WOTR MCP. 33 open lines. `due()` says what c
 - `L003` **Freya.** The room with the drain lifted out and the chair with the arms cut short. Sodoku watched all of it, in order, with no part of it refusable, and recognised a man he had eaten with at his own table.
 - `L004` **Seiji Tenrai Moto.** Revoked and entered *elar-ama*, held by nobody. Fifty-one minutes, capillary beds outward, conscious for forty-eight of them.
 - `L005` **Eleven Tenrai retainers**, on a knee around the boy, refusing in Common so the child would understand. Killed slowly, with Kurosetsu, without the cold.
+- `L035` Egil Vald dies at the twelfth rotation in the breach at the southern reach, a hooked blade under the cuisse and the femoral opened, silently, and the man beside him steps across the gap without being told.  *(due: When anyone counts what the hold at the breach cost Bram's three hundred — Egil Vald is the only one of them counted on the page.)*
 
 ## injuries and reserve
 

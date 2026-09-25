@@ -377,3 +377,13 @@
   due: When the Seat commits to a road on the strength of one of the four. Seiji intends two of them to
     be believed, not four.
   status: open
+- id: L041
+  category: who knows what
+  who: Lorn Stark
+  text: Lorn Stark holds three reports that do not agree, knows two of them are paid, does not know which
+    two, and the lie stands uncorrected when the muster marches out.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When the Seat commits to the Stormfold road or the Brine crossing on the strength of one of the
+    three.
+  status: open

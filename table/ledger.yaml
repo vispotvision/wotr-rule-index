@@ -473,3 +473,13 @@
   due: The next time he opens Reigan with anything closing on him — at nine seconds he heard the horse,
     and the sword came out before he had finished coming back.
   status: open
+- id: L050
+  category: debts
+  who: The outer town of Kharven-Seat (four hundred households) against Sodoku Moto
+  text: Four hundred households put a season of winter wood on the fire in one day on Sodoku's asking,
+    and if the road holds they go through the Thin Weeks on borrowed heat and short rations with the death-house
+    taking whatever the cold takes.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: The Thin Weeks, or the first hard night after the road is decided.
+  status: open

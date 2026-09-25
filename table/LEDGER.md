@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 48 open lines. `due()` says what comes due tonight.
+Generated from table/ledger.yaml by WOTR MCP. 49 open lines. `due()` says what comes due tonight.
 
 ## the dead
 
@@ -37,6 +37,7 @@ Generated from table/ledger.yaml by WOTR MCP. 48 open lines. `due()` says what c
 - `L038` Wren Greymane chose six hundred men for faith and spent sixteen months of it: they were spat at in their own villages, eleven of them have wives who stopped writing, and three were killed by their own kin.  *(due: When the six hundred learn what the sixteen months bought, or when anyone outside the column is told the cover was ordered.)*
 - `L043` Edward Lambert rides the Stormfold road with six riders and no banner under orders to find Sonzai, on his own terms: if he is not back in five days Lorn assumes the road is closed and acts accordingly.  *(due: Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road is assumed closed.)*
 - `L044` Lorn Stark stood in a room with Hild's mother and made an arrangement about the girl; he has kept every part of it, reckons that keeping it has cost him more than any oath he has sworn to anyone with a title, and wants it recorded somewhere. The scene neither dates the arrangement nor states its terms.  *(due: When Sodoku claims the girl, or when anyone besides Lorn learns the arrangement was made and what it obliged him to.)*
+- `L050` Four hundred households put a season of winter wood on the fire in one day on Sodoku's asking, and if the road holds they go through the Thin Weeks on borrowed heat and short rations with the death-house taking whatever the cold takes.  *(due: The Thin Weeks, or the first hard night after the road is decided.)*
 
 ## who knows what
 

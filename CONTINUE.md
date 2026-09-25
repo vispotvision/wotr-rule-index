@@ -6,6 +6,18 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (The Master Codex is in the index)
+
+- **The canon Codex is the 2026-09-24 edition** (`$WOTR_TRUE_CANON/The Master Codex.xlsx`; older copies in
+  `true-canon/.superseded/`). It adds Alchemical Index rows 42-61 and, from this session, "Weapon Coating" on the
+  Lists AlchType column. The "For ChatGPT" and "For Gemini" bundles are in the system trash; the one file only
+  they held is now `true-canon/THE MECHANISM OF THE SIXTY.docx`.
+- **`build/codex.py`** (MCP `codex`, `codex_check`) reads the xlsx: `find` for Pack Eighteen 4a, `check` for
+  checks 37-39. It flags "Cymorath" in six archived scenes and "Oblatio" in one; the scenes are untouched.
+- **The Notion Alchemical Index has the twenty new formulas** (sixty-one rows), drafted from the Codex in
+  `imports/alchemy/`. Rows 44, 45, 48, 53 read **Class ?** until **C-058** is ruled; C-055 to C-057 are open
+  beside it. Rows 47 and 60 are written Vohrin · Caloria under R27-1 although the Codex still says Crymorath.
+
 ## State on 2026-09-25 (WAR-48 — sixteen AU/s figures corrected in Notion under R44-2)
 
 R44-2 (`RULINGS.md`, 2026-09-25, logged by WAR-96) rules that **AU/s = Flux Density x eta** governs and

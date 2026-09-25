@@ -98,10 +98,14 @@ fresh ruling on WAR-11, never a Part built at a different number.
 Sub-Stat and the spine in §3 states that carve-out for WAR-13 (C-036), η reads
 0.60–0.70 at Stage VI–VII (C-037), and a card's own η governs per character
 (R44-5) — which is why Naiser Yukari reads 0.89 off his card rather than off a
-Tier row that `fit.json` fell back to. That fallback exists because Phase 1's
-extractor missed his "Aetheric Efficiency" row; the gap is **WAR-94** and
-`ledger_tables.py` patches it in one named place (`CARD_ETA_MISSED_BY_PHASE_1`)
-until it is fixed at source.
+Tier row. `fit.json` used to fall back to that Tier row, because Phase 1's
+extractor missed his "Aetheric Efficiency" row and `ledger_tables.py` patched it
+in one named place. **WAR-94 fixed it at source**: `extract_anchors.py` now
+reaches a label written without the η character and a label held off its number
+by a parenthetical or a closed bold span (`ETA_FIELD`), `anchors.json` carries
+the figure, and the patch is gone. The same sweep found two more card η figures
+and one AU/s the old patterns could not reach — Krothar Thunn-Gorr's 0.76,
+Torven Greis's 0.22 and Krothar Veylshroud's 420,000 AU/s.
 
 **The reserve table the cards say does not exist.** The method was already
 ruled — `Summoned and Bound/Obrenkael · The Mule.md:215`, 2026-09-12: a

@@ -716,7 +716,7 @@
         "stage_stated_on_the_page": 12,
         "stage_on_the_line": null,
         "grade_from_stage_proxy": "SSS",
-        "card_stated_grade": "SSS",
+        "card_stated_grade": null,
         "peak_primary_grade": null,
         "grades_apart": -3,
         "source": {
@@ -1935,7 +1935,7 @@
           "file": "wiki/Volume I — Character Cards/Muken Moto.md",
           "line": 60
         },
-        "reserve_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84",
+        "reserve_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84",
         "strike_source": {
           "file": "wiki/Volume I — Character Cards/Muken Moto.md",
           "line": 56
@@ -2025,21 +2025,21 @@
       "in_band_delivered": 16,
       "in_band_potential": 19,
       "of": 124,
-      "sum_sq_decades_delivered": 2326.960551400418,
+      "sum_sq_decades_delivered": 2325.2527655933995,
       "median_decades_delivered": -1.1511010000385686
     },
     "reserves_only": {
       "in_band_delivered": 11,
       "in_band_potential": 13,
       "of": 31,
-      "sum_sq_decades_delivered": 364.7722026703827,
+      "sum_sq_decades_delivered": 364.39255258806384,
       "median_decades_delivered": -0.20295898850515234
     },
     "all": {
       "in_band_delivered": 27,
       "in_band_potential": 32,
       "of": 155,
-      "sum_sq_decades_delivered": 2691.7327540708006,
+      "sum_sq_decades_delivered": 2689.645318181463,
       "median_decades_delivered": -0.9240136422081046
     }
   },
@@ -2049,21 +2049,21 @@
       "log10_k": 7.7,
       "in_band": 55,
       "of": 124,
-      "sum_sq_decades": 1441.6940634039818
+      "sum_sq_decades": 1441.3783394269844
     },
     "reserves_only": {
       "k_j_per_eu": 3715352.290971728,
       "log10_k": 6.57,
       "in_band": 17,
       "of": 31,
-      "sum_sq_decades": 316.16489889754587
+      "sum_sq_decades": 315.9408321962294
     },
     "all": {
       "k_j_per_eu": 6165950.018614822,
       "log10_k": 6.79,
       "in_band": 67,
       "of": 155,
-      "sum_sq_decades": 2159.8736309991104
+      "sum_sq_decades": 2158.648727537786
     }
   },
   "by_grade_reading": {
@@ -2075,7 +2075,7 @@
         "log10_k": 6.79,
         "in_band": 67,
         "of": 155,
-        "sum_sq_decades": 2159.8736309991104
+        "sum_sq_decades": 2158.648727537786
       },
       "required_k_spread": {
         "n": 155,
@@ -2086,21 +2086,21 @@
       }
     },
     "card_stated": {
-      "tested": 21,
-      "in_band_at_1MJ": 7,
+      "tested": 16,
+      "in_band_at_1MJ": 6,
       "best_fit": {
-        "k_j_per_eu": 3715352.290971728,
-        "log10_k": 6.57,
-        "in_band": 12,
-        "of": 21,
-        "sum_sq_decades": 20.220380568640795
+        "k_j_per_eu": 2951209.226666384,
+        "log10_k": 6.47,
+        "in_band": 9,
+        "of": 16,
+        "sum_sq_decades": 19.05671675785133
       },
       "required_k_spread": {
-        "n": 21,
+        "n": 16,
         "k_min": 33.34396089085933,
-        "k_max": 8077515097.768314,
-        "k_median": 5167387.868478663,
-        "decades_spanned": 8.384260590535222
+        "k_max": 220002822.2504905,
+        "k_median": 4744017.535939367,
+        "decades_spanned": 6.819411064195123
       }
     },
     "peak_primary": {
@@ -2165,7 +2165,7 @@
     },
     "6": {
       "n": 21,
-      "mean_decades_at_1MJ": -0.8120583181200174,
+      "mean_decades_at_1MJ": -0.7860627657386731,
       "median_required_k": 41673468.38313309
     },
     "3": {
@@ -2192,9 +2192,9 @@
       "flux_density": 9400.0,
       "eta": 1.05,
       "expected_au_s": 9870.0,
-      "stated_au_s": 52000.0,
-      "ratio_stated_over_expected": 5.268490374873354,
-      "holds": false,
+      "stated_au_s": 9870.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
         "line": 63
@@ -2204,8 +2204,8 @@
         "line": 63
       },
       "eta_line": 29,
-      "flux_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
-      "au_s_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
+      "flux_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
+      "au_s_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
       "eta_verbatim": "| **Efficiency (η)** | **1.05** — near-zero waste. ***No field pressure, aura warmth, or harmonic noise leaks outward*** |"
     },
     {
@@ -2318,9 +2318,9 @@
       "flux_density": 670000000.0,
       "eta": 0.61,
       "expected_au_s": 408700000.0,
-      "stated_au_s": 98000.0,
-      "ratio_stated_over_expected": 0.00023978468314166872,
-      "holds": false,
+      "stated_au_s": 408700000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md",
         "line": 37
@@ -2330,9 +2330,9 @@
         "line": 37
       },
       "eta_line": 36,
-      "flux_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **98,000 AU/s.**",
-      "au_s_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **98,000 AU/s.**",
-      "eta_verbatim": "**Crystal State** · Forge-Heart, steady burn. **η** · ~0.61, Band C."
+      "flux_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **408,700,000 AU/s.**",
+      "au_s_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **408,700,000 AU/s.**",
+      "eta_verbatim": "**Crystal State** · Forge-Heart, steady burn. **η** · ~0.61, Tier of Standing 5, Expert."
     },
     {
       "entity": "Elion Drevas · The Black Cleric",
@@ -2353,16 +2353,16 @@
       "eta_line": 36,
       "flux_verbatim": "**The fractured Crystal** · Six channels active, three sealed by the tithe itself. Flux Density **9.4 million EU/g.** Aether Output **72,000 AU/s.**",
       "au_s_verbatim": "**The fractured Crystal** · Six channels active, three sealed by the tithe itself. Flux Density **9.4 million EU/g.** Aether Output **72,000 AU/s.**",
-      "eta_verbatim": "**Crystal State** · Bi-lateral fracture; half of it dissolved into Aether flux at the Mirrormass tithe. **η** · ~0.72–0.78, Band A, fluctuating with emotional resonance."
+      "eta_verbatim": "**Crystal State** · Bi-lateral fracture; half of it dissolved into Aether flux at the Mirrormass tithe. **η** · ~0.72–0.78, Tier of Standing 6, Master, fluctuating with emotional resonance."
     },
     {
       "entity": "Garron Vuldane · Warden of Thaumar",
       "flux_density": 13500000.0,
       "eta": 0.86,
       "expected_au_s": 11610000.0,
-      "stated_au_s": 118000.0,
-      "ratio_stated_over_expected": 0.010163652024117141,
-      "holds": false,
+      "stated_au_s": 11610000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Garron Vuldane · Warden of Thaumar.md",
         "line": 39
@@ -2372,9 +2372,9 @@
         "line": 39
       },
       "eta_line": 38,
-      "flux_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 118,000 AU/s.",
-      "au_s_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 118,000 AU/s.",
-      "eta_verbatim": "**Crystal State** · Refined, forge-bound. **η** · 0.86. **Coherence Band A.**"
+      "flux_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 11,610,000 AU/s.",
+      "au_s_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 11,610,000 AU/s.",
+      "eta_verbatim": "**Crystal State** · Refined, forge-bound. **η** · 0.86. **Tier of Standing 6, Master.**"
     },
     {
       "entity": "Gimbzo",
@@ -2416,16 +2416,16 @@
       "eta_line": 46,
       "flux_verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.",
       "au_s_verbatim": "- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.",
-      "eta_verbatim": "**η** · 0.90, at the ceiling of the Band S range. *The legacy figure of 0.91 sat just outside it and has been brought to the boundary rather than invented past it.*"
+      "eta_verbatim": "**η** · 0.90, at the ceiling of the Tier of Standing 7, Grandmaster range. *The legacy figure of 0.91 sat just outside it and has been brought to the boundary rather than invented past it.*"
     },
     {
       "entity": "Iracordas",
       "flux_density": 9400.0,
       "eta": 0.93,
       "expected_au_s": 8742.0,
-      "stated_au_s": 5200.0,
-      "ratio_stated_over_expected": 0.5948295584534431,
-      "holds": false,
+      "stated_au_s": 8742.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Iracordas.md",
         "line": 50
@@ -2436,7 +2436,7 @@
       },
       "eta_line": 52,
       "flux_verbatim": "| **Flux Density** | 9,400 EU/g |",
-      "au_s_verbatim": "| **Aether Output** | 5,200 AU/s |",
+      "au_s_verbatim": "| **Aether Output** | 8,742 AU/s |",
       "eta_verbatim": "| **Efficiency (η)** | **0.93** |"
     },
     {
@@ -2444,9 +2444,9 @@
       "flux_density": 16300000.0,
       "eta": 0.84,
       "expected_au_s": 13692000.0,
-      "stated_au_s": 145000.0,
-      "ratio_stated_over_expected": 0.010590125620800467,
-      "holds": false,
+      "stated_au_s": 13692000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Kael Serradyn · The Burnmark.md",
         "line": 39
@@ -2456,9 +2456,9 @@
         "line": 39
       },
       "eta_line": 38,
-      "flux_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 145,000 AU/s.",
-      "au_s_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 145,000 AU/s.",
-      "eta_verbatim": "**Crystal State** · Hex-Lattice Core with a Solar Overlay. **η** · 0.84, rising under emotional stress. **Coherence Band A.**"
+      "flux_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 13,692,000 AU/s.",
+      "au_s_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 13,692,000 AU/s.",
+      "eta_verbatim": "**Crystal State** · Hex-Lattice Core with a Solar Overlay. **η** · 0.84, rising under emotional stress. **Tier of Standing 6, Master.**"
     },
     {
       "entity": "Kwon Mu-jin",
@@ -2486,9 +2486,9 @@
       "flux_density": 41000.0,
       "eta": 0.92,
       "expected_au_s": 37720.0,
-      "stated_au_s": 118000.0,
-      "ratio_stated_over_expected": 3.1283138918345705,
-      "holds": false,
+      "stated_au_s": 37720.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
         "line": 62
@@ -2499,7 +2499,7 @@
       },
       "eta_line": 64,
       "flux_verbatim": "| **Flux Density** | 41,000 EU/g — **extremely fine spectral compression, making his beams surgical instead of explosive** |",
-      "au_s_verbatim": "| **Aether Output** | 118,000 AU/s — *lets him* *change battlefield light faster than most opponents can adjust vision or stance* |",
+      "au_s_verbatim": "| **Aether Output** | 37,720 AU/s — *lets him change battlefield light faster than most opponents can adjust vision or stance* |",
       "eta_verbatim": "| **Efficiency (η)** | **0.92** — very little wasted glow |"
     },
     {
@@ -2507,9 +2507,9 @@
       "flux_density": 6100000.0,
       "eta": 0.62,
       "expected_au_s": 3782000.0,
-      "stated_au_s": 48000.0,
-      "ratio_stated_over_expected": 0.01269169751454257,
-      "holds": false,
+      "stated_au_s": 3782000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Mavra Cindrel · The Golden Engine.md",
         "line": 37
@@ -2519,18 +2519,18 @@
         "line": 37
       },
       "eta_line": 36,
-      "flux_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **48,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition.",
-      "au_s_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **48,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition.",
-      "eta_verbatim": "**Crystal State** · Dual-Node, syncing. **η** · ~0.62, Band C. *(Original figure 0.89, corrected down per the standing Band-C ruling.)*"
+      "flux_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **3,782,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition.",
+      "au_s_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **3,782,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition.",
+      "eta_verbatim": "**Crystal State** · Dual-Node, syncing. **η** · ~0.62, Tier of Standing 5, Expert. *(Original figure 0.89, corrected down per the standing Band-C ruling.)*"
     },
     {
       "entity": "Mizuki Moto",
       "flux_density": 7900.0,
       "eta": 0.82,
       "expected_au_s": 6478.0,
-      "stated_au_s": 26000.0,
-      "ratio_stated_over_expected": 4.013584439641865,
-      "holds": false,
+      "stated_au_s": 6478.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
         "line": 59
@@ -2540,18 +2540,18 @@
         "line": 30
       },
       "eta_line": 30,
-      "flux_verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**",
-      "au_s_verbatim": "| **Aether Index** | 26,000 AU/s sustained · **η 0.82** |",
-      "eta_verbatim": "| **Aether Index** | 26,000 AU/s sustained · **η 0.82** |"
+      "flux_verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**",
+      "au_s_verbatim": "| **Aether Index** | 6,478 AU/s sustained · **η 0.82** |",
+      "eta_verbatim": "| **Aether Index** | 6,478 AU/s sustained · **η 0.82** |"
     },
     {
       "entity": "Muken Moto",
       "flux_density": 18600.0,
       "eta": 0.84,
       "expected_au_s": 15624.0,
-      "stated_au_s": 72000.0,
-      "ratio_stated_over_expected": 4.608294930875576,
-      "holds": false,
+      "stated_au_s": 15624.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Muken Moto.md",
         "line": 60
@@ -2561,18 +2561,18 @@
         "line": 34
       },
       "eta_line": 34,
-      "flux_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84",
-      "au_s_verbatim": "**Aether Index** · 72,000 AU/s · **η 0.84**",
-      "eta_verbatim": "**Aether Index** · 72,000 AU/s · **η 0.84**"
+      "flux_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84",
+      "au_s_verbatim": "**Aether Index** · 15,624 AU/s · **η 0.84**",
+      "eta_verbatim": "**Aether Index** · 15,624 AU/s · **η 0.84**"
     },
     {
       "entity": "Naevra Yukari",
       "flux_density": 2900.0,
       "eta": 0.96,
       "expected_au_s": 2784.0,
-      "stated_au_s": 18500.0,
-      "ratio_stated_over_expected": 6.6451149425287355,
-      "holds": false,
+      "stated_au_s": 2784.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
         "line": 49
@@ -2583,17 +2583,38 @@
       },
       "eta_line": 51,
       "flux_verbatim": "| **Flux Density** | 2,900 EU/g | **Fine-edged, surgical pressure** designed to pierce spiritual patterns and unravel hostile threads — **bypassing crude defences rather than smashing through them** |",
-      "au_s_verbatim": "| **Aether Output** | 18,500 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |",
+      "au_s_verbatim": "| **Aether Output** | 2,784 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |",
       "eta_verbatim": "| **Efficiency η** | 0.96 | **Near-pristine.** Very little Essence is wasted between intention and manifestation |"
+    },
+    {
+      "entity": "Naiser Yukari",
+      "flux_density": 480.0,
+      "eta": 0.89,
+      "expected_au_s": 427.2,
+      "stated_au_s": 340.0,
+      "ratio_stated_over_expected": 0.7958801498127341,
+      "holds": false,
+      "flux_source": {
+        "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+        "line": 58
+      },
+      "au_s_source": {
+        "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+        "line": 59
+      },
+      "eta_line": 60,
+      "flux_verbatim": "| **Flux Density** | 480 EU/g | Not monstrous like a pure Zettari titan-body, **but far too heavy for someone with his elegance** |",
+      "au_s_verbatim": "| **Aether Output** | 340 AU/s | High enough to overwhelm lesser opponents in layered sequences, **yet controlled enough to avoid waste** |",
+      "eta_verbatim": "| **Aetheric Efficiency** | 0.89 | **Almost all of what he commits lands exactly where intended** |"
     },
     {
       "entity": "Niran Yukari",
       "flux_density": 18400.0,
       "eta": 0.89,
       "expected_au_s": 16376.0,
-      "stated_au_s": 38400.0,
-      "ratio_stated_over_expected": 2.344894968246214,
-      "holds": false,
+      "stated_au_s": 16376.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
         "line": 61
@@ -2603,18 +2624,18 @@
         "line": 28
       },
       "eta_line": 28,
-      "flux_verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*",
-      "au_s_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 38,400 AU/s · **η 0.89** |",
-      "eta_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 38,400 AU/s · **η 0.89** |"
+      "flux_verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*",
+      "au_s_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 16,376 AU/s · **η 0.89** |",
+      "eta_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 16,376 AU/s · **η 0.89** |"
     },
     {
       "entity": "Rashani Zettari",
       "flux_density": 8200.0,
       "eta": 0.81,
       "expected_au_s": 6642.0,
-      "stated_au_s": 24000.0,
-      "ratio_stated_over_expected": 3.6133694670280034,
-      "holds": false,
+      "stated_au_s": 6642.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
         "line": 64
@@ -2625,17 +2646,17 @@
       },
       "eta_line": 29,
       "flux_verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage",
-      "au_s_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 24,000 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |",
-      "eta_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 24,000 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |"
+      "au_s_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 6,642 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |",
+      "eta_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 6,642 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |"
     },
     {
       "entity": "Rengai Zettari",
       "flux_density": 18200.0,
       "eta": 0.78,
       "expected_au_s": 14196.0,
-      "stated_au_s": 68000.0,
-      "ratio_stated_over_expected": 4.790081713158636,
-      "holds": false,
+      "stated_au_s": 14196.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 60
@@ -2646,17 +2667,17 @@
       },
       "eta_line": 29,
       "flux_verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**",
-      "au_s_verbatim": "| **Aether** | 68,000 AU/s · **η 0.78** — *efficient in debris terrain;* *weaker in rain, clean wind, sealed chambers* |",
-      "eta_verbatim": "| **Aether** | 68,000 AU/s · **η 0.78** — *efficient in debris terrain;* *weaker in rain, clean wind, sealed chambers* |"
+      "au_s_verbatim": "| **Aether** | 14,196 AU/s · **η 0.78** — *efficient in debris terrain; weaker in rain, clean wind, sealed chambers* |",
+      "eta_verbatim": "| **Aether** | 14,196 AU/s · **η 0.78** — *efficient in debris terrain; weaker in rain, clean wind, sealed chambers* |"
     },
     {
       "entity": "Serai Linthra · The Serpent Alchemist",
       "flux_density": 7800000.0,
       "eta": 0.91,
       "expected_au_s": 7098000.0,
-      "stated_au_s": 59000.0,
-      "ratio_stated_over_expected": 0.008312200619892927,
-      "holds": false,
+      "stated_au_s": 7098000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Serai Linthra · The Serpent Alchemist.md",
         "line": 39
@@ -2666,9 +2687,9 @@
         "line": 39
       },
       "eta_line": 38,
-      "flux_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 59,000 AU/s.",
-      "au_s_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 59,000 AU/s.",
-      "eta_verbatim": "**Crystal State** · Dual-Nodal, in active synchronization. **η** · 0.91. **Coherence Band B.**"
+      "flux_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 7,098,000 AU/s.",
+      "au_s_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 7,098,000 AU/s.",
+      "eta_verbatim": "**Crystal State** · Dual-Nodal, in active synchronization. **η** · 0.91. **Tier of Standing 6, Master.**"
     },
     {
       "entity": "Sodoku Moto",
@@ -2696,9 +2717,9 @@
       "flux_density": 12600000.0,
       "eta": 0.67,
       "expected_au_s": 8442000.0,
-      "stated_au_s": 91000.0,
-      "ratio_stated_over_expected": 0.01077943615257048,
-      "holds": false,
+      "stated_au_s": 8442000.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Valthren Odrin · The Lantern Scribe.md",
         "line": 39
@@ -2708,9 +2729,9 @@
         "line": 39
       },
       "eta_line": 38,
-      "flux_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 91,000 AU/s.",
-      "au_s_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 91,000 AU/s.",
-      "eta_verbatim": "**Crystal State** · Refined, unstable. **η** · 0.67, fluctuating as the wax burns away. **Coherence Band A.**"
+      "flux_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 8,442,000 AU/s.",
+      "au_s_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 8,442,000 AU/s.",
+      "eta_verbatim": "**Crystal State** · Refined, unstable. **η** · 0.67, fluctuating as the wax burns away. **Tier of Standing 6, Master.**"
     },
     {
       "entity": "Vethraun Ashmaw",
@@ -2759,9 +2780,9 @@
       "flux_density": 13900.0,
       "eta": 0.94,
       "expected_au_s": 13066.0,
-      "stated_au_s": 2850.0,
-      "ratio_stated_over_expected": 0.21812337364151232,
-      "holds": false,
+      "stated_au_s": 13066.0,
+      "ratio_stated_over_expected": 1.0,
+      "holds": true,
       "flux_source": {
         "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
         "line": 61
@@ -2771,9 +2792,9 @@
         "line": 62
       },
       "eta_line": 63,
-      "flux_verbatim": "| **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems,* *cuts recognition**, and drains unstable Essence from the inside* |",
-      "au_s_verbatim": "| **Aether Output** | 2,850 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |",
-      "eta_verbatim": "| **Efficiency (η)** | **0.94** — *claimed Essence is either refined, stored, shaped, or* *discarded into Boundary shadow* |"
+      "flux_verbatim": "| **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems, cuts recognition, and drains unstable Essence from the inside* |",
+      "au_s_verbatim": "| **Aether Output** | 13,066 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |",
+      "eta_verbatim": "| **Efficiency (η)** | **0.94** — *claimed Essence is either refined, stored, shaped, or discarded into Boundary shadow* |"
     },
     {
       "entity": "Yukazuri Moto",
@@ -2894,7 +2915,7 @@
         "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
         "line": 63
       },
-      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
+      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -3047,7 +3068,7 @@
       "grade": "SSS",
       "grade_reading": "stage_max",
       "peak_primary_grade": null,
-      "card_stated_grade": "SSS",
+      "card_stated_grade": null,
       "eta": 0.91,
       "eta_from": "page, line 105",
       "band_j_low": 418400000000000.0,
@@ -3242,7 +3263,7 @@
         "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
         "line": 59
       },
-      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**",
+      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -3271,7 +3292,7 @@
         "file": "wiki/Volume I — Character Cards/Muken Moto.md",
         "line": 60
       },
-      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84",
+      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84",
       "stage": 10,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 10,
@@ -3338,16 +3359,16 @@
       "grade_reading": "stage_max",
       "peak_primary_grade": null,
       "card_stated_grade": null,
-      "eta": 0.6499999999999999,
-      "eta_from": "Part Nineteen, Tier 5 midpoint, as corrected by R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+      "eta": 0.89,
+      "eta_from": "page, line 60",
       "band_j_low": 46024000000.0,
       "band_j_high": 4184000000000.0,
       "potential_j_at_1MJ": 2460000000.0,
-      "delivered_j_at_1MJ": 1598999999.9999998,
-      "k_required_j_per_eu": 274435035.6938033,
+      "delivered_j_at_1MJ": 2189400000.0,
+      "k_required_j_per_eu": 200430082.24828327,
       "skipped": null,
       "decades_potential": -1.2720492539140638,
-      "decades_delivered": -1.4591358972712083
+      "decades_delivered": -1.322659247269151
     },
     {
       "family": "reserve",
@@ -3387,7 +3408,7 @@
         "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
         "line": 61
       },
-      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*",
+      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -3482,7 +3503,7 @@
       "grade": "A",
       "grade_reading": "stage_max",
       "peak_primary_grade": "X",
-      "card_stated_grade": "A",
+      "card_stated_grade": null,
       "eta": 0.84,
       "eta_from": "page, line 86",
       "band_j_low": 46024000000.0,
@@ -5606,7 +5627,7 @@
         "file": "wiki/Volume I — Character Cards/Iracordas.md",
         "line": 67
       },
-      "verbatim": "| **Catenae Furoris** | Condenses rage within a target or zone into **visible black-violet chains.** *The more a victim resists* *in anger**, the hotter and tighter the chains become* — crushing movement, warping posture, **scorching both flesh and soul.** ***Turns an opponent's aggression into the anchor that binds them*** | 1,800 EU |",
+      "verbatim": "| **Catenae Furoris** | Condenses rage within a target or zone into **visible black-violet chains.** *The more a victim resists in anger, the hotter and tighter the chains become* — crushing movement, warping posture, **scorching both flesh and soul.** ***Turns an opponent's aggression into the anchor that binds them*** | 1,800 EU |",
       "stage": 10,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 10,
@@ -5664,7 +5685,7 @@
         "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
         "line": 87
       },
-      "verbatim": "| **Spectral Edict** · White Lance | **Phase-locks photons into a cutting line of light**, 400–700 nm, heating exposed steel 400–900°C. *Pierces armour seams, severs weapons,* *strikes through visor slits or shield gaps.* 28,000 EU + 6,000/s | Reflective wards, ceramic armour, smoke, rotating shields, **spectrum-scrambling fields** |",
+      "verbatim": "| **Spectral Edict** · White Lance | **Phase-locks photons into a cutting line of light**, 400–700 nm, heating exposed steel 400–900°C. *Pierces armour seams, severs weapons, strikes through visor slits or shield gaps.* 28,000 EU + 6,000/s | Reflective wards, ceramic armour, smoke, rotating shields, **spectrum-scrambling fields** |",
       "stage": 8,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 8,
@@ -5751,7 +5772,7 @@
         "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
         "line": 90
       },
-      "verbatim": "| **Faisal's Choir** · First Summoning | Summons **1–7 luminous eidolons for 20–90 seconds**, shaped from Aether carrying Faisal's command-pattern. *Guard allies, intercept arrows, pin demons,* *carry wounded**, attack from multiple angles.* 75,000 EU each + 15,000/s | **Namebreaking rites**, anti-summon circles, shadow Domains, Aether starvation, concentration disruption |",
+      "verbatim": "| **Faisal's Choir** · First Summoning | Summons **1–7 luminous eidolons for 20–90 seconds**, shaped from Aether carrying Faisal's command-pattern. *Guard allies, intercept arrows, pin demons, carry wounded, attack from multiple angles.* 75,000 EU each + 15,000/s | **Namebreaking rites**, anti-summon circles, shadow Domains, Aether starvation, concentration disruption |",
       "stage": 8,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 8,
@@ -5780,7 +5801,7 @@
         "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
         "line": 91
       },
-      "verbatim": "| **Crown of the Visible God** | 60m radiance field — **enemy targeting loses 30–70% accuracy; demonic Aether decays 15–40% faster.** *Visible glare blinds, infrared increases hostile heat load, violet attacks corruption, gold stabilises allies —* *and Judicium prevents indiscriminate harm.* 160,000 EU + 22,000/s | Void-fields, **blind fighters**, anti-light Domains, black ash, mirror labyrinths, **mixed hostage Essence** |",
+      "verbatim": "| **Crown of the Visible God** | 60m radiance field — **enemy targeting loses 30–70% accuracy; demonic Aether decays 15–40% faster.** *Visible glare blinds, infrared increases hostile heat load, violet attacks corruption, gold stabilises allies — and Judicium prevents indiscriminate harm.* 160,000 EU + 22,000/s | Void-fields, **blind fighters**, anti-light Domains, black ash, mirror labyrinths, **mixed hostage Essence** |",
       "stage": 8,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 8,
@@ -6253,16 +6274,16 @@
       "grade_reading": "stage_max",
       "peak_primary_grade": null,
       "card_stated_grade": null,
-      "eta": 0.6499999999999999,
-      "eta_from": "Part Nineteen, Tier 5 midpoint, as corrected by R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+      "eta": 0.89,
+      "eta_from": "page, line 60",
       "band_j_low": 46024000000.0,
       "band_j_high": 4184000000000.0,
       "potential_j_at_1MJ": 320000000.0,
-      "delivered_j_at_1MJ": 207999999.99999997,
-      "k_required_j_per_eu": 2109719336.896113,
+      "delivered_j_at_1MJ": 284800000.0,
+      "k_required_j_per_eu": 1540806257.2836776,
       "skipped": null,
       "decades_potential": -2.157834382697537,
-      "decades_delivered": -2.3449210260546813
+      "decades_delivered": -2.2084443760526242
     },
     {
       "family": "cost",
@@ -6282,16 +6303,16 @@
       "grade_reading": "stage_max",
       "peak_primary_grade": null,
       "card_stated_grade": null,
-      "eta": 0.6499999999999999,
-      "eta_from": "Part Nineteen, Tier 5 midpoint, as corrected by R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+      "eta": 0.89,
+      "eta_from": "page, line 60",
       "band_j_low": 46024000000.0,
       "band_j_high": 4184000000000.0,
       "potential_j_at_1MJ": 540000000.0,
-      "delivered_j_at_1MJ": 350999999.99999994,
-      "k_required_j_per_eu": 1250204051.4939928,
+      "delivered_j_at_1MJ": 480600000.0,
+      "k_required_j_per_eu": 913070374.6866238,
       "skipped": null,
       "decades_potential": -1.9305906011944745,
-      "decades_delivered": -2.117677244551619
+      "decades_delivered": -1.9812005945495617
     },
     {
       "family": "cost",
@@ -6311,16 +6332,16 @@
       "grade_reading": "stage_max",
       "peak_primary_grade": null,
       "card_stated_grade": null,
-      "eta": 0.6499999999999999,
-      "eta_from": "Part Nineteen, Tier 5 midpoint, as corrected by R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+      "eta": 0.89,
+      "eta_from": "page, line 60",
       "band_j_low": 46024000000.0,
       "band_j_high": 4184000000000.0,
       "potential_j_at_1MJ": 710000000.0,
-      "delivered_j_at_1MJ": 461499999.99999994,
-      "k_required_j_per_eu": 950859419.4461354,
+      "delivered_j_at_1MJ": 631900000.0,
+      "k_required_j_per_eu": 694447890.6067281,
       "skipped": null,
       "decades_potential": -1.8117260122983676,
-      "decades_delivered": -1.9988126556555121
+      "decades_delivered": -1.8623360056534548
     },
     {
       "family": "cost",
@@ -6679,7 +6700,7 @@
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 84
       },
-      "verbatim": "| **Haijin no Tobari** · Cinder Veil | 50m ash field; visibility 40–75% reduced, breathing 15–35% reduced. **Moving bodies create readable wakes.** *Sensory:* *black-grey veil thickening from the ground up* | 32,000 EU + 6,200/s · rain and sealed helmets · ***long use burns throat, triggers Cinder Lung*** |",
+      "verbatim": "| **Haijin no Tobari** · Cinder Veil | 50m ash field; visibility 40–75% reduced, breathing 15–35% reduced. **Moving bodies create readable wakes.** *Sensory: black-grey veil thickening from the ground up* | 32,000 EU + 6,200/s · rain and sealed helmets · ***long use burns throat, triggers Cinder Lung*** |",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -6708,7 +6729,7 @@
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 85
       },
-      "verbatim": "| **Akahai Kugi** · Red Ash Nail | Dense ash spike through a 2–4cm path at **80–160°C.** Pierces cloth, **enters visor gaps**, punishes wounds. *Sensory:* *hits like a heated nail through wet sand* | 22,000 EU · smooth plate and ceramic counter · *hand tremor, red-eye heat* |",
+      "verbatim": "| **Akahai Kugi** · Red Ash Nail | Dense ash spike through a 2–4cm path at **80–160°C.** Pierces cloth, **enters visor gaps**, punishes wounds. *Sensory: hits like a heated nail through wet sand* | 22,000 EU · smooth plate and ceramic counter · *hand tremor, red-eye heat* |",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -6737,7 +6758,7 @@
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 86
       },
-      "verbatim": "| **Kokuen Haiki** · Black-Smoke Exhale | 18m cone — eye sting, coughing, 0.4–1.2s breath disruption. **Interrupts chants, breath techniques, charge timing.** *Sensory:* *black exhale with red ember motes. Scorched carbon* | 20,000 EU · sealed helmets, wind · ***blood-flecked breath past three uses*** |",
+      "verbatim": "| **Kokuen Haiki** · Black-Smoke Exhale | 18m cone — eye sting, coughing, 0.4–1.2s breath disruption. **Interrupts chants, breath techniques, charge timing.** *Sensory: black exhale with red ember motes. Scorched carbon* | 20,000 EU · sealed helmets, wind · ***blood-flecked breath past three uses*** |",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -6766,7 +6787,7 @@
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 87
       },
-      "verbatim": "| **Rengai Kōjin** · Refined Ash Grind | Abrades skin, cloth, grips and straps over 3–6s of sustained contact. **Targets wounds, weak seams, bowstrings, padding** | 28,000 EU · hard plate, wet surfaces, rapid disengagement · *if rushed,* *the ash scatters without abrasion* |",
+      "verbatim": "| **Rengai Kōjin** · Refined Ash Grind | Abrades skin, cloth, grips and straps over 3–6s of sustained contact. **Targets wounds, weak seams, bowstrings, padding** | 28,000 EU · hard plate, wet surfaces, rapid disengagement · *if rushed, the ash scatters without abrasion* |",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -6795,7 +6816,7 @@
         "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
         "line": 88
       },
-      "verbatim": "| **Ember Verdict** · Cinder Collapse | Requires an active flaw mark. **Heats cinder inside the marked flaw, compresses inward, widens the failure path.** 70–140°C seam heat — splits armour, cracks shields, reopens wounds. *Sensory:* *the marked point glows ember-orange 0.3s before failure. A cooling weld splitting* | 58,000 EU · water cooling and ceramic counter · ***failed use on a false flaw recoils heat through red eye and sternum*** |",
+      "verbatim": "| **Ember Verdict** · Cinder Collapse | Requires an active flaw mark. **Heats cinder inside the marked flaw, compresses inward, widens the failure path.** 70–140°C seam heat — splits armour, cracks shields, reopens wounds. *Sensory: the marked point glows ember-orange 0.3s before failure. A cooling weld splitting* | 58,000 EU · water cooling and ceramic counter · ***failed use on a false flaw recoils heat through red eye and sternum*** |",
       "stage": 7,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 7,
@@ -6832,7 +6853,7 @@
       "grade": "A",
       "grade_reading": "stage_max",
       "peak_primary_grade": "X",
-      "card_stated_grade": "A",
+      "card_stated_grade": null,
       "eta": 0.84,
       "eta_from": "page, line 86",
       "band_j_low": 46024000000.0,
@@ -6861,7 +6882,7 @@
       "grade": "A",
       "grade_reading": "stage_max",
       "peak_primary_grade": "X",
-      "card_stated_grade": "A",
+      "card_stated_grade": null,
       "eta": 0.84,
       "eta_from": "page, line 86",
       "band_j_low": 46024000000.0,
@@ -6890,7 +6911,7 @@
       "grade": "A",
       "grade_reading": "stage_max",
       "peak_primary_grade": "X",
-      "card_stated_grade": "A",
+      "card_stated_grade": null,
       "eta": 0.84,
       "eta_from": "page, line 86",
       "band_j_low": 46024000000.0,
@@ -7114,7 +7135,7 @@
         "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
         "line": 92
       },
-      "verbatim": "| **Ashuric Claim** · Gilded Null | Opens a Claim channel through palm, eye contact, or Boundary thread. **Essence pulled through is stripped of its original allegiance and refined into black-silver Null-Light.** *Best against stolen magic, necromancy, curse engines,* *and enemies who overextend Aether outside the body* | 2,800 EU + variable drain |",
+      "verbatim": "| **Ashuric Claim** · Gilded Null | Opens a Claim channel through palm, eye contact, or Boundary thread. **Essence pulled through is stripped of its original allegiance and refined into black-silver Null-Light.** *Best against stolen magic, necromancy, curse engines, and enemies who overextend Aether outside the body* | 2,800 EU + variable drain |",
       "stage": 12,
       "stage_basis": "the Stage the page states",
       "stage_stated_on_the_page": 12,

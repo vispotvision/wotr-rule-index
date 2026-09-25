@@ -438,21 +438,6 @@ BODY_HEAT_CAPACITY_J_PER_K = 245_000.0   # 70 kg x 3.5 kJ/kg/K, physics-check.md
 LETHAL_RISE_K = 5.0
 BODY_SHED_W = 2_000.0
 
-# A card eta that states itself on the page but is absent from anchors.json,
-# because Phase 1's extractor read the AU/s row and not the row under it. R44-5
-# makes the card govern, and names this character. Nothing here is inferred: the
-# figure and the line are quoted in the Part beside the table they feed.
-CARD_ETA_MISSED_BY_PHASE_1 = {
-    "Naiser Yukari": {
-        "eta": 0.89,
-        "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
-        "line": 60,
-        "verbatim": "| **Aetheric Efficiency** | 0.89 | **Almost all of what he "
-                    "commits lands exactly where intended** |",
-    },
-}
-
-
 def drain(fit, anchors, k):
     au, card_eta = {}, {}
     for a in anchors["anchors"]:
@@ -478,20 +463,13 @@ def drain(fit, anchors, k):
             r = dict(r, eta=eta, eta_from="card, %s:%d" % (
                 ce["source"]["file"].rsplit("/", 1)[-1], ce["source"]["line"]))
         else:
+            # No η on the page that carries the reserve; `fit.json` has fallen
+            # back to Part Nineteen's Tier midpoint and `eta_from` says so.
+            # Naiser Yukari used to be patched here, his card's 0.89 having been
+            # missed by Phase 1's sweep; WAR-94 fixed the extractor and
+            # `anchors.json` now carries the figure, so the branch above takes
+            # him and nothing needs patching.
             aus, eta = a["value"], r["eta"]
-            # R44-5 (RULINGS.md, 2026-09-25): "The card's eta governs per
-            # character and the tables are typical ranges ... Sodoku Moto's
-            # 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as
-            # written." Phase 1's extractor read Naiser Yukari's AU/s off
-            # `Naiser Yukari.md:59` and missed the "Aetheric Efficiency" row on
-            # the line below it, so `fit.json` fell back to a Part Nineteen Tier
-            # midpoint for a character whose card states a figure. The ruling
-            # names him; the card governs. Quoted in the Part, §5.3.
-            ov = CARD_ETA_MISSED_BY_PHASE_1.get(r["entity"])
-            if ov:
-                eta = ov["eta"]
-                r = dict(r, eta=eta, eta_from="card, %s:%d (R44-5; missed by "
-                         "fit.json)" % (ov["file"].rsplit("/", 1)[-1], ov["line"]))
         waste_w = (1 - eta) * aus * k if eta is not None and eta < 1 else 0.0
         rows.append({
             "entity": r["entity"],

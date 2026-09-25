@@ -289,7 +289,7 @@
      "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
      "line": 59
     },
-    "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+    "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
    },
    {
     "entity": "Yoko Mishiro",
@@ -328,7 +328,7 @@
      "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
      "line": 63
     },
-    "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+    "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
    },
    {
     "entity": "Rashani Zettari",
@@ -354,7 +354,7 @@
      "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
      "line": 61
     },
-    "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+    "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
    },
    {
     "entity": "Ara Min Mahuo",
@@ -687,7 +687,7 @@
      {
       "entity": "Naiser Yukari",
       "eu": 2460.0,
-      "eta": 0.55
+      "eta": 0.89
      },
      {
       "entity": "Rashani Zettari",
@@ -714,7 +714,7 @@
      {
       "entity": "Naiser Yukari",
       "eu": 2460.0,
-      "eta": 0.55,
+      "eta": 0.89,
       "level": null,
       "under_gate_ceiling": true,
       "in_cluster_band": false,
@@ -814,7 +814,7 @@
        "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
        "line": 59
       },
-      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
      },
      {
       "entity": "Niran Yukari",
@@ -829,7 +829,7 @@
        "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
        "line": 61
       },
-      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
      },
      {
       "entity": "Anryū Ichimonji",
@@ -844,7 +844,7 @@
        "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
        "line": 63
       },
-      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
      },
      {
       "entity": "Rengai Zettari",
@@ -1139,7 +1139,7 @@
        "file": "wiki/Volume I — Character Cards/Muken Moto.md",
        "line": 60
       },
-      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
+      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84"
      },
      {
       "entity": "Kwon Hae-ryu",
@@ -1528,7 +1528,7 @@
      {
       "entity": "Naiser Yukari",
       "eu": 2460.0,
-      "eta": 0.55
+      "eta": 0.89
      },
      {
       "entity": "Yoko Mishiro",
@@ -1599,7 +1599,7 @@
      {
       "entity": "Naiser Yukari",
       "eu": 2460.0,
-      "eta": 0.55,
+      "eta": 0.89,
       "level": null,
       "under_gate_ceiling": true,
       "in_cluster_band": false,
@@ -1639,7 +1639,7 @@
        "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
        "line": 59
       },
-      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+      "verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
      },
      {
       "entity": "Niran Yukari",
@@ -1654,7 +1654,7 @@
        "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
        "line": 61
       },
-      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+      "verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
      },
      {
       "entity": "Rashani Zettari",
@@ -1684,7 +1684,7 @@
        "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
        "line": 63
       },
-      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+      "verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
      },
      {
       "entity": "Sodoku Moto",
@@ -1903,7 +1903,7 @@
        "file": "wiki/Volume I — Character Cards/Muken Moto.md",
        "line": 60
       },
-      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
+      "verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84"
      },
      {
       "entity": "Krothar Veylshroud",
@@ -2638,21 +2638,42 @@
    "stage": 10,
    "tier": "6 · Master",
    "eu": 16800.0,
-   "au_s": 5200.0,
+   "au_s": 8742.0,
    "eta": 0.93,
    "eta_from": "card, Iracordas.md:52",
    "reserve_j": 16800000000.0,
-   "power_w": 5200000000.0,
-   "seconds_to_empty": 3.230769230769231,
-   "seconds_to_starvation": 2.9076923076923076,
-   "waste_w": 363999999.99999976,
-   "seconds_to_lethal_rise": 0.003365403106610478,
-   "shed_fraction": 5.494505494505498e-06,
+   "power_w": 8742000000.0,
+   "seconds_to_empty": 1.9217570350034316,
+   "seconds_to_starvation": 1.7295813315030886,
+   "waste_w": 611939999.9999996,
+   "seconds_to_lethal_rise": 0.0020018367873869585,
+   "shed_fraction": 3.2682942772167227e-06,
    "au_s_source": {
     "file": "wiki/Volume I — Character Cards/Iracordas.md",
     "line": 51
    },
-   "au_s_verbatim": "| **Aether Output** | 5,200 AU/s |"
+   "au_s_verbatim": "| **Aether Output** | 8,742 AU/s |"
+  },
+  {
+   "entity": "Krothar Veylshroud — The Chain Without a Master",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 1600000.0,
+   "au_s": 420000.0,
+   "eta": 0.81,
+   "eta_from": "card, Krothar Veylshroud — The Chain Without a Master.md:37",
+   "reserve_j": 1600000000000.0,
+   "power_w": 420000000000.0,
+   "seconds_to_empty": 3.8095238095238093,
+   "seconds_to_starvation": 3.4285714285714284,
+   "waste_w": 79799999999.99997,
+   "seconds_to_lethal_rise": 1.5350877577716236e-05,
+   "shed_fraction": 2.506265664160402e-08,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Krothar Veylshroud — The Chain Without a Master.md",
+    "line": 100
+   },
+   "au_s_verbatim": "**AU/s Output:** ~420,000 active / ~135,000 passive (chains on)"
   },
   {
    "entity": "Artemis Amagiri Moto",
@@ -2674,6 +2695,27 @@
     "line": 58
    },
    "au_s_verbatim": "| **Aether Output** | 7,600 AU/s | **Fast enough to overwrite short-range movement exchanges in real time** |"
+  },
+  {
+   "entity": "Yorime Seikai",
+   "stage": 12,
+   "tier": "7 · Grandmaster",
+   "eu": 74000.0,
+   "au_s": 13066.0,
+   "eta": 0.94,
+   "eta_from": "card, Yorime Seikai.md:63",
+   "reserve_j": 74000000000.0,
+   "power_w": 13066000000.0,
+   "seconds_to_empty": 5.663554262972601,
+   "seconds_to_starvation": 5.09719883667534,
+   "waste_w": 783960000.0000007,
+   "seconds_to_lethal_rise": 0.0015625837098415972,
+   "shed_fraction": 2.5511505689065744e-06,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+    "line": 62
+   },
+   "au_s_verbatim": "| **Aether Output** | 13,066 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |"
   },
   {
    "entity": "Yukazuri Moto",
@@ -2724,7 +2766,7 @@
    "eu": 2460.0,
    "au_s": 340.0,
    "eta": 0.89,
-   "eta_from": "card, Naiser Yukari.md:60 (R44-5; missed by fit.json)",
+   "eta_from": "card, Naiser Yukari.md:60",
    "reserve_j": 2460000000.0,
    "power_w": 340000000.0,
    "seconds_to_empty": 7.235294117647059,
@@ -2737,27 +2779,6 @@
     "line": 59
    },
    "au_s_verbatim": "| **Aether Output** | 340 AU/s | High enough to overwhelm lesser opponents in layered sequences, **yet controlled enough to avoid waste** |"
-  },
-  {
-   "entity": "Naevra Yukari",
-   "stage": 9,
-   "tier": "6 · Master",
-   "eu": 185000.0,
-   "au_s": 18500.0,
-   "eta": 0.96,
-   "eta_from": "card, Naevra Yukari.md:51",
-   "reserve_j": 185000000000.0,
-   "power_w": 18500000000.0,
-   "seconds_to_empty": 10.0,
-   "seconds_to_starvation": 9.0,
-   "waste_w": 740000000.0000007,
-   "seconds_to_lethal_rise": 0.001655409879486159,
-   "shed_fraction": 2.7027027027027e-06,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
-    "line": 50
-   },
-   "au_s_verbatim": "| **Aether Output** | 18,500 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |"
   },
   {
    "entity": "Naori Yukari",
@@ -2802,69 +2823,6 @@
    "au_s_verbatim": "| **Aether Output** | 780 AU/s | **A sustained-pressure engine, not a rapid-fire combatant.** *A river of stone: slow to begin, catastrophic at full flow* |"
   },
   {
-   "entity": "Niran Yukari",
-   "stage": 7,
-   "tier": "5 · Expert",
-   "eu": 485000.0,
-   "au_s": 38400.0,
-   "eta": 0.89,
-   "eta_from": "card, Niran Yukari.md:28",
-   "reserve_j": 485000000000.0,
-   "power_w": 38400000000.0,
-   "seconds_to_empty": 12.630208333333334,
-   "seconds_to_starvation": 11.3671875,
-   "waste_w": 4223999999.999999,
-   "seconds_to_lethal_rise": 0.0002900096070121246,
-   "shed_fraction": 4.734848484848486e-07,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
-    "line": 28
-   },
-   "au_s_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 38,400 AU/s · **η 0.89** |"
-  },
-  {
-   "entity": "Anryū Ichimonji",
-   "stage": 7,
-   "tier": "5 · Expert",
-   "eu": 820000.0,
-   "au_s": 52000.0,
-   "eta": 1.05,
-   "eta_from": "card, Anryū Ichimonji.md:29",
-   "reserve_j": 820000000000.0,
-   "power_w": 52000000000.0,
-   "seconds_to_empty": 15.76923076923077,
-   "seconds_to_starvation": 14.192307692307692,
-   "waste_w": 0.0,
-   "seconds_to_lethal_rise": null,
-   "shed_fraction": null,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
-    "line": 63
-   },
-   "au_s_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
-  },
-  {
-   "entity": "Mizuki Moto",
-   "stage": 7,
-   "tier": "5 · Expert",
-   "eu": 470000.0,
-   "au_s": 26000.0,
-   "eta": 0.82,
-   "eta_from": "card, Mizuki Moto.md:30",
-   "reserve_j": 470000000000.0,
-   "power_w": 26000000000.0,
-   "seconds_to_empty": 18.076923076923077,
-   "seconds_to_starvation": 16.26923076923077,
-   "waste_w": 4680000000.000001,
-   "seconds_to_lethal_rise": 0.000261752248612072,
-   "shed_fraction": 4.2735042735042726e-07,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
-    "line": 30
-   },
-   "au_s_verbatim": "| **Aether Index** | 26,000 AU/s sustained · **η 0.82** |"
-  },
-  {
    "entity": "Ayame Yuno",
    "stage": 8,
    "tier": "6 · Master",
@@ -2884,48 +2842,6 @@
     "line": 60
    },
    "au_s_verbatim": "| **Aether Output** | 1,900 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |"
-  },
-  {
-   "entity": "Rengai Zettari",
-   "stage": 7,
-   "tier": "5 · Expert",
-   "eu": 1400000.0,
-   "au_s": 68000.0,
-   "eta": 0.78,
-   "eta_from": "card, Rengai Zettari.md:29",
-   "reserve_j": 1400000000000.0,
-   "power_w": 68000000000.0,
-   "seconds_to_empty": 20.58823529411765,
-   "seconds_to_starvation": 18.529411764705884,
-   "waste_w": 14959999999.999998,
-   "seconds_to_lethal_rise": 8.188503768516547e-05,
-   "shed_fraction": 1.3368983957219254e-07,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
-    "line": 29
-   },
-   "au_s_verbatim": "| **Aether** | 68,000 AU/s · **η 0.78** — *efficient in debris terrain;* *weaker in rain, clean wind, sealed chambers* |"
-  },
-  {
-   "entity": "Rashani Zettari",
-   "stage": 6,
-   "tier": "5 · Expert",
-   "eu": 540000.0,
-   "au_s": 24000.0,
-   "eta": 0.81,
-   "eta_from": "card, Rashani Zettari.md:29",
-   "reserve_j": 540000000000.0,
-   "power_w": 24000000000.0,
-   "seconds_to_empty": 22.5,
-   "seconds_to_starvation": 20.25,
-   "waste_w": 4559999999.999999,
-   "seconds_to_lethal_rise": 0.00026864046870196,
-   "shed_fraction": 4.385964912280703e-07,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
-    "line": 29
-   },
-   "au_s_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 24,000 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |"
   },
   {
    "entity": "Dougou Ozumu Zettari",
@@ -2949,67 +2865,46 @@
    "au_s_verbatim": "**Aether Index** · 3,900 AU/s external · **internal cycling immeasurable** · **η 0.99**"
   },
   {
-   "entity": "Lucius Xenotro",
-   "stage": 8,
-   "tier": "6 · Master",
-   "eu": 2850000.0,
-   "au_s": 118000.0,
-   "eta": 0.92,
-   "eta_from": "card, Lucius Xenotro.md:64",
-   "reserve_j": 2850000000000.0,
-   "power_w": 118000000000.0,
-   "seconds_to_empty": 24.152542372881356,
-   "seconds_to_starvation": 21.73728813559322,
-   "waste_w": 9439999999.999994,
-   "seconds_to_lethal_rise": 0.00012976697664554597,
-   "shed_fraction": 2.1186440677966115e-07,
+   "entity": "Niran Yukari",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 485000.0,
+   "au_s": 16376.0,
+   "eta": 0.89,
+   "eta_from": "card, Niran Yukari.md:28",
+   "reserve_j": 485000000000.0,
+   "power_w": 16376000000.0,
+   "seconds_to_empty": 29.616511968734734,
+   "seconds_to_starvation": 26.65486077186126,
+   "waste_w": 1801359999.9999998,
+   "seconds_to_lethal_rise": 0.0006800425012684875,
+   "shed_fraction": 1.1102722387529423e-06,
    "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
-    "line": 63
+    "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+    "line": 28
    },
-   "au_s_verbatim": "| **Aether Output** | 118,000 AU/s — *lets him* *change battlefield light faster than most opponents can adjust vision or stance* |"
+   "au_s_verbatim": "| **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 16,376 AU/s · **η 0.89** |"
   },
   {
-   "entity": "Muken Moto",
-   "stage": 10,
+   "entity": "Naevra Yukari",
+   "stage": 9,
    "tier": "6 · Master",
-   "eu": 1850000.0,
-   "au_s": 72000.0,
-   "eta": 0.84,
-   "eta_from": "card, Muken Moto.md:34",
-   "reserve_j": 1850000000000.0,
-   "power_w": 72000000000.0,
-   "seconds_to_empty": 25.694444444444443,
-   "seconds_to_starvation": 23.125,
-   "waste_w": 11520000000.000002,
-   "seconds_to_lethal_rise": 0.00010633682401680971,
-   "shed_fraction": 1.736111111111111e-07,
+   "eu": 185000.0,
+   "au_s": 2784.0,
+   "eta": 0.96,
+   "eta_from": "card, Naevra Yukari.md:51",
+   "reserve_j": 185000000000.0,
+   "power_w": 2784000000.0,
+   "seconds_to_empty": 66.45114942528735,
+   "seconds_to_starvation": 59.80603448275862,
+   "waste_w": 111360000.0000001,
+   "seconds_to_lethal_rise": 0.011000556762872886,
+   "shed_fraction": 1.795977011494251e-05,
    "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Muken Moto.md",
-    "line": 34
+    "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+    "line": 50
    },
-   "au_s_verbatim": "**Aether Index** · 72,000 AU/s · **η 0.84**"
-  },
-  {
-   "entity": "Yorime Seikai",
-   "stage": 12,
-   "tier": "7 · Grandmaster",
-   "eu": 74000.0,
-   "au_s": 2850.0,
-   "eta": 0.94,
-   "eta_from": "card, Yorime Seikai.md:63",
-   "reserve_j": 74000000000.0,
-   "power_w": 2850000000.0,
-   "seconds_to_empty": 25.964912280701753,
-   "seconds_to_starvation": 23.36842105263158,
-   "waste_w": 171000000.00000015,
-   "seconds_to_lethal_rise": 0.0071638264775026545,
-   "shed_fraction": 1.1695906432748527e-05,
-   "au_s_source": {
-    "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
-    "line": 62
-   },
-   "au_s_verbatim": "| **Aether Output** | 2,850 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |"
+   "au_s_verbatim": "| **Aether Output** | 2,784 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |"
   },
   {
    "entity": "Ara Min Mahuo",
@@ -3031,6 +2926,132 @@
     "line": 71
    },
    "au_s_verbatim": "**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70"
+  },
+  {
+   "entity": "Mizuki Moto",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 470000.0,
+   "au_s": 6478.0,
+   "eta": 0.82,
+   "eta_from": "card, Mizuki Moto.md:30",
+   "reserve_j": 470000000000.0,
+   "power_w": 6478000000.0,
+   "seconds_to_empty": 72.55325717814141,
+   "seconds_to_starvation": 65.29793146032726,
+   "waste_w": 1166040000.0000005,
+   "seconds_to_lethal_rise": 0.0010505661050497492,
+   "shed_fraction": 1.7152070254879758e-06,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+    "line": 30
+   },
+   "au_s_verbatim": "| **Aether Index** | 6,478 AU/s sustained · **η 0.82** |"
+  },
+  {
+   "entity": "Lucius Xenotro",
+   "stage": 8,
+   "tier": "6 · Master",
+   "eu": 2850000.0,
+   "au_s": 37720.0,
+   "eta": 0.92,
+   "eta_from": "card, Lucius Xenotro.md:64",
+   "reserve_j": 2850000000000.0,
+   "power_w": 37720000000.0,
+   "seconds_to_empty": 75.55673382820785,
+   "seconds_to_starvation": 68.00106044538707,
+   "waste_w": 3017599999.9999986,
+   "seconds_to_lethal_rise": 0.0004059520187911049,
+   "shed_fraction": 6.627783669141042e-07,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+    "line": 63
+   },
+   "au_s_verbatim": "| **Aether Output** | 37,720 AU/s — *lets him change battlefield light faster than most opponents can adjust vision or stance* |"
+  },
+  {
+   "entity": "Rashani Zettari",
+   "stage": 6,
+   "tier": "5 · Expert",
+   "eu": 540000.0,
+   "au_s": 6642.0,
+   "eta": 0.81,
+   "eta_from": "card, Rashani Zettari.md:29",
+   "reserve_j": 540000000000.0,
+   "power_w": 6642000000.0,
+   "seconds_to_empty": 81.30081300813008,
+   "seconds_to_starvation": 73.17073170731707,
+   "waste_w": 1261979999.9999995,
+   "seconds_to_lethal_rise": 0.0009706983798449739,
+   "shed_fraction": 1.584811169749125e-06,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+    "line": 29
+   },
+   "au_s_verbatim": "| **Aether** | Class II Harmonic — **Origin-Strain Conductor.** 6,642 AU/s · **η 0.81** — *efficient because small corrections cost less than brute force* |"
+  },
+  {
+   "entity": "Anryū Ichimonji",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 820000.0,
+   "au_s": 9870.0,
+   "eta": 1.05,
+   "eta_from": "card, Anryū Ichimonji.md:29",
+   "reserve_j": 820000000000.0,
+   "power_w": 9870000000.0,
+   "seconds_to_empty": 83.08004052684903,
+   "seconds_to_starvation": 74.77203647416414,
+   "waste_w": 0.0,
+   "seconds_to_lethal_rise": null,
+   "shed_fraction": null,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+    "line": 63
+   },
+   "au_s_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+  },
+  {
+   "entity": "Rengai Zettari",
+   "stage": 7,
+   "tier": "5 · Expert",
+   "eu": 1400000.0,
+   "au_s": 14196.0,
+   "eta": 0.78,
+   "eta_from": "card, Rengai Zettari.md:29",
+   "reserve_j": 1400000000000.0,
+   "power_w": 14196000000.0,
+   "seconds_to_empty": 98.61932938856016,
+   "seconds_to_starvation": 88.75739644970415,
+   "waste_w": 3123119999.9999995,
+   "seconds_to_lethal_rise": 0.00039223622034133845,
+   "shed_fraction": 6.403852557698712e-07,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+    "line": 29
+   },
+   "au_s_verbatim": "| **Aether** | 14,196 AU/s · **η 0.78** — *efficient in debris terrain; weaker in rain, clean wind, sealed chambers* |"
+  },
+  {
+   "entity": "Muken Moto",
+   "stage": 10,
+   "tier": "6 · Master",
+   "eu": 1850000.0,
+   "au_s": 15624.0,
+   "eta": 0.84,
+   "eta_from": "card, Muken Moto.md:34",
+   "reserve_j": 1850000000000.0,
+   "power_w": 15624000000.0,
+   "seconds_to_empty": 118.40757808499744,
+   "seconds_to_starvation": 106.5668202764977,
+   "waste_w": 2499840000.0000005,
+   "seconds_to_lethal_rise": 0.0004900317540576628,
+   "shed_fraction": 8.000512032770096e-07,
+   "au_s_source": {
+    "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+    "line": 34
+   },
+   "au_s_verbatim": "**Aether Index** · 15,624 AU/s · **η 0.84**"
   },
   {
    "entity": "The Arctic Lion — Sovereign Configuration (Level 500)",
@@ -3141,54 +3162,6 @@
  "flux_eta": {
   "rows": [
    {
-    "entity": "Draen Varos · The Red Forge Sentinel",
-    "flux_density": 670000000.0,
-    "eta": 0.61,
-    "stated_au_s": 98000.0,
-    "expected_au_s": 408700000.0,
-    "ratio": 0.00023978468314166872,
-    "implied_crystal_mass_g": 0.00023978468314166872,
-    "residual_decades": -3.6201785620190985,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md",
-     "line": 37
-    },
-    "flux_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **98,000 AU/s.**"
-   },
-   {
-    "entity": "Serai Linthra · The Serpent Alchemist",
-    "flux_density": 7800000.0,
-    "eta": 0.91,
-    "stated_au_s": 59000.0,
-    "expected_au_s": 7098000.0,
-    "ratio": 0.008312200619892927,
-    "implied_crystal_mass_g": 0.008312200619892927,
-    "residual_decades": -2.08028398336943,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Serai Linthra · The Serpent Alchemist.md",
-     "line": 39
-    },
-    "flux_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 59,000 AU/s."
-   },
-   {
-    "entity": "Garron Vuldane · Warden of Thaumar",
-    "flux_density": 13500000.0,
-    "eta": 0.86,
-    "stated_au_s": 118000.0,
-    "expected_au_s": 11610000.0,
-    "ratio": 0.010163652024117141,
-    "implied_crystal_mass_g": 0.010163652024117141,
-    "residual_decades": -1.9929502124324485,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Garron Vuldane · Warden of Thaumar.md",
-     "line": 39
-    },
-    "flux_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 118,000 AU/s."
-   },
-   {
     "entity": "Elion Drevas · The Black Cleric",
     "flux_density": 9400000.0,
     "eta": 0.75,
@@ -3203,54 +3176,6 @@
      "line": 37
     },
     "flux_verbatim": "**The fractured Crystal** · Six channels active, three sealed by the tithe itself. Flux Density **9.4 million EU/g.** Aether Output **72,000 AU/s.**"
-   },
-   {
-    "entity": "Kael Serradyn · The Burnmark",
-    "flux_density": 16300000.0,
-    "eta": 0.84,
-    "stated_au_s": 145000.0,
-    "expected_au_s": 13692000.0,
-    "ratio": 0.010590125620800467,
-    "implied_crystal_mass_g": 0.010590125620800467,
-    "residual_decades": -1.9750988882308647,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Kael Serradyn · The Burnmark.md",
-     "line": 39
-    },
-    "flux_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 145,000 AU/s."
-   },
-   {
-    "entity": "Valthren Odrin · The Lantern Scribe",
-    "flux_density": 12600000.0,
-    "eta": 0.67,
-    "stated_au_s": 91000.0,
-    "expected_au_s": 8442000.0,
-    "ratio": 0.01077943615257048,
-    "implied_crystal_mass_g": 0.01077943615257048,
-    "residual_decades": -1.9674039554972957,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Valthren Odrin · The Lantern Scribe.md",
-     "line": 39
-    },
-    "flux_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 91,000 AU/s."
-   },
-   {
-    "entity": "Mavra Cindrel · The Golden Engine",
-    "flux_density": 6100000.0,
-    "eta": 0.62,
-    "stated_au_s": 48000.0,
-    "expected_au_s": 3782000.0,
-    "ratio": 0.01269169751454257,
-    "implied_crystal_mass_g": 0.01269169751454257,
-    "residual_decades": -1.8964802871334336,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Mavra Cindrel · The Golden Engine.md",
-     "line": 37
-    },
-    "flux_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **48,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition."
    },
    {
     "entity": "Dougou Ozumu Zettari",
@@ -3269,22 +3194,6 @@
     "flux_verbatim": "**Essence Capacity** · 92,000 EU · **Flux Density** 18,400 EU/g · **Aura** SS-Tier Sovereign Tectonic Gravity"
    },
    {
-    "entity": "Yorime Seikai",
-    "flux_density": 13900.0,
-    "eta": 0.94,
-    "stated_au_s": 2850.0,
-    "expected_au_s": 13066.0,
-    "ratio": 0.21812337364151232,
-    "implied_crystal_mass_g": 0.21812337364151232,
-    "residual_decades": -0.6612977938452835,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
-     "line": 61
-    },
-    "flux_verbatim": "| **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems,* *cuts recognition**, and drains unstable Essence from the inside* |"
-   },
-   {
     "entity": "Borin Ironheart · The Master of the Soul Forge",
     "flux_density": 11000.0,
     "eta": 0.91,
@@ -3301,20 +3210,100 @@
     "flux_verbatim": "**Flux Density (EU/g):** ~11,000 EU/g (est.) — dense, penetrating. His Essence sinks into worked material the way water sinks into dry earth."
    },
    {
+    "entity": "Naiser Yukari",
+    "flux_density": 480.0,
+    "eta": 0.89,
+    "stated_au_s": 340.0,
+    "expected_au_s": 427.2,
+    "ratio": 0.7958801498127341,
+    "implied_crystal_mass_g": 0.7958801498127341,
+    "residual_decades": -0.09915232697824485,
+    "holds": false,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Naiser Yukari.md",
+     "line": 58
+    },
+    "flux_verbatim": "| **Flux Density** | 480 EU/g | Not monstrous like a pure Zettari titan-body, **but far too heavy for someone with his elegance** |"
+   },
+   {
+    "entity": "Anryū Ichimonji",
+    "flux_density": 9400.0,
+    "eta": 1.05,
+    "stated_au_s": 9870.0,
+    "expected_au_s": 9870.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
+     "line": 63
+    },
+    "flux_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 9,870 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
+   },
+   {
+    "entity": "Draen Varos · The Red Forge Sentinel",
+    "flux_density": 670000000.0,
+    "eta": 0.61,
+    "stated_au_s": 408700000.0,
+    "expected_au_s": 408700000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Draen Varos · The Red Forge Sentinel.md",
+     "line": 37
+    },
+    "flux_verbatim": "**The Forge-Heart Crystal** · Alloyed with tempered slag from the Atlas Mantle, nine kilograms of Crystal and slag that reads as one structure. Flux Density **670 million EU/g.** Aether Output **408,700,000 AU/s.**"
+   },
+   {
+    "entity": "Garron Vuldane · Warden of Thaumar",
+    "flux_density": 13500000.0,
+    "eta": 0.86,
+    "stated_au_s": 11610000.0,
+    "expected_au_s": 11610000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Garron Vuldane · Warden of Thaumar.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 13.5 million EU/g. **Gate Count** · 9 active, 1 dormant. **Aether Output** · 11,610,000 AU/s."
+   },
+   {
     "entity": "Iracordas",
     "flux_density": 9400.0,
     "eta": 0.93,
-    "stated_au_s": 5200.0,
+    "stated_au_s": 8742.0,
     "expected_au_s": 8742.0,
-    "ratio": 0.5948295584534431,
-    "implied_crystal_mass_g": 0.5948295584534431,
-    "residual_decades": -0.22560745851883465,
-    "holds": false,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
     "flux_source": {
      "file": "wiki/Volume I — Character Cards/Iracordas.md",
      "line": 50
     },
     "flux_verbatim": "| **Flux Density** | 9,400 EU/g |"
+   },
+   {
+    "entity": "Kael Serradyn · The Burnmark",
+    "flux_density": 16300000.0,
+    "eta": 0.84,
+    "stated_au_s": 13692000.0,
+    "expected_au_s": 13692000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Kael Serradyn · The Burnmark.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 16.3 million EU/g. **Gate Count** · 10. **Aether Output** · 13,692,000 AU/s."
    },
    {
     "entity": "Kwon Mu-jin",
@@ -3333,6 +3322,166 @@
     "flux_verbatim": "**EU Reserve** **850,000,000** — *sized to what an SS-Grade Gnosis stat actually demands to sustain* · **Flux Density** 1,800,000 EU/g · **AU/s** **1,566,000** · **η** 0.87"
    },
    {
+    "entity": "Lucius Xenotro",
+    "flux_density": 41000.0,
+    "eta": 0.92,
+    "stated_au_s": 37720.0,
+    "expected_au_s": 37720.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
+     "line": 62
+    },
+    "flux_verbatim": "| **Flux Density** | 41,000 EU/g — **extremely fine spectral compression, making his beams surgical instead of explosive** |"
+   },
+   {
+    "entity": "Mavra Cindrel · The Golden Engine",
+    "flux_density": 6100000.0,
+    "eta": 0.62,
+    "stated_au_s": 3782000.0,
+    "expected_au_s": 3782000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Mavra Cindrel · The Golden Engine.md",
+     "line": 37
+    },
+    "flux_verbatim": "**The Dual-Node Crystal** · A Felkin-human hybrid structure. Flux Density **6.1 million EU/g.** Aether Output **3,782,000 AU/s.** Syncs near-instantly with conductive alloys, which is the whole trick behind her weapon's resonance ignition."
+   },
+   {
+    "entity": "Mizuki Moto",
+    "flux_density": 7900.0,
+    "eta": 0.82,
+    "stated_au_s": 6478.0,
+    "expected_au_s": 6478.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
+     "line": 59
+    },
+    "flux_verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 6,478 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
+   },
+   {
+    "entity": "Muken Moto",
+    "flux_density": 18600.0,
+    "eta": 0.84,
+    "stated_au_s": 15624.0,
+    "expected_au_s": 15624.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Muken Moto.md",
+     "line": 60
+    },
+    "flux_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84"
+   },
+   {
+    "entity": "Naevra Yukari",
+    "flux_density": 2900.0,
+    "eta": 0.96,
+    "stated_au_s": 2784.0,
+    "expected_au_s": 2784.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
+     "line": 49
+    },
+    "flux_verbatim": "| **Flux Density** | 2,900 EU/g | **Fine-edged, surgical pressure** designed to pierce spiritual patterns and unravel hostile threads — **bypassing crude defences rather than smashing through them** |"
+   },
+   {
+    "entity": "Niran Yukari",
+    "flux_density": 18400.0,
+    "eta": 0.89,
+    "stated_au_s": 16376.0,
+    "expected_au_s": 16376.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
+     "line": 61
+    },
+    "flux_verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 16,376 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
+   },
+   {
+    "entity": "Rashani Zettari",
+    "flux_density": 8200.0,
+    "eta": 0.81,
+    "stated_au_s": 6642.0,
+    "expected_au_s": 6642.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
+     "line": 64
+    },
+    "flux_verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
+   },
+   {
+    "entity": "Rengai Zettari",
+    "flux_density": 18200.0,
+    "eta": 0.78,
+    "stated_au_s": 14196.0,
+    "expected_au_s": 14196.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
+     "line": 60
+    },
+    "flux_verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
+   },
+   {
+    "entity": "Serai Linthra · The Serpent Alchemist",
+    "flux_density": 7800000.0,
+    "eta": 0.91,
+    "stated_au_s": 7098000.0,
+    "expected_au_s": 7098000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Serai Linthra · The Serpent Alchemist.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 7.8 million EU/g. **Gate Count** · 8. **Aether Output** · 7,098,000 AU/s."
+   },
+   {
+    "entity": "Valthren Odrin · The Lantern Scribe",
+    "flux_density": 12600000.0,
+    "eta": 0.67,
+    "stated_au_s": 8442000.0,
+    "expected_au_s": 8442000.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Valthren Odrin · The Lantern Scribe.md",
+     "line": 39
+    },
+    "flux_verbatim": "**Flux Density** · 12.6 million EU/g. **Gate Count** · 8 active, 2 latent. **Aether Output** · 8,442,000 AU/s."
+   },
+   {
     "entity": "Yoko Mishiro",
     "flux_density": 150.0,
     "eta": 0.5,
@@ -3347,6 +3496,22 @@
      "line": 69
     },
     "flux_verbatim": "**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*"
+   },
+   {
+    "entity": "Yorime Seikai",
+    "flux_density": 13900.0,
+    "eta": 0.94,
+    "stated_au_s": 13066.0,
+    "expected_au_s": 13066.0,
+    "ratio": 1.0,
+    "implied_crystal_mass_g": 1.0,
+    "residual_decades": 0.0,
+    "holds": true,
+    "flux_source": {
+     "file": "wiki/Volume I — Character Cards/Yorime Seikai.md",
+     "line": 61
+    },
+    "flux_verbatim": "| **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems, cuts recognition, and drains unstable Essence from the inside* |"
    },
    {
     "entity": "Ara Min Mahuo",
@@ -3397,22 +3562,6 @@
     "flux_verbatim": "**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89"
    },
    {
-    "entity": "Niran Yukari",
-    "flux_density": 18400.0,
-    "eta": 0.89,
-    "stated_au_s": 38400.0,
-    "expected_au_s": 16376.0,
-    "ratio": 2.344894968246214,
-    "implied_crystal_mass_g": 2.344894968246214,
-    "residual_decades": 0.37012339471308153,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Niran Yukari.md",
-     "line": 61
-    },
-    "flux_verbatim": "**EU Reserve** 485,000 · **Flux Density** 18,400 EU/g · **AU/s** 38,400 · **Passive Recovery 28% EU/min** · **Active 8%** — *Stage VII Confluence developing*"
-   },
-   {
     "entity": "Vethraun Ashmaw",
     "flux_density": 310.0,
     "eta": 0.91,
@@ -3427,54 +3576,6 @@
      "line": 65
     },
     "flux_verbatim": "| **Flux Density** | 310 EU/g | Chthonic-Pyraeon Flux penetrates **regardless** — *the way tectonic force does not ask permission to reshape coastlines* |"
-   },
-   {
-    "entity": "Lucius Xenotro",
-    "flux_density": 41000.0,
-    "eta": 0.92,
-    "stated_au_s": 118000.0,
-    "expected_au_s": 37720.0,
-    "ratio": 3.1283138918345705,
-    "implied_crystal_mass_g": 3.1283138918345705,
-    "residual_decades": 0.4953103232408346,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Lucius Xenotro.md",
-     "line": 62
-    },
-    "flux_verbatim": "| **Flux Density** | 41,000 EU/g — **extremely fine spectral compression, making his beams surgical instead of explosive** |"
-   },
-   {
-    "entity": "Rashani Zettari",
-    "flux_density": 8200.0,
-    "eta": 0.81,
-    "stated_au_s": 24000.0,
-    "expected_au_s": 6642.0,
-    "ratio": 3.6133694670280034,
-    "implied_crystal_mass_g": 3.6133694670280034,
-    "residual_decades": 0.5579123704492396,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Rashani Zettari.md",
-     "line": 64
-    },
-    "flux_verbatim": "**EU Reserve** 540,000 — *strong for eighteen; correction chains exhaust him quickly.* Flux Density **8,200 EU/g —** ***affects joints, weapons, seams, spell nodes.*** Passive Recovery **14% EU/min ·** Active Recovery: none at current stage"
-   },
-   {
-    "entity": "Mizuki Moto",
-    "flux_density": 7900.0,
-    "eta": 0.82,
-    "stated_au_s": 26000.0,
-    "expected_au_s": 6478.0,
-    "ratio": 4.013584439641865,
-    "implied_crystal_mass_g": 4.013584439641865,
-    "residual_decades": 0.6035324042966599,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Mizuki Moto.md",
-     "line": 59
-    },
-    "flux_verbatim": "**EU Reserve** 470,000 · **Flux Density** 7,900 EU/g · **AU/s** 26,000 · **Passive Recovery 12% EU/min at rest** · **Active** ~4% return **when Snow Veil collapses inward**"
    },
    {
     "entity": "Ayame Yuno",
@@ -3509,38 +3610,6 @@
     "flux_verbatim": "| **Flux Density** | 1,980 EU/g | His magic lands like compressed impact. **Even his soft techniques feel heavy** |"
    },
    {
-    "entity": "Muken Moto",
-    "flux_density": 18600.0,
-    "eta": 0.84,
-    "stated_au_s": 72000.0,
-    "expected_au_s": 15624.0,
-    "ratio": 4.608294930875576,
-    "implied_crystal_mass_g": 4.608294930875576,
-    "residual_decades": 0.6635402661514704,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Muken Moto.md",
-     "line": 60
-    },
-    "flux_verbatim": "**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 72,000 AU/s · **η** 0.84"
-   },
-   {
-    "entity": "Rengai Zettari",
-    "flux_density": 18200.0,
-    "eta": 0.78,
-    "stated_au_s": 68000.0,
-    "expected_au_s": 14196.0,
-    "ratio": 4.790081713158636,
-    "implied_crystal_mass_g": 4.790081713158636,
-    "residual_decades": 0.6803429220306811,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Rengai Zettari.md",
-     "line": 60
-    },
-    "flux_verbatim": "**EU Reserve** 1,400,000 · **Flux Density** 18,200 EU/g · **Passive Recovery** 9% EU/min · **Active** ~6% **on Cinder Veil collapse**"
-   },
-   {
     "entity": "Sodoku Moto",
     "flux_density": 920.0,
     "eta": 0.84,
@@ -3555,38 +3624,6 @@
      "line": 86
     },
     "flux_verbatim": "**EU Reserve** 1,340,000 · **Flux Density** 920 EU/g · **AU/s** ~3,800 base · **η** 0.84"
-   },
-   {
-    "entity": "Anryū Ichimonji",
-    "flux_density": 9400.0,
-    "eta": 1.05,
-    "stated_au_s": 52000.0,
-    "expected_au_s": 9870.0,
-    "ratio": 5.268490374873354,
-    "implied_crystal_mass_g": 5.268490374873354,
-    "residual_decades": 0.7216861909651624,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Anryū Ichimonji.md",
-     "line": 63
-    },
-    "flux_verbatim": "**EU Reserve** 820,000 · **Flux Density** 9,400 EU/g · **AU/s** 52,000 · **Passive Recovery** 11% EU/min · **Active** ~3% **signal bleed recapture during sustained Tenebra**"
-   },
-   {
-    "entity": "Naevra Yukari",
-    "flux_density": 2900.0,
-    "eta": 0.96,
-    "stated_au_s": 18500.0,
-    "expected_au_s": 2784.0,
-    "ratio": 6.6451149425287355,
-    "implied_crystal_mass_g": 6.6451149425287355,
-    "residual_decades": 0.8225024974644892,
-    "holds": false,
-    "flux_source": {
-     "file": "wiki/Volume I — Character Cards/Naevra Yukari.md",
-     "line": 49
-    },
-    "flux_verbatim": "| **Flux Density** | 2,900 EU/g | **Fine-edged, surgical pressure** designed to pierce spiritual patterns and unravel hostile threads — **bypassing crude defences rather than smashing through them** |"
    },
    {
     "entity": "Gimbzo",
@@ -3605,31 +3642,38 @@
     "flux_verbatim": "| **Flux Density** | 9.2 × 10⁶ EU/g — **blunt-force density of the highest order.** *His magic does not pierce, it crushes. Plate becomes paste, wards become powder, Domains feel the floor sag* |"
    }
   ],
-  "n": 29,
-  "holds_exactly": 3,
-  "implied_mass_between_0p2_and_10_g": 21,
+  "n": 30,
+  "holds_exactly": 19,
+  "implied_mass_between_0p2_and_10_g": 28,
   "implied_mass_names": [
    "Dougou Ozumu Zettari",
-   "Yorime Seikai",
    "Borin Ironheart · The Master of the Soul Forge",
+   "Naiser Yukari",
+   "Anryū Ichimonji",
+   "Draen Varos · The Red Forge Sentinel",
+   "Garron Vuldane · Warden of Thaumar",
    "Iracordas",
+   "Kael Serradyn · The Burnmark",
    "Kwon Mu-jin",
+   "Lucius Xenotro",
+   "Mavra Cindrel · The Golden Engine",
+   "Mizuki Moto",
+   "Muken Moto",
+   "Naevra Yukari",
+   "Niran Yukari",
+   "Rashani Zettari",
+   "Rengai Zettari",
+   "Serai Linthra · The Serpent Alchemist",
+   "Valthren Odrin · The Lantern Scribe",
    "Yoko Mishiro",
+   "Yorime Seikai",
    "Ara Min Mahuo",
    "Ignatius Sanctus Sanctorum Arsenal · The Archpaladin",
    "Yukazuri Moto",
-   "Niran Yukari",
    "Vethraun Ashmaw",
-   "Lucius Xenotro",
-   "Rashani Zettari",
-   "Mizuki Moto",
    "Ayame Yuno",
    "Artemis Amagiri Moto",
-   "Muken Moto",
-   "Rengai Zettari",
-   "Sodoku Moto",
-   "Anryū Ichimonji",
-   "Naevra Yukari"
+   "Sodoku Moto"
   ]
  },
  "recovery": {

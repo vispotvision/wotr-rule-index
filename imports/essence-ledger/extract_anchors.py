@@ -135,8 +135,13 @@ LABEL_PATTERNS = [
     # bare "Output" is deliberately not a label: on several cards it is a
     # Sub-Stat name ("Ardency Crown Breaker Output 420"). An output figure is
     # caught by the AU/s unit pattern instead.
+    # "AU/s Output" is a label in its own right on one card and the word Output
+    # is not one of SEP's connectives, so without it the label stops the match
+    # and the figure is read by nothing: the unit pattern above needs the number
+    # to precede AU/s and here it follows (WAR-94).
     ("au_s", re.compile(
-        rf"(?:\*\*)?(?:AU/s|Aether Output|Aether Index){SEP}(?P<n>{SCI}|~?{NUM}{SCALE})", re.I)),
+        rf"(?:\*\*)?(?:AU/s(?:\s*Output)?|Aether Output|Aether Index)"
+        rf"{SEP}(?P<n>{SCI}|~?{NUM}{SCALE})", re.I)),
     ("flux_density", re.compile(
         rf"(?:\*\*)?Flux Density(?:\s*\(EU/g\))?{SEP}(?P<n>{SCI}|~?{NUM}{SCALE})", re.I)),
     ("eu_reserve", re.compile(
@@ -162,6 +167,29 @@ JOULE_ONE = re.compile(rf"(?P<n>{J_SCI}|~?{J_NUM})\s*(?P<u>[kMGTPEZ]?)J\b")
 ETA_RANGE = re.compile(r"η[^0-9\n]{0,18}?(?P<lo>[01]?\.[0-9]+)\s*(?:–|—|-|to)\s*(?P<hi>[01]?\.[0-9]+)")
 ETA_ONE = re.compile(r"η[^0-9\n]{0,18}?(?P<n>~?[01](?:\.[0-9]+)?)")
 ETA_LABEL = re.compile(r"(?:Efficiency|η)\s*(?:\(η\))?\s*(?:·|:|\|)\s*\*{0,2}(?P<n>~?[01](?:\.[0-9]+)?)", re.I)
+# The field form the three patterns above cannot reach, tried only after they
+# have all failed, so no line that already yields a figure can have its figure
+# changed by it (WAR-94). Two things defeat them: a card can write the label
+# without the η character at all, and it can put a parenthetical gloss or a
+# closed bold span between the label and the number — `ETA_ONE` allows 18
+# non-digit characters after η and "**η (Coherence Efficiency):** " is 26, while
+# `ETA_LABEL` accepts only a literal "(η)" before its separator and only `· : |`
+# as that separator, so a `**` or a `)` stops it.
+#
+# The separator here must carry at least one field marker — `*`, `|`, `:` or `·`.
+# That is what keeps this pattern off a figure that sits INSIDE a bold span
+# rather than after a field name: "**Transfer efficiency 1.0 by definition**"
+# (Verinus VII · The Palatine.md:131) is a technique's transfer ratio, not that
+# card's Coherence η, and a bare space is the only thing between its label and
+# its number. Written for, and reaching, exactly three lines:
+#
+#   | **Aetheric Efficiency** | 0.89 | …        Naiser Yukari.md:60
+#   **η (Coherence Efficiency):** ~0.76 (…)     Krothar Thunn-Gorr — The Old Chain.md:40
+#   **η (Coherence Efficiency):** 0.22 — …      Torven Greis — The Merchant Lord.md:39
+ETA_FIELD = re.compile(
+    r"(?:Efficiency|η)\s*(?:\([^)\n]{0,40}\))?"
+    r"(?:[\s)]*[*|:·][\s*|:·)]*)"
+    r"(?P<n>~?[01](?:\.[0-9]+)?)(?![0-9.,])", re.I)
 
 # --- page context ----------------------------------------------------------
 
@@ -366,7 +394,7 @@ def scan_line(raw: str):
     if m:
         found.append(("eta", f"{m.group('lo')}–{m.group('hi')}"))
     else:
-        m = ETA_LABEL.search(raw) or ETA_ONE.search(raw)
+        m = ETA_LABEL.search(raw) or ETA_ONE.search(raw) or ETA_FIELD.search(raw)
         if m:
             found.append(("eta", m.group("n").strip()))
     return found

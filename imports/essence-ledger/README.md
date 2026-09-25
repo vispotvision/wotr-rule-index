@@ -20,17 +20,20 @@ to stand on.
 | **`the-essence-ledger.md`** | **WAR-12, Phase 2. The deliverable of this phase: the draft FoW Part Twenty-Three, "The Essence Ledger".** The constant with its residuals, the EU → J → Grade → TNT chain joined to Part Four, reserve bands per Stage and per Tier of Standing with every attested character placed in them, AU/s as power with the drain arithmetic and three worked scales, Flux Density against η stated as an equation with the residual column, and Essence Starvation and recovery in the new units. Nothing in it is published; every claim carries a `[canon]`, `[ruled]`, `[derived]`, `[draft]` or `[residual]` marker, every ruling it applies is quoted verbatim where it is applied, and every slot a ruling must fill is marked **PENDING** with the question named. |
 | `ledger_tables.py` | WAR-12. Every table the Part prints, from `anchors.json` and `fit.json` only: the constant fit, the reserve law on Level, the bands by Stage and Tier, the nine-rung spine, the drain and waste-heat clocks, the Flux × η residual, and the recovery rates. **The ruled constant lives here in one place, `K = 1e6` (R44-1); change it there and every figure in the Part follows.** |
 | `ledger_tables.json` | what `ledger_tables.py` writes. The Part's arithmetic, machine-readable. |
+| `eu_band_sweep.py` | WAR-46, after the rulings. `fit.json` → `reports/eu_band_sweep_2026-09-25.md`: every attested EU figure that misses the band its Stage's Max Grade claims at 1 EU = 1 MJ, each with the reason nothing was set on it. Changes no card figure and reads no card. |
 
 ## Running it
 
 ```bash
-python imports/essence-ledger/extract_anchors.py   # sweep  -> _candidates.json
-python imports/essence-ledger/build_anchors.py     # build  -> anchors.json
-python imports/essence-ledger/fit.py               # fit    -> fit.json + report
-python imports/essence-ledger/ledger_tables.py     # tables -> ledger_tables.json + report
+bash build/py.sh imports/essence-ledger/extract_anchors.py   # sweep  -> _candidates.json
+bash build/py.sh imports/essence-ledger/build_anchors.py     # build  -> anchors.json
+bash build/py.sh imports/essence-ledger/fit.py               # fit    -> fit.json + report
+bash build/py.sh imports/essence-ledger/ledger_tables.py     # tables -> ledger_tables.json + report
+bash build/py.sh imports/essence-ledger/eu_band_sweep.py     # WAR-46 -> reports/eu_band_sweep_2026-09-25.md
 ```
 
-All four are read-only against `wiki/` and write only inside this folder.
+The first four are read-only against `wiki/` and write only inside this folder;
+`eu_band_sweep.py` reads only `fit.json` and writes only into `reports/`.
 
 ## What the fit found
 

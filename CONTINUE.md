@@ -6,6 +6,53 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-46 — R44-1's card sweep, swept and not applied)
+
+R44-1 settles 1 EU = 1 MJ and names the card figures that then miss their
+Stage's band as the error. WAR-46 read all of them and **changed no card
+figure.** `reports/eu_band_sweep_2026-09-25.md` is the sweep: 130 of the 155
+attested EU figures that have a band miss it — 124 below, 6 above, across 51
+files and 50 entities — and every one of the 130 is logged with the reason
+nothing was set. 48 sit on the twelve cards C-040 names, where the
+Stage-to-Grade chain that *makes* the band is contested, so the issue's own
+instruction is to stop; 11 are lines that call themselves estimates, which
+R44-1 does not name; 4 are Rusashin Forms whose own Gate cell states a Stage
+the fit did not read; 2 are stated fractions of another figure. The remaining
+65 are plain card figures that miss, and the reason they stand is the one that
+covers all 130: **the ruling names the error and states no corrected value.**
+"Inside the band" is a range 0.76 to 8.75 decades wide (median 1.96), nothing
+on any card names a point in it, and house rule 3.3 forbids inventing one.
+
+Two findings for whoever owns the fit, neither a card correction:
+`build_anchors.py` reads a Discipline page's entry Stage onto every Form in its
+cost table (Rusashin's four), and R44-4 has moved the η fifteen lines use —
+Part Nineteen Tier 5 is now 0.60–0.70, so the fit's delivered joules are 18%
+low on those lines and one row (`Spellcraft/Vainglory.md:28`) changes status.
+
+**What this needs is one more ruling:** what a corrected figure becomes. Under
+the 2026-09-25 CLAUDE.md direction that nothing waits on Isaac, that is the
+docket's to make, so it is filed to Doc Kett rather than parked. The report
+puts three shapes that would each be enough and recommends none. Until one is
+ruled, R44-1 is applied as far as it reaches — the constant stands, the misses
+are counted, every card stands as written. The AU/s sweep R44-2 hands on
+(twenty-six cards, `fit.json` `formula_check`) is a separate issue and
+untouched here; unlike this one it has a formula and may well be executable.
+
+**Two notes for the Ledger's own files.** The draft Part Twenty-Three works at
+1 EU = 1 kJ and says at its C-034 note that it "inherits whichever way Isaac
+rules"; R44-1 ruled 1 MJ, so the Part owes itself a rebuild at the ruled
+constant — WAR-12's, filed separately, not touched here. And `build_anchors.py`
+reads a Discipline page's entry Stage onto every Form in its cost table
+(Rusashin's four), while R44-4 has moved the η fifteen lines use to the Tier 5
+range 0.60–0.70, leaving the fit's delivered joules 18% low on those lines.
+
+**Not pushed to master, deliberately.** This commit sits on the WAR-22 branch
+behind `3215399`, the unpushed hand-edit of `RULINGS.md` that carries R44-1
+itself. Master has neither, and the 2026-09-25 CLAUDE.md says `RULINGS.md` is
+written only through `log_ruling` and "never edited by hand or committed from a
+worktree", so this run did not ship someone else's commit to get its own out.
+The report cites R44-1; it lands on master when R44-1 does.
+
 ## State on 2026-09-24 (the agents)
 
 The first full day of the Paperclip team working the repo. Fifteen commits

@@ -483,3 +483,13 @@
   opened_session: 1
   due: The Thin Weeks, or the first hard night after the road is decided.
   status: open
+- id: L051
+  category: debts
+  who: Sodoku Moto to Osric of Hallenfeld
+  text: Sodoku sends word by Robin Ice that the road is closed and he is not coming back through it, and
+    that Osric holds the gate until he does — a return he has promised against a road he has just declared
+    shut.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When Sodoku comes back through the narrows, or when the gate is opened by anyone else.
+  status: open

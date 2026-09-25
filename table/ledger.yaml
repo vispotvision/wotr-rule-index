@@ -398,3 +398,13 @@
   due: When a channel north of the Ashgate road reports again, or when the Stormfold road is confirmed
     closed.
   status: open
+- id: L043
+  category: debts
+  who: Edward Lambert
+  text: 'Edward Lambert rides the Stormfold road with six riders and no banner under orders to find Sonzai,
+    on his own terms: if he is not back in five days Lorn assumes the road is closed and acts accordingly.'
+  opened: '2026-09-25'
+  opened_session: 1
+  due: 'Five days from the morning the Kharven muster marched out: Edward is back, or the Stormfold road
+    is assumed closed.'
+  status: open

@@ -355,3 +355,13 @@
   due: When the six hundred learn what the sixteen months bought, or when anyone outside the column is
     told the cover was ordered.
   status: open
+- id: L039
+  category: who knows what
+  who: Wren Greymane
+  text: Only Wren Greymane knows the book in his saddlebag exists, with three of his own men killed by
+    their own kin entered in it; he has told nobody.
+  opened: '2026-09-25'
+  opened_session: 1
+  due: When anyone opens the saddlebag. Bram is the one man who would read it and hand it back without
+    a word.
+  status: open

@@ -70,7 +70,7 @@ def find(query: str, sheet: str = "", limit: int = 8) -> str:
     hits.sort(key=lambda h: h[0])
     out = [f"{len(hits)} Codex row(s) for '{query}'" + (f", first {limit}" if len(hits) > limit else "") + f" (from {CODEX.name}):"]
     for _, name, hdr, r in hits[:limit]:
-        title = r[1] if name != "Lists" and len(r) > 1 and r[1] else next(c for c in r if c not in (None, ""))
+        title = r[1] if name != "Lists" and len(r) > 1 and r[1] else next(c for c in r if c not in (None, "") and q in str(c).lower())
         out.append(f"\n### {name}: {title}\n{_row(hdr, r)}")
     return "\n".join(out)
 

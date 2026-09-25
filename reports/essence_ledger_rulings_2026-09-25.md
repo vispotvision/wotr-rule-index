@@ -5,7 +5,11 @@ each his choice among stated options. This file records what each answer
 changed in the repo, what it deliberately did not change, and the one page edit
 that is still owed.
 
-Record: the 2026-09-25 entry in `RULINGS.md`.
+Record: six `RULINGS.md` entries dated 2026-09-25, one per row, each headed by
+that row's id — `## 2026-09-25 — R44-1-EU_JOULE_ONE_MEGAJOULE` through
+`R44-6-BARE_BAND_V_IS_LEVEL_BAND`. They were logged with `log_ruling` under
+WAR-96, after WAR-72 found that the single entry this line first pointed at did
+not exist.
 Index: `rules/doc-essence-ledger-rulings-2026-09-25.yaml`, rows R44-1 to R44-6.
 Closed: `CONFLICTS.md` C-034, C-035, C-036, C-037.
 

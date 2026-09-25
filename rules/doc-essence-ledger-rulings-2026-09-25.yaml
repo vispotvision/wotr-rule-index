@@ -1,8 +1,14 @@
 # Standing rulings, originated: no source document. Isaac ruled directly on
 # 2026-09-25 on the Paperclip board, answering the WAR-11 Essence Ledger
 # questionnaire over the six calls Phase 1 raised, closing CONFLICTS.md C-034
-# through C-037. The record is the 2026-09-25 entry in RULINGS.md; each
-# verbatim quotes it. R44 is a free id-numeral bucket.
+# through C-037. The record is six entries in RULINGS.md, one per row, each
+# dated 2026-09-25 and headed by that row's own id — "## 2026-09-25 —
+# R44-1-EU_JOULE_ONE_MEGAJOULE" and so on through R44-6 — and each row's
+# verbatim is an exact substring of its own entry. The entries were logged with
+# log_ruling under WAR-96, after WAR-72 found that the entry these rows pointed
+# at did not exist; each entry carries Isaac's chosen option in the words the
+# card put to him beside the sentence the row quotes. R44 is a free id-numeral
+# bucket.
 # Standalone-ruling pattern: empty source.file.
 pack: Essence Ledger Rulings 2026-09-25
 pack_number: null

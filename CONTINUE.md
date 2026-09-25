@@ -6,6 +6,56 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-96 — R44-1..R44-6 are now in RULINGS.md)
+
+**The record exists.** Six `RULINGS.md` entries, one per row, logged with
+`log_ruling`: `## 2026-09-25 — R44-1-EU_JOULE_ONE_MEGAJOULE` through
+`## 2026-09-25 — R44-6-BARE_BAND_V_IS_LEVEL_BAND`. Each row's `verbatim` is an
+exact substring of its own entry — checked mechanically, all six True — so the
+one thing `validate.py` deliberately does not check is now checkable by grep.
+**WAR-46 and WAR-48 are unblocked**: R44-1 and R44-2 exist as rulings.
+
+**What each entry carries, and why it is two layers.** Isaac answered the WAR-11
+`ask_user_questions` card by *selecting options* — a, a, c, a, a, a on
+interaction `364556db-a75a-4e23-ab6a-cc9541ecdbcb`, resolved 17:59:14Z,
+`human_only` — and typed no prose. So each entry records the chosen option in
+the exact words the card put to him (label and description, block-quoted) and
+then the one-sentence form the index row quotes, said to be that. Nobody reading
+the entry can mistake the sentence for words Isaac typed, and nothing was
+paraphrased into existence that is not shown beside its source. No ruling's
+content moved: the constant is 1 EU = 1 MJ, and R44-3's scope is still the
+attack-output column only.
+
+**Pointers named precisely, not just "the 2026-09-25 entry".** That phrase was
+already ambiguous — RULINGS.md's other 2026-09-25 section is Isaac's seven
+precedence-ladder answers on WAR-61. Fixed in two files: the header comment of
+`rules/doc-essence-ledger-rulings-2026-09-25.yaml` and line 8 of
+`reports/essence_ledger_rulings_2026-09-25.md`.
+`imports/essence-ledger/the-essence-ledger.md` was **not** touched: its
+references read "the 2026-09-25 entry" / "the 2026-09-25 entries" and are true
+now that the entries exist, and it is WAR-12's draft, not this issue's file.
+
+**One real defect found in the tooling, filed as its own issue.** `log_ruling`
+resolves its repo from `mcp_server.py`'s own location (`common.ROOT`), so run
+from a worktree it appends to *that worktree's* `RULINGS.md`, commits it onto the
+worktree branch — the thing `CLAUDE.md` forbids — and then pushes the local
+`master` ref, which in a worktree is the main checkout's branch and was 39
+commits behind. All six calls returned `push failed: Updates were rejected
+because a pushed branch tip is behind its remote counterpart`. That is exactly
+how `3215399` became "the unpushed hand-edit of `RULINGS.md`" and vanished on
+the next rebase. Here the commits were pushed by hand with
+`git push origin HEAD:master` in the same run, so nothing sits unpushed.
+
+**The push carried three commits that are not this issue's**, unavoidably: git
+ancestry puts `43b3272` (WAR-22, mine), `90fd356` (WAR-46), `0785443` (WAR-72)
+and `067b901` (WAR-48) under the six ruling commits on this shared branch. All
+four were finished, committed, reviewed work that WAR-46 and WAR-48 deliberately
+withheld *because R44 had no record*; landing the record without them would have
+left the branch in the same knot. Named here so their own issues can see it.
+
+`python build/validate.py` PASS. No card, source, wiki, table, `sources/` or
+config file changed; `CONFLICTS.md` untouched.
+
 ## State on 2026-09-25 (WAR-48 — the 26 AU/s figures recomputed, none applied)
 
 **All twenty-six are recomputed and no card moved.**

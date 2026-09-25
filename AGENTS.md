@@ -192,9 +192,12 @@ each tag means is `schema/applies_to.md`.
    scene is Isaac's before you draft.
 3. `character` and `fow_line` for anyone named; `scene_brief` for the fill-in
    template; `scene_context <file>` (or `scene_recall "<moment>"`) for the
-   cards and the prior scenes on the same ground.
+   cards and the prior scenes on the same ground. `codex "<term>"` (or
+   `build/codex.py find`) for any glyph, spell, formula or Wellspring the
+   scene will work: The Master Codex read from the xlsx (Pack Eighteen 4a).
 4. After drafting: `verify_scene` / `build/verify.py` — every finding carries a
-   rule id or a Table Rule number; `voice_check` for a line that must sound
+   rule id or a Table Rule number; `codex_check` / `build/codex.py check` for
+   Pack Eighteen checks 37-39; `voice_check` for a line that must sound
    like its speaker.
 5. Nothing is archived by an agent. `archive_scene`, `log_ruling`,
    `ledger_add`, `advance_front`, `npc_set`, `create/update_character` write

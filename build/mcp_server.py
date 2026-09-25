@@ -579,6 +579,26 @@ def verify_scene(markdown: str, combat: bool = False, culture: str = "", band: s
 
 
 @server.tool()
+def codex(query: str, sheet: str = "", limit: int = 8) -> str:
+    """Look a term up in The Master Codex, read from the xlsx (R18-6, never from
+    memory): a glyph token or name, a spell, an alchemical formula, a Pantheon
+    member, a Wellspring or Family. sheet narrows to one of The Pantheon, Master
+    Glyph Index, Spell Index, Alchemical Index, Lists. Pack Eighteen step 4a:
+    query it for anything the scene will work before naming or writing it."""
+    import codex as Cx
+    return Cx.find(query, sheet, limit)
+
+
+@server.tool()
+def codex_check(markdown: str) -> str:
+    """Pack Eighteen checks 37-39 on a draft against The Master Codex: every
+    Latinate coinage on the Lists sheet, every [Glyph] token in the Master Glyph
+    Index, and the Spell Index rows it names (precedent stays a manual call)."""
+    import codex as Cx
+    return Cx.check(markdown)
+
+
+@server.tool()
 def propose_rule(title: str, rule_text: str, applies_to: list[str], rationale: str = "", session: str = "") -> str:
     """File a rule Natalie originated at the table as a proposal (pending Isaac's
     ratification). Appended to proposals/PROPOSED.md and pushed; folded into the next
@@ -1566,7 +1586,7 @@ def narration_status(job: str = "") -> str:
 READ_ONLY_TOOLS = {
     "load_rules", "rule", "check_docket", "list_conflicts",
     "wiki", "character", "fow_line", "scene_recall",
-    "session_start", "verify_scene", "stale_names", "scene_brief",
+    "session_start", "verify_scene", "codex", "codex_check", "stale_names", "scene_brief",
     "fronts", "due", "roster", "scene_menu", "scene_context",
     "timeline",  # prose_pass, recurrence_report, reconcile stay off the public route: minutes of CPU per call
     "voice_check", "voice_fingerprints", "gap_fill",

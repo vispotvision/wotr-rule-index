@@ -543,3 +543,57 @@ names the Tier twice and wants a reword; the ~115 repo files under `imports/`,
 `book/` and `scenes/The_Path_of_Sorrow.md` still carry the lettered Band, which was
 outside the sweep's stated scope — `The_Path_of_Sorrow.md` has it in narrative prose,
 which is a different decision from a field swap.
+
+## State on 2026-09-25 (the Essence Ledger's Part, and the constant)
+
+**WAR-12, Phase 2 of the Essence Ledger, is drafted and pushed
+(`imports/essence-ledger/the-essence-ledger.md`).** It is the draft FoW **Part
+Twenty-Three, "The Essence Ledger"** — nothing published to the wiki or Notion,
+which is Phase 4 (WAR-14). Every claim in it carries a `[canon]`, `[derived]`
+or `[draft]` marker, every quoted fragment was checked against the line it
+cites, and every slot a ruling must fill is marked **PENDING** with the
+question written so Isaac can answer it in a sentence. `validate.py` PASS.
+
+**The constant is 1 EU = 1 kJ, 1 AU/s = 1 kW — three decades below the brief,
+and Isaac's brief authorised exactly that** ("If 1 MJ fits badly, pick the
+constant that fits best and say why"). 1 MJ misses canon's only three
+self-pricing lines by 2.4 to 3.0 decades, puts Draen Varos's nine-kilogram
+Forge-Heart at 7.5 times its own rest-mass energy, and cooks every practitioner
+in their own waste heat inside a second. 1 kJ is inside two of the three
+measured windows, 0.034 decades outside the third, inside all four physical
+brackets `physics-check.md` §6 lists, and **the only power of ten that is.** At
+it Dougou Ozumu Zettari's sheet closes end to end: 7,400 EU buys 7.33 MJ, where
+The Iron Tree says that working lands, and his reserve holds twelve apex
+strikes. His reserve clock (21 s) and his heat clock (33 s) come out within a
+factor of 1.6 — which is the mechanic η exists to create, and it does not exist
+at 1 MJ.
+
+**The reserve table the cards say does not exist now has a spine, and the
+method was already ruled.** `Summoned and Bound/Obrenkael · The Mule.md:215`
+(2026-09-12) interpolates log-linearly **on Level**, not on Stage. Fitted to its
+own three anchors: **0.012812 decades per Level, ×10 every 78 Levels**, the two
+segments agreeing to 1.7%. Put through Part One's four Band gates it gives a
+hard reserve ceiling per Stage and a working band per Level-Band cluster —
+**29 of 31 attested reserves sit under the ceiling, 22 of 31 within a decade of
+the band**, with all 31 characters placed. The Part also carries the nine-rung
+spine (joules → Grade → Tier 1–9, derived from Part Four and Part Five with no
+name invented) that every WAR-13 ladder will hang on; the tier *names* are
+deliberately absent, being WAR-13's.
+
+**New:** `CONFLICTS.md` **C-041** — Sodoku Moto (Level 320, Stage VI) and
+Krothar Veylshroud (Level 380, Stage VIII) stand past Band gates their Stage
+has not opened, and those gates are the only hard ceiling canon puts on a
+reserve. Two further questions are named as PENDING in the Part rather than
+filed, because a sentence from Isaac settles either and neither is plainly
+canon against canon: **the missing mass** in `AU/s = Flux Density × η` (the
+identity is dimensionally short one mass; 21 of 29 cards imply 0.2–10 g and the
+three it already fits imply exactly 1 g, but Draen Varos — the one card stating
+a Crystal mass — implies 0.00024 g against his own nine kilograms), and **the
+two recovery populations** (six cards at 9–28% of reserve a minute, four at
+0.025–3.1%, medians 2.15 decades apart).
+
+**No card, page or figure was changed.** C-034 to C-040 stay open and the Part
+marks every table that rests on one. `imports/essence-ledger/ledger_tables.py`
+reproduces every figure in the Part from `anchors.json` and `fit.json` alone.
+**Next:** WAR-11 is the rulings Isaac owes; WAR-13 is the ladders; WAR-14 is
+publication.

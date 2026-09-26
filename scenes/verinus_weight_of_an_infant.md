@@ -112,7 +112,7 @@ Charles's fingers went to the pectoral chain and turned a link.
 
 "Say more, my lord."
 
-"You will carry a legation and the legation will be genuine. Grain, shipping, and whether this Court can broker anything that does not go through the corridor." Verinus let a breath out. "And you will look at Kharven with your own eyes and tell me whether the Moto are what they were, and you will find out who is standing at the Ore Council's elbow, and you will do all of that while being a bishop of Sanctum Lux in a room full of people who have every reason to lie to a bishop of Sanctum Lux. That is the errand. I am aware of what I am asking."
+"You will carry a legation and the legation will be genuine. Grain, shipping, and whether this Court can broker anything that does not go through the corridor." Verinus let a breath out. "And you will look at Kharven with your own eyes and tell me whether the Moto are what they were, and you will find out who is standing at the Ore Council's elbow, and you will do all of that while being a bishop of Sancta Lux in a room full of people who have every reason to lie to a bishop of Sancta Lux. That is the errand. I am aware of what I am asking."
 
 "And my brother is in Kharven."
 

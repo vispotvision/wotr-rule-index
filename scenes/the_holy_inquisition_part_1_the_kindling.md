@@ -78,7 +78,7 @@ Corvinus did not know what that meant.
 
 From the shadow behind the altar, the Pontifex moved. Cassian Tiberius Cruor stepped into the candlelight, and the room contracted.
 
-He did not walk the way other men walked. He moved the way a debt comes due, with the inevitability of a thing that has been waiting and has decided that it has waited enough. His armor caught the light in segments, dark plate over dark cloth, the golden filigree of the recut root glyphs tracing lines across his chest that Sanctum Lux would have recognized and would not have authorized. His hood was forward. Beneath it, the jaw. The mandible, amber-stained and bare, locked in its permanent rictus. The teeth. The eyes above, deep-set and lucid and the color of heated sap.
+He did not walk the way other men walked. He moved the way a debt comes due, with the inevitability of a thing that has been waiting and has decided that it has waited enough. His armor caught the light in segments, dark plate over dark cloth, the golden filigree of the recut root glyphs tracing lines across his chest that Sancta Lux would have recognized and would not have authorized. His hood was forward. Beneath it, the jaw. The mandible, amber-stained and bare, locked in its permanent rictus. The teeth. The eyes above, deep-set and lucid and the color of heated sap.
 
 He stopped at the front of the assembly. He looked at them. Forty-three cups, empty. Forty-three bodies, changed.
 

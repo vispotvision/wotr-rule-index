@@ -205,7 +205,7 @@ Peld made a sound that was almost a laugh and was mostly not.
 
 Then his face changed.
 
-Verinus did not see it happen, because he was facing the sea, but he felt the change come across the flags, because the man had begun to shape a second sentence and this one was not like the first. It came up out of him slowly and it was already, before he had said a word of it, heavier than the death of the Archpaladin of Sanctum Lux.
+Verinus did not see it happen, because he was facing the sea, but he felt the change come across the flags, because the man had begun to shape a second sentence and this one was not like the first. It came up out of him slowly and it was already, before he had said a word of it, heavier than the death of the Archpaladin of Sancta Lux.
 
 Verinus's hands came out of his sleeves.
 
@@ -659,7 +659,7 @@ Verinus knelt in the grey with his knuckles on the ground and said nothing for s
 
 Then he said, "Six hundred and six."
 
-The parish roll of Vaeloris, entered at the Alabaster Court eleven weeks ago in the hand of a deacon who had been requesting a Sanctum Lux chapter detachment and a Sealwright and forty men, gave the settled population of the village as seven hundred and forty-one souls.
+The parish roll of Vaeloris, entered at the Alabaster Court eleven weeks ago in the hand of a deacon who had been requesting a Sancta Lux chapter detachment and a Sealwright and forty men, gave the settled population of the village as seven hundred and forty-one souls.
 
 He had read that roll. He had held it. He had put it down on the working table and he had written on the docket, in his own hand, in the formulation he had spent forty-five years defending, *deferred pending corroboration*, because a single deacon's account of an incursion was one reading and one reading was not a finding, and he had scheduled the corroborating survey for the second week of the following month.
 

@@ -16,7 +16,7 @@ He went in carrying Maren. He came out with her kept in his Soul Crystal, perman
 
 ### The Cost
 
-The Scarlet Communion marked him. It wanted him for the curse half of his blood, the dark venous half. He went to none of them. He took to the roads unaligned. Sanctum Lux set its inquisitors after him, and they may pronounce sentence in the field without an Arbiter present.
+The Scarlet Communion marked him. It wanted him for the curse half of his blood, the dark venous half. He went to none of them. He took to the roads unaligned. Sancta Lux set its inquisitors after him, and they may pronounce sentence in the field without an Arbiter present.
 
 Near him, people's pulses ran fast, and none of them could say why. In the harvest rows it made the other hands uneasy. He kept to harvest work regardless. It was the trade he had, and it let him leave each farm when the grain was in.
 
@@ -30,7 +30,7 @@ The riders came before the new well was lined. Beatrix felt their horses through
 
 ### Where They Stand
 
-Leon Vaerenthal is an unaligned wanderer, once a farmer of Eld Hollow, who works other men's harvests. He is called the Crimson Stray, the Fang of the Fallen Field and the Farmer. The Communion's mark is on him. The inquisitors of Sanctum Lux ride the roads behind him, and he still carries the curse Elion offered to take.
+Leon Vaerenthal is an unaligned wanderer, once a farmer of Eld Hollow, who works other men's harvests. He is called the Crimson Stray, the Fang of the Fallen Field and the Farmer. The Communion's mark is on him. The inquisitors of Sancta Lux ride the roads behind him, and he still carries the curse Elion offered to take.
 
 He is bound to two people. Both bonds bear load. One is Maren, and she is dead. The other is Tilda, and she is alive. The Communion knows what a threat to Tilda does to him: he will flare, and flare again, until his Crystal fails.
 
@@ -44,4 +44,4 @@ Maren's soulprint is in him still. Whether her echo is responding or merely reco
 - **Maren** · his sister, the bond that is not living. She died, and he survived contact with what killed her.
 - **Tilda** · the living bond. A threat to her makes him flare until his Crystal fails, and the Communion knows it.
 - **The Scarlet Communion** · the mark. It marked him for the curse half of his blood.
-- **Sanctum Lux** · the hunters. Its inquisitors asked after him by name at the well he dug.
+- **Sancta Lux** · the hunters. Its inquisitors asked after him by name at the well he dug.

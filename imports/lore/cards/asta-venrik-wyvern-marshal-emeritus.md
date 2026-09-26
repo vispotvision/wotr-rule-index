@@ -46,6 +46,6 @@ Eressean councils sit in chambers built partly below grade. When war calls, the 
 - **Eryndrel Vaelune · The Trinebow** · comrades; a call refused. In the burning corridor he called the line closing aloud, and she would not leave it; it closed when he said it would.
 - **Aelor Vaelith · The Imperial Pegasus** · the queen and the Crown's champion. He held the far mouth while she held the corridor.
 - **Sandalphon Aestraen · The Reverent** · kin by marriage. He is consort to Saeloria, her husband's mother.
-- **Vaelen Mourcrix · The Exculpate Arbiter** · kin by marriage. His card descends House Mourcrix from House Venrik, and her own card counts him in the one bloodline that sits on both sides of Sanctum Lux and the Eressean Crown.
+- **Vaelen Mourcrix · The Exculpate Arbiter** · kin by marriage. His card descends House Mourcrix from House Venrik, and her own card counts him in the one bloodline that sits on both sides of Sancta Lux and the Eressean Crown.
 - **Ilyria Draven Morningstar · Monochrome** · her husband's daughter. Ilyria is Karo's daughter by a Draven Morningstar mother, and neither card names the other.
 - **Serenyra Vaelith · The Archmagus of the Grove-Spired Crown** · assent. Her refusal of the Grove-Spired throne was a handover, and the Venrik line holds it with her assent.

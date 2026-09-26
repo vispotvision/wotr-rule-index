@@ -1,7 +1,7 @@
 {
  "id": "c30",
  "name": "Alabaster and the Scale",
- "era_span": "The Withering Era. Maeron Iskare's card is the only one that states an era (\"Withering Era\"); the other five state none. Every card sets its member inside a living Holy Sea of Alabaster, a Sanctum Lux built on the Ladder of Standing, or an Accord that sends envoys to tea, so all three shared events are placed in the Withering Era, with no year: the commune before the Rimlands well, the White Parlour unordered against both, each after the card events it depends on (the petrification at Sirel; the Day of Seven Refractions, Seraphine's lost eye and Maeron's fused mask; the Mirrormass Incident, Beatrix's turn to using the arm, and Maren's death).",
+ "era_span": "The Withering Era. Maeron Iskare's card is the only one that states an era (\"Withering Era\"); the other five state none. Every card sets its member inside a living Holy Sea of Alabaster, a Sancta Lux built on the Ladder of Standing, or an Accord that sends envoys to tea, so all three shared events are placed in the Withering Era, with no year: the commune before the Rimlands well, the White Parlour unordered against both, each after the card events it depends on (the petrification at Sirel; the Day of Seven Refractions, Seraphine's lost eye and Maeron's fused mask; the Mirrormass Incident, Beatrix's turn to using the arm, and Maren's death).",
  "members": [
   {
    "slug": "lumen-varos-the-dawn-touched-oracle",
@@ -21,11 +21,11 @@
   },
   {
    "slug": "elion-drevas-the-black-cleric",
-   "line": "Former Sanctum Lux Lector from Eresse, expelled after the Mirrormass Incident at the Crevice, where he paid a Phenomenon off with half his Soul Crystal; pursued for \"divine inversion\", he wanders absolving the Wellspring-tainted by drawing their corruption into himself, with consent, at the price of his remaining life."
+   "line": "Former Sancta Lux Lector from Eresse, expelled after the Mirrormass Incident at the Crevice, where he paid a Phenomenon off with half his Soul Crystal; pursued for \"divine inversion\", he wanders absolving the Wellspring-tainted by drawing their corruption into himself, with consent, at the price of his remaining life."
   },
   {
    "slug": "leon-vaerenthal-the-farmer",
-   "line": "Farmer of Eld Hollow on the Senoth borderland, marked by the Scarlet Communion and hunted by Sanctum Lux inquisitors; his dead sister Maren is held in his Crystal, and his Ashen Guard flares unbidden only for those he holds an Axis to, Tilda among them."
+   "line": "Farmer of Eld Hollow on the Senoth borderland, marked by the Scarlet Communion and hunted by Sancta Lux inquisitors; his dead sister Maren is held in his Crystal, and his Ashen Guard flares unbidden only for those he holds an Axis to, Tilda among them."
   }
  ],
  "events": [
@@ -109,7 +109,7 @@
    "a": "elion-drevas-the-black-cleric",
    "b": "leon-vaerenthal-the-farmer",
    "kind": "fellow quarry, a refused rite",
-   "summary": "Both are Sanctum Lux's quarry by their cards; at the Rimlands well Elion offered to draw the curse out and Leon refused.",
+   "summary": "Both are Sancta Lux's quarry by their cards; at the Rimlands well Elion offered to draw the curse out and Leon refused.",
    "basis": "new"
   }
  ],
@@ -143,8 +143,8 @@
  "card_contradictions": [
   "What rules Alabaster. Seraphine's card: \"Alabaster Noble\" (I) and \"An Alabaster prince, once · Warned him off a coronation date that would have killed him within the week\" (`Seraphine Lurielle · Lilac Gaze.md`, IX). The Palatine's card: \"Head of state and head of the faith, seated at the Alabaster Court\" (`Verinus VII · The Palatine.md`, I). No page gives the Holy Sea a prince or a coronation.",
   "Indenture inside the Sea. Beatrix's card: \"formerly indentured to a root-healer commune under the Holy Sea of Alabaster's outer territories\" (I). The Palatine's card sets the Sea's abolition doctrine against \"every polity that trades in persons\" (relationships, Meren). The Long Reading: the Manumission Doctrine \"extends that protection to the counted, because a doctrine administered through an archive can only reach what the archive holds\". Whether the commune's indenture falls inside that doctrine no page says.",
-  "A Lector at Invocation. Elion's card: \"Former Sanctum Lux Lector\" and \"Catalyst Event · Stage IX, Invocation\", reached at the Crevice (I). The Sanctum Lux page sets the Lector's Temperance at Stages V to VII and the Arbiter's at VII to IX (The Ladder of Standing), and its Measurewrights \"maintain open Threshold cases on any member whose Stage progression and Level accumulation diverge\".",
-  "\"Divine\" in the Scale's mouth. Elion's card: Sanctum Lux \"Pursues him for \"divine inversion,\" the order's own word for what the Mirrormass Incident looked like from inside\" (IX). The Sanctum Lux page: \"Sanctum Lux does not worship\"; of the Archons and the Titans, \"it declines to call either of them gods\"; and of the street's error that the order is a church, it \"strikes it from every filing that carries a seal\".",
+  "A Lector at Invocation. Elion's card: \"Former Sancta Lux Lector\" and \"Catalyst Event · Stage IX, Invocation\", reached at the Crevice (I). The Sancta Lux page sets the Lector's Temperance at Stages V to VII and the Arbiter's at VII to IX (The Ladder of Standing), and its Measurewrights \"maintain open Threshold cases on any member whose Stage progression and Level accumulation diverge\".",
+  "\"Divine\" in the Scale's mouth. Elion's card: Sancta Lux \"Pursues him for \"divine inversion,\" the order's own word for what the Mirrormass Incident looked like from inside\" (IX). The Sancta Lux page: \"Sancta Lux does not worship\"; of the Archons and the Titans, \"it declines to call either of them gods\"; and of the street's error that the order is a church, it \"strikes it from every filing that carries a seal\".",
   "Penanceflare. Elion's card: \"The forgotten Well of Penanceflare\" (IX). Deimos's card: \"\"Penanceflare\" is not among the sixty\" (`Deimos · The Sin Eater.md`, migration note). The Caloria page lists \"Penanceflare · The Light of Contrition\" among its Wellsprings, and the cards of Rheon Kaeth, Kael Serradyn, Valthren Odrin, Valen Karth and Vaithesca carry it.",
   "A farm on ground that no longer attaches. Leon's card: \"Formerly a farmer of Eld Hollow, Senoth borderland\" (I). `RULINGS.md`, 2026-09-12: \"Senoth stays under \"Names That No Longer Attach to Ground\"\". Kaien Rhuven's card: \"a name that no longer attaches to ground\". The Atla'zon and Gaia page still speaks of \"the Priests of the Axis in the Senoth Kingdom\", and Renjiro Kaithen's card of \"the Senoth Kingdom's Ash Warden Corps\".",
   "Where the Alabaster cathedral stands. Maeron's card: \"Temporarily stationed in Eresse for a Wellspring audit of the Alabaster cathedral\" (I). The Kharven page puts the Sea's territory on \"the white shelf\"; the Inner World page says the Sea \"sits in no quarter and has no page\"; the New World page puts Eresse in the east (ruled 2026-09-12). No page places an Alabaster cathedral.",

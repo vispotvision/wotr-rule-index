@@ -26,7 +26,7 @@
 **Attraction Layer** · The Domain. *Every Aether thread inside the Lattice of Living Light is legible, a spell-tapestry and an archive at once.*
 **Crystal State** · Refined. **η** · ~0.70, Band B. *A derived value inside the Stage VIII range, carried under R20C-34 (canon on use, a source value beats it on contact).*
 **The Risk on the card, kept** · **Resonance Cascade.** *Misalignment of her internal Wellspring frequencies triggers a systemic collapse that manifests her dream-state as a hostile, localised reality field.* **In current terms this is a Crystal Fracture Event under forced output, and it is the counter every enemy on this sheet is reaching for.**
-**Craft** · **Runecraft first, Spellcraft second.** *Thesauriel writes lattices directly into reality without verbal incantation; Archivium Locus etches invisible glyphs into the environment; only Symphonia Ascendant is spoken.*
+**Craft** · **Runecraft first, Spellcraft second.** *Thesauriel writes lattices directly into reality without verbal incantation; Archivium Locus etches invisible glyphs into the environment; only Symphonia Ascendens is spoken.*
 **Categories** · **Glyphica, Harmonia, Domain Weaving, Mnemata.**
 
 ---
@@ -75,7 +75,7 @@
 **Veilweaver's Grace** · **Projected illusions are physically real within bounded spatial geometry, and stay real until the geometry is broken.** *Oneirion.*
 **Crystalline Recall** · **Records and replays a working's complete emotional signature and Essence flow as a living memory.** *Used to mimic, teach, or deceive.* **The [Ma] Recall glyphs in her eyes are this trait made visible.**
 **Blood of Florwyn** · **Attenuated communion with Verdantia during lunar alignments; minor spontaneous healing or growth-lattice construction.**
-> **Costs the card states, kept whole.** *High-output use of Symphonia Ascendant causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign.* **Activating the Temporal Chord spends a significant and irreversible portion of Crystalline Recall's stored memories, leaving permanent memory gaps upon repeated use.**
+> **Costs the card states, kept whole.** *High-output use of Symphonia Ascendens causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign.* **Activating the Temporal Chord spends a significant and irreversible portion of Crystalline Recall's stored memories, leaving permanent memory gaps upon repeated use.**
 
 ---
 
@@ -90,7 +90,7 @@
 
 ## VIII · Signature
 
-### Symphonia Ascendant
+### Symphonia Ascendens
 
 **Effect** · **She orchestrates Wellspring tones into weaponised, crystalline sound-geometry.** *The waves impose a refractive law on the target's internal Aether, and their own powers spontaneously redirect or fail catastrophically.* The other disciplines on the card: **Temporal Chord** *(Oneirion resonance slows or accelerates the subjective experience of time within a small radius; tactical, not a strike)*, **Archivium Locus** *(invisible glyphs etched into the environment, a fractal of her Domain, raise an immediate temporary shield whose geometry she then perfects)*.
 **Cost** · **Her own timeline.** *High output puts minor temporal fractures into her internal reality field. Only long Oneirion meditation realigns them. The Temporal Chord is paid for in stored memories that do not come back.* **A High Archivist of Resonance who is slowly losing her archive is the cost the card wrote, and it is a real one.**

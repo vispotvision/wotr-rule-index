@@ -60,9 +60,9 @@ Darius put a hand out and steadied himself on nothing, and stopped himself, and 
 
 [Gimbzo] "That's the order it goes in."
 
-[Darius] "Sanctum Lux teaches that Balance is the floor and that the rest are branches off it."
+[Darius] "Sancta Lux teaches that Balance is the floor and that the rest are branches off it."
 
-[Gimbzo] "Then Sanctum Lux is a house that taught itself the roof was the foundation because the roof was the part it could see." [narrator] Gimbzo turned the axe a quarter rotation in the ash by the haft and let it settle again. [Gimbzo] "You've got it in your head that the Judger owns one of these. That he stands for Balance and the other six belong to somebody else and your lot have been trespassing without knowing it. Aye?"
+[Gimbzo] "Then Sancta Lux is a house that taught itself the roof was the foundation because the roof was the part it could see." [narrator] Gimbzo turned the axe a quarter rotation in the ash by the haft and let it settle again. [Gimbzo] "You've got it in your head that the Judger owns one of these. That he stands for Balance and the other six belong to somebody else and your lot have been trespassing without knowing it. Aye?"
 
 [Darius] "That is the finding, yes."
 

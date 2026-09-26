@@ -243,7 +243,7 @@ flowchart TD
 |---|---|---|
 | **The Guild Accord** | Legitimacy by measurement. It recognises no bloodline, honours rank in every member polity, and issues the only portable legal identity most people will ever hold | It is a bureaucracy that compresses what it administers, and **it has a sixth Division whose existence the public Codex does not acknowledge** |
 | **The archaic bloodlines** | Legitimacy by descent, and the descent is not metaphorical — three of them trace to the three Epochs directly | A crown passes to a body. **A kingdom whose heir assays weak has a strategic problem no amount of ancestry solves** |
-| **The third parties** | Sanctum Lux, the Bench of Attribution, and the Paths each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
+| **The third parties** | Sancta Lux, the Bench of Attribution, and the Paths each claim an authority that answers to neither crown nor coil | Being answerable to no one is only an advantage until somebody asks who audits you |
 
 ---
 
@@ -393,12 +393,12 @@ The Magical Categories answer what kind of thing it is — Arts, Drafts, Conjunc
 - Möngke Büri → Bara Moto
 - Sarnai Büri → Mizuki Moto
 - Saruul Büri → Yukazuri
-- Söröl Ajiin → Hametsu no Go
-- Ariun Ajiin → Junketsu no Go
+- Söröl Ajiin → Hametsu no Gō
+- Ariun Ajiin → Junketsu no Gō
 - Tegsh Ajiin → Shigoto no Baransu
 - Temür Büri → Sodoku Moto
 - Muken Büri → Muken Moto
-- Süld Ajiin → Seirei no Go
+- Süld Ajiin → Seirei no Gō
 - Tengeriin → Tengan
 - Khar Ild → Kurosetsu
 - Ar Nutag → Okuchi
@@ -638,7 +638,7 @@ R8-21-REGISTER_NOT_ETHNICITY  [Pack Eight 2.1]  live
   A Japonic-sounding name is evidence about a house's linguistic descent and nothing else; this ruling is unchanged from elsewhere.
 
 R8-21-REGISTER_TABLE  [Pack Eight 2.1]  live
-  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sancta Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
 
 R8-22-BY_NAME_POETRY  [Pack Eight 2.2]  live
   The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.

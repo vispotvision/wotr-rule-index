@@ -102,7 +102,7 @@ Independent. Formerly of the Highspire Choir of the Celestial Host, the Verdict-
 ## IX · Relationships
 
 **The Highspire Choir** · **Apostate.** The Choir does not speak of him in official capacity.
-**Urion, the Judger as Sanctum Lux names him** · **Defied directly at the Irath Concord and survived.** *The Archons have never commented.*
+**Urion, the Judger as Sancta Lux names him** · **Defied directly at the Irath Concord and survived.** *The Archons have never commented.*
 **Four thousand spiritual dominions** · **Subjugated in the Silent Crusade.**
 **The karmic record** · **Inverted Cause and Effect in the Principle War and erased what the card calls a hundred thousand years of it.** *Read as magnitude, and never as a count.*
 

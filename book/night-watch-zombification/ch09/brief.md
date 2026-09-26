@@ -282,7 +282,7 @@ R22-4-SYSTEM_TERMS_TABLE  [Moto Reversion Ledger IV]  live
   Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
 
 R22-5-SEVEN_WORKS_TABLE  [Moto Reversion Ledger V]  live
-  Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
+  Söröl Ajiin→Hametsu no Gō (Ruin), Ariun Ajiin→Junketsu no Gō (Purity), Süld Ajiin→Seirei no Gō (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
 
 R22-6-DOCTRINE_COINAGES_TABLE  [Moto Reversion Ledger VI]  live
   Ar Nutag→Okuchi, Bükhel Mörgöl→Sōhai, Ajiin Devter→Hataraki no Sho.
@@ -342,7 +342,7 @@ R20-4-WHEN_NAMES_CHANGE  [Naming Guide Amendment Part Four]  live
   Yukari rename at life-stage; Dawi add the oath-name at oath-taking; Elven validate or strip names publicly; Concord freezes bynames into surnames over generations; Beastkin hold name-keeping as a last resort. Which rule applies when a character moves between cultures is always specific to the characters involved and never clean.
 
 R20-5-FORMAL_ADDRESS  [Naming Guide Amendment Part Five]  live
-  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
+  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sancta Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
 
 R20-5-ON_THE_PAGE  [Naming Guide Amendment Part Five]  live
   Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
@@ -738,7 +738,7 @@ R8-21-REGISTER_NOT_ETHNICITY  [Pack Eight 2.1]  live
   A Japonic-sounding name is evidence about a house's linguistic descent and nothing else; this ruling is unchanged from elsewhere.
 
 R8-21-REGISTER_TABLE  [Pack Eight 2.1]  live
-  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sancta Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
 
 R8-22-BY_NAME_POETRY  [Pack Eight 2.2]  live
   The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.

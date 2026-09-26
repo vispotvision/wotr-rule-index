@@ -16,7 +16,7 @@ It did not simply appear. It intruded. Vast black spires dragged themselves into
 
 Within that palace, at its center, beyond halls lined with voidfire braziers and corridors where the walls seemed to breathe with submerged hatred, Kujo entered the war chamber. The room was colossal, built for beings who did not think in human dimensions, its ceiling lost in shadow and its floor engraved with moving diagrams of continents, currents, ley-routes, Wellspring belts, and sovereign territories, all rendered in dim lines of shifting violet-black light. A circular table of polished dark stone waited at the chamber’s heart, and Kujo took the highest seat without flourish, as though hierarchy itself had simply resumed its proper shape the moment he arrived. Around him the five Void Generals seated themselves in silence, their indistinct forms settling like bad omens around a world already being measured for dismemberment.
 
-There, with the palace anchored over the grave of Vaeloris and its impossible height casting a new axis across the three worlds, they began to plot. They spoke of scattered remains and the hidden sites where Aelor’s fragments had been sealed. They spoke of nations to be studied, infiltrated, or broken. They spoke of the Sanctum Lux, of the Old World sovereigns, of the sea routes, the relay failures, the institutions that could be deceived, and the bloodlines that might yet become obstacles if left unattended. Every scheme they laid across that dark table carried the same underlying premise: the war had already begun, and the world was only slowly realizing that it had already lost the comfort of being untouched by it.
+There, with the palace anchored over the grave of Vaeloris and its impossible height casting a new axis across the three worlds, they began to plot. They spoke of scattered remains and the hidden sites where Aelor’s fragments had been sealed. They spoke of nations to be studied, infiltrated, or broken. They spoke of the Sancta Lux, of the Old World sovereigns, of the sea routes, the relay failures, the institutions that could be deceived, and the bloodlines that might yet become obstacles if left unattended. Every scheme they laid across that dark table carried the same underlying premise: the war had already begun, and the world was only slowly realizing that it had already lost the comfort of being untouched by it.
 
 And above them all Kujo sat in perfect composure, looking down upon the shifting maps with the stillness of a tyrant who had finally brought his throne into the land he intended to inherit. Vaeloris had not become a battlefield. It had become a capital. And from its desecrated center, beneath the impossible shadow of the palace now visible across the breadth of creation, the work of remaking the Material Plane into Aelor’s future home quietly, methodically began.
 
@@ -106,7 +106,7 @@ Kujo raised two fingers, and faint black veins appeared across the projected Daw
 
 The words carried more menace because of how casually he delivered them.
 
-“Not enough to transform them. Not enough to trigger Sanctum Lux. Not enough for the Ore Council to declare an emergency or for the Forge Guard to mobilize.” His fingers moved slowly across the map. “A trace. Something beneath the threshold of certainty.”
+“Not enough to transform them. Not enough to trigger Sancta Lux. Not enough for the Ore Council to declare an emergency or for the Forge Guard to mobilize.” His fingers moved slowly across the map. “A trace. Something beneath the threshold of certainty.”
 
 The corruption spread through isolated points rather than entire settlements.
 
@@ -126,7 +126,7 @@ His hand closed slowly.
 
 The Void Generals watched the corruption markers disappear and return elsewhere.
 
-“That is important,” Kujo continued. “Do not let it remain long enough to become measurable. Let them recover. Let physicians find nothing. Let Sanctum Lux take readings and discover only people who are tired, frightened, overworked, or uncertain.”
+“That is important,” Kujo continued. “Do not let it remain long enough to become measurable. Let them recover. Let physicians find nothing. Let Sancta Lux take readings and discover only people who are tired, frightened, overworked, or uncertain.”
 
 His gaze sharpened.
 
@@ -140,7 +140,7 @@ Kujo pointed toward the Upper Ring extraction cities. “Begin with workers who 
 
 Then he moved toward Altherion.
 
-“Be cautious there. Sanctum Lux measures too well.”
+“Be cautious there. Sancta Lux measures too well.”
 
 The Grand Church compound appeared on the map.
 
@@ -190,7 +190,7 @@ There was no concern in his answer.
 
 He rested one hand against the table.
 
-“They will inspect. Measure. Compare. Reassay. Quarantine. Argue jurisdiction. The Ore Council will blame labor conditions. The River Crown will demand protections. Sanctum Lux will insist upon independent readings. Guild masters will resist interruptions to production.”
+“They will inspect. Measure. Compare. Reassay. Quarantine. Argue jurisdiction. The Ore Council will blame labor conditions. The River Crown will demand protections. Sancta Lux will insist upon independent readings. Guild masters will resist interruptions to production.”
 
 His eyes narrowed slightly.
 
@@ -278,7 +278,7 @@ Lucious watched carefully.
 
 He did not attempt to reclaim it.
 
-Kujo turned the fragment once, examining the pale architecture running beneath its surface. “Sanctum Lux has spent a great deal of effort searching for this.”
+Kujo turned the fragment once, examining the pale architecture running beneath its surface. “Sancta Lux has spent a great deal of effort searching for this.”
 
 “They have.”
 
@@ -614,7 +614,7 @@ The story that began traveling through Stannvaard was therefore not that Noricc 
 
 That made politicians curious.
 
-By the third week, Noricc was being invited into rooms that technically had nothing to do with him. He sat at the end of guild dinners and listened while men with fifty years of administrative experience complained about Ore Council quotas. He attended a Transport Guild review as an “informal technical witness” and spoke only twice, both times after everyone else had exhausted themselves. He learned who despised whom, which marriages had become political treaties, which guildmasters feared retirement, which councilors believed Altherion received too much attention, and which Dawi resented that Sanctum Lux could sit inside their kingdom and measure them without asking permission.
+By the third week, Noricc was being invited into rooms that technically had nothing to do with him. He sat at the end of guild dinners and listened while men with fifty years of administrative experience complained about Ore Council quotas. He attended a Transport Guild review as an “informal technical witness” and spoke only twice, both times after everyone else had exhausted themselves. He learned who despised whom, which marriages had become political treaties, which guildmasters feared retirement, which councilors believed Altherion received too much attention, and which Dawi resented that Sancta Lux could sit inside their kingdom and measure them without asking permission.
 
 Most importantly, he learned how people spoke about the Queen when they believed the conversation harmless.
 
@@ -1018,7 +1018,7 @@ Kujo touched the cloth.
 
 The hidden script returned.
 
-He read the message slowly, one hand resting beneath his chin while the shifting map of Stannvaard burned below him. Thane-Gorr glowed within the Ring. Altherion sat along the northern rim, Sanctum Lux marked within it like a pale wound surrounded by black geography.
+He read the message slowly, one hand resting beneath his chin while the shifting map of Stannvaard burned below him. Thane-Gorr glowed within the Ring. Altherion sat along the northern rim, Sancta Lux marked within it like a pale wound surrounded by black geography.
 
 When Kujo reached the final line, he smiled.
 
@@ -1114,7 +1114,7 @@ His fingers closed around the cloth.
 
 “Then I will teach her what she has been missing.”
 
-Noricc never introduced the Queen to the Void as power. Power would have made her cautious, and caution would have brought Sanctum Lux, the Ore Council, and every old Dawi instinct against corruption into the room at once. Instead, he introduced it as refinement. The first sample was no larger than a grain of blackened metal resting inside a shallow Petralon dish, spiritually empty enough that every instrument placed near it reported almost nothing. When she asked whether it was Void, Noricc answered simply that it was a trace, enough to observe but not enough to obey. Then he placed it beside a minor inscription array and allowed the smallest corruption to remove a redundant relational thread. The array did not collapse. It became cleaner, quieter, more efficient. To the Queen, it looked less like corruption and more like unnecessary complexity being stripped away.
+Noricc never introduced the Queen to the Void as power. Power would have made her cautious, and caution would have brought Sancta Lux, the Ore Council, and every old Dawi instinct against corruption into the room at once. Instead, he introduced it as refinement. The first sample was no larger than a grain of blackened metal resting inside a shallow Petralon dish, spiritually empty enough that every instrument placed near it reported almost nothing. When she asked whether it was Void, Noricc answered simply that it was a trace, enough to observe but not enough to obey. Then he placed it beside a minor inscription array and allowed the smallest corruption to remove a redundant relational thread. The array did not collapse. It became cleaner, quieter, more efficient. To the Queen, it looked less like corruption and more like unnecessary complexity being stripped away.
 
 She asked him to repeat the demonstration, and Noricc obliged only after making her wait. That reluctance was part of the design. If he offered the Void too eagerly, she would recognize recruitment; if he appeared cautious, every step closer to it became her own decision. The second sample came days later, hidden beneath a table while she reviewed three versions of the same Ore Council report. The Void introduced tiny discontinuities in the associative weight of the annotations, making repeated conclusions feel less authoritative simply because others had agreed with them. Suddenly she noticed how many recommendations reached her already softened, filtered, and polished into decisions she was expected merely to approve. Noricc never told her what to think. He only let her experience the feeling that the Void removed other people from the space between herself and the truth.
 
@@ -1140,7 +1140,7 @@ By the seventh week, she no longer asked whether the Void was dangerous. She ask
 
 When she asked what she would be using instead, Noricc gave her the answer he had been guiding her toward from the beginning: authority. The Obsession Force tightened around her wrist, crimson strands darkening as a thread of black entered them so subtly that the Queen never noticed the difference. Noricc did. Kujo had ordered him not to break her, and he had followed that command perfectly. She was still intelligent, still capable, still herself, but one desire had been made louder than all the others. Her fear of becoming ceremonial had become a need to decide, that need had become a need to control, and now the need for control had become an opening the Void could enter without ever needing to force the door.
 
-Noricc introduced the idea carefully, long after the Queen had begun trusting his judgment enough that advice no longer felt like intrusion. He waited until the end of an exhausting Ore Council session, when three guild masters had spent two hours arguing over succession privileges, trade authority, and whether the Crown possessed sufficient independent standing to renegotiate a northern corridor compact. Only after the chamber emptied did he mention Rainmere, almost as though it were merely another line in the ledger. “There is another solution to the question of standing,” he said. “Not administrative. Dynastic.” The Queen looked at him immediately, suspicion sharpening her expression, and Noricc continued before she could reject the thought. “A political marriage would give the Crown an external pillar that does not belong to the Ore Council, Sanctum Lux, or any institution already capable of filtering your authority.”
+Noricc introduced the idea carefully, long after the Queen had begun trusting his judgment enough that advice no longer felt like intrusion. He waited until the end of an exhausting Ore Council session, when three guild masters had spent two hours arguing over succession privileges, trade authority, and whether the Crown possessed sufficient independent standing to renegotiate a northern corridor compact. Only after the chamber emptied did he mention Rainmere, almost as though it were merely another line in the ledger. “There is another solution to the question of standing,” he said. “Not administrative. Dynastic.” The Queen looked at him immediately, suspicion sharpening her expression, and Noricc continued before she could reject the thought. “A political marriage would give the Crown an external pillar that does not belong to the Ore Council, Sancta Lux, or any institution already capable of filtering your authority.”
 
 She disliked the suggestion on instinct. Marriage meant another person close enough to become a competing center of influence, and the obsession that had begun wrapping itself around control recoiled at the idea before reason could examine it. Noricc anticipated that reaction perfectly. He did not tell her she needed a husband, nor did he appeal to romance. He framed the arrangement as structural independence: a consort without hereditary claim over Stannvaard, backed by foreign wealth and diplomatic recognition, could expand the throne’s reach while remaining legally subordinate to her sovereignty. “You would not be marrying upward,” Noricc told her. “You would be importing leverage.”
 

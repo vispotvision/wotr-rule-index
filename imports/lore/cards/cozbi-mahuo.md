@@ -48,7 +48,7 @@ The seal still holds him. It never reached the dragon, whose dominion he had bui
 
 Dova'Kan read one of his workings before it finished casting. Cozbi's voice sped up. It is the only time the record shows it. He stepped back and said, "Begin with the shred, then." The encounter is unresolved.
 
-His true body sits on the pedestal, and the Ledger works wherever his lattice has touched. His son is still kept unaware. His constructs stutter, and he cares for them. Sanctum Lux's Oracle weighs completed acts and returns no reading on his numbered works. The one Mahuo in that order who could explain why has met him once, and neither has filed a record of it. A report in the north holds him dead. It has not been ratified.
+His true body sits on the pedestal, and the Ledger works wherever his lattice has touched. His son is still kept unaware. His constructs stutter, and he cares for them. Sancta Lux's Oracle weighs completed acts and returns no reading on his numbered works. The one Mahuo in that order who could explain why has met him once, and neither has filed a record of it. A report in the north holds him dead. It has not been ratified.
 
 ### Ties
 

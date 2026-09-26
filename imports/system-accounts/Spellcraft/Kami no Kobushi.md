@@ -247,7 +247,7 @@ the effective mass of the coupling, which is every Labor-Form's delivery.
 
 Then each Work conditions a different law and lets that law run:
 
-- **Houkai, the Ruin Fist**, loads a pre-existing flaw. It *"locates a
+- **Hōkai, the Ruin Fist**, loads a pre-existing flaw. It *"locates a
   structure's oldest failure and makes it arrive on schedule rather than creating
   new damage"* — the Griffith criterion, where the stress intensity at a crack
   tip goes as the square root of its length, so the practitioner does not have to

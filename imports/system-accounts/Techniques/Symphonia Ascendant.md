@@ -1,5 +1,5 @@
 ---
-page: wiki/Techniques/Symphonia Ascendant.md
+page: wiki/Techniques/Symphonia Ascendens.md
 section: Techniques
 practitioner: Serenyra Vaelith
 card: wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md
@@ -10,7 +10,7 @@ status: awaiting-ruling
 method: imports/system-accounts/_method.md
 ---
 
-# System account · Symphonia Ascendant
+# System account · Symphonia Ascendens
 
 ## 1 · Physical account (physics)
 
@@ -230,7 +230,7 @@ nature, not applied to us from outside. **A person does not have a harmony. A pe
 chord sounded near them does not add anything; it addresses a ratio that was already there and either
 agrees with it or does not.
 
-**That is Symphonia Ascendant stated six hundred years before the physics.** Serenyra's aim, in her own
+**That is Symphonia Ascendens stated six hundred years before the physics.** Serenyra's aim, in her own
 words on the card, is *"the equation that lets every soul sing in harmony with its own light"* — which
 is *musica mundana* and *musica humana* proposed as one formula. And the working's Limit is Boethius's
 epistemology exactly: you cannot sound a person's ratio until you have heard it, because the ratio is
@@ -363,8 +363,8 @@ at all. **The page calls this outcome harmless. Nothing in the two laws under it
 | **Dominion Sense gate** | **✓ passes** | *"**Sense** requires Spirit Path at Stage III to exceed C for topology and higher-order phenomena"* — Spirit, which she has. |
 | **Dominion Radius gate** | **fails twice** | Dominion Radius 490 = S-Grade. *"**Radius** requires **Attraction Path at Stage V** to exceed A, Stage VI to exceed A for **partial projection outward**, and Stage VII to exceed S for boundary expansion speed."* The five kilometres is projection outward. No Attraction on the card. |
 | **Sub-Stat provenance** | **two of three undeclared** | Aurevane and Mirithane between them yield Gnosis Perception, Gnosis Vigilance, Harmonics Attunement (ex-Fidelity) and Resilience Anchoring (ex-Coherence). **Dominion Sense and Dominion Radius come from Abyntheus and Oneirion**, neither declared by the page (`SA-CROSS-SYMPHONIA-DOMINION-SOURCE`). |
-| Law V, material anchor | **✓ and she declines the exemption** | Stage VIII is above Refraction, so *"the Glyph Roles compress into an internal chain that needs no material anchor at all"* (`The Four Crafts`). The card nonetheless records that **this one is spoken**: *"only Symphonia Ascendant is spoken"* (`:41`). **She is the only practitioner in the batch who gives an opponent an anchor she is not required to have** — see §5. |
-| **Cost, page vs card** | **two different costs, one of them real** | Page: *"Resonance Strain after three uses in a scene, and Perception Debt"* (`:37`). Card: *"High-output use of **Symphonia Ascendant** causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign"* (`:90`). The card names the technique and prices it in her timeline (`SA-CROSS-SYMPHONIA-COST`). |
+| Law V, material anchor | **✓ and she declines the exemption** | Stage VIII is above Refraction, so *"the Glyph Roles compress into an internal chain that needs no material anchor at all"* (`The Four Crafts`). The card nonetheless records that **this one is spoken**: *"only Symphonia Ascendens is spoken"* (`:41`). **She is the only practitioner in the batch who gives an opponent an anchor she is not required to have** — see §5. |
+| **Cost, page vs card** | **two different costs, one of them real** | Page: *"Resonance Strain after three uses in a scene, and Perception Debt"* (`:37`). Card: *"High-output use of **Symphonia Ascendens** causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign"* (`:90`). The card names the technique and prices it in her timeline (`SA-CROSS-SYMPHONIA-COST`). |
 | **"Resonance Strain," "Perception Debt," "Anchor Ward," "Fate-locked Edict"** | **four terms, zero attestations** | None occurs anywhere in the corpus outside this page. They are its **entire Cost line and its entire Counter line** (`SA-UNATT-SYMPHONIA-VOCABULARY`). |
 | "Coherence Band B" (card `:59`) | **retired** | Lettered Coherence Bands retired under R42 (`SA-UNATT-COHERENCE-BAND`). |
 | Starvation margin | `null` | No cost stated as a fraction of reserve (`SA-GAP-EU-FORMULA`). |
@@ -404,7 +404,7 @@ disagrees with her own card's, and a Counter line written in four words the corp
 
 | Test | Verdict | Why |
 |---|---|---|
-| Costs something that hurts | **FAIL on the page, pass on the card** | The page charges *"a temporary tremor in her own resonance that costs her precision; for a while afterward she hears echoes of chords not yet played"* (`:18`) — inconvenience, and priced in terms the corpus does not define. The card charges her **archive**: *"High-output use of Symphonia Ascendant causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign"*, on a woman whose title is High Archivist of Resonance. The real cost exists; it is on the other document (`SA-CROSS-SYMPHONIA-COST`). |
+| Costs something that hurts | **FAIL on the page, pass on the card** | The page charges *"a temporary tremor in her own resonance that costs her precision; for a while afterward she hears echoes of chords not yet played"* (`:18`) — inconvenience, and priced in terms the corpus does not define. The card charges her **archive**: *"High-output use of Symphonia Ascendens causes minor temporal fractures in her internal reality field, requiring intensive Oneirion meditation to realign"*, on a woman whose title is High Archivist of Resonance. The real cost exists; it is on the other document (`SA-CROSS-SYMPHONIA-COST`). |
 | Stated limits | **split: one excellent, one hollow** | *"It does not touch a purely mundane attack"* (`:19`) is a genuine, unworkaroundable limit and the best line on the page — it hands Counterplay Route III to any opponent with a crossbow. *"She has to have heard or felt the target cast"* is not a limit at all once you read her Trait: **Crystalline Recall** *"records and replays a working's complete emotional signature and Essence flow as a living memory"* and is *"used to mimic, **teach**, or deceive"* (card `:88`). The prior read is archived, permanent, obtainable at five kilometres without being present, and **teachable to someone else** (`SA-FAIR-SYMPHONIA-PRIOR-READ`). |
 | Something beats it | **pass, and generously** | Four routes, three of them named on the page and one of them better than the page knows (§1a): mundane force, a non-repeating pattern, an anchor that detunes, and Void/Entropy currents. The register adds two more the page does not name, and one of them is her own equipment. |
 | It has a tell | **pass, three of them, and she chose one of them herself** | Aurevane's own Failure is *"**Glare.** Coherent output is also a beacon, and Aurevane practitioners are the easiest people in any engagement to locate."* Her Grade-S passive field is Part Eleven's *"Storm reverence within 1 km"*, which is on the card as *"ordinary sound is dampened under a faint sub-audible hum"* (`:24`). And the working is **spoken** when her Stage does not require it to be. |
@@ -421,7 +421,7 @@ disagrees with her own card's, and a Counter line written in four words the corp
 - **Break the Boundary — "Interrupt the chain," which she has volunteered.** *"Below Refraction a working
   requires an external anchor: voice, hand, ink or blood. … **Put a hand over his mouth** and a spoken one
   is. Above Refraction the chain is internal and none of this applies."* She is Stage VIII. **None of this
-  should apply to her** — and her own card says *"only Symphonia Ascendant is spoken"* (`:41`). The one
+  should apply to her** — and her own card says *"only Symphonia Ascendens is spoken"* (`:41`). The one
   working on her sheet that reaches five kilometres is the one she has given an interrupt.
 - **Break the Boundary — "Knot," which is the chaotic-pattern counter with a name.** *"**Knot** entangles
   a path so it cannot be traced cleanly."* That is §1a's broadband target stated as a Counter form, and

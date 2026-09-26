@@ -10,7 +10,7 @@ An Archon is not summoned, invited, or reached. The office is addressed, the off
 
 Nothing is asked of it and nothing is offered to it. A man who believes he has bargained has misfiled the encounter.
 
-Where an Archon takes hold of the world, the world afterward has a shape it did not have. This is the whole of the mechanism the Court is prepared to state, and Sanctum Lux has been asked eleven times to state more and has eleven times declined in writing.
+Where an Archon takes hold of the world, the world afterward has a shape it did not have. This is the whole of the mechanism the Court is prepared to state, and Sancta Lux has been asked eleven times to state more and has eleven times declined in writing.
 
 *Recorded observation, and the register calls it an observation because it declines to call it a doctrine: a rite in the office's own function, performed to completion by a soul spoken for, has three times been taken up. Taken up is the register's word. In none of the three cases did the celebrant remain where he had been standing. In two of the three, the seal that was made continued to stand afterward and was no longer made of the man.*
 
@@ -172,7 +172,7 @@ He worked his right foot out of the ash for the first time since he had put it t
 **Canon and rulings.**
 1. *Utopia* is the Celestial Host's seat with three sub-realms and the Lawbell, per project canon. Used.
 2. *The three taken-up rites* in the Rubric extract are originated, including the third entry the clerk's hand goes unsteady on.
-3. *Darius* corrected to **Darius Ignatius Sanctus Sanctorum**, Archpaladin of Sanctum Lux, per his Notion entries. The invented surname is struck.
+3. *Darius* corrected to **Darius Ignatius Sanctus Sanctorum**, Archpaladin of Sancta Lux, per his Notion entries. The invented surname is struck.
 4. *The Withdrawal* as the Court's term, and the eleven refusals to state more, are originated.
 5. *Scale-pans levelling in four worlds for the length of the gaze and refusing to agree for a season afterward* is originated, and it is the cleanest evidentiary trail anyone in the Inner World will have that this happened. Every Measurewright alive now has an instrument problem and no explanation.
 

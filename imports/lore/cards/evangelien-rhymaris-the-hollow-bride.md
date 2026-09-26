@@ -36,7 +36,7 @@ Evangelien walks the Inner World in wedding garments soaked with spectral ink, a
 
 In the ruins of Elenthyr, Azure Serathiel saw her wandering and offered a silent bow. She bowed back. No words passed. In the halls of a ruined shrine among the same ruins, with blood on her face from the tears, she met Ambrose Virellith in the dress meant for death. They bowed to one another and passed without a word, each going on the way the other had come. Nobody knows whom Ambrose saw in her. No account puts these meetings in order.
 
-Fringe cults of Sanctum Lux fear and worship her. So do the Thorn-Seers. The Flock of Thorns calls her Saint Erasure and copies her pain, believing it will carry them past mortality. The Bench of Attribution has never been asked to rule on whether she counts as a source. A rumour puts her in the Dead Garden.
+Fringe cults of Sancta Lux fear and worship her. So do the Thorn-Seers. The Flock of Thorns calls her Saint Erasure and copies her pain, believing it will carry them past mortality. The Bench of Attribution has never been asked to rule on whether she counts as a source. A rumour puts her in the Dead Garden.
 
 She is bound to a forgotten Wellspring deep beneath the Inner World's crust. Nobody knows whether the Wellspring is bound to her or she to it, or whether it lay there before Elenthyr fell. No record names the man she wears the veil for, and she has lost the name herself.
 

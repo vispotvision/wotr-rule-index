@@ -51,9 +51,17 @@ def main():
         if e.get("delete"):
             deleted += 1
             if apply:
-                api("DELETE", f"/blocks/{bid}")
+                try:
+                    api("DELETE", f"/blocks/{bid}")
+                except RuntimeError as err:
+                    print("SKIP (already gone)", bid, str(err)[:60])
             continue
-        b = api("GET", f"/blocks/{bid}")
+        try:
+            b = api("GET", f"/blocks/{bid}")
+        except RuntimeError as err:
+            print("SKIP (unreadable)", bid, str(err)[:80]); skipped += 1; continue
+        if b.get("archived") or b.get("in_trash"):
+            print("SKIP (archived)", bid); skipped += 1; continue
         typ = b["type"]
         rts = b[typ]["cells"] if typ == "table_row" else [b[typ].get("rich_text")]
         css = [chars(rt) if rt is not None else None for rt in rts]
@@ -61,6 +69,8 @@ def main():
             print("SKIP (non-text)", bid); skipped += 1; continue
         ok = True
         for ed in sorted(e.get("edits", []), key=lambda x: -len(x["old"])):
+            if not ed["old"]:
+                print("MISS (empty old)", bid); ok = False; continue
             k = next((k for k, cs in enumerate(css) if ed["old"] in "".join(c for c, _ in cs)), None)
             if k is None:
                 print("MISS", bid, repr(ed["old"][:60])); ok = False; continue

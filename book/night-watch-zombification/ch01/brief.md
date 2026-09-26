@@ -170,7 +170,7 @@ R20-4-PRONUNCIATION_ADAPTATION  [Naming Guide Amendment Part Four]  live
   When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
 
 R20-5-FORMAL_ADDRESS  [Naming Guide Amendment Part Five]  live
-  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
+  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sancta Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
 
 R20-5-ON_THE_PAGE  [Naming Guide Amendment Part Five]  live
   Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.
@@ -539,7 +539,7 @@ R8-15-DESCRIPTION_STYLE  [Pack Eight 1.5]  live
   The description is written the way a man teaching it would write it: flat operational prose, no mood, no cadence work, no elegiac register — that belongs in scenes.
 
 R8-21-REGISTER_TABLE  [Pack Eight 2.1]  live
-  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sanctum Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
+  Where a request specifies a register, that register governs and the name is built in it first: Concord/Accord/Guild/Sancta Lux is Latinate; Ketsuen/Japonic houses use Japanese; Korean-register houses use Korean; Büri is Mongolian; Dawi is stressed Germanic-Norse compound; Eresse is Latinate with elvish morphology; Parunic and older strata use Parun etymology.
 
 R8-22-BY_NAME_POETRY  [Pack Eight 2.2]  live
   The by-name, where an art has one, sits after the gloss and is what other characters call it — the one place poetry is allowed.

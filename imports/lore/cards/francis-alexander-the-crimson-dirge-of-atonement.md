@@ -14,7 +14,7 @@ Francis held a single judgment for so long that the Throne he was wired to stopp
 
 He kept Judicium, with Exuroth and Catharsis beside it. Exuroth is the Trial Flame: what fails the verdict burns, and what passes is left untouched, so the first witness assumes the working has failed. He began to edit the operational principles at the level of Archonic Law. Every edit was an invocation the Pantheon had not authorised, and the Crimson Codex wrote each rewrite into itself as he made it. A man who reads the Codex knows which laws are bent and which are still load-bearing.
 
-At the Irath Concord he defied Urion, the Judger as Sanctum Lux names him, directly. He survived it. In the Silent Crusade he subjugated spiritual dominions, binding the principle each incorporeal thing ran on. In the Principle War he inverted Cause and Effect and erased a vast stretch of the karmic record.
+At the Irath Concord he defied Urion, the Judger as Sancta Lux names him, directly. He survived it. In the Silent Crusade he subjugated spiritual dominions, binding the principle each incorporeal thing ran on. In the Principle War he inverted Cause and Effect and erased a vast stretch of the karmic record.
 
 His doctrine was that atonement is removal. Accumulated through all of it, that doctrine became recognisable to a Hollow Throne, and the recognition came from the Throne's side.
 
@@ -48,6 +48,6 @@ Nobody knows whether the thirteenth seat has already noticed the hymn.
 - **Aeldoris Vanthryx · The Ruthless** · one epithet; the counter his card names. Aeldoris hunts on Oneirion, the dream-law current the Dirge cannot resolve against, and the Catharsis Francis carries answers Aeldoris in turn.
 - **Aelum · The Pale Hierophant** · one Host, two eras. Both were Sung, and in the Voyager Era Aelum answered to his Choir alone.
 - **The Highspire Choir** · apostate. It does not speak of him in official capacity.
-- **Urion, the Judger as Sanctum Lux names him** · defied. Francis defied him directly at the Irath Concord and survived, and the Archons have never commented.
+- **Urion, the Judger as Sancta Lux names him** · defied. Francis defied him directly at the Irath Concord and survived, and the Archons have never commented.
 - **The spiritual dominions of the Silent Crusade** · subjugated. Every bond runs toward him.
 - **The karmic record** · inverted. In the Principle War he inverted Cause and Effect and erased a vast stretch of it.

@@ -26,7 +26,7 @@ Lambert's eyes came up. Only the eyes.
 
 He put two fingers on the boards.
 
-"Sanctum Lux does not hold Stannvaard. Say that out loud and hear how obvious it is. The Grand Church sits at Altherion and it has jurisdiction in four worlds and no writ over an ore quota. It cannot open a granary. It cannot close a corridor. It cannot instruct a factor house to hold a shipment for two seasons and it has never once tried, because the day it tries is the day the Ore Council remembers whose mountain the church is standing on." His fingers moved half an inch across the wood. "Twelve guild masters. A council chair. The River Crown's republic underneath all of it. That is where the decision lives, and it has lived there for two hundred years, and no theology I have ever been furious about has moved one wagon."
+"Sancta Lux does not hold Stannvaard. Say that out loud and hear how obvious it is. The Grand Church sits at Altherion and it has jurisdiction in four worlds and no writ over an ore quota. It cannot open a granary. It cannot close a corridor. It cannot instruct a factor house to hold a shipment for two seasons and it has never once tried, because the day it tries is the day the Ore Council remembers whose mountain the church is standing on." His fingers moved half an inch across the wood. "Twelve guild masters. A council chair. The River Crown's republic underneath all of it. That is where the decision lives, and it has lived there for two hundred years, and no theology I have ever been furious about has moved one wagon."
 
 "Then why have you spent four minutes being furious about it," Lambert said.
 
@@ -150,7 +150,7 @@ She said it to Verinus and not to Robin, which Robin noticed and filed.
 
 "Noted, entered, and I am considering it," Verinus said.
 
-"Then hear the rest of it. You would be moving against the expressed will of the High Church of Sanctum Lux." Barrow's voice did not rise, because nobody's did in that city. "That is not a censure. That is a stripping. You would not be the Palatine by the spring convocation and you know it, and whatever you think you are buying, you would be buying it with the seat and not with your own coin, and the seat is not yours to spend."
+"Then hear the rest of it. You would be moving against the expressed will of the High Church of Sancta Lux." Barrow's voice did not rise, because nobody's did in that city. "That is not a censure. That is a stripping. You would not be the Palatine by the spring convocation and you know it, and whatever you think you are buying, you would be buying it with the seat and not with your own coin, and the seat is not yours to spend."
 
 *Nineteen years and he still thinks the chair against the wall means he is not sitting in it.*
 

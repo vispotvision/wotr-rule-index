@@ -4,11 +4,11 @@
 
 ### Origin
 
-He was born Darius, a human child. Sanctum Lux gave him Ignatius, Sanctus and Sanctorum one at a time, and everyone around him still calls him Darius.
+He was born Darius, a human child. Sancta Lux gave him Ignatius, Sanctus and Sanctorum one at a time, and everyone around him still calls him Darius.
 
 As a boy he was sent twice a week to a court Auditor named Verinus to be taught about Fate. He argued with every lesson. Verinus has called him the worst student he ever had and the only one who came back.
 
-Sanctum Lux, when he entered it, kept Sadara Izayoi's revelation as its law, with six schisms and no procedure for being wrong. At nineteen it named him Ignatius, for the faith. The assessor wrote him down as unbridled and meant it as a caution. Aurelian Prudentius ordained him. That year he found an entry the Index gave no place, asked about it twice, and was never answered.
+Sancta Lux, when he entered it, kept Sadara Izayoi's revelation as its law, with six schisms and no procedure for being wrong. At nineteen it named him Ignatius, for the faith. The assessor wrote him down as unbridled and meant it as a caution. Aurelian Prudentius ordained him. That year he found an entry the Index gave no place, asked about it twice, and was never answered.
 
 ### The Making
 

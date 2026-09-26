@@ -13,7 +13,7 @@ A Precept is not persuasion and it is not a threat. It is closer to a boundary c
 ## Where it sits in the current system
 
 **Category** · Glyphica primary (the Authorization and Sealing glyph roles, spoken of in the Unified Taxonomy as the syntax by which the Continuum "recognises and authorises transformation"), Votia secondary where the Precept functions as a binding compact between parties rather than a standing law.
-**Wellsprings** · Fixatio (the anchoring law: what a Precept holds, it holds) and Judicium (discernment and verdict, the currents Sanctum Lux's own instrument reads by).
+**Wellsprings** · Fixatio (the anchoring law: what a Precept holds, it holds) and Judicium (discernment and verdict, the currents Sancta Lux's own instrument reads by).
 **Family** · Materia (Fixatio) with a Fulguria current (Judicium).
 **Craft** · Runecraft. Per the current Craft/durability split, Spellcraft holds only while attention holds and Runecraft is fixed and degrades like any inscription; a Precept that is meant to found a guild code or a dynasty's law cannot be an art that lapses when the caster looks away.
 **Where it is filed** · The Magical Categories page (Glyphica, entry eight) and the Guild Accord material for the compacts a Precept is used to write. No standalone Precept entry exists yet; this card is the seed of one.

@@ -144,7 +144,7 @@ R22-4-SYSTEM_TERMS_TABLE  [Moto Reversion Ledger IV]  live
   Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
 
 R22-5-SEVEN_WORKS_TABLE  [Moto Reversion Ledger V]  live
-  Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
+  Söröl Ajiin→Hametsu no Gō (Ruin), Ariun Ajiin→Junketsu no Gō (Purity), Süld Ajiin→Seirei no Gō (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
 
 R22-7-FUSI_VA_KEPT  [Moto Reversion Ledger VII]  live
   Fusi Vā, the Agamalu binding rite, replaced Saishiki (a Japonic word on a rite that is Agamalu in origin and Vāimoana in provenance, wrong for both registers on its own terms); the Büri amendment isn't what made that change correct, so it stays kept.
@@ -153,7 +153,7 @@ R20-4-PRONUNCIATION_ADAPTATION  [Naming Guide Amendment Part Four]  live
   When a name crosses cultures, the speaker's own phonology imposes itself (a Concord human flattens Dawi consonant gradation, a Dawi stress-accents a Yukari pitch-accent name); these adaptations should appear in dialogue as characterisation, not be treated as typos.
 
 R20-5-FORMAL_ADDRESS  [Naming Guide Amendment Part Five]  live
-  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sanctum Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
+  A practitioner's formal address follows the convention of whoever is doing the addressing (rank plus family name for the Accord, ordination name plus title for Sancta Lux, relationship-dependent honorifics at a Ketsuen court); two people in the same room may correctly address the same person by different names.
 
 R20-5-ON_THE_PAGE  [Naming Guide Amendment Part Five]  live
   Introduce a character by whatever name the POV character would use (formal on first meeting, personal for intimates, Third Name or physical description for strangers); the narrator does not switch names without a reason, since a name-switch is a statement about the character's relationship to the reader.

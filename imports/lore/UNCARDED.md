@@ -24,7 +24,7 @@ These are the people the scene archive keeps meeting who have no card yet. Each 
 
 ## Charles Lambert
 
-- Charles Lambert is a bishop of Sanctum Lux and the younger brother of Edward Lambert, with Edward's frame and a pleasant, open face that people tell things to without deciding to; the two have not spoken in nine years [verinus_weight_of_an_infant.md].
+- Charles Lambert is a bishop of Sancta Lux and the younger brother of Edward Lambert, with Edward's frame and a pleasant, open face that people tell things to without deciding to; the two have not spoken in nine years [verinus_weight_of_an_infant.md].
 - He kneels in the wet ash to Aurelian Prudentius and calls him your holiness [05_aurelian_primate_under_the_wrong_stars.md].
 - He brings his infant son Dabney and his wife Anyu Qilak to the basin at Alabaster, where Verinus VII blesses the boy and the iris goes gold, and Verinus asks him to go north with the Kusharan party as his hand [verinus_weight_of_an_infant.md; the_true_king_of_the_north_part_20.md].
 - For ten years he carried the Scale amulet of the office called the God Hand, which Aurelian put over his head and Darius signed second; one carries and one spends, and neither is told the other's condition [07_charles_the_imperceptible_district.md].

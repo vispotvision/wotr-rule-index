@@ -101,7 +101,7 @@ Nominally the **Edict of Urion**; functionally independent, since he holds Cosmi
 
 ## IX · Relationships
 
-**Archon Urion** · **Nominal association.** *He believes himself gifted by the Balancer of Scales. Sanctum Lux would tell him Urion does not give.*
+**Archon Urion** · **Nominal association.** *He believes himself gifted by the Balancer of Scales. Sancta Lux would tell him Urion does not give.*
 **The Edict of Urion** · Nominal service. He considers Cosmic Law superior to Archon authority.
 **The Aetheric Nobility** · **He judges and reviles them.** *The card seals that he is one of them.*
 **Everyone else** · Few. Nearly all ties severed by emotional nullification.

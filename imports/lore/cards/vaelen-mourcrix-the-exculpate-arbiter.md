@@ -10,7 +10,7 @@ He grew up among a people for whom nothing passes unwitnessed. A transfer had it
 
 ### The Making
 
-Sanctum Lux kept a chapter hold in Eresse, tolerated on sufferance and audited every year by the elven kingdoms. He entered the order there. It drilled him to take a reading and to say nothing of what the reading meant. The right to say what it meant came later.
+Sancta Lux kept a chapter hold in Eresse, tolerated on sufferance and audited every year by the elven kingdoms. He entered the order there. It drilled him to take a reading and to say nothing of what the reading meant. The right to say what it meant came later.
 
 He found he read a soul by what was missing from it. Guilt showed to him in the shape of what a soul had removed from itself, and when he named the missing thing, what he named came apart in the subject. The guilty in the room felt it arrive before he finished the sentence. He never accused anyone.
 
@@ -30,7 +30,7 @@ He holds that guilt is found in the shape of what a soul has removed. His readin
 
 ### Where They Stand
 
-Vaelen Mourcrix is the Exculpate Arbiter, Bearer of the Verdict of Absolve and Imperial Inquisitor of Eresse, seated in the Judicariate Circle of Sanctum Lux. The colour of his essence is arc-blue and metallic, electric even at rest, and people who see it take it for a warning. He can weigh and cannot rule. The one verdict the ground kept has never stopped bothering him. He has never resolved whether he serves the Continuum or the institution.
+Vaelen Mourcrix is the Exculpate Arbiter, Bearer of the Verdict of Absolve and Imperial Inquisitor of Eresse, seated in the Judicariate Circle of Sancta Lux. The colour of his essence is arc-blue and metallic, electric even at rest, and people who see it take it for a warning. He can weigh and cannot rule. The one verdict the ground kept has never stopped bothering him. He has never resolved whether he serves the Continuum or the institution.
 
 If the Venrik descent holds, the Division's exile was a family matter as well as a doctrinal one. The record has asked whether it holds.
 

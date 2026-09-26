@@ -587,8 +587,8 @@
         }
       ]
     },
-    "wiki/Artifacts/Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light.md": {
-      "page_title": "Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light",
+    "wiki/Artifacts/Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light.md": {
+      "page_title": "Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light",
       "level": null,
       "temperance_stage": null,
       "tier_of_standing": null,
@@ -3284,7 +3284,7 @@
         },
         {
           "line": 148,
-          "verbatim": "**Weakness:** A patient enemy who never completes anything is invisible to Sanctum Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.**"
+          "verbatim": "**Weakness:** A patient enemy who never completes anything is invisible to Sancta Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.**"
         },
         {
           "line": 161,
@@ -18897,7 +18897,7 @@
         },
         {
           "line": 231,
-          "verbatim": "**Event:** **The Ebb Court, age 44** / **Layer:** Aether Shell / **Status:** Healed, documented, unrepeated / **Feature:** The single recorded expression of his Ardency. A trafficking vessel in the harbour, a boarding action gone wrong, and a Palatine who was present and who stopped being a measuring instrument for approximately four seconds. **The vessel is not in the harbour. Neither is the section of the mole it was tied to.** Eleven dead, nine of them the crew, two of them people he had come to get out. He reported himself to the Sanctum Lux chapter hold the same evening, in writing, before anyone had asked. **The finding was lawful use of force in defence of persons.** He has never accepted the finding and has requested its review four times."
+          "verbatim": "**Event:** **The Ebb Court, age 44** / **Layer:** Aether Shell / **Status:** Healed, documented, unrepeated / **Feature:** The single recorded expression of his Ardency. A trafficking vessel in the harbour, a boarding action gone wrong, and a Palatine who was present and who stopped being a measuring instrument for approximately four seconds. **The vessel is not in the harbour. Neither is the section of the mole it was tied to.** Eleven dead, nine of them the crew, two of them people he had come to get out. He reported himself to the Sancta Lux chapter hold the same evening, in writing, before anyone had asked. **The finding was lawful use of force in defence of persons.** He has never accepted the finding and has requested its review four times."
         },
         {
           "line": 234,
@@ -29253,7 +29253,7 @@
       "entity": "Chimwala N'Doro",
       "entity_basis": "the one practitioner the page names in the possessive",
       "entity_evidence": "Chimwala's",
-      "page_title": "Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light",
+      "page_title": "Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light",
       "kind": "eu_cost",
       "token": "60",
       "label": null,
@@ -29265,7 +29265,7 @@
       "origin": "swept",
       "stage_on_the_line": null,
       "source": {
-        "file": "wiki/Artifacts/Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light.md",
+        "file": "wiki/Artifacts/Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light.md",
         "line": 35
       },
       "verbatim": "Bondable by any Grovekeeper through the Rite of the First Light; outside that rite the lantern simply will not answer a new hand. Sanctuary Light and the Pathway Beam draw continuously from the bearer's own Essence while lit, an estimated 15 to 25 EU per hour at Chimwala's own Stage and Band; Grove-bloom draws a single larger pull per use, estimated at 40 to 60 EU, both figures conservative estimates rather than sourced numbers.",

@@ -9,9 +9,9 @@ Each of the seven Hataraki Works manifests differently through the God Fist's ar
 
 ## **I. HAMETSU-STYLE**
 
-### **The Ruin Fist — *****Houkai no Kobushi***
+### **The Ruin Fist — *****Hōkai no Kobushi***
 
-Work: Hametsu no Go — Work of Ruins
+Work: Hametsu no Gō — Work of Ruins
 Type: Collapse-Fixator · *Anchor what is already breaking and make it break correctly.*
 
 Primary Wellsprings:
@@ -23,7 +23,7 @@ Nihiloth – Strips the opponent's resistance of its sense that resistance is me
 
 Summary
 
-The Ruin Fist does not create destruction — it finds destruction that was already coming and makes it arrive on schedule. Where other strikers try to break a thing from the outside, a Houkai practitioner reads the structural rot already present in their opponent and plants their heel on top of it. The blow does not shatter the wall. It locates the wall's oldest crack and declares that crack the verdict. At its core, the Ruin Fist is the art of accelerating inevitable collapse into a single, correctly timed fist.
+The Ruin Fist does not create destruction — it finds destruction that was already coming and makes it arrive on schedule. Where other strikers try to break a thing from the outside, a Hōkai practitioner reads the structural rot already present in their opponent and plants their heel on top of it. The blow does not shatter the wall. It locates the wall's oldest crack and declares that crack the verdict. At its core, the Ruin Fist is the art of accelerating inevitable collapse into a single, correctly timed fist.
 
 Core Principle
 
@@ -49,7 +49,7 @@ The Ruin Fist tempts its user toward cruelty of timing — waiting so long for t
 
 ### **The Purity Fist — *****Seijō no Kobushi***
 
-Work: Junketsu no Go — Work of Purity
+Work: Junketsu no Gō — Work of Purity
 Type: Foundation-Fixator · *Anchor what is rightfully standing and refuse to let it be defiled.*
 
 Primary Wellsprings:
@@ -87,7 +87,7 @@ The Purity Fist tempts its user toward fanaticism — the conviction that their 
 
 ### **The Spirit Fist — *****Tamashii no Kobushi***
 
-Work: Seirei no Go — Work of Spirit
+Work: Seirei no Gō — Work of Spirit
 Type: Soul-Fixator · *Anchor the line between what lives and what has ended, and strike across it.*
 
 Primary Wellsprings:
@@ -267,7 +267,7 @@ In Practice
 
 - The only recorded description of what it looks like from the outside comes from a First Conclave fragment: *"**The ground remembered him. The air agreed with him. The blow arrived at the moment before you realized it had been thrown.**"*
 
-- Every counter that exists for the individual six doctrines fails against the Total Fist, because it is running all six simultaneously. A sequence-counter meets Toki no Kobushi. A ruin-resistance meets Houkai no Kobushi. A revelation-ward meets Akashi no Kobushi. All six meet simultaneously, and none of them meet only the one they prepared for.
+- Every counter that exists for the individual six doctrines fails against the Total Fist, because it is running all six simultaneously. A sequence-counter meets Toki no Kobushi. A ruin-resistance meets Hōkai no Kobushi. A revelation-ward meets Akashi no Kobushi. All six meet simultaneously, and none of them meet only the one they prepared for.
 
 Cost and Consequence
 

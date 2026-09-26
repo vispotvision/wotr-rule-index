@@ -12,7 +12,7 @@ Something cracked him first. The tale never named it.
 
 ### The Making
 
-Azerack found him already cracked and gave him the Halberd of Zarakal. The weapon agreed with what was rotting in him. His Realm spread across Sum-gol and the Ketsuen frontier from a single point of failure until the failure was the whole territory, and the Tower of Zarakal rose at its centre. When the Realm drew back it left the Kept Vigil, still drawing on a debt nobody living had incurred. A joint working of the Accord and Sanctum Lux chained him, at a price neither body fully disclosed to the other. The chains outlasted every kingdom that helped forge them.
+Azerack found him already cracked and gave him the Halberd of Zarakal. The weapon agreed with what was rotting in him. His Realm spread across Sum-gol and the Ketsuen frontier from a single point of failure until the failure was the whole territory, and the Tower of Zarakal rose at its centre. When the Realm drew back it left the Kept Vigil, still drawing on a debt nobody living had incurred. A joint working of the Accord and Sancta Lux chained him, at a price neither body fully disclosed to the other. The chains outlasted every kingdom that helped forge them.
 
 He said later that he had been put somewhere quiet. The quiet came back out with him. It sat behind his teeth all day. It stopped in one hour only, the hour when there was blood on the floor and somebody in the room had understood what was happening to them, and he called that what he had instead of appetite. Kujo had brought him back. In Kaalabad's words, Kujo gave him the ground to stand on and the leave to be seen standing on it.
 

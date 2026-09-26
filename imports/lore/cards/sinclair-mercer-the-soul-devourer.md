@@ -46,7 +46,7 @@ He carries no weapon and considers the matter slightly vulgar. He carries the co
 
 His shadow does not always match him. Most people notice and correct themselves, and the correcting is audible.
 
-The Sanctum Lux censor rolls call him the Cannibal, the only name he has ever objected to. Three assay houses have recorded him, and none will certify the reading. The Bureau of Strategic Assessment carries him on a separate ledger, and Enforcement teams sent against him bring a Sealwright. A soul he has taken does not read as absent on any instrument the Accord possesses. It reads as elsewhere. The Research and Archives Division has never published this.
+The Sancta Lux censor rolls call him the Cannibal, the only name he has ever objected to. Three assay houses have recorded him, and none will certify the reading. The Bureau of Strategic Assessment carries him on a separate ledger, and Enforcement teams sent against him bring a Sealwright. A soul he has taken does not read as absent on any instrument the Accord possesses. It reads as elsewhere. The Research and Archives Division has never published this.
 
 In the Unwritten Grave, the ground he holds as his own, the dead he carries are no longer subject to the ordinary courtesy of being gone. Constructs form there without his direction, and they scream.
 
@@ -62,6 +62,6 @@ He counts them still. The number has not gone down.
 - **Vorrn · The Fourth Weight** · Abythron. Vorrn was built in the domain where Zar'thuun declined Sinclair, and no record has them meet.
 - **Tilda** · the one he hunted and did not take. Her harmony eluded him, and she is his one recorded failure.
 - **The Spiral Covenant** · former allegiance. It no longer acknowledges him, and he has never acknowledged leaving.
-- **The Sanctum Lux censors** · the rolls. They call him the Cannibal, the only name he has ever objected to, and every censor who has interviewed him has come away with the same note in the margin.
+- **The Sancta Lux censors** · the rolls. They call him the Cannibal, the only name he has ever objected to, and every censor who has interviewed him has come away with the same note in the margin.
 - **The Sealwright team behind Chainsalt plate** · the counter. It took him twice, and both times he left.
 - **The Bureau of Strategic Assessment** · the separate ledger. It carries him on a ledger of his own, apart from everyone else.

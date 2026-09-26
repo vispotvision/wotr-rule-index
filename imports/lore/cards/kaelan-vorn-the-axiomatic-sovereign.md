@@ -36,7 +36,7 @@ Kaelan Vorn is active within the Zenith Citadel, a suspended fortress held in pe
 
 He is also called He Who Writes Mercy in Ash, a name Francis Alexander and Aeldoris Vanthryx carry as well. He claims a law over all reality that would end the War by enforced peace. His loops stay small pockets, and the field is a claim. The other road his record allows ends with a loop closing over him, and Kaelan at its centre, a pillar of Law.
 
-He still believes Urion gifted him. Sanctum Lux holds that Urion is a reference and gives nothing. No Lector has told him.
+He still believes Urion gifted him. Sancta Lux holds that Urion is a reference and gives nothing. No Lector has told him.
 
 The elder's house at Ordas wants him answered for. Its envoy went north to Halcrest and asked Aeldoris Vanthryx to convene his Court on him. The hunter declined, because the strike had been made in the open. Kaelan knows nothing of it, and the house's want stands.
 
@@ -50,7 +50,7 @@ The power in him is an inheritance, and the day he learns so, the anchor breaks.
 - **Francis Alexander · The Crimson Dirge of Atonement** · one epithet, and Urion's defier. Francis defied Urion at the Irath Concord, Kaelan serves Urion's Edict in name, and no record puts them in one place.
 - **Aelum · The Pale Hierophant** · a legend, never met. Kaelan read of the Hierophant's held crown at his academy.
 - **Ameiya Solvain · Rain of the Bound Sky** · Vantabriel. His Severing bears the name of a Wellspring Ameiya sealed.
-- **Archon Urion** · nominal association. Kaelan believes the Balancer of Scales gifted him, and Sanctum Lux holds that Urion does not give.
+- **Archon Urion** · nominal association. Kaelan believes the Balancer of Scales gifted him, and Sancta Lux holds that Urion does not give.
 - **The Edict of Urion** · nominal service. He serves it in name only.
 - **The Aetheric Nobility** · judged, and his own. He judges and reviles them, and he was born one of them without knowing it.
 - **The elder's house at Ordas** · the executed elder's kin. They sought a hunter to set on him and found none.

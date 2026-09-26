@@ -329,7 +329,7 @@
    "id": "c20",
    "name": "The long memory",
    "theme": "The powers older than the Accord, Malakar's general and the paladin his plague made, and the editors who keep or rewrite the record",
-   "era": "Cross-era: First Eon (Iracordas, Vethraun), the First Epoch (Kinjiki), the Founding Era of Sanctum Lux (Lucius), the Pale Ledger of the late Imperial Calendar (Anryū); Vorrn and Vaithesca undated",
+   "era": "Cross-era: First Eon (Iracordas, Vethraun), the First Epoch (Kinjiki), the Founding Era of Sancta Lux (Lucius), the Pale Ledger of the late Imperial Calendar (Anryū); Vorrn and Vaithesca undated",
    "hinge": "A record: Iracordas is Malakar's First Hand and Lucius's mother died in Malakar's plague-years; Vethraun and Kinjiki predate every Concord; Vorrn and Vaithesca are collapse-made; Anryū, the Pale Editor, and Kinjiki, Bairos's editorial instrument, stand at either end of the page.",
    "members": [
     "iracordas",
@@ -480,9 +480,9 @@
   {
    "id": "c30",
    "name": "Alabaster and the Scale",
-   "theme": "The Holy Sea's initiates, seers and loyal daughters, and those Sanctum Lux has expelled, hunted or judged",
+   "theme": "The Holy Sea's initiates, seers and loyal daughters, and those Sancta Lux has expelled, hunted or judged",
    "era": "Withering Era where stated (Maeron); others unstated",
-   "hinge": "An institution: Lumen and Seraphine belong to the Holy Sea of Alabaster, Maeron to its cloister bloodline and Ecliptic Choir, Beatrix to a commune in its outer territories, Elion was a Sanctum Lux lector and Leon is hunted by its inquisitors.",
+   "hinge": "An institution: Lumen and Seraphine belong to the Holy Sea of Alabaster, Maeron to its cloister bloodline and Ecliptic Choir, Beatrix to a commune in its outer territories, Elion was a Sancta Lux lector and Leon is hunted by its inquisitors.",
    "members": [
     "lumen-varos-the-dawn-touched-oracle",
     "seraphine-lurielle-lilac-gaze",

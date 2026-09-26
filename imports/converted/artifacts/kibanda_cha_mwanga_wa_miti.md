@@ -1,4 +1,4 @@
-# Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light
+# Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light
 
 ## What it is
 

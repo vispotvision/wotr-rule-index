@@ -80,7 +80,7 @@ with real physics untouched.**
 **And here is what the mathematics forbids.** **Kuramoto coupling is symmetric.** Oscillator *i*
 pulls on *j* through sin(θⱼ − θᵢ) and *j* pulls back on *i* through sin(θᵢ − θⱼ) — the same
 coefficient, opposite sign. There is no one-way phase coupling in the model, and the same objection
-was already raised in this batch against `Symphonia Ascendant`: **there is no one-way resonant
+was already raised in this batch against `Symphonia Ascendens`: **there is no one-way resonant
 coupling in linear physics.** But Francis's card describes his Attraction Layer as *"Vast and
 one-directional. Fifty-seven Wellsprings under partial siphon and four thousand subjugated spiritual
 dominions, every bond pointing inward. **Nothing on it points back**"*
@@ -415,7 +415,7 @@ one phase, which is flattening in the only sense the word can carry here.
   ([*Arnold tongue entrainment reveals dynamical principles of the embryonic segmentation clock*,
   eLife **11**:e79575 (2022)](https://elifesciences.org/articles/79575);
   [*How Coupling Determines the Entrainment of Circadian Clocks*,
-  arXiv:1107.5137](https://arxiv.org/pdf/1107.5137)). This is the same defence `Symphonia Ascendant`
+  arXiv:1107.5137](https://arxiv.org/pdf/1107.5137)). This is the same defence `Symphonia Ascendens`
   already put in the record against Serenyra — *"a chaotic, non-repeating Essence pattern gives the
   sigils nothing consistent to grip"* — and it is stronger here, because a court that cannot couple
   to you records **no deviation at all**, which is to say no evidence.

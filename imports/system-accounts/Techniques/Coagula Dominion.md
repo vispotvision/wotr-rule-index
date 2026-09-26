@@ -1,5 +1,5 @@
 ---
-page: wiki/Techniques/Coagula Dominion.md
+page: wiki/Techniques/Coagula Dominium.md
 section: Techniques
 practitioner: Drakvor · The Black-Crowned Bastion
 card: wiki/Volume I — Character Cards/Drakvor · The Black-Crowned Bastion.md
@@ -10,7 +10,7 @@ status: awaiting-ruling
 method: imports/system-accounts/_method.md
 ---
 
-# System account · Coagula Dominion
+# System account · Coagula Dominium
 
 ## 1 · Physical account (physics)
 
@@ -104,7 +104,7 @@ excessive Essence floods an area faster than it can disperse. **Produces Crystal
 Fracture Events in everyone exposed, including the person who caused it**"
 (`The Core Vocabulary` §II).
 
-**Coagula Dominion is an engineered local saturation, and the system says engineered
+**Coagula Dominium is an engineered local saturation, and the system says engineered
 saturation fractures everyone inside it including its author.** The page's rib pressure
 is the mildest possible reading of that sentence. Whether the field is Saturation proper
 or merely adjacent to it is a ruling, not a deduction: logged
@@ -341,7 +341,7 @@ knows, including his allies, who are casting in the same syrup.
 
 **The lookup trail.**
 
-1. `wiki/Techniques/Coagula Dominion.md` — the Limitation (only loose ambient
+1. `wiki/Techniques/Coagula Dominium.md` — the Limitation (only loose ambient
    Essence; inertial bodies exempt) and the Weakness (Vectoria and Spatium pass
    clean through).
 2. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Choose the

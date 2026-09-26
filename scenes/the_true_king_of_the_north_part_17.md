@@ -296,7 +296,7 @@ He felt her drink.
 
 He ignored her.
 
-For one dangerous moment the ruined courtyard disappeared beneath another place entirely: corridors, blood, a younger brother who would never grow into his jaw, another whose developing eyes had never finished becoming what they were meant to become, his mother’s absence afterward, his father’s body somewhere ahead of all of it. Sonzai could feel Hametsu no Go waiting inside him with the patience of an old animal that had never actually been domesticated. Kharven smelled like memory, and memory had always been the shortest road to Ruin.
+For one dangerous moment the ruined courtyard disappeared beneath another place entirely: corridors, blood, a younger brother who would never grow into his jaw, another whose developing eyes had never finished becoming what they were meant to become, his mother’s absence afterward, his father’s body somewhere ahead of all of it. Sonzai could feel Hametsu no Gō waiting inside him with the patience of an old animal that had never actually been domesticated. Kharven smelled like memory, and memory had always been the shortest road to Ruin.
 
 His fingers loosened.
 

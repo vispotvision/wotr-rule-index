@@ -1,4 +1,4 @@
-# Mkono wa Miti · Bracer of the Living Grove
+# Mkono wa Miti · Arm of the Trees
 
 ## What it is
 

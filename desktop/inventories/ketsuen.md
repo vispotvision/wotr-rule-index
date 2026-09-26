@@ -1,0 +1,45 @@
+# THE STANDING INVENTORY: KETSUEN, THE CROW'S REACH
+
+A frontier that became a kingdom because its gate posts were failing and one people could fix them. Raw timber still weeping sap, roads new and mostly bad, and every building a node in a ward-network that nobody outside the craft can hear. Everything below is downstream of three facts: the wards work only if they are maintained, the work is the only credential, and the ground presses on the temples within a day of arrival and does not stop.
+
+**Food:** broth with root vegetables from the Lake Districts and dried fish from the lakeland fishers, which tastes, the Heartstone says, like the kingdom. Dumplings at a family table. Lake-margin grain, forest game, freshwater fish, and the high-altitude herbs of the Uplands that the alchemists buy. The kingdom does not feed itself: grain and preserved goods come in on Nalūn's network, and the Corridor lives on the traffic. The old price of a ward repair on the frontier was a meal and a dry place to sleep, and a carver is still fed first at any table on the road. In Sum-gol, river-valley rice and the Mahuo table.
+
+**Greeting:** "Who keeps your posts?", asked of a stranger on the road, which says which carver maintains his settlement's wards and so which station answers for him. At court the form of address depends on the relationship between the two people, so two people in the same room may address the same Warden correctly in different words. The Proven and the Unproven are not addressed differently by law, and are by habit.
+
+**Oaths:** "On the record," because every Proving is recorded, published and open, and a claim made on the record will be read back at the next one. "Before the stones," for anything sworn at the standing-stone gate of Senri's Gate. A Thread-Warden's word is tested every six years whether he gave it or not. **Insults:** "Unproven," said as contempt, though the law protects them; "absent," a neglectful holder, from the Proving of Absence that forfeits an unmaintained holding; "a cracked layer," a man whose outer face has failed and nobody has noticed yet, from the gate post with a cracked Authorization layer; "third stroke late," an apprentice, or anyone who is nearly right; "a blind crow," anyone holding a post whose sight is too shallow for it.
+
+**Time:** the Proving cycle, six years, closing at the summer solstice with the Proving Festival; three years' continuous residence and contribution before a petition for citizenship; the Ward-Lighting at the autumn equinox, when the Academy's graduates cut their first permanent station; the Thread-Reading at midwinter; "last season," of any carving, since a ward is dated by the season it was cut; a courier's nine days to Sum-gol and a wagon train's three weeks; "before the network," when a settlement lost four buildings a season to Essence failure; way-stations every twenty to twenty-five leagues, and distance counted in stations.
+
+**The dead:** the kingdom has no single rite. Sum-gol follows Mahuo practice, which alone in four quarters does not require the family to keep the body. The Yukari hold that death is a return, per their own Inventory. On the frontier the dead are buried inside the perimeter and close to a ward-post, never outside it, and the post's carver is told.
+
+**Objects:** the ward-post and the gate post, with the Authorization layer that fails first; the well-stone and its moisture barrier; the ward-carved foundation, a base course of inscriptions under every building that ties it to the grid, and which does not glow or advertise itself; the carver's mallet and the practice stone in the yard; the inscription roll; birch bark, on which the eighth settlement's petition arrived and on which the frontier still writes its letters; the braided-leather cord from the lakeland autumn market; the Ketsuen quality mark on a finished ward; the Archive of Provings; cedar beams weeping sap years after they were hung; the two standing stones at the valley gate with the unbroken carved line along the lintel.
+
+**Exchange:** ward-craft is the product and the quality mark is the currency of trust: the glyph formulae are published, and the attunement that makes them hold is not something anyone can copy. Holdings are stewardship, not ownership, and neglect forfeits them. Graduates of the Academy maintain the wards on half the frontier. Grain comes in through Nalūn; the Corridor's merchants call themselves citizens of commerce and the kingdom lets them. A fine paid to the wrong party can leave the damage unrepaired, so the courts order repair, and sometimes order the injured party to take part in it.
+
+**Proverbs, fixed wording:** "The arithmetic was the argument." "The work is the credential. Nothing else survives the examination." "A blind Crow is worse than no Crow at all." "There are no surprises in the Proving. There is also no hiding." "The wards do not care about intentions, excuses or circumstances. They care about maintenance." "A holding that is maintained holds. A holding that is not does not." "The wards function. The kingdom maintains them. The explanation will arrive when it arrives." "The distance between perception and tyranny is exactly the width of a Council table."
+
+**Body:** the density pressing against the temples from the first day, which residents stop noticing after the first month and visitors never do; a carver's shoulders and forearms, which grow for the work; a carver's head tilted toward a wall, listening; a frontier face that has chosen not to be governed and tolerates it because the wards work; the lakeland fisher's hands, net-cut; hands clasped behind the back while thinking, a Heartstone habit copied from the Crow.
+
+**Senses:**
+- *Smells:* cedar and limestone; sap weeping from new wall boards; ink off an inscription roll; the mineral weight of a Wellspring-saturated valley; broth steam over root vegetables; dried fish; boreal forest after rain.
+- *Sounds:* a mallet on a practice stone, and the stroke that lands late; a carver tapping a footing and listening; a Thread-Reading from the standing-stone gate; a courier's horse on a warded track; lake water on a fishing boat's hull; a Rimward tavern arguing about the Holy Sea.
+- *Colours:* raw timber, pale and wet; grey limestone ridges; the brown of birch bark; ward-cut glyphs the colour of the stone they are cut in, since a Ketsuen ward shows nothing; chain-lakes in glacial scars.
+- *Textures:* sticky sap on a beam; a glyph groove under the thumb; a braided-leather cord; cold stone at the gate worn smooth by centuries; wet cedar bark.
+- *Tastes:* the broth that tastes of the kingdom; dumplings; lake fish; Upland herbs, bitter; well water from a warded stone, flat and clean.
+
+**Gone:**
+- **The roads on the charts.** The trade-route maps showed established roads between named cities. The roads were cart tracks through forest grown back over whatever surface had existed, and nobody knows what the surface was or who laid it.
+- **The ungoverned frontier.** What the people of the Frontier Marches crossed the world to find: ground with no one's wards on it. They tolerate the network because the wards work, and they say what they gave up out loud at every Proving.
+- **Dhaerin of Vaeloris.** The master who taught the Crow to carve, whose layered grammar is in every ward in the Carver's Seat. He died of the rite he used to seal the man whose dragon burned the Inner World.
+- **The hands that set the stones.** Whoever placed the two standing stones at the valley gate, and cut the line along the lintel, understood the valley's ground before anyone who lives there now. The Yukari inherited the knowledge, not the people.
+
+**Folk beliefs:**
+- **A warded house hums.** Knock on a wall and listen; a humming house is warded and a quiet one is not. Buyers knock before they bargain.
+- **Wet beams keep the ward young.** Sap weeping from the timber is the ward drinking, so a house is never dried out with fires in its first years.
+- **The Crow reads each of us at midwinter.** At the Thread-Reading the Crow sees every citizen's thread and knows who has done wrong, so people settle quarrels and confess debts in the weeks before midwinter.
+- **Deep-water fish make gifted children.** The big, regular fish of the lake districts' deep waters carry the gift, and a pregnant woman is fed them daily.
+- **The perimeter reads your heart.** The ward-line knows whether a traveller means harm, so honest people walk the track openly and at a steady pace.
+
+**Literacy:** High among the Proven, since a Proving is a review of written records presented in public, and every citizen hears the Telling on completing it. Lower among the Unproven and on the frontier, where letters go on birch bark and are read aloud at the station. The Academy and Vaeloris read everything, including the ward grammar most people cannot.
+
+**Recurrence, two minimum per Ketsuen scene:** the ward-post and "who keeps your posts"; cedar weeping sap; the Proving and "on the record"; the pressure at the temples; the mallet on the practice stone.

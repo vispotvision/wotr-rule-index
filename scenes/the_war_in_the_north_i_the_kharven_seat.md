@@ -14,7 +14,7 @@ Edward Lambert had one hand flat on the plat and the burned one closed around hi
 
 His voice went down onto the boards the way it always did, each word set in its exact position, no warmth performed and no coldness performed.
 
-"What should our next move be. It appears you were right. The Holy Sea of Alabaster has sent an envoy." The thumb began against the pad of the index finger. "They have sent my brother, who acts as an Archbishop for the Holy Church of Sanctum Lux, and before anyone at this table repeats that word to a man wearing the grey, understand that the order does not have archbishops. They have Lectors and Arbiters and a great deal of impatience with the north's vocabulary. Charles is an Arbiter-Lector of the chapter hold at the white shelf. He will answer to Archbishop in the street and strike it from anything he signs, and he will hold that distinction to be a courtesy he is extending to us."
+"What should our next move be. It appears you were right. The Holy Sea of Alabaster has sent an envoy." The thumb began against the pad of the index finger. "They have sent my brother, who acts as an Archbishop for the Holy Church of Sancta Lux, and before anyone at this table repeats that word to a man wearing the grey, understand that the order does not have archbishops. They have Lectors and Arbiters and a great deal of impatience with the north's vocabulary. Charles is an Arbiter-Lector of the chapter hold at the white shelf. He will answer to Archbishop in the street and strike it from anything he signs, and he will hold that distinction to be a courtesy he is extending to us."
 
 "And your other worries," Lorn Stark said.
 

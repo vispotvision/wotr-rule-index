@@ -24,4 +24,25 @@ Varūn's people, made for endurance, who followed the ore into the crater walls 
 
 **Body:** hands, where a forge-Dawi's Essence is said to route (Borin's; *derived* for the forge-culture generally), and *kadu*, hand, is one of the roots they share with the goblins' Old Vaross; the beard, untrimmed, ringed, a record of time served (Borin's; *derived* for the forge-culture generally); skin, where the Soul-Runes accumulate so an elder's body is a reading of his life; the consonant, because agitation changes the grade and never the word order, and outsiders miss it every time; the stance, since a Petralon-anchored Dawi is the hardest thing in the Inner World to move; the forge-flush across nose and cheekbones, baked in (Borin's; *derived* for the forge-culture generally).
 
+**Senses:**
+- *Smells:* sour barley beer in the lower Ring levels; yeast and wet stave from a working cask; Cask-Oath Pitch: resin and tar; forge smoke, with sulphur off the coal; quench steam off hot iron; stone dust under a burin: dry, like struck flint; salted and dried stores in a cellar; sulphur off a fresh ore face; lamp smoke in a deep gallery; singed beard.
+- *Sounds:* the hammer on the anvil; a burin cutting a rune; a name said in the strong grade: the doubled consonant before the word finishes; the same name in the weak grade, heard across a chamber; Mathematical Cadence: formal speech in fixed metre; a brew working in the cask; the shift changing; the copula "on" closing a line; Borin's hammer, used as a walking stick, on stone; a consonant hardening as a speaker's temper rises.
+- *Colours:* the forge-flush across nose and cheekbones; Soul-Runes on skin, an elder's life readable on his arms; etched beard-rings; doubled strokes on the roll of the dead, readable from across the chamber; cloudy amber of the beer; forge-light on wet rock; dark ironwood on a hammer handle; the bright line of a fresh ore seam.
+- *Textures:* the ironwood handle: dense, smooth, near oily; the edges of a cut rune under a fingertip; the angle-set's hard edges; a beard-ring, cold on the knuckle; Soul-Rune ridges on an elder's forearm; pitch, tacky and unwilling to cure outside its hold; a sealed stone casket carried home; the stance of a Petralon-anchored Dawi: shoving him is shoving a wall; salt-dried meat.
+- *Tastes:* sour barley beer, which every visitor calls an acquired taste; ollut, the aged brew: deeper, with an edge; bread that cost more than it should; salted stores; dried stores, chewed on shift; the shift-meal eaten when the guild shift says; hold water off the rock, cold and mineral; forge smoke at the back of the throat.
+
+**Gone:**
+- **The joined halls.** The tunnel-network that ran hold to hold before the Sundering of the Deep Halls severed five populations in five directions. Each had to rebuild Varūn's teaching from nothing in ground that shared nothing with a mountain.
+- **The lit halls.** What the Deepkin lost in the Depths Collapse, stranded in Void-scarred dark with no way back up, and what they held alone after the Temple Rift while the High Dawi withdrew. The Deepkin record calls it being left. The High Dawi record calls it a withdrawal.
+- **The Reach's mountain.** The range the Kuntur Reach came out of before the collapse put them on the surface among islands. They stopped grieving it and started reading the islands the same way, and the stopping is itself remembered.
+
+**Folk beliefs:**
+- **Touch a true rune for luck.** A doorway rune cut at the right angle works for whoever touches it, so every Dawi touches the lintel rune on the way in, and old lintels are worn smooth at hand height.
+- **Pitch that will not cure is a broken oath.** When a batch of Cask-Oath Pitch fails, somebody in the hold has broken his word, and the clerks audit the name-roll before they check the barrels.
+- **Keep both feet on worked stone.** A Dawi standing on worked stone cannot be hurt by a working, so an elder under threat sets his feet and waits.
+- **The skin tells what comes next.** The Soul-Runes on an elder's arms can be read forward, and a fortune-teller at the Ring gates reads the next rune before it arrives.
+- **The cinder bead refills for a worthy heir.** An heir who lives by the Tally will find his bead full again one morning.
+
+**Literacy:** High in the rune. Every Dawi reads a name's grade in stone from across a chamber and an angle at a glance; entering the Tally in metre is clerks' work, and a clerk is a metrician before he is anything else. Concord script is read by those who deal outward, for the wire and the second column.
+
 **Recurrence, two minimum per Dawi scene:** the Tally and "entered" or "unentered"; the name and its grade; the cask and "while the brew lives"; "kurme" or "kurlo," and never *I will*; the angle-set and "the angles are true."

@@ -287,7 +287,7 @@ in both tables and none has been left out.
 | verinus_what_a_thing_weighs.md | The Grand Cathedral, Alabaster. Late morning, the same day | File's own dateline 'late morning, the same day'; quoted 'Twice in one morning', which its own notes tie to the infant read in the lower chapel earlier that mor | A nineteen-year-old who holds the Blade of Judger — unnamed anywhere in this text — is attached to the northern legation deliberately as the object everyone will look at, so that the bishop  |
 | verinus_sword_and_scale.md | The Grand Cathedral, Alabaster. Continuous | File's own dateline 'Continuous' with What a Thing Weighs; the four lessons are given here. | Verinus refuses both the kneeling and the lending of faith, gives the Blade of Judger four lessons — the order does not kneel, creeds weigh nothing on the Scale, who holds the hilt, write be |
 | the_true_king_of_the_north_part_22.md | The Grand Cathedral, Alabaster. The morning before the tide | Quoted: 'the second time in one morning and the second time in nineteen years'; 'on a mole at the sixth hour tomorrow'. Refers back to the four things given in  | Closes the twenty-two-part manuscript: Haruki declares herself a martyr for her people on her way out of the door and the floor of the cathedral sinks under the sentence, Verinus swallows th |
-| seven_labors.md | The gate in the wood. Darius newly landed | Quoted: Darius has 'four fractures standing' and is 'offered exactly one labor'; no hour stated. Opens the nine months in the ash that 13_darius and 21_darius b | Gimbzo names the seven labors and the order they go in — Ruin first, because destruction precedes creation — and dismantles the Sanctum Lux doctrine that the Judger owns Balance alone. Dariu |
+| seven_labors.md | The gate in the wood. Darius newly landed | Quoted: Darius has 'four fractures standing' and is 'offered exactly one labor'; no hour stated. Opens the nine months in the ash that 13_darius and 21_darius b | Gimbzo names the seven labors and the order they go in — Ruin first, because destruction precedes creation — and dismantles the Sancta Lux doctrine that the Judger owns Balance alone. Dariu |
 | balance_lesson.md | Gimbzo's ground, the ash at the gate. An hour into the lesson | Quoted: 'the last hour'; 'a fracture that had been four for six years'. Follows Seven Labors, where Balance is the labor accepted. | Balance is redefined against eleven hundred years of the order's reading of it: not fairness, not standing between two loads with your hands out, but conducting them — an arch is two collaps |
 | the_war_in_the_north_i_the_kharven_seat.md | The Kharven-Seat kitchen. Before light; the legation at the gate the day after tomorrow | Quoted: 'since before light'; 'He has been on the road twenty-six days'; 'He left fourteen days before I wrote'; 'the day after tomorrow before the light goes'. | The Kharven-Seat council discovers that the Alabaster legation under Charles Lambert left fourteen days before Edward's letter was even written — so it is not a reply — and will reach the no |
 | the_war_in_the_north_ii_the_road_two_days_south.md | The road, two days south of Kharven. After dark | Quoted: 'two days from Kharven'; 'by the time darkness settled completely'. Compilation part II, two days out from the Seat of part I. | The private terms of the sovereign's life are set down before the north: marriage that is not another political structure, children who do not owe Kushara anything, Kushara rebuilt as instit |
@@ -1086,7 +1086,7 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 - the print of the axe head in Gimbzo's palm and in the ground under Darius's boots, there since the third month
 - Tsuiji laid across Gimbzo's knees
 - Gimbzo's eleven gates opened and nine who walked out, and two men who took the seventh and went home the same afternoon
-- Sanctum Lux asked eleven times to state more about the Withdrawal and declining in writing eleven times
+- Sancta Lux asked eleven times to state more about the Withdrawal and declining in writing eleven times
 - every scale-pan in four worlds coming level for the length of the gaze and refusing to agree afterward for a season
 
 **`05_aurelian_primate_under_the_wrong_stars.md`**
@@ -1662,7 +1662,7 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 - the Declaration, forty-eight hours before that Purification
 - Justiciar Orenthal's perimeter reading on Thornwell, taken three days earlier and weighed by the Pontifex
 - Cassius Pelagiel's fourteen years as a Measurewright in the mother order before the exile
-- the recut root glyphs on Cruor's armour that Sanctum Lux would have recognised and not authorised
+- the recut root glyphs on Cruor's armour that Sancta Lux would have recognised and not authorised
 - the Holy Sea of Alabaster as a standing polity on whose border Thornwell sits
 
 **`the_turtles_boy.md`**

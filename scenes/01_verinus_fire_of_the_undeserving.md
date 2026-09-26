@@ -255,7 +255,7 @@ He had not felt the chain let go. The ring in the ceiling had let it go and the 
 
 **Canon conflicts surfaced, need your ruling.**
 1. *Palinate* in your rough. Every Verinus scene and the Vaeloris Sequence header have **Palatine**. Used Palatine.
-2. *Nalūn shaking.* Sanctum Lux puts the Grand Church in the Kingdom of Altherion; Nalūn is the salt basin and its Wellsprings are Contraxis and Fixatio. I did not move the cell. Nalūn shakes because the salt answers Fixatio, and it reaches the page as the Deepvein watch-log at the threshold. If you meant the cell to be in Nalūn, that is a geography ruling.
+2. *Nalūn shaking.* Sancta Lux puts the Grand Church in the Kingdom of Altherion; Nalūn is the salt basin and its Wellsprings are Contraxis and Fixatio. I did not move the cell. Nalūn shakes because the salt answers Fixatio, and it reaches the page as the Deepvein watch-log at the threshold. If you meant the cell to be in Nalūn, that is a geography ruling.
 3. *Conjunction* is not in The Mechanism of the Sixty. The Sacrament's third Wellspring is unverified; I kept it out of the prose.
 4. The pasted Sacrament entry is Yuno-framed. The Church's possession of the rite is left unexplained on purpose.
 5. Housekeeping: the Moto Reversion Ledger and the Inner World Naming Amendment strike the Büri amendment; the project instructions still say Büri is live. No effect here.

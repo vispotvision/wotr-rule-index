@@ -22,7 +22,7 @@ The campaign had run its course before the Great Spirit War's chronology began t
 
 Every claim was permanent, and every claim narrowed what he could ever again call unspoiled. He was among the things it narrowed. The Radiant God's bearing went. Under the horned crest what showed of his face turned to shadow and cavity, and men looked away from it before they understood why.
 
-He never once out-thought an opponent. It cost him once, and permanently. The folk tale that tells the rest of his life is silent on how he was brought down. He was chained and left alive. The Accord and Sanctum Lux struck the working together, at a price neither ever fully disclosed to the other. They held him within the Veil, bound at its threshold. Nothing on the Material Plane could hold a warlord tied to his own Realm, and nothing on the Soul Plane could hold his body.
+He never once out-thought an opponent. It cost him once, and permanently. The folk tale that tells the rest of his life is silent on how he was brought down. He was chained and left alive. The Accord and Sancta Lux struck the working together, at a price neither ever fully disclosed to the other. They held him within the Veil, bound at its threshold. Nothing on the Material Plane could hold a warlord tied to his own Realm, and nothing on the Soul Plane could hold his body.
 
 The chains took his weight and never his stance. Bent to a stoop he could not straighten from, he still read as upright. Several accounts hold that the bearing existed so that nobody would ever see him kneel. Chained, he yielded none of the ground he had claimed. The plate he was chained in was darksteel, and centuries in it fused its seams shut.
 
@@ -42,4 +42,4 @@ That mid-morning he came out of the sky above a village at Sum-gol and brought d
 - **Aurelian Prudentius Custos Clausorum · The Primate** · one valley. His Fall left the Kept Vigil in the Sum-gol that raised Aurelian, and the order Aurelian rose in helped chain him.
 - **Ara Min Mahuo** · one valley. Ara is of the house at Sum-gol; no record has them meet.
 - **Azerack** · corruptor. Azerack found him already cracked open and gave him the Halberd of Zarakal, and he neither loves nor trusts him.
-- **The jailers** · captors. The Accord and Sanctum Lux chained him, and neither told the other the price.
+- **The jailers** · captors. The Accord and Sancta Lux chained him, and neither told the other the price.

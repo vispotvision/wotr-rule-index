@@ -1,4 +1,4 @@
-# Coagula Dominion
+# Coagula Dominium
 
 ## Summary card
 

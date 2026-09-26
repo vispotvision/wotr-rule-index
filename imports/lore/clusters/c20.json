@@ -1,7 +1,7 @@
 {
  "id": "c20",
  "name": "The long memory",
- "era_span": "Cross-era. The First Eon for Iracordas and Vethraun Ashmaw by their cards, both of whom WORLD §6 lets live across eras; the Epoch register for Kinjiki, made before the Planes separated and present in the current theatre; the Great Spirit War of Sanctum Lux's founding for Lucius (his card: Founding Era; the war has no place on the count); the late Imperial Age for Anryū (his card: late Imperial Calendar). Vorrn and Vaithesca are undated. No year number anywhere.",
+ "era_span": "Cross-era. The First Eon for Iracordas and Vethraun Ashmaw by their cards, both of whom WORLD §6 lets live across eras; the Epoch register for Kinjiki, made before the Planes separated and present in the current theatre; the Great Spirit War of Sancta Lux's founding for Lucius (his card: Founding Era; the war has no place on the count); the late Imperial Age for Anryū (his card: late Imperial Calendar). Vorrn and Vaithesca are undated. No year number anywhere.",
  "members": [
   {
    "slug": "iracordas",
@@ -35,8 +35,8 @@
  "events": [
   {
    "name": "Veyr, in the plague-years",
-   "when": "The Great Spirit War, in which Sanctum Lux was founded (`Sanctum Lux.md`). It fell in the plague-years, when \"the Grand Demon Malakar released pestilences into the mortal world\" (Lucius's card). The siege came first. The cleansing came after it, in Lucius's seventeenth year. WORLD §1 leaves the war off the count, and no year is given.",
-   "where": "Veyr, the fortress-city of Iracordas's card, and Veyr Chapel within its walls (Lucius's card; `Sanctum Lux.md`). No page places Veyr in a quarter, and this record gives it none.",
+   "when": "The Great Spirit War, in which Sancta Lux was founded (`Sancta Lux.md`). It fell in the plague-years, when \"the Grand Demon Malakar released pestilences into the mortal world\" (Lucius's card). The siege came first. The cleansing came after it, in Lucius's seventeenth year. WORLD §1 leaves the war off the count, and no year is given.",
+   "where": "Veyr, the fortress-city of Iracordas's card, and Veyr Chapel within its walls (Lucius's card; `Sancta Lux.md`). No page places Veyr in a quarter, and this record gives it none.",
    "who": [
     "iracordas",
     "lucius-xenotro"
@@ -124,7 +124,7 @@
   },
   {
    "slug": "lucius-xenotro",
-   "wants": "Sadara Izayoi, the First Hand under whom `Sanctum Lux.md` records him as First Grand Paladin. Or Epsilon, who codified the glyphwork."
+   "wants": "Sadara Izayoi, the First Hand under whom `Sancta Lux.md` records him as First Grand Paladin. Or Epsilon, who codified the glyphwork."
   },
   {
    "slug": "vethraun-ashmaw",
@@ -151,9 +151,9 @@
  "card_contradictions": [
   "One Stage number, two names. Iracordas's card gives his Temperance Stage as X, \"Realization\". Vethraun's card: \"Stage 10, Dominion\", where \"the soul no longer negotiates with the world\". `The Sixteen Stages.md` names X \"Realization\". A Lore states neither.",
   "The Hollow Throne. Vethraun's card lists \"The Hollow Throne\" among his titles. Vorrn's card: \"the accumulated doctrine becomes recognisable to a Hollow Throne\". Vaithesca's: \"recognition from a Hollow Throne\". `The Sixteen Stages.md`: \"Zenith is conferred, and the conferring party is a Hollow Throne\". His card sets him short of Zenith. One name, two things.",
-  "The order's name. Lucius's card spells it \"Scantum Lux\" in his title, his faction line and his Lore. `Sanctum Lux.md` and WORLD §4 spell it \"Sanctum Lux\".",
-  "Who founded the order, and whose doctrine it is. Lucius's card has \"The Founding of the Scantum Lux\", and says \"he became Grand Paladin because his doctrine proved holiness must become measurable protection\". `Sanctum Lux.md`: \"Sanctum Lux was founded during the Great Spirit War by Sadara Izayoi\", with Lucius \"recorded as First Grand Paladin\" beneath her. The same page makes the Ladder and the measuring doctrine \"thirty-five years old\", written by Darius and backdated to Sadara.",
-  "When Lucius lived against when Iracordas lived. Lucius's card: \"Founding Era\". Iracordas's: \"The First Eon\". `The High Empire of Eresse.md`: \"First Eon, Great Spirit War Era\". `Sanctum Lux.md` founds the order in the Great Spirit War, and WORLD §1 gives the war no place on the count. Whether the two lived in one age stays open. The Veyr event keeps them apart by walls.",
+  "The order's name. Lucius's card spells it \"Scantum Lux\" in his title, his faction line and his Lore. `Sancta Lux.md` and WORLD §4 spell it \"Sancta Lux\".",
+  "Who founded the order, and whose doctrine it is. Lucius's card has \"The Founding of the Scantum Lux\", and says \"he became Grand Paladin because his doctrine proved holiness must become measurable protection\". `Sancta Lux.md`: \"Sancta Lux was founded during the Great Spirit War by Sadara Izayoi\", with Lucius \"recorded as First Grand Paladin\" beneath her. The same page makes the Ladder and the measuring doctrine \"thirty-five years old\", written by Darius and backdated to Sadara.",
+  "When Lucius lived against when Iracordas lived. Lucius's card: \"Founding Era\". Iracordas's: \"The First Eon\". `The High Empire of Eresse.md`: \"First Eon, Great Spirit War Era\". `Sancta Lux.md` founds the order in the Great Spirit War, and WORLD §1 gives the war no place on the count. Whether the two lived in one age stays open. The Veyr event keeps them apart by walls.",
   "Bara and Bairos. Kinjiki's card: \"Pre-Planar creation of Bairos, the First Epoch\", and of the Moto, \"Bara's other children\". `The Three Epochs.md` gives Bairos's true name as \"Bara (in the mortal tongue)\". `The Ashkaru.md`: \"Bairos's instruments before Bara existed\", and \"The Moto are Bara's children\". The card and the Epochs page join the two names; the Ashkaru page parts them.",
   "Vethraun's age, within his card. \"First Eon: before the Guild Accord, before any Concord had names\"; \"Jaw of the First Age\"; \"First Eon, roughly 340 years into the Deep Age\". WORLD §1 maps the Deep Age to no era.",
   "Vethraun's Concord rings, within his card. \"before any Concord had names\", against \"a necklace of Concord-marked rings and amulets\" and seals that are \"each a dead Concord-oath\". He is active in the present, and the card does not say when the rings were taken.",

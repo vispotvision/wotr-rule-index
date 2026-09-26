@@ -12,7 +12,7 @@
 
 ### Affiliation
 
-**Former Sanctum Lux Lector**, expelled after the Mirrormass Incident, where he severed a Crevice-born Phenomenon by offering half his own Soul Crystal as tithe. Human, Aether-touched. Age 31. Origin Eresse, Old World, in a region he calls the Dominion of the Faithkeepers. **Now wanders the Inner Realms performing absolutions for those tainted by Wellspring corruption.**
+**Former Sancta Lux Lector**, expelled after the Mirrormass Incident, where he severed a Crevice-born Phenomenon by offering half his own Soul Crystal as tithe. Human, Aether-touched. Age 31. Origin Eresse, Old World, in a region he calls the Dominion of the Faithkeepers. **Now wanders the Inner Realms performing absolutions for those tainted by Wellspring corruption.**
 > **Catalyst Event · Stage IX, Invocation.** *This Stage's threshold is calling on Wellsprings, Titans or Archonic law as co-authors, so the Domain consolidates into something the Continuum will answer to.* Elion's came at the Crevice, the Titan Valmir's own scar in the world. **He didn't fight the Phenomenon that came out of it. He paid it off, in Crystal, and it left.** *The order that trained him has never forgiven the method, whatever it thinks of the result.*
 
 ---
@@ -91,7 +91,7 @@
 
 ## IX · Relationships
 
-**Sanctum Lux** · Pursues him for "divine inversion," the order's own word for what the Mirrormass Incident looked like from inside.
+**Sancta Lux** · Pursues him for "divine inversion," the order's own word for what the Mirrormass Incident looked like from inside.
 **An unnamed Archon** · Rumored to have spoken final words to him once. Forget-Me Veil or the tithe took the memory; he cannot say which.
 **The forgotten Well of Penanceflare** · What he's walking toward now, somewhere in the Outer Realms.
 

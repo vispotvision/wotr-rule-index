@@ -6,7 +6,7 @@
 
 Elion Drevas was born in Eresse, on the New World's elven old-ground, a human child and Aether-touched. He came from a region he calls the Dominion of the Faithkeepers; no survey of the New World carries the name. He learned to pray there.
 
-Sanctum Lux keeps a chapter hold in Eresse, which the elven kingdoms tolerate on sufferance and audit every year. He entered the order at that hold. The first line of its catechism says that Sanctum Lux does not worship. His own line on those years is short: "I prayed until I learned prayer was only sound."
+Sancta Lux keeps a chapter hold in Eresse, which the elven kingdoms tolerate on sufferance and audit every year. He entered the order at that hold. The first line of its catechism says that Sancta Lux does not worship. His own line on those years is short: "I prayed until I learned prayer was only sound."
 
 He climbed the Ladder of Standing one grade at a time. As an Attestant he witnessed and could not weigh. As a Measurewright he took readings and could not say what they meant. He passed the order's examined workings, without which no member rises past Measurewright, and he was made Lector. It is the first grade permitted to say what something means, and the first permitted to be wrong in a way that reaches a body. He read a soul's corruption the way a clerk reads a ledger.
 
@@ -16,7 +16,7 @@ The order sent him south into the Outer World, to the Crevice, the Titan Valmir'
 
 A Phenomenon came up out of the Crevice. Elion offered it half his own Soul Crystal as tithe, and the tithe severed it. He paid it off, in Crystal, and it left. He never struck at it.
 
-That was the Mirrormass Incident. Sanctum Lux called what it had seen "divine inversion," the order's own word for what the incident looked like from inside. It expelled its Lector. The order that trained him has never forgiven the method, whatever it thinks of the result. He gave up his seat, and he has answered to no chapter since.
+That was the Mirrormass Incident. Sancta Lux called what it had seen "divine inversion," the order's own word for what the incident looked like from inside. It expelled its Lector. The order that trained him has never forgiven the method, whatever it thinks of the result. He gave up his seat, and he has answered to no chapter since.
 
 ### The Cost
 
@@ -30,7 +30,7 @@ She felt riders through the ground and said so. Leon was gone by the timber trac
 
 ### Where They Stand
 
-He wanders the Inner Realms and performs absolutions for those tainted by Wellspring corruption. Sanctum Lux still pursues him.
+He wanders the Inner Realms and performs absolutions for those tainted by Wellspring corruption. Sancta Lux still pursues him.
 
 The Mirror Veil lies across his shoulders, a ceremonial stole woven of Runeglass filament. The Vessel Codex goes with him, bound in chain, and its blank pages write themselves when sin is near. He carries the Severed Halo Fragment too, a broken Archonic relic. Divine influence cannot reach him through it. In exchange it wears at his memory, steadily. A working aimed at him comes back at whoever aimed it, and sanctified magic turns to nothing on him.
 
@@ -43,6 +43,6 @@ His road runs toward the forgotten Well of Penanceflare, somewhere in the Outer 
 - **Beatrix Vaelthorn · The Root-Sworn** · the asker and the unanswering reader. She asked him what her arm was becoming, and he gave no name.
 - **Leon Vaerenthal · The Farmer** · fellow quarry, a refused rite. He offered Leon the rite at the Rimlands well; Leon refused.
 - **Vaithesca · Oracle of the End** · Penanceflare. He walks toward the forgotten Well of Penanceflare, one of the three Wellsprings that meet in her.
-- **Sanctum Lux** · the order that trained and expelled him. It pursues him for "divine inversion," its word for what the Mirrormass Incident looked like from inside.
+- **Sancta Lux** · the order that trained and expelled him. It pursues him for "divine inversion," its word for what the Mirrormass Incident looked like from inside.
 - **An unnamed Archon** · rumored final words. The Forget-Me Veil or the tithe took the memory of them.
 - **The forgotten Well of Penanceflare** · his road. He walks toward it now, somewhere in the Outer Realms.

@@ -7596,7 +7596,7 @@ The ash under Darius's boots let go of both feet at once.
 
 "Then I am already late."
 
-"You've been late since the day they gave you the seat and you refused it." No heat in it. "You're the Archpaladin of Sanctum Lux and the Sun of the Judger whether you'll be invested in it or not, and you've spent eleven years writing the apparatus that finds the Paragon and refusing to be the man who uses it. Well. It's found. You've no apparatus to hide behind and no seat to refuse."
+"You've been late since the day they gave you the seat and you refused it." No heat in it. "You're the Archpaladin of Sancta Lux and the Sun of the Judger whether you'll be invested in it or not, and you've spent eleven years writing the apparatus that finds the Paragon and refusing to be the man who uses it. Well. It's found. You've no apparatus to hide behind and no seat to refuse."
 
 Kizami came down the column with too many joints going at once and landed without disturbing the ash.
 

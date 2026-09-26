@@ -351,7 +351,7 @@ A kilometre of ground swallows a Zenith working. The same output confined to a
 So the answer to *"if a kilometre-wide Zenith field is not saturation, what is"*
 is: the same field indoors.
 
-**Coagula Dominion does not cross it.** The working holds 1.41×10⁴ m³; the
+**Coagula Dominium does not cross it.** The working holds 1.41×10⁴ m³; the
 volume form puts its saturation deposit at 1.41×10⁸ EU, which is above any
 reserve on any card in the corpus. Ordered coagulation at that volume is not
 saturation.

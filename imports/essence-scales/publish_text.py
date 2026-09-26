@@ -101,7 +101,7 @@ and the Grade ladder states that magnitude in joules. At one megajoule to the EU
 those bounds are a reserve band, and the benchmark inside each band is its \
 midpoint in decades, the geometric mean of floor and ceiling. A reserve at the \
 benchmark, spent at that Stage's efficiency, delivers the middle of the Grade the \
-Stage tops out at — which is what makes the benchmark the figure to build a sheet \
+Stage tops out at, and that is what makes the benchmark the figure to build a sheet \
 around rather than a number chosen for convenience.
 
 | Stage | Name | Max Grade | EU band | Benchmark reserve | Under strain |

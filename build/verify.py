@@ -53,7 +53,7 @@ KHARVEN_RECURRENCE = {
     "the death-house / the Waiting": re.compile(r"death-?house|\bthe Waiting\b"),
 }
 # R48-28: a roleplay turn runs about 3,500 words; R48-46: set pieces 5,000+.
-BANDS = {"conversational": (300, 700), "standard": (2500, 4500), "set-piece": (5000, 10**9)}
+BANDS = {"conversational": (2500, 4500), "standard": (2500, 4500), "set-piece": (5000, 10**9)}  # every reply is a full ~3,500-word turn (R49-30)
 
 
 def split_sentences(text: str) -> list[str]:

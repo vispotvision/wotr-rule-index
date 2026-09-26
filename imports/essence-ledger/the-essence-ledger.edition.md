@@ -292,15 +292,15 @@ constant.
 #### Worked, at three scales
 
 **Small: a small practitioner, Stage IV, Adept Adept.** Reserve 3,100 EU, Flux Density
-290 EU/g, output 480 AU/s, η 0.89.
+290 EU/g, output 258.1 AU/s, η 0.89.
 
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 3,100 EU × 1 MJ | 3.10 GJ potential, 2.76 GJ deliverable |
-| Full output | 480 AU/s × 1 MW | 480 MW drawn, 427 MW delivered |
-| Time to empty | 3,100 ÷ 480 | 6.46 s |
-| Time to Starvation | 0.9 × 6.46 | 5.81 s, one turn |
-| Waste | 0.11 × 480 MW | 52.8 MW |
+| Full output | 258.1 AU/s × 1 MW | 258.1 MW drawn, 229.7 MW delivered |
+| Time to empty | 3,100 ÷ 258.1 | 12.01 s |
+| Time to Starvation | 0.9 × 12.01 | 10.81 s, nearly two turns |
+| Waste | 0.11 × 258.1 MW | 28.4 MW |
 
 Three of the small practitioner's workings:
 
@@ -367,15 +367,15 @@ draw. Times to Starvation are at 90% of reserve spent; turns are six seconds.
 
 | t to empty | to Starvation | turns to Starvation | practitioner | EU | AU/s | η | waste |
 |---|---|---|---|---|---|---|---|
-| 0.72 s | 0.65 s | 0.1 | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 6.7 × 10¹⁴ | 0.94 | 40.2 EW |
-| 6.46 s | 5.81 s | 1.0 | the small practitioner, Stage IV | 3,100 | 480 | 0.89 | 52.8 MW |
 | 10.00 s | 9.00 s | 1.5 | Stage III, Journeyman | 42,000 | 4,200 | 0.40 | 2.52 GW |
+| 12.01 s | 10.81 s | 1.8 | the small practitioner, Stage IV | 3,100 | 258.1 | 0.89 | 28.4 MW |
 | 23.59 s | 21.23 s | 3.5 | the middle practitioner, Stage XIII | 92,000 | 3,900 | 0.99 | 39.0 MW |
 | 70.59 s | 63.53 s | 10.6 | Stage VIII, Master | 4,200,000 | 59,500 | 0.70 | 17.9 GW |
 | 83.08 s | 74.77 s | 12.5 | Stage VII, Expert | 820,000 | 9,870 | 1.05 | none (η above one, “η above one”) |
 | 9 min 2 s | 8 min 8 s | 81 | the large practitioner, Stage XII | 850,000,000 | 1,566,000 | 0.87 | 204 GW |
-| 41 min 6 s | 37 min 0 s | 370 | Stage V, Expert | 185,000 | 75 | 0.50 | 37.5 MW |
-| 15 h 37 m 30 s | 14 h 3 m 45 s | 8,438 | Stage XII, Grandmaster | 180,000,000 | 3,200 | 0.91 | 288 MW |
+| 34 min 16 s | 30 min 50 s | 308 | Stage V, Expert | 185,000 | 90 | 0.60 | 36.0 MW |
+| 4 h 59 m 42 s | 4 h 29 m 44 s | 2,697 | Stage XII, Grandmaster | 180,000,000 | about 10,010 | 0.91 | 901 MW |
+| about 642 days | about 578 days | 8.3 million | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 8.648 × 10⁶ | 0.94 | 519 GW |
 
 Every η here is the practitioner's own. The Tier ranges of Part Nineteen are
 typical, and a practitioner whose η stands outside their Tier's range stands as
@@ -383,7 +383,7 @@ recorded.
 
 **The whole column is a clock.** Most reserves empty in under two minutes at full
 draw. The exceptions are the very largest reserves and the low-output ones built
-for long work: a Stage XII reserve of 180,000,000 EU drawn at 3,200 AU/s is built
+for long work: a Stage XII reserve of 180,000,000 EU drawn at about 10,010 AU/s is built
 for multi-hour forge work, and its two numbers say so.
 
 #### What AU/s is not
@@ -437,10 +437,10 @@ at the place the loss happened. Light and sound are ways out of that place, not
 alternatives to it, and each becomes heat where it is absorbed.
 
 **It cannot be generated inside the body and conducted out.** Fourier's law,
-q = −k∇T. The small practitioner's 52.8 MW of waste through 1.8 m² of skin is 29.3 MW/m²;
+q = −k∇T. The small practitioner's 28.4 MW of waste through 1.8 m² of skin is 15.8 MW/m²;
 across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that would need
 
-**ΔT = qL/k = 2.93 × 10⁷ × 0.003 / 0.4 = 2.2 × 10⁵ K.**
+**ΔT = qL/k = 1.58 × 10⁷ × 0.003 / 0.4 = 1.2 × 10⁵ K.**
 
 across three millimetres, and that is the small practitioner. At the middle
 practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it
@@ -461,8 +461,8 @@ like. T = (P / εσA)^¼ over 1.8 m² at ε = 0.98, at **full output**:
 
 | practitioner | waste | surface T | pain on bare skin (2 kW/m²) | wood ignites, piloted (12.5 kW/m²) |
 |---|---|---|---|---|
+| the small practitioner, η 0.89 | 28.4 MW | 4,105 K | 33.6 m | 13.4 m |
 | the middle practitioner, η 0.99 | 39.0 MW | 4,444 K | 39.4 m | 15.8 m |
-| the small practitioner, η 0.89 | 52.8 MW | 4,793 K | 45.8 m | 18.3 m |
 | Stage III, η 0.40 | 2.52 GW | 12,600 K | 317 m | 127 m |
 | Stage VIII, η 0.70 | 17.9 GW | 20,550 K | 843 m | 337 m |
 | the large practitioner, η 0.87 | 204 GW | 37,770 K | 2,846 m | 1,138 m |

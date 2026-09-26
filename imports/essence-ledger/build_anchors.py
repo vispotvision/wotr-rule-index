@@ -298,7 +298,7 @@ COST_SUPPLEMENT = [
 WITHDRAWN = [
     {
         "file": "wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md",
-        "line": 69, "kind": "joule",
+        "line": 71, "match": "Not the 450 PJ the card claimed", "kind": "joule",
         "why": "the line names the figure only to withdraw it: \"Not the 450 PJ the card claimed\"",
     },
 ]
@@ -760,8 +760,9 @@ def main() -> int:
 
     classify_joules(joules)
     for w in WITHDRAWN:
+        # by the withdrawing quote, not the line number: cards gain header lines
         hit = [r for r in joules
-               if r["source"]["file"] == w["file"] and r["source"]["line"] == w["line"]]
+               if r["source"]["file"] == w["file"] and w["match"] in json.dumps(r, ensure_ascii=False)]
         if not hit:
             raise SystemExit(f"withdrawn figure not found in the sweep: {w['file']}:{w['line']}")
         for r in hit:

@@ -354,8 +354,10 @@ quiet and fills up.** The system has no term for a bleed that does not disperse
 | EU spent, Black Recognition | `null` | Page states no figure for the rite that produces the vessel. `SA-GAP-KUROTANA-NO-NUMBERS`. |
 | EU spent, Soul Drafting / Name Revision / Black Mandate | `null` | Page states costs qualitatively only: *"the cost rises with how abstract the command is."* No scale. |
 | Flux Density | `null` for the vessel · **18,400 EU/g** pre-Kurotana | Card. |
-| η | `null` for the vessel · **0.89** pre-Kurotana | Card. Tier 7 band at Stage XI is 0.85–0.90 ✓; Tier 5 band at the card's stated Stage VII is 0.50–0.60 ✗ (`SA-NUM-NIRAN-ETA-TIER`). |
+| η | `null` for the vessel · **0.89** pre-Kurotana | Card. Tier 7 band at Stage XI is 0.85–0.90 ✓; Tier 5 band at the card's stated Stage VII is 0.60–0.70 under **R44-4** ✗ — still out of band (`SA-NUM-NIRAN-ETA-TIER`). |
 | AU/s | `null` for the vessel · **16,376** pre-Kurotana | Card. **18,400 × 0.89 = 16,376**; R44-2 holds on this card without correction. |
+| **Cross-card reading of that output** | **higher than a Stage X practitioner's** | Muken Moto's card states **15,624 AU/s** at Stage X (`wiki/Volume I — Character Cards/Muken Moto.md`:30, 60) against Niran's **16,376** at a card Stage of VII, and **both cards satisfy R44-2 exactly**, so neither figure can be set aside as a slip. Output therefore falls as Stage rises across the one clean carded pair in the batch, which makes any monotone Stage-to-AU/s ladder unfittable. `SA-CROSS-AUS-NOT-MONOTONE-IN-STAGE`, extending `SA-CROSS-AUS-LADDER`. |
+| **Card's stated Stage** | **"Stage VII — Emanation"** — a number and a name from two different Stages | Card `:25`. Part Five: VII is **Refraction**, XII is **Emanation**. `SA-NUM-NIRAN-STAGE-NAME`. |
 | Duration | **permanent, zero upkeep** | Page: *"once inscribed into the Crystal it does not require sustained attention to persist."* |
 | Efficiency bleed | **10–15 %** at the floor, **retained rather than radiated** | 1 − η, Tier 7 — modified by Vantabriel's absorption. No system term exists for retained bleed. |
 | Crack propagation, single-crystal cleavage | **≈ 2,000 m/s**, a 0.1 m section in **≈ 50 μs** | Rayleigh-speed fraction. Physical account only; the system states no timescale for a lattice failure. |

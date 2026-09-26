@@ -285,15 +285,16 @@ reported as a working arriving with more behind it than the caster has.
 
 **What bleeds, at the stated efficiency.** η is unstated for every named
 practitioner (`SA-GAP-THAUMIC-NO-CARD`). At the Stage VI floor the Tier of
-Standing is **5 · Expert**, η **0.50–0.60** (Part Nineteen): **40 to 50 percent
+Standing is **5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by
+**R44-4**): **30 to 40 percent
 of every expenditure leaves as heat, sound and structural bleed**, and once
 again, for this branch specifically, **the bleed is sound** — broadband, at the
 working's own frequencies, radiated into the exact channel the practitioner is
 trying to listen to. A Stage VI Harmonist projecting a counter-frequency is
 partially deafening himself with the projection's own waste. At the Stage VIII
-combat gate (Tier 6, η 0.70–0.80) the waste halves, which is the mechanical
-reason Interference Lock is gated two Stages above basic perception rather than
-one.
+combat gate (Tier 6, η 0.70–0.80) the waste falls by roughly a third, which is
+the mechanical reason Interference Lock is gated two Stages above basic
+perception rather than one.
 
 ---
 
@@ -304,7 +305,7 @@ one.
 | EU spent, diagnostic | `null` | Page states none (`SA-GAP-THAUMIC-NO-NUMBERS`, `SA-GAP-EU-FORMULA`). |
 | EU spent, Interference Lock | `null` | Page states none — for a **combat** application with its own Stage gate. |
 | Flux Density | `null` | No AU/s and no η for any named practitioner; the one closed formula cannot be inverted with neither term. |
-| η | **0.50–0.60** (VI) → **0.70–0.80** (VIII) | Tier 5 · Expert and Tier 6 · Master (Part Nineteen). Bands, not card figures. |
+| η | **0.60–0.70** (VI) → **0.70–0.80** (VIII) | Tier 5 · Expert and Tier 6 · Master (Part Nineteen; the Tier 5 cell as corrected by **R44-4**: *"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). Bands, not card figures. |
 | AU/s | `null` | Neither term available. |
 | Duration, counter | **under 2 s**, read to counter | `The Harmonic Arts`, Aurevia's assessed operational speed. The only attested time in the branch. |
 | Cycles to lock | **≈ 1/r, capped at Q** | Derived from forced-oscillator response, r = counter amplitude ÷ target amplitude. Not canon; a checkable consequence of the stated mechanism. |
@@ -329,10 +330,15 @@ Harmonist therefore holds Attunement anywhere up to the Stage VI ceiling of
 **below B-Grade**, which is the numeric reason an untrained-Path practitioner
 cannot hold a working's frequency in memory long enough to build a counter for
 it. Second: Interference Lock's Stage VIII gate puts the practitioner at Tier 6,
-η **0.70–0.80**, versus the Stage VI floor's **0.50–0.60**. The counter's waste
-falls from roughly half to roughly a quarter — and since the waste is sound in
+η **0.70–0.80**, versus the Stage VI floor's **0.60–0.70** (**R44-4**). The
+counter's waste falls from roughly a third of every expenditure to roughly a
+quarter — and since the waste is sound in
 the band being listened to, **the gate is a signal-to-noise gate**, not a power
-gate. Nothing on either page says so. It falls out of the numbers.
+gate. Nothing on either page says so. It falls out of the numbers. Note that
+R44-4 shrank this margin: at the superseded Tier 5 figure the gate bought a
+halving of self-noise (45 % waste to 25 %, a ratio of 1.8), and at the ruled one
+it buys 35 % to 25 %, a ratio of **1.4**. The gate is still a signal-to-noise
+gate; it is a narrower one than the pre-ruling arithmetic made it look.
 
 **Does the physics close against the stratal account?** **Yes for the mechanism
 and no for the ledger.** The mechanism closes unusually well: a phase-only

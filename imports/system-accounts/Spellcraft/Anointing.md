@@ -308,7 +308,8 @@ catches it."*
 
 **What bleeds, at the stated efficiency.** No practitioner has a card
 (`SA-GAP-ANOINTING-NO-CARD`). At the Stage VI floor the Tier of Standing is
-**5 · Expert**, η **0.50–0.60** (Part Nineteen): **40 to 50 percent** of the
+**5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by **R44-4**):
+**30 to 40 percent** of the
 officiant's expenditure leaves as heat, sound and structural bleed. The
 expenditure being unquantified, the bleed is too — but the page's own reasoning
 about the Stage floor supplies the interesting version anyway: what the officiant
@@ -324,9 +325,9 @@ efficiency of *that* is not measured in η.
 | EU spent | `null` | Page states none. `SA-GAP-ANOINTING-NO-NUMBERS`, `SA-GAP-EU-FORMULA`. |
 | Officiant's stake | **their own Crystal, vouching for the claim** — stated in kind, not in quantity | Page: *"a rite that asks an officiant to vouch, with their own Crystal, for a claim about someone else's purpose."* The same accounting problem as Imprinta's Core fraction (`SA-GAP-IMPRINTA-CORE-FRACTION`). |
 | Flux Density · η · AU/s | `null` | No carded officiant anywhere. |
-| η at the floor | **0.50–0.60** | Tier 5 · Expert, Stages V–VII (Part Nineteen). A band. |
+| η at the floor | **0.60–0.70** | Tier 5 · Expert at Stage VI (Part Nineteen as corrected by **R44-4**: *"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). A band. |
 | Duration | **permanent, zero upkeep** | Page: *"a standing Traitus mark does not lapse the way a sustained working does."* |
-| Efficiency bleed | **40–50 %** at the floor | 1 − η. |
+| Efficiency bleed | **30–40 %** at the floor | 1 − η. |
 | Residence time of a high-affinity bond, for comparison | **hours to days** (K_d ≈ 10⁻¹⁴ M, k_off ≈ 10⁻⁵ s⁻¹) | Biotin–streptavidin. Physical account only. **A career-long mark is therefore covalent rather than affinity-held**, which is why Fixatio is on the page and is the one derivation this account can make about the rite's durability. |
 | Minimum Stage | **VI · Glory** | Page, with the best-reasoned justification in the section. Max Grade A, ceiling 400 (Part Five). |
 | Tier of Standing | **5 · Expert** | Part Five. |

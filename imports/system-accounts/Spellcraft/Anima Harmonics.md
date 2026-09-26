@@ -301,14 +301,17 @@ under sacred law rather than under assault.
 **What bleeds, at the stated efficiency.** η is unstated for every practitioner
 this page names, because no named practitioner has a card
 (`SA-GAP-ANIMA-NO-CARD`). At the Stage VII floor the Tier of Standing is
-**5 · Expert**, η **0.50–0.60** (Part Nineteen), so **40 to 50 percent of every
+**5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by **R44-4**), so
+**30 to 40 percent of every
 therapeutic expenditure leaves as heat, sound and structural bleed** — and note
 what that means for *this* working specifically, which the generic statement
 hides: **the bleed of a Harmonic working is itself sound**, radiated at the
 working's own frequencies, into a room the practitioner has spent the entire
 session making quiet. A Stage VII Harmonist doing therapy is his own worst
-observing condition. The discipline gets measurably safer at Stage IX (Tier 6,
-η 0.70–0.80) for reasons that are acoustic rather than doctrinal.
+observing condition. The discipline gets measurably quieter at Stage IX (Tier 6,
+η 0.70–0.80, so 20 to 30 percent) for reasons that are acoustic rather than
+doctrinal — about a third less radiated waste, not the halving the superseded
+Tier 5 figure implied.
 
 ---
 
@@ -319,10 +322,10 @@ observing condition. The discipline gets measurably safer at Stage IX (Tier 6,
 | EU spent, diagnostic | `null` | Page states none. No formula converts a Stage into EU (`SA-GAP-EU-FORMULA`). |
 | EU spent, therapeutic | `null` | Page states none. `SA-GAP-ANIMA-NO-NUMBERS`. |
 | Flux Density | `null` | No AU/s figure and no η figure for any named practitioner; AU/s = Flux Density × η cannot be inverted with neither term. |
-| η | **0.50–0.60** at the floor | Tier 5 · Expert, Stages V–VII (Part Nineteen). Not a card figure; a band. |
+| η | **0.60–0.70** at the floor | Tier 5 · Expert at Stage VII (Part Nineteen as corrected by **R44-4**: *"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). Not a card figure; a band. |
 | AU/s | `null` | Neither term available. |
 | Duration | `null` | Page: a reading *"lapses if attention breaks"*. No attested length. |
-| Efficiency bleed | **40–50 %** at the floor | 1 − η, using the Tier 5 band. |
+| Efficiency bleed | **30–40 %** at the floor | 1 − η, using the Tier 5 band as corrected by **R44-4**. |
 | Minimum Stage, diagnostic listening | **VII · Refraction** | Page, and `The Harmonic Arts` Temperance Gate. Max Grade A (allocation stops at 400), ceiling 475 under strain (Part Five). |
 | Minimum Stage, therapeutic projection | **IX · Invocation** | Page, and `The Harmonic Arts`. Max Grade S, ceiling 625 under strain. |
 | Minimum Stage, Fell Chord surgery | **XI · Dissonance** | Page, and `The Harmonic Arts`. Max Grade SS, ceiling 750, structurally unstable. |

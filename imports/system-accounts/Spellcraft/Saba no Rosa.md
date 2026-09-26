@@ -317,14 +317,15 @@ standing on all of that, stops being sustainable, and it does not fail slowly.
 **16 percent of every expenditure leaves as heat, sound and structural bleed**,
 and for a sustained environmental field that is a continuous radiated loss for as
 long as the sea is held. At the page's derived Stage VII floor the Tier of
-Standing would be **5 · Expert**, η **0.50–0.60** (Part Nineteen), giving
-**40–50 percent** — which for a working with no stated cost and a field that
+Standing would be **5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by
+**R44-4**), giving
+**30–40 percent** — which for a working with no stated cost and a field that
 *"can be raised small and expanded only as reserves allow"* means the practical
 size of the sea is set almost entirely by the practitioner's efficiency rather
-than by their reserve. A Stage VII gardener wastes nearly half of every rose. A
-Stage X one wastes a sixth. **The discipline is three times more usable at
-Master tier than at its own floor**, which is a real consequence of the numbers
-and is not stated anywhere.
+than by their reserve. A Stage VII gardener wastes about a third of every rose. A
+Stage X one wastes a sixth. **The discipline is roughly twice as usable at
+Master tier than at its own floor** (35 % waste against 16 %, on the band
+midpoint), which is a real consequence of the numbers and is not stated anywhere.
 
 ---
 
@@ -335,7 +336,7 @@ and is not stated anywhere.
 | EU spent | `null` | Page states no figure for any scale of field. `SA-GAP-SABA-NO-NUMBERS`, `SA-GAP-EU-FORMULA`. |
 | Cost structure | **per rose, from the practitioner's own Oblation reserve, scaling with field size** | Page. A stated *shape* of cost with no magnitude — which is more than most pages in this section give and less than the ledger needs. |
 | Flux Density | **18,600 EU/g** (Muken) | Card. |
-| η | **0.84** (Muken) · **0.50–0.60** at the page's derived Stage VII floor | Card; Part Nineteen Tier 5. The card figure is above its Tier 6 band (`SA-NUM-MUKEN-ETA-TIER`). |
+| η | **0.84** (Muken) · **0.60–0.70** at the page's derived Stage VII floor | Card; Part Nineteen Tier 5 as corrected by **R44-4** (*"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). The card figure is above its Tier 6 band (`SA-NUM-MUKEN-ETA-TIER`); R44-4 does not reach it, since it names Stages VI–VII and Muken is Stage X. |
 | AU/s | **15,624** (Muken) | Card. 18,600 × 0.84 = 15,624 ✓. |
 | Reserve | **1,850,000 EU** (Muken) | Card. |
 | Efficiency bleed | **16 %** (Muken) · **40–50 %** at the floor | 1 − η. |

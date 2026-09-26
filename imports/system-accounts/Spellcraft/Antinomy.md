@@ -317,7 +317,7 @@ principal traffic is not expression — it is **transit**, other people's conten
 moving through his lattice — and the system does not say whether η applies to a
 transit at all (`SA-GAP-ANTINOMY-TRANSIT-NOT-EXPRESSION`). Note the pre-Kurotana
 card's η, **0.89**, which sits inside the Tier 7 band despite the card placing
-Niran at Stage VII, whose band is 0.50–0.60. Either the η is wrong for the Stage
+Niran at Stage VII, whose band is 0.60–0.70 (**R44-4**). Either the η is wrong for the Stage
 or the Stage is wrong for the η, and the card's own figure is the one that
 matches Septarch's Stage floor rather than Niran's stated Stage
 (`SA-NUM-NIRAN-ETA-TIER`).
@@ -338,8 +338,9 @@ records what *can* be stated and what cannot.
 |---|---|---|
 | EU spent | `null`, **and deliberately so** | Page. The stated expense is a transit, not an expenditure. `SA-GAP-ANTINOMY-TRANSIT-NOT-EXPRESSION`. |
 | Flux Density | `null` for Septarch · **18,400 EU/g** for pre-Kurotana Niran | Card, `wiki/Volume I — Character Cards/Niran Yukari.md`. |
-| η | `null` for Septarch · **0.89** for pre-Kurotana Niran | Card. Tier 7 band at Stage XI is 0.85–0.90 ✓; Tier 5 band at the card's stated Stage VII is 0.50–0.60 ✗. |
+| η | `null` for Septarch · **0.89** for pre-Kurotana Niran | Card. Tier 7 band at Stage XI is 0.85–0.90 ✓; Tier 5 band at the card's stated Stage VII is 0.60–0.70 under **R44-4** ✗ — still out of band, and by 0.19 rather than 0.29. |
 | AU/s | `null` for Septarch · **16,376** for pre-Kurotana Niran | Card. **And the formula closes exactly: 18,400 × 0.89 = 16,376.** R44-2 (`RULINGS.md`) holds on this card without correction, which is worth recording because twenty-six cards in the corpus miss it. |
+| **Card's stated Stage** | **"Stage VII — Emanation"** — a number and a name from two different Stages | Card `:25`. Part Five: VII is **Refraction**; Emanation is **XII**. The card's own Tier cell (*"Tier of Standing 5, Expert"*) backs the number; its η of 0.89 backs the name. Exactly the defect logged for Gimbzo, and it supplies a third reading of the η row above. `SA-NUM-NIRAN-STAGE-NAME`. |
 | Duration | *"for the duration of contact"* | Page. No attested length; the gesture *"holds only while Septarch's attention holds it."* `SA-GAP-TURN-LENGTH`. |
 | Efficiency bleed | **10–15 %** at the floor | 1 − η, Tier 7 band. Applicability to a transit is unstated. |
 | Minimum Stage | **XI · Dissonance** | Page. Max Grade SS, allocation stops at 725, ceiling 750 and *"structurally unstable"* (Part Five). |

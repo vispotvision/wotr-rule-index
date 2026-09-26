@@ -1,8 +1,17 @@
 # System accounts — the method, and every number the batch is allowed to use
 
 This file is the shared derivation toolkit for `imports/system-accounts/`. Each
-account cites it rather than restating it twenty-eight times. Every row below is
+account cites it rather than restating it seventy-six times. Every row below is
 quoted or read straight off a system page; nothing here is invented.
+
+**Scope note (WAR-7, 2026-09-25).** This file was written for the first
+**twenty-eight** accounts and was not revised as the batch grew to **seventy-six**
+(56 under `Techniques/`, 20 under `Spellcraft/`). Sections I–IX are general and
+hold for all seventy-six. The passages that *enumerate* the batch — the lens list
+in §X.1, the conflict counts in §X.3 and the AU/s claim in §VIII — described the
+first twenty-eight only, and are corrected or scope-marked below rather than
+re-enumerated, since listing 76 lenses is the writing issues' work and not this
+review's.
 
 Standard: `wiki/The Magic System/The Physical Account Two Sets of Books.md` —
 "The Continuum keeps two sets of books on every working ever performed, and they
@@ -115,14 +124,26 @@ sort of thing that can be opposed."
 **The repo mirror of the Index carries 30 of the 136 entries** — the unclassified
 thirty, plus the worked examples `[Ur]` Balance and `[Lei]` Binding and the two
 amendment entries `[Abys]` Deep and `[Th]` Foundation. The other 106 are Notion
-sub-pages that have not been mirrored. Every glyph named in this batch is drawn
+sub-pages that have not been mirrored. Every glyph *proposed* in this batch is drawn
 from the thirty, whose fifteen Roots the Index itself describes as naming "a
 **kind of limit**, applicable to any law at all" — which is exactly the field
-section 3 of an account needs. **No technique page in this batch names a glyph.**
-Each assignment below is therefore marked *proposed*, made under the Index's own
+section 3 of an account needs. **No page among the fifty-six `Techniques/` pages
+names a glyph.** Each assignment for those is therefore marked *proposed*, made
+under the Index's own
 Standing Note ("Assignment is decided after the phenomenon, never before, and it
 is a filing decision rather than a generative one"), and none is canon until
 Isaac rules. See `_conflicts.jsonl`, `SA-GAP-GLYPH-MIRROR`.
+
+**Two `Spellcraft/` pages do name glyphs, and neither set is attested** — a case
+this section did not originally allow for. Anointing names **Lo · Wy · Ka**;
+Transposition names its own chain. In both, the page's readings disagree with canon
+or are absent from it, and **none of the named forms appears among the thirty
+mirrored entries**. Those two accounts therefore propose *no* substitute — over a
+page-named glyph a proposal would be a third reading rather than a check — and log
+the glyphs instead (`SA-UNATT-ANOINTING-GLYPHS`,
+`SA-UNATT-TRANSPOSITION-GLYPHS`). The batch thus holds **proposed** glyphs on the
+Techniques and **unattested page-named** glyphs on those two, and the two cases
+must not be read as one.
 
 The thirty available: `[RenB]` Boundary · `[Ath]` Command · `[Ir]` Continuum ·
 `[Cal]`/`[Kai]` Craft · `[Dom]` Dominion · `[Al]` Edge · `[AeV]` Era · `[Hael]`
@@ -190,8 +211,23 @@ cell to 0.60–0.70, which brought Aeldoris's 0.65 inside his band and put Drave
 and Draven's case is `C-062`, filed to Doc Kett. Drakvor's and Francis's bands
 are Tier 6 and Tier 8, which R44-4 does not touch.
 
-Two AU/s figures exist in the whole batch and they sit six Stages and five orders
-of magnitude apart with no scaling rule between them (`SA-CROSS-AUS-LADDER`).
+**Six** sourced AU/s figures exist in the batch, across seven Stages, with no
+scaling rule between them (`SA-CROSS-AUS-LADDER`). The table above holds the two
+the first twenty-eight accounts had; the Spellcraft section added four more, all
+stated on cards:
+
+| Practitioner | Stage (card) | Flux Density | η | AU/s | R44-2 closes? |
+|---|---|---|---|---|---|
+| Niran Yukari | VII | 18,400 EU/g | 0.89 | 16,376 | ✓ 18,400 × 0.89 = 16,376 |
+| Muken Moto | X · Realization | 18,600 EU/g | 0.84 | 15,624 | ✓ 18,600 × 0.84 = 15,624 |
+| Dougou Ozumu Zettari | XIII · Principality | 18,400 EU/g | 0.99 | 3,900 external | ✗ `CONFLICTS.md` C-054, open |
+| Gimbzo | "XII — Zenith" | 9.2×10⁶ EU/g | 0.94 | 6.7×10¹⁴ | ✗ `CONFLICTS.md` C-053, open |
+
+**They are not monotone in Stage.** Niran at Stage VII outputs *more* than Muken
+at Stage X, and both of those cards satisfy R44-2 exactly, so neither can be set
+aside as an arithmetic slip. Any monotone Stage-to-AU/s ladder is therefore
+unfittable to the attested cards without editing one of them
+(`SA-CROSS-AUS-NOT-MONOTONE-IN-STAGE`).
 
 ## IX · What could not be checked at all
 
@@ -203,7 +239,9 @@ achieve in that location," and the density scale in `The Eight Families & the
 Sixty Wellsprings` runs Ambient Saturation → Active Concentration → Veil-Thin
 Nexus → Wellspring Core, which is four named conditions and no units. So the
 joules-against-ceiling test the issue asks for cannot be run on any of the
-twenty-eight. Logged as `SA-GAP-AETHERIC-DENSITY`, the batch's largest gap.
+seventy-six. Logged as `SA-GAP-AETHERIC-DENSITY`, the batch's largest gap. No
+account in the batch claims to clear or breach a ceiling; each says it cannot be
+checked and stops there (verified across all seventy-six under WAR-7).
 
 Each physical account below therefore states its energy budget in SI and says
 where those joules were sitting, and stops there. It does not claim the working
@@ -212,7 +250,12 @@ clears or breaches a ceiling, because there is no ceiling to clear.
 ## X · The two later rulings, and what they changed
 
 Isaac widened the format twice after the first seventeen accounts were written.
-Both are applied to all twenty-eight.
+Both are applied to all **seventy-six**: every account carries the five sections
+under their exact titles, every one names a credited lens, every one closes §3 on
+what the target sees and feels, and none carries a separate effect description —
+the retired heading *"The effect in plain words"* appears in none of the
+seventy-six and *"The phenomenon in plain words"* in all of them (verified
+mechanically under WAR-7).
 
 ### X.1 · Addendum 1 — fair, a challenge, and a wider well
 
@@ -226,7 +269,8 @@ pseudoscience, credited by thinker and work, that fits the working: it explains
 how the law is *understood or believed*, and it never changes a mechanic or a
 number. Every lens in this batch also names the **productive misreading** — the
 school that reads the working through the lens wrongly, and what that school gets
-killed by. The twenty-eight, in page order: Aristotle's four causes · alchemical
+killed by. **The first twenty-eight, in page order** (the later forty-eight name
+their lenses on the page and are not enumerated here): Aristotle's four causes · alchemical
 palingenesis (Kircher) · Leibniz's compossibility · Stoic pneuma and *tonos*
 (Chrysippus) · Bergson's *élan vital* · Cusa's *coincidentia oppositorum* ·
 Kepler's *Harmonices Mundi* · James's specious present · *solve et coagula*
@@ -267,12 +311,14 @@ thing the Mechanism is the Effect or how it works."
 
 ### X.3 · The questionnaire
 
-`_conflicts.jsonl`, one JSON line per conflict, 104 rows, each carrying `id`,
-`page`, `kind`, both quotes with their paths, `why`, and two to four `options`
-with what each would change. Kinds: `gap` 29 · `number` 25 · `effect-mechanism`
-13 · `cross-page` 10 · `physics-open` 8 · `fairness` 8 · `off-system` 6 ·
-`unattested` 5. Every `SA-` identifier cited anywhere in the twenty-eight
-accounts resolves to a row, and every row is cited by at least one account.
+`_conflicts.jsonl`, one JSON line per conflict, **397 rows** (104 at the end of
+the first twenty-eight accounts), each carrying `id`, `page`, `kind`, both quotes
+with their paths, `why`, and two to four `options` with what each would change.
+Kinds: `gap` 105 · `cross-page` 83 · `number` 65 · `physics-open` 51 ·
+`effect-mechanism` 32 · `fairness` 30 · `unattested` 21 · `off-system` 10.
+Every `SA-` identifier cited anywhere in the seventy-six
+accounts resolves to a row, and every row is cited by at least one account
+(re-checked mechanically under WAR-7).
 **Nothing is resolved.** The four largest are `SA-GAP-EU-FORMULA`,
 `SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR` and `SA-GAP-TURN-LENGTH`, and
 each of them blocks a check the issue asked for.

@@ -288,11 +288,12 @@ they will get.
 
 **What bleeds, at the stated efficiency.** No practitioner has a card
 (`SA-GAP-SCISSION-NO-CARD`). At the Stage VI floor the Tier of Standing is
-**5 · Expert**, η **0.50–0.60** (Part Nineteen): **40 to 50 percent of the
+**5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by **R44-4**):
+**30 to 40 percent of the
 expenditure leaves as heat, sound and structural bleed.** At the 60,000 EU
-ceiling that is **24,000 to 30,000 EU of waste**, spread across six to twelve
+ceiling that is **18,000 to 24,000 EU of waste**, spread across six to twelve
 minutes rather than dumped in a second — so unlike Edictum's instantaneous
-discharge this is **33 to 83 EU of bleed per second, sustained, into a fixed
+discharge this is **25 to 67 EU of bleed per second, sustained, into a fixed
 circle**, which is the profile that makes a Scission chamber a warm and noisy
 place and is the reason the rite has a Space step at all.
 
@@ -304,12 +305,12 @@ place and is the reason the rite has a Space step at all.
 |---|---|---|
 | EU spent | **40,000–60,000 EU** | Page, Numerical Effect, stated as an estimate; the top of the range for *"a bond forged under duress or over decades."* |
 | Flux Density | `null` | No AU/s and no η for any practitioner. |
-| η | **0.50–0.60** at the floor | Tier 5 · Expert, Stages V–VII (Part Nineteen). A band. |
+| η | **0.60–0.70** at the floor | Tier 5 · Expert at Stage VI (Part Nineteen as corrected by **R44-4**: *"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). A band. |
 | AU/s | `null` | Neither term available. |
 | Duration | **6–12 minutes of ritual time** | Page. The longest working in the batch, and the only one with an attested procedure of named steps. |
 | Bond density severable | **up to Stage VI** | Page. The only Stage-versus-Stage severance limit stated anywhere in the batch. |
-| Efficiency bleed | **40–50 %**, i.e. **24,000–30,000 EU** at the ceiling | 1 − η. |
-| Bleed rate | **≈ 33–83 EU/s**, sustained, into a fixed circle | 24,000–30,000 EU over 360–720 s. Derived; the page states no rate. |
+| Efficiency bleed | **30–40 %**, i.e. **18,000–24,000 EU** at the ceiling | 1 − η. |
+| Bleed rate | **≈ 25–67 EU/s**, sustained, into a fixed circle | 18,000–24,000 EU over 360–720 s. Derived; the page states no rate. |
 | Entropic driving force available | **≈ 1.8 kJ·mol⁻¹** at 310 K | TΔS with ΔS = R ln 2. Physical account only. |
 | Covalent bond energy, for comparison | **300–400 kJ·mol⁻¹** | Standard. **A factor of ≈ 200**, which is the quantitative content of the page's Fixatio Weakness. |
 | Minimum Stage | **VI · Glory** | Page. Max Grade A, ceiling 400 (Part Five). |
@@ -384,7 +385,7 @@ Logged `SA-PHYS-SCISSION-ENTROPY-INVERTED`, with options, and not resolved.
 | Stated limits | **pass, and the limits are exceptional** | *"Ritus is performed, not built — it cannot be improvised mid-combat, and the full apparatus must be assembled before the cut is attempted or the rite fails outright rather than partially"*; six to twelve minutes; a stated severance ceiling of Stage VI density; and the complication rate stated as the norm rather than the exception — *"The removed piece does not reliably return whole."* |
 | Something beats it | **pass, and it is the easiest working in the batch to beat** | Below. Fixatio it, interrupt it, or knock over the circle. |
 | It has a tell | **pass, overwhelmingly** | Six to twelve minutes, a circle, an offering, a catalyst, a spoken invocation and five people. There is no version of this working that happens quietly, quickly or unnoticed, and the page says so. |
-| Numbers in band | **pass** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5, η 0.50–0.60 (Parts Five and Nineteen) — all consistent with the page's A-Grade. The severance ceiling matches the Stage floor. The one number that does not check is the reserve ladder (`SA-CROSS-EU-STAGE-LADDER`), which is not this page's doing. |
+| Numbers in band | **pass** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5, η 0.60–0.70 (Part Five; Part Nineteen as corrected by **R44-4**) — all consistent with the page's A-Grade. The severance ceiling matches the Stage floor. The one number that does not check is the reserve ladder (`SA-CROSS-EU-STAGE-LADDER`), which is not this page's doing. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

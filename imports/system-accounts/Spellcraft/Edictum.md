@@ -280,11 +280,12 @@ courtroom and is one of the two ways this working ends a career.
 
 **What bleeds, at the stated efficiency.** No practitioner has a card
 (`SA-GAP-EDICTUM-NO-CARD`). At the Stage VII floor the Tier of Standing is
-**5 · Expert**, η **0.50–0.60** (Part Nineteen), so **40 to 50 percent of the
+**5 · Expert**, η **0.60–0.70** (Part Nineteen as corrected by **R44-4**), so
+**30 to 40 percent of the
 casting expenditure leaves as heat, sound and structural bleed** — and since the
 hold costs nothing thereafter, **all of the waste happens in the single second of
 speaking.** A Stage VII Edictum at the 70,000 EU ceiling therefore dumps
-**28,000 to 35,000 EU worth of bleed** into the room in the instant the sentence
+**21,000 to 28,000 EU worth of bleed** into the room in the instant the sentence
 closes, which is the largest instantaneous bleed of any working in this batch and
 is a very good reason Edicts are pronounced in halls built for it rather than in
 corridors.
@@ -298,11 +299,11 @@ corridors.
 | EU spent, single named target | **50,000–70,000 EU** | Page, Numerical Effect, stated as an estimate. |
 | EU spent, space or domain-scale | **≈ 90,000 EU** | Page, same line. |
 | Flux Density | `null` | No AU/s and no η for any practitioner; AU/s = Flux Density × η cannot be inverted with neither term. |
-| η | **0.50–0.60** at the floor | Tier 5 · Expert, Stages V–VII (Part Nineteen). A band. |
+| η | **0.60–0.70** at the floor | Tier 5 · Expert at Stage VII (Part Nineteen as corrected by **R44-4**: *"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). A band. |
 | AU/s | `null` | Neither term available. |
 | Duration, cast | **instant** | Page: *"takes effect the instant the sentence completes."* |
 | Duration, hold | **indefinite, zero upkeep** | Page: *"holds for as long as the caster's authority over that ground remains uncontested."* No per-second cost stated, and the physical account says there should not be one. |
-| Efficiency bleed | **40–50 %**, all of it at the instant of casting | 1 − η. At the 70,000 EU ceiling: **28,000–35,000 EU** of bleed in one second. |
+| Efficiency bleed | **30–40 %**, all of it at the instant of casting | 1 − η. At the 70,000 EU ceiling: **21,000–28,000 EU** of bleed in one second. |
 | Field energy excluded, 1 m³ at 1 T | **3.98 × 10⁵ J** | U = B²V / 2μ₀. Physical account only; no system unit converts this to EU (`SA-GAP-AU-TO-JOULES`). |
 | Field energy excluded, 10⁴ m³ at 1 T | **3.98 × 10⁹ J** | Same relation. Sits in **B-Grade** (1.046×10⁹ – 4.6024×10¹⁰ J, Part Four) — one Grade **below** the A-Grade the page requires. |
 | Minimum Stage | **VII · Refraction** | Page. Max Grade A, allocation stops at 400, ceiling 475 under strain (Part Five). |

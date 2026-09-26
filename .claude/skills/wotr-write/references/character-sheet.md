@@ -85,7 +85,8 @@ fields.
 
 ## Author notes for a sheet
 
-Originated pending ruling; canon conflicts (card vs workbook); Phenomenon line
+New in this sheet; canon conflicts (card vs workbook); Phenomenon line
 per technique; Stat Ledger of the figures used and where each came from;
-estimates listed with their range; open questions. On the wiki, attributions
-read "originated, pending ruling" with no author name attached, ever.
+estimates listed with their range; open questions. All of this stays in the
+chat. The published card carries the figures as settled text: no
+"originated", "pending ruling", estimator, author or process note, ever.

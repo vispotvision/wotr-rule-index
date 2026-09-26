@@ -111,3 +111,13 @@ How they enter:
 - **Match the idea to the working.** Emanation for the Emanation Stage,
   solve et coagula for Coagula Dominion, pneuma for breath-anchored chains.
   A match that falls apart when you look closely is worse than none.
+
+## Clean publishing
+
+Isaac, 2026-09-26. Anything that reaches Notion or the wiki is the content
+only, as settled text in the page's own register. Never on a page: his name
+or role; rulings, open questions, "pending", conflict or issue ids; where the
+text came from ("originated", "drafted by", "generated from", "estimates");
+Claude, Natalie, agent or tool names, or any self-reference. In-world
+attributions (a document's in-world drafter, a register's in-world sources)
+are content and stay. Open disagreements live in `CONFLICTS.md` only.

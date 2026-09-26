@@ -82,8 +82,13 @@ author notes.
 
 ## 5. Author notes (set piece, sheet, technique; abbreviated on a turn)
 
+Author notes are for the chat only and never reach a published page. A page
+carries the content as settled text: no names, no rulings or open questions,
+no "originated", no provenance, no self-reference (`references/fair-play.md`,
+Clean publishing).
+
 In this order, every heading present even if it reads "none":
-1. **Originated, pending ruling**: everything new, one line each.
+1. **New in this piece**: everything new, one line each.
 2. **Canon conflicts**: surfaced, never resolved.
 3. **Phenomenon line** per working (from `wotr-phenomenon`).
 4. **Added by the gap-fill pass**, when Isaac submitted a fight or working.

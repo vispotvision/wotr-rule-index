@@ -266,7 +266,7 @@ def render() -> dict:
     TABLE.mkdir(exist_ok=True)
     out = {}
     fr = load("fronts")
-    lines = ["# Fronts, as clocks", "", "Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the prose Fronts page in Notion stays Natalie's.", ""]
+    lines = ["# Fronts, as clocks", ""]
     for thread in dict.fromkeys(r["thread"] for r in fr):
         lines.append(f"## {thread}")
         lines.append("")
@@ -288,7 +288,7 @@ def render() -> dict:
     out["fronts"] = len(fr)
 
     lg = load("ledger")
-    lines = ["# The Ledger, structured", "", f"Generated from table/ledger.yaml by WOTR MCP. {sum(1 for r in lg if r['status'] == 'open')} open lines. `due()` says what comes due tonight.", ""]
+    lines = ["# The Ledger, structured", "", f"{sum(1 for r in lg if r['status'] == 'open')} open lines.", ""]
     for cat in dict.fromkeys(r["category"] for r in lg):
         lines.append(f"## {cat}")
         lines.append("")
@@ -300,7 +300,7 @@ def render() -> dict:
     out["ledger"] = len(lg)
 
     np_ = load("npcs")
-    lines = ["# NPC roster", "", "Generated from table/npcs.yaml by WOTR MCP.", ""]
+    lines = ["# NPC roster", ""]
     for thread in dict.fromkeys(r.get("thread", "") for r in np_):
         lines.append(f"## {thread}")
         lines.append("")

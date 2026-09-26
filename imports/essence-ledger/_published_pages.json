@@ -4,5 +4,10 @@
     "title": "IX. The Essence Ledger (Part Twenty-Three)",
     "issue": "WAR-14",
     "source": "imports/essence-ledger/the-essence-ledger.md"
+  },
+  "part_twenty_four": {
+    "page_id": "3e758200-eb22-8127-a7c2-ece5680c1889",
+    "title": "X. The Tier Ladders (Part Twenty-Four)",
+    "source": "imports/essence-ledger/the-tier-ladders.edition.md"
   }
 }

@@ -116,7 +116,22 @@ def unwrap(md: str) -> str:
             out.append(("> " if kind == "quote" else "") + " ".join(buf))
         buf, kind = [], None
     fence = False
-    for line in md.split("\n"):
+    lines = md.split("\n")
+    # an indented block (aligned arithmetic) becomes a fenced block, kept as written
+    fenced, i = [], 0
+    while i < len(lines):
+        if lines[i].startswith("    ") and lines[i].strip() and (i == 0 or not lines[i - 1].strip()):
+            block = []
+            while i < len(lines) and (lines[i].startswith("    ") or not lines[i].strip()):
+                block.append(lines[i][4:])
+                i += 1
+            while block and not block[-1].strip():
+                block.pop()
+            fenced += ["```"] + block + ["```", ""]
+            continue
+        fenced.append(lines[i])
+        i += 1
+    for line in fenced:
         st = line.strip()
         if st.startswith("```"):
             flush(); fence = not fence; out.append(line); continue

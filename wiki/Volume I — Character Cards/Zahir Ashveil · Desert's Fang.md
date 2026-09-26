@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8100-b034-f7348d4ecc2c"
 notion_url: "https://app.notion.com/p/Zahir-Ashveil-Desert-s-Fang-3d958200eb228100b034f7348d4ecc2c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T09:06:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Zahir Ashveil · Desert's Fang
 
+**Say it** · zah-HEER ASH-vayl
 > *"The desert teaches you one lesson — burn fast, or be buried slow."*
 
 ---

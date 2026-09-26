@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8118-afb5-de9b31de890b"
 notion_url: "https://app.notion.com/p/Zeven-Halek-The-Eye-That-Remains-3bd58200eb228118afb5de9b31de890b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Zeven Halek · The Eye That Remains
 
+**Say it** · ZEV-en HAH-lek
 > *"I see better with one eye than most do with two — because I learned what not to look away from."*
 > **One of the lightest corrections in the volume.** The Verdant Aetherscope is **a properly costed piece of equipment** — an instrument with a stated failure mode that worsens with use — and needed nothing. *Ashen Gale (Aer + Cinerus Typology)* and the *Echo / Fixation* dual alignment are re-sourced to attested currents below; everything else carries across intact.
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Calverne halt
 **Name** · Zeven Halek. **Called** · The Eye That Remains.
 **Role** · **Master Guilder. Commander of Accord Field Operations.** Leads tactical units across Inner and Outer World missions; **specialises in high-risk, high-obscurity deployments.**
 

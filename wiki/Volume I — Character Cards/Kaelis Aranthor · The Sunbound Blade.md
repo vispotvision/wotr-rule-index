@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81aa-8c22-e01fa043a30b"
 notion_url: "https://app.notion.com/p/Kaelis-Aranthor-The-Sunbound-Blade-3d958200eb2281aa8c22e01fa043a30b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaelis Aranthor · The Sunbound Blade
 
+**Say it** · KAY-liss ah-RAN-thor
 > *"You mistake confidence for arrogance. I simply know which way this is going."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Ember Regent came out of the ash
 **Name** · Kaelis Aranthor. **Called** · The Sunbound Blade. **Also known as** · The Crimson Horizon · Oathbreaker of No Banner. **Epithet** · *He Who Turns Momentum Into Fate.*
 **Role** · **Desert-Born Freeblade. Momentum Duelist. Independent Power owing no banner.**
 **Gloss rights** · Unlimited. He explains himself freely and often, mostly because he enjoys watching people work out too late that the explanation was accurate.

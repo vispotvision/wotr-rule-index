@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8138-8dda-f74ea5945f55"
 notion_url: "https://app.notion.com/p/Lyss-Arvale-The-Quiet-Swan-3d958200eb2281388ddaf74ea5945f55"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Lyss Arvale · The Quiet Swan
 
+**Say it** · LISS ar-VAYL
 > *"Let the wind decide the volume; I will decide the direction."*
 
 ---
 
 ### I · Identity
 
+**As Of** · The Swan's Turn offered and not yet signed
 **Name** · Lyss Arvale. **Called** · The Quiet Swan. The White-Feather Cantor.
 **Epithet** · Voice That Turns the Wind.
 **Role** · **Oath Witness. Cantor. Escort of treaties through war-weather.** *Combatant and scholar hybrid, escort teams.*

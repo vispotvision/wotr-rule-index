@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-8105-b40e-d63ecbb3e1b3"
 notion_url: "https://app.notion.com/p/Garret-Longshore-The-Helmsman-3ba58200eb228105b40ed63ecbb3e1b3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:05:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Garret Longshore — The Helmsman
 
+**Say it** · GAIR-et LONG-shor
 *The Helmsman · The Man Who Trusts Nothing*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Garret Longshore
+> **Age:** 48 · **Origin:** Concord (western fishing settlements)
+> **Level:** 38 · **Stage:** I Ignition · **Band:** I
+> **Role:** Navigator and helmsman for the Kōkan expedition
+> Believes nothing. Calculates everything. Arrives anyway.
 > **Age:** 48 · **Origin:** Concord (western fishing settlements)
 > **Level:** 38 · **Stage:** I Ignition · **Band:** I
 > **Role:** Navigator and helmsman for the Kōkan expedition

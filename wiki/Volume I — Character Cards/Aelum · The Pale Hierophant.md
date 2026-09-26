@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81af-be50-e87addf9dc47"
 notion_url: "https://app.notion.com/p/Aelum-The-Pale-Hierophant-3d958200eb2281afbe50e87addf9dc47"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Aelum · The Pale Hierophant
 
+**Say it** · AY-lum · *Hierophant* HY-ruh-fant
 > *"Do not speak the words unless your soul can carry their weight. The veil is thin here, and I am listening."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After his century, his seat kept
 **Name** · Aelum. **Called** · The Pale Hierophant, the Keeper of the Silver Vow. **Also known as** · The Horned Saint, Spirit of the Unbroken Seal.
 **Role** · **Ritual Sovereign. Oath-Warden. Avenger of the Breach.**
 **Gloss rights** · Unlimited. He tells every soul in earshot exactly what the room's laws are before they break one.
@@ -33,7 +35,7 @@ Presides over the Court of Veils, an order of ritual overseers with no attested 
 
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him rather than merely answering him; this is one band past what Stage IX ordinarily produces, and it is the reason a century-long stasis held at all.
 **Attraction Layer** · Developed and fixed on the ritual circle itself rather than on any person, a fifty-metre Domain he can extend or collapse at will.
-**Crystal State** · Radiant. **η** · ~0.98, Tier of Standing 6, Master.
+**Crystal State** · `null`. **Crystal Tier** · Sovereign Crystal. **η** · ~0.98, Tier of Standing 6, Master.
 **The Silver Vow** · A structure inside the Crystal shaped like a held oath rather than a stored charge; it does not discharge, it enforces, which is why disrupting it produces Ritual Backlash instead of a simple misfire.
 
 ---

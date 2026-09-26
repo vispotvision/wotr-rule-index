@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8133-aca1-ebf28c4b27b7"
 notion_url: "https://app.notion.com/p/Solarbound-Aegoric-Knight-3d958200eb228133aca1ebf28c4b27b7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · 14 to 37 percent of full reserve per release, paid at once from the knight's own reserve. Blows absorbed are only the trigger; they bank beside the store and can overfill it.
 **Limit** · No fast, repeated or incidental output and no partial release; output fades without a cause truly sworn.
 **Counter** · Only incidental output, which it cannot release; a stronger vow displacing his; a lost hand or knee before the gesture; cold, shielding and movement; Disruption, which frays him.
-**What nobody knows** · Whether Ser Varnath Rhogar founded the discipline, embodied it, or was simply the knight later students pointed to.
+**What nobody knows** · Whether the knight its Aether is named for founded the discipline, embodied it, or was simply the one later students pointed to.
 
 ### Codex line
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · The discipline names Ser Varnath Rhogar, the Scorn of the Outer World, as the source of its Aether; he held a Gate open with his own body long enough for a million souls to flee through it. No founder is named.
-**Practitioners** · Ser Varnath Rhogar, a hero of the Guild Accord's Concord Military; the Impetists, who store and never release, and die full.
+**Origin** · The discipline names a single knight as the source of its Aether, one who held a Gate open with his own body long enough for a million souls to flee through it. No founder is named.
+**Practitioners · That knight, a hero of** the Guild Accord's Concord Military; the Impetists, who store and never release, and die full.
 
 ---
 

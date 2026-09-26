@@ -4,13 +4,14 @@ notion_id: "3b258200-eb22-8134-ac40-e15946bf350a"
 notion_url: "https://app.notion.com/p/Lucius-Xenotro-3b258200eb228134ac40e15946bf350a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T10:46:00.000Z"
 verification: null
 ---
 
 # Lucius Xenotro
 
-*Lucent Sea · First Grand Paladin of the Scantum Lux · Faisal's Blessed Child · The First Summoner · Card 17*
+**Say it** · LOO-shus zeh-NOH-troh
+*Lucent Sea · First Grand Paladin of the Sancta Lux · Faisal's Blessed Child · The First Summoner · Card 17*
 > ***He Who Drowned Darkness in Light***
 > 
 > > **"Darkness is not my enemy. It is only the place light has not yet been commanded to arrive."**
@@ -19,8 +20,9 @@ verification: null
 
 ## I · Identity and Core Profile
 
+**As Of** The order's founding, before Faisal's blessing descends
 **Age** 22 · **Race / Lineage** Human · Xenotro Lineage · **Angelic-Blessed Mortal**
-**Faction** Scantum Lux — **Founding Era** · **Stage VIII — Transcendence**, rising to **Stage IX — Invocation when Faisal's blessing fully descends**
+**Faction** Sancta Lux — **Founding Era** · **Stage VIII — Transcendence**, rising to **Stage IX — Invocation when Faisal's blessing fully descends**
 > His mother died during the plague-years, **when the Grand Demon Malakar released pestilences into the mortal world.** *That grief became the fracture that awakened his Soul Crystal.*
 > 
 > Blessed by **Faisal**, a Grand Angelic Spirit, he wields **light as holy law and measurable physics** — manipulating the electromagnetic spectrum through Aether: **wavelength, frequency, reflection, refraction, photon density, polarization, scattering, ultraviolet sterilisation, infrared heat, and coherent beam formation.**
@@ -116,7 +118,7 @@ verification: null
 **The Plague of Glass Lungs** — Malakar's plague killed his mother. *His Soul Crystal awakened in grief and emitted weak violet light while he slept.*
 **The First Cleansing at Veyr Chapel** — at seventeen, **purified infected survivors without burning them alive.**
 **The Seven Eidolons Miracle** — at twenty, he summoned seven luminous eidolons **and went blind for three days.**
-> **The Founding of the Scantum Lux** — he became Grand Paladin because his doctrine proved **holiness must become measurable protection, not beautiful language.**
+> **The Founding of the Sancta Lux** — he became Grand Paladin because his doctrine proved **holiness must become measurable protection, not beautiful language.**
 **Weaknesses** · Void absorption, smoke, ash, fog, rain, **curved reflective armour, blind fighters, hostage Essence fields**, over-summoning, and Soul Crystal spectrum overload.
 > **Trajectory · perfect spectrum sovereignty.** *Red for heat, gold for protection, white for revelation, violet for cleansing, blue for cutting — and black-edged radiance for judgment against demons hiding inside shadow.*
 
@@ -146,7 +148,7 @@ He measured the blessing too. He wore a Halo Circlet to regulate it. Broken, the
 
 #### Where They Stand
 
-He was made Grand Paladin at the order's founding, because his doctrine proved holiness must become measurable protection. At twenty-two he is the First Grand Paladin of the Scantum Lux. He is slender and pale, with white-blond hair and amber-red eyes that break into gold, violet and white when he works. He speaks softly. He wears white-gold plate over mail and gambeson and carries a mirrored sword that runs light along its edge. A rosary of crystal beads stores his bands and keeps the violet steady.
+He was made Grand Paladin at the order's founding, because his doctrine proved holiness must become measurable protection. At twenty-two he is the First Grand Paladin of the Sancta Lux. He is slender and pale, with white-blond hair and amber-red eyes that break into gold, violet and white when he works. He speaks softly. He wears white-gold plate over mail and gambeson and carries a mirrored sword that runs light along its edge. A rosary of crystal beads stores his bands and keeps the violet steady.
 Faisal's blessing has not yet fully descended on him. The road he means to take runs toward command of the whole spectrum, and toward one band he does not have yet: black-edged radiance, for judgment against demons hiding inside shadow.
 The order's later account keeps him as its First Grand Paladin, with Veyr Chapel and the seven eidolons, and the floor of the Grand Church is inlaid with that lineage. The law the order runs by now was written by Darius and dated back to the founding Lucius stood in. The order also records that Malakar afterward took Faisal apart into six pieces. The order is still looking for them.
 

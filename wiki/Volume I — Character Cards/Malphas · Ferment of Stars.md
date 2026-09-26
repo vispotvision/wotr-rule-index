@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8174-8d04-d8dc2c18ae90"
 notion_url: "https://app.notion.com/p/Malphas-Ferment-of-Stars-3bd58200eb2281748d04d8dc2c18ae90"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:43:00.000Z"
+last_edited: "2026-09-26T14:14:00.000Z"
 verification: null
 ---
 
@@ -14,8 +14,10 @@ verification: null
 
 ## I · Identity
 
+**Say it** · MAL-fas
+**As Of** · The Greyshaft Nine coldhouse, the ninth hind going to the table
 **Name** · Malphas. **Called** · The Living Cauldron. Ferment of Stars. Lord of Absolute Rot. The Bound Reaper.
-**Standing** · Expelled from the Pyraeon Forge Academy and declared a metaphysical threat. Unbound in life. Bound now only to himself.
+**Standing** · Expelled from the Pyraeon Forge Academy and declared a metaphysical threat. Unbound in life. Bound now only to himself. Founder of The Mother, the cult whose cells are cultures and whose recruits are inoculated.
 > **First Catalyst · Stage IX, Invocation.** He stopped working alone, and what answered was not a Wellspring in the ordinary relationship.
 >
 > *The recorded pattern at Invocation is relief followed within a year or two by something considerably worse, as the practitioner works out that the relief was no longer being solely responsible for their own output —* **and that the thing they handed responsibility to did not sign anything.**

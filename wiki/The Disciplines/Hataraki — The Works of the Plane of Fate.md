@@ -3,9 +3,9 @@ title: "Hataraki — The Works of the Plane of Fate"
 notion_id: "3b158200-eb22-818b-856c-f6bf976d6d54"
 notion_url: "https://app.notion.com/p/Hataraki-The-Works-of-the-Plane-of-Fate-3b158200eb22818b856cf6bf976d6d54"
 section: "The Disciplines"
-tags: ["Disciplines", "Cosmology"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-26T10:18:00.000Z"
+verification: null
 ---
 
 # Hataraki — The Works of the Plane of Fate
@@ -68,15 +68,15 @@ Every Work therefore possesses both a lawful expression and a corruption vector.
 
 > The Works do not replace the canonical Sixty Wellsprings. Each Work gathers, administers, and gives higher functional direction to clusters of Wellspring law. The alignments below are **representative affinities rather than exclusive ownership**, because a single Wellspring may lean toward more than one Work depending on context, rite, and metaphysical use.
 
-### Hametsu no Go · the Work of Ruins
+### Hametsu no Gō · the Work of Ruins
 
 The function of collapse, devastation, despair, madness, entropy, and the residue of chaos. It governs the necessary unmaking of corrupted, exhausted, or unsustainable structures. **Ruin is not evil by default; it is the divine labour of ending what can no longer remain whole.**
-Its function within the Plane of Fate is to break false continuities. When a kingdom, soul, law, pact, age, or structure has become diseased beyond repair, Hametsu no Go performs the work of severance through destruction. It strips away delusion, tears down decayed order, and returns excess creation to ash, silence, or fragmentation. It is one of the oldest conditions by which reality is permitted to stop.
+Its function within the Plane of Fate is to break false continuities. When a kingdom, soul, law, pact, age, or structure has become diseased beyond repair, Hametsu no Gō performs the work of severance through destruction. It strips away delusion, tears down decayed order, and returns excess creation to ash, silence, or fragmentation. It is one of the oldest conditions by which reality is permitted to stop.
 **Common functions** · Dissolution of corrupted structures · acceleration of collapse where rot has already begun · infliction of despair, insanity, or existential pressure · exposure of instability hidden beneath beauty, power, or sanctity · reduction of excess order into raw aftermath.
 **Through Attraction Force** · lawful ending, necessary severance, corrective destruction. **Through Obsession Force** · recursive annihilation, compulsive devastation, fixation upon collapse for its own sake.
 **Representative Wellsprings** · Cataclysm · Fractura · Abython · Exuroth · Cinerion · Nihiloth · Oblivara · Tenebra
 
-### Junketsu no Go · the Work of Purity
+### Junketsu no Gō · the Work of Purity
 
 The function of foundation, creation, order, clarity, sanctity, and sacred sanity. The stabilizing labour that establishes what ought to stand, what ought to be protected, and what ought to remain uncontaminated by corruption.
 Its role is not merely to heal, but to **define proper structure**. Purity creates sound foundations, restores rightful form, and enforces integrity upon matter, law, spirit, and intention. Where Ruin strips away what has failed, Purity builds and preserves what is worthy of endurance. It is the primitive act by which existence becomes fit to remain.
@@ -84,7 +84,7 @@ Its role is not merely to heal, but to **define proper structure**. Purity creat
 **Through Attraction Force** · consecration, restoration, rightful stability, sacred protection. **Through Obsession Force** · sterilization, fanatic correction, purgation without mercy, and the violent refusal of all stain or deviation.
 **Representative Wellsprings** · Benediction · Fixatio · Judicium · Absolution · Redemption · Aurevane · Basilithe · Petralon
 
-### Seirei no Go · the Work of Spirit
+### Seirei no Gō · the Work of Spirit
 
 The function of life, death, soul-traffic, communion, and metaphysical continuity. It governs the movement and condition of spiritual existence, including the transition between mortal life, death, afterlife, and any intermediary states between them.
 Spirit does not only animate life; it regulates endings, hauntings, remembrance, reincorporation, severance from the flesh, and the weight of the dead upon the living. **It is the labour that keeps the unseen world from becoming disorderly**, and what makes spiritual existence administrable at all.
@@ -109,7 +109,7 @@ Knowledge gives shape to comprehension. It governs learning, memory, discernment
 **Through Attraction Force** · revelation, teaching, inheritance of truth, lawful interpretation, lucid understanding. **Through Obsession Force** · fixation, devouring certainty, interpretive mania, enslavement to one consuming idea or forbidden truth.
 **Representative Wellsprings** · Judicium · Luminalis · Aurevane · Eidolyn · Anamnesis · Mirithane · Oneirion · Phreatis
 
-### Shigoto no Baransu · the Work of Balance
+### Baransu no Shigoto · the Work of Balance
 
 The function of reconciliation, measure, proportion, unity, and reason between opposites. **The labour that prevents dualities from destroying the world through unchecked excess.**
 Balance governs the tension between Ruin and Purity, death and life, law and freedom, creation and destruction, motion and stillness. It does not erase opposition. It assigns proper weight to each force so that existence can endure strain without tearing itself apart. It is the first mediation.
@@ -161,7 +161,7 @@ The epochs are not replacements for Hataraki. They are **successive unveilings o
 | Work, as the system source names it | Sub-Stat clusters | Character |
 |---|---|---|
 | **Zentai-sei no Hataraki** · Totality | Dominion (Sovereignty, Reach, Throne) · Tempering (Ceiling, Maturity) · Resilience (Persistence, Continuity) | The Work of wholeness and cosmic maintenance. Practitioners whose doctrine encompasses rather than excludes. |
-| **Hametsu no Go** · Ruins | Ardency (Flux, Detonation, Cascade) · Resilience (Severance, Nullity) · Dominion (Pressure, Command) | The Work of necessary collapse. Practitioners whose doctrine dismantles what can no longer sustain itself. |
+| **Hametsu no Gō** · Ruins | Ardency (Flux, Detonation, Cascade) · Resilience (Severance, Nullity) · Dominion (Pressure, Command) | The Work of necessary collapse. Practitioners whose doctrine dismantles what can no longer sustain itself. |
 | **Zayaniin Tort** · Fate’s Cage | Dominion (Fate, Command, Sovereignty) · Harmonics (Attunement, Axis) · Resilience (Oath, Dimensional) | The Work of binding and consequence. Practitioners whose doctrine enforces the debts reality owes itself. |
 | **Ariun Gerel** · Sacred Light | Harmonics (Fidelity, Projection, Synergy) · Gnosis (Perception, Diagnosis) · Tempering (Clarity, Maturity) | The Work of illumination and purification. Practitioners whose doctrine reveals truth as a structural force. |
 | **Mönkhiin Kharankhui** · Eternal Dark | Resilience (Nullity, Persistence, Severance) · Harmonics (Voidance, Suppression) · Dominion (Sovereignty, Rift) | The Work of negation and sovereign silence. Practitioners whose doctrine erases rather than creates. |

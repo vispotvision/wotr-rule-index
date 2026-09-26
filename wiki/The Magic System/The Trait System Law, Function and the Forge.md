@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-81ab-a65f-e63097e58d06"
 notion_url: "https://app.notion.com/p/The-Trait-System-Law-Function-and-the-Forge-3d558200eb2281aba65fe63097e58d06"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T22:26:00.000Z"
+last_edited: "2026-09-26T14:14:00.000Z"
 verification: "unverified"
 ---
 
@@ -114,7 +114,7 @@ Old families are strange for structural reasons. Six generations of purchased se
 
 ### XI. What the Institutions Do With This
 
-The Accord screens for Crystals and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: Class Ø souls carrying strong Traits, filed as commons, hired as labour, occasionally lethal.
+The Accord screens for Crystals that have stirred and reports the result as a screening for Traits, because the two produce nearly the same list at the top and wildly different lists at the bottom. Every screening season produces a quantity of false negatives: Class Ø souls carrying strong Traits, filed as commons, hired as labour, occasionally lethal.
 Great houses screen differently and earlier. A house physician reads infants for Inherited marks inside the first month, and the family knows by the child's first winter roughly what it has bought. The reading is taken off the body, because the body is where the law shows.
 Death-house keepers, coroners and the better battlefield surgeons read Traits off the dead as a matter of course. This is the largest unregulated intelligence channel in the four quarters. A house that loses a practitioner in the field and does not recover the body has published his architecture to whoever holds the ground.
 Draft brokers sell nucleation and describe it as strength. A man who has bought his last two Stages is usually detectable by the way his convictions do not bend, and by how recently he acquired them.

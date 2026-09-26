@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8148-8bce-f6ee6755cd0b"
 notion_url: "https://app.notion.com/p/Azran-Nemeir-The-Gilded-Draft-3d958200eb2281488bcef6ee6755cd0b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Azran Nemeir · The Gilded Draft
 
+**Say it** · AZ-ran neh-MEER
 > *"Power that can't explain its reason doesn't deserve its reach."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Newly Adept, after the Dust Vault recovery
 **Name** · Azran Nemeir. **Called** · The Gilded Draft, Concord Adept. **Also Known As** · The Mender's Hand, The Lattice's Younger Son. **Epithet** · He Who Mends What Law Forgot to Mourn.
 **Race** · Mortal Human, of a minor Wellspring-touched maternal line (his mother guild-blooded).
 **Gloss rights** · Yes. He is the most transparent character in this batch — he writes the incident report before he celebrates and submits eleven pages when asked for a methodology.

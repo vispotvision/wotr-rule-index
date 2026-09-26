@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-817a-ab47-dc2fdf7a9595"
 notion_url: "https://app.notion.com/p/Shiragiku-Iori-The-Wake-Embroiderer-3bd58200eb22817aab47dc2fdf7a9595"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T09:00:00.000Z"
 verification: null
 ---
 
 # Shiragiku Iori · The Wake-Embroiderer
 
+**Say it** · shee-rah-GEE-koo ee-OH-ree
 > *"Lay it here. Let the flower hold what your hands should not."*
 > **Temperance corrected under the Benediction mapping.** The card reads **"Firm Benediction — her work steadies a scene rather than dominates it."**
 >

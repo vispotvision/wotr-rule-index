@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-819b-bcda-cf19128af9f1"
 notion_url: "https://app.notion.com/p/Goraku-Tenry-The-Crimson-Gourd-3bd58200eb22819bbcdacf19128af9f1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Goraku Tenryū · The Crimson Gourd
 
+**Say it** · goh-RAH-koo ten-RYOO
 > *"If the fire in your belly is small, I'll pour you a drink. If it's big… I'll pour you two."*
 > **Surname collision — ruled 2026-09-12.** *This is Goraku Tenryū. Volume IV also contains Daigo Tenryū, "Ribbon-Ox."*
 >
@@ -22,6 +23,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Braqth feast, the second night not yet sat
 **Name** · Goraku Tenryū. **Titles** · **The Crimson Gourd.** Oni of the Ninth Toast · **Laughing Bloodstorm.**
 **Role** · **Oni Warlord. Battlefield Ritualist. Essence-Brewer.**
 

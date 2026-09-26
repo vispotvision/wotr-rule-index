@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-ab74-e241da616224"
 notion_url: "https://app.notion.com/p/The-Yukari-Bloodline-3b158200eb228185ab74e241da616224"
 section: "The Archaic Bloodlines"
 tags: ["Bloodlines"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -77,7 +77,7 @@ Over the 120,000 years between Senri's death and the Third Epoch's arrival, the 
 ## Physical Appearance
 
 **Stature** · 5'6" to 6'6", lean and long-limbed rather than broad. **A Yukari's posture communicates observation**, the body arranged to maximize sensory intake rather than physical imposition. Narrow shoulders, long fingers, feet that sit flat and quiet. *They move the way their founder moved: slowly, precisely, with the economy of someone who has learned that unnecessary motion produces unnecessary noise.*
-**Eyes** · Dark irises from near-black to deep brown, with **the faint violet-black corona of the Ketsumyōgan visible at the pupil's edge even in dormant state.** When active, the corona brightens to luminous silver-violet and thread-patterns rotate within the iris.
+**Eyes** · Dark irises from near-black to deep brown, with **the faint violet-black corona of the Ketsumyōgan visible at the pupil's edge even in dormant state.** When active, the corona brightens to luminous crimson and thread-patterns rotate within the iris.
 **Skin** · Complexions from dark earthen brown to pale cool ivory. Ketsumyōgan-bearers develop **thread-marks** over time: fine luminous lines beneath the skin along the forearms, the backs of the hands, the temples, and the base of the skull, **tracing patterns that resemble root systems or the branching architecture of a tree seen from below.** *These are not tattoos. They are structural impressions left by sustained use — the Veil leaving its mark on the body that perceives it most frequently.*
 **Hair** · Most commonly jet black; blonde with notable frequency; deep crimson streaks in bearers of strong Seikai-derived heritage. **Thread-Shimmer** appears in active bearers: a faint luminous quality in low light, as though individual strands carry residual Aetheric charge.
 > **Auditory resonance.** Yukari voices carry what other lineages call **the Quiet Weight.** Their speech does not project force. **It settles.** A Yukari speaking in a room produces the effect of a room becoming slightly more attentive, *as though the walls have leaned inward by a fraction of an inch.*

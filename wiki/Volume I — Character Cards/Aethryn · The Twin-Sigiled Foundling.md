@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b4-a204-d34820424574"
 notion_url: "https://app.notion.com/p/Aethryn-The-Twin-Sigiled-Foundling-3d958200eb2281b4a204d34820424574"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Aethryn · The Twin-Sigiled Foundling
 
+**Say it** · AY-thrin
+
 ---
 
 ### I · Identity
 
+**As Of** · After the judgement, in the sealed hospice-temple
 **Name** · Aethryn. **Called** · The Twin-Sigiled Foundling.
 **Also known as** · The Pale Omen, The Unfinished Child, The Circle-Bearer, The Silent Pattern.
 **Epithet** · He Who Stands Between Eye and Void.

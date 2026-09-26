@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8102-9bae-d74bd110cc8b"
 notion_url: "https://app.notion.com/p/Maw-of-Crystalline-Stasis-3d958200eb2281029baed74bd110cc8b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -16,11 +16,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · A six-metre field turns Draven's own cold into everyone's problem. Moisture, breath, and loose Essence crystallise into a lattice that slows what it touches and shatters what pushes through it too fast.
+**Effect** · A six-metre field turns the practitioner's own cold into everyone's problem. Moisture, breath, and loose Essence crystallise into a lattice that slows what it touches and shatters what pushes through it too fast.
 **Cost** · **His joints take the field's overflow.** *Frostbite sets in at his own knuckles and knees at high output, the price of holding a field wider than his Dominion was built to hold.*
-**Limit** · **Risks freezing Draven's own joints if sustained.** *The field does not distinguish inside the six metres, and he is standing inside it.*
+**Limit** · **Risks freezing the practitioner's own joints if sustained.** *The field does not distinguish inside the six metres, and he is standing inside it.*
 **Counter** · **Thermal flux collapses it from within.** *A Pyreveil arte or a sustained Aetheric overheat field forces the lattice back through its own phase transition before it can finish crystallising.*
-> **What nobody knows.** Whether the field fails at its edge or at its centre first when overheated. Nobody has stayed inside one long enough to report which, and Draven has never asked anyone to try.
+> **What nobody knows.** Whether the field fails at its edge or at its centre first when overheated. Nobody has stayed inside one long enough to report which, and its author has never asked anyone to try.
 
 ---
 
@@ -30,7 +30,7 @@ verification: null
 **Family** · Caloria (both)
 **Physics Domain** · Thermodynamics
 **Category** · Vectra
-**Craft** · Spellcraft (Bodily: projected from Draven's own ignited frame, holding only while his attention holds)
+**Craft** · Spellcraft (Bodily: projected from the practitioner's own ignited frame, holding only while his attention holds)
 **Stage floor** · Stage VI, Glory
 **Grade required** · A-Grade
 **Path gate** · Body
@@ -40,7 +40,7 @@ verification: null
 ### FOW line
 
 **Governing Primary** · Ardency, compensating for a Dominion the field would otherwise want.
-**Governing Sub-Stats** · Ardency Density (274) for sustaining the field's output, Vitality Tolerance (400, at ceiling) and Vitality Absorption (330) for what his own body takes standing inside it, Resilience Insulation (302) for what little protection he has from his own cold. All four are Draven's own Sub-Stat Peaks.
+**Governing Sub-Stats** · Ardency Density (274) for sustaining the field's output, Vitality Tolerance (400, at ceiling) and Vitality Absorption (330) for what his own body takes standing inside it, Resilience Insulation (302) for what little protection he has from his own cold. All four are its author's Sub-Stat Peaks.
 **Stage floor** · Stage VI, Glory.
 **Grade required** · A-Grade.
 **Path gate** · Body.
@@ -50,7 +50,7 @@ verification: null
 
 ### Origin
 
-As with Vorynn Execution Strike, the old card gives no named teacher or site for this technique, only Draven's general profile as a hunter shaped by "constant self-imposed trials of endurance, ambush and predatory pressure." Treated as self-derived under the named-inventor rule: documented here for the first time, and open to anyone who reads this entry to counter going forward.
+As with Vorynn Execution Strike, no teacher or site is recorded for this technique, only its author's general profile as a hunter shaped by "constant self-imposed trials of endurance, ambush and predatory pressure." It is self-derived, and open to anyone who studies it to counter.
 
 ---
 
@@ -90,7 +90,7 @@ As with Vorynn Execution Strike, the old card gives no named teacher or site for
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
 **Dominion** · Dominion Radius past A needs the Attraction Path at Splintering, so the radius is capped at A; each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
 | Quantity | Working | Result |
 |---|---|---|

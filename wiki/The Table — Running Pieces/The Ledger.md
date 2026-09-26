@@ -3,9 +3,9 @@ title: "The Ledger"
 notion_id: "3d458200-eb22-81a9-aec9-dd49034177e2"
 notion_url: "https://app.notion.com/p/The-Ledger-3d458200eb2281a9aec9dd49034177e2"
 section: "The Table — Running Pieces"
-tags: ["Prose", "Reference Table"]
-last_edited: "2026-09-11T02:38:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-26T09:16:00.000Z"
+verification: null
 ---
 
 # The Ledger
@@ -55,6 +55,6 @@ verification: "unverified"
 
 - **R14-A:** Stage names on cards (Ignition, Temper) against source (Murmuring, Flourishing).
 - **The Accord circle has no name.** Nothing goes into prose until Isaac picks the word.
-- **The Onawa collision:** the wiki's Onawa Ashkewe, Queen of the Tsohanto, against the session's Onawa, Empress of Eresse. The proposal on the table is two women, with the Tsohanto silence as Ashkewe's people reacting to a shared name taken in a yard.
+- ~~The Onawa collision~~ closed. Two women: Onawa, Empress of Eresse, and Onawa Ashkewe, Queen of the Tsohanto. The Tsohanto Reach's silence is Ashkewe's people answering the shared name.
 - **Did Ilthára say the name.** The hinge was turned and the arc built on the turn. Confirm or flip.
 - ~~R14-F~~ closed. Level 198 at Stage IV is legal; Band II covers 101 to 200, Stage VII gate at exit only.

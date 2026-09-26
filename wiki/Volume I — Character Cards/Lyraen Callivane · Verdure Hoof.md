@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8100-bdee-e5d1c3fc23aa"
 notion_url: "https://app.notion.com/p/Lyraen-Callivane-Verdure-Hoof-3bd58200eb228100bdeee5d1c3fc23aa"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Lyraen Callivane · Verdure Hoof
 
+**Say it** · LY-rayn KAL-ih-vayn
 > *"Not all shepherds carry crooks. Some carry teeth."*
 > **Stage corrected under the standing ruling — an off-by-one slip.** The card reads **"Stage V (Flourishing)."** *Flourishing is Stage IV; Stage V is Splintering.* **Name wins — Stage IV.**
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Verdant Pass Accord
 **Name** · Lyraen Callivane. **Called** · **The Meadow's Whisper.** Verdure Hoof · **Shepherd's Fang.**
 **Role** · **Plainswanderer. Herbalist-Marksman. Wellspring Mediator of Verdant Pass.**
 

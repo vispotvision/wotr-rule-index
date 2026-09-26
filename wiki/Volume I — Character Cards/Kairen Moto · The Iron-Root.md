@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fe-ad9d-f25beb89b09e"
 notion_url: "https://app.notion.com/p/Kairen-Moto-The-Iron-Root-3d958200eb2281fead9df25beb89b09e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T08:49:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Kairen Moto · The Iron-Root
 
+**Say it** · KY-ren MOH-toh
 > *"My father grew the forest. I am the iron fence that keeps the wolves out."*
 
 ---

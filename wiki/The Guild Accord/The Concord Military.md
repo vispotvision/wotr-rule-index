@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81d7-9032-ec164a8d6fc5"
 notion_url: "https://app.notion.com/p/The-Concord-Military-3b158200eb2281d79032ec164a8d6fc5"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-08-03T20:41:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -57,7 +57,7 @@ At the apex stands the **High Marshal of the Accord**, who sits on the Council b
 
 ## The Codex Protocols
 
-*Universal combat laws enforced across every battlefield.*
+*Combat laws enforced on every battlefield the Legion takes.*
 | Law | Provision |
 |---|---|
 | **The Law of Limitation** | Weapons of mass metaphysical effect may only be deployed by S-Tier clearance or higher |

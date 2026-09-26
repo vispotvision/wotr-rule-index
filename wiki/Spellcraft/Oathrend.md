@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8182-a765-f92086554f5f"
 notion_url: "https://app.notion.com/p/Oathrend-3d958200eb228182a765f92086554f5f"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:29:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ Resonant Pair · None.
 
 ### Origin
 
-A documented, standing working rather than a single self-derived technique — it has three separate lineages of use (Zeven Halek's single battlefield invocation, Lysandra Velkaris's rejection of divine bondage, the Ashblood Apostates' standing liberation doctrine). As a named, taught technique it is counterable by anyone who has studied a prior Oathrend case.
+A documented, standing working rather than a single self-derived technique: it has three separate lineages of use (a single battlefield invocation, one practitioner's rejection of divine bondage, and the Ashblood Apostates' standing liberation doctrine). As a named, taught technique it is counterable by anyone who has studied a prior Oathrend case.
 
 ---
 

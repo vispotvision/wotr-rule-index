@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-819c-872a-f64cbdb1ea2b"
 notion_url: "https://app.notion.com/p/Cernan-Eryndor-The-Bull-3bd58200eb22819c872af64cbdb1ea2b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:41:00.000Z"
 verification: null
 ---
 
 # Cernan Eryndor · The Bull
 
+**Say it** · SER-nan eh-RIN-dor
 > **Corrected.** "Bovinus Aether / Energetic Axis Flow" were not Essence types. The path **"Ignition → Coagulation → Transference"** mixes an invented stage with two real currents — **Coagulatio and Transference are Wellsprings; Ignition is not.** Nexus Points and Bull's Horn / Iron Hoof are retained as technique geometry rather than as system architecture.
 
 ---

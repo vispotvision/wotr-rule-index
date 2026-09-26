@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:22:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Niran Yukari
 
+**Say it** · NEE-rahn yoo-KAH-ree
 *He Who Hears the Thread Before It Snaps · The Black-Winged Listener · Naiser's Heir · Card 15*
 > 
 > > **Danger is not an event. It is a process. Every process has a hinge.**
@@ -20,6 +21,7 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** The Yukari Enclave, before dawn in the Kujo war
 **Lineage** Human · Yukari Bloodline · **Age** 32 · **Sex** Male
 **Standing** Yukari Enclave · **Shichi Karasu** · Inner World Frontier — *acting authority over the enclave and three tributary settlements*
 | **Level / Stage** | **195 / 500** · Band II — Awakened · **Stage VII — Refraction** · Tier of Standing **5, Expert** |
@@ -134,6 +136,20 @@ Black hair past the hips, **Thread-shimmer giving it a quality that is not iride
 > ***Has not been burned. Against his sternum. Warm from six years of body heat.***
 
 ---
+
+### Voice
+
+**Notices first** · What is failing and what the person in front of him needs: the tremor in a hand, the cracked footing, the hinge a danger turns on.
+**Sentence length** · Short and plain, rarely first to speak, often set in order of work ("After the wards and the cistern.").
+**Contractions** · sometimes: easy in plain speech, dropped when he says what he is or will not be ("I am not a phantom.").
+**Pet word** · "Enough."
+**Never says** · The size of what lives under his quiet, or a result he has not yet read. He never raises an order into a shout.
+**Stumbles** · Never in calm speech; only his first words back in a body came broken.
+**Gloss rights** · Only for ward-craft and the Telling, to his children and apprentices. Never in council or in a fight.
+**Under stress** · Quieter and shorter, down to "Tell me." while the crimson deepens and he reads everything; he acts when the Lock commits. When the strain is real the stillness breaks: the voice climbs and cracks on one repeated word, and he forces it back down.
+**In grief** · He takes the loss as information, does the work in order, and goes back to his father's sayings and the words on Senri's stone, a palm flat on the rock in place of anything said.
+**In joy** · The voice holds; the joy is a hand on a child's head, the forearm grip at the gate.
+**Sample line** · "That has to be enough today. It won't be enough forever. But it's enough today."
 
 ## XVI–XVII · Temperance and Fractures
 

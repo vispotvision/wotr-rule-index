@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c8-819c-d4d9cd82bdeb"
 notion_url: "https://app.notion.com/p/Kaelzar-The-Forge-That-Roars-3d958200eb2281c8819cd4d9cd82bdeb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaelzar · The Forge That Roars
 
+**Say it** · KAYL-zar
 > *"If the world must break, let it break upon me."*
 
 ---
 
 ### I · Identity
 
+**As Of** · The Withering Era, after the new seals on the Deep Mantle
 **Name** · Kaelzar. **Called** · The Forge That Roars. **Also** · The Iron Lion of Atlas · The Anvil's Heir · Atlas's Resonant Beast.
 **Former identity** · Maximus, Titan-Smith of Aegor's Forge.
 **Role** · **Echo Reincarnate of a Titan-Smith. Leonine giant whose pulse resonates with the heartbeat of continents. Defensive deployment asset under containment oath.**

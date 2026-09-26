@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8140-8807-ec89b48d5809"
 notion_url: "https://app.notion.com/p/Valen-Karth-The-Breakstorm-Vanguard-3d958200eb2281408807ec89b48d5809"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Valen Karth · The Breakstorm Vanguard
 
+**Say it** · VAL-en KARTH
 > *"The world doesn't wait. Why should I?"*
 
 ---
 
 ### I · Identity
 
+**As Of** · A week after Veyrun's Reach
 **Name** · Valen Karth. **Called** · The Breakstorm Vanguard.
 **Role** · **Dragoon Vanguard Commander. Aerial Duelist. Domain-in-Formation.**
 **Gloss rights** · Unlimited. *Every name on this sheet is a Guild designation or a battlefield nickname, spoken openly and translated by anyone who asks.*

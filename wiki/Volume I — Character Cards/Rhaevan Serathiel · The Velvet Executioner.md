@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c4-a28d-d7ba26f0bbe6"
 notion_url: "https://app.notion.com/p/Rhaevan-Serathiel-The-Velvet-Executioner-3d958200eb2281c4a28dd7ba26f0bbe6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T08:57:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Rhaevan Serathiel · The Velvet Executioner
 
+**Say it** · RAY-van seh-RATH-ee-el
 > *"Noise is for amateurs. True death arrives politely."*
 
 ---

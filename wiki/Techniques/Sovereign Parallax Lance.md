@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-811b-ac95-da20426ddaf7"
 notion_url: "https://app.notion.com/p/Sovereign-Parallax-Lance-3d958200eb22811bac95da20426ddaf7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -15,10 +15,10 @@ verification: null
 ### Summary card
 
 **Effect** · A thrust or gesture sends a beam of black-gold refracted light out to 900 m; where it lands, it collapses every way the target could be hurt into the one that does the most damage and forces that wound to be the one that happens.
-**Cost** · Opalis feels an echo of the wound she just chose for someone else, and the Fractura-Cataclysm interaction leaves her own equilibrium shaken for a short while afterward.
+**Cost · The practitioner feels** an echo of the wound she just chose for someone else, and the Fractura-Cataclysm interaction leaves her own equilibrium shaken for a short while afterward.
 **Limit** · Cannot select a harm-state the target's own structure could not physically sustain, cannot be thrown twice at full strength without the cost climbing sharply, and cannot overrule a being whose own Temperance meets or exceeds Stage XII.
 **Counter** · A working that reads the selection before it completes, or that has already flattened its own probability down to nothing, gives the Lance no wound-version to choose.
-**What nobody knows.** Whether the Lance selects the wound Opalis would have chosen, or the one the target has spent their whole life most afraid of.
+**What nobody knows.** Whether the Lance selects the wound its author would have chosen, or the one the target has spent their whole life most afraid of.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Opalis devised the Lance herself. It has no documented counter on file anywhere but the ones her own opponents have worked out live.
+Its author devised the Lance alone. It has no documented counter on file anywhere but the ones her own opponents have worked out live.
 
 ---
 

@@ -4,14 +4,24 @@ notion_id: "3ba58200-eb22-81bd-b6fd-db49cfd6b314"
 notion_url: "https://app.notion.com/p/Bram-Greymane-The-Ridge-3ba58200eb2281bdb6fddb49cfd6b314"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:36:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Bram Greymane — The Ridge
 
+**Say it** · BRAM GRAY-mayn
 *The Shieldwarden's Heir · The Man Who Held · The Ridge*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Bram Greymane
+> **Age:** 23 · **House:** Greymane (Stormfold)
+> **Level:** 224 · **Stage:** IV Temper · **Band:** III
+> **Role:** Commander of the loyalist Greymane forces, holder of the southern approach while the Greymane ridge guards the west
+> Godfrey's grandson. The one who stayed.
+> **Age:** 23 · **House:** Greymane (Stormfold)
+> **Level:** 224 · **Stage:** IV Temper · **Band:** III
+> **Role:** Commander of the loyalist Greymane forces, holder of the southern approach
+> Godfrey's grandson. The one who stayed.
 > **Age:** 23 · **House:** Greymane (Stormfold)
 > **Level:** 224 · **Stage:** IV Temper · **Band:** III
 > **Role:** Commander of the loyalist Greymane forces, holder of the southern approach
@@ -32,6 +42,20 @@ His brigandine is cut in two places along the left side and stitched closed by L
 > *The ridge does not move. Bram does not move. The two are the same sentence.*
 
 ---
+
+### Voice
+
+**Notices first** · Ground, read for what it will hold: the gap, the width of it, and how many men it takes to close it. Then who is on his left.
+**Sentence length** · Short, flat, few words, no heat ("Say the rest of it." "And you." "Mine."). Long only when he is shouting to a line, and then in hammering fragments.
+**Contractions** · sometimes.
+**Pet word** · "Held." It is his grandfather's word and his house's, and he reaches for it first.
+**Never says** · "Traitor" of his brother. Since the depositions, any man who says it in his hearing answers to him, and he has never said why Wren is not on the roll. He does not count: he names, and enters a name against each debt.
+**Stumbles** · Never.
+**Gloss rights** · Never.
+**Under stress** · In a fight the voice carries the whole length of a line in short shouted blows ("There is no third thing."); in a room it goes shorter still and colder, without heat. His right hand closes on the rim of the shield.
+**In grief** · A roar first, from below the words. Then the wall walk and his grandfather, said quietly to nobody: the old words kept since boyhood.
+**In joy** · The voice does not change. It shows in the hands: the shield hand opens, and he sits down, which he rarely does.
+**Sample line** · "I held, Grandfather."
 
 ### Lore · The Life Behind the Card
 

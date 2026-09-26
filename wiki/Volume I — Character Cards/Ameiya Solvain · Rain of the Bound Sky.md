@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8142-8a9c-ddbceceb9f5a"
 notion_url: "https://app.notion.com/p/Ameiya-Solvain-Rain-of-the-Bound-Sky-3d958200eb2281428a9cddbceceb9f5a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:38:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Ameiya Solvain · Rain of the Bound Sky
 
+**Say it** · ah-MAY-yah SOL-vayn
 > *"To see one's reflection is to weigh one's heart."*
 
 ---

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81f7-93e7-f7a442d28279"
 notion_url: "https://app.notion.com/p/Lyris-Myndross-The-Vampire-Rider-3bd58200eb2281f793e7f7a442d28279"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:52:00.000Z"
 verification: null
 ---
 
 # Lyris Myndross · The Vampire Rider
 
+**Say it** · LEER-iss MIN-dross
 > **Corrected.** "Crimson Seismic / Nocturne Veil" were not Essence types. **Phy'ruk Ritrax should have an entry in The Called · Summon Register** rather than living only on the rider's sheet.
 **Lyris Myndross** · The Pale Fang of Ruin. Dragon rider of Phy'ruk Ritrax. Vampiric scout-warden of the Dragonbound Accord remnants.
 **Catalyst · Stage VII, Refraction.** *Bystanders describe a Domain seed wrongly and consistently, and the consistency of the wrongness is the best evidence the Archives has that they are describing something real.* **Everyone who has seen Lyris and Phy'ruk in the air together describes it the same wrong way.**

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-819d-bcfc-c122d09af21d"
 notion_url: "https://app.notion.com/p/Cyranthia-Valez-The-Gilded-Marionette-3d958200eb22819dbcfcc122d09af21d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Cyranthia Valez · The Gilded Marionette
 
+**Say it** · sih-RAN-thee-ah vah-LEZ
 > *"Power is not force. It is agreement shaped correctly."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Talveris
 **Name** · Cyranthia Valez. **Called** · The Gilded Marionette.
 **Also known as** · Lady of the Quiet Thread · The Velvet Sovereign. **Epithet** · *She Who Pulls Without Strings.*
 **Role** · **Political broker. Court strategist. Attraction-Path manipulator working through rooms rather than through people one at a time.**

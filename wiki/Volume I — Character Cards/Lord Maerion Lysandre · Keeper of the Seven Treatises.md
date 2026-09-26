@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-811b-9de6-f3b2a852ef70"
 notion_url: "https://app.notion.com/p/Lord-Maerion-Lysandre-Keeper-of-the-Seven-Treatises-3bd58200eb22811b9de6f3b2a852ef70"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:52:00.000Z"
 verification: null
 ---
 
 # Lord Maerion Lysandre · Keeper of the Seven Treatises
 
+**Say it** · MAIR-ee-on lih-SAN-der
 > *"A sword cuts the body. A law cuts the will. A just hand must know when to wield both."*
 > **Invented Stage name — third instance of "Judgment," after Thalyss Aevyrn and Lucien Draeve.** *Not among the sixteen; Stage IX is Invocation.* Numeral stands.
 >

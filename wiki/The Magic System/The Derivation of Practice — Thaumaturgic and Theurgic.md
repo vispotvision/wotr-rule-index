@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8164-8024-c6956893b205"
 notion_url: "https://app.notion.com/p/The-Derivation-of-Practice-Thaumaturgic-and-Theurgic-3bc58200eb2281648024c6956893b205"
 section: "The Magic System"
 tags: ["Magic System", "Lore & History"]
-last_edited: "2026-09-23T22:27:00.000Z"
+last_edited: "2026-09-26T14:15:00.000Z"
 verification: "unverified"
 ---
 
@@ -93,13 +93,19 @@ Measured across a standardised battery spanning **all three encounter axes — W
 | **below 0.45, refusing** | **Unregistered Natural** | **A separate ledger. It is not published.** *The Bureau's position: unregistered high-Tier thaumaturgic output is a proliferation risk the Concord's framework was not designed to address. Strategic Assessment's position is more concise: an asset the Bureau cannot see is a threat the Bureau cannot assess, and a threat the Bureau cannot assess is a threat the Bureau cannot counter* |
 
 > **The category the apparatus cannot see at all.** Every classification above assumes a Soul Crystal. **A Trait does not.**
+> 
+> A Class Ø soul carries its laws in ordinary material and refines by the Weathering rather than by Temperance, and the Weathering is single-axis by definition: it hardens a man further along the direction he was already being used. **Grain is a resonance tunnel with no woken Crystal behind it.** Tested on the standard battery, a weathered fisherman off forty years of cold water would return an Index near zero and a peak on his native axis that would embarrass a credentialed Magister.
+> 
+> *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
+> 
+> The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
 >
-> A Class Ø soul carries its laws in ordinary material and refines by the Weathering rather than by Temperance, and the Weathering is single-axis by definition: it hardens a man further along the direction he was already being used. **Grain is a resonance tunnel with no Crystal behind it.** Tested on the standard battery, a weathered fisherman off forty years of cold water would return an Index near zero and a peak on his native axis that would embarrass a credentialed Magister.
+> A Class Ø soul carries its laws in ordinary material and refines by the Weathering rather than by Temperance, and the Weathering is single-axis by definition: it hardens a man further along the direction he was already being used. **Grain is a resonance tunnel with no woken Crystal behind it.** Tested on the standard battery, a weathered fisherman off forty years of cold water would return an Index near zero and a peak on his native axis that would embarrass a credentialed Magister.
 >
-> *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
+> *Nobody will ever test him. The battery is administered to registrants, registration follows screening, and screening looks for a Crystal that has already stirred.* **Every screening season produces false negatives at a rate the Bureau has never estimated because it has no instrument that would notice.**
 >
 > The Bureau's stated tolerance for unmodelled variables is low and declining. **Its actual exposure is the population of the four quarters.**
-> **The Bureau does not use the word** ***goetic*****.** It appears in the historical literature, meaning sorcery by personal will, used by the Sanctum Lux theological apparatus to describe unconsecrated wonder-working, **and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.**
+> **The Bureau does not use the word** ***goetic*****.** It appears in the historical literature, meaning sorcery by personal will, used by the Sancta Lux theological apparatus to describe unconsecrated wonder-working, **and it carries a pejorative charge the Bureau's formal classifications are designed to avoid.**
 >
 > The Bureau notes that the word remains in common use outside formal channels, **particularly among credentialed Magisters referring to Unregistered Naturals**, and that guidance discouraging it has been issued on four occasions.
 >
@@ -137,11 +143,11 @@ Measured across a standardised battery spanning **all three encounter axes — W
 ## The Institutional Architecture
 
 **The Guild Accord** controls theurgic training, publishes the Lattice classification, issues the Magister credential. *It funds the academies, approves the curricula, and controls the chokepoints through which theurgic knowledge passes.* **The Guild made the system. The Guild owns the gate.**
-**Sanctum Lux** claims authority on etymological and doctrinal grounds. **Theurgy means divine work. If the work is divine, the Church has standing.** It credentials nobody — *but it does not need to control the gate if it can declare the field on the other side of the gate consecrated or profane.*
+**Sancta Lux** claims authority on etymological and doctrinal grounds. **Theurgy means divine work. If the work is divine, the Church has standing.** It credentials nobody — *but it does not need to control the gate if it can declare the field on the other side of the gate consecrated or profane.*
 **The Bureau of Strategic Assessment** manages registration. **It does not care whether a high-Tier thaumaturge was trained or self-taught, consecrated or profane.** It cares whether the output has been observed and incorporated into the regional assessment. *A registered Natural is an asset on the ledger. An Unregistered Natural is a variable the Bureau cannot model — and its tolerance for unmodelled variables is low and declining.*
 > **The three institutions agree on exactly one point: unregistered high-Tier thaumaturges are a problem. They disagree on why.**
 >
-> **The Guild considers them a credentialing failure. Sanctum Lux considers them a theological concern. The Bureau considers them a strategic risk.**
+> **The Guild considers them a credentialing failure. Sancta Lux considers them a theological concern. The Bureau considers them a strategic risk.**
 >
 > The disagreement matters because it determines what happens when one is found. **The Guild wants to educate them. The Church wants to assess their spiritual condition. The Bureau wants to register them.**
 >
@@ -167,6 +173,6 @@ They do not channel through native attunement (thaumaturgic). They do not channe
 |---|---|
 | **The bimodal distribution** | **Settled, and the Bureau does not know it.** Neither institutional sorting nor innate architecture. **The seat.** A melt seeded by one dominant Trait cools narrow, a melt seeded by several agreeing Traits cools distributed, and training regimes decide which Traits get promoted to load paths at Splintering. *The Altherion faculty and the Bureau are each holding one end of this and neither has the vocabulary for the middle* |
 | **The Conjunctia anomaly** | Natively dual-conducting thaumaturges present **paradoxically high** Indices, and the formula reads this as theurgic tendency. **It is not.** *The formula was designed for single-attunement architecture and breaks when the architecture is natively dual.* **A correction factor has been proposed and not approved — because approving it would require acknowledging that the Index does not measure what the Bureau says it measures in all cases** |
-| **The Sanctum Lux claim** | The Guild holds that *theurgic* is a technical term borrowed from the literature **and carries no theological content.** The Church holds that **borrowing a word does not strip it of its meaning**, and that systematic cooperation with cosmic order is a description of liturgical practice regardless of what the Bureau calls it. *The dispute predates the Index. The Index gave it a new surface to argue across without changing the underlying disagreement* |
+| **The Sancta Lux claim** | The Guild holds that *theurgic* is a technical term borrowed from the literature **and carries no theological content.** The Church holds that **borrowing a word does not strip it of its meaning**, and that systematic cooperation with cosmic order is a description of liturgical practice regardless of what the Bureau calls it. *The dispute predates the Index. The Index gave it a new surface to argue across without changing the underlying disagreement* |
 | **The goetic terminology** | The guidance is widely ignored. **The persistence of the word indicates that the neutrality the Bureau designed is not the neutrality the public wants.** *The Bureau has not determined whether this is a communications problem or a policy problem — and the answer determines whether it needs better language or a different policy* |
 | **The New World survey implication** | The Voyager-era teams were **primarily theurgic**, and their assessment reflected theurgic perceptual priorities. **Spirit-type and Medium-type concentrations were undercounted** because cross-axis literacy, while superior for systematic assessment, **lacks the single-axis sensitivity a natively attuned thaumaturge would bring.** *A mixed team — theurgic assessors with thaumaturgic scouts — would produce a more complete survey. The recommendation was declined on the grounds that deploying Unregistered Naturals in an official capacity would constitute de facto credentialing without the credential.* The Bureau notes the irony without comment |

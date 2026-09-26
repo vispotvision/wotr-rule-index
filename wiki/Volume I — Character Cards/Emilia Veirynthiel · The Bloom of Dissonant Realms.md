@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-816f-891d-c3e3069fe3ea"
 notion_url: "https://app.notion.com/p/Emilia-Veirynthiel-The-Bloom-of-Dissonant-Realms-3bd58200eb22816f891dc3e3069fe3ea"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T08:44:00.000Z"
 verification: null
 ---
 
 # Emilia Veirynthiel · The Bloom of Dissonant Realms
 
+**Say it** · eh-MEE-lee-ah vay-RIN-thee-el
 > *"I am not the story you remember. I am the ink smear where the name once lived."*
 > **Migrated with all content preserved.** *"Chronoaether / Fae Bloomfall / Colorvoid"* were not Essence types. **"Aether Class: Eldritch Fae Relic"** is not among the eight. **The path "Reverie → Inkfall → Misremember → Chronocurse"** is not a Wellspring progression — *though the legacy sheet's own gloss on it, "not one of power but erosion," is confirmed by the stat spread.*
 

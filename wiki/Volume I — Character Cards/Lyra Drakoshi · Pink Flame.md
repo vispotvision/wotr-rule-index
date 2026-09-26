@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8172-905e-db586b626820"
 notion_url: "https://app.notion.com/p/Lyra-Drakoshi-Pink-Flame-3d958200eb228172905edb586b626820"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Lyra Drakoshi · Pink Flame
 
+**Say it** · LY-rah drah-KOH-shee
 > *"Relax. If something tries to kill you, I will roast it first and ask questions if there is anything left."*
 
 ---
 
 ### I · Identity
 
+**As Of** · The seasons after the festival truce
 **Name** · Lyra Drakoshi. **Called** · The Blushscale Warden, Pink Flame, The Coiled Blade.
 **Role** · **Draconic Border Warden. Furnace Swordswoman. Ember Sentinel of the Gate.**
 **Gloss rights** · Yes. She will tell anyone exactly how the fire works, usually while grinning about it.

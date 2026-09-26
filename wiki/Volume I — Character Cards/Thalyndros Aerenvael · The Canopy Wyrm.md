@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-a28c-d242281b996d"
 notion_url: "https://app.notion.com/p/Thalyndros-Aerenvael-The-Canopy-Wyrm-3d958200eb2281e9a28cd242281b996d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Thalyndros Aerenvael · The Canopy Wyrm
 
+**Say it** · thah-LIN-dros AIR-en-vayl
 > *"He is not a rider's mount. He is one more limb the forest decided to grow."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Drevath's audit, still unenforced
 **Draconic Name** · Thalyndros, the Root-Wreathed Sky. **Old Parunic** · Caelum Radix. **Called** · The Canopy Wyrm · The Crownborne.
 **Type** · Florwynic Elven Dragon Offshoot, Lesser Aspect. Not a natural dragon but a purpose-bred sky-branch of Florwyn's Great Dragon design, grown from the Great Spirit Tree's higher boughs and anchored through Vaelorian's Soul Crystal as its rider-knot — a single test flight of a pattern that may one day emerge whole.
 **Gloss rights** · **Never.** *He carries no spoken true name in the release-mechanic sense. Draconic and Old Parunic are scholarly labels for what he is, not a name he answers to being called.*

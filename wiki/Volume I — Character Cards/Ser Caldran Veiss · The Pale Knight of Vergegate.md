@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8124-8198-d9b93357641b"
 notion_url: "https://app.notion.com/p/Ser-Caldran-Veiss-The-Pale-Knight-of-Vergegate-3d958200eb2281248198d9b93357641b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Ser Caldran Veiss · The Pale Knight of Vergegate
 
+**Say it** · KAL-dran VAYSS · *Vergegate* VERJ-gayt
 > *"Law is not sound. It is the moment the world forgets how to scream."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After his entry on Vael of Nothing
 **Name** · Ser Caldran Veiss. **Called** · The Pale Knight of Vergegate.
 **Role** · **Field Enforcer. Border Adjudicator. Dual-Vector Duelist (Judicium/Fixatio).**
 **Gloss rights** · Diagnostic only. He speaks in verdicts, not translations.

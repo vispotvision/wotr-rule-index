@@ -1,24 +1,24 @@
 ---
-title: "Coagula Dominion"
+title: "Coagula Dominium"
 notion_id: "3d958200-eb22-814e-9def-f18652d7fcf4"
-notion_url: "https://app.notion.com/p/Coagula-Dominion-3d958200eb22814e9deff18652d7fcf4"
+notion_url: "https://app.notion.com/p/Coagula-Dominium-3d958200eb22814e9deff18652d7fcf4"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:33:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: null
 ---
 
-# Coagula Dominion
+# Coagula Dominium
 
-## Coagula Dominion
+## Coagula Dominium
 
 ### Summary card
 
 **Effect** · A fifteen-metre field in which ambient Essence stops flowing and starts sitting. Spellwork routed through the field arrives late and undersized; anyone moving through it fights the air itself for every step.
-**Cost** · Pressure builds behind Drakvor's own ribs for as long as the field holds; the same coagulating law that slows the enemy's Essence is running through his.
+**Cost** · Pressure builds behind the practitioner's own ribs for as long as the field holds; the same coagulating law that slows the enemy's Essence is running through his.
 **Limit** · Reaches only Essence already loose in the air. A working already sealed inside a Soul Crystal, or a body moving under its own momentum rather than Essence-borne lift, passes through untouched.
 **Counter** · A Wellspring that routes through Vectoria or Spatium rather than through ambient Essence (flight, blink-step, anything that never asks the air's permission) is not slowed at all.
-> **What nobody knows.** Whether the field reads intent before it thickens, or whether it would happily seize Drakvor's own allies if he ever lost the thread holding it apart from them.
+> **What nobody knows.** Whether the field reads intent before it thickens, or whether it would happily seize the practitioner's own allies if he ever lost the thread holding it apart from them.
 
 ### Codex line
 
@@ -26,14 +26,14 @@ verification: null
 **Family** · Materia (Coagula) · Fulguria (Judicium)
 **Physics Domain** · Material Science (Coagula) · Electromagnetism (Judicium)
 **Category** · Vectra (Body ↔ Attraction: a working about where force and motion are allowed to go)
-**Craft** · Spellcraft, declared, and holds only while Drakvor's attention holds it
+**Craft** · Spellcraft, declared, and holds only while the practitioner's attention holds it
 **Stage floor** · VIII, Transcendence
 **Grade required** · S-Grade
 **Path gate** · Fate
 
 ### FOW line
 
-**Governing Primary and Sub-Stats** · Tempering Coherence and Resilience Integrity (Coagula's stated Sub-Stat strengths, "the Crystal becomes harder to split," projected outward onto the field rather than inward onto Drakvor's own lattice); Gnosis Acuity and Gnosis Analysis (Judicium's stated strengths, running the field's discernment layer).
+**Governing Primary and Sub-Stats** · Tempering Coherence and Resilience Integrity (Coagula's stated Sub-Stat strengths, "the Crystal becomes harder to split," projected outward onto the field rather than inward onto the practitioner's own lattice); Gnosis Acuity and Gnosis Analysis (Judicium's stated strengths, running the field's discernment layer).
 **Stage floor** · VIII, Transcendence
 **Grade required** · S-Grade
 **Path gate** · Fate
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Drakvor speaks one philosophy over the technique, "Motion is privilege. I revoke it." He is its only known author, and where he learned to run Coagula outward rather than inward is not recorded.
+Its author speaks one philosophy over the technique, "Motion is privilege. I revoke it." It has no other known user, and where he learned to run Coagula outward rather than inward is not recorded.
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-b75c-eb9e1d491598"
 notion_url: "https://app.notion.com/p/Varuun-Daskorr-The-Unbent-Crown-3d958200eb228187b75ceb9e1d491598"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Varuun Daskorr · The Unbent Crown
 
+**Say it** · vah-ROON DAS-korr
 > *"Law is mercy written in weight."*
 > **DEAD CANON FLAG: this sheet sits on a struck polity.** *Babyl and the Babylian Imperium were struck from canon.* Varuun is King of the Kingdom of Babyl, rules from Karn-Bael, and the card's whole institutional frame is the kingdom. **The character survives the setting**: an aging Inner World stone-king whose reign is sintered to a worked Coagula Core is legible on the current map. **Isaac's ruling needed on re-homing or striking**; all card content is preserved.
 
@@ -19,6 +20,7 @@ verification: null
 
 ### I · Identity
 
+**As Of** · The Caedor terms still waiting on him
 **Name** · King Varuun Daskorr. **Called** · The Unbent Crown.
 **Role** · **Mortal King. Wellspring-Bound Sovereign. Living Anchor.**
 **Gloss rights** · Yes. *He speaks law aloud for a living and the card's voice is his own decrees; he may name what he does in his own words, and the Guild's terms stay in the Guild's mouth.*

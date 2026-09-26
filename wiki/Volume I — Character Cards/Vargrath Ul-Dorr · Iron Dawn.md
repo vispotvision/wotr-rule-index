@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8151-a46b-fc3347f762cb"
 notion_url: "https://app.notion.com/p/Vargrath-Ul-Dorr-Iron-Dawn-3d958200eb228151a46bfc3347f762cb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T09:03:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Vargrath Ul-Dorr · Iron Dawn
 
+**Say it** · VAR-grath ool-DORR
 > *"Before there is a warrior, there is a debt. I intend to collect both."*
 
 ---

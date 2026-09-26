@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8183-952c-fcdd669a0867"
 notion_url: "https://app.notion.com/p/Arven-Solthiel-The-Smiling-Veil-3d958200eb228183952cfcdd669a0867"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:38:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Arven Solthiel · The Smiling Veil
 
+**Say it** · AR-ven SOL-thee-el
 > *His smile, always slight, feels like he knows something you once forgot.*
 
 ---

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817e-a5a3-c7948076832e"
 notion_url: "https://app.notion.com/p/The-Last-Monolith-3d958200eb22817ea5a3c7948076832e"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Drakvor's own flesh stops behaving like flesh. Skin, bone, and the Essence running under both take on the failure curve of stone rather than the failure curve of a body, and blows that would open him instead ring off him.
+**Effect · The practitioner's own flesh** stops behaving like flesh. Skin, bone, and the Essence running under both take on the failure curve of stone rather than the failure curve of a body, and blows that would open him instead ring off him.
 **Cost** · Muscle tearing at the moment the state releases. The body that spent five exchanges being told it was stone has to remember, all at once, that it wasn't.
 **Limit** · Mobility drops hard for as long as the state holds. Stone does not step lightly.
 **Counter** · Entropy-type and dissolution Wellsprings unmake the coherence the state depends on rather than striking it, which is the one kind of attack the hardening was never built to answer.
@@ -26,7 +26,7 @@ verification: null
 **Family** · Materia (Coagula) · Fulguria (Judicium)
 **Physics Domain** · Material Science (Coagula) · Electromagnetism (Judicium)
 **Category** · Arts (Body-aligned: embodied Aether expression given technique, the Vitae layer)
-**Craft** · Spellcraft, declared, and holds only for as long as Drakvor sustains the draw
+**Craft** · Spellcraft, declared, and holds only for as long as the practitioner sustains the draw
 **Stage floor** · VIII, Transcendence
 **Grade required** · S-Grade
 **Path gate** · Body (primary) with a genuine Spirit Path component
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Drakvor's own philosophy for the state is "Let the world strike. I remain." He is the technique's sole known author, and where the state was first tested is not recorded.
+Its author's philosophy for the state is "Let the world strike. I remain." It has no other known user, and where the state was first tested is not recorded.
 
 ---
 

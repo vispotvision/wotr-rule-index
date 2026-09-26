@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8177-a204-e05388ef8832"
 notion_url: "https://app.notion.com/p/Vaelen-Mourcrix-The-Exculpate-Arbiter-3bd58200eb228177a204e05388ef8832"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:43:00.000Z"
+last_edited: "2026-09-26T10:20:00.000Z"
 verification: null
 ---
 
 # Vaelen Mourcrix · The Exculpate Arbiter
 
+**Say it** · VAY-len MOOR-kriks · *Exculpate* EKS-kul-payt
 > *Where Ignatius concludes, Vaelen weighs. Neither sheet reads properly alone.*
 
 ---
@@ -18,7 +19,7 @@ verification: null
 
 **Name** · Vaelen Mourcrix. **Called** · The Exculpate Arbiter. Bearer of the Verdict of Absolve. Imperial Inquisitor of Eresse.
 **Race** · High Elf, Eressean. **House** · Mourcrix, descended from House Venrik. *Which makes Karo Venrik kin, and the Division's exile a family matter as well as a doctrinal one.*
-**Standing** · Sanctum Lux. Judicariate Circle of Eresse.
+**Standing** · Sancta Lux. Judicariate Circle of Eresse.
 **Catalyst Event · Stage X, Realization.** He rendered a verdict the Circle overturned, and the ground where it was rendered kept it anyway. **The Continuum accommodated him and the institution did not**, and he has never resolved which of the two he serves.
 
 ---
@@ -93,7 +94,7 @@ He grew up among a people for whom nothing passes unwitnessed. A transfer had it
 
 #### The Making
 
-Sanctum Lux kept a chapter hold in Eresse, tolerated on sufferance and audited every year by the elven kingdoms. He entered the order there. It drilled him to take a reading and to say nothing of what the reading meant. The right to say what it meant came later.
+Sancta Lux kept a chapter hold in Eresse, tolerated on sufferance and audited every year by the elven kingdoms. He entered the order there. It drilled him to take a reading and to say nothing of what the reading meant. The right to say what it meant came later.
 He found he read a soul by what was missing from it. Guilt showed to him in the shape of what a soul had removed from itself, and when he named the missing thing, what he named came apart in the subject. The guilty in the room felt it arrive before he finished the sentence. He never accused anyone.
 He became Imperial Inquisitor of Eresse and took his seat in the Judicariate Circle. He could weigh. He could not rule, and every verdict he gave needed the Circle to enforce it.
 Then Karo Venrik's Remembrance Division came before the Circle at Vaelmarr, seat of the Sunroot Court, in a chamber built partly below grade. Its research had no licence. The hearing sat inside its window, with its witnesses named and paid. Vaelen weighed the Division's work by what was missing from it, and he found for the Division. He rendered a verdict the Circle overturned, and the ground where it was rendered kept it anyway. The Continuum accommodated him and the institution did not.
@@ -107,7 +108,7 @@ He holds that guilt is found in the shape of what a soul has removed. His readin
 
 #### Where They Stand
 
-Vaelen Mourcrix is the Exculpate Arbiter, Bearer of the Verdict of Absolve and Imperial Inquisitor of Eresse, seated in the Judicariate Circle of Sanctum Lux. The colour of his essence is arc-blue and metallic, electric even at rest, and people who see it take it for a warning. He can weigh and cannot rule. The one verdict the ground kept has never stopped bothering him. He has never resolved whether he serves the Continuum or the institution.
+Vaelen Mourcrix is the Exculpate Arbiter, Bearer of the Verdict of Absolve and Imperial Inquisitor of Eresse, seated in the Judicariate Circle of Sancta Lux. The colour of his essence is arc-blue and metallic, electric even at rest, and people who see it take it for a warning. He can weigh and cannot rule. The one verdict the ground kept has never stopped bothering him. He has never resolved whether he serves the Continuum or the institution.
 If the Venrik descent holds, the Division's exile was a family matter as well as a doctrinal one. The record has asked whether it holds.
 The order pairs him with Darius, whom it named Ignatius. Vaelen weighs, Darius executes, and neither approves of the other's half of the work. The order's record calls it adversarial affection. No record puts the two in one room. Azure Serathiel, the wandering Sword Saint, is his rival in the philosophy of the duel, and Azure does neither.
 He examined Shael Virellion's third eye and read Ideh's fracture signature in it. He warned Shael never to gaze into the Harmonial Core. Karo ruled on the same man and cleared him.

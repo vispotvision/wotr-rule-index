@@ -4,13 +4,15 @@ notion_id: "3bd58200-eb22-81c3-9b51-c68e8a02a607"
 notion_url: "https://app.notion.com/p/Seravain-Drelith-Wyrm-Crowned-3bd58200eb2281c39b51c68e8a02a607"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Seravain Drelith · Wyrm-Crowned
 
+**Say it** · SAIR-ah-vayn DREL-ith
 > **Modern-format sheet, minimal correction.** Accord legal status, narrative arc and vulnerabilities were all sound. Added the Wellspring, Stage and stat layer.
+**As Of** · After the claim at the gate was settled
 **Seravain Drelith** · The Ivory Coil. Wyrm-Crowned. **Marchlord of Glass.** Dragonkin trueblood, Celestial Wyrmline. Outside the Accord under Concord Sanctions, Marchlord Exception.
 **Catalyst · Stage X, Realization.** *Terrain changes. Pacts hold in the ground. Regions where a Stage X practitioner spent time keep a set that outlasts them by generations.* **The Glass Marches are not a territory he conquered. They are a territory he has been standing in.**
 **Shell** Class V Radiant · **State** Refined · **η** 0.75–0.80 · **Path** Attraction dominant, Fate secondary.

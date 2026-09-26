@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8192-ab62-ffe091036c27"
 notion_url: "https://app.notion.com/p/Ryuka-Yukari-The-Little-Wayfinder-3d958200eb228192ab62ffe091036c27"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Ryuka Yukari · The Little Wayfinder
 
+**Say it** · RYOO-kah yoo-KAH-ree
 > *"If there is a road, I will find it. If there is not, I will make one and come back for you."*
 
 ---
 
 ### I · Identity
 
+**As Of** · His Telling at Senri's Gate
 **Name** · Ryuka Yukari. **Called** · **The Little Wayfinder.** *Fox of the First Step · The Orange Spark.*
 **Epithet** · He Who Runs Between Footsteps.
 **Role** · **Beastkin Ward. Wayfinder-in-training. Unofficial mascot of the Guild Accord.**

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8125-916d-cc690d26ab38"
 notion_url: "https://app.notion.com/p/Evangelien-Rhymaris-The-Hollow-Bride-3bd58200eb228125916dcc690d26ab38"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T10:19:00.000Z"
 verification: null
 ---
 
 # Evangelien Rhymaris · The Hollow Bride
 
+**Say it** · eh-VAN-jeh-leen rih-MAR-iss
 > *"I do not remember his name… but I still wear the veil. That is enough."*
 > **Migrated from the legacy Trello sheet with all content preserved.** Origin, traits, relationships, quote and chapter appearances carry across unchanged. **Only the system layer is corrected.**
 >
@@ -25,7 +26,7 @@ verification: null
 
 ### Affiliation
 
-Unbound to any kingdom. **Herald of the lost Weeping Choir of Elenthyr.** Feared and worshipped by fringe cults of Sanctum Lux and by the Thorn-Seers. **Considered a metaphysical anomaly by the Guild of Ritus.**
+Unbound to any kingdom. **Herald of the lost Weeping Choir of Elenthyr.** Feared and worshipped by fringe cults of Sancta Lux and by the Thorn-Seers. **Considered a metaphysical anomaly by the Guild of Ritus.**
 
 ### Origin & Lore
 
@@ -157,7 +158,7 @@ Her tears heal or kill, depending on the feeling behind them. Black-market mourn
 
 Evangelien walks the Inner World in wedding garments soaked with spectral ink, and she walks the ruins of Elenthyr. There is arterial red at her tear-line and black-violet in the air around her, and an onlooker's body answers it before the mind has caught up. All who look on her see someone they mourned. The unbereaved walk through the hymn unaffected. There are very few of them. The one recorded way out is to leave, and whoever is weeping too hard to walk has to be carried out by someone else.
 In the ruins of Elenthyr, Azure Serathiel saw her wandering and offered a silent bow. She bowed back. No words passed. In the halls of a ruined shrine among the same ruins, with blood on her face from the tears, she met Ambrose Virellith in the dress meant for death. They bowed to one another and passed without a word, each going on the way the other had come. Nobody knows whom Ambrose saw in her. No account puts these meetings in order.
-Fringe cults of Sanctum Lux fear and worship her. So do the Thorn-Seers. The Flock of Thorns calls her Saint Erasure and copies her pain, believing it will carry them past mortality. The Bench of Attribution has never been asked to rule on whether she counts as a source. A rumour puts her in the Dead Garden.
+Fringe cults of Sancta Lux fear and worship her. So do the Thorn-Seers. The Flock of Thorns calls her Saint Erasure and copies her pain, believing it will carry them past mortality. The Bench of Attribution has never been asked to rule on whether she counts as a source. A rumour puts her in the Dead Garden.
 She is bound to a forgotten Wellspring deep beneath the Inner World's crust. Nobody knows whether the Wellspring is bound to her or she to it, or whether it lay there before Elenthyr fell. No record names the man she wears the veil for, and she has lost the name herself.
 
 #### Ties

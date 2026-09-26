@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81eb-b624-e7312f7ee77c"
 notion_url: "https://app.notion.com/p/Azelra-Kaine-The-Incendiant-Veil-3d958200eb2281ebb624e7312f7ee77c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:39:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Azelra Kaine · The Incendiant Veil
 
+**Say it** · ah-ZEL-rah KAYN · *Incendiant* in-SEN-dee-ant
 > *"Love is not mercy. It is gravity, and I am what happens when gravity catches fire."*
 
 ---

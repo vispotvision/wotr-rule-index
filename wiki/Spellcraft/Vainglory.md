@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8108-b1ff-ef07ba4fb3d5"
 notion_url: "https://app.notion.com/p/Vainglory-3d958200eb228108b1ffef07ba4fb3d5"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -42,7 +42,7 @@ verification: null
 ### Origin
 
 **Origin** · The Tome of Lurid Echoes is its founding text, and the Lament of the Nine Mirrors in the Era of Calamity is the mass-casualty event it is remembered for. The Order of the Hollow Veil still teaches a controlled form.
-**Practitioners** · Serenhal Caelmorne, who projected a corrupted self during a Moetana trial; Yelara Vintress of the Rose-Glass Order, whose Eidolon stole her Pneuma and took her place; Raziel Ados, who impersonated himself across several Domains until the result consumed him.
+**Practitioners · An adept who projected a corrupted self during a Moetana trial; a member of the Rose-Glass Order whose Eidolon** stole her Pneuma and took her place; a practitioner who impersonated himself across several Domains until the result consumed him.
 
 ---
 

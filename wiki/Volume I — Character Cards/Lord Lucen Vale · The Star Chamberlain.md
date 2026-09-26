@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8187-905a-c8dfc517ccc3"
 notion_url: "https://app.notion.com/p/Lord-Lucen-Vale-The-Star-Chamberlain-3bd58200eb228187905ac8dfc517ccc3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Lord Lucen Vale · The Star Chamberlain
 
+**Say it** · LOO-sen VAYL
 > *"Decency is architecture. Stand where I place you, and the truth will hold."*
 > **A Revelation card — the first of four in Volume V.** The sheet reads **"Stage VIII — Revelation."**
 >
@@ -24,6 +25,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Preparing the Star Chamber for the Outer World delegates
 **Name** · Lord Lucen Vale. **Title** · **The Star Chamberlain.**
 **Also known as** · **White North of the Accord Halls** · *Architect of Polite Gravity.* **Epithet** · ***He Who Aligns the Room.***
 **Race** · Human, Accord-born Harmonian. **Affiliation** · **Guild Accord · Star Chamber, Protocol Corps.**

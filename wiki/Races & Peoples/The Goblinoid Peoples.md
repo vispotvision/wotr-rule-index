@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8118-abac-efe284857149"
 notion_url: "https://app.notion.com/p/The-Goblinoid-Peoples-3b158200eb228118abacefe284857149"
 section: "Races & Peoples"
 tags: []
-last_edited: "2026-08-03T20:30:00.000Z"
+last_edited: "2026-09-26T09:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -46,6 +46,7 @@ But at the center of the impact, something was different. **The core of the aste
 >
 > To live by Kha-Urrum's example is **to refuse to become what struck you.**
 **Stone-Blood is not a metaphor.** It is a literal spiritual designation: the mineral density of asteroidal material persists in the blood of all goblinoid peoples as Aetheric matter, connecting them to the original kinetic event and to each other.
+**Stone-Blood runs slow in deep cold.** The mineral in the tissue slows with the temperature, and in deep cold every Stone-Blood fighter moves about three-quarters of a beat late. It is latency, not weakness: the strength is all there and arrives behind the count, and a formation drilled to keep time loses its time before it loses its strength. This holds in every fight in deep cold.
 The splitting of Hobgoblin and Orc — core versus shard — is not understood as a hierarchy within goblinoid culture. The Ironblood would say the shard carries the original force. The Crimson Order would say the core carries the original endurance. **Both are correct. Both are needed. Za'tarch was built on exactly this argument.**
 
 ---

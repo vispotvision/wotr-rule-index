@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8122-a6c5-fd2ef48ee1dd"
 notion_url: "https://app.notion.com/p/Seraphine-Lurielle-Lilac-Gaze-3d958200eb228122a6c5fd2ef48ee1dd"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Seraphine Lurielle · Lilac Gaze
 
+**Say it** · SAIR-ah-feen loo-ree-EL
 > *"Do sit. I have already seen you leave, so we may as well enjoy the part where you arrive."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the tea at the White Parlour
 **Name** · Seraphine Lurielle. **Called** · The Veiled Hostess, White Parlour Seer.
 **Role** · **Alabaster Noble. Prophetic Hostess. Quiet Accord Informant.**
 **Gloss rights** · Diagnostic only. She will tell a guest what she saw; never how the thread-work under it runs.

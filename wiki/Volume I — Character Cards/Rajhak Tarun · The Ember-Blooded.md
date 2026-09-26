@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d2-acf6-db22e335efd1"
 notion_url: "https://app.notion.com/p/Rajhak-Tarun-The-Ember-Blooded-3d958200eb2281d2acf6db22e335efd1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Rajhak Tarun · The Ember-Blooded
 
+**Say it** · RAHJ-hak tah-ROON
 > *"Every spark wants to grow. I just remind it how."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the meeting over the Solfatara scar
 **Name** · Rajhak Tarun. **Called** · The Ember-Blooded.
 **Role** · **Flame-walker. Wellspring interpreter. Freelance Arcanist and Wellspring Liaison to the Guild Accord.**
 **Lineage** · Frontierfolk and Verdant hybrid, of the border tribes of the Scorched Plains *(unattested)*, regions thought lifeless until his people learned to coax Essence directly from ash. *Ancestral ties to tribes once allied with the Titan Florwyn's Verdant Choir (unattested). The blood carries faint Verdantia resonance: regenerative properties, and a heartbeat that keeps time with Wellspring pulse patterns.*
@@ -37,7 +39,7 @@ verification: null
 
 **Aether Shell** · **Class III · Resonant.** When focused, the aura glows amber and nearby Essence harmonizes with his heartbeat.
 **Attraction Layer** · Developed and wide rather than deep. *Clans, envoys, and spirit tribes; he is bonded to a frontier, not to a person.*
-**Crystal State** · Refined. **Controlled combustion**: the Crystal cycles between passion and restraint on the Exuroth pattern and arrives harder each time. **η** · 0.55 to 0.60, Tier of Standing 5, Expert *(estimate, Expert range)*.
+**Crystal State** · Refined. **Controlled combustion**: the Crystal cycles between passion and restraint on the Exuroth pattern and arrives harder each time. **η** · 0.60 to 0.70, Tier of Standing 5, Expert *(estimate, Expert range)*.
 **Essence colour** · Amber, with green at the edge where the Verdantia strain shows.
 
 ---

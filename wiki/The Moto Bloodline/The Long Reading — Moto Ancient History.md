@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81b0-810f-d3e421cd9caa"
 notion_url: "https://app.notion.com/p/The-Long-Reading-Moto-Ancient-History-3bc58200eb2281b0810fd3e421cd9caa"
 section: "The Moto Bloodline"
 tags: ["Lore & History", "Bloodlines"]
-last_edited: "2026-09-15T22:06:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -113,7 +113,7 @@ The seat stands in the hinterland above the coast, inland and up, where the shel
 
 **The Kōkan did not die out. They were broken, which takes longer.**
 What remained on the coast after the Stay was a surviving population with no fleet, no external authority, a ruined seat above them and a Wellspring beneath them that would not stop running. They held the hinterland. **They intermarried outward because there was nobody else.** The Kamigan appeared less often in each generation, then rarely, **then as an event.**
-Whoever came after built on top of them, as people do. The port grew. The Sounding Walk was laid. Four centuries of feet wore the polish off the flags. Sanctum Lux eventually seated a chapter hold on the coast, the archive began, **and the archive became the most complete register of births, deaths and contracts in the Inner World.**
+Whoever came after built on top of them, as people do. The port grew. The Sounding Walk was laid. Four centuries of feet wore the polish off the flags. Sancta Lux eventually seated a chapter hold on the coast, the archive began, **and the archive became the most complete register of births, deaths and contracts in the Inner World.**
 > **The Kōkan remnant were not in it.** Their gafa was held as family property, in a First Epoch phonology no clerk in the kingdom could read, **recorded in a glyph the Continuum has never been able to classify.**
 >
 > They had been keeping their own registers since before the Church existed **and saw no reason to hand them to a body they regarded, correctly, as a tenant.**
@@ -169,9 +169,9 @@ Azure Tenrai's argument was that a branch immune to correction becomes tyrannica
 | **Dating** | No absolute years given. The Concordance closes the First Eon at Year −900; current reckoning is Year 715 of the Imperial Age. **Where the Refusal and the Recension sit against that spine needs a pass with the Concordance open** |
 | **The Recension's date** | Proposed at two to four generations before Muken. **Near enough that living memory of it exists in the hinterland and nowhere else** |
 | **Bonded labour in Nalūn** | If the salt cuttings run on the undocumented **as an institution rather than an abuse**, it goes into the Nalūn codex and changes how every scene set there reads. *Recommended* |
-| **Sanctum Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |
+| **Sancta Lux** | The Seventh Objection now has an obvious content: **the sacraments are a Moto Work, the Wellspring is a Moto residue, and the Grand Church is a tenant.** Three living readers, one no longer sleeping |
 | **Does Temür know** | His father put a hand on his head at a dinner table and said nothing. **If the nothing included this, the Kōkan Butcher has been carrying an inheritance he cannot see the shape of** |
 | **The six lines' registers** | Whether any northern line preserved an honest account of the window, **and where it is, and who has read it** |
 
 > *All content originated in this document is proposed canon pending ratification.*
-> Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · Kingdom of Nalūn · the Vaeloris Sequence · Sanctum Lux · Muken and Saruul character records.
+> Anchored to: The Moto Bloodline · The Archonic Codex · The Bearing and the Holding · Kingdom of Nalūn · the Vaeloris Sequence · Sancta Lux · Muken and Saruul character records.

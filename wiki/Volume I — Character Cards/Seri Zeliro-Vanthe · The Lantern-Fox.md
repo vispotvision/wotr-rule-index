@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8113-ac4a-c528af2cc723"
 notion_url: "https://app.notion.com/p/Seri-Zeliro-Vanthe-The-Lantern-Fox-3d958200eb228113ac4ac528af2cc723"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Seri Zeliro-Vanthe · The Lantern-Fox
 
+**Say it** · SAIR-ee zeh-LEER-oh-VAN-theh
 > *"I do not need to know your secret. I need to know which one you are afraid I already know."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the afternoon table in the slate belts
 **Name** · Seri Zeliro-Vanthe. **Called** · The Lantern-Fox, Threadwalker of the Silent Route. **Also** · The Girl With the Open Book · Little Orrinal. **Epithet** · She Who Reads the Thread Before the Needle Moves.
 **Role** · **Field Intelligence Operative. Fate-Thread Reader. Archivist of the Zeliro-Vanthe Codex.**
 **Gloss rights** · **Diagnostic only.** She reads the room correctly and says exactly as much of it as the room needs to hear.

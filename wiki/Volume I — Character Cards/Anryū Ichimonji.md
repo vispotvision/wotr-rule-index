@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81ca-a9c3-ed58dd1d8066"
 notion_url: "https://app.notion.com/p/Anry-Ichimonji-3b258200eb2281caa9c3ed58dd1d8066"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Anryū Ichimonji
 
+**Say it** · ahn-RYOO ee-chee-MOHN-jee
 *暗流 一文字 · The Pale Ledger's Blade · The Inkborn · The Pale Editor · Card 18*
 > ***He Who Draws the Line Between What Was and What Remains***
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** Beneath the registry, the three filings read and not acted on
 **Race / Lineage** **Solvari** — Spirit-Path bloodline. *Ancestors fused Parunic Glyph-chains into neural pathways during the Age of Deliberation.* Essence bleeds black. Soul Crystals carry pre-inscribed Parun lattice-work from birth
 **Faction** **The Pale Ledger** — autonomous archival order, late Imperial Calendar
 **Location** *An unsanctioned archive beneath a Guild Accord registry building.* They know someone is there. They have not confirmed who

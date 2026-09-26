@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81cd-8ff5-d95df322b5ed"
 notion_url: "https://app.notion.com/p/Velastra-Nirellium-The-Severed-Saint-3bd58200eb2281cd8ff5d95df322b5ed"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Velastra Nirellium · The Severed Saint
 
+**Say it** · veh-LAS-trah nih-REL-ee-um
 > *"The pact is broken. The breath you take now is theft."*
 > **Migrated with all content preserved, including the three artifacts.** *"Gravemarch / Null / Iron-Aether"* were not Essence types. **"Aether Class: Inexorable Blade"** is not among the eight; **she is Class VI, Voidic** — *the inverted Shell, which devours rather than emits, and whose Ardency does not deal damage but removes things.* **That is Severance stated in the Class system's own terms.**
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the elder at Ordas
 **Name** · Velastra Nirellium. **Called** · The Severed Saint.
 **Role** · **Deathbound Enforcer. Concordant Exile. Bladebearer of the Unrevoked Law.**
 

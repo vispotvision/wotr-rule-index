@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-818d-8c37-c4ba50ed39d8"
 notion_url: "https://app.notion.com/p/Hild-Ice-Stark-The-Sword-Princess-3ba58200eb22818d8c37c4ba50ed39d8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:26:00.000Z"
+last_edited: "2026-09-26T09:15:00.000Z"
 verification: null
 ---
 
 # Hild Ice (Stark) — The Sword Princess
 
+**Say it** · HILD EYES
 *The Sword Princess · The Bastard · The Season*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Hild Ice (Stark-Moto, unrecognized)
+> **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
+> **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
+> **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
+> **Status:** Acting head of the Kokan Loyalist Coalition, seated at Kharven-Seat on the broken throne
 > **Age:** 11 · **Bloodline:** Kōkan Line (paternal) / Stark (maternal)
 > **Level:** 78 · **Stage:** I Murmuring (unstable, bloodline-driven) · **Band:** I
 > **Titles:** The Sword Princess · Hild Ice · The Bastard of Kharven
@@ -38,22 +44,30 @@ The expression is raw Vohrin-adjacent resonance carried through Kōkan blood tha
 
 ## Voice
 
-Hild speaks in short declarative sentences. She does not ask questions when she can issue observations. She inherited her father's cadence without ever hearing it — the slow iron rhythm that the frontier named. At eleven the cadence is forming rather than finished, audible beneath the child's voice the way a river is audible beneath ice, present and gaining force.
-In public: level, controlled, the wall. The face that does not change. In private (the altar room, with Brida): the child surfaces. The voice becomes smaller. The sentences become questions. The wall comes down for the length of the prayer and goes back up when the prayer is finished.
-She calls things what they are. She called herself "Hild Ice" in front of the court because calling the name was owning the name, and owning was the thing no one expected, and the unexpected was the weapon.
+**Notices first** · The chairs against the people in them, and the second sentence a man says rather than his first. Then whatever in the room is hers to carry, and whether anyone is about to take it from her.
+**Sentence length** · Short. Flat declaratives and orders shaped as questions without the rise ("Where is Bram now."). When the child leaks, a sentence starts too big, chains itself on "and" after "and", and does not land.
+**Contractions** · never; she has her father's uncontracted cadence without ever having heard it, and the child comes through in her words, not her grammar.
+**Pet word** · "I want." It gets out before the queen can stop it: I want to go to Bram, I want him to be an example, I want to see him.
+**Never says** · That something is too heavy, or that she is tired or hungry. She does not ask after her father; she asked for him once in eleven years. She never counts for its own sake: the only number she gives is one she has read in a report, and she gives it to correct somebody.
+**Stumbles** · Not in the ordinary way. The slip is a wrong word ("deny him of"), a sentence built bigger than she can finish, or a question asked out loud in company; she does not stop to mend it.
+**Gloss rights** · Never. She calls a thing what it is and leaves it unexplained.
+**Under stress** · The sentences shorten to orders and flat statements, and the cold rides on them: the left jaw tightens and releases, the air in the room drops, and the voice itself goes colder by choice.
+**In grief** · Silence first, as on the floor of her mother's room. When speech comes back it is the child's: smaller, every sentence turned into a question, her mother's words about the braid and the work of the hands underneath.
+**In joy** · The voice fails before the wall does: one word, too small and cracked down the middle, and then the body takes over. She runs, and frost goes out from her feet across the ground.
+**Sample line** · "If my father has truly changed. Who am I to deny him of his birthright."
 
 ---
 
 ## Key Relationships
 
-| **Sodoku Moto (father)** | Has never met him. Carries his jaw, his cadence, his blood. Knows him through Fern's stories — the version that is not the Butcher. The question behind the sternum: *where were you* |
+| **Sodoku Moto (father)** | Met him first at the north gate of Kharven-Seat, when he came north, and ran into his breastplate. Carries his jaw, his cadence, his blood. Knew him until then only through Fern's stories, the version that is not the Butcher. The question behind the sternum: *where were you* |
 |---|---|
 | **Fern Stark (mother, deceased)** | Died when Hild was 8-9. Taught her the braid, the altar, the prayer of the hands. The winterbell flowers. The iron ring. The definition of prayer: the work of your own hands offered without anyone watching |
 | **Lorn Stark (uncle)** | Fern's brother. Raised her after Fern died. Gave her the wooden sword. Gave her the steel sword. The man whose love is the thing that gets her off the floor and whose love is also the thing that sometimes makes his counsel wrong, because love protects from the thing the loved needs to face |
 | **Osric of Hallenfeld (uncle)** | Kōkan cadet survivor. The man who recognized the jaw. His love is dynastic. He counseled the move to Kharven-Seat. The strategist whose patience built the coalition from pieces that had been enemies |
 | **Edward Lambert (right hand)** | The Arithmetic. Does not love her. Serves her. Taught her how to count, how to listen to the second sentence, how to read the empty chair. Stands three paces behind and to the right. Nods once when she is correct |
 | **Brida Ashwell (physician)** | The warmth. The woman who sees the child underneath the wall. Brings willowbark when the body needs it before the body knows. The only person who tells Hild to eat and means it |
-| **Bram Greymane (ally)** | Godfrey's grandson. Holds the western approach with half an army. Has never met Hild but received her message: "The ridge does not move." The message was the alliance |
+| **Bram Greymane (ally)** | Godfrey's grandson. Commands the southern approach with half an army, while the Greymane ridge guards the west. Has never met Hild but received her message: "The ridge does not move." The message was the alliance |
 | **Renard Greymane (guard)** | Bram's cousin. Stands to the left of the throne. Hand on sword. The Greymane function: be the thing between the throne and the threat |
 
 ---

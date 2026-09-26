@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f1-911a-de43b83e9834"
 notion_url: "https://app.notion.com/p/World-Echelon-3d958200eb2281f1911ade43b83e9834"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Francis merges his personal Tribunal Domain with the local Spirit World across a five-kilometre radius for roughly forty seconds, folding the space into court geometry and converting every emotion caught inside into weighed evidence.
+**Effect · The practitioner merges** his personal Tribunal Domain with the local Spirit World across a five-kilometre radius for roughly forty seconds, folding the space into court geometry and converting every emotion caught inside into weighed evidence.
 **Cost** · High soul-heating and a local Principle drift that outlasts the working itself.
 **Limit** · Cannot be run alongside Dirge Ascension; the two Domains do not coexist.
 **Counter** · A Sovereign-tier Spirit Path practitioner, or a transcendent-grade Harmonics Empathy field (Catharsis- or Benediction-class), can refuse to be weighed at all.
-**What nobody knows** · Francis is a rough-seated Spirit-Fate practitioner, the kind the Guild Accord caps at Tier Four, Adept, on paper. Whether he has ever actually been assayed for a certificate that would say so, or whether the courts he presides over simply never asked, is not on record.
+**What nobody knows · Its author is a rough-seated** Spirit-Fate practitioner, the kind the Guild Accord caps at Tier Four, Adept, on paper. Whether he has ever actually been assayed for a certificate that would say so, or whether the courts he presides over simply never asked, is not on record.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ Resonant Pair: None.
 
 ### Origin
 
-Not stated by the source beyond ownership by Francis at Stage XIV Zenith; logged as unattested rather than invented.
+Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 ---
 

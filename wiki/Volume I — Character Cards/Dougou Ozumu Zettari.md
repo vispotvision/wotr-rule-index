@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8188-874c-cd1618236e50"
 notion_url: "https://app.notion.com/p/Dougou-Ozumu-Zettari-3b158200eb228188874ccd1618236e50"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:04:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Dougou Ozumu Zettari
 
+**Say it** · DOH-goo oh-ZOO-moo zeh-TAH-ree
 **The Iron Bison — He Whose Stillness Is the Warning**
 > *Founder of the True Iron Bison*
 
@@ -17,8 +18,9 @@ verification: null
 
 ## Identity
 
-| **Race / Lineage** | Zettari-Blooded · Demonic Strain · **Atlazon-Seeded Vessel** |
+| **As Of** | After his death, kept in the Paths |
 |---|---|
+| **Race / Lineage** | Zettari-Blooded · Demonic Strain · **Atlazon-Seeded Vessel** |
 | **Faction** | Zettari Bloodline — posthumously acknowledged sovereign |
 | **Standing** | **Deceased. Ascended into the Paths** |
 
@@ -55,7 +57,7 @@ verification: null
 
 ## Physical Force and Aether Flow
 
-**Strike Force** · 80,000 N casual / **up to 12,000,000 N, 8–20 MJ, at apex contact**
+**Strike Force** · **up to 7.326 GJ at apex contact (Kokushin Gyūha, 7,400 EU at η 0.99), B-Grade (Kokushin Gyūha, 7,400 EU at η 0.99), B-Grade**
 **Durability** · 100,000 J baseline / up to 8 MJ in True Iron Bison state
 **Speed** · 20–40 ms baseline reaction / **800–1,200 mph apex burst**
 **Range** · 0–3 m primary / **up to 3 km Domain-Precursor radius at full True Iron Bison**
@@ -90,10 +92,10 @@ verification: null
 
 | Technique | Cost | Function | Counterplay |
 |---|---|---|---|
-| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 1–5 MJ contact threat | Precision strikes into fracture-lines |
+| **Ozumu no Katachi** *Form of Accumulated Crush* | 4,800 EU | **Every surface becomes a loaded striking point.** 4.752 GJ contact threat (4,800 EU at η 0.99), B-Grade (4,800 EU at η 0.99), B-Grade | Precision strikes into fracture-lines |
 | **Juuretsu** *Binding Weight* | 6,200 EU | **Forces terrain to recognise heavier law.** 5–20 m focused, up to 1 km at apex | Airborne attrition, refusing ground contact |
-| **Tetsu no Arashi** *Iron Bison's Charge* | 8,900 EU | 250–600 mph forward vector | Lateral redirection, terrain denial |
-| **Kokushin Gyūha** *Black-Heart Bison Break* | 7,400 EU | **Compressed force sent inward through armour, stone or Domain structure.** 5–12 MN | Spatial bypass, Spirit Path severance |
+| **Tetsu no Arashi** *Iron Storm* | 8,900 EU | 250–600 mph forward vector | Lateral redirection, terrain denial |
+| **Kokushin Gyūha** *Black-Heart Bison Break* | 7,400 EU | **Compressed force sent inward through armour, stone or Domain structure.** 7.326 GJ (7,400 EU at η 0.99), B-Grade | Spatial bypass, Spirit Path severance |
 | **Nanatsu no Fūin** *Sevenfold Seal Compression* | 14,000 EU | Locks all seven chambers at maximum compression. Massive durability, **near-zero leakage** | Forced overload — **and emotional breach, the one vector this technique cannot seal against** |
 | **Shinsei Tetsugyū** *True Iron Bison* | Apex state | Closed-world body engine. 800–1,200 mph burst | Void and anti-recognition fields **that deny chamber circulation entirely** |
 

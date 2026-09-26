@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8182-8399-de287a92c776"
 notion_url: "https://app.notion.com/p/The-Four-Ceilings-3b158200eb2281828399de287a92c776"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Lore & History", "Trade & Economy"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-26T14:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -235,15 +235,19 @@ No new ceiling has fallen in seventy years. The Guild records this without comme
 
 ## VIII. The Sixth Ceiling
 
-*Named last because it fell last, outside the Accord, and against the whole argument of this document.*
+*Named last because it fell last, and fell to the main itself, which is the whole argument of this document carried out along a road.*
 Five ceilings and the reasons they fell are given above. **There is a sixth and nobody counted it, because for eleven centuries it did not look like a ceiling. It looked like the road.**
 **Traction.** An array is fixed infrastructure. It is fed from a vein or a main, tended in place, and **nothing that moves can be plumbed.** Weight Ablation lies to a rope about a load and supplies no motive power whatsoever. Spatial translation of ore was tried, costed and abandoned, and moving rock through Spatium remains dearer per ton than moving it up a rope. So the problem of shifting a great weight a long distance overland stayed exactly where it had been since the first cart: horses, the road, and the weather.
-> **It fell to a steam engine on rails, and this document's argument is the reason that sentence is startling.**
+> **It fell to the main, laid on its side.** A railway is conduit sealed into the bed between the rails, and the engine rides a hand's breadth above it and couples to it by Transference, the Spatium law of two tuned oscillators exchanging energy across a gap with no conductor between them.
+> 
+> There is no steam engine in any mine, forge or mill in the four quarters, and there is none on the rails either, because the problem a boiler was going to solve was solved by the main before anybody built one. **Nothing that moves can be plumbed. A road can be, and the engine moves along the plumbing.**
+> 
+> *It is an Accord technology in every respect that matters: laid under a Board's charter, metered at every section, and cut from the signal box like a house at its junction.* **It solves the one ceiling Essence took longest to reach, and it solves it by carrying the tariff to every town on the line.**
 >
 > There is no steam engine in any mine, forge or mill in the four quarters and there never will be, because every problem a stationary engine was going to solve had been solved by array before anybody thought to build one. **Traction is the one problem no array ever touched**, and it is therefore the one place a boiler had a reason to exist.
 >
 > It burns coal, carries its own water, answers to nobody's supply grade and does not care what the local density is doing. *It is not an Accord technology and was not built by anyone the Accord would call an engineer.* **It solves the one ceiling Essence never reached, for people who have never held a rank token.**
-**What follows from that has not been costed.** Every other ceiling in this document fell to an array and deepened the western dependency in the same motion. This one falls the other way. A rail head reaching a district brings coal, and coal heats a district without drawing anything at all, **and a Board facing a rail head is negotiating for the first time in seven hundred years.**
+**What follows from that has not been costed.** Every other ceiling in this document fell to an array and deepened the western dependency in the same motion. This one deepened it furthest. A rail head reaching a district brings the main with it, every town on the line becomes a town on somebody's tariff, **and a Board with a line through its country is negotiating with every station on it.**
 > *The Logistics Division records rail as a haulage convenience. The Guild records that a haulage convenience is what the Water Ceiling looked like in Year 88.*
 
 ---
@@ -268,7 +272,7 @@ So the settlement is jurisdictional rather than technical. **Crowns field powder
 | **Air** | Wherever water no longer did | Circa 150 to 175 IC, Vectoria draught arrays | Funded by the bodies the pumps produced |
 | **Haulage** | Since the first rope | **Never fell** | Weight Ablation glyphwork lies about the load; the industry is built around it |
 | **Heat** | At the charcoal limit, every age preceding | Circa 260 to 310 IC, Ignivale and Pyraeon forge-arrays | Produced everything above T4, and the wolfram and chromite dependency beneath it |
-| **Traction** | Since the first cart. Never named as a ceiling | Late Withering Era, to a boiler on rails, **outside the Accord entirely** | The only ceiling whose fall reduces the western dependency rather than deepening it. Uncosted |
+| **Traction** | Since the first cart. Never named as a ceiling | In the first generation of the mains, to the drawn line: a main in the rail bed and an Essence engine coupled to it by Transference | The ceiling whose fall carried the western dependency furthest, to every town on a line. Uncosted |
 
 ---
 

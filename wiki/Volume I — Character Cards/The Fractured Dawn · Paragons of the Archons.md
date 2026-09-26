@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c7-a80a-ded610a0bb5f"
 notion_url: "https://app.notion.com/p/The-Fractured-Dawn-Paragons-of-the-Archons-3d958200eb2281c7a80aded610a0bb5f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:11:00.000Z"
+last_edited: "2026-09-26T09:02:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## The Fractured Dawn · Paragons of the Archons
 
+**Say it** · the FRAK-cherd DAWN · *Archons* AR-konz
 > **This source is not a character card.** It is a Volume-level pitch outlining twelve unbuilt characters (the Paragons) plus four factions and a plot skeleton — none of them carry a Stage, Level, Wellspring, or a single stat. The character brief's ten-section, one-practitioner format has no slots to fill here, so no numbers are invented and none are marked "pending Isaac": there is nothing on this source to derive a number from, for any of the twelve. What follows converts the ensemble's *premise* onto current canon and flags what changed; **each of the twelve Paragons still needs its own full character card, built the ordinary way, once given to a person.**
 > 
 > **The one substantial finding:** the card's "12 Archons" is not twelve invented names. Checked against `wiki("Fourteen Archons")`, all twelve — Urion, Uurgath, Maelor, Zhaeren, Irath, Veyra, Iesara, Kaetra, Wyther, Auren, Selhar, Elyndra — are real, and every one of the card's six pairings (Maelor/Zhaeren, Irath/Veyra, Iesara/Kaetra, Wyther/Auren, Selhar/Elyndra, plus the Urion/Uurgath Dyad) matches the canon Pantheon's own six Dialectical Pairs exactly, domain for domain. **Current canon has Fourteen Archons, not twelve** — Thalen (Form) and Valen (Time) simply have no Paragon in this story, which needs no fix, only a note that two seats are empty rather than nonexistent. **Tyzura Tyurkia, "Archon of Spirits," does not fit anywhere in the Fourteen** — no fifteenth seat exists, and "Spirits" is not a domain any Archon holds (the nearest is Auren's Death/Passage, already spoken for by a Paragon in this same story). Tyzura is kept, since Act III cannot run without a returning elder witness, but is **reclassified from Archon to World Spirit** — an attested Stage XIV/Zenith Continuum-recognition threshold, not a cosmological seat — which preserves his age, exile and authority without adding a fifteenth Archon. The Wellspring named **"Hollow Veil" does not exist among the Sixty**; the nearest real match by name and by law is **Nihiloth, The Hollow Law** (Limina — Entropy, Void and Mind), and the inciting rupture is converted to that Wellspring. **"Zettai" is corrected to Zettari**, the attested bloodline. The Ordained, the Archive of Eastward Islands, the Kazuren Clan, the Hunter's Veil, the Ashfang Accord, the Verdant Covenant, Altherion, Babyl, Nevera, the Praetorian March, the Zarnthian Kingdom, and Anguz returned no hits against the wiki and are **unattested in current canon**; each is kept because the plot names no substitute, and each would want its own verification pass before the volume is built out. **Eresse and Iampu are attested** and needed no change. The Regency of Mireya — struck 2026-09-12; the name never attached to a real place — is dropped from the list above and from Auren's Paragon row.

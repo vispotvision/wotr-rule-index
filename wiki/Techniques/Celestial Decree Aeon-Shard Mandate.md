@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8197-be75-f5a6d190046f"
 notion_url: "https://app.notion.com/p/Celestial-Decree-Aeon-Shard-Mandate-3d958200eb228197be75f5a6d190046f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:32:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis manifests a rotating crystalline shard built from ten Wellspring laws held in simultaneous contradiction, and the shard attacks by unmaking, defends by rebuilding, or unsettles by dissolving into dream-mist, depending only on what she intends when it awakens.
+**Effect · The practitioner manifests** a rotating crystalline shard built from ten Wellspring laws held in simultaneous contradiction, and the shard attacks by unmaking, defends by rebuilding, or unsettles by dissolving into dream-mist, depending only on what she intends when it awakens.
 **Cost** · Sustained use exhausts the harmonics that keep her ten Wellsprings integrated, risking a partial Temperance shear or a flattening of her own affect; prolonged projection risks her own mind bleeding into the shard's judgment-logic until she is thinking in its fractal patterns rather than her own.
 **Limit** · It cannot hold two contradictory shard-states at once across a wide area; destruction and restoration will not run simultaneously at scale.
 **Counter** · Another Stage XII practitioner can force the shard into a contradictory harmonic state through direct law interference; pure Verdantia resists its Cataclysm and Tarturon vectors outright, and a sufficiently massive Petralon-aligned entity can simply outweigh the collapse beam.
@@ -43,7 +43,7 @@ verification: null
 
 ### Origin
 
-The Mandate is Opalis's own self-derived technique and requires Stage XII; anyone who has not seen it meets it in full the first time it is used against them.
+The Mandate is a self-derived technique and requires Stage XII; anyone who has not seen it meets it in full the first time it is used against them.
 
 ---
 

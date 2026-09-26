@@ -4,13 +4,13 @@ notion_id: "3b158200-eb22-8107-8b16-e50e291bb8e4"
 notion_url: "https://app.notion.com/p/The-Bestiary-3b158200eb2281078b16e50e291bb8e4"
 section: "Bestiary"
 tags: ["Bestiary", "Reference Table", "Peoples"]
-last_edited: "2026-09-26T04:15:00.000Z"
+last_edited: "2026-09-26T10:03:00.000Z"
 verification: "unverified"
 ---
 
 # The Bestiary
 
-*Forty-two attested creatures · Spirit-born, Draconic, Natural, Aberrant, Undying, and Divine*
+*Fifty attested creatures · Spirit-born, Draconic, Natural, Aberrant, Undying, Divine, and Well-bred*
 > Every entry answers the same eleven questions, and **the order of the questions is itself a doctrine.** Origin before appearance. **Essence Affinity before abilities.** Weaknesses in the same breath as powers.
 >
 > **A field guide that tells you what a thing can do without telling you what feeds it has told you nothing.**
@@ -21,7 +21,7 @@ verification: "unverified"
 
 | **Names** | The High or Old Parunic form, plus whatever the people who actually live near it call the thing. **The two are rarely complimentary of each other** |
 |---|---|
-| **Type** | Spirit Beast · Draconic Lineage · Natural Beast · Aberration · Undying · Construct · Divine or Archonic Beast · Elemental · Hybrid |
+| **Type** | Spirit Beast · Draconic Lineage · Natural Beast · Aberration · Undying · Construct · Divine or Archonic Beast · Elemental · Well-spawn · Hybrid |
 | **Origin** | Which Age, which Wellspring convergence, and **which Archon or Titan is credited** — credit being a matter of tradition rather than record in most cases |
 | **Essence Affinity** | The Wellspring current the creature runs on. **This is the operative field.** Everything the thing can do and every way it can be beaten follows from it |
 | **Realm Affiliation** | Where it is native and where it has been recorded straying |
@@ -36,11 +36,11 @@ verification: "unverified"
 
 | Tier | Designation | Attested |
 |---|---|---|
-| **T2** | Minor / Moderate Threat | Zombies · Tanuki |
+| **T2** | Minor / Moderate Threat | Zombies · Tanuki · Tinder-fox · Levelling Leech |
 | **T3** | Moderate Threat | Greater Wolf · Sasquatch · Dryads |
-| **T4** | High Threat | Unicorn · Harpy · Skeletal Folk · Neiman Lion · Psy-Apes · Ghouls · Bai Ze · Hippogrif · Siren · Pegasus |
-| **T5** | Extreme Threat | Bicorn · Griffon · Goliath · Raiju · Lamia · Living Armor · Minotaur · Cyclops · Basilisk · Cockatrice · Hellhound · Manticore |
-| **T6** | Domain Threat | Wyvern · Sea Serpent · Arachne · Wendigo |
+| **T4** | High Threat | Unicorn · Harpy · Skeletal Folk · Neiman Lion · Psy-Apes · Ghouls · Bai Ze · Hippogrif · Siren · Pegasus · Glarewing · Reaching Briar |
+| **T5** | Extreme Threat | Bicorn · Griffon · Goliath · Raiju · Lamia · Living Armor · Minotaur · Cyclops · Basilisk · Cockatrice · Hellhound · Manticore · Sump-toad · Tolling Crab · Mourning Pike |
+| **T6** | Domain Threat | Wyvern · Sea Serpent · Arachne · Wendigo · Lamp-drinker |
 | **T7** | Realm Hazard | Wyrm · Night Gaunt · Gorgon · Phoenix |
 | **T8** | Cataclysmic Entity | Hydra · Voidwyrm · Cerberus |
 | **T9** | Apocalyptic Beast | **Leviathan · Lich · Kraken** |
@@ -71,7 +71,8 @@ Six pages, grouped by Type. **Spirit Beasts** · **The Draconic Lineage** · **N
 - [The Undying and the Constructs](The Bestiary/The Undying and the Constructs.md)
 - [Divine, Archonic and Elemental](The Bestiary/Divine, Archonic and Elemental.md)
 
-### The bound
+### The bound and the bred
 
-*The six pages above catalogue what exists. This one catalogues what was called — and a called thing is a different kind of entry, because somebody is answerable for it.*
+*The six pages above catalogue what exists. The two below are different kinds of entry. A called thing has somebody answerable for it. A Well's get has nobody answerable for it, and is every delver's problem.*
 - [Summoned and Bound](The Bestiary/Summoned and Bound.md)
+- [Well-spawn](The Bestiary/Well-spawn.md)

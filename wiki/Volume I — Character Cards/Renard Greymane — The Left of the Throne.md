@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-8133-a516-c8f8f91e0b1c"
 notion_url: "https://app.notion.com/p/Renard-Greymane-The-Left-of-the-Throne-3ba58200eb228133a516c8f8f91e0b1c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Renard Greymane — The Left of the Throne
 
+**Say it** · REN-ard GRAY-mayn
 *Bram's Cousin · The Left of the Throne · The Ridge's Guard*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Renard Greymane
+> **Age:** 26 · **House:** Greymane (Stormfold)
+> **Level:** 198 · **Stage:** IV Temper · **Band:** II
+> **Role:** Personal guard to Hild Ice, stationed at the left of the broken throne
+> The Greymane function: be the thing between the throne and the threat.
 > **Age:** 26 · **House:** Greymane (Stormfold)
 > **Level:** 198 · **Stage:** IV Temper · **Band:** II
 > **Role:** Personal guard to Hild Ice, stationed at the left of the broken throne

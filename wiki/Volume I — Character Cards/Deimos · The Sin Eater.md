@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81cd-b749-f3ddacf7482b"
 notion_url: "https://app.notion.com/p/Deimos-The-Sin-Eater-3bd58200eb2281cdb749f3ddacf7482b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T08:42:00.000Z"
 verification: null
 ---
 
 # Deimos · The Sin Eater
 
+**Say it** · DAY-mos
 > *He arrives not as savior, but as consequence walking.*
 > **Invented Stage name.** The card reads **"Stage IX — Reflection."** *Reflection is not among the sixteen; Stage IX is Invocation.* Numeral stands.
 >

@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81b4-9964-f24b36c73717"
 notion_url: "https://app.notion.com/p/Yorime-Seikai-3b258200eb2281b49964f24b36c73717"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Yorime Seikai
 
+**Say it** · yoh-REE-meh SAY-ky
 *The Gilded Veil · The Quiet Executor · The Woman Who Stayed · The Last Hand on Iron · Card 12*
 > ***She Who Held the Monster Without Claiming Him***
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity and Core Profile
 
+**As Of** After Dougou's death, his core still unclaimed
 **Race / Lineage** **Pureblood Seikai / Ashuric Bloodline** · **Faction** Seikai Boundary Remnant, Current Era
 **Temperance Stage** **XII — Emanation**
 > Dougou Ozumu Zettari's significant other, born from **the Ashuric line of Boundary custodians.** Her blood was shaped for **Claim, severance, Null-Light, and the policing of stolen Essence between the Living and Dead realms.**

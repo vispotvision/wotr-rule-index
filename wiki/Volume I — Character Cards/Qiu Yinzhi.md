@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-816d-a322-ca88ed8aa66b"
 notion_url: "https://app.notion.com/p/Qiu-Yinzhi-3e358200eb22816da322ca88ed8aa66b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Qiu Yinzhi
 
+**Say it** · CHYOH YIN-jih
 *Night Watch Society, Timberline chapter. Coil-carrier. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** After the Ferriby tin was opened on Cutler Row
 **Name.** Qiu Yinzhi. Lineage-hall register (Chinese stratum): surname Qiu. Generation character, given character and courtesy name not yet on the page; she writes the full form onto Wystan's docket at the close of the scene.
 **Age.** Twenty-three. Capped eight months.
 **Line.** Measurewright lineage; artificer's apprentice.

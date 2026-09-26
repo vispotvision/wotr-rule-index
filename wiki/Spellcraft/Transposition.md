@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ca-9c1f-da432e6fcefb"
 notion_url: "https://app.notion.com/p/Transposition-3d958200eb2281ca9c1fda432e6fcefb"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:46:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -42,7 +42,7 @@ verification: null
 ### Origin
 
 **Origin** · Soulguarding orders are said to have used it in the Great Spirit War to place themselves inside condemned vessels, and Echo Constructs, soul-lattice bodies preloaded with Transposition scripts, came out of the same practice. The Fall of the Fourth Prince of Rovann and the Dancer-Priests of Ilcin'dor belong to its history.
-**Practitioners** · Velcrissa of Selantra; Zeven Halek and his combat partner Cylus; Thalorath the Gatewrought; the Red Twins of Dorrosfenn; the soulguarding orders.
+**Practitioners · Solitary adepts, paired combat partners and twin practitioners; the soulguarding orders.**
 
 ---
 

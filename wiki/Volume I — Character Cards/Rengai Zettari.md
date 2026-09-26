@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-8104-9b61-d1030007ea92"
 notion_url: "https://app.notion.com/p/Rengai-Zettari-3b258200eb2281049b61d1030007ea92"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Rengai Zettari
 
+**Say it** · ren-GY zeh-TAH-ree
 *He Who Smiles Through the Cinders · Dougou's Son · The Red Ember · Card 16*
 > 
 > > **Ash remains. Everything else is temporary.**
@@ -20,6 +21,7 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** Cozbi's captive, after the Sovereign fell at Kharven
 **Lineage** Human · Zettari Bloodline · **Dougou's direct son** · **Age** ~20s · **Sex** Male
 **Standing** Active under Zettari observation — ***developing ash combat separate from Dougou's brutality***
 | **Level / Stage** | **250 / 500** · Band III — Sovereign Approach · **Stage VII — Refraction** · Tier of Standing **5, Expert** |
@@ -120,6 +122,20 @@ Tan-brown skin, heat-scarred at jaw, neck and hands, **with a faint metallic she
 **Dougou's Ember Bead** · inherited warning marker — ***burns red when the ash field overloads or Cinder Lung approaches critical.***
 
 ---
+
+### Voice
+
+**Notices first** · Where a blow would have to land: the soft joint, the seam, the unarmoured underside. Then the child in the room.
+**Sentence length** · Medium and plain, set down like weights rather than asked, with silence left to work between them and a dry line at the end.
+**Contractions** · always; he talks like a man with nothing to prove.
+**Pet word** · "Understood?" closing an instruction; "if I'm honest" when he puts his thoughts in order.
+**Never says** · A certainty he has not earned, to an enemy, an ally or least of all a child; he swallows the sentence instead. He never boasts of his father's legend or his own.
+**Stumbles** · Never. He holds a sentence back whole rather than stumble on it.
+**Gloss rights** · Only for a read: what he has seen in a fight or a body, said plainly. Never the theory of it.
+**Under stress** · The lines shorten and slow further; the silences between them lengthen, and the heat shows as ash lifting off his shoulders and a brighter red eye, never as volume.
+**In grief** · The sardonic edge goes and his father's way of speaking comes back: names said flat and unornamented, as the boy at the edge of the flattened ground heard them.
+**In joy** · The voice stays dry; the joy is in the corner of his mouth and his shoulders easing by one degree ("Insufferable old man," with no heat left in it).
+**Sample line** · "That doesn't make what you did to a two-year-old anything other than what it was."
 
 ## XVI–XVIII · History, Temperance, Fractures
 

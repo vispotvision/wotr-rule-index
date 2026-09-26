@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817f-b32a-d49477acb8ea"
 notion_url: "https://app.notion.com/p/Bastion-Imperium-3d958200eb22817fb32ad49477acb8ea"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:32:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Drakvor anchors himself in place; the ground beneath him stabilises into a metaphysical bulwark, he becomes immovable within a 10-metre stance, and any force below the Stage's own threshold loses power against him.
+**Effect · The practitioner anchors himself** in place; the ground beneath him stabilises into a metaphysical bulwark, he becomes immovable within a 10-metre stance, and any force below the Stage's own threshold loses power against him.
 **Cost** · Severe Aether compression through his legs and spine while the stance holds, and real fatigue once he releases it.
 **Limit** · He cannot move at all while the working is active; stepping out of the stance ends it.
 **Counter** · Anti-structure Wellsprings, a Sublimatio-worked destabilisation of the ground itself, or anything airborne defeats the bulwark, since it is a ground-anchored working with no answer for anything that never touches the ground it commands.
@@ -37,7 +37,7 @@ Governing Primary: Resilience, off Coagula's Resilience Integrity and Tempering 
 
 ### Origin
 
-Drakvor derived this himself, out of the doctrine "a king first commands himself." Read alongside Edict Strike, both signature techniques argue the same conviction, that command over the self comes before command over anything else. As a self-derived technique, it is met live, in the exchanges that use it.
+Its author derived this alone, out of the doctrine "a king first commands himself." Read alongside Edict Strike, both signature techniques argue the same conviction, that command over the self comes before command over anything else. As a self-derived technique, it is met live, in the exchanges that use it.
 
 ---
 

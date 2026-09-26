@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81e6-8d9e-c08cf323219f"
 notion_url: "https://app.notion.com/p/Aurevian-Lysanthir-Voice-Between-Wars-3bd58200eb2281e68d9ec08cf323219f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Aurevian Lysanthir · Voice Between Wars
 
+**Say it** · aw-RAY-vee-an lih-SAN-theer
 > *"A single note, struck at the right time, can end a war… or start one."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of Auric Flow: *listeners' Essence aligns with his Temperance cycle, creating a shared harmonic field.* **Pulling other practitioners into your own cycle is Stage VIII work.**
 > **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
@@ -20,6 +21,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the questioning at the Pale Court
 **Name** · Aurevian Lysanthir. **Titles** · **The Velvet Chord.** Harpist of the Unbound Accord · **Voice Between Wars.**
 **Role** · **Arbitration Division Negotiator. Harmonic Manipulator. Bardic Thaumaturge.**
 

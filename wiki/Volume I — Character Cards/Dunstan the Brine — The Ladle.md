@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-8125-87bd-f7c96f77d80a"
 notion_url: "https://app.notion.com/p/Dunstan-the-Brine-The-Ladle-3ba58200eb22812587bdf7c96f77d80a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:05:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Dunstan the Brine — The Ladle
 
+**Say it** · DUN-stan
 *The Ladle · The Man Who Feeds the War*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Dunstan the Brine
+> **Age:** Indeterminate (40–60) · **Origin:** Concord
+> **Level:** 15 · **Stage:** 0 (unpracticed) · **Band:** 0
+> **Role:** Cook, quartermaster, provisions officer for the Kokan expedition
+> The cook's oath keeps everyone else alive long enough to fulfil their own oaths.
 > **Age:** Indeterminate (40–60) · **Origin:** Concord
 > **Level:** 15 · **Stage:** 0 (unpracticed) · **Band:** 0
 > **Role:** Cook, quartermaster, provisions officer for the Kokan expedition

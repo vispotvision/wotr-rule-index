@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-813e-a5d3-e2161752a25f"
 notion_url: "https://app.notion.com/p/Draven-Kael-Vorrick-The-Beast-Slayer-3bd58200eb22813ea5d3e2161752a25f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Draven Kael Vorrick · The Beast Slayer
 
+**Say it** · DRAY-ven KAYL VOR-ik
 > *"If it breathes, it bleeds. If it bleeds, I can end it."*
 
 ---
 
 ## I · Identity
 
+**As Of** · After the Cymorath Distortion Hunt
 **Name** · Draven Kael Vorrick. **Called** · **The Ashfang. Winter's Maw.** The Black-Braid Hunter · Wellspring Raider · **Keeper of the Vorynn Trials.**
 **Epithet** · ***If It Breathes, I Can End It.***
 **Race** · **Primal-Bound Mortal**, Vorynn Bloodbind Lineage, **attuned to the Titan Vohrin's cold laws.**

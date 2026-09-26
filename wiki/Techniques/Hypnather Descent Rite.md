@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a5-b868-ec33d20c359f"
 notion_url: "https://app.notion.com/p/Hypnather-Descent-Rite-3d958200eb2281a5b868ec33d20c359f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:36:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Aeldoris forces a target's Crystal toward a rest-state relaxation it never consented to enter, then interrupts it mid-collapse. The body slows, the memory fogs, and for a moment the target is seeing something that is not in the room.
+**Effect · The practitioner forces** a target's Crystal toward a rest-state relaxation it never consented to enter, then interrupts it mid-collapse. The body slows, the memory fogs, and for a moment the target is seeing something that is not in the room.
 **Cost** · **Sleep Debt.** Running three interrupted processes through his own Shell at once destabilises his own waking mind. **Memory Backlash** risks pulling some of the target's own fear or trauma back through him in the process.
 **Limit** · Needs a target with an actual biological consciousness capable of genuine rest in the first place; nothing without that architecture has a relaxation process to interrupt. Needs line-of-sight, to keep the forced trajectory pinned to one body rather than letting it dissipate the way an honest Oneirion working would.
 **Counter** · **It needs its target quiescent: Hypnather's own law states the reorganisation happens during genuine rest and cannot be forced, and** *a hard enough shock breaks the rest-state precondition before the lock sets.*
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Aeldoris is the rite's sole practitioner, and its philosophy states its purpose: descent reveals what a target fears the instant they blink.
+The rite has a single known practitioner, and its philosophy states its purpose: descent reveals what a target fears the instant they blink.
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8183-817e-cc1a61adee53"
 notion_url: "https://app.notion.com/p/The-Core-Vocabulary-3b158200eb228183817ecc1a61adee53"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T03:50:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -105,7 +105,7 @@ verification: "unverified"
 **Trait** · A standing law held in the Essence Core, formed when lived experience hardens into a statement the Continuum accepts as reliable. Survived into existence, never taught. A Trait belongs to the soul; the Soul Crystal only arms it.
 **The Four Reflections** · **Primary**, the innate law, present from birth and never removable. **Secondary**, forged by trauma or decision, conditional, expensive to fire. **Inherited**, written into the Core before the Core had a self to consent with, and governed by Tempering Maturity. **Passive**, stabilised by long habit, always running, cheapest and most identifying. **Compound** Traits fuse two or more into one law. **Higher-Imprint** Traits are marked by an Archon, a Titan or a World Spirit Realm and behave as miniaturised Principles.
 **Trait tissue** · The bodily expression of a Trait. A Trait biases the Aether Shell's conductivity permanently, and because the Shell is the Material-Plane layer, the bias is laid down in flesh: mineral into bone, altered myelination, rebuilt vasculature, a resting core temperature off the population mean. Trait tissue heals on the wrong schedule in both directions, which is what makes it diagnostic. A body is a Trait record and a corpse is a better one.
-**Class Ø · the Dormant** · A soul whose Crystal has not opened and, in the overwhelming majority of cases, never will. Class Ø souls carry Traits like anyone else. They lack only the organ that would arm them.
+**Class Ø · the Dormant** · A soul whose Crystal has not opened and, in the overwhelming majority of cases, never will, because nobody trains it. Class Ø souls carry Traits like anyone else. They lack only a woken Crystal to arm them.
 **The Weathering** · Refinement under strain without a melt. The soul hardens in place along the direction it was already being used, rather than liquefying and recasting. Produces real strengthening of what a person already was and no capacity to become anything else. The universal process for Class Ø souls and the standing background process for everyone.
 **Grain** · The common word for what the Weathering produces. A man is said to have grain, or to be *set*. Borrowed from the joiners, the same word the halls use for a Crystal's seat.
 **Nucleation** · What decides the outcome of a Threshold. A melt cools into order only around structures that survived the heat, and in a Soul Crystal the only such structures are Traits, because a law the Continuum has accepted as reliable does not stop being reliable at temperature. Strain gets a soul to the melt. Nucleation decides what the melt produces.

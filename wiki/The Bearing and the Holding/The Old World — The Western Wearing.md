@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8150-9ba0-c911e21c22e9"
 notion_url: "https://app.notion.com/p/The-Old-World-The-Western-Wearing-3b158200eb2281509ba0c911e21c22e9"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-12T20:04:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: "unverified"
 ---
 
 # The Old World — The Western Wearing
 
+**Say it** · the OHLD WURLD
 *The Western Wearing*
 > **The root of a mountain belt that no longer exists.** The most geologically generous ground in the four quarters, and the most thoroughly emptied.
 

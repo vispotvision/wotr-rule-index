@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8113-accc-f58b73c91da6"
 notion_url: "https://app.notion.com/p/Kaelan-Vorn-The-Axiomatic-Sovereign-3d958200eb228113acccf58b73c91da6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaelan Vorn · The Axiomatic Sovereign
 
+**Say it** · KAY-lan VORN
 > *"Discipline is the only true currency of the cosmos. All else is merely noise before the silence."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Ordas envoy went to Halcrest
 **Name** · Kaelan Vorn. **Called** · The Axiomatic Sovereign. **Also** · The Silken Chain · The Temperer of Law · The Void's Advocate.
 **Epithet** · He Who Writes Mercy in Ash.
 **Role** · **Conceptual Executioner. Living anchor of Law. Judge of a nobility he does not know he was born to.**
@@ -113,7 +115,7 @@ Nominally the **Edict of Urion**; functionally independent, since he holds Cosmi
 
 ### IX · Relationships
 
-**Archon Urion** · **Nominal association.** *He believes himself gifted by the Balancer of Scales. Sanctum Lux would tell him Urion does not give.*
+**Archon Urion** · **Nominal association.** *He believes himself gifted by the Balancer of Scales. Sancta Lux would tell him Urion does not give.*
 **The Edict of Urion** · Nominal service. He considers Cosmic Law superior to Archon authority.
 **The Aetheric Nobility** · **He judges and reviles them.** *The card seals that he is one of them.*
 **Everyone else** · Few. Nearly all ties severed by emotional nullification.
@@ -155,7 +157,7 @@ He was gone before the house laid the body on a bier in its courtyard and began 
 
 Kaelan Vorn is active within the Zenith Citadel, a suspended fortress held in perpetual stasis. The Manganthra Stasis stands on his record too: a kingdom and its capital, sealed in a loop. No record places either.
 He is also called He Who Writes Mercy in Ash, a name Francis Alexander and Aeldoris Vanthryx carry as well. He claims a law over all reality that would end the War by enforced peace. His loops stay small pockets, and the field is a claim. The other road his record allows ends with a loop closing over him, and Kaelan at its centre, a pillar of Law.
-He still believes Urion gifted him. Sanctum Lux holds that Urion is a reference and gives nothing. No Lector has told him.
+He still believes Urion gifted him. Sancta Lux holds that Urion is a reference and gives nothing. No Lector has told him.
 The elder's house at Ordas wants him answered for. Its envoy went north to Halcrest and asked Aeldoris Vanthryx to convene his Court on him. The hunter declined, because the strike had been made in the open. Kaelan knows nothing of it, and the house's want stands.
 The power in him is an inheritance, and the day he learns so, the anchor breaks. Nobody knows who his parents were. The answer is the one thing his stillness cannot survive.
 
@@ -167,7 +169,7 @@ The power in him is an inheritance, and the day he learns so, the anchor breaks.
 - **Francis Alexander · The Crimson Dirge of Atonement** · one epithet, and Urion's defier. Francis defied Urion at the Irath Concord, Kaelan serves Urion's Edict in name, and no record puts them in one place.
 - **Aelum · The Pale Hierophant** · a legend, never met. Kaelan read of the Hierophant's held crown at his academy.
 - **Ameiya Solvain · Rain of the Bound Sky** · Vantabriel. His Severing bears the name of a Wellspring Ameiya sealed.
-- **Archon Urion** · nominal association. Kaelan believes the Balancer of Scales gifted him, and Sanctum Lux holds that Urion does not give.
+- **Archon Urion** · nominal association. Kaelan believes the Balancer of Scales gifted him, and Sancta Lux holds that Urion does not give.
 - **The Edict of Urion** · nominal service. He serves it in name only.
 - **The Aetheric Nobility** · judged, and his own. He judges and reviles them, and he was born one of them without knowing it.
 - **The elder's house at Ordas** · the executed elder's kin. They sought a hunter to set on him and found none.

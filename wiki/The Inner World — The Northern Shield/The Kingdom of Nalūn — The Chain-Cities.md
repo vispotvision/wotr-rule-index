@@ -4,12 +4,13 @@ notion_id: "3bc58200-eb22-81fd-b919-d4493bde5145"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Nal-n-The-Chain-Cities-3bc58200eb2281fdb919d4493bde5145"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T05:38:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
 # The Kingdom of Nalūn — The Chain-Cities
 
+**Say it** · nah-LOON
 *The Chain-Cities of the Northern Shield Basin*
 > **Take the tunnels and you hold rock. The value is in the seals, and the seals answer to the Wellsprings, and the Wellsprings do not recognise occupation.**
 > — *Every serious military assessment of the chain-cities in the last two centuries, arriving at the same paragraph*

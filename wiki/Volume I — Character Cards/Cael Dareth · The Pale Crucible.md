@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e1-b9a8-c67d08c6a7f0"
 notion_url: "https://app.notion.com/p/Cael-Dareth-The-Pale-Crucible-3d958200eb2281e1b9a8c67d08c6a7f0"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:41:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Cael Dareth · The Pale Crucible
 
+**Say it** · KAYL DAIR-eth
 > *"Alchemical prayer,"* he calls the recitations.
 
 ---

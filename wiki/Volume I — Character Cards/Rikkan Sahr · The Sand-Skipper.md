@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8124-a5bc-ce786ef2d73e"
 notion_url: "https://app.notion.com/p/Rikkan-Sahr-The-Sand-Skipper-3bd58200eb228124a5bcce786ef2d73e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T08:57:00.000Z"
 verification: null
 ---
 
 # Rikkan Sahr · The Sand-Skipper
 
+**Say it** · RIK-an SAHR
 > *"If you see dust on the horizon, it's either a storm or me. And I'm worse for whoever's chasing you."*
 > **The card states no Temperance Stage.** **Stage VI — Glory assigned and flagged as originated.** *"Wind / Sand / Luck"* were not Essence types.
 >

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a8-a663-ca20efda6a0d"
 notion_url: "https://app.notion.com/p/Seraphine-Kharza-Ten-Thousand-Hands-3d958200eb2281a8a663ca20efda6a0d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T08:59:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Seraphine Kharza · Ten Thousand Hands
 
+**Say it** · SAIR-ah-feen KAR-zah
 > *"Let help remember the shape of itself."*
 
 ---

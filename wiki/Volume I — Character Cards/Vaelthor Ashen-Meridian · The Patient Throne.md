@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813f-ac99-e3e3309a2f2b"
 notion_url: "https://app.notion.com/p/Vaelthor-Ashen-Meridian-The-Patient-Throne-3d958200eb22813fac99e3e3309a2f2b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:37:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Vaelthor Ashen-Meridian · The Patient Throne
 
+**Say it** · VAYL-thor ASH-en-meh-RID-ee-an
 > *"I didn't betray you. I simply waited until you betrayed yourself, and then I wrote it down."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Four implants from the vote
 **Name** · Vaelthor Ashen-Meridian. **Called** · The Grand Arbiter of the Unseen Accord, the Patient Throne.
 **Role** · **Fallen Acolyte of Dominion. Convergent Synthesist. Arbitration-Division Infiltrator.**
 

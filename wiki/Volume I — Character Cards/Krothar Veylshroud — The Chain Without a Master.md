@@ -4,11 +4,13 @@ notion_id: "3b358200-eb22-8181-8e55-daf152e981e5"
 notion_url: "https://app.notion.com/p/Krothar-Veylshroud-The-Chain-Without-a-Master-3b358200eb2281818e55daf152e981e5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Krothar Veylshroud — The Chain Without a Master
+
+**Say it** · KROH-thar VAYL-shrowd
 
 ### The Chain Without a Master · Crimson Order Hobgoblin · Divergent Path · Soul-Chain Practitioner
 
@@ -16,6 +18,7 @@ verification: null
 
 ### I. Identity
 
+**As Of:** The Scourge of Hell, after he let Sodoku pass
 **Full Name:** Krothar Thunn-Gorr, called Veylshroud
 **Alias / Epithet:** Krothy (Saiya only) · The Suppressed
 **Race / Lineage:** Hobgoblin — Crimson Order (Divergent)
@@ -217,8 +220,6 @@ IX Invocation: Not yet reached.
 
 ### Lore · The Life Behind the Card
 
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of Old World roads and chains. What those sources do not state is new here.*
-
 #### Origin
 
 Krothar Veylshroud was born Krothar Thunn-Gorr on Gorr-Keth, the tallest island of the Hobgoblin Expanse, in the family holdings on the caldera's western shelf. In later years he told no one where he was born. His father was Krothar Thunn-Gorr, a Crimson Order chain-warrior of the Kha-Urrum blood-branch, whom the Old World circuits called the Gorr-Keth Reaver. His mother was Freda Thunn-Gorr, born Vaal-Kess, of an old shelf-island line that never entered the Order. She managed the family's constituency seat in the Keth-Gorrum. She also kept the contract papers that brought a mercenary's pay home.
@@ -245,7 +246,7 @@ Saiya knew why he asked humans whether a beastkin with them was a slave. He had 
 #### Where They Stand
 
 He is in the Scourge of Hell on contracted bounty work with Saiya, a Khajiit mercenary who holds the sealing rite. She alone calls him Krothy. He has told her not to.
-The archive last finds him on a ridge above the Scourge that the bounty said to clear. A wyrm came up through the earth at him. His four chains went through its hide, and its tail threw him into the ridge wall. He unclasped the suppressors one at a time and split the wyrm down the spine with Death's Lance. Then he held out his wrists to Saiya. "Get the chains back on me." She chanted the seal and the chains wound back round his wrists and throat. She flicked him between the eyes. "Boring keeps us both alive," he told her.
+He is last seen on a ridge above the Scourge that the bounty said to clear. A wyrm came up through the earth at him. His four chains went through its hide, and its tail threw him into the ridge wall. He unclasped the suppressors one at a time and split the wyrm down the spine with Death's Lance. Then he held out his wrists to Saiya. "Get the chains back on me." She chanted the seal and the chains wound back round his wrists and throat. She flicked him between the eyes. "Boring keeps us both alive," he told her.
 Sodoku Moto came over the ridge line and asked for passage. Krothar read the Moto blood in him by its feel. "I know that bloodline's type," he said. Sodoku said, "If I fought you, I'd surely die." Krothar let him through. To Saiya he said the young man's essence was not finished cooking yet, and it was best not to be standing close when it boiled over. Then he saw the beastkin woman walking with Sodoku and stepped into the road. "Is she your slave?" Sodoku put his body between them and said she was under his protection. Krothar studied him a long time. "...Good answer." He has gone back over his read of Sodoku twice since.
 The chains now show hairline fractures to the naked eye, and threads of silver chain-light come at his wrists and throat uninvited. He reads intent now as well as strength, and he knows more about the people around him than he has decided what to do with. With Saiya, neither of them pretends any longer that it is purely business. When the work is finished he wants somewhere quiet, and the place has become Gorr-Keth. He has not said so. He still names no birthplace, and his mother still waits on Gorr-Keth. Nobody has yet talked about what happens when the chains stop holding. He is still deciding whether to contact his father.
 

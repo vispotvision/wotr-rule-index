@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81cf-ab4d-c150451dc2e3"
 notion_url: "https://app.notion.com/p/Orya-of-the-Wheat-March-The-Dragon-Shepard-3bd58200eb2281cfab4dc150451dc2e3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T08:56:00.000Z"
 verification: null
 ---
 
 # Orya of the Wheat March · The Dragon Shepard
 
+**Say it** · OR-yah
 > **This sheet is the reason the Benediction mapping could be established.** It reads **"Late Refraction moving toward Benediction."**
 >
 > **Refraction is Stage VII.** *Placing Benediction in the slot immediately above it gives Benediction = Stage VIII, Transcendence***, and that mapping now resolves every other card in the volume using the term.** Orya is held at late Stage VII, exactly as written.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812c-a956-d16a32c3350e"
 notion_url: "https://app.notion.com/p/Kaelrith-Dorne-The-Iron-Wound-3d958200eb22812ca956d16a32c3350e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaelrith Dorne · The Iron Wound
 
+**Say it** · KAYL-rith DORN
 > *"Don't call it courage. It's what's left when the fear burns out."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Firefront clean-up
 **Name** · Kaelrith Dorne. **Called** · The Iron Wound.
 **Role** · **Veteran of the Withering Rebellions. Former Guild Accord auxiliary, Enforcement Division. Free Lance, serving no flag but his own.**
 **Type** · Mortal, tempered veteran. **Era** · Withering Era. **Realm of origin** · Anguz *(a real place, ruled 2026-09-12: Inner World, North, as the Material Index has it).*

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9e6f-eb9b8929c149"
 notion_url: "https://app.notion.com/p/Seren-Valenne-The-Grey-Adjudicator-3d958200eb2281ff9e6feb9b8929c149"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Seren Valenne · The Grey Adjudicator
 
+**Say it** · SAIR-en vah-LEN
 > *"Every lie leaves a gravity behind it."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Caedor terms reached the Throne Hall
 **Name** · Seren Valenne. **Called** · The Grey Adjudicator.
 **Role** · **Adjudicator of the Guild Accord's Arbitration Division. Mediator of divine, political and Wellspring-related disputes. A living instrument of Concord Law.**
 **Type** · Mortal. **Era** · Withering Era, Imperial Year 740 to present. **Realm of origin** · Babyl, Inner World *(struck polity; pending re-homing).*

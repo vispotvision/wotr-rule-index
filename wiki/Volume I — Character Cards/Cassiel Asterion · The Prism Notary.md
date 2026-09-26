@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8179-8ae8-f7b67e907c9f"
 notion_url: "https://app.notion.com/p/Cassiel-Asterion-The-Prism-Notary-3bd58200eb2281798ae8f7b67e907c9f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Cassiel Asterion · The Prism Notary
 
+**Say it** · KASS-ee-el as-TEER-ee-on
 > *"Not harder — truer. Give me the right line and even a storm will move politely."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of Meridian Draw: *he lays a hair-bright meridian that objects prefer not to cross.*
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the seal at Ironlink Hold
 **Name** · Cassiel Asterion. **Called** · **The Prism Notary.**
 **Role** · **Light-law duelist and oath-engraver.** *He sets angles in rooms so truth lands and blades behave.*
 **Affiliation** · **Guild Accord • Star Chamber**, protocol corps. *Seconded to Vireline for Measures and to Lucen Vale for high councils.*

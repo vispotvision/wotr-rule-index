@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ff-9df5-c5bed5594085"
 notion_url: "https://app.notion.com/p/Edictum-3d958200eb2281ff9df5c5bed5594085"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:27:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ Resonant Pair · None.
 
 ### Origin
 
-Urion originates the form at the cosmological scale; three mortal derivations of the same working are known (Valen Dros, the Daughters of Concord, Lirae Ilmashai, and the historical Edictum of Silence attributed to Seraphiel Moto). As a documented, taught working with an Archonic origin, it is counterable by anyone who has studied a prior case and by nothing else short of superior standing.
+Urion originates the form at the cosmological scale; mortal derivations of the same working are known, among them the Daughters of Concord and the historical Edictum of Silence of the Moto line. As a documented, taught working with an Archonic origin, it is counterable by anyone who has studied a prior case and by nothing else short of superior standing.
 
 ---
 

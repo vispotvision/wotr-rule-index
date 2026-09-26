@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81cd-b73f-f4b6e70d5643"
 notion_url: "https://app.notion.com/p/Runic-Dawi-The-Tongue-of-the-Holds-3d758200eb2281cdb73ff4b6e70d5643"
 section: "The Tongues of the Realms"
 tags: ["Peoples", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-26T10:19:00.000Z"
 verification: "unverified"
 ---
 
@@ -163,7 +163,7 @@ The Soul-Rune practice puts the same script on skin. **An elder's body is a read
 > Porin, oath-name in the strong grade, of Vanhan, the inscription bore-and-entered. The angle-set stands. The entry stands.
 > **Porin son of Vanhan, oath standing, made the inscription and it is recorded. The angles are true. The entry holds.**
 **The oldest surviving Cask-Oath opening.**
-> *Ollu elaa, kaasme elaa. Ollu kuolee, ei kaasme kuole.*
+> *Ollu elää, kaasme elää. Ollu kuolee, ei kaasme kuole.*
 > The brew lives, the oath lives. The brew dies, the oath does not die.
 > **While it ages, I am bound. When it is gone, I am still bound.**
 The second clause is grammatically unusual and every Dawi child is taught why: the negative *ei* takes the oath out of the cycle entirely, so the Cask-Oath outlives its own cask. Whether the barrel in Kegshard's deepest vault is being maintained for the brew's sake or because nobody wants to test that line is not discussed.

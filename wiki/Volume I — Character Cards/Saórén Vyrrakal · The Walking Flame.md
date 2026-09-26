@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-819c-9280-d33b73c30039"
 notion_url: "https://app.notion.com/p/Sa-r-n-Vyrrakal-The-Walking-Flame-3bd58200eb22819c9280d33b73c30039"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Saórén Vyrrakal · The Walking Flame
 
+**Say it** · sah-oh-RAYN VEER-ah-kal
 > *"Darling, I don't fight fair — I fight* flawlessly.*"*
 > **Stage corrected — the legacy sheet reads "Stage VI — Refraction" and Refraction is Stage VII.** *The description is explicitly Refraction imagery: "their Essence fractures outward like a flame viewed through a prism."* **Stage VII stands.**
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the parley at Lyra Drakoshi's gate
 **Name** · Saórén Vyrrakal. **Called** · The Walking Flame. *Self-proclaimed "voice of golden fire."*
 **Race** · **Dragonkin, Molten Lineage.** *Scaled features beneath the skin, sometimes visible when angered or aroused in combat. Horns, claws, natural resistance to extreme heat. Golden scales line the forearms and abdomen beneath the robe.*
 **Role** · **Ember-Touched Dragonkin. Flame-Tongued Performer. Wellspring Duelist and Charmer of Courts.**

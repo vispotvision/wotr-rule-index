@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-811b-b4b4-d0b734be4736"
 notion_url: "https://app.notion.com/p/Eira-Vale-The-Echo-Runner-3bd58200eb22811bb4b4d0b734be4736"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T08:43:00.000Z"
 verification: null
 ---
 
 # Eira Vale · The Echo Runner
 
+**Say it** · AY-rah VAYL
 > *"I am not fast; I am timely."*
 > **A near-clean sheet, and a direct counterpart to Ascella "Wick" Morwyn.** *Both use real Categories, real system vocabulary and real Divisions; both read "Refraction, trending toward Benediction"; both work the Plateau.* **Ascella lights what Eira must cross unseen** — the sheets name each other.
 >

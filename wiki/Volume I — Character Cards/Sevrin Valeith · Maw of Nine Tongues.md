@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8147-9c4a-e961b1eee260"
 notion_url: "https://app.notion.com/p/Sevrin-Valeith-Maw-of-Nine-Tongues-3bd58200eb2281479c4ae961b1eee260"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Sevrin Valeith · Maw of Nine Tongues
 
+**Say it** · SEV-rin vah-LAYTH
 > *"The dead do not lie, only the living do. That's why I keep their tongues."*
 > **Invented Stage name.** The card reads **"Stage VII (Pinnacle)."** *Pinnacle is not among the sixteen; Stage VII is Refraction.* Numeral stands.
 >
@@ -22,6 +23,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Pale Court received him
 **Name** · Sevrin Valeith. **Called** · **The Pallid Binder.** Whisper-Keeper · **Maw of Nine Tongues.**
 **Role** · **Spirit Binder. Necrotic Medium. Walker of the Pale Wellspring.**
 

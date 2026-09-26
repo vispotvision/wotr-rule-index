@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81af-80a8-ed2301259d80"
 notion_url: "https://app.notion.com/p/Azhura-Vyren-The-Azure-Coilblade-3d958200eb2281af80a8ed2301259d80"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Azhura Vyren · The Azure Coilblade
 
+**Say it** · ah-ZHOO-rah VY-ren
+
 ---
 
 ### I · Identity
 
+**As Of** · After the Cymorath Distortion Hunt
 **Name** · Azhura Vyren. **Called** · The Azure Coilblade.
 **Also known as** · The Sky-Serpent Ward, Blue-Spiral Daughter, Warden of Cold Winds.
 **Epithet** · She Who Guards the High Air.

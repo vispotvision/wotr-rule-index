@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-8107-a47d-c85834961083"
 notion_url: "https://app.notion.com/p/Nella-Forgeman-The-Open-Hand-3ba58200eb228107a47dc85834961083"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Nella Forgeman — The Open Hand
 
+**Say it** · NEL-ah FORJ-man
 *The Open Hand · The Treatment Is Not Negotiable*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Nella Forgeman
+> **Age:** 33 · **Origin:** Concord (chartered quarter, smith's daughter)
+> **Level:** 52 · **Stage:** I Ignition · **Band:** I
+> **Role:** Field surgeon for the Kokan expedition
+> The surgeon's oath-form is the open hand. The hand that will do the work, presented as the instrument.
 > **Age:** 33 · **Origin:** Concord (chartered quarter, smith's daughter)
 > **Level:** 52 · **Stage:** I Ignition · **Band:** I
 > **Role:** Field surgeon for the Kokan expedition

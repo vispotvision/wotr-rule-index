@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81ab-a443-e7e80d34db3d"
 notion_url: "https://app.notion.com/p/The-Material-Index-T5-T9-3b158200eb2281aba443e7e80d34db3d"
 section: "The Master Material Ledger"
 tags: ["Materials", "Reference Table"]
-last_edited: "2026-09-12T20:05:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -55,7 +55,7 @@ verification: "unverified"
 | **Titanstone** *Bearing · Stone* | The shattered remains of slumbering World Spirits | Near-immortal density; **pulses with tectonic will.** Divine seal-work and the foundation of the greatest structures. **Each block carries a metaphysical weight sufficient that a crack is a civic catastrophe** — a cracked block takes a city down with it. *One of two materials in current use that no known process can make* |
 | **Drakehide Steel** *Bearing · Metal* | Smelted in dragonfire from slain elder drakes | Extreme Bearing; Holding **fate-bound.** **Class V.** Resistant to divine flame and Tempest-type Essence. **Once wielded, it bonds with the wielder's Fate Thread permanently. There is no second owner.** *A Class V carry is law-shaped: it does not want, it enforces.* **The bond is not the blade choosing. It is a law with no termination condition finding a party to apply to** |
 | **Crestveil Tapestry** *Holding · Fabric · Utopia* | Sewn from divine fog in the Sovereign's Crown | **Immune to time passage.** Binds prophetic images and does not age. **The physical archive of prophecy in the four quarters.** *Cannot be cut except by Archon blade* |
-| **Forgelight Barbs** *Holding · Essence Spike* | Formed inside collapsing temples during Wellspring implosion | Judicium (inferred). Charges against corrupted souls and burns when justice is invoked. Sanctum Lux inquisitorial weapons. **Grows hotter near heretics or oathbreakers, including friendly ones.** *Carrying one is a statement about who you expect to meet* |
+| **Forgelight Barbs** *Holding · Essence Spike* | Formed inside collapsing temples during Wellspring implosion | Judicium (inferred). Charges against corrupted souls and burns when justice is invoked. Sancta Lux inquisitorial weapons. **Grows hotter near heretics or oathbreakers, including friendly ones.** *Carrying one is a statement about who you expect to meet* |
 | **Silvertremor Plates** *Bearing · Metal* | Harvested from the Skybones of Omnis, Titan of Sky | Disrupts flight magic and reacts to wind and pressure. **Screams when struck** — *used in warning constructs precisely because of the scream* |
 | **Auric Blackroot** *Holding · Essence Wood* | Roots of a Titan-born tree beneath Edenis | Nullifies illusions and dream effects. **Its rings shift when a prophecy is fulfilled, which makes a cross-section a historical document.** *Harvest is a rite* |
 

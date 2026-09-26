@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8133-ab0d-c3d3d23d6b91"
 notion_url: "https://app.notion.com/p/Liorien-Nael-Teth-Sleepless-Quill-3d958200eb228133ab0dc3d3d23d6b91"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Liorien Nael-Teth · Sleepless Quill
 
+**Say it** · lee-OR-ee-en NAYL-teth
 > *"If no one writes it down, the world pretends it never happened."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the coastal town Cyrus had already left
 **Name** · Liorien Nael-Teth. **Called** · **Sleepless Quill.** *The Drift-Scribe of the Eastward Isles · Tide-Ink Archivist · Little Book of Storms.*
 **Epithet** · He Who Hears What Pages Remember.
 **Role** · **Island Archivist. Memory-Sensitive Investigator. Scriptorium Consultant to the Guild Accord.**

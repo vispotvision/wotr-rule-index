@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-811f-a838-fde4b94c787b"
 notion_url: "https://app.notion.com/p/Letheveil-Memory-Quake-3d958200eb22811fa838fde4b94c787b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:37:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · He shakes loose whatever a mind, or a working, has not yet anchored, and the last few seconds go with it.
+**Effect · The practitioner shakes loose** whatever a mind, or a working, has not yet anchored, and the last few seconds go with it.
 **Cost** · Every use costs him one of his own minor memories, and he comes out of the burst briefly confused himself.
 **Limit** · Only reaches memory too fresh to be load-bearing; older memory and unconscious targets are untouched.
 **Counter** · Pain restores what the wave was about to take, a held anchor survives it, and a mind with no resting state gives it nothing to widen into.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Derived by Aeldoris, from the concept of a pulse that shakes loose recent memory to disrupt continuity of thought.
+Self-derived by its author, from the concept of a pulse that shakes loose recent memory to disrupt continuity of thought.
 
 ---
 

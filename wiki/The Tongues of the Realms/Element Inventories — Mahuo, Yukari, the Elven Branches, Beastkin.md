@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c1-b796-f6f3757fb7fb"
 notion_url: "https://app.notion.com/p/Element-Inventories-Mahuo-Yukari-the-Elven-Branches-Beastkin-3d958200eb2281c1b796f6f3757fb7fb"
 section: "The Tongues of the Realms"
 tags: []
-last_edited: "2026-09-26T03:56:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -22,7 +22,7 @@ Four element inventories — Mahuo, Yukari, the Elven branches, Beastkin. Read a
 | **Ledger & record** | *Jang* (chapter), *Kye* (bond, a tallied account), *Bo* (safeguard), *Ye* (a recorded rite), *Chae* (debt), *Rok* (record) |
 | **House & clan-seat** | *Gol* (hollow, valley — attested), *Ga* (house), *Ju* (sovereign), *Chang* (prosperity), *Dae* (great), *Ryeong* (order) |
 | **Precision & correction** | *Jin* (truth), *Jeong* (correct), *Chak* (exact), *Ban* (reflect), *Kyeol* (resolve), *Seol* (state plainly) |
-| **Care & healing** | *Eun* (grace), *Sun* (goodness), *Hwa* (harmony), *Yeon* (bond, compassion), *Bit* (light), *Soo* (water, healing flow) |
+| **Care & healing** | *Eun* (grace), *Sun* (purity, gentleness), *Hwa* (harmony), *Yeon* (bond, compassion), *Bit* (light), *Soo* (water, healing flow) |
 
 **Worked example.** A cohort sharing the generation-syllable *Jin* (truth): elder daughter Jin + Won → **Jinwon** ("the truth of where we come from"); younger son Sae + Jin → **Saejin** ("a fresh truth"). Either could appear as "Jinwon Mahuo" or, in the Kwon cadet branch, "Kwon Saejin."
 

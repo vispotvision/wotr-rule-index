@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814f-82a4-d18146936d4e"
 notion_url: "https://app.notion.com/p/Thaumic-Harmonics-3d958200eb22814f82a4d18146936d4e"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:45:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Parunic monks of the Second Epoch, decoding glyph chants, found that Parunic syntax is a harmonic language. Thalos of Ira codified the branch through Chord Theory, and Aurevia the Echowright made it a combat art with Interference Lock.
-**Practitioners** · Thalos of Ira; Aurevia the Echowright; the Cantic Order, whose choirs teach "break the song, do not block the spell"; the Sonochoral Conclave's chanters; Genn Arkelos, the guild Frequencywright who diagnosed leyline anomalies during the early Imperial Convergences.
+**Origin** · Parunic monks of the Second Epoch, decoding glyph chants, found that Parunic syntax is a harmonic language. Chord Theory codified the branch, and Interference Lock made it a combat art.
+**Practitioners · The Cantic Order**, whose choirs teach "break the song, do not block the spell"; the Sonochoral Conclave's chanters; guild Frequencywrights, one of whom diagnosed leyline anomalies during the early Imperial Convergences.
 
 ---
 

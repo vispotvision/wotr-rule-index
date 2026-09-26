@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8108-86fc-f1857a895f37"
 notion_url: "https://app.notion.com/p/Sovereign-s-Reprisal-3d958200eb22810886fcf1857a895f37"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Every blow that lands on Drakvor while the harness is charged stays in him instead of passing through, and arrives back out as a single ring of rupturing Aether the instant he chooses to let it go.
+**Effect** · Every blow that lands on the practitioner while the harness is charged stays in him instead of passing through, and arrives back out as a single ring of rupturing Aether the instant he chooses to let it go.
 **Cost** · Spinal Aether recoil and a few seconds of vertigo on release: the harness discharges through the same channels that carried the blow in, and they do not enjoy giving it back.
 **Limit** · The harness has to take the hit first. There is no reprisal without an impact already banked.
 **Counter** · Piercing damage and sustained ranged harassment both deny the harness the one thing it needs, a concentrated blunt impact large enough to bank.
-> **What nobody knows.** Whether the harness has a ceiling past which it cannot hold any more, or whether Drakvor has simply never been hit hard enough, for long enough, to find out.
+> **What nobody knows.** Whether the harness has a ceiling past which it cannot hold any more, or whether its author has simply never been hit hard enough, for long enough, to find out.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Drakvor speaks one philosophy over the technique, "Impact is tribute." He is its sole known author.
+Its author speaks one philosophy over the technique, "Impact is tribute." It has no other known user.
 
 ---
 

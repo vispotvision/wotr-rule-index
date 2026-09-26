@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8140-b2ba-f1f6825e4ce3"
 notion_url: "https://app.notion.com/p/Hunter-s-Breath-3d958200eb228140b2baf1f6825e4ce3"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · **He inhales the cold and breathes out a mist that erases what he is to anything hunting by scent, heat, or Essence.** *In genuinely freezing ground, that is most of what hunts him.*
+**Effect · The practitioner inhales the cold and breathes out a mist that erases what he is to anything hunting by scent, heat, or Essence.** *In genuinely freezing ground, that is most of what hunts him.*
 **Cost** · **Lung strain.** *The cold he draws in does not leave gently.*
 **Limit** · **Requires cold air to draw on.** *Vohrin's cold-law needs an existing gradient. It does not manufacture one from nothing.*
 **Counter** · **A thermal-inversion field lifts the mist off the ground before it can spread, and a practitioner reading by chorus-sensed presence rather than heat, scent or Essence-trace is not fooled by any of it.**
@@ -33,7 +33,7 @@ verification: null
 
 ### FOW line
 
-**Governing Primary** · Dexterity (358, A-Grade), Sub-Stat Dexterity-Silence (386, near his own ceiling).
+**Governing Primary** · Dexterity (358, A-Grade), Sub-Stat Dexterity-Silence (386, near its author's own ceiling).
 **Sub-Stats** · Dexterity-Silence, Vitality-Tolerance (cold endurance while the mist is held).
 **Stage floor** · VI, Glory.
 **Grade required** · A-Grade.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one his own philosophy states: a solitary hunter working open, cold ground is found by scent, heat, or Essence trace before he ever closes the range he needs. "Breathe like the winter, and nothing finds you."
+Self-derived by its author during the Vorynn Trials. The problem it answers is the one that author's philosophy states: a solitary hunter working open, cold ground is found by scent, heat, or Essence trace before he ever closes the range he needs. "Breathe like the winter, and nothing finds you."
 
 ---
 
@@ -84,7 +84,7 @@ Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answe
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70. Grade A (276 to 400), read on Dexterity Feint, since the product is concealment, not joules.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70. Grade A (276 to 400), read on Dexterity Feint, since the product is concealment, not joules.
 **Paths** · Body Path: Feint above B needs the Spirit Path at Flourishing, so Essence-trace suppression is capped at B; heat and scent hold at full, but a sense reading Essence at A or above sees through.
 | Quantity | Working | Result |
 |---|---|---|

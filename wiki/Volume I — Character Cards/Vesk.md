@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8136-891b-fa2974880fee"
 notion_url: "https://app.notion.com/p/Vesk-3e358200eb228136891bfa2974880fee"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:12:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Vesk
 
+**Say it** · VESK
 *Malphas's cell, Greyshaft Nine coldhouse. Formulator. POV of "What Does Not Smell Dead." Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** The Greyshaft Nine coldhouse, the ninth hind ordered to the table
 **Name.** Vesk. One name only on the page; register pending Isaac.
 **Affiliation.** Malphas's cell. Author of the Verdantia growth formulation.
 **Origin.** Raised in a village that put stones on its graves.

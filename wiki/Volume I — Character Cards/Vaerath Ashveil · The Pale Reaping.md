@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fe-9309-c328c7beaea4"
 notion_url: "https://app.notion.com/p/Vaerath-Ashveil-The-Pale-Reaping-3d958200eb2281fe9309c328c7beaea4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Vaerath Ashveil · The Pale Reaping
 
+**Say it** · VAIR-ath ASH-vayl
 > *"Auren does not mourn. He waits. I am his impatience."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Niran Audit-Scar Incident
 **True Name** · Vaerath. **Field Name** · The Pale Reaping. **Epithet** · She Who Carries The Last Breath.
 **Role** · **Herald of Auren. Death-Speaker. Voice of Auren's Silence.**
 **Gloss rights** · **Diagnostic only.** *Her name is functional, not guarded — spoken in service contexts, at adjudications, before a severance — and never offered for idle use.*

@@ -4,11 +4,13 @@ notion_id: "3b358200-eb22-816a-be0f-e353c7f88c50"
 notion_url: "https://app.notion.com/p/Krothar-Thunn-Gorr-The-Old-Chain-3b358200eb22816abe0fe353c7f88c50"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:07:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Krothar Thunn-Gorr — The Old Chain
+
+**Say it** · KROH-thar THUNN-GORR
 
 ### The Old Chain · The Gorr-Keth Reaver
 
@@ -16,6 +18,7 @@ verification: null
 
 ### I. IDENTITY
 
+**As Of:** At Gorr-Keth, while his son works the Scourge of Hell
 **Full Name:** Krothar Thunn-Gorr
 **Alias / Title:** The Old Chain · The Gorr-Keth Reaver (mercenary name, Old World circuits)
 **Also Known As:** Chain-Father (never to his face; guild circuit shorthand after his son's reputation spread)

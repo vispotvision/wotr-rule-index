@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8198-a175-ffe89c73b1a7"
 notion_url: "https://app.notion.com/p/Cosmology-Metaphysics-3b158200eb228198a175ffe89c73b1a7"
 section: "Cosmology"
 tags: ["Cosmology", "Lore & History", "Open Rulings"]
-last_edited: "2026-09-10T10:12:00.000Z"
+last_edited: "2026-09-26T10:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -103,4 +103,4 @@ The cosmological spine, in the order it was made: the totality before partition,
 >
 > **The Sky, the Hour and the Year** builds the setting's own sky and its own calendar. One sun, one moon whose cycle is exactly twenty-eight days so the month is never in dispute, five wanderers and a pole star, and a year of thirteen months and three hundred and sixty-four days. The day divides by **fourteen**, for the doctrinal reason the Sohai already gives. Seven unequal stations of light against seven of dark, with the Bow at the hinge, set against fourteen equal Guild hours pushed down the wire from Stannvaard. Eight times in thirteen years a nameless day is inserted that belongs to no Archon, and on it no Work falls due, nothing can be entered, no window opens and no instrument binds.
 >
-> **The Faiths of the Four Quarters** places Sohai and Sanctum Lux against three others, two of which were already written without being called religions: the Dawi **Tally**, the Kharven **Sky**, and the originated **Current**, the folk Wellspring practice that is the largest faith by headcount and has no name for itself. Every entry answers the same six questions, and the last of them is what the faith is wrong about. Cults are handled separately, by how they recruit and how they eat.
+> **The Faiths of the Four Quarters** places Sohai and Sancta Lux against three others, two of which were already written without being called religions: the Dawi **Tally**, the Kharven **Sky**, and the originated **Current**, the folk Wellspring practice that is the largest faith by headcount and has no name for itself. Every entry answers the same six questions, and the last of them is what the faith is wrong about. Cults are handled separately, by how they recruit and how they eat.

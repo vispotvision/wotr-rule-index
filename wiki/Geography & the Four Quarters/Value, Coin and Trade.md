@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-818e-ab92-e9f212bb0b23"
 notion_url: "https://app.notion.com/p/Value-Coin-and-Trade-3b158200eb22818eab92e9f212bb0b23"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Materials"]
-last_edited: "2026-09-12T20:06:00.000Z"
+last_edited: "2026-09-26T14:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -155,7 +155,7 @@ What this produces is the one thing medieval commerce anywhere else could not pr
 
   By the close of the era, a western mining house's balance sheet is mostly contracts. The great houses are, functionally, **Essence traders that happen to own holes.**
 - ****The Withering** — the price of certainty**
-  Nothing new has been invented in seventy years. The instruments are the same instruments. **What has changed is a single number underneath all of them.**
+  No new instrument of credit has been invented in seventy years, whatever the works have built in the same years. The instruments are the same instruments. **What has changed is a single number underneath all of them.**
 
   When ambient density falls, an Essence supply contract stops being a convenience and becomes *the* asset. The spread between spot supply and contracted supply, which sat inside a few points for five centuries, has widened in each of the last seventy years, and a contract written at Year 640 rates is now an inheritance. **Houses are being bought for their supply books with the ore thrown in.**
 
@@ -257,3 +257,4 @@ The compromise everyone lives inside has three parts. **Crowns ennoble high rank
 ---
 
 > *Attested and sealed. Guild of Measurewrights, under the Hexagonal Oath, with the concurrence of the Council of Links as to instruments and their explicit reservation as to the final entry.*
+- [What Things Cost](Value, Coin and Trade/What Things Cost.md)

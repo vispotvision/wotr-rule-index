@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8186-8bad-f6ce4a3ae0b4"
 notion_url: "https://app.notion.com/p/The-Principle-Engine-3d958200eb2281868badf6ce4a3ae0b4"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -16,11 +16,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Every contradiction that reaches Francis's Crystal is metabolised rather than merely survived. Reality tries to be two incompatible things around him, and what should have been damage becomes reserve.
+**Effect** · Every contradiction that reaches the practitioner's Crystal is metabolised rather than merely survived. Reality tries to be two incompatible things around him, and what should have been damage becomes reserve.
 **Cost** · The routing leaves a mark it cannot avoid leaving. *Micro-fissures spread through the Soul Crystal at a rate his own diagnostic count tracks closely, because the alternative to tracking it is finding out by fracturing.*
 **Limit** · A paradox too large to route through the phase-change valve does not fail safely. *It returns to the Essence Core directly, aimed at the part of him that decides he is still one person.*
 **Counter** · **A field that removes the possibility of contradiction removes the Engine's fuel with it.** *A Silentia working, null-space that will not hold two incompatible states long enough for Judicium to read either, starves it outright.*
-> **What nobody knows.** Whether the Engine converts contradictions because Francis built it to, or because his Crystal decided, independently, that this was the only way it was going to survive being what it is.
+> **What nobody knows.** Whether the Engine converts contradictions because its author built it to, or because his Crystal decided, independently, that this was the only way it was going to survive being what it is.
 
 ---
 
@@ -50,7 +50,7 @@ verification: null
 
 ### Origin
 
-Francis built The Principle Engine himself around one core concept: he collapses contradictions into fuel. As a self-derived working it is uncountered by anyone who has not watched him use it.
+Its author built The Principle Engine alone around one core concept: it collapses contradictions into fuel. As a self-derived working it is uncountered by anyone who has not watched it used.
 
 ---
 

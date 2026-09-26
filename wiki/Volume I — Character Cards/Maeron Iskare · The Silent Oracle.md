@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81dc-b521-dd7ca5656d4a"
 notion_url: "https://app.notion.com/p/Maeron-Iskare-The-Silent-Oracle-3d958200eb2281dcb521dd7ca5656d4a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Maeron Iskare · The Silent Oracle
 
+**Say it** · MAY-ron iss-KAIR
 > *"Every truth I speak removes one lie that kept the world kind."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Stationed in Eresse for the Alabaster cathedral audit
 **Name** · Maeron Iskare. **Called** · The Silent Oracle. The Mask of Quiet Stars.
 **Role** · **Mask-reader. Diviner. Bound Advisor.** *Interprets metaphysical collapse through the dream-channel.*
 **Race / Lineage** · Human. Outer World descendant; a bloodline of the Alabaster cloisters, touched by Abythron sleep. *Born to the lower cloisters and buried by prophecy before birth; resurfaced decades later under a new name.*

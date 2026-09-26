@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817d-b602-f6f697e2d1a9"
 notion_url: "https://app.notion.com/p/Rik-Lye-The-Forbidden-Vessel-3d958200eb22817db602f6f697e2d1a9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Rik'Lye · The Forbidden Vessel
 
+**Say it** · rik-LY
 > *"You should not have opened me."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Niran missing, the final theorem not yet found
 **Name** · Rik'Lye. **Called** · The Forbidden Vessel. **DANGER, DO NOT OPEN.**
 **Role** · **Alchemical construct: an Aether-reactive homunculus made to recreate a soul from fractured Essence. Contained by Guild Accord mandate. Alive, aware, and uncontainable if directly provoked.**
 **Race** · **Alchemical Construct.** *Towering and lean, with the unsettling symmetry of deliberate creation. Ash-pale skin marked by alchemical glyphs that pulse red or blue with mood. Molten silver irises in black sclera, flecked with fractal Aether corrosion. Black hair with an indigo sheen ending in flame-like tufts; horns of crystallised Aetheric bone curving back like broken crescents. Chains hang from shoulders and waist, for balance rather than binding.* The markings on his trousers read 破礼存, *the breaking that preserves*, in the lineage-hall register.

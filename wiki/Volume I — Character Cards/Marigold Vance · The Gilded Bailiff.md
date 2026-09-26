@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-8156-bcd5-e34617b1ae7e"
 notion_url: "https://app.notion.com/p/Marigold-Vance-The-Gilded-Bailiff-3bd58200eb228156bcd5e34617b1ae7e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Marigold Vance · The Gilded Bailiff
 
+**Say it** · MAIR-ih-gohld VANS
 > *"Order is just mercy with manners. Stand where I put you."*
 
 ---
 
 ## I · Identity
 
+**As Of** · After the Measure at Ironlink Hold
 **Name** · Marigold Vance. **Called** · **The Gilded Bailiff.**
 **Role** · **Court-enforcer and riot-converter.** *She walks into brawls and the room remembers it has a floor, a dais, and an order of speaking.*
 **Affiliation** · **Star Chamber, Protocol Corps.** *Bailiff-at-Large to Vireline's Measures; trusted escort for the Reaper in hot halls.*

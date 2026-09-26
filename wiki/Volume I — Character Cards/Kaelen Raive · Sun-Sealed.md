@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81f8-8266-e6a5711bd552"
 notion_url: "https://app.notion.com/p/Kaelen-Raive-Sun-Sealed-3bd58200eb2281f88266e6a5711bd552"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: null
 ---
 
 # Kaelen Raive · Sun-Sealed
 
+**Say it** · KAY-len RAYV
 > *"The light doesn't ask for permission. It simply shows what was always there."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of the Sun-Seal: *it binds Domains temporarily if invoked at full charge, and binding another practitioner's Domain is not a low-Stage act.*
 > **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.

@@ -4,12 +4,14 @@ notion_id: "3c658200-eb22-81d9-a073-d23a7db71522"
 notion_url: "https://app.notion.com/p/Kirishima-Hae-jin-Kaalabad-the-Radiant-God-of-Knights-3c658200eb2281d9a073d23a7db71522"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:07:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Kirishima Hae-jin — Kaalabad, the Radiant God of Knights
 
+**Say it** · kee-ree-SHEE-mah HEH-jin · *Kaalabad* KAH-lah-bahd
+**As Of:** The Ashgate road, the ninth hour, last seen advancing
 **Folk name:** Kaalabad, the Radiant God of Knights
 **Third names:** The Warlord God · The Chained Crown
 **Classification:** Titanic-adjacent · Confirmed canon, Volume I
@@ -18,7 +20,7 @@ verification: null
 
 ### I. Identity
 
-**True name** — Kirishima Hae-jin (霧島 陽鎮). Kirishima — "Mist-Peak," Japanese/Ketsuen house register. Hae-jin — "Sun-Garrison," Korean/Mahuo given register.
+**True name** — Kirishima Hae-jin (霧島 海鎮). Kirishima — "Mist-Isle," Japanese/Ketsuen house register. Hae-jin — "Sea-Garrison," Korean/Mahuo given register.
 **Folk name** — Kaalabad. What oral tradition settled on after generations of tellers who couldn't pronounce the real thing. The only name most of the Inner World has ever heard.
 **Third names** — The Radiant God of Knights (pre-Fall). The Warlord God (post-Fall, folk). The Chained Crown (Accord filing, current).
 **Origin culture** — Hybrid Ketsuen house / Mahuo given-name register — see Naming Guide Amendment, cross-cultural name contact. The Kirishima house predates the modern split between the two registers and predates the Sum-gol incorporation itself, a lost pre-incorporation line the current provincial arrangement was built over rather than descended from.
@@ -154,7 +156,7 @@ Broad, curved reaping blade, older in make than the halberd and matched to it by
 ### XI. Relationships
 
 **Azerack** — The corruptor. Seated outside the Fourteen Archons proper — older, and stranger, a force that operates on individual souls rather than on Continuum-scale law, which is why the Archon roster never had a seat that fit him. Kaalabad neither loves nor trusts him, and per the read above, Azerack is largely irrelevant to Kaalabad's own sense of what he's doing and why.
-**The jailers** — A joint working, Accord and Sanctum Lux both, struck at a cost neither institution has ever fully disclosed to the other. It is the reason the two bodies maintain a courtesy toward each other that neither has ever extended anywhere else.
+**The jailers** — A joint working, Accord and Sancta Lux both, struck at a cost neither institution has ever fully disclosed to the other. It is the reason the two bodies maintain a courtesy toward each other that neither has ever extended anywhere else.
 
 ---
 
@@ -187,7 +189,7 @@ Azerack found him in that state. By every surviving account the two did not meet
 He kept a knight's discipline and pointed it at a warlord's appetite. His campaign ran out from Sum-gol, and his Divine Realm manifested across the valley and the Ketsuen frontier around it. Ground he struck, bled on or held under fighting went dark and cold, and its native growth drew back. Where he stayed long, or killed in numbers, it became his for good. The land took his shape from one point of failure outward until the failure was the whole territory. The Tower of Zarakal rose at its centre. The forges of the Realm were lit, and darksteel came from nowhere else in the Inner World. He conquered the way he had once served. He did it completely, without negotiation, and with no pleasure anyone could see.
 The campaign had run its course before the Great Spirit War's chronology began to count, and generals on both sides of that war used his name to frighten recruits.
 Every claim was permanent, and every claim narrowed what he could ever again call unspoiled. He was among the things it narrowed. The Radiant God's bearing went. Under the horned crest what showed of his face turned to shadow and cavity, and men looked away from it before they understood why.
-He never once out-thought an opponent. It cost him once, and permanently. The folk tale that tells the rest of his life is silent on how he was brought down. He was chained and left alive. The Accord and Sanctum Lux struck the working together, at a price neither ever fully disclosed to the other. They held him within the Veil, bound at its threshold. Nothing on the Material Plane could hold a warlord tied to his own Realm, and nothing on the Soul Plane could hold his body.
+He never once out-thought an opponent. It cost him once, and permanently. The folk tale that tells the rest of his life is silent on how he was brought down. He was chained and left alive. The Accord and Sancta Lux struck the working together, at a price neither ever fully disclosed to the other. They held him within the Veil, bound at its threshold. Nothing on the Material Plane could hold a warlord tied to his own Realm, and nothing on the Soul Plane could hold his body.
 The chains took his weight and never his stance. Bent to a stoop he could not straighten from, he still read as upright. Several accounts hold that the bearing existed so that nobody would ever see him kneel. Chained, he yielded none of the ground he had claimed. The plate he was chained in was darksteel, and centuries in it fused its seams shut.
 When the Realm drew back from Sum-gol it left a scar in the province: Sum-gol's Hanseon compact, the Kept Vigil. It went on drawing on a debt nobody living had incurred. The incorporation treaty forbade anyone to survey it. In Sum-gol it became the one ground nobody measured and nobody went near.
 
@@ -203,4 +205,4 @@ That mid-morning he came out of the sky above a village at Sum-gol and brought d
 - **Aurelian Prudentius Custos Clausorum · The Primate** · one valley. His Fall left the Kept Vigil in the Sum-gol that raised Aurelian, and the order Aurelian rose in helped chain him.
 - **Ara Min Mahuo** · one valley. Ara is of the house at Sum-gol; no record has them meet.
 - **Azerack** · corruptor. Azerack found him already cracked open and gave him the Halberd of Zarakal, and he neither loves nor trusts him.
-- **The jailers** · captors. The Accord and Sanctum Lux chained him, and neither told the other the price.
+- **The jailers** · captors. The Accord and Sancta Lux chained him, and neither told the other the price.

@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-8198-b06f-e6376ea9af97"
 notion_url: "https://app.notion.com/p/Mizuki-Moto-3b258200eb228198b06fe6376ea9af97"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:25:00.000Z"
 verification: null
 ---
 
 # Mizuki Moto
 
+**Say it** · mee-ZOO-kee MOH-toh
 *She Who Preserves the Dying Snow · Muken's Firstborn · The Frost-Braid Heir · Card 13*
 > 
 > > **Harmonics and Gnosis lead. She reads bodies and holds damage still.**
@@ -20,6 +21,7 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** Her father's reign, before the night he died
 **Name Meaning** *Beautiful Winter* · **Age** 19 · **Sex** Female
 **Lineage** Human · Moto Bloodline · **Kharven Royal Strain**
 **Standing** Crown of Kharven · Moto War Court — **active in Kharven as Muken's eldest child and battlefield preservation specialist**

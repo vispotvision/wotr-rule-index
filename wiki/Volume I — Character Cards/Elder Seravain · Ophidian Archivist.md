@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8174-86b7-cc7791bbce97"
 notion_url: "https://app.notion.com/p/Elder-Seravain-Ophidian-Archivist-3bd58200eb22817486b7cc7791bbce97"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T08:44:00.000Z"
 verification: null
 ---
 
 # Elder Seravain · Ophidian Archivist
 
+**Say it** · SAIR-ah-vayn · *Ophidian* oh-FID-ee-an
 > *"A lie is just venom without fangs. Allow me to correct that."*
 
 ---

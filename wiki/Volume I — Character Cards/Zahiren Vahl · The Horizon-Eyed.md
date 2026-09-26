@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81af-bc22-e49f8a1b3219"
 notion_url: "https://app.notion.com/p/Zahiren-Vahl-The-Horizon-Eyed-3bd58200eb2281afbc22e49f8a1b3219"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Zahiren Vahl · The Horizon-Eyed
 
+**Say it** · zah-HEER-en VAHL
 > *"The dunes remember, even when the people forget. My task is not to make you listen — it is to ensure the memory waits for you when you are ready."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of the Mnemonic Vessel: *he can anchor memories to a location for others to witness.*
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Collapse
 **Name** · Zahiren Vahl. **Titles** · **Keeper of the Sand-Whisper Codex.** *The Horizon-Eyed.*
 **Role** · **Harmonic Historian. Wellspring Cartographer. Concord Mediator of the Innerworld.**
 

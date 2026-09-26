@@ -4,14 +4,15 @@ notion_id: "3bd58200-eb22-8101-b671-edf63838c3c4"
 notion_url: "https://app.notion.com/p/Sandalphon-Aestraen-The-Reverent-3bd58200eb228101b671edf63838c3c4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T10:20:00.000Z"
 verification: null
 ---
 
 # Sandalphon Aestraen · The Reverent
 
+**Say it** · san-DAL-fon AY-strayn
 > **This sheet needed the least correction of any migrated so far.** The legacy card is in the modern numbered format, carries Accord legal status, narrative function and a real vulnerability list. **Nothing structural was wrong.** What follows adds the Wellspring, Stage and stat layer it did not have.
-> **Lineage flag.** This sheet identifies Sandalphon as **Saeloria's consort. Karo Venrik is not his son: Isaac ruled on 2026-09-12 that Karo Venrik is the son of Hiromi Mahuo and Saeloria, the Elven Queen.** Combined with House Mourcrix descending from House Venrik, that puts **three migrated Volume IV characters in one family** — Sandalphon, his son Karo, and their kinsman Vaelen — with Sanctum Lux and the Eressean Crown on both sides of it. **Confirm this is intended before anything is built on it.**
+> **Lineage flag.** This sheet identifies Sandalphon as **Saeloria's consort. Karo Venrik is not his son: Isaac ruled on 2026-09-12 that Karo Venrik is the son of Hiromi Mahuo and Saeloria, the Elven Queen.** Combined with House Mourcrix descending from House Venrik, that puts **three migrated Volume IV characters in one family** — Sandalphon, his son Karo, and their kinsman Vaelen — with Sancta Lux and the Eressean Crown on both sides of it. **Confirm this is intended before anything is built on it.**
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-810f-ac23-e2613ea61705"
 notion_url: "https://app.notion.com/p/The-Four-Crafts-3bc58200eb22810fac23e2613ea61705"
 section: "The Magic System"
 tags: ["Magic System", "Disciplines"]
-last_edited: "2026-09-23T23:31:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -159,7 +159,11 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 > After that the working is **a thing in a bottle** — and the bottle can be **carried by a courier, sold by a factor, taxed at a gate, stolen off a corpse, watered down by a dishonest apothecary, and drunk by a farmer who has never harmonised with anything in his life.**
 >
 > **Draftcraft is how the other ninety-odd percent of the population touches magic at all.** *Everything a Western fantasy economy needs falls straight out of that: smuggling, counterfeiting, guild monopoly, excise, adulteration, shortage, addiction, and a black market with names in it.*
-> **What a Draft does to a soul with no Crystal.** A Draft acts on the Essence Core, and a Class Ø soul has a Core like anyone else. There is no Shell to phase-lock and no harmonisation follows, so the farmer gets the working and none of the architecture.
+> **What a Draft does to a soul whose Crystal never woke.** A Draft acts on the Essence Core, and a Class Ø soul has a Core like anyone else. There is no Shell to phase-lock and no harmonisation follows, so the farmer gets the working and none of the architecture.
+> 
+> He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
+> 
+> *The Accord has no category for this because the Accord's ledgers count practitioners. The apothecaries have known it for two centuries and price accordingly.*
 >
 > He also gets no melt. **Nucleation is a Crystal event**, so a Draft cannot seat in him, cannot recast him, and cannot be argued with once it is in. It runs its course through the Core and leaves whatever it leaves. Repeated dosing over years does not advance anything. It **deepens the grain**, hardening the man further along the direction he was already set, which is why the second and third generation of a village on cheap Drafts are recognisable at a distance and the fourth is a problem.
 >
@@ -178,7 +182,7 @@ The discipline of building a lawful Parun sentence and committing it to a medium
 **What nothing else can do** · **It scales with throats.** Everything above trivial requires more than one voice, **which makes Chantcraft the only craft that cannot be practised alone.**
 > *That single constraint makes it institutional by necessity: orders, choirs, liturgies, schedules, a roster, and the particular catastrophe of a choir that loses three singers to fever in a week.*
 **What it costs** · **Other people, and their time, indefinitely.** *A sung ward is a standing labour obligation. Somebody is singing right now or the thing is failing.*
-**Status: sacral, and outside the guild structure entirely** — which is why the Accord finds it difficult and why Sanctum Lux and the Sohai live here.
+**Status: sacral, and outside the guild structure entirely** — which is why the Accord finds it difficult and why Sancta Lux and the Sohai live here.
 > **Reference points.** Finrod and Sauron singing at each other until one of them falls. Lúthien before the throne. *The monastic office sung eight times a day for six hundred years by men who were replaced one at a time.*
 > **Ratified.** Chantcraft stands as its own craft. Harmonia workings take *Ars Cantus* as their medium-home.
 

@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81ec-bd4b-f8d0416f3c8a"
 notion_url: "https://app.notion.com/p/The-Articles-of-the-Accord-and-the-Kinds-of-Polity-3d758200eb2281ecbd4bf8d0416f3c8a"
 section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "Trade & Economy", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-26T14:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -15,10 +15,11 @@ verification: "unverified"
 
 ### Part One: What the Accord Is
 
+**Where the Accord stands.** The text below is older than the communion that now carries it. The formulary and its courts grew up over seven centuries in the Concord heartland and on the chartered routes; the Accord proper, the guilds and their crowns signing into the Codex together, is being made now, one circle at a time. **Where a circle has signed, these Articles bind as law.** Where none has, they bind only the parties who bring a case to the chancery's courts, and that older jurisdiction is the one described first.
 **Not a sovereign.** The Accord holds no territory, keeps no standing army, and cannot execute anybody. What it has is a **jurisdiction**: a set of courts, along the trade routes and in the chartered markets, which merchants and locals alike bring their disputes to because those courts are faster, cheaper and more predictable than anything else available.
 This is exactly how the historical law merchant worked, and the point is worth stating flatly because it is usually got wrong in fiction. The law merchant was **not a universal code invented by merchants**. It referred to a jurisdiction and to certain procedural variances permitted in specific commercial courts. Ordinary local people used those courts too, under the same rules as the great houses.
 **And enforcement runs on reputation and repeated dealing, not on force.** The Accord's real sanction is exclusion: an unregistered man, an unproofed cask, a struck weight, a house whose instruments will not bind. A merchant who cannot get an attestation cannot get credit, and a merchant who cannot get credit is finished, and everybody in the trade knows it without anybody having to say it.
-The Accord's four revisions of the formulary are its whole legislative history. What follows is the current text in summary, with the plain-tongue name beside the register name, because which one a character reaches for places him instantly.
+The formulary's four revisions, every one of them older than the first circle, are its whole legislative history. What follows is the current text in summary, with the plain-tongue name beside the register name, because which one a character reaches for places him instantly.
 
 ### Part Two: The Articles
 
@@ -92,7 +93,7 @@ The Accord's four revisions of the formulary are its whole legislative history. 
 
 **The market court** sits in the market, in the same building as the beam and the guardhouse. It hears debt, detinue and broken contract, and it absorbs whatever else the market throws at it: stall disputes, the assize, short measure. In a large seat it sits thrice a week. In a village with a charter it sits monthly, and by the fourth generation its rolls contain almost nothing but bakers.
 **The Bench of Attribution** sits above it and exercises four powers: **entry, striking, attribution and reservation.** Entry puts a thing on the record. Striking takes it off. Attribution assigns an act to a person, which is the hardest of the four and the reason Article XV exists. Reservation withholds a standing pending determination, and a man under reservation is not condemned and cannot trade, which is worse.
-**Sanctum Lux** hears what the Accord will not: oath, status, legitimacy, and whether a thing was done in bad faith rather than merely done. The two jurisdictions overlap and neither will define the boundary, because both prefer being able to claim a case than being obliged to take one.
+**Sancta Lux** hears what the Accord will not: oath, status, legitimacy, and whether a thing was done in bad faith rather than merely done. The two jurisdictions overlap and neither will define the boundary, because both prefer being able to claim a case than being obliged to take one.
 **Amercement** is the standard penalty and it is not a fixed fine. It is set by the court **to the offender's means**, which is why the same offence costs a labourer a week and a factor house an afternoon's profit, and why the factor house budgets for it.
 
 ### Part Four: The Kinds of Polity
@@ -108,9 +109,9 @@ The Accord has to reach across states that do not resemble each other at all, an
 **Rotating crown.** An elective or rotating headship on a fixed cycle, designed so that no single will outlasts a season. **Iampu**, where the Crown passes at each solstice and equinox under the Treaty of Four Courts. Real elective monarchies paired lifetime or fixed terms with senatorial oversight to prevent concentration, and characteristically drifted toward capture by the electing body, which is a live risk in Iampu and is what the Frost Council actually is.
 **Confederation.** No monarch, binding decisions requiring consensus across every represented house. **The Echo Elves' Longhouse Accord**, and behind it **Altherion's River Crown Council**. Historical confederations were ramshackle, slow, and remarkably durable, and the Echo Elf version is slower than any of them by design.
 **Calendrical principality.** Governance by appointed window rather than by session: nothing is decided outside its ceremonial time, and urgency is treated as a defect. **Eresse.** No other polity in the four quarters can negotiate with it at speed and none has stopped complaining about this in four Eons.
-**And outside the typology entirely: Kharven.** A crown, a seat, a household structure, and a body of custom that has never been written and cannot be cited. The Accord has no instrument that binds there and has never issued one, and the seat has never asked for one.
+**And outside the typology entirely: Kharven.** A crown, a seat, a household structure, and a body of custom that has never been written and cannot be cited. The Accord never issued an instrument that bound there, and the seat never asked for one, until the first circle was signed in its own lower hall. The Articles now bind there under that seal, laid over a custom that still has never been written.
 
 #### What this means at the table
 
-**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Stannvaard, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and nothing at all in Kharven.
-**The Accord is the only thing that is the same everywhere**, which is the entire source of its power and the entire source of the resentment toward it. It did not conquer anybody. It just made itself the only layer that works in all seven places, and then charged for it.
+**A character crossing a border changes legal systems, not just flags.** The same act is an amercement in Stannvaard, a decree violation in Undaar-Keth, an unentered act in a hold, an untimely act in Eresse, and, until the first circle was signed, nothing at all in Kharven.
+**The Accord's courts are the only thing that is the same everywhere**, which is the entire source of its power and the entire source of the resentment toward it. It did not conquer anybody. It made itself the only layer that works in all seven places, charged for it, and is now asking each of them to sign.

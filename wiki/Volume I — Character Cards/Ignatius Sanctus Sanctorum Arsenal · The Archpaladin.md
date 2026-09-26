@@ -4,34 +4,30 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
 # Ignatius Sanctus Sanctorum Arsenal · The Archpaladin
 
+**Say it** · ig-NAH-tee-oos SANK-toos sank-TOH-room AR-seh-nal
 > *"Light is not mercy. It is revelation. It burns not to forgive, but to expose."*
-> **The legacy sheet contained a direct self-contradiction in a single line: "Temperance Stage XII — Refraction."**
->
-> **Refraction is Stage VII. Stage XII is Emanation.** These are five Stages and two Bands apart. The rest of the sheet — SSS Grade, η above 0.90, a presence that reorganises a room before he speaks — is unambiguously Emanation, so **Stage XII stands and the name is corrected.**
->
-> *This matters beyond bookkeeping. Refraction is where a soul first sees itself. Emanation is where it stops having to hold anything. Ignatius is the second thing.*
-> **Also corrected.** "Kaisic-Luminiferous Executor" is not among the eight Aether Classes — **he is Class V, Radiant.** "Exaltation, Projection, Cibation, Solution" were listed as Wellsprings; they are Great Work operations and are not among the sixty. **"Kaisic Enforcement / Luminiferous Radiance / Astral Vitalis" are not Paths** — the four are Body, Spirit, Attraction, Fate. And **"Spark through Ignition"** are not Stage names; the first four are Murmuring, Welling, Ascension, Flourishing.
 
 ---
 
 ## I · Identity
 
+**As Of** · After the crater in the Vaeloris quarter
 **Name** · Ignatius Sanctus Sanctorum Arsenal.
-**Called** · Archpaladin of Sanctum Lux. Sentinel of the Solar Path. Hammer of the Divine Threshold. **He Who Burns Not to Forgive, But to Expose.**
+**Called** · Archpaladin of Sancta Lux. Sentinel of the Solar Path. Hammer of the Divine Threshold. **He Who Burns Not to Forgive, But to Expose.**
 **Race** · Human.
-**Standing** · Sanctum Lux, High Ecclesia. Order of the Emberborne Cross.
+**Standing** · Sancta Lux, High Ecclesia. Order of the Emberborne Cross.
 **Era** · Voyager Era.
 > **Catalyst Event · Stage XII, Emanation.** The Sanctified Legion of Sol Invictus was immolated during the Eclipse Wars, and he did not break.
 >
 > The Sixteen Stages is precise about what Emanation requires: **emerging from Dissonance with a Crystal denser and cleaner than before entry. The fractures must have become features.**
 >
-> The four micro-fractures in his Crystal are not damage he is carrying. **They are the load paths the rest of him now stands on** — which is why the legacy sheet's phrase for it, *he did not break, he calcified,* happens to be exactly correct.
+> The four micro-fractures in his Crystal are not damage he is carrying. **They are the load paths the rest of him now stands on.** He did not break. He calcified.
 >
 > *And Emanation means he no longer holds any of it. Traits that once needed maintenance are local physics. He does not project authority. The room is simply different because he is in it, and stays different for a while after he leaves.*
 
@@ -43,14 +39,15 @@ verification: null
 **Aether Shell** · **Class V · Radiant.** Aether bends toward him; currents curve around his presence. **Output exceeds what the raw numbers suggest**, and the Class is the reason.
 **Attraction Layer** · Dominant, and the engine of the whole sheet.
 **Crystal State** · Refined.
-**η** · 0.90, at the ceiling of the Tier of Standing 7, Grandmaster range. *The legacy figure of 0.91 sat just outside it and has been brought to the boundary rather than invented past it.*
+**Essence Capacity** · 5.5 million EU. **Flux Density** · 5.4 million EU/g. **Output** · 5.1 million AU/s.
+**η** · 0.90, at the ceiling of the Tier of Standing 7, Grandmaster range.
 **Essence colour** · The Family hue bleaching toward white at its edges — **the first visible sign that identity and Continuum-law have begun to merge.** The ambient light in a room changes before he arrives in it.
 
 ---
 
 ## III · Wellspring Harmonizations
 
-**Calcination** · Caloria. Burns away false structure. **One of the eight currents that are simultaneously Wellspring, cosmic principle and alchemical operation**, which is why the legacy sheet's confusion was understandable and still wrong.
+**Calcination** · Caloria. Burns away false structure. **One of the eight currents that are simultaneously Wellspring, cosmic principle and alchemical operation.**
 **Luminalis** · Fulguria. The radiant expression. Near-white, arc-clean, **the visible geometry that forms around him under load.**
 **Judicium** · Fulguria. Order, measure, consequence. *The Heresiology's warning attaches here: law without mercy becomes burnished sadism, and Judicium injury is most visible where either side is used to excuse the other's absence.* **Ignatius is closer to that line than his Order will say aloud.**
 **Fixatio** · Materia. Anchors and seals. The Cradle, and everything that holds.
@@ -60,9 +57,9 @@ verification: null
 ## IV · Primary Stats
 
 **Temperance Stage** · **XII — Emanation.** **Level** · 385. **Level Band** · IV — Mythic. **Tier of Standing** · 7, Grandmaster. **Grade** · SSS. **Ceiling** · 950.
-> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–385 contributes 1,785. Threshold bonuses for Stages I through XII contribute 7,800, Stage I counting (R39-3). Total: 14,085.
+> **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–385 contributes 1,785. Threshold bonuses for Stages I through XII contribute 7,800, Stage I counting. Total: 14,085.
 >
-> **Total lifetime pool: 14,085.** Allocated: 13,953. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
+> **Total lifetime pool: 14,085.** Allocated: 13,953.
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
 | **Vitality** | **900** | SSS | Holy Physiology, and it is a real number rather than a description |
@@ -104,7 +101,7 @@ verification: null
 
 **Strike Force** · Ardency 880, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
 **Lifting Strength** · Vitality 900, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
-**Speed** · Dexterity 422, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *The legacy sheet's Mach 290 sustained sits inside S-Grade and is consistent; the Mach 610 burst is SS-Grade and only reachable under the Flare.*
+**Speed** · Dexterity 422, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *Mach 290 sustained sits inside S-Grade; the Mach 610 burst is SS-Grade and reachable only under the Flare.*
 
 ---
 
@@ -136,25 +133,31 @@ White plate over interlocking gold filigree, the Sol Invictus sigil at the breas
 
 ---
 
-## X · Open Rulings
-
-- **Essence Capacity 5.5 million EU, Flux Density 5.4 million EU/g, Output 5.1 million AU/s** carry from the legacy sheet. **I cannot source EU benchmarks by Stage** and have not restated them as confirmed.
-- **"Archon Judger"** — Judicium is a Wellspring, and the Archons are the fourteen. Whether Sanctum Lux's Judger is an Archon by name wants confirming.
-- **The Eclipse Wars**, **the Sanctified Legion of Sol Invictus**, **the Solar Concordat**, **Tier IV Aetherion** appear only in the legacy sheet.
-- **Vaelen Mourcrix** is named as his counterpart and is presumably the Volume IV sheet *The Exculpate Arbiter.* **The two should be built as a matched pair** — one weighs, one concludes — and neither reads properly alone.
 > **Codex** · Fulguria / Electromagnetism / Luminalis primary / Stage XII.
 
 ---
 
-### Lore · The Life Behind the Card
+### Voice
 
-*Written 2026-09-24 by the character-lore pass from this card, the five archived scenes it appears in, and the record of The Curia at Altherion. What those sources do not state is new here.*
+**Notices first** · What is wrong with the thing in front of him, and who paid for it. He reads a room the way a physician reads a chest, the wound before the man and the mechanism before the wound, and then he checks whether the person facing him is still the person he knew.
+**Sentence length** · Short and declarative, set down without a run-up. His questions arrive as statements, flat at the end with no lift ("Where is he." "Under what authority."), and when he argues the sentences lengthen into reasoned clauses stacked with "and" until the case is made.
+**Contractions** · never, save a single clipped word forced out on half a breath when he is badly hurt.
+**Pet word** · "Then," to open the next step of an argument: "Then instruct me." "Then why are you here."
+**Never says** · A prayer: when he speaks over a working it is a verdict in the Church's old tongue, never a plea. He never gives an exact count of anything either; he rounds to the year and the handful and leaves the tally to clerks.
+**Stumbles** · Never. He does not answer at once, and the silence before the answer is the only hesitation he allows.
+**Gloss rights** · Only for law and doctrine he wrote himself, and only when someone in the room is owed the reasoning; in the field, never.
+**Under stress** · The speech shortens and goes flat and precise, which three tribunals mistook for composure. Asked the real question, he answers a different one, at length, in that same flat voice. He raises it only when he means every word, and he says so.
+**In grief** · The titles fall off and he is Darius again, the boy who argued with every lesson. The fact comes out plain and without a run-up, in as few words as it will go into: "He is dead."
+**In joy** · The declarations hold; he will say outright that he is going to enjoy something and say nothing else. The rest is in his hands on the Hammer, the set of the jaw and the breath he lets go before he walks.
+**Sample line** · "I have been correct about a great many things and it has never once helped anybody."
+
+### Lore · The Life Behind the Card
 
 #### Origin
 
-He was born Darius, a human child. Sanctum Lux gave him Ignatius, Sanctus and Sanctorum one at a time, and everyone around him still calls him Darius.
+He was born Darius, a human child. Sancta Lux gave him Ignatius, Sanctus and Sanctorum one at a time, and everyone around him still calls him Darius.
 As a boy he was sent twice a week to a court Auditor named Verinus to be taught about Fate. He argued with every lesson. Verinus has called him the worst student he ever had and the only one who came back.
-Sanctum Lux, when he entered it, kept Sadara Izayoi's revelation as its law, with six schisms and no procedure for being wrong. At nineteen it named him Ignatius, for the faith. The assessor wrote him down as unbridled and meant it as a caution. Aurelian Prudentius ordained him. That year he found an entry the Index gave no place, asked about it twice, and was never answered.
+Sancta Lux, when he entered it, kept Sadara Izayoi's revelation as its law, with six schisms and no procedure for being wrong. At nineteen it named him Ignatius, for the faith. The assessor wrote him down as unbridled and meant it as a caution. Aurelian Prudentius ordained him. That year he found an entry the Index gave no place, asked about it twice, and was never answered.
 
 #### The Making
 
@@ -175,7 +178,7 @@ The twelfth trial came unannounced. At the ninth hour of the fourteenth day Char
 
 The gate put him out over a burning city at the tenth hour. The Hammer came into his right hand. In the Vaeloris quarter a boy on the rubble held a dead man, and what the boy felt stood over four streets, killing what it touched. Ignatius could have undone it by letting go, and he kept his hand shut so the child could keep it. Aurelian came up the rubble young, pleasant and wrong about Verinus. Ignatius told him Charles was dead and that he was not the man who had ordained him, and kept him on his left. He had not raised his voice before another living soul since the year he was twenty-six. He raised it now. He told the Void Regent he would kill him.
 In the crater he held the seam of Verinus's wall in his closed hand. None of it entered him. With the seventh Work he drove the Regent out through the tear and set the wall across it. Then he fell onto his side in the ash of the Vaeloris quarter with his right hand closed, and did not open it.
-The record of what followed does not agree with itself. Word of his death reached the Alabaster Court weeks later, and Verinus has told three people he will come back. Dabney's card records seven years of forms under him. The seat of the Will stands uninvested. He has read the Seventh Objection as one of three living holders of the Sealed Standard. What he chose to do about it he has told nobody, and he believes it will justify a fifth fracture.
+Word of his death reached the Alabaster Court weeks later, and Verinus has told three people he will come back. Dabney counts seven years of forms under him. The seat of the Will stands uninvested. He has read the Seventh Objection as one of three living holders of the Sealed Standard. What he chose to do about it he has told nobody, and he believes it will justify a fifth fracture.
 
 #### Ties
 

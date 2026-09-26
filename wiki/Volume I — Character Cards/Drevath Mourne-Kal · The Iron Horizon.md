@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b8-813f-c11b313d40d8"
 notion_url: "https://app.notion.com/p/Drevath-Mourne-Kal-The-Iron-Horizon-3d958200eb2281b8813fc11b313d40d8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Drevath Mourne-Kal · The Iron Horizon
 
+**Say it** · DREV-ath MORN-kahl
 > *"Preservation is the longest word for surrender. I am not here to mourn what Eresse was. I am here to build what it refused to become."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the audit put to Vaelorian
 **Name** · Drevath Mourne-Kal. **Called** · The Iron Horizon. **Myth Name** · Nakkul — "The Standard Planted in Tomorrow." **Known As** · The Pale Conqueror, He Who Measures the Distance Between a King and a Corpse, The Father's Proof.
 **Race** · Winter Eladrin, an Eressean daughter-people reshaped by the Archonic Principle of Stillness, diverged from the Eressean line during a northern schism the card calls the Harmonial Recession. **A Tyurkian Cognitive Framework was installed over that native architecture; the Stillness is still underneath. It has learned to march.**
 **Gloss rights** · Diagnostic only. He speaks Nakkul as a release call and never once translates it.

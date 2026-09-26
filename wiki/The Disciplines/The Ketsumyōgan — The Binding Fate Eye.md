@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-815e-8fe9-fb1a81cf3572"
 notion_url: "https://app.notion.com/p/The-Ketsumy-gan-The-Binding-Fate-Eye-3b158200eb22815e8fe9fb1a81cf3572"
 section: "The Disciplines"
 tags: []
-last_edited: "2026-08-03T18:59:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T10:18:00.000Z"
+verification: null
 ---
 
 # The Ketsumyōgan — The Binding Fate Eye
@@ -43,7 +43,7 @@ This is why the Yukari are called the Weavers, the Thread-Readers, the Crows of 
 
 Unlike the Shingan, which manifests in both eyes simultaneously with a single dominant branch, **the Ketsumyōgan manifests asymmetrically**: one type in the left eye, a different type in the right. The combination produces a paired configuration that defines the bearer's operational identity.
 **Awakening conditions** · Sustained exposure to causal stress, in which the bearer's Monlithion registers Thread-Lock events with sufficient frequency and intensity that the Soul Crystal's ocular pathways reorganize to accommodate the data load. This typically occurs during moments of extreme consequence: a death, a betrayal, a decision that rewrites the bearer's position in the causal web irrevocably.
-**Visual manifestation** · A deep violet-black corona surrounding the pupil, within which thin luminous thread-like patterns rotate in configurations specific to the active type. The patterns are not decorative. Each corresponds to a different reading mode, and **the rotation speed indicates the depth of planar engagement.** At rest the corona is faint, visible only to those with Resonant Perception or Bifold Existence. When active it brightens, the threads glow silver-violet, and the bearer's irises darken to near-black as the visual processing pathways redirect from physical light to causal thread data.
+**Visual manifestation** · A deep violet-black corona surrounding the pupil, within which thin luminous thread-like patterns rotate in configurations specific to the active type. The patterns are not decorative. Each corresponds to a different reading mode, and **the rotation speed indicates the depth of planar engagement.** At rest the corona is faint, visible only to those with Resonant Perception or Bifold Existence. When active it brightens, the threads glow crimson, and the bearer's irises darken to near-black as the visual processing pathways redirect from physical light to causal thread data.
 **Asymmetric activation** · Either eye can be engaged independently. Activating both engages the paired configuration, which produces a combined function greater than the sum of its parts at significantly higher Essence cost.
 > Types are **permanent once manifested.** They cannot be changed, traded, or artificially imposed.
 
@@ -86,7 +86,7 @@ flowchart TD
 
 ### 3 · Reishi 霊糸 — the Spirit Thread
 
-*Spirit Thread · Thread of Souls.* Sees the threads between souls: ancestral bonds, emotional connections, spiritual debts, curse-chains, love, grief, grudges, oaths. Where the Moto Reigan sees **inside** a single soul, the Reishi sees **between** souls, the space where one identity ends and another's influence begins.
+*Spirit Thread · Thread of Souls.* Sees the threads between souls: ancestral bonds, emotional connections, spiritual debts, curse-chains, love, grief, grudges, oaths. Where the Moto Reigan sees **inside** souls, and can find them as far as four hundred miles off, the Reishi sees **between** souls, the space where one identity ends and another's influence begins.
 **Passive** · Distinguishes living connections from dead ones, which persist as ghostly filaments anchored to the Soul Plane's archive. Emotional content is perceptible as colour temperature: **warm bonds glow amber-gold, cold bonds glow blue-silver, corrupted bonds glow red-black.** Ancestral threads run deep, connecting a living soul to its lineage backward through the Veil into the generational record.
 **Soul Read** 霊読 · *Reidoku.* Reads a single soul-thread's complete history: when the bond formed, what created it, how it has changed, what it currently carries, and whether it has been artificially manipulated. A forensic tool — it identifies curses by reading the thread between cursed and curser, verifies oaths, and **detects imposters by reading whether the soul-threads that should connect a person to their claimed identity actually exist.**
 **Grief Trace** 哀跡 · *Aiseki.* Follows a dead-connection thread backward through the Veil to the archive, reading the echo of the departed soul's final state: their last emotion, their last thought's resonance, the shape of the grief they left behind. Not necromancy. Not communion. A reading of the wound death left in the causal web. **Painful to use. Exhausting.**

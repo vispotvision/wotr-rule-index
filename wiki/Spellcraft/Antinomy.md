@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8136-b58e-ea901d51622f"
 notion_url: "https://app.notion.com/p/Antinomy-3d958200eb228136b58eea901d51622f"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:27:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -17,10 +17,10 @@ verification: null
 ### Summary card
 
 **Effect** · Bonds to a target's dominant Essence alignment, then forces that alignment to reject its own established function: a swordsman still swings but the blade carries hesitation, a healer's Benediction still activates but stabilizes a wound rather than closing it.
-**Cost** · Every use requires Septarch to hold the target's fear, love, shame and contradiction inside his own Soul Crystal lattice for the duration of contact; this is a real transit, not observation, and it is the only genuine expense the technique carries.
+**Cost** · Every use requires the practitioner to hold the target's fear, love, shame and contradiction inside his own Soul Crystal lattice for the duration of contact; this is a real transit, not observation, and it is the only genuine expense the technique carries.
 **Limit** · Requires a target with a stable, internally contradictable identity. Non-identity states, empty vessels, pure constructs, some void-touched entities, return no signal for the working to act on.
 **Counter** · It loses its sharpest edge against a soul that names and accepts its own contradiction aloud; a strong external recognition, a name spoken by someone who remembers what is underneath, can pull identity back into coherence before the Lock completes. High Attraction Layer stability, sacred covenants, relic-bound identities, strong Domains, resists longer than an ordinary bond does.
-**What nobody knows** · Whether Antinomy could ever be turned back on Septarch himself with enough precision to unmake Kurotana rather than merely wound it; no one has yet tried it on him carrying the one contradiction the technique would need, that he rejected Niran first.
+**What nobody knows** · Whether Antinomy could ever be turned back on its author with enough precision to unmake Kurotana rather than merely wound it; no one has yet tried it on him carrying the one contradiction the technique would need, the self he rejected first.
 
 ### Codex line
 
@@ -28,7 +28,7 @@ verification: null
 **Family** · Limina primary, Spatium secondary.
 **Physics Domain** · Error-correcting redundancy and destructive interference (Limina) crossed with resonant coupled-oscillator exchange (Spatium).
 **Category** · Synergia.
-**Craft** · Spellcraft; the two-finger gesture holds only while Septarch's attention holds it, and produces no chant, no sigil, no inscription.
+**Craft** · Spellcraft; the two-finger gesture holds only while the practitioner's attention holds it, and produces no chant, no sigil, no inscription.
 **Stage floor** · XI, Dissonance.
 **Grade required** · SS-Grade.
 **Path gate** · Attraction, dominant.
@@ -39,7 +39,7 @@ Governing Primary Harmonics and Gnosis, per Limina's Stat Affinity, with Dominio
 
 ### Origin
 
-Derived by Septarch alone, as the technical expression of Kurotana's Black Mandate fused with the Recognition, Refusal and Redrafting doctrine unique to his own fate-state, built for enemies whose power runs through a role or a bond rather than raw output. The old card's named forms, Affinity Severance, Aversion Graft, Role Reversal, Contradiction Wound and Soul Lock: Unchosen Self, are kept as named expressions of this one base mechanism rather than as five separate techniques.
+Self-derived by a single author, as the technical expression of Kurotana's Black Mandate fused with the Recognition, Refusal and Redrafting doctrine unique to that author's fate-state, built for enemies whose power runs through a role or a bond rather than raw output. Its named forms, Affinity Severance, Aversion Graft, Role Reversal, Contradiction Wound and Soul Lock: Unchosen Self, are named expressions of this one base mechanism rather than five separate techniques.
 
 ---
 

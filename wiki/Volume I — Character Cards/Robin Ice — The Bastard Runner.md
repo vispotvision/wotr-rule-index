@@ -4,14 +4,19 @@ notion_id: "3ba58200-eb22-8129-9313-d0fb9c592a9a"
 notion_url: "https://app.notion.com/p/Robin-Ice-The-Bastard-Runner-3ba58200eb2281299313d0fb9c592a9a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:10:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
 # Robin Ice — The Bastard Runner
 
+**Say it** · ROB-in EYES
 *The Bastard Runner · The Man Between the Falling Places*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Robin Ice (born Robin, Kōkan cadet adjacent, given Stark by blood, given Ice by law)
+> **Age:** 29 · **Level:** 112 · **Stage:** II Kindle · **Band:** I
+> **Role:** Runner, courier, intelligence carrier for the Kōkan expedition
+> The world needed people who carried things between the places that were falling apart. Robin was the kind of man the world kept alive for that purpose.
 > **Age:** 29 · **Level:** 112 · **Stage:** II Kindle · **Band:** I
 > **Role:** Runner, courier, intelligence carrier for the Kōkan expedition
 > The world needed people who carried things between the places that were falling apart. Robin was the kind of man the world kept alive for that purpose.
@@ -31,6 +36,20 @@ His voice is Concord-flat, the accent of a man who has been everywhere and belon
 > *The frontier made him real. The legitimate name would have made him comfortable.*
 
 ---
+
+### Voice
+
+**Notices first** · Which people in the room are angry, and which of them are angry at him. Then the doors, and which way the road runs out of the place.
+**Sentence length** · Short and clipped, the report stripped of verbs ("First two are positioning."). He runs long only when a rehearsed speech fails and the road comes out of him instead.
+**Contractions** · sometimes; freely on the road and in a report to his own side, not before a court.
+**Pet word** · "Confirm." He opens by saying how many things he carries, and marks each as confirmed or as a guess.
+**Never says** · What is in a sealed case. He never says he questioned the order on the path, and he has not called Lambert "my lord" since the fourth month. A number he has not confirmed is "maybe"; a number he carries is exact, and nothing else is.
+**Stumbles** · Only when the prepared words go. Then he loses his place, stops, and starts again in the order he was taught; routine reports come out clean.
+**Gloss rights** · Never. He carries the thing and leaves the explaining to whoever receives it.
+**Under stress** · The report shrinks to fragments in their order ("On the road. Standing."), and he counts the things he was sent with, afraid of losing one. The heel of his hand pushes the hair back off his forehead.
+**In grief** · One word, the runner's word from fourteen, flat as the Concord: "Aye." Then he turns the horse.
+**In joy** · The voice stays flat. It shows in the pace: he pushes the hair back, breathes easier, and rides harder.
+**Sample line** · "Three things. First two are positioning. Third one's the one that matters."
 
 ### Lore · The Life Behind the Card
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
 notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-26T03:16:00.000Z"
+last_edited: "2026-09-26T09:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -204,13 +204,13 @@ Crystallized is not a State. Self-as-law belongs to the Crystallized Soul tier a
 | **2 · Apprentice** · Welling | ~0.35 | The leak is still the loudest thing about the practitioner. |
 | **3 · Journeyman** · Ascension | ~0.40 | Waste becomes predictable, which is the first thing that can be trained against. |
 | **4 · Adept** · Flourishing | ~0.45 | The last tier at which more than half of every expenditure is lost. |
-| **5 · Expert** · Splintering to Refraction | 0.50 – 0.60 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows the practitioner to observe and correct their own waste in real time. |
+| **5 · Expert** · Splintering to Refraction | 0.60 – 0.70 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows the practitioner to observe and correct their own waste in real time. |
 | **6 · Master** · Transcendence to Realization | 0.70 – 0.80 | First true Domain, providing a feedback loop that recycles ambient bleed. Pacts, artifacts and law imprint on terrain, creating persistent gains in familiar ground. |
 | **7 · Grandmaster** · Dissonance to Emanation | 0.85 – 0.90 | Traits become local physics. Mere presence begins optimizing Aether flow in the vicinity. |
 | **8 · Archmaster** · Principality to Zenith | 0.95 – 1.2 | Biomes carry the practitioner's doctrine. Above 1.0 the practitioner produces more coherent output than they spend. This is not free energy. It is the Continuum recognizing their expression as law and supplementing it with ambient flow. **The environment becomes a co-author.** |
 | **9 · Paragon** · Revelation to Apex | above 1.2, unbounded | No source figure exists. The lettered scale had no rung here. Flagged as an open gap rather than filled with an invented number. |
 
-> **The efficiency conflict, unresolved.** The Aether Class table above rates **Class I Muridic** at roughly thirty to forty percent loss, which is η 0.60 to 0.70. Since the ruling of 2026-09-23, Class I first emerges at Glory, Stage VI; the table here places those practitioners in Tier 5, Expert, at η 0.50 to 0.60, which is forty to fifty percent loss. The two ranges touch at 0.60 and do not otherwise agree.
+> **Efficiency at Splintering to Refraction.** Tier 5, Expert reads η 0.60 to 0.70 at Stages V to VII, thirty to forty percent loss, the same band the Aether Class table gives **Class I Muridic**.
 >
 > *Both describe how much of a working survives the trip out through the Shell. Both are reproduced as written. Neither has been withdrawn.*
 

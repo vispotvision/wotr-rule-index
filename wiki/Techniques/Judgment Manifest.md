@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b7-bca2-d2f0e17c92af"
 notion_url: "https://app.notion.com/p/Judgment-Manifest-3d958200eb2281b7bca2d2f0e17c92af"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:36:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Francis calls up to three Hermetic Principles as autonomous combat constructs across a two-kilometre field for roughly twenty-five seconds, each construct enforcing its own Principle as living law rather than waiting to be told to.
+**Effect · The practitioner calls up** to three Hermetic Principles as autonomous combat constructs across a two-kilometre field for roughly twenty-five seconds, each construct enforcing its own Principle as living law rather than waiting to be told to.
 **Cost** · Mild paradox fatigue and Aether recoil after each summoning, worse the more constructs are standing at once.
 **Limit** · Three embodied Principles at a time, a hard ceiling; a fourth cannot be sustained.
 **Counter** · Limina-Family disruption, an Oneirion dream-field or a Letheveil-class memory current, breaks a construct's conceptual clarity and unmakes it early.
@@ -41,7 +41,7 @@ Resonant Pair: None claimed; insufficient Sub-Stat data in the source.
 
 ### Origin
 
-Not stated by the source beyond ownership by Francis at Stage XIV Zenith; logged as unattested rather than invented.
+Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 ---
 

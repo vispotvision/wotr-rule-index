@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8168-bbe9-c9739555ea40"
 notion_url: "https://app.notion.com/p/Lucien-Draeve-Emerald-Alchemist-3bd58200eb228168bbe9c9739555ea40"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:52:00.000Z"
 verification: null
 ---
 
 # Lucien Draeve · Emerald Alchemist
 
+**Say it** · LOO-see-en DRAYV
 > *"Every sip is a choice. Every choice is a death. I simply make sure the two arrive together."*
 
 ---

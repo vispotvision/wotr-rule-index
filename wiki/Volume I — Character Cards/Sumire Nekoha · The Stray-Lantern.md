@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-816a-ad8f-e8be911de174"
 notion_url: "https://app.notion.com/p/Sumire-Nekoha-The-Stray-Lantern-3bd58200eb22816aad8fe8be911de174"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Sumire Nekoha · The Stray-Lantern
 
+**Say it** · soo-MEE-reh neh-KOH-hah
 > *"If you're small or sorry, walk in my light; the dark will behave."*
 > **The card states no Temperance Stage.** **Stage VII — Refraction assigned and flagged as originated**, on the strength of **Moth Path**: *she tips the lantern and a ribbon of moth-light unwinds along alleys and stairwells — a bounded lane operating on her terms, held by attention, ending when she stops.*
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Since Bridgemarch
 **Name** · Sumire Nekoha. **Called** · **The Stray-Lantern.**
 **Role** · **Night-witch and refuge-maker.** *She collects strays — children, cats, lone witnesses, wandering minutes — and walks them home without asking who lost them first.*
 **Affiliation** · **Guild Accord · Logistics / Safe-Route Auxiliary.** *Frequently seconded to the Reaper for delicate crossings through crowds.*

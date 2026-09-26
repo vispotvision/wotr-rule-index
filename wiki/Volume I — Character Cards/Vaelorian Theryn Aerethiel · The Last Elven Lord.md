@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8111-b694-d32172d39d82"
 notion_url: "https://app.notion.com/p/Vaelorian-Theryn-Aerethiel-The-Last-Elven-Lord-3d958200eb228111b694d32172d39d82"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Vaelorian Theryn Aerethiel · The Last Elven Lord
 
+**Say it** · vay-LOR-ee-an THAIR-in air-ETH-ee-el
+
 ---
 
 ### I · Identity
 
+**As Of** · After Drevath's audit, still unenforced
 **Name** · Vaelorian Theryn Aerethiel. **Called** · The Last Elven Lord, Paragon of Elyndra, Florwyn's Regent. *Also* the Black Canopy, the Thorn-Crowned Sovereign.
 **Role** · **Former High Marshal, Verdant Phalanx. Last Regent, Court of the Verdant Throne. Living vector for a Titanic design not yet complete.**
 **Gloss rights** · Yes.

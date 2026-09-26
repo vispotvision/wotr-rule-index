@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8187-aec2-dcf949793255"
 notion_url: "https://app.notion.com/p/Raymond-Montclair-The-Luthier-of-Quiet-Roads-3d958200eb228187aec2dcf949793255"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Raymond Montclair · The Luthier of Quiet Roads
 
+**Say it** · RAY-mund MONT-klair · *Luthier* LOO-tee-er
 > *"If you listen long enough, even ruins remember how to breathe."*
 
 ---
 
 ### I · Identity
 
+**As Of** · The late Imperial Age, after Burnt Orchard
 **Name** · Raymond Montclair. **Called** · The Luthier of Quiet Roads. **Also known as** · Ash-Tone Pilgrim, The Soft-Handed Witness.
 **Race / Lineage** · Mortal human, Verdant-flecked ancestry.
 **Role** · **Wandering Luthier. Memory-Bearer.**

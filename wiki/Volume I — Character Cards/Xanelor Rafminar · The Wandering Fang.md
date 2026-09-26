@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:47:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
 # Xanelor Rafminar · The Wandering Fang
 
+**Say it** · ZAN-eh-lor RAF-mih-nar
 > *"I don't fight alone. Every strike, every step, every silence, I share it with the howl behind me."*
 > **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · The Age of Calamity, holding six where he once held seven
 **Name** · Xanelor Rafminar.
 **Called** · The Wandering Fang.
 **Era** · Age of Calamity.

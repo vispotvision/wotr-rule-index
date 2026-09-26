@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c0-99e6-c003850ec278"
 notion_url: "https://app.notion.com/p/Morphaene-the-Gloam-Brewer-3bd58200eb2281c099e6c003850ec278"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Morphaene the Gloam-Brewer
 
+**Say it** · mor-FAYN
 > *"Look into the mist — see your ruin writ large, then break."*
 > **Same Archon error, and the clearest instance of why it matters.** *This sheet gives "Solution (Archon of Melting)" while Graelith's gives "Silence (Archon of Melting)"* **—** two different operations attributed to the same non-existent Archon.
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After Eldervale
 **Name** · Morphaene the Gloam-Brewer.
 **Role** · **Alchemical Smog-Warrior. Fifth General of the Rot Host.**
 **Affiliation** · **Malphas' Smog Legion.** *Herald of Miasmic Illusion.*

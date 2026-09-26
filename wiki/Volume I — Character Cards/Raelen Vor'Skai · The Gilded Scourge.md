@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c3-be93-e2f29ef60e39"
 notion_url: "https://app.notion.com/p/Raelen-Vor-Skai-The-Gilded-Scourge-3d958200eb2281c3be93e2f29ef60e39"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Raelen Vor'Skai · The Gilded Scourge
 
+**Say it** · RAY-len vor-SKY
+
 ---
 
 ### I · Identity
 
+**As Of** · After the Black Oasis
 **Name** · Raelen Vor'Skai *(pronounced RAY-len vor-SKY)*. **Called** · The Gilded Scourge.
 **Also known as** · The White-Jackal, Sand-Vein Seraph, Gold-Eater.
 **Epithet** · He Who Bleeds in Silence.

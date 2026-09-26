@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f0-820b-c9a03f4018d7"
 notion_url: "https://app.notion.com/p/Vaithesca-Oracle-of-the-End-3d958200eb2281f0820bc9a03f4018d7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Vaithesca · Oracle of the End
 
+**Say it** · vy-THES-kah
 > *"I do not remember being born. I remember the moment after. I remember all the moments after. They are the same moment."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Some five years before her naming, fading backward
 **Name** · Vaithesca. **Called** · Oracle of the End, the Seer-Who-Knows-When.
 **Role** · **Threshold Vessel. Void-Tongue Prophet. Unaligned Witness.**
 

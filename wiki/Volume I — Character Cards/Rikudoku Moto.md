@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-818a-9903-e9116936db3e"
 notion_url: "https://app.notion.com/p/Rikudoku-Moto-3e058200eb22818a9903e9116936db3e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:10:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,8 @@ verification: null
 
 ## Rikudoku Moto
 
+**Say it** · ree-koo-DOH-koo MOH-toh
+**As Of:** Class X, seven days before the Open Tournament
 **Lineage:** Moto, Archaic Bloodline. **Kōkan Line.** Son of Sodoku Moto and Yoko Mishiro.
 **Age:** 13.
 **Class:** X, Aetherion Academy.
@@ -45,11 +47,11 @@ Stage, Level, Wellspring, Techniques, Stats: all TBD.
 
 **Sodoku Moto** (father, age 35 in this timeline): the Exiled Lion. The nature of their relationship is unestablished. Whether Sodoku is present at the Academy, still in exile, or somewhere else entirely is unknown.
 **Yoko Mishiro** (mother): Fox-Spirit Beastkin, Mishiro lineage. The One Who Stayed. Ruled 2026-09-18. Rikudoku's conception sits inside the Scourge of Hell period, when Sodoku was roughly twenty-two and the relationship was the thing neither of them named.
-**Hild Ice** (half-sister, paternal, through Freya): **dead.** Twelve years old, in a cistern doorway at the ninth hour, carried on the Ledger at L001. Rikudoku was around six when it happened, by the card arithmetic (Sodoku 28 with Hild at 12 in *Recalescence*); flagged as an estimate, not a fixed figure. What he was told, and when, is unestablished.
+**Hild Ice** (half-sister, paternal, through Fern Stark): **dead.** Twelve years old, in a cistern doorway at the ninth hour, carried on the Ledger at L001. Rikudoku was about six when it happened and about seven in the year after. What he was told, and when, is unestablished.
 **Emira Moto** (paternal aunt): Sodoku's younger sister. Approximately 22 in this timeline.
 **Sonzai Moto** (paternal uncle): Sodoku's brother, separated. Status unknown in this timeline.
 **Muken Moto** (grandfather, dead): Sodoku's father, killed in the Tenrai corridor assassination. Rikudoku has his frame.
-**Freya** (dead, Ledger L003): Hild's mother, and the reason there is a half-sister on this card at all.
+**Fern Stark** (dead): Hild's mother, and the reason there is a half-sister on this card at all.
 
 ### Open Questions
 
@@ -69,10 +71,8 @@ Stage, Level, Wellspring, Techniques, Stats: all TBD.
 
 #### Origin
 
-Rikudoku Moto was born of the Kōkan Line, to Sodoku Moto and Yoko Mishiro, a fox-spirit of the Mishiro lineage. His card sets his conception in the Scourge of Hell years, when his father was roughly twenty-two and neither parent had named what they were to each other. The archive tells the birth at Kharven-Seat in the Thin Weeks of the fourth year, after his half-sister Hild Ice had died in the cistern doorway. The two counts do not agree.
-The room was a low one off the altar-room, with the night-stone ticking in the corner as it cooled. Brida Ashwell ran it from a stool. Emira Moto, his father's younger sister, had the left side. At the fifteenth hour there was a great deal of blood, and at the ninth minute it stopped on its own, for a reason Brida declined to invent. He came out white-haired and furious.
-His father had stood in the corridor for fifteen hours, and Emira carried the infant out to him, which nothing required of her. Sodoku took him badly, with both hands too far apart, and then not badly. He looked once at the door frame, at about the height of a twelve-year-old's shoulder, and back to the child's face. They called him Rikudoku.
-The Reckoner's form had one slot for a bloodline. His father told the man to enter both, and the birth-form used across the north now carries two. That week his mother wrote in her own record: "My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen."
+Rikudoku Moto was born of the Kōkan Line, to Sodoku Moto and Yoko Mishiro, a fox-spirit of the Mishiro lineage. His card sets his conception in the Scourge of Hell years, when his father was roughly twenty-two and neither parent had named what they were to each other. He was born in those years, far from any roll in the north, and was about seven in the year the first Accord circle was signed.
+He came to the Seat's roll late. In the Thin Weeks of the fourth year, when he was ten, a Reckoner came up to enter him in the corridor off the altar-room. The Reckoner's form had one slot for a bloodline. His father told the man to enter both, and the birth-form used across the north now carries two. That week his mother wrote in her own record: "My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen."
 
 #### The Making
 
@@ -83,7 +83,7 @@ On the first morning he came through the door last and filled the frame. His eye
 
 #### The Cost
 
-He was still carried on his mother's hip when Sayo Shirogane published her objection to his father's union of the Moto lines. Its third argument concerned him. The empire's law, she wrote, still filed his second inheritance under a schedule written for property, which made him at once the sovereign's son and an item in a register. His father read it twice in the map room, set it face down under the inkstand and split wood until it was properly dark. Yoko stood on the step with the boy on her hip, in four layers of wool. Each time the maul fell, he turned toward the sound.
+He was twelve when Sayo Shirogane published her objection to his father's union of the Moto lines. Its third argument concerned him. The empire's law, she wrote, still filed his second inheritance under a schedule written for property, which made him at once the sovereign's son and an item in a register. His father read it twice in the map room, set it face down under the inkstand and split wood until it was properly dark. Yoko stood on the step with the boy beside her, in four layers of wool. Each time the maul fell, he turned toward the sound.
 He had entered no fight of his own choosing since the collarbone. When the tournament bracket lit on the slate, a chair complained under him, and his head came up off the desk one degree at a time. He did not want to hurt anyone in that room. Most of them had not yet said their names to him. "If I have to," he said, to nobody, and put his cheek back down on his forearm.
 
 #### Where They Stand
@@ -94,14 +94,13 @@ Other cards carry the name further. The Wandering Fang's card counts Rikudoku Mo
 
 #### Ties
 
-- **Sodoku Moto** · father and son. His father stood fifteen hours outside the room he was born in, took him badly and then not badly, and told the Reckoner to enter both bloodlines.
-- **Yoko Mishiro** · mother and son. His mother, who carried him on her hip to the woodpile step.
-- **Hild Ice (Stark) · The Sword Princess** · half-siblings. His father's daughter, twelve years old in a cistern doorway at the ninth hour, and on the night Rikudoku was born his father looked once at a door frame at the height of a twelve-year-old's shoulder.
+- **Sodoku Moto** · father and son. His father told the Reckoner to enter both bloodlines when the boy came to the Seat's roll at ten.
+- **Yoko Mishiro** · mother and son. His mother, who stood with him on the woodpile step.
+- **Hild Ice (Stark) · The Sword Princess** · half-siblings. His father's daughter, twelve years old in a cistern doorway at the ninth hour.
 - **Muken Moto** · grandfather. Killed in the corridor long before him, and Rikudoku has his frame.
-- **Emira Moto** · aunt. His father's younger sister, who had the left side at his birth and carried him out into the corridor to his father when nothing required it.
+- **Emira Moto** · aunt. His father's younger sister.
 - **Sonzai Moto** · uncle. His father's brother, separated, whose place in these years is unknown.
-- **Freya** · named on his card. His card names her Hild's mother and the reason he has a half-sister at all, and Hild's own card names Fern Stark.
-- **Brida Ashwell · The Warm Diagnosis** · at his birth. She ran the room he was born in from a stool.
+- **Fern Stark** · Hild's mother. The reason he has a half-sister at all.
 - **Kwon Mu-jin** · teacher and student. His homeroom teacher in Class X, who knows whose son he is, opened his mouth at him on the first morning, closed it and chose another battle.
 - **Xanelor Rafiminar** · classmates. One masked and one asleep, they kept the first morning's two edges.
 - **Xanelor Rafminar · The Wandering Fang** · allies. The Fang's card counts him a philosophical ally in the life after the Academy, and through him the Fang's card and his son Kairen's point to each other.

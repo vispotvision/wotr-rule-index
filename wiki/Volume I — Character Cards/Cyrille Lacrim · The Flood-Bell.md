@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8154-89a8-f9d5ecb39e91"
 notion_url: "https://app.notion.com/p/Cyrille-Lacrim-The-Flood-Bell-3bd58200eb22815489a8f9d5ecb39e91"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T08:42:00.000Z"
 verification: null
 ---
 
 # Cyrille Lacrim · The Flood-Bell
 
+**Say it** · see-REEL LAK-rim
 > *"We leave together; the water knows your weight."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of **Saintwater Articulation**: *jointed limbs of consecrated water that grip, cradle, and parry heat.*
 >

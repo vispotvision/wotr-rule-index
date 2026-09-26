@@ -4,13 +4,15 @@ notion_id: "3bd58200-eb22-8166-82e5-ce41c986085e"
 notion_url: "https://app.notion.com/p/Selantra-The-Velvet-Storm-3bd58200eb22816682e5ce41c986085e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Selantra · The Velvet Storm
 
+**Say it** · seh-LAN-trah
 > **Corrected.** "Aether / Will / Light" were not Essence types. **"Radiance" is not among the sixty.** One of the Triune of the Three-Headed Serpent — **built as a matched set with Velcrissa and Virelsa**, and the three should be read together.
+**As Of** · After the flicker at Altherion
 **Selantra, the Velvet Storm** · Aetheric alchemist. Co-founder of the Triune.
 **Catalyst · Stage VIII, Transcendence.** She took the load-bearing wound and **made it hold weight on purpose.** *Her pride is the wound. She did not heal it; she made it structural, and the sheet records that as Aetheric Ego improving her recovery after backlash — which is the mechanism working exactly as described.*
 **Shell** Class III Resonant · **State** Refined · **η** ~0.70 · **Path** Spirit dominant, Attraction secondary.

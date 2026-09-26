@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-814a-8222-eed9b54f6984"
 notion_url: "https://app.notion.com/p/Adalric-Vladimer-Valen-The-Crimson-Shade-3bd58200eb22814a8222eed9b54f6984"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Adalric Vladimer Valen · The Crimson Shade
 
+**Say it** · AD-ul-rik VLAD-ih-meer VAL-en
 > *"Your blood will remember my name long after your body rots."*
 > **Migrated with all content preserved, including the three artifacts.** *"Sanguine / Umbra / Thanatic / Kinetic Aether"* were not Essence types. **"Aether Class: Crimson Shade — Predatory Duelist Archetype"** is not among the eight; **he is Class III, Resonant.** *"Temperance Compatibility: Journeyman (Stage VII)"* conflates the **Accord rank ladder** with the **Temperance ladder** — two different axes. **Stage VII is retained; Journeyman is struck.**
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Calverne halt
 **Name** · Baron Adalric Vladimer Valen. **Called** · The Crimson Shade.
 **Role** · **Vampiric Aristocrat Wanderer. Hemomantic Duelist. Shadow-Bound Gravewalker.**
 

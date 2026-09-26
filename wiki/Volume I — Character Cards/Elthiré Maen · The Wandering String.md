@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8107-a768-c70bae86432a"
 notion_url: "https://app.notion.com/p/Elthir-Maen-The-Wandering-String-3d958200eb228107a768c70bae86432a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Elthiré Maen · The Wandering String
 
+**Say it** · el-thee-RAY MAYN
 > *"Carry the story, not the glory."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Rift Refrain Incident
 **Name** · Elthiré Maen. **Called** · The Wandering String. **Also** · Keeper of Forgotten Roads.
 **Role** · **Guild Accord field operative under the colour of a vagabond minstrel.** *Carries messages, omens and solace across Wellspring-scarred frontiers. His music, neither spell nor sermon, restores rhythm to regions where Essence falters.*
 **Gloss rights** · Unlimited. *A performer who explains himself in couplets: "The law binds; the tune reminds." He will name what he does to anyone who asks, and the naming is part of the act.*
@@ -36,7 +38,7 @@ verification: null
 
 **Aether Shell** · **Class II · Harmonic.** The attuned Shell holds rhythm; simple spellwork stabilizes; bonds form without tearing the self.
 **Attraction Layer** · Wide and shallow by design: a road's worth of bonds, none of them heavy. *Twelve envoys, one route, and a bird.*
-**Crystal State** · Refined. **η** · 0.50–0.60, Tier of Standing 5, Expert.
+**Crystal State** · Refined. **η** · 0.60–0.70, Tier of Standing 5, Expert.
 **Essence** · *A lineage of Essence artists capable of binding thought, feeling and vibration into one continuum.* His songs alter emotional gravity.
 
 ---

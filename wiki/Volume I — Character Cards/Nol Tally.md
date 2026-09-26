@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-81ee-8c69-c23f29b209d7"
 notion_url: "https://app.notion.com/p/Nol-Tally-3e358200eb2281ee8c69c23f29b209d7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Nol Tally
 
+**Say it** · NOHL TAL-ee
 *Night Watch Society, Timberline chapter, North Ferriby walk. Forester and deer-counter. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** After the eleventh, his line not yet walked again
 **Name.** Nol Tally, filed as *Tally, N.* Northern stratum. Whether Tally is a frozen surname or a live byname from the counting is pending Isaac.
 **Occupation.** Walks forty miles of timber every week and counts deer for a living.
 **Affiliation.** Night Watch Society, Timberline chapter, North Ferriby walk.

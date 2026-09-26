@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81dd-9534-ef3bad726248"
 notion_url: "https://app.notion.com/p/Vorynn-Execution-Strike-3d958200eb2281dd9534ef3bad726248"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -20,7 +20,7 @@ verification: null
 **Cost** · **Every use tears fibre along the ignition path.** *Chained further, the tear compounds; his own count puts the Essence toll near a fifth of what he is carrying per use.*
 **Limit** · **Requires Bloodbind ignition.** *Without the blood already burning, there is no vector to compress and no strike to throw.*
 **Counter** · **Heat returned faster than Vohrin can pull it: a Pyreveil** *or Exuroth ward breaks the lock the same way flame breaks Vohrin's own Stillwater Rite, by forcing thermal flux back into a field built to hold none.*
-> **What nobody knows.** Whether the freeze fails first at the joint or first at the Crystal. Draven has never let it run long enough on himself to find out, and nobody has caught him at it on someone who could tell him afterward.
+> **What nobody knows.** Whether the freeze fails first at the joint or first at the Crystal. Its author has never let it run long enough on himself to find out, and nobody has caught him at it on someone who could tell him afterward.
 
 ---
 
@@ -40,7 +40,7 @@ verification: null
 ### FOW line
 
 **Governing Primary** · Ardency, with Dexterity governing the closing distance.
-**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Silence (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are Draven's own Sub-Stat Peaks.
+**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Silence (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are its author's Sub-Stat Peaks.
 **Stage floor** · Stage VI, Glory.
 **Grade required** · A-Grade.
 **Path gate** · Body.
@@ -50,7 +50,7 @@ verification: null
 
 ### Origin
 
-The old card gives no derivation history for this technique beyond Draven's own profile as a hunter who developed his craft through "constant self-imposed trials of endurance, ambush and predatory pressure," his own character card's language, not invented here. No named teacher or site is given anywhere for this specific strike. Per the named-inventor rule it is treated as self-derived: documented now, for the first time, on this entry, and counterable by anyone who reads it here going forward.
+No derivation history is recorded for this technique beyond its author's profile as a hunter who developed the craft through "constant self-imposed trials of endurance, ambush and predatory pressure." No teacher or site is named for this strike. It is self-derived, and counterable by anyone who studies it.
 
 ---
 
@@ -94,7 +94,7 @@ The old card gives no derivation history for this technique beyond Draven's own 
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, one strike | a fifth of full reserve | 10,360 to 192,200 EU |

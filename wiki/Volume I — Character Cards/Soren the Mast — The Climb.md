@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-816f-a2da-ffec8f522b8f"
 notion_url: "https://app.notion.com/p/Soren-the-Mast-The-Climb-3ba58200eb22816fa2daffec8f522b8f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:11:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Soren the Mast — The Climb
 
+**Say it** · SOR-en
 *The Climb · Always in the Rigging*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Soren the Mast
+> **Age:** 27 · **Origin:** Concord
+> **Level:** 42 · **Stage:** I Ignition · **Band:** I
+> **Role:** Rigger, lookout, forward reconnaissance for the Kokan expedition
+> The climbing IS the oath. The oath IS the climbing.
 > **Age:** 27 · **Origin:** Concord
 > **Level:** 42 · **Stage:** I Ignition · **Band:** I
 > **Role:** Rigger, lookout, forward reconnaissance for the Kokan expedition

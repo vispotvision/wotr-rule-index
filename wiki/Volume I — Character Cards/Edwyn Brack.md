@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-81d1-9417-fbb9662823fe"
 notion_url: "https://app.notion.com/p/Edwyn-Brack-3e358200eb2281d19417fbb9662823fe"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:05:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Edwyn Brack
 
+**Say it** · ED-win BRAK
 *Lattice Classification Bureau, northern office. Classifier. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** After the Ferriby wedge became a Register exhibit
 **Name.** Edwyn Brack. Northern stratum.
 **Affiliation.** Lattice Classification Bureau, northern office. His signature is on half the classifications that come out of it.
 **Level / Stage / Band.** Pending Isaac.

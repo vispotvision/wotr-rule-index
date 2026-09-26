@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8199-8f06-ea7e25369e73"
 notion_url: "https://app.notion.com/p/Xu-Deming-3e358200eb2281998f06ea7e25369e73"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:12:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Xu Deming
 
+**Say it** · SHOO duh-MING
 *Malphas's cell. The purse. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** The Greyshaft Nine coldhouse, while Nuvalik goes for the hook
 **Name.** Xu Deming. Lineage-hall register (Chinese stratum). Capped young into a trading lineage. He took a courtesy name he does not much like; which name that is, and his generation character, are pending Isaac.
 **Affiliation.** Malphas's cell. He is the buyer of record for the Verdantia.
 **Level / Stage / Band.** Pending Isaac.

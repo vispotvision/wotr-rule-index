@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8179-9066-c7f384366807"
 notion_url: "https://app.notion.com/p/Estrella-of-the-Lattice-Veil-3bd58200eb2281799066c7f384366807"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:44:00.000Z"
 verification: null
 ---
 
 # Estrella of the Lattice Veil
 
+**Say it** · es-TREL-ah
 > **Corrected.** **"The Wellspring of Conjunction"** is not among the sixty — Conjunction is a Great Work operation and one of the four alchemical Operations, **not a current.** "Aether-Touched Spiritweaver" was not an Essence type. **"Old Lunar Harmonics (pre-Atlas Moons)"** carried as flavour pending a cosmology check.
 **Estrella of the Lattice Veil** · Occult medium, soul-binder. Peripheral agent of the Creviceward Circle.
 **Catalyst · Stage VII, Refraction.** The Domain seed, and with it the ability to examine her own architecture. *Her Half-Seer's Eye is not a gift — one eye sees in metaphor and the other sees what once was true, which is Refraction's dual sight described from inside.*

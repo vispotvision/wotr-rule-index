@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-8107-a384-dc30c3ac9760"
 notion_url: "https://app.notion.com/p/Iracordas-3b258200eb228107a384dc30c3ac9760"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Iracordas
 
+**Say it** · eer-ah-KOR-das
 *The Architect of Despair · The Pale Shadow · Malakar's First Hand · Card 10*
 > *Six-part template. He Who Crowns Wrath in Silence.*
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity and Core Profile
 
+**As Of** Malakar's First Hand, while his master lives
 **Race / Lineage** **First Eon Pureblood Demon**
 **Faction** The Seven Great Demonic Generals — **The First Eon**
 **Temperance Stage** **X — Realization**

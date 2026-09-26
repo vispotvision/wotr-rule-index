@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d0-aa9e-ecf69db979ee"
 notion_url: "https://app.notion.com/p/Kaien-Thal-Ruhm-The-Gilded-Nomad-3d958200eb2281d0aa9eecf69db979ee"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaien Thal'Ruhm · The Gilded Nomad
 
+**Say it** · KY-en thal-ROOM
 > *"The heart is a furnace. You just have to decide what you're willing to burn."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the storm on the pilgrim road
 **Name** · Kaien Thal'Ruhm. **Called** · The Gilded Nomad.
 **Role** · **Wandering Alchemist. Aether Arm Engineer. Exile-Artisan.**
 **Gloss rights** · Diagnostic only. He will explain how a thing works, in the plain language of a man who built it, and stop there.

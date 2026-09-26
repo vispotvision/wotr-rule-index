@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8103-afb2-e1698a94b6cd"
 notion_url: "https://app.notion.com/p/Geography-the-Four-Quarters-3b158200eb228103afb2e1698a94b6cd"
 section: "Geography"
 tags: ["Geography", "Trade & Economy", "Materials"]
-last_edited: "2026-09-23T00:00:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: "unverified"
 ---
 
 # Geography & the Four Quarters
 
+**Say it** · the FOR KWOR-terz
 > Borders move. **Bedrock does not.** A shaft sunk on the northern shield behaves the same whichever charter is over the headframe, and a shaft sunk in the eastern ash will kill your men the same way regardless of which flag is over it.
 > *Any surveyor who reads this ledger politically has read it wrong.*
 

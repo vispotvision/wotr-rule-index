@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fd-bb67-d8007cb2fc2d"
 notion_url: "https://app.notion.com/p/Aurgon-Mintruix-The-Grand-Seer-of-the-Last-Age-3d958200eb2281fdbb67d8007cb2fc2d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Aurgon Mintruix · The Grand Seer of the Last Age
 
+**Say it** · OR-gon MIN-troo-iks
 > *"Ask your question again. I will answer the layer you meant, not the layer you asked."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After his answer on the foundling
 **True Name** · Aurgon Mintruix. **Common Name** · The Grand Seer of the Last Age.
 **Former Accord Rank** · Magister-Seer, Guild Accord, Arbitration Division.
 **Epithets** · The Wellspring-Chained · The Library That Breathes · Witness of the Closing of the First Eon.

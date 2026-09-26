@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-819b-9c7f-f6260b0a5220"
 notion_url: "https://app.notion.com/p/Varozael-Dreikthorne-Herald-of-Nightglass-3bd58200eb22819b9c7ff6260b0a5220"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T09:04:00.000Z"
 verification: null
 ---
 
 # Varozael Dreikthorne · Herald of Nightglass
 
+**Say it** · vah-ROH-zayl DRYKE-thorn
 > *"When the stag lowers his antlers, the forest is already his."*
 > **The card states no Temperance Stage.** **Stage IX — Invocation assigned and flagged as originated**, on the strength of the Cycle: *he ascends by hunting powerful prey and anchoring their remains into his Domain's soil.*
 >

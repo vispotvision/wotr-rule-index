@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8135-9fdd-f8bb25a119be"
 notion_url: "https://app.notion.com/p/Raivhar-Drakonis-The-Ashen-Horn-3bd58200eb2281359fddf8bb25a119be"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Raivhar Drakonis · The Ashen Horn
 
+**Say it** · RYE-var drah-KOH-niss
 > *"Every breath I take is borrowed from the fire that should have ended me."*
 > **The card states no Temperance Stage.** **Stage IX — Invocation assigned and flagged as originated**, on the strength of the **Unknown "Voice"** — *whispers to him in the flame's pulse, possibly a Wellspring Echo.*
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After Dorrosfenn, still rogue
 **Name** · Raivhar Drakonis. **Titles** · **The Ashen Horn.** *Harbinger of the Voidflame.*
 **Role** · **Domain Gladiator. Flame-Tainted Exorcist. Wellspring Warbringer.**
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c4-8a25-f459e2b41374"
 notion_url: "https://app.notion.com/p/Tsukihana-Reimei-Moon-Bloom-at-Dawn-3d958200eb2281c48a25f459e2b41374"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Tsukihana Reimei · Moon-Bloom at Dawn
 
+**Say it** · tsoo-kee-HAH-nah RAY-may
 > *"Violence is a form of pruning."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Still Garden at Altherion
 **Name** · Tsukihana Reimei (月花黎明). **Called** · Moon-Bloom at Dawn. **The Pale Petal of Silence** · *Kinjirareta no Shizukana Ha.* Among the fae, *Hana-no-Kagami*, the Mirror That Blooms.
 **Role** · **Enforcement Division, Veil Arbiter Class** *(unattested)*. **Reflection-rite practitioner. The one cut that severs corruption and keeps the soul.**
 **Lineage** · Human, fae-tainted; the *Aether-Kissed* subtype. *Diluted Verdantia resonance from the fae strain gives her aura the faint luminescence of moon-lit petals.*
@@ -37,7 +39,7 @@ verification: null
 
 **Aether Shell** · **Class III · Resonant.** The fae influence makes her resonance subtly melodic.
 **Attraction Layer** · Developed and lonely. *She hears the hum of Essence even when no Well stirs, and heightened intuition has cost her company.*
-**Crystal State** · Refined, **volatile under emotional duress.** *Harmonic, soothing, and the melody breaks when she does.* **η** · 0.55 to 0.60, Tier of Standing 5, Expert *(estimate, Expert range)*.
+**Crystal State** · Refined, **volatile under emotional duress.** *Harmonic, soothing, and the melody breaks when she does.* **η** · 0.60 to 0.70, Tier of Standing 5, Expert *(estimate, Expert range)*.
 **Essence colour** · Pale lilac, the moon-lit petal; her eyes glow with it when she channels.
 **The Mirror Garden** · *Domain seed. Read from three Archonic stations: Kaetra (Dream), Selhar (Harmony, glyphs `[Se]` Song and `[Ar]` Accord), Elyndra (Renewal, glyphs `[Yn]` Bloom and `[Vael]` Renewal).*
 

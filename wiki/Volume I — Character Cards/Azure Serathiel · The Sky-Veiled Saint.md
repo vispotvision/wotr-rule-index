@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8167-8012-ef411261330c"
 notion_url: "https://app.notion.com/p/Azure-Serathiel-The-Sky-Veiled-Saint-3bd58200eb2281678012ef411261330c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:40:00.000Z"
 verification: null
 ---
 
 # Azure Serathiel · The Sky-Veiled Saint
 
+**Say it** · AZH-er seh-RATH-ee-el
 > *"The sky does not cleave. It parts. So too must the blade."*
 
 ---

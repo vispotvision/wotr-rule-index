@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8118-966f-fa511f1cb4da"
 notion_url: "https://app.notion.com/p/Saba-no-Rosa-3d958200eb228118966ffa511f1cb4da"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:45:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · Half a percent of full reserve per rose, paid from the practitioner's own reserve; a small sea of a dozen roses costs 6%, a long ledger of a hundred or more 50% and upward.
 **Limit** · It cannot erase a deposit, since the past stays true and only the present claim is diluted, and it loads only a debt that is genuinely unpaid.
 **Counter** · A target with no unpaid debts, standing on broad and independent claims rather than a single chain, Silence, or the death or distraction of the gardener standing exposed in the open.
-**What nobody knows** · Why Bara Moto made the lesson conditional on having learned to grieve correctly, and what correct grief was taken to mean.
+**What nobody knows** · Why its originator made the lesson conditional on having learned to grieve correctly, and what correct grief was taken to mean.
 
 ### Codex line
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Bara Moto passed the Work to Muken once, on the seventy-third day of instruction beneath the lower lattice of the Plane of Fate, as a private lesson rather than a house curriculum, and warned him not to teach it to anyone who had not first learned to grieve correctly. Paired with the Shingan's Tengan or Kamigan branch, which can name the single correct rose, it turns from an apocalyptic working into a surgical one.
-**Practitioners** · Bara Moto; Muken.
+**Origin** · Its originator passed the Work to a single student once, on the seventy-third day of instruction beneath the lower lattice of the Plane of Fate, as a private lesson rather than a house curriculum, and warned him not to teach it to anyone who had not first learned to grieve correctly. Paired with the Shingan's Tengan or Kamigan branch, which can name the single correct rose, it turns from an apocalyptic working into a surgical one.
+**Practitioners · Its originator; the one student it was passed to.**
 
 ---
 

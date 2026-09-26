@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8131-b88c-ce87d4202313"
 notion_url: "https://app.notion.com/p/Kaito-Akagiri-The-Scarlet-Plague-3bd58200eb228131b88cce87d4202313"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T08:49:00.000Z"
 verification: null
 ---
 
 # Kaito Akagiri · The Scarlet Plague
 
+**Say it** · KY-toh ah-kah-GEE-ree
 > **A new error class, and it appears on three linked cards at once.** This sheet gives **"Temperance at Benediction."**
 >
 > **Benediction is not a Temperance Stage.** *It is a resonance — attested as gold's own alignment, the substrate of the oath.* **The sixteen Stages are Murmuring through Apex and Benediction is not among them.** *Kaede's sheet omits a Stage entirely; Yukari's gives "late Benediction, able to touch Severance" — and Severance is a Resilience sub-stat, not a Stage either.*

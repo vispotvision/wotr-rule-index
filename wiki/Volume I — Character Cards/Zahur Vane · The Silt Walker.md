@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d7-a691-e0226b730635"
 notion_url: "https://app.notion.com/p/Zahur-Vane-The-Silt-Walker-3d958200eb2281d7a691e0226b730635"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Zahur Vane · The Silt Walker
 
+**Say it** · zah-HOOR VAYN
 > *"The sand does not need to be hard to kill you. It only needs to be deep. Step carefully."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Solfatara burned
 **Name** · Zahur Vane. **Called** · The Silt Walker. **Also known as** · The Weaver of the Blind Road, Keeper of the Sun-Dial Rites, The Soft Trap. **Epithet** · He Who Wears the Desert Like a Skin.
 **Race** · Human, a nomad lineage of the Great Sand Sea. Deep, warm brown skin; coiled dark hair; resistant to extreme heat and dehydration.
 **Role** · **Gatekeeper and wayfinder.** **Gloss rights** · Never; he explains nothing, and the desert does the talking for him.

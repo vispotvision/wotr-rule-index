@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8140-a871-e823c3f36d89"
 notion_url: "https://app.notion.com/p/Alchemetrica-3b158200eb228140a871e823c3f36d89"
 section: "Materials, Alchemy & Trade"
 tags: ["Alchemy", "Materials"]
-last_edited: "2026-09-10T11:20:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -78,6 +78,12 @@ What the alchemist does is arrange conditions and issue an authorisation so that
 >
 > Everyone in the trade knows the arrangement. **Nobody has petitioned to change it, because the pure alchemists know exactly what a petition would cost them and the Crystal-bearers know exactly what it is worth.**
 > **What a pure alchemist actually is, in the vocabulary of the other registers.** A soul with a Dormant Crystal. **Class Ø.**
+> 
+> Which means they do not temper and cannot, because Temperance is a melt and a Crystal that never woke is no organ to melt. **What they undergo instead is the Weathering**: refinement under sustained strain with no recasting, the soul hardening in place along the direction it was already being used. The trade word for the result is **grain**.
+> 
+> *The catalyst network is grain, described from the bench rather than from the coil.* Conditioned tissue, conduction channels laid down by habituation, and in rare cases induced apertures. **It is real, it is measurable, it strengthens only in the direction the work pushed it, and it can never be redirected into anything else.** A forty-year Distillation specialist is extraordinary at Distillation and will be extraordinary at nothing else for the rest of his life.
+> 
+> **No instrument in the Accord reads grain.** The gates above Tier Five consult Temperance because Temperance is what the coil can see, and the discipline's most precise practitioners are invisible to the apparatus that ranks them. *This is the same blind spot the Derivation Index carries and the same blind spot the screening seasons carry, and it is one blind spot rather than three.*
 >
 > Which means they do not temper and cannot, because Temperance is a melt and there is no organ to melt. **What they undergo instead is the Weathering**: refinement under sustained strain with no recasting, the soul hardening in place along the direction it was already being used. The trade word for the result is **grain**.
 >

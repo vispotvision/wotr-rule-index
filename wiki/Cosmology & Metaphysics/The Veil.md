@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-818f-80cc-dbf06e137994"
 notion_url: "https://app.notion.com/p/The-Veil-3b158200eb22818f80ccdbf06e137994"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology"]
-last_edited: "2026-09-26T06:46:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
@@ -22,7 +22,7 @@ verification: "unverified"
 **Cost** · Essence priced by the ground: a Baseline crossing is 2 percent of full reserve, a Thin zone half to 1 percent, a Thick zone 5 to 20 percent. Every crossing also adds Soul Drift, which never comes back.
 **Limit** · No controlled operation below Refraction, no entry into the Soul Plane or Plane of Fate, only the threshold, and the body is left behind every time. Nobody seals a significant rupture alone.
 **Counter** · Thick ground or a city; Silence, wards and anti-Harmonia fields; harm to the unattended body, since a crossing cannot be aborted fast.
-**What nobody knows** · Whether Rikudoku Moto's soul still drifts between the Veil's folds after his death, as the tradition about him claims.
+**What nobody knows** · Whether the soul of a Moto who worked the deep layers still drifts between the Veil's folds after his death, as the tradition about him claims.
 
 ### Codex line
 
@@ -45,8 +45,8 @@ verification: "unverified"
 
 ### Origin
 
-**Origin** · Sylorin, the Ferryman of Etherea, governs the Ethereal Flow that runs through the Veil, and Aetherica literature names the Veil the Spiritual Stratum. Eremund Vellsore developed the first known method of Veil-thread weaving through song.
-**Practitioners** · Rikudoku Moto, said to have worked the deep Veil layers to fracture spiritual continuity across battlefields; Eremund Vellsore; the Bound Watchers at the outer edge of the Astral Fold, who sit in judgment over oaths and Temperance rites; the Veil Pilgrims, who never fully returned.
+**Origin** · Sylorin, the Ferryman of Etherea, governs the Ethereal Flow that runs through the Veil, and Aetherica literature names the Veil the Spiritual Stratum. The first known method of Veil-thread weaving was developed through song.
+**Practitioners · A Moto said to have worked** the deep Veil layers to fracture spiritual continuity across battlefields; the Veil-thread singers; the Bound Watchers at the outer edge of the Astral Fold, who sit in judgment over oaths and Temperance rites; the Veil Pilgrims, who never fully returned.
 
 ---
 

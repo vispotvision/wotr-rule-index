@@ -4,7 +4,7 @@ notion_id: "3db58200-eb22-813c-9f35-dc4735b78c66"
 notion_url: "https://app.notion.com/p/Precept-3db58200eb22813c9f35dc4735b78c66"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:45:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -42,7 +42,7 @@ verification: null
 ### Origin
 
 **Origin** · The older registers called the practice enshrining. Its first act is credited to Urion, Archon of Balance, a reference against which other things are measured, whom tradition names as author of the Twelve Precepts of Fate; guilds use it for their codes because it leaves no continuous deposit where people must live.
-**Practitioners** · Urion, Archon of Balance; Lysandra Velkaris, said to have written the Precept of Hierarchic Ascendance for Highspire's chain of command.
+**Practitioners** · Urion, Archon of Balance; the author of the Precept of Hierarchic Ascendance, said to have written it for Highspire's chain of command.
 
 ---
 

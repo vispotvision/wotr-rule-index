@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-655 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+671 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -12,14 +12,14 @@
 - [Band of Frozen Brambles · Winter-Briar](Artifacts/Band%20of%20Frozen%20Brambles%20·%20Winter-Briar.md)
 - [Banisher · Writ-Spear of Exile](Artifacts/Banisher%20·%20Writ-Spear%20of%20Exile.md)
 - [Horizon's Reach · Limen-Hand](Artifacts/Horizon's%20Reach%20·%20Limen-Hand.md)
-- [Kibanda cha Mwanga wa Miti · Lantern of the Grove's Light](Artifacts/Kibanda%20cha%20Mwanga%20wa%20Miti%20·%20Lantern%20of%20the%20Grove's%20Light.md)
+- [Kibanda cha Mwanga wa Miti · Shelter of the Trees' Light](Artifacts/Kibanda%20cha%20Mwanga%20wa%20Miti%20·%20Shelter%20of%20the%20Trees'%20Light.md)
 - [Kogane Kei · The Soul-Reed Blade](Artifacts/Kogane%20Kei%20·%20The%20Soul-Reed%20Blade.md)
 - [Lurien's Hearthvine · The Green Cantor's Bow](Artifacts/Lurien's%20Hearthvine%20·%20The%20Green%20Cantor's%20Bow.md)
 - [Mbunda wa Moyo · Drum of the Living Heart](Artifacts/Mbunda%20wa%20Moyo%20·%20Drum%20of%20the%20Living%20Heart.md)
 - [Mirrorwell Prism · Soulbound Echo Anchor](Artifacts/Mirrorwell%20Prism%20·%20Soulbound%20Echo%20Anchor.md)
-- [Mkono wa Miti · Bracer of the Living Grove](Artifacts/Mkono%20wa%20Miti%20·%20Bracer%20of%20the%20Living%20Grove.md)
+- [Mkanda wa Mizimu · Band of the Ancestral Spirits](Artifacts/Mkanda%20wa%20Mizimu%20·%20Band%20of%20the%20Ancestral%20Spirits.md)
+- [Mkono wa Miti · Arm of the Trees](Artifacts/Mkono%20wa%20Miti%20·%20Arm%20of%20the%20Trees.md)
 - [Mnemonis Solution · The Recursive Draft](Artifacts/Mnemonis%20Solution%20·%20The%20Recursive%20Draft.md)
-- [Nkanda wa Mizimu · Necklace of the Spirit Chorus](Artifacts/Nkanda%20wa%20Mizimu%20·%20Necklace%20of%20the%20Spirit%20Chorus.md)
 - [Staff of the Verdant Pulse · Domain Anchor](Artifacts/Staff%20of%20the%20Verdant%20Pulse%20·%20Domain%20Anchor.md)
 - [The Black Aperture · Void Key](Artifacts/The%20Black%20Aperture%20·%20Void%20Key.md)
 - [The Lantern of Echoed Veils · Spirit-Binding Relic](Artifacts/The%20Lantern%20of%20Echoed%20Veils%20·%20Spirit-Binding%20Relic.md)
@@ -27,7 +27,7 @@
 - [The Ledger of Forgotten Faces · Glyph Tool / Cursed Object](Artifacts/The%20Ledger%20of%20Forgotten%20Faces%20·%20Glyph%20Tool%20Cursed%20Object.md)
 - [The Marshgrave's Phial · The Bottle That Weeps](Artifacts/The%20Marshgrave's%20Phial%20·%20The%20Bottle%20That%20Weeps.md)
 - [The Ocular Codex of Thirteen Mouths · Reader-That-Reads-Back](Artifacts/The%20Ocular%20Codex%20of%20Thirteen%20Mouths%20·%20Reader-That-Reads-Back.md)
-- [Upanga wa Msimu Nne · Blade of the Four Seasons](Artifacts/Upanga%20wa%20Msimu%20Nne%20·%20Blade%20of%20the%20Four%20Seasons.md)
+- [Upanga wa Misimu Minne · Blade of the Four Seasons](Artifacts/Upanga%20wa%20Misimu%20Minne%20·%20Blade%20of%20the%20Four%20Seasons.md)
 - [Verdiction Gauntlet · The Hand of Judgment](Artifacts/Verdiction%20Gauntlet%20·%20The%20Hand%20of%20Judgment.md)
 
 ## Bestiary (1)
@@ -65,9 +65,9 @@
 
 - [Factions, Bloodlines & Institutions](Factions/Factions,%20Bloodlines%20&%20Institutions.md)
 
-## Factions, Bloodlines & Institutions (11)
+## Factions, Bloodlines & Institutions (13)
 
-- [Sanctum Lux](Factions,%20Bloodlines%20&%20Institutions/Sanctum%20Lux.md)
+- [Sancta Lux](Factions,%20Bloodlines%20&%20Institutions/Sancta%20Lux.md)
 - [Sōhai — The Whole Bow](Factions,%20Bloodlines%20&%20Institutions/Sōhai%20—%20The%20Whole%20Bow.md)
 - [The Archaic Bloodlines](Factions,%20Bloodlines%20&%20Institutions/The%20Archaic%20Bloodlines.md)
 - [The Articles of the Accord, and the Kinds of Polity](Factions,%20Bloodlines%20&%20Institutions/The%20Articles%20of%20the%20Accord,%20and%20the%20Kinds%20of%20Polity.md)
@@ -76,6 +76,8 @@
 - [The Eight Great Houses of Kushara](Factions,%20Bloodlines%20&%20Institutions/The%20Eight%20Great%20Houses%20of%20Kushara.md)
 - [The Guild Accord](Factions,%20Bloodlines%20&%20Institutions/The%20Guild%20Accord.md)
 - [The Holy Inquisition](Factions,%20Bloodlines%20&%20Institutions/The%20Holy%20Inquisition.md)
+- [The Mother](Factions,%20Bloodlines%20&%20Institutions/The%20Mother.md)
+- [The Powers of the Imperial Age](Factions,%20Bloodlines%20&%20Institutions/The%20Powers%20of%20the%20Imperial%20Age.md)
 - [The Ten Great Houses of Drakyssia](Factions,%20Bloodlines%20&%20Institutions/The%20Ten%20Great%20Houses%20of%20Drakyssia.md)
 - [The Void Vanguard](Factions,%20Bloodlines%20&%20Institutions/The%20Void%20Vanguard.md)
 
@@ -114,13 +116,16 @@
 - [The Zettari–Mahou Accord](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Zettari–Mahou%20Accord.md)
 - [To Ara Min Mahuo](In-World%20Documents%20&%20the%20Narrative%20Archive/To%20Ara%20Min%20Mahuo.md)
 
-## Information not on WIKI (5)
+## Information not on WIKI (8)
 
 - [Artifacts](Information%20not%20on%20WIKI/Artifacts.md)
+- [Bram Greymane's Narration Register](Information%20not%20on%20WIKI/Bram%20Greymane's%20Narration%20Register.md)
 - [Characters](Information%20not%20on%20WIKI/Characters.md)
 - [In-World Documents & the Narrative Archive](Information%20not%20on%20WIKI/In-World%20Documents%20&%20the%20Narrative%20Archive.md)
+- [Lorn Stark's Narration Register](Information%20not%20on%20WIKI/Lorn%20Stark's%20Narration%20Register.md)
 - [Pack Twenty — The Clearance](Information%20not%20on%20WIKI/Pack%20Twenty%20—%20The%20Clearance.md)
 - [The Disciplines](Information%20not%20on%20WIKI/The%20Disciplines.md)
+- [The Moto Narration Register](Information%20not%20on%20WIKI/The%20Moto%20Narration%20Register.md)
 
 ## Lore & History (2)
 
@@ -211,7 +216,7 @@
 
 ## Techniques (56)
 
-- [Archivium Locus](Techniques/Archivium%20Locus.md)
+- [Archivii Locus](Techniques/Archivii%20Locus.md)
 - [Ashfang Mark Invocation](Techniques/Ashfang%20Mark%20Invocation.md)
 - [Auric Parallax Veil](Techniques/Auric%20Parallax%20Veil.md)
 - [Bastion Imperium](Techniques/Bastion%20Imperium.md)
@@ -219,7 +224,7 @@
 - [Celestial Decree: Aeon-Shard Mandate](Techniques/Celestial%20Decree%20Aeon-Shard%20Mandate.md)
 - [Celestial Harmonic Shear](Techniques/Celestial%20Harmonic%20Shear.md)
 - [Chorda Somnii](Techniques/Chorda%20Somnii.md)
-- [Coagula Dominion](Techniques/Coagula%20Dominion.md)
+- [Coagula Dominium](Techniques/Coagula%20Dominium.md)
 - [Corona Lunaris](Techniques/Corona%20Lunaris.md)
 - [Crimson Dirge](Techniques/Crimson%20Dirge.md)
 - [Cryost Ascendant](Techniques/Cryost%20Ascendant.md)
@@ -250,15 +255,15 @@
 - [Pyrewind Breaker](Techniques/Pyrewind%20Breaker.md)
 - [Radiant Ribbon Shell](Techniques/Radiant%20Ribbon%20Shell.md)
 - [Seraphic Thread Blessing](Techniques/Seraphic%20Thread%20Blessing.md)
-- [Sigillum Fixatio](Techniques/Sigillum%20Fixatio.md)
+- [Sigillum Fixationis](Techniques/Sigillum%20Fixationis.md)
 - [Solarbound Aegoric Knight](Techniques/Solarbound%20Aegoric%20Knight.md)
-- [Somnium Scriptorium](Techniques/Somnium%20Scriptorium.md)
+- [Somnii Scriptorium](Techniques/Somnii%20Scriptorium.md)
 - [Sovereign Parallax Lance](Techniques/Sovereign%20Parallax%20Lance.md)
 - [Sovereign's Reprisal](Techniques/Sovereign's%20Reprisal.md)
 - [Speculum Harmoniae](Techniques/Speculum%20Harmoniae.md)
-- [Speculum Recordatio](Techniques/Speculum%20Recordatio.md)
+- [Speculum Recordationis](Techniques/Speculum%20Recordationis.md)
 - [Spinal Forge Ascent](Techniques/Spinal%20Forge%20Ascent.md)
-- [Symphonia Ascendant](Techniques/Symphonia%20Ascendant.md)
+- [Symphonia Ascendens](Techniques/Symphonia%20Ascendens.md)
 - [Tenebra Ambush Art](Techniques/Tenebra%20Ambush%20Art.md)
 - [The Aether Bastion](Techniques/The%20Aether%20Bastion.md)
 - [The Last Monolith](Techniques/The%20Last%20Monolith.md)
@@ -301,7 +306,7 @@
 
 - [The Five Beastkin Lineages](The%20Beastkin%20and%20Demihuman%20Peoples/The%20Five%20Beastkin%20Lineages.md)
 
-## The Bestiary (7)
+## The Bestiary (8)
 
 - [Aberrations](The%20Bestiary/Aberrations.md)
 - [Divine, Archonic and Elemental](The%20Bestiary/Divine,%20Archonic%20and%20Elemental.md)
@@ -310,6 +315,7 @@
 - [Summoned and Bound](The%20Bestiary/Summoned%20and%20Bound.md)
 - [The Draconic Lineage](The%20Bestiary/The%20Draconic%20Lineage.md)
 - [The Undying and the Constructs](The%20Bestiary/The%20Undying%20and%20the%20Constructs.md)
+- [Well-spawn](The%20Bestiary/Well-spawn.md)
 
 ## The Called · Summon Register (1)
 
@@ -398,7 +404,7 @@
 - [The Kingdom of Nalūn — The Chain-Cities](The%20Inner%20World%20—%20The%20Northern%20Shield/The%20Kingdom%20of%20Nalūn%20—%20The%20Chain-Cities.md)
 - [The Sovereign Enclave of Ketsuen — The Crow's Reach](The%20Inner%20World%20—%20The%20Northern%20Shield/The%20Sovereign%20Enclave%20of%20Ketsuen%20—%20The%20Crow's%20Reach.md)
 
-## The Magic System (23)
+## The Magic System (24)
 
 - [Counterplay: What Beats a Practitioner](The%20Magic%20System/Counterplay%20What%20Beats%20a%20Practitioner.md)
 - [Fracture of Worlds — The Living System](The%20Magic%20System/Fracture%20of%20Worlds%20—%20The%20Living%20System.md)
@@ -411,6 +417,7 @@
 - [The Eight Families & the Sixty Wellsprings](The%20Magic%20System/The%20Eight%20Families%20&%20the%20Sixty%20Wellsprings.md)
 - [The Four Crafts](The%20Magic%20System/The%20Four%20Crafts.md)
 - [The Four Paths: Routing, Recognition and the Gate](The%20Magic%20System/The%20Four%20Paths%20Routing,%20Recognition%20and%20the%20Gate.md)
+- [The Gate: Who May Learn Magic](The%20Magic%20System/The%20Gate%20Who%20May%20Learn%20Magic.md)
 - [The Imperial Age: Aether Infrastructure](The%20Magic%20System/The%20Imperial%20Age%20Aether%20Infrastructure.md)
 - [The Ladder and the Draft — Temperance, Advancement and Essence Drafts](The%20Magic%20System/The%20Ladder%20and%20the%20Draft%20—%20Temperance,%20Advancement%20and%20Essence%20Drafts.md)
 - [The Lexicon of Magic — Master Terminology](The%20Magic%20System/The%20Lexicon%20of%20Magic%20—%20Master%20Terminology.md)
@@ -510,7 +517,7 @@
 - [The Ledger](The%20Table%20—%20Running%20Pieces/The%20Ledger.md)
 - [The Ledger, structured](The%20Table%20—%20Running%20Pieces/The%20Ledger,%20structured.md)
 
-## The Tongues of the Realms (8)
+## The Tongues of the Realms (9)
 
 - [Accord Latin — The Formulary and the Two Spoken Registers](The%20Tongues%20of%20the%20Realms/Accord%20Latin%20—%20The%20Formulary%20and%20the%20Two%20Spoken%20Registers.md)
 - [Common — The Tongue With No Distinctions](The%20Tongues%20of%20the%20Realms/Common%20—%20The%20Tongue%20With%20No%20Distinctions.md)
@@ -519,6 +526,7 @@
 - [Moto Element Inventory — Japonic Stratum](The%20Tongues%20of%20the%20Realms/Moto%20Element%20Inventory%20—%20Japonic%20Stratum.md)
 - [Old Vaross — The Goblinoid Tongue](The%20Tongues%20of%20the%20Realms/Old%20Vaross%20—%20The%20Goblinoid%20Tongue.md)
 - [Runic Dawi — The Tongue of the Holds](The%20Tongues%20of%20the%20Realms/Runic%20Dawi%20—%20The%20Tongue%20of%20the%20Holds.md)
+- [Swears, Oaths and Insults](The%20Tongues%20of%20the%20Realms/Swears,%20Oaths%20and%20Insults.md)
 - [The Celestial Host — Naming](The%20Tongues%20of%20the%20Realms/The%20Celestial%20Host%20—%20Naming.md)
 
 ## The War Cycle (10)
@@ -539,7 +547,11 @@
 - [The Paths](The%20Zettari/The%20Paths.md)
 - [The Zettari — Agano Sand and the Witnessed Temper](The%20Zettari/The%20Zettari%20—%20Agano%20Sand%20and%20the%20Witnessed%20Temper.md)
 
-## Volume I — Character Cards (276)
+## Value, Coin and Trade (1)
+
+- [What Things Cost](Value,%20Coin%20and%20Trade/What%20Things%20Cost.md)
+
+## Volume I — Character Cards (283)
 
 - [Adalric Vladimer Valen · The Crimson Shade](Volume%20I%20—%20Character%20Cards/Adalric%20Vladimer%20Valen%20·%20The%20Crimson%20Shade.md)
 - [Aeldoris Vanthryx · The Ruthless](Volume%20I%20—%20Character%20Cards/Aeldoris%20Vanthryx%20·%20The%20Ruthless.md)
@@ -581,6 +593,7 @@
 - [Casimir Aldous Alleyne · The Ashen Hand](Volume%20I%20—%20Character%20Cards/Casimir%20Aldous%20Alleyne%20·%20The%20Ashen%20Hand.md)
 - [Cassiel Asterion · The Prism Notary](Volume%20I%20—%20Character%20Cards/Cassiel%20Asterion%20·%20The%20Prism%20Notary.md)
 - [Cernan Eryndor · The Bull](Volume%20I%20—%20Character%20Cards/Cernan%20Eryndor%20·%20The%20Bull.md)
+- [Charles Lambert · The God Hand](Volume%20I%20—%20Character%20Cards/Charles%20Lambert%20·%20The%20God%20Hand.md)
 - [Chimwala N'Doro · Emerald Tusks of the Verdant Covenant](Volume%20I%20—%20Character%20Cards/Chimwala%20N'Doro%20·%20Emerald%20Tusks%20of%20the%20Verdant%20Covenant.md)
 - [Commander Severin Bale · The Slayer](Volume%20I%20—%20Character%20Cards/Commander%20Severin%20Bale%20·%20The%20Slayer.md)
 - [Corwin Sesk](Volume%20I%20—%20Character%20Cards/Corwin%20Sesk.md)
@@ -592,6 +605,7 @@
 - [Daigo Tenryū · Ribbon-Ox](Volume%20I%20—%20Character%20Cards/Daigo%20Tenryū%20·%20Ribbon-Ox.md)
 - [Dalphne of the Pale Bough · The Gentle Fang](Volume%20I%20—%20Character%20Cards/Dalphne%20of%20the%20Pale%20Bough%20·%20The%20Gentle%20Fang.md)
 - [Deimos · The Sin Eater](Volume%20I%20—%20Character%20Cards/Deimos%20·%20The%20Sin%20Eater.md)
+- [Dhaerin Valorin · The Scholar of Vaeloris](Volume%20I%20—%20Character%20Cards/Dhaerin%20Valorin%20·%20The%20Scholar%20of%20Vaeloris.md)
 - [Dorrik · The Pot Man](Volume%20I%20—%20Character%20Cards/Dorrik%20·%20The%20Pot%20Man.md)
 - [Dougou Ozumu Zettari](Volume%20I%20—%20Character%20Cards/Dougou%20Ozumu%20Zettari.md)
 - [Dr. Vaelion Rhest · The Sleepless Theorist](Volume%20I%20—%20Character%20Cards/Dr.%20Vaelion%20Rhest%20·%20The%20Sleepless%20Theorist.md)
@@ -608,9 +622,11 @@
 - [Elowen Mireille · The Porcelain Archivist](Volume%20I%20—%20Character%20Cards/Elowen%20Mireille%20·%20The%20Porcelain%20Archivist.md)
 - [Elthiré Maen · The Wandering String](Volume%20I%20—%20Character%20Cards/Elthiré%20Maen%20·%20The%20Wandering%20String.md)
 - [Emilia Veirynthiel · The Bloom of Dissonant Realms](Volume%20I%20—%20Character%20Cards/Emilia%20Veirynthiel%20·%20The%20Bloom%20of%20Dissonant%20Realms.md)
+- [Emira Moto · Daughter of Muken](Volume%20I%20—%20Character%20Cards/Emira%20Moto%20·%20Daughter%20of%20Muken.md)
 - [Eryndrel Vaelune · The Trinebow](Volume%20I%20—%20Character%20Cards/Eryndrel%20Vaelune%20·%20The%20Trinebow.md)
 - [Estrella of the Lattice Veil](Volume%20I%20—%20Character%20Cards/Estrella%20of%20the%20Lattice%20Veil.md)
 - [Evangelien Rhymaris · The Hollow Bride](Volume%20I%20—%20Character%20Cards/Evangelien%20Rhymaris%20·%20The%20Hollow%20Bride.md)
+- [Fern Stark · The Woman He Chose](Volume%20I%20—%20Character%20Cards/Fern%20Stark%20·%20The%20Woman%20He%20Chose.md)
 - [Francis Alexander · The Crimson Dirge of Atonement](Volume%20I%20—%20Character%20Cards/Francis%20Alexander%20·%20The%20Crimson%20Dirge%20of%20Atonement.md)
 - [Freda Thunn-Gorr — The Caldera Wife](Volume%20I%20—%20Character%20Cards/Freda%20Thunn-Gorr%20—%20The%20Caldera%20Wife.md)
 - [Garret Longshore — The Helmsman](Volume%20I%20—%20Character%20Cards/Garret%20Longshore%20—%20The%20Helmsman.md)
@@ -635,6 +651,7 @@
 - [Hyo Miran · The Velvet Dealer](Volume%20I%20—%20Character%20Cards/Hyo%20Miran%20·%20The%20Velvet%20Dealer.md)
 - [Ignatius Sanctus Sanctorum Arsenal · The Archpaladin](Volume%20I%20—%20Character%20Cards/Ignatius%20Sanctus%20Sanctorum%20Arsenal%20·%20The%20Archpaladin.md)
 - [Ilmar Foss](Volume%20I%20—%20Character%20Cards/Ilmar%20Foss.md)
+- [Ilthára Korvaeth · The Mad Queen of Korvaeth](Volume%20I%20—%20Character%20Cards/Ilthára%20Korvaeth%20·%20The%20Mad%20Queen%20of%20Korvaeth.md)
 - [Ilyria Draven Morningstar · Monochrome](Volume%20I%20—%20Character%20Cards/Ilyria%20Draven%20Morningstar%20·%20Monochrome.md)
 - [Ilyrion Vantheir · The Veiled Horn](Volume%20I%20—%20Character%20Cards/Ilyrion%20Vantheir%20·%20The%20Veiled%20Horn.md)
 - [Iracordas](Volume%20I%20—%20Character%20Cards/Iracordas.md)
@@ -710,6 +727,7 @@
 - [Nol Tally](Volume%20I%20—%20Character%20Cards/Nol%20Tally.md)
 - [Nuvalik](Volume%20I%20—%20Character%20Cards/Nuvalik.md)
 - [Onawa Ashkewe](Volume%20I%20—%20Character%20Cards/Onawa%20Ashkewe.md)
+- [Onawa · Empress of Eresse](Volume%20I%20—%20Character%20Cards/Onawa%20·%20Empress%20of%20Eresse.md)
 - [Orivane Caelthys · Astral Shepherd](Volume%20I%20—%20Character%20Cards/Orivane%20Caelthys%20·%20Astral%20Shepherd.md)
 - [Orokh Sable-Forge · The Wyrmwright](Volume%20I%20—%20Character%20Cards/Orokh%20Sable-Forge%20·%20The%20Wyrmwright.md)
 - [Orya of the Wheat March · The Dragon Shepard](Volume%20I%20—%20Character%20Cards/Orya%20of%20the%20Wheat%20March%20·%20The%20Dragon%20Shepard.md)
@@ -743,6 +761,7 @@
 - [Sandalphon Aestraen · The Reverent](Volume%20I%20—%20Character%20Cards/Sandalphon%20Aestraen%20·%20The%20Reverent.md)
 - [Saruin Kye · Golden Laugh](Volume%20I%20—%20Character%20Cards/Saruin%20Kye%20·%20Golden%20Laugh.md)
 - [Saórén Vyrrakal · The Walking Flame](Volume%20I%20—%20Character%20Cards/Saórén%20Vyrrakal%20·%20The%20Walking%20Flame.md)
+- [Seiji Tenrai Moto · The Door](Volume%20I%20—%20Character%20Cards/Seiji%20Tenrai%20Moto%20·%20The%20Door.md)
 - [Seikai Hana-no-Kurai · The Ashen Paragon](Volume%20I%20—%20Character%20Cards/Seikai%20Hana-no-Kurai%20·%20The%20Ashen%20Paragon.md)
 - [Selantra · The Velvet Storm](Volume%20I%20—%20Character%20Cards/Selantra%20·%20The%20Velvet%20Storm.md)
 - [Ser Caldran Veiss · The Pale Knight of Vergegate](Volume%20I%20—%20Character%20Cards/Ser%20Caldran%20Veiss%20·%20The%20Pale%20Knight%20of%20Vergegate.md)
@@ -799,6 +818,7 @@
 - [Vorrn · The Fourth Weight](Volume%20I%20—%20Character%20Cards/Vorrn%20·%20The%20Fourth%20Weight.md)
 - [Vorynth the Vatborn](Volume%20I%20—%20Character%20Cards/Vorynth%20the%20Vatborn.md)
 - [Wilhelm · The Guardian](Volume%20I%20—%20Character%20Cards/Wilhelm%20·%20The%20Guardian.md)
+- [Wren Greymane · The Traitor's Traitor](Volume%20I%20—%20Character%20Cards/Wren%20Greymane%20·%20The%20Traitor's%20Traitor.md)
 - [Wystan Ashmore — Late Bell](Volume%20I%20—%20Character%20Cards/Wystan%20Ashmore%20—%20Late%20Bell.md)
 - [Xanelor Rafiminar](Volume%20I%20—%20Character%20Cards/Xanelor%20Rafiminar.md)
 - [Xanelor Rafminar · The Wandering Fang](Volume%20I%20—%20Character%20Cards/Xanelor%20Rafminar%20·%20The%20Wandering%20Fang.md)
@@ -812,7 +832,6 @@
 - [Zahir Ashveil · Desert's Fang](Volume%20I%20—%20Character%20Cards/Zahir%20Ashveil%20·%20Desert's%20Fang.md)
 - [Zahiren Vahl · The Horizon-Eyed](Volume%20I%20—%20Character%20Cards/Zahiren%20Vahl%20·%20The%20Horizon-Eyed.md)
 - [Zahur Vane · The Silt Walker](Volume%20I%20—%20Character%20Cards/Zahur%20Vane%20·%20The%20Silt%20Walker.md)
-- [Zarron Mahuo · The Arbiter of Unity](Volume%20I%20—%20Character%20Cards/Zarron%20Mahuo%20·%20The%20Arbiter%20of%20Unity.md)
 - [Zeraphine Drowl · The Black Vat Regent](Volume%20I%20—%20Character%20Cards/Zeraphine%20Drowl%20·%20The%20Black%20Vat%20Regent.md)
 - [Zeven Halek · The Eye That Remains](Volume%20I%20—%20Character%20Cards/Zeven%20Halek%20·%20The%20Eye%20That%20Remains.md)
 - [Ziyu "Pip" Inari](Volume%20I%20—%20Character%20Cards/Ziyu%20Pip%20Inari.md)

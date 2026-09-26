@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81d5-b87d-c8abc80dbc36"
 notion_url: "https://app.notion.com/p/Rashani-Zettari-3b258200eb2281d5b87dc8abc80dbc36"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Rashani Zettari
 
+**Say it** · rah-SHAH-nee zeh-TAH-ree
 *He Who Finds the First Cause · The First Measure · Origin-Eyed Heir · Card 14*
 > 
 > > **He wins by seeing where everything begins.**
@@ -20,6 +21,7 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** The night he walked Ma'Kovu's corridor to Mizuyi's door
 **Lineage** Human · Zettari Bloodline · **Origin-Aspect Strain** · **Age** 18 · **Sex** Male
 **Standing** Active **under Zettari observation and incomplete sovereign training**
 | **Level / Stage** | **182 / 500** · Band II — Awakened, *mid-stage, perception outrunning body* **·** Stage VI — Glory **· Band** B |

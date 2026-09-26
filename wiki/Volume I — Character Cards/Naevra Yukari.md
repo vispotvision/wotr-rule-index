@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8112-ba9e-d2f71e56716c"
 notion_url: "https://app.notion.com/p/Naevra-Yukari-3b158200eb228112ba9ed2f71e56716c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Naevra Yukari
 
+**Say it** · NAY-vrah yoo-KAH-ree
 **She Who Asked Fate to Blink**
 > *The First Petition · The White Witness · Pale Daughter of the Loom*
 > 
@@ -19,9 +20,10 @@ verification: null
 
 ## Identity and Core Profile
 
+**As Of** · Dormant in the threshold archive, not yet found
 **Race / Lineage** · First-Generation Yukari · Proto-Yukari / Early Fate-Psionic Bloodline
 **Faction / Era** · The First Yukari Line · First Eon
-**Temperance Stage** · **Stage IX — Realization**
+**Temperance Stage** · **Stage IX — Invocation**
 One of the earliest daughters of the Yukari bloodline, **born close enough to its origin that her soul carries a cleaner, older resonance than later descendants.**
 > Where most Yukari **read** threads, Naevra **negotiates** them. Where others glimpse fate, **she edits pressure points within it** through psionic precision and ritualised will.
 >

@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-81f8-b77d-ff56d9e41528"
 notion_url: "https://app.notion.com/p/The-Spiritual-Seat-Omnis-Florwyn-Dazkar-Nysera-Sylorin-Ilgrimm-3c758200eb2281f8b77dff56d9e41528"
 section: "The Fourteen Titans"
 tags: []
-last_edited: "2026-08-25T23:35:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -101,7 +101,7 @@ A colossal armoured figure of radiant obsidian, face behind a mirrored helm. Fro
 
 ### The Load
 
-Metaphysical proportion. Spiritual restitution, the law of equivalence between creation and annihilation, and purification through penance. Without him, Essence accumulates debt without resolution and Wellsprings corrupt irreversibly. Morality, law and Aetheric cause all lose meaning in the same instant. Sanctum Lux names him the Titanic Ground beneath Urion, and the distinction the order draws between them is the difference between a law and a court.
+Metaphysical proportion. Spiritual restitution, the law of equivalence between creation and annihilation, and purification through penance. Without him, Essence accumulates debt without resolution and Wellsprings corrupt irreversibly. Morality, law and Aetheric cause all lose meaning in the same instant. Sancta Lux names him the Titanic Ground beneath Urion, and the distinction the order draws between them is the difference between a law and a court.
 
 ### The Record
 

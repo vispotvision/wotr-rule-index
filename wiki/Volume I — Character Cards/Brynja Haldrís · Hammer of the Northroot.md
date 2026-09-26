@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d8-9de4-f7e47be088e7"
 notion_url: "https://app.notion.com/p/Brynja-Haldr-s-Hammer-of-the-Northroot-3d958200eb2281d89de4f7e47be088e7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:37:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Brynja Haldrís · Hammer of the Northroot
 
+**Say it** · BRIN-yah HAL-drees
 > *"If it reaches my people, it passes through me first."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Drevath turned away from the Northroot holdings
 **Name** · Brynja Haldrís. **Called** · Hammer of the Northroot, The Runebound Shield-Mother. **Also known as** · Stonebraid.
 **Role** · **Shield-Warrior. Forge-Keeper.**
 **Gloss rights** · Never. Every rune on her hammer is a vow sworn in iron and blood, and a vow explained aloud stops being a vow.

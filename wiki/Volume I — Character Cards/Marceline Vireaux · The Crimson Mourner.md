@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c8-8884-ce97e6075050"
 notion_url: "https://app.notion.com/p/Marceline-Vireaux-The-Crimson-Mourner-3d958200eb2281c88884ce97e6075050"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Marceline Vireaux · The Crimson Mourner
 
+**Say it** · MAR-seh-leen vih-ROH
 > *"I do not ruin lives. I arrange them."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Greaves supply book was bound
 **Name** · Marceline Vireaux. **Called** · The Crimson Mourner.
 **Also known as** · Lady Blackrose · The Widow of Quiet Deals. **Epithet** · *She Who Buries Kings in Velvet.*
 **Role** · **Institution disguised as elegance. Attraction-Path manipulator working through inheritance, grief and slow social entanglement.**

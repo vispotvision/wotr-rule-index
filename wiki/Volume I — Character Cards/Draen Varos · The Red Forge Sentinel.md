@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-810b-aee5-f17d3ac1964a"
 notion_url: "https://app.notion.com/p/Draen-Varos-The-Red-Forge-Sentinel-3d958200eb22810baee5f17d3ac1964a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T08:43:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Draen Varos · The Red Forge Sentinel
 
+**Say it** · DRAYN VAR-os
 > *"Heat is memory. Every blade remembers the hand that forged it."*
 
 ---

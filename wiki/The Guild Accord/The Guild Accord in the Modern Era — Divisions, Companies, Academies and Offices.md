@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8121-9842-c160dd9c8203"
 notion_url: "https://app.notion.com/p/The-Guild-Accord-in-the-Modern-Era-Divisions-Companies-Academies-and-Offices-3d758200eb2281219842c160dd9c8203"
 section: "The Guild Accord"
 tags: ["Factions", "Trade & Economy"]
-last_edited: "2026-09-12T20:05:00.000Z"
+last_edited: "2026-09-26T14:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -34,8 +34,9 @@ Nothing metaphysical is lost. The Lattice still records. It simply is not a scre
 
 ### II. Where the Accord Actually Reaches
 
+**Where the Accord stands.** The communion is being signed now, circle by circle, and the Articles and the Commission framework bind as law only inside a signed circle. The first was signed at Kharven-Seat. Everywhere else what reaches is older: the Codex, its courts and its standards, carried by charter and taken by consent, and the reach below is the reach of that older machinery.
 The Accord is not equally strong everywhere and the pattern is materialist rather than political.
-**Strongest: the New World's arc.** Chartered from nothing within living memory. There is no older law to displace because there was no older law, so **the Accord is not one jurisdiction among several there; it is the jurisdiction.** Every settlement holds a charter, every charter names the Accord's standards, and a company that loses its charter loses the ground it stands on. The elven old-ground beside the arc is another matter: four Eons of Eressean law the Accord did not displace. The Divisions maintain more staff across the arc than in the whole of the Old World.
+**Strongest: the New World's arc.** Chartered from nothing within living memory. There is no older law to displace because there was no older law, so **its chartered halls are not one jurisdiction among several there; they are the jurisdiction**, running the Accord's text by charter ahead of any circle. Every settlement holds a charter, every charter names the Accord's standards, and a company that loses its charter loses the ground it stands on. The elven old-ground beside the arc is another matter: four Eons of Eressean law the Accord did not displace. The Divisions maintain more staff across the arc than in the whole of the Old World.
 **Strongest: the island nations.** Trade-dependent, small, and unable to survive exclusion for a season. An island that will not take Accord weights cannot sell its cargo in any port that does, and the arithmetic makes the argument without anyone having to make it. Island seats are famously punctilious about standards and famously resentful about it.
 **Strong: the Inner World.** The Concord heartland, the composite monarchy, the chancery schools, the conduit network at its densest. The Accord runs alongside crown law here rather than replacing it, and the two have grown into each other so completely that most people cannot tell you which of them issued the rule they are obeying.
 **Weak: the Old World.** Ancient polities with law older than the Accord and no interest in being harmonised. The holds keep two columns. The Keth-Gorrum's rulings are unreadable to Accord clerks by design. Undaar-Keth adopted the standards instantly and the jurisdiction never. 

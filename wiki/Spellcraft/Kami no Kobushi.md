@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ef-8559-fd7d18e69603"
 notion_url: "https://app.notion.com/p/Kami-no-Kobushi-3d958200eb2281ef8559fd7d18e69603"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · Setting the anchor costs 2% of full reserve and holding it 0.5% a turn; a Labor-Form strike costs 5%, or 8% committed, and the Totality expression 30%.
 **Limit** · The coupling must be set before contact and holds against displacement only up to its Continuity Grade; nothing is granted from outside, only what the bearer has become able to carry.
 **Counter** · Tension on the Anchor (a pull, lift, hook or drag); a confined space, where the blast comes back; displacement, Silence or ground that will not hold, any of which severs the coupling; Obsession.
-**What nobody knows** · Whether Gimbzo, held in the Plane of Fate as living infrastructure, feels it when one of his forms is used.
+**What nobody knows** · Whether its originator, held in the Plane of Fate as living infrastructure, feels it when one of the forms is used.
 
 ### Codex line
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Gimbzo, the Anchor of Fate, First-Eon Moto and contemporary of Bara, held the eastern rim of the unfinished world for forty-one days without sleep; when Dougou, the Iron Bison Maximus, broke him in a three-day duel, the Plane of Fate took him whole as living infrastructure. The oral tradition says that Bara gave seven ways to work and Gimbzo found seven ways to refuse.
-**Practitioners** · Gimbzo, its origin and only known full master; it descends through the Moto line, and no living master of a full form is named.
+**Origin · Its originator, a First-Eon Moto of the line's founding generation, held the eastern rim of the unfinished world for forty-one days without sleep; broken at last in a three-day duel, he was taken whole by the Plane of Fate as living infrastructure. The oral tradition says that the line's founder gave seven ways to work and its originator found seven ways to refuse.**
+**Practitioners · Its originator, the only known full master;** it descends through the Moto line, and no living master of a full form is named.
 
 ---
 

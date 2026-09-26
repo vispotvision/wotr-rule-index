@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81fa-aafd-eb037d281428"
 notion_url: "https://app.notion.com/p/Thalyss-Aevyrn-The-Deep-Coil-3bd58200eb2281faaafdeb037d281428"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T09:02:00.000Z"
 verification: null
 ---
 
 # Thalyss Aevyrn · The Deep Coil
 
+**Say it** · THAL-iss AY-veern
 > *"The sea is not cruel. It is law. It swallows only those who cannot hold their breath."*
 > **Invented Stage name.** The card reads **"Stage IX (Judgment)."** *Judgment is not among the sixteen; Stage IX is Invocation.* Numeral stands, word struck.
 >

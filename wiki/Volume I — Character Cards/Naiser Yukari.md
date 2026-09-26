@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81e2-87c7-df121c416fdb"
 notion_url: "https://app.notion.com/p/Naiser-Yukari-3b158200eb2281e287c7df121c416fdb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T09:11:00.000Z"
 verification: null
 ---
 
 # Naiser Yukari
 
+**Say it** · NY-ser yoo-KAH-ree
 **The Founder Beneath the Storm**
 > *Progenitor of the Yukari · The First Yukari · The Night Between Bloodlines · He Who Made Two Legacies Kneel Into One*
 > 
@@ -23,8 +24,10 @@ verification: null
 He stands at the fault-line between two formidable lineages. From the Seikai line he inherited discipline, austerity, **and a martial clarity sharpened by order and control.** From the Zettari blood he inherited terrifying bodily supremacy, ancestral pressure, and the latent potential for overwhelming transcendence.
 > **His existence was not treated as a bridge by those around him. It was treated as a disruption.** He became a bridge anyway, then built a house upon it and named it after himself.
 **Faction / Era** · Founder of the Yukari Line · First Eon
-**Temperance Stage** · **Stage 6 — Realization**
-> He did not ascend through fervour or spectacle. **He reached Realization through synthesis.** Where lesser souls were torn apart by divided inheritances, **he forced contradiction to become architecture.**
+**Temperance Stage** · **Stage 6 — Glory**
+> He did not ascend through fervour or spectacle. **He reached Glory through synthesis.** Where lesser souls were torn apart by divided inheritances, **he forced contradiction to become architecture.**
+> 
+> His Stage is defined by inward cohesion, not outward revelation.
 >
 > His Stage is defined by inward cohesion, not outward revelation.
 He was not content to be an offspring of clashing houses, nor a political symbol passed between bloodlines that could not decide whether to claim him or fear him. **He took the burdens of both, accepted neither in full, and forged a third doctrine in the space left behind.**

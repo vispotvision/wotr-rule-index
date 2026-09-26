@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812a-8621-e99e982591aa"
 notion_url: "https://app.notion.com/p/Kaien-Rhuven-The-Silent-Apothege-3d958200eb22812a8621e99e982591aa"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:49:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Kaien Rhuven · The Silent Apothege
 
+**Say it** · KY-en ROO-ven · *Apothege* AP-oh-theej
 > *"The loudest things in nature die first. I prefer what grows quietly."*
 
 ---

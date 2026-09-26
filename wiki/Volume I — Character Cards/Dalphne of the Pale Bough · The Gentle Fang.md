@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81db-b551-e698a53a3de0"
 notion_url: "https://app.notion.com/p/Dalphne-of-the-Pale-Bough-The-Gentle-Fang-3bd58200eb2281dbb551e698a53a3de0"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:42:00.000Z"
 verification: null
 ---
 
 # Dalphne of the Pale Bough · The Gentle Fang
 
+**Say it** · DALF-nee
 > *"The land breathes — listen. Even silence howls, if you stop trying to tame it."*
 > **The migration's only cross-volume inheritance.** *"Last Echo of Xanelor"* · **secret inheritor of Xanelor's Fang, a mystic fragment passed through soul-mind transmission.**
 >

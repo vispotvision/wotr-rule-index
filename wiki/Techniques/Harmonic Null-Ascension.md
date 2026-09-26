@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8189-a075-f0ba57eed018"
 notion_url: "https://app.notion.com/p/Harmonic-Null-Ascension-3d958200eb228189a075f0ba57eed018"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:36:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis plucks a silent chord at the air; it climbs from nothing to an unbearable tone locked onto one target's own structural resonance, and at the top of that climb the target's form either fails into silence or shatters outright.
+**Effect · The practitioner plucks** a silent chord at the air; it climbs from nothing to an unbearable tone locked onto one target's own structural resonance, and at the top of that climb the target's form either fails into silence or shatters outright.
 **Cost** · A brief backlash of the same harmonic damage rebounds into her, and for some minutes afterward her voice and her own thoughts run doubled, as if two slightly out-of-phase copies of her were speaking at once.
 **Limit** · Dead air, or a target with no structural resonance to seize on, gives the tone nothing to climb; and holding the ascension open for more than a few breaths makes the cost climb faster than it can be paid.
 **Counter** · Anything that flattens the local resonance to true silence, or that can split its own frequency across several bands at once, keeps any single tone from ever reaching the failure point.
-**What nobody knows.** Whether the tone Opalis hears in her own head during the climb is the target's true resonance, or the one she has decided it deserves.
+**What nobody knows.** Whether the tone the practitioner hears in her own head during the climb is the target's true resonance, or the one she has decided it deserves.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Opalis is the only practitioner of this working, which she devised herself. It has no filed counter beyond what an opponent works out live in the exchange.
+This working has one practitioner, its author. It has no filed counter beyond what an opponent works out live in the exchange.
 
 ---
 

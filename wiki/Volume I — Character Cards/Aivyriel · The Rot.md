@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8138-883d-de943d9c4a1e"
 notion_url: "https://app.notion.com/p/Aivyriel-The-Rot-3bd58200eb228138883dde943d9c4a1e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:37:00.000Z"
 verification: null
 ---
 
 # Aivyriel · The Rot
 
+**Say it** · eye-VEER-ee-el
 > *"I do not kill. I simply let the earth decide how you should be repurposed."*
 > **Invented Stage name with a reserved-word collision.** The card reads **"Stage IX — Blooming Zenith."**
 >

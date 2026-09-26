@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8154-87fc-c4ac3a251383"
 notion_url: "https://app.notion.com/p/Ashfang-Mark-Invocation-3d958200eb22815487fcc4ac3a251383"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:48:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · **He takes a bone talon from something he killed, and for a short while his body remembers what it was.** *One beast-trait, borrowed rather than mimicked, running on his own blood.*
+**Effect · The practitioner takes a bone talon from something he killed, and for a short while his body remembers what it was.** *One beast-trait, borrowed rather than mimicked, running on his own blood.*
 **Cost** · **The heartbeat goes wrong while the graft holds.** *Temporary. It has never once stopped him.*
 **Limit** · **One trait at a time.** *The Crystal at Stage VI has no room to hold two borrowed templates and his own pattern together.*
 **Counter** · **A working that strips a target's identity before the graft reads, or an Essence seal placed before contact, denies the borrowed template a signature to copy.**
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials — his own Catalyst Event of "constant self-imposed trials of endurance, ambush and predatory pressure." The problem it answers is the one his own philosophy states: a solitary hunter who kills things larger and stranger than himself needs a way to borrow, briefly, what made them dangerous. "Wear what you kill."
+Self-derived by its author during the Vorynn Trials, the Catalyst Event of "constant self-imposed trials of endurance, ambush and predatory pressure." The problem it answers is the one that author's philosophy states: a solitary hunter who kills things larger and stranger than himself needs a way to borrow, briefly, what made them dangerous. "Wear what you kill."
 
 ---
 
@@ -84,7 +84,7 @@ Draven Kael Vorrick, self-derived during the Vorynn Trials — his own Catalyst 
 
 ### Essence
 
-**Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
+**Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
 **Paths** · Body: Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Attraction Path at Glory.
 | Quantity | Working | Result |
 |---|---|---|

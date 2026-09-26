@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814d-bf74-f94a402317bb"
 notion_url: "https://app.notion.com/p/Vorrn-The-Fourth-Weight-3d958200eb22814dbf74f94a402317bb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T09:04:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Vorrn · The Fourth Weight
 
+**Say it** · VORRN
 > *"The others were sent to break things. I was sent to finish the sentence."*
 
 ---

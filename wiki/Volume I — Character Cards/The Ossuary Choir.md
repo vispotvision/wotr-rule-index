@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c4-9d55-df019d801601"
 notion_url: "https://app.notion.com/p/The-Ossuary-Choir-3bd58200eb2281c49d55df019d801601"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # The Ossuary Choir
 
+**Say it** · the OSH-oo-air-ee KWIRE
 > *"We are the last song you will ever hear. And we will play you hollow."*
 > **Same Archon error as the rest of the Bloom.** *Dissolution and Calcination are genuine Wellsprings; "Harmonic" is Harmonia, a Category, not a current, and none of the three is an Archon.*
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Since the Bone Hills
 **Name** · **The Ossuary Choir.** **Role** · **Harmonists of Boneglass. Third General of the Rot Host.**
 **Affiliation** · **Cathedral of the Hollow Note.** *Malphas' Bone-Song Artillery.*
 > **Catalyst Event · Stage VIII, Transcendence.** *A thing keeps its weight and gains a second weight, and both are operative.*

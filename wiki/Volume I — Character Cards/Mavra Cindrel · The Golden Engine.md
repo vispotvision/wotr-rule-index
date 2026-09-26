@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a0-b727-ee3bfb9cbad7"
 notion_url: "https://app.notion.com/p/Mavra-Cindrel-The-Golden-Engine-3d958200eb2281a0b727ee3bfb9cbad7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Mavra Cindrel · The Golden Engine
 
+**Say it** · MAV-rah SIN-drel
 > *"If it breaks, I build it stronger. If I break, well, then I was the test."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Orrengar
 **Name** · Mavra Cindrel. **Called** · The Golden Engine.
 **Role** · **Relicsmith. Titanwright. Body-and-Forge Hybrid Practitioner.**
 **Gloss rights** · Unlimited. *Every name here is a guild callsign, used to her face as often as behind her back.*

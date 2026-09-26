@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81b8-b346-d1d8df799ed5"
 notion_url: "https://app.notion.com/p/Muken-Moto-3b158200eb2281b8b346d1d8df799ed5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Muken Moto
 
+**Say it** · MOO-ken MOH-toh
 **The Ashen Blade — He Who Writes Ruin Into Law**
 > *King of Kharven · The North-Forged Crown · The Kept Debt*
 
@@ -17,8 +18,9 @@ verification: null
 
 ## Identity
 
-| **Race / Lineage** | Human · Moto-aligned through Shingan ignition and Kharven coronation Hataraki rites |
+| **As Of** | After his death, the spring the first Accord circle was signed |
 |---|---|
+| **Race / Lineage** | Human · Moto-aligned through Shingan ignition and Kharven coronation Hataraki rites |
 | **Faction** | Crown of Kharven · Moto Bloodline · Northern Sovereign Era |
 | **Standing** | **Deceased.** Killed via Tenrai-orchestrated *removal through convergence-friendly channels*, **not open combat** |
 | **Catalyst Event** | Coronation through blood-conquest and Hataraki rite — **fused kingship into his Soul Crystal as living law** |
@@ -107,7 +109,7 @@ verification: null
   **Function** · Locks a flaw-vector for 2.5 s within 40 m.
   **Cost** · 22,000 EU read / 44,000 EU execution; eye strain, **false readings if intent is unclear.**
   **Counterplay** · Chaos Wellsprings, illusion noise, non-linear movement.
-- ****Tetsu Shuen** — Iron Terminal**
+- ****Tetsu Shūen** — Iron Terminal**
   *Coagulatio · Petralon · Fractura*
 
   **Trigger** · Contact via fist, pommel, elbow, knee or blade spine.
@@ -202,6 +204,20 @@ verification: null
 **Stats · sections IV–V** are not itemised beyond the Pillars and Combat Parameters. **Recovery rate** is unspecified, though Sovereign Fatigue implies suppressed recovery while the oath-field is held. **Clothing and scent** are unrecorded. **Temperance stages I through IX** are not itemised. **No transcript exists**, so no signature lines are attested.
 
 ---
+
+### Voice
+
+**Notices first** · Where things are tired: the crack in a wall, the fatigue in a line, the guilt in an exchange, and who in his hall has moved since he last looked. He takes the room's load before he takes its faces.
+**Sentence length** · In public, short and final, and often nothing at all; he listens, and the silence gives the verdict. With the few men he trusts, medium and warm, closing on a dry turn at someone's expense, often his own.
+**Contractions** · never. Kingship taught him to set every word down whole, in the hall and out of it.
+**Pet word** · "Tell me."
+**Never says** · A name he cannot yet prove: he will say he knows who it is likely to be and name no house. He never says anything to humble a man who has already knelt, and he leaves figures and stores to his clerks, rounding years and never counting men.
+**Stumbles** · Never.
+**Gloss rights** · Never. He teaches by standing beside the thing and saying nothing until it is understood.
+**Under stress** · He goes immovable rather than loud: the words shorten to a single verdict and then stop, and the stillness of a man under load is what the room hears.
+**In grief** · The king falls away and the Nalūn boy returns, the one who fed his sister on what his hands earned: he talks of debts entered, carried and called in, a trader's talk from the chain-cities, never the throne's.
+**In joy** · The voice holds and drops low into the private register; the joy shows in the smile, the rarest weather in Kharven, and in a hand laid on a shoulder or a son's head.
+**Sample line** · "When my grandchild is born, you will be the first person outside the royal household to hold her."
 
 ### Lore · The Life Behind the Card
 

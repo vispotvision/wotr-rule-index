@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81da-b471-f9bfac2c784c"
 notion_url: "https://app.notion.com/p/Volume-I-Character-Cards-3b158200eb2281dab471f9bfac2c784c"
 section: "Characters"
 tags: []
-last_edited: "2026-09-23T23:57:00.000Z"
+last_edited: "2026-09-26T10:02:00.000Z"
 verification: null
 ---
 
@@ -79,7 +79,6 @@ verification: null
 - [Kaalabad](Volume I — Character Cards/Kaalabad.md)
 - [Iskaron Thalnaris — Bearer of the Fractured Crown](Volume I — Character Cards/Iskaron Thalnaris — Bearer of the Fractured Crown.md)
 - [Sinclair Mercer · The Soul Devourer](Volume I — Character Cards/Sinclair Mercer · The Soul Devourer.md)
-- [Zarron Mahuo · The Arbiter of Unity](Volume I — Character Cards/Zarron Mahuo · The Arbiter of Unity.md)
 - [Xanelor Rafminar · The Wandering Fang](Volume I — Character Cards/Xanelor Rafminar · The Wandering Fang.md)
 - [Gorrath Bloodspine · The Magmaborn Juggernaut](Volume I — Character Cards/Gorrath Bloodspine · The Magmaborn Juggernaut.md)
 - [Seikai Hana-no-Kurai · The Ashen Paragon](Volume I — Character Cards/Seikai Hana-no-Kurai · The Ashen Paragon.md)
@@ -285,3 +284,13 @@ verification: null
 - [Khaeron Vant · The Ember Host](Volume I — Character Cards/Khaeron Vant · The Ember Host.md)
 - [Seri Zeliro-Vanthe · The Lantern-Fox](Volume I — Character Cards/Seri Zeliro-Vanthe · The Lantern-Fox.md)
 - [Serenyra Vaelith · The Archmagus of the Grove-Spired Crown](Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md)
+
+- [Robin Ice — The Bastard Runner](Volume I — Character Cards/Robin Ice — The Bastard Runner.md)
+- [Onawa · Empress of Eresse](Volume I — Character Cards/Onawa · Empress of Eresse.md)
+- [Ilthára Korvaeth · The Mad Queen of Korvaeth](Volume I — Character Cards/Ilthára Korvaeth · The Mad Queen of Korvaeth.md)
+- [Charles Lambert · The God Hand](Volume I — Character Cards/Charles Lambert · The God Hand.md)
+- [Wren Greymane · The Traitor's Traitor](Volume I — Character Cards/Wren Greymane · The Traitor's Traitor.md)
+- [Fern Stark · The Woman He Chose](Volume I — Character Cards/Fern Stark · The Woman He Chose.md)
+- [Emira Moto · Daughter of Muken](Volume I — Character Cards/Emira Moto · Daughter of Muken.md)
+- [Dhaerin Valorin · The Scholar of Vaeloris](Volume I — Character Cards/Dhaerin Valorin · The Scholar of Vaeloris.md)
+- [Seiji Tenrai Moto · The Door](Volume I — Character Cards/Seiji Tenrai Moto · The Door.md)

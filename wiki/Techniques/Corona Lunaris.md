@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81be-bb9a-f4663804c972"
 notion_url: "https://app.notion.com/p/Corona-Lunaris-3d958200eb2281bebb9af4663804c972"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:33:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · A touch to the Lunarch Crown and a spoken command raises a half-sphere corona of Aurevane current around herself or one nearby ally; a hostile working that reaches the corona is stripped of its lethal vector and shed as harmless light.
+**Effect** · A touch to the Lunarch Crown and a spoken command raises a half-sphere corona of Aurevane current around the bearer or one nearby ally; a hostile working that reaches the corona is stripped of its lethal vector and shed as harmless light.
 **Cost** · Overuse burns her own Essence pathways badly enough to bring on headaches, light sensitivity, and a distorted aura for a time afterward, and the Crown itself needs time to cool between peak activations inside the same scene.
 **Limit** · The corona answers Aetheric attacks. A fist or a blade still arrives as blunt or edged force, unconverted.
 **Counter** · Strikes from more directions at once than the corona's refraction can resolve, or a current that pierces rather than reflects, since a Void-aligned strike passes through the reflective law rather than obeying it.
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Corona Lunaris is Serenyra's own working, with the Lunarch Crown as its focus, rather than a documented one available to study in advance.
+Corona Lunaris is a self-derived working, with the Lunarch Crown as its focus, rather than a documented one available to study in advance.
 
 ---
 

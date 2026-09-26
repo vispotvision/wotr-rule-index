@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-810b-85fc-ca85cff49bae"
 notion_url: "https://app.notion.com/p/The-Zettari-3b158200eb22810b85fcca85cff49bae"
 section: "The Archaic Bloodlines"
 tags: []
-last_edited: "2026-09-12T20:33:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -133,7 +133,7 @@ Modern known Zettari include **Rashani, Ma'Kovu, Zuberi, and Rengai Zettari**, c
 
 | Technique | Function |
 |---|---|
-| **Kafa-Karim** · Breaking Palm | A palm strike that shuts down an Aether node, causing numbness and temporary loss of energy control |
+| **Kafa-Karim** · Noble Palm | A palm strike that shuts down an Aether node, causing numbness and temporary loss of energy control |
 | **Dabara Step-Kick** · Resonant Kick | A high-speed kick sending a disruptive shockwave through the opponent's Aether channels |
 | **Nuruq Point-Seal** · Aether Lockpoint | Rapid strikes to multiple Aether junctions, **locking the target's energy system and preventing energy-based attacks** |
 | **Habl Flow-Bind** | A grappling technique immobilizing the opponent while applying pressure to major Aether nodes |

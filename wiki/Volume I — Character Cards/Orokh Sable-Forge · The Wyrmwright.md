@@ -4,11 +4,13 @@ notion_id: "3bd58200-eb22-8165-a0ca-f36d77ba03ad"
 notion_url: "https://app.notion.com/p/Orokh-Sable-Forge-The-Wyrmwright-3bd58200eb228165a0caf36d77ba03ad"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T08:55:00.000Z"
 verification: null
 ---
 
 # Orokh Sable-Forge · The Wyrmwright
+
+**Say it** · OR-ok SAY-bul-forj
 
 ---
 

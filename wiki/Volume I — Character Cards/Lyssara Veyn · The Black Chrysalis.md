@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-b701-cc96aaffd81a"
 notion_url: "https://app.notion.com/p/Lyssara-Veyn-The-Black-Chrysalis-3d958200eb2281bfb701cc96aaffd81a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Lyssara Veyn · The Black Chrysalis
 
+**Say it** · lih-SAR-ah VAYN
 > *"Every cadaver I meet is simply a lesson that remembered me first."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After her seven days went to the Reaper
 **Name** · Dr. Lyssara Veyn. **Called** · The Black Chrysalis.
 **Role** · **Senior Necrosophist, Mortalis Branch. Scholar of the Wellspring of Mortalis. Physician to the failed Threshold.**
 **Type** · Mortal. **Realm of origin** · Eresse, New World. *Human, born in an elven polity; Eressean mourning dress is a fact about where she grew up and nothing else.*

@@ -4,7 +4,7 @@ notion_id: "3b758200-eb22-81cb-900e-e420731e32cc"
 notion_url: "https://app.notion.com/p/Borin-Ironheart-The-Master-of-the-Soul-Forge-3b758200eb2281cb900ee420731e32cc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,8 @@ verification: null
 
 ## I. IDENTITY
 
+**Say it** · BOR-in EYE-ern-hart
+**As Of:** Among the six Dawi, after the empire took Stannvaard
 **Full Name:** Borin Ironheart
 **Titles:** The Master of the Soul Forge / High Forgewright of Varrak-Thur / Warden of the Adamant Vaults / Bearer of the Unbroken Temper
 **Race:** Dwarf — High Dawi (Varūn Descent), Rune-Forger lineage
@@ -100,7 +102,7 @@ verification: null
 
 *Estimates. Borin’s architecture is built for sustained heavy industry, not combat burst.*
 **Essence Capacity (EU Reserve):** ~180,000,000 EU (est.) — vast, reflecting centuries of Body Path accumulation and Dawi Crystal density. Borin rarely drains more than 30% in a standard forging session. The Requiem technique is the only working that has ever threatened his reserve floor.
-**Aether Output (AU/s):** ~3,200 AU/s (est.) — high sustained throughput, optimized for multi-hour forge operations rather than combat exchange.
+**Aether Output (AU/s):** ~10,010 AU/s (est.) — high sustained throughput, optimized for multi-hour forge operations rather than combat exchange.
 **Flux Density (EU/g):** ~11,000 EU/g (est.) — dense, penetrating. His Essence sinks into worked material the way water sinks into dry earth.
 **η:** 0.91 (est.) — four centuries of doing the same thing will remove every wasted calorie from the process.
 
@@ -222,6 +224,20 @@ He carries a forge-hammer on a shaft taller than he is — a cruciform head of s
 1. **Item:** Portable Anvil (unnamed — he has not named it because naming a portable anvil would mean admitting he sometimes has to leave the Forge) / **Type:** Collapsible adamant-alloy anvil, 40 kg / **Wellspring:** Fixatio + Basilithe / **Effect:** Allows Borin to project a diminished version of the Adamant Forge’s Domain properties through direct contact. Operates at approximately 30% of the full Forge’s efficacy. He brings it on the rare occasions someone important enough to warrant his attention is too broken to travel.
 
 ---
+
+### Voice
+
+**Notices first** · The material. His hands read a thing before his eyes do, and a blade, a beast or a man gets the same reading: what it is made of, where it will fail, and what it could become in the right hands.
+**Sentence length** · Short at the bench and in anything sworn: one word to close a job, three facts set down one after another like stones in a wall. Off the work he runs medium and warm on a single metalwork analogy, and even in Common his lines fall into the matched halves of the Varun metre.
+**Contractions** · never; in Common he states every copula whole, as the holds do.
+**Pet word** · "Better," which is what he says he does. "Lad" and "lass" for anyone under two centuries, which is everyone he meets.
+**Never says** · "I will": he swears to a thing or calls it unbegun, and there is no third way to put it. He never flatters, gives no figures where he can give the grain instead, and never speaks Thurgan's name in the Forge.
+**Stumbles** · Never. When he stops in the middle of a thought it is to read something, and the sentence resumes where it left off.
+**Gloss rights** · Only for his own craft, and there freely: he will explain what a metal is doing to whoever stands nearest, whether or not they can follow it.
+**Under stress** · The jokes stop and the sentences keep their exact shape, because a Dawi's word order does not move under strain; the pressure goes into the hardening of his consonants and the cooling of the forge. With danger walking toward him he talks about its material, level and precise, and nobody outside the holds can tell he is afraid.
+**In grief** · Common falls away and he speaks Runic Dawi in the Varun metre he was raised in, slow and graded. He names the dead by full name, and of the work that failed he says it stands unentered.
+**In joy** · A terrible joke, and he laughs before the punchline lands. His hands go flat and still on the finished piece, and the forge runs warm and even.
+**Sample line** · "My hammer. My forge. My hands. Yours. Until the work is done or the metal breaks, and the metal does not break."
 
 ## XVI. TEMPERANCE RECORD
 

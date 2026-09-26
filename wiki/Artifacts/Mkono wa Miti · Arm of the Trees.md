@@ -1,16 +1,16 @@
 ---
-title: "Mkono wa Miti · Bracer of the Living Grove"
+title: "Mkono wa Miti · Arm of the Trees"
 notion_id: "3d958200-eb22-8141-98ba-ca4b9eadbe9d"
-notion_url: "https://app.notion.com/p/Mkono-wa-Miti-Bracer-of-the-Living-Grove-3d958200eb22814198baca4b9eadbe9d"
+notion_url: "https://app.notion.com/p/Mkono-wa-Miti-Arm-of-the-Trees-3d958200eb22814198baca4b9eadbe9d"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T16:34:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T10:16:00.000Z"
+verification: null
 ---
 
-# Mkono wa Miti · Bracer of the Living Grove
+# Mkono wa Miti · Arm of the Trees
 
-## Mkono wa Miti · Bracer of the Living Grove
+## Mkono wa Miti · Arm of the Trees
 
 ### What it is
 

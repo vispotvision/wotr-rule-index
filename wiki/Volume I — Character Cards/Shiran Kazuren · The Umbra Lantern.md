@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814b-9bb1-e751a85ef1b6"
 notion_url: "https://app.notion.com/p/Shiran-Kazuren-The-Umbra-Lantern-3d958200eb22814b9bb1e751a85ef1b6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Shiran Kazuren · The Umbra Lantern
 
+**Say it** · shee-RAHN kah-ZOO-ren
 > *"He Who Walks Before the Storm."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the drift in the caldera belt
 **Name** · Shiran Kazuren. **Called** · The Umbra Lantern. **Epithet** · He Who Walks Before the Storm. **Position** · Middle sibling of the Kazuren family *(other siblings unnamed in the source; not detailed elsewhere)*.
 **Age** · Late twenties. **Race / Realm** · Eastern Human; realm unstated.
 **Gloss rights** · Never. *He does not explain the dream-work, to anyone, under any pressure the source material gives him a reason to face.*

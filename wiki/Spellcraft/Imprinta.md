@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8183-abd6-fdc925a2cc91"
 notion_url: "https://app.notion.com/p/Imprinta-3d958200eb228183abd6fdc925a2cc91"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:28:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,7 +41,7 @@ Resonant Pair · None.
 
 ### Origin
 
-Maelor originates the rite at the cosmological scale, seeding echoes across Gaia. Three mortal derivations are known: Soji the Dreamwalker, Caldran of Athame, and the Choir of Vellsorea. As a documented, widely-practiced working rather than a self-derived technique, any given Imprinta is counterable by anyone who has studied its specific tether.
+Maelor originates the rite at the cosmological scale, seeding echoes across Gaia. Three mortal derivations are known, two carried by single practitioners and one by the Choir of Vellsorea. As a documented, widely-practiced working rather than a self-derived technique, any given Imprinta is counterable by anyone who has studied its specific tether.
 
 ---
 

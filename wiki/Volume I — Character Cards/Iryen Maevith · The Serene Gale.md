@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8155-a552-c94e53286e22"
 notion_url: "https://app.notion.com/p/Iryen-Maevith-The-Serene-Gale-3d958200eb228155a552c94e53286e22"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:47:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Iryen Maevith · The Serene Gale
 
+**Say it** · EER-yen MAY-vith
 > *"The one who could still a storm with laughter."*
 
 ---

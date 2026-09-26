@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8160-a69a-d8fa78833741"
 notion_url: "https://app.notion.com/p/Eryndrel-Vaelune-The-Trinebow-3bd58200eb228160a69ad8fa78833741"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T08:44:00.000Z"
 verification: null
 ---
 
 # Eryndrel Vaelune · The Trinebow
 
+**Say it** · eh-RIN-drel vay-LOON · *Trinebow* TRYNE-boh
 > *"If the wind agrees, the world will follow."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of Triad Draw: *one pull, three shafts split mid-flight and arrive from different angles without crossing lines.*
 >

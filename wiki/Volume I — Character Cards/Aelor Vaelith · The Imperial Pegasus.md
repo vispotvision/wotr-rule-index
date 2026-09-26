@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81a8-b3d3-d0c81a866757"
 notion_url: "https://app.notion.com/p/Aelor-Vaelith-The-Imperial-Pegasus-3bd58200eb2281a8b3d3d0c81a866757"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T08:37:00.000Z"
 verification: null
 ---
 
 # Aelor Vaelith · The Imperial Pegasus
 
+**Say it** · AY-lor VAY-lith
 > **Temperance corrected under the Benediction mapping.** The sheet reads **"Benediction, stable at high speed; brief, clean surges into Severance when oath-law is invoked."**
 >
 > **Neither is a Stage.** *Benediction is a resonance; Severance is a Resilience sub-stat.* Benediction maps to Stage VIII, Transcendence **—** ***and "brief surges into Severance" reads as reaching toward Stage IX, Invocation, where the practitioner stops working alone and something larger answers.*** Which for a treaty-lancer invoking oath-law is exactly right.

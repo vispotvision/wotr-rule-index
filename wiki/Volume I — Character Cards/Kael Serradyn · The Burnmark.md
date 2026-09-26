@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-815a-931a-d184a59fffa8"
 notion_url: "https://app.notion.com/p/Kael-Serradyn-The-Burnmark-3d958200eb22815a931ad184a59fffa8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kael Serradyn · The Burnmark
 
+**Say it** · KAYL SEH-rah-din
 > *"Heat remembers. Every scar is a sunrise that refused to die."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Still Garden at Altherion
 **Name** · Kael Serradyn. **Called** · The Burnmark.
 **Role** · **Enforcement Sealwright. Solar-Graft Vanguard. Containment Specialist.**
 A lean, dusk-skinned fighter in burnt crimson and matte black weave, his left arm seamed with glowing orange lines that bleed low-level heat. His eyes burn like tempered obsidian rimmed in ember-light that brightens with his pulse.

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81cd-9cea-f61185efd050"
 notion_url: "https://app.notion.com/p/Ambrose-Virellith-The-Gilded-Thorn-3bd58200eb2281cd9ceaf61185efd050"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T08:37:00.000Z"
 verification: null
 ---
 
 # Ambrose Virellith · The Gilded Thorn
 
+**Say it** · AM-brohz vih-REL-ith
 > *"I do not mourn who I was. I mourn that they made me forget who I could've been."*
 > **Migrated with all content preserved.** *"Lacrimara / Velure Aetheris / Residual Belladonna"* were not Essence types. **"Aether Class: Bound-turned-Independent Relic"** is not among the eight. **The path "Perfume → Distill → Thornbind → Wither"** is not a Wellspring progression, though *Distillation* alone is a genuine current.
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b3-84a6-d7340d59f343"
 notion_url: "https://app.notion.com/p/Lumen-Dissecans-3d958200eb2281b384a6d7340d59f343"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Serenyra authored it within her analytic practice, aimed at active hostile or defensive magic rather than at people. Its readings are filed in Thesauriel, the codex she carries.
-**Practitioners** · Serenyra
+**Origin · Its author made it within an analytic practice,** aimed at active hostile or defensive magic rather than at people. Its readings are filed in Thesauriel, its author's codex.
+**Practitioners · Its author alone**
 
 ---
 

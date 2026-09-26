@@ -4,16 +4,19 @@ notion_id: "3bd58200-eb22-8107-bea9-d5a31ea79d67"
 notion_url: "https://app.notion.com/p/Yukizumi-Yukari-The-Reaper-3bd58200eb228107bea9d5a31ea79d67"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Yukizumi Yukari · The Reaper
 
+**Say it** · yoo-kee-ZOO-mee yoo-KAH-ree
+
 ---
 
 ## I · Identity
 
+**As Of** · After Lyssara Veyn's seven days were read
 **Name** · Yukizumi Yukari. **Title** · **The Reaper.** **Lineage** · current-generation **Yukari** psychopomp.
 **Role** · **Accord-appointed psychopomp–adjudicator.** *The one who walks battlefields and councils to escort what must end and protect what still belongs to the living.* **When a death is disputed — by Rot, by brandcraft, by stubborn love — Yukari is the last vote.**
 

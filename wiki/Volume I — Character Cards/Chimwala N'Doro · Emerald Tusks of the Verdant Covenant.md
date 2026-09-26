@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81bf-a790-de65ab188193"
 notion_url: "https://app.notion.com/p/Chimwala-N-Doro-Emerald-Tusks-of-the-Verdant-Covenant-3bd58200eb2281bfa790de65ab188193"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Chimwala N'Doro · Emerald Tusks of the Verdant Covenant
 
+**Say it** · chim-WAH-lah n-DOH-roh
 > *"The earth remembers more than stone and bone — it remembers the soul of those who walk it."*
 > *"Nature-Aether / Spiritual Aether"* were not Essence types. **"Edenis Wellspring"** is not among the sixty; **Verdantia is**, and the fractal glade description fits it exactly.
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After Rotwood was reclaimed
 **Name** · Chimwala N'Doro. **Called** · **Emerald Tusks of the Verdant Covenant.**
 **Role** · **Sage of the Emerald Path. Spirit-Glyph Weaver. Keeper of the Ancestral Grove.**
 

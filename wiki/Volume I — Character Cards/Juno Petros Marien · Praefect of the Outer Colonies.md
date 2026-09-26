@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81ee-a948-eb614a1f280a"
 notion_url: "https://app.notion.com/p/Juno-Petros-Marien-Praefect-of-the-Outer-Colonies-3bd58200eb2281eea948eb614a1f280a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Juno Petros Marien · Praefect of the Outer Colonies
 
+**Say it** · JOO-noh PET-ros MAIR-ee-en · *Praefect* PREE-fekt
 > *"Peace cannot be ruled, only earned. And pride does not buy bread, nor bury sons gently."*
 > **DEAD CANON — THIS SHEET SITS ON A RETCONNED POLITY.**
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After his last judgment, gone into the Eastern Range
 **Name** · Juno Petros Marien. **Called** · The Veil-Warden of Babyl.
 **Role** · **Praefect of the Outer Colonies.** Sovereign Arbitrator of the Bound Marches. Diplomat, strategist, and executor of imperial law.
 

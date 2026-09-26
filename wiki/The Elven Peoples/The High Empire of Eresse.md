@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81a5-aa15-fc0f570e9b76"
 notion_url: "https://app.notion.com/p/The-High-Empire-of-Eresse-3b158200eb2281a5aa15fc0f570e9b76"
 section: "The Elven Peoples"
 tags: []
-last_edited: "2026-08-03T20:22:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
 # The High Empire of Eresse
 
+**Say it** · eh-RESS-eh
 *The Whole Chorus · First Eon, Great Spirit War Era · Before the Duskwalker Schism*
 > *"She sang, and we were the note that answered her. We did not forget this. We only, later, forgot how to hear it together."*
 > — Attributed to the Sunroot Court, First Eon

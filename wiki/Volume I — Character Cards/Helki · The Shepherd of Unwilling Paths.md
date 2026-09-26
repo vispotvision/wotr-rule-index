@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8191-a00a-da858bfdced1"
 notion_url: "https://app.notion.com/p/Helki-The-Shepherd-of-Unwilling-Paths-3d958200eb228191a00ada858bfdced1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Helki · The Shepherd of Unwilling Paths
 
+**Say it** · HEL-kee
+
 ---
 
 ### I · Identity
 
+**As Of** · On the Unmeasured Path, short of the Verdant Altar
 **Name** · Helki. **Called** · The Shepherd of Unwilling Paths. *Also* the Bell-Bearer, Helki of the Flock.
 **Role** · **Elegiac Conduit. Wandering Tender of the Dying Wellspring. Bearer of the Offering.**
 **Gloss rights** · Diagnostic only.

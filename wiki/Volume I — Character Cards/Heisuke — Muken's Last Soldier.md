@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-815c-b7e5-d2a1b7e0d28f"
 notion_url: "https://app.notion.com/p/Heisuke-Muken-s-Last-Soldier-3ba58200eb22815cb7e5d2a1b7e0d28f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:06:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Heisuke — Muken's Last Soldier
 
+**Say it** · HAY-skeh · *Muken* MOO-ken
 *The Old Guard · Muken's Last Soldier*
+> **As Of:** The night the column reached Kharven-Seat
 > **Full Name:** Heisuke (formerly Taulagi: tau + lagi = war/season + sky)
+> **Age:** 61 · **Bloodline:** Moto (main branch, border guard)
+> **Level:** 278 · **Stage:** V Surge · **Band:** III
+> **Role:** Senior military authority on the Kokan expedition
+> One of the last men alive who served Muken's border guard.
 > **Age:** 61 · **Bloodline:** Moto (main branch, border guard)
 > **Level:** 278 · **Stage:** V Surge · **Band:** III
 > **Role:** Senior military authority on the Kokan expedition

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-816c-a809-e9f7ce2a90b9"
 notion_url: "https://app.notion.com/p/Spoil-The-Butcher-3bd58200eb22816ca809e9f7ce2a90b9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T09:01:00.000Z"
 verification: null
 ---
 
 # Spoil · The Butcher
 
+**Say it** · SPOYL
 > *"Blood's just memory made warm again. I like to remind people of what they've forgotten."*
 > **Stage corrected under the standing ruling.** The legacy sheet reads **"Stage III — Flourishing."** *Flourishing is Stage IV; Stage III is Ascension.* **Name wins — Stage IV.**
 >

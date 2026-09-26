@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-81ca-96f4-d094a763986c"
 notion_url: "https://app.notion.com/p/Tabitha-Hallenfeld-The-Road-Woman-3ba58200eb2281ca96f4d094a763986c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:11:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Tabitha Hallenfeld — The Road Woman
 
+**Say it** · TAB-ih-thah HAL-en-feld
 *The Road Woman · The Kingdom's Nervous System*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Tabitha Hallenfeld
+> **Age:** 42 · **House:** Hallenfeld (river corridors)
+> **Level:** 28 · **Stage:** 0 (unpracticed) · **Band:** 0
+> **Role:** Logistics officer, road intelligence, coalition supply coordinator
+> Carries route manifests as weapons. Reads roads the way generals read battlefields.
 > **Age:** 42 · **House:** Hallenfeld (river corridors)
 > **Level:** 28 · **Stage:** 0 (unpracticed) · **Band:** 0
 > **Role:** Logistics officer, road intelligence, coalition supply coordinator

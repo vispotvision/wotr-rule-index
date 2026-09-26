@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8106-a72a-de20d69574e0"
 notion_url: "https://app.notion.com/p/The-Standing-and-the-Title-The-Three-Names-3bc58200eb228106a72ade20d69574e0"
 section: "The Magic System"
 tags: ["Magic System", "Factions"]
-last_edited: "2026-09-11T03:11:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -69,7 +69,7 @@ verification: "unverified"
 
 > **Why the Accord fears the Monadic.** A sealed system produces no readable output. **A system the instruments cannot assess is a system the Accord cannot price, and a system the Accord cannot price is a hole in the ledger.**
 >
-> Sanctum Lux considers it a doctrinal problem, **because the Scale cannot weigh what will not present itself to the measurement.**
+> Sancta Lux considers it a doctrinal problem, **because the Scale cannot weigh what will not present itself to the measurement.**
 >
 > *Common people do not call Monadic practitioners anything, because Monadic practitioners do not give them the chance.*
 

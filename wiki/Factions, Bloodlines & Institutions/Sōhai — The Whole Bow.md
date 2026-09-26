@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-818c-9e58-dcf0a4fcfad5"
 notion_url: "https://app.notion.com/p/S-hai-The-Whole-Bow-3bc58200eb22818c9e58dcf0a4fcfad5"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-04T04:35:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -78,16 +78,16 @@ Fate is not prediction. Fate is work: the continuous assigning, preserving, undo
 
 ### V. THE CHARGE AGAINST THE SCALE
 
-*This is the section every Sanctum Lux Lector has read and every one of them has an answer to. Both parties are recorded here as they state themselves, because the argument is genuine and neither side is being stupid.*
+*This is the section every Sancta Lux Lector has read and every one of them has an answer to. Both parties are recorded here as they state themselves, because the argument is genuine and neither side is being stupid.*
 
 #### The Sōhai's charge
 
-Sanctum Lux maintains one reference, one instrument, one consecrated ground, one Archonic magic in its charter, one seat, and thirteen appendices. It measures every act in four worlds against Urion and against nothing else. It calls the other thirteen Archons real, and it has never once weighed a man against Selhar, and it has no procedure by which it could.
+Sancta Lux maintains one reference, one instrument, one consecrated ground, one Archonic magic in its charter, one seat, and thirteen appendices. It measures every act in four worlds against Urion and against nothing else. It calls the other thirteen Archons real, and it has never once weighed a man against Selhar, and it has no procedure by which it could.
 The Sōhai's word for this is **Singling**, and the charge is that the Scale is the largest and best-documented Singling in the history of the Realms. Idolatry requires an idol, and this is something colder. An institutional decision that one of fourteen sovereigns is sufficient, maintained across four thousand years, with paperwork.
 The Sōhai grants freely that the order does not kneel. That is precisely the charge. **A body that consults one reference exclusively for four millennia has performed a devotion and has kept better records of it than any shrine culture ever managed.** Kneeling would at least have been honest about what was happening.
 And the doctrinal consequence, which is the part that closes the argument for the Moto: the Scale cannot weigh what it has no station for. Cozbi Mahuo's numbered works return no reading at all. The order has known about that seam for a decade and cannot answer it without amending the reference. The Sōhai holds that the seam is not a flaw in the instrument. It is the shape of the thirteen Archons the instrument was never built to consult.
 
-#### Sanctum Lux's answer
+#### Sancta Lux's answer
 
 Recorded here in the order's own register, because it is not a weak answer.
 *We do not worship, so we cannot be accused of worshipping one. The first clause of the Catechism of Equal Breath is a refusal and it precedes everything else we have ever written. An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting. Urion is not a listener, he is a reference, and a reference is chosen for its stability and not for its supremacy. We did not elevate Balance above Memory. We selected the only one of the fourteen against which a measurement does not drift, because a court that drifts is not a court.*
@@ -95,7 +95,7 @@ Recorded here in the order's own register, because it is not a weak answer.
 
 #### Where the argument actually sits
 
-The Sōhai says the Scale worships in practice and denies it in doctrine. Sanctum Lux says the Sōhai reveres in doctrine and cannot demonstrate it in practice, since fourteen labours performed by a woman salting pork are indistinguishable from a woman salting pork.
+The Sōhai says the Scale worships in practice and denies it in doctrine. Sancta Lux says the Sōhai reveres in doctrine and cannot demonstrate it in practice, since fourteen labours performed by a woman salting pork are indistinguishable from a woman salting pork.
 Both descriptions are accurate. Neither is complete. No arbitration exists, and none can, because the only body with standing to arbitrate is one of the two parties.
 
 ---
@@ -103,7 +103,7 @@ Both descriptions are accurate. Neither is complete. No arbitration exists, and 
 ### VI. THE TENANCY
 
 **The white shelf is Alabaster.**
-The Moto held the western reach of the one body and the seat of the Long Reading stood on white stone, and the Holy Sea of Alabaster stands on that stone now. Its Wellspring is testimony. Its whole apparatus is built to weigh a sworn account. The Sōhai's position, stated flatly and never once withdrawn, is that testimony is a Moto Work, that the Wellspring under Alabaster is a residue of four thousand years of Reading performed on that ground, and that Sanctum Lux's chapter hold there is a tenant occupying a sacrament it did not author, filing reports northward to a Grand Church at Altherion that has never held the deed.
+The Moto held the western reach of the one body and the seat of the Long Reading stood on white stone, and the Holy Sea of Alabaster stands on that stone now. Its Wellspring is testimony. Its whole apparatus is built to weigh a sworn account. The Sōhai's position, stated flatly and never once withdrawn, is that testimony is a Moto Work, that the Wellspring under Alabaster is a residue of four thousand years of Reading performed on that ground, and that Sancta Lux's chapter hold there is a tenant occupying a sacrament it did not author, filing reports northward to a Grand Church at Altherion that has never held the deed.
 The Sōhai does not press the claim. It has not pressed it in eleven hundred years. Six lines crossed the water and arrived with their registers and their retainers and no standing at all, and a claim you cannot enforce is a claim you are better off not making out loud.
 *The Seventh Objection is sealed at Meridian Hold. It has three living readers. One of them has stopped sleeping.*
 

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81bb-a593-ec19c65127f3"
 notion_url: "https://app.notion.com/p/Karasaki-Hozume-The-Verdant-Rot-3bd58200eb2281bba593ec19c65127f3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:43:00.000Z"
+last_edited: "2026-09-26T08:49:00.000Z"
 verification: null
 ---
 
 # Karasaki Hozume · The Verdant Rot
 
+**Say it** · kah-rah-SAH-kee hoh-ZOO-meh
 > **Corrected.** "Marsh / Verdure / Sublimation Essence" were not Essence types. **"Cibation, Sublimation, Projection, Solution" as Core Wellspring Resonances** are Great Work operations, not currents — only Calcination on that list is genuinely a Wellspring. **Tyzura, Archon of Spirits** is carried provisionally: the Tyzura / Ashura Yukari identity question is an open ruling and this sheet cannot harden until it settles.
 
 ---

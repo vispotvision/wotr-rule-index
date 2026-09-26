@@ -4,20 +4,22 @@ notion_id: "3bd58200-eb22-819f-801b-d8a48de4a21c"
 notion_url: "https://app.notion.com/p/Leon-Vaerenthal-The-Farmer-3bd58200eb22819f801bd8a48de4a21c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:43:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Leon Vaerenthal · The Farmer
 
+**Say it** · LAY-on VAIR-en-thal
 > **Corrected.** "Hemothaumic Aether / Noctis Vitalis / Lament of Maren" were not three Essence types. **"Wellspring of the Fractured Fang" with a Loss → Fury → Restraint → Protection path** is an emotional arc, not a Wellspring. **Stage V is confirmed by the legacy sheet's own "Ashroot Core (Fractured Stage V)"** and needed no adjustment.
 
 ---
 
 ## I · Identity
 
+**As Of** · After the soured well, the inquisitors on the road behind him
 **Name** · Leon Vaerenthal. **Called** · The Crimson Stray. Fang of the Fallen Field. **The Farmer.**
-**Standing** · Unaligned wanderer. Formerly a farmer of Eld Hollow, Senoth borderland. Marked by the Scarlet Communion. Hunted by Sanctum Lux inquisitors.
+**Standing** · Unaligned wanderer. Formerly a farmer of Eld Hollow, Senoth borderland. Marked by the Scarlet Communion. Hunted by Sancta Lux inquisitors.
 > **Catalyst Event · Stage V, Splintering.** His sister Maren died and he survived contact with what killed her.
 >
 > **Splintering fractures along emotional lines, not along the lines of the encounter.** It does not create the flaw; it promotes the flaw to a load path. *Leon went in carrying Maren and came out with her structurally present in his Crystal, permanently, in a way the coil reads as a second signature.*
@@ -95,7 +97,7 @@ He went in carrying Maren. He came out with her kept in his Soul Crystal, perman
 
 #### The Cost
 
-The Scarlet Communion marked him. It wanted him for the curse half of his blood, the dark venous half. He went to none of them. He took to the roads unaligned. Sanctum Lux set its inquisitors after him, and they may pronounce sentence in the field without an Arbiter present.
+The Scarlet Communion marked him. It wanted him for the curse half of his blood, the dark venous half. He went to none of them. He took to the roads unaligned. Sancta Lux set its inquisitors after him, and they may pronounce sentence in the field without an Arbiter present.
 Near him, people's pulses ran fast, and none of them could say why. In the harvest rows it made the other hands uneasy. He kept to harvest work regardless. It was the trade he had, and it let him leave each farm when the grain was in.
 When someone he was bound to stood in danger, crimson mist came off him and hardened into a standing wall. It formed from his blood, out of wounds he did not remember taking. He did not choose it, and he could not decline it. Every time it rose it drew more through him than he could safely carry, and he had nothing in him to shape what spilled over. For a stranger nothing rose. A stranger once died in front of him, and he stood there with empty hands.
 On a road through the Rimlands of Stannvaard he hired on for the harvest at a farm settlement whose well had soured. Wellspring corruption had come up into the water, and the households that drank it were sick. Elion Drevas went from bed to bed, drawing the sickness out of each who consented. Beatrix Vaelthorn knelt in the yard with her bark arm flat on the ground and found clean water upslope, past the last barn. Leon took a spade to the place she marked and dug until the water stood in the hole. While he worked, every pulse in the yard ran faster. Beatrix felt the change through the ground and told him so, plainly.
@@ -104,7 +106,7 @@ The riders came before the new well was lined. Beatrix felt their horses through
 
 #### Where They Stand
 
-Leon Vaerenthal is an unaligned wanderer, once a farmer of Eld Hollow, who works other men's harvests. He is called the Crimson Stray, the Fang of the Fallen Field and the Farmer. The Communion's mark is on him. The inquisitors of Sanctum Lux ride the roads behind him, and he still carries the curse Elion offered to take.
+Leon Vaerenthal is an unaligned wanderer, once a farmer of Eld Hollow, who works other men's harvests. He is called the Crimson Stray, the Fang of the Fallen Field and the Farmer. The Communion's mark is on him. The inquisitors of Sancta Lux ride the roads behind him, and he still carries the curse Elion offered to take.
 He is bound to two people. Both bonds bear load. One is Maren, and she is dead. The other is Tilda, and she is alive. The Communion knows what a threat to Tilda does to him: he will flare, and flare again, until his Crystal fails.
 Maren's soulprint is in him still. Whether her echo is responding or merely recorded, nobody knows.
 
@@ -116,4 +118,4 @@ Maren's soulprint is in him still. Whether her echo is responding or merely reco
 - **Maren** · his sister, the bond that is not living. She died, and he survived contact with what killed her.
 - **Tilda** · the living bond. A threat to her makes him flare until his Crystal fails, and the Communion knows it.
 - **The Scarlet Communion** · the mark. It marked him for the curse half of his blood.
-- **Sanctum Lux** · the hunters. Its inquisitors asked after him by name at the well he dug.
+- **Sancta Lux** · the hunters. Its inquisitors asked after him by name at the well he dug.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e6-ae29-d981794b4d2d"
 notion_url: "https://app.notion.com/p/The-Iron-Tree-3d958200eb2281e6ae29d981794b4d2d"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T10:46:00.000Z"
 verification: null
 ---
 
@@ -16,11 +16,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Every branch is a release-valve off Dougou's sealed body-engine: a single chamber's stored pressure enters a chosen contact point in one instant instead of leaking outward, so the force drives into the target rather than spreading across the surface.
-**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
-**Limit** · Requires contact or near-contact and a grounded stance. Airborne targets and Void or anti-recognition fields deny chamber circulation entirely, per Dougou's own recorded weaknesses.
-**Counter** · Root disruption, resonance-based or spatial, drains accumulated density down through his own legs before a branch can release, and the loss does not recover while the working runs; being airborne does the same. His lowest resistance of all is emotional breach, since love, grief and kinship are the one input the sealed architecture was never built to process.
-**What nobody knows** · Whether the seal itself, and not the demonic strain it was built to contain, was the thing quietly killing him. His own record shows the containment never resolved and death arriving one Domain short of true sovereignty.
+**Effect** · Every branch is a release-valve off the bearer's sealed body-engine: a single chamber's stored pressure enters a chosen contact point in one instant instead of leaking outward, so the force drives into the target rather than spreading across the surface.
+**Cost** · 2,800 to 8,900 EU per branch, drawn from a 92,000 EU reserve at its author's scale; Kokushin Gyūha costs 7,400 EU exactly. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
+**Limit** · Requires contact or near-contact and a grounded stance. Airborne targets and Void or anti-recognition fields deny chamber circulation entirely, per the discipline's own recorded weaknesses.
+**Counter** · Root disruption, resonance-based or spatial, drains accumulated density down through the bearer's own legs before a branch can release, and the loss does not recover while the working runs; being airborne does the same. The bearer's lowest resistance of all is emotional breach, since love, grief and kinship are the one input the sealed architecture was never built to process.
+**What nobody knows** · Whether the seal itself, and not the demonic strain it was built to contain, was the thing quietly killing its author. The record shows the containment never resolved and death arriving one Domain short of true sovereignty.
 
 ### Codex line
 
@@ -29,8 +29,8 @@ verification: null
 **Physics Domain** · Material Science (thermoset cross-linking, grain growth under sustained load) primary; Biochemistry (cooperative binding, the harder the draw, the more readily the soul provides) secondary.
 **Category** · Arts (Body-Aligned: structured, discipline-based styles blending movement, form and Essence flow).
 **Craft** · Magicraft.
-**Stage floor** · VII, Refraction, for the seven branches (the Iron Bison discipline's own preliminary floor); IX, Invocation, for sustained combat use; Dougou's own apex expression runs at his attained Stage XIII, Principality.
-**Grade required** · A-Grade minimum; X-Grade at Dougou's personal apex.
+**Stage floor** · VII, Refraction, for the seven branches (the Iron Bison discipline's own preliminary floor); IX, Invocation, for sustained combat use; its author's apex expression ran at Stage XIII, Principality.
+**Grade required** · A-Grade minimum; X-Grade at its author's apex.
 **Path gate** · Body, dominant.
 
 ### Named branches
@@ -38,7 +38,7 @@ verification: null
 | Branch | Function and mechanism | Cost |
 |---|---|---|
 | **Tetsu no Kobushi** · Iron Fist | Root, solar and shoulder-line pressure driven through the fist without external leakage. Caves armor inward, ruptures organs through blunt transfer | 4,800 EU |
-| **Tetsu no Geri** · Iron Kick | Sacral and root pressure, specialising in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 6,200 EU |
+| **Tetsu no Keri** · Iron Kick | Sacral and root pressure, specialising in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 6,200 EU |
 | **Tetsu no Hiji** · Iron Elbow | Short-range rupture with almost no wind-up, for an enemy who mistakes proximity for opportunity | 3,600 EU |
 | **Tetsu no Hiza** · Iron Knee | Rising compression through the hips, lethal against a grabbed or staggered opponent | 4,200 EU |
 | **Tetsu no Kata** · Iron Shoulder | Broad-body mass rather than a narrow point; breaks formations, shields and gates | 5,400 EU |
@@ -48,11 +48,11 @@ verification: null
 
 ### FOW line
 
-Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Compression, per the ratified Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); Dougou's personal apex sits at his attained Stage XIII. Grade required A-Grade minimum, X-Grade at his apex. Path gate Body, dominant. No Resonant Pair documented.
+Governing Primary Vitality and Resilience; Sub-Stats Vitality Fortitude, Resilience Anchoring and Hardening, Ardency Compression, Tempering Compression, per the ratified Iron Bison discipline's own stat effects. Stage floor VII (preliminary), IX (sustained), XII (indefinite maintenance); its author's apex sat at Stage XIII. Grade required A-Grade minimum, X-Grade at that apex. Path gate Body, dominant. No Resonant Pair documented.
 
 ### Origin
 
-Dougou Ozumu Zettari built the Iron Tree himself, alone, out of the same event that made the seal necessary in the first place: a corrupted Zettari branch touched by demonic strain and Atlazon's pressure-law, which his own sheet records as origin and catalyst being one and the same event. He did not discover the containment. He was made from the conditions that required it, and the Iron Tree is the discipline by which that containment became something the world could be shown rather than only a prison he carried.
+Its author built the Iron Tree alone, out of the same event that made the seal necessary in the first place: a corrupted Zettari branch touched by demonic strain and Atlazon's pressure-law, origin and catalyst being one and the same event. The containment was not discovered. Its author was made from the conditions that required it, and the Iron Tree is the discipline by which that containment became something the world could be shown rather than only a prison carried inside.
 
 ---
 
@@ -66,11 +66,8 @@ Dougou Ozumu Zettari built the Iron Tree himself, alone, out of the same event t
 **Energy** · Truly stored, not drawn: seven sealed chambers under standing compression, charged over a career and vented one at a time. The Iron Tree is a battery; nearly every other working is a switch.
 | Quantity | Working | Result |
 |---|---|---|
-| Peak force, apex strike | stated | 12,000,000 N (5 to 12 MN) |
-| Energy, apex strike | stated | 8 to 20 MJ, about 1.9 to 4.8 kg of TNT; D-Grade at the edge of low C |
-| Pressure over a fist's 50 cm² | 12 × 10⁶ N ÷ 5 × 10⁻³ m² | 2.4 GPa, three to six times plate steel's strength |
-| Contact for a plate to survive statically | 12 × 10⁶ N ÷ 0.8 × 10⁹ Pa | at least 0.015 m², about 12 cm square |
-| Branches below the apex | stated | 1 to 10 MJ |
+| Energy, apex strike | 7,400 EU × η 0.99, at 1 MJ per EU | 7.326 GJ, about 1.75 tons of TNT; B-Grade |
+| Branches below the apex | 2,800 to 8,900 EU × η 0.99, at 1 MJ per EU | 2.772 to 8.811 GJ, about 0.66 to 2.1 tons of TNT; B-Grade |
 
 ### Metaphysics
 
@@ -90,7 +87,7 @@ Dougou Ozumu Zettari built the Iron Tree himself, alone, out of the same event t
 **Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behaviour of a pressurised body.
 **Boundary** · The number of open outlets moves from zero to one, at one place, for an instant.
 **Effect** · A fist or shoulder with no wind-up lands at a distance thought safe; the plate stays whole and what is behind it stops being a load-bearing structure. A wall stands while the room behind it falls; stone splits along its own grain.
-**Branches** · Iron Fist (Tetsu no Kobushi) caves armour and ruptures organs; Iron Kick (Geri) breaks knees and ground; Iron Elbow (Hiji) and Iron Head (Atama) at close range; Iron Knee (Hiza) against the grabbed; Iron Shoulder (Kata) breaks formations and gates; Iron Step (Ho) forces the ground.
+**Branches** · Iron Fist (Tetsu no Kobushi) caves armour and ruptures organs; Iron Kick (Keri) breaks knees and ground; Iron Elbow (Hiji) and Iron Head (Atama) at close range; Iron Knee (Hiza) against the grabbed; Iron Shoulder (Kata) breaks formations and gates; Iron Step (Ho) forces the ground.
 **Apex** · Black-Heart Bison Break (Kokushin Gyūha): one sealed chamber into one contact point, entering the target instead of spreading. The Sevenfold Seal (Nanatsu no Fūin) closes the whole vessel.
 **Floors** · Refraction for the seven branches, Invocation for sustained combat, Emanation for indefinite maintenance of the seal. It is Magicraft with no anchor but the body; the only anchor is the ground. A-Grade at the floor, X-Grade at the apex of the architecture.
 **Exclusive** · Seal and vent cannot coexist: while a branch vents the bearer is unarmoured, and a vented chamber reloads on the seal's own schedule, not his.

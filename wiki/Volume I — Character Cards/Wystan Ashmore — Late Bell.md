@@ -4,16 +4,18 @@ notion_id: "3d858200-eb22-8123-bdac-cf86958a894c"
 notion_url: "https://app.notion.com/p/Wystan-Ashmore-Late-Bell-3d858200eb228123bdaccf86958a894c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:12:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Wystan Ashmore — Late Bell
 
+**Say it** · WISS-tan ASH-mor
 *Guild Accord, Arbitration Division, Night Register. Officer of Attribution.*
 
 ### I. Identity
 
+**As Of** The night the Ferriby tin was opened on Cutler Row
 **Name.** Wystan Ashmore. Northern register, chartered family, third son. The byname *Late Bell* is the Division's, not his.
 **Standing.** Tier 6, Master. Title of address **Warden of Duty**. Nobody in the districts he works uses it.
 **Level 300.** Band III, Sovereign. **Stage X, Realization.** Spirit Path, recognised. No Body, Attraction or Fate alignment.

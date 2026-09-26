@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8166-91a4-e7499fc2b381"
 notion_url: "https://app.notion.com/p/Corwin-Sesk-3e358200eb22816691a4e7499fc2b381"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Corwin Sesk
 
+**Say it** · KOR-win SESK
 Sources: `scenes/commencement_of_the_curia_kujo_arc.md` and `scenes/sesk_the_report.md`. Every line below is drawn from those scenes. Anything originated is marked; numeric system fields read `null`.
 
 ### I · Identity
 
+- **As Of:** The fourteenth morning, beneath the Grand Church
 - **Name:** Corwin Sesk. Given in his own words — "Corwin Sesk, my lord. Under instruction."
 - **Register:** given name plus unmarked surname, which is the Northern stratum shape under R23-2-NORTHERN*STRATUM (small given-name pool, frozen surname if the family is chartered, live patronymic if not, earned byname available to anyone) and R20-1-CONCORD*HUMAN_ANCHOR. **Observation only** — the scene never states his origin. Field: **`null`**.
 - **Age / origin:** not stated. `null`.

@@ -4,8 +4,8 @@ notion_id: "3b158200-eb22-81eb-9d79-eade4ec8fd73"
 notion_url: "https://app.notion.com/p/Hataraki-no-Sho-The-Martial-Application-of-the-Works-3b158200eb2281eb9d79eade4ec8fd73"
 section: "Hataraki — The Works of the Plane of Fate"
 tags: []
-last_edited: "2026-09-12T05:41:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T10:17:00.000Z"
+verification: null
 ---
 
 # Hataraki no Sho — The Martial Application of the Works
@@ -46,9 +46,9 @@ Meigan users become quiet in the wrong way. Not contemplative, but predatory. Th
 ### Reigan · the soul eye
 
 Reigan heirs disappoint differently. They are too often tempted by intimacy. To see the soul is to be invited into the interior, and many mistake that invitation for permission. They become fascinated with bloodline resonance, curse anatomy, ancestor sediment, the half-healed fractures hidden beneath composure. They learn quickly that **flesh is only the outer handwriting of deeper injuries.**
-**Shinzui Kaibun** · *Edict of the Core Vein.*
+**Shinzui Kaibun** · *Circular Writ of the Marrow.*
 - ***A red-line daughter, and the revenant that had shrugged off everything***
-  She did not attempt to overpower it. She placed two fingers against the flat of her own blade and invoked the Edict. The strike that followed was narrow, almost insulting in its economy. It entered through the clavicular gap, not deeply enough to impress a fool, and yet the revenant dropped to one knee as though something inside it had remembered death correctly for the first time in centuries.
+  She did not attempt to overpower it. She placed two fingers against the flat of her own blade and invoked the Writ. The strike that followed was narrow, almost insulting in its economy. It entered through the clavicular gap, not deeply enough to impress a fool, and yet the revenant dropped to one knee as though something inside it had remembered death correctly for the first time in centuries.
 
   She had not cut its body. **She had corrected its soul-traffic.**
 
@@ -72,9 +72,9 @@ Rarely commented upon at length, because sovereign synthesis is wasted on those 
 
 There are two kinds of fools who misunderstand Ruin. The first believes Ruin to be evil. The second believes Ruin to be freedom. **Neither has looked closely enough at rotting timber.**
 Hametsu no Gei was created because diseased continuity is one of existence's oldest insults. A kingdom that ought to have fallen but persists through cruelty. A law that no longer serves the reality it governs. A body that should have died cleanly but has become host to recurrence, corruption, or profaned resurrection. These things require ending, and ending is not an accident. **It is labour.**
-**Hokai Senkoku** · *Proclamation of Collapse.* Young practitioners delight in the name because they think the name itself performs the grandeur. It does not. What matters is whether the designation is **earned**. To pronounce collapse upon intact perfection is waste. To pronounce collapse upon a structure already hiding its own exhaustion is judgment.
+**Hōkai Senkoku** · *Proclamation of Collapse.* Young practitioners delight in the name because they think the name itself performs the grandeur. It does not. What matters is whether the designation is **earned**. To pronounce collapse upon intact perfection is waste. To pronounce collapse upon a structure already hiding its own exhaustion is judgment.
 **Kaimetsu no Hasuji** · *Edge-Line of Annihilation.* Used through sword, spear, and decree alike. The least intelligent version is the one preferred by braggarts, a broad committed stroke meant to impress witnesses. The correct version is almost humble. It follows leverage. It understands angle. It uses the enemy's own tension against him. In armoured combat it seeks articulation, weight-bearing joints, visor channels, or previously rattled structure. In fortification warfare it waits for masonry to confess where the stress has settled.
-**Tetsu Shuen** · *Iron Terminal.* A hammer-form, neglected by aesthetes and beloved by real soldiers. One does not pretend to become subtler than steel. One simply drives ruin through plate, gambeson, rib, and nerve in proper sequence until the body loses its argument with the blow. *I have always liked the honesty of hammers. They are incapable of ornamental thought.*
+**Tetsu Shūen** · *Iron Terminal.* A hammer-form, neglected by aesthetes and beloved by real soldiers. One does not pretend to become subtler than steel. One simply drives ruin through plate, gambeson, rib, and nerve in proper sequence until the body loses its argument with the blow. *I have always liked the honesty of hammers. They are incapable of ornamental thought.*
 > **The corruption of Ruin** is easy to identify. The practitioner ceases to ask whether a thing ought to end, and begins to enjoy ending as a general principle. Bloodlines have vanished into that error and called themselves pure for it.
 
 ---
@@ -83,9 +83,9 @@ Hametsu no Gei was created because diseased continuity is one of existence's old
 
 > Purity is more feared by the wise than Ruin ever will be. **This is because Ruin announces itself with ash, fractures, and screams. Purity arrives with clean hands.**
 Written not merely to heal, but to establish what should remain. The distinction matters. Healing without judgment produces survivals that ought not survive. Purity is foundation, consecration, correct form, and the refusal to let contamination redefine structure. Descendants are often sentimental about this Work in adolescence. They confuse it with kindness. Later, after battlefield experience or domestic betrayal, they become harsher and at last begin to understand it.
-**Seijo Kekkai** · *Barrier of Correct Sanctity.* Among the house's most useful defensive arts, though many perform it badly. The inexperienced imagine a wall. The experienced understand a **condition**. Properly invoked, the technique does not simply block entry. It clarifies the rightness of what is permitted to remain inside the field. This is why curses weaken within it. They are not merely repelled. **They become less doctrinally coherent.**
+**Seijō Kekkai** · *Barrier of Correct Sanctity.* Among the house's most useful defensive arts, though many perform it badly. The inexperienced imagine a wall. The experienced understand a **condition**. Properly invoked, the technique does not simply block entry. It clarifies the rightness of what is permitted to remain inside the field. This is why curses weaken within it. They are not merely repelled. **They become less doctrinally coherent.**
 **Hakugin Kosei** · *Silver Restoration.* Used to repair posture in the middle of a losing bind. The body, when frightened, lies to itself. Knees narrow. Shoulders rise. Breath shortens and begins acting like a traitor. Silver Restoration reminds the body of its rightful architecture. *One may survive an exchange entirely because one's bones have been persuaded to remember dignity.*
-**Joka Fudan** · *Unceasing Purge.* The least romantic of the purgative forms and therefore among the best. It strips curse residue, septic Essence, necrotic stain, and oath-poison from blade, chamber, wound, or shrine. It has saved more noble houses than the songs ever mention.
+**Jōka Fudan** · *Unceasing Purge.* The least romantic of the purgative forms and therefore among the best. It strips curse residue, septic Essence, necrotic stain, and oath-poison from blade, chamber, wound, or shrine. It has saved more noble houses than the songs ever mention.
 > **The corruption here is uglier than annihilation.** It is sterilization. The practitioner begins cutting away all variance, all stain, all contradiction, until life itself is thinned into something antiseptic and dead-eyed. Of the seven corruptions, **this one smiles the most.**
 
 ---
@@ -116,13 +116,13 @@ There are old houses in which the dead are never allowed to leave cleanly. They 
 ### Jikan no Gei · the Art of Temporality
 
 Not clock-work. **Sequence-law.** It governs before, during, after, convergence, delay, repetition, and the burden of consequence.
-**Kansoku Hoko** · *Measured Step.* A footwork doctrine so load-bearing that many practitioners do not realize they are studying philosophy through their knees. *To place the foot rightly is to admit that sequence matters. To overextend is to commit heresy with the hips.*
+**Kansoku Hokō** · *Observing Step.* A footwork doctrine so load-bearing that many practitioners do not realize they are studying philosophy through their knees. *To place the foot rightly is to admit that sequence matters. To overextend is to commit heresy with the hips.*
 **Innen Kusari** · *Chain of Causality.* The finest punitive form in this school. Not merely a curse, though lesser minds use it that way. It is the act by which one earlier truth is made to arrive on time. A feint becomes a later opening. A prior oath becomes a current penalty. A wound ignored in arrogance becomes the hinge upon which defeat finally swings.
 
 ### Chishiki no Gei · the Art of Knowledge
 
 The labour that permits reality to become legible. Most people say they want truth. What they want is confirmation decorated to look severe. **Actual knowledge is much colder.**
-**Naimei Ketsugi** · *Deliberation of True Naming.* Among the most dangerous techniques in the whole house, because naming alters what a thing can continue pretending to be. A false saint named as tyrant begins to lose the shelter of his own sanctimony. A ward named incorrectly begins to fail. A beast named according to hunger instead of species becomes readable where once it was only frightening.
+**Naimei Ketsugi** · *Deliberation of the Inner Name.* Among the most dangerous techniques in the whole house, because naming alters what a thing can continue pretending to be. A false saint named as tyrant begins to lose the shelter of his own sanctimony. A ward named incorrectly begins to fail. A beast named according to hunger instead of species becomes readable where once it was only frightening.
 **Monjo no Kagami** · *Mirror of the Inscribed Law.* Preferred in battle. It reflects not image, but **operative pattern**. One sees how the enemy thinks his technique functions, and from there one sees how it actually fails.
 
 ### Baransu no Gei · the Art of Balance
@@ -134,7 +134,7 @@ The most commonly underestimated Work and therefore the most likely to outlive i
 ### Zentaisei no Gei · the Art of Totality
 
 Discussed only with restraint. The crown-function, the integrating labour, the gathering of all lesser Works into one governable frame.
-**Sogo Tokan** · *Comprehensive Integration.* **Teiho no Oza** · *Throne of Accordant Judgment.* Not meant for immature egos. They are for command, for reality repair, for battlefields where multiple laws are already colliding and must either be reconciled or ranked.
+**Sōgō Tōkan** · *Comprehensive Integration.* **Teiho no Oza** · *Throne of Accordant Judgment.* Not meant for immature egos. They are for command, for reality repair, for battlefields where multiple laws are already colliding and must either be reconciled or ranked.
 > The corruption of Totality is the oldest sovereign temptation. **To gather is easy. To gather without devouring distinction, that is mastery.**
 
 ---
@@ -153,7 +153,7 @@ A bloodline may possess excellent doctrine and still die like idiots if it forge
 The **tachi and longsword** to those who study revelation and temporality. **Spears and estocs** to those who favour causality and spirit-penetration. **Polearms** to commanders. And **hammers** to anyone who has finally accepted that armour is a conversation best ended honestly.
 > Against plate, do not behave like a poet. **Behave like architecture with intent.**
 >
-> Hook behind the knee. Strike the pauldron to numb the arm. Half-sword into the visor. Use **Shuen Kugi** through the armpit gap. Follow with **Danzei no Ku**, *Sentence of Severance*, only after the target has already been forced to admit his own instability.
+> Hook behind the knee. Strike the pauldron to numb the arm. Half-sword into the visor. Use **Shūen Kugi** through the armpit gap. Follow with **Danzai no Ku**, *Sentence of Severance*, only after the target has already been forced to admit his own instability.
 >
 > This is what lesser traditions miss. **A finishing move is not a bright name shouted at the beginning of an exchange. It is the final legal consequence of everything the target has already failed to survive.**
 

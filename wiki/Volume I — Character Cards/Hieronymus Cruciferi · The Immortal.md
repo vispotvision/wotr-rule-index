@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8187-b8bd-eb7d922f8552"
 notion_url: "https://app.notion.com/p/Hieronymus-Cruciferi-The-Immortal-3bd58200eb228187b8bdeb7d922f8552"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T08:46:00.000Z"
 verification: null
 ---
 
 # Hieronymus Cruciferi · The Immortal
 
+**Say it** · hy-eh-RON-ih-mus kroo-KIF-eh-ree
 > *"Your bones are mortar for my road, your screams the song that paves it."*
 > **Migrated with all content preserved, including the full artifact entry.** *"Oblivion-Aether / Kinetic Aether / Reversal Aether"* were not Essence types. **The legacy sheet states "Stage VII" in its own hazard-registry line and that is retained** — one of the few Stage assignments in this volume that needed no adjustment.
 >

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81d0-b2b0-f845fc858474"
 notion_url: "https://app.notion.com/p/Dorrik-The-Pot-Man-3bd58200eb2281d0b2b0f845fc858474"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:42:00.000Z"
 verification: null
 ---
 
 # Dorrik · The Pot Man
 
+**Say it** · DOR-ik
 > **Corrected.** "Earthen / Anima / Reverie Essence" were not Essence types. **The pot is retained exactly as written** — it is the best thing on the sheet and needed nothing.
 **Dorrik** · The Pot Man. Vessel-Wanderer of Forgotten Roads. Unaffiliated drifter.
 **Catalyst · Stage III, Ascension.** *The first thing you made yourself, working.* The Sixteen Stages records that everything before Ascension was received and copied, and that the Stage is entirely the difference between those two experiences. **Most people weep or sit down. Dorrik put a pot on his head and kept walking**, and by the folk name for the Stage — *coming into the road* — he did so literally.

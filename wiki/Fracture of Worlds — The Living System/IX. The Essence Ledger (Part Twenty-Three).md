@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-81d4-9e1d-f161b3ed583a"
 notion_url: "https://app.notion.com/p/IX-The-Essence-Ledger-Part-Twenty-Three-3e758200eb2281d49e1df161b3ed583a"
 section: "Fracture of Worlds — The Living System"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T14:25:00.000Z"
 verification: "unverified"
 ---
 
@@ -93,9 +93,9 @@ Two things bind a Stage's reserve, and they are different in kind.
 | Expert | V Splintering | 101–200 | 51,800 – 961,000 | 200 | **961,000** |
 | Expert | VI Glory | 101–200 | 51,800 – 961,000 | 200 | **961,000** |
 | Expert | VII Refraction | 101–200 | 51,800 – 961,000 | 300 | **1.84 × 10⁷** |
-| Master | VIII Transcendence | 201–300 | 9.89 × 10⁵ – 1.84 × 10⁷ | 300 | **1.84 × 10⁷** |
-| Master | IX Invocation | 201–300 | 9.89 × 10⁵ – 1.84 × 10⁷ | 300 | **1.84 × 10⁷** |
-| Master | X Realization | 201–300 | 9.89 × 10⁵ – 1.84 × 10⁷ | 400 | **3.51 × 10⁸** |
+| Master | VIII Transcendence | 201–300 | 9.90 × 10⁵ – 1.84 × 10⁷ | 300 | **1.84 × 10⁷** |
+| Master | IX Invocation | 201–300 | 9.90 × 10⁵ – 1.84 × 10⁷ | 300 | **1.84 × 10⁷** |
+| Master | X Realization | 201–300 | 9.90 × 10⁵ – 1.84 × 10⁷ | 400 | **3.51 × 10⁸** |
 | Grandmaster | XI Dissonance | 301–400 | 1.89 × 10⁷ – 3.51 × 10⁸ | 400 | **3.51 × 10⁸** |
 | Grandmaster | XII Emanation | 301–400 | 1.89 × 10⁷ – 3.51 × 10⁸ | 500 | **6.70 × 10⁹** |
 | Archmaster | XIII Principality | 401–500 | 3.61 × 10⁸ – 6.70 × 10⁹ | 500 | **6.70 × 10⁹** |
@@ -111,7 +111,7 @@ Rolled up to the nine Tiers of Standing:
 | Journeyman | III | 2,710 – 50,300 | 50,300 |
 | Adept | IV | 2,710 – 50,300 | 961,000 |
 | Expert | V–VII | 51,800 – 1.84 × 10⁷ | 1.84 × 10⁷ |
-| Master | VIII–X | 9.89 × 10⁵ – 3.51 × 10⁸ | 3.51 × 10⁸ |
+| Master | VIII–X | 9.90 × 10⁵ – 3.51 × 10⁸ | 3.51 × 10⁸ |
 | Grandmaster | XI–XII | 1.89 × 10⁷ – 6.70 × 10⁹ | 6.70 × 10⁹ |
 | Archmaster | XIII–XIV | 3.61 × 10⁸ – 6.70 × 10⁹ | 6.70 × 10⁹ |
 | Paragon | XV–XVI | above 6.70 × 10⁹ | none |
@@ -159,14 +159,14 @@ The drain times are a property of the two figures a practitioner carries, reserv
 
 #### Worked, at three scales
 
-**Small: a small practitioner, Stage IV, Adept Adept.** Reserve 3,100 EU, Flux Density 290 EU/g, output 480 AU/s, η 0.89.
+**Small: a small practitioner, Stage IV, Adept Adept.** Reserve 3,100 EU, Flux Density 290 EU/g, output 258.1 AU/s, η 0.89.
 | Quantity | Working | Result |
 |---|---|---|
 | Reserve | 3,100 EU × 1 MJ | 3.10 GJ potential, 2.76 GJ deliverable |
-| Full output | 480 AU/s × 1 MW | 480 MW drawn, 427 MW delivered |
-| Time to empty | 3,100 ÷ 480 | 6.46 s |
-| Time to Starvation | 0.9 × 6.46 | 5.81 s, one turn |
-| Waste | 0.11 × 480 MW | 52.8 MW |
+| Full output | 258.1 AU/s × 1 MW | 258.1 MW drawn, 229.7 MW delivered |
+| Time to empty | 3,100 ÷ 258.1 | 12.01 s |
+| Time to Starvation | 0.9 × 12.01 | 10.81 s, nearly two turns |
+| Waste | 0.11 × 258.1 MW | 28.4 MW |
 
 Three of the small practitioner's workings:
 | working | EU | potential | delivered at η 0.89 | Grade | share of reserve |
@@ -207,18 +207,18 @@ The large practitioner is a summoner, and each construct costs 5 to 15 percent o
 Illustrative reserves and AU/s, sorted by how long the reserve holds at full draw. Times to Starvation are at 90% of reserve spent; turns are six seconds.
 | t to empty | to Starvation | turns to Starvation | practitioner | EU | AU/s | η | waste |
 |---|---|---|---|---|---|---|---|
-| 0.72 s | 0.65 s | 0.1 | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 6.7 × 10¹⁴ | 0.94 | 40.2 EW |
-| 6.46 s | 5.81 s | 1.0 | the small practitioner, Stage IV | 3,100 | 480 | 0.89 | 52.8 MW |
 | 10.00 s | 9.00 s | 1.5 | Stage III, Journeyman | 42,000 | 4,200 | 0.40 | 2.52 GW |
+| 12.01 s | 10.81 s | 1.8 | the small practitioner, Stage IV | 3,100 | 258.1 | 0.89 | 28.4 MW |
 | 23.59 s | 21.23 s | 3.5 | the middle practitioner, Stage XIII | 92,000 | 3,900 | 0.99 | 39.0 MW |
 | 70.59 s | 63.53 s | 10.6 | Stage VIII, Master | 4,200,000 | 59,500 | 0.70 | 17.9 GW |
 | 83.08 s | 74.77 s | 12.5 | Stage VII, Expert | 820,000 | 9,870 | 1.05 | none (η above one, “η above one”) |
 | 9 min 2 s | 8 min 8 s | 81 | the large practitioner, Stage XII | 850,000,000 | 1,566,000 | 0.87 | 204 GW |
-| 41 min 6 s | 37 min 0 s | 370 | Stage V, Expert | 185,000 | 75 | 0.50 | 37.5 MW |
-| 15 h 37 m 30 s | 14 h 3 m 45 s | 8,438 | Stage XII, Grandmaster | 180,000,000 | 3,200 | 0.91 | 288 MW |
+| 34 min 16 s | 30 min 50 s | 308 | Stage V, Expert | 185,000 | 90 | 0.60 | 36.0 MW |
+| 4 h 59 m 42 s | 4 h 29 m 44 s | 2,697 | Stage XII, Grandmaster | 180,000,000 | about 10,010 | 0.91 | 901 MW |
+| about 642 days | about 578 days | 8.3 million | Stage XII, Grandmaster | 4.8 × 10¹⁴ | 8.648 × 10⁶ | 0.94 | 519 GW |
 
 Every η here is the practitioner's own. The Tier ranges of Part Nineteen are typical, and a practitioner whose η stands outside their Tier's range stands as recorded.
-**The whole column is a clock.** Most reserves empty in under two minutes at full draw. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU drawn at 3,200 AU/s is built for multi-hour forge work, and its two numbers say so.
+**The whole column is a clock.** Most reserves empty in under two minutes at full draw. The exceptions are the very largest reserves and the low-output ones built for long work: a Stage XII reserve of 180,000,000 EU drawn at about 10,010 AU/s is built for multi-hour forge work, and its two numbers say so.
 
 #### What AU/s is not
 
@@ -239,8 +239,8 @@ AU/s is Essence per *second* and Flux Density is Essence per *gram*, so the equa
 #### Where the waste goes, and why it cannot go through the body
 
 The missing fraction of every expenditure is wasted as **heat, noise and structural bleed**. That list is correct physics. The first law says the missing fraction cannot vanish; the second says it cannot come back as work; the Gouy–Stodola relation (Ẇ*lost = T₀ · Ṡ*gen) says it reappears as low-grade heat at the place the loss happened. Light and sound are ways out of that place, not alternatives to it, and each becomes heat where it is absorbed.
-**It cannot be generated inside the body and conducted out.** Fourier's law, q = −k∇T. The small practitioner's 52.8 MW of waste through 1.8 m² of skin is 29.3 MW/m²; across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that would need
-**ΔT = qL/k = 2.93 × 10⁷ × 0.003 / 0.4 = 2.2 × 10⁵ K.**
+**It cannot be generated inside the body and conducted out.** Fourier's law, q = −k∇T. The small practitioner's 28.4 MW of waste through 1.8 m² of skin is 15.8 MW/m²; across 3 mm of skin at k ≈ 0.4 W·m⁻¹·K⁻¹ that would need
+**ΔT = qL/k = 1.58 × 10⁷ × 0.003 / 0.4 = 1.2 × 10⁵ K.**
 across three millimetres, and that is the small practitioner. At the middle practitioner's 39.0 MW it is 1.63 × 10⁵ K; at the large practitioner's 204 GW it is 8.5 × 10⁸ K. Skin chars at about 200 °C.
 **So the Soul Crystal is not a battery in the chest. It is an aperture, and the waste is shed at the Shell, at or outside the body's surface.** The body does not carry the heat of its own workings; the Shell does, and the Shell sheds it into the room. A practitioner at η above one is marked by exactly this: no field pressure, aura warmth or harmonic noise leaks outward from them, which says that from everyone below one it does.
 
@@ -249,8 +249,8 @@ across three millimetres, and that is the small practitioner. At the middle prac
 The waste leaves the Shell as radiance, and Stefan–Boltzmann prices what it looks like. T = (P / εσA)^¼ over 1.8 m² at ε = 0.98, at **full output**:
 | practitioner | waste | surface T | pain on bare skin (2 kW/m²) | wood ignites, piloted (12.5 kW/m²) |
 |---|---|---|---|---|
+| the small practitioner, η 0.89 | 28.4 MW | 4,105 K | 33.6 m | 13.4 m |
 | the middle practitioner, η 0.99 | 39.0 MW | 4,444 K | 39.4 m | 15.8 m |
-| the small practitioner, η 0.89 | 52.8 MW | 4,793 K | 45.8 m | 18.3 m |
 | Stage III, η 0.40 | 2.52 GW | 12,600 K | 317 m | 127 m |
 | Stage VIII, η 0.70 | 17.9 GW | 20,550 K | 843 m | 337 m |
 | the large practitioner, η 0.87 | 204 GW | 37,770 K | 2,846 m | 1,138 m |

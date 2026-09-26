@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-811f-aa49-d23d8865efbd"
 notion_url: "https://app.notion.com/p/Florwyn-s-Canticle-3d958200eb22811faa49d23d8865efbd"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:35:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · An unbroken, wordless hymn pulls Verdantia current through every injury and fractured Essence line within earshot, closing wounds and steadying fractures while she keeps singing, and calls a scatter of vines, roots, and blossoms up out of the ground around her.
+**Effect** · An unbroken, wordless hymn pulls Verdantia current through every injury and fractured Essence line within earshot, closing wounds and steadying fractures while the singer keeps singing, and calls a scatter of vines, roots, and blossoms up out of the ground around her.
 **Cost** · Pushing it hard pulls her inherited echo of Florwyn's Ground closer than is safe to hold, and the hymn leaves her own emotional state legible to anyone reading for it.
 **Limit** · Healing is gradual and cannot restore a limb lost mid-fight, and the hymn works best where something is already alive nearby to answer it.
 **Counter** · Without sound the hymn collapses before it completes; a Mortalis-aligned current resists or twists the Canticle rather than answering it.
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Serenyra carries the technique as an inheritance rather than an invention: an echo of Florwyn's own Ground, carried rather than designed.
+Its bearer carries the technique as an inheritance rather than an invention: an echo of Florwyn's own Ground, carried rather than designed.
 
 ---
 

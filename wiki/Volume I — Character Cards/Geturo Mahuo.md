@@ -4,12 +4,14 @@ notion_id: "3e058200-eb22-819a-be45-e0609e1102db"
 notion_url: "https://app.notion.com/p/Geturo-Mahuo-3e058200eb22819abe45e0609e1102db"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Geturo Mahuo
 
+**Say it** · geh-TOO-roh MAH-hoo-oh
+**As Of:** After the Arena duel, seven days before the tournament
 **Lineage:** Mahuo (Korean stratum). Son of Kwon Mu-jin and Frithia.
 **Age:** 14. Twin (older by minutes than Hiromi).
 **Class:** X, Aetherion Academy.

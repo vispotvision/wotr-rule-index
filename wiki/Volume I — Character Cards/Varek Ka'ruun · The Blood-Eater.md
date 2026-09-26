@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81b9-bb26-f18946ca95f4"
 notion_url: "https://app.notion.com/p/Varek-Ka-ruun-The-Blood-Eater-3bd58200eb2281b9bb26f18946ca95f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Varek Ka'ruun · The Blood-Eater
 
+**Say it** · VAIR-ek kah-ROON
 > *"Eat with me. Fight with me. Burn with me. Or die under my teeth — your choice tastes the same."*
 > **A third error class: an invented Stage name.** The card reads **"Stage VIII (Conquest)."**
 >
@@ -23,6 +24,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the beast in the shallows off Vellsorea
 **Name** · Varek Ka'ruun. **Called** · **The Blood-Eater.** Horned Feastlord · **Laughing Pyre.**
 **Role** · **Outer World Chieftain. Ritual Combatant. Wellspring Marauder of the Burning Steppe.**
 

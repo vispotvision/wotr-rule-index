@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8121-8dd7-e9a3f7ddb270"
 notion_url: "https://app.notion.com/p/Anima-Harmonics-3d958200eb2281218dd7e9a3f7ddb270"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:43:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · The first Applied Branch of the Harmonic Arts, rooted in Thalos of Ira's Chord Theory; Caelmorne Halvrein remade it by beginning each reading in silence during lunar Aether tides, which earned him the name He Whose Silence Was Sung by the Moon. The Auricle Choir holds consensual harmonisation sacred and unconsented harmonisation an assault, and unauthorised Anima work is punishable under sacred law.
-**Practitioners** · Caelmorne Halvrein; Thalos of Ira; the Auricle Choir; Mnirah Valein is said to have carried its emotional frequencies into Spirit Construct design, though no record ties her to the branch itself.
+**Origin** · The first Applied Branch of the Harmonic Arts, rooted in Chord Theory; a later master remade it by beginning each reading in silence during lunar Aether tides. The Auricle Choir holds consensual harmonisation sacred and unconsented harmonisation an assault, and unauthorised Anima work is punishable under sacred law.
+**Practitioners · The Auricle Choir; one Spirit Construct designer is said to have carried its emotional frequencies into that craft, though no record ties the designer to the branch itself.**
 
 ---
 

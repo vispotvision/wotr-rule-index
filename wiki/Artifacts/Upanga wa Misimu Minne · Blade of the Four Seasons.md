@@ -1,16 +1,16 @@
 ---
-title: "Upanga wa Msimu Nne · Blade of the Four Seasons"
+title: "Upanga wa Misimu Minne · Blade of the Four Seasons"
 notion_id: "3d958200-eb22-810d-ba1c-d2604de2c710"
-notion_url: "https://app.notion.com/p/Upanga-wa-Msimu-Nne-Blade-of-the-Four-Seasons-3d958200eb22810dba1cd2604de2c710"
+notion_url: "https://app.notion.com/p/Upanga-wa-Misimu-Minne-Blade-of-the-Four-Seasons-3d958200eb22810dba1cd2604de2c710"
 section: "Artifacts"
 tags: []
-last_edited: "2026-09-12T18:51:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T08:48:00.000Z"
+verification: null
 ---
 
-# Upanga wa Msimu Nne · Blade of the Four Seasons
+# Upanga wa Misimu Minne · Blade of the Four Seasons
 
-## Upanga wa Msimu Nne · Blade of the Four Seasons
+## Upanga wa Misimu Minne · Blade of the Four Seasons
 
 ### What it is
 

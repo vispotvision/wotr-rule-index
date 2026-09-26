@@ -4,16 +4,17 @@ notion_id: "3bd58200-eb22-8179-8e34-fac4a3adebf3"
 notion_url: "https://app.notion.com/p/Asta-Venrik-Wyvern-Marshal-Emeritus-3bd58200eb2281798e34fac4a3adebf3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T10:19:00.000Z"
 verification: null
 ---
 
 # Asta Venrik · Wyvern Marshal Emeritus
 
+**Say it** · AH-stah VEN-rik
 > *"If you wanted a porcelain queen, you should not have married the woman who jumps off cliffs for fun."*
 > **Fourth member of the Eressean family cluster.** *Asta is Karo Venrik's wife — chosen as queen despite every conservative house lobbying for a gentler bride.*
 >
-> **Migrated so far: Sandalphon Aestraen (Karo's father), Karo Venrik, Asta Venrik (Karo's wife), and Vaelen Mourcrix — House Mourcrix descending from House Venrik.** *Four sheets, one bloodline, sitting on both sides of Sanctum Lux and the Eressean Crown.* **This wants confirming as deliberate before more is built on it.**
+> **Migrated so far: Sandalphon Aestraen (Karo's father), Karo Venrik, Asta Venrik (Karo's wife), and Vaelen Mourcrix — House Mourcrix descending from House Venrik.** *Four sheets, one bloodline, sitting on both sides of Sancta Lux and the Eressean Crown.* **This wants confirming as deliberate before more is built on it.**
 > **Stage VI — Glory is stated on the card and is correct.** *One of the few in the volume needing no adjustment.* **"Aether Class: Aerial Vanguard Knight"** is not among the eight; **she is Class III, Resonant.** **"Mind Path"** is not one of the four — Body, Spirit, Attraction, Fate. **"Ascensio"** is not among the sixty; **Exuroth and Verdantia are.**
 
 ---
@@ -138,6 +139,6 @@ Eressean councils sit in chambers built partly below grade. When war calls, the 
 - **Eryndrel Vaelune · The Trinebow** · comrades; a call refused. In the burning corridor he called the line closing aloud, and she would not leave it; it closed when he said it would.
 - **Aelor Vaelith · The Imperial Pegasus** · the queen and the Crown's champion. He held the far mouth while she held the corridor.
 - **Sandalphon Aestraen · The Reverent** · kin by marriage. He is consort to Saeloria, her husband's mother.
-- **Vaelen Mourcrix · The Exculpate Arbiter** · kin by marriage. His card descends House Mourcrix from House Venrik, and her own card counts him in the one bloodline that sits on both sides of Sanctum Lux and the Eressean Crown.
+- **Vaelen Mourcrix · The Exculpate Arbiter** · kin by marriage. His card descends House Mourcrix from House Venrik, and her own card counts him in the one bloodline that sits on both sides of Sancta Lux and the Eressean Crown.
 - **Ilyria Draven Morningstar · Monochrome** · her husband's daughter. Ilyria is Karo's daughter by a Draven Morningstar mother, and neither card names the other.
 - **Serenyra Vaelith · The Archmagus of the Grove-Spired Crown** · assent. Her refusal of the Grove-Spired throne was a handover, and the Venrik line holds it with her assent.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-ba0e-ddd24f133029"
 notion_url: "https://app.notion.com/p/Vael-of-Nothing-The-Devourer-s-Index-3d958200eb2281bfba0eddd24f133029"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Vael of Nothing · The Devourer's Index
 
+**Say it** · VAYL
+
 ---
 
 ### I · Identity
 
+**As Of** · After Tsukihana Reimei walked out onto the ash plain
 **Name** · Vael. **Called** · The Devourer's Index, the Form-Breaker. *Also* Vael of Nothing, the Blindfolded Ruin.
 **Role** · **Null-Devour Apex. Unaffiliated Correction.**
 **Gloss rights** · Never.

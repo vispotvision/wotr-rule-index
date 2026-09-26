@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81be-833b-e6e1cf0d7a59"
 notion_url: "https://app.notion.com/p/Fallacy-3d958200eb2281be833be6e1cf0d7a59"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Banned in most formal Ritus Orders because the scars it leaves are ones the Continuum does not forget. Razakiel's Unlawful Acts of Order, a false-premised decree annulled by Dazkar's stillness, are its nearest recorded kin, and Razakiel is said to have used Fallacy to convince a domain its own god had never existed.
-**Practitioners** · Razakiel; Serenhal Caelmorne.
+**Origin** · Banned in most formal Ritus Orders because the scars it leaves are ones the Continuum does not forget. The Unlawful Acts of Order, a false-premised decree annulled by Dazkar's stillness, are its nearest recorded kin, and their author is said to have used Fallacy to convince a domain its own god had never existed.
+**Practitioners · The author of the Unlawful Acts of Order, and one later adept.**
 
 ---
 

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8174-9514-f472eef89877"
 notion_url: "https://app.notion.com/p/Orivane-Caelthys-Astral-Shepherd-3bd58200eb2281749514f472eef89877"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:55:00.000Z"
 verification: null
 ---
 
 # Orivane Caelthys · Astral Shepherd
 
+**Say it** · OR-ih-vayn KAYL-thiss
 > *"The stars are not above us. They are behind us, within us, and ahead of us. Every journey we take is already written in their light."*
 > **A Revelation card — the sixth found.** The sheet reads **"Temperance Stage X (Mythic Revelation)."**
 >

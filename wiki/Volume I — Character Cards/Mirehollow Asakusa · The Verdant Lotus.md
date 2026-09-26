@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-816d-b0b9-dc79e8dcadac"
 notion_url: "https://app.notion.com/p/Mirehollow-Asakusa-The-Verdant-Lotus-3bd58200eb22816db0b9dc79e8dcadac"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:54:00.000Z"
 verification: null
 ---
 
 # Mirehollow Asakusa · The Verdant Lotus
 
+**Say it** · MYRE-hol-oh ah-sah-KOO-sah
 > *"I do not cut. I invite stillness."*
 > **Migrated with all content preserved.** *"Verdant Marshroot / Swamplight Dream"* were not Essence types. **"Verdancy, Archon of Blooming / Misting Veil, Archon of Temperance / Whisperroot, Archon of Hollowing" are not Archons** — the fourteen are named beings, and none of them is a domain of practice. **The three are retained below as Domains**, which is what they actually are, and re-sourced to attested currents.
 >

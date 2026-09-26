@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-8190-957a-f01c509f15c5"
 notion_url: "https://app.notion.com/p/Lilia-The-Stormfold-Nurse-3ba58200eb228190957af01c509f15c5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:07:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Lilia — The Stormfold Nurse
 
+**Say it** · LIL-ee-ah
 *The Stormfold Nurse · The Hands That Stitch*
+> **As Of:** Bram's chamber in the Stormfold, the letter face down
 > **Full Name:** Lilia
+> **Age:** 28 · **Origin:** Concord (Stormfold, ridge settlement)
+> **Level:** 34 · **Stage:** I Ignition · **Band:** I
+> **Role:** Nurse and field medic at the Greymane estate, primary caretaker for Bram Greymane's wounded
+> The silence is not shock. The silence is the man's choice.
 > **Age:** 28 · **Origin:** Concord (Stormfold, ridge settlement)
 > **Level:** 34 · **Stage:** I Ignition · **Band:** I
 > **Role:** Nurse and field medic at the Greymane estate, primary caretaker for Bram Greymane's wounded

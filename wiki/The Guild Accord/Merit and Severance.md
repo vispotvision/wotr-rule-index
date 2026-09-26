@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81ad-bc02-e5d29faaa253"
 notion_url: "https://app.notion.com/p/Merit-and-Severance-3b158200eb2281adbc02e5d29faaa253"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-23T22:18:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -68,7 +68,7 @@ The Guild Accord is not bound by mortal law. **It is law**, etched into the fabr
 | **II · Seal of Rejection** | Wilful defiance of a Concord order, or falsifying a mission report | Branded with a **Reject Sigil**, visible to all who bear Accord sight. Prevents use of any sanctioned Wellspring, relic, or Gate. The branded are known as **Forsworn.** *Many wander until they wither, for the world itself rejects their resonance* |
 | **III · Brand of Corruption** | Tampering with or corrupting a Wellspring without sanction | Essence inverted; **emotion becomes toxicity.** Enforcement is authorized to enact **Essence Severance**, removing the corrupted portion of the soul by force. *Survivors rarely remain whole.* If corruption spreads to the Wellspring itself, the accused's life is forfeit |
 | **IV · Parunic Silence** | Speaking forbidden glyphs, teaching the Divine Language without sanction, unsanctioned Aether drafts | **Silencing** — removal of one's voice in body and spirit. Their speech becomes inaudible to all beings who still bear Essence, **rendering them ghosts within reality** |
-| **V · The Concord Trial** | Guilt uncertain | A **Trial of Resonance** in the Neutral Chambers, **where lies cannot survive.** The soul's harmony is measured — if it hums true, absolved; if discordant, **the Lattice itself convicts them.** This trial supersedes all mortal courts. Its verdict is final |
+| **V · The Concord Trial** | Guilt uncertain | A **Trial of Resonance** in the Neutral Chambers, **where lies cannot survive.** The soul's harmony is measured — if it hums true, absolved; if discordant, **the Lattice itself convicts them.** The Codex holds that this trial supersedes all mortal courts and that its verdict is final. The crown courts dispute both wherever they reach the accused first |
 | **VI · Excision of Memory** | Crimes regrettable but redeemable — relic theft, negligence, desertion | **Cleansing through Forgetting.** A Sealwright removes the crime and its motive from the soul. The offender begins anew, **but at the cost of self.** *Some accept this willingly, calling it the Second Birth* |
 | **VII · Shadow Absorption** | Proving useful but irredeemably dangerous | Conscription into the **Black Concord.** Names, faces and records erased; memories rewritten for covert service. Only the High Concordant knows their true identity. **They are called Shades of the Lattice, and they are both prisoner and weapon** |
 | **VIII · Total Severance** | Betraying the Accord's foundation — attempted divine ascension, mass Wellspring destruction, inter-realm rebellion | The soul is exiled from the Lattice entirely — **erased from existence, not merely killed.** No resurrection, no record, no echo. To the Concord, they *never were.* **Even memory recoils from their name** |

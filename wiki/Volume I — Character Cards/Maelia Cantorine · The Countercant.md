@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81d4-85d5-e67c3a5b1f23"
 notion_url: "https://app.notion.com/p/Maelia-Cantorine-The-Countercant-3bd58200eb2281d485d5e67c3a5b1f23"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T08:53:00.000Z"
 verification: null
 ---
 
 # Maelia Cantorine · The Countercant
 
+**Say it** · MAY-lee-ah kan-toh-REEN
 > *"Keep your words. Lose the rhythm."*
 > **Temperance corrected under the Benediction mapping.** The card reads **"Solid Benediction with surgical Severance on the off-beat."**
 >

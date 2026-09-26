@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e1-a5a2-e8f0627274f6"
 notion_url: "https://app.notion.com/p/Sairin-Kazuren-The-Still-Point-3d958200eb2281e1a5a2e8f0627274f6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Sairin Kazuren · The Still Point
 
+**Say it** · SY-rin kah-ZOO-ren
+
 ---
 
 ### I · Identity
 
+**As Of** · After the drift in the caldera belt
 **Name** · Sairin Kazuren. **Called** · **The Still Point.** *The Blade Between Storms.*
 **Role** · **Clan Head. Duelist. Monastic Sentinel of the Kazuren line.**
 **Look & tells** · Tall and lithe, half-closed razor-focused eyes, dark hair bound with an arrow-shaped ornament, martial robes stitched with cloud and tide. *She speaks only when necessary, and a room settles when she enters it before anyone notices why.*

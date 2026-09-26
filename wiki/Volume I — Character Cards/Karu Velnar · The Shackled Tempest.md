@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-818b-9db0-da90ff2681f1"
 notion_url: "https://app.notion.com/p/Karu-Velnar-The-Shackled-Tempest-3d958200eb22818b9db0da90ff2681f1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Karu Velnar · The Shackled Tempest
 
+**Say it** · KAH-roo VEL-nar
+
 ---
 
 ### I · Identity
 
+**As Of** · After the ford on the Horse Rivers
 **Name** · Karu Velnar. **Called** · The Shackled Tempest.
 **Also known as** · Chainbreaker, The White-Wind Savage, Fang of the Gale Paths.
 **Epithet** · He Who Hunts the Storm Within.

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81e5-b855-ca4472a9dbbf"
 notion_url: "https://app.notion.com/p/Vorynth-the-Vatborn-3bd58200eb2281e5b855ca4472a9dbbf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T09:05:00.000Z"
 verification: null
 ---
 
 # Vorynth the Vatborn
 
+**Say it** · VOR-inth
 > *"Let structures rot to dust and spirits curdle into sludge — then watch your enemies drown in their own decomposition."*
 > **Same correction as Malphas, on his own general.** The Wellspring Path lists **"Fermentation (Archon of Flux) · Calcination (Archon of Ash) · Dissolution (Archon of Breakdown)."**
 >

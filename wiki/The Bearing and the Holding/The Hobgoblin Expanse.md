@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81b0-8227-d8a4f9a29302"
 notion_url: "https://app.notion.com/p/The-Hobgoblin-Expanse-3b158200eb2281b08227d8a4f9a29302"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-08-14T22:25:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: "unverified"
 ---
 
 # The Hobgoblin Expanse
 
+**Say it** · HOB-gob-lin ek-SPANS · *Vorruk-Khal* VORR-ook KHAHL
 **Vorruk-Khal · The Held Ground**
 > *Vorruk* does not mean ground the way a farmer means ground. **It means ground that tried to move and was stopped.** *Khal* does not mean held the way a hand holds a cup. **It means held the way a wound holds together after stitching.**
 

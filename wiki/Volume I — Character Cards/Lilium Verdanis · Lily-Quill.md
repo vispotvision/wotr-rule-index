@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81e5-955a-f01d85aee914"
 notion_url: "https://app.notion.com/p/Lilium-Verdanis-Lily-Quill-3bd58200eb2281e5955af01d85aee914"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T08:51:00.000Z"
 verification: null
 ---
 
 # Lilium Verdanis · Lily-Quill
 
+**Say it** · LIL-ee-um ver-DAN-iss
 > *"Say it once, clearly. I'll plant it where even fear can't uproot it."*
 > **The card states no Temperance Stage.** **Stage VII — Refraction assigned and flagged as originated**, on the strength of **Hush Margin**: *a green bracket drawn on a page, and the air inside it softens so people speak like they are indoors even when they aren't.*
 >

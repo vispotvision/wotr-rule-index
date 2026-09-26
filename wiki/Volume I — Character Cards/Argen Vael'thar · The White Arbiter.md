@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e9-8139-e393091aeea5"
 notion_url: "https://app.notion.com/p/Argen-Vael-thar-The-White-Arbiter-3d958200eb2281e98139e393091aeea5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Argen Vael'thar · The White Arbiter
 
+**Say it** · AR-gen VAYL-thar
 > *"Judgment is not to end the guilty. It is to remind the living of consequence."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Seer's answer on Aethryn
 **Name** · Master Argen Vael'thar. **Called** · The White Arbiter. *Merciful Iron.*
 **Role** · **Prime Arbiter of the Concord Council. Head of the Arbitration Division. Overseer of every Concord Trial and Severance.**
 **Lineage** · Human, born in Eresse, New World. *His family traces to early law-keepers who mediated between the Dawn Guard and the First Accord* (kept as the card gives it; see the migration note), *which grants him both noble and sacred authority.*

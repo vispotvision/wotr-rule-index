@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8125-b0e6-c71c9f049569"
 notion_url: "https://app.notion.com/p/Gorrath-Bloodspine-The-Magmaborn-Juggernaut-3bd58200eb228125b0e6c71c9f049569"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
 # Gorrath Bloodspine · The Magmaborn Juggernaut
 
+**Say it** · GOR-rath BLUD-spyne
 > *"I am the forge, the flame, and the fall. Break me and see what erupts."*
 > **ORIGINATED, RATIFIED.** Rebuilt from the legacy Trello sheet. **The Temperance Stage assignment was ratified as written (Isaac, 2026-09-12).** The stat allocation is worked from the Fracture of Worlds point economy and checked against the Part Seven Path gates.
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the second lattice on the Bloodspine steps
 **Name** · Gorrath Bloodspine.
 **Called** · The Magmaborn Juggernaut. Warden of the Broken Spires. Herald of Bloodfire.
 **Era** · Age of Calamity.
@@ -86,6 +88,10 @@ verification: null
 **Resilience Fortification 341** · Body IV. **Ardency Penetration 332** · Body III.
 **Vitality Regeneration 322** · open.
 > **Gorrath is the only Volume III sheet with no Path caps at all.**
+> 
+> Sinclair loses three sub-stats to the Obsession question. Xanelor loses his entire pack-synergy claim to having no Attraction. **Gorrath loses nothing, because every stat he invested in is Body-gated or open, and he committed to Body absolutely.**
+> 
+> *He has the least sophisticated architecture in the volume and the only one operating at full efficiency. Every point he spent is doing work. There is an argument buried in that about specialists and dilettantes, and the Bloodspine have been making it for nine generations.*
 >
 > Sinclair loses three sub-stats to the Obsession question. Zarron loses three to having no Body or Spirit commitment. Xanelor loses his entire pack-synergy claim to having no Attraction. **Gorrath loses nothing, because every stat he invested in is Body-gated or open, and he committed to Body absolutely.**
 >
@@ -166,17 +172,16 @@ When he drove both fists into stone, the rupture ran along seams the rock alread
 He had found one promise he could keep with his body: once he had committed to a piece of ground, nothing moved him off it.
 The Bloodspine were on the steps when Iskaron Thalnaris came up out of the margin, and Gorrath had decided to stand there. Near Iskaron the clan reached for anger, and the anger was there. His bare hands opened them. On Gorrath they met obsidian plate. Gorrath broke the basalt along its joints and brought fire up through it, and Iskaron kept coming. Then he stopped moving, and a lattice formed above his head. Gorrath had never seen that stillness. He did not step back, and the Bloodspine stayed where their chieftain stood. The air went wrong. The columns came apart at their joints, and Gorrath's blood went to obsidian, and he lived.
 Iskaron left his Domain lying on the steps, and inside it the wounded could only be carried out. Gorrath would not leave the ground. Sinclair Mercer came onto the steps on foot in a dark wool coat. Gorrath did not see him come. He saw a shadow on the basalt that did not match the man above it. Sinclair knelt beside each of the dying in turn, courteous and unhurried. One by one they stopped. Gorrath went at him over the fallen columns, and each time he arrived, Sinclair was somewhere else.
-A seam opened at the Domain's edge. Light came off it that lit nothing. Zarron Mahuo came onto the steps with Hikariken in his hand, and Sinclair was gone before the light was off the seam. None of the Bloodspine lived to the next morning. Gorrath pried basalt posts loose by hand and stood them over his dead, and Zarron carried posts with him until the last cairn was up. Then Zarron went.
+Then Sinclair was gone. None of the Bloodspine lived to the next morning. Gorrath pried basalt posts loose by hand and stood them over his dead until the last cairn was up.
 
 #### Where They Stand
 
 Later, as vanguard for one of the deep resistance fronts, Gorrath held another stretch of the steps, and Iskaron came up out of the margin again. Iskaron stopped moving. Gorrath had seen that stillness once, and he sent the front back off the steps and stayed on the ground alone. The lattice formed larger than before, and his blood went to obsidian again. He lived, and so did the front.
 He is the last surviving chieftain of the Bloodspine line, because the rest of the clan died where he had already decided to stand. He cannot chase or read a feint. Nothing makes him stop. Every commander who has beaten him has beaten him by choosing where. He has held a fault line still.
 A coil reads him in under a minute. The reading is plain. The obsidian does not read as his at all, and nobody knows whether it is his. People who have been told what he is expect to feel warmer near him. They do not.
-The cairns stand on the Bloodspine steps beside the seam Zarron cut. Nothing has confirmed whether it closes.
+The cairns stand on the Bloodspine steps.
 
 #### Ties
 
 - **Iskaron Thalnaris · Bearer of the Fractured Crown** · enemy. Iskaron killed the Bloodspine on the ground Gorrath had chosen and left him alive, and on another stretch of the steps Gorrath sent his front back and saw the lattice larger.
 - **Sinclair Mercer · The Soul Devourer** · enemy. Sinclair took the dying Bloodspine off his ground and was never in front of him.
-- **Zarron Mahuo · The Arbiter of Unity** · debt. Zarron came with Hikariken and the man taking the dying left, and Zarron carried basalt for the cairns.

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-811b-9f25-eae7476d01b5"
 notion_url: "https://app.notion.com/p/Atheron-Dreymarch-Prophet-of-the-Unblinking-3bd58200eb22811b9f25eae7476d01b5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T08:39:00.000Z"
 verification: null
 ---
 
 # Atheron Dreymarch · Prophet of the Unblinking
 
+**Say it** · ATH-eh-ron DRAY-march
 > *"I am the weight on your eyelids. The voice in your verdict-dream. Swear carefully."*
 > **A Revelation card — the fifth found, and handled under the standing ruling.** The sheet reads **"Temperance Stage X (Mythic Revelation)."**
 >

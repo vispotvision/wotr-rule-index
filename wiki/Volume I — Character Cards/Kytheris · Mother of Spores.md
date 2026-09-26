@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8137-aec0-fea0928d2dcf"
 notion_url: "https://app.notion.com/p/Kytheris-Mother-of-Spores-3bd58200eb228137aec0fea0928d2dcf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Kytheris · Mother of Spores
 
+**Say it** · KITH-eh-riss
 > *"All flesh is fertile if you break it down enough. The soul? Merely a seedbed."*
 > **Same Archon error.** The path lists **"Fermentation (Archon of Flux) · Sublimation (Archon of Transition) · Harmonic (Archon of Resonance)."**
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · The season after the Host took the Broken Rivers
 **Name** · Kytheris, **Mother of Spores.** **Role** · **Mistress of Fungal Dominion.**
 **Affiliation** · **High Matron of the Pale-Wreathed Sisterhood.** *Malphas' Second General of Bloom.*
 > **Catalyst Event · Stage VIII, Transcendence.** *A thing retains its weight and gains a second weight, and both are operative.*

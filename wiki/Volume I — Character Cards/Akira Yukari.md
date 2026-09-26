@@ -4,12 +4,13 @@ notion_id: "3e058200-eb22-818e-b371-e0821fc1da70"
 notion_url: "https://app.notion.com/p/Akira-Yukari-3e058200eb22818eb371e0821fc1da70"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Akira Yukari
 
+**Say it** · ah-KEE-rah yoo-KAH-ree
 *The Girl Who Sees Without Eyes · The Little Crow · Card 15-B*
 > 
 > > **I've been working on that thing you taught me.**
@@ -20,13 +21,15 @@ verification: null
 
 ## I–II · Identity and Soul Architecture
 
+**As Of** Ryuka's Telling at Senri's Gate
 **Lineage** Human · Yukari Bloodline · **Age** 7 · **Sex** Female
 **Standing** Yukari Enclave · Ketsuen — *younger daughter of the acting authority*
 | **Level / Stage** | **N/A** · Aether Class **Ø Dormant** — no Crystal expression, no Essence inheritance |
 |---|---|
 | **Typology** | None. ***Akira has no magical capacity of any kind.*** |
 | **Aether** | Ø Dormant. No AU/s. No EU reserve. No η. |
-| **Crystal State** | **Dormant.** Born into the Yukari bloodline, carries no expression of it. Born blind. Clouded jade eyes that do not function. ***The bloodline did not skip her. It found a different door.*** |
+| **Crystal Tier** | **Dormant Crystal.** Born into the Yukari bloodline, carries no expression of it. Born blind. Clouded jade eyes that do not function. ***The bloodline did not skip her. It found a different door.*** |
+| **Crystal State** | `null` |
 
 > **The Vibration-Reading.** At age five, Naori adapted a simplified Cymorath exercise for Akira: reading ground resonance through bare feet to navigate without sight. The exercise is **non-magical** — a sensory training technique that teaches the body to process physical vibration as spatial information.
 >

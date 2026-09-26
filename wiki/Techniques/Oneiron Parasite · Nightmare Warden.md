@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8109-9163-e91f77df7df9"
 notion_url: "https://app.notion.com/p/Oneiron-Parasite-Nightmare-Warden-3d958200eb2281099163e91f77df7df9"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:38:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · A fragment of him takes root behind a target's ribs, watches what they feel, and can be made to unmake their composure from inside.
+**Effect · A fragment of the practitioner takes root** behind a target's ribs, watches what they feel, and can be made to unmake their composure from inside.
 **Cost** · If it is destroyed, the pain returns to him. If he lets it sit too long, it starts reporting his host's own fears back to him as if they were his.
 **Limit** · Needs a subconscious to root in, and the host's own state shapes what grows there, not only his intent.
 **Counter** · A shield that refuses implantation outright, a rite that purges what is already rooted, a Wellspring built on ending rather than growing, or a cut line back to him.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Derived by Aeldoris, from the concept of a small dream-creature implanted to surveil, distort and punish from within.
+Self-derived by its author, from the concept of a small dream-creature implanted to surveil, distort and punish from within.
 
 ---
 

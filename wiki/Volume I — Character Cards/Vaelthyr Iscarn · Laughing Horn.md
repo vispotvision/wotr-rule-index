@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8193-9242-cd94b565e886"
 notion_url: "https://app.notion.com/p/Vaelthyr-Iscarn-Laughing-Horn-3bd58200eb2281939242cd94b565e886"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Vaelthyr Iscarn · Laughing Horn
 
+**Say it** · VAYL-theer ISS-karn
 > *"A serpent does not rush to bite. It waits. It smiles. And by the time you notice the cold, the venom has already set in."*
 > **Invented Stage name.** The card reads **"Stage VIII (Crown)."** *Crown is not among the sixteen; Stage VIII is Transcendence.* Numeral stands.
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After Aurevian's questioning at the Pale Court
 **Name** · Vaelthyr Iscarn. **Titles** · **The Winter Serpent.** Heir of the Pale Court · **Laughing Horn.**
 **Role** · **Outer World Noble. Diplomatic Predator. Archonic-bloodline Magus.**
 

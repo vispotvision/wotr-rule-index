@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814e-a4f8-d6c1dc848b7d"
 notion_url: "https://app.notion.com/p/Edict-Strike-3d958200eb22814ea4f8d6c1dc848b7d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:34:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · A downward blade strike gains metaphysical mass in proportion to the hesitation Drakvor reads in his target; armour built to withstand less than B-Grade force buckles under it.
+**Effect** · A downward blade strike gains metaphysical mass in proportion to the hesitation the practitioner reads in his target; armour built to withstand less than B-Grade force buckles under it.
 **Cost** · Aether strain through his wrists and shoulders with every full swing.
 **Limit** · The windup is slow and telegraphs itself; anyone reading the strike coming has time to answer it.
 **Counter** · Resolve-based Wellsprings deny the strike the doubt it needs to double its weight; high-speed repositioning and sublimation-type evasions both get a body out from under it before it lands.
@@ -37,7 +37,7 @@ Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis,
 
 ### Origin
 
-Drakvor derived this himself, the same signature pairing as Bastion Imperium. "Uncertainty is the softest armour" is its doctrine, and as a self-derived technique it is met live, in the exchanges that use it.
+Its author derived this alone, the same signature pairing as Bastion Imperium. "Uncertainty is the softest armour" is its doctrine, and as a self-derived technique it is met live, in the exchanges that use it.
 
 ---
 

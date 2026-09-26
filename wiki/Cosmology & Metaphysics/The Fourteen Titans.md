@@ -4,13 +4,13 @@ notion_id: "3c758200-eb22-812a-9700-ca5c46807dd8"
 notion_url: "https://app.notion.com/p/The-Fourteen-Titans-3c758200eb22812a9700ca5c46807dd8"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Reference Table"]
-last_edited: "2026-09-10T11:16:00.000Z"
+last_edited: "2026-09-26T10:16:00.000Z"
 verification: "unverified"
 ---
 
 # The Fourteen Titans
 
-> *"An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting."* — Catechism of Equal Breath, opening clauses, as cited by the Lectors of Sanctum Lux
+> *"An Archon is a crowned principle. A Titan is a load-bearing law. Neither wants anything, and prayer presumes wanting."* — Catechism of Equal Breath, opening clauses, as cited by the Lectors of Sancta Lux
 
 ---
 

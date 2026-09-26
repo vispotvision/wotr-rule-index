@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8124-a098-f76d1cf7dedf"
 notion_url: "https://app.notion.com/p/Garruk-Stonehoof-The-Iron-Mane-3bd58200eb228124a098f76d1cf7dedf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:45:00.000Z"
 verification: null
 ---
 
 # Garruk Stonehoof · The Iron-Mane
 
+**Say it** · GAIR-uk STOHN-hoof
 > *"Steel rusts. Stone crumbles. But the hoof leaves its mark forever."*
 > **Invented Stage name — third instance of "Conquest."** *Not among the sixteen; Stage VIII is Transcendence.* Numeral stands. *"Stone / War / Blood"* were not Essence types.
 

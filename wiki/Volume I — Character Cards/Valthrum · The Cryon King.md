@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812b-b35b-cde0ec8d5315"
 notion_url: "https://app.notion.com/p/Valthrum-The-Cryon-King-3d958200eb22812bb35bcde0ec8d5315"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Valthrum · The Cryon King
 
+**Say it** · VAL-thrum · *Cryon* KRY-on
 > *"The fire burns, the wind screams, the earth breaks. Only the ice remembers. I do not bring death; I bring the peace of the pause."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Dormant in the Northern Waste, in the Withering Era
 **Name** · Valthrum. **Called** · The Cryon King, The Lord of Stilled Hearts.
 **Role** · **Titan-Wrought World Spirit. Winter Court Anomaly. Keeper of the Zero Point.**
 **Gloss rights** · Unlimited. He explains what he is at length and unprompted; it reads closer to doctrine than to conversation.

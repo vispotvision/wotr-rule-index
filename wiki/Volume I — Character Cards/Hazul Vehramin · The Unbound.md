@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8150-b8c0-e591d45e7e5d"
 notion_url: "https://app.notion.com/p/Hazul-Vehramin-The-Unbound-3bd58200eb228150b8c0e591d45e7e5d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T08:46:00.000Z"
 verification: null
 ---
 
 # Hazul Vehramin · The Unbound
 
+**Say it** · HAH-zool veh-RAH-min
 > *"The moon does not roar, yet wolves kneel in reverence. Perhaps there is more power in the unspoken."*
 > **Corrected.** *"Aether-Veil Hybridization / Lunar Harmonics / Transmutative Projection"* were not Essence types. **The path "Drift → Emanation → Entwine → Harmonia" folds an actual Temperance Stage name into an invented progression** — *Emanation is Stage XII* — which is exactly the confusion this migration keeps surfacing. **Harmonia is a genuine Category** and is retained as such.
 

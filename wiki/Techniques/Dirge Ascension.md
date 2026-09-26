@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8124-90c3-dd04d9100d99"
 notion_url: "https://app.notion.com/p/Dirge-Ascension-3d958200eb22812490c3dd04d9100d99"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:34:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Francis steps into a proto-Archonic state for 45 seconds, shedding his mortal ceiling; local physics inside a one-kilometre radius run on rewritten equations for the duration, and his Aether output spikes to 2,800,000 AU/s.
+**Effect · The practitioner steps into** a proto-Archonic state for 45 seconds, shedding his mortal ceiling; local physics inside a one-kilometre radius run on rewritten equations for the duration, and his Aether output spikes to 2,800,000 AU/s.
 **Cost** · One percent of his Soul Crystal's mass burns away with every use.
 **Limit** · Cannot overlap World Echelon; the two states are mutually exclusive.
 **Counter** · An Archonic mandate outranks the borrowed authority of the form outright. A Nihiloth-mediated null field (Talos-class) can suppress the transformation's output, though a full null against an EX-Grade spike is not guaranteed.
-**What nobody knows** · Whether the one percent Soul Crystal mass comes back, or whether Francis is spending down a finite reserve one use at a time.
+**What nobody knows** · Whether the one percent Soul Crystal mass comes back, or whether the practitioner is spending down a finite reserve one use at a time.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ Resonant Pair: None claimed; insufficient Sub-Stat data in the source.
 
 ### Origin
 
-Not stated by the source beyond ownership by Francis at Stage XIV Zenith; logged as unattested rather than invented.
+Its origin is not recorded beyond a single known user at Stage XIV, Zenith.
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8197-82ee-cb2ee2455fc5"
 notion_url: "https://app.notion.com/p/Casimir-Aldous-Alleyne-The-Ashen-Hand-3d958200eb22819782eecb2ee2455fc5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,13 @@ verification: null
 
 ## Casimir Aldous Alleyne · The Ashen Hand
 
+**Say it** · KAZ-ih-meer AWL-dus ah-LAYN
+
 ---
 
 ### I · Identity
 
+**As Of** · Bertrand's upper floor, before his ascent
 **Name** · Casimir Aldous Alleyne. **Called** · The Ashen Hand. *Field name for guild filing purposes; his myth name is unearned.* **Cas**, to his grandfather only.
 **Role** · **Apprentice Transmuter. Ward of Bertrand Aurel. Pre-registered candidate, Guild Accord Alchemia.**
 **Gloss rights** · Diagnostic only.

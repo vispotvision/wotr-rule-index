@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a4-9093-c5d1bc66d8d6"
 notion_url: "https://app.notion.com/p/Garron-Vuldane-Warden-of-Thaumar-3d958200eb2281a49093c5d1bc66d8d6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T08:45:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Garron Vuldane · Warden of Thaumar
 
+**Say it** · GAIR-on vul-DAYN · *Thaumar* THAW-mar
 > *"The forge never stops burning. Only the weak forget that every spark is a choice."*
 
 ---

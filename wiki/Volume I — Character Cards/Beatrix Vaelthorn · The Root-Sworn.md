@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81da-b137-d321af0543f1"
 notion_url: "https://app.notion.com/p/Beatrix-Vaelthorn-The-Root-Sworn-3d958200eb2281dab137d321af0543f1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Beatrix Vaelthorn · The Root-Sworn
 
+**Say it** · BEE-ah-triks VAYL-thorn
 > *"Dirt doesn't lie. Neither do I."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the soured well in the Rimlands of Stannvaard
 **Name** · Beatrix Vaelthorn. **Called** · Bea, the Root-Sworn, the Ashwalker.
 **Role** · **Wandering Root-Healer. Verdantia-Marked Survivor. Mudborn Witch.**
 
@@ -143,7 +145,7 @@ She wanted a name for what she was becoming, and she wanted it before the change
 
 #### Where They Stand
 
-In the Rimlands of Stannvaard, Beatrix came in from the timber side to a farm settlement whose well had soured. Wellspring corruption had come up into the water and sickened the households. Elion Drevas was going from bed to bed. Beatrix knelt in the yard and laid the arm flat on the ground. The sour thread ran under the yard from the old well toward the fields. Upslope, past the last barn, the water ran clean. Leon Vaerenthal had hired on for the harvest. He dug where she marked until the water stood in the hole. While he dug, every pulse in the yard ran faster, and she told him so. She asked Elion what her arm was becoming. He read it for a long while and gave her no name. Before the new well was lined she felt horses through the ground and said so. Leon was gone by the timber track when the inquisitors of Sanctum Lux watered their horses at his well. Nobody in the yard told them which way he had gone.
+In the Rimlands of Stannvaard, Beatrix came in from the timber side to a farm settlement whose well had soured. Wellspring corruption had come up into the water and sickened the households. Elion Drevas was going from bed to bed. Beatrix knelt in the yard and laid the arm flat on the ground. The sour thread ran under the yard from the old well toward the fields. Upslope, past the last barn, the water ran clean. Leon Vaerenthal had hired on for the harvest. He dug where she marked until the water stood in the hole. While he dug, every pulse in the yard ran faster, and she told him so. She asked Elion what her arm was becoming. He read it for a long while and gave her no name. Before the new well was lined she felt horses through the ground and said so. Leon was gone by the timber track when the inquisitors of Sancta Lux watered their horses at his well. Nobody in the yard told them which way he had gone.
 She walks unaffiliated now, called Bea, the Root-Sworn and the Ashwalker. Plants and animals lean toward wherever she sleeps. Her staff is Foraye blackwood, wrapped in bark-skin shed from her own arm. She is still looking for the name. The commune told her the bark stops at the shoulder. Nobody knows whether it does, or whether the elders told her so to make the fear bearable.
 
 #### Ties

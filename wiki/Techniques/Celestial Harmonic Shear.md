@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8147-9361-c569a4d14649"
 notion_url: "https://app.notion.com/p/Celestial-Harmonic-Shear-3d958200eb2281479361c569a4d14649"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:32:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis draws a line through the air, and anything whose own frequency crosses that line loses cohesion exactly where it was touched; wards, illusions and layered constructs break all at once rather than one layer at a time.
+**Effect · The practitioner draws a line** through the air, and anything whose own frequency crosses that line loses cohesion exactly where it was touched; wards, illusions and layered constructs break all at once rather than one layer at a time.
 **Cost** · Internal resonance leaks outward as she cuts, leaving her briefly dizzy and tone-deaf to certain currents, and a large or complex cut can send a backlash into her own law-vector that weakens her other Emanation-level workings for a short while.
 **Limit** · Cannot cut the harmonic of a being with equal or greater harmonic sovereignty, cannot touch anything operating outside harmonic physics at all (true void, full dream-essence, anti-tone fields), and cannot produce more than one Shear at full potency in a single activation.
 **Counter** · A silence field, a stilled instant, or a target holding several contradictory frequencies at once denies the Shear a single clean frequency to find and cut.
-**What nobody knows.** Whether Opalis is cutting the frequency that is actually there, or the one she has decided is the lie underneath it.
+**What nobody knows.** Whether the practitioner is cutting the frequency that is actually there, or the one she has decided is the lie underneath it.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Opalis devised this working herself. It carries no filed counter beyond what an opponent works out live in the exchange.
+Its author devised this working alone. It carries no filed counter beyond what an opponent works out live in the exchange.
 
 ---
 

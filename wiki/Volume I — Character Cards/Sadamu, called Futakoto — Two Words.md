@@ -4,15 +4,21 @@ notion_id: "3ba58200-eb22-812b-87a6-c53a311b2ef8"
 notion_url: "https://app.notion.com/p/Sadamu-called-Futakoto-Two-Words-3ba58200eb22812b87a6c53a311b2ef8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:10:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Sadamu, called Futakoto — Two Words
 
+**Say it** · sah-DAH-moo · *Futakoto* foo-tah-KOH-toh
 *Two Words · Polar Reach Scout*
 
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Sadamu (formerly Afasoa: afa + soa = storm + companion)
+> **Age:** 18 · **Bloodline:** Moto (frontier cadet)
+> **Level:** 156 · **Stage:** III Hold · **Band:** II
+> **Role:** Forward scout, perimeter watch for the Kōkan expedition
+> The frontier oath is two words. The two words hold everything.
 > **Age:** 18 · **Bloodline:** Moto (frontier cadet)
 > **Level:** 156 · **Stage:** III Hold · **Band:** II
 > **Role:** Forward scout, perimeter watch for the Kōkan expedition

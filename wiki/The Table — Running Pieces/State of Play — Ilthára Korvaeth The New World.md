@@ -4,8 +4,8 @@ notion_id: "3d758200-eb22-81a5-bb06-c271e0493f1c"
 notion_url: "https://app.notion.com/p/State-of-Play-Ilth-ra-Korvaeth-The-New-World-3d758200eb2281a5bb06c271e0493f1c"
 section: "The Table — Running Pieces"
 tags: []
-last_edited: "2026-09-10T23:19:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T09:16:00.000Z"
+verification: null
 ---
 
 # State of Play — Ilthára Korvaeth / The New World
@@ -17,8 +17,7 @@ verification: "unverified"
 **The people.** Ilthára Korvaeth, thirty-four at the yard, no crown, the Mad Queen since twenty-six. Aeldros Korvaeth, the Validated, jurist by training, nineteen years of procedure and eleven months learning to move eleven hundred men down a road in winter, and an unexpected patience with logistics. Corlan Mirroven, frightened of everybody except Aeldros, and said so. Maren Vaeleth, and the private second book that is still on her shelf and that Velthaeir has never asked for. Thela Ess-Vaelen, taken alive, named in the field, released.
 **Open.**
 - Did she say it. The whole arc turns on it.
-- The Onawa collision: two women, or one and the Tsohanto card gets rewritten.
-- The Tsohanto Reach, silent four years, uncounted, no delegation in eleven.
+- The Tsohanto Reach, silent four years, uncounted, no delegation in eleven: the Tsohanto's answer to an Empress who shared their queen's name.
 - The second *uren* over a prisoner in a frozen field, never explained.
 - The two-word challenge form that no commoner has ever used.
 **Superseded.** `00_SUPERSEDED_wrong_names.md` is the earlier pass. Sylvenn Thaeren, Marrovel, Vaelor, Greysalt as a Concord chapter-hold and Onawa Ashkewe are all struck from this arc and must not be propagated.

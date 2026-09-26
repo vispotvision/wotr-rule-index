@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8144-83f2-fdc7c69baa06"
 notion_url: "https://app.notion.com/p/Ravenn-Kaelor-The-Pale-Gale-3d958200eb22814483f2fdc7c69baa06"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Ravenn Kaelor · The Pale Gale
 
+**Say it** · RAV-en KAY-lor
 > *"Calm is not peace. Calm is restraint."*
 
 ---
 
 ### I · Identity
 
+**As Of** · The Imperial Age, after the Whisperwind Pass
 **Name** · Ravenn Kaelor. **Called** · The Pale Gale. **Also known as** · The Silent Tempest · White-Scar Acolyte · The Wind-Touched Ascetic. **Epithet** · He Who Walks Against the Storm's Will.
 **Race / Lineage** · Human, **Kingdom of Veyran** descent, with an atavistic wind-aspect mutation.
 **Gloss rights** · Diagnostic only. *He answers a direct question about how the wind-work functions; he does not volunteer it.*

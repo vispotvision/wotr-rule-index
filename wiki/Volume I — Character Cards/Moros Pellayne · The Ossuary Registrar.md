@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c8-882b-e29d9878e55d"
 notion_url: "https://app.notion.com/p/Moros-Pellayne-The-Ossuary-Registrar-3bd58200eb2281c8882be29d9878e55d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Moros Pellayne · The Ossuary Registrar
 
+**Say it** · MOR-os peh-LAYN
 > *"Your story is charming; now supply the bones."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of **Citation of Bones**: *he names a decedent and a skull-note manifests and enforces that person's last intent.*
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Since Vaultmere
 **Name** · Moros Pellayne. **Called** · **The Ossuary Registrar.**
 **Role** · **Necro-jurist and archive-mage.** *He audits the dead and corrects the living with footnotes that bite.* When testimony rots, Moros opens his ledger and the bones object.
 **Affiliation** · **Arbitration Division, Forensic Cadre.** *Reaper's adjunct for disputed deaths; occasional Black Watch consultant.*

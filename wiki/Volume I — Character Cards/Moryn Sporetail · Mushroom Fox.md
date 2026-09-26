@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8162-9d81-f3d496424d1f"
 notion_url: "https://app.notion.com/p/Moryn-Sporetail-Mushroom-Fox-3bd58200eb2281629d81f3d496424d1f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Moryn Sporetail · Mushroom Fox
 
+**Say it** · MOR-in SPOR-tayl
 > *"Everything rots… but rot is just another way of saying 'new life begins.'"*
 > **Invented Stage name.** The card reads **"Stage III (Sprouting)."** *Sprouting is not among the sixteen; Stage III is Ascension.* Numeral stands, word struck.
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Verdant Pass Accord
 **Name** · Moryn Sporetail. **Called** · **The Walking Cap.** Lantern-Forager · **Mushroom Fox.**
 **Role** · **Traveling Sporemancer. Fungal Alchemist. Wilderness Merchant.**
 

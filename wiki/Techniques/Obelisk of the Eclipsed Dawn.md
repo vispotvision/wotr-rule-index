@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81da-b877-e45d75dc3806"
 notion_url: "https://app.notion.com/p/Obelisk-of-the-Eclipsed-Dawn-3d958200eb2281dab877e45d75dc3806"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:38:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis collapses six orbiting Wellspring sigils into a point of infinite density and a colossal prism rises from it, dissolving what she marks as an ending and rebuilding what she marks as a beginning, over an area up to 800 m across.
+**Effect · The practitioner collapses** six orbiting Wellspring sigils into a point of infinite density and a colossal prism rises from it, dissolving what she marks as an ending and rebuilding what she marks as a beginning, over an area up to 800 m across.
 **Cost** · The Obelisk records what she was feeling when she raised it and plays it back to her; sustaining it long enough leaves hairline stress in her own Temperance layers that only stillness closes.
 **Limit** · No more than four Obelisks stand at once; a fifth does not fail to appear, it brings the others down with it.
 **Counter** · Raw entropy or a comparable law-breaking working, saturating it faster than its Basilithe lattice can re-order, collapses it early.
-**What nobody knows** · Whether the "unfinished dream" the Obelisk rewrites is read from the target's Essence or written onto it; Opalis has never been asked to explain the difference and nobody has caught her doing it slowly enough to check.
+**What nobody knows** · Whether the "unfinished dream" the Obelisk rewrites is read from the target's Essence or written onto it; its author has never been asked to explain the difference and nobody has caught her doing it slowly enough to check.
 
 ### Codex line
 
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Opalis devised the Obelisk herself, and it requires Stage XII, Emanation; as a self-derived technique it is met live the first time it appears.
+Its author devised the Obelisk alone, and it requires Stage XII, Emanation; as a self-derived technique it is met live the first time it appears.
 
 ---
 

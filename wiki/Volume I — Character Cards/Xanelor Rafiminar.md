@@ -4,7 +4,7 @@ notion_id: "3e058200-eb22-815e-88b2-f1f38c42b4bf"
 notion_url: "https://app.notion.com/p/Xanelor-Rafiminar-3e058200eb22815e88b2f1f38c42b4bf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Xanelor Rafiminar
 
+**Say it** · ZAN-eh-lor rah-FIM-ih-nar
 *The Turtle's Ward · The Sage's Arrow · Card — (pending)*
 > **Level 95 in a body trained outside the Accord's framework.** The Sage Arts cultivated perception and spatial processing into C-Grade territory through a method no Accord diagnostic recognizes. No formal Wellspring harmonization. No formal assessment. No one has told him what he is yet.
 
@@ -19,6 +20,7 @@ verification: null
 
 ### I · Identity
 
+**As Of** On one knee in the Arena, after the duel
 **Also known as** The Turtle's Ward (Omoro fisherfolk) · Shell-Boy (childhood, derogatory)
 **Race / Lineage** Human — unknown. Found at age two in shipwreck debris on Omoro Island's northern shore, origin unidentified. **Archaic markers in the scar tissue (pending analysis)**
 **Age** 14 · **Sex** Male

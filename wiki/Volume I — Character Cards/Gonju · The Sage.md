@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-81ce-ae1e-e024b9b87e12"
 notion_url: "https://app.notion.com/p/Gonju-The-Sage-3bd58200eb2281ceae1ee024b9b87e12"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:39:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Gonju · The Sage
 
+**Say it** · GOHN-joo
 > *"Life remembers. Even the wounded soil wants to sing again."*
 
 ---
 
 ## I · Identity
 
+**As Of** · After the Caedor barrow
 **Name** · Gonju. **Title** · **The Verdure Sage.** *Alias:* **The Quiet Greenhand.**
 **Affiliation** · **Research and Archives Division.** *Secondary:* **Guild Accord Cleansing Consultant for Arbitration Territory Cases.**
 **Role** · **Herbalist Alchemist. Corruption Breaker. Rot-Field Specialist.**

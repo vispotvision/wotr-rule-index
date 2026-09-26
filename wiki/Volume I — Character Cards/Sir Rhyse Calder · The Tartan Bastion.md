@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8175-80a4-dffe8ee9f813"
 notion_url: "https://app.notion.com/p/Sir-Rhyse-Calder-The-Tartan-Bastion-3bd58200eb22817580a4dffe8ee9f813"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T09:01:00.000Z"
 verification: null
 ---
 
 # Sir Rhyse Calder · The Tartan Bastion
 
+**Say it** · REES KAWL-der
 > *"Stand close. I will make the world remember how to hold."*
 > **Stage VII — Refraction is stated on the card and is correct.** *And the Temperance Path section is the best-written progression narrative in either volume:* **"Rhyse climbed through Ascension and Flourishing walking beside caravans, not leading charges. Splintering arrived the first time he watched a bridge collapse under panic and swore never again. Glory came with the early holds. Refraction awakened when he started bending flows instead of blocking them."**
 >

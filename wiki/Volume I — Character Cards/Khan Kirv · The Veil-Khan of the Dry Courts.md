@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8129-93de-cf51552cb5d1"
 notion_url: "https://app.notion.com/p/Khan-Kirv-The-Veil-Khan-of-the-Dry-Courts-3d958200eb22812993decf51552cb5d1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T08:50:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Khan Kirv · The Veil-Khan of the Dry Courts
 
+**Say it** · KAHN KEERV
 > *"Drink first. If your throat lies, I'll hear it in the cup."*
 
 ---

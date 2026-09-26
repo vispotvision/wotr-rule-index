@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d4-8699-dc882387f91b"
 notion_url: "https://app.notion.com/p/Kaelric-Varnier-The-Silver-Veil-3d958200eb2281d48699dc882387f91b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Kaelric Varnier · The Silver Veil
 
+**Say it** · KAYL-rik VAR-nee-er
 > *"Control is not peace. It's the silence before you fall apart."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the training exercise, the hearings still waiting
 **Name** · Kaelric Varnier. **Called** · The Silver Veil. The Glassblade Prodigy.
 **Role** · **Active field operative of the Guild Accord. Aether-fed swordsman working in delayed echoes. Under Guild observation for uncontrolled resonance surges.**
 **Race** · **Human** *(the card's Aetherborn descriptor is unattested)*, with a bloodline resonance the card traces toward the Orrenthal current. *Youthful frame, slim and taut with trained precision. Pale silver-blond hair, immaculate except when a surge haloes it in red-gold flame. Eyes dual-toned, one grey-blue and one faintly embered.*

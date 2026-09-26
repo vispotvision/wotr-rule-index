@@ -4,11 +4,13 @@ notion_id: "3b758200-eb22-818e-b34c-e3fdd4d16030"
 notion_url: "https://app.notion.com/p/Aurelian-Prudentius-Custos-Clausorum-The-Primate-3b758200eb22818eb34ce3fdd4d16030"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Aurelian Prudentius Custos Clausorum · The Primate
+
+**Say it** · aw-RAY-lee-an proo-DEN-tee-oos KOOS-tohs klow-SOH-room
 
 ### Primate of the Grand Church · The Word of Judger · Verbum Iudicis
 
@@ -16,13 +18,14 @@ verification: null
 
 ### I. IDENTITY
 
+**As Of:** After the crater in the Vaeloris quarter
 **Church Name:** Aurelian Prudentius Custos Clausorum. Conferred at investiture from the catechetical inventory, as every seat-name is. **Custos Clausorum means Keeper of the Sealed Things**, and the order has read that for eleven hundred years as a virtue of doctrinal restraint, the Word that is never spoken carelessly. Three living people read it the other way.
 **Birth Name:** **Mahuo Do-hyeon of Sum-gol.** Lineage, given name, hollow-seat. The generational syllable **hyeon** was fixed by the lineage before he was born and means *manifest, made visible, brought into the open*, and it was shared by every child of his cohort, and there were eleven of them, and he is the one who lived. **On-page and in Accord filings the name appears in the reversed Concordia order as Do-hyeon Mahuo**, which the Grand Church's clerks introduced for the Register and which he has never corrected.
 **Alias / Title:** The Primate. **His Excellency the Primate of Altherion** in diplomatic address, **the Word of Judger** on any filing that carries a seal, **Verbum Iudicis** as he signs
 **Also Known As:** **The Kind Verdict** (Ember Magistrates' circuit towns, from people who were ruled against by him and found the ruling gentle and total) · The Sum-gol Boy (Arbitration Division, only ever behind his back, and only ever by people older than him) · **The Warm Hand** (Measurewrights, from a physical fact nobody has an explanation for)
-**Race / Lineage:** **Mahuo.** The order's Register lists lineage in the same column it lists height. **He is the first non-Concordia holder of the Word in four hundred years and the first Mahuo ever**, and the significance of that is not the diversity of it. It is that Sanctum Lux's single largest known doctrinal blind spot is a Mahuo working, and the order seated a Mahuo above it without once asking whether he knew why.
+**Race / Lineage:** **Mahuo.** The order's Register lists lineage in the same column it lists height. **He is the first non-Concordia holder of the Word in four hundred years and the first Mahuo ever**, and the significance of that is not the diversity of it. It is that Sancta Lux's single largest known doctrinal blind spot is a Mahuo working, and the order seated a Mahuo above it without once asking whether he knew why.
 **Age:** 58 · **Sex:** Male
-**Realm / Faction:** Sanctum Lux. Seated at the Grand Church of Altherion, within the Guild Seat of Stannvaard. Ladder of Standing, rung VI
+**Realm / Faction:** Sancta Lux. Seated at the Grand Church of Altherion, within the Guild Seat of Stannvaard. Ladder of Standing, rung VI
 **Office:** **The Word of Judger.** Doctrinal supremacy. One vote. One veto of the Will per convocation, which he has never cast. The Will is held by Darius Ignatius Sanctus Sanctorum, who has refused investiture for eleven years, **which means the Word currently holds the only functioning vote in an institution designed so that no one man would ever hold it alone**. Neither of them has raised this in session.
 **Catalyst Event:** He was nine when Sum-gol finished emptying. **Nobody ordered the Mahuo destroyed.** The family went by attrition, requisition, conscription, corridor closure, and the specific slow arithmetic of a small people whose fields are walked over twice a season by two larger peoples who are not thinking about them at all. There was no decision to point at. At nineteen, an Attestant, he stood in the Hall of Equal Breath for the first time and understood the instrument he had crossed four hundred leagues to reach: **the Oracle weighs completed acts, and what happened to his family was not an act.** No clause closed. No party finished anything. **The most honest measuring device in the four worlds returns null on the death of his entire people**, and he has spent thirty-nine years inside the order that owns it, climbing, and he has not found the amendment yet.
 
@@ -64,7 +67,7 @@ verification: null
 ### V. SUB-STAT PEAKS
 
 **Gnosis Retention · Gnosis Diagnosis · Gnosis Memorium** — total recall of the Sealed Standard archive and the capacity to hold every suspended clause loaded simultaneously without paging any of them out
-**Tempering Latency · Tempering Longevity** — the two that actually matter. Latency governs how long an expression can be held pre-release. Longevity governs how long the soul remains structurally viable at the ceiling it has reached. **His Latency is the highest figure Sanctum Lux has ever recorded and his Longevity is trending down**
+**Tempering Latency · Tempering Longevity** — the two that actually matter. Latency governs how long an expression can be held pre-release. Longevity governs how long the soul remains structurally viable at the ceiling it has reached. **His Latency is the highest figure Sancta Lux has ever recorded and his Longevity is trending down**
 **Dominion Sovereignty and Dominion Command, both at ceiling** — Sovereign Frequency unlocked, spoken commands carrying Continuum-recognised authority within his Domain radius. **Eleven years unused. The Register lists the unlock and, in the column for instances, a dash**
 **Harmonics Attunement · Harmonics Confluence** — the Mahuo lattice, seated in ambient field rather than in his own Shell, which is why he can hold Sum-cham without it drawing on him
 **Ardency Flux and Ardency Cascade, low relative to tier and deliberately starved.** Four decades of Sub-Stat allocation went into holding rather than delivering. **This is what a specialist build looks like from inside, and it is also what a man looks like who has decided in advance never to be the one who acts**
@@ -82,7 +85,7 @@ verification: null
 
 ### VII. AETHER FLOW
 
-**EU Reserve:** **2,400,000,000.** Confirmed 2026-09-12. Fracture of Worlds specifies no EU table by Stage; this figure was extrapolated from the two attested Band V reserves in project canon, Verinus VII at 620,000,000 and Kwon Mu-jin at 850,000,000, both at Stage XII, and stands as final.
+**EU Reserve:** **2,400,000,000.**
 **AU/s:** enormous ceiling, almost never drawn. **His output profile has no spike and no curve. It is a flat line with one recorded excursion**
 **Recovery:** Fastest on consecrated stone and in any room where a decision has been deferred. **Slowest at the moment a sentence is passed**, and the Measurewrights who take his readings have learned to schedule around executions
 
@@ -118,7 +121,7 @@ Aurelian knows this better than any living practitioner and he built his entire 
 **Weakness:** Every suspension is a debt with his name on the far end. **The fever is the interest.**
 **Cost:** 1.8 °C, continuously, for thirty-one years, and the Grand Church's physicians have told him what a sustained low-grade pyrexia does to a Crystal's Longevity architecture over four decades. **He has the reports. He files them.**
 **Counterplay:** Force completion. Anything that closes a clause faster than he can seat the interval lands normally, which means **fast, simple, finished acts beat him and elaborate ones do not.** The Enforcement Division worked this out in nine years and has never written it down.
-**Codex Assignment:** [StSl] Still-Sleep · [Leth] Blood · [Sel] Measure · Primary Lethegraal · Secondary Anima Spirare · Tertiary Judicium · Limina primary with Vitalia and Fulguria cross · Abstract and Entropic Systems. **Cross-family flagged: [Leth] Blood is a Vitalia/Biochemistry assignment operating inside a Limina working, and it is doing the seating rather than the suspending**
+**Codex Assignment:** [StSl] Still-Sleep · [Leth] Blood · [Sel] Measure · Primary Lethegraal · Secondary Anima Spirare · Tertiary Judicium · Limina primary with Vitalia and Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Leth] Blood is a Vitalia/Biochemistry assignment operating inside a Limina working, and it is doing the seating rather than the suspending**
 **First Display:** Low stakes, deliberately. A dropped censer in the Sanctified Hall that does not hit the floor for the length of a sentence, and a Primate who was looking somewhere else, and an Attestant who is the only person who saw it.
 **Sensory Description:** He stops speaking mid-clause and does not inhale. The room gets fractionally warmer near him. **When it resumes, the censer lands, and it lands hard enough to dent, because it has been falling the whole time.**
 **Corruption Vector:** An Obsession-Force suspension does not release. It cannot. The holder discovers that the accrued cost has grown past what any release could survive, and the only remaining option is to keep holding, forever, **which is not a choice the technique makes for you and is the choice every practitioner of it has made.**
@@ -132,8 +135,8 @@ Aurelian knows this better than any living practitioner and he built his entire 
 **Limitation:** **It nulls his own readings too, symmetrically, and he has never found a way to exempt himself and has published that he stopped looking.**
 **Weakness:** It is enormously conspicuous to anyone above Lector. **Using it is a confession that something in the room should not be weighed**, and he has used it four times in eleven years and all four are in the sealed appendix.
 **Cost:** Comparatively cheap and that is the problem with it.
-**Counterplay:** Leave the room. Take the reading outside. **Sanctum Lux's own procedure already requires readings to be retaken in a second chamber, which Aurelian wrote into the manual himself at thirty-four, eleven years before he could do this.**
-**Codex Assignment:** [Thal] Silence · [Ur] Balance · [Len] Line · Primary Tenebra · Secondary Judicium · Limina primary with Fulguria cross · Abstract and Entropic Systems. **Cross-family flagged: [Ur] Balance is Judicium/Fulguria/Electromagnetism and is being used here to define the boundary rather than to measure across it. Pitched as a Codex amendment, not silently assigned**
+**Counterplay:** Leave the room. Take the reading outside. **Sancta Lux's own procedure already requires readings to be retaken in a second chamber, which Aurelian wrote into the manual himself at thirty-four, eleven years before he could do this.**
+**Codex Assignment:** [Thal] Silence · [Ur] Balance · [Len] Line · Primary Tenebra · Secondary Judicium · Limina primary with Fulguria cross · Abstract and Entropic Systems. **Cross-family: [Ur] Balance is Judicium/Fulguria/Electromagnetism and is being used here to define the boundary rather than to measure across it**
 **First Display:** A Threshold hearing on a junior Arbiter, a Primate who puts his hands on the rail without announcing anything, and a panel that adjourns without ever working out why it could not proceed.
 **Sensory Description:** The two standing lamps do not change. **Nothing changes. Everyone in the room checks their own instrument twice and then looks at the floor**
 **Corruption Vector:** Obsession-Force Tenebra does not null the chamber. It nulls the practitioner, permanently, and a soul that cannot be weighed cannot be found, mourned, inherited from, or buried.
@@ -145,7 +148,7 @@ Aurelian knows this better than any living practitioner and he built his entire 
 **Numerical Effect:** No figure. **The absence of a figure is the entire doctrinal problem and has been for eleven hundred years.**
 **Target Response:** **Cozbi Mahuo's numbered works return no reading at all.** The order has known about the seam for a decade, has no answer to it that does not require amending the reference, and has never once considered that its own Word could explain the seam in a sentence. **He learned it in the valley before he could read.** He has not told them. He has told himself four separate reasons why and has stopped finding any of them sufficient.
 **Limitation:** Absolute and symmetrical. **It applies to what happened at Sum-gol.** No clause closed. No party finished anything. The most honest measuring device in the four worlds returns null on the death of his family and it is correct to.
-**Weakness:** A patient enemy who never completes anything is invisible to Sanctum Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.**
+**Weakness:** A patient enemy who never completes anything is invisible to Sancta Lux entirely. **There is one, he is Mahuo, and he is at Stage XIV.**
 **Cost:** Thirty-nine years and the whole of the man.
 **Counterplay:** Make him finish something. **It has been attempted twice by people who understood the problem and both attempts were on his life, on the reasoning that dying is a completed act.**
 **Codex Assignment:** [Sel] Measure · [Ed] Edgetruth · [Cro] Cycle · Primary Judicium · Secondary Lethegraal · Fulguria primary with Limina cross · Electromagnetism
@@ -210,6 +213,20 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 
 ---
 
+### Voice
+
+**Notices first** · The thing left unfinished: the clause that never closed, the act with no author, the second half of a sentence someone has not said. He watches a person's breath before their face, and he looks at a cost with open interest before he looks at who is paying it.
+**Sentence length** · Long and slow, clauses joined with "and" and laid down evenly, each pause seated on the exhale. In the Concordia formal register his statements still end on a rising interval that never quite closes, so a finished sentence of his sounds like the first half of something.
+**Contractions** · never. The formal register was acquired deliberately and he keeps every word of it whole.
+**Pet word** · "Not yet." When he wants the rest of a thought, "Say the rest of it" follows.
+**Never says** · A culprit for Sum-gol, and never the word crime for it: no clause closed, nobody finished anything, and he will not claim a finding the instrument does not return. He never raises his voice to be heard; the room comes to him.
+**Stumbles** · Never. He stops mid-clause and does not inhale, and when the breath comes back he resumes exactly where he left off.
+**Gloss rights** · For the liturgy and the law of the Church, yes: asked what the old tongue means, he translates it plainly and then says what it does.
+**Under stress** · The Sum-gol substrate comes up through the polish: the copula drops out of short assertions ("Not a threat. A description, this."), the pitch rises and does not come down, and the valley's order puts the qualifier last. He slips into the family plural for himself, doubles the words of the liturgy ("Lux, lux. Veniet, veniet."), and stops breathing. The same valley cadence shows at rest whenever he is with Mahuo kin or anyone from Sum-gol.
+**In grief** · The Concordia register falls away entirely and Mahuo Do-hyeon speaks: the valley's construction, the dropped copula, the interval left open at the end of every line, the boy of nine who walked out of Breath Hollow alone.
+**In joy** · The sentences stay even and pleasant; the joy is in the small closed smile, in the hands brought round from behind his back, and in the room growing fractionally warmer near him.
+**Sample line** · "You are in it too, Master Sesk. That is the part people miss. It is not a curse laid on you by me."
+
 ### XVI. TEMPERANCE RECORD
 
 **I Murmuring:** Age seven, in Sum-gol, on the suspension. The valley taught the pause before it taught letters
@@ -238,8 +255,6 @@ At his throat, on a plain gold chain, hangs the plumb: a gold cross-form the len
 ---
 
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the twenty archived scenes it appears in, and the record of The Curia at Altherion. What those sources do not state is new here.*
 
 #### Origin
 

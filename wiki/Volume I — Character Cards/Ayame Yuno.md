@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8153-a974-d20af56807e9"
 notion_url: "https://app.notion.com/p/Ayame-Yuno-3b158200eb228153a974d20af56807e9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Ayame Yuno
 
+**Say it** · ah-YAH-meh YOO-noh
 **She Who Makes Mercy Kneel Beside Law**
 > *Queen of Kharven · Lady of the North · The Snow-Crowned Consort · The White Benediction · Winter's Silken Reins*
 > **Matai title** · *Zenma no Mamori*, Keeper of the Whole Vā · **Saimei** · *Okurareta Nishiki*, the fine mat that was given away
@@ -20,6 +21,7 @@ verification: null
 
 ## Identity and Core Profile
 
+**As Of** · Muken's reign, while he campaigns at the fringes of the North
 **Race / Lineage** · Human — **The Yuno Family**, Kagura Branch. A house of matai twice over, holding sacred stillness and the moving tongue in one blood
 **Faction / Era** · Crown of Kharven · Northern Throne, Late Young World
 **Temperance Stage** · **Stage 8 — Transcendence**
@@ -57,7 +59,7 @@ Her Aether emerges as **pale aurora-script and thin white-violet threads** that 
 |---|---|---|
 | **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |
 | **Flux Density** | 510 EU/g | Dense enough that **completed sigils hit like law, not suggestion.** Low raw impact, **exceptionally penetrating against structures of loyalty, morale and spiritual stability** |
-| **Aether Output** | 1,900 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |
+| **Aether Output** | 438.6 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |
 | **Efficiency η** | 0.86 | **Once a ritual pattern is laid, upkeep costs plummet** — *making long wars of attrition skew heavily in her favour* |
 | **Attraction Scale** | A-Tier Proto-Domain · *Liturgical Field* | **Conversations unconsciously align into structured roles** — penitent, judge, witness, choir. **Crowds fall quiet, kneel, or arrange into processions without spoken command** when she fully opens the field |
 
@@ -100,7 +102,7 @@ Hair black and heavy and oiled, bound close in the coiled arrangement the tuiga 
 > **Ritual Self-Dilution** · Each major invocation **binds another sliver of her private desires into the public role of Queen.**
 >
 > Over years of overuse, **her capacity to want something for herself — separate from Kharven and Muken — thins**, risking a Temperance drift where she becomes **more sacred mechanism than person.**
-> *The same price at the house's scale: the Kagura officiants who hold Yasoshima's convergence rites pay this Self-Dilution on House Yuno's behalf, and have for two hundred thousand years — see* [*Yasoshima — The Eighty Isles, What the Research Division Was Not Told*](https://app.notion.com/p/Yasoshima-The-Eighty-Isles-3bc58200eb22816dadaccdb407408b34)*. Reader's knowledge; the house treats its silence as a sealed vow (R36-1).*
+> *The same price at the house's scale: the Kagura officiants who hold Yasoshima's convergence rites pay this Self-Dilution on House Yuno's behalf, and have for two hundred thousand years — see* [*Yasoshima — The Eighty Isles, What the Research Division Was Not Told*](https://app.notion.com/p/3bc58200eb22816dadaccdb407408b34)*. The house treats its silence as a sealed vow.*
 >
 > **Winter Echo Debt** · Fixatio and Coagula leave lingering **frozen instants** in the places she works, echoes of her liturgy that replay emotions and choices. Accumulated unharvested, **they coalesce into Echo-beings of stalled loyalty — manifestations that question current policy with the weight of past promises.**
 
@@ -114,6 +116,20 @@ Within it, **those who kneel beneath the winter banners and speak the Crown Lita
 **The Concord Ledger** · *High Relic, Administrative-Domain Tier.* A living book bound in pale leather **recording every recognised oath sworn to Kharven in her presence.** Pages reorder themselves according to threat, fracture-risk and metaphysical weight — **acting as both tactical map and spiritual risk index.**
 
 ---
+
+### Voice
+
+**Notices first** · The oaths in the room: who has sworn what to whom, and which promises cannot both be kept. Her eyes rest on the space around a face rather than the face, and a lie reaches her as the taste of iron before she has looked at the liar.
+**Sentence length** · Long and ordered, built like a lesson. She states a thing, turns aside what it is not ("Not because they were naive. Not because they had not thought of it."), and then gives what it is.
+**Contractions** · never. Every word is set down whole, the way the recited line of her house was taught to her.
+**Pet word** · "Love," to her own.
+**Never says** · Anything she wants for herself apart from the crown and her husband, and never a threat: she says what an oath will do to the one who breaks it, and lets the room hear the rest.
+**Stumbles** · Never. A Kagura officiant does not open her mouth until the sentence is in order.
+**Gloss rights** · For rite and oath, yes, since teaching them is her office; with her children, freely and about anything.
+**Under stress** · The sentences shorten into the formulas of the rite and the "I" gives way to the office: she speaks as the queen, not as Ayame. Her voice drops, and the room goes quiet around it without being told.
+**In grief** · The court register falls away and the island returns: the cadence of the Kagura, the recited line of her house, the tongue the north cannot read. Before any of that there is only a sound, and no words at all.
+**In joy** · The sentence holds its order; the joy is in the real laugh, the one from the stomach that is nothing like the ritual laugh, and in the shoulders that drop once the vestments are off.
+**Sample line** · "Put down the manual, love. You cannot learn what a kingdom is from a book about how to take one."
 
 ## Lore and Trajectory
 
@@ -134,8 +150,6 @@ Within it, **those who kneel beneath the winter banners and speak the Crown Lita
 ---
 
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the 14 archived scenes it appears in, and the record of The Ashen Crown: Muken's house and the Moto lines. What those sources do not state is new here.*
 
 #### Origin
 
@@ -162,7 +176,7 @@ Ayame died later, by her own hand, in the room that had once held her loom. The 
 
 #### Where They Stand
 
-Her own card stands at an earlier hour. There she is at work in Kharven, keeping the White Concord while Muken campaigns at the fringes of the North. She is quietly designing a grand convergence rite to bind every future ruler of the North, Moto or Yuno or otherwise, so that the realm survives long after her marriage, her body and her era have passed. No record says she finished it. One account of the kingdom, and Sodoku's card, count her among the dead of the corridor night itself.
+At an earlier hour she was at work in Kharven, keeping the White Concord while Muken campaigned at the fringes of the North. She was quietly designing a grand convergence rite to bind every future ruler of the North, Moto or Yuno or otherwise, so that the realm would survive long after her marriage, her body and her era had passed. No record says she finished it.
 Nobody left in Kharven holds her liturgy. The Banner Houses' oaths expired with Muken, and the kingdom still performs the ceremonies she built with nothing binding underneath them. At every Ice-out the ground opens, the whole winter's dead go in together, and a man with a list reads their names in the order they died.
 By her son's account she once taught the practice in the Holy Sea of Alabaster's own halls, in a language she never learned properly, to men who wrote it down under a heading she would not have recognised. The Holy Sea's rite for testimony descends from it. He says she did not do it for Kharven, and that Kharven inherited it anyway.
 Her granddaughter Hild carried Fern Stark's altar into the room that had been Ayame's, and Hild now lies under one of three stones in the upper burying ground. Her pines still stand in the garden. Which son she named stays unspoken.
@@ -171,9 +185,9 @@ Her granddaughter Hild carried Fern Stark's altar into the room that had been Ay
 
 - **Muken Moto** · spouses. She sat beside him before dawn with her hand on his arm, and her binding and his force each covered the other's failure.
 - **Sodoku Moto** · mother and son. She blessed his union with Fern Stark before the king signed it, and told him as a boy about the island where people stopped being afraid.
-- **Mizuki Moto** · one court. Mizuki's own card makes her the king's eldest, and no record names Ayame her mother.
+- **Mizuki Moto** · one court. Mizuki is the king's eldest, and no record names Ayame her mother.
 - **Yukazuri Moto** · kin by marriage. Yukazuri was her husband's sister, and no record puts the two women in one room.
-- **Yoko Mishiro** · legacy, never met. The island Ayame described to her son when he was a boy is the reason the record gives for the lock he later broke on Yoko's pen.
+- **Yoko Mishiro** · legacy, never met. The island Ayame described to her son when he was a boy is the reason for the lock he later broke on Yoko's pen.
 - **Anryū Ichimonji** · house grievance. The house she stayed answerable to has not forgiven him for the closed Yuno assembly he sat through unseen.
 - **Hild Ice (Stark) · The Sword Princess** · grandmother. Her granddaughter kept Fern's altar in the room that had been Ayame's.
 - **Tomuka** · son. He had his mother's hair.

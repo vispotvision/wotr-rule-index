@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8147-872c-e7d3e512c5e3"
 notion_url: "https://app.notion.com/p/Bloodbind-Surge-3d958200eb228147872ce7d3e512c5e3"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:48:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · **He tears open the Vorynn Bloodbind and the surge triples what his body can put out for ten seconds.** *Reflexes sharpen with it. Nothing about the surge is selective.*
+**Effect · The practitioner tears open the Vorynn Bloodbind and the surge triples what his body can put out for ten seconds.** *Reflexes sharpen with it. Nothing about the surge is selective.*
 **Cost** · **Roughly seventy percent of his active Essence reserve per minute sustained — which is why it is measured in seconds and not minutes.**
 **Limit** · **Extended or repeated use raises Primal Regression risk.** *The same uncontrolled metamorphosis into a Prime Beast form the Bloodbind already carries as its standing cost.*
 **Counter** · **A fire-dominant Caloria Wellspring contests the surge directly; a Fixatio-built cage denies the muscular expression room to happen; a Harmonics-suppression working dulls the predatory sharpening before it compounds.**
-**What nobody knows** · Whether the Bloodbind was ever meant to be reopened deliberately, or only survived into a technique because Draven found it could be.
+**What nobody knows** · Whether the Bloodbind was ever meant to be reopened deliberately, or only survived into a technique because its author found it could be.
 
 ### Codex line
 
@@ -43,7 +43,7 @@ verification: null
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one his own philosophy states: closing on something briefly out of reach at his sustained baseline, accepting the Regression risk his own Trait already carries as the price. "Give the beast your bones."
+Self-derived by its author during the Vorynn Trials. The problem it answers is the one that author's philosophy states: closing on something briefly out of reach at a sustained baseline, accepting the Regression risk the Trait already carries as the price. "Give the beast your bones."
 
 ---
 
@@ -85,7 +85,7 @@ Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answe
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70; A-Grade (276 to 400) Ardency on the Body Path.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70; A-Grade (276 to 400) Ardency on the Body Path.
 | Quantity | Working | Result |
 |---|---|---|
 | Cost | 0.70 × (10 s ÷ 60 s) | 11.7% of reserve, 6,040 to 112,100 EU |

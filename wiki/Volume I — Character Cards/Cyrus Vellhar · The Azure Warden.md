@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f7-bdc8-ddb68fe44de5"
 notion_url: "https://app.notion.com/p/Cyrus-Vellhar-The-Azure-Warden-3d958200eb2281f7bdc8ddb68fe44de5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T08:42:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Cyrus Vellhar · The Azure Warden
 
+**Say it** · SY-rus VEL-har
 > *"Calm waters lie. Waves tell the truth."*
 
 ---

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81dd-adc7-cbdef23dcbf6"
 notion_url: "https://app.notion.com/p/Ilyria-Draven-Morningstar-Monochrome-3d958200eb2281ddadc7cbdef23dcbf6"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Ilyria Draven Morningstar · Monochrome
 
+**Say it** · ih-LEER-ee-ah DRAY-ven MOR-ning-star
 > *"The armor is the point. Take that away and there was never a knight. Only a person who believed they were protected."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Six weeks into the open contract
 **Name** · Ilyria Draven Morningstar. **Called** · Monochrome, the Knight-Slayer. **Also** · The Beak · Pale Adjudicator. **Epithet** · She Whose Armor Remembers Every Knight It Has Broken.
 **Role** · **Contract Slayer of Armoured Combatants. Aether-Reading Half-Vampire. Deniable Instrument of the Guild Accord.**
 **Gloss rights** · **Unlimited.** She will tell an armoured target exactly what she is about to do to his coherence, because watching him disbelieve her is part of the technique.

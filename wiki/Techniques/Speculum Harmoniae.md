@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bb-9794-c67b2dc67b6c"
 notion_url: "https://app.notion.com/p/Speculum-Harmoniae-3d958200eb2281bb9794c67b2dc67b6c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:48:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · Speculum: 2 percent of full reserve a cast and a slice of the caster's read of that target, thin until she observes them again. Nexus: 1 percent a turn for six turns, with rising overload and cross-sense confusion, the caster fixed standing.
 **Limit** · The double cannot land a real blow and stops existing when struck once. The Nexus bias is small, cannot win an exchange alone, and misses anything faster than the caster's reaction.
 **Counter** · The double fails against tracking by fear, hatred or grief rather than Essence contour, a watch on its feet, or Silence. The Nexus fails against fog, shielding, a strong personal Domain, or a working that runs quiet under the field's reading.
-**What nobody knows** · Whether the double, in the instant before it is struck, feels anything, or whether the hollow beat Serenyra reports afterwards is hers alone.
+**What nobody knows** · Whether the double, in the instant before it is struck, feels anything, or whether the hollow beat the caster reports afterwards is hers alone.
 
 ### Codex line
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Serenyra devised the Speculum as a decoy and diversion tool, and the Nexus as the field-scale extension of the same resonance-reading practice behind Lumen Dissecans.
-**Practitioners** · Serenyra, the only one credited with either working.
+**Origin · Its author devised the Speculum** as a decoy and diversion tool, and the Nexus as the field-scale extension of the same resonance-reading practice behind Lumen Dissecans.
+**Practitioners · Its author, the only one credited** with either working.
 
 ---
 

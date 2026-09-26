@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8197-b8ca-c830003386ea"
 notion_url: "https://app.notion.com/p/The-Aether-Bastion-3d958200eb228197b8cac830003386ea"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · A crystalline wall rises around Opalis and judges everything that touches it, letting through only what aligns with her own Essence and arresting, purifying or destroying everything else.
+**Effect** · A crystalline wall rises around the practitioner and judges everything that touches it, letting through only what aligns with her own Essence and arresting, purifying or destroying everything else.
 **Cost** · A moderate, steady drain on her reserve while the ward stands, and a tremor through her own Soul Crystal if it is forced to arrest something large.
-**Limit** · Cannot stop a purely emotional attack, fear or despair with no metaphysical or physical carrier, and shatters at once if Opalis herself lies or acts against her own stated intent while it is up.
+**Limit** · Cannot stop a purely emotional attack, fear or despair with no metaphysical or physical carrier, and shatters at once if the practitioner herself lies or acts against her own stated intent while it is up.
 **Counter** · Tenebra-aligned attacks slip through the cracks in the judgment itself; memory-based illusions bypass the barrier's screening entirely because they never register as an incoming force; and enough raw kinetic weight can fracture it outright.
-**What nobody knows.** Whether the ward is reading the truth of what strikes it, or only the version of the truth Opalis is prepared to let through.
+**What nobody knows.** Whether the ward is reading the truth of what strikes it, or only the version of the truth its author is prepared to let through.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Opalis devised this ward herself. It carries no filed counter beyond what an opponent works out by testing the barrier live.
+Its author devised this ward alone. It carries no filed counter beyond what an opponent works out by testing the barrier live.
 
 ---
 

@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-81b6-950a-cdd7c9e3082e"
 notion_url: "https://app.notion.com/p/Lorn-Stark-The-Sword-Teacher-3ba58200eb2281b6950acdd7c9e3082e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:26:00.000Z"
+last_edited: "2026-09-26T09:15:00.000Z"
 verification: null
 ---
 
 # Lorn Stark — The Sword-Teacher
 
+**Say it** · LORN STARK
 *Fern's Brother · The Sword-Teacher · The Loyalty*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Lorn Stark
+> **Age:** 44 · **House:** Stark (Eastern March)
+> **Level:** 168 · **Stage:** III Hold · **Band:** II
+> **Role:** Senior uncle to Hild Ice, military guardian of the Kokan Loyalist Coalition
+> Never a great swordsman. Always the right teacher.
 > **Age:** 44 · **House:** Stark (Eastern March)
 > **Level:** 168 · **Stage:** III Hold · **Band:** II
 > **Role:** Senior uncle to Hild Ice, military guardian of the Kokan Loyalist Coalition
@@ -35,9 +41,17 @@ He wears a soldier's coat and carries a sword that is maintained with care that 
 
 ## Voice
 
-Stark-direct. No wasted syllables, no wasted steps. He speaks the way he fights: competently, without flair, each word placed where the word serves the sentence's purpose and nowhere else. He does not raise his voice. He does not need to. The voice carries the specific authority of a man who has never asked anyone to do something he was not willing to do himself, and the never-asking is the authority, and the authority does not require volume.
-He calls Hild "my lady" in public. In private, he calls her "girl" or "child" or, in the moments when the uncle and the guardian collapse into the same person, simply her name. The simply-her-name is the love.
-When Hild makes a decision Lorn disagrees with, Lorn says so. Immediately. In the room. In front of whoever is present. The saying-so-immediately is the Ned Stark quality: the refusal to save the disagreement for the private debrief, because saving it would be performing agreement in public and the performing would be dishonesty and dishonesty is the thing Lorn does not do. Lambert says nothing in the moment and everything in the debrief. Lorn says everything in the moment. The two approaches are the tension between the two advisors, and the tension is the council, and the council is the thing that keeps Hild from making the mistakes that either approach alone would produce.
+**Notices first** · Where the girl is and who stands between her and the door. Then whether the reports in the room agree with each other, and which of them is being paid.
+**Sentence length** · Short, placed like drill: an order, a plain fact, a question with no decoration. He runs to medium only when he is objecting, and he objects in full.
+**Contractions** · sometimes.
+**Pet word** · "In the room." He says his piece where it will be heard, and says that he is doing it.
+**Never says** · Anything saved for the corridor afterward. He never asks Hild whether she will hand over the throne, never speaks of her feet short of the floor or of the circlet in his belt, and leaves figures and stores to others; his numbers are rough.
+**Stumbles** · Never. When he cannot find words that are not embarrassing he stops talking and puts out his hand.
+**Gloss rights** · Only for the sword, and only to a pupil. At a table he asks others for plain words instead of offering his own.
+**Under stress** · Down to single imperatives ("Kneel." "Repeat it."), said at once and in front of everyone. The left side of the jaw tightens before the mouth moves, and his hand goes to whatever stands nearest the child.
+**In grief** · Back to the drill yard at Hollenmark: two-word commands, given the way he gave them to a girl lying on the floor of her mother's room. Stand up.
+**In joy** · The voice holds and says nothing. The eyes go wet, and he goes on doing the next plain task.
+**Sample line** · "Then two of them are being paid and I would like to know which two."
 
 ---
 

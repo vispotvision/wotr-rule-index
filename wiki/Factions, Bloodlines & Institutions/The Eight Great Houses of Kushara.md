@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8182-8f5d-cd4d842be424"
 notion_url: "https://app.notion.com/p/The-Eight-Great-Houses-of-Kushara-3bd58200eb2281828f5dcd4d842be424"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-12T20:17:00.000Z"
+last_edited: "2026-09-26T14:08:00.000Z"
 verification: "unverified"
 ---
 
@@ -133,4 +133,4 @@ Dawn Guard's doctrine reduces to two principles: **unity does not require samene
 
 ---
 
-*Source: Eight Houses of Kushara, project canon. Filed without alteration. See also: The Zettari · The Zettari–Mahou Accord · The Paths.*
+*See also: The Zettari · The Zettari–Mahou Accord · The Paths.*

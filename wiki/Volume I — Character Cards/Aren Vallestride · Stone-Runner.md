@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8179-bc7b-c79b4a9edd9b"
 notion_url: "https://app.notion.com/p/Aren-Vallestride-Stone-Runner-3d958200eb228179bc7bc79b4a9edd9b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Aren Vallestride · Stone-Runner
 
+**Say it** · AIR-en VAL-eh-stride
 > *"If my legs still work, then the road isn't finished with me yet."*
 
 ---
 
 ### I · Identity
 
+**As Of** · His probationary year on the frontier march
 **Name** · Aren Vallestride. **Called** · Stone-Runner. **Also known as** · The Boy with the Borrowed Sword, Dust-Track Aren. **Epithet** · He Who Refuses to Stay Down.
 **Race** · Human, borderland farmstead stock of the Old World.
 **Role** · **Apprentice road courier and monster-scout.** **Gloss rights** · Yes, nothing about him is guarded; he'll explain the anchors to anyone who asks.

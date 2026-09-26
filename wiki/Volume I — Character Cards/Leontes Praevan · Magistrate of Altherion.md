@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8115-8055-c659f615df47"
 notion_url: "https://app.notion.com/p/Leontes-Praevan-Magistrate-of-Altherion-3bd58200eb2281158055c659f615df47"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T08:51:00.000Z"
 verification: null
 ---
 
 # Leontes Praevan · Magistrate of Altherion
 
+**Say it** · lee-ON-teez PRAY-van · *Altherion* al-THEER-ee-on
 > *"No tyrant ever needed power — only the silence of those who feared to put it into ink."*
 > **Migrated with all content preserved.** *"Contractual Aether"* and *"Ink-Encoded Fate Alignment"* were not Essence types. **"First Path / Third Path / Sixth Path"** and *"Temperance Status: Advanced"* replaced with an actual Stage. **Altherion** — a real place, ruled 2026-09-12: Inner World, northern rim (Stannvaard's placement wins).
 

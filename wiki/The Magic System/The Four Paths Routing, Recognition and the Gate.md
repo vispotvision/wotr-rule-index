@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-812a-92c0-f639ef17493b"
 notion_url: "https://app.notion.com/p/The-Four-Paths-Routing-Recognition-and-the-Gate-3d558200eb22812a92c0f639ef17493b"
 section: "The Magic System"
 tags: ["Magic System"]
-last_edited: "2026-09-23T23:24:00.000Z"
+last_edited: "2026-09-26T14:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -82,7 +82,7 @@ It is also why **no Choir of the Celestial Host carries Fate Path at any weight.
 
 ### VIII. The Unawakened Have Paths Too
 
-A Class Ø soul has Traits, refines by the Weathering, and hardens along the direction it was already being used. **Grain is single-axis by definition**, which makes a weathered soul functionally single-Path with no Crystal present to recognise it and no gate for the recognition to open.
+A Class Ø soul has Traits, refines by the Weathering, and hardens along the direction it was already being used. **Grain is single-axis by definition**, which makes a weathered soul functionally single-Path with no waking Crystal to recognise it and no gate for the recognition to open.
 > *A forty-year mason is Body Path. A forty-year midwife is Attraction Path. Neither will ever be told, neither would know what the words meant, and the alignment is as real as any registered practitioner's and considerably more consistent.*
 The screening apparatus reads Crystals. **The Derivation Index, the coil, the Refinement Spectrum and the Tiered Path all measure a Path by measuring output**, and a soul with no output returns nothing on any of them. This is the same blind spot four separate registers carry, and it is one blind spot rather than four.
 

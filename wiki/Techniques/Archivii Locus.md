@@ -1,16 +1,16 @@
 ---
-title: "Archivium Locus"
+title: "Archivii Locus"
 notion_id: "3d958200-eb22-81aa-9827-c4c6043b24aa"
-notion_url: "https://app.notion.com/p/Archivium-Locus-3d958200eb2281aa9827c4c6043b24aa"
+notion_url: "https://app.notion.com/p/Archivii-Locus-3d958200eb2281aa9827c4c6043b24aa"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:31:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: null
 ---
 
-# Archivium Locus
+# Archivii Locus
 
-## Archivium Locus
+## Archivii Locus
 
 ### Summary card
 
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Archivium Locus is Serenyra's own self-derived working rather than a documented one studied and countered in advance; a first opponent meets its mechanism live, in the exchange, rather than from a manual.
+Archivii Locus is Serenyra's own self-derived working rather than a documented one studied and countered in advance; a first opponent meets its mechanism live, in the exchange, rather than from a manual.
 
 ---
 

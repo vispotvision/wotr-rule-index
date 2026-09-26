@@ -4,11 +4,13 @@ notion_id: "3b358200-eb22-819b-bbb7-e956c6bf9f25"
 notion_url: "https://app.notion.com/p/Torven-Greis-The-Merchant-Lord-3b358200eb22819bbbb7e956c6bf9f25"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Torven Greis — The Merchant Lord
+
+**Say it** · TOR-ven GRAYSS
 
 ### The Merchant Lord · Lord of the Chainward Road
 
@@ -16,6 +18,7 @@ verification: null
 
 ### I. IDENTITY
 
+**As Of:** After Nalūn sealed at Kharven-Seat, in the sixth year of the empire
 **Full Name:** Torven Greis
 **Alias / Title:** The Merchant Lord
 **Also Known As:** Lord of the Chainward Road · The Grey Comptoir (Nalūn trader shorthand)

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c5-942f-fbe6e631449a"
 notion_url: "https://app.notion.com/p/Drakvor-The-Black-Crowned-Bastion-3d958200eb2281c5942ffbe6e631449a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Drakvor · The Black-Crowned Bastion
 
+**Say it** · DRAK-vor
 > *"Stone does not care who rules it. It only records who stood when the sky fell."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the judgement on Aethryn
 **Name** · Drakvor. **Called** · The Black-Crowned Bastion. **Also** · The Iron Sovereign · Grave Lion of Veyrn · The Last Monolith · Bastion King · High Concordant of the Gatefront.
 **Epithet** · That Which Even Titans Address By Name.
 **Role** · **High Concordant of the Guild Accord. Marshal of the Bastion Legion. Warden of the Veyrn Marches.**
@@ -100,7 +102,7 @@ verification: null
 
 #### Black Crown Oath
 
-**Effect** · **He swears to hold a specific line, gate or people, and his Wellsprings and Bastion Chain align and spike.** *Bastion Imperium is already running underneath it: boots planted, Essence driven down, Coagula and Monolithion linking his Lattice to the structure so anything below a fixed fraction of his output fails to shift him. Faultline Breaker reads the stress seam and commits one precise impact where a siege engine or an overextended elite is about to fail anyway. Coagula Dominion spreads binding sigils through the air and stone, so evasive footwork feels like running in wet-set mortar. Sovereign's Reprisal vents whatever the Aegis Rib has stored, an expanding shock ring that lifts bodies and can stagger even an SS threat that stood too close.* Under the Oath, all five Pillars jump toward SS-Grade scaling inside his Domain, and he does not fall until the Oath condition is fulfilled or catastrophically broken.
+**Effect** · **He swears to hold a specific line, gate or people, and his Wellsprings and Bastion Chain align and spike.** *Bastion Imperium is already running underneath it: boots planted, Essence driven down, Coagula and Monolithion linking his Lattice to the structure so anything below a fixed fraction of his output fails to shift him. Faultline Breaker reads the stress seam and commits one precise impact where a siege engine or an overextended elite is about to fail anyway. Coagula Dominium spreads binding sigils through the air and stone, so evasive footwork feels like running in wet-set mortar. Sovereign's Reprisal vents whatever the Aegis Rib has stored, an expanding shock ring that lifts bodies and can stagger even an SS threat that stood too close.* Under the Oath, all five Pillars jump toward SS-Grade scaling inside his Domain, and he does not fall until the Oath condition is fulfilled or catastrophically broken.
 **Cost** · **Structural Feedback.** *Carrying walls on his soul leaves real cracks; afterward his Lattice hairline-fractures, his Essence collapses, and he may be bedridden for weeks.* **Plan Rigidity** takes the rest: once he has decided this is the wall, his own Essence resists a sudden change of plan, and he needs a trusted second to argue him into a feint before he commits.
 **Limit** · **Oath-keyed.** It only holds the line he swore to hold; nothing outside the sworn condition benefits from the spike.
 **Counter** · **Unstable ground** (deep marsh, sand seas, sky platforms) strips out a chunk of the Monolith advantage. **Refuse his chokepoint**: persistent hit-and-run that never lets him fully anchor bleeds his Essence before the Oath pays for itself. **Divide his attention** across noncombatants he will not abandon.

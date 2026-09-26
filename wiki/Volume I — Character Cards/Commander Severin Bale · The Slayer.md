@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-816e-b677-e5ae85f6ac66"
 notion_url: "https://app.notion.com/p/Commander-Severin-Bale-The-Slayer-3bd58200eb22816eb677e5ae85f6ac66"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:35:00.000Z"
+last_edited: "2026-09-26T08:41:00.000Z"
 verification: null
 ---
 
 # Commander Severin Bale · The Slayer
 
+**Say it** · SEV-eh-rin BAYL
 > *"I don't hurry. I remove options until the right one remains."*
 > **Temperance corrected under the Benediction mapping.** The card reads **"Deep Benediction with short, brutal Severance surges bound to oath-phrases."**
 >

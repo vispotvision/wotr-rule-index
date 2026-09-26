@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8117-b2f8-d2e30dbece9b"
 notion_url: "https://app.notion.com/p/Oblivion-Step-3d958200eb228117b2f8d2e30dbece9b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:38:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · Aeldoris drops into half-sleep for an instant and steps out again from the dream-shadow of another mind nearby, arriving up to fifty metres away with no line of travel between the two points and no sound.
+**Effect · The practitioner drops into** half-sleep for an instant and steps out again from the dream-shadow of another mind nearby, arriving up to fifty metres away with no line of travel between the two points and no sound.
 **Cost** · A quarter-second of disorientation on arrival, and a backwash of the anchor's own emotions surfacing in her afterward, uninvited.
 **Limit** · The step needs a live subconscious within range to anchor to and a dream-shadow to emerge from; without one, there is nowhere to arrive.
 **Counter** · A mind held lucid through the threshold, or a fixed ward built to erase a dream-shadow before it forms, denies the step before it completes.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to Aeldoris and the line she is said to have coined for it, that the quickest path runs through the moment a person almost fell asleep. It is self-derived, and anyone who has actually watched her do it once has everything they need to start building a counter.
+Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to its author and the line she is said to have coined for it, that the quickest path runs through the moment a person almost fell asleep. It is self-derived, and anyone who has actually watched her do it once has everything they need to start building a counter.
 
 ---
 

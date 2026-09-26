@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8111-905b-da4ab6def61d"
 notion_url: "https://app.notion.com/p/Kurokiba-Ranzou-The-Drunken-Oni-3bd58200eb228111905bda4ab6def61d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Kurokiba Ranzou · The Drunken Oni
 
+**Say it** · koo-roh-KEE-bah RAHN-zoh
 > *"Every swing's a toast… and every toast is your funeral."*
 > **Migrated with all content preserved, including the artifacts.** *"Ferment-Aether / Fire-Aether / Body-Aether"* were not Essence types. **"Aether Class: Berserker Brewer"** is not among the eight; **he is Class III, Resonant.** *"Temperance Compatibility: Journeyman (Stage VII)"* mixes the Accord rank ladder with the Temperance ladder — **Stage VII retained, Journeyman struck.**
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Braqth feast, the second night not yet sat
 **Name** · Kurokiba Ranzou. **Called** · The Drunken Oni. **Brew-Sage.**
 **Role** · **Oni Duelist and Brew-Sage. Fermentation Combat Master.**
 

@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81e1-8a0d-f4a5ba6abe03"
 notion_url: "https://app.notion.com/p/The-Works-and-Days-Occupations-Trades-and-Technology-3bc58200eb2281e18a0df4a5ba6abe03"
 section: "Materials, Alchemy & Trade"
 tags: ["Trade & Economy", "Peoples"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-26T14:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -65,7 +65,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 | **The Farmer** | Plough, sow, weed, harvest, thresh, winnow, **and pray that the weather, the insects and the local Wellspring density cooperate in that order.** *In array districts the plough may be weight-ablated — which does not pull it but halves the draught. The farmer who owns this does not call it magic. He calls it the harness that cost him two seasons' surplus, and he sleeps with it inside the house* | The specific musculoskeletal damage of forty years behind a plough, **and the levy — which takes the young men at planting and returns them at harvest if it returns them at all.** *Withering-era agriculture in formerly high-density districts is a slow catastrophe: the soil remembers the yield it used to produce, and the farmer is working ground that has been taught to expect more than the local Wellspring can now deliver* |
 | **The Herder** | *A herder in a low-density valley manages animals. A herder on the Thornback March manages animals that can occasionally see through walls and object to being moved.* A beast grazed on Wellspring-consistent pasture produces leather that takes an inscription. **One grazed on variable pasture takes it badly —** and the premium has doubled in a generation | Marginal standing. *Settled communities treat herders the way settled communities have always treated people who move: as necessary, unreliable, and probably stealing something* |
 | **The Fisher** | Net, trap and line. In the Ketsuen lake districts, **Phreatis-aligned waters produce fish that are larger, more regular, and occasionally capable of behaviours freshwater fish should not exhibit.** *The fisher families' practical taxonomy of fish-by-Wellspring-exposure bears no resemblance to the Bestiary's classification and is considerably more useful for predicting where the catch will be* | **Coastal fishing is the most dangerous common occupation in the four quarters.** *The mortality rate exceeds surface mining by a factor the Accord tracks and the fishermen do not want published — because published numbers attract regulation, and regulation attracts people who have never been on a boat* |
-| **The Forester** | Fell, coppice, burn charcoal. **It takes an appalling quantity of wood to make a little iron**, and the charcoal-burner is *the man standing between the forest and the forge, reducing one to feed the other* | The charcoal-burner's cough. *And in high-density forest: a Verdantia-touched wood grows back faster than it should, which sounds like a gift until the forest decides the clearing you made last season was a wound and closes it* |
+| **The Forester** | Fell, coppice, burn charcoal for the provinces and the north, where no forge-array reaches. **It takes an appalling quantity of wood to make a little iron**, and the charcoal-burner is *the man standing between the forest and the forge, reducing one to feed the other* | The charcoal-burner's cough. *And in high-density forest: a Verdantia-touched wood grows back faster than it should, which sounds like a gift until the forest decides the clearing you made last season was a wound and closes it* |
 
 ---
 
@@ -93,7 +93,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 *Every networked city runs on sealed conduit laid in brick culvert beside the sewers, and the two trades share an engineering and frequently a workforce.*
 **The Main-Man** · Works the culverts in pairs, with a gauge and a lamp. Checks seals, clears residue traps, reports density drift before it becomes a cut. **Wet, cramped, poorly paid, and performed inside a charged main at densities that would be logged as an Active Concentration if a surveyor found the same reading in open country.**
-> *No baseline is taken before a man goes down, because no baseline exists for a soul without a Crystal. Which means nothing anywhere establishes what twenty years in the culverts does to a man, and the trade knows exactly what it does, and has a word for the late stage that appears in no Board document.*
+> *No baseline is taken before a man goes down, because no baseline exists for a soul whose Crystal never woke. Which means nothing anywhere establishes what twenty years in the culverts does to a man, and the trade knows exactly what it does, and has a word for the late stage that appears in no Board document.*
 **The Seal-Clerk** · Presses and records. Literate, indoor, resented by the men below and by the householders above in roughly equal measure.
 **The Meter-Reader** · Walks. **The only representative of the entire magical apparatus that most people in a city will ever meet**, and the reason the apparatus is understood by most people as a bill.
 > **The Cutter** · Attends when a household stops paying. **The most despised of the four and the best paid**, for the same reason the executioner is: somebody has to, everybody knows it, and nobody wants to be adjacent to the person who did.
@@ -113,7 +113,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 ### Cloth, hide, and stone
 
-**The Spinner** · *Spinning is the most widely distributed craft in the four quarters.* Every household that cannot afford to buy cloth makes it, **and spinning is the task that fills every hand not otherwise occupied, in every season, at every hour of the day.**
+**The Spinner** · *Spinning is the most widely distributed craft in the four quarters, and the one the mills are killing.* Every household off the main that cannot afford mill cloth makes it, **and spinning is the task that fills every hand not otherwise occupied, in every season, at every hour of the day.**
 > ***A distaff is more common than a sword, more essential than a plough, and less discussed than either.***
 **The Dyer** · Ancient, essential, **and unspeakably foul.** *A dye-works smells of stale urine, rotting plant matter and heated metal salts in a combination no amount of familiarity makes tolerable* — **which is why dyers occupy the same district as tanners: downstream, downwind, and outside the wall.**
 > **Aetheric Residue alters dye chemistry.** Wellspring-touched dyes produce a depth and luminance ordinary chemistry cannot replicate, *and the most valued dyes in the world exist where a specific Wellspring's Residue meets a specific mordant — guarded as trade secrets by the families that found them.*
@@ -141,6 +141,45 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 ---
 
+## The Works and the Mill
+
+> **The arrays made the Old World deep. The engine is making it crowded.** A draw-engine on a main runs a shed of machines, the shed runs on hands, and the hands are coming in from the country faster than the city can roof them.
+> 
+> ***This is the new floor of the age, and it is filling faster than any register can count it.***
+**The Essence Works** · **Clean, humming and glass-roofed.** A long shed with an engine at one end and shafting overhead, belts dropping to rows of looms, lathes, presses or stitching frames, and no chimney anywhere. *Visitors from the provinces expect smoke and find a hum, and cannot understand why the people inside look so tired.* **The grime of the age is in the conditions, not the air.**
+**What it makes** · **Everything a household used to make for itself, and makes it cheaper.** Cloth by the mile, boots by the thousand pair, nails by the ton, tins, needles, screws, rifles to a pattern whose parts go into any rifle of the same mark. *Mass production is the discovery that a thing made the same way ten thousand times needs no craftsman after the first.*
+**Who owns it** · **Chartered houses, great houses and the factor houses that fund both.** The raw stock comes in under charter from the eastern arc and the south, the finished goods go back out along the same routes at the price the charter sets, and the margin stays in the west. *The age calls this trade. The places at the far end of the charter have other words for it.*
+| Trade | The work | What it costs |
+|---|---|---|
+| **The Machine Hand** | Minds a loom, a lathe or a press for a seven-hour shift, half the Guild day, twelve days in every turn. **Women and children at the looms, men at the presses, anyone at all at the stitching frames.** *Third Floor by classification and unskilled by definition, because the skill went into the machine* | Fingers in the belts, deafness from the hum by forty, fines for lateness by the Guild clock at the gate, and **the unsealed field in the ground under the shed**, which no Board surveys and every hand eventually feels as a heaviness |
+| **The Engine Man** | Runs and tends the draw-engine: reads the gauge, trims the load, listens for the note going wrong, and stops the engine before the rotor does something worse. **Stage I to III, like the array-tender, and paid like one** | The Shell clouding the renderers find on the table, **and the knowledge that the engine will be cut before he is told why** |
+| **The Overlooker** | Walks the floor, sets the pace, keeps the time and fines the hands. **Risen from the floor, and the floor never forgives him for it** | Hated below and distrusted above. *The only man in the works who knows both what the owner wants and what the machines can actually give* |
+
+### The trades the works are killing
+
+*The register records these because it will not be able to record them for long.*
+**The Handloom Weaver** · **Once the aristocrat of the cottage.** Now working longer hours for a third of the rate against a mill that never tires, and teaching the trade to children who will never earn by it.
+**The Nailer and the Chainmaker** · Whole villages at the hearth, the family's hands making nails by the thousand. **A single works makes more in a day than a county's forges did in a season.**
+**The Carter and the Carrier** · **Beaten wherever the line runs**, and pushed out to the roads it has not reached. *The Weight Ablation harness that cost two seasons' surplus is worth half its price the day the railhead opens.*
+**The Lamplighter** · The street lamps are Essence now, lit from the main by a single cock at the gauge-house. **One man does what forty did**, and the forty are on the tram looking for work.
+> **The metered poor are the age's own invention.** The hand who came in from the country for the works lives in a tenement room on sealed domestic supply at a density below the tariff, pays for draw before bread, and is cut when the works lays him off. *He came to the city because the main was there. He is now the person the main costs most.*
+
+---
+
+## The City the Works Built
+
+*The great city of the age is brick and stone, four to six storeys, and was mostly built inside one long lifetime.*
+**The Street** · **Terraces for the clerk, tenements for the hand, villas for the owner, and the tram between them.** Brick in the west, grey stone in the north, stucco on the fashionable squares. Iron bridges of Stillband iron over every river and railway cutting. *The streets are Essence-lit and never quite dark, and the country-born do not sleep for the first month.*
+**The Arcade** · A covered street of shops under a glass-and-iron roof, lit after dark, warm in winter, patrolled by beadles who keep out the poor. **The age's cathedral, and it charges no tithe until you buy something.**
+| Trade | The work | What it costs |
+|---|---|---|
+| **The Builder** | Bricklayer, hod-carrier, joiner, plasterer, slater, glazier. **The city is going up faster than it has ever gone up**, and the men putting it up live in the parts that went up worst | Falls, lime-burns and the seasonal lay-off. *A builder is out of work every winter and on the parish every hard one* |
+| **The Shop Assistant** | Stands behind a counter in the arcade from the opening bell to the last customer, sleeps above the shop, and is fined for sitting down. **The shopwalker watches the floor and the customer at once** | Varicose veins, a room shared with four others, and the rule against marrying while employed |
+| **The Bill-Sticker** | Pastes the bills on the hoardings at night, ahead of the magistrate's man who fines him in the morning. **Every surface on a tram route is somebody's advertisement** | Fines, which the firm pays and docks from his wage |
+| **The Street Trades** | Costermonger, crossing-sweeper, match-seller, shoeblack, cabman with his horse, the boy who runs for anyone with a copper. **The city's Third Floor on its feet** | Weather, the police, and the licence each trade now needs and none of them can afford |
+
+---
+
 ## The Service Trades
 
 **The Innkeeper** · **Not a hotel. A social institution** — where news arrives before it is announced, where prices are set by conversation before they are set by the factor house, and where the innkeeper's opinion of a guest determines **whether the guest's horse is stabled where it can be stolen.**
@@ -154,7 +193,7 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 ## The Healing Trades
 
-**The Physician** · **Does not touch the patient. The physician reads** — urine, pulse, complexion, tongue, the character of the breath, and where Gnosis-trained, the Essence Signature. *A two-tier system results, and the two tiers disagree about everything except that the patient is their problem.*
+**The Physician** · **In a Guild city the physician examines, anaesthetises, and scrubs in carbolic before anyone cuts.** Off the main the older school still does not touch the patient. **It reads**: urine, pulse, complexion, tongue, the character of the breath, and where Gnosis-trained, the Essence Signature. *A two-tier system results, and the two tiers disagree about everything except that the patient is their problem.*
 **The Surgeon** · Cuts. **Below the physician, above the barber, and angry about both.** *The jurisdictional dispute is always the same: the physician claims diagnostic authority, the surgeon claims procedural authority, and the patient claims the right to see whoever will actually help.*
 > **The Midwife** · The most experienced practical clinician most people in the four quarters will ever be touched by. *She knows the local births the way a farmer knows the local weather: not from a book but from a lifetime of being in the room when it happens.*
 >
@@ -182,7 +221,51 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 
 ---
 
+## The Paper Trades
+
+> **The Guild is a paper empire.** It holds no territory, fields no levy and hangs nobody, and it governs four quarters through forms. *A thing that has not been entered has not happened, and a thing that has been entered in three copies has happened three times.*
+Everything of consequence needs a paper, and most things of no consequence need one too. **A draw permit, a trade licence, a residence entry within one turn of arrival, a practitioner's registration, a travel pass for the Concord Gate, a stamp on every contract and a stamp on the stamp.** Each is made out in triplicate on carbon, one copy for the applicant, one for the office and one for the Archive, *and the Archive's copy is the one that survives.*
+| Trade | The work | What it costs |
+|---|---|---|
+| **The Clerk** | Copies, files, enters and totals, on a high stool, by the Guild clock. **The largest respectable trade of the age**, and the one every family off the land wants for its cleverest son | Short sight, a stoop, a salary paid quarterly in arrears, and the knowledge that the typewriter is coming for the copying half of the work |
+| **The Typist** | Works the typewriter: a keyboard, a ribbon, a carriage bell, and six carbons at once for a hard-pressed operator. **The first office trade open to women in numbers**, and filling with them faster than the men in the next room find comfortable | Paid less than the clerk for more copies. *The machine is called a typewriter and so, in half the offices of the age, is the woman at it* |
+| **The Wire Clerk** | Sends and takes the Guild wire, counts the words, charges by the count, and reads every message that passes. **Sworn to the Guild's secrecy, and the best-informed person in any town that has a station** | Night duty, and a reputation for knowing what the neighbours paid to say |
+| **The Exchange Operator** | Sits in a row before a switchboard of brass jacks and cords, connecting telephones by hand in the great cities. **Young, unmarried by rule, and chosen for a clear voice** | Headaches, a supervisor behind every chair, and dismissal on marriage |
+| **The Permit Office** | Stamps, countersigns, returns forms for the wrong colour of ink, and is the face of the Accord to anyone who wants anything from it. **The seal-clerk's cousin, and as resented** | *Nobody has ever thanked a permit office, and the permit office has long stopped expecting it* |
+
+---
+
+## The Evening Trades
+
+*The age invented the half-holiday, the excursion train and the paid seat, and now employs a trade to fill each of them.*
+**The Theatre and the Music Hall** · **The theatre plays to the middle and the gallery; the music hall plays to everybody at once**, with a chairman, a bar, a comic singer, a strong man and a turn that closes the bill. Stagehands, scene-painters, dressers, the man who works the Essence limelight from the flies. *A comic song from a music hall reaches every street in the city within days and every province within the year, and nobody can say who wrote it.*
+**Sport and Spectacle** · **Racing, with the bookmaker on the rails and the whole city betting by wire. Prize-fighting, half-legal, in a railway arch or a tavern yard. Football on the half-holiday.** And the spectacle nobody else has: **the licensed practitioner exhibition**, where a ranked hand shows before a paying crowd what a Stage can do, under Accord licence and a Board's supply.
+> *Ordinary people regard a ranked practitioner as half a saint, and the exhibition sells tickets on it.* **The licence caps the working at exhibition grade and requires a warden on the floor**, and every promoter knows that the crowd came for the moment the warden might be needed.
+**The Café, the Club and the Reading Room** · **The café for talk, the club for men of one class with nowhere else to sit, the reading room for everybody else.** Guild reading rooms keep the gazettes, the rate sheets and the registers open to any member, and the working men's institutes keep the penny papers and a lecture every turn. *More plans are made in reading rooms than in council, and the Guild has noticed.*
+**The Pleasure Garden and the Fair** · **Lit walks, a band, fireworks and a balloon ascent for the respectable; the fair for everyone**: the travelling show with its menagerie, its strong woman, its cinematograph booth and its fortune-teller who will read your Crystal for a copper, wrongly. *The fair arrives in the provinces with the only moving pictures the town will see that year, and leaves with a year's pocket money.*
+
+---
+
 ## Technology by Region
+
+---
+
+## The Age by Place
+
+> **There is no year in which the age arrived. It arrives by distance from the main.** A traveller on this continent moves through time as well as across it, and the register cannot give a date for any object without first asking where it stands.
+> 
+> *The line moves north a few miles every year, the chartered houses push further into the eastern arc every season, and every mile either of them gains is a mile of somebody's tariff.*
+**The Accord and the Guild cities** · **The late span, and ahead of it where money allows.** Telephones in the offices and the great houses, trams in every main street, motorcars at the rich kerb and airships over the roofs, the cinematograph in a hired hall, khaki in the barracks, typewriters in every office and the Guild hour on every wall. Anaesthesia and carbolic in the hospitals. *A clerk here has never seen a tallow candle burning in a house, and thinks of the notch as something his grandmother said.*
+**The provinces** · **Decades behind, and in no hurry.** The railway reaches the county town and stops; the wire office is the post office; the new mill stands beside a street where the handlooms are not yet quiet. Horses on every road, the militia in bright coats, oil lamps in most houses and an Essence lantern in the better ones, and the dispensary and the barber for medicine. *A provincial town keeps two times, the station's and the church's, and lives by the second.*
+**The north** · **The early span, and in Kharven nothing later.** No main north of the arrays, no line past the last junction, no wire past the last Guild post. Tallow and rushlight, peat and dung on the fire, letters by rider, the levy in gambeson with a musket if the armoury had one, the notch and the bell, and medicine from the barber and the old women. Almost nobody reads. *The north cuts the ice that cools the south's milk and has never seen a cold-box. It supplies the age's cold and shares in none of its comforts.*
+**The east and the south under charter** · **Every span at once.** A Cloudmetal works, one of four in the world, stands a day's walk from villages the age has not reached, and the plantation, the chartered wharf and the Guild post are the late span set down in the early. *The charter brings the works, and the works bring the wage, the tariff and the cutter, in that order.*
+> **A journey from an Accord capital to Kharven-Seat runs the whole age backwards.** The tram to the terminus, the express to the provincial junction, the branch line to where it ends, the coach to where the road is paved, the mule to where it is not, and the last of it on the road the first cart made.
+> 
+> *The traveller who makes it changes his watch at the junction, his coat at the railhead and his manners at the pass, and arrives in a country where his watch is a curiosity and his rank token is the only thing about him anyone understands.*
+
+---
+
+## What the Division Has Not Surveyed
 
 | Polity | What it builds, and what that says |
 |---|---|
@@ -193,11 +276,11 @@ The western staple is **spelt wheat**, ground on stone querns or Vectoria-assist
 | **The Holy Sea of Alabaster** | **Testimonial.** The Wellspring, the most complete archive of births, deaths and contracts in the Inner World, **and the banking operations Nalūn considers a sin and the Holy Sea considers a service.** ***It does not build machinery. It builds records, and the records outlast everything*** |
 | **The Eastern Arc** | **What happens when a polity commits array capacity to something other than pumping water.** Cloudmetal reduced by Fulguria arrays at a scale that exists in four places in the world. Onceglass charges sold as consumable munitions. Vectoria-augmented looms the west cannot match. *It demonstrates the thesis of* The Four Ceilings *in real time: technology follows from geological accident and institutional willingness, not from genius — and a people sitting on different rock with different priorities will build a different world* |
 
----
-
-## What the Division Has Not Surveyed
-
-> The Logistics and Supply Division commissioned this register to establish **what work exists and who does it**, and it has done that. It has not touched **food and cuisine, music and entertainment, ground-level justice, domestic life and courtship, or funerary custom**, and the omission is consistent rather than accidental.
+> The Logistics and Supply Division commissioned this register to establish **what work exists and who does it**, and it has done that. It has touched entertainment only where entertainment is a trade, and it has not touched **food and cuisine, ground-level justice, domestic life and courtship, or funerary custom**, and the omission is consistent rather than accidental.
+> 
+> *Every one of those is something the Third Floor does when it is not working. The Division surveys labour because labour is what the Division buys.* **A register compiled by a purchaser will describe what is for sale and will be silent on everything a person is when the day ends.**
+> 
+> The Archives has proposed a companion survey on four occasions. **Each proposal has been referred to the Division that would have to fund it.**
 >
 > *Every one of those is something the Third Floor does when it is not working. The Division surveys labour because labour is what the Division buys.* **A register compiled by a purchaser will describe what is for sale and will be silent on everything a person is when the day ends.**
 >

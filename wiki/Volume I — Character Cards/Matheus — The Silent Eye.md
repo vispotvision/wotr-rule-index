@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-81be-a93c-cb290c93bbfc"
 notion_url: "https://app.notion.com/p/Matheus-The-Silent-Eye-3ba58200eb2281bea93ccb290c93bbfc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:08:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Matheus — The Silent Eye
 
+**Say it** · mah-TAY-us
 *The Silent Eye · Yukari Ward-Craft*
+> **As Of:** The column's arrival at the north gate of Kharven-Seat
 > **Full Name:** Matheus of the Ketsuen Enclave
+> **Age:** 34 · **Origin:** Yukari-trained, eastern enclaves
+> **Level:** 245 · **Stage:** V Surge · **Band:** III
+> **Role:** Ward-craft specialist, inscription and spatial defense for the Kokan expedition
+> Looking at something twice is an admission you did not look at it correctly the first time.
 > **Age:** 34 · **Origin:** Yukari-trained, eastern enclaves
 > **Level:** 245 · **Stage:** V Surge · **Band:** III
 > **Role:** Ward-craft specialist, inscription and spatial defense for the Kokan expedition

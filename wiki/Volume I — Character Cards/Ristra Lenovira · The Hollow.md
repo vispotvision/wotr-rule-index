@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-814e-ac4d-f397be8fa60a"
 notion_url: "https://app.notion.com/p/Ristra-Lenovira-The-Hollow-3bd58200eb22814eac4df397be8fa60a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T08:58:00.000Z"
 verification: null
 ---
 
 # Ristra Lenovira · The Hollow
 
+**Say it** · RISS-trah leh-noh-VEER-ah
 > *"I'm no hero, no savior. But if you give me a target... they'll never see the sky again."*
 
 ---

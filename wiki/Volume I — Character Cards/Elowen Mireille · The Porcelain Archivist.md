@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e5-864d-e2aed5b35dcc"
 notion_url: "https://app.notion.com/p/Elowen-Mireille-The-Porcelain-Archivist-3d958200eb2281e5864de2aed5b35dcc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Elowen Mireille · The Porcelain Archivist
 
+**Say it** · EL-oh-wen mee-RAY
 > *"People reveal themselves when they feel safe. I make them very safe."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the afternoon table in the slate belts
 **Name** · Elowen Mireille. **Called** · The Porcelain Archivist.
 **Also known as** · The Quiet Teacup · Lady Sugarveil. **Epithet** · *She Who Records What You Forget.*
 **Role** · **Passive information faculty. Spirit-Path memory specialist who gathers nothing aggressively and forgets nothing at all.**

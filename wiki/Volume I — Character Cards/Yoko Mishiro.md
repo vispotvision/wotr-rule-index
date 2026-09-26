@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-8106-83e3-f45895781c04"
 notion_url: "https://app.notion.com/p/Yoko-Mishiro-3b258200eb22810683e3f45895781c04"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:49:00.000Z"
+last_edited: "2026-09-26T09:14:00.000Z"
 verification: null
 ---
 
 # Yoko Mishiro
 
+**Say it** · YOH-koh mee-SHEE-roh
 *The One Who Stayed · Fox-Spirit of the Mishiro Line · Card 20*
 > **A settled B-Grade profile everywhere she was always going to sit, built underneath one stat that was never going to behave.**
 >
@@ -21,6 +22,7 @@ verification: null
 
 **Race / Lineage** Beastkin — Fox-Spirit variant, **Mishiro lineage. Spirit-adjacent; predates formal beastkin taxonomy**
 **Age** 29 · **Sex** Female
+**As Of** Some years after the first Accord circle was signed. In the year of the signing she is at Kharven-Seat beside Sodoku, with their son.
 **Standing** Unaffiliated, settled — **a cabin on the Scourge's edge, with Temür, their son Riku, and a second child on the way**
 > **Catalyst Event. The lock on the pen.**
 >
@@ -126,6 +128,20 @@ Twenty-nine now, **and it reads less as damage than as ease** — *the particula
 
 ---
 
+### Voice
+
+**Notices first** · The air before the room: what happened here before she arrived, who is afraid, and the decision a person is about to make before they have made it. Her ears turn to it a second before her face admits anything.
+**Sentence length** · At work, short and flat: one confirmed fact, then a full stop. At home with her husband and family she runs long and personal, following an argument clause by clause until she has said the whole of what she means.
+**Contractions** · sometimes: on the road and at home they come easily; when she is reporting what her nose found, they go.
+**Pet word** · "Exact."
+**Never says** · A guess dressed as a finding. She tells what the scent was and stops there ("I am not telling you what it means"), and she never lets a joke about harm stand unanswered.
+**Stumbles** · Never. She says what is accurate and nothing past it, and does not restart.
+**Gloss rights** · Diagnostic only: she may say plainly what her nose and her Essence-sense have read, in their own terms, and explains nothing else.
+**Under stress** · Speech narrows to the single confirmed fact and grows more precise, not less. The ears flatten or lock forward and report the truth whatever her face is doing.
+**In grief** · The pens come back: the flat face, the offer of work, words stripped to what a captive dares to say. What she will not say in Common comes out in the fox-register of her mother, which has no Common equivalent.
+**In joy** · The words stay careful and exact; the tail moves, the ears come up, and at home she lets a sentence run on because nobody is keeping count of her anymore.
+**Sample line** · "I want to be exact about him, because exactness is the only thing I am useful for at a table."
+
 ## XVI–XVII · Temperance and Fractures
 
 **I Murmuring** complete — *Somnalis attunement present at birth, ahead of the formal Stage.* **II Welling** complete **before captivity.** **III Ascension** complete — **resumed and finished after leaving the pen.** **IV Flourishing** complete — *Anima Spirare reached full expression here, exactly as projected.*
@@ -176,19 +192,18 @@ On the day of the ninth hour the order sent her below the old cistern with Hild 
 #### Where They Stand
 
 She keeps her own record, in her own hand, in the plain form she uses for everything, and she has shown it to no one. On the night the first Accord circle was signed she wrote, "He built it for her. Every clause." She wrote as well, "I have been beside this man for nine years and this is the first thing he has done that I do not think I could have done."
-Her son was born at Kharven-Seat in the Thin Weeks, in a low room off the altar-room. Brida Ashwell ran the room. Emira had the left side. Her ears lay flat for eleven hours. At the fifteenth hour there was a great deal of blood, and then it stopped. They called him Rikudoku. The Reckoner's form had one slot for a bloodline, and Sodoku told the Reckoner to enter both.
+Her son Rikudoku had been born in the Scourge years and was about seven the year the circle was signed. In the Thin Weeks of the fourth year the Seat's Reckoner came to enter him on the roll. The form had one slot for a bloodline, and Sodoku told the Reckoner to enter both.
 That week she wrote, "My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen." She wrote too, "I am afraid of the year he works out that he can use it." In the sixth year the empire's own law still filed his second inheritance under a schedule written for property, in the fourth title, eleventh article.
 Her card keeps her at another hour. There she lives in a cabin on the Scourge's edge with her husband and their son, a second child coming, sworn to no one. The hair that grew back uneven after the pen is even on both sides now. Her ears still report her a second before her face does. She is still slow to claim a thing outright before someone else has seen it first. The old marks around her ankles have never stopped being marks.
 
 #### Ties
 
 - **Sodoku Moto** · lovers, then married. He broke her lock, and she walked through it on her own decision and stayed.
-- **Rikudoku Moto** · mother and son. Her son, born at Kharven-Seat.
+- **Rikudoku Moto** · mother and son. Her son, born in the Scourge years.
 - **Ayame Yuno** · legacy, never met. The island Ayame described to her son is the reason the record gives for the lock he broke on Yoko's pen.
 - **Emira Moto** · sister-in-law. She told the girl the truth about her brother.
 - **Hild Ice (Stark) · The Sword Princess** · her husband's daughter. Yoko asked that the girl be brought back to them, and in the kitchen she answered her plainly and would not stoop to her height.
 - **Osric of Hallenfeld · The Patient Hand** · shared charge. He took her and Hild below the cistern.
-- **Brida Ashwell · The Warm Diagnosis** · physician and patient. Brida ran the room at her labour and watched her ears.
 - **Nella Forgeman · The Open Hand** · named together. Sodoku offered the two of them to shelter the stranger from the snow, and Sonzai refused.
 - **Borin Ironheart · The Master of the Soul Forge** · the resin. She knew his bench's resin.
 - **Krothar Veylshroud · The Chain Without a Master** · the question. He stepped into the road and asked whether she was a slave, and her hand went to Sodoku's sleeve.

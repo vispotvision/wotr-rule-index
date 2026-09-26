@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-8102-8a3b-d0038249a5a7"
 notion_url: "https://app.notion.com/p/Artemis-Amagiri-Moto-3b158200eb2281028a3bd0038249a5a7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T10:25:00.000Z"
 verification: null
 ---
 
 # Artemis Amagiri Moto
 
+**Say it** · AR-teh-miss ah-mah-GEE-ree MOH-toh
 **He Who Makes the Next Step Cost Too Much**
 > *The Bear · The Mist-Breaker · The Closed Road*
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## Identity and Core Profile
 
+**As Of** · On the storm marches, still hunting the one who broke his pass-law
 **Race / Lineage** · Human · Moto bloodline, **Amagiri line**
 **Faction / Era** · House Moto · War of the Realms Era
 **Temperance Stage** · **Stage 8 — Transcendence**
@@ -55,7 +57,7 @@ His Aether manifests as **dark bead-like nodes, mist-blue route script, and shor
 |---|---|---|
 | **Essence Capacity** | 41,800 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |
 | **Flux Density** | 1,980 EU/g | His magic lands like compressed impact. **Even his soft techniques feel heavy** |
-| **Aether Output** | 7,600 AU/s | **Fast enough to overwrite short-range movement exchanges in real time** |
+| **Aether Output** | 1,663.2 AU/s | **Fast enough to overwrite short-range movement exchanges in real time** |
 | **Efficiency η** | 0.84 | High for a bruiser. **Once his stance is set, he wastes very little** |
 | **Attraction Scale** | A-Tier Detour Field | **Nearby fighters feel routes narrowing around them before he even moves** |
 

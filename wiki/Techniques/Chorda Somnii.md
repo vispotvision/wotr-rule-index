@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-816c-a3da-c74479614ac9"
 notion_url: "https://app.notion.com/p/Chorda-Somnii-3d958200eb22816ca3dac74479614ac9"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:33:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · She threads a line of Oneirion current from her hand into a target's dream-axis and holds their felt passage of time slow or sharp for as long as the thread runs.
+**Effect · The practitioner threads** a line of Oneirion current from her hand into a target's dream-axis and holds their felt passage of time slow or sharp for as long as the thread runs.
 **Cost** · The thread costs her the same clock it bends: heavy use erodes her own sense of sequence and drives her toward Wellspring-guided sleep afterward.
 **Limit** · Only one thread may run at a time, and it cannot be laid on anything with no coherent dream underneath it — no construct, no Wellspring husk, no already-Severed mind.
 **Counter** · A Fate-keyed ward can snap the thread outright, and a mind trained past her own Stage can refuse the altered tempo by will alone.
@@ -41,7 +41,7 @@ verification: null
 
 ### Origin
 
-Chorda Somnii is Serenyra's own, self-derived rather than a documented working countered from study: anyone meeting it for the first time meets it live, in the exchange, before it does whatever it is going to do.
+Chorda Somnii is self-derived rather than a documented working countered from study: anyone meeting it for the first time meets it live, in the exchange, before it does whatever it is going to do.
 
 ---
 

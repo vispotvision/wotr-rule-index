@@ -4,7 +4,7 @@ notion_id: "3c758200-eb22-819e-8385-c81cd92f8d13"
 notion_url: "https://app.notion.com/p/The-Magical-Categories-Unified-Taxonom-3c758200eb22819e8385c81cd92f8d13"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:42:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: "unverified"
 ---
 
@@ -56,7 +56,7 @@ Attraction-aligned because compatibility is fundamentally about *recognition*: t
 **Triadic**
 Emergent resonance from multiple souls, Wellsprings, or Domains interacting, birthing shared Temperance fields and collective intent. **Echo Bond** scaled from two Crystals to many.
 Triadic because no single Discipline governs it. A Synergia field is several Soul Crystals briefly sharing one Essence Core, Shell, and Layer, which is why Aqua-Typology souls anchor these fields most easily.
-**Examples:** Affinity Fields · Aversion Nets · Severance Choirs · Magnus Opus Works
+**Examples:** Affinity Fields · Aversion Nets · Severance Choirs · Magnum Opus Works
 
 ---
 

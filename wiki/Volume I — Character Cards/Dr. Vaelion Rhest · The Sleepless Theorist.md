@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ae-a271-c9b33f8cb6eb"
 notion_url: "https://app.notion.com/p/Dr-Vaelion-Rhest-The-Sleepless-Theorist-3d958200eb2281aea271c9b33f8cb6eb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:48:00.000Z"
+last_edited: "2026-09-26T08:43:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Dr. Vaelion Rhest · The Sleepless Theorist
 
+**Say it** · VAY-lee-on REST
 > *"Sleep is for the people who don't argue with Wellsprings."*
 
 ---

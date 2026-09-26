@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f8-bd12-ec4542c6e77f"
 notion_url: "https://app.notion.com/p/Dreambreaker-Field-The-Shattered-Midnight-3d958200eb2281f8bd12ec4542c6e77f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:34:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · He claims a stretch of ground and makes dream-logic and waking law disagree inside it, so nobody's aim, timing, or reading of their own cost can be trusted there.
+**Effect · The practitioner claims** a stretch of ground and makes dream-logic and waking law disagree inside it, so nobody's aim, timing, or reading of their own cost can be trusted there.
 **Cost** · He carries a flicker of his own field's contradiction while he holds it, and the ground remembers the distortion for a while after he lets go.
 **Limit** · Cannot be laid over a Domain already claimed, and a Titan's presence unmakes the claim outright.
 **Counter** · A grounding rune, a reality-lock invocation, or any unclaimed pulse strong enough to contest the Layer's recognition.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Derived by Aeldoris, from the concept of a zone where dream and waking physics collide, producing contradictions in distance, timing and motion.
+Self-derived by its author, from the concept of a zone where dream and waking physics collide, producing contradictions in distance, timing and motion.
 
 ---
 

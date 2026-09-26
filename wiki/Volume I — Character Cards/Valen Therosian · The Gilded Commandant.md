@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-812c-ac2a-f1de377cc177"
 notion_url: "https://app.notion.com/p/Valen-Therosian-The-Gilded-Commandant-3bd58200eb22812cac2af1de377cc177"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:41:00.000Z"
+last_edited: "2026-09-26T09:03:00.000Z"
 verification: null
 ---
 
 # Valen Therosian · The Gilded Commandant
 
+**Say it** · VAL-en theh-ROH-zee-an
 > *"We do not preserve crowns by bowing to the cries of the broken. We preserve them by reminding the world why they still wear gold."*
 > **DEAD CANON.**
 >

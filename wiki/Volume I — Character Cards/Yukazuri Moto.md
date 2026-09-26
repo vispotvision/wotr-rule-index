@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-819a-85aa-e413f7e15e73"
 notion_url: "https://app.notion.com/p/Yukazuri-Moto-3b158200eb22819a85aae413f7e15e73"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:12:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Yukazuri Moto
 
+**Say it** · yoo-kah-ZOO-ree MOH-toh
 **The Still Knife — She Who Reads the Wound Before the Strike**
 > *Moto of No House · The Quiet One · Ghost-Eyed Girl*
 
@@ -17,8 +18,9 @@ verification: null
 
 ## Identity
 
-| **Race / Lineage** | Human. **Mortal, unbloodlined** |
+| **As Of** | After the Moto lines were seated again at Kharven-Seat, alone in the ruin |
 |---|---|
+| **Race / Lineage** | Human. **Mortal, unbloodlined** |
 | **Age / Sex** | 50 · Female |
 | **Faction** | **None by oath.** Moto by blood only, **and even that she no longer answers to** |
 | **Location** | A cabin in the ruined Moto ancestral ground, alone, since Muken died. **She has not left it in any season that mattered** |
@@ -37,7 +39,7 @@ verification: null
 **Path** · Spirit 72% · Body 18% · Attraction 10%
 **Essence Typology** · Receptive Emitter — Somatic Sub-Class
 **Aether Class** · Unclassed (Class emerges at Glory). **Broadcasts outward, cannot fully close the channel**
-**Aether Index** · 480 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**
+**Aether Index** · 258.1 AU/s — *unchanged; she never overclocked, never had reason to* · **η 0.89**
 > **Crystal State.** Still clean, still uncracked — **but the stillness now reads differently.**
 >
 > A Crystal built to listen, in a place with almost nothing left alive to listen to, **has spent three decades listening to the land instead.**
@@ -58,7 +60,7 @@ verification: null
 **Durability** · 4 PJ shielding, Coagulatio passive / 180 GJ baseline
 **Speed** · Mach 2.8 burst / Mach 1.1 sustained — *untested at current age*
 **Range** · Melee to short, four-foot blade / **Perception 40 ft passive, 80 ft active** — now ambient across the ruin rather than tied to nearby bodies
-**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 480 AU/s · **η** 0.89
+**EU Reserve** · 3,100 EU · **Flux Density** 290 EU/g · **Output** 258.1 AU/s · **η** 0.89
 
 ---
 

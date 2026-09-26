@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f2-99ba-ce42acca6b3b"
 notion_url: "https://app.notion.com/p/Aeldoris-Vanthryx-The-Ruthless-3d958200eb2281f299bace42acca6b3b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:03:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Aeldoris Vanthryx · The Ruthless
 
+**Say it** · ayl-DOR-iss VAN-thriks
 > *"You confessed the moment you dreamed."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the hearing at Altherion, hunting in the northern states
 **Name** · Aeldoris Vanthryx. **Called** · The Ruthless. **Also** · White-Fanged Sleepreaver · Dreamless Baron · Lord of the Silent Hours.
 **Epithet** · He Who Writes Mercy in Ash. *See migration note; shared, unruled.*
 **Role** · **Independent Hunter. Former Guild Accord Enforcement. Dream-law executioner.**

@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-816d-8b90-d14e1e94cfd9"
 notion_url: "https://app.notion.com/p/III-Physical-Force-Part-Eleven-3d758200eb22816d8b90d14e1e94cfd9"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table", "War"]
-last_edited: "2026-09-26T03:50:00.000Z"
+last_edited: "2026-09-26T09:13:00.000Z"
 verification: "unverified"
 ---
 
@@ -174,7 +174,7 @@ Path modifiers apply *after* Temperance and Tier are calculated. The magnitude w
 
 ### Physical Force at the Boundaries
 
-**The Apotheosis Threshold.** Characters at EX+ who continue accumulating Crystal pressure do not advance in Grade. They begin producing outputs the Continuum's standard measurement framework struggles to quantify. At Zenith, Stage XIV, Physical Force is no longer assessed by conventional metrics. A punch from a Zenith-level practitioner does not deliver a quantifiable number of Joules. It delivers an event the local physics must accommodate. Conventional Joule ratings assume energy is a finite quantity interacting with matter by known law; Zenith-level force can locally alter those laws as a byproduct of delivery. The energy is real. The interaction is no longer standard.
+**The Apotheosis Threshold.** The Zenith rows in these tables sit beside the Grade ladder, not on it: each is keyed to a Stage, where every row above it is keyed to a stat range. At Zenith, Stage XIV, Physical Force is no longer assessed by conventional metrics. Revelation, Stage XV, keeps its EX+ Grade label, but its force goes unmeasured in the same way; the EX+ row marks where the lettered ladder ends, not a figure a Revelation practitioner is measured by. A punch from a Zenith-level practitioner does not deliver a quantifiable number of Joules. It delivers an event the local physics must accommodate. Conventional Joule ratings assume energy is a finite quantity interacting with matter by known law; Zenith-level force can locally alter those laws as a byproduct of delivery. The energy is real. The interaction is no longer standard.
 **The Hollow Floor.** Hollow-Grade output is indistinguishable from ordinary mortal capacity, below sixty Joules, a normal human fist at under twelve and a half metres per second. Most characters have already left it before entering the System, because the System does not begin tracking a soul until the Crystal has opened.
 **Overchannel Spikes.** The benchmarks above are sustainable output. Overchannel can temporarily spike Strike Force and Lifting Strength by **two to five times** the sustainable ceiling, depending on the Ardency Overchannel Sub-Stat's Grade and the character's tolerance for Crystal Fracture risk. Every Overchannel event deposits structural damage that must be healed through rest, alchemical treatment or Temperance advancement. A character who regularly Overchannels accumulates fracture density that eventually becomes permanent. Some fractures become architectural features. Most become liabilities.
 *Every Joule was earned. Every Newton has a name.*

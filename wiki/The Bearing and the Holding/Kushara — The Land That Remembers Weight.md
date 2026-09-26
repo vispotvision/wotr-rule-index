@@ -4,12 +4,13 @@ notion_id: "3d958200-eb22-816b-b1b5-ca90d76b68d9"
 notion_url: "https://app.notion.com/p/Kushara-The-Land-That-Remembers-Weight-3d958200eb22816bb1b5ca90d76b68d9"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-12T17:07:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: "unverified"
 ---
 
 # Kushara — The Land That Remembers Weight
 
+**Say it** · koo-SHAH-rah
 *The Land That Remembers Weight*
 > 🌐 An ancient Aether-dense supercontinent of desert, rainforest, savanna and rift, ruled from Kushara by eight houses, containing no elves or dwarves at all. Split out of *The Old World — The Western Wearing* by Isaac's ruling, 2026-09-12: this material was never the western quarter of the four-quarter ledger, it is a different landmass that had been carrying the wrong name.
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8189-b4e1-fc17e809c714"
 notion_url: "https://app.notion.com/p/The-Bearing-and-the-Holding-3b158200eb228189b4e1fc17e809c714"
 section: "Geography & the Four Quarters"
 tags: ["Trade & Economy", "Geography", "In-World Document"]
-last_edited: "2026-09-12T20:07:00.000Z"
+last_edited: "2026-09-26T14:18:00.000Z"
 verification: "unverified"
 ---
 
@@ -42,11 +42,15 @@ The heat ceiling's fall moved the constraint from the fire to **the vessel**, wh
 >
 > There is instead a continent-wide dependency on Essence supply for the most basic industrial functions, pumping and ventilation, which means a Wellspring disruption does not merely inconvenience a mining district. **It drowns it, and then it suffocates whoever went down to see why the pumps had stopped.**
 
-### The fifth obstacle, which nobody removed
+### The fifth obstacle, which fell last
 
-*The four above were removed and are therefore invisible. The fifth was not, and it is the reason the ledger has had to be revised.*
+*The four above were removed and are therefore invisible. The fifth held longest, and its removal is the reason the ledger has had to be revised.*
 **Traction.** An array is fixed infrastructure. It is fed from a vein or a main, it is tended in place, and **nothing that moves can be plumbed.** Weight Ablation lies to a rope about a load and supplies no motive power whatsoever. Spatial translation of ore was tried, costed and abandoned. So the problem of moving a great weight a long distance overland stayed exactly where it had been for eleven centuries: horses, and the road, and the weather.
-> **Which is why the only steam engine in the four quarters is on rails.**
+> **Which is why the railway is a main laid on its side.** Conduit is sealed into the bed between the rails, and the engine rides a hand's breadth above it and couples to it by Transference across the gap. Nothing burns and nothing boils, and there is no steam engine anywhere in the four quarters, on rails or off them.
+> 
+> *It is an Accord technology in every respect that matters: laid under a Board's charter, metered at every section, and cut from the signal box like a house at its junction.* **It solves the one obstacle Essence took longest to reach, and it solves it by carrying the tariff to every town on the line.**
+> 
+> The Logistics Division's position is that rail is a haulage convenience. **The Division has not yet costed what happens to a district when a line reaches it and the whole town goes on the meter in a single season.**
 >
 > It burns coal, it carries its own water, it answers to nobody's supply grade and it does not care what the local density is doing. *It is not an Accord technology and was not built by anyone the Accord would call an engineer.* **It solves the one obstacle Essence never touched, and it solves it for people who have never held a rank token.**
 >

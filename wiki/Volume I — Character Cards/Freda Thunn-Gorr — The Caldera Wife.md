@@ -4,11 +4,13 @@ notion_id: "3b358200-eb22-8103-9b93-d1b65bfbc84f"
 notion_url: "https://app.notion.com/p/Freda-Thunn-Gorr-The-Caldera-Wife-3b358200eb2281039b93d1b65bfbc84f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:05:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Freda Thunn-Gorr — The Caldera Wife
+
+**Say it** · FREE-dah THUNN-GORR
 
 ### The Caldera Wife · Shelf-Seat of the Thunn-Gorr
 
@@ -16,6 +18,7 @@ verification: null
 
 ### I. IDENTITY
 
+**As Of:** At Gorr-Keth, while her son works the Scourge of Hell
 **Full Name:** Freda Thunn-Gorr (née Freda Vaal-Kess)
 **Alias / Title:** The Caldera Wife (Gorr-Keth shorthand, spoken with respect rather than reduction)
 **Race / Lineage:** Hobgoblin — Non-Order lineage. The Vaal-Kess family is one of the Expanse's old civilian lines, shelf-island Hobgoblins who never entered the Crimson Order's martial structure. Their Stone-Blood expression runs warmer: deep brown to burnt umber rather than the Order's red-ochre, the Legion Etchings absent or vestigial, the eyes gold rather than brass. They are Hobgoblin. They are not soldiers. The distinction matters on the Expanse.

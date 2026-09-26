@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fd-bd46-fa749d2b18eb"
 notion_url: "https://app.notion.com/p/Tenebra-Ambush-Art-3d958200eb2281fdbd46fa749d2b18eb"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Draven closes the noise floor around himself, crosses eight metres in an instant, and arrives already mid-strike. *A quarry that was watching the space he left never sees the space he arrives in.*
-**Cost** · Essence draw shows as a mild drip from eyes and nose. No EU figure is documented on his sheet, so none is invented here.
+**Effect · The practitioner closes the noise floor** around himself, crosses eight metres in an instant, and arrives already mid-strike. *A quarry that was watching the space he left never sees the space he arrives in.*
+**Cost** · Essence draw shows as a mild drip from eyes and nose. No EU figure is recorded for it.
 **Limit** · Needs a shadow or dim zone to have a noise floor low enough to disappear into. Open daylight gives Tenebra nothing to hide inside.
 **Counter** · **The one angle his facets were not built for. Tenebra's** *own failure mode is aspect dependence; a viewer standing where he did not plan for returns a very bright signal.*
-**What nobody knows** · Why the Vorynn Bloodbind's cold-law lineage produced a Tenebra harmonisation at all, when every other Wellspring on his sheet traces cleanly to Caloria or Vectoria.
+**What nobody knows** · Why the Vorynn Bloodbind's cold-law lineage produced a Tenebra harmonisation at all, when every other Wellspring its author holds traces cleanly to Caloria or Vectoria.
 
 ### Codex line
 
@@ -34,7 +34,7 @@ verification: null
 ### FOW line
 
 **Governing Primary Stat** · Dexterity (358, A-Grade)
-**Sub-Stats** · Dexterity Silence (386, his documented peak) governing; Harmonics Suppression and Dominion Sense, the two Tenebra strengthens per current Wellspring law
+**Sub-Stats** · Dexterity Silence (386, its author's documented peak) governing; Harmonics Suppression and Dominion Sense, the two Tenebra strengthens per current Wellspring law
 **Stage floor** · Stage VI, Glory
 **Grade required** · A-Grade
 **Path gate** · Body
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Draven derived this himself, out of the same self-imposed trials of endurance and predatory pressure that carried him to Stage VI. It exists because a hunter of high-tier Wellspring-mutated beasts needed to close distance on something that could sense a straightforward approach long before he arrived.
+Its author derived this alone, out of the same self-imposed trials of endurance and predatory pressure that carried him to Stage VI. It exists because a hunter of high-tier Wellspring-mutated beasts needed to close distance on something that could sense a straightforward approach long before he arrived.
 
 ---
 
@@ -89,7 +89,7 @@ Draven derived this himself, out of the same self-imposed trials of endurance an
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, one crossing | 3% of full reserve | 1,554 to 28,830 EU |

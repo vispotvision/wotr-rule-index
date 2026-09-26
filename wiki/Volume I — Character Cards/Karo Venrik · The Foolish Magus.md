@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-81f9-b168-c92d2f23aa67"
 notion_url: "https://app.notion.com/p/Karo-Venrik-The-Foolish-Magus-3bd58200eb2281f9b168c92d2f23aa67"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:49:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
 # Karo Venrik · The Foolish Magus
 
+**Say it** · KAH-roh VEN-rik
 > *"What you forget, I'll become. Every soul leaves a sound, and I learned to reshape mine until it sang back."*
 
 ---
 
 ## I · Identity
 
+**As Of** · After the Siege of Epprenea, exiled from the Grove-Spired throne
 **Name** · Karo Venrik.
 **Called** · The Foolish Magus. Echo-Binder of the Ma Sigil. **He Who Forgets Nothing and Is Believed by No One.**
 **Race** · High Elf, Eressean line.

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81f4-bb4b-d3c3c9906da8"
 notion_url: "https://app.notion.com/p/Ziyu-Pip-Inari-3bd58200eb2281f4bb4bd3c3c9906da8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
 # Ziyu "Pip" Inari
 
+**Say it** · DZUH-yoo ee-NAH-ree
 > *"You never see the snare until the flowers open."*
 > **The card states no Temperance Stage.** **Stage VII — Refraction assigned and flagged as originated**, on the strength of the Cycle: *he gains strength by planting "essence seeds" that later sprout into traps, bindings, or sensory wards.*
 >

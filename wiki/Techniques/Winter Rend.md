@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813d-b297-f3b326e2d610"
 notion_url: "https://app.notion.com/p/Winter-Rend-3d958200eb22813db297f3b326e2d610"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · **Mild numbness in his own arms afterward.** *The discipline exacts its toll on the hand that drew the cold through.*
 **Limit** · **Ineffective against insulated or flame-forged armor built to withstand a genuine thermal swing.**
 **Counter** · **A heat burst met head-on cancels the arc's cold before it lands, and rapid mobility simply outruns the two-metre reach before the arc closes.**
-**What nobody knows** · Why the cold rides the strike's own kinetic wake rather than radiating from Draven directly, the way every other cold-law working in the register does.
+**What nobody knows** · Why the cold rides the strike's own kinetic wake rather than radiating from the practitioner directly, the way every other cold-law working in the register does.
 
 ### Codex line
 
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one his own philosophy states: raw force alone does not crack a properly insulated or armored quarry in melee, so the cold has to travel with the strike instead of waiting to be applied after it. "Cold kills slower, but truer."
+Self-derived by its author during the Vorynn Trials. The problem it answers is the one that author's philosophy states: raw force alone does not crack a properly insulated or armored quarry in melee, so the cold has to travel with the strike instead of waiting to be applied after it. "Cold kills slower, but truer."
 
 ---
 
@@ -88,7 +88,7 @@ Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answe
 
 ### Essence
 
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, its author's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, one sweep | 8% of full reserve | 4,144 to 76,880 EU |

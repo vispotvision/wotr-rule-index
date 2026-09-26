@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8137-90e5-fc53d6a06e7c"
 notion_url: "https://app.notion.com/p/Auric-Parallax-Veil-3d958200eb22813790e5fc53d6a06e7c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:32:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis parts a thin plane of refracting light and shadow across up to 60 m, and whichever of an event's already-possible outcomes she prefers becomes the one that happens; nothing new is conjured, only chosen.
+**Effect · The practitioner parts** a thin plane of refracting light and shadow across up to 60 m, and whichever of an event's already-possible outcomes she prefers becomes the one that happens; nothing new is conjured, only chosen.
 **Cost** · Holding several of her own possible selves in mind at once while the Veil stands leaves her disoriented and unfocused for a time; the Veil itself leaves thin fractures in her internal law-harmonics that need meditation or a Penance-aligned equilibrium rite to close.
 **Limit** · It cannot stabilize and destabilize the same stretch of space at the same time, and it cannot originate an outcome that was never a possible branch to begin with.
 **Counter** · A field that flattens probability or erases harmonic variance outright gives the Veil nothing to select between; more concurrent outcome-states than the Veil can hold overwhelm and shatter it.
-**What nobody knows** · Whether "the version reality already knows what it wants to be" is a fact about the world or a fact about Opalis; nobody has found a case where the two come apart cleanly enough to tell.
+**What nobody knows** · Whether "the version reality already knows what it wants to be" is a fact about the world or a fact about its author; nobody has found a case where the two come apart cleanly enough to tell.
 
 ### Codex line
 
@@ -43,7 +43,7 @@ verification: null
 
 ### Origin
 
-Auric Parallax Veil is Opalis's own self-derived technique and requires Stage XII; anyone who has not seen it meets it in full the first time it is used against them.
+Auric Parallax Veil is a self-derived technique and requires Stage XII; anyone who has not seen it meets it in full the first time it is used against them.
 
 ---
 

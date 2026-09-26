@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81d4-bf97-cea223727abf"
 notion_url: "https://app.notion.com/p/Cozbi-Mahuo-3b258200eb2281d4bf97cea223727abf"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:25:00.000Z"
 verification: null
 ---
 
 # Cozbi Mahuo
 
+**Say it** · KOZ-bee MAH-hoo-oh
 *The Ledger-Keeper · Harvester of the Moto Line · Card 24*
 > **Stage XIV Zenith. Level 500 of 500. Tier of Standing 8, Archmaster at η above 1.0** — he produces more coherent output than he spends, **the Continuum supplementing his expression as recognized law.**
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** Under Dhaerin's seal, after the crater beneath the ruined mountainside
 **Full Name** Cozbi Mahuo — *a First Compact name, reflecting his relationship to the inhabiting soul-population he carries, not a birth name*
 **Race / Lineage** Human, Mahuo line. **Multiple inhabiting souls under one sovereign identity**
 **Age** **Unclear by design** — decades of harvesting have outrun any simple count
@@ -155,6 +157,20 @@ Black hair worn loose, catching wind during combat. A cloak. **Black armoured sc
 
 ---
 
+### Voice
+
+**Notices first** · Blood and debt: whose son a person is, what his family took from the Mahuo, and who is watching the conversation. He crouches to look closer before he answers anything.
+**Sentence length** · Long and unhurried, clause laid on clause until the argument closes, then a short verdict to seal it ("A shame. It really is a shame.").
+**Contractions** · always, even in his coldest sentences.
+**Pet word** · "Arithmetic"; and when he concedes a point to an enemy, "I'll grant you that much."
+**Never says** · Sorry, cruelty, murder or any word that makes his work a moral question: it is correction, and he means it. He never raises his voice to threaten, never speaks his dead brother's name, and never tallies souls aloud; his constructs carry numbers as names, and the rest is arithmetic, not sums.
+**Stumbles** · Never. Every sentence arrives finished, and a compliment to an enemy lands with no performance in it.
+**Gloss rights** · Unlimited. He explains everything, palms up like a lecturer, because he believes no one else would follow the arithmetic otherwise.
+**Under stress** · Speed, the one crack in the calm: his short lines come fast, half a beat ahead of anything steadier, and he slips into the family plural ("We're leaving."). Wounded, the warmth flattens to plain orders.
+**In grief** · The lecturer goes and the younger brother of Sum-gol comes back: no arithmetic, no concessions, only "we" and the promise in its own words, make them remember what we were.
+**In joy** · The warmth holds its shape; the delight shows in a clap of the hands, a low laugh with no threat in it, and an enemy's full name drawn out syllable by syllable.
+**Sample line** · "It doesn't. I never claimed it did. I only claimed it made sense, which is a different thing entirely from claiming it was clean."
+
 ## XVI–XVII · Temperance and Fractures
 
 **I–VII** complete, decades past. **VIII Transcendence** — first true Domain, **the Ledger's earliest form.** **IX–XI** — Realm consolidation, terrain-imprinting law, **Dissonance survived with fractures integrated as features.** **XII Emanation** — *traits became local physics; the souring-Wellspring effect dates from at least here.* XIII Principality **—** the Ledger became a recognized structural feature rather than merely his doctrine.
@@ -205,7 +221,7 @@ His own line paid for it. The Old World came to count the Mahuo dangerous for wh
 Down in the clearing, he reached for his harvested spirits by reflex, and the seal tightened and took more of them. "I allowed myself to become too confident," he said to the moon. Forty-Five came for him. He told it to collect the fallen Zettari, and it carried Rengai away. No record says where.
 The seal still holds him. It never reached the dragon, whose dominion he had built into its own nature, or the lattice he had dressed as an extension of himself. In a crater under a ruined mountainside, he folded the merged dragon down into a man's shape and explained why. He called Dhaerin's working elegant, and there was no performance in it.
 Dova'Kan read one of his workings before it finished casting. Cozbi's voice sped up. It is the only time the record shows it. He stepped back and said, "Begin with the shred, then." The encounter is unresolved.
-His true body sits on the pedestal, and the Ledger works wherever his lattice has touched. His son is still kept unaware. His constructs stutter, and he cares for them. Sanctum Lux's Oracle weighs completed acts and returns no reading on his numbered works. The one Mahuo in that order who could explain why has met him once, and neither has filed a record of it. A report in the north holds him dead. It has not been ratified.
+His true body sits on the pedestal, and the Ledger works wherever his lattice has touched. His son is still kept unaware. His constructs stutter, and he cares for them. Sancta Lux's Oracle weighs completed acts and returns no reading on his numbered works. The one Mahuo in that order who could explain why has met him once, and neither has filed a record of it. A report in the north holds him dead. It has not been ratified.
 
 #### Ties
 

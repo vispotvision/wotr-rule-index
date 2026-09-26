@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-81b3-924f-e45ba808f85f"
 notion_url: "https://app.notion.com/p/Dabney-Corvalen-Olyss-The-Thorn-Petaled-3bd58200eb2281b3924fe45ba808f85f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:30:00.000Z"
 verification: null
 ---
 
 # Dabney Corvalen Olyss · The Thorn-Petaled
 
+**Say it** · DAB-nee kor-VAH-len OH-liss
 > *He asked at five whether there was a way to be more careful and was told to slow down and said no, not slower, more careful, and nobody had an answer for him and nobody has one now.*
 
 ---
 
 ## I · Identity
 
+**As Of** · The Arena duel, seven days before the tournament
 **Name** · Dabney. **Surname** · pending Isaac. **Called** · nothing yet; the absence is the point.
 **Age** · Thirteen. **Origin** · The Palatinate, Holy Sea of Alabaster. **Affiliation** · None formal. Ward of Edward Lambert. Trained by Darius Ignatius Sanctus Sanctorum Arsenal for seven years. About to enroll at the Academy.
 **Stage VI · Glory** · **Level 105** · **Band II · Awakened.**

@@ -4,12 +4,13 @@ notion_id: "3bc58200-eb22-8126-a4a6-ee83c8b22d3e"
 notion_url: "https://app.notion.com/p/The-Moto-Origin-The-Western-Reach-3bc58200eb228126a4a6ee83c8b22d3e"
 section: "The Moto Bloodline"
 tags: ["Bloodlines", "Lore & History"]
-last_edited: "2026-09-10T11:23:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
 # The Moto Origin — The Western Reach
 
+**Say it** · MOH-toh
 *The western reach of the northern shield.*
 > **Ruling in effect.** The Moto origin is **the western reach of the Inner World's northern shield. Not the Old World.**
 >

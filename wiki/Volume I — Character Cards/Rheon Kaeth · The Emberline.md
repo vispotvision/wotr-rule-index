@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817b-adbe-e004ce3d6cc8"
 notion_url: "https://app.notion.com/p/Rheon-Kaeth-The-Emberline-3d958200eb22817badbee004ce3d6cc8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Rheon Kaeth · The Emberline
 
+**Say it** · RAY-on KAYTH
 > *"Some men heal. I just cool down."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Firefront clean-up
 **Name** · Rheon Kaeth. **Called** · The Emberline, among old comrades.
 **Role** · **Retired Accord soldier, discharged. Survivor of the Firefront Collapse. Maintains Guild outposts and trains younger recruits in emergency containment.**
 **Type** · Mortal, discharged veteran. **Era** · Withering Era. **Realm of origin** · Praetorian March *(struck polity; carried as the card's origin).*

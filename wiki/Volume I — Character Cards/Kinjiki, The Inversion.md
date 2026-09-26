@@ -4,18 +4,20 @@ notion_id: "3df58200-eb22-816a-b489-cba6b2aa6ef9"
 notion_url: "https://app.notion.com/p/Kinjiki-The-Inversion-3df58200eb22816ab489cba6b2aa6ef9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Kinjiki, The Inversion
 
+**Say it** · kin-JEE-kee
 > *"I am going to pick up the pen. I am going to read every line. And I am going to cross out everything that was not meant to be there."*
 
 ---
 
 ### I. Identity
 
+**As Of** · Two threads released, the medallion still untested
 **Name** · Kinjiki. **Title** · **The Inversion.** *Alias:* **The Unfinished Draft.**
 **Race** · **Ashkaru.** Pre-Planar creation of Bairos, the First Epoch. Not a mortal race. A living editorial instrument, stranded.
 **Affiliation** · None current. Former function: deep-text maintenance under Bairos. Current function: self-assigned.
@@ -81,7 +83,7 @@ verification: null
 
 ### VII. Aether Flow
 
-**EU Pool** · Estimated in the highest bracket for Stage XIV.
+**EU Pool** · In the highest bracket for Stage XIV.
 **Flux Density** · Extreme. Instruments in proximity redline and then stop registering.
 **AU/s** · Unmeasured. The Ashkaru do not draw from the Aetheric field the way post-Separation practitioners do. What looks like a draw is closer to the field remembering that his kind were there first.
 
@@ -198,8 +200,6 @@ No recorded Fracture Events. The pre-Planar hardware does not fracture on the po
 ---
 
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card and the record of The long memory. What those sources do not state is new here.*
 
 #### Origin
 

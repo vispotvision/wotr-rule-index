@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8162-aad7-d80b2a1e5b88"
 notion_url: "https://app.notion.com/p/Rafik-Al-Seren-The-Sapphire-Mirage-3d958200eb228162aad7d80b2a1e5b88"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Rafik Al'Seren · The Sapphire Mirage
 
+**Say it** · rah-FEEK al-SEH-ren
 > *"Truth is a mirage that survives only until someone believes in it."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the Ember Regent came out of the ash
 **Name** · Rafik Al'Seren. **Called** · The Sapphire Mirage.
 **Role** · **Dreamcaster. Wellspring Cartographer. Freelance Informant.**
 **Gloss rights** · Unlimited. He is a performer and a poet before he is anything the Accord has a form for, and he will translate his own tricks for the right audience or the right price.

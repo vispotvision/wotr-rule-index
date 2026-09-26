@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c5-869e-fdda2612badd"
 notion_url: "https://app.notion.com/p/Renjiro-Kaithen-The-Pale-Fang-3bd58200eb2281c5869efdda2612badd"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T08:57:00.000Z"
 verification: null
 ---
 
 # Renjiro Kaithen · The Pale Fang
 
+**Say it** · ren-JEE-roh KY-then
 > *"Steel cuts flesh, ash rots steel, but memory… memory rots the soul."*
 > **Stage corrected under the standing ruling.** The legacy sheet reads **"Stage IV — Ascension."** *Ascension is Stage III; Stage IV is Flourishing.* **Name wins — Stage III.**
 >

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f3-87a4-daf9467a1cc1"
 notion_url: "https://app.notion.com/p/Asaemon-The-Vestal-Vanguard-3d958200eb2281f387a4daf9467a1cc1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:46:00.000Z"
+last_edited: "2026-09-26T10:35:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Asaemon · The Vestal Vanguard
 
+**Say it** · ah-SAY-mon
 > *"True mercy isn't found in the healing of a wound, but in the absolute precision of the cut that prevents its return."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the review of Oriel
 **Name** · Asaemon. **Called** · The Vestal Vanguard. **Also known as** · The Gilded Surgeon, The Silent Pulse.
 **Role** · **Combat Medic. Precision Executioner.**
 **Gloss rights** · Diagnostic only. He explains a wound, never a working.

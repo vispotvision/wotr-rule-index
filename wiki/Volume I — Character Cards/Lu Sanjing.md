@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8105-939b-dec93181c777"
 notion_url: "https://app.notion.com/p/Lu-Sanjing-3e358200eb228105939bdec93181c777"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:08:00.000Z"
+last_edited: "2026-09-26T10:47:00.000Z"
 verification: null
 ---
 
@@ -12,13 +12,14 @@ verification: null
 
 ## Lu Sanjing
 
-*Scholar. Cited only, in The Night's Watch. Everything not stated in that scene is pending Isaac.*
+**Say it** · LOO sahn-JING
+*Scholar. Cited only, in The Night's Watch.*
 
 ### I · Identity
 
-**Name.** Lu Sanjing. Lineage-hall register (Chinese stratum). The scene places him writing "in his studio," which may point to a studio name (the scholar's slot); pending Isaac.
-**Standing.** A long and distinguished career. Living or dead: pending Isaac.
-**Level / Stage / Band.** Pending Isaac.
+**Name.** Lu Sanjing. Lineage-hall register (Chinese stratum). The scene places him writing "in his studio."
+**Standing.** A long and distinguished career.
+**Level / Stage / Band.** Not recorded.
 
 ### II · Soul Architecture
 

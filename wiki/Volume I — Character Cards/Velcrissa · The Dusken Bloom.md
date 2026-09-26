@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81f9-b1b1-ec9618cef5c7"
 notion_url: "https://app.notion.com/p/Velcrissa-The-Dusken-Bloom-3bd58200eb2281f9b1b1ec9618cef5c7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T09:04:00.000Z"
 verification: null
 ---
 
 # Velcrissa · The Dusken Bloom
 
+**Say it** · vel-KRISS-ah
 > **Corrected.** "Spirit / Shadow / Aether" were not Essence types. **"Noctis" is not among the sixty** — the nocturne current is **Nyxial.** Second of the Triune; read with Selantra and Virelsa.
 **Velcrissa, the Dusken Bloom** · Shadow binder, Temperance guide, spiritual mediator. Formerly Chair of Temperance Studies at multiple Facultas.
 **Catalyst · Stage IX, Invocation.** She stopped working alone. *The recorded pattern is relief, then something worse once the practitioner works out the relief was no longer being solely responsible — and that what they handed responsibility to did not sign anything.* **A woman who guides others through Wellspring transitions for a living is uniquely placed to recognise this, and did.**

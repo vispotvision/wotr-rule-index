@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8157-98b1-fb5719377286"
 notion_url: "https://app.notion.com/p/Cryost-Ascendant-3d958200eb22815798b1fb5719377286"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:34:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -15,14 +15,14 @@ verification: null
 ### Summary card
 
 **Effect** · Banks incoming kinetic, thermal, emotional, and Aetheric force as stored equilibrium, then discharges it as one decisive corrective act while the remainder bleeds off as harmless cold.
-**Cost** · The banked charge has to go somewhere on release; the wider the Bloom and the longer it holds, the colder Tovain runs afterward, and overbanking without a release risks his own body anchoring in place.
+**Cost** · The banked charge has to go somewhere on release; the wider the Bloom and the longer it holds, the colder the practitioner runs afterward, and overbanking without a release risks his own body anchoring in place.
 **Limit** · The field arrests vectors already in motion, it does not originate force of its own, so a still room gives it nothing to bank, and a demand to preserve motion and stillness at once degrades the lattice.
 **Counter** · A working that reads the reversion's shape before it completes can decline to let the bank finish, and a chaos-aligned or paradox-grade disturbance denies the field a stable pattern to arrest.
-> **What nobody knows.** Whether the "verdict" the field resolves toward is Tovain's own judgment or something the Crystal is selecting for him.
+> **What nobody knows.** Whether the "verdict" the field resolves toward is the practitioner's own judgment or something the Crystal is selecting for him.
 
 ### Codex line
 
-Wellspring Vohrin (primary; carried in current canon by an existing Kharven card for this same frost-stasis phenomenon, though not itself on the Sixty's own enumerated list), Family Caloria, Physics Domain Thermodynamics. Secondary Fixatio (Materia, Material Science) and Judicium (Fulguria, Electromagnetism), both already named by the source and both already canonical. Category Vectra. Craft Magicraft. Stage floor IX, Invocation. Grade required S-Grade (late push toward SS-Grade). Path gate Spirit Path.
+Wellspring Vohrin (primary; the Titan-derived frost-stasis current, outside the Sixty's enumerated list), Family Caloria, Physics Domain Thermodynamics. Secondary Fixatio (Materia, Material Science) and Judicium (Fulguria, Electromagnetism). Category Vectra. Craft Magicraft. Stage floor IX, Invocation. Grade required S-Grade (late push toward SS-Grade). Path gate Spirit Path.
 
 ### FOW line
 
@@ -30,7 +30,7 @@ Governing Primary Harmonics (Stability, Attunement) and Dominion (Radius, Sense)
 
 ### Origin
 
-Tovain Zethriel, "The Cryost Ascendant," is the technique's sole bearer; no derivation, teacher, location, or original problem is recorded.
+The technique has a single known bearer; no derivation, teacher, location, or original problem is recorded.
 
 ---
 

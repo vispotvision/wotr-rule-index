@@ -4,7 +4,7 @@ notion_id: "3d558200-eb22-8137-9996-cafd5d239b2f"
 notion_url: "https://app.notion.com/p/The-Imperial-Age-Aether-Infrastructure-3d558200eb2281379996cafd5d239b2f"
 section: "The Magic System"
 tags: ["Magic System", "Trade & Economy"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-26T14:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -60,9 +60,9 @@ Gunpowder is ordinary and old, and it is the reason armour did not die.
 
 ### VII. Rail, Wire and the Rest
 
-**Rail** exists, runs on ordinary steam, and is the reason the Boards matter beyond their own walls: a rail head brings coal, and coal means a district can be heated without drawing, and a Board facing a rail head negotiates differently.
-**The wire.** Signal along conductive line, Fulguria-adjacent, operated by clerks with no Crystal at all. **The wire is the first apparatus in the world's history that lets an ordinary person send something faster than a horse**, and its cultural effect substantially exceeds its technical one. The Accord does not control it and has said so, twice, in the tone of an institution that would like to.
-**Works and factories** run on trade supply and employ people who are not practitioners to operate processes that are. *A dye works uses Caloria at industrial scale by having thirty men each perform one licensed step badly.*
+**Rail** exists and runs on the main. A line is a main laid along a road and sealed into the bed between the rails, and the engine couples to it across a hand's breadth of air by Transference and burns nothing. **It is the reason the Boards matter beyond their own walls**: every town a line reaches is a town on somebody's tariff, and a Board with a line through its country negotiates with every station on it. City trams run the same way on a slot in the street; motorcars and airships carry charged cells filled at a cell-house off a trade main.
+**The wire.** Signal along conductive line, Fulguria-adjacent, operated by clerks whose Crystals have never woken. **The wire is the first apparatus in the world's history that lets an ordinary person send something faster than a horse**, and its cultural effect substantially exceeds its technical one. It is a Guild line at a Guild price, carrying information as a licensed commodity, and the Accord guards it in the tone of an institution that knows exactly what it knows exactly what it would lose. **In Guild offices and the richest houses of the great cities the same line carries a voice**, by telephone through a hand-worked exchange.
+**Works and factories** run their draw-engines on trade supply, raise no chimney, and employ people who are not practitioners to operate processes that are. *A dye works uses Caloria at industrial scale by having thirty men each perform one licensed step badly.*
 
 ### VIII. The People Who Tend It
 

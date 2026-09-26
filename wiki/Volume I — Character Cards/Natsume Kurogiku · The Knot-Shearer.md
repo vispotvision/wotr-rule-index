@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-812a-ad38-d17cf1afff7f"
 notion_url: "https://app.notion.com/p/Natsume-Kurogiku-The-Knot-Shearer-3bd58200eb22812aad38d17cf1afff7f"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T08:55:00.000Z"
 verification: null
 ---
 
 # Natsume Kurogiku · The Knot-Shearer
 
+**Say it** · nah-TSOO-meh koo-roh-GEE-koo
 > *"Stand still — I'll take in the anger and let the truth fall better on your shoulders."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned and flagged as originated**, on the strength of **Thread-Sight**: *she sees people's ties as fine cords — love, envy, duty — each with its own tension.*
 >

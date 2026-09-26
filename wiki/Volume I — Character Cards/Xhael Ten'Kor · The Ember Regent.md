@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b1-ad6b-d054fcbe1872"
 notion_url: "https://app.notion.com/p/Xhael-Ten-Kor-The-Ember-Regent-3d958200eb2281b1ad6bd054fcbe1872"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Xhael Ten'Kor · The Ember Regent
 
+**Say it** · ZAYL ten-KOR
 > *"I am no god — just a man who mistook light for salvation."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the envoys came down from Solfatara
 **Name** · Xhael Ten'Kor. **Called** · The Ember Regent.
 **Role** · **Exiled Sun-Prince. Dominion Arbiter. Walking Conflux of Molten Essence.**
 **Gloss rights** · Never. A monarch does not narrate his own workings, and a man carrying this much guilt does not perform explanations for an audience.

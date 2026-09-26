@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-810a-a09e-e6558a18f7ba"
 notion_url: "https://app.notion.com/p/Resonant-Divination-3d958200eb22810aa09ee6558a18f7ba"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:45:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: null
 ---
 
@@ -18,7 +18,7 @@ verification: null
 **Cost** · 0.5% of full reserve a turn for Bond Reading and Tracking, 1% for Fate Entanglement and Forecasting, 2% for Dissonance Warning; pressing a faint line doubles the rate.
 **Limit** · It reads relations, never a person, and returns a probability, not a prophecy; a masked, cleanly cut or Thick Veil bond degrades or misreads.
 **Counter** · A Thick Veil zone, decorrelation by Knot or concealment by Tenebra, a courier with no bonds, or a decision made in the morning, which leaves nothing to forecast.
-**What nobody knows** · What Izathen the Broken Lyre still hears, and whether the echo he is lost in carries anything besides his own tone.
+**What nobody knows** · What a diviner lost inside an Echo Fracture still hears, and whether that echo carries anything besides the diviner's own tone.
 
 ### Codex line
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · The third Applied Branch of the Harmonic Arts, rooted in the Second Epoch, when Parunic monks decoding glyph chants found that spoken phonemes carried measurable vibration. It was formalised in the same current as Thalos of Ira's Thaumic Harmonics and Aurevia the Echowright's proof that tonal work could fight; Izathen's Echo Fracture of 8,000 AF is the danger the whole discipline studies, and its curriculum since says not to block the spell but break the song.
-**Practitioners** · The Sonochoral Conclave, which serves the Concord with Dissonance Warning at institutional scale; Izathen the Broken Lyre; Genn Arkelos, a guild-certified Frequencywright said to have diagnosed leyline anomalies during the Imperial Convergences.
+**Origin** · The third Applied Branch of the Harmonic Arts, rooted in the Second Epoch, when Parunic monks decoding glyph chants found that spoken phonemes carried measurable vibration. It was formalised in the same current as Thaumic Harmonics and the proof that tonal work could fight; the Echo Fracture of 8,000 AF is the danger the whole discipline studies, and its curriculum since says not to block the spell but break the song.
+**Practitioners** · The Sonochoral Conclave, which serves the Concord with Dissonance Warning at institutional scale; guild-certified Frequencywrights, one of whom is said to have diagnosed leyline anomalies during the Imperial Convergences.
 
 ---
 

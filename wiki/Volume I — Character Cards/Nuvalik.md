@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8192-a22e-e9b9566111b9"
 notion_url: "https://app.notion.com/p/Nuvalik-3e358200eb228192a22ee9b9566111b9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Nuvalik
 
+**Say it** · NOO-vah-lik
 *Malphas's cell, Greyshaft Nine coldhouse. Butcher and anatomist of the ferment. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** The Greyshaft Nine coldhouse, the ninth hind going to the table
 **Name.** Nuvalik. Far-Northern stratum: a carried name that belonged to three people before her. She explained this to Vesk once and never again. Accord roll-name, if she has one, pending Isaac.
 **Origin.** Far-Northern.
 **Affiliation.** Malphas's cell.

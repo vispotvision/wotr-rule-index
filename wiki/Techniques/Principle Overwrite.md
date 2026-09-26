@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-812f-8204-e60adb869ede"
 notion_url: "https://app.notion.com/p/Principle-Overwrite-3d958200eb22812f8204e60adb869ede"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:39:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Francis isolates one Hermetic Principle within a five-kilometre radius and rewrites its behavior for roughly fifteen seconds of sustained declaration (cause running as effect, rhythm running as stillness, opposed polarities merging), forcing everything caught in the radius to answer to the new law instead of the old one.
+**Effect · The practitioner isolates** one Hermetic Principle within a five-kilometre radius and rewrites its behavior for roughly fifteen seconds of sustained declaration (cause running as effect, rhythm running as stillness, opposed polarities merging), forcing everything caught in the radius to answer to the new law instead of the old one.
 **Cost** · Two percent of his own memory bleeds out with every use, a standing toll rather than a training injury.
 **Limit** · One Principle at a time. Chaining multiple inversions in the same working risks paradox rather than compounding the effect.
 **Counter** · An Archonic verdict overrides the edit outright, and a Nihiloth-mediated null seal, a Talos-class cancellation field, can cancel the working before it takes.
-**What nobody knows** · Whether the 2 percent is drawn from the same memory each time, or whether Francis is slowly forgetting something in particular.
+**What nobody knows** · Whether the 2 percent is drawn from the same memory each time, or whether the practitioner is slowly forgetting something in particular.
 
 ### Codex line
 
@@ -41,7 +41,7 @@ Resonant Pair: None claimed; the source gives no paired Sub-Stat values to test 
 
 ### Origin
 
-The source card gives no deriver, location or originating problem, only that the technique belongs to Francis at Stage XIV Zenith. Per the named-inventor rule this absence is logged rather than filled in; nothing here should be read as Francis's own invention until a fuller record turns up.
+No deriver, location or originating problem is recorded, only that the technique belongs to a single known user at Stage XIV, Zenith.
 
 ---
 

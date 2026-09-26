@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8141-9f6c-ef6478934506"
 notion_url: "https://app.notion.com/p/Khaeron-Vant-The-Ember-Host-3d958200eb2281419f6cef6478934506"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:36:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Khaeron Vant · The Ember Host
 
+**Say it** · KAY-ron VANT
 > *"I am the altar and the knife. You only choose how much of you burns."*
 
 ---
 
 ### I · Identity
 
+**As Of** · Since the meeting over the Solfatara scar
 **Name** · Khaeron Vant. **Called** · The Bladeshrine of Cinerion. **Also known as** · The Mask-Bound · The Ember Host. **Epithet** · *He Who Makes Oaths Burn.*
 **Role** · **Abythron-Touched Executioner. Ash-Fire Ritualist. Vessel Learning to Judge Rather Than Only Burn.**
 **Gloss rights** · Unlimited. He speaks in aphorisms about what he does almost as often as he does it, and has never once declined to explain the altar he considers himself to be.

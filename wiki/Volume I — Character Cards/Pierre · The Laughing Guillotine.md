@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8176-bb9b-f4be074d847d"
 notion_url: "https://app.notion.com/p/Pierre-The-Laughing-Guillotine-3bd58200eb228176bb9bf4be074d847d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:34:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Pierre · The Laughing Guillotine
 
+**Say it** · pee-AIR
 > *"I don't tell the truth; I make it trip in front of witnesses."*
 > **Temperance corrected under the Benediction mapping.** The card reads **"Refraction → Benediction border."**
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Measure at Ironlink Hold
 **Name** · Pierre, **"the Laughing Guillotine."** *Alias:* **Harlequin of the Red Sleeve.**
 **Function** · **Court Fool / Interrogant.** *Panic-breaker when hired, riot-starter when bored.*
 **Affiliation** · **Freelance.** *Keeps an Arbitration pin he "borrowed" from Vireline and returns on holidays.*

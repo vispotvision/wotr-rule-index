@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8173-be05-e22b02540adb"
 notion_url: "https://app.notion.com/p/The-Magic-System-3b158200eb228173be05e22b02540adb"
 section: "Magic System"
 tags: ["Magic System", "Reference Table", "Open Rulings"]
-last_edited: "2026-09-26T04:33:00.000Z"
+last_edited: "2026-09-26T14:14:00.000Z"
 verification: "unverified"
 ---
 
@@ -206,3 +206,4 @@ Every Family has a terminal failure state. The early symptoms are indistinguisha
 - [Fracture of Worlds — The Living System](The Magic System/Fracture of Worlds — The Living System.md)
 - [The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions](The Magic System/The Working Vocabulary — Trade Jargon and Its Metaphysical Extensions.md)
 > **On the two.** Fracture of Worlds is machinery: Grades, Stages, Bands, Sub-Stats, Path gates. Almost none of it reaches the page. **The Working Vocabulary is the opposite** — what a fitter calls the pipe, what an assayer calls the flash, what a glasshouse calls a flaw — taken whole from real trades, extended to the metaphysical case by the people who work both, and inverted in cant. It exists so the world sounds worked rather than described, and so the metaphysics has somewhere to borrow from that is not the Codex.
+- [The Gate: Who May Learn Magic](The Magic System/The Gate Who May Learn Magic.md)

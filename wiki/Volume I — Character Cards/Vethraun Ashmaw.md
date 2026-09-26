@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81fc-b90e-fa46bf52d929"
 notion_url: "https://app.notion.com/p/Vethraun-Ashmaw-3b158200eb2281fcb90efa46bf52d929"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T10:24:00.000Z"
 verification: null
 ---
 
 # Vethraun Ashmaw
 
+**Say it** · VETH-rawn ASH-maw
 **He Who Swallowed the Inner World and Called It His Stomach**
 > *The Hollow Throne · Jaw of the First Age · He Who Ate the Sky's Name*
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## Identity and Core Profile
 
+**As Of** · In the Ossuary Caldera, six Wellsprings short of Sublimatio
 **Race / Lineage** · **Draconic Primordial**, descended from the emanational line of **Omnis, Skyfather of Draconis.** *The nearest a mortal lineage has drifted toward Titan without crossing the threshold.* **His blood carries the Titan-echo like a memory that has not forgotten it was once law.**
 **Faction / Era** · The Ossuary Sovereign Court, self-founded · **First Eon: before the Guild Accord, before any Concord had names**
 **Temperance Stage** · **Stage 10, Realization** — *the soul no longer negotiates with the world. It issues terms.*
@@ -63,7 +65,7 @@ Born with a Soul Crystal stratified in three layers: **Draconic Inheritance at t
 |---|---|---|
 | **Essence Capacity** | 9,400 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |
 | **Flux Density** | 310 EU/g | Chthonic-Pyraeon Flux penetrates **regardless** — *the way tectonic force does not ask permission to reshape coastlines* |
-| **Aether Output** | 780 AU/s | **A sustained-pressure engine, not a rapid-fire combatant.** *A river of stone: slow to begin, catastrophic at full flow* |
+| **Aether Output** | 282.1 AU/s | **A sustained-pressure engine, not a rapid-fire combatant.** *A river of stone: slow to begin, catastrophic at full flow* |
 | **Efficiency η** | 0.91 | Near-superconducting. **Collapses to 0.43 during Wellspring Overload without warning** |
 | **Attraction Scale** | SS-Tier Primordial Domain | **His aura reclassifies local environment.** Within 60 m at full expression, **the ground defers to his emotional state.** *Calm: minor tremors. Angered: it escalates* |
 

@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81ab-87c6-c888edd676ff"
 notion_url: "https://app.notion.com/p/Gimbzo-3b258200eb2281ab87c6c888edd676ff"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:05:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Gimbzo
 
+**Say it** · GIMB-zoh
 *The Anchor of Fate · Iron-Backed Gim · The Standing Verdict · Card 11*
 > ***He Who Refused to Move Even When the World Did***
 > 
@@ -19,9 +20,10 @@ verification: null
 
 ## I · Identity and Core Profile
 
+**As Of** The ash at Sum-gol, after the ninth hour of the fourteenth day
 **Race / Lineage** Moto, Archaic Bloodline — **First-Eon Generation, contemporary of Bara himself.** *One of the earliest sons born under the Hour Before Sequence.*
 **Faction** The Original Moto Conclave — **pre-chronological warrior caste**
-**Temperance Stage** **XII — Zenith, anchored permanently.** *His cultivation curve was severed mid-ascent and frozen by the Plane of Fate itself, refusing decay*
+**Temperance Stage** **XII — Emanation, anchored permanently.** *His cultivation curve was severed mid-ascent and frozen by the Plane of Fate itself, refusing decay*
 > The heaviest of Bara's earliest cadre — **a slab-shouldered, bull-throated Moto whose function within the Conclave was never reconnaissance, never command, never revelation.**
 > 
 > ***He was Anchor.*** When the first reality bent and threatened to spill its sequence, **Gimbzo set his heel and refused the bend.**
@@ -58,7 +60,7 @@ verification: null
 | **Essence Capacity** | **4.8 × 10¹⁴ EU** — *vast, but the volume sits low. He does not burn essence, he stores it, like a cistern. Endurance fights favour him absolutely* |
 |---|---|
 | **Flux Density** | 9.2 × 10⁶ EU/g — **blunt-force density of the highest order.** *His magic does not pierce, it crushes. Plate becomes paste, wards become powder, Domains feel the floor sag* |
-| **Aether Output** | 6.7 × 10¹⁴ AU/s — **slow casting cadence, but each Work lands with siege weight** |
+| **Aether Output** | 8.648 × 10⁶ AU/s — **slow casting cadence, but each Work lands with siege weight** |
 | **Efficiency (η)** | **0.94** — near-superconductor. *The Plane reclaims most of his bleed; he wastes almost nothing, because waste is, by his nature, a refusal he does not grant himself* |
 | **Attraction Scale** | **A-Tier · Settled Domain** — when he plants, **an invisible vertical column of weighted air drops over a ten-metre radius**, and *lesser combatants find their knees bending without command* |
 
@@ -79,9 +81,9 @@ verification: null
 **Living Ballast** · Passive — because he is partially Plane infrastructure, **ambient Hataraki in any battlefield he occupies redirects a fraction of itself through him.** *He grows stronger the longer reality unfolds around him.*
 | Discipline | Mechanic | Cost |
 |---|---|---|
-| **Tei no Kugi** *Pillar Nail* | Drives the butt-haft into the ground, **declaring his coordinate the *anchored sequence** *of the field. For thirty heartbeats, no opponent within 40m may benefit from teleportation, flicker-step, fate-skip, or temporal acceleration.* Particularly cruel against **Tengan prophets who rely on the next instant being theirs to claim*** | 3.2 × 10¹² EU |
-| **Tetsubun Otoshi** *Iron Verdict Drop* | Two-handed overhead cleave in a crossing scissor-arc. Coagulatio gathers his entire downward mass, **Monlithion ratifies the strike as a *structural sentence** *— and the blow lands not as edge-on-flesh but as a vertical column of binding judgment that crushes through wards, Domains and bone in one continuous motion.* Used only against defences **already ranked as exhausted by his Fate Ledger*** | 8.7 × 10¹³ EU |
-| **Yō no Soko** *Floor of the Yet-To-Be* | Seats himself cross-legged, palms to the ground. **The earth within a 200m sphere becomes** ***provisional Plane substrate*****.** Every opponent inside is briefly subject to the Plane's own laws: **vows become enforceable, lies become visible, and any technique depending on metaphysical lying-to-oneself begins to fail** | 1.1 × 10¹⁴ EU |
+| **Tei no Kugi** *Pillar Nail* | Drives the butt-haft into the ground, **declaring his coordinate the *anchored sequence** *of the field. For thirty heartbeats, no opponent within 40m may benefit from teleportation, flicker-step, fate-skip, or temporal acceleration.* Particularly cruel against **Tengan prophets who rely on the next instant being theirs to claim*** | 4.130 × 10⁴ EU |
+| **Tetsubun Otoshi** *Iron Verdict Drop* | Two-handed overhead cleave in a crossing scissor-arc. Coagulatio gathers his entire downward mass, **Monlithion ratifies the strike as a *structural sentence** *— and the blow lands not as edge-on-flesh but as a vertical column of binding judgment that crushes through wards, Domains and bone in one continuous motion.* Used only against defences **already ranked as exhausted by his Fate Ledger*** | 1.123 × 10⁶ EU |
+| **Yō no Soko** *Floor of the Yet-To-Be* | Seats himself cross-legged, palms to the ground. **The earth within a 200m sphere becomes** ***provisional Plane substrate*****.** Every opponent inside is briefly subject to the Plane's own laws: **vows become enforceable, lies become visible, and any technique depending on metaphysical lying-to-oneself begins to fail** | 1.420 × 10⁶ EU |
 
 > **Coordinate Adhesion** · *Every Pillar Nail roots him deeper. Three uses in one engagement and he cannot voluntarily leave the battlefield until the field collapses or another Moto loosens him with Tengan ritual.*
 >
@@ -121,6 +123,20 @@ verification: null
 
 ---
 
+### Voice
+
+**Notices first** · The load: where a man's weight is trying to go, what he is holding that he should be passing on, and what the ground under both of them already owns. He sees a student's mistake in the stance before he hears it in the answer.
+**Sentence length** · Long and loose. He rambles like an old master at his own fire, one clause running into the next on "and", circling back to a builder's picture (an arch, a keystone, a hinge) and laying the lesson on it stone by stone; then, when something truly matters, a single short line, or nothing.
+**Contractions** · always. "That's," "it's," "you've," "I'd," "don't": the easiest mouth in the old Conclave.
+**Pet word** · "Aye?", tacked onto the end of a thing he has just told you about yourself; and "that's all it is."
+**Never says** · The thing that matters most, until it is already true: he will not name a trial before it comes, will not give a number he does not know, will not use the later names for the Works, and after one sentence on the Fist of God he never speaks of it again. He does not count in exact figures; he says a handful, most of them, older than the wood.
+**Stumbles** · Never, though he wanders; his digressions always come home to the point.
+**Gloss rights** · Yes, for the Works and the labours, and always through the body and the building (stones, arches, loads and ground), never through the Codex's terms.
+**Under stress** · The rambling stops. What is left is short and flat ("You'll find out what that costs. Not today."), and on the thing that matters most he goes completely silent and plants the axe.
+**In grief** · Back to the First Eon: the oldest words, from before the mouths that named the labours, and the old Conclave cadence of a man who held a rim for more than a month and did not talk about it.
+**In joy** · The talk runs on the same as ever; the joy is in the body: the axe set down flat, a laugh up out of the barrel chest, the ground under him easing by a finger's width.
+**Sample line** · "An arch is two collapses leaning on each other. Two halves both trying to fall, and neither can, because the other one's in the road. That's all it is."
+
 ### Lore · The Life Behind the Card
 
 *Written 2026-09-24 by the character-lore pass from this card, the ten archived scenes it appears in, and the record of The Curia at Altherion. What those sources do not state is new here.*
@@ -144,8 +160,8 @@ He was never buried. The hafts of both axes were bandaged in linen taken from th
 The anchoring had a price. Each planting rooted him deeper. An anchoring held too long could make him inseparable from a coordinate of fate, and then he had to be loosened by a Tengan adept's rite or risk fossilising into the lattice permanently. The Plane reclaimed most of his bleed, and waste was a refusal he did not grant himself.
 One way through him ran along his own conviction. An opponent who could persuade his labour that the coordinate it gripped was unworthy of being held would collapse the Work inward. Bara is the only being known to have done it, and only as a teaching correction.
 In the ash he held no writ and charged nothing. Of sixty-one arrivals at his gate he taught four, the ones who asked his standing first. He opened the gate home for eleven. Nine took it. He held it against none of them. The other two became columns on the trunk above him. Twice he watched the seventh Work learn a man, and twice he dug what was left out of the root and Kizami cut the column.
-Darius Ignatius Sanctus Sanctorum, Archpaladin of Sanctum Lux, landed in the ash with four fractures in his Crystal. Gimbzo called him Weighing Man and offered him one labour, Balance. He named the seven with Ruin first, because before creation comes destruction. He called Darius's office a hinge that had bolted itself shut, and pressed until Darius said one true thing in anger. When Darius asked how long he would last, Gimbzo refused to give a number he did not know. An hour into the first lesson Darius reached for the arrest he had held open at the Bastion gate, and a fifth fracture began to ring. Gimbzo knocked him off the haft with the flat of Tsuiei. "Every man who's died in this wood died doing something that worked." Then came the arch. "An arch is two collapses leaning on each other." He told Darius his house held a man standing between two loads with his hands out, and did not say which.
-Over nine months he put all seven Works into Darius, with the matrix under them. He spent four of those months configuring the Fist of God, and said one sentence about it at the end of the fourth and never another. Twice Darius asked him to file it. Twice he refused: a thing worked wholly inside a body, he said, needs no register to tell it where it lives.
+Darius Ignatius Sanctus Sanctorum, Archpaladin of Sancta Lux, landed in the ash with four fractures in his Crystal. Gimbzo called him Weighing Man and offered him one labour, Balance. He named the seven with Ruin first, because before creation comes destruction. He called Darius's office a hinge that had bolted itself shut, and pressed until Darius said one true thing in anger. When Darius asked how long he would last, Gimbzo refused to give a number he did not know. An hour into the first lesson Darius reached for the arrest he had held open at the Bastion gate, and a fifth fracture began to ring. Gimbzo knocked him off the haft with the flat of Tsuiei. "Every man who's died in this wood died doing something that worked." Then came the arch. "An arch is two collapses leaning on each other." He told Darius his house held a man standing between two loads with his hands out, and did not say which.
+Over nine months he put all seven Works into Darius, with the matrix under them. He talked through most of those months, easily and at length, about arches and loads, the ash, the wood and wars nobody had written down. He spent four of the months configuring the Fist of God, and about that he said one sentence at the end of the fourth and never another. Twice Darius asked him to file it. Twice he refused: a thing worked wholly inside a body, he said, needs no register to tell it where it lives.
 
 #### Where They Stand
 

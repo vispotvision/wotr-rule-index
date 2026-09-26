@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-816e-ac0e-c28807f3a18d"
 notion_url: "https://app.notion.com/p/Kaalabad-3e358200eb22816eac0ec28807f3a18d"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,11 +12,13 @@ verification: null
 
 ## Kaalabad
 
+**Say it** · KAH-lah-bahd
 Sources: `scenes/commencement_of_the_curia_kujo_arc.md`, with corroborating detail from `scenes/sesk_the_report.md`. Prior scenes `kalaabad_star_crusher.md` and `kalaabad_the_petition.md` exist in the archive and are not drawn on here. **Spelling note:** the prose spells him *Kaalabad*; those two filenames spell him *kalaabad*. Which is canonical is **`null`** — this card follows the prose.
 Fields the sources do not establish are `null`. Anything originated is marked.
 
 ### I · Identity
 
+- **As Of:** The narrows, after Open Crucible, alive and advancing
 - **Name:** Kaalabad. No second element given. `null`.
 - **Rank:** **one of Kujo's generals.** The scene states it plainly — "whether Kaalabad could continue functioning after the world had" done its worst, measured as the performance of "his general."
 - **Age / origin / register:** not stated. `null`.
@@ -134,7 +136,7 @@ Something cracked him first. The tale never named it.
 
 #### The Making
 
-Azerack found him already cracked and gave him the Halberd of Zarakal. The weapon agreed with what was rotting in him. His Realm spread across Sum-gol and the Ketsuen frontier from a single point of failure until the failure was the whole territory, and the Tower of Zarakal rose at its centre. When the Realm drew back it left the Kept Vigil, still drawing on a debt nobody living had incurred. A joint working of the Accord and Sanctum Lux chained him, at a price neither body fully disclosed to the other. The chains outlasted every kingdom that helped forge them.
+Azerack found him already cracked and gave him the Halberd of Zarakal. The weapon agreed with what was rotting in him. His Realm spread across Sum-gol and the Ketsuen frontier from a single point of failure until the failure was the whole territory, and the Tower of Zarakal rose at its centre. When the Realm drew back it left the Kept Vigil, still drawing on a debt nobody living had incurred. A joint working of the Accord and Sancta Lux chained him, at a price neither body fully disclosed to the other. The chains outlasted every kingdom that helped forge them.
 He said later that he had been put somewhere quiet. The quiet came back out with him. It sat behind his teeth all day. It stopped in one hour only, the hour when there was blood on the floor and somebody in the room had understood what was happening to them, and he called that what he had instead of appetite. Kujo had brought him back. In Kaalabad's words, Kujo gave him the ground to stand on and the leave to be seen standing on it.
 What came back was very large and wrong in the proportions. The arms ran a knuckle long. The helm sat a few degrees off true. His voice came out strangled, each word pushed past something still in the way.
 Beneath Vaeloris he stood beside Corwin Sesk while the contractor reported, and when Sesk talked past the point of use, Kaalabad turned his head and looked at him. Sesk's chest stopped. For about four seconds the floor had a claim on him. Then Kaalabad set the halberd butt on the black stone and folded both hands over the head. "My lord," he said. "Let me expand your domain." He asked for the Mahuo first, "What is left of them," then the Valorin, and last the Zettari, when Kujo was ready. He wanted it established once, before witnesses who would run, that a Mahuo determination does not stop a body that has decided to keep moving. "I want to be the thing that continues." He asked that the killing be entered as a wage. A thing given ought to be used, he said, or the giving was an error.

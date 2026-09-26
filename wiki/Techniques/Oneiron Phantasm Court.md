@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8169-a195-db9497b2c710"
 notion_url: "https://app.notion.com/p/Oneiron-Phantasm-Court-3d958200eb228169a195db9497b2c710"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:39:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -15,10 +15,10 @@ verification: null
 ### Summary card
 
 **Effect** · The target's own dream-self rises behind them, unblurred by the waking mind's editing, and puts to them the thing they have been declining to know about themselves.
-**Cost** · **Identity Bleed.** Some of what the projection carries back is the target's, and Aeldoris keeps a fragment of it. **Dream Echo Fatigue** follows, showing as short-term memory gaps of his own.
+**Cost** · **Identity Bleed.** Some of what the projection carries back is the target's, and the practitioner keeps a fragment of it. **Dream Echo Fatigue** follows, showing as short-term memory gaps of his own.
 **Limit** · Only takes hold on a mind with an active subconscious and an actual unresolved contradiction in it. A mind at peace with itself, or with nothing behind the waking self, gives the working nothing to find.
 **Counter** · **A target with nothing there to confess: one whose** *conscious and undefended selves already agree returns no verdict for the Court to hand down.*
-**What nobody knows** · Why the confession, once mirrored back at Aeldoris himself, can destabilise him exactly as hard as it destabilises the target.
+**What nobody knows** · Why the confession, once mirrored back at the practitioner, can destabilise him exactly as hard as it destabilises the target.
 
 ### Codex line
 
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Aeldoris is the sole named practitioner, and the technique answers one problem: extracting a confession from a mind that will not give one voluntarily.
+It has a single known practitioner, and the technique answers one problem: extracting a confession from a mind that will not give one voluntarily.
 
 ---
 

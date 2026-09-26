@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8142-aedc-da580fdf8c04"
 notion_url: "https://app.notion.com/p/The-Faiths-of-the-Four-Quarters-3d758200eb228142aedcda580fdf8c04"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology", "Peoples", "Factions"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-26T10:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -19,7 +19,7 @@ The error to avoid is treating a faith as a set of propositions people assent to
 Three findings from how it worked in reality, and all three are already half-built into WOTR.
 **The house is the unit, not the building.** Domestic devotion carried most of the actual religious life of a pre-modern population. Almost every home held some object with ritual weight: a small altar, a shelf, a figure, an amulet, a marked doorpost. These ranged from finely made to cheap and mass-produced, and **the same practices spanned every social stratum**. The Sohai already runs on exactly this and says so: no congregation, no clergy in the ordinary sense, no building, and a kingdom's piety measurable by walking into its kitchens.
 **The vow is the transaction.** The lynchpin of ordinary religious practice was the vow between a person and a power: help me, and I will bring you a thing. The thing brought afterward is the votive, and votives were overwhelmingly ordinary objects, including models of the body part that was healed. Over time the petition itself moved into the home, with the shrine visit deferred until after the help arrived. **A world with Attraction Force in it, where a vow is structurally load-bearing, has a much sharper version of this and has never written it down.**
-**Petition is the natural default and every organised faith fights it.** People ask. They ask constantly, for specific things, in bad grammar, at objects. The Sohai bars petition outright and calls it a heresy. Sanctum Lux permits it and regulates the form. The Current is made of nothing else. **Where a faith sits on petition tells you almost everything about it.**
+**Petition is the natural default and every organised faith fights it.** People ask. They ask constantly, for specific things, in bad grammar, at objects. The Sohai bars petition outright and calls it a heresy. Sancta Lux permits it and regulates the form. The Current is made of nothing else. **Where a faith sits on petition tells you almost everything about it.**
 
 #### The template
 
@@ -38,13 +38,13 @@ Every faith below is written to the same six questions, and the last one matters
 **Moto. The oldest, the most demanding, and the smallest by headcount.** Built in full elsewhere; here is where it sits against the others.
 **Claim.** The Fourteen are crowned and the Works are older, and both are true, and the order matters. No Archon may be addressed alone because none operates alone.
 **Daily.** The Bow at the hinge, fourteen inclinations in emergence order, containing no request. Then the Labour: one concrete act in the character of one Archon's principle, performed by hands. The Weighing, the Discard, the Squaring, the Telling, and eleven more. Most households perform eleven of the fourteen without knowing they are performing anything.
-**Clergy.** None. The household is the unit. This is why the Moto have never built a temple and have never understood why anybody else does, and it is also why the Sohai has no institutional weight to bring against Sanctum Lux in any forum where institutions are what counts.
+**Clergy.** None. The household is the unit. This is why the Moto have never built a temple and have never understood why anybody else does, and it is also why the Sohai has no institutional weight to bring against Sancta Lux in any forum where institutions are what counts.
 **Heresies.** Singling, the elevation of one Archon. Petition, which converts the Bow into a transaction. The Empty Bow, observance without labour, held to be worse than neglect on the grounds that a man who has stopped bowing has at least stopped lying.
 **Cost.** Everything, quietly, daily, forever, with no ceremony and no audience. The Sohai asks more of an ordinary Tuesday than any other faith in the four quarters and offers nothing in return that can be pointed at.
 **Wrong about.** Its own immunity to Singling. The Kokan favour Totality, Totality is the Work most easily mistaken for a crown, and the house watches for this in itself precisely because it has already happened once and the record of when is not in Kharven.
 **On the calendar.** Auren's day in every month for the dead. Munahi is the one day the Bow is not performed, because there is no station to perform it at, and the house defends this vigorously against the obvious objection.
 
-#### Sanctum Lux, the Scale
+#### Sancta Lux, the Scale
 
 **The institutional faith of the Concord and the Accord's working partner.** Judicial in temperament, literate, propertied, and the only major with buildings, courts and a career structure.
 **Claim.** That the cosmos is weighable, that a thing's worth can be established by procedure, and that establishing it is a sacred act rather than an administrative one. Where the Sohai says a thing read correctly has been given its Work, the Scale says a thing weighed correctly has been given its due, and the difference between reading and weighing is the whole quarrel between them.
@@ -82,7 +82,7 @@ The votives are the tell. **Small objects left where a current runs close to the
 **Kharven. Regional, total within its region, and written throughout the Standing Inventory without ever having been called a religion.**
 **Claim.** *The sky does not ask whether you are ready.* Not a deity. A condition. The sky covers everyone, is indifferent, and outlasts every arrangement made under it, and the correct response to this is not worship but competence.
 **Daily.** The woodpile. *How's your stack* is a greeting, a diagnostic and an examination of conscience at once, and it is Thalen's labour worn down past recognition, and no northern clansman alive knows that. The night-stone. Meat-sharing. The first bowl to the one who cannot fill it themselves.
-**The dead.** The death-house, the Waiting, sky burial. *Gone to the sky.* A whole national institution devoted to sitting with the dead through a winter, performed by a people who believe they are being practical.
+**The dead.** The death-house, the Waiting, sky burial. *Gone to the sky.* A whole national institution devoted to sitting with the dead through a winter, performed by a people who believe they are being practical. Kharven-Seat is the one exception, and it is the city's own rite rather than the faith's: the Seat buries its dead in the ground, under cut stones in the upper burying ground, while everywhere else the faith still gives its dead to the sky.
 **Clergy.** None. Oaths are sworn by the sky and by the fire, and there is nobody to swear them in front of but everyone present, which is the point.
 **Cost.** It asks a household to be materially prepared at all times and treats unpreparedness as a moral failure rather than a misfortune. A man whose stack is low in the Thin Weeks has been judged before anyone has spoken.
 **Wrong about.** That competence is sufficient. It is a theology built by people for whom it usually was, in a place where it usually is, and the Thin Weeks it does not cover are the ones the proverbs go quiet about.
@@ -120,4 +120,4 @@ Researched rather than recalled.
 **Cult recruitment.** Interpersonal bonds are the essential mechanism, established quantitatively across several very different groups. Doctrine follows attachment rather than preceding it. Recruitment runs along existing networks and works most efficiently on people with few countervailing commitments, a condition the literature calls **structural availability**, and joiners are typically in a life transition and were introduced by somebody they already liked. Most new movements perish in obscurity for want of a recruitment network.
 **The three forms** are the standard typology: audience cults transmitting broadly with no membership, client cults built on a personal relationship between practitioner and client, and cultic movements demanding full commitment. Tithing, fundraising, communal living and separation from non-members are the documented commitment mechanisms.
 **The caveat, and it belongs on the page.** Nearly all of this literature describes one window, largely Anglo-American movements between the mid-1960s and mid-1980s, examined by sociologists arguing explicitly against the brainwashing accounts then current in the press, and that argument shaped which questions were asked. Within the model the friendship element has held up considerably better than the turning-point element, which was tested against other movement data and found weakly supported. The friendship finding is the one this page leans on.
-The Current, the Tally as a named religion, the Sky as a named religion, and all three cults are originated. Sohai and Sanctum Lux are summarised from existing canon and not altered.
+The Current, the Tally as a named religion, the Sky as a named religion, and all three cults are originated. Sohai and Sancta Lux are summarised from existing canon and not altered.

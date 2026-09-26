@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-817c-8fbe-c93f05d72feb"
 notion_url: "https://app.notion.com/p/Onawa-Ashkewe-3b258200eb22817c8fbec93f05d72feb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T10:25:00.000Z"
 verification: null
 ---
 
 # Onawa Ashkewe
 
+**Say it** · oh-NAH-wah ash-KAY-way
 *Queen of the Tsohanto · She Who Wears the Old Faces · The Ash-Crowned · Card 23*
 > **Grade A across every Primary Stat, uniformly.** *Nothing about her reads as an outlier build.*
 >
@@ -19,6 +20,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** The days after the yard at Korvaeth
 **Race / Lineage** Elven — **Tsohanto branch.** *Unaffiliated with Eresse or the Varrisak courts; a hidden forest-and-barrow culture that developed apart from both*
 **Age** Appears late twenties. *True age unrecorded — Tsohanto queens stop counting years at their coronation*
 **Standing** The Tsohanto Reach — **independent, Veil-adjacent, no Guild Accord standing**
@@ -187,7 +189,7 @@ Onawa Ashkewe is Queen of the Tsohanto, She Who Wears the Old Faces, the Ash-Cro
 She speaks unhurriedly, naming the feeling before the thing that caused it, and she states facts about death with the evenness other rulers keep for weather. Under strain she goes quieter. The fangs of the mask are the only thing that moves. The longer she goes without calling on the mask, the more plainly she speaks, and the ceremonial register returns within a sentence of putting it back on.
 For a mile around the Long Barrow the ground has the stillness of a place already grieved for, and it keeps that stillness whether she tends it or not. Enemies there find their own dead easier to think about than the fight in front of them. Allies find old fears easier to set down. The Tsohanto dead need no summoning to notice a threat to their queen. Something in the tree line always notices first.
 In the days after the yard at Korvaeth, where the New World's war began, every barrow-ground east of the Vessel line took on that same stillness. It holds with nobody maintaining it. The Reach has gone quiet without going hostile and without declaring, and no Tsohanto delegation has come to a hall of either party since.
-Whatever the tree line noticed, the Reach has not said.
+The Empress of Eresse who knelt in that yard was also called Onawa. The Reach's silence is the Tsohanto's answer to the shared name.
 No sovereign has yet stood as her witness among her peers. Her mother's death is the first of her griefs, and she has not finished carrying it. She has never taken the mask off entirely. Nobody has seen who is underneath it, uninherited, and the Reach still does not know whether the crownwise mask is strength or a wound left open.
 
 #### Ties
@@ -196,3 +198,4 @@ No sovereign has yet stood as her witness among her peers. Her mother's death is
 - **Her mother** · the mask's wearer before her. Onawa spoke no borrowed word at her funeral and has not finished mourning her.
 - **The raven** · bonded, unnamed by design. Killing it would strike back into her own skull.
 - **Every prior wearer of the First Ash Mask** · the ancestors she carries. Each chose to be carried, and each comes through the mask alone.
+- **Onawa · Empress of Eresse** · a different woman who shares her name. The Reach has answered the sharing with silence since the yard.

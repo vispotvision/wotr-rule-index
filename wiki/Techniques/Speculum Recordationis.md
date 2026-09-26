@@ -1,16 +1,16 @@
 ---
-title: "Speculum Recordatio"
+title: "Speculum Recordationis"
 notion_id: "3d958200-eb22-81b9-9e88-e851542e031d"
-notion_url: "https://app.notion.com/p/Speculum-Recordatio-3d958200eb2281b99e88e851542e031d"
+notion_url: "https://app.notion.com/p/Speculum-Recordationis-3d958200eb2281b99e88e851542e031d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:41:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: null
 ---
 
-# Speculum Recordatio
+# Speculum Recordationis
 
-## Speculum Recordatio
+## Speculum Recordationis
 
 ### Summary card
 

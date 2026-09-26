@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-814c-b9de-e80b157dae4d"
 notion_url: "https://app.notion.com/p/Edictum-Resonantiae-3d958200eb22814cb9dee80b157dae4d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:47:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Serenyra built it as the peak of her art, the last and most demanding of her four workings, once the other three were in hand.
-**Practitioners** · Serenyra
+**Origin · Its author built it as the peak of an analytic art, the last and most demanding of four related workings,** once the other three were in hand.
+**Practitioners · Its author alone**
 
 ---
 

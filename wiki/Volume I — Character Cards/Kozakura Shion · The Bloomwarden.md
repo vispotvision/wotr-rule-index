@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-815a-ad87-f599ab3d6297"
 notion_url: "https://app.notion.com/p/Kozakura-Shion-The-Bloomwarden-3d958200eb22815aad87f599ab3d6297"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T08:50:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Kozakura Shion · The Bloomwarden
 
+**Say it** · koh-zah-KOO-rah SHEE-ohn
 > *"I don't spare everything—I spare what lets you grow."*
 
 ---

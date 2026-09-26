@@ -4,13 +4,15 @@ notion_id: "3bd58200-eb22-8195-ab47-f388789beb53"
 notion_url: "https://app.notion.com/p/Basilio-Pavaret-The-Crimson-Bloom-3bd58200eb228195ab47f388789beb53"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Basilio Pavaret · The Crimson Bloom
 
+**Say it** · bah-SEE-lee-oh PAV-ah-ret
 > **Corrected.** "Wellspring of Emotion" and "Wellspring of Light" are not among the sixty. **Parun glyph affinities Lu and Ma** carried pending check against the Master Glyph Index. "Temperance Status: Active, Harmony-Focused" replaced with an actual Stage.
+**As Of** · The days after the Red Moon Night at the Calverne halt
 **Basilio Pavaret** · The Crimson Bloom. Painter of Lived Sorrows. Independent vampiric house, broken lineage.
 **Catalyst · Stage VI, Glory.** He accepted real soul-cost to preserve something above his own integrity — **the first Catalyst on the ladder that is a decision made in cold blood.** For Basilio it was the refusal to feed by force, taken once and held since.
 **Shell** Class II Harmonic · **State** Refined · **η** ~0.55 · **Path** Attraction dominant, Spirit secondary.

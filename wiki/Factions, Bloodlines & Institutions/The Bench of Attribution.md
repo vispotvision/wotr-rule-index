@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81a7-9a4c-e068982e590a"
 notion_url: "https://app.notion.com/p/The-Bench-of-Attribution-3b158200eb2281a79a4ce068982e590a"
 section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "Trade & Economy"]
-last_edited: "2026-09-10T11:21:00.000Z"
+last_edited: "2026-09-26T14:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,6 +20,7 @@ verification: "unverified"
 
 ## What the Bench Is
 
+**Where the Accord stands.** The Bench is older than the communion. It has sat for six centuries under the Codex, and its entries, strikings and reservations bind as law inside a signed circle. Outside one they bind by exclusion, which was most of their force before the first circle was signed and still is.
 The Bench of Attribution **is not a Division and has never been one.** It is a standing joint instrument of three Divisions that could not agree to give the function to any one of them, **and its entire procedure is the machinery of that disagreement operating at scale.**
 It rules on what a formula is, whether it may lawfully exist in commerce, what class of material a given lot actually contains, and who is permitted to hold the result.
 > Those four questions govern the alchemical economy, and the alchemical economy governs everything the Crown does not own outright.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8185-a08e-c5f442a6b44d"
 notion_url: "https://app.notion.com/p/Mugen-no-Hatsurugi-3d958200eb228185a08ec5f442a6b44d"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:28:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: null
 ---
 
@@ -16,10 +16,10 @@ verification: null
 
 ### Summary card
 
-**Effect** · Muken projects a weapon he has lawfully held, named, inherited, or correctly defeated from his own body, arriving in his hand as though it had always been there rather than being drawn or summoned.
-**Cost** · Roughly 45,000 EU per arrival, rising toward 90,000 EU for a weapon named against a significantly higher-weight opponent, in line with the per-exchange costs on his own attested technique sheet.
+**Effect · The bearer projects a weapon** he has lawfully held, named, inherited, or correctly defeated from his own body, arriving in his hand as though it had always been there rather than being drawn or summoned.
+**Cost** · Roughly 45,000 EU per arrival, rising toward 90,000 EU for a weapon named against a significantly higher-weight opponent, in line with the working's attested per-exchange costs.
 **Limit** · Only weapons in the lawful ledger may arrive; cosmetic, stolen, or dishonestly acquired holdings are refused at the doctrinal level, and the ledger is built across a lifetime rather than assembled to order.
-**Counter** · A contest of the holding's lawfulness, in the moment, stalls the delivery, since Anamnesis will not ratify a claim it cannot verify. Against a Domain enforcing a single discipline, the enforcement clause must answer each named blade individually and a narrow Domain runs out of clauses by the seventh while Muken is still naming the eighth.
+**Counter** · A contest of the holding's lawfulness, in the moment, stalls the delivery, since Anamnesis will not ratify a claim it cannot verify. Against a Domain enforcing a single discipline, the enforcement clause must answer each named blade individually and a narrow Domain runs out of clauses by the seventh while the bearer is still naming the eighth.
 **What nobody knows** · Whether a blade retired from the ledger for a dishonestly acquired holding can ever be lawfully re-earned, or whether the forge's refusal is permanent once a lie about the ledger is recorded against a name.
 
 ---
@@ -31,9 +31,9 @@ verification: null
 **Physics Domain** · Material Science, primary.
 **Category** · Mnemata primary (Anamnesis's natural partner category, memory and historical-imprint law given a working body), Vectra secondary for the delivery itself.
 **Craft** · Magicraft. The projection is bodily rather than spoken, written, or poured.
-**Stage floor** · Stage X, Realization, matching Muken's own attested Temperance Stage.
+**Stage floor** · Stage X, Realization, matching its bearer's attested Temperance Stage.
 **Grade required** · SS-Grade, the ceiling Stage X permits.
-**Path gate** · Body Path, primary, matching the 60% Body weighting on his own sheet.
+**Path gate** · Body Path, primary, matching its bearer's 60% Body weighting.
 
 ---
 
@@ -43,14 +43,14 @@ verification: null
 **Sub-Stats** · Dominion Gravity, Gnosis Analysis, Gnosis Retention, Resilience Anchoring.
 **Stage floor** · Stage X, Realization.
 **Grade required** · SS-Grade.
-**Path gate** · Body Path, primary; Attraction Path, secondary, consistent with the 25% Attraction weighting on Muken's own sheet.
+**Path gate** · Body Path, primary; Attraction Path, secondary, consistent with its bearer's 25% Attraction weighting.
 **Resonant Pair · None.**
 
 ---
 
 ### Origin
 
-Muken Moto's own work, drafted across a hundred and twenty days of instruction on the Plane of Fate, and ratified by neither Bara nor Gimbzo, which makes it his alone. As a self-derived, unratified technique, it has to be read live in an exchange before it kills, and anyone who studies a documented use of it afterward gains standing counterplay against it that its first opponents did not have.
+A Moto's own work, shaped across a hundred and twenty days of instruction on the Plane of Fate and ratified by neither the line's founder nor any of its elders, which makes it its author's alone. As a self-derived, unratified technique, it has to be read live in an exchange before it kills, and anyone who studies a documented use of it afterward gains standing counterplay against it that its first opponents did not have.
 
 ---
 

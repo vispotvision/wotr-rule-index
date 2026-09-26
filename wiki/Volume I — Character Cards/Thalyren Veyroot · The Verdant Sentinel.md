@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8161-81e9-fe287a9e1928"
 notion_url: "https://app.notion.com/p/Thalyren-Veyroot-The-Verdant-Sentinel-3bd58200eb22816181e9fe287a9e1928"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T09:01:00.000Z"
 verification: null
 ---
 
 # Thalyren Veyroot · The Verdant Sentinel
 
+**Say it** · THAL-ih-ren VAY-root
 > **Invented Stage name.** The card reads **"Temperance Stage XI (Archonic Binding)."** *Archonic Binding is not among the sixteen; Stage XI is Dissonance.* Numeral stands.
 >
 > **And Lurien again** — *the Sacred Conclave of Lurien*, third instance in this batch. *"Verdure / Earthen / Spirit"* were not Essence types.

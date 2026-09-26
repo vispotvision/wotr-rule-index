@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d6-89ef-cd479f1a3251"
 notion_url: "https://app.notion.com/p/Invert-Eidolon-3d958200eb2281d689efcd479f1a3251"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -42,7 +42,7 @@ verification: null
 ### Origin
 
 **Origin** · Outside guild sanction almost everywhere it is known; fractured spiritbinders and Temperants pursue it for a closure ordinary progression will not hand them sooner. It first surfaced in the Twilight Concord, and the Wellspring Fracture of Nalisem in the Era of Calamity, when summoners lost control of several at once, is its worst remembered disaster.
-**Practitioners** · Karo Venrik, the Foolish Magus, said to have raised one by accident in his early trials; Thessan and her bound Anti-Eidolon Vel-Muriah; Silvantes Mournthresh of the Riven Choir; the Mirrorwake Ascetics; the Occultinarii of the Hollow Eye.
+**Practitioners · A self-taught magus said to have raised one by accident in his early trials; a spiritbinder who keeps her own Anti-Eidolon bound; an adept of the Riven Choir;** the Mirrorwake Ascetics; the Occultinarii of the Hollow Eye.
 
 ---
 

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8176-8c32-c208a6464190"
 notion_url: "https://app.notion.com/p/Rovhen-Talvasciel-The-Prettier-3bd58200eb2281768c32c208a6464190"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T08:58:00.000Z"
 verification: null
 ---
 
 # Rovhen Talvasciel · The Prettier
 
+**Say it** · ROH-ven tal-VAS-ee-el
 > *"You're almost divine. All I need to do is remove… everything wrong with you."*
 > **Stage corrected — "Stage VI — Refraction" in the legacy sheet; Refraction is Stage VII.** *The description is explicit Refraction imagery: "his Essence splits perception into symmetrical paths."*
 >

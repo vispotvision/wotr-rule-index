@@ -4,7 +4,7 @@ notion_id: "3dc58200-eb22-81d0-8cc0-cae6c69e8ff7"
 notion_url: "https://app.notion.com/p/The-Holy-Inquisition-3dc58200eb2281d08cc0cae6c69e8ff7"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T01:07:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -18,7 +18,7 @@ verification: "unverified"
 
 ## What the Inquisition Is
 
-The Holy Inquisition — **Ordo Sanctae Inquisitionis** in its own filings, stamped with the root glyph of Sanctum Lux that the mother order no longer recognizes as authorized — is a splinter body that broke from Sanctum Lux eleven years after Darius completed the post-Bastion architectural reforms. Its members call themselves the true inheritors of Sadara Izayoi's mandate. Sanctum Lux calls them apostates. The Guild Accord calls them a rogue militant organization. The civilizations they have burned through call them nothing at all, because the civilizations they have burned through no longer exist.
+The Holy Inquisition — **Ordo Sanctae Inquisitionis** in its own filings, stamped with the root glyph of Sancta Lux that the mother order no longer recognizes as authorized — is a splinter body that broke from Sancta Lux eleven years after Darius completed the post-Bastion architectural reforms. Its members call themselves the true inheritors of Sadara Izayoi's mandate. Sancta Lux calls them apostates. The Guild Accord calls them a rogue militant organization. The civilizations they have burned through call them nothing at all, because the civilizations they have burned through no longer exist.
 They number between two hundred eighty and four hundred at any given count, depending on whether the Accord is counting membership or bodies in the field. The roster is deliberately fluid. Recruitment follows purification campaigns — the survivors who choose the mask over the pyre join, and those who refuse both options are not offered a third.
 The Accord has classified the Inquisition as an unlawful body and authorized enforcement action. That authorization has been standing for six years. The enforcement has not arrived, because the man who leads the Inquisition is a Stage XIII practitioner at Level 440, and the Accord does not possess enough Stage XIII practitioners to spend one on a fight that would cost them.
 
@@ -27,11 +27,11 @@ The Accord has classified the Inquisition as an unlawful body and authorized enf
 ## The Doctrinal Split
 
 The break was not sudden. It was a conclusion.
-Sanctum Lux under Darius holds that no one person may take a reading, interpret it, and act on it. The Ladder of Standing exists to distribute that authority across multiple hands, multiple grades, multiple examinations. Four hundred men burned at the Eclipse Bastion because Darius did all three alone and was correct. The lesson he drew from that was that correctness is not sufficient authorization.
+Sancta Lux under Darius holds that no one person may take a reading, interpret it, and act on it. The Ladder of Standing exists to distribute that authority across multiple hands, multiple grades, multiple examinations. Four hundred men burned at the Eclipse Bastion because Darius did all three alone and was correct. The lesson he drew from that was that correctness is not sufficient authorization.
 **The Holy Inquisition holds the inverse.** Their lesson from the Eclipse Bastion is that four hundred men burned because the apparatus was too slow to save them. Darius stood at the threshold and chose procedure over intervention. He weighed the lives against the cost and found the cost exceeded the saving. He was right, and they were dead, and the rightness did not survive the burning.
 Cassian Tiberius Cruor was not at the Eclipse Bastion. He was twenty years old when it happened and had never heard of it. He learned the story as doctrine, in the Attestant's hall, from a Lector who taught it as a triumph of institutional discipline. Something in the telling did not land.
 The split happened in the field. Cruor was a Measurewright, stationed at the Eresse chapter, and the reading he took — the one that broke him from the order — concerned a settlement that was being systematically emptied by a practitioner operating two Stages above anyone in Cruor's detachment. The Ladder demanded he file the reading, wait for a Lector, wait for the finding, wait for an Arbiter, wait for authorization. The settlement would have been gone by the time the authorization cleared the second desk.
-He did not wait. He killed the practitioner. He was correct. The settlement survived. Sanctum Lux stripped his standing the following week.
+He did not wait. He killed the practitioner. He was correct. The settlement survived. Sancta Lux stripped his standing the following week.
 The doctrine he wrote afterward — in a cell, before the tribunal that would exile him — runs to a single page, and every member of the Inquisition carries it on their person.
 
 ---
@@ -57,8 +57,8 @@ The doctrine he wrote afterward — in a cell, before the tribunal that would ex
 
 ### The Man
 
-Cassian Tiberius Cruor was born in the Concordance, third son of a family with no military tradition and no particular attachment to any chartered body. He entered Sanctum Lux at sixteen as an Attestant, advanced to Measurewright by twenty-three — unremarkably, by the order's own records — and served without distinction until the incident that produced his exile.
-What happened after the exile is the part that matters. Power came to him the way it comes to men who have stopped asking whether they deserve it: steadily, without plateau, and with no visible upper boundary. Between exile and founding he gained over three hundred Levels. Sanctum Lux's analysts have no model that accounts for the rate. The Accord's analysts have a model, and it involves a Catalyst Event they cannot identify and a Wellspring interaction they do not want to file publicly.
+Cassian Tiberius Cruor was born in the Concordance, third son of a family with no military tradition and no particular attachment to any chartered body. He entered Sancta Lux at sixteen as an Attestant, advanced to Measurewright by twenty-three — unremarkably, by the order's own records — and served without distinction until the incident that produced his exile.
+What happened after the exile is the part that matters. Power came to him the way it comes to men who have stopped asking whether they deserve it: steadily, without plateau, and with no visible upper boundary. Between exile and founding he gained over three hundred Levels. Sancta Lux's analysts have no model that accounts for the rate. The Accord's analysts have a model, and it involves a Catalyst Event they cannot identify and a Wellspring interaction they do not want to file publicly.
 
 ### The Scarring
 
@@ -68,8 +68,8 @@ The eyes survived. Deep-set under a brow ridge that the scarring has thickened, 
 
 ### Physical Description
 
-Cruor stands just above six feet, broad through the chest and shoulders from thirty years of martial practice that has not softened in exile. His armor is segmented dark plate, articulated at every major joint, the surface carrying golden filigree in patterns that trace the root glyphs of Sanctum Lux — [Ur], [Sel], [Va], [Hael] — recut in a grammar the mother order does not authorize. A half-cape of arterial red hangs from the left pauldron, the hem torn in a way that has become deliberate.
-His gauntlets are fully articulated golden plate, each finger joint sculpted to move independently, the knuckle-guards carrying Judica rites etched directly into the metal. The rites hold a faint luminescence in dim light. These are the gauntlets of an Inquisitor — the lateral office of Sanctum Lux authorized to pronounce sentence in the field without an Arbiter present. Cruor was never invested as one. He took them from the body of the last Inquisitor Sanctum Lux sent to bring him in.
+Cruor stands just above six feet, broad through the chest and shoulders from thirty years of martial practice that has not softened in exile. His armor is segmented dark plate, articulated at every major joint, the surface carrying golden filigree in patterns that trace the root glyphs of Sancta Lux — [Ur], [Sel], [Va], [Hael] — recut in a grammar the mother order does not authorize. A half-cape of arterial red hangs from the left pauldron, the hem torn in a way that has become deliberate.
+His gauntlets are fully articulated golden plate, each finger joint sculpted to move independently, the knuckle-guards carrying Judica rites etched directly into the metal. The rites hold a faint luminescence in dim light. These are the gauntlets of an Inquisitor — the lateral office of Sancta Lux authorized to pronounce sentence in the field without an Arbiter present. Cruor was never invested as one. He took them from the body of the last Inquisitor Sancta Lux sent to bring him in.
 
 ---
 
@@ -113,7 +113,7 @@ The Accord has documented the pattern across six confirmed incidents:
 
 ## Relations and Reputation
 
-Sanctum Lux regards the Holy Inquisition as its single greatest institutional failure. Darius has not spoken publicly about Cruor since the exile. Three internal memoranda indicate that Darius considers the Inquisition his personal fault — not because he created it, but because the exile that produced it was, by his own assessment, procedurally correct and substantively wrong.
+Sancta Lux regards the Holy Inquisition as its single greatest institutional failure. Darius has not spoken publicly about Cruor since the exile. Three internal memoranda indicate that Darius considers the Inquisition his personal fault — not because he created it, but because the exile that produced it was, by his own assessment, procedurally correct and substantively wrong.
 The Guild Accord has standing enforcement authorization and has not acted on it. The tactical calculus is not secret: a Stage XIII practitioner backed by three hundred practitioners of mixed Stage, operating from no fixed position, engaging only on terms of their choosing.
 > In the mouths of the faithful, the common. **The Burning Mandate.** In the mouths of the Accord: Rogue Body 7-C, unlawful, enforcement authorized, engagement not recommended. In the mouths of the dead: nothing at all.
 

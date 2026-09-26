@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-81b1-969c-fae081a7a00c"
 notion_url: "https://app.notion.com/p/Ara-Min-Mahuo-3b258200eb2281b1969cfae081a7a00c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T10:25:00.000Z"
 verification: null
 ---
 
 # Ara Min Mahuo
 
+**Say it** · AH-rah MIN MAH-hoo-oh
 *The Healer · Card 22*
 > **Grade B across the board, cleanly, matching Stage VIII's Coherence Band exactly.** Harmonics sits highest — *not by a wide margin, just enough that anyone who has spent an hour in a room with her already feels it.*
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** Before Vaeloris, weighing the Sovereign's offer
 **Race / Lineage** Human — Mahuo court line, scholar-nobility, **sister to Kwon Mu-jin**
 **Age** 21 · **Sex** Female
 **Standing** Formerly of the royal court's healing wards, now itinerant alongside her brother's teaching circuit, **weighing an offer of marriage into the Zettari Sovereign's household**

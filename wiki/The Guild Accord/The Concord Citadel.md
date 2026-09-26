@@ -4,12 +4,13 @@ notion_id: "3b158200-eb22-81c4-9084-f14837c8b7fd"
 notion_url: "https://app.notion.com/p/The-Concord-Citadel-3b158200eb2281c49084f14837c8b7fd"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-08-03T20:42:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
 # The Concord Citadel
 
+**Say it** · the KON-kord SIT-ah-del
 *Filed under the Codex of Absolute Magical Law, Article XVI: "On the Heart of Law and the Architecture of Order."*
 > The Concord Citadel, called the **City of Latticeglass**, does not exist in one realm alone. **It is a nexus suspended between planes**, visible only to those bound to the Lattice. To mortals, a towering crystal spire encircled by radiant bridges of light. To spirits, **a song made structure.**
 >

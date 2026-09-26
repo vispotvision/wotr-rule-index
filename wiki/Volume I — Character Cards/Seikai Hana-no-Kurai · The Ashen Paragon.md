@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e3-b3ae-e9f0948ddd78"
 notion_url: "https://app.notion.com/p/Seikai-Hana-no-Kurai-The-Ashen-Paragon-3d958200eb2281e3b3aee9f0948ddd78"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Seikai Hana-no-Kurai · The Ashen Paragon
 
+**Say it** · SAY-ky HAH-nah-noh-koo-RY
 > *"I already paid. I paid everything. Stop asking me to pay again."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After Halvren's Pass, still believing herself human
 **Name** · Seikai Hana-no-Kurai. **Called** · The Ashen Paragon. **Also** · Hana-no-Kurai · The Null-Mourner. **Epithet** · She Who Buries Her Grief in Other People's Safety.
 **Role** · **Frontier Protector. Awakening Seikai Scion. Reluctant Bearer of a Right of Claim she does not know she carries.**
 **Gloss rights** · **Never.** Nobody explains what she is to her face. She would refuse the explanation if they tried.

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81c8-9f1d-f55ee2887c08"
 notion_url: "https://app.notion.com/p/Cael-Veridion-Bearer-of-the-Second-Sun-3bd58200eb2281c89f1df55ee2887c08"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T10:33:00.000Z"
 verification: null
 ---
 
 # Cael Veridion · Bearer of the Second Sun
 
+**Say it** · KAYL veh-RID-ee-on
 > *"You think the sun is distant. I carry it in my veins — and I decide when it rises for you."*
 > **The card states no Temperance Stage.** **Stage X — Realization assigned and flagged as originated**, on the strength of **Solar Arbitrament**: *Domains within earshot align their harmonic balance toward his words.*
 >
@@ -21,6 +22,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Since the Concord schism
 **Name** · Cael Veridion. **Titles** · **The Dawn-Brand.** Gilded Vein · **Bearer of the Second Sun.**
 **Role** · **Solar Ascendant. Divine Arbitrator. Fleshbound Vessel of Radiance.**
 

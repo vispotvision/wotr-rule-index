@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81c1-9825-cb96466d2933"
 notion_url: "https://app.notion.com/p/Final-Mercy-3d958200eb2281c19825cb96466d2933"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:35:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -16,7 +16,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · One point takes the whole of what he is carrying. What lands does not wound the target's body. It removes the target's claim to keep having one.
+**Effect** · One point takes the whole of what the practitioner is carrying. What lands does not wound the target's body. It removes the target's claim to keep having one.
 **Cost** · **The erasure is not selective.** *His own count puts the toll near four percent memory bleed per use, and there is no way yet found to choose which four percent goes.*
 **Limit** · **Cannot be used while Dirge Ascension is active.** *Whatever Ascension is doing to him, it is doing it with the same architecture Final Mercy needs, and both cannot have it at once.*
 **Counter** · **A Crystal with structurally little independent selfhood has very little for the working to seize.** *An externally Throne-anchored Crystal, the standing architecture documented for the Celestial Host, is already recorded as near-immune to identity-based Aether attacks for exactly this reason.*
@@ -50,7 +50,7 @@ verification: null
 
 ### Origin
 
-Francis built this himself. Its philosophy line, "True mercy is silence," is his own justification rather than a borrowed doctrine. As a self-derived working it is uncountered by anyone who has not watched him use it live.
+Its author built this alone. Its philosophy line, "True mercy is silence," is its author's own justification rather than a borrowed doctrine. As a self-derived working it is uncountered by anyone who has not watched it used live.
 
 ---
 

@@ -1,22 +1,22 @@
 ---
-title: "Symphonia Ascendant"
+title: "Symphonia Ascendens"
 notion_id: "3d958200-eb22-817d-99e8-e4c9a28e2e0d"
-notion_url: "https://app.notion.com/p/Symphonia-Ascendant-3d958200eb22817d99e8e4c9a28e2e0d"
+notion_url: "https://app.notion.com/p/Symphonia-Ascendens-3d958200eb22817d99e8e4c9a28e2e0d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:42:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: null
 ---
 
-# Symphonia Ascendant
+# Symphonia Ascendens
 
-## Symphonia Ascendant
+## Symphonia Ascendens
 
 ### Summary card
 
 **Effect** · Binds a polyphonic chord of sigils to a target's Essence pattern and, on their next offensive action, forces a misfire, a self-directed backlash, or a total refraction into harmless light or sound.
-**Cost** · Three uses in one scene raise a temporary tremor in her own resonance that costs her precision; for a while afterward she hears echoes of chords not yet played and not yet past, which makes fine work harder.
-**Limit** · She has to have heard or felt the target cast before the sigils have anything to link to, and it does not touch a purely mundane attack.
+**Cost** · Three uses in one scene raise a temporary tremor in the caster's own resonance that costs her precision; for a while afterward she hears echoes of chords not yet played and not yet past, which makes fine work harder.
+**Limit · The caster has to have heard** or felt the target cast before the sigils have anything to link to, and it does not touch a purely mundane attack.
 **Counter** · An Anchor Ward fixes the target's Essence paths in place before the sigils can take hold; a chaotic, non-repeating Essence pattern gives the sigils nothing consistent to grip.
 > **What nobody knows.** Why a rejected chord slides sideways instead of simply failing to resolve, when every other refraction in her repertoire either lands cleanly or does not activate at all.
 
@@ -30,7 +30,7 @@ Governing Primary Dominion (Sense, Radius) and Harmonics (Attunement). Stage flo
 
 ### Origin
 
-The source names Serenyra as the sole practitioner and names her instrument, the Aether Chord Staff, but gives no account of where or from whom she derived the technique, or what problem first required it.
+It has a single known practitioner, whose instrument is the Aether Chord Staff; where or from whom the technique was derived, and what problem first required it, is not recorded.
 
 ---
 

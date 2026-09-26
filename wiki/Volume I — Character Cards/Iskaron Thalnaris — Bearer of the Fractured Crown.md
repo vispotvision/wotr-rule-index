@@ -4,11 +4,13 @@ notion_id: "3bd58200-eb22-81fb-9d4d-cb0ca34046e5"
 notion_url: "https://app.notion.com/p/Iskaron-Thalnaris-Bearer-of-the-Fractured-Crown-3bd58200eb2281fb9d4dcb0ca34046e5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:46:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
 # Iskaron Thalnaris — Bearer of the Fractured Crown
+
+**Say it** · ISS-kah-ron thal-NAR-iss
 
 ### Bearer of the Fractured Crown · Creviceborne · Dissonance-Trapped · Age of Calamity
 
@@ -18,6 +20,7 @@ verification: null
 
 ### I. Identity
 
+**As Of:** After the second lattice on the steps
 **Full Name:** Iskaron Thalnaris
 **Alias / Epithet:** Bearer of the Fractured Crown
 **Race / Lineage:** Human — Creviceborne (exposure lineage, not blood lineage)
@@ -183,17 +186,16 @@ Near him, afterward, people found their certainty thinning. They reached for ang
 He took the rage for clarity. When anyone named it damage to him, he heard an argument for tolerating less.
 On the flood-basalt steps above the margin, the Bloodspine clan stood across his way. Near him their certainty thinned. They closed with him, and his hands opened them. On their chieftain, Gorrath, his hands found obsidian plate and did nothing. Gorrath drove both fists into the basalt, and the rupture ran down the joints between the columns. Molten chain-spikes came up through the cracks. Iskaron took it and kept coming. He was worse at the end of the fight than at the start.
 Then he stood still. A lattice formed above his head. Gorrath did not step back, and his clan stayed where he stood. The air over the steps went wrong. Sound came late. The columns came apart at their joints and fell, and Gorrath lived.
-Iskaron walked off the steps. He was slower for a week and did not sleep for three nights. Behind him the Fractured Crown lay over the basalt with the wounded Bloodspine inside it. It did not close when he left. A man inside it who reached for a way out found the working intact and unanswered. The dying could only be carried. Their chieftain would not leave the ground. Sinclair Mercer came onto the steps and took them one at a time. Zarron Mahuo cut the Crown from its edge, and its boundary took another shape. None of the wounded lived to the next morning. Iskaron was gone by then.
+Iskaron walked off the steps. He was slower for a week and did not sleep for three nights. Behind him the Fractured Crown lay over the basalt with the wounded Bloodspine inside it. It did not close when he left. A man inside it who reached for a way out found the working intact and unanswered. The dying could only be carried. Their chieftain would not leave the ground. Sinclair Mercer came onto the steps and took them one at a time. None of the wounded lived to the next morning. Iskaron was gone by then.
 
 #### Where They Stand
 
 Later in the same age he came up out of the margin again, onto another stretch of the steps. A deep resistance front held that ground, with Gorrath at its head. The fight went long. When Iskaron stopped moving, Gorrath sent the front back off the steps and stood there alone. The lattice formed, larger than it had been on the Bloodspine ground. The columns under Gorrath came apart at their joints. Gorrath lived again, and so did the front he had sent off the steps. Iskaron walked away down the margin.
 He stands with no realm and no faction. He was once a Scion of the Outer Crevice and is not now. The skin over his knuckles has not fully closed in years. He has never described the lattice. Witnesses who have seen it twice report it larger the second time, and Gorrath is one of them. The ground his Crown has lain on carries the set afterward. He speaks in short declarations. He never says perhaps.
-What he wants is to finish. He has never said what. He has met neither Zarron Mahuo nor Sinclair Mercer, who came onto the Bloodspine ground after him. Why the Crevice let him leave, nobody knows.
+What he wants is to finish. He has never said what. He has never met Sinclair Mercer, who came onto the Bloodspine ground after him. Why the Crevice let him leave, nobody knows.
 
 #### Ties
 
 - **Gorrath Bloodspine · The Magmaborn Juggernaut** · enemy. Iskaron killed the Bloodspine where Gorrath stood, and twice Gorrath has lived through the stillness and seen the lattice.
-- **Zarron Mahuo · The Arbiter of Unity** · counter, never met. Zarron cut Iskaron's Crown on the Bloodspine ground and read its maker from what it lacked.
 - **Sinclair Mercer · The Soul Devourer** · the one who came after. Sinclair took the dying his hands left inside the Crown; they have never met.
 - **Estrella of the Lattice Veil** · the Crevice margin. Her rite is for those the Crevice has marked, and they do not meet.

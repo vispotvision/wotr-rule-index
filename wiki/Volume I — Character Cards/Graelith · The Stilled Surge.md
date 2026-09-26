@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81ae-a572-f850f5bfff23"
 notion_url: "https://app.notion.com/p/Graelith-The-Stilled-Surge-3bd58200eb2281aea572f850f5bfff23"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T10:32:00.000Z"
 verification: null
 ---
 
 # Graelith · The Stilled Surge
 
+**Say it** · GRAY-lith
 > *"Noise is merely the writhing of the unbroken. I bring the quiet where all things come apart."*
 > **Same Archon error.** *"Silence (Archon of Melting)" — and Morphaene's sheet assigns Solution to the same "Archon of Melting," which is two different operations attributed to one non-existent Archon.* **Dissolution is genuine; Silence and Fermentation are not among the sixty.** *Re-sourced below.*
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · After the Broken Rivers
 **Name** · Graelith, **The Stilled Surge.**
 **Role** · **Nullification Vanguard. Fourth General of the Rot Host.**
 **Affiliation** · **Silent Knight of the Cauldron March.** *Malphas' Spell-Breaking Arm.*

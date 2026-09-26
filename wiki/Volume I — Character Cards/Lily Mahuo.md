@@ -4,12 +4,14 @@ notion_id: "3e058200-eb22-816d-b0aa-eeeb5b6499bd"
 notion_url: "https://app.notion.com/p/Lily-Mahuo-3e058200eb22816db0aaeeeb5b6499bd"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:07:00.000Z"
+last_edited: "2026-09-26T10:28:00.000Z"
 verification: null
 ---
 
 # Lily Mahuo
 
+**Say it** · LIL-ee MAH-hoo-oh
+**As Of:** Class X's first week, seven days before the tournament
 **Lineage:** Mahuo (Korean stratum). Daughter of Kwon Mu-jin and Frithia.
 **Age:** 14. A year and two months older than the twins.
 **Class:** X, Aetherion Academy.

@@ -4,18 +4,20 @@ notion_id: "3bd58200-eb22-81cc-9c21-ef8b1417e1bc"
 notion_url: "https://app.notion.com/p/Silas-Briarend-Wytherm-III-Gravebinder-3bd58200eb2281cc9c21ef8b1417e1bc"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:43:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Silas Briarend Wytherm III · Gravebinder
 
+**Say it** · SY-las BRY-er-end WITH-erm the THIRD
 > **Corrected.** The legacy "Path of Ritual Deathbinding" listed **Putrefactio (II), Cibation (IX), Dissolution (I), Calcination (XII)** with roman numerals implying an ordered sequence. **Dissolution and Calcination are Wellsprings. Putrefactio and Cibation are not** — they are Great Work operations, and the numbering does not correspond to anything in the register. **"Horoscopic Signature: Sh (Reflection)"** has been carried as a glyph reference pending check against the Master Glyph Index.
 
 ---
 
 ## I · Identity
 
+**As Of** · After the Caedor barrow
 **Name** · Silas Briarend Wytherm III. **Called** · Gravebinder of the Hollow Book. Warden of Rites Forgotten.
 **Standing** · Guild Accord, Sect of the Hollow Book. Silent Circle of the Eastern Barrowwrights.
 **Catalyst Event · Stage VII, Refraction.** Self-examination at depth revealed the fracture record, **and everything Splintering had promoted to a load path became visible, labelled, and impossible to un-see.** For a man whose discipline is reading the dead, being handed the ability to read himself was not a gift.

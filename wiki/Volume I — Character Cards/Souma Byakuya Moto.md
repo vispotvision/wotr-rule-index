@@ -4,12 +4,13 @@ notion_id: "3b258200-eb22-817f-b123-e09c3814a808"
 notion_url: "https://app.notion.com/p/Souma-Byakuya-Moto-3b258200eb22817fb123e09c3814a808"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:11:00.000Z"
+last_edited: "2026-09-26T10:26:00.000Z"
 verification: null
 ---
 
 # Souma Byakuya Moto
 
+**Say it** · SOH-mah byah-KOO-yah MOH-toh
 *The White Fang at the Threshold · Guardian of the Veiled Fang · The Blessed · Card 7*
 > *This card runs the older six-part template rather than the seventeen-section skeleton. Reproduced as written.*
 > 
@@ -19,6 +20,7 @@ verification: null
 
 ## Identity and Profile
 
+**As Of** At the Hidden Moto Village threshold, no successor yet trained
 **Epithet** *He Who Keeps the Fang from the Throat* · **Also known as** The Blessed · White Tiger of the Hidden Moto
 **Race / Lineage** Human, **Moto bloodline, Sacrament-marked** · **Age** 27 · **Sex** Male · **Status** Active
 **Faction** Hidden Moto Village · **the Way of the Sacrament**

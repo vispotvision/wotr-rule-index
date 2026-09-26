@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81f4-a05e-c613998ec7b2"
 notion_url: "https://app.notion.com/p/Ziyu-Pip-Inari-The-Two-Tailed-Cipher-3d958200eb2281f4a05ec613998ec7b2"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -12,6 +12,7 @@ verification: null
 
 ## Ziyu "Pip" Inari · The Two-Tailed Cipher
 
+**Say it** · DZUH-yoo ee-NAH-ree
 > *"You never see the snare until the flowers open."*
 
 ---

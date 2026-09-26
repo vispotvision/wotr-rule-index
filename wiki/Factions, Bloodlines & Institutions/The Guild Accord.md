@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-816a-bcc2-c148358fb25e"
 notion_url: "https://app.notion.com/p/The-Guild-Accord-3b158200eb22816abcc2c148358fb25e"
 section: "Factions, Bloodlines & Institutions"
 tags: ["Factions", "In-World Document"]
-last_edited: "2026-09-12T20:05:00.000Z"
+last_edited: "2026-09-26T14:11:00.000Z"
 verification: "unverified"
 ---
 
@@ -17,7 +17,7 @@ verification: "unverified"
 
 ## Preamble — The Nature of the Accord
 
-The Guild Accord is the supreme coalition of guilds, academies, and Orders united beneath the **Concord Codex** — a metaphysical treaty binding every Wellspring practitioner to law. Each oath sworn, each commission fulfilled, each judgment rendered echoes through the **Concord Lattice**: a living web of Essence signatures that records every deed, every betrayal, every act of mercy in harmonic permanence.
+The Guild Accord is the communion of guilds, academies, and Orders, signed circle by circle, united beneath the **Concord Codex**: a metaphysical treaty binding to law every Wellspring practitioner who swears to it. Each oath sworn, each commission fulfilled, each judgment rendered echoes through the **Concord Lattice**: a living web of Essence signatures that records every deed, every betrayal, every act of mercy in harmonic permanence.
 > Membership is not merely political. **It is spiritual.** To join the Accord is to offer a fragment of one's Soul Crystal to the Lattice, forever binding one's Essence to the Codex's truth.
 >
 > **The Crystal remembers what the mind forgets. The Lattice preserves what time would erode.**
@@ -26,6 +26,17 @@ The Guild Accord is the supreme coalition of guilds, academies, and Orders unite
 > **Read the Modern Era page first.** The covenant below is unchanged and so are the Divisions, the Tiered Path, the Commission Classes and the Black Concord. What has changed is the **register**: Lattice terminals, projected sigils, Aether credits and echo marks are rendered in the Draw Age as **the board, seal colours struck in wax, draughts and letters of credit, and entries in ink.** Nothing metaphysical is lost. The Lattice still records. It is not a screen, and nobody in the four quarters has ever seen a number floating in the air.
 >
 > The Modern Era page also carries what this codex never had: **where the Accord actually reaches**, the Divisions as rivals rather than colleagues, the politics of the High Concordant, the company and academy structures beneath the Guildmasters, and the great offices.
+
+---
+
+## Where the Accord Stands
+
+The Guild Accord is being made now, and it is being made in circles.
+Within living memory the guilds outran every charter written for them. Hunting monsters became a trade: parties hired by the posting, ventures subscribed in shares, bounties pinned to a board in any town with a hall. A seat that could post a board could raise a hall, and halls went up faster than crowns could license them or the Codex could reach them.
+**The Codex is old.** Its sealing is Year Zero of the Imperial reckoning, and the Citadel, the Divisions, the chancery's formulary and the Bench have run on it for seven centuries, in the Concord heartland and along the chartered routes, binding the practitioners who swore to it and the merchants who chose its courts. **The communion is new.** The Accord proper is the guilds, and the crowns they stand in, signing into the Codex together, one circle at a time.
+A circle is drawn and signed in a hall, its names read out one by one, and it binds its signatories under one seal and one body of law. **The first was signed in the lower hall at Kharven-Seat**, by Kharven, the Holy Sea of Alabaster, the Kingdom of Nalūn, and the stretches from the Brine crossing east to the marches of Sum-gol. Others are being argued over in halls and chanceries across the four quarters.
+**Where a circle has signed, the Articles and the Commission framework bind as law**: every hall inside it posts to one board, grades by the same Tiers, answers to the same Divisions and licenses hire by the same examination. **Where no circle has signed, they do not bind yet.** There the halls keep their own charters and their own boards, the chancery's courts sit for the parties who choose them, and the Articles are a custom a merchant may take or leave.
+And the ground is crowded with those who have not signed. **Holdout guilds** keep their own boards and their own grades, and some are older and richer than any circle. **Rival hunting companies**, chartered by a crown or by nobody, bid against the halls for the same bounties. **Unlicensed crews** work cheapest of all, take the postings no licensed party will touch, and are hired by every district that cannot pay a hall's fee.
 
 ---
 
@@ -98,7 +109,7 @@ Party Leaders hold full tactical authority but remain **metaphysically accountab
 
 ## The Culture of Duty
 
-Every Concord agent, from the lowest courier to the Chosen of the Codex, abides by a single maxim carved into every Guild Hall gate across every realm.
+Every Concord agent, from the lowest courier to the Chosen of the Codex, abides by a single maxim carved into every Guild Hall gate the Codex reaches.
 > 
 > > **Balance before Dominion.**
 >
@@ -112,6 +123,12 @@ Every Concord agent, from the lowest courier to the Chosen of the Codex, abides 
 
 The ranks and what they cost. The currency of remembrance and the nine ways a soul is unmade. The Division that is not named. The network that carries everything. The army bound by resonance rather than nationality. And the city that is not a city.
 > **The Modern Era page** is the newest and the one to open first if you are writing a scene rather than checking a rank.
+> 
+> **Reach.** Strongest on the New World's arc, chartered from nothing so that its chartered halls are not one jurisdiction among several but *the* jurisdiction, running the Accord's text by charter ahead of any circle, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
+> 
+> **The Concordant cannot leave the Citadel.** Everything reaches them through five Divisional Heads who each decide what is worth carrying up, so the office is not exercised, it is curated. And because an unsucceeded death stills the Vault, the Council will accept almost any nominee rather than risk a gap, which means the contest happens entirely before the death.
+> 
+> **Companies, academies and offices.** Master, Wardens and a self-appointing Court of Assistants; apprentice, freeman and liveryman, with entry to the freedom by patrimony, servitude or redemption. Academies teach and examine, societies elect and cannot be bought. And **an adventurer is somebody who ventures capital**, so a Commission is a venture with subscribers and shares, not a job with wages.
 >
 > **Reach.** Strongest on the New World's arc, chartered from nothing so that the Accord is not one jurisdiction among several but *the* jurisdiction, though the elven old-ground beside the arc carries four Eons of Eressean law the Accord did not displace; strongest in the island nations, which cannot survive exclusion for a season; strong across the Inner World; weak throughout the Old World. And the practical seam is the conduit, because the Accord's reach ends where the wire ends, so **every district the Withering cuts is a district the Accord quietly stops governing.**
 >

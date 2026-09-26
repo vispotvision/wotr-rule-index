@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81e9-bcdc-c85efef27225"
 notion_url: "https://app.notion.com/p/Wilhelm-The-Guardian-3bd58200eb2281e9bcdcc85efef27225"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T09:05:00.000Z"
 verification: null
 ---
 
 # Wilhelm · The Guardian
 
+**Say it** · WIL-helm
 > *"I am not permitted to hope. I am permitted only to endure. So endure I shall… until the silence is safe once more."*
 > **MECHANICA FLAG — and the Accord built him.**
 >

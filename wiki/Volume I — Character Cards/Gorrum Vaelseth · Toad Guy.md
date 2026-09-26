@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81f6-aa28-e288db32c9c8"
 notion_url: "https://app.notion.com/p/Gorrum-Vaelseth-Toad-Guy-3bd58200eb2281f6aa28e288db32c9c8"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:38:00.000Z"
+last_edited: "2026-09-26T08:46:00.000Z"
 verification: null
 ---
 
 # Gorrum Vaelseth · Toad Guy
 
+**Say it** · GOR-rum VAYL-seth
 > *"Frogs see the ripples long before the storm hits. Sit with me. We'll wait for the flies to come to us."*
 > **An invented Stage name — the third error class.** The card reads **"Stage IV (Blooming)."**
 >

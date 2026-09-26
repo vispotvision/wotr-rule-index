@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813c-a4f1-dd986f62009c"
 notion_url: "https://app.notion.com/p/Puppet-Dream-Marionette-3d958200eb22813ca4f1dd986f62009c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:39:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 
 ### Summary card
 
-**Effect** · He seeds a target already gripped by fear with their own escape-image, and the target's body performs it whether they will it or not.
+**Effect · The practitioner seeds** a target already gripped by fear with their own escape-image, and the target's body performs it whether they will it or not.
 **Cost** · His own frame echoes the motion he forces, and every use leaves panic residue on his Aether Shell that does not clear on its own.
 **Limit** · Only reaches a mind already afraid. A mind holding no fear gives him nothing to seed.
 **Counter** · A struck nerve, sustained discipline on the Spirit Path, or a lucid hold on one's own dream-logic all sever the thread before it completes.
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Derived by Aeldoris, from the concept of threading somnalic filaments into a target's subconscious so their limbs follow the panic-motions they imagine.
+Self-derived by its author, from the concept of threading somnalic filaments into a target's subconscious so their limbs follow the panic-motions they imagine.
 
 ---
 

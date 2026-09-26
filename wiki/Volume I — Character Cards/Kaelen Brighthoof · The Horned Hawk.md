@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-81e9-8087-faeef719c6e7"
 notion_url: "https://app.notion.com/p/Kaelen-Brighthoof-The-Horned-Hawk-3bd58200eb2281e98087faeef719c6e7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:37:00.000Z"
+last_edited: "2026-09-26T08:48:00.000Z"
 verification: null
 ---
 
 # Kaelen Brighthoof · The Horned Hawk
 
+**Say it** · KAY-len BRYTE-hoof
 > *"From up here, the wind carries every lie, every footstep, every chance to put an arrow where it matters."*
 > **Off-by-one slip.** The card reads **"Stage V (Flourishing)."** *Flourishing is Stage IV.* **Name wins — Stage IV.**
 >

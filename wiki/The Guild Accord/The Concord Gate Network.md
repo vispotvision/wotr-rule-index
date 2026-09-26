@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8125-b480-d3d9b1cfe547"
 notion_url: "https://app.notion.com/p/The-Concord-Gate-Network-3b158200eb228125b480d3d9b1cfe547"
 section: "The Guild Accord"
 tags: []
-last_edited: "2026-09-23T22:17:00.000Z"
+last_edited: "2026-09-26T14:12:00.000Z"
 verification: "unverified"
 ---
 
@@ -20,7 +20,7 @@ verification: "unverified"
 ## Origin of the Network
 
 The first Gates were forged during the **Withering Age**, when the mortal world fractured into isolated Wellspring territories. The High Concordant ordered the creation of the **Great Arches** — immense ritual structures capable of bending the Aether between distant points, built atop ley intersections and reinforced by the Titans' residual laws of gravity and continuity.
-When the Accord unified, these became **the first nine Concord Gates**, immortalized as divine constructs anchored by the Lattice itself. Every Gate thereafter was patterned on these originals.
+When the Codex was sealed, these became **the first nine Concord Gates**, immortalized as divine constructs anchored by the Lattice itself. Every Gate thereafter was patterned on these originals.
 
 ---
 

@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8128-a8ca-f6e571e9df2e"
 notion_url: "https://app.notion.com/p/Virelsa-of-the-Veilborne-Skies-3bd58200eb228128a8caf6e571e9df2e"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:42:00.000Z"
+last_edited: "2026-09-26T09:04:00.000Z"
 verification: null
 ---
 
 # Virelsa of the Veilborne Skies
 
+**Say it** · vih-REL-sah
 > **Corrected.** "Aether / Spirit / Shadow" were not Essence types. **"Mirage, Noctis, Lumen" are not Wellsprings** — though *Mirage* is a real Parun glyph, `[Et]`, Root, Kaetra, and one of the thirty carrying no Family and no Physics Domain. Third of the Triune.
 **Virelsa of the Veilborne Skies** · Exiled Matron of the Triune. Spirit-Weaver of the Fallen Fae. Formerly of the Fae Courts of the Higher Realms.
 **Catalyst · Stage X, Realization.** *The practitioner stops being the party that has to be accommodated.* **Divine relics still respond to her despite banishment**, which is not sentiment on the relics' part — it is the Continuum having already adjusted, locally and grudgingly, in a direction that does not reverse.

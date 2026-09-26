@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-813b-93b8-ee2dd9d5bfe3"
 notion_url: "https://app.notion.com/p/Ilmar-Foss-3e358200eb22813b93b8ee2dd9d5bfe3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:06:00.000Z"
+last_edited: "2026-09-26T10:29:00.000Z"
 verification: null
 ---
 
@@ -12,10 +12,12 @@ verification: null
 
 ## Ilmar Foss
 
+**Say it** · IL-mar FOSS
 *Malphas's cell, Greyshaft Nine coldhouse. Instrument-maker, struck from the Hexagonal Oath. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
 
 ### I · Identity
 
+**As Of** The Greyshaft Nine coldhouse, the ninth hind going to the table
 **Name.** Ilmar Foss. Register pending Isaac. Foss is the attested example of an Accord roll-name given to Far-Northern households (R23-11-ROLL*NAMES*FROM_ACCORD). If that is what his name is, he has a carried name the household uses that is not yet on the page.
 **Standing.** Struck from the Hexagonal Oath eleven years before the scene, for a thing he still calls, when drunk, a rounding convention.
 **Affiliation.** Malphas's cell.

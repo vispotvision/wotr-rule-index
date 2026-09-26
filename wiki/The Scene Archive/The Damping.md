@@ -4,7 +4,7 @@ notion_id: "3de58200-eb22-8109-884e-d46926e116fb"
 notion_url: "https://app.notion.com/p/The-Damping-3de58200eb228109884ed46926e116fb"
 section: "The Scene Archive"
 tags: []
-last_edited: "2026-09-17T19:27:00.000Z"
+last_edited: "2026-09-26T10:19:00.000Z"
 verification: null
 ---
 
@@ -80,7 +80,7 @@ The under-gardeners had gone back to work. Somewhere above them a small voice wa
 Darius Ignatius Sanctus Sanctorum stood on a wet step in the Palatinate approach with the light gone white for eleven feet around him and understood the whole of it at once, and did not enjoy any part of the understanding.
 *The Will. That is a street title and my order strikes it on sight, and I have had four hundred letters addressed to it and answered none, and Edward Lambert knows exactly what it is and used it anyway, in a garden, to a man he sent for.*
 *He is not flattering me. Edward has never flattered anybody in his life. He is putting the word in my hand and waiting to see which way I turn it.*
-*Because if the boy is the Paragon and I am the Will, then there is one office in the four quarters with standing to make a finding about him, and it is mine. Sanctum Lux holds permanent standing in the Enforcement Division and the Arbitration Division both. The Inquisition cannot move on a Paragon without a finding and the finding has to come from somewhere and there is exactly one qualified hand within a thousand miles of this garden.*
+*Because if the boy is the Paragon and I am the Will, then there is one office in the four quarters with standing to make a finding about him, and it is mine. Sancta Lux holds permanent standing in the Enforcement Division and the Arbitration Division both. The Inquisition cannot move on a Paragon without a finding and the finding has to come from somewhere and there is exactly one qualified hand within a thousand miles of this garden.*
 *He has not asked me to protect the child.*
 *He has asked the one man on this continent who is obliged to file.*
 "You understand what you have done," Darius said.

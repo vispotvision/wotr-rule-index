@@ -4,12 +4,13 @@ notion_id: "3bd58200-eb22-8114-8b85-ca79d709aae7"
 notion_url: "https://app.notion.com/p/Kaede-Suyori-Blue-Moth-3bd58200eb2281148b85ca79d709aae7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:40:00.000Z"
+last_edited: "2026-09-26T10:31:00.000Z"
 verification: null
 ---
 
 # Kaede Suyori · Blue Moth
 
+**Say it** · KAH-eh-deh soo-YOH-ree
 > *"You break fevers; I carry the heat away. Let me."*
 > **The legacy sheet states no Temperance Stage at all.** **Stage VII — Refraction assigned and flagged as originated**, on the strength of the field effect: *where Kaede stands, heat leaves the air and panic forgets its reasons.* **A standing region operating on the practitioner's terms is a Domain seed**, and Refraction is where the seed first activates.
 
@@ -17,6 +18,7 @@ verification: null
 
 ## I · Identity
 
+**As Of** · Since Altherion, seated where Kaito is expected
 **Name** · Kaede Suyori. **Called** · **Blue Moth.**
 **Role** · **Court lepidopterist, hush-healer, and social countermeasure** — *the only person who can cool a fevered room after Kaito warms it.*
 **Vibe** · *Quiet, lunar, impossible to read until they want to be.* **Love as patience sharpened into a blade.**

@@ -4,12 +4,13 @@ notion_id: "3bc58200-eb22-816d-adac-cdb407408b34"
 notion_url: "https://app.notion.com/p/Yasoshima-The-Eighty-Isles-3bc58200eb22816dadaccdb407408b34"
 section: "The Bearing and the Holding"
 tags: []
-last_edited: "2026-09-12T20:21:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: "unverified"
 ---
 
 # Yasoshima — The Eighty Isles
 
+**Say it** · yah-soh-SHEE-mah
 *The Sea-Space. Islands of the Yuno.*
 > **Vā** is the relational space the house exists to keep. **Moana** is the deep ocean. *An aiga that names its own islands after the relation they hold rather than after a founder is behaving exactly as the house thesis says it should.*
 

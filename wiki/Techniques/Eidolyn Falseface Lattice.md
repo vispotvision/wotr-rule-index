@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81e6-a929-d85f73e699ed"
 notion_url: "https://app.notion.com/p/Eidolyn-Falseface-Lattice-3d958200eb2281e6a929d85f73e699ed"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:35:00.000Z"
+last_edited: "2026-09-26T09:09:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Whatever the opponent is afraid the fight contains, Aeldoris gives it a body. The construct is not a picture of the fear. It has the same solidity a fear that specific would have, and it hits like it.
+**Effect** · Whatever the opponent is afraid the fight contains, the practitioner gives it a body. The construct is not a picture of the fear. It has the same solidity a fear that specific would have, and it hits like it.
 **Cost** · **Identity Drift.** Sustained use blurs where his self-image ends and the borrowed fear-shapes begin. **Cognitive Static** follows: headache, memory flicker, perception distortion.
 **Limit** · Needs an actual conviction to template from. A fearless or fully lucid target, or a threat-shape the target has no concept of, gives the working nothing to deposit onto.
 **Counter** · **A mirror. Specular reflection** *returns the construct's own image undistorted, and a form templated from someone's imagined threat has no further truth behind it to survive contact with its own unedited reflection.*
-**What nobody knows** · Why a construct built from someone else's fear ever agrees to fight for Aeldoris rather than against him.
+**What nobody knows** · Why a construct built from someone else's fear ever agrees to fight for its maker rather than against him.
 
 ### Codex line
 
@@ -42,7 +42,7 @@ verification: null
 
 ### Origin
 
-Aeldoris is its sole practitioner, and the problem it answers is plain: a fight against something that has already decided to be afraid of him is a fight he can win by giving the fear a body and letting it swing at its own owner.
+It has a single known practitioner, and the problem it answers is plain: a fight against something that has already decided to be afraid of its user is a fight that user can win by giving the fear a body and letting it swing at its own owner.
 
 ---
 

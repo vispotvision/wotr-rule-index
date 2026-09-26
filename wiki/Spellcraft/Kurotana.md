@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8148-99a9-f28585bfdd47"
 notion_url: "https://app.notion.com/p/Kurotana-3d958200eb22814899a9f28585bfdd47"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T06:44:00.000Z"
+last_edited: "2026-09-26T09:07:00.000Z"
 verification: null
 ---
 
@@ -41,8 +41,8 @@ verification: null
 
 ### Origin
 
-**Origin** · Niran Yukari reached it after a boyhood in which he warned, ran, saved who he could and failed anyway, until warning hardened into doctrine; his father Naiser Yukari's death is carried as grief metabolised rather than dissolved. Its Seven Great Corruptions echo the Seven Works of Hataraki form for form, though nothing ties the Yukari to the Moto doctrine.
-**Practitioners** · Niran Yukari, the Crow of Fate, Septarch, founder of the Sovereign Enclave of Ketsuen.
+**Origin · Its author reached it after a boyhood** in which he warned, ran, saved who he could and failed anyway, until warning hardened into doctrine; a father's death is carried in it as grief metabolised rather than dissolved. Its Seven Great Corruptions echo the Seven Works of Hataraki form for form, though nothing ties the Yukari to the Moto doctrine.
+**Practitioners · Its author alone.**
 
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a4-8688-c39d15abda92"
 notion_url: "https://app.notion.com/p/Liminal-Palace-of-False-Dawn-3d958200eb2281a48688c39d15abda92"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:37:00.000Z"
+last_edited: "2026-09-26T09:10:00.000Z"
 verification: null
 ---
 
@@ -14,11 +14,11 @@ verification: null
 
 ### Summary card
 
-**Effect** · Opalis opens a doorway of shadow-gold light and overlays a chosen false environment across up to 120 m, so that anyone inside sees, hears and feels a world she has selected rather than the one that is actually there.
+**Effect · The practitioner opens** a doorway of shadow-gold light and overlays a chosen false environment across up to 120 m, so that anyone inside sees, hears and feels a world she has selected rather than the one that is actually there.
 **Cost** · Fragments of her own memory bleed into the illusion, leaving her briefly unsure which version of events she personally occupied; the strain on her harmonic center from running Orrenthal and Fractura together produces migraines, afterimages, or temporary shadow-blindness.
 **Limit** · It cannot force a target to act against what they already will, only misread the surroundings they are acting in; it cannot touch physical reality, only its perceived structure, and it cannot run two full-strength contradictory illusions over the same ground.
 **Counter** · Removing or overwhelming a target's senses cuts through the overlay entirely; additional false interpretations flooding the same space clutter the Palace's available logical slots until it destabilizes on its own.
-**What nobody knows** · Whether Opalis, standing inside her own Palace, always knows which layer is the true one, or whether the déjà vu she reports afterward means she sometimes loses that thread along with everyone else.
+**What nobody knows** · Whether the practitioner, standing inside her own Palace, always knows which layer is the true one, or whether the déjà vu she reports afterward means she sometimes loses that thread along with everyone else.
 
 ### Codex line
 
@@ -43,7 +43,7 @@ verification: null
 
 ### Origin
 
-The Palace is Opalis's own self-derived technique and requires Stage XII; anyone unfamiliar with it meets it in full the first time they are caught inside.
+The Palace is a self-derived technique and requires Stage XII; anyone unfamiliar with it meets it in full the first time they are caught inside.
 
 ---
 

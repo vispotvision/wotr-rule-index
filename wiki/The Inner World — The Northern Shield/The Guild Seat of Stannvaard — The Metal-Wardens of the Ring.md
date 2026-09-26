@@ -4,12 +4,13 @@ notion_id: "3bc58200-eb22-8145-b4ee-d5a4fa1ad6bc"
 notion_url: "https://app.notion.com/p/The-Guild-Seat-of-Stannvaard-The-Metal-Wardens-of-the-Ring-3bc58200eb228145b4eed5a4fa1ad6bc"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T20:48:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: "unverified"
 ---
 
 # The Guild Seat of Stannvaard — The Metal-Wardens of the Ring
 
+**Say it** · STAHN-vahrd
 *The Metal-Wardens of the Ring · The Ore Council · The Seat of the Scale · Central Shield*
 > ⚠️ **Amendment applied.** The source carries a **Malō of Sātūlagi** bilateral entry and attributes Fractura-attuned fortification assessment to **the Moto.** Sātūlagi is struck from canon. **Redirected to Kharven and the Moto.** *Ratified 2026-09-12 -- the Moto hold one seat and it is Kharven, no other reading is possible once Sātūlagi is struck.*
 
@@ -18,7 +19,7 @@ verification: "unverified"
 ## Overview
 
 A **Dawi-governed kingdom built into the inner walls of the Ring**, the ninety-league impact crater holding the northern quarter's richest sulphide ore — and extending outward across the central shield to encompass the territories and trade routes that depend on the Ring's output for their economic existence.
-Among them is **Altherion**, the multiracial republic whose River Crown Council governs the kingdom's largest surface settlement, **and whose constitutional architecture provides the political stage on which Sanctum Lux has chosen to seat the Grand Church.**
+Among them is **Altherion**, the multiracial republic whose River Crown Council governs the kingdom's largest surface settlement, **and whose constitutional architecture provides the political stage on which Sancta Lux has chosen to seat the Grand Church.**
 > **This makes Stannvaard the most politically complex sovereign entity in the Inner World.**
 >
 > A kingdom that contains within itself **a forge, a republic, and a court of universal jurisdiction** — and that manages the friction between the three through **the specific Dawi virtue of treating every problem as an engineering challenge and refusing to be impressed by anyone else's theology.**
@@ -52,11 +53,11 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 **The Ore** · A High Dawi prospecting expedition assessed the crater and sent word to the deep halls that **the richest mineral deposit in the northern quarter was sitting in an open crater on the surface, unguarded, unmined, and waiting for someone with a forge hot enough to work it.** The halls sent smiths. The smiths brought families. The families became guilds. **The guilds became a kingdom** — *not by intention but by the accumulated weight of people who stayed because the work was there, and who discovered over generations that a community organised around a forge has already solved most of the problems governments are designed to solve.*
 > **Thane-Gorr's** forges burn continuously, fed by Wellspring-heated furnaces that hold temperatures no fuel achieves and hold them steady for days. The glow is visible from the rim at night, **a dull orange pulse against the crater walls** that travellers use as a navigation reference **and that poets have been comparing to a heartbeat for centuries because the comparison is accurate and nobody has found a better one.**
 **The Republic** · The Dawi offered to govern the incoming population under guild law. **The non-Dawi declined, on the reasonable ground that guild law was designed for guilds and that most of them were not guild members.** The compromise was the founding charter: a multiracial republic, the **Essence Resource Sharing Act** preventing any body from monopolising Wellspring access, and the **Trade Equality Act** preventing any race or guild from monopolising extraction or trade.
-> *The charter was, in essence, a promise that Altherion's governance would measure every community the same way — which is why Sanctum Lux eventually chose it as a home.*
+> *The charter was, in essence, a promise that Altherion's governance would measure every community the same way — which is why Sancta Lux eventually chose it as a home.*
 > The **Echo Elves** maintain that Altherion's confederated structure owes more to Echo Elf political philosophy than the republic's official histories credit. **Altherion's official historians maintain the resemblance is coincidental.**
 >
 > *The Echo Elves repeat this claim verbatim, once, every time it is made — which is their way of recording that it has been said without conceding that it is true.*
-**The Court** · The Grand Church is a consecrated stone compound within Altherion's walls, **built on rock that Sanctum Lux's Measurewrights consecrated themselves, using methods they declined to share with the republic's architects and that the republic's architects declined to ask about.**
+**The Court** · The Grand Church is a consecrated stone compound within Altherion's walls, **built on rock that Sancta Lux's Measurewrights consecrated themselves, using methods they declined to share with the republic's architects and that the republic's architects declined to ask about.**
 > It includes the Sanctified Hall where Arbiter-grade readings are taken, the training facilities, the administrative offices coordinating four-quarter operations, **and the specific chambers in which the Arbiter-Militant and Arbiter-Lector wings are institutionally required to disagree — and do, loudly, in a room built for the purpose.**
 > *The Hall of Equal Breath, where the Oracle is housed, is not here. Sel-Ur is at Meridian Hold, whose location does not appear in any Accord filing.*
 
@@ -72,7 +73,7 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 | **The Rimlands** *surrounding territory* | Roads, way-stations, timber and the agriculture feeding the crater population. Governed by a warden appointed **jointly** by both Councils — *a jurisdictional compromise that satisfies neither body and functions because neither body has proposed a better arrangement* | ~12,000 |
 | **The Corridor Holdings** *trade route territory* | Administered by the Transport Guild. Utilitarian governance: road maintenance, way-station operation, escort coordination. **A transient population with the specific character of people who live on roads rather than in cities** | ~6,000 |
 | **The Deep Reach** *below the basin floor* | Under a Council-appointed Steward rather than a guild warden, **because the territory's Wellspring sensitivity and its proximity to the Deepkin-occupied zones require governance more cautious than standard guild administration can provide.** *The Deepkin maintain a significant presence and an advisory role the surface Dawi consider necessary and slightly unnerving — because the Deepkin know things about what lies beneath the Ring that nobody else knows and have declined to share in full* | ~3,000 |
-| **The Ember Magistrates' Circuit** *not geographic* | The permanent travelling court riding between communities too small or distant to bring cases to the Grand Church. **Operates under Sanctum Lux authority and crosses Stannvaard's borders into neighbouring kingdoms** — *a jurisdictional overlap the Ore Council manages by pretending it does not exist and Sanctum Lux manages by filing paperwork the Ore Council has never read* | ~40,000 served |
+| **The Ember Magistrates' Circuit** *not geographic* | The permanent travelling court riding between communities too small or distant to bring cases to the Grand Church. **Operates under Sancta Lux authority and crosses Stannvaard's borders into neighbouring kingdoms** — *a jurisdictional overlap the Ore Council manages by pretending it does not exist and Sancta Lux manages by filing paperwork the Ore Council has never read* | ~40,000 served |
 
 ---
 
@@ -81,7 +82,7 @@ Among them is **Altherion**, the multiracial republic whose River Crown Council 
 | Wellspring | Function |
 |---|---|
 | **Petralon** *Stone / Reinforcement* | The Ring's primary territorial Wellspring. **Tunnels carved through fault-stressed rock that should collapse and do not, because the stone has been reinforced by centuries of sustained exposure until the rock is stronger than the load above it.** *Petralon-attuned Dawi fighters are the hardest opponents in the Inner World to move, because their connection to the ground is not metaphorical. Breaking it requires either lifting them off the ground or destroying the ground beneath them* |
-| **Judicium** *Judgment / Priority* | The Sanctum Lux installation's primary Wellspring. The Measurewrights calibrated the compound's stone to Judicium and Fixatio simultaneously, **producing a substrate that responds to the Scale's readings with the same fidelity that Nalūn's salt responds to Contraxis.** *A reading in the Sanctified Hall carries more weight than a field reading — not because the Hall amplifies anything but because the substrate holds the reading steady while the Lectors work, the way a good bench holds a workpiece steady while the craftsman cuts* |
+| **Judicium** *Judgment / Priority* | The Sancta Lux installation's primary Wellspring. The Measurewrights calibrated the compound's stone to Judicium and Fixatio simultaneously, **producing a substrate that responds to the Scale's readings with the same fidelity that Nalūn's salt responds to Contraxis.** *A reading in the Sanctified Hall carries more weight than a field reading — not because the Hall amplifies anything but because the substrate holds the reading steady while the Lectors work, the way a good bench holds a workpiece steady while the craftsman cuts* |
 | **Fixatio** *Anchoring / Stability* | Present in both the geology and the installation. **The same substrate stability that holds an inscription in a tunnel wall also holds a finding in a consecrated hall** — *and the fact that both draw on the same Wellspring is either a coincidence or a theological statement, depending on whether you ask a Dawi or a Lector* |
 | **Ignivale** *Flame / Collapse* | The collapse from finding into execution. **The fire that falls** — the moment a measured finding becomes a physical consequence. **The Dawi's forges do not use Ignivale.** *The distinction between forge-heat and judgment-fire is one the kingdom maintains with the deliberateness of people who understand that a fire that melts metal and a fire that executes people should never be confused, because confusing them produces a civilisation that cannot tell the difference between manufacture and murder* |
 
@@ -112,7 +113,7 @@ Three parallel systems **whose jurisdictions are defined by function rather than
 - **The Tender's Obligation** — lifetime support for array-tenders who develop **the tender's shake**, the fine persistent palsy that arrives at about eight years of forge-array service **and does not leave.**
 - **The Assay Standard** — counterfeiting a stamp is a capital offence. *The last person who attempted it was found, tried and sentenced within three days, which is the fastest judicial process in the kingdom's history.*
 **Republican Law** · Applies to every person within Altherion's territory **regardless of guild affiliation, racial origin or institutional membership.**
-**Sanctum Lux Jurisdiction** · Operating on the principle that **the Scale measures everywhere and that the measurement does not require the measured party's consent.** The Ember Magistrates hold flame-lit equilibrium courts in towns that will never see the Grand Church, **and their jurisdiction is one of the few legal authorities neither Council can override.**
+**Sancta Lux Jurisdiction** · Operating on the principle that **the Scale measures everywhere and that the measurement does not require the measured party's consent.** The Ember Magistrates hold flame-lit equilibrium courts in towns that will never see the Grand Church, **and their jurisdiction is one of the few legal authorities neither Council can override.**
 > The three intersect constantly. The complexity is managed by a class of professional arbitrators trained in all three, known informally as **the Three-Tongued** — *who make their living translating between legal traditions and who are, by universal agreement, the most exhausted professionals in the Inner World.*
 
 ---
@@ -130,7 +131,7 @@ Altherion runs on trade, services, and the institutional revenue of hosting the 
 ## Defence
 
 **The Forge Guard** · Roughly four thousand. *Not flashy. Not fast.* **Built from the same material as the Ring's walls: dense, patient, and extremely difficult to move.**
-**Sanctum Lux** maintains its own capability within the compound — the Arbiter-Militant wing, the Inquisitors with their gauntlet-etched Judica rites, and **the Mask, of which there is only ever one, whose mere presence in a room suppresses invocation.** It answers to the Will of Judger, **currently held by Darius, who refuses to be invested in it and has been pending investiture for eleven years.**
+**Sancta Lux** maintains its own capability within the compound — the Arbiter-Militant wing, the Inquisitors with their gauntlet-etched Judica rites, and **the Mask, of which there is only ever one, whose mere presence in a room suppresses invocation.** It answers to the Will of Judger, **currently held by Darius, who refuses to be invested in it and has been pending investiture for eleven years.**
 > The strategic defence is economic. **A war against Stannvaard is a war against your own balance sheet, your own armoury, and the judicial body that every other kingdom's legal system references when its own authority is insufficient.**
 >
 > *Nobody has been willing to pay all three costs simultaneously.*
@@ -150,7 +151,7 @@ The crater cities are carved from impact-fractured stone: **dense, angular, ever
 *Altherion is timber-framed over stone, rooflines pitched against snow, with the specific visual chaos that results from seven different racial building traditions being practised in the same streets across three centuries.* **The Church compound is the exception: consecrated stone, low walls, flame-lit interiors,** the deliberate austerity of a body that considers the absence of ornamentation a theological position.
 **Language** · Dawi Common in the crater cities. Concord Common in Altherion. **Lattice Tongue** for High Dawi sacred and technical inscription — *where the grammar of the utterance mirrors the grammar of the universe, and non-Dawi listeners describe the experience as hearing a proof being recited rather than a sentence being spoken.*
 **The Assay** · Not merely a test. **The Dawi's way of saying that a thing that has been measured and found correct carries a truth no salesmanship can replicate and no counterfeiting can fake** — *because the measurement is the thing, and the thing without the measurement is just rock.*
-**The Weighing Festival** · Not Stannvaard's but Sanctum Lux's. The senior Measurewright performs a public reading of the Grand Church's operational integrity. **Altherion attends in numbers that surprise the order every year**, because it is the one time most people see the Scale's instrument in operation — *and the experience of standing in a room where real measurement is being performed, the kind that does not drift, is described by most attendees as the most intellectually honest thing they have ever witnessed and also the most frightening.*
+**The Weighing Festival** · Not Stannvaard's but Sancta Lux's. The senior Measurewright performs a public reading of the Grand Church's operational integrity. **Altherion attends in numbers that surprise the order every year**, because it is the one time most people see the Scale's instrument in operation — *and the experience of standing in a room where real measurement is being performed, the kind that does not drift, is described by most attendees as the most intellectually honest thing they have ever witnessed and also the most frightening.*
 
 ---
 
@@ -159,8 +160,8 @@ The crater cities are carved from impact-fractured stone: **dense, angular, ever
 **Nalūn** · The defining trade partnership of the Inner World. **Nalūn's credit finances extraction. Stannvaard's metal backs Nalūn's credit.** *Not friendly. Not hostile. Structural, in the way a bridge and its piers are structural — remove either and the span falls, but nobody describes a bridge as being friends with its foundation.*
 **Ketsuen** · Commercial, functional, defined by mutual utility.
 **Kharven** · *(redirected from the struck Sātūlagi entry)* Imports metalwork, exports military protection for the northern corridors. **Moto Fractura-attuned practitioners provide border-fortification assessments the Dawi's engineers find useful and irritating in equal measure** — *because they can see stress in stone the Dawi's own instruments do not detect, and being shown a flaw in your own masonry by a human warrior with a blood-inherited eye is exactly the kind of experience the Dawi process by building a better instrument rather than by expressing gratitude.*
-**The Guild Accord** · An essential supplier, an intractable negotiating partner, and the host of its most powerful judicial body. *All four divisions submit to the same Sanctum Lux jurisdiction every other visitor submits to — producing the specific institutional friction of a supra-national body being measured by one of its own chartered members inside a territory it nominally oversees.*
-**The Holy Sea of Alabaster** · **The Holy Sea measures testimony, Sanctum Lux measures everything else, and both hold that a measurement that does not drift is worth more than a judgment that does.** Warm, distant, mediated through the chapter hold that reports back to Altherion.
+**The Guild Accord** · An essential supplier, an intractable negotiating partner, and the host of its most powerful judicial body. *All four divisions submit to the same Sancta Lux jurisdiction every other visitor submits to — producing the specific institutional friction of a supra-national body being measured by one of its own chartered members inside a territory it nominally oversees.*
+**The Holy Sea of Alabaster** · **The Holy Sea measures testimony, Sancta Lux measures everything else, and both hold that a measurement that does not drift is worth more than a judgment that does.** Warm, distant, mediated through the chapter hold that reports back to Altherion.
 
 ---
 

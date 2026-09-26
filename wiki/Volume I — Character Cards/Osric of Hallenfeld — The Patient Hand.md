@@ -4,14 +4,20 @@ notion_id: "3ba58200-eb22-810d-96b8-c67ffe902337"
 notion_url: "https://app.notion.com/p/Osric-of-Hallenfeld-The-Patient-Hand-3ba58200eb22810d96b8c67ffe902337"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:09:00.000Z"
+last_edited: "2026-09-26T10:27:00.000Z"
 verification: null
 ---
 
 # Osric of Hallenfeld — The Patient Hand
 
+**Say it** · OZ-rik of HAL-en-feld
 *The Sleeping Dragon · The Patient Hand · The Man Who Recognized the Jaw*
+> **As Of:** The muster at Kharven-Seat, the morning of the ninth hour
 > **Full Name:** Osric of Hallenfeld (born Osric Kōkan Moto, identity suppressed during the Tenrai consolidation)
+> **Age:** 47 · **Bloodline:** Kōkan cadet line (Moto)
+> **Level:** 195 · **Stage:** IV Temper · **Band:** II
+> **Role:** Strategic uncle to Hild Ice, political architect of the Kokan Loyalist Coalition
+> Spent three years pretending to be nothing. Has spent eleven years proving he was everything.
 > **Age:** 47 · **Bloodline:** Kōkan cadet line (Moto)
 > **Level:** 195 · **Stage:** IV Temper · **Band:** II
 > **Role:** Strategic uncle to Hild Ice, political architect of the Kokan Loyalist Coalition

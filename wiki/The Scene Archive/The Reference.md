@@ -4,7 +4,7 @@ notion_id: "3de58200-eb22-8164-af35-fba708ef2478"
 notion_url: "https://app.notion.com/p/The-Reference-3de58200eb228164af35fba708ef2478"
 section: "The Scene Archive"
 tags: []
-last_edited: "2026-09-17T19:27:00.000Z"
+last_edited: "2026-09-26T10:18:00.000Z"
 verification: null
 ---
 
@@ -103,7 +103,7 @@ He had not believed it.
 That is the honest entry and he will make it in those words. Kujo had put it to him in the spring, in the long room with the bad window, in the flat unbothered way the man puts everything, and Darius had let it finish and had then said that a reference cannot have a paragon, which is not a matter of faith but a matter of definition, and that he would not carry the sentence any further than that room.
 Kujo had said fine, and had gone back to what he was doing, and had not raised it again, which is how Kujo tells you he is right.
 *Because that is the whole of it and everybody keeps missing it.*
-*Sanctum Lux does not worship. It says so in the first line of its own catechism, before it says anything else at all. We are a chartered body of measurement and consequence, and Urion is not a listener and does not want anything, and prayer presumes wanting.*
+*Sancta Lux does not worship. It says so in the first line of its own catechism, before it says anything else at all. We are a chartered body of measurement and consequence, and Urion is not a listener and does not want anything, and prayer presumes wanting.*
 *He is a reference. You do not petition a reference. You compare yourself against it and you take the number that comes back, and the whole of four worlds' arbitration rests on that and has for two thousand years.*
 *The street calls him the Judger. We teach the word on the first day and strike it on the second and every Attestant says it anyway for thirty years.*
 *A reference cannot be a person.*
@@ -161,7 +161,7 @@ Edward Lambert looked up at him, which took some doing, and did it without the s
 "I want to know what he is, from somebody whose word the Division cannot dismiss. Not what he can do. What he *is*, in the language that order of yours uses when it is being careful, because the day this becomes a proceeding the only thing that will matter is which words were in the first honest description, and I would rather they were yours than Peld's.
 "And I want somebody for him who is not old."
 He let that sit about a second.
-"I have no idea how to get the second one. I have been working on it for four years and I have nothing, and I am aware that I have just asked an Archpaladin of Sanctum Lux to find a six-year-old boy a friend, and I am going to stand here and not take it back."
+"I have no idea how to get the second one. I have been working on it for four years and I have nothing, and I am aware that I have just asked an Archpaladin of Sancta Lux to find a six-year-old boy a friend, and I am going to stand here and not take it back."
 Above them, up the steps, a small voice was negotiating with something about a pump handle.
 Darius Ignatius Sanctus Sanctorum Arsenal stood in the Palatinate approach with the light gone a half shade toward white for eleven feet in every direction around him, and got down onto one knee on the wet stone, which put his head about level with a man of ordinary height, and stayed there.
 "Sit down, Edward," he said. "Start at the beginning. Tell me what he did first and who saw it."

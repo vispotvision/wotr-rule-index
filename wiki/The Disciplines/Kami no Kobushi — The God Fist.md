@@ -3,9 +3,9 @@ title: "Kami no Kobushi — The God Fist"
 notion_id: "3b158200-eb22-81c3-a942-e7f2e6ae29b5"
 notion_url: "https://app.notion.com/p/Kami-no-Kobushi-The-God-Fist-3b158200eb2281c3a942e7f2e6ae29b5"
 section: "The Disciplines"
-tags: ["Disciplines", "Bloodlines"]
-last_edited: "2026-09-10T11:16:00.000Z"
-verification: "unverified"
+tags: []
+last_edited: "2026-09-26T10:18:00.000Z"
+verification: null
 ---
 
 # Kami no Kobushi — The God Fist
@@ -17,9 +17,9 @@ verification: "unverified"
 
 ---
 
-## I · Houkai no Kobushi — The Ruin Fist
+## I · Hōkai no Kobushi — The Ruin Fist
 
-**Work** · Hametsu no Go, the Work of Ruins
+**Work** · Hametsu no Gō, the Work of Ruins
 **Type** · Collapse-Fixator · *Anchor what is already breaking and make it break correctly.*
 | Wellspring | Its office in the doctrine |
 |---|---|
@@ -29,7 +29,7 @@ verification: "unverified"
 | **Fractura** | Identifies and widens pre-existing fracture lines in material, metaphysical, or soul-based defences |
 | **Nihiloth** | Strips the opponent's resistance of its sense that resistance is meaningful |
 
-The Ruin Fist does not create destruction. It finds destruction that was already coming and makes it arrive on schedule. Where other strikers try to break a thing from the outside, a Houkai practitioner reads the structural rot already present in their opponent and plants their heel on top of it. **The blow does not shatter the wall. It locates the wall's oldest crack and declares that crack the verdict.**
+The Ruin Fist does not create destruction. It finds destruction that was already coming and makes it arrive on schedule. Where other strikers try to break a thing from the outside, a Hōkai practitioner reads the structural rot already present in their opponent and plants their heel on top of it. **The blow does not shatter the wall. It locates the wall's oldest crack and declares that crack the verdict.**
 **Core principle** · Essence reads decay first; the practitioner does not commit until the Fate Ledger has ranked which of the opponent's structures is already failing. Fracture lines are coordinates — every ward, every bone-reinforcement, every Wellspring brace has a point of origin, and Fixatio seats on that point, not on the surface. And collapse is not chaos. It is sequence.
 - ****In practice****
   Against a heavily warded opponent, the practitioner waits — not passively, but *diagnostically* — until Fractura maps the oldest seam in the ward's structure. The strike lands there, one centimetre deep, and the ward comes apart from the inside.
@@ -43,7 +43,7 @@ The Ruin Fist does not create destruction. It finds destruction that was already
 
 ## II · Seijō no Kobushi — The Purity Fist
 
-**Work** · Junketsu no Go, the Work of Purity
+**Work** · Junketsu no Gō, the Work of Purity
 **Type** · Foundation-Fixator · *Anchor what is rightfully standing and refuse to let it be defiled.*
 **Wellsprings** · **Fixatio** declares the practitioner's structural integrity a lawfully protected coordinate, so corruption effects must prove authority to proceed · **Petralon** reinforces the body's load-bearing axis as consecrated infrastructure · **Basilithe** establishes the battlefield's ground as sanctified substrate, and impure techniques lose purchase on it · **Benediction** turns each blow into a corrective act, not violence but restoration of proper form · **Judicium** ranks what is structurally sound against what is metaphysically compromised before the fist commits.
 The Purity Fist treats the body as a sacred structure and every exchange as an act of correction. It does not strike to wound. **It strikes to restore proper arrangement**, which sometimes means the target is broken back into the shape reality intended for them. Where the Ruin style waits for collapse, the Purity style enforces standard.
@@ -60,7 +60,7 @@ The Purity Fist treats the body as a sacred structure and every exchange as an a
 
 ## III · Tamashii no Kobushi — The Spirit Fist
 
-**Work** · Seirei no Go, the Work of Spirit
+**Work** · Seirei no Gō, the Work of Spirit
 **Type** · Soul-Fixator · *Anchor the line between what lives and what has ended, and strike across it.*
 **Wellsprings** · **Fixatio** pins the opponent's soul-coordinate, preventing flight, transition, or post-mortem escape · **Coagulatio** loads the blow with soul-weight rather than body-weight · **Mortalis** governs the passage between life and death, letting strikes register on both sides of the threshold simultaneously · **Anima Spirare** reads the life-breath signature, identifying where the soul sits heaviest in the body · **Contrition** applies lawful consequence to souls carrying unpaid spiritual debt.
 > The Spirit Fist fights on two floors at once, and **neither floor is its real target.** The real target is the passage between them. A Tamashii practitioner does not try to kill the body or destroy the soul separately. They grip the threshold between those states and strike through it, delivering judgment that neither life nor death can contest.
@@ -113,7 +113,7 @@ The Sequence Fist does not move faster than its opponents. **It moves more corre
 
 ## VI · Hakari no Kobushi — The Scales Fist
 
-**Work** · Shigoto no Baransu, the Work of Balance
+**Work** · Baransu no Shigoto, the Work of Balance
 **Type** · Reconciliation-Fixator · *Anchor the point where two forces cancel, then strike from it.*
 **Wellsprings** · **Fixatio** seats the practitioner at the exact fulcrum between two opposing forces, so displacement requires defeating both simultaneously · **Coagulatio** gathers opposing forces into one bound mass before release · **Manganthra** reads which force in any exchange is overextended and which is starved · **Thalor** applies binding tension between opposites, making the gap between them a usable surface · **Basilithe** establishes the ground beneath as the settled centre of any contested field.
 The Scales Fist finds the point in every fight where two forces are pulling against each other and plants there. The practitioner becomes the fulcrum. They do not push one side or the other; they strike from the centre at the moment of maximum tension, when both forces are fully committed and neither can correct. **It is the art of letting your enemies' forces load your fist for you.**
@@ -143,7 +143,7 @@ The Scales Fist finds the point in every fight where two forces are pulling agai
 There is no tactical breakdown for the Total Fist, because it does not have tactics. The practitioner plants, all six Works converge, and the blow falls.
 > *"The ground remembered him. The air agreed with him. The blow arrived at the moment before you realized it had been thrown."*
 > — the only recorded description from outside, First Conclave fragment
-Every counter that exists for the individual six doctrines fails against it, because it is running all six simultaneously. A sequence-counter meets Toki no Kobushi. A ruin-resistance meets Houkai no Kobushi. A revelation-ward meets Akashi no Kobushi. All six meet at once, **and none of them meet only the one they prepared for.**
+Every counter that exists for the individual six doctrines fails against it, because it is running all six simultaneously. A sequence-counter meets Toki no Kobushi. A ruin-resistance meets Hōkai no Kobushi. A revelation-ward meets Akashi no Kobushi. All six meet at once, **and none of them meet only the one they prepared for.**
 > **Cost and consequence.** The Total Fist cannot be used by a practitioner who has not accepted **Coordinate Adhesion** as permanent. Running all six Works through a single planted coordinate in one instant does not deepen the adhesion. **It completes it.** A practitioner who successfully delivers Zentai no Kobushi is afterward inseparable from that coordinate until loosened by a Tengan adept.
 >
 > This is not a flaw in the design. Gimbzo built it this way deliberately.

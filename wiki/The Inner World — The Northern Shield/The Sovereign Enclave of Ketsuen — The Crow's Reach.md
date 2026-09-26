@@ -4,12 +4,13 @@ notion_id: "3bc58200-eb22-81c2-9d3b-d0e599c381e9"
 notion_url: "https://app.notion.com/p/The-Sovereign-Enclave-of-Ketsuen-The-Crow-s-Reach-3bc58200eb2281c29d3bd0e599c381e9"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-12T16:46:00.000Z"
+last_edited: "2026-09-26T09:08:00.000Z"
 verification: "unverified"
 ---
 
 # The Sovereign Enclave of Ketsuen — The Crow's Reach
 
+**Say it** · keh-TSOO-en
 *The Crow's Reach · The Thread-Woven Frontier · Northeastern Shield*
 
 ---

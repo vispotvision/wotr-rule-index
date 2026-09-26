@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-811f-b07d-ced7f73a4ed4"
 notion_url: "https://app.notion.com/p/Serai-Linthra-The-Serpent-Alchemist-3d958200eb22811fb07dced7f73a4ed4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T10:34:00.000Z"
 verification: null
 ---
 
@@ -12,12 +12,14 @@ verification: null
 
 ## Serai Linthra · The Serpent Alchemist
 
+**Say it** · seh-RY LIN-thrah
 > *"Every element yearns to become something else. My duty is only to listen, and help it remember what it could be."*
 
 ---
 
 ### I · Identity
 
+**As Of** · After the First Entry into Cael Dareth's workroom
 **Name** · Serai Linthra. **Called** · The Serpent Alchemist.
 **Role** · **Senior Alchemist. Aetheric Synthesist. Symbiont of Aroth.**
 She carries the calm precision of one who rebuilds reality by hand, her robes layered kimono-weaves interlaced with metallized silk and Essence-threads. Her right eye stays hidden under her fringe, housing a rotating alchemical seal that reads the composition of matter in harmonic glyph.

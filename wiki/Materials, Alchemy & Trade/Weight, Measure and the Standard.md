@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81c5-8da5-c6f7571cfd0a"
 notion_url: "https://app.notion.com/p/Weight-Measure-and-the-Standard-3d758200eb2281c58da5c6f7571cfd0a"
 section: "Materials, Alchemy & Trade"
 tags: ["Trade & Economy", "Materials", "Reference Table"]
-last_edited: "2026-09-10T11:14:00.000Z"
+last_edited: "2026-09-26T10:17:00.000Z"
 verification: "unverified"
 ---
 
@@ -111,7 +111,7 @@ A district on falling pressure is billed the same for less, because the meter co
 **Urion's Labour is the Weighing:** one thing weighed on a true balance every day. It requires no priest, no building and no scale but the household's own, and it is performed by more people in the four quarters than any organised rite.
 So the same physical act carries three meanings at once and the actors are usually unaware of two of them.
 - **The Accord** weighs to establish a fact and charge for it.
-- **Sanctum Lux** weighs to establish worth, and holds the establishing to be sacred.
+- **Sancta Lux** weighs to establish worth, and holds the establishing to be sacred.
 - **The Sohai** weighs to acknowledge Balance, expects no answer, and considers the other two to have confused a Labour with a transaction.
 - **Kharven** weighs the ration and inspects the scale in public at Ice-out, and would tell you it is doing none of the above and is simply making sure nobody starves.
 A scene in which a man weighs something in front of another man is never only about the weight.

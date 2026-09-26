@@ -1,0 +1,9 @@
+## The Ambient Floor
+
+Every branch below is limited by a field quantity that is not Aetheric Density and does not behave like it. Density sets a **ceiling** on what a practitioner may draw. **Ambient Resonance sets a floor under what he can hear.** A floor is the worse constraint. No amount of Stage raises a signal already beneath the room.
+
+Ambient Resonance is not a separate field. It is **Aetheric Residue while it is still ringing**, the excess a working left behind on its way out of the ground, and it is read in the same EU per cubic metre as any density. It falls by a hundredfold in about seventy-five minutes and by a millionfold in about four hours. **Ground remembers a working for an afternoon and a battle for an evening.**
+
+A reading is a signal against a background, and field strength falls with the square of distance, so listening range falls as the **square root** of the total local density. Twenty practitioners working hard for five minutes over a two-hundred-metre front leave about six EU in each cubic metre on top of the ordinary one. A Harmonist standing in it hears to **two fifths** of his usual distance until the ground quiets. Indoors it is worse. The same fighting inside a building leaves Active Concentration, where the factor is eighteen rather than two and a half. **A battlefield is the worst place in the world to listen.** A Harmonist ordered to read one has been ordered to do the thing his discipline is least able to do.
+
+> **Which is exactly what Caelmorne bought.** He could not raise the signal, so he lowered the background twice over. His own tone was dampened to near-nothing, and the session was held on a lunar Aether tide, when the site's own ring was at its quietest. A tenfold reduction in the listener's own emission triples the distance at which a fixed source can be resolved. The silence was not humility. It was instrumentation.

@@ -1,0 +1,1 @@
+**Aetheric Residue** · Traces left behind by an Essence working. A permanent, if often subtle, change to the location where the working occurred. Always readable by someone patient enough. Residue has a loud phase and a quiet one, and the loud phase has its own name: **Ambient Resonance** is Residue while it is still ringing.

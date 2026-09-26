@@ -6,6 +6,47 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (clean publishing is standing, and the wiki does not meet it yet)
+
+**A standing rule now governs everything that goes to Notion or the wiki**, and `eceea52` has already
+wired it into `wotr-write` (`references/fair-play.md`, "Clean publishing"), the character-sheet
+reference and `build/table.py`. A published page mentions neither the person who runs this project —
+by name, or as "the board", "the GM", "the author" — nor the process: no rulings, no conflict ids
+(`C-xxx`, `R44-x`, `R20C-xx`, `R13-x`, `R19-x`), no issue ids (`WAR-x`), no questionnaires, no "open
+question", "awaiting ruling", "may change", "flagged" or "proposed", no agent or tool names, no dates
+of decisions, and nothing about who decided what — and nothing about **where the text came from**
+("originated", "drafted by", "generated from", a figure the page calls an estimate or sources to a
+workbook or a legacy sheet). In-world attributions are content and stay. Publish the content only, in
+the page's own register, as settled text. **Where a point is unresolved, publish the best-supported
+current text without comment** and keep the conflict in `CONFLICTS.md` and on its issue — a whole
+batch never waits on one open question.
+
+This changes nothing about `CONFLICTS.md`, `RULINGS.md`, `reports/` or an issue comment: they are the
+record and they keep naming everything. It changes what a page is allowed to say.
+
+**The existing wiki does not meet it.** A scan of `wiki/` (614 pages, the Notion mirror) finds **90
+pages** carrying owner or process text: 216 hits naming the owner, 139 ruling/conflict/issue ids, 158
+process-status phrases (`pending ratification`, `Pending Isaac.`, `Originated, flagged`, `ruling still
+owed`), 26 dated decisions, 4 agent names. A tighter second net for provenance finds **78 pages** more
+or less overlapping — 38 sourcing a figure to a `legacy sheet` or a `workbook figure`, 25 calling their
+own numbers estimates, 8 `Flagged as an open gap`, 3 carrying a generator's tool line. Some of both
+counts are false positives that only reading the line settles. Filed as **WAR-156** (Cody Wix, `canon`
++ `notion`, high) with the inventory, the regenerating greps and the shapes it breaks into — the worst
+being stub cards written as a form with `Pending Isaac.` down sixteen fields, where the content is
+genuinely missing and the fix is a decision per card, not a find-and-replace.
+
+**WAR-46's own published work is clean.** The 93 scaled figures and the three reverts were
+number-for-number swaps on 15 pages; two of those pages were re-read live this run and carry no
+process text. The one marker found on a page WAR-46 touched (The Arctic Lion's armour table, the Dire
+Icebear fur row) predates it and is a block WAR-46 did not create, so it was left in place and filed
+on WAR-156.
+
+**One consequence for WAR-46's own remaining work.** Two of its held classes are held *because the
+line states its own provenance* — `ESTIMATE` (the line calls the figure an estimate) and `PROVENANCE`
+(the line sources it to a workbook or a legacy sheet). That wording is now barred from the page in its
+own right. It does not unblock the number, which still waits on C-066 and C-067: when those are ruled,
+the edit on each of those lines is the figure **and** the clause that sources it, not the figure alone.
+
 ## State on 2026-09-25 (WAR-46 — four more per-use rates found and scaled; 93, not 89)
 
 **A verification pass over the twelve scaled cards found four EU figures the scanner had missed, and

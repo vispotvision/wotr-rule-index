@@ -585,7 +585,7 @@ rules:
     pack_number: 5
     section: "D"
     title: Who currently carries humour, and who does not
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Lambert carries institutional dryness in the debrief; Pietro carries

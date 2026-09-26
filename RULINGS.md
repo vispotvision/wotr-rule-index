@@ -1675,3 +1675,136 @@ The modern-word list applies to in-world documents like narration; documents are
 
 A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
 
+
+## 2026-09-26 — Voice Law (R52), Claude Code chat
+
+Isaac answered the 32-question character-voices questionnaire in Claude Code chat. Index pack: rules/doc-voice-law-2026-09-26.yaml.
+
+### R52-01-SAME_MAN
+
+The quiet, controlled older man is the setting's taste: leave the archetype; the swap test catches clashes scene by scene.
+
+### R52-02-VOICE_LEVER
+
+A voice is mind and sound in equal measure: what they notice, want, refuse and how they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).
+
+### R52-03-VOICE_BLOCK
+
+Every major card carries a full voice block with fixed slots: notices first, sentence length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift, grief shift, joy shift, one sample line.
+
+### R52-04-CONTRACTIONS
+
+Contractions are set per character on the card: always, sometimes or never; most sometimes, a few never on purpose.
+
+### R52-05-COUNTING
+
+Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and anyone reading an instrument count; everyone else rounds, guesses or doesn't count.
+
+### R52-06-TRIADS
+
+Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them.
+
+### R52-07-SWAP_CHECK
+
+The speaker-swap measurement is for reading only: no numbers in the checker; cover the tags and sort by ear.
+
+### R52-08-PC_IDIOM
+
+When Isaac's play and a card disagree, his play wins: his character's thoughts sound like the man he actually plays, and the card is updated to match.
+
+### R52-09-NO_LINE
+
+When Isaac gives a wordless beat in a written scene, the partner writes the line in his character's voice, marked as a draft for him to keep, change or cut.
+
+### R52-10-CROSSOVER
+
+Isaac's POV characters are always his: when one walks into another's thread, the partner leaves their lines and choices open.
+
+### R52-11-ILTHARA
+
+The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's lines, for him to approve.
+
+### R52-12-HANDBACK
+
+When Isaac hands an NPC's voice back, his version sticks: the partner carries on in it and updates the NPC's roster voice.
+
+### R52-13-SODOKU_TALK
+
+Sodoku talks as played: full, formal sentences, no contractions, no small talk; the card changes to say so.
+
+### R52-14-SODOKU_JOKE
+
+Sodoku makes jokes only by accident: he never means one; sometimes a flat truth lands as a joke and he doesn't notice.
+
+### R52-15-HILD
+
+Hild sounds eleven because the child leaks: her syntax slips, a sentence started too big and not finished, a wrong word, a question that gets out in public.
+
+### R52-16-LAMBERT
+
+When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores, names) where a man would say what he feels.
+
+### R52-17-DARIUS
+
+Darius is the one who argues: he disputes to your face in reasoned argument while the other quiet men withhold.
+
+### R52-18-GIMBZO
+
+Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what matters; the card changes to match the scenes.
+
+### R52-19-VERINUS
+
+Verinus is a speech-maker: his card is rewritten to match the scenes.
+
+### R52-20-AURELIAN
+
+Aurelian's Sum-gol shows in the words (the dropped copula written into the line, narration marking the rising pitch), under strain and also whenever he is with Mahuo kin or anyone from Sum-gol.
+
+### R52-21-KWON
+
+Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even when it would work.
+
+### R52-22-YOKO
+
+Yoko is precise and spare at work; at home with Sodoku and family she runs long and personal.
+
+### R52-23-MAHUO_WE
+
+The plural 'we' under strain is a family tell: every Mahuo slips into it under strain, Aurelian included.
+
+### R52-24-KUJO
+
+Kujo's voice is left to his arc: no card work now; the likeness to Muken is fixed only when a scene puts them together.
+
+### R52-25-STRESS_RULE
+
+For named humans under stress, both apply at once: the shortening happens and the card's stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi's short lines come fast).
+
+### R52-26-GRIEF
+
+Grief takes a voice back to its root: polish falls away and the childhood voice returns (Aurelian's Sum-gol, Verinus's coastal cadence, Hild's child).
+
+### R52-27-JOY
+
+Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.
+
+### R52-28-COMPOSURE
+
+For people trained into calm, composure is free; it costs, visibly, only when it is a real strain.
+
+### R52-29-NPC_RECIPE
+
+Each NPC's voice starts from a researched real-world speaker type (a customs clerk's forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+
+### R52-30-PROVERBS
+
+Every NPC carries one fixed saying from the Standing Inventory; the sayings are the culture's texture.
+
+### R52-31-COMIC_NPC
+
+The partner may invent a comic minor NPC as a comic voice from the start, with no setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+
+### R52-32-ROOM_CAST
+
+Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
+

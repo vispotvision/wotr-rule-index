@@ -1,0 +1,905 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat, answering the character-voices questionnaire. Each verbatim is an exact
+# substring of its RULINGS.md entry. Standalone-ruling pattern: empty source.file.
+pack: Voice Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R52-01-SAME_MAN
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Same man
+  status: live
+  kind: mandate
+  summary: 'The quiet, controlled older man is the setting''s taste: leave the archetype; the
+    swap test catches clashes scene by scene.'
+  verbatim: 'The quiet, controlled older man is the setting''s taste: leave the archetype; the
+    swap test catches clashes scene by scene.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c01: Six of the most-used men share one voice: quiet, controlled, never raises
+    it, the silence is the verdict. Sodoku (silences that count), Muken (speaks rarely and finally),
+    Lambert (has not raised his v'
+- id: R52-02-VOICE_LEVER
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Voice lever
+  status: live
+  kind: mandate
+  summary: 'A voice is mind and sound in equal measure: what they notice, want, refuse and how
+    they reason, plus an audible layer (sentence length, contractions, a pet word, pace, dialect).'
+  verbatim: 'A voice is mind and sound in equal measure: what they notice, want, refuse and
+    how they reason, plus an audible layer (sentence length, contractions, a pet word, pace,
+    dialect).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c02: What mostly makes a voice? The live rule says what a person notices,
+    wants and refuses, not vocabulary fences. But the newer rules put the sound back: magic
+    is talked about by training (a Measurewrigh'
+- id: R52-03-VOICE_BLOCK
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Voice block
+  status: live
+  kind: mandate
+  summary: 'Every major card carries a full voice block with fixed slots: notices first, sentence
+    length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift,
+    grief shift, joy shift, one sample line.'
+  verbatim: 'Every major card carries a full voice block with fixed slots: notices first, sentence
+    length, contractions, pet word, never says, stumbles or not, gloss rights, stress shift,
+    grief shift, joy shift, one sample line.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c03: Voices sit on the cards in any shape: Lambert has a page-long essay,
+    Kwon a table row, Kujo and Ilthara have no card voice at all. Disfluency and gloss rights
+    are already card fields. Should every maj'
+- id: R52-04-CONTRACTIONS
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Contractions
+  status: live
+  kind: mandate
+  summary: 'Contractions are set per character on the card: always, sometimes or never; most
+    sometimes, a few never on purpose.'
+  verbatim: 'Contractions are set per character on the card: always, sometimes or never; most
+    sometimes, a few never on purpose.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c04: Almost the whole serious cast never contracts: Verinus, Kujo, Lambert,
+    Hild, Charles, Wren, Borin, Ayame all at zero; Sodoku and Darius nearly zero. Only Gimbzo,
+    Cozbi, Rengai and Hiromi say "don''t" a'
+- id: R52-05-COUNTING
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Counting
+  status: live
+  kind: mandate
+  summary: 'Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks and
+    anyone reading an instrument count; everyone else rounds, guesses or doesn''t count.'
+  verbatim: 'Exact-number speech belongs to its owners: Lambert, the Measurewrights, clerks
+    and anyone reading an instrument count; everyone else rounds, guesses or doesn''t count.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c05: Many mouths count out loud: Lambert''s eleven years, Sesk''s five hundred
+    and ninety-one, Maren''s count in the yard, Verinus counting the dead back, Ilthara''s eleven
+    months and eleven counts. "Eleven" i'
+- id: R52-06-TRIADS
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Triads
+  status: live
+  kind: mandate
+  summary: Triads and parallel clauses are legal in any mouth, under duress included; the composure
+    check drops them.
+  verbatim: Triads and parallel clauses are legal in any mouth, under duress included; the composure
+    check drops them.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c06: Two rules clash in dialogue. Anaphora and the triad are now legal everywhere.
+    The speech rules still ban parallel clauses and three-part lists under duress, and even
+    a crafted speech must avoid balanc'
+- id: R52-07-SWAP_CHECK
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: How distinct voices must be
+  title: Swap check
+  status: live
+  kind: mandate
+  summary: 'The speaker-swap measurement is for reading only: no numbers in the checker; cover
+    the tags and sort by ear.'
+  verbatim: 'The speaker-swap measurement is for reading only: no numbers in the checker; cover
+    the tags and sort by ear.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: How distinct voices must be
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c07: Dialogue is now mostly untagged, so the tags-covered sort test carries
+    the weight. There is a measurement too: the fingerprint report scores how swappable two
+    speakers are (Hild/Darius 0.07, Muken/Kuj'
+- id: R52-08-PC_IDIOM
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Isaac's own characters
+  title: PC idiom
+  status: live
+  kind: mandate
+  summary: 'When Isaac''s play and a card disagree, his play wins: his character''s thoughts
+    sound like the man he actually plays, and the card is updated to match.'
+  verbatim: 'When Isaac''s play and a card disagree, his play wins: his character''s thoughts
+    sound like the man he actually plays, and the card is updated to match.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Isaac's own characters
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c08: In roleplay the narration may go deep inside your character, and you
+    overrule any thought that isn''t his. When your play and the card disagree, whose voice
+    do his thoughts use? Example: Sodoku''s card '
+- id: R52-09-NO_LINE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Isaac's own characters
+  title: No line
+  status: live
+  kind: mandate
+  summary: When Isaac gives a wordless beat in a written scene, the partner writes the line
+    in his character's voice, marked as a draft for him to keep, change or cut.
+  verbatim: When Isaac gives a wordless beat in a written scene, the partner writes the line
+    in his character's voice, marked as a draft for him to keep, change or cut.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Isaac's own characters
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c09: In a written scene (not a roleplay turn) you give a beat without words:
+    "Sodoku tells Osric the road is closed." May the partner write the words he says?'
+- id: R52-10-CROSSOVER
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Isaac's own characters
+  title: Crossover
+  status: live
+  kind: mandate
+  summary: 'Isaac''s POV characters are always his: when one walks into another''s thread, the
+    partner leaves their lines and choices open.'
+  verbatim: 'Isaac''s POV characters are always his: when one walks into another''s thread,
+    the partner leaves their lines and choices open.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Isaac's own characters
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c10: You play several points of view: Sodoku (Kharven), Hild (Kharven-Seat),
+    Kwon (Hon-guk), Ilthara (New World). When one of them walks into another''s thread (Sodoku
+    in a Hild scene), who speaks for him?'
+- id: R52-11-ILTHARA
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Isaac's own characters
+  title: Ilthara
+  status: live
+  kind: mandate
+  summary: The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's
+    lines, for him to approve.
+  verbatim: The partner drafts a voice block for Ilthara Korvaeth from her scenes and Isaac's
+    lines, for him to approve.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Isaac's own characters
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c11: Ilthara Korvaeth is your New World point of view with 31 scenes and
+    no character card, so there''s no written voice for her. Her voice lives only in the arc
+    file (the Mad Queen since twenty-six, the th'
+- id: R52-12-HANDBACK
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Isaac's own characters
+  title: Handback
+  status: live
+  kind: mandate
+  summary: 'When Isaac hands an NPC''s voice back, his version sticks: the partner carries on
+    in it and updates the NPC''s roster voice.'
+  verbatim: 'When Isaac hands an NPC''s voice back, his version sticks: the partner carries
+    on in it and updates the NPC''s roster voice.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Isaac's own characters
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c12: You can take over any NPC''s voice by saying so, and the partner hands
+    it back after. When you hand the voice back, does the way you played it stick?'
+- id: R52-13-SODOKU_TALK
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Sodoku talk
+  status: live
+  kind: mandate
+  summary: 'Sodoku talks as played: full, formal sentences, no contractions, no small talk;
+    the card changes to say so.'
+  verbatim: 'Sodoku talks as played: full, formal sentences, no contractions, no small talk;
+    the card changes to say so.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c13: Sodoku: the card says "says little, already ranked before it leaves
+    him", but his lines average about 25 words, more than Hild or Darius. How much does he talk?'
+- id: R52-14-SODOKU_JOKE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Sodoku joke
+  status: live
+  kind: mandate
+  summary: 'Sodoku makes jokes only by accident: he never means one; sometimes a flat truth
+    lands as a joke and he doesn''t notice.'
+  verbatim: 'Sodoku makes jokes only by accident: he never means one; sometimes a flat truth
+    lands as a joke and he doesn''t notice.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: replaces
+  supersedes:
+  - R5-D-HUMOUR_CASTING
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c14: An older rule says Sodoku does not make jokes and should not start.
+    The newer humour rule says funny characters are funny often and tone flexes with the cast.
+    Does Sodoku ever make a joke?'
+- id: R52-15-HILD
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Hild
+  status: live
+  kind: mandate
+  summary: 'Hild sounds eleven because the child leaks: her syntax slips, a sentence started
+    too big and not finished, a wrong word, a question that gets out in public.'
+  verbatim: 'Hild sounds eleven because the child leaks: her syntax slips, a sentence started
+    too big and not finished, a wrong word, a question that gets out in public.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c15: Hild: the card says short declaratives, no questions in public, a child''s
+    voice under her father''s cadence. On the page her lines average about 21 words with rehearsed
+    triads, and her fingerprint is t'
+- id: R52-16-LAMBERT
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Lambert
+  status: live
+  kind: mandate
+  summary: 'When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores,
+    names) where a man would say what he feels.'
+  verbatim: 'When Lambert is shaken he counts out loud: he falls into inventory (numbers, stores,
+    names) where a man would say what he feels.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c16: Lambert: his words come at a pace that never varies, and he has not
+    raised his voice since the three days after Kasumi. His one listed tell is the thumb counting
+    against his finger. When he is shaken,'
+- id: R52-17-DARIUS
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Darius
+  status: live
+  kind: mandate
+  summary: 'Darius is the one who argues: he disputes to your face in reasoned argument while
+    the other quiet men withhold.'
+  verbatim: 'Darius is the one who argues: he disputes to your face in reasoned argument while
+    the other quiet men withhold.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c17: Darius: his card says declarative, formal, unhedged, no questions in
+    company; his scenes say his voice goes flat and precise when he''s frightened, and tribunals
+    take it for composure. He runs deep (ba'
+- id: R52-18-GIMBZO
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Gimbzo
+  status: live
+  kind: mandate
+  summary: 'Gimbzo is a loose talker: an easy, rambling old master who goes silent only on what
+    matters; the card changes to match the scenes.'
+  verbatim: 'Gimbzo is a loose talker: an easy, rambling old master who goes silent only on
+    what matters; the card changes to match the scenes.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c18: Gimbzo: the card makes him sparse (one sentence on the Fist of God,
+    then never another; "He is still working"). His scene lines are the chattiest in the whole
+    cast: about 35 words, mostly contracted ('
+- id: R52-19-VERINUS
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Verinus
+  status: live
+  kind: mandate
+  summary: 'Verinus is a speech-maker: his card is rewritten to match the scenes.'
+  verbatim: 'Verinus is a speech-maker: his card is rewritten to match the scenes.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c19: Verinus: the card says short sentences and frequent questions he doesn''t
+    then answer. His lines average about 28 words and almost never ask anything, and a ruling
+    says his register carries set-piece s'
+- id: R52-20-AURELIAN
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Aurelian
+  status: live
+  kind: mandate
+  summary: Aurelian's Sum-gol shows in the words (the dropped copula written into the line,
+    narration marking the rising pitch), under strain and also whenever he is with Mahuo kin
+    or anyone from Sum-gol.
+  verbatim: Aurelian's Sum-gol shows in the words (the dropped copula written into the line,
+    narration marking the rising pitch), under strain and also whenever he is with Mahuo kin
+    or anyone from Sum-gol.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c20: Aurelian: acquired Concordia formality over a Sum-gol childhood that
+    shows under strain. He drops the copula ("is") in short assertions and his sentences rise
+    at the end and never close. How does that'
+- id: R52-21-KWON
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Kwon
+  status: live
+  kind: mandate
+  summary: Kwon Mu-jin never uses his rank or the old court honorifics to win an argument, even
+    when it would work.
+  verbatim: Kwon Mu-jin never uses his rank or the old court honorifics to win an argument,
+    even when it would work.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c21: Kwon Mu-jin: formally precise, explains before he''s asked, apologises
+    for explaining. The card doesn''t say what he refuses to say, and that''s the other half
+    of a voice. Which fits?'
+- id: R52-22-YOKO
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Yoko
+  status: live
+  kind: mandate
+  summary: Yoko is precise and spare at work; at home with Sodoku and family she runs long and
+    personal.
+  verbatim: Yoko is precise and spare at work; at home with Sodoku and family she runs long
+    and personal.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c22: Yoko: "exactly what is accurate and nothing more", funny through what
+    she declines to say. On the page her lines average about 23 words, and she says "I" more
+    than anyone else in the cast (two lines i'
+- id: R52-23-MAHUO_WE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Mahuo 'we'
+  status: live
+  kind: mandate
+  summary: 'The plural ''we'' under strain is a family tell: every Mahuo slips into it under
+    strain, Aurelian included.'
+  verbatim: 'The plural ''we'' under strain is a family tell: every Mahuo slips into it under
+    strain, Aurelian included.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c23: Cozbi''s card gives him "occasional plural self-reference under strain,
+    per Mahuo pattern": he says "we" for himself. Aurelian, Ara Min, Hiromi and Geturo are Mahuo
+    too, and none of them do it. Cozbi''s'
+- id: R52-24-KUJO
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: The major cast, one by one
+  title: Kujo
+  status: live
+  kind: mandate
+  summary: 'Kujo''s voice is left to his arc: no card work now; the likeness to Muken is fixed
+    only when a scene puts them together.'
+  verbatim: 'Kujo''s voice is left to his arc: no card work now; the likeness to Muken is fixed
+    only when a scene puts them together.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: The major cast, one by one
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c24: Kujo: 34 scenes and 121 lines, but no card, so no written voice. His
+    fingerprint is almost the same as Muken''s (0.08) and close to Sonzai''s and Aurelian''s.
+    His favourite words are "nihil", "understand'
+- id: R52-25-STRESS_RULE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Stress, grief and joy
+  title: Stress rule
+  status: live
+  kind: mandate
+  summary: 'For named humans under stress, both apply at once: the shortening happens and the
+    card''s stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi''s short
+    lines come fast).'
+  verbatim: 'For named humans under stress, both apply at once: the shortening happens and the
+    card''s stress tell rides on it (Kwon over-explains in short broken bursts; Cozbi''s short
+    lines come fast).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Stress, grief and joy
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c25: The live rule says human speech under stress gets shorter and simpler,
+    the same way in everyone. Several cards say the opposite: Kwon over-explains, Cozbi speeds
+    up, Yoko gets more precise, Darius goe'
+- id: R52-26-GRIEF
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Stress, grief and joy
+  title: Grief
+  status: live
+  kind: mandate
+  summary: 'Grief takes a voice back to its root: polish falls away and the childhood voice
+    returns (Aurelian''s Sum-gol, Verinus''s coastal cadence, Hild''s child).'
+  verbatim: 'Grief takes a voice back to its root: polish falls away and the childhood voice
+    returns (Aurelian''s Sum-gol, Verinus''s coastal cadence, Hild''s child).'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Stress, grief and joy
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c26: Nothing decides how grief changes a voice, as distinct from stress.
+    Examples on the page: Verinus counting the dead back aloud, Lambert''s three days behind
+    a closed door, Hild smaller and asking quest'
+- id: R52-27-JOY
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Stress, grief and joy
+  title: Joy
+  status: live
+  kind: mandate
+  summary: 'Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.'
+  verbatim: 'Joy in a guarded voice: the speech holds; the joy shows in hands, face and breath.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Stress, grief and joy
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c27: The cast is guarded, and nothing says what a guarded voice sounds like
+    when it''s happy. What''s the default?'
+- id: R52-28-COMPOSURE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: Stress, grief and joy
+  title: Composure
+  status: live
+  kind: mandate
+  summary: For people trained into calm, composure is free; it costs, visibly, only when it
+    is a real strain.
+  verbatim: For people trained into calm, composure is free; it costs, visibly, only when it
+    is a real strain.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: Stress, grief and joy
+    operation: replaces
+  supersedes:
+  - R19-4-COMPOSURE_COST
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c28: The live rule says staying composed under stress is an expensive discipline,
+    and the scene must show the price. Much of the cast is composed by nature (Lambert''s evenness
+    "is architecture", the Eladri'
+- id: R52-29-NPC_RECIPE
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: NPC voices the partner builds
+  title: NPC recipe
+  status: live
+  kind: mandate
+  summary: Each NPC's voice starts from a researched real-world speaker type (a customs clerk's
+    forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+  verbatim: Each NPC's voice starts from a researched real-world speaker type (a customs clerk's
+    forms, a field surgeon's triage talk, a drover's calls), credited in the notes.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC voices the partner builds
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c29: The NPC builder''s voice slot is: what they notice first, sentence length,
+    one discourse marker, one Inventory saying, what they never say, gloss rights. Your brief
+    lets the partner draw on real-world '
+- id: R52-30-PROVERBS
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: NPC voices the partner builds
+  title: Proverbs
+  status: live
+  kind: mandate
+  summary: Every NPC carries one fixed saying from the Standing Inventory; the sayings are the
+    culture's texture.
+  verbatim: Every NPC carries one fixed saying from the Standing Inventory; the sayings are
+    the culture's texture.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC voices the partner builds
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c30: The NPC builder gives every NPC one fixed saying from the Standing Inventory,
+    and Kharven scenes need at least two Inventory recurrences each. Proverbs pile up in every
+    mouth. Should every NPC carry o'
+- id: R52-31-COMIC_NPC
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: NPC voices the partner builds
+  title: Comic NPC
+  status: live
+  kind: mandate
+  summary: The partner may invent a comic minor NPC as a comic voice from the start, with no
+    setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+  verbatim: The partner may invent a comic minor NPC as a comic voice from the start, with no
+    setup-deadpan-reaction beat; the funeral test no longer binds NPC building.
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC voices the partner builds
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c31: The funeral test is dropped for characters whose humour is their voice.
+    The NPC builder still says a minor NPC is funny only if the funeral test passes. Can the
+    partner invent a comic minor NPC?'
+- id: R52-32-ROOM_CAST
+  pack: Voice Law 2026-09-26
+  pack_number: null
+  section: NPC voices the partner builds
+  title: Room cast
+  status: live
+  kind: mandate
+  summary: 'Room casting is by ear: the partner casts for the scene and fixes voice likeness
+    only when the swap test fails.'
+  verbatim: 'Room casting is by ear: the partner casts for the scene and fixes voice likeness
+    only when the swap test fails.'
+  amends:
+  - guide: Character cards, NATALIE.md and the wotr-npc skill
+    locus: NPC voices the partner builds
+    operation: adds
+  supersedes: []
+  applies_to:
+  - dialogue
+  - character-sheet
+  - pov
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (voices questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question c32: When the partner fills a room with NPCs, should their voices be chosen
+    to contrast with each other and with your character? Example: never two quiet, clipped men
+    beside Sodoku, and at least one talker'

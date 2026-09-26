@@ -6,6 +6,52 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (WAR-159 — five generators, not three; the patch is written and the wall is now a question in the docket)
+
+**There are five provenance emitters left, not the three CONTINUE recorded, and all five are
+patched and verified in `reports/clean-publishing-generators.patch` — 3 files, 5 hunks,
+`git apply --check` clean against `190b9e4`, all three files compile.** The working, the findings
+and the apply command are `reports/clean_publishing_generators_2026-09-26.md`. **Nothing is
+applied**: every one is a `build/*.py` edit.
+
+The two nobody had filed, found by grepping `build/*.py` for provenance literals rather than
+grepping the mirror:
+
+- **`build/notion_publish.py:227–234`**, `ensure_rule_index()`, is the worst string in the repo —
+  four breaches in one Notion intro: the generator stamp naming the GitHub repo *and* the script,
+  `Edit the repo, not these pages`, `Natalie —`, and `awaiting Isaac`. The page is live,
+  `_rule_index` `3d958200-eb22-8113-b34a-cbaf20eae471`.
+- **`build/publish_imports.py:93–97`**, the Iridescent Archive intro, which WAR-158 missed and
+  WAR-159 caught.
+
+**Two live Notion pages carrying barred text cannot be found from `wiki/`, which is how both
+survived two sweeps.** `notion_export.py` does not walk them, so they are in none of
+`wiki/.manifest.json`'s 653 entries and no grep of the mirror returns them: The Rule Index
+(above) and **Natalie — Standing Rules** (`3d958200-eb22-8138-8f80-dc57a05789c1`), whose breach
+is in the **page title**. WAR-156 greps the mirror and will miss both; Cody Wix needs the two ids
+by hand. The title is deliberately not in the patch — renaming is barred by 2.4 without the issue
+saying so, and a naive rename creates a second page rather than moving the first, because
+`build/.notion_publish.json`'s entry for `desktop/NATALIE.md` has to migrate with it.
+
+**WAR-158's two open questions are answered and both are out of scope**, re-derived rather than
+taken on report: `build/vault_export.py:141` writes `vault/_Index.md` and `vault/` is
+`.gitignore:33`, so it is neither Notion nor the wiki; `wiki/INDEX.md` is the export's own table
+of contents, absent from all 653 manifest entries and skipped by name in six tools.
+
+**The wall itself is now a question in the rolling questionnaire, where it belongs.**
+`docket/questions.jsonl` did not exist and now holds one row, `from` WAR-159: house rule 2.2 bars
+every seat from editing `build/*.py`, clean publishing part 2 says *"fix the generators"*, and
+the generators are `build/*.py`. Two standing rules of equal standing, so rule 3.1 forbids any
+seat picking a winner — **and no agent ruling can settle it either**, because the bar lives in the
+agent instructions and rule 6 bars changing a policy outright. That is why re-routing has moved
+nothing: it is not a canon conflict and the docket cannot rule it. **Seven issues wait on that one
+line** — WAR-55, WAR-97, WAR-101, WAR-104, WAR-112, WAR-121 and WAR-158/159 — with every patch
+already written and verified. Four options are on the row, from "the bar holds, hand over patches"
+to "lift it for `build/` with a review stage".
+
+`bash build/py.sh build/validate.py` PASS, 706 rules, live=581 superseded=125. No `build/`,
+`wiki/`, `sources/`, `CONFLICTS.md`, `RULINGS.md`, card or Notion page was touched.
+
 ## State on 2026-09-26 (WAR-14 — the Essence Ledger Part is published, clean where this issue's own words reach)
 
 **Part Twenty-Three is live in Notion** as *IX. The Essence Ledger (Part Twenty-Three)*

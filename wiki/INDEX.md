@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-671 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+672 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -65,7 +65,7 @@
 
 - [Factions, Bloodlines & Institutions](Factions/Factions,%20Bloodlines%20&%20Institutions.md)
 
-## Factions, Bloodlines & Institutions (13)
+## Factions, Bloodlines & Institutions (14)
 
 - [Sancta Lux](Factions,%20Bloodlines%20&%20Institutions/Sancta%20Lux.md)
 - [Sōhai — The Whole Bow](Factions,%20Bloodlines%20&%20Institutions/Sōhai%20—%20The%20Whole%20Bow.md)
@@ -77,6 +77,7 @@
 - [The Guild Accord](Factions,%20Bloodlines%20&%20Institutions/The%20Guild%20Accord.md)
 - [The Holy Inquisition](Factions,%20Bloodlines%20&%20Institutions/The%20Holy%20Inquisition.md)
 - [The Mother](Factions,%20Bloodlines%20&%20Institutions/The%20Mother.md)
+- [The Night Watch](Factions,%20Bloodlines%20&%20Institutions/The%20Night%20Watch.md)
 - [The Powers of the Imperial Age](Factions,%20Bloodlines%20&%20Institutions/The%20Powers%20of%20the%20Imperial%20Age.md)
 - [The Ten Great Houses of Drakyssia](Factions,%20Bloodlines%20&%20Institutions/The%20Ten%20Great%20Houses%20of%20Drakyssia.md)
 - [The Void Vanguard](Factions,%20Bloodlines%20&%20Institutions/The%20Void%20Vanguard.md)

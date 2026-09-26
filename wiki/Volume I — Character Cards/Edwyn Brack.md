@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-81d1-9417-fbb9662823fe"
 notion_url: "https://app.notion.com/p/Edwyn-Brack-3e358200eb2281d19417fbb9662823fe"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
+last_edited: "2026-09-26T16:20:00.000Z"
 verification: null
 ---
 
@@ -13,7 +13,7 @@ verification: null
 ## Edwyn Brack
 
 **Say it** · ED-win BRAK
-*Lattice Classification Bureau, northern office. Classifier. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
+*Lattice Classification Bureau, northern office. Classifier.*
 
 ### I · Identity
 
@@ -77,13 +77,7 @@ Pending Isaac.
 
 ---
 
-*Source: The Night's Watch (scenes/the_nights_watch.md).*
-
----
-
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Night Register. What those sources do not state is new here.*
 
 #### Origin
 

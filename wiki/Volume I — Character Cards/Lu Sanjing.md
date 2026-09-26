@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-8105-939b-dec93181c777"
 notion_url: "https://app.notion.com/p/Lu-Sanjing-3e358200eb228105939bdec93181c777"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:47:00.000Z"
+last_edited: "2026-09-26T16:20:00.000Z"
 verification: null
 ---
 
@@ -13,7 +13,7 @@ verification: null
 ## Lu Sanjing
 
 **Say it** · LOO sahn-JING
-*Scholar. Cited only, in The Night's Watch.*
+*Scholar.*
 
 ### I · Identity
 
@@ -75,13 +75,7 @@ Pending Isaac.
 
 ---
 
-*Source: The Night's Watch (scenes/the_nights_watch.md).*
-
----
-
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Night Register. What those sources do not state is new here.*
 
 #### Origin
 

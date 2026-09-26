@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-816d-a322-ca88ed8aa66b"
 notion_url: "https://app.notion.com/p/Qiu-Yinzhi-3e358200eb22816da322ca88ed8aa66b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
+last_edited: "2026-09-26T16:20:00.000Z"
 verification: null
 ---
 
@@ -13,7 +13,7 @@ verification: null
 ## Qiu Yinzhi
 
 **Say it** · CHYOH YIN-jih
-*Night Watch Society, Timberline chapter. Coil-carrier. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
+*Night Watch Society, Timberline chapter. Coil-carrier.*
 
 ### I · Identity
 
@@ -82,13 +82,7 @@ Pending Isaac.
 
 ---
 
-*Source: The Night's Watch (scenes/the_nights_watch.md). Card created from scene text only; no numbers originated.*
-
----
-
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of The Night Register. What those sources do not state is new here.*
 
 #### Origin
 

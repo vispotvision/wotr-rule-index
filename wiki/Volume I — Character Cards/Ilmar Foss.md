@@ -4,7 +4,7 @@ notion_id: "3e358200-eb22-813b-93b8-ee2dd9d5bfe3"
 notion_url: "https://app.notion.com/p/Ilmar-Foss-3e358200eb22813b93b8ee2dd9d5bfe3"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T10:29:00.000Z"
+last_edited: "2026-09-26T16:20:00.000Z"
 verification: null
 ---
 
@@ -13,7 +13,7 @@ verification: null
 ## Ilmar Foss
 
 **Say it** · IL-mar FOSS
-*Malphas's cell, Greyshaft Nine coldhouse. Instrument-maker, struck from the Hexagonal Oath. Scene-derived stub from The Night's Watch; everything not stated in that scene is pending Isaac.*
+*Malphas's cell, Greyshaft Nine coldhouse. Instrument-maker, struck from the Hexagonal Oath.*
 
 ### I · Identity
 
@@ -78,13 +78,7 @@ Pending Isaac.
 
 ---
 
-*Source: The Night's Watch (scenes/the_nights_watch.md).*
-
----
-
 ### Lore · The Life Behind the Card
-
-*Written 2026-09-24 by the character-lore pass from this card, the one archived scene it appears in, and the record of Malphas's cell. What those sources do not state is new here.*
 
 #### Origin
 

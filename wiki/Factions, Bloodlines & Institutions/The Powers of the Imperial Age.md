@@ -4,13 +4,13 @@ notion_id: "3e758200-eb22-811a-a7d0-eb66ba2d38ea"
 notion_url: "https://app.notion.com/p/The-Powers-of-the-Imperial-Age-3e758200eb22811aa7d0eb66ba2d38ea"
 section: "Factions, Bloodlines & Institutions"
 tags: []
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-09-26T16:21:00.000Z"
 verification: "unverified"
 ---
 
 # The Powers of the Imperial Age
 
-*Crowns, great houses, orders, guilds, a crown office, a cult and the chartered companies: what each wants, what it holds, how it fights, and who it is set against.*
+*Crowns, great houses, orders, guilds, a crown-chartered society, a cult and the chartered companies: what each wants, what it holds, how it fights, and who it is set against.*
 > *The company takes the ground. The crown claims it afterward. The guild hunts whatever lives on it. All three send the bill to the same town.*
 > *saying of the arc settlements*
 
@@ -159,9 +159,9 @@ Day-to-day rule in most of the four quarters is not one authority but three stac
 
 ### The Night Watch
 
-*A crown office, older than the Guild Accord · illegal magic and unexplained phenomena*
+*The Night Watch Society · crown-chartered, older than the Guild Accord · illegal magic and unexplained phenomena*
 **Wants.** Every illegal working attributed and every unexplained phenomenon explained before it spreads. It works beside the guilds and answers to the state, and it was investigating unlawful magic before any circle of the Accord had signed.
-**Holds.** The crown's warrant. The Night Watch Society's chapters: foresters, coil-carriers and other people who walk a line every week and file what they find on it. A bulletin office that prints their inserts on the cheapest rag it can buy. And the Night Register, the desk where a filing is struck with a Warden's brass and becomes an exhibit.
+**Holds.** The crown's warrant, under the crown's charter to the Society. Its chapters: foresters, coil-carriers and other people who walk a line every week and file what they find on it. A bulletin office that prints their inserts on the cheapest rag it can buy. And the Night Register, which takes up what the Lattice Classification Bureau, a separate office, closes: the desk where a filing is struck with a Warden's brass and becomes an exhibit.
 **Fights by.** Paper and patience. A chapter's observer measures, seals a sample tin, and files. The Register builds its file off whatever is written down, and a single name in a private letter has been enough to hang a whole case on before.
 **Set against.** Unlicensed practitioners, cults, and anyone working magic the state has not allowed. At the edges, the guilds, whose trace examiners it works beside and whose courts want the same cases. And the classifying desks that close a filing as weather because a closed filing costs nobody anything.
 **Fears.** A working that leaves no author. Residue always carries its author, and the whole science of attribution rests on it. A method that makes the signature belong to somebody who cannot be charged defeats the Watch without a fight.

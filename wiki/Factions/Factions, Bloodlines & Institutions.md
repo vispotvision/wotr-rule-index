@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8187-9f9a-d8f904fc130f"
 notion_url: "https://app.notion.com/p/Factions-Bloodlines-Institutions-3b158200eb2281879f9ad8f904fc130f"
 section: "Factions"
 tags: ["Factions", "Bloodlines", "Trade & Economy"]
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-09-26T16:20:00.000Z"
 verification: "unverified"
 ---
 
@@ -97,3 +97,4 @@ flowchart TD
 - [The Holy Inquisition](Factions, Bloodlines & Institutions/The Holy Inquisition.md)
 - [The Powers of the Imperial Age](Factions, Bloodlines & Institutions/The Powers of the Imperial Age.md)
 - [The Mother](Factions, Bloodlines & Institutions/The Mother.md)
+- [The Night Watch](Factions, Bloodlines & Institutions/The Night Watch.md)

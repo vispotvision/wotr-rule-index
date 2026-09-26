@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-81e2-9338-de9a77b31053"
 notion_url: "https://app.notion.com/p/The-Gate-Who-May-Learn-Magic-3e758200eb2281e29338de9a77b31053"
 section: "The Magic System"
 tags: []
-last_edited: "2026-09-26T14:14:00.000Z"
+last_edited: "2026-09-26T16:21:00.000Z"
 verification: "unverified"
 ---
 
@@ -57,7 +57,7 @@ A woman who woke as a girl and warms her own kettle breaks no law. **Teaching th
 **Controlled texts.** Primers, grammars and glyph tables are printed under licence, numbered, and issued against a registration. The **Apprentice's Primer** reaches a new practitioner the day they are entered and not before. **Teaching the Divine Language without sanction** is a Law of Severance for anyone sworn to the Codex, and a crown offence under most schedules.
 **Crystal registration.** A stirred Crystal is entered on the roll of the place it was found. **The Bureau of Strategic Assessment** manages registration and cares only whether an output has been observed and assessed. Those who refuse are entered anyway, as **Unregistered Naturals**, on a separate list that is never published.
 **Inspectors and trace examiners.** Nearly every working leaves traces. A ward that was cut carries the cutter's hand; a Draft that was poured carries a maker's mark. **A trace examiner reads those traces as evidence**, and a good one can name the teaching lineage behind a technique more often than not, which is how an unlicensed school is usually found: through its pupils' mistakes. The Board inspector hears the draw, and an unlicensed working on a main is audible to anyone listening at the wrong hour.
-**The Night Watch.** A crown office, older than the Accord's circles, that investigates illegal magic and phenomena the law has no name for. The Night Watch works alongside the guilds and answers to the state, which is the whole of its difference from a hall.
+**The Night Watch.** The Night Watch Society, a crown-chartered society holding the crown's warrant, older than the Accord's circles, that investigates illegal magic and phenomena the law has no name for. The Night Watch works alongside the guilds and answers to the state, which is the whole of its difference from a hall.
 **The Inquisitors.** Sancta Lux keeps a lateral office, the **Inquisitor**, authorised to pronounce sentence in the field without an Arbiter present, and it sends them after unconsecrated high working wherever the Church holds standing. **The Holy Inquisition**, the splinter that took the name, claims the same work with no standing at all and prosecutes it by fire.
 **The guilds.** Locally, the halls police their own ground. A hall that finds an unlicensed practitioner working its district posts him on its board, and an **Extermination** Commission against a corrupted practitioner is a lawful posting under the five classes. Inside a signed circle, Enforcement's **Sealwrights** take the cases no hall will.
 

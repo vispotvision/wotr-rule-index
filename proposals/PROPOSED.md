@@ -137,3 +137,18 @@ Archon's attested name carried bare; the function and measure roots are
 coined on the Host's own vocabulary; the five working names are read back
 through the system and kept, not replaced. Four flags inline, two of them
 canon acts (Faisal's and Verantha's Lawbell-names) left to Isaac.
+
+## 2026-09-25 — Firearms against practitioners, and the ceiling on enhanced weapons
+
+**Status:** proposed 2026-09-25, awaiting Isaac
+**applies_to:** combat, stats, items, magic-mechanism
+**Full draft:** proposals/weapon_enhancement_draft.md
+
+Part A reads the live Grade and Speed tables against a plain period revolver
+(.44, ~235 m/s): D-Grade reacts and is hit, C-Grade dodges, B-Grade is proposed
+as the catching Grade (new: Travel floor at least twice the projectile's
+speed). Part B is new: an enhanced weapon performs no higher than the Grade of
+whoever put the Essence in it; enhancement moves two dials (speed, capped at
+the enhancer's Attack Speed; the hit, capped at their Attack output); each
+enhanced round is paid per shot and consumed; every enhancement stays readable
+by a Harmonist. Four flags inline.

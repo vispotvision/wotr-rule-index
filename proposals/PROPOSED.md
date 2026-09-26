@@ -159,11 +159,11 @@ by a Harmonist. Four flags inline.
 **applies_to:** items, stats, magic-mechanism, combat
 **Full draft:** proposals/item_grades_draft.md
 
-An item's Grade is the lower of its material's ceiling (Material Index tier
-T0–T9 mapped onto the Part Four Grade ladder: T3 holds D, T4 holds C, T5 B–A,
-T7 SS, T9 EX) and its maker's Grade (R45-3). One letter read per kind of item:
-a weapon's added hit, a projectile's speed and hit, armour's proof (stops its
-Grade and below; one above breaks it, two above passes clean), a focus's
-channelling ceiling. Costs as shares of the maker's reserve (1% per enhanced
+Items ranked on the nine Tiers of Standing (Isaac: "based on the nine tier
+system"): an item carries the lower of its material's Tier (Material Index Tn
+holds Standing Tier n: T3 Journeyman/C, T4 Adept/B, T7 Grandmaster, T9 Paragon)
+and its maker's Tier (R45-3). Read per kind: a weapon's added hit, a
+projectile's speed and hit, armour's proof (stops its Tier and below; one above
+breaks it, two above passes clean), a focus's channelling ceiling. Costs as shares of the maker's reserve (1% per enhanced
 round, 10% a weapon, 25% proofed armour, the whole reserve for a relic). Four
 flags inline.

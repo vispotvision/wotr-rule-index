@@ -6,13 +6,17 @@ to have certain grades." Builds on what the canon already has rather than a new
 ladder: the Material Index tiers T0–T9 (each material graded by Bearing and
 Holding), the Standing Index's Provenance Class, proof-marks on plate, and
 R45-3 (an enhanced weapon performs no higher than the Grade of whoever put the
-Essence into it). Every letter below is the Part Four Grade ladder (Hollow, F,
-E, D ... EX), so an item and a person are read on one scale. Flags at the end.
+Essence into it). Isaac, same day: "It should be based on the nine tier system
+like journeymen adept etc." So an item is ranked on the Accord's public ladder,
+the nine Tiers of Standing (Initiate to Paragon), with the Grade letter that
+Tier carries read off The Sixteen Stages; an item and a person are read on one
+scale. Flags at the end.
 
 ## 1. An item's Grade
 
-> **An item's Grade is the lower of two ceilings: what its material can hold,
-> and what its maker could put into it.**
+> **An item carries a Tier of Standing, Initiate through Paragon: the lower of
+> what its material can hold and the Tier its maker stood at when it was made.**
+> A Journeyman-grade blade holds a Journeyman's working, C-Grade, and no more.
 
 - **Material ceiling** comes from the Material Index tier of what it is made of
   (the Holding reading), table 2. A master cannot put an A-Grade working into
@@ -21,48 +25,58 @@ E, D ... EX), so an item and a person are read on one scale. Flags at the end.
   wielder's, for a working channelled in the moment).
 - A composite item is graded by the material that carries the working, not the
   handle or the fittings.
-- A plain item with no working in it has no Grade letter at all. It performs
+- A plain item with no working in it has no Tier at all. It performs
   as its physics (R45, Part One) and is graded only by its material tier.
 
-## 2. Material tier to Grade ceiling
+## 2. The nine item Tiers
 
-| Tier | Material Index name | Example materials | Holds a working up to |
-|---|---|---|---|
-| T0 | Fragile | Mireclay, Glassroot Fibers, Dustquartz | Hollow (trace, short) |
-| T1 | Soft | Vellun Copper, Willowblood Sap, Sunreed Paper | F |
-| T2 | Common Durable | Greystone, Shieldgneiss, Stillband Ore | E |
-| T3 | Hardened | Sunkwood, Blackcap Sulphide, Ghoststeel | D |
-| T4 | Reinforced Magical, "instrument grade" | Clearbeam Beryl, Psionite, Runeglass | C |
-| T5 | Rare / Spirit-Forged | Aethersteel, Bloodsilver, Twilite Glass | B to A |
-| T6 | Arcane-Resistant | Soulquartz, Frostwool, Grimbarite | A to S, and refuses its category outright |
-| T7 | Titan-Forged, "found, not made" | Titanstone, Drakehide Steel | SS |
-| T8 | Mythic / Celestial | Eclipsium, Sunsinew, Moonblight Ore | SSS to X |
-| T9 | Transcendent / Forbidden | Nullglass, Ash of Names | EX; acts on the law, not within it |
+The Material Index already has tiers T0–T9. They line up one for one with the
+Tiers of Standing: **material tier n holds a working up to Tier of Standing n.**
+T0 is below the ladder, as Hollow and F are ("the Accord does not register what
+it cannot examine").
+
+| Item Tier | Standing name | Grade it holds | Material tier | Example materials |
+|---|---|---|---|---|
+| — | unranked | Hollow–F | T0 Fragile | Mireclay, Glassroot Fibers, Dustquartz |
+| 1 | Initiate | E | T1 Soft | Vellun Copper, Willowblood Sap, Sunreed Paper |
+| 2 | Apprentice | D | T2 Common Durable | Greystone, Shieldgneiss, Stillband Ore |
+| 3 | Journeyman | C | T3 Hardened | Sunkwood, Blackcap Sulphide, Ghoststeel |
+| 4 | Adept | B | T4 Reinforced Magical, "instrument grade" | Clearbeam Beryl, Psionite, Runeglass |
+| 5 | Expert | A | T5 Rare / Spirit-Forged | Aethersteel, Bloodsilver, Twilite Glass |
+| 6 | Master | S–SS | T6 Arcane-Resistant | Soulquartz, Frostwool, Grimbarite |
+| 7 | Grandmaster | SS–SSS | T7 Titan-Forged, "found, not made" | Titanstone, Drakehide Steel |
+| 8 | Archmaster | X–EX | T8 Mythic / Celestial | Eclipsium, Sunsinew, Moonblight Ore |
+| 9 | Paragon | EX+ | T9 Transcendent / Forbidden | Nullglass, Ash of Names |
+
+Where a Tier spans two Grades (Master, Grandmaster, Archmaster), the upper Grade
+needs a Class IV or V provenance (Standing Index) or the maker at the top of
+their own Tier.
 
 Read against items already on the wiki: Ryuka Yukari's Slyvine's Scarf
-(*Relic, Grade D*) needs a T3 material or better (its card names none). Mkono wa
+(*Relic, Grade D*) is Apprentice-grade and needs a T2 material or better (its
+card names none). Mkono wa
 Miti grounds shot only up to the E-to-D band although its wearer, Chimwala, is
-S-Grade, which is what a material ceiling biting looks like (the card gives
+S-Grade (Master): an Initiate-to-Apprentice item in a Master's hand, which is what a material ceiling biting looks like (the card gives
 living bark and amber, neither on the Material Index).
 
 ## 3. What the Grade means, by kind of item
 
-One letter, read against the Part Four and Part Six tables for what the item
+One Tier, and its Grade letter, read against the Part Four and Part Six tables for what the item
 does:
 
 | Kind | Its Grade caps | Figure read off |
 |---|---|---|
 | Weapon (melee) | the hit a working adds | Attack output band (Part Four) |
 | Projectile, round, arrow | speed, and the hit | Attack Speed (Part Six) and Attack output (R45-4) |
-| Armour, ward, shield | what it stops: a strike at or below its Grade | Attack output band, stamped as the proof-mark |
+| Armour, ward, shield | what it stops: a strike at or below its Tier's Grade | Attack output band, stamped as the proof-mark |
 | Focus, staff, instrument | the working it can channel without failing | the channeller's Grade, capped at the item's |
 | Relic with a standing effect | the effect's strength | the table the effect uses |
 
-**Armour and the proof-mark.** An armour's Grade is its proof: plate proofed
-to D stops a strike in the D output band and below. The mark states the Grade,
+**Armour and the proof-mark.** An armour's Grade is its proof: Apprentice-proofed
+plate stops a strike in the D output band and below. The mark states the Grade,
 the house that tested it and the test (for plain plate, the gun, charge and
-range, as The Apparatus of the Age already says). A strike one Grade above the
-proof breaks it; a strike two Grades above passes as if it were not there.
+range, as The Apparatus of the Age already says). A strike one Tier above the
+proof breaks it; a strike two Tiers above passes as if it were not there.
 
 ## 4. Figures: what an item costs and how long it lasts
 
@@ -74,29 +88,28 @@ can equip themselves but cannot equip an army:
 |---|---|---|
 | Enhanced round or arrow (R45-5) | 1% of the maker's reserve each, whatever the energy added, with a floor of 0.001 EU | the maker's Duration; consumed when fired |
 | Enhanced weapon (standing working) | 10% of the maker's reserve, once | until the working is broken, read or unmade |
-| Proofed armour | 25% of the maker's reserve, once | until struck by a strike two Grades above its proof |
+| Proofed armour | 25% of the maker's reserve, once | until struck by a strike two Tiers above its proof |
 | Relic | the maker's whole reserve, once, and a Starvation spell after (below 10% EU) | permanent while its material holds |
 
-So a Stage II maker (D-Grade, reserve ~0.56 EU) can prepare about ninety
+So an Apprentice maker (Stage II, D-Grade, reserve ~0.56 EU) can prepare about ninety
 enhanced rounds from a full reserve before Essence Starvation, or nine
 enchanted blades, or three suits of proofed armour, or one relic, at real cost.
 Recovery between is the reserve's own regeneration, which this does not set.
 
 ## 5. How it reads on a card
 
-`**Name** · *Kind, Grade X, Tier Tn (material).* One line of what it does.`
+`**Name** · *Kind, Tier-name-grade (Grade X), material Tn.* One line of what it does.`
 
-For example: `**Slyvine's Scarf** · *Relic, Grade D, T3 or above (material not on
-the card).* Can stretch, tighten, or harden to act as a rope or a weak shield.`
+For example: `**Slyvine's Scarf** · *Relic, Apprentice-grade (Grade D), T2 or above
+(material not on the card).* Can stretch, tighten, or harden to act as a rope or a weak shield.`
 
 ## Flags
 
-1. **The tier-to-Grade map (table 2) is a design proposal,** built on the
-   Material Index's own tier descriptions and checked against the two items
-   above. T5, T6 and T8 span two Grades; the upper Grade needs a Class IV or V
-   provenance (Standing Index).
+1. **Material tier n = Tier of Standing n (table 2) is a design proposal,**
+   built on the Material Index's own tier descriptions and checked against the
+   two items above.
 2. **The per-item costs (section 4) are design figures,** not derived. The 1%
    per round is what makes "shot is cheap and a working is not" true at the
    table.
-3. **The rule of "two Grades above passes clean"** for armour is new.
+3. **The rule of "two Tiers above passes clean"** for armour is new.
 4. **Existing items** would be regraded in their own issues, not in this pass.

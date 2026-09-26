@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-577 live of 702 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+581 live of 706 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (35)
+## adjudication (36)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -165,6 +165,12 @@ The Part Four Grade table stands as written; an attack output between 24.3 and 4
 Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
 
 > Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
+
+### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
+
+Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
+
+> A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.
 
 ### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
 
@@ -977,7 +983,7 @@ Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
-## combat (69)
+## combat (70)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1362,6 +1368,12 @@ Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excl
 The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
+
+### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
+
+Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
+
+> A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.
 
 ### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
 
@@ -1961,7 +1973,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (30)
+## items (34)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2070,6 +2082,30 @@ Essence cannot be shipped (it leaks in transit, needs an untransportable instrum
 Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
 
 > Percussion answers to plate: none of these seek to penetrate. Plate is not defeated by percussion, it is used. The armour transmits force inward, and the correct target is the joint, the base, the balance and the man's ability to keep standing in fifty pounds of steel. A percussion fighter's answer to plate is to make the plate expensive to wear.
+
+### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
+
+An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+
+> An item carries an item Tier, Plain through Proscribed: the lower of what its material can hold and the Tier of Standing its maker stood at when it was made.
+
+### R46-2-NINE_ITEM_TIERS_NAMED [The Item Tiers 2026-09-25 The Nine Tiers]
+
+Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+
+> Material tier n holds a working up to item Tier n, level with Tier of Standing n.
+
+### R46-3-ARMOUR_TIER_IS_ITS_PROOF [The Item Tiers 2026-09-25 What the Tier Caps, by Kind]
+
+Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
+
+> A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there.
+
+### R46-4-ITEM_COSTS [The Item Tiers 2026-09-25 What an Item Costs to Make]
+
+Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
+
+> A practitioner can equip themselves but cannot equip an army.
 
 ### R42-5-ASCENSION_RATION_III_TO_IV [Magic System Rulings 2026-09-23 C-023]
 
@@ -2637,7 +2673,7 @@ The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
-## magic-mechanism (105)
+## magic-mechanism (107)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -3203,6 +3239,18 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
+### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
+
+An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+
+> An item carries an item Tier, Plain through Proscribed: the lower of what its material can hold and the Tier of Standing its maker stood at when it was made.
+
+### R46-4-ITEM_COSTS [The Item Tiers 2026-09-25 What an Item Costs to Make]
+
+Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
+
+> A practitioner can equip themselves but cannot equip an army.
+
 ### R42-2-AETHER_CLASS_FROM_GLORY [Magic System Rulings 2026-09-23 C-020]
 
 Aether Class emerges at Glory; Stages I–V are unclassed.
@@ -3502,7 +3550,7 @@ The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Gu
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
 
-## naming (97)
+## naming (98)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -3863,6 +3911,12 @@ Three vowels (a i u) with phonemic length, uvulars as the signature (q where ano
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R46-2-NINE_ITEM_TIERS_NAMED [The Item Tiers 2026-09-25 The Nine Tiers]
+
+Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+
+> Material tier n holds a working up to item Tier n, level with Tier of Standing n.
 
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
@@ -6090,7 +6144,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (71)
+## stats (74)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -6355,6 +6409,24 @@ A character card's stated η governs for that character, the η tables being typ
 A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
 
 > Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
+
+### R46-1-ITEM_TIER_LOWER_OF_TWO [The Item Tiers 2026-09-25 What an Item Tier Is]
+
+An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+
+> An item carries an item Tier, Plain through Proscribed: the lower of what its material can hold and the Tier of Standing its maker stood at when it was made.
+
+### R46-2-NINE_ITEM_TIERS_NAMED [The Item Tiers 2026-09-25 The Nine Tiers]
+
+Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+
+> Material tier n holds a working up to item Tier n, level with Tier of Standing n.
+
+### R46-4-ITEM_COSTS [The Item Tiers 2026-09-25 What an Item Costs to Make]
+
+Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
+
+> A practitioner can equip themselves but cannot equip an army.
 
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
@@ -7045,7 +7117,7 @@ Any Host line that could appear on a temple wall has failed; if it scans as a ma
 
 > Any Host line that could appear on a temple wall has failed. If it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (126)
+## worldbuilding (127)
 
 ### R20C-1-BURI_DEAD_EVERYWHERE [Pack Twenty R20C-1]
 
@@ -7622,6 +7694,12 @@ There never was an inherited surname; the Accord's registers assigned a frozen s
 A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
 
 > A carried name does not transfer out. A Far-Northern child fostered south keeps it and simply stops hearing it used, and the kin-turns lapse, and that lapse is one of the quieter griefs available in the setting.
+
+### R46-2-NINE_ITEM_TIERS_NAMED [The Item Tiers 2026-09-25 The Nine Tiers]
+
+Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+
+> Material tier n holds a working up to item Tier n, level with Tier of Standing n.
 
 ### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
 

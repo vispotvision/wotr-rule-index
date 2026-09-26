@@ -1,0 +1,89 @@
+# The Item Tiers, originated: no source document under sources/. Drafted by
+# Claude Code with Isaac in chat on 2026-09-25 (proposals/item_grades_draft.md,
+# logged in proposals/PROPOSED.md); Isaac chose the names (List A) and ratified
+# it the same day AS WRITTEN, flags at their written defaults. R46 is the next
+# free id-numeral bucket. Standalone-doc pattern: empty source.file. Each
+# verbatim is a contiguous quote of the published Notion page "The Item Tiers"
+# (3e758200-eb22-81c2-8bec-fbebb63df331, child of The Apparatus of the Age),
+# which the next sync mirrors into wiki/.
+pack: The Item Tiers 2026-09-25
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-25, Claude Code: ratified as written'
+rules:
+- id: R46-1-ITEM_TIER_LOWER_OF_TWO
+  pack: The Item Tiers 2026-09-25
+  pack_number: null
+  section: "What an Item Tier Is"
+  title: "An item's Tier is the lower of its material's ceiling and its maker's Tier of Standing"
+  status: live
+  kind: definition
+  summary: "An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics."
+  verbatim: "An item carries an item Tier, Plain through Proscribed: the lower of what its material can hold and the Tier of Standing its maker stood at when it was made."
+  amends:
+  - guide: The Master Material Ledger
+    locus: The Material Index T0-T9
+    operation: extends
+  supersedes: []
+  applies_to: [items, stats, magic-mechanism]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R46-2-NINE_ITEM_TIERS_NAMED
+  pack: The Item Tiers 2026-09-25
+  pack_number: null
+  section: "The Nine Tiers"
+  title: "Nine item Tiers, Marked to Proscribed, each held by material tier n and level with Tier of Standing n"
+  status: live
+  kind: definition
+  summary: "Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier."
+  verbatim: "Material tier n holds a working up to item Tier n, level with Tier of Standing n."
+  amends:
+  - guide: The Master Material Ledger
+    locus: The Material Index T0-T9
+    operation: extends
+  supersedes: []
+  applies_to: [items, stats, naming, worldbuilding]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R46-3-ARMOUR_TIER_IS_ITS_PROOF
+  pack: The Item Tiers 2026-09-25
+  pack_number: null
+  section: "What the Tier Caps, by Kind"
+  title: "Armour's Tier is its proof: one Tier above breaks it, two above passes clean"
+  status: live
+  kind: definition
+  summary: "Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there."
+  verbatim: "A strike one Tier above the proof breaks it; a strike two Tiers above passes as if it were not there."
+  amends:
+  - guide: The Master Material Ledger
+    locus: The Material Index T0-T9
+    operation: extends
+  supersedes: []
+  applies_to: [items, combat, adjudication]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R46-4-ITEM_COSTS
+  pack: The Item Tiers 2026-09-25
+  pack_number: null
+  section: "What an Item Costs to Make"
+  title: "Items cost shares of the maker's reserve: 1% a round, 10% a weapon, 25% armour, all of it for a relic"
+  status: live
+  kind: budget
+  summary: "Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation."
+  verbatim: "A practitioner can equip themselves but cannot equip an army."
+  amends:
+  - guide: The Master Material Ledger
+    locus: The Material Index T0-T9
+    operation: extends
+  supersedes: []
+  applies_to: [items, magic-mechanism, stats]
+  verification: []
+  source:
+    file: ''
+    lines: null

@@ -1,8 +1,8 @@
 # Live rules by domain
 
-577 live of 702 extracted.
+581 live of 706 extracted.
 
-## adjudication (35)
+## adjudication (36)
 
 - **R15-4-THIRTEEN_HAX_STRUCK** [Pack Fifteen §4] Pack Thirteen §6's ban on a character saying "hax" is struck; a character may say whatever makes him interesting, though scaling vocabulary stays author-notes-first as adjudication vocabulary, not because it is modern.
 - **R14-2-LOADOUT_MANDATE** [Pack Fourteen §2] Before any scene with a named practitioner, and before designing any technique, Natalie loads that character's Fracture of Worlds line from the character sheet, the Stat Sheet workbook, or the Notion card (in that preference order), verified against Fracture_of_Worlds.md. The line covers Level/Band/Stage/Path, Tier Grades, Coherence Band and eta, Aether Class, Soul Crystal tier/state, Essence Typology, Wellspring harmonisations, EU/Flux Density/AU-s, Traits/Domain/Attraction or Obsession sustainment, and any Resonant Pair reached.
@@ -31,6 +31,7 @@
 - **R44-2-AU_FORMULA_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-035] The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
 - **R44-3-S_SS_GAP_RANKED_BY_SUBSTAT** [Essence Ledger Rulings 2026-09-25 C-036] The Part Four Grade table stands as written; an attack output between 24.3 and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.
 - **R44-4-ETA_PART_SEVENTEEN_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-037] Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
+- **R46-3-ARMOUR_TIER_IS_ITS_PROOF** [The Item Tiers 2026-09-25 What the Tier Caps, by Kind] Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
 - **R42-10-ACCORD_EXECUTES_ITS_OWN** [Magic System Rulings 2026-09-23 C-028] The Accord executes only its own sworn members; in the New World it is the law.
 - **R42-11-DISSONANCE_SUBSTATS_BY_C013** [Magic System Rulings 2026-09-23 C-029] Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 - **R29-1-SACRAMENT_BOND_ANCHOR_BY_DECLARATION** [Sacrament Anchor Ruling Standing Ruling] A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
@@ -172,7 +173,7 @@
 - **R42-14-VIA_FATI** [Magic System Rulings 2026-09-23 follow-up] Viaforma gains Via Fati for the Fate Path.
 - **R43-3-COLOR_OF_ESSENCE_PART_FIVE** [Magic System Rulings 2026-09-24 C-032] Part Five · Prose Application is lifted out of the Revelation cell.
 
-## combat (69)
+## combat (70)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R20C-25-PERCUSSION_TABLE_DAWI_AUTHORED** [Pack Twenty R20C-25] The Percussion master-strike table is Dawi-authored in-world.
@@ -238,6 +239,7 @@
 - **R1-1-BLACK_AGENT_ASSIGNED** [Pack One Amendment One] Blade grammar; unhurried, every word and motion in exact position, Absetzen and Durchwechseln rather than committed cuts; does not engage plate, waits.
 - **R1-1-RESTRICTED_CHARACTERS_EXCLUDED** [Pack One Amendment One] Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excluded entirely from this combat-vocabulary framework; their assignments belong to their creators.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
+- **R46-3-ARMOUR_TIER_IS_ITS_PROOF** [The Item Tiers 2026-09-25 What the Tier Caps, by Kind] Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
 - **R45-1-SPEED_DECIDES_THE_DODGE** [Shot and the Enhanced Weapon 2026-09-25 Part One] A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
 - **R45-2-CATCHING_A_PROJECTILE** [Shot and the Enhanced Weapon 2026-09-25 Part One] To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.
 - **R45-3-ENHANCEMENT_CEILING** [Shot and the Enhanced Weapon 2026-09-25 Part Two] Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
@@ -344,7 +346,7 @@
 - **R20-4-ACCORD_FILING_CONVENTION** [Naming Guide Amendment Part Four] The Accord files every practitioner under given name, family or patronymic, culture of origin, rank designation — a bureaucratic act that is also a cultural act, reducing a five-slot Yukari name to three fields or stripping a Dawi oath-name for lack of a slot.
 - **R39-8-PACKS_FOLDED_INTO_EDITIONS** [Stat System and Scene Rulings 2026-09-13 Folding] Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the packs as unfolded paste-in diffs: each base guide gets a dated edition with every live amendment folded in and a changelog; eleven are done, the remaining six follow the same way.
 
-## items (30)
+## items (34)
 
 - **R20C-22-AMMUNITION_TIERS_RATIFIED** [Pack Twenty R20C-22] The three ammunition tiers ratified, subject to R20C-26.
 - **R18-5-ALCHEMY_SOURCE_ORDER** [Pack Eighteen §5] Alchemy design consults, in order, the Alchemical Index (what exists), Alchemetrica (doctrine), and The Real Alchemy (real-world substrate check on invented process/apparatus/reagent behaviour), loading The Provenance Doctrine, The Standing Index and The Bench of Attribution alongside them; none of the three is optional.
@@ -364,6 +366,10 @@
 - **R3-7-EXPENDITURE_VS_PLATE** [Pack Three Amendment Seven] Plate is a cost problem rather than a defence problem to an Expenditure fighter, who is content to let armour do its job for as long as the wearer can afford to keep wearing it.
 - **R2-6-REPLENISHMENT_RULE** [Pack Two Amendment Six.3] Essence cannot be shipped (it leaks in transit, needs an untransportable instrument to assay, dies with its owner); no consumable, technique or item may restore a practitioner's magazine.
 - **R1-1-PERCUSSION_VS_PLATE_AND_TELL** [Pack One Amendment One] Percussion does not seek to penetrate plate, it uses it — armour transmits force inward, so the target is the joint, base and balance, making the plate expensive to wear. The tell is that the fighter tracks breathing and footing rather than the weapon.
+- **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+- **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+- **R46-3-ARMOUR_TIER_IS_ITS_PROOF** [The Item Tiers 2026-09-25 What the Tier Caps, by Kind] Each kind of item reads its Tier against a table (weapon: added hit; projectile: speed and hit; focus: channelling ceiling). Armour stops strikes at or below its Tier's Grade; a strike one Tier above breaks it, two Tiers above passes as if it were not there.
+- **R46-4-ITEM_COSTS** [The Item Tiers 2026-09-25 What an Item Costs to Make] Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 - **R42-5-ASCENSION_RATION_III_TO_IV** [Magic System Rulings 2026-09-23 C-023] The Ascension Ration buys Flourishing's floor (III to IV).
 - **R42-6-VITRIFIER_CLASS_IV** [Magic System Rulings 2026-09-23 C-024] The Domain Seed Vitrifier is Class IV.
 - **R34-1-MOTO_MATERIAL_CULTURE** [Moto Material Culture Ruling Standing Ruling] Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
@@ -462,7 +468,7 @@
 - **R42-7-FOUR_PATHS** [Magic System Rulings 2026-09-23 C-025] There are four Paths, Fate included.
 - **R43-4-LETTERED_BAND_SWEPT** [Magic System Rulings 2026-09-24 C-033] The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
-## magic-mechanism (105)
+## magic-mechanism (107)
 
 - **R20C-17-SITES_RECHARGE_UNHELPFULLY** [Pack Twenty R20C-17] Sites recharge, and it does not help. Decades to centuries, and the rate falls with every working — eighty years the first time, two hundred the second.
 - **R20C-20-WELLS_GENERATE_NO_ENTITIES** [Pack Twenty R20C-20] Wells generate no entities. The site is the entire threat.
@@ -558,6 +564,8 @@
 - **R5-F-LIGHT_NOVEL_NOT_KEPT** [Pack Five F] Status screens, panels and HUD-style rendering (already banned); narrator explanation of the system to the reader; the isekai commentary register (wry narrator asides about the world's rules); and character-sheet vocabulary (Stage, Grade, eta, Band) surfacing in prose.
 - **R3-7-EXPENDITURE_MOVES** [Pack Three Amendment Seven] The Offering converts opponent capability into expenditure; the Standing converts time into advantage (only for a fighter who doesn't experience time as a resource); the Ledger converts the whole preceding engagement into one effect, un-repeatable per encounter; the Absence converts a victory into nothing by destroying the vessel while the practitioner is unaffected.
 - **R27-1-CYMORATH_AIR_OF_ASCENT_FROST_ON_VOHRIN** [Cymorath Portfolio Ruling Standing Ruling] Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of Ascent, Family Fulguria, freedom and motion, strengthening Dexterity Celerity and Gnosis Cartography/Perception. It is not a frost Wellspring. Every frost, cold or stasis working the wiki had been drafting as Cymorath is keyed instead to Vohrin, the Abyssal Depths Titan, Family Caloria, Physics Domain Thermodynamics, on the FOW III reading that cold is heat run backward. There is no dedicated frost Wellspring. Codex lines, Wellspring harmonisation rows and Material Ledger resonance columns that name a cold law write Vohrin · Caloria · Thermodynamics; any surviving Cymorath usage is Fulguria.
+- **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+- **R46-4-ITEM_COSTS** [The Item Tiers 2026-09-25 What an Item Costs to Make] Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 - **R42-2-AETHER_CLASS_FROM_GLORY** [Magic System Rulings 2026-09-23 C-020] Aether Class emerges at Glory; Stages I–V are unclassed.
 - **R22-4-SYSTEM_TERMS_TABLE** [Moto Reversion Ledger IV] Ajiin→Hataraki (the Working), Nüdel→Shingan (the Seeing), Zasag→Kamigan (the Ruling Sight), Iltgel→Meigan (the Revealing Sight), Süldiin→Reigan (the Spirit Sight), Tengeriin→Tengan (the Sky Sight), Khar Ild→Kurosetsu (Black Blade), Ünen→Asami (Truth), Takhil→Gisei (Offering).
 - **R22-5-SEVEN_WORKS_TABLE** [Moto Reversion Ledger V] Söröl Ajiin→Hametsu no Go (Ruin), Ariun Ajiin→Junketsu no Go (Purity), Süld Ajiin→Seirei no Go (Spirit), Tsagiin Ajiin→Jikan no Shigoto (Time), Mergen Ajiin→Chishiki no Shigoto (Wisdom), Tegsh Ajiin→Shigoto no Baransu (Balance), Bükhel Ajiin→Zentai-sei no Hataraki (Totality).
@@ -611,7 +619,7 @@
 - **R1-3-FIVE_STAGE_AFTERMATH** [Pack One Amendment Three] Per the Mass Combat Craft Guide §7: the wounded left where they fell, the stripping, the late and cursory burial, the disease, and the district that does not recover in the season — any aftermath scene should touch at least two.
 - **R1-4-PRECEDENCE_NOTE** [Pack One Amendment Four] The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
-## naming (97)
+## naming (98)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -673,6 +681,7 @@
 - **R23-11-ROLL_NAMES_FROM_ACCORD** [Inner World Naming Amendment XI] There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
 - **R23-11-PHONOTACTICS** [Inner World Naming Amendment XI] Three vowels (a i u) with phonemic length, uvulars as the signature (q where another register takes k), velar/uvular fricatives, geminate consonants across syllable boundaries, no onset clusters, heavily suffixing with meaningful morphemes, light and late stress.
 - **R23-11-CONTACT_RULES** [Inner World Naming Amendment XI] A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
+- **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
 - **R42-1-TIER_NAMES_ARCHMASTER_PARAGON** [Magic System Rulings 2026-09-23 Tier names] The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
 - **R42-9-DOMINION_GRAVITY** [Magic System Rulings 2026-09-23 C-027] Dominion's Stability is renamed Gravity.
 - **R22-1-HOUSE_STRUCK** [Moto Reversion Ledger I] "Büri" and "the Büri bloodline" are struck; "Moto" and "the Moto bloodline" govern.
@@ -1061,7 +1070,7 @@
 - **R23-11-NAME_AVOIDANCE_WAITING** [Inner World Naming Amendment XI] The name of the recently dead is unsayable until given on; the Waiting is the silence — the body waits in the death-house because the ground is frozen, and the name waits with it, leaving a hole in the household's vocabulary that everyone steers around.
 - **R22-7-KHARVEN_INVENTORY_KEPT** [Moto Reversion Ledger VII] The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone, blubber lamp, woodpile count, death-house/Waiting, sky burial, eight proverbs) is Mongolian-Inuit material culture, not naming register, and is load-bearing in every scene written this session; recommendation is to keep it.
 
-## stats (71)
+## stats (74)
 
 - **R20C-30-STAGE_NAMES_FROM_FOW** [Pack Twenty R20C-30] Fracture of Worlds governs the Stage names. Verified against source.
 - **R20C-31-SUBSTAT_NAMES_FACULTY_ONLY** [Pack Twenty R20C-31] Sub-Stat names never appear outside a faculty reading.
@@ -1107,6 +1116,9 @@
 - **R44-4-ETA_PART_SEVENTEEN_GOVERNS** [Essence Ledger Rulings 2026-09-25 C-037] Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
 - **R44-5-CARD_ETA_GOVERNS_PER_CHARACTER** [Essence Ledger Rulings 2026-09-25 WAR-11] A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
 - **R44-6-BARE_BAND_V_IS_LEVEL_BAND** [Essence Ledger Rulings 2026-09-25 WAR-11] A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
+- **R46-1-ITEM_TIER_LOWER_OF_TWO** [The Item Tiers 2026-09-25 What an Item Tier Is] An item carries an item Tier, the lower of what its material can hold and the Tier of Standing its maker stood at when it was made; a composite is graded by the material carrying the working; a plain item has no Tier and performs as its physics.
+- **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
+- **R46-4-ITEM_COSTS** [The Item Tiers 2026-09-25 What an Item Costs to Make] Enhanced round or arrow 1% of the maker's reserve each (floor 0.001 EU), consumed when fired; enhanced weapon 10% once; proofed armour 25% once; relic the whole reserve once plus a spell of Essence Starvation.
 - **R42-1-TIER_NAMES_ARCHMASTER_PARAGON** [Magic System Rulings 2026-09-23 Tier names] The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
 - **R42-2-AETHER_CLASS_FROM_GLORY** [Magic System Rulings 2026-09-23 C-020] Aether Class emerges at Glory; Stages I–V are unclassed.
 - **R42-3-AWAKENED_CRYSTAL_I_TO_IV** [Magic System Rulings 2026-09-23 C-021] The Awakened Crystal spans Stages I–IV.
@@ -1225,7 +1237,7 @@
 - **R22-3-MONGON_DISPUTE_DEAD** [Moto Reversion Ledger III] The Möngön against Mönggön spelling dispute is struck from the docket, since it was an argument about a name that no longer exists.
 - **R24-3-HOST_BREAKS_ON_MAXIM** [Racial Voice and Dialect Guide Amendment III] Any Host line that could appear on a temple wall has failed; if it scans as a maxim, cut it and replace it with a report.
 
-## worldbuilding (126)
+## worldbuilding (127)
 
 - **R20C-1-BURI_DEAD_EVERYWHERE** [Pack Twenty R20C-1] Büri is dead everywhere, without exception. No house, no amendment, no voice roster, no Mongolian register on any Inner World page.
 - **R20C-2-SATULAGI_STAYS_DEAD** [Pack Twenty R20C-2] Sātūlagi stays dead. Struck for a structural reason; reverting the register does not restore a place.
@@ -1323,6 +1335,7 @@
 - **R23-11-KIN_TURN** [Inner World Naming Amendment XI] A woman whose mother's name is given to her newborn daughter calls that infant "mother," and means it, and the settlement uses the term with her; names are not gendered, and a person may carry several, each bringing its own kin-turn.
 - **R23-11-ROLL_NAMES_FROM_ACCORD** [Inner World Naming Amendment XI] There never was an inherited surname; the Accord's registers assigned a frozen surname off the nearest legible thing (Ice, Foss), so a Far-Northern character has a roll-name the Accord/muster/tax survey use and a separate carried name the household uses.
 - **R23-11-CONTACT_RULES** [Inner World Naming Amendment XI] A Far-Northern child fostered south keeps the carried name but simply stops hearing it used, and the kin-turns lapse; giving a carried name to an outsider makes them a specific dead person, with all the kin-turns, binding the household without individual consent.
+- **R46-2-NINE_ITEM_TIERS_NAMED** [The Item Tiers 2026-09-25 The Nine Tiers] Plain (T0, Hollow-F, no stamp); 1 Marked/Signatum E; 2 Proofed/Probatum D; 3 Tempered/Temperatum C; 4 Instrument/Instrumentum B; 5 Hallowed/Consecratum A; 6 Storied/Insigne S-SS; 7 Found/Inventum SS-SSS; 8 Numinous/Numinosum X-EX; 9 Proscribed/Interdictum EX+. The upper Grade of a two-Grade Tier needs Class IV or V provenance or a maker at the top of their Tier.
 - **R42-10-ACCORD_EXECUTES_ITS_OWN** [Magic System Rulings 2026-09-23 C-028] The Accord executes only its own sworn members; in the New World it is the law.
 - **R34-1-MOTO_MATERIAL_CULTURE** [Moto Material Culture Ruling Standing Ruling] Moto (Kōkan crown-line) dress is six elements worn together -- red enamel fired over deliberately blackened steel (the Ashen Crown's garnet-on-black-iron palette at human scale); a beast-face boss in the same near-black steel, lion or dragon for the crown-line, at the belt clasp at court and on a shoulder rivet or pauldron on campaign; a knotwork belt that is native-Kharven and not Moto in origin, always a specific inherited or married-in piece; a heavy northern fur mantle over the robe at court, reduced to a collar or lining in the field; and a fitted war-harness worn under a robe open enough to show it -- organised on a court-versus-campaign split that is two priority sets wearing the same lineage markers, never one outfit with accessories added or removed. Write a Moto as magistrate and combatant at once.
 - **R34-2-SEVEN_LINES_MATERIAL_VARIATIONS** [Moto Material Culture Ruling Standing Ruling] Only Kōkan holds a seat and is the only line entitled to the full court presentation without it reading as a claim on the throne; the other six Great Lines are landless and their dress is portable, worn-on-the-body wealth carrying the crown-line pattern in their own metal and palette -- Shirogane in bright, hard silver; Akagane in copper and red-bronze fittings with no enamel; Kurenai in unrelieved black and ash-grey with the crimson kept to a single hidden accent; Byakuya in pale near-white with an almost ecclesiastical cut; Tenrai in gold and imperial-toned trim with banner-heraldry in place of a boss; Amagiri in indigo and mist-grey, lighter and less armoured than the rest. The Tenrai palette and the Kurenai crimson/black contrast are canon, not speculative.

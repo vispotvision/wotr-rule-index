@@ -155,7 +155,7 @@ by a Harmonist. Four flags inline.
 
 ## 2026-09-25 — Item Grades: what an object can hold, stop and do
 
-**Status:** proposed 2026-09-25, awaiting Isaac
+**Status:** ratified 2026-09-25, Isaac: as written, names List A → R46-1..R46-4 (rules/doc-item-tiers.yaml); published under The Apparatus of the Age as "The Item Tiers" (Notion 3e758200-eb22-81c2-8bec-fbebb63df331)
 **applies_to:** items, stats, magic-mechanism, combat
 **Full draft:** proposals/item_grades_draft.md
 

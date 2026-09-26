@@ -6,6 +6,97 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (the agents)
+
+The day's evening wrap, written from the 101 commits on `origin/master` dated today (`e294c69`
+onward, the cursor WAR-18 left) and from every issue the board closed or blocked today: 41 done, 26
+blocked, 2 in review. `bash build/py.sh build/validate.py` PASS, 697 rules, live=572 superseded=125,
+before and after the rebase.
+
+**The day's spine was the Essence Ledger, and it turned on rulings that did not exist this morning.**
+Three sweeps — WAR-46's 130 EU-band misses (`90fd356`), WAR-48's 26 AU/s misses (`067b901`) and
+WAR-72's audit of the 1 MJ rebuild (`0785443`) — each ran to the end and then refused to correct a
+single figure, because R44-1 and R44-2 were quoted by the index and were in no `RULINGS.md`. WAR-96
+found the same hole from the other side (`abf7b14`) and closed it: Isaac's six answers to the WAR-11
+questionnaire are now logged as R44-1 through R44-6 (one `log_ruling` call each), and his seven
+general rungs from WAR-61 are logged as the `2026-09-25 — new` entry that the precedence ladder now
+rests on. With the rulings real, WAR-48 corrected 16 of 26 AU/s figures on the live Notion pages and
+held 10 (`43df22a`), and WAR-46 corrected 4 of 128 EU figures and held 124 with every set point
+computed (`ad04cd2`, report in `reports/eu_band_corrections_2026-09-25.md`). WAR-12's Part Twenty-Three
+was drafted at 1 kJ (`e59835f`), then rebuilt at the ruled constant (`1271ff9`). WAR-71 rebuilt the fit
+so gated rows read their own Stage (`8f3101e`), and WAR-94 taught the sweep to reach a card's η written
+without the η (`8ff44e3`).
+
+**Everything else that shipped.** Phenna Menon finished WAR-5: system accounts 29 through 56, twenty
+commits in batches, the Techniques set complete. WAR-26 produced the Judger's notes for the two oldest
+scenes with no close (`d2c35c7`) and 22 `ledger_add` calls, L035 to L056. WAR-31 split the two 149-row
+tables so Notion accepts the publish (`af492ac`); WAR-42 removed seven ghost mirror files (`f123e25`);
+WAR-52 and WAR-37 fixed `scenes/MANIFEST.md`, 73 missing scenes, a stale header and the two Kaalabad
+rows (`90a075a`, `8e66805`); WAR-35 swept the Renard archive page under R43-4 (`a0832fb`); WAR-36
+corrected `voices.py`'s possessive-as-contraction and rebuilt the fingerprints (`0ed20a4`). Both book
+chapters went to their gates: night-watch ch01 r1 (`0122e14`) and kharven-year ch01 r4 (`b4cecd4`),
+with WAR-20 refreshing the stale `GATES.md` (`3901b9e`) and WAR-103 diagnosing why no reviewer could
+record a decision — an un-cleared changes-requested state, not a missing request — which WAR-115 then
+solved by finding the channel that works (`PATCH` the issue with `status` and `comment`). Seven
+conflicts were recorded and handed on: C-044 through C-052 (WAR-39, WAR-41, WAR-62, WAR-75, WAR-76,
+WAR-77, WAR-78), plus C-059 and C-060 from WAR-46 (`1063032`). Isaac's own commits: the Master Codex
+tools (`83d7245`, `8b59a3c`, `6e31e08`), the Alchemical Index's twenty new formulas (`3142588`,
+`6dfb0f2`), the `.mcp.json` fix that launches the MCP through `build/py.sh` (`2c11098`), the 90-minute
+sync timeout for WAR-68 (`0c9b257`), and the CLAUDE.md change at 14:14 that made agents rule conflicts
+openly (`d0a50c8`).
+
+**The wiki mirror healed itself.** WAR-29 and WAR-113 both describe a `wiki/` in git stuck at
+2026-09-24 17:15 and 290 files behind Notion. That is no longer true: the sync committed those 290
+files at 18:40 (`de43b93`) and has run twice since (`33aadb4`, `0d22990`). 276 files in git now carry
+`Lore · The Life Behind the Card` against 5 this morning, and Hild Ice's committed card says `circlet`
+four times. Both issues can be closed on that evidence, and WAR-45 unblocks behind them. The older
+blocks above that warn against trusting an absence found by grep in `wiki/` are now history, not live
+advice.
+
+**What is blocked, and on whom.** Rhett Konn holds twelve: WAR-38, WAR-39, WAR-40, WAR-41, WAR-43,
+WAR-44, WAR-47, WAR-75, WAR-76, WAR-77, WAR-78 and WAR-119, with twelve more in progress; WAR-119's
+last event was a terminal limit failure, so it needs restarting rather than waiting. Doc Kett holds
+WAR-3, WAR-22, WAR-49 and WAR-62 — and WAR-62's stated unblock condition, WAR-63 restoring the MCP,
+closed today, so it is unblockable now. Pax Verbatim holds WAR-97, WAR-104, WAR-112 and WAR-113, all
+four the same wall. Etta Band holds WAR-46 behind WAR-127 and WAR-128, the two conflict rows its own
+application stopped on. Cody Wix holds WAR-14 behind the Ledger chain and WAR-45 behind the mirror.
+Paige Turner holds WAR-67. Marsha Law holds WAR-8, WAR-29 and WAR-101.
+
+**One wall explains five of those issues.** WAR-97, WAR-101, WAR-104, WAR-112 and WAR-121 all need an
+edit to `build/*.py`, which house rule 2.2 forbids every agent in this company without exception. The
+patches are written, tested and proven — WAR-101's is a complete six-file diff, +85 −11, in the
+document `war-101-patch` — and no agent can commit any of them, so re-routing moves nothing. WAR-36
+stopped at the identical wall on `build/voices.py` after the earlier commit had already crossed it on
+Isaac's word. That contradiction is the first thing to settle tomorrow, because until it is settled
+`log_ruling`, `narrate_scene` and the other MCP writing tools stay broken from every worktree and
+every agent ruling has to be logged from the main checkout.
+
+**Nothing waits on Isaac.** `CLAUDE.md` changed at 14:14 today to say so, and the three issues that
+carried `blocked-on-isaac` all closed: WAR-11 (he answered all six Essence Ledger calls), WAR-61 (the
+seven precedence rungs) and WAR-63 (the MCP, fixed by `2c11098`). WAR-55 still carries the label and
+should lose it. No agent ruling was logged today — the four issues labelled `agent-ruling` (WAR-39,
+WAR-43, WAR-44, WAR-119) are all still blocked — so there is nothing in tonight's record for him to
+overturn.
+
+**Gemma Nye's second opinion on the day's commits (WAR-124) raised five findings; three fall and two
+stand.** Her 1 kJ finding against `e59835f` was already answered by the `1271ff9` rebuild at 1 MJ. Her
+finding that the draft's reserve table treats a character card as a system rule falls too: the
+Obrenkael line quotes a real ruling, `RULINGS.md`:182 — "Kwon Hae-ryu's EU Reserve is 90,000,000
+(log-linear on Level between Ara Min and Borin)". Her finding that WAR-26 made 22 out-of-scope
+`ledger_add` calls is right about the calls, though the commit she cited contains only the four note
+files. What stands and is now filed is the η contradiction: `a60f802` prices Stage VII at η 0.50–0.60,
+which is exactly the figure R44-4 corrected to 0.60–0.70, and the wrong range is still live at
+`imports/system-accounts/Techniques/Solarbound Aegoric Knight.md` lines 71, 201 and 295, with 25 other
+files under `imports/system-accounts/` carrying the same string. That is WAR-130, with Phenna Menon.
+Her `voices.py` finding is the same wall as above.
+
+**Tomorrow's first moves.** Settle the `build/*.py` wall first; it is five blocked issues and the MCP's
+twelve writing tools. Then close WAR-29 and WAR-113 on the mirror evidence and release WAR-45. Then
+restart WAR-62, whose blocker is gone, and WAR-119, which died on a limit rather than a question. Then
+the Ledger chain in order: WAR-117's rerun against the corrected fit, then WAR-13, WAR-14 and WAR-8.
+The two book gates, WAR-30 and WAR-32, sit in review with the channel WAR-115 found, so the reviewers
+can now record decisions on them.
+
 ## State on 2026-09-25 (WAR-46 — WAR-70 applied: 4 EU figures corrected in Notion, 124 held)
 
 WAR-70 (`RULINGS.md`, 2026-09-25) says what an EU figure outside its Stage's band becomes: **the

@@ -21,6 +21,8 @@ to stand on.
 | `ledger_tables.py` | WAR-12. Every table the Part prints, from `anchors.json` and `fit.json` only: the constant fit, the reserve law on Level, the bands by Stage and Tier, the nine-rung spine, the drain and waste-heat clocks, the Flux × η residual, and the recovery rates. **The ruled constant lives here in one place, `K = 1e6` (R44-1); change it there and every figure in the Part follows.** |
 | `ledger_tables.json` | what `ledger_tables.py` writes. The Part's arithmetic, machine-readable. |
 | `eu_band_sweep.py` | WAR-46, after the rulings. `fit.json` → `reports/eu_band_sweep_2026-09-25.md`: every attested EU figure that misses the band its Stage's Max Grade claims at 1 EU = 1 MJ, each with the reason nothing was set on it. Changes no card figure and reads no card. Regenerated under WAR-71 against the corrected fit; its `GATE` reason is gone with the defect it recorded, and §"What moved when the fit was corrected" states both runs' counts. |
+| `eu_band_corrections.py` | WAR-46, under **WAR-70**. `fit.json` + Part Four's Grade table → `reports/eu_band_corrections_2026-09-25.md`: the band midpoint each missing figure would move to, one line of arithmetic each with the Part Four row quoted. **Superseded by `eu_card_scaling.py`** for what a figure becomes — C-059 amends WAR-70 — but still the record of which four figures the 2026-09-25 run wrote, which the newer script reads back rather than restating. |
+| `eu_card_scaling.py` | WAR-46, under **C-059** (WAR-127, amends WAR-70). `fit.json`, Part Four's Grade table **and the card pages** → `reports/eu_card_scaling_2026-09-25.md`: one factor per card, taken from the card's own reserve, applied to every EU figure the card states — including the per-second rates `fit.json` never extracted as anchors, which are the "per-use figures" C-059 names. Decides per card, not per figure, and logs every card the ruling does not reach with the reason. Reads cards, changes none: the Notion edits are made from its table. |
 
 ## Running it
 
@@ -30,10 +32,14 @@ bash build/py.sh imports/essence-ledger/build_anchors.py     # build  -> anchors
 bash build/py.sh imports/essence-ledger/fit.py               # fit    -> fit.json + report
 bash build/py.sh imports/essence-ledger/ledger_tables.py     # tables -> ledger_tables.json + report
 bash build/py.sh imports/essence-ledger/eu_band_sweep.py     # WAR-46 -> reports/eu_band_sweep_2026-09-25.md
+bash build/py.sh imports/essence-ledger/eu_band_corrections.py  # WAR-46 (WAR-70)
+bash build/py.sh imports/essence-ledger/eu_card_scaling.py      # WAR-46 (C-059)
 ```
 
 The first four are read-only against `wiki/` and write only inside this folder;
-`eu_band_sweep.py` reads only `fit.json` and writes only into `reports/`.
+the three WAR-46 scripts write only into `reports/`. `eu_band_sweep.py` and
+`eu_band_corrections.py` read `fit.json` only; `eu_card_scaling.py` also reads
+the card pages, because C-059 scales EU figures that were never anchors.
 
 ## What the fit found
 

@@ -53,6 +53,10 @@ def report(name: str, lines: list[str]) -> Path:
 # --------------------------------------------------------------------------
 
 
+# scenes ruled into the standard band although they pass 2,500 words (2026-09-26 follow-ups, answer 8)
+STANDARD_BAND = {"01_verinus_fire_of_the_undeserving.md", "01_wotr_muster_breach_road_north.md"}
+
+
 def prose_pass() -> Path:
     lines = ["# Prose-law pass over the scene archive", "", "Every FAIL is a hard rule; every WARN needs a read. Nothing was edited. Run `verify_scene` on a scene before revising it.", ""]
     totals = Counter()
@@ -61,7 +65,7 @@ def prose_pass() -> Path:
         text = _read(p)
         combat = bool(re.search(r"\b(?:Vor|Nach|Indes|parry|riposte|blade|cut|thrust|wound)\b", text))
         kharven = bool(re.search(r"\bKharven\b", text))
-        res = verify.run(text, combat=combat, culture="Kharven" if kharven else None, band="set-piece" if len(text.split()) >= 2500 else "standard")
+        res = verify.run(text, combat=combat, culture="Kharven" if kharven else None, band="set-piece" if len(text.split()) >= 2500 and p.name not in STANDARD_BAND else "standard")
         totals["fails"] += len(res["fails"]); totals["warns"] += len(res["warns"])
         rows.append((len(res["fails"]), len(res["warns"]), p.name, res))
     rows.sort(key=lambda r: (-r[0], -r[1]))

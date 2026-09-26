@@ -106,7 +106,7 @@ The wings came out of him.
 
 Sheets. Two of them, high, off the blades of his shoulders, gold and cracked through with a hundred jagged lines that had light standing in the lines, and they were the same fracture that had been on him in the cellar and there was more of it now and it had found a shape to be. No feather. No pinion. Every painter given a wall at Altherion had put this on it and had called it wings and had been wrong about the object and right about the outline, and Verinus, who was twenty-six years old and had a cap that no longer fitted, understood at last that the painters had been copying somebody who saw it.
 
-"I am Verinus," he said. "Sixty-fifth Palatine of the Holy Sea of Alabaster. I am going to be the testament to what we are, and I am going to be it here, and the record of it will be a rock in a field that nobody can lift."
+"I am Verinus," he said. "Sixty-fifth Palatine of the Holy Sea of Alabaster. I am going to be the proof of what we are, and I am going to be it here, and the record of it will be a rock in a field that nobody can lift."
 
 He put his hand out.
 

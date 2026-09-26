@@ -239,8 +239,10 @@ Bands run quiet" (`Two Sets of Books` §III). Draven is not quiet. At Stage VI h
 in Tier 5 · Expert, η band **0.60–0.70** (Part Nineteen as corrected by **R44-4**), and 0.55
 now sits **0.05 below the floor** rather than mid-band. Before R44-4 this account read his η
 as the one carded figure in the batch sitting exactly where the ladder puts it; the corrected
-row takes that away and puts Aeldoris's 0.65 in its place. Card and table now disagree about
-Draven: recorded as `C-062`, **not resolved here.** Cinerion is the mitigation: the register says it "retunes the Shell to metabolize
+row takes that away and puts Aeldoris's 0.65 in its place. Card and table disagree about
+Draven, and `C-062` **ruled it on 2026-09-25** (agent ruling, Isaac's rung **I-2**): the card
+governs and the corrected row is a typical range for him, so his 0.55 stands and so does the
+45 %. Cinerion is the mitigation: the register says it "retunes the Shell to metabolize
 its own combustion products, harvesting from expenditure what other practitioners
 simply vent," so part of that 45 % comes back. **How much is not specified anywhere
 and cannot be derived.** Logged `SA-GAP-CINERION-RECLAIM`.
@@ -253,7 +255,7 @@ and cannot be derived.** Logged `SA-GAP-CINERION-RECLAIM`.
 |---|---|---|
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Flux Density | `null` | No AU/s figure exists for Draven, so AU/s = Flux Density × η cannot be inverted. |
-| η | **0.55** | Card, line 35. Tier 5 · Expert band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **0.05 below the floor.** `C-062`, not resolved here. |
+| η | **0.55** | Card, line 35. Tier 5 · Expert band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **0.05 below the floor, and it governs.** `C-062`, **ruled 2026-09-25** (rung **I-2**): the card governs, the band is typical. |
 | AU/s | `null` | Needs Flux Density. Circular without one sourced figure. |
 | Duration | `null` | Page gives none at all — "for a short while," "while the graft holds." |
 | Bleed | **45 %** | 1 − 0.55, less an unspecified Cinerion reclaim. `SA-GAP-CINERION-RECLAIM`. |
@@ -302,7 +304,7 @@ rather than leaving it to a reader.
 | Stated limits | **pass** | One trait at a time; the trait runs at **his own B-Grade Tempering ceiling** regardless of the source beast; requires physical possession of a talon from a beast **he** killed; requires an open blood channel; the same talon weakens with each draw. |
 | Something beats it | **pass** | Two routes, and one of them is pre-emptive. See below. |
 | It has a tell | **pass** | He must grip a specific object and cut himself open before anything happens, and the arrhythmia persists audibly throughout. |
-| Numbers in band | **pass — the cleanest in the batch** | Page requires B-Grade; card gives **Tempering 248**, inside B (176–275) (Part Four). Stage VI ⇒ Max Grade A, ceiling 400, no instability zone (Part Five). The cap-at-his-own-ceiling clause is the system's own anti-escalation rule doing its job. Draven's card η 0.55 now sits 0.05 under the Tier 5 band as **R44-4** corrected it — a question about his sheet, recorded as `C-062`, not a fault of this page. |
+| Numbers in band | **pass — the cleanest in the batch** | Page requires B-Grade; card gives **Tempering 248**, inside B (176–275) (Part Four). Stage VI ⇒ Max Grade A, ceiling 400, no instability zone (Part Five). The cap-at-his-own-ceiling clause is the system's own anti-escalation rule doing its job. Draven's card η 0.55 now sits 0.05 under the Tier 5 band as **R44-4** corrected it — a question about his sheet, recorded as `C-062` and **ruled 2026-09-25** in the card's favour (rung **I-2**), never a fault of this page. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

@@ -196,7 +196,7 @@ from AU/s ÷ η where an AU/s figure exists, and is `null` otherwise.
 |---|---|---|---|---|---|---|---|---|
 | Serenyra Vaelith | VIII Transcendence | 276 | S, ceiling 550 | ~0.70 | 0.70–0.80 ✓ | Refined | 22 (`Lumen Dissecans`) | 22 ÷ 0.70 = **31.4 EU/g** |
 | Drakvor | VIII Transcendence | 295 | S, ceiling 550 | ~0.55 | 0.70–0.80 ✗ | Refined, overbuilt | null | null |
-| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.60–0.70 ✗ (**R44-4**) | Refined | null | null |
+| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.60–0.70 ✗ (**R44-4**); card governs (`C-062`) | Refined | null | null |
 | Aeldoris Vanthryx | VII Refraction | 195 | A→S, ceiling 475 | ~0.65 | 0.60–0.70 ✓ (**R44-4**) | Refined, residue-heavy | null | null |
 | Francis Alexander | XIV Zenith | 470 | EX, ceiling 1,500 | 0.93 | 0.95–1.2 ✗ | "Absolute Crystal" | 2,800,000 (`Dirge Ascension`) | 2,800,000 ÷ 0.93 = **3,010,753 EU/g** |
 | Opalis | XII Emanation | 301–400 (Band IV) | SSS, ceiling 950 | no card | 0.85–0.90 | null | null | null |
@@ -208,8 +208,12 @@ under R42. Both logged, neither resolved (`SA-NUM-ETA-TIER`,
 `SA-UNATT-COHERENCE-BAND`). **R44-4 changed which three**: it corrected Tier 5's
 cell to 0.60–0.70, which brought Aeldoris's 0.65 inside his band and put Draven's
 ~0.55 below his. The count is unchanged at three — Drakvor, Draven, Francis —
-and Draven's case is `C-062`, filed to Doc Kett. Drakvor's and Francis's bands
-are Tier 6 and Tier 8, which R44-4 does not touch.
+and Draven's case was `C-062`, **ruled on 2026-09-25** (agent ruling, Isaac's rung
+**I-2**, WAR-132): his card's ~0.55 governs and the corrected Tier 5 row is a
+typical range for him, so he sits outside his band **lawfully** and no figure
+moves. Drakvor's and Francis's bands are Tier 6 and Tier 8, which R44-4 does not
+touch and which that ruling does not name; they stay logged and unruled under
+`SA-NUM-ETA-TIER`.
 
 **Six** sourced AU/s figures exist in the batch, across seven Stages, with no
 scaling rule between them (`SA-CROSS-AUS-LADDER`). The table above holds the two

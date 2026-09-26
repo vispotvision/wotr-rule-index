@@ -228,8 +228,11 @@ own 30–40 % loss). The Fracture flagged the last two as an unresolved "efficie
 conflict" it inherited rather than created, and **R44-4 has since settled it**: Part
 Seventeen governs, so Class I Muridic's **0.60–0.70** is also what the Tier 5 row now
 reads, and the third of these three readings is the table's. The other two are not —
-the card is 0.05 under it (`C-062`) and this page is 0.20 to 0.25 over it. **Recorded;
-not resolved here.** `SA-NUM-HUNTERSBREATH-CLASS-III`.
+the card is 0.05 under it and this page is 0.20 to 0.25 over it. The card's half is now
+settled: `C-062` was **ruled 2026-09-25** (agent ruling, Isaac's rung **I-2**) and his 0.55
+governs, the corrected row being a typical range for him. **The page's half is not** — the
+ruling says nothing about a Technique page's own Class III figure against the card it
+describes, so the 0.90–0.95 stays contested. `SA-NUM-HUNTERSBREATH-CLASS-III`.
 
 There is a real consequence, not just a bookkeeping one: **a 45 % bleed on a
 concealment working is self-defeating.** At η 0.55 roughly 7.7×10⁷ J of the pumped
@@ -245,7 +248,7 @@ works at all.
 |---|---|---|
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Flux Density | `null` | No AU/s figure for Draven. |
-| η | **0.55** (card) / **0.90–0.95** (page's Class III) — *contested* | Card line 35 vs page's Numerical Effect. Tier 5 band is **0.60–0.70** (Part Nineteen as corrected by **R44-4**, which also makes it Class I Muridic's own band), so **neither** figure is the table's: the card is 0.05 under (`C-062`), the page 0.20–0.25 over. `SA-NUM-HUNTERSBREATH-CLASS-III`. |
+| η | **0.55** (card) / **0.90–0.95** (page's Class III) — *contested* | Card line 35 vs page's Numerical Effect. Tier 5 band is **0.60–0.70** (Part Nineteen as corrected by **R44-4**, which also makes it Class I Muridic's own band), so **neither** figure is the table's: the card is 0.05 under and governs there (`C-062`, **ruled 2026-09-25**, rung **I-2**), the page 0.20–0.25 over and still contested. `SA-NUM-HUNTERSBREATH-CLASS-III`. |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | `null` | Page gives none — "while the mist is held." |
 | Bleed | **45 %** on the card's η; **5–10 %** on the page's | 1 − η, both readings. The difference is 7.7×10⁷ J vs 6.6×10⁶ J of local waste heat. |
@@ -289,7 +292,7 @@ choose. It only makes the stakes of the choice explicit, which is what it is for
 | Stated limits | **pass, and the first one is nearly a veto** | **Requires cold air to draw on** — *"Vohrin's cold-law needs an existing gradient. It does not manufacture one from nothing"*; 15 m; **ordinary sight unaffected**; Tenebra's signal-reduction must be held active through the exhale; warm or radiant domains overwhelm the mist before it spreads. |
 | Something beats it | **pass, three ways, two of them free** | Look at it. Lift it. Or read by something else. |
 | It has a tell | **pass, and the tell is the working** | The mist is *visible*. It hugs the ground, it is fifteen metres across, and it was not there a minute ago. A concealment working whose concealment is itself a landmark is an unusually honest design. |
-| Numbers in band | **pass on Grade, η contested** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); card **Dexterity 358** and **Dexterity-Silence 386** (read as Feint through the Merge Ledger) are both A ✓. The 50–60 % signal drop is the page's own conservative estimate against the Tenebra range. The real fault is η, and **R44-4** moved both halves of it: the Tier 5 band now reads **0.60–0.70**, so the card's **0.55** is 0.05 under it (`C-062`) and the page's Class III **0.90–0.95** is 0.20 to 0.25 over it — still a different practitioner, and now neither figure is the table's (`SA-NUM-HUNTERSBREATH-CLASS-III`). |
+| Numbers in band | **pass on Grade, η contested** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); card **Dexterity 358** and **Dexterity-Silence 386** (read as Feint through the Merge Ledger) are both A ✓. The 50–60 % signal drop is the page's own conservative estimate against the Tenebra range. The real fault is η, and **R44-4** moved both halves of it: the Tier 5 band now reads **0.60–0.70**, so the card's **0.55** is 0.05 under it and the page's Class III **0.90–0.95** is 0.20 to 0.25 over it — still a different practitioner, and neither figure is the table's. `C-062` has since **ruled the card's 0.55 governs for him** (2026-09-25, rung **I-2**), which leaves this page's Class III reading as the open half (`SA-NUM-HUNTERSBREATH-CLASS-III`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

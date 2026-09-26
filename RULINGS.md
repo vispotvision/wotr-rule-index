@@ -820,3 +820,68 @@ Isaac answered, in Claude Code chat, every question for him that sat in the dock
 ## 2026-09-26 — WAR-3 cards 1 and 2 (system accounts, 20 answers)
 
 Recorded in full on WAR-3's comments of 2026-09-26. In short: EU-by-Stage table; AU/s ladder by Stage; an AU-to-joule rate; numeric Aetheric Density ranges; absorbed energy banks in the practitioner's Crystal; ambient Resonance is a facet of Residue; one turn = 6 seconds; a second Range ladder for non-force reach; eta above 1.0 is real, surplus drawn from the Aether stratum; failure terrain for Limina, Spatium, Vectoria, Vitalia; Path gates cap the ungated component; uncarded pages read Tier bands; unpriced pages priced per Temperance Gate; Mechanica gets a Stage floor and load-scaled cost; contested Harmonic workings resolve Attunement vs Stability; retired Bands replaced by live equivalents; mirror all 136 glyphs first; costs as a share of reserve reaching Starvation; the aftermath is the tell; a defined saturation threshold.
+
+## 2026-09-26 — the system-accounts questionnaire (60 answers, Claude Code chat)
+
+Answered by Isaac in Claude Code chat, deciding the calls the clean rewrites of the 76 technique and Spellcraft accounts made, and the conflicts still open. Each line names the page(s).
+
+- **Vorynn Execution Strike (and every percentage cost)** — Every percentage cost is a share of FULL reserve (not what's left): percentage costs behave like fixed costs; Vorynn's fifth-of-reserve strike empties him in five.
+- **Invert Eidolon; Oathrend; Imprinta; Celestial Harmonic Shear** — Keep shares of reserve: fixed EU prices (Invert Eidolon, Oathrend, Imprinta, Harmonic Shear) become set shares so every caster at a Stage gets the same casts before Starvation.
+- **Precept** — Precept: the Stage floor rises with breadth; a small geas stays at Glory, a guild code or dynastic law needs a higher Stage.
+- **Kami no Kobushi** — Kami no Kobushi (God Fist): bloodline, no Stage floor; the lineage decides who can use it; figures come off each bearer's card.
+- **Kami no Kobushi** — God Fist founder's Plane-held 'cistern' is NOT exempt: rescale the reserve and the Works' costs into the Emanation band; outputs shrink by the same factor.
+- **Fallacy** — Fallacy: three sizes as rewritten (local lies from Glory at 5%, Wellspring-path lies from Transcendence at 15%, Domain-god lies from Dissonance at 40%, each with upkeep).
+- **Resonant Divination** — Resonant Divination floors as rewritten: Tracking at Transcendence, Fate Entanglement at Realization, Dissonance Warning at Emanation.
+- **Kurotana** — Kurotana as rewritten: the rite costs 90% of reserve once, the vessel is free, every power including the crow Domain (5% a turn) is billed per use.
+- **Dirge Ascension; Final Mercy; Imprinta** — Costs paid in the practitioner's own substance (Crystal mass, memory, Essence Core) are permanent and cumulative, with a hard lifetime limit; Imprinta states a cut to maximum reserve.
+- **Spinal Forge Ascent** — Spinal Forge Ascent carries the Overchannel penalty: damage accumulates with use and eventually becomes permanent.
+- **Obelisk of the Eclipsed Dawn** — Obelisk of the Eclipsed Dawn: healing and shielding modes cost almost no EU; the price is the emotional playback and strain.
+- **Final Mercy** — Final Mercy pours the whole reserve into one strike: one verdict per fight, leaving the user near Starvation.
+- **Anima Harmonics** — Anima Harmonics: listening costs reserve (0.5% a turn); long surveillance or negotiation runs the Harmonist dry.
+- **Solarbound Aegoric Knight** — Solarbound Aegoric Knight: the knight's own reserve is the fuel (14-37% per release); absorbed blows are only the trigger, with a risk of overfilling.
+- **Celestial Decree Aeon-Shard Mandate** — Setting-wide rule: healing and mending always cost more than breaking (Celestial Decree rebuilding 12% vs unmaking 5%, capped at the energy paid).
+- **Seraphic Thread Blessing** — Seraphic Thread Blessing: 1% of reserve a cast and a lasting, readable bond with every patient; many bonds cause drift.
+- **Vainglory** — Vainglory's upkeep climbs with the lie: the further the construct strays from the summoner's real self, the faster, with a stated measure of that gap.
+- **The Veil** — Soul Drift gets a scale with named threshold stages; each Veil crossing adds an amount set by depth and duration.
+- **Invert Eidolon** — Invert Eidolon: below Transcendence only a brief, fragile accidental construct forms, never the full thing.
+- **Sovereign Parallax Lance** — Sovereign Parallax Lance keeps 400 TJ as a real blast: the Cataclysm cast is a 3 km event that engulfs the caster; the quieter cast stays contained.
+- **Sovereign Parallax Lance** — Sovereign Parallax Lance keeps its 900 m reach (the reach of the flaw-reading); stepping beyond 900 m is a counter.
+- **Celestial Harmonic Shear; Harmonic Null-Ascension** — Harmonic Shear and Null-Ascension: small drive; the caster supplies a driving frequency and the target's own failure does the damage (0.8-25 TJ); the Grade buys the lock; Null-Ascension's price doubles each turn held.
+- **Edict Strike** — Edict Strike: a normal swing is A-Grade (10% of reserve); S only with a swing costing a third of reserve; never SS.
+- **Pyrewind Breaker** — Pyrewind Breaker: small open-air shock (about 1% into the blast; 20 m holds in the open; indoors 89-400 m); fire capped at 120 GJ by the sphere's oxygen.
+- **Sovereign's Reprisal** — Sovereign's Reprisal scales with what's banked: the release equals what attackers put in, boosted 2-5x from reserve; cheap against mobs, ruinous against peers.
+- **Obelisk of the Eclipsed Dawn** — Obelisk SSS Fracture Cascade: state both figures; full SSS only for reserves near the Stage ceiling, A or S otherwise.
+- **Transposition; Veil of Verdant Pact** — Splintering takes the 0.60-0.70 efficiency band; the whole Expert row reads 0.60-0.70.
+- **Sigillum Fixatio** — Sigillum Fixatio: the held body is truly hardened and resists damage up to the working's full rating (a defensive buff), overriding the rewrite's frame-fails-first reading.
+- **Winter Rend; Vorynn Execution Strike** — Cold workings (Winter Rend, Vorynn): the cold is small (~20 kJ from flesh, skin-deep frostbite, shallow nerve block, cracked armour); the yield belongs to the blow it rides, 2-4x harder because the target cannot give.
+- **Bloodbind Surge** — Bloodbind Surge may go past A-Grade (top end reads S); each surge past A risks a Crystal Fracture Event.
+- **Archivium Locus** — Archivium Locus: the technique page governs (a full turn to write, a 60 m redirecting lattice); the owner's card is corrected; the tell and the 'deny her the turn' counter stay.
+- **Aeldoris's workings** — General rule: anyone may allocate Sub-Stats into their Stage's strain band at a stated risk; Aeldoris's Harmonics 430 and Dexterity 410 stand on that basis.
+- **Invert Eidolon; Imprinta (and every sustained working)** — A working's wasted energy is radiated as heat at the caster's Shell: large sustained workings scorch their surroundings and can be seen for miles (setting-wide).
+- **Crimson Dirge** — Crimson Dirge: each verse removes one nameable step from a process so the law itself produces the opposite result; Core Laws stay inviolable.
+- **The Last Monolith** — The Last Monolith: the body refuses the blow; nearly all of it reflects up the attacker's weapon and the rest banks in the Crystal, which can overfill.
+- **Symphonia Ascendant** — Symphonia Ascendant: the splinter outcome is a flash and blast at the attack's full energy; the arrival angle decides which of the three outcomes happens.
+- **Transposition** — Transposition: unlike-for-unlike trades work because Transmutatio tunes both ends into one frame (10-15% of reserve, from Refraction); any leftover mismatch leaves a partial trade.
+- **Winter Rend; Vorynn Execution Strike** — Heat pulled by cold workings goes out through the Shell into the surrounding air; a warm closed room slowly spoils the working; warm air is a tell (Vorynn's page follows Winter Rend).
+- **Fluxus Intervallum; Oblivion-Step** — Fluxus Intervallum and Oblivion-Step are fast real crossings (1-60 ms / a quarter-second): an obstruction on the line stops them and fast-reflex fighters can see the streak.
+- **Oblivion-Step (and every Hypnather working)** — Hypnather's Core Law becomes 'cannot be forced by ordinary means'; Oblivion-Step stays at will, each use an interrupted rest that wears the Crystal.
+- **The Principle Engine** — The Principle Engine gains reserve by using the room as a heat sink (3-8% per serious contradiction, nothing in a cold still room, can overfill); deny it the gradient and it only costs.
+- **Edictum** — Spellcraft whose product is a standing condition is durable (Edictum holds without upkeep); state this in the Four Crafts.
+- **Thaumic Harmonics** — Thaumic Harmonics choirs: the lead singer's Crystal Fracture risk rises with each supporting voice (that is how a choir exceeds capacity).
+- **Lumen Dissecans; Judgment Manifest; Oneiron Phantasm Court; and others** — 'What nobody knows' answers the rewrites stated as fact are presented as one in-world school's reading; the mystery stays open.
+- **World Echelon; Dirge Ascension; Celestial Decree Aeon-Shard Mandate** — Add counters a prepared weaker side can use against World Echelon, Dirge Ascension and Celestial Decree (ground, outlasting the window, a divided crowd, detuning, Silence, Knot and Lock, the caster's body).
+- **Kurotana; Saba no Rosa; Antinomy; and others** — Every working inherits the documented failures of every Wellspring it draws on; opponents can induce them.
+- **Harmonic Null-Ascension; Celestial Harmonic Shear; Celestial Decree; Obelisk** — Harmonic immunity bar is Stage: anyone at the caster's Stage or higher is immune, on all four workings.
+- **Archivium Locus; Coagula Dominion; Obelisk of the Eclipsed Dawn** — Area workings sort friend from foe by the caster's judgement/attention; if it slips, allies are caught (Locus, Coagula, Obelisk).
+- **Imprinta** — Imprinta deposits are tethered: the page's counters work (kill the maker, break the focus, Silence); the floor rises to Glory or higher and the cost toward 75,000-150,000 EU (expressed as a share of reserve per q02).
+- **Speculum Harmoniae** — Nexus Harmoniae: collapse sends a Domain-style shockwave over the whole kilometre, caster included; downing the caster hurts both armies.
+- **Saba no Rosa** — Saba no Rosa: redundancy defends; broad, independent standing survives single withdrawals; narrow careers and chained holdings are vulnerable.
+- **Fallacy** — Fallacy cannot be recalled: once collapse starts it runs on its own, even the author is caught; planned withdrawals fail.
+- **Symphonia Ascendant** — Symphonia Ascendant's prior read is per technique: each technique must be heard separately; an opponent who varies his repertoire beats it.
+- **Oblivion-Step** — Oblivion-Step: many per turn, limited by reserve (3% each, about thirty from full) and by drowsy minds in range.
+- **Thaumic Harmonics** — Some workings go below hearing: those hidden by Tenebra or Luminalis are too quiet for Thaumic Harmonics to grip, a counter that can be bought.
+- **Anointing** — A forced or tricked Anointing can be removed only by Scission, with its complication rate.
+- **About twenty-five pages that named no glyph** — Proposed glyphs stay as printed but provisional: confirmed or reassigned once all 136 glyphs are gathered and checked.
+- **Dirge Ascension** — Dirge Ascension: Francis's Sovereignty stays capped at A even while ascended (Path-gate ruling holds); the world-rewrite runs weaker.
+- **Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant** — Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
+- **Symphonia Ascendant** — General rule: governing Sub-Stats belong to the practitioner, not the working's Wellsprings; Symphonia Ascendant's 5 km reach needs no third harmonisation.

@@ -22,7 +22,7 @@ Sixteen months of it. The defection at the ridge. The smile across two hundred p
 
 *He put a man inside. That is his hand and nobody else's, and I have known him since we were both small enough to fit under the same table, and it did not occur to me once.*
 
-*Nineteen years and it did not occur to me once. I have been thinking about walls. Whether they hold, whether they can be held, how many men on the wall and how long the stack lasts. Everything I have built since I came out of the water has been a thing that stands still and takes a blow.*
+*Eleven years and it did not occur to me once. I have been thinking about walls. Whether they hold, whether they can be held, how many men on the wall and how long the stack lasts. Everything I have built since I came out of the water has been a thing that stands still and takes a blow.*
 
 *A man who thinks in walls does not think of the door being opened from inside. That is the whole of the fault and it is mine and it has cost us nothing today, which is the only reason I am able to look at it.*
 

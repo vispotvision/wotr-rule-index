@@ -30,7 +30,7 @@ The Bloodspine were on the steps when Iskaron Thalnaris came up out of the margi
 
 Iskaron left his Domain lying on the steps, and inside it the wounded could only be carried out. Gorrath would not leave the ground. Sinclair Mercer came onto the steps on foot in a dark wool coat. Gorrath did not see him come. He saw a shadow on the basalt that did not match the man above it. Sinclair knelt beside each of the dying in turn, courteous and unhurried. One by one they stopped. Gorrath went at him over the fallen columns, and each time he arrived, Sinclair was somewhere else.
 
-A seam opened at the Domain's edge. Light came off it that lit nothing. Zarron Mahuo came onto the steps with Hikariken in his hand, and Sinclair was gone before the light was off the seam. None of the Bloodspine lived to the next morning. Gorrath pried basalt posts loose by hand and stood them over his dead, and Zarron carried posts with him until the last cairn was up. Then Zarron went.
+Then Sinclair was gone. None of the Bloodspine lived to the next morning. Gorrath pried basalt posts loose by hand and stood them over his dead until the last cairn was up.
 
 ### Where They Stand
 
@@ -40,10 +40,9 @@ He is the last surviving chieftain of the Bloodspine line, because the rest of t
 
 A coil reads him in under a minute. The reading is plain. The obsidian does not read as his at all, and nobody knows whether it is his. People who have been told what he is expect to feel warmer near him. They do not.
 
-The cairns stand on the Bloodspine steps beside the seam Zarron cut. Nothing has confirmed whether it closes.
+The cairns stand on the Bloodspine steps.
 
 ### Ties
 
 - **Iskaron Thalnaris · Bearer of the Fractured Crown** · enemy. Iskaron killed the Bloodspine on the ground Gorrath had chosen and left him alive, and on another stretch of the steps Gorrath sent his front back and saw the lattice larger.
 - **Sinclair Mercer · The Soul Devourer** · enemy. Sinclair took the dying Bloodspine off his ground and was never in front of him.
-- **Zarron Mahuo · The Arbiter of Unity** · debt. Zarron came with Hikariken and the man taking the dying left, and Zarron carried basalt for the cairns.

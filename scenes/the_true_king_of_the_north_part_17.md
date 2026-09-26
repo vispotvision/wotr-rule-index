@@ -200,7 +200,7 @@ Then she ran.
 
 She hit him at the sternum.
 
-Arctic Lion took it, because Arctic Lion took everything, the Glacium plate transmitting the impact around the ribcage and out into the harness and away from him, and the practical result was that Sodoku felt eleven years arrive as a soft thud and a pressure and nothing else, and the injustice of that was so complete that his hands did not know what to do and went where they had gone when she was a nursing infant and he was seventeen and terrified. One at the back of her skull. One flat between her shoulder blades.
+Arctic Lion took it, because Arctic Lion took everything, the Glacium plate transmitting the impact around the ribcage and out into the harness and away from him, and the practical result was that Sodoku felt eleven years arrive as a soft thud and a pressure and nothing else, and the injustice of that was so complete that his hands did not know what to do and went on their own. One at the back of her skull. One flat between her shoulder blades.
 
 She was crying before her arms closed, and doing it ugly, the kind that comes up out of the diaphragm in whole sheets and does not care who is standing in the yard, and her face was buried in a breastplate that could stop a Titan's claw and her fists had a grip on the fur of his cloak collar that was going to leave marks in the pelt.
 

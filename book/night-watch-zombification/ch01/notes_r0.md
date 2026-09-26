@@ -47,7 +47,7 @@ The same night, from the fourth division to the sixth. Wystan checks and blots Y
 ## Flags
 
 - **Dating.** The chapter-wax fold is dated "the day and the division in full," with no date rendered. The bible's flag says nothing is dated by "11d" (cut eleven days ago vs five days carried), and the source never gives the night's date. "11d" appears only as the day-book quotation.
-- **Who cut the wedge.** In the source, Tally cut the section and Yinzhi sealed the tin. The exhibit entry follows that: "Cut in the cut by Tally, N., and sealed there by the assay."
+- **Who cut the wedge.** In the source, Tally cut the section and Yinzhi sealed the tin. The exhibit entry follows that: "Cut in the cut by Tally, N., and sealed there by the assay." *(Corrected: ruled 2026-09-26, WAR-64, these are two cuts. Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge herself. Round 1 removed the attribution.)*
 - **The lie's truth.** Her card says the bracelet pulls toward a nearby practitioner who is holding himself down, and his card says he keeps that hold waking and sleeping. So the bracelet never went quiet, and her sentence is false whether or not his hold wavered at the sink. The page does not say why she lies. It stays uncorrected.
 
 ## Rules that most constrained the draft

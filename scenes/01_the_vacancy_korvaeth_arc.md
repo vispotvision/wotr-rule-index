@@ -10,7 +10,7 @@ Maren Vaeleth had counted six executions in forty-one years and this was the fir
 
 She stood at the foot of the yard steps with the book braced on her forearm and her right hand free, and she had been standing there since the fourth bell, and the callus at the first joint of her forefinger had begun the specific dull ache it produced after the second hour of any long entry. Three hundred and six sending. Four abstaining, forfeits paid, entered. Two refusing, unpaid, entered as unpaid instead of absent, because absent is a fact and unpaid is a position and the record should say which it was.
 
-The count was closed. She had closed it herself two days ago in the black drown chamber and had put the ledger in the vault and had taken it out again this morning, and it had stopped being hers the moment it went in and had not become hers again on the way out.
+The count was closed. She had closed it herself two days ago in the black drown chamber and had put the ledger in the vault and had taken it out again this morning, and it had stopped being hers when it went in and had not become hers again on the way out.
 
 That is the whole of a Reckoner. You are not a witness. You are the instrument that makes witnessing legible, and an instrument does not have opinions about what it measures.
 
@@ -22,7 +22,7 @@ She kept them where she kept the Vosk woman's granddaughter, who was nine, and w
 
 The Empress of Eresse came out of the eastern door at the sixth bell with two of her own household behind her and neither of them touching her.
 
-Onawa had asked for that in writing, in full form, eleven days ago, and Korvaeth had granted it because there was no reason on any ledger in four quarters to refuse it. She walked the length of that yard by herself in the cold with three hundred and twelve compensated pairs of eyes on her, and she walked it at the pace of a woman crossing her own hall, and Maren Vaeleth watched forty years of Reckoning fail to give her a word for what that was.
+Onawa had asked for that in writing, in full form, eleven days ago. Korvaeth had granted it because there was no reason on any ledger in four quarters to refuse it. She walked the length of that yard by herself in the cold with three hundred and twelve compensated pairs of eyes on her, and she walked it at the pace of a woman crossing her own hall, and Maren Vaeleth watched forty years of Reckoning fail to give her a word for what that was.
 
 She had put her hair up herself. Anyone who had ever seen a coronation would have known it, because the imperial coil is done in nine passes by two attendants and cannot be done in fewer, and what was on Onawa's head that morning was four passes and a plain pin, and it was holding, and it was going to hold for exactly as long as it needed to.
 
@@ -42,7 +42,7 @@ Ilthára Korvaeth came out after her and did not walk the yard.
 
 She came down the steps and stopped at the third one and stood there, which put her a head above the block and two heads above the front rank, and it was correct and it was cold and it was the first thing that morning Maren approved of professionally. A Reckoner needs a sightline. Three hundred and six people needed a sightline. The woman had thought about the geometry of her own atrocity and had thought about it well.
 
-Thirty-four. Five feet eleven. The Korvaeth build, which is the deep build, shoulders narrow and squared and the hands too large for the arms. Skin the grey-violet of a four-day bruise, hair the flat unlit white, bound back in a single black cord. A scar through the left eyebrow that pulled the lid a fraction so that half her face read as considering and the other half did not.
+Thirty-four. Five feet eleven. The Korvaeth build, which is the deep build, shoulders narrow and squared and the hands too large for the arms. Skin the grey-violet of a four-day bruise. Hair the flat unlit white, bound back in a single black cord. A scar through the left eyebrow that pulled the lid a fraction so that half her face read as considering and the other half did not.
 
 She wore the coat with the salt-black facings. Cut from the same drown alder groves as the panelling in her chamber, boiled and pressed into cloth-backing by a workshop in Vessel that had gone under two winters ago, and there were eleven coats like it in the world and she had all eleven.
 
@@ -68,7 +68,7 @@ Onawa turned her head and said something to the woman with the blade, and the wo
 
 *She asked how it is done. She asked so she would know where to put her chin. There is no version of that woman that arrives anywhere unbriefed.*
 
-Then Onawa spoke in full form, and Maren's nib went down onto the leaf.
+Then Onawa spoke in full form. Maren's nib went down onto the leaf.
 
 "Elar-uren Onawa. Ie-sae." A pause, exactly the length a pause is supposed to be in the Ureth register, no longer. "Sae-ureth."
 
@@ -318,7 +318,7 @@ Ilthára Korvaeth said nothing at all for a while.
 
 "To whom."
 
-"To me." She stood up and picked her coat off the chair-back. "That is the only ledger I have ever been permitted to keep, Aeldros. Every other one in this house has my name in the contingent form. I have exactly one column that nobody gets to audit, and this morning I spent an empire out of it, and the entry balances."
+"To me." She stood up. She picked her coat off the chair-back. "That is the only ledger I have ever been permitted to keep, Aeldros. Every other one in this house has my name in the contingent form. I have exactly one column that nobody gets to audit, and this morning I spent an empire out of it, and the entry balances."
 
 She got to the door and stopped.
 
@@ -336,7 +336,7 @@ Velthaeir does not publish.
 
 The Floating Archive-City has never issued a statement about anything in four Eons of existence, and the reason is doctrinal and is written into the founding instrument: a body that keeps the record cannot also be a party to what the record says. What Velthaeir does instead is enter findings in the sealed register, and the sealed register is not secret and is merely sealed, and any party with standing may request a reading, and the reading is performed by two jurists in alternation and costs eleven days and a fee.
 
-Sylvenn Thaeren was second jurist and had been for thirty-one years, and the whole of the office is to catch what the first one lets past.
+Sylvenn Thaeren was second jurist and had been for thirty-one years. The whole of the office is to catch what the first one lets past.
 
 The Korvaeth entry came up the Vessel road in a Reckoner's case with a Reckoner's seal on it and reached the reading-floor on the ninth day, and Aeren Lyth read it first and Sylvenn read it second, and they got four lines in before Aeren stopped.
 
@@ -476,7 +476,7 @@ Korrin Vosk was forty-eight and ran a fruit estate and eleven hundred tenants an
 
 *"Enter us as refusing. And write down that I said this and that I am sorry, because I want both halves in the record and I do not care which one they use."*
 
-He bowed properly on the way out and Ilthára Korvaeth did not say a single word to him from the moment he entered the room to the moment he left it.
+He bowed properly on the way out and Ilthára Korvaeth did not say a single word to him from when he entered the room to when he left it.
 
 Aeldros, afterward, asked her why.
 
@@ -554,7 +554,7 @@ The war did not start with a battle. It started with a road and an argument abou
 
 It was Aeldros who opened it, with Mirroven under him, and he did it competently and cheaply and hated every hour of it.
 
-He was not a soldier. He had been trained as a jurist because his name was validated and the family's legal work fell to the one member of it who could hold an estate, and he had spent nineteen years reading procedure and eleven months learning to move eleven hundred men down a road in winter. What he turned out to have was the thing nobody expects: an absolute, unhurried patience with logistics, and a jurist's memory for what he had promised whom.
+He was not a soldier. He had been trained as a jurist because his name was validated and the family's legal work fell to the one member of it who could hold an estate, and he had spent nineteen years reading procedure and eleven months learning to move eleven hundred men down a road in winter. What he turned out to have was the thing nobody expects. An absolute, unhurried patience with logistics, and a jurist's memory for what he had promised whom.
 
 Corlan Mirroven, who was frightened of everybody, was not frightened of Aeldros, and said so, and that sentence went round the northern camps inside a month and did more for the war effort than the road did.
 
@@ -618,7 +618,7 @@ And the evidence is the problem, and it is why the byname will outlive every oth
 
 She had an empire in her hand and she gave it away for a courtesy to a woman she had just killed.
 
-She was offered a valid name by the Dream Groves and refused it on the grounds that she had never stood in the forest.
+She was offered a valid name by the Dream Groves. She refused it on the grounds that she had never stood in the forest.
 
 She took Thela Ess-Vaelen alive at Ess-Vaelen Green and named her, at a cost of eleven hundred witness-fees, to no legal purpose anybody has ever identified, and let her go.
 
@@ -628,7 +628,7 @@ Aeldros Korvaeth put it into a letter in the third year, to Vessa Thenn-Ashal, a
 
 *"They will not hear it as love. They will hear it as a woman who cannot tell the difference between an empire and an afternoon. That is what mad is, out there. It has no raving in it and no blood. It is a ruler who spent the wrong thing on the wrong thing and could not explain the exchange rate afterward."*
 
-*"And the terrible part, Vessa, is that she can explain it. She explained it to me in eleven words on the night of the yard and I have not been able to put it down since. She said it was worth it, and I asked to whom, and she said: to me. She said it is the only ledger in this house that nobody gets to audit."*
+*"And the terrible part, Vessa, is that she can explain it. She explained it to me in eleven words on the night of the yard and I have not been able to put it down since. She said it was worth it. I asked to whom, and she said: to me. She said it is the only ledger in this house that nobody gets to audit."*
 
 *"I have spent three years trying to find the flaw in that and I cannot. It is either the sanest sentence anybody in this family has ever produced or it is the exact centre of the illness, and I have stopped being certain which, and I am not sure the two are different."*
 
@@ -636,7 +636,7 @@ Aeldros Korvaeth put it into a letter in the third year, to Vessa Thenn-Ashal, a
 
 Maren Vaeleth retired in the fourth year at sixty-eight, having entered every position of the first three, and did one thing on her way out that was not in the office.
 
-She went to the vault and took out the yard ledger and read the leaf again, all of it, the three hundred and six and the four abstaining and the two unpaid, and the naming in her own hand with the witness word entered three times.
+She went to the vault and took out the yard ledger. She read the leaf again, all of it, the three hundred and six and the four abstaining and the two unpaid, and the naming in her own hand with the witness word entered three times.
 
 Then she took out a second book, which had no seal on it and no standing anywhere, and which she had kept for forty-one years and had never shown to a living soul, and she made her last entry in it.
 

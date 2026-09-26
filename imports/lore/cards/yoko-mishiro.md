@@ -46,7 +46,7 @@ On the day of the ninth hour the order sent her below the old cistern with Hild 
 
 She keeps her own record, in her own hand, in the plain form she uses for everything, and she has shown it to no one. On the night the first Accord circle was signed she wrote, "He built it for her. Every clause." She wrote as well, "I have been beside this man for nine years and this is the first thing he has done that I do not think I could have done."
 
-Her son was born at Kharven-Seat in the Thin Weeks, in a low room off the altar-room. Brida Ashwell ran the room. Emira had the left side. Her ears lay flat for eleven hours. At the fifteenth hour there was a great deal of blood, and then it stopped. They called him Rikudoku. The Reckoner's form had one slot for a bloodline, and Sodoku told the Reckoner to enter both.
+Her son Rikudoku had been born in the Scourge years and was about seven the year the circle was signed. In the Thin Weeks of the fourth year the Seat's Reckoner came to enter him on the roll. The form had one slot for a bloodline, and Sodoku told the Reckoner to enter both.
 
 That week she wrote, "My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen." She wrote too, "I am afraid of the year he works out that he can use it." In the sixth year the empire's own law still filed his second inheritance under a schedule written for property, in the fourth title, eleventh article.
 
@@ -55,12 +55,11 @@ Her card keeps her at another hour. There she lives in a cabin on the Scourge's 
 ### Ties
 
 - **Sodoku Moto** · lovers, then married. He broke her lock, and she walked through it on her own decision and stayed.
-- **Rikudoku Moto** · mother and son. Her son, born at Kharven-Seat.
+- **Rikudoku Moto** · mother and son. Her son, born in the Scourge years.
 - **Ayame Yuno** · legacy, never met. The island Ayame described to her son is the reason the record gives for the lock he broke on Yoko's pen.
 - **Emira Moto** · sister-in-law. She told the girl the truth about her brother.
 - **Hild Ice (Stark) · The Sword Princess** · her husband's daughter. Yoko asked that the girl be brought back to them, and in the kitchen she answered her plainly and would not stoop to her height.
 - **Osric of Hallenfeld · The Patient Hand** · shared charge. He took her and Hild below the cistern.
-- **Brida Ashwell · The Warm Diagnosis** · physician and patient. Brida ran the room at her labour and watched her ears.
 - **Nella Forgeman · The Open Hand** · named together. Sodoku offered the two of them to shelter the stranger from the snow, and Sonzai refused.
 - **Borin Ironheart · The Master of the Soul Forge** · the resin. She knew his bench's resin.
 - **Krothar Veylshroud · The Chain Without a Master** · the question. He stepped into the road and asked whether she was a slave, and her hand went to Sodoku's sleeve.

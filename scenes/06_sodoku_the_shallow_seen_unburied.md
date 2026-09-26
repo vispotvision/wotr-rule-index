@@ -32,7 +32,7 @@ It took a long time and it was not clean and there was nothing in it that any ac
 
 At the end of it she was still holding him.
 
-He could see it. He was in the Plane and it was the one place a thing like that is visible, and the bond at her Attraction Layer was intact, undegraded, unstained, and four days in that room had put nothing into it. It was the same shape it had been in a kitchen nineteen years earlier when neither of them had a title. Whatever they had done to her body, they had not reached that, and they had not known it was there to reach, and it went out of the world still burning at full strength and unbent.
+He could see it. He was in the Plane and it was the one place a thing like that is visible, and the bond at her Attraction Layer was intact, undegraded, unstained, and four days in that room had put nothing into it. It was the same shape it had been in a kitchen eleven years earlier when neither of them had a title. Whatever they had done to her body, they had not reached that, and they had not known it was there to reach, and it went out of the world still burning at full strength and unbent.
 
 That was the most beautiful thing Sodoku Moto had ever been shown.
 
@@ -112,7 +112,7 @@ The dark went very quiet.
 
 *It is not wrong.*
 
-*It has not said one thing that is untrue and it is not going to, because it is made out of me and it has had nineteen years of me to work with, and everything it has is something I gave it. That is what it is for.*
+*It has not said one thing that is untrue and it is not going to, because it is made out of me and it has had eleven years of me to work with, and everything it has is something I gave it. That is what it is for.*
 
 *And that is the answer.*
 
@@ -126,7 +126,7 @@ The thing did not respond.
 
 "I am the part that would have burned Vaeloris to the footings."
 
-"You are the part that took the rage off me so that I could get out of bed. Somebody had to hold it. I could not hold it and stand up, so I gave it to you, and I built a wall around you and I have been feeding you through it for nineteen years, and you have kept your side of the arrangement, and you have been the only reason I have functioned." He found his voice had not moved at all. "So thank you. I mean that. But you have never once been in the room with what happened, because holding the rage is how you avoid being in the room, and that is the whole of your function, and you cannot advise me on a thing you have spent your entire existence not looking at."
+"You are the part that took the rage off me so that I could get out of bed. Somebody had to hold it. I could not hold it and stand up, so I gave it to you, and I built a wall around you and I have been feeding you through it for eleven years, and you have kept your side of the arrangement, and you have been the only reason I have functioned." He found his voice had not moved at all. "So thank you. I mean that. But you have never once been in the room with what happened, because holding the rage is how you avoid being in the room, and that is the whole of your function, and you cannot advise me on a thing you have spent your entire existence not looking at."
 
 "You are afraid."
 
@@ -185,7 +185,7 @@ Sodoku Moto set his sword low along his right leg with the edge turned out, and 
 
 *The fear exchange.* Shame says I am bad; the Unburied is running shame and calling it an accusation. Sodoku takes it entirely, says yes, and it is the only thing in the scene the Unburied has no answer to.
 
-**The bond survived and that is the beautiful, unbearable thing.** He watches four days and what breaks him is none of it. At the end her Attraction Layer anchor is intact, undegraded, unstained, the same shape it was in a kitchen nineteen years earlier, and they never knew it was there to reach. That is the most beautiful thing he has ever been shown and he would give every year he has left to unsee it.
+**The bond survived and that is the beautiful, unbearable thing.** He watches four days and what breaks him is none of it. At the end her Attraction Layer anchor is intact, undegraded, unstained, the same shape it was in a kitchen eleven years earlier, and they never knew it was there to reach. That is the most beautiful thing he has ever been shown and he would give every year he has left to unsee it.
 
 **And the reason for the four days is the worst detail in the file.** Seiji wanted his whereabouts. She did not have them, because Sodoku had removed them from her in advance, for her own safety, with her agreement, in a kitchen, over a bowl. Originated and pending your ruling, and I will pull it if it goes against what you have planned.
 
@@ -195,6 +195,6 @@ Sodoku Moto set his sword low along his right leg with the edge turned out, and 
 1. *Freya* is not in project knowledge anywhere. Entered here as canon on your line.
 2. *The Unburied appearing at thirty-two with the pre-ice face and an unfinished mandible of the void down one side* is originated, and the age is doing real work.
 3. *Sodoku reaches Asami at the end of this scene.* The record's account is exactly what I wrote: the Ledger and the Shingan going irrelevant rather than suppressed, and the recognition that he has always been this. He does not enter Gisei and does not sacrifice anything. That is a large canon event and it is your ruling.
-4. *Nineteen years* used throughout for the gap; confirm against Hild's age.
+4. *Eleven years* used throughout for the gap, which is Hild's age at the muster.
 
 **Open.** What the Unburied does now that it is outside the wall and has been refused. Whether Asami holds when he reaches the narrows. Whether anyone at the Seat notices what walked back onto that road.

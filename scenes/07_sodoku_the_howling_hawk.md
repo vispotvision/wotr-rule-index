@@ -20,7 +20,7 @@ He said nothing.
 
 He wanted to. There was a sentence in his chest with weight in it and he could feel the shape of the whole thing, and he let it stay there and did not spend it, because that had been the arrangement he made with himself at nineteen and had kept in every room since. The Ice had called it coldness. Yoko had once told him, accurately and without malice, that a man who never shows the tide is a man who has decided the tide is a weapon. Freya had known the whole of it in about a week and had never once mentioned it.
 
-The feelings moved anyway. They always did. In and out, twice an hour, the whole nineteen years, a river running under a floor.
+The feelings moved anyway. They always did. In and out, twice an hour, the whole eleven years, a river running under a floor.
 
 His grandmother had had a word for it and had used it about him when he was nine, in front of his mother, and had refused to take it back. A boy who holds the tide, she said, grows into a man the tide holds. He had thought at the time that it was a compliment and had been pleased with himself for a week.
 

@@ -204,7 +204,7 @@ There is one further line in the Reckoner's entry and it is the last one and it 
 
 Edward Lambert went to the graves on the morning of the first frost with his hands behind his back and stood in front of three stones in the upper burying ground at Kharven-Seat and did not kneel and did not remove anything.
 
-Hild Ice. Twelve years old. Lorn Stark, who had made an arrangement about that girl nineteen years ago and had kept every part of it. Osric of Hallenfeld, who had put himself in a doorway.
+Hild Ice. Twelve years old. Lorn Stark, who had made an arrangement about that girl twelve years ago and had kept every part of it. Osric of Hallenfeld, who had put himself in a doorway.
 
 They had been cut and set in the same week by the same mason, and the mason had matched the depth of the lettering across all three at Lambert's own instruction, because a difference in depth between stones cut in one week says something about relative importance and Edward Lambert had spent fifty-three years refusing to let a document say anything he had not intended.
 
@@ -584,71 +584,13 @@ He has never answered it. He put his hands behind his back in the seventh month 
 
 Tabitha Hallenfeld is fifty-one now and sits the Bench and has asked it twice in private and been refused twice, and has begun, in the last two years, to think about a third possibility that she has written down once and burned.
 
-The child was born at Kharven-Seat in the second week of the Thin Weeks in the fourth year, in a low room off the altar-room with the night-stone in the corner ticking as it cooled, and there was a woodpile outside the window that had been counted on the ninth of every month since the Seat had stood and was counted that morning with the rest.
+Rikudoku was entered on the Seat's roll in the second week of the Thin Weeks in the fourth year, in the corridor off the altar-room with the night-stone in the room behind ticking as it cooled, and there was a woodpile outside the window that had been counted on the ninth of every month since the Seat had stood and was counted that morning with the rest.
 
-Yoko Mishiro had been in it since the second hour.
+He was ten that winter. He had been born in the Scourge years, when his father was twenty-two and his parents had not yet named what they were to each other. In the north a child is entered on the roll where he is born, and he had not been born anywhere that kept one.
 
-The room was hot and smelled of the stone and of the tallow they burn in the birthing rooms instead of the lamps, because the lamps at the Seat gutter in the Thin Weeks and nobody was going to have that happen in this room on this night. Under the tallow and the hot stone there was the iron smell that is unavoidable, and the sour smell of a body that has been working for fourteen hours, and airag in a bowl by the door that nobody had drunk because nobody was going to be the one who put a bowl down.
+The Reckoner who had come up to enter him was a man of sixty out of the Seat's own registry who had entered every Kharven birth on the ridge for thirty-one years, and he stood with the roll open and the pen in his hand and the plain problem in front of him, and the problem was that the form has one slot for a bloodline.
 
-Brida Ashwell ran it and did it sitting down, which she had been doing for six years.
-
-She was fifty-two and walked with the stick and would for the rest of it, and her colour had never come back from the eleven days in the altar-room with the wound across the abdomen that she herself called the third bowl. She ran the room from a stool with her leg out and her hands where they needed to be, and she talked the whole time in the flat Ashwell register that does not go up at the end of a sentence, and the talking was the instrument.
-
-"Not yet."
-
-"Not yet."
-
-"Now, and take it in three."
-
-Emira had the left side. She was twenty-four and had been a healer for nine years and was better at it than Brida had been at thirty, and Brida had said so twice in private and had not said it in the room because a room has one voice.
-
-Yoko's ears had been flat to her skull for eleven hours.
-
-They had gone down at the fourth hour when the pains changed character and they had not come up since, and Brida Ashwell, who had never delivered a fox-spirit beastkin and had said so plainly in the second month and had gone and found three people who had, watched the ears more than she watched the face, because the face had been taught to be flat in a pen when Yoko was young and the ears have never learned anything at all.
-
-The tail had stopped moving at the tenth hour and that was the thing that frightened the room.
-
-She did not scream much. She swore twice, both times in the fox-register that has no equivalent in Common, and once said a thing about the Seat's roof that Emira wrote down afterward and keeps.
-
-At the fifteenth hour there was a great deal of blood and Brida Ashwell put two fingers on the inside of Yoko's wrist and counted for six seconds and said, in exactly the register she had used for *not yet*, that they would be having no third bowl in this room tonight, and Emira understood what had been said and moved, and what happened over the following nine minutes has an entry in the Seat's medical register in Brida's hand that runs to two hundred words and ends with a note that the bleeding stopped on its own at the ninth minute and that she does not know why and declines to invent a reason.
-
-Then there was a child.
-
-He came out white-haired and furious and entirely human to look at, moon-white, the Kōkan white, with the metallic sheen along the brow that the Moto have been born with since before anyone counted, and amber eyes that were his mother's and are still.
-
-Sodoku Moto was outside the door.
-
-He had been outside the door for fifteen hours. He had gone away twice, once to the woodpile and once to the map room, and had come back both times inside a quarter of an hour, and the household had watched a man who sat the councils and read the returns and asked the correct questions about grain stand in a corridor for most of a day with his hands at his sides.
-
-Emira brought the child out.
-
-She did it deliberately. Brida had the mother and the room had work in it still and there was no reason at all to take an infant into a cold corridor, and Emira did it anyway, because she had been nine years old once in a house where nobody explained anything and had spent her whole life since then handing people the thing they could not ask for.
-
-He took the child the way a man takes something that has been handed to him without warning, badly, with both hands too far apart, and then not badly.
-
-He looked at the doorway.
-
-A quarter of a second, to the door frame, at about the height of a twelve-year-old's shoulder. Then back to the child's face. He has not done it again on any night since. Emira has never raised it with him and has raised it with exactly one person.
-
-"He's breathing wrong," he said.
-
-"He's breathing the way they breathe for the first day."
-
-"That's not what I asked."
-
-"It wasn't a question." Emira put her hand under his elbow and moved his arm four inches. "Like that. His head goes there. He can't hold it himself for three months and you will be doing this for three months, so learn it now while there's somebody watching who likes you."
-
-They called him Rikudoku.
-
-The ears came on the ninth day.
-
-They came through in a night, ash-grey, the exact grey of birch bark that is his mother's colour and not a shade off it, sitting high above the temple line where a beastkin's ears sit and a human's do not, and by the morning of the tenth day they were moving, and by the eleventh they were doing what his mother's do, which is to report the truth before anybody has decided to tell it.
-
-The room went quiet when the household saw them, for about four seconds, which is long enough for everybody in it to have counted.
-
-The Reckoner who had come up to enter the birth was a man of sixty out of the Seat's own registry who had entered every Kharven birth on the ridge for thirty-one years, and he stood with the roll open and the pen in his hand and the plain problem in front of him, and the problem was that the form has one slot for a bloodline.
-
-He could enter the child as Moto of the Kōkan Line and the entry would be true and would be the entry a Reckoner in any of four quarters would make, and the second half of the boy would be nowhere in any book, and in ninety years a clerk reading the roll would find a Moto heir and no fox at all.
+He could enter the boy as Moto of the Kōkan Line and the entry would be true and would be the entry a Reckoner in any of four quarters would make, and the second half of the boy would be nowhere in any book, and in ninety years a clerk reading the roll would find a Moto heir and no fox at all.
 
 He asked.
 
@@ -658,17 +600,17 @@ Sodoku Moto looked at the roll for about as long as he had looked at the word Wh
 
 "There is one slot, my lord."
 
-"Then the form is wrong." He did not raise his voice and he did not look up from the child. "Enter both. Put your initial beside it so the responsibility is legible, and send the form to Lambert with a note that it is insufficient, and he will have a new one drawn inside a month, and every Reckoner in the north will be using it inside a year."
+"Then the form is wrong." He did not raise his voice and he did not look up from the boy. "Enter both. Put your initial beside it so the responsibility is legible, and send the form to Lambert with a note that it is insufficient, and he will have a new one drawn inside a month, and every Reckoner in the north will be using it inside a year."
 
 That is exactly what happened, and the current birth-form used across the northern empire has two bloodline fields and a third line beneath them for a note, and the third line is there because a Reckoner at Kharven-Seat asked a question in a corridor in the fourth year, and there are perhaps nine people alive who know why the form carries it.
 
 Yoko Mishiro's own record for that week is four lines and she has never shown it to him.
 
-*The ears came up and I watched the room. Eleven people. Four of them were glad, five of them did not know what their faces were doing, and two of them looked at me instead of at the child, which is the one I will remember.*
+*His ears came up at the word slot and I watched the room. Eleven people. Four of them were glad, five of them did not know what their faces were doing, and two of them looked at me instead of at the boy, which is the one I will remember.*
 
 *He did not look at the room at all. He was looking at the ears, and he was smiling, and I have seen that man smile four times in ten years and I could have told you the other three from memory before tonight.*
 
-*My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen. Both of those arrived in the same night. They are going to stay in the same room for the whole of his life and neither one is going to leave.*
+*My son is the heir of the oldest bloodline in the world and half of him is the thing that world puts in a pen. Both of those went into the roll on the same night. They are going to stay in the same room for the whole of his life and neither one is going to leave.*
 
 *I am not afraid of what they will do to him. I am afraid of the year he works out that he can use it.*
 
@@ -754,7 +696,7 @@ He took the coat off and hung it on the fence. He got the maul and worked the he
 
 He picked them up and stood them and split them again.
 
-The household knew better than to come out. Emira watched from the kitchen door for a while with her arms folded. Yoko came down at the sixth hour with the boy on her hip in four layers of wool with only the ears out, and stood on the step, and did not say anything, and the ears turned toward the sound of the maul a half-second before the boy's face did, every time, for the whole of it.
+The household knew better than to come out. Emira watched from the kitchen door for a while with her arms folded. Yoko came down at the sixth hour with the boy beside her in four layers of wool with only the ears out, and stood on the step, and did not say anything, and the ears turned toward the sound of the maul a half-second before the boy's face did, every time, for the whole of it.
 
 He did not stop until it was properly dark.
 

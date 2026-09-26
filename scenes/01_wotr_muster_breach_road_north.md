@@ -2,10 +2,6 @@
 
 *Four places, the same morning.*
 
----
-
-## I. THE MUSTER FIELD, EIGHT LEAGUES SOUTH OF THE TENRAI CAMP
-
 Six hundred men breathing in the cold made the sound of a tide coming in under a pier.
 
 That was the first thing on the field and it stayed the first thing. Under it, the pressure of them, which a man feels in the chest before he counts anything, six hundred bodies packed at four feet and putting out heat that hung over the whole block in a haze and went up. Then the smell, which was horse and wet felt and old grease and the particular sourness of men who have slept in mail for eleven nights. Sight came last and came late. Wren Greymane could see about a third of his own muster from the saddle and had to take the rest on faith.
@@ -26,7 +22,7 @@ He was twenty-nine and had the sort of face that agrees with whoever is nearest.
 
 *I have been thirteen months in this man's company and I have not once heard him raise his voice, and I have watched him give an instruction that ended a village, and the instruction was four words and one of them was please.*
 
-"The Ice have no claim," Seiji said. "That is the whole of it and it has been the whole of it for nineteen years. A man does not become King of the North because he held a ridge and because a girl sat on a broken chair and nobody stopped her. The Tenrai recognise one heir. The Amagiri recognise one heir. The Akagane recognise one heir. Miku Tenrai Moto, trueborn to Azure Tenrai Moto, who was High King of the North while these people were still deciding what to call themselves."
+"The Ice have no claim," Seiji said. "That is the whole of it and it has been the whole of it for eleven years. A man does not become King of the North because he held a ridge and because a girl sat on a broken chair and nobody stopped her. The Tenrai recognise one heir. The Amagiri recognise one heir. The Akagane recognise one heir. Miku Tenrai Moto, trueborn to Azure Tenrai Moto, who was High King of the North while these people were still deciding what to call themselves."
 
 Wren said nothing to that.
 
@@ -62,11 +58,7 @@ Six hundred throats, and under them the horses going up, and under that the pres
 
 Seiji Tenrai Moto watched him do it with his hands folded on the pommel and did not shout.
 
----
-
-## II. THE SOUTHERN REACH
-
-The wall had gone in the night, forty feet of it, on the fourth day of them working at it.
+In the Southern Reach the wall had gone in the night, forty feet of it, on the fourth day of them working at it.
 
 They had not thrown themselves at it. That was the thing the Seat's own officers would not believe when it was reported. They had surveyed it, and they had gone at the mortar course two feet above the footing where the frost had already been working for eleven winters, and they had done it in shifts, in silence, under a shed roof of their own making, and on the fourth night the face had come away in one piece and had taken the rampart walk with it.
 
@@ -126,10 +118,6 @@ Sound. Pressure. Smell. Sight, last, and less of it as the light came up and the
 
 The men of the Mandate were still coming through at the ninth hour, and Bram Greymane, on foot by then with a dead horse behind him and his shield strapped to a forearm he could no longer feel, put his boot on the chest of something that had stopped moving and pulled his axe out of it and turned round to face the gap again.
 
----
-
-## III. THE ROAD
-
 They took the first village at the eleventh hour and Wren Greymane understood by the second one that he had misread what he had joined.
 
 He had expected a Northern war. Two claims, two hosts, a field somewhere flat with a wood on one flank, the thing decided by whoever held together longest, and afterward the arguing and the burials and a treaty that everybody would break in nine years. He had joined a Northern war. He had spent sixteen months on his own name for it.
@@ -160,11 +148,7 @@ Nobody in the column looked at it except Wren.
 
 The generals did not turn their heads. Seiji had his eyes on the road. And it went on ahead of them all morning, out past the range of anything Wren understood, opening the country between the column and Kharven-Seat as a man opens a road with a plough.
 
----
-
-## IV. KHARVEN-SEAT
-
-Lorn Stark had been on the outer wall since the fourth hour and had watched the west go white three times before anyone came up to tell him what it was.
+Lorn Stark had been on the outer wall of Kharven-Seat since the fourth hour and had watched the west go white three times before anyone came up to tell him what it was.
 
 Nobody could tell him what it was.
 
@@ -192,9 +176,9 @@ He stopped in front of his daughter and stood there a moment.
 
 Then he put a hand on the back of her head and kissed her hair, and let go, and turned away, and did not say anything that carried as far as the wall.
 
-*Nineteen years.*
+*Eleven years.*
 
-*I stood in a room with her mother and I made an arrangement about that girl and I have kept every part of it and I would like it recorded somewhere that keeping it has cost me more than any oath I have sworn to anyone with a title. And he comes up out of the sea after nineteen years and puts his hand on her head, and she lets him.*
+*I stood in a room with her mother and I made an arrangement about that girl and I have kept every part of it and I would like it recorded somewhere that keeping it has cost me more than any oath I have sworn to anyone with a title. And he comes up out of the sea after eleven years and puts his hand on her head, and she lets him.*
 
 Sodoku said one word.
 

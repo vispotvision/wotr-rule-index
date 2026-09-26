@@ -18,13 +18,13 @@ That was the plain description and Sodoku Moto had never once been able to expla
 
 It should have put him on his knees.
 
-It did the opposite, and the doing of it went through him with a physical sensation he could put a hand on. Something in his chest that had been narrow since the water opened. Something in the line between his sternum and his palms that had run rough for nineteen years, that had made every working since the Crossing cost him more than it cost other men and had been recorded in three assessments as an unexplained inefficiency.
+It did the opposite, and the doing of it went through him with a physical sensation he could put a hand on. Something in his chest that had been narrow since the water opened. Something in the line between his sternum and his palms that had run rough for eleven years, that had made every working since the Crossing cost him more than it cost other men and had been recorded in three assessments as an unexplained inefficiency.
 
 It ran clean.
 
 *Because it is theirs.*
 
-*That is the whole of it and I have been nineteen years and could not have said it this morning. What I have been carrying was mine and had my name on it and had one person's face on it, and I would not put it down, and a thing you refuse to put down is a thing you are holding by the wrong end. This belongs to them. It is arriving, and I am refusing no part of it, and the road it comes down is smooth.*
+*That is the whole of it and I have been eleven years and could not have said it this morning. What I have been carrying was mine and had my name on it and had one person's face on it, and I would not put it down, and a thing you refuse to put down is a thing you are holding by the wrong end. This belongs to them. It is arriving, and I am refusing no part of it, and the road it comes down is smooth.*
 
 The surge went up his arms and out.
 
@@ -128,13 +128,13 @@ And then the boundary.
 
 The trough came back through him and this time he could not step around it.
 
-He did not know how she died. That was the fact. Nineteen years and he had never learned it, not the hour and not the room and not what took her and not whether there had been anyone in the room at all, and there was no report and no witness and no bench that had heard it and no man alive who would say. He had asked four people in nineteen years. Two of them had not known. One had lied to him, badly, in a way he had recognised at the time and had let go, and he had never worked out why he had let it go. The fourth had looked at the floor.
+He did not know how she died. That was the fact. Eleven years and he had never learned it, not the hour and not the room and not what took her and not whether there had been anyone in the room at all, and there was no report and no witness and no bench that had heard it and no man alive who would say. He had asked four people in eleven years. Two of them had not known. One had lied to him, badly, in a way he had recognised at the time and had let go, and he had never worked out why he had let it go. The fourth had looked at the floor.
 
 She had died. That was everything he had. And Hild had been raised by other people's hands, in other people's rooms, and had learned to hold a spoon and a name and a grief without either of them present, and had come out of it holding a broken circlet and putting it down on a mounting block and forgetting it.
 
 The rope is tied to the post.
 
-The wave will not go through and will not stop coming, and it will come back upside down every single time, and a man can drive it for nineteen years and get the same standing pattern in the same places, quiet here, unbearable there, and no motion anywhere at all. Nothing travels. That is what a standing wave is. It looks like the sea and it moves nothing from one place to another.
+The wave will not go through and will not stop coming, and it will come back upside down every single time, and a man can drive it for eleven years and get the same standing pattern in the same places, quiet here, unbearable there, and no motion anywhere at all. Nothing travels. That is what a standing wave is. It looks like the sea and it moves nothing from one place to another.
 
 The hand on his shoulder was not there.
 
@@ -167,9 +167,9 @@ That reverse movement is deliberate and it is the craft point: pulling from inti
 
 **The wave is real physics and it is the scene's whole engine.** A pulse travelling down a rope reflects at the far end. If the far end is **free**, it comes home upright, in phase. If the far end is **fixed**, the boundary exerts an equal and opposite reaction and the pulse comes home **inverted**, a half-wavelength out, crest into trough. Drive a bounded medium continuously and the outgoing and returning waves interfere and you get a **standing wave**: nodes where they cancel and nothing moves, antinodes where they add and everything arrives doubled. A standing wave transports no energy. It looks like the sea and it moves nothing from one place to another.
 
-That is his grief, exactly, and it is why nineteen years of driving it has produced nothing. His wife's death is a fixed end. He cannot get past it and it will not move, so everything he sends at it comes back turned over, and what he has built is a pattern with dead places in it, quiet here and unbearable there, and no motion anywhere.
+That is his grief, exactly, and it is why eleven years of driving it has produced nothing. His wife's death is a fixed end. He cannot get past it and it will not move, so everything he sends at it comes back turned over, and what he has built is a pattern with dead places in it, quiet here and unbearable there, and no motion anywhere.
 
-**And it is why the war mends him.** The Kharven surge is not his. It arrives with no name and no single face on it, and per Pack Thirteen's third stratum that is the difference between an **Obsession-sustained** hold, which is refusal, and an **Attraction-sustained** one, which is recognition. He has been refusing a death for nineteen years and the refusal ran rough through the line between his sternum and his hands, entered in three assessments as an unexplained inefficiency. Grief that he is refusing nothing about runs clean. That is the mending, mechanistically, and I put the sensation on the page before the explanation.
+**And it is why the war mends him.** The Kharven surge is not his. It arrives with no name and no single face on it, and per Pack Thirteen's third stratum that is the difference between an **Obsession-sustained** hold, which is refusal, and an **Attraction-sustained** one, which is recognition. He has been refusing a death for eleven years and the refusal ran rough through the line between his sternum and his hands, entered in three assessments as an unexplained inefficiency. Grief that he is refusing nothing about runs clean. That is the mending, mechanistically, and I put the sensation on the page before the explanation.
 
 **Consulted:** wave reflection at fixed and free boundaries, phase inversion by Newton's third law, standing-wave node and antinode formation, and the fact that a standing wave transports no energy.
 
@@ -181,7 +181,7 @@ That is his grief, exactly, and it is why nineteen years of driving it has produ
 
 **And he shouts, and it is wrong on him.** A man who has never raised his voice in his life, whose people fear the dry voice going quieter, puts a sword over his head and produces something enormous and wrong that stops his own line dead. That is the scene's other cost.
 
-**Kasumi against the unnamed wife.** Edward knows the hour, the courtyard, the weather, what she was wearing, and both names on the order, and has read the report four hundred times. Sodoku knows nothing, asked four people in nineteen years, got two who did not know, one who lied badly in a way he recognised and let go, and one who looked at the floor. *There is no mercy in knowing. People have said to me, at least you know, and I have thanked them.*
+**Kasumi against the unnamed wife.** Edward knows the hour, the courtyard, the weather, what she was wearing, and both names on the order, and has read the report four hundred times. Sodoku knows nothing, asked four people in eleven years, got two who did not know, one who lied badly in a way he recognised and let go, and one who looked at the floor. *There is no mercy in knowing. People have said to me, at least you know, and I have thanked them.*
 
 **The dark.** Your line about finding solace in the void and having been there once is on the page and I have kept it as the scene's hardest thing: the reason he is not afraid is familiarity, and it happened in the years the record has him missing, and there is nobody in four worlds he can hand it to. Nothing is explained. **Originated and pending your ruling**, since it implies a gap in his history I have not seen documented.
 

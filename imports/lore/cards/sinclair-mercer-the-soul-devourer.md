@@ -34,7 +34,7 @@ In the Age of Calamity he came on foot onto the flood-basalt steps at the Crevic
 
 Gorrath came at him over the fallen columns. Each time the orc arrived, Sinclair was somewhere other than in front of him.
 
-Then a seam opened in the basalt at the Crown's edge, and light came off it that lit nothing. Zarron Mahuo walked onto the steps with Hikariken in his hand. Sinclair stood up from the man he was kneeling beside and left before the light was off the seam. None of the Bloodspine lived to the next morning. What he was not spending of them went into the Chainsalt-lined coffer he carried. The count rose.
+Sinclair stood up from the man he was kneeling beside and left. None of the Bloodspine lived to the next morning. What he was not spending of them went into the Chainsalt-lined coffer he carried. The count rose.
 
 Twice he was badly hurt, both times by professionals far beneath him who wore good plate, closed fast and kept closing. Twice a Sealwright team took him from behind Chainsalt plate. Both times he left and did not press it. The material that answered him was the material his coffer was lined with, and he said so once, to somebody who did not survive the conversation.
 
@@ -58,7 +58,6 @@ He counts them still. The number has not gone down.
 
 - **Zar'thuun, the Titan of Abythron** · the Titan who declined him. He was given to Zar'thuun as a sacrifice and was left standing in the unmaking with a hunger that had been aimed at him and missed.
 - **Gorrath Bloodspine · The Magmaborn Juggernaut** · enemy. He took the orc's dying clan one at a time.
-- **Zarron Mahuo · The Arbiter of Unity** · enemy. Zarron came onto the Bloodspine steps with Hikariken in his hand while Sinclair knelt among the dying, and Sinclair stood up and left before the light was off the seam.
 - **Iskaron Thalnaris · Bearer of the Fractured Crown** · the one he came after. He took the dying that Iskaron's hands had opened, and they have never met.
 - **Vorrn · The Fourth Weight** · Abythron. Vorrn was built in the domain where Zar'thuun declined Sinclair, and no record has them meet.
 - **Tilda** · the one he hunted and did not take. Her harmony eluded him, and she is his one recorded failure.

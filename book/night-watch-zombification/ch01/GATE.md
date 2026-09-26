@@ -36,7 +36,7 @@ Outline beat: Yinzhi's name at the docket head; the tin struck with his brass an
 
 ## Originated, pending Isaac (from notes)
 
-The day desk sits in the same building, up four steps. The day clerk is unnamed. Also originated: the brass token, brass wax and fresh tins, the grounding tea and the kettle. Flags: the fold carries no rendered date, and the archive attests two different accounts of who cut the wedge, which the exhibit entry no longer chooses between (see the Instructed round below, and `final_notes.md` Flags).
+The day desk sits in the same building, up four steps. The day clerk is unnamed. Also originated: the brass token, brass wax and fresh tins, the grounding tea and the kettle. Flags: the fold carries no rendered date, and the archive attests two different accounts of who cut the wedge, which the exhibit entry no longer chooses between (see the Instructed round below, and `final_notes.md` Flags). Ruled 2026-09-26 (WAR-64): two cuts; Tally cut his own section, Qiu Yinzhi cut and sealed the exhibit wedge herself.
 
 Written in Isaac's unattended run (he asked for the whole book written through); gate not decided.
 

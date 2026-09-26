@@ -243,8 +243,8 @@
   name: The Tsohanto Reach
   thread: New World, the Korvaeth War
   status: open
-  want: Silent four years, nobody counting it, no delegation to either party in eleven. Isaac's hook and
-    the proposed resolution of the Onawa collision.
+  want: Silent four years, nobody counting it, no delegation to either party in eleven. The silence is
+    the Tsohanto's answer to the Empress of Eresse, who shares their queen's name, Onawa.
   last_move: ''
   next_move: 'A count is taken of the silence: someone in the Regency notices no delegation has come in
     eleven years and asks why.'
@@ -259,8 +259,7 @@
     consequence: The Reach sends a delegation to Ilthára and not to the Regency, and the choice is itself
       the message.
   - tick: 4
-    consequence: 'Resolves: the Onawa collision is settled as two women, and the Reach re-enters the war
-      as the party that was insulted in a yard.'
+    consequence: 'Resolves: the Reach re-enters the war as the party that was insulted in a yard.'
   position: 0
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction

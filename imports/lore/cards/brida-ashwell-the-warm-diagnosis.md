@@ -46,9 +46,7 @@ In the spring she stood at the back of the lower hall with her stick while Lambe
 
 ### Where They Stand
 
-She runs rooms sitting down now, from a stool with her leg out. In the Thin Weeks of the fourth year she ran the birthing room at Kharven-Seat for Yoko Mishiro's labour. She talked the whole time in the flat Ashwell register, which does not go up at the end of a sentence: "Not yet," over and over, and then, "Now, and take it in three." She had never delivered a fox-spirit beastkin. She said so plainly, found three people who had, and at the labour watched Yoko's ears more than her face. At the fifteenth hour there was a great deal of blood. Brida put two fingers to Yoko's wrist and counted, and in the register she had used for not yet she said there would be no third bowl in that room. Emira Moto had the left side, and moved. The child came white-haired and furious, and they called him Rikudoku.
-
-Her entry in the Seat's medical register runs to two hundred words. It ends with a note that the bleeding stopped on its own at the ninth minute, that she does not know why, and that she declines to invent a reason.
+She runs rooms sitting down now, from a stool with her leg out.
 
 Twice, in private, she has said that Emira is better at the work than she herself was at thirty. She has not said it in the room. A room has one voice. The Seat sends her to the ones who will not talk, because she says the true thing. She has sutured with the bone pins in her hair once, and tells it at meals.
 
@@ -64,6 +62,4 @@ No record says whether she heard what the dying man said before she opened the d
 - **Robin Ice · The Bastard Runner** · witness. She watched the boy go down the path.
 - **Nella Forgeman · The Open Hand** · colleagues. Lambert counts her healing supplies beside Nella's and reckons the day the coalition's stores run empty off both.
 - **Lilia · The Stormfold Nurse** · colleagues. The supplies Hild sent south with her went to the infirmary Lilia kept for Bram's wounded at the Greymane estate.
-- **Yoko Mishiro** · physician and patient. She ran the room at Yoko's labour and watched the ears.
-- **Rikudoku Moto** · at his birth. She brought him into the world at Kharven-Seat and entered the nine minutes before him in the Seat's register without inventing a reason.
-- **Emira Moto** · colleagues. Emira had the left side at Yoko's labour, and Brida has praised her twice in private and not in the room.
+- **Emira Moto** · colleagues. Brida has praised her twice in private and not in the room.

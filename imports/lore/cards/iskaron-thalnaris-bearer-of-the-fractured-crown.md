@@ -28,7 +28,7 @@ On the flood-basalt steps above the margin, the Bloodspine clan stood across his
 
 Then he stood still. A lattice formed above his head. Gorrath did not step back, and his clan stayed where he stood. The air over the steps went wrong. Sound came late. The columns came apart at their joints and fell, and Gorrath lived.
 
-Iskaron walked off the steps. He was slower for a week and did not sleep for three nights. Behind him the Fractured Crown lay over the basalt with the wounded Bloodspine inside it. It did not close when he left. A man inside it who reached for a way out found the working intact and unanswered. The dying could only be carried. Their chieftain would not leave the ground. Sinclair Mercer came onto the steps and took them one at a time. Zarron Mahuo cut the Crown from its edge, and its boundary took another shape. None of the wounded lived to the next morning. Iskaron was gone by then.
+Iskaron walked off the steps. He was slower for a week and did not sleep for three nights. Behind him the Fractured Crown lay over the basalt with the wounded Bloodspine inside it. It did not close when he left. A man inside it who reached for a way out found the working intact and unanswered. The dying could only be carried. Their chieftain would not leave the ground. Sinclair Mercer came onto the steps and took them one at a time. None of the wounded lived to the next morning. Iskaron was gone by then.
 
 ### Where They Stand
 
@@ -36,11 +36,10 @@ Later in the same age he came up out of the margin again, onto another stretch o
 
 He stands with no realm and no faction. He was once a Scion of the Outer Crevice and is not now. The skin over his knuckles has not fully closed in years. He has never described the lattice. Witnesses who have seen it twice report it larger the second time, and Gorrath is one of them. The ground his Crown has lain on carries the set afterward. He speaks in short declarations. He never says perhaps.
 
-What he wants is to finish. He has never said what. He has met neither Zarron Mahuo nor Sinclair Mercer, who came onto the Bloodspine ground after him. Why the Crevice let him leave, nobody knows.
+What he wants is to finish. He has never said what. He has never met Sinclair Mercer, who came onto the Bloodspine ground after him. Why the Crevice let him leave, nobody knows.
 
 ### Ties
 
 - **Gorrath Bloodspine · The Magmaborn Juggernaut** · enemy. Iskaron killed the Bloodspine where Gorrath stood, and twice Gorrath has lived through the stillness and seen the lattice.
-- **Zarron Mahuo · The Arbiter of Unity** · counter, never met. Zarron cut Iskaron's Crown on the Bloodspine ground and read its maker from what it lacked.
 - **Sinclair Mercer · The Soul Devourer** · the one who came after. Sinclair took the dying his hands left inside the Crown; they have never met.
 - **Estrella of the Lattice Veil** · the Crevice margin. Her rite is for those the Crevice has marked, and they do not meet.

@@ -139,6 +139,7 @@ No Front in `table/fronts.yaml` fits this thread (`fronts Accord` returns only t
 ## Flags: canon the book must not touch, and source contradictions (recorded, not resolved; the working reading each chapter uses)
 
 - **Carcass counts.** Tally's insert: eleven hinds and a stag. The rail at Greyshaft Nine: nine hinds. *Working reading:* Tally's is the field count; the rail holds the nine the cell recovered. The book never reconciles them. Wystan's ch9 arithmetic uses Tally's count.
+- **Who cut the wedge: two cuts.** Ruled (queue questionnaire, 2026-09-26, WAR-64). Tally cut his own section with his knife on the ninth (`scenes/the_nights_watch.md:13`); Qiu Yinzhi cut the exhibit wedge and sealed it herself, standing in the cut (`:275`, `:85`). The exhibit's chain of custody starts in her hands; no page may say Tally cut the exhibit.
 - **"Cut eleven days ago" vs "carrying it five days."** *Working reading:* the tin was cut on the ninth and sealed within the hour, and Yinzhi's five days stand. The day book's "11d" stays as written and nothing is dated by it.
 - **Wystan's "two myriads."** Only Deming said the figure. *Working reading:* ch9 has Wystan derive it himself from the metered-draw tariff; the coincidence is never remarked.
 - **"He never goes near them" vs Malphas pressing a hind.** Kept as irony (see above).

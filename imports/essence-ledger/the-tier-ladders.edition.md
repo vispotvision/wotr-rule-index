@@ -707,7 +707,6 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 | **Kurosetsu Reforged** | longsword | A-Grade Strike Force at full delivery | 46 GJ – 4.2 TJ | Aethersteel, effective T5 | **Fieldwinner**; material and hit agree |
 | **The Monochrome Helm** | helm, combat relic | Tier A | 46 GJ – 4.2 TJ | — | **Fieldwinner**, as armour |
 | **Amaranth Severance** | estoc, soulbound | a bonded wielder's output, A to S; beats proofed plate through A, fails against SS | A to S | blood-glass steel | **Fieldwinner** in an A-Grade hand, **Kingsarm** in an S-Grade one |
-| **Hikariken** | an expression given a blade's geometry, formed at need | Ardency 479, mid SS; near 100 TJ | 1.0 × 10¹⁴ J | none: not carried | **Kingsarm** |
 | **Ur-Maul** | forge-hammer | made by its bearer at Stage X, Tier of Standing 6 | ceiling S–SS | — | **Kingsarm**, ceiling by maker |
 | **The Crook of Turned Seasons** | crook | T6, Arcane-Resistant | ceiling S–SS | T6 | **Kingsarm**, ceiling by material |
 | **The Arctic Lion** | sovereign armour | Glacium, T5; the Verdict Aegis discharges 14,180,000,000 EU at η 0.91 | proof to A; the Aegis 1.29 × 10¹⁶ J, SSS | Glacium T5, brittle | **Fieldwinner** as armour; the Aegis reads **Landbreaker**, above its Glacium |

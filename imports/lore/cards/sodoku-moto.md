@@ -46,7 +46,7 @@ He did not grieve in any manner the Seat could recognise. Emira could no longer 
 
 He took in the Tenrai remnant as refugees, against the advice of every officer in his service. At the Brine crossing eleven household guards knelt around their nine-year-old heir, Miku Tenrai Moto, and refused his word on the boy's life. He killed all eleven with Kurosetsu in front of the child. He did not use the cold. Then he knelt in the mud with a hand on the boy's head. He told the boy, "We are all Moto." The boy forfeited. Sodoku did not thank him.
 
-In the fourth year Yoko bore him a son at Kharven-Seat, and they called him Rikudoku. The Reckoner's form had one slot for a bloodline. Sodoku said, "Enter both." Told there was one slot, he said, "Then the form is wrong." The birth-form used across the north now carries two.
+In the fourth year the Seat's Reckoner came to enter his son Rikudoku, born to Yoko in the Scourge years, on the roll. The form had one slot for a bloodline. Sodoku said, "Enter both." Told there was one slot, he said, "Then the form is wrong." The birth-form used across the north now carries two.
 
 For six years he went to the Moto lines himself, in the coat and not the armour, with the same argument, which begins, "There are seven lines and one blood." When the first Accord circle was signed at Kharven-Seat, he put his hand to it last. He had still not slept a full night since the ninth hour.
 

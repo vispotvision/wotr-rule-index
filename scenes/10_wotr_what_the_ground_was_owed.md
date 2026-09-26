@@ -208,7 +208,7 @@ There is one further line in the Reckoner's entry and it is the last one and it 
 
 Edward Lambert went to the graves on the morning of the first frost with his hands behind his back and stood in front of three stones in the upper burying ground at Kharven-Seat and did not kneel and did not remove anything.
 
-Hild Ice. Twelve years old. Lorn Stark, who had made an arrangement about that girl nineteen years ago and had kept every part of it. Osric of Hallenfeld, who had put himself in a doorway.
+Hild Ice. Twelve years old. Lorn Stark, who had made an arrangement about that girl twelve years ago and had kept every part of it. Osric of Hallenfeld, who had put himself in a doorway.
 
 They had been cut and set in the same week by the same mason, and the mason had matched the depth of the lettering across all three at Lambert's own instruction, because a difference in depth between stones cut in one week says something about relative importance and Edward Lambert had spent fifty-three years refusing to let a document say anything he had not intended.
 

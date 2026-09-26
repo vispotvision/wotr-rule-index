@@ -3,7 +3,7 @@
 Isaac answered the WAR-11 questionnaire on 2026-09-25. Six calls, six answers,
 each his choice among stated options. This file records what each answer
 changed in the repo, what it deliberately did not change, and the one page edit
-that is still owed.
+they owed, which WAR-133 applied to Notion on 2026-09-25.
 
 Record: six `RULINGS.md` entries dated 2026-09-25, one per row, each headed by
 that row's id — `## 2026-09-25 — R44-1-EU_JOULE_ONE_MEGAJOULE` through
@@ -20,30 +20,38 @@ Closed: `CONFLICTS.md` C-034, C-035, C-036, C-037.
 | C-034, EU to joules | one constant, 1 EU = 1 MJ stands | R44-1. No card figure touched here; the figures that miss their Stage's band become a card-correction issue of their own. |
 | C-035, the AU/s formula | the formula governs, the card figures are the error | R44-2. No card figure touched here; the twenty-six that miss become a card-correction issue of their own. |
 | C-036, the S/SS energy gap | the gap is deliberate, rank that range by Sub-Stat | R44-3. Nothing edited. All three tables that carry the break stand as written. |
-| C-037, the efficiency conflict | Part Seventeen governs, η 0.60–0.70 at Stage VI–VII | R44-4. One page cell is owed, below. |
+| C-037, the efficiency conflict | Part Seventeen governs, η 0.60–0.70 at Stage VI–VII | R44-4. One page cell, applied to Notion under WAR-133, below. |
 | the Stage VI card η figures | the card's η governs per character | R44-5. Nothing edited. Sodoku 0.84, Rashani 0.81, Naiser as written. |
 | the bare "Band V" | confirmed, it is the live Level Band | R44-6. Nothing edited. |
 
-## The page edit C-037 names, still owed
+## The page edit C-037 names, applied 2026-09-25 under WAR-133
 
 The ruling names one cell. Page edits go to Notion and return through the
-hourly sync, so this is not a repo diff; it is applied to the Notion page after
-review and lands in `wiki/` on the next sync.
+hourly sync, so this is not a repo diff; it was applied to the Notion page and
+lands in `wiki/` on the next sync.
 
 Page: **Fracture of Worlds — The Living System / VII. Aether Class, Essence
 Typology, Aether Flow (Parts Seventeen–Nineteen)**, the "Efficiency by Tier of
 Standing" table, the Tier 5 row (mirror line 97).
 
-As written:
+As it read:
 
 > | 5 · Expert | V–VII Splintering to Refraction | 0.50–0.60 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows real-time observation and correction of waste. |
 
-After the edit, the η cell only:
+As it now reads, the η cell only:
 
 > | 5 · Expert | V–VII Splintering to Refraction | 0.60–0.70 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows real-time observation and correction of waste. |
 
-Nothing else on the row moves, and no other row moves. The ladder stays
+Nothing else on the row moved, and no other row moved. The ladder stays
 monotone: Tier 4 ~0.45, Tier 5 0.60–0.70, Tier 6 0.70–0.80.
+
+Done: one `update_content` call on Notion page
+`3d758200-eb22-8125-b9f4-f85adcd2a482`, 2026-09-25 under WAR-133, verified by
+re-fetching the page — the Tier 5 η cell reads 0.60–0.70 and no other block on
+the page changed. The mirror at
+`wiki/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md`:97
+catches up on the next hourly sync; no `sync_now` was run, because WAR-133 did
+not ask for the mirror at once.
 
 **Not done, deliberately.** The same page carries its own callout at mirror
 line 103 — "**The efficiency conflict, unresolved.** … A ruling is needed on

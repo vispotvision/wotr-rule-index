@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-813f-ac99-e3e3309a2f2b"
 notion_url: "https://app.notion.com/p/Vaelthor-Ashen-Meridian-The-Patient-Throne-3d958200eb22813fac99e3e3309a2f2b"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
+last_edited: "2026-09-25T23:56:00.000Z"
 verification: null
 ---
 
@@ -96,7 +96,7 @@ Publicly, senior non-voting counsel to the **Guild Accord's Arbitration Division
 #### Verdict of the Hollow Throne
 
 **Effect** · A lattice of Judicium sigils suppresses a target's primary Wellspring resonance. Their abilities built on it become structurally incoherent, not blocked, and a Domain resting on that Wellspring folds.
-**Cost** · **620,000 EU**, and the binding's duration scales directly with however many Convergent Patience stacks he had charged beforehand.
+**Cost** · **132,300,000 EU**, and the binding's duration scales directly with however many Convergent Patience stacks he had charged beforehand.
 **Limit** · **He must have been patient first.** Interrupt him before the stacks build and the verdict lands weaker, or not at all.
 **Counter** · **Force him into sustained direct engagement.** He cannot survive back-to-back activations at his current fracture count, and he will do almost anything to keep an opponent from learning that this is his only real limit.
 > **What nobody knows.** What he is counting toward at fifteen fractures, and whether he intends to reach it.

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81b1-969c-fae081a7a00c"
 notion_url: "https://app.notion.com/p/Ara-Min-Mahuo-3b258200eb2281b1969cfae081a7a00c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-25T23:56:00.000Z"
 verification: null
 ---
 
@@ -32,7 +32,7 @@ verification: null
 
 ## II–III · Soul Architecture and Wellsprings
 
-| **Level** | **250 / 500** · Band III — Sovereign. *Well inside the band,* *nowhere near the Stage X gate at 300* |
+| **Level** | **250 / 500** · Band III — Sovereign. *Well inside the band, nowhere near the Stage X gate at 300* |
 |---|---|
 | **Temperance Stage** | **VIII — Transcendence**, active. *"The world is read as symbol."* Ceiling 550, sustainable max Grade S — **she holds well under it** |
 | **Tier of Standing** | **6, Master** · η 0.70, **matching Stage VIII exactly** |
@@ -50,7 +50,7 @@ verification: null
 
 | Stat | Value | Grade | Peaks |
 |---|---|---|---|
-| **Harmonics** | **240** | B | **Confluence 248** · Synergy 242 · Empathy 240 · Axis 228 · Memory 215. *Her defining stat —* *the read that tells her what a patient actually needs before they say it* |
+| **Harmonics** | **240** | B | **Confluence 248** · Synergy 242 · Empathy 240 · Axis 228 · Memory 215. *Her defining stat — the read that tells her what a patient actually needs before they say it* |
 | **Vitality** | 230 | B | Hemostasis 238 · Regeneration 232 · Constitution 220 · Threshold 210 |
 | **Tempering** | 220 | B | Yield 228 · Processing 220 · Acceleration 215 · Maturity 210 |
 | **Resilience** | 210 | B | **Oath 222** · Persistence 215 · Scarring 205 · Coherence 200 |
@@ -68,7 +68,7 @@ verification: null
 > **Attack Speed: N/A.** No offensive technique architecture. **Travel Speed** B-Grade — *she has never needed to be fast; her work happens where she is already standing.*
 **Durability** · B-Grade. *Ordinary against a direct hit, better than most at simply not dying from one afterward.*
 **Aura Pressure Field** · 10m passive — **patients report feeling calmer before she has said a word.**
-**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
+**EU Reserve** ~10,080,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
 > **Passive Recovery** ~126,000 EU/hour — *Vitalia's own rhythm recovers faster than most disciplines.*
 >
 > **Active Recovery roughly double that, ~252,000 EU/hour — while actively treating someone else.**
@@ -97,9 +97,9 @@ verification: null
 
 | Technique | Function and cost | Counterplay |
 |---|---|---|
-| **Breath Returned** · *Signature* | Both hands laid flat over the site. **Accelerates natural regeneration by reintroducing the body's own remembered rhythm.** Closes a clean wound in 40–90 seconds — **cannot regrow what is fully gone.** *Target response: warmth, then relief, then* *the specific ache of tissue knitting faster than it should.* Cost ~15% of reserve per serious wound | **Cannot outpace an actively-inflicted wound faster than she can stabilise contact** |
+| **Breath Returned** · *Signature* | Both hands laid flat over the site. **Accelerates natural regeneration by reintroducing the body's own remembered rhythm.** Closes a clean wound in 40–90 seconds — **cannot regrow what is fully gone.** *Target response: warmth, then relief, then the specific ache of tissue knitting faster than it should.* Cost ~15% of reserve per serious wound | **Cannot outpace an actively-inflicted wound faster than she can stabilise contact** |
 | **Green Reading** | A moment's touch, diagnostic only. Full read in under 5 seconds. Negligible cost | **Only tells her what is true, not what to do about it** |
-| **The Black Gate, Held Open Gently** | Trigger: **recognising a wound Anima Spirare cannot close.** Eases a dying patient's fear and pain **rather than forcing false hope** — Mortalis reframes the ending as passage rather than failure. *Cost:* *emotional, not Aetheric. This is the technique that costs her the most and shows the least* | **None — and she would not want one. *Some things are not meant to be fought*** |
+| **The Black Gate, Held Open Gently** | Trigger: **recognising a wound Anima Spirare cannot close.** Eases a dying patient's fear and pain **rather than forcing false hope** — Mortalis reframes the ending as passage rather than failure. *Cost: emotional, not Aetheric. This is the technique that costs her the most and shows the least* | **None — and she would not want one. *Some things are not meant to be fought*** |
 
 ---
 
@@ -122,8 +122,8 @@ Long wavy **silver-white hair** past her waist in loose curls, blunt-cut bangs f
 | **Flaw** | **Cannot stop giving past the point of her own depletion.** *Mistakes exhaustion for virtue more often than she would admit* |
 | **Desire** | To build a household, a practice, a life **around people who chose her rather than people who were assigned to her** |
 | **Loop** | **Gives without counting, is trusted more for it, gives more, counts less** |
-| **Foil** | **Her brother** — *Mu-jin corrects people plainly and pays for the plainness socially.* *Ara heals people plainly and pays for it physically* |
-| **Voice** | Plain, direct, **faster to the point than her brother**, dry humour deployed without warning. **Asks the harder question rather than the comfortable one, on principle.** States facts about a patient's condition evenly, without cushioning — *then* *softens only the delivery, never the truth* |
+| **Foil** | **Her brother** — *Mu-jin corrects people plainly and pays for the plainness socially. Ara heals people plainly and pays for it physically* |
+| **Voice** | Plain, direct, **faster to the point than her brother**, dry humour deployed without warning. **Asks the harder question rather than the comfortable one, on principle.** States facts about a patient's condition evenly, without cushioning — *then softens only the delivery, never the truth* |
 | **Dialogue Evolution** | **Increasingly blunt the more she trusts the room.** *Court formality was always a costume, not a register* |
 | **Stress Default** | **Goes quiet and starts working with her hands** — *whether or not there is anything left to actually treat* |
 

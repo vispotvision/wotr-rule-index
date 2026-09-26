@@ -242,7 +242,9 @@ tripled output that is an enormous absolute bleed, and it is the physical reason
 page's visible signature is what it is — glacier-white eyes, frost on scars, a growl
 under the breath. He is loud, warm and easy to find, exactly as
 `Two Sets of Books` §III predicts of a practitioner at this η. Tier 5 · Expert band
-is 0.50–0.60; 0.55 is **mid-band, consistent.**
+is **0.60–0.70** (Part Nineteen as corrected by **R44-4**); 0.55 sits **0.05 below the
+floor**, which sharpens the §III reading rather than softening it. Recorded as `C-062`,
+**not resolved here.**
 
 ---
 
@@ -254,7 +256,7 @@ is 0.50–0.60; 0.55 is **mid-band, consistent.**
 | **EU spent per cast** | **11.7 % of reserve** | 0.70 × (10 s ÷ 60 s) = 0.1167. Absolute EU is `null` because no reserve figure exists for Draven (`SA-GAP-EU-FORMULA`), but the **fraction** is fully derived. |
 | **Starvation margin** | **7.7 casts, or 77 s of continuous surge, from a full reserve** | Essence Starvation begins below 10 % EU (`Core Vocabulary` §V), so 90 % is spendable. 0.90 ÷ 0.1167 = **7.71 casts**; 0.90 ÷ 0.70 min⁻¹ = 1.286 min = **77 s**. **The only computable Starvation margin in the batch**, because this is the only page that bills in reserve fraction. |
 | Flux Density | `null` | No AU/s figure for Draven. |
-| η | **0.55** | Card. Tier 5 band 0.50–0.60 ✓ mid-band. |
+| η | **0.55** | Card. Tier 5 band **0.60–0.70** (**R44-4**) — 0.05 below the floor. `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **10 s** | Page, already SI. **No turn conversion needed — the one Draven page free of `SA-GAP-TURN-LENGTH`.** |
 | Bleed | **45 %** | 1 − 0.55. |

@@ -194,8 +194,9 @@ position.
 **Essence stratum.** Crystal layer: the **Aether Shell**, *"Class III · Resonant"* (card `:34`), which is
 the layer the absorptive coating is applied to — the register says *"Tenebra applies both to the Shell"*,
 so the working is a surface treatment of the Class the card already names. Developmental Tier
-**Harmonic** (Stage VI, Part Twenty-One). Tier of Standing **5 · Expert**, η band 0.50–0.60; card η
-*"~0.55"* — **in band** ✓. Crystal State *"Refined"*. **The invoice:** the page says a drip of blood from
+**Harmonic** (Stage VI, Part Twenty-One). Tier of Standing **5 · Expert**, η band **0.60–0.70**
+(Part Nineteen as corrected by **R44-4**); card η *"~0.55"* — **0.05 below the floor**
+(`C-062`, not resolved here). Crystal State *"Refined"*. **The invoice:** the page says a drip of blood from
 eyes and nose, and §5 argues that is not what it costs.
 
 **The lens: the ring of Gyges, and the man who is only ever just when watched.** Plato, *Republic* II,
@@ -303,7 +304,7 @@ faint. He is choosing between two things that are equally clear.
 |---|---|---|
 | EU spent | `null` | Page: *"No EU figure is documented on his sheet, so none is invented here"* (`:18`). **The page's refusal is correct and is noted as correct**; no formula converts a Stage into EU (`SA-GAP-EU-FORMULA`). |
 | Flux Density | `null` | No AU/s figure on card or page (`_method.md` §VIII). |
-| η | **~0.55 (card `:35`)** ✓ **in band** | Tier 5 · Expert is **0.50–0.60** (Part Nineteen). ✓ |
+| η | **~0.55 (card `:35`)** — **0.05 below band** | Tier 5 · Expert is **0.60–0.70** (Part Nineteen as corrected by **R44-4**). `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
 | Efficiency and bleed | **45% bleed at η 0.55** | 1 − η, *"as heat, sound, and structural bleed."* **On a stealth working this is the whole problem**: the register says a low-η practitioner *"is loud, warm, and easy to find, and … the highest Bands run quiet."* He is Band D, the lowest η on any sheet in this batch, running a technique whose premise is being quiet. |
 | **Crossing, kinetic** | **320 kJ at 0.1 s · 5 kJ at 0.8 s** | ½mv², m = 100 kg assumed (the corpus gives no mass), d = 8 m. |
@@ -337,7 +338,7 @@ What closes: Tenebra's law is correctly stated, correctly applied to the Shell, 
 the page's Limit, its Weakness and its Counter are all three the register's own Mechanism and Failure
 lines reasoned through, and the Weakness is *stronger* than the page claims by three orders of magnitude.
 The Sub-Stat list is the register's Stat Effect copied across with nothing invented. The 8 m is in band
-for A-Grade Contact Range. η is in band. The Stage is exactly the floor. The Craft line is the only one
+for A-Grade Contact Range. η is 0.05 under band since **R44-4** (`C-062`). The Stage is exactly the floor. The Craft line is the only one
 of Draven's four that names a real craft. The page refuses to invent an EU figure and says so. And the
 approach-to-strike ratio, 10⁻⁵, is the right economy for the thing it is.
 
@@ -368,7 +369,7 @@ a stated failure mode the page does not have.
 | Stated limits | **pass, and it is a hard one** | *"The coating needs a noise floor to hide under. A fully lit, radiant-saturated space gives Tenebra nothing to subtract from, and the technique does not function there."* Not a degradation — a switch, and one an opponent can flip with a torch. §1(b) shows it is even harder than stated: in the lit case he is not merely unhelped, he is maximally contrasted. |
 | Something beats it | **pass, three ways, and one is free** | Light. The wrong angle. And soft ground, which the page does not name and Vectoria's coupling row does. |
 | It has a tell | **pass, and there are four** | The card's aura (*"a palpable drop in ambient temperature; the air smells faintly of ozone and burned bone"*); the cold trail he leaves afterwards; the 105–125 dB of the crossing itself (§1d); and, if the anchor is a mouth, the anchor. |
-| Numbers in band | **mixed** | ✓ 8 m inside A-Grade Contact Range 3–10 m. ✓ η 0.55 inside Tier 5. ✓ Stage VI exactly at the floor. ✓ Strike Force quoted correctly off Part Eleven. ✗ The crossing's mechanical and acoustic consequences are unpriced (`SA-PHYS-TENEBRA-TRANSIT-NOISE`). ✗ Dexterity Feint 386 is gated on a Path he is not declared to hold (`SA-GAP-AXIS-VS-PATH`). |
+| Numbers in band | **mixed** | ✓ 8 m inside A-Grade Contact Range 3–10 m. ✗ η 0.55 is 0.05 below Tier 5's 0.60–0.70 as **R44-4** corrected it (`C-062`, not resolved here). ✓ Stage VI exactly at the floor. ✓ Strike Force quoted correctly off Part Eleven. ✗ The crossing's mechanical and acoustic consequences are unpriced (`SA-PHYS-TENEBRA-TRANSIT-NOISE`). ✗ Dexterity Feint 386 is gated on a Path he is not declared to hold (`SA-GAP-AXIS-VS-PATH`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

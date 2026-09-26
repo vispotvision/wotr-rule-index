@@ -232,7 +232,8 @@ that is a genuine internal contradiction worth noting as texture rather than as 
 conflict: a 45 % thermal bleed inside the volume you are trying to keep undercooled is
 load added to the sink. It raises the pump's duty rather than breaking the working, and
 it is a second, independent reason the cost is per-second rather than per-cast. Tier 5
-· Expert band is 0.50–0.60; 0.55 is mid-band and consistent.
+· Expert band is **0.60–0.70** (Part Nineteen as corrected by **R44-4**); 0.55 sits 0.05 below
+the floor. Recorded as `C-062`, **not resolved here.**
 
 ---
 
@@ -243,7 +244,7 @@ it is a second, independent reason the cost is per-second rather than per-cast. 
 | Cost rate | **1,500–2,500 EU/s** | Page, flagged there as an estimate scaled from Sodoku Moto's attested 8,000 EU/s Permafrost field (30 m, Stage XII). |
 | **EU spent per use** | **1.35×10⁴ – 3.75×10⁴ EU** | Rate × duration: (1,500–2,500) × (9–15 s). Low corner 1,500 × 9 = 13,500; high corner 2,500 × 15 = 37,500. **Derived, from the page's own two figures.** |
 | Flux Density | `null` | No AU/s figure for Draven. |
-| η | **0.55** | Card. Tier 5 band 0.50–0.60 ✓ mid-band. |
+| η | **0.55** | Card. Tier 5 band **0.60–0.70** (**R44-4**) — 0.05 below the floor. `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **9–15 s** (page's estimate) | Page converts "3 turns" at 3–5 s/turn. **The page's own 3–5 s spread is the turn-length gap made visible.** `SA-GAP-TURN-LENGTH`. |
 | Bleed | **45 %** | 1 − 0.55, added back into the sink's duty. |
@@ -286,7 +287,7 @@ the register. Neither is resolved here.
 | Stated limits | **pass** | 6 m; ≈9–15 s (converted from "3 turns", flagged as an estimate); **it does not target** — everything inside is treated alike, him included; it needs ambient moisture and loose Essence to crystallise; sustaining it risks freezing his own joints. |
 | Something beats it | **pass, and it is a phase transition** | Heat. One route, documented, cheap, and physically the right one. |
 | It has a tell | **pass** | Declared, and then six metres of visible branching frost. Nobody walks into this by accident. |
-| Numbers in band | **FAIL, already logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400 (Part Five), and the page requires A-Grade. **But its own governing Sub-Stat, Ardency Density, reads 274 — B-Grade, one point below the A floor** (`SA-NUM-MAW-DENSITY-274`). The working is gated at a Grade its stated governing Sub-Stat does not reach, by a single point, which is the tightest and most checkable numeric fault in the twenty-eight. η 0.55 is mid-band for Tier 5 ✓. |
+| Numbers in band | **FAIL, already logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400 (Part Five), and the page requires A-Grade. **But its own governing Sub-Stat, Ardency Density, reads 274 — B-Grade, one point below the A floor** (`SA-NUM-MAW-DENSITY-274`). The working is gated at a Grade its stated governing Sub-Stat does not reach, by a single point, which is the tightest and most checkable numeric fault in the twenty-eight. η 0.55 is **0.05 below** Tier 5's floor since **R44-4** put the band at 0.60–0.70 (`C-062`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

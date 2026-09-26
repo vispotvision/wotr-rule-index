@@ -184,7 +184,8 @@ position.
 hyper-dense muscular ignition and aggressive kinetic force, **using Frost Essence for systematic
 slowing**"* (card `:34`) — this working is that clause thrown along an arc instead of applied at a point.
 Developmental Tier **Harmonic** (Stage VI, Part Twenty-One). Tier of Standing **5 · Expert**, η band
-0.50–0.60; card η *"~0.55"* ✓ **in band**. Crystal State *"Refined"*. **The invoice:** an arm held at the
+**0.60–0.70** (Part Nineteen as corrected by **R44-4**); card η *"~0.55"* now **0.05 below the
+floor** (`C-062`, not resolved here). Crystal State *"Refined"*. **The invoice:** an arm held at the
 cold end of a sink, and a quantity of somebody else's heat with nowhere stated to put it.
 
 **The lens: *antiperistasis*, and the air that was supposed to push the arrow.** Aristotle, *Physics*
@@ -282,7 +283,7 @@ still contracting underneath it, breaking as fast as it forms.
 |---|---|---|
 | EU spent | `null` | No page figure; no formula converts a Stage into EU (`SA-GAP-EU-FORMULA`). **Note the sister page does state one** — Vorynn Execution Strike prices its cost at *"a fifth of what he is carrying per use"* — and this page, on the same practitioner and the same current, gives nothing. |
 | Flux Density | `null` | No AU/s figure on card or page. |
-| η | **~0.55 (card `:35`)** ✓ **in band** | Tier 5 · Expert is **0.50–0.60** (Part Nineteen). |
+| η | **~0.55 (card `:35`)** — **0.05 below band** | Tier 5 · Expert is **0.60–0.70** (Part Nineteen as corrected by **R44-4**). `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
 | Efficiency and bleed | **45% at η 0.55** | 1 − η, *"as heat, sound, and structural bleed."* **The bleed is heat and the working's problem is heat** (§1d). |
 | Arc | **2 m** ✓ **in band** | Part Eleven: A-Grade **Contact Range 3–10 m**; a 2 m reach sits below it, which is the conservative direction. |
@@ -327,7 +328,8 @@ condition that makes it work — a very shallow, very steep gradient — is supp
 limit that constrains everything else the working does. The Biot number says the sweep has to touch, and
 the page's Trigger says it does. Its stated Limit (insulation) and stated Weakness (heat into the arc) are
 both correct and both attack the right variable. Its pale arc and its chime are condensation and
-contraction cracking, and both are exactly what would be seen and heard. η is in band, the Stage is the
+contraction cracking, and both are exactly what would be seen and heard. η is 0.05 under band since
+**R44-4** (`C-062`), the Stage is the
 floor, the reach is conservative, and **every Path gate passes** — which, with no Dexterity Sub-Stat
 claimed, makes this the only one of Draven's three pages in this batch with no gate question at all.
 
@@ -353,7 +355,7 @@ current on its own sheet whose law is the removal of visible return.
 | Stated limits | **pass, and it is material rather than arbitrary** | *"Ineffective against insulated or flame-forged armor built to withstand a genuine thermal swing."* §1(b) gives it a number: raise R = σ(1−ν)/(Eα), or interpose anything with a low conductivity, and the shock never arrives. **A limit a player can shop for.** |
 | Something beats it | **pass, and both named routes are correct** | A heat vector into the arc attacks the gradient from the far end; mobility beats two metres. Both are cheap and neither requires a Wellspring. |
 | It has a tell | **pass, and it is loud for a cold working** | A white arc hanging in the air, a chime, and the dry smell of very cold air arriving before the strike does. Nothing about this is subtle. |
-| Numbers in band | **mostly pass, with one large fail** | ✓ 2 m under A-Grade Contact Range. ✓ η in band. ✓ Stage at the floor. ✓ Both Sub-Stats the card's own peaks, both gates clear. ✓ Thermal shock numbers close exactly. ✗ The thermal half of the Numerical Effect is out by 10⁶–10⁸ (`SA-PHYS-WINTER-ARC-YIELD`). |
+| Numbers in band | **mostly pass, one large fail and one recorded conflict** | ✓ 2 m under A-Grade Contact Range. ✗ η 0.55 is 0.05 below the Tier 5 band of 0.60–0.70 as **R44-4** corrected it (`C-062`, not resolved here). ✓ Stage at the floor. ✓ Both Sub-Stats the card's own peaks, both gates clear. ✓ Thermal shock numbers close exactly. ✗ The thermal half of the Numerical Effect is out by 10⁶–10⁸ (`SA-PHYS-WINTER-ARC-YIELD`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

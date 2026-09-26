@@ -75,7 +75,7 @@ verification: null
 
 **Travel Speed:** **Immeasurable classification at full expression.** At Zenith the practitioner does not move through space; in the limit case they exist in all relevant positions simultaneously until they choose otherwise. **In practice he walks, slowly, and stops on stairs**
 **Reaction Time:** Entirely Essence-mediated. The gap between a fifty-eight-year-old body and an Absolute Crystal is visible to anyone who has watched him fail to catch something his Domain registered falling four seconds earlier
-**Striking Force:** EX-Grade band, **1.24 × 10²⁹ to 6.906 × 10³⁷ Joules**, Moon to Large Planet equivalence, 29.6 exatons to 16.512 ronnatons. **No recorded instance. Not one, in thirty-nine years of service**
+**Striking Force:** **Unquantified at Zenith.** A blow of his does not deliver a quantifiable number of Joules; it delivers an event the local physics must accommodate. **No recorded instance. Not one, in thirty-nine years of service**
 **Lifting Strength:** Untested and irrelevant. He has never been asked to lift anything
 
 ---

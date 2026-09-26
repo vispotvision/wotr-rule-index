@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-811f-a838-fde4b94c787b"
 notion_url: "https://app.notion.com/p/Letheveil-Memory-Quake-3d958200eb22811fa838fde4b94c787b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Letheveil Memory-Quake
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Reactive, released within a 25-meter radius against an incoming layered working or a fighting rhythm in progress.
 **Function** · Shakes loose the freshest layer of memory across everyone in the radius, breaking the continuity a working or a combat sequence depends on.
 **Mechanism** · Letheveil does not erase memory outright; it tests Resilience Anchoring, so whatever is not load-bearing lets go first, a chant sequence, a count, the last three seconds of a bind. Hypnather's hold on rest-cycle recovery widens the window Letheveil can reach into, making a waking mind briefly as porous as a resting one. Together they cannot touch anything already anchored; they only shake what a Crystal has not yet settled.
-**Numerical Effect** · 25-meter radius (source). Memory window 3 to 10 seconds (source, already real units). Shockwave duration approximately 5 seconds (estimate, converted from the source's "1 turn"). Bounded by Stage VII's 475 ceiling, Grade A.
+**Numerical Effect** · 25-meter radius (source). Memory window 3 to 10 seconds (source, already real units). Shockwave duration 6 seconds, one turn. Bounded by Stage VII's 475 ceiling, Grade A.
 **Target Response** · Short-term memory removed, spell-chains dependent on layered recall broken, combat rhythm disrupted, Domain concentration weakened.
 **Consequence** · A target loses the thread of whatever they were building, whether a working, a guard sequence, or the reason they drew a blade three seconds ago.
 **Limitation** · Cannot reach memory that has already anchored; deeply held memory is untouched. Only conscious targets are affected.
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 **Grade required** · A-Grade
 **Path gate** · Spirit Path
-**Resonant Pair** · None documented in the source.
+**Resonant Pair · None.**
 
 ### Origin
 
-Derived by Aeldoris. The card gives no place or named problem beyond the stated concept: a pulse that shakes loose recent memory to disrupt continuity of thought. No further history is attested.
+Derived by Aeldoris, from the concept of a pulse that shakes loose recent memory to disrupt continuity of thought.

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8169-a195-db9497b2c710"
 notion_url: "https://app.notion.com/p/Oneiron-Phantasm-Court-3d958200eb228169a195db9497b2c710"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Oneiron Phantasm Court
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Declared, against a target within 140 metres whom Aeldoris has read closely enough to have located the shape of what they are avoiding.
 **Function** · Psychic offense and Essence destabilisation. Manifests the target's own undefended self as a standing figure that speaks what the waking mind will not.
 **Mechanism** · Oneirion treats a soul's every possible arrangement as a coordinate in an abstract configuration manifold, which is why the working reaches a target no line of sight is required to hold once the coordinate is found. Hypnather's law governs which arrangement a Crystal relaxes toward when genuinely at rest, its least-defended configuration. Aeldoris locates that equilibrium coordinate inside the manifold without waiting for the target to actually sleep, and Eidolyn then deposits along it as a template, the way a supersaturated medium organises around any imposed pattern, giving the located self a standing, load-bearing presence rather than a flicker. The court that results is not an illusion of the target. It is the coordinate their own Crystal would settle to, made to stand up and talk.
-**Numerical Effect** · Effective radius 0–140 metres. Holds for as long as Aeldoris's own attention holds, which under Spellcraft's own rule is the true duration; the old card's two-turn figure is treated as an estimate of that same span rather than a fixed clock.
+**Numerical Effect** · Effective radius 0–140 metres. Holds for as long as Aeldoris's own attention holds, which under Spellcraft's own rule is the true duration; two turns, twelve seconds, is a typical span rather than a fixed clock.
 **Target Response** · A target with a genuine unresolved contradiction has that contradiction voiced back at them by a figure carrying their own memory-echo, which reads as confession because it is drawn from material the target already possesses.
 **Consequence** · Confession under this pressure measurably loosens Soul Crystal coherence around whatever the contradiction concerned, and the exposure persists after the figure dissolves.
 **Limitation** · The manifold coordinate has to exist for Eidolyn to template onto it. A target with no active subconscious, or none of Hypnather's kind of unresolved gap between waking and equilibrium selves, gives the working no coordinate to lock.
@@ -46,13 +46,13 @@ verification: "unverified"
 
 ### FOW line
 
-**Governing Primary Stat** · Gnosis (estimate, Band C ceiling for Stage VII)
-**Sub-Stats** · Gnosis Cognition and Dominion Reach (Oneirion's documented Stat Effect), Ardency Density and Gnosis Memorium (Eidolyn's), Gnosis Retention (Hypnather's); all estimates, no sheet exists to confirm exact figures
+**Governing Primary Stat** · Gnosis (Band C ceiling for Stage VII)
+**Sub-Stats** · Gnosis Cognition and Dominion Reach (Oneirion's documented Stat Effect), Ardency Density and Gnosis Memorium (Eidolyn's), Gnosis Retention (Hypnather's)
 **Stage floor** · Stage VII, Refraction
 **Grade required** · A-Grade, late push toward S-Grade
 **Path gate** · Spirit
-**Resonant Pair** · None documented; none invented here.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card gives Aeldoris as the sole named practitioner and states the problem the technique answers: extracting a confession from a mind that will not give one voluntarily. No teacher, incident or era is given, and none is supplied here. That Aeldoris himself has no character card in current canon is noted above rather than papered over.
+Aeldoris is the sole named practitioner, and the technique answers one problem: extracting a confession from a mind that will not give one voluntarily.

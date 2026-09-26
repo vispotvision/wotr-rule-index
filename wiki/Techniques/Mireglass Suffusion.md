@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81af-84e9-fb872eeab366"
 notion_url: "https://app.notion.com/p/Mireglass-Suffusion-3d958200eb2281af84e9fb872eeab366"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:18:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Mireglass Suffusion
@@ -54,4 +54,4 @@ verification: "unverified"
 
 ### Origin
 
-No deviser, era, or founding problem is given in the source, and none is invented per Law 1. The card itself files the technique under "The Iridescent Archive," a catalogued repository rather than a living practitioner's private stock, so the most conservative reading consistent with that filing is that this is a documented entry of unrecorded authorship: known and archived, not self-derived by any single hand still living to be asked. Per the named-inventor rule, a catalogued technique is counterable by anyone who has studied the Archive's own record of it; there is no undocumented originator to name.
+Mireglass Suffusion is filed in the Iridescent Archive, a catalogued repository rather than a living practitioner's private stock: a documented technique of unrecorded authorship, known and archived, not self-derived by any single hand still living to be asked. It is counterable by anyone who has studied the Archive's own record of it.

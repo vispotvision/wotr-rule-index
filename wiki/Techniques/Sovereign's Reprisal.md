@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8108-86fc-f1857a895f37"
 notion_url: "https://app.notion.com/p/Sovereign-s-Reprisal-3d958200eb22810886fcf1857a895f37"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:20:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Sovereign's Reprisal
@@ -50,8 +50,8 @@ verification: "unverified"
 **Stage floor** · VIII, Transcendence
 **Grade required** · S-Grade
 **Path gate** · Body
-**Resonant Pair** · None documented.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card gives no teacher, precedent, or derivation history, only the philosophy Drakvor speaks over the technique, "Impact is tribute," kept here as his stated framing rather than an explained origin. Per the named-inventor rule he stands as the technique's sole attested author. *Unattested in current canon*: Drakvor, and the harness itself as a named artefact; no entry for it exists outside this card.
+Drakvor speaks one philosophy over the technique, "Impact is tribute." He is its sole known author.

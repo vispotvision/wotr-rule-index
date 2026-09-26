@@ -29,14 +29,14 @@ verification: null
 
 ### II. Soul Architecture
 
-**Level:** 380 / 500 · **Band:** IV — Warlord (approaching Band V threshold)
+**Level:** 380 / 500 · **Band:** IV — Mythic (approaching Band V threshold)
 **Temperance Stage:** VIII — Transcendence
 **Path:** Spirit / Body (60% / 40%)
 **Essence Typology:** Soul-Chain (Structured / Binding) · Secondary: Kinetic / Lightning
 **Aether Class:** Chain-Sovereign (suppressed expression)
 **Aether Index:** A− · **η:** 0.81
 **Soul Crystal Tier:** Tier IV — Warlord
-**Crystal State:** Suppressed-Active. Chains prevent black-aspect expression. Full ceiling unverified and climbing.
+**Crystal State:** Suppressed-Active. Chains prevent black-aspect expression. Full ceiling unverified and climbing. Standing Residual Strain from the breach: his Level stands past the Band gate his Stage has not opened, and the pressure builds in the Crystal until the Threshold is passed or the Crystal fractures under the weight.
 > NOTE ON SUPPRESSOR CHAINS: At Level 380 the suppressor architecture is under increasing strain. The chains were forged for a Band III practitioner. Krothar is in late Band IV. The sigil-inscription on the wrist cuffs shows microscopic hairline fracture patterns that did not exist at Level 220. They still hold. They are holding harder than they were designed to.
 > NOTE ON TEMPERING: All Tempering values reflect suppressed ceiling. True Tempering under full expression is estimated 18–22% above displayed values. The chains were applied because the Crystal output rate exceeded what Stage VIII architecture could safely manage. At Level 380 that gap has widened further.
 

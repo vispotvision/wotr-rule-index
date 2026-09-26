@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8136-b434-d020212a01c7"
 notion_url: "https://app.notion.com/p/Fluxus-Intervallum-3d958200eb228136b434d020212a01c7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:11:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Fluxus Intervallum
@@ -50,8 +50,8 @@ verification: "unverified"
 **Stage floor** · V, Splintering
 **Grade required** · B-Grade
 **Path gate** · None
-**Resonant Pair** · None documented
+**Resonant Pair · None**
 
 ### Origin
 
-Not given by the source. The card carries no named practitioner, no era, and no problem this technique was built to solve; it is entered here as an anonymous Codex technique, and a specific origin is a matter for Isaac to assign if one is wanted.
+An anonymous Codex technique: no named practitioner, era, or originating problem is recorded.

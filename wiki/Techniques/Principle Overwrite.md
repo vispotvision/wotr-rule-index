@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-812f-8204-e60adb869ede"
 notion_url: "https://app.notion.com/p/Principle-Overwrite-3d958200eb22812f8204e60adb869ede"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:21:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Principle Overwrite
@@ -25,7 +25,7 @@ verification: "unverified"
 - **Wellspring** · Judicium (primary), Exuroth and Catharsis (secondary)
 - **Family** · Fulguria (Judicium, Electromagnetism); Caloria (Exuroth and Catharsis, Thermodynamics)
 - **Physics Domain** · Electromagnetism, primary; Thermodynamics, secondary
-- **Category** · Domain Weaving (Attraction-Aligned) — a single soul's law-claim over a bounded field, matching the card's "forces local reality to obey the new vector" more closely than an alignment of existing fields
+- **Category** · Domain Weaving (Attraction-Aligned) — a single soul's law-claim over a bounded field, forcing local reality to obey the new vector, rather than an alignment of existing fields
 - **Craft** · Spellcraft (Declared activation, holds only while sustained)
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
@@ -36,12 +36,12 @@ verification: "unverified"
 **Trigger** · Francis names a single Hermetic Principle and declares its replacement.
 **Function** · Reality edit, conceptual control: inversion, fusion or nullification of the named Principle across the working's radius.
 **Mechanism** · The Principle is treated as a boundary condition on local law, the way a domain wall separates two regions of differing vacuum state in field theory. Francis's Judicium reading isolates which "vacuum" the Principle currently occupies, Exuroth's tolerance for structural ordeal lets him hold the boundary open long enough, and Catharsis forces the release, the old state discharging the way a collapsing bubble wall dumps its surface tension outward.
-**Numerical Effect** · Five-kilometre radius, as given. Roughly fifteen seconds of sustained declaration (3 turns at 5 seconds per turn). A resisted edit's paradox shockwave falls in the EX-Grade Strike Force band: 5 to 50 exanewtons peak force, Moon to Large Planet scale energy release, the ceiling set by Francis's own Stage XIV Grade rather than by the Principle itself.
+**Numerical Effect** · Five-kilometre radius. Eighteen seconds of sustained declaration, three turns at six seconds each. A resisted edit's paradox shockwave falls in the EX-Grade Strike Force band: 5 to 50 exanewtons peak force, Moon to Large Planet scale energy release, the ceiling set by Francis's own Stage XIV Grade rather than by the Principle itself.
 **Target Response** · Everything inside the radius, ally and enemy alike, is bound by the new law until the declaration lapses; resistance from a comparably graded source is what converts the edit into a shockwave instead of a quiet change.
 **Consequence** · The old Principle does not merely stop; it is replaced, and anything built on the old reading, a ward keyed to the old polarity, a technique timed to the old rhythm, fails the moment the edit lands.
 **Limitation** · Multi-inversion chains are refused by the Crystal rather than merely risky. One Principle per activation, without exception.
 **Weakness** · Dominion Sovereignty, the Sub-Stat that carries a law-claim of this size, gates behind Fate Path at Stage VI for anything above A-Grade. Francis runs pure Spirit Path here, so every Principle Overwrite fights his own Crystal's gate as much as any external counter, which is a plausible source of the memory cost.
-**Cost** · 2 percent memory bleed per use, as given, cumulative and undocumented as to what it draws from.
+**Cost** · 2 percent memory bleed per use, cumulative, and what it draws from is unknown.
 **Counterplay** · An Archonic verdict outranks the edit outright. A Nihiloth-mediated null field cancels the declaration before it resolves, the same destructive-interference principle Talos runs on. Absent either, riding out the fifteen seconds and rebuilding after is the only documented option.
 
 ### FOW line

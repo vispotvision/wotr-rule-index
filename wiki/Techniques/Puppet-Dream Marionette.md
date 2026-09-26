@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-813c-a4f1-dd986f62009c"
 notion_url: "https://app.notion.com/p/Puppet-Dream-Marionette-3d958200eb22813ca4f1dd986f62009c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Puppet-Dream Marionette
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Declared, against a target within 60 meters who is already feeling fear or panic.
 **Function** · Forces the target's limbs to enact the flight-motion their own mind is already imagining.
 **Mechanism** · Somnalis reads the adjacent possibility the target's dreaming motor sense has already half-committed to. Oneirion locks onto that possibility's coordinate in the target's own configuration space rather than in the room, which is why Aeldoris needs no line of sight to the limb he moves, only to the fear-image forming behind the target's eyes. Eidolyn gives that imagined motion enough Ardency Density to press outward into real muscle.
-**Numerical Effect** · Range to 60 meters (source). Duration approximately 5 seconds per activation (estimate, converted from the source's "1 turn"). Output bounded by Stage VII's 475 ceiling, Grade A.
+**Numerical Effect** · Range to 60 meters (source). Duration 6 seconds per activation, one turn. Output bounded by Stage VII's 475 ceiling, Grade A.
 **Target Response** · Involuntary limb movement, redirected attacks along the altered trajectory, self-sabotage reflexes, hijacked fight-or-flight impulses.
 **Consequence** · A moving or striking target follows the path their own fear sends them down rather than the one their skill would have chosen.
 **Limitation** · Requires the target to already feel fear or panic. A disciplined mind that is not afraid gives Somnalis nothing to read.
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 **Grade required** · A-Grade
 **Path gate** · Spirit Path, drift toward Attraction Path
-**Resonant Pair** · None documented in the source.
+**Resonant Pair · None.**
 
 ### Origin
 
-Derived by Aeldoris. The card gives no place or named problem beyond the stated concept: threading somnalic filaments into a target's subconscious so their limbs follow the panic-motions they imagine. No further history is attested; the migration note above flags this as the limit of what the source supports.
+Derived by Aeldoris, from the concept of threading somnalic filaments into a target's subconscious so their limbs follow the panic-motions they imagine.

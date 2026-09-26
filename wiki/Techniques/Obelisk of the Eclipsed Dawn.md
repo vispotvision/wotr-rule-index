@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81da-b877-e45d75dc3806"
 notion_url: "https://app.notion.com/p/Obelisk-of-the-Eclipsed-Dawn-3d958200eb2281dab877e45d75dc3806"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:15:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Obelisk of the Eclipsed Dawn
@@ -55,4 +55,4 @@ verification: "unverified"
 
 ### Origin
 
-The card names no inventor, workshop, or founding problem beyond Opalis herself; it gives only that the technique requires Stage XII, Emanation. Per the named-inventor rule, a technique with no documented teacher is self-derived and must be read live rather than summarised the first time it appears on the page. Where the card is silent on when or why Opalis first raised an Obelisk, that history is left unfilled rather than invented; it is unattested in the source.
+Opalis devised the Obelisk herself, and it requires Stage XII, Emanation; as a self-derived technique it is met live the first time it appears.

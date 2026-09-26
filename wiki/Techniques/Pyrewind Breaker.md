@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81cc-af99-e25ba35b60b0"
 notion_url: "https://app.notion.com/p/Pyrewind-Breaker-3d958200eb2281ccaf99e25ba35b60b0"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:19:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Pyrewind Breaker
@@ -46,7 +46,7 @@ verification: "unverified"
 
 ### FOW line
 
-Governing Primary: Ardency, off Exuroth's Ardency Overchannel and Cataclysm's Ardency Cascade and Ardency Overchannel, with Dominion Radius carried alongside for the burst's spread. Stage floor Stage VI, Glory. Grade required A-Grade. Path gate Spirit and Body. Resonant Pair: none documented.
+Governing Primary: Ardency, off Exuroth's Ardency Overchannel and Cataclysm's Ardency Cascade and Ardency Overchannel, with Dominion Radius carried alongside for the burst's spread. Stage floor Stage VI, Glory. Grade required A-Grade. Path gate Spirit and Body. Resonant Pair: none.
 
 ### Origin
 

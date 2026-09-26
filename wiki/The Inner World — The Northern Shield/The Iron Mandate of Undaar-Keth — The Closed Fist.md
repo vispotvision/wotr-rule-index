@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8183-ac4a-c2cfc0e2fb2c"
 notion_url: "https://app.notion.com/p/The-Iron-Mandate-of-Undaar-Keth-The-Closed-Fist-3bc58200eb228183ac4ac2cfc0e2fb2c"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-04T04:43:00.000Z"
+last_edited: "2026-09-26T03:35:00.000Z"
 verification: "unverified"
 ---
 
@@ -189,7 +189,7 @@ Roughly **eight thousand** — the largest standing army on the northern shield 
 > *Cultural exchange is conducted through observers who are simultaneously diplomats and spies, and both states are aware of this and consider it the healthiest possible arrangement — because an observer who is also a spy files comprehensive reports, and comprehensive reports are what both states require to maintain the mutual assessment that has prevented a war between them for four centuries.*
 **Stannvaard** · A joint border commission meets annually, **discusses the same three issues, reaches the same compromise, and adjourns until next year.** *It has performed this exact ritual for two centuries. Both sides consider it a model of efficient governance. Both sides are correct.*
 **Ketsuen** · Defined by **mutual incomprehension**: the Mandate cannot understand a kingdom that governs through perception rather than decree, and Ketsuen cannot understand a kingdom that governs through decree rather than perception. *The incomprehension is functional, producing a border that neither side tests because neither side can model what testing it would actually cost.*
-**Kharven** · *(redirected from the struck Sātūlagi entry)* No shared border, **but a shared military temperament.** Both believe borders must be held, threats must be answered, and governance is serious work conducted by serious people. **Moto sovereign judgment and Ironfold decree-authority arrive at similar conclusions through different mechanisms**, producing a cautious mutual respect **that has not yet produced a formal alliance and that both sides suspect eventually will.** *Neither side intends to propose first.*
+**Kharven** · Nine years of war on the southern approach, and **the one border the Mandate has pressed and not taken.** Both states believe borders must be held, threats must be answered, and governance is serious work conducted by serious people, which is precisely why neither can leave the other alone: **Moto sovereign judgment and Ironfold decree-authority arrive at similar conclusions through different mechanisms**, and the conclusion they have both arrived at is that the other is the threat worth the winter. The Ironfold's own assessment of the failed breach names no failure of doctrine. It names the cold. *A war fought by two armies that would recognise each other's staff work on sight.*
 **The Holy Sea of Alabaster** · **The Manumission Doctrine and the Ironblood Clause are two radically different approaches to the same problem: how to extend legal protection to a population the surrounding world considers disposable.** The Holy Sea does it through theology. The Mandate does it through military pragmatism. *The clerics find the Mandate's approach morally inadequate. The commanders find the Holy Sea's militarily irrelevant. Both assessments are accurate. Both are incomplete.*
 
 ---

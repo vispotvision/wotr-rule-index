@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-811b-ac95-da20426ddaf7"
 notion_url: "https://app.notion.com/p/Sovereign-Parallax-Lance-3d958200eb22811bac95da20426ddaf7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:16:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Sovereign Parallax Lance
@@ -36,12 +36,12 @@ verification: "unverified"
 **Trigger** · Opalis draws two fingers together over a chosen target and extends her hand.
 **Function** · Rather than dealing one fixed kind of harm, the working reads every physically consistent way the target could be destroyed and drives the single worst of them home as a directed line.
 **Mechanism** · The real phenomenon underneath is measurement collapse: a system genuinely undetermined among several outcomes resolves to exactly one only when read, and the working forces that read to happen at a moment and along a vector Opalis chooses, in the same way a prism decides which color exits toward the target while creating none of the colors it separates. Fractura supplies the fault-reading law that finds where the target is already structurally weak; Cataclysm supplies the violent over-resolution once a state is chosen; Dissolution supplies the option to unmake rather than break. The Essence layer pays for holding all the unresolved states open at once until the collapse is forced.
-**Numerical Effect** · Range up to 900 m, single-target with a fractured echo along a line up to 40 m; at the required SSS-Grade the strike sits at the conservative low end of that Grade's benchmark, on the order of 1 PN of peak force and roughly 400 TJ of yield (low hundred-kiloton TNT-equivalent), an estimate chosen per Law Two since the card gives no force figure of its own. Resolution is instantaneous, with the harmonic disturbance it leaves lingering a few seconds afterward.
+**Numerical Effect** · Range up to 900 m, single-target with a fractured echo along a line up to 40 m; at the required SSS-Grade the strike sits at the low end of that Grade's benchmark, on the order of 1 PN of peak force and roughly 400 TJ of yield (low hundred-kiloton TNT-equivalent). Resolution is instantaneous, with the harmonic disturbance it leaves lingering a few seconds afterward.
 **Target Response** · The chosen wound is pinned into place; an escape technique whose success would require an outcome the Lance has already removed from the possibility set simply does not produce that outcome.
 **Consequence** · The wound blooms visibly, burning, crushing, dissolving or rending depending on which state was selected, and the echo shockwave along the fractured line damages nearby constructs, illusions or unstable workings.
 **Limitation** · Cannot select a harm-state contradicting the target's fundamental structure (no plant-rot damage on a pure shadow-entity), cannot be fired twice at full potency in short order without the cost escalating sharply, and does not override the inviolable aspects of another being at or above Stage XII.
 **Weakness** · A structure anchored in pure Basilithe rejects the contradiction outright; a deep Oneirion construct can substitute a dream-state for the chosen wound; Verdantia and other regenerative currents dampen the Dissolution component specifically.
-**Cost** · An estimated 40,000 EU per full-strength cast, chosen conservatively against documented Stage XII single-cast figures elsewhere in the wiki (roughly 8,000 to 45,000 EU for a non-sustained working at this Stage); plus the two named non-numeric costs the card gives, the echoed pain of the chosen wound and a period of impaired equilibrium and light sensitivity afterward.
+**Cost** · Roughly 40,000 EU per full-strength cast, within the Stage XII single-cast range (roughly 8,000 to 45,000 EU for a non-sustained working at this Stage); plus two non-numeric costs, the echoed pain of the chosen wound and a period of impaired equilibrium and light sensitivity afterward.
 **Counterplay** · A working that flattens or erases probability outright (fate-denial, time-nullification) denies the Lance a harm-state to choose from; a target that has already shed its own stable identity has no narrative thread left for the working to bind to.
 
 ### FOW line
@@ -50,8 +50,8 @@ verification: "unverified"
 - **Stage floor** · XII — Emanation
 - **Grade required** · SSS-Grade
 - **Path gate** · Spirit Path
-- **Resonant Pair** · None documented
+- **Resonant Pair · None**
 
 ### Origin
 
-The card gives no derivation history beyond Opalis herself performing the working; no other inventor, teacher or precedent is named. Per the named-inventor rule, this stands as a self-derived technique: it has no documented counter on file anywhere but the ones Opalis's own opponents have worked out live, and it must be shown in full the first time it appears in a scene rather than summarized.
+Opalis devised the Lance herself. It has no documented counter on file anywhere but the ones her own opponents have worked out live.

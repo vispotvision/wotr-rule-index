@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8124-90c3-dd04d9100d99"
 notion_url: "https://app.notion.com/p/Dirge-Ascension-3d958200eb22812490c3dd04d9100d99"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T03:01:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Dirge Ascension
@@ -36,12 +36,12 @@ verification: "unverified"
 **Trigger** · Francis commits to the transformation and holds nothing back.
 **Function** · Transformation, world rewrite: a temporary step toward proto-Archonic function.
 **Mechanism** · Modelled on a renormalisation-group flow run backward: the local coupling constants that ordinarily fix how strongly a given law applies at Francis's own scale are pushed, for the duration, toward the values those same laws take at a deeper, Archon-adjacent scale, the way a system near a critical point briefly behaves as though sampled at a different energy scale entirely. Exuroth supplies the tolerance to survive holding that state open; Catharsis supplies the release that lets it end cleanly instead of snapping back.
-**Numerical Effect** · One-kilometre radius, self at the centre, as given. 45 seconds duration, as given, and the source of this batch's 5-second-per-turn conversion. 2,800,000 AU/s output, as given.
+**Numerical Effect** · One-kilometre radius, self at the centre. 45 seconds duration. 2,800,000 AU/s output.
 **Target Response** · Anything inside the radius is answering rewritten physics for the duration, not merely resisting a stronger version of the ordinary kind.
-**Consequence** · When the form ends, the Crystal does not return to baseline gently; the source's own "severe collapse post-use" is the toll for having run laws that were never Francis's to keep permanently.
-**Limitation** · Cannot overlap World Echelon, as given; the Crystal cannot hold both a merged-Domain claim and a self-transformation this large at once.
-**Weakness** · As on Principle Overwrite, Dominion Sovereignty's Stage VI Fate-Path gate is not met by a pure Spirit Path, and the paradox recoil the card lists is at least partly that gate reasserting itself the moment the borrowed authority lapses.
-**Cost** · One percent Soul Crystal mass burned per use, as given.
+**Consequence** · When the form ends, the Crystal does not return to baseline gently; the "severe collapse post-use" is the toll for having run laws that were never Francis's to keep permanently.
+**Limitation** · Cannot overlap World Echelon; the Crystal cannot hold both a merged-Domain claim and a self-transformation this large at once.
+**Weakness** · As on Principle Overwrite, Dominion Sovereignty's Stage VI Fate-Path gate is not met by a pure Spirit Path, and its paradox recoil is at least partly that gate reasserting itself the moment the borrowed authority lapses.
+**Cost** · One percent Soul Crystal mass burned per use.
 **Counterplay** · An Archonic mandate outranks a proto-Archonic borrowing of the same register outright. A Nihiloth-mediated null field can suppress it, though at EX-Grade output a full null is not assured, the only documented uncertainty in an otherwise clean counter.
 
 ### FOW line
@@ -287,7 +287,7 @@ a technique the world helps him run**, and the card and the ladder disagree abou
 | EU spent | `null` | No page figure and no Stage→EU formula, so the reserve behind 1.26×10⁸ AU is unknown. `SA-GAP-EU-FORMULA`. |
 | η | **0.93** (card) | Card line 42. Tier 8 band **0.95–1.2** (Part Nineteen) — **below the floor by 0.02.** `SA-NUM-ETA-TIER`. |
 | Bleed | **7 %** at the card's η; **0 % or negative** at the tier's | 1 − η. **Above 1.0 the environment co-authors** (Part Nineteen). |
-| Duration | **45 s** | Page, as given. **Source of this batch's 5 s/turn convention (9 turns), which the Drakvor pages contradict at 3 s/turn.** `SA-GAP-TURN-LENGTH`. |
+| Duration | **45 s** | Page, as given; seven and a half turns at six seconds each. |
 | Radius / volume | **1,000 m** / **4.19×10⁹ m³** | Page; (4/3)π(1,000 m)³. |
 | **Cost** | **1 % of Soul Crystal mass per use** | Page, as given. **The only invoice in the batch denominated in Crystal mass.** |
 | **Derived lifetime** | **100 uses**, if the mass does not return | 100 % ÷ 1 %. **The page's own "What nobody knows," answered arithmetically on one of its two readings.** |

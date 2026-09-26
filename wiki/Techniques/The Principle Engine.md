@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8186-8bad-f6ce4a3ae0b4"
 notion_url: "https://app.notion.com/p/The-Principle-Engine-3d958200eb2281868badf6ce4a3ae0b4"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:22:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # The Principle Engine
@@ -42,7 +42,7 @@ verification: "unverified"
 **Trigger** · Continuous, with no activation act. The Engine runs whenever a genuine contradiction registers inside Francis's own field, the way a valve is always there whether or not pressure is currently pushing on it.
 **Function** · Buff / Resource Engine / Paradox Conversion. Detects a structural contradiction, verifies it is real rather than merely apparent, and routes the resulting load into recoverable output instead of into damage.
 **Mechanism** · Judicium reads the contradiction the way it reads any interface: a truth-value comparison against a reference, the same diagnostic operation attested elsewhere for the Wellspring. Where the comparison returns a genuine incompatibility rather than an error of perception, Catharsis takes the load. Catharsis's documented law is latent heat of phase change: energy absorbed at constant apparent temperature goes entirely into breaking an ordered structure rather than into raising output. Francis's Crystal runs the same operation on the contradiction itself. The paradox becomes the ice, and the phase transition consumes the destructive pressure the paradox would otherwise apply directly to his Core, leaving him structurally different and measurably stocked with reserve on the other side, exactly as Catharsis's own failure mode already describes for anyone using it under load.
-**Numerical Effect** · No EU reserve is attested anywhere for Francis, so this is pinned to the table rather than invented: Stage XIV, Zenith caps him at a 1500.0 stat ceiling and EX-Grade output. Recovered reserve scales with how deep the paradox runs. A shallow contradiction returns a small fraction of a percent of what he is carrying; a load-bearing one returns markedly more; and the practitioner's own count is the only legal channel for a specific figure on the page.
+**Numerical Effect** · Stage XIV, Zenith caps him at a 1500.0 stat ceiling and EX-Grade output. Recovered reserve scales with how deep the paradox runs. A shallow contradiction returns a small fraction of a percent of what he is carrying; a load-bearing one returns markedly more; the exact figure is his own count.
 **Target Response** · None, since Range is Self. The "target" of the working is Francis's own Crystal, which registers the routed load as heat that never has anywhere else to go.
 **Consequence** · Sustained absorption accumulates structural cost even when it is not failing. The Crystal does not fracture cleanly from any single use. It fractures from the sum of every use nobody stopped to count.
 **Limitation** · Excess paradox risks self-erasure. The valve has a throughput ceiling. Past it, the load is not rejected, it is redirected back into the Essence Core, unrouted, aimed at continuity rather than at output.
@@ -55,14 +55,14 @@ verification: "unverified"
 ### FOW line
 
 **Governing Primary** · Tempering.
-**Governing Sub-Stats** · Tempering Processing (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Insulation. All three are Catharsis's own documented Stat Effect, carried over unchanged rather than assigned freshly.
+**Governing Sub-Stats** · Tempering Processing (the conversion itself), Harmonics Empathy (sensing the paradox as load before it becomes damage), Resilience Insulation. All three are Catharsis's own documented Stat Effect.
 **Stage floor** · Stage XIV, Zenith.
 **Grade required** · EX-Grade.
 **Path gate** · Spirit.
-**Resonant Pair** · None documented on the card or found in current canon.
+**Resonant Pair · None.**
 
 ---
 
 ### Origin
 
-The card gives no derivation history beyond Francis's own authorship implied by "Core Concept: Francis collapses contradictions into fuel." No teacher, no site, no problem is stated as the occasion for building it. Per the named-inventor rule, that makes The Principle Engine a self-derived working: uncountered by anyone who has not watched Francis use it, and undocumented anywhere Isaac's index can currently check. Nothing further is invented here; the gap is left as a gap.
+Francis built The Principle Engine himself around one core concept: he collapses contradictions into fuel. As a self-derived working it is uncountered by anyone who has not watched him use it.

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8109-9163-e91f77df7df9"
 notion_url: "https://app.notion.com/p/Oneiron-Parasite-Nightmare-Warden-3d958200eb2281099163e91f77df7df9"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:25:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Oneiron Parasite · Nightmare Warden
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Declared, by gaze or touch, against a target with a subconscious to implant into, at up to 30 meters.
 **Function** · Plants a small detached fragment of Aeldoris's own Essence Core inside the target, where it watches, distorts and can be made to detonate.
 **Mechanism** · Eidolyn gives the planted fragment enough Ardency Density to hold a shape and survive inside another Crystal's territory rather than dissolving on arrival. Oneirion routes it through the target's own configuration space so it can move and act there instead of sitting inert. Hypnather anchors it to the target's own rest cycles, drawing on the same recovery window the Sleep Crown strengthens, which is why it grows stronger the longer the host sleeps near it undisturbed.
-**Numerical Effect** · 30-meter implantation range (source). Duration approximately 20 seconds per sustained watch (estimate, converted from the source's "4 turns"). Bounded by Stage VII's 475 ceiling, Grade A, on detonation.
+**Numerical Effect** · 30-meter implantation range (source). Duration 24 seconds per sustained watch, four turns. Bounded by Stage VII's 475 ceiling, Grade A, on detonation.
 **Target Response** · Emotional spikes monitored, micro-nightmares induced, the host's own Soul Crystal layering weakened from inside, a psychic stagger on detonation.
 **Consequence** · A watched target cannot act on a plan the Warden has already reported, and a target the Warden detonates in loses composure at the worst possible moment.
 **Limitation** · Cannot infect a being with no subconscious to root in. The host's own emotional state shapes what the Warden becomes, so Aeldoris does not fully control what he has planted.
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 **Grade required** · A-Grade
 **Path gate** · Spirit Path
-**Resonant Pair** · None documented in the source.
+**Resonant Pair · None.**
 
 ### Origin
 
-Derived by Aeldoris. The card gives no place or named problem beyond the stated concept: a small dream-creature implanted to surveil, distort and punish from within. No further history is attested.
+Derived by Aeldoris, from the concept of a small dream-creature implanted to surveil, distort and punish from within.

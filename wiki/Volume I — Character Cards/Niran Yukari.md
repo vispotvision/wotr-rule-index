@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-813a-96bd-f14ad18385f4"
 notion_url: "https://app.notion.com/p/Niran-Yukari-3b258200eb22813a96bdf14ad18385f4"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T20:46:00.000Z"
+last_edited: "2026-09-26T03:22:00.000Z"
 verification: null
 ---
 
@@ -22,7 +22,7 @@ verification: null
 
 **Lineage** Human · Yukari Bloodline · **Age** 32 · **Sex** Male
 **Standing** Yukari Enclave · **Shichi Karasu** · Inner World Frontier — *acting authority over the enclave and three tributary settlements*
-| **Level / Stage** | **195 / 500** · Band II — Disciplined Foundation · **Stage VII — Emanation** · Tier of Standing **5, Expert** |
+| **Level / Stage** | **195 / 500** · Band II — Awakened · **Stage VII — Refraction** · Tier of Standing **5, Expert** |
 |---|---|
 | **Typology** | Acoustic / Causal / **Thread-Sight** — *Cymorath dominant, Ketsumyōgan emerging* |
 | **Aether** | Class III Resonant — **Acoustic Consequence Architect · Thread-Lock Reader.** 16,376 AU/s · **η 0.89** |
@@ -138,7 +138,7 @@ Black hair past the hips, **Thread-shimmer giving it a quality that is not iride
 ## XVI–XVII · Temperance and Fractures
 
 **I–VI complete.** *III Ascension — Crystal clarified; warning as architecture, not fear.* **IV — substrate-listening integrated as Crystal function. V —** Thread-Lock formalised as Trait; Ketsumyōgan proto-expression first manifest. **VI — Domain seed formed,** B-tier threshold crossed.
-**VII Emanation** · **Active** — Traits becoming ambient expressions; Domain doctrine stabilising. **VIII–XVI locked.**
+**VII Refraction** · **Active** — Traits becoming ambient expressions; Domain doctrine stabilising. **VIII–XVI locked.**
 > **Fracture · The Blood-Hush Moment** — Gnosis-Analysis. Consolidated. *Feature: Analysis densified permanently. Reads death more clearly. No longer hesitates when he reads it.*
 >
 > **Fracture · Thread Noise Overload** — Harmonics-Attunement. Consolidated. *Feature: Cymorath narrowed in raw range, deepened in resolution. Hears less that is irrelevant, at greater depth.*

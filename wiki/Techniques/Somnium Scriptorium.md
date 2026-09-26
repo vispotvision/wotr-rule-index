@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-815a-9afd-e2b49fb02068"
 notion_url: "https://app.notion.com/p/Somnium-Scriptorium-3d958200eb22815a9afde2b49fb02068"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-24T21:44:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Somnium Scriptorium
@@ -69,4 +69,4 @@ verification: "unverified"
 
 #### Origin
 
-The source gives no date or founding problem for Somnium Scriptorium beyond Serenyra's own authorship. Its dual stated use, interrogation and mercy, suggests it was built to answer both problems at once rather than one first and the other as an afterthought, but the card gives no history to confirm which came first. No location is given beyond the Iridescent Archive filing destination, unattested in current canon.
+Somnium Scriptorium is Serenyra's own. Its dual use, interrogation and mercy, suggests it was built to answer both problems at once rather than one first and the other as an afterthought. It is filed in the Iridescent Archive.

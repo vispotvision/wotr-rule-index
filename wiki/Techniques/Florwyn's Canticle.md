@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-811f-aa49-d23d8865efbd"
 notion_url: "https://app.notion.com/p/Florwyn-s-Canticle-3d958200eb22811faa49d23d8865efbd"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:13:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Florwyn's Canticle
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Declared, and functions only while the hymn runs unbroken.
 **Function** · Routes Verdantia current outward through her voice to every open injury and fractured Essence line within range, encouraging tissue and Crystal alike back toward a prior coherent state.
 **Mechanism** · Runs on the body's own wound-closure chemistry, accelerated and guided from outside rather than left to run at its native rate; the growth answering in the ground around her is the same current finding plant tissue instead of flesh to work on.
-**Numerical Effect** · 30 m radius, strongest within 10 m; holds up to 4 turns sustained. Wound closure is read as consistent with Stage VI's ceiling, an estimate since the source gives no rate of its own: an injury that would otherwise take days to close instead closes over minutes of unbroken singing.
+**Numerical Effect** · 30 m radius, strongest within 10 m; holds up to 4 turns, 24 seconds, sustained. Wound closure runs at Stage VI's ceiling: an injury that would otherwise take days to close instead closes over minutes of unbroken singing.
 **Target Response** · Open injuries visibly seal as small growth breaks the skin and withdraws; a fractured Essence line stops spreading rather than reversing outright.
 **Consequence** · The ground inside the strongest ring can bloom temporary cover, usable for concealment or as difficult footing against a pursuer.
 **Limitation** · It does not restore a severed limb, and it needs living tissue nearby to have anything to work with.
@@ -50,8 +50,8 @@ verification: "unverified"
 **Stage floor** · VI
 **Grade required** · A-Grade
 **Path gate** · Spirit
-**Resonant Pair** · None documented.
+**Resonant Pair · None.**
 
 ### Origin
 
-The source gives no deviser beyond Serenyra and frames the technique as inherited rather than invented: an echo of Florwyn's own Ground, carried rather than designed. No further account of how or when the inheritance was received is given by the card, and none is added here.
+Serenyra carries the technique as an inheritance rather than an invention: an echo of Florwyn's own Ground, carried rather than designed.

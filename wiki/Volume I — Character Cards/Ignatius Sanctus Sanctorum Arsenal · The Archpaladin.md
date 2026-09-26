@@ -62,12 +62,12 @@ verification: null
 **Temperance Stage** · **XII — Emanation.** **Level** · 385. **Level Band** · IV — Mythic. **Tier of Standing** · 7, Grandmaster. **Grade** · SSS. **Ceiling** · 950.
 > **The point economy, worked.** Band I at 12 a Level across 1–100 contributes 1,200. Band II at 15 a Level across 101–200 contributes 1,500. Band III at 18 a Level across 201–300 contributes 1,800. Band IV at 21 a Level across 301–385 contributes 1,785. Threshold bonuses for Stages I through XII contribute 7,800, Stage I counting (R39-3). Total: 14,085.
 >
-> **Total lifetime pool: 14,085.** Allocated: 13,471. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
+> **Total lifetime pool: 14,085.** Allocated: 13,953. *Re-costed to Part Three's current allotment (R38-2, 2026-09-13; the sheet's pool was 18,275).*
 | Stat | Value | Grade | Reading |
 |---|---|---|---|
-| **Vitality** | **660** | SS | Holy Physiology, and it is a real number rather than a description |
+| **Vitality** | **900** | SSS | Holy Physiology, and it is a real number rather than a description |
 | **Resilience** | 647 | SS | He is not moved |
-| **Ardency** | 638 | SS | One strike. He does not need volume of fire |
+| **Ardency** | 880 | SSS | One strike. He does not need volume of fire |
 | **Dominion** | 617 | SS | The field that reorganises a room |
 | **Tempering** | 555 | SS | Stage XII compression, expressed |
 | **Harmonics** | 501 | S | Sound |
@@ -80,7 +80,7 @@ verification: null
 
 ## V · Sub-Stat Peaks
 
-**Ardency Radiance 732** · Attraction VII · **at ceiling.** The highest value on the sheet, and the correct one.
+**Ardency Radiance 732** · Attraction VII · **at ceiling.** The highest Sub-Stat peak on the sheet, and the correct one.
 **Vitality Fortitude 721** · Body III. **Dominion Pressure 710** · Attraction VI.
 **Resilience Oath 696** · Attraction IV. *The vow, load-bearing and quantified.*
 **Vitality Absorption 684** · Body III. **Ardency Penetration 670** · Body III.
@@ -102,8 +102,8 @@ verification: null
 
 ## VI · Physical Force
 
-**Strike Force** · Ardency 638, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
-**Lifting Strength** · Vitality 660, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
+**Strike Force** · Ardency 880, upper SSS-Grade. On the order of **4 PN peak contact force, approaching 4 EJ yield, near a teraton equivalent** — small-country level, delivered through a hammer head, concentrated by the Focused-Yield Principle into a contact area the size of a fist.
+**Lifting Strength** · Vitality 900, upper SSS-Grade, **with the Body Path multiplier applying.** Toward **500 billion tonnes.**
 **Speed** · Dexterity 422, upper S-Grade. Travel near **68,000 m/s**, reaction between 0.05 and 0.2 milliseconds. *The legacy sheet's Mach 290 sustained sits inside S-Grade and is consistent; the Mach 610 burst is SS-Grade and only reachable under the Flare.*
 
 ---

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81bb-9794-c67b2dc67b6c"
 notion_url: "https://app.notion.com/p/Speculum-Harmoniae-3d958200eb2281bb9794c67b2dc67b6c"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-24T21:45:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # Speculum Harmoniae
@@ -69,14 +69,13 @@ verification: "unverified"
 
 #### Origin
 
-Serenyra devised Speculum Harmoniae as a decoy and diversion tool; the source gives no date or location for the invention beyond her own practice. She is the only named practitioner in the card and the only one credited with using it. Her institutional home is given only by the card's own filing destination, **the Iridescent Archive**, unattested in current canon, kept because nothing in the source places her anywhere else.
+Serenyra devised Speculum Harmoniae as a decoy and diversion tool, and she is the only one credited with using it. It is filed in the Iridescent Archive.
 
 ---
 
 ### Nexus Harmoniae
 
 *(The Nexus of Harmony)*
-> Bundled into this same Trello card as item "7." in the source list. Converted alongside Speculum Harmoniae rather than dropped, per the same migration note above.
 
 #### Summary card
 

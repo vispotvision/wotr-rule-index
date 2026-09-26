@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-8140-8205-d05c390faf37"
 notion_url: "https://app.notion.com/p/The-Kingdom-of-Kharven-The-Ashen-Crown-3bc58200eb2281408205d05c390faf37"
 section: "The Inner World — The Northern Shield"
 tags: []
-last_edited: "2026-09-23T22:25:00.000Z"
+last_edited: "2026-09-26T03:35:00.000Z"
 verification: "unverified"
 ---
 
@@ -173,7 +173,7 @@ At full mobilisation: **roughly twelve thousand** — three thousand Guard, nine
 |---|---|
 | **The Guild Seat of Stannvaard** | The most critical economic relationship and the most complicated political one. **The Dawi treat Kharven as a useful buffer state** — an armed frontier absorbing threats from the polar regions and Undaar-Keth without requiring Dawi troops. *The Ore Council's current posture, substrate on schedule while grain is cut, is the Dawi saying: we want you armed and we want you hungry, because an armed and hungry frontier serves our interests better than an armed and independent one* |
 | **The Sovereign Enclave of Ketsuen** | Managed through House Stark. **Kharven believes governance requires sovereign judgment — a crown that decides. Ketsuen believes governance requires distributed competence — a council that measures.** *They respect each other's competence and distrust each other's philosophy, and the border is quiet because both sides know what testing it would cost* |
-| **The Iron Mandate of Undaar-Keth** | The western threat. Hostile, commercial in narrow channels, **defined by mutual understanding that the Mandate's hobgoblin machine would break on Kharven's terrain before reaching the Seat, and that Kharven's columns would exhaust themselves against fortification depth before reaching anything worth taking.** *A cold peace maintained by mutual deterrence* |
+| **The Iron Mandate of Undaar-Keth** | The western war, nine years old. Fought on the southern approach, where the Greymanes made the walk not worth taking and the Mandate's ground breathed green smoke every spring. **It reached the wall once — forty feet of the southern reach taken down in a night, and a twenty-two-foot gap held four hours by three hundred against two thousand two hundred coming through eight at a time.** *What answers the Mandate is not Kharven's courage but Kharven's cold: Stone-Blood runs slow at thirty below, and the lateness is the only currency the Shield has ever had* |
 | **The Holy Sea of Alabaster** | Distant, poor in grain, **and doctrinally entangled with Kharven in a way no trade ledger records.** Its territory stands on the white shelf that was the seat of the Long Reading, **which makes the Crown's relationship with it an inheritance question wearing a diplomatic coat.** Its Wellspring is testimonial and its whole apparatus is built to weigh a sworn account — **the one commodity a starving kingdom can still produce in quantity.** *A Sanctum Lux chapter hold operates inside its territory. The practical consequence: a petition sent south is read twice, once by a kingdom that has reason to listen and once by an order that has reason not to* |
 | **The Guild Accord** | Treats Kharven as a peripheral power **whose military capability exceeds its political influence.** Enforcement holds jurisdiction in theory and limited access in practice — *the Crown's cooperation has always been calibrated to produce exactly enough compliance to avoid a formal dispute and not one measure more* |
 

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81c1-9825-cb96466d2933"
 notion_url: "https://app.notion.com/p/Final-Mercy-3d958200eb2281c19825cb96466d2933"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:22:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Final Mercy
@@ -42,8 +42,8 @@ verification: "unverified"
 **Trigger** · A held verdict, reached before the strike lands. Francis has to have already decided, correctly by Judicium's own measure, that the target's continuance is the thing to remove. A strike thrown without that verdict already formed does not carry the working.
 **Function** · Execution / Concept Erasure. Compresses everything he is presently carrying into a single directed point and discharges it as a verdict against the target's persistence rather than against the target's body.
 **Mechanism** · Judicium's law is a truth-value read against a reference. Turned outward at full compression rather than used diagnostically, the read stops reporting on the target's continuance and starts adjudicating it, the same operation the Wellspring performs constantly, run past the threshold where measurement and verdict become the same act. Exuroth supplies the compression itself: its documented cycle is repeated thermal shock followed by controlled recovery, driving a lattice to a hardness slow cooling could never reach. Here that cycle is run on Francis's own output rather than on a blade, quench-tempering an entire reserve into one strike hard enough to carry a verdict instead of merely a wound.
-**Numerical Effect** · No EU figure for Francis exists to check against, so this is pinned to Exuroth's own attested Stat Effect: Ardency Overchannel and Tempering Overflow are what the compression draws on, and Vitality Threshold is what keeps him upright afterward. Range is kept as the card gives it, 150 metres, and duration as instant, a single discharge with no sustain phase.
-**Target Response** · The target's Soul, memory, and Principle alignment collapse together rather than in sequence. The field around the point of impact goes emotionally silent, which the old card is right to flag as diagnostic in itself: an erasure event, not a kill, does not leave the ordinary residue of one.
+**Numerical Effect** · Pinned to Exuroth's own Stat Effect: Ardency Overchannel and Tempering Overflow are what the compression draws on, and Vitality Threshold is what keeps him upright afterward. Range is 150 metres, and duration as instant, a single discharge with no sustain phase.
+**Target Response** · The target's Soul, memory, and Principle alignment collapse together rather than in sequence. The field around the point of impact goes emotionally silent, which is diagnostic in itself: an erasure event, not a kill, does not leave the ordinary residue of one.
 **Consequence** · Whatever the target was continuing to be simply stops being continued. Nothing is left to mourn in the ordinary sense, because the mourning would require a persistence-claim the working already removed.
 **Limitation** · Cannot be used in Dirge Ascension. The two draw on the same compressed architecture and the Crystal will not run both.
 **Weakness** · Archonic protections and identity anchors generally; specifically, any Crystal whose Attraction Layer is not carrying independent selfhood to begin with.
@@ -55,14 +55,14 @@ verification: "unverified"
 ### FOW line
 
 **Governing Primary** · Gnosis, with Ardency as the secondary axis carrying the discharge.
-**Governing Sub-Stats** · Gnosis Diagnosis (the verdict-read itself), Dominion Sovereignty (the authority the verdict is enforced under), Ardency Overchannel and Tempering Overflow (both Exuroth's own documented Stat Effect, carried over rather than assigned freshly).
+**Governing Sub-Stats** · Gnosis Diagnosis (the verdict-read itself), Dominion Sovereignty (the authority the verdict is enforced under), Ardency Overchannel and Tempering Overflow (both Exuroth's own documented Stat Effect).
 **Stage floor** · Stage XIV, Zenith.
 **Grade required** · EX-Grade.
 **Path gate** · Spirit.
-**Resonant Pair** · None documented on the card or found in current canon.
+**Resonant Pair · None.**
 
 ---
 
 ### Origin
 
-The card states only that Francis built this and gives no teacher, site, or occasioning problem. The philosophy line, "True mercy is silence," reads as his own justification rather than a borrowed doctrine. Per the named-inventor rule this is self-derived and therefore uncountered by anyone who has not watched him use it live. The card itself gives no "What nobody knows" line; none is invented from outside the card's own facts, so the one above is drawn from the order the card's own Outcomes list already states (Soul, then memory, then Principle alignment) rather than from anything not on the page.
+Francis built this himself. Its philosophy line, "True mercy is silence," is his own justification rather than a borrowed doctrine. As a self-derived working it is uncountered by anyone who has not watched him use it live.

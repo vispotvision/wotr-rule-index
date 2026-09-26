@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-814b-89ed-f38910961f7a"
 notion_url: "https://app.notion.com/p/Veil-of-Verdant-Pact-3d958200eb22814b89edf38910961f7a"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:18:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # Veil of Verdant Pact
@@ -54,4 +54,4 @@ verification: "unverified"
 
 ### Origin
 
-The card gives no deviser, era, or precipitating problem, only the technique and its one-line philosophy. Its own Counters & Interactions list (Absolution's flames bypassing it, Tenebra decaying the vines, heavy-metal toxins weakening the roots) reads as established, catalogued countermeasures rather than something worked out live against a single caster; per the named-inventor rule that marks it a documented technique, not a self-derived one. It is filed as a documented Vitalia/Materia ward of anonymous, folk-transmitted origin, known and taught rather than invented in the scene of its first appearance. No deviser's name is invented to fill the gap the card leaves.
+Veil of Verdant Pact is a documented Vitalia/Materia ward of anonymous, folk-transmitted origin, known and taught rather than invented by one caster. Its established countermeasures are Absolution's flames bypassing it, Tenebra decaying the vines, and heavy-metal toxins weakening the roots.

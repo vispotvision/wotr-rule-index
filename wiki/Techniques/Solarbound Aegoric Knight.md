@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8133-aca1-ebf28c4b27b7"
 notion_url: "https://app.notion.com/p/Solarbound-Aegoric-Knight-3d958200eb228133aca1ebf28c4b27b7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:11:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Solarbound Aegoric Knight
@@ -26,7 +26,7 @@ A Materia-Vitalia-Fulguria Shell discipline built around storage rather than exp
 
 ### Practitioners and history
 
-The card gives no named originator, so none is invented here. Its closest attested resemblance in current canon is Ser Varnath Rhogar, the Scorn of the Outer World, a verified hero of the Guild Accord's Concord Military, remembered for holding a Gate open with his own body long enough for a million souls to flee it. The image the discipline is built around, bearing an unbearable, undramatic weight until it is spent on a single decisive act, is the same image Varnath's own record is built on, and the discipline's own text invokes his name directly as the source of its Aether. Whether he founded it, embodied it, or was simply the practitioner later students pointed to is not stated by the source and is left open rather than decided here.
+The discipline has no named originator. Its closest resemblance is Ser Varnath Rhogar, the Scorn of the Outer World, a verified hero of the Guild Accord's Concord Military, remembered for holding a Gate open with his own body long enough for a million souls to flee it. The image the discipline is built around, bearing an unbearable, undramatic weight until it is spent on a single decisive act, is the same image Varnath's own record is built on, and the discipline's own text invokes his name directly as the source of its Aether. Whether he founded it, embodied it, or was simply the practitioner later students pointed to is not known.
 
 ### What it can and cannot do
 

@@ -41,7 +41,7 @@ verification: null
 | **Essence Typology** | **Limina**, primary — endings, dissolution. *Catalyst "accepting that something is over, and meaning it" maps the Ruins Work far more precisely than the codex's Eldritch/Fate-adjacent label.* **Fulguria**, undertone — matches the Kamigan's revelation function |
 | **Aether Class** | **II — Harmonic** (Band D, ~15–25% loss) |
 | **Efficiency (η)** | **0.84** — Band A/S territory, well above Band D. *The codex itself calls this the highest rating at Stage VI, so the anomaly is in-world acknowledged, not introduced here* |
-| **Crystal State** | **The Stage V fracture is closed, not healed — a load-bearing seam** |
+| **Crystal State** | **The Stage V fracture is closed, not healed — a load-bearing seam.** **Standing Residual Strain** from the breach: his Level stands past two Band gates his Stage has not opened, and the pressure builds in the Crystal until the Threshold is passed or the Crystal fractures under the weight |
 | **Attraction / Obsession** | Clean, recognition-sustained |
 
 ---

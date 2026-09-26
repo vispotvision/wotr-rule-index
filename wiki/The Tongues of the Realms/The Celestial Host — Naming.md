@@ -4,21 +4,14 @@ notion_id: "3db58200-eb22-8163-aece-ffa4a7d82ad0"
 notion_url: "https://app.notion.com/p/The-Celestial-Host-Naming-3db58200eb228163aeceffa4a7d82ad0"
 section: "The Tongues of the Realms"
 tags: []
-last_edited: "2026-09-14T01:42:00.000Z"
+last_edited: "2026-09-26T03:56:00.000Z"
 verification: "unverified"
 ---
 
 # The Celestial Host — Naming
 
-Drafted 2026-09-13 by Claude Code at Isaac's direction and ratified by Isaac the same day, as written, flags kept, answering
-R20-2-CELESTIAL*HOST*NAMING ("flagged as needing a full naming pass; the working
-names are placeholders"). It follows the amendment's own proposed structure — **a
-function-name, a rank-suffix, and a Lawbell-name** — on a Hebrew-theophoric shape
-(element + a divine-register suffix) built from original elements, and it obeys the
-Host's idiom rule (R24-3: measure, position and law; never light, never fire, never
-wings). The working names Faisal, Verantha, Kaethren Vareth, Dazgrim and Urstia are
-read back through it rather than replaced.
-Everything not marked *attested* is **coined** and Isaac's to strike.
+The Host's names are built in three slots — **a function-name, a rank-suffix, and a Lawbell-name** — on a Hebrew-theophoric shape (element + a divine-register suffix) built from original elements, and they obey the Host's idiom rule: measure, position and law; never light, never fire, never wings. The names Faisal, Verantha, Kaethren Vareth, Dazgrim and Urstia are read back through the register rather than replaced.
+Everything not marked *attested* is **coined**.
 
 ### The three slots
 
@@ -62,7 +55,7 @@ Sealkeepers, Bellwrought Witness-Choir); the suffixes are coined.
 
 | Working name | Read as | Notes |
 |---|---|---|
-| Faisal | Fai + sal: the kneeling as a position held | Grand Angel, Midreach; no suffix; Lawbell-name unrecorded — flag |
+| Faisal | Fai + sal: the kneeling as a position held | Grand Angel, Midreach; no suffix; Lawbell-name unrecorded |
 | Verantha | Ver + antha: the verdict as an unbroken ledger line | "of the Unbroken Tally" is the mortal gloss of the same name; Midreach; suffix and Lawbell-name unrecorded |
 | Kaethren Vareth | Kaeth + ren, rank -vareth | Highspire, the most senior surviving officer; Lawbell-name unrecorded |
 | Dazgrim | Daz + grim: exile ordered by precedence | Lowmere by function; suffix unrecorded |
@@ -70,14 +63,6 @@ Sealkeepers, Bellwrought Witness-Choir); the suffixes are coined.
 
 All five are kept as they stand. None is renamed.
 
-### Flagged, not resolved
+### Outside the register
 
-1. Whether the Lawbell-name is the Archon's name bare or takes a Parunic genitive
-(the older Parunic renders Atlas as *Atla'zon*); the draft uses the bare name and
-avoids the apostrophe form.
-1. The four Choirs' page gives no rank ladder beyond "officer" and "senior"; three
-tiers plus the title is the smallest ladder that fits the attested names.
-1. Faisal's and Verantha's Lawbell-names are not on any page; assigning them is a
-canon act, left to Isaac.
-1. **Not covered:** the mortal by-names ("the Bound Flame") — deliberately outside
-the register, as R24-3's idiom rule implies they should be.
+1. The mortal by-names — "the Bound Flame" and its like — lie outside the register, as the Host's idiom rule implies they should.

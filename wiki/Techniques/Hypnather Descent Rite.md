@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81a5-b868-ec33d20c359f"
 notion_url: "https://app.notion.com/p/Hypnather-Descent-Rite-3d958200eb2281a5b868ec33d20c359f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Hypnather Descent Rite
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction
 **Grade required** · A-Grade, late push toward S-Grade
 **Path gate** · Spirit
-**Resonant Pair** · None documented; none invented here.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card names Aeldoris as sole practitioner and gives the rite's purpose as its own philosophy states it: descent reveals what a target fears the instant they blink. No teacher, incident or era is given, and none is added here. That Aeldoris carries no character card in current canon is noted above rather than papered over.
+Aeldoris is the rite's sole practitioner, and its philosophy states its purpose: descent reveals what a target fears the instant they blink.

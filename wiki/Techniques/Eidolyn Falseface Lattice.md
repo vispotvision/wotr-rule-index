@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81e6-a929-d85f73e699ed"
 notion_url: "https://app.notion.com/p/Eidolyn-Falseface-Lattice-3d958200eb2281e6a929d85f73e699ed"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:24:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Eidolyn Falseface Lattice
@@ -46,13 +46,13 @@ verification: "unverified"
 
 ### FOW line
 
-**Governing Primary Stat** · Gnosis (estimate, Band C ceiling for Stage VII)
-**Sub-Stats** · Ardency Density and Gnosis Memorium (Eidolyn's documented Stat Effect), Gnosis Cognition and Dominion Reach (Oneirion's), Gnosis Forecast and Dominion Sense (Somnalis's); all estimates, no sheet exists to confirm exact figures
+**Governing Primary Stat** · Gnosis (Band C ceiling for Stage VII)
+**Sub-Stats** · Ardency Density and Gnosis Memorium (Eidolyn's documented Stat Effect), Gnosis Cognition and Dominion Reach (Oneirion's), Gnosis Forecast and Dominion Sense (Somnalis's)
 **Stage floor** · Stage VII, Refraction
 **Grade required** · A-Grade, late push toward S-Grade
 **Path gate** · Spirit
-**Resonant Pair** · None documented; none invented here.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card gives Aeldoris as sole practitioner and states the problem plainly: a fight against something that has already decided to be afraid of him is a fight he can win by giving the fear a body and letting it swing at its own owner. No teacher, incident or era is given, and none is added here.
+Aeldoris is its sole practitioner, and the problem it answers is plain: a fight against something that has already decided to be afraid of him is a fight he can win by giving the fear a body and letting it swing at its own owner.

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-813d-b297-f3b326e2d610"
 notion_url: "https://app.notion.com/p/Winter-Rend-3d958200eb22813db297f3b326e2d610"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T02:58:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:06:00.000Z"
+verification: null
 ---
 
 # Winter Rend
@@ -25,7 +25,7 @@ verification: "unverified"
 **Wellspring** · Vohrin (primary, Caloria) · Tenebra (secondary, Limina)
 **Family** · Caloria / Limina
 **Physics Domain** · Thermodynamics (Vohrin) · Entropy, Void and Mind (Tenebra)
-**Category** · Vectra *(judgment call, unverified — see migration note)*
+**Category** · Vectra
 **Craft** · Magicraft
 **Stage floor** · VI, Glory
 **Grade required** · A-Grade
@@ -51,33 +51,23 @@ verification: "unverified"
 **Stage floor** · VI, Glory.
 **Grade required** · A-Grade.
 **Path gate** · Body.
-**Resonant Pair** · None documented on Draven's sheet.
+**Resonant Pair · None.**
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one the card's own philosophy states: raw force alone does not crack a properly insulated or armored quarry in melee, so the cold has to travel with the strike instead of waiting to be applied after it. "Cold kills slower, but truer."
+Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one his own philosophy states: raw force alone does not crack a properly insulated or armored quarry in melee, so the cold has to travel with the strike instead of waiting to be applied after it. "Cold kills slower, but truer."
 
 ---
 
 ### The Two Accounts
-
-> ❓ Open question (SA-EM-WINTER-TENEBRA-AFTERIMAGE): The page credits its visible residue to Tenebra: 'The arc lingers a moment as pale afterimage, the Tenebra-thinned residue of the strike's own path', and its Mechanism has Tenebra 'rid[ing] the same… This section may change when it is ruled.
-> ❓ Open question (SA-FAIR-WINTER-MILD-COST): The working is an A-Grade area attack across a two-metre arc that cracks armour by thermal shock and cools flesh along its path, delivered instantaneously, with no stated usage cap and no resource… This section may change when it is ruled.
-> ❓ Open question (SA-PHYS-WINTER-ARC-YIELD): The page states that 'Heat extraction and impact force both land at Draven's A-Grade Ardency band (20-100 GN peak force, 46 GJ-4 TJ yield, city-block scale)'. This section may change when it is ruled.
 
 #### 1 · Physical account (physics)
 
 **The phenomenon in plain words.** A man sweeps an arm or a weapon through a two-metre arc and cold comes
 with it rather than after it. Things in the arc get colder along the line he drew. Armour cracks. There is
 a pale streak in the air for a moment and a sound like something small breaking.
-**The real phenomenon.** **Forced convection**, which is the complete answer to the page's own closing
-question and is a factor of ten better than the alternative, and **thermal shock**, which is the one
-target response on this page whose numbers close exactly — and which closes *because* the cooling is
-shallow rather than in spite of it. What does not close is the yield, by six to eight orders of magnitude,
-and where the accepted heat is supposed to go.
-**(a) The page asks why the cold rides the strike, and heat transfer answers in one line.** *"**What
-nobody knows** · Why the cold rides the strike's own kinetic wake rather than radiating from Draven
-directly, the way every other cold-law working in the register does"* (`:21`).
+**The real phenomenon.** **Forced convection**, a factor of ten better than the alternative, and thermal shock, which works because the cooling is
+shallow rather than in spite of it.
 **Because a stationary cold surface is a bad heat exchanger and a moving one is not.** Air conducts
 appallingly — **k ≈ 0.026 W/(m·K)** — so a cold body sitting still in a room is limited by **natural
 convection**, with a heat-transfer coefficient of about** 5–10 W/(m²·K)**. Move the same surface and the
@@ -107,17 +97,16 @@ reaches its strength:
 
 So cracking a steel plate needs a surface drop of about **120 K** — from a room at 290 K down to roughly
 **170 K, or −103 °C** — and the induced stress at that drop is **σ = EαΔT/(1−ν) = 200 × 10⁹ × 12 × 10⁻⁶ ×
-120 / 0.7 = 411 MPa**, which is at yield.** The page's claim is right on the number.**
+120 / 0.7 = 411 MPa**, which is at yield.****
 **And here is the part worth pausing on: the shallowness is what makes it work.** Thermal shock is a
 *gradient* effect. A plate cooled slowly and uniformly does not crack, because there is no differential
 strain; a plate whose outermost skin is dropped a hundred degrees while the interior stays warm is the
-worst case there is. **The same 0.1 mm penetration depth that makes the page's other target response
-implausible is exactly the configuration that maximises the stress in the armour.**
-**One condition attaches and the page satisfies it.** For a thermal shock this severe you need **contact**,
-not airflow: the Biot number for a 5 mm steel plate under the convective coefficient in §1(a) is
+worst case there is. **The same 0.1 mm penetration depth that limits the working against flesh is exactly the configuration that maximises the stress in the armour.**
+**One condition attaches.** For a thermal shock this severe you need **contact**,
+not airflow: the Biot number for a 5 mm steel plate under the sweep's convective coefficient is
 **Bi = hL/k = 69 × 0.005 / 45 = 0.008**, far too low — the steel would simply equalise. **The sweep has to
-touch the plate**, and the page's Trigger is *"A sweeping melee strike, arm or weapon"*. It does.
-**(c) What the arc can actually take out of flesh, and it is not much.** Take the page's own geometry: a
+touch the plate**, and its Trigger is *"A sweeping melee strike, arm or weapon"*. It does.
+**What the arc can actually take out of flesh is not much. Take its geometry:** a
 **two-metre** arc, swept at a tip speed of 30 m/s, so **ω = 15 rad/s** and a 120° sweep takes **0.14 s**,
 with any one point on the target in the cold for perhaps **0.05–0.1 s.**
 Thermal diffusion in soft tissue is the same square-root law that governs the Execution Strike:
@@ -125,30 +114,11 @@ Thermal diffusion in soft tissue is the same square-root law that governs the Ex
 Price it. A target presenting about **0.5 m²** to the arc, cooled 0.12 mm deep, is **6 × 10⁻⁵ m³ ≈ 63 g**
 of tissue, and taking tissue to freezing costs roughly **340 J/g** (sensible heat plus the latent heat of
 its water). **Total: about 21 kilojoules.**
-**The page prices this at *"46 GJ–4 TJ yield, city-block scale"*** (`:39`). **That is between 2 × 10⁶ and
-2 × 10⁸ times what the described heat extraction requires** (`SA-PHYS-WINTER-ARC-YIELD`). The impact half
-of the sweep is a separate matter and the band may be right for it; the page explicitly says *"Heat
-extraction **and** impact force **both** land at Draven's A-Grade Ardency band"*, and for the heat
-extraction that is a claim about a kiloton of refrigeration delivered across four square metres in a
-seventh of a second.
 **(d) Where the accepted heat goes, which no page in this practitioner's file answers.** A sink has two
 ends. This page prices the cold one precisely — *"Mild numbness through his own arms after the strike"*
 (`:44`) — and **numbness at a cooled limb is the correct symptom**: peripheral nerve conduction falls about
 1.5–2 m/s per degree and fails below roughly 7–10 °C, so an arm held as the cold end of a sink reports
 exactly that.
-**But the heat taken out of the target has to arrive somewhere warmer than the arm**, and neither the page
-nor the card nor any register says where. At the modest scale of §1(c) it hardly matters — 21 kJ into a
-100 kg man is **0.06 K.** At the scale the page's Numerical Effect implies, it is not survivable by
-anything. **The system states no rejection path for any Vohrin working**, which is a gap rather than an
-error and it lands on every cold page in the corpus (`SA-GAP-WINTER-HOT-END`).
-**Energy budget, stated.** Extracted from the target: **≈21 kJ** for what a 0.05–0.1 s exposure can reach
-across the arc. Delivered as impact: the page says **46 GJ – 4.184 TJ** and §1(c) says the heat half of
-that claim is out by six to eight orders. Moved by the wake: a **0.45 K** adiabatic drop, negligible, and
-the wake's real contribution is a **7–14×** rise in transfer coefficient. Rejected: unstated
-(`SA-GAP-WINTER-HOT-END`). Where the joules were: the target's. Fault class by `Two Sets of Books` §VII:
-**Field fault** — *"The room could not supply what the working assumed"* — because the page's own stated
-weakness is a room with heat in it: *"A strong heat vector delivered into the arc before it lands unmakes
-the cold faster than Vohrin can hold it there."*
 
 ---
 
@@ -158,22 +128,15 @@ the cold faster than Vohrin can hold it there."*
 *"Steep thermal gradients, combustible atmosphere, geothermal ground"*, suppressed by *"**Thermal
 equilibrium**,** saturated cold**, oxygen-poor air"*.** Limina**, *"**Spirit** primary"*, favoured by
 *"Darkness, silence, Aether-thin ground, ruins"*, suppressed by *"Saturated Aether, crowd density, active
-Domains"* (`wiki/The Magic System/The Eight Families & the Sixty Wellsprings.md`). *"Terrain is not
+Domains"*. *"Terrain is not
 flavour. It is a modifier on η."*
 **Caloria's row is §1 restated as terrain and it is unusually literal here.** *"Steep thermal gradients"*
 is the working's input; *"thermal equilibrium"* is its absence; and *"saturated cold"* is the condition a
 cold practitioner spends his engagement creating. **A Winter Rend used repeatedly in an enclosed space is
 a Winter Rend working toward its own suppression row**, twice over — the room warms as he dumps, and cools
 as he takes, until the gradient he needs is gone from both directions.
-**Wellspring stratum — Vohrin, and it is not in the register.** The page's primary, and the card's
-(*"Vohrin** · Caloria. **The cold law.** Heat's absence, held as a discipline rather than suffered as a
-condition"*, card `:45`), **is not among the sixty. **It appears in canon as a** Titan**
-(`SA-UNATT-VOHRIN`). No Core Law can be quoted, so the card's gloss is all there is — and the gloss is
-doing correct work: *"held as a discipline rather than suffered as a condition"* is precisely the
-statement that cold is not a substance to be emitted but a deficit to be maintained, which is why §1(d)'s
-question exists at all.
-**Wellspring stratum — Tenebra, *The Hidden Shadow*, Limina, Entropy/Void/Mind.** Core Law, verbatim from
-`wiki/The Eight Families & the Sixty Wellsprings/Limina — Entropy, Void and Mind.md`:
+**Wellspring stratum — Vohrin, Caloria, the cold law: heat's absence, held as a discipline rather than suffered as a condition. Vohrin is not among the sixty; it appears as a Titan, and no Core Law can be quoted. "Held as a discipline rather than suffered as a condition" is precisely the statement that cold is not a substance to be emitted but a deficit to be maintained.**
+**Wellspring stratum — Tenebra, *The Hidden Shadow*, Limina, Entropy/Void/Mind.** Core Law:
 > **Analogue** · Signal-to-noise reduction. Absorptive coating and faceted return geometry.
 > **Mechanism** · Something is undetectable when its return falls below the noise floor of whatever is
 > looking, which is achieved by **absorbing incident energy** and by shaping surfaces so the little that
@@ -181,37 +144,22 @@ question exists at all.
 > are not invisible. They are quieter than the background, which is better.
 > **Stat Effect** · Strengthens Dexterity Silence, Harmonics Suppression, Dominion Sense.
 > **Failure** · Aspect dependence.
-**And here the page uses Tenebra to do the opposite of what Tenebra does.** *"The arc lingers a moment as
-pale afterimage, **the Tenebra-thinned residue** of the strike's own path"* (`:41`), and the Mechanism line
-has Tenebra *"rid[ing] the same arc as afterimage — the same signal-to-noise reduction already documented
-on Draven's sheet, applied to the visible strike-path rather than to his own body"* (`:38`). **Tenebra
-reduces return.** An afterimage is return — and a *pale* one is bright return, added signal, the single
-most visible thing that could be left behind by a man whose entire other discipline is not being seen
-(`SA-EM-WINTER-TENEBRA-AFTERIMAGE`).
 **The pale streak is real and it is condensation.** Cooling humid air below its dew point precipitates
 water; below freezing it nucleates ice crystals; and the result is a white trail that hangs and disperses
 — a contrail, or the fog that pours off liquid nitrogen. **A working that drops air temperature sharply
-along a two-metre arc will leave exactly the pale afterimage the page describes, by Vohrin alone, with no
+along a two-metre arc will leave exactly the pale afterimage, by Vohrin alone, with no
 second Wellspring needed.** And the chime is real too: *"a faint chime carries where ice forms and
-fractures in the same instant"* (`:41`) is differential thermal contraction cracking a thin ice layer, and
+fractures in the same instant"* is differential thermal contraction cracking a thin ice layer, and
 it sounds exactly like that.
-**So Tenebra's actual job on this page is the one the Consequence line does not claim**: the same
-signal-reduction that serves the Ambush Art, applied to the approach rather than to the residue. The page
-has the right current doing the wrong thing at the wrong end of the working.
-**The Sub-Stat list is the card's own peaks.** *"Ardency (320, A-Grade), Sub-Stat Ardency-Penetration
-(358)… Vitality-Tolerance"* (`:49`) — both on the card at those numbers, and **both clear their Part Seven
-gates on his declared Body Path **(§4).** This is one of the few pages in the batch with no Path problem
-at all.**
 **Which of the Four Theories.** **Correspondence**, thinly. The working does not bargain, bill or leave a
 mark; it asserts that a line drawn through space can carry a property along it, which is a claim about
 relation rather than about transfer. **Consent Doctrine** runs underneath as the standing enforced
 position.
 **Essence stratum.** Crystal layer: the **Aether Shell**, *"Class III · Resonant. Channels Aether into
 hyper-dense muscular ignition and aggressive kinetic force, **using Frost Essence for systematic
-slowing**"* (card `:34`) — this working is that clause thrown along an arc instead of applied at a point.
+slowing**"* — this working is that clause thrown along an arc instead of applied at a point.
 Developmental Tier **Harmonic** (Stage VI, Part Twenty-One). Tier of Standing **5 · Expert**, η band
-**0.60–0.70** (Part Nineteen as corrected by **R44-4**); card η *"~0.55"* now **0.05 below the
-floor **(`C-062`, not resolved here). Crystal State *"Refined"*.** The invoice:** an arm held at the
+**0.60–0.70** (Part Nineteen). Crystal State ***"Refined"*.** The invoice:** an arm held at the
 cold end of a sink, and a quantity of somebody else's heat with nowhere stated to put it.
 **The lens: *antiperistasis*, and the air that was supposed to push the arrow.** Aristotle, *Physics*
 IV.8 (215a14–19) and *De Caelo* III.2, with *Meteorologica* I.12 behind it. ***Antiperistasis*** is the
@@ -220,7 +168,7 @@ because the surrounding heat drives the cold inward and concentrates it — and 
 figure to motion: a thrown spear keeps going because **the air it displaces rushes round behind it and
 pushes.** The medium closing in the wake does the work.
 **That is Winter Rend's premise stated in the fourth century BC.** The cold does not radiate from the man;
-it is carried in the closure behind a moving edge, and the page's own word for the mechanism is *"the
+it is carried in the closure behind a moving edge, and the working's own word for the mechanism is *"the
 strike's own kinetic wake."* It is also the single most famously wrong thing Aristotle wrote about motion,
 and Buridan took it apart in the fourteenth century with the questions that still finish it: if the air
 pushes from behind, why does sharpening the *rear* of a projectile not help, and why does the same air not
@@ -243,10 +191,6 @@ masters' weapons are the broadest and their masters die closest to the enemy.
 
 #### 3 · Mechanism (the effect)
 
-**The glyph, proposed.** `[Al]` **Edge** (Root · Thalen) for the arc and `[RenB]` **Boundary**
-(Root · Zhaeren) for the thermal condition — both from the thirty mirrored entries, both filings under the
-Index's Standing Note (*"Assignment is decided after the phenomenon, never before, and it is a filing
-decision rather than a generative one"*), neither canon until ruled (`SA-GAP-GLYPH-MIRROR`).
 **What boundary moves.** Not the air and not the target. **The boundary that moves is where the cold end
 of a thermal gradient is permitted to be** — and the novelty of this working, which is the whole of its
 "what nobody knows", is that the permission is granted to **a moving locus rather than to a place.** The
@@ -265,14 +209,13 @@ solid the edge touches, the outer skin goes to the sink's temperature in a hundr
 material a millimetre in does not, and **that differential is the attack**: **σ = EαΔT/(1−ν)**, which for
 steel at a 120 K surface drop is **411 MPa**, at yield (§1b). Armour does not melt, bend or dent. **It
 cracks**, from the surface, in tension, in a plane it was never designed to resist.
-**Against flesh the same operation is much less impressive and the page overclaims it.** √(αt) allows
+**Against flesh the same operation is much less impressive.** √(αt) allows
 **0.12 mm** in the tenth of a second a point spends in the arc, and half a millimetre of frozen skin is a
-serious injury and not a decisive one (§1c).
-**The failure modes.** **Reheating**, the page's own: *"A strong heat vector delivered into the arc before
+serious injury and not a decisive one.
+**The failure modes.** **Reheating:** *"A strong heat vector delivered into the arc before
 it lands unmakes the cold faster than Vohrin can hold it there"* — a gradient attacked from the far end.
-**Insulation**, also the page's, and correct: interpose anything with a low conductivity and the contact
-the thermal shock requires never happens. **Reach**, two metres, which the page names as a counter against
-itself. And **the hot end**, which is §1(d) and which nobody has written down.
+**Insulation:** interpose anything with a low conductivity and the contact
+the thermal shock requires never happens. **Reach**, two metres, a counter against itself.
 **What the target sees and feels.** The sweep arrives with a smell before it arrives with anything else —
 the dry, sharp smell of very cold air, which people describe as clean. Then the arc, drawn in white, and
 the white is not the working; it is the room's own water coming out of solution along the line.
@@ -332,22 +275,6 @@ still contracting underneath it, breaking as fast as it forms.
 
 **Does the physics close against the stratal account?** **One half of this page is the best-observed
 physics in the batch and the other half is unpriced.**
-What closes: the page's own unanswered question has a complete, quantitative, one-line answer — a moving
-cold surface transfers heat seven to fourteen times better than a stationary one, because **h ∝ √v**, and
-that is why the cold rides the wake rather than radiating. Its armour claim is thermal shock, its number
-is **R ≈ 117 K** for steel, the induced stress at that drop is **411 MPa** which is at yield, and the
-condition that makes it work — a very shallow, very steep gradient — is supplied by the same diffusion
-limit that constrains everything else the working does. The Biot number says the sweep has to touch, and
-the page's Trigger says it does. Its stated Limit (insulation) and stated Weakness (heat into the arc) are
-both correct and both attack the right variable. Its pale arc and its chime are condensation and
-contraction cracking, and both are exactly what would be seen and heard. η is 0.05 under band since
-**R44-4** (`C-062`), the Stage is the
-floor, the reach is conservative, and **every Path gate passes** — which, with no Dexterity Sub-Stat
-claimed, makes this the only one of Draven's three pages in this batch with no gate question at all.
-What does not close: the thermal half of the Numerical Effect, by six to eight orders of magnitude —
-**21 kJ of achievable extraction priced at a city block** — and the hot end of a heat sink, which no page
-and no register anywhere in the corpus locates. And the page credits its pale afterimage to the one
-current on its own sheet whose law is the removal of visible return.
 **Conflicts logged from this page:** `SA-PHYS-WINTER-ARC-YIELD`, `SA-EM-WINTER-TENEBRA-AFTERIMAGE`,
 `SA-GAP-WINTER-HOT-END`, `SA-FAIR-WINTER-MILD-COST`, `SA-UNATT-VOHRIN`,
 `SA-CROSS-DRAVEN-CRAFT-SPLIT`, `SA-UNATT-COHERENCE-BAND`, `SA-GAP-EU-FORMULA`,
@@ -366,8 +293,7 @@ current on its own sheet whose law is the removal of visible return.
 | It has a tell | **pass, and it is loud for a cold working** | A white arc hanging in the air, a chime, and the dry smell of very cold air arriving before the strike does. Nothing about this is subtle. |
 | Numbers in band | **mostly pass, one large fail and one recorded conflict** | ✓ 2 m under A-Grade Contact Range. ✗ η 0.55 is 0.05 below the Tier 5 band of 0.60–0.70 as **R44-4** corrected it (`C-062`, not resolved here). ✓ Stage at the floor. ✓ Both Sub-Stats the card's own peaks, both gates clear. ✓ Thermal shock numbers close exactly. ✗ The thermal half of the Numerical Effect is out by 10⁶–10⁸ (`SA-PHYS-WINTER-ARC-YIELD`). |
 
-**The Counterplay routes that work**
-(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+**The Counterplay routes that work**.
 - **Break the Body — "Armour tiers," and it is the whole fight.** *"Padded takes bruising and not gore…
 **Ceramic and shard are sacrificial and fail on the second hit in the same place.**"* Read as a materials
 question, the register is already answering this working: thermal shock is a stiffness-and-expansion
@@ -375,19 +301,19 @@ problem, so **the counter is anything compliant, low-conductivity and low-modulu
 the body.** A padded jack does not crack. Wool, leather and felt have conductivities two orders below
 steel's and cannot sustain the gradient. **The cheapest kit in the register beats the most elegant
 physics on this page.**
-- **Break the Body — "Distance," which the page concedes and the card confirms.** *"**Most practitioners
-are a threat about closing range and are written as though they were not.**"* Two metres, and the card:
+- **Break the Body — "Distance."** *"**Most practitioners
+are a threat about closing range and are written as though they were not.**"* Two metres, and his own Range line:
 *"Range** · Close. Melee and tracking. **He has no answer at distance and has never needed one.**"*
 - **Deny the Field — "Choose the ground by Family," and the working suppresses itself.** Caloria fails in
 *"thermal equilibrium, saturated cold"*, and this technique creates both: every sweep takes heat out of
 the room and puts it back in somewhere, and an enclosed space converges. **He is best in the first
-exchange and worse in every one after it**, in a way the page never states and the coupling table does.
+exchange and worse in every one after it**, as the coupling table shows.
 - **Break the Boundary — "Interrupt the chain," and Law V binds at his Stage.** *"Below Refraction a
 working requires an external anchor: voice, hand, ink or blood… **Break his wrist and a gestured chain is
 finished.**"* Stage VI. The anchor is the arm that draws the arc, and this page — unlike its sister —
 does not say which craft it is using, which is the difference between a wrist and a mouth.
 - **Break the Man — "Read him," and the register names the category.** *"**Self-derived techniques must be
-read live, in the two or three exchanges before they kill you.**"* The page: *"Draven Kael Vorrick,
+read live, in the two or three exchanges before they kill you.**"* Winter Rend is *"Draven Kael Vorrick,
 self-derived during the Vorynn Trials."* And the second clause is the counter: *"**Every thaumaturge has
 a pattern.**"* His is a two-metre arc drawn from a closing approach, and it is visible in the air after
 the first one.

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-817e-a5a3-c7948076832e"
 notion_url: "https://app.notion.com/p/The-Last-Monolith-3d958200eb22817ea5a3c7948076832e"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:20:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # The Last Monolith
@@ -40,7 +40,7 @@ verification: "unverified"
 **Target Response** · Blows that should open Drakvor instead ring off a body that has gone glossy and stone-black, with a low sound closer to a struck mountain than a struck man.
 **Consequence** · An opponent relying on raw blunt damage below the S-Grade ceiling is fighting a wall for as long as the state holds; an opponent who can clear that ceiling, or who reaches for entropy instead of force, is fighting exactly what they were fighting before.
 **Limitation** · Mobility is sacrificed for the density. The state cannot be carried at speed, and Drakvor is aware of this every exchange he holds it.
-**Weakness** · Entropy fields and dissolution-type magics unmake the coagulated coherence directly rather than testing its failure threshold, which routes around the technique's entire premise; Sublimatio-adjacent workings that convert matter to a higher state without an intermediate stage are named on the card as a specific hazard for the same reason.
+**Weakness** · Entropy fields and dissolution-type magics unmake the coagulated coherence directly rather than testing its failure threshold, which routes around the technique's entire premise; Sublimatio-adjacent workings that convert matter to a higher state without an intermediate stage are a specific hazard for the same reason.
 **Cost** · Post-state stiffness and muscle tearing at the moment of release. The body pays on the way out of the state as well as during it.
 **Counterplay** · Any working that dissolves or unwinds structural coherence rather than testing its strength (an Entropy field, a Sublimatio-family effect, corrosion proper) bypasses the hardening instead of being stopped by it.
 
@@ -50,8 +50,8 @@ verification: "unverified"
 **Stage floor** · VIII, Transcendence
 **Grade required** · S-Grade
 **Path gate** · Body (primary), Spirit (secondary, diagnostic layer)
-**Resonant Pair** · None documented.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card gives no teacher or precedent, only Drakvor's own philosophy for the state, "Let the world strike. I remain," kept here as his stated framing. Per the named-inventor rule he is the technique's sole attested author, and nothing about where the state was first tested is recorded. *Unattested in current canon*: Drakvor himself.
+Drakvor's own philosophy for the state is "Let the world strike. I remain." He is the technique's sole known author, and where the state was first tested is not recorded.

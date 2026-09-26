@@ -73,7 +73,7 @@ verification: null
 
 ### VI. Physical Force
 
-**Travel Speed** · A-Grade equivalent. Mach 8 sustained, Mach 15 in bursts. Not his instrument. The threads add lateral coverage that makes raw speed less relevant.
+**Travel Speed** · Immeasurable classification at full expression. At Zenith he does not move through space; in the limit case he exists in all relevant positions simultaneously until he chooses otherwise. Not his instrument. The threads add lateral coverage, so he seldom calls on it.
 **Reaction** · Sub-millisecond via thread architecture. Each head runs its own sensory loop.
 **Striking Power** · EX-Grade equivalent through Domain-assisted mass.
 

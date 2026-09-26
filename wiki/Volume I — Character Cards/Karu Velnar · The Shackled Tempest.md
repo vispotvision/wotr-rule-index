@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-818b-9db0-da90ff2681f1"
 notion_url: "https://app.notion.com/p/Karu-Velnar-The-Shackled-Tempest-3d958200eb22818b9db0da90ff2681f1"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:47:00.000Z"
+last_edited: "2026-09-26T03:46:00.000Z"
 verification: null
 ---
 
@@ -94,7 +94,7 @@ None by charter. A wandering mercenary of Veyran gale-blood, formerly an arena g
 
 **Effect** · A controlled-or-uncontrolled wind-berserking: senses sharpen, pressure sensitivity spikes, and motion prediction runs close to precognitive while rational control bleeds into pure instinct.
 **Cost** · Joint Overpressure. Tendon micro-tears accumulate fast enough that the state cannot be held indefinitely even before the mind starts going.
-**Limit** · Two point two turns, maximum. Past that the Instinct Drift risk of losing rational control outweighs anything the state still offers.
+**Limit** · Two point two turns, 13.2 seconds, maximum. Past that the Instinct Drift risk of losing rational control outweighs anything the state still offers.
 **Counter** · Spirit-based binding magic suppresses the gale-instinct directly; failing that, simply outlasting the two-point-two-turn window turns the state's own cost against him.
 > **What nobody knows.** Whether the Feral Tempest State is Karu's gale-blood surfacing, or something the arena itself trained into him and never told him about.
 

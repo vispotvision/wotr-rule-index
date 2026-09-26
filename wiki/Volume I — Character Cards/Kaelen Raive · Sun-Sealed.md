@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81f8-8266-e6a5711bd552"
 notion_url: "https://app.notion.com/p/Kaelen-Raive-Sun-Sealed-3bd58200eb2281f88266e6a5711bd552"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T03:46:00.000Z"
 verification: null
 ---
 
@@ -12,7 +12,7 @@ verification: null
 
 > *"The light doesn't ask for permission. It simply shows what was always there."*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of the Sun-Seal: *it binds Domains temporarily if invoked at full charge, and binding another practitioner's Domain is not a low-Stage act.*
-> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
+> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 240, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Solar / Gravity / Order"* were not Essence types. **"High Arbiter Selhane"** wants checking against **Selhar**, one of the fourteen Archons — *the names are one letter apart and that is either deliberate or a slip.*
 > **Name collision.** *Volume IV already contains Kaelen Brighthoof, The Horned Hawk.* **Two Kaelens, different surnames, no stated relation.** *Worth confirming as coincidence — they are otherwise nothing alike.*

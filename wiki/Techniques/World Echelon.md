@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81f1-911a-de43b83e9834"
 notion_url: "https://app.notion.com/p/World-Echelon-3d958200eb2281f1911ade43b83e9834"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:21:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:06:00.000Z"
+verification: null
 ---
 
 # World Echelon
@@ -25,7 +25,7 @@ verification: "unverified"
 - **Wellspring** · Judicium (primary); fifty-seven of the Sixty Wellsprings, injured per the Heresiology's Wellspring Injury framework, secondary and unspecified
 - **Family** · Fulguria (Judicium); the injured secondary spans an unspecified majority of the eight Families
 - **Physics Domain** · Electromagnetism, primary
-- **Category** · Concordia (Spirit-Attraction Apex) — the working that aligns an existing field, the local Spirit World, with the caster's own standing Domain into one lasting field, matching the card's own "merges" language exactly
+- **Category** · Concordia (Spirit-Attraction Apex) — the working that aligns an existing field, the local Spirit World, with the caster's own standing Domain into one lasting field
 - **Craft** · Spellcraft
 - **Stage floor** · Stage XIV, Zenith
 - **Grade required** · EX-Grade
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Francis declares the merger of his Tribunal Domain with the ambient Spirit World.
 **Function** · Domain extension, mass control, spirit dominion: converting a shared space into a single court.
 **Mechanism** · The merger behaves like forcing a phase transition across a coupled oscillator network, the Kuramoto model for synchronisation. Judicium reads which beings and Wellsprings in range are out of phase with the court's verdict-rhythm; the Domain then drives the whole field toward one synchronised phase, and what would be ordinary variance in emotion becomes, once everything shares one reference phase, a measurable deviation the court reads as evidence.
-**Numerical Effect** · Five-kilometre radius, as given. Roughly forty seconds sustained (8 turns at 5 seconds per turn).
+**Numerical Effect** · Five-kilometre radius, as given. Forty-eight seconds sustained, eight turns at six seconds each.
 **Target Response** · Anyone caught inside stops experiencing their own emotional state as private; it becomes a synchronised, weighed quantity the court can act on.
 **Consequence** · The synchronisation does not release cleanly, hence the local Principle drift once the working ends; the field takes time to de-phase back to ordinary variance.
 **Limitation** · Cannot stack with Dirge Ascension, as given; two Domain-scale claims this large do not coexist on one Crystal at once.
@@ -49,8 +49,8 @@ verification: "unverified"
 Governing Primary: Dominion (Radius, Sovereignty, Command), primary; Harmonics (Empathy, Suppression), secondary.
 Stage floor: Stage XIV, Zenith.
 Grade required: EX-Grade.
-Path gate: Spirit Path and Fate Path (rough seat, capped at Tier Four, Adept, on formal certification per the Four Paths ruling on rough seats).
-Resonant Pair: None claimed; insufficient Sub-Stat data in the source.
+Path gate: Spirit Path and Fate Path (rough seat, capped at Tier Four, Adept, on formal certification).
+Resonant Pair: None.
 
 ### Origin
 

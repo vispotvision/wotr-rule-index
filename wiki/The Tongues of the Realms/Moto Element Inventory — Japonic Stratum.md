@@ -4,21 +4,14 @@ notion_id: "3db58200-eb22-819b-9173-d6f8397ae38b"
 notion_url: "https://app.notion.com/p/Moto-Element-Inventory-Japonic-Stratum-3db58200eb22819b9173d6f8397ae38b"
 section: "The Tongues of the Realms"
 tags: []
-last_edited: "2026-09-14T01:42:00.000Z"
+last_edited: "2026-09-26T03:56:00.000Z"
 verification: "unverified"
 ---
 
 # Moto Element Inventory — Japonic Stratum
 
-Drafted 2026-09-13 by Claude Code at Isaac's direction and ratified by Isaac the same day, as written, flags kept. Fills the gap left when the
-Polynesian Satulagi/Moto inventory was struck (R21-1, R23-1): Moto naming is Japonic
-(R23-2-JAPONIC_STRATUM) and had no element bank. Same shape as the Yukari inventory
-(R37-2): thirty elements in five categories, two-element compounds, two to four
-syllables, vowel-forward, no clusters (Naming Guide §5.1). Nothing here changes a
-name already on the page.
-**Attested, not coined:** the elements marked *attested* are lifted from names and
-terms already in canon. Every other element and every gloss is **coined** for this
-draft and is Isaac's to strike or rename.
+Moto naming is Japonic, and this is its element bank. Same shape as the Yukari inventory: thirty elements in five categories, two-element compounds, two to four syllables, vowel-forward, no clusters (Naming Guide §5.1). Nothing here changes a name already on the page.
+**Attested, not coined:** the elements marked *attested* are lifted from names and terms already in canon. Every other element and every gloss is **coined**.
 
 ### Slot structure (attested)
 
@@ -31,7 +24,7 @@ that holds the seat, and for a Moto whose Line is not the point of the sentence
 **Kōkan** (the crown, the seat), **Shirogane** (silver: the mint and the assay),
 **Akagane** (copper: the forge), **Kurenai** (crimson hidden in black and ash),
 **Byakuya** (near-white), **Tenrai** (gold, banner-heraldry), **Amagiri** (indigo,
-mist-grey) — from *The Moto Bloodline — Material Culture* and Pack Twenty R20C-6.
+mist-grey) — from *The Moto Bloodline — Material Culture*.
 
 ### The thirty elements
 
@@ -55,16 +48,7 @@ sea: the assay-line's factor at a port); *Amayuki Amagiri Moto* (rain + snow);
 *Sodoku*, *Yukazuri*, *Mizuki*, *Byakuya*, *Kairen*, *Fūkoku*, *Rikudoku* — every
 one of them reads as two of these elements.
 
-### Flagged, not resolved
+### Notes on the bank
 
-1. **Doku, Muken, Bara, Zuri** carry coined glosses on attested elements; if Isaac
-holds a different meaning for any of them, the gloss changes and the element
-stays.
-1. **Tenrai** is both a Line and a house that was massacred (*Tenrai Moto*); the
-inventory keeps Ten and Rai as elements without ruling whether a child may still
-be given a Tenrai-marked name after the massacre.
-1. **Artemis** and **Emira** are attested Moto given names outside this register —
-outliers under R23-5-OUTLIER_DEFINED, not evidence against it.
-1. Whether Kōkan children carry "Kōkan" as a Line name in formal address (the way
-the landless Lines do) or never (because the seat is the name) is not settled
-by any page; the draft omits it, matching every attested Kōkan name.
+1. **Tenrai** is both a Line and a house that was massacred (*Tenrai Moto*); Ten and Rai remain elements of the bank.
+1. **Artemis** and **Emira** are attested Moto given names outside this register — outliers, not evidence against it.

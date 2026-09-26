@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-814c-b9de-e80b157dae4d"
 notion_url: "https://app.notion.com/p/Edictum-Resonantiae-3d958200eb22814cb9dee80b157dae4d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-24T21:44:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Edictum Resonantiae
@@ -69,4 +69,4 @@ verification: "unverified"
 
 #### Origin
 
-The source calls this "the peak of her art," which places it, by the card's own account, as the last and most demanding of the four entries in this batch, built once the other three were already in hand. No date or specific triggering problem is given beyond that. No location is given beyond the Iridescent Archive filing destination, unattested in current canon.
+Edictum Resonantiae is "the peak of her art," the last and most demanding of Serenyra's four Iridescent Archive workings, built once the other three were already in hand.

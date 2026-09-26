@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81dd-9534-ef3bad726248"
 notion_url: "https://app.notion.com/p/Vorynn-Execution-Strike-3d958200eb2281dd9534ef3bad726248"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T18:53:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # Vorynn Execution Strike
@@ -41,8 +41,8 @@ verification: "unverified"
 
 **Trigger** · Bloodbind ignition already running, closing to contact under Tenebra's signal-reduction cover.
 **Function** · Offense / Kinetic Collapse. A single compressed strike that stops the target's momentum rather than merely damaging the target carrying it.
-**Mechanism** · Vohrin's law is heat's absence held as discipline rather than suffered as a condition. The cold is not summoned; it is a controlled, directional heat-sink running through Draven's own ignited musculature. At the instant of contact, that sink pulls thermal energy out of the target's tissue far faster than the tissue's own conduction can redistribute it, and the same ice-lattice-through-tissue mechanism already documented for Vohrin elsewhere in current canon, ordered crystallisation blocking Essence pathways at the wound, locks the local muscle chains and the Essence trying to move through them in the same instant. Cinerion compounds the effect same-Family, densifying the cold past what Vohrin alone would produce.
-**Numerical Effect** · Strike Force is Draven's own attested Ardency 320, A-Grade: 20 to 100 GN peak, 46 GJ to 4.184 TJ yield, city-block scale, with this technique run near the top of that sustainable range rather than an Overchannel spike. The freeze itself holds for 1 to 2 seconds, kept from the card as given.
+**Mechanism** · Vohrin's law is heat's absence held as discipline rather than suffered as a condition. The cold is not summoned; it is a controlled, directional heat-sink running through Draven's own ignited musculature. At the instant of contact, that sink pulls thermal energy out of the target's tissue far faster than the tissue's own conduction can redistribute it, and the same ice-lattice-through-tissue mechanism already documented for Vohrin elsewhere, ordered crystallisation blocking Essence pathways at the wound, locks the local muscle chains and the Essence trying to move through them in the same instant. Cinerion compounds the effect same-Family, densifying the cold past what Vohrin alone would produce.
+**Numerical Effect** · Strike Force is Draven's own Ardency 320, A-Grade: 20 to 100 GN peak, 46 GJ to 4.184 TJ yield, city-block scale, with this technique run near the top of that sustainable range rather than an Overchannel spike. The freeze itself holds for 1 to 2 seconds.
 **Target Response** · Kinetic defences seize rigid rather than absorbing or redirecting the blow; a non-practitioner shows frost on the wound, a practitioner's Essence pathway crystallises at the point of contact.
 **Consequence** · Whatever the target intended to do next does not happen inside the 1-to-2-second lock, which for a hunter closing on a beast at speed is frequently the entire fight.
 **Limitation** · Requires a fault-line the Bloodbind can actually reach. Draven cannot freeze what the ignition never touches, which in practice means the strike must land, not merely threaten to.
@@ -55,11 +55,11 @@ verification: "unverified"
 ### FOW line
 
 **Governing Primary** · Ardency, with Dexterity governing the closing distance.
-**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Silence (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are Draven's own attested Sub-Stat Peaks, not freshly assigned.
+**Governing Sub-Stats** · Ardency Penetration (358), Dexterity Silence (386) and Celerity (344) for the ambush and closing, Vitality Tolerance (400, at ceiling) for what his own body survives while running the ignition. All four are Draven's own Sub-Stat Peaks.
 **Stage floor** · Stage VI, Glory.
 **Grade required** · A-Grade.
 **Path gate** · Body.
-**Resonant Pair** · None documented on Draven's card.
+**Resonant Pair · None.**
 
 ---
 

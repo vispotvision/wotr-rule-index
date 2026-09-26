@@ -2,10 +2,10 @@
 title: "The Disciplines"
 notion_id: "3b158200-eb22-810f-a709-d122245d7ab8"
 notion_url: "https://app.notion.com/p/The-Disciplines-3b158200eb22810fa709d122245d7ab8"
-section: "Disciplines"
-tags: ["Disciplines", "Magic System", "Bloodlines"]
-last_edited: "2026-09-12T20:21:00.000Z"
-verification: "unverified"
+section: "Information not on WIKI"
+tags: []
+last_edited: "2026-09-26T04:56:00.000Z"
+verification: null
 ---
 
 # The Disciplines

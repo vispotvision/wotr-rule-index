@@ -4,7 +4,7 @@ notion_id: "3ba58200-eb22-81bd-b6fd-db49cfd6b314"
 notion_url: "https://app.notion.com/p/Bram-Greymane-The-Ridge-3ba58200eb2281bdb6fddb49cfd6b314"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:04:00.000Z"
+last_edited: "2026-09-26T03:36:00.000Z"
 verification: null
 ---
 
@@ -55,7 +55,7 @@ Then he raised one hand, and the Tenrai line turned and went back over the rise.
 #### The Cost
 
 At the Greymane estate Lilia stitched both cuts while his right hand stayed closed on the shield's rim. She judged that he had chosen to say nothing. Hild Ice sent supplies south with Brida Ashwell, and four words from a girl he had never met: the ridge does not move. They were his own house's words. He took them as the alliance.
-He kept the hate, because it got him up in the mornings and the men watched the man in front. Renard found the rat off a farrier's honest tally book. In the root cellar the farrier, Josse Hillborn, said, "I have not sold you, my lord," and nothing after. Then a letter under the Crown's wax called Bram Shieldwarden, the first time anyone had since the split, and asked for a public and attributable resolution. He had never killed one of his own. Every man he had put down had been marked for him first, by a horn or a banner or the green smoke off the Expanse. He found the shield's elbow strap shortened two fingers' width and restitched in a hand that was not a saddler's. He did not look at Lilia. He tightened the second buckle with his teeth and went toward the cellar stair.
+He kept the hate, because it got him up in the mornings and the men watched the man in front. Renard found the rat off a farrier's honest tally book. In the root cellar the farrier, Josse Hillborn, said, "I have not sold you, my lord," and nothing after. Then a letter under the Crown's wax called Bram Shieldwarden, the first time anyone had since the split, and asked for a public and attributable resolution. He had never killed one of his own. Every man he had put down had been marked for him first, by a horn or a banner or the green smoke off the Mandate. He found the shield's elbow strap shortened two fingers' width and restitched in a hand that was not a saddler's. He did not look at Lilia. He tightened the second buckle with his teeth and went toward the cellar stair.
 On the day of the ninth hour he held a breach at the southern reach, twenty-two feet wide, with three hundred men. At the ninth hour he was still in it, on foot, with a dead horse behind him.
 The year after, Lambert's grain schedule starved the orc host before Bram reached it, and his report read: "There was nothing to fight." When the remnant came north over the Stormfold crossings, he held them four days. On the second a falchion he never saw took the last three fingers of his left hand. He held the shield by the forearm strap to the end.
 In the eighth month a bundle came from Lambert. It held Wren's name among the dead of the Ashgate road, body not recovered, and sixteen depositions from men who had marched sixteen months in a Tenrai column under a Greymane banner. Bram read them behind a shut door for a day and a half. Then he wrote four lines into the Stormfold book with the fingers he had left: "This campaign is dedicated to Wren Greymane, who was called traitor in every village between here and the Stormfold for sixteen months, by me among others." Any man who says the word in his hearing answers to him. The dedication stands before his own name.

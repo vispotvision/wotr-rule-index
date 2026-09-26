@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81b7-bca2-d2f0e17c92af"
 notion_url: "https://app.notion.com/p/Judgment-Manifest-3d958200eb2281b7bca2d2f0e17c92af"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:21:00.000Z"
+last_edited: "2026-09-26T03:45:00.000Z"
 verification: "unverified"
 ---
 
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Francis calls up to three Hermetic Principles at once and gives each a body.
 **Function** · Summon, control, field enforcement: each construct a standing instance of the Principle it carries.
 **Mechanism** · Each construct behaves as a soliton, a self-reinforcing wave that holds its shape by its own nonlinear structure rather than by continuous input from its caster, the way a breather mode in a driven medium persists on its own energy budget once formed. The three-construct ceiling is that budget: the local Aether field can only carry three stable solitons at once at Francis's output before a fourth cannibalises one of the first three.
-**Numerical Effect** · Two-kilometre range, as given. Roughly twenty-five seconds sustained (5 turns at 5 seconds per turn). Each construct's enforcement strike falls in the EX-Grade Strike Force band on the rare occasions Francis pushes one to full output, though the constructs typically fight well under that ceiling to remain standing.
+**Numerical Effect** · Two-kilometre range, as given. Thirty seconds sustained, five turns at six seconds each. Each construct's enforcement strike falls in the EX-Grade Strike Force band on the rare occasions Francis pushes one to full output, though the constructs typically fight well under that ceiling to remain standing.
 **Target Response** · A target inside the field is measured against the Principle the nearest construct carries, and the construct's behaviour changes according to that measurement.
 **Consequence** · The field ends up "layered with law effects": later constructs have to route around the standing rules the earlier ones already imposed, which is why a fourth cannot be added cleanly.
 **Limitation** · The ceiling of three is architectural, not a matter of Francis's control; summoning a fourth collapses something already standing rather than adding to it.

@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81f8-bd12-ec4542c6e77f"
 notion_url: "https://app.notion.com/p/Dreambreaker-Field-The-Shattered-Midnight-3d958200eb2281f8bd12ec4542c6e77f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:25:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Dreambreaker Field · The Shattered Midnight
@@ -36,7 +36,7 @@ verification: "unverified"
 **Trigger** · Declared, claiming a 40-meter radius as a single field.
 **Function** · Overlays dream-logic onto waking physics inside the claimed radius, so the two disagree with each other rather than one replacing the other.
 **Mechanism** · Domain Weaving works by the Attraction Layer claiming a radius and continuing to recognise that claim until it is broken outright, which is why the field holds evenly and fails all at once rather than fraying at the edges. Eidolyn gives the contradiction enough Ardency Density that a curved trajectory or a slowed second is not an illusion inside the field but a locally true fact. Oneirion supplies the dream-logic being overlaid, routing distance and timing through configuration space instead of the room's own geometry. Somnalis keeps the field's contradictions coherent to Aeldoris himself while he holds it, letting him read which adjacent possibility the field is currently enforcing.
-**Numerical Effect** · 40-meter radius (source). Duration approximately 15 seconds per sustained hold (estimate, converted from the source's "3 turns"). Bounded by Stage VII's 475 ceiling, Grade A.
+**Numerical Effect** · 40-meter radius (source). Duration 18 seconds per sustained hold, three turns. Bounded by Stage VII's 475 ceiling, Grade A.
 **Target Response** · Curved attack vectors, irregular time dilation, distorted perception, Essence misalignment for anyone acting inside the field.
 **Consequence** · Nobody inside the radius, allies included, can trust their own aim, their own clock, or their own reading of what a working just cost them.
 **Limitation** · Cannot be laid over an existing Domain, since two claims on the same Layer do not both hold. Loses stability near a Titan, whose presence outweighs the claim entirely.
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction (Band II, Awakened)
 **Grade required** · A-Grade
 **Path gate** · Spirit Path, drift toward Attraction Path
-**Resonant Pair** · None documented in the source.
+**Resonant Pair · None.**
 
 ### Origin
 
-Derived by Aeldoris. The card gives no place or named problem beyond the stated concept: a zone where dream and waking physics collide, producing contradictions in distance, timing and motion. No further history is attested.
+Derived by Aeldoris, from the concept of a zone where dream and waking physics collide, producing contradictions in distance, timing and motion.

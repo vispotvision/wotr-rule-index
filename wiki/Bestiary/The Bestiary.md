@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8107-8b16-e50e291bb8e4"
 notion_url: "https://app.notion.com/p/The-Bestiary-3b158200eb2281078b16e50e291bb8e4"
 section: "Bestiary"
 tags: ["Bestiary", "Reference Table", "Peoples"]
-last_edited: "2026-09-12T16:08:00.000Z"
+last_edited: "2026-09-26T04:15:00.000Z"
 verification: "unverified"
 ---
 
@@ -45,6 +45,8 @@ verification: "unverified"
 | **T8** | Cataclysmic Entity | Hydra · Voidwyrm · Cerberus |
 | **T9** | Apocalyptic Beast | **Leviathan · Lich · Kraken** |
 | **T3–T8** | Variable | **Elemental** — the only entry in the register whose tier is a range rather than a figure, running from a minor natural disturbance to a colossus that reshapes landscape |
+
+**The rung beside the tier.** A Danger Tier is the Commission's rating: what it takes to lawfully engage a creature. The Bestiary ladder in [The Tier Ladders](https://app.notion.com/p/3e758200eb228127a7c2ece5680c1889) reads the same creature by what it can break, from Hearth-pest to Sky-eater, and by what lifts it: reach, persistence and the ground that feeds it. The two often disagree, and the difference is where a hunter finds the answer.
 
 ---
 

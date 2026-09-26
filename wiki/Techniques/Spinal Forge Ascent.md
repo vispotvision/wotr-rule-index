@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8170-897c-e243ebbda780"
 notion_url: "https://app.notion.com/p/Spinal-Forge-Ascent-3d958200eb228170897ce243ebbda780"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:18:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # Spinal Forge Ascent
@@ -54,4 +54,4 @@ verification: "unverified"
 
 ### Origin
 
-No deviser, era, or founding problem is given in the source, beyond the note above on the unrelated card fragment appended after it in the raw export. The source's own Counters & Interactions list (Judicium dampeners, Verdantia stabilization, Titan-forge martial synergy) reads as already-established countermeasures rather than something an opponent worked out live against one caster; per the named-inventor rule that is the signature of a documented technique, not a self-derived one. It is filed as a documented body-Transmutation art of unrecorded, anonymous authorship, taught and studied rather than invented fresh in the scene where it first appears. No deviser's name is invented to fill the gap the card leaves.
+Spinal Forge Ascent is a documented body-Transmutation art of anonymous authorship, taught and studied rather than invented by one caster. Its established countermeasures are Judicium dampeners, Verdantia stabilization, and Titan-forge martial synergy.

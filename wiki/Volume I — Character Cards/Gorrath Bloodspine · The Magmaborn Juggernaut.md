@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8125-b0e6-c71c9f049569"
 notion_url: "https://app.notion.com/p/Gorrath-Bloodspine-The-Magmaborn-Juggernaut-3bd58200eb228125b0e6c71c9f049569"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T03:46:00.000Z"
 verification: null
 ---
 
@@ -134,7 +134,7 @@ Ground inside it takes and keeps heat. Stone remembers being struck. **The Domai
 
 ## X · Open Rulings
 
-- **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 235, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
+- **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 235, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 - **The Titan Urgrados** appears in the legacy sheet as the source of his "Forgebound mutation." **Urgrados is not among the attested Titans.** Struck pending confirmation.
 - **Ilcindor** appears as his campaign theatre. It is one of the entries the Master Material Ledger lists under unresolved provenance and does not appear on any current Accord survey.
 - **"Warforged Orc"** and **"Racial Class: Gorrath strain"** are legacy taxonomy with no current equivalent. Rendered here as clan and strain rather than as a race classification.

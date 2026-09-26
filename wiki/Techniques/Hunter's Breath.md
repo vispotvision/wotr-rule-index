@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8140-b2ba-f1f6825e4ce3"
 notion_url: "https://app.notion.com/p/Hunter-s-Breath-3d958200eb228140b2baf1f6825e4ce3"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T18:53:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Hunter's Breath
@@ -35,8 +35,8 @@ verification: "unverified"
 
 **Trigger** · Draven inhales cold air and holds Tenebra's signal-reduction active through the exhale.
 **Function** · Utility, stealth, anti-detection.
-**Mechanism** · Vohrin is heat's absence held as discipline rather than suffered as condition, per his own sheet. The exhaled mist is an engineered cold front carrying that discipline outward, and its surface is Tenebra-faceted rather than smooth — the same absorptive-coating, faceted-return-geometry principle documented elsewhere in the Limina register — so both his biological heat signature and his Essence signature drop into the mist's own noise floor together, rather than being separately concealed.
-**Numerical Effect** · Outgoing biological and Essence signal within the 15-metre cloud drops an estimated 50–60%, conservative against the wider documented Tenebra range, at Draven's Class III efficiency and A-Grade Dexterity.
+**Mechanism** · Vohrin is heat's absence held as discipline rather than suffered as condition. The exhaled mist is an engineered cold front carrying that discipline outward, and its surface is Tenebra-faceted rather than smooth — the same absorptive-coating, faceted-return-geometry principle documented elsewhere in the Limina register — so both his biological heat signature and his Essence signature drop into the mist's own noise floor together, rather than being separately concealed.
+**Numerical Effect** · Outgoing biological and Essence signal within the 15-metre cloud drops 50–60%, within the wider Tenebra range, at Draven's Class III efficiency and A-Grade Dexterity.
 **Target Response** · Anything reading by scent, heat, or Essence-trace loses the read inside the cloud. Ordinary sight is unaffected.
 **Consequence** · The mist curls low, clinging to the ground; ambient temperature inside it drops sharply.
 **Limitation** · Requires cold air to draw on; it does not work in a warm environment with nothing to pull from.
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · VI, Glory.
 **Grade required** · A-Grade.
 **Path gate** · Body.
-**Resonant Pair** · None documented on Draven's sheet.
+**Resonant Pair · None.**
 
 ### Origin
 
-Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one the card's own philosophy states: a solitary hunter working open, cold ground is found by scent, heat, or Essence trace before he ever closes the range he needs. "Breathe like the winter, and nothing finds you."
+Draven Kael Vorrick, self-derived during the Vorynn Trials. The problem it answers is the one his own philosophy states: a solitary hunter working open, cold ground is found by scent, heat, or Essence trace before he ever closes the range he needs. "Breathe like the winter, and nothing finds you."

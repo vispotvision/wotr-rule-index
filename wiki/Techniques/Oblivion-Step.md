@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8117-b2f8-d2e30dbece9b"
 notion_url: "https://app.notion.com/p/Oblivion-Step-3d958200eb228117b2f8d2e30dbece9b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:25:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Oblivion-Step
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VII, Refraction.
 **Grade required** · A-Grade.
 **Path gate** · Spirit Path.
-**Resonant Pair** · None documented.
+**Resonant Pair · None.**
 
 ### Origin
 
-The card gives no teacher, no precedent and no borrowed lineage for this step; it names only Aeldoris and the line she is said to have coined for it, that the quickest path runs through the moment a person almost fell asleep. Nothing in the source suggests she learned Oblivion-Step from anyone else's Codex entry. Recorded here as self-derived, which means a scene using it for the first time has to show the working in full rather than summarise it, and that anyone who has actually watched her do it once has everything they need to start building a counter.
+Oblivion-Step has no teacher, precedent or borrowed lineage; it belongs to Aeldoris and the line she is said to have coined for it, that the quickest path runs through the moment a person almost fell asleep. It is self-derived, and anyone who has actually watched her do it once has everything they need to start building a counter.

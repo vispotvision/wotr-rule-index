@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-814d-b310-eedb11e1f6f7"
 notion_url: "https://app.notion.com/p/Sigillum-Fixatio-3d958200eb22814db310eedb11e1f6f7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:10:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Sigillum Fixatio
@@ -50,8 +50,8 @@ verification: "unverified"
 **Stage floor** · IV, Flourishing
 **Grade required** · C-Grade
 **Path gate** · None
-**Resonant Pair** · None documented
+**Resonant Pair · None**
 
 ### Origin
 
-Not given by the source. The card carries no named practitioner, no era, and no problem this technique was built to solve; it is entered here as an anonymous Codex technique, and a specific origin is a matter for Isaac to assign if one is wanted.
+An anonymous Codex technique: no named practitioner, era, or originating problem is recorded.

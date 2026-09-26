@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81a4-8688-c39d15abda92"
 notion_url: "https://app.notion.com/p/Liminal-Palace-of-False-Dawn-3d958200eb2281a48688c39d15abda92"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:16:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Liminal Palace of False Dawn
@@ -56,4 +56,4 @@ verification: "unverified"
 
 ### Origin
 
-The card gives no inventor, workshop, or precipitating problem beyond Opalis and the Stage XII requirement. Per the named-inventor rule this is a self-derived technique, to be shown in full rather than summarised the first time someone unfamiliar with it is caught inside. The card's silence on when or why she first built a Palace is preserved as a gap, not invented.
+The Palace is Opalis's own self-derived technique and requires Stage XII; anyone unfamiliar with it meets it in full the first time they are caught inside.

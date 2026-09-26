@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81b3-84a6-d7340d59f343"
 notion_url: "https://app.notion.com/p/Lumen-Dissecans-3d958200eb2281b384a6d7340d59f343"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-24T21:44:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Lumen Dissecans
@@ -69,4 +69,4 @@ verification: "unverified"
 
 #### Origin
 
-The source gives no date or founding problem for Lumen Dissecans beyond Serenyra's own authorship. It reads as a working built for the same analytic practice as her other entries, aimed specifically at active hostile or defensive magic rather than at people. No location is given beyond the Iridescent Archive filing destination, unattested in current canon; Thesauriel, the archive the technique's outcomes feed into, is likewise unattested and kept because the card names it as where the readings go.
+Lumen Dissecans is Serenyra's own, a working built for the same analytic practice as her other entries, aimed specifically at active hostile or defensive magic rather than at people. It is filed in the Iridescent Archive, and its readings feed into Thesauriel.

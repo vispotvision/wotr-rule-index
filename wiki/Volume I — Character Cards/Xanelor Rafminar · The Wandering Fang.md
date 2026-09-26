@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81c7-8415-ef8ab3b0f48a"
 notion_url: "https://app.notion.com/p/Xanelor-Rafminar-The-Wandering-Fang-3bd58200eb2281c78415ef8ab3b0f48a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T03:47:00.000Z"
 verification: null
 ---
 
@@ -128,7 +128,7 @@ verification: null
 
 ## IX · Open Rulings
 
-- **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 265, Coherence Band A, Grade S with late push to SS, ceiling 625, Reflex at ceiling, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
+- **Temperance Stage IX — ratified 2026-09-12.** Ratified as written (Isaac): Level 265, Tier of Standing 6, Master, Grade S with late push to SS, ceiling 625, Reflex at ceiling, η 0.75–0.80, matching the Sixteen Stages entry for Invocation.
 - **Fenriris — struck.** Ruled non-canon and unattested (Isaac, 2026-09-12); the pact-entity is now written as unnamed rather than replaced with a new name.
 - **The Spirit-Fanged Circle — kept, unattested.** Appears only in the legacy sheet and is carried here as unattested (Isaac, 2026-09-12).
 - The legacy sheet's **"Feral Kinship → Glyphic Balance → Spiritbound Sovereignty"** progression was invented and has been removed.

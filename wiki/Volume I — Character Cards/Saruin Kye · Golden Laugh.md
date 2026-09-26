@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-812f-961a-e1b93dd3a626"
 notion_url: "https://app.notion.com/p/Saruin-Kye-Golden-Laugh-3bd58200eb22812f961ae1b93dd3a626"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:36:00.000Z"
+last_edited: "2026-09-26T03:46:00.000Z"
 verification: null
 ---
 
@@ -12,7 +12,7 @@ verification: null
 
 > *"Why walk when the wind will carry you — and why fight when the wind can trip them for you?"*
 > **The card states no Temperance Stage.** **Stage VIII — Transcendence assigned as originated and ratified as written (Isaac, 2026-09-12)**, on the strength of **Laughing Lawbreaker**: *altering cause-and-effect requires Dominion Fate, which is Fate-gated at Stage VII.* **He must be above it.**
-> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 238, Coherence Band B, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
+> **Temperance Stage VIII — ratified 2026-09-12.** Ratified as written (Isaac): Level 238, Tier of Standing 6, Master, Grade S, ceiling 550, η ~0.70, matching the Sixteen Stages entry for Transcendence.
 >
 > *"Wind / Sun / Illusion"* were not Essence types.
 

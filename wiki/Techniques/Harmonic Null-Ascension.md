@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8189-a075-f0ba57eed018"
 notion_url: "https://app.notion.com/p/Harmonic-Null-Ascension-3d958200eb228189a075f0ba57eed018"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:17:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Harmonic Null-Ascension
@@ -36,12 +36,12 @@ verification: "unverified"
 **Trigger** · Opalis brings two fingers, or her staff, to the air and plucks a string that is not there.
 **Function** · Locks onto a target's own structural resonance and forcibly escalates it past what that structure can hold.
 **Mechanism** · The underlying real phenomenon is resonant forcing pushed past a structure's own damping: drive any oscillating system hard enough, at its own natural frequency, and amplitude climbs without bound until something in the structure gives, the same failure mode a bridge or a wineglass shows under sustained resonant forcing. Orrenthal supplies the harmonic law that finds and holds the target's true frequency; Cataclysm and Fractura decide whether the failure resolves as violent over-resolution or as fracture along existing lines; Dissolution supplies the alternative failure of reduction to silence rather than shattering. The tone is inaudible at first because the climb begins below the range anything but the Essence layer can register.
-**Numerical Effect** · Range up to 500 m, line-of-sight, primarily single-target with a secondary 15 m radius dissonance burst on collapse; at the required SSS-Grade the strike sits at the conservative low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield, an estimate chosen per Law Two since the card supplies no force figure. Resolution is instantaneous once frequency-lock completes, with residual dissonance lasting a few seconds.
+**Numerical Effect** · Range up to 500 m, line-of-sight, primarily single-target with a secondary 15 m radius dissonance burst on collapse; at the required SSS-Grade the strike sits at the low end of the benchmark band, on the order of 1 PN peak force and roughly 400 TJ yield. Resolution is instantaneous once frequency-lock completes, with residual dissonance lasting a few seconds.
 **Target Response** · Resonant frequencies inside the target escalate past stability, producing fracturing, implosion or soul-pattern distortion as the structure fails.
 **Consequence** · A silencing collapse sweeps through whatever part of the target failed to match the imposed harmonic, and on total failure the target releases its own shockwave of dissonance outward.
 **Limitation** · Cannot forcibly ascend the harmonic of a being at or above Opalis's own Temperance tier, cannot target something with no structural resonance at all (true void, pure dreamstuff, anti-harmonic fields), and cannot be sustained past a few breaths without the cost escalating sharply.
 **Weakness** · A structure anchored in pure Basilithe resists the collapse through sheer law-stability; an Oneirion-dominant illusion can decouple its own resonance to slip the lock; a true silence field, or an anti-vibrational current such as Verdantia or Cymorath, damps or redirects the tone entirely.
-**Cost** · An estimated 30,000 EU per cast, chosen conservatively against the 8,000 to 45,000 EU range documented elsewhere for a non-sustained Stage XII working; plus the card's own named costs, a brief harmonic rebound into Opalis's own Essence and a doubled, echoing quality to her speech and thought for several minutes after.
+**Cost** · Roughly 30,000 EU per cast, within the 8,000 to 45,000 EU range for a non-sustained Stage XII working; plus a brief harmonic rebound into Opalis's own Essence and a doubled, echoing quality to her speech and thought for several minutes after.
 **Counterplay** · A flat anti-resonance silence field blocks the ascension-tone outright; a target able to split its own resonance across multiple frequencies (a Fractura-dominant being, a dream-form) never lets any single frequency climb past stability.
 
 ### FOW line
@@ -50,8 +50,8 @@ verification: "unverified"
 - **Stage floor** · XII — Emanation
 - **Grade required** · SSS-Grade
 - **Path gate** · Spirit Path
-- **Resonant Pair** · None documented
+- **Resonant Pair · None**
 
 ### Origin
 
-The card names no teacher or precedent; Opalis is the only practitioner it associates with this working. Treated as self-derived under the named-inventor rule: it has no filed counter beyond what an opponent works out live in the exchange, and its first appearance in a scene must be played in full rather than summarized.
+Opalis is the only practitioner of this working, which she devised herself. It has no filed counter beyond what an opponent works out live in the exchange.

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8173-be05-e22b02540adb"
 notion_url: "https://app.notion.com/p/The-Magic-System-3b158200eb228173be05e22b02540adb"
 section: "Magic System"
 tags: ["Magic System", "Reference Table", "Open Rulings"]
-last_edited: "2026-09-23T23:25:00.000Z"
+last_edited: "2026-09-26T04:33:00.000Z"
 verification: "unverified"
 ---
 

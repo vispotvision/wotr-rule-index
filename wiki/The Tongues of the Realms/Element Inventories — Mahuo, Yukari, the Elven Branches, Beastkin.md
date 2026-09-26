@@ -4,13 +4,13 @@ notion_id: "3d958200-eb22-81c1-b796-f6f3757fb7fb"
 notion_url: "https://app.notion.com/p/Element-Inventories-Mahuo-Yukari-the-Elven-Branches-Beastkin-3d958200eb2281c1b796f6f3757fb7fb"
 section: "The Tongues of the Realms"
 tags: []
-last_edited: "2026-09-12T20:23:00.000Z"
+last_edited: "2026-09-26T03:56:00.000Z"
 verification: "unverified"
 ---
 
 # Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin
 
-*Naming Guide Amendment, the four element inventories its own colophon left as gaps. Ratified as written 2026-09-12 (R37-1 to R37-4, superseding R20-CO-REMAINING_GAPS). Read alongside the amendment's Dawi and Moto inventories and the Naming Guide's per-culture registers. Each inventory keeps the format of those two except where the culture's own anchor does not fit it, and every open question is kept as an open question below rather than settled here.*
+Four element inventories — Mahuo, Yukari, the Elven branches, Beastkin. Read alongside the Dawi and Moto inventories and the Naming Guide's per-culture registers. Each inventory keeps the format of those two except where the culture's own anchor does not fit it.
 **A glossary note.** An "element" is a short syllable or root with a fixed meaning, like Latin "-ius" or the "Wolf-" in Wolfgang. A "compound" name is two elements stuck together (Wolf + gang). "Morpheme" means the same thing as "element." A "coda" is whatever sound closes out a syllable (the "-t" in "cat"). None of this needs to be understood to use the inventories themselves.
 
 ### I. Mahuo — Breath, Soul and the Ledger *(Korean stratum)*
@@ -25,7 +25,6 @@ verification: "unverified"
 | **Care & healing** | *Eun* (grace), *Sun* (goodness), *Hwa* (harmony), *Yeon* (bond, compassion), *Bit* (light), *Soo* (water, healing flow) |
 
 **Worked example.** A cohort sharing the generation-syllable *Jin* (truth): elder daughter Jin + Won → **Jinwon** ("the truth of where we come from"); younger son Sae + Jin → **Saejin** ("a fresh truth"). Either could appear as "Jinwon Mahuo" or, in the Kwon cadet branch, "Kwon Saejin."
-> **Open, flagged for Isaac.** Which syllable is generational in the two attested pairs (Ara/Min, Mu/Jin) isn't fixed by canon — left flexible rather than asserted. Also unresolved: whether Kwon is a Mahuo cadet-branch surname or an unrelated clan sharing the register.
 
 ### II. Yukari — Thread, Fate and the Crow *(Japonic stratum)*
 
@@ -40,7 +39,6 @@ Only *Ketsu*, *En*, *Jin*, and *Mu* are canon-attested; every other element is n
 | **Weight & office** | *Kuro* (black, formal-office color), *Nushi* (the one who holds a seat), *Tsugu* (the one who continues a line), *Kari* (a borrowed calling-name), *Imi* (taboo, the withheld true name), *Oku* (the deep name, spoken only at the Telling or at death) |
 
 **Worked example.** Childhood name **Asagetsu** (Asa + Getsu, "dawn-moon"); adult name chosen at the Telling, **Kizuun** (Kizu + Un, "the mark fate leaves"); calling-name **Kizu**; true name "Kizuun Yukari" spoken only in Council, at a Proving, or before Senri's stone; posthumous name **Okuen** (Oku + En, "the bond that goes deep").
-> **Open, flagged for Isaac.** The amendment says Yukari surnames are "compound topographic" (matching Ketsuen's own place-naming), but no source says whether individuals carry a second topographic surname alongside "Yukari" or whether "Yukari" absorbed that function. Left open.
 
 ### III. The Elven Branches — Shared Roots, Branch Affixes
 
@@ -53,7 +51,7 @@ One shared root inventory plus five branch-specific naming rules, rather than fi
 | *vey* | kin |
 | *thaer* | the kept thing, archive |
 | *sylva* | growing ground |
-| *marin* | attested root, meaning not on record — flagged rather than guessed |
+| *marin* | attested root, meaning not on record |
 | *seral* | winter |
 | *lyth* | silence |
 | *dhae* | the dream |
@@ -89,8 +87,6 @@ One shared root inventory plus five branch-specific naming rules, rather than fi
 | **Echo Elves** | *verath* | the term memorized exactly |
 
 **Worked example, showing branch divergence on the same root.** Eressean *Kalenuren* (Kalen, and the assembly stood for it); Varrisak *Kalenieur* (held, self-witnessed by the forest); Drow *Morelsae* (a debt within its term) against *Morello* (a debt in default); Eladrin *Faelo* followed by a measured four-count silence (assent, no spoken suffix needed); Echo Elf *Verath. Zo Verath.* (introduced, then ritually restated).
-> **Open, flagged for Isaac.** (1) *marin* has no gloss anywhere in canon — left unglossed rather than invented.
-> (2) The amendment explicitly warns against "generic fantasy Elf naming... gratuitous apostrophes," but several already-published Volume V/VI Eressean-adjacent characters (Vaelorian Theryn Aerethiel, Argen Vael'thar) lean into exactly that style — this inventory, now adopted, will read differently from names already on the page for some existing characters. Not resolved here.
 
 ### IV. Beastkin — Soul-Names and Name-Keeping
 
@@ -103,13 +99,11 @@ Three linked layers rather than a flat category list, because the amendment's ow
 | **Held-name and Name-Keeping ritual vocabulary** | *Ashe* ("I remain"), *Ndoto* (witness, the one who receives the name), *Fen* (the last thing, what cannot be taken), *Baru* (spoken aloud), *Tolo* (the return, a name given back to a survivor), *Chike* (kept, held safe) |
 
 **Worked example.** A Bearkin child born into safety (**Oda**) charged with steady endurance (**Dorn**) — soul-name **Oda-dorn**, recorded but unused daily; an ordinary use-name serves in public life. Having later lost home, rank, and kin, she performs the Name-Keeping: *"Fen Oda-dorn, Baru"* ("the last thing, Oda-dorn, spoken aloud") before a witness, who answers *"Ashe"* ("I have heard; you remain").
-> **Open, flagged for Isaac.** (1) Name-Keeping is documented specifically for Fox-Spirit/Mishiro; whether the other four lineages actually practice it, or the amendment overreached generalizing it, isn't confirmed — this inventory follows the amendment's own framing rather than override it.
-> (2) "Soul-name by birth circumstance, held name as the last thing" could mean one name under two descriptions, or two distinct names (birth-name plus a separate secret name) — treated as the former; flagged in case the latter was intended.
 
 ### Provenance
 
-**Mahuo.** Grounded in the Mahuo character cards (Kwon Mu-jin, Ara Min Mahuo, Cozbi Mahuo — all three carry a recurring Ledger motif: "the Ledger-Keeper," "The Ledger Nobody Kept," "the Ledger-Prince") and the Ketsuen page (clan seat Sum-gol, "Breath Hollow"; Anima Spirare soul-breath theology). R23-2-KOREAN_STRATUM confirms the structural facts: lineage name, two-syllable given name with a shared generational syllable, a "hollow-seat."
-**Yukari.** Grounded in The Yukari Bloodline (Senri, the Ketsumyōgan, "The Telling" — the name is chosen at a coming-of-age rite; signature imagery of silver-threading-through-dark, still water before a stone hits it, the crow motif) and the Ketsuen page's attested etymology: Ketsuen = Ketsu (thread-bound) + En (connection, bond). The amendment's own text glosses Jinmu = divine + dream. R23-2-JAPONIC_STRATUM confirms full life-stage slots, name-taboo on the living, renaming at promotion, vow or allegiance.
+**Mahuo.** Grounded in the Mahuo character cards (Kwon Mu-jin, Ara Min Mahuo, Cozbi Mahuo — all three carry a recurring Ledger motif: "the Ledger-Keeper," "The Ledger Nobody Kept," "the Ledger-Prince") and the Ketsuen page (clan seat Sum-gol, "Breath Hollow"; Anima Spirare soul-breath theology). The structural facts are settled: lineage name, two-syllable given name with a shared generational syllable, a "hollow-seat."
+**Yukari.** Grounded in The Yukari Bloodline (Senri, the Ketsumyōgan, "The Telling" — the name is chosen at a coming-of-age rite; signature imagery of silver-threading-through-dark, still water before a stone hits it, the crow motif) and the Ketsuen page's attested etymology: Ketsuen = Ketsu (thread-bound) + En (connection, bond). The amendment's own text glosses Jinmu = divine + dream. Full life-stage slots are attested: name-taboo on the living, renaming at promotion, vow or allegiance.
 **The Elven branches.** The best-documented of the four: the Vey-Elarin grammar is already a full set of real roots, particles and affixes, functionally most of an element inventory that had not been formatted as one. The Elven Peoples page confirms five branches, each theologically distinct, and calls for names "recognizably related but structurally different" — exactly what shared roots plus branch-specific affixes deliver.
 **Beastkin.** The Five Beastkin Lineages documents Name-Keeping concretely, but specifically for the Fox-Spirit/Mishiro lineage ("the last thing that cannot be physically removed... speaking one's name aloud in the presence of a witness"), not the other four (Catkin, Lupine, Bearkin, Serpentkin) — the amendment generalizes it to "Beastkin" broadly, and this inventory follows that lead.
-**Format.** Mahuo and Yukari match the amendment's Dawi (30 elements, two-element compounds) and Satulagi/Moto (25 elements, open-syllable) inventories. The elven and Beastkin inventories are restructured where the culture's own anchor does not fit that shape. Drafted 2026-09-12 by a research agent from proposals/element*inventories*draft.md; ratified by Isaac the same day as written, flags included.
+**Format.** Mahuo and Yukari match the amendment's Dawi (30 elements, two-element compounds) and Satulagi/Moto (25 elements, open-syllable) inventories. The elven and Beastkin inventories are restructured where the culture's own anchor does not fit that shape.

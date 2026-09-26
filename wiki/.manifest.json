@@ -93,7 +93,7 @@
   },
   "3d758200-eb22-8125-b9f4-f85adcd2a482": {
     "rel": "Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md",
-    "edited": "2026-09-26T02:15:00.000Z",
+    "edited": "2026-09-26T04:01:00.000Z",
     "title": "VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)"
   },
   "3d758200-eb22-8151-8fc1-ebca5eb525f1": {
@@ -113,7 +113,7 @@
   },
   "3d758200-eb22-816d-8b90-d14e1e94cfd9": {
     "rel": "Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md",
-    "edited": "2026-09-23T22:27:00.000Z",
+    "edited": "2026-09-26T03:50:00.000Z",
     "title": "III. Physical Force (Part Eleven)"
   },
   "3d758200-eb22-8131-b70d-c91722f2d3e4": {
@@ -128,7 +128,7 @@
   },
   "3d758200-eb22-8101-bde2-f8eceeaefc7a": {
     "rel": "The Magic System/Fracture of Worlds — The Living System.md",
-    "edited": "2026-09-26T02:56:00.000Z",
+    "edited": "2026-09-26T04:33:00.000Z",
     "title": "Fracture of Worlds — The Living System"
   },
   "3d558200-eb22-812a-92c0-f639ef17493b": {
@@ -148,7 +148,7 @@
   },
   "3d558200-eb22-813a-9012-d11a05c73af6": {
     "rel": "The Magic System/Counterplay What Beats a Practitioner.md",
-    "edited": "2026-09-10T11:21:00.000Z",
+    "edited": "2026-09-26T03:50:00.000Z",
     "title": "Counterplay: What Beats a Practitioner"
   },
   "3d558200-eb22-815e-85ae-e2819b567320": {
@@ -258,12 +258,14 @@
   "3be58200-eb22-812a-ab29-e5590a909077": {
     "rel": "The Spirit Summoning Arts/The Twelve Stages of Spirit Infusion.md",
     "edited": "2026-08-16T17:47:00.000Z",
-    "title": "The Twelve Stages of Spirit Infusion"
+    "title": "The Twelve Stages of Spirit Infusion",
+    "private": true
   },
   "3be58200-eb22-81ae-b032-e03e5ebba791": {
     "rel": "The Spirit Summoning Arts/The Infinite Summoning Arts.md",
     "edited": "2026-09-11T04:47:00.000Z",
-    "title": "The Infinite Summoning Arts"
+    "title": "The Infinite Summoning Arts",
+    "private": true
   },
   "3bd58200-eb22-8154-89a8-f9d5ecb39e91": {
     "rel": "Volume I — Character Cards/Cyrille Lacrim · The Flood-Bell.md",
@@ -386,7 +388,7 @@
   },
   "3bd58200-eb22-81e6-8d9e-c08cf323219f": {
     "rel": "Volume I — Character Cards/Aurevian Lysanthir · Voice Between Wars.md",
-    "edited": "2026-09-24T21:36:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Aurevian Lysanthir · Voice Between Wars",
     "private": true
   },
@@ -404,13 +406,13 @@
   },
   "3bd58200-eb22-812f-961a-e1b93dd3a626": {
     "rel": "Volume I — Character Cards/Saruin Kye · Golden Laugh.md",
-    "edited": "2026-09-24T21:36:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Saruin Kye · Golden Laugh",
     "private": true
   },
   "3bd58200-eb22-81f8-8266-e6a5711bd552": {
     "rel": "Volume I — Character Cards/Kaelen Raive · Sun-Sealed.md",
-    "edited": "2026-09-24T21:36:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Kaelen Raive · Sun-Sealed",
     "private": true
   },
@@ -806,7 +808,7 @@
   },
   "3bd58200-eb22-81ee-a948-eb614a1f280a": {
     "rel": "Volume I — Character Cards/Juno Petros Marien · Praefect of the Outer Colonies.md",
-    "edited": "2026-09-24T21:42:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Juno Petros Marien · Praefect of the Outer Colonies",
     "private": true
   },
@@ -920,13 +922,13 @@
   },
   "3bd58200-eb22-8125-b0e6-c71c9f049569": {
     "rel": "Volume I — Character Cards/Gorrath Bloodspine · The Magmaborn Juggernaut.md",
-    "edited": "2026-09-24T21:50:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Gorrath Bloodspine · The Magmaborn Juggernaut",
     "private": true
   },
   "3bd58200-eb22-81c7-8415-ef8ab3b0f48a": {
     "rel": "Volume I — Character Cards/Xanelor Rafminar · The Wandering Fang.md",
-    "edited": "2026-09-24T21:50:00.000Z",
+    "edited": "2026-09-26T03:47:00.000Z",
     "title": "Xanelor Rafminar · The Wandering Fang",
     "private": true
   },
@@ -944,7 +946,7 @@
   },
   "3bd58200-eb22-81fb-9d4d-cb0ca34046e5": {
     "rel": "Volume I — Character Cards/Iskaron Thalnaris — Bearer of the Fractured Crown.md",
-    "edited": "2026-09-24T21:49:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Iskaron Thalnaris — Bearer of the Fractured Crown",
     "private": true
   },
@@ -1026,7 +1028,7 @@
   },
   "3bc58200-eb22-8183-ac4a-c2cfc0e2fb2c": {
     "rel": "The Inner World — The Northern Shield/The Iron Mandate of Undaar-Keth — The Closed Fist.md",
-    "edited": "2026-09-04T04:43:00.000Z",
+    "edited": "2026-09-26T03:35:00.000Z",
     "title": "The Iron Mandate of Undaar-Keth — The Closed Fist"
   },
   "3bc58200-eb22-8145-b4ee-d5a4fa1ad6bc": {
@@ -1046,7 +1048,7 @@
   },
   "3bc58200-eb22-8140-8205-d05c390faf37": {
     "rel": "The Inner World — The Northern Shield/The Kingdom of Kharven — The Ashen Crown.md",
-    "edited": "2026-09-23T22:25:00.000Z",
+    "edited": "2026-09-26T03:35:00.000Z",
     "title": "The Kingdom of Kharven — The Ashen Crown"
   },
   "3bc58200-eb22-816d-adac-cdb407408b34": {
@@ -1072,52 +1074,62 @@
   "3bc58200-eb22-8154-84ae-d30384f2f29c": {
     "rel": "The Disciplines/Asami and Gisei — The Two States of the Moto.md",
     "edited": "2026-09-12T20:18:00.000Z",
-    "title": "Asami and Gisei — The Two States of the Moto"
+    "title": "Asami and Gisei — The Two States of the Moto",
+    "private": true
   },
   "3bc58200-eb22-8197-91ec-dcf027e55b16": {
     "rel": "The Disciplines/Solution — The Mind That Solves Itself.md",
     "edited": "2026-08-15T19:25:00.000Z",
-    "title": "Solution — The Mind That Solves Itself"
+    "title": "Solution — The Mind That Solves Itself",
+    "private": true
   },
   "3bc58200-eb22-812d-af21-e114f767d961": {
     "rel": "The Disciplines/Moetana — The Vessel of Life's Essence.md",
     "edited": "2026-08-15T19:24:00.000Z",
-    "title": "Moetana — The Vessel of Life's Essence"
+    "title": "Moetana — The Vessel of Life's Essence",
+    "private": true
   },
   "3bc58200-eb22-81fb-8b71-e5beb48191e6": {
     "rel": "The Disciplines/The Iron Bison — A Discipline of Internal Resonance.md",
     "edited": "2026-09-12T17:03:00.000Z",
-    "title": "The Iron Bison — A Discipline of Internal Resonance"
+    "title": "The Iron Bison — A Discipline of Internal Resonance",
+    "private": true
   },
   "3bc58200-eb22-816f-8261-d15af9f6bf0c": {
     "rel": "The Disciplines/Recarvu — The Body That Builds Over What It Cannot Fix.md",
     "edited": "2026-08-15T19:24:00.000Z",
-    "title": "Recarvu — The Body That Builds Over What It Cannot Fix"
+    "title": "Recarvu — The Body That Builds Over What It Cannot Fix",
+    "private": true
   },
   "3bc58200-eb22-81c1-8272-d0f117d56c5c": {
     "rel": "The Disciplines/Rusashin — The Dust That Remembers What It Touched.md",
     "edited": "2026-09-12T17:04:00.000Z",
-    "title": "Rusashin — The Dust That Remembers What It Touched"
+    "title": "Rusashin — The Dust That Remembers What It Touched",
+    "private": true
   },
   "3bc58200-eb22-815c-954f-e6dd10ef0b7c": {
     "rel": "The Disciplines/Talos — The Bronze That Empties the Room.md",
     "edited": "2026-08-15T19:24:00.000Z",
-    "title": "Talos — The Bronze That Empties the Room"
+    "title": "Talos — The Bronze That Empties the Room",
+    "private": true
   },
   "3bc58200-eb22-81ac-8c73-d85875585c93": {
     "rel": "The Disciplines/Nadi — The Art of Doing More Than Once.md",
     "edited": "2026-08-15T19:24:00.000Z",
-    "title": "Nadi — The Art of Doing More Than Once"
+    "title": "Nadi — The Art of Doing More Than Once",
+    "private": true
   },
   "3bc58200-eb22-81cf-a998-ce07923d93c2": {
     "rel": "The Disciplines/Ken — The Fist That Fights the Architecture.md",
     "edited": "2026-09-12T17:04:00.000Z",
-    "title": "Ken — The Fist That Fights the Architecture"
+    "title": "Ken — The Fist That Fights the Architecture",
+    "private": true
   },
   "3bc58200-eb22-81d8-8938-dba04d309c81": {
     "rel": "The Disciplines/Ainigma — The Riddle Wearing a Face.md",
     "edited": "2026-08-14T21:46:00.000Z",
-    "title": "Ainigma — The Riddle Wearing a Face"
+    "title": "Ainigma — The Riddle Wearing a Face",
+    "private": true
   },
   "3ba58200-eb22-81c2-9db0-e155860d0caa": {
     "rel": "Sodoku Moto/Tōga (冬牙) — Winter Fang.md",
@@ -1193,7 +1205,7 @@
   },
   "3ba58200-eb22-81bd-b6fd-db49cfd6b314": {
     "rel": "Volume I — Character Cards/Bram Greymane — The Ridge.md",
-    "edited": "2026-09-24T21:04:00.000Z",
+    "edited": "2026-09-26T03:36:00.000Z",
     "title": "Bram Greymane — The Ridge",
     "private": true
   },
@@ -1359,7 +1371,7 @@
   },
   "3b258200-eb22-813a-96bd-f14ad18385f4": {
     "rel": "Volume I — Character Cards/Niran Yukari.md",
-    "edited": "2026-09-25T20:46:00.000Z",
+    "edited": "2026-09-26T03:22:00.000Z",
     "title": "Niran Yukari",
     "private": true
   },
@@ -1503,7 +1515,7 @@
   },
   "3b158200-eb22-8107-8b16-e50e291bb8e4": {
     "rel": "Bestiary/The Bestiary.md",
-    "edited": "2026-09-12T16:08:00.000Z",
+    "edited": "2026-09-26T04:15:00.000Z",
     "title": "The Bestiary"
   },
   "3b158200-eb22-8102-8a3b-d0038249a5a7": {
@@ -1526,7 +1538,7 @@
   },
   "3b158200-eb22-81fc-b90e-fa46bf52d929": {
     "rel": "Volume I — Character Cards/Vethraun Ashmaw.md",
-    "edited": "2026-09-26T01:36:00.000Z",
+    "edited": "2026-09-26T03:22:00.000Z",
     "title": "Vethraun Ashmaw",
     "private": true
   },
@@ -1829,61 +1841,72 @@
   "3b158200-eb22-81a2-b8b0-d25b6aa62c92": {
     "rel": "The Disciplines/The Open Crucible — Kwon Mu-jin's Book of Summons.md",
     "edited": "2026-08-03T18:40:00.000Z",
-    "title": "The Open Crucible — Kwon Mu-jin's Book of Summons"
+    "title": "The Open Crucible — Kwon Mu-jin's Book of Summons",
+    "private": true
   },
   "3b158200-eb22-81b2-9c76-dd02faf2f0bd": {
     "rel": "The Disciplines/Matla.md",
     "edited": "2026-09-12T20:21:00.000Z",
-    "title": "Matla"
+    "title": "Matla",
+    "private": true
   },
   "3b158200-eb22-815e-8fe9-fb1a81cf3572": {
     "rel": "The Disciplines/The Ketsumyōgan — The Binding Fate Eye.md",
     "edited": "2026-08-03T18:59:00.000Z",
-    "title": "The Ketsumyōgan — The Binding Fate Eye"
+    "title": "The Ketsumyōgan — The Binding Fate Eye",
+    "private": true
   },
   "3b158200-eb22-81c3-a942-e7f2e6ae29b5": {
     "rel": "The Disciplines/Kami no Kobushi — The God Fist.md",
     "edited": "2026-09-10T11:16:00.000Z",
-    "title": "Kami no Kobushi — The God Fist"
+    "title": "Kami no Kobushi — The God Fist",
+    "private": true
   },
   "3b158200-eb22-8181-8403-e3416fd5a83a": {
     "rel": "The Disciplines/The Spirit Summoning Arts.md",
     "edited": "2026-09-12T16:59:00.000Z",
-    "title": "The Spirit Summoning Arts"
+    "title": "The Spirit Summoning Arts",
+    "private": true
   },
   "3b158200-eb22-81db-9020-dc71b4a83e00": {
     "rel": "The Disciplines/The Harmonic Arts.md",
-    "edited": "2026-08-03T04:43:00.000Z",
-    "title": "The Harmonic Arts"
+    "edited": "2026-09-26T03:50:00.000Z",
+    "title": "The Harmonic Arts",
+    "private": true
   },
   "3b158200-eb22-8125-b16f-c6df559055a5": {
     "rel": "The Disciplines/The Spirit Rune Arts.md",
     "edited": "2026-08-03T04:42:00.000Z",
-    "title": "The Spirit Rune Arts"
+    "title": "The Spirit Rune Arts",
+    "private": true
   },
   "3b158200-eb22-8174-ad37-d0a4cf2dd7c4": {
     "rel": "The Disciplines/The Sage Arts.md",
     "edited": "2026-08-03T04:42:00.000Z",
-    "title": "The Sage Arts"
+    "title": "The Sage Arts",
+    "private": true
   },
   "3b158200-eb22-81eb-9d79-eade4ec8fd73": {
     "rel": "Hataraki — The Works of the Plane of Fate/Hataraki no Sho — The Martial Application of the Works.md",
     "edited": "2026-09-12T05:41:00.000Z",
-    "title": "Hataraki no Sho — The Martial Application of the Works"
+    "title": "Hataraki no Sho — The Martial Application of the Works",
+    "private": true
   },
   "3b158200-eb22-818b-856c-f6bf976d6d54": {
     "rel": "The Disciplines/Hataraki — The Works of the Plane of Fate.md",
     "edited": "2026-09-10T11:16:00.000Z",
-    "title": "Hataraki — The Works of the Plane of Fate"
+    "title": "Hataraki — The Works of the Plane of Fate",
+    "private": true
   },
   "3b158200-eb22-810f-a709-d122245d7ab8": {
-    "rel": "Disciplines/The Disciplines.md",
-    "edited": "2026-09-12T20:21:00.000Z",
-    "title": "The Disciplines"
+    "rel": "Information not on WIKI/The Disciplines.md",
+    "edited": "2026-09-26T04:56:00.000Z",
+    "title": "The Disciplines",
+    "private": true
   },
   "3b158200-eb22-8183-817e-cc1a61adee53": {
     "rel": "The Magic System/The Core Vocabulary.md",
-    "edited": "2026-09-26T03:15:00.000Z",
+    "edited": "2026-09-26T03:50:00.000Z",
     "title": "The Core Vocabulary"
   },
   "3b158200-eb22-8197-9345-cf955fc00b7d": {
@@ -1928,7 +1951,7 @@
   },
   "3b158200-eb22-814d-9056-edb0fc9827f2": {
     "rel": "The Magic System/The Eight Families & the Sixty Wellsprings.md",
-    "edited": "2026-09-12T20:06:00.000Z",
+    "edited": "2026-09-26T03:50:00.000Z",
     "title": "The Eight Families & the Sixty Wellsprings"
   },
   "3b158200-eb22-8185-abf4-c695877be12b": {
@@ -1943,7 +1966,7 @@
   },
   "3b158200-eb22-8173-be05-e22b02540adb": {
     "rel": "Magic System/The Magic System.md",
-    "edited": "2026-09-23T23:25:00.000Z",
+    "edited": "2026-09-26T04:33:00.000Z",
     "title": "The Magic System"
   },
   "3b158200-eb22-81b9-b0a5-df28f3676efe": {
@@ -1973,7 +1996,7 @@
   },
   "3b158200-eb22-818f-80cc-dbf06e137994": {
     "rel": "Cosmology & Metaphysics/The Veil.md",
-    "edited": "2026-09-26T03:00:00.000Z",
+    "edited": "2026-09-26T05:02:00.000Z",
     "title": "The Veil"
   },
   "3b158200-eb22-812f-a3b9-d313fe5b3c77": {
@@ -2174,378 +2197,453 @@
   },
   "3d958200-eb22-8136-b58e-ea901d51622f": {
     "rel": "Spellcraft/Antinomy.md",
-    "edited": "2026-09-26T03:07:00.000Z",
-    "title": "Antinomy"
+    "edited": "2026-09-26T04:40:00.000Z",
+    "title": "Antinomy",
+    "private": true
   },
   "3d958200-eb22-8148-99a9-f28585bfdd47": {
     "rel": "Spellcraft/Kurotana.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Kurotana"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Kurotana",
+    "private": true
   },
   "3d958200-eb22-81e6-ae29-d981794b4d2d": {
     "rel": "Spellcraft/The Iron Tree.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "The Iron Tree"
+    "edited": "2026-09-26T03:49:00.000Z",
+    "title": "The Iron Tree",
+    "private": true
   },
   "3d958200-eb22-8118-966f-fa511f1cb4da": {
     "rel": "Spellcraft/Saba no Rosa.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Saba no Rosa"
+    "edited": "2026-09-26T04:49:00.000Z",
+    "title": "Saba no Rosa",
+    "private": true
   },
   "3d958200-eb22-8185-a08e-c5f442a6b44d": {
     "rel": "Spellcraft/Mugen no Hatsurugi.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Mugen no Hatsurugi"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Mugen no Hatsurugi",
+    "private": true
   },
   "3d958200-eb22-81ef-8559-fd7d18e69603": {
     "rel": "Spellcraft/Kami no Kobushi.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Kami no Kobushi"
+    "edited": "2026-09-26T04:44:00.000Z",
+    "title": "Kami no Kobushi",
+    "private": true
   },
   "3d958200-eb22-81be-833b-e6e1cf0d7a59": {
     "rel": "Spellcraft/Fallacy.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Fallacy"
+    "edited": "2026-09-26T05:29:00.000Z",
+    "title": "Fallacy",
+    "private": true
   },
   "3d958200-eb22-8183-abd6-fdc925a2cc91": {
     "rel": "Spellcraft/Imprinta.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Imprinta"
+    "edited": "2026-09-26T05:01:00.000Z",
+    "title": "Imprinta",
+    "private": true
   },
   "3d958200-eb22-81ff-9df5-c5bed5594085": {
     "rel": "Spellcraft/Edictum.md",
-    "edited": "2026-09-26T02:58:00.000Z",
-    "title": "Edictum"
+    "edited": "2026-09-26T05:01:00.000Z",
+    "title": "Edictum",
+    "private": true
   },
   "3d958200-eb22-8182-a765-f92086554f5f": {
     "rel": "Spellcraft/Oathrend.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Oathrend"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Oathrend",
+    "private": true
   },
   "3d958200-eb22-814b-b06d-c80ca11e279c": {
     "rel": "Spellcraft/Scission.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Scission"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Scission",
+    "private": true
   },
   "3d958200-eb22-81fc-9495-e4c845906130": {
     "rel": "Spellcraft/Anointing.md",
-    "edited": "2026-09-26T03:06:00.000Z",
-    "title": "Anointing"
+    "edited": "2026-09-26T05:01:00.000Z",
+    "title": "Anointing",
+    "private": true
   },
   "3d958200-eb22-81ca-9c1f-da432e6fcefb": {
     "rel": "Spellcraft/Transposition.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Transposition"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Transposition",
+    "private": true
   },
   "3d958200-eb22-8108-b1ff-ef07ba4fb3d5": {
     "rel": "Spellcraft/Vainglory.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Vainglory"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Vainglory",
+    "private": true
   },
   "3d958200-eb22-81d6-89ef-cd479f1a3251": {
     "rel": "Spellcraft/Invert Eidolon.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Invert Eidolon"
+    "edited": "2026-09-26T05:01:00.000Z",
+    "title": "Invert Eidolon",
+    "private": true
   },
   "3d958200-eb22-81ed-8d47-f2f491c36eb9": {
     "rel": "Spellcraft/The Veil.md",
     "edited": "2026-09-15T22:09:00.000Z",
-    "title": "The Veil"
+    "title": "The Veil",
+    "private": true
   },
   "3d958200-eb22-814f-82a4-d18146936d4e": {
     "rel": "Spellcraft/Thaumic Harmonics.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Thaumic Harmonics"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Thaumic Harmonics",
+    "private": true
   },
   "3d958200-eb22-8121-8dd7-e9a3f7ddb270": {
     "rel": "Spellcraft/Anima Harmonics.md",
-    "edited": "2026-09-26T03:04:00.000Z",
-    "title": "Anima Harmonics"
+    "edited": "2026-09-26T05:01:00.000Z",
+    "title": "Anima Harmonics",
+    "private": true
   },
   "3d958200-eb22-810a-a09e-e6558a18f7ba": {
     "rel": "Spellcraft/Resonant Divination.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Resonant Divination"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Resonant Divination",
+    "private": true
   },
   "3d958200-eb22-8117-b2f8-d2e30dbece9b": {
     "rel": "Techniques/Oblivion-Step.md",
-    "edited": "2026-09-12T16:25:00.000Z",
-    "title": "Oblivion-Step"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Oblivion-Step",
+    "private": true
   },
   "3d958200-eb22-81f8-bd12-ec4542c6e77f": {
     "rel": "Techniques/Dreambreaker Field · The Shattered Midnight.md",
-    "edited": "2026-09-12T16:25:00.000Z",
-    "title": "Dreambreaker Field · The Shattered Midnight"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Dreambreaker Field · The Shattered Midnight",
+    "private": true
   },
   "3d958200-eb22-8109-9163-e91f77df7df9": {
     "rel": "Techniques/Oneiron Parasite · Nightmare Warden.md",
-    "edited": "2026-09-12T16:25:00.000Z",
-    "title": "Oneiron Parasite · Nightmare Warden"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Oneiron Parasite · Nightmare Warden",
+    "private": true
   },
   "3d958200-eb22-811f-a838-fde4b94c787b": {
     "rel": "Techniques/Letheveil Memory-Quake.md",
-    "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Letheveil Memory-Quake"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Letheveil Memory-Quake",
+    "private": true
   },
   "3d958200-eb22-813c-a4f1-dd986f62009c": {
     "rel": "Techniques/Puppet-Dream Marionette.md",
-    "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Puppet-Dream Marionette"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Puppet-Dream Marionette",
+    "private": true
   },
   "3d958200-eb22-81a5-b868-ec33d20c359f": {
     "rel": "Techniques/Hypnather Descent Rite.md",
-    "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Hypnather Descent Rite"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Hypnather Descent Rite",
+    "private": true
   },
   "3d958200-eb22-81e6-a929-d85f73e699ed": {
     "rel": "Techniques/Eidolyn Falseface Lattice.md",
-    "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Eidolyn Falseface Lattice"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Eidolyn Falseface Lattice",
+    "private": true
   },
   "3d958200-eb22-8169-a195-db9497b2c710": {
     "rel": "Techniques/Oneiron Phantasm Court.md",
-    "edited": "2026-09-12T16:24:00.000Z",
-    "title": "Oneiron Phantasm Court"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Oneiron Phantasm Court",
+    "private": true
   },
   "3d958200-eb22-81fd-bd46-fa749d2b18eb": {
     "rel": "Techniques/Tenebra Ambush Art.md",
-    "edited": "2026-09-12T16:23:00.000Z",
-    "title": "Tenebra Ambush Art"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "Tenebra Ambush Art",
+    "private": true
   },
   "3d958200-eb22-813d-b297-f3b326e2d610": {
     "rel": "Techniques/Winter Rend.md",
-    "edited": "2026-09-26T02:58:00.000Z",
-    "title": "Winter Rend"
+    "edited": "2026-09-26T05:06:00.000Z",
+    "title": "Winter Rend",
+    "private": true
   },
   "3d958200-eb22-8147-872c-e7d3e512c5e3": {
     "rel": "Techniques/Bloodbind Surge.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Bloodbind Surge"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Bloodbind Surge",
+    "private": true
   },
   "3d958200-eb22-8140-b2ba-f1f6825e4ce3": {
     "rel": "Techniques/Hunter's Breath.md",
-    "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Hunter's Breath"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Hunter's Breath",
+    "private": true
   },
   "3d958200-eb22-8154-87fc-c4ac3a251383": {
     "rel": "Techniques/Ashfang Mark Invocation.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Ashfang Mark Invocation"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Ashfang Mark Invocation",
+    "private": true
   },
   "3d958200-eb22-8102-9bae-d74bd110cc8b": {
     "rel": "Techniques/Maw of Crystalline Stasis.md",
-    "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Maw of Crystalline Stasis"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Maw of Crystalline Stasis",
+    "private": true
   },
   "3d958200-eb22-81dd-9534-ef3bad726248": {
     "rel": "Techniques/Vorynn Execution Strike.md",
-    "edited": "2026-09-12T18:53:00.000Z",
-    "title": "Vorynn Execution Strike"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "Vorynn Execution Strike",
+    "private": true
   },
   "3d958200-eb22-81c1-9825-cb96466d2933": {
     "rel": "Techniques/Final Mercy.md",
-    "edited": "2026-09-12T16:22:00.000Z",
-    "title": "Final Mercy"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Final Mercy",
+    "private": true
   },
   "3d958200-eb22-8186-8bad-f6ce4a3ae0b4": {
     "rel": "Techniques/The Principle Engine.md",
-    "edited": "2026-09-12T16:22:00.000Z",
-    "title": "The Principle Engine"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "The Principle Engine",
+    "private": true
   },
   "3d958200-eb22-8124-90c3-dd04d9100d99": {
     "rel": "Techniques/Dirge Ascension.md",
-    "edited": "2026-09-26T03:01:00.000Z",
-    "title": "Dirge Ascension"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Dirge Ascension",
+    "private": true
   },
   "3d958200-eb22-81f1-911a-de43b83e9834": {
     "rel": "Techniques/World Echelon.md",
-    "edited": "2026-09-12T16:21:00.000Z",
-    "title": "World Echelon"
+    "edited": "2026-09-26T05:06:00.000Z",
+    "title": "World Echelon",
+    "private": true
   },
   "3d958200-eb22-81b7-bca2-d2f0e17c92af": {
     "rel": "Techniques/Judgment Manifest.md",
-    "edited": "2026-09-12T16:21:00.000Z",
-    "title": "Judgment Manifest"
+    "edited": "2026-09-26T03:45:00.000Z",
+    "title": "Judgment Manifest",
+    "private": true
   },
   "3d958200-eb22-812f-8204-e60adb869ede": {
     "rel": "Techniques/Principle Overwrite.md",
-    "edited": "2026-09-12T16:21:00.000Z",
-    "title": "Principle Overwrite"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Principle Overwrite",
+    "private": true
   },
   "3d958200-eb22-8180-b4fd-dfe37b06f820": {
     "rel": "Techniques/Crimson Dirge.md",
-    "edited": "2026-09-26T03:01:00.000Z",
-    "title": "Crimson Dirge"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Crimson Dirge",
+    "private": true
   },
   "3d958200-eb22-817e-a5a3-c7948076832e": {
     "rel": "Techniques/The Last Monolith.md",
-    "edited": "2026-09-12T16:20:00.000Z",
-    "title": "The Last Monolith"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "The Last Monolith",
+    "private": true
   },
   "3d958200-eb22-8108-86fc-f1857a895f37": {
     "rel": "Techniques/Sovereign's Reprisal.md",
-    "edited": "2026-09-12T16:20:00.000Z",
-    "title": "Sovereign's Reprisal"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Sovereign's Reprisal",
+    "private": true
   },
   "3d958200-eb22-814e-9def-f18652d7fcf4": {
     "rel": "Techniques/Coagula Dominion.md",
-    "edited": "2026-09-26T03:01:00.000Z",
-    "title": "Coagula Dominion"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Coagula Dominion",
+    "private": true
   },
   "3d958200-eb22-814e-a4f8-d6c1dc848b7d": {
     "rel": "Techniques/Edict Strike.md",
-    "edited": "2026-09-12T16:19:00.000Z",
-    "title": "Edict Strike"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Edict Strike",
+    "private": true
   },
   "3d958200-eb22-817f-b32a-d49477acb8ea": {
     "rel": "Techniques/Bastion Imperium.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Bastion Imperium"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Bastion Imperium",
+    "private": true
   },
   "3d958200-eb22-81cc-af99-e25ba35b60b0": {
     "rel": "Techniques/Pyrewind Breaker.md",
-    "edited": "2026-09-12T16:19:00.000Z",
-    "title": "Pyrewind Breaker"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Pyrewind Breaker",
+    "private": true
   },
   "3d958200-eb22-8185-a46f-d4940823d98f": {
     "rel": "Techniques/Seraphic Thread Blessing.md",
-    "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Seraphic Thread Blessing"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Seraphic Thread Blessing",
+    "private": true
   },
   "3d958200-eb22-8170-897c-e243ebbda780": {
     "rel": "Techniques/Spinal Forge Ascent.md",
-    "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Spinal Forge Ascent"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "Spinal Forge Ascent",
+    "private": true
   },
   "3d958200-eb22-81af-84e9-fb872eeab366": {
     "rel": "Techniques/Mireglass Suffusion.md",
-    "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Mireglass Suffusion"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Mireglass Suffusion",
+    "private": true
   },
   "3d958200-eb22-810f-92de-d6240970e084": {
     "rel": "Techniques/Nightglass Seal.md",
-    "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Nightglass Seal"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Nightglass Seal",
+    "private": true
   },
   "3d958200-eb22-814b-89ed-f38910961f7a": {
     "rel": "Techniques/Veil of Verdant Pact.md",
-    "edited": "2026-09-12T16:18:00.000Z",
-    "title": "Veil of Verdant Pact"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "Veil of Verdant Pact",
+    "private": true
   },
   "3d958200-eb22-8197-b8ca-c830003386ea": {
     "rel": "Techniques/The Aether Bastion.md",
-    "edited": "2026-09-12T16:17:00.000Z",
-    "title": "The Aether Bastion"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "The Aether Bastion",
+    "private": true
   },
   "3d958200-eb22-8147-9361-c569a4d14649": {
     "rel": "Techniques/Celestial Harmonic Shear.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Celestial Harmonic Shear"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Celestial Harmonic Shear",
+    "private": true
   },
   "3d958200-eb22-8189-a075-f0ba57eed018": {
     "rel": "Techniques/Harmonic Null-Ascension.md",
-    "edited": "2026-09-12T16:17:00.000Z",
-    "title": "Harmonic Null-Ascension"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Harmonic Null-Ascension",
+    "private": true
   },
   "3d958200-eb22-811b-ac95-da20426ddaf7": {
     "rel": "Techniques/Sovereign Parallax Lance.md",
-    "edited": "2026-09-12T16:16:00.000Z",
-    "title": "Sovereign Parallax Lance"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Sovereign Parallax Lance",
+    "private": true
   },
   "3d958200-eb22-81a4-8688-c39d15abda92": {
     "rel": "Techniques/Liminal Palace of False Dawn.md",
-    "edited": "2026-09-12T16:16:00.000Z",
-    "title": "Liminal Palace of False Dawn"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Liminal Palace of False Dawn",
+    "private": true
   },
   "3d958200-eb22-8137-90e5-fc53d6a06e7c": {
     "rel": "Techniques/Auric Parallax Veil.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Auric Parallax Veil"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Auric Parallax Veil",
+    "private": true
   },
   "3d958200-eb22-8197-be75-f5a6d190046f": {
     "rel": "Techniques/Celestial Decree Aeon-Shard Mandate.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Celestial Decree: Aeon-Shard Mandate"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Celestial Decree: Aeon-Shard Mandate",
+    "private": true
   },
   "3d958200-eb22-81da-b877-e45d75dc3806": {
     "rel": "Techniques/Obelisk of the Eclipsed Dawn.md",
-    "edited": "2026-09-12T16:15:00.000Z",
-    "title": "Obelisk of the Eclipsed Dawn"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Obelisk of the Eclipsed Dawn",
+    "private": true
   },
   "3d958200-eb22-814c-b9de-e80b157dae4d": {
     "rel": "Techniques/Edictum Resonantiae.md",
-    "edited": "2026-09-24T21:44:00.000Z",
-    "title": "Edictum Resonantiae"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Edictum Resonantiae",
+    "private": true
   },
   "3d958200-eb22-815a-9afd-e2b49fb02068": {
     "rel": "Techniques/Somnium Scriptorium.md",
-    "edited": "2026-09-24T21:44:00.000Z",
-    "title": "Somnium Scriptorium"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Somnium Scriptorium",
+    "private": true
   },
   "3d958200-eb22-81b3-84a6-d7340d59f343": {
     "rel": "Techniques/Lumen Dissecans.md",
-    "edited": "2026-09-24T21:44:00.000Z",
-    "title": "Lumen Dissecans"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Lumen Dissecans",
+    "private": true
   },
   "3d958200-eb22-81bb-9794-c67b2dc67b6c": {
     "rel": "Techniques/Speculum Harmoniae.md",
-    "edited": "2026-09-24T21:45:00.000Z",
-    "title": "Speculum Harmoniae"
+    "edited": "2026-09-26T05:05:00.000Z",
+    "title": "Speculum Harmoniae",
+    "private": true
   },
   "3d958200-eb22-811f-aa49-d23d8865efbd": {
     "rel": "Techniques/Florwyn's Canticle.md",
-    "edited": "2026-09-12T16:13:00.000Z",
-    "title": "Florwyn's Canticle"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Florwyn's Canticle",
+    "private": true
   },
   "3d958200-eb22-81be-bb9a-f4663804c972": {
     "rel": "Techniques/Corona Lunaris.md",
-    "edited": "2026-09-26T03:01:00.000Z",
-    "title": "Corona Lunaris"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Corona Lunaris",
+    "private": true
   },
   "3d958200-eb22-81aa-9827-c4c6043b24aa": {
     "rel": "Techniques/Archivium Locus.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Archivium Locus"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Archivium Locus",
+    "private": true
   },
   "3d958200-eb22-816c-a3da-c74479614ac9": {
     "rel": "Techniques/Chorda Somnii.md",
-    "edited": "2026-09-26T03:00:00.000Z",
-    "title": "Chorda Somnii"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Chorda Somnii",
+    "private": true
   },
   "3d958200-eb22-817d-99e8-e4c9a28e2e0d": {
     "rel": "Techniques/Symphonia Ascendant.md",
     "edited": "2026-09-12T16:12:00.000Z",
-    "title": "Symphonia Ascendant"
+    "title": "Symphonia Ascendant",
+    "private": true
   },
   "3d958200-eb22-81b9-9e88-e851542e031d": {
     "rel": "Techniques/Speculum Recordatio.md",
     "edited": "2026-09-12T16:11:00.000Z",
-    "title": "Speculum Recordatio"
+    "title": "Speculum Recordatio",
+    "private": true
   },
   "3d958200-eb22-814b-88b9-e2274801acc1": {
     "rel": "Techniques/Radiant Ribbon Shell.md",
     "edited": "2026-09-12T16:11:00.000Z",
-    "title": "Radiant Ribbon Shell"
+    "title": "Radiant Ribbon Shell",
+    "private": true
   },
   "3d958200-eb22-8157-98b1-fb5719377286": {
     "rel": "Techniques/Cryost Ascendant.md",
-    "edited": "2026-09-26T03:01:00.000Z",
-    "title": "Cryost Ascendant"
+    "edited": "2026-09-26T05:03:00.000Z",
+    "title": "Cryost Ascendant",
+    "private": true
   },
   "3d958200-eb22-8133-aca1-ebf28c4b27b7": {
     "rel": "Techniques/Solarbound Aegoric Knight.md",
-    "edited": "2026-09-12T16:11:00.000Z",
-    "title": "Solarbound Aegoric Knight"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Solarbound Aegoric Knight",
+    "private": true
   },
   "3d958200-eb22-8136-b434-d020212a01c7": {
     "rel": "Techniques/Fluxus Intervallum.md",
-    "edited": "2026-09-12T16:11:00.000Z",
-    "title": "Fluxus Intervallum"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Fluxus Intervallum",
+    "private": true
   },
   "3d958200-eb22-814d-b310-eedb11e1f6f7": {
     "rel": "Techniques/Sigillum Fixatio.md",
-    "edited": "2026-09-12T16:10:00.000Z",
-    "title": "Sigillum Fixatio"
+    "edited": "2026-09-26T05:04:00.000Z",
+    "title": "Sigillum Fixatio",
+    "private": true
   },
   "3d958200-eb22-8135-aecf-cee1b6c2cd65": {
     "rel": "Information not on WIKI/Artifacts.md",
@@ -2555,13 +2653,15 @@
   },
   "3d958200-eb22-819d-8948-f9263917090f": {
     "rel": "The Disciplines/Spellcraft.md",
-    "edited": "2026-09-14T02:10:00.000Z",
-    "title": "Spellcraft"
+    "edited": "2026-09-26T04:34:00.000Z",
+    "title": "Spellcraft",
+    "private": true
   },
   "3d958200-eb22-810c-bdd0-ff9ddaed93cc": {
     "rel": "The Disciplines/Techniques.md",
     "edited": "2026-09-12T16:07:00.000Z",
-    "title": "Techniques"
+    "title": "Techniques",
+    "private": true
   },
   "3d958200-eb22-8148-8bce-f6ee6755cd0b": {
     "rel": "Volume I — Character Cards/Azran Nemeir · The Gilded Draft.md",
@@ -2619,7 +2719,7 @@
   },
   "3d958200-eb22-81bf-ba0e-ddd24f133029": {
     "rel": "Volume I — Character Cards/Vael of Nothing · The Devourer's Index.md",
-    "edited": "2026-09-26T01:37:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Vael of Nothing · The Devourer's Index",
     "private": true
   },
@@ -2847,7 +2947,7 @@
   },
   "3d958200-eb22-818b-9db0-da90ff2681f1": {
     "rel": "Volume I — Character Cards/Karu Velnar · The Shackled Tempest.md",
-    "edited": "2026-09-24T21:47:00.000Z",
+    "edited": "2026-09-26T03:46:00.000Z",
     "title": "Karu Velnar · The Shackled Tempest",
     "private": true
   },
@@ -3139,7 +3239,7 @@
   },
   "3d958200-eb22-81c1-b796-f6f3757fb7fb": {
     "rel": "The Tongues of the Realms/Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin.md",
-    "edited": "2026-09-12T20:23:00.000Z",
+    "edited": "2026-09-26T03:56:00.000Z",
     "title": "Element Inventories — Mahuo, Yukari, the Elven Branches, Beastkin"
   },
   "3d958200-eb22-8194-b37e-f545cd2129dd": {
@@ -3149,7 +3249,7 @@
   },
   "3d958200-eb22-80a4-b8f3-cc2c16241f7d": {
     "rel": "Misc/Information not on WIKI.md",
-    "edited": "2026-09-23T23:47:00.000Z",
+    "edited": "2026-09-26T04:56:00.000Z",
     "title": "Information not on WIKI",
     "private": true
   },
@@ -3190,18 +3290,19 @@
   },
   "3db58200-eb22-8163-aece-ffa4a7d82ad0": {
     "rel": "The Tongues of the Realms/The Celestial Host — Naming.md",
-    "edited": "2026-09-14T01:42:00.000Z",
+    "edited": "2026-09-26T03:56:00.000Z",
     "title": "The Celestial Host — Naming"
   },
   "3db58200-eb22-819b-9173-d6f8397ae38b": {
     "rel": "The Tongues of the Realms/Moto Element Inventory — Japonic Stratum.md",
-    "edited": "2026-09-14T01:42:00.000Z",
+    "edited": "2026-09-26T03:56:00.000Z",
     "title": "Moto Element Inventory — Japonic Stratum"
   },
   "3db58200-eb22-813c-9f35-dc4735b78c66": {
     "rel": "Spellcraft/Precept.md",
-    "edited": "2026-09-26T02:59:00.000Z",
-    "title": "Precept"
+    "edited": "2026-09-26T05:02:00.000Z",
+    "title": "Precept",
+    "private": true
   },
   "3db58200-eb22-8171-9521-d895c1fe2e67": {
     "rel": "Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md",
@@ -3365,7 +3466,7 @@
   },
   "3e358200-eb22-8116-9454-faa55bc0126a": {
     "rel": "The Table — Running Pieces/State of Play — Kwon Mu-jin Aetherion Academy.md",
-    "edited": "2026-09-22T15:08:00.000Z",
+    "edited": "2026-09-26T03:56:00.000Z",
     "title": "State of Play — Kwon Mu-jin / Aetherion Academy",
     "private": true
   },
@@ -3639,7 +3740,12 @@
   },
   "3e758200-eb22-81d4-9e1d-f161b3ed583a": {
     "rel": "Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md",
-    "edited": "2026-09-26T03:15:00.000Z",
+    "edited": "2026-09-26T04:33:00.000Z",
     "title": "IX. The Essence Ledger (Part Twenty-Three)"
+  },
+  "3e758200-eb22-8127-a7c2-ece5680c1889": {
+    "rel": "Fracture of Worlds — The Living System/X. The Tier Ladders (Part Twenty-Four).md",
+    "edited": "2026-09-26T04:20:00.000Z",
+    "title": "X. The Tier Ladders (Part Twenty-Four)"
   }
 }

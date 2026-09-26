@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-814e-a4f8-d6c1dc848b7d"
 notion_url: "https://app.notion.com/p/Edict-Strike-3d958200eb22814ea4f8d6c1dc848b7d"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:19:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:03:00.000Z"
+verification: null
 ---
 
 # Edict Strike
@@ -46,8 +46,8 @@ verification: "unverified"
 
 ### FOW line
 
-Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis, with Resilience Integrity and Tempering Coherence carried in from Coagula for the strike's gathered weight, and Ardency Flux as the delivery stat for the raw force of the blow itself. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Path gate Body. Resonant Pair: none documented.
+Governing Primary: Gnosis, off Judicium's own Gnosis Acuity and Gnosis Analysis, with Resilience Integrity and Tempering Coherence carried in from Coagula for the strike's gathered weight, and Ardency Flux as the delivery stat for the raw force of the blow itself. Stage floor Stage VIII, Transcendence. Grade required S-Grade. Path gate Body. Resonant Pair: none.
 
 ### Origin
 
-Drakvor derived this himself, the same signature pairing as Bastion Imperium; no location or date is given. "Uncertainty is the softest armour" is the doctrine the card gives for it, and per the named-inventor rule it is read live in the exchanges rather than only summarised.
+Drakvor derived this himself, the same signature pairing as Bastion Imperium. "Uncertainty is the softest armour" is its doctrine, and as a self-derived technique it is met live, in the exchanges that use it.

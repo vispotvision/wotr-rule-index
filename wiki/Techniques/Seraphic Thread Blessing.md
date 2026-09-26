@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-8185-a46f-d4940823d98f"
 notion_url: "https://app.notion.com/p/Seraphic-Thread-Blessing-3d958200eb228185a46fd4940823d98f"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:18:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:04:00.000Z"
+verification: null
 ---
 
 # Seraphic Thread Blessing
@@ -46,8 +46,8 @@ verification: "unverified"
 
 ### FOW line
 
-Governing Primary: Harmonics, off Benediction's own strengthened line (Harmonics Empathy, Harmonics Axis), with Resilience Oath carried alongside for the bond's structural weight and Luminalis's Gnosis Perception lending the working its diagnostic accuracy. Stage floor Stage V, Splintering. Grade required B-Grade. Path gate Spirit and Fate. Resonant Pair: none documented.
+Governing Primary: Harmonics, off Benediction's own strengthened line (Harmonics Empathy, Harmonics Axis), with Resilience Oath carried alongside for the bond's structural weight and Luminalis's Gnosis Perception lending the working its diagnostic accuracy. Stage floor Stage V, Splintering. Grade required B-Grade. Path gate Spirit and Fate. Resonant Pair: none.
 
 ### Origin
 
-Not named in the source card. No inventor, house or period is given, so this stands as a generic Codex entry rather than one character's signature technique until Isaac attaches an origin to it.
+No inventor, house or period is recorded; it stands as a general Codex technique rather than one character's signature.

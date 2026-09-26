@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81fd-bd46-fa749d2b18eb"
 notion_url: "https://app.notion.com/p/Tenebra-Ambush-Art-3d958200eb2281fdbd46fa749d2b18eb"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:23:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T05:05:00.000Z"
+verification: null
 ---
 
 # Tenebra Ambush Art
@@ -51,8 +51,8 @@ verification: "unverified"
 **Stage floor** · Stage VI, Glory
 **Grade required** · A-Grade
 **Path gate** · Body
-**Resonant Pair** · None documented on Draven's sheet.
+**Resonant Pair · None.**
 
 ### Origin
 
-Draven derived this himself, out of the same self-imposed trials of endurance and predatory pressure that carried him to Stage VI. The card gives no named teacher and no dated incident, only that it exists because a hunter of high-tier Wellspring-mutated beasts needed to close distance on something that could sense a straightforward approach long before he arrived. Nothing further about when or where he first used it is given, and nothing further is claimed here.
+Draven derived this himself, out of the same self-imposed trials of endurance and predatory pressure that carried him to Stage VI. It exists because a hunter of high-tier Wellspring-mutated beasts needed to close distance on something that could sense a straightforward approach long before he arrived.

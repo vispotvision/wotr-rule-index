@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-654 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+655 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -61,10 +61,6 @@
 - [The Three Epochs](Cosmology%20&%20Metaphysics/The%20Three%20Epochs.md)
 - [The Veil](Cosmology%20&%20Metaphysics/The%20Veil.md)
 
-## Disciplines (1)
-
-- [The Disciplines](Disciplines/The%20Disciplines.md)
-
 ## Factions (1)
 
 - [Factions, Bloodlines & Institutions](Factions/Factions,%20Bloodlines%20&%20Institutions.md)
@@ -83,7 +79,7 @@
 - [The Ten Great Houses of Drakyssia](Factions,%20Bloodlines%20&%20Institutions/The%20Ten%20Great%20Houses%20of%20Drakyssia.md)
 - [The Void Vanguard](Factions,%20Bloodlines%20&%20Institutions/The%20Void%20Vanguard.md)
 
-## Fracture of Worlds — The Living System (9)
+## Fracture of Worlds — The Living System (10)
 
 - [I. Levels, Experience and Stat Points (Parts One–Three)](Fracture%20of%20Worlds%20—%20The%20Living%20System/I.%20Levels,%20Experience%20and%20Stat%20Points%20(Parts%20One–Three).md)
 - [II. Grades, Gates and Thresholds (Parts Four–Ten)](Fracture%20of%20Worlds%20—%20The%20Living%20System/II.%20Grades,%20Gates%20and%20Thresholds%20(Parts%20Four–Ten).md)
@@ -94,6 +90,7 @@
 - [VI. The Sixteen Temperance Stages (Part Sixteen)](Fracture%20of%20Worlds%20—%20The%20Living%20System/VI.%20The%20Sixteen%20Temperance%20Stages%20(Part%20Sixteen).md)
 - [VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)](Fracture%20of%20Worlds%20—%20The%20Living%20System/VII.%20Aether%20Class,%20Essence%20Typology,%20Aether%20Flow%20(Parts%20Seventeen–Nineteen).md)
 - [VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)](Fracture%20of%20Worlds%20—%20The%20Living%20System/VIII.%20Traits,%20Soul%20Crystal%20Tiers,%20Domains%20(Parts%20Twenty–Twenty-Two).md)
+- [X. The Tier Ladders (Part Twenty-Four)](Fracture%20of%20Worlds%20—%20The%20Living%20System/X.%20The%20Tier%20Ladders%20(Part%20Twenty-Four).md)
 
 ## Geography (1)
 
@@ -117,12 +114,13 @@
 - [The Zettari–Mahou Accord](In-World%20Documents%20&%20the%20Narrative%20Archive/The%20Zettari–Mahou%20Accord.md)
 - [To Ara Min Mahuo](In-World%20Documents%20&%20the%20Narrative%20Archive/To%20Ara%20Min%20Mahuo.md)
 
-## Information not on WIKI (4)
+## Information not on WIKI (5)
 
 - [Artifacts](Information%20not%20on%20WIKI/Artifacts.md)
 - [Characters](Information%20not%20on%20WIKI/Characters.md)
 - [In-World Documents & the Narrative Archive](Information%20not%20on%20WIKI/In-World%20Documents%20&%20the%20Narrative%20Archive.md)
 - [Pack Twenty — The Clearance](Information%20not%20on%20WIKI/Pack%20Twenty%20—%20The%20Clearance.md)
+- [The Disciplines](Information%20not%20on%20WIKI/The%20Disciplines.md)
 
 ## Lore & History (2)
 

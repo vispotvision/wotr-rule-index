@@ -74,12 +74,13 @@ with fit and wear, distinguishing marks; then a want and an unswappable voice.
 
 ## Register
 
-Modern words and frames are legal everywhere (Pack Fifteen). The only test is
-whether one specific word breaks belief in the world; if so, one note, draft
-untouched. Never flag "reads modern." Voice differentiation is the surviving
-law: if two characters' lines could swap unnoticed, the scene failed.
+Modern words in speech only; narration and documents stay timeless, and the
+checker's modern-word list catches slang in narration (R48-13, R49-44, R51).
+Voice differentiation is the surviving law: if two characters' lines could swap
+unnoticed, the scene failed; voices are mind and sound in equal measure (R52-02).
 
-Humour passes the funeral test or it is cut. Sodoku does not make jokes.
+Humour wherever earned; comic voices may be openly funny, with no
+setup-deadpan-reaction beat (R49-38). Sodoku jokes only by accident (R52-14).
 
 ## Naming
 

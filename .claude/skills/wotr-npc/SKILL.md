@@ -54,4 +54,4 @@ never stated; shown in what they do with their hands.
 ## Voice warmup
 
 Before the paragraph, write one throwaway line in their voice and discard
-it. Then write. A minor NPC is funny only if the funeral test passes.
+it. Then write. A minor NPC may be a comic voice from the start, with no setup-deadpan-reaction beat (R52-31). Each NPC voice starts from a researched real-world speaker type, credited in the notes (R52-29).

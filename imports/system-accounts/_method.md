@@ -52,7 +52,7 @@ Part Twenty-One.
 
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing | η | Developmental Tier |
 |---|---|---|---|---|---|---|
-| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.60–0.70 (**R44-4**, whole-row scope ruled at **R44-7**) | Harmonic |
+| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.50–0.60 *(unruled — see `C-063`)* | Harmonic |
 | VI | Glory | A | 400 | 5 · Expert | 0.60–0.70 (**R44-4**) | Harmonic |
 | VII | Refraction | A (stops at 400) | 475; 401–475 under strain | 5 · Expert | 0.60–0.70 (**R44-4**) | Resonant |
 | VIII | Transcendence | S | 550 | 6 · Master | 0.70–0.80 | Radiant |
@@ -68,22 +68,16 @@ R44-4 has closed it** (`RULINGS.md`:704–716, 2026-09-25): *"Part Seventeen
 governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is
 corrected to match."* The Stage VI and VII rows above are corrected accordingly
 and every account in this batch that reads them has been corrected with them.
-**Stage V is corrected with them too**, under **R44-7** (`C-063`, agent ruling,
-2026-09-25): the row R44-4 edits spans "V–VII Splintering to Refraction" with one
-η cell and Part Nineteen's table has no sub-row for a single Stage, so the
-correction R44-4 names reaches the whole row and the cell reads 0.60–0.70 at
-every Stage the row spans. **Four accounts read that cell at Stage V and all four
-are corrected**: the three wholly Stage V accounts under `Techniques/` (Fluxus
-Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact) and `Spellcraft/`
-Transposition, a Stage VII account with a stated Stage V variant. R44-5 still lets
-any character's card state an η of its own, and `C-062`'s ruling (agent ruling,
-2026-09-25, WAR-132) carried that sentence past the three cards R44-5 names, so a
-Stage V card that states a figure of its own and now sits under the corrected band
-is governed by its card. A card that states no figure of its own and cites the Tier
-table's instead is reached by neither, and the two such cards are recorded at
-`C-071`. No card was edited, here or by R44-7.
-The boxed note on the source page itself is left exactly as written, which R44-4
-says to do, so the mirror still reads the conflict as open.
+**Stage V is not**: the row R44-4 edits spans "V–VII Splintering to Refraction"
+with one η cell, while the sentence it rules names Stage VI–VII only, so the
+four accounts that read that cell at Stage V keep 0.50–0.60 until that is ruled
+— `C-063`. Those four are the three wholly Stage V accounts under `Techniques/`
+(Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact) and
+`Spellcraft/` Transposition, whose stated Stage V variant reads the same cell;
+the fourth was linked to C-063 after it was filed, which is why the row's own
+count of three is short. The boxed
+note on the source page itself is left exactly as written, which R44-4 says to
+do, so the mirror still reads the conflict as open.
 
 ## III · The resource system
 

@@ -340,11 +340,9 @@ neither can drop.
 (`SA-GAP-TRANSPOSITION-NO-CARD`). At the **Stage VII** floor the Tier of Standing is
 **5 · Expert**, η **0.60–0.70** under **R44-4** (`RULINGS.md` 2026-09-25): **30 to 40
 percent** of the expenditure leaves as heat, sound and structural bleed. At the page's
-**Stage V** variant the Tier is also **5** and η reads the same **0.60–0.70**: the row
-R44-4 edits spans V–VII with a single η cell, and **R44-7** (agent ruling, 2026-09-25,
-closing `C-063`) holds that the correction reaches every Stage that row spans, Stage V
-included. **Both of the page's Stages therefore bleed 30 to 40 percent**, and the
-variant is no cheaper than the floor. The expenditure being unstated, both bleeds are unstated
+**Stage V** variant the Tier is also **5** and η reads **0.50–0.60**, which R44-4 does
+not reach — the ruling names Stage VI–VII and the row it edits spans V–VII, so Stage V
+stands unruled at `C-063`. The expenditure being unstated, both bleeds are unstated
 with it; what can be said is that the working's *standing* draw is the coupling rather
 than the effect, and a rite whose boundary condition is a tuning is intrinsically
 cheap in a way the page never claims credit for.
@@ -359,9 +357,9 @@ cheap in a way the page never claims credit for.
 | Material cost | **one Anchor Construct, placed permanently** | Page: the rite *"is dangerous to attempt without"* one; Fixatio's Failure makes its placement irreversible — *"a permanent feature of whatever it was placed on."* A stated cost in kind and the only consumable in the entry. |
 | Flux Density · η · AU/s | `null` | No carded practitioner. |
 | η at the Stage VII floor | **0.60–0.70** | Tier 5 · Expert, corrected by **R44-4** (Part Seventeen governs at Stages VI–VII). |
-| η at the Stage V variant | **0.60–0.70** | Tier 5 · Expert (Part Nineteen) — the same corrected cell. R44-4 moves it and **R44-7** reads the correction across the row's whole V–VII span (`C-063` closed). |
+| η at the Stage V variant | **0.50–0.60**, unruled | Tier 5 · Expert (Part Nineteen). R44-4 names Stages VI–VII only; Stage V stands at `C-063`. |
 | Duration | **π / 2κ**, set by the coupling and not by the caster | Derived (§1). The page states no duration and does note the rite can be layered to *"unfold across a delay rather than resolve instantly"*, which is this interval used deliberately. |
-| Efficiency bleed | **30–40 %** at both Stages | 1 − η, one band for the whole Tier 5 row under **R44-7**. Absolute figures `null` with the cost. |
+| Efficiency bleed | **30–40 %** (Stage VII) · **40–50 %** (Stage V) | 1 − η. Absolute figures `null` with the cost. |
 | Minimum Stage | **VII · Refraction**, with a stated **V · Splintering** variant | Page. Max Grade A both, ceiling 475 at VII and 350 at V (Part Five). |
 | Tier of Standing | **5 · Expert** at both | Part Five. |
 | Grade required | **A** (276–400), *"late push toward S"* | Page. |
@@ -439,7 +437,7 @@ effect-versus-mechanism form of the same problem at
 | Stated limits | **pass, and they are the best set in this section** | Range (*"the coupling strength falls off sharply with separation"*), the anchor requirement, two Stage floors for two different uses, a stated capacity requirement at **both** ends, and a named failure taxonomy — Spatial Disjunction and Wellspring Desynchronization. Five limits, all mechanical. |
 | Something beats it | **pass, decisively, and the best counter is free** | Distance. Below. |
 | It has a tell | **pass, and it is bought in advance** | The rite needs a **prepared anchor** at genuine range, which means the object is placed before anybody fights, is a permanent feature of wherever it was placed, and is findable. A working whose tell is an object an opponent can walk up to and examine is as fair as this section gets. |
-| Numbers in band | **partial pass** | Stage VII ⇒ Max Grade A, ceiling 475, Tier 5, η 0.60–0.70 under R44-4 — all consistent, and the *"late push toward S"* is the strain band Part Five permits. The Stage V variant reads the same η under **R44-7** (`C-063` closed), so the two Stages no longer price the same rite differently. Absent: every EU figure. |
+| Numbers in band | **partial pass** | Stage VII ⇒ Max Grade A, ceiling 475, Tier 5, η 0.60–0.70 under R44-4 — all consistent, and the *"late push toward S"* is the strain band Part Five permits. Stage V's η is unruled (`C-063`). Absent: every EU figure. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

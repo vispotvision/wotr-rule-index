@@ -40,10 +40,9 @@ three weeks, and about 80 % of intact skin at a year and never more.** The page'
 **43,200×.**
 
 **(c) The constraint that bites is thermal, and it is small.** `Two Sets of Books` §III makes bleed a
-stated fraction: at Tier 5 efficiency, η 0.60–0.70 (Part Nineteen as corrected by **R44-4** and scoped
-to the whole Tier 5 row by **R44-7**), **thirty to forty percent of every expenditure leaves "as heat,
-sound, and structural bleed."** Put that heat where the working is doing its work — in the wound bed —
-and price it.
+stated fraction: at Tier 5 efficiency, η 0.50–0.60, **forty to fifty percent of every expenditure
+leaves "as heat, sound, and structural bleed."** Put that heat where the working is doing its work —
+in the wound bed — and price it.
 
 - Soft tissue's specific heat is about **3,600 J/(kg·K)**. Twenty grams of wound bed is therefore
   **72 J/K.**
@@ -53,11 +52,11 @@ and price it.
 - **Safe local heat deposition: 72 × 6 ≈ 430 J.** Blood perfusion carries some away, but perfusion in
   a fresh wound bed is precisely what has been interrupted, and six seconds is far shorter than the
   thermal time constant of perfused tissue anyway.
-- At η = 0.65 the bleed is 0.538 J per joule delivered, so **the clean work the working may deliver is
-  capped at about 800 J** before it cooks what it is repairing.
+- At η = 0.55 the bleed is 0.818 J per joule delivered, so **the clean work the working may deliver is
+  capped at about 530 J** before it cooks what it is repairing.
 
-**(d) And 800 J is the page's Limit, with a number on it.** At 180 J per gram of tissue, an 800 J
-ceiling rebuilds **about four grams.** Four grams is a closed laceration, a sealed vessel, a knitted
+**(d) And 530 J is the page's Limit, with a number on it.** At 180 J per gram of tissue, a 530 J
+ceiling rebuilds **about three grams.** Three grams is a closed laceration, a sealed vessel, a knitted
 tendon sheath — and it is nowhere near a severed artery, an avulsed limb, or a fractured Soul Crystal.
 The page says *"Cannot close a fatal wound or a severe fracture in the Soul Crystal itself"* and
 *"Minor Soul Crystal surface damage repairs"*, and the thermodynamics say the same thing in grams.
@@ -138,14 +137,14 @@ record has recorded a structural fact as a temperament.
 - Tissue heat capacity **3,600 J/(kg·K)**; 20 g wound bed = **72 J/K.**
 - Thermal limits: damage above **43 °C**, coagulation at **60 °C**; safe rise **6 K**; **safe
   deposition ≈430 J.**
-- **Clean work available at η 0.65: ≈800 J ⇒ ≈4 g of tissue per cast.**
+- **Clean work available at η 0.55: ≈530 J ⇒ ≈3 g of tissue per cast.**
 - Bond figures: **K_d 10⁻⁹ M ⇒ ≈11 min**; **K_d 10⁻¹⁴ M ⇒ days**; apparent K_d under competition
   **K_d(1 + [I]/K_i).**
 - Optical: NIR window **650–950 nm**, penetration **1–3 cm**; collagen birefringence separates type
   III from type I.
 
 **The energy budget, and where the joules were.** **In the patient.** A human carries a free amino-acid
-pool of order **100 g** and a great deal more in labile protein, and 800 J of synthesis draws on the
+pool of order **100 g** and a great deal more in labile protein, and 530 J of synthesis draws on the
 patient's own ATP turnover, which runs at tens of watts at rest. `Two Sets of Books`: *"a working's
 energy budget balances at the Aether stratum and not at the Essence one. The practitioner does not
 supply the joules. They supply the boundary condition."* Here the boundary condition is **schedule**:
@@ -280,12 +279,12 @@ Luminalis contributes the look: past the visible band, polarisation-gated, readi
 collagen I so the repair is laid along the wound's actual geometry rather than across it — which is
 what *"finds the true shape of the wound before it closes"* means in a microscope.
 
-**And then the bleed arrives, in the same cubic centimetres.** Thirty to forty percent of the
+**And then the bleed arrives, in the same cubic centimetres.** Forty to fifty percent of the
 expenditure leaves as heat (`Two Sets of Books` §III), and it leaves **inside the wound bed**, whose
 perfusion is exactly what the injury interrupted. Seventy-two joules per kelvin. Four hundred and
 thirty joules of headroom before the collagen the working just laid down begins to denature at 43 °C,
 and the working is laying down collagen. **The working's product and the working's waste occupy the
-same volume**, which is the whole reason the ceiling is four grams and the whole reason the page's
+same volume**, which is the whole reason the ceiling is three grams and the whole reason the page's
 "cannot close a fatal wound" is a physical statement rather than a genre convention.
 
 **The failure mode.** Not rupture. **Competitive inhibition**, silent by construction: a rival ligand
@@ -307,7 +306,7 @@ the bleed arrives with the work and the work starts at the deepest point the loo
 eyes, *"warm clarity"*, which is the Axis opening and is felt by both parties. The wound stops hurting
 before it stops being a wound, which is the ordinary consequence of nociceptors in a field that is
 suddenly six degrees warmer. Six seconds. Then the chime is gone, the filament is gone, and what is
-left is four grams of new tissue laid true, a faint scald at the margins if the caster pushed, and a
+left is three grams of new tissue laid true, a faint scald at the margins if the caster pushed, and a
 bond neither party has been told the price of.
 
 ---
@@ -318,13 +317,13 @@ bond neither party has been told the price of.
 |---|---|---|
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Flux Density | `null` | No AU/s figure, no card, no named practitioner. |
-| η | **0.60–0.70** (derived) | Stage V ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen, the Tier 5 row as corrected by **R44-4** and scoped to the whole row by **R44-7**). |
+| η | **0.50–0.60** (derived) | Stage V ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **≈6 s** | Page, "two old-count turns". `SA-GAP-TURN-LENGTH`. |
 | Range | **15 m** | Page. |
-| **Clean work deliverable** | **≈800 J** | 430 J thermal headroom ÷ 0.538 bleed-per-joule at η 0.65. |
-| **Tissue that buys** | **≈4 g** | 800 J ÷ 180 J per wet gram. **The page's stated Limit, in grams.** |
-| Bleed | **30–40 %** | 1 − η, *"as heat, sound, and structural bleed"* (`Two Sets of Books` §III). **Deposited in the wound bed, which is the binding constraint.** |
+| **Clean work deliverable** | **≈530 J** | 430 J thermal headroom ÷ 0.818 bleed-per-joule at η 0.55. |
+| **Tissue that buys** | **≈3 g** | 530 J ÷ 180 J per wet gram. **The page's stated Limit, in grams.** |
+| Bleed | **40–50 %** | 1 − η, *"as heat, sound, and structural bleed"* (`Two Sets of Books` §III). **Deposited in the wound bed, which is the binding constraint.** |
 | Minimum Stage | **V · Splintering** | Page. Max Grade B, allocation stops at 275; 276–350 under strain only (Part Five). |
 | Tier of Standing | **5 · Expert** | Part Five. |
 | Developmental Tier | **Harmonic** | Stage V (Part Twenty-One). |
@@ -364,7 +363,7 @@ that is either an instability-zone Sub-Stat or an E-Grade Primary depending on h
 | Test | Verdict | Why |
 |---|---|---|
 | Costs something that hurts | **FAIL** | *"A mild, lingering emotional drain that fades once the ally's Crystal has stabilised."* Mild, temporary, self-clearing, and unpriced in EU. It is the only cost on the page, it is explicitly the lightest kind, and nothing limits repetition — a caster may bless every wounded man in a company in sequence. **The real costs are available and unused:** the Axis conducts both ways and the register says the bond can be silently outbid, so what the caster is actually spending is a permanent readable relation with a stated affinity. `SA-FAIR-SERAPHIC-MILD-COST`. |
-| Stated limits | **pass, and the physics agrees with them** | 15 m; ≈6 s; *"cannot close a fatal wound or a severe fracture in the Soul Crystal"*; minor surface repair only. The thermal ceiling independently gives four grams per cast. |
+| Stated limits | **pass, and the physics agrees with them** | 15 m; ≈6 s; *"cannot close a fatal wound or a severe fracture in the Soul Crystal"*; minor surface repair only. The thermal ceiling independently gives three grams per cast. |
 | Something beats it | **pass on paper, thin in practice** | Three routes are named — a Limina curse, Oblivara's erasure glyphs, a Limina-aligned ally — and **all three require a practitioner with the right Family.** The mundane route exists and the page does not mention it: below Refraction the chain is external, so a hand over the mouth ends it. The register route the page misses entirely is competitive inhibition. |
 | It has a tell | **pass, and generously** | Declared aloud (so everyone learns which Wellspring was invoked), a visible golden-white filament between two named people, and an audible chime. Three tells, one per sense. |
 | Numbers in band | **FAIL** | The output figure is *"a stat total near 350"*, which is an instability-zone Sub-Stat two brackets above the page's own B requirement, or an E-Grade Primary mean (`SA-NUM-SERAPHIC-350`). **Harmonics Empathy needs Attraction Path** and the page declares Spirit and Fate (`SA-NUM-SERAPHIC-PATHGATE`). Axis and Oath close only because B-Grade does not exceed B — one point of allocation and both fail. |
@@ -420,7 +419,7 @@ become useful. None of them states the answer.
 8. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — **"Interrupt the chain"**,
    **"The vow"**, **"Coherence drift"**, and **"Shielding"** under *What Does Not Work*.
 9. `wiki/Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md`
-   — the η table, from which the bleed fraction and therefore the four-gram ceiling follow.
+   — the η table, from which the bleed fraction and therefore the three-gram ceiling follow.
 
 **Conflicts added by this section:** `SA-FAIR-SERAPHIC-MILD-COST`. The other four checks' failures are
 carried by the rows already listed in §4.

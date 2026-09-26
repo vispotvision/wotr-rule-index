@@ -754,3 +754,69 @@ Context: Paperclip WAR-70, filed from WAR-46's sweep (`reports/eu_band_sweep_202
 WAR-70's set point applies to a card's EU reserve only. Each card whose reserve R44-1 puts outside its Stage's band is scaled by one factor: factor = (band midpoint in decades, the geometric mean of floor and ceiling joules / 1 MJ) / (the card's stated reserve). Every other EU figure on that card (technique, Form and working costs, per-use figures) is multiplied by the same factor, so each cost keeps its stated share of the reserve and distinct figures stay distinct. Flux Density, AU/s and eta stand as written. A card with no stated reserve is not scaled by this ruling and is logged. The four cards already corrected under WAR-70 are re-checked against this rule.
 
 Context: Isaac, 2026-09-25 in Claude Code, "lets do that", accepting the proposal in answer to WAR-46's report that one midpoint per band collapsed distinct figures on ~99 misses (Dougou Ozumu Zettari's thirteen figures, 2,800 to 92,000 EU, all to 2.278e19). Worked example: Dougou's reserve to ~2.3e19 EU; a 7,400 EU Form stays ~8% of it.
+
+## 2026-09-26 — the queue questionnaire (57 answers, Claude Code chat)
+
+Isaac answered, in Claude Code chat, every question for him that sat in the docket queue. Each line names the issue it answers.
+
+- **WAR-15** — Number wins: Gimbzo XII Emanation (SSS, Grandmaster); Naevra IX, Naiser VI, Niran VII take the correct names for their numbers. The four earlier 'name wins' fixes stand as they are.
+- **WAR-65** — Follow Ryuka: the tier word comes off the Crystal State field; a Crystal Tier field is written from the Stage (or Aether Class where no Stage). Akira: Dormant.
+- **WAR-66** — Stage decides: Aelum's Crystal Tier is Sovereign; applies to all later Class/Stage mismatches.
+- **WAR-102** — Gimbzo: correct output to Flux Density x eta (8.6 million AU/s) AND scale every Work cost on his card down by the same factor so cast times stay the same.
+- **WAR-102** — Dougou: leave the split output as written (3,900 AU/s external, internal immeasurable); the formula only corrects a single whole-output figure.
+- **WAR-102,WAR-139** — Estimates yes, legacy no: Borin and Yoko are corrected and keep their estimate marker; Ignatius's and Karo's legacy-sheet figures stay as a record of the old sheet.
+- **WAR-139** — Krothar: the reserve is the suppressed 1.6 million; the 2.8 million unsuppressed figure is scaled by the same factor.
+- **WAR-102,WAR-141** — Decimals: write figures exactly as computed, with the decimal (Naori 147.9 EU, Artemis 1,663.2 AU/s, etc.).
+- **WAR-102** — Keep the card's form: Elion's output becomes the range 6.768-7.332 million AU/s; Sodoku's line becomes '~772.8 base'.
+- **WAR-137** — The copy follows: the Tier 5 cell on 'Tier Grade, Bands & the Aether Shell' becomes 0.60-0.70 and its stale unresolved note is updated; both pages agree.
+- **WAR-138,WAR-151** — Follow the table: cards that quote the Tier table's eta read whatever the table says for their Stage (0.60-0.70 at VI-VII now); Yoko's output/flux recomputed to stay consistent.
+- **WAR-140** — Leave them: the rescale applies to out-of-band reserves only; the 33 costs on cards with in-band reserves stand as written. (Note: the new job to price costs as a fraction of reserve may revisit them.)
+- **WAR-142** — Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like Zenith's; the Zenith row sits beside the Grade ladder, not on it.
+- **WAR-145** — Card governs: Drakvor ~0.55 (and 'above 0.8 inside tuned bastions') and Francis 0.93 stand as their own figures.
+- **WAR-155** — Re-derive from cost: each joule/newton gloss is recomputed from the scaled EU cost at Dougou's efficiency, and the Grade wording is fixed to his Stage.
+- **WAR-49,WAR-62** — Card figure governs: each of the twelve Strike Force figures stands as that character's own outlier; no card changes.
+- **WAR-69** — Riku is born before the book (about seven during it); Yoko is a mother on its pages; the Revolution of the Inner World birth-night scene is rewritten or redated.
+- **WAR-69,WAR-50** — Yoko's card describes a later time: the cabin, Riku and the second child come after the book; the card gets a 'when' marker and the book keeps her beside Sodoku.
+- **WAR-50** — Ground burial is Kharven-Seat's own city rite; the wider Four Quarters faith keeps sky burial; the faith page gains a line saying so.
+- **WAR-50** — It is the Bench of Attribution with its remit unchanged; later chapters may not have it keep or compel records of signings.
+- **WAR-64** — Two cuts: Tally cut his own section; Qiu Yinzhi cut and sealed the exhibit wedge herself; notes saying Tally cut the exhibit are corrected.
+- **WAR-105** — They first meet at the north gate; the infancy clause in True King part 17 is cut; Hild's card row is updated to after the reunion.
+- **WAR-109** — Sodoku 28, Hild 11 at the muster: Sodoku's card moves to 28; the nineteen-year lines become eleven or twelve; The Fixed End's standing-wave passage is rewritten to fit.
+- **WAR-110** — Fern Stark is Hild's mother; Freya is a different woman Sodoku lost; the 18 September ruling line is corrected to Fern.
+- **WAR-111** — Both: the Greymane ridge guards the west while Bram commands the southern approach; both cards say so explicitly.
+- **WAR-114** — Card headers describe the character at a stated moment (e.g. 'as of the muster') and say so; Lore records later events including deaths. Applies to every card.
+- **WAR-118** — Kharven's besiegers are the Iron Mandate: 'Expanse' is corrected to the Mandate across the archive, and the Kharven lorebook's cold peace is updated to the nine-year war.
+- **WAR-33,WAR-34** — The prose checker stops at the author-notes heading; notes are not measured.
+- **WAR-33** — Fix all: lines 13 and 479 lose 'the moment'; one short sentence is broken out of each long chain and flat run; 'A silence held past a nine-count' stays as register.
+- **WAR-34** — Break the middle sentence at 'and the figure was the lowest ever entered against a Palatine's name'.
+- **WAR-34** — Verinus VII's card states that his register carries set-piece speeches of this length; the scene is untouched.
+- **WAR-53** — Two women: Onawa, Empress of Eresse gets her own card; Onawa Ashkewe, Queen of the Tsohanto, stands; the Tsohanto Reach's eleven-year silence becomes her people's answer to the shared name.
+- **WAR-58** — The Sacrament cell stays under the Grand Church in Altherion; the scene stands.
+- **WAR-58** — Conjunction stays unnamed: the Sacrament's third Wellspring stays out of the prose until decided.
+- **WAR-91** — No POV without a register: Bram Greymane and Lorn Stark get registers.
+- **WAR-91** — A register stays with the point of view: in another character's viewpoint Sodoku is read by that narrator's rules.
+- **WAR-91** — A later scene can pay The Muster's aftermath: a named later scene covering two of the five aftermath stages discharges it.
+- **WAR-91** — Stone-Blood cold latency is a rule: Stone-Blood slow (about three-quarters of a beat late) in deep cold, canon for every such fight; the paragraph stays.
+- **WAR-91** — Strike the four horizontal rules and four section headings from The Muster; the prose carries place changes.
+- **WAR-91** — A scene in four places with one mass-combat section is measured as a set piece.
+- **WAR-91** — The viewpoint-ignorance rule counts per scene: one instance anywhere in a multi-viewpoint scene satisfies it.
+- **WAR-92** — Yes: mass-combat scenes keep the one-thought-per-NPC allowance even when POV-locked; Robin Ice's italic thought stays.
+- **WAR-92** — Yes: mass-combat scenes must still carry duel-level wound anatomy.
+- **WAR-92** — Yes: inside a close register the faculty (Reigan) may be the grammatical subject; the three sentences stay.
+- **WAR-92** — Reigan's reach is four hundred miles: the scene's figure, with its blindness and eleven-second cost, goes on Sodoku's card and the wiki is widened.
+- **WAR-92** — Yes, Wren dies: Sodoku's prediction binds; Wren is dead from What the Sky Does Not Ask on, and later pages must agree.
+- **WAR-92** — Draft the Moto narration register from the scene's actual prose and add it to the register list.
+- **WAR-49** — Rewrite the stale callout on the Parts Seventeen-Nineteen page as one plain settled line: Part Seventeen's scale (0.60-0.70) governs.
+- **WAR-98** — Both forms are real: Mahou is the line as an institution, Mahuo the surname a person bears; the Mahuo Family page states the distinction; future documents follow the Accord's usage.
+- **WAR-99** — Zarron Mahuo is retconned: removed from canon. His card is struck and every page that cites him is cleaned (Mahuo Family roster, rulings references, scenes).
+- **WAR-134** — Keep Mach 8: Kinjiki's Travel Speed (Mach 8 sustained, Mach 15 bursts) stands as a personal outlier at Zenith.
+- **WAR-146** — Yes: a blend's Family may differ from its Wellsprings' Families; both Alchemical Index rows stand as drafted.
+- **WAR-147** — Yes, and say so: a formula may invert its glyph; each of the four rows (Thundercrack Grenade, Command Brand Iron, Ashfang Venom Vial, Slag-Iron Caustic) gains a short note that it inverts or misuses its glyph.
+- **WAR-148** — The highest-class ingredient sets a formula's Provenance Class: Skyfire Pulse Vial moves to Class V; Deep Grid Mortar's oath-bone ash is classed like Granite-Bone's; the page and its intro count are corrected.
+- **WAR-148** — Hair from a living person is Class III, Vital Draw: Echo-Bloom moves up to Class III; Somnum Flow stands.
+- **WAR-149** — Blood drawn from a living Soul Crystal bearer is Class IV, Crystal Draw: Edgetruth Whetstone Oil, Beastheart Serum and Excision Bloodletting Needles become Class IV; Dominion Brand Oil stays IV.
+- **WAR-149** — Collapsed-star residue is Class VI, Archonic Residue: found matter with no locatable origin, priced at the top of the scale.
+
+## 2026-09-26 — WAR-3 cards 1 and 2 (system accounts, 20 answers)
+
+Recorded in full on WAR-3's comments of 2026-09-26. In short: EU-by-Stage table; AU/s ladder by Stage; an AU-to-joule rate; numeric Aetheric Density ranges; absorbed energy banks in the practitioner's Crystal; ambient Resonance is a facet of Residue; one turn = 6 seconds; a second Range ladder for non-force reach; eta above 1.0 is real, surplus drawn from the Aether stratum; failure terrain for Limina, Spatium, Vectoria, Vitalia; Path gates cap the ungated component; uncarded pages read Tier bands; unpriced pages priced per Temperance Gate; Mechanica gets a Stage floor and load-scaled cost; contested Harmonic workings resolve Attunement vs Stability; retired Bands replaced by live equivalents; mirror all 136 glyphs first; costs as a share of reserve reaching Starvation; the aftermath is the tell; a defined saturation threshold.

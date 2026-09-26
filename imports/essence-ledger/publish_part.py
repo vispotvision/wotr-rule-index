@@ -33,6 +33,8 @@ from notion_publish import BATCH, create_page, md_to_blocks  # noqa: E402
 
 HERE = ROOT / "imports" / "essence-ledger"
 DRAFT = HERE / "the-essence-ledger.md"
+# the clean published edition; when it exists it is published as is, no patches
+EDITION = HERE / "the-essence-ledger.edition.md"
 RECORD_DIR = HERE / "_published"
 STATE = HERE / "_published_pages.json"
 
@@ -100,7 +102,47 @@ NEW_R44_NOTE = ""
 PATCHES = [(OLD_HEAD, NEW_HEAD), (OLD_R44_NOTE, NEW_R44_NOTE)]
 
 
+def unwrap(md: str) -> str:
+    """Join hard-wrapped lines back into one line per paragraph, list item or quote.
+
+    The sources are wrapped at ~80 columns and Notion keeps every newline inside a
+    paragraph, so an unwrapped page reads ragged. Tables, headings, rules and code
+    fences are left exactly as they are.
+    """
+    out, buf, kind = [], [], None
+    def flush():
+        nonlocal buf, kind
+        if buf:
+            out.append(("> " if kind == "quote" else "") + " ".join(buf))
+        buf, kind = [], None
+    fence = False
+    for line in md.split("\n"):
+        st = line.strip()
+        if st.startswith("```"):
+            flush(); fence = not fence; out.append(line); continue
+        if fence or not st or st.startswith(("|", "#", "---")):
+            flush(); out.append(line); continue
+        if st.startswith(">"):
+            body = st[1:].strip()
+            if not body:
+                flush(); continue
+            if kind != "quote":
+                flush(); kind = "quote"
+            buf.append(body); continue
+        if re.match(r"([-*+]|\d+\.)\s", st):
+            flush(); kind = "item"; buf.append(line.rstrip()); continue
+        if kind == "quote":
+            flush()
+        if kind is None:
+            kind = "para"
+        buf.append(st)
+    flush()
+    return "\n".join(out)
+
+
 def publication_body() -> str:
+    if EDITION.exists():
+        return unwrap(EDITION.read_text(encoding="utf-8"))
     md = DRAFT.read_text(encoding="utf-8")
     for old, new in PATCHES:
         n = md.count(old)

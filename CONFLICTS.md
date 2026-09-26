@@ -1140,4 +1140,4 @@ the author notes."
 **Quotes:** Ruling: "It is a crown office: it works alongside the guilds but answers to the state."
 **Consequence if unresolved:** a scene cannot say whose warrant a Night Watch investigator carries.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-26 (RULINGS.md, C-087): one body, a crown-chartered society holding the crown's warrant; the Night Register is its own; the Lattice Classification Bureau is a separate office.

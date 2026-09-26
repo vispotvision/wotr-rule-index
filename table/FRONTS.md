@@ -1,7 +1,5 @@
 # Fronts, as clocks
 
-Generated from table/fronts.yaml by WOTR MCP. Advance with advance_front; the prose Fronts page in Notion stays Natalie's.
-
 ## Kharven thread, the year after
 
 **The Tenrai** ○ 0/1 · closed

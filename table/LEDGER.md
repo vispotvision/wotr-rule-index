@@ -1,6 +1,6 @@
 # The Ledger, structured
 
-Generated from table/ledger.yaml by WOTR MCP. 55 open lines. `due()` says what comes due tonight.
+55 open lines.
 
 ## the dead
 

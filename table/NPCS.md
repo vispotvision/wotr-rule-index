@@ -1,7 +1,5 @@
 # NPC roster
 
-Generated from table/npcs.yaml by WOTR MCP.
-
 ## Kwon Mu-jin
 
 **Josse Osricsson** · wants: His Academy bow-contract renewed at the Ice-out audit, which means a clean book: every bow on the Academy's roll repaired, or written off with a signature against it. Xanelor's split Omoro recurve is a bow on nobody's roll — island-built, never proofed by him, now broken on Academy sand — and until it is entered as something his book is not clean. · refuses: "I'll build you anything. I'll not put my name on a thing I didn't bend myself." He signed a bow as proofed once, young, on a master's word, and a boy on a practice floor took the limb through the forearm. He will not sign again. · last seen: Not yet on the page. Built for the Class Below tick and L031 (WAR-95, 2026-09-25). Northern register, unchartered family, so a live patronymic and disambiguation by trade — the Academy roll writes him Josse Bowyer (Inner World Naming Amendment II).

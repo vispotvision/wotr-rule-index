@@ -1941,3 +1941,26 @@ Each culture's Standing Inventory gets a 'Gone' list of three to five named lost
 
 No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
 
+
+## 2026-09-26 — questionnaire-2026-09-26-followups
+
+The follow-up questionnaire (16 answers), Claude Code chat.
+
+1. Hild's age at death: twelve at death. She is 11 on her card's As Of moment and turns twelve before the ninth hour; 'twelve' at her death stands everywhere.
+2. Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772 to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.
+3. Sanctum Lux becomes Sancta Lux on every page.
+4. Titles are exempt from the vocabulary ban list; the checker skips the title line ('Verinus: Testament of the Sixty-Fifth' stands).
+5. Approved to publish: the price table, the culture inventories (five new sheets plus Gone lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and the Moto, Bram Greymane and Lorn Stark narration registers.
+6. Well-spawn publishes, Wells only: the spread along city mains into towns is struck.
+7. Wren Greymane's Front becomes a grief Front: the aftermath of his death, Bram and the ridge carrying it, ticks driven by who blames whom.
+8. Fire of the Undeserving and The Muster are re-banded as standard (2,500 to 4,500), no new prose.
+9. Bara is a character: stripped from system pages like the others.
+10. Part Twenty-Three (the Essence Ledger) is rebuilt from the current cards and republished.
+11. Ilthara Korvaeth, Charles Lambert, Wren Greymane, Emira Moto, Dhaerin Valorin, Fern Stark and Seiji Tenrai Moto each get a short card (identity lines, Voice, Lore, Ties) carrying their voice block.
+12. Every character card gets an As Of line, dated from its own Lore and Standing line.
+13. Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons), Coagula Dominium, Symphonia Ascendens, Hae-jin's hanja becomes 海鎮 (Sea-Garrison), and the gloss-only fixes (Kibanda, Kafa-Karim, Hataraki no Sho glosses, Dawi 'elää').
+14. Yukari eyes: crimson. The cards win; the bloodline page's silver-violet is corrected.
+15. Sodoku's Standing line becomes where he stands at 28, at the muster; the Scourge travels move into Lore.
+16. The wire is a Guild line; the Infrastructure page is corrected.
+
+Context: Answers to the open decisions left after the voice, name-audit and 57-answer passes.

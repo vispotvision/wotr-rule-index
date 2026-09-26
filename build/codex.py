@@ -95,7 +95,7 @@ def check(text: str) -> str:
     if ruled:
         fails += 1
         out.append("FAIL 37 ruled spelling (RULINGS.md): " + ", ".join(f"{w} is {RULED[w]}" for w in ruled)
-                   + ". The Codex sheet still carries the old spelling.")
+                   + ".")
     unknown = [w for w in unknown if w not in RULED]
     if unknown:
         fails += 1

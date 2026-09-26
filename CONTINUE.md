@@ -6,6 +6,34 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-46 — C-059 applied: twelve cards scaled, 89 EU figures moved in Notion)
+
+**C-059 is applied, and WAR-46's Notion work is done.** The ruling (`RULINGS.md`, 2026-09-25 — C-059,
+WAR-127) amends WAR-70: the set point is the **reserve's**, the factor is that set point over the
+card's stated reserve, and every other EU figure on the card is multiplied by the same factor, so each
+cost keeps its share. `imports/essence-ledger/eu_card_scaling.py` →
+`reports/eu_card_scaling_2026-09-25.md` computes it; it supersedes `eu_band_corrections.py` for what a
+figure becomes, and that older report is still the record of what WAR-70 wrote.
+
+- **Twelve cards scaled, 89 EU figures edited on the live Notion pages.** The Arctic Lion (×315,000),
+  The Iron Tree (×2.476×10^14 — C-059's own worked example), Ara Min Mahuo, Artemis Amagiri Moto,
+  Ayame Yuno, Iracordas, Lucius Xenotro, Muken Moto, Naevra Yukari, Naiser Yukari, Vethraun Ashmaw,
+  Yorime Seikai. **Flux Density, AU/s and η were not touched on any of them.**
+- **The four WAR-70 corrections re-checked.** Ara Min's reserve stands (the set point *is* the
+  factor's numerator). The other three were costs on cards with **no stated reserve**, which C-059
+  says it does not scale, so they were **reverted** to the figures their cards stated: Brynja Haldrís
+  438,800 → **11,000 EU**, Vael of Nothing 10,080,000 → **2,600,000 EU**, Vaelthor Ashen-Meridian
+  132,300,000 → **620,000 EU**.
+- **45 cards the ruling does not reach are logged**, 68 attested misses still held: `NO-RESERVE` 27,
+  `RESERVE-IN-BAND` 11, `ESTIMATE` 2, `PROVENANCE` 2, `ZENITH` 1 (Aurelian, C-060/WAR-128),
+  `TWO-RESERVES` 1 (Krothar), `DECIMAL` 1 (Naori).
+
+**Two things the next run should know.** The script reads the **card**, not only `fit.json`: a card's
+per-second rates (`75,000 EU activation / 8,000 EU/s`) and the low end of a range (`2,800 to 8,900
+EU`) are EU figures C-059 moves and were never anchors, so 89 figures moved where the fit knew of 60.
+And **`fit.json` is now stale on twelve cards** — it still holds the pre-C-059 figures. Re-run
+`extract_anchors.py` → `build_anchors.py` → `fit.py` after the hourly sync brings the twelve pages
+into `wiki/`, before any sweep leans on it.
 ## State on 2026-09-25 (WAR-6 — all twenty Spellcraft system accounts are written)
 
 **The Spellcraft section is done.** `imports/system-accounts/Spellcraft/` carries

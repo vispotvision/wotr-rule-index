@@ -17,7 +17,7 @@ For the reserve's Stage the Max Grade is *G*; Part Four gives *G*'s attack-outpu
 | attested EU figures with a band to read against | 155 |
 | of those, misses at 1 EU = 1 MJ | 128 |
 | cards C-059 scales | **12** |
-| **EU figures on those cards, each scaled** | **87** |
+| **EU figures on those cards, each scaled** | **89** |
 | of those, attested misses the scaling settles | 60 |
 | cards C-059 does not reach | 45 |
 | attested misses still held on them | 68 |
@@ -65,10 +65,12 @@ Check: 2.278×10^19 EU × η 1.07 × 1 MJ = 2.449×10^25 J, inside 4.184×10^21�
 
 | line | reads | becomes |
 |---|---|---|
+| `:20` | `2,800 to 8,900 EU` | **6.933×10^17 EU** |
 | `:20` | `8,900 EU` | **2.204×10^18 EU** |
 | `:20` | `92,000 EU` | **2.278×10^19 EU** |
 | `:20` | `7,400 EU` | **1.832×10^18 EU** |
 | `:43` | `92,000 EU` | **2.278×10^19 EU** |
+| `:46` | `2,800 to 8,900 EU` | **6.933×10^17 EU** |
 | `:46` | `8,900 EU` | **2.204×10^18 EU** |
 | `:46` | `7,400 EU` | **1.832×10^18 EU** |
 | `:53` | `4,800 EU` | **1.189×10^18 EU** |

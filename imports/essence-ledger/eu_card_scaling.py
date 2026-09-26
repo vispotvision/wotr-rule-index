@@ -247,6 +247,11 @@ def card_decision(path, rows):
 # excluded here by the pattern rather than by a list of exceptions.
 
 AMOUNT = re.compile(r'(?<![\d.])(\d[\d,]*(?:\.\d+)?)(\s*(?:million|billion))?(\s*)EU\b(?!\s*/\s*g)')
+# The low end of a range writes its unit once, on the high end: "2,800 to 8,900
+# EU per branch". Both bounds are EU figures on the card and both move, or the
+# range reads from the old floor to the new ceiling.
+RANGE_LOW = re.compile(r'(?<![\d.])(\d[\d,]*(?:\.\d+)?)\s*(?:to|–|—)\s*\d[\d,]*(?:\.\d+)?'
+                       r'(?:\s*(?:million|billion))?\s*EU\b(?!\s*/\s*g)')
 RESERVE_LABEL = re.compile(r'(EU Reserve\**\s*[:·]?\**\s*~?)(\d[\d,]*(?:\.\d+)?)')
 TRAILING_RATE = re.compile(r'(EU\s*\+\s*)(\d[\d,]*(?:\.\d+)?)(\s*/\s*s)')
 MAGNITUDE = {'million': 1e6, 'billion': 1e9}
@@ -260,6 +265,8 @@ def eu_tokens(line):
         if m.group(2):
             v *= MAGNITUDE[m.group(2).strip()]
         found.append((m.start(1), m.end(2) if m.group(2) else m.end(1), m.group(0), v))
+    for m in RANGE_LOW.finditer(line):
+        found.append((m.start(1), m.end(1), m.group(0), float(m.group(1).replace(',', ''))))
     for m in RESERVE_LABEL.finditer(line):
         found.append((m.start(2), m.end(2), m.group(0), float(m.group(2).replace(',', ''))))
     for m in TRAILING_RATE.finditer(line):

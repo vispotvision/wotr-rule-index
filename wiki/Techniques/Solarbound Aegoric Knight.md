@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8133-aca1-ebf28c4b27b7"
 notion_url: "https://app.notion.com/p/Solarbound-Aegoric-Knight-3d958200eb228133aca1ebf28c4b27b7"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:40:00.000Z"
+last_edited: "2026-09-26T06:47:00.000Z"
 verification: null
 ---
 

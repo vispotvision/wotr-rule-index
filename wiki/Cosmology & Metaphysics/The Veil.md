@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-818f-80cc-dbf06e137994"
 notion_url: "https://app.notion.com/p/The-Veil-3b158200eb22818f80ccdbf06e137994"
 section: "Cosmology & Metaphysics"
 tags: ["Cosmology"]
-last_edited: "2026-09-26T06:30:00.000Z"
+last_edited: "2026-09-26T06:46:00.000Z"
 verification: "unverified"
 ---
 

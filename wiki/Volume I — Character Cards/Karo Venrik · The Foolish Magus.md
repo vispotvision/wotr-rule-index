@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-81f9-b168-c92d2f23aa67"
 notion_url: "https://app.notion.com/p/Karo-Venrik-The-Foolish-Magus-3bd58200eb2281f9b168c92d2f23aa67"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T06:49:00.000Z"
 verification: null
 ---
 
@@ -35,7 +35,7 @@ verification: null
 **Aether Shell** · **Unclassed (Class emerges at Glory).** The attuned Shell. Essence and Aether have found a recurring pattern; simple spellwork stabilises and bonds form without tearing the self. **Efficiency loss roughly 15 to 25 percent** — which is the honest reason his Echoes cost what they cost.
 **Attraction Layer** · Developed, and the reason an Echo holds a tether at all.
 **Crystal State** · **Fractured.** Not Refined. The card should not pretend otherwise.
-**η** · ~0.50, per the Tier of Standing 5, Expert figure. *First genuine efficiency. The Crystal has learned to stop leaking and has learned nothing beyond that.*
+**η** · 0.60 to 0.70, per the Tier of Standing 5, Expert figure. *First genuine efficiency. The Crystal has learned to stop leaking and has learned nothing beyond that.*
 **Essence colour** · Splintering's fracture-streak: hairline veins of Limina black-violet running through a darker field, **appearing and vanishing with emotional spikes.** Gnosis-grade observation shows a field at war with itself.
 > **Splinter Drift.** Every Echo fielded is a live gamble against his own continuity, because his Class has not stabilised and stabilisation requires Stage VI. **Sustained multi-Echo operation risks a fragment refusing recall** — a piece of Karo that decides it prefers being someone else.
 >

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8106-83e3-f45895781c04"
 notion_url: "https://app.notion.com/p/Yoko-Mishiro-3b258200eb22810683e3f45895781c04"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T06:49:00.000Z"
 verification: null
 ---
 
@@ -33,7 +33,7 @@ verification: null
 | **Level** | **145 / 500** · Band II — Awakened. *Gated on reaching Stage VII to pass Level 200* |
 |---|---|
 | **Temperance Stage** | **V — Splintering**, active. Ceiling 350, sustainable max Grade B, **instability risk above 320** |
-| **Tier of Standing** | **5, Expert** · η ≈ 0.50 — *"the Crystal has learned to stop leaking"* |
+| **Tier of Standing** | **5, Expert** · η ≈ 0.60 — *"the Crystal has learned to stop leaking"* |
 | **Path** | Spirit 65% · Attraction 30% · Body 5% |
 | **Essence Typology** | **Vitalia**, primary — growth, generosity, rhythm, **discovered through accumulation rather than rupture.** *Catalyst: "giving without counting, and finding the count was always in your favour."* **Fluxia**, undertone — the capacity to feel a thing again without being destroyed by the repetition |
 | **Aether Index** | **Unusually clean for her Class** — fed directly by the Harmonics anomaly, *which inflates her Lattice Conductivity past what Band E would ordinarily support* |
@@ -66,7 +66,7 @@ verification: null
 
 *Non-combat architecture by design.*
 **Strike Force** below 300 Joules unaided · **Durability** low-B · **Attack Speed** Mach 2.0–5.0 · **Reaction** 1–5ms · **Travel** Mach 1.5–4 · **Aura Pressure** faint, *just crossing into passive-pressure territory* · **Domain Pressure** none
-**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*
+**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~90 · **η** 0.60 *(sourced)*
 
 ---
 

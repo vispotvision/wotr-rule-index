@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8102-9bae-d74bd110cc8b"
 notion_url: "https://app.notion.com/p/Maw-of-Crystalline-Stasis-3d958200eb2281029baed74bd110cc8b"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T06:37:00.000Z"
+last_edited: "2026-09-26T06:47:00.000Z"
 verification: null
 ---
 

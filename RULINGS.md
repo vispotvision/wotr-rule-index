@@ -938,3 +938,24 @@ One combat turn is six seconds. Efficiency above one draws its surplus from the 
 
 A What nobody knows question is never answered as fact on the page; a proposed answer is one in-world school's reading and the mystery stays open.
 
+
+## 2026-09-26 — the magic docket questionnaire (15 answers, Claude Code chat)
+
+Answered by Isaac in Claude Code chat, covering every magic-system question still open on CONFLICTS.md and the docket with no answer from him. Each line names the row or issue it answers.
+
+- **C-061, C-069** — Unquantified: the Primate's Striking Force line (:78) becomes Part Eleven's reading, an event the local physics must accommodate. The EX joule band leaves the card. 'No recorded instance' stays.
+- **C-060** — Stands, outside R44-1: Stage XIV has no attack-output band to miss, so the Primate's 2,400,000,000 EU reserve is not an error and stays as written.
+- **C-065** — Immeasurable: Kinjiki's Travel Speed becomes Part Six's Immeasurable Speed classification, as on the Primate's card. 'Not his instrument' stays as colour, and the Mach figures leave the card.
+- **C-040** — Card governs (rung I-2, off-ladder runs both ways): the twelve cards' Strike Force figures stand, whether above or below their Stage's Max Grade band. The bands are typical ranges.
+- **C-041** — Anomalies, with Strain: Sodoku (Level 320, Stage VI) and Krothar (Level 380, Stage VIII) keep their Levels as in-world outliers. Each card gains standing Residual Strain from the breach, and Krothar's Band name becomes 'IV — Mythic'.
+- **C-047** — Raise the Sub-Stats: Ignatius's Ardency becomes 880 and Vitality 900 (upper SSS), so the stat table, the force lines and the yield agree. His Primaries and pool are re-totalled to carry the +482 points.
+- **C-062** — The card's η ~0.55 governs (rung I-2): Draven stands 0.05 under the corrected Tier 5 band, and his seven accounts say so.
+- **C-063** — Whole row, Stage V included (rung I-1): the corrected Tier 5 · Expert cell reads 0.60–0.70 for Stages V–VII. Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact and Transposition's Stage V variant reprice to 30–40% bleed. Karo and Yoko follow the table, per WAR-151.
+- **C-072** — Per entity: C-059 applies one factor per person, read from wherever that person states a reserve. 'Essence Capacity' counts as a stated reserve. Dougou's card and Mugen no Hatsurugi take the same factor as The Iron Tree and Muken's card.
+- **C-076 (WAR-161)** — The Level law governs: Part Nineteen's EU-by-Stage and AU/s-by-Stage tables are rebuilt from Part Twenty-Three's Level law, replacing the Grade-bracket derivation published 2026-09-26.
+- **C-059 follow-up** — Re-run on the Level-law bands: the same C-059 method (one factor per entity, set point at the geometric mean of the new band) is recomputed from each card's pre-C-059 figures, so nothing compounds.
+- **WAR-161, AU/s against the cards** — The ladder is typical ranges and the cards stand. The 23 misses stay listed as outliers against the rebuilt ladder.
+- **WAR-161, EU floor** — Leave the fractions: no floor on the unit. Fractions of an EU are written as computed, consistent with the decimals answer (WAR-141).
+- **WAR-162, the non-force ladder** — Keep the reading: the Passive Pressure Field is the authority radius at reference density, and the published ladder stands.
+
+Context: Asked 2026-09-26 in Claude Code chat over the open magic rows. Items the queue and system-accounts questionnaires had already answered were not re-asked: C-053/C-054 (WAR-102), C-055–C-058 (WAR-146–149), C-064/C-073/C-074 (WAR-15), C-066 (WAR-139), C-067 (WAR-140), C-068 (WAR-141), C-070 (WAR-142), C-071 (WAR-151). C-038 and C-039 closed on rungs I-4 and I-5 (2026-09-25). Their CONFLICTS.md status lines are stale and are bookkeeping under rung I-3. C-062 and C-063 replace the drafts under WAR-132 and WAR-54, which were never logged. No card or page is changed by this entry; each answer is applied in its own pass.

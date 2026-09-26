@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8183-817e-cc1a61adee53"
 notion_url: "https://app.notion.com/p/The-Core-Vocabulary-3b158200eb228183817ecc1a61adee53"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-24T18:35:00.000Z"
+last_edited: "2026-09-26T03:15:00.000Z"
 verification: "unverified"
 ---
 
@@ -89,6 +89,9 @@ verification: "unverified"
 **Flux Density · EU/g** · The compression ratio. How much Essence is packed per unit of Crystal mass. Higher Flux Density means greater output drawn from the same reserve.
 **AU/s · Aether Units per second** · The output rate. How much Essence a practitioner converts into active Aetheric expression per second of sustained operation. **AU/s = Flux Density × η**
 **Efficiency · Eta · η** · The ratio of Essence spent to Essence that arrives as intended effect. An η of 0.50 wastes half of every expenditure as heat, noise, and structural bleed. The single most important variable in how long a reserve lasts under sustained output.
+**Joule · J** · What one EU is worth outside the Crystal. **1 EU = 1 MJ**. The conversion, the chain from EU to joules to Grade to tons of TNT, and what a reserve buys at each rung are [The Essence Ledger](https://app.notion.com/p/3e758200eb2281d49e1df161b3ed583a), Fracture of Worlds Part Twenty-Three.
+**Watt · W** · What an AU/s is worth as power. One AU is one EU, so **1 AU/s = 1 MW**: power drawn is AU/s × 1 MW, power delivered is AU/s × η × 1 MW, and the difference leaves as waste heat. Time to empty is reserve ÷ AU/s, and that figure does not depend on the conversion at all.
+**The Essence Ledger** · [Fracture of Worlds Part Twenty-Three](https://app.notion.com/p/3e758200eb2281d49e1df161b3ed583a). The join between the four quantities above and the Grade ladder: what an EU buys in joules, what a reserve costs to spend, how long it lasts at full output, how fast it comes back, and what can be done about all of it from the other side of a fight.
 
 ---
 

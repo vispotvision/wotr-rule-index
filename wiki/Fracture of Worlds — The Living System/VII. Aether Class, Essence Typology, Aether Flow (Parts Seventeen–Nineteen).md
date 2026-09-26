@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8125-b9f4-f85adcd2a482"
 notion_url: "https://app.notion.com/p/VII-Aether-Class-Essence-Typology-Aether-Flow-Parts-Seventeen-Nineteen-3d758200eb228125b9f4f85adcd2a482"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:41:00.000Z"
+last_edited: "2026-09-26T02:15:00.000Z"
 verification: "unverified"
 ---
 
@@ -94,7 +94,7 @@ The nine Tiers of Standing replace the former lettered Coherence Bands. The η f
 | 2 · Apprentice | II Welling | ~0.35 | The leak is still the loudest thing about the practitioner. |
 | 3 · Journeyman | III Ascension | ~0.40 | Waste becomes predictable, which is the first thing that can be trained against. |
 | 4 · Adept | IV Flourishing | ~0.45 | The last tier at which more than half of every expenditure is lost. |
-| 5 · Expert | V–VII Splintering to Refraction | 0.50–0.60 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows real-time observation and correction of waste. |
+| 5 · Expert | V–VII Splintering to Refraction | 0.60–0.70 | First genuine efficiency; the Crystal has learned to stop leaking. Dual sight at Refraction allows real-time observation and correction of waste. |
 | 6 · Master | VIII–X Transcendence to Realization | 0.70–0.80 | First true Domain, which provides a feedback loop recycling ambient bleed. Pacts, artifacts and law imprint on terrain, creating persistent gains in familiar environments. |
 | 7 · Grandmaster | XI–XII Dissonance to Emanation | 0.85–0.90 | Traits become local physics. Presence optimizes Aether flow in the vicinity. |
 | 8 · Archmaster | XIII–XIV Principality to Zenith | 0.95–1.2 | Biomes carry the practitioner's doctrine. Above 1.0 the Continuum recognizes the expression as law and supplements it with ambient flow; the environment becomes a co-author. |

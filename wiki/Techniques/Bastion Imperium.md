@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-817f-b32a-d49477acb8ea"
 notion_url: "https://app.notion.com/p/Bastion-Imperium-3d958200eb22817fb32ad49477acb8ea"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-12T16:19:00.000Z"
+last_edited: "2026-09-26T03:00:00.000Z"
 verification: "unverified"
 ---
 
@@ -51,3 +51,308 @@ Governing Primary: Resilience, off Coagula's Resilience Integrity and Tempering 
 ### Origin
 
 Drakvor derived this himself; the card gives no location or date, only the doctrine behind it, "a king first commands himself." Read alongside Edict Strike, both signature techniques argue the same conviction, that command over the self comes before command over anything else. Per the named-inventor rule, a self-derived technique like this one is read live in the exchanges that use it rather than only summarised.
+
+---
+
+### The Two Accounts
+
+> ❓ Open question (SA-EM-BASTION-VERDICT-NOT-MECHANISM): The Coagula half of the Mechanism is a real load path: man and ground gathered into one structure, so momentum goes into a much larger mass. This section may change when it is ruled.
+> ❓ Open question (SA-GAP-BASTION-NON-TRANSFERABLE): The page's own open question is a Four Theories question and deserves a ruling rather than a mechanism. This section may change when it is ruled.
+
+#### 1 · Physical account (physics)
+
+**The phenomenon in plain words.** He plants himself, the ground under him becomes part of
+him, he cannot be moved inside ten metres, and force below a certain size simply fails
+against him.
+**The real phenomenon.** **Solid-state sintering**, and then **bearing-pressure
+distribution** — the second is what makes the first worth doing.
+*Sintering.* Press a powder compact together and hold it hot but below melting, and
+the particles fuse across their contact points by surface, grain-boundary and volume
+diffusion until porosity closes and the mass behaves as one body. The driving force is
+the reduction of total surface energy. Densification rate follows the Coble and Herring
+relations, ∝ D·γ·Ω / (kT·Gⁿ) with grain size G to a power of 3–4. **Nothing melts.**
+Coagula's register analogue is this exactly: "Sintering. Densification by atomic
+diffusion below the melting point"
+(`wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`).
+*Bearing pressure.* An immovable stance is not a strength problem, it is a **footprint**
+problem. Force applied to a body resting on ground is resisted by the ground's bearing
+capacity across the contact area, and a structure fails when the applied pressure
+exceeds what the substrate can carry.
+**The governing law.** σ = F/A. And it is worth running, because the page gives both
+numbers.
+**Measurable quantities, SI — and the number that makes this page work.**
+- Stance footprint: **10 m** radius (page) ⇒ π(10 m)² = **314 m²**.
+- Threshold force the page states: **0.5–2 TN**, i.e. **5×10¹¹ – 2×10¹² N**.
+- **Bearing pressure at the footprint:** 5×10¹¹ ÷ 314 = **1.6×10⁹ Pa**;
+2×10¹² ÷ 314 = **6.4×10⁹ Pa**. So **1.6 to 6.4 GPa.**
+- What ordinary ground carries: granite in compression, **130–200 MPa**.
+High-performance concrete, **≈200 MPa**. Structural steel yield,
+**250–1,000 MPa**.
+- What carries 1.6–6.4 GPa: **sintered engineering ceramic.** Dense alumina runs
+**2–4 GPa** in compression; cemented tungsten carbide, **4–6 GPa**.
+- **Therefore the ground under the stance has to be sintered up to alumina-to-carbide
+class — roughly 10 to 50 times granite — for the page's own threshold figure to be
+carried.** That is a ten-to-fiftyfold densification, which is precisely what
+Coagula's law does and the only thing it does. **The physics does not merely permit
+the working; it specifies what the working must have done to the ground, and the
+Wellspring named for doing exactly that is the one on the page.**
+- Energy band at S-Grade: **4.184×10¹² – 2.42672×10¹³ J**, which the page quotes
+correctly from Part Four (it gives "4.184 to 24.3 TJ"), and correctly attaches to the
+1-to-5.8-kiloton TNT and Small-Town-to-Town scale rows.
+- Duration: **12 s**, which the page derives as "four old-count turns" at 3 s each.
+**The energy budget, and where the joules were.** In the attacker, and in the ground.
+Drakvor supplies no joules; he supplies a diffusion boundary that turns rock into
+ceramic and a load path that puts the attack into 314 m² of it. The system's line
+applies without adjustment: "The energy was in the room. The structure that let it move
+in that particular direction was in the person, and **structure is what fails**"
+(`wiki/The Magic System/The Physical Account Two Sets of Books.md` §III). What fails
+here is his legs and spine, and the page says so.
+**Precedent we are not copying.** Immovable stances are genre furniture — the
+Earth-bending rooting of Avatar, Guts's braced guard, every tank ability in every CRPG.
+Those make the *character* harder. This one makes **the ground** harder and then hides
+behind it, which is why the counter is not a bigger hit but an opponent who never
+touches the ground at all. The divergence is the counterplay: the page's answer to
+"how do I beat this" is *stay in the air*, and that answer is a consequence of
+σ = F/A rather than of a balance decision.
+
+---
+
+#### 2 · Stratal account (metaphysics)
+
+**Aether stratum.** Draw on the substrate and on ambient across 314 m² of surface.
+Materia is favoured by "Mineral-rich rock, worked stone, deep foundation" and
+suppressed by "**Open water, high altitude, moving platforms**"
+(`The Eight Families & the Sixty Wellsprings`, Environmental Coupling). **The page's
+own Weakness is that suppression list, verbatim in substance:** "Elevation loss and
+unstable terrain both reduce the stance's power, since Coagula's gathering has less to
+gather when the ground itself is already coming apart." Register and page agree without
+either citing the other. **Residue:** the heaviest and most durable in the batch —
+sintered ground does not un-sinter. Dark sigils blooming under his feet are residue in
+the most literal sense the system allows: "A permanent, if often subtle, change to the
+location where the working occurred" (`The Core Vocabulary` §II), except that here it is
+neither permanent-but-subtle nor subtle at all. **A Bastion Imperium leaves a
+ceramic footprint a surveyor can find years later. Saturation:** not the limiting
+factor; the limit is footprint and bearing capacity, both physical-account lines.
+**Wellspring stratum.** **Coagula · *The Unifying Pulse*** (primary), Family
+**Materia**, Physics Domain **material science**. Its law, verbatim from
+`wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`:
+> "Press powder together and hold it hot, though never hot enough to melt, and the
+> particles fuse across their contact points by diffusion alone until the porosity
+> closes and the mass behaves as one body. Coagula runs the Soul Plane's version: a
+> Crystal that has been fragmented gathers itself without ever passing through a liquid
+> state, which is to say without losing the shape it had while broken."
+**Judicium · *The Wellspring of Truth*** (secondary), Family **Fulguria**, Physics
+Domain **electromagnetism**; its law is quoted in full in the `Lumen Dissecans`
+account and here supplies the threshold-reading — "force arriving under the Stage's
+threshold is read, weighed, and found wanting before it is allowed to register at all."
+A spectroscopic criterion is exactly the right instrument for a threshold, because a
+threshold needs a *measurement* and not a wall.
+Register Stat Effects, through the Merge Ledger: Coagula gives Resilience
+**Integrity** and Tempering **Coherence**; Judicium gives Gnosis **Acuity** and Gnosis
+**Analysis** (from Diagnosis). The page cites all four correctly.
+Register failure, Coagula: "**Residual porosity.** Sintering rarely reaches full
+density, and the voids that remain are the exact locations at which the next fracture
+will initiate." **Real sintering leaves 2–5 % porosity even when driven hard, so a
+sintered bulwark has a known and predictable failure population, and it fails at the
+voids.** The page does not name this and it should: it is the difference between "the
+bastion is beaten by staying airborne" and "the bastion has a crack map."
+*Four Theories.* **Consent Doctrine**, but the page's own "What nobody knows" strains
+it: "Why the ground under his stance answers to doctrine at all, when no other Materia
+working known to the Guild does the same for anyone who has tried to copy it." A
+current that answers *him* and not a copyist is not a river recognising a channel; it
+is the shape of a **relationship**, which the Accord cannot license and which the
+**Correspondence Position** would file without difficulty — "The practitioner and the
+Wellspring are the same law expressed at two scales, and the working is the two scales
+briefly agreeing" (`Two Sets of Books` §IV). The page's question is genuinely a
+Four-Theories question and it deserves Isaac's ruling rather than a mechanism.
+Logged `SA-GAP-BASTION-NON-TRANSFERABLE`.
+**Essence stratum.** Active layer: the **Aether Shell** for the projection, the
+**Attraction Layer** for the claim on ground. Developmental Tier at Stage VIII:
+**Radiant** — "The Attraction Layer gains territorial durability. The first true Domain
+becomes possible" (Part Twenty-One), and the card names Drakvor's first Domain as Black
+Crown Bastion, which is this technique's own name and its Threshold Catalyst. Crystal
+State: **Refined, overbuilt by design** (card). **The invoice:** "Severe Aether
+compression through his legs and spine while the stance holds." Correct anatomy: in a
+bearing problem the load path runs through the legs into the footprint, so the
+compressive column *is* his lower body, and the page's cost is the load path named.
+**The lens: Stoic pneuma and *tonos*.** Chrysippus, reported through Galen and
+reconstructed by Sambursky (*Physics of the Stoics*, 1959). The Stoics held that
+what makes a stone one stone rather than a heap is **pneuma** held in *tonos* —
+tension — and that the grades of cohesion run from *hexis* (bare holding
+together, in stones and timber) up through *physis* and *psyche*. Cohesion, on
+this account, is not a property of the matter but a tension running through it,
+and a tension can in principle span more than one body. That is exactly the
+figure Coagula's law cuts here: the stance is not Drakvor braced against the
+ground, it is **one hexis** with the man and the ground both inside it, which is
+why the page can say the ground *"stabilises into a metaphysical bulwark"* and
+mean something rather than nothing. The lens also names the cost correctly
+before the ledger does: tonos is held, and holding is work, and the page bills
+him in *"severe Aether compression through his legs and spine."* The productive
+misreading is the one the Stoics themselves would have made: if tonos is a
+quantity in the **body**, then the bastion should be indifferent to what it is
+standing on. The page's Weakness says the opposite — elevation loss and unstable
+terrain both reduce it, *"since Coagula's gathering has less to gather when the
+ground itself is already coming apart."* The tension is shared, so the ground is
+a member of the working and not its backdrop.
+
+---
+
+#### 3 · Mechanism (the effect)
+
+**Glyph (proposed; the page names none).** `[Lk]` **Lock** · Counter · Thalen — one
+of only two Counter forms in the whole Index, and the Index's description of it is this
+technique's definition: "**Lock** occupies a limit so no other limit can be set there."
+An immovability working occupies the limit on his own position so nothing else can set
+one. Laid across `[RenB]` **Boundary** · Root · Zhaeren for the 10 m edge. Both from the
+thirty unclassified forms in
+`wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md`. The Category is
+**Claustra**, and the Index notes that "Every counter-working ever recorded is one of
+those two moves," which makes `[Lk]` the strongest glyph candidate in the batch.
+*Filing decision, not canon — Isaac's ruling.*
+**What boundary moves.** Two quantities, and the page is honest that there are two:
+**the diffusion rate in the substrate under his feet**, and **the threshold below which
+an arriving force is not admitted**. The first is Coagula. The second is Judicium. A
+working with two boundaries is unusual and the page pays for it — two Path gates, Body
+and Fate.
+**What the law then does on its own.** Everything, and it fails on its own terms too.
+The ground densifies because diffusion closes porosity when you hold it hot; the stance
+becomes immovable because 314 m² of ceramic carries 6.4 GPa; sub-threshold force fails
+because a threshold is a measurement and the measurement returns "under"; **and he
+cannot move, because a sintered load path is a single body and stepping out of it means
+leaving the structure.** The page lists that as a Limit. It is not a Limit. It is the
+mechanism. You cannot walk while being an arch.
+**Law V check, and a choice.** Stage VIII sits **above** Refraction, so no material
+anchor is required (`wiki/The Magic System/The Four Crafts.md`). He declares anyway —
+Spellcraft, *Ars Vocis*, "declared." Same reading as Serenyra's Edictum: at Radiant he
+could do this silently and does not, and the Four Crafts page explains why that reads as
+it does ("a man who casts silently in a room has told everyone present his Stage without
+saying a number"). **Drakvor is saying it out loud on purpose. A bastion nobody heard
+declared is not a bastion anyone has to respect.**
+**Failure mode — Field fault, primary; Structural fault, secondary.**
+Field: "The room could not supply what the working assumed. Saturation, depletion, a cut
+main … **The working is correct and produces nothing**" (`Two Sets of Books` §VII).
+An airborne opponent, unstable terrain, or a Sublimatio-worked destabilisation of the
+substrate all leave the working correct and useless, and the page's own line is exact:
+"An airborne opponent was never inside the working's argument to begin with."
+Structural: "The Crystal could not hold what the boundary permitted" — his legs and
+spine, plus Coagula's residual porosity as the crack map the bulwark carries from the
+moment it forms.
+**What the target sees and feels.** An attacker below the threshold does not
+feel his blow stop. He feels it **arrive and count for nothing** — the contact
+is real, the sound is real, and the transferred momentum goes into a structure
+that includes ten metres of ground, so the man does not move because the man is
+not the mass being pushed. Reported from the receiving end, the register is
+closer to striking a buttress than a person: the shock returns up the arm
+undiminished. Mail wearers inside the radius feel the Essence shock in the
+teeth. The zone announces itself first and honestly — earth ripples, dark sigils
+bloom under his feet, a distant iron groan follows, and the air thickens around
+his torso *"like plate settling over bone."* And the working's great weakness is
+legible in the same moment: he has stopped moving, and he will not move again
+until it ends, because stepping out of the stance **is** ending it. Anything
+that never touches the ground he commands, or never enters the ten metres, is
+not in the argument at all.
+**What bleeds, at the stated efficiency — and the card's figure is the problem.** The
+card gives **η ≈ 0.55**, so **45 percent** of every expenditure leaves as heat, sound
+and structural bleed. But Stage VIII places Drakvor in **Tier 6 · Master**, whose band is
+**0.70–0.80** (Part Nineteen). **0.55 is below his own tier's floor by 0.15**, which
+would make him the least efficient Master on record. The card does supply a mitigation
+in the same line — "rising above 0.8 inside bastions he has personally tuned" — and
+**this technique is how a bastion gets tuned**, so the working's own output is the thing
+that puts him back inside his band. That reading is available and it is not stated
+anywhere. Recorded as `SA-NUM-ETA-TIER`; not resolved.
+At η 0.55 the bleed on a 12-second stance is large, local and audible — which is exactly
+the page's Target Response: "A distant iron groan follows. The air thickens around his
+torso like plate settling over bone." That is a 45 % bleed described by somebody
+standing next to it.
+
+---
+
+#### 4 · Essence ledger (units)
+
+| Quantity | Value | Derivation |
+|---|---|---|
+| EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
+| Flux Density | `null` | No AU/s figure for Drakvor. |
+| η | **0.55** (card), **0.80+** in a tuned bastion | Card line 42. Tier 6 band is 0.70–0.80 (Part Nineteen) — **0.55 is below the floor.** `SA-NUM-ETA-TIER`. |
+| AU/s | `null` | Needs Flux Density. |
+| Duration | **12 s** | Page: "four old-count turns" at 3 s/turn. **This page is the source of the 3 s/turn convention** that the Draven and Drakvor pages use and that Francis's pages contradict at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Footprint | **314 m²** | π(10 m)². |
+| Threshold force | **5×10¹¹ – 2×10¹² N** | Page's 0.5–2 TN. |
+| **Bearing pressure at footprint** | **1.6 – 6.4 GPa** | F/A. **Requires the ground to be sintered to alumina (2–4 GPa) or carbide (4–6 GPa) class, 10–50× granite.** Coagula's law is exactly the law that does this. |
+| Threshold energy | **4.184×10¹² – 2.42672×10¹³ J** | S-Grade row, Part Four. Page's citation correct, including the 1–5.8 kt TNT and Small Town–Town rows. |
+| Bleed | **45 %** (card η) / **≤20 %** (tuned) | 1 − η. |
+| Minimum Stage | **VIII · Transcendence** | Page. Max Grade S, Sub-Stat ceiling 550 (Part Five). |
+| Tier of Standing | **6 · Master** | Part Five. |
+| Grade required | **S** (401–550) | Page. Card: **Vitality 535**, **Tempering 515**, **Dominion 500**, **Harmonics 470**, **Gnosis 430**, **Ardency 415** — six Primaries in S. Meets at grade with room. **Dexterity 355 is A and is the card's stated floor**, which is consistent with a technique that forbids movement. |
+| Path gates | **Body and Fate** | Page. Vitality Fortitude "requires Body Path at Stage IV to exceed B" and Resilience Ward's own-Domain defence "requires Fate Path at Stage VIII to exceed SS" (Part Seven). At Stage VIII the Body gate is clear; the Fate gate at SS is **above** his S-Grade reading, so the Domain-defence component of Ward is not open to him. Worth noting, not a conflict: the page does not claim it. |
+| Residual porosity expected | **2–5 %** | Real sintering ceiling. Coagula's register failure locates the next fracture there. |
+| Starvation margin | `null` | No cost fraction, no reserve figure. |
+| Developmental Tier | **Radiant** | Stage VIII (Part Twenty-One). |
+| Crystal State | **Refined, overbuilt by design** | Card. |
+| Domain | **Black Crown Bastion** | Card. This technique's own name; dates from his Stage VIII Threshold Catalyst. |
+
+**Does the physics close against the stratal account?** **Yes, and it closes better
+than the page knows.** The threshold force the page states requires the ground to be
+densified by 10–50×, and Coagula is the current whose entire law is densification by
+diffusion — so the physical account does not merely permit the working, it *derives the
+Wellspring assignment*. The one open item is η: at the card's 0.55 he sits below his own
+tier's floor, and the card's own escape clause depends on this very technique having
+already been run.
+**Conflicts logged from this page:** `SA-NUM-ETA-TIER`,
+`SA-GAP-BASTION-NON-TRANSFERABLE`, `SA-GAP-TURN-LENGTH`, `SA-GAP-EU-FORMULA`,
+`SA-GAP-AETHERIC-DENSITY`, `SA-GAP-GLYPH-MIRROR`, `SA-UNATT-COHERENCE-BAND`.
+
+---
+
+#### 5 · Counterplay and the challenge
+
+**The fairness check** (`.claude/skills/wotr-write/references/fair-play.md`).
+| Test | Verdict | Why |
+|---|---|---|
+| Costs something that hurts | **pass** | Severe Aether compression through legs and spine for the duration, and real fatigue after release. It is not quantified in EU (`SA-GAP-EU-FORMULA`), but it is **located in tissue** and it compounds across a long engagement, which is the shape the register's *"Exhaustion"* route is built to exploit. |
+| Stated limits | **pass, and they are severe** | **He cannot move at all**; stepping out ends it; 10 m radius; ~12 s duration (four old-count turns at the page's own 3 s/turn); the threshold sits at the S-Grade band and anything above it is not affected. Immobility as the price of immovability is the fairest trade on any page in this batch. |
+| Something beats it | **pass** | All four routes touch it, and one of them is *"stay in the air"*. |
+| It has a tell | **pass** | Rippling earth, blooming sigils, an audible iron groan. It cannot be set up quietly. |
+| Numbers in band | **pass** | Stage VIII ⇒ Max Grade S, ceiling 550, Tier 6 · Master (Part Five). Threshold quoted at the S band: 0.5–2 TN, 4.184–24.3 TJ, 1–5.8 kt (Part Eleven / Part Four). Card: six Primaries in S. **The one number out of band is η 0.55 against the Tier 6 floor of 0.70** — logged, not resolved (`SA-NUM-ETA-TIER`). |
+
+**The Counterplay routes that work**
+(`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
+- **Deny the field — the ground, and the Family.** The working is anchored in
+the ground it commands, so **take the ground**: a Sublimatio-driven
+destabilisation, or a fight staged where there is no load path to gather. The
+register's terrain line for **Materia** is *"opinions and no tools on open
+water."* A bastion on a barge is a man standing still.
+- **Break the body — distance and elevation.** *"Distance. … Most practitioners
+are a threat about closing range and are written as though they were not."*
+Here the page says it out loud: an airborne opponent, or one attacking from
+beyond 10 m, *"was never inside the working's argument to begin with."* This is
+the cheapest counter in the batch and it requires no magic at all.
+- **Break the man — Rigidity, in its purest form.** *"Present him with the
+situation his own law handles worst and he will handle it that way
+regardless."* His law is *hold*. Present him with something that must be
+chased — a runner, a fired building, a hostage being carried away — and he
+either breaks his own working or loses the thing. He cannot do both.
+- **Break the boundary — the threshold, not the stance.** The threshold is a
+band, not a wall. One strike above 2 TN is not filtered; it is simply not
+covered by the working. *"Nothing in the register stops a working by standing
+in front of it"* — and a stance is not a wall either.
+**The tell, stated plainly.** He plants, the earth ripples, sigils bloom, iron
+groans in the distance. From that instant he is the one thing on the field that
+cannot come to you.
+**The lookup trail.**
+1. `wiki/Techniques/Bastion Imperium.md` — the Limit ("cannot move at all"), the
+10 m radius, and the Weakness about elevation and unstable terrain.
+1. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Choose
+the ground by Family", "Distance", "Rigidity", "Exhaustion".
+1. `wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`
+— Coagula's law of gathering, and what it needs from a substrate.
+1. `wiki/Fracture of Worlds — The Living System/III. Physical Force (Part Eleven).md`
+— the force benchmarks, so the reader can work out what "above the threshold"
+means and whether anything he owns reaches it.
+1. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md`
+— Part Four for the S band; Part Seven for the Body and Fate gates on
+Vitality Fortitude and Resilience Ward.
+1. `wiki/Volume I — Character Cards/Drakvor · The Black-Crowned Bastion.md` —
+**Dexterity 355, his lowest Primary and an A among six S's.** The card tells
+you what he cannot do, which is follow you.
+**Conflicts added by this section:** `SA-EM-BASTION-VERDICT-NOT-MECHANISM`.

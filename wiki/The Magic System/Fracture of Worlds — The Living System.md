@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-8101-bde2-f8eceeaefc7a"
 notion_url: "https://app.notion.com/p/Fracture-of-Worlds-The-Living-System-3d758200eb228101bde2f8eceeaefc7a"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:24:00.000Z"
+last_edited: "2026-09-26T02:56:00.000Z"
 verification: "unverified"
 ---
 
@@ -48,3 +48,4 @@ The full system is split across child pages below, grouped by what a session act
 - [VI. The Sixteen Temperance Stages (Part Sixteen)](Fracture of Worlds — The Living System/VI. The Sixteen Temperance Stages (Part Sixteen).md)
 - [VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)](Fracture of Worlds — The Living System/VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen).md)
 - [VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two)](Fracture of Worlds — The Living System/VIII. Traits, Soul Crystal Tiers, Domains (Parts Twenty–Twenty-Two).md)
+- [IX. The Essence Ledger (Part Twenty-Three)](Fracture of Worlds — The Living System/IX. The Essence Ledger (Part Twenty-Three).md)

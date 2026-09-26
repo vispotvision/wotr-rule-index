@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8185-abf4-c695877be12b"
 notion_url: "https://app.notion.com/p/Tier-Grade-Bands-the-Aether-Shell-3b158200eb228185abf4c695877be12b"
 section: "The Magic System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-23T23:41:00.000Z"
+last_edited: "2026-09-26T03:16:00.000Z"
 verification: "unverified"
 ---
 
@@ -64,6 +64,7 @@ Tier Grade is the qualitative bracket that determines what scale of force, pheno
 | **EX** | 1,201 – 1,500 | 1.24 × 10^29 – 6.906 × 10^37 J. Moon to Large Planet, 29.6 exatons – 16.512 ronnatons TNT | Relativistic+, 50% – 100% c |
 | **EX+** | 1,501 and above | 6.906 × 10^37 J and above. Brown Dwarf level and beyond, scaling toward stellar and solar-system scale | FTL and above, beginning at c |
 
+> 💡 **What a practitioner can pay for a row of this table.** The attack-output column is joules; a reserve is EU. **1 EU = 1 MJ**, so joules delivered = EU spent × η × 1,000,000, and the Grade is the row whose band holds the result. Worked end to end — EU to joules to Grade to tons of TNT — in [The Essence Ledger](https://app.notion.com/p/3e758200eb2281d49e1df161b3ed583a), Fracture of Worlds Part Twenty-Three.
 > **Within-Tier resolution.** When two characters operate at the same Tier Grade, exchanges are resolved by technique quality, tactical intelligence, positioning, and Sub-Stat architecture. A character at the upper boundary of B-Grade, stat value 275, produces roughly **five times** the Strike Force of one at the lower boundary, stat value 176. Both are B-Grade. The five-fold differential is real and significant but not automatically decisive, because technique architecture, Wellspring affinity, and Path bonuses can compress or invert the raw advantage.
 
 ### The Sharp-Blunt Asymmetry

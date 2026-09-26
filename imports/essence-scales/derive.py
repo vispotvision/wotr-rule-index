@@ -1,5 +1,7 @@
 #!/usr/bin/env python3
-"""Write `_derivation.md`: the essence scales with every step of their arithmetic.
+"""SUPERSEDED 2026-09-26 (C-076): documents the Grade-bracket derivation only; do not re-run.
+
+Write `_derivation.md`: the essence scales with every step of their arithmetic.
 
 WAR-161. The prose is here; every figure comes from `scales.py`, so the document
 cannot drift from the computation. Run after any change to an anchor:

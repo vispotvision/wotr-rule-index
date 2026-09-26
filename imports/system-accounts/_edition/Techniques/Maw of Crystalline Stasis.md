@@ -28,10 +28,10 @@
 **Weak point** · Heat collapses it from inside, tips first: an overheated Maw fails at its edge while the coarse centre holds longest.
 **Anchor** · Below Refraction the Bodily vector supplies the anchor, the frame itself; the sentence ends when attention lapses.
 **Failure** · Boundary fault: the field does not know its maker, and the cold lands on the practitioner's knuckles and knees. Structural fault: a Dominion below A holding six metres pays the difference in frostbite, through raw Ardency and Vitality.
-**Bleed** · 30 to 40 percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink; that is why the cost runs by the turn.
+**Bleed** · 45 percent leaves as heat at the Shell, inside the volume being held cold, adding load to the sink; that is why the cost runs by the turn.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70; Grade A (276 to 400) in Ardency Density, with Vitality Tolerance, Vitality Absorption and Resilience Fortification at A; Body Path.
 **Dominion** · Dominion Radius past A needs the Attraction Path at Splintering, so the radius is capped at A; each turn past the first at high output costs a Resilience Fortification check at knuckles and knees.
 
 | Quantity | Working | Result |

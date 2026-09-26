@@ -34,11 +34,11 @@
 **Effect** · A dim place with no one in it, a chill and a smell of ozone; then a hard tearing shear of air from one bearing and he is inside reach, or at a sprint quick steps and most of a second for a guard to turn.
 **Arrival** · The crossing ends loaded into the strike, so the target pays the deceleration; the strike is priced separately.
 **Failure** · Field fault: with no dim zone to match, the working is correct and yields nothing.
-**Bleed** · 30 to 40 percent of the spend leaves the Shell as warmth and noise, a faint cold and ozone the quarry takes for weather.
+**Bleed** · 45 percent of the spend leaves the Shell as warmth and noise, a faint cold and ozone the quarry takes for weather.
 **Body** · Blood drips from eyes and nose; where a blood-pact drives the launch, over-reliance risks an uncontrolled Prime Beast change with permanent loss of sapience.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 
 | Quantity | Working | Result |
 |---|---|---|

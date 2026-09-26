@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Write `reports/essence_scales_2026-09-26.md` — WAR-161's sweep and findings.
+"""SUPERSEDED 2026-09-26 (C-076): the Grade-bracket report; do not re-run.
+Write `reports/essence_scales_2026-09-26.md` — WAR-161's sweep and findings.
 
 The prose is here; every count and every figure is read from `scan.py`, so the
 report cannot drift from the corpus. Run:

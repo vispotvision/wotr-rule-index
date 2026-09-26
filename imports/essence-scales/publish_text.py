@@ -18,70 +18,8 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import scales  # noqa: E402
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-rows = scales.rows()
-tiers = scales.tier_rows(rows)
-S = {r["stage"]: r for r in rows}
-f = scales.sig
+EU_TABLE, AU_TABLE, _ = scales.tables()
 T = int(scales.TURN_SECONDS)
-
-
-def eta_cell(r):
-    lo, hi = r["eta"]
-    if hi is None:
-        return f"above {lo:.1f}"
-    if lo == hi:
-        return f"~{lo:.2f}"
-    return f"{lo:.2f}–{hi:.2f}"
-
-
-def rng(a, b):
-    if a is None and b is None:
-        return "unmeasured"
-    if b is None:
-        return f"{f(a)} and above"
-    return f"{f(a)}–{f(b)}"
-
-
-eu_rows = []
-for r in rows:
-    if r["stage"] in scales.UNMEASURED:
-        strain = "not assessed by conventional metrics"
-    elif r["strain_grade"]:
-        strain = (f"{r['strain_grade']}-Grade reach, "
-                  f"{rng(r['strain_eu_floor'], r['strain_eu_ceiling'])}")
-    else:
-        strain = "—"
-    eu_rows.append(
-        f"| {r['stage']} | {r['name']} | {r['max_grade'] or 'uncapped'} | "
-        f"{rng(r['eu_floor'], r['eu_ceiling'])} | "
-        f"{f(r['eu_benchmark']) or 'unmeasured'} | {strain} |")
-
-aus_rows = []
-for r in rows:
-    lo, hi = r["eta"]
-    mid = (lo + hi) / 2 if hi else None
-    delivered = (f(r["eu_benchmark"] * mid * scales.EU_JOULE) + " J"
-                 if (r["eu_benchmark"] and mid) else "unmeasured")
-    aus_rows.append(
-        f"| {r['stage']} | {r['tier']} · {r['tier_name']} | {eta_cell(r)} | "
-        f"{rng(r['aus_floor'], r['aus_ceiling'])} | "
-        f"{f(r['aus_benchmark']) or 'unmeasured'} | {delivered} |")
-
-tier_rows_md = []
-for t in tiers:
-    lo, hi = t["eta"]
-    eta = (f"above {lo:.1f}" if hi is None else
-           (f"~{lo:.2f}" if lo == hi else f"{lo:.2f}–{hi:.2f}"))
-    note = ""
-    if t["unmeasured"] and t["aus_benchmark"]:
-        note = (" — " + " and ".join(t["unmeasured"]) +
-                (" are" if len(t["unmeasured"]) > 1 else " is") + " unmeasured")
-    tier_rows_md.append(
-        f"| {t['tier']} · {t['tier_name']} | "
-        f"{t['stages'][0] if len(t['stages']) == 1 else t['stages'][0] + '–' + t['stages'][-1]} | "
-        f"{eta} | {rng(t['eu_floor'], t['eu_ceiling'])} | "
-        f"{rng(t['aus_floor'], t['aus_ceiling'])} | "
-        f"{(f(t['aus_benchmark']) or 'unmeasured')}{note} |")
 
 PART_NINETEEN = f"""### The Turn, and What a Unit Is Worth
 
@@ -96,57 +34,37 @@ heat, sound and structural bleed. A reserve of *E* EU spent at *R* AU/s empties 
 
 ### The EU Band by Temperance Stage
 
-A Stage's Max Grade fixes the magnitude its practitioners can put into the world, \
-and the Grade ladder states that magnitude in joules. At one megajoule to the EU \
-those bounds are a reserve band, and the benchmark inside each band is its \
-midpoint in decades, the geometric mean of floor and ceiling. A reserve at the \
-benchmark, spent at that Stage's efficiency, delivers the middle of the Grade the \
-Stage tops out at, and that is what makes the benchmark the figure to build a sheet \
-around rather than a number chosen for convenience.
+A reserve is set by Level and capped by Stage, by the law of reserves in Part \
+Twenty-Three: log₁₀ EU = {scales.LAW_A} + {scales.LAW_B} × Level. A Stage's \
+practitioners usually stand in its Band's cluster of Levels, and that cluster read \
+through the law is the Stage's working band. The benchmark inside each band is its \
+midpoint in decades, the geometric mean of floor and ceiling. The gate ceiling is \
+the reserve at the Level the Stage cannot pass without its next Threshold, and it \
+is hard where the working band is only typical.
 
-| Stage | Name | Max Grade | EU band | Benchmark reserve | Under strain |
-|---|---|---|---|---|---|
-""" + "\n".join(eu_rows) + f"""
+""" + EU_TABLE + f"""
 
-At Stages V, VII, IX and XI the Sub-Stat ceiling sits above the Max Grade bracket, \
-and the **Under strain** column is what that raised ceiling reaches. It is not a \
-second allocation. It is what the instability zone permits before the Crystal \
-answers for it.
-
-At Zenith and above, force is not assessed by conventional metrics, and the ladder \
-stops there rather than guessing. At the bottom it runs the other way: below \
-Ascension a benchmark reserve is a fraction of one EU, because an Initiate's whole \
-output is a few hundred to a few thousand joules. The unit was cut for \
-practitioners who move more than that.
+The floor is not a floor. A reserve below its working band is a practitioner who \
+built a precise instrument instead of a large one, and it is lawful at any Stage. \
+Above Zenith the Level scale ends, and a Revelation or Apex reserve is known only to \
+stand above the highest reserve the scale can hold.
 
 ### The AU/s Progression
 
 A reserve becomes a rate the moment a turn has a length. A Stage's AU/s band is \
-its EU band spread across one turn, and the benchmark rate is the benchmark \
+its working band spread across one turn, and the benchmark rate is the benchmark \
 reserve spent inside a single turn. That is the plainest statement of what full \
 output costs: **open at your Stage's benchmark rate and you have {T} seconds of \
 it, and nothing after.** Sustained work therefore runs far below the benchmark, \
 and the ten percent Starvation floor is reachable inside one exchange by anyone \
 who forgets it.
 
-| Stage | Tier of Standing | η | AU/s band | Benchmark AU/s | Delivered in one turn |
-|---|---|---|---|---|---|
-""" + "\n".join(aus_rows) + """
+""" + AU_TABLE + """
 
-The last column is what the benchmark reserve delivers across that turn at the \
-tier's efficiency, and at every Stage it lands back inside the Grade band the \
-reserve was read from. The ladder closes on itself, which is the only reason it \
-can be trusted at the top, where the figures stop being imaginable.
-
-Read by standing rather than by Stage, the same ladder runs:
-
-| Tier | Temperance | η | EU band | AU/s band | Benchmark AU/s |
-|---|---|---|---|---|---|
-""" + "\n".join(tier_rows_md) + """
-
-A tier spans every Stage under it, so a tier band is wider than any of its Stages' \
-and says less. Where a page names a Stage, the Stage band governs; the tier band \
-is for a practitioner whose standing is known and whose Stage is not.
+The ladder gives typical rates, not limits. A practitioner's own output is \
+Flux Density × η, and a sheet that sits off the ladder is a practitioner who \
+built differently. The same bands rolled up by Tier of Standing are in Part \
+Twenty-Three.
 
 """
 

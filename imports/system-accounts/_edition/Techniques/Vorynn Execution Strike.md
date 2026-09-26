@@ -31,11 +31,11 @@
 **Trigger** · The blood-pact ignition already burning, a close under Tenebra's cover, and a strike that lands; below Refraction the anchor is the fist, and a lapse of attention ends it.
 **Effect** · A touch that is not a blow, then the limb stops arguing: it stays where it was going and will not come back; frost and a white patch on the skin, a cold not felt because the nerve is blocked; in a practitioner the pathway goes hard and quiet.
 **Failure** · Structural fault: the working succeeds and the practitioner's fibre tears, compounding when chained; clothing, a heat ward, saturated cold, fouling or no contact each deny it.
-**Bleed** · 30 to 40 percent of the spend and all the heat taken leave the Shell as warmth, so the air round him warms and the room with it.
+**Bleed** · 45 percent of the spend and all the heat taken leave the Shell as warmth, so the air round him warms and the room with it.
 **Body** · Over-reliance on the blood-pact ignition can trigger an uncontrolled Prime Beast change with permanent loss of sapience.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 
 | Quantity | Working | Result |
 |---|---|---|

@@ -30,10 +30,10 @@
 **Hold** · Below Refraction, breath is the anchor: the inhale and the held exhale.
 **Failure** · Boundary fault: a chorus-sensed or spirit-registering read was never inside the three bands and passes untouched. Field fault: in warm air the working is correct and makes almost nothing.
 **Strain** · Each casting strains the lungs; the Vitality Tolerance check stiffens with every use in a night and clears only with rest.
-**Bleed** · 30 to 40 percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
+**Bleed** · 45 percent leaves the Shell as heat and sound inside the very cloud meant to bury it, so the mist holds only while cold and dense enough to swallow its maker's waste.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Grade A (276 to 400), read on Dexterity Feint, since the product is concealment, not joules.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70. Grade A (276 to 400), read on Dexterity Feint, since the product is concealment, not joules.
 **Paths** · Body Path: Feint above B needs the Spirit Path at Flourishing, so Essence-trace suppression is capped at B; heat and scent hold at full, but a sense reading Essence at A or above sees through.
 
 | Quantity | Working | Result |

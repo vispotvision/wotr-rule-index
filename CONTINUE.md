@@ -6,6 +6,37 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (the magic docket questionnaire, applied)
+
+**Isaac answered every open magic question (15 answers, `RULINGS.md` "the magic docket questionnaire") and they are applied.**
+Rows already answered by the queue and system-accounts questionnaires were not re-asked; their stale
+`CONFLICTS.md` status lines now name what closed them (27 rows, C-038 to C-076).
+
+**C-076: the Level law governs the reserve bands.** Part Nineteen is rebuilt off Part Twenty-Three
+(`imports/essence-scales/scales.py`, `publish_text.py` → `_part_nineteen.md`) and live on Notion: working band
+per Stage from the cluster Levels, benchmark at the geometric mean, gate ceiling beside it; AU/s = band / 6 s,
+marked typical; the tier roll-up table left to Part Twenty-Three; the stale "efficiency conflict" callout
+removed. Stage XIV now has a band, and the Primate's 2.4×10⁹ sits in it. Part Twenty-Three's VIII–X floor
+corrected 9.90 → 9.89 ×10⁵ (the law gives 989,491). `derive.py`, `build_report.py`, `_derivation.md` are the
+superseded Grade-bracket version: do not re-run. The re-scan is `reports/essence_scales_level_law_2026-09-26.md`.
+
+**C-059 re-run on the Level law scales nothing**, because Part Twenty-Three reads the gate ceiling as hard
+and the floor as no floor, and only Gimbzo and Sodoku pass a ceiling (both named lawful there). So all twelve
+C-059 entities are reverted on Notion to pre-C-059 figures (89 figures; Ara Min back to 4,200,000, since WAR-70's
+10,080,000 was Grade-bracket too): `reports/eu_card_revert_2026-09-26.md`. WAR-139/141/C-072 applications had
+never reached Notion, so Dougou's two pages agree again with no edit.
+
+**Cards (live):** Primate Striking Force Unquantified; Kinjiki Travel Speed Immeasurable; Sodoku and Krothar
+standing Residual Strain, Krothar Band IV Mythic; Ignatius Ardency 880 / Vitality 900 SSS, allocated 13,953 of
+14,085; Karo η 0.60–0.70; Yoko η 0.60, AU/s 90 (150 × 0.60). **Accounts:** Draven's seven price at his own 0.55 / 45%
+(repo and live); the four Stage V accounts at 0.60–0.70 / 30–40% (repo; live Seraphic Thread Blessing corrected,
+the others already read so). `_published.json` was not touched, so the next publish re-pushes 8 identical pages.
+
+**Open, not done:** clean-publishing leftovers on the edited cards (character-lore "Written 2026-09-24"
+headers, Ignatius's "Open Rulings" section and R-ids, the Primate's "extrapolated from" line, Ayame's "(R36-1)");
+Thaumic Harmonics :313 and Saba no Rosa :342/:364 print 40–50% bleed at η 0.60–0.70; Karo's "loss 15 to 25
+percent" line; `book/kharven-year` still gives Yoko η 0.50; the `wiki/` mirror catches up on the next sync.
+
 ## State on 2026-09-26 (WAR-161 — the essence scales are published, and the turn has a length)
 
 **Part Nineteen now carries the EU-by-Stage benchmark, the AU/s progression and the

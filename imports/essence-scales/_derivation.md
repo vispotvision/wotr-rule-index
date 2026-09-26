@@ -1,5 +1,8 @@
 # The essence scales — EU by Stage, the AU/s ladder, AU to joules, the turn
 
+> **Superseded 2026-09-26.** C-076 (RULINGS.md, the magic docket questionnaire) made Part Twenty-Three's Level law govern the reserve bands. This file records the first, Grade-bracket derivation as it was published; `scales.py` now computes the Level-law bands, so do not re-run `derive.py` or `build_report.py`.
+
+
 WAR-161. Every figure in this file is computed by `scales.py` from four quoted
 anchors and three ruled constants. Nothing is typed and nothing is invented: the
 two ladders below are Part Four and Part Five as they stand, read at the constant

@@ -30,10 +30,10 @@
 **Hold** · An outrun limiter is not a dial: the surge runs its full ten seconds or not at all. Glory is below Refraction, so the anchor is blood, the dearest of the four and the pact's own substrate.
 **Ceiling** · Glory's Max Grade is A and Glory has no instability zone, so a surge past A is past the ceiling itself; each surge past A risks a Crystal Fracture Event, at an exponentially rising rate on repetition. That is Primal Regression, derived.
 **Failure** · Structural fault: the Crystal cannot hold what the boundary allowed and fails by overchannel, backlash and fracture; Ardency Overchannel risks overflow above D and backlash above C with no Path protecting the frame.
-**Bleed** · Waste of 30 to 40 percent, 0.18 to 4.5 GW, leaves as heat at the Shell: the practitioner is loud, warm and easy to find, with frost on the scars and a growl under the breath.
+**Bleed** · Waste of 45 percent, 0.27 to 5.0 GW, leaves as heat at the Shell: the practitioner is loud, warm and easy to find, with frost on the scars and a growl under the breath.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; A-Grade (276 to 400) Ardency on the Body Path.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70; A-Grade (276 to 400) Ardency on the Body Path.
 
 | Quantity | Working | Result |
 |---|---|---|

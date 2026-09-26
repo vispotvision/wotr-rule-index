@@ -230,14 +230,17 @@ as nodes on a map rather than as people"*, which is a working that changes the m
 who uses it often.
 
 **What bleeds, at the stated efficiency.** No practitioner is named, so η comes from the ladder:
-Stage V ⇒ **Tier 5 · Expert**, band **0.50–0.60** (Part Nineteen) ⇒ **40–50 percent** as heat, sound
-and structural bleed. **That is the worst efficiency of any page in this batch, and it fits the
-working uncomfortably well:** a 40–50 % bleed on a 1.046×10⁹ J crossing is roughly **4×10⁸ to
-5×10⁸ J** dumped at the two endpoints, which would leave scorch marks at both ends of every
-crossing. Part Nineteen's gloss on Tier 5 is "First genuine efficiency; the Crystal has learned to
-stop leaking," which is generous. **`Two Sets of Books` §III is blunter and describes this page
-exactly: "a low-efficiency practitioner is loud, warm, and easy to find."** A caster using Fluxus
-Intervallum at Stage V is not stealthy, whatever the technique looks like.
+Stage V ⇒ **Tier 5 · Expert**, band **0.60–0.70** (Part Nineteen, the Tier 5 row as corrected by
+**R44-4** and read across the whole row by the `C-063` ruling) ⇒ **30–40 percent** as heat, sound and structural
+bleed. **Middling efficiency does not make this working quiet, because the quantity it is a fraction
+of is enormous:** a 30–40 % bleed on a 1.046×10⁹ J crossing is roughly **3×10⁸ to 4×10⁸ J** dumped at
+the two endpoints, which would leave scorch marks at both ends of every crossing. Part Nineteen's
+gloss on Tier 5 is "First genuine efficiency; the Crystal has learned to stop leaking," and at
+0.60–0.70 the gloss and the figure agree. The leak is no longer the loudest thing about the caster.
+It is still a third of a gigajoule. **`Two Sets of Books` §III supplies the consequence: "a
+low-efficiency practitioner is loud, warm, and easy to find."** A caster using Fluxus Intervallum at
+Stage V is not stealthy, whatever the technique looks like; the scorch marks are the tell, and they
+are the Counterplay route a tracker reads.
 
 ---
 
@@ -247,7 +250,7 @@ Intervallum at Stage V is not stealthy, whatever the technique looks like.
 |---|---|---|
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Flux Density | `null` | No AU/s figure and no practitioner named. |
-| η | **0.50–0.60** (derived) | Stage V ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen). **No card exists because no practitioner is named** — the only page in the batch that is anonymous by design. |
+| η | **0.60–0.70** (derived) | Stage V ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen, the Tier 5 row as corrected by **R44-4** and read across the whole row by the `C-063` ruling). **No card exists because no practitioner is named** — the only page in the batch that is anonymous by design. |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **instantaneous crossing**; **≈half a turn** of stagger on arrival | Page. The stagger is the only turn-denominated figure and it is a half — `SA-GAP-TURN-LENGTH` applies, giving 1.5 s or 2.5 s. |
 | Range | **30 m**, line of sight, two masses | Page. |
@@ -257,7 +260,7 @@ Intervallum at Stage V is not stealthy, whatever the technique looks like.
 | **Transit time** | **21.9 ms** at the Stage's speed; **0.88–5.9 ms** at the stated energy | 30 m ÷ v. **Against reaction bands of 5–15 ms (C), 1–5 ms (B), 0.2–1 ms (A), Part Six: the first figure is plainly resolvable and the second is not.** `SA-NUM-FLUXUS-INSTANT-VS-B-SPEED`. |
 | Coupling falloff | **1/d³** | Near-field dipoles. **Doubling range costs 8× the coupling — the physical basis of the 30 m limit.** |
 | Transfer time | **π/(2κ)** | Coupled-mode theory. Finite by construction, which is why the crossing cannot be instantaneous. |
-| Bleed | **40–50 %** | 1 − η at Tier 5. **The worst in the batch; ≈4–5×10⁸ J dumped at the two endpoints per crossing at the low energy figure.** |
+| Bleed | **30–40 %** | 1 − η at Tier 5 (**R44-4**, read across the whole row by the `C-063` ruling). **≈3–4×10⁸ J dumped at the two endpoints per crossing at the low energy figure.** |
 | Minimum Stage | **V · Splintering** | Page. Part Five: Max Grade B, allocation stops at 275, instability above 320, ceiling 350 under strain only. |
 | Tier of Standing | **5 · Expert** | Part Five. |
 | Grade required | **B** (176–275) | Page. No sheet to check. |

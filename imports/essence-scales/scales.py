@@ -3,8 +3,13 @@
 
 WAR-161. Builds, from canon tables and the rulings that bind them:
 
-  1. the EU-by-Stage benchmark table          (Part Four x Part Five x R44-1 x C-059)
+  1. the EU band by Stage                     (Part Twenty-Three's law of reserves, C-076)
   2. the AU/s progression by Stage and Tier   (the same, through the 6-second turn)
+
+C-076 (2026-09-26, the magic docket questionnaire) replaced the first version's
+derivation (Part Four's Grade bracket at 1 MJ, geometric mean) with the Level law.
+GRADES and the strain logic are kept only because derive.py documents that first
+version; nothing on the page reads them now.
   3. the AU-to-joule equivalence              (R44-1 + the AU-to-joule rate)
   4. the turn table                           (one turn = 6 seconds)
 
@@ -107,7 +112,7 @@ def sig(x, n=4):
     if x == 0:
         return "0"
     e = math.floor(math.log10(abs(x)))
-    m = round(x / 10 ** e, n - 1)
+    m = round(x / 10 ** e + 1e-9, n - 1)   # half-up at the printed digit
     if m >= 10:          # rounding carried
         m, e = m / 10, e + 1
     if -1 <= e < 6:
@@ -146,30 +151,48 @@ def band(grade):
     return (GRADE[grade][3], GRADE[grade][4])
 
 
+# --- Anchor 5: Part Twenty-Three, the law of reserves --------------------------
+# wiki/Fracture of Worlds — The Living System/IX. The Essence Ledger (Part
+# Twenty-Three).md:78: "log₁₀ EU = 3.4202 + 0.012812 × Level", and :87-104, the
+# band table: the cluster Levels give the working band, the gate Level the
+# ceiling. Isaac, 2026-09-26 (RULINGS.md, the magic docket questionnaire, C-076):
+# the Level law governs a Stage's reserve band, and this Part is rebuilt off it.
+LAW_A, LAW_B = 3.4202, 0.012812
+# Stage -> (cluster floor Level, cluster ceiling Level, gate Level). None = beyond
+# the Level scale (XV, XVI); XIV has no gate and is capped by the top of the scale.
+LEVELS = {
+    "I": (1, 100, 100), "II": (1, 100, 100), "III": (1, 100, 100),
+    "IV": (1, 100, 200),
+    "V": (101, 200, 200), "VI": (101, 200, 200), "VII": (101, 200, 300),
+    "VIII": (201, 300, 300), "IX": (201, 300, 300), "X": (201, 300, 400),
+    "XI": (301, 400, 400), "XII": (301, 400, 500),
+    "XIII": (401, 500, 500), "XIV": (401, 500, 500),
+    "XV": None, "XVI": None,
+}
+
+
+def eu_at(level):
+    return 10 ** (LAW_A + LAW_B * level)
+
+
 def rows():
     out = []
     for st in STAGES:
         roman, name, mg, ceiling, tier = st
-        jf, jc = (None, None) if roman in UNMEASURED else band(mg)
-        eu_f = jf / EU_JOULE if jf else None
-        eu_c = jc / EU_JOULE if jc else None
+        lv = LEVELS[roman]
+        if lv:
+            eu_f, eu_c, eu_g = eu_at(lv[0]), eu_at(lv[1]), eu_at(lv[2])
+        else:   # beyond the Level scale: above the top of it, no ceiling
+            eu_f, eu_c, eu_g = eu_at(500), None, None
         eu_b = geomean(eu_f, eu_c)
-        aus_f = eu_f / TURN_SECONDS if eu_f else None
-        aus_c = eu_c / TURN_SECONDS if eu_c else None
-        aus_b = eu_b / TURN_SECONDS if eu_b else None
-        sg = None if roman in UNMEASURED else strain_grade(st)
-        sjf, sjc = band(sg)
         out.append(dict(
             stage=roman, name=name, max_grade=mg, substat_ceiling=ceiling,
             tier=tier, tier_name=TIER_NAME[tier],
-            eta=ETA_BY_TIER[tier],
-            j_floor=jf, j_ceiling=jc,
-            eu_floor=eu_f, eu_ceiling=eu_c, eu_benchmark=eu_b,
-            aus_floor=aus_f, aus_ceiling=aus_c, aus_benchmark=aus_b,
-            strain_grade=sg,
-            strain_eu_floor=sjf / EU_JOULE if sjf else None,
-            strain_eu_ceiling=sjc / EU_JOULE if sjc else None,
-            strain_eu_benchmark=geomean(sjf, sjc) / EU_JOULE if geomean(sjf, sjc) else None,
+            eta=ETA_BY_TIER[tier], levels=lv, gate_level=lv[2] if lv else None,
+            eu_floor=eu_f, eu_ceiling=eu_c, eu_benchmark=eu_b, eu_gate=eu_g,
+            aus_floor=eu_f / TURN_SECONDS if eu_f else None,
+            aus_ceiling=eu_c / TURN_SECONDS if eu_c else None,
+            aus_benchmark=eu_b / TURN_SECONDS if eu_b else None,
         ))
     return out
 
@@ -178,89 +201,70 @@ def tier_rows(rs):
     out = []
     for t in range(1, 10):
         mem = [r for r in rs if r["tier"] == t]
-        measured = [r for r in mem if r["stage"] not in UNMEASURED]
-        floors = [r["eu_floor"] for r in measured if r["eu_floor"] is not None]
-        ceils = [r["eu_ceiling"] for r in measured if r["eu_ceiling"] is not None]
-        unbounded = any(r["eu_ceiling"] is None for r in measured
-                        if r["eu_floor"] is not None)
-        f = min(floors) if floors else None
-        c = None if unbounded else (max(ceils) if ceils else None)
+        f = min(r["eu_floor"] for r in mem)
+        c = None if any(r["eu_ceiling"] is None for r in mem) else max(r["eu_ceiling"] for r in mem)
+        g = None if any(r["eu_gate"] is None for r in mem) else max(r["eu_gate"] for r in mem)
         b = geomean(f, c)
         out.append(dict(
-            tier=t, tier_name=TIER_NAME[t],
-            stages=[r["stage"] for r in mem],
-            unmeasured=[r["stage"] for r in mem if r["stage"] in UNMEASURED],
-            eta=ETA_BY_TIER[t],
-            eu_floor=f, eu_ceiling=c, eu_benchmark=b,
-            aus_floor=f / TURN_SECONDS if f else None,
-            aus_ceiling=c / TURN_SECONDS if c else None,
+            tier=t, tier_name=TIER_NAME[t], stages=[r["stage"] for r in mem],
+            eta=ETA_BY_TIER[t], eu_floor=f, eu_ceiling=c, eu_benchmark=b, eu_gate=g,
+            aus_floor=f / TURN_SECONDS, aus_ceiling=c / TURN_SECONDS if c else None,
             aus_benchmark=b / TURN_SECONDS if b else None,
         ))
     return out
 
 
-def rng(a, b, unit=""):
+def rng(a, b, n=3):
     if a is None and b is None:
-        return "unmeasured"
+        return "—"
     if b is None:
-        return f"{sig(a)}{unit} and above"
-    if a is None:
-        return f"below {sig(b)}{unit}"
-    return f"{sig(a)}–{sig(b)}{unit}"
+        return f"above {sig(a, n)}"
+    return f"{sig(a, n)}–{sig(b, n)}"
+
+
+def eta_text(eta):
+    lo, hi = eta
+    if hi is None:
+        return f"above {lo:.1f}"
+    return f"~{lo:.2f}" if lo == hi else f"{lo:.2f}–{hi:.2f}"
+
+
+def cluster_text(lv):
+    return f"{lv[0]}–{lv[1]}" if lv else "beyond the Level scale"
+
+
+def tables():
+    """The three tables Part Nineteen carries, as markdown. Bands at three
+    significant figures, as Part Twenty-Three prints them."""
+    rs = rows()
+    eu = ["| Stage | Name | Cluster Levels | Working band (EU) | Benchmark reserve (EU) | Gate ceiling (EU) |",
+          "|---|---|---|---|---|---|"]
+    for r in rs:
+        gate = sig(r["eu_gate"], 3) if r["eu_gate"] else "none"
+        eu.append(f"| {r['stage']} | {r['name']} | {cluster_text(r['levels'])} | "
+                  f"{rng(r['eu_floor'], r['eu_ceiling'])} | "
+                  f"{sig(r['eu_benchmark'], 3) or '—'} | {gate} |")
+    au = ["| Stage | Tier of Standing | η | AU/s band | Benchmark AU/s |",
+          "|---|---|---|---|---|"]
+    for r in rs:
+        au.append(f"| {r['stage']} | {r['tier']} · {r['tier_name']} | {eta_text(r['eta'])} | "
+                  f"{rng(r['aus_floor'], r['aus_ceiling'])} | "
+                  f"{sig(r['aus_benchmark'], 3) or '—'} |")
+    ti = ["| Tier | Temperance | η | Working band (EU) | AU/s band | Gate ceiling (EU) |",
+          "|---|---|---|---|---|---|"]
+    for t in tier_rows(rs):
+        st = t["stages"][0] if len(t["stages"]) == 1 else f"{t['stages'][0]}–{t['stages'][-1]}"
+        ti.append(f"| {t['tier']} · {t['tier_name']} | {st} | {eta_text(t['eta'])} | "
+                  f"{rng(t['eu_floor'], t['eu_ceiling'])} | "
+                  f"{rng(t['aus_floor'], t['aus_ceiling'])} | "
+                  f"{sig(t['eu_gate'], 3) if t['eu_gate'] else 'none'} |")
+    return "\n".join(eu), "\n".join(au), "\n".join(ti)
 
 
 def markdown():
-    rs = rows()
-    L = []
-    L.append("### The EU-by-Stage benchmark\n")
-    L.append("| Stage | Name | Max Grade | EU band | Benchmark reserve (EU) | Under strain |")
-    L.append("|---|---|---|---|---|---|")
-    for r in rs:
-        strain = "—"
-        if r["stage"] in UNMEASURED:
-            strain = "not assessed by conventional metrics"
-        elif r["strain_grade"]:
-            strain = (f"{r['strain_grade']}-Grade reach, "
-                      f"{rng(r['strain_eu_floor'], r['strain_eu_ceiling'])} EU")
-        elif r["max_grade"] is None:
-            strain = "no ceiling"
-        bm = sig(r['eu_benchmark']) or ('unmeasured' if r['stage'] in UNMEASURED
-                                        else 'null')
-        L.append(f"| {r['stage']} | {r['name']} | {r['max_grade'] or 'uncapped'} | "
-                 f"{rng(r['eu_floor'], r['eu_ceiling'])} | {bm} | {strain} |")
-    L.append("\n### The AU/s progression by Stage\n")
-    L.append("| Stage | Tier of Standing | η | AU/s band | Benchmark AU/s | Delivered in one turn |")
-    L.append("|---|---|---|---|---|---|")
-    for r in rs:
-        eta_lo, eta_hi = r["eta"]
-        eta = f"{eta_lo:.2f}" if eta_hi == eta_lo else (
-            f"{eta_lo:.2f}–{eta_hi:.2f}" if eta_hi else f"above {eta_lo:.1f}")
-        eta_mid = (eta_lo + eta_hi) / 2 if eta_hi else None
-        delivered = (sig(r["eu_benchmark"] * eta_mid * EU_JOULE) + " J"
-                     if (r["eu_benchmark"] and eta_mid) else "unmeasured")
-        L.append(f"| {r['stage']} | {r['tier']} · {r['tier_name']} | {eta} | "
-                 f"{rng(r['aus_floor'], r['aus_ceiling'])} | "
-                 f"{sig(r['aus_benchmark']) or 'unmeasured'} | {delivered} |")
-    L.append("\n### The same ladder by Tier of Standing\n")
-    L.append("| Tier | Temperance | η | EU band | AU/s band | Benchmark AU/s |")
-    L.append("|---|---|---|---|---|---|")
-    for t in tier_rows(rs):
-        eta_lo, eta_hi = t["eta"]
-        eta = f"~{eta_lo:.2f}" if eta_hi == eta_lo else (
-            f"{eta_lo:.2f}–{eta_hi:.2f}" if eta_hi else f"above {eta_lo:.1f}")
-        L.append(f"| {t['tier']} · {t['tier_name']} | "
-                 f"{t['stages'][0]}–{t['stages'][-1]} | {eta} | "
-                 f"{rng(t['eu_floor'], t['eu_ceiling'])} | "
-                 f"{rng(t['aus_floor'], t['aus_ceiling'])} | "
-                 f"{sig(t['aus_benchmark']) or 'unmeasured'}"
-                 f"{' (' + ', '.join(t['unmeasured']) + ' unmeasured)' if t['unmeasured'] else ''} |")
-    L.append("\n### The turn\n")
-    L.append("| turns | seconds | delivered by a working of R AU/s | drawn from the reserve at η |")
-    L.append("|---|---|---|---|")
-    for n in (1, 2, 3, 4, 5, 6, 10, 20, 100):
-        L.append(f"| {n} | {int(n*TURN_SECONDS)} | {int(n*TURN_SECONDS)}R MJ | "
-                 f"{int(n*TURN_SECONDS)}R ÷ η EU |")
-    return "\n".join(L)
+    eu, au, ti = tables()
+    return ("### The EU band by Stage\n\n" + eu + "\n\n### The AU/s band by Stage\n\n"
+            + au + "\n\n### By Tier of Standing\n\n" + ti)
 
 
 if __name__ == "__main__":

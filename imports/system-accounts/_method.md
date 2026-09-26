@@ -52,7 +52,7 @@ Part Twenty-One.
 
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing | η | Developmental Tier |
 |---|---|---|---|---|---|---|
-| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.50–0.60 *(unruled — see `C-063`)* | Harmonic |
+| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.60–0.70 (**R44-4**, whole-row scope ruled at `C-063`) | Harmonic |
 | VI | Glory | A | 400 | 5 · Expert | 0.60–0.70 (**R44-4**) | Harmonic |
 | VII | Refraction | A (stops at 400) | 475; 401–475 under strain | 5 · Expert | 0.60–0.70 (**R44-4**) | Resonant |
 | VIII | Transcendence | S | 550 | 6 · Master | 0.70–0.80 | Radiant |
@@ -68,14 +68,18 @@ R44-4 has closed it** (`RULINGS.md`:704–716, 2026-09-25): *"Part Seventeen
 governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is
 corrected to match."* The Stage VI and VII rows above are corrected accordingly
 and every account in this batch that reads them has been corrected with them.
-**Stage V is not**: the row R44-4 edits spans "V–VII Splintering to Refraction"
-with one η cell, while the sentence it rules names Stage VI–VII only, so the
-four accounts that read that cell at Stage V keep 0.50–0.60 until that is ruled
-— `C-063`. Those four are the three wholly Stage V accounts under `Techniques/`
-(Fluxus Intervallum, Seraphic Thread Blessing, Veil of Verdant Pact) and
-`Spellcraft/` Transposition, whose stated Stage V variant reads the same cell;
-the fourth was linked to C-063 after it was filed, which is why the row's own
-count of three is short. The boxed
+**Stage V is corrected with them too**, under the `C-063` ruling (`RULINGS.md`,
+2026-09-26, the magic docket questionnaire, rung **I-1**): the row R44-4 edits
+spans "V–VII Splintering to Refraction" with one η cell, and the corrected Tier 5 ·
+Expert cell reads 0.60–0.70 for every Stage it spans, Stage V included. **Four
+accounts read that cell at Stage V and all four are corrected**: the three wholly
+Stage V accounts under `Techniques/` (Fluxus Intervallum, Seraphic Thread Blessing,
+Veil of Verdant Pact) and `Spellcraft/` Transposition, a Stage VII account with a
+stated Stage V variant. Their bleed moves from 40–50 % to 30–40 % and every figure
+derived from it is recomputed. A card that states an η of its own and sits under the
+corrected band is governed by its card (`C-062`, same entry, rung **I-2**); the two
+Stage V cards that cite the Tier table's figure instead follow the table (`C-071`,
+per WAR-151). The boxed
 note on the source page itself is left exactly as written, which R44-4 says to
 do, so the mirror still reads the conflict as open.
 
@@ -201,7 +205,7 @@ from AU/s ÷ η where an AU/s figure exists, and is `null` otherwise.
 |---|---|---|---|---|---|---|---|---|
 | Serenyra Vaelith | VIII Transcendence | 276 | S, ceiling 550 | ~0.70 | 0.70–0.80 ✓ | Refined | 22 (`Lumen Dissecans`) | 22 ÷ 0.70 = **31.4 EU/g** |
 | Drakvor | VIII Transcendence | 295 | S, ceiling 550 | ~0.55 | 0.70–0.80 ✗ | Refined, overbuilt | null | null |
-| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.60–0.70 ✗ (**R44-4**) | Refined | null | null |
+| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.60–0.70 ✗ (**R44-4**); card governs (`C-062`) | Refined | null | null |
 | Aeldoris Vanthryx | VII Refraction | 195 | A→S, ceiling 475 | ~0.65 | 0.60–0.70 ✓ (**R44-4**) | Refined, residue-heavy | null | null |
 | Francis Alexander | XIV Zenith | 470 | EX, ceiling 1,500 | 0.93 | 0.95–1.2 ✗ | "Absolute Crystal" | 2,800,000 (`Dirge Ascension`) | 2,800,000 ÷ 0.93 = **3,010,753 EU/g** |
 | Opalis | XII Emanation | 301–400 (Band IV) | SSS, ceiling 950 | no card | 0.85–0.90 | null | null | null |
@@ -213,8 +217,12 @@ under R42. Both logged, neither resolved (`SA-NUM-ETA-TIER`,
 `SA-UNATT-COHERENCE-BAND`). **R44-4 changed which three**: it corrected Tier 5's
 cell to 0.60–0.70, which brought Aeldoris's 0.65 inside his band and put Draven's
 ~0.55 below his. The count is unchanged at three — Drakvor, Draven, Francis —
-and Draven's case is `C-062`, filed to Doc Kett. Drakvor's and Francis's bands
-are Tier 6 and Tier 8, which R44-4 does not touch.
+and Draven's case was `C-062`, **ruled on 2026-09-26** (Isaac, rung
+**I-2**, the magic docket questionnaire): his card's ~0.55 governs and the corrected Tier 5 row is a
+typical range for him, so he sits outside his band **lawfully** and no figure
+moves. Drakvor's and Francis's bands are Tier 6 and Tier 8, which R44-4 does not
+touch and which that ruling does not name; they stay logged and unruled under
+`SA-NUM-ETA-TIER`.
 
 **Six** sourced AU/s figures exist in the batch, across seven Stages, with no
 scaling rule between them (`SA-CROSS-AUS-LADDER`). The table above holds the two

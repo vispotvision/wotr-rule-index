@@ -177,7 +177,7 @@ is written on is a person. **Residue** runs underneath, because the growth is th
 
 **Essence stratum.** Crystal layer: the **Attraction Layer**, projected outward as a domain of grown
 matter rather than worn — the page's Category is *"Domain Weaving (Attraction)"*. Developmental Tier
-**Harmonic** (Stage V, Part Twenty-One). Tier of Standing **5 · Expert**, η band 0.50–0.60; no practitioner
+**Harmonic** (Stage V, Part Twenty-One). Tier of Standing **5 · Expert**, η band 0.60–0.70 (**R44-4**, read across the whole row by the `C-063` ruling); no practitioner
 named, so nothing to check. Crystal State `null`. **The invoice:** a body used as the routing point for
 every injury the structure takes — *"a burn absorbed by the dome is a burn the caster feels before it
 becomes bark"* — and a ledger against future healing.
@@ -296,9 +296,9 @@ does.**
 |---|---|---|
 | EU spent | `null` | No page figure and no practitioner named; no formula converts a Stage into EU (`SA-GAP-EU-FORMULA`). |
 | Flux Density | `null` | No AU/s figure; no card. |
-| η | **0.50–0.60 derived, nothing to check it against** | Stage V is Tier **5 · Expert** (Part Nineteen). The page names no practitioner (`:57`). |
+| η | **0.60–0.70 derived, nothing to check it against** | Stage V is Tier **5 · Expert** (Part Nineteen, the Tier 5 row as corrected by **R44-4** and read across the whole row by the `C-063` ruling). The page names no practitioner (`:57`). |
 | AU/s | `null` | Needs Flux Density. |
-| Efficiency and bleed | **40–50% at the Tier band** | 1 − η, *"as heat, sound, and structural bleed."* On a standing working the bleed is continuous, and on this one it is being dumped into a structure made of dry fuel. |
+| Efficiency and bleed | **30–40% at the Tier band** | 1 − η, *"as heat, sound, and structural bleed."* On a standing working the bleed is continuous, and on this one it is being dumped into a structure made of dry fuel. |
 | Radius | **5 m** | Page `:17`. |
 | **Shell area** | **157 m²** | 2πr² for a 5 m hemisphere. |
 | **Shell mass at B-Grade's ceiling** | **2,630 kg** | 4.6024 × 10¹⁰ J (Part Four, B ceiling) ÷ 17.5 MJ/kg (heat of combustion, dry wood). |

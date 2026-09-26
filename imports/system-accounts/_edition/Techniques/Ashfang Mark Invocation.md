@@ -30,10 +30,10 @@
 **One at a time** · A second talon in the other hand does nothing; switching trophies mid-exchange gives up the first trait for the second.
 **Failure** · Structural fault: the graft works and the body cannot fund it, and the structure that fails is cardiac.
 **No signature** · An Essence seal or identity-stripping working on the beast before contact leaves no print to read; the talon is only a bone.
-**Bleed** · 30 to 40 percent leaves the Shell as heat, sound and light, less what Cinerion reclaims from the practitioner's own combustion.
+**Bleed** · 45 percent leaves the Shell as heat, sound and light, less what Cinerion reclaims from the practitioner's own combustion.
 
 ## Essence
-**Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
+**Practitioner** · Glory, Expert, Max Grade A (ceiling 400), B-Grade (176 to 275) Tempering required, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70. Tempering Maturity and Gnosis Perception govern.
 **Paths** · Body: Constitution needs Body Path at Welling to pass D, or the frame and heart stay untrained and fail sooner; the gravitational part of Tolerance needs Attraction Path at Glory.
 
 | Quantity | Working | Result |

@@ -6,69 +6,51 @@
 
 ### The EU Band by Temperance Stage
 
-A Stage's Max Grade fixes the magnitude its practitioners can put into the world, and the Grade ladder states that magnitude in joules. At one megajoule to the EU those bounds are a reserve band, and the benchmark inside each band is its midpoint in decades, the geometric mean of floor and ceiling. A reserve at the benchmark, spent at that Stage's efficiency, delivers the middle of the Grade the Stage tops out at, and that is what makes the benchmark the figure to build a sheet around rather than a number chosen for convenience.
+A reserve is set by Level and capped by Stage, by the law of reserves in Part Twenty-Three: log₁₀ EU = 3.4202 + 0.012812 × Level. A Stage's practitioners usually stand in its Band's cluster of Levels, and that cluster read through the law is the Stage's working band. The benchmark inside each band is its midpoint in decades, the geometric mean of floor and ceiling. The gate ceiling is the reserve at the Level the Stage cannot pass without its next Threshold, and it is hard where the working band is only typical.
 
-| Stage | Name | Max Grade | EU band | Benchmark reserve | Under strain |
+| Stage | Name | Cluster Levels | Working band (EU) | Benchmark reserve (EU) | Gate ceiling (EU) |
 |---|---|---|---|---|---|
-| I | Murmuring | E | 3.000×10^-4–1.500×10^-2 | 2.121×10^-3 | — |
-| II | Welling | D | 1.500×10^-2–20.92 | 0.5602 | — |
-| III | Ascension | C | 20.92–1,046 | 147.9 | — |
-| IV | Flourishing | B | 1,046–46,020 | 6,938 | — |
-| V | Splintering | B | 1,046–46,020 | 6,938 | A-Grade reach, 46,020–4.184×10^6 |
-| VI | Glory | A | 46,020–4.184×10^6 | 438,800 | — |
-| VII | Refraction | A | 46,020–4.184×10^6 | 438,800 | S-Grade reach, 4.184×10^6–2.427×10^7 |
-| VIII | Transcendence | S | 4.184×10^6–2.427×10^7 | 1.008×10^7 | — |
-| IX | Invocation | S | 4.184×10^6–2.427×10^7 | 1.008×10^7 | SS-Grade reach, 4.184×10^7–4.184×10^8 |
-| X | Realization | SS | 4.184×10^7–4.184×10^8 | 1.323×10^8 | — |
-| XI | Dissonance | SS | 4.184×10^7–4.184×10^8 | 1.323×10^8 | SSS-Grade reach, 4.184×10^8–4.184×10^15 |
-| XII | Emanation | SSS | 4.184×10^8–4.184×10^15 | 1.323×10^12 | — |
-| XIII | Principality | X | 4.184×10^15–1.240×10^23 | 2.278×10^19 | — |
-| XIV | Zenith | EX | unmeasured | unmeasured | not assessed by conventional metrics |
-| XV | Revelation | EX+ | unmeasured | unmeasured | not assessed by conventional metrics |
-| XVI | Apex | uncapped | unmeasured | unmeasured | not assessed by conventional metrics |
+| I | Murmuring | 1–100 | 2,710–50,300 | 11,700 | 50,300 |
+| II | Welling | 1–100 | 2,710–50,300 | 11,700 | 50,300 |
+| III | Ascension | 1–100 | 2,710–50,300 | 11,700 | 50,300 |
+| IV | Flourishing | 1–100 | 2,710–50,300 | 11,700 | 961,000 |
+| V | Splintering | 101–200 | 51,800–961,000 | 223,000 | 961,000 |
+| VI | Glory | 101–200 | 51,800–961,000 | 223,000 | 961,000 |
+| VII | Refraction | 101–200 | 51,800–961,000 | 223,000 | 1.84×10^7 |
+| VIII | Transcendence | 201–300 | 989,000–1.84×10^7 | 4.26×10^6 | 1.84×10^7 |
+| IX | Invocation | 201–300 | 989,000–1.84×10^7 | 4.26×10^6 | 1.84×10^7 |
+| X | Realization | 201–300 | 989,000–1.84×10^7 | 4.26×10^6 | 3.51×10^8 |
+| XI | Dissonance | 301–400 | 1.89×10^7–3.51×10^8 | 8.14×10^7 | 3.51×10^8 |
+| XII | Emanation | 301–400 | 1.89×10^7–3.51×10^8 | 8.14×10^7 | 6.70×10^9 |
+| XIII | Principality | 401–500 | 3.61×10^8–6.70×10^9 | 1.56×10^9 | 6.70×10^9 |
+| XIV | Zenith | 401–500 | 3.61×10^8–6.70×10^9 | 1.56×10^9 | 6.70×10^9 |
+| XV | Revelation | beyond the Level scale | above 6.70×10^9 | — | none |
+| XVI | Apex | beyond the Level scale | above 6.70×10^9 | — | none |
 
-At Stages V, VII, IX and XI the Sub-Stat ceiling sits above the Max Grade bracket, and the **Under strain** column is what that raised ceiling reaches. It is not a second allocation. It is what the instability zone permits before the Crystal answers for it.
-
-At Zenith and above, force is not assessed by conventional metrics, and the ladder stops there rather than guessing. At the bottom it runs the other way: below Ascension a benchmark reserve is a fraction of one EU, because an Initiate's whole output is a few hundred to a few thousand joules. The unit was cut for practitioners who move more than that.
+The floor is not a floor. A reserve below its working band is a practitioner who built a precise instrument instead of a large one, and it is lawful at any Stage. Above Zenith the Level scale ends, and a Revelation or Apex reserve is known only to stand above the highest reserve the scale can hold.
 
 ### The AU/s Progression
 
-A reserve becomes a rate the moment a turn has a length. A Stage's AU/s band is its EU band spread across one turn, and the benchmark rate is the benchmark reserve spent inside a single turn. That is the plainest statement of what full output costs: **open at your Stage's benchmark rate and you have 6 seconds of it, and nothing after.** Sustained work therefore runs far below the benchmark, and the ten percent Starvation floor is reachable inside one exchange by anyone who forgets it.
+A reserve becomes a rate the moment a turn has a length. A Stage's AU/s band is its working band spread across one turn, and the benchmark rate is the benchmark reserve spent inside a single turn. That is the plainest statement of what full output costs: **open at your Stage's benchmark rate and you have 6 seconds of it, and nothing after.** Sustained work therefore runs far below the benchmark, and the ten percent Starvation floor is reachable inside one exchange by anyone who forgets it.
 
-| Stage | Tier of Standing | η | AU/s band | Benchmark AU/s | Delivered in one turn |
-|---|---|---|---|---|---|
-| I | 1 · Initiate | ~0.30 | 5.000×10^-5–2.500×10^-3 | 3.536×10^-4 | 636.4 J |
-| II | 2 · Apprentice | ~0.35 | 2.500×10^-3–3.487 | 9.336×10^-2 | 196,100 J |
-| III | 3 · Journeyman | ~0.40 | 3.487–174.3 | 24.65 | 5.917×10^7 J |
-| IV | 4 · Adept | ~0.45 | 174.3–7,671 | 1,156 | 3.122×10^9 J |
-| V | 5 · Expert | 0.60–0.70 | 174.3–7,671 | 1,156 | 4.510×10^9 J |
-| VI | 5 · Expert | 0.60–0.70 | 7,671–697,300 | 73,140 | 2.852×10^11 J |
-| VII | 5 · Expert | 0.60–0.70 | 7,671–697,300 | 73,140 | 2.852×10^11 J |
-| VIII | 6 · Master | 0.70–0.80 | 697,300–4.045×10^6 | 1.679×10^6 | 7.557×10^12 J |
-| IX | 6 · Master | 0.70–0.80 | 697,300–4.045×10^6 | 1.679×10^6 | 7.557×10^12 J |
-| X | 6 · Master | 0.70–0.80 | 6.973×10^6–6.973×10^7 | 2.205×10^7 | 9.923×10^13 J |
-| XI | 7 · Grandmaster | 0.85–0.90 | 6.973×10^6–6.973×10^7 | 2.205×10^7 | 1.158×10^14 J |
-| XII | 7 · Grandmaster | 0.85–0.90 | 6.973×10^7–6.973×10^14 | 2.205×10^11 | 1.158×10^18 J |
-| XIII | 8 · Archmaster | 0.95–1.20 | 6.973×10^14–2.067×10^22 | 3.796×10^18 | 2.449×10^25 J |
-| XIV | 8 · Archmaster | 0.95–1.20 | unmeasured | unmeasured | unmeasured |
-| XV | 9 · Paragon | above 1.2 | unmeasured | unmeasured | unmeasured |
-| XVI | 9 · Paragon | above 1.2 | unmeasured | unmeasured | unmeasured |
+| Stage | Tier of Standing | η | AU/s band | Benchmark AU/s |
+|---|---|---|---|---|
+| I | 1 · Initiate | ~0.30 | 452–8,380 | 1,950 |
+| II | 2 · Apprentice | ~0.35 | 452–8,380 | 1,950 |
+| III | 3 · Journeyman | ~0.40 | 452–8,380 | 1,950 |
+| IV | 4 · Adept | ~0.45 | 452–8,380 | 1,950 |
+| V | 5 · Expert | 0.60–0.70 | 8,630–160,000 | 37,200 |
+| VI | 5 · Expert | 0.60–0.70 | 8,630–160,000 | 37,200 |
+| VII | 5 · Expert | 0.60–0.70 | 8,630–160,000 | 37,200 |
+| VIII | 6 · Master | 0.70–0.80 | 165,000–3.06×10^6 | 710,000 |
+| IX | 6 · Master | 0.70–0.80 | 165,000–3.06×10^6 | 710,000 |
+| X | 6 · Master | 0.70–0.80 | 165,000–3.06×10^6 | 710,000 |
+| XI | 7 · Grandmaster | 0.85–0.90 | 3.15×10^6–5.85×10^7 | 1.36×10^7 |
+| XII | 7 · Grandmaster | 0.85–0.90 | 3.15×10^6–5.85×10^7 | 1.36×10^7 |
+| XIII | 8 · Archmaster | 0.95–1.20 | 6.02×10^7–1.12×10^9 | 2.59×10^8 |
+| XIV | 8 · Archmaster | 0.95–1.20 | 6.02×10^7–1.12×10^9 | 2.59×10^8 |
+| XV | 9 · Paragon | above 1.2 | above 1.12×10^9 | — |
+| XVI | 9 · Paragon | above 1.2 | above 1.12×10^9 | — |
 
-The last column is what the benchmark reserve delivers across that turn at the tier's efficiency, and at every Stage it lands back inside the Grade band the reserve was read from. The ladder closes on itself, which is the only reason it can be trusted at the top, where the figures stop being imaginable.
-
-Read by standing rather than by Stage, the same ladder runs:
-
-| Tier | Temperance | η | EU band | AU/s band | Benchmark AU/s |
-|---|---|---|---|---|---|
-| 1 · Initiate | I | ~0.30 | 3.000×10^-4–1.500×10^-2 | 5.000×10^-5–2.500×10^-3 | 3.536×10^-4 |
-| 2 · Apprentice | II | ~0.35 | 1.500×10^-2–20.92 | 2.500×10^-3–3.487 | 9.336×10^-2 |
-| 3 · Journeyman | III | ~0.40 | 20.92–1,046 | 3.487–174.3 | 24.65 |
-| 4 · Adept | IV | ~0.45 | 1,046–46,020 | 174.3–7,671 | 1,156 |
-| 5 · Expert | V–VII | 0.60–0.70 | 1,046–4.184×10^6 | 174.3–697,300 | 11,030 |
-| 6 · Master | VIII–X | 0.70–0.80 | 4.184×10^6–4.184×10^8 | 697,300–6.973×10^7 | 6.973×10^6 |
-| 7 · Grandmaster | XI–XII | 0.85–0.90 | 4.184×10^7–4.184×10^15 | 6.973×10^6–6.973×10^14 | 6.973×10^10 |
-| 8 · Archmaster | XIII–XIV | 0.95–1.20 | 4.184×10^15–1.240×10^23 | 6.973×10^14–2.067×10^22 | 3.796×10^18 — XIV is unmeasured |
-| 9 · Paragon | XV–XVI | above 1.2 | unmeasured | unmeasured | unmeasured |
-
-A tier spans every Stage under it, so a tier band is wider than any of its Stages' and says less. Where a page names a Stage, the Stage band governs; the tier band is for a practitioner whose standing is known and whose Stage is not.
+The ladder gives typical rates, not limits. A practitioner's own output is Flux Density × η, and a sheet that sits off the ladder is a practitioner who built differently. The same bands rolled up by Tier of Standing are in Part Twenty-Three.
 

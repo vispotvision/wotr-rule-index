@@ -33,11 +33,11 @@
 **Chime** · A faint ringing as a thin ice layer cracks as fast as it forms.
 **Scope** · A two-metre arc, delivered across its sweep and not sustained, below the 3 to 10 m A-Grade Contact Range.
 **Failure** · Field fault: a room with no gradient left, or heat driven into the arc, gives the cold nothing; insulation denies the contact, and speed outruns two metres.
-**Bleed** · 30 to 40 percent of the spend and the heat taken leave the Shell as warmth into the air, so a warm closed room slowly spoils the working.
+**Bleed** · 45 percent of the spend and the heat taken leave the Shell as warmth into the air, so a warm closed room slowly spoils the working.
 **Body** · The drawing arm is the cold end, and numbness in it grows with each sweep until the hands are slow and do not report what they hold.
 
 ## Essence
-**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70.
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
 
 | Quantity | Working | Result |
 |---|---|---|

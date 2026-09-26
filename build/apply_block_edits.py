@@ -55,23 +55,24 @@ def main():
             continue
         b = api("GET", f"/blocks/{bid}")
         typ = b["type"]
-        rt = b[typ].get("rich_text")
-        cs = chars(rt) if rt is not None else None
-        if cs is None:
+        rts = b[typ]["cells"] if typ == "table_row" else [b[typ].get("rich_text")]
+        css = [chars(rt) if rt is not None else None for rt in rts]
+        if any(cs is None for cs in css):
             print("SKIP (non-text)", bid); skipped += 1; continue
-        text = "".join(c for c, _ in cs)
         ok = True
         for ed in sorted(e.get("edits", []), key=lambda x: -len(x["old"])):
-            i = text.find(ed["old"])
-            if i < 0:
+            k = next((k for k, cs in enumerate(css) if ed["old"] in "".join(c for c, _ in cs)), None)
+            if k is None:
                 print("MISS", bid, repr(ed["old"][:60])); ok = False; continue
+            cs = css[k]
+            i = "".join(c for c, _ in cs).find(ed["old"])
             style = cs[i][1] if i < len(cs) else cs[-1][1]
-            cs = cs[:i] + [(c, style) for c in ed["new"]] + cs[i + len(ed["old"]):]
-            text = "".join(c for c, _ in cs)
+            css[k] = cs[:i] + [(c, style) for c in ed["new"]] + cs[i + len(ed["old"]):]
         if not ok:
             skipped += 1
         if apply:
-            api("PATCH", f"/blocks/{bid}", {typ: {"rich_text": rebuild(cs)}})
+            body = {"cells": [rebuild(cs) for cs in css]} if typ == "table_row" else {"rich_text": rebuild(css[0])}
+            api("PATCH", f"/blocks/{bid}", {typ: body})
         done += 1
     print(f"edited {done}, deleted {deleted}, skipped/missed {skipped}{'' if apply else ' (dry run)'}")
 

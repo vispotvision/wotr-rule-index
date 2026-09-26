@@ -1,5 +1,5 @@
 ---
-page: wiki/Techniques/Sigillum Fixatio.md
+page: wiki/Techniques/Sigillum Fixationis.md
 section: Techniques
 practitioner: null (the source names no practitioner, era or problem)
 card: null

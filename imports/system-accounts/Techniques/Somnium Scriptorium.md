@@ -1,5 +1,5 @@
 ---
-page: wiki/Techniques/Somnium Scriptorium.md
+page: wiki/Techniques/Somnii Scriptorium.md
 section: Techniques
 practitioner: Serenyra Vaelith
 card: wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md

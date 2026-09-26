@@ -1,5 +1,5 @@
 ---
-page: wiki/Techniques/Archivium Locus.md
+page: wiki/Techniques/Archivii Locus.md
 section: Techniques
 practitioner: Serenyra Vaelith · The Archmagus of the Grove-Spired Crown
 card: wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md

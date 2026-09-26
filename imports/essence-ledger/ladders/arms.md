@@ -88,7 +88,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 |---|---|---|---|---|---|
 | **Slyvine's Scarf** | relic, a rope or a weak shield | Proofed, Grade D | 1.5 × 10⁴ – 2.1 × 10⁷ J | T2 or above | **2 · Linepiece**, as armour |
 | **Mkono wa Miti** | grown-in bracer, light natural armour | stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot | up to D | living bark | **2 · Linepiece**, as armour |
-| **Upanga wa Msimu Nne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **4 · Siegepiece** |
+| **Upanga wa Misimu Minne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **4 · Siegepiece** |
 | **Verdiction Gauntlet** | gauntlet, stored discharge | Ardency 268, B; 1 to 5 GN | 1.046 – 46 GJ | — | **4 · Siegepiece** |
 | **Kogane Kei** | blade, channelled | its bearer's Ardency, 395, A; fails against S-Grade defences | 46 GJ – 4.2 TJ | — | **5 · Fieldwinner** |
 | **Kurosetsu Reforged** | longsword | A-Grade Strike Force at full delivery | 46 GJ – 4.2 TJ | Aethersteel, effective T5 | **5 · Fieldwinner**; material and hit agree |

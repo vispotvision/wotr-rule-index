@@ -338,11 +338,11 @@ The two agree most often through the middle of the trade, where a Threshold rati
 | **The Latch of Twinned Souls** | discharged: an Echo's field cost passed through it | 80 – 240: five to fifteen percent of 1,600 EU | 8 × 10⁷ – 2.4 × 10⁸ J | Soulbound, Expert bearer | **Talisman** | the field cost it carries, a fifth of it saved |
 | **Mnemonis Solution** | stored: one dose | 100 – 500 | 10⁸ – 5 × 10⁸ J | Free: consumed | **Talisman** | the dose; on the Drafts ladder it is a Draught |
 | **The Black Aperture** | discharged: one Event-Edge strike | 80 – 120 | 8 × 10⁷ – 1.2 × 10⁸ J | Keyed: the threefold vow | **Talisman** | the strike; its Topology Collapse ignores Strike Force, and the Void Gate's toll is paid outside the EU economy |
-| **Upanga wa Msimu Nne** | discharged: Cycle Severance, the full rite | 2,400 across four days, 600 a day | 2.4 × 10⁹ J; its cuts at Ardency 190, B-Grade | Keyed: the Rite of the Turning Leaf | **Implement** | the rite and the cut agree |
+| **Upanga wa Misimu Minne** | discharged: Cycle Severance, the full rite | 2,400 across four days, 600 a day | 2.4 × 10⁹ J; its cuts at Ardency 190, B-Grade | Keyed: the Rite of the Turning Leaf | **Implement** | the rite and the cut agree |
 | **Verdiction Gauntlet** | stored, then discharged: the Divine Judgment Strike | 1,046 – 4.6 × 10⁴ | 1.046 – 46 GJ, B-Grade | Soulbound: the bearer's Verdiction Core, Expert bearer | **Implement** | the stored charge; nothing to release, no rung |
 | **Banisher** | stored: three ring-charges | about 2 × 10⁴ a charge, 6 × 10⁴ held | 6 × 10¹⁰ J full | Keyed: an active Writ or sworn authority | **Relic** | the three rings; with one ring left it is an Implement, and without a Writ it reads a rung lower |
 | **The Ocular Codex of Thirteen Mouths** | stored: what it has drunk and been fed | up to 4.2 × 10⁶: whole workings below Stage VII, A-Grade and under | up to 4.184 × 10¹² J | Free: whoever last fed it | **Relic** | the store; the rung travels with the book |
-| **Nkanda wa Mizimu** | discharged: Resonance Wards, seven percent continuous | about 2.2 × 10⁵ | about 2.2 × 10¹¹ J | Soulbound, Master bearer | **Relic** | the ward's share of a Master's reserve |
+| **Mkanda wa Mizimu** | discharged: Resonance Wards, seven percent continuous | about 2.2 × 10⁵ | about 2.2 × 10¹¹ J | Soulbound, Master bearer | **Relic** | the ward's share of a Master's reserve |
 | **Staff of the Verdant Pulse** | discharged: Call the Verdant Phantoms, twelve percent and five for each further construct | 3.8 × 10⁵ – 6.9 × 10⁵ | 3.8 – 6.9 × 10¹¹ J | Soulbound, Master bearer | **Relic** | the call |
 | **Mbunda wa Moyo** | discharged: Domain Battle-Rhythm, eight percent continuous | about 2.5 × 10⁵ | about 2.5 × 10¹¹ J | Soulbound, Master bearer | **Relic** | the rhythm; a gap of three seconds takes it off the ladder until restarted |
 | **Mkono wa Miti** | discharged: Bark-Shield Sprout, five percent | about 1.6 × 10⁵ | about 1.6 × 10¹¹ J | Grown-in: the bearer's forearm, Master bearer | **Relic** | the sprout; its grounding holds only to E-to-D force, so the rung is what it spends, not what it stops |
@@ -701,7 +701,7 @@ The ladder does not replace the grades the trade already stamps. **It reads a di
 |---|---|---|---|---|---|
 | **Slyvine's Scarf** | relic, a rope or a weak shield | Proofed, Grade D | 1.5 × 10⁴ – 2.1 × 10⁷ J | T2 or above | **Linepiece**, as armour |
 | **Mkono wa Miti** | grown-in bracer, light natural armour | stops shot, blunt strikes and edges to the E-to-D band; fails against proofed shot | up to D | living bark | **Linepiece**, as armour |
-| **Upanga wa Msimu Nne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **Siegepiece** |
+| **Upanga wa Misimu Minne** | blade | cuts at its bearer's Ardency, 190, B; beats proofed plate through C | 1.046 – 46 GJ | greensteel | **Siegepiece** |
 | **Verdiction Gauntlet** | gauntlet, stored discharge | Ardency 268, B; 1 to 5 GN | 1.046 – 46 GJ | — | **Siegepiece** |
 | **Kogane Kei** | blade, channelled | its bearer's Ardency, 395, A; fails against S-Grade defences | 46 GJ – 4.2 TJ | — | **Fieldwinner** |
 | **Kurosetsu Reforged** | longsword | A-Grade Strike Force at full delivery | 46 GJ – 4.2 TJ | Aethersteel, effective T5 | **Fieldwinner**; material and hit agree |

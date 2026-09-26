@@ -87,6 +87,7 @@ def strip_md(text: str) -> str:
 
 def run(text: str, combat: bool = False, culture: str | None = None, band: str = "standard") -> dict:
     fails, warns, info = [], [], []
+    text = re.split(r"(?m)^##\s+Notes\b", text, maxsplit=1)[0]  # author notes are not measured
     raw = text
     body = strip_md(text)
     paragraphs = [p.strip() for p in re.split(r"\n\s*\n", body) if p.strip()]

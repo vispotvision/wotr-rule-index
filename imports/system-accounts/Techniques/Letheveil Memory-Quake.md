@@ -49,7 +49,7 @@ cue re-encodes the trace inside the window.
 **Measurable quantities, SI.**
 - Field: **25 m** radius (page) ⇒ (4/3)π(25 m)³ = **6.54×10⁴ m³**.
 - Window: **3–10 s** (page, sourced).
-- Shockwave: **≈5 s** (page's estimate, "1 turn" at 5 s/turn).
+- Shockwave: **6 s** (the page's one turn, at six seconds to the turn).
 - **Information destroyed, per target.** Human working memory holds about **4 ± 1**
   chunks. A 3–10 s combat sequence at roughly one chunk per 0.5 s is **6 to 20 chunks**;
   at ~10 bits of specificity per chunk that is **60 to 200 bits**.
@@ -252,7 +252,7 @@ under `SA-NUM-ETA-TIER` no longer reaches him.
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
 | η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
-| Shockwave duration | **≈5 s** (page's estimate) | "1 turn" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Shockwave duration | **6 s** | One turn, at six seconds to the turn. |
 | Memory window | **3–10 s** | Page, sourced. **Matches the clinical retrograde-amnesia window for a concussive insult.** |
 | Field volume | **6.54×10⁴ m³** | (4/3)π(25 m)³. |
 | Information destroyed | **60–200 bits** per target | 6–20 working-memory chunks × ≈10 bits. |
@@ -296,7 +296,7 @@ threshold.** EU has a Starvation line at 10 %. Memory has nothing. Logged
 | Test | Verdict | Why |
 |---|---|---|
 | Costs something that hurts | **pass** | **Recall Slip** — *"Aeldoris loses one of his own minor memories on release"*, permanently, every time — and **Temporal Fog**, brief confusion immediately afterward, which is a real tempo cost on a **reactive** working he may want to use twice. Paying in the same coin the working spends is the neatest cost design in the batch. The system still has no rule pricing memory (`SA-GAP-MEMORY-AS-COST`) and there is no EU figure (`SA-GAP-EU-FORMULA`). |
-| Stated limits | **pass, and they are narrow on purpose** | 25 m; **reactive only**, released against an incoming layered working or a rhythm in progress; memory window **3 to 10 seconds** (already in real units, from the source); shockwave ≈5 s; **cannot reach memory that has already anchored**; conscious targets only; and it is **indiscriminate within the radius**. |
+| Stated limits | **pass, and they are narrow on purpose** | 25 m; **reactive only**, released against an incoming layered working or a rhythm in progress; memory window **3 to 10 seconds** (already in real units, from the source); shockwave 6 s; **cannot reach memory that has already anchored**; conscious targets only; and it is **indiscriminate within the radius**. |
 | Something beats it | **pass, and the counters are props** | Pain, a pre-arranged anchor, a mind with no resting state, or a Verdantia clarity field. |
 | It has a tell | **pass** | It fires in answer to something you did, in a 25-metre burst, and everyone inside feels the same thing at the same moment — including his own side, which is its own kind of announcement. |
 | Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A, allocation to 400, ceiling 475 under strain (Part Five), and the page states *"bounded by Stage VII's 475 ceiling, Grade A"* correctly. Card Tempering 370, Ardency 340, Dominion 300 are A ✓. Against that: Harmonics 430 and Dexterity 410 sit in the strain-only band as standing values (`SA-NUM-AELDORIS-INSTABILITY`); his η 0.65 is **mid-band** since **R44-4** put the Tier 5 band at **0.60–0.70**. Both Spirit gates the working needs are met. |

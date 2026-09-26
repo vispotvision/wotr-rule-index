@@ -90,7 +90,7 @@ defensibly than the step page does.**
 **Measurable quantities, SI.**
 - Radius: **0 – 140 m** (page). Sphere (4/3)π(140 m)³ = **1.15×10⁷ m³.**
 - Duration: *"as long as Aeldoris's own attention holds"*; the page notes an older two-turn figure,
-  which at 5 s/turn is **≈10 s.**
+  which at six seconds to the turn is **12 s.**
 - Mass a deposited figure would need: **≈70 kg**, i.e. **≈58 m³** of air fully converted.
   **Not available.** The figure is not matter.
 - Force a standing presence needs: **≈500 N**, **≈50 kPa** at a hand-sized contact. Cheap.
@@ -337,7 +337,7 @@ but because there is almost nothing to be inefficient with.
 | Flux Density | `null` | No AU/s figure on the card. |
 | η | **≈0.65** (card) | Mid-band inside the Tier 5 band of 0.60–0.70 (Part Nineteen as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
-| Duration | **as long as his attention holds**; older two-turn figure ≈ **10 s** | Page, which explicitly prefers the Spellcraft rule over the turn count. **The only page in the batch that resolves the turn-length problem by refusing the clock.** `SA-GAP-TURN-LENGTH`. |
+| Duration | **as long as his attention holds**; older two-turn figure **12 s** | Page, which explicitly prefers the Spellcraft rule over the turn count. |
 | Radius | **0 – 140 m**, no line of sight | Page. Sphere (4/3)π(140 m)³ = **1.15×10⁷ m³**. |
 | Prerequisite | **prior close reading of the target** | Page's Trigger. **A reconnaissance cost the Summary card omits.** |
 | Figure as matter | **ruled out** | 70 kg would need ≈58 m³ of air converted from gas to condensed matter. **Not available at any energy. The page does not claim it; the card does.** |

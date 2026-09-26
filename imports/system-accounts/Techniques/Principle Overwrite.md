@@ -95,7 +95,7 @@ conventional metrics."* **The page quotes conventional metrics anyway**, which i
 
 **Measurable quantities, SI.**
 - Radius: **5 km** (page). Wall area 4π(5,000)² = **3.14×10⁸ m²**; volume **5.24×10¹¹ m³.**
-- Duration: **≈15 s** (page, three turns at 5 s/turn).
+- Duration: **18 s** (page, three turns at six seconds each).
 - Air mass inside: **6.41×10¹¹ kg**; its total mass-energy **5.76×10²⁸ J.**
 - EX band: **5–50 EN · 1.24×10²⁹ – 6.9×10³⁷ J · 29.6 Et – 16.5 Rt** (Part Eleven).
   **Floor exceeds the field's total mass-energy by 2.15×.**
@@ -368,7 +368,7 @@ him carry a county, and that is the most consequential number on his sheet.**
 | Flux Density | **3,010,753 EU/g** (derived) | 2,800,000 AU/s ÷ 0.93, the AU/s figure taken from `Dirge Ascension` (`_method.md` §VIII). `SA-CROSS-AUS-LADDER`. |
 | η | **0.93** (card) | **Below the Tier 8 band of 0.95–1.2, and below the 1.0 line at which "the environment becomes a co-author"** (Part Nineteen). `SA-NUM-ETA-TIER`. |
 | AU/s | **2,800,000** | Card/`Dirge Ascension`. **The only AU/s figure available for him.** |
-| Duration | **≈15 s** | Page, three turns at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Duration | **18 s** | Page, three turns at six seconds to the turn. |
 | Radius | **5 km** | Page. Wall area **3.14×10⁸ m²**, volume **5.24×10¹¹ m³**. |
 | Air mass inside | **6.41×10¹¹ kg** | 5.24×10¹¹ m³ × 1.225 kg/m³. |
 | **Total mass-energy of that air** | **5.76×10²⁸ J** | × 8.988×10¹⁶ J/kg. |

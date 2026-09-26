@@ -55,7 +55,7 @@ can trust their own aim."
   nanoseconds is nothing** — six orders of magnitude below the fastest reaction band in
   the system (S-Grade, 0.05–0.2 ms, Part Six). **The field's "irregular time dilation"
   cannot be an optical effect, and this number is the proof.**
-- Duration: **≈15 s** (page's estimate, "3 turns" at 5 s/turn).
+- Duration: **18 s** (the page's three turns, at six seconds to the turn).
 - Bounded by Stage VII: Sub-Stat ceiling **475**, Max Grade **A**, allocation stopping at
   400 (Part Five) — the page states "Bounded by Stage VII's 475 ceiling, Grade A" and
   that is correct.
@@ -246,7 +246,7 @@ Drakvor (Tier 6) and Francis (Tier 8), whose bands R44-4 does not touch.
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
 | η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
-| Duration | **≈15 s** (page's estimate) | "3 turns" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Duration | **18 s** | Three turns, at six seconds to the turn. |
 | Field volume | **2.68×10⁵ m³** | (4/3)π(40 m)³. |
 | Index gradient for 10° bend | **4.4×10⁻³ m⁻¹**, Δn ≈ **0.175** | R = n/|∇n| with R = 40/0.175 m. |
 | Gradient vs a desert mirage | **≈10⁵ ×** | Atmospheric gradients ≈10⁻⁸ m⁻¹. |
@@ -283,7 +283,7 @@ about the clock.
 | Test | Verdict | Why |
 |---|---|---|
 | Costs something that hurts | **FAIL** | The stated costs are **Double Vision** — *"a brief sensory overlay of his own field's contradictions"* — and **Dream Residue**, which is a mark left *in the ground after the fight ends*. Neither degrades his output, neither is priced in EU or as a fraction of reserve, neither can reach Essence Starvation, and one of them is not paid by him at all. Against a working that spoils aim, timing and cost-reading for everyone else inside forty metres, that is not a price. Logged `SA-FAIR-DREAMBREAKER-COST-COSMETIC`. |
-| Stated limits | **pass** | 40 m radius; ≈15 s per sustained hold; **cannot be laid over an already-claimed Domain**; a Titan's presence unmakes the claim outright; bounded by Stage VII's A-Grade ceiling. |
+| Stated limits | **pass** | 40 m radius; 18 s per sustained hold; **cannot be laid over an already-claimed Domain**; a Titan's presence unmakes the claim outright; bounded by Stage VII's A-Grade ceiling. |
 | Something beats it | **pass, and cheaply** | Four routes named on the page, none needing a peer: a grounding rune, a reality-lock invocation, an unclaimed Aether pulse, or a Body Path anchor. |
 | It has a tell | **pass** | Declared, and the claim is a visible forty-metre field that behaves wrongly from the moment it lands. |
 | Numbers in band | **FAIL, already on the record** | The technique's own figures are in band — Stage VII ⇒ Max Grade A with allocation stopping at 400, ceiling 475 *"under strain only"* (Part Five). The **card** is not: **Harmonics 430 and Dexterity 410 are S-Grade and sit inside Stage VII's instability zone, which Part Five says is reachable *"only under strain, never by allocation"***, and they are carried as standing values (`SA-NUM-AELDORIS-INSTABILITY`), which was logged before this section. The η fault this row also carried has fallen: **R44-4** put the Tier 5 band at **0.60–0.70** and 0.65 is mid-band, so the instability figures are the whole of the FAIL. |

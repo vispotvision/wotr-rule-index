@@ -212,7 +212,7 @@ bleed is the Memory Shear. At Stage VIII she is at the floor of Tier 6 · Master
 | Flux Density | **31.4 EU/g** | 22 ÷ 0.70, from AU/s = Flux Density × η (Part Nineteen). |
 | η | **0.70** | Card. Tier 6 band 0.70–0.80 ✓. |
 | AU/s | **22** | Sourced (`wiki/Techniques/Lumen Dissecans.md`). |
-| Duration | `null` (9 s or 15 s) | "holds 3 turns." At 3 s/turn = 9 s; at 5 s/turn = 15 s. `SA-GAP-TURN-LENGTH`. |
+| Duration | **18 s** | "holds 3 turns," at six seconds to the turn. |
 | Range | **500 m** | Page, already SI. |
 | Felt-tempo factor | **×0.5 to ×2.0** | Page, flagged there as an estimate against Stage VI's ceiling. Against a documented natural maximum of ≈×1.36, this is ~1.5× past unaided physiology. |
 | Efficiency bleed | **30 %** | 1 − 0.70. |

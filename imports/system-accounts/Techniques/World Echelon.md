@@ -71,8 +71,8 @@ order τ to unlock, and neither τ is stated anywhere. `SA-GAP-ECHELON-DEPHASE-T
 
 **(d) Five kilometres is not too far, and the arithmetic says so.** The page's Physics Domain is
 electromagnetism (`:27`), so the coupling propagates at *c*. Crossing the radius takes
-5,000 m ÷ 2.998×10⁸ m s⁻¹ = **1.67×10⁻⁵ s**, about **16.7 microseconds**. Over the stated forty
-seconds that is **2.4 million** round trips. Delay-coupled Kuramoto networks only go multistable when
+5,000 m ÷ 2.998×10⁸ m s⁻¹ = **1.67×10⁻⁵ s**, about **16.7 microseconds**. Over the stated forty-eight
+seconds that is **2.9 million** round trips. Delay-coupled Kuramoto networks only go multistable when
 the delay is comparable to the oscillation period; at six orders of magnitude below it, the field is
 effectively instantaneous. **The radius is one of the few figures in this batch that survives contact
 with real physics untouched.**
@@ -93,9 +93,7 @@ written. `SA-PHYS-ECHELON-ONE-DIRECTIONAL-BOND`.
 - Radius **5,000 m** (page, as given) ⇒ (4/3)π(5,000 m)³ = **5.236×10¹¹ m³**. That is **125×** the
   volume of `Dirge Ascension`'s kilometre (4.19×10⁹ m³), which is what a cube law does to a factor
   of five.
-- Duration **40 s** (page, as given: *"8 turns at 5 seconds per turn"*, `:39`) — consistent with
-  `Dirge Ascension`'s 45 s / 9 turns and inconsistent with the Drakvor pages at 3 s/turn.
-  `SA-GAP-TURN-LENGTH`.
+- Duration **48 s** (page `:39`, eight turns at six seconds each).
 - Coupling crossing time **16.7 µs**; **2.4×10⁶** crossings inside the window.
 - Threshold **K_c = 2/(π g(0))**, with *g*(0) the density of the population's emotional frequencies
   at the mean. **Not computable here: the system supplies no measure of a crowd's emotional
@@ -323,8 +321,8 @@ co-authored is a court's reference phase.
 | Quantity | Value | Derivation |
 |---|---|---|
 | Radius / volume | **5,000 m** / **5.236×10¹¹ m³** | Page `:17`; (4/3)π(5,000 m)³. **125× `Dirge Ascension`'s kilometre**, by the cube of five. |
-| Duration | **40 s** | Page `:39`, *"8 turns at 5 seconds per turn"*. Agrees with `Dirge Ascension` (45 s / 9 turns); the Drakvor pages use 3 s/turn. `SA-GAP-TURN-LENGTH`. |
-| Coupling crossing time | **16.7 µs** | 5,000 m ÷ c. **2.4×10⁶ crossings in 40 s** — propagation delay is six orders below the window and constrains nothing. |
+| Duration | **48 s** | Page `:39`, eight turns at six seconds each. |
+| Coupling crossing time | **16.7 µs** | 5,000 m ÷ c. **2.9×10⁶ crossings in 48 s** — propagation delay is six orders below the window and constrains nothing. |
 | Lock threshold | **K_c = 2/(π g(0))** | Kuramoto. *g*(0) is the population's emotional-frequency density at the mean. **Not computable: the system has no measure of crowd variance.** |
 | **AU/s** | **`null`** | **And this is the page's sharpest gap.** The only AU/s figure the batch holds for Francis is **2,800,000**, sourced to `wiki/Techniques/Dirge Ascension.md:17` — where it is explicitly the *ascended* output: *"Francis steps into a proto-Archonic state for 45 seconds, shedding his mortal ceiling; local physics inside a one-kilometre radius run on rewritten equations for the duration, and his Aether output spikes to 2,800,000 AU/s"*. **World Echelon cannot run alongside Dirge Ascension** (`:19`), so the one figure is measured in the one state this working forbids. `SA-GAP-ECHELON-AUS`. |
 | Flux Density | **`null` for this working** | `_method.md` §VIII carries **3,010,753 EU/g** for Francis, derived as 2.8×10⁶ ÷ 0.93. That derivation treats an ascended figure as a baseline Crystal property; if `Dirge Ascension` raises his output, as its own text says, then 3,010,753 EU/g is the *ascended* Flux Density and his resting figure is unknown. `SA-NUM-FRANCIS-ASCENDED-FLUX`. |

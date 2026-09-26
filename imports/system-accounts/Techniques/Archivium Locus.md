@@ -216,8 +216,8 @@ rather than on cleanliness.
 | Flux Density | **31.4 EU/g** | AU/s = Flux Density × η (Part Nineteen) ⇒ 22 ÷ 0.70 = 31.43. AU/s 22 from `wiki/Techniques/Lumen Dissecans.md`; η 0.70 from the card. |
 | η | **0.70** | Card, line 39. Tier 6 · Master band 0.70–0.80 (Part Nineteen) — at the floor, consistent. |
 | AU/s | **22** | Sourced: "her established 22 AU/s baseline" (`Lumen Dissecans`). Not derived. |
-| Duration | `null` (12 s or 15 s) | Page: "holds 5 turns." No attested turn length in the system. At this batch's own 5 s/turn (`Dirge Ascension`) = 25 s; at Drakvor's 3 s/turn (`Bastion Imperium`) = 15 s. Logged `SA-GAP-TURN-LENGTH`. |
-| Write time | `null` (3–5 s) | "one full, uninterrupted turn." Same gap. |
+| Duration | **30 s** | Page: "holds 5 turns," at six seconds to the turn. |
+| Write time | **6 s** | "one full, uninterrupted turn," at six seconds to the turn. |
 | Efficiency bleed | **30 %** | 1 − η = 1 − 0.70. Leaves as heat, sound, structural bleed. |
 | Minimum Stage | **VII · Refraction** | Page. Sub-Stat ceiling 475, Max Grade A allocation-capped at 400 (Part Five). |
 | Tier of Standing | **5 · Expert** | Part Five, the Tier column for Stage VII. |

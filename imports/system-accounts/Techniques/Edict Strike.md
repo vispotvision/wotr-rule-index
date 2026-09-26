@@ -54,8 +54,8 @@ statement ("Against a fully hesitant target the impact doubles").
   is 4.6024×10¹⁰ J, so an S-Grade baseline strike exceeds it by **91× to 528×**.
   "Buckles outright" is an understatement by two orders of magnitude and the page is
   conservative, not wrong.
-- Windup: **≈3 s** (page, "the source's single old-count turn"), consistent with the
-  3 s/turn convention on `Bastion Imperium`.
+- Windup: **6 s** (page, "the source's single old-count turn"), at six seconds to
+  the turn.
 - **The contact-area problem.** A sword edge is roughly 10 mm of engaged length by
   0.1 mm of edge thickness — **1×10⁻⁷ m²**. Delivering 5×10¹¹ N through that footprint
   is a contact stress of **5×10¹⁸ Pa**. Diamond, the hardest material known, fails in
@@ -239,7 +239,7 @@ bastion escape clause does not apply to a sword swing.
 | Flux Density | `null` | No AU/s figure for Drakvor. |
 | η | **0.55** (card) | Card line 42. Tier 6 band 0.70–0.80 — **below the floor**; the tuned-bastion clause does not cover this. `SA-NUM-ETA-TIER`. |
 | AU/s | `null` | Needs Flux Density. |
-| Duration | **≈3 s** windup-and-strike | Page, "the source's single old-count turn" at 3 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Duration | **6 s** windup-and-strike | Page, "the source's single old-count turn," at six seconds to the turn. |
 | Baseline output | **4.184×10¹² – 2.42672×10¹³ J**, **0.5–2 TN** | S-Grade row, Part Four. Page's citation correct. |
 | Doubled output | **8.37×10¹² – 4.85×10¹³ J**, **1–4 TN** | ×2. Upper end crosses into SS-Grade (4.184×10¹³ – 4.184×10¹⁴ J). |
 | Stage VIII headroom | **none by allocation** | Part Five: Stage VIII is Max Grade S, ceiling 550, **no instability zone**. The "late push toward SS entry" belongs to **Stage IX**. `SA-NUM-EDICT-SS-PUSH`. |

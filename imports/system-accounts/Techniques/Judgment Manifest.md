@@ -50,9 +50,7 @@ consequence the page could use and does not.
 **Measurable quantities, SI.**
 - Field: **2,000 m** range (page) ⇒ (4/3)π(2,000 m)³ = **3.35×10¹⁰ m³**. **The largest single
   claimed volume in this batch, by an order of magnitude over `Crimson Dirge`.**
-- Duration: **≈25 s**, which the page derives as "5 turns at 5 seconds per turn" — the same
-  convention `Dirge Ascension` establishes and the Drakvor pages contradict at 3 s/turn.
-  `SA-GAP-TURN-LENGTH`.
+- Duration: **30 s**, the page's five turns at six seconds each.
 - Constructs: **3**, hard ceiling. Power cost of three fundamentals: **3×** one. Power cost of one
   third-order: **9×**, and unstable.
 - Soliton robustness: solitons survive mutual collisions with their shapes intact, which is the
@@ -269,7 +267,7 @@ count. Stage XIV ⇒ Tier 8 · Archmaster, band 0.95–1.2, and 0.93 is below th
 | Flux Density | **3,010,753 EU/g** | Carried from `Dirge Ascension`: 2.8×10⁶ AU/s ÷ 0.93 (Part Nineteen). Flagged as carried, not sourced here. |
 | η | **0.93** (card) | Card line 42. Tier 8 band 0.95–1.2 — **below the floor.** And on this page η is a term in the construct ceiling, not just a waste figure. `SA-NUM-ETA-TIER`. |
 | AU/s | **2,800,000** (baseline, from `Dirge Ascension`) | Carried, flagged. |
-| Duration | **≈25 s** | Page: "5 turns at 5 seconds per turn." `SA-GAP-TURN-LENGTH`. |
+| Duration | **30 s** | Page: five turns, at six seconds to the turn. |
 | Range / volume | **2,000 m** / **3.35×10¹⁰ m³** | Page; (4/3)π(2,000 m)³. **Largest in the batch.** |
 | Constructs | **3**, hard | Page. **Derived rather than asserted: ⌊field gain ÷ soliton energy quantum⌋.** |
 | Cost of three fundamentals vs one third-order | **3× vs 9×** | N-soliton power ∝ N². **Three separate constructs is the cheap configuration.** |

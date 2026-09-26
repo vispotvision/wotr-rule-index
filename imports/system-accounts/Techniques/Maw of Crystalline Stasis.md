@@ -242,11 +242,11 @@ the floor. Recorded as `C-062`, **not resolved here.**
 | Quantity | Value | Derivation |
 |---|---|---|
 | Cost rate | **1,500–2,500 EU/s** | Page, flagged there as an estimate scaled from Sodoku Moto's attested 8,000 EU/s Permafrost field (30 m, Stage XII). |
-| **EU spent per use** | **1.35×10⁴ – 3.75×10⁴ EU** | Rate × duration: (1,500–2,500) × (9–15 s). Low corner 1,500 × 9 = 13,500; high corner 2,500 × 15 = 37,500. **Derived, from the page's own two figures.** |
+| **EU spent per use** | **2.70×10⁴ – 4.50×10⁴ EU** | Rate × duration: (1,500–2,500) × 18 s. Low corner 1,500 × 18 = 27,000; high corner 2,500 × 18 = 45,000. **Derived, from the page's own two figures.** |
 | Flux Density | `null` | No AU/s figure for Draven. |
 | η | **0.55** | Card. Tier 5 band **0.60–0.70** (**R44-4**) — 0.05 below the floor. `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
-| Duration | **9–15 s** (page's estimate) | Page converts "3 turns" at 3–5 s/turn. **The page's own 3–5 s spread is the turn-length gap made visible.** `SA-GAP-TURN-LENGTH`. |
+| Duration | **18 s** | The page's "3 turns," at six seconds to the turn. |
 | Bleed | **45 %** | 1 − 0.55, added back into the sink's duty. |
 | Field volume | **905 m³** | (4/3)π(6 m)³. |
 | Water cap | **≈4.4 kg** | 4.84 g/m³ × 905 m³. **Hard ceiling on lattice density in saturated air; less in dry air.** |
@@ -284,7 +284,7 @@ the register. Neither is resolved here.
 | Test | Verdict | Why |
 |---|---|---|
 | Costs something that hurts | **pass — and it is the best-explained cost in the batch** | Joint frostbite at the knuckles and knees, and the page traces it to his sheet rather than asserting it: *"his Dominion sits at 168, C-Grade … holding a six-metre field is a Dominion-class operation his sheet does not naturally support. He compensates by brute-forcing the radius through raw Ardency and Vitality output instead, and the strain finds his weakest structural margin first."* A cost derived from a stat is a cost a reader can predict. The EU figure — roughly 1,500–2,500 EU/s, giving 13,500–37,500 EU for one field — is scaled from another card and flagged by the page as an estimate, not a source. |
-| Stated limits | **pass** | 6 m; ≈9–15 s (converted from "3 turns", flagged as an estimate); **it does not target** — everything inside is treated alike, him included; it needs ambient moisture and loose Essence to crystallise; sustaining it risks freezing his own joints. |
+| Stated limits | **pass** | 6 m; 18 s (three turns at six seconds each); **it does not target** — everything inside is treated alike, him included; it needs ambient moisture and loose Essence to crystallise; sustaining it risks freezing his own joints. |
 | Something beats it | **pass, and it is a phase transition** | Heat. One route, documented, cheap, and physically the right one. |
 | It has a tell | **pass** | Declared, and then six metres of visible branching frost. Nobody walks into this by accident. |
 | Numbers in band | **FAIL, already logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400 (Part Five), and the page requires A-Grade. **But its own governing Sub-Stat, Ardency Density, reads 274 — B-Grade, one point below the A floor** (`SA-NUM-MAW-DENSITY-274`). The working is gated at a Grade its stated governing Sub-Stat does not reach, by a single point, which is the tightest and most checkable numeric fault in the twenty-eight. η 0.55 is **0.05 below** Tier 5's floor since **R44-4** put the band at 0.60–0.70 (`C-062`). |

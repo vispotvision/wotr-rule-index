@@ -234,7 +234,7 @@ warm and a healer exposed. At Stage VIII she sits at the floor of Tier 6 · Mast
 | Flux Density | **31.4 EU/g** | 22 ÷ 0.70 (AU/s = Flux Density × η, Part Nineteen). |
 | η | **0.70** | Card. Tier 6 band 0.70–0.80 ✓. |
 | AU/s | **22** | Sourced (`wiki/Techniques/Lumen Dissecans.md`). |
-| Duration | `null` (12 s or 20 s) | "holds up to 4 turns sustained." At 3 s/turn = 12 s; at 5 s/turn = 20 s. `SA-GAP-TURN-LENGTH`. **The page's own effect text says "minutes of unbroken singing," which no reading of 4 turns reaches.** Logged `SA-NUM-CANTICLE-DURATION`. |
+| Duration | **24 s** | "holds up to 4 turns sustained," at six seconds to the turn. **The page's own effect text says "minutes of unbroken singing," which 24 s does not reach.** Logged `SA-NUM-CANTICLE-DURATION`. |
 | Radius | **30 m**, peak inside **10 m** | Page. Area π(30)² = 2,827 m². |
 | Acceleration factor | **≈ 4,000×** | Baseline 20 mm closure ≈ 14 days at 0.7 mm/day = 1.21×10⁶ s; page's "minutes," taken at 300 s. |
 | Biosynthetic energy per wound | **≈ 6×10⁴ J** | 2.5 g dry tissue × 24 kJ/g. |
@@ -274,7 +274,7 @@ nothing in the system forbids it.
 | Stated limits | **pass, and they are honest about what healing is** | 30 m, strongest within 10 m; up to 4 turns sustained; **the hymn must run unbroken**; healing is gradual, **cannot restore a severed limb**, and a fractured Essence line is only *stopped*, not reversed; it needs living tissue nearby to work with. |
 | Something beats it | **pass, and the first route costs nothing** | Silence her, sterilise the ground, or corrupt the current. |
 | It has a tell | **pass, maximal** | She is singing, continuously, and cannot stop without ending it. There is no version of this working that is covert. |
-| Numbers in band | **pass on Grade, one internal contradiction logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); Tempering 470 is S, a full Tier above the floor (Part Four), and Tempering is the right Primary for an inherited routing. But **the page's own duration and its own effect text disagree**: *"up to 4 turns sustained"* is 12 s or 20 s depending on which turn-length this batch uses, and the effect requires *"minutes of unbroken singing"* (`SA-NUM-CANTICLE-DURATION`, `SA-GAP-TURN-LENGTH`). The reinforcement component is also Body-gated while the page designates Spirit (`SA-NUM-CANTICLE-PATHGATE`). |
+| Numbers in band | **pass on Grade, one internal contradiction logged** | Stage VI ⇒ Max Grade A (276–400), ceiling 400, Tier 5 (Part Five); Tempering 470 is S, a full Tier above the floor (Part Four), and Tempering is the right Primary for an inherited routing. But **the page's own duration and its own effect text disagree**: *"up to 4 turns sustained"* is 24 s, and the effect requires *"minutes of unbroken singing"* (`SA-NUM-CANTICLE-DURATION`). The reinforcement component is also Body-gated while the page designates Spirit (`SA-NUM-CANTICLE-PATHGATE`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

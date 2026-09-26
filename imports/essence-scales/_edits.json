@@ -1,0 +1,332 @@
+{
+ "wiki/Techniques/Dreambreaker Field · The Shattered Midnight.md": {
+  "notion_id": "3d958200-eb22-81f8-bd12-ec4542c6e77f",
+  "checks": [
+   [
+    1,
+    "Duration approximately 15 seconds per sustained ho"
+   ]
+  ],
+  "pairs": [
+   [
+    "Duration approximately 15 seconds per sustained hold (estimate, converted from the source's \"3 turns\").",
+    "Duration 18 seconds per sustained hold, three turns."
+   ]
+  ]
+ },
+ "wiki/Techniques/Judgment Manifest.md": {
+  "notion_id": "3d958200-eb22-81b7-bca2-d2f0e17c92af",
+  "checks": [
+   [
+    1,
+    "Roughly twenty-five seconds sustained (5 turns at "
+   ]
+  ],
+  "pairs": [
+   [
+    "Roughly twenty-five seconds sustained (5 turns at 5 seconds per turn).",
+    "Thirty seconds sustained, five turns at six seconds each."
+   ]
+  ]
+ },
+ "wiki/Techniques/Letheveil Memory-Quake.md": {
+  "notion_id": "3d958200-eb22-811f-a838-fde4b94c787b",
+  "checks": [
+   [
+    1,
+    "Shockwave duration approximately 5 seconds (estima"
+   ]
+  ],
+  "pairs": [
+   [
+    "Shockwave duration approximately 5 seconds (estimate, converted from the source's \"1 turn\").",
+    "Shockwave duration 6 seconds, one turn."
+   ]
+  ]
+ },
+ "wiki/Techniques/Maw of Crystalline Stasis.md": {
+  "notion_id": "3d958200-eb22-8102-9bae-d74bd110cc8b",
+  "checks": [
+   [
+    1,
+    "Duration kept as given and converted from the old "
+   ]
+  ],
+  "pairs": [
+   [
+    "Duration kept as given and converted from the old \"3 turns\" to an estimated 9 to 15 seconds of sustained field presence, flagged as an estimate rather than a sourced figure.",
+    "Duration 18 seconds of sustained field presence, three turns."
+   ]
+  ]
+ },
+ "wiki/Techniques/Oneiron Parasite · Nightmare Warden.md": {
+  "notion_id": "3d958200-eb22-8109-9163-e91f77df7df9",
+  "checks": [
+   [
+    1,
+    "Duration approximately 20 seconds per sustained wa"
+   ]
+  ],
+  "pairs": [
+   [
+    "Duration approximately 20 seconds per sustained watch (estimate, converted from the source's \"4 turns\").",
+    "Duration 24 seconds per sustained watch, four turns."
+   ]
+  ]
+ },
+ "wiki/Techniques/Principle Overwrite.md": {
+  "notion_id": "3d958200-eb22-812f-8204-e60adb869ede",
+  "checks": [
+   [
+    1,
+    "Roughly fifteen seconds of sustained declaration ("
+   ]
+  ],
+  "pairs": [
+   [
+    "Roughly fifteen seconds of sustained declaration (3 turns at 5 seconds per turn).",
+    "Eighteen seconds of sustained declaration, three turns at six seconds each."
+   ]
+  ]
+ },
+ "wiki/Techniques/Puppet-Dream Marionette.md": {
+  "notion_id": "3d958200-eb22-813c-a4f1-dd986f62009c",
+  "checks": [
+   [
+    1,
+    "Duration approximately 5 seconds per activation (e"
+   ]
+  ],
+  "pairs": [
+   [
+    "Duration approximately 5 seconds per activation (estimate, converted from the source's \"1 turn\").",
+    "Duration 6 seconds per activation, one turn."
+   ]
+  ]
+ },
+ "wiki/Techniques/World Echelon.md": {
+  "notion_id": "3d958200-eb22-81f1-911a-de43b83e9834",
+  "checks": [
+   [
+    1,
+    "Roughly forty seconds sustained (8 turns at 5 seco"
+   ]
+  ],
+  "pairs": [
+   [
+    "Roughly forty seconds sustained (8 turns at 5 seconds per turn).",
+    "Forty-eight seconds sustained, eight turns at six seconds each."
+   ]
+  ]
+ },
+ "wiki/Techniques/Oneiron Phantasm Court.md": {
+  "notion_id": "3d958200-eb22-8169-a195-db9497b2c710",
+  "checks": [
+   [
+    1,
+    "the old card's two-turn figure"
+   ]
+  ],
+  "pairs": [
+   [
+    "the old card's two-turn figure",
+    "the old card's two-turn figure, twelve seconds,"
+   ]
+  ]
+ },
+ "wiki/Techniques/Archivium Locus.md": {
+  "notion_id": "3d958200-eb22-81aa-9827-c4c6043b24aa",
+  "checks": [
+   [
+    1,
+    "holds 5 turns or until shattered"
+   ]
+  ],
+  "pairs": [
+   [
+    "holds 5 turns or until shattered",
+    "holds 5 turns, 30 seconds, or until shattered"
+   ]
+  ]
+ },
+ "wiki/Techniques/Chorda Somnii.md": {
+  "notion_id": "3d958200-eb22-816c-a3da-c74479614ac9",
+  "checks": [
+   [
+    1,
+    "the thread holds 3 turns standard"
+   ]
+  ],
+  "pairs": [
+   [
+    "the thread holds 3 turns standard",
+    "the thread holds 3 turns, 18 seconds, standard"
+   ]
+  ]
+ },
+ "wiki/Techniques/Corona Lunaris.md": {
+  "notion_id": "3d958200-eb22-81be-bb9a-f4663804c972",
+  "checks": [
+   [
+    1,
+    "for 2 turns sustained"
+   ]
+  ],
+  "pairs": [
+   [
+    "for 2 turns sustained",
+    "for 2 turns, 12 seconds, sustained"
+   ]
+  ]
+ },
+ "wiki/Techniques/Florwyn's Canticle.md": {
+  "notion_id": "3d958200-eb22-811f-aa49-d23d8865efbd",
+  "checks": [
+   [
+    1,
+    "holds up to 4 turns sustained"
+   ]
+  ],
+  "pairs": [
+   [
+    "holds up to 4 turns sustained",
+    "holds up to 4 turns, 24 seconds, sustained"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Karu Velnar · The Shackled Tempest.md": {
+  "notion_id": "3d958200-eb22-818b-9db0-da90ff2681f1",
+  "checks": [
+   [
+    1,
+    "Two point two turns, maximum."
+   ]
+  ],
+  "pairs": [
+   [
+    "Two point two turns, maximum.",
+    "Two point two turns, 13.2 seconds, maximum."
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Vael of Nothing · The Devourer's Index.md": {
+  "notion_id": "3d958200-eb22-81bf-ba0e-ddd24f133029",
+  "checks": [
+   [
+    1,
+    "The target has three turns to leave his line of si"
+   ]
+  ],
+  "pairs": [
+   [
+    "The target has three turns to leave his line of sight",
+    "The target has three turns, 18 seconds, to leave his line of sight"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Aurevian Lysanthir · Voice Between Wars.md": {
+  "notion_id": "3bd58200-eb22-81e6-8d9e-c08cf323219f",
+  "checks": [
+   [
+    1,
+    "Level 240, Coherence Band B,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 240, Coherence Band B,",
+    "Level 240, Tier of Standing 6, Master,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Gorrath Bloodspine · The Magmaborn Juggernaut.md": {
+  "notion_id": "3bd58200-eb22-8125-b0e6-c71c9f049569",
+  "checks": [
+   [
+    1,
+    "Level 235, Coherence Band B,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 235, Coherence Band B,",
+    "Level 235, Tier of Standing 6, Master,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Kaelen Raive · Sun-Sealed.md": {
+  "notion_id": "3bd58200-eb22-81f8-8266-e6a5711bd552",
+  "checks": [
+   [
+    1,
+    "Level 240, Coherence Band B,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 240, Coherence Band B,",
+    "Level 240, Tier of Standing 6, Master,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Saruin Kye · Golden Laugh.md": {
+  "notion_id": "3bd58200-eb22-812f-961a-e1b93dd3a626",
+  "checks": [
+   [
+    1,
+    "Level 238, Coherence Band B,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 238, Coherence Band B,",
+    "Level 238, Tier of Standing 6, Master,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Iskaron Thalnaris — Bearer of the Fractured Crown.md": {
+  "notion_id": "3bd58200-eb22-81fb-9d4d-cb0ca34046e5",
+  "checks": [
+   [
+    1,
+    "Level 330, Coherence Band S,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 330, Coherence Band S,",
+    "Level 330, Tier of Standing 7, Grandmaster,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Juno Petros Marien · Praefect of the Outer Colonies.md": {
+  "notion_id": "3bd58200-eb22-81ee-a948-eb614a1f280a",
+  "checks": [
+   [
+    1,
+    "Level 262, Coherence Band A,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 262, Coherence Band A,",
+    "Level 262, Tier of Standing 6, Master,"
+   ]
+  ]
+ },
+ "wiki/Volume I — Character Cards/Xanelor Rafminar · The Wandering Fang.md": {
+  "notion_id": "3bd58200-eb22-81c7-8415-ef8ab3b0f48a",
+  "checks": [
+   [
+    1,
+    "Level 265, Coherence Band A,"
+   ]
+  ],
+  "pairs": [
+   [
+    "Level 265, Coherence Band A,",
+    "Level 265, Tier of Standing 6, Master,"
+   ]
+  ]
+ }
+}

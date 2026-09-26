@@ -1,0 +1,178 @@
+{
+ "Archivium Locus.md": [
+  [
+   "| Duration | `null` (12 s or 15 s) | Page: \"holds 5 turns.\" No attested turn length in the system. At this batch's own 5 s/turn (`Dirge Ascension`) = 25 s; at Drakvor's 3 s/turn (`Bastion Imperium`) = 15 s. Logged `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **30 s** | Page: \"holds 5 turns,\" at six seconds to the turn. |"
+  ],
+  [
+   "| Write time | `null` (3–5 s) | \"one full, uninterrupted turn.\" Same gap. |",
+   "| Write time | **6 s** | \"one full, uninterrupted turn,\" at six seconds to the turn. |"
+  ]
+ ],
+ "Chorda Somnii.md": [
+  [
+   "| Duration | `null` (9 s or 15 s) | \"holds 3 turns.\" At 3 s/turn = 9 s; at 5 s/turn = 15 s. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **18 s** | \"holds 3 turns,\" at six seconds to the turn. |"
+  ]
+ ],
+ "Corona Lunaris.md": [
+  [
+   "- Shed over the page's stated 2-turn hold, taken at 10 s: radiant exitance\n  = 3.26×10⁹ ÷ 10 = **3.26×10⁸ W/m²**. The solar constant is 1,361 W/m²; this is\n  **≈ 2.4×10⁵ times sunlight**.",
+   "- Shed over the page's stated 2-turn hold, 12 s: radiant exitance\n  = 3.26×10⁹ ÷ 12 = **2.72×10⁸ W/m²**. The solar constant is 1,361 W/m²; this is\n  **≈ 2.0×10⁵ times sunlight**."
+  ],
+  [
+   "  T = (3.26×10⁸ / 5.670×10⁻⁸)^¼ = **≈ 8,700 K**.",
+   "  T = (2.72×10⁸ / 5.670×10⁻⁸)^¼ = **≈ 8,300 K**."
+  ],
+  [
+   "- Wien peak at that temperature: λ_max = 2.898×10⁻³ m·K ÷ 8,700 K = **333 nm**,",
+   "- Wien peak at that temperature: λ_max = 2.898×10⁻³ m·K ÷ 8,300 K = **348 nm**,"
+  ],
+  [
+   "| Duration | `null` (6 s or 10 s) | \"2 turns sustained.\" At 3 s/turn = 6 s; at 5 s/turn = 10 s. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **12 s** | \"2 turns sustained,\" at six seconds to the turn. |"
+  ],
+  [
+   "| Shed radiant exitance | **3.26×10⁸ W/m²** | Areal load ÷ 10 s. |",
+   "| Shed radiant exitance | **2.72×10⁸ W/m²** | Areal load ÷ 12 s. |"
+  ],
+  [
+   "| Shed colour temperature | **≈ 8,700 K**, peak **333 nm** | (3.26×10⁸/σ)^¼; Wien.",
+   "| Shed colour temperature | **≈ 8,300 K**, peak **348 nm** | (2.72×10⁸/σ)^¼; Wien."
+  ]
+ ],
+ "Edict Strike.md": [
+  [
+   "- Windup: **≈3 s** (page, \"the source's single old-count turn\"), consistent with the\n  3 s/turn convention on `Bastion Imperium`.",
+   "- Windup: **6 s** (page, \"the source's single old-count turn\"), at six seconds to\n  the turn."
+  ],
+  [
+   "| Duration | **≈3 s** windup-and-strike | Page, \"the source's single old-count turn\" at 3 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **6 s** windup-and-strike | Page, \"the source's single old-count turn,\" at six seconds to the turn. |"
+  ]
+ ],
+ "Bastion Imperium.md": [
+  [
+   "- Duration: **12 s**, which the page derives as \"four old-count turns\" at 3 s each.",
+   "- Duration: **24 s**, the page's \"four old-count turns\" at six seconds each."
+  ],
+  [
+   "| Duration | **12 s** | Page: \"four old-count turns\" at 3 s/turn. **This page is the source of the 3 s/turn convention** that the Draven and Drakvor pages use and that Francis's pages contradict at 5 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **24 s** | Page: \"four old-count turns\" at six seconds to the turn. |"
+  ],
+  [
+   "10 m radius; ~12 s duration (four old-count turns at the page's own 3 s/turn);",
+   "10 m radius; 24 s duration (four old-count turns at six seconds each);"
+  ]
+ ],
+ "Judgment Manifest.md": [
+  [
+   "- Duration: **≈25 s**, which the page derives as \"5 turns at 5 seconds per turn\" — the same\n  convention `Dirge Ascension` establishes and the Drakvor pages contradict at 3 s/turn.\n  `SA-GAP-TURN-LENGTH`.",
+   "- Duration: **30 s**, the page's five turns at six seconds each."
+  ],
+  [
+   "| Duration | **≈25 s** | Page: \"5 turns at 5 seconds per turn.\" `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **30 s** | Page: five turns, at six seconds to the turn. |"
+  ]
+ ],
+ "Dirge Ascension.md": [
+  [
+   "- Duration **45 s** (page, as given). **This page is the source of the batch's 5 s/turn\n  conversion** — 45 s read as nine turns — and it is the figure the Drakvor pages contradict at\n  3 s/turn. `SA-GAP-TURN-LENGTH`.",
+   "- Duration **45 s** (page, as given), which at six seconds to the turn is seven and a\n  half turns."
+  ],
+  [
+   "| Duration | **45 s** | Page, as given. **Source of this batch's 5 s/turn convention (9 turns), which the Drakvor pages contradict at 3 s/turn.** `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **45 s** | Page, as given; seven and a half turns at six seconds each. |"
+  ]
+ ],
+ "Letheveil Memory-Quake.md": [
+  [
+   "- Shockwave: **≈5 s** (page's estimate, \"1 turn\" at 5 s/turn).",
+   "- Shockwave: **6 s** (the page's one turn, at six seconds to the turn)."
+  ],
+  [
+   "| Shockwave duration | **≈5 s** (page's estimate) | \"1 turn\" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Shockwave duration | **6 s** | One turn, at six seconds to the turn. |"
+  ],
+  [
+   "shockwave ≈5 s;",
+   "shockwave 6 s;"
+  ]
+ ],
+ "Florwyn's Canticle.md": [
+  [
+   "| Duration | `null` (12 s or 20 s) | \"holds up to 4 turns sustained.\" At 3 s/turn = 12 s; at 5 s/turn = 20 s. `SA-GAP-TURN-LENGTH`. **The page's own effect text says \"minutes of unbroken singing,\" which no reading of 4 turns reaches.** Logged `SA-NUM-CANTICLE-DURATION`. |",
+   "| Duration | **24 s** | \"holds up to 4 turns sustained,\" at six seconds to the turn. **The page's own effect text says \"minutes of unbroken singing,\" which 24 s does not reach.** Logged `SA-NUM-CANTICLE-DURATION`. |"
+  ],
+  [
+   "*\"up to 4 turns sustained\"* is 12 s or 20 s depending on which turn-length this batch uses, and the effect requires *\"minutes of unbroken singing\"* (`SA-NUM-CANTICLE-DURATION`, `SA-GAP-TURN-LENGTH`).",
+   "*\"up to 4 turns sustained\"* is 24 s, and the effect requires *\"minutes of unbroken singing\"* (`SA-NUM-CANTICLE-DURATION`)."
+  ]
+ ],
+ "Oneiron Phantasm Court.md": [
+  [
+   "- Duration: *\"as long as Aeldoris's own attention holds\"*; the page notes an older two-turn figure,\n  which at 5 s/turn is **≈10 s.**",
+   "- Duration: *\"as long as Aeldoris's own attention holds\"*; the page notes an older two-turn figure,\n  which at six seconds to the turn is **12 s.**"
+  ],
+  [
+   "| Duration | **as long as his attention holds**; older two-turn figure ≈ **10 s** | Page, which explicitly prefers the Spellcraft rule over the turn count. **The only page in the batch that resolves the turn-length problem by refusing the clock.** `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **as long as his attention holds**; older two-turn figure **12 s** | Page, which explicitly prefers the Spellcraft rule over the turn count. |"
+  ]
+ ],
+ "Dreambreaker Field · The Shattered Midnight.md": [
+  [
+   "- Duration: **≈15 s** (page's estimate, \"3 turns\" at 5 s/turn).",
+   "- Duration: **18 s** (the page's three turns, at six seconds to the turn)."
+  ],
+  [
+   "| Duration | **≈15 s** (page's estimate) | \"3 turns\" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **18 s** | Three turns, at six seconds to the turn. |"
+  ],
+  [
+   "40 m radius; ≈15 s per sustained hold;",
+   "40 m radius; 18 s per sustained hold;"
+  ]
+ ],
+ "Maw of Crystalline Stasis.md": [
+  [
+   "| **EU spent per use** | **1.35×10⁴ – 3.75×10⁴ EU** | Rate × duration: (1,500–2,500) × (9–15 s). Low corner 1,500 × 9 = 13,500; high corner 2,500 × 15 = 37,500. **Derived, from the page's own two figures.** |",
+   "| **EU spent per use** | **2.70×10⁴ – 4.50×10⁴ EU** | Rate × duration: (1,500–2,500) × 18 s. Low corner 1,500 × 18 = 27,000; high corner 2,500 × 18 = 45,000. **Derived, from the page's own two figures.** |"
+  ],
+  [
+   "| Duration | **9–15 s** (page's estimate) | Page converts \"3 turns\" at 3–5 s/turn. **The page's own 3–5 s spread is the turn-length gap made visible.** `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **18 s** | The page's \"3 turns,\" at six seconds to the turn. |"
+  ],
+  [
+   "6 m; ≈9–15 s (converted from \"3 turns\", flagged as an estimate);",
+   "6 m; 18 s (three turns at six seconds each);"
+  ]
+ ],
+ "Principle Overwrite.md": [
+  [
+   "- Duration: **≈15 s** (page, three turns at 5 s/turn).",
+   "- Duration: **18 s** (page, three turns at six seconds each)."
+  ],
+  [
+   "| Duration | **≈15 s** | Page, three turns at 5 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **18 s** | Page, three turns at six seconds to the turn. |"
+  ]
+ ],
+ "World Echelon.md": [
+  [
+   "Over the stated forty\nseconds that is **2.4 million** round trips.",
+   "Over the stated forty-eight\nseconds that is **2.9 million** round trips."
+  ],
+  [
+   "- Duration **40 s** (page, as given: *\"8 turns at 5 seconds per turn\"*, `:39`) — consistent with\n  `Dirge Ascension`'s 45 s / 9 turns and inconsistent with the Drakvor pages at 3 s/turn.\n  `SA-GAP-TURN-LENGTH`.",
+   "- Duration **48 s** (page `:39`, eight turns at six seconds each)."
+  ],
+  [
+   "| Duration | **40 s** | Page `:39`, *\"8 turns at 5 seconds per turn\"*. Agrees with `Dirge Ascension` (45 s / 9 turns); the Drakvor pages use 3 s/turn. `SA-GAP-TURN-LENGTH`. |",
+   "| Duration | **48 s** | Page `:39`, eight turns at six seconds each. |"
+  ],
+  [
+   "**2.4×10⁶ crossings in 40 s**",
+   "**2.9×10⁶ crossings in 48 s**"
+  ]
+ ]
+}

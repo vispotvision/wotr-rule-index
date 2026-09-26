@@ -57,7 +57,7 @@ numbers.
 - Energy band at S-Grade: **4.184×10¹² – 2.42672×10¹³ J**, which the page quotes
   correctly from Part Four (it gives "4.184 to 24.3 TJ"), and correctly attaches to the
   1-to-5.8-kiloton TNT and Small-Town-to-Town scale rows.
-- Duration: **12 s**, which the page derives as "four old-count turns" at 3 s each.
+- Duration: **24 s**, the page's "four old-count turns" at six seconds each.
 
 **The energy budget, and where the joules were.** In the attacker, and in the ground.
 Drakvor supplies no joules; he supplies a diffusion boundary that turns rock into
@@ -250,7 +250,7 @@ standing next to it.
 | Flux Density | `null` | No AU/s figure for Drakvor. |
 | η | **0.55** (card), **0.80+** in a tuned bastion | Card line 42. Tier 6 band is 0.70–0.80 (Part Nineteen) — **0.55 is below the floor.** `SA-NUM-ETA-TIER`. |
 | AU/s | `null` | Needs Flux Density. |
-| Duration | **12 s** | Page: "four old-count turns" at 3 s/turn. **This page is the source of the 3 s/turn convention** that the Draven and Drakvor pages use and that Francis's pages contradict at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
+| Duration | **24 s** | Page: "four old-count turns" at six seconds to the turn. |
 | Footprint | **314 m²** | π(10 m)². |
 | Threshold force | **5×10¹¹ – 2×10¹² N** | Page's 0.5–2 TN. |
 | **Bearing pressure at footprint** | **1.6 – 6.4 GPa** | F/A. **Requires the ground to be sintered to alumina (2–4 GPa) or carbide (4–6 GPa) class, 10–50× granite.** Coagula's law is exactly the law that does this. |
@@ -287,7 +287,7 @@ already been run.
 | Test | Verdict | Why |
 |---|---|---|
 | Costs something that hurts | **pass** | Severe Aether compression through legs and spine for the duration, and real fatigue after release. It is not quantified in EU (`SA-GAP-EU-FORMULA`), but it is **located in tissue** and it compounds across a long engagement, which is the shape the register's *"Exhaustion"* route is built to exploit. |
-| Stated limits | **pass, and they are severe** | **He cannot move at all**; stepping out ends it; 10 m radius; ~12 s duration (four old-count turns at the page's own 3 s/turn); the threshold sits at the S-Grade band and anything above it is not affected. Immobility as the price of immovability is the fairest trade on any page in this batch. |
+| Stated limits | **pass, and they are severe** | **He cannot move at all**; stepping out ends it; 10 m radius; 24 s duration (four old-count turns at six seconds each); the threshold sits at the S-Grade band and anything above it is not affected. Immobility as the price of immovability is the fairest trade on any page in this batch. |
 | Something beats it | **pass** | All four routes touch it, and one of them is *"stay in the air"*. |
 | It has a tell | **pass** | Rippling earth, blooming sigils, an audible iron groan. It cannot be set up quietly. |
 | Numbers in band | **pass** | Stage VIII ⇒ Max Grade S, ceiling 550, Tier 6 · Master (Part Five). Threshold quoted at the S band: 0.5–2 TN, 4.184–24.3 TJ, 1–5.8 kt (Part Eleven / Part Four). Card: six Primaries in S. **The one number out of band is η 0.55 against the Tier 6 floor of 0.70** — logged, not resolved (`SA-NUM-ETA-TIER`). |

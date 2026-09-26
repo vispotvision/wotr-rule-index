@@ -6,6 +6,72 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (WAR-161 — the essence scales are published, and the turn has a length)
+
+**Part Nineteen now carries the EU-by-Stage benchmark, the AU/s progression and the
+AU-to-joule equivalence**, and *The Core Vocabulary* now says that η above 1.0 is real and
+where the surplus comes from. Both pages were re-read live afterwards, block by block.
+The scales are not a new invention and nothing in them was chosen: for each Stage, Part Five
+gives the Max Grade, Part Four gives that Grade's attack-output band in joules, R44-1 converts
+at 1 EU = 1 MJ, and the benchmark inside the band is C-059's own set point, the geometric mean
+of floor and ceiling. **The proof that it is the same arithmetic C-059 already uses** is that
+Stage XII's benchmark comes out at 1.323×10^12 EU — the Arctic Lion set point WAR-46 computed
+by hand — and Stage XIII's at 2.278×10^19, Dougou's. Everything is computed by
+`imports/essence-scales/scales.py`; `derive.py` writes `_derivation.md`, `publish_text.py`
+writes the exact text that went to Notion, `scan.py` reads the corpus against the ladder and
+`build_report.py` writes `reports/essence_scales_2026-09-26.md`. No figure in any of them is
+typed.
+
+**Three things the ladder settles that were open.** A turn is six seconds, so a reserve has a
+rate: a Stage's AU/s band is its EU band spread over one turn, and the benchmark reserve is
+exactly one turn of draw at the benchmark rate — which is the plain statement of what full
+output costs. **AU/s is the draw, not the delivery**, because *The Core Vocabulary* already
+said so under WAR-14 ("power drawn is AU/s × 1 MW, power delivered is AU/s × η × 1 MW"), and
+this issue followed that rather than publishing a second reading. And **Stages XIV, XV and XVI
+carry no derived figure at all**: Part Four says Zenith's force is not assessed by conventional
+metrics and Isaac's WAR-142 answer carries that up through Revelation, so those cells read
+*unmeasured*, which is a ruling and not a gap.
+
+**The turn was being converted at five seconds in nine places, and at three in four more.**
+Both are gone. Nine technique pages had their stated durations corrected on Notion (15→18 s,
+25→30, 5→6, 20→24, 40→48 and so on), six more now carry their seconds beside their turns, and
+**fourteen system-account drafts in `imports/system-accounts/` are closed on
+`SA-GAP-TURN-LENGTH`** — thirty-seven figures, including every figure those drafts derive from a
+duration: Corona Lunaris's shed exitance, colour temperature and Wien peak, the Maw's EU per
+use, World Echelon's coupling crossings. Dirge Ascension keeps its stated 45 s, which is seven
+and a half turns; its nine-turn gloss is what gave way.
+
+**Nine of those fourteen accounts are not on Notion at all.** The technique pages are live; the
+*Two Accounts* material on them is not. Five are (Chorda Somnii, Archivium Locus, Corona
+Lunaris, Bastion Imperium, Dirge Ascension) and were corrected live. **This also found that the
+`wiki/` mirror is materially stale for that whole class** — `wiki/Techniques/Chorda Somnii.md`
+is 57 lines with `last_edited` 2026-09-12 while the live page runs to hundreds — so any sweep
+that reads the mirror under-reports on those pages. The counts in this issue's report are
+floors, not totals.
+
+**Seven cards' retired lettered Bands became the live Tier of Standing; thirteen pages are
+held, each with a reason.** The seven are the dated records that state their own Stage on the
+same line, so the Tier is derivable from the line itself. The thirteen are the cases where the
+band is not the page's rank reading — a Crystal-tier or Aether-Class correlate, the retired
+scale's own η, "Nine souls in ten live and die inside Band F" as a statement about the scale as
+a class — and on those a token swap would falsify the sentence rather than convert it. They
+need a rewrite by whoever owns the prose. Zarron Mahuo's is left because the card is being
+struck from canon.
+
+**No AU/s figure on any card was moved, deliberately.** Isaac's card 1 q2 says to correct cards
+that miss the ladder; R44-5's operative sentence says the card governs and the tables are
+typical ranges, and his own first rule for ruling makes that general sentence reach every table.
+R44-2 makes AU/s the product of Flux Density and η, so any correction forces a second edit; the
+WAR-102 answers set four AU/s figures by hand and two of those sit outside the new band; and one
+benchmark per Stage collapses every card at that Stage onto one number, the effect C-059 exists
+to avoid. So the ladder is published as bands, all twenty-three misses are listed, and the
+question is on `docket/questions.jsonl` with the second one this run raised — whether the EU
+unit wants a floor, since below Ascension a benchmark reserve is a fraction of one EU.
+
+**Two owed edits on pages this run touched were left where they belong.** Part Nineteen's
+*Efficiency by Tier of Standing* callout still reads as an open conflict; that rewrite is named
+in Isaac's WAR-49 answer. The seven dated records still carry their own ratification wording,
+which the clean-publishing sweeps already inventory. Only the band token moved on each.
 ## State on 2026-09-26 (WAR-162 — the field has numbers now, and one constant does three jobs)
 
 **Aetheric Density is a pressure, and that is the whole of why it sets a ceiling.** One EU is one

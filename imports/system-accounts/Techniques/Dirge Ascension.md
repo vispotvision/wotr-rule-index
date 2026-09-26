@@ -47,9 +47,8 @@ rewritten physics for the duration, not merely resisting a stronger version of t
 
 **Measurable quantities, SI.**
 - Radius **1,000 m**, self at centre ⇒ (4/3)π(1,000 m)³ = **4.19×10⁹ m³**.
-- Duration **45 s** (page, as given). **This page is the source of the batch's 5 s/turn
-  conversion** — 45 s read as nine turns — and it is the figure the Drakvor pages contradict at
-  3 s/turn. `SA-GAP-TURN-LENGTH`.
+- Duration **45 s** (page, as given), which at six seconds to the turn is seven and a
+  half turns.
 - Output **2,800,000 AU/s** (page, as given).
 - Coupling-run reference figures: α_s 0.5 → 0.1180 over two decades of energy; α 1/137.036 →
   ≈1/128 over **eleven** decades. **A ~7 % coupling shift implies ~10¹¹ in scale.**
@@ -255,7 +254,7 @@ a technique the world helps him run**, and the card and the ladder disagree abou
 | EU spent | `null` | No page figure and no Stage→EU formula, so the reserve behind 1.26×10⁸ AU is unknown. `SA-GAP-EU-FORMULA`. |
 | η | **0.93** (card) | Card line 42. Tier 8 band **0.95–1.2** (Part Nineteen) — **below the floor by 0.02.** `SA-NUM-ETA-TIER`. |
 | Bleed | **7 %** at the card's η; **0 % or negative** at the tier's | 1 − η. **Above 1.0 the environment co-authors** (Part Nineteen). |
-| Duration | **45 s** | Page, as given. **Source of this batch's 5 s/turn convention (9 turns), which the Drakvor pages contradict at 3 s/turn.** `SA-GAP-TURN-LENGTH`. |
+| Duration | **45 s** | Page, as given; seven and a half turns at six seconds each. |
 | Radius / volume | **1,000 m** / **4.19×10⁹ m³** | Page; (4/3)π(1,000 m)³. |
 | **Cost** | **1 % of Soul Crystal mass per use** | Page, as given. **The only invoice in the batch denominated in Crystal mass.** |
 | **Derived lifetime** | **100 uses**, if the mass does not return | 100 % ÷ 1 %. **The page's own "What nobody knows," answered arithmetically on one of its two readings.** |

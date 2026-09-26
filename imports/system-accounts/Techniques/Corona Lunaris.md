@@ -44,12 +44,12 @@ fraction must be **re-emitted**, because energy is conserved.
 - Corona geometry: a personal half-sphere at r ≈ 1.5 m has surface area
   2πr² = **14.1 m²**.
 - **Areal load at threshold:** 4.6×10¹⁰ J ÷ 14.1 m² = **3.26×10⁹ J/m²**.
-- Shed over the page's stated 2-turn hold, taken at 10 s: radiant exitance
-  = 3.26×10⁹ ÷ 10 = **3.26×10⁸ W/m²**. The solar constant is 1,361 W/m²; this is
-  **≈ 2.4×10⁵ times sunlight**.
+- Shed over the page's stated 2-turn hold, 12 s: radiant exitance
+  = 3.26×10⁹ ÷ 12 = **2.72×10⁸ W/m²**. The solar constant is 1,361 W/m²; this is
+  **≈ 2.0×10⁵ times sunlight**.
 - Stefan–Boltzmann inversion, σ = 5.670×10⁻⁸ W·m⁻²·K⁻⁴:
-  T = (3.26×10⁸ / 5.670×10⁻⁸)^¼ = **≈ 8,700 K**.
-- Wien peak at that temperature: λ_max = 2.898×10⁻³ m·K ÷ 8,700 K = **333 nm**,
+  T = (2.72×10⁸ / 5.670×10⁻⁸)^¼ = **≈ 8,300 K**.
+- Wien peak at that temperature: λ_max = 2.898×10⁻³ m·K ÷ 8,300 K = **348 nm**,
   i.e. **UVA**, not visible.
 
 **The energy budget, and where the joules were.** In the attack. The corona
@@ -225,11 +225,11 @@ Tier 6 · Master (0.70–0.80).
 | Flux Density | **31.4 EU/g** | 22 ÷ 0.70 (AU/s = Flux Density × η, Part Nineteen). |
 | η | **0.70** | Card. Tier 6 band 0.70–0.80 ✓. |
 | AU/s | **22** | Sourced (`wiki/Techniques/Lumen Dissecans.md`). |
-| Duration | `null` (6 s or 10 s) | "2 turns sustained." At 3 s/turn = 6 s; at 5 s/turn = 10 s. `SA-GAP-TURN-LENGTH`. |
+| Duration | **12 s** | "2 turns sustained," at six seconds to the turn. |
 | Conversion threshold | **4.6×10¹⁰ J** | Page's 46 GJ. Matches the B-Grade upper bound 4.6024×10¹⁰ J exactly (Part Four) — correctly derived. |
 | Areal load at threshold | **3.26×10⁹ J/m²** | 4.6×10¹⁰ J ÷ 2π(1.5 m)². |
-| Shed radiant exitance | **3.26×10⁸ W/m²** | Areal load ÷ 10 s. |
-| Shed colour temperature | **≈ 8,700 K**, peak **333 nm** | (3.26×10⁸/σ)^¼; Wien. **Not "harmless light."** `SA-PHYS-CORONA-HARMLESS-LIGHT`. |
+| Shed radiant exitance | **2.72×10⁸ W/m²** | Areal load ÷ 12 s. |
+| Shed colour temperature | **≈ 8,300 K**, peak **348 nm** | (2.72×10⁸/σ)^¼; Wien. **Not "harmless light."** `SA-PHYS-CORONA-HARMLESS-LIGHT`. |
 | Efficiency bleed | **30 %** | 1 − 0.70. |
 | Minimum Stage | **V · Splintering** | Page. Allocation stops at 275; instability above 320; Sub-Stat ceiling 350 under strain only (Part Five) — the page's own "instability risk above 320" is quoted straight from that row and is correct. |
 | Tier of Standing | **5 · Expert** | Part Five. |

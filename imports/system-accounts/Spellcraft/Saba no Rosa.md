@@ -339,7 +339,7 @@ midpoint), which is a real consequence of the numbers and is not stated anywhere
 | η | **0.84** (Muken) · **0.60–0.70** at the page's derived Stage VII floor | Card; Part Nineteen Tier 5 as corrected by **R44-4** (*"η reads 0.60 to 0.70 at Stage VI–VII"*, `RULINGS.md`:712). The card figure is above its Tier 6 band (`SA-NUM-MUKEN-ETA-TIER`); R44-4 does not reach it, since it names Stages VI–VII and Muken is Stage X. |
 | AU/s | **15,624** (Muken) | Card. 18,600 × 0.84 = 15,624 ✓. |
 | Reserve | **1,850,000 EU** (Muken) | Card. |
-| Efficiency bleed | **16 %** (Muken) · **40–50 %** at the floor | 1 − η. |
+| Efficiency bleed | **16 %** (Muken) · **30–40 %** at the floor | 1 − η. |
 | Duration | *"sustained by attention"*, lapsing on death or Silence | Page. No attested length. `SA-GAP-TURN-LENGTH`. |
 | Range / field size | `null`, *"raised small and expanded only as reserves allow"* | Page. The only scaling statement, and it has no units. |
 | Minimum Stage | **VII · Refraction** — **derived on the page, not sourced** | Page states this explicitly: *"Stage floor and Grade are not stated on the source card."* Max Grade A, ceiling 475 under strain (Part Five). |
@@ -361,9 +361,9 @@ sits there, computable, and there is nothing to divide it by. Against Mugen no
 Hatsurugi the same card yields *eighteen to thirty-seven arrivals*; against Saba
 no Rosa it yields nothing, because the page states a cost *shape* and no
 magnitude. The one derivable consequence is the efficiency point in §3: at the
-page's own derived floor the practitioner wastes 40–50 percent of every rose,
+page's own derived floor the practitioner wastes 30–40 percent of every rose,
 against 16 percent at Muken's Stage, so **the size of sea a given practitioner can
-raise varies by a factor of about three across the Stages the working is
+raise varies by a factor of about two across the Stages the working is
 available at** — which makes the discipline's stated scaling (*"expanded only as
 reserves allow"*) a statement about η at least as much as about reserve.
 

@@ -998,7 +998,7 @@ Beat: Seven days after the signing the instrument has to be entered somewhere, a
 
 ### Yoko Mishiro  (Volume I — Character Cards/Yoko Mishiro.md)
 | **Level** | **145 / 500** · Band II — Awakened. *Gated on reaching Stage VII to pass Level 200* |
-| **Coherence Band** | **E** · η ≈ 0.50 — *"the Crystal has learned to stop leaking"* |
+| **Tier of Standing** | **5, Expert** · η ≈ 0.60 — *"the Crystal has learned to stop leaking"* |
 | **Soul Crystal Tier** | **Resonant**, progressed from Harmonic. *In-world shorthand among those who knew her before is still Kindled* |
 #### IV–V · Stats
 *Verified against Level 145's real point economy — roughly 2,800 held across seven stats at a B-Grade floor, and roughly 1,300 concentrated into the Harmonics family: the fox-spirit anomaly that has never once tracked with her Level.*
@@ -1250,7 +1250,7 @@ also matched: Sodoku Moto/Tōga (冬牙) — Winter Fang.md; The Table — Runni
 | **Level** | **145 / 500** · Band II — Awakened. *Gated on reaching Stage VII to pass Level 200* |
 |---|---|
 | **Temperance Stage** | **V — Splintering**, active. Ceiling 350, sustainable max Grade B, **instability risk above 320** |
-| **Coherence Band** | **E** · η ≈ 0.50 — *"the Crystal has learned to stop leaking"* |
+| **Tier of Standing** | **5, Expert** · η ≈ 0.60 — *"the Crystal has learned to stop leaking"* |
 | **Path** | Spirit 65% · Attraction 30% · Body 5% |
 | **Essence Typology** | **Vitalia**, primary — growth, generosity, rhythm, **discovered through accumulation rather than rupture.** *Catalyst: "giving without counting, and finding the count was always in your favour."* **Fluxia**, undertone — the capacity to feel a thing again without being destroyed by the repetition |
 | **Aether Index** | **Unusually clean for her Class** — fed directly by the Harmonics anomaly, *which inflates her Lattice Conductivity past what Band E would ordinarily support* |
@@ -1283,7 +1283,7 @@ also matched: Sodoku Moto/Tōga (冬牙) — Winter Fang.md; The Table — Runni
 
 *Non-combat architecture by design.*
 **Strike Force** below 300 Joules unaided · **Durability** low-B · **Attack Speed** Mach 2.0–5.0 · **Reaction** 1–5ms · **Travel** Mach 1.5–4 · **Aura Pressure** faint, *just crossing into passive-pressure territory* · **Domain Pressure** none
-**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~75 · **η** 0.50 *(sourced)*
+**EU Reserve** ~185,000 *(estimate — no exact source figure exists at Level 145)* · **Flux Density** ~150 EU/g *(estimate)* · **AU/s** ~90 · **η** 0.60 *(sourced)*
 
 ---
 
@@ -1576,7 +1576,7 @@ Seven subterranean cities, a surface port, six administrative provinces. **Rough
 None yet: `state.json` `facts` is empty. This is chapter 1; the only continuity is the archive, carried in §6 and §8, and the bible's cast lines (one each, from fow_line):
 
 - **Sodoku Moto** — Level 320 in a Stage VI body, Band IV Mythic, Coherence Band D, Aether Class II Harmonic; Gnosis 1,050. Kōkan Line. Kurosetsu, Black Verdict, Ruins-inscribed. The card is from the exile years; on the page he is a king in solace who has not slept a full night in a year, works eighteen hours, makes no jokes, and gloss rights never.
-- **Yoko Mishiro** — Level 145, Band II Awakened, Coherence E, η about 0.50, Resonant tier; Harmonics 345, anomalous. Nine years beside him. Exactly what is accurate and nothing more; nose before eyes; ears and tail betray her first. Gloss rights diagnostic only. Her four lines exist and the Bench has never seen them.
+- **Yoko Mishiro** — Level 145, Band II Awakened, Tier of Standing 5 Expert, η about 0.60, Resonant tier; Harmonics 345, anomalous. Nine years beside him. Exactly what is accurate and nothing more; nose before eyes; ears and tail betray her first. Gloss rights diagnostic only. Her four lines exist and the Bench has never seen them.
 - **Edward Lambert** — Level 142, Stage III Hold, Band II. Fifty-three, gloves indoors, collar to the throat, the count. Read three thousand and eleven names and would not delegate one. His seal is on the four hundred and six. His brother is a hole in an ordination roll. Gloss rights yes.
 - **Tabitha Hallenfeld** — Level 28, Stage 0, Band 0. The road woman. Has the question, written and dated, and two refusals.
 - **Brida Ashwell** — Level 45, Stage I, Band I (card says Ignition; Fracture of Worlds says Murmuring; R14-A open; no Stage name reaches the page). On a stick for a year, colour wrong for longer. Says the true thing. "The third bowl" is hers.

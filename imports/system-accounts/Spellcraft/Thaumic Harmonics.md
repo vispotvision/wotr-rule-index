@@ -292,7 +292,7 @@ again, for this branch specifically, **the bleed is sound** — broadband, at th
 working's own frequencies, radiated into the exact channel the practitioner is
 trying to listen to. A Stage VI Harmonist projecting a counter-frequency is
 partially deafening himself with the projection's own waste. At the Stage VIII
-combat gate (Tier 6, η 0.70–0.80) the waste falls by roughly a third, which is
+combat gate (Tier 6, η 0.70–0.80) the waste falls by a quarter to a third, which is
 the mechanical reason Interference Lock is gated two Stages above basic
 perception rather than one.
 
@@ -310,7 +310,7 @@ perception rather than one.
 | Duration, counter | **under 2 s**, read to counter | `The Harmonic Arts`, Aurevia's assessed operational speed. The only attested time in the branch. |
 | Cycles to lock | **≈ 1/r, capped at Q** | Derived from forced-oscillator response, r = counter amplitude ÷ target amplitude. Not canon; a checkable consequence of the stated mechanism. |
 | Choir gain | **N× amplitude, N² × intensity** | Coherent addition. Ten voices → 100× intensity, at no cost to the primary. |
-| Efficiency bleed | **40–50 %** (VI) / **20–30 %** (VIII) | 1 − η. |
+| Efficiency bleed | **30–40 %** (VI) / **20–30 %** (VIII) | 1 − η. |
 | Minimum Stage, tonal perception of active workings | **VI · Glory** | Page, and `The Harmonic Arts`. Max Grade A, ceiling 400 (Part Five). |
 | Minimum Stage, Interference Lock | **VIII · Transcendence** | Page, and `The Harmonic Arts`. Max Grade S, ceiling 550. |
 | Minimum Stage, ritual stabilization | **X · Realization** | Page, and `The Harmonic Arts`. Max Grade SS, ceiling 725. |

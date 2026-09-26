@@ -37,6 +37,18 @@ headers, Ignatius's "Open Rulings" section and R-ids, the Primate's "extrapolate
 Thaumic Harmonics :313 and Saba no Rosa :342/:364 print 40–50% bleed at η 0.60–0.70; Karo's "loss 15 to 25
 percent" line; `book/kharven-year` still gives Yoko η 0.50; the `wiki/` mirror catches up on the next sync.
 
+**Later the same day, the clean-up pass.** Provenance, rule ids and card-to-card disagreement lines came off the
+live Primate, Ignatius (Open Rulings section gone; its Essence Capacity / Flux / Output now a plain line in II),
+Kinjiki, Krothar, Sodoku and Ayame Yuno pages. Four disagreements that only lived on those pages are now
+C-080 to C-083 (Ayame's death, Nergüi against Tomuka and Ezo, Mizuki against Sodoku as heir, Ignatius's death).
+Bleed corrected to 30–40% in the Thaumic Harmonics and Saba no Rosa drafts (live pages already right). Karo's
+"loss 15 to 25 percent" is his Shell's Class loss, not η, and stays; but his Shell row reads "Unclassed" while
+quoting Class II, which is unrecorded. Yoko is η 0.60 / AU/s 90 in `ch01/brief.md`; `bible.md` carries the same
+edit uncommitted, mixed into another session's uncommitted lines, so it lands with their commit.
+**The "Written 2026-09-24 by the character-lore pass" Lore header is on every card with a Lore section** and is
+written by the lore publisher (`build/lore_publish.py`), so it returns on the next publish until that generator
+changes, which waits on WAR-159 (the build/*.py bar).
+
 ## State on 2026-09-26 (WAR-161 — the essence scales are published, and the turn has a length)
 
 **Part Nineteen now carries the EU-by-Stage benchmark, the AU/s progression and the

@@ -355,7 +355,7 @@ at all. **The page calls this outcome harmless. Nothing in the two laws under it
 | Range | **5 km** ✓ **in band** | Part Eleven: A-Grade **Projected Force Range (50% yield) 3–8 km.** Mid-band. Her staff carries lattices to *"10 km"* (card `:98`), so the page states the shorter figure, which is the conservative direction. |
 | Prior-read channel | **cannot be acoustic** | 85 dB at 1 m − 74 dB spreading − 25 dB atmospheric absorption = **−14 dB** at 5 km against a 30–40 dB floor; transit **14.6 s** at 343 m/s against **16.7 µs** electromagnetic. The page's *"heard **or felt**"* is carrying the working (§1d), and §5 shows what that costs it. |
 | Targets | **exactly one ability instance** | Page `:32`, and *"it cannot act on multiple simultaneous casters in a shared ritual"* (`:35`). A real and unusual restraint for a five-kilometre working. |
-| Minimum Stage | **VII · Refraction** | Page. Part Five: Max Grade A (stops at 400), Sub-Stat ceiling 475, Tier **5 · Expert**, η 0.50–0.60. |
+| Minimum Stage | **VII · Refraction** | Page. Part Five: Max Grade A (stops at 400), Sub-Stat ceiling 475, Tier **5 · Expert**, η 0.60–0.70 (Tier 5 row as corrected by **R44-4**). |
 | Practitioner's Stage | **VIII · Transcendence**, Level 276, Grade S, ceiling 550 | Card `:59`. **One Stage above the floor**, which is why she can hold it internally (Law V, below). |
 | Developmental Tier | **Radiant** | Part Twenty-One, Stage VIII. |
 | Crystal State | *"Refined"* | Card `:39`. |

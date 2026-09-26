@@ -316,7 +316,8 @@ And the caster is at the centre of all three, with no way to stop any of it, in 
 decide whether the shock comes back.
 
 **What bleeds, at the stated efficiency.** No practitioner, so η is read off the Stage: Stage VI ⇒
-Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.50–0.60** (Part Nineteen). **Forty to fifty percent of
+Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.60–0.70** (Part Nineteen, Tier 5 row as corrected by
+**R44-4**). **Thirty to forty percent of
 every expenditure leaves as heat, sound and structural bleed** — and on this working the bleed is not a
 loss, it is the second half of the effect: heat and sound *are* what the technique delivers. **The
 Pyrewind Breaker is the one working in the batch whose inefficiency is indistinguishable from its
@@ -332,7 +333,7 @@ better candidate for it than a high-efficiency one.
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **high Aether burn** + **risk of internal overheating, worse on repetition** | Page. **Mechanically: Overchannel Backlash risk above C-Grade with "no Path providing structural protection" (Part Seven), plus Exuroth's quench cracking when the tempering interval is skipped.** |
 | Flux Density | `null` | No AU/s figure, no card, no named practitioner. |
-| η | **0.50–0.60** (derived) | Stage VI ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen). |
+| η | **0.60–0.70** (derived) | Stage VI ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen, Tier 5 row as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **under 1 s** | Page, "1 turn (instant burst)". **One of only two pages in the batch that does not need the turn-length ruling.** |
 | Radius | **20 m** | Page. Sphere **3.35×10⁴ m³**; air mass **4.1×10⁴ kg.** |
@@ -345,7 +346,7 @@ better candidate for it than a high-efficiency one.
 | DDT figures | laminar burning velocity **≈0.4 m/s** · CJ velocity **≈1,800 m/s** · CJ overpressure **≈18 bar** | Cataclysm's stated analogue. **DDT requires confinement and turbulence, which an open outward burst does not supply.** `SA-EM-PYREWIND-DETONATES-IN-THE-OPEN`. |
 | Reflected-shock amplification | **up to ≈8×** incident overpressure | Cataclysm's own register failure, with the caster at the origin. **Not on the page, and the page's Cinerion counter creates the geometry.** |
 | Water needed to absorb the thermal load | **≈25 tonnes boiled** | 62 GJ ÷ (4.18 kJ/(kg·K) × 80 K + 2,260 kJ/kg). **Why the Thaloré counter works and how much of it is needed.** |
-| Bleed | **40–50 %** | 1 − η. **Indistinguishable from the output, since the output is heat and sound.** |
+| Bleed | **30–40 %** | 1 − η, at the Tier 5 band as corrected by **R44-4**. **Indistinguishable from the output, since the output is heat and sound.** |
 | Minimum Stage | **VI · Glory** | Page. Max Grade A, ceiling 400 (Part Five). |
 | Tier of Standing | **5 · Expert** | Part Five. |
 | Grade required | **A** (276–400) | Page. **At Stage VI's Max Grade exactly, so the working sits at its own ceiling with no headroom.** |

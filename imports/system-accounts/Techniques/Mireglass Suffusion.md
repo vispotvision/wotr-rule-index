@@ -269,8 +269,9 @@ way Eidolyn's templated nucleation does on the Oneiron pages. And the caster is 
 same flood, with their own fragments coming up uninvited, for as long as they hold it.
 
 **What bleeds, at the stated efficiency.** No practitioner, so η is read off the Stage:
-Stage VI ⇒ Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.50–0.60** (Part Nineteen).
-**Forty to fifty percent of every expenditure leaves as heat, sound and structural bleed**
+Stage VI ⇒ Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.60–0.70** (Part Nineteen, Tier 5 row as
+corrected by **R44-4**). **Thirty to forty percent of every expenditure leaves as heat, sound and
+structural bleed**
 (`Two Sets of Books` §III). In this working that bleed is unusually visible: a retroreflective
 film illuminated by its own losses is *lit*, and *"a low-efficiency practitioner is loud, warm,
 and easy to find"* describes a twelve-metre glowing floor better than it describes most workings.
@@ -285,7 +286,7 @@ and easy to find"* describes a twelve-metre glowing floor better than it describ
 | Cost in kind | **the caster's own buried memories, in fragments, for the field's duration** | Page. **No system unit for memory.** `SA-GAP-MEMORY-AS-COST`. |
 | Hidden second cost | **possible erasure of the record read** | Anamnesis's register failure (thermal resetting). **Not on the page.** `SA-GAP-MIREGLASS-THERMAL-RESET`. |
 | Flux Density | `null` | No AU/s figure, no card, no named practitioner. |
-| η | **0.50–0.60** (derived) | Stage VI ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen). |
+| η | **0.60–0.70** (derived) | Stage VI ⇒ Tier 5 · Expert (Part Five) ⇒ η band (Part Nineteen, Tier 5 row as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **≈24 s** | Page: "four exchanges, roughly twenty-four seconds" — **the page's own rate is 6 s per exchange**, and two other pages in this batch convert at 5 s and one at 3–5 s. `SA-GAP-TURN-LENGTH`, `SA-CROSS-TURN-CONVERSION-RATES`. |
 | Field radius | **12–15 m** | Page. |
@@ -301,7 +302,7 @@ and easy to find"* describes a twelve-metre glowing floor better than it describ
 | Target chemical store | **≈3.7×10⁸ J** each | ~10 kg adipose × 37 MJ/kg. |
 | **B-Grade attack floor** | **1.046×10⁹ J** | Part Four. **Against one target the whole in-field reservoir is ≈4.2×10⁸ J — short by 2.5×.** Against three it clears. `SA-EM-MIREGLASS-REAL-BLOW`. |
 | Ordinary strike, for scale | **≈100–200 J, ~5 kN peak** | Closes trivially. **The page does not say which of the two it means.** |
-| Bleed | **40–50 %** | 1 − η. On a retroreflective film, visible as light. |
+| Bleed | **30–40 %** | 1 − η, at the Tier 5 band as corrected by **R44-4**. On a retroreflective film, visible as light. |
 | Minimum Stage | **VI · Glory** | Page. Max Grade A, ceiling 400 (Part Five). |
 | Tier of Standing | **5 · Expert** | Part Five. |
 | Grade required | **B** (176–275) | Page — and **the page gates its own field one whole Grade below the Stage it requires** (Stage VI's Max Grade is A). Not a fault; worth noticing, because it means a Stage VI practitioner runs this comfortably inside their ceiling. |

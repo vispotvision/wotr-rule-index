@@ -335,9 +335,9 @@ she says something she does not mean.
 |---|---|---|
 | EU spent | **page says 5,000; treat as `null`** | *"An estimated 5,000 EU while the ward stands, **chosen conservatively** for a Stage VI standing working"* (`:44`). The page states it is an estimate. No formula converts a Stage into EU (`SA-GAP-EU-FORMULA`, `SA-NUM-BASTION-5000-EU`). |
 | Flux Density | `null` | No AU/s figure; no card (`SA-GAP-OPALIS-NO-CARD`). |
-| η | **0.85–0.90 derived, nothing to check it against** | Stage XII is Tier **7 · Grandmaster** (Part Nineteen). Opalis has no card, so this is the band and not a measurement. At the working's stated **Stage VI floor** it would be Tier 5 and **0.50–0.60** instead — a difference of 30 percentage points depending on who is holding it. |
+| η | **0.85–0.90 derived, nothing to check it against** | Stage XII is Tier **7 · Grandmaster** (Part Nineteen). Opalis has no card, so this is the band and not a measurement. At the working's stated **Stage VI floor** it would be Tier 5 and **0.60–0.70** instead (Part Nineteen's Tier 5 row as corrected by **R44-4**) — a difference of 20 percentage points depending on who is holding it. |
 | AU/s | `null` | Needs Flux Density. |
-| Efficiency and bleed | **10–15% at her Stage; 40–50% at the floor** | 1 − η, *"as heat, sound, and structural bleed."* On a **standing** working the bleed is continuous, which is the one place where a low-η holder of this ward is genuinely worse off than a high-η one: *"a low-efficiency practitioner is loud, warm, and easy to find."* |
+| Efficiency and bleed | **10–15% at her Stage; 30–40% at the floor** (**R44-4**) | 1 − η, *"as heat, sound, and structural bleed."* On a **standing** working the bleed is continuous, which is the one place where a low-η holder of this ward is genuinely worse off than a high-η one: *"a low-efficiency practitioner is loud, warm, and easy to find."* |
 | Radius | **3–7 m** | Page `:39`. Part Eleven's A-Grade **Contact Range is 3–10 m** ✓ in band. |
 | **Shell area** | **113 m² (r = 3) – 616 m² (r = 7)** | 4πr². |
 | Arrest capacity, as stated | **20–100 GN** ✓ **correctly cited** | Part Eleven, A-Grade Strike Force. The page reads its own Grade row correctly. |

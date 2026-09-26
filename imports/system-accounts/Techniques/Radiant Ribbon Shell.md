@@ -352,8 +352,9 @@ degrades at the moment of stress, in proportion to how much of the truth is bein
 cost written into the effect rather than charged after it.
 
 **What bleeds, at the stated efficiency.** No practitioner, so η is read off the Stage: Stage VII ⇒
-Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.50–0.60** (Part Nineteen), rising to **0.70–0.80** at
-Tier 6 if the page's ascent to Stage VIII is taken. **Forty to fifty percent leaves as heat, sound and
+Tier of Standing 5 · Expert (Part Five) ⇒ **η 0.60–0.70** (Part Nineteen, Tier 5 row as corrected by
+**R44-4**), rising to **0.70–0.80** at
+Tier 6 if the page's ascent to Stage VIII is taken. **Thirty to forty percent leaves as heat, sound and
 structural bleed** at the floor — and on an acoustic working, bleed that leaves *as sound* is the one
 thing it cannot afford, because sound is the signal. **The Ribbon Shell is the only working in this
 batch for which the bleed fraction is directly and mechanically adverse**, and it is the physical
@@ -369,7 +370,7 @@ Domain, which provides a feedback loop recycling ambient bleed."*
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **temporary voice loss** (cutting against conscience) + **double-hearing** (post-hearing overuse), clearing with rest | Page. **Billed in the medium, which is the tidiest cost-to-medium match in the batch.** No system unit for either. |
 | Flux Density | `null` | No AU/s figure, no card, no named practitioner. |
-| η | **0.50–0.60** at the floor, **0.70–0.80** at Stage VIII (derived) | Stage VII ⇒ Tier 5, Stage VIII ⇒ Tier 6 (Part Five) ⇒ η bands (Part Nineteen). |
+| η | **0.60–0.70** at the floor, **0.70–0.80** at Stage VIII (derived) | Stage VII ⇒ Tier 5, Stage VIII ⇒ Tier 6 (Part Five) ⇒ η bands (Part Nineteen, Tier 5 row as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **as long as the pattern is breathed** | Page. **One of two pages in the batch that needs no turn-length conversion.** |
 | Hush | **−9 dB at 8 m**, holding to **≈30 kn (15 m/s)** | Page. **Not producible by laminar entrainment:** air absorbs 0.04 dB over 8 m, and antiphase cancellation over an 8 m region needs λ > 48 m, f < ≈7 Hz. `SA-PHYS-RIBBON-HUSH-MECHANISM`. |
@@ -381,7 +382,7 @@ Domain, which provides a feedback loop recycling ambient bleed."*
 | "Cutting through noise", really | the **singer's formant, 2.5–3 kHz** | The physics the Mechanism actually cites, and it is about being heard. |
 | Energy budget | **fractions of a watt** | Speech radiates 10–50 µW conversationally, ≈1 mW shouting; a 15 mW beam is within breath plus directivity. |
 | Anamnesis figures (Feather Vows) | trap depth **1.1–2.0 eV**, peak **≈210 °C**, linear **10 µGy – 10 Gy**, **reading can reset** | The register's own analogue. **Testing a vow may erase its record, and nobody has charged for that.** |
-| Bleed | **40–50 %** at the floor, **20–30 %** at Stage VIII | 1 − η. **Directly adverse: bleed leaving as sound competes with the signal, which is the physical content of Ribbon Fray.** |
+| Bleed | **30–40 %** at the floor (**R44-4**), **20–30 %** at Stage VIII | 1 − η. **Directly adverse: bleed leaving as sound competes with the signal, which is the physical content of Ribbon Fray.** |
 | Minimum Stage | **VII · Refraction**, ascending to **VIII · Transcendence** | Page. Allocation stops at 400 at VII, 550 ceiling at VIII (Part Five). |
 | Tier of Standing | **5 · Expert** → **6 · Master** | Part Five. |
 | Grade required | **A** at floor, **S** at apex | Page ✓ consistent with Part Five (A is Stage VII's Max Grade; S is Stage VIII's). |

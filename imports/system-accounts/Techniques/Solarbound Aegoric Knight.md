@@ -68,11 +68,12 @@ repeatedly in a line of battle might total **10⁵ J** if every blow landed and 
 be the sum of what was absorbed — the absorbed impact is a **trigger and a measure**, not the fuel,
 and the page does not say so.
 
-And then the bleed. At Stage VII the practitioner sits at Tier 5, **η 0.50–0.60**, so *"forty to fifty
+And then the bleed. At Stage VII the practitioner sits at Tier 5, **η 0.60–0.70** (R44-4: Part
+Seventeen governs and Part Nineteen's Tier 5 row is corrected to match), so *"thirty to forty
 percent"* of every expenditure leaves *"as heat, sound, and structural bleed"* (`Two Sets of Books`
 §III, Part Nineteen). **If the store is charged through the Shell at that efficiency, charging a 46 GJ
-release costs roughly 38 GJ of waste heat** — eleven tonnes of TNT of it, delivered slowly, into a man
-and the room around him. Nothing on the page acknowledges a thermal signature, and a knight who bled
+release costs roughly 25 GJ of waste heat** — five tonnes of TNT of it (at the page's own 4.6 MJ/kg),
+delivered slowly, into a man and the room around him. Nothing on the page acknowledges a thermal signature, and a knight who bled
 that much while filling would be visible from another county. **Either the store is charged losslessly
 and the bleed is paid only at release, or the discipline is a furnace.** The system states no rule for
 a working that stores rather than spends, and this is the batch's clearest case of a needed rule that
@@ -105,7 +106,8 @@ there, and the account has just shown the vessel cannot be chemical.
 - Rest energy of an 80 kg man: **7.2×10¹⁸ J**; the S-Grade store is **3.4 ppm** of it.
 - Absorbable impact, honestly counted: charge **2–3 kJ** · ten-metre fall **8 kJ** · a hard day in the
   line **≈10⁵ J.** **Six orders short of the release.**
-- Bleed while charging at η 0.55: **≈0.82 J per joule stored** ⇒ **≈38 GJ** for a 46 GJ release.
+- Bleed while charging at η 0.65: **≈0.54 J per joule stored** ⇒ **≈25 GJ** for a 46 GJ release
+  (band 0.60–0.70 per R44-4).
 - Eddy-current skin depth: **δ = √(2/ωμσ)**, sub-millimetre in steel at 100 kHz.
 
 **The energy budget, and where the joules were.** **At the Aether stratum, and nowhere else it could
@@ -198,8 +200,8 @@ is gated on a cause actually sworn is a discipline whose Authorization role is d
 **Essence stratum.** Crystal layer: the **Aether Shell** throughout — the page says so, *"a Shell
 discipline"* — with the Essence Core touched only at the Traitus layer, where the bias is permanent.
 Developmental Tier: **Resonant** at Stage VII through **Sovereign** at Stage IX–X (Part Twenty-One).
-Tier of Standing **5 · Expert** at the floor, **6 · Master** from Stage VIII, η 0.50–0.60 rising to
-0.70–0.80. Crystal State: `null`. **The invoice:** a permanent bias in the Shell, a barrier that has
+Tier of Standing **5 · Expert** at the floor, **6 · Master** from Stage VIII, η 0.60–0.70 (R44-4)
+rising to 0.70–0.80. Crystal State: `null`. **The invoice:** a permanent bias in the Shell, a barrier that has
 to be maintained for as long as the store is held, and a release that cannot be partial — the knight
 does not get to spend half.
 
@@ -292,13 +294,13 @@ earlier, and who cannot do it again this cycle.
 |---|---|---|
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Flux Density | `null` | No AU/s figure, no card, no named practitioner. |
-| η | **0.50–0.60** at Stage VII, **0.70–0.80** from Stage VIII | Tier 5 → Tier 6 (Part Five) ⇒ η bands (Part Nineteen). |
+| η | **0.60–0.70** at Stage VII, **0.70–0.80** from Stage VIII | Tier 5 → Tier 6 (Part Five) ⇒ η bands (Part Nineteen, Tier 5 row as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | `null` | **The page states no duration, no range, no store capacity and no release figure.** `SA-GAP-SOLARBOUND-NO-NUMBERS`. |
 | Output band implied | **46 GJ – 4.184 TJ** (A) → **4.184 – 24.3 TJ** (S) | Part Eleven, from the page's Stage and Grade range. **Derived here, not stated there.** |
 | **Store density implied** | **575 MJ/kg → 304 GJ/kg** in an 80 kg frame | 13× petrol at the floor; 6,900× at the apex; **3.4 ppm of rest energy**, so no c² breach. |
 | **Impact actually absorbable** | **≈10⁵ J** in a hard day | Charge 2–3 kJ, ten-metre fall 8 kJ. **Six orders below the release: the absorbed strain is a trigger, not the fuel.** |
-| **Bleed while charging** | **≈38 GJ** per 46 GJ stored at η 0.55 | 1 − η, *"as heat, sound, and structural bleed"*. **No rule exists for whether a store bleeds while held.** `SA-PHYS-SOLARBOUND-STORAGE-BLEED`. |
+| **Bleed while charging** | **≈25 GJ** per 46 GJ stored at η 0.65 | (1 − η)/η, *"as heat, sound, and structural bleed"*; band 0.60–0.70 per **R44-4**. **No rule exists for whether a store bleeds while held.** `SA-PHYS-SOLARBOUND-STORAGE-BLEED`. |
 | Minimum Stage | **VII · Refraction** | Page. Allocation stops at 400; 401–475 under strain (Part Five). |
 | Stage range | **VII → X · Realization** | Page. |
 | Tier of Standing | **5 · Expert** → **6 · Master** | Part Five. |

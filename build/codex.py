@@ -20,6 +20,8 @@ GLYPH = re.compile(r"\[([A-Z][A-Za-z']{0,5})\](?!\()")
 # v4's coinage hunt: capitalised Latinate shapes a Lists column should know.
 COINAGE = re.compile(r"\b[A-Z][a-zé]+(?:atio|antia|orath|ivale|thrae|ilithe|aeon)\b")
 STOP = {"Ratio", "Station", "Nation", "Aeon"}
+# Spellings RULINGS.md settles against the sheet: 2026-09-12, "Crymorath was the typo; Cymorath is canon."
+RULED = {"Crymorath": "Cymorath"}
 
 
 @lru_cache(maxsize=1)
@@ -84,10 +86,17 @@ def check(text: str) -> str:
     known = set().union(*L.values())
     G = glyphs()
     known |= set(G.values())
+    known = (known - set(RULED)) | set(RULED.values())
     out, fails = [], 0
 
     used = sorted({t for t in known if len(t) > 3 and re.search(rf"\b{re.escape(t)}\b", body)})
     unknown = sorted({w for w in COINAGE.findall(body) if w not in known and w not in STOP and w not in proposed})
+    ruled = sorted(w for w in RULED if re.search(rf"\b{w}\b", body))
+    if ruled:
+        fails += 1
+        out.append("FAIL 37 ruled spelling (RULINGS.md): " + ", ".join(f"{w} is {RULED[w]}" for w in ruled)
+                   + ". The Codex sheet still carries the old spelling.")
+    unknown = [w for w in unknown if w not in RULED]
     if unknown:
         fails += 1
         out.append(f"FAIL 37 controlled vocabulary (R18-7-CHECK37): not on the Lists sheet: {', '.join(unknown)}. "

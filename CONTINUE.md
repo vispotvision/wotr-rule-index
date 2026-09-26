@@ -331,7 +331,8 @@ so a grep of `wiki/` returns the old figures until the hourly sync commits.
   Lists AlchType column. The "For ChatGPT" and "For Gemini" bundles are in the system trash; the one file only
   they held is now `true-canon/THE MECHANISM OF THE SIXTY.docx`.
 - **`build/codex.py`** (MCP `codex`, `codex_check`) reads the xlsx: `find` for Pack Eighteen 4a, `check` for
-  checks 37-39. It flags "Cymorath" in six archived scenes and "Oblatio" in one; the scenes are untouched.
+  checks 37-39. It holds RULINGS.md's 2026-09-12 spelling (Cymorath canon, Crymorath the typo) over the sheet,
+  which still says Crymorath in its Lists and Wellspring cells. Across `scenes/` it flags only "Oblatio" (one scene).
 - **The Notion Alchemical Index has the twenty new formulas** (sixty-one rows), drafted from the Codex in
   `imports/alchemy/`. Rows 44, 45, 48, 53 read **Class ?** until **C-058** is ruled; C-055 to C-057 are open
   beside it. Rows 47 and 60 are written Vohrin · Caloria under R27-1 although the Codex still says Crymorath.

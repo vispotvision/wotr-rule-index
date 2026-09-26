@@ -4,7 +4,7 @@ notion_id: "3d758200-eb22-81a2-82cb-c69140fdabd7"
 notion_url: "https://app.notion.com/p/IV-The-Eight-Primaries-and-the-Sixty-Four-Sub-Stats-Part-Twelve-3d758200eb2281a282cbc69140fdabd7"
 section: "Fracture of Worlds — The Living System"
 tags: ["Magic System", "Reference Table"]
-last_edited: "2026-09-24T18:18:00.000Z"
+last_edited: "2026-09-26T22:32:00.000Z"
 verification: "unverified"
 ---
 
@@ -122,52 +122,3 @@ At low Grades, Dominion is mild ambient influence, the instinctive way a strong 
 **Throne** — Latent compatibility between accumulated doctrine and the Hollow Thrones of defunct Archons. Not a measure of power. A measure of destiny. **Throne carries no Temperance ceiling and is excluded from the Dominion total and the Dominion mean**, since its floor sits above every ceiling in the Stage table and including it would distort the Primary beyond use. Dominion's mean is the total divided by seven. It is carried as its own line on the character sheet.
 
 ---
-
-### The Merge Ledger
-
-Read a retired name on an older sheet as the entry that absorbed it. Nothing was deleted; sixty-four entries carry what a hundred and twenty carried, with the restatements collapsed.
-| Primary | Retired | Absorbed into |
-|---|---|---|
-| Vitality | Ossification, Tenacity | Fortitude |
-| Vitality | Endurance | Constitution |
-| Vitality | Scarring | Regeneration |
-| Vitality | Contuition | Filtration |
-| Vitality | Gravitas, Nullity | Tolerance |
-| Ardency | Saturation, Duality | Depth |
-| Ardency | Radiance | Compression |
-| Ardency | Spectral | Cascade |
-| Ardency | Detonation, Conversion | Overchannel |
-| Ardency | Inscription | Density |
-| Gnosis | Cartography | Perception |
-| Gnosis | Adaptation | Acuity |
-| Gnosis | Sapience, Resonance | Fluency |
-| Gnosis | Memorium | Retention |
-| Gnosis | Diagnosis | Analysis |
-| Gnosis | Warding | Cognition |
-| Dexterity | Burst | Celerity |
-| Dexterity | Acuity, Deflection | Finesse |
-| Dexterity | Equilibrium, Recovery | Economy |
-| Dexterity | Silence | Feint |
-| Dexterity | Independence | Sequence |
-| Harmonics | Memory, Fidelity | Attunement |
-| Harmonics | Density | Projection |
-| Harmonics | Chord | Breadth |
-| Harmonics | Recovery, Voidance | Stability |
-| Harmonics | Confluence | Synergy |
-| Resilience | Scarring | Integrity |
-| Resilience | Severance | Ward |
-| Resilience | Nullity | Persistence |
-| Resilience | Coherence | Anchoring |
-| Resilience | Insulation | Fortification |
-| Resilience | Immunity | Hardening |
-| Resilience | Dimensional | Continuity |
-| Tempering | Compression, Resistance | Clarity |
-| Tempering | Acceleration, Processing, Inheritance | Maturity |
-| Tempering | Conversion, Latency | Yield |
-| Dominion | Expansion, Projection | Radius |
-| Dominion | Reach | Sovereignty |
-| Dominion | Acuity, Rift | Sense *(renamed)* |
-| Dominion | Density, Anchoring | Gravity *(renamed)* |
-
-> **Name collisions resolved.** Ardency Compression and Tempering Compression both existed; Tempering's is now Clarity. Gnosis Acuity, Dexterity Acuity and Dominion Acuity all existed; Dexterity's folded into Finesse and Dominion's is now Sense. Harmonics Density and Ardency Density both existed; Harmonics' folded into Projection. Resilience Coherence and Tempering Coherence both existed; Resilience's folded into Anchoring. Vitality Nullity and Resilience Nullity both existed; the first folded into Tolerance, the second into Persistence. Harmonics Stability and Dominion Stability both existed; Dominion's is now Gravity (2026-09-23). **Every Sub-Stat name in the system is now unique**, which means a Sub-Stat can be cited in a diagnostic reading without naming its Primary.
-*Eight Primaries. Sixty-four Sub-Stats. Every one of them earned, compressed, and recorded by a Crystal that does not forget, does not forgive, and does not lie.*

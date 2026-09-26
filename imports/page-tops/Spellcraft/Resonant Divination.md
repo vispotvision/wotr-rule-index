@@ -2,7 +2,7 @@
 **Effect** · Reads the causal web's own vibration: the Attraction currents along every bond, oath, debt and recognition, which bonds are strong or straining, which were cut, and which are nearing convergence.
 **Cost** · 0.5% of full reserve a turn for Bond Reading and Tracking, 1% for Fate Entanglement and Forecasting, 2% for Dissonance Warning; pressing a faint line doubles the rate.
 **Limit** · It reads relations, never a person, and returns a probability, not a prophecy; a masked, cleanly cut or Thick Veil bond degrades or misreads.
-**Counter** · Meet in a Thick Veil zone, decorrelate with Knot or hide with Tenebra, send a courier with no bonds, or decide in the morning so there is nothing to forecast.
+**Counter** · A Thick Veil zone, decorrelation by Knot or concealment by Tenebra, a courier with no bonds, or a decision made in the morning, which leaves nothing to forecast.
 **What nobody knows** · What Izathen the Broken Lyre still hears, and whether the echo he is lost in carries anything besides his own tone.
 
 ## Codex line
@@ -14,18 +14,6 @@
 **Stage floor** · Transcendence
 **Grade required** · S-Grade for Bond Reading and Tracking; SS-Grade at Realization for Fate Entanglement and Forecasting; SSS-Grade at Emanation for Dissonance Warning.
 **Path gate** · Attraction Path at Splintering to pass S in Forecast and at Welling to pass D in Attunement; Spirit Path for Sense past C; Fate Path for Continuity past S.
-
-## Design Chain
-**Trigger** · The Diviner lays Frequency across Binding and holds their own Attraction Layer open as a receiver, listening across the Veil.
-**Function** · Holds an integration window open long enough for a correlation that is always in the noise to rise above it; nothing is imposed on anyone.
-**Mechanism** · A bond is a coupled pair observed from outside: its strength, damping and phase assemble out of the noise, a cut bond rings down, and a pair nearing convergence aligns smoothly before it locks.
-**Numerical Effect** · A strong bond reads in about five turns for 2.5% of reserve, a weak one in about fifty for 25%; continuous listening lasts 180 turns and Dissonance Warning 45 turns from full.
-**Target Response** · None: nothing is taken or left on the subject, and only someone very still somewhere else is doing it.
-**Consequence** · A relational map, the bonds under strain, a recently cut bond and roughly who cut it, and forecasts days or weeks ahead where the coupling changes slowly.
-**Limitation** · Lead time belongs to the coupling, not the Diviner, so a morning's decision gives none; a subject with no bonds returns nothing; a displaced bond reads at full strength until called on, so a betrayal in progress looks healthy.
-**Weakness** · A read locked on the wrong line makes a sympathetic bond to something unintended, and the other end can feel it; receiver and transmitter in one Crystal can feed back into a loop.
-**Cost** · Shares of full reserve per turn the receiver is open: cheap per turn and relentless; a week's forecast of four ten-turn sessions costs 40%, recovered between.
-**Counterplay** · Against a masked subject Harmonics Attunement meets Harmonics Stability, and a Diviner who loses by a full Grade has locked the wrong line; project into its band to close the loop; answer the Conclave administratively.
 
 ## FOW line
 **Governing Primary** · Harmonics (Attunement), with Gnosis Forecast.

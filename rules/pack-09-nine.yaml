@@ -73,7 +73,7 @@ rules:
     pack_number: 9
     section: "PART TWO"
     title: The system-vocabulary ban is narrowed, not repealed
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       Pack Seven's ban on system vocabulary in prose still binds absolutely

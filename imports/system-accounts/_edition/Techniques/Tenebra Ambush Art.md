@@ -17,7 +17,7 @@
 | Approach against the blow | 320 kJ ÷ 46 GJ | 1.4 × 10⁻⁵ |
 
 ## Metaphysics
-**Aether** · Limina (darkness, silence, ruins) and Vectoria (structural mass, worked stone) agree: a dark ruin with a hard floor; a lit, crowded camp on soft mud starves both, and fighting the gradient costs more reserve.
+**Aether** · Limina (darkness, silence, ruins) and Vectoria (structural mass, worked stone) agree: a dark ruin with a hard floor; a lit, crowded camp on soft mud starves both, and working against the gradient costs more reserve.
 **Wellspring** · Tenebra, the Hidden Shadow (Limina): signal-to-noise reduction by absorptive coating and faceted return, making the practitioner quieter than the background rather than invisible.
 **Wellspring** · Petralon, the Foundation Stone (Vectoria): every load routed into compression like an arch, so a skeleton carries a meganewton for seven and a half milliseconds without parting.
 **Inherited failures** · Tenebra's aspect dependence lights him up from the unplanned bearing; Petralon's tensile exposure means a crossing he must stop himself loads his frame the one way it parts.
@@ -44,14 +44,14 @@
 |---|---|---|
 | Cost, one crossing | 3% of full reserve | 1,554 to 28,830 EU |
 | Kinetic store delivered | 5 to 320 kJ | under a thousandth of one EU |
-| Uses before Starvation | 90% ÷ 3% | 30, before any strike is paid |
+| Reserve covers | 90% ÷ 3% | 30, before any strike is paid |
 | Strike that follows | A-Grade, priced apart | 20 to 100 GN peak, 46 GJ to 4.184 TJ |
 
-**Cost** · 3 percent of full reserve per crossing, coating and launch together; paired with committed A-Grade blows the floor comes in a handful of exchanges.
+**Cost** · 3 percent of full reserve per crossing, coating and launch together.
 **Duration** · One crossing of 8 m within the 3 to 10 m A-Grade Contact Range, taking 0.1 s loud or 0.8 s quiet, inside one turn.
 
 ## Counterplay
 **Tell** · Cold and ozone first, a room slightly too quiet, a shear of air over a hundred decibels on a fast crossing, blood at eyes and nose, and two cold trails where Cinerion is held.
 **Limits** · Buys eight metres and no more; nothing in light; nothing at forty metres; cannot hide its own sound.
-**Beats it** · Light the room; post a watcher at the wrong angle; lit crowds or soft ground; keep distance; volley the dark doorway; take the anchor below Refraction; list the nearest dark beforehand; sidestep so he must stop himself.
+**Fails against** · Light; a watcher at an angle the facets were not built for; lit crowds or soft ground; distance; a volley into the dark doorway; a lost anchor below Refraction; the nearest dark, known beforehand; a sidestep, which leaves him to stop himself.
 **Look up** · The Limina and Vectoria favour lists; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.

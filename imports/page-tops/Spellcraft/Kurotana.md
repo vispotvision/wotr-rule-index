@@ -15,18 +15,6 @@
 **Grade required** · SS-Grade
 **Path gate** · None; Persistence needs the Fate Path at Refraction to pass S.
 
-## Design Chain
-**Trigger** · The Black Recognition: the bearer offers the Plane of Fate the Witness of Flesh (the body), the Witness of Love (a bond that still saw a human) and the Witness of Name (its old meaning, replaced by one function).
-**Function** · Rebuilds all three layers of the Soul Crystal around a single surviving seed.
-**Mechanism** · Monolithion pins the Crystal's internal interfaces at one; Vantabriel keeps what strikes the vessel rather than reflecting it; Nihiloth's Domain removes law instead of adding it; Oblation prices the surrender so the total is never increased.
-**Numerical Effect** · Black Mandate 2% of full reserve concrete or 12% abstract; Soul Drafting 6% per soul; Name Revision 8% per office; Consequence Architecture 1% a turn; Murder of Crows 5% a turn, about 18 turns from full.
-**Target Response** · Inside Murder of Crows, Cathedral of Unchosen Futures, a crow marks each significant choice and a poorly chosen path grows heavier and narrower as it takes flight; the crow marks a removed future, it does not predict.
-**Consequence** · A vessel that takes hits without returning them or seeming diminished, repairs itself while its self-design stays coherent, and revises souls, offices and events toward one design.
-**Limitation** · Soul Drafting always costs the soul something adjacent to what it gains; the Black Mandate grows dearer as it grows abstract; nothing spent in the rite returns.
-**Weakness** · A clean reminder splits the vessel in microseconds, since a single crystal has nothing to arrest a crack; absorbed load past the vessel's maximum does the same from inside.
-**Cost** · 90% of full reserve for the rite, leaving the bearer at the floor; no upkeep for the vessel; every power billed per use as a share of full reserve.
-**Counterplay** · Deliver the reminder clean and decided on knowing it kills; overfill it with sustained load; catch it in the days after the rite; the Drafting contest sets Harmonics Attunement against Harmonics Stability.
-
 ## FOW line
 **Governing Primary** · Resilience (Persistence), with Harmonics Attunement for Drafting and Revision.
 **Stage floor** · Dissonance

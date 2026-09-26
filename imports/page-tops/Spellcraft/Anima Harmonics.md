@@ -2,7 +2,7 @@
 **Effect** · The Harmonist listens to a soul's own tone and reads the Crystal's Stage, its Traits, its damage and any foreign note in it; at higher Stages a clean projected tone lets a damaged Crystal find its own frequency again.
 **Cost** · Every turn of held quiet costs 0.5% of full reserve, so long surveillance or negotiation runs the Harmonist dry; therapy costs 2% a turn and Fell Chord surgery 5% a turn.
 **Limit** · It produces no force and no ward, it cannot lawfully tune a soul that has not consented, and nothing quieter than the room can be heard.
-**Counter** · Be loud, harden the Crystal with Basilithe or Resilience Hardening, hide below the noise floor with Tenebra, or shoot the Harmonist while they stand still and quiet.
+**Counter** · Loud surroundings, a Crystal hardened with Basilithe or Resilience Hardening, concealment below the noise floor by Tenebra, or harm to the Harmonist while they stand still and quiet.
 **What nobody knows** · Whether a Fell Chord that has sat in a Crystal long enough becomes part of its owner's own chord, and so stops being foreign at all.
 
 ## Codex line
@@ -14,18 +14,6 @@
 **Stage floor** · Refraction
 **Grade required** · A-Grade to listen, S-Grade for therapy at Invocation, SS-Grade for Fell Chord surgery at Dissonance.
 **Path gate** · Spirit Path at Flourishing to pass B in Analysis and at Splintering to pass A in Suppression; Attraction Path at Welling to pass D in Attunement.
-
-## Design Chain
-**Trigger** · The Harmonist pins their own Shell's outward tone near zero and opens its gates inward beside the subject, often in a quiet hour chosen for low ground Resonance.
-**Function** · Diagnosis of a soul's state without touching it, and in restricted cases therapy by a clean reference tone.
-**Mechanism** · A Crystal rings as a sum of its natural modes: the Stage shows as a harmonic band, each Trait as its own line, a crack as a slow beat between split lines, and a Fell Chord as a line the subject's own structure cannot make.
-**Numerical Effect** · A cracked Crystal's split pair beats at 1 to 10 Hz; cutting the listener's own emission tenfold carries the read about three times as far.
-**Target Response** · The subject feels nothing while listened to; under projection they notice a foreign tone beside their own and their Crystal drifting toward it.
-**Consequence** · Damage, Trait inversion and Overcast fatigue are heard before symptoms show; Microharmonic Recalibration, Wellspring Stabilization and Emotional Resonance Therapy re-align a Crystal from within; surgery holds a counter-tone until a foreign line lets go.
-**Limitation** · It does not replace a full Coherence Ladder reading, it is impossible below Refraction, and on ground worked or fought over recently the listening range shrinks to a fraction of its ordinary distance.
-**Weakness** · A tone at the wrong frequency is Echo Fracture: the Crystal shatters instead of healing. A Harmonist whose Shell will not go quiet hears only themselves.
-**Cost** · Listening 0.5% of full reserve a turn, up to 180 turns; a five-turn therapy session 10%; a six-turn surgery 30%.
-**Counterplay** · Drums, thick Veil and Residue-heavy ground deafen it; Knot carries false lines; a projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability, and unconsented work hands the opponent a prosecution under sacred law.
 
 ## FOW line
 **Governing Primary** · Harmonics (Attunement, Stability, Suppression), with Gnosis Analysis for the diagnostic read.

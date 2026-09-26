@@ -29,9 +29,9 @@
 **Glyph** · Lock for the Mercy barrier and Balance for the Oath gating, with Illumination filing the release; Disruption, chaotic anti-cohesion, is the discipline's unanswerable counter.
 **Boundary** · The barrier between the knight's Shell and its relaxed state, set high enough not to leak and low enough that a chosen act crosses it.
 **Laminae** · Strain Lamina is the trap, Mercy Lamina the barrier height, Oath Lamina the amplifier read from nearby affinities; the oath is the ignition.
-**Effect** · For most of a fight nothing: he takes blows and gives no ground, a steady pressure on the air near him. Then a knee, a shield or a hand on the brand, and the release arrives heavy before bright, the ground stiffening and the give going out of things.
+**Effect** · Until release, nothing: he takes blows and gives no ground, a steady pressure on the air near him. Then a knee, a shield or a hand on the brand, and the release arrives heavy before bright, the ground stiffening and the give going out of things.
 **Domain** · At the top, with a Domain seated, the release leaves as law: things that are sworn do not break, and the ground stops giving way for as long as his pulse carries it.
-**Failure** · Seizure when the store passes what the Mercy Lamina holds, a Structure fault, escaped only by a deliberate oath-bleed; fraying under Disruption; spectral overload; and Coherence drift when he fights without a sworn cause.
+**Failure** · Seizure when the store passes what the Mercy Lamina holds, a Structure fault, escaped only by a deliberate oath-bleed; fraying under Disruption; spectral overload; and Coherence drift when he acts without a sworn cause.
 **Bleed** · A held store does not bleed; the waste leaves once, at release, as heat, sound and structural bleed at his Shell: 30 to 40 percent at Refraction, 20 to 30 from Transcendence.
 
 ## Essence
@@ -43,7 +43,7 @@
 |---|---|---|
 | Cost, A floor, reserve 500,000 EU, η 0.65 | 46,000 MJ ÷ 0.65 = 70,800 EU | 14% of reserve, 24.8 GJ bled |
 | Cost, S floor, reserve 1.5 × 10⁷ EU, η 0.75 | 4.184 × 10⁶ MJ ÷ 0.75 = 5.58 × 10⁶ EU | 37% of reserve |
-| Uses before Starvation | two releases plus ordinary spending | the ten-percent floor |
+| Reserve covers | two releases plus ordinary spending | the ten-percent floor |
 
 **Cost** · The knight's own reserve, 14 to 37 percent of full reserve per release, paid all at once; blows he absorbs bank in the Crystal beside it and can overfill the store.
 **Duration** · One release per cycle, a single act; the store itself holds as long as the barrier does, and a Domain release lasts as long as his pulse carries it.
@@ -51,6 +51,6 @@
 ## Counterplay
 **Tell** · He does not react to blows, which means he is filling, and the store has no visible level; then the kneel, the shield or the hand on the brand is the whole warning. Afterwards the ground stays stiff and quiet and he is visibly less.
 **Limits** · No fast, repeated or incidental output and no partial release; output fades without a sworn cause; above A the layers cannot ride one release.
-**Beats it** · Give him only incidental fights; work the terms of his vow or displace it with a stronger one; wait out Coherence drift; fight cold, shielded and moving; take the hand or knee before the gesture; fray him with Disruption.
-**Feed him** · Hit often and lightly and offer nothing worth spending on: every blow banks, and the store walks toward seizure, so waiting is a timer that runs in the attacker's favour only while he keeps taking blows.
+**Fails against** · Only incidental output, which it cannot release; the terms of his vow, or a stronger vow displacing it; Coherence drift; cold, shielding and movement; a lost hand or knee before the gesture; Disruption, which frays him.
+**Store** · Every blow banks, light ones included, and a store never spent walks toward seizure; the timer runs only while he keeps taking blows.
 **Look up** · The Materia, Vitalia and Fulguria entries for Fixatio, Benediction and Judicium and their Failures; the Counterplay register for Disruption and Shear Break; Tempering Capacity; the Refraction and Transcendence Stage tables.

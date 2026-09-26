@@ -39,8 +39,8 @@
 | Delivered, standard, no doubt to full doubt | EU × 0.75 to 1.50 × 1 MJ | 7.4 × 10¹⁰ to 2.8 × 10¹² J, A-Grade |
 | Verdict swing | one third of a ceiling reserve | 6.13 × 10⁶ EU |
 | Delivered, verdict, no doubt to full doubt | EU × 0.75 to 1.50 × 1 MJ | 4.6 to 9.2 × 10¹² J, S-Grade |
-| Uses before Starvation, standard | 90% ÷ 10% | nine |
-| Uses before Starvation, verdict | 90% ÷ 33% | two, the third into the floor |
+| Reserve covers, standard | 90% ÷ 10% | nine |
+| Reserve covers, verdict | 90% ÷ 33% | two, the third into the floor |
 
 **Cost** · A normal swing is A-Grade at 10 percent of full reserve; S-Grade only with a swing costing a third of reserve, from the top of the band; never SS at this Stage.
 **Duration** · Instantaneous: about three seconds of windup and strike, one turn.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · Black facets crawl across the blade, the air draws in, then it comes straight down; three seconds every time, longer the better the read.
 **Limits** · Melee, one named target, one committed downward swing; the doubling needs doubt that is really there; S only from a third of reserve, never SS.
-**Beats it** · Be unreadable through a Resolve-aligned Wellspring; move out from under it with speed or a sublimation-type evasion; interrupt the commitment with a grapple or an ally stepping in; fog, ferrous plate or a shielded interior dull the read.
+**Fails against** · A target unreadable through a Resolve-aligned Wellspring; speed or a sublimation-type evasion out from under it; a commitment interrupted by a grapple or an ally stepping in; fog, ferrous plate or a shielded interior, which dull the read.
 **Look up** · Judicium and Coagula Failures in the Wellspring entries; Fulguria's suppressors; the Grade energy table and armour ceilings; the Transcendence Stage table; the Aether Shell failure states.

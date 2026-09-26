@@ -42,7 +42,7 @@
 | Raising the pane | 3% of reserve | 29,700 to 552,000 EU |
 | Each closing on a working | 2% of reserve | 19,800 to 368,000 EU |
 | Cost, pane closing twice | 3% + 2 × 2% | 7% of reserve, 12 s |
-| Uses before Starvation | 90% ÷ 7% | about twelve |
+| Reserve covers | 90% ÷ 7% | about twelve |
 
 **Cost** · Three percent of full reserve to raise and two percent per closing, plus unchosen minutes of short-term memory from the last hour on every closing, irreversible.
 **Duration** · Two turns, 12 s, raised reactively.
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · A two-metre pane of black-glass mist appears with no word and no gesture, and that silence marks an internal chain; afterwards, warrants that trace nowhere and a practitioner who cannot say what they did an hour ago.
 **Limits** · Two metres, two turns, one plane facing one way; unauthorised force crosses unaltered; Tenebra-aligned attackers partly bypass it; Fortification capped at B.
-**Beats it** · Shot, rocks and plain soldiers; feint it into closing on cheap workings; bright, loud, crowded ground; Judicium reads the warrant through; Absolution releases the shadow geometry; Knot against Knot; force the Seal early; wait for coherence drift.
+**Fails against** · Shot, rocks and plain soldiers; feints that make it close on cheap workings; bright, loud, crowded ground; Judicium, which reads the warrant through; Absolution, which releases the shadow geometry; Knot against Knot; a Seal forced early; coherence drift.
 **Look up** · The Counterplay register for Knot, Lock and Seal; the Four Glyph Roles; the Limina entries for Tenebra and Oblivara Failures; Judicium and Absolution; the Transcendence Stage table and the Body gates.

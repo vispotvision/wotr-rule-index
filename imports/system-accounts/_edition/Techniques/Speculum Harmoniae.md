@@ -44,9 +44,9 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Speculum cost | 2% of full reserve per cast | 4,000 EU at reserve 200,000 |
-| Speculum uses before Starvation | 90% ÷ 2% | 45 |
+| Speculum reserve covers | 90% ÷ 2% | 45 |
 | Nexus cost | 1% of full reserve a turn × 6 | 6%, 540,000 EU at 9.0 × 10⁶ |
-| Nexus uses before Starvation | 90% ÷ 6% | 15 |
+| Nexus reserve covers | 90% ÷ 6% | 15 |
 
 **Cost** · Speculum: 2 percent of full reserve and a slice of the caster's read of the target, thin until observed again. Nexus: 1 percent a turn, rising overload and cross-sense confusion, and the caster fixed standing.
 **Duration** · Speculum: 18 seconds, three turns, within 3 to 8 metres. Nexus: 36 seconds, six turns, up to one kilometre.
@@ -54,7 +54,7 @@
 ## Counterplay
 **Tell** · Speculum: no seam; only a channel the caster did not read, a footfall the room does not permit, a pursuer left holding nothing. Nexus: a still figure with a chant and a staff, glowing at the field's centre.
 **Limits** · The double cannot land a real blow and dies when its line is cut; the Nexus bias is small, cannot win an exchange alone, and misses anything under fifty microseconds.
-**Beats it** · Track affect or the reversion's shape, or read it with Judicium (no spectrum); watch the feet; Silence; crowd or Domain against the Speculum, fog or shielding against the Nexus; Knot the read, Lock the tone; fight fast, close or at the rim.
-**Spend the read** · Draw the Speculum out again and again against the same foe; each cast thins the caster's ability to counter that foe.
-**Find the caster** · Glare makes the Nexus caster easiest to locate, but downing him releases the shockwave over both armies.
+**Fails against** · Tracking by affect or by the reversion's shape, or a Judicium reading (the double has no spectrum); the feet; Silence; crowds or a Domain against the Speculum, fog or shielding against the Nexus; Knot on the read, Lock on the tone; speed, closeness or the rim.
+**Thinning** · Each cast against the same foe thins the caster's ability to counter that foe.
+**Glare** · Glare makes the Nexus caster the easiest to locate; his fall releases the shockwave over both armies.
 **Look up** · The Limina and Fulguria entries for Mirithane, Oneirion, Judicium and Aurevane and their Failures; Animatria and Concordia; Silence; the Counterplay register for Lock and Knot; the Splintering and Transcendence Stage tables.

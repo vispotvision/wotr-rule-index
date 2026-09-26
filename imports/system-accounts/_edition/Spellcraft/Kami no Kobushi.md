@@ -45,7 +45,7 @@
 | Labor-Form strike | 5%; committed 8% | 3.7 × 10¹⁰ to 6.9 × 10¹¹ J; 5.9 × 10¹⁰ to 1.1 × 10¹² J |
 | Totality expression | 30% of reserve | 2.2 × 10¹¹ to 4.1 × 10¹² J, A |
 | Cost, anchor held ten turns and six committed strikes | 7% + 6 × 8% | 55% of reserve |
-| Uses before Starvation | 90% ÷ 5%, 8%, 30% | eighteen strikes, eleven committed, three Totalities |
+| Reserve covers | 90% ÷ 5%, 8%, 30% | eighteen strikes, eleven committed, three Totalities |
 
 | Work, Plane-Coupled Bearer | Cost (EU) | Share Of Reserve | Delivered |
 |---|---|---|---|
@@ -61,5 +61,5 @@
 ## Counterplay
 **Tell** · The Anchor has chosen ground and stopped: a weapon butt driven in, palms flat to the earth, ground taking a weight it did not have. After, the ground remembers the coordinate.
 **Limits** · The coupling must be set before contact; it holds against displacement only up to its Continuity Grade; the largest Works run fewer than four to a reserve.
-**Beats it** · Pull, lift, hook or drag it in tension; fight it in a confined space so the blast returns; sever the coupling with displacement above its Continuity, a Silence, or ground that will not hold; wait for Obsession; make it spend.
+**Fails against** · Tension: a pull, lift, hook or drag; a confined space, where the blast returns; displacement above its Continuity, a Silence, or ground that will not hold, any of which severs the coupling; Obsession; spending.
 **Look up** · The Materia entries for Fixatio and Petralon and the Cataclysm, Fractura and Basilithe failures; the Continuity and Gravity gates; the bearer's card and lineage; the Transcendence and Emanation Stage tables.

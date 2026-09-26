@@ -54,7 +54,7 @@
 **Contest** · Against a masked subject, Harmonics Attunement meets Harmonics Stability; the subject who wins returns noise, and a Diviner who loses by a full Grade has locked the wrong line.
 
 ## Counterplay
-**Tell** · None in the moment: nothing taken, nothing left, nothing near the subject, only someone very still somewhere else. After, someone acting on the shape of your bonds before you do.
+**Tell** · None in the moment: nothing taken, nothing left, nothing near the subject, only someone very still somewhere else. After, someone acting on the shape of the subject's bonds before the subject does.
 **Limits** · Relations only, never a person; no prophecy; a masked, cleanly cut or Thick Veil bond degrades or misreads; a subject with no bonds returns nothing.
-**Beats it** · Meet in a Thick Veil zone; decorrelate with Knot or hide with Tenebra; send a courier with no bonds; leave a bought loyalty for it to confirm; project into its band to close the loop; decide in the morning; answer the Conclave administratively.
+**Fails against** · A Thick Veil zone; decorrelation by Knot or concealment by Tenebra; a courier with no bonds; a bought loyalty, which it confirms as true; a projection into its band that closes the loop; a decision made in the morning; an administrative answer to the Conclave.
 **Look up** · The Transference and Benediction entries and Benediction's failure; the Knot glyph and Tenebra's Suppression; the Thick Veil; the Attraction Path gate for Forecast; the Sonochoral Conclave's charter; the Transcendence, Realization and Emanation Stage tables.

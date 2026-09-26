@@ -44,7 +44,7 @@
 |---|---|---|
 | Cost | 6% declaration + 3 × 3% hold | 15% of reserve |
 | Output demanded | cost ÷ 18 s | 3.0 × 10⁶ to 5.6 × 10⁷ AU/s |
-| Uses before Starvation | 90% ÷ 15% | 6 |
+| Reserve covers | 90% ÷ 15% | 6 |
 | Discharge, floor at η 0.95 | 5.42 × 10⁷ EU × 0.95 MJ | 5.1 × 10¹³ J, 12 kt TNT |
 | Discharge, top at η 1.2 | 1.01 × 10⁹ EU × 1.2 MJ | 1.2 × 10¹⁵ J, 290 kt TNT |
 
@@ -54,6 +54,6 @@
 ## Counterplay
 **Tell** · The temperature falls about ten degrees, the air presses quiet, a drone rises through the floor, then the practitioner speaks aloud. Afterwards, a county of misfiring inscriptions and deafening Residue.
 **Limits** · 5 km; 18 s; one Principle; binds allies too; an Archonic verdict overrides it outright.
-**Beats it** · A Nihiloth null or a Talos-class cancellation field; Knot and Lock; force the Seal early to bill the practitioner; dream logic from Oneirion or Kaetra; shielded interiors in saturated cold; ride out eighteen seconds.
-**Break the man** · Two contradictory Oaths of equal weight freeze a Celestial practitioner; a known vow is a weapon; a written record of rewrites is a pattern a librarian can read.
+**Fails against** · A Nihiloth null or a Talos-class cancellation field; Knot and Lock; a Seal forced early, which bills the practitioner; dream logic from Oneirion or Kaetra; shielded interiors in saturated cold; the end of eighteen seconds.
+**Oaths** · Two contradictory Oaths of equal weight freeze a Celestial practitioner; a known vow binds them in public; a written record of rewrites is a pattern a librarian can read.
 **Look up** · The Counterplay register for Knot, Lock and forced Seals; Nihiloth and Talos-class fields; the Fulguria and Caloria terrain entries and Failures; the Zenith Stage table; Archonic verdicts.

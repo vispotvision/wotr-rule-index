@@ -42,7 +42,7 @@
 | Cost, enter | 4% of full reserve | 39,600 to 736,000 EU |
 | Cost, hold per turn | 2% of full reserve | 19,800 to 368,000 EU per 6 s |
 | Cost, full hold of five turns | 4% + 5 × 2% | 14% of reserve |
-| Uses before Starvation | 90% ÷ 14% | six full holds, the seventh unfinished |
+| Reserve covers | 90% ÷ 14% | six full holds, the seventh unfinished |
 | Banked from 1% of a 4.184 TJ blow | 41,840 MJ at 1 EU per MJ | 41,840 EU, 4% of a low reserve |
 
 **Cost** · 4 percent of full reserve to enter and 2 percent a turn held; banked energy can overfill the Crystal under repeated S-Grade blows, and the excess must be spent or carried when it ends.
@@ -52,5 +52,5 @@
 ## Counterplay
 **Tell** · He plants and stops fighting like a man, skin glossy and black, a low ringing that never changes, joints gone still; at the end, a still man moving in ways he did not choose.
 **Limits** · Resists up to the S-Grade ceiling as a structure, not beyond; no movement worth the name; nothing against tension, entropy or phase reversal.
-**Beats it** · Wedge, hook, pick, lever or lock; hit one spot twice; Dissolution or Sublimatio; fight him on a deck or barge; force him to move; make him hold it and strike at release; outrun the read; wait for Coherence drift.
+**Fails against** · Wedge, hook, pick, lever or lock; a second hit on one spot; Dissolution or Sublimatio; a deck or barge; any need to move; the moment of release after a long hold; speed beyond the read; Coherence drift.
 **Look up** · The Materia and Fulguria favour lists; the Coagula and Judicium Failures; the S-Grade Strike Force and Contact Range; the Transcendence Stage table; Dissolution and Sublimatio entries.

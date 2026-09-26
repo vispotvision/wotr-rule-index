@@ -40,13 +40,13 @@
 | Cost, first turn | 2% of reserve | 19,800 to 368,000 EU, 3,300 to 61,300 AU/s |
 | Cost, four turns | 2 + 3 + 4 + 5% | 14% of reserve |
 | Cost, eight turns | rising 1% a turn | 44% of reserve |
-| Uses before Starvation | to 90% | one hold of twelve turns, 72 s |
+| Reserve covers | to 90% | one hold of twelve turns, 72 s |
 
-**Cost** · Two percent of full reserve in the first turn and one percent more each turn after; four turns is a real fight's hold, twelve empties the practitioner and pushes the room into Saturation.
+**Cost** · Two percent of full reserve in the first turn and one percent more each turn after; four turns cost 14 percent, twelve empty the practitioner and pushes the room into Saturation.
 **Duration** · While attention holds, at most twelve turns from full.
 
 ## Counterplay
 **Tell** · A declaration and a standing draw, then the air inside fifteen metres goes visibly and audibly thick for everyone, allies too; afterwards a density anomaly a sensitive can walk the edge of.
 **Limits** · Fifteen metres, attention-bound, loose ambient Essence only, three learnable exemptions; high-Tier Wellsprings overpower the coagulation outright.
-**Beats it** · Route through Vectoria or Spatium; fight on open water; throw spears, fire shot, run on your own legs; cast in one clean burst or force the Seal early to find percolation paths; split the practitioner's attention outside the radius; make them hold it into Saturation.
+**Fails against** · Anything routed through Vectoria or Spatium; open water; thrown spears, fired shot, movement on one's own legs; a working cast in one clean burst, or a Seal forced early that finds percolation paths; the practitioner's attention split outside the radius; a hold carried into Saturation.
 **Look up** · The Materia and Fulguria terrain; Coagula and Judicium failures; Aetheric Saturation and Crystal Fracture Events; Knot in the Counterplay register; the Transcendence Stage table and the S and A Grade rows.

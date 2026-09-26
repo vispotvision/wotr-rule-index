@@ -18,7 +18,7 @@
 **Wellspring** · Vantabriel, the Wellspring of Night (Limina): what strikes the vessel is kept, not reflected.
 **Wellspring** · Nihiloth, the Hollow Law (Limina): its Domain cancels law rather than adding any, removing the futures a target's choices no longer earn.
 **Wellspring** · Oblation, the Offering Flame (Fluxia): soul-cost as a trade in which the total is never increased; it prices the Three Witnesses, and Kurotana is the corrupted mirror of Moetana.
-**Inherited failures** · Monolithion is brittle at scale; Vantabriel saturates; Nihiloth's cancellation is symmetric; Oblation cavitates, pitting the conduit. Opponents can induce all four.
+**Inherited failures** · Monolithion is brittle at scale; Vantabriel saturates; Nihiloth's cancellation is symmetric; Oblation cavitates, pitting the conduit. All four can be induced from outside.
 **Category** · Debt and Residue: the Witnesses are surrendered up front and settled where the bearer cannot see; edited souls are Residue at personal scale.
 **Essence** · All three layers are rebuilt: the Witness of Flesh (the body) is the Shell, of Love (a bond that still saw a human) the Attraction Layer, of Name (its old meaning) the Essence Core. Developmental Tier is Sovereign.
 **School** · The counterfeit-spirit school holds the true soul waits beneath the overlay, freed by recognition; it gets the counter right and the outcome wrong, for nobody waits beneath, and its rescue is the kill.
@@ -56,5 +56,5 @@
 ## Counterplay
 **Tell** · A figure standing like a rock in a field, taking and not returning, running cold where others run warm; crows at the edge of sight inside the Domain. After, drafted souls carry its Residue.
 **Limits** · It cannot restore what it spent; the Witness of Love is gone for good; it cannot survive a clean reminder.
-**Beats it** · A clean reminder: the old name, forgiveness, a refused role, decided on knowing it kills; overfill it with sustained load; catch it in the days after the rite; Silence strips the Domain but not the vessel. Weapons rarely work.
+**Fails against** · A clean reminder (the old name, forgiveness, a refused role), chosen knowing it kills; overfill under sustained load; the days after the rite; Silence, which strips the Domain but not the vessel. Weapons rarely end it.
 **Look up** · The Monolithion, Vantabriel, Nihiloth and Oblation entries and their failures; Moetana and Gisei for Oblation's prices; the Persistence gate; the Dissonance Stage table and overfill rules; the Silence Realm.

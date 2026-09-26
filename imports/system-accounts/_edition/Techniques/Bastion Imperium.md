@@ -18,7 +18,7 @@
 **Ground** · Materia favours mineral-rich rock, worked stone and deep foundations; open water, altitude and moving platforms suppress it, and the stance weakens with every metre lost from solid ground and on unstable terrain.
 **Wellspring** · Coagula, the Unifying Pulse (Materia), primary: grains held hot below melting fuse into one body; it gathers the ground and gives Resilience Integrity and Tempering Coherence.
 **Wellspring** · Judicium, the Wellspring of Truth (Fulguria): every element shows its own spectrum; force under the threshold is read and found wanting before it registers. It gives Gnosis Acuity and Analysis.
-**Inherited failures** · Coagula's residual porosity leaves the voids where the next fracture begins; Judicium's spectral overload blinds its reader for a minute. Opponents can induce either.
+**Inherited failures** · Coagula's residual porosity leaves the voids where the next fracture begins; Judicium's spectral overload blinds its reader for a minute. Either can be induced from outside.
 **Theory** · Correspondence: the stance answers one practitioner's doctrine and no copyist's, which Consent cannot hold; practitioner and Wellspring are one law at two scales, briefly agreeing.
 **Essence** · The Aether Shell carries the projection and the Attraction Layer the claim on the ground. Developmental Tier is Radiant, where territorial durability makes a first true Domain possible, and the stance is the shape it first takes.
 **School** · An old school of natural philosophers holds that cohesion is a breath held in tension through matter, so the stance is one holding with practitioner and ground both inside; it errs in putting the tension in the body alone, when the ground is a member of the working.
@@ -43,14 +43,14 @@
 | Cost, one stance | 6% of full reserve | 5.9 × 10⁴ to 1.1 × 10⁶ EU, 59 GJ to 1.1 TJ |
 | Mean draw | cost ÷ 24 s | 2,475 to 46,000 AU/s, 2.5 to 46 GW |
 | Waste per square metre | waste ÷ 314 m² | 1.6 to 44 MW/m² |
-| Uses before Starvation | 90% ÷ 6% | 15 |
+| Reserve covers | 90% ÷ 6% | 15 |
 
 **Cost** · Six percent of full reserve per stance, plus severe Aether compression through legs and spine that compounds over a long engagement, then real fatigue after release.
 **Duration** · Twenty-four seconds, four six-second turns; stepping out ends it at once.
 
 ## Counterplay
-**Tell** · The practitioner plants, the earth ripples, sigils bloom and iron groans; from then on they cannot come to you. Afterwards a ten-metre ring of ceramic ground, warm for hours and permanent.
+**Tell** · The practitioner plants, the earth ripples, sigils bloom and iron groans; from then on they do not move. Afterwards a ten-metre ring of ceramic ground, warm for hours and permanent.
 **Limits** · No movement at all; ten metres; twenty-four seconds; force above the S band is simply not covered.
-**Beats it** · Take the ground with Sublimatio, or fight on water (a bastion on a barge is a man standing still); stay in the air or beyond ten metres; strike above 2 TN; hit the sintered floor at its residual pores.
-**Rigidity** · Their law is hold: give them something that must be chased, a runner, a fire, a hostage carried off, and they break the working or lose the thing.
+**Fails against** · Ground taken by Sublimatio, or water (a bastion on a barge is a man standing still); anything airborne or beyond ten metres; force above 2 TN; a blow to the sintered floor at its residual pores.
+**Rigidity** · Their law is hold: anything that must be chased, a runner, a fire, a hostage carried off, costs them either the working or the thing.
 **Look up** · The Materia entries for Coagula's porosity and Sublimatio; Judicium's price; Materia's favoured and suppressive ground; the S-Grade force table; the Transcendence Stage table and the Body and Fate Path gates.

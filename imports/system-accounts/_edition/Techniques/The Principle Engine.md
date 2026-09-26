@@ -44,7 +44,7 @@
 | Return, shallow contradiction | capped by 1 − Tc / Th | under 1% of reserve |
 | Return, load-bearing contradiction | capped by 1 − Tc / Th | 3 to 8% of reserve |
 | Ten turns in a cold sealed room | 10 × 1% | 10% of reserve, nothing back |
-| Uses before Starvation, no gradient | 90% ÷ 1% | 90 turns of reading |
+| Reserve covers, no gradient | 90% ÷ 1% | 90 turns of reading |
 
 **Cost** · 1 percent of full reserve a turn while reading; the return enters at one EU per megajoule and can overfill the Crystal, so with a gradient the working often pays for itself.
 **Duration** · Always on, for as long as contradictions arrive.
@@ -53,5 +53,5 @@
 ## Counterplay
 **Tell** · Silent in use; after it, a warmer room, a thin stratum where recovery runs slow, a practitioner calmer than the bind should leave him, who never takes the cheaper horn or the remainder.
 **Limits** · Returns nothing without a gradient, nothing from a gap, nothing when the second term is gone; the fissures will not come due within a scene.
-**Beats it** · Silence starves it; dream logic or Knot presents a gap; a Nihiloth seal pre-empts the read; a cold, still, sealed room makes it pure cost; feed it gentle binds; offer two options and remove one; wait for Coherence drift.
+**Fails against** · Silence, which starves it; dream logic or Knot, which presents a gap; a Nihiloth seal, which pre-empts the read; a cold, still, sealed room, where it is pure cost; gentle binds; two options with one then removed; Coherence drift.
 **Look up** · The Caloria and Fulguria favour lists; the Judicium and Catharsis Failures; Silence, Knot and Nihiloth in the Counterplay register; Oneirion and Somnalis; the Zenith Stage table.

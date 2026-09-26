@@ -45,7 +45,7 @@
 |---|---|---|
 | Cost, reserve 3.5 × 10⁹ EU, η 0.88 | 4.0 × 10⁸ MJ ÷ 0.88 = 4.55 × 10⁸ EU | 13% of reserve |
 | Bleed at the Shell | 4.55 × 10⁸ MJ × 0.12 | 55 TJ, about 13 kt |
-| Uses before Starvation | two full casts plus ordinary spending | near the ten-percent floor |
+| Reserve covers | two full casts plus ordinary spending | near the ten-percent floor |
 
 **Cost** · About 13 percent of full reserve for a full cast, sharply more for a second; plus the echoed pain of the chosen wound, then impaired balance and light sensitivity.
 **Duration** · Instantaneous; the ringing residue lasts a few seconds; range 900 metres, the reach of the flaw-reading.
@@ -53,7 +53,7 @@
 ## Counterplay
 **Tell** · Two fingers drawn together over one target, then a hand extended, visible only to one watching the caster; a 50 km pressure field before, a flare at release, a ringing line and, after Cataclysm, three kilometres of ruin.
 **Limits** · No flaw, nothing to select; no override of anyone at or above Emanation; single target with a 40 m echo; not cheap twice.
-**Beats it** · Step beyond 900 metres; stand on homogeneous soft ground; Lock the flaw site or Knot the reading; be flawless with Basilithe; flatten the probabilities; substitute an Oneirion dream-self; regenerate against Dissolution; spread out.
-**Bait** · The law must select the worst failure available; offer a target with none worth choosing and see which wound it takes.
+**Fails against** · Distance beyond 900 metres; homogeneous soft ground; a Locked flaw site or a Knotted reading; Basilithe flawlessness; flattened probabilities; a substituted Oneirion dream-self; regeneration against Dissolution; spread targets.
+**Selection** · The law must select the worst failure available; a target with none worth choosing leaves it only a lesser wound.
 **Pressure** · At Emanation the passive Aura Pressure is law within 50 km, so the caster cannot approach unnoticed without paying continuously to hide it.
 **Look up** · The Vectoria, Caloria and Limina entries for Fractura, Cataclysm and Dissolution and their Failures; Basilithe; the Counterplay register for Lock and Knot; Overchannel; Tempering Capacity; the Emanation Stage table.

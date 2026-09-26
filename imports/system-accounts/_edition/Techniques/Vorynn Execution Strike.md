@@ -40,15 +40,15 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, one strike | a fifth of full reserve | 10,360 to 192,200 EU |
-| Uses before Starvation | 90% ÷ 20% | four, the fifth empties him |
+| Reserve covers | 90% ÷ 20% | four, the fifth empties him |
 | Lock | cold contracture and nerve block | 1 to 2 s |
 | Follow-through | A-Grade, as committed | up to 20 to 100 GN, 46 GJ to 4.184 TJ |
 
 **Cost** · A fifth of full reserve per strike, a fixed countable clock; the touch is cheap in physics and dear in Essence.
-**Duration** · The lock holds 1 to 2 seconds, a third of a turn, often the whole fight against a beast at speed.
+**Duration** · The lock holds 1 to 2 seconds, a third of a turn, long against a beast at speed.
 
 ## Counterplay
 **Tell** · Upstream the ignition lit and a close under cover; at contact almost nothing; afterwards warm air round him and a warmer room, careful breathing, frost on the quarry.
 **Limits** · Reach of one arm, half a millimetre deep, two seconds of lock; nothing through clothing or without contact.
-**Beats it** · A padded jack, dry wool or an air gap; a Pyreveil or Exuroth ward; a cold or warming closed room; a Limina void-momentum working declining the collapse; keep off or go airborne; break the wrist or his attention; make him spend and chain it.
+**Fails against** · A padded jack, dry wool or an air gap; a Pyreveil or Exuroth ward; a cold or warming closed room; a Limina void-momentum working declining the collapse; distance or flight; a broken wrist or broken attention; chained spending.
 **Look up** · The Caloria and Limina favour lists; the Vohrin, Cinerion and Tenebra Failures; Pyreveil and Exuroth; the A-Grade Strike Force; the Glory Stage table; the Prime Beast entry.

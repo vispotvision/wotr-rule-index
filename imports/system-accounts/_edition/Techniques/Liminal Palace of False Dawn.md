@@ -43,7 +43,7 @@
 | Opening the Palace | 4% of reserve | 7.6 × 10⁵ to 1.4 × 10⁷ EU |
 | Holding it | 1% of reserve per turn | 1.9 × 10⁵ to 3.5 × 10⁶ EU per 6 s |
 | Cost, ten turns | 4% + 10 × 1% | 14% of reserve, 60 s |
-| Uses before Starvation | 90% ÷ 14% | six |
+| Reserve covers | 90% ÷ 14% | six |
 
 **Cost** · Four percent of full reserve to open and one percent a turn to hold, plus cumulative Cognitive Fracture and Harmonic Echo Burn.
 **Duration** · Open-ended while paid, a typical Palace ten turns (60 s).
@@ -51,5 +51,5 @@
 ## Counterplay
 **Tell** · A vertical line in the air, mirrored ribbons of light and a shadow-gold doorway that must be stepped or gestured through, announcing in gold what happens to all who enter; afterwards nothing on the ground, only people who disagree.
 **Limits** · No compulsion against core will, no change to physical reality, no two contradictory full-strength overlays on one ground; 120 m; crowds suppress it.
-**Beats it** · Flood the senses so input outweighs expectation; blindfold or wax a sense, paired with a flood; clutter its slots with extra false readings (Knot); send constructs; fire blind into known positions; prolong it and let Cognitive Fracture spend the caster.
+**Fails against** · Sensory input that outweighs expectation; a blindfolded or waxed sense alongside such a flood; slots cluttered with extra false readings (Knot); constructs; blind fire into known positions; Cognitive Fracture, which spends the caster the longer it runs.
 **Look up** · The Counterplay register for Knot; the Limina, Vectoria and Materia entries for Oneirion, Tenebra, Fractura and Basilithe Failures; the Clarity Break; the Emanation Stage table and the Spirit gates.

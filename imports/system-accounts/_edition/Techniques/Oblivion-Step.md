@@ -39,7 +39,7 @@
 |---|---|---|
 | Cost | 3% of reserve per step | 1,554 to 28,830 EU |
 | Delivered, bled | × 0.65; × 0.35 | 1.0 to 18.7 GJ; 0.54 to 10.1 GJ |
-| Uses before Starvation | 90% ÷ 3% | 30 |
+| Reserve covers | 90% ÷ 3% | 30 |
 
 **Cost** · 3 percent of full reserve a step; many steps fit in one turn, limited only by reserve and by drowsy minds in range. The costs that end careers are the lag and the anchors' backwash.
 **Duration** · A quarter-second a crossing, one twenty-fourth of a six-second turn, each carrying its lag.
@@ -47,6 +47,6 @@
 ## Counterplay
 **Tell** · The drowsiness first: a room grows heavy and people recall things they had put away. Then a streak fast-reflex fighters can see, a 76 dB thump, and someone standing very still.
 **Limits** · 50 m; a drifting mind at the far end; no stepping to empty ground; an obstruction on the line stops it; the lag cannot be trained away.
-**Beats it** · Fire a spread volley at the arrival during the lag; keep the ground open, bright and held by wakeful people; Aurevane or Luminalis light; a Runecraft ward or Lock on the dream-shadow; lucid anchors; block the line.
-**Break the man** · A stepper with a drowsing Presence cannot stop making anchors, so place them where you want the arrival; the Attraction Layer drifts toward identity bleed, so wait.
+**Fails against** · A spread volley at the arrival during the lag; open, bright ground held by wakeful people; Aurevane or Luminalis light; a Runecraft ward or Lock on the dream-shadow; lucid anchors; a blocked line.
+**Anchors** · A stepper with a drowsing Presence cannot stop making anchors, so arrivals fall where anchors already stand; the Attraction Layer drifts toward identity bleed over time.
 **Look up** · The Counterplay register for Lock and Runecraft wards; the Limina entries for Oneirion, Hypnather and Letheveil Failures; the Refraction Stage table; the A-Grade reaction and strike bands.

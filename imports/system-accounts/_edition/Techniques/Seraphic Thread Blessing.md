@@ -39,7 +39,7 @@
 |---|---|---|
 | Cost | 1% of reserve per cast | 520 to 9,610 EU |
 | Shed at the Shell, 100,000 EU reserve | 1,000 MJ × 0.45 ÷ 6 s | 75 MW for the turn |
-| Uses before Starvation | 90% ÷ 1% | 90 casts, about 270 g of tissue |
+| Reserve covers | 90% ÷ 1% | 90 casts, about 270 g of tissue |
 | Bonds carried at Starvation | one per patient | 90 readable Axes |
 
 **Cost** · 1 percent of full reserve a cast pays for the Axis, not the tissue, so spending more widens the bond and cooks the wound. The caster carries the patient's injury as a drain until their Crystal settles, and each patient leaves a lasting bond; many bonds cause drift.
@@ -48,6 +48,6 @@
 ## Counterplay
 **Tell** · Spoken, lit and chiming; the filament names both ends of the bond to every witness. Afterwards warm tissue, perhaps a scald, and a caster wearing the patient's pain.
 **Limits** · 15 m with clear sight; about 3 g a cast; no fatal wounds or severe Crystal fractures; never the caster; no higher than B.
-**Beats it** · Cover the mouth or break the wrist; outbid the bond with a stronger ligand; hold the vow's terms; fog, smoke or shielding blinds the look; a cold, sterile, shielded room; a Limina curse or Oblivara's erasure glyphs sever it. Standing between them does nothing.
-**Break the man** · A healer whose bonds outrun their conduct drifts in Coherence, measured by Resilience Oath; notice and wait. A broken vow is a Shear Break.
+**Fails against** · A covered mouth or a broken wrist; a stronger ligand outbidding the bond; the vow's own terms; fog, smoke or shielding, which blinds the look; a cold, sterile, shielded room; a Limina curse or Oblivara's erasure glyphs, which sever it. A body standing between them does nothing.
+**Drift** · A healer whose bonds outrun their conduct drifts in Coherence, measured by Resilience Oath. A broken vow is a Shear Break.
 **Look up** · The Counterplay register for anchors and Shear Break; the Vitalia and Fulguria terrain entries; Benediction and Luminalis Failures; Oblivara; Resilience Oath; the Splintering Stage table.

@@ -30,7 +30,7 @@
 **Glyph** · Frequency carries the lock, Boundary writes the interface, and Balance equalises the opposing forces across it.
 **Boundary** · The index of the target's own output path moves; nothing is added to or taken from him, and Snell's law does the rest.
 **Trigger** · A sigil traced with the free hand while a chord staff carries a rising chord onto a target heard casting before; always sung, whatever the Stage.
-**Prior read** · Each technique must be heard separately: the lock holds only for a working already retained, so an opponent who varies his repertoire beats it.
+**Prior read** · Each technique must be heard separately: the lock holds only for a working already retained, so it fails against a varied repertoire.
 **Effect** · The target feels a thin rising chord and a hum; then his working leaves at full strength and lands thirty metres off, or comes home and hits him as precisely as he aimed it, or becomes light and noise. The arrival angle chooses, not the practitioner.
 **Scope** · One ability instance of one caster, on his next offensive action this encounter; never several casters in a shared ritual, never a purely mundane attack.
 **Failure** · Boundary fault: the interface set imprecisely sends the law somewhere unintended, and the splinter blast lands on whoever stands near.
@@ -45,8 +45,8 @@
 | Cost, set the lock | 5% of full reserve | 2,590 to 48,050 EU |
 | Cost, hold per turn until the target acts | 1% of full reserve | 518 to 9,610 EU per 6 s |
 | Cost, three locks fired at once | 3 × 5% | 15% of reserve |
-| Uses before Starvation, fired at once | 90% ÷ 5% | 18 |
-| Uses before Starvation, each held two turns | 90% ÷ 7% | 12, the thirteenth unfinished |
+| Reserve covers, fired at once | 90% ÷ 5% | 18 |
+| Reserve covers, each held two turns | 90% ÷ 7% | 12, the thirteenth unfinished |
 
 **Cost** · 5 percent of full reserve to set, then 1 percent each six-second turn held; the attack's energy is the target's and costs nothing.
 **Duration** · Held turn by turn until the target's next offensive action within the encounter, then spent.
@@ -54,5 +54,5 @@
 ## Counterplay
 **Tell** · A hum under the room before anything, then a rising chord from a direction the distance does not explain, and a voice; the practitioner glows as a beacon and falls off in precision after three uses.
 **Limits** · Cannot touch a mundane attack, a line never heard, a new technique, a Fate-locked edict (it only softens it) or a shared ritual.
-**Beats it** · A crossbow; never cast in its reach or vary the repertoire; be noise (Void, Entropy, Knot); a path-fixing ward before the lock; gag or deafen the chord; fog, shielding, crowds or a Domain; cast small or from far off.
+**Fails against** · A crossbow; no casting in its reach, or a varied repertoire; noise (Void, Entropy, Knot); a path-fixing ward before the lock; a gagged or deafened chord; fog, shielding, crowds or a Domain; small or distant casting.
 **Look up** · The Fulguria and Limina favour lists; the Aurevane and Mirithane Failures; the Counterplay register for Knot; the Refraction Stage table; the A-Grade Projected Force Range.

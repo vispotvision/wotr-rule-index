@@ -41,7 +41,7 @@
 | Cost | 5% of reserve per turn | 49,500 to 920,000 EU per turn |
 | Mean draw | ÷ 6 s | 8,250 to 153,000 AU/s |
 | Largest S-Grade bank | ÷ 1 MJ per EU | 4,184 to 24,267 EU |
-| Uses before Starvation | 90% ÷ 5%, nothing banked | eighteen turns held |
+| Reserve covers | 90% ÷ 5%, nothing banked | eighteen turns held |
 
 **Cost** · Five percent of full reserve a turn to hold; the bank is small against the reserve and buys one act at the attacker's expense, while the practitioner's temperature and reaction time fall with the field's.
 **Duration** · Held turn by turn, up to eighteen from full; a bank carried past the Crystal's maximum is past safe discharge.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · A visible radius goes cold before anything is caught and speech clips short; the colder it is, the more is banked. Afterwards frost on everything covered and ground that stays cold.
 **Limits** · Six to eighteen metres with a one-to-two-metre Stillpoint at the apex; no force of its own; nothing to do in a still room; overbanking harms its holder.
-**Beats it** · Approach slow and low-energy and give it nothing; bring a Knot or chaos-aligned disturbance; press several exclusive threats at once; deny it a target to discharge into with retreat, cover or a decoy; strike as its cold slows the holder.
+**Fails against** · Slow, low-energy movement that gives it nothing; a Knot or chaos-aligned disturbance; several exclusive threats at once; no target to discharge into (retreat, cover, a decoy); its own cold, which slows the holder.
 **Look up** · Lock and Knot in the Counterplay register; Caloria terrain; Vohrin, Fixatio and Judicium failures; Materia phase locking; the Invocation Stage table and the S Grade row.

@@ -40,9 +40,9 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, an arrival | 2.5% of reserve | 24,800 to 460,000 EU |
-| Cost, against a much heavier opponent | 5% of reserve | 49,500 to 920,000 EU |
+| Cost, against much greater mass | 5% of reserve | 49,500 to 920,000 EU |
 | The blade in hand | a weapon, not a working | 0 |
-| Uses before Starvation, at 1,850,000 EU and η 0.84 | 1,665,000 ÷ 45,000 or 90,000 | 37 arrivals, or eighteen heavy |
+| Reserve covers, at 1,850,000 EU and η 0.84 | 1,665,000 ÷ 45,000 or 90,000 | 37 arrivals, or eighteen heavy |
 | Tempo at 15,624 AU/s | 45,000 or 90,000 ÷ output | two arrivals a turn, or one heavy |
 | Full tempo to Starvation | 1,665,000 ÷ 15,624 | 107 s, eighteen turns |
 
@@ -53,5 +53,5 @@
 ## Counterplay
 **Tell** · The weapon has none; the practitioner has an enormous one, a beacon of coherent light with a judgment field felt as pressure in bone and stance. After, worked ground, and every arrival counted in the record.
 **Limits** · Only lawfully held weapons; nothing without precedent; melee-dominant, shock-lines to about 70 m.
-**Beats it** · Fight in a way nobody has fought them; know the ledger and object as blades arrive; hold range and offer nothing; bring a Domain of eight or more clauses; press it into phase-locking; outlast eighteen turns of tempo.
+**Fails against** · An exchange with no precedent in its ledger; objection as blades arrive, by someone who knows the ledger; held range that offers nothing; a Domain of eight or more clauses; pressure that phase-locks it; tempo sustained past eighteen turns.
 **Look up** · The Materia Primordia, Anamnesis, Monolithion and Aurevane failures; the Gravity and Retention gates; the practitioner's recorded holdings; the Realization Stage table; Essence Starvation.

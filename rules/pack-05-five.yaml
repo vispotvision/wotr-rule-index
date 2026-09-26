@@ -668,7 +668,7 @@ rules:
     pack_number: 5
     section: "E"
     title: The elevated register is quarantined to documents and myth
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       The elevated register (invocation, myth-cadence, high style) is

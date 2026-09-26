@@ -42,7 +42,7 @@
 | Cost, cast resolved in one turn | 8% of reserve | 1.51 × 10⁶ to 2.81 × 10⁷ EU |
 | Released at collapse | target's own failure | 0.8 to 25 TJ, A to S |
 | Cost, held three turns | 8% + 16% + 32% | 56% of reserve |
-| Uses before Starvation | 90% ÷ 8% | eleven, each resolved in one turn |
+| Reserve covers | 90% ÷ 8% | eleven, each resolved in one turn |
 
 **Cost** · 8 percent of full reserve for a cast that resolves in one turn; each further turn held doubles the price of the one before.
 **Duration** · Lock, climb and collapse inside one six-second turn; a few seconds of ringdown; minutes of doubled voice.
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · Two fingers or a staff raised, a string plucked on nothing, then a silence that is not silence; easy to miss at 500 m. After: the burst, ringing ground, a doubled voice.
 **Limits** · 500 m line of sight, one target and a fifteen-metre burst; no effect at or above the practitioner's Stage or on anything without structural resonance; ruinous past a few breaths; no drive through shielding above C on Spirit.
-**Beats it** · Damp it (a silence field, Verdantia or Cymorath); split your resonance across several bands, a Knot, or decouple it through Oneirion; break line of sight or offer a decoy so every delay doubles their bill; spread out; fog.
+**Fails against** · Damping (a silence field, Verdantia or Cymorath); a resonance split across several bands, a Knot, or decoupling through Oneirion; a broken line of sight or a decoy, since every delay doubles the practitioner's bill; spread targets; fog.
 **Look up** · The Counterplay register for Knot; the Orrenthal, Cataclysm, Fractura, Dissolution and Basilithe entries and Failures; the harmonic immunity rule; Fulguria's suppressors; the Emanation Stage table.

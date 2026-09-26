@@ -16,7 +16,7 @@
 **Wellspring** · Transference, the Living Exchange (Spatium): two oscillators at one frequency trade energy without a conductor, falling off sharply with distance; this is the coupling, and why it needs contact or a locked line of sight.
 **Wellspring** · Nihiloth, the Hollow Law (Limina): two waves in antiphase sum to zero; this is the cancellation.
 **Wellspring** · Oblivara, the Dark Mirror (Limina): redundant encoding keeps the target's identity legible enough to be turned on itself rather than smeared.
-**Inherited failures** · Transference's reverse coupling empties the practitioner into a more depleted target; Nihiloth's symmetric cancellation nulls whatever of him is inside the pair; Oblivara's code exhaustion gives a confident, complete, wrong read. Opponents can induce all three.
+**Inherited failures** · Transference's reverse coupling empties the practitioner into a more depleted target; Nihiloth's symmetric cancellation nulls whatever of him is inside the pair; Oblivara's code exhaustion gives a confident, complete, wrong read. All three can be induced from outside.
 **Category** · Debt: the Wellspring answers on credit, settled where the practitioner cannot see, and the price is carrying other people's unresolved material.
 **Essence** · The Attraction Layer is the oscillator, the Essence Core is the damper mass that takes the transit, the Shell does almost nothing. Developmental Tier is Sovereign at Dissonance.
 **School** · The dialectical school holds that a demonstrable thesis and antithesis mean the concept was ill-formed, which is both working and counter; the dogmatic school defends the role, and each proof feeds the absorber: its method is the losing move.
@@ -41,7 +41,7 @@
 | Establishing the Lock | 2% of reserve | 3.78 × 10⁵ to 7.02 × 10⁶ EU |
 | Holding it | 1% per turn of contact | 1.89 × 10⁵ to 3.51 × 10⁶ EU a turn |
 | Cost, ten-turn Lock (60 s) | 2% + 10 × 1% | 12% of reserve |
-| Uses before Starvation | 90% ÷ 12% | seven, the seventh ending on the floor |
+| Reserve covers | 90% ÷ 12% | seven, the seventh ending on the floor |
 | Banked per SS technique thrown in | a tenth of 4.2 × 10⁷ to 4.2 × 10⁸ EU | at least 22% of maximum at the band's foot |
 
 **Cost** · 2 percent of full reserve to set, 1 percent a turn to hold; the absorbed modes bank in his Crystal and can overfill it, and at an unstable ceiling overfill breaks the caster.
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · Two fingers raised and seven rings of thread around the target for as long as it holds; no silent version. The target feels no attack, only their best technique arriving wrong; afterwards, a function that fails the same way every time.
 **Limits** · One mode, one target, while attention holds; it needs a stable identity and a dominant function; it takes nothing and deals no damage of its own.
-**Beats it** · Name your contradiction aloud; be two co-equal things; send something with no identity; be recognised by someone who knew you; present the shape of his own failure; break contact or his attention; keep swinging to overfill him.
+**Fails against** · A contradiction its target names aloud; a target that is two co-equal things; anything with no identity; recognition by someone who knew the target; a target presenting the shape of the practitioner's own failure; broken contact or broken attention; sustained blows that overfill him.
 **Look up** · The Transference, Nihiloth and Oblivara entries and their failures; the Knot and Equivalence glyphs; the Fate and Spirit Path gates for Persistence and Suppression; the Dissonance Stage table and its overfill rules.

@@ -263,7 +263,7 @@ rules:
     pack_number: 13
     section: "§3"
     title: The Phenomenon Bank, eight originated seeds pending ratification
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       One originated technique seed per Physics Domain (Exuroth,

@@ -24,7 +24,7 @@
 **Wellspring** · Mortalis, the Black Gate (Vitalia): a body is held from equilibrium by expenditure; it governs the threshold across which answering is withdrawn, one direction at a time.
 **Wellspring** · Monolithion, the Enduring Monument (Materia): a structure without internal boundaries resists slow deformation; it ratifies the withdrawal as a standing fact.
 **Wellspring** · Oblation, the Offering Flame (Fluxia): pressure traded for velocity, the sum conserved; it pays the working from the practitioner's own reserve.
-**Inherited failures** · Anamnesis's thermal resetting erases a record carelessly read; Fractura's self-inspection shows the bearer their own flaws under strain; Contrition's autoimmunity turns on its keeper; Mortalis's equilibration cools the gardener toward the boundary; Monolithion is brittle at scale; Oblation cavitates. Opponents can induce any of them.
+**Inherited failures** · Anamnesis's thermal resetting erases a record carelessly read; Fractura's self-inspection shows the bearer their own flaws under strain; Contrition's autoimmunity turns on its keeper; Mortalis's equilibration cools the gardener toward the boundary; Monolithion is brittle at scale; Oblation cavitates. Any of them can be induced from outside.
 **Theory** · The Debt Position: the Wellspring answers on credit and the reckoning is settled out of sight; a discipline of unpaid debt, paid from its own reserve and punished by its own ledger, is that theory with a name.
 **Essence** · The Attraction Layer throughout: holdings, bonds, paid debts and kept oaths are the Plane-of-Fate record. The Essence Core pays through Oblation; the Shell does nothing, so no blade and no wound. Developmental Tier at the floor is Resonant.
 **School** · An old eastern school holds that to exist is to encroach and everything owes, so the working calls the ordering of time forward; believing no ledger is clean, its adherents never build the defence and destroy themselves on the innocent.
@@ -48,7 +48,7 @@
 | Cost, one rose | 0.5% of full reserve | 259 to 4,805 EU at the floor |
 | Cost, small sea (a dozen roses) | 12 × 0.5% | 6% of reserve |
 | Cost, long ledger (a hundred roses or more) | 100 × 0.5% and upward | 50% of reserve and upward |
-| Uses before Starvation | 90% ÷ 0.5% | 180 roses |
+| Reserve covers | 90% ÷ 0.5% | 180 roses |
 | Burst rate, Realization, Master, η 0.84 | 15,624 AU/s ÷ 9,250 EU a rose | 1.7 roses a second, about ten a turn |
 
 **Cost** · Half a percent of full reserve per rose, from the practitioner's own Oblation reserve; the sea costs what it surveys, and a king's ledger can take the gardener to Starvation.
@@ -57,7 +57,7 @@
 ## Counterplay
 **Tell** · Roses rising around the target, visible from far off and not looking like an attack; a warm, lit gardener in the open; afterwards wilted roses and ground that deafens Harmonists.
 **Limits** · It cannot erase a deposit, cannot be paid from anything but the practitioner's reserve, cannot be undone by its author, lapses on death or Silence, and loads only a debt that is genuinely unpaid.
-**Beats it** · Pay your debts; stand on independent claims, a truss not a chain; Silence the field; kill or distract the exposed gardener; bait wrongful roses with a target who seems to owe and does not.
+**Fails against** · A target with no unpaid debts; standing on independent claims, a truss not a chain; Silence; the exposed gardener's death or distraction; a target who seems to owe and does not, which draws a wrongful rose.
 **Redundancy** · Broad, independent standing survives single withdrawals; a narrow career or a chain of holdings (one lineage, one oath, one patron) falls to a single rose.
 **Teaching** · The Work passes only to one who has learned to grieve correctly, which leaves every practitioner a known, unhealed shape to read.
 **Look up** · The Limina, Vectoria, Vitalia, Materia and Fluxia entries for the six Failures; the Silence Realm register; Crystal Fracture Event and saturation; the Four Theories; the Refraction Stage table.

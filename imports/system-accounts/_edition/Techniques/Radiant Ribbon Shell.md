@@ -42,8 +42,8 @@
 |---|---|---|
 | Cost, Hushfield or Carry held | 1% of reserve per turn | 518 to 9,610 EU per 6 s at Refraction |
 | Cost, Cut Lamina or Air-Step | 2% of reserve each | 1,036 to 19,220 EU at Refraction |
-| Uses before Starvation, Hushfield | 90% ÷ 1% per turn | 90 turns, 540 s |
-| Uses before Starvation, cuts | 90% ÷ 2% | 45 |
+| Reserve covers, Hushfield | 90% ÷ 1% per turn | 90 turns, 540 s |
+| Reserve covers, cuts | 90% ÷ 2% | 45 |
 
 **Cost** · Reserve is the lesser bill: cutting against conscience costs temporary voice loss, overuse after a hearing brings double-hearing that clears only with rest, and every curated sentence costs range.
 **Duration** · As long as the pattern is breathed, paid per six-second turn; nothing sustains once the breath stops.
@@ -51,5 +51,5 @@
 ## Counterplay
 **Tell** · Someone speaking and the air not behaving: dust holding a line, pressure in bands on the chest, sound thinning toward a rim, a room gone steady. Afterwards a hoarse voice and a practitioner hearing everything twice.
 **Limits** · A living voice; nothing held without breath; dead in an echo-dead space; Hush only to about 30 kn; no Cut on flesh; no compelled truth; no defensive component.
-**Beats it** · Grapple and cover the mouth; an echo-dead room or a chaos-aligned anti-cohesion field; a shielded, crowded interior; make them lie or curate; offer mutism or inaction; shape gradients for the Air-Step's drift; shoot beyond the corridor.
+**Fails against** · A grapple and a covered mouth; an echo-dead room or a chaos-aligned anti-cohesion field; a shielded, crowded interior; a practitioner who lies or curates; mutism or inaction; gradients shaped for the Air-Step's drift; shot from beyond the corridor.
 **Look up** · The Fulguria and Limina terrain entries; the Judicium, Cymorath and Anamnesis Failures; Resonant Purity and Ribbon Fray; the Refraction and Transcendence Stage tables.

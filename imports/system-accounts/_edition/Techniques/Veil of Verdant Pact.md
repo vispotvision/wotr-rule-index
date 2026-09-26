@@ -44,7 +44,7 @@
 | Cost, raise | 5% of full reserve | 2,590 to 48,050 EU |
 | Cost, hold per turn | 2% of full reserve | 1,036 to 19,220 EU per 6 s |
 | Cost, full standing of four turns | 5% + 4 × 2% | 13% of reserve |
-| Uses before Starvation | 90% ÷ 13% | six standings, the seventh unfinished |
+| Reserve covers | 90% ÷ 13% | six standings, the seventh unfinished |
 | Build energy | from the stratum | about 46 GJ at the B ceiling |
 
 **Cost** · 5 percent of full reserve to raise and 2 percent each turn; the wood itself is paid by the room, the growth by attackers.
@@ -54,5 +54,5 @@
 ## Counterplay
 **Tell** · Tonnes of wood in a second and the noise it makes, green failing light; the raiser flinches late at each hit; a dome too tall and thin is a weak one; afterwards mineral seams and the smell of sap.
 **Limits** · Nothing already past 5 m or striking in the first second; no point loads; no ground at sea or on scaffolds.
-**Beats it** · Strike in the closing second; take the anchor; dry it with Exuroth; Nihiloth, Absolution's flames or Tenebra's decay; starve or poison the ground; hurt the raiser through the dome. Hitting one spot twice does not work.
+**Fails against** · A strike in the closing second; a lost anchor; drying by Exuroth; Nihiloth, Absolution's flames or Tenebra's decay; starved or poisoned ground; harm to the raiser through the dome. A second hit on one spot does nothing.
 **Look up** · The Vitalia and Materia favour lists; the Verdantia and Materia Primordia Failures; Exuroth, Nihiloth and Absolution entries; the B-Grade Strike Force row; the Splintering Stage table.

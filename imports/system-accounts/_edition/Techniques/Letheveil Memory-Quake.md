@@ -37,13 +37,13 @@
 |---|---|---|
 | Cost, one release | 6% of reserve | 3,108 to 57,660 EU |
 | Cost in kind | Recall Slip | one minor memory, permanent |
-| Uses before Starvation | 90% ÷ 6% | fifteen, and fifteen memories |
+| Reserve covers | 90% ÷ 6% | fifteen, and fifteen memories |
 
 **Cost** · Six percent of full reserve per release plus one of the practitioner's own memories; EU recovers at ordinary rates, the memories never, and the caster cannot count what is gone.
 **Duration** · One turn, 6 s; the loss is permanent for the 3 to 10 s window.
 
 ## Counterplay
-**Tell** · Commit to something layered and a 25 m burst answers, taking the last few seconds from everyone in it; afterwards a whole room cannot say what it was just doing.
+**Tell** · A layered working committed in range draws a 25 m burst, taking the last few seconds from everyone in it; afterwards a whole room cannot say what it was just doing.
 **Limits** · Reactive only, never an opener, never aimed; 25 m; one turn; set memory and unconscious targets untouched; allies inside are caught.
-**Beats it** · A physical anchor or agreed word fixed beforehand (Lock); a sharp pain; constructs and automata with no resting mind; a crowded, saturated room; a Verdantia clarity field; bait it with a cheap layered working.
+**Fails against** · A physical anchor or agreed word fixed beforehand (Lock); a sharp pain; constructs and automata with no resting mind; a crowded, saturated room; a Verdantia clarity field; a cheap layered working, which draws it.
 **Look up** · The Counterplay register for Lock; the Limina entries for Letheveil and Hypnather Failures; Anamnesis; Shear Break; Verdantia's entry; the Refraction Stage table.

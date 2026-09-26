@@ -40,7 +40,7 @@
 | First, second, third construct | 5%, 7%, 9% of reserve | 1.8 × 10⁷ to 3.4 × 10⁸; 2.5 × 10⁷ to 4.7 × 10⁸; 3.2 × 10⁷ to 6.0 × 10⁸ EU |
 | Cost, full manifest of three | 5% + 7% + 9% | 21% of reserve |
 | Upkeep while standing | a soliton needs no input | none |
-| Uses before Starvation | 90% ÷ 21% | four |
+| Reserve covers | 90% ÷ 21% | four |
 
 **Cost** · Five, seven and nine percent of full reserve for the first, second and third construct, no upkeep, plus paradox fatigue and recoil that worsen with each one standing.
 **Duration** · Five turns, 30 s.
@@ -49,6 +49,6 @@
 ## Counterplay
 **Tell** · Three bodies arrive at once, plainly laws rather than people, and enforce unbidden; the count shows how near the ceiling the practitioner stands. Afterwards the ground stays layered with law and a Harmonist on it hears nothing.
 **Limits** · Three constructs, a hard ceiling; five turns; two kilometres; Command capped at SS; the Families give no native resistance to conceptual disruption.
-**Beats it** · Blur a construct's definition with Limina (Oneirion, Letheveil, Knot); bait a fourth construct so one collapses; Silence severs Animatria; fog, shielding and saturated cold starve the Families; find the practitioner and outlast thirty seconds.
-**Rigidity** · Each construct enforces its Principle without negotiation, so arrange to be measured favourably.
+**Fails against** · Limina that blurs a construct's definition (Oneirion, Letheveil, Knot); a call for a fourth construct, which collapses one; Silence, which severs Animatria; fog, shielding and saturated cold, which starve the Families; a located practitioner; the end of thirty seconds.
+**Rigidity** · Each construct enforces its Principle without negotiation; what measures favourably passes.
 **Look up** · The Counterplay register for Knot, Seal and Silence; the Fulguria and Caloria entries for Judicium and Exuroth Failures; the Limina entries for Oneirion and Letheveil; the Zenith Stage table and the Dominion gates.

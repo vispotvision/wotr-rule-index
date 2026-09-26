@@ -38,7 +38,7 @@
 | Cost | set share | 5% of reserve, 2,590 to 48,050 EU |
 | Mean draw | cost ÷ 12 s | 216 to 4,000 AU/s |
 | Attack energy turned | B-Grade ceiling | up to 46 GJ per raising |
-| Uses before Starvation | 90% ÷ 5% | eighteen from full |
+| Reserve covers | 90% ÷ 5% | eighteen from full |
 
 **Cost** · Five percent of full reserve a raising; the 46 GJ belongs to the attacker. The Crown's cooling, not the reserve, is the brake, and Lunar Burn accrues with each hard save.
 **Duration** · Two turns, twelve seconds, or until 46 GJ is turned and it shatters, whichever comes first.
@@ -46,5 +46,5 @@
 ## Counterplay
 **Tell** · A hand to the Crown, a spoken word, a half-sphere of light whose brightness reports how much of its 46 GJ is spent; afterwards the practitioner flinches from light and the air smells scorched.
 **Limits** · Twelve seconds or 46 GJ, the practitioner or one nearby ally, Aetheric attacks only, a cooling window after every peak.
-**Beats it** · Hit it with shot, volleys or steel; take the Crown or gag the command; strike from several directions; fight in fog, leather and fired clay; use a Void-aligned strike; force a cheap early peak and attack inside the cooling window.
+**Fails against** · Shot, volleys and steel; a lost Crown or a gagged command; blows from several directions at once; fog, leather and fired clay; a Void-aligned strike; a cheap early peak and anything inside the cooling window after it.
 **Look up** · The Fulguria terrain and counter-kit; Aurevane's Glare; Shell Clouding and Rupture; the Splintering Stage table, the B-Grade row and the Path gates for Attunement.

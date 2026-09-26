@@ -41,14 +41,14 @@
 | Cost per turn held | 4% of reserve | 2,070 to 38,400 EU |
 | Full hold, three turns | 3 × 4% | 12% of reserve |
 | Power delivered | cost per turn ÷ 6 s × 0.65 | 224 MW to 4.16 GW |
-| Uses before Starvation | 90% ÷ 12% | seven full holds, the eighth into the floor |
+| Reserve covers | 90% ÷ 12% | seven full holds, the eighth into the floor |
 
 **Cost** · 4 percent of full reserve for each six-second turn held, nothing up front.
 **Duration** · Up to three turns, 18 seconds, per hold.
-**Double Vision** · After each turn held the practitioner sees the field's contradictions over their own sight; after a full hold they fight the next turn with their own aim curved.
+**Double Vision** · After each turn held the practitioner sees the field's contradictions over their own sight; after a full hold their own aim stays curved through the next turn.
 
 ## Counterplay
 **Tell** · Declared and visible: forty metres where the first thing anyone does goes wrong in an obvious way and things curve. Afterwards, Dream Residue in the ground and deafened Harmonics.
 **Limits** · Forty-metre radius, three turns a hold, no overlay on a claimed Domain, unmade by a Titan's presence, capped by Refraction's A-Grade ceiling. A Body Path anchor fixes aim but not the clock.
-**Beats it** · Claim the ground first or contest it (Lock, a reality-lock invocation, an unclaimed Aether pulse); hold rigidly to ordinary law with a Body Path anchor or a grounding rune; fight from beyond forty metres; learn the practitioner's pattern.
+**Fails against** · Ground claimed first or contested (Lock, a reality-lock invocation, an unclaimed Aether pulse); rigid adherence to ordinary law through a Body Path anchor or a grounding rune; distance beyond forty metres; a known pattern in the practitioner.
 **Look up** · The Counterplay register for Lock; the Limina and Fluxia entries for Eidolyn, Oneirion and Somnalis Failures; the Attraction Layer and Obsession Force; the Refraction Stage table; Runecraft's counters for the grounding rune.

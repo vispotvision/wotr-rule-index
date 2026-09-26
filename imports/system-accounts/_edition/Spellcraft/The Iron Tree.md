@@ -21,7 +21,7 @@
 **Wellspring** · Chthonica, the Root Deep (Materia): grip is billions of contacts too small to measure alone; it roots the grounded stance.
 **Wellspring** · Anima Spirare, the Soul's Breath (Vitalia): an amplifying cascade, each factor activating many; the harder the draw, the more readily the soul provides.
 **Wellspring** · Phreatis, the Waters of Memory (Fluxia, cross-listed): the deep reservoir; it circulates all seven chambers as one.
-**Inherited failures** · Fixatio is irreversible; Coagulatio's uncontrolled nucleation gives unusable density if too many vents open; Chthonica's contamination releases without warning; Anima Spirare's disseminated activation vents every chamber at once; Phreatis keeps whatever enters. A strain inside the seal cannot be separated from it. Opponents can induce any of them.
+**Inherited failures** · Fixatio is irreversible; Coagulatio's uncontrolled nucleation gives unusable density if too many vents open; Chthonica's contamination releases without warning; Anima Spirare's disseminated activation vents every chamber at once; Phreatis keeps whatever enters. A strain inside the seal cannot be separated from it. Any of them can be induced from outside.
 **Theory** · The Residue Position: every Wellspring is the standing residue of something that already happened; the Tree is built by a practitioner made from the conditions that required containment.
 **Essence** · The Aether Shell run as a pressure vessel, the Essence Core supplying the charge, the Attraction Layer doing almost nothing, which is the whole weakness. Developmental Tier is Resonant at the floor, Crystallized Soul at Principality; Crystal State at the height is sealed near-total.
 **School** · An old internal-alchemy school seals the body's apertures as a stage toward transcendence and prescribes more sealing for every lack; it cannot see that the seal is what kills, and treats emotion as dross, so it has no word for the Tree's one hole.
@@ -47,8 +47,8 @@
 | Cost, Iron Fist / Shoulder / Kick or Step | 5.2% / 5.9% / 6.7% | per vent; branches run 3.0 to 9.7% |
 | Cost, Black-Heart Bison Break | 8.0% of full reserve | 4,170 to 76,900 EU at the floor |
 | Cost, Sevenfold Seal | 15.2% of full reserve | per sealing |
-| Uses before Starvation, apex | 90% ÷ 8.0% | 11, about a dozen |
-| Uses before Starvation, branches / Seals | 90% ÷ 9.7% to 90% ÷ 3.0%; 90% ÷ 15.2% | 9 to 29; 5.9 |
+| Reserve covers, apex | 90% ÷ 8.0% | 11, about a dozen |
+| Reserve covers, branches / Seals | 90% ÷ 9.7% to 90% ÷ 3.0%; 90% ÷ 15.2% | 9 to 29; 5.9 |
 
 **Cost** · Three to ten percent of full reserve per branch, eight on the apex, fifteen on the Seal, and every attack costs the bearer his armour until recompression.
 **Duration** · Each vent is an instant inside one six-second turn; recompression runs on the seal's schedule and cannot be hurried.
@@ -56,6 +56,6 @@
 ## Counterplay
 **Tell** · A very large practitioner, grounded and close, who has not drawn back; at the floor a bright, hot vent. Afterwards whole plate on broken bodies and walls standing before collapsed rooms.
 **Limits** · Contact or near-contact only; needs a grounded stance; cannot reach airborne targets; denied by void and anti-recognition fields; seven chambers, one at a time.
-**Beats it** · Take the ground (root disruption, loose or oiled floors, spatial displacement); put him in the air; fight in a dry vault or a void field; bait a vent and strike the open vessel; outlast the dozen strikes.
+**Fails against** · Lost ground (root disruption, loose or oiled floors, spatial displacement); the air; a dry vault or a void field; a blow to the open vessel while a vent stands open; the end of about a dozen strikes.
 **Kinship** · Love, grief and kinship are the one input the sealed architecture was never built to process, and the one vector the Seal cannot hold against.
 **Look up** · The Materia, Vitalia and Fluxia entries for the five Failures; void and anti-recognition fields; the Refraction, Invocation and Emanation Stage tables; the Body Path gates; Grade bands by joules.

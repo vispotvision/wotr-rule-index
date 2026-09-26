@@ -20,7 +20,7 @@
 **Wellspring** · Anamnesis, the Wellspring of Remembrance (Limina): objects store their history readably; it reads a location's Mnemata, sharper and more erasive in Thin zones.
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): a working acts on the manifold, not the room; it is Bifold Perception's second grammar.
 **Secondary** · Somnalis (Fluxia), Eidolyn and Tenebra (Limina) and Mortalis (Vitalia) attach to particular operations.
-**Inherited failures** · Transference's reverse coupling empties the practitioner into a depleted ally and couples every stabilised spirit back to them; Anamnesis's thermal resetting erases what it reads; Oneirion's projection error lands a correct working nowhere. Opponents can induce any of them.
+**Inherited failures** · Transference's reverse coupling empties the practitioner into a depleted ally and couples every stabilised spirit back to them; Anamnesis's thermal resetting erases what it reads; Oneirion's projection error lands a correct working nowhere. Any of them can be induced from outside.
 **Theory** · The Residue Position: Thin zones, Mnemata, Echo Beasts and Drift are all residue. Correspondence governs lawful passage: two things alike and near enough, nothing coerced.
 **Essence** · All three layers radiate through the medium: the Shell's Resonant Tone, the Core's emotional frequency, the Attraction Layer's recognition hum; the Attraction Layer is the oscillator and dissolves in transit. Developmental Tier is Harmonic at Splintering, Resonant at Refraction, Radiant at Transcendence, Sovereign from Invocation.
 **School** · An instrument-makers' school reads the Veil as a stationary medium, so Drift is a displacement one can navigate back from; it maps Thin zones superbly, but its remedy, go back in, is another cycle, and it graduates Veil Pilgrims.
@@ -54,7 +54,7 @@
 | Each further minute resident | duration: ten turns | +1 point |
 | Sustained liminal entry (Realization) | depth: deep in the threshold | 3 points, then +1 a minute |
 | Carrying | carrier and carried each | the full amount |
-| Uses before Starvation, Baseline crossings | 90% ÷ 2% | 45; about 4 in a Thick city |
+| Reserve covers, Baseline crossings | 90% ÷ 2% | 45; about 4 in a Thick city |
 
 **Cost** · Essence priced by terrain, exponentially; and Soul Drift, a second currency no reserve pays and no efficiency reaches, set by depth and duration and never recovered.
 **Duration** · A short crossing is under a minute, under ten six-second turns; Bifold and containment are held turn by turn; Drift is permanent.
@@ -62,6 +62,6 @@
 ## Counterplay
 **Tell** · A practitioner visibly handling two perceptual grammars at once; on a crossing, an unattended body exactly where it was. Drift has no tell at any one crossing; only the count of entries reads it. A rupture's tell is Echo Beasts.
 **Limits** · No controlled operation below Refraction; no solo rupture sealing; no entry into the Soul Plane or Plane of Fate, only the threshold; cost set by where the practitioner stands; the body left behind every time.
-**Beats it** · Choose Thick ground or a city; Silence, wards and anti-Harmonia fields; shoot the unattended body, since a crossing cannot be aborted fast; give them lawful reasons to cross again and again.
+**Fails against** · Thick ground or a city; Silence, wards and anti-Harmonia fields; harm to the unattended body, since a crossing cannot be aborted fast; repeated lawful reasons to cross, each one counted in Drift.
 **Carried** · Anyone ever carried through a crossing is already counting Drift, told or not; a soulguard cannot decline a soul.
 **Look up** · The Veil entry's Access and Perception gates and Thin, Thick and Rupture structure; the Drift scale; Transference's Failure in the Spatium entries; the Silence Realm register; records of how often a practitioner has gone in.

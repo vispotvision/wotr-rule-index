@@ -20,7 +20,7 @@
 **Wellspring** · Transference, the Living Exchange (Spatium): two Crystals in tune and near exchange along a gradient with no conductor, falling off sharply with distance; it strengthens Harmonics Synergy, Projection and Tempering Conversion.
 **Wellspring** · Transmutatio, the Law of Change (Spatium): one object in two frames gives two sets of numbers and one unchanged object; it tunes unlike ends into one frame for identity trades.
 **Wellspring** · Fixatio, the Binding Flame (Materia): what it holds is held because the alternative state is no longer reachable; it makes the Anchor Construct a relay that cannot be detuned.
-**Inherited failures** · Transference's reverse coupling runs the condemned vessel into the officiant at the same rate for the whole interval, the price of soulguarding; Transmutatio's basis loss returns nothing recognisable; Fixatio's anchor can never be retrieved. Opponents can induce any of them.
+**Inherited failures** · Transference's reverse coupling runs the condemned vessel into the officiant at the same rate for the whole interval, the price of soulguarding; Transmutatio's basis loss returns nothing recognisable; Fixatio's anchor can never be retrieved. Any of them can be induced from outside.
 **Theory** · Correspondence, the working the theory was written for: no consent sought, no debt incurred, only a claim that two things are alike enough to exchange. Degeneracy is correspondence as a number.
 **Essence** · The Attraction Layer at both ends, since Transference makes it the oscillator; the Essence Core in identity trades, where a soul's coordinate is held. Developmental Tier is Harmonic at Splintering, Resonant at Refraction.
 **School** · An old healers' school of sympathy holds that belonging-together has no range, so the bond is the working and the anchor mere insurance; it tunes with real care, trades across an open field, and gets Spatial Disjunction. The exponent is six.
@@ -44,8 +44,8 @@
 |---|---|---|
 | Cost, positional exchange inside R₀ | 3% of full reserve | plus 1% per relay hop; more uphill by mgh |
 | Cost, identity trade | 10 to 15% of full reserve | mostly tuning |
-| Uses before Starvation, swaps | 90% ÷ 3% | 30 |
-| Uses before Starvation, identity trades | 90% ÷ 10 to 15% | six to nine |
+| Reserve covers, swaps | 90% ÷ 3% | 30 |
+| Reserve covers, identity trades | 90% ÷ 10 to 15% | six to nine |
 
 **Cost** · Three percent of full reserve a swap, ten to fifteen an identity trade, and an Anchor Construct placed permanently and never recovered.
 **Duration** · π/2κ, set by the coupling, usually inside one six-second turn; the practitioner cannot shorten it.
@@ -53,5 +53,5 @@
 ## Counterplay
 **Tell** · The furniture: an Anchor Construct, a prepared Fixatio-held object placed between or beside the ends before anything begins. At close range there is no tell and no time. Afterwards two people in each other's circumstances, or each holding half of something.
 **Limits** · Range falls as the sixth power; an anchor needed at range; two Stage floors for two kinds of trade; capacity needed at both ends; failures leave Spatial Disjunction and Wellspring Desynchronization.
-**Beats it** · Stand further away with nothing left on the ground between; break the anchor; detune by Family, saturation or noise; be the wrong thing to couple to and let it complete; Silence the chamber; at Splintering, take the hand or voice.
+**Fails against** · Distance with nothing left on the ground between; a broken anchor; detuning by Family, saturation or noise; a wrong thing to couple to, left to complete; a Silenced chamber; at Splintering, a lost hand or voice.
 **Look up** · The Spatium entries for Transference and Transmutatio Failures; Fixatio's irreversibility; Overchannel's Overflow and Backlash risks; the Silence Realm register; the Splintering and Refraction Stage tables and Attraction and Body Path gates.

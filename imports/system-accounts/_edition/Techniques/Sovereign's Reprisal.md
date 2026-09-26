@@ -39,15 +39,15 @@
 |---|---|---|
 | Mob, 2 × spike, reserve 1.0 × 10⁷ EU, η 0.75 | 2 × 1,600 kg·m/s; kilojoules ÷ 0.75 | forty men down for under 1 EU |
 | Peer, one S blow banked, 2 × spike | 4.184 × 10⁶ MJ ÷ 0.75 = 5.6 × 10⁶ EU | 56% of reserve, 8.4 TJ, about 2 kt |
-| Uses before Starvation, against a peer | 90% ÷ 56% | one full answer; a five-times spike is out of reach |
+| Reserve covers, large inputs | 90% ÷ 56% | one full answer; a five-times spike is out of reach |
 
-**Cost** · The release equals what attackers put in, boosted 2 to 5 times from reserve at (spike − 1) × bank ÷ η: nearly free against a mob, ruinous against a peer; every release also brings spinal recoil and vertigo.
+**Cost** · The release equals what attackers put in, boosted 2 to 5 times from reserve at (spike − 1) × bank ÷ η: nearly free against small inputs, ruinous against large ones; every release also brings spinal recoil and vertigo.
 **Duration** · The bank holds until released or forced by overfill; the release is one instant, followed by a few seconds of eyes-shut recovery.
 
 ## Counterplay
-**Tell** · No glow or gather, only blows landing clean and returning nothing; then the sigil over the eye brightens, the whole window. Afterwards a still figure with eyes closed amid an eight-metre ring of fallen men.
-**Limits** · No reprisal without a banked impact, and it cannot fire on nothing; all or nothing, no target choice; eight metres; one full answer to a peer.
-**Beats it** · Pierce the plates, since a spike both slips the threshold and breaks the inscription; harass from range; fight in a cold iron-shielded interior; Lock the finishing point first; crowd the wearer's allies around it; hit hard, then make it answer.
-**Starve it** · Feed the harness small blows and never offer a moment worth answering: fouling gives no warning, and the conduit silts.
-**Window** · The seconds after a release, eyes shut and breathing carefully, are the only time the wearer is open.
+**Tell** · No glow or gather, only blows landing clean and returning nothing; then the sigil over the eye brightens, and that is all the warning. Afterwards a still figure with eyes closed amid an eight-metre ring of fallen men.
+**Limits** · No reprisal without a banked impact, and it cannot fire on nothing; all or nothing, no target choice; eight metres; one full answer to a large input per full reserve.
+**Fails against** · Piercing through the plates, since a spike both slips the threshold and breaks the inscription; ranged harassment; a cold iron-shielded interior; a finishing point Locked first; the wearer's allies crowded around it; a large input, and the cost of answering it.
+**Fouling** · Small blows bank without ever making a moment worth answering; fouling gives no warning, and the conduit silts.
+**Recovery** · The seconds after a release pass with eyes shut and careful breathing; they are the wearer's only unguarded time.
 **Look up** · The Fulguria and Caloria entries for Judicium and Cinerion and their Failures; Runecraft wards and their substrates; the Counterplay register for Lock and Knot; Overchannel; the Transcendence Stage table.

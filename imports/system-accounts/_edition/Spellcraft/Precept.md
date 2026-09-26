@@ -43,8 +43,8 @@
 
 | Quantity | Working | Result |
 |---|---|---|
-| Uses before Starvation, narrow clauses | 90% ÷ 5% | eighteen |
-| Uses before Starvation, guild codes | 90% ÷ 30% | three, the third ending on the floor |
+| Reserve covers, narrow clauses | 90% ÷ 5% | eighteen |
+| Reserve covers, guild codes | 90% ÷ 30% | three, the third ending on the floor |
 | A dynasty's law | 60% of reserve | one, and nothing else sealed that season |
 | Bleed of a dynasty's law, top of band | 1.10 × 10⁷ × 0.20 to 0.30 | 2.2 to 3.3 × 10⁶ EU, once |
 
@@ -54,5 +54,5 @@
 ## Counterplay
 **Tell** · None in the moment: no cast, light or pressure, and nobody feels stopped. The aftermath is documentary: an inscription somewhere and a sphere where one kind of working has come out the same odd shape for too long.
 **Limits** · Only what the clause names; nothing that reads it before sealing; nothing past its edges.
-**Beats it** · Chisel, scrape or topple the substrate; write one precise exception in the same register; Rescind an unconsented soul-bound Precept; countersign or speak back the sum where old Seals allow; read the clause as drafted; press the drift.
+**Fails against** · A chiselled, scraped or toppled substrate; one precise exception written in the same register; Rescind, for an unconsented soul-bound Precept; a sum countersigned or spoken back where old Seals allow; the clause read as drafted; drift under pressure.
 **Look up** · The Fixatio and Judicium entries and their failures; the Runecraft and Seal registers for Sealing roles and closing conditions; Rescind under the Consent Doctrine; the Glory, Transcendence and Realization Stage tables.

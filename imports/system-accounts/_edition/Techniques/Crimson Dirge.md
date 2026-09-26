@@ -41,7 +41,7 @@
 | Cost | per verse | 3% of reserve and 2% of memory |
 | Full Dirge | 6 verses | 18% of reserve, 12% of memory |
 | Mean draw | verse ÷ 6 s | 1.8 × 10⁶ to 3.35 × 10⁷ AU/s |
-| Uses before Starvation | 90% ÷ 18% | five full Dirges, 60% of a mind |
+| Reserve covers | 90% ÷ 18% | five full Dirges, 60% of a mind |
 
 **Cost** · Three percent of full reserve a verse, and two percent of the singer's memory, permanent and cumulative; memory, not reserve, is what runs out.
 **Duration** · Six turns, thirty-six seconds, six verses.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · Someone singing for a kilometre in every direction, each verse naming what is about to stop working; no quiet version. Afterwards cracked stone, frozen water, thin Aether, and people who cannot say what they felt guilty about.
 **Limits** · One process per verse, never two at once, six turns, the singer's voice occupied throughout; no reach past a Void-law seal or Archonic decree.
-**Beats it** · Empathy-aligned resonance mismatches the tone and causes Echo Fracture before a verse resolves; close the throat, shoot the singer or bring numbers; force wasted verses to spend their memory; fight in fog, cold or Aether-dead ground.
+**Fails against** · Empathy-aligned resonance, which mismatches the tone and causes Echo Fracture before a verse resolves; a closed throat, a wounded singer or numbers; wasted verses, each spending memory; fog, cold or Aether-dead ground.
 **Look up** · Judicium, Exuroth and Catharsis failures; the Fulguria and Caloria terrain; Echo Fracture under Harmonia; Aetheric Saturation; Void-law seals and Archonic decrees; the Zenith Stage table and the EX Grade row.

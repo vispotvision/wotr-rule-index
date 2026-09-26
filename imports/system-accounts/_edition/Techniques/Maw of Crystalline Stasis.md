@@ -38,7 +38,7 @@
 |---|---|---|
 | Holding the field | 5% of reserve per turn | 2,590 to 48,050 EU per 6 s |
 | Cost, one full Maw | 3 turns × 5% | 15% of reserve, 18 s |
-| Uses before Starvation | 90% ÷ 15% | six |
+| Reserve covers | 90% ÷ 15% | six |
 
 **Cost** · Five percent of full reserve each turn, fifteen for a full field, plus frostbite in the joints, worse the lower the Dominion.
 **Duration** · Three turns, 18 s, only while attention holds.
@@ -46,5 +46,5 @@
 ## Counterplay
 **Tell** · A declaration, then six metres of branching frost growing from where the practitioner stands; they cannot leave without ending it. Afterwards, a ring of shattered crystals to pick up by the handful.
 **Limits** · Six metres, three turns, no targeting, its maker included; it needs moisture and loose Essence, and dry air thins it.
-**Beats it** · Stay beyond six metres or shoot from there; move slowly inside; a Pyreveil arte or overheat field reverses the freeze faster than the sink rebuilds it; thermal equilibrium starves Caloria; pin the practitioner so their own frost takes their joints; break their attention.
+**Fails against** · Distance beyond six metres, and shot from there; slow movement inside; a Pyreveil arte or overheat field, which reverses the freeze faster than the sink rebuilds it; thermal equilibrium, which starves Caloria; a pinned practitioner, whose own frost takes their joints; broken attention.
 **Look up** · The Counterplay register for anchors; the Caloria entries for Cinerion and Vohrin, and Vohrin among the Titans; Pyreveil artes; the Glory Stage table and the Dominion gates.

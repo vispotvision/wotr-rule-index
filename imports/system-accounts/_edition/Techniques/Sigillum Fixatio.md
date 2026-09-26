@@ -18,7 +18,7 @@
 ## Metaphysics
 **Aether** · A small, sharply bounded Materia draw at ten metres, favoured by rock, worked stone and deep foundations, suppressed by open water, altitude and moving platforms. The Residue cures rather than fades: a held place stays faintly held for good, and repeated casting deafens Harmonists.
 **Wellspring** · Fixatio, the Binding Flame (Materia): a cured network chars before it flows, so what it holds stays held because the other configuration is no longer reachable; it strengthens Vitality Fortitude and Resilience Anchoring.
-**Inherited failure** · Fixatio's irreversibility: the cure is not undone by wanting it undone, and an opponent who pushes the caster to overshoot makes the hold permanent.
+**Inherited failure** · Fixatio's irreversibility: the cure is not undone by wanting it undone, and a push to overshoot makes the hold permanent.
 **Category** · Residue: of the Four Theories, the one for what a working leaves behind that answers to no one.
 **Essence** · The Aether Shell pays at both ends: the target is held at its Shell boundary and the caster's Shell locks in sympathy, a cured network for the same nine seconds.
 **School** · The Fixatists read the sigil as proof that change was never real; they hold positions others abandon, and it kills them at second ten, since a doctrine without change cannot count to nine.
@@ -42,7 +42,7 @@
 |---|---|---|
 | Cost | 6% of full reserve | 160 to 3,020 EU |
 | Cost, reserve 30,000 EU | 6% × 30,000 | 1,800 EU, 810 delivered, 990 shed |
-| Uses before Starvation | 90% ÷ 6% | 15 casts |
+| Reserve covers | 90% ÷ 6% | 15 casts |
 
 **Cost** · Six percent of full reserve per cast, plus the caster's own Shell locked for nine seconds: no blink or phase movement and attention narrowed to the one target.
 **Duration** · Nine seconds, one and a half turns; range ten metres, line of sight, one target, one Sigillum standing at a time.
@@ -50,8 +50,8 @@
 ## Counterplay
 **Tell** · A spoken imperative and a fist pointed at the target, visible at ten metres, so it warns the one about to be held; afterwards, a wound exactly as old as it was nine seconds before.
 **Limits** · Nothing two or more Stages above the caster; nothing without a discrete physical or Aetheric form, so no Domain, Wellspring current or abstraction; one target, one Sigillum, nine seconds.
-**Beats it** · Cover the mouth or break the wrist before the fist shuts; Lock or Knot the target first; shear or twist at the anchor; spread out while the caster cannot choose again; Fractura breaks it, Dissolution unmakes it.
-**Ground** · Fight on open water, at altitude or on a moving platform, where Materia has no tools.
+**Fails against** · A covered mouth or a broken wrist before the fist shuts; a target Locked or Knotted first; shear or torsion at the anchor; spread targets, since the caster cannot choose again; Fractura, which breaks it; Dissolution, which unmakes it.
+**Ground** · Open water, altitude and moving platforms leave Materia no tools.
 **Valmir** · The Titan's entropic domain unmakes the anchoring outright, but Titan-keyed arts are at the edge of what a mortal Crystal survives, so the route is real and rarely usable.
 **Matching** · A counter-Sigillum from an equal resolves on technique and position, a coin toss.
 **Look up** · The Counterplay register for Lock and Knot; the Materia entry for Fixatio and its terrain; the Flourishing Stage table; the Valmir entry among the Titans.

@@ -39,7 +39,7 @@
 |---|---|---|
 | Cost, a personal oath | 9 to 13% of reserve | 89,100 to 2.39 × 10⁶ EU |
 | Cost, a multi-party or divinely witnessed pact | toward 13% | toward 128,700 to 2.39 × 10⁶ EU |
-| Uses before Starvation | 90% ÷ 9% or 13% | ten personal oaths, or six great pacts |
+| Reserve covers | 90% ÷ 9% or 13% | ten personal oaths, or six great pacts |
 | Bleed of a great pact | 20 to 30% of cost in 1 s to 6 s | 26 to 39 GW at the band's foot; 120 GW at its top |
 
 **Cost** · A set share of full reserve per rending, so every caster at a Stage gets the same number; plus a toll in Resilience Oath equal to the full weight of keeping the broken vow.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · A renunciation aloud if the caster keeps custom; otherwise only the felt absence, one instant too late. After, the anchors carry two fields where a lawful release leaves none.
 **Limits** · Real oaths only; one anti-field per anchor; any anchor disturbed fails the whole null; a Silence denies it.
-**Beats it** · Swear under Purganeth at the start; catch the lock by disturbing any one anchor (bigger pacts give longer); move the phase by invoking or renewing the oath mid-cast; hold a Silence; wait out the Oath toll and drift.
+**Fails against** · An oath sworn under Purganeth from the start; any one anchor disturbed before the lock (bigger pacts give longer); a phase moved by invoking or renewing the oath mid-cast; a Silence; the Oath toll and drift over time.
 **Look up** · The Nihiloth entry and its failure; the Realm of Purganeth and its Arbiter; Claustra seals; the Persistence and Oath gates; the Silence Realm; the Invocation Stage table and saturation rules.

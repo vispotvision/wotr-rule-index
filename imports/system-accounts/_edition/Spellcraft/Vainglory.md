@@ -19,7 +19,7 @@
 **Wellspring** · Mirithane, the Wellspring of Reflection (Limina): a true mirror adds nothing, so output honestly reflects inner state; Vainglory is the flattering correction it forbids, pumped against its pull toward honesty. It strengthens Harmonics Attunement and Tempering Coherence.
 **Wellspring** · Eidolyn, the Shaping Mind (Limina): it deposits along a template with real material strength; it is the cavity and the shape.
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): a working acts on the space of possible arrangements; it fetches the flattering self from a coordinate the Crystal never occupied.
-**Inherited failures** · Mirithane's mirror broadcasts perfectly any state the summoner would hide; Eidolyn's template defect reproduces every flaw of an aspirational template at scale; Oneirion's projection error makes the construct convincing in the abstract and wrong in the specifics. Opponents can induce any of them.
+**Inherited failures** · Mirithane's mirror broadcasts perfectly any state the summoner would hide; Eidolyn's template defect reproduces every flaw of an aspirational template at scale; Oneirion's projection error makes the construct convincing in the abstract and wrong in the specifics. Any of them can be induced from outside.
 **Theory** · Correspondence, refused: the working asserts "this construct corresponds to me", and Mirithane's office is to test that and return the answer unedited. It is a false correspondence held up by a pump.
 **Essence** · The Essence Core is the pump; the Aether Shell is the reflecting surface Mirithane works on; the Attraction Layer holds the tether, which is why Silence ends it. Developmental Tier at the floor is Harmonic.
 **School** · A humanist school holds that a person has no fixed nature and may sculpt the higher form they elect, so it keeps a construct standing to grow toward; its doctrine has no feedback term, and the elected form diverges and displaces the sculptor.
@@ -55,7 +55,7 @@
 ## Counterplay
 **Tell** · It looks like the summoner, only better, and only someone who has seen the summoner worse can tell; afterwards a summoner thinner than before, or no longer the summoner.
 **Limits** · It cannot stay stable, cannot be dismissed safely, cannot be made without cost to the summoner's Crystal, and convinces only those who never met the unflattering self.
-**Beats it** · Silence, which severs its continuity; take the anchor at Glory; wait out the exponential; let the Coherence drift work; add an honest reflection, another Mirithane practitioner, or Oblivara, which returns manipulation to its source.
-**Witness** · Bring the sibling, creditor or former partner who has seen the summoner on a bad day; the construct does not have to be unmasked, only out-honested.
+**Fails against** · Silence, which severs its continuity; a lost anchor at Glory; the run of the exponential; Coherence drift; an honest reflection, another Mirithane practitioner, or Oblivara, which returns manipulation to its source.
+**Witness** · A sibling, creditor or former partner who has seen the summoner on a bad day out-honests the construct without unmasking it.
 **Oblivara** · Its price is code exhaustion: past its correction limit the reconstruction is confident, complete and wrong.
 **Look up** · The Limina entries for Mirithane, Eidolyn, Oneirion and Oblivara; the Animatria charges of the Spirit Summoning Arts; the Silence Realm register; Coherence drift; the Glory Stage table and Path gates.

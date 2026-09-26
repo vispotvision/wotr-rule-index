@@ -19,7 +19,7 @@
 **Saturation** · The rite deposits into one small volume and cannot be moved once begun; past the saturation threshold it risks a Crystal Fracture Event in everyone present, patient included. The Space step keeps the chamber below it.
 **Wellspring** · Dissolution, the Unbinding Stream (Limina): the mixed state has more disorder than the separated one, so shedding what no longer serves is nearly effortless; it strengthens Resilience Severance and Tempering Processing.
 **Reads** · Judicium (Fulguria) reads composition from signature and locates the interface; Fixatio (Materia) sets the barrier height, both reference and weakness; Anamnesis (Limina) supplies what the bond used to be.
-**Inherited failures** · Dissolution's indiscriminate solvency is the rite's Consequence: entropy does not know which memories were load-bearing, so the patient comes back fragmentary, amnesiac or resonant-altered more often than not. Opponents can induce it.
+**Inherited failures** · Dissolution's indiscriminate solvency is the rite's Consequence: entropy does not know which memories were load-bearing, so the patient comes back fragmentary, amnesiac or resonant-altered more often than not. It can be induced from outside.
 **Theory** · The Consent Doctrine, enforced and literal: someone with standing invokes the rite and the Wellspring is asked only to recognise a lawful condition; a process can be licensed, and Scission is.
 **Essence** · All three layers: the Essence Core is cut from, the Attraction Layer holds the bonds and harmonisations a Wellspring-from-host cut works on, and the Aether Shell takes the backlash through Resilience Ward. Developmental Tier at the floor is Harmonic.
 **School** · A guild school reads the rite as a liturgy of Strife, the force that unmixes; expecting a complete cut to yield two clean parts, it treats a fragmentary outcome by cutting again harder, which is how mass severance is reached.
@@ -43,8 +43,8 @@
 |---|---|---|
 | Cost | 5% of full reserve, 7% for a bond forged under duress or over decades | 2,590 to 67,300 EU across the Glory band |
 | Rites before Starvation | 90% ÷ 5 to 7% | 12 to 18 |
-| Uses before Starvation, top of band | 0.9 × 961,000 ÷ 60,000 | 14 dear rites |
-| Uses before Starvation, bottom of band | 0.9 × 51,800 ÷ 60,000 | none dear; one cheap rite starves the caster |
+| Reserve covers, top of band | 0.9 × 961,000 ÷ 60,000 | 14 dear rites |
+| Reserve covers, bottom of band | 0.9 × 51,800 ÷ 60,000 | none dear; one cheap rite starves the caster |
 | Waste | 30 to 40% of cost over 360 to 720 s | 780 to 26,900 EU, 1 to 75 MW |
 
 **Cost** · A twentieth of full reserve (a fourteenth for a hard bond), plus a Resilience Ward toll scaled to how tightly the two were bound (multiplied if forced), plus a circle, offering and catalyst assembled in advance and consumed.
@@ -53,7 +53,7 @@
 ## Counterplay
 **Tell** · Several people, a circle, an offering, a catalyst, a spoken invocation and a chamber running tens of megawatts hot; it cannot be done to someone who does not know. Afterwards a deafening worked site and a patient gone quiet.
 **Limits** · No improvising mid-combat; the full apparatus or outright failure; six to twelve minutes; no bond denser than Glory; the removed piece rarely returns whole.
-**Beats it** · Anchor the bond with Fixatio beforehand (permanent, even if placed in error); scuff the circle, take the catalyst or break the invocation; refuse the condition before the Seal; countersign the Seal; Silence the chamber.
-**Casework** · A documented rite, not a self-derived technique: anyone who has read the Concord's casework can counter it, and it surprises nobody.
-**Silence** · A Silence Realm forbids lawful transformation, so no rite inside one; a patient who wants a corrupted Wellspring cut out cannot have it done there either, which makes chamber locations worth fighting over.
+**Fails against** · A bond anchored with Fixatio beforehand (permanent, even if placed in error); a scuffed circle, a missing catalyst or a broken invocation; the condition refused before the Seal; a countersigned Seal; a Silenced chamber.
+**Casework** · A documented rite, not a self-derived technique: its whole method is in the Concord's casework, open to any reader.
+**Silence** · A Silence Realm forbids lawful transformation, so no rite inside one; a patient who wants a corrupted Wellspring cut out cannot have it done there either.
 **Look up** · The Concord's Scission casework; Fixatio's irreversibility; the Seal's closing conditions; Dissolution's Failure in the Limina entries; the Silence Realm register; the Glory Stage table and the Spirit Path gates.

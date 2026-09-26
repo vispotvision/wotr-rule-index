@@ -15,18 +15,6 @@
 **Grade required** · A-Grade
 **Path gate** · Spirit Path
 
-## Design Chain
-**Trigger** · A declared cast against one active working in range, with the sigil over one eye as anchor.
-**Function** · Pins the working's optical depth low enough that its internal lines show, holding it open and legible while the beam lasts.
-**Mechanism** · Truth laid across Illumination. Judicium reads each component by its own spectrum, consonance for sound parts and dissonance for flaws, and Aurevane carries the reading as visible light.
-**Numerical Effect** · 500 metres, one working per activation; at full range the beam resolves about 7 millimetres, members of a glyph-chain rather than their grain. The window lasts one to two turns, 6 to 12 seconds.
-**Target Response** · The exposed working freezes into suspended, legible geometry instead of running on.
-**Consequence** · The caster chooses to unravel it, alter it or file it. A working that survives carries a trace of having been read, and its maker knows.
-**Limitation** · Nothing already resolved can be read, and phase-shifted or closed-burst workings can slip the window before the dissection completes.
-**Weakness** · An imprecise edge leaves afterimages; a reflective barrier makes the caster dissect their own working; a Void-aligned construct feeds noise the reading takes for signal; the glare marks the caster's position.
-**Cost** · 2 percent of full reserve per turn held, 4 percent a full dissection, about twenty before Starvation.
-**Counterplay** · Knot the lattice, raise a mirror, fight in fog, or go after the carried codex, a book that can be damaged.
-
 ## FOW line
 **Governing Primary** · Gnosis (Acuity, Analysis, Perception), with Harmonics (Attunement) secondary.
 **Stage floor** · Glory

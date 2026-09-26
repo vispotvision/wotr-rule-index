@@ -40,7 +40,7 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, reserve 600,000 EU, η 0.65 | 8% × 600,000 | 48,000 EU, shed at 930 MW |
-| Uses before Starvation | 90% ÷ 8% | 11, fewer for the body |
+| Reserve covers | 90% ÷ 8% | 11, fewer for the body |
 | Peak power after the debt lands | fatigued muscle | about a third |
 
 **Cost** · Eight percent of full reserve per ignition, then the deferred bill in full at the end: microfractures through compacted bone and muscle fatigue. It carries the Overchannel penalty: damage accumulates with each ignition and, if not healed by rest, alchemy or Temperance, becomes permanent.
@@ -49,6 +49,6 @@
 ## Counterplay
 **Tell** · A spine lit molten-white through the back, base upward, no gather, and eighteen seconds from that instant; afterwards a fighter standing still, breathing carefully, no longer a Grade above anyone.
 **Limits** · One configuration at a time; hardening only as far as the spongy bone allows, and that store shrinks; the bill always lands.
-**Beats it** · Decline the exchange and wait; defend for ten seconds and close by seventeen; strike heavy and blunt mid-spread to force the early close; fight on broken, unsurveyed or soft ground; halt it with kinetic suppression, knowing that lands the debt.
-**Long game** · A habitual user mistakes the absence of crisis for the absence of cost; let him keep winning while the damage settles in.
+**Fails against** · An exchange declined until it ends; the clock, ten seconds held off and the close by seventeen; heavy blunt trauma mid-spread, which forces the early close; broken, unsurveyed or soft ground; kinetic suppression, which halts it and lands the debt.
+**Habit** · A habitual user mistakes the absence of crisis for the absence of cost while the damage settles in.
 **Look up** · The Spatium and Vectoria entries for Transmutatio and Ascensio and their Failures; Overchannel and its healing; the Refraction Stage table; the taught records of the art itself.

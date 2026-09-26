@@ -1,0 +1,1194 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat, answering the writing questionnaire. Each verbatim is an exact substring
+# of its RULINGS.md entry. Standalone-ruling pattern: empty source.file.
+pack: Writing Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R48-01-BEAUTY
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: Beauty
+  status: live
+  kind: mandate
+  summary: Beauty comes from exact concrete detail, images and metaphor, and what goes unsaid
+    (not primarily rhythm/sound).
+  verbatim: Beauty comes from exact concrete detail, images and metaphor, and what goes unsaid
+    (not primarily rhythm/sound).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: &id001
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w01: When a passage hits you as beautiful, what is usually doing the work?'
+- id: R48-02-DENSITY
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: Density
+  status: live
+  kind: mandate
+  summary: 'Lush throughout: every scene gets full sensory layering; slower, denser, more immersive.'
+  verbatim: 'Lush throughout: every scene gets full sensory layering; slower, denser, more immersive.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w02: How thick should description run? Example: a tavern gets one sharp detail,
+    or a full paragraph of smell, light and noise.'
+- id: R48-03-SIMILES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: Similes
+  status: live
+  kind: mandate
+  summary: 'Loosen similes only: a good simile is welcome when it earns its place; em dashes
+    stay banned.'
+  verbatim: 'Loosen similes only: a good simile is welcome when it earns its place; em dashes
+    stay banned.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w03: Right now similes (''like'', ''as if'') are rationed and metaphor is
+    preferred, and em dashes are banned outright. Keep that?'
+- id: R48-04-METAPHORS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: Metaphors
+  status: live
+  kind: mandate
+  summary: 'Metaphors come from the POV''s own life: trade, homeland, body; metaphor doubles
+    as characterisation.'
+  verbatim: 'Metaphors come from the POV''s own life: trade, homeland, body; metaphor doubles
+    as characterisation.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w04: Where should narration''s metaphors come from? Example: a Kharven hunter''s
+    POV sees a wound ''opened like a split seal'' versus ''like a torn page''.'
+- id: R48-05-HIGH_STYLE
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: High style
+  status: live
+  kind: mandate
+  summary: High mythic style is allowed freely in narration whenever the moment calls for it
+    (not only in documents).
+  verbatim: High mythic style is allowed freely in narration whenever the moment calls for it
+    (not only in documents).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: replaces
+  supersedes:
+  - R5-E-ELEVATED_REGISTER_QUARANTINED
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w05: The high, mythic cadence (Tolkien-style invocation) is limited to in-world
+    documents and myth; scene narration may only go elegiac. Should narration be allowed that
+    high style at rare peaks?'
+- id: R48-06-RHYTHM_LAW
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: Rhythm law
+  status: live
+  kind: mandate
+  summary: 'Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under
+    10 words, at most two long sentences in a row; the checker fails anything else.'
+  verbatim: 'Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs
+    under 10 words, at most two long sentences in a row; the checker fails anything else.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w06: The rhythm rules are strict: the emotional hit is the shortest sentence
+    and sits last, payoff sentences stay under 10 words, no more than two long sentences in
+    a row. Do they help the music or cramp i'
+- id: R48-07-WHITE_SPACE
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Beautiful prose
+  title: White space
+  status: live
+  kind: mandate
+  summary: 'Steady paragraphs: medium paragraphs, white space used sparingly so it still means
+    something.'
+  verbatim: 'Steady paragraphs: medium paragraphs, white space used sparingly so it still means
+    something.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Beautiful prose
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w07: How should the page breathe?'
+- id: R48-08-NEW_POVS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: New POVs
+  status: live
+  kind: mandate
+  summary: 'New or minor POVs default to close, deep interior: thoughts, sensations, the character''s
+    own idiom.'
+  verbatim: 'New or minor POVs default to close, deep interior: thoughts, sensations, the character''s
+    own idiom.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: adds
+  supersedes: []
+  applies_to: &id002
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w08: Major POV characters already have a set narration distance. What should
+    a new or minor POV default to?'
+- id: R48-09-TECH_WORDS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: Tech words
+  status: live
+  kind: mandate
+  summary: Narration may use technical words freely on its own authority whenever it helps.
+  verbatim: Narration may use technical words freely on its own authority whenever it helps.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w09: When a working fires, may the narration itself use technical words (pressure
+    differential, the Shell, Harmonics), or only a character, instrument or document?'
+- id: R48-10-MIXING
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: Mixing
+  status: live
+  kind: mandate
+  summary: 'Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.'
+  verbatim: 'Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: replaces
+  supersedes:
+  - R12-2-NO_MIXING
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w10: A passage must be either Technical (a choice someone makes) or Mystic
+    (what the world does); the two never mix. Keep that?'
+- id: R48-11-HUMOUR
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: Humour
+  status: live
+  kind: mandate
+  summary: 'Humour wherever it''s earned: funny characters are funny often; tone flexes with
+    the cast.'
+  verbatim: 'Humour wherever it''s earned: funny characters are funny often; tone flexes with
+    the cast.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w11: Humour belongs to characters, never to a setup-punchline rhythm. How
+    often should a scene have a laugh in it?'
+- id: R48-12-PROFANITY
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: Profanity
+  status: live
+  kind: mandate
+  summary: Profanity in mouths and in close-POV narration when the POV would think it.
+  verbatim: Profanity in mouths and in close-POV narration when the POV would think it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w12: Your own dialogue is never altered. How much swearing should NPCs and
+    narration carry?'
+- id: R48-13-PERIOD_FEEL
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Register and voice
+  title: Period feel
+  status: live
+  kind: mandate
+  summary: 'Modern words in speech only: characters may talk modern; narration keeps a timeless
+    register.'
+  verbatim: 'Modern words in speech only: characters may talk modern; narration keeps a timeless
+    register.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Register and voice
+    operation: replaces
+  supersedes:
+  - R15-1-LICENCE
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w13: Modern words and ideas are legal everywhere, narration included (''okay'',
+    ''adrenaline'', ''trauma''), and ''reads modern'' is never flagged. Still right?'
+- id: R48-14-DEPTH
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: Depth
+  status: live
+  kind: mandate
+  summary: 'Research depth: name the real phenomenon and its fault; lighter scenes, less time
+    per working.'
+  verbatim: 'Research depth: name the real phenomenon and its fault; lighter scenes, less time
+    per working.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: adds
+  supersedes: []
+  applies_to: &id003
+  - magic-design
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w14: How deep should the physics research go before a working reaches the
+    page?'
+- id: R48-15-SOURCES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: Sources
+  status: live
+  kind: mandate
+  summary: 'Sources: encyclopedia-level, cross-checked against one better source.'
+  verbatim: 'Sources: encyclopedia-level, cross-checked against one better source.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w15: What sources should the physics and medical research lean on?'
+- id: R48-16-REAL_FIGURES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: Real figures
+  status: live
+  kind: mandate
+  summary: 'Real figures appear whenever measured: anyone with an instrument or trained eye
+    states figures as often as they would.'
+  verbatim: 'Real figures appear whenever measured: anyone with an instrument or trained eye
+    states figures as often as they would.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w16: Real-world figures (joules, metres per second, degrees) are legal in
+    a diagnostic voice. How often should they show up in a scene?'
+- id: R48-17-NO_CLOSURE
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: No closure
+  status: live
+  kind: mandate
+  summary: 'When real physics can''t close an effect, reach for researched pseudoscience, metaphysics
+    or another strange idea first: it''s fantasy, so metaphysical and pseudoscientific mechanisms
+    are legitimate ways to make it work. (Isaac''s words: "T...'
+  verbatim: 'When real physics can''t close an effect, reach for researched pseudoscience, metaphysics
+    or another strange idea first: it''s fantasy, so metaphysical and pseudoscientific mechanisms
+    are legitimate ways to make it work. (Isaac''s words: "Try to utilize pseudoscience or some
+    other made up idea or concept that you have found or researched it''s fantasy so metaphysics
+    and other strange pseudosciencitific things can be used".)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w17: When the real physics can''t deliver the effect you want (it needs far
+    more energy than the reserve holds), what should the partner do first?'
+- id: R48-18-INVENTION
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: Invention
+  status: live
+  kind: mandate
+  summary: 'Invention goes one clear step past textbook physics: the real law plus one pinned
+    variable, easy for a player to reason about.'
+  verbatim: 'Invention goes one clear step past textbook physics: the real law plus one pinned
+    variable, easy for a player to reason about.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w18: Textbook physics is the floor and a technique goes one step past it.
+    How far past is the fun?'
+- id: R48-19-BANK
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Research-grounded techniques
+  title: Bank
+  status: live
+  kind: mandate
+  summary: 'The Phenomenon Bank becomes a growing library: every researched phenomenon (and
+    pseudoscientific idea) is added for future workings and players to draw from.'
+  verbatim: 'The Phenomenon Bank becomes a growing library: every researched phenomenon (and
+    pseudoscientific idea) is added for future workings and players to draw from.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Research-grounded techniques
+    operation: replaces
+  supersedes:
+  - R13-3-PHENOMENON_BANK
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w19: The Phenomenon Bank holds eight candidate seeds, one per physics domain.
+    What should it become?'
+- id: R48-20-STRATA
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: Strata
+  status: live
+  kind: mandate
+  summary: The three-layer account (Aether, Wellspring, Essence) shows at a working's first
+    display and at the finisher; lighter touches between.
+  verbatim: The three-layer account (Aether, Wellspring, Essence) shows at a working's first
+    display and at the finisher; lighter touches between.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: adds
+  supersedes: []
+  applies_to: &id004
+  - magic-mechanism
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w20: A working''s full account runs through three layers (Aether, Wellspring,
+    Essence). How often should that show in prose?'
+- id: R48-21-NAMING
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: Naming
+  status: live
+  kind: mandate
+  summary: Narration names Wellsprings and glyphs freely whenever useful.
+  verbatim: Narration names Wellsprings and glyphs freely whenever useful.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: replaces
+  supersedes:
+  - R18-4-GLYPH_NAMING_CONTEXTS
+  - R9-2-VOCAB_BAN_NARROWED
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w21: May narration name a Wellspring or a glyph (e.g. ''Vohrin''), or only
+    a character, instrument or document?'
+- id: R48-22-LENS_NAMES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: Lens names
+  status: live
+  kind: mandate
+  summary: Real-world names and terms for borrowed ideas (Stoic pneuma, solve et coagula) may
+    appear anywhere they fit, scenes included.
+  verbatim: Real-world names and terms for borrowed ideas (Stoic pneuma, solve et coagula) may
+    appear anywhere they fit, scenes included.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w22: When a school borrows a real idea (Stoic pneuma, alchemy''s solve et
+    coagula), how does it appear on the page?'
+- id: R48-23-LENS_COUNT
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: Lens count
+  status: live
+  kind: mandate
+  summary: A working carries as many history-of-ideas lenses as shed light on it.
+  verbatim: A working carries as many history-of-ideas lenses as shed light on it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w23: How many history-of-ideas lenses should one working carry?'
+- id: R48-24-4_THEORIES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: 4 Theories
+  status: live
+  kind: mandate
+  summary: The Four Theories surface in scenes through characters who hold and argue them; they
+    colour reads and mistakes.
+  verbatim: The Four Theories surface in scenes through characters who hold and argue them;
+    they colour reads and mistakes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w24: The Four Theories are rival accounts of how the world works, and none
+    is refuted. How should they show in scenes?'
+- id: R48-25-AWE
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: WOTR metaphysics on the page
+  title: Awe
+  status: live
+  kind: mandate
+  summary: 'Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly
+    as a sword exchange.'
+  verbatim: 'Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly
+    as a sword exchange.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: WOTR metaphysics on the page
+    operation: replaces
+  supersedes:
+  - R12-6-RULES_AS_RULES
+  - R12-6-MYSTIC_GRAMMAR
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w25: Wellsprings, rites, oaths, the Veil: should scenes treat them with awe
+    (rules stated, never explained) or with the same clarity as combat?'
+- id: R48-26-INVENTION
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Invention
+  status: live
+  kind: mandate
+  summary: The partner may invent NPCs, places and texture mid-scene without asking, logged;
+    bigger things wait for Isaac.
+  verbatim: The partner may invent NPCs, places and texture mid-scene without asking, logged;
+    bigger things wait for Isaac.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: &id005
+  - session-protocol
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w26: What may your partner invent mid-scene without asking?'
+- id: R48-27-REAL_WORLD
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Real world
+  status: live
+  kind: mandate
+  summary: Real-world material borrowed by the partner is credited in the author notes; the
+    scene stays in-world.
+  verbatim: Real-world material borrowed by the partner is credited in the author notes; the
+    scene stays in-world.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w27: When the partner pulls in real-world material (a real battle tactic,
+    a medical fact, a historic craft), should it say so?'
+- id: R48-28-TURN_LENGTH
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Turn length
+  status: live
+  kind: mandate
+  summary: 'Roleplay turns run about 3,500 words (Isaac''s answer: "3500").'
+  verbatim: 'Roleplay turns run about 3,500 words (Isaac''s answer: "3500").'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w28: Roleplay turns run 300 to 700 words. Is that the right size?'
+- id: R48-29-PACING
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Pacing
+  status: live
+  kind: mandate
+  summary: 'The partner may skip dull stretches: travel and waiting pass in a line when nothing
+    is at stake; the world keeps moving.'
+  verbatim: 'The partner may skip dull stretches: travel and waiting pass in a line when nothing
+    is at stake; the world keeps moving.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w29: How much time may the partner skip in one turn without asking?'
+- id: R48-30-SURPRISES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Surprises
+  status: live
+  kind: mandate
+  summary: Big surprises (betrayal, ambush, death) only after foreshadowing a player could have
+    caught.
+  verbatim: Big surprises (betrayal, ambush, death) only after foreshadowing a player could
+    have caught.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w30: How big can the partner''s surprises be without warning (a betrayal,
+    an ambush, a death)?'
+- id: R48-31-STAKES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: Stakes
+  status: live
+  kind: mandate
+  summary: 'Death can happen, if earned: from real mistakes after clear warning; nothing is
+    safe.'
+  verbatim: 'Death can happen, if earned: from real mistakes after clear warning; nothing is
+    safe.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w31: Play is meant to be fair and a real challenge. Can a fight kill your
+    character outright?'
+- id: R48-32-NPC_VOICES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Roleplay partnership
+  title: NPC voices
+  status: live
+  kind: mandate
+  summary: Isaac may take over any NPC's voice anytime by saying so; the partner hands it back
+    after.
+  verbatim: Isaac may take over any NPC's voice anytime by saying so; the partner hands it back
+    after.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Roleplay partnership
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w32: Should you be able to take over an NPC''s voice when you want to?'
+- id: R48-33-CHOREOGRAPHY
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: Choreography
+  status: live
+  kind: mandate
+  summary: 'Duels: every exchange traced (measure, guard and the move by its fencing name).'
+  verbatim: 'Duels: every exchange traced (measure, guard and the move by its fencing name).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: &id006
+  - combat
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w33: How much blow-by-blow do you want in a duel?'
+- id: R48-34-WOUNDS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: Wounds
+  status: live
+  kind: mandate
+  summary: 'Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute,
+    nothing looked away from.'
+  verbatim: 'Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute,
+    nothing looked away from.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w34: How graphic should wounds be?'
+- id: R48-35-USES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: Uses
+  status: live
+  kind: mandate
+  summary: 'Uses in a fight: each side invents its own; Isaac for his characters, the partner
+    for NPCs within the page''s facts.'
+  verbatim: 'Uses in a fight: each side invents its own; Isaac for his characters, the partner
+    for NPCs within the page''s facts.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w35: Ability pages no longer say how to use an ability. In a fight, who invents
+    the clever uses?'
+- id: R48-36-NPC_WITS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: NPC wits
+  status: live
+  kind: mandate
+  summary: 'NPCs are veteran-clever with their abilities: use what they could know and have
+    trained, well; never omniscient, never dumb.'
+  verbatim: 'NPCs are veteran-clever with their abilities: use what they could know and have
+    trained, well; never omniscient, never dumb.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w36: How clever should an NPC be with its own abilities?'
+- id: R48-37-COST_SHOWN
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: Cost shown
+  status: live
+  kind: mandate
+  summary: 'An ability''s cost shows in the body: tremor, heat off the skin, thirst, a Crystal
+    ache.'
+  verbatim: 'An ability''s cost shows in the body: tremor, heat off the skin, thirst, a Crystal
+    ache.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w37: How should an ability''s cost show in the prose?'
+- id: R48-38-AFTERMATH
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Combat and consequence
+  title: Aftermath
+  status: live
+  kind: mandate
+  summary: 'Every duel ends with a full aftermath beat: wounds dressed, what changed between
+    people.'
+  verbatim: 'Every duel ends with a full aftermath beat: wounds dressed, what changed between
+    people.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Combat and consequence
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w38: Battles must plan the aftermath first. After a duel, how much page goes
+    to the aftermath?'
+- id: R48-39-INTERIORITY
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: Interiority
+  status: live
+  kind: mandate
+  summary: 'POV interiority is deep and running: thoughts, memories and reasoning flow through
+    the narration.'
+  verbatim: 'POV interiority is deep and running: thoughts, memories and reasoning flow through
+    the narration.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: &id007
+  - dialogue
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w39: How much of your POV character''s inner thought do you want on the page?'
+- id: R48-40-NPC_THOUGHTS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: NPC thoughts
+  status: live
+  kind: mandate
+  summary: 'NPC italic thoughts: roleplay turns keep the one-thought-per-NPC allowance; written
+    scenes keep the POV lock (no NPC thoughts under a lock).'
+  verbatim: 'NPC italic thoughts: roleplay turns keep the one-thought-per-NPC allowance; written
+    scenes keep the POV lock (no NPC thoughts under a lock).'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w40: The table rules give each NPC one italic private thought per scene,
+    while a later rule bars NPC thoughts inside a locked-POV scene. Which should hold?'
+- id: R48-41-MAGIC_TALK
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: Magic talk
+  status: live
+  kind: mandate
+  summary: 'Characters talk about magic by their training: a Measurewright in gauges, a hunter
+    in folk words, a scholar in theory.'
+  verbatim: 'Characters talk about magic by their training: a Measurewright in gauges, a hunter
+    in folk words, a scholar in theory.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w41: When characters talk about magic, how technical do they get?'
+- id: R48-42-LIES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: Lies
+  status: live
+  kind: mandate
+  summary: 'Frequent lies: many NPCs lie for their own reasons; the player has to catch them.'
+  verbatim: 'Frequent lies: many NPCs lie for their own reasons; the player has to catch them.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w42: How much should people lie or talk around things?'
+- id: R48-43-SPEECHES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: Speeches
+  status: live
+  kind: mandate
+  summary: Dialogue stays realistic under stress, but a trained speaker may deliver one crafted,
+    eloquent speech at a big moment.
+  verbatim: Dialogue stays realistic under stress, but a trained speaker may deliver one crafted,
+    eloquent speech at a big moment.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w43: Invented dialogue must stumble (false starts, self-repair) and never
+    sound polished under stress. Keep, or allow set speeches?'
+- id: R48-44-NAME_USE
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Characters and dialogue
+  title: Name use
+  status: live
+  kind: mandate
+  summary: Narration refers to characters by POV epithets, the way the viewpoint sees them;
+    the naming characterises.
+  verbatim: Narration refers to characters by POV epithets, the way the viewpoint sees them;
+    the naming characterises.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Characters and dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w44: How often should narration use a character''s name versus ''he''/''she''
+    or an epithet (''the Dawi'', ''the old man'')?'
+- id: R48-45-CHECKS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Checks
+  status: live
+  kind: mandate
+  summary: 'Full check on every roleplay turn: every turn passes the full checker.'
+  verbatim: 'Full check on every roleplay turn: every turn passes the full checker.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: &id008
+  - verification
+  - session-protocol
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w45: The checker runs on every piece. How strict for roleplay turns?'
+- id: R48-46-WORD_FLOOR
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Word floor
+  status: live
+  kind: mandate
+  summary: Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
+  verbatim: Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: *id008
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w46: Set pieces must run at least 2,500 words. Keep that floor?'
+- id: R48-47-NOTES
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Notes
+  status: live
+  kind: mandate
+  summary: Full author notes go in the scene file (rule ids, stat ledger, research, costs);
+    chat gets a short summary.
+  verbatim: Full author notes go in the scene file (rule ids, stat ledger, research, costs);
+    chat gets a short summary.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: *id008
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w47: How much author notes after a written scene?'
+- id: R48-48-EXPLAIN
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Explain
+  status: live
+  kind: mandate
+  summary: The partner explains the physics and metaphysics only when asked; working it out
+    is part of the challenge.
+  verbatim: The partner explains the physics and metaphysics only when asked; working it out
+    is part of the challenge.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: *id008
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w48: After a scene, should the partner explain the physics and metaphysics
+    it used?'
+- id: R48-49-CITATIONS
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Citations
+  status: live
+  kind: mandate
+  summary: Research is cited as a source list at the end of each scene's or ability's notes.
+  verbatim: Research is cited as a source list at the end of each scene's or ability's notes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: *id008
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w49: How should research be cited?'
+- id: R48-50-PUSHBACK
+  pack: Writing Law 2026-09-26
+  pack_number: null
+  section: Process
+  title: Pushback
+  status: live
+  kind: mandate
+  summary: When the partner thinks a beat is drifting or a rule reads wrong, it says so in one
+    plain line and keeps writing unless stopped.
+  verbatim: When the partner thinks a beat is drifting or a rule reads wrong, it says so in
+    one plain line and keeps writing unless stopped.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Process
+    operation: adds
+  supersedes: []
+  applies_to: *id008
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (writing questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question w50: When the partner thinks a beat is drifting or a rule reads wrong in
+    play, how should it tell you?'

@@ -42,7 +42,7 @@
 | Cost | 10% of reserve | 5,180 to 96,100 EU; 3.1 to 67 GJ, B to A |
 | A-Grade floor | 46 GJ ÷ η | 65,700 to 76,700 EU spent |
 | Air ceiling | 120 GJ ÷ η | 171,000 to 200,000 EU spent |
-| Uses before Starvation | 90% ÷ 10% | 9, if the tempering interval is kept |
+| Reserve covers | 90% ÷ 10% | 9, if the tempering interval is kept |
 
 **Cost** · 10 percent of full reserve a burst; only the upper band reaches A at that price, and past 120 GJ in ordinary air extra EU buys only bleed. The body pays in Backlash and quench cracking.
 **Duration** · Under a second of burst, within one six-second turn.
@@ -50,6 +50,6 @@
 ## Counterplay
 **Tell** · A spoken Caloria declaration, a white-orange serpent of flame, then rising hair, chest pressure and a metal taste before the heat. Afterwards a twenty-metre ring of char and an oxygen-starved hollow.
 **Limits** · 20 m; under a second; no steering, throttling, aiming or recall; capped at 120 GJ of fire by the room's oxygen.
-**Beats it** · A hand over the mouth; fight in a cellar, snowfield, flooded street or sealed vault; Thaloré water blunts the blast; a Cinerion barrier turns the shock, a Verdantia ward muffles it; fight in a corridor and let the reflection return.
-**Break the man** · Put something they must protect inside twenty metres; force a second burst inside the tempering interval.
+**Fails against** · A hand over the mouth; a cellar, snowfield, flooded street or sealed vault; Thaloré water, which blunts the blast; a Cinerion barrier, which turns the shock; a Verdantia ward, which muffles it; a corridor, where the reflection returns.
+**Blindness** · It spares nothing inside twenty metres, including what the practitioner would protect; a second burst inside the tempering interval comes untempered.
 **Look up** · The Caloria terrain entries; Thaloré, Cinerion and Verdantia; the Caloria Failures for Exuroth and Cataclysm; Overchannel risks; the Glory Stage table; the A-Grade band.

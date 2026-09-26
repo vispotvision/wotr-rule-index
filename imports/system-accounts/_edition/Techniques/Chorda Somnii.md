@@ -18,7 +18,7 @@
 **Inherited failures** · Oneirion's projection error: the path is right in the dream-space and lands somewhere unintended when mapped back into the room.
 **Theory** · Two scales of one law briefly agreeing, the Correspondence Position's ground; the Accord files it under Consent regardless.
 **Essence** · The Essence Core pays and the thread runs through the Attraction Layer as an Essence-lock. Memory Shear degrades Gnosis Retention as misremembered order; Sleep Debt must be slept off. Developmental Tier Harmonic, Radiant from Transcendence.
-**School** · The mind-physicians teach we feel only a short saddle of time whose length attention sets; the thread pushes an accounting already running. Opponents who test it with a chronometer find it agrees and wrongly call the target a liar.
+**School** · The mind-physicians teach we feel only a short saddle of time whose length attention sets; the thread pushes an accounting already running. Anyone who tests it with a chronometer finds it agrees and wrongly calls the target a liar.
 
 ## Mechanism
 **Glyph** · Hour (Valen), a limit on duration only, laid across Reverie (Maelor) for the dream-space it is set in.
@@ -36,7 +36,7 @@
 |---|---|---|
 | Cost | set share | 5% of reserve, 2,590 to 48,050 EU |
 | Mean draw | cost ÷ 18 s | 144 to 2,670 AU/s |
-| Uses before Starvation | 90% ÷ 5% | eighteen from full |
+| Reserve covers | 90% ÷ 5% | eighteen from full |
 
 **Cost** · Five percent of full reserve a thread, plus Memory Shear with every thread and Sleep Debt that falls due in the next engagement; the Core brakes before the reserve does.
 **Duration** · Eighteen seconds, three turns, while gaze or lock holds.
@@ -44,5 +44,5 @@
 ## Counterplay
 **Tell** · The practitioner fixes their eyes on one person and a line of current runs from hand to target; afterwards nothing is left in the room, but the practitioner gets the order of the last minute wrong.
 **Limits** · One thread, one target, 500 m by sight or Essence-link, held gaze or lock, three turns, nothing without a dream underneath; it does nothing to flesh, armour or reach.
-**Beats it** · Break line of sight; a Fate-keyed ward severs it by reading its shape; press the campaign so the Sleep Debt is never paid; train minds to refuse the tempo; send a construct or husk; use crowds or Domains; bring numbers.
+**Fails against** · A broken line of sight; a Fate-keyed ward, which severs it by reading its shape; a Sleep Debt never paid under sustained pressure; minds trained to refuse the tempo; a construct or husk; crowds or Domains; numbers.
 **Look up** · The Limina terrain; Oneirion's failures; Memory Shear and Sleep Debt among Core costs; Fate-keyed wards in the Counterplay register; the Glory Stage table and the A and S Grade reaction rows.

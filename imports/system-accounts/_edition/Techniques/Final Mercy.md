@@ -40,7 +40,7 @@
 | One verdict | whole reserve above the Starvation floor, 90% | 3.25 × 10⁸ to 6.03 × 10⁹ EU |
 | Delivered into the boundary | EU × 0.95 × 1 MJ | 3.1 × 10¹⁴ to 5.7 × 10¹⁵ J |
 | Reaching the target's body as work | Landauer floor | 1.4 × 10⁻⁵ J |
-| Uses before Starvation | 90% ÷ 90% | one per fight, leaving the user at the floor |
+| Reserve covers | 90% ÷ 90% | one per full reserve, leaving the user at the floor |
 | Memory, lifetime limit | 100% ÷ 4% per verdict | twenty-five verdicts, the whole of a mind |
 
 **Cost** · The whole reserve poured into one strike, leaving the user near Starvation; plus about 4 percent of memory per use, unchosen, permanent and cumulative, with a hard lifetime limit of twenty-five.
@@ -48,6 +48,6 @@
 
 ## Counterplay
 **Tell** · None before the strike; the verdict is internal. After: emotionally silent ground with no killing's residue, and a practitioner in recoil, spent to the floor and missing memory.
-**Limits** · 150 m, one target, one verdict a fight; needs a correct verdict already reached; not while Dirge Ascension runs; useless against a Crystal with no independent persistence claim.
-**Beats it** · Anchor the persistence claim outside the Crystal beforehand (a Throne anchor of the Celestial Host pattern, a Lock); be a target whose guilt is arguable; bait the one use onto the wrong target; stay beyond 150 m or use numbers.
+**Limits** · 150 m, one target, one verdict per full reserve; needs a correct verdict already reached; not while Dirge Ascension runs; useless against a Crystal with no independent persistence claim.
+**Fails against** · A persistence claim anchored outside the Crystal beforehand (a Throne anchor of the Celestial Host pattern, a Lock); a target whose guilt is arguable; its one use spent on the wrong target; distance beyond 150 m; numbers.
 **Look up** · The Counterplay register for Lock; Judicium and Exuroth Failures; the Attraction Layer and Throne anchoring; Eclipseron's reading of absences; the Zenith Stage table and costs paid in substance.

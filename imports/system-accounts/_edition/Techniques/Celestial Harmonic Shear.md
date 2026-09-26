@@ -41,7 +41,7 @@
 |---|---|---|
 | Cost | set share | 5% of reserve, 9.5 × 10⁵ to 1.76 × 10⁷ EU |
 | Delivered drive | × η 0.85 to 0.90 | 0.80 to 15.8 TJ |
-| Uses before Starvation | 90% ÷ 5% | eighteen from full |
+| Reserve covers | 90% ÷ 5% | eighteen from full |
 
 **Cost** · A set five percent of full reserve a cut, so every Emanation caster gets the same eighteen; each large cut also brings vertigo, tone-deafness and a backlash across every harmonisation held.
 **Duration** · Instant, within one turn; the cracks ring for a few seconds.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · One hand up and one slow line drawn: the gesture fixes the seam's place and length before it exists, so a watcher knows where not to stand. Afterwards the seam rings a few seconds, then lies silent.
 **Limits** · 300 m, line of sight, one line up to 100 m, one full Shear per activation; nothing at or above the caster's Stage, nothing outside harmonic physics, nothing with contradictory tones.
-**Beats it** · Dense fog, boiled leather, fired clay and shielded rooms; a Cymorath-type silence field; hold several contradictory frequencies (Fractura beings, dream-entities, shapeshifters, Eidolyn or Oneirion disguise); spread out, since one line kills one thing; reach the caster's Stage.
+**Fails against** · Dense fog, boiled leather, fired clay and shielded rooms; a Cymorath-type silence field; several contradictory frequencies held at once (Fractura beings, dream-entities, shapeshifters, Eidolyn or Oneirion disguise); spread targets, since one line kills one thing; anyone at the caster's Stage.
 **Look up** · The Fulguria terrain and counter-kit; Orrenthal, Basilithe and Dissolution failures; Tempering Capacity; Shell Clouding; the Emanation Stage table and the Path gates for Penetration and Breadth.

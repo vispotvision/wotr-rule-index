@@ -41,13 +41,13 @@
 | Laying the film | 5% of reserve | 2,590 to 48,050 EU |
 | Holding it | 1.5% of reserve per turn | 777 to 14,415 EU per 6 s |
 | Cost, one full Suffusion | 5% + 4 × 1.5% | 11% of reserve, 24 s |
-| Uses before Starvation | 90% ÷ 11% | about eight |
+| Reserve covers | 90% ÷ 11% | about eight |
 
 **Cost** · Five percent of full reserve to lay and 1.5 percent a turn to hold, plus the caster's own memories for the duration.
 **Duration** · Four turns, 24 s; the film stays until drawn back or dry.
 
 ## Counterplay
-**Tell** · A dark film crossing the ground, black from every angle but your own, with a visible edge and a slow front; the caster stands in the middle and cannot step out without ending it. Afterwards the floor stays faintly glassy.
+**Tell** · A dark film crossing the ground, black from every angle but one's own, with a visible edge and a slow front; the caster stands in the middle and cannot step out without ending it. Afterwards the floor stays faintly glassy.
 **Limits** · 12 to 15 m, four turns, the ±20 to 30° cone; an empty or sealed mind sees only glass; it fails on a target who recognises the silhouette; crowds suppress it.
-**Beats it** · Read the image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; fight in crowds; Absolution empties the traps; Luminalis leaves nothing to return; silence the anchor; stay off the glass and shoot.
+**Fails against** · A read image: a memory has the wrong spectrum for a body (Judicium), and recognition un-splits attention; crowds; Absolution, which empties the traps; Luminalis, which leaves nothing to return; a silenced anchor; shot from off the glass.
 **Look up** · The Iridescent Archive's entry for this working; the Limina entries for Oblivara and Anamnesis Failures; Judicium, Absolution and Luminalis; the Glory Stage table and the Attraction gates.

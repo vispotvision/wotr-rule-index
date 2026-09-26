@@ -16,7 +16,7 @@
 | Latency 1 ms, 200 µs, 50 µs | clean to 0.0159 ÷ δt; sign flip at 0.167 ÷ δt | 16 / 167 Hz, 80 / 833 Hz, 318 Hz / 3.3 kHz |
 
 ## Metaphysics
-**Aether** · Limina for both Wellsprings, suppressed by crowds, saturated Aether and active Domains, which is where fights happen, so it pays its terrain penalty at work. The residual leaves Resonance at the collision point that deafens Harmonists.
+**Aether** · Limina for both Wellsprings, suppressed by crowds, saturated Aether and active Domains, the ground it most often works on, so it pays its terrain penalty in use. The residual leaves Resonance at the collision point that deafens Harmonists.
 **Wellspring** · Oneirion, the Wellspring of Dream (Limina): acting on a working's trajectory holds its whole structure as one object, the right law for a record and the wrong one for a collision in a room.
 **Wellspring** · Mirithane, the Wellspring of Reflection (Limina): a phase-conjugate mirror sends a wave back along its own path, so the answer finds the caster the way the caster found the practitioner.
 **Inherited failures** · Oneirion's projection error is the phase error in the register's words, the echo's standing fracture; Mirithane's mirror does not discriminate, so every answer carries the practitioner's own condition back to the caster.
@@ -42,13 +42,13 @@
 | Cost, reserve 300,000 EU, η 0.65 | 2% × 300,000 | 6,000 EU, 2.1 GJ bled |
 | Clean cancellation at latency 400 µs | 0.0159 ÷ 0.0004 s | up to 40 Hz |
 | Reinforcement at latency 400 µs | 0.167 ÷ 0.0004 s | above 418 Hz |
-| Uses before Starvation | 90% ÷ 2% | 45, one memory slot each |
+| Reserve covers | 90% ÷ 2% | 45, one memory slot each |
 
 **Cost** · Two percent of full reserve and one memory slot per use, leaving a blank in recent memory, then a paroxysmal Aether surge that addles the practitioner for a moment; the joules of the collision stay the caster's.
 **Duration** · Instantaneous; range up to one kilometre, line of sight, the causality budget.
 
 ## Counterplay
-**Tell** · A book raised and held open before the incoming working arrives, and an imprint that visibly takes time; afterwards a few seconds of blankness, like someone who lost the thread. The imprint warns, the blankness is the window.
+**Tell** · A book raised and held open before the incoming working arrives, and an imprint that visibly takes time; afterwards a few seconds of blankness, like someone who lost the thread. The imprint is the warning; the blankness follows every catch.
 **Limits** · Needs a signature; answers only a working in flight; misses anything finished before the imprint; overloads two Grades up; a faster practitioner raises the crossover but never removes it.
-**Beats it** · Knock the Codex away or damage it; shoot; be quick and sharp so it comes back reinforced; close to contact range; fight in crowds and Domains; cast what you can survive receiving; force it again and again to spend slots.
+**Fails against** · A Codex knocked away or damaged; shot; quick, sharp workings (they come back reinforced); contact range; crowds and Domains; workings the caster can survive receiving back; repeated triggering, which spends slots.
 **Look up** · The Limina entries for Oneirion and Mirithane and their Failures; Runecraft and its substrates; Gnosis Retention; the Glory Stage table and the Grade reaction speeds.

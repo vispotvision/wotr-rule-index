@@ -19,7 +19,7 @@
 **Wellspring** · Fractura, the Breaking Point (Vectoria): everything fails at a pre-existing flaw; a flaw population is a spread of where a thing will fail, and it gives sight of the branches.
 **Wellspring** · Tenebra, the Hidden Shadow (Limina): a thing is unseen when its return falls below the noise floor; it cancels the signal of the branches not chosen.
 **Secondary** · Oneirion, Penance, Petralon, Orrenthal, Tarturon, Cataclysm and Dissolution.
-**Inherited failures** · Basilithe's resonant catastrophe cannot detune from a matching force, which is the overload counter; Fractura's self-inspection is Harmonic Divergence, seeing one's own possible selves at once; Tenebra's aspect dependence shines from the one unplanned direction. Opponents can induce any of them.
+**Inherited failures** · Basilithe's resonant catastrophe cannot detune from a matching force, which is the overload counter; Fractura's self-inspection is Harmonic Divergence, seeing one's own possible selves at once; Tenebra's aspect dependence shines from the one unplanned direction. Any of them can be induced from outside.
 **Theory** · Correspondence against Consent as a question of evidence: whether the preferred branch is a fact about the world or about the practitioner, nobody has found a case that tells them apart.
 **Essence** · The Attraction Layer: selecting outcomes is Fate-Plane recognition work, and its failure state, Obsession Force, threatens exactly the one who cannot stop selecting. Developmental Tier is Sovereign. The invoice is Harmonic Divergence and Structural Fatigue, fractures in the practitioner's law-harmonics.
 **School** · A school of natural theology holds the world was selected among compossible worlds, which rightly bars a branch incompatible with the rest; it also believes selection is not causal and cannot be interfered with, and holds the Veil one exchange too long.
@@ -45,7 +45,7 @@
 | Cost, holding | 1% of full reserve per turn | per turn |
 | Cost, selection against resistance | 1 to 3% of full reserve | more the less likely the branch |
 | Five turns held, three contested selections | 5% + 5 × 1% + 3 × 2% | 16% of reserve |
-| Uses before Starvation | 90% ÷ 16% | 5 such engagements |
+| Reserve covers | 90% ÷ 16% | 5 such castings |
 
 **Cost** · Five percent of full reserve to raise, one a turn to hold, one to three per contested selection, then Harmonic Divergence and Structural Fatigue that need meditation or a Penance-aligned rite, since Penance hardens at the site of prior failure.
 **Duration** · Until the first working it was committed to ends, turn by six-second turn.
@@ -53,7 +53,7 @@
 ## Counterplay
 **Tell** · One slow parting gesture, then a thin prismatic sheet standing between the practitioner and what they select for; afterwards a district where certain things did not happen.
 **Limits** · Sixty metres, line of sight, one region; never stabilise and destabilise one space at once; no branch that was not possible; no outright override of a peer Emanation will, only distortion of a weaker harmonic.
-**Beats it** · Flatten the distribution with a Null-Law field or Silence; fight over open water, at altitude or on a moving deck; overload it with more concurrent states than it can hold, a Knot; be a pure Basilithe construct or force through with Petralon mass; corrupt the choice.
-**Contradiction** · Make the practitioner want stabilisation and destabilisation in one place at one moment; they can have only one.
+**Fails against** · A distribution flattened by a Null-Law field or Silence; open water, altitude or a moving deck; more concurrent states than it can hold, a Knot; a pure Basilithe construct, or Petralon mass forced through; a corrupted choice.
+**Contradiction** · It cannot stabilise and destabilise one place at one moment; a practitioner wanting both gets only one.
 **Body** · The practitioner stands at the far end of a plane they must keep in sight; distance and numbers do not care which branch they prefer.
 **Look up** · The Counterplay register for Lock and Knot; the Materia, Vectoria and Limina Failures; Null-Law fields and the Silence Realm register; Eclipseron's reading of absences; SSS in the Grade bands; the Emanation Stage table and Attraction Path gates.

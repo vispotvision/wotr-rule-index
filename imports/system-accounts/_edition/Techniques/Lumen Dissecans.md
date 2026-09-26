@@ -36,7 +36,7 @@
 |---|---|---|
 | Holding the beam | 2% of reserve per turn | 1,036 to 19,220 EU per 6 s |
 | Cost, one full dissection | 2 turns × 2% | 4% of reserve, 12 s |
-| Uses before Starvation | 90% ÷ 4% | about twenty |
+| Reserve covers | 90% ÷ 4% | about twenty |
 
 **Cost** · Two percent of full reserve each turn and a fifth of output rate while the beam holds, plus afterimages.
 **Duration** · One to two turns, 6 to 12 s, ending when the beam is released.
@@ -45,5 +45,5 @@
 ## Counterplay
 **Tell** · A sigil over one eye, a declared cast, a narrow glaring beam from a still figure at a known bearing, and the target's working hanging open in the air; afterwards the practitioner glances at lattices that are not there.
 **Limits** · Only a working in progress, one per activation, 500 m, line of sight, one to two turns; finished and instant effects show nothing.
-**Beats it** · A lattice built to scramble itself (Knot); a mirror that turns the beam back; fog, shielding and Void-aligned constructs; resolve in closed bursts or phase-shifted workings; bait the codex, a book that can be damaged.
+**Fails against** · A lattice built to scramble itself (Knot); a mirror that turns the beam back; fog, shielding and Void-aligned constructs; workings resolved in closed bursts or phase-shifted; damage to the codex, a book that can be damaged.
 **Look up** · The Counterplay register for Knot; the Fulguria entries for Judicium and Aurevane Failures; Abyntheus's decoherence; the Glory Stage table and the Spirit gates for Gnosis.

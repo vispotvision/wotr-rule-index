@@ -36,8 +36,8 @@
 |---|---|---|
 | Cost, one named target | 6 to 8% of reserve | 3,110 to 76,900 EU, one turn |
 | Cost, space or domain-scale target | 10 to 12% of reserve | 5,180 to 115,000 EU, one turn |
-| Uses before Starvation, named | 90% ÷ 6 to 8% | eleven to fifteen |
-| Uses before Starvation, domain-scale | 90% ÷ 10 to 12% | seven to nine |
+| Reserve covers, named | 90% ÷ 6 to 8% | eleven to fifteen |
+| Reserve covers, domain-scale | 90% ÷ 10 to 12% | seven to nine |
 | Upkeep of every standing Edict | lossless hold | none |
 
 **Cost** · A share of full reserve, all in the turn the sentence closes; the other half of the price is clarity of soul, paid through Echo Reversal.
@@ -47,5 +47,5 @@
 ## Counterplay
 **Tell** · A name and a condition said aloud before witnesses, with all the bleed in that one turn; the target hears it whole and can act during it. After, the bound target carries a legible condition, or visibly does not.
 **Limits** · Only targets the speaker lawfully outranks; one condition at one boundary; public and attributable; a landed Edict cannot be stopped, only lifted.
-**Beats it** · A hand over the speaker's mouth; a Lock placed beforehand; outrank the speaker; force the seal early to bill them; shield or fog the target to mis-locate the edge; wait for a judge who has stopped believing their bench.
+**Fails against** · A hand over the speaker's mouth; a Lock placed beforehand; a target who outranks the speaker; a seal forced early, which bills the speaker; shielding or fog that mis-locates the edge; a judge who has stopped believing their bench.
 **Look up** · The Judicium entry and Fulguria's terrain; the Lock glyph in the Counterplay register; the Fate and Attraction Path gates for Sovereignty and Command; the Consent Doctrine; the Refraction Stage table.

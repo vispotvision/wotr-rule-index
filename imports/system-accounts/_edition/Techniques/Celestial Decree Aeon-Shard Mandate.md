@@ -46,8 +46,8 @@
 | Cost, Worldbind Bastion | funds an uphill process | 12% of reserve, delivers 1.9 to 38 TJ |
 | Cost, Dreamveil Cascade | touches nothing physical | 3% of reserve, delivers 0.48 to 9.5 TJ |
 | Harmonic Drain | holding the lock | 2% of reserve per turn |
-| Uses before Starvation | 90% ÷ (12% + 4 × 2%) | four and a half Bastions held four turns |
-| Uses before Starvation, Vector | 90% ÷ (5% + 2 × 2%) | ten Vectors held two turns |
+| Reserve covers | 90% ÷ (12% + 4 × 2%) | four and a half Bastions held four turns |
+| Reserve covers, Vector | 90% ÷ (5% + 2 × 2%) | ten Vectors held two turns |
 
 **Cost** · Healing and mending always cost more than breaking: the Vector's yield comes from the target and can run up the SSS band, while the Bastion rebuilds only up to the energy it pays and nothing beyond.
 **Duration** · The lock holds turn by turn at 2 percent each; every turn held is also a turn of Identity Bleed.
@@ -55,5 +55,5 @@
 ## Counterplay
 **Tell** · A raised hand, light falling inward and shadow crystallising outward, and a turning shard; the first face shown is the one committed. Afterwards the ground says which: uniform, restored past its history, or untouched.
 **Limits** · One face at a time at scale; no overwrite of a peer without harmonic superiority; no effect on anyone at the caster's Stage or higher; no creation of soul; Worldbind 5 to 50 m; autonomy only briefly.
-**Beats it** · A prepared weaker side can win: hold crowded, Aether-rich or Domain-held ground; outlast the lock; split the crowd so the caster must choose destruction or restoration openly; detune the reference; Silence it; Knot or Lock the ten paths; strike the ordinary body behind the hand.
+**Fails against** · Crowded, Aether-rich or Domain-held ground; the end of the lock; a split crowd, which forces an open choice of destruction or restoration; a detuned reference; Silence; Knot or Lock on the ten paths; harm to the ordinary body behind the hand; none of which needs the stronger side.
 **Look up** · Silence, Knot and Lock in the Counterplay register; the Limina terrain; the Dissolution, Orrenthal, Tarturon, Basilithe, Petralon, Oneirion and Tenebra failures; Shear Break and Identity Bleed; the Emanation Stage table and the SSS Grade row.

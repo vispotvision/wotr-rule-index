@@ -45,18 +45,18 @@
 |---|---|---|
 | Listening to Starvation | 90% ÷ 0.5% per turn | 180 turns, 18 minutes |
 | Cost, therapy session of five turns | 5 × 2% | 10% of reserve |
-| Uses before Starvation, therapy | 90% ÷ 10% | nine |
+| Reserve covers, therapy | 90% ÷ 10% | nine |
 | Cost, surgery of six turns | 6 × 5% | 30% of reserve |
-| Uses before Starvation, surgery | 90% ÷ 30% | three, the third ending on the floor |
+| Reserve covers, surgery | 90% ÷ 30% | three, the third ending on the floor |
 
 **Cost** · Every turn of held quiet costs 0.5 percent of full reserve, so long surveillance or negotiation runs the Harmonist dry; projection pays for keeping the reference coherent, not for the energy that arrives.
 **Duration** · Listening lasts as long as the reserve pays, up to 180 turns; a therapy session runs about five turns (30 s), a surgery about six (36 s).
 **Contest** · A projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability; losing by a full Grade puts Echo Fracture on the table.
 
 ## Counterplay
-**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside yours and your Crystal drifting to it. Afterwards, a worked Crystal carries the trace.
+**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside the subject's own and the subject's Crystal drifting to it. Afterwards, a worked Crystal carries the trace.
 **Limits** · It produces no force and no ward; therapy needs a cooperative or out-contested patient; nothing hidden below the noise floor can be read.
-**Beats it** · Be loud (a drum line, thick Veil, Residue-heavy ground); harden with Basilithe or Resilience Hardening; carry spurious lines with Knot; hide with Tenebra or Suppression; shoot the still Harmonist; make them hold the quiet long.
-**Consent** · Unconsented manipulation is punishable under sacred law, so a Harmonist caught at it, or framed for it, hands the opponent a prosecution.
+**Fails against** · Loud surroundings (a drum line, thick Veil, Residue-heavy ground); a Crystal hardened with Basilithe or Resilience Hardening; spurious lines carried with Knot; concealment by Tenebra or Suppression; harm to the still Harmonist; a quiet held long.
+**Consent** · Unconsented manipulation is punishable under sacred law, so a Harmonist caught at it, or framed for it, is open to prosecution.
 **Basilithe** · A hardened frequency cannot be retuned, but it cannot be detuned away from a forcing that matches it either; a lucky guess ruins the subject.
 **Look up** · The Wellspring entries for Mirithane, Tenebra and Basilithe; the Sub-Stat register for Harmonics Attunement, Stability and Suppression and Resilience Hardening; the Knot glyph; the Refraction, Invocation and Dissonance Stage tables.

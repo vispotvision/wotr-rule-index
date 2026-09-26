@@ -38,7 +38,7 @@
 |---|---|---|
 | Each turn sung | 3% of reserve | 1,550 to 28,800 EU |
 | Cost, one full hymn | four turns × 3% | 12% of reserve |
-| Uses before Starvation | 90% ÷ 12% | seven hymns, the eighth into the floor |
+| Reserve covers | 90% ÷ 12% | seven hymns, the eighth into the floor |
 | Singing before Starvation | seven × 24 s | about 168 s, twenty-eight turns |
 
 **Cost** · 3 percent of full reserve each six-second turn sung; the reserve pays for the rate boundary, not the tissue.
@@ -48,5 +48,5 @@
 ## Counterplay
 **Tell** · Someone singing without stopping; it cannot be hidden, because the hymn is the working. Afterwards, the bloom in the ground and patients warm to the touch.
 **Limits** · Thirty metres, four turns a hymn, unbroken voice, gradual, no limbs restored, Essence lines halted not reversed, needs living tissue nearby, healed tissue capped at B.
-**Beats it** · Stop the voice for one breath (noise, gag, grapple, throat); fight on stone, ash or burned ground; corrupt the healing with a Mortalis current; read the singer's exposed feelings; volley a known, stationary position.
+**Fails against** · A voice stopped for one breath (noise, gag, grapple, throat); stone, ash or burned ground; a Mortalis current corrupting the healing; the singer's exposed feelings, open to reading; a volley on its known, stationary position.
 **Look up** · Verdantia's etiolation in the Vitalia entries; Mortalis's law of cessation; Inherited Traits, Lineage Strain and Overgrowth; the Glory Stage table; Vitalia's suppressors.

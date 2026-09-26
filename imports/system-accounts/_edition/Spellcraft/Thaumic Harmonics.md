@@ -45,7 +45,7 @@
 | Cost, a read | 0.5% of full reserve | under 2 s |
 | Cost, Interference Lock | 3% of full reserve | 29,700 to 552,000 EU at Transcendence |
 | Cost, a supporting voice or ritual stabilisation | 1% of reserve per turn held | as long as the phase holds |
-| Uses before Starvation, locks | 90% ÷ 3% | 30 |
+| Reserve covers, locks | 90% ÷ 3% | 30 |
 
 **Cost** · Three percent of full reserve per lock, spent under a two-second clock; every lock that turns into Echo Fracture is paid twice.
 **Duration** · A master reads, analyses and counters in under two seconds, a third of a six-second turn; choir support and stabilisation last as long as the phase holds, turn by turn.
@@ -53,6 +53,6 @@
 ## Counterplay
 **Tell** · A second practitioner goes still, listens about a second, and sings one short note, aloud and directional below Refraction, silent above it; afterwards a working that failed to arrive and a trace with two frequency sets.
 **Limits** · It needs the casting window: a closed working is out of reach, a working without harmonic signature offers no grip, the read must finish before the cast, and a misread working is amplified.
-**Beats it** · Close in short bursts or force the Seal early on yourself; pre-claim your phase with Lock; stiffen with Basilithe; cast low-Q and broadband; fill the room with noise or work in a Thick Veil zone; present two workings with one figure.
-**Below hearing** · Workings hidden by Tenebra or Luminalis are too quiet for the branch to grip, a counter that can be bought.
+**Fails against** · Workings closed in short bursts, or Sealed early by their own caster; a phase pre-claimed with Lock; a Crystal stiffened with Basilithe; low-Q, broadband casting; a noisy room or a Thick Veil zone; two workings presenting one figure.
+**Below hearing** · Workings hidden by Tenebra or Luminalis are too quiet for the branch to grip.
 **Look up** · The Counterplay register for Lock and Knot; the Basilithe, Nihiloth, Aurevane, Tenebra and Luminalis entries; Veil thickness zones; the Glory, Transcendence and Realization Stage tables; the Spirit and Attraction Path gates.

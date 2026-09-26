@@ -40,7 +40,7 @@
 |---|---|---|
 | Cost, convening | 4% of reserve | 2,072 to 38,440 EU |
 | Cost, holding | 1% of reserve per turn | 518 to 9,610 EU per 6 s |
-| Uses before Starvation, two-turn Courts | 90% ÷ 6% | 15 |
+| Reserve covers, two-turn Courts | 90% ÷ 6% | 15 |
 | Continuous hold from one convening | (90% − 4%) ÷ 1% per turn | 86 turns, 516 s |
 
 **Cost** · The reserve is the lesser price; every convening also costs Identity Bleed and Dream Echo Fatigue, the same kind of damage it deals, by the same route.
@@ -49,6 +49,6 @@
 ## Counterplay
 **Tell** · First, a close reading and often a soft pressure of sleep in which nearby minds recall old things; then the target's own self standing up behind them, speaking; afterwards a target who cannot stop turning one thing over.
 **Limits** · 140 m; a live subconscious and a real gap; a prior reading; only while attention holds; a memory-null field denies it a template.
-**Beats it** · Have nothing hidden, a conduct choice anyone can make; a memory-null region or Lock; send Verdantia or Mortalis practitioners, who carry little gap; break the practitioner's focus; standing in front of the target does nothing.
-**Break the man** · Each Court moves the practitioner toward dissociation; know what cases they will not take, notice the drift, and wait.
+**Fails against** · A target with nothing hidden, a conduct choice anyone can make; a memory-null region or Lock; Verdantia or Mortalis practitioners, who carry little gap; a broken focus. A body standing in front of the target does nothing.
+**Drift** · Each Court moves the practitioner toward dissociation, and there are cases they will not take.
 **Look up** · The Counterplay register for Lock; the Verdantia and Mortalis entries; the Limina entries for Oneirion, Eidolyn and Hypnather Failures; the Refraction Stage table.

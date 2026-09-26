@@ -51,5 +51,5 @@
 ## Counterplay
 **Tell** · No chant, circle or gesture: the construct itself, visibly made of something its summoner will not own, erratic toward them, and a summoner burning gigawatts at the Shell. Afterwards, a scorched ring and one fewer unclosed fracture.
 **Limits** · It dies when the tether is severed; it cannot be made without a real unclosed fracture; dismissal is not guaranteed and may cost the raising again.
-**Beats it** · Silence severs the tether totally; wait out the sustain clock; learn which Stage the summoner survived badly and nick that one defect; or do nothing and let it turn on its maker. Trading blows only loads the strong skin.
+**Fails against** · Silence, which severs the tether totally; the end of the sustain clock; a nick in the one defect left by the Stage the summoner survived badly; its own turn on its maker. Traded blows only load the strong skin.
 **Look up** · The Eidolyn, Oblivara and Nihiloth entries and their failures; the Animatria tether and autonomy gates; the Silence Realm; Essence Starvation; the Transcendence and Realization Stage tables; the summoner's own history.

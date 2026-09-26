@@ -35,7 +35,7 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, personal-scale deposit | 15 to 30% of reserve | 7,770 to 288,000 EU; 75,000 to 150,000 at 500,000 |
-| Uses before Starvation | 90% ÷ 15 to 30% | three to six |
+| Reserve covers | 90% ÷ 15 to 30% | three to six |
 | Maximum reserve lost per deposit | Core fragment | 2%, permanent and cumulative |
 | Lifetime limit | 20 deposits × 2% | 40% of the Core; the next write Fractures it into Shards |
 | Waste in one turn, top of band | 288,000 × 0.40 ÷ 6 s | 19.2 GW; pain to 874 m, timber catching to 350 m |
@@ -48,5 +48,5 @@
 ## Counterplay
 **Tell** · At the write, a flare of heat and light shed at a charged moment, then silence. The deposit is Residue anyone patient can read; the maker has a history of charged moments in specific places, and that history is a document.
 **Limits** · It acts only when its waking condition is met; it cannot update itself; it dies with its tether.
-**Beats it** · Kill the maker, break the focus, or carry it into a Silence; read it carelessly to reset it; break, burn or heat the substrate; never meet the waking condition; count the maker's echoes and watch their Coherence fail.
+**Fails against** · Its maker's death; a broken focus; a Silence; a careless reading, which resets it; a broken, burned or heated substrate; a waking condition never met; the maker's Coherence, which fails with the count of echoes.
 **Look up** · The Anamnesis entry and its thermal resetting; the Animatria tether rules; the Silence Realm; the Glory Stage table; the Core's Fracture into Shards.

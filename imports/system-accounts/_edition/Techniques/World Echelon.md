@@ -42,7 +42,7 @@
 | Cost, hold per turn | 1.5% of full reserve | 5.42 × 10⁶ to 1.01 × 10⁸ EU per 6 s |
 | Cost, full session of eight turns | 6% + 8 × 1.5% | 18% of reserve |
 | Divided district | scales as 1 / g(0) | up to double the hold, or no lock |
-| Uses before Starvation | 90% ÷ 18% | five sessions |
+| Reserve covers | 90% ÷ 18% | five sessions |
 
 **Cost** · 6 percent of full reserve to convene and 1.5 percent each turn, more over a divided crowd.
 **Duration** · Eight turns, 48 seconds; the district then keeps the court's time at least as long as the lock took to form, longer near threshold.
@@ -51,5 +51,5 @@
 ## Counterplay
 **Tell** · A declaration aloud, then a district breathing together; afterwards a crowd moving as one too long and Harmonists gone deaf to all but the court's beat.
 **Limits** · No partial court, no lock over a divided crowd, nothing past 5 km, nothing beyond eight turns, never alongside Dirge Ascension.
-**Beats it** · Silence; leather, clay, fog and shutters; be divided; detune past the locking range; sit on the court's phase; Knot and Lock on its one limit; a Sovereign Spirit Domain or a Catharsis or Benediction Empathy field; read the seam; outlast eight turns; strike the practitioner, a node in his own court.
+**Fails against** · Silence; leather, clay, fog and shutters; a divided crowd; detuning past the locking range; a phase sitting on the court's own; Knot and Lock on its one limit; a Sovereign Spirit Domain or a Catharsis or Benediction Empathy field; a read seam; the end of eight turns; harm to the practitioner, a node in his own court.
 **Look up** · The Fulguria favour list; the Judicium Failure and the Heresiology's injury entries; Silence, Knot and Lock in the Counterplay register; the saturation rule; the Zenith Stage table.

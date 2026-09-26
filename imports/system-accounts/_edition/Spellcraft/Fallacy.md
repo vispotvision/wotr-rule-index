@@ -50,7 +50,7 @@
 | Cost, local, ten turns (60 s) | 5% + 10 × 0.5% | 10% of reserve |
 | Cost, path-scale, ten turns | 15% + 10 × 1% | 25% of reserve |
 | Cost, domain-scale, ten turns | 40% + 10 × 2% | 60% of reserve |
-| Uses before Starvation, path-scale | 90% ÷ 25% | three, the fourth unfinished |
+| Reserve covers, path-scale | 90% ÷ 25% | three, the fourth unfinished |
 | Domain-scale hold after filing | (90% − 40%) ÷ 2% per turn | 25 turns, 2 min 30 s |
 | Domain-scale, Seal forced early | offset deducted again | 80% in all; Starvation within five turns of hold |
 
@@ -60,7 +60,7 @@
 ## Counterplay
 **Tell** · The region is too quiet: laws that should report are silent, paths that should strain do not. Beside it a practitioner sheds heat and holds very still; afterwards, structures at the wrong height and a lasting scar.
 **Limits** · No Fallacy is permanent; an instrument calibrated elsewhere sees it, and once one arrives the working has seconds.
-**Beats it** · Lock the clause beforehand (Knot is weaker); force the Seal to bill the whole offset; bring Judicium's outside standard; guard the subject with Oblivara; make the practitioner hold it through a fight.
+**Fails against** · A Lock on the clause beforehand (Knot is weaker); a forced Seal, which bills the whole offset; Judicium's outside standard; Oblivara guarding the subject; a hold that must last, which drains the practitioner turn by turn.
 **Seal** · A false axiom is a warrant overstating standing by construction, so an early close deducts the whole offset from the speaker; the larger the lie, the larger the bill.
 **Judicium** · Every element shows only its own spectrum, so a reader names a lie by its signature; the price is spectral overload, a minute of uselessness.
 **Oblivara** · A redundantly encoded identity rebuilds its alignment from its own copies; past the correction limit the rebuild is confident, complete and wrong.

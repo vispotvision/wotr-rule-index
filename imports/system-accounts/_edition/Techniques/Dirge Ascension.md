@@ -40,7 +40,7 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost | 1.26 × 10⁸ EU per ascension | 35% of reserve at the band's floor, 1.9% at its ceiling |
-| Uses before Starvation | 90% ÷ share | 2.6 at the floor, 47 at the ceiling |
+| Reserve covers | 90% ÷ share | 2.6 at the floor, 47 at the ceiling |
 | Crystal mass | 1% per use, permanent | a lifetime limit of 100 uses |
 | Delivered | 2.8 TW × η | 2.66 to 3.36 TW |
 
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · The practitioner commits totally and a kilometre of the world changes weight; nothing about it is quiet. Afterwards the practitioner is in recoil and the ground rings out of tune.
 **Limits** · Forty-five seconds, one kilometre with self at the centre, never alongside World Echelon, Sovereignty held at A.
-**Beats it** · A prepared weaker side can win: outlast the counted window and fight the recoil; force wasted ascensions with feints; divide the crowd; detune the Wellsprings with fog, cold or shielding; Silence, Knot or Lock; take Aether-dead ground; strike the body in recoil. An Archonic mandate or Talos-class Nihiloth null outranks it.
+**Fails against** · The end of the counted window and the recoil after it; feints that waste ascensions; a divided crowd; Wellsprings detuned by fog, cold or shielding; Silence, Knot or Lock; Aether-dead ground; harm to the body in recoil; none of which needs the stronger side. An Archonic mandate or Talos-class Nihiloth null outranks it.
 **Look up** · Silence, Knot and Lock in the Counterplay register; Exuroth, Catharsis and Judicium failures; the Caloria and Fulguria terrain; Aetheric Saturation; the Path gates for Sovereignty; the Zenith Stage table and the EX Grade row.

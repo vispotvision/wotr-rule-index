@@ -15,7 +15,7 @@
 **Aether** · Draw on ambient Aether across the whole sphere, a field working. The Residue is the lattice itself, the most legible residue there is, deafening Harmonists long after; a Locus written on ground near saturation risks a Crystal Fracture Event for everyone inside.
 **Ground** · Spatium favours Veil-thin zones, Realmgates and surveyed ground; Warp scarring, contested Domains and unmapped terrain suppress it.
 **Wellspring** · Transference, the Living Exchange (Spatium): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance; here the practitioner tunes the Attraction Layer to the ground.
-**Inherited failures** · Transference's reverse coupling runs both ways: the Anchoring Debt is that failure with the site as the depleted ally, and opponents can induce it.
+**Inherited failures** · Transference's reverse coupling runs both ways: the Anchoring Debt is that failure with the site as the depleted ally, and it can be induced from outside.
 **Theory** · The Consent Doctrine: the lattice asks nothing of the current beyond lawful recognition of a boundary, as a river recognises a channel, which makes the working licensable.
 **Essence** · The Attraction Layer is the oscillator, expressed through the Shell. Developmental Tier is Resonant at the floor, Radiant at Transcendence, where territorial durability makes a sixty-metre claim hold well. The invoice is Geometric Fatigue (Tempering Clarity) and Anchoring Debt (Attraction Layer).
 **School** · The Collegium faculty of Causes reads the Locus as pure form on worthless matter, and the Debt as the mover unable to walk out of its own form; a rival school expects the lattice to read intent, but it reads trajectory only.
@@ -39,7 +39,7 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, write and hold | 8% of full reserve | 4,144 to 76,880 EU at the floor |
-| Uses before Starvation | 90% ÷ 8% | 11, before any Anchoring Debt |
+| Reserve covers | 90% ÷ 8% | 11, before any Anchoring Debt |
 | Waste at η 0.65 | 0.35 × 8% | 2.8% of reserve, shed into the sphere |
 | Absorption ceiling | top of the A-Grade band | 4.184 × 10¹² J; above it the lattice is overwhelmed |
 
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · The practitioner must stop, kneel and write in the open on the ground to be held, before the first hostile line crosses it, so everyone sees where the centre will be; afterwards written ground, long legible, and a practitioner still tied to it.
 **Limits** · Sixty metres, five turns, immovable, overwritten by a second Locus, a finite set of vectors, overwhelmed above the A-Grade band.
-**Beats it** · Deny the writer the turn or damage the written substrate; attack strangely (underground, mentally, straight down a chimney); fight on unmapped or Warp-scarred ground; overwhelm it above A; collect the Anchoring Debt on the way out.
+**Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
 **Look up** · The Spatium entry for Transference's Failure; Spatium's favoured and suppressive ground; the Runecraft counters for written workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.

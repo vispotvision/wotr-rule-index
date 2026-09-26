@@ -39,10 +39,10 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, raising the mist, cold air | 4% of reserve | 2,070 to 38,400 EU |
-| Cost, raising the mist, warm air | 7.5 × 4% | 30% of reserve, not worth paying |
+| Cost, raising the mist, warm air | 7.5 × 4% | 30% of reserve |
 | Holding | 1% of reserve per turn | 518 to 9,610 EU |
 | Cost, ten turns in cold air | 4% + 10 × 1% | 14% of reserve |
-| Uses before Starvation | 90% ÷ (4% + 3 × 1%) | about twelve mists held three turns |
+| Reserve covers | 90% ÷ (4% + 3 × 1%) | about twelve mists held three turns |
 
 **Cost** · 4 percent of full reserve to raise in cold air, then 1 percent each six-second turn held; plus lung strain.
 **Duration** · While the exhale is held and the air stays cold; ten turns is 60 seconds.
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · A cold cloud fifteen metres across, hugging the ground where the air was clear; the practitioner is inside it. Afterwards, rime and air that smells of nothing.
 **Limits** · Needs cold air, fifteen metres, sight unaffected, held through the exhale, overwhelmed by a warm or radiant Domain, Essence-trace suppression capped at B on the Body Path; it conceals and stops nothing.
-**Beats it** · Fight warm: a heated room, fire, a radiant Domain or a thermal-inversion field; hunt by chorus or spirit sense, or simply by eye; volley the cloud; force it again and again in one night until the lungs fail.
+**Fails against** · Warmth: a heated room, fire, a radiant Domain or a thermal-inversion field; tracking by chorus or spirit sense, or simply by eye; a volley into the cloud; repeated raisings in one night, until the lungs fail.
 **Look up** · Tenebra's aspect dependence in the Limina entries; Vohrin among the Caloria entries and the Titans; Caloria's suppressors; Vitality Tolerance; the Glory Stage table and the Dexterity gates.

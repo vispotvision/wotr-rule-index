@@ -25,7 +25,7 @@ None of this is printed. It shapes the first turn.
 
 ## Turn shape
 
-300 to 700 words. Answer exactly what he did. The NPC responds as a person
+About 3,500 words (R48-28), lush throughout. Answer exactly what he did. The NPC responds as a person
 with a want: they can refuse, lie, bargain, walk out. Move one thing in the
 world he did not cause. Stop at his next decision, on an NPC line, a physical
 action, or a thing he can now see. Never a question aimed at him out of

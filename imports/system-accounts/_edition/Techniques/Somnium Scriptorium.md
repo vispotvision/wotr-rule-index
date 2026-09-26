@@ -40,7 +40,7 @@
 |---|---|---|
 | Cost | 1% of full reserve a turn × 3 turns | 3% of reserve |
 | Cost, reserve 9.04 × 10⁶ EU, η 0.70 | 3% × 9.04 × 10⁶ | 271,000 EU, shed at 4.5 GW for three turns |
-| Uses before Starvation | 90% ÷ 3% | 30 |
+| Reserve covers | 90% ÷ 3% | 30 |
 
 **Cost** · One percent of full reserve each turn held, plus a half-beat of lag in the room, faster exhaustion than either space alone, and fragments of the target's fear or grief carried home.
 **Duration** · Eighteen seconds, three turns; range 200 metres, line of sight, one named target.
@@ -48,7 +48,7 @@
 ## Counterplay
 **Tell** · The practitioner says the target's name aloud; the target stands upright, breathing and absent for three turns; the practitioner glows and lags half a beat. Afterwards a conversation too long for the time, or no sign at all, the easier to miss.
 **Limits** · It traps and questions but cannot rewrite a personality; a strong will resists it and a fractured mind distorts what it yields; three turns, 200 metres, line of sight.
-**Beats it** · Cover the mouth before the name ends or strike the practitioner to open the seal; Knot the target's path or Lock the anchor first; set a ward against forced relocation; an ally breaks in mid-transfer; keep the practitioner in crowds and in Domains.
-**Half-beat** · While the chamber stands the practitioner is late to everything in the room, an opening while it runs; and the first use shows the working to a survivor for the second.
-**Wards** · A ward is Runecraft on a substrate and is beaten by chiselling the substrate, not by argument.
+**Fails against** · A covered mouth before the name ends, or a blow to the practitioner, which opens the seal; the target's path Knotted or the anchor Locked first; a ward against forced relocation; an ally breaking in mid-transfer; crowds and Domains around the practitioner.
+**Half-beat** · While the chamber stands the practitioner is late to everything in the room; and the first use shows the working to any survivor.
+**Wards** · A ward is Runecraft on a substrate and fails when its substrate is chiselled, never by argument.
 **Look up** · The Limina entries for Oneirion and Eidolyn and their Failures; the Claustra seals; the Counterplay register for Lock, Knot and wards; the Refraction and Transcendence Stage tables.

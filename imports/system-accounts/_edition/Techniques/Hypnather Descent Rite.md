@@ -42,7 +42,7 @@
 | Establishing the descent | 5% of reserve | 2,590 to 48,050 EU |
 | Holding it | 1.5% of reserve per turn | 777 to 14,415 EU per 6 s |
 | Cost, four turns held | 5% + 4 × 1.5% | 11% of reserve, 24 s |
-| Uses before Starvation | 90% ÷ 11% | about eight |
+| Reserve covers | 90% ÷ 11% | about eight |
 
 **Cost** · Five percent of full reserve to establish, then 1.5 percent each six-second turn held, plus Sleep Debt and the risk of Memory Backlash.
 **Duration** · Held while sight and attention hold, typically four turns (24 s); the heaviness lingers about 100 s, seventeen turns, after release.
@@ -50,6 +50,6 @@
 ## Counterplay
 **Tell** · The practitioner fixes on one person inside 60 m and does nothing else while the rite runs; afterwards the target's Crystal reads worse ordered, and the practitioner is tired in a way sleep does not fix.
 **Limits** · Sixty metres, line of sight held throughout, sustained attention, and a target with a biological consciousness capable of genuine rest: no constructs, no undead.
-**Beats it** · A hard shock, from pain or an ally's blow, breaks quiescence before the lock takes; smoke, cover or a body in the sightline makes it miss; send constructs first; loud, crowded, saturated ground starves Limina.
-**Preparation** · A strong Spirit Path Crystal resists the hijacked trajectory, and Verdantia's regenerative pressure can outpace the lock before it sets; both must be chosen before contact.
+**Fails against** · A hard shock, from pain or an ally's blow, which breaks quiescence before the lock takes; smoke, cover or a body in the sightline, which makes it miss; constructs; loud, crowded, saturated ground, which starves Limina.
+**Preparation** · A strong Spirit Path Crystal resists the hijacked trajectory, and Verdantia's regenerative pressure can outpace the lock before it sets; both work only if in place before contact.
 **Look up** · Hypnather's Core Law; the Limina entries for Hypnather, Letheveil and Oneirion Failures; the Shell's Clouding and Rupture; the Refraction Stage table; Verdantia's entry.

@@ -959,3 +959,208 @@ Answered by Isaac in Claude Code chat, covering every magic-system question stil
 - **WAR-162, the non-force ladder** — Keep the reading: the Passive Pressure Field is the authority radius at reference density, and the published ladder stands.
 
 Context: Asked 2026-09-26 in Claude Code chat over the open magic rows. Items the queue and system-accounts questionnaires had already answered were not re-asked: C-053/C-054 (WAR-102), C-055–C-058 (WAR-146–149), C-064/C-073/C-074 (WAR-15), C-066 (WAR-139), C-067 (WAR-140), C-068 (WAR-141), C-070 (WAR-142), C-071 (WAR-151). C-038 and C-039 closed on rungs I-4 and I-5 (2026-09-25). Their CONFLICTS.md status lines are stale and are bookkeeping under rung I-3. C-062 and C-063 replace the drafts under WAR-132 and WAR-54, which were never logged. No card or page is changed by this entry; each answer is applied in its own pass.
+
+## 2026-09-26 — Writing Law (R48), Claude Code chat
+
+Isaac answered the 50-question writing questionnaire in Claude Code chat (beautiful prose, register, research-grounded techniques, metaphysics on the page, roleplay partnership, combat, characters and dialogue, process). Index pack: rules/doc-writing-law-2026-09-26.yaml.
+
+### R48-01-BEAUTY
+
+Beauty comes from exact concrete detail, images and metaphor, and what goes unsaid (not primarily rhythm/sound).
+
+### R48-02-DENSITY
+
+Lush throughout: every scene gets full sensory layering; slower, denser, more immersive.
+
+### R48-03-SIMILES
+
+Loosen similes only: a good simile is welcome when it earns its place; em dashes stay banned.
+
+### R48-04-METAPHORS
+
+Metaphors come from the POV's own life: trade, homeland, body; metaphor doubles as characterisation.
+
+### R48-05-HIGH_STYLE
+
+High mythic style is allowed freely in narration whenever the moment calls for it (not only in documents).
+
+### R48-06-RHYTHM_LAW
+
+Keep all rhythm rules: the hit is the shortest sentence and sits last, payoffs under 10 words, at most two long sentences in a row; the checker fails anything else.
+
+### R48-07-WHITE_SPACE
+
+Steady paragraphs: medium paragraphs, white space used sparingly so it still means something.
+
+### R48-08-NEW_POVS
+
+New or minor POVs default to close, deep interior: thoughts, sensations, the character's own idiom.
+
+### R48-09-TECH_WORDS
+
+Narration may use technical words freely on its own authority whenever it helps.
+
+### R48-10-MIXING
+
+Drop the Technical/Mystic no-mixing rule: registers mix freely by ear.
+
+### R48-11-HUMOUR
+
+Humour wherever it's earned: funny characters are funny often; tone flexes with the cast.
+
+### R48-12-PROFANITY
+
+Profanity in mouths and in close-POV narration when the POV would think it.
+
+### R48-13-PERIOD_FEEL
+
+Modern words in speech only: characters may talk modern; narration keeps a timeless register.
+
+### R48-14-DEPTH
+
+Research depth: name the real phenomenon and its fault; lighter scenes, less time per working.
+
+### R48-15-SOURCES
+
+Sources: encyclopedia-level, cross-checked against one better source.
+
+### R48-16-REAL_FIGURES
+
+Real figures appear whenever measured: anyone with an instrument or trained eye states figures as often as they would.
+
+### R48-17-NO_CLOSURE
+
+When real physics can't close an effect, reach for researched pseudoscience, metaphysics or another strange idea first: it's fantasy, so metaphysical and pseudoscientific mechanisms are legitimate ways to make it work. (Isaac's words: "Try to utilize pseudoscience or some other made up idea or concept that you have found or researched it's fantasy so metaphysics and other strange pseudosciencitific things can be used".)
+
+### R48-18-INVENTION
+
+Invention goes one clear step past textbook physics: the real law plus one pinned variable, easy for a player to reason about.
+
+### R48-19-BANK
+
+The Phenomenon Bank becomes a growing library: every researched phenomenon (and pseudoscientific idea) is added for future workings and players to draw from.
+
+### R48-20-STRATA
+
+The three-layer account (Aether, Wellspring, Essence) shows at a working's first display and at the finisher; lighter touches between.
+
+### R48-21-NAMING
+
+Narration names Wellsprings and glyphs freely whenever useful.
+
+### R48-22-LENS_NAMES
+
+Real-world names and terms for borrowed ideas (Stoic pneuma, solve et coagula) may appear anywhere they fit, scenes included.
+
+### R48-23-LENS_COUNT
+
+A working carries as many history-of-ideas lenses as shed light on it.
+
+### R48-24-4_THEORIES
+
+The Four Theories surface in scenes through characters who hold and argue them; they colour reads and mistakes.
+
+### R48-25-AWE
+
+Clarity everywhere: scenes explain Wellsprings, rites, oaths and the Veil as plainly as a sword exchange.
+
+### R48-26-INVENTION
+
+The partner may invent NPCs, places and texture mid-scene without asking, logged; bigger things wait for Isaac.
+
+### R48-27-REAL_WORLD
+
+Real-world material borrowed by the partner is credited in the author notes; the scene stays in-world.
+
+### R48-28-TURN_LENGTH
+
+Roleplay turns run about 3,500 words (Isaac's answer: "3500").
+
+### R48-29-PACING
+
+The partner may skip dull stretches: travel and waiting pass in a line when nothing is at stake; the world keeps moving.
+
+### R48-30-SURPRISES
+
+Big surprises (betrayal, ambush, death) only after foreshadowing a player could have caught.
+
+### R48-31-STAKES
+
+Death can happen, if earned: from real mistakes after clear warning; nothing is safe.
+
+### R48-32-NPC_VOICES
+
+Isaac may take over any NPC's voice anytime by saying so; the partner hands it back after.
+
+### R48-33-CHOREOGRAPHY
+
+Duels: every exchange traced (measure, guard and the move by its fencing name).
+
+### R48-34-WOUNDS
+
+Wounds: full clinical gore, anatomy named, blood loss tracked minute by minute, nothing looked away from.
+
+### R48-35-USES
+
+Uses in a fight: each side invents its own; Isaac for his characters, the partner for NPCs within the page's facts.
+
+### R48-36-NPC_WITS
+
+NPCs are veteran-clever with their abilities: use what they could know and have trained, well; never omniscient, never dumb.
+
+### R48-37-COST_SHOWN
+
+An ability's cost shows in the body: tremor, heat off the skin, thirst, a Crystal ache.
+
+### R48-38-AFTERMATH
+
+Every duel ends with a full aftermath beat: wounds dressed, what changed between people.
+
+### R48-39-INTERIORITY
+
+POV interiority is deep and running: thoughts, memories and reasoning flow through the narration.
+
+### R48-40-NPC_THOUGHTS
+
+NPC italic thoughts: roleplay turns keep the one-thought-per-NPC allowance; written scenes keep the POV lock (no NPC thoughts under a lock).
+
+### R48-41-MAGIC_TALK
+
+Characters talk about magic by their training: a Measurewright in gauges, a hunter in folk words, a scholar in theory.
+
+### R48-42-LIES
+
+Frequent lies: many NPCs lie for their own reasons; the player has to catch them.
+
+### R48-43-SPEECHES
+
+Dialogue stays realistic under stress, but a trained speaker may deliver one crafted, eloquent speech at a big moment.
+
+### R48-44-NAME_USE
+
+Narration refers to characters by POV epithets, the way the viewpoint sees them; the naming characterises.
+
+### R48-45-CHECKS
+
+Full check on every roleplay turn: every turn passes the full checker.
+
+### R48-46-WORD_FLOOR
+
+Raise the set-piece word floor above a normal ~3,500-word turn (e.g. 5,000+).
+
+### R48-47-NOTES
+
+Full author notes go in the scene file (rule ids, stat ledger, research, costs); chat gets a short summary.
+
+### R48-48-EXPLAIN
+
+The partner explains the physics and metaphysics only when asked; working it out is part of the challenge.
+
+### R48-49-CITATIONS
+
+Research is cited as a source list at the end of each scene's or ability's notes.
+
+### R48-50-PUSHBACK
+
+When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
+

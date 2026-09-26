@@ -42,14 +42,14 @@
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, one sweep | 8% of full reserve | 4,144 to 76,880 EU |
-| Uses before Starvation | 90% ÷ 8% | eleven, the twelfth into Starvation |
+| Reserve covers | 90% ÷ 8% | eleven, the twelfth into Starvation |
 | Blow it rides | A-Grade, as committed | up to 20 to 100 GN, 46 GJ to 4.184 TJ |
 
-**Cost** · 8 percent of full reserve a sweep; a fight of committed exchanges spends the working in one scene.
+**Cost** · 8 percent of full reserve a sweep.
 **Duration** · Instant: one 0.14 s sweep inside one turn.
 
 ## Counterplay
 **Tell** · The dry cold smell before the practitioner arrives, a white arc that shows where the edge went and where the next will go, a small ring that is no blow, warm air round him, and numb arms shaken out.
 **Limits** · Two metres of reach; small cold; no shock without contact; weaker with every sweep in a closed room.
-**Beats it** · Padded jack, wool, leather or felt; insulated or flame-forged armour; heat into the arc, such as Pyreveil; outrun two metres; a warm closed room and make him repeat; break or bind the drawing arm; read the arc after the first.
+**Fails against** · Padded jack, wool, leather or felt; insulated or flame-forged armour; heat into the arc, such as Pyreveil; anything beyond two metres; a warm closed room and repeated sweeps; a broken or bound drawing arm; the arc itself, readable after the first.
 **Look up** · The Caloria and Limina favour lists; the Vohrin and Tenebra Failures; the A-Grade Strike Force and Contact Range; the Glory Stage table; Pyreveil.

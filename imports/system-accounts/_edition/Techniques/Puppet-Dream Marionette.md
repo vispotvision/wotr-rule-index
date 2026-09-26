@@ -38,7 +38,7 @@
 |---|---|---|
 | Cost | 2% of reserve | 1,036 to 19,220 EU |
 | Work done on the target by the working | limb moves on the target's ATP | about 0 J |
-| Uses before Starvation | 90% ÷ 2% | 45 |
+| Reserve covers | 90% ÷ 2% | 45 |
 
 **Cost** · 2 percent of full reserve a use; the real price is Sympathetic Twitch, the practitioner's frame echoing the forced motion, and Echo Feedback, which clouds the Shell long before Starvation.
 **Duration** · One turn, 6 s.
@@ -46,5 +46,5 @@
 ## Counterplay
 **Tell** · Almost none at casting; the first sign is a good soldier moving badly. A beat later the practitioner's hand twitches through the same arc, and fresh panic sits on their Shell.
 **Limits** · 60 m; one turn; a frightened mind only; unreliable on non-humanoids.
-**Beats it** · Do not be afraid; fight in a dry room; drill a deliberate pain startle, a faster loop; Letheveil clarity; a lucid hold on one's own dream-logic; Knot on the path; make them pay per use until the Shell clouds.
+**Fails against** · A mind without fear; a dry room; a drilled pain startle, a faster loop; Letheveil clarity; a lucid hold on one's own dream-logic; Knot on the path; the per-use cost, until the Shell clouds.
 **Look up** · The Counterplay register for Knot; the Fluxia terrain entries; Letheveil; the Fluxia and Limina entries for Somnalis, Oneirion and Eidolyn Failures; Shell Clouding; the Refraction Stage table.

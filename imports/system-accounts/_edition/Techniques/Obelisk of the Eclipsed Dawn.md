@@ -48,8 +48,8 @@
 |---|---|---|
 | Cost, raise one | 6% of reserve | 1.13 × 10⁶ to 2.11 × 10⁷ EU |
 | Cost, hold one | 1% of reserve per turn | 1.89 × 10⁵ to 3.51 × 10⁶ EU per 6 s |
-| Uses before Starvation, one held | (90% − 6%) ÷ 1% per turn | 84 turns, 504 s |
-| Uses before Starvation, four held | (90% − 24%) ÷ 4% per turn | 16.5 turns, 99 s |
+| Reserve covers, one held | (90% − 6%) ÷ 1% per turn | 84 turns, 504 s |
+| Reserve covers, four held | (90% − 24%) ÷ 4% per turn | 16.5 turns, 99 s |
 | Cascade at 5% or 10% of reserve | spent EU × η | 0.80 to 31.6 TJ, A to S |
 | Cascade at the SSS floor | 4.184 × 10¹⁴ J ÷ (η × 1 MJ) | 4.65 to 4.92 × 10⁸ EU, about 7% of the ceiling |
 
@@ -60,7 +60,7 @@
 ## Counterplay
 **Tell** · Six orbiting sigils stop and fall to a point and the practitioner goes still; that stillness is also the mode lock. Afterwards, a district of legible Residue that deafens Harmonists.
 **Limits** · 800 m; four instances; mode locked at the trigger; no life created or restored, only Essence-state; anyone at Emanation or higher is immune, and a peer's standing decree contests or deflects a mode.
-**Beats it** · Fight at sea, at altitude or on a moving platform; Lock a peer's decree first; sever the line with Silence, a total answer; Dissolution erodes the lattice; a matching forcing breaks Basilithe; four emergencies tempt a fifth instance.
-**Break the man** · Genuine internal conflict warps the lattice toward inversion; notice it and wait. Anything that breaks focus threatens a practitioner already holding four instances and their own replayed feeling.
-**Saturate** · Flooding the area with Essence gives everyone present Fracture risk, the one who did it included; with four standing the field is already at the threshold.
+**Fails against** · The sea, altitude or a moving platform; a peer's decree Locked first; Silence, which severs the line totally; Dissolution, which erodes the lattice; a matching forcing, which breaks Basilithe; four standing emergencies, which tempt a fifth instance.
+**Strain** · Genuine internal conflict warps the lattice toward inversion; anything that breaks focus threatens a practitioner already holding four instances and their own replayed feeling.
+**Saturation** · Flooding the area with Essence gives everyone present Fracture risk, the one who did it included; with four standing the field is already at the threshold.
 **Look up** · The Counterplay register for Lock, Silence and Dissolution; the Materia terrain modifiers; the Materia, Vectoria and Limina entries for these six Failures; the Emanation Stage table; the Strike Force Grade bands.

@@ -42,7 +42,7 @@
 | Cost, planting | 5% of reserve | 2,590 to 48,050 EU |
 | Cost, one watch | 1% per turn × 4 turns | 4% of reserve per 24 s |
 | Cost, detonation | 3% of reserve × η 0.65 | 1.0 to 18.7 GJ into the host's Crystal |
-| Uses before Starvation | (90% − 5%) ÷ 4% per watch | 21 watches, about 8.5 minutes |
+| Reserve covers | (90% − 5%) ÷ 4% per watch | 21 watches, about 8.5 minutes |
 
 **Cost** · Planting, watching and detonating are shares of full reserve; the costs in kind are the Dream Wound, pain returned when the Warden is destroyed, and the Personality Imprint, host traits reported back distorted if it is left too long.
 **Duration** · The implant persists until purged, dissolved or cut off; each watch is 24 s, four turns.
@@ -50,6 +50,6 @@
 ## Counterplay
 **Tell** · At planting, a look or touch at up to 30 m. Afterwards, diagnostic: sleep that fails to restore, composure failing on a schedule, a trace behind the ribs; when it dies, the practitioner flinches wherever they stand.
 **Limits** · 30 m; it needs a subconscious to root in; a strong mental shield refuses it; the host shapes what it becomes; the live line can be cut.
-**Beats it** · Silence, total: a host who feels suddenly lonely inside a Silence has just had it go dark. Kill or distract the practitioner; a memory-cleansing rite; Mortalis; a shared-dream ritual; an empathic Wellspring; stay beyond 30 m.
-**Turn it** · Give them a volunteer: a disciplined, self-honest host coarsens the Warden into themselves, and the reports become distortions of a person the practitioner cannot read.
+**Fails against** · Silence, total: a host who feels suddenly lonely inside a Silence has just had it go dark. The practitioner's death or distraction; a memory-cleansing rite; Mortalis; a shared-dream ritual; an empathic Wellspring; distance beyond 30 m.
+**Host** · A disciplined, self-honest host coarsens the Warden into themselves, and the reports become distortions of a person the practitioner cannot read.
 **Look up** · The Counterplay register for Silence; the Animatria rule; Mortalis and the empathic Wellsprings; the Limina entries for Oneirion, Eidolyn and Hypnather Failures; the Refraction Stage table.

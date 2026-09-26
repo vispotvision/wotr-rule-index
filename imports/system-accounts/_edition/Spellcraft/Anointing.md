@@ -40,7 +40,7 @@
 |---|---|---|
 | Cost | one rite of five turns | 10% of reserve, 5,180 to 96,100 EU |
 | Delivered | EU × η × 1 MJ | 3.1 to 67 GJ |
-| Uses before Starvation | 90% ÷ 10% | nine in a day, the ninth ending on the floor |
+| Reserve covers | 90% ÷ 10% | nine in a day, the ninth ending on the floor |
 | Upkeep | none | 0 EU |
 
 **Cost** · 10 percent of full reserve once per rite, plus the officiant's standing, vouched for as long as the mark stands.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · The mark is visible but proves nothing, since a false one is equally visible; the record does: officiant, order, date and claim can all be checked. After a displacement, an alignment falls silent the first time it is called.
 **Limits** · It confers recognition, not power or rule; its effect is only what readers grant it; it cannot survive an assay if empty.
-**Beats it** · Bring a Judicium practitioner or a Measurewright to the rite; outbid it with a higher-affinity claim; refuse to honour it; watch a lying officiant drift in Coherence; undo a forced one by Scission.
+**Fails against** · A Judicium practitioner or a Measurewright at the rite; a higher-affinity claim; a reader who refuses to honour it; a lying officiant's own drift in Coherence; Scission, for a forced one.
 **Look up** · The Benediction, Fixatio and Judicium entries and their failures; the Attraction Path gates for Oath, Axis and Empathy; Scission's complication rate; Coronation for rule; the Glory Stage table.

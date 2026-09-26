@@ -341,7 +341,7 @@ rules:
     pack_number: 12
     section: "§2"
     title: The two registers do not mix in one passage
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       A passage that mixes the Technical and Mystic registers reads as a
@@ -744,7 +744,7 @@ rules:
     pack_number: 12
     section: "§6"
     title: Mystic Register rules are stated as rules, unexplained
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       The Mystic Register states consequences without offering mechanism
@@ -776,7 +776,7 @@ rules:
     pack_number: 12
     section: "§6"
     title: The grammar of the Mystic Register, five features
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The Mystic Register's grammar: imperative without justification,

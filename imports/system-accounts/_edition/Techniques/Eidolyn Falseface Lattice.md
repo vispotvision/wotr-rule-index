@@ -42,7 +42,7 @@
 | Reactive release | 6% of reserve | 3,110 to 57,700 EU; 2.0 × 10⁹ to 3.7 × 10¹⁰ J, B-Grade |
 | Each turn the construct stands | 3% of reserve | 1,550 to 28,800 EU |
 | Cost, release held three turns | 6% + 3 × 3% | 15% of reserve |
-| Uses before Starvation | 90% ÷ 15% | six |
+| Reserve covers | 90% ÷ 15% | six |
 
 **Cost** · 6 percent of full reserve at release, then 3 percent each six-second turn the construct stands.
 **Duration** · While attention holds; a typical engagement is three turns, 18 seconds.
@@ -50,5 +50,5 @@
 ## Counterplay
 **Tell** · An attack is made and the attacker's worst fear answers it, never before, looking exactly like its source; a template trace lingers in the ground.
 **Limits** · Reactive only, eighty metres, needs a real conviction; fearless, lucid or diffuse fears give it nothing; Density capped at B on a Spirit Path; grit in saturated Aether.
-**Beats it** · Show it a true mirror, a Lock that un-templates it; train Letheveil discipline; stand an empathic ally (Catharsis, Benediction) beside the frightened fighter; strike the construct and send second and third attackers at the practitioner.
+**Fails against** · A true mirror, a Lock that un-templates it; Letheveil discipline; an empathic ally (Catharsis, Benediction) beside the frightened one; a second and third attacker reaching the practitioner while the construct is engaged.
 **Look up** · The Counterplay register for Lock; Mirithane's entry on true and phase-conjugate mirrors; Eidolyn and Somnalis Failures; Identity Drift and the Mirage Identity threshold; the Refraction Stage table.

@@ -16,7 +16,7 @@
 ## Metaphysics
 **Aether** · A thin line between two masses; Spatium wants Veil-thin, surveyed ground and fails on warp scarring, contested Domains and unmapped terrain. The strain-line forms before the crossing, can be attacked, and lingers to deafen Harmonists.
 **Wellspring** · Transference, the Living Exchange (Spatium): two tuned oscillators held near each other exchange energy without a conductor, falling off sharply with distance; it makes the Attraction Layer such an oscillator.
-**Inherited failures** · Transference's reverse coupling: a gradient runs both ways, so a destination at higher potential draws the caster in and they overshoot; an enemy can arrange it.
+**Inherited failures** · Transference's reverse coupling: a gradient runs both ways, so a destination at higher potential draws the caster in and they overshoot; it can be arranged from outside.
 **Sub-Stats** · Harmonics Synergy, Harmonics Projection, Tempering Yield.
 **Essence** · The Attraction Layer pays, tuned as an oscillator; long use wears a groove toward Obsession Force, reading people as points of mass. Developmental Tier Harmonic at Splintering.
 **School** · The Dichotomists hold that crossing any interval is impossible, so they read the working as translation with no path; they never think to put a shield on the line, the cheapest counter there is.
@@ -38,7 +38,7 @@
 |---|---|---|
 | Cost, one crossing | 4% of reserve | 2,070 to 38,400 EU |
 | Delivered by the gradient | EU × 0.65 × 1 MJ | 1.35 × 10⁹ to 2.5 × 10¹⁰ J, B-Grade |
-| Uses before Starvation | 90% ÷ 4% | twenty-two |
+| Reserve covers | 90% ÷ 4% | twenty-two |
 
 **Cost** · 4 percent of full reserve per crossing; the gradient between the masses supplies the motion.
 **Duration** · 1 to 60 ms of travel, then about 3 seconds, half a turn, of stagger.
@@ -46,5 +46,5 @@
 ## Counterplay
 **Tell** · The caster goes still, locks their gaze on a mass up to thirty metres off and breathes out slowly: destination and trigger both on show. The strain-line lingers after.
 **Limits** · Thirty metres, a clear straight line between two real masses, a calm and an exhale to release, none where gravity is absent or chaotic, half a turn of stagger each arrival.
-**Beats it** · Put anything on the line before the exhale ends; Lock an endpoint with Fixatio; erase the strain-line with Tenebra or Zar'thuun; misfire it with a Judicium interdiction; raise the destination's potential; wait at the arrival.
+**Fails against** · Anything on the line before the exhale ends; an endpoint Locked with Fixatio; a strain-line erased by Tenebra or Zar'thuun; a Judicium interdiction, which misfires it; a destination raised in potential; whatever waits at the arrival.
 **Look up** · The Counterplay register for Lock; Transference's reverse coupling in the Spatium entries; Spatium's suppressors; the reaction and travel bands by Grade; the Splintering Stage table.

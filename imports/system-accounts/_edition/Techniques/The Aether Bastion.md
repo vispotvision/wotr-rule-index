@@ -41,7 +41,7 @@
 | Cost, raise | 3% of full reserve | 1,554 to 28,830 EU |
 | Cost, hold per turn | 3% of full reserve | 1,554 to 28,830 EU per 6 s |
 | Cost, a full standing | 3% + 2 to 3 × 3% | 9 to 12% of reserve |
-| Uses before Starvation | 90% ÷ 9 to 12% | seven to ten standings |
+| Reserve covers | 90% ÷ 9 to 12% | seven to ten standings |
 | Banked from one B-Grade arrest | 1.046 to 46 GJ at 1 EU per MJ | 1,046 to 46,000 EU |
 
 **Cost** · 3 percent of full reserve to raise and 3 percent each turn held; arrested energy banks in the Crystal at one EU per megajoule and can overfill it, so large arrests push the reserve up while the hold drains it.
@@ -51,5 +51,5 @@
 ## Counterplay
 **Tell** · Visible by design; arrivals slow at one fixed rate for a stone and a hammer, nothing degrades on repetition, and the holder's own words hold it up.
 **Limits** · Cannot outpace S-Grade speed, take a point load, judge what does not register, or stop fear with no carrier.
-**Beats it** · Trap the holder into a false word; a lance or bolt on a coin-sized spot, twice in one place; S-Grade speed; Tenebra or memory illusion; leather, clay, fog, mud; force the Seal early; Knot; feed it big blows until it overfills.
+**Fails against** · A false word from the holder; a lance or bolt on a coin-sized spot, twice in one place; S-Grade speed; Tenebra or memory illusion; leather, clay, fog, mud; a Seal forced early; Knot; large blows until it overfills.
 **Look up** · The Fulguria and Vectoria favour lists; the Judicium and Sublimatio Failures; the Strike Force row and Contact Range; the Counterplay register for Knot and the Seal; the Glory Stage table.

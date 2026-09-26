@@ -160,7 +160,7 @@ rules:
     pack_number: 18
     section: "§4"
     title: Where a glyph may be named on the page
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Glyphs are named only in a document, an instrument, a practitioner's

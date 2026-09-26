@@ -39,7 +39,7 @@
 |---|---|---|
 | Cost | 0.70 × (10 s ÷ 60 s) | 11.7% of reserve, 6,040 to 112,100 EU |
 | Mean draw | cost ÷ 10 s | 604 to 11,210 AU/s |
-| Uses before Starvation | 90% ÷ 11.7% | seven, the eighth unfinished |
+| Reserve covers | 90% ÷ 11.7% | seven, the eighth unfinished |
 | Continuous surge before Starvation | 90% ÷ 70% per minute | 77 s, just under 13 turns |
 
 **Cost** · Seventy percent of full reserve per minute sustained, billed as a share, so every Glory practitioner gets the same seven surges; each use also raises the standing Primal Regression risk.
@@ -48,5 +48,5 @@
 ## Counterplay
 **Tell** · The practitioner tears the Bloodbind open by hand, a visible act on their own body, and frost forms on their scars; afterwards the frost stays and they breathe like a runner.
 **Limits** · Ten seconds, self only, no reach, no projection, no throttle; nothing in it changes the practitioner's Stage, armour or reach, and triple strength does not outrun a volley.
-**Beats it** · Fight on loose or soft ground; burn out the cold half with a fire Caloria discharge (a partial, the strength lasts a moment longer); cage the limb with Fixatio; strike the blood anchor; give ground for the ten seconds; dull the sharpening with Harmonics suppression.
+**Fails against** · Loose or soft ground; a fire Caloria discharge burning out the cold half (a partial; the strength lasts a moment longer); a Fixatio cage on the limb; a blow to the blood anchor; ten seconds with no ground to take; Harmonics suppression dulling the sharpening.
 **Look up** · The Vectoria and Caloria failure terrain; Petralon and Vohrin in the Wellspring register; Trait hazards (Overgrowth, Shear Break); Fixatio in the Counterplay register; the Glory Stage table and the Grade rows.

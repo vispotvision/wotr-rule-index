@@ -17,7 +17,7 @@
 **Ground** · Caloria favours steep thermal gradients, combustible air and geothermal ground; thermal equilibrium, saturated cold and oxygen-poor air suppress it.
 **Wellspring** · Cinerion, the Ash Veil (Caloria), primary: what survives a fire is not waste but a catalytic scaffold; it holds the talon's print and reclaims part of the practitioner's own waste. It gives Tempering Yield and Harmonics Stability.
 **Wellspring** · Petralon, the Foundation Stone (Vectoria): every load routed into compression, slow creep accepted; it reads the talon's thread and carries the graft through the frame. It gives Vitality Constitution and Dominion Gravity.
-**Inherited failures** · Cinerion's fouling coats the conduit and collapses recovery just when the most is spent, the thinning talon; Petralon's tensile exposure parts any structure loaded in tension, a heart wall included. Opponents can induce either.
+**Inherited failures** · Cinerion's fouling coats the conduit and collapses recovery just when the most is spent, the thinning talon; Petralon's tensile exposure parts any structure loaded in tension, a heart wall included. Either can be induced from outside.
 **Theory** · The Residue Position: every Wellspring is the residue of something already done, and Ashfang is that theory with a bone in its hand. The Accord licenses it under Consent.
 **Essence** · The Aether Shell, which the stored print acts on as a residue triggers a reaction; ash-grey veins along the graft path are Clouding showing in tissue. Developmental Tier at the floor is Harmonic.
 **School** · An old alchemical school believes the form survives in ash and can be called back, so it hunts bigger beasts for bigger talons; but ash keeps the record, not the capacity, and the ceiling rule closes that door.
@@ -40,7 +40,7 @@
 |---|---|---|
 | Cost, opening | 3% of full reserve | 1,554 to 28,830 EU at the floor |
 | Cost, holding | 1% of full reserve per turn | five turns held: 8% in all |
-| Uses before Starvation | 90% ÷ 8% | 11 five-turn grafts |
+| Reserve covers | 90% ÷ 8% | 11 five-turn grafts |
 | Heart budget, flight | 50 kW asked ÷ 1 kW supplied | about 50 times over |
 
 **Cost** · Three percent of full reserve to open, one percent a turn to hold, cardiac instability billed against Vitality throughout, and a talon that thins with every draw and is restocked only by killing another beast.
@@ -49,5 +49,5 @@
 ## Counterplay
 **Tell** · Hand to trophy, blade to own arm, then the heartbeat goes wrong: three steps, in order, every time. Afterwards ash-grey veins along the graft path and a talon a little paler.
 **Limits** · One trait at a time, at the practitioner's own ceiling; needs a talon from their own kill, in hand, and an open blood channel; each reuse weaker.
-**Beats it** · Seal or strip the beast before contact; break the hand at Glory; fight in saturated cold; force the graft to pull rather than push; take the trophy belt or bait the good talon on a feint; answer borrowed flight with a volley.
+**Fails against** · A beast sealed or stripped before contact; a broken hand at Glory; saturated cold; a graft forced to pull rather than push; a lost trophy belt, or the good talon spent on a feint; a volley against borrowed flight.
 **Look up** · The Caloria and Vectoria entries for Cinerion and Petralon Failures; Caloria's favoured and suppressive ground; Essence seals; the Glory Stage table and the Body Path gates.

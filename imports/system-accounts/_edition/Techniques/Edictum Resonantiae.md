@@ -40,7 +40,7 @@
 | Cost, first Edict | declaration and three turns | 12% of reserve |
 | Cost, second before the voice rests | 12% × 1.25 | 15% of reserve |
 | Cost, third before the voice rests | 15% × 1.25 | 18.75% of reserve |
-| Uses before Starvation | 12 + 15 + 18.75 + 23.4 + 29.3% | four held, the fifth reaching the floor |
+| Reserve covers | 12 + 15 + 18.75 + 23.4 + 29.3% | four held, the fifth reaching the floor |
 
 **Cost** · 12 percent of full reserve for the first Edict, each later one a quarter more until the voice has rested a full day.
 **Duration** · Three turns at full potency, 18 seconds, then a weaker echo for one or two turns, 6 to 12 seconds.
@@ -48,5 +48,5 @@
 ## Counterplay
 **Tell** · The speaker names the forbidden category aloud and strikes the ground; everyone who heard knows the terms binding the speaker too. The echo marks the ground afterwards.
 **Limits** · One category per casting, a 200 m dome centred on the speaker, three turns and an echo; broad wording is weak; the speaker must stay present and consistent.
-**Beats it** · Force the speaker to break their own Edict and let the backlash hit their Crystal; countersign or speak the Seal back; oppose it with another Edict, at the cost of both; do the neighbouring action; open a Void tear at a price; fog and shielded interiors.
+**Fails against** · The speaker breaking their own Edict, with the backlash landing on their Crystal; a countersigned or spoken-back Seal; an opposing Edict, at the cost of both; the neighbouring action; a Void tear, at a price; fog and shielded interiors.
 **Look up** · The Counterplay register on vows, Shear Breaks and Seals; the Judicium, Aurevane and Oneirion Failures; the Attraction Layer and Obsession Force; the Coherence fault; the Transcendence Stage table.

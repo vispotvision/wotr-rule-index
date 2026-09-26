@@ -1987,3 +1987,38 @@ The era and apparatus questionnaire (16 answers), Claude Code chat.
 16. These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
 
 Context: Era and material-culture questionnaire.
+
+## 2026-09-26 — questionnaire-2026-09-26-combat-society-politics
+
+The combat, society and politics questionnaire (21 answers), Claude Code chat.
+
+Combat and injury
+1. Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can kill, often days later from infection; most fights end in the first seconds; a wounded man is out of the fight.
+2. Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+3. Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever manages the reserve; Starvation hits mid-fight on overspend.
+4. Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+
+Empire and commerce (it is the Imperial Age: imperialisation, commercialisation and the industrial revolution are happening now)
+5. Crowns and chartered houses expand together: the company takes the ground, then the crown claims it.
+6. The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds), and for Wells and draw, materials, markets and labour, and routes.
+7. Commerce shows on the page as branded goods and advertising, chartered share-holding companies with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods sold as products.
+8. The cost of the industrial revolution falls on displaced trades, works labour, the colonised, and unions and unrest.
+
+Magic in society
+9. The Guild Accord is forming now, in the story's present.
+10. Anyone may practise privately, but taking pay for workings or hunts needs a guild licence; unlicensed hunters are cheap and common.
+11. A crime done with a working is proved by trace examiners reading its traces as evidence, and guild courts and crown courts fight over jurisdiction.
+12. Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
+13. Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by administration: the Imperial Age is when nations lock down which kinds of people may use which magics.
+14. A common person's Crystal is dormant for life unless someone trains them.
+15. Who may learn which magic is decided by natural ability (people are recruited to magical academies and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
+16. The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds, which locally hunt down those who do wrong.
+17. Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting guilds train their own outside the state's gate), and harsh penalties for unlicensed high magic.
+
+Politics and power
+18. The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere.
+19. Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade, the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and which layer wins differs by place.
+20. The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs distinct conflicting factions with different interests written out.
+21. Succession follows each culture's own law, set on its Inventory.
+
+Context: Combat, magic-in-society and politics questionnaire.

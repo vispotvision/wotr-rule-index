@@ -1,0 +1,818 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat, answering the world-texture questionnaire. Each verbatim is an exact
+# substring of its RULINGS.md entry. Standalone-ruling pattern: empty source.file.
+pack: World Texture Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R53-01-IMPERIAL_AGE_SPAN
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Imperial Age Span
+  status: live
+  kind: mandate
+  summary: 'The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology
+    of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded.
+    (Isaac: "The imperial age goes from the 1800 into th...'
+  verbatim: 'The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology
+    of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded.
+    (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should
+    be known that due to how long it is".)'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: replaces
+  supersedes:
+  - R20C-19-TECH_CEILING_PRINT_TELEGRAPH_NO_RAIL
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-02-POOR_FIRES
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Poor Fires
+  status: live
+  kind: mandate
+  summary: A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts
+    are clean and humming; no factory chimneys.
+  verbatim: A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts
+    are clean and humming; no factory chimneys.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-03-FIREARM_CEILING
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Firearm Ceiling
+  status: live
+  kind: mandate
+  summary: 'The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder,
+    even early machine guns exist, rare and state-owned.'
+  verbatim: 'The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder,
+    even early machine guns exist, rare and state-owned.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-04-ENHANCED_SHOT
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Enhanced Shot
+  status: live
+  kind: mandate
+  summary: 'Enhanced shot is standard for elites: guard companies and bounty hunters carry full
+    pouches; ordinary infantry do not.'
+  verbatim: 'Enhanced shot is standard for elites: guard companies and bounty hunters carry
+    full pouches; ordinary infantry do not.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-05-PROOF_PLATE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Proof Plate
+  status: live
+  kind: mandate
+  summary: Narration may state the cause of any penetration outright, in gunfights as anywhere;
+    the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+  verbatim: Narration may state the cause of any penetration outright, in gunfights as anywhere;
+    the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: replaces
+  supersedes:
+  - R11-3-FIREARM_PROSE_LAW
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-06-WELL_SPAWN
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Well Spawn
+  status: live
+  kind: mandate
+  summary: 'Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn
+    category.'
+  verbatim: 'Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn
+    category.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: replaces
+  supersedes:
+  - R20C-20-WELLS_GENERATE_NO_ENTITIES
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-07-PRICE_TABLE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Price Table
+  status: live
+  kind: mandate
+  summary: A short table of everyday prices and wages is drafted from real period ratios for
+    Isaac to approve; scenes then quote it.
+  verbatim: A short table of everyday prices and wages is drafted from real period ratios for
+    Isaac to approve; scenes then quote it.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-08-TRAVEL_RATES
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Travel Rates
+  status: live
+  kind: mandate
+  summary: Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40,
+    rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+  verbatim: Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to
+    40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-09-WEATHER
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Weather
+  status: live
+  kind: mandate
+  summary: 'Weather and season are tracked like a clock: the State of Play carries the date
+    and season; every outdoor scene shows the actual weather, and cold, wet and thaw change
+    what people can do.'
+  verbatim: 'Weather and season are tracked like a clock: the State of Play carries the date
+    and season; every outdoor scene shows the actual weather, and cold, wet and thaw change
+    what people can do.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-10-MEDICINE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Medicine
+  status: live
+  kind: mandate
+  summary: 'Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia,
+    antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.'
+  verbatim: 'Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia,
+    antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-11-JUSTICE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Justice
+  status: live
+  kind: mandate
+  summary: Ground-level justice borrows each culture's real-world analogue (fines and branding
+    in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+  verbatim: Ground-level justice borrows each culture's real-world analogue (fines and branding
+    in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-12-LITERACY
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Literacy
+  status: live
+  kind: mandate
+  summary: 'Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost
+    none; set on each Inventory.'
+  verbatim: 'Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost
+    none; set on each Inventory.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-13-FAITH
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Faith
+  status: live
+  kind: mandate
+  summary: 'Faith in practice shows up where it matters: when a character wants something badly
+    (petition is the tell); otherwise absent.'
+  verbatim: 'Faith in practice shows up where it matters: when a character wants something badly
+    (petition is the tell); otherwise absent.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-14-FOLK_KNOWLEDGE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Folk Knowledge
+  status: live
+  kind: mandate
+  summary: 'Ordinary people know the rough ladder: there are ranks, silver tokens are feared,
+    Pressure is felt as dread; they could not name a Stage and use folk words.'
+  verbatim: 'Ordinary people know the rough ladder: there are ranks, silver tokens are feared,
+    Pressure is felt as dread; they could not name a Stage and use folk words.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-15-FOLK_BELIEFS
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Folk Beliefs
+  status: live
+  kind: mandate
+  summary: Each culture's Inventory gets a few named false folk beliefs about magic, some half-true;
+    characters act on them and the narration never corrects them.
+  verbatim: Each culture's Inventory gets a few named false folk beliefs about magic, some half-true;
+    characters act on them and the narration never corrects them.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-16-GUILD_WORDS
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Guild Words
+  status: live
+  kind: mandate
+  summary: 'Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary
+    split no longer governs who says what.'
+  verbatim: 'Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary
+    split no longer governs who says what.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-17-THE_BILL
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: The Bill
+  status: live
+  kind: mandate
+  summary: 'Money before magic holds on the page: any working indoors on a main raises the bill,
+    the meter or the spur, and somebody notices the cost.'
+  verbatim: 'Money before magic holds on the page: any working indoors on a main raises the
+    bill, the meter or the spur, and somebody notices the cost.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-18-AWE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Awe
+  status: live
+  kind: mandate
+  summary: 'Commoners regard practitioners with awe and worship: a ranked practitioner is half
+    a saint to ordinary people.'
+  verbatim: 'Commoners regard practitioners with awe and worship: a ranked practitioner is half
+    a saint to ordinary people.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-19-QUOTA
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Quota
+  status: live
+  kind: mandate
+  summary: Every culture's signature-item quota is two per session, like Kharven's.
+  verbatim: Every culture's signature-item quota is two per session, like Kharven's.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-20-MISSING_INVENTORY
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Missing Inventory
+  status: live
+  kind: mandate
+  summary: When a scene goes to a culture with no Standing Inventory, the partner drafts that
+    Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+  verbatim: When a scene goes to a culture with no Standing Inventory, the partner drafts that
+    Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-21-CANON_GATE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Canon Gate
+  status: live
+  kind: mandate
+  summary: Texture the partner invents in play is canon once logged; Isaac can strike it later.
+  verbatim: Texture the partner invents in play is canon once logged; Isaac can strike it later.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-22-CAUSAL_TEST
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Causal Test
+  status: live
+  kind: mandate
+  summary: 'The causal test for texture invented in play is by ear: plausible is enough; the
+    causal line is optional.'
+  verbatim: 'The causal test for texture invented in play is by ear: plausible is enough; the
+    causal line is optional.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-23-MIXED_ROOM
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Mixed Room
+  status: live
+  kind: mandate
+  summary: A mixed room layers every culture present in roughly equal measure.
+  verbatim: A mixed room layers every culture present in roughly equal measure.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-24-TEXTURE_AND_MECHANISM
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Texture And Mechanism
+  status: live
+  kind: mandate
+  summary: 'The rule that texture comes from the Standing Inventory and mechanism from the Codex
+    is retired: texture and mechanism mix freely.'
+  verbatim: 'The rule that texture comes from the Standing Inventory and mechanism from the
+    Codex is retired: texture and mechanism mix freely.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: replaces
+  supersedes:
+  - R6-7-GOVERNING_RULE
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-25-REAL_OBJECT_NAMES
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Real Object Names
+  status: live
+  kind: mandate
+  summary: 'Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana
+    a katana when the culture is clearly built on it.'
+  verbatim: 'Real names for borrowed real-world objects are allowed: a yurt is a yurt and a
+    katana a katana when the culture is clearly built on it.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-26-HOW_CLOSE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: How Close
+  status: live
+  kind: mandate
+  summary: Real history is taken exactly, then bent one step by the culture's own conditions
+    (the draw, the cold, the Archons), credited in the notes.
+  verbatim: Real history is taken exactly, then bent one step by the culture's own conditions
+    (the draw, the cold, the Archons), credited in the notes.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-27-MIX_SOURCES
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Mix Sources
+  status: live
+  kind: mandate
+  summary: The partner may blend real cultures freely into one WOTR culture where it serves
+    the culture's conditions.
+  verbatim: The partner may blend real cultures freely into one WOTR culture where it serves
+    the culture's conditions.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-28-VISUAL_REFERENCE
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Visual Reference
+  status: live
+  kind: mandate
+  summary: The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy;
+    the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture,
+    invented for the world itself, mostly drawn from real-world inspi...
+  verbatim: 'The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy;
+    the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture,
+    invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want
+    it to look like lord of mysteries or Victorian imperial aged fantasy I don''t like the beast
+    or vinland saga reference wotr has its own thing its own texture invented entirely for the
+    world itself it mostly takes from real world inspo etc".)'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: replaces
+  supersedes:
+  - R9-3-ADDITIVE_NOT_REPLACING
+  - R11-1-REFERENCE_TRIANGLE
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-29-LOOK_UP
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Look Up
+  status: live
+  kind: mandate
+  summary: The partner looks up every world fact (wiki, Inventory, cards) rather than inventing
+    it; gaps are flagged, not filled.
+  verbatim: The partner looks up every world fact (wiki, Inventory, cards) rather than inventing
+    it; gaps are flagged, not filled.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-30-TEXTURE_DENSITY
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Texture Density
+  status: live
+  kind: mandate
+  summary: Every beat carries at least one detail that could only exist in this world; sensory
+    layers sit around it.
+  verbatim: Every beat carries at least one detail that could only exist in this world; sensory
+    layers sit around it.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-31-GONE_LIST
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Gone List
+  status: live
+  kind: mandate
+  summary: Each culture's Standing Inventory gets a 'Gone' list of three to five named lost
+    things the culture mourns, for elegy to reach for.
+  verbatim: Each culture's Standing Inventory gets a 'Gone' list of three to five named lost
+    things the culture mourns, for elegy to reach for.
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R53-32-TECH_BY_EAR
+  pack: World Texture Law 2026-09-26
+  pack_number: null
+  section: World texture
+  title: Tech By Ear
+  status: live
+  kind: mandate
+  summary: 'No decade-by-decade technology page: the partner judges what is era-appropriate
+    in the Imperial Age scene by scene.'
+  verbatim: 'No decade-by-decade technology page: the partner judges what is era-appropriate
+    in the Imperial Age scene by scene.'
+  amends:
+  - guide: Standing Inventories, NATALIE.md and the wotr-write skill
+    locus: World texture
+    operation: adds
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (world-texture questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

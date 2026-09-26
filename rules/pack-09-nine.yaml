@@ -356,7 +356,7 @@ rules:
     pack_number: 9
     section: "PART THREE"
     title: The power-display module adds one mode, replacing nothing
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The power-display register adds one mode to the visual palette; depth

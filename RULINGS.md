@@ -1808,3 +1808,136 @@ The partner may invent a comic minor NPC as a comic voice from the start, with n
 
 Room casting is by ear: the partner casts for the scene and fixes voice likeness only when the swap test fails.
 
+
+## 2026-09-26 — World Texture Law (R53), Claude Code chat
+
+Isaac answered the 32-question world-texture questionnaire in Claude Code chat. Index pack: rules/doc-world-texture-law-2026-09-26.yaml.
+
+### R53-01-IMPERIAL_AGE_SPAN
+
+The Imperial Age runs from the 1800s into the middle of the 1900s, and the technology of that whole span exists across it; the no-rail, no-photography, wire-only limits are superseded. (Isaac: "The imperial age goes from the 1800 into the middle part of the 1900s it should be known that due to how long it is".)
+
+### R53-02-POOR_FIRES
+
+A city's poor edge burns oil, tallow, peat and dung in small fires; rich districts are clean and humming; no factory chimneys.
+
+### R53-03-FIREARM_CEILING
+
+The firearm ceiling is up to 1900 hardware: repeating rifles, smokeless powder, even early machine guns exist, rare and state-owned.
+
+### R53-04-ENHANCED_SHOT
+
+Enhanced shot is standard for elites: guard companies and bounty hunters carry full pouches; ordinary infantry do not.
+
+### R53-05-PROOF_PLATE
+
+Narration may state the cause of any penetration outright, in gunfights as anywhere; the old firearm ban on explaining why a proofed round beats proofed plate is superseded.
+
+### R53-06-WELL_SPAWN
+
+Well-spawn exist: Wells breed hostile creatures, and the Bestiary gains a Well-spawn category.
+
+### R53-07-PRICE_TABLE
+
+A short table of everyday prices and wages is drafted from real period ratios for Isaac to approve; scenes then quote it.
+
+### R53-08-TRAVEL_RATES
+
+Travel uses real period rates by mode (foot about 20 miles a day, mounted 30 to 40, rail where it runs, less in snow and passes), stated by trained eyes and messengers.
+
+### R53-09-WEATHER
+
+Weather and season are tracked like a clock: the State of Play carries the date and season; every outdoor scene shows the actual weather, and cold, wet and thaw change what people can do.
+
+### R53-10-MEDICINE
+
+Medicine is era-appropriate by place: Guild cities have what their decade has (anaesthesia, antisepsis, later early antibiotics); the north and the poor get folk medicine and the barber.
+
+### R53-11-JUSTICE
+
+Ground-level justice borrows each culture's real-world analogue (fines and branding in Accord cities, labour-debt in Kharven, public shaming in Eresse), looked up and logged.
+
+### R53-12-LITERACY
+
+Literacy varies by culture: Eresse and the Accord near-universal, Kharven almost none; set on each Inventory.
+
+### R53-13-FAITH
+
+Faith in practice shows up where it matters: when a character wants something badly (petition is the tell); otherwise absent.
+
+### R53-14-FOLK_KNOWLEDGE
+
+Ordinary people know the rough ladder: there are ranks, silver tokens are feared, Pressure is felt as dread; they could not name a Stage and use folk words.
+
+### R53-15-FOLK_BELIEFS
+
+Each culture's Inventory gets a few named false folk beliefs about magic, some half-true; characters act on them and the narration never corrects them.
+
+### R53-16-GUILD_WORDS
+
+Guild words are free in any mouth: anyone may use them; the common/Guild vocabulary split no longer governs who says what.
+
+### R53-17-THE_BILL
+
+Money before magic holds on the page: any working indoors on a main raises the bill, the meter or the spur, and somebody notices the cost.
+
+### R53-18-AWE
+
+Commoners regard practitioners with awe and worship: a ranked practitioner is half a saint to ordinary people.
+
+### R53-19-QUOTA
+
+Every culture's signature-item quota is two per session, like Kharven's.
+
+### R53-20-MISSING_INVENTORY
+
+When a scene goes to a culture with no Standing Inventory, the partner drafts that Inventory from the wiki first (sourced), for Isaac's approval, then writes.
+
+### R53-21-CANON_GATE
+
+Texture the partner invents in play is canon once logged; Isaac can strike it later.
+
+### R53-22-CAUSAL_TEST
+
+The causal test for texture invented in play is by ear: plausible is enough; the causal line is optional.
+
+### R53-23-MIXED_ROOM
+
+A mixed room layers every culture present in roughly equal measure.
+
+### R53-24-TEXTURE_AND_MECHANISM
+
+The rule that texture comes from the Standing Inventory and mechanism from the Codex is retired: texture and mechanism mix freely.
+
+### R53-25-REAL_OBJECT_NAMES
+
+Real names for borrowed real-world objects are allowed: a yurt is a yurt and a katana a katana when the culture is clearly built on it.
+
+### R53-26-HOW_CLOSE
+
+Real history is taken exactly, then bent one step by the culture's own conditions (the draw, the cold, the Archons), credited in the notes.
+
+### R53-27-MIX_SOURCES
+
+The partner may blend real cultures freely into one WOTR culture where it serves the culture's conditions.
+
+### R53-28-VISUAL_REFERENCE
+
+The visual reference is Lord of the Mysteries and Victorian imperial-age fantasy; the Berserk and Vinland Saga references are retired everywhere. WOTR has its own texture, invented for the world itself, mostly drawn from real-world inspiration. (Isaac: "I want it to look like lord of mysteries or Victorian imperial aged fantasy I don't like the beast or vinland saga reference wotr has its own thing its own texture invented entirely for the world itself it mostly takes from real world inspo etc".)
+
+### R53-29-LOOK_UP
+
+The partner looks up every world fact (wiki, Inventory, cards) rather than inventing it; gaps are flagged, not filled.
+
+### R53-30-TEXTURE_DENSITY
+
+Every beat carries at least one detail that could only exist in this world; sensory layers sit around it.
+
+### R53-31-GONE_LIST
+
+Each culture's Standing Inventory gets a 'Gone' list of three to five named lost things the culture mourns, for elegy to reach for.
+
+### R53-32-TECH_BY_EAR
+
+No decade-by-decade technology page: the partner judges what is era-appropriate in the Imperial Age scene by scene.
+

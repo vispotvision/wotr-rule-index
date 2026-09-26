@@ -398,7 +398,7 @@ rules:
     pack_number: 20
     section: "R20C-19"
     title: "Tech ceiling"
-    status: live
+    status: superseded
     kind: definition
     summary: "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date."
     verbatim: "Tech ceiling. Print: yes — mechanical, cheap, ungovernable, and the reason the Accord's register is out of date. Telegraph: yes, as a Draw counterpart — Guild line, Guild price, information as licensed commodity. Rail: no — haulage stays animal and water, which keeps the passes and the Amagiri post load-bearing. Photography: no — the counterpart is the fixed-plate impression, slow and Guild-controlled, used for proofing and record. Nobody has a portrait of their mother."
@@ -417,7 +417,7 @@ rules:
     pack_number: 20
     section: "R20C-20"
     title: "Wells generate no entities"
-    status: live
+    status: superseded
     kind: definition
     summary: "Wells generate no entities. The site is the entire threat."
     verbatim: "Wells generate no entities. The site is the entire threat."

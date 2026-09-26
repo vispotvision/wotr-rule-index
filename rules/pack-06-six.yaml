@@ -297,7 +297,7 @@ rules:
     pack_number: 6
     section: "PART II.7"
     title: Texture from the Standing Inventory, mechanism from the Codex
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Texture comes from the Standing Inventory; mechanism comes from the

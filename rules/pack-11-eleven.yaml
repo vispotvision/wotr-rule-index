@@ -72,7 +72,7 @@ rules:
     pack_number: 11
     section: "§1"
     title: Reference triangle and the widened power-display register
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Warhammer 40,000 for bureaucratic scale, late-Victorian industrial
@@ -588,7 +588,7 @@ rules:
     pack_number: 11
     section: "§3"
     title: No sentence explains why a proofed round defeats plate
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       The gun is furniture, not spectacle; no sentence explains why a

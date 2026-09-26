@@ -199,9 +199,8 @@ balance is a working with a ledger. **Residue** runs alongside through Cinerion.
 hyper-dense muscular ignition and aggressive kinetic force, **using Frost Essence for systematic
 slowing**"* (card `:34`) — the working is that clause used at contact range. Developmental Tier
 **Harmonic** (Stage VI, Part Twenty-One). Tier of Standing **5 · Expert**, η band **0.60–0.70**
-(Part Nineteen as corrected by **R44-4**); card η *"~0.55"* — **0.05 below the floor**, and
-lawfully so: `C-062` was **ruled 2026-09-25** (agent ruling, Isaac's rung **I-2**), the card
-governing and the corrected row standing as a typical range for him. Crystal State *"Refined"*. **The invoice:** a fifth of the reserve, fibre torn
+(Part Nineteen as corrected by **R44-4**); card η *"~0.55"* — **0.05 below the floor**
+(`C-062`, not resolved here). Crystal State *"Refined"*. **The invoice:** a fifth of the reserve, fibre torn
 along the ignition path, and — the part nobody has costed — every joule taken out of the target arriving
 in his own musculature.
 
@@ -310,7 +309,7 @@ out of the quarry is in him now, and the colder the kill the warmer the killer.
 | EU spent | **a fifth of current reserve per use (page `:20`)** | *"his own count puts the Essence toll near a fifth of what he is carrying per use."* **The only page in this batch that prices a cost as a fraction of reserve**, which `_method.md` §III says is the one condition under which a starvation margin can be computed at all. |
 | **Starvation margin** | **11 uses, or 5 — the page does not say which** | *"Below ten percent EU a practitioner suffers Essence Starvation"* (`Core Vocabulary`). Read *"a fifth of what he is carrying"* as a fifth of **current** reserve and the sequence is 0.8ⁿ: 80, 64, 51, 41, 33, 26, 21, 17, 13, 10.7, **8.6% — starvation on the eleventh use.** Read it as a fifth of **maximum** and it is linear: 80, 60, 40, 20, **0 — starvation during the fifth** (`SA-GAP-VORYNN-FIFTH-OF-WHAT`). |
 | Flux Density | `null` | No AU/s figure on card or page (`_method.md` §VIII). |
-| η | **~0.55 (card `:35`)** — **0.05 below band, and it governs** | Tier 5 · Expert is **0.60–0.70** (Part Nineteen as corrected by **R44-4**). `C-062`, **ruled 2026-09-25** (rung **I-2**): the card governs, the band is typical. |
+| η | **~0.55 (card `:35`)** — **0.05 below band** | Tier 5 · Expert is **0.60–0.70** (Part Nineteen as corrected by **R44-4**). `C-062`. |
 | AU/s | `null` | Needs Flux Density. |
 | Efficiency and bleed | **45% at η 0.55** | 1 − η, *"as heat, sound, and structural bleed."* **On this working the bleed is thermally in the same direction as the load**: it is heat, and he is already importing heat (§1e). |
 | **Thermal diffusivity of tissue** | **α ≈ 1.4 × 10⁻⁷ m²/s** | Standard. |
@@ -351,7 +350,7 @@ removing the gradient rather than by overwhelming the sink, and Caloria's suppre
 thing in the coupling table. Its four Sub-Stats are all four of the practitioner's own attested peaks and
 the page says so. Its Craft line is a paraphrase of the Four Crafts' own sentence about a fist, which makes
 it the only one of Draven's four pages that gets Craft and Law V right together. η is 0.05 under band
-since **R44-4** and lawful under `C-062`'s ruling, the Stage is the floor, and the cost is priced as a fraction of reserve — **the only page in the batch that gives the
+since **R44-4** (`C-062`), the Stage is the floor, and the cost is priced as a fraction of reserve — **the only page in the batch that gives the
 starvation margin anything to work with.**
 
 What does not close: the depth, the yield, and the direction of the waste heat. **One to two seconds of
@@ -379,7 +378,7 @@ states and which the one current already on his sheet, Cinerion, exists to relie
 | Stated limits | **pass, and it is a hard prerequisite** | *"**Requires Bloodbind ignition.** Without the blood already burning, there is no vector to compress and no strike to throw"*, and *"Draven cannot freeze what the ignition never touches, which in practice means the strike must land, not merely threaten to."* A working that must land, from a man whose card says *"Range · Close. Melee and tracking. **He has no answer at distance and has never needed one.**"* |
 | Something beats it | **pass, three named and two more in the registers** | Heat wards, void-momentum declines and airborne pivots are all named. §1(e) adds the self-loading ceiling and Caloria's coupling row adds *"saturated cold"* — a room he has already been working in. |
 | It has a tell | **pass, and the tell is the approach rather than the strike** | The strike itself has none worth having: a touch, then rigidity. But the working *"requires Bloodbind ignition already running"*, and the Bloodbind is the card's only Trait, carrying the card's only Risk. Whatever announces the ignition announces this. |
-| Numbers in band | **fails on the two that matter to each other** | ✓ η 0.55 is 0.05 below Tier 5's 0.60–0.70 as **R44-4** corrected it, and the card governs there — `C-062` **ruled 2026-09-25** (rung **I-2**), so this is no longer one of the faults. ✓ Stage at the floor, all four Sub-Stats sourced from the card, 1–2 s lock stated, Craft and Law V correct. ✗ The freeze depth is 0.5 mm against muscle chains centimetres deep (`SA-PHYS-VORYNN-FREEZE-DEPTH`). ✗ The Effect line and the Numerical Effect are 2.5 × 10⁹ apart (`SA-NUM-VORYNN-4TJ-VS-NOT-HARD`). |
+| Numbers in band | **fails on the two that matter to each other, plus one recorded conflict** | ✗ η 0.55 is 0.05 below Tier 5's 0.60–0.70 as **R44-4** corrected it (`C-062`). ✓ Stage at the floor, all four Sub-Stats sourced from the card, 1–2 s lock stated, Craft and Law V correct. ✗ The freeze depth is 0.5 mm against muscle chains centimetres deep (`SA-PHYS-VORYNN-FREEZE-DEPTH`). ✗ The Effect line and the Numerical Effect are 2.5 × 10⁹ apart (`SA-NUM-VORYNN-4TJ-VS-NOT-HARD`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

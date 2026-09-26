@@ -152,3 +152,18 @@ whoever put the Essence in it; enhancement moves two dials (speed, capped at
 the enhancer's Attack Speed; the hit, capped at their Attack output); each
 enhanced round is paid per shot and consumed; every enhancement stays readable
 by a Harmonist. Four flags inline.
+
+## 2026-09-25 — Item Grades: what an object can hold, stop and do
+
+**Status:** proposed 2026-09-25, awaiting Isaac
+**applies_to:** items, stats, magic-mechanism, combat
+**Full draft:** proposals/item_grades_draft.md
+
+An item's Grade is the lower of its material's ceiling (Material Index tier
+T0–T9 mapped onto the Part Four Grade ladder: T3 holds D, T4 holds C, T5 B–A,
+T7 SS, T9 EX) and its maker's Grade (R45-3). One letter read per kind of item:
+a weapon's added hit, a projectile's speed and hit, armour's proof (stops its
+Grade and below; one above breaks it, two above passes clean), a focus's
+channelling ceiling. Costs as shares of the maker's reserve (1% per enhanced
+round, 10% a weapon, 25% proofed armour, the whole reserve for a relic). Four
+flags inline.

@@ -1105,3 +1105,39 @@ the author notes."
 **Consequence if unresolved:** a scene set on or after the corridor night (or after Ignatius's fracture) cannot state who died and who inherits without choosing.
 **Recommendation:** none.
 **Status:** open
+
+## C-084 — The Accord is forming now (answer 9), but calendar and history lines count it from Year Zero, 715 years ago
+
+**Rules:** RULINGS.md 2026-09-26 "questionnaire-2026-09-26-combat-society-politics" answers 9 and 18 vs `wiki/` Concordance of Ages (Year Zero, "founding of the Accord"), The Bench of Attribution (six centuries; Strikings from Year 631), the four-hundred-year precedence dispute, the Black Concord's lost century, and card lines for Wilhelm, Borin and Iryen
+**The clash:** Answer 9 puts the Guild Accord's forming in the story's present. The pages above date the Accord, or the Codex it rests on, to centuries ago. The live pages now read the old dates as the Codex and its machinery, and the new thing as the communion of guilds signing circle by circle (applied 2026-09-26); the calendar's own "founding of the Accord" wording was not changed.
+**Quotes:** Answer 9: "The Guild Accord is forming now, in the story's present." Answer 18: "The Guild Accord's pages read as forming in circles: the Articles and Commission framework bind where a circle has signed and not yet elsewhere."
+**Consequence if unresolved:** a scene that dates anything by the Concordance calendar says the Accord is 715 years old.
+**Recommendation:** none.
+**Status:** open
+
+## C-085 — Answer 16 names the Inquisition as an enforcer; the Holy Inquisition page makes it a splinter the Accord outlaws
+
+**Rules:** RULINGS.md 2026-09-26 combat-society-politics answer 16 vs `wiki/Factions, Bloodlines & Institutions/The Holy Inquisition.md`
+**The clash:** Answer 16 lists "the Inquisition" among those who enforce the lockdown on learning magic. The Holy Inquisition page describes a rogue splinter without standing. The Gate page (published 2026-09-26) gives the lawful work to Sancta Lux's Inquisitor office and shows the Holy Inquisition doing the same work with no standing.
+**Quotes:** Answer 16: "The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners, the Inquisition, and by the guilds".
+**Consequence if unresolved:** a scene cannot say whether an Inquisitor at the door is lawful.
+**Recommendation:** none.
+**Status:** open
+
+## C-086 — Nearly everyone has a Soul Crystal (answer 13); some pages and cards give people no Crystal at all
+
+**Rules:** answers 13 and 14 vs pages saying a Class Ø soul has "no Shell to phase-lock" (the Tier page gives it a sealed Shell), a Scene Archive line ("She has no Crystal"), and Xanelor's card ("a masked boy with no Crystal")
+**The clash:** Nine "no Crystal" lines on system pages were corrected to "a Crystal that never woke" (2026-09-26). The lines above were left: answer 13 says few lack a Crystal, which allows some born without one, and the Class Ø wording disagrees with the Tier page on its own terms.
+**Quotes:** Answer 13: "Few people lack a Soul Crystal, commoners included".
+**Consequence if unresolved:** whether a crystal-less character is a rare exception or a mistake is unsettled.
+**Recommendation:** none.
+**Status:** open
+
+## C-087 — The Night Watch is a crown office (ruling); the Nol Tally and Qiu Yinzhi cards call it the Night Watch Society with chapters and its own warrant
+
+**Rules:** RULINGS.md 2026-09-26 "night-watch-and-the-mother" item 1 vs `wiki/Volume I — Character Cards/Nol Tally.md` and `Qiu Yinzhi.md`
+**The clash:** The ruling makes the Night Watch a crown office answering to the state. The cards call it the Night Watch Society, with chapters and a warrant "not the Bureau's". The Powers of the Imperial Age page (2026-09-26) puts the Society's chapters and the Night Register under the crown office.
+**Quotes:** Ruling: "It is a crown office: it works alongside the guilds but answers to the state."
+**Consequence if unresolved:** a scene cannot say whose warrant a Night Watch investigator carries.
+**Recommendation:** none.
+**Status:** open

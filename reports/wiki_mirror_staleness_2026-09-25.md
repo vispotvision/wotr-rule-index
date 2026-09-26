@@ -112,3 +112,34 @@ worktree's `RULINGS.md` and pushes a stale local `master`; `--autostash` at
 - The 2026-09-25 15:00 export died on `TimeoutError: The read operation timed out`
   against the Notion API. Fixed overhead for the crawl alone was 16m18s on the 13:00
   run. That is **WAR-68**.
+
+## Closed: the backlog committed, and the sweep verified across the whole section
+
+`de43b93`, **2026-09-25 18:40:29 -0400**, "Wiki sync: 290 file(s) changed in Notion".
+That is the wave this report measured as 290 modified-but-uncommitted files in the
+main checkout's working tree, committed intact by the first sync run to get past the
+`RULINGS.md` guard. Two further sync commits have landed since (`0d22990` 20:18,
+6 files; `16015b9` 23:17, 22 files), so the mirror is moving again on its own.
+
+Verified at `16015b9`, over `wiki/Volume I — Character Cards/`:
+
+| | count |
+|---|---|
+| card files in the section | **276** |
+| carrying `Lore · The Life Behind the Card` | **276** |
+| carrying each of *Origin*, *The Making*, *The Cost*, *Where They Stand*, *Ties* | **276** each |
+| lore source files in `imports/lore/cards/` | **276** |
+| shortest lore section | 29 lines (`Seravain Drelith · Wyrm-Crowned.md`) — no stubs |
+
+The source set and the mirrored set are the same size and the mirrored set is
+complete, so no card that the lore pass wrote is missing from the mirror. The
+pre-`de43b93` count was 5.
+
+The finding that opened this: `Hild Ice (Stark) — The Sword Princess.md` now carries
+`circlet` four times (`:63`, `:65`, `:104`, `:109`), `Lorn Stark — The Sword-Teacher.md`
+three times. Both files carry `last_edited: "2026-09-25T20:26:00.000Z"`. The WAR-106
+premise — "no occurrence of 'circlet' at all" — is no longer true of the mirror, and
+was never true of Notion.
+
+The rule at the top of this report stands regardless: the mirror committing today
+does not make it self-describing tomorrow.

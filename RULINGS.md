@@ -1964,3 +1964,26 @@ The follow-up questionnaire (16 answers), Claude Code chat.
 16. The wire is a Guild line; the Infrastructure page is corrected.
 
 Context: Answers to the open decisions left after the voice, name-audit and 57-answer passes.
+
+## 2026-09-26 — questionnaire-2026-09-26-era-apparatus
+
+The era and apparatus questionnaire (16 answers), Claude Code chat.
+
+1. Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and the meter are the industrial revolution.
+2. Electricity: Essence replaces it. Electricity was never discovered as a separate force; the Essence lamp and main fill its place.
+3. Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices and rich houses in the big cities.
+4. Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span, and WOTR also has vehicles and objects of its own invention.
+5. Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades behind, the north (Kharven) in the early 1800s; a traveller moves through time.
+6. Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist (the later ones in the later span and the richer places).
+7. The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces, glass arcades, Essence-lit streets, iron bridges.
+8. Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian, the poor in timeless work clothes, each culture bent by its Inventory.
+9. Making: clean, humming Essence works and mills; mass production exists, and the grime is in the working conditions, not the air.
+10. Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food, and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.
+11. Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span, and the Master Material Ledger's Essence-born materials alongside them.
+12. Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches and rare machine guns later; practitioners change everything anyway.
+13. Time: pocket watches for the middle class up, a standard Guild time spreading along wire and rail, bells and the sun in the country.
+14. Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the Guild is a paper empire.
+15. Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.
+16. These answers are folded into The Apparatus of the Age and The Works and Days as settled text with a regional gradient section; still no decade-by-decade table.
+
+Context: Era and material-culture questionnaire.

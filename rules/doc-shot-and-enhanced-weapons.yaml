@@ -1,0 +1,127 @@
+# Shot and the enhanced weapon, originated: no source document under sources/.
+# Drafted by Claude Code with Isaac in chat on 2026-09-25 (proposals/
+# weapon_enhancement_draft.md, logged in proposals/PROPOSED.md) and ratified by
+# Isaac the same day AS WRITTEN: the draft's four flags stand at their written
+# defaults (catch = Travel floor twice the velocity; a relic keeps its maker's
+# ceiling; the speed dial uses Attack Speed; the reference gun is a period .44).
+# R45 is the next free id-numeral bucket. Standalone-doc pattern (R25/R37/R40):
+# empty source.file. Each verbatim is a contiguous quote of the published Notion
+# page "Shot and the Enhanced Weapon" (3e758200-eb22-8154-b0ca-f67e4b148e3b,
+# child of The Apparatus of the Age), which the next sync mirrors into wiki/.
+pack: Shot and the Enhanced Weapon 2026-09-25
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-25, Claude Code: ratified as written'
+rules:
+- id: R45-1-SPEED_DECIDES_THE_DODGE
+  pack: Shot and the Enhanced Weapon 2026-09-25
+  pack_number: null
+  section: Part One
+  title: Against shot, Speed Grade decides the dodge and Resilience the hit, checked separately
+  status: live
+  kind: procedure
+  summary: A dodge against a projectile is read off the target's Speed Grade (Celerity,
+    Reflex, Sequence) against the projectile's velocity; surviving a hit is read off
+    Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges
+    with room; against a musket ball, B is where dodging is reliable.
+  verbatim: Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that
+    feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience
+    Grade. The two are checked separately.
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: 'II. Grades, Gates and Thresholds, Part Six: Speed by Grade and Level'
+    operation: extends
+  supersedes: []
+  applies_to: [combat, adjudication, stats, items]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R45-2-CATCHING_A_PROJECTILE
+  pack: Shot and the Enhanced Weapon 2026-09-25
+  pack_number: null
+  section: Part One
+  title: Catching a projectile needs a Travel floor at least twice its velocity
+  status: live
+  kind: definition
+  summary: To catch rather than dodge, the catcher's Speed Grade Travel floor must be
+    at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade
+    reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade
+    there early at overchannel risk.
+  verbatim: Catching a projectile needs a Speed Grade whose Travel floor is at least
+    twice the projectile's velocity.
+  amends:
+  - guide: Fracture of Worlds — The Living System
+    locus: 'II. Grades, Gates and Thresholds, Part Six: Speed by Grade and Level'
+    operation: extends
+  supersedes: []
+  applies_to: [combat, adjudication, stats]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R45-3-ENHANCEMENT_CEILING
+  pack: Shot and the Enhanced Weapon 2026-09-25
+  pack_number: null
+  section: Part Two
+  title: An enhanced weapon performs no higher than the Grade of whoever put the Essence in
+  status: live
+  kind: definition
+  summary: Channelled in the moment, the wielder's Grade caps the enhancement; enchanted,
+    glyphed or alchemically worked beforehand, the maker's Grade at the time of making,
+    and a relic keeps its maker's ceiling in any hand.
+  verbatim: An enhanced weapon performs no higher than the Grade of whoever put the
+    Essence into it.
+  amends:
+  - guide: The Apparatus of the Age — Equipment and Material Culture
+    locus: The Musket; The Pistol; proofed plate
+    operation: extends
+  supersedes: []
+  applies_to: [items, magic-mechanism, combat, stats]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R45-4-TWO_DIALS
+  pack: Shot and the Enhanced Weapon 2026-09-25
+  pack_number: null
+  section: Part Two
+  title: 'Enhancement moves two dials: speed (capped at Attack Speed) and the hit (capped at Attack output)'
+  status: live
+  kind: definition
+  summary: Only a speed enhancement changes a projectile's velocity, capped at the enhancer's
+    Attack Speed; a hit enhancement adds hardness, density or a contact working, capped
+    at the enhancer's Attack output band. An enhanced round is dodged at its actual velocity.
+  verbatim: An enhanced round is dodged at its actual velocity, not at its shooter's
+    Grade.
+  amends:
+  - guide: The Apparatus of the Age — Equipment and Material Culture
+    locus: The Musket; The Pistol
+    operation: extends
+  supersedes: []
+  applies_to: [items, magic-mechanism, combat]
+  verification: []
+  source:
+    file: ''
+    lines: null
+- id: R45-5-PAID_PER_SHOT_AND_FINDABLE
+  pack: Shot and the Enhanced Weapon 2026-09-25
+  pack_number: null
+  section: Part Two
+  title: An enhanced round is paid per shot and consumed, and every enhancement is readable
+  status: live
+  kind: budget
+  summary: Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled,
+    maker if prepared) and is consumed when fired; a prepared enhancement carries its
+    maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
+  verbatim: An enhanced round or arrow is paid for per shot and consumed when fired,
+  amends:
+  - guide: The Apparatus of the Age — Equipment and Material Culture
+    locus: Shot is chemically cheap and a working is not
+    operation: extends
+  supersedes: []
+  applies_to: [items, magic-mechanism, combat]
+  verification: []
+  source:
+    file: ''
+    lines: null

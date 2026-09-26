@@ -4462,6 +4462,347 @@
     "superseded_by": []
   },
   {
+    "id": "R44-1-EU_JOULE_ONE_MEGAJOULE",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "C-034",
+    "title": "One constant — 1 EU = 1 MJ, and the card figures that miss are the error",
+    "status": "live",
+    "kind": "definition",
+    "summary": "EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.",
+    "verbatim": "One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error; each is a card correction in its own issue, not in this ruling batch.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (closes C-034)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-034. The counts and the per-figure residuals are in imports/essence-ledger/fit.json; no card figure is changed by this row. imports/essence-ledger/physics-check.md (WAR-10) reports that this constant fails against real physics; the ruling is later than that report and is recorded as made.",
+    "superseded_by": []
+  },
+  {
+    "id": "R44-2-AU_FORMULA_GOVERNS",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "C-035",
+    "title": "AU/s = Flux Density × η governs; the stated card AU/s figures are the error",
+    "status": "live",
+    "kind": "definition",
+    "summary": "The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.",
+    "verbatim": "The formula governs: AU/s = Flux Density × η. The stated card AU/s figures are the error, and the twenty-six that miss are recomputed in their own issue, not in this ruling batch.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication",
+      "character-sheet"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (closes C-035)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-035. The card-by-card table is imports/essence-ledger/fit.json, formula_check; twenty-nine cards state all three fields and three already hold. No card figure is changed by this row.",
+    "superseded_by": []
+  },
+  {
+    "id": "R44-3-S_SS_GAP_RANKED_BY_SUBSTAT",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "C-036",
+    "title": "The S/SS energy gap is deliberate and is ranked by the Sub-Stat column",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "The Part Four Grade table stands as written; an attack output between 24.3 and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.",
+    "verbatim": "The gap is deliberate. The Part Four Grade table stands exactly as written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ — is ranked by the Sub-Stat column, not by joules.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (closes C-036)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-036. Because no cell changes, the three tables that carry the same break — FoW II:35-36, FoW III:41-42 and Tier Grade, Bands & the Aether Shell :60-61 — all stand as written and the question of which of them a correction would have had to name does not arise. C-038, the same shape in the travel-speed column, is not named by this ruling and stays open.",
+    "superseded_by": []
+  },
+  {
+    "id": "R44-4-ETA_PART_SEVENTEEN_GOVERNS",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "C-037",
+    "title": "η reads 0.60 to 0.70 at Stage VI–VII; the Tier 5 row is corrected to match",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.",
+    "verbatim": "Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "Fracture of Worlds — The Living System",
+        "operation": "replaces"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "stats",
+      "adjudication",
+      "magic-design"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (closes C-037)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Closes CONFLICTS.md C-037. The page edit it names is the η cell of the Tier 5 · Expert row in \"VII. Aether Class, Essence Typology, Aether Flow (Parts Seventeen–Nineteen)\", 0.50–0.60 to 0.60–0.70; that edit goes to Notion and returns through the hourly sync. The ruling does not name the page's own unresolved-conflict callout at :103, so that wording is left as written and asked separately.",
+    "superseded_by": []
+  },
+  {
+    "id": "R44-5-CARD_ETA_GOVERNS_PER_CHARACTER",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "WAR-11",
+    "title": "A card's η governs for that character; the tier tables are typical ranges",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.",
+    "verbatim": "The card's η governs per character and the tables are typical ranges; an in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as written.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "character sheet template",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (WAR-11 questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Not a CONFLICTS.md row; raised on the WAR-11 card because the three Stage VI cards state an η above both candidate ranges in C-037. Reads alongside R42-12, which held the Class ladder to be the typical path rather than a lock.",
+    "superseded_by": []
+  },
+  {
+    "id": "R44-6-BARE_BAND_V_IS_LEVEL_BAND",
+    "pack": "Essence Ledger Rulings 2026-09-25",
+    "pack_number": null,
+    "section": "WAR-11",
+    "title": "A bare \"Band V\" on a card is the live Level Band",
+    "status": "live",
+    "kind": "definition",
+    "summary": "A bare \"Band V\" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.",
+    "verbatim": "Confirmed: the bare \"Band V\" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's \"stale Band\" item closes with no edit.",
+    "amends": [
+      {
+        "guide": "character sheet template",
+        "locus": "character sheet template",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "character-sheet",
+      "stats"
+    ],
+    "verification": [],
+    "ratified": "Isaac, 2026-09-25, Paperclip board: ruled directly (WAR-11 questionnaire)",
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "notes": "Not a CONFLICTS.md row; a reading Phase 1 made and logged no conflict over, put to Isaac because it was a reading. Confirms that R43-4's sweep of the retired lettered Coherence Band does not reach these two lines.",
+    "superseded_by": []
+  },
+  {
+    "id": "R45-1-SPEED_DECIDES_THE_DODGE",
+    "pack": "Shot and the Enhanced Weapon 2026-09-25",
+    "pack_number": null,
+    "section": "Part One",
+    "title": "Against shot, Speed Grade decides the dodge and Resilience the hit, checked separately",
+    "status": "live",
+    "kind": "procedure",
+    "summary": "A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.",
+    "verbatim": "Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "II. Grades, Gates and Thresholds, Part Six: Speed by Grade and Level",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "adjudication",
+      "stats",
+      "items"
+    ],
+    "verification": [],
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "superseded_by": []
+  },
+  {
+    "id": "R45-2-CATCHING_A_PROJECTILE",
+    "pack": "Shot and the Enhanced Weapon 2026-09-25",
+    "pack_number": null,
+    "section": "Part One",
+    "title": "Catching a projectile needs a Travel floor at least twice its velocity",
+    "status": "live",
+    "kind": "definition",
+    "summary": "To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.",
+    "verbatim": "Catching a projectile needs a Speed Grade whose Travel floor is at least twice the projectile's velocity.",
+    "amends": [
+      {
+        "guide": "Fracture of Worlds — The Living System",
+        "locus": "II. Grades, Gates and Thresholds, Part Six: Speed by Grade and Level",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "combat",
+      "adjudication",
+      "stats"
+    ],
+    "verification": [],
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "superseded_by": []
+  },
+  {
+    "id": "R45-3-ENHANCEMENT_CEILING",
+    "pack": "Shot and the Enhanced Weapon 2026-09-25",
+    "pack_number": null,
+    "section": "Part Two",
+    "title": "An enhanced weapon performs no higher than the Grade of whoever put the Essence in",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.",
+    "verbatim": "An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.",
+    "amends": [
+      {
+        "guide": "The Apparatus of the Age — Equipment and Material Culture",
+        "locus": "The Musket; The Pistol; proofed plate",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "magic-mechanism",
+      "combat",
+      "stats"
+    ],
+    "verification": [],
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "superseded_by": []
+  },
+  {
+    "id": "R45-4-TWO_DIALS",
+    "pack": "Shot and the Enhanced Weapon 2026-09-25",
+    "pack_number": null,
+    "section": "Part Two",
+    "title": "Enhancement moves two dials: speed (capped at Attack Speed) and the hit (capped at Attack output)",
+    "status": "live",
+    "kind": "definition",
+    "summary": "Only a speed enhancement changes a projectile's velocity, capped at the enhancer's Attack Speed; a hit enhancement adds hardness, density or a contact working, capped at the enhancer's Attack output band. An enhanced round is dodged at its actual velocity.",
+    "verbatim": "An enhanced round is dodged at its actual velocity, not at its shooter's Grade.",
+    "amends": [
+      {
+        "guide": "The Apparatus of the Age — Equipment and Material Culture",
+        "locus": "The Musket; The Pistol",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "magic-mechanism",
+      "combat"
+    ],
+    "verification": [],
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "superseded_by": []
+  },
+  {
+    "id": "R45-5-PAID_PER_SHOT_AND_FINDABLE",
+    "pack": "Shot and the Enhanced Weapon 2026-09-25",
+    "pack_number": null,
+    "section": "Part Two",
+    "title": "An enhanced round is paid per shot and consumed, and every enhancement is readable",
+    "status": "live",
+    "kind": "budget",
+    "summary": "Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.",
+    "verbatim": "An enhanced round or arrow is paid for per shot and consumed when fired,",
+    "amends": [
+      {
+        "guide": "The Apparatus of the Age — Equipment and Material Culture",
+        "locus": "Shot is chemically cheap and a working is not",
+        "operation": "extends"
+      }
+    ],
+    "supersedes": [],
+    "applies_to": [
+      "items",
+      "magic-mechanism",
+      "combat"
+    ],
+    "verification": [],
+    "source": {
+      "file": "",
+      "lines": null
+    },
+    "superseded_by": []
+  },
+  {
     "id": "R1-1-BLACK_AGENT_ASSIGNED",
     "pack": "Pack One",
     "pack_number": 1,

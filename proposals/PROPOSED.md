@@ -140,7 +140,7 @@ canon acts (Faisal's and Verantha's Lawbell-names) left to Isaac.
 
 ## 2026-09-25 — Firearms against practitioners, and the ceiling on enhanced weapons
 
-**Status:** proposed 2026-09-25, awaiting Isaac
+**Status:** ratified 2026-09-25, Isaac: as written, flag defaults stand → R45-1..R45-5 (rules/doc-shot-and-enhanced-weapons.yaml); published under The Apparatus of the Age as "Shot and the Enhanced Weapon" (Notion 3e758200-eb22-8154-b0ca-f67e4b148e3b)
 **applies_to:** combat, stats, items, magic-mechanism
 **Full draft:** proposals/weapon_enhancement_draft.md
 

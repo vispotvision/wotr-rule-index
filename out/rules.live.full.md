@@ -1,8 +1,8 @@
 # Live rules by domain, with source text
 
-566 live of 691 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
+577 live of 702 extracted. Newest pack first within each domain; the newer rule governs where two overlap.
 
-## adjudication (29)
+## adjudication (35)
 
 ### R15-4-THIRTEEN_HAX_STRUCK [Pack Fifteen §4]
 
@@ -142,6 +142,30 @@ Counterplay to any scaled technique is always exceeding its Frontage, outlasting
 
 > The counterplay to any scaled technique is therefore always one of three things: 1. Exceed its Frontage so the war continues where it is not. 2. Outlast its Sustain so the practitioner pays and gains nothing. 3. Shorten its Re-form, which is what drill, veterancy, redundant command and a counter-Domain seated toward your own men are all purchased to do.
 
+### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
+
+EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
+
+> One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error; each is a card correction in its own issue, not in this ruling batch.
+
+### R44-2-AU_FORMULA_GOVERNS [Essence Ledger Rulings 2026-09-25 C-035]
+
+The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
+
+> The formula governs: AU/s = Flux Density × η. The stated card AU/s figures are the error, and the twenty-six that miss are recomputed in their own issue, not in this ruling batch.
+
+### R44-3-S_SS_GAP_RANKED_BY_SUBSTAT [Essence Ledger Rulings 2026-09-25 C-036]
+
+The Part Four Grade table stands as written; an attack output between 24.3 and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.
+
+> The gap is deliberate. The Part Four Grade table stands exactly as written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ — is ranked by the Sub-Stat column, not by joules.
+
+### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
+
+Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
+
+> Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
+
 ### R42-10-ACCORD_EXECUTES_ITS_OWN [Magic System Rulings 2026-09-23 C-028]
 
 The Accord executes only its own sworn members; in the New World it is the law.
@@ -159,6 +183,18 @@ Dissonance Sub-Stats per C-013: Overflow, Overchannel, Persistence.
 A Sacrament or Transposition anchor is a soul that holds the celebrant's name at weight, and it is fixed by the celebrant's declaration inside the rite, regardless of whether the anchor consents; the declaration, not consent, is the mechanism, and the bond is held under Fixatio, the anchoring law. It does not lapse when the celebrant leaves the world, the celebrant cannot amend it afterward, and it is not a displaceable affinity bond, so it has no release valve. Transposition.md says nothing about how an anchor bond ends; this rule is silent on ending.
 
 > Ruled 2026-09-12: the bond is anchored on Aurelian's soul holding Verinus's name at weight, which is the Rubric's own definition of an anchor, fixed by declaration inside the dawn rite ("Do you consent." / "No." / "Entered."), and consent is not the mechanism, the declaration is. It holds under Fixatio, the anchoring law, with no release valve, because it is not a displaceable affinity bond; taking Aurelian here without asking stands as written.
+
+### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
+
+> Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.
+
+### R45-2-CATCHING_A_PROJECTILE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.
+
+> Catching a projectile needs a Speed Grade whose Travel floor is at least twice the projectile's velocity.
 
 ### R39-1-CANON_STAT_MODEL [Stat System and Scene Rulings 2026-09-13 C-014]
 
@@ -178,7 +214,7 @@ The black stones that fell across four worlds when Verinus completed the Void ar
 
 > Reads as Crevice Shale to a Measurewright's instruments at a distance, and no instrument yet tells the two apart. Not found. Made, when the Void was completed, and what is completed has weight. Whether it acts on Realm law as Shale does is not recorded. Article III names Crevice Shale and does not name this. Enforcement cannot currently tell them apart, and Enforcement has hanged eleven men under Article III without once being asked to explain the sentence. An analogue of Crevice Shale, not Crevice Shale. Article III's wording is now tested
 
-## character-sheet (83)
+## character-sheet (87)
 
 ### R20C-16-SONZAI_RECORD_CARD [Pack Twenty R20C-16]
 
@@ -491,6 +527,30 @@ Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excl
 Whatever an engagement will do to characters' relationships happens in the three days afterward, over the burial detail and the arguments about who should have done what — the fight itself is too loud and too fast for anyone to change during it.
 
 > Rule: the interior action of a battle occurs in its aftermath. Whatever the engagement was going to do to your characters' relationships, it does in the three days afterward, over the burial detail, in the sick lines, and in the arguments about who should have done what. The fight itself is too loud and too fast for anyone to change during it.
+
+### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
+
+EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
+
+> One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error; each is a card correction in its own issue, not in this ruling batch.
+
+### R44-2-AU_FORMULA_GOVERNS [Essence Ledger Rulings 2026-09-25 C-035]
+
+The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
+
+> The formula governs: AU/s = Flux Density × η. The stated card AU/s figures are the error, and the twenty-six that miss are recomputed in their own issue, not in this ruling batch.
+
+### R44-5-CARD_ETA_GOVERNS_PER_CHARACTER [Essence Ledger Rulings 2026-09-25 WAR-11]
+
+A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
+
+> The card's η governs per character and the tables are typical ranges; an in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as written.
+
+### R44-6-BARE_BAND_V_IS_LEVEL_BAND [Essence Ledger Rulings 2026-09-25 WAR-11]
+
+A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
+
+> Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
 
 ### R23-4-MIXED_PARENTAGE [Inner World Naming Amendment IV]
 
@@ -917,7 +977,7 @@ Part Five · Prose Application is lifted out of the Revelation cell.
 
 > The Color of Essence's Revelation cell is restored to its own sentence and the block pasted inside it is lifted out as "Part Five · Prose Application" after Part Four, the same words re-homed; Limina's absence is left visible as a gap rather than papered over.
 
-## combat (64)
+## combat (69)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -1302,6 +1362,36 @@ Restricted characters (Ma'Kovu, Fushigi, Haruki, Xhem, Dova'Kan, Gorgi) are excl
 The Combat Craft Guide governs duels and small actions; the Mass Combat Craft Guide takes precedence the moment a formation exists, and duel instruments (the three-layer hit model, HEMA vocabulary, armour-tier breakdown) are suspended or replaced accordingly.
 
 > Precedence. This guide governs duels and small actions. The Mass Combat Craft Guide takes precedence the moment a formation exists. The three-layer hit model, the HEMA vocabulary and the armour-tier breakdown are all duel instruments and are explicitly suspended or replaced in mass combat per that guide's sections 1, 3 and 4.
+
+### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
+
+> Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.
+
+### R45-2-CATCHING_A_PROJECTILE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.
+
+> Catching a projectile needs a Speed Grade whose Travel floor is at least twice the projectile's velocity.
+
+### R45-3-ENHANCEMENT_CEILING [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
+
+> An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.
+
+### R45-4-TWO_DIALS [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Only a speed enhancement changes a projectile's velocity, capped at the enhancer's Attack Speed; a hit enhancement adds hardness, density or a contact working, capped at the enhancer's Attack output band. An enhanced round is dodged at its actual velocity.
+
+> An enhanced round is dodged at its actual velocity, not at its shooter's Grade.
+
+### R45-5-PAID_PER_SHOT_AND_FINDABLE [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
+
+> An enhanced round or arrow is paid for per shot and consumed when fired,
 
 ## dialogue (70)
 
@@ -1871,7 +1961,7 @@ Isaac's direction of 2026-09-12 overtakes the two pending rows that kept the pac
 
 > Superseded by Isaac's direction of 2026-09-12 to fold the packs into dated base-guide editions ("yes — start folding the packs in now"); eleven guides are folded, the remaining six follow the same way.
 
-## items (26)
+## items (30)
 
 ### R20C-22-AMMUNITION_TIERS_RATIFIED [Pack Twenty R20C-22]
 
@@ -2011,6 +2101,30 @@ Kurosetsu keeps the belt scabbard; that was an equipment ruling, not a naming on
 
 > Kurosetsu keeps the belt scabbard. That was an equipment ruling, not a naming one, and it survives.
 
+### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
+
+> Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.
+
+### R45-3-ENHANCEMENT_CEILING [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
+
+> An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.
+
+### R45-4-TWO_DIALS [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Only a speed enhancement changes a projectile's velocity, capped at the enhancer's Attack Speed; a hit enhancement adds hardness, density or a contact working, capped at the enhancer's Attack output band. An enhanced round is dodged at its actual velocity.
+
+> An enhanced round is dodged at its actual velocity, not at its shooter's Grade.
+
+### R45-5-PAID_PER_SHOT_AND_FINDABLE [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
+
+> An enhanced round or arrow is paid for per shot and consumed when fired,
+
 ### R28-1-BLACK_STONES_SHALE_ANALOGUE [Voidfall Stone / Black Stones Ruling Standing Ruling]
 
 The black stones that fell across four worlds when Verinus completed the Void are Voidfall Stone, a distinct T8 material: matte, made not emplaced, and indistinguishable from Crevice Shale to Measurewright instruments at a distance. They are not Crevice Shale. Article III names Crevice Shale specifically and does not name Voidfall Stone, so Enforcement acting under Article III against the stones is acting on a misreading; write it that way. Never put the word "shale" on the narrative page of the Verinus scenes for these stones. The Crevice Shale ledger rows stand unchanged.
@@ -2029,7 +2143,7 @@ A Witnessed-Tempered piece inherits a scaled-down Ancestral Dominion Frame: ever
 
 > If the piece changes hands outside the terms of the oath, its accrued memory does not transfer. This is not the Dawi's Crystal-Coherence self-punishment, a cost paid by the oath-breaker's own soul; it is closer to the Weight of the Blood, where failure feels ancestral rather than personal. The object simply stops recognizing the new holder as a party the law was made for. In the worst documented cases, Physical Plane Authority's "hold shape" reverses for that bearer alone, and the piece becomes more failure-prone in their hands than an ordinary equivalent.
 
-## magic-design (81)
+## magic-design (82)
 
 ### R20C-28-PHENOMENON_BANK_CANDIDATES [Pack Twenty R20C-28]
 
@@ -2505,6 +2619,12 @@ Cymorath carries exactly the portfolio Fracture of Worlds gives it: the Air of A
 
 > re-homed on Vohrin, the Abyssal Depths Titan that FOW III already names as the thermal-extraction signature: Family Caloria, Physics Domain Thermodynamics, Titan-keyed. Cymorath is the Air of Ascent exactly as Fracture of Worlds gives it, freedom and motion, Dexterity Celerity and Gnosis Cartography and Perception, and nothing else. Nothing on the FOW canon pages changes. This entry drafted its own cold out of Caloria and touched neither, and the ruling says that was the right shape: there is no dedicated frost Wellspring, cold is heat run backward, and the pages that had been calling it Cymorath now call it Vohrin.
 
+### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
+
+Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
+
+> Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
+
 ### R42-7-FOUR_PATHS [Magic System Rulings 2026-09-23 C-025]
 
 There are four Paths, Fate included.
@@ -2517,7 +2637,7 @@ The lettered Coherence Band gives way to the Tier of Standing everywhere.
 
 > The retired lettered Coherence Band is replaced, wherever it survives outside the Magic System pages, by the Tier of Standing for the page's Stage, and η is kept as written.
 
-## magic-mechanism (102)
+## magic-mechanism (105)
 
 ### R20C-17-SITES_RECHARGE_UNHELPFULLY [Pack Twenty R20C-17]
 
@@ -3127,6 +3247,24 @@ Establishes the Concordant Crystal as the general, reusable mechanism for a Soul
 The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
+
+### R45-3-ENHANCEMENT_CEILING [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
+
+> An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.
+
+### R45-4-TWO_DIALS [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Only a speed enhancement changes a projectile's velocity, capped at the enhancer's Attack Speed; a hit enhancement adds hardness, density or a contact working, capped at the enhancer's Attack output band. An enhanced round is dodged at its actual velocity.
+
+> An enhanced round is dodged at its actual velocity, not at its shooter's Grade.
+
+### R45-5-PAID_PER_SHOT_AND_FINDABLE [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Each enhanced round or arrow draws on the enhancer's reserve (wielder if channelled, maker if prepared) and is consumed when fired; a prepared enhancement carries its maker's Duration and goes stale. A Harmonist reads any enchanted weapon without touching it.
+
+> An enhanced round or arrow is paid for per shot and consumed when fired,
 
 ### R36-1-YASOSHIMA_SINK_YUNO_SECRET [Yasoshima Essence Sink / What House Yuno Declined to Disclose What the Research Division Was Not Told]
 
@@ -5952,7 +6090,7 @@ The Kharven Standing Inventory (airag, borts, aaruul, the deel, the night-stone,
 
 > The Kharven Standing Inventory. Airag, borts, aaruul, the deel, the night-stone, the blubber lamp, the woodpile count, the death-house and the Waiting, sky burial, and all eight proverbs. This is Mongolian-Inuit material culture, derived from permafrost and scarcity, and it is load-bearing in every scene written this session. Reverting it would strand the execution scene, the council, the wall scene and the manor scene all at once, and it would cost more than it bought. Recommendation: keep.
 
-## stats (62)
+## stats (71)
 
 ### R20C-30-STAGE_NAMES_FROM_FOW [Pack Twenty R20C-30]
 
@@ -6182,6 +6320,42 @@ Speed is Essence; a character who arrives fast arrives depleted, and there is no
 
 > High-Grade couriers give functional real-time command across a theatre. Speed is Essence, couriers are interdicted first, and formations trained on instantaneous command collapse harder when they lose it than formations that never had it. Design consequence: movement techniques are priced as expenditure, not as mobility. A character who arrives fast arrives depleted. There is no free travel at Grade and a scene that has one has spent a resource silently.
 
+### R44-1-EU_JOULE_ONE_MEGAJOULE [Essence Ledger Rulings 2026-09-25 C-034]
+
+EU converts to joules at one constant, 1 EU = 1 MJ, everywhere; a card figure that then sits outside its Stage's band is a card error and is corrected in its own issue.
+
+> One constant: 1 EU = 1 MJ stands. The Ledger converts at 1 MJ everywhere, and the card figures that then sit outside their Stage's band are the error; each is a card correction in its own issue, not in this ruling batch.
+
+### R44-2-AU_FORMULA_GOVERNS [Essence Ledger Rulings 2026-09-25 C-035]
+
+The stated formula is an identity and governs; where a card's AU/s is not Flux Density × η, the card figure is the error and is recomputed in its own issue.
+
+> The formula governs: AU/s = Flux Density × η. The stated card AU/s figures are the error, and the twenty-six that miss are recomputed in their own issue, not in this ruling batch.
+
+### R44-3-S_SS_GAP_RANKED_BY_SUBSTAT [Essence Ledger Rulings 2026-09-25 C-036]
+
+The Part Four Grade table stands as written; an attack output between 24.3 and 41.8 TJ is ranked by the Sub-Stat column rather than by joules.
+
+> The gap is deliberate. The Part Four Grade table stands exactly as written, and an attack output between 2.42672×10¹³ and 4.184×10¹³ J — 24.3 to 41.8 TJ — is ranked by the Sub-Stat column, not by joules.
+
+### R44-4-ETA_PART_SEVENTEEN_GOVERNS [Essence Ledger Rulings 2026-09-25 C-037]
+
+Part Seventeen's Class I figure governs the efficiency conflict — η is 0.60 to 0.70 at Stage VI–VII — and Part Nineteen's Tier 5 Expert row is corrected to match it.
+
+> Part Seventeen governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is corrected to match.
+
+### R44-5-CARD_ETA_GOVERNS_PER_CHARACTER [Essence Ledger Rulings 2026-09-25 WAR-11]
+
+A character card's stated η governs for that character, the η tables being typical ranges rather than caps, so an in-world-acknowledged outlier stands.
+
+> The card's η governs per character and the tables are typical ranges; an in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's 0.81 and Naiser Yukari's figure stand as written.
+
+### R44-6-BARE_BAND_V_IS_LEVEL_BAND [Essence Ledger Rulings 2026-09-25 WAR-11]
+
+A bare "Band V" on a card reads as the live Level Band, not the retired lettered Coherence Band, and no wording changes.
+
+> Confirmed: the bare "Band V" on Raga's and Verinus VII's cards is the live Level Band, and nothing changes. The brief's "stale Band" item closes with no edit.
+
 ### R42-1-TIER_NAMES_ARCHMASTER_PARAGON [Magic System Rulings 2026-09-23 Tier names]
 
 The nine Tiers of Standing; Tier 8 Archmaster, Tier 9 Paragon.
@@ -6280,6 +6454,24 @@ Establishes the Concordant Crystal as the general, reusable mechanism for a Soul
 The three layers do not fuse identically. The Essence Cores never fuse: each donor keeps a discrete Core -- identity, memory and Traits remain their own -- and only one donor's Core occupies the frame's single point of outward control at a time, with the hand-off between donors itself a Continuum-recognized cost that degrades Dexterity and Reflex-family Sub-Stats independent of the frame's build. The Aether Shell fuses and is singular without exception: one frame produces exactly one Aether Class, one eta, and one Coherence Band, however many donors it carries, because a body has only one nervous system to conduct through -- a Concordant Crystal does not multiply a Shell's ceiling by donor count, it grants N donors the throughput of one Shell. The Attraction Layer alone is genuinely plural: it carries one discrete Wellspring harmonization per donor, running concurrently rather than blending into a single current, which is how a Concordant Crystal expresses several Wellsprings where a single-donor Crystal expresses at most a compatible few; donors drawing on opposed Wellspring Houses cannot co-anchor one Layer and the frame will not form, or will not hold.
 Coherence and eta are pooled, read once off the shared Shell regardless of donor count. Tempering Coherence, the Sub-Stat, stays per-donor because it lives in the Essence Core; a Concordant Crystal's stability is read off its least coherent donor, not their average. A Concordant Crystal runs Overgrown by default, not as a symptom: one Shell built to one donor's architecture now carries the combined Essence pressure of every donor it holds.
 A donor's death or clean removal drops the frame from N to N-1 donors without destroying it: that donor's Wellspring line falls silent, the Shell re-equilibrates, and the frame settles toward Refined as the shed pressure eases its standing Overgrowth. A death the surviving donors refuse to release does not settle; the bond curdles into Obsession Force instead of dissolving, and the frame fractures under a signature that has stopped answering. A Concordant Crystal carries two failure modes no single-donor Crystal can suffer: Obsession Force fixation on an unreleased co-donor, and total loss of output from every donor at once should the single shared Shell Cloud or Rupture, where separate Crystals would each fail independently.
+
+### R45-1-SPEED_DECIDES_THE_DODGE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+A dodge against a projectile is read off the target's Speed Grade (Celerity, Reflex, Sequence) against the projectile's velocity; surviving a hit is read off Resilience. Against a plain .44 at ~235 m/s, D reacts and is hit, C dodges, B dodges with room; against a musket ball, B is where dodging is reliable.
+
+> Dodging is read off the target's Speed Grade (the Dexterity Sub-Stats that feed it, chiefly Celerity, Reflex and Sequence), and surviving a hit off their Resilience Grade. The two are checked separately.
+
+### R45-2-CATCHING_A_PROJECTILE [Shot and the Enhanced Weapon 2026-09-25 Part One]
+
+To catch rather than dodge, the catcher's Speed Grade Travel floor must be at least twice the projectile's velocity; B-Grade for a period revolver, A-Grade reliably for a musket ball. Alacrity or Celerity techniques can bring a lower Grade there early at overchannel risk.
+
+> Catching a projectile needs a Speed Grade whose Travel floor is at least twice the projectile's velocity.
+
+### R45-3-ENHANCEMENT_CEILING [Shot and the Enhanced Weapon 2026-09-25 Part Two]
+
+Channelled in the moment, the wielder's Grade caps the enhancement; enchanted, glyphed or alchemically worked beforehand, the maker's Grade at the time of making, and a relic keeps its maker's ceiling in any hand.
+
+> An enhanced weapon performs no higher than the Grade of whoever put the Essence into it.
 
 ### R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT [Stat Gates and Re-cost Ruling Standing Ruling]
 

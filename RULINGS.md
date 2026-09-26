@@ -885,3 +885,56 @@ Answered by Isaac in Claude Code chat, deciding the calls the clean rewrites of 
 - **Dirge Ascension** — Dirge Ascension: Francis's Sovereignty stays capped at A even while ascended (Path-gate ruling holds); the world-rewrite runs weaker.
 - **Hunter's Breath; Maw of Crystalline Stasis; Bloodbind Surge; Cryost Ascendant** — Vohrin is one power at two levels, Titan and Wellspring; the four frost workings become Titan-derived, likely raising their standing and cost.
 - **Symphonia Ascendant** — General rule: governing Sub-Stats belong to the practitioner, not the working's Wellsprings; Symphonia Ascendant's 5 km reach needs no third harmonisation.
+
+## 2026-09-26 — Ability Law (R47), Claude Code chat
+
+Isaac answered the ability-rules questionnaire in Claude Code chat: abilities are written so he can make up his own applications. Each row below is one ruling; the index pack is rules/doc-ability-law-2026-09-26.yaml.
+
+### R47-1-NO_APPLICATIONS
+
+An ability entry describes what the ability is, never how to use it: the mechanism, what it can act on, its costs, its limits, its tell and its counters. No tactics, combos, worked fights or lines telling the reader how to use it; the owner invents the applications.
+
+### R47-2-FIELD_FORMAT
+
+New abilities use the field format: the card top (Summary card, Codex line, FOW line, Origin) followed by the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, each a set of one-line **Field** · value entries. The Design Chain and the six-line card are retired as page formats.
+
+### R47-3-COUNTERS_AS_FACTS
+
+Tells and counters stay, written as facts only: what the ability cannot survive and what gives it away, never an instruction to an opponent. Players work out the tactic.
+
+### R47-4-LEDGER_COSTS
+
+A new ability's cost is a share of full reserve. Its EU and joule figures are read off the Essence Ledger's bands for its Stage, and its Grade off the joules to Grade to tier spine.
+
+### R47-5-LADDER_RUNG
+
+Every new item, draught, summon, Domain, Wellspring site, weapon or beast carries its Tier Ladder rung by name, read off the spine.
+
+### R47-6-RESEARCH_STAYS
+
+The research step stays: the real phenomenon is researched first, and the cost and the limits are derived from the mechanism.
+
+### R47-7-NAMES_NOT_NUMBERS
+
+Tiers of standing and ladder rungs are written by name only, never as numbers.
+
+### R47-8-WASTE_IS_HEAT
+
+A working's wasted energy radiates as heat at the caster's Shell; large sustained workings scorch their surroundings and can be seen for miles.
+
+### R47-9-INHERITED_FAILURES
+
+Every working inherits the documented failures of every Wellspring it draws on, and opponents can induce them.
+
+### R47-10-STATS_ARE_THE_CASTERS
+
+Governing Sub-Stats belong to the practitioner, not to the working's Wellsprings, and anyone may allocate into their Stage's strain band at a stated risk.
+
+### R47-11-TIME_AND_ENERGY
+
+One combat turn is six seconds. Efficiency above one draws its surplus from the Aether stratum. Healing and mending always cost more than breaking.
+
+### R47-12-MYSTERY_STAYS_OPEN
+
+A What nobody knows question is never answered as fact on the page; a proposed answer is one in-world school's reading and the mystery stays open.
+

@@ -65,7 +65,7 @@ rules:
     pack_number: 17
     section: "§3"
     title: The five-line card is replaced by a six-line card, mechanism first
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       The technique card format becomes six ordered lines — Operation,

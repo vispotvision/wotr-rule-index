@@ -35,29 +35,49 @@ Nine, and whatever `load_rules` returns newer.
 The swap test: if two characters exchanged abilities and neither read as
 wrong, neither ability is working.
 
-## Entry format
+## Entry format (Ability Law R47, 2026-09-26)
 
-**Summary card, five lines, what the reader sees:**
-- **Effect**: two to four sentences. What happens, what it looks like, what the
-  target feels, written as the mechanism playing out: the boundary the glyph
-  moves, the law doing what it does, and that is the effect. Mechanism and
-  Effect are one thing (Isaac, 2026-09-24, RULINGS.md); an Effect that could
-  be true of a different mechanism is wrong. Detail is not complexity.
-- **Cost**: one line. What it does to the body and what remains after. "Overuse
-  strains him" is not a cost. The cost must survive outside the fight.
-- **Limit**: one line. What it structurally cannot do.
-- **Counter**: one line. Mandatory on Signature techniques.
-- **What nobody knows**: one line per art, a question about why the law holds,
-  never about what the working does (R17). Mechanism is on the page; origin is
-  not.
+**Describe what the ability is, never how to use it.** Mechanism, what it can
+act on, costs, limits, tell and counters. No tactics, combos, worked fights,
+"use it to…" lines or fight counts written as advice: Isaac invents the
+applications. Counters and tells are facts ("fails in a warm room", "the air
+shimmers"), never instructions to an opponent.
 
-**Full Design Chain** (workbook, printed in entries and sheets, never surfaced
-as explanation in narration): Trigger, Function, Mechanism, Numerical Effect,
-Target Response, Consequence, Limitation, Weakness, Cost, Counterplay.
+The page is the **field format**, one `**Field** · value` line per field, 1–2
+short plain sentences, tables only for numbers. Model:
+`imports/system-accounts/_edition/Spellcraft/Fallacy.md` (write-up) and
+`imports/page-tops/Spellcraft/Fallacy.md` (top).
 
-**Codex line.** **FOW line.** **Phenomenon line** (real phenomenon, Physics
-Domain, Wellspring, Category, Mechanism Vocabulary term, stated fault) in the
-author notes.
+**Card top:** `## Summary card` (Effect, Cost, Limit, Counter, What nobody
+knows) · `## Codex line` (Wellspring, Family, Physics Domain, Category, Craft,
+Stage floor, Grade required, Path gate) · `## FOW line` (Governing Primary,
+Stage floor, Grade required, Path gate, Resonant Pair) · `## Origin` (Origin,
+Practitioners).
+
+**Write-up:** `## Physics` (Phenomenon, Law, Limit, a Quantity | Working |
+Result table) · `## Metaphysics` (Aether, Wellspring per Wellspring, Inherited
+failures, Essence, School) · `## Mechanism` (Glyph, Boundary, Effect, Failure,
+Bleed) · `## Essence` (Practitioner, a cost table, Cost, Duration) ·
+`## Counterplay` (Tell, Limits, Beats it, Look up).
+
+Rules that bind the fields:
+- The Effect is the mechanism playing out (mechanism and effect are one thing).
+- **Costs** are a share of full reserve; EU and joules come off the Essence
+  Ledger's band for the Stage (Fracture of Worlds Part Twenty-Three), and the
+  Grade off the joules → Grade → tier spine.
+- **Things** (items, draughts, summons, Domains, sites, weapons, beasts) carry
+  their Tier Ladder rung by name (Part Twenty-Four).
+- Tiers and rungs by **name**, never number; Stages by name.
+- Waste radiates as heat at the Shell; every working inherits its Wellsprings'
+  failures; governing Sub-Stats are the caster's; one turn is 6 seconds;
+  mending costs more than breaking.
+- **What nobody knows** is never answered as fact; a proposed answer is one
+  in-world school's reading.
+- Research stays: the real phenomenon first, cost and limits derived from the
+  mechanism. The Design Chain and six-line card are retired as page formats.
+
+**Phenomenon line** (real phenomenon, Physics Domain, Wellspring, Category,
+stated fault) stays in the author notes, which never reach the page.
 
 ## Scope rules for the other entry kinds (Pack Seventeen §5)
 

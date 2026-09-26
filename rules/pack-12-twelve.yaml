@@ -157,7 +157,7 @@ rules:
     pack_number: 12
     section: "§1"
     title: The Design Chain's workbook confinement is struck
-    status: live
+    status: superseded
     kind: repeal
     summary: >-
       Pack Seven's confinement of the Design Chain to the workbook is
@@ -365,7 +365,7 @@ rules:
     pack_number: 12
     section: "§3"
     title: The ten-element Design Chain is prose-legal again
-    status: live
+    status: superseded
     kind: repeal
     summary: >-
       The Design Chain (Trigger, Function, Mechanism, Numerical Effect,
@@ -426,7 +426,7 @@ rules:
     pack_number: 12
     section: "§3"
     title: The five-line card becomes a summary above the full chain
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       Technique writeups now carry the full Design Chain in place of the

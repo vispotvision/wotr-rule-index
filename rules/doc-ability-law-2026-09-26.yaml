@@ -1,0 +1,328 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on
+# 2026-09-26 in Claude Code chat, answering the ability-rules questionnaire, and the
+# setting-wide rulings from the system-accounts questionnaires the same day.
+# Each verbatim is an exact substring of its RULINGS.md entry.
+# Standalone-ruling pattern: empty source.file.
+pack: Ability Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R47-1-NO_APPLICATIONS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: A
+  title: 'What an ability entry describes: what it is, never how to use it'
+  status: live
+  kind: mandate
+  summary: An ability entry states the mechanism, what it can act on, its costs, limits, tell
+    and counters, and never how it is used in a fight.
+  verbatim: 'An ability entry describes what the ability is, never how to use it: the mechanism,
+    what it can act on, its costs, its limits, its tell and its counters. No tactics, combos,
+    worked fights or lines telling the reader how to use it; the owner invents the applications.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - character-sheet
+  - items
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-2-FIELD_FORMAT
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: B
+  title: The field format replaces the Design Chain and the six-line card
+  status: live
+  kind: mandate
+  summary: New ability pages use the card top (Summary card, Codex line, FOW line, Origin) plus
+    the Physics, Metaphysics, Mechanism, Essence and Counterplay field blocks; the Design Chain
+    and six-line card are retired.
+  verbatim: 'New abilities use the field format: the card top (Summary card, Codex line, FOW
+    line, Origin) followed by the Physics, Metaphysics, Mechanism, Essence and Counterplay blocks,
+    each a set of one-line **Field** · value entries. The Design Chain and the six-line card
+    are retired as page formats.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: replaces
+  supersedes:
+  - R12-1-DESIGN_CHAIN_RETURNS
+  - R12-3-DESIGN_CHAIN_RETURNS
+  - R12-3-CARD_PLUS_CHAIN
+  - R17-3-SIX_LINE_CARD
+  applies_to:
+  - magic-design
+  - character-sheet
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-3-COUNTERS_AS_FACTS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: C
+  title: Counters and tells are stated as facts, not instructions
+  status: live
+  kind: mandate
+  summary: Tells and counters stay mandatory but are written as facts about what the ability
+    cannot survive and what gives it away, never as instructions to an opponent.
+  verbatim: 'Tells and counters stay, written as facts only: what the ability cannot survive
+    and what gives it away, never an instruction to an opponent. Players work out the tactic.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-4-LEDGER_COSTS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: D
+  title: Costs come from the Essence Ledger as a share of full reserve
+  status: live
+  kind: mandate
+  summary: A new ability's cost is a share of full reserve, with EU and joules read off the
+    Essence Ledger's bands for its Stage and its Grade read off the joules to Grade to tier
+    spine.
+  verbatim: A new ability's cost is a share of full reserve. Its EU and joule figures are read
+    off the Essence Ledger's bands for its Stage, and its Grade off the joules to Grade to tier
+    spine.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - stats
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-5-LADDER_RUNG
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: E
+  title: Things are ranked on the Tier Ladders by rung name
+  status: live
+  kind: mandate
+  summary: Every new item, draught, summon, Domain, site, weapon or beast carries its Tier Ladder
+    rung by name, read off the spine.
+  verbatim: Every new item, draught, summon, Domain, Wellspring site, weapon or beast carries
+    its Tier Ladder rung by name, read off the spine.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - items
+  - magic-design
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-6-RESEARCH_STAYS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: F
+  title: Research the phenomenon first; derive cost and limit from the mechanism
+  status: live
+  kind: procedure
+  summary: 'The research step stays: name and research the real phenomenon first, and derive
+    cost and limit from the mechanism.'
+  verbatim: 'The research step stays: the real phenomenon is researched first, and the cost
+    and the limits are derived from the mechanism.'
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-7-NAMES_NOT_NUMBERS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: G
+  title: Tiers and rungs by name, never by number
+  status: live
+  kind: ban
+  summary: Tiers of standing and ladder rungs are written by name only, never numbered.
+  verbatim: Tiers of standing and ladder rungs are written by name only, never as numbers.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - stats
+  - items
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-8-WASTE_IS_HEAT
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: H
+  title: A working's waste radiates as heat at the Shell
+  status: live
+  kind: definition
+  summary: Wasted energy leaves as heat at the caster's Shell; large sustained workings scorch
+    their surroundings and are visible at distance.
+  verbatim: A working's wasted energy radiates as heat at the caster's Shell; large sustained
+    workings scorch their surroundings and can be seen for miles.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  - combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-9-INHERITED_FAILURES
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: I
+  title: Workings inherit their Wellsprings' failures
+  status: live
+  kind: definition
+  summary: Every working carries the documented failures of every Wellspring it draws on, and
+    opponents can induce them.
+  verbatim: Every working inherits the documented failures of every Wellspring it draws on,
+    and opponents can induce them.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-10-STATS_ARE_THE_CASTERS
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: J
+  title: Governing Sub-Stats belong to the practitioner; strain band is allocatable
+  status: live
+  kind: definition
+  summary: Governing Sub-Stats belong to the practitioner rather than the working's Wellsprings,
+    and anyone may allocate into their Stage's strain band at a stated risk.
+  verbatim: Governing Sub-Stats belong to the practitioner, not to the working's Wellsprings,
+    and anyone may allocate into their Stage's strain band at a stated risk.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-design
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-11-TIME_AND_ENERGY
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: K
+  title: Six-second turn; η above one draws on the Aether; mending costs more than breaking
+  status: live
+  kind: definition
+  summary: One combat turn is six seconds; efficiency above one draws its surplus from the Aether
+    stratum; healing and mending always cost more than breaking.
+  verbatim: One combat turn is six seconds. Efficiency above one draws its surplus from the
+    Aether stratum. Healing and mending always cost more than breaking.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  - stats
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).
+- id: R47-12-MYSTERY_STAYS_OPEN
+  pack: Ability Law 2026-09-26
+  pack_number: null
+  section: L
+  title: What nobody knows stays open; answers are one school's reading
+  status: live
+  kind: ban
+  summary: A What nobody knows question is never answered as fact; any proposed answer is presented
+    as one in-world school's reading.
+  verbatim: A What nobody knows question is never answered as fact on the page; a proposed answer
+    is one in-world school's reading and the mystery stays open.
+  amends:
+  - guide: Ability and Technique Design Guide
+    locus: Ability and Technique Design Guide
+    operation: adds
+  supersedes: []
+  applies_to:
+  - magic-design
+  - codex
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (ability-rules questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: Recorded in RULINGS.md under 2026-09-26 — Ability Law (R47).

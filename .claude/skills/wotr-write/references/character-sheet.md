@@ -60,8 +60,9 @@ VI. Physical Force
 VII. Aether Flow
 VIII. Traits (each names the Lattice property altered)
 IX. Domain
-X. Techniques (five-line card, Design Chain, Codex line, FOW line; Counterplay
-   mandatory; see technique-design.md)
+X. Techniques (field format: card top plus Physics / Metaphysics / Mechanism /
+   Essence / Counterplay; what each is, never how to use it; costs as shares of
+   full reserve off the Essence Ledger; see technique-design.md, R47)
 XI. Spirit Axes
 XII. Resistances
 XIII. Physical Description (full inventory: hair by comparison, face, body with

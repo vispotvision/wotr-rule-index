@@ -55,13 +55,13 @@ def _env() -> dict:
     return env
 
 
-def _run(cmd: list[str], timeout: int = 600) -> tuple[int, str]:
+def _run(cmd: list[str], timeout: int = 600, cwd: Path = ROOT) -> tuple[int, str]:
     # The child gets a session of its own so a timeout can kill the whole tree. subprocess.run's
     # timeout kills only the bash it started; a python step left running under sync.sh kept the
     # sync lock (build/.sync.lock, inherited on fd 9) until it finished, and every hourly run in
     # between logged "another sync is running; skipped" and exited 0. Raises TimeoutExpired like
     # subprocess.run did, once the group is gone.
-    p = subprocess.Popen(cmd, cwd=ROOT, env=_env(), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
+    p = subprocess.Popen(cmd, cwd=cwd, env=_env(), stdout=subprocess.PIPE, stderr=subprocess.PIPE,
                          text=True, encoding="utf-8", errors="replace", start_new_session=True)
     try:
         out, err = p.communicate(timeout=timeout)
@@ -778,36 +778,106 @@ def cast_index(write: bool = True) -> str:
     """Who appears in which scene. Matches every wiki character-card name (and the
     voice roster) against scenes/, writes scenes/CAST.md and, if missing, a
     scenes/ARCS.md reading-order skeleton grouped by the numbered prefixes. Returns
-    the cast list."""
-    names = set()
+    the cast list.
+
+    Alias collapsing: short roster names (e.g. 'Aurelian') are collapsed into their
+    full card name (e.g. 'Aurelian Prudentius Custos Clausorum') when one exists.
+    Mentions from either form are merged; the heading shows the canonical name with
+    aliases in parentheses."""
+    # --- collect card names from wiki ---
+    card_names: set[str] = set()
     for p in WIKI.rglob("*.md"):
         if "character card" in p.parent.name.lower() or p.parent.name in ("Characters", "Sodoku Moto", "Hild Ice (Stark) — The Sword Princess"):
             stem = re.split(r"\s+[—·]\s+", p.stem)[0].strip()
             if 3 <= len(stem) <= 40 and not stem.lower().startswith("volume"):
-                names.add(stem)
-    for n in ["Sodoku Moto", "Yoko Mishiro", "Emira", "Black Agent", "Cozbi Mahuo", "Lambert", "Pietro", "Hild Ice", "Renard Greymane",
-              "Dhaerin", "Rengai", "Niran", "Mira", "Haruki", "Verinus", "Darius", "Aurelian", "Charles", "Wren", "Dabney", "Kwon Mu-jin", "Ilthára", "Brida", "Dougou", "Rashani"]:
-        names.add(n)
+                card_names.add(stem)
+    # --- short roster names ---
+    short_names = {"Sodoku Moto", "Yoko Mishiro", "Emira", "Black Agent", "Cozbi Mahuo", "Lambert", "Pietro", "Hild Ice", "Renard Greymane",
+                   "Dhaerin", "Rengai", "Niran", "Mira", "Haruki", "Verinus", "Darius", "Aurelian", "Charles", "Wren", "Dabney", "Kwon Mu-jin", "Ilthára", "Brida", "Dougou", "Rashani"}
+    # --- build alias map: short → canonical card name ---
+    # A short name collapses into a card name when the card name starts with it
+    # or (for parenthetical variants like "Hild Ice" → "Hild Ice (Stark)") contains it.
+    alias_to_canon: dict[str, str] = {}  # short name → canonical
+    canon_aliases: dict[str, list[str]] = {}  # canonical → [aliases]
+    for short in sorted(short_names):
+        if short in card_names:
+            continue  # exact match, no alias needed
+        candidates = [c for c in card_names if c.startswith(short + " ") or c.startswith(short + "(") or c == short]
+        if len(candidates) == 1:
+            alias_to_canon[short] = candidates[0]
+            canon_aliases.setdefault(candidates[0], []).append(short)
+    # all names to search for (cards + unmatched short names)
+    names = card_names | (short_names - set(alias_to_canon.keys()))
     scenes = sorted(p for p in SCENES.glob("*.md") if p.name not in ("MANIFEST.md", "CAST.md", "ARCS.md"))
     texts = {p: _read(p) for p in scenes}
-    appear: dict[str, list[str]] = {}
+    # --- match each name against scenes ---
+    raw_hits: dict[str, dict[str, int]] = {}  # name → {scene_file: count}
     for n in sorted(names):
         first = n.split()[0]
         rx = re.compile(r"(?<!\w)" + re.escape(n) + r"(?!\w)")
         rx_first = re.compile(r"(?<!\w)" + re.escape(first) + r"(?!\w)") if len(first) >= 4 else None
-        hits = []
         for p, t in texts.items():
             c = len(rx.findall(t))
             if c == 0 and rx_first:
                 c = len(rx_first.findall(t))
             if c >= 2:
-                hits.append((c, p.name))
-        if hits:
-            hits.sort(key=lambda x: -x[0])
-            appear[n] = [f"{f} ({c})" for c, f in hits]
+                raw_hits.setdefault(n, {})[p.name] = c
+    # --- collapse aliases: merge short-name hits into the canonical card name ---
+    for short, canon in alias_to_canon.items():
+        short_scenes = raw_hits.pop(short, {})
+        if short_scenes:
+            canon_scenes = raw_hits.setdefault(canon, {})
+            for scene, count in short_scenes.items():
+                canon_scenes[scene] = max(canon_scenes.get(scene, 0), count)
+    # --- collapse by shared first word ---
+    # Names that share a first word (≥4 chars) and have ≥80% scene overlap are
+    # the same character matched via the first-word fallback.  Merge them under
+    # the longest name (the most specific card name).
+    first_groups: dict[str, list[str]] = {}
+    for n in list(raw_hits):
+        first = n.split()[0]
+        if len(first) >= 4:
+            first_groups.setdefault(first, []).append(n)
+    for first, group in first_groups.items():
+        if len(group) < 2:
+            continue
+        # check pairwise scene overlap
+        scene_sets = {n: set(raw_hits[n].keys()) for n in group if n in raw_hits}
+        if len(scene_sets) < 2:
+            continue
+        # find the pair with the most overlap; if ≥80%, collapse the group
+        all_scenes = set()
+        for s in scene_sets.values():
+            all_scenes |= s
+        common = set.intersection(*scene_sets.values()) if scene_sets else set()
+        if len(all_scenes) == 0 or len(common) / len(all_scenes) < 0.8:
+            continue
+        # collapse: pick the longest name as canonical
+        canonical = max(group, key=len)
+        merged_scenes = raw_hits.setdefault(canonical, {})
+        absorbed = []
+        for n in group:
+            if n == canonical:
+                continue
+            for scene, count in raw_hits.pop(n, {}).items():
+                merged_scenes[scene] = max(merged_scenes.get(scene, 0), count)
+            absorbed.append(n)
+        if absorbed:
+            canon_aliases.setdefault(canonical, []).extend(absorbed)
+    # --- format output ---
+    appear: dict[str, list[str]] = {}
+    for n, scene_counts in raw_hits.items():
+        hits = sorted(scene_counts.items(), key=lambda x: -x[1])
+        appear[n] = [f"{f} ({c})" for f, c in hits]
     out = ["# Cast index", "", f"{len(appear)} named characters across {len(scenes)} scenes; count is mentions. Generated by WOTR MCP cast_index; regenerate after new scenes.", ""]
     for n, files in sorted(appear.items(), key=lambda kv: -len(kv[1])):
-        out.append(f"## {n} ({len(files)} scenes)")
+        aliases = canon_aliases.get(n)
+        if aliases:
+            aliases = sorted(set(aliases), key=len)
+            label = f"{n} (a.k.a. {', '.join(aliases)})"
+        else:
+            label = n
+        out.append(f"## {label} ({len(files)} scenes)")
         out.append(", ".join(files))
         out.append("")
     text = "\n".join(out)
@@ -1574,6 +1644,32 @@ def narration_status(job: str = "") -> str:
         mins = f.stat().st_size / (96_000 / 8) / 60 if f.suffix == ".mp3" else f.stat().st_size / (24000 * 2) / 60
         out.append(f"- {f.relative_to(audio_dir).as_posix()}  (~{mins:.0f} min)  {_audio_url(f)}")
     return "\n".join(out)
+
+
+@server.tool()
+def research(question: str, model: str = "gemini-3.8-flash-high", minutes: int = 10) -> str:
+    """Outside research through Gemini with Google Search (the Antigravity CLI, `agy -p`, on Isaac's
+    Google login). For real-world facts: physics, anatomy, history, arms and armour, sources. The answer
+    is outside research, never a rule source: it does not go in a verbatim field. model: `agy models`."""
+    import shutil
+    import tempfile
+    agy = shutil.which("agy") or str(Path.home() / ".local/bin/agy")  # the desktop's PATH may lack ~/.local/bin
+    prompt = ("Research this with web search and reading web pages only: never run shell commands or touch files. Answer plainly, cite a source URL for every factual claim, "
+              "and say where sources disagree or you are unsure.\n\n" + question)
+    # Its own empty folder: agy is a full agent with file tools, so it never sees the repo.
+    with tempfile.TemporaryDirectory(prefix="wotr-research-") as tmp:
+        try:
+            code, out = _run([agy, "-p", prompt, "--model", model, "--print-timeout", f"{minutes * 60}s"],
+                             timeout=minutes * 60 + 30, cwd=Path(tmp))
+        except FileNotFoundError:
+            return "agy (the Antigravity CLI) is not on PATH."
+        except subprocess.TimeoutExpired:
+            return f"No answer within {minutes} min; ask again with more minutes or a narrower question."
+    if "print timeout after" in out:  # agy exits 0 on its own timeout too
+        return f"No answer within {minutes} min ({model} was still searching); ask again with more minutes or a narrower question."
+    if code or not out or out.startswith("jetski: no output produced"):  # a denied tool still exits 0
+        return f"agy failed (exit {code}): {out[-1500:]}"
+    return f"[Gemini research, {model}; outside source, not canon]\n\n{out}"
 
 
 # --------------------------------------------------------------------------

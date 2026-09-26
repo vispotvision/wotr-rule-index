@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8102-8a3b-d0038249a5a7"
 notion_url: "https://app.notion.com/p/Artemis-Amagiri-Moto-3b158200eb2281028a3bd0038249a5a7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:03:00.000Z"
+last_edited: "2026-09-26T01:36:00.000Z"
 verification: null
 ---
 
@@ -53,7 +53,7 @@ His Aether manifests as **dark bead-like nodes, mist-blue route script, and shor
 **Path Bias** · Attraction 44% · Body 36% · Spirit 20%
 | Pillar | Value | Reading |
 |---|---|---|
-| **Essence Capacity** | 41,800 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |
+| **Essence Capacity** | 10,080,000 EU | Deep reserve for **sustained interception, anti-charge fields and repeated lane denial** |
 | **Flux Density** | 1,980 EU/g | His magic lands like compressed impact. **Even his soft techniques feel heavy** |
 | **Aether Output** | 7,600 AU/s | **Fast enough to overwrite short-range movement exchanges in real time** |
 | **Efficiency η** | 0.84 | High for a bruiser. **Once his stance is set, he wastes very little** |
@@ -84,11 +84,11 @@ Wrapped in **black prayer-beads the size of clenched fists**, a loose indigo man
 
 | Technique | Cost | Mechanic |
 |---|---|---|
-| **Rain of Unchosen Roads** | 2,400 EU | Floods the battlefield with **false continuations**, causing every committed movement to branch into punished possibilities. Enemies feel three or four valid next steps exist, **only one avoids immediate consequence, and Artemis is already standing in it** |
-| **Edict of the Standing Beast** | 1,800 EU | Marks one lane, doorway, bridge, breach, stair or open run as **closed.** For several heartbeats **every attempt to cross bends momentum toward him.** *This turns his body into the lawful endpoint of movement rather than merely a physical obstacle* |
-| **Mist Ledger Clamp** | 950 EU | A glancing hit brands the target with a route-sigil **recording their last three movement intentions.** On the next exchange he **chooses one and invalidates it** — stalling a step, feint, disengage or guard-shift for a decisive instant. *Especially lethal against duelists who depend on layered footwork* |
-| **Pursuer's Ruin** | 3,100 EU | **Weaponises forward commitment.** Anyone advancing aggressively accumulates pressure across joints, lungs and lattice channels. **The harder they force entry, the more violently their own momentum betrays them on contact** |
-| **Gravelaw Shoulder** | 700 EU | Condenses route-pressure into his frame and drives through a line with a single shoulder-check. **The struck target absorbs not just force, but the denied continuation of every ally behind them** |
+| **Rain of Unchosen Roads** | 578,800 EU | Floods the battlefield with **false continuations**, causing every committed movement to branch into punished possibilities. Enemies feel three or four valid next steps exist, **only one avoids immediate consequence, and Artemis is already standing in it** |
+| **Edict of the Standing Beast** | 434,100 EU | Marks one lane, doorway, bridge, breach, stair or open run as **closed.** For several heartbeats **every attempt to cross bends momentum toward him.** *This turns his body into the lawful endpoint of movement rather than merely a physical obstacle* |
+| **Mist Ledger Clamp** | 229,100 EU | A glancing hit brands the target with a route-sigil **recording their last three movement intentions.** On the next exchange he **chooses one and invalidates it** — stalling a step, feint, disengage or guard-shift for a decisive instant. *Especially lethal against duelists who depend on layered footwork* |
+| **Pursuer's Ruin** | 747,600 EU | **Weaponises forward commitment.** Anyone advancing aggressively accumulates pressure across joints, lungs and lattice channels. **The harder they force entry, the more violently their own momentum betrays them on contact** |
+| **Gravelaw Shoulder** | 168,800 EU | Condenses route-pressure into his frame and drives through a line with a single shoulder-check. **The struck target absorbs not just force, but the denied continuation of every ally behind them** |
 
 > **Route Sickness** · Heavy use causes nausea, vertigo, **and brief inability to distinguish retreat from advance.**
 >

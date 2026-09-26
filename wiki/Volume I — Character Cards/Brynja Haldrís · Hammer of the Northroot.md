@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d8-9de4-f7e47be088e7"
 notion_url: "https://app.notion.com/p/Brynja-Haldr-s-Hammer-of-the-Northroot-3d958200eb2281d89de4f7e47be088e7"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T23:56:00.000Z"
+last_edited: "2026-09-26T01:37:00.000Z"
 verification: null
 ---
 
@@ -97,7 +97,7 @@ Eladrin of the Northroot Stone Clans, in the Withering Era. Fights for preservat
 #### Mountainbreaker Swing
 
 **Effect** · Concentrates Basilithe density into a single tectonic strike, a shockwave that arcs out from the point of impact rather than stopping there.
-**Cost** · 438,800 EU, most of a working reserve in one swing, and a real risk of Rune Overload if it lands on something harder than she expected.
+**Cost** · 11,000 EU, most of a working reserve in one swing, and a real risk of Rune Overload if it lands on something harder than she expected.
 **Limit** · Close to mid range only. The density has to be carried to the target on foot; it cannot be thrown or projected past arm's reach.
 **Counter** · High-mobility aerial opponents never let the swing land. Void-type erosion fields eat the rune-plates faster than Runic Memory can reinforce them.
 > **What nobody knows.** What happens to the Oathband Core if she is ever forced to break the oath that shaped it, rather than simply die keeping it.

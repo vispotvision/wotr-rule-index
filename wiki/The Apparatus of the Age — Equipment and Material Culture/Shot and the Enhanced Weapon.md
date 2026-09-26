@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-8154-b0ca-f67e4b148e3b"
 notion_url: "https://app.notion.com/p/Shot-and-the-Enhanced-Weapon-3e758200eb228154b0caf67e4b148e3b"
 section: "The Apparatus of the Age — Equipment and Material Culture"
 tags: []
-last_edited: "2026-09-26T00:52:00.000Z"
+last_edited: "2026-09-26T01:08:00.000Z"
 verification: "unverified"
 ---
 

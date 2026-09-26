@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81bf-ba0e-ddd24f133029"
 notion_url: "https://app.notion.com/p/Vael-of-Nothing-The-Devourer-s-Index-3d958200eb2281bfba0eddd24f133029"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-25T23:56:00.000Z"
+last_edited: "2026-09-26T01:37:00.000Z"
 verification: null
 ---
 
@@ -94,7 +94,7 @@ None formal. **The Guild Accord holds an open file on him; not a warrant, a file
 #### The Final Index
 
 **Effect** · He removes the blindfold and looks at one target directly. The Index's passive dissolution-map sharpens to surgical precision: he perceives the exact sequence of failures that would collapse the target's physical form, Soul Crystal, and Wellspring resonance at once. Perceiving the sequence begins it; no touch required.
-**Cost** · 10,080,000 EU and accelerated Form Erosion onset. Used seven times; five targets did not survive; one produced a Benediction-class counter that interrupted the sequence; one he chose, mid-process, to stop. He has not explained either.
+**Cost** · 2,600,000 EU and accelerated Form Erosion onset. Used seven times; five targets did not survive; one produced a Benediction-class counter that interrupted the sequence; one he chose, mid-process, to stop. He has not explained either.
 **Limit** · The target has three turns to leave his line of sight or produce a counter that disrupts the Null-Devour field entirely. He replaces the blindfold immediately after, regardless of outcome.
 **Counter** · Survive three turns and disrupt the field with a Benediction- or Coagula-class working. Surviving three turns is the entire problem.
 **What nobody knows.** Why the one target he stopped mid-process was the one he stopped.

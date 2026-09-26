@@ -4,7 +4,7 @@ notion_id: "3bc58200-eb22-81c9-8a85-e32caf0235ed"
 notion_url: "https://app.notion.com/p/The-Apparatus-of-the-Age-Equipment-and-Material-Culture-3bc58200eb2281c98a85e32caf0235ed"
 section: "Materials, Alchemy & Trade"
 tags: ["Materials", "Trade & Economy"]
-last_edited: "2026-09-10T11:17:00.000Z"
+last_edited: "2026-09-26T01:09:00.000Z"
 verification: "unverified"
 ---
 
@@ -171,3 +171,5 @@ verification: "unverified"
 > *Three further categories are missing for the same reason The Works and Days is missing food and music: nobody procures them centrally.* **Sanctum Lux judicial instruments, musical instruments, and the equipment of the death trades.**
 >
 > **The last of the three is the notable absence.** The death trades own specialised tools, maintain them across generations, and will not describe them to a Division clerk. *The Research Division has asked the executioners three times and been refused three times, and the equipment schedule is refused along with everything else.*
+- [The Item Tiers](The Apparatus of the Age — Equipment and Material Culture/The Item Tiers.md)
+- [Shot and the Enhanced Weapon](The Apparatus of the Age — Equipment and Material Culture/Shot and the Enhanced Weapon.md)

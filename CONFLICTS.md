@@ -1042,3 +1042,30 @@ the author notes."
 **Also recorded, and not the question:** (a) **Zenith and above.** Part Nineteen writes Stages XIV, XV and XVI *unmeasured*, on Part Four's "no longer assessed by conventional metrics" carried up by Isaac's WAR-142 answer; Part Twenty-Three gives Stage XIV a working band of 3.61 × 10⁸ – 6.70 × 10⁹ EU and a ceiling, and leaves only XV and XVI **PENDING** (`:491`–`:493`). (b) **The Arctic Lion.** Part Nineteen's Stage XII benchmark, 1.323×10^12 EU, is WAR-46's hand-computed set point for him; Part Twenty-Three's §4.2 reads the same character as "| 500 | XII | The Arctic Lion (Level 500) | 4,200,000 | 6,703,000,000 | −3.203 |" (`:438`). (c) The two Parts **agree** on the constant, on 1 AU/s = 1 MW and on η above 1.0 being real and supplemented from ambient flow; only the reserve axis divides them.
 **Recommendation:** none. What a ruling has to say: whether a Stage's EU reserve band is derived from its Max Grade's joule bracket, from the Level law of 2026-09-12, or from neither, and which of the two live Parts is corrected once it is said. Noted and not weighed: the Level law is the older and is a ruling in the record, while the Grade reading is what the 2026-09-26 answers asked to be built and is what C-059's set point already scaled twelve cards by. **Found by Etta Band on WAR-161 after both pages were published; neither page has been touched for this row, and no Rule issue was opened** — the Rule issues filed to Doc Kett for C-055 to C-058 were cancelled on 2026-09-26 when Paperclip was paused, and the rows were left open in the same commit (`66fca64`), so this row follows that practice. The question is also on the rolling questionnaire from WAR-161.
 **Status:** ruled 2026-09-26, the magic docket questionnaire (RULINGS.md, 2026-09-26): the Level law governs; Part Nineteen rebuilt off it.
+
+## C-077 — does the crafted speech still fail on balanced parallel clauses
+
+**Rules:** R49-35-SPEECH_CHECK vs R52-06-TRIADS (both 2026-09-26, both live)
+**The clash:** R49-35 puts the one crafted speech through the composure check and names balanced parallel clauses as what it must avoid; R52-06, ruled later the same day, makes parallel clauses legal in any mouth and drops them from the composure check. Neither text mentions the other.
+**Quotes:** R49-35: "No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses." R52-06: "Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them."
+**Consequence if unresolved:** check 51 of the 2026-09-26 verification guide cannot pass or fail a crafted speech that carries a balanced parallel clause; it reports it as a C-077 item.
+**Recommendation:** none.
+**Status:** open
+
+## C-078 — checks 34 and 35 read an Operation line the field format does not have
+
+**Rules:** R17-8-CHECK34, R17-8-CHECK35 vs R47-2-FIELD_FORMAT (all live)
+**The clash:** the two Pack Seventeen checks are defined on the Operation line of the six-line card (R17-3-SIX_LINE_CARD, now superseded); R47-2 retires that card and gives new abilities Physics, Metaphysics, Mechanism, Essence and Counterplay blocks, with no Operation line. Read to the letter, check 34 fails every field-format entry.
+**Quotes:** R17-8-CHECK34: "Quantity, law, operation and chain all present in the Operation line. Any absence is a FAIL." R17-8-CHECK35: "For each of Cost, Limit and Counter, name the sentence in the Operation it follows from." R47-2: "The Design Chain and the six-line card are retired as page formats."
+**Consequence if unresolved:** the verification guide (checks 41 and 42) cannot say which field-format lines must carry the four elements or serve as the derivation source; it reads the Physics and Mechanism blocks and reports where each element was found.
+**Recommendation:** none.
+**Status:** open
+
+## C-079 — reification: "no count" against a live one-per-page budget
+
+**Rules:** R49-21-REIFICATION vs R4-15-PROCEDURAL_SCENE_BUDGET (both live)
+**The clash:** R49-21 superseded the two general reification budgets (R4-15-TWO_PER_SCENE_BUDGET, R4-15-ONE_PER_PARAGRAPH) and says reification has no count; the procedural-scene budget was not in its supersedes list and still sets a count.
+**Quotes:** R49-21: "Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'." R4-15-PROCEDURAL_SCENE_BUDGET: "One per page in procedural or ledger scenes."
+**Consequence if unresolved:** check 17 of the verification guide cannot say whether a procedural or ledger scene with two reifications on a page fails.
+**Recommendation:** none.
+**Status:** open

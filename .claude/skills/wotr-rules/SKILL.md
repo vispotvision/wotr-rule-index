@@ -62,7 +62,7 @@ fetches a single rule. `--pack 12` restricts to one pack.
 | `items` | weapons, armour, artefacts, consumables |
 | `character-sheet` | sheet template, entry format, technique cards |
 | `documents` | in-world documents, deliverable format, .docx production |
-| `verification` | wotr_verify.sh, check numbers, the self-review pass |
+| `verification` | `build/verify.py` / `verify_scene`, the check numbers in `desktop/WOTR_Manual_Verification_Guide (2026-09-26 edition).md`, the self-review pass |
 | `session-protocol` | session start and end, State of Play, Ledger, Fronts |
 
 ### Common loadouts

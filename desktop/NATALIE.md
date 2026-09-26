@@ -212,7 +212,7 @@ Load by task. **Packs Fifteen, Fourteen, Thirteen, Twelve, Eleven govern the bas
 - Scene Writing Process Guide: three-pass process, POV lock, psychic distance.
 - Master Style Directive: Design Chain prose-legal; Fast Prose Rule; Subtext Continuum; Mechanism Vocabulary nameable in diagnostic voice. Diction Palette cap struck.
 - AI Writing Tells to Avoid: before every output.
-- Manual Verification Guide: set pieces. ◆ The scripts it names are lost; verify_scene stands in.
+- Manual Verification Guide, 2026-09-26 edition (`desktop/`): set pieces. It is written against verify_scene / `build/verify.py`: what each FAIL and WARN means, and how to run by hand the checks the checker cannot.
 - Dialogue Craft Standards: any turn with real dialogue.
 - Visual Aesthetic Guide: appearance, read through R53-28 (Lord of the Mysteries / Victorian imperial; Berserk and Vinland retired).
 - Ability Technique Design Guide: sixth edition required; read through Fourteen, Thirteen, Twelve, Ten, Nine.

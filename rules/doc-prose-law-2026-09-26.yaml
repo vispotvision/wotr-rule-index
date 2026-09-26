@@ -1163,6 +1163,7 @@ rules:
   - R14-4-EFFECTS_CHANNEL
   - R14-6-CHECK28
   - R12-5-NUMBERS_DIAGNOSTIC_ONLY
+  - R14-4-DIAGNOSTIC_CHANNEL
   applies_to: *id007
   verification: []
   ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'

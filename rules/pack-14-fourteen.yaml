@@ -155,7 +155,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Stat names reach the page only through the diagnostic channel
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Stat names, Sub-Stat names, Grades, Bands, eta, AU/s, EU counts,

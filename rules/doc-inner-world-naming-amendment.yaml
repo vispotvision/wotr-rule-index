@@ -345,7 +345,7 @@ rules:
     pack_number: null
     section: "V"
     title: Roughly one outlier name in eight, each with a workbook reason
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       Roughly one outlier in eight named characters, each with a reason

@@ -1389,3 +1389,144 @@ Kharven signature items: two of the five per session instead of per turn.
 
 The repetition tic-word list stays as it is.
 
+
+## 2026-09-26 — Naming Law (R50), Claude Code chat
+
+Isaac answered the 34-question naming questionnaire in Claude Code chat. Index pack: rules/doc-naming-law-2026-09-26.yaml.
+
+### R50-01-REAL_GRAMMAR
+
+Borrowed real-language names must be real, correct phrases in that language, and the gloss must match what the words actually mean.
+
+### R50-02-FIX_OLD_ONES
+
+A published name that is wrong in its source language has its grammar and spelling corrected where the name keeps its sound; the rest stays.
+
+### R50-03-EARTH_PLACES
+
+A WOTR place may carry a real Earth place name unchanged, anywhere it fits the stratum.
+
+### R50-04-POP_CULTURE
+
+Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage is fine and the name means what WOTR makes it mean.
+
+### R50-05-MYTH_FIGURES
+
+A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its own, the name is a nod.
+
+### R50-06-SACRED_TERMS
+
+No ban on sacred or ceremonial terms from living traditions in any register; a sacred word used respectfully is allowed.
+
+### R50-07-NEW_TONGUES
+
+The partner may open a new real-language naming register for a new people, logged as pending.
+
+### R50-08-GLOSS_CLASH
+
+R49-48 governs: technique names and translations are free in narration; the older Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.
+
+### R50-09-ONE_RELEASE
+
+No limit on release calls: an art may be called as often as the fight gives a beat; each call still costs the beat.
+
+### R50-10-NAME_STYLE
+
+Technique naming leans by culture: plain English names for common-tongue fighters, true names with a gloss for houses with a register.
+
+### R50-11-LONG_NAMES
+
+New English technique names are short: two words at most, no stacked modifiers.
+
+### R50-12-COINED_LATIN
+
+New Latinate names use real, correct Latin.
+
+### R50-13-ITEM_NAMES
+
+An item's true name depends on who tells it: each culture names it in its own tongue, and the page lists the names side by side.
+
+### R50-14-ESCALATION
+
+A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).
+
+### R50-15-DIACRITICS
+
+Macrons, apostrophes and accents stay in names wherever the register uses them.
+
+### R50-16-HOW_EXOTIC
+
+How hard a name is to say is decided by its register: if the register makes it hard, it is hard, and the reader learns it.
+
+### R50-17-SHARED_NAMES
+
+Characters may share a name or sound alike; when they meet, it becomes a beat.
+
+### R50-18-OUTLIERS
+
+The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason needed.
+
+### R50-19-ZETTARI_BANK
+
+The Zettari keep a free register: names are coined in the register's sound, no element bank.
+
+### R50-20-OTHER_BANKS
+
+No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their sound rules are enough.
+
+### R50-21-THIRD_NAMES
+
+The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene; it sticks only if Isaac keeps it.
+
+### R50-22-PLACE_STRATA
+
+A place carries several names, one per culture that uses it; the POV picks which to use.
+
+### R50-23-DOUBLETS
+
+The Accord Latin / common-tongue doublet extends to everything: schools, factions and places get both, and the speaker picks.
+
+### R50-24-SCHOOL_NAMES
+
+A fighting or magic school takes a true name in the founding culture's own tongue, like an art.
+
+### R50-25-WELLSPRINGS
+
+Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.
+
+### R50-26-CHANT_TONGUE
+
+Each practitioner chants in their own language; the Latin-default chant rule is superseded.
+
+### R50-27-NEW_NPC_NAME
+
+A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter; then they get a name.
+
+### R50-28-NEW_WORDS
+
+A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon only if Isaac reuses it.
+
+### R50-29-COLLISION
+
+When a name invented mid-scene clashes with an existing page, it becomes a beat: two people with one name, and the world notices.
+
+### R50-30-BANK_OR_EAR
+
+Mid-scene the partner may name by ear to keep the pace; names are checked against the banks and sound rules at the scene's end.
+
+### R50-31-SCRIPT_SHOWN
+
+True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.
+
+### R50-32-ITALICS
+
+Foreign names and borrowed words are never italic in prose.
+
+### R50-33-MISPRONOUNCE
+
+A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes 'Gimzo').
+
+### R50-34-SAY_GUIDE
+
+Every character card and place page carries a short pronunciation line.
+

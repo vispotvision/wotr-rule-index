@@ -6,6 +6,78 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (WAR-162 — the field has numbers now, and one constant does three jobs)
+
+**Aetheric Density is a pressure, and that is the whole of why it sets a ceiling.** One EU is one
+megajoule, so a density in EU per cubic metre is an energy density, and J/m³ and Pa are the same
+unit: **1 EU/m³ = 1 MPa**. A boundary cannot be pushed into ground at a pressure the ground does not
+carry. That identity is the keystone of everything this job derived, and it is why the four named
+conditions could be laddered against real energy densities rather than invented: **Aether-thin
+0.001–0.1 EU/m³, Ambient Saturation 0.1–10, Active Concentration 10–10⁴, Veil-Thin Nexus 10⁴–10⁸,
+Wellspring Core 10⁸–7.7×10¹⁸**, the last figure being the Schwinger limit, where the vacuum stops
+behaving as a medium. `SA-GAP-AETHERIC-DENSITY`, the batch's largest gap, is answerable now.
+
+**One constant does three jobs and that is not a convenience.** The field relaxes at 10⁻³ s⁻¹ (a
+ten-metre site, a current at 10⁻² m/s — karst conduit velocity, the hydrology the Wellspring pages
+already use in words). A linear reservoir uses the same conductivity in both directions, so the same
+constant sets the supply ceiling, the saturation threshold and the decay of Ambient Resonance.
+Supply is **density ÷ 1,000**, in AU/s per m³. Checked against every attested AU/s figure: **Niran
+runs at 49% of an A-Grade's ambient ceiling**, the tightest case in the corpus and the one worth
+knowing about; Serenyra, Francis and Gimbzo are orders of magnitude under theirs. Nothing attested
+breaks, and the ceiling is not the joule budget — AU/s is the rate a boundary is set at, and
+`Two Sets of Books` already says the practitioner does not supply the joules.
+
+**Saturation is caused by walls, not by spending.** The threshold is **10⁴ EU/m³** — the ideal
+strength of a crystal lattice, ~10 GPa, which is already the floor of the Veil-Thin condition — or
+equivalently **100 AU/s through each square metre of the region's boundary**. Threshold grows with
+the surface and output does not, so `SA-GAP-DIRGE-SATURATION` resolves against itself: the three
+kilometre-scale Zenith fields are **0.2% of threshold**, and the same output inside a twenty-metre
+hall is **5.6× over it**. Coagula Dominion is far under (`SA-GAP-COAGULA-SATURATION`). Scission does
+not saturate and does drive its own circle to **716 EU/m³**, Active Concentration, for the length of
+the rite, which is what the Circle step of a Ritus is for (`SA-GAP-SCISSION-SATURATION`).
+
+**The bank is in the Crystal and it is bounded by Flux Density, not by reserve.** A store held at a
+pressure fails at a pressure, so the overfill limit is a density: holds to **1.5× rated Flux
+Density** (the pressure-vessel proof factor), **Overgrown** from 1.5× to 2.25×, **Fractured** at or
+past 2.25× (the minimum composite burst ratio). The three rungs land exactly on the three Crystal
+States the Core Vocabulary already has, so no new vocabulary was needed. The bank also has a clock:
+it leaks at 1 − η per second, **three seconds at η 0.70 and twenty at 0.95**, so it is a tempo and
+not a battery. That answers the general held-charge case `SA-PHYS-SOLARBOUND-STORAGE-BLEED` said the
+system had no rule for; applying it to the pages that hold a charge is WAR-164's.
+
+**Ambient Resonance is a facet of Residue, and the numbers say what Caelmorne bought.** Same EU/m³,
+down 20 dB in about 75 minutes and 60 dB in about four hours, so ground remembers a working for an
+afternoon and a battle for an evening. It raises a floor instead of lowering a ceiling, and every
+reach that depends on being heard falls as the **square root** of total local density: a company
+action over a 200 m front leaves a Harmonist hearing at **38%** of range, and the same fighting
+indoors leaves Active Concentration, where the factor is 18.
+
+**The non-force ladder needed no new scale.** Part Eleven's **Passive Pressure Field** column is
+already a radius per Grade, and read as a pressure-balance boundary it *is* the authority radius at
+the reference density. A 20 dB margin and inverse square put the other two one decade either side:
+**anchor reach : authority radius : addressing range = 1 : 10 : 100**. All three fall as the root of
+local density — ×10 on Aether-thin ground, ÷18 at Active Concentration, ÷1,000 at a Nexus, ÷5.3×10⁶
+in a Core, where an S-Grade's kilometre of authority is **0.19 mm**. The physics reproduces the
+sentence the page already carried: in a Core the law the Wellspring carries is the only law
+operating. Force range and addressing range **cross at B-Grade**: below it a practitioner can name
+what he cannot hit, above it he can hit what he cannot name.
+
+**Thirteen surgical operations across six Notion pages, all thirteen verified live.** *The Core
+Vocabulary* (three definitions rewritten, two added), *The Eight Families & the Sixty Wellsprings*
+(a numeric density section after the Density Scale), *III. Physical Force (Part Eleven)* (Range
+Without Force), *Counterplay* (the four missing Families, Shrink his authority, Overfill him, the
+saturation threshold), *The Harmonic Arts* (The Ambient Floor) and *Anima Harmonics*.
+`imports/field-and-terrain/publish.py` matches every anchor by text prefix and refuses a prefix that
+is not unique, deletes nothing and replaces no page body, and a re-run is a no-op. The arithmetic is
+`derivation.md`; `_published/` holds the exact body of each operation.
+
+**One thing the next prose publisher should know.** `build/verify.py`'s em-dash ban (R15-1) applies
+to system-page prose too, and the wiki as it stands does not meet it — every one of these thirteen
+bodies was rewritten without em dashes and all thirteen PASS, but the Counterplay bullet's own canon
+clause (*"it is not a secret; it is simply cheaper to ignore"*) FAILs the antithesis check on its
+own, unchanged, and was preserved verbatim rather than rewritten, because rewriting another page's
+live sentence is not this issue's scope.
+
 ## State on 2026-09-26 (WAR-159 — five generators, not three; the patch is written and the wall is now a question in the docket)
 
 **There are five provenance emitters left, not the three CONTINUE recorded, and all five are

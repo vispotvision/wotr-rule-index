@@ -319,7 +319,8 @@ or with nothing behind the waking self, gives the working nothing to find"*, and
 *"Anyone without guilt · The one target he has no working against."*
 
 **What bleeds, at the stated efficiency.** η **≈0.65** (card), against the Tier 5 · Expert band of
-**0.50–0.60** (Part Nineteen) — above band, already logged (`SA-NUM-ETA-TIER`). **Thirty-five percent
+**0.60–0.70** (Part Nineteen as corrected by **R44-4**) — mid-band, and the `SA-NUM-ETA-TIER` fault
+this account logged no longer reaches him. **Thirty-five percent
 leaves as heat, sound and structural bleed.** On a working with no yield, thirty-five percent of a
 very small expenditure is a very small amount of bleed, which is why this working is quiet — and
 *"the highest Bands run quiet"* cuts in his favour here for once, not because his efficiency is good
@@ -334,7 +335,7 @@ but because there is almost nothing to be inefficient with.
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **Identity Bleed** (the target's material lodging in his Core) + **Dream Echo Fatigue** (his own short-term memory gaps) | Page. **No system unit for either.** `SA-GAP-MEMORY-AS-COST`. |
 | Flux Density | `null` | No AU/s figure on the card. |
-| η | **≈0.65** (card) | Above the Tier 5 band of 0.50–0.60 (Part Nineteen). `SA-NUM-ETA-TIER`. |
+| η | **≈0.65** (card) | Mid-band inside the Tier 5 band of 0.60–0.70 (Part Nineteen as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **as long as his attention holds**; older two-turn figure ≈ **10 s** | Page, which explicitly prefers the Spellcraft rule over the turn count. **The only page in the batch that resolves the turn-length problem by refusing the clock.** `SA-GAP-TURN-LENGTH`. |
 | Radius | **0 – 140 m**, no line of sight | Page. Sphere (4/3)π(140 m)³ = **1.15×10⁷ m³**. |

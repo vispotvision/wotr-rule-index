@@ -251,8 +251,9 @@ of genuine rest has no relaxation process to interrupt and feels nothing at all.
 expenditure leaves as heat, sound and structural bleed. Running three processes means three
 bleed paths, and the page's Memory Backlash — "some of what he extracts does not stay with
 the target" — is a **structural** bleed with a destination, which is rarer and worse than
-heat. As on his other three pages, 0.65 sits **above Tier 5 · Expert's 0.50–0.60 ceiling**
-(`SA-NUM-ETA-TIER`).
+heat. As on his other three pages, 0.65 sits **mid-band inside Tier 5 · Expert's 0.60–0.70**
+(Part Nineteen as corrected by **R44-4**); the fault this account recorded under
+`SA-NUM-ETA-TIER` no longer reaches him.
 
 ---
 
@@ -263,7 +264,7 @@ heat. As on his other three pages, 0.65 sits **above Tier 5 · Expert's 0.50–0
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Cost shape | **while attention and line-of-sight both hold** | Page. Correct shape, and the page names both conditions. |
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
-| η | **0.65** (card) | Card line 42. Tier 5 band 0.50–0.60 — **above the ceiling.** `SA-NUM-ETA-TIER`. |
+| η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | `null` | Page gives none beyond "as long as attention and line-of-sight both persist." |
 | Range | **60 m**, line-of-sight | Page. Shortest of Aeldoris's three, and the mechanism says why: a held anchor is a coupling. |
@@ -313,7 +314,7 @@ ledger is taken from it. Logged `SA-CROSS-AELDORIS-CARD`.
 | Stated limits | **pass, and two are hard** | 60 m, his shortest reach; **line of sight held for the whole duration**, plus sustained attention; **requires a target with an actual biological consciousness capable of genuine rest** — no constructs, no undead, nothing outside that architecture. |
 | Something beats it | **pass, and the best counter costs a slap** | The page states it as an instruction: *"Do not let him find you quiescent."* |
 | It has a tell | **pass** | Declared, and he must hold his gaze on one target within sixty metres and keep holding it. A man staring fixedly at one person and doing nothing else is not subtle. |
-| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A (276–400), allocation stopping at 400 with 401–475 under strain only (Part Five); card Tempering **370** = A ✓, and the card glosses Tempering as *"the discipline that keeps Hypnather from taking him with it"*, which is this working's own risk named on his sheet. Against that: η 0.65 above the Tier 5 ceiling (`SA-NUM-ETA-TIER`) and two Primaries in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`). All three Spirit gates the working needs are met, which is unusual in this batch. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A (276–400), allocation stopping at 400 with 401–475 under strain only (Part Five); card Tempering **370** = A ✓, and the card glosses Tempering as *"the discipline that keeps Hypnather from taking him with it"*, which is this working's own risk named on his sheet. Against that: two Primaries in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`); his η 0.65 is **mid-band** since **R44-4** put the Tier 5 band at **0.60–0.70**. All three Spirit gates the working needs are met, which is unusual in this batch. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

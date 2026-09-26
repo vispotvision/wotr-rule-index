@@ -237,8 +237,9 @@ expenditure leaves as heat, sound and structural bleed. Against an intended effe
 under an attojoule, **the bleed is not a fraction of the working — it is the working's
 entire energetic footprint.** Whatever a Memory-Quake costs in EU, essentially none of it
 becomes the erasure; almost all of it becomes reach and discrimination, and 35 % of that
-becomes waste. As on his other pages, 0.65 sits **above Tier 5 · Expert's 0.50–0.60
-ceiling** (`SA-NUM-ETA-TIER`).
+becomes waste. As on his other pages, 0.65 sits **mid-band inside Tier 5 · Expert's
+0.60–0.70** (Part Nineteen as corrected by **R44-4**); the fault this account recorded
+under `SA-NUM-ETA-TIER` no longer reaches him.
 
 ---
 
@@ -249,7 +250,7 @@ ceiling** (`SA-NUM-ETA-TIER`).
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **one minor memory per release** (Recall Slip) | Page. **Cumulative and irreversible; the system provides no unit for it.** `SA-GAP-MEMORY-AS-COST`. |
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
-| η | **0.65** (card) | Card line 42. Tier 5 band 0.50–0.60 — **above the ceiling.** `SA-NUM-ETA-TIER`. |
+| η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
 | Shockwave duration | **≈5 s** (page's estimate) | "1 turn" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
 | Memory window | **3–10 s** | Page, sourced. **Matches the clinical retrograde-amnesia window for a concussive insult.** |
@@ -298,7 +299,7 @@ threshold.** EU has a Starvation line at 10 %. Memory has nothing. Logged
 | Stated limits | **pass, and they are narrow on purpose** | 25 m; **reactive only**, released against an incoming layered working or a rhythm in progress; memory window **3 to 10 seconds** (already in real units, from the source); shockwave ≈5 s; **cannot reach memory that has already anchored**; conscious targets only; and it is **indiscriminate within the radius**. |
 | Something beats it | **pass, and the counters are props** | Pain, a pre-arranged anchor, a mind with no resting state, or a Verdantia clarity field. |
 | It has a tell | **pass** | It fires in answer to something you did, in a 25-metre burst, and everyone inside feels the same thing at the same moment — including his own side, which is its own kind of announcement. |
-| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A, allocation to 400, ceiling 475 under strain (Part Five), and the page states *"bounded by Stage VII's 475 ceiling, Grade A"* correctly. Card Tempering 370, Ardency 340, Dominion 300 are A ✓. Against that: Harmonics 430 and Dexterity 410 sit in the strain-only band as standing values (`SA-NUM-AELDORIS-INSTABILITY`) and η 0.65 is above the Tier 5 ceiling (`SA-NUM-ETA-TIER`). Both Spirit gates the working needs are met. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A, allocation to 400, ceiling 475 under strain (Part Five), and the page states *"bounded by Stage VII's 475 ceiling, Grade A"* correctly. Card Tempering 370, Ardency 340, Dominion 300 are A ✓. Against that: Harmonics 430 and Dexterity 410 sit in the strain-only band as standing values (`SA-NUM-AELDORIS-INSTABILITY`); his η 0.65 is **mid-band** since **R44-4** put the Tier 5 band at **0.60–0.70**. Both Spirit gates the working needs are met. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

@@ -274,7 +274,8 @@ metres away a man declared something, and the only evidence is that somebody mov
 Afterwards Aeldoris's own hand twitches through the same arc, and the panic stays on him.
 
 **What bleeds, at the stated efficiency.** η **≈0.65** (card), against the Tier 5 · Expert band of
-**0.50–0.60** (Part Nineteen) — above band, already logged (`SA-NUM-ETA-TIER`). **Thirty-five percent
+**0.60–0.70** (Part Nineteen as corrected by **R44-4**) — mid-band, and the `SA-NUM-ETA-TIER` fault
+this account logged no longer reaches him. **Thirty-five percent
 of a nearly-zero expenditure leaves as heat, sound and structural bleed**, which is a negligible
 absolute quantity and the reason this working is quiet. The bleed that matters is not the 35 %. It is
 the residue, which is not bleed at all: bleed leaves, and Echo Feedback stays.
@@ -288,7 +289,7 @@ the residue, which is not bleed at all: bleed leaves, and Echo Feedback stays.
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **Sympathetic Twitch** (his frame echoes the forced motion) + **Echo Feedback** (panic residue on his Aether Shell, clearing only with time) | Page. **A residue on the practitioner's own Shell is Clouding** (`Core Vocabulary` §III) and the system has no rule for what a Clouded Shell costs. |
 | Flux Density | `null` | No AU/s figure on the card. |
-| η | **≈0.65** (card) | Above the Tier 5 band of 0.50–0.60 (Part Nineteen). `SA-NUM-ETA-TIER`. |
+| η | **≈0.65** (card) | Mid-band inside the Tier 5 band of 0.60–0.70 (Part Nineteen as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **≈5 s** | Page, one turn at 5 s. `SA-GAP-TURN-LENGTH`. |
 | Range | **0–60 m** | Page. |

@@ -259,8 +259,9 @@ structural share is the interesting one — waste in a nucleation process shows 
 **disordered deposit**, not as heat, which is Coagulatio's "density they cannot use." So a
 35 % bleed on a Falseface Lattice should read as a construct with visible bad casting: a
 seam, a hollow, a limb that does not carry. **Texture the page could use, derived rather
-than invented.** As on his other pages, 0.65 sits **above Tier 5 · Expert's 0.50–0.60
-ceiling** (`SA-NUM-ETA-TIER`).
+than invented.** As on his other pages, 0.65 sits **mid-band inside Tier 5 · Expert's
+0.60–0.70** (Part Nineteen as corrected by **R44-4**); the fault this account recorded
+under `SA-NUM-ETA-TIER` no longer reaches him.
 
 ---
 
@@ -271,7 +272,7 @@ ceiling** (`SA-NUM-ETA-TIER`).
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Cost shape | **while attention holds**, rising with repeated use | Page, and consistent with Spellcraft's ephemerality clause (`The Four Crafts`). |
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
-| η | **0.65** (card) | Card line 42. Tier 5 band 0.50–0.60 — **above the ceiling.** `SA-NUM-ETA-TIER`. |
+| η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | `null` | Page declines to invent one: "though no fixed clock is invented here." **Correct behaviour and the only page in the batch that refuses a duration outright.** |
 | Radius / medium volume | **80 m** / **2.14×10⁶ m³** | Page; (4/3)π(80 m)³. |
@@ -316,7 +317,7 @@ without a single rule being added.
 | Stated limits | **pass, and they are real constraints on tempo** | **Reactive only** — it cannot be opened on his own initiative; 80 m; requires an actual conviction to template from; a fearless or fully lucid target gives it nothing; a fear too diffuse to template gives it nothing; template defects reproduce faithfully at scale; the page **refuses to invent a duration** rather than guessing one. |
 | Something beats it | **pass, and one counter costs a pocket mirror** | Four routes, three of which a prepared party can carry. |
 | It has a tell | **pass** | It fires in answer to *your* action, and what appears is the thing you were already afraid of — which is, in practice, a self-labelling working. |
-| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A with allocation stopping at 400 and 401–475 *"under strain only"* (Part Five); card Ardency **340** = A ✓, glossed on the card as this technique's output stat. Against that: **η 0.65 is above the Tier 5 ceiling of 0.60** (`SA-NUM-ETA-TIER`), two of his Primaries sit in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`), and the card's lettered Band is retired (`SA-NUM-FALSEFACE-BAND-C`). None of these is a fairness fault; all three make his sheet, not his technique, the thing out of true. |
+| Numbers in band | **flagged, already logged** | Stage VII ⇒ Max Grade A with allocation stopping at 400 and 401–475 *"under strain only"* (Part Five); card Ardency **340** = A ✓, glossed on the card as this technique's output stat. Against that: two of his Primaries sit in the instability zone by allocation (`SA-NUM-AELDORIS-INSTABILITY`), and the card's lettered Band is retired (`SA-NUM-FALSEFACE-BAND-C`). The third item this row used to carry has fallen — **R44-4** put the Tier 5 band at **0.60–0.70**, so **η 0.65 is mid-band.** Neither of the two that remain is a fairness fault; both make his sheet, not his technique, the thing out of true. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

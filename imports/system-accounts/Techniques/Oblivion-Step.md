@@ -319,7 +319,8 @@ And afterwards, not in the scene and not on any tally he keeps, somebody else's 
 him and stay.
 
 **What bleeds, at the stated efficiency.** η **≈0.65** (card), against a Tier 5 · Expert band of
-**0.50–0.60** (Part Nineteen) — **above band, already logged** (`SA-NUM-ETA-TIER`). At 0.65,
+**0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, and the `SA-NUM-ETA-TIER`
+fault this account logged no longer reaches him.** At 0.65,
 **thirty-five percent of every expenditure leaves as heat, sound and structural bleed**, and on a
 working whose entire concealment argument is acoustic, a 35 % bleed fraction routed partly into
 sound is a genuine internal tension: *"a low-efficiency practitioner is loud, warm, and easy to
@@ -335,7 +336,7 @@ find, and … the highest Bands run quiet."* He is not a high Band. His card's l
 | EU spent | `null` | No page figure; no formula converts a Stage into EU. `SA-GAP-EU-FORMULA`. |
 | Cost in kind | **0.25 s of inaction, every time** + **accumulated emotional backwash from the anchor** | Page. The first is priced below in reaction periods; the second has no system unit. |
 | Flux Density | `null` | No AU/s figure on the card. |
-| η | **≈0.65** (card) | **Above the Tier 5 · Expert band of 0.50–0.60** (Part Nineteen). `SA-NUM-ETA-TIER`. |
+| η | **≈0.65** (card) | **Mid-band inside the Tier 5 · Expert band of 0.60–0.70** (Part Nineteen as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **crossing instant per the page; ≈0.25 s per the acoustics** | Page: *"Duration of the crossing itself: instant."* **The page's own no-sound claim requires ≈0.25–0.62 s** (see below), and the page's own arrival lag is 0.25 s. |
 | Range | **0 – 50 m** | Page. Arrival sphere (4/3)π(50)³ = **5.24×10⁵ m³**. |
@@ -396,7 +397,7 @@ register says Hypnather's relaxation **cannot be forced**, and this page forces 
 | Stated limits | **pass, and the limit is social rather than spatial** | 50 m; **it needs a live subconscious in range and a dream-shadow to emerge from**; *"she cannot step to a point that is merely empty"*; the lag is unavoidable; and it fails outright in Aurevane or Luminalis light. |
 | Something beats it | **pass, three routes, all findable** | Lucidity held through the threshold; a Runecraft ward built to erase a dream-shadow; a watching mind with strong Resilience **Anchoring** declining to let the step complete nearby. Plus flooding the local signal with light. |
 | It has a tell | **partial pass, and this is the honest weakness** | The step itself has almost no tell — 76 dB is a chair moving. **The tell is the man, not the working:** his card gives *"Sleepfall Presence · A passive wave causing micro-sleeps and mental fog in everyone nearby"*, always running, and *"a soft pressure of sleep"* as his Presence. **Anyone getting drowsy for no reason is being set up as a doorstep**, and that is a superb tell precisely because it arrives before the step rather than with it. |
-| Numbers in band | **FAIL, on the sheet rather than on the page** | The page's own requirements are consistent: A-Grade at Stage VII, and all four Sub-Stat Path gates close (Sovereignty, Cognition, Yield-latency, Regeneration) — **the cleanest gate sheet in the batch.** The failures are the card's: η 0.65 above the Tier 5 band of 0.50–0.60 (`SA-NUM-ETA-TIER`), three Primaries in the 401–475 instability zone as standing values (`SA-NUM-AELDORIS-INSTABILITY`), a retired lettered Coherence Band (`SA-UNATT-COHERENCE-BAND`), and ten Sub-Stat peak names that are not in the sixty-four (`SA-UNATT-AELDORIS-SUBSTAT-NAMES`). |
+| Numbers in band | **FAIL, on the sheet rather than on the page** | The page's own requirements are consistent: A-Grade at Stage VII, and all four Sub-Stat Path gates close (Sovereignty, Cognition, Yield-latency, Regeneration) — **the cleanest gate sheet in the batch.** The failures are the card's, and there are three of them rather than four since **R44-4** put the Tier 5 band at 0.60–0.70 and his η 0.65 inside it: three Primaries in the 401–475 instability zone as standing values (`SA-NUM-AELDORIS-INSTABILITY`), a retired lettered Coherence Band (`SA-UNATT-COHERENCE-BAND`), and ten Sub-Stat peak names that are not in the sixty-four (`SA-UNATT-AELDORIS-SUBSTAT-NAMES`). |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

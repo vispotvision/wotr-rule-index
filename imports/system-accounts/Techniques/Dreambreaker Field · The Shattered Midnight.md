@@ -225,14 +225,15 @@ boundary to fight from, and no warning shiver before it ends. Aeldoris pays
 almost nothing for this: a flicker of his own contradictions (Double Vision) and
 a residue that stays in the ground afterward.
 
-**What bleeds, at the stated efficiency — and the card is above its band.** The card gives
+**What bleeds, at the stated efficiency — and the card sits inside its band.** The card gives
 **η ≈ 0.65**, so **35 percent** of every expenditure leaves as heat, sound and structural
-bleed. But Stage VII places Aeldoris in **Tier 5 · Expert**, whose band is **0.50–0.60**
-(Part Nineteen). **0.65 is above his tier's ceiling by 0.05.** Part Nineteen does offer a
-route — Tier 5 covers "V–VII Splintering to Refraction" and notes "Dual sight at Refraction
-allows real-time observation and correction of waste," so a practitioner at the top of the
-tier who has just gained dual sight is exactly who would run hot against the table. That
-reading is available and unstated. Recorded as `SA-NUM-ETA-TIER`; not resolved.
+bleed. Stage VII places Aeldoris in **Tier 5 · Expert**, whose band is **0.60–0.70** (Part
+Nineteen, that row corrected to match Part Seventeen by **R44-4**). **0.65 is mid-band**, and
+the reading this account previously had to reach for — Part Nineteen's "Dual sight at
+Refraction allows real-time observation and correction of waste" as the reason a top-of-tier
+practitioner would run hot against the table — is no longer needed, because the table no
+longer disagrees with him. `SA-NUM-ETA-TIER` no longer reaches Aeldoris; it stands for
+Drakvor (Tier 6) and Francis (Tier 8), whose bands R44-4 does not touch.
 
 ---
 
@@ -243,7 +244,7 @@ reading is available and unstated. Recorded as `SA-NUM-ETA-TIER`; not resolved.
 | EU spent | `null` | No page figure; no Stage→EU formula. `SA-GAP-EU-FORMULA`. |
 | Cost shape | **continuous while held** | Page. Correct for a gradient maintained against diffusion. |
 | Flux Density | `null` | No AU/s figure for Aeldoris. |
-| η | **0.65** (card) | Card line 42. Tier 5 band 0.50–0.60 — **above the ceiling.** `SA-NUM-ETA-TIER`. |
+| η | **0.65** (card) | Card line 42. Tier 5 band **0.60–0.70** (Part Nineteen as corrected by **R44-4**) — **mid-band, consistent.** |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **≈15 s** (page's estimate) | "3 turns" at 5 s/turn. `SA-GAP-TURN-LENGTH`. |
 | Field volume | **2.68×10⁵ m³** | (4/3)π(40 m)³. |
@@ -285,7 +286,7 @@ about the clock.
 | Stated limits | **pass** | 40 m radius; ≈15 s per sustained hold; **cannot be laid over an already-claimed Domain**; a Titan's presence unmakes the claim outright; bounded by Stage VII's A-Grade ceiling. |
 | Something beats it | **pass, and cheaply** | Four routes named on the page, none needing a peer: a grounding rune, a reality-lock invocation, an unclaimed Aether pulse, or a Body Path anchor. |
 | It has a tell | **pass** | Declared, and the claim is a visible forty-metre field that behaves wrongly from the moment it lands. |
-| Numbers in band | **FAIL, already on the record** | The technique's own figures are in band — Stage VII ⇒ Max Grade A with allocation stopping at 400, ceiling 475 *"under strain only"* (Part Five). The **card** is not: **Harmonics 430 and Dexterity 410 are S-Grade and sit inside Stage VII's instability zone, which Part Five says is reachable *"only under strain, never by allocation"***, and they are carried as standing values (`SA-NUM-AELDORIS-INSTABILITY`). η 0.65 is above the Tier 5 ceiling of 0.60 (`SA-NUM-ETA-TIER`). Both were logged before this section. |
+| Numbers in band | **FAIL, already on the record** | The technique's own figures are in band — Stage VII ⇒ Max Grade A with allocation stopping at 400, ceiling 475 *"under strain only"* (Part Five). The **card** is not: **Harmonics 430 and Dexterity 410 are S-Grade and sit inside Stage VII's instability zone, which Part Five says is reachable *"only under strain, never by allocation"***, and they are carried as standing values (`SA-NUM-AELDORIS-INSTABILITY`), which was logged before this section. The η fault this row also carried has fallen: **R44-4** put the Tier 5 band at **0.60–0.70** and 0.65 is mid-band, so the instability figures are the whole of the FAIL. |
 
 **The Counterplay routes that work**
 (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).

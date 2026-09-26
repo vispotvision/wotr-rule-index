@@ -312,7 +312,8 @@ of it stays behind"* is the page's own closing question. **On the coarsening it 
 Material moves to the larger, better-ordered structure, and in a healthy host that is the host.**
 
 **What bleeds, at the stated efficiency.** η **≈0.65** (card), against the Tier 5 · Expert band of
-**0.50–0.60** (Part Nineteen) — above band, already logged (`SA-NUM-ETA-TIER`). **Thirty-five
+**0.60–0.70** (Part Nineteen as corrected by **R44-4**) — mid-band, and the `SA-NUM-ETA-TIER` fault
+this account logged no longer reaches him. **Thirty-five
 percent of the implantation's expenditure leaves as heat, sound and structural bleed.** But the
 running cost after implantation is charged to the host's rest, so **the bleed on the sustain is the
 host's, not his**, and the system has no rule for whose η applies to a working fed by somebody else's
@@ -329,7 +330,7 @@ page.
 | Cost in kind | **Dream Wound** (psychic pain returned if it is destroyed) + **Personality Imprint** (it adopts the host and reports distorted) | Page. **Two ends of one physics:** his material, and coarsening. No system unit for either. |
 | **Running cost, whose?** | **the host's rest cycles** | Page: *"drawing on the same recovery window the Sleep Crown strengthens."* **The system has no rule for a working sustained out of a third party's recovery, and no rule for whose η applies.** `SA-GAP-WARDEN-HOST-FED-SUSTAIN`. |
 | Flux Density | `null` | No AU/s figure on the card. |
-| η | **≈0.65** (card) | Above the Tier 5 band of 0.50–0.60 (Part Nineteen). `SA-NUM-ETA-TIER`. |
+| η | **≈0.65** (card) | Mid-band inside the Tier 5 band of 0.60–0.70 (Part Nineteen as corrected by **R44-4**). |
 | AU/s | `null` | Needs Flux Density. |
 | Duration | **≈20 s per sustained watch** (page's estimate) | Page converts four turns at 5 s. The implant itself persists indefinitely until purged or the line is cut. `SA-GAP-TURN-LENGTH`. |
 | Implantation range | **30 m** | Page. **Inside bow range, outside blade range.** |

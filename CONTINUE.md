@@ -6,6 +6,41 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-117 — the draft Part is rebuilt against the corrected fit)
+
+`bash build/py.sh imports/essence-ledger/ledger_tables.py` is now a **no-op**: WAR-94 (`8ff44e3`)
+rebuilt `ledger_tables.json` along with `fit.json`, so the four Naiser Yukari η cells the WAR-71 note
+expected to move never went to the Tier 5 fallback 0.65 at all — they read his card's **0.89**, which
+is what R44-5 says they should.
+
+What had moved instead was the **AU/s side**: the hourly sync brought WAR-48's sixteen corrected card
+figures into `wiki/`, the extractor read them, and the draft Part
+(`imports/essence-ledger/the-essence-ledger.md`, last built before that sync) was stale on them.
+Rebuilt now, from `ledger_tables.json` only:
+
+- **§5.3's drain table** is re-derived, **27 rows** (was 26): eleven rows moved and one is new — WAR-94's
+  sweep reached Krothar Veylshroud's suppressed reading, so his card's ~1,600,000 EU and his page's
+  est. 2,800,000 are both in the table, labelled. Rows whose figures did not move keep their old text
+  character for character. Biggest moves: Naevra 10.00 s → 66.45 s, Mizuki 18.08 s → 72.55 s,
+  Yorime 25.96 s → 5.66 s, Iracordas 3.23 s → 1.92 s.
+- **§6.2 is rewritten**, because **nineteen of thirty cards now satisfy AU/s = Flux Density × η
+  exactly and sixteen of them do so by construction** — they are WAR-48's recomputations. Three cards
+  (Ara Min Mahuo, Kwon Mu-jin, Yoko Mishiro) still imply a unit gram independently; the regularity now
+  rests on the **eleven that still miss**, nine of which imply 0.21 to 4.92 g. Ten of the eleven are
+  WAR-102's. Draen Varos, the one card that states a mass, no longer contradicts the identity (his
+  implied *m* went 0.00024 g → exactly 1 g when his AU/s was corrected), and an implicit gram is still
+  nine thousand times smaller than his stated nine kilograms.
+- **§6.5** follows Anryū Ichimonji's corrected 9,870 AU/s: the η > 1 reservoir draught is **470 MW and
+  38,000 m³ of air a second**, a sphere 20.9 m in radius, not 2.48 GW and a 59 m cube.
+- Counts in §5.3, §8 and §9.3 follow the table; §9.3's WAR-94 row is closed; one arithmetic slip fixed
+  (the reserve-clock-to-heat-clock margin on Naiser Yukari is **199**, not 22 — 22 is Gimbzo's 0.72 s
+  against Naiser's 32.8 ms, a different comparison).
+
+**No card figure, ruling or conflict row was touched**, and the Part's own AI-tell count did not rise
+(`verify` on it reports the same five FAILs as the committed version, one em dash fewer; it is a
+system document, not a scene, and the scene checks — Kharven recurrence, a closing physical beat —
+do not apply to it).
+
 ## State on 2026-09-25 (the agents)
 
 The day's evening wrap, written from the 101 commits on `origin/master` dated today (`e294c69`

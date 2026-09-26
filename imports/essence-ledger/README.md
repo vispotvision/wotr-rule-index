@@ -59,12 +59,22 @@ figure on a table row that gates itself was read against the page's entry Stage
 rather than its own, and Part Nineteen's Tier 5 η was the mirror's pre-ruling
 0.50–0.60 rather than R44-4's 0.60–0.70. Neither is a card correction and
 neither touches the constant; `reports/eu_band_sweep_2026-09-25.md` states both
-runs' counts side by side. The draft Part and `ledger_tables.json` were **not**
-rebuilt under WAR-71 and still carry WAR-12's arithmetic: rerunning
-`ledger_tables.py` against the corrected fit moves Naiser Yukari's fallback η
-from 0.55 to 0.65 in four places, and the Part is written on top of those tables,
-so the two move together or not at all. That rebuild is WAR-12's and is filed
-separately.
+runs' counts side by side. `ledger_tables.json` was not rebuilt under WAR-71; it
+was rebuilt with WAR-94 (`8ff44e3`), which is why rerunning `ledger_tables.py`
+today is a no-op, and why Naiser Yukari's η never passed through the 0.65 the
+Tier 5 fallback would have given — WAR-94 put his card's **0.89** into
+`anchors.json` at source, and R44-5 governs it (WAR-117).
+
+**The draft Part is rebuilt against those tables as of WAR-117.** What moved was
+not the four η cells the WAR-71 note expected but the AU/s side: the hourly sync
+brought WAR-48's sixteen corrected card figures into `wiki/`, the extractor read
+them, and eleven drain rows plus sixteen Flux × η rows changed with them. §5.3's
+table is re-derived (27 rows now — WAR-94's sweep also reached Krothar
+Veylshroud's suppressed reading, so his card and page figures are both in it),
+§6.2 is rewritten because nineteen of thirty cards now satisfy the identity
+exactly and sixteen of those do so *by construction*, §6.5's reservoir arithmetic
+follows Anryū Ichimonji's corrected 9,870 AU/s, and the counts in §5.3, §8 and
+§9.3 follow the new table. No card figure was touched and no ruling was extended.
 
 Logged as `CONFLICTS.md` C-034 (the measured conversion and the unordered
 reserves), C-035 (the AU/s formula fails on 26 of 29 cards), C-036 (the S/SS gap

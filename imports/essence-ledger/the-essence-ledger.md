@@ -1,7 +1,10 @@
 # Part Twenty-Three — The Essence Ledger
 
 *Fracture of Worlds — The Living System. Draft, WAR-12 (Essence Ledger Phase 2,
-parent WAR-8), 2026-09-25.*
+parent WAR-8), 2026-09-25. Rebuilt 2026-09-25 (WAR-117) against the
+WAR-71/WAR-94-corrected fit and the sixteen card AU/s figures WAR-48 corrected
+under R44-2: §5.3's table, §6.2, §6.5's reservoir arithmetic and the counts in
+§8 and §9.3. Every figure in it comes from `ledger_tables.json`; none was typed.*
 
 > **Status: draft, not canon.** Nothing here is published to the wiki or to
 > Notion; that is Phase 4 (WAR-14). No card, page, table or figure anywhere in
@@ -736,7 +739,7 @@ first finding, and it holds at every scale: *"At 1 AU/s = 1 MW the thermal clock
 finishes 10⁴ to 10¹⁶ times sooner than the reserve does, so nobody ever reaches
 ten percent EU — they cook at ninety-nine. The mechanic canon defines cannot
 occur."* Recorded, not reconciled; the ruling stands and §5.3 gives the factor
-for all twenty-six anchors.
+for all twenty-seven anchors.
 
 Her three named workings, priced at the ruled constant:
 
@@ -843,44 +846,48 @@ are at 90% of reserve spent. Waste and the heat clock are at the ruled
 |---|---|---|---|---|---|---|---|
 | 0.72 s | 0.65 s | Gimbzo | 4.8 × 10¹⁴ | 6.7 × 10¹⁴ | 0.94 | 40.2 EW | 0.031 ps |
 | 1.08 s | 0.97 s | Ignatius / Darius | 5,500,000 | 5,100,000 | 0.90 | 510 GW | 2.4 µs |
-| 3.23 s | 2.91 s | Iracordas | 16,800 | 5,200 | 0.93 | 364 MW | 3.4 ms |
+| 1.92 s | 1.73 s | Iracordas | 16,800 | 8,742 | 0.93 | 612 MW | 2.0 ms |
+| 3.81 s | 3.43 s | Krothar Veylshroud (suppressed) | 1,600,000 | 420,000 | 0.81 | 79.8 GW | 15.4 µs |
 | 5.50 s | 4.95 s | Artemis Amagiri Moto | 41,800 | 7,600 | 0.84 | 1.22 GW | 1.0 ms |
+| 5.66 s | 5.10 s | Yorime Seikai | 74,000 | 13,066 | 0.94 | 784 MW | 1.6 ms |
 | 6.46 s | 5.81 s | Yukazuri Moto | 3,100 | 480 | 0.89 | 52.8 MW | 23.2 ms |
-| 6.67 s | 6.00 s | Krothar Veylshroud | 2,800,000 | 420,000 | 0.81 | 79.8 GW | 15.4 µs |
+| 6.67 s | 6.00 s | Krothar Veylshroud (unsuppressed est.) | 2,800,000 | 420,000 | 0.81 | 79.8 GW | 15.4 µs |
 | 7.24 s | 6.51 s | Naiser Yukari | 2,460 | 340 | 0.89 † | 37.4 MW | 32.8 ms |
-| 10.00 s | 9.00 s | Naevra Yukari | 185,000 | 18,500 | 0.96 | 740 MW | 1.7 ms |
 | 10.00 s | 9.00 s | Naori Yukari | 42,000 | 4,200 | 0.40 | 2.52 GW | 486 µs |
 | 12.05 s | 10.85 s | Vethraun Ashmaw | 9,400 | 780 | 0.91 | 70.2 MW | 17.5 ms |
-| 12.63 s | 11.37 s | Niran Yukari | 485,000 | 38,400 | 0.89 | 4.22 GW | 290 µs |
-| 15.77 s | 14.19 s | Anryū Ichimonji | 820,000 | 52,000 | 1.05 | none — see §6.5 | never |
-| 18.08 s | 16.27 s | Mizuki Moto | 470,000 | 26,000 | 0.82 | 4.68 GW | 262 µs |
 | 19.47 s | 17.53 s | Ayame Yuno | 37,000 | 1,900 | 0.86 | 266 MW | 4.6 ms |
-| 20.59 s | 18.53 s | Rengai Zettari | 1,400,000 | 68,000 | 0.78 | 15.0 GW | 81.9 µs |
-| 22.50 s | 20.25 s | Rashani Zettari | 540,000 | 24,000 | 0.81 | 4.56 GW | 269 µs |
 | 23.59 s | 21.23 s | Dougou Ozumu Zettari | 92,000 | 3,900 | 0.99 | 39.0 MW | 31.4 ms |
-| 24.15 s | 21.74 s | Lucius Xenotro | 2,850,000 | 118,000 | 0.92 | 9.44 GW | 130 µs |
-| 25.69 s | 23.13 s | Muken Moto | 1,850,000 | 72,000 | 0.84 | 11.5 GW | 106 µs |
-| 25.96 s | 23.37 s | Yorime Seikai | 74,000 | 2,850 | 0.94 | 171 MW | 7.2 ms |
+| 29.62 s | 26.65 s | Niran Yukari | 485,000 | 16,376 | 0.89 | 1.80 GW | 680 µs |
+| 66.45 s | 59.81 s | Naevra Yukari | 185,000 | 2,784 | 0.96 | 111 MW | 11.0 ms |
 | 70.59 s | 63.53 s | Ara Min Mahuo | 4,200,000 | 59,500 | 0.70 | 17.9 GW | 68.6 µs |
+| 72.55 s | 65.30 s | Mizuki Moto | 470,000 | 6,478 | 0.82 | 1.17 GW | 1.1 ms |
+| 75.56 s | 68.00 s | Lucius Xenotro | 2,850,000 | 37,720 | 0.92 | 3.02 GW | 406 µs |
+| 81.30 s | 73.17 s | Rashani Zettari | 540,000 | 6,642 | 0.81 | 1.26 GW | 971 µs |
+| 83.08 s | 74.77 s | Anryū Ichimonji | 820,000 | 9,870 | 1.05 | none — see §6.5 | never |
+| 98.62 s | 88.76 s | Rengai Zettari | 1,400,000 | 14,196 | 0.78 | 3.12 GW | 392 µs |
+| 118.41 s | 106.57 s | Muken Moto | 1,850,000 | 15,624 | 0.84 | 2.50 GW | 490 µs |
 | 5 min 36 s | 5 min 2 s | The Arctic Lion (Level 500) | 4,200,000 | 12,500 | 0.91 | 1.12 GW | 1.1 ms |
 | 5 min 52 s | 5 min 17 s | Sodoku Moto | 1,340,000 | 3,800 | 0.84 | 608 MW | 2.0 ms |
 | 9 min 2 s | 8 min 8 s | Kwon Mu-jin | 850,000,000 | 1,566,000 | 0.87 | 204 GW | 6.0 µs |
 | 41 min 6 s | 37 min 0 s | Yoko Mishiro | 185,000 | 75 | 0.50 | 37.5 MW | 32.7 ms |
 | 15 h 37 m 30 s | 14 h 3 m 45 s | Borin Ironheart | 180,000,000 | 3,200 | 0.91 | 288 MW | 4.3 ms |
 
-*† **Naiser Yukari's η is the one figure in this Part that differs from Phase
-1's data, and the reason is a live ruling.** `fit.json` carries no η for him and
-falls back to Part Nineteen's Tier 5 midpoint, because Phase 1's extractor read
-the AU/s row of his card and not the row printed directly beneath it. The card
-states the figure: **[canon]** `wiki/Volume I — Character Cards/Naiser
-Yukari.md:60` — `| **Aetheric Efficiency** | 0.89 | **Almost all of what he
-commits lands exactly where intended** |`. **[ruled]** R44-5 governs and names
-him: *"The card's η governs per character and the tables are typical ranges; an
+*† **Naiser Yukari's η was the one figure in this Part that differed from Phase
+1's data, and it no longer does.** `fit.json` carried no η for him and fell back
+to Part Nineteen's Tier 5 midpoint, because Phase 1's extractor read the AU/s
+row of his card and not the row printed directly beneath it. The card states the
+figure: **[canon]** `wiki/Volume I — Character Cards/Naiser Yukari.md:60` — `|
+**Aetheric Efficiency** | 0.89 | **Almost all of what he commits lands exactly
+where intended** |`. **[ruled]** R44-5 governs and names him: *"The card's η
+governs per character and the tables are typical ranges; an
 in-world-acknowledged outlier is lawful. Sodoku Moto's 0.84, Rashani Zettari's
-0.81 and Naiser Yukari's figure stand as written."* So the table reads **0.89**
-off the card, not 0.55 off a superseded Tier row and not the 0.65 that R44-4's
-corrected Tier row would have given. The gap in `anchors.json` is filed as
-**WAR-94** and no card was touched.*
+0.81 and Naiser Yukari's figure stand as written."* **WAR-94 fixed the gap at
+source** (commit `8ff44e3`): `extract_anchors.py` now reaches a label written
+without the η character, `anchors.json` carries 0.89, and the one named patch in
+`ledger_tables.py` is gone. So the table reads **0.89** off the card — not 0.55
+off a superseded Tier row, and not the 0.65 that R44-4's corrected Tier row
+would have given — and it reads it from Phase 1's data like every other row. No
+card was touched. The mark stays because the reading has a ruling behind it.*
 
 *Every other η here is the figure that character's own card states, and
 `ledger_tables.json` `drain[].eta_from` carries the file and line for each. (Two
@@ -890,9 +897,9 @@ those two `fit.json` had fallen back to a Tier midpoint because the page
 carrying the reserve states no η. Under R44-5 the card wins, and it does here.)*
 
 **[residual] The last column is the whole of `physics-check.md`'s verdict in one
-place.** At the ruled constant, twenty-five of the twenty-six anchors reach a
-lethal core temperature in **between 0.031 picoseconds and 32.7 milliseconds**
-of their own stated full output. The twenty-sixth is Anryū Ichimonji, and only
+place.** At the ruled constant, twenty-six of the twenty-seven anchors reach a
+lethal core temperature in **between 0.031 picoseconds and 32.8 milliseconds**
+of their own stated full output. The twenty-seventh is Anryū Ichimonji, and only
 because his η is above one and he wastes nothing (§6.5). The two longest are
 Naiser Yukari at 32.8 ms and Yoko Mishiro at 32.7 ms, and the note names the
 second of them as its best case: *"The best case in the whole anchor set, Yoko
@@ -910,7 +917,8 @@ practitioner their own two numbers cannot be:
 - **Artemis Amagiri Moto, 5.5 s.** `wiki/Volume I — Character Cards/Artemis Amagiri Moto.md:56`:
   *"**Deep reserve** for **sustained interception, anti-charge fields and
   repeated lane denial**"*.
-- **Iracordas, 3.2 s.** `wiki/Volume I — Character Cards/Iracordas.md:64`:
+- **Iracordas, 1.9 s** (3.2 s before WAR-48 corrected his AU/s under R44-2).
+  `wiki/Volume I — Character Cards/Iracordas.md:64`:
   *"prolonged exposure to his aura destabilises discipline"*.
 - **Ayame Yuno, 19.5 s.** `wiki/Volume I — Character Cards/Ayame Yuno.md:58`:
   *"Optimised for **sustained rites, mass-oath work and battlefield-scale
@@ -930,13 +938,25 @@ file from.
 
 **[ruled] And one ruling already stands between them and a filing.** R44-2 names
 the stated card AU/s figures as the error where they are not Flux Density × η,
-and **all five of these sheets are among the twenty-six that miss** (§6.2:
-Gimbzo +7.889 decades, Ayame Yuno +0.637, Artemis Amagiri Moto +0.660, Iracordas
-−0.226, Ignatius +0.021). So the five durations above are computed from figures a
-live ruling has already called errors, and WAR-48's recomputation will move them
-before anything about the identity is settled. **A row filed on these five today
-would be filed against numbers that are going to change.** They stay flagged and
-unfiled, and WAR-48 is the issue that will know.
+and all five of these sheets were among the twenty-six that missed. **WAR-48 has
+since applied it**, and the five split:
+
+- **Iracordas was corrected**: 5,200 AU/s to **8,742** (9,400 EU/g × 0.93) on
+  the live card, so his row above is built on the corrected figure and his clock
+  moved from 3.23 s to **1.92 s**. His residual in §6.2 is now **0.000**: the
+  identity holds on him exactly, because the figure was computed from it.
+- **The other four are held, not corrected**, and are on **WAR-102** (Doc Kett,
+  `canon` + `needs-ruling`): Gimbzo **+7.889 decades** (`CONFLICTS.md` C-053:
+  the recomputed figure contradicts figures his own card states elsewhere),
+  Ayame Yuno **+0.637** and Artemis Amagiri Moto **+0.660** (the exact product
+  lands on a decimal in a field that has never held one), Ignatius **+0.021**
+  (the ruling does not say what his wording becomes).
+
+So four of the five durations above are still computed from figures a live ruling
+has called errors. **A row filed on those four today would be filed against
+numbers that are going to change**, and WAR-102 is the issue that will know.
+Iracordas's number has already changed once and can change again only by a fresh
+ruling.
 
 > **PENDING.** **The question:** *is one AU one EU — that is, does a second at
 > full AU/s cost exactly AU/s worth of EU?* If yes, the table above is the
@@ -983,27 +1003,51 @@ side of the identity is EU/g and the left is EU/s, and no arrangement of the
 two makes them the same quantity. **Something with the dimensions of grams per
 second is missing from the written form.**
 
-Solve for it. Writing AU/s = Flux Density × η × *m*, the twenty-nine cards that
-state all three figures each imply a value of *m*:
+Solve for it. Writing AU/s = Flux Density × η × *m*, the thirty cards that state
+all three figures each imply a value of *m*:
 
 | implied *m* | cards |
 |---|---|
-| exactly 1 g | Ara Min Mahuo, Kwon Mu-jin, Yoko Mishiro — **the three the formula already holds for** |
-| 0.2 – 10 g | 21 of 29, including Dougou 0.21, Borin 0.32, Iracordas 0.59, Ignatius 1.05, Yukazuri 1.86, Niran 2.35, Lucius 3.13, Mizuki 4.01, Artemis 4.57, Muken 4.61, Sodoku 4.92, Anryū 5.27, Naevra 6.65 |
-| 0.008 – 0.013 g | the seven "million EU/g" sheets — Serai Linthra, Garron Vuldane, Elion Drevas, Kael Serradyn, Valthren Odrin, Mavra Cindrel |
-| 0.00024 g | Draen Varos |
+| exactly 1 g | 19 of 30: Ara Min Mahuo, Kwon Mu-jin and Yoko Mishiro, **the three the formula always held for**, plus the **sixteen WAR-48 corrected under R44-2**: Anryū, Draen Varos, Garron Vuldane, Iracordas, Kael Serradyn, Lucius, Mavra Cindrel, Mizuki, Muken, Naevra, Niran, Rashani, Rengai, Serai Linthra, Valthren Odrin, Yorime Seikai |
+| 0.2 – 10 g | 9 more: Dougou 0.21, Borin 0.32, Naiser 0.80, Ignatius 1.05, Yukazuri 1.86, Vethraun 2.77, Ayame 4.33, Artemis 4.57, Sodoku 4.92 |
+| 0.010 g | Elion Drevas, the last of the "million EU/g" sheets still stating its own AU/s |
 | 7.7 × 10⁷ g | Gimbzo |
 
-**Twenty-one of twenty-nine imply a mass between a fifth of a gram and ten
-grams,** and the three the identity already fits imply exactly one gram — which
-is what you would expect if the formula was written with a unit gram silently
-taken as read. That is a real regularity and it is worth Isaac's attention.
+**[residual] Read the first row before the second.** The nineteen that imply
+exactly one gram are not nineteen measurements: **sixteen of them are figures
+WAR-48 computed from this identity** on 2026-09-25, so they hold by construction
+and carry no evidence about *m* at all. **Three cards imply one gram
+independently** — Ara Min Mahuo, Kwon Mu-jin, Yoko Mishiro — and those three are
+the whole of the direct evidence for a unit gram, exactly as they were in
+Phase 2's first pass.
 
-**And it fails on the one card that states a mass.** Draen Varos's Forge-Heart
-is **[canon]** *"nine kilograms of Crystal and slag that reads as one
-structure"* (`:37`). His implied *m* is 0.00024 g — thirty-seven million times
-smaller. **The mass reading is not the whole Crystal.** It could be a working
-aperture, a coupled fraction, or nothing at all; the draft asserts none of them.
+**The regularity survives on the rows that can still speak.** Of the eleven cards
+whose stated AU/s still misses the identity, **nine imply a mass between a fifth
+of a gram and ten grams** (0.21 to 4.92), one implies a hundredth of a gram and
+one implies seventy-seven tonnes. Nine of eleven inside a factor of twenty-five,
+around a value three independent cards hit exactly, is a real regularity and it
+is worth Isaac's attention. **It is also all the evidence there will be**: each
+further correction under R44-2 moves a card into the first row of the table and
+out of the eleven.
+
+**[residual] And §6.2's own warning was overtaken by the ruling's application.**
+The PENDING block below, written in Phase 2, said that if the answer is "one
+gram, taken as read" then twenty-one of the twenty-six misses were not card
+errors but a unit never written down, **and that recomputing them would delete a
+real regularity.** R44-2 governs, WAR-48 applied it to sixteen of the
+twenty-six, and the count of cards that can test the question fell from
+twenty-nine to eleven. Recorded, not reopened. The route to revisit R44-2 is a
+fresh ruling, never a Part built on the pre-correction figures.
+
+**The one card that states a mass no longer contradicts the identity, and it
+does not confirm it either.** Draen Varos's Forge-Heart is **[canon]** *"nine
+kilograms of Crystal and slag that reads as one structure"* (`:37`). His stated
+AU/s was one of WAR-48's sixteen, 98,000 to **408,700,000** (670,000,000 EU/g ×
+0.61), so his implied *m* is now exactly one gram, where before the correction
+it was 0.00024 g. **Either way the mass in the identity is not the whole
+Crystal**: an implicit gram is nine thousand times smaller than the nine
+kilograms his own page states. It could be a working aperture, a coupled
+fraction, or nothing at all; the draft asserts none of them.
 
 > **RULED — C-035 (R44-2), and the question that survives it.** **[ruled]**
 > `RULINGS.md`, 2026-09-25:
@@ -1014,22 +1058,30 @@ aperture, a coupled fraction, or nothing at all; the draft asserts none of them.
 >
 > That settles which side of the identity is canon and it is the side this
 > section is written on: **the equation governs and the twenty-six card figures
-> are the error.** The row is closed with the ruling batch (WAR-22) and the
-> recomputation is WAR-48's, not this Part's. The residual column above stays
-> exactly as it is, because the residual is now the measure of a known card
-> error rather than of a live dispute.
+> are the error.** The row is closed with the ruling batch (WAR-22), and the
+> recomputation was WAR-48's, not this Part's: **sixteen of the twenty-six were
+> corrected on the live cards on 2026-09-25** (nineteen statements), and the
+> other **ten are held on WAR-102**: two because the recomputed figure
+> contradicts their own card (`CONFLICTS.md` C-053 Gimbzo, C-054 Dougou), four
+> because the ruling does not say what their wording becomes, and four because
+> the exact product lands on a decimal in a field that has never held one. The
+> residual column above is now the measure of a known card error on ten rows and
+> zero on the sixteen the correction reached.
 >
 > **The question this section adds is not answered by it, and is new.** R44-2
 > rules that the identity governs; it says nothing about an implicit mass, and
 > the identity as written is still dimensionally short by a gram per second
 > (§6.2). **The question, against a live ruling:** *does AU/s = Flux Density ×
 > η carry an implicit mass, and if so, whose — the whole Crystal (Draen Varos's
-> nine kilograms), or a working aperture much smaller than it?* It matters to
-> WAR-48, because if the answer is "one gram, taken as read" then twenty-one of
-> the twenty-six misses are not card errors at all but a unit never written
-> down, and recomputing them would delete a real regularity. **The Part does
-> not bend to fit any card; the equation above is FoW VII:85 as written, and
-> the residual column is what the cards do with it.**
+> nine kilograms), or a working aperture much smaller than it?* It mattered to
+> WAR-48 while WAR-48 was open, because if the answer is "one gram, taken as
+> read" then the misses were not card errors at all but a unit never written
+> down. **That cost has now been paid**: the correction ran, and the cards that
+> can still test the question are the eleven that still miss, nine of which imply
+> 0.21 to 4.92 g. The remaining ten are WAR-102's, and a ruling there that
+> corrects them closes the test. **The Part does not bend to fit any card; the
+> equation above is FoW VII:85 as written, and the residual column is what the
+> cards do with it.**
 
 ### 6.3 Where the waste goes, and why it cannot go through the body
 
@@ -1119,24 +1171,28 @@ pump delivers three to five times its input because it moves energy from
 outside. Canon's clause is the correct escape and it names the right price:
 **there must be a reservoir, and it must measurably deplete.**
 
-Quantified at Anryū Ichimonji's 52,000 AU/s and η 1.05, at the ruled constant:
-of every 1.05 delivered, 0.05 is drawn in, so 4.76% of 52.0 GW = **2.48 GW**
-comes out of the surroundings. Cooling sea-level air (ρ 1.225 kg/m³, c_p
+Quantified at Anryū Ichimonji's 9,870 AU/s and η 1.05, at the ruled constant: of
+every 1.05 delivered, 0.05 is drawn in, so 4.76% of 9.87 GW = **470 MW** comes
+out of the surroundings. Cooling sea-level air (ρ 1.225 kg/m³, c_p
 1,005 J·kg⁻¹·K⁻¹) by 10 K to supply it takes
 
-    V = 2.48 × 10⁹ / (1.225 × 1,005 × 10) = 2.01 × 10⁵ m³ per second
+    V = 4.70 × 10⁸ / (1.225 × 1,005 × 10) = 3.82 × 10⁴ m³ per second
 
-— a sphere **36.4 m in radius, every second.** **[draft]** A practitioner
+— a sphere **20.9 m in radius, every second.** **[draft]** A practitioner
 running η > 1 in air stands in a steady inward draught, a ring of condensation
 and frost, and a falling barometer. **That is measurable with a thermometer**,
 and it is the counter as well as the tell: *starve the reservoir.* Still air
 behind glass, vacuum, Aether-dead ground, a Silence Realm — and η falls back
 below one by definition, because there is nothing left to supplement it with.
 
-**[residual]** At the ruled constant the draught is 201,000 cubic metres of air
-a second — a cube fifty-nine metres on a side, every second: a standing wind, a
-fog bank and a local storm, not a thermometer reading. The counter is unchanged and a player can still find
-it — seal the room, take the air away — but the tell has stopped being subtle.
+**[residual]** At the ruled constant the draught is 38,000 cubic metres of air a
+second — a cube thirty-four metres on a side, every second: a standing wind, a
+fog bank and a local storm, not a thermometer reading. (Before WAR-48 corrected
+his AU/s under R44-2 his card read 52,000 AU/s, and the figure was 201,000 m³ a
+second, a cube fifty-nine metres on a side. The correction divides the draught by
+five and changes nothing about the argument.) The counter is unchanged and a
+player can still find it — seal the room, take the air away — but the tell has
+stopped being subtle.
 **[draft]** Read at 1 MJ, Anryū Ichimonji is not a quiet man; he is a weather
 front, and any scene written with him should say so.
 
@@ -1230,8 +1286,8 @@ before the reserve clock starts.** `physics-check.md` §4.7, first finding:
 > EU — they cook at ninety-nine. The mechanic canon defines cannot occur.
 
 §5.3's last column is that finding in figures: the margin runs from a factor of
-**22** (Naiser Yukari, 6.51 s of reserve against 32.8 ms of heat) to **2 × 10¹³**
-(Gimbzo). **So on the body-heat route the ten-percent floor in FoW VII:83 is
+**199** (Naiser Yukari, 6.51 s of reserve against 32.8 ms of heat) to
+**2 × 10¹³** (Gimbzo). **So on the body-heat route the ten-percent floor in FoW VII:83 is
 unreachable.** The Part does not soften that and does not repair it: R44-1 is
 later than the note, governs, and stands.
 
@@ -1383,8 +1439,9 @@ Ledger arms the first and the third:
   Still air behind glass, vacuum, Aether-dead ground or a Silence Realm takes
   the supplement away and η falls below one by definition. §7.3: the same
   ground stops the refill.
-- **Break the body** — §5.3. Every reserve in canon empties in under twenty-six
-  seconds at full draw except five. **The whole column is a clock, and making an
+- **Break the body** — §5.3. Every reserve in canon empties in under two minutes
+  at full draw except five (the Arctic Lion, Sodoku Moto, Kwon Mu-jin, Yoko
+  Mishiro, Borin Ironheart). **The whole column is a clock, and making an
   enemy spend is making the clock run.** `Counterplay:48` has been saying this
   without the numbers; this Part supplies them.
 
@@ -1459,7 +1516,7 @@ the case in full and Gemma Nye's independent second opinion is WAR-59.
 |---|---|---|
 | the reserve axis | new, §2.4 | does "scales with Temperance Stage" set the reserve, or cap it through the Band gates? R44-1 makes a Stage's band the arbiter but does not say how it is derived. §4.3 falls with this. |
 | 1 AU = 1 EU | new, §5.3 | does a second at full AU/s cost AU/s worth of EU? Five cards' durations hang on it, and no R44 row names it. |
-| the missing mass | new, §6.2 | R44-2 rules the identity governs; it says nothing about the gram per second the identity is dimensionally short of. If the answer is "one gram, taken as read", twenty-one of WAR-48's twenty-six recomputations are not errors. |
+| the missing mass | new, §6.2 | R44-2 rules the identity governs; it says nothing about the gram per second the identity is dimensionally short of. WAR-48 has since corrected sixteen of the twenty-six, so those sixteen now hold by construction and the question can only be tested on the **eleven that still miss**; nine of the eleven imply 0.21 to 4.92 g. Ten of them are WAR-102's. |
 | where the Shell dumps its waste | new, §7.2 | inside the body (§5.3's clock binds) or at/outside the surface (§6.4's radiance binds)? Fourier's law closes the first; no page rules it. |
 | recovery | new, §7.3 | are the percentage rates and the absolute rates the same quantity? |
 | Tier 9 reserve band | — | Part One has no Band for Stages XV–XVI; Part Nineteen has no η figure for Tier 9. Both left null. |
@@ -1468,7 +1525,7 @@ the case in full and Gemma Nye's independent second opinion is WAR-59.
 | Strike Force vs Stage | **C-040** | twelve cards state an output their Stage's Grade does not reach. |
 | B-to-A travel-speed gap | **C-038** | Mach 4 to Mach 5 sits in no Grade. Rung 4 of 2026-09-25 reaches it; the row is carried open. |
 | Level gates vs two cards | **C-041** *(filed by this phase)* | Sodoku at L320/Stage VI and Krothar at L380/Stage VIII are past gates their Stage has not opened. |
-| Naiser Yukari's η in `anchors.json` | **WAR-94**, §5.3 | not a canon question: Phase 1's extractor read his AU/s row and missed the "Aetheric Efficiency" row beneath it. Filed against `anchors.json` and `extract_anchors.py`; no card touched. |
+| ~~Naiser Yukari's η in `anchors.json`~~ | **WAR-94, closed**, §5.3 | not a canon question, and fixed at source in `8ff44e3`: `extract_anchors.py` now reaches a label written without the η character, `anchors.json` carries his 0.89, and `ledger_tables.py`'s patch is gone. The same sweep reached Krothar Thunn-Gorr's 0.76, Torven Greis's 0.22 and Krothar Veylshroud's 420,000 AU/s. No card touched. |
 
 **Nothing in this Part resolves any of §9.3.** Where a table had to be built over
 an open slot, the reading it used is named beside it and the table falls with the

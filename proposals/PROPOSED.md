@@ -159,8 +159,10 @@ by a Harmonist. Four flags inline.
 **applies_to:** items, stats, magic-mechanism, combat
 **Full draft:** proposals/item_grades_draft.md
 
-Items ranked on the nine Tiers of Standing (Isaac: "based on the nine tier
-system"): an item carries the lower of its material's Tier (Material Index Tn
+Items get their own nine Tiers, named in Accord Latin with plain English
+(Isaac, List A): Plain, Marked (Signatum), Proofed (Probatum), Tempered,
+Instrument, Hallowed, Storied, Found (Inventum), Numinous, Proscribed
+(Interdictum), each level with the Tier of Standing of the same number: an item carries the lower of its material's Tier (Material Index Tn
 holds Standing Tier n: T3 Journeyman/C, T4 Adept/B, T7 Grandmaster, T9 Paragon)
 and its maker's Tier (R45-3). Read per kind: a weapon's added hit, a
 projectile's speed and hit, armour's proof (stops its Tier and below; one above

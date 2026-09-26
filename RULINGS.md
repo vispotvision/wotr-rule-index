@@ -2033,3 +2033,9 @@ The Night Watch and Malphas's organization (Claude Code chat).
 4. Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
 
 Context: Faction questions after the combat, society and politics questionnaire.
+
+## 2026-09-26 — C-087
+
+The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes. 'The Society's warrant, not the Bureau's' is the crown's warrant as the Society holds it.
+
+Context: Settles C-087; follows 'night-watch-and-the-mother' item 1.

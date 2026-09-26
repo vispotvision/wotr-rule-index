@@ -6,6 +6,65 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-26 (WAR-14 — the Essence Ledger Part is published, clean where this issue's own words reach)
+
+**Part Twenty-Three is live in Notion** as *IX. The Essence Ledger (Part Twenty-Three)*
+(`3e758200-eb22-81d4-9e1d-f161b3ed583a`), a child of **Fracture of Worlds — The Living System**
+beside volumes I to VIII: 301 blocks, §1 to §10, 19 tables intact.
+
+**Read the block below this one first — it landed on master mid-run and it changed what this issue
+could ship.** The issue's own instruction, and the standing direction in every agent's AGENTS.md, was
+to publish an open question *on the page* as a callout naming the conflict id and the words "may
+change when ruled". Clean publishing (Isaac, 2026-09-26, `fair-play.md`) bars exactly that. The two
+reconcile on one reading and it is the one CONTINUE's next block states in words: **a batch still
+never waits on an open question, and the open question still never goes on the page** — it stays in
+`CONFLICTS.md` and on the issue. The first page went up at 22:5x with a header callout naming WAR-14,
+R44-1, C-038 to C-041 and "may change when the row is ruled"; that header was replaced within the run,
+before any pointer sent a reader to it, by a seven-line standfirst in the page's own register. The
+`--apply` path replaces the body in place, so there is one page and one id, not two.
+
+**What is clean and what is not, exactly.** A scan of the three pages for owner, ruling, conflict,
+issue, tool and status wording: *The Core Vocabulary* **0 hits**, *Tier Grade, Bands & the Aether
+Shell* **0 hits**, the Part **117 hits over 301 blocks**. Every one of the 117 is WAR-12's draft
+apparatus — the `[canon]`/`[ruled]`/`[derived]`/`[residual]` markers and the table that explains them,
+the file-and-line citations, the `PENDING` blocks, §9 *What is ruled, and what is open*, §10's sources
+— and rewriting it is a *published edition* of the Part, not a publication of it. It is not this
+issue's call to make silently: filed as its own issue and added to **WAR-156**'s inventory, which is
+the same sweep over the other 90 pages.
+
+**`imports/essence-ledger/publish_part.py` is how it got there and how it is re-done.** It reads
+WAR-12's draft without editing it, applies two named patches in memory, converts with
+`build/notion_publish.md_to_blocks` — the converter the rest of the wiki is published with — and
+creates or replaces the one page. `_published_pages.json` holds the page id, so a re-run replaces
+rather than duplicates; `_published/the-essence-ledger.notion.md` is the exact body that went up, and
+diffing it against the draft is the whole of what publication changed. Nothing in `build/` was
+touched and nothing wrote `wiki/`.
+
+**The two patches.** The draft's header said *"Nothing here is published to the wiki or to Notion;
+that is Phase 4"* — false the moment it is published, and four kinds of barred text in one block. It
+becomes the standfirst. §10's closing footnote, which said the R44 rows were unpushed in the WAR-22
+batch, is **removed** rather than corrected: it was stale (WAR-96 logged them into `RULINGS.md` and
+they are on master) and correcting it would have written more process text onto the page.
+
+**Two of the three pointers are in; the third waits on WAR-13.** *The Core Vocabulary* §V gains three
+defined terms after η — **Joule · J** (1 EU = 1 MJ, linked to the Part), **Watt · W** (1 AU/s = 1 MW
+with the drain identities) and **The Essence Ledger** itself. *Tier Grade, Bands & the Aether Shell*
+gains one grey callout immediately after the Grade table with the EU → J → Grade chain. All four
+blocks state the settled reading and cite nothing: under clean publishing the ruled constant is just
+the constant, and that one AU is one EU — the Part's §9.3 open question — is published as the
+best-supported current text, without comment, with the row still open in `CONFLICTS.md`. **The
+Bestiary header table gains nothing yet**: the row it must point at is the Bestiary ladder, which is
+WAR-13's and does not exist. It lands with the ladders in the second pass.
+**No stale "Band" reference was touched anywhere.**
+
+**One thing the next Notion publish should know.** `notion_publish.md_to_blocks` cannot see an italic
+span the source wraps across two lines — its inline regex stops at a newline — so such a span reaches
+Notion with its asterisks printed as characters; four of WAR-12's paragraphs do this on the live page.
+Joining the span onto one line is *worse*: an italic run swallows the `code` spans inside it and their
+backticks print instead (measured this run — 37 spans, every backtick in them lost). Text this issue
+wrote is therefore written without wrapping asterisks, and the draft's own wrapped italics were left
+as WAR-12 wrote them.
+
 ## State on 2026-09-26 (clean publishing, part 2: no provenance, no self-mention — 40 more pages, and the generators)
 
 **Part 2 of the standing publishing rule arrived, and it is not a restatement of part 1.** A published

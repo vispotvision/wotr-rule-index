@@ -6,6 +6,32 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-46 — four more per-use rates found and scaled; 93, not 89)
+
+**A verification pass over the twelve scaled cards found four EU figures the scanner had missed, and
+they are now scaled on the live pages.** The shipped `TRAILING_RATE` pattern matched only the exact
+shape `EU + N/s`, so a rate whose denominator is not the second, or whose line puts a word between
+the unit and the `+`, was read as if it were not an EU figure at all:
+
+| card | line | read | now |
+|---|---|---|---|
+| Lucius Xenotro | `:88` | `127,300 EU + 9,500/target` | **33,600/target** |
+| Lucius Xenotro | `:90` | `265,300 EU each + 15,000/s` | **53,050/s** |
+| Yorime Seikai | `:93` | `64,360,000,000 EU + 900/min` | **16,090,000,000/min** |
+| Yorime Seikai | `:96` | `107,300,000,000 EU + 1,200/breath` | **21,450,000,000/breath** |
+
+Left as they were, each line stated a cost scaled by the card's factor and a rate that was not, which
+is the share C-059 exists to keep. The pattern now anchors on `EU` and on the `+` and takes any
+alphabetic denominator; `[^+\d]{0,12}` cannot cross another figure, so a metre, a second or a
+temperature standing beside a cost is still not reached. Checked against all twelve cards: a strict
+superset of the old pattern, four old matches plus these four, no false positive. **The report's
+count is 93, not 89**; nothing else in it moved, and no other card was touched.
+
+**How they were found, in case the next sweep wants the method.** Every number on every line
+containing `EU` on the twelve cards, minus everything `eu_tokens()` already claims, printed with its
+context — 60-odd rows, nearly all of them nm, °C, Hz, metres, seconds, `EU/g` and `AU/s`, and these
+four. Worth re-running after any change to the patterns.
+
 ## State on 2026-09-25 (WAR-46 — C-059 applied: twelve cards scaled, 89 EU figures moved in Notion)
 
 **C-059 is applied, and WAR-46's Notion work is done.** The ruling (`RULINGS.md`, 2026-09-25 — C-059,

@@ -253,7 +253,14 @@ AMOUNT = re.compile(r'(?<![\d.])(\d[\d,]*(?:\.\d+)?)(\s*(?:million|billion))?(\s
 RANGE_LOW = re.compile(r'(?<![\d.])(\d[\d,]*(?:\.\d+)?)\s*(?:to|–|—)\s*\d[\d,]*(?:\.\d+)?'
                        r'(?:\s*(?:million|billion))?\s*EU\b(?!\s*/\s*g)')
 RESERVE_LABEL = re.compile(r'(EU Reserve\**\s*[:·]?\**\s*~?)(\d[\d,]*(?:\.\d+)?)')
-TRAILING_RATE = re.compile(r'(EU\s*\+\s*)(\d[\d,]*(?:\.\d+)?)(\s*/\s*s)')
+# A cost the card hangs a per-use rate off writes the unit once, on the cost:
+# "20,000 EU + 3,000/s". The rate is an EU figure, so it moves with the cost or
+# the line stops stating a share. The denominator is whatever the card counts
+# in — `/s`, but also `/target`, `/min`, `/breath` — and a word may stand
+# between the unit and the `+` ("75,000 EU each + 15,000/s"). Anchored on `EU`
+# and on the `+`, so a metre, a second or a temperature beside a cost is not
+# reached: `[^+\d]` cannot cross another figure.
+TRAILING_RATE = re.compile(r'(EU\b[^+\d]{0,12}\+\s*)(\d[\d,]*(?:\.\d+)?)(\s*/\s*[A-Za-z]+)')
 MAGNITUDE = {'million': 1e6, 'billion': 1e9}
 
 

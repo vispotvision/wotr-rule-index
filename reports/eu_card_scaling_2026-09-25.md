@@ -17,7 +17,7 @@ For the reserve's Stage the Max Grade is *G*; Part Four gives *G*'s attack-outpu
 | attested EU figures with a band to read against | 155 |
 | of those, misses at 1 EU = 1 MJ | 128 |
 | cards C-059 scales | **12** |
-| **EU figures on those cards, each scaled** | **89** |
+| **EU figures on those cards, each scaled** | **93** |
 | of those, attested misses the scaling settles | 60 |
 | cards C-059 does not reach | 45 |
 | attested misses still held on them | 68 |
@@ -145,9 +145,11 @@ Check: 10,080,000 EU × η 0.92 × 1 MJ = 9.274×10^12 J, inside 4.184×10^12–
 | `:87` | `28,000 EU` | **99,030 EU** |
 | `:87` | `EU + 6,000/s` | **21,220 EU** |
 | `:88` | `36,000 EU` | **127,300 EU** |
+| `:88` | `EU + 9,500/target` | **33,600 EU** |
 | `:89` | `18,000 EU` | **63,660 EU** |
 | `:89` | `EU + 4,200/s` | **14,850 EU** |
 | `:90` | `75,000 EU` | **265,300 EU** |
+| `:90` | `EU each + 15,000/s` | **53,050 EU** |
 | `:91` | `160,000 EU` | **565,900 EU** |
 | `:91` | `EU + 22,000/s` | **77,810 EU** |
 | `:97` | `34,000 EU` | **120,300 EU** |
@@ -225,9 +227,11 @@ Check: 1.323×10^12 EU × η 0.94 × 1 MJ = 1.244×10^18 J, inside 4.184×10^14�
 | `:59` | `74,000 EU` | **1.323×10^12 EU** |
 | `:92` | `2,800 EU` | **50,060,000,000 EU** |
 | `:93` | `3,600 EU` | **64,360,000,000 EU** |
+| `:93` | `EU + 900/min` | **16,090,000,000 EU** |
 | `:94` | `4,200 EU` | **75,090,000,000 EU** |
 | `:95` | `9,500 EU` | **169,800,000,000 EU** |
 | `:96` | `6,000 EU` | **107,300,000,000 EU** |
+| `:96` | `EU + 1,200/breath` | **21,450,000,000 EU** |
 | `:97` | `12,000 EU` | **214,500,000,000 EU** |
 
 ## The four WAR-70 corrections, re-checked

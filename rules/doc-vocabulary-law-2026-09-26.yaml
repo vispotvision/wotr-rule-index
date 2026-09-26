@@ -1,0 +1,924 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat, answering the vocabulary questionnaire. Each verbatim is an exact substring
+# of its RULINGS.md entry. Standalone-ruling pattern: empty source.file.
+pack: Vocabulary Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R51-01-TIMELESS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Timeless
+  status: live
+  kind: mandate
+  summary: 'Timeless narration varies by culture: plain, undated English by default; some cultures''
+    scenes (Eresse, the Moto court) may take a more antique narration.'
+  verbatim: 'Timeless narration varies by culture: plain, undated English by default; some cultures''
+    scenes (Eresse, the Moto court) may take a more antique narration.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-02-CLOSE_POV_SWEARS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Close Pov Swears
+  status: live
+  kind: mandate
+  summary: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears
+    invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity
+    is fine I think we should use timelees profanes and invent ...'
+  verbatim: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears
+    invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity
+    is fine I think we should use timelees profanes and invent some deliberately for wotr".)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-03-LIST_SLANG
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: List Slang
+  status: live
+  kind: mandate
+  summary: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome,
+    cool); the rest by ear.'
+  verbatim: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome,
+    cool); the rest by ear.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-04-LIST_PSYCH
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: List Psych
+  status: live
+  kind: mandate
+  summary: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration
+    (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.'
+  verbatim: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration
+    (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-05-LIST_TECH
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: List Tech
+  status: live
+  kind: mandate
+  summary: 'Technology and office metaphors are legal only if the POV''s own culture has the
+    thing: an Accord fitter may think ''on the main'', a Kharven hunter may not.'
+  verbatim: 'Technology and office metaphors are legal only if the POV''s own culture has the
+    thing: an Accord fitter may think ''on the main'', a Kharven hunter may not.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-06-EARTH_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Earth Words
+  status: live
+  kind: mandate
+  summary: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated
+    like lens names: legal wherever they fit.'
+  verbatim: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated
+    like lens names: legal wherever they fit.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-07-CLOCK_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Clock Words
+  status: live
+  kind: mandate
+  summary: Seconds and minutes are plain English and free everywhere in narration; in-world
+    time units add flavour.
+  verbatim: Seconds and minutes are plain English and free everywhere in narration; in-world
+    time units add flavour.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-08-CALENDAR
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Calendar
+  status: live
+  kind: mandate
+  summary: Earth day and month names never appear; 'week' becomes the culture's own span (a
+    turn, a quarter-moon); all go on the list.
+  verbatim: Earth day and month names never appear; 'week' becomes the culture's own span (a
+    turn, a quarter-moon); all go on the list.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-09-SPEECH_CAP
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Speech Cap
+  status: live
+  kind: mandate
+  summary: How modern a character's speech runs is set on their card; the default is casual,
+    not current.
+  verbatim: How modern a character's speech runs is set on their card; the default is casual,
+    not current.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-10-SLOP_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Slop Words
+  status: live
+  kind: mandate
+  summary: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable,
+    visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch),
+    velvet (voice), shiver down the spine, a breath he didn''t know...'
+  verbatim: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable,
+    visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch),
+    velvet (voice), shiver down the spine, a breath he didn''t know he was holding, the coppery
+    tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-11-COLLISIONS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Collisions
+  status: live
+  kind: mandate
+  summary: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum,
+    weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned
+    so the term stays sharp.
+  verbatim: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum,
+    weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned
+    so the term stays sharp.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-12-WORD_BANK
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Word Bank
+  status: live
+  kind: mandate
+  summary: The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine,
+    stygian, empyreal, ineffable) is used freely, by ear.
+  verbatim: The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine,
+    stygian, empyreal, ineffable) is used freely, by ear.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-13-WORD_STOCK
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Word Stock
+  status: live
+  kind: mandate
+  summary: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence
+    needs.'
+  verbatim: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence
+    needs.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-14-NEW_TERMS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: New Terms
+  status: live
+  kind: mandate
+  summary: No ceiling on WOTR terms per page; readers learn by immersion.
+  verbatim: No ceiling on WOTR terms per page; readers learn by immersion.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-15-FIRST_USE
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: First Use
+  status: live
+  kind: mandate
+  summary: New WOTR terms get meaning from context and use only; no appositive gloss (the zero
+    gloss budget stands).
+  verbatim: New WOTR terms get meaning from context and use only; no appositive gloss (the zero
+    gloss budget stands).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-16-OLD_BANS_FALL
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Old Bans Fall
+  status: live
+  kind: mandate
+  summary: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
+    in narration fall; they are free in narration.
+  verbatim: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
+    in narration fall; they are free in narration.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: replaces
+  supersedes:
+  - R11-2-VOCABULARY_TIERS
+  - R20C-31-SUBSTAT_NAMES_FACULTY_ONLY
+  - R5-F-LIGHT_NOVEL_NOT_KEPT
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-17-MID_ACTION
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Mid Action
+  status: live
+  kind: mandate
+  summary: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action;
+    the reader keeps up.'
+  verbatim: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action;
+    the reader keeps up.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: replaces
+  supersedes:
+  - R13-9-STYLE_DIRECTIVE_MECHANISM_VOCAB
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-18-DOUBLET
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Doublet
+  status: live
+  kind: mandate
+  summary: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s
+    scene says ''the cutting'', an Accord examiner''s says ''Runecraft''.'
+  verbatim: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s
+    scene says ''the cutting'', an Accord examiner''s says ''Runecraft''.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-19-ACCORD_LATIN
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Accord Latin
+  status: live
+  kind: mandate
+  summary: 'Accord Latin may appear anywhere by ear: speech, narration or documents.'
+  verbatim: 'Accord Latin may appear anywhere by ear: speech, narration or documents.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: replaces
+  supersedes:
+  - R9-2-COMMON_TONGUE_LEGAL
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-20-KHARVEN_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Kharven Words
+  status: live
+  kind: mandate
+  summary: New Kharven words may be native words, built freely on the Far-Northern sound rules;
+    Kharven speech carries its own words.
+  verbatim: New Kharven words may be native words, built freely on the Far-Northern sound rules;
+    Kharven speech carries its own words.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-21-MOTO_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Moto Words
+  status: live
+  kind: mandate
+  summary: Moto and other Japonic houses use Japanese honorifics and address forms in speech,
+    in a feudal register, never modern casual.
+  verbatim: Moto and other Japonic houses use Japanese honorifics and address forms in speech,
+    in a feudal register, never modern casual.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-22-MOTO_VOICE
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Moto Voice
+  status: live
+  kind: mandate
+  summary: The Moto narration register is drafted by the partner from The Muster's prose and
+    put to Isaac to rule on.
+  verbatim: The Moto narration register is drafted by the partner from The Muster's prose and
+    put to Isaac to rule on.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-23-DAWI_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Dawi Words
+  status: live
+  kind: mandate
+  summary: Dawi drop into their own tongue freely; context carries it.
+  verbatim: Dawi drop into their own tongue freely; context carries it.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-24-ELVEN_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Elven Words
+  status: live
+  kind: mandate
+  summary: Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent,
+    built from the root bank.
+  verbatim: Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent,
+    built from the root bank.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-25-BEASTKIN
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Beastkin
+  status: live
+  kind: mandate
+  summary: Beastkin speak whatever Common their home place speaks; no special word stock.
+  verbatim: Beastkin speak whatever Common their home place speaks; no special word stock.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-26-CLASS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Class
+  status: live
+  kind: mandate
+  summary: 'Class in diction is set by character only: no class default; each card sets the
+    voice.'
+  verbatim: 'Class in diction is set by character only: no class default; each card sets the
+    voice.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-27-DIALECT
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Dialect
+  status: live
+  kind: mandate
+  summary: Any accent may be spelled phonetically, applied evenly including high-born speakers;
+    the wiki's Accent page bar on eye-dialect is superseded.
+  verbatim: Any accent may be spelled phonetically, applied evenly including high-born speakers;
+    the wiki's Accent page bar on eye-dialect is superseded.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-28-CHANT_PAGE
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Chant Page
+  status: live
+  kind: mandate
+  summary: A chant appears in its own language; a POV who understands it may think the meaning
+    in his own words.
+  verbatim: A chant appears in its own language; a POV who understands it may think the meaning
+    in his own words.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-29-SWEARING
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Swearing
+  status: live
+  kind: mandate
+  summary: 'Swearing uses both: English swears are fine, and each culture has its own oaths
+    and insults and uses those first.'
+  verbatim: 'Swearing uses both: English swears are fine, and each culture has its own oaths
+    and insults and uses those first.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-30-HOLY_OATHS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Holy Oaths
+  status: live
+  kind: mandate
+  summary: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world:
+    characters swear by their own powers (''Archons take it'', ''By the Sky'').'
+  verbatim: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world:
+    characters swear by their own powers (''Archons take it'', ''By the Sky'').'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-31-SENSE_BANK
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Sense Bank
+  status: live
+  kind: mandate
+  summary: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours,
+    textures); scenes draw from it first.
+  verbatim: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours,
+    textures); scenes draw from it first.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-32-SMELL_WORDS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Smell Words
+  status: live
+  kind: mandate
+  summary: Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+  verbatim: Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-33-DOC_REGISTER
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Doc Register
+  status: live
+  kind: mandate
+  summary: 'In-world documents keep a house style per institution: Accord chancery formal and
+    Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the
+    writer''s voice.'
+  verbatim: 'In-world documents keep a house style per institution: Accord chancery formal and
+    Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the
+    writer''s voice.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-34-DOC_MODERN
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: Doc Modern
+  status: live
+  kind: mandate
+  summary: The modern-word list applies to in-world documents like narration; documents are
+    timeless and the checker runs the list on them.
+  verbatim: The modern-word list applies to in-world documents like narration; documents are
+    timeless and the checker runs the list on them.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R51-35-NEW_SWEARS
+  pack: Vocabulary Law 2026-09-26
+  pack_number: null
+  section: Vocabulary and diction
+  title: New Swears
+  status: live
+  kind: mandate
+  summary: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi,
+    Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to
+    approve before they are canon.
+  verbatim: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi,
+    Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to
+    approve before they are canon.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Vocabulary and diction
+    operation: adds
+  supersedes: []
+  applies_to:
+  - register
+  - prose-law
+  - dialogue
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (vocabulary questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

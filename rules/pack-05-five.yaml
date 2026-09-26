@@ -793,7 +793,7 @@ rules:
     pack_number: 5
     section: "F"
     title: What the light novel does not keep
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Status screens, panels and HUD-style rendering (already banned);

@@ -802,7 +802,7 @@ rules:
     pack_number: 13
     section: "§9"
     title: Mechanism Vocabulary surfacing rule amended
-    status: live
+    status: superseded
     kind: consequential_edit
     summary: >-
       Bare jargon mid-action stays banned, but a Mechanism Vocabulary term

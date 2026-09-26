@@ -1530,3 +1530,148 @@ A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimb
 
 Every character card and place page carries a short pronunciation line.
 
+
+## 2026-09-26 — Vocabulary Law (R51), Claude Code chat
+
+Isaac answered the 35-question vocabulary and diction questionnaire in Claude Code chat. Index pack: rules/doc-vocabulary-law-2026-09-26.yaml.
+
+### R51-01-TIMELESS
+
+Timeless narration varies by culture: plain, undated English by default; some cultures' scenes (Eresse, the Moto court) may take a more antique narration.
+
+### R51-02-CLOSE_POV_SWEARS
+
+Profanity may bleed into close-POV narration, using timeless profanities plus swears invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity is fine I think we should use timelees profanes and invent some deliberately for wotr".)
+
+### R51-03-LIST_SLANG
+
+Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool); the rest by ear.
+
+### R51-04-LIST_PSYCH
+
+Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.
+
+### R51-05-LIST_TECH
+
+Technology and office metaphors are legal only if the POV's own culture has the thing: an Accord fitter may think 'on the main', a Kharven hunter may not.
+
+### R51-06-EARTH_WORDS
+
+Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens names: legal wherever they fit.
+
+### R51-07-CLOCK_WORDS
+
+Seconds and minutes are plain English and free everywhere in narration; in-world time units add flavour.
+
+### R51-08-CALENDAR
+
+Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon); all go on the list.
+
+### R51-09-SPEECH_CAP
+
+How modern a character's speech runs is set on their card; the default is casual, not current.
+
+### R51-10-SLOP_WORDS
+
+A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice), shiver down the spine, a breath he didn't know he was holding, the coppery tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.
+
+### R51-11-COLLISIONS
+
+Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays sharp.
+
+### R51-12-WORD_BANK
+
+The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal, ineffable) is used freely, by ear.
+
+### R51-13-WORD_STOCK
+
+Narration's word stock (Old English vs Latinate) is by ear: whatever the sentence needs.
+
+### R51-14-NEW_TERMS
+
+No ceiling on WOTR terms per page; readers learn by immersion.
+
+### R51-15-FIRST_USE
+
+New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget stands).
+
+### R51-16-OLD_BANS_FALL
+
+All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration fall; they are free in narration.
+
+### R51-17-MID_ACTION
+
+The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader keeps up.
+
+### R51-18-DOUBLET
+
+Narration uses whichever form of a craft term the POV would say: an Engraver's scene says 'the cutting', an Accord examiner's says 'Runecraft'.
+
+### R51-19-ACCORD_LATIN
+
+Accord Latin may appear anywhere by ear: speech, narration or documents.
+
+### R51-20-KHARVEN_WORDS
+
+New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven speech carries its own words.
+
+### R51-21-MOTO_WORDS
+
+Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal register, never modern casual.
+
+### R51-22-MOTO_VOICE
+
+The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac to rule on.
+
+### R51-23-DAWI_WORDS
+
+Dawi drop into their own tongue freely; context carries it.
+
+### R51-24-ELVEN_WORDS
+
+Elves speak English plus a few Vey-Elarin loanwords for things with no English equivalent, built from the root bank.
+
+### R51-25-BEASTKIN
+
+Beastkin speak whatever Common their home place speaks; no special word stock.
+
+### R51-26-CLASS
+
+Class in diction is set by character only: no class default; each card sets the voice.
+
+### R51-27-DIALECT
+
+Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's Accent page bar on eye-dialect is superseded.
+
+### R51-28-CHANT_PAGE
+
+A chant appears in its own language; a POV who understands it may think the meaning in his own words.
+
+### R51-29-SWEARING
+
+Swearing uses both: English swears are fine, and each culture has its own oaths and insults and uses those first.
+
+### R51-30-HOLY_OATHS
+
+Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters swear by their own powers ('Archons take it', 'By the Sky').
+
+### R51-31-SENSE_BANK
+
+Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures); scenes draw from it first.
+
+### R51-32-SMELL_WORDS
+
+Technical smell words (ozone, sulphur, ammonia) are free for any POV.
+
+### R51-33-DOC_REGISTER
+
+In-world documents keep a house style per institution: Accord chancery formal and Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the writer's voice.
+
+### R51-34-DOC_MODERN
+
+The modern-word list applies to in-world documents like narration; documents are timeless and the checker runs the list on them.
+
+### R51-35-NEW_SWEARS
+
+A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they are canon.
+

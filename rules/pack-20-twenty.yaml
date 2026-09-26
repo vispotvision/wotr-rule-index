@@ -626,7 +626,7 @@ rules:
     pack_number: 20
     section: "R20C-31"
     title: "Sub-Stat names never appear outside a faculty reading"
-    status: live
+    status: superseded
     kind: ban
     summary: "Sub-Stat names never appear outside a faculty reading."
     verbatim: "Sub-Stat names never appear outside a faculty reading."

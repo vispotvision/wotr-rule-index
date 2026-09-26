@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fc-9495-e4c845906130"
 notion_url: "https://app.notion.com/p/Anointing-3d958200eb2281fc9495e4c845906130"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:01:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · A rite that confers recognition, not rule, on a person: the subject's Crystal begins answering to the mark, which can awaken a latent Wellspring alignment and unseal glyphs dormant since birth.
 **Cost** · 10% of full reserve once per rite, plus the officiant's own standing, vouched for as long as the mark stands.
 **Limit** · It cannot confer legitimacy by ceremony alone, grant dominion or rule, or be undone casually; a mark laid in error misdirects the Crystal for the rest of its path.
-**Counter** · Bring a Judicium practitioner or a Measurewright to the rite, outbid it with a stronger claim, or refuse to honour it; a forced or tricked Anointing comes off only by Scission.
+**Counter** · A Judicium practitioner or a Measurewright at the rite, a stronger claim, or a refusal to honour it; a forced or tricked Anointing comes off only by Scission.
 **What nobody knows** · Who, if anyone, chose a subject whose true Anointing was performed by an officiant who believed the rite was empty.
 
 ### Codex line
@@ -30,19 +30,6 @@ verification: null
 **Stage floor** · Glory
 **Grade required** · A-Grade
 **Path gate** · Attraction Path at Flourishing to pass B in Oath and Axis, and at Ascension to pass C in Empathy.
-
-### Design Chain
-
-**Trigger** · An officiant who holds Glory speaks the rite over the subject, laying Lo, Wy and Ka with hand and oil, and stakes their own Crystal on the claim.
-**Function** · Sets a recognition site in what the subject's Crystal counts as its own; nothing is added to capacity.
-**Mechanism** · Benediction makes the recognition measurable, Fixatio cures it so it lasts a career, and Judicium gives the officiant the discernment to tell a genuine calling from a manufactured one.
-**Numerical Effect** · One rite of five turns (30 s) delivers 3.1 to 67 GJ; the mark then stands with no upkeep.
-**Target Response** · The subject feels permission, not power: sealed glyphs receive their authorisation, and a latent alignment gated on that recognition becomes reachable.
-**Consequence** · A standing mark visible to anyone with enough Aetheric perception, which the subject's Crystal keeps answering to.
-**Limitation** · It gives only what its readers grant it, it cannot survive an assay if empty, and Coronation, not Anointing, confers rule.
-**Weakness** · The empty rite: correct words with no current behind them leave a visible mark that carries nothing, found only when called on. A stronger claim can displace a true mark silently, and a mark laid in error is permanent.
-**Cost** · 10% of full reserve per rite, so nine rites before Starvation; the officiant's standing rides on the mark for as long as it stands.
-**Counterplay** · Check the record (officiant, order, date and claim), watch a lying officiant drift in Coherence, bring an assay to the rite, and undo a forced Anointing by Scission at Scission's complication rate.
 
 ### FOW line
 
@@ -103,7 +90,7 @@ verification: null
 |---|---|---|
 | Cost | one rite of five turns | 10% of reserve, 5,180 to 96,100 EU |
 | Delivered | EU × η × 1 MJ | 3.1 to 67 GJ |
-| Uses before Starvation | 90% ÷ 10% | nine in a day, the ninth ending on the floor |
+| Reserve covers | 90% ÷ 10% | nine in a day, the ninth ending on the floor |
 | Upkeep | none | 0 EU |
 
 **Cost** · 10 percent of full reserve once per rite, plus the officiant's standing, vouched for as long as the mark stands.
@@ -113,5 +100,5 @@ verification: null
 
 **Tell** · The mark is visible but proves nothing, since a false one is equally visible; the record does: officiant, order, date and claim can all be checked. After a displacement, an alignment falls silent the first time it is called.
 **Limits** · It confers recognition, not power or rule; its effect is only what readers grant it; it cannot survive an assay if empty.
-**Beats it** · Bring a Judicium practitioner or a Measurewright to the rite; outbid it with a higher-affinity claim; refuse to honour it; watch a lying officiant drift in Coherence; undo a forced one by Scission.
+**Fails against** · A Judicium practitioner or a Measurewright at the rite; a higher-affinity claim; a reader who refuses to honour it; a lying officiant's own drift in Coherence; Scission, for a forced one.
 **Look up** · The Benediction, Fixatio and Judicium entries and their failures; the Attraction Path gates for Oath, Axis and Empathy; Scission's complication rate; Coronation for rule; the Glory Stage table.

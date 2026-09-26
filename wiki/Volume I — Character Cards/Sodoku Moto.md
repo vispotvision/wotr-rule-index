@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8169-a67b-cbde6be80dbe"
 notion_url: "https://app.notion.com/p/Sodoku-Moto-3b258200eb228169a67bcbde6be80dbe"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:50:00.000Z"
+last_edited: "2026-09-26T06:41:00.000Z"
 verification: null
 ---
 

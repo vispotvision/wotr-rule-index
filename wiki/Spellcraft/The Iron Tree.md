@@ -4,8 +4,8 @@ notion_id: "3d958200-eb22-81e6-ae29-d981794b4d2d"
 notion_url: "https://app.notion.com/p/The-Iron-Tree-3d958200eb2281e6ae29d981794b4d2d"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T03:49:00.000Z"
-verification: "unverified"
+last_edited: "2026-09-26T06:44:00.000Z"
+verification: null
 ---
 
 # The Iron Tree
@@ -17,9 +17,9 @@ verification: "unverified"
 ### Summary card
 
 **Effect** · Every branch is a release-valve off Dougou's sealed body-engine: a single chamber's stored pressure enters a chosen contact point in one instant instead of leaking outward, so the force drives into the target rather than spreading across the surface.
-**Cost** · 6.933×10^17 to 2.204×10^18 EU per branch, drawn from Dougou's 2.278×10^19 EU reserve; Kokushin Gyūha costs 1.832×10^18 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
+**Cost** · 2,800 to 8,900 EU per branch, drawn from Dougou's 92,000 EU reserve; Kokushin Gyūha costs 7,400 EU exactly per his sheet. The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive.
 **Limit** · Requires contact or near-contact and a grounded stance. Airborne targets and Void or anti-recognition fields deny chamber circulation entirely, per Dougou's own recorded weaknesses.
-**Counter** · Root disruption, resonance-based or spatial, drains accumulated density down through his own legs before a branch can release, and the loss does not recover mid-fight; forcing him airborne works the same way. His lowest resistance of all is emotional breach, since love, grief and kinship are the one input the sealed architecture was never built to process.
+**Counter** · Root disruption, resonance-based or spatial, drains accumulated density down through his own legs before a branch can release, and the loss does not recover while the working runs; being airborne does the same. His lowest resistance of all is emotional breach, since love, grief and kinship are the one input the sealed architecture was never built to process.
 **What nobody knows** · Whether the seal itself, and not the demonic strain it was built to contain, was the thing quietly killing him. His own record shows the containment never resolved and death arriving one Domain short of true sovereignty.
 
 ### Codex line
@@ -33,31 +33,18 @@ verification: "unverified"
 **Grade required** · A-Grade minimum; X-Grade at Dougou's personal apex.
 **Path gate** · Body, dominant.
 
-### Design Chain
-
-**Trigger** · A sealed chamber reaches threshold pressure, or Dougou chooses to vent one deliberately through a single named branch.
-**Function** · Converts stored, body-weighted Essence into one instant of structural release at a single contact point instead of an outward discharge.
-**Mechanism** · The real phenomenon is a stress riser: a pre-loaded vessel with a single controlled valve. Conventional strikes send force outward across a contact area; Dougou's sealed system behaves like a shaped charge aimed inward, so the energy drives into the target's own structure rather than spreading across its surface.
-**Numerical Effect** · Per the Physical Benchmarks table and Dougou's own sheet, output at apex reaches 12,000,000 N and 8 to 20 MJ, at the boundary between D-Grade and low C-Grade force; branch outputs below apex sit in the 1 to 10 MJ range his sheet's individual techniques already occupy.
-**Target Response** · Armor plate can survive intact while the structure behind it fails; stone fractures from within along existing grain; a struck body fails as a load-bearing structure rather than being cut.
-**Consequence** · Each release draws down Dougou's 2.278×10^19 EU reserve and the vented chamber cannot be re-loaded until the seal recompresses on its own schedule.
-**Limitation** · Contact or near-contact only; a grounded stance is required for the column of accumulated weight to hold.
-**Weakness** · The root chamber, the pelvic floor; loss of ground contact; Void and anti-recognition fields that deny chamber circulation.
-**Cost** · 6.933×10^17 to 2.204×10^18 EU per branch; 1.832×10^18 EU for Kokushin Gyūha.
-**Counterplay** · Root disruption, spatial displacement, forcing the exchange airborne, or reaching him through the one vector the seal was never built to hold: love, grief, kinship.
-
 ### Named branches
 
 | Branch | Function and mechanism | Cost |
 |---|---|---|
-| **Tetsu no Kobushi** · Iron Fist | Root, solar and shoulder-line pressure driven through the fist without external leakage. Caves armor inward, ruptures organs through blunt transfer | 1.189×10^18 EU |
-| **Tetsu no Geri** · Iron Kick | Sacral and root pressure, specialising in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 1.535×10^18 EU |
-| **Tetsu no Hiji** · Iron Elbow | Short-range rupture with almost no wind-up, for an enemy who mistakes proximity for opportunity | 8.914×10^17 EU |
-| **Tetsu no Hiza** · Iron Knee | Rising compression through the hips, lethal against a grabbed or staggered opponent | 1.04×10^18 EU |
-| **Tetsu no Kata** · Iron Shoulder | Broad-body mass rather than a narrow point; breaks formations, shields and gates | 1.337×10^18 EU |
-| **Tetsu no Atama** · Iron Head | Brutal, close-range, used only when he considers the opponent beneath formal technique | 6.933×10^17 EU |
-| **Tetsu no Ho** · Iron Step | Footwork pressure; forces the ground to accept his weight before he ever strikes the body above it | 1.535×10^18 EU |
-| **Kokushin Gyūha** · Black-Heart Bison Break | Apex fruit of the whole system: one sealed chamber released through a single contact point, entering the target instead of spreading outward | 1.832×10^18 EU |
+| **Tetsu no Kobushi** · Iron Fist | Root, solar and shoulder-line pressure driven through the fist without external leakage. Caves armor inward, ruptures organs through blunt transfer | 4,800 EU |
+| **Tetsu no Geri** · Iron Kick | Sacral and root pressure, specialising in displacement and terrain rather than inward rupture. Breaks knees, launches heavy targets, sends shock through packed ground | 6,200 EU |
+| **Tetsu no Hiji** · Iron Elbow | Short-range rupture with almost no wind-up, for an enemy who mistakes proximity for opportunity | 3,600 EU |
+| **Tetsu no Hiza** · Iron Knee | Rising compression through the hips, lethal against a grabbed or staggered opponent | 4,200 EU |
+| **Tetsu no Kata** · Iron Shoulder | Broad-body mass rather than a narrow point; breaks formations, shields and gates | 5,400 EU |
+| **Tetsu no Atama** · Iron Head | Brutal, close-range, used only when he considers the opponent beneath formal technique | 2,800 EU |
+| **Tetsu no Ho** · Iron Step | Footwork pressure; forces the ground to accept his weight before he ever strikes the body above it | 6,200 EU |
+| **Kokushin Gyūha** · Black-Heart Bison Break | Apex fruit of the whole system: one sealed chamber released through a single contact point, entering the target instead of spreading outward | 7,400 EU |
 
 ### FOW line
 
@@ -69,109 +56,67 @@ Dougou Ozumu Zettari built the Iron Tree himself, alone, out of the same event t
 
 ---
 
-### The Two Accounts
+### Physics
 
-#### 1 · Physical account (physics)
-
-**The phenomenon in plain words.** A vessel has been held at pressure for years with every outlet sealed. One outlet is opened, for an instant, against a specific point — and everything that was distributed through the whole vessel arrives at that point instead of leaking out across it.
-**The real phenomenon.** Three, and together they explain every line of the page's Target Response.
-*Energy concentration — the Munroe effect.* A charge with a lined conical cavity does not spread its energy over the target's face. The liner collapses on the axis and forms a jet moving at **8–10 km/s**, and at those velocities the stagnation pressure at the tip exceeds any material's strength by orders of magnitude, so the target stops behaving like a solid and flows. **The total energy is unremarkable. The *concentration* is the whole weapon.** The page's own sentence is the shaped-charge principle stated without the name: *"Conventional strikes send force outward across a contact area; Dougou's sealed system behaves like a shaped charge aimed inward, so the energy drives into the target's own structure rather than spreading across its surface."*
-*Stress concentration at a notch.* The page's stated Physics reading is *"a stress riser: a pre-loaded vessel with a single controlled valve"*, and a stress riser is the correct term: the local stress at a geometric discontinuity exceeds the nominal stress by a concentration factor set by the geometry, which is why structures fail at holes and fillets and not in the middle of the plate. **A sealed body with one opened valve is a stress riser with the body as the vessel.**
-*Behind-armour effects, and this is the line that needs the closest reading.* *"Armor plate can survive intact while the structure behind it fails"* sounds like a contradiction of the concentration principle, and it is not — it is a documented ballistic phenomenon. A plate struck with a sufficiently **short rise time** does not have time to distribute the load quasi-statically. A compressive shock enters the plate, traverses it, reflects off the free rear surface as a **tensile** wave, and since most armour materials are far weaker in tension than in compression, the rear face **spalls** — throwing fragments into whatever is behind it — while the front face is undamaged. It is the whole reason behind-armour blunt trauma exists and the reason a struck breastplate can come off a corpse with nothing visibly wrong with it.
-*The arithmetic that shows which of the two is happening.* At the card and page figure of **12 MN**, a fist-sized contact patch of about 50 cm² gives a pressure of 12×10⁶ / 5×10⁻³ = **2.4 GPa**, which is three to six times the ultimate strength of good plate steel. **At that pressure the plate does not survive.** For the plate to remain intact the load must be spread over at least 12×10⁶ / 0.8×10⁹ ≈ **0.015 m², a patch about 12 cm square** — much larger than a knuckle. So the page's two claims are only simultaneously true under the **shock-transmission** reading: the strike loads the plate dynamically, below its dynamic strength over a broad contact, and the *transmitted wave* is what kills. That is a real and checkable constraint the page does not state: **the Iron Tree's strikes must have an extremely short rise time, and a strike that lands slowly will not do this at all.**
-**The governing law.** **Stress concentration** at the vent, and **one-dimensional shock transmission and spall** at the target: a compressive pulse reflecting off a free surface as tension, with the rear face failing first.
-**Measurable quantities, SI.** The page and the card agree throughout and this is one of the best-documented workings in the corpus.
-- **Peak force at apex: 12,000,000 N** (page). The card's *Kokushin Gyūha* line gives **5–12 MN** independently.
-- **Energy at apex: 8–20 MJ** (page). The card's *Ozumu no Katachi* gives *"1–5 MJ contact threat"* for a lesser branch. **20 MJ is about 4.8 kg of TNT.**
-- **Grade check against Part Four.** D-Grade attack output runs 1.5×10⁴ – 2.092×10⁷ J, C-Grade 2.092×10⁷ – 1.046×10⁹ J. **8–20 MJ = 8×10⁶ – 2×10⁷ J, which sits inside D-Grade and stops just short of the D/C boundary at 2.092×10⁷ J.** The page's own phrasing — *"at the boundary between D-Grade and low C-Grade force"* — checks exactly. This is a page that did its arithmetic.
-- **Pressure at the contact, derived:** 2.4 GPa over 50 cm²; 6 GPa over 20 cm². Either figure is past the strength of any steel, which is the quantitative content of *"Caves armor inward, ruptures organs through blunt transfer."*
-- **Required contact area for the plate to survive:** ≥ 0.015 m². Derived, and the constraint that forces the shock-transmission reading.
-**The energy budget, and where the joules were.** In the body, for a long time. `Two Sets of Books` §III says *"The practitioner does not supply the joules"* — and here, uniquely, he did, slowly, and has been carrying them ever since. **The Iron Tree is a battery and every other working in this section is a switch.**
-**Precedent we are not copying.** The internal-energy martial art is a genre fixture: Hokuto Shinken's destruction from within, the Hamon of JoJo, the chakra point strikes of the Hyūga, One Piece's *tekkai* and *rokushiki*. Those destroy the interior by a means the story declines to state. This one states it: **a shaped charge aimed inward, with a plate that survives and a structure behind it that does not**, and it is a documented ballistic phenomenon rather than a convention. The divergence is the seal's own ledger: *"The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive."* A vessel cannot simultaneously be sealed and be venting, and **every use of the Iron Tree is a moment in which its bearer is not armoured** — which is a cost the genre's internal-energy artists never pay.
-
----
-
-#### 2 · Stratal account (metaphysics)
-
-**Aether stratum.** Draw is near-nil. Dougou's card is explicit that this is an architecture built for non-drawing: **Aether Class *"Closed-World Compression Anchor — external leak near-zero by design"*, 3,900 AU/s external with *"internal cycling immeasurable"*, η 0.99, Crystal State *"Sealed near-total."*** Residue: **almost none, which is the point of the design and is why the card notes him as hard to read externally.** Saturation: irrelevant to him and relevant to everyone else in the room — a 20 MJ discharge is a local event.
-**Wellspring stratum.** Five, and the page's assignment is exact.
-> **Fixatio · *The Binding Flame*** *(Materia)* — *"A thermoplastic can be melted and reformed indefinitely. A thermoset, once cured, has formed covalent bridges across its whole network and will char before it flows. Fixatio performs the cure. What it holds is not held by force but by the fact that the alternative configuration no longer exists as a reachable state."* Failure: *"Irreversibility. The cure is not undone by wanting it undone."* (`wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md`)
-*"What nobody knows · Whether the seal itself, and not the demonic strain it was built to contain, was the thing quietly killing him."* A thermoset cure cannot be undone by wanting it undone. Fixatio does not build a lid you can lift; it removes the unsealed configuration from the set of reachable states. If the seal was killing him, **he could not have stopped it**, and the register says so four Wellsprings away from the page that asks.
-> **Coagulatio · *The Returning Stone*** — *"A supersaturated solution holds more solute than equilibrium permits and will surrender it the instant a nucleation site appears."* Failure: *"Uncontrolled nucleation. Too many sites at once produces a fine disordered mass rather than a sound crystal, and the practitioner ends with density they cannot use."*
-The supersaturation is the stored charge and the vent is the nucleation site, and the Failure names the specific way a branch goes wrong: **open too many valves and you get density you cannot use.** Which is the mechanical reason the seven branches are named, separate and released one at a time.
-> **Chthonica · *The Root Deep*** — *"Grip is not weight. A gecko holds to glass through billions of hair-scale contacts each contributing an intermolecular attraction too small to measure alone."* Failure: *"Contamination. The mechanism depends on clean contact, and a fouled interface releases without warning and without a partial stage."*
-Chthonica is the grounded stance, and its Failure is the page's own Weakness stated in the register: *"loss of ground contact"*, and *"releases without warning and without a partial stage"* is why losing the root is catastrophic rather than degrading.
-> **Anima Spirare · *The Soul's Breath*** *(Vitalia)* — *"Hemostasis is not one event but an amplifying cascade in which each activated factor activates many of the next … Layered under it, haemoglobin's cooperative binding means the fourth oxygen loads far more readily than the first."* Failure: *"Disseminated activation. A cascade with no localising signal runs everywhere at once, consuming its own factors until nothing is left to close the wound that started it."*
-The engine, and the page's secondary Physics Domain line — *"cooperative binding, the harder the draw, the more readily the soul provides"* — is the haemoglobin statement exactly. Its Failure is the page's unstated catastrophe: a cascade without a localising signal is **every chamber venting at once.**
-> **Phreatis · *The Waters of Memory*** *(Fluxia, cross-listed)* — the circulation linking the seven chambers into one reservoir. Failure: *"Contamination of the aquifer. What enters the reservoir cannot be selectively removed later."* Which, for a man whose origin is *"a corrupted Zettari branch touched by demonic strain"* circulating through a single shared reservoir, is a sentence worth reading twice.
-*Four Theories.* **The Residue Position.** *"Every Wellspring is the standing residue of something that already happened."* Dougou's own card says *"origin and catalyst being one and the same event"*, and the page says *"He did not discover the containment. He was made from the conditions that required it."* A man who is the standing residue of the event that required him is the Residue Position walking about.
-**Essence stratum.** Active layer: the **Aether Shell**, run as a pressure vessel, with the **Essence Core** supplying the charge and the **Attraction Layer** doing almost nothing — which is the architecture's whole vulnerability and the card names it: *"emotional breach, the one vector this technique cannot seal against."* Developmental Tier at Dougou's Stage XIII: **Crystallized Soul** — *"Self and law correspond with near-perfect precision"* (Part Twenty-One); at the page's Stage VII floor, **Resonant**. Crystal State: *"Sealed near-total"* (card), which like Niran's *Harmonic-Emergent* is **not one of the three States** (Fractured / Refined / Overgrown) — though unlike Niran's it is a description of architecture rather than a mislabelled Developmental Tier.
-**The lens: the sealed cauldron.** *Neidan*, Chinese internal alchemy, from the *Cantong qi* attributed to Wei Boyang (2nd century) through the Song-dynasty manuals. The body is a crucible; the **dantian** is the cauldron, the *ding*; the practice begins with **closing the furnace** — sealing the body's apertures so the refined breath cannot leak — and proceeds by circulating the Three Treasures, *jing*, *qi* and *shen*, through the microcosmic orbit, refining each into the next. The doctrine's central image is that **the ordinary body leaks, and the whole art is the not-leaking.** It is impossible to describe Dougou's architecture more exactly: seven sealed chambers, circulation linking them into one reservoir, *"external leak near-zero by design"*, and an efficiency of 0.99 that the card glosses as the practitioner refusing himself the waste. Where the lens misleads is on what the sealing is **for**. In neidan, closure and circulation are stages on a road: correctly performed for long enough they produce the immortal embryo and the practitioner leaves the ordinary condition behind. Incompleteness is therefore read as **insufficient practice**, and the prescription is always *more sealing, more circulation, better closure.* If the seal is what was killing him, that advice is fatal, and Fixatio's Failure says he could not have taken the other advice anyway. And the doctrine has a second blindness that is worse: neidan treats the emotions as coarse matter to be refined away, so it has no category at all for **the one vector the card says the technique cannot seal against** — *"love, grief and kinship."* A school built entirely on closure cannot see a hole that closure makes bigger. Offered as a school's error, not as canon.
-
----
-
-#### 3 · Mechanism (the effect)
-
-**Glyph.** `[RenB]` **Boundary** · Root · Zhaeren for the seal, laid under `[Al]` **Edge** · Root · Thalen for the single opened vent. Both from the thirty unclassified forms, both Roots naming *a kind of limit* rather than a law — which is what this working needs, because the law being conditioned is **the ordinary behaviour of a pressurised body**, and nothing in the Sixty owns that.
-**What boundary moves.** **The number of open outlets, from zero to one.** Nothing is created, nothing is drawn, nothing is delivered from outside; a valve that was shut is opened, at one place, for an instant.
-**What the law then does on its own.** It equalises, through the only path available, which is the whole of the physics. A pressurised vessel with one opening drives its contents through that opening at whatever rate the pressure difference and the aperture permit, and the narrower the aperture the higher the velocity and the tighter the resulting jet. *"A single chamber's stored pressure enters a chosen contact point in one instant instead of leaking outward, so the force drives into the target rather than spreading across the surface."*
-Then the target's own materials do the rest. A short-rise-time load on a plate sends a compressive shock through it; the shock reflects off the free rear surface as tension; the plate is weak in tension; the rear face spalls. *"Armor plate can survive intact while the structure behind it fails."* Stone does the same thing along the seams it already had — *"stone fractures from within along existing grain"* — because a shock finds pre-existing discontinuities, which is Fractura's principle arriving in a Materia working. And a body loaded this way does not open: *"a struck body fails as a load-bearing structure rather than being cut."* Nothing is cut because nothing sharp arrived; what arrived was 12 meganewtons of pressure differential with a rise time short enough to outrun the tissue's ability to distribute it.
-The seven named branches are seven vents, not seven techniques, and the page says so: *"Every branch is a release-valve off Dougou's sealed body-engine."* Each is distinguished by **which chambers feed it and where the contact is** — root, solar and shoulder-line for the fist; sacral and root for the kick, *"specialising in displacement and terrain rather than inward rupture"*, because a broad contact spreads rather than concentrates; hips for the knee; whole-body mass for the shoulder, *"breaks formations, shields and gates."* And *Kokushin Gyūha* is the apex expression of the same one sentence: **one sealed chamber, one contact point, entering rather than spreading.**
-**Law V check.** The floor is **Stage VII, Refraction** for the seven branches, which is exactly the Stage at which the material anchor stops being required (`The Four Crafts`, Law V). And the page needs no anchor, because **the anchor and the working are the same body** — the page files it as **Magicraft**, *Ars Operis*, the work, and a fist with a vent behind it is not a spoken sentence. **The gate closes**, and note the consequence: *"Break his wrist and a gestured chain is finished. Put a hand over his mouth and a spoken one is"* does not reach this working at all. The only anchor is the ground, and the ground is therefore the counter (below).
-**Failure mode — Structural fault, and it is the one the page asks about.** *"The Crystal could not hold what the boundary permitted"* (`Two Sets of Books` §VII). Three named vulnerabilities and all three are structural. **The root chamber, the pelvic floor** — the lowest member of a compressive load path, and Petralon's register explains why that is the failure point in a structure that *"routes every incoming load into compression."* **Loss of ground contact** — Chthonica's Failure, *"a fouled interface releases without warning and without a partial stage"*, which is why forcing him airborne is not a degradation but a cliff. **Void and anti-recognition fields that deny chamber circulation** — Phreatis is the circulation and Phreatis is a Fluxia Wellspring, and `Counterplay` I says *"Fluxia cannot act without a medium, so a dry vault is a Fluxia prison."*
-And the fault the page raises and cannot answer: *"Whether the seal itself, and not the demonic strain it was built to contain, was the thing quietly killing him."* An instrument-level candidate worth putting rather than asserting: **Fixatio's irreversibility plus Phreatis's contamination.** The seal is a thermoset cure, so the unsealed state is not a reachable configuration; the circulation is a shared reservoir, and *"what enters the reservoir cannot be selectively removed later."* Under those two laws together, **anything that got into the system stays in the system and the system cannot be opened to remove it**, and the strain and the seal stop being separable causes. The record's inability to tell them apart would then be a property of the architecture rather than a gap in the record. Offered as a candidate, not as canon.
-**What the target sees and feels.** Almost nothing arrives. He is grounded and close — *"contact or near-contact and a grounded stance"* — and what lands does not look like much: a fist, an elbow, a shoulder, at a distance where you had assumed you were safe because he had not wound up. There is no wind-up. *"Short-range rupture with almost no wind-up, for an enemy who mistakes proximity for opportunity."* The armour is not breached. You look down and the plate is whole. And then you find that **you are not a load-bearing structure any more** — *"a struck body fails as a load-bearing structure rather than being cut"* — the organs behind the plate having been reached by something that went through it without going through it. Against a wall, the wall stands and the room behind it comes down. Against a formation, *Tetsu no Kata* arrives as broad-body mass and the formation stops being one. And the thing the page is careful about: **this only happens while he is venting**, and while he is venting the Sevenfold Seal is open, and while the Seal is open he is a man.
-**What bleeds, at the stated efficiency.** η **0.99** (card), the highest in the corpus: **1 percent of every expenditure leaves as heat, sound and structural bleed**, which at a 7,400 EU *Kokushin Gyūha* is about **74 EU of waste**. At Stage XIII the Tier of Standing is **8 · Archmaster**, η band **0.95–1.2** (Part Nineteen), and **0.99 sits inside it** — one of the very few card η figures in the corpus that does. `Two Sets of Books` §III says *"a low-efficiency practitioner is loud, warm, and easy to find, and … the highest Bands run quiet."* At 0.99 Dougou is the quietest thing in the register, and his card's Aether Class says so in different words: *"external leak near-zero by design."* **The two books agree, and neither was written from the other.**
-
----
-
-#### 4 · Essence ledger (units)
-
-| Quantity | Value | Derivation |
+**Phenomenon** · A body held at pressure for years with every outlet sealed opens one outlet for an instant against one point, like a shaped charge aimed inward: the energy drives into the target's structure instead of spreading across its face.
+**Law** · Stress concentration at the vent, and one-dimensional shock transmission at the target: a compressive pulse reflects off the free rear surface as tension, and the rear face fails first (spall, the back of a plate flaking off).
+**Limit** · Only a very short rise time does this; a strike that lands slowly loads the plate statically, and the plate either spreads it or breaks, but does not spall.
+**Concentration** · A shaped charge's jet runs at 8 to 10 km/s and its tip pressure exceeds any material's strength; the total energy is ordinary, the concentration is the weapon.
+**Spall** · Armour is far weaker in tension than compression, so the rear face throws fragments into whatever is behind it while the front stays whole; a breastplate can come off a corpse undamaged.
+**Energy** · Truly stored, not drawn: seven sealed chambers under standing compression, charged over a career and vented one at a time. The Iron Tree is a battery; nearly every other working is a switch.
+| Quantity | Working | Result |
 |---|---|---|
-| EU per branch | **2,800–8,900 EU**, itemised | Page's branch table and Dougou's card, which agree line for line. |
-| EU, *Kokushin Gyūha* | **7,400 EU exactly** | Page and card. |
-| EU, *Nanatsu no Fūin* (Sevenfold Seal) | **14,000 EU** | Card. Not on the technique page's branch table. |
-| Reserve | **92,000 EU** | Card, *"Essence Capacity."* |
-| Flux Density | **18,400 EU/g** | Card. |
-| η | **0.99** | Card. Tier 8 · Archmaster band 0.95–1.2 (Part Nineteen) — **in band ✓**. |
-| AU/s | **3,900 external**, *"internal cycling immeasurable"* | Card. **18,400 × 0.99 = 18,216 ≠ 3,900**, so AU/s = Flux Density × η does not close on this card. |
-| Efficiency bleed | **1 %** — about **74 EU** on a *Kokushin Gyūha* | 1 − 0.99. The lowest waste figure anywhere in the corpus. |
-| Peak force at apex | **12,000,000 N** | Page. Card gives **5–12 MN** for *Kokushin Gyūha* independently. |
-| Energy at apex | **8–20 MJ** | Page. **≈ 1.9–4.8 kg TNT equivalent.** |
-| Grade of that output, checked | **D-Grade, at the D/C boundary** | Part Four: D runs 1.5×10⁴ – 2.092×10⁷ J. 8–20 MJ = 8×10⁶ – 2×10⁷ J. **The page's own claim checks exactly.** |
-| Contact pressure, derived | **2.4 GPa** over 50 cm² · **6 GPa** over 20 cm² | F/A at 12 MN. Three to fifteen times plate steel's ultimate strength. |
-| Contact area for the plate to survive, derived | **≥ 0.015 m² (≈ 12 cm square)** | 12 MN ÷ 0.8 GPa. Forces the shock-transmission reading of *"Armor plate can survive intact."* |
-| **Branches from full before Starvation** | **9 to 29**, by branch | (92,000 × 0.9) = 82,800 spendable. ÷ 8,900 = **9.3**; ÷ 7,400 (*Kokushin Gyūha*) = **11.2**; ÷ 4,800 (*Iron Fist*) = **17.3**; ÷ 2,800 (*Iron Head*) = **29.6**. From *"Below ten percent EU a practitioner suffers Essence Starvation"* (`Core Vocabulary` §V). |
-| **Sevenfold Seals from full** | **5.9** | 82,800 ÷ 14,000. |
-| Minimum Stage | **VII · Refraction** (branches) · **IX · Invocation** (sustained combat) · **XII** (indefinite maintenance, FOW line) | Page. Dougou's own apex at **XIII · Principality**. |
-| Tier of Standing | **5 · Expert** at the floor · **8 · Archmaster** at Dougou's Stage | Part Five. |
-| Grade required | **A minimum; X at Dougou's apex** (page) — **and the output says D** | Part Four: X-Grade attack output runs 4.184×10²¹ – 1.24×10²⁹ J. The page's own apex output is 2×10⁷ J. **Fifteen orders of magnitude apart, on one page.** |
-| Path gate | **Body, dominant** | Page and card. Part Seven agrees: Resilience **Hardening** *"requires Body Path at Stage III to exceed C"*; Resilience **Fortification** *"requires Body Path at Stage IV to exceed B"*; Vitality **Fortitude** *"requires Body Path at Stage III to exceed C, and Stage IV to exceed B."* **The only page in this section whose stated Path gate is both present and correct.** |
-| **Starvation margin, named practitioner** | **11.2 castings of the apex branch** | The only fully computed Starvation margin in the Spellcraft batch. |
-| Developmental Tier | **Crystallized Soul** (Stage XIII) / **Resonant** at the floor | Part Twenty-One. |
-| Crystal State | **"Sealed near-total"** (card) — not one of the three | Fractured / Refined / Overgrown (Part Twenty-One). |
+| Peak force, apex strike | stated | 12,000,000 N (5 to 12 MN) |
+| Energy, apex strike | stated | 8 to 20 MJ, about 1.9 to 4.8 kg of TNT; D-Grade at the edge of low C |
+| Pressure over a fist's 50 cm² | 12 × 10⁶ N ÷ 5 × 10⁻³ m² | 2.4 GPa, three to six times plate steel's strength |
+| Contact for a plate to survive statically | 12 × 10⁶ N ÷ 0.8 × 10⁹ Pa | at least 0.015 m², about 12 cm square |
+| Branches below the apex | stated | 1 to 10 MJ |
 
-**The arithmetic, and what it turns up.** This is the best-numbered page in the Spellcraft batch and the arithmetic mostly rewards it.
-*What checks.* The page's own Grade claim for its output checks exactly against Part Four. The card and the page agree on force, on energy and on the *Kokushin Gyūha* cost to the hundred EU. η 0.99 sits inside its Tier band, which three of the five cards in the Techniques batch did not manage. The Path gate is correct against Part Seven. And the Starvation margin is fully computable: **Dougou can vent his apex branch eleven times from a full reserve before Essence Starvation**, which is a real, decisive, playable number and the only one of its kind in these twenty pages.
-*What does not.* **The page requires X-Grade at Dougou's apex and states an apex output of 8–20 MJ.** Part Four puts X-Grade attack output at 4.184×10²¹ – 1.24×10²⁹ J. The gap is **fifteen orders of magnitude**, on one page, between two lines about the same moment. Part Four does supply a partial reading — Grade is read off a **Sub-Stat's raw value** rather than off a technique's output, so a practitioner with X-Grade stats may deliver a D-Grade blow if the technique does not scale — but the page says *"output at apex reaches"*, which is a ceiling claim, and a ceiling claim fifteen orders below the stated Grade band is not a reading, it is a contradiction.
-**Does the physics close against the stratal account?** A stored-pressure vessel with one vent is cheap in draw and expensive in charge, and the stratal account bills exactly that: near-nil Aether draw, a large standing reserve, an itemised per-vent cost, and a recompression schedule the bearer does not control. The efficiency figure and the Aether Class say the same thing in two vocabularies.
+### Metaphysics
 
----
+**Aether** · Draw near nil: a closed-world compression anchor, external leak near zero by design, internal cycling beyond measurement. Residue is almost none, which makes a master hard to read; what a vent leaves deafens Harmonists at the contact point.
+**Wellspring** · Fixatio, the Binding Flame (Materia), primary: what it holds is held because the alternative state is no longer reachable; it is the seal itself.
+**Wellspring** · Coagulatio, the Returning Stone (Materia): a supersaturated solution surrenders its excess at a seed site; the charge is the supersaturation, the vent the seed.
+**Wellspring** · Chthonica, the Root Deep (Materia): grip is billions of contacts too small to measure alone; it roots the grounded stance.
+**Wellspring** · Anima Spirare, the Soul's Breath (Vitalia): an amplifying cascade, each factor activating many; the harder the draw, the more readily the soul provides.
+**Wellspring** · Phreatis, the Waters of Memory (Fluxia, cross-listed): the deep reservoir; it circulates all seven chambers as one.
+**Inherited failures** · Fixatio is irreversible; Coagulatio's uncontrolled nucleation gives unusable density if too many vents open; Chthonica's contamination releases without warning; Anima Spirare's disseminated activation vents every chamber at once; Phreatis keeps whatever enters. A strain inside the seal cannot be separated from it. Any of them can be induced from outside.
+**Theory** · The Residue Position: every Wellspring is the standing residue of something that already happened; the Tree is built by a practitioner made from the conditions that required containment.
+**Essence** · The Aether Shell run as a pressure vessel, the Essence Core supplying the charge, the Attraction Layer doing almost nothing, which is the whole weakness. Developmental Tier is Resonant at the floor, Crystallized Soul at Principality; Crystal State at the height is sealed near-total.
+**School** · An old internal-alchemy school seals the body's apertures as a stage toward transcendence and prescribes more sealing for every lack; it cannot see that the seal is what kills, and treats emotion as dross, so it has no word for the Tree's one hole.
 
-#### 5 · Counterplay and the challenge
+### Mechanism
 
-**The Counterplay routes that work** (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
-- **Break the body — take the ground, and there is no partial stage.** The page's own Counter: *"Root disruption, resonance-based or spatial, drains accumulated density down through his own legs before a branch can release, and the loss does not recover mid-fight."* Chthonica's register explains why the loss is total rather than graded: *"Contamination. The mechanism depends on clean contact, and **a fouled interface releases without warning and without a partial stage.**"* Grip is not weight; it is contact area, and contact area is the thing a loose surface, an oiled floor or a spatial displacement takes away.
-- **Break the body — put him in the air.** *"Airborne targets and Void or anti-recognition fields deny chamber circulation entirely."* A compressive load path needs a ground to terminate in, per Petralon: *"Masonry is enormously strong in compression and nearly worthless in tension, which is why the arch exists."* A man whose architecture routes every load into compression, with nothing below him, is holding an arch with no abutment.
-- **Deny the field — dry the medium.** Phreatis is the circulation and Phreatis is Fluxia. `Counterplay` I: *"Fluxia cannot act without a medium, so a dry vault is a Fluxia prison."* The page's own *"Void or anti-recognition fields deny chamber circulation"* is the same statement in the page's vocabulary, and the register's version tells a reader **what kind of room to fight him in.**
-- **Break the man — and this is the one the card itself names.** *"His lowest resistance of all is emotional breach, since love, grief and kinship are the one input the sealed architecture was never built to process."* His card repeats it as the counter to the Sevenfold Seal specifically: *"Forced overload — **and emotional breach, the one vector this technique cannot seal against.**"* This is `Counterplay` IV's** Rigidity** on the purest available target: an architecture whose entire law is *seal everything* cannot make an exception, and the alternative is not available to him. It is also, note, the counter a school of the closed cauldron (see §2) is constitutionally unable to see.
-- **Break the boundary — make him vent, then hit him.** *"The Sevenfold Seal cannot be held closed while a branch vents; the two states are mutually exclusive."* Every branch he throws is a window in which the armour is off, and the register's *"Force the Seal early"* is the doctrine: a third party who can compel a discharge *"is not defending. They are billing him."* Bait a branch, eat it behind cover, and strike into the open vessel.
-**The tell, stated plainly.** A very large man standing close, on his feet, without having drawn back. That is all there is, and it is enough if you know that the wind-up is the thing he does not need. The other tell is arithmetic: he has about a dozen apex branches in him and no way to hurry the recompression, so a defender who can afford to spend nothing is fighting the right fight — which is `Counterplay` III's exhaustion route, and against this bearer it has a real number behind it for once.
-**The lookup trail.**
-1. `wiki/Volume I — Character Cards/Dougou Ozumu Zettari.md` — the **92,000 EU reserve** and η 0.99, which is what turns the branch costs into a count; and the Sevenfold Seal's counter line naming **emotional breach** outright.
-1. `wiki/The Eight Families & the Sixty Wellsprings/Materia — Material Science.md` — **Chthonica's Failure** (*"without warning and without a partial stage"*), which is why the ground counter is decisive; **Fixatio's Failure** (irreversibility), which is why he could not have unsealed; and **Coagulatio's** uncontrolled nucleation.
-1. `wiki/The Eight Families & the Sixty Wellsprings/Vectoria — Mechanics.md` — **Petralon's Core Law and its Failure**, *"Tensile exposure. Load the structure in the one direction it does not answer and it does not deform gracefully. It parts."* Which is what airborne means for him.
-1. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — *"Fluxia cannot act without a medium"* (which room to pick), *"Force the Seal early"* (why baiting a branch is billing him), and **Rigidity**.
-1. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md` — Part Four, for a reader who wants to check the page's own D-Grade claim against its own X-Grade claim and find that only one of them can be true.
-1. `wiki/The Magic System/The Core Vocabulary.md` — §V, **Essence Starvation at ten percent**, which is how 92,000 EU and 7,400 EU per strike become *eleven*.
+**Glyph** · Boundary (Zhaeren) for the seal, laid under Edge (Thalen) for the single opened vent; both Roots, since no Wellspring owns the ordinary behaviour of a pressurised body.
+**Boundary** · The number of open outlets moves from zero to one, at one place, for an instant.
+**Effect** · A fist or shoulder with no wind-up lands at a distance thought safe; the plate stays whole and what is behind it stops being a load-bearing structure. A wall stands while the room behind it falls; stone splits along its own grain.
+**Branches** · Iron Fist (Tetsu no Kobushi) caves armour and ruptures organs; Iron Kick (Geri) breaks knees and ground; Iron Elbow (Hiji) and Iron Head (Atama) at close range; Iron Knee (Hiza) against the grabbed; Iron Shoulder (Kata) breaks formations and gates; Iron Step (Ho) forces the ground.
+**Apex** · Black-Heart Bison Break (Kokushin Gyūha): one sealed chamber into one contact point, entering the target instead of spreading. The Sevenfold Seal (Nanatsu no Fūin) closes the whole vessel.
+**Floors** · Refraction for the seven branches, Invocation for sustained combat, Emanation for indefinite maintenance of the seal. It is Magicraft with no anchor but the body; the only anchor is the ground. A-Grade at the floor, X-Grade at the apex of the architecture.
+**Exclusive** · Seal and vent cannot coexist: while a branch vents the bearer is unarmoured, and a vented chamber reloads on the seal's own schedule, not his.
+**Failure** · Structural fault: the root chamber is the bottom of a load path strong only in compression; lost ground contact releases without a partial stage; void and anti-recognition fields stop Phreatis's circulation.
+**Bleed** · At the floor 30 to 40 percent of every vent leaves the Shell as heat, sound and light, bright at contact range; at the height η 0.99 leaves about one percent.
+
+### Essence
+
+**Practitioner** · Refraction, Expert, reserve 51,800 to 961,000 EU, η 0.60 to 0.70; at the height, Principality, Archmaster, η 0.95 to 1.2.
+**Paths** · Body, dominant: Vitality and Resilience govern. Hardening and Fortitude need Body at Ascension to pass C, Fortification and Fortitude Body at Flourishing to pass B; off Body Path the vessel cannot take its own pressure and the root fails first.
+| Quantity | Working | Result |
+|---|---|---|
+| Cost, Iron Head / Elbow / Knee | 3.0% / 3.9% / 4.6% of full reserve | per vent |
+| Cost, Iron Fist / Shoulder / Kick or Step | 5.2% / 5.9% / 6.7% | per vent; branches run 3.0 to 9.7% |
+| Cost, Black-Heart Bison Break | 8.0% of full reserve | 4,170 to 76,900 EU at the floor |
+| Cost, Sevenfold Seal | 15.2% of full reserve | per sealing |
+| Reserve covers, apex | 90% ÷ 8.0% | 11, about a dozen |
+| Reserve covers, branches / Seals | 90% ÷ 9.7% to 90% ÷ 3.0%; 90% ÷ 15.2% | 9 to 29; 5.9 |
+
+**Cost** · Three to ten percent of full reserve per branch, eight on the apex, fifteen on the Seal, and every attack costs the bearer his armour until recompression.
+**Duration** · Each vent is an instant inside one six-second turn; recompression runs on the seal's schedule and cannot be hurried.
+
+### Counterplay
+
+**Tell** · A very large practitioner, grounded and close, who has not drawn back; at the floor a bright, hot vent. Afterwards whole plate on broken bodies and walls standing before collapsed rooms.
+**Limits** · Contact or near-contact only; needs a grounded stance; cannot reach airborne targets; denied by void and anti-recognition fields; seven chambers, one at a time.
+**Fails against** · Lost ground (root disruption, loose or oiled floors, spatial displacement); the air; a dry vault or a void field; a blow to the open vessel while a vent stands open; the end of about a dozen strikes.
+**Kinship** · Love, grief and kinship are the one input the sealed architecture was never built to process, and the one vector the Seal cannot hold against.
+**Look up** · The Materia, Vitalia and Fluxia entries for the five Failures; void and anti-recognition fields; the Refraction, Invocation and Emanation Stage tables; the Body Path gates; Grade bands by joules.

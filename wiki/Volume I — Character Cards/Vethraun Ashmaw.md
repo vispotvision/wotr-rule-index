@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81fc-b90e-fa46bf52d929"
 notion_url: "https://app.notion.com/p/Vethraun-Ashmaw-3b158200eb2281fcb90efa46bf52d929"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T03:22:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -61,7 +61,7 @@ Born with a Soul Crystal stratified in three layers: **Draconic Inheritance at t
 **Path Bias** · Body 52% · Fate 28% · Spirit 20%
 | Pillar | Value | Reading |
 |---|---|---|
-| **Essence Capacity** | 132,300,000 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |
+| **Essence Capacity** | 9,400 EU | Inflated by decades of Wellspring-ingestion. **Manifests as visible weight, constant low pressure-field, and the faint grind of stone near his sternum** |
 | **Flux Density** | 310 EU/g | Chthonic-Pyraeon Flux penetrates **regardless** — *the way tectonic force does not ask permission to reshape coastlines* |
 | **Aether Output** | 780 AU/s | **A sustained-pressure engine, not a rapid-fire combatant.** *A river of stone: slow to begin, catastrophic at full flow* |
 | **Efficiency η** | 0.91 | Near-superconducting. **Collapses to 0.43 during Wellspring Overload without warning** |
@@ -90,19 +90,19 @@ He wears the **Skull-Mantle** of a slain Primordial predator across his shoulder
 
 ## Core Disciplines
 
-- ****Perathane Swallow** · 5,911,000 EU activation / 492,600 EU/s sustained**
+- ****Perathane Swallow** · 420 EU activation / 35 EU/s sustained**
   Opens the Metabolic Channel. Over six to ten seconds, **pulls Aether from the local Wellspring-field**, denying opponent access within 40 m while feeding his reserves.
 
   **The Wellspring is not destroyed. It is subordinated** — rerouted through him, loyal only to his pulse.
 
   *Matte-black inward shimmer from his sternum, deep stone grinding, and the sensation of one's breath being audited by something older than refusal.*
-- ****Ossuary Law** · 4,082,000 EU per strike**
+- ****Ossuary Law** · 290 EU per strike**
   Loads Chthonic Flux to maximum compression through the Body Path kinetic chain. **The visible strike is a feint.**
 
   The real weapon is a sub-surface shockwave through the ground's mineral-Aether lattice, **erupting beneath the target one beat later.**
 
   **Dodging the strike means stepping into the eruption.** Fate-Path geometry sets the eruption point at wherever the dodge resolves. ***The lag is the weapon.***
-- ****The Unwritten Dominion** · 11,260,000 EU open / 844,500 EU/s ongoing**
+- ****The Unwritten Dominion** · 800 EU open / 60 EU/s ongoing**
   Within roughly 80 m, **the environment is reclassified as deepest Inner World stratum.**
 
   Gravity increases 1.4×. Light-Wellspring expressions suppressed to 60%. **Every footstep and Essence-expenditure inside pulses through his sternum as information.**
@@ -115,7 +115,7 @@ He wears the **Skull-Mantle** of a slain Primordial predator across his shoulder
 >
 > **Tectonic Overcommit** · Three rapid Ossuary Law activations without rest overloads the Chthonic channel. **The fourth strike and beyond propagate the shockwave upward through his own skeleton at 12% outgoing force per instance.** *He does not always stop.*
 >
-> **The Hollow Echo** · If Perathane Swallow is active and reserves drop below 11,260,000 EU, **the channel inverts, draining an additional 1,126,000 EU/s** until the technique ends or the threshold is crossed. **Invisible to him mid-combat. He has overstayed it before.**
+> **The Hollow Echo** · If Perathane Swallow is active and reserves drop below 800 EU, **the channel inverts, draining an additional 80 EU/s** until the technique ends or the threshold is crossed. **Invisible to him mid-combat. He has overstayed it before.**
 
 ---
 

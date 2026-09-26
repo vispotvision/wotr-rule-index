@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8148-99a9-f28585bfdd47"
 notion_url: "https://app.notion.com/p/Kurotana-3d958200eb22814899a9f28585bfdd47"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:02:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -12,28 +12,37 @@ verification: null
 
 ## Kurotana
 
----
+### Summary card
 
-### What it is
+**Effect** · The corrupted mirror of Moetana: the bearer surrenders the vessel and is rebuilt as the instrument of one forced outcome, gaining Soul Drafting, Consequence Architecture, Name Revision, the Black Mandate and the crow Domain.
+**Cost** · The rite costs 90% of full reserve once and three Witnesses that never come back; the vessel is then free, and every power is billed per use, the crow Domain at 5% a turn.
+**Limit** · It cannot restore what it spent, and it cannot survive being reminded, cleanly and without contradiction, of the one it replaced.
+**Counter** · Weapons rarely kill it; contradiction does: the old name, forgiveness where hatred would be easier, a victim refusing an assigned role. Silence strips the Domain but not the vessel.
+**What nobody knows** · Why the Plane of Fate accepts the Three Witnesses as payment at all, and what it keeps of them.
 
-Kurotana is the corrupted mirror of Moetana. Where Moetana is an honest, triaxial phase-lock across all three layers of the Soul Crystal, held open through Oblation's fair exchange of lifespan for duration, Kurotana replaces the vessel outright. The bearer forfeits the original body's authority and lets fate rebuild them as an instrument of one forced outcome. It is not possession and it is not ordinary transformation. The user stops holding open possibility and starts arranging reality around a single chosen design.
-It awakens through the Black Recognition, in which the bearer offers three witnesses to the Plane of Fate: the Witness of Flesh, the original body, which remains only as material; the Witness of Love, some bond that still recognised the bearer as human, lost in a way nothing can repair; and the Witness of Name, the old meaning of the bearer's own name, replaced by a single function. For Niran Yukari, that function is Septarch.
+### Codex line
 
-### Where it sits in the current system
+**Wellspring** · Monolithion, the Enduring Monument; Vantabriel, the Wellspring of Night; Nihiloth, the Hollow Law; Oblation, the Offering Flame.
+**Family** · Materia (Monolithion); Limina (Vantabriel, Nihiloth); Fluxia (Oblation).
+**Physics Domain** · Directional solidification to a single crystal: no internal boundaries, great resistance to slow load, and nothing to stop a crack.
+**Category** · Conjunction
+**Craft** · A standing state rather than a cast working, as durable as Runecraft; its powers are spent per use.
+**Stage floor** · Dissonance
+**Grade required** · SS-Grade
+**Path gate** · None; Persistence needs the Fate Path at Refraction to pass S.
 
-Cross-Family, like Moetana, but running the corrupted vector instead of the honest one. **Monolithion** (Materia) feeds the Ketsumyōgan's causal perception and, at Kurotana's completion, becomes the standing structure of the crow-Domain itself. **Vantabriel** (Limina, the Wellspring of Night) governs Witness Backlash: what strikes the vessel is kept rather than reflected, and its endurance is carried loss rather than replaced loss, exactly as every soul it has edited leaves residue behind. **Nihiloth** (Limina, the Hollow Law) is the Domain's own mechanism: a null field built from destructive interference removes law rather than adding it, which is why the completed Domain does not show the future, it only removes the futures a target's choices no longer earn. **Oblation** (Fluxia, the Offering Flame) prices the Three Witnesses, the same Wellspring that prices Moetana's lifespan and Gisei's identity.
-Category: Conjunction, the same as Moetana's own "Conjunctia-class transformation state." Craft: the vessel itself is a standing state rather than a cast working, closest to Runecraft in durability, since once inscribed into the Crystal it does not require sustained attention to persist, unlike Spellcraft. Stage floor XI, Dissonance; Grade SS.
+### FOW line
 
-### Practitioners and history
+**Governing Primary** · Resilience (Persistence), with Harmonics Attunement for Drafting and Revision.
+**Stage floor** · Dissonance
+**Grade required** · SS-Grade
+**Path gate** · None
+**Resonant Pair** · None
 
-The only attested bearer is Niran Yukari, the Crow of Fate, founder of the Sovereign Enclave of Ketsuen. His sheet already records the Crow of Fate trait, the Ketsumyōgan's proto-expression, and a partial Domain seed carrying the exact name Kurotana's completed form uses. His father Naiser Yukari, deceased, is recorded on his sheet as filial-formative grief, metabolised rather than dissolved, which matches the old card's account of a boy who warned, ran, saved who he could, and failed anyway before warning hardened into doctrine.
-The Seven Great Corruptions echo the Seven Works of Hataraki in number and shape, Ruin against Ruin, Purity against Purity, Spirit against Spirit, straight through Totality against Totality. No document ties the Yukari to that Moto doctrine directly, so the parallel is recorded here as a structural resonance between two bloodlines' apex expressions, not as a claimed lineage.
+### Origin
 
-### What it can and cannot do
-
-Soul Drafting reads a soul's structure and imposes a revised version, always at a cost: a coward gains courage and loses gentleness, a dying soldier survives and loses the capacity to lay down arms. Consequence Architecture arranges unrelated battlefield events so each feeds one chosen outcome without controlling every piece. Name Revision changes the metaphysical office a soul occupies rather than the soul itself. The Drafted Vessel repairs itself for as long as its own self-design stays coherent, and fails the instant someone forces it to remember the person it replaced. The Black Mandate issues short fate-commands, and the cost rises with how abstract the command is. The completed Domain, Murder of Crows, Cathedral of Unchosen Futures, marks each significant choice with a crow; a poorly chosen path grows heavier and narrower as the mark takes flight.
-It cannot restore what the vessel has already spent to reach this state, and it cannot survive being reminded, cleanly and without contradiction, of the boy it replaced. Weapons alone rarely kill it; contradiction does. A father using the old name, a friend forgiving where hatred would be easier, a victim refusing an assigned role, each of these cracks the Soul Crystal lattice the way nothing edged ever could, because they are the one input Vantabriel's carried-loss architecture cannot convert into fuel.
-**Precedent we are not copying.** The dark transformation is the most worn beat in the genre: the cursed mark, the second form, Ichigo's Hollow, the sacrifice that buys power at the price of humanity. Two things make this one different. First, the price is **specified and itemised** — three witnesses, each named, each an actual thing that stops existing — rather than gestured at. Second, and more unusual, **the transformation is structurally superior and its weakness is a consequence of the superiority rather than a moral tax**: the vessel is harder to kill because it has no internal boundaries, and it dies instantly to one specific input because it has no internal boundaries.
+**Origin** · Niran Yukari reached it after a boyhood in which he warned, ran, saved who he could and failed anyway, until warning hardened into doctrine; his father Naiser Yukari's death is carried as grief metabolised rather than dissolved. Its Seven Great Corruptions echo the Seven Works of Hataraki form for form, though nothing ties the Yukari to the Moto doctrine.
+**Practitioners** · Niran Yukari, the Crow of Fate, Septarch, founder of the Sovereign Enclave of Ketsuen.
 
 ---
 
@@ -58,7 +67,7 @@ It cannot restore what the vessel has already spent to reach this state, and it 
 **Wellspring** · Vantabriel, the Wellspring of Night (Limina): what strikes the vessel is kept, not reflected.
 **Wellspring** · Nihiloth, the Hollow Law (Limina): its Domain cancels law rather than adding any, removing the futures a target's choices no longer earn.
 **Wellspring** · Oblation, the Offering Flame (Fluxia): soul-cost as a trade in which the total is never increased; it prices the Three Witnesses, and Kurotana is the corrupted mirror of Moetana.
-**Inherited failures** · Monolithion is brittle at scale; Vantabriel saturates; Nihiloth's cancellation is symmetric; Oblation cavitates, pitting the conduit. Opponents can induce all four.
+**Inherited failures** · Monolithion is brittle at scale; Vantabriel saturates; Nihiloth's cancellation is symmetric; Oblation cavitates, pitting the conduit. All four can be induced from outside.
 **Category** · Debt and Residue: the Witnesses are surrendered up front and settled where the bearer cannot see; edited souls are Residue at personal scale.
 **Essence** · All three layers are rebuilt: the Witness of Flesh (the body) is the Shell, of Love (a bond that still saw a human) the Attraction Layer, of Name (its old meaning) the Essence Core. Developmental Tier is Sovereign.
 **School** · The counterfeit-spirit school holds the true soul waits beneath the overlay, freed by recognition; it gets the counter right and the outcome wrong, for nobody waits beneath, and its rescue is the kill.
@@ -98,5 +107,5 @@ It cannot restore what the vessel has already spent to reach this state, and it 
 
 **Tell** · A figure standing like a rock in a field, taking and not returning, running cold where others run warm; crows at the edge of sight inside the Domain. After, drafted souls carry its Residue.
 **Limits** · It cannot restore what it spent; the Witness of Love is gone for good; it cannot survive a clean reminder.
-**Beats it** · A clean reminder: the old name, forgiveness, a refused role, decided on knowing it kills; overfill it with sustained load; catch it in the days after the rite; Silence strips the Domain but not the vessel. Weapons rarely work.
+**Fails against** · A clean reminder (the old name, forgiveness, a refused role), chosen knowing it kills; overfill under sustained load; the days after the rite; Silence, which strips the Domain but not the vessel. Weapons rarely end it.
 **Look up** · The Monolithion, Vantabriel, Nihiloth and Oblation entries and their failures; Moetana and Gisei for Oblation's prices; the Persistence gate; the Dissonance Stage table and overfill rules; the Silence Realm.

@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8136-b58e-ea901d51622f"
 notion_url: "https://app.notion.com/p/Antinomy-3d958200eb228136b58eea901d51622f"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T04:40:00.000Z"
+last_edited: "2026-09-26T06:27:00.000Z"
 verification: null
 ---
 
@@ -19,7 +19,7 @@ verification: null
 **Effect** · Bonds to a target's dominant Essence alignment, then forces that alignment to reject its own established function: a swordsman still swings but the blade carries hesitation, a healer's Benediction still activates but stabilizes a wound rather than closing it.
 **Cost** · Every use requires Septarch to hold the target's fear, love, shame and contradiction inside his own Soul Crystal lattice for the duration of contact; this is a real transit, not observation, and it is the only genuine expense the technique carries.
 **Limit** · Requires a target with a stable, internally contradictable identity. Non-identity states, empty vessels, pure constructs, some void-touched entities, return no signal for the working to act on.
-**Counter** · A soul that names and accepts its own contradiction aloud denies the working its sharpest edge; a strong external recognition, a name spoken by someone who remembers what is underneath, can pull identity back into coherence before the Lock completes. High Attraction Layer stability, sacred covenants, relic-bound identities, strong Domains, resists longer than an ordinary bond does.
+**Counter** · It loses its sharpest edge against a soul that names and accepts its own contradiction aloud; a strong external recognition, a name spoken by someone who remembers what is underneath, can pull identity back into coherence before the Lock completes. High Attraction Layer stability, sacred covenants, relic-bound identities, strong Domains, resists longer than an ordinary bond does.
 **What nobody knows** · Whether Antinomy could ever be turned back on Septarch himself with enough precision to unmake Kurotana rather than merely wound it; no one has yet tried it on him carrying the one contradiction the technique would need, that he rejected Niran first.
 
 ### Codex line
@@ -32,19 +32,6 @@ verification: null
 **Stage floor** · XI, Dissonance.
 **Grade required** · SS-Grade.
 **Path gate** · Attraction, dominant.
-
-### Design Chain
-
-**Trigger** · Direct contact or a locked line of sight to the target, opened by the two-finger gesture that unfolds seven thread-rings around them.
-**Function** · Couples Septarch's Crystal to the target's the way two oscillators tuned alike couple across a gap, then drives that coupling out of phase against the target's own established function.
-**Mechanism** · The real phenomenon is destructive interference layered onto resonant coupling: two waves in antiphase sum to zero and the region between carries no energy at all, per Nihiloth's own canon mechanism. Septarch reads the target's resonant signature through Transference's coupling, then reintroduces it a half-cycle out of phase, so the target's own output cancels itself at the exact point of use rather than being blocked or redirected. Oblivara's retroreflective encoding is what keeps the target's identity legible enough, redundantly enough, to be turned back on itself rather than simply erased.
-**Numerical Effect** · An SS-Grade working at a Stage XI Dissonance ceiling; output is not meaningfully stated in force or energy terms, since a null field's effect is the absence of the target's own output rather than a delivered force of its own, and this is recorded here in diagnostic voice rather than narrated as a number.
-**Target Response** · The target's technique still executes physically, but the payload arrives null or inverted: fire produces ash, a blessing stabilizes rather than heals, courage fails to reach the muscle that would act on it.
-**Consequence** · The same function continues failing on repeat use against the same target until the Lock breaks, and each further attempt against it compounds the backlash the target feels.
-**Limitation** · Only works against a target with a function or role to contradict; a target with no stable self returns nothing to weaponize.
-**Weakness** · Septarch's own unresolved contradiction, that he rejected Niran Yukari first, destabilizes the working back onto its caster whenever the target's situation mirrors that specific shape.
-**Cost** · Sustained contact with the target's fear, love, shame and contradiction, once per use, through Septarch's own lattice.
-**Counterplay** · Self-acceptance of contradiction; strong external recognition or bonds; high Attraction Layer stability; non-identity states.
 
 ### FOW line
 
@@ -75,7 +62,7 @@ Derived by Septarch alone, as the technical expression of Kurotana's Black Manda
 **Wellspring** · Transference, the Living Exchange (Spatium): two oscillators at one frequency trade energy without a conductor, falling off sharply with distance; this is the coupling, and why it needs contact or a locked line of sight.
 **Wellspring** · Nihiloth, the Hollow Law (Limina): two waves in antiphase sum to zero; this is the cancellation.
 **Wellspring** · Oblivara, the Dark Mirror (Limina): redundant encoding keeps the target's identity legible enough to be turned on itself rather than smeared.
-**Inherited failures** · Transference's reverse coupling empties the practitioner into a more depleted target; Nihiloth's symmetric cancellation nulls whatever of him is inside the pair; Oblivara's code exhaustion gives a confident, complete, wrong read. Opponents can induce all three.
+**Inherited failures** · Transference's reverse coupling empties the practitioner into a more depleted target; Nihiloth's symmetric cancellation nulls whatever of him is inside the pair; Oblivara's code exhaustion gives a confident, complete, wrong read. All three can be induced from outside.
 **Category** · Debt: the Wellspring answers on credit, settled where the practitioner cannot see, and the price is carrying other people's unresolved material.
 **Essence** · The Attraction Layer is the oscillator, the Essence Core is the damper mass that takes the transit, the Shell does almost nothing. Developmental Tier is Sovereign at Dissonance.
 **School** · The dialectical school holds that a demonstrable thesis and antithesis mean the concept was ill-formed, which is both working and counter; the dogmatic school defends the role, and each proof feeds the absorber: its method is the losing move.
@@ -101,7 +88,7 @@ Derived by Septarch alone, as the technical expression of Kurotana's Black Manda
 | Establishing the Lock | 2% of reserve | 3.78 × 10⁵ to 7.02 × 10⁶ EU |
 | Holding it | 1% per turn of contact | 1.89 × 10⁵ to 3.51 × 10⁶ EU a turn |
 | Cost, ten-turn Lock (60 s) | 2% + 10 × 1% | 12% of reserve |
-| Uses before Starvation | 90% ÷ 12% | seven, the seventh ending on the floor |
+| Reserve covers | 90% ÷ 12% | seven, the seventh ending on the floor |
 | Banked per SS technique thrown in | a tenth of 4.2 × 10⁷ to 4.2 × 10⁸ EU | at least 22% of maximum at the band's foot |
 
 **Cost** · 2 percent of full reserve to set, 1 percent a turn to hold; the absorbed modes bank in his Crystal and can overfill it, and at an unstable ceiling overfill breaks the caster.
@@ -111,5 +98,5 @@ Derived by Septarch alone, as the technical expression of Kurotana's Black Manda
 
 **Tell** · Two fingers raised and seven rings of thread around the target for as long as it holds; no silent version. The target feels no attack, only their best technique arriving wrong; afterwards, a function that fails the same way every time.
 **Limits** · One mode, one target, while attention holds; it needs a stable identity and a dominant function; it takes nothing and deals no damage of its own.
-**Beats it** · Name your contradiction aloud; be two co-equal things; send something with no identity; be recognised by someone who knew you; present the shape of his own failure; break contact or his attention; keep swinging to overfill him.
+**Fails against** · A contradiction its target names aloud; a target that is two co-equal things; anything with no identity; recognition by someone who knew the target; a target presenting the shape of the practitioner's own failure; broken contact or broken attention; sustained blows that overfill him.
 **Look up** · The Transference, Nihiloth and Oblivara entries and their failures; the Knot and Equivalence glyphs; the Fate and Spirit Path gates for Persistence and Suppression; the Dissonance Stage table and its overfill rules.

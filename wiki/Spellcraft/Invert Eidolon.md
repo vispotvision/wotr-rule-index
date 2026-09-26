@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81d6-89ef-cd479f1a3251"
 notion_url: "https://app.notion.com/p/Invert-Eidolon-3d958200eb2281d689efcd479f1a3251"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:01:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · Summons an Anti-Eidolon, a construct built from what the summoner's Crystal refused to integrate: a suppressed Trait, an unreconciled harmonic, a fracture from a Stage survived without closing.
 **Cost** · Fabrication costs 7.5% to 15% of full reserve by complexity, then 1% to 2.5% every second it stands; dismissal may cost the raising again.
 **Limit** · It is hostile unless bound, never counts its summoner an ally, and cannot be made without a real unclosed fracture to draw from.
-**Counter** · Silence severs the tether completely; otherwise outlast the sustain, strike the one defect the summoner left unclosed, or let it turn on its maker.
+**Counter** · Silence severs the tether completely; otherwise the end of the sustain, a strike on the one defect the summoner left unclosed, or its own turn on its maker.
 **What nobody knows** · Whether an Anti-Eidolon remembers the fracture it was made from once that fracture has been spent.
 
 ### Codex line
@@ -30,19 +30,6 @@ verification: null
 **Stage floor** · Transcendence
 **Grade required** · S-Grade for a semi-autonomous construct; full tactical autonomy needs Realization at SS-Grade.
 **Path gate** · Body Path at Flourishing to pass B in Density, Spirit Path at Glory to pass A in Retention, Fate Path at Glory to pass A in Sovereignty; no construct is cast at S across all three.
-
-### Design Chain
-
-**Trigger** · The summoner reaches into an unclosed fracture from a Stage already survived and lays Form under Mind; no chant, circle or gesture.
-**Function** · Moves what counts as available material to include the unresolved, and builds a construct from it.
-**Mechanism** · Eidolyn deposits matter faithfully along the template, locked-in stress included; Oblivara returns what reaches the construct back along the tether; Nihiloth gives it a refusal-shaped character.
-**Numerical Effect** · One construct runs the summoner to Starvation in 30 to 83 seconds; two or three at once in under 38 seconds, and three can end it in one turn.
-**Target Response** · A sound, strong construct that does not tire or flinch; blows land on its compressed skin, which is what the skin is for.
-**Consequence** · It fights, obstructs or stands as a liability, and turns erratic, often against its summoner, without wanting anything.
-**Limitation** · It dies when the tether is severed; it finds a refusal and cannot make one; below Transcendence only a brief, fragile, accidental construct forms, never the full thing.
-**Weakness** · Losing control is the working completing, and several at once bring the depletion cascade, the discipline's worst recorded event; the waste radiates as heat that scorches the ground and shows from the next ridge.
-**Cost** · 7.5% to 15% of full reserve to raise, 6% to 15% a turn to hold, up to the raising again to dismiss; a simple construct raised, held five turns and dismissed costs 45%.
-**Counterplay** · Silence Realms end it outright; learn which Stage the summoner survived badly and nick that one flaw; trading blows only loads the strong skin.
 
 ### FOW line
 
@@ -115,5 +102,5 @@ verification: null
 
 **Tell** · No chant, circle or gesture: the construct itself, visibly made of something its summoner will not own, erratic toward them, and a summoner burning gigawatts at the Shell. Afterwards, a scorched ring and one fewer unclosed fracture.
 **Limits** · It dies when the tether is severed; it cannot be made without a real unclosed fracture; dismissal is not guaranteed and may cost the raising again.
-**Beats it** · Silence severs the tether totally; wait out the sustain clock; learn which Stage the summoner survived badly and nick that one defect; or do nothing and let it turn on its maker. Trading blows only loads the strong skin.
+**Fails against** · Silence, which severs the tether totally; the end of the sustain clock; a nick in the one defect left by the Stage the summoner survived badly; its own turn on its maker. Traded blows only load the strong skin.
 **Look up** · The Eidolyn, Oblivara and Nihiloth entries and their failures; the Animatria tether and autonomy gates; the Silence Realm; Essence Starvation; the Transcendence and Realization Stage tables; the summoner's own history.

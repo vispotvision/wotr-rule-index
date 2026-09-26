@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81fd-bd46-fa749d2b18eb"
 notion_url: "https://app.notion.com/p/Tenebra-Ambush-Art-3d958200eb2281fdbd46fa749d2b18eb"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T05:05:00.000Z"
+last_edited: "2026-09-26T06:42:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · Draven closes the noise floor around himself, crosses eight metres in an instant, and arrives already mid-strike. *A quarry that was watching the space he left never sees the space he arrives in.*
 **Cost** · Essence draw shows as a mild drip from eyes and nose. No EU figure is documented on his sheet, so none is invented here.
 **Limit** · Needs a shadow or dim zone to have a noise floor low enough to disappear into. Open daylight gives Tenebra nothing to hide inside.
-**Counter** · **Catch him from the one angle his facets were not built for.** *Tenebra's own failure mode is aspect dependence; a viewer standing where he did not plan for returns a very bright signal.*
+**Counter** · **The one angle his facets were not built for. Tenebra's** *own failure mode is aspect dependence; a viewer standing where he did not plan for returns a very bright signal.*
 **What nobody knows** · Why the Vorynn Bloodbind's cold-law lineage produced a Tenebra harmonisation at all, when every other Wellspring on his sheet traces cleanly to Caloria or Vectoria.
 
 ### Codex line
@@ -31,19 +31,6 @@ verification: null
 **Grade required** · A-Grade
 **Path gate** · Body
 
-### Design Chain
-
-**Trigger** · Declared, on Draven's own initiative, against a target he has already located in or near a shadowed or dim zone.
-**Function** · Teleport-lite ambush burst. Removes him from the quarry's sensory field for the span of the crossing and returns him already in striking position.
-**Mechanism** · Tenebra's real operation is signal-to-noise reduction: an absorptive coating across the Aether Shell plus a faceted return geometry that sends what little signal does reflect away from the observer, so Draven is not invisible, only quieter than the background. Petralon's kinetic ignition supplies the launch; his Shell converts stored Essence into a single directed impulse that carries him the eight metres while the Tenebra coating keeps the transit itself below the quarry's noise floor. He is not there, and then, having spent the impulse, he is here, already loaded into the strike.
-**Numerical Effect** · Eight-metre displacement, instant. The strike that follows draws on his documented Ardency 320 (A-Grade): peak force in the 20–100 GN range, 46 GJ to 4 TJ yield, city-block-scale output at full commitment, though an ambush strike is a fraction of that ceiling rather than the full spike.
-**Target Response** · A quarry with no Aetheric or sensory means of reading the noise floor loses him completely for the transit and takes the strike from a position it had no warning of.
-**Consequence** · The cold-trail effect (Cinerion, his ash-and-remnant harmonisation) settles over his old position and the path he actually took, which is why pursuit reads the wrong trail as the fresher one.
-**Limitation** · The coating needs a noise floor to hide under. A fully lit, radiant-saturated space gives Tenebra nothing to subtract from, and the technique does not function there.
-**Weakness** · Aspect dependence is Tenebra's own documented failure mode. The faceting is built against expected observation angles; a watcher positioned somewhere Draven did not plan for gets the full, undiminished return.
-**Cost** · Essence drawn through the Tenebra/Petralon combination surfaces as a mild drip from eyes and nose. Overuse is not costed further on his sheet; per standing drawback rules, "it strains him" alone is not treated as a real cost, and none beyond the documented drip is claimed here.
-**Counterplay** · Sunlit wards and radiant beacons raise the ambient floor past what Tenebra can subtract. Failing that, an observer who happens to be standing at the wrong-for-Draven angle sees him coming.
-
 ### FOW line
 
 **Governing Primary Stat** · Dexterity (358, A-Grade)
@@ -56,3 +43,66 @@ verification: null
 ### Origin
 
 Draven derived this himself, out of the same self-imposed trials of endurance and predatory pressure that carried him to Stage VI. It exists because a hunter of high-tier Wellspring-mutated beasts needed to close distance on something that could sense a straightforward approach long before he arrived.
+
+---
+
+### Physics
+
+**Phenomenon** · Contrast reduction: in a dim place the practitioner's Shell absorbs light and angles what little it returns away from the watcher, so he drops below the noise floor; then he crosses eight metres as an ordinary body through air.
+**Law** · Detection range goes as the fourth root of the return, R ∝ σ^¼, and contrast is C = (L*object − L*background) / L_background; the crossing obeys Newton, and its noise grows with the sixth power of speed.
+**Limit** · Only a dark background hides an absorbing body; in light it is the blackest thing in view. The coating governs what reflects, never what the moving body emits.
+**Aspect** · A flat facet returns σ = 4πA²/λ², so a watcher off the planned angle gets thousands of times an ordinary man's return, not a faint one.
+**Speed and silence** · Drag power goes as v³ and the moving body's sound efficiency as M³, so eight times slower is 54 dB quieter: a tenth-second crossing shrieks, a silent one takes most of a second.
+| Quantity | Working | Result |
+|---|---|---|
+| Return cut for 5.6 times less range | 30 dB | a thousandfold |
+| Facet return, 0.5 m² at 3 cm | 4π × 0.5² ÷ 0.03² | 3.5 × 10³ m², a man is 1 m² |
+| Crossing energy, 100 kg over 8 m | ½mv² at 80 or 10 m/s | 320 kJ in 0.1 s; 5 kJ in 0.8 s |
+| Ground reaction, 0.3 m push | F = m × v²/2d | 1.07 MN (1,090 g); 16.7 kN (17 g) |
+| Pressure under two soles | F ÷ 0.06 m² | 17.8 MPa; 0.28 MPa, soil bears 0.2 |
+| Launch power, 7.5 ms push | fast crossing | 42.7 MW, 14,000 times an elite athlete |
+| Sound at 8 m | fast; slow | 105 to 125 dB; 51 to 71 dB |
+| Approach against the blow | 320 kJ ÷ 46 GJ | 1.4 × 10⁻⁵ |
+
+### Metaphysics
+
+**Aether** · Limina (darkness, silence, ruins) and Vectoria (structural mass, worked stone) agree: a dark ruin with a hard floor; a lit, crowded camp on soft mud starves both, and working against the gradient costs more reserve.
+**Wellspring** · Tenebra, the Hidden Shadow (Limina): signal-to-noise reduction by absorptive coating and faceted return, making the practitioner quieter than the background rather than invisible.
+**Wellspring** · Petralon, the Foundation Stone (Vectoria): every load routed into compression like an arch, so a skeleton carries a meganewton for seven and a half milliseconds without parting.
+**Inherited failures** · Tenebra's aspect dependence lights him up from the unplanned bearing; Petralon's tensile exposure means a crossing he must stop himself loads his frame the one way it parts.
+**Category** · Vectra (Body and Attraction), read through Residue: with Cinerion held he leaves two cold trails, old place and true path, equally fresh; Consent Doctrine underneath.
+**Essence** · The Shell carries the coating and the frame the compression; at low η a third of every spend leaves as heat and noise, so a poor practitioner is warm, loud and easy to find.
+**Sub-Stats** · Governed by Dexterity: Feint, Harmonics Suppression and Dominion Sense, all fed by Tenebra.
+**Path gates** · On the Body Path Feint is capped at B, Suppression at A and Sense at C, and suppressing kinetic noise and Aura spill needs the Attraction Path, so the crossing's sound cannot be hidden at any Grade.
+**School** · The Subtractive school trains alone in the dark to find the true, unwatched self; there is no unwatched state, only angles planned and unplanned, and its adepts are glaring to the bearing they forgot.
+
+### Mechanism
+
+**Glyph** · Silence carries the return suppression; Passage carries the crossing.
+**Boundary** · Two move: the reflection coefficient of the practitioner's own Shell, and where load in his frame may go, all of it into compression.
+**Trigger** · Declared on his own initiative against a target in or near a dim zone; below Refraction it needs an anchor, a word or the striking hand.
+**Effect** · A dim place with no one in it, a chill and a smell of ozone; then a hard tearing shear of air from one bearing and he is inside reach, or at a sprint quick steps and most of a second for a guard to turn.
+**Arrival** · The crossing ends loaded into the strike, so the target pays the deceleration; the strike is priced separately.
+**Failure** · Field fault: with no dim zone to match, the working is correct and yields nothing.
+**Bleed** · 45 percent of the spend leaves the Shell as warmth and noise, a faint cold and ozone the quarry takes for weather.
+**Body** · Blood drips from eyes and nose; where a blood-pact drives the launch, over-reliance risks an uncontrolled Prime Beast change with permanent loss of sapience.
+
+### Essence
+
+**Practitioner** · Glory, Expert, reserve 51,800 to 961,000 EU, η 0.55, Draven's own figure, 0.05 under the Expert band of 0.60 to 0.70.
+| Quantity | Working | Result |
+|---|---|---|
+| Cost, one crossing | 3% of full reserve | 1,554 to 28,830 EU |
+| Kinetic store delivered | 5 to 320 kJ | under a thousandth of one EU |
+| Reserve covers | 90% ÷ 3% | 30, before any strike is paid |
+| Strike that follows | A-Grade, priced apart | 20 to 100 GN peak, 46 GJ to 4.184 TJ |
+
+**Cost** · 3 percent of full reserve per crossing, coating and launch together.
+**Duration** · One crossing of 8 m within the 3 to 10 m A-Grade Contact Range, taking 0.1 s loud or 0.8 s quiet, inside one turn.
+
+### Counterplay
+
+**Tell** · Cold and ozone first, a room slightly too quiet, a shear of air over a hundred decibels on a fast crossing, blood at eyes and nose, and two cold trails where Cinerion is held.
+**Limits** · Buys eight metres and no more; nothing in light; nothing at forty metres; cannot hide its own sound.
+**Fails against** · Light; a watcher at an angle the facets were not built for; lit crowds or soft ground; distance; a volley into the dark doorway; a lost anchor below Refraction; the nearest dark, known beforehand; a sidestep, which leaves him to stop himself.
+**Look up** · The Limina and Vectoria favour lists; the Tenebra and Petralon Failures; the A-Grade Contact Range; the Glory Stage table; Cinerion for the trail.

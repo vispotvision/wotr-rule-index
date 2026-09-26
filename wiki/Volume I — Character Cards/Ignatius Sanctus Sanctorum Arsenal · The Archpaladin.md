@@ -4,7 +4,7 @@ notion_id: "3bd58200-eb22-8146-9dc8-dac0ece8a344"
 notion_url: "https://app.notion.com/p/Ignatius-Sanctus-Sanctorum-Arsenal-The-Archpaladin-3bd58200eb2281469dc8dac0ece8a344"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:49:00.000Z"
+last_edited: "2026-09-26T06:42:00.000Z"
 verification: null
 ---
 

@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8112-ba9e-d2f71e56716c"
 notion_url: "https://app.notion.com/p/Naevra-Yukari-3b158200eb228112ba9ed2f71e56716c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:35:00.000Z"
+last_edited: "2026-09-26T06:43:00.000Z"
 verification: null
 ---
 
@@ -45,7 +45,7 @@ Her Aether appears as **pale-white strands and translucent script suspended in t
 **Global Tier** · High S-Tier · **Path Bias** · Fate 45% · Spirit 35% · Mind 20%
 | Pillar | Value | Reading |
 |---|---|---|
-| **Essence Capacity** | 10,080,000 EU | Vast reserve for a mortal-line being, **allowing prolonged causal and psionic engagement without immediate collapse** |
+| **Essence Capacity** | 185,000 EU | Vast reserve for a mortal-line being, **allowing prolonged causal and psionic engagement without immediate collapse** |
 | **Flux Density** | 2,900 EU/g | **Fine-edged, surgical pressure** designed to pierce spiritual patterns and unravel hostile threads — **bypassing crude defences rather than smashing through them** |
 | **Aether Output** | 2,784 AU/s | Extremely fast casting cadence with **minimal visible windup.** Ideal for layered threadwork, reactive defence, and instantaneous fate redirection |
 | **Efficiency η** | 0.96 | **Near-pristine.** Very little Essence is wasted between intention and manifestation |
@@ -73,19 +73,19 @@ Her Aether appears as **pale-white strands and translucent script suspended in t
 
 ## Core Disciplines
 
-- ****Mercy Clause** · 294,200 EU**
+- ****Mercy Clause** · 5,400 EU**
   She identifies a lethal or catastrophic outcome **seconds before resolution** and inserts a psionic-causal objection into the chain, **forcing reality to reroute the event into a survivable variant.**
 
   Fate-thread reading plus psionic force to delay, soften or redirect an *inevitable* event **without fully erasing it.**
-- ****White Thread Injunction** · 484,900 EU**
+- ****White Thread Injunction** · 8,900 EU**
   She binds luminous causal threads around a target's limbs, senses and intent pathways — **restricting not just movement but the probability of successful action.**
 
   High-density Flux combined with Fate pressure, **making enemy actions grow clumsy, mistimed, or self-defeating.**
-- ****Silent Verdict of the First Loom** · 773,700 EU**
+- ****Silent Verdict of the First Loom** · 14,200 EU**
   She **declares a local law over a bounded zone**, allowing only outcomes that satisfy the governing principle she names — truth, stillness, restraint, or consequence.
 
   *A proto-domain technique built from early Yukari fate authority, reinforced through psionic law inscription.*
-- ****Soul Stitch Reversal** · 397,800 EU**
+- ****Soul Stitch Reversal** · 7,300 EU**
   Repairs fractures in a damaged soul lattice, memory architecture or thread-bound injury **by reweaving severed Essence lines.**
 
   Draws from Memory and Mind affinities to mend spiritual trauma — **though it cannot restore what has been willingly surrendered.**

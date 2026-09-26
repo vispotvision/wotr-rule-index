@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81b1-969c-fae081a7a00c"
 notion_url: "https://app.notion.com/p/Ara-Min-Mahuo-3b258200eb2281b1969cfae081a7a00c"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:35:00.000Z"
+last_edited: "2026-09-26T06:42:00.000Z"
 verification: null
 ---
 
@@ -68,10 +68,10 @@ verification: null
 > **Attack Speed: N/A.** No offensive technique architecture. **Travel Speed** B-Grade — *she has never needed to be fast; her work happens where she is already standing.*
 **Durability** · B-Grade. *Ordinary against a direct hit, better than most at simply not dying from one afterward.*
 **Aura Pressure Field** · 10m passive — **patients report feeling calmer before she has said a word.**
-**EU Reserve** ~10,080,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
-> **Passive Recovery** ~302,400 EU/hour — *Vitalia's own rhythm recovers faster than most disciplines.*
+**EU Reserve** ~4,200,000 · **Flux Density** 85,000 EU/g · **AU/s** 59,500 · **η** 0.70
+> **Passive Recovery** ~126,000 EU/hour — *Vitalia's own rhythm recovers faster than most disciplines.*
 >
-> **Active Recovery roughly double that, ~604,800 EU/hour — while actively treating someone else.**
+> **Active Recovery roughly double that, ~252,000 EU/hour — while actively treating someone else.**
 >
 > ***Her Crystal recovers best while she is giving, not while she is resting, which is either the kindest or the most exhausting thing about her, depending who you ask.***
 

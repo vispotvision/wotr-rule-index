@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8183-abd6-fdc925a2cc91"
 notion_url: "https://app.notion.com/p/Imprinta-3d958200eb228183abd6fdc925a2cc91"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:01:00.000Z"
+last_edited: "2026-09-26T06:28:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · Projects a fragment of soul, memory, Trait, or Wellspring resonance into an object, place, or person, leaving a permanent, semi-independent echo that can awaken, interact, or influence its surroundings long after the caster has gone.
 **Cost** · A piece of the caster's own Essence Core, paid and detached at the moment of casting — not drawn from reserve on an ongoing basis, but spent outright and permanently, the way a limb is not "on loan."
 **Limit** · The deposit responds most strongly to memory, desire, and unresolved fate; an imprint left with no emotional charge behind it tends to sit inert rather than awaken.
-**Counter** · Cut the fragment's live line back to what it was made from — a broken focus, a killed original, or an active Silence field starves an Imprinta the same way it starves an Animatria construct, since both are detached pieces of a caster's own Core running on a tether rather than a fresh soul.
+**Counter** · It dies when the fragment's live line back to what it was made from is cut: a broken focus, its original's death, or an active Silence field starves an Imprinta the same way it starves an Animatria construct, since both are detached pieces of a caster's own Core running on a tether rather than a fresh soul.
 > **What nobody knows.** Why some Imprinta echoes wake on the first person who touches them and others wait generations for a specific one — the Anamnesis orders that study this call it "the deposit's own patience" and have never isolated what the deposit is actually waiting for.
 
 ### Codex line
@@ -30,19 +30,6 @@ Craft · **Spellcraft** (cast live, detaching a permanent fragment at completion
 Stage floor · **Stage IV — Flourishing**.
 Grade required · **B-Grade**.
 Path gate · None.
-
-### Design Chain
-
-**Trigger** · The caster commits a genuine piece of memory, Trait, or Wellspring resonance to a specific object, place, or person, usually at a moment of high emotional charge.
-**Function** · Detaches a small fragment of the caster's own Essence Core and deposits it into the target medium, where it continues operating with limited independence rather than dissipating.
-**Mechanism** · Remanence, the real phenomenon behind hysteresis — a substrate exposed to an imposed field retains a trace of that field's alignment after the field itself is withdrawn, and the retained trace can later influence how the substrate responds to something new. Anamnesis is the Wellspring version of that retained trace: the medium keeps the shape of what was pressed into it.
-**Numerical Effect** · At Stage IV / B-Grade, a personal-scale imprint (a relic, a single room, one person) costs 8,000–15,000 EU and is permanent from the moment of casting; an echo-guardian or a soul-laced sanctuary scales well past this floor, into the range documented for Stage VIII+ Archon-originated Imprinta work.
-**Target Response** · The medium carries the fragment inertly until a triggering condition (proximity, emotional resonance, a specific person or words) is met, at which point the deposit "wakes" and begins interacting rather than merely persisting.
-**Consequence** · A permanent, semi-independent echo exists in the world independent of the caster's continued presence, will, or survival.
-**Limitation** · The deposit needs emotional charge to awaken reliably; a fragment left without one tends to remain a dormant, undetected trace rather than a functioning guardian or relic.
-**Weakness** · The fragment is still tethered to what it was cut from — sever that tether (kill the original, break the focus, or place it inside an active Silence field) and the echo stops being anything at all, the same failure mode Animatria suffers.
-**Cost** · A permanent piece of the caster's own Essence Core, spent outright at casting, plus the EU per the Numerical Effect line.
-**Counterplay** · Locate and cut the live line back to the fragment's origin before engaging the echo directly — engaging an awakened Imprinta on its own terms plays to what it was built for.
 
 ### FOW line
 
@@ -97,7 +84,7 @@ Maelor originates the rite at the cosmological scale, seeding echoes across Gaia
 | Quantity | Working | Result |
 |---|---|---|
 | Cost, personal-scale deposit | 15 to 30% of reserve | 7,770 to 288,000 EU; 75,000 to 150,000 at 500,000 |
-| Uses before Starvation | 90% ÷ 15 to 30% | three to six |
+| Reserve covers | 90% ÷ 15 to 30% | three to six |
 | Maximum reserve lost per deposit | Core fragment | 2%, permanent and cumulative |
 | Lifetime limit | 20 deposits × 2% | 40% of the Core; the next write Fractures it into Shards |
 | Waste in one turn, top of band | 288,000 × 0.40 ÷ 6 s | 19.2 GW; pain to 874 m, timber catching to 350 m |
@@ -111,5 +98,5 @@ Maelor originates the rite at the cosmological scale, seeding echoes across Gaia
 
 **Tell** · At the write, a flare of heat and light shed at a charged moment, then silence. The deposit is Residue anyone patient can read; the maker has a history of charged moments in specific places, and that history is a document.
 **Limits** · It acts only when its waking condition is met; it cannot update itself; it dies with its tether.
-**Beats it** · Kill the maker, break the focus, or carry it into a Silence; read it carelessly to reset it; break, burn or heat the substrate; never meet the waking condition; count the maker's echoes and watch their Coherence fail.
+**Fails against** · Its maker's death; a broken focus; a Silence; a careless reading, which resets it; a broken, burned or heated substrate; a waking condition never met; the maker's Coherence, which fails with the count of echoes.
 **Look up** · The Anamnesis entry and its thermal resetting; the Animatria tether rules; the Silence Realm; the Glory Stage table; the Core's Fracture into Shards.

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8107-a384-dc30c3ac9760"
 notion_url: "https://app.notion.com/p/Iracordas-3b258200eb228107a384dc30c3ac9760"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:34:00.000Z"
+last_edited: "2026-09-26T06:43:00.000Z"
 verification: null
 ---
 
@@ -45,7 +45,7 @@ verification: null
 
 **Global Tier SS** · **Path Bias** Mind 45% · Spirit 40% · Body 15%
 > *Essence is Volume. Flux is Pressure. Output is Speed. Efficiency is Clarity. Aura is Gravity.*
-| **Essence Capacity** | **132,300,000 EU** |
+| **Essence Capacity** | **16,800 EU** |
 |---|---|
 | **Flux Density** | 9,400 EU/g |
 | **Aether Output** | 8,742 AU/s |
@@ -64,8 +64,8 @@ verification: null
 **Court of Pressure** · Passive — prolonged exposure to his aura **destabilises discipline, sharpens resentment, and makes enemies more likely to lash out impulsively.**
 | Discipline | Mechanic | Cost |
 |---|---|---|
-| **Catenae Furoris** | Condenses rage within a target or zone into **visible black-violet chains.** *The more a victim resists in anger, the hotter and tighter the chains become* — crushing movement, warping posture, **scorching both flesh and soul.** ***Turns an opponent's aggression into the anchor that binds them*** | 14,180,000 EU |
-| **Dominus Irae Aeternae** *sovereign art, accessible only to him* | **Claims rulership over all wrath within a defined field**, forcing every spark of rage, vengeance, humiliation or bloodlust **to pass through his Aether first.** He may then redistribute it as **internal soul-burn, hallucinated betrayal, forced friendly-fire impulses, or catastrophic pressure surges that rupture defences from within** | 30,710,000 EU |
+| **Catenae Furoris** | Condenses rage within a target or zone into **visible black-violet chains.** *The more a victim resists in anger, the hotter and tighter the chains become* — crushing movement, warping posture, **scorching both flesh and soul.** ***Turns an opponent's aggression into the anchor that binds them*** | 1,800 EU |
+| **Dominus Irae Aeternae** *sovereign art, accessible only to him* | **Claims rulership over all wrath within a defined field**, forcing every spark of rage, vengeance, humiliation or bloodlust **to pass through his Aether first.** He may then redistribute it as **internal soul-burn, hallucinated betrayal, forced friendly-fire impulses, or catastrophic pressure surges that rupture defences from within** | 3,900 EU |
 
 > **Emotion Saturation** · Repeated use floods his Soul Crystal with foreign rage signatures, causing **temporary personality bleed and impaired distinction between his will and the battlefield's hatred.**
 >

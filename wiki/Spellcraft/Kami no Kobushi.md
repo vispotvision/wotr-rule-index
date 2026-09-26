@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81ef-8559-fd7d18e69603"
 notion_url: "https://app.notion.com/p/Kami-no-Kobushi-3d958200eb2281ef8559fd7d18e69603"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T04:44:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -12,30 +12,37 @@ verification: null
 
 ## Kami no Kobushi
 
----
+### Summary card
 
-### What it is
+**Effect** · The God Fist: one Anchor across seven Labor-Forms, one for each Work of Hataraki. The bearer pins their position to law rather than ground, so a push comes back entire and a blow carries the mass of whatever the stance is coupled to.
+**Cost** · Setting the anchor costs 2% of full reserve and holding it 0.5% a turn; a Labor-Form strike costs 5%, or 8% committed, and the Totality expression 30%.
+**Limit** · The coupling must be set before contact and holds against displacement only up to its Continuity Grade; nothing is granted from outside, only what the bearer has become able to carry.
+**Counter** · Tension on the Anchor (a pull, lift, hook or drag); a confined space, where the blast comes back; displacement, Silence or ground that will not hold, any of which severs the coupling; Obsession.
+**What nobody knows** · Whether Gimbzo, held in the Plane of Fate as living infrastructure, feels it when one of his forms is used.
 
-Kami no Kobushi is not seven techniques. It is one Anchor who has learned seven different things worth holding, expressed through seven Labor-Forms, one for each of the Seven Works of Hataraki.
-The spine never changes across forms: Aether falls rather than flares, the practitioner's position is treated as a matter of law rather than of ground, and the verdict precedes the blow, meaning the strike is understood, by the Wellsprings that carry it, as already correct before it lands. What changes from form to form is the nature of what is being anchored, ruin, purity, spirit, sequence, revelation, balance, and, in the rare Totality expression, all six at once.
-Every practitioner of a Kami no Kobushi form carries the same doctrine underneath the specifics: refuse to move, and let the thing that is trying to move you discover it has not earned the right.
+### Codex line
 
-### Where it sits in the current system
+**Wellspring** · Each Labor-Form draws its own five or six; the Ruin Fist runs Fixatio, Coagulatio, Cataclysm, Fractura and Nihiloth, the Purity Fist Fixatio, Petralon, Basilithe, Benediction and Judicium.
+**Family** · Several by design, with the two best-known forms anchored on Materia.
+**Physics Domain** · Effective mass and impedance matching at contact, with fracture at a pre-existing flaw.
+**Category** · Arts, a structured discipline of movement, form and Essence flow; nothing about it is involuntary.
+**Craft** · A martial doctrine carried in the body, nearest to Magicraft.
+**Stage floor** · None; a bloodline and personal art, and the lineage decides who can use it.
+**Grade required** · Set by each bearer's own card; a Master bearer at Transcendence strikes at S-Grade.
+**Path gate** · Body Path for Hardening and Fortification, Attraction Path for Gravity, Fate Path for Continuity.
 
-**Filed under** · The Disciplines, alongside the Ketsumyōgan (the Binding Fate Eye) as one of the four bloodline and personal arts that cannot be taught outside the lineage that carries them.
-**Category** · Arts, in the taxonomy's own sense of a structured, discipline-based style blending movement, form and Essence flow. Not Manifestus; nothing about Kami no Kobushi is involuntary.
-**Family and Wellsprings** · Spans several Families rather than one, by design; each of the seven forms draws its own cluster. The two forms with the clearest attestation both anchor on Materia: **Houkai no Kobushi**, the Ruin Fist, runs Fixatio, Coagulatio, Cataclysm, Fractura and Nihiloth; **Seijō no Kobushi**, the Purity Fist, runs Fixatio, Petralon, Basilithe, Benediction and Judicium. The remaining forms (Spirit, Sequence, Revelation, Balance, and the rare Totality expression) each draw their own five- or six-Wellspring cluster from across the Sixty, keyed to their Work rather than to a single Family.
-**Craft** · Not clearly one of the Four; Kami no Kobushi is closer to a martial doctrine carried in the body than to a spoken, written, or poured working, and reads nearest to Magicraft where a Craft label is forced on it.
+### FOW line
 
-### Practitioners and history
+**Governing Primary** · Resilience (Hardening, Fortification, Continuity), with Dominion Gravity.
+**Stage floor** · None
+**Grade required** · Per bearer.
+**Path gate** · Body, Attraction or Fate Path by Sub-Stat.
+**Resonant Pair** · None
 
-**Gimbzo**, the Anchor of Fate, First-Eon Moto and contemporary of Bara himself, is the discipline's origin and its only fully attested master. He held the eastern rim of the unfinished world against pre-sequence horrors for forty-one days without sleep, and when Dougou, the Iron Bison Maximus, finally broke his ribcage into the dirt in a three-day duel, his soul did not transit. The Plane of Fate absorbed him whole as living infrastructure rather than memory, and Kami no Kobushi is, per its own oral tradition, the record of what Gimbzo found by refusing to move: "Bara gave us seven ways to work. Gimbzo found seven ways to refuse."
-No wiki entry currently names a living practitioner who inherited a full Kami no Kobushi form from Gimbzo directly; the discipline is attested as a bloodline art descending through the Moto line in principle, and as a personal art in the sense that a full master is "not seven fighters" but one Anchor across seven Labor-Forms.
+### Origin
 
-### What it can and cannot do
-
-Each Labor-Form can do what its Work does: the Ruin Fist locates a structure's oldest failure and makes it arrive on schedule rather than creating new damage; the Purity Fist restores a body or ward to its lawful native shape rather than merely striking it, and strips purchase from illusion, borrowed identity and false-flag Wellspring use on contact with Basilithe-treated ground; the Spirit Fist strikes across the threshold between life and death rather than at either side of it, denying resurrection and soul-flight a clean escape; the Sequence Fist does not move faster than an opponent, it moves more correctly, ratifying its own blow as already having happened; the Revelation Fist strikes the truth of what an opponent is rather than what they present, bypassing borrowed Domains and stolen techniques entirely; the Balance Fist, by the same doctrine, seats at the fulcrum between two opposing forces and strikes from a point that cannot be displaced without defeating both at once.
-Every form shares the same failure mode in miniature: each carries a named philosophical tension, the specific corruption Obsession Force produces when the practitioner cannot release what the form asks them to hold. Lawful Ruin ends what cannot remain; Obsession Ruin enjoys the waiting. Lawful Purity restores; Obsession Purity sterilizes anything that does not match its own template. The doctrine cannot be improvised by an outsider, since it is bloodline- and person-gated by definition, and none of the forms grant power from outside; Materia Primordia and its kin only extend what the practitioner has already become sufficient infrastructure to carry, the way the Plane extends through Gimbzo himself.
+**Origin** · Gimbzo, the Anchor of Fate, First-Eon Moto and contemporary of Bara, held the eastern rim of the unfinished world for forty-one days without sleep; when Dougou, the Iron Bison Maximus, broke him in a three-day duel, the Plane of Fate took him whole as living infrastructure. The oral tradition says that Bara gave seven ways to work and Gimbzo found seven ways to refuse.
+**Practitioners** · Gimbzo, its origin and only known full master; it descends through the Moto line, and no living master of a full form is named.
 
 ---
 
@@ -88,7 +95,7 @@ Every form shares the same failure mode in miniature: each carries a named philo
 | Labor-Form strike | 5%; committed 8% | 3.7 × 10¹⁰ to 6.9 × 10¹¹ J; 5.9 × 10¹⁰ to 1.1 × 10¹² J |
 | Totality expression | 30% of reserve | 2.2 × 10¹¹ to 4.1 × 10¹² J, A |
 | Cost, anchor held ten turns and six committed strikes | 7% + 6 × 8% | 55% of reserve |
-| Uses before Starvation | 90% ÷ 5%, 8%, 30% | eighteen strikes, eleven committed, three Totalities |
+| Reserve covers | 90% ÷ 5%, 8%, 30% | eighteen strikes, eleven committed, three Totalities |
 
 | Work, Plane-Coupled Bearer | Cost (EU) | Share Of Reserve | Delivered |
 |---|---|---|---|
@@ -105,5 +112,5 @@ Every form shares the same failure mode in miniature: each carries a named philo
 
 **Tell** · The Anchor has chosen ground and stopped: a weapon butt driven in, palms flat to the earth, ground taking a weight it did not have. After, the ground remembers the coordinate.
 **Limits** · The coupling must be set before contact; it holds against displacement only up to its Continuity Grade; the largest Works run fewer than four to a reserve.
-**Beats it** · Pull, lift, hook or drag it in tension; fight it in a confined space so the blast returns; sever the coupling with displacement above its Continuity, a Silence, or ground that will not hold; wait for Obsession; make it spend.
+**Fails against** · Tension: a pull, lift, hook or drag; a confined space, where the blast returns; displacement above its Continuity, a Silence, or ground that will not hold, any of which severs the coupling; Obsession; spending.
 **Look up** · The Materia entries for Fixatio and Petralon and the Cataclysm, Fractura and Basilithe failures; the Continuity and Gravity gates; the bearer's card and lineage; the Transcendence and Emanation Stage tables.

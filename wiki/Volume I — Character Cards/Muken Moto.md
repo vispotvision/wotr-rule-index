@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81b8-b346-d1d8df799ed5"
 notion_url: "https://app.notion.com/p/Muken-Moto-3b158200eb2281b8b346d1d8df799ed5"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:36:00.000Z"
+last_edited: "2026-09-26T06:43:00.000Z"
 verification: null
 ---
 
@@ -57,7 +57,7 @@ verification: null
 **Durability** · 0.38 PJ shielding / 84 GJ hardness
 **Attack Speed** · Mach 8 sustained / **Mach 28 burst**
 **Range** · Melee dominant / 70 m shock-lines / 60 m Judgment Field / **150 m oath-field on Kharven soil**
-**EU Reserve** · 132,300,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84
+**EU Reserve** · 1,850,000 EU · **Flux Density** 18,600 EU/g · **Output** 15,624 AU/s · **η** 0.84
 > **Aura Field** · S-Tier Crowned Judgment Field. Pressure felt in bone, weapon and stance; **violence and oath-breaks become easier to mark.**
 >
 > *The felt sense of standing near a load-bearing structure mid-collapse and mid-repair at once.*
@@ -91,35 +91,35 @@ verification: null
   **Trigger** · Tags a target via hit, parry or shock-line.
   **Function** · Stores **three to nine stress entries** before execution.
   **Mechanism** · Fractura tracks, Judicium ranks, Coagulatio compresses the final impact.
-  **Cost** · 3,004,000 EU per mark / 6,436,000 EU execution.
+  **Cost** · 42,000 EU per mark / 90,000 EU execution.
   **Counterplay** · Equipment rotation, chaotic movement, healing between exchanges, **refusing repeated contact.**
 - ****Shigoto no Kabe** — Work of Bearing Load**
   *Petralon · Fixatio · Balance-thread*
 
   **Trigger** · Declares an unbreakable burden.
   **Function** · 20 m field redirecting **35–65% of incoming force.**
-  **Cost** · 5,364,000 EU activation / 572,100 EU/s; **internal fractures over time.**
+  **Cost** · 75,000 EU activation / 8,000 EU/s; **internal fractures over time.**
   **Counterplay** · Multi-direction attacks, severed ground contact, oath-corruption, forcing movement.
 - ****Meigan: Fault-Verdict Gaze****
   *Fractura · Judicium · Resonance*
 
   **Trigger** · Isolates one bodily tell.
   **Function** · Locks a flaw-vector for 2.5 s within 40 m.
-  **Cost** · 1,573,000 EU read / 3,147,000 EU execution; eye strain, **false readings if intent is unclear.**
+  **Cost** · 22,000 EU read / 44,000 EU execution; eye strain, **false readings if intent is unclear.**
   **Counterplay** · Chaos Wellsprings, illusion noise, non-linear movement.
 - ****Tetsu Shuen** — Iron Terminal**
   *Coagulatio · Petralon · Fractura*
 
   **Trigger** · Contact via fist, pommel, elbow, knee or blade spine.
   **Function** · Concentrates impact into a **4–8 cm zone.**
-  **Cost** · 4,148,000 EU; **severe recoil if the target does not yield.**
+  **Cost** · 58,000 EU; **severe recoil if the target does not yield.**
   **Counterplay** · Shock-absorbing armour, flexible shields, angled deflection, soft-body monsters.
 - ****Crown Overclock** — Ashen Sovereign Frame**
   *Petralon · Coagulatio · Fixatio · Mortalis-thread*
 
   **Trigger** · Declared against armies, Titanspawn, sieges, sovereigns.
   **Function** · Raises strike force, durability and recoil tolerance for 60 seconds.
-  **Cost** · 7,866,000 EU/min; **torn fibres, scar rupture, Crystal heat.**
+  **Cost** · 110,000 EU/min; **torn fibres, scar rupture, Crystal heat.**
   **Counterplay** · Breath disruption, joint targeting, poison, pressure inversion, prolonged pursuit.
 
 ---

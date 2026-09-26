@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81aa-9827-c4c6043b24aa"
 notion_url: "https://app.notion.com/p/Archivium-Locus-3d958200eb2281aa9827c4c6043b24aa"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T05:03:00.000Z"
+last_edited: "2026-09-26T06:31:00.000Z"
 verification: null
 ---
 
@@ -31,19 +31,6 @@ verification: null
 - **Grade required** · A-Grade (late push toward S-Grade)
 - **Path gate** · Fate
 
-### Design Chain
-
-**Trigger** · At least one full, uninterrupted turn spent inscribing the chosen ground and air before any hostile line crosses it.
-**Function** · Writes a Transference lattice across the chosen area so that anything entering routes through the lattice rather than around it.
-**Mechanism** · Runs on Transference's own canon law: two tuned systems held near enough exchange energy without a conductor between them, and the coupling falls off sharply with separation. A hostile trajectory entering the field couples to the lattice the way two oscillators couple, and the lattice bleeds that momentum off along whichever channel she pre-wrote, rather than absorbing or blocking it outright.
-**Numerical Effect** · Radius up to 60 m, centred on a point she can see or occupy; holds 5 turns, 30 seconds, or until shattered. Absorption capacity sits at Stage VII's A-Grade ceiling: force above that Grade's upper Strike Force band overwhelms the lattice outright rather than being redirected.
-**Target Response** · A projectile or working entering the zone visibly bends off its original line; a vertical strike is grounded short of its intended target.
-**Consequence** · Allies standing inside the zone gain a corridor of ground the lattice has already cleared of the vectors it read.
-**Limitation** · Only a limited number of vectors can be pre-written, and the lattice defaults to the most obvious trajectories, so a genuinely unusual angle of attack is more likely to find a gap in the writing.
-**Weakness** · Subterranean or purely mental attacks bypass the lattice outright, since it reads trajectory rather than intent; a Veil rupture tears holes in the geometry that do not self-repair, and Glyphica-class disruption run through the lattice can corrupt its equations mid-read.
-**Cost** · Geometric Fatigue and Anchoring Debt, as above.
-**Counterplay** · Deny her the uninterrupted turn the writing needs, attack from beneath the lattice's reach, or force a Veil rupture near it and go in through the tear.
-
 ### FOW line
 
 **Governing Primary** · Harmonics (Synergy, Projection)
@@ -58,86 +45,59 @@ Archivium Locus is Serenyra's own self-derived working rather than a documented 
 
 ---
 
-### The Two Accounts
+### Physics
 
-#### 1 · Physical account (physics)
-
-**The phenomenon in plain words.** A written structure covering a large volume takes the momentum out of anything crossing into it and sends that momentum somewhere else along a path decided in advance.
-**The real phenomenon.** Two things, and the page names the first itself.
-*Resonant coupling between tuned oscillators.* Two resonators at the same frequency, held near each other, exchange energy through their near fields with no conductor between them; the exchange rate is set by a coupling coefficient κ that falls off steeply with separation — for near-field dipoles as roughly 1/d³. Transfer is efficient only in the strongly-coupled regime, κ ≫ √(Γ₁Γ₂), where Γ is each resonator's own loss rate. This is the physics of resonant wireless power transfer and it is exactly the register's analogue: "Resonant energy transfer between coupled oscillators. Flow along a potential gradient" (`wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md`).
-*A periodic structure that redirects an incident wave rather than absorbing it.* What a 60 m written lattice does to a trajectory is what a Bragg reflector or an elastic metamaterial does to a stress wave: a periodic array with lattice constant *a* couples an incident wave into a guided mode when the Bragg condition is satisfied, and the wave leaves along the guided direction carrying almost all its original energy. Nothing is destroyed. A channel was made cheaper than the straight line.
-**The governing law.** Conservation of momentum, plus the Bragg condition. An elastic redirection through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), delivered into whatever the structure is anchored to. Turning an incoming vector through 90° therefore costs the anchor √2·p; turning it back on itself costs 2p. The energy bill for the redirect is small. **The momentum bill is not, and it is paid by the ground.**
-**Measurable quantities, SI.**
-- Field volume: a 60 m-radius sphere is (4/3)π(60 m)³ = **9.05×10⁵ m³**.
-- Reading latency at the boundary: a vector crossing the perimeter at Mach 5 (1,715 m/s, the A-Grade travel floor, Part Six) covers the 60 m to the centre in **35 ms**. Anything the lattice does, it does inside that window.
-- Redirect impulse for a 1 kg projectile at Mach 5 turned 90°: p = 1,715 kg·m/s, Δp = √2 × 1,715 = **2,425 N·s** into the anchor.
-- Energy carried by the same projectile: ½mv² = **1.47 MJ**, of which the redirect consumes only the small inelastic fraction.
-**The energy budget, and where the joules were.** They were in the incoming attack. The lattice is not a source; it is a boundary that makes one exit path cheaper than the one the attacker chose. This is the system's own accounting: "a working's energy budget balances at the Aether stratum and not at the Essence one … The energy was in the room" (`wiki/The Magic System/The Physical Account Two Sets of Books.md` §III).
-**Precedent we are not copying.** Barrier lattices in Jujutsu Kaisen and the pre-set trap geometry of a Fate/stay night Bounded Field both make a *wall*. This is not a wall. It is a **switch** — the attack arrives with its energy intact and leaves in a direction it did not choose, and the practitioner's own Essence never has to match the attack's joules. That is the divergence.
-
----
-
-#### 2 · Stratal account (metaphysics)
-
-**Aether stratum.** Draw is on ambient Aether across the whole 9.05×10⁵ m³, not at a point: this is a field working, and the page's own Field-side conditions say so. Spatium's favoured ground is "Veil-thin zones, established Realmgates, surveyed ground"; its suppressive ground is "Warp scarring, contested Domains, unmapped terrain" (`The Eight Families & the Sixty Wellsprings`, Environmental Coupling). **Residue:** heavy and legible. A written lattice is the most readable thing in the register — "Aetheric Residue · Traces left behind by an Essence working. A permanent, if often subtle, change to the location" (`The Core Vocabulary` §II), and a second Locus overwrites the first, which is residue behaving exactly as residue. **Saturation:** the working's own Anchoring Debt is a saturation effect in miniature — Essence tied to the site in proportion to mass redirected, i.e. the district holding what the working put into it.
-**Wellspring stratum.** **Transference · *The Living Exchange***, one of the three Spatium currents. Family **Spatium**, Physics Domain** spatial geometry**. Its law, verbatim from `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md`:
-> "Two oscillators tuned to the same frequency and held near each other exchange energy without a conductor between them, and the coupling strength falls off sharply with separation. Transference makes the Attraction Layer such an oscillator. Essence moves to an ally not because it is pushed but because the two Crystals are in tune and near, and a gradient does the rest."
-The register's stated failure is reverse coupling: "A gradient runs both directions, and a Transference practitioner beside a depleted ally will empty into them without deciding to." **Anchoring Debt is that failure with the site as the ally.** She tuned her Layer to the ground; the gradient then ran both ways.
-*Four Theories.* The page leans on the **Consent Doctrine**, the enforced one: the lattice "reads" and "redirects" with nothing attributed to the current beyond lawful recognition of a boundary — "in the same sense that a river recognises a channel" (`Two Sets of Books` §IV). No intention is given to Transference anywhere on the page, which is what makes it licensable.
-**Essence stratum.** The active layer is the **Attraction Layer**, the Fate-Plane layer that "Holds bonds, Domains, and Wellspring harmonizations" (`The Core Vocabulary` §III) — the register is explicit that Transference makes *the Attraction Layer* the oscillator. Expression runs out through the **Aether Shell**. Developmental Tier at Serenyra's Stage VIII: **Radiant** — "The Attraction Layer gains territorial durability. The first true Domain becomes possible" (Part Twenty-One), which is the structural reason a 60 m claim holds at all. Crystal State: **Refined** (card). **The invoice:** Geometric Fatigue is a Tempering Clarity cost — her thinking locks into the lattice's own patterns, which is the Core having run one geometry long enough to hold its bias. Anchoring Debt is an Attraction-Layer cost, Essence bound to a location she then has to leave.
-**The lens: Aristotle's four causes.** *Physics* II.3 and *Metaphysics* V.2. Aristotle asks four questions of anything that exists: what it is made of (material), what shape it has been given (formal), what set it going (efficient), and what it is for (final). The hostile momentum that arrives is only more matter, taking the shape that is already waiting for it. Read that way the Anchoring Debt stops looking like a penalty and starts looking like the efficient cause presenting its bill — she is the mover, and a mover who has written herself into the form cannot walk out of it while it stands. A school that reads the Locus through the **final** cause instead ("the lattice exists to protect the site") will predict that it reads intent, and will be wrong in the exact way the page's own Weakness records: *"it reads trajectory rather than intent."* The lens is a lens. The law underneath does not know what hostility is.
-
----
-
-#### 3 · Mechanism (the effect)
-
-**Glyph.** `[Ren]` **Passage** · Root · Auren — the channel the momentum is sent down — laid across `[Ho]` **Order** · Extension · Valen — the periodic geometry that does the reading. Both from the thirty unclassified forms in `wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md`, whose Roots the Index describes as naming "a **kind of limit**, applicable to any law at all." `[Lk]` **Lock** is the Claustra-side alternative, the Counter form that "occupies a limit so no other limit can be set there," and would file the working as obstruction rather than routing.
-**What boundary moves.** One quantity: **the exit direction available to an incoming vector inside the sphere.** Before the writing, a trajectory entering the volume has one cheap path — the one it is already on. The lattice pins a set of alternative paths and makes them cheaper. That is the entire imposition.
-**What the law then does on its own.** Everything after. The coupling forms because two tuned things are near each other and a gradient exists; the momentum leaves along the cheap channel because momentum always leaves along the cheap channel; the anchor takes Δp because Newton's third law was running before anyone wrote anything. The Index's warning applies literally here: "The glyph ends. The law does not." The Anchoring Debt is the law still running after the writing stopped — she is coupled to the site, and the coupling does not care that the engagement is over. **This is why the page says retreat afterward is genuinely dangerous, and the physics agrees.**
-**Failure mode — Boundary fault.** From the Four Faults (`Two Sets of Books` §VII): "The condition was established imprecisely and the law ran somewhere unintended." Only a finite set of vectors can be pre-written, so the lattice has a spatial sampling limit; a trajectory arriving at an angle that *aliases* onto a pre-written channel is read as that channel and redirected wrongly. **That is the mechanism's answer to the page's own "What nobody knows" — why the lattice occasionally reads a hostile vector wrong with the geometry unbroken.** It is not a flaw in the writing. It is the Nyquist limit of any periodic reader, and it is the same physics as the Tenebra register's aspect dependence. The subterranean and purely mental bypasses are the same fault seen from outside: those vectors never cross the sampled surface.
-A Veil rupture tearing holes that do not self-repair is a **Field fault** overlaid on the first — "The room could not supply what the working assumed."
-**What the target sees and feels.** Nothing at the boundary. There is no wall to strike and no discharge at the line, because coupling is not collision. A man running in at 60 m feels his footing stay honest and his weapon stay where he put it. What changes is the line of anything moving fast enough to be an oscillator the lattice can hold: a bolt, a thrown blade, a launched working visibly *bends* — not deflected off a surface but curving, over metres, as though the air had a grain in it. A vertical strike simply arrives short, grounded into the pattern before it reaches what it was aimed at. The characteristic feeling reported from inside is of being in a room where every direction has already been decided by someone else, which is accurate: the channels were written before anyone arrived. The unpleasant part is the corollary. A trajectory the writing did not anticipate is not resisted at all, and passes through a field of bending shot as though the lattice were not there — which it is not, on that vector.
-**What bleeds, at the stated efficiency.** η ≈ 0.70 (card), so **30 percent of every expenditure leaves as heat, sound and structural bleed** (`Core Vocabulary` §V; `Two Sets of Books` §III: "which is why a low-efficiency practitioner is loud, warm, and easy to find"). Across a 9.05×10⁵ m³ field the thermal share is diffuse and undetectable per cubic metre; the structural share is not, and it is where Geometric Fatigue comes from. At Stage VIII she sits in Tier 6 · Master, whose η band is 0.70–0.80 — she is **at the floor of her own tier**, which is the honest reading of a practitioner who spends her margin on lattice complexity rather than on cleanliness.
-
----
-
-#### 4 · Essence ledger (units)
-
-| Quantity | Value | Derivation |
+**Phenomenon** · A written lattice sixty metres in radius takes the momentum out of anything crossing into it and sends it down a path decided in advance, like a Bragg reflector (a regular grid that steers a wave instead of absorbing it) coupled by resonance to the ground.
+**Law** · Conservation of momentum plus the Bragg condition: turning a vector through angle θ costs the structure an impulse Δp = 2p·sin(θ/2), paid into whatever it is anchored to.
+**Limit** · The energy bill of a redirect is small; the momentum bill is not, and the ground pays it. Resonant coupling works only strongly coupled, κ ≫ √(Γ₁Γ₂), and κ falls roughly as 1/d³.
+**Energy** · In the incoming attack: the lattice is a switch, not a wall, making one exit cheaper than the one chosen. The practitioner never has to match the attack's joules.
+| Quantity | Working | Result |
 |---|---|---|
-| EU spent | `null` | No page figure. The system supplies no Stage→EU formula. |
-| Flux Density | **31.4 EU/g** | AU/s = Flux Density × η (Part Nineteen) ⇒ 22 ÷ 0.70 = 31.43. AU/s 22 from `wiki/Techniques/Lumen Dissecans.md`; η 0.70 from the card. |
-| η | **0.70** | Card, line 39. Tier 6 · Master band 0.70–0.80 (Part Nineteen) — at the floor, consistent. |
-| AU/s | **22** | Sourced: "her established 22 AU/s baseline" (`Lumen Dissecans`). Not derived. |
-| Duration | **30 s** | Page: "holds 5 turns," at six seconds to the turn. |
-| Write time | **6 s** | "one full, uninterrupted turn," at six seconds to the turn. |
-| Efficiency bleed | **30 %** | 1 − η = 1 − 0.70. Leaves as heat, sound, structural bleed. |
-| Minimum Stage | **VII · Refraction** | Page. Sub-Stat ceiling 475, Max Grade A allocation-capped at 400 (Part Five). |
-| Tier of Standing | **5 · Expert** | Part Five, the Tier column for Stage VII. |
-| Grade required | **A** (276–400) | Page, "A-Grade (late push toward S-Grade)". Serenyra's Gnosis 522 and Tempering 470 are S-Grade (401–550), so she clears the floor by a full Tier — "One full Tier Grade above an opponent … wins a direct exchange of that stat category without meaningful contest" (Part Four). |
-| Absorption ceiling | **4.184×10¹² J** | Page ties it to "Stage VII's A-Grade ceiling"; A-Grade upper bound is 4.184×10¹² J (Part Four). Force above that overwhelms the lattice rather than being redirected — the page's own reading, and it checks. |
-| Path gate | **Fate** | Page. Dominion Fate "requires Fate Path at Stage VII to exceed S" (Part Seven) — the gate opens exactly at this technique's Stage floor, which is a clean fit. |
-| Starvation margin | `null` | Needs EU spent as a fraction of reserve; the page gives neither. Below 10 % EU is Starvation (`Core Vocabulary` §V). |
-| Developmental Tier | **Radiant** | Stage VIII (Part Twenty-One). |
-| Crystal State | **Refined** | Card, line 39. |
-| Aether stratum draw | across **9.05×10⁵ m³** | (4/3)π(60 m)³. |
+| Field volume | (4/3)π × (60 m)³ | 9.05 × 10⁵ m³ |
+| Mach 5 vector, perimeter to centre | 60 m ÷ 1,715 m/s | 35 ms |
+| 1 kg projectile at Mach 5 | 1 kg × 1,715 m/s | 1,715 kg·m/s, carrying 1.47 MJ |
+| Impulse into the anchor, 90° turn | √2 × 1,715 | 2,425 N·s; a full reversal costs 2p |
 
-**Does the physics close against the stratal account?** Yes, and for the reason the system says it should: the joules came from the attacker, the boundary came from her, and the only thing she paid in Essence was the cost of holding a geometry. The one quantity that *cannot* be checked is whether a 9.05×10⁵ m³ field is inside the local Aetheric Density ceiling, because the system gives that ceiling no units.
+### Metaphysics
 
----
+**Aether** · Draw on ambient Aether across the whole sphere, a field working. The Residue is the lattice itself, the most legible residue there is, deafening Harmonists long after; a Locus written on ground near saturation risks a Crystal Fracture Event for everyone inside.
+**Ground** · Spatium favours Veil-thin zones, Realmgates and surveyed ground; Warp scarring, contested Domains and unmapped terrain suppress it.
+**Wellspring** · Transference, the Living Exchange (Spatium): two tuned oscillators near each other exchange energy with no conductor, the coupling falling sharply with distance; here the practitioner tunes the Attraction Layer to the ground.
+**Inherited failures** · Transference's reverse coupling runs both ways: the Anchoring Debt is that failure with the site as the depleted ally, and it can be induced from outside.
+**Theory** · The Consent Doctrine: the lattice asks nothing of the current beyond lawful recognition of a boundary, as a river recognises a channel, which makes the working licensable.
+**Essence** · The Attraction Layer is the oscillator, expressed through the Shell. Developmental Tier is Resonant at the floor, Radiant at Transcendence, where territorial durability makes a sixty-metre claim hold well. The invoice is Geometric Fatigue (Tempering Clarity) and Anchoring Debt (Attraction Layer).
+**School** · The Collegium faculty of Causes reads the Locus as pure form on worthless matter, and the Debt as the mover unable to walk out of its own form; a rival school expects the lattice to read intent, but it reads trajectory only.
 
-#### 5 · Counterplay and the challenge
+### Mechanism
 
-**The Counterplay routes that work** (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
-- **Break the boundary — the strongest route, and the cheapest.** The lattice needs a full uninterrupted inscription turn on ink and ground. *"Take the anchor and the sentence does not complete."* Stage VII is exactly the line at which the chain goes internal, so this does **not** work against her spoken workings — but the Locus is written, in a place, on a substrate, and a written thing is beaten the way Runecraft is beaten: *"damage the substrate."* Break the ground she wrote on, or reach her inside the turn, and there is no Locus.
-- **Break the man — Rigidity.** *"Present him with the situation his own law handles worst and he will handle it that way regardless."* The lattice defaults to the obvious trajectories. An attack that is merely *strange* — subterranean, purely mental, arriving straight down a chimney — is not resisted, and she cannot re-write while it holds.
-- **Deny the field — partial.** The Family is **Spatium**, and the Counterplay register names failure terrain for Caloria, Fulguria, Materia and Fluxia only. Spatium's coupling has to be read off `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md` instead.
-- **Break the body — after the fact.** Anchoring Debt makes withdrawal dangerous in proportion to how well the Locus worked. An attacker who accepts the redirection, disengages, and comes back for her on the way out is using her own ledger against her. *"Waiting for the cost"* is named as a bad plan; **collecting** the cost at the moment it falls due is not the same plan.
-**The tell, stated plainly.** She has to stop, kneel, and write, in the open, on the ground she intends to hold, before the first hostile line crosses it. Any observer who understands that the writing must precede the crossing knows both that a Locus is coming and where its centre will be.
-**The lookup trail.** The pages a player would have to read to assemble the counter. Each gives a piece; none gives the answer.
-1. `wiki/Techniques/Archivium Locus.md` — the trigger ("one full, uninterrupted turn"), the radius, and the Weakness line about trajectory versus intent.
-1. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — that a ward is beaten by damaging its substrate, and that Stage VII closes the anchor route for *spoken* chains but not for written ones.
-1. `wiki/The Magic System/The Four Crafts.md` — Law V, and why a written working is a different animal from a declared one.
-1. `wiki/The Eight Families & the Sixty Wellsprings/Spatium — Spatial Geometry.md` — Transference's coupling conditions and what thins them.
-1. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md` — Part Four, so the reader can work out what "above the A-Grade band" actually means in newtons, and therefore what overwhelms the lattice outright.
-1. `wiki/Volume I — Character Cards/Serenyra Vaelith · The Archmagus of the Grove-Spired Crown.md` — that her Dexterity is not her strength, which is why reaching her inside the inscription turn is a real plan rather than a wish.
+**Glyph** · Passage (Auren), the channel the momentum is sent down, laid across Order (Valen), the periodic geometry that does the reading.
+**Boundary** · The exit directions open to an incoming vector inside the sphere move: the lattice pins alternative paths and makes them cheaper than the straight line.
+**Effect** · No wall and no flash at the line: a runner's footing stays honest, but bolts, blades and launched workings curve over metres as if the air had grain, and a vertical strike grounds short into the pattern.
+**Write** · One full, uninterrupted turn of inscription on the ground and air the practitioner stands on; the Locus then holds five turns at sixty metres and cannot move. A second Locus overwrites the first.
+**Sorting** · Friend from foe is sorted by the practitioner's judgement and attention; if that slips, allies' shots and workings are bent too.
+**Anchoring Debt** · Essence bound to the site in proportion to the mass redirected, growing with every success and falling due when the practitioner leaves; retreat afterwards is genuinely dangerous.
+**Failure** · Boundary fault: only a finite set of vectors can be pre-written, so an angle that aliases onto a written channel is redirected wrongly, and subterranean or purely mental attacks never cross the sampled surface.
+**Field fault** · A Veil rupture tears holes in the lattice that do not self-repair.
+**Bleed** · 30 to 40 percent at the floor, spread across the sphere: the heat is too diffuse to feel, but the structural share is what locks Tempering Clarity into Geometric Fatigue.
+
+### Essence
+
+**Practitioner** · Refraction, Expert, A-Grade with a late push toward S (allocation stops at 400, 401 to 475 under strain), reserve 51,800 to 961,000 EU, η 0.60 to 0.70; 0.70 to 0.80 at Master.
+**Paths** · Fate: Dominion Fate needs Fate Path at Refraction to pass S; off it, the lattice holds against nothing above S-Grade whatever the Stage.
+**Grade** · One full Tier Grade of Gnosis and Tempering above an attacker reads that attacker's vectors without contest.
+| Quantity | Working | Result |
+|---|---|---|
+| Cost, write and hold | 8% of full reserve | 4,144 to 76,880 EU at the floor |
+| Reserve covers | 90% ÷ 8% | 11, before any Anchoring Debt |
+| Waste at η 0.65 | 0.35 × 8% | 2.8% of reserve, shed into the sphere |
+| Absorption ceiling | top of the A-Grade band | 4.184 × 10¹² J; above it the lattice is overwhelmed |
+
+**Cost** · Eight percent of full reserve to write and hold, plus an Anchoring Debt that grows with success and Geometric Fatigue after.
+**Duration** · One six-second turn to write, five turns (30 s) held.
+
+### Counterplay
+
+**Tell** · The practitioner must stop, kneel and write in the open on the ground to be held, before the first hostile line crosses it, so everyone sees where the centre will be; afterwards written ground, long legible, and a practitioner still tied to it.
+**Limits** · Sixty metres, five turns, immovable, overwritten by a second Locus, a finite set of vectors, overwhelmed above the A-Grade band.
+**Fails against** · A writer denied the turn, or a damaged written substrate; attacks along strange lines (underground, mental, straight down a chimney); unmapped or Warp-scarred ground; force above A; the Anchoring Debt, due on the way out.
+**Look up** · The Spatium entry for Transference's Failure; Spatium's favoured and suppressive ground; the Runecraft counters for written workings; Grade bands by joules; the Refraction Stage table and the Fate Path gates.

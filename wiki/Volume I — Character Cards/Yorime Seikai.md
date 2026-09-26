@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-81b4-9964-f24b36c73717"
 notion_url: "https://app.notion.com/p/Yorime-Seikai-3b258200eb2281b49964f24b36c73717"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:53:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -56,7 +56,7 @@ verification: null
 ## III · Soul Physics and Combat Scale
 
 **Global Tier S+** — *SS under Boundary Conditions* · **Path Bias** Spirit 45% · Mind 35% · Body 20%
-| **Essence Capacity** | **1.323×10^12 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger*** |
+| **Essence Capacity** | **74,000 EU** — vast but carefully rationed. ***She does not spend freely because every Claim invites hunger*** |
 |---|---|
 | **Flux Density** | 13,900 EU/g — **her Null-Light is invasive rather than explosive.** *It slips into hostile Aether systems, cuts recognition, and drains unstable Essence from the inside* |
 | **Aether Output** | 13,066 AU/s — moderate beside artillery casters, **extremely dangerous in close and mid-range suppression** |
@@ -89,12 +89,12 @@ verification: null
 
 | Discipline | Mechanic and application | Cost |
 |---|---|---|
-| **Ashuric Claim** · Gilded Null | Opens a Claim channel through palm, eye contact, or Boundary thread. **Essence pulled through is stripped of its original allegiance and refined into black-silver Null-Light.** *Best against stolen magic, necromancy, curse engines, and enemies who overextend Aether outside the body* | 50,060,000,000 EU + variable drain |
-| **Ketsumei Construct** · Mourning Regalia | Shapes claimed Essence into **black-gold sabers, needle-like execution threads, floating veil-shields, and hand-wrapped gauntlets that drain magic on contact** | 64,360,000,000 EU + 16,090,000,000/min |
-| **Boundary Step** · Black Threshold | Slips through **a razor-thin death-space seam**, relocating without crossing the normal path between points. *Evasion, assassination angles, rescue, sealed rooms — dangerous when overused near mass death zones* | 75,090,000,000 EU per step |
-| **Echo Harrow** · Name-Funeral Cut | Targets a soul-echo or Essence imprint and **cuts its continuity between the Living and Dead realms.** Erases tracking marks, necromantic anchors, spirit parasites, post-mortem possession routes. ***Against living targets it is forbidden unless execution has been lawfully declared*** | 169,800,000,000 EU minimum |
-| **Veil of the Last Hand** | Places her hand on a target and draws excess pressure, unstable grief, curse residue or leaking Aether into a Boundary veil around herself. **This is the art she uses on Dougou when the Iron Bison begins to over-accumulate.** *It does not stop him by force.* ***It gives his pain somewhere to be witnessed before it becomes weight*** | 107,300,000,000 EU + 21,450,000,000/breath |
-| **Null-Light Court** | A local suppression field where stolen Essence, unlawful summons, necromantic tethers and unstable flows **are forced to reveal their origin.** ***It turns combat into testimony.*** **Magic must declare where it came from, whom it belongs to, and whether it has lawful permission to remain** | 214,500,000,000 EU |
+| **Ashuric Claim** · Gilded Null | Opens a Claim channel through palm, eye contact, or Boundary thread. **Essence pulled through is stripped of its original allegiance and refined into black-silver Null-Light.** *Best against stolen magic, necromancy, curse engines, and enemies who overextend Aether outside the body* | 2,800 EU + variable drain |
+| **Ketsumei Construct** · Mourning Regalia | Shapes claimed Essence into **black-gold sabers, needle-like execution threads, floating veil-shields, and hand-wrapped gauntlets that drain magic on contact** | 3,600 EU + 900/min |
+| **Boundary Step** · Black Threshold | Slips through **a razor-thin death-space seam**, relocating without crossing the normal path between points. *Evasion, assassination angles, rescue, sealed rooms — dangerous when overused near mass death zones* | 4,200 EU per step |
+| **Echo Harrow** · Name-Funeral Cut | Targets a soul-echo or Essence imprint and **cuts its continuity between the Living and Dead realms.** Erases tracking marks, necromantic anchors, spirit parasites, post-mortem possession routes. ***Against living targets it is forbidden unless execution has been lawfully declared*** | 9,500 EU minimum |
+| **Veil of the Last Hand** | Places her hand on a target and draws excess pressure, unstable grief, curse residue or leaking Aether into a Boundary veil around herself. **This is the art she uses on Dougou when the Iron Bison begins to over-accumulate.** *It does not stop him by force.* ***It gives his pain somewhere to be witnessed before it becomes weight*** | 6,000 EU + 1,200/breath |
+| **Null-Light Court** | A local suppression field where stolen Essence, unlawful summons, necromantic tethers and unstable flows **are forced to reveal their origin.** ***It turns combat into testimony.*** **Magic must declare where it came from, whom it belongs to, and whether it has lawful permission to remain** | 12,000 EU |
 
 ---
 

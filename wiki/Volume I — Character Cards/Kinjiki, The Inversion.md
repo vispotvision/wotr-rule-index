@@ -4,7 +4,7 @@ notion_id: "3df58200-eb22-816a-b489-cba6b2aa6ef9"
 notion_url: "https://app.notion.com/p/Kinjiki-The-Inversion-3df58200eb22816ab489cba6b2aa6ef9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-24T21:23:00.000Z"
+last_edited: "2026-09-26T06:41:00.000Z"
 verification: null
 ---
 

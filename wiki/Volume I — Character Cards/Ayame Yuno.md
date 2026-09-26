@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-8153-a974-d20af56807e9"
 notion_url: "https://app.notion.com/p/Ayame-Yuno-3b158200eb228153a974d20af56807e9"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:35:00.000Z"
+last_edited: "2026-09-26T06:42:00.000Z"
 verification: null
 ---
 
@@ -55,7 +55,7 @@ Her Aether emerges as **pale aurora-script and thin white-violet threads** that 
 **Path Bias** · **Attraction 52%** · Spirit 38% · Body 10%
 | Pillar | Value | Reading |
 |---|---|---|
-| **Essence Capacity** | 10,080,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |
+| **Essence Capacity** | 37,000 EU | Optimised for **sustained rites, mass-oath work and battlefield-scale blessings** rather than short violent exchanges |
 | **Flux Density** | 510 EU/g | Dense enough that **completed sigils hit like law, not suggestion.** Low raw impact, **exceptionally penetrating against structures of loyalty, morale and spiritual stability** |
 | **Aether Output** | 1,900 AU/s | **She can maintain several concurrent diagrams across a city-sized theatre** when properly prepared |
 | **Efficiency η** | 0.86 | **Once a ritual pattern is laid, upkeep costs plummet** — *making long wars of attrition skew heavily in her favour* |
@@ -85,13 +85,13 @@ Hair black and heavy and oiled, bound close in the coiled arrangement the tuiga 
 
 ## Core Disciplines
 
-- ****Tōbō no Michi: Le Ie Atoa**, the Whole Mat · 1,308,000 EU full invocation**
+- ****Tōbō no Michi: Le Ie Atoa**, the Whole Mat · 4,800 EU full invocation**
   She projects a vast woven lattice over a battlefield or city, **each strand mapping a cohort, household or banner.**
 
   She rewrites how Essence flows between strands — **diverting fear from the weak into her own lattice, redistributing courage, and hard-tying lines of retreat or surrender into pre-approved routes.**
 
   Used to turn chaotic northern levies into a single disciplined winter host. **Also weaponised to make enemy coalitions subtly misalign, causing split-second betrayals or failures of mutual support at decisive moments.**
-- ****Fofō Molimau**, the Antidote Hand That Witnesses · 626,600 EU per casting**
+- ****Fofō Molimau**, the Antidote Hand That Witnesses · 2,300 EU per casting**
   She braids Coagula's binding law with Benediction's restorative field, **creating an area where wounds close only on those whose intentions align with the crown's survival.**
 
   **The rite hardens certain behaviours into identity.** A coward who stands his ground here **will find that courage permanently etched into his soul.** A traitor striking within it **will scar metaphysically, branded for later judgment.**

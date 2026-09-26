@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8182-a765-f92086554f5f"
 notion_url: "https://app.notion.com/p/Oathrend-3d958200eb228182a765f92086554f5f"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:02:00.000Z"
+last_edited: "2026-09-26T06:29:00.000Z"
 verification: null
 ---
 
@@ -31,19 +31,6 @@ Stage floor · **Stage IX — Invocation**.
 Grade required · **S-Grade**.
 Path gate · None.
 
-### Design Chain
-
-**Trigger** · A standing oath, pact, or contract the caster has standing to address (their own, or one they have been given cause and authority to attack) is named and directly confronted.
-**Function** · Imposes an antiphase counter-field against the oath's own binding architecture rather than attacking the parties to it — the working targets the Claustra seal, not the souls it holds.
-**Mechanism** · Destructive interference. A Claustra-class bond is a standing field held open by a continuous claim; Oathrend generates a field of equal magnitude and opposite phase across that same anchor point, and the two sum to zero the way two opposed waves cancel rather than fight. The seal does not weaken. It opens.
-**Numerical Effect** · At Stage IX / S-Grade, cancelling a personal-scale oath costs 90,000–130,000 EU and completes in under a second once the counter-field locks; a multi-party or divinely-witnessed pact runs toward the top of the range and can require a sustained cast of several seconds to fully null every anchor point.
-**Target Response** · Every party still bound to the oath feels the cancellation simultaneously, reported consistently as a felt absence rather than pain — "the world momentarily registers the vow's absence like a wound."
-**Consequence** · The vow's consequences unwind across every plane they were enforced on. What the oath was holding together (a truce, a bloodline claim, a Realm's stability) is no longer held by anything, and whatever else was load-bearing on that hold now has to carry its own weight or fail.
-**Limitation** · The working cannot manufacture an obligation — it reads and cancels a real, standing Claustra seal and does nothing at all against a target with no oath currently in force.
-**Weakness** · A Mirrored-Scale-class working (Purganeth's own reciprocity law) turns the caster's own counter-field back on them in exact kind; this is the one documented case where the caster, not the oath, absorbs the working.
-**Cost** · EU per the Numerical Effect line, and a Resilience Oath toll on the caster equal to what honouring the broken vow would have cost.
-**Counterplay** · Establish the oath under Purganeth-witnessed reciprocity before it can be targeted, or catch the counter-field before it locks — once it locks, the seal opens regardless of who is watching.
-
 ### FOW line
 
 Governing Primary · **Resilience** (Oath, Persistence), secondary **Dominion** (Sovereignty).
@@ -55,23 +42,62 @@ Resonant Pair · None.
 ### Origin
 
 A documented, standing working rather than a single self-derived technique — it has three separate lineages of use (Zeven Halek's single battlefield invocation, Lysandra Velkaris's rejection of divine bondage, the Ashblood Apostates' standing liberation doctrine). As a named, taught technique it is counterable by anyone who has studied a prior Oathrend case.
-Tens to hundreds of gigawatts of waste, in a second or a turn, at the anchor. That is the saturation danger in the Ledger's own currency.
-**The Oath toll.** A cost priced against what was destroyed rather than how hard the practitioner pushed. A liberator who frees a hundred souls has paid a hundred vows' worth of Oath. An Oathrend specialist is progressively less able to swear anything.
-**The Path gates.** Resilience **Persistence** needs the Fate Path at Stage VII to exceed S, and at Stage VIII to exceed SS against Oblivion-class pressure. Resilience **Oath** needs the Attraction Path at Stage IV to exceed B.
+
+---
+
+### Physics
+
+**Phenomenon** · Active noise control: a second wave of equal size and opposite phase is laid over the first, and where both are present there is nothing. Nothing is absorbed or blocked; the net disturbance is simply zero.
+**Law** · Linear superposition: two fields in one region add point by point, and neither is changed by the adding.
+**Limit** · The anti-field must match at every point, so one source per anchor: this is why headphones cancel a hum and not a hiss, and a pact with many anchors takes seconds, not force.
+**Null** · The leftover is 2 sin(φ/2) of the field for a phase error φ: near perfect until it is suddenly worthless.
+**Energy** · A matched anti-field carries the same energy density as the field it cancels; the Aether supplies that amplitude, the Crystal supplies the phase, the cheap part and the hard part.
 | Quantity | Working | Result |
 |---|---|---|
-| Persistence on the Fate Path at Stage IX | up to 625 under strain | the null held through the lock |
-| Persistence off the Fate Path | capped at the S ceiling | 550 and no higher |
-| Oath off the Attraction Path | capped at B | a shallow pool for the toll |
+| Phase error 10° | 2 sin 5° | 17% left standing, about 15 dB cancelled |
+| Phase error 30° | 2 sin 15° | 52% left standing |
+| Phase error 60° | 2 sin 30° | 100% left standing, nothing achieved |
 
-**A practitioner off the Fate Path runs Oathrend with Persistence capped at S**: the working runs at its own Grade and cannot be pressed past it against a pact held under Oblivion-class pressure. Off the Attraction Path, Oath stops at B, and the toll empties it within a few castings.
-**The physics closes against the stratal account.** Superposition says the amplitude must match; the Aether stratum supplies it. The Crystal supplies the phase, and the reserve pays for holding that phase true at every anchor until the lock. The permanence is the lock's: a claim held open by continuity, once broken, stays broken.
+### Metaphysics
 
-#### Counterplay
+**Aether** · A large, brief draw against a personal oath; large and sustained for several seconds against a multi-anchor pact, the one working whose cast time is set by the target's shape. The Residue is two fields, not none, at every anchor.
+**Saturation** · A great pact nulled fast in one place can flood the area past dispersal: a Crystal Fracture Event in everyone present, the caster included.
+**Wellspring** · Nihiloth, the Hollow Law (Limina): two waves in antiphase sum to zero, and a Nihiloth Domain cancels the law present rather than adding any; it strengthens Sovereignty, Persistence and Cognition.
+**Inherited failures** · Symmetric cancellation: superposition does not know whose field is whose, so any oath, bond or Domain of the caster's on that anchor is nulled too. A caster never stands on an anchor they care about.
+**Purganeth** · A Realm, not a Wellspring, whose Arbiter's law is proportion, restitution and penance; an oath witnessed there is the working's one mirror.
+**Category** · Claustra, a Spirit and Attraction category, read under the Debt Position: obligation answered on credit, freely sworn vows leaving the worst Echo Scars.
+**Essence** · The Attraction Layer holds the oath, the Shell makes the anti-field, and the Essence Core takes the bill in Resilience Oath. Developmental Tier is Sovereign at Invocation.
+**School** · The conventionalist jurists read an oath as dismantleable architecture, which Oathrend bears out; the jurisdictional school hunts for the warrant behind each rending, finds none because it is a field operation, and escalates while missing Purganeth.
 
-**Break the boundary: swear it under Purganeth, and the working eats itself.** Establish the oath under Purganeth-witnessed reciprocity before it can be targeted. The return is in exact kind, undiminished, which for a matched anti-field means **the caster receives the full expenditure back.** The price is time: it must be done at the swearing, months or years before anyone thinks of breaking the oath. Preparation pays, and it is the only thing that does.
-**Break the boundary: catch the lock.** Catch the counter-field before it locks; once it locks, the seal opens regardless of who is watching. The window is under a second for a personal oath and several seconds for a great pact, which inverts the usual intuition: **the bigger the oath, the longer the defender has.** Disturb **any one anchor** and the null fails, because a partially cancelled field is not a partially cancelled oath.
-**Break the boundary: move the phase.** The residual is 2 sin(φ/2), and sixty degrees of phase error leaves the field entirely intact. A party to the oath who acts on it, renews it or invokes it during the cast presents a moving target to a working that must match to within a few degrees.
-**Deny the field: Silence.** A Silence removes magical possibility from a region, and lawful transformation cannot be authorised inside one. Oathrend must place a large matched field at a specific anchor, and a Silence Realm denies the placement outright. It also suspends the oath's own enforcement while it lasts, so a Silence is a truce for both sides of the question.
-**Break the man: the Oath toll and the drift.** Every casting spends the practitioner's own Resilience Oath. A practitioner who does this often is spending down their capacity to be bound, and Coherence drift follows on the same schedule. An opponent who notices does not need to fight them at all; they need to wait.
-**The tell.** A renunciation spoken aloud, if the practitioner keeps the custom, and at Invocation they need not. Otherwise the first anyone knows is the felt absence, at once, in everyone still bound, one instant too late to be useful, which is why the real counters are bought in advance. After the fact, the aftermath is the tell: the anchor points carry the trace of two fields rather than none, and a Concord investigator reads an Oathrend off them where a lawful release would have left nothing.
+### Mechanism
+
+**Glyph** · Knot, one of the two Counter forms, laid across Binding, a Root wholly of Limina: a condition that stops a seal from continuing to be established.
+**Boundary** · The phase of the field at each anchor point, set to π; not the oath's strength or the parties' will, and not the souls the seal holds.
+**Effect** · The seal does not weaken, it opens. Every bound party feels an absence at once, wherever they are; affection may survive while enforcement is gone, and then the truce, claim or Realm resting on the vow stops being held up.
+**Lock** · The null must hold at every anchor at once; when it does, the claim's continuity breaks and does not resume, and the anti-field can be let go. The vow must be sworn again.
+**Limits** · Only a real, standing commitment; it cannot invent one. Liberation and the destruction of a stabilising truce are the same working, correctly done.
+**Anchor** · None at Invocation: the spoken renunciation is custom, and covering the mouth does not stop it.
+**Failure** · Backlash through the mirror: an oath sworn under Purganeth-witnessed reciprocity returns the anti-field in exact kind, the caster's whole spend arriving at the caster (Overchannel, Backlash, Fracture).
+**Bleed** · 20 to 30 percent leaves the Shell as heat, sound and structural bleed into the anchor's room within a second: tens of gigawatts, over a hundred at the band's top.
+
+### Essence
+
+**Practitioner** · Invocation, Master, reserve 9.90 × 10⁵ to 1.84 × 10⁷ EU, η 0.70 to 0.80, S-Grade (401 to 550; 625 under strain).
+**Paths** · Persistence needs the Fate Path at Refraction to pass S and at Transcendence to pass SS against Oblivion-class pressure; off it Persistence caps at 550. Oath needs the Attraction Path at Flourishing to pass B, or the toll's pool is shallow.
+| Quantity | Working | Result |
+|---|---|---|
+| Cost, a personal oath | 9 to 13% of reserve | 89,100 to 2.39 × 10⁶ EU |
+| Cost, a multi-party or divinely witnessed pact | toward 13% | toward 128,700 to 2.39 × 10⁶ EU |
+| Reserve covers | 90% ÷ 9% or 13% | ten personal oaths, or six great pacts |
+| Bleed of a great pact | 20 to 30% of cost in 1 s to 6 s | 26 to 39 GW at the band's foot; 120 GW at its top |
+
+**Cost** · A set share of full reserve per rending, so every caster at a Stage gets the same number; plus a toll in Resilience Oath equal to the full weight of keeping the broken vow.
+**Duration** · Under a second for a personal oath once locked; several seconds, most of a turn, for a many-anchored pact.
+**Toll** · A liberator who frees a hundred souls pays a hundred vows of Oath; a specialist grows steadily less able to swear anything.
+
+### Counterplay
+
+**Tell** · A renunciation aloud if the caster keeps custom; otherwise only the felt absence, one instant too late. After, the anchors carry two fields where a lawful release leaves none.
+**Limits** · Real oaths only; one anti-field per anchor; any anchor disturbed fails the whole null; a Silence denies it.
+**Fails against** · An oath sworn under Purganeth from the start; any one anchor disturbed before the lock (bigger pacts give longer); a phase moved by invoking or renewing the oath mid-cast; a Silence; the Oath toll and drift over time.
+**Look up** · The Nihiloth entry and its failure; the Realm of Purganeth and its Arbiter; Claustra seals; the Persistence and Oath gates; the Silence Realm; the Invocation Stage table and saturation rules.

@@ -4,7 +4,7 @@ notion_id: "3b258200-eb22-8134-ac40-e15946bf350a"
 notion_url: "https://app.notion.com/p/Lucius-Xenotro-3b258200eb228134ac40e15946bf350a"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:53:00.000Z"
+last_edited: "2026-09-26T06:43:00.000Z"
 verification: null
 ---
 
@@ -57,7 +57,7 @@ verification: null
 
 **Global Tier S+** — *Invocation peak SS−* **·** Path Bias Spirit 40% · Attraction 35% · Body 25%
 > **Body Logic.** *His body has adapted into a biological lens.* **His eyes resist high brightness,** his skin carries Essence-reinforced pigment lattices**, his blood vents heat quickly, and** his Soul Crystal splits Essence into spectral bands.
-| **Essence Capacity** | **10,080,000 EU** — *massive for his age* |
+| **Essence Capacity** | **2,850,000 EU** — *massive for his age* |
 |---|---|
 | **Flux Density** | 41,000 EU/g — **extremely fine spectral compression, making his beams surgical instead of explosive** |
 | **Aether Output** | 37,720 AU/s — *lets him change battlefield light faster than most opponents can adjust vision or stance* |
@@ -84,17 +84,17 @@ verification: null
 
 | Discipline | Effect · Cost | Counterplay |
 |---|---|---|
-| **Spectral Edict** · White Lance | **Phase-locks photons into a cutting line of light**, 400–700 nm, heating exposed steel 400–900°C. *Pierces armour seams, severs weapons, strikes through visor slits or shield gaps.* 99,030 EU + 21,220/s | Reflective wards, ceramic armour, smoke, rotating shields, **spectrum-scrambling fields** |
-| **Malakar Requiem** · Violet Cleansing | Consecrated UV field, 240–315 nm, within 12m. **Destabilises plague-Aether while Anima Spirare reads the host's breath, fever, blood oxygen and Essence rhythm *to avoid killing them.**  • 127,300 EU + 33,600/target | Deep organ infection, sealed demonic cysts, anti-Benediction curses, **plague hidden in the Soul Crystal** |
-| **Sea-Mirror Refraction** | Bends visible light across 20m, **creating 3–9 false images** — decoys, delayed silhouettes, distorted angles. 63,660 EU + 14,850/s | Area attacks, **sound and scent tracking**, thermal vision, dust saturation |
-| **Faisal's Choir** · First Summoning | Summons **1–7 luminous eidolons for 20–90 seconds**, shaped from Aether carrying Faisal's command-pattern. *Guard allies, intercept arrows, pin demons, carry wounded, attack from multiple angles.* 265,300 EU each + 53,050/s | **Namebreaking rites**, anti-summon circles, shadow Domains, Aether starvation, concentration disruption |
-| **Crown of the Visible God** | 60m radiance field — **enemy targeting loses 30–70% accuracy; demonic Aether decays 15–40% faster.** *Visible glare blinds, infrared increases hostile heat load, violet attacks corruption, gold stabilises allies — and Judicium prevents indiscriminate harm.* 565,900 EU + 77,810/s | Void-fields, **blind fighters**, anti-light Domains, black ash, mirror labyrinths, **mixed hostage Essence** |
+| **Spectral Edict** · White Lance | **Phase-locks photons into a cutting line of light**, 400–700 nm, heating exposed steel 400–900°C. *Pierces armour seams, severs weapons, strikes through visor slits or shield gaps.* 28,000 EU + 6,000/s | Reflective wards, ceramic armour, smoke, rotating shields, **spectrum-scrambling fields** |
+| **Malakar Requiem** · Violet Cleansing | Consecrated UV field, 240–315 nm, within 12m. **Destabilises plague-Aether while Anima Spirare reads the host's breath, fever, blood oxygen and Essence rhythm *to avoid killing them.**  • 36,000 EU + 9,500/target | Deep organ infection, sealed demonic cysts, anti-Benediction curses, **plague hidden in the Soul Crystal** |
+| **Sea-Mirror Refraction** | Bends visible light across 20m, **creating 3–9 false images** — decoys, delayed silhouettes, distorted angles. 18,000 EU + 4,200/s | Area attacks, **sound and scent tracking**, thermal vision, dust saturation |
+| **Faisal's Choir** · First Summoning | Summons **1–7 luminous eidolons for 20–90 seconds**, shaped from Aether carrying Faisal's command-pattern. *Guard allies, intercept arrows, pin demons, carry wounded, attack from multiple angles.* 75,000 EU each + 15,000/s | **Namebreaking rites**, anti-summon circles, shadow Domains, Aether starvation, concentration disruption |
+| **Crown of the Visible God** | 60m radiance field — **enemy targeting loses 30–70% accuracy; demonic Aether decays 15–40% faster.** *Visible glare blinds, infrared increases hostile heat load, violet attacks corruption, gold stabilises allies — and Judicium prevents indiscriminate harm.* 160,000 EU + 22,000/s | Void-fields, **blind fighters**, anti-light Domains, black ash, mirror labyrinths, **mixed hostage Essence** |
 
 ---
 
 ## VI · Domain and Relics
 
-> **Mare Lucis — The Lucent Sea.** 90m standard / **300m under Invocation** · 120,300 EU/s sustain.
+> **Mare Lucis — The Lucent Sea.** 90m standard / **300m under Invocation** · 34,000 EU/s sustain.
 >
 > The Domain saturates the air with Aetheric lens particles. ***Every particle becomes a witness.***
 >

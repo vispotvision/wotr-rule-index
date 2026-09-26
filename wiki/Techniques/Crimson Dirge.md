@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8180-b4fd-dfe37b06f820"
 notion_url: "https://app.notion.com/p/Crimson-Dirge-3d958200eb228180b4fddfe37b06f820"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T05:03:00.000Z"
+last_edited: "2026-09-26T06:33:00.000Z"
 verification: null
 ---
 
@@ -31,19 +31,6 @@ verification: null
 **Grade required** · EX-Grade
 **Path gate** · Spirit (primary) with a Fate-adjacent component
 
-### Design Chain
-
-**Trigger** · Ritual-fast. The hymn is sung rather than declared instantaneously, but reaches full field authority well inside a single exchange.
-**Function** · Field-wide override of one Wellspring's Core Law per verse, using the caster's own guilt, emotion, and memory as the fuel that authorises the override.
-**Mechanism** · At the Wellspring stratum, each verse targets one named current and inverts or redirects its operator rather than inventing a new effect. A verse aimed at Exuroth turns the Trial Flame's ordeal-law, which normally tempers whoever survives it, into a law that simply burns. A verse aimed at Catharsis turns its release-law, "temperance through letting go," emotional weight converting to structural clarity, into involuntary release, stripping guilt or memory out of anyone caught in the field whether they consent to losing it or not. Judicium supplies the verdict layer that makes the override lawful in the first place: its law is discernment, and here it is what decides, verse by verse, which law is being altered, and confirms the override has actually taken. At the Essence stratum, the fuel is the caster's own emotional charge, guilt specifically, converted through the same Catharsis current the hymn is capable of weaponising against others, which is why every edited law costs the caster something real rather than costing the field alone.
-**Numerical Effect** · One Wellspring Core Law overridden per verse, active across a thousand-metre radius for roughly six exchanges; each override costs the caster two percent of their own memory, a fixed price stated by the working itself rather than one that scales with the target.
-**Target Response** · Matter, guilt, or memory inside the field burns, dissolves, or bleeds away according to which law the current verse has inverted. The effect is chosen by the verse, not by the target.
-**Consequence** · A prolonged engagement against this hymn is a race between how many verses the caster can afford, in memory, and how much of the field's contents can be unmade before the price catches up with the singer.
-**Limitation** · Only one law may be broken at a time; the field cannot run two inverted Wellsprings simultaneously, which is the only thing keeping its area of effect from being unconditionally lethal.
-**Weakness** · Empathy-based resonance disrupts the hymn's own tone before a verse resolves, the same Echo Fracture mechanism that punishes any mismatched Resonant Tone under Harmonia.
-**Cost** · Two percent memory bleed per law edited, borne by the caster and cumulative across a sustained hymn. A long enough Dirge costs the singer a real portion of who they are.
-**Counterplay** · Void-law seals and Archonic decrees both sit a full stratum above Wellspring Law in the cosmological hierarchy and can simply refuse to recognise an override built only on a Wellspring's authority, the same relationship that lets Titanic and Archonic Law override anything built from the Sixty alone.
-
 ### FOW line
 
 **Governing Primary and Sub-Stats** · Gnosis Acuity and Gnosis Analysis (Judicium's stated strengths, running the verdict layer); Ardency Overchannel, Tempering Overflow, and Vitality Threshold (Exuroth's stated strengths, carrying the burn); Harmonics Empathy, Tempering Maturity, and Resilience Fortification (Catharsis's stated strengths, carrying the release).
@@ -58,96 +45,59 @@ No inventor, teacher, or originating problem is known for the hymn, and its cast
 
 ---
 
-### The Two Accounts
+### Physics
 
-#### 1 · Physical account (physics)
-
-**The phenomenon in plain words.** A sung field a kilometre across. One verse reaches into a named Wellspring's own law and makes it run the wrong way, and matter or guilt or memory burns accordingly. Every verse costs the singer two percent of their memory.
-**The real phenomenon — and it is not what the page says it is.** The page says each verse "inverts or redirects its **operator**," i.e. edits a law. **A law cannot be edited or run backward.** But the *outcomes* the page describes are all reachable by a route that needs no law edited at all: **removing a stage from a process, so the same law produces the opposite result.** Both named cases work this way, and both are in the registers already.
-*Exuroth: remove the tempering interval.* Exuroth's analogue is "Quench and temper. Martensitic hardening followed by controlled reheat," and its mechanism is the cycle: "A steel quenched from austenite is hard and useless, brittle to the point of shattering. **Tempering restores toughness by permitting controlled diffusion**" (`wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`). The page says this verse "turns the Trial Flame's ordeal-law, which normally tempers whoever survives it, into a law that simply burns." **Take out the tempering interval and that is exactly what happens, and the register has already named the result: "Quench cracking. Cycle too fast without the tempering interval and the lattice arrives hard, brittle, and split along its own thermal gradients."** The law is untouched. One step was skipped.
-*Catharsis: force nucleation on a supercooled load.* Catharsis's analogue is "Latent heat of phase change. Enthalpy absorbed at constant temperature," and its stated failure is "**Supercooling.** The transition fails to nucleate, the load accumulates past the point where it should have released, and when it finally goes it goes all at once." The page says this verse converts release into **involuntary** release, "stripping guilt or memory out of anyone caught in the field whether they consent to losing it or not." **Seeding a supercooled system does precisely that:** a sodium-acetate warmer or a flask of supercooled water, given one nucleation site, crystallises through its whole volume in seconds and dumps its entire latent heat at once. **Melting ice absorbs 334 J/g at constant temperature; the reverse releases the same 334 J/g on demand, and the demand is a seed.** The law is untouched. A nucleation site was provided.
-**So the mechanism closes. The page's own description of the mechanism does not**, and the difference is not cosmetic. The Master Glyph Index states flatly: "**A glyph cannot attack a law. Laws are not the sort of thing that can be opposed**; the practitioner who tries is arguing with thermodynamics and will lose on schedule" (`wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md`). A working whose stated Function is "Field-wide override of one Wellspring's Core Law per verse" is doing the thing the Index says cannot be done. The stage-removal reading above is offered as the available close, not as a fix.
-**The governing law.** Latent heat at a phase boundary, ΔH_fus = **334 J/g** for water, released on nucleation; and the quench-temper cycle, in which toughness is a function of the *reheat interval* and not of the quench. Both are boundary-condition problems, not law problems.
-**Measurable quantities, SI.**
-- Field: up to **1,000 m** across (page) ⇒ as a sphere, (4/3)π(1,000 m)³ = **4.19×10⁹ m³**.
-- Latent heat released per gram on forced nucleation: **334 J/g** (water, the register's own figure). Over a field this size the mass involved is arbitrary; the point is that the release is **instantaneous and total**, not that it is large per gram.
-- EX-Grade band, Part Four: **1.24×10²⁹ – 6.906×10³⁷ J**, "Moon to Large Planet, 29.6 exatons to 16.512 ronnatons TNT."
-- **A caution the page inherits.** Part Four also says: "At **Zenith, Stage XIV**, speed and attack output are **no longer assessed by conventional metrics**. The character exists in a state where the Continuum's ordinary measuring systems require metaphysical recalibration to even register the practitioner's presence." **So quoting an EX joule band for a Zenith working is using a measure the system has said does not apply at that Stage.**
-- Cost: **2 %** of the caster's memory per law edited, cumulative, "a fixed price stated by the working itself rather than one that scales with the target." At 2 % per verse, **fifty verses is the whole of a mind** — a derivable lifetime the page does not state.
-- Duration: "roughly six exchanges." No attested length for an exchange.
-**The energy budget, and where the joules were.** In the field's own stored loads — thermal, emotional, and structural — which is why forced nucleation is the right mechanism and an override is not. A seed costs nothing. The 4.19×10⁹ m³ is *reach*, not supply.
-**Precedent we are not copying.** Law-breaking songs are rare and the nearest are Symphogear's Absolute Songs and the Ainur's Music — both of which *compose* reality. This one **removes a step from processes that were already running** and bills the singer in the only substance that cannot be recovered. The divergence is that the hymn does not win by being stronger than the world. It wins by knowing which interval to skip, and it loses the singer by the verse.
-
----
-
-#### 2 · Stratal account (metaphysics)
-
-**Aether stratum.** Draw across 4.19×10⁹ m³ — a claim so large that the Aether-stratum question becomes the governing one. Fulguria wants "Dry air, conductive substrate, clear line of sight"; Caloria wants "Steep thermal gradients, combustible atmosphere, geothermal ground" and is suppressed by "Thermal equilibrium, saturated cold, oxygen-poor air" (`The Eight Families & the Sixty Wellsprings`, Environmental Coupling). **Residue:** a district in which named laws have been made to run wrong is the heaviest residue the system contemplates, and the page does not discuss it at all. **Saturation is the real unanswered question here.** The system defines Aetheric Saturation as "A danger state in which excessive Essence floods an area faster than it can disperse. **Produces Crystal Fracture Events in everyone exposed, including the person who caused it**" (`The Core Vocabulary` §II).
-**Wellspring stratum.** **Judicium · *The Wellspring of Truth*** (primary, the verdict layer), Family **Fulguria** — law quoted in full in the `Lumen Dissecans` account. The page's use is correct and load-bearing: "its law is discernment, and here it is what decides, verse by verse, which law is being altered, and confirms the override has actually taken." **A working that selects one target law out of sixty needs an identification instrument, and a spectroscopic criterion is the only one in the register that can do it.**
-**Exuroth · *The Trial Flame***, Family **Caloria**. Its law, verbatim from `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md`:
-> "A steel quenched from austenite is hard and useless, brittle to the point of shattering. Tempering restores toughness by permitting controlled diffusion. Exuroth runs the Crystal on that cycle: repeated thermal shock followed by controlled recovery, so the lattice arrives at a hardness the same material could never have reached by slow cooling."
-**Catharsis · *The Wellspring of Release***, Family **Caloria**. Its law, verbatim from the same file:
-> "Melting ice at zero degrees absorbs three hundred and thirty-four joules per gram and the temperature does not move a fraction. The energy goes entirely into breaking the ordered structure. Catharsis routes accumulated emotional load into a phase transition instead of into output, so enormous internal pressure is consumed by the change of state itself and the practitioner arrives on the other side measurably calmer and structurally different."
-Register failures, and both are the technique: Exuroth's "**Quench cracking**" and Catharsis's "**Supercooling**." **The Dirge is built out of two registered failure modes, exactly as `Hypnather Descent Rite` is built out of three** — and the page does not notice that it has done this, which is why it reaches for "override" language it does not need.
-*Four Theories.* **The Debt Position**, unmistakably, and this page is its worst case. A hymn fuelled by the singer's own guilt, billing memory it cannot itemise, is a credit account with no statement. The Accord licenses under Consent; **the page describes a debt.** Noted, not resolved.
-**Essence stratum.** Active layer: the **Essence Core**, and unusually directly — the fuel is the caster's own emotional charge and the price is their memory, both Core substance, whose failure state is "Fracture into Shards" (`The Core Vocabulary` §III). The **Attraction Layer** carries the field's recognition across a kilometre. Developmental Tier at Stage XIV: **Crystallized Soul** — "Self and law correspond with near-perfect precision. An exact instrument of identity. Thought carries causal weight" (Part Twenty-One). **That gloss is worth sitting with on this page: an exact instrument of identity, spending identity by the verse.** Crystal State: `null` — the page names no caster. **The invoice:** 2 % of memory per law edited, cumulative and unrecoverable. **The system has no unit for memory, no reserve figure and no exhaustion threshold** — EU has a 10 % Starvation line, memory has nothing.
-**The lens: *nomos* against *physis*.** The sophistic distinction, sharpest in Antiphon's *On Truth* (DK 87 B44): some things bind because they are **decreed** and could be decreed otherwise, and some bind because they are **grown** and no decree touches them. Break a law of the first kind and you have committed an offence; break one of the second and you have merely failed. Every question this page raises is that question. The Dirge's entire claim is that a Wellspring's Core Law is *nomos* — an instrument with an author, amendable by an author of higher standing — and the page is internally consistent about it: Judicium supplies *"the verdict layer that makes the override lawful in the first place"*, and the Counterplay is the appellate move, since *"Void-law seals and Archonic decrees both sit a full stratum above Wellspring Law in the cosmological hierarchy and can simply refuse to recognise an override."* That is a court, not a physics. Against it stands the Master Glyph Index, which takes Core Laws for *physis* in the strongest possible terms: *"A glyph cannot attack a law. Laws are not the sort of thing that can be opposed."* The lens earns its place by making the disagreement legible as **a live in-world dispute about what kind of thing a law is**, which is a better hook than an error: a school that reads the Sixty as statute will train singers, and a school that reads them as nature will call the Dirge a very expensive way to be wrong. And the memory price fits the sophistic reading uncomfortably well. An instrument must be authorised by someone, and the singer is paying two percent of himself per clause to be that someone.
-
----
-
-#### 3 · Mechanism (the effect)
-
-**Glyph.** `[Ath]` **Command** · Root · Irath — the Index's own note that Irath's five forms include "the two heaviest words in it" is the argument — laid across `[Lh]` **Frequency** · Root · Selhar, because the working is sung and the Category is Harmonia. Both from the thirty unclassified forms in `wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md`. **And note that under the Index's own reading a glyph for this working is hard to justify at all, since the Index says a glyph cannot oppose a law. Under the stage-removal reading above, `[Ath]` on `[Tir]` Hour would be the better pair — the limit being on the *interval*, which is what actually gets removed.**
-**What boundary moves, on the honest reading.** One quantity per verse: **an interval.** The tempering interval in Exuroth's cycle. The nucleation delay in Catharsis's supercooling. Remove the interval and the same law delivers the opposite outcome, because the outcome was always a property of the *schedule*, not of the law.
-**What the law then does on its own.** All of it, and worse than intended. A quench without a temper cracks along its own thermal gradients — so the burn is not uniform, it follows the target's existing stress field. A nucleated supercooled load releases *everything* at once — so the stripping is total rather than partial, which is exactly the page's "whether they consent to losing it or not." **And the page's own limit falls out: only one law per verse, because you can only remove one interval at a time from one process and still know which process you are in.**
-**Law V check.** Stage XIV sits far above Refraction, so no material anchor is required (`wiki/The Magic System/The Four Crafts.md`). The hymn is sung anyway. **At Zenith that is pure choice, and the Four Crafts page has a note that lands hard here: Spellcraft's "Failure mode · It dissipates and takes something with it. The Essence already committed does not come back."** A sung working at Zenith is the loudest possible declaration and it is chosen.
-**Failure mode — Coherence fault.** "The practitioner's lived behaviour and their stated law have drifted apart, and the Continuum reads the drift. Output degrades, Thresholds refuse to authorise, and Traits begin to argue with their bearer. **This is the slowest fault and the one that ends careers**" (`Two Sets of Books` §VII). A singer who fuels a hymn with guilt and pays in memory is systematically destroying the record that their stated law is grounded in. **Each verse makes the next one less honest, and the Continuum reads that.** The page's cumulative memory bleed and the system's slowest fault are the same process.
-A **Field fault** is the counter: "Empathy-aligned resonance disrupts the hymn's own frequency before it can complete a verse, producing the same Echo Fracture any mismatched Resonant Tone produces against Harmonia" — and the Categories page confirms the mechanism: "Mismatched Resonant Tone produces Echo Fracture" (`wiki/The Magic System/The Magical Categories — Unified Taxonom.md`). **The page's counter is a Category-level rule quoted correctly.**
-**What the target sees and feels.** Singing, first, and from a long way off — the field is up to a thousand metres across and the hymn is *sung*, not declared, so everyone inside it hears the working being assembled. Then whichever law the current verse has taken hold of stops behaving. A verse against Exuroth turns the Trial Flame's ordeal-law, which *"normally tempers whoever survives it"*, into a law that simply burns: the same fire, the same Wellspring, none of the tempering, and nothing to survive into. A verse against Catharsis turns release into **involuntary** release, and guilt or memory is stripped out of anyone standing in the field *"whether they consent to losing it or not"* — the effect is chosen by the verse and not by the target, so there is no defending posture that changes what it does to you, only leaving. One law at a time, which is the page's own account of why the field is not unconditionally lethal: *"the field cannot run two inverted Wellsprings simultaneously, which is the only thing keeping its area of effect from being unconditionally lethal."* Roughly six exchanges of it. And the singer is paying as he goes — two percent of his own memory per law edited, cumulative, *"borne by the caster"*, so what a target watches across a long Dirge is a man trading pieces of who he is for clauses.
-**What bleeds, at the stated efficiency.** The page names no caster, so η is `null` from a card. The ladder gives Stage XIV ⇒ **Tier 8 · Archmaster**, η **0.95–1.2** (Part Nineteen) ⇒ **0–5 percent** bleed, and above η 1.0 the sign flips: "Above 1.0 the Continuum recognizes the expression as law and supplements it with ambient flow; **the environment becomes a co-author.**" **At Zenith a kilometre-wide hymn may be running at negative bleed, with the district feeding it** — which would make the memory cost the *only* real cost and would explain why the page's price is fixed rather than scaling.
-
----
-
-#### 4 · Essence ledger (units)
-
-| Quantity | Value | Derivation |
+**Phenomenon** · Each verse removes one nameable step from a process, and the same law, left to itself, delivers the opposite result. Skip steel's tempering reheat and it cracks along its own thermal gradients (quench cracking); seed a supercooled liquid and it crystallises all at once.
+**Law** · Latent heat at a phase boundary is released on nucleation, the first seed of the new phase; toughness in the quench-temper cycle is set by the reheat interval, not the quench.
+**Limit** · No law is edited and none runs backward; Core Laws stay inviolable, and only one interval can be removed from one process at a time.
+**Energy** · The joules are the field's own stored loads, thermal, emotional and structural; a seed costs nothing, and the kilometre is reach, not supply.
+| Quantity | Working | Result |
 |---|---|---|
-| EU spent | `null` | No page figure; no caster named; no Stage→EU formula. |
-| Cost in kind | **2 % of memory per law edited**, cumulative | Page, twice. **Fixed, not scaling.** No system unit for memory. |
-| Derived lifetime | **50 verses** to the whole of a mind | 100 % ÷ 2 % per verse. **Not stated on the page; falls out of its own figure.** |
-| Flux Density | `null` | No AU/s figure and no card for an unnamed caster. |
-| η | `null` from a card; **0.95–1.2** from the ladder | Stage XIV ⇒ Tier 8 (Part Five) ⇒ η band (Part Nineteen). **Above 1.0 the environment co-authors and bleed inverts.** |
-| AU/s | `null` | Needs Flux Density. |
-| Duration | `null` ("roughly six exchanges") | No attested length for an exchange. |
-| Field radius / volume | **1,000 m** / **4.19×10⁹ m³** | Page; (4/3)π(1,000 m)³. |
-| Latent heat released on forced nucleation | **334 J/g** | Register's own figure for water (`Caloria — Thermodynamics.md`), released instantaneously and totally on seeding. |
-| EX-Grade band | **1.24×10²⁹ – 6.906×10³⁷ J** | Part Four. **But Part Four also says Zenith output is not assessed by conventional metrics.** |
-| Laws overridden per verse | **1** | Page. Falls out of the mechanism: one interval removed from one identified process. |
-| Minimum Stage | **XIV · Zenith** | Page. Max Grade EX, Sub-Stat ceiling 1,500, Tier 8 · Archmaster (Part Five). |
-| Tier of Standing | **8 · Archmaster** | Part Five. |
-| Grade required | **EX** (1,201–1,500) | Page. |
-| Path gate | **Spirit (primary), Fate-adjacent** | Page. Dominion **Fate** "requires Fate Path at Stage VII to exceed S" and Dominion **Command** "requires Attraction Path at Stage VIII to exceed SS" (Part Seven). At EX-Grade both are far exceeded, so **the working needs Fate *and* Attraction commitments, and the page carries Spirit with Fate "adjacent."** |
-| Starvation margin | `null` | No EU figure, no reserve figure, no caster. |
-| Developmental Tier | **Crystallized Soul** | Stage XIV (Part Twenty-One). |
-| Crystal State | `null` | No caster named. |
+| Field volume | (4/3)π × (1,000 m)³ | 4.19 × 10⁹ m³ |
+| Latent heat of fusion, water | reference | 334 J/g, released on seeding |
+| Memory in a full six-verse Dirge | 6 × 2% | 12% |
+| Verses to the whole of a mind | 100% ÷ 2% | 50 |
 
-**Does the physics close against the stratal account?** **The outcomes close; the page's stated mechanism does not.** Both named verses are reachable by removing one interval from a process the Wellspring already runs — the tempering interval, the nucleation delay — and both results are already written in the registers as those Wellsprings' own documented failure modes. On that reading nothing overrides anything and the Index's prohibition is respected. **But the page says "override," and the Index says a glyph cannot oppose a law at all.**
-The page states its caster is "never named on the source card" and logs that as a genuine gap. **A card exists whose epithet is this technique's title:** `wiki/Volume I — Character Cards/Francis Alexander · The Crimson Dirge of Atonement.md` — Stage XIV Zenith, Level 470, EX-Grade, η 0.93, Codex "Fulguria / Electromagnetism / **Judicium primary** / Stage XIV," which matches this page's Family, Physics Domain, primary Wellspring, Stage and Grade on every line.
+### Metaphysics
 
----
+**Aether** · The draw spans four billion cubic metres. The residue is the heaviest there is: stone cracked along old stress lines, flash-frozen water, people with gaps where their guilt was, and ground where Harmonists stay deaf a long time.
+**Wellspring** · Judicium, the Wellspring of Truth (Fulguria): the verdict layer, which picks the process each verse takes and confirms the verse has taken.
+**Wellspring** · Exuroth, the Trial Flame (Caloria): repeated thermal shock then controlled recovery tempers the lattice harder than slow cooling could; the verse turns its ordeal into a fire with nothing to survive into.
+**Wellspring** · Catharsis, the Wellspring of Release (Caloria): emotional load is spent on a change of state rather than output; the verse seeds it, stripping guilt or memory from everyone in the field without consent.
+**Terrain** · Fulguria wants dry air, conductive ground and clear sight; Caloria wants steep thermal gradients, combustible air and geothermal ground, and fails in thermal equilibrium, saturated cold and oxygen-poor air.
+**Inherited failures** · The Dirge is built from two failures delivered on purpose, Exuroth's quench cracking and Catharsis's supercooling; Judicium's failures ride along and can be induced.
+**Saturation** · A kilometre field at Zenith for six turns is a saturation candidate by scale alone; past the threshold it ends in Crystal Fracture Events in everyone inside, the singer included.
+**Theory** · The Debt Position's worst case: a hymn fuelled by the singer's guilt and billing memory it cannot itemise is credit with no statement; the Accord licenses it under Consent.
+**Essence** · The Essence Core pays directly, emotional charge as fuel and memory as price, courting Fracture into Shards; the Attraction Layer carries recognition across the field. Developmental Tier Crystallized Soul.
+**School** · The singers read Core Laws as statute an author may override; the glyph-schools read them as nature no one can oppose. The mechanism works as the glyph-schools say, yet the memory price fits the singers uncomfortably well.
 
-#### 5 · Counterplay and the challenge
+### Mechanism
 
-**The Counterplay routes that work** (`wiki/The Magic System/Counterplay What Beats a Practitioner.md`).
-- **Break the boundary — the tone, not the authority.** The hymn is a sentence that must be completed *aloud*, verse by verse. Empathy-aligned resonance mismatches its tone and produces an **Echo Fracture** before the verse resolves. In the register's terms this is closest to *"Countersigning"*: *"A working that carries either of those closing conditions can be ended by an opponent who is literate enough."* A working whose closing condition is *being sung correctly* can be ended by an opponent who is **musical** enough.
-- **Break the body — a singer is a throat.** Stage XIV is far above Refraction, so the ordinary anchor attack does not apply to his chains generally — but this working is sung by definition, and *"put a hand over his mouth and a spoken one is"* finished. A kilometre of field does not protect the man in the middle of it from *"numbers, correctly used"* or from a shot.
-- **Break the man — the memory ledger, used as a clock.** Two percent per edit, cumulative. Force him to spend verses on things that do not matter — a decoy Wellspring, an ally he must un-burn, a second front — and he pays for each in the only currency the page names. The register warns against *"waiting for the cost"*; this is not waiting for it, it is **spending** it for him.
-- **Deny the field — the appellate route, and its price.** Void-law seals and Archonic decrees refuse to recognise the override. Families **Fulguria / Caloria**: *"Caloria fails in thermal equilibrium, saturated cold, and oxygen-poor air"*, and *"Fulguria fails against … dense fog and a shielded interior"* — which does not stop a law-override but does reach the Wellsprings the verses are being aimed **through**.
-**The tell, stated plainly.** Someone is singing, for a kilometre in every direction, and each verse names what is about to stop working. There is no version of this technique that is quiet.
-**The lookup trail.**
-1. `wiki/Techniques/Crimson Dirge.md` — the one-law-per-verse limit, the two percent memory price, and the Counter's Echo Fracture line.
-1. `wiki/The Magic System/The Master Glyph Index — 136 Attested Forms.md` — *"A glyph cannot attack a law. Laws are not the sort of thing that can be opposed."* A reader who finds this and then reads the Dirge has found the central dispute, and is meant to.
-1. `wiki/The Magic System/Counterplay What Beats a Practitioner.md` — "Countersigning", "Break the Man", and the warning about waiting for costs.
-1. `wiki/The Eight Families & the Sixty Wellsprings/Caloria — Thermodynamics.md` — Exuroth's ordeal-law and Catharsis's release-law in their uninverted form, which is the only way to see what a verse has done.
-1. `wiki/The Magic System/The Magical Categories — Unified Taxonom.md` — Harmonia and the Resonant Tone, so a reader can work out what an Echo Fracture is and how to cause one on purpose.
-1. `wiki/Fracture of Worlds — The Living System/II. Grades, Gates and Thresholds (Parts Four–Ten).md` — Part Seven, the Fate and Attraction gates on Dominion Fate and Dominion Command, and therefore what a pure Spirit Path singer is missing.
+**Glyph** · Command (Irath) laid across Hour (Valen), since the interval is what the verse removes, carried on Frequency (Selhar); Category Harmonia.
+**Boundary** · One interval per verse: the tempering interval in Exuroth's cycle or the nucleation delay in Catharsis's supercooling.
+**Effect** · Singing first, from far off, then the named process stops behaving. The burn follows the target's own stress lines; the stripping is total. The verse picks the effect, not the target, so no defence helps; there is only leaving.
+**Hold** · Zenith needs no anchor, but the hymn is sung, the loudest declaration there is; a failed sung working dissipates and committed Essence does not return.
+**Reach** · One process per verse, never two inverted Wellsprings at once, which alone keeps the area from being unconditionally lethal.
+**Failure** · Coherence fault: guilt as fuel and memory as price destroy the record the singer's stated law rests on, so each verse makes the next less honest, until output degrades and Traits argue with their bearer.
+**Bleed** · At η above one the singer sheds nothing and the room pays the surplus, up to 6.7 TW, and stays thin; below one, up to 5 percent leaves as heat at the Shell and sound across the field.
+
+### Essence
+
+**Practitioner** · Zenith, Archmaster, reserve 3.61 × 10⁸ to 6.70 × 10⁹ EU, η 0.95 to 1.20; EX (1,201 to 1,500) on the Spirit Path.
+**Caps** · Off their Paths, the verse's Dominion Fate is capped at S and Command at SS: it takes processes a lesser authority holds, and has no standing against a Void-law seal or an Archonic decree.
+| Quantity | Working | Result |
+|---|---|---|
+| Cost | per verse | 3% of reserve and 2% of memory |
+| Full Dirge | 6 verses | 18% of reserve, 12% of memory |
+| Mean draw | verse ÷ 6 s | 1.8 × 10⁶ to 3.35 × 10⁷ AU/s |
+| Reserve covers | 90% ÷ 18% | five full Dirges, 60% of a mind |
+
+**Cost** · Three percent of full reserve a verse, and two percent of the singer's memory, permanent and cumulative; memory, not reserve, is what runs out.
+**Duration** · Six turns, thirty-six seconds, six verses.
+
+### Counterplay
+
+**Tell** · Someone singing for a kilometre in every direction, each verse naming what is about to stop working; no quiet version. Afterwards cracked stone, frozen water, thin Aether, and people who cannot say what they felt guilty about.
+**Limits** · One process per verse, never two at once, six turns, the singer's voice occupied throughout; no reach past a Void-law seal or Archonic decree.
+**Fails against** · Empathy-aligned resonance, which mismatches the tone and causes Echo Fracture before a verse resolves; a closed throat, a wounded singer or numbers; wasted verses, each spending memory; fog, cold or Aether-dead ground.
+**Look up** · Judicium, Exuroth and Catharsis failures; the Fulguria and Caloria terrain; Echo Fracture under Harmonia; Aetheric Saturation; Void-law seals and Archonic decrees; the Zenith Stage table and the EX Grade row.

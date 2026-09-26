@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81a4-8688-c39d15abda92"
 notion_url: "https://app.notion.com/p/Liminal-Palace-of-False-Dawn-3d958200eb2281a48688c39d15abda92"
 section: "Techniques"
 tags: []
-last_edited: "2026-09-26T05:04:00.000Z"
+last_edited: "2026-09-26T06:37:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · Opalis opens a doorway of shadow-gold light and overlays a chosen false environment across up to 120 m, so that anyone inside sees, hears and feels a world she has selected rather than the one that is actually there.
 **Cost** · Fragments of her own memory bleed into the illusion, leaving her briefly unsure which version of events she personally occupied; the strain on her harmonic center from running Orrenthal and Fractura together produces migraines, afterimages, or temporary shadow-blindness.
 **Limit** · It cannot force a target to act against what they already will, only misread the surroundings they are acting in; it cannot touch physical reality, only its perceived structure, and it cannot run two full-strength contradictory illusions over the same ground.
-**Counter** · Removing or overwhelming a target's senses cuts through the overlay entirely; a caster who deliberately floods the same space with additional false interpretations clutters the Palace's available logical slots until it destabilizes on its own.
+**Counter** · Removing or overwhelming a target's senses cuts through the overlay entirely; additional false interpretations flooding the same space clutter the Palace's available logical slots until it destabilizes on its own.
 **What nobody knows** · Whether Opalis, standing inside her own Palace, always knows which layer is the true one, or whether the déjà vu she reports afterward means she sometimes loses that thread along with everyone else.
 
 ### Codex line
@@ -30,19 +30,6 @@ verification: null
 - **Stage floor:** Stage XII, Emanation (Band IV, Mythic; Level 301-400)
 - **Grade required:** SSS-Grade
 - **Path gate:** Attraction Path
-
-### Design Chain
-
-**Trigger** · Opalis traces a vertical line in the air; light splits into mirrored ribbons and opens a doorway that, once stepped through or gestured through by others, overlays her chosen environment onto the true one.
-**Function** · Within the overlay, targets perceive terrain, danger, motion and causality as Opalis has set them, while the true environment continues underneath unperceived and untouched.
-**Mechanism** · Oneirion's conceptual-form law writes a false perceptual state directly onto the target's sensory processing rather than onto the environment itself, comparable to a forced synesthetic misattribution; Basilithe's law-lock stabilizes that false state so it resists correction, and Tenebra's absorption suppresses the true sensory signal underneath it, the way sensory gating mutes a real input in favour of a competing one.
-**Numerical Effect** · SSS-Grade ceiling: 1-5 PN peak force, 418 TJ to 4.184 EJ energy yield, 100 kt to 1 Tt TNT-equivalent (Large Town to Small Country scale) stands as the ceiling on the sheer scale of perceptual field the overlay can sustain at Stage XII; nothing in that range is discharged against a body, since the working never touches physical reality.
-**Target Response** · Under Mind-State Overwrite, a target's terrain, dangers and sense of time shift to match the overlay; under False Motion/False Causality, they believe they moved, attacked or succeeded when they did not, or the reverse; when the illusion is deliberately shattered under Cataclysmic Clarity Break, the sudden correction produces vertigo, harmonic disarray, or a brief conceptual blindness.
-**Consequence** · Two contradictory illusions cannot both run at full strength over the same ground; forcing a second incompatible overlay in is what triggers the Clarity Break rather than a clean second illusion.
-**Limitation** · It cannot compel an action against a target's core will, only misdirect their reading of the surroundings; it cannot alter physical reality itself, only what is perceived of it.
-**Weakness** · Pure Basilithe-aligned beings notice the overlay's inconsistencies sooner than most; emotionless constructs resist conceptual misdirection outright; Eidolyn, Hypnather, or pure Oneirion counter-workings can corrupt or counter-map the Palace from inside it.
-**Cost** · Cognitive Fracture bleeds fragments of Opalis's own memory into the illusion, costing her certainty about which variant of reality she herself occupied; Harmonic Echo Burn is the strain Orrenthal and Fractura place on her harmonic center, producing migraines, afterimages, or temporary shadow-blindness.
-**Counterplay** · Removing or overwhelming a target's senses cuts through the layering outright; a Fractura-heavy caster can deliberately generate additional false interpretations inside the same space, cluttering the Palace's available logical slots until it destabilizes.
 
 ### FOW line
 
@@ -57,3 +44,64 @@ verification: null
 ### Origin
 
 The Palace is Opalis's own self-derived technique and requires Stage XII; anyone unfamiliar with it meets it in full the first time they are caught inside.
+
+---
+
+### Physics
+
+**Phenomenon** · Predictive perception and sensory gating: the brain reports a blend of what the senses say and what it expects, weighted by how sure each is, and it can mute one real input in favour of a competing one.
+**Law** · Bayesian cue combination: the percept is the precision-weighted posterior, so a precise enough prior overrides the input.
+**Limit** · Faking the input costs about 10⁷ bits/s per eye; writing the percept costs about 50, so the working writes only the percept and cannot touch physical reality.
+**Evidence** · Binocular rivalry flips every 2 to 4 s on constant input; the rubber-hand illusion takes 10 to 20 s; about 98 percent of adults hear the McGurk syllable never spoken.
+**Gating** · Gating attenuates by 50 to 80 percent and never removes, so some true signal always survives under the overlay for a patient observer to gather.
+| Quantity | Working | Result |
+|---|---|---|
+| Overlay | (2/3)π(120 m)³, a hemisphere | 3.62 × 10⁶ m³ |
+| Economy | 10⁷ ÷ 50 bits/s | 2 × 10⁵ |
+| Twenty targets | 20 × 50 bits/s | about 10³ bits/s |
+| Thermodynamic floor | 10³ bits/s × kT·ln2 at 310 K | about 3 × 10⁻¹⁸ W |
+
+### Metaphysics
+
+**Aether** · Spent on reach, not effect; Limina is starved by crowds, saturation and Domains, so a packed hall costs more than a ruin. It leaves no physical Residue, so it is the hardest working to prove, even for its maker.
+**Wellspring** · Oneirion, the Wellspring of Dream (Limina): every arrangement of a system is a point in a space with no location, and the working acts on that space, the percept, rather than on the room.
+**Wellspring** · Tenebra, the Hidden Shadow (Limina): a thing is unseen when its return falls below the watcher's noise floor; here it mutes the true signal beneath the overlay.
+**Wellspring** · Fractura, the Breaking Point (Vectoria): everything fails at a pre-existing flaw; here it finds where a target's hold on the room is weakest and loads the false world there.
+**Wellspring** · Basilithe, the Stone Will (Materia): a stiff body holds its frequency against forcing; it locks the false state against correction, and a pure Basilithe-aligned being sees the seams sooner.
+**Inherited failures** · Oneirion's projection error; Tenebra's aspect dependence, the one unplanned angle that shows the seams; Basilithe's resonant catastrophe, which appears as the Clarity Break.
+**Essence** · The Attraction Layer makes the outward claim (Domain Weaving) and the Essence Core pays; Developmental Tier Sovereign at Emanation.
+**School** · The Cave school rightly teaches that being turned toward the truth hurts, but promises a rigorous reasoner can infer the truth from the shadows; Basilithe's lock exists to defeat that, and its dialecticians argue inside while the sun fails to rise.
+
+### Mechanism
+
+**Glyph** · Reverie (Extension), a reverie given a perimeter, laid across Mirage (Root).
+**Boundary** · The relative weight of expectation against input inside 120 m; not the input, not the will.
+**Effect** · A traced line splits light into mirrored ribbons and a shadow-gold doorway; then terrain, danger, motion and causality are as the practitioner set them, out to 120 m, while the true room runs on underneath unmoved.
+**Modes** · Under False Motion or False Causality a target believes they moved, struck or succeeded when they did not, or the reverse, so their own report stops being evidence even to themselves.
+**Fairness** · It cannot compel against core will: a fighter who wanted to hold a doorway still does, only wrong about which doorway.
+**Hold** · Held turn by turn while the practitioner pays; ends when they stop, when its logical slots destabilise, or at the Clarity Break.
+**Correction** · Breaking the illusion brings vertigo, harmonic disarray or brief conceptual blindness, a moment of vulnerability.
+**Failure** · Boundary fault: the practitioner's own expectation is inside the reweighting, so Cognitive Fracture bleeds their memories into the overlay, cumulative across uses. Two contradictory full-strength overlays over one ground produce the Clarity Break.
+**Bleed** · 10 to 15 percent leaves as heat at the Shell, essentially the whole energetic footprint; Harmonic Echo Burn lands on the eyes as migraine, afterimage and brief shadow-blindness.
+
+### Essence
+
+**Practitioner** · Emanation, Grandmaster, reserve 1.89 × 10⁷ to 3.51 × 10⁸ EU, η 0.85 to 0.90; Grade SSS (726 to 950) in Harmonics Projection and Gnosis Cognition, on the Attraction Path.
+**Paths** · Gnosis Retention needs the Spirit Path at Glory to pass A, so only one full overlay is held ready; Gnosis Cognition's resistance to glamour needs Spirit at Flourishing to pass B, so the caster's own defence stays at B.
+**Grade** · SSS is a scale, 100 kilotons to one teraton, not a discharge: nothing is ever delivered against a body.
+| Quantity | Working | Result |
+|---|---|---|
+| Opening the Palace | 4% of reserve | 7.6 × 10⁵ to 1.4 × 10⁷ EU |
+| Holding it | 1% of reserve per turn | 1.9 × 10⁵ to 3.5 × 10⁶ EU per 6 s |
+| Cost, ten turns | 4% + 10 × 1% | 14% of reserve, 60 s |
+| Reserve covers | 90% ÷ 14% | six |
+
+**Cost** · Four percent of full reserve to open and one percent a turn to hold, plus cumulative Cognitive Fracture and Harmonic Echo Burn.
+**Duration** · Open-ended while paid, a typical Palace ten turns (60 s).
+
+### Counterplay
+
+**Tell** · A vertical line in the air, mirrored ribbons of light and a shadow-gold doorway that must be stepped or gestured through, announcing in gold what happens to all who enter; afterwards nothing on the ground, only people who disagree.
+**Limits** · No compulsion against core will, no change to physical reality, no two contradictory full-strength overlays on one ground; 120 m; crowds suppress it.
+**Fails against** · Sensory input that outweighs expectation; a blindfolded or waxed sense alongside such a flood; slots cluttered with extra false readings (Knot); constructs; blind fire into known positions; Cognitive Fracture, which spends the caster the longer it runs.
+**Look up** · The Counterplay register for Knot; the Limina, Vectoria and Materia entries for Oneirion, Tenebra, Fractura and Basilithe Failures; the Clarity Break; the Emanation Stage table and the Spirit gates.

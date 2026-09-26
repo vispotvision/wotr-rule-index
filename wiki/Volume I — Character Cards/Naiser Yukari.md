@@ -4,7 +4,7 @@ notion_id: "3b158200-eb22-81e2-87c7-df121c416fdb"
 notion_url: "https://app.notion.com/p/Naiser-Yukari-3b158200eb2281e287c7df121c416fdb"
 section: "Volume I — Character Cards"
 tags: []
-last_edited: "2026-09-26T01:35:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -54,7 +54,7 @@ Seikai refinement grants his output precision, stillness and clean directional i
 
 | Pillar | Value | Reading |
 |---|---|---|
-| **Essence Capacity** | 438,800 EU | Vast enough to sustain prolonged metaphysical engagement, **but governed with rigid discipline** |
+| **Essence Capacity** | 2,460 EU | Vast enough to sustain prolonged metaphysical engagement, **but governed with rigid discipline** |
 | **Flux Density** | 480 EU/g | Not monstrous like a pure Zettari titan-body, **but far too heavy for someone with his elegance** |
 | **Aether Output** | 340 AU/s | High enough to overwhelm lesser opponents in layered sequences, **yet controlled enough to avoid waste** |
 | **Aetheric Efficiency** | 0.89 | **Almost all of what he commits lands exactly where intended** |
@@ -86,19 +86,19 @@ His skin holds a dusky richness **that makes the silvered pallor of moonlight cl
 
 ### Core Disciplines
 
-- ****Kage no Keifu** — Genealogy of Shadow · 57,080 EU**
+- ****Kage no Keifu** — Genealogy of Shadow · 320 EU**
   He casts a layered shadow-current through his opponent's Aether expression, **forcing dormant tensions, contradictions and lineage fractures to the surface.**
 
   Against unstable enemies this causes hesitation, backlash, or loss of form. **Against disciplined enemies it still muddies tempo by making them feel every unresolved inheritance in their soul at once.**
 
   *A technique born from his own survival. He weaponises the crisis that once threatened to unmake him.*
-- ****Yukari no Mon** — Gate of the Bound Line · 96,320 EU**
+- ****Yukari no Mon** — Gate of the Bound Line · 540 EU**
   He establishes a temporary metaphysical threshold in the battlefield — **a line of pressure that marks the territory of his will.**
 
   Those who cross it without sufficient force of self experience resistance in body and spirit simultaneously, **as if entering a doctrine that has already judged them unready.**
 
   *This is less a wall than a declaration. He does not merely defend space. He defines it.*
-- ****Seikaizettai Kata** — Form of Unified Houses · 126,600 EU**
+- ****Seikaizettai Kata** — Form of Unified Houses · 710 EU**
   A combat state where **Seikai precision and Zettari bodily supremacy are brought into full synchronised expression.**
 
   His strikes become ruthlessly efficient, his steps difficult to read, his defensive structure almost unnervingly complete. **There is no wasted motion in this state.** Each action feels less like a choice **and more like an inevitability arriving.**

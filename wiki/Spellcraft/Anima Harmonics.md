@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-8121-8dd7-e9a3f7ddb270"
 notion_url: "https://app.notion.com/p/Anima-Harmonics-3d958200eb2281218dd7e9a3f7ddb270"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:01:00.000Z"
+last_edited: "2026-09-26T06:43:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · The Harmonist listens to a soul's own tone and reads the Crystal's Stage, its Traits, its damage and any foreign note in it; at higher Stages a clean projected tone lets a damaged Crystal find its own frequency again.
 **Cost** · Every turn of held quiet costs 0.5% of full reserve, so long surveillance or negotiation runs the Harmonist dry; therapy costs 2% a turn and Fell Chord surgery 5% a turn.
 **Limit** · It produces no force and no ward, it cannot lawfully tune a soul that has not consented, and nothing quieter than the room can be heard.
-**Counter** · Be loud, harden the Crystal with Basilithe or Resilience Hardening, hide below the noise floor with Tenebra, or shoot the Harmonist while they stand still and quiet.
+**Counter** · Loud surroundings, a Crystal hardened with Basilithe or Resilience Hardening, concealment below the noise floor by Tenebra, or harm to the Harmonist while they stand still and quiet.
 **What nobody knows** · Whether a Fell Chord that has sat in a Crystal long enough becomes part of its owner's own chord, and so stops being foreign at all.
 
 ### Codex line
@@ -30,19 +30,6 @@ verification: null
 **Stage floor** · Refraction
 **Grade required** · A-Grade to listen, S-Grade for therapy at Invocation, SS-Grade for Fell Chord surgery at Dissonance.
 **Path gate** · Spirit Path at Flourishing to pass B in Analysis and at Splintering to pass A in Suppression; Attraction Path at Welling to pass D in Attunement.
-
-### Design Chain
-
-**Trigger** · The Harmonist pins their own Shell's outward tone near zero and opens its gates inward beside the subject, often in a quiet hour chosen for low ground Resonance.
-**Function** · Diagnosis of a soul's state without touching it, and in restricted cases therapy by a clean reference tone.
-**Mechanism** · A Crystal rings as a sum of its natural modes: the Stage shows as a harmonic band, each Trait as its own line, a crack as a slow beat between split lines, and a Fell Chord as a line the subject's own structure cannot make.
-**Numerical Effect** · A cracked Crystal's split pair beats at 1 to 10 Hz; cutting the listener's own emission tenfold carries the read about three times as far.
-**Target Response** · The subject feels nothing while listened to; under projection they notice a foreign tone beside their own and their Crystal drifting toward it.
-**Consequence** · Damage, Trait inversion and Overcast fatigue are heard before symptoms show; Microharmonic Recalibration, Wellspring Stabilization and Emotional Resonance Therapy re-align a Crystal from within; surgery holds a counter-tone until a foreign line lets go.
-**Limitation** · It does not replace a full Coherence Ladder reading, it is impossible below Refraction, and on ground worked or fought over recently the listening range shrinks to a fraction of its ordinary distance.
-**Weakness** · A tone at the wrong frequency is Echo Fracture: the Crystal shatters instead of healing. A Harmonist whose Shell will not go quiet hears only themselves.
-**Cost** · Listening 0.5% of full reserve a turn, up to 180 turns; a five-turn therapy session 10%; a six-turn surgery 30%.
-**Counterplay** · Drums, thick Veil and Residue-heavy ground deafen it; Knot carries false lines; a projection against an unwilling Crystal sets Harmonics Attunement against Harmonics Stability, and unconsented work hands the opponent a prosecution under sacred law.
 
 ### FOW line
 
@@ -108,9 +95,9 @@ verification: null
 |---|---|---|
 | Listening to Starvation | 90% ÷ 0.5% per turn | 180 turns, 18 minutes |
 | Cost, therapy session of five turns | 5 × 2% | 10% of reserve |
-| Uses before Starvation, therapy | 90% ÷ 10% | nine |
+| Reserve covers, therapy | 90% ÷ 10% | nine |
 | Cost, surgery of six turns | 6 × 5% | 30% of reserve |
-| Uses before Starvation, surgery | 90% ÷ 30% | three, the third ending on the floor |
+| Reserve covers, surgery | 90% ÷ 30% | three, the third ending on the floor |
 
 **Cost** · Every turn of held quiet costs 0.5 percent of full reserve, so long surveillance or negotiation runs the Harmonist dry; projection pays for keeping the reference coherent, not for the energy that arrives.
 **Duration** · Listening lasts as long as the reserve pays, up to 180 turns; a therapy session runs about five turns (30 s), a surgery about six (36 s).
@@ -118,9 +105,9 @@ verification: null
 
 ### Counterplay
 
-**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside yours and your Crystal drifting to it. Afterwards, a worked Crystal carries the trace.
+**Tell** · Listening: someone gone quieter than the room and staying so, which also looks like a Tenebra user. Therapy: a foreign tone beside the subject's own and the subject's Crystal drifting to it. Afterwards, a worked Crystal carries the trace.
 **Limits** · It produces no force and no ward; therapy needs a cooperative or out-contested patient; nothing hidden below the noise floor can be read.
-**Beats it** · Be loud (a drum line, thick Veil, Residue-heavy ground); harden with Basilithe or Resilience Hardening; carry spurious lines with Knot; hide with Tenebra or Suppression; shoot the still Harmonist; make them hold the quiet long.
-**Consent** · Unconsented manipulation is punishable under sacred law, so a Harmonist caught at it, or framed for it, hands the opponent a prosecution.
+**Fails against** · Loud surroundings (a drum line, thick Veil, Residue-heavy ground); a Crystal hardened with Basilithe or Resilience Hardening; spurious lines carried with Knot; concealment by Tenebra or Suppression; harm to the still Harmonist; a quiet held long.
+**Consent** · Unconsented manipulation is punishable under sacred law, so a Harmonist caught at it, or framed for it, is open to prosecution.
 **Basilithe** · A hardened frequency cannot be retuned, but it cannot be detuned away from a forcing that matches it either; a lucky guess ruins the subject.
 **Look up** · The Wellspring entries for Mirithane, Tenebra and Basilithe; the Sub-Stat register for Harmonics Attunement, Stability and Suppression and Resilience Hardening; the Knot glyph; the Refraction, Invocation and Dissonance Stage tables.

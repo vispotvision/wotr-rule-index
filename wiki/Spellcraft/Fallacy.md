@@ -4,7 +4,7 @@ notion_id: "3d958200-eb22-81be-833b-e6e1cf0d7a59"
 notion_url: "https://app.notion.com/p/Fallacy-3d958200eb2281be833be6e1cf0d7a59"
 section: "Spellcraft"
 tags: []
-last_edited: "2026-09-26T05:29:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: null
 ---
 
@@ -17,7 +17,7 @@ verification: null
 **Effect** · A false axiom filed in the same grammar as a true one, so a Wellspring path, a Crystal's sense of its alignment or a running Draft acts on it as law until it shatters.
 **Cost** · Filing costs 5% of full reserve for a local lie, 15% for a Wellspring-path lie and 40% for a lie about a domain's god, then 0.5%, 1% or 2% a turn to hold.
 **Limit** · No Fallacy is permanent, and once collapse starts nobody can recall it, the author included; damage done while it held stays done.
-**Counter** · Bring an outside standard such as Judicium, force the Seal early so the whole offset is billed again, lock the clause beforehand, or guard the subject with Oblivara.
+**Counter** · An outside standard such as Judicium; a Seal forced early, which bills the whole offset again; a Lock on the clause beforehand; Oblivara guarding the subject.
 **What nobody knows** · Whether any law now filed in the Continuum began as a Fallacy that was simply never tested against an outside standard.
 
 ### Codex line
@@ -30,19 +30,6 @@ verification: null
 **Stage floor** · Glory
 **Grade required** · A-Grade local; S-Grade at Transcendence for a Wellspring-path lie; SS-Grade at Dissonance for a domain-god lie.
 **Path gate** · Fate Path to pass A in Sovereignty, so off it only local lies; Spirit Path at Flourishing to pass B in Cognition.
-
-### Design Chain
-
-**Trigger** · The practitioner lays Truth under Mirage and files the false clause in true grammar at the chosen scale.
-**Function** · Moves what a reader compares against, so the false clause falls inside the set of true statements and the true one outside.
-**Mechanism** · Nihiloth cancels the law already there so the lie meets no rival, Mirithane renders it faithfully so it cannot be read from inside, and Dissolution makes the later shattering run by itself.
-**Numerical Effect** · Ten turns cost 10% of full reserve locally, 25% at path scale and 60% at domain scale; a domain-scale lie holds about 25 turns after filing before Starvation.
-**Target Response** · Nobody is fooled and nobody consents: hard paths run easy, doubtful alignments read clean, refused Drafts authorise.
-**Consequence** · For the window, everything that depended on the true version is made to depend on the false one; the collapse strands it there, and the energy released exceeds what the working paid.
-**Limitation** · It cannot make the lie permanent or aim it cleanly; a false axiom corrupts everything near it, including Animatria layered over time.
-**Weakness** · A Fallacy about a law the practitioner's own path runs through is a Fallacy about the practitioner, and the collapse catches its author like anyone else.
-**Cost** · Offset of 5%, 15% or 40% of full reserve at filing, then 0.5%, 1% or 2% a turn; a Seal forced early deducts the offset again.
-**Counterplay** · Watch for a region too quiet, where laws should report and do not; bring Judicium, whose reader names a lie by its signature at the price of a minute's overload; make the practitioner hold it through a fight. Silence gives no harbour, since Fallacy never asks for authorisation.
 
 ### FOW line
 
@@ -113,7 +100,7 @@ verification: null
 | Cost, local, ten turns (60 s) | 5% + 10 × 0.5% | 10% of reserve |
 | Cost, path-scale, ten turns | 15% + 10 × 1% | 25% of reserve |
 | Cost, domain-scale, ten turns | 40% + 10 × 2% | 60% of reserve |
-| Uses before Starvation, path-scale | 90% ÷ 25% | three, the fourth unfinished |
+| Reserve covers, path-scale | 90% ÷ 25% | three, the fourth unfinished |
 | Domain-scale hold after filing | (90% − 40%) ÷ 2% per turn | 25 turns, 2 min 30 s |
 | Domain-scale, Seal forced early | offset deducted again | 80% in all; Starvation within five turns of hold |
 
@@ -124,7 +111,7 @@ verification: null
 
 **Tell** · The region is too quiet: laws that should report are silent, paths that should strain do not. Beside it a practitioner sheds heat and holds very still; afterwards, structures at the wrong height and a lasting scar.
 **Limits** · No Fallacy is permanent; an instrument calibrated elsewhere sees it, and once one arrives the working has seconds.
-**Beats it** · Lock the clause beforehand (Knot is weaker); force the Seal to bill the whole offset; bring Judicium's outside standard; guard the subject with Oblivara; make the practitioner hold it through a fight.
+**Fails against** · A Lock on the clause beforehand (Knot is weaker); a forced Seal, which bills the whole offset; Judicium's outside standard; Oblivara guarding the subject; a hold that must last, which drains the practitioner turn by turn.
 **Seal** · A false axiom is a warrant overstating standing by construction, so an early close deducts the whole offset from the speaker; the larger the lie, the larger the bill.
 **Judicium** · Every element shows only its own spectrum, so a reader names a lie by its signature; the price is spectral overload, a minute of uselessness.
 **Oblivara** · A redundantly encoded identity rebuilds its alignment from its own copies; past the correction limit the rebuild is confident, complete and wrong.

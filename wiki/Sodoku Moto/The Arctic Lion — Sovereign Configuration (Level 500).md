@@ -4,7 +4,7 @@ notion_id: "3b958200-eb22-81cb-b938-e489672d3a40"
 notion_url: "https://app.notion.com/p/The-Arctic-Lion-Sovereign-Configuration-Level-500-3b958200eb2281cbb938e489672d3a40"
 section: "Sodoku Moto"
 tags: []
-last_edited: "2026-09-26T01:37:00.000Z"
+last_edited: "2026-09-26T06:42:00.000Z"
 verification: null
 ---
 
@@ -14,7 +14,7 @@ verification: null
 > **Level 500 · Stage XII Emanation · Band V · Tier of Standing 7, Grandmaster · η 0.91**
 > **Root Phenomenon:** Sovereignty — the season that asks "will you endure?"
 > **Family:** Fulguria (Judicium) · Caloria (Vohrin) · **Domain:** Electromagnetism · Thermodynamics · **Wellsprings:** Judicium + Vohrin (co-primary) · Coagulatio + Fixatio (secondary)
-> **EU Reserve:** 1.323×10^12 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign
+> **EU Reserve:** 4,200,000 · **AU/s:** ~12,500 base / ~16,250 Resonance Circuit · **Aether Class:** I — Sovereign
 
 ---
 
@@ -53,7 +53,7 @@ verification: null
 | **INTEGRATED SYSTEMS** |  |
 | **Frost Sovereignty Field** | Passive 3m cold zone. Not a technique — a property |
 | **Resonance Circuit** | Blade + Armor conducting system. ~30% AU/s boost |
-| **Verdict Aegis** | Reversed Array. 15m flash-freeze. 14,180,000,000 EU. 90s cooldown |
+| **Verdict Aegis** | Reversed Array. 15m flash-freeze. 45,000 EU. 90s cooldown |
 | **FAILURE MODES** |  |
 | **Brittle Glacium** | Blunt-force cracks crystal plates → ward geometry lost → dead weight. Multiple cracks collapse Field + Circuit. Strength is magic. Weakness is a rock |
 | **Asami overload** | King of Winter → hairline fractures in glyph geometry. Luminous AND fragile |
@@ -82,7 +82,7 @@ Carved into sternum by Ayame's vā tapuia in her final hours. Lifespan → Hatar
 | **Effect** | Temp drop 15–25°C. Essence reduction 40–70%. Duration: 30–90s / 2–3s Titan-class |
 | **Limitation** | Requires fault-line. Cannot freeze what Kamigan cannot read |
 | **Weakness** | Vohrin signature legible to cold-trackers 3–5 min. Announces position |
-| **Cost** | 3,780,000,000 EU. White fingertips after fifth use. Physical toll |
+| **Cost** | 12,000 EU. White fingertips after fifth use. Physical toll |
 | **Vow** | None. Mercy-restriction would boost output but remove killing option |
 | **Counterplay** | Observational. Heat counter-channeling. Thermal-warded plate. Break sight-line |
 | **Codex** | Vohrin / Judicium / Coagulatio · **Caloria + Fulguria · Thermodynamics + Electromagnetism** · [FrTh]+[Edt] |
@@ -90,11 +90,11 @@ Carved into sternum by Ayame's vā tapuia in her final hours. Lifespan → Hatar
 
 #### 2. Tōketsu Giri — Frozen Severance
 
-Cut that freezes shut. Dual Vohrin thresholds. 4,410,000,000 EU. Weakness: broken seal reopens lethal wound. Codex: Vohrin/Caloria/Thermodynamics/[FrTh].
+Cut that freezes shut. Dual Vohrin thresholds. 14,000 EU. Weakness: broken seal reopens lethal wound. Codex: Vohrin/Caloria/Thermodynamics/[FrTh].
 
 #### 3. Kurai Nagare Fuyu — Rank Flow: Winter
 
-Multi-target via Edict Step. 4,725,000,000 EU/transition. Weakness: frost-trails trace path. Codex: Vohrin+Judicium+Coagulatio/Caloria+Fulguria/Thermodynamics+Electromagnetism.
+Multi-target via Edict Step. 15,000 EU/transition. Weakness: frost-trails trace path. Codex: Vohrin+Judicium+Coagulatio/Caloria+Fulguria/Thermodynamics+Electromagnetism.
 
 #### 4. Zentai Fuyu — Total Winter · SIGNATURE
 
@@ -104,7 +104,7 @@ Multi-target via Edict Step. 4,725,000,000 EU/transition. Weakness: frost-trails
 | **Planar** | All three. Physical: ice. Soul: Crystal stasis. Fate: Veil locked |
 | **Limitation** | Single target. 0.5–1s processing mandatory |
 | **Weakness** | Processing window visible to Attunement S+. Signature announces itself |
-| **Cost** | 56,700,000,000 EU. Core 33°C. Heart 40bpm. Recovery 4–8hrs. Escalating dependency. Approaches Gisei. Maximum Ruins stress |
+| **Cost** | 180,000 EU. Core 33°C. Heart 40bpm. Recovery 4–8hrs. Escalating dependency. Approaches Gisei. Maximum Ruins stress |
 | **Vow** | **None — deliberately.** Mercy-vow would multiply output. Kinslayer King cannot remove killing option. The unsworn vow weakens technique, strengthens man |
 | **Counterplay** | Move during window. Fire-domain contest. Don't let the Lion finish reading you |
 | **Codex** | Vohrin+Judicium+Coagulatio+Fixatio · **Caloria + Fulguria · Thermodynamics + Electromagnetism** · [FrTh]+[Krn] |
@@ -115,15 +115,15 @@ Multi-target via Edict Step. 4,725,000,000 EU/transition. Weakness: frost-trails
 
 #### 5. Tōdo — Permafrost
 
-30m domain. Medium-axis. 2,520,000,000 EU/s. Stationary. Weakness: opposing Domain contests. Core drops 0.5°C/min. Vow: none. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
+30m domain. Medium-axis. 8,000 EU/s. Stationary. Weakness: opposing Domain contests. Core drops 0.5°C/min. Vow: none. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
 
 #### 6. Sōkoku no Rei — Frost Edict
 
-Latin command as frost-law. 10m, 3–5s. 11,020,000,000 EU/word. Weakness: preparable if Latin recognized. Codex: Judicium+Fixatio+Vohrin/Fulguria+Caloria/Electromagnetism+Thermodynamics/[Edt].
+Latin command as frost-law. 10m, 3–5s. 35,000 EU/word. Weakness: preparable if Latin recognized. Codex: Judicium+Fixatio+Vohrin/Fulguria+Caloria/Electromagnetism+Thermodynamics/[Edt].
 
 #### 7. Shimo no Keimusho — Frost Prison
 
-Dual-layer: Fixatio + ice. 6,300,000,000 EU + 945,000,000/s. Weakness: arid = single-layer. Codex: Fixatio+Vohrin/Caloria+Materia/[ObsG].
+Dual-layer: Fixatio + ice. 20,000 EU + 3,000/s. Weakness: arid = single-layer. Codex: Fixatio+Vohrin/Caloria+Materia/[ObsG].
 
 ---
 
@@ -131,11 +131,11 @@ Dual-layer: Fixatio + ice. 6,300,000,000 EU + 945,000,000/s. Weakness: arid = si
 
 #### 8. Glacier Eye (passive)
 
-Reads faults AND strengths. Cannot turn off. 157,500,000 EU/s. Weakness: permanent amber glow. Codex: Judicium/Fulguria/Electromagnetism.
+Reads faults AND strengths. Cannot turn off. 500 EU/s. Weakness: permanent amber glow. Codex: Judicium/Fulguria/Electromagnetism.
 
 #### 9. Kōri no Iki — Breath of Ice
 
-Exhaled Vohrin. 360° diagnostic. 1,890,000,000 EU/breath. Weakness: ice in trachea after 3+. Codex: Vohrin/Caloria/Thermodynamics.
+Exhaled Vohrin. 360° diagnostic. 6,000 EU/breath. Weakness: ice in trachea after 3+. Codex: Vohrin/Caloria/Thermodynamics.
 
 ---
 
@@ -143,11 +143,11 @@ Exhaled Vohrin. 360° diagnostic. 1,890,000,000 EU/breath. Weakness: ice in trac
 
 #### 10. Kōri Ken — Ice Fist
 
-Interface frozen in disrupted state. 5–15 min recovery. 1,260,000,000 EU. Weakness: user's hand interfaces freeze. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
+Interface frozen in disrupted state. 5–15 min recovery. 4,000 EU. Weakness: user's hand interfaces freeze. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
 
 #### 11. Tōshin Ken — Frostmind Fist
 
-Cold Psychiken. Conscious inside frozen mind. 10–45s. 2,520,000,000 EU. Weakness: Sodoku's Gnosis cools 5–10s. Asami immune. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
+Cold Psychiken. Conscious inside frozen mind. 10–45s. 8,000 EU. Weakness: Sodoku's Gnosis cools 5–10s. Asami immune. Codex: Vohrin+Judicium/Caloria+Fulguria/Thermodynamics+Electromagnetism.
 
 ---
 
@@ -155,11 +155,11 @@ Cold Psychiken. Conscious inside frozen mind. 10–45s. 2,520,000,000 EU. Weakne
 
 #### 12. Fubuki x50 — Blizzard Storm
 
-50 extractions/s. Cumulative hypothermia. 4,725,000,000 EU/s. Weakness: bidirectional cooling. Codex: Vohrin+Sublimatio/Caloria/Thermodynamics.
+50 extractions/s. Cumulative hypothermia. 15,000 EU/s. Weakness: bidirectional cooling. Codex: Vohrin+Sublimatio/Caloria/Thermodynamics.
 
 #### 13. Fubuki x500 — Absolute Blizzard · SIGNATURE
 
-500 Hz. Core drop 3–5°C in 5s. 37,800,000,000 EU/s. Destroys user simultaneously. Max 3–5s. **Cannot be used in Asami.** Codex: Vohrin+Sublimatio/Caloria/Thermodynamics.
+500 Hz. Core drop 3–5°C in 5s. 120,000 EU/s. Destroys user simultaneously. Max 3–5s. **Cannot be used in Asami.** Codex: Vohrin+Sublimatio/Caloria/Thermodynamics.
 
 ---
 

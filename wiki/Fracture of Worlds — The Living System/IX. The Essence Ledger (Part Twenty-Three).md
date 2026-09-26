@@ -4,7 +4,7 @@ notion_id: "3e758200-eb22-81d4-9e1d-f161b3ed583a"
 notion_url: "https://app.notion.com/p/IX-The-Essence-Ledger-Part-Twenty-Three-3e758200eb2281d49e1df161b3ed583a"
 section: "Fracture of Worlds — The Living System"
 tags: []
-last_edited: "2026-09-26T04:33:00.000Z"
+last_edited: "2026-09-26T06:44:00.000Z"
 verification: "unverified"
 ---
 

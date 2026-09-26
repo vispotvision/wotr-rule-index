@@ -2022,3 +2022,14 @@ Politics and power
 21. Succession follows each culture's own law, set on its Inventory.
 
 Context: Combat, magic-in-society and politics questionnaire.
+
+## 2026-09-26 — night-watch-and-the-mother
+
+The Night Watch and Malphas's organization (Claude Code chat).
+
+1. The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It is a crown office: it works alongside the guilds but answers to the state.
+2. Malphas runs an organization called The Mother, after the mother of vinegar, the living culture that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft Nine coldhouse cell is one of them.
+3. The Mother is a cult.
+4. Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit and power.
+
+Context: Faction questions after the combat, society and politics questionnaire.

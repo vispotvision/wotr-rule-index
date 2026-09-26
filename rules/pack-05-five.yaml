@@ -81,7 +81,7 @@ rules:
     pack_number: 5
     section: "A"
     title: The system lives in the Codex, never in prose texture
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       The system is author-facing and document-facing — it lives in the
@@ -371,7 +371,7 @@ rules:
     pack_number: 5
     section: "C.2"
     title: Elegy is delivered flat; the reader does the mourning
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       Section 1.2's saga restraint governs elegy: state the loss and move
@@ -427,7 +427,7 @@ rules:
     pack_number: 5
     section: "C.2"
     title: One sustained elegiac passage per scene at most
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       At most one sustained elegiac passage per scene, which may sit
@@ -559,7 +559,7 @@ rules:
     pack_number: 5
     section: "D"
     title: The funeral test for a joke
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Could this line be said at a funeral, by someone who means it,

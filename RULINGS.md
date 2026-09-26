@@ -1164,3 +1164,228 @@ Research is cited as a source list at the end of each scene's or ability's notes
 
 When the partner thinks a beat is drifting or a rule reads wrong, it says so in one plain line and keeps writing unless stopped.
 
+
+## 2026-09-26 — Prose Law (R49), Claude Code chat
+
+Isaac answered the 55-question prose questionnaire in Claude Code chat. Index pack: rules/doc-prose-law-2026-09-26.yaml.
+
+### R49-01-WHOSE_HEAD
+
+In roleplay turns the narration may go to full depth inside Isaac's character; Isaac overrules any thought that isn't his.
+
+### R49-02-TENSE
+
+Tense depends on the job: roleplay turns, and work improved for a roleplay, are written in present tense; written scenes and books are written in past tense. (Isaac: "for roleplays in specific or I am having you make something better for a roleplay it should definitely be present and past for things like writing scenes books etc".)
+
+### R49-03-BAND_CAPS
+
+Lift the per-character depth caps toward deep: every major POV moves closer; the old per-character notes become flavour.
+
+### R49-04-DARIUS
+
+Darius runs deep: band 4, fusing to 5 under violence.
+
+### R49-05-ITALICS
+
+Italic direct thought appears often, whenever the POV talks to himself; more voice.
+
+### R49-06-MEMORIES
+
+Memories may run as full flashbacks, a page or more when they matter.
+
+### R49-07-EMOTIONS
+
+Emotion: show it in the body first; the POV may then name it in his own word.
+
+### R49-08-MEANING
+
+After a beat lands the POV may reflect on what it meant in his own idiom, and may be wrong; neutral narrator summaries stay banned.
+
+### R49-09-CUTAWAYS
+
+A turn may close with a short, clearly marked cut to something the POV cannot see (a Front advancing, an NPC plotting).
+
+### R49-10-EPITHETS
+
+One epithet per character per scene: the POV's epithet changes only when the POV's view of them changes, which is itself the beat.
+
+### R49-11-NOT_KNOWING
+
+The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference) become optional; no per-scene minimum.
+
+### R49-12-SHORT_FLOOR
+
+The short-sentence floor holds scene-wide: description may run long; short sentences cluster at beats and in action so the scene clears 18%.
+
+### R49-13-VARIANCE
+
+Sentence-length variation targets the guide's 80% (under 50% is the strongest tell): very uneven sentences, strong contrast between fragments and long runs.
+
+### R49-14-PARA_SHAPE
+
+Paragraph-length spread check stays as is (guide wants 50%+, checker warns under 35%); steady paragraphs vary on purpose.
+
+### R49-15-FRAGMENTS
+
+Concrete noun and image fragments are free; negative and 'Only/Just' emphasis fragments stay warned at three per scene.
+
+### R49-16-MODIFIERS
+
+Adjective stacking is by ear: stack as the sentence wants, no limit.
+
+### R49-17-OPENERS
+
+The '-ing' opener and simultaneous-action construction ('Turning, he drew the blade'; 'As he stepped in, the smell hit him') is added to the AI tells and counted by the checker.
+
+### R49-18-SIMILE_COUNT
+
+No simile rate or ceiling: only two similes competing over the same beat get flagged.
+
+### R49-19-EXTENDED
+
+Extended and stacked metaphors are both allowed by ear when they come from the POV's life.
+
+### R49-20-STOCK_PHRASE
+
+Dead metaphors are always rebuilt from the POV's own life, even when a rough POV would think the cliche.
+
+### R49-21-REIFICATION
+
+Reification has no count: judge by ear; keep only 'never at the beat' and 'object first'.
+
+### R49-22-NATURE
+
+Avoid personifying weather and landscape: the world is described, not personified.
+
+### R49-23-HIGH_STYLE
+
+Anaphora and the triad come off the tell list everywhere; always legal.
+
+### R49-24-ELEGY
+
+High elegy allowed: at a mythic moment, loss may be sung in full cadence.
+
+### R49-25-OPENINGS
+
+Openings vary by scene: arrivals open on the senses; tense scenes open in motion.
+
+### R49-26-ENDINGS
+
+Written scenes may end on an action, a concrete image, or a line of dialogue; never a summary or a question.
+
+### R49-27-SCENE_BREAKS
+
+A real jump in time or place inside a turn may be marked with a blank-line break or ornament.
+
+### R49-28-INTROS
+
+First introductions get the full physical inventory all at first sight, in one descriptive passage.
+
+### R49-29-TURN_FILL
+
+A 3,500-word turn is filled balanced: about half texture and talk, half the world moving, before the stop at the next decision.
+
+### R49-30-SHORT_BEATS
+
+Every reply is a full turn of about 3,500 words, even to a quick line or question.
+
+### R49-31-TAGS
+
+Dialogue is mostly untagged: voices sort themselves; tags only when needed.
+
+### R49-32-CUT_OFFS
+
+Interrupted speech is shown with an ellipsis ('I didn't...') and the interrupter's line follows.
+
+### R49-33-CALM_SPEECH
+
+Disfluency in calm speech is by character: some people always stumble, some never do; it is set on the card.
+
+### R49-34-STRESS
+
+Species stress tells win: the uniform stress rule governs humans; each non-human culture keeps its own stress pattern.
+
+### R49-35-SPEECH_CHECK
+
+No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses.
+
+### R49-36-LIE_TELLS
+
+Every lie leaves a catchable tell: a body tell, a fact that doesn't fit, or a detail changed later.
+
+### R49-37-ACCENTS
+
+Accents may use full dialect: heavy phonetic spelling where the culture calls for it.
+
+### R49-38-FUNERAL_TEST
+
+The funeral test is dropped for comic voices: characters whose humour is their voice may be openly funny.
+
+### R49-39-TALK_SHARE
+
+A turn's dialogue and description run balanced, about even.
+
+### R49-40-NOT_X_Y
+
+Not-X-but-Y: any pair where the second sentence corrects the first fails; plain negation standing alone is free.
+
+### R49-41-QUESTIONS
+
+Every question in narration keeps getting flagged for a read as possible hypophora.
+
+### R49-42-FILTER_VERBS
+
+Filter verbs (he saw, he heard, she felt) are counted by the checker, which warns above a rate.
+
+### R49-43-EXPLAINING
+
+Narration may explain causes anywhere, in the POV's reasoning and vocabulary; the mouth-only rules for the why of a working are struck.
+
+### R49-44-MODERN_FLAGS
+
+Modern words in narration are caught by a checker word list of banned modern words, checked automatically in narration.
+
+### R49-45-SCIENCE
+
+Real science and anatomy terms are exempt from timeless narration: they are the technical register, legal in narration and off the modern-word list.
+
+### R49-46-CHEMISTRY
+
+The chemistry ban is lifted for trained POVs: any POV with the training may read the world in science terms, scenery included.
+
+### R49-47-STAT_WORDS
+
+All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild words on its own authority.
+
+### R49-48-TECH_NAMES
+
+Technique names and their translations are free in narration.
+
+### R49-49-FOREIGN
+
+Foreign in-world words appear plain, no italics; meaning comes from context.
+
+### R49-50-OWN_BODY
+
+A trained POV (medical or fighting training) names his own wound exactly; an untrained POV keeps his own body in plain words.
+
+### R49-51-EXPLICIT
+
+Explicit narration stays plain and crude: working-man anatomical words, lush in sensation, blunt in naming.
+
+### R49-52-MEASURES
+
+Narration measures in the POV's own units; exact minutes and figures come from a trained eye, an instrument, or the notes.
+
+### R49-53-BUDGETS
+
+Per-scene budgets stay per scene (not scaled to turn length): longer turns simply run tighter.
+
+### R49-54-KHARVEN
+
+Kharven signature items: two of the five per session instead of per turn.
+
+### R49-55-TIC_WORDS
+
+The repetition tic-word list stays as it is.
+

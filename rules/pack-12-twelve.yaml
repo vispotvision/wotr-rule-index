@@ -687,7 +687,7 @@ rules:
     pack_number: 12
     section: "§5"
     title: Metaphysical numbers reach the page only in diagnostic voice
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       EU, AU/s, eta, Coherence, Grade and Band numbers may not reach
@@ -926,7 +926,7 @@ rules:
     pack_number: 12
     section: "§7"
     title: The ignorance quota and misreading budget are retained, elevated
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The ignorance quota and misreading budget survive Pack Twelve intact

@@ -139,7 +139,7 @@ rules:
     pack_number: 6
     section: "PART I.2"
     title: The chemistry ban corollary
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Real-world scientific vocabulary explaining a sensory impression is
@@ -174,7 +174,7 @@ rules:
     pack_number: 6
     section: "PART I.3"
     title: The ignorance quota, minimum one per scene
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       At least one thing per scene the POV notices and cannot interpret;
@@ -205,7 +205,7 @@ rules:
     pack_number: 6
     section: "PART I.4"
     title: The misreading budget, at least one wrong inference per scene
-    status: live
+    status: superseded
     kind: mandate
     summary: >-
       At least one POV inference per scene is wrong and is not corrected on

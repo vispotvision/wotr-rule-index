@@ -131,7 +131,7 @@ rules:
     pack_number: 14
     section: "§4"
     title: Grade letters and stat names never appear in narration
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Every stat that decided an outcome must show on the page as behaviour
@@ -317,7 +317,7 @@ rules:
     pack_number: 14
     section: "§6"
     title: "Check 28 — Narration leak"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Any Grade letter, Stage name, Band, eta, AU/s, EU figure, or Sub-Stat

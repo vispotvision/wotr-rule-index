@@ -191,7 +191,7 @@ rules:
     pack_number: 16
     section: "§5"
     title: The four explaining voices carry argument, not vocabulary
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       The four explaining voices remain the delivery system for causal
@@ -328,7 +328,7 @@ rules:
     pack_number: 16
     section: "§7"
     title: What conversion does not touch
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Conversion applies to mechanism, phenomenon, technical read, injury

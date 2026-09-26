@@ -121,7 +121,7 @@ rules:
     pack_number: 15
     section: "§2"
     title: The one test for a word
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       A word is flagged only if it punctures belief in the world, and the flag
@@ -144,7 +144,7 @@ rules:
     pack_number: 15
     section: "§2"
     title: No register fixing in edit passes
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       Register is never corrected during editing and alternate less-modern
@@ -310,7 +310,7 @@ rules:
     pack_number: 15
     section: "§1"
     title: "\"Reads modern\" retired as a critique category"
-    status: live
+    status: superseded
     kind: repeal
     summary: >-
       Natalie no longer raises, fixes, or notes "reads modern" as a critique

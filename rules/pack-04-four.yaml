@@ -602,7 +602,7 @@ rules:
     pack_number: 4
     section: "Amendment Fifteen"
     title: Two unlicensed reifications per scene, different abstractions
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       At most two unlicensed reifications per scene, of different
@@ -630,7 +630,7 @@ rules:
     pack_number: 4
     section: "Amendment Fifteen"
     title: One unlicensed reification per paragraph
-    status: live
+    status: superseded
     kind: budget
     summary: >-
       Two unlicensed reifications in a single paragraph produces a
@@ -853,7 +853,7 @@ rules:
     pack_number: 4
     section: "Addendum"
     title: "Check 17 — Reification"
-    status: live
+    status: superseded
     kind: procedure
     summary: >-
       Fails at 3+ unlicensed reification instances or any paragraph

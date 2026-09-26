@@ -659,7 +659,7 @@ rules:
     pack_number: 13
     section: "§6"
     title: Pack Six's chemistry ban is confirmed narrow in scope
-    status: live
+    status: superseded
     kind: definition
     summary: >-
       Pack Six's chemistry ban survives, but only for ambient sensory

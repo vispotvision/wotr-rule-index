@@ -24,7 +24,7 @@ def main():
         pid, _ = sap.notion_of(rel)
         blocks = list(paginate("GET", f"/blocks/{pid}/children?page_size=100"))
         texts = [plain(b) for b in blocks]
-        heads = [i for i, b in enumerate(blocks) if b["type"] == "heading_2" and texts[i].strip() == sap.HEAD]
+        heads = [i for i, b in enumerate(blocks) if b["type"] == "heading_2" and texts[i].strip() in (sap.HEAD, "Physics")]
         cut = heads[-1] if heads else len(blocks)
         issues = []
         if len(heads) != 1:
@@ -43,9 +43,8 @@ def main():
             issues.append(f"meta {meta}")
         if heads:
             sec = texts[cut:]
-            hs = [texts[i] for i in range(cut, len(blocks)) if blocks[i]["type"] == "heading_3"]
-            if hs[:1] != ["The physical account"]:
-                issues.append(f"section not clean ({hs[:1]})")
+            if texts[cut].strip() != "Physics":
+                issues.append("section not in field format")
         rows.append((key, issues))
     bad = [r for r in rows if r[1]]
     for k, i in bad:

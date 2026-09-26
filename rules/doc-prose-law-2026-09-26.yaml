@@ -1,0 +1,1374 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat, answering the prose questionnaire. Each verbatim is an exact substring of
+# its RULINGS.md entry. Standalone-ruling pattern: empty source.file.
+pack: Prose Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly, no source document'
+rules:
+- id: R49-01-WHOSE_HEAD
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Whose head
+  status: live
+  kind: mandate
+  summary: In roleplay turns the narration may go to full depth inside Isaac's character; Isaac
+    overrules any thought that isn't his.
+  verbatim: In roleplay turns the narration may go to full depth inside Isaac's character; Isaac
+    overrules any thought that isn't his.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: &id001
+  - pov
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p01: In roleplay turns your character is yours: the partner never thinks,
+    speaks or acts for him. But interiority is now deep and running. Whose inner life does a
+    turn''s narration carry?'
+- id: R49-02-TENSE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Tense
+  status: live
+  kind: mandate
+  summary: 'Tense depends on the job: roleplay turns, and work improved for a roleplay, are
+    written in present tense; written scenes and books are written in past tense. (Isaac: "for
+    roleplays in specific or I am having you make something better for...'
+  verbatim: 'Tense depends on the job: roleplay turns, and work improved for a roleplay, are
+    written in present tense; written scenes and books are written in past tense. (Isaac: "for
+    roleplays in specific or I am having you make something better for a roleplay it should
+    definitely be present and past for things like writing scenes books etc".)'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p02: No rule sets person or tense. Which should roleplay turns use? Example:
+    ''He steps into the death-house'' vs ''You step into the death-house'' vs ''He stepped into
+    the death-house''.'
+- id: R49-03-BAND_CAPS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Band caps
+  status: live
+  kind: mandate
+  summary: 'Lift the per-character depth caps toward deep: every major POV moves closer; the
+    old per-character notes become flavour.'
+  verbatim: 'Lift the per-character depth caps toward deep: every major POV moves closer; the
+    old per-character notes become flavour.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: replaces
+  supersedes:
+  - R20C-PD-PSYCHIC_DISTANCE_BANDS
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p03: New and minor POVs now default to deep interior. Named majors carry
+    depth caps: Sodoku ''never 5'', Emira ''notices and does not interpret; neither does the
+    narration'', Wren ''held at distance''. Do the ca'
+- id: R49-04-DARIUS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Darius
+  status: live
+  kind: mandate
+  summary: 'Darius runs deep: band 4, fusing to 5 under violence.'
+  verbatim: 'Darius runs deep: band 4, fusing to 5 under violence.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p04: The distance table puts Darius at band 2 (near the distant end), but
+    its note reads ''Close and hot. To 1 under violence; the world reduces to what is in reach'',
+    which describes getting closer, and his'
+- id: R49-05-ITALICS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Italics
+  status: live
+  kind: mandate
+  summary: Italic direct thought appears often, whenever the POV talks to himself; more voice.
+  verbatim: Italic direct thought appears often, whenever the POV talks to himself; more voice.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p05: With running interiority, how much of the POV''s thought is italic direct
+    thought (''*Too far. He''ll never make the gate.*'') vs free indirect narration (''Too far.
+    He would never make the gate.'')?'
+- id: R49-06-MEMORIES
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Memories
+  status: live
+  kind: mandate
+  summary: Memories may run as full flashbacks, a page or more when they matter.
+  verbatim: Memories may run as full flashbacks, a page or more when they matter.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p06: Deep interiority now includes memories. How should a memory enter the
+    page?'
+- id: R49-07-EMOTIONS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Emotions
+  status: live
+  kind: mandate
+  summary: 'Emotion: show it in the body first; the POV may then name it in his own word.'
+  verbatim: 'Emotion: show it in the body first; the POV may then name it in his own word.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p07: The checker warns on named emotion (''he felt afraid'', ''a wave of
+    relief''). In deep close POV, may the narration name what the POV feels?'
+- id: R49-08-MEANING
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Meaning
+  status: live
+  kind: mandate
+  summary: After a beat lands the POV may reflect on what it meant in his own idiom, and may
+    be wrong; neutral narrator summaries stay banned.
+  verbatim: After a beat lands the POV may reflect on what it meant in his own idiom, and may
+    be wrong; neutral narrator summaries stay banned.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p08: Glosses are banned (a sentence that only states what the last one meant)
+    and significance never lives in narration. After a beat lands, may the POV think about what
+    it meant?'
+- id: R49-09-CUTAWAYS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Cutaways
+  status: live
+  kind: mandate
+  summary: A turn may close with a short, clearly marked cut to something the POV cannot see
+    (a Front advancing, an NPC plotting).
+  verbatim: A turn may close with a short, clearly marked cut to something the POV cannot see
+    (a Front advancing, an NPC plotting).
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p09: The world moves whether or not your character is looking, but narration
+    is POV-locked and never winks at the reader. May a turn cut away to something he cannot
+    see (a Front advancing, an NPC plotting)'
+- id: R49-10-EPITHETS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Epithets
+  status: live
+  kind: mandate
+  summary: 'One epithet per character per scene: the POV''s epithet changes only when the POV''s
+    view of them changes, which is itself the beat.'
+  verbatim: 'One epithet per character per scene: the POV''s epithet changes only when the POV''s
+    view of them changes, which is itself the beat.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: adds
+  supersedes: []
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p10: Narration now names characters by POV epithets, but a live naming rule
+    says the narrator ''does not switch without a reason''. How freely may epithets vary in
+    one scene? Example: ''the Dawi'', then ''the o'
+- id: R49-11-NOT_KNOWING
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: POV and interiority
+  title: Not knowing
+  status: live
+  kind: mandate
+  summary: The not-knowing quotas (one thing the POV cannot interpret, one confident wrong inference)
+    become optional; no per-scene minimum.
+  verbatim: The not-knowing quotas (one thing the POV cannot interpret, one confident wrong
+    inference) become optional; no per-scene minimum.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: POV and interiority
+    operation: replaces
+  supersedes:
+  - R6-3-IGNORANCE_QUOTA
+  - R6-4-MISREADING_BUDGET
+  - R12-7-IGNORANCE_MISREADING_RETAINED
+  applies_to: *id001
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p11: Scenes now explain Wellsprings and rites plainly, yet every scene still
+    owes one thing the POV notices and cannot interpret, and one confident wrong inference left
+    standing. Keep both quotas?'
+- id: R49-12-SHORT_FLOOR
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Short floor
+  status: live
+  kind: mandate
+  summary: 'The short-sentence floor holds scene-wide: description may run long; short sentences
+    cluster at beats and in action so the scene clears 18%.'
+  verbatim: 'The short-sentence floor holds scene-wide: description may run long; short sentences
+    cluster at beats and in action so the scene clears 18%.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: &id002
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p12: Lush description and the full rhythm law both stand. The law also wants
+    at least 18% of sentences under 8 words (the checker fails under 10%). Lush layering tends
+    to lengthen sentences. How should the'
+- id: R49-13-VARIANCE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Variance
+  status: live
+  kind: mandate
+  summary: 'Sentence-length variation targets the guide''s 80% (under 50% is the strongest tell):
+    very uneven sentences, strong contrast between fragments and long runs.'
+  verbatim: 'Sentence-length variation targets the guide''s 80% (under 50% is the strongest
+    tell): very uneven sentences, strong contrast between fragments and long runs.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p13: Two targets disagree on sentence-length spread: the verification guide
+    calls a coefficient of variation (spread relative to average) under 50% ''the strongest
+    tell'' and wants 80%; the checker treats un'
+- id: R49-14-PARA_SHAPE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Para shape
+  status: live
+  kind: mandate
+  summary: Paragraph-length spread check stays as is (guide wants 50%+, checker warns under
+    35%); steady paragraphs vary on purpose.
+  verbatim: Paragraph-length spread check stays as is (guide wants 50%+, checker warns under
+    35%); steady paragraphs vary on purpose.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p14: You chose steady, medium paragraphs. The guide still calls paragraph-length
+    spread under 30% ''a tell'' and wants 50%+; the checker warns under 35%. Adjust?'
+- id: R49-15-FRAGMENTS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Fragments
+  status: live
+  kind: mandate
+  summary: Concrete noun and image fragments are free; negative and 'Only/Just' emphasis fragments
+    stay warned at three per scene.
+  verbatim: Concrete noun and image fragments are free; negative and 'Only/Just' emphasis fragments
+    stay warned at three per scene.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p15: Short fragments like ''Not yet.'' or ''Only the cold.'' are warned as
+    manufactured emphasis at three per scene. Concrete fragments (''Blood. On the snow, on his
+    hands.'') are also common hits. Which fragmen'
+- id: R49-16-MODIFIERS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Modifiers
+  status: live
+  kind: mandate
+  summary: 'Adjective stacking is by ear: stack as the sentence wants, no limit.'
+  verbatim: 'Adjective stacking is by ear: stack as the sentence wants, no limit.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p16: No rule limits adjective stacking. With lush description, how many modifiers
+    can a noun carry? Example: ''the cracked bowl'' vs ''the old, cracked, smoke-black bowl''.'
+- id: R49-17-OPENERS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Rhythm and paragraphs
+  title: Openers
+  status: live
+  kind: mandate
+  summary: The '-ing' opener and simultaneous-action construction ('Turning, he drew the blade';
+    'As he stepped in, the smell hit him') is added to the AI tells and counted by the checker.
+  verbatim: The '-ing' opener and simultaneous-action construction ('Turning, he drew the blade';
+    'As he stepped in, the smell hit him') is added to the AI tells and counted by the checker.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Rhythm and paragraphs
+    operation: adds
+  supersedes: []
+  applies_to: *id002
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p17: No rule covers the ''-ing'' opener or simultaneous action (''Turning,
+    he drew the blade'' / ''As he stepped in, the smell hit him''), a common machine-prose habit.
+    Limit it?'
+- id: R49-18-SIMILE_COUNT
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Simile count
+  status: live
+  kind: mandate
+  summary: 'No simile rate or ceiling: only two similes competing over the same beat get flagged.'
+  verbatim: 'No simile rate or ceiling: only two similes competing over the same beat get flagged.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: adds
+  supersedes: []
+  applies_to: &id003
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p18: Similes are loosened but the guide still sets 1 per ~500 words, a ceiling
+    of about 8 a scene, and the checker warns at two in one paragraph. At 3,500-word turns,
+    what number?'
+- id: R49-19-EXTENDED
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Extended
+  status: live
+  kind: mandate
+  summary: Extended and stacked metaphors are both allowed by ear when they come from the POV's
+    life.
+  verbatim: Extended and stacked metaphors are both allowed by ear when they come from the POV's
+    life.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p19: May one metaphor run across a paragraph? Example: a Kharven hunter reading
+    a battlefield as a butchered carcass, joint by joint. ''Stacked metaphors'' (several images
+    in one sentence) are on the tell li'
+- id: R49-20-STOCK_PHRASE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Stock phrase
+  status: live
+  kind: mandate
+  summary: Dead metaphors are always rebuilt from the POV's own life, even when a rough POV
+    would think the cliche.
+  verbatim: Dead metaphors are always rebuilt from the POV's own life, even when a rough POV
+    would think the cliche.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p20: Dead metaphors (''his blood ran cold'', ''heart pounding'') are a listed
+    tell. When a rough soldier''s POV would think exactly that cliché, keep it?'
+- id: R49-21-REIFICATION
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Reification
+  status: live
+  kind: mandate
+  summary: 'Reification has no count: judge by ear; keep only ''never at the beat'' and ''object
+    first''.'
+  verbatim: 'Reification has no count: judge by ear; keep only ''never at the beat'' and ''object
+    first''.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: replaces
+  supersedes:
+  - R4-15-TWO_PER_SCENE_BUDGET
+  - R4-15-ONE_PER_PARAGRAPH
+  - R4-ADD-CHECK17
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p21: An abstract noun handled like an object (''the silence sat between them'')
+    is capped at two per scene, one per paragraph, never at the beat; ledger-type things (a
+    debt, a claim) are free. With lush, ima'
+- id: R49-22-NATURE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Nature
+  status: live
+  kind: mandate
+  summary: 'Avoid personifying weather and landscape: the world is described, not personified.'
+  verbatim: 'Avoid personifying weather and landscape: the world is described, not personified.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p22: Is personified weather and landscape (''the wind clawed at the tent'',
+    ''the river swallowed him'') on the same budget, or free as lush description?'
+- id: R49-23-HIGH_STYLE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: High style
+  status: live
+  kind: mandate
+  summary: Anaphora and the triad come off the tell list everywhere; always legal.
+  verbatim: Anaphora and the triad come off the tell list everywhere; always legal.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: adds
+  supersedes: []
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p23: Mythic high style is now allowed in narration, but its signature devices
+    (anaphora: ''They came... They came...''; the triad: ''the sword, the oath, the grave'')
+    are on the tell list. Inside a high-style '
+- id: R49-24-ELEGY
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Figurative language
+  title: Elegy
+  status: live
+  kind: mandate
+  summary: 'High elegy allowed: at a mythic moment, loss may be sung in full cadence.'
+  verbatim: 'High elegy allowed: at a mythic moment, loss may be sung in full cadence.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Figurative language
+    operation: replaces
+  supersedes:
+  - R5-C2-FLAT_DELIVERY
+  - R5-C2-ONE_PASSAGE_BUDGET
+  applies_to: *id003
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p24: Elegy is delivered flat (''describe the rust in full and the grief in
+    three words''), at most one elegiac passage per scene, never the closing beat. With mythic
+    style and lush description allowed, keep '
+- id: R49-25-OPENINGS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Openings
+  status: live
+  kind: mandate
+  summary: 'Openings vary by scene: arrivals open on the senses; tense scenes open in motion.'
+  verbatim: 'Openings vary by scene: arrivals open on the senses; tense scenes open in motion.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: &id004
+  - scene-structure
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p25: Two rules pull on openings: the Scene Standards want a layered sensory
+    opening (smell, texture, sound); the light-novel rule wants chapters to open inside the
+    situation. Which leads?'
+- id: R49-26-ENDINGS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Endings
+  status: live
+  kind: mandate
+  summary: Written scenes may end on an action, a concrete image, or a line of dialogue; never
+    a summary or a question.
+  verbatim: Written scenes may end on an action, a concrete image, or a line of dialogue; never
+    a summary or a question.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p26: Scenes must end on physical action, turns may also stop on an NPC line
+    or a thing he can now see, chapters want a hook, and you find beauty in what goes unsaid.
+    How should written scenes end?'
+- id: R49-27-SCENE_BREAKS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Scene breaks
+  status: live
+  kind: mandate
+  summary: A real jump in time or place inside a turn may be marked with a blank-line break
+    or ornament.
+  verbatim: A real jump in time or place inside a turn may be marked with a blank-line break
+    or ornament.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p27: Section spacers are banned, but 3,500-word turns may now skip dull stretches.
+    How is a jump in time or place marked inside a turn?'
+- id: R49-28-INTROS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Intros
+  status: live
+  kind: mandate
+  summary: First introductions get the full physical inventory all at first sight, in one descriptive
+    passage.
+  verbatim: First introductions get the full physical inventory all at first sight, in one descriptive
+    passage.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p28: A first introduction gets a full physical inventory on first sight (hair,
+    face, body, clothes and wear, marks). Should it land all at once?'
+- id: R49-29-TURN_FILL
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Turn fill
+  status: live
+  kind: mandate
+  summary: 'A 3,500-word turn is filled balanced: about half texture and talk, half the world
+    moving, before the stop at the next decision.'
+  verbatim: 'A 3,500-word turn is filled balanced: about half texture and talk, half the world
+    moving, before the stop at the next decision.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p29: A turn still stops at your character''s next decision and never resolves
+    several decisions at once. What should fill 3,500 words before that stop?'
+- id: R49-30-SHORT_BEATS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Openings, endings, shape
+  title: Short beats
+  status: live
+  kind: mandate
+  summary: Every reply is a full turn of about 3,500 words, even to a quick line or question.
+  verbatim: Every reply is a full turn of about 3,500 words, even to a quick line or question.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Openings, endings, shape
+    operation: adds
+  supersedes: []
+  applies_to: *id004
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p30: Turns are about 3,500 words. When you ask a quick in-character question
+    or say one line, does the reply still run long?'
+- id: R49-31-TAGS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Tags
+  status: live
+  kind: mandate
+  summary: 'Dialogue is mostly untagged: voices sort themselves; tags only when needed.'
+  verbatim: 'Dialogue is mostly untagged: voices sort themselves; tags only when needed.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: &id005
+  - dialogue
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p31: No rule covers dialogue tags. Which style? Example: ''"Get down," he
+    said.'' / ''"Get down," he hissed urgently.'' / ''"Get down." His hand was already on her
+    collar.'''
+- id: R49-32-CUT_OFFS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Cut-offs
+  status: live
+  kind: mandate
+  summary: Interrupted speech is shown with an ellipsis ('I didn't...') and the interrupter's
+    line follows.
+  verbatim: Interrupted speech is shown with an ellipsis ('I didn't...') and the interrupter's
+    line follows.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p32: Em dashes are banned everywhere, dialogue included. How is interrupted
+    speech shown? Example: ''I didn''t—'' is illegal.'
+- id: R49-33-CALM_SPEECH
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Calm speech
+  status: live
+  kind: mandate
+  summary: 'Disfluency in calm speech is by character: some people always stumble, some never
+    do; it is set on the card.'
+  verbatim: 'Disfluency in calm speech is by character: some people always stumble, some never
+    do; it is set on the card.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p33: Invented dialogue must show false starts, self-repair, interruption
+    and trailing off ''as craft law''. How much of that in calm conversation?'
+- id: R49-34-STRESS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Stress
+  status: live
+  kind: mandate
+  summary: 'Species stress tells win: the uniform stress rule governs humans; each non-human
+    culture keeps its own stress pattern.'
+  verbatim: 'Species stress tells win: the uniform stress rule governs humans; each non-human
+    culture keeps its own stress pattern.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p34: One rule says stress makes speech shorter and simpler ''the same way
+    in every human being''. Others give non-humans their own stress tells: Fleshshapers grow
+    more procedural, the Host more precise and s'
+- id: R49-35-SPEECH_CHECK
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Speech check
+  status: live
+  kind: mandate
+  summary: 'No exemption for the crafted speech: even it must pass the composure check, eloquent
+    without balanced parallel clauses.'
+  verbatim: 'No exemption for the crafted speech: even it must pass the composure check, eloquent
+    without balanced parallel clauses.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p35: You allowed one crafted, eloquent speech at a big moment. The composure
+    check flags long, balanced, parallel lines and the old script fails a scene where they cluster.
+    How should the checker treat tha'
+- id: R49-36-LIE_TELLS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Lie tells
+  status: live
+  kind: mandate
+  summary: 'Every lie leaves a catchable tell: a body tell, a fact that doesn''t fit, or a detail
+    changed later.'
+  verbatim: 'Every lie leaves a catchable tell: a body tell, a fact that doesn''t fit, or a
+    detail changed later.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p36: NPCs now lie often and you have to catch them. How should a lie show
+    on the page?'
+- id: R49-37-ACCENTS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Accents
+  status: live
+  kind: mandate
+  summary: 'Accents may use full dialect: heavy phonetic spelling where the culture calls for
+    it.'
+  verbatim: 'Accents may use full dialect: heavy phonetic spelling where the culture calls for
+    it.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p37: Accents are a menu now, not law. How much phonetic spelling in dialogue?
+    Example: ''We''re goin'' in'' vs ''We are going in'' said by a Fleshshaper.'
+- id: R49-38-FUNERAL_TEST
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Funeral test
+  status: live
+  kind: mandate
+  summary: 'The funeral test is dropped for comic voices: characters whose humour is their voice
+    may be openly funny.'
+  verbatim: 'The funeral test is dropped for comic voices: characters whose humour is their
+    voice may be openly funny.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: replaces
+  supersedes:
+  - R5-D-FUNERAL_TEST
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p38: Humour is now ''wherever it''s earned; funny characters are funny often''.
+    The funeral test still cuts any joke that needs a comedic frame. Keep it?'
+- id: R49-39-TALK_SHARE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Dialogue
+  title: Talk share
+  status: live
+  kind: mandate
+  summary: A turn's dialogue and description run balanced, about even.
+  verbatim: A turn's dialogue and description run balanced, about even.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Dialogue
+    operation: adds
+  supersedes: []
+  applies_to: *id005
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p39: No rule sets how much of a turn is dialogue. With lush description and
+    3,500 words, what balance?'
+- id: R49-40-NOT_X_Y
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Constructions and tells
+  title: Not X, Y
+  status: live
+  kind: mandate
+  summary: 'Not-X-but-Y: any pair where the second sentence corrects the first fails; plain
+    negation standing alone is free.'
+  verbatim: 'Not-X-but-Y: any pair where the second sentence corrects the first fails; plain
+    negation standing alone is free.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Constructions and tells
+    operation: adds
+  supersedes: []
+  applies_to: &id006
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p40: The not-X-but-Y ban has eleven forms, including ''negation-correction''
+    across sentences (''He did not raise his voice. He lowered it.''). Plain negation is often
+    how ''what goes unsaid'' is written (''He di'
+- id: R49-41-QUESTIONS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Constructions and tells
+  title: Questions
+  status: live
+  kind: mandate
+  summary: Every question in narration keeps getting flagged for a read as possible hypophora.
+  verbatim: Every question in narration keeps getting flagged for a read as possible hypophora.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Constructions and tells
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p41: The checker flags any question in narration as possible hypophora (asking
+    to answer). Deep interiority often thinks in questions (''Was it the ice? It had to be the
+    ice.''). Allow?'
+- id: R49-42-FILTER_VERBS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Constructions and tells
+  title: Filter verbs
+  status: live
+  kind: mandate
+  summary: Filter verbs (he saw, he heard, she felt) are counted by the checker, which warns
+    above a rate.
+  verbatim: Filter verbs (he saw, he heard, she felt) are counted by the checker, which warns
+    above a rate.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Constructions and tells
+    operation: adds
+  supersedes: []
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p42: No rule covers filter verbs, the ''he saw'', ''he heard'', ''she felt''
+    that stand between reader and thing. Deep POV usually cuts them: ''He heard the ice crack''
+    becomes ''The ice cracked.'' Cut them?'
+- id: R49-43-EXPLAINING
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Constructions and tells
+  title: Explaining
+  status: live
+  kind: mandate
+  summary: Narration may explain causes anywhere, in the POV's reasoning and vocabulary; the
+    mouth-only rules for the why of a working are struck.
+  verbatim: Narration may explain causes anywhere, in the POV's reasoning and vocabulary; the
+    mouth-only rules for the why of a working are struck.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Constructions and tells
+    operation: replaces
+  supersedes:
+  - R16-5-VOICES_VS_VOCABULARY
+  - R5-A-OPERATIVE_CONSEQUENCE
+  - R9-2-UNTOUCHED_BANS
+  applies_to: *id006
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p43: Narration may now use technical words freely and scenes explain the
+    world plainly, but older live rules still say explanation of why a working worked needs
+    a mouth, ''because/so that'' belong only in a '
+- id: R49-44-MODERN_FLAGS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Modern flags
+  status: live
+  kind: mandate
+  summary: Modern words in narration are caught by a checker word list of banned modern words,
+    checked automatically in narration.
+  verbatim: Modern words in narration are caught by a checker word list of banned modern words,
+    checked automatically in narration.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: replaces
+  supersedes:
+  - R15-1-READS_MODERN_STRUCK
+  - R15-2-NO_REGISTER_EDIT
+  - R15-2-ONE_TEST
+  applies_to: &id007
+  - register
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p44: You now want narration timeless, with modern words in speech only. But
+    live rules still say ''reads modern'' is never raised and register is never fixed in an
+    edit pass. Who catches a modern word in nar'
+- id: R49-45-SCIENCE
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Science
+  status: live
+  kind: mandate
+  summary: 'Real science and anatomy terms are exempt from timeless narration: they are the
+    technical register, legal in narration and off the modern-word list.'
+  verbatim: 'Real science and anatomy terms are exempt from timeless narration: they are the
+    technical register, legal in narration and off the modern-word list.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p45: Timeless narration and technical words ''freely'' meet at terms like
+    ''adrenaline'', ''hypovolaemic'', ''pressure differential''. Are real science terms exempt
+    from timelessness?'
+- id: R49-46-CHEMISTRY
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Chemistry
+  status: live
+  kind: mandate
+  summary: 'The chemistry ban is lifted for trained POVs: any POV with the training may read
+    the world in science terms, scenery included.'
+  verbatim: 'The chemistry ban is lifted for trained POVs: any POV with the training may read
+    the world in science terms, scenery included.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: replaces
+  supersedes:
+  - R6-2-CHEMISTRY_BAN
+  - R13-6-CHEMISTRY_BAN_SCOPE
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p46: The chemistry ban bars science explaining ordinary sensory description
+    unless the POV practises that craft. Example banned: ''the lime gave up its heat as calcium
+    oxide slaked in the rain'' in a scene a'
+- id: R49-47-STAT_WORDS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Stat words
+  status: live
+  kind: mandate
+  summary: 'All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild
+    words on its own authority.'
+  verbatim: 'All free: narration may state stat names, Grades, Stages, eta, EU figures and Guild
+    words on its own authority.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: replaces
+  supersedes:
+  - R14-4-EFFECTS_CHANNEL
+  - R14-6-CHECK28
+  - R12-5-NUMBERS_DIAGNOSTIC_ONLY
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p47: Wellspring and glyph names are now free in narration, but stat names,
+    Grade letters, Stages, eta, EU figures and Guild words like ''coupling'' still fail outside
+    a mouth, italics or a document. Keep tha'
+- id: R49-48-TECH_NAMES
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Tech names
+  status: live
+  kind: mandate
+  summary: Technique names and their translations are free in narration.
+  verbatim: Technique names and their translations are free in narration.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: replaces
+  supersedes:
+  - R8-26-NAME_NEVER_NARRATED
+  - R8-26-GLOSS_NEVER_IN_PROSE
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p48: A technique''s true name is ''spoken, never narrated'', and its translation
+    (gloss) never appears in prose. With narration now naming Wellsprings freely, keep that
+    for techniques?'
+- id: R49-49-FOREIGN
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Foreign
+  status: live
+  kind: mandate
+  summary: Foreign in-world words appear plain, no italics; meaning comes from context.
+  verbatim: Foreign in-world words appear plain, no italics; meaning comes from context.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p49: No rule covers foreign words in narration (Japonic, Kharven, Latin).
+    Example: ''She offered him the skin'' vs ''She offered him *airag*''.'
+- id: R49-50-OWN_BODY
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Own body
+  status: live
+  kind: mandate
+  summary: A trained POV (medical or fighting training) names his own wound exactly; an untrained
+    POV keeps his own body in plain words.
+  verbatim: A trained POV (medical or fighting training) names his own wound exactly; an untrained
+    POV keeps his own body in plain words.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: replaces
+  supersedes:
+  - R16-7-NOT_CONVERTED
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p50: Wounds are now full clinical gore with anatomy named, but a live rule
+    keeps the POV''s own body in plain words (''Chest, hands, gut. Story first''). When the
+    POV is the one wounded?'
+- id: R49-51-EXPLICIT
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Explicit
+  status: live
+  kind: mandate
+  summary: 'Explicit narration stays plain and crude: working-man anatomical words, lush in
+    sensation, blunt in naming.'
+  verbatim: 'Explicit narration stays plain and crude: working-man anatomical words, lush in
+    sensation, blunt in naming.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p51: Explicit scenes use plain anatomical vocabulary and committed sound
+    words. With narration now timeless, lush and image-led, what register should explicit narration
+    take?'
+- id: R49-52-MEASURES
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: Word choice
+  title: Measures
+  status: live
+  kind: mandate
+  summary: Narration measures in the POV's own units; exact minutes and figures come from a
+    trained eye, an instrument, or the notes.
+  verbatim: Narration measures in the POV's own units; exact minutes and figures come from a
+    trained eye, an instrument, or the notes.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: Word choice
+    operation: adds
+  supersedes: []
+  applies_to: *id007
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p52: Blood loss is tracked minute by minute and figures appear when measured,
+    but a Kharven POV counts time in ''a fire''s length'' and ''a broth''. How does narration
+    measure?'
+- id: R49-53-BUDGETS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: The checker
+  title: Budgets
+  status: live
+  kind: mandate
+  summary: 'Per-scene budgets stay per scene (not scaled to turn length): longer turns simply
+    run tighter.'
+  verbatim: 'Per-scene budgets stay per scene (not scaled to turn length): longer turns simply
+    run tighter.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The checker
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p53: Several budgets are counted per scene: 4 flat sentence runs fail, 2
+    reifications, 1 ''rather than'', 1 unexplained thing. Turns are now 3,500 words and set
+    pieces 5,000+. Scale them?'
+- id: R49-54-KHARVEN
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: The checker
+  title: Kharven
+  status: live
+  kind: mandate
+  summary: 'Kharven signature items: two of the five per session instead of per turn.'
+  verbatim: 'Kharven signature items: two of the five per session instead of per turn.'
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The checker
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p54: Every Kharven scene must show two of five signature items (the woodpile,
+    the night-stone, ''wet wood'', the Thin Weeks, the death-house) or the checker fails it.
+    On every 3,500-word turn, that risks a t'
+- id: R49-55-TIC_WORDS
+  pack: Prose Law 2026-09-26
+  pack_number: null
+  section: The checker
+  title: Tic words
+  status: live
+  kind: mandate
+  summary: The repetition tic-word list stays as it is.
+  verbatim: The repetition tic-word list stays as it is.
+  amends:
+  - guide: NATALIE.md and the wotr-write skill
+    locus: The checker
+    operation: adds
+  supersedes: []
+  applies_to:
+  - verification
+  - prose-law
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (prose questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: 'Question p55: The repetition check flags words used 4+ times from a list that includes
+    ''beautiful'', ''suddenly'', ''carefully'', ''precisely'', ''arithmetic''. Add your own
+    pet hates?'

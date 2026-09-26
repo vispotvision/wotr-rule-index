@@ -540,7 +540,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: A true name is spoken, never narrated
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       The true name is spoken by a character; it never appears in
@@ -566,7 +566,7 @@ rules:
     pack_number: 8
     section: "2.6"
     title: The gloss never appears in prose
-    status: live
+    status: superseded
     kind: ban
     summary: >-
       The gloss never appears in prose, with no translation apposition; the

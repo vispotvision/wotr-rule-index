@@ -6,6 +6,116 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-6 — all twenty Spellcraft system accounts are written)
+
+**The Spellcraft section is done.** `imports/system-accounts/Spellcraft/` carries
+**twenty** accounts, one per page on the issue's list, each with the five sections
+Isaac's two addenda require: the physical account, the stratal account closing on a
+credited **lens**, **Mechanism (the effect)** with no separate effect description
+anywhere, the ledger in Essence Units with every derivation shown as arithmetic, and
+**Counterplay and the challenge** with a pass/fail fairness check and a lookup trail.
+`_conflicts.jsonl` is now **395 rows**, all unique, every row cited by at least one
+account and every `SA-` identifier in any account resolving to a row (checked
+mechanically). **134 of the rows belong to this section's twenty pages** — 125 filed
+against `wiki/Spellcraft/` and 9 against the governing Veil entry — by kind:
+`gap` 43 · `cross-page` 31 · `physics-open` 20 · `number` 10 · `unattested` 11 ·
+`fairness` 9 · `effect-mechanism` 5 (and one `cross-page` on the retired Spellcraft
+Veil page). **Nothing is resolved.** `python build/validate.py` PASS at every commit.
+
+**Seven accounts were written in this run** — Anointing (the sixth batch's account was
+on disk without its rows), then Fallacy, Invert Eidolon, Precept, Transposition,
+Vainglory and The Veil — in four commits, `8c70370`, `bb4eddc`, `5c28657`, `e9d8788`.
+
+**What the last seven turned up, shortest first.**
+
+- **Two pages state no Temperance Stage at all**, Fallacy and Precept, and they are the
+  only two in the section. Because Max Grade, Sub-Stat ceiling, Tier of Standing, η,
+  Developmental Tier and every Path gate are read from Stage, one missing field empties
+  nine ledger rows. The system therefore currently forbids a Mechanica working
+  (Fallacy) it cannot price, gate or rank, and lets anyone at all found a dynasty's law
+  (Precept).
+- **Fallacy cannot be both Mechanica-primary and run on three Wellsprings.** Mechanica
+  is *defined* as the absence of lawful Wellspring participation; the page names
+  Nihiloth, Dissolution and Mirithane. It also asserts two incompatible collapses of the
+  same working — Spellcraft durability (caster-held, ends when attention lapses) and
+  Phenomena (has outrun its own Attraction Layer), logged `effect-mechanism`.
+- **Invert Eidolon's history is unpayable by a factor of tens.** The Discipline's
+  sustain is 10,000–25,000 EU/s, so the page's mass-casualty event — *multiple*
+  Inverted Eidolons at once — costs 50,000–75,000 EU/s, and Muken's 1,850,000 EU, the
+  largest reserve attested anywhere in the batch, buys three constructs for about
+  twenty seconds. Its bleed at Tier 6 η is 5.0–7.5 **GW** under R44-1 with no stated
+  destination, which is `physics-check.md`'s structural failure arriving at the high end
+  of the corpus instead of the low.
+- **Transposition's advertised uses are gated out rather than gated high.** Complete
+  exchange between coupled oscillators requires degeneracy; a detuned pair is bounded at
+  4κ²/(4κ²+Δ²) at *every* Stage, and a memory traded for an object is the maximally
+  detuned case. No Stage closes a Δ. Transfer also falls as 1/d⁶, so doubling the
+  separation divides it by **sixty-four**, which makes the Anchor Construct a repeater
+  rather than a stabiliser and makes *stand further away* the cheapest counter in the
+  section.
+- **Vainglory has Mirithane's Failure backwards, and that is why its drain is
+  uncomputable.** The register's Failure is *involuntary honesty* — the mirror does not
+  discriminate — so Vainglory **overrules** the current rather than failing it, which
+  means it has to supply gain continuously and therefore diverges exponentially. The
+  page's own phrase for the consequence is *"an unbudgeted drain"*, and getting the
+  attribution right is what would let anyone budget it. Its ending is also unruled: a
+  loop above unity either **saturates** (a stable rival, Yelara Vintress) or **damages
+  the cavity** (Raziel Ados, *"consumed by the result"*), and the page asserts both.
+- **Vainglory also carries the one good number in the section.** 75,000 EU at
+  `Spellcraft/Vainglory.md:28` delivers 4.5–5.25 × 10¹⁰ J at the ruled η against an
+  A-Grade band opening at 4.6024 × 10¹⁰ — **inside the band**, and it got there because
+  **R44-4** raised Tier 5's η by 18 %. `reports/eu_band_sweep_2026-09-25.md`:61 records
+  it as the only row that moved into band. Everything else in this batch is a miss.
+- **The Veil is not a working and its Spellcraft page is a retired redirect** (retired
+  2026-09-15). The account is written against
+  `wiki/Cosmology & Metaphysics/The Veil.md` and says so at its head; both facts are
+  logged rather than smoothed over. Read as evanescent transmission (crossing cost is
+  **exponential** in local boundary thickness, so *"less"* and *"significantly more"*
+  are the two ends of an exponential, not of a range), dielectric breakdown at a rupture
+  (which is why *"a single practitioner, regardless of Temperance, cannot seal a
+  significant rupture alone"* is correct engineering), and **per-cycle irreversible
+  damage** for Soul Drift.
+- **Soul Drift is the best cost in the section and cannot be spent.** The page states
+  that it accumulates per crossing, in increments, without recovery, and names the
+  endpoint — the Veil Pilgrims. That is a cycle count, so an N exists by the page's own
+  description, and the system states no N, no increment and no threshold. It is also
+  **Transference's own reverse coupling** measured in years rather than minutes, and the
+  page describes the symptom without citing the Failure that produces it. Both logged.
+- **Two findings that close rather than break, and are worth keeping.** Fixatio's Core
+  Law — *"what it holds is not held by force but by the fact that the alternative
+  configuration no longer exists as a reachable state"* — **is** a photonic band gap and
+  a holonomic constraint, word for word, which is why a Precept costs nothing to hold
+  (constraint forces do zero virtual work) and outlives its author. And the counter the
+  Precept page gestures at, *"unmade by a correction to the law, not by breaking the
+  stone"*, is a **defect state**: one notch in the periodicity opens exactly **one**
+  narrow allowed mode and leaves the rest of the law standing, which turns a principle
+  into a procedure with a number in it.
+
+**Multi-Path gates are now a system-level question, not a page-level one.** Three of
+the last seven (Invert Eidolon, Transposition, Vainglory) require gates on three
+different Paths at once at their stated Grade, read off Part Seven from their own
+Wellsprings' Stat Effects, and the system does not say whether one practitioner may
+hold them. One ruling in Part Seven closes all three rows and reaches every
+multi-Wellspring working in the corpus. Transposition additionally carries
+**Overchannel's** *"Backlash risk above C, with no Path providing structural
+protection"* on every A-Grade performance, which its failure taxonomy omits.
+
+**Lenses used in the last seven**, each with the school that reads it wrongly and what
+that school is killed by: Vaihinger's *Als Ob* (the school that plans its own
+withdrawal) · Luria's *qelippot* and *tikkun* (the school that redeems rather than
+destroys, and holds the door for code exhaustion) · Kelsen's *Grundnorm* (the school
+that litigates upward at a band gap) · Digby's powder of sympathy (the school that
+trusts the bond and forgets the exponent is six) · Pico's *Oratio* (the school that
+expects the elected form to lift them) · the luminiferous aether (the school that thinks
+Drift is a displacement you can navigate back from) · Augustine on the indelible
+character, on Anointing.
+
+**What this does not do.** Nothing is published to Notion — the accounts publish after
+Isaac's rulings close the questionnaire, per the issue. No `wiki/`, `sources/`,
+`CONFLICTS.md`, `RULINGS.md`, rule, card or config file was touched, and no conflict was
+resolved. **WAR-7** (Rhett Konn's review of the accounts against the system and each
+other) is the next piece, and the parent **WAR-3** now waits on that alone.
+
 ## State on 2026-09-25 (WAR-117 — the draft Part is rebuilt against the corrected fit)
 
 `bash build/py.sh imports/essence-ledger/ledger_tables.py` is now a **no-op**: WAR-94 (`8ff44e3`)

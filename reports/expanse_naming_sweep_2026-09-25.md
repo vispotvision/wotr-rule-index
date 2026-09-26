@@ -209,9 +209,42 @@ goblinoid states. Whether it opens onto anything is a ruling, not a sweep.
 
 ---
 
-## 4. Held
+## 4. Ruled, and what was applied
 
-Nothing in `scenes/`, `wiki/`, `table/`, `book/`, `desktop/` or `imports/` was
-touched by this sweep. The clash is recorded as **C-075** in `CONFLICTS.md`. The
-question is Isaac's and is folded into the WAR-3 questionnaire; §3 above is written
-so its options can be lifted whole.
+Isaac answered in the queue questionnaire the same day, and the answer is Reading 1.
+`RULINGS.md`, the WAR-118 line:
+
+> **WAR-118** — Kharven's besiegers are the Iron Mandate: 'Expanse' is corrected to the Mandate across the archive, and the Kharven lorebook's cold peace is updated to the nine-year war.
+
+**Applied on WAR-118, Class C and the relations entries.** Four archive files
+(`01_wotr_muster_breach_road_north.md`, `commencement_of_the_curia_kujo_arc.md`,
+`the_war_in_the_north_v_the_shieldwarden.md`, `CONTINUITY.md`), the Bram Greymane
+card and its `imports/lore` mirror, and both sides of the Kharven–Mandate
+relationship: the Ashen Crown's relations row, which the ruling names, and the
+Closed Fist's Kharven entry, which stated the same fact the other way round and
+would otherwise have gone on denying the war the other page now records. The wiki
+pages are a Notion mirror, so the three page edits were made in Notion and reach
+`wiki/` on the hourly sync.
+
+**Held, and why.** The parliament naming, Class D. The ruling settles who besieged
+Kharven; it does not name the Keth-Gorrum, and §1.2 and §3 above show why the two
+cannot simply be renamed together: the Keth-Gorrum is the Expanse's parliament on
+every canon page, and the body the Front needs — one that votes to coin a word, and
+keeps a hereditary interpreter for a sealed register — is one the Ironfold explicitly
+is not. Correcting the word in those files without settling that would put the
+Expanse's parliament inside the Mandate, which is a different error rather than a
+smaller one. Fourteen files are waiting on it: `scenes/10_wotr_what_the_ground_was_owed.md`,
+`scenes/the_revolution_of_the_inner_world.md`, `table/fronts.yaml` and `table/FRONTS.md`
+with their two generated wiki pages, all of `book/kharven-year`, the two generated
+chapter briefs, and `desktop/inventories/expanse.md`, which merges the two states
+into one voice and is loaded by `session_start`.
+
+One thing that will help whoever takes it: the live naming rule
+R20-2-UNDAAR_KETH_NAMING gives the Mandate "given name plus genitive patronymic plus
+district designation plus, for military personnel, a rank compound that changes with
+every promotion or demotion, making a Mandate citizen's name a service record", and
+`scenes/10_wotr_what_the_ground_was_owed.md:291` builds Vresk Dokkan on exactly that
+convention, sentence for sentence. He is already written as a Mandate officer. It is
+the *institution* that renames him, not his name, that has nowhere canonical to sit.
+
+The clash is recorded as **C-075** in `CONFLICTS.md`.

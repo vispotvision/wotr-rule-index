@@ -965,7 +965,7 @@ Each line is a scene and the earlier events it explicitly reaches back to.
 **`the_war_in_the_north_v_the_shieldwarden.md`**
 - Wren's death two hundred paces across a field of dead men, with a smile Bram will go on seeing
 - the split, after which nobody would say which brother held the ridge
-- nine years of the Greymanes making the southern approach not worth the walk while the Expanse breathed green smoke
+- nine years of the Greymanes making the southern approach not worth the walk while the Mandate breathed green smoke
 - the rat Wren left behind for Bram, found nine days ago as Josse Hillborn off his own honest tally book
 - Josse's six words in the cellar on the seventh day: that he has not sold his lord
 - Lilia having set Josse's arm and buried his wife

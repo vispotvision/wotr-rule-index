@@ -20,7 +20,7 @@ The question came in around the eleventh, on its own schedule, as it had every m
 
 It had worn smooth from handling. Why his brother had done it. He could recite the politics and he had reconstructed the timing four times on the table with cups standing in for companies, and neither of those had ever been the thing he was actually asking. The two of them at eight and eleven on the wall walk with their father telling them that the ridge did not move, and Wren, who had been eleven and had already worked out that a thing said twice is a thing somebody is worried about, asking whether the ridge had ever moved. Their father had not answered. Wren had taken that as the answer and never asked again and had spent thirty years being right about it, and the being right had ended two hundred paces across a field of dead men with a smile on his face that Bram had seen clearly and would go on seeing.
 
-They had held the southern approach together. That was the whole of the argument and it was not an argument at all, because it was a fact and facts do not argue. The two of them, and eight hundred men, and a rock shelf, and the Expanse below it breathing green smoke every spring for nine years. Kharven had a north gate to worry about because the Greymanes had spent nine years making the south not worth the walk. Nobody at the capital had ever written that down. Bram had stopped needing them to.
+They had held the southern approach together. That was the whole of the argument and it was not an argument at all, because it was a fact and facts do not argue. The two of them, and eight hundred men, and a rock shelf, and the Mandate below it breathing green smoke every spring for nine years. Kharven had a north gate to worry about because the Greymanes had spent nine years making the south not worth the walk. Nobody at the capital had ever written that down. Bram had stopped needing them to.
 
 Twenty-one.
 
@@ -90,7 +90,7 @@ Somebody in a warm room at Kharven-Seat had now said it, in ink, over a seal.
 
 He read the four lines a third time, and understood that he was being paid in advance, and that the price was in the same sentence as the payment, and that whoever had drafted it had put the two things in that order deliberately.
 
-He had never killed one of his own. Nine years of it and every man he had put down had been marked out for him first by somebody else, by a horn or a banner or the green smoke coming up off the Expanse, and the marking had done a work in him that he had never had to look at directly. He looked at it now. It was not courage. It had never been courage. It had been the enormous, unearned relief of having the choosing done by somebody standing on the other side of a field.
+He had never killed one of his own. Nine years of it and every man he had put down had been marked out for him first by somebody else, by a horn or a banner or the green smoke coming up off the Mandate, and the marking had done a work in him that he had never had to look at directly. He looked at it now. It was not courage. It had never been courage. It had been the enormous, unearned relief of having the choosing done by somebody standing on the other side of a field.
 
 He put the letter face down on the table.
 

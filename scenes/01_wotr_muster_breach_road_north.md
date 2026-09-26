@@ -114,7 +114,7 @@ That was the part nobody ever tells you. He could see thirty feet. He knew what 
 
 The cold did the work that three hundred could not.
 
-Their skin ran mineral, and the mineral ran slow, and at thirty below on a fourth night with no fires and no shelter the slow got slower. They were not weak. They were three-quarters of a beat late, all of them, and the lateness was the only currency Bram's men had. A Kharven axeman who has spent his whole life at this temperature swings at his own speed on the coldest morning of his life. An Expanse man drilled to the count of a horn does not, and a formation that cannot keep its count stops being a formation and becomes two thousand two hundred individuals in a hole in a wall.
+Their skin ran mineral, and the mineral ran slow, and at thirty below on a fourth night with no fires and no shelter the slow got slower. They were not weak. They were three-quarters of a beat late, all of them, and the lateness was the only currency Bram's men had. A Kharven axeman who has spent his whole life at this temperature swings at his own speed on the coldest morning of his life. A Mandate man drilled to the count of a horn does not, and a formation that cannot keep its count stops being a formation and becomes two thousand two hundred individuals in a hole in a wall.
 
 Bram's men held the gap for four hours.
 
@@ -124,7 +124,7 @@ Egil Vald went down at the twelfth rotation with a hooked blade under the cuisse
 
 Sound. Pressure. Smell. Sight, last, and less of it as the light came up and the fires went out.
 
-The men of the Expanse were still coming through at the ninth hour, and Bram Greymane, on foot by then with a dead horse behind him and his shield strapped to a forearm he could no longer feel, put his boot on the chest of something that had stopped moving and pulled his axe out of it and turned round to face the gap again.
+The men of the Mandate were still coming through at the ninth hour, and Bram Greymane, on foot by then with a dead horse behind him and his shield strapped to a forearm he could no longer feel, put his boot on the chest of something that had stopped moving and pulled his axe out of it and turned round to face the gap again.
 
 ---
 

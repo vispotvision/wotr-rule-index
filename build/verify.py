@@ -38,8 +38,24 @@ FILTER = re.compile(r"\b(?:he|she|they|I|we|(?!The\b|A\b|An\b|It\b)[A-Z][a-z]+)\
 FILTER_RATE = 5.0
 # R48-13, R49-44: modern words are free in speech, flagged in narration. Real science and
 # anatomy terms are exempt (R49-45): adrenaline, cortisol and the like stay off this list.
-# 'stress' and 'trauma' also have a science sense; the WARN asks for a read. Add words here.
-MODERN = re.compile(r"\b(?:okay|OK|stress(?:ed|ful)?|teenagers?|weekends?|deadlines?|feedback|mindset|vibes?|trauma(?:tic|tised|tized)?)\b", re.I)
+# R51-03 slang (okay, OK, vibe, awesome, cool) and R51-04 pop-psych (triggered, toxic, closure,
+# mindset, boundaries); R51-04 keeps anxiety and stress, so they and trauma are off the list.
+# 'cool' and 'closure' have plain senses too; the WARN asks for a read. Add words here.
+# R51-05: tech and office words (deadline, feedback, 'on the main') are legal when the POV's
+# culture has the thing; a regex cannot know the POV's culture, so they are not listed.
+# 'weekend' lives in CALENDAR below, which covers narration and speech.
+MODERN = re.compile(r"\b(?:okay|OK|vibes?|awesome|cool|teenagers?|triggered|toxic|closure|mindset|boundaries)\b", re.I)
+# R51-08: Earth day and month names never appear, in narration or speech. Case-sensitive;
+# 'May' and 'March' only when capitalised after a lowercase word, so sentence-initial
+# 'May he...' and the verb 'march' pass.
+CALENDAR = re.compile(r"\b(?:Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday|January|February|April|June|July|August|September|October|November|December|[Ww]eekends?)\b|(?<=[a-z,;] )(?:May|March)\b")
+# R51-30: Earth religious swears are replaced in-world; warned in narration and speech.
+HOLY_OATH = re.compile(r"\b(?:(?i:god\s*damn\w*|go to hell|for god['’]s sake)|Christ|Jesus)\b")
+# R51-10: the hard-ban list, FAIL at first use, narration and dialogue.
+SLOP = re.compile(r"\b(?:tapestr(?:y|ies)|testaments?|palpabl[ey]|viscerall?y?|symphony of|a dance of|whispers? of|orbs|ministrations"
+                  r"|electric\w*\W+(?:\w+\W+){0,3}?touch\w*|touch\w*\W+(?:\w+\W+){0,3}?electric\w*|velvety? voice"
+                  r"|shiver\w* down (?:his|her|their|my|your) spine|breath (?:he|she|they|I) didn['’]t know (?:he|she|they|I) (?:was|were) holding"
+                  r"|coppery tang|smell of ozone)\b", re.I)
 QUOTED = re.compile(r"[\"“][^\"“”\n]*[\"”]")
 ITALIC = re.compile(r"(?<!\*)\*(?!\*)([^*\n]{3,}?)\*(?!\*)")
 HEMA = re.compile(r"\b(?:Vor|Nach|Indes|Zornhau|Absetzen|Durchwechseln|Winden|Krumphau|Zwerchhau|Schielhau|Scheitelhau|Mutieren|Duplieren|bind|measure|half-sword|halfsword|pommel|guard|ward|thrust|cut|tempo|feint|parry|riposte|void|cross|edge|flat|crossguard|quillon|point|counter-cut)\b")
@@ -148,6 +164,23 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     for m in MODERN.finditer(narr):
         s_ = narr[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
         warns.append(f"modern word in narration: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)")
+    # R51-34: in-world documents take the modern-word list like narration. verify.py has no
+    # flag for 'this is a document'; a document checked as its own file, or set as a > block,
+    # is narration here already. A document quoted inside speech marks is stripped with speech.
+    for m in CALENDAR.finditer(body):
+        s_ = body[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
+        warns.append(f"Earth calendar word: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R51-08-CALENDAR; use the culture's own span)")
+    for m in HOLY_OATH.finditer(body):
+        s_ = body[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
+        warns.append(f"Earth holy swear: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R51-30-HOLY_OATHS; swear by the world's own powers)")
+    seen = set()
+    for m in SLOP.finditer(body):
+        k = m.group(0).lower()
+        if k in seen:
+            continue
+        seen.add(k)
+        s_ = body[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
+        fails.append(f"hard-ban word: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R51-10-SLOP_WORDS)")
 
     # --- descent / variance (R4-14, Check 16) ------------------------------
     if len(words) >= 6:

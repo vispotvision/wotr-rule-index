@@ -1141,3 +1141,12 @@ the author notes."
 **Consequence if unresolved:** a scene cannot say whose warrant a Night Watch investigator carries.
 **Recommendation:** none.
 **Status:** ruled 2026-09-26 (RULINGS.md, C-087): one body, a crown-chartered society holding the crown's warrant; the Night Register is its own; the Lattice Classification Bureau is a separate office.
+
+## C-088 — The Night Register belongs to the Night Watch Society (C-087); Wystan Ashmore's card and the book bible put it under the Guild Accord's Arbitration Division
+
+**Rules:** RULINGS.md 2026-09-26 C-087 vs `wiki/Volume I — Character Cards/Wystan Ashmore — Late Bell.md` (header "Guild Accord, Arbitration Division, Night Register"; Notes: "institutional furniture under the Arbitration Division") and `book/night-watch-zombification/bible.md`
+**The clash:** C-087 makes the Night Register the Society's own. Wystan's card and the Night Watch book's bible file it under the Accord's Arbitration Division. The scene backs the Society: Wystan calls himself "the least able man in this Society". The Night Watch page (published 2026-09-26) names Wystan as the Warden who keeps the Register and names no Division.
+**Quotes:** C-087: "and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes."
+**Consequence if unresolved:** a scene cannot say whose desk the Register is, or whether Arbitration can close it.
+**Recommendation:** none.
+**Status:** open

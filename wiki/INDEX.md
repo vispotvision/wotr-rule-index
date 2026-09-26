@@ -1,6 +1,6 @@
 # War of the Realms — Wiki mirror
 
-651 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
+652 pages, mirrored from Notion by build/notion_export.py. Read-only here; edit in Notion and re-run.
 
 ## Aberrations (1)
 
@@ -274,6 +274,10 @@
 - [Volume the First](The%20Alftian%20Codex/Volume%20the%20First.md)
 - [Volume the Second](The%20Alftian%20Codex/Volume%20the%20Second.md)
 - [Volume the Third](The%20Alftian%20Codex/Volume%20the%20Third.md)
+
+## The Apparatus of the Age — Equipment and Material Culture (1)
+
+- [Shot and the Enhanced Weapon](The%20Apparatus%20of%20the%20Age%20—%20Equipment%20and%20Material%20Culture/Shot%20and%20the%20Enhanced%20Weapon.md)
 
 ## The Archaic Bloodlines (5)
 

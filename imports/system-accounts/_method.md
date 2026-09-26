@@ -43,18 +43,27 @@ Part Twenty-One.
 
 | Stage | Name | Max Grade | Sub-Stat ceiling | Tier of Standing | η | Developmental Tier |
 |---|---|---|---|---|---|---|
-| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.50–0.60 | Harmonic |
-| VI | Glory | A | 400 | 5 · Expert | 0.50–0.60 | Harmonic |
-| VII | Refraction | A (stops at 400) | 475; 401–475 under strain | 5 · Expert | 0.50–0.60 | Resonant |
+| V | Splintering | B (stops at 275) | 350; 276–350 under strain | 5 · Expert | 0.50–0.60 *(unruled — see `C-063`)* | Harmonic |
+| VI | Glory | A | 400 | 5 · Expert | 0.60–0.70 (**R44-4**) | Harmonic |
+| VII | Refraction | A (stops at 400) | 475; 401–475 under strain | 5 · Expert | 0.60–0.70 (**R44-4**) | Resonant |
 | VIII | Transcendence | S | 550 | 6 · Master | 0.70–0.80 | Radiant |
 | IX | Invocation | S (stops at 550) | 625; 551–625 under strain | 6 · Master | 0.70–0.80 | Sovereign |
 | XII | Emanation | SSS | 950 | 7 · Grandmaster | 0.85–0.90 | Sovereign |
 | XIV | Zenith | EX | 1,500 | 8 · Archmaster | 0.95–1.2 | Crystallized Soul |
 
-The η column carries the **efficiency conflict the source flags itself**: Part
+The η column carried the **efficiency conflict the source flags itself**: Part
 Seventeen rates Class I Muridic at thirty to forty percent loss (η 0.60–0.70)
-while the Tier table puts Glory-Stage practitioners at 0.50–0.60. Quoted, not
-resolved (`Part Nineteen`, the boxed note).
+while the Tier table put Glory-Stage practitioners at 0.50–0.60, quoted and not
+resolved (`Part Nineteen`, the boxed note). **That is CONFLICTS.md C-037 and
+R44-4 has closed it** (`RULINGS.md`:704–716, 2026-09-25): *"Part Seventeen
+governs: η reads 0.60 to 0.70 at Stage VI–VII. Part Nineteen's Tier 5 row is
+corrected to match."* The Stage VI and VII rows above are corrected accordingly
+and every account in this batch that reads them has been corrected with them.
+**Stage V is not**: the row R44-4 edits spans "V–VII Splintering to Refraction"
+with one η cell, while the sentence it rules names Stage VI–VII only, so the
+three Stage V accounts keep 0.50–0.60 until that is ruled — `C-063`. The boxed
+note on the source page itself is left exactly as written, which R44-4 says to
+do, so the mirror still reads the conflict as open.
 
 ## III · The resource system
 
@@ -166,8 +175,8 @@ from AU/s ÷ η where an AU/s figure exists, and is `null` otherwise.
 |---|---|---|---|---|---|---|---|---|
 | Serenyra Vaelith | VIII Transcendence | 276 | S, ceiling 550 | ~0.70 | 0.70–0.80 ✓ | Refined | 22 (`Lumen Dissecans`) | 22 ÷ 0.70 = **31.4 EU/g** |
 | Drakvor | VIII Transcendence | 295 | S, ceiling 550 | ~0.55 | 0.70–0.80 ✗ | Refined, overbuilt | null | null |
-| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.50–0.60 ✓ | Refined | null | null |
-| Aeldoris Vanthryx | VII Refraction | 195 | A→S, ceiling 475 | ~0.65 | 0.50–0.60 ✗ | Refined, residue-heavy | null | null |
+| Draven Kael Vorrick | VI Glory | 178 | A, ceiling 400 | ~0.55 | 0.60–0.70 ✗ (**R44-4**) | Refined | null | null |
+| Aeldoris Vanthryx | VII Refraction | 195 | A→S, ceiling 475 | ~0.65 | 0.60–0.70 ✓ (**R44-4**) | Refined, residue-heavy | null | null |
 | Francis Alexander | XIV Zenith | 470 | EX, ceiling 1,500 | 0.93 | 0.95–1.2 ✗ | "Absolute Crystal" | 2,800,000 (`Dirge Ascension`) | 2,800,000 ÷ 0.93 = **3,010,753 EU/g** |
 | Opalis | XII Emanation | 301–400 (Band IV) | SSS, ceiling 950 | no card | 0.85–0.90 | null | null | null |
 | Tovain Zethriel | IX Invocation | null | S→SS | no card | 0.70–0.80 | null | null | null |
@@ -175,7 +184,11 @@ from AU/s ÷ η where an AU/s figure exists, and is `null` otherwise.
 Three of the five η figures sit outside the Tier of Standing band their Stage
 puts them in, and all five cards carry a lettered **Coherence Band**, retired
 under R42. Both logged, neither resolved (`SA-NUM-ETA-TIER`,
-`SA-UNATT-COHERENCE-BAND`).
+`SA-UNATT-COHERENCE-BAND`). **R44-4 changed which three**: it corrected Tier 5's
+cell to 0.60–0.70, which brought Aeldoris's 0.65 inside his band and put Draven's
+~0.55 below his. The count is unchanged at three — Drakvor, Draven, Francis —
+and Draven's case is `C-062`, filed to Doc Kett. Drakvor's and Francis's bands
+are Tier 6 and Tier 8, which R44-4 does not touch.
 
 Two AU/s figures exist in the whole batch and they sit six Stages and five orders
 of magnitude apart with no scaling rule between them (`SA-CROSS-AUS-LADDER`).

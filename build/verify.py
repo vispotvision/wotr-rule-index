@@ -28,9 +28,19 @@ SIGNPOST = re.compile(r"\b(?:he|she|they|[A-Z][a-z]+)\s+(?:felt|was|were)\s+(?:a
 SIMILE = re.compile(r"\b(?:like an?|like the|as if|as though)\b", re.I)
 TIDY_CLOSE = re.compile(r"^(?:Ultimately|In the end|And so|Finally|At last|Perhaps that|Maybe that)\b", re.I)
 HYPOPHORA_Q = re.compile(r"\?\s*$")
-WATCHLIST = r"(?:silence|weight|arithmetic|governance|permission|distance|authority|refusal|grief|history|patience|the question|the cost|the moment|the space between them)"
-REIFY_VERBS = r"(?:sat|settled|moved|handed|passed|carried|hung|lay|arrived|landed|weighed|drained|took|held|filled|stood|waited|pressed|crossed|entered|left|followed|gathered|changed hands|went|came)"
-REIFICATION = re.compile(r"\b(?:the\s+)?" + WATCHLIST + r"\s+(?:\w+\s+){0,2}?" + REIFY_VERBS + r"\b", re.I)
+# R49-21: reification has no count and 'never at the beat' is a read, so no check here.
+# R49-17: '-ing' openers and 'As he ..., ' simultaneous action are AI tells, counted.
+ING_OPENER = re.compile(r"^(?!(?:During|Nothing|Something|Everything|Anything|King|Morning|Evening|Spring|Thing|String|Wing|Ring|Sing|Bring)\b)[A-Z][a-z]{2,}ing\b[^,.!?]{0,80},")
+AS_OPENER = re.compile(r"^As\s+(?:he|she|they|I|we|it|(?!if\b|though\b)[A-Z][a-z]+)\b[^,.!?]{0,80},")
+# R49-42: filter verbs, warned above FILTER_RATE per 1,000 narration words. Isaac set no
+# number; 5 is the checker's call, raise or lower it here.
+FILTER = re.compile(r"\b(?:he|she|they|I|we|(?!The\b|A\b|An\b|It\b)[A-Z][a-z]+)\s+(?:saw|heard|felt|noticed|watched|realised|realized|sensed|smelled|smelt|tasted|wondered|could see|could hear|could feel)\b")
+FILTER_RATE = 5.0
+# R48-13, R49-44: modern words are free in speech, flagged in narration. Real science and
+# anatomy terms are exempt (R49-45): adrenaline, cortisol and the like stay off this list.
+# 'stress' and 'trauma' also have a science sense; the WARN asks for a read. Add words here.
+MODERN = re.compile(r"\b(?:okay|OK|stress(?:ed|ful)?|teenagers?|weekends?|deadlines?|feedback|mindset|vibes?|trauma(?:tic|tised|tized)?)\b", re.I)
+QUOTED = re.compile(r"[\"“][^\"“”\n]*[\"”]")
 ITALIC = re.compile(r"(?<!\*)\*(?!\*)([^*\n]{3,}?)\*(?!\*)")
 HEMA = re.compile(r"\b(?:Vor|Nach|Indes|Zornhau|Absetzen|Durchwechseln|Winden|Krumphau|Zwerchhau|Schielhau|Scheitelhau|Mutieren|Duplieren|bind|measure|half-sword|halfsword|pommel|guard|ward|thrust|cut|tempo|feint|parry|riposte|void|cross|edge|flat|crossguard|quillon|point|counter-cut)\b")
 ANATOMY = re.compile(r"\b(?:femoral|carotid|clavicle|radius|ulna|humerus|tibia|fibula|patella|scapula|sternum|rib|ribs|vertebra|spine|jugular|subclavian|brachial|aorta|lung|liver|kidney|spleen|diaphragm|tendon|ligament|cartilage|orbit|mandible|maxilla|skull|trachea|larynx|hypovol|haemorrh|hemorrh|shock|Class\s+(?:I|II|III|IV))\b", re.I)
@@ -42,7 +52,8 @@ KHARVEN_RECURRENCE = {
     "the Thin Weeks": re.compile(r"thin weeks", re.I),
     "the death-house / the Waiting": re.compile(r"death-?house|\bthe Waiting\b"),
 }
-BANDS = {"conversational": (300, 700), "standard": (700, 1500), "set-piece": (2500, 10**9)}
+# R48-28: a roleplay turn runs about 3,500 words; R48-46: set pieces 5,000+.
+BANDS = {"conversational": (300, 700), "standard": (2500, 4500), "set-piece": (5000, 10**9)}
 
 
 def split_sentences(text: str) -> list[str]:
@@ -74,7 +85,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         fails.append(f"em dashes: {n} (banned; AI-tells §1, R15-1-AI_TELL_CHECKS_SURVIVE)")
     hits = [m.group(0) for rx in ANTITHESIS for m in rx.finditer(body)]
     for h in hits[:6]:
-        fails.append(f"antithesis 'not X but Y': \"{h.strip()[:90]}\" (banned; AI-tells §1)")
+        fails.append(f"antithesis 'not X but Y': \"{h.strip()[:90]}\" (R49-40-NOT_X_Y; AI-tells §1)")
     if len(hits) > 6:
         fails.append(f"antithesis: {len(hits) - 6} more")
     for sen in sentences:
@@ -109,28 +120,34 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     for m in SIGNPOST.finditer(body):
         warns.append(f"emotional signposting: \"{m.group(0)}\" (AI-tells §4)")
     q = [s for p in prose_paras if not p.startswith("\"") for s in split_sentences(p) if HYPOPHORA_Q.search(s) and not re.search(r"[\"“”]", s)]
-    for s in q[:4]:
-        warns.append(f"question in narration (hypophora?): \"{s[:80]}\" (AI-tells §1)")
+    for s in q:
+        warns.append(f"question in narration (hypophora?): \"{s[:80]}\" (R49-41-QUESTIONS)")
     for p in prose_paras:
         sm = SIMILE.findall(p)
         if len(sm) >= 2:
-            warns.append(f"competing similes in one paragraph ({len(sm)}): \"{p[:70]}...\" (AI-tells §5: cut one)")
+            warns.append(f"competing similes in one paragraph ({len(sm)}): \"{p[:70]}...\" (R49-18-SIMILE_COUNT: cut one if they share a beat)")
     if sentences and TIDY_CLOSE.match(sentences[-1]):
         warns.append(f"tidy summary close: \"{sentences[-1][:80]}\" (AI-tells §2; WOTR scenes end on physical action)")
 
-    # --- reification (R4-15) -----------------------------------------------
-    reif = [(i, m.group(0)) for i, p in enumerate(prose_paras) for m in REIFICATION.finditer(p)]
-    if len(reif) >= 3:
-        fails.append(f"reification: {len(reif)} unlicensed instances, budget is two per scene (R4-15-TWO_PER_SCENE_BUDGET, Check 17): "
-                     + "; ".join(f"\"{r[1]}\"" for r in reif[:5]))
-    per_para = {}
-    for i, r in reif:
-        per_para.setdefault(i, []).append(r)
-    for i, rs in per_para.items():
-        if len(rs) >= 2:
-            fails.append(f"reification: two in one paragraph (R4-15-ONE_PER_PARAGRAPH): " + "; ".join(f"\"{r}\"" for r in rs))
-    if 1 <= len(reif) <= 2:
-        info.append(f"reification: {len(reif)} (within budget): " + "; ".join(f"\"{r[1]}\"" for r in reif))
+    # --- openers, filter verbs, modern words (narration only) -------------
+    narr = QUOTED.sub(" ", body)
+    narr_sents = [x for p in prose_paras for x in split_sentences(QUOTED.sub(" ", p)) if x.strip()]
+    narr_words = len(narr.split()) or 1
+    openers = [x for x in narr_sents if ING_OPENER.match(x) or AS_OPENER.match(x)]
+    if len(openers) >= 3:
+        warns.append(f"'-ing' / 'As he ...,' openers: {len(openers)} (R49-17-OPENERS, AI tell): "
+                     + "; ".join(f"\"{x[:50]}\"" for x in openers[:5]))
+    elif openers:
+        info.append(f"'-ing' / 'As he ...,' openers: {len(openers)} (R49-17-OPENERS warns at 3)")
+    fv = FILTER.findall(narr)
+    rate = len(fv) * 1000 / narr_words
+    if rate > FILTER_RATE:
+        warns.append(f"filter verbs: {len(fv)} ({rate:.1f} per 1,000 narration words, warn above {FILTER_RATE:g}) (R49-42-FILTER_VERBS)")
+    elif fv:
+        info.append(f"filter verbs: {len(fv)} ({rate:.1f} per 1,000 words)")
+    for m in MODERN.finditer(narr):
+        s_ = narr[max(0, m.start() - 50):m.end() + 30].replace("\n", " ")
+        warns.append(f"modern word in narration: \"{m.group(0)}\" in \"...{s_.strip()}...\" (R48-13-PERIOD_FEEL, R49-44-MODERN_FLAGS; science sense is exempt, R49-45)")
 
     # --- descent / variance (R4-14, Check 16) ------------------------------
     if len(words) >= 6:
@@ -163,7 +180,9 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
         if lll:
             warns.append(f"paragraphs closing on three sentences over 18 words: {lll} (R4-14-HARD_CEILINGS says 0)")
         cv = statistics.pstdev(words) / statistics.mean(words)
-        info.append(f"sentence length: mean {statistics.mean(words):.1f} words, CV {cv:.2f} (variance is voice; under ~0.45 reads even)")
+        if cv < 0.50:
+            warns.append(f"sentence-length CV {cv:.2f}: under 0.50 is the strongest tell; target 0.80 (R49-13-VARIANCE)")
+        info.append(f"sentence length: mean {statistics.mean(words):.1f} words, CV {cv:.2f} (target 0.80, R49-13-VARIANCE)")
         pl = [len(p.split()) for p in prose_paras]
         if len(pl) >= 4:
             pcv = statistics.pstdev(pl) / statistics.mean(pl)
@@ -186,7 +205,7 @@ def run(text: str, combat: bool = False, culture: str | None = None, band: str =
     if culture and culture.lower() == "kharven":
         present = [k for k, rx in KHARVEN_RECURRENCE.items() if rx.search(raw)]
         if len(present) < 2:
-            fails.append(f"Kharven recurrence: {len(present)} of the five signature items present ({', '.join(present) or 'none'}); minimum two per Kharven scene (R6-9-RECURRENCE_RULE)")
+            warns.append(f"Kharven recurrence: {len(present)} of the five signature items in this text ({', '.join(present) or 'none'}); two per session, not per turn (R49-54-KHARVEN)")
         else:
             info.append(f"Kharven recurrence: {', '.join(present)}")
 

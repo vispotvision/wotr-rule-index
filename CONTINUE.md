@@ -6,6 +6,34 @@ direction: inside work he has asked for, make the calls; no "pending" slots.
 append a dated block, do not rewrite older ones (two sessions write this repo
 at once — `git pull` before editing, and commit only your own files).
 
+## State on 2026-09-25 (WAR-46 — WAR-70 applied: 4 EU figures corrected in Notion, 124 held)
+
+WAR-70 (`RULINGS.md`, 2026-09-25) says what an EU figure outside its Stage's band becomes: **the
+band's midpoint in decades**, the geometric mean of the Part Four floor and ceiling in joules, divided
+by 1 MJ. Every one of the 128 misses is now computed, with the Part Four row it comes from quoted
+beside it, in `reports/eu_band_corrections_2026-09-25.md` (generator
+`imports/essence-ledger/eu_band_corrections.py`; the script asserts each band against the Part Four
+row before it writes a line, so a citation cannot drift from the arithmetic).
+
+- **Four are corrected on the live Notion pages**, one statement each, EU field only: Ara Min Mahuo's
+  reserve ~4,200,000 → ~10,080,000; Brynja Haldrís 11,000 → 438,800 EU; Vael of Nothing 2,600,000 →
+  10,080,000 EU; Vaelthor Ashen-Meridian 620,000 → 132,300,000 EU. All four verified live afterwards.
+- **124 are held**, every one with its set point computed and the reason logged. The big one is
+  **`CONFLICTS.md` C-059**: WAR-70's set point is one figure *per band*, and a card's Stage fixes one
+  band for every EU figure on it, so on 99 of the misses two or more figures a card states as
+  *different* numbers become one number — Dougou Ozumu Zettari's thirteen figures, 2,800 EU to
+  92,000 EU, all become 2.278 × 10¹⁹ EU, reserve and cheapest strike alike. **C-060** is the other new
+  row: Part Four says Stage XIV is not assessed by attack output, and the chain hands it an EX band
+  anyway (one figure, Aurelian Prudentius). Filed to Doc Kett as **WAR-127** (C-059) and **WAR-128**
+  (C-060) — parentless, because the board refuses a child of WAR-46 assigned to the agent who filed it.
+- Also held, with the arithmetic: 14 self-declared estimates and ranges, 5 figures a card attributes
+  to a source by name ("workbook figure", "carry from the legacy sheet" — the wording WAR-48 held four
+  cards for), 2 stated fractions of another figure, and 1 set point that lands on a decimal (147.9 EU,
+  Naori Yukari), the reason WAR-48 held four cards under R44-2.
+
+**The four edits are in Notion, not in git.** `wiki/` is the mirror and still stale (WAR-29 / WAR-68),
+so a grep of `wiki/` returns the old figures until the hourly sync commits.
+
 ## State on 2026-09-25 (The Master Codex is in the index)
 
 - **The canon Codex is the 2026-09-24 edition** (`$WOTR_TRUE_CANON/The Master Codex.xlsx`; older copies in

@@ -43,16 +43,18 @@
   - [ ] 1. Somebody asks.
   - [ ] 2. Bram answers the wrong question well enough that the asker stops, and Renard notices the substitution.
   - [ ] 3. The roll is read aloud for an unrelated purpose and the omission is a silence in a room that counts silences.
-  - [ ] 4. Wren is seen, alive, by someone who has read the roll.
+  - [ ] 4. The ridge reads the omission as Bram's verdict on his brother, and a house that lost a son at the narrows thanks him for it in front of witnesses.
   - [ ] 5. Resolves: the omission is corrected in Bram's hand or in someone else's, and the difference is what the Greymane name is worth afterward.
 
-**Wren Greymane** ○○○○ 0/4 · open
-- Want: unrecorded since the narrows. Alive, not on the roll, and the omission belongs to his brother rather than to him.
-- Next move: Wren is seen, alive, by someone who has read the roll and says nothing yet.
-  - [ ] 1. Wren is seen, alive, by someone who has read the roll and says nothing yet.
-  - [ ] 2. Wren learns the omission is his brother's and not the Seat's.
-  - [ ] 3. Wren makes a choice about being recorded that Bram did not make for him: he presents himself, or he goes further from the narrows.
-  - [ ] 4. Resolves: Wren is on a roll somewhere, or he is deliberately on none, and Bram has to live with which.
+**Wren Greymane, the grief** ○○○○○ 0/5 · open
+- Want: somewhere to set the blame down. Wren died on the Ashgate road, body not recovered, after sixteen months of being called traitor on the ridge and by his brother. Bram's dedication stands before his own name in the Stormfold book, Wren is not on the roll, and every house that lost a son in his column wants the dead of the narrows to be somebody's.
+- Last move: Bram read the depositions behind a shut door, entered the dedication before his own name, and left Wren off the roll.
+- Next move: The ridge blames Wren. At Coldbeck's death-house his name is read among the Waiting with no body behind it, and a ridge house that lost a son in his column asks for it to be struck, in front of a Greymane.
+  - [ ] 1. The ridge blames Wren. At Coldbeck's death-house his name is read among the Waiting with no body behind it, and a ridge house that lost a son in his column asks for it to be struck, in front of a Greymane.
+  - [ ] 2. Bram blames himself, aloud. A man of the ridge says the word in his hearing, and Bram answers him personally as the dedication promised, and the ridge watches the Shieldwarden take the word onto his own name.
+  - [ ] 3. The ridge blames the Seat. The question the sixteen depositions never answered goes to the Seat in writing: who knew what Wren was doing, and why the ridge was let call him that for sixteen months.
+  - [ ] 4. Someone rides to the ditch bank on the Ashgate road to bring Wren home, and the ridge splits over whose ground he goes into, or whether he goes into any.
+  - [ ] 5. Resolves: the blame is set down in writing. The ridge enters Wren with its dead or keeps him off its stones, and the Greymane name is worth afterward whatever the ridge decided he was.
 
 ## New World, the Korvaeth War
 
@@ -96,12 +98,12 @@
   - [ ] 5. Resolves: the archive stands as the common record for four quarters, or it is captured by one side and the war loses its referee.
 
 **The Tsohanto Reach** ○○○○ 0/4 · open
-- Want: Silent four years, nobody counting it, no delegation to either party in eleven. Isaac's hook and the proposed resolution of the Onawa collision.
+- Want: Silent four years, nobody counting it, no delegation to either party in eleven. The silence is the Tsohanto's answer to the Empress of Eresse, who shares their queen's name, Onawa.
 - Next move: A count is taken of the silence: someone in the Regency notices no delegation has come in eleven years and asks why.
   - [ ] 1. A count is taken of the silence: someone in the Regency notices no delegation has come in eleven years and asks why.
   - [ ] 2. A Tsohanto trader appears in a Regency market with a name the archive validates as Ashkewe's people, and will not say why the Reach has been silent.
   - [ ] 3. The Reach sends a delegation to Ilthára and not to the Regency, and the choice is itself the message.
-  - [ ] 4. Resolves: the Onawa collision is settled as two women, and the Reach re-enters the war as the party that was insulted in a yard.
+  - [ ] 4. Resolves: the Reach re-enters the war as the party that was insulted in a yard.
 
 **The thing nobody has done** ○○○○○ 0/5 · open
 - Want: The challenge form is two words long and any commoner in any market could say it to her face without breaking a law. In thirty years not one person ever has. Aeldros works this out in the eleventh year.

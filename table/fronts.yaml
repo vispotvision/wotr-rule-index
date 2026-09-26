@@ -112,7 +112,8 @@
     consequence: The roll is read aloud for an unrelated purpose and the omission is a silence in a room
       that counts silences.
   - tick: 4
-    consequence: Wren is seen, alive, by someone who has read the roll.
+    consequence: The ridge reads the omission as Bram's verdict on his brother, and a house that lost
+      a son at the narrows thanks him for it in front of witnesses.
   - tick: 5
     consequence: 'Resolves: the omission is corrected in Bram''s hand or in someone else''s, and the difference
       is what the Greymane name is worth afterward.'
@@ -120,27 +121,41 @@
   last_advanced: null
   seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
 - id: wren-greymane
-  name: Wren Greymane
+  name: Wren Greymane, the grief
   thread: Kharven thread, the year after
   status: open
-  want: unrecorded since the narrows. Alive, not on the roll, and the omission belongs to his brother
-    rather than to him.
-  last_move: ''
-  next_move: Wren is seen, alive, by someone who has read the roll and says nothing yet.
+  want: somewhere to set the blame down. Wren died on the Ashgate road, body not recovered, after sixteen
+    months of being called traitor on the ridge and by his brother. Bram's dedication stands before his
+    own name in the Stormfold book, Wren is not on the roll, and every house that lost a son in his column
+    wants the dead of the narrows to be somebody's.
+  last_move: Bram read the depositions behind a shut door, entered the dedication before his own name,
+    and left Wren off the roll.
+  next_move: The ridge blames Wren. At Coldbeck's death-house his name is read among the Waiting with
+    no body behind it, and a ridge house that lost a son in his column asks for it to be struck, in front
+    of a Greymane.
   clock:
   - tick: 1
-    consequence: Wren is seen, alive, by someone who has read the roll and says nothing yet.
+    consequence: The ridge blames Wren. At Coldbeck's death-house his name is read among the Waiting with
+      no body behind it, and a ridge house that lost a son in his column asks for it to be struck, in
+      front of a Greymane.
   - tick: 2
-    consequence: Wren learns the omission is his brother's and not the Seat's.
+    consequence: Bram blames himself, aloud. A man of the ridge says the word in his hearing, and Bram
+      answers him personally as the dedication promised, and the ridge watches the Shieldwarden take the
+      word onto his own name.
   - tick: 3
-    consequence: 'Wren makes a choice about being recorded that Bram did not make for him: he presents
-      himself, or he goes further from the narrows.'
+    consequence: 'The ridge blames the Seat. The question the sixteen depositions never answered goes
+      to the Seat in writing: who knew what Wren was doing, and why the ridge was let call him that for
+      sixteen months.'
   - tick: 4
-    consequence: 'Resolves: Wren is on a roll somewhere, or he is deliberately on none, and Bram has to
-      live with which.'
+    consequence: Someone rides to the ditch bank on the Ashgate road to bring Wren home, and the ridge
+      splits over whose ground he goes into, or whether he goes into any.
+  - tick: 5
+    consequence: 'Resolves: the blame is set down in writing. The ridge enters Wren with its dead or keeps
+      him off its stones, and the Greymane name is worth afterward whatever the ridge decided he was.'
   position: 0
   last_advanced: null
-  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction
+  seeded_from: Fronts page, 2026-09-10 rebuild; clock written by Claude Code 2026-09-12 at Isaac's direction;
+    recast as a grief Front 2026-09-26 (Wren dead from What the Sky Does Not Ask on)
 - id: the-sunroot-regency-under-ovaeren
   name: The Sunroot Regency under Ovaeren
   thread: New World, the Korvaeth War

@@ -147,10 +147,10 @@
     {
       "number": 11,
       "title": "Coldbeck",
-      "beat": "Vresk Dokkan of Kaadre-Six comes back over the pass in a cart in the deep Thin Weeks as the speaker of the word, with a hereditary interpreter and no fingertips, asking for the Shieldwarden by the name Bram gave him, and Renard is sent to bring him down the Stormfold road to the Seat. They stop the night at Coldbeck's death-house, where a cooper reads the Waiting's names because the last man who knew the liturgy died with it, and among the men laying out the dead in the cold room is one with the Greymane smile and a shield-arm who does not look up. Renard has read the roll. He says nothing, to the cooper, to the hobgoblin, or to the man, and in the morning the cart goes on south.",
+      "beat": "Vresk Dokkan of Kaadre-Six comes back over the pass in a cart in the deep Thin Weeks as the speaker of the word, with a hereditary interpreter and no fingertips, asking for the Shieldwarden by the name Bram gave him, and Renard is sent to bring him down the Stormfold road to the Seat. They stop the night at Coldbeck's death-house, where a cooper reads the Waiting's names because the last man who knew the liturgy died with it, and Wren Greymane's name is read among them with no body behind it. A woman of the ridge who lost a son in his column asks, in front of Renard, for the name to be struck. Vresk Dokkan and the interpreter hear it and do not know whose name it is. Renard has read the depositions. He says nothing, to the cooper, to the woman or to the hobgoblin, and in the morning the cart goes on south.",
       "scene_type": "quiet",
       "pov": "Renard Greymane",
-      "cast": ["Renard Greymane", "Vresk Dokkan", "a hereditary interpreter", "the Coldbeck cooper", "Wren Greymane"],
+      "cast": ["Renard Greymane", "Vresk Dokkan", "a hereditary interpreter", "the Coldbeck cooper", "a woman of the ridge"],
       "place": "The Ridgewall pass and the death-house at Coldbeck",
       "front_id": "wren-greymane",
       "plants": [],
@@ -225,8 +225,8 @@
     },
     {
       "hook_id": "H08-ask-him",
-      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard sees a man with the Greymane smile laying out the dead and says nothing.",
-      "keywords": ["Wren", "Coldbeck", "smile", "said nothing"],
+      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard hears Wren's name read among the Waiting and a ridge woman ask for it to be struck, and says nothing.",
+      "keywords": ["Wren", "Coldbeck", "struck", "said nothing"],
       "planted_ch": 4,
       "due_ch": 11
     },

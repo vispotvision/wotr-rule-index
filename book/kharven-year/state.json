@@ -93,11 +93,11 @@
     },
     {
       "hook_id": "H08-ask-him",
-      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard sees a man with the Greymane smile laying out the dead and says nothing.",
+      "text": "Renard asks Bram why Wren is not on the mutilation roll and Bram answers, Ask him. Renard reads it as grief. In the Thin Weeks, at Coldbeck's death-house, Renard hears Wren's name read among the Waiting and a ridge woman ask for it to be struck, and says nothing.",
       "keywords": [
         "Wren",
         "Coldbeck",
-        "smile",
+        "struck",
         "said nothing"
       ],
       "planted_ch": 4,

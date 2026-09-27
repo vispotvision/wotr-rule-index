@@ -889,5 +889,10 @@
     "page_id": "3e858200-eb22-81e9-829b-ca942ee28c8b",
     "title": "Geturo: Fire-Air",
     "hash": "ba1cfe5b7430ec96"
+  },
+  "scenes/geturo_the_elbow.md": {
+    "page_id": "3e858200-eb22-81cf-9b68-dc96f9c88907",
+    "title": "Geturo: The Elbow",
+    "hash": "ce447fa9bed12440"
   }
 }

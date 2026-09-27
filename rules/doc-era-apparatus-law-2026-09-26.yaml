@@ -35,9 +35,9 @@ rules:
   status: live
   kind: mandate
   summary: 'Electricity: Essence replaces it. Electricity was never discovered as a separate force; the
-    Essence lamp and main fill its place.'
+    Essence lamp and main fill its place. Fulguria practitioners are the closest thing.'
   verbatim: 'Electricity: Essence replaces it. Electricity was never discovered as a separate force; the
-    Essence lamp and main fill its place.'
+    Essence lamp and main fill its place. Fulguria practitioners are the closest thing.'
   amends: []
   supersedes: []
   applies_to:
@@ -47,7 +47,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R59-03-WIRE_AND_TELEPHONE
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
@@ -76,10 +77,13 @@ rules:
   title: Vehicles
   status: live
   kind: mandate
-  summary: 'Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span,
-    and WOTR also has vehicles and objects of its own invention.'
-  verbatim: 'Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span,
-    and WOTR also has vehicles and objects of its own invention.'
+  summary: 'Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven motorcars
+    for the rich and the state in the later span; dirigibles for the Guild, the state or luxury travel;
+    early fixed-wing aircraft in the lates...'
+  verbatim: 'Vehicles: railways where they run and trams in the big cities; Essence- or engine-driven
+    motorcars for the rich and the state in the later span; dirigibles for the Guild, the state or luxury
+    travel; early fixed-wing aircraft in the latest part of the span, military and rare; and other WOTR-created
+    objects and things of its own invention.'
   amends: []
   supersedes: []
   applies_to:
@@ -89,7 +93,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R59-05-STEEP_REGIONAL_GRADIENT
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null
@@ -118,10 +123,12 @@ rules:
   title: Media
   status: live
   kind: mandate
-  summary: 'Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist
-    (the later ones in the later span and the richer places).'
-  verbatim: 'Media: newspapers and a penny press, photography, moving pictures and recorded sound all
-    exist (the later ones in the later span and the richer places).'
+  summary: 'Media: daily papers and a penny press in the cities, broadsheets reaching the provinces late;
+    photography (studio portraits, Guild identity plates, evidence); early cinema or an Essence equivalent
+    in the latest span; phonographs or Essen...'
+  verbatim: 'Media: daily papers and a penny press in the cities, broadsheets reaching the provinces late;
+    photography (studio portraits, Guild identity plates, evidence); early cinema or an Essence equivalent
+    in the latest span; phonographs or Essence sound-plates for the rich.'
   amends: []
   supersedes: []
   applies_to:
@@ -131,7 +138,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R59-07-VICTORIAN_EDWARDIAN_CITY
   pack: Era and Apparatus Law 2026-09-26
   pack_number: null

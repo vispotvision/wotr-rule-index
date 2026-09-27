@@ -13,8 +13,8 @@ rules:
   title: Timeless
   status: live
   kind: mandate
-  summary: 'Timeless narration varies by culture: plain, undated English by default; some cultures''
-    scenes (Eresse, the Moto court) may take a more antique narration.'
+  summary: 'Timeless narration varies by culture: plain, undated English by default; some cultures'' scenes
+    (Eresse, the Moto court) may take a more antique narration.'
   verbatim: 'Timeless narration varies by culture: plain, undated English by default; some cultures''
     scenes (Eresse, the Moto court) may take a more antique narration.'
   amends:
@@ -39,12 +39,12 @@ rules:
   title: Close Pov Swears
   status: live
   kind: mandate
-  summary: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears
-    invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity
-    is fine I think we should use timelees profanes and invent ...'
-  verbatim: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears
-    invented deliberately for WOTR; other modern words stay out of narration. (Isaac: "Profanity
-    is fine I think we should use timelees profanes and invent some deliberately for wotr".)'
+  summary: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears invented
+    deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent
+    some deliberately for wotr".)'
+  verbatim: 'Profanity may bleed into close-POV narration, using timeless profanities plus swears invented
+    deliberately for WOTR. (Isaac: "Profanity is fine I think we should use timelees profanes and invent
+    some deliberately for wotr".)'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -59,7 +59,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R51-03-LIST_SLANG
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -67,10 +68,10 @@ rules:
   title: List Slang
   status: live
   kind: mandate
-  summary: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome,
-    cool); the rest by ear.'
-  verbatim: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome,
-    cool); the rest by ear.'
+  summary: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool);
+    the rest by ear.'
+  verbatim: 'Modern-word list, slang: ban only the worst in narration (okay, OK, vibe, awesome, cool);
+    the rest by ear.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -93,10 +94,10 @@ rules:
   title: List Psych
   status: live
   kind: mandate
-  summary: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration
-    (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.'
-  verbatim: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration
-    (triggered, toxic, closure, mindset, boundaries); anxiety and stress stay.'
+  summary: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered,
+    toxic, closure, mindset, boundaries); anxiety and stress stay.'
+  verbatim: 'Modern-word list, psychology: ban only the obvious pop-psych jargon in narration (triggered,
+    toxic, closure, mindset, boundaries); anxiety and stress stay.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -119,10 +120,10 @@ rules:
   title: List Tech
   status: live
   kind: mandate
-  summary: 'Technology and office metaphors are legal only if the POV''s own culture has the
-    thing: an Accord fitter may think ''on the main'', a Kharven hunter may not.'
-  verbatim: 'Technology and office metaphors are legal only if the POV''s own culture has the
-    thing: an Accord fitter may think ''on the main'', a Kharven hunter may not.'
+  summary: 'Technology and office metaphors are legal only if the POV''s own culture has the thing: an
+    Accord fitter may think ''on the main'', a Kharven hunter may not.'
+  verbatim: 'Technology and office metaphors are legal only if the POV''s own culture has the thing: an
+    Accord fitter may think ''on the main'', a Kharven hunter may not.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -145,10 +146,10 @@ rules:
   title: Earth Words
   status: live
   kind: mandate
-  summary: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated
-    like lens names: legal wherever they fit.'
-  verbatim: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated
-    like lens names: legal wherever they fit.'
+  summary: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens
+    names: legal wherever they fit.'
+  verbatim: 'Earth-derived words (herculean, spartan, machiavellian, Achilles heel) are treated like lens
+    names: legal wherever they fit.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -171,10 +172,10 @@ rules:
   title: Clock Words
   status: live
   kind: mandate
-  summary: Seconds and minutes are plain English and free everywhere in narration; in-world
-    time units add flavour.
-  verbatim: Seconds and minutes are plain English and free everywhere in narration; in-world
-    time units add flavour.
+  summary: Seconds and minutes are plain English and free everywhere in narration; in-world time units
+    add flavour.
+  verbatim: Seconds and minutes are plain English and free everywhere in narration; in-world time units
+    add flavour.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -197,10 +198,10 @@ rules:
   title: Calendar
   status: live
   kind: mandate
-  summary: Earth day and month names never appear; 'week' becomes the culture's own span (a
-    turn, a quarter-moon); all go on the list.
-  verbatim: Earth day and month names never appear; 'week' becomes the culture's own span (a
-    turn, a quarter-moon); all go on the list.
+  summary: Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon);
+    all go on the list.
+  verbatim: Earth day and month names never appear; 'week' becomes the culture's own span (a turn, a quarter-moon);
+    all go on the list.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -223,10 +224,8 @@ rules:
   title: Speech Cap
   status: live
   kind: mandate
-  summary: How modern a character's speech runs is set on their card; the default is casual,
-    not current.
-  verbatim: How modern a character's speech runs is set on their card; the default is casual,
-    not current.
+  summary: How modern a character's speech runs is set on their card; the default is casual, not current.
+  verbatim: How modern a character's speech runs is set on their card; the default is casual, not current.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -249,13 +248,13 @@ rules:
   title: Slop Words
   status: live
   kind: mandate
-  summary: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable,
-    visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch),
-    velvet (voice), shiver down the spine, a breath he didn''t know...'
-  verbatim: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable,
-    visceral, symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch),
-    velvet (voice), shiver down the spine, a breath he didn''t know he was holding, the coppery
-    tang of blood, the smell of ozone; each fails the checker at first use, narration and dialogue.'
+  summary: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral,
+    symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice),
+    shiver down the spine, a breath he didn''t know...'
+  verbatim: 'A hard-ban list separate from the repetition list: tapestry, testament, palpable, visceral,
+    symphony of, a dance of, whisper of, orbs (eyes), ministrations, electric (touch), velvet (voice),
+    shiver down the spine, a breath he didn''t know he was holding, the coppery tang of blood, the smell
+    of ozone; each fails the checker at first use, narration and dialogue.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -270,7 +269,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Titles are exempt (R58-04); 'the smell of ozone' sits in tension with R51-32 (C-090).
 - id: R51-11-COLLISIONS
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -278,12 +277,12 @@ rules:
   title: Collisions
   status: live
   kind: mandate
-  summary: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum,
-    weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned
-    so the term stays sharp.
-  verbatim: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum,
-    weave, ledger) are used only in their WOTR sense; the plain adjective or verb is banned
-    so the term stays sharp.
+  summary: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave,
+    ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays
+    sharp.
+  verbatim: Ordinary words that are also WOTR terms (delve, echo, numinous, sovereign, sanctum, weave,
+    ledger) are used only in their WOTR sense; the plain adjective or verb is banned so the term stays
+    sharp.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -306,9 +305,9 @@ rules:
   title: Word Bank
   status: live
   kind: mandate
-  summary: The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine,
+  summary: The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine,
     stygian, empyreal, ineffable) is used freely, by ear.
-  verbatim: The elevated word bank (eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine,
+  verbatim: The elevated word bank (eldritch, numinous, chthonic, tenebrous, lambent, sepulchral, incarnadine,
     stygian, empyreal, ineffable) is used freely, by ear.
   amends:
   - guide: NATALIE.md and the wotr-write skill
@@ -324,7 +323,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R51-13-WORD_STOCK
   pack: Vocabulary Law 2026-09-26
   pack_number: null
@@ -332,10 +332,8 @@ rules:
   title: Word Stock
   status: live
   kind: mandate
-  summary: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence
-    needs.'
-  verbatim: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence
-    needs.'
+  summary: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence needs.'
+  verbatim: 'Narration''s word stock (Old English vs Latinate) is by ear: whatever the sentence needs.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -382,10 +380,10 @@ rules:
   title: First Use
   status: live
   kind: mandate
-  summary: New WOTR terms get meaning from context and use only; no appositive gloss (the zero
-    gloss budget stands).
-  verbatim: New WOTR terms get meaning from context and use only; no appositive gloss (the zero
-    gloss budget stands).
+  summary: New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss budget
+    stands).
+  verbatim: New WOTR terms get meaning from context and use only; no appositive gloss (the zero gloss
+    budget stands).
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -408,10 +406,10 @@ rules:
   title: Old Bans Fall
   status: live
   kind: mandate
-  summary: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
-    in narration fall; they are free in narration.
-  verbatim: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary
-    in narration fall; they are free in narration.
+  summary: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration
+    fall; they are free in narration.
+  verbatim: All older limits on stat names, Sub-Stat names, Guild words and sheet vocabulary in narration
+    fall; they are free in narration.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -437,10 +435,10 @@ rules:
   title: Mid Action
   status: live
   kind: mandate
-  summary: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action;
-    the reader keeps up.'
-  verbatim: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action;
-    the reader keeps up.'
+  summary: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the reader
+    keeps up.'
+  verbatim: 'The ban on bare jargon mid-action is lifted: mechanism terms may be bare mid-action; the
+    reader keeps up.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -464,10 +462,10 @@ rules:
   title: Doublet
   status: live
   kind: mandate
-  summary: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s
-    scene says ''the cutting'', an Accord examiner''s says ''Runecraft''.'
-  verbatim: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s
-    scene says ''the cutting'', an Accord examiner''s says ''Runecraft''.'
+  summary: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s scene says
+    ''the cutting'', an Accord examiner''s says ''Runecraft''.'
+  verbatim: 'Narration uses whichever form of a craft term the POV would say: an Engraver''s scene says
+    ''the cutting'', an Accord examiner''s says ''Runecraft''.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -515,10 +513,10 @@ rules:
   title: Kharven Words
   status: live
   kind: mandate
-  summary: New Kharven words may be native words, built freely on the Far-Northern sound rules;
-    Kharven speech carries its own words.
-  verbatim: New Kharven words may be native words, built freely on the Far-Northern sound rules;
-    Kharven speech carries its own words.
+  summary: New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven
+    speech carries its own words.
+  verbatim: New Kharven words may be native words, built freely on the Far-Northern sound rules; Kharven
+    speech carries its own words.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -541,10 +539,10 @@ rules:
   title: Moto Words
   status: live
   kind: mandate
-  summary: Moto and other Japonic houses use Japanese honorifics and address forms in speech,
-    in a feudal register, never modern casual.
-  verbatim: Moto and other Japonic houses use Japanese honorifics and address forms in speech,
-    in a feudal register, never modern casual.
+  summary: Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal
+    register, never modern casual.
+  verbatim: Moto and other Japonic houses use Japanese honorifics and address forms in speech, in a feudal
+    register, never modern casual.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -567,10 +565,10 @@ rules:
   title: Moto Voice
   status: live
   kind: mandate
-  summary: The Moto narration register is drafted by the partner from The Muster's prose and
-    put to Isaac to rule on.
-  verbatim: The Moto narration register is drafted by the partner from The Muster's prose and
-    put to Isaac to rule on.
+  summary: The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac
+    to rule on.
+  verbatim: The Moto narration register is drafted by the partner from The Muster's prose and put to Isaac
+    to rule on.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -667,10 +665,8 @@ rules:
   title: Class
   status: live
   kind: mandate
-  summary: 'Class in diction is set by character only: no class default; each card sets the
-    voice.'
-  verbatim: 'Class in diction is set by character only: no class default; each card sets the
-    voice.'
+  summary: 'Class in diction is set by character only: no class default; each card sets the voice.'
+  verbatim: 'Class in diction is set by character only: no class default; each card sets the voice.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -693,10 +689,10 @@ rules:
   title: Dialect
   status: live
   kind: mandate
-  summary: Any accent may be spelled phonetically, applied evenly including high-born speakers;
-    the wiki's Accent page bar on eye-dialect is superseded.
-  verbatim: Any accent may be spelled phonetically, applied evenly including high-born speakers;
-    the wiki's Accent page bar on eye-dialect is superseded.
+  summary: Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's
+    Accent page bar on eye-dialect is superseded.
+  verbatim: Any accent may be spelled phonetically, applied evenly including high-born speakers; the wiki's
+    Accent page bar on eye-dialect is superseded.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -719,10 +715,10 @@ rules:
   title: Chant Page
   status: live
   kind: mandate
-  summary: A chant appears in its own language; a POV who understands it may think the meaning
-    in his own words.
-  verbatim: A chant appears in its own language; a POV who understands it may think the meaning
-    in his own words.
+  summary: A chant appears in its own language; a POV who understands it may think the meaning in his
+    own words.
+  verbatim: A chant appears in its own language; a POV who understands it may think the meaning in his
+    own words.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -745,10 +741,10 @@ rules:
   title: Swearing
   status: live
   kind: mandate
-  summary: 'Swearing uses both: English swears are fine, and each culture has its own oaths
-    and insults and uses those first.'
-  verbatim: 'Swearing uses both: English swears are fine, and each culture has its own oaths
-    and insults and uses those first.'
+  summary: 'Swearing uses both: English swears are fine, and each culture has its own oaths and insults
+    and uses those first.'
+  verbatim: 'Swearing uses both: English swears are fine, and each culture has its own oaths and insults
+    and uses those first.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -771,10 +767,10 @@ rules:
   title: Holy Oaths
   status: live
   kind: mandate
-  summary: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world:
-    characters swear by their own powers (''Archons take it'', ''By the Sky'').'
-  verbatim: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world:
-    characters swear by their own powers (''Archons take it'', ''By the Sky'').'
+  summary: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters
+    swear by their own powers (''Archons take it'', ''By the Sky'').'
+  verbatim: 'Earth religious swears (God damn it, Christ, go to hell, Jesus) are replaced in-world: characters
+    swear by their own powers (''Archons take it'', ''By the Sky'').'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -797,10 +793,10 @@ rules:
   title: Sense Bank
   status: live
   kind: mandate
-  summary: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours,
-    textures); scenes draw from it first.
-  verbatim: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours,
-    textures); scenes draw from it first.
+  summary: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures);
+    scenes draw from it first.
+  verbatim: Each culture's Standing Inventory gains a senses entry (smells, sounds, colours, textures);
+    scenes draw from it first.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -847,12 +843,10 @@ rules:
   title: Doc Register
   status: live
   kind: mandate
-  summary: 'In-world documents keep a house style per institution: Accord chancery formal and
-    Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the
-    writer''s voice.'
-  verbatim: 'In-world documents keep a house style per institution: Accord chancery formal and
-    Latinate, the Dawi Tally terse entries, Moto records in the old register, letters in the
-    writer''s voice.'
+  summary: 'In-world documents keep a house style per institution: Accord chancery formal and Latinate,
+    the Dawi Tally terse entries, Moto records in the old register, letters in the writer''s voice.'
+  verbatim: 'In-world documents keep a house style per institution: Accord chancery formal and Latinate,
+    the Dawi Tally terse entries, Moto records in the old register, letters in the writer''s voice.'
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -875,10 +869,10 @@ rules:
   title: Doc Modern
   status: live
   kind: mandate
-  summary: The modern-word list applies to in-world documents like narration; documents are
-    timeless and the checker runs the list on them.
-  verbatim: The modern-word list applies to in-world documents like narration; documents are
-    timeless and the checker runs the list on them.
+  summary: The modern-word list applies to in-world documents like narration; documents are timeless and
+    the checker runs the list on them.
+  verbatim: The modern-word list applies to in-world documents like narration; documents are timeless
+    and the checker runs the list on them.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction
@@ -901,12 +895,12 @@ rules:
   title: New Swears
   status: live
   kind: mandate
-  summary: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi,
-    Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to
-    approve before they are canon.
-  verbatim: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi,
-    Accord, Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to
-    approve before they are canon.
+  summary: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord,
+    Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they
+    are canon.
+  verbatim: A starter set of WOTR-invented swears is drafted per culture (Kharven, Moto, Dawi, Accord,
+    Elven, Zettari) from each culture's gods, weather, work and taboos, for Isaac to approve before they
+    are canon.
   amends:
   - guide: NATALIE.md and the wotr-write skill
     locus: Vocabulary and diction

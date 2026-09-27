@@ -190,8 +190,10 @@ rules:
   title: Accord Forming Now
   status: live
   kind: mandate
-  summary: The Guild Accord is forming now, in the story's present.
-  verbatim: The Guild Accord is forming now, in the story's present.
+  summary: 'The Guild Accord is forming now: the communion is being negotiated during the story, and the
+    guilds are still competing hunting companies.'
+  verbatim: 'The Guild Accord is forming now: the communion is being negotiated during the story, and
+    the guilds are still competing hunting companies.'
   amends: []
   supersedes: []
   applies_to:
@@ -201,7 +203,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R60-10-LICENSED_FOR_HIRE
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -210,9 +213,9 @@ rules:
   status: live
   kind: mandate
   summary: Anyone may practise privately, but taking pay for workings or hunts needs a guild licence;
-    unlicensed hunters are cheap and common.
+    unlicensed hunters are cheap, common and illegal-ish.
   verbatim: Anyone may practise privately, but taking pay for workings or hunts needs a guild licence;
-    unlicensed hunters are cheap and common.
+    unlicensed hunters are cheap, common and illegal-ish.
   amends: []
   supersedes: []
   applies_to:
@@ -223,7 +226,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R60-11-TRACE_EVIDENCE_AND_JURISDICTION
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -356,11 +360,13 @@ rules:
   title: Learning Anyway
   status: live
   kind: mandate
-  summary: 'Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting
-    guilds train their own outside the state''s gate), and harsh penalties for unlicensed high magic.'
-  verbatim: 'Those who learn anyway: black-market teaching, self-derived workings, the guild loophole
-    (hunting guilds train their own outside the state''s gate), and harsh penalties for unlicensed high
-    magic.'
+  summary: 'Those who learn anyway: black-market teaching (hedge-schools, stolen manuals, back-room masters;
+    a whole criminal economy); self-derived workings, the mark of the outlaw and the genius; the guild
+    loophole (hunting guilds train their own ...'
+  verbatim: 'Those who learn anyway: black-market teaching (hedge-schools, stolen manuals, back-room masters;
+    a whole criminal economy); self-derived workings, the mark of the outlaw and the genius; the guild
+    loophole (hunting guilds train their own outside the state''s gate, part of why the states want the
+    Accord); and unlicensed high magic is punished like treason: branding, Crystal sealing, death.'
   amends: []
   supersedes: []
   applies_to:
@@ -370,7 +376,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R60-18-ACCORD_FORMING_IN_CIRCLES
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -477,7 +484,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: 'Refined by R60-26-NIGHT_WATCH_SOCIETY (C-087): one body, a crown-chartered society.'
 - id: R60-23-THE_MOTHER
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null
@@ -508,8 +515,10 @@ rules:
   title: The Mother Is A Cult
   status: live
   kind: definition
-  summary: The Mother is a cult.
-  verbatim: The Mother is a cult.
+  summary: 'The Mother is a cult: a religious following of the Becoming; members seek Malphas''s path
+    to undeath and worship the rot.'
+  verbatim: 'The Mother is a cult: a religious following of the Becoming; members seek Malphas''s path
+    to undeath and worship the rot.'
   amends: []
   supersedes: []
   applies_to:
@@ -519,7 +528,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R60-25-WHAT_MALPHAS_WANTS
   pack: Combat, Society and Politics Law 2026-09-26
   pack_number: null

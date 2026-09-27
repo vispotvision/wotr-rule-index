@@ -191,10 +191,10 @@ rules:
   title: Force is unmeasured from Zenith up; the Zenith row sits beside the Grade ladder
   status: live
   kind: definition
-  summary: Stage XV keeps the EX+ Grade label but its force is unmeasured like Zenith; the Zenith row
-    stands beside the Grade ladder, not on it.
+  summary: 'Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like
+    Zenith''s.'
   verbatim: 'Unmeasured from Zenith: Stage XV keeps its EX+ Grade label, but its force is unmeasured like
-    Zenith''s; the Zenith row sits beside the Grade ladder, not on it.'
+    Zenith''s.'
   amends:
   - guide: Fracture of Worlds — The Living System
     locus: Fracture of Worlds — The Living System
@@ -209,7 +209,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: ''
+  notes: Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27) to state exactly
+    what Isaac chose.
 - id: R54-9-STRIKE_FORCE_OUTLIERS_STAND
   pack: Queue Questionnaire 2026-09-26
   pack_number: null

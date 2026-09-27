@@ -13,10 +13,10 @@ rules:
   title: Real grammar
   status: live
   kind: mandate
-  summary: Borrowed real-language names must be real, correct phrases in that language, and
-    the gloss must match what the words actually mean.
-  verbatim: Borrowed real-language names must be real, correct phrases in that language, and
-    the gloss must match what the words actually mean.
+  summary: Borrowed real-language names must be real, correct phrases in that language, and the gloss
+    must match what the words actually mean.
+  verbatim: Borrowed real-language names must be real, correct phrases in that language, and the gloss
+    must match what the words actually mean.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -29,9 +29,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n01: Real-language names in the wiki are often loose. ''Upanga wa Msimu Nne''
-    would be ''Upanga wa Misimu Minne'' in correct Swahili, ''Kibanda cha Mwanga wa Miti'' says
-    hut, not lantern, and ''Shigoto no Baransu'
+  notes: 'Question n01: Real-language names in the wiki are often loose. ''Upanga wa Msimu Nne'' would
+    be ''Upanga wa Misimu Minne'' in correct Swahili, ''Kibanda cha Mwanga wa Miti'' says hut, not lantern,
+    and ''Shigoto no Baransu'
 - id: R50-02-FIX_OLD_ONES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -39,10 +39,10 @@ rules:
   title: Fix old ones
   status: live
   kind: mandate
-  summary: A published name that is wrong in its source language has its grammar and spelling
-    corrected where the name keeps its sound; the rest stays.
-  verbatim: A published name that is wrong in its source language has its grammar and spelling
-    corrected where the name keeps its sound; the rest stays.
+  summary: A published name that is wrong in its source language has its grammar and spelling corrected
+    where the name keeps its sound; the rest stays.
+  verbatim: A published name that is wrong in its source language has its grammar and spelling corrected
+    where the name keeps its sound; the rest stays.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -55,9 +55,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n02: If a published name turns out to be wrong in its source language (bad
-    Swahili, odd Japanese), what happens to it? R20C-40 says names established in prose are
-    flagged, never renamed.'
+  notes: 'Question n02: If a published name turns out to be wrong in its source language (bad Swahili,
+    odd Japanese), what happens to it? R20C-40 says names established in prose are flagged, never renamed.'
 - id: R50-03-EARTH_PLACES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -79,8 +78,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n03: Some prose uses real Earth place names as they are (a ''North Ferriby
-    walk'' is a real English village). Can a WOTR place carry a real Earth place name unchanged?'
+  notes: 'Question n03: Some prose uses real Earth place names as they are (a ''North Ferriby walk'' is
+    a real English village). Can a WOTR place carry a real Earth place name unchanged?'
 - id: R50-04-POP_CULTURE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -88,10 +87,10 @@ rules:
   title: Pop culture
   status: live
   kind: mandate
-  summary: Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed;
-    homage is fine and the name means what WOTR makes it mean.
-  verbatim: Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed;
-    homage is fine and the name means what WOTR makes it mean.
+  summary: Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage
+    is fine and the name means what WOTR makes it mean.
+  verbatim: Names that echo a famous franchise (Stark, Greymane, the Night's Watch) are allowed; homage
+    is fine and the name means what WOTR makes it mean.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -104,9 +103,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n04: The wiki carries Stark (453 mentions), Greymane (389) and the Night''s
-    Watch (21), each famous from another franchise. What is the rule for names that loudly echo
-    a famous book, show or game?'
+  notes: 'Question n04: The wiki carries Stark (453 mentions), Greymane (389) and the Night''s Watch (21),
+    each famous from another franchise. What is the rule for names that loudly echo a famous book, show
+    or game?'
 - id: R50-05-MYTH_FIGURES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -114,10 +113,10 @@ rules:
   title: Myth figures
   status: live
   kind: mandate
-  summary: A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being
-    is its own, the name is a nod.
-  verbatim: A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being
-    is its own, the name is a nod.
+  summary: A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its
+    own, the name is a nod.
+  verbatim: A WOTR being may carry a real god, demon or saint name as a borrowing; WOTR's being is its
+    own, the name is a nod.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -130,9 +129,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n05: Real myth and religion names turn up as characters (Malphas is a demon
-    from the Goetia; Tengri was already struck to ''the Sky''). May a WOTR being carry a real
-    god, demon or saint name?'
+  notes: 'Question n05: Real myth and religion names turn up as characters (Malphas is a demon from the
+    Goetia; Tengri was already struck to ''the Sky''). May a WOTR being carry a real god, demon or saint
+    name?'
 - id: R50-06-SACRED_TERMS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -140,10 +139,10 @@ rules:
   title: Sacred terms
   status: live
   kind: mandate
-  summary: No ban on sacred or ceremonial terms from living traditions in any register; a sacred
-    word used respectfully is allowed.
-  verbatim: No ban on sacred or ceremonial terms from living traditions in any register; a sacred
-    word used respectfully is allowed.
+  summary: No ban on sacred or ceremonial terms from living traditions in any register; a sacred word
+    used respectfully is allowed.
+  verbatim: No ban on sacred or ceremonial terms from living traditions in any register; a sacred word
+    used respectfully is allowed.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -157,8 +156,8 @@ rules:
     file: ''
     lines: null
   notes: 'Question n06: The Elven rule bans crest, ceremonial or sacred terms from living traditions.
-    Does that ban reach every register (Shinto ''kagura'', Swahili ''mizimu'' for ancestor spirits,
-    Arabic religious words in Zett'
+    Does that ban reach every register (Shinto ''kagura'', Swahili ''mizimu'' for ancestor spirits, Arabic
+    religious words in Zett'
 - id: R50-07-NEW_TONGUES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -166,10 +165,8 @@ rules:
   title: New tongues
   status: live
   kind: mandate
-  summary: The partner may open a new real-language naming register for a new people, logged
-    as pending.
-  verbatim: The partner may open a new real-language naming register for a new people, logged
-    as pending.
+  summary: The partner may open a new real-language naming register for a new people, logged as pending.
+  verbatim: The partner may open a new real-language naming register for a new people, logged as pending.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Borrowing from real languages
@@ -182,8 +179,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n07: The partner may reach for a real language no stratum covers yet (Persian
-    for a desert court, Nahuatl for a jungle people). Who may open a new naming register?'
+  notes: 'Question n07: The partner may reach for a real language no stratum covers yet (Persian for a
+    desert court, Nahuatl for a jungle people). Who may open a new naming register?'
 - id: R50-08-GLOSS_CLASH
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -191,10 +188,10 @@ rules:
   title: Gloss clash
   status: live
   kind: mandate
-  summary: 'R49-48 governs: technique names and translations are free in narration; the older
-    Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.'
-  verbatim: 'R49-48 governs: technique names and translations are free in narration; the older
-    Pack Twenty clauses that kept the gloss off the page and the true name un-narrated are superseded.'
+  summary: 'R49-48 governs: technique names and translations are free in narration; the older Pack Twenty
+    clauses that kept the gloss off the page and the true name un-narrated are superseded.'
+  verbatim: 'R49-48 governs: technique names and translations are free in narration; the older Pack Twenty
+    clauses that kept the gloss off the page and the true name un-narrated are superseded.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Techniques, arts and items
@@ -208,9 +205,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n08: Two live rules disagree. R49-48 says technique names and their translations
-    are free in narration. R20C-38 still says the gloss never appears in prose, the true name
-    is spoken and never narrated, and '
+  notes: 'Question n08: Two live rules disagree. R49-48 says technique names and their translations are
+    free in narration. R20C-38 still says the gloss never appears in prose, the true name is spoken and
+    never narrated, and '
 - id: R50-09-ONE_RELEASE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -218,10 +215,10 @@ rules:
   title: One release
   status: live
   kind: mandate
-  summary: 'No limit on release calls: an art may be called as often as the fight gives a beat;
-    each call still costs the beat.'
-  verbatim: 'No limit on release calls: an art may be called as often as the fight gives a beat;
-    each call still costs the beat.'
+  summary: 'No limit on release calls: an art may be called as often as the fight gives a beat; each call
+    still costs the beat.'
+  verbatim: 'No limit on release calls: an art may be called as often as the fight gives a beat; each
+    call still costs the beat.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Techniques, arts and items
@@ -234,8 +231,7 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n09: Does ''one release per scene'' (a spoken art-name call, R20C-38) still
-    hold?'
+  notes: 'Question n09: Does ''one release per scene'' (a spoken art-name call, R20C-38) still hold?'
 - id: R50-10-NAME_STYLE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -243,10 +239,10 @@ rules:
   title: Name style
   status: live
   kind: mandate
-  summary: 'Technique naming leans by culture: plain English names for common-tongue fighters,
-    true names with a gloss for houses with a register.'
-  verbatim: 'Technique naming leans by culture: plain English names for common-tongue fighters,
-    true names with a gloss for houses with a register.'
+  summary: 'Technique naming leans by culture: plain English names for common-tongue fighters, true names
+    for houses with a register.'
+  verbatim: 'Technique naming leans by culture: plain English names for common-tongue fighters, true names
+    for houses with a register.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Techniques, arts and items
@@ -259,9 +255,10 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n10: The wotr-write naming note says technique names pass ''the one-beat
-    test: the name is the thing''. R8-12 repealed ''ability naming equals the phenomenon itself,
-    Ruin is Ruin''. Which way should a new tech'
+  notes: 'Question n10: The wotr-write naming note says technique names pass ''the one-beat test: the
+    name is the thing''. R8-12 repealed ''ability naming equals the phenomenon itself, Ruin is Ruin''.
+    Which way should a new tech Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27)
+    to state exactly what Isaac chose.'
 - id: R50-11-LONG_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -283,9 +280,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n11: Many wiki techniques are long English compounds (''Celestial Decree
-    Aeon-Shard Mandate'', ''Harmonic Null-Ascension'', ''Solarbound Aegoric Knight''). For new
-    ones, is that style still welcome?'
+  notes: 'Question n11: Many wiki techniques are long English compounds (''Celestial Decree Aeon-Shard
+    Mandate'', ''Harmonic Null-Ascension'', ''Solarbound Aegoric Knight''). For new ones, is that style
+    still welcome?'
 - id: R50-12-COINED_LATIN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -307,9 +304,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n12: Many names are invented Latin-flavoured words that are not real Latin
-    (Exuroth, Pyreveil, Cryost, Eidolyn, Aegoric). Real Latin also appears (Sigillum Fixatio).
-    Which should new Latinate names be?'
+  notes: 'Question n12: Many names are invented Latin-flavoured words that are not real Latin (Exuroth,
+    Pyreveil, Cryost, Eidolyn, Aegoric). Real Latin also appears (Sigillum Fixatio). Which should new
+    Latinate names be?'
 - id: R50-13-ITEM_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -317,10 +314,10 @@ rules:
   title: Item names
   status: live
   kind: mandate
-  summary: 'An item''s true name depends on who tells it: each culture names it in its own tongue,
-    and the page lists the names side by side.'
-  verbatim: 'An item''s true name depends on who tells it: each culture names it in its own
-    tongue, and the page lists the names side by side.'
+  summary: 'An item''s true name depends on who tells it: each culture names it in its own tongue, and
+    the page lists the names side by side.'
+  verbatim: 'An item''s true name depends on who tells it: each culture names it in its own tongue, and
+    the page lists the names side by side.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Techniques, arts and items
@@ -333,8 +330,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n13: Named items pair a true name with an English by-name (''Kogane Kei ·
-    The Soul-Reed Blade''). Whose language gives an item its true name?'
+  notes: 'Question n13: Named items pair a true name with an English by-name (''Kogane Kei · The Soul-Reed
+    Blade''). Whose language gives an item its true name?'
 - id: R50-14-ESCALATION
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -342,10 +339,8 @@ rules:
   title: Escalation
   status: live
   kind: mandate
-  summary: A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes
-    Kurosetsu-Kai).
-  verbatim: A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes
-    Kurosetsu-Kai).
+  summary: A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).
+  verbatim: A stronger form of an art takes a suffix in the art's own language (Kurosetsu becomes Kurosetsu-Kai).
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Techniques, arts and items
@@ -358,8 +353,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n14: A stronger form of a known art takes a modifier on its existing true
-    name (R8-25). What should the modifier look like on the page?'
+  notes: 'Question n14: A stronger form of a known art takes a modifier on its existing true name (R8-25).
+    What should the modifier look like on the page?'
 - id: R50-15-DIACRITICS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -381,8 +376,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n15: Canon uses macrons and marks (Kōkan, Sōhai, Vā, Ma''Kovu). How far should
-    names go in accents and marks?'
+  notes: 'Question n15: Canon uses macrons and marks (Kōkan, Sōhai, Vā, Ma''Kovu). How far should names
+    go in accents and marks?'
 - id: R50-16-HOW_EXOTIC
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -390,10 +385,10 @@ rules:
   title: How exotic
   status: live
   kind: mandate
-  summary: 'How hard a name is to say is decided by its register: if the register makes it hard,
-    it is hard, and the reader learns it.'
-  verbatim: 'How hard a name is to say is decided by its register: if the register makes it
-    hard, it is hard, and the reader learns it.'
+  summary: 'How hard a name is to say is decided by its register: if the register makes it hard, it is
+    hard, and the reader learns it.'
+  verbatim: 'How hard a name is to say is decided by its register: if the register makes it hard, it is
+    hard, and the reader learns it.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: People's names
@@ -406,8 +401,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n16: How hard may a name be for an English reader to say? (Far-Northern allows
-    q-heavy uvular names; Old Vaross stacks consonants.)'
+  notes: 'Question n16: How hard may a name be for an English reader to say? (Far-Northern allows q-heavy
+    uvular names; Old Vaross stacks consonants.)'
 - id: R50-17-SHARED_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -429,8 +424,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n17: Two Onawas were kept and made into a story. What is the rule for two
-    characters sharing a name or sounding alike?'
+  notes: 'Question n17: Two Onawas were kept and made into a story. What is the rule for two characters
+    sharing a name or sounding alike?'
 - id: R50-18-OUTLIERS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -438,10 +433,10 @@ rules:
   title: Outliers
   status: live
   kind: mandate
-  summary: 'The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio,
-    no reason needed.'
-  verbatim: 'The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio,
-    no reason needed.'
+  summary: 'The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason
+    needed.'
+  verbatim: 'The one-in-eight outlier-name budget is dropped: outlier names are free, no ratio, no reason
+    needed.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: People's names
@@ -455,8 +450,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n18: About one named character in eight may carry a name that fits no stratum,
-    each with a reason in the workbook (R23-5). Keep that budget?'
+  notes: 'Question n18: About one named character in eight may carry a name that fits no stratum, each
+    with a reason in the workbook (R23-5). Keep that budget?'
 - id: R50-19-ZETTARI_BANK
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -464,10 +459,8 @@ rules:
   title: Zettari bank
   status: live
   kind: mandate
-  summary: 'The Zettari keep a free register: names are coined in the register''s sound, no
-    element bank.'
-  verbatim: 'The Zettari keep a free register: names are coined in the register''s sound, no
-    element bank.'
+  summary: 'The Zettari keep a free register: names are coined in the register''s sound, no element bank.'
+  verbatim: 'The Zettari keep a free register: names are coined in the register''s sound, no element bank.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: People's names
@@ -480,9 +473,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n19: The Zettari keep their Swahili/Bantu/Arabic register (R32-1), but unlike
-    Moto, Mahuo, Yukari and the Dawi they have no fixed element bank to build names from. Should
-    they get one?'
+  notes: 'Question n19: The Zettari keep their Swahili/Bantu/Arabic register (R32-1), but unlike Moto,
+    Mahuo, Yukari and the Dawi they have no fixed element bank to build names from. Should they get one?'
 - id: R50-20-OTHER_BANKS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -490,10 +482,10 @@ rules:
   title: Other banks
   status: live
   kind: mandate
-  summary: No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples;
-    their sound rules are enough.
-  verbatim: No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples;
-    their sound rules are enough.
+  summary: No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their
+    sound rules are enough.
+  verbatim: No element banks are needed for the Chinese-stratum halls or the Far-Northern peoples; their
+    sound rules are enough.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: People's names
@@ -506,9 +498,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n20: The Chinese-stratum lineage halls and the Far-Northern peoples have
-    rules and sounds but no element bank either. Should the partner build those before naming
-    anyone in them?'
+  notes: 'Question n20: The Chinese-stratum lineage halls and the Far-Northern peoples have rules and
+    sounds but no element bank either. Should the partner build those before naming anyone in them?'
 - id: R50-21-THIRD_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -516,10 +507,10 @@ rules:
   title: Third Names
   status: live
   kind: mandate
-  summary: The partner may coin a Third Name for one of Isaac's characters through an NPC in
-    a scene; it sticks only if Isaac keeps it.
-  verbatim: The partner may coin a Third Name for one of Isaac's characters through an NPC in
-    a scene; it sticks only if Isaac keeps it.
+  summary: The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene;
+    it sticks only if Isaac keeps it.
+  verbatim: The partner may coin a Third Name for one of Isaac's characters through an NPC in a scene;
+    it sticks only if Isaac keeps it.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: People's names
@@ -541,10 +532,8 @@ rules:
   title: Place strata
   status: live
   kind: mandate
-  summary: A place carries several names, one per culture that uses it; the POV picks which
-    to use.
-  verbatim: A place carries several names, one per culture that uses it; the POV picks which
-    to use.
+  summary: A place carries several names, one per culture that uses it; the POV picks which to use.
+  verbatim: A place carries several names, one per culture that uses it; the POV picks which to use.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Places, factions, schools, Wellsprings
@@ -557,8 +546,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n22: People''s names follow institution, never geography. Nothing says how
-    a place is named. Which rule should places follow?'
+  notes: 'Question n22: People''s names follow institution, never geography. Nothing says how a place
+    is named. Which rule should places follow?'
 - id: R50-23-DOUBLETS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -566,10 +555,10 @@ rules:
   title: Doublets
   status: live
   kind: mandate
-  summary: 'The Accord Latin / common-tongue doublet extends to everything: schools, factions
-    and places get both, and the speaker picks.'
-  verbatim: 'The Accord Latin / common-tongue doublet extends to everything: schools, factions
-    and places get both, and the speaker picks.'
+  summary: 'The Accord Latin / common-tongue doublet extends to everything: schools, factions and places
+    get both, and the speaker picks.'
+  verbatim: 'The Accord Latin / common-tongue doublet extends to everything: schools, factions and places
+    get both, and the speaker picks.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Places, factions, schools, Wellsprings
@@ -582,9 +571,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n23: Every craft term has an Accord Latin name and a common-tongue name,
-    and the choice marks class (R20C-46). Does that doublet stretch to factions, schools and
-    places?'
+  notes: 'Question n23: Every craft term has an Accord Latin name and a common-tongue name, and the choice
+    marks class (R20C-46). Does that doublet stretch to factions, schools and places?'
 - id: R50-24-SCHOOL_NAMES
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -592,10 +580,10 @@ rules:
   title: School names
   status: live
   kind: mandate
-  summary: A fighting or magic school takes a true name in the founding culture's own tongue,
-    like an art.
-  verbatim: A fighting or magic school takes a true name in the founding culture's own tongue,
-    like an art.
+  summary: A fighting or magic school takes a true name in the founding culture's own tongue, like an
+    art.
+  verbatim: A fighting or magic school takes a true name in the founding culture's own tongue, like an
+    art.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Places, factions, schools, Wellsprings
@@ -608,8 +596,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n24: How should a fighting or magic school be named (a Dawi forge-school,
-    a Moto sword lineage, a Concord academy)?'
+  notes: 'Question n24: How should a fighting or magic school be named (a Dawi forge-school, a Moto sword
+    lineage, a Concord academy)?'
 - id: R50-25-WELLSPRINGS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -617,10 +605,8 @@ rules:
   title: Wellsprings
   status: live
   kind: mandate
-  summary: Local folk names for a Wellspring are recorded on the Wellspring's page and usable
-    anywhere.
-  verbatim: Local folk names for a Wellspring are recorded on the Wellspring's page and usable
-    anywhere.
+  summary: Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.
+  verbatim: Local folk names for a Wellspring are recorded on the Wellspring's page and usable anywhere.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Places, factions, schools, Wellsprings
@@ -633,8 +619,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n25: The Sixty Wellsprings have fixed names (Pyreveil, Exuroth). When a local
-    people knows a Wellspring, may they call it by their own name for it?'
+  notes: 'Question n25: The Sixty Wellsprings have fixed names (Pyreveil, Exuroth). When a local people
+    knows a Wellspring, may they call it by their own name for it?'
 - id: R50-26-CHANT_TONGUE
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -643,8 +629,7 @@ rules:
   status: live
   kind: mandate
   summary: Each practitioner chants in their own language; the Latin-default chant rule is superseded.
-  verbatim: Each practitioner chants in their own language; the Latin-default chant rule is
-    superseded.
+  verbatim: Each practitioner chants in their own language; the Latin-default chant rule is superseded.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Places, factions, schools, Wellsprings
@@ -658,9 +643,9 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n26: Two live rules conflict. R15-1 says Latin for chant-based magic stands
-    by default. R20C-35 says the Latin chant rule folds into the repeal and a practitioner chants
-    in their own language. Which holds?'
+  notes: 'Question n26: Two live rules conflict. R15-1 says Latin for chant-based magic stands by default.
+    R20C-35 says the Latin chant rule folds into the repeal and a practitioner chants in their own language.
+    Which holds?'
 - id: R50-27-NEW_NPC_NAME
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -668,10 +653,10 @@ rules:
   title: New NPC name
   status: live
   kind: mandate
-  summary: A new person the partner introduces is a role (the gate-clerk) until they speak twice
-    or matter; then they get a name.
-  verbatim: A new person the partner introduces is a role (the gate-clerk) until they speak
-    twice or matter; then they get a name.
+  summary: A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter;
+    then they get a name.
+  verbatim: A new person the partner introduces is a role (the gate-clerk) until they speak twice or matter;
+    then they get a name.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Naming things mid-scene
@@ -684,8 +669,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n27: When the partner puts a new person in a scene (a gate guard, a clerk),
-    when do they get a name?'
+  notes: 'Question n27: When the partner puts a new person in a scene (a gate guard, a clerk), when do
+    they get a name?'
 - id: R50-28-NEW_WORDS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -693,10 +678,10 @@ rules:
   title: New words
   status: live
   kind: mandate
-  summary: A word the partner coins mid-scene is logged with the scene, not docketed; it becomes
-    canon only if Isaac reuses it.
-  verbatim: A word the partner coins mid-scene is logged with the scene, not docketed; it becomes
-    canon only if Isaac reuses it.
+  summary: A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon
+    only if Isaac reuses it.
+  verbatim: A word the partner coins mid-scene is logged with the scene, not docketed; it becomes canon
+    only if Isaac reuses it.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Naming things mid-scene
@@ -709,8 +694,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n28: Your own coinages are kept and docketed (R16-6). When the partner coins
-    a word mid-scene (a slang term, a new drink, a school), what happens to it?'
+  notes: 'Question n28: Your own coinages are kept and docketed (R16-6). When the partner coins a word
+    mid-scene (a slang term, a new drink, a school), what happens to it?'
 - id: R50-29-COLLISION
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -718,10 +703,10 @@ rules:
   title: Collision
   status: live
   kind: mandate
-  summary: 'When a name invented mid-scene clashes with an existing page, it becomes a beat:
-    two people with one name, and the world notices.'
-  verbatim: 'When a name invented mid-scene clashes with an existing page, it becomes a beat:
-    two people with one name, and the world notices.'
+  summary: 'When a name invented mid-scene clashes with an existing page, it becomes a beat: two people
+    with one name, and the world notices.'
+  verbatim: 'When a name invented mid-scene clashes with an existing page, it becomes a beat: two people
+    with one name, and the world notices.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Naming things mid-scene
@@ -734,8 +719,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n29: The partner invents a name mid-scene that turns out to clash with an
-    existing page (same name, other person). What then?'
+  notes: 'Question n29: The partner invents a name mid-scene that turns out to clash with an existing
+    page (same name, other person). What then?'
 - id: R50-30-BANK_OR_EAR
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -743,10 +728,10 @@ rules:
   title: Bank or ear
   status: live
   kind: mandate
-  summary: Mid-scene the partner may name by ear to keep the pace; names are checked against
-    the banks and sound rules at the scene's end.
-  verbatim: Mid-scene the partner may name by ear to keep the pace; names are checked against
-    the banks and sound rules at the scene's end.
+  summary: Mid-scene the partner may name by ear to keep the pace; names are checked against the banks
+    and sound rules at the scene's end.
+  verbatim: Mid-scene the partner may name by ear to keep the pace; names are checked against the banks
+    and sound rules at the scene's end.
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Naming things mid-scene
@@ -759,8 +744,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n30: Mid-scene, must the partner build a name from the element banks and
-    sound rules every time, or can they name by ear and fix it later?'
+  notes: 'Question n30: Mid-scene, must the partner build a name from the element banks and sound rules
+    every time, or can they name by ear and fix it later?'
 - id: R50-31-SCRIPT_SHOWN
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -768,10 +753,8 @@ rules:
   title: Script shown
   status: live
   kind: mandate
-  summary: 'True names are romanised only: no real script (kanji, hangul) on cards, pages or
-    prose.'
-  verbatim: 'True names are romanised only: no real script (kanji, hangul) on cards, pages or
-    prose.'
+  summary: 'True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.'
+  verbatim: 'True names are romanised only: no real script (kanji, hangul) on cards, pages or prose.'
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Names on pages vs in prose
@@ -784,8 +767,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n31: Entries may carry the true name ''in script where the register has one''
-    (kanji, hangul). Should cards and codex pages show real script?'
+  notes: 'Question n31: Entries may carry the true name ''in script where the register has one'' (kanji,
+    hangul). Should cards and codex pages show real script?'
 - id: R50-32-ITALICS
   pack: Naming Law 2026-09-26
   pack_number: null
@@ -815,10 +798,10 @@ rules:
   title: Mispronounce
   status: live
   kind: mandate
-  summary: A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo
-    becomes 'Gimzo').
-  verbatim: A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo
-    becomes 'Gimzo').
+  summary: A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes
+    'Gimzo').
+  verbatim: A foreigner's bent pronunciation of a name is spelled as heard in dialogue (Gimbzo becomes
+    'Gimzo').
   amends:
   - guide: Naming guide and the wotr-write skill
     locus: Names on pages vs in prose
@@ -831,8 +814,8 @@ rules:
   source:
     file: ''
     lines: null
-  notes: 'Question n33: Names said by a foreigner come out bent (a Concord human flattens a
-    Dawi name). How does that show on the page?'
+  notes: 'Question n33: Names said by a foreigner come out bent (a Concord human flattens a Dawi name).
+    How does that show on the page?'
 - id: R50-34-SAY_GUIDE
   pack: Naming Law 2026-09-26
   pack_number: null

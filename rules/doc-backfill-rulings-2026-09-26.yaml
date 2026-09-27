@@ -22,9 +22,9 @@ rules:
   applies_to:
   - worldbuilding
   - character-sheet
-  verification: []
+  verification: &id001 []
   ratified: Isaac, 2026-09-18, ruled directly (RULINGS.md entry '## 2026-09-18 — new')
-  source:
+  source: &id002
     file: ''
     lines: null
   notes: 'Not yet applied: wiki/Volume I — Character Cards/Kwon Mu-jin.md:26 still reads Age 24 and :32
@@ -517,9 +517,10 @@ rules:
   title: Uncarded pages read the Tier bands
   status: live
   kind: procedure
-  summary: A page with no character card behind it reads its figures from the Tier bands; an unpriced
-    page is priced by its Temperance Gate.
-  verbatim: uncarded pages read Tier bands; unpriced pages priced per Temperance Gate
+  summary: 'Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance
+    Gates, from the EU-by-Stage table.'
+  verbatim: 'Unpriced Spellcraft discipline pages are priced in EU per gate: each branch at its own Temperance
+    Gates, from the EU-by-Stage table.'
   amends: []
   supersedes: []
   applies_to:
@@ -531,4 +532,71 @@ rules:
   source:
     file: ''
     lines: null
-  notes: Summary line only.
+  notes: Summary line only. Corrected 2026-09-27 by the ruling audit (RULINGS.md, ruling-audit-2026-09-27)
+    to state exactly what Isaac chose.
+- id: R57-26-USAGE_STRIPPED_NUMBERS_KEPT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Ruling audit
+  title: Usage Stripped Numbers Kept
+  status: live
+  kind: mandate
+  summary: 'The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics and
+    fight-count phrasing such as ''three verdicts per fight'', ''cheap against mobs''); their numbers
+    stay: costs stay as shares of reserve, and a plain...'
+  verbatim: 'The 76 published technique and Spellcraft write-ups are stripped of usage lines (tactics
+    and fight-count phrasing such as ''three verdicts per fight'', ''cheap against mobs''); their numbers
+    stay: costs stay as shares of reserve, and a plain ''reserve covers N uses'' stays only where it is
+    a number, not advice.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-design
+  - documents
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27: ruling audit (RULINGS.md, ruling-audit-2026-09-27)'
+  source: *id002
+  notes: Chosen by Isaac but never recorded; restored by the ruling audit.
+- id: R57-27-PATH_GATE_BINDS_ITS_COMPONENT
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Ruling audit
+  title: Path Gate Binds Its Component
+  status: live
+  kind: mandate
+  summary: 'A Path gate binds only the component it names: where a working relies on a Sub-Stat component
+    its declared Path does not open, that component runs capped or absent (Florwyn''s Canticle heals but
+    doesn''t reinforce); no Path changes.'
+  verbatim: 'A Path gate binds only the component it names: where a working relies on a Sub-Stat component
+    its declared Path does not open, that component runs capped or absent (Florwyn''s Canticle heals but
+    doesn''t reinforce); no Path changes.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-mechanism
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27: ruling audit (RULINGS.md, ruling-audit-2026-09-27)'
+  source: *id002
+  notes: Chosen by Isaac but never recorded; restored by the ruling audit.
+- id: R57-28-OWN_FIELD_COUNTS_TO_SATURATION
+  pack: Rulings Backfill 2026-09-26
+  pack_number: null
+  section: Ruling audit
+  title: Own Field Counts To Saturation
+  status: live
+  kind: mandate
+  summary: 'A working''s own Essence field counts toward saturation: a threshold is defined in volume
+    and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal
+    Fracture Event for everyone present) like any...'
+  verbatim: 'A working''s own Essence field counts toward saturation: a threshold is defined in volume
+    and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal
+    Fracture Event for everyone present) like any other field.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - magic-mechanism
+  verification: *id001
+  ratified: 'Isaac, 2026-09-27: ruling audit (RULINGS.md, ruling-audit-2026-09-27)'
+  source: *id002
+  notes: Chosen by Isaac but never recorded; restored by the ruling audit.

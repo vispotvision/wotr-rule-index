@@ -1050,7 +1050,7 @@ the author notes."
 **Quotes:** R49-35: "No exemption for the crafted speech: even it must pass the composure check, eloquent without balanced parallel clauses." R52-06: "Triads and parallel clauses are legal in any mouth, under duress included; the composure check drops them."
 **Consequence if unresolved:** check 51 of the 2026-09-26 verification guide cannot pass or fail a crafted speech that carries a balanced parallel clause; it reports it as a C-077 item.
 **Recommendation:** none.
-**Status:** open
+**Status:** ruled 2026-09-27 (RULINGS.md, ruling-audit-2026-09-27): Isaac's later Voices answer (R52-06, 'Everywhere') makes triads and parallel clauses legal in the crafted speech; R49-35 now says so.
 
 ## C-078 — checks 34 and 35 read an Operation line the field format does not have
 
@@ -1148,5 +1148,32 @@ the author notes."
 **The clash:** C-087 makes the Night Register the Society's own. Wystan's card and the Night Watch book's bible file it under the Accord's Arbitration Division. The scene backs the Society: Wystan calls himself "the least able man in this Society". The Night Watch page (published 2026-09-26) names Wystan as the Warden who keeps the Register and names no Division.
 **Quotes:** C-087: "and keeps the Night Register, which takes up what the Lattice Classification Bureau (a separate office) closes."
 **Consequence if unresolved:** a scene cannot say whose desk the Register is, or whether Arbitration can close it.
+**Recommendation:** none.
+**Status:** open
+
+## C-089 — A Path gate binds only the component it names (R57-27); R38-1 says a gate binds the whole merged Sub-Stat
+
+**Rules:** R57-27-PATH_GATE_BINDS_ITS_COMPONENT (restored 2026-09-27 from Isaac's WAR-3 answer) vs R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT
+**The clash:** R57-27: the gate binds only the component it names; that component runs capped or absent. R38-1: a component gate binds the whole merged Sub-Stat.
+**Quotes:** see both rows' verbatim.
+**Consequence if unresolved:** a working that leans on an unopened component cannot be priced one way.
+**Recommendation:** none.
+**Status:** open
+
+## C-090 — 'The smell of ozone' is on the hard-ban list (R51-10); technical smell words like ozone are free for any POV (R51-32)
+
+**Rules:** R51-10-SLOP_WORDS vs R51-32-SMELL_WORDS
+**The clash:** Both are Isaac's choices. The hard-ban list fails "the smell of ozone"; R51-32 frees "ozone" for any POV.
+**Quotes:** see both rows' verbatim.
+**Consequence if unresolved:** build/verify.py fails a phrase another rule allows.
+**Recommendation:** none.
+**Status:** open
+
+## C-091 — 'numinous' keeps only its WOTR sense (R51-11) but belongs in the elevated word bank used freely (R51-12)
+
+**Rules:** R51-11-COLLISIONS vs R51-12-WORD_BANK (restored to include numinous, 2026-09-27)
+**The clash:** R51-11 reserves "numinous" for its WOTR sense; R51-12 puts it in the bank used freely, by ear.
+**Quotes:** see both rows' verbatim.
+**Consequence if unresolved:** whether "numinous" may be used in its ordinary sense is unsettled.
 **Recommendation:** none.
 **Status:** open

@@ -879,5 +879,10 @@
     "page_id": "3e858200-eb22-81f3-b196-dc4d43de0526",
     "title": "Geturo: The Other Side",
     "hash": "4e3f4a8d027b44ef"
+  },
+  "scenes/geturo_the_squeeze.md": {
+    "page_id": "3e858200-eb22-8105-be55-ea6c6f05999d",
+    "title": "Geturo: The Squeeze",
+    "hash": "695b00a393dc1991"
   }
 }

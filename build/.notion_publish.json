@@ -849,5 +849,10 @@
     "page_id": "3e858200-eb22-81f2-aa3f-f2b6a7a16206",
     "title": "Rovhen — The First Lecture",
     "hash": "75cd74728d3c18bd"
+  },
+  "scenes/rovhen_after_the_lecture.md": {
+    "page_id": "3e858200-eb22-8121-8ae1-e2bc80855c8f",
+    "title": "Rovhen — After the Lecture",
+    "hash": "b6fe843873d9fd93"
   }
 }

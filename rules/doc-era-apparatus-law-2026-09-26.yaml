@@ -1,0 +1,350 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat (era and apparatus questionnaire). Each verbatim is an exact substring of its RULINGS.md entry.
+# Standalone-ruling pattern: empty source.file.
+pack: Era and Apparatus Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+rules:
+- id: R55-01-ESSENCE_ENGINES
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Essence Engines
+  status: live
+  kind: mandate
+  summary: 'Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main and
+    the meter are the industrial revolution.'
+  verbatim: 'Prime power: Essence engines. Draw-fed engines replace coal and steam outright; the main
+    and the meter are the industrial revolution.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-02-NO_ELECTRICITY
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: No Electricity
+  status: live
+  kind: mandate
+  summary: 'Electricity: Essence replaces it. Electricity was never discovered as a separate force; the
+    Essence lamp and main fill its place.'
+  verbatim: 'Electricity: Essence replaces it. Electricity was never discovered as a separate force; the
+    Essence lamp and main fill its place.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-03-WIRE_AND_TELEPHONE
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Wire And Telephone
+  status: live
+  kind: mandate
+  summary: 'Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices
+    and rich houses in the big cities.'
+  verbatim: 'Communication: the telegraph wire everywhere the Guild runs, plus telephones in Guild offices
+    and rich houses in the big cities.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-04-VEHICLES
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Vehicles
+  status: live
+  kind: mandate
+  summary: 'Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span,
+    and WOTR also has vehicles and objects of its own invention.'
+  verbatim: 'Vehicles: rail and city trams, motorcars, airships and aircraft all exist across the span,
+    and WOTR also has vehicles and objects of its own invention.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-05-STEEP_REGIONAL_GRADIENT
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Steep Regional Gradient
+  status: live
+  kind: mandate
+  summary: 'Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades
+    behind, the north (Kharven) in the early 1800s; a traveller moves through time.'
+  verbatim: 'Regional gradient: steep. Accord and Guild cities live in the late span, the provinces decades
+    behind, the north (Kharven) in the early 1800s; a traveller moves through time.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-06-MEDIA
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Media
+  status: live
+  kind: mandate
+  summary: 'Media: newspapers and a penny press, photography, moving pictures and recorded sound all exist
+    (the later ones in the later span and the richer places).'
+  verbatim: 'Media: newspapers and a penny press, photography, moving pictures and recorded sound all
+    exist (the later ones in the later span and the richer places).'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-07-VICTORIAN_EDWARDIAN_CITY
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Victorian Edwardian City
+  status: live
+  kind: mandate
+  summary: 'The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and terraces,
+    glass arcades, Essence-lit streets, iron bridges.'
+  verbatim: 'The big city is Victorian-Edwardian: brick and stone, four to six storeys, tenements and
+    terraces, glass arcades, Essence-lit streets, iron bridges.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-08-CLASS_LAYERED_DRESS
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Class Layered Dress
+  status: live
+  kind: mandate
+  summary: 'Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian,
+    the poor in timeless work clothes, each culture bent by its Inventory.'
+  verbatim: 'Dress is class-layered: the rich dress late-span (Edwardian to 1920s), the middle mid-Victorian,
+    the poor in timeless work clothes, each culture bent by its Inventory.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-09-ESSENCE_WORKS
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Essence Works
+  status: live
+  kind: mandate
+  summary: 'Making: clean, humming Essence works and mills; mass production exists, and the grime is in
+    the working conditions, not the air.'
+  verbatim: 'Making: clean, humming Essence works and mills; mass production exists, and the grime is
+    in the working conditions, not the air.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-10-HOUSEHOLD
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Household
+  status: live
+  kind: mandate
+  summary: 'Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food,
+    and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.'
+  verbatim: 'Household: Essence cold-boxes in metered houses, a real ice trade and iceboxes, tinned food,
+    and indoor plumbing in the rich districts; the poor salt, smoke, cellar and use privies and standpipes.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-11-MATERIALS
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Materials
+  status: live
+  kind: mandate
+  summary: 'Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span,
+    and the Master Material Ledger''s Essence-born materials alongside them.'
+  verbatim: 'Materials: cheap steel and iron, rubber and gutta-percha, early plastics in the late span,
+    and the Master Material Ledger''s Essence-born materials alongside them.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - items
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-12-TRANSITIONAL_MILITARY
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Transitional Military
+  status: live
+  kind: mandate
+  summary: 'Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches
+    and rare machine guns later; practitioners change everything anyway.'
+  verbatim: 'Military: transitional. Cavalry, bright uniforms and drill in the early span; khaki, trenches
+    and rare machine guns later; practitioners change everything anyway.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - combat
+  - mass-combat
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-13-TIMEKEEPING
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Timekeeping
+  status: live
+  kind: mandate
+  summary: 'Time: pocket watches for the middle class up, a standard Guild time spreading along wire and
+    rail, bells and the sun in the country.'
+  verbatim: 'Time: pocket watches for the middle class up, a standard Guild time spreading along wire
+    and rail, bells and the sun in the country.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-14-HEAVY_BUREAUCRACY
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Heavy Bureaucracy
+  status: live
+  kind: mandate
+  summary: 'Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the
+    Guild is a paper empire.'
+  verbatim: 'Bureaucracy: heavy. Forms, permits, stamps, registers, typewriters and carbon copies; the
+    Guild is a paper empire.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-15-LEISURE
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Leisure
+  status: live
+  kind: mandate
+  summary: 'Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner
+    exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.'
+  verbatim: 'Leisure: theatre and music hall, sport and spectacle (racing, prize-fighting, practitioner
+    exhibitions), cafes, clubs and reading rooms, pleasure gardens and fairs.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R55-16-APPARATUS_PAGES
+  pack: Era and Apparatus Law 2026-09-26
+  pack_number: null
+  section: Era and apparatus
+  title: Apparatus Pages
+  status: live
+  kind: procedure
+  summary: These answers are folded into The Apparatus of the Age and The Works and Days as settled text
+    with a regional gradient section; still no decade-by-decade table.
+  verbatim: These answers are folded into The Apparatus of the Age and The Works and Days as settled text
+    with a regional gradient section; still no decade-by-decade table.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (era and apparatus questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

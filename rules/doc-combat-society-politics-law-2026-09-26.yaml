@@ -1,0 +1,570 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat (combat, society and politics questionnaire). Each verbatim is an exact substring of its RULINGS.md entry.
+# Standalone-ruling pattern: empty source.file.
+pack: Combat, Society and Politics Law 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+rules:
+- id: R56-01-BRUTAL_LETHALITY
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Brutal Lethality
+  status: live
+  kind: mandate
+  summary: 'Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can
+    kill, often days later from infection; most fights end in the first seconds; a wounded man is out
+    of the fight.'
+  verbatim: 'Lethality among ordinary fighters is brutally real: one good cut or a ball in the gut can
+    kill, often days later from infection; most fights end in the first seconds; a wounded man is out
+    of the fight.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-02-REAL_HEALING_TIMES
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Real Healing Times
+  status: live
+  kind: mandate
+  summary: Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten
+    it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+  verbatim: Healing runs on real timelines (weeks for a cut, months for bone). Vitalia healing can shorten
+    it, but it costs the healer EU and the patient's body pays something (scar tissue, fever, hunger).
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-03-HARD_RESERVE_CLOCK
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Hard Reserve Clock
+  status: live
+  kind: mandate
+  summary: Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever
+    manages the reserve; Starvation hits mid-fight on overspend.
+  verbatim: Essence and stamina run on a hard clock by the Ledger's numbers; long fights are won by whoever
+    manages the reserve; Starvation hits mid-fight on overspend.
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - stats
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-04-DEATH_IS_PERMANENT
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Death Is Permanent
+  status: live
+  kind: mandate
+  summary: Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+  verbatim: Death is almost always permanent; the only exceptions are liches, the undead and their kind.
+  amends: []
+  supersedes: []
+  applies_to:
+  - combat
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-05-COMPANY_THEN_CROWN
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Company Then Crown
+  status: live
+  kind: mandate
+  summary: 'Crowns and chartered houses expand together: the company takes the ground, then the crown
+    claims it.'
+  verbatim: 'Crowns and chartered houses expand together: the company takes the ground, then the crown
+    claims it.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-06-THE_SCRAMBLE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: The Scramble
+  status: live
+  kind: mandate
+  summary: The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild
+    systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds),
+    and for Wells and draw, materials, markets ...
+  verbatim: The scramble is for the commercialisation of monster-hunting (hired hunting parties; guild
+    systems spread rapidly, before the full creation of the Guild Accord, which is a communion of guilds),
+    and for Wells and draw, materials, markets and labour, and routes.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-07-COMMERCE_ON_THE_PAGE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Commerce On The Page
+  status: live
+  kind: mandate
+  summary: Commerce shows on the page as branded goods and advertising, chartered share-holding companies
+    with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods
+    sold as products.
+  verbatim: Commerce shows on the page as branded goods and advertising, chartered share-holding companies
+    with exchanges, speculation and crashes, arcades and department stores, and consumer Essence goods
+    sold as products.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-08-WHO_PAYS
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Who Pays
+  status: live
+  kind: mandate
+  summary: The cost of the industrial revolution falls on displaced trades, works labour, the colonised,
+    and unions and unrest.
+  verbatim: The cost of the industrial revolution falls on displaced trades, works labour, the colonised,
+    and unions and unrest.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-09-ACCORD_FORMING_NOW
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Accord Forming Now
+  status: live
+  kind: mandate
+  summary: The Guild Accord is forming now, in the story's present.
+  verbatim: The Guild Accord is forming now, in the story's present.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-10-LICENSED_FOR_HIRE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Licensed For Hire
+  status: live
+  kind: mandate
+  summary: Anyone may practise privately, but taking pay for workings or hunts needs a guild licence;
+    unlicensed hunters are cheap and common.
+  verbatim: Anyone may practise privately, but taking pay for workings or hunts needs a guild licence;
+    unlicensed hunters are cheap and common.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-11-TRACE_EVIDENCE_AND_JURISDICTION
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Trace Evidence And Jurisdiction
+  status: live
+  kind: mandate
+  summary: A crime done with a working is proved by trace examiners reading its traces as evidence, and
+    guild courts and crown courts fight over jurisdiction.
+  verbatim: A crime done with a working is proved by trace examiners reading its traces as evidence, and
+    guild courts and crown courts fight over jurisdiction.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - adjudication
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-12-PRACTITIONERS_AT_WORK
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Practitioners At Work
+  status: live
+  kind: mandate
+  summary: Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
+  verbatim: Practitioners work as hired hunters, works inscribers, company soldiers, and in private practice.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-13-THE_GATE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: The Gate
+  status: live
+  kind: mandate
+  summary: 'Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by
+    administration: the Imperial Age is when nations lock down which kinds of people may use which magics.'
+  verbatim: 'Few people lack a Soul Crystal, commoners included, but knowledge of magic is gatekept by
+    administration: the Imperial Age is when nations lock down which kinds of people may use which magics.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-14-DORMANT_CRYSTALS
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Dormant Crystals
+  status: live
+  kind: mandate
+  summary: A common person's Crystal is dormant for life unless someone trains them.
+  verbatim: A common person's Crystal is dormant for life unless someone trains them.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - magic-mechanism
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-15-WHO_MAY_LEARN
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Who May Learn
+  status: live
+  kind: mandate
+  summary: Who may learn which magic is decided by natural ability (people are recruited to magical academies
+    and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
+  verbatim: Who may learn which magic is decided by natural ability (people are recruited to magical academies
+    and sought out by the guilds), class and birth, nation and loyalty, licence and exam, and bloodline.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-16-ENFORCEMENT
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Enforcement
+  status: live
+  kind: mandate
+  summary: The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners,
+    the Inquisition, and by the guilds, which locally hunt down those who do wrong.
+  verbatim: The lockdown is enforced by controlled texts, Crystal registration, inspectors and trace examiners,
+    the Inquisition, and by the guilds, which locally hunt down those who do wrong.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-17-LEARNING_ANYWAY
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Learning Anyway
+  status: live
+  kind: mandate
+  summary: 'Those who learn anyway: black-market teaching, self-derived workings, the guild loophole (hunting
+    guilds train their own outside the state''s gate), and harsh penalties for unlicensed high magic.'
+  verbatim: 'Those who learn anyway: black-market teaching, self-derived workings, the guild loophole
+    (hunting guilds train their own outside the state''s gate), and harsh penalties for unlicensed high
+    magic.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-18-ACCORD_FORMING_IN_CIRCLES
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Accord Forming In Circles
+  status: live
+  kind: mandate
+  summary: 'The Guild Accord''s pages read as forming in circles: the Articles and Commission framework
+    bind where a circle has signed and not yet elsewhere.'
+  verbatim: 'The Guild Accord''s pages read as forming in circles: the Articles and Commission framework
+    bind where a circle has signed and not yet elsewhere.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - documents
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-19-LAYERED_RULE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Layered Rule
+  status: live
+  kind: mandate
+  summary: 'Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade,
+    the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and
+    which layer wins differs by place.'
+  verbatim: 'Day-to-day rule is layered: a crown or house holds the land, a chartered company the trade,
+    the guilds the hunters and local policing of magic; each fights the others over jurisdiction, and
+    which layer wins differs by place.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-20-HOW_POWERS_FIGHT
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: How Powers Fight
+  status: live
+  kind: mandate
+  summary: The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs
+    distinct conflicting factions with different interests written out.
+  verbatim: The powers fight by proxy and company wars, open war, economic war and intrigue; WOTR needs
+    distinct conflicting factions with different interests written out.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-21-SUCCESSION_BY_CULTURE
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Combat, society and politics
+  title: Succession By Culture
+  status: live
+  kind: mandate
+  summary: Succession follows each culture's own law, set on its Inventory.
+  verbatim: Succession follows each culture's own law, set on its Inventory.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - standing-inventory
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (combat, society and politics questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-22-THE_NIGHT_WATCH
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Factions
+  title: The Night Watch
+  status: live
+  kind: definition
+  summary: 'The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena. It
+    is a crown office: it works alongside the guilds but answers to the state.'
+  verbatim: 'The Night Watch is a pre-Guild-Accord investigation unit on illegal magic and phenomena.
+    It is a crown office: it works alongside the guilds but answers to the state.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-23-THE_MOTHER
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Factions
+  title: The Mother
+  status: live
+  kind: definition
+  summary: Malphas runs an organization called The Mother, after the mother of vinegar, the living culture
+    that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft
+    Nine coldhouse cell is one of them.
+  verbatim: Malphas runs an organization called The Mother, after the mother of vinegar, the living culture
+    that sours everything it is added to. Its cells are cultures; recruits are inoculated. The Greyshaft
+    Nine coldhouse cell is one of them.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-24-THE_MOTHER_IS_A_CULT
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Factions
+  title: The Mother Is A Cult
+  status: live
+  kind: definition
+  summary: The Mother is a cult.
+  verbatim: The Mother is a cult.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-25-WHAT_MALPHAS_WANTS
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Factions
+  title: What Malphas Wants
+  status: live
+  kind: definition
+  summary: 'Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert
+    what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit
+    and power.'
+  verbatim: 'Malphas wants from it: to obtain the unattainable; to feed his backlog (he cannot convert
+    what he holds fast enough); to break the Gate (the state lockdown on who may learn magic); and profit
+    and power.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (Night Watch and the Mother)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R56-26-NIGHT_WATCH_SOCIETY
+  pack: Combat, Society and Politics Law 2026-09-26
+  pack_number: null
+  section: Factions
+  title: Night Watch Society
+  status: live
+  kind: definition
+  summary: 'The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds
+    a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on
+    fixed walks and a bulletin office, answers to...'
+  verbatim: 'The Night Watch Society is one body with the Night Watch: a crown-chartered society. It holds
+    a crown charter and warrant, is organised as chapters (the Timberline among them) with walkers on
+    fixed walks and a bulletin office, answers to the crown, and keeps the Night Register, which takes
+    up what the Lattice Classification Bureau (a separate office) closes. ''The Society''s warrant, not
+    the Bureau''s'' is the crown''s warrant as the Society holds it.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (C-087)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

@@ -1,0 +1,234 @@
+# Standing rulings, originated: no source document. Isaac ruled directly on 2026-09-26 in
+# Claude Code chat (follow-up questionnaire). Each verbatim is an exact substring of its RULINGS.md entry.
+# Standalone-ruling pattern: empty source.file.
+pack: Follow-up Rulings 2026-09-26
+pack_number: null
+source_file: ''
+ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+rules:
+- id: R54-01-HILD_TWELVE_AT_DEATH
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Hild Twelve At Death
+  status: live
+  kind: definition
+  summary: 'Hild''s age at death: twelve at death. She is 11 on her card''s As Of moment and turns twelve
+    before the ninth hour; ''twelve'' at her death stands everywhere.'
+  verbatim: 'Hild''s age at death: twelve at death. She is 11 on her card''s As Of moment and turns twelve
+    before the ninth hour; ''twelve'' at her death stands everywhere.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-02-DOUGOU_JOULES_FROM_COSTS
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Dougou Joules From Costs
+  status: live
+  kind: consequential_edit
+  summary: 'Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772
+    to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.'
+  verbatim: 'Dougou: re-derive his joule figures from his restored EU costs (4.752 GJ, 7.326 GJ, 2.772
+    to 8.811 GJ, B-Grade); the newton figures are dropped, since no contact distance is stated.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - stats
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-03-SANCTA_LUX
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Sancta Lux
+  status: live
+  kind: definition
+  summary: Sanctum Lux becomes Sancta Lux on every page.
+  verbatim: Sanctum Lux becomes Sancta Lux on every page.
+  amends: []
+  supersedes: []
+  applies_to:
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-04-TITLES_EXEMPT_FROM_BAN_LIST
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Titles Exempt From Ban List
+  status: live
+  kind: procedure
+  summary: 'Titles are exempt from the vocabulary ban list; the checker skips the title line (''Verinus:
+    Testament of the Sixty-Fifth'' stands).'
+  verbatim: 'Titles are exempt from the vocabulary ban list; the checker skips the title line (''Verinus:
+    Testament of the Sixty-Fifth'' stands).'
+  amends: []
+  supersedes: []
+  applies_to:
+  - verification
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-06-WELL_SPAWN_WELLS_ONLY
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Well Spawn Wells Only
+  status: live
+  kind: definition
+  summary: 'Well-spawn publishes, Wells only: the spread along city mains into towns is struck.'
+  verbatim: 'Well-spawn publishes, Wells only: the spread along city mains into towns is struck.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-07-WREN_GRIEF_FRONT
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Wren Grief Front
+  status: live
+  kind: definition
+  summary: 'Wren Greymane''s Front becomes a grief Front: the aftermath of his death, Bram and the ridge
+    carrying it, ticks driven by who blames whom.'
+  verbatim: 'Wren Greymane''s Front becomes a grief Front: the aftermath of his death, Bram and the ridge
+    carrying it, ticks driven by who blames whom.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - session-protocol
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-09-BARA_IS_A_CHARACTER
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Bara Is A Character
+  status: live
+  kind: definition
+  summary: 'Bara is a character: stripped from system pages like the others.'
+  verbatim: 'Bara is a character: stripped from system pages like the others.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - documents
+  - magic-design
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-12-AS_OF_LINE_ON_EVERY_CARD
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: As Of Line On Every Card
+  status: live
+  kind: mandate
+  summary: Every character card gets an As Of line, dated from its own Lore and Standing line.
+  verbatim: Every character card gets an As Of line, dated from its own Lore and Standing line.
+  amends: []
+  supersedes: []
+  applies_to:
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-13-BORROWED_NAME_FIXES
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Borrowed Name Fixes
+  status: live
+  kind: definition
+  summary: 'Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons),
+    Coagula Dominium, Symphonia Ascendens, Hae-jin''s hanja becomes 海鎮 (Sea-Garrison), and the gloss-only
+    fixes (Kibanda, Kafa-Karim, Hataraki no Sh...'
+  verbatim: 'Name fixes applied: Japanese long vowels (Hokai, Seijo, Joka and the Go series take macrons),
+    Coagula Dominium, Symphonia Ascendens, Hae-jin''s hanja becomes 海鎮 (Sea-Garrison), and the gloss-only
+    fixes (Kibanda, Kafa-Karim, Hataraki no Sho glosses, Dawi ''elää'').'
+  amends: []
+  supersedes: []
+  applies_to:
+  - naming
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-14-YUKARI_EYES_CRIMSON
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Yukari Eyes Crimson
+  status: live
+  kind: definition
+  summary: 'Yukari eyes: crimson. The cards win; the bloodline page''s silver-violet is corrected.'
+  verbatim: 'Yukari eyes: crimson. The cards win; the bloodline page''s silver-violet is corrected.'
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  - character-sheet
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''
+- id: R54-16-THE_WIRE_IS_A_GUILD_LINE
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: The Wire Is A Guild Line
+  status: live
+  kind: definition
+  summary: The wire is a Guild line; the Infrastructure page is corrected.
+  verbatim: The wire is a Guild line; the Infrastructure page is corrected.
+  amends: []
+  supersedes: []
+  applies_to:
+  - worldbuilding
+  verification: []
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source:
+    file: ''
+    lines: null
+  notes: ''

@@ -2065,3 +2065,13 @@ Corrections from the ruling audit: every answer Isaac gave by questionnaire (510
 - R57-28-OWN_FIELD_COUNTS_TO_SATURATION (new): A working's own Essence field counts toward saturation: a threshold is defined in volume and rate, in the new density units, and a working past it triggers the saturation consequence (Crystal Fracture Event for everyone present) like any other field.
 
 Context: Audit of RULINGS.md and rules/ against the AskUserQuestion answers in every session transcript.
+
+## 2026-09-27 — C-089-C-090-C-091
+
+The three conflicts questionnaire (C-089, C-090, C-091), Claude Code chat.
+
+1. C-089: A Path gate caps only the component it names; the rest of the Sub-Stat runs at full. A healer without Body Path heals fully but cannot reinforce. This supersedes R38-1-COMPONENT_GATES_BIND_WHOLE_SUBSTAT.
+2. C-090: 'Ozone' is free as a word for any POV; only the stock phrase 'the smell of ozone' stays on the hard-ban list.
+3. C-091: 'Numinous' keeps only its WOTR sense and comes out of the elevated word bank, which is eldritch, chthonic, tenebrous, lambent, sepulchral, incarnadine, stygian, empyreal and ineffable, used freely, by ear. This supersedes R51-12-WORD_BANK.
+
+Context: Conflicts recorded by the ruling audit.

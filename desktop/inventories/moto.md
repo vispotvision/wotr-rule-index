@@ -45,4 +45,25 @@ Body: the eyes first (ring-lines in the iris at rest, three visible in Sodoku ev
 
 **Literacy:** Universal inside the house, in the family's own hand and in the fourteen hands, where a document in the wrong hand is void rather than incorrect. The Concord hand is read as a foreign script, accurately and without love. Retainers read little, and read the house's hand not at all.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+A house that holds the offence is inaccuracy, so its heaviest words are verdicts. The house speaks in the old register: full forms, no contractions, honorifics where the old tongue is used. **The Moto never swear by a single Archon**, since addressing one alone is Singling, the principal heresy; a Moto who hears a Kharven say "Archons take it" hears nothing wrong, and a Moto who hears "Irath take it" hears heresy. They also do not petition, so there is no Moto "help me."
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| By the Fourteen. | Before all fourteen Archons at once, as the Bow is made. | firm (solemn) | The only lawful invocation in a Moto mouth; senior line members, the Kōkan, retainers taking an order |
+| Incorrect. | Wrongly read. | hard; from a senior, grave | The whole of blame, as "correct" is the whole of praise; lords to retainers, fathers to sons; one word, no heat |
+| Empty Bow. | Observance performed without the labour. | grave | Said of a man or a house that keeps the forms and does none of the work; held worse than neglect |
+| Singler. | One who elevates one Archon above the fourteen. | grave | A charge of heresy; the Kōkan say it of Sancta Lux, and of themselves when Totality starts to look like a crown |
+| Petitioner. | One who asks an Archon for something. | hard | Contempt for a beggar at the altar, and for any man who bargains where he should labour |
+| Clogged. | A house that will not let its dead leave. | hard | Said of a house that keeps its dead in portraits, relics and rehearsed grief |
+| Let him go unread. | May nobody read his name at Ice-out. | grave | A curse wishing a man's death to go unentered and unfaced; spoken by the old, rarely, and never over a body |
+| Written in the wrong hand. | A document in the wrong Archon's hand, void rather than incorrect. | hard | Said of a bastard, a false claim, a forged order, or a man who holds an office he was never read into |
+| Poet. | A swordsman who fights decoratively. | firm | Weapons masters to students; "against plate, do not behave like a poet" |
+| A snake dressed up as a Moto. | What it says. | hard | Said of a false claimant to the name |
+| Bureimono. | Rude person; insolent wretch: a person of discourtesy. | hard | A lord to an inferior who has forgotten his place; the classic feudal rebuke |
+| Kisama. | You: once honorific, long since contemptuous. | hard | A superior to an enemy or a disgraced inferior; used as a form of address, which is the insult |
+| Shiremono. | Fool, idiot, in the old form. | firm | An elder to a reckless younger man; also, grudgingly, of a man daring past sense |
+| Hikyōmono. | Coward; one who acts basely. | grave | Among the line and its retainers; to call a Moto this in front of a witness is to ask to be revoked or to fight |
+| Held by nobody. | Elar-ama: entered as a name nobody stands for. | grave | Only as a verdict after "I revoke the name Moto from you"; as an insult outside that, it is a threat |
+
 **Recurrence, two minimum per Moto scene:** the beads, reached for when no one is watching; the fourteen inclinations and the doorpost scratches; "read" as the verb for a person; the hand on the head and nothing said; "correct" as the whole of praise, and "the offence is inaccuracy" as the whole of blame.

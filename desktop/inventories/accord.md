@@ -26,4 +26,25 @@ Chartered, metered and entered. A people who did not conquer anybody and are the
 
 **Literacy:** Near-universal in the chartered cities, where the bill, the roll and the entry in ink assume it. The tally still settles between people who cannot read, in the mining towns and on the scrip. The chancery Latin is read by clerks and spoken by nobody who is not being paid to.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+Chartered, metered and entered people swear by paperwork and the Archons' days, and insult by weights and measures. The chancery Latin turns up in any educated mouth, and in a temper most of all. The Accord's calendar gives the Archon days: Auren's for the dead, Veyra's for markets, Irath's for musters, and Uurgath's, which nobody chooses on purpose.
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| Archons take it. | Let the Fourteen have it. | mild | The everyday "damn it" of the Concord, in every class |
+| Before witnesses. | Coram testibus: said in front of people who could swear to it. | mild | The everyday emphatic; "I told him, before witnesses" |
+| Uurgath's day. | The day of the Devourer of Forms, when no sane court sits. | firm | Exclamation at a disaster or a bad start; clerks, market people, soldiers |
+| Uurgath te devoret. | May Uurgath devour you. | hard | Latin curse from the educated; Division officers, advocates in a temper |
+| Urion te ponderet. | May Urion weigh you. | hard | A curse that wishes judgment on a man; Sancta Lux-leaning speakers, Measurewrights |
+| Nullum et irritum. | Null and void. | firm | Said of a man, a plan or a promise that is worth nothing; clerks and anyone who has spent time around them |
+| Salvo iure tertii. | Saving the right of a third party. | mild | Said drily of a promise with a hole in it, "yes, salvo iure tertii"; advocates, merchants |
+| Pondus falsum. | False weight. | hard | A cheat; market inspectors, merchants, the Assize courts |
+| Sine sigillo. | Without seal. | hard | Unregistered, unlawful: said of a bastard, a smuggler, an unlicensed speaker |
+| Short loaf. | A loaf under its assize weight, the commonest charge on any market roll. | firm | A small cheat; street and market speech |
+| Cased. | Looks solid, rings dull when struck. | hard | Said of a fraud; anyone who has heard the small hammer |
+| Cut his plate. | Cut off his supply for arrears. | hard | A threat or curse in main districts: may he freeze in the dark |
+| May your Echo stay in the house. | May your dead self linger after the layer-out is gone. | grave | A curse among the poor; not said in a death-house, and not said twice |
+| Blank. | No craft at all. | firm | Craftsmen of the untrained; also a snob's word for most people |
+| Bloody bastard. | What it says. | firm | Any Concord mouth; the educated say "sine sigillo" instead and think it cleaner |
+
 **Recurrence, two minimum per Accord scene:** the hum, and the moment it stops; the meter, its seal and the bill; the small hammer and the dull note of a cased weight; the nine-word wire; the roll and the entry in ink.

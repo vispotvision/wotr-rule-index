@@ -45,4 +45,24 @@ Varūn's people, made for endurance, who followed the ore into the crater walls 
 
 **Literacy:** High in the rune. Every Dawi reads a name's grade in stone from across a chamber and an angle at a glance; entering the Tally in metre is clerks' work, and a clerk is a metrician before he is anything else. Concord script is read by those who deal outward, for the wire and the second column.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+Dawi have no light oath. "Kurme" is the swearing itself, so a Dawi who says "I swear" has sworn, and they do not say it for emphasis. Their curses fall on the cask, the angle, the entry and the grade.
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| Kurnur. | Unentered: you did it and nobody will stand behind it. | hard | Any Dawi to any Dawi; the three-times form ("Kurnur. Kurnur. Kurnur.") quotes the Oath-Breakers' wall and is grave |
+| The name in the weak grade. | Torve for Torvekk: the oath-name said as broken. | grave | The worst thing one Dawi can do to another in one syllable; done on purpose only by enemies and the wall |
+| Ollu kuolee. | The brew dies. | hard | The Dawi "damn it" for real disaster, a collapsed gallery or a lost cask; Barrel Dawi will not say it within sight of a Cask-Oath barrel |
+| Nikkat ei on. | The angles are not [true]. | hard | The flat damnation of a piece of work, the Tally's "Nikkat on" turned over; clerks, rune-forgers, masters over apprentices |
+| Wrong angle. | A rune cut askew, which does nothing. | firm | Said of any failed work or failed man; "askew" for his work in general |
+| Voiced. | Said the way somebody not paying attention says it (b for p). | firm | Said of a careless speaker, and of Concord men generally |
+| Just rock. | The thing without its measurement. | firm | Said of worthless ore, a worthless plan, a man with no record |
+| The seam's out. | The ore seam is played out. | mild | Resigned exclamation, "we are done here"; miners, shift crews |
+| Varūn never said. | The god never told us which answer he meant. | mild | A shrug-oath at a question with no answer; the old, the Reach branches |
+| Cask-cracker. | One who ends a brew that holds an oath. | grave | Said of an oath-breaker; Barrel Dawi above all |
+| Piss in the brew. | Exactly that. | grave | Aimed at the one thing Dawi hold sacred; said to start a fight, or by outsiders who do not know better |
+| Will-sayer. | One who says "I will," which the tongue cannot. | firm | Said of a Concord envoy, a braggart, a young Dawi who has spent too long in Stannvaard |
+| Bare-chin. | A beard with no rings: no time served. | mild | Elders to the young, forge Dawi to outsiders |
+| Kurlo. Ei kurme. | Unbegun. Not undertaken. | hard (as a refusal) | The "no, and do not ask me for the other word" that ends a negotiation |
+
 **Recurrence, two minimum per Dawi scene:** the Tally and "entered" or "unentered"; the name and its grade; the cask and "while the brew lives"; "kurme" or "kurlo," and never *I will*; the angle-set and "the angles are true."

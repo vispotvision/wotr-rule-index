@@ -215,6 +215,27 @@ Steppe-riders who stopped riding because the land became permafrost. Food: windm
 
 **Literacy:** Almost none among the clans. A man signs with his mark before witnesses, the woodpile is counted and never written, and the Waiting keeps names in mouths rather than on paper. The readers are the Moto house, which writes its own hand and reads the Concord hand as a foreign script, and the Hallenfeld quartermasters and courier captains, who read Concord because the roads require it.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+The clans swear by the Sky and the fire, curse with the cold, and insult by scarcity: bad wood, empty saddles, cracked bowls, short stacks. The Sky is never named beyond the Sky.
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| By the sky that covers us. | An oath taken under the whole Sky. | firm (solemn) | Anyone swearing a thing true; elders at a death-house; never said lightly |
+| By the fire. | An oath on the hearth that keeps the household alive. | mild | Everyday emphasis in any household; "by the fire, I told him twice" |
+| Sky take it. | Let the Sky have it, since the Sky takes the dead. | mild | The everyday "damn it" in any mouth, riders, wives, children who think nobody is listening |
+| Wet wood. | Wood that smokes and will not catch. | hard | Said of a liar or a man who cannot be relied on; the whole proverb, "wet wood burns eventually, a liar never dries," is the formal version |
+| Empty saddle. | A saddle with nobody in it. | hard | a man who is not there when the ride goes out; riders, veterans, the banner houses' men |
+| Cracked bowl. | A bowl that cannot hold its share. | hard | one who takes the first bowl from the one who cannot fill it (breaks the proverb); women at the pot, elders |
+| Short stack. | A woodpile too small for the winter. | firm | Said of a lazy or improvident man; neighbours, the answer to "how's your stack?" given about someone else |
+| Full mouth. | All talk, since the full stack speaks louder. | firm | Said of a boaster; young men to young men, old men to young men |
+| Thin Weeks on you. | May the late-winter hunger find your house. | hard | A curse between households in a feud; not said in a lean year, when it is too close to true |
+| Qatuq take you. | Qatuq: the cold that takes the unready. | hard | Hunters and sealers; a curse that wishes a man dead the northern way, slowly and by his own mistake |
+| Kiilut. | One of the dead left without the Waiting; a corpse nobody sat with. | grave | The worst thing one Kharven can call another; old women say it and men go quiet; never shouted |
+| Hulluk. | The native word for wet wood. | hard | The same insult as "wet wood," in the older mouth; carried-name households, the Keld, sealers |
+| Numra. | An empty bowl held out; a mouth that eats and brings nothing. | firm | Said of a guest who never hunts, a relative who only arrives at meat-sharing |
+| Skin-refuser. | One who refused the skin (the fermented milk offered at the door). | grave | An accusation of contempt for a host; said once and then there is a fight |
+| Frozen piss. | Exactly that. | mild | The body-swear in its winter version; riders, soldiers on the wall |
+
 **Recurrence, two minimum per Kharven scene:** the woodpile and "how's your stack"; the night-stone; "wet wood"; the Thin Weeks; the death-house and the Waiting. Pending entry: "the third bowl" (Brida's shorthand for Class III haemorrhage).
 
 The Accord, Dawi, Moto, Eresse, Expanse, Korvaeth, Stannvaard, Nalūn, Ketsuen, Zettari and Yukari Standing Inventories live at `desktop/inventories/` in the repo (session_start and the MCP's `_inventory` load them by culture automatically; open the file directly if working without the MCP). Anything invented in play gets entered the same session, in the Inventory it belongs to. ◆ Ruled 2026-09-12 (R23-8) and applied: airag is the skin, borts is windmeat, aaruul is stonecurd, the deel is the hide-coat, and the sky-name Tengri is simply the Sky, capitalised and unnamed, as the oaths already have it. The old forms are stale in new prose.

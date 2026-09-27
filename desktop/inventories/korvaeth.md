@@ -26,4 +26,27 @@ Drow of the New World north, holding under the doctrine that the holding validat
 
 **Literacy:** High among the houses and the Under-Houses. Every head of house reads a ruled leaf, and a Reckoner reads it faster than he reads a face. The Vessel road's carters and the orchard tenants mostly do not, and for them the thumb in the wax is the signature.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+The elves swear in the common tongue and in Vey-Elarin words dropped into it. The five branches share the tongue and differ on what the worst thing is.
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| Out of season. | Done outside its appointed window. | grave | The worst Eressean insult; worse than "badly done" |
+| Lo. | Out of season, as one word. | mild as an exclamation, hard said to a person | "Lo," at a missed moment is the elven "damn it"; Drow use it for a debt past its term |
+| -ama on a name. | The name held, and nobody stood for it. | hard | Put on a name to its owner's face; Eresse and Korvaeth both |
+| Ma-ama. | Held, and nobody stood for it. | hard | Said of a usurper, a stolen thing, a child nobody witnessed; from the proverb "Ma-ama, lyth" |
+| A bare clause. | A thing said that claims nothing. | firm | Said of a speaker who will not own his words; courts and councils |
+| Held contingently. | Holding what nobody has stood for. | firm | A cold insult to an office-holder |
+| Flat-tongued. | Speaks without the pitch contours. | firm | Said of Concord speakers, who have greeted nobody |
+| Loud. | Using the singing mechanism for speech. | firm | Means drunk or blasphemous depending on the room |
+| -ak. | Outside the form: foreign. | hard | Tagged onto a name; the suffix that made "Varrisak" |
+| Be a silence in the chord. | May your name fall vacant. | grave | A curse of erasure; Eressean elders, never in a rite |
+| Sung in the wrong key. | A rite in the wrong key has not been performed. | firm | Said of botched work or a botched apology; it did not happen |
+| Unasked. | Taken without the Asking over wood, water, game or stone. | hard | Said of a thief of the land, a poacher, a road-builder; any branch, Varrisak most |
+| Transcript. | One who mistakes a filing system for a memory. | firm | Varrisak of Eresseans, and of any clerk |
+| Seral take it. | Let the winter have it. | mild | The Eladrin "damn it"; the northern courts |
+| Past nine. | A silence held past the nine-count. | grave | Eladrin; not a word at all but a silence counted past refusal into judgement; to say "past nine" of a man means he is judged |
+| Unpaid. | Worse than absent: a position, not a fact. | hard | Drow of Korvaeth; also "out of term" for a debt gone past its day |
+| By the Realmsong. | On the song Florwyn sang the kin into being with. | firm (solemn) | Elven oath-exclamation outside a court, where "Uren" (witnessed) is the formal one |
+
 **Recurrence, two minimum per Korvaeth scene:** the leaf and "I have entered it"; the salt and the drown alder; the count, whether of bells, witnesses or a held silence; "unpaid," and -ama said to a face; the witness-fee, paid or the witness was never there.

@@ -42,4 +42,23 @@ The Sovereign House of Kushara and the smiths of a line whose body is its first 
 
 **Literacy:** The court, the Pillar houses and their archives read and write: witness tablets, royal oaths, the Flood Calendar, the Obaru medical archive. The common record is carried on the body and in the forge, and every Kusharan reads a cord, a tattoo and a stack of barrels more readily than a page.
 
+**Swears, oaths and insults** (canon; the full page is *Swears, Oaths and Insults*):
+
+The Zettari swear in their own tongue. Their oaths need something older than the speaker to hear them (the Stone Witness Oath), their pride is weight and bearing, and their shame is lightness, broken cords and unmarked skin.
+| Swear | Literal meaning | Strength | Who says it |
+|---|---|---|---|
+| Jiwe limesikia. | The stone has heard. | firm (solemn) | Closes a vow as binding; any Zettari, and a Zettari who says it has sworn |
+| Kwa damu ya mababu. | By the blood of the ancestors. | firm (solemn) | The formal oath of the royal line and the Pillar houses |
+| Mababu wanaona. | The ancestors are watching. | mild | A warning to a child or a peer about to disgrace the line; also a muttered "damn it" when something goes wrong in front of elders |
+| Mzigo wa damu. | The weight of the blood. | mild | An exclamation of burden, "the weight of it"; the young of high blood, tired |
+| Hold shape. | What the Zettari presence tells the world. | mild | An oath-exclamation in the common tongue, "steady"; soldiers, forge workers |
+| Radi ikupige. | May thunder strike you. | hard | Southern and Cape speech, where the Storm Drums are; a curse between equals |
+| Mwepesi. | Light one: a person with no weight. | hard | The core Zettari insult; weightlessness is the shame of a people whose body is the first throne |
+| Kamba iliyokatika. | A cord that snapped. | grave | Said of a vow-breaker or one who shamed the line; the Cord of Becoming broken |
+| Bila shahidi. | Without a witness. | hard | A liar: a vow nobody older than the speaker heard |
+| Mchanga mtupu. | Bare sand. | firm | A worthless promise: Agano sand with no claim spoken over the quench; forge people |
+| Mjinga. | Fool. | firm | The ordinary insult, any rank |
+| Clean skin. | No ink: no thresholds survived. | firm | Said of the untested young or a soft outsider |
+| Kneeler. | One who kneels to pressure. | hard | Said of a man who gives way under Crown-Blood Pressure, or who takes orders from anyone heavier |
+
 **Recurrence, two minimum per Zettari scene:** the quench-barrel; the tally-stick; "who has your fire"; "cold" as the standing insult; hands read like a record.

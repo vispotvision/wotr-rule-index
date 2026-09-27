@@ -17,14 +17,14 @@ rules:
     before the ninth hour; ''twelve'' at her death stands everywhere.'
   verbatim: 'Hild''s age at death: twelve at death. She is 11 on her card''s As Of moment and turns twelve
     before the ninth hour; ''twelve'' at her death stands everywhere.'
-  amends: []
-  supersedes: []
+  amends: &id001 []
+  supersedes: &id002 []
   applies_to:
   - worldbuilding
   - character-sheet
-  verification: []
+  verification: &id003 []
   ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
-  source:
+  source: &id004
     file: ''
     lines: null
   notes: ''
@@ -90,6 +90,29 @@ rules:
     file: ''
     lines: null
   notes: ''
+- id: R58-05-SWEARS_AND_SENSE_BANKS_APPROVED
+  pack: Follow-up Rulings 2026-09-26
+  pack_number: null
+  section: Follow-up answers
+  title: Swears And Sense Banks Approved
+  status: live
+  kind: definition
+  summary: The WOTR swears, sense banks, culture inventories, price table and narration registers are
+    approved and canon; completes R51-35's draft-for-approval step.
+  verbatim: 'Approved to publish: the price table, the culture inventories (five new sheets plus Gone
+    lists, folk beliefs and literacy for the seven existing cultures), the swears and sense banks, and
+    the Moto, Bram Greymane and Lorn Stark narration registers.'
+  amends: *id001
+  supersedes: *id002
+  applies_to:
+  - dialogue
+  - register
+  - standing-inventory
+  verification: *id003
+  ratified: 'Isaac, 2026-09-26, Claude Code chat: ruled directly (follow-up questionnaire)'
+  source: *id004
+  notes: Each culture's swears sit on its Standing Inventory (Kharven in NATALIE.md) and on the page Swears,
+    Oaths and Insults.
 - id: R58-06-WELL_SPAWN_WELLS_ONLY
   pack: Follow-up Rulings 2026-09-26
   pack_number: null

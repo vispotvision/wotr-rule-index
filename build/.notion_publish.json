@@ -869,5 +869,10 @@
     "page_id": "3e858200-eb22-81c9-b7ca-c95d8978675e",
     "title": "Xanelor: Dallae",
     "hash": "2c4dc66cf7fc3a01"
+  },
+  "scenes/geturo_whos_next.md": {
+    "page_id": "3e858200-eb22-81be-8635-decca923a746",
+    "title": "Geturo: Who's Next",
+    "hash": "e2111267f9d0dc52"
   }
 }

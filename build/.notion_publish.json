@@ -844,5 +844,10 @@
     "page_id": "3e858200-eb22-8174-b94a-dbe72162f31d",
     "title": "Rovhen — The Dispensary",
     "hash": "aef92ce79b902d46"
+  },
+  "scenes/rovhen_the_first_lecture.md": {
+    "page_id": "3e858200-eb22-81f2-aa3f-f2b6a7a16206",
+    "title": "Rovhen — The First Lecture",
+    "hash": "75cd74728d3c18bd"
   }
 }

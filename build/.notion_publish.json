@@ -904,5 +904,10 @@
     "page_id": "3e858200-eb22-81b4-a9ce-e0732e724ff9",
     "title": "Geturo: Constrictor",
     "hash": "a1aa5d89a6c26691"
+  },
+  "scenes/geturo_the_host_line.md": {
+    "page_id": "3e858200-eb22-8133-b90f-da4567cb17d9",
+    "title": "Geturo: The Host Line",
+    "hash": "77d938c8d40a3663"
   }
 }

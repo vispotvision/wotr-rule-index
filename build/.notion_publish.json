@@ -914,5 +914,10 @@
     "page_id": "3e858200-eb22-8161-bdfa-cdd4126d1ce6",
     "title": "Geturo: Gypsum",
     "hash": "44ded9e1cd4a8bba"
+  },
+  "scenes/aftermath_hold_the_wall.md": {
+    "page_id": "3e858200-eb22-8157-9caa-cf7d92b30c0b",
+    "title": "Aftermath: Hold the Wall",
+    "hash": "8f877e81d6645535"
   }
 }
